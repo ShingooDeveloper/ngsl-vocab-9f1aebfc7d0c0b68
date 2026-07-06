@@ -1,0 +1,3540 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>NGSL 英単語帳 — 目次</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.idxhero{padding:24px 0 4px}.idxhero h1{font-size:1.5rem;margin:0 0 6px}.idxhero p{color:var(--sub);margin:0;font-size:.88rem}
+.controls{position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:10;border-bottom:1px solid var(--line);margin-bottom:6px}
+.controls input.search{width:100%;font:inherit;font-size:1rem;padding:9px 13px;border:1.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+.ctlrow{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:8px}
+.ctlgroup{display:flex;align-items:center;gap:4px;font-size:.8rem;color:var(--sub)}
+.seg{display:inline-flex;border:1.5px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{font:inherit;font-size:.78rem;font-weight:700;padding:3px 10px;border:0;background:transparent;color:var(--sub);cursor:pointer}
+.seg button.on{background:var(--accent);color:#fff}
+.chip{font:inherit;font-size:.75rem;font-weight:700;padding:2px 9px;border-radius:999px;border:1.5px solid var(--line);background:transparent;color:var(--sub);cursor:pointer}
+.chip.on{border-color:var(--accent);color:var(--accent);background:var(--chip-bg)}
+.chip.star.on{border-color:#eab308;color:#a16207;background:#fef9c3}
+.chip.done.on{border-color:#059669;color:#059669;background:#d1fae5}
+.count{font-size:.8rem;color:var(--sub);margin-top:6px}
+ul.toclist{list-style:none;margin:0;padding:0}
+.tocitem{border-bottom:1px solid var(--line)}
+.tocitem.hide{display:none}
+.tocrow{display:flex;align-items:center;gap:8px;padding:9px 4px}
+.tocrow .mk{flex:none;width:24px;height:24px;border-radius:6px;border:1.5px solid var(--line);background:transparent;cursor:pointer;font-size:.8rem;line-height:1;color:var(--sub)}
+.tocrow .mk.done{border-color:#059669;color:#059669}.tocrow .mk.done.on{background:#059669;color:#fff}
+.tocrow .mk.star.on{border-color:#eab308;color:#eab308}
+.tocrow .expander{flex:none;width:24px;height:24px;border-radius:6px;border:1.5px solid var(--wc,#2563eb);color:var(--wc,#2563eb);background:transparent;cursor:pointer;font-size:.68rem;line-height:1}
+.tocrow .expander.open{background:var(--wc,#2563eb);color:#fff}
+.tocrank{flex:none;font-size:.7rem;color:var(--sub);width:2.6em;text-align:right;font-variant-numeric:tabular-nums}
+.tocword{font-weight:700;font-size:1.12rem;color:var(--ink);text-decoration:none;border-bottom:2px solid transparent}
+.tocword:hover{border-color:var(--wc,#2563eb)}
+.tocpos{font-size:.7rem;font-weight:700;color:#fff;background:var(--wc,#2563eb);padding:2px 8px;border-radius:999px;flex:none}
+.toclvl{font-size:.7rem;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:1px 7px;flex:none}
+.tocgloss{color:var(--sub);font-size:.88rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
+.inlinebox{overflow:hidden}
+@media(max-width:560px){.tocgloss{display:none}.tocrank{display:none}}</style>
+</head>
+<body>
+<div class="wrap">
+<header class="idxhero">
+<h1>NGSL 英単語帳 <span style="font-weight:400;color:var(--sub);font-size:.7em">目次（サンプル261語）</span></h1>
+<p>単語をクリックするとその語のページを開きます（各ページ上部の「← 目次にもどる」で戻れます）。✓＝覚えた／★＝ブックマーク（ブラウザに保存）。</p>
+</header>
+<div class="controls">
+<input class="search" id="q" type="search" placeholder="単語・日本語の意味で検索…" autocomplete="off">
+<div class="ctlrow">
+  <span class="ctlgroup">並び:
+    <span class="seg" id="sortseg">
+      <button data-sort="rank" class="on">頻度</button><button data-sort="az">A-Z</button><button data-sort="level">レベル</button>
+    </span>
+  </span>
+  <span class="ctlgroup">品詞:
+    <button class="chip f-pos" data-pos="名詞">名詞</button><button class="chip f-pos" data-pos="動詞">動詞</button><button class="chip f-pos" data-pos="形容詞">形容詞</button><button class="chip f-pos" data-pos="副詞">副詞</button><button class="chip f-pos" data-pos="前置詞">前置詞</button><button class="chip f-pos" data-pos="接続詞">接続詞</button><button class="chip f-pos" data-pos="代名詞">代名詞</button><button class="chip f-pos" data-pos="限定詞">限定詞</button><button class="chip f-pos" data-pos="冠詞">冠詞</button><button class="chip f-pos" data-pos="数詞">数詞</button><button class="chip f-pos" data-pos="間投詞">間投詞</button><button class="chip f-pos" data-pos="助動詞">助動詞</button>
+  </span>
+  <span class="ctlgroup">レベル:
+    <button class="chip f-lvl" data-lvl="A1">A1</button><button class="chip f-lvl" data-lvl="A2">A2</button><button class="chip f-lvl" data-lvl="B1">B1</button>
+  </span>
+  <button class="chip star" id="onlyStar">★のみ</button>
+  <button class="chip done" id="onlyTodo">未学習のみ</button>
+  <span class="ctlgroup">進捗:
+    <button class="chip" onclick="exportProgress()" title="覚えた・★をファイルに保存">書き出し</button>
+    <label class="chip" style="cursor:pointer" title="保存したファイルを読み込む">読込<input type="file" accept="application/json,.json" style="display:none" onchange="importProgress(this)"></label>
+  </span>
+</div>
+<div class="count" id="count"></div>
+<div id="storenote" style="color:#b45309;font-size:.75rem;margin-top:4px"></div>
+</div>
+<ul class="toclist" id="list">
+<li class="tocitem" data-word="a" data-gloss="1つの、ある～ 1つの、ひとつの ～につき、～ごとに ～というものは ある～、～のような人・作品" data-pos="冠詞" data-level="A1" data-rank="5">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('a',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('a',this)">★</button>
+    
+    <span class="tocrank">#5</span>
+    <a class="tocword" href="w/a.html">a</a>
+    <span class="tocpos">冠詞 (article)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">1つの、ある～</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="about" data-gloss="～について、～に関して ～のあちこちを、～中を 約、およそ あたりに、そこら中に 今にも～するところで、まさに～しようとして" data-pos="副詞 前置詞" data-level="A1" data-rank="36">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('about',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('about',this)">★</button>
+    
+    <span class="tocrank">#36</span>
+    <a class="tocword" href="w/about.html">about</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～について、～に関して</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="after" data-gloss="〜の後に、〜より後で 〜を求めて、〜を追って 〜にちなんで 〜した後に、〜してから その後、後で" data-pos="副詞 前置詞 接続詞" data-level="A1" data-rank="83">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('after',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('after',this)">★</button>
+    
+    <span class="tocrank">#83</span>
+    <a class="tocword" href="w/after.html">after</a>
+    <span class="tocpos">前置詞・接続詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜の後に、〜より後で</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="again" data-gloss="もう一度、再び 戻って、再び とはいえ、一方で" data-pos="副詞" data-level="A1" data-rank="174">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('again',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('again',this)">★</button>
+    
+    <span class="tocrank">#174</span>
+    <a class="tocword" href="w/again.html">again</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">もう一度、再び</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="against" data-gloss="～に反対して、～に逆らって ～にもたれて、～に押し付けて ～から守るために、～に備えて ～を相手に、～と対戦して ～と比べて、～に照らして ～にぶつかって、～に当たって" data-pos="前置詞" data-level="" data-rank="223">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('against',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('against',this)">★</button>
+    
+    <span class="tocrank">#223</span>
+    <a class="tocword" href="w/against.html">against</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    
+    <span class="tocgloss">～に反対して、～に逆らって</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="all" data-gloss="全部の、すべての ～中ずっと、～のあいだじゅう すべて、全部、全員 それだけ、それが全部 すっかり、まったく、完全に" data-pos="名詞 副詞 代名詞 限定詞" data-level="A1" data-rank="32">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('all',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('all',this)">★</button>
+    
+    <span class="tocrank">#32</span>
+    <a class="tocword" href="w/all.html">all</a>
+    <span class="tocpos">限定詞・代名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">全部の、すべての</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="also" data-gloss="〜も、また そのうえ、さらに 「AだけでなくBも」と対比を強調して追加する" data-pos="副詞" data-level="A1" data-rank="71">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('also',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('also',this)">★</button>
+    
+    <span class="tocrank">#71</span>
+    <a class="tocword" href="w/also.html">also</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜も、また</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="always" data-gloss="いつも、常に いつも〜してばかりいる いつでも〜という手がある、〜すればいい" data-pos="副詞" data-level="A1" data-rank="182">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('always',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('always',this)">★</button>
+    
+    <span class="tocrank">#182</span>
+    <a class="tocword" href="w/always.html">always</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">いつも、常に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="and" data-gloss="〜と…、そして それから、その後 そうすれば ますます、何度も 〜しに" data-pos="接続詞" data-level="A1" data-rank="2">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('and',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('and',this)">★</button>
+    
+    <span class="tocrank">#2</span>
+    <a class="tocword" href="w/and.html">and</a>
+    <span class="tocpos">接続詞 (conjunction)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜と…、そして</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="another" data-gloss="もう1つの、もう1人の 別の、他の もう1つ、別の1つ" data-pos="名詞 代名詞 限定詞" data-level="A1" data-rank="139">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('another',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('another',this)">★</button>
+    
+    <span class="tocrank">#139</span>
+    <a class="tocword" href="w/another.html">another</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">もう1つの、もう1人の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="any" data-gloss="いくらかの、何らかの どの〜でも、いずれの〜も 1つも〜ない、少しも〜ない どれでも、いくらか、少しも 少しも、これ以上" data-pos="名詞 副詞 代名詞 限定詞" data-level="A1" data-rank="82">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('any',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('any',this)">★</button>
+    
+    <span class="tocrank">#82</span>
+    <a class="tocword" href="w/any.html">any</a>
+    <span class="tocpos">限定詞・代名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">いくらかの、何らかの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="area" data-gloss="地域、地方、一帯 分野、領域 区画、スペース 面積 点、事柄" data-pos="名詞" data-level="A2" data-rank="203">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('area',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('area',this)">★</button>
+    
+    <span class="tocrank">#203</span>
+    <a class="tocword" href="w/area.html">area</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">地域、地方、一帯</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="around" data-gloss="～の周りに、～を囲んで ～のあちこちを、～中を ～の近くに、そのあたりに あちこちに、そこら中で 約、およそ 逆に、反対方向に" data-pos="副詞 前置詞" data-level="A1" data-rank="169">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('around',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('around',this)">★</button>
+    
+    <span class="tocrank">#169</span>
+    <a class="tocword" href="w/around.html">around</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の周りに、～を囲んで</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="as" data-gloss="～するとき、～しながら ～なので、～だから ～のとおりに、～のように ～につれて ～として …と同じくらい～、同等に" data-pos="副詞 前置詞 接続詞" data-level="" data-rank="21">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('as',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('as',this)">★</button>
+    
+    <span class="tocrank">#21</span>
+    <a class="tocword" href="w/as.html">as</a>
+    <span class="tocpos">接続詞・前置詞・副詞</span>
+    
+    <span class="tocgloss">～するとき、～しながら</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="ask" data-gloss="尋ねる、質問する 頼む、依頼する 誘う、招待する 要求する、言い値をつける" data-pos="動詞" data-level="A1" data-rank="133">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('ask',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('ask',this)">★</button>
+    
+    <span class="tocrank">#133</span>
+    <a class="tocword" href="w/ask.html">ask</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">尋ねる、質問する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="at" data-gloss="～で、～に ～に ～中で、～において ～を、～に向けて ～で ～において、～に" data-pos="前置詞" data-level="A1" data-rank="22">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('at',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('at',this)">★</button>
+    
+    <span class="tocrank">#22</span>
+    <a class="tocword" href="w/at.html">at</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～で、～に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="away" data-gloss="(今いる場所や人から)離れて、去って (だんだん)なくなって、消え去って (時間・距離が)先で、~の隔たりで 不在の、留守で (スポーツで)アウェーの、敵地開催の" data-pos="形容詞 副詞" data-level="" data-rank="233">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('away',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('away',this)">★</button>
+    
+    <span class="tocrank">#233</span>
+    <a class="tocword" href="w/away.html">away</a>
+    <span class="tocpos">副詞・形容詞</span>
+    
+    <span class="tocgloss">(今いる場所や人から)離れて、去って</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="back" data-gloss="戻って、元の場所・状態へ さかのぼって、以前に 背中、背 背面、後部、裏 後退させる、バックする 支持する、資金援助する 後ろの、裏の、奥の" data-pos="名詞 動詞 形容詞 副詞" data-level="A1" data-rank="93">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('back',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('back',this)">★</button>
+    
+    <span class="tocrank">#93</span>
+    <a class="tocword" href="w/back.html">back</a>
+    <span class="tocpos">副詞・名詞・動詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">戻って、元の場所・状態へ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="be" data-gloss="ある、～だ いる、ある 進行形をつくる 受動態をつくる 予定・命令・義務を表す" data-pos="動詞 助動詞" data-level="A1" data-rank="1">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('be',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('be',this)">★</button>
+    
+    <span class="tocrank">#1</span>
+    <a class="tocword" href="w/be.html">be</a>
+    <span class="tocpos">動詞・助動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">ある、～だ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="because" data-gloss="〜だから、〜なので 〜だからといって…というわけではない 〜だからではなく…だから" data-pos="接続詞" data-level="A1" data-rank="61">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('because',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('because',this)">★</button>
+    
+    <span class="tocrank">#61</span>
+    <a class="tocword" href="w/because.html">because</a>
+    <span class="tocpos">接続詞 (conjunction)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜だから、〜なので</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="become" data-gloss="なる ～という状態に変化する ～はどうなるか、～の身に何が起きたか" data-pos="動詞" data-level="A1" data-rank="140">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('become',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('become',this)">★</button>
+    
+    <span class="tocrank">#140</span>
+    <a class="tocword" href="w/become.html">become</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">なる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="before" data-gloss="〜の前に 〜より前に、〜に先立って 〜する前に 以前に、これまでに" data-pos="副詞 前置詞 接続詞" data-level="A1" data-rank="105">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('before',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('before',this)">★</button>
+    
+    <span class="tocrank">#105</span>
+    <a class="tocword" href="w/before.html">before</a>
+    <span class="tocpos">前置詞・接続詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜の前に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="begin" data-gloss="始める、開始する 始まる begin to do／begin doing で「～し始める」 to begin with で「まず第一に、そもそも」" data-pos="動詞" data-level="A1" data-rank="188">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('begin',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('begin',this)">★</button>
+    
+    <span class="tocrank">#188</span>
+    <a class="tocword" href="w/begin.html">begin</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">始める、開始する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="believe" data-gloss="真実だと思う、考える 信じる、信用する believe in ~ の形で信じる、信仰する" data-pos="動詞" data-level="" data-rank="224">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('believe',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('believe',this)">★</button>
+    
+    <span class="tocrank">#224</span>
+    <a class="tocword" href="w/believe.html">believe</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">真実だと思う、考える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="between" data-gloss="2つのもの・場所の間に ～から～までの間に ～の間で、～のうちどちらか ～同士の、～間の ～で分けて、～で分担して" data-pos="前置詞" data-level="A1" data-rank="115">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('between',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('between',this)">★</button>
+    
+    <span class="tocrank">#115</span>
+    <a class="tocword" href="w/between.html">between</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">2つのもの・場所の間に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="big" data-gloss="(サイズが)大きい、大きな (程度・重要性が)大きな、重大な (数量・変化が)大幅な、著しい (きょうだいで)年上の、上の (口語)人気の、大成功している (計画・考えなどが)壮大な、意欲的な" data-pos="形容詞" data-level="A1" data-rank="183">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('big',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('big',this)">★</button>
+    
+    <span class="tocrank">#183</span>
+    <a class="tocword" href="w/big.html">big</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(サイズが)大きい、大きな</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="book" data-gloss="本、書籍 ～の束、冊子 予約する 記録する、検挙する" data-pos="名詞 動詞" data-level="A1" data-rank="170">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('book',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('book',this)">★</button>
+    
+    <span class="tocrank">#170</span>
+    <a class="tocword" href="w/book.html">book</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">本、書籍</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="both" data-gloss="両方の、双方の 両方の～、その2つの～ 両方とも、双方とも AもBも、両方とも" data-pos="名詞 副詞 代名詞 限定詞" data-level="A1" data-rank="127">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('both',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('both',this)">★</button>
+    
+    <span class="tocrank">#127</span>
+    <a class="tocword" href="w/both.html">both</a>
+    <span class="tocpos">限定詞・代名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">両方の、双方の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="bring" data-gloss="持ってくる、連れてくる bring + 人 + 物 の形で「にを持ってくる」 もたらす、引き起こす 呼び起こす、思い出させる" data-pos="動詞" data-level="A1" data-rank="195">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('bring',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('bring',this)">★</button>
+    
+    <span class="tocrank">#195</span>
+    <a class="tocword" href="w/bring.html">bring</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">持ってくる、連れてくる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="build" data-gloss="建てる、建設する 築く、育てる 徐々に高まる、増大する 体格、体つき" data-pos="名詞 動詞" data-level="" data-rank="220">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('build',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('build',this)">★</button>
+    
+    <span class="tocrank">#220</span>
+    <a class="tocword" href="w/build.html">build</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">建てる、建設する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="business" data-gloss="商売、事業、ビジネス全般 会社、店、個々の事業体 用件、仕事上の用事 (自分に)関係のあること、干渉すべきでない領域" data-pos="名詞" data-level="A2" data-rank="210">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('business',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('business',this)">★</button>
+    
+    <span class="tocrank">#210</span>
+    <a class="tocword" href="w/business.html">business</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">商売、事業、ビジネス全般</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="but" data-gloss="しかし、だが、けれども でも、ただ そのうえ、さらに ～を除いて、～しかを伴い except に近い意味を表す） 文句、異論" data-pos="名詞 前置詞 接続詞" data-level="A1" data-rank="24">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('but',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('but',this)">★</button>
+    
+    <span class="tocrank">#24</span>
+    <a class="tocword" href="w/but.html">but</a>
+    <span class="tocpos">接続詞・前置詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">しかし、だが、けれども</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="buy" data-gloss="買う、購入する buy + 人 + 物 の形で「にを買ってあげる」 稼ぐ、得る 信じる、真に受ける" data-pos="動詞" data-level="" data-rank="241">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('buy',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('buy',this)">★</button>
+    
+    <span class="tocrank">#241</span>
+    <a class="tocword" href="w/buy.html">buy</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">買う、購入する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="by" data-gloss="～のそばに、～の近くに ～によって ～によって、～することで ～までに ～ずつ、～の差で そばを、立ち寄って" data-pos="副詞 前置詞" data-level="A1" data-rank="26">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('by',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('by',this)">★</button>
+    
+    <span class="tocrank">#26</span>
+    <a class="tocword" href="w/by.html">by</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～のそばに、～の近くに</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="call" data-gloss="(大声で)呼ぶ、呼びかける 電話をかける (人・物を)～と呼ぶ、名付ける (会議・選挙などを)招集する、呼びかける 電話 叫び声、(動物の)鳴き声 (緊迫した場面での)判断、決定" data-pos="名詞 動詞" data-level="A1" data-rank="104">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('call',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('call',this)">★</button>
+    
+    <span class="tocrank">#104</span>
+    <a class="tocword" href="w/call.html">call</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(大声で)呼ぶ、呼びかける</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="can" data-gloss="〜できる 〜してもよい 〜することがある cannot/can't：〜のはずがない 缶、缶詰 缶詰にする" data-pos="名詞 動詞 助動詞" data-level="A1" data-rank="37">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('can',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('can',this)">★</button>
+    
+    <span class="tocrank">#37</span>
+    <a class="tocword" href="w/can.html">can</a>
+    <span class="tocpos">助動詞・名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜できる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="car" data-gloss="自動車、車 車両、かご" data-pos="名詞" data-level="" data-rank="259">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('car',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('car',this)">★</button>
+    
+    <span class="tocrank">#259</span>
+    <a class="tocword" href="w/car.html">car</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">自動車、車</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="case" data-gloss="場合、状況 実情、事実、真相 事件、訴訟 症例、患者 容器、ケース、入れ物；ひと箱分の量" data-pos="名詞" data-level="A2" data-rank="167">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('case',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('case',this)">★</button>
+    
+    <span class="tocrank">#167</span>
+    <a class="tocword" href="w/case.html">case</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">場合、状況</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="change" data-gloss="変わる、変化する ～を変える、変更する 乗り換える 着替える、着替える 両替する 変化、変更 小銭、お釣り" data-pos="名詞 動詞" data-level="A1" data-rank="112">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('change',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('change',this)">★</button>
+    
+    <span class="tocrank">#112</span>
+    <a class="tocword" href="w/change.html">change</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">変わる、変化する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="child" data-gloss="子供、児童 我が子、息子・娘 子供のころ、幼少期に ～の産物、申し子" data-pos="名詞" data-level="A1" data-rank="101">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('child',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('child',this)">★</button>
+    
+    <span class="tocrank">#101</span>
+    <a class="tocword" href="w/child.html">child</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">子供、児童</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="close" data-gloss="閉める、閉じる 閉店する、営業を終える 縮める、詰める 近い 親密な、親しい 僅差の、接戦の すぐ近くに、接近して" data-pos="動詞 形容詞 副詞" data-level="" data-rank="238">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('close',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('close',this)">★</button>
+    
+    <span class="tocrank">#238</span>
+    <a class="tocword" href="w/close.html">close</a>
+    <span class="tocpos">動詞・形容詞・副詞</span>
+    
+    <span class="tocgloss">閉める、閉じる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="come" data-gloss="(～の出身である、～に由来する) (場所に)入って来る、やって来る (季節・出来事などが)やってくる、訪れる (話し手のもとへ)来る：命令文でよく使う (方向を表す副詞の後で主語と倒置し)近づいて来る (ある状態・結果に)なる、実現する" data-pos="動詞" data-level="A1" data-rank="64">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('come',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('come',this)">★</button>
+    
+    <span class="tocrank">#64</span>
+    <a class="tocword" href="w/come.html">come</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(～の出身である、～に由来する)</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="company" data-gloss="会社、企業 (人と)一緒にいること、同席、付き添い 客、来客" data-pos="名詞" data-level="A2" data-rank="106">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('company',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('company',this)">★</button>
+    
+    <span class="tocrank">#106</span>
+    <a class="tocword" href="w/company.html">company</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">会社、企業</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="cost" data-gloss="費用、経費、コスト 犠牲、代償 かかる、～である ～を失わせる、犠牲にさせる 費用を見積もる、原価計算する" data-pos="名詞 動詞" data-level="" data-rank="251">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('cost',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('cost',this)">★</button>
+    
+    <span class="tocrank">#251</span>
+    <a class="tocword" href="w/cost.html">cost</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">費用、経費、コスト</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="could" data-gloss="〜できた 〜できるだろう 〜していただけますか 〜してもよろしいですか 〜かもしれない 〜することもできたのに" data-pos="動詞 助動詞" data-level="A2" data-rank="65">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('could',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('could',this)">★</button>
+    
+    <span class="tocrank">#65</span>
+    <a class="tocword" href="w/could.html">could</a>
+    <span class="tocpos">助動詞 (modal verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">〜できた</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="country" data-gloss="国、国家 祖国、自国 田舎、地方" data-pos="名詞" data-level="A1" data-rank="142">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('country',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('country',this)">★</button>
+    
+    <span class="tocrank">#142</span>
+    <a class="tocword" href="w/country.html">country</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">国、国家</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="course" data-gloss="(学校・大学などの)課程、コース、講座 (コース料理の)一品、~品目 進路、方向、成り行き (競技用の)コース (血液・感情などが)勢いよく流れる、駆け巡る" data-pos="名詞 動詞" data-level="A2" data-rank="163">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('course',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('course',this)">★</button>
+    
+    <span class="tocrank">#163</span>
+    <a class="tocword" href="w/course.html">course</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">(学校・大学などの)課程、コース、講座</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="day" data-gloss="日、一日 特定の1日 1日、勤務日 特別な日、記念日 時代、時期" data-pos="名詞" data-level="A1" data-rank="84">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('day',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('day',this)">★</button>
+    
+    <span class="tocrank">#84</span>
+    <a class="tocword" href="w/day.html">day</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">日、一日</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="different" data-gloss="違う、異なる さまざまな、いろいろな 変わった、一風変わった" data-pos="形容詞" data-level="A1" data-rank="148">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('different',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('different',this)">★</button>
+    
+    <span class="tocrank">#148</span>
+    <a class="tocword" href="w/different.html">different</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">違う、異なる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="do" data-gloss="する、行う いく、～である 〔代動詞〕同じ動詞の繰り返しを避けて使う do/does/did：一般動詞の疑問文・否定文をつくる do：一般動詞の前に置いて強調する" data-pos="動詞 助動詞" data-level="A1" data-rank="20">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('do',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('do',this)">★</button>
+    
+    <span class="tocrank">#20</span>
+    <a class="tocword" href="w/do.html">do</a>
+    <span class="tocpos">動詞・助動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">する、行う</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="down" data-gloss="下へ、下の方に 下がって、低くなって 書き留めて 静まって、落ち着いて ～を下って、～の下の方へ ～に沿って先に、～の少し先に 落ち込んで、元気がなくて 停止して、動かなくなって 飲み干す、平らげる" data-pos="動詞 形容詞 副詞 前置詞" data-level="A1" data-rank="108">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('down',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('down',this)">★</button>
+    
+    <span class="tocrank">#108</span>
+    <a class="tocword" href="w/down.html">down</a>
+    <span class="tocpos">副詞・前置詞・形容詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">下へ、下の方に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="during" data-gloss="～の間 ～の間に" data-pos="前置詞" data-level="A2" data-rank="181">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('during',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('during',this)">★</button>
+    
+    <span class="tocrank">#181</span>
+    <a class="tocword" href="w/during.html">during</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">～の間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="each" data-gloss="それぞれの、各〜 それぞれ、各自 1つにつき、それぞれに" data-pos="名詞 副詞 代名詞 限定詞" data-level="A1" data-rank="144">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('each',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('each',this)">★</button>
+    
+    <span class="tocrank">#144</span>
+    <a class="tocword" href="w/each.html">each</a>
+    <span class="tocpos">限定詞・代名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">それぞれの、各〜</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="early" data-gloss="通常より早い、早めの 初期の、初頭の 早期の 早く、早めに 早い時期に、早々と" data-pos="形容詞 副詞" data-level="A1" data-rank="196">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('early',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('early',this)">★</button>
+    
+    <span class="tocrank">#196</span>
+    <a class="tocword" href="w/early.html">early</a>
+    <span class="tocpos">形容詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">通常より早い、早めの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="end" data-gloss="終わり、最後 端、先端 目的、狙い 終わる、終わりになる 終わらせる、やめさせる" data-pos="名詞 動詞" data-level="A1" data-rank="151">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('end',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('end',this)">★</button>
+    
+    <span class="tocrank">#151</span>
+    <a class="tocword" href="w/end.html">end</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">終わり、最後</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="even" data-gloss="～でさえ、～すら さらに、いっそう 平らな、水平な 偶数の 均等にする、ならす" data-pos="動詞 形容詞 副詞" data-level="A2" data-rank="95">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('even',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('even',this)">★</button>
+    
+    <span class="tocrank">#95</span>
+    <a class="tocword" href="w/even.html">even</a>
+    <span class="tocpos">副詞・形容詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">～でさえ、～すら</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="every" data-gloss="あらゆる、すべての〜 〜ごとに、〜おきに" data-pos="限定詞" data-level="A1" data-rank="179">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('every',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('every',this)">★</button>
+    
+    <span class="tocrank">#179</span>
+    <a class="tocword" href="w/every.html">every</a>
+    <span class="tocpos">限定詞 (determiner)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">あらゆる、すべての〜</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="example" data-gloss="例、実例 手本、模範 練習問題、例題" data-pos="名詞" data-level="" data-rank="234">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('example',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('example',this)">★</button>
+    
+    <span class="tocrank">#234</span>
+    <a class="tocword" href="w/example.html">example</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">例、実例</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="face" data-gloss="顔、顔つき 面、表面 向く、面する 直面する、立ち向かう" data-pos="名詞 動詞" data-level="" data-rank="248">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('face',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('face',this)">★</button>
+    
+    <span class="tocrank">#248</span>
+    <a class="tocword" href="w/face.html">face</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">顔、顔つき</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="fact" data-gloss="事実、実際に起こったこと ～という事実 事実関係、詳細な情報、データ 実のところ、実際は" data-pos="名詞" data-level="A2" data-rank="201">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('fact',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('fact',this)">★</button>
+    
+    <span class="tocrank">#201</span>
+    <a class="tocword" href="w/fact.html">fact</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">事実、実際に起こったこと</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="family" data-gloss="家族、家庭 科、系統・グループ" data-pos="名詞" data-level="A1" data-rank="171">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('family',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('family',this)">★</button>
+    
+    <span class="tocrank">#171</span>
+    <a class="tocword" href="w/family.html">family</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">家族、家庭</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="far" data-gloss="遠くに、遠くまで はるかに、ずっと 遠い、遠方の 向こう側の、奥の" data-pos="形容詞 副詞" data-level="" data-rank="244">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('far',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('far',this)">★</button>
+    
+    <span class="tocrank">#244</span>
+    <a class="tocword" href="w/far.html">far</a>
+    <span class="tocpos">副詞・形容詞</span>
+    
+    <span class="tocgloss">遠くに、遠くまで</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="feel" data-gloss="感じる、覚える ～のように感じられる、～な手触りがする 触る、触れて確かめる ～したい気分だ、～のような気がする ～に同情する、気の毒に思う 自覚する、感じる 手ざわり、感触；雰囲気、感じ" data-pos="名詞 動詞" data-level="A1" data-rank="116">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('feel',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('feel',this)">★</button>
+    
+    <span class="tocrank">#116</span>
+    <a class="tocword" href="w/feel.html">feel</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">感じる、覚える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="few" data-gloss="少ない、ほとんどない 少しの、いくつかの 少数" data-pos="名詞 代名詞 限定詞" data-level="A2" data-rank="194">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('few',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('few',this)">★</button>
+    
+    <span class="tocrank">#194</span>
+    <a class="tocword" href="w/few.html">few</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">少ない、ほとんどない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="find" data-gloss="見つける、見つけ出す Oを～だと感じる、思う；～だとわかる 手に入れる、見出す ～という評決を下す 掘り出し物、貴重な発見" data-pos="名詞 動詞" data-level="A1" data-rank="80">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('find',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('find',this)">★</button>
+    
+    <span class="tocrank">#80</span>
+    <a class="tocword" href="w/find.html">find</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">見つける、見つけ出す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="first" data-gloss="最初の、1番目の 初めての まず、最初に 一番に、真っ先に 最初の人・もの、初日 初めての出来事、初物" data-pos="名詞 形容詞 副詞" data-level="A1" data-rank="77">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('first',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('first',this)">★</button>
+    
+    <span class="tocrank">#77</span>
+    <a class="tocword" href="w/first.html">first</a>
+    <span class="tocpos">形容詞・副詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">最初の、1番目の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="follow" data-gloss="後について行く、後に続く 従う 沿って進む、たどる 理解する、ついていく 後に続いて起こる フォローする、注視する" data-pos="動詞" data-level="A1" data-rank="187">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('follow',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('follow',this)">★</button>
+    
+    <span class="tocrank">#187</span>
+    <a class="tocword" href="w/follow.html">follow</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">後について行く、後に続く</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="for" data-gloss="～のために、～に向けて ～の間、～にわたって ～を求めて、～を得ようと ～の代わりに、～と引き換えに ～に賛成して、～を支持して なぜなら～、というのも～だから" data-pos="前置詞 接続詞" data-level="A1" data-rank="11">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('for',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('for',this)">★</button>
+    
+    <span class="tocrank">#11</span>
+    <a class="tocword" href="w/for.html">for</a>
+    <span class="tocpos">前置詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～のために、～に向けて</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="friend" data-gloss="友人、友達 仲間、力になってくれる人 フレンド、友達として登録した相手" data-pos="名詞" data-level="A1" data-rank="207">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('friend',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('friend',this)">★</button>
+    
+    <span class="tocrank">#207</span>
+    <a class="tocword" href="w/friend.html">friend</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">友人、友達</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="from" data-gloss="～から、～を起点として ～から、～以来 ～から ～のせいで、～によって ～と、～から離れて" data-pos="前置詞" data-level="A1" data-rank="25">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('from',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('from',this)">★</button>
+    
+    <span class="tocrank">#25</span>
+    <a class="tocword" href="w/from.html">from</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～から、～を起点として</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="get" data-gloss="手に入れる、もらう (ある状態に)なる、変化する 着く、到達する 理解する、わかる (人に)～させる、してもらう 持ってくる、取ってくる" data-pos="動詞" data-level="A1" data-rank="42">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('get',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('get',this)">★</button>
+    
+    <span class="tocrank">#42</span>
+    <a class="tocword" href="w/get.html">get</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">手に入れる、もらう</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="give" data-gloss="与える、渡す 与える、伝える 割く、向ける 行う、する たわむ、屈する、崩れる" data-pos="動詞" data-level="A1" data-rank="76">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('give',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('give',this)">★</button>
+    
+    <span class="tocrank">#76</span>
+    <a class="tocword" href="w/give.html">give</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">与える、渡す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="go" data-gloss="(場所へ)行く、進む (道・線などが)続く、通じる (機械などが)動く、作動する (物事が)運ぶ、進行する (ある状態に)なる be going to ~：(根拠のある)近い未来の予定・予測を表す" data-pos="動詞" data-level="A1" data-rank="30">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('go',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('go',this)">★</button>
+    
+    <span class="tocrank">#30</span>
+    <a class="tocword" href="w/go.html">go</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(場所へ)行く、進む</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="good" data-gloss="良い、質が高い 親切な、善良な 上手な、得意な 良い、ためになる 十分な、かなりの 善、善良さ" data-pos="名詞 形容詞" data-level="A1" data-rank="55">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('good',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('good',this)">★</button>
+    
+    <span class="tocrank">#55</span>
+    <a class="tocword" href="w/good.html">good</a>
+    <span class="tocpos">形容詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">良い、質が高い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="government" data-gloss="政府、内閣 政治体制、統治のしくみ 地方自治体、行政" data-pos="名詞" data-level="" data-rank="215">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('government',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('government',this)">★</button>
+    
+    <span class="tocrank">#215</span>
+    <a class="tocword" href="w/government.html">government</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">政府、内閣</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="great" data-gloss="素晴らしい、とても良い 大きな、重要な 偉大な、優れた 非常に多い、かなりの 素晴らしい、最高だ 偉大な人物、名手" data-pos="名詞 形容詞" data-level="A1" data-rank="123">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('great',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('great',this)">★</button>
+    
+    <span class="tocrank">#123</span>
+    <a class="tocword" href="w/great.html">great</a>
+    <span class="tocpos">形容詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">素晴らしい、とても良い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="group" data-gloss="集団、グループ (分類上の)部類、グループ (人や物を)グループ分けする、分類する 群がる、集まる" data-pos="名詞 動詞" data-level="A1" data-rank="166">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('group',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('group',this)">★</button>
+    
+    <span class="tocrank">#166</span>
+    <a class="tocword" href="w/group.html">group</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">集団、グループ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="hand" data-gloss="手 (時計の)針 手伝い、助け (トランプなどの)手札、持ち札 (手で)手渡す、渡す (書類・仕事などを)提出する、引き渡す" data-pos="名詞 動詞" data-level="A1" data-rank="197">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('hand',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('hand',this)">★</button>
+    
+    <span class="tocrank">#197</span>
+    <a class="tocword" href="w/hand.html">hand</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">手</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="happen" data-gloss="起こる、生じる たまたま～する、偶然～する" data-pos="動詞" data-level="" data-rank="235">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('happen',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('happen',this)">★</button>
+    
+    <span class="tocrank">#235</span>
+    <a class="tocword" href="w/happen.html">happen</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">起こる、生じる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="have" data-gloss="持っている、所有している とる、食べる・飲む 過ごす、経験する have to：～しなければならない 〔使役〕have + O + 原形/過去分詞：O に～させる・してもらう have + 過去分詞：現在完了・過去完了をつくる" data-pos="動詞" data-level="A1" data-rank="7">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('have',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('have',this)">★</button>
+    
+    <span class="tocrank">#7</span>
+    <a class="tocword" href="w/have.html">have</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">持っている、所有している</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="he" data-gloss="彼は、彼が その人は、あの人は 〔総称・従来用法〕その人は。現在は男女を問わず they を使うのが一般的で、he を総称に使うのは古風・不適切とされることが多い" data-pos="名詞 代名詞" data-level="A1" data-rank="10">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('he',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('he',this)">★</button>
+    
+    <span class="tocrank">#10</span>
+    <a class="tocword" href="w/he.html">he</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">彼は、彼が</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="hear" data-gloss="聞こえる、耳に入る 聞く 聞いて知る ～から便り・連絡をもらう 審理する、聴聞する" data-pos="動詞" data-level="A1" data-rank="177">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('hear',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('hear',this)">★</button>
+    
+    <span class="tocrank">#177</span>
+    <a class="tocword" href="w/hear.html">hear</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">聞こえる、耳に入る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="help" data-gloss="助ける、手伝う 役立つ、貢献する 助け、援助、手伝い" data-pos="名詞 動詞" data-level="A1" data-rank="132">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('help',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('help',this)">★</button>
+    
+    <span class="tocrank">#132</span>
+    <a class="tocword" href="w/help.html">help</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">助ける、手伝う</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="here" data-gloss="ここに、ここで ここへ はい、これ、ほら ほら、それ、来た ここで、この段階では" data-pos="副詞" data-level="A1" data-rank="97">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('here',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('here',this)">★</button>
+    
+    <span class="tocrank">#97</span>
+    <a class="tocword" href="w/here.html">here</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">ここに、ここで</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="high" data-gloss="(位置・高さが)高い、高い所にある (数値・程度が)高い、多い (地位・音・質などが)高い、上位の 高く 最高値、最高記録" data-pos="名詞 形容詞 副詞" data-level="A1" data-rank="147">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('high',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('high',this)">★</button>
+    
+    <span class="tocrank">#147</span>
+    <a class="tocword" href="w/high.html">high</a>
+    <span class="tocpos">形容詞・副詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(位置・高さが)高い、高い所にある</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="hold" data-gloss="(手で)持つ、抱える、握る 保持する、維持する (会議・式典などを)開催する、行う (意見・信念を)抱く、持つ (電話などを)保留にする、待たせる つかむこと、握り、支え (船・飛行機の)貨物室、船倉" data-pos="名詞 動詞" data-level="" data-rank="221">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('hold',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('hold',this)">★</button>
+    
+    <span class="tocrank">#221</span>
+    <a class="tocword" href="w/hold.html">hold</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">(手で)持つ、抱える、握る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="home" data-gloss="家、我が家 故郷、生まれ育った土地 本塁、ホームベース 家へ、家で 自宅の、地元の、本拠地の ～に狙いを定める、誘導されて向かう" data-pos="名詞 動詞 形容詞 副詞" data-level="A1" data-rank="160">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('home',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('home',this)">★</button>
+    
+    <span class="tocrank">#160</span>
+    <a class="tocword" href="w/home.html">home</a>
+    <span class="tocpos">名詞・副詞・形容詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">家、我が家</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="hope" data-gloss="～を望む、～だといいと思う hope to do：～することを望む、～できたらと思う hope for ~：～を望む、期待する 希望、望み 望んでいること、願い" data-pos="名詞 動詞" data-level="" data-rank="249">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('hope',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('hope',this)">★</button>
+    
+    <span class="tocrank">#249</span>
+    <a class="tocword" href="w/hope.html">hope</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">～を望む、～だといいと思う</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="hour" data-gloss="1時間 時刻、時間帯 時、時期" data-pos="名詞" data-level="" data-rank="246">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('hour',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('hour',this)">★</button>
+    
+    <span class="tocrank">#246</span>
+    <a class="tocword" href="w/hour.html">hour</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">1時間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="house" data-gloss="家、住宅 議会、院 観客、満席 収容する、住まわせる 収める、保管する" data-pos="名詞 動詞" data-level="A1" data-rank="164">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('house',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('house',this)">★</button>
+    
+    <span class="tocrank">#164</span>
+    <a class="tocword" href="w/house.html">house</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">家、住宅</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="how" data-gloss="どのように、どうやって どれくらい どう、どんなふうに なんて〜だろう どのように〜か、〜する方法 あいさつの決まり文句で" data-pos="副詞" data-level="A1" data-rank="92">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('how',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('how',this)">★</button>
+    
+    <span class="tocrank">#92</span>
+    <a class="tocword" href="w/how.html">how</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">どのように、どうやって</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="however" data-gloss="しかしながら、けれども どんなに～でも、たとえどれほど～だとしても どんな方法でも、好きなように" data-pos="副詞" data-level="B1" data-rank="202">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('however',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('however',this)">★</button>
+    
+    <span class="tocrank">#202</span>
+    <a class="tocword" href="w/however.html">however</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">B1</span>
+    <span class="tocgloss">しかしながら、けれども</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="i" data-gloss="私は、僕は、俺は。文中の位置に関わらず常に大文字の I と綴る。" data-pos="名詞 代名詞" data-level="A1" data-rank="19">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('i',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('i',this)">★</button>
+    
+    <span class="tocrank">#19</span>
+    <a class="tocword" href="w/i.html">i</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">私は、僕は、俺は。文中の位置に関わらず常に大文字</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="idea" data-gloss="考え、思いつき 意見、見解 見当、理解 企画、案、構想" data-pos="名詞" data-level="" data-rank="250">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('idea',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('idea',this)">★</button>
+    
+    <span class="tocrank">#250</span>
+    <a class="tocword" href="w/idea.html">idea</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">考え、思いつき</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="if" data-gloss="もし〜ならば、〜と仮定すると 〜すると必ず、〜するときはいつも 〜かどうか 〜だとしても、〜かもしれないが 仮定、不確定な条件" data-pos="名詞 接続詞" data-level="A1" data-rank="33">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('if',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('if',this)">★</button>
+    
+    <span class="tocrank">#33</span>
+    <a class="tocword" href="w/if.html">if</a>
+    <span class="tocpos">接続詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">もし〜ならば、〜と仮定すると</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="important" data-gloss="重要な、大切な 有力な、重んじられる 重大な、重みのある" data-pos="形容詞" data-level="A1" data-rank="189">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('important',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('important',this)">★</button>
+    
+    <span class="tocrank">#189</span>
+    <a class="tocword" href="w/important.html">important</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">重要な、大切な</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="in" data-gloss="～の中に、～の中で ～に、～の間に ～後に、～たてば ～の状態で、～を着て、～で ～において、～の点で 中へ、中に；着いて・在宅して" data-pos="副詞 前置詞" data-level="A1" data-rank="6">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('in',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('in',this)">★</button>
+    
+    <span class="tocrank">#6</span>
+    <a class="tocword" href="w/in.html">in</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の中に、～の中で</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="include" data-gloss="含む、含める 仲間に入れる、対象に加える" data-pos="動詞" data-level="B1" data-rank="162">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('include',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('include',this)">★</button>
+    
+    <span class="tocrank">#162</span>
+    <a class="tocword" href="w/include.html">include</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">B1</span>
+    <span class="tocgloss">含む、含める</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="increase" data-gloss="(数量・程度が)増える、増加する (数量・程度を)増やす、増加させる 増加、増大" data-pos="名詞 動詞" data-level="" data-rank="229">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('increase',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('increase',this)">★</button>
+    
+    <span class="tocrank">#229</span>
+    <a class="tocword" href="w/increase.html">increase</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">(数量・程度が)増える、増加する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="information" data-gloss="情報、知らせ 案内所、案内係" data-pos="名詞" data-level="A1" data-rank="212">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('information',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('information',this)">★</button>
+    
+    <span class="tocrank">#212</span>
+    <a class="tocword" href="w/information.html">information</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">情報、知らせ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="interest" data-gloss="興味、関心 趣味、関心事 利子、利息〔不可算〕 利害、利益 〜に興味を持たせる、関心を起こさせる" data-pos="名詞 動詞" data-level="A2" data-rank="141">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('interest',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('interest',this)">★</button>
+    
+    <span class="tocrank">#141</span>
+    <a class="tocword" href="w/interest.html">interest</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">興味、関心</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="into" data-gloss="～の中へ、～の中に ～に ～に ～に、～を ～に夢中で、～にはまっている" data-pos="前置詞" data-level="A1" data-rank="72">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('into',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('into',this)">★</button>
+    
+    <span class="tocrank">#72</span>
+    <a class="tocword" href="w/into.html">into</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の中へ、～の中に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="issue" data-gloss="問題、論点 号、版 発行、発給 発表する、出す 発行する、交付する" data-pos="名詞 動詞" data-level="" data-rank="217">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('issue',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('issue',this)">★</button>
+    
+    <span class="tocrank">#217</span>
+    <a class="tocword" href="w/issue.html">issue</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">問題、論点</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="it" data-gloss="それ、それを it 真主語の to不定詞・that節を後回しにする it make / find / think + it + 形容詞 + to do の it How's it going? / That's it. など" data-pos="名詞 代名詞" data-level="A1" data-rank="8">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('it',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('it',this)">★</button>
+    
+    <span class="tocrank">#8</span>
+    <a class="tocword" href="w/it.html">it</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">それ、それを</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="job" data-gloss="仕事、職 作業、任務 出来栄え、やり方" data-pos="名詞" data-level="" data-rank="230">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('job',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('job',this)">★</button>
+    
+    <span class="tocrank">#230</span>
+    <a class="tocword" href="w/job.html">job</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">仕事、職</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="just" data-gloss="ちょうど、たった今、〜したばかり ほんの、単に、〜にすぎない まさに、ちょうど かろうじて、ぎりぎり ちょっと 公正な、正当な" data-pos="形容詞 副詞" data-level="A2" data-rank="63">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('just',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('just',this)">★</button>
+    
+    <span class="tocrank">#63</span>
+    <a class="tocword" href="w/just.html">just</a>
+    <span class="tocpos">副詞・形容詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">ちょうど、たった今、〜したばかり</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="keep" data-gloss="持ち続ける、保有する 保つ、〜のままにしておく しまっておく、保管する 守る つける、記録する とどめておく、待たせる" data-pos="動詞" data-level="A1" data-rank="176">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('keep',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('keep',this)">★</button>
+    
+    <span class="tocrank">#176</span>
+    <a class="tocword" href="w/keep.html">keep</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">持ち続ける、保有する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="kind" data-gloss="親切な、思いやりのある 優しい、温和な 種類、たぐい" data-pos="名詞 形容詞" data-level="A1" data-rank="175">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('kind',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('kind',this)">★</button>
+    
+    <span class="tocrank">#175</span>
+    <a class="tocword" href="w/kind.html">kind</a>
+    <span class="tocpos">形容詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">親切な、思いやりのある</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="know" data-gloss="知っている 面識がある、知り合いである 知っている、できる 詳しい、精通している ～について知っている、聞いたことがある" data-pos="動詞" data-level="A1" data-rank="40">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('know',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('know',this)">★</button>
+    
+    <span class="tocrank">#40</span>
+    <a class="tocword" href="w/know.html">know</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">知っている</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="large" data-gloss="(サイズ・面積・容積が)大きい、広い (数量・規模が)多量の、大規模な (組織・企業などが)大手の、大規模な (役割・影響などが)重大な、大きな" data-pos="形容詞" data-level="A1" data-rank="209">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('large',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('large',this)">★</button>
+    
+    <span class="tocrank">#209</span>
+    <a class="tocword" href="w/large.html">large</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(サイズ・面積・容積が)大きい、広い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="last" data-gloss="最後の、最終の この前の、直前の 最後に 続く、持続する、もつ" data-pos="動詞 形容詞 副詞" data-level="A1" data-rank="100">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('last',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('last',this)">★</button>
+    
+    <span class="tocrank">#100</span>
+    <a class="tocword" href="w/last.html">last</a>
+    <span class="tocpos">形容詞・副詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">最後の、最終の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="late" data-gloss="遅れた、遅刻した 遅い時間帯の、夜遅くの 後期の、末期の 故〜、亡くなった〜 遅く、遅れて 遅くまで" data-pos="形容詞 副詞" data-level="A1" data-rank="146">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('late',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('late',this)">★</button>
+    
+    <span class="tocrank">#146</span>
+    <a class="tocword" href="w/late.html">late</a>
+    <span class="tocpos">形容詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">遅れた、遅刻した</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="lead" data-gloss="導く、率いる ～につながる、至る 首位に立つ、リードする 送る 先頭、首位 主役、主演" data-pos="名詞 動詞" data-level="" data-rank="240">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('lead',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('lead',this)">★</button>
+    
+    <span class="tocrank">#240</span>
+    <a class="tocword" href="w/lead.html">lead</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">導く、率いる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="learn" data-gloss="学ぶ、習得する 学ぶ、悟る、思い知る 知る 暗記する、覚える" data-pos="動詞" data-level="" data-rank="260">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('learn',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('learn',this)">★</button>
+    
+    <span class="tocrank">#260</span>
+    <a class="tocword" href="w/learn.html">learn</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">学ぶ、習得する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="leave" data-gloss="去る、出発する 置いていく、うっかり忘れる 辞める、卒業する ままにしておく 残す 休暇、休み；許可" data-pos="名詞 動詞" data-level="A1" data-rank="125">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('leave',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('leave',this)">★</button>
+    
+    <span class="tocrank">#125</span>
+    <a class="tocword" href="w/leave.html">leave</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">去る、出発する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="less" data-gloss="より少なく、～ほど…でない less than ~ で「～未満、～に満たない」 より少ない量の より少ない量・数のもの" data-pos="名詞 形容詞 副詞 代名詞" data-level="" data-rank="252">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('less',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('less',this)">★</button>
+    
+    <span class="tocrank">#252</span>
+    <a class="tocword" href="w/less.html">less</a>
+    <span class="tocpos">副詞・形容詞・代名詞</span>
+    
+    <span class="tocgloss">より少なく、～ほど…でない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="let" data-gloss="～させる、～することを許す Let's + 動詞の原形：～しよう、～しませんか ～するのを通す、入れる let go：放す、手放す；緊張や不安を手放す 貸す、賃貸に出す" data-pos="動詞" data-level="A1" data-rank="173">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('let',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('let',this)">★</button>
+    
+    <span class="tocrank">#173</span>
+    <a class="tocword" href="w/let.html">let</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～させる、～することを許す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="life" data-gloss="命、生命 人生、生涯 生活、暮らし (生物としての)命があること、生存 活気、生気 (物の)寿命、耐用年数" data-pos="名詞" data-level="A1" data-rank="110">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('life',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('life',this)">★</button>
+    
+    <span class="tocrank">#110</span>
+    <a class="tocword" href="w/life.html">life</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">命、生命</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="like" data-gloss="好む、気に入る ～したい、～が欲しい〈丁寧な希望表現〉 ～のように、～に似て 例えば～のような 〈口語〉まるで～であるかのように" data-pos="動詞 前置詞 接続詞" data-level="A1" data-rank="44">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('like',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('like',this)">★</button>
+    
+    <span class="tocrank">#44</span>
+    <a class="tocword" href="w/like.html">like</a>
+    <span class="tocpos">動詞・前置詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">好む、気に入る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="little" data-gloss="(数量・程度が)ほとんどない、わずかしかない(There is little hope of finding survivors. 生存者が見つかる望みはほとんどない。) (サイズが)小さい、幼い(a little village 小さな村) 少し、いくらか(Can you speak a little louder? もう少し大きな声で話してもらえますか?) ほとんど～ない(Little did she know that her life was about to change. 彼女の人生がまもなく一変するとは、彼女はほとんど知らなかった。)" data-pos="形容詞 副詞" data-level="A1" data-rank="131">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('little',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('little',this)">★</button>
+    
+    <span class="tocrank">#131</span>
+    <a class="tocword" href="w/little.html">little</a>
+    <span class="tocpos">形容詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(数量・程度が)ほとんどない、わずかしかない(</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="live" data-gloss="住む、暮らす 生きる、生存する 送る 生きている、生の 生放送の、ライブの 通電している、電流が流れている 生で、実況で" data-pos="動詞 形容詞 副詞" data-level="A1" data-rank="152">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('live',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('live',this)">★</button>
+    
+    <span class="tocrank">#152</span>
+    <a class="tocword" href="w/live.html">live</a>
+    <span class="tocpos">動詞・形容詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">住む、暮らす</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="long" data-gloss="長い 長い、長く感じられる 長く、長い間 切望する、待ち焦がれる" data-pos="動詞 形容詞 副詞" data-level="A1" data-rank="114">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('long',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('long',this)">★</button>
+    
+    <span class="tocrank">#114</span>
+    <a class="tocword" href="w/long.html">long</a>
+    <span class="tocpos">形容詞・副詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">長い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="look" data-gloss="見る、目を向ける ～のように見える、～に見える ～を探す ～の世話をする、面倒を見る ～を楽しみにする 見た目、外見、様子、表情" data-pos="名詞 動詞" data-level="A1" data-rank="74">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('look',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('look',this)">★</button>
+    
+    <span class="tocrank">#74</span>
+    <a class="tocword" href="w/look.html">look</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">見る、目を向ける</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="lot" data-gloss="たくさんの、多量の、多数の とても、大いに、はるかに 区画、一画の土地 運命、境遇、身の上 くじ、抽選" data-pos="名詞" data-level="A1" data-rank="122">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('lot',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('lot',this)">★</button>
+    
+    <span class="tocrank">#122</span>
+    <a class="tocword" href="w/lot.html">lot</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">たくさんの、多量の、多数の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="love" data-gloss="(人・ものを)愛する、大好きである (活動・娯楽などを)心から楽しむ、大いに好む 愛、愛情 (親しい相手への呼びかけで)あなた、ねえ" data-pos="名詞 動詞" data-level="" data-rank="228">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('love',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('love',this)">★</button>
+    
+    <span class="tocrank">#228</span>
+    <a class="tocword" href="w/love.html">love</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">(人・ものを)愛する、大好きである</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="make" data-gloss="作る、製造する ～を…の状態にする ～させる 稼ぐ、得る する 間に合う、うまく到達・達成する" data-pos="動詞" data-level="A1" data-rank="47">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('make',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('make',this)">★</button>
+    
+    <span class="tocrank">#47</span>
+    <a class="tocword" href="w/make.html">make</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">作る、製造する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="man" data-gloss="男性、男の人 人、人間；人類を指す総称的用法 呼びかけ・間投詞として。驚き・強調を表す 夫、恋人、彼氏 人員をつかせる、担当する" data-pos="名詞 動詞" data-level="A1" data-rank="111">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('man',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('man',this)">★</button>
+    
+    <span class="tocrank">#111</span>
+    <a class="tocword" href="w/man.html">man</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">男性、男の人</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="many" data-gloss="多くの、たくさんの 数の多さ・程度を表す 多く、大勢" data-pos="名詞 代名詞 限定詞" data-level="A1" data-rank="98">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('many',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('many',this)">★</button>
+    
+    <span class="tocrank">#98</span>
+    <a class="tocword" href="w/many.html">many</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">多くの、たくさんの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="market" data-gloss="市場、マーケット 市場、いちば 需要、買い手の集まり (製品などを)売り込む、宣伝する、マーケティングする" data-pos="名詞 動詞" data-level="" data-rank="218">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('market',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('market',this)">★</button>
+    
+    <span class="tocrank">#218</span>
+    <a class="tocword" href="w/market.html">market</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">市場、マーケット</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="may" data-gloss="〜してもよい 〜かもしれない 〜したかもしれない 〜でありますように かなり〜しそうだ" data-pos="動詞 助動詞" data-level="A2" data-rank="96">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('may',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('may',this)">★</button>
+    
+    <span class="tocrank">#96</span>
+    <a class="tocword" href="w/may.html">may</a>
+    <span class="tocpos">助動詞 (modal verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">〜してもよい</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="mean" data-gloss="(言葉・記号などが)~を意味する、示す (~しようと)意図する、本気で言う (物事が結果として)~を意味する、~につながる 意地悪な、不親切な (meaning) 意味、意義 (means) 手段、方法" data-pos="名詞 動詞 形容詞" data-level="A1" data-rank="94">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('mean',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('mean',this)">★</button>
+    
+    <span class="tocrank">#94</span>
+    <a class="tocword" href="w/mean.html">mean</a>
+    <span class="tocpos">動詞・形容詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(言葉・記号などが)~を意味する、示す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="meet" data-gloss="会う、対面する 人と待ち合わせる、落ち合う 知り合う、紹介される 満たす、満たして達成する 合う、触れ合う" data-pos="動詞" data-level="A1" data-rank="134">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('meet',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('meet',this)">★</button>
+    
+    <span class="tocrank">#134</span>
+    <a class="tocword" href="w/meet.html">meet</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">会う、対面する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="might" data-gloss="〜かもしれない 〜かもしれない 〜したかもしれない 〜した方がいいかもしれない 〜してもよろしいでしょうか" data-pos="動詞 助動詞" data-level="A2" data-rank="158">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('might',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('might',this)">★</button>
+    
+    <span class="tocrank">#158</span>
+    <a class="tocword" href="w/might.html">might</a>
+    <span class="tocpos">助動詞 (modal verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">〜かもしれない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="money" data-gloss="お金、金銭 資金、財産" data-pos="名詞" data-level="A1" data-rank="200">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('money',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('money',this)">★</button>
+    
+    <span class="tocrank">#200</span>
+    <a class="tocword" href="w/money.html">money</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">お金、金銭</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="month" data-gloss="月、1か月 ～月 ひと月分の期間・単位 数か月という期間" data-pos="名詞" data-level="A1" data-rank="208">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('month',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('month',this)">★</button>
+    
+    <span class="tocrank">#208</span>
+    <a class="tocword" href="w/month.html">month</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">月、1か月</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="more" data-gloss="より多くの、もっと多くの さらなる、追加の もっと～な、より～に もっと、これ以上、さらに もっと多くのもの・こと・人" data-pos="名詞 形容詞 副詞 代名詞" data-level="A1" data-rank="41">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('more',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('more',this)">★</button>
+    
+    <span class="tocrank">#41</span>
+    <a class="tocword" href="w/more.html">more</a>
+    <span class="tocpos">形容詞・副詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">より多くの、もっと多くの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="most" data-gloss="最も多くの、大部分の 最も～な、いちばん～に 非常に、とても 大部分、ほとんど" data-pos="名詞 形容詞 副詞 代名詞" data-level="A1" data-rank="87">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('most',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('most',this)">★</button>
+    
+    <span class="tocrank">#87</span>
+    <a class="tocword" href="w/most.html">most</a>
+    <span class="tocpos">形容詞・副詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">最も多くの、大部分の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="move" data-gloss="動く、移動する 引っ越す 動かす、移す 感動させる 動き、動作 一手；行動、対策" data-pos="名詞 動詞" data-level="A1" data-rank="199">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('move',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('move',this)">★</button>
+    
+    <span class="tocrank">#199</span>
+    <a class="tocword" href="w/move.html">move</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">動く、移動する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="much" data-gloss="多くの、たくさんの 多くの ずっと、はるかに とても、大いに 多くのもの・こと・量" data-pos="名詞 副詞 代名詞 限定詞" data-level="A1" data-rank="90">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('much',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('much',this)">★</button>
+    
+    <span class="tocrank">#90</span>
+    <a class="tocword" href="w/much.html">much</a>
+    <span class="tocpos">限定詞・副詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">多くの、たくさんの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="must" data-gloss="〜しなければならない mustn't：〜してはいけない 〜にちがいない must have + 過去分詞：〜したにちがいない 絶対に必要なもの、必見・必読のもの" data-pos="名詞 動詞 助動詞" data-level="A1" data-rank="159">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('must',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('must',this)">★</button>
+    
+    <span class="tocrank">#159</span>
+    <a class="tocword" href="w/must.html">must</a>
+    <span class="tocpos">助動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜しなければならない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="name" data-gloss="名前、氏名 名声、評判 名前をつける、名付ける 名指しする、具体的に挙げる" data-pos="名詞 動詞" data-level="A1" data-rank="205">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('name',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('name',this)">★</button>
+    
+    <span class="tocrank">#205</span>
+    <a class="tocword" href="w/name.html">name</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">名前、氏名</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="need" data-gloss="～を必要とする、～が要る need to do：～する必要がある、しなければならない don't need to：～する必要はない 必要、必要性 必要なもの、要求、ニーズ" data-pos="名詞 動詞" data-level="A1" data-rank="89">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('need',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('need',this)">★</button>
+    
+    <span class="tocrank">#89</span>
+    <a class="tocword" href="w/need.html">need</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～を必要とする、～が要る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="never" data-gloss="今まで一度も〜ない、これまで一度も〜ない これから先も決して〜ない、今後は絶対に〜ない not の代わりに用いて過去の行為を強く否定する、一度も〜していない 文頭に置いて意味を強めた倒置構文をつくる 驚き・信じられない気持ちを表す口語的な間投表現" data-pos="副詞" data-level="A1" data-rank="161">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('never',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('never',this)">★</button>
+    
+    <span class="tocrank">#161</span>
+    <a class="tocword" href="w/never.html">never</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">今まで一度も〜ない、これまで一度も〜ない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="new" data-gloss="新しい、新しく作られた・登場したばかりの 新品の、未使用の 不慣れな、初めての 今までと違う、目新しい、新たな" data-pos="形容詞" data-level="A1" data-rank="78">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('new',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('new',this)">★</button>
+    
+    <span class="tocrank">#78</span>
+    <a class="tocword" href="w/new.html">new</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">新しい、新しく作られた・登場したばかりの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="next" data-gloss="次の、今度の 隣の、すぐ隣の 次に、その後に 〜のすぐ隣に、〜のそばに" data-pos="形容詞 副詞" data-level="A1" data-rank="150">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('next',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('next',this)">★</button>
+    
+    <span class="tocrank">#150</span>
+    <a class="tocword" href="w/next.html">next</a>
+    <span class="tocpos">形容詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">次の、今度の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="no" data-gloss="1つも〜ない、少しも〜ない 〜禁止 決して〜ではない、とても〜とは言えない いいえ no + 比較級で少しも〜ではない まさか、そんな" data-pos="副詞 限定詞" data-level="A1" data-rank="59">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('no',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('no',this)">★</button>
+    
+    <span class="tocrank">#59</span>
+    <a class="tocword" href="w/no.html">no</a>
+    <span class="tocpos">限定詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">1つも〜ない、少しも〜ない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="not" data-gloss="動詞・be動詞・助動詞の直後に置いて、文や句を否定する 全称を表す語と組み合わせて部分否定を表す 「Aだけでなく Bも」と累加的に強調する相関構文をつくる。文頭では倒置を伴う 前に述べた内容を一語で否定する代用表現。動詞の後に単独で置く 動詞を伴わず名詞句・形容詞句を直接否定する" data-pos="副詞" data-level="A1" data-rank="13">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('not',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('not',this)">★</button>
+    
+    <span class="tocrank">#13</span>
+    <a class="tocword" href="w/not.html">not</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">動詞・</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="now" data-gloss="今、現在 今すぐに、たった今 さて、では 今や～だから、～するからには" data-pos="副詞 接続詞" data-level="A1" data-rank="69">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('now',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('now',this)">★</button>
+    
+    <span class="tocrank">#69</span>
+    <a class="tocword" href="w/now.html">now</a>
+    <span class="tocpos">副詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">今、現在</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="number" data-gloss="数、数量 番号 数字 ～に番号を振る 総数が～に達する、～になる" data-pos="名詞 動詞" data-level="A1" data-rank="126">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('number',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('number',this)">★</button>
+    
+    <span class="tocrank">#126</span>
+    <a class="tocword" href="w/number.html">number</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">数、数量</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="of" data-gloss="～の ～のうちの、～の ～でできた、～製の ～について、～に関する ～という ～から、～の" data-pos="前置詞" data-level="A1" data-rank="3">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('of',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('of',this)">★</button>
+    
+    <span class="tocrank">#3</span>
+    <a class="tocword" href="w/of.html">of</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="off" data-gloss="離れて、そこから去って (スイッチ・電源などが)切れて、止まって (価格などから)差し引いて (予定が)中止になって、取りやめで ～から離れて、～から ～を控えて、やめて (機械・電源が)切れて、止まって (仕事・学校が)休みで (食べ物が)傷んで、味がおかしくて" data-pos="形容詞 副詞 前置詞" data-level="A1" data-rank="149">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('off',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('off',this)">★</button>
+    
+    <span class="tocrank">#149</span>
+    <a class="tocword" href="w/off.html">off</a>
+    <span class="tocpos">副詞・前置詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">離れて、そこから去って</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="offer" data-gloss="差し出す、申し出る 述べる、示す 生じる、もたらされる 申し出、提案 オファー、特典" data-pos="名詞 動詞" data-level="" data-rank="236">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('offer',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('offer',this)">★</button>
+    
+    <span class="tocrank">#236</span>
+    <a class="tocword" href="w/offer.html">offer</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">差し出す、申し出る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="old" data-gloss="年をとった、高齢の 古い、年数の経った ～歳の 昔からの、長年の 以前の、昔の 例のいつもの、おなじみの" data-pos="形容詞" data-level="A1" data-rank="143">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('old',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('old',this)">★</button>
+    
+    <span class="tocrank">#143</span>
+    <a class="tocword" href="w/old.html">old</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">年をとった、高齢の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="on" data-gloss="～の上に、～に接して ～に ～について、～に関する ～で、～を使って ～に基づいて、～次第で ついて、作動して；続けて" data-pos="副詞 前置詞" data-level="A1" data-rank="16">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('on',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('on',this)">★</button>
+    
+    <span class="tocrank">#16</span>
+    <a class="tocword" href="w/on.html">on</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の上に、～に接して</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="one" data-gloss="1つの、1人の ある～、いつか～ ～のもの、～な人 人は、誰でも ～のうちの1人・1つ 1という数字" data-pos="名詞 代名詞 数詞" data-level="A1" data-rank="34">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('one',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('one',this)">★</button>
+    
+    <span class="tocrank">#34</span>
+    <a class="tocword" href="w/one.html">one</a>
+    <span class="tocpos">数詞・代名詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">1つの、1人の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="only" data-gloss="ただ〜だけ、〜しかない 〜だけが、〜のみが ほんの、たった今 〜して初めて、〜してようやく 唯一の、ただ一つの ただし〜だが、もっとも〜なんだけど" data-pos="形容詞 副詞 接続詞" data-level="A1" data-rank="73">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('only',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('only',this)">★</button>
+    
+    <span class="tocrank">#73</span>
+    <a class="tocword" href="w/only.html">only</a>
+    <span class="tocpos">副詞・形容詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">ただ〜だけ、〜しかない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="open" data-gloss="開いている、開いた状態の 営業中の、利用できる 偏見のない、率直な、心の開けた 開ける、開く 開店する、開業する 始める、開始する" data-pos="動詞 形容詞" data-level="" data-rank="213">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('open',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('open',this)">★</button>
+    
+    <span class="tocrank">#213</span>
+    <a class="tocword" href="w/open.html">open</a>
+    <span class="tocpos">形容詞・動詞</span>
+    
+    <span class="tocgloss">開いている、開いた状態の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="or" data-gloss="〜か…か、または すなわち、つまり さもないと 〜であろうと…であろうと およそ、〜くらい" data-pos="接続詞" data-level="A1" data-rank="28">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('or',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('or',this)">★</button>
+    
+    <span class="tocrank">#28</span>
+    <a class="tocword" href="w/or.html">or</a>
+    <span class="tocpos">接続詞 (conjunction)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜か…か、または</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="order" data-gloss="順序、順番 命令、指示 注文、注文した品 秩序、整然とした状態 命令する、指示する 注文する" data-pos="名詞 動詞" data-level="" data-rank="214">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('order',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('order',this)">★</button>
+    
+    <span class="tocrank">#214</span>
+    <a class="tocword" href="w/order.html">order</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">順序、順番</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="other" data-gloss="ほかの、別の もう一方の、残りの 1つおきの、隔～の ほかの人たち、ほかの物 もう一方" data-pos="名詞 形容詞 代名詞" data-level="A1" data-rank="53">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('other',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('other',this)">★</button>
+    
+    <span class="tocrank">#53</span>
+    <a class="tocword" href="w/other.html">other</a>
+    <span class="tocpos">形容詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">ほかの、別の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="out" data-gloss="外へ、外に出て；世に出る、発売される 明るみに、はっきりと示されて；声に出して、大きな声で 尽きて、終わりまで；解決されて ～の外へ、～から外に 外に出ている、不在で；消えて、廃れて 暴露する、アウティングする" data-pos="動詞 形容詞 副詞 前置詞" data-level="A1" data-rank="54">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('out',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('out',this)">★</button>
+    
+    <span class="tocrank">#54</span>
+    <a class="tocword" href="w/out.html">out</a>
+    <span class="tocpos">副詞・前置詞・形容詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">外へ、外に出て；世に出る、発売される</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="over" data-gloss="～の上を、～を越えて ～より多く、～以上 ～の間、～にわたって ～について、～をめぐって ～を通して、～で あちらに、向こうに こちらへ、立ち寄って もう一度、繰り返して；ひっくり返って 終わった、終了した" data-pos="形容詞 副詞 前置詞" data-level="A1" data-rank="81">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('over',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('over',this)">★</button>
+    
+    <span class="tocrank">#81</span>
+    <a class="tocword" href="w/over.html">over</a>
+    <span class="tocpos">前置詞・副詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の上を、～を越えて</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="own" data-gloss="自分自身の、他人のものではない 所有する、持っている" data-pos="動詞 形容詞" data-level="A1" data-rank="128">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('own',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('own',this)">★</button>
+    
+    <span class="tocrank">#128</span>
+    <a class="tocword" href="w/own.html">own</a>
+    <span class="tocpos">形容詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">自分自身の、他人のものではない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="part" data-gloss="部分、一部 部品 役、役割 分かれる、別れる 手放す、別れる" data-pos="名詞 動詞" data-level="A1" data-rank="129">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('part',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('part',this)">★</button>
+    
+    <span class="tocrank">#129</span>
+    <a class="tocword" href="w/part.html">part</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">部分、一部</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="pay" data-gloss="支払う、払う 払う 割に合う、報われる 代償を払う、報いを受ける 給料、賃金" data-pos="名詞 動詞" data-level="" data-rank="219">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('pay',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('pay',this)">★</button>
+    
+    <span class="tocrank">#219</span>
+    <a class="tocword" href="w/pay.html">pay</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">支払う、払う</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="people" data-gloss="人々、人 世間の人々、大衆 国民、住民 民族、国民 〜に人を住まわせる、住み着く" data-pos="名詞 動詞" data-level="A1" data-rank="56">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('people',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('people',this)">★</button>
+    
+    <span class="tocrank">#56</span>
+    <a class="tocword" href="w/people.html">people</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">人々、人</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="place" data-gloss="場所、地点 順位、着順 立場、地位 ある場所に置く、配置する 出す、行う 配属する、就職させる" data-pos="名詞 動詞" data-level="A1" data-rank="113">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('place',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('place',this)">★</button>
+    
+    <span class="tocrank">#113</span>
+    <a class="tocword" href="w/place.html">place</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">場所、地点</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="plan" data-gloss="計画する、予定である 設計する、立案する 計画、予定 設計図、見取り図" data-pos="名詞 動詞" data-level="" data-rank="231">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('plan',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('plan',this)">★</button>
+    
+    <span class="tocrank">#231</span>
+    <a class="tocword" href="w/plan.html">plan</a>
+    <span class="tocpos">動詞・名詞</span>
+    
+    <span class="tocgloss">計画する、予定である</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="play" data-gloss="(スポーツ・ゲームなどを)する、(試合で)プレーする (楽器を)演奏する (舞台・映画で役を)演じる、(役割を)果たす (子供などが)遊ぶ 遊び、遊戯 (演劇の)劇、芝居 (スポーツの)プレー、試合の展開" data-pos="名詞 動詞" data-level="A1" data-rank="157">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('play',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('play',this)">★</button>
+    
+    <span class="tocrank">#157</span>
+    <a class="tocword" href="w/play.html">play</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(スポーツ・ゲームなどを)する、(試合で)プレー</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="point" data-gloss="(意見・主張の)要点、論点 目的、意味〔しばしば no point で〕 (地図・空間上の)地点、ポイント 得点、ポイント (指などで)指し示す、指をさす (先端・方向を)向ける、向く" data-pos="名詞 動詞" data-level="A2" data-rank="130">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('point',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('point',this)">★</button>
+    
+    <span class="tocrank">#130</span>
+    <a class="tocword" href="w/point.html">point</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">(意見・主張の)要点、論点</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="problem" data-gloss="問題、困りごと、やっかいな事態 問題、設問 不調、持病" data-pos="名詞" data-level="A1" data-rank="119">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('problem',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('problem',this)">★</button>
+    
+    <span class="tocrank">#119</span>
+    <a class="tocword" href="w/problem.html">problem</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">問題、困りごと、やっかいな事態</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="program" data-gloss="番組 プログラム、ソフトウェア 計画、講座、制度 プログラム、次第 プログラムを組む、プログラミングする あらかじめ設定する、組み込む" data-pos="名詞 動詞" data-level="" data-rank="239">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('program',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('program',this)">★</button>
+    
+    <span class="tocrank">#239</span>
+    <a class="tocword" href="w/program.html">program</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">番組</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="provide" data-gloss="与える、提供する AにBを供給する、用意する 養う、扶養する 備える、対策を講じる ～と規定する" data-pos="動詞" data-level="B1" data-rank="204">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('provide',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('provide',this)">★</button>
+    
+    <span class="tocrank">#204</span>
+    <a class="tocword" href="w/provide.html">provide</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">B1</span>
+    <span class="tocgloss">与える、提供する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="put" data-gloss="(物を)ある場所に置く、はめる (人やものをある状態・立場に)する、至らせる (考え・気持ちを言葉で)表す、述べる (重要性・価値などを)置く、つける (お金・労力などを)つぎ込む、投じる" data-pos="動詞" data-level="A1" data-rank="138">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('put',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('put',this)">★</button>
+    
+    <span class="tocrank">#138</span>
+    <a class="tocword" href="w/put.html">put</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(物を)ある場所に置く、はめる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="question" data-gloss="質問、問い 問題、論点 疑い、疑問 質問する、尋問する 疑う、疑問視する" data-pos="名詞 動詞" data-level="A1" data-rank="180">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('question',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('question',this)">★</button>
+    
+    <span class="tocrank">#180</span>
+    <a class="tocword" href="w/question.html">question</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">質問、問い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="read" data-gloss="読む、読書する 読んで聞かせる ～と示す、表示される 読み取る、理解する" data-pos="動詞" data-level="A1" data-rank="206">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('read',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('read',this)">★</button>
+    
+    <span class="tocrank">#206</span>
+    <a class="tocword" href="w/read.html">read</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">読む、読書する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="really" data-gloss="本当に、とても 実際に、実のところ それほど、あまり 本当に？、マジで？" data-pos="副詞" data-level="A1" data-rank="103">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('really',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('really',this)">★</button>
+    
+    <span class="tocrank">#103</span>
+    <a class="tocword" href="w/really.html">really</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">本当に、とても</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="reason" data-gloss="理由、わけ 道理、理性 考える、推論する ～と説得する、話して分からせる" data-pos="名詞 動詞" data-level="" data-rank="255">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('reason',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('reason',this)">★</button>
+    
+    <span class="tocrank">#255</span>
+    <a class="tocword" href="w/reason.html">reason</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">理由、わけ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="report" data-gloss="(情報を)報告する、伝える (事故・犯罪などを)通報する、届け出る (人に)直属する、報告義務を負う 報告書、レポート (ニュースなどの)報道、記事" data-pos="名詞 動詞" data-level="B1" data-rank="165">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('report',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('report',this)">★</button>
+    
+    <span class="tocrank">#165</span>
+    <a class="tocword" href="w/report.html">report</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">B1</span>
+    <span class="tocgloss">(情報を)報告する、伝える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="result" data-gloss="結果、成果 結果、成績 結果に終わる、生じる 起因する、生じる" data-pos="名詞 動詞" data-level="" data-rank="232">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('result',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('result',this)">★</button>
+    
+    <span class="tocrank">#232</span>
+    <a class="tocword" href="w/result.html">result</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">結果、成果</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="right" data-gloss="正しい、間違っていない 右の、右側の 適切な、ふさわしい ちょうど、まさに 右へ、右に すぐに、ただちに 権利 右、右側 正す、立て直す" data-pos="名詞 動詞 形容詞 副詞" data-level="A1" data-rank="91">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('right',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('right',this)">★</button>
+    
+    <span class="tocrank">#91</span>
+    <a class="tocword" href="w/right.html">right</a>
+    <span class="tocpos">形容詞・副詞・名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">正しい、間違っていない</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="room" data-gloss="部屋 空間、スペース、余地 余地、可能性 同居する、部屋を共にする" data-pos="名詞 動詞" data-level="" data-rank="253">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('room',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('room',this)">★</button>
+    
+    <span class="tocrank">#253</span>
+    <a class="tocword" href="w/room.html">room</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">部屋</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="run" data-gloss="走る 動く、作動する 運行する 経営する、運営する 実施する、行う 流れる 立候補する ひとっ走り、ランニング 連続、続き" data-pos="名詞 動詞" data-level="A1" data-rank="191">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('run',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('run',this)">★</button>
+    
+    <span class="tocrank">#191</span>
+    <a class="tocword" href="w/run.html">run</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">走る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="same" data-gloss="同じ、同一の&quot;の形で使う） 同時に 同じもの、同じこと 同じように、同様に" data-pos="名詞 形容詞 副詞 代名詞" data-level="A1" data-rank="121">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('same',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('same',this)">★</button>
+    
+    <span class="tocrank">#121</span>
+    <a class="tocword" href="w/same.html">same</a>
+    <span class="tocpos">形容詞・代名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">同じ、同一の&quot;の形で使う）</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="say" data-gloss="(言葉で)言う、述べる (文書・掲示・計器などが)～と書いてある、～と示す (仮に)～としよう、例えば～ (受動態で)～と言われている、～と伝えられている 発言権、意見を述べる機会" data-pos="名詞 動詞" data-level="A1" data-rank="29">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('say',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('say',this)">★</button>
+    
+    <span class="tocrank">#29</span>
+    <a class="tocword" href="w/say.html">say</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(言葉で)言う、述べる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="school" data-gloss="学校 学部・専門課程 群れ 教育する、しつける、教え込む やり込める、思い知らせる、一本取る" data-pos="名詞 動詞" data-level="A1" data-rank="145">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('school',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('school',this)">★</button>
+    
+    <span class="tocrank">#145</span>
+    <a class="tocword" href="w/school.html">school</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">学校</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="second" data-gloss="2番目の、第二の 秒 2番目のもの・人、2位 賛成する、支持する" data-pos="名詞 動詞 形容詞" data-level="" data-rank="225">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('second',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('second',this)">★</button>
+    
+    <span class="tocrank">#225</span>
+    <a class="tocword" href="w/second.html">second</a>
+    <span class="tocpos">形容詞・名詞・動詞</span>
+    
+    <span class="tocgloss">2番目の、第二の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="see" data-gloss="(目で)見る、目に入る (人に)会う、面会する 理解する、わかる (医者などに)診てもらう、相談する 確認する、調べる (物事・時代が)～を経験する、目撃する" data-pos="動詞" data-level="A1" data-rank="49">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('see',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('see',this)">★</button>
+    
+    <span class="tocrank">#49</span>
+    <a class="tocword" href="w/see.html">see</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(目で)見る、目に入る</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="seem" data-gloss="～のように見える、～のようだ ～するように見える、～するらしい ～のように思われる ～のようだ、～らしい ～があるようだ" data-pos="動詞" data-level="A2" data-rank="172">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('seem',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('seem',this)">★</button>
+    
+    <span class="tocrank">#172</span>
+    <a class="tocword" href="w/seem.html">seem</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">～のように見える、～のようだ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="service" data-gloss="(有料・無料の)サービス、業務、対応 (電気・水道などの)公共サービス、公益事業 (組織としての)機関、事業 (教会の)礼拝、式典 (軍隊での)兵役、勤務 (車・機械などを)点検する、整備する" data-pos="名詞 動詞" data-level="" data-rank="222">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('service',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('service',this)">★</button>
+    
+    <span class="tocrank">#222</span>
+    <a class="tocword" href="w/service.html">service</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">(有料・無料の)サービス、業務、対応</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="set" data-gloss="(物を)ある場所・状態に置く、据える (目標・時刻・ルールなどを)設定する、決める (太陽・月が)沈む (ゼリー・接着剤・骨などが)固まる ひとそろい、一式 (映画・演劇の)舞台装置、セット；(テニスなどの)セット (あらかじめ)決まった、固定の (準備が)整った、用意ができた" data-pos="名詞 動詞 形容詞" data-level="A2" data-rank="184">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('set',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('set',this)">★</button>
+    
+    <span class="tocrank">#184</span>
+    <a class="tocword" href="w/set.html">set</a>
+    <span class="tocpos">動詞・名詞・形容詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">(物を)ある場所・状態に置く、据える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="she" data-gloss="彼女は、彼女が その人は、あの人は 〔擬人化用法〕それは" data-pos="名詞 代名詞" data-level="A1" data-rank="23">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('she',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('she',this)">★</button>
+    
+    <span class="tocrank">#23</span>
+    <a class="tocword" href="w/she.html">she</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">彼女は、彼女が</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="should" data-gloss="〜すべきだ、〜した方がよい 〜すべきだったのに 当然〜のはずだ、〜するはずだ 万一〜の場合は 〜するように なぜ〜しなければならないのか" data-pos="動詞 助動詞" data-level="A2" data-rank="88">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('should',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('should',this)">★</button>
+    
+    <span class="tocrank">#88</span>
+    <a class="tocword" href="w/should.html">should</a>
+    <span class="tocpos">助動詞 (modal verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">〜すべきだ、〜した方がよい</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="show" data-gloss="見せる、示す 教える、案内する 表す、表に出す 示す、明らかにする 番組、ショー、公演 展示、見せびらかすこと" data-pos="名詞 動詞" data-level="A1" data-rank="109">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('show',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('show',this)">★</button>
+    
+    <span class="tocrank">#109</span>
+    <a class="tocword" href="w/show.html">show</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">見せる、示す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="since" data-gloss="～から、～以来 ～して以来、～してからずっと ～なので、～だから それ以来、その後ずっと" data-pos="副詞 前置詞 接続詞" data-level="A2" data-rank="190">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('since',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('since',this)">★</button>
+    
+    <span class="tocrank">#190</span>
+    <a class="tocword" href="w/since.html">since</a>
+    <span class="tocpos">前置詞・接続詞・副詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">～から、～以来</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="small" data-gloss="小さい、小型の 少ない、わずかな 小規模の ささいな、取るに足らない" data-pos="形容詞" data-level="A1" data-rank="185">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('small',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('small',this)">★</button>
+    
+    <span class="tocrank">#185</span>
+    <a class="tocword" href="w/small.html">small</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">小さい、小型の</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="so" data-gloss="とても、そんなに そう、そのように 〜もそうだ だから、それで 〜するように、〜するために" data-pos="副詞 接続詞" data-level="A1" data-rank="31">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('so',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('so',this)">★</button>
+    
+    <span class="tocrank">#31</span>
+    <a class="tocword" href="w/so.html">so</a>
+    <span class="tocpos">副詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">とても、そんなに</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="some" data-gloss="いくつかの、いくらかの ある～、何らかの いくつか、一部" data-pos="名詞 代名詞 限定詞" data-level="A1" data-rank="52">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('some',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('some',this)">★</button>
+    
+    <span class="tocrank">#52</span>
+    <a class="tocword" href="w/some.html">some</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">いくつかの、いくらかの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="something" data-gloss="何か、あるもの 何か〜なもの、どこか〜な点 〜か何か、その程度のもの 〜のようなもの、およそ〜 大したもの、すごいもの" data-pos="名詞 代名詞" data-level="A1" data-rank="137">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('something',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('something',this)">★</button>
+    
+    <span class="tocrank">#137</span>
+    <a class="tocword" href="w/something.html">something</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">何か、あるもの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="spend" data-gloss="使う、費やす 過ごす、費やす 費やす、使い果たす" data-pos="動詞" data-level="" data-rank="257">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('spend',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('spend',this)">★</button>
+    
+    <span class="tocrank">#257</span>
+    <a class="tocword" href="w/spend.html">spend</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">使う、費やす</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="start" data-gloss="(～を)始める、開始する (物事が)始まる (エンジン・車などが)始動する、かかる (～し)始める、着手する (時点としての)始まり、開始 (競争・物事の)出だし、スタート" data-pos="名詞 動詞" data-level="A1" data-rank="135">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('start',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('start',this)">★</button>
+    
+    <span class="tocrank">#135</span>
+    <a class="tocword" href="w/start.html">start</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(～を)始める、開始する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="state" data-gloss="状態、様子 国家、政府 州 述べる、言う、表明する" data-pos="名詞 動詞" data-level="B1" data-rank="198">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('state',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('state',this)">★</button>
+    
+    <span class="tocrank">#198</span>
+    <a class="tocword" href="w/state.html">state</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">B1</span>
+    <span class="tocgloss">状態、様子</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="still" data-gloss="まだ、依然として それでも、それにもかかわらず さらに、いっそう 静止した、動きのない、穏やかな 炭酸の入っていない 〈文語〉静める、鎮める、落ち着かせる 静止画、スチール写真；蒸留器" data-pos="名詞 動詞 形容詞 副詞" data-level="A1" data-rank="118">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('still',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('still',this)">★</button>
+    
+    <span class="tocrank">#118</span>
+    <a class="tocword" href="w/still.html">still</a>
+    <span class="tocpos">副詞・形容詞・動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">まだ、依然として</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="student" data-gloss="学生、生徒 研究する人、探究者" data-pos="名詞" data-level="" data-rank="247">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('student',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('student',this)">★</button>
+    
+    <span class="tocrank">#247</span>
+    <a class="tocword" href="w/student.html">student</a>
+    <span class="tocpos">名詞 (noun)</span>
+    
+    <span class="tocgloss">学生、生徒</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="study" data-gloss="勉強する、学習する ～を専攻する、研究する 調べる、じっくり観察する 勉強、学習 研究、研究論文 書斎" data-pos="名詞 動詞" data-level="A1" data-rank="186">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('study',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('study',this)">★</button>
+    
+    <span class="tocrank">#186</span>
+    <a class="tocword" href="w/study.html">study</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">勉強する、学習する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="such" data-gloss="そのような、そんな とても～な、これほど～な ～のような、例えば～など そのようなもの・こと それほどの～、非常に大きな～" data-pos="名詞 代名詞 限定詞" data-level="A2" data-rank="99">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('such',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('such',this)">★</button>
+    
+    <span class="tocrank">#99</span>
+    <a class="tocword" href="w/such.html">such</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">そのような、そんな</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="system" data-gloss="仕組み、制度、体系 コンピューターや設備などの装置一式、システム 器官系 方法、やり方 既存の社会体制、お上" data-pos="名詞" data-level="A2" data-rank="178">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('system',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('system',this)">★</button>
+    
+    <span class="tocrank">#178</span>
+    <a class="tocword" href="w/system.html">system</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">仕組み、制度、体系</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="talk" data-gloss="話す、しゃべる (〜について)話し合う、相談する (人を説得して)～させる 会話、おしゃべり 講演、話 (通常複数形 talks で)会談、協議" data-pos="名詞 動詞" data-level="A1" data-rank="136">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('talk',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('talk',this)">★</button>
+    
+    <span class="tocrank">#136</span>
+    <a class="tocword" href="w/talk.html">talk</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">話す、しゃべる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="tell" data-gloss="話す、伝える、教える ～するように言う、命じる 語る、話す 見分ける、判断する、わかる 明かす、口外する" data-pos="動詞" data-level="A1" data-rank="102">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('tell',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('tell',this)">★</button>
+    
+    <span class="tocrank">#102</span>
+    <a class="tocword" href="w/tell.html">tell</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">話す、伝える、教える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="than" data-gloss="比較の対象を導く。「～よりも」 「would rather ~ than …」や「no sooner ~ than …」のように、対比・優先・時間的な前後関係を表す構文の一部として使われる 比較の対象となる人・物を導く。後ろに目的格の代名詞がくることが多い" data-pos="前置詞 接続詞" data-level="A1" data-rank="68">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('than',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('than',this)">★</button>
+    
+    <span class="tocrank">#68</span>
+    <a class="tocword" href="w/than.html">than</a>
+    <span class="tocpos">接続詞・前置詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">比較の対象を導く。「～よりも」</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="thank" data-gloss="感謝する、礼を言う 感謝する、〜のおかげだと思う ありがとう 感謝、礼" data-pos="名詞 動詞 間投詞" data-level="" data-rank="243">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('thank',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('thank',this)">★</button>
+    
+    <span class="tocrank">#243</span>
+    <a class="tocword" href="w/thank.html">thank</a>
+    <span class="tocpos">動詞・間投詞・名詞</span>
+    
+    <span class="tocgloss">感謝する、礼を言う</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="that" data-gloss="あれ、それ あの、その 〜という…、〜する… 〜ということ 〔口語〕それほど、そんなに" data-pos="名詞 形容詞 副詞 接続詞 代名詞" data-level="A1" data-rank="14">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('that',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('that',this)">★</button>
+    
+    <span class="tocrank">#14</span>
+    <a class="tocword" href="w/that.html">that</a>
+    <span class="tocpos">指示代名詞・指示形容詞・関係代名詞・接続詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">あれ、それ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="then" data-gloss="そのとき、当時 それから、その後、次に それなら、それでは その上、さらに 当時の、その当時の" data-pos="形容詞 副詞" data-level="A1" data-rank="70">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('then',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('then',this)">★</button>
+    
+    <span class="tocrank">#70</span>
+    <a class="tocword" href="w/then.html">then</a>
+    <span class="tocpos">副詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">そのとき、当時</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="there" data-gloss="そこに、そこで、あそこに ～がある、～がいる そこに、ほら そら、ほら" data-pos="副詞" data-level="A1" data-rank="39">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('there',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('there',this)">★</button>
+    
+    <span class="tocrank">#39</span>
+    <a class="tocword" href="w/there.html">there</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">そこに、そこで、あそこに</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="they" data-gloss="彼らは、彼女らは、それらは その人は〔単数のthey, singular they。現代英語で性別に中立な言い方として標準的〕 〈総称〉世間は、人々は" data-pos="名詞 代名詞" data-level="A1" data-rank="12">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('they',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('they',this)">★</button>
+    
+    <span class="tocrank">#12</span>
+    <a class="tocword" href="w/they.html">they</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">彼らは、彼女らは、それらは</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="thing" data-gloss="物、物体 こと、事柄 もの、あれ 状況、身の回りのこと 実は、大事な点は 得意なこと、好きなもの" data-pos="名詞" data-level="A1" data-rank="86">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('thing',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('thing',this)">★</button>
+    
+    <span class="tocrank">#86</span>
+    <a class="tocword" href="w/thing.html">thing</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">物、物体</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="think" data-gloss="思う、考える 考える、思考する、頭を働かせる あれこれ考える、検討する 考える、意図する AをBだと考える、みなす" data-pos="動詞" data-level="A1" data-rank="46">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('think',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('think',this)">★</button>
+    
+    <span class="tocrank">#46</span>
+    <a class="tocword" href="w/think.html">think</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">思う、考える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="this" data-gloss="この、この～ 今度の、今の これ、この人・こと これ、こういうこと" data-pos="名詞 代名詞 限定詞" data-level="A1" data-rank="18">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('this',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('this',this)">★</button>
+    
+    <span class="tocrank">#18</span>
+    <a class="tocword" href="w/this.html">this</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">この、この～</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="though" data-gloss="～だけれども、～にもかかわらず でも、しかし" data-pos="副詞 接続詞" data-level="" data-rank="226">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('though',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('though',this)">★</button>
+    
+    <span class="tocrank">#226</span>
+    <a class="tocword" href="w/though.html">though</a>
+    <span class="tocpos">接続詞・副詞</span>
+    
+    <span class="tocgloss">～だけれども、～にもかかわらず</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="time" data-gloss="時間 時刻、時点 時間、暇 時期、時代 〜回、〜度 〜の時間を計る、タイミングを計る" data-pos="名詞 動詞" data-level="A1" data-rank="48">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('time',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('time',this)">★</button>
+    
+    <span class="tocrank">#48</span>
+    <a class="tocword" href="w/time.html">time</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">時間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="to" data-gloss="～へ、～に ～に ～まで ～に対して、～に合わせて ～すること／～するために 閉まって；正気に戻って" data-pos="副詞 前置詞" data-level="A1" data-rank="4">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('to',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('to',this)">★</button>
+    
+    <span class="tocrank">#4</span>
+    <a class="tocword" href="w/to.html">to</a>
+    <span class="tocpos">前置詞・不定詞のto・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～へ、～に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="today" data-gloss="今日、本日 今日では、現代では、今どき 今日、本日" data-pos="名詞 副詞" data-level="" data-rank="245">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('today',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('today',this)">★</button>
+    
+    <span class="tocrank">#245</span>
+    <a class="tocword" href="w/today.html">today</a>
+    <span class="tocpos">副詞・名詞</span>
+    
+    <span class="tocgloss">今日、本日</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="too" data-gloss="～も、～もまた あまりに～すぎる、～すぎて" data-pos="副詞" data-level="A1" data-rank="117">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('too',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('too',this)">★</button>
+    
+    <span class="tocrank">#117</span>
+    <a class="tocword" href="w/too.html">too</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～も、～もまた</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="try" data-gloss="試す、やってみる ～しようとする、努力する 試す、疲れさせる 試み、挑戦" data-pos="名詞 動詞" data-level="A1" data-rank="124">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('try',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('try',this)">★</button>
+    
+    <span class="tocrank">#124</span>
+    <a class="tocword" href="w/try.html">try</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">試す、やってみる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="turn" data-gloss="曲がる、向きを変える 回る、回転する 変わる、～になる 達する 順番 曲がり角、方向転換" data-pos="名詞 動詞" data-level="A1" data-rank="193">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('turn',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('turn',this)">★</button>
+    
+    <span class="tocrank">#193</span>
+    <a class="tocword" href="w/turn.html">turn</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">曲がる、向きを変える</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="under" data-gloss="～の真下に、すぐ下に ～未満で、～以下で ～の管理下で、～の指導・支配のもとで ～の最中で、～の状態で 下へ、下の方に、水面下に" data-pos="副詞 前置詞" data-level="A1" data-rank="192">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('under',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('under',this)">★</button>
+    
+    <span class="tocrank">#192</span>
+    <a class="tocword" href="w/under.html">under</a>
+    <span class="tocpos">前置詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～の真下に、すぐ下に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="understand" data-gloss="理解する、わかる 理解する、聞いてわかる 理解を示す、共感する ～と聞いている、～と理解している ～という取り決めである、了解済みである" data-pos="動詞" data-level="" data-rank="242">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('understand',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('understand',this)">★</button>
+    
+    <span class="tocrank">#242</span>
+    <a class="tocword" href="w/understand.html">understand</a>
+    <span class="tocpos">動詞 (verb)</span>
+    
+    <span class="tocgloss">理解する、わかる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="up" data-gloss="上へ、上の方に 増えて、高まって すっかり、完全に 起きて、始まって ～の上へ、～を上って ～の先へ、少し離れた場所に沿って 稼働して、動いて 終わって 上げる、引き上げる" data-pos="動詞 形容詞 副詞 前置詞" data-level="A1" data-rank="51">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('up',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('up',this)">★</button>
+    
+    <span class="tocrank">#51</span>
+    <a class="tocword" href="w/up.html">up</a>
+    <span class="tocpos">副詞・前置詞・形容詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">上へ、上の方に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="use" data-gloss="使う、利用する 活用する、生かす かつて〜したものだ、以前は〜だった〔過去の習慣・状態で、今はしていない〕 〜に慣れている、〜に慣れる 使用、利用〔不可算〕 用途、使いみち〔可算〕 役に立つこと、効用" data-pos="名詞 動詞" data-level="A1" data-rank="67">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('use',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('use',this)">★</button>
+    
+    <span class="tocrank">#67</span>
+    <a class="tocword" href="w/use.html">use</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">使う、利用する</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="very" data-gloss="とても、非常に あまり～ない、それほど～ない まさに、これ以上ないほど まさにその、ちょうどその まさにその～だけで" data-pos="形容詞 副詞" data-level="A1" data-rank="62">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('very',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('very',this)">★</button>
+    
+    <span class="tocrank">#62</span>
+    <a class="tocword" href="w/very.html">very</a>
+    <span class="tocpos">副詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">とても、非常に</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="want" data-gloss="欲しい、望む したい 望む ～すべきだ、した方がいい" data-pos="動詞" data-level="A1" data-rank="75">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('want',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('want',this)">★</button>
+    
+    <span class="tocrank">#75</span>
+    <a class="tocword" href="w/want.html">want</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">欲しい、望む</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="way" data-gloss="方法、やり方 道、通り道 距離、隔たり 点、側面 はるかに、ずっと" data-pos="名詞 副詞" data-level="A1" data-rank="79">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('way',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('way',this)">★</button>
+    
+    <span class="tocrank">#79</span>
+    <a class="tocword" href="w/way.html">way</a>
+    <span class="tocpos">名詞・副詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">方法、やり方</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="we" data-gloss="私たちは、私たちが 〔論文・記事などで書き手が自分を指す、editorial we〕筆者は、筆者らは 〔親しみを込めた言い方、いわゆる &quot;nursery we&quot;〕実際は相手一人だけを指しながら使うこともある" data-pos="名詞 代名詞" data-level="A1" data-rank="15">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('we',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('we',this)">★</button>
+    
+    <span class="tocrank">#15</span>
+    <a class="tocword" href="w/we.html">we</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">私たちは、私たちが</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="week" data-gloss="週、1週間 今週・先週など特定の1週間 勤務週、週日 数週間という期間" data-pos="名詞" data-level="A1" data-rank="156">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('week',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('week',this)">★</button>
+    
+    <span class="tocrank">#156</span>
+    <a class="tocword" href="w/week.html">week</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">週、1週間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="well" data-gloss="うまく、上手に、よく 健康な、体調の良い 井戸 こみ上げる、湧き出る まあ、えーと、そうだね" data-pos="名詞 動詞 形容詞 副詞 間投詞" data-level="A1" data-rank="60">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('well',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('well',this)">★</button>
+    
+    <span class="tocrank">#60</span>
+    <a class="tocword" href="w/well.html">well</a>
+    <span class="tocpos">副詞・形容詞・名詞・動詞・間投詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">うまく、上手に、よく</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="what" data-gloss="何が、何を 何の、どんな 〜すること、〜するもの なんて〜だろう 〔口語〕え？何?" data-pos="名詞 代名詞 限定詞 間投詞" data-level="A1" data-rank="50">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('what',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('what',this)">★</button>
+    
+    <span class="tocrank">#50</span>
+    <a class="tocword" href="w/what.html">what</a>
+    <span class="tocpos">疑問代名詞・疑問限定詞・関係代名詞・感嘆文の限定詞・間投詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">何が、何を</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="when" data-gloss="いつ 〜する時、〜した 〜する時に、〜すると 〜なのに、〜にもかかわらず" data-pos="副詞 接続詞" data-level="A1" data-rank="45">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('when',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('when',this)">★</button>
+    
+    <span class="tocrank">#45</span>
+    <a class="tocword" href="w/when.html">when</a>
+    <span class="tocpos">副詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">いつ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="where" data-gloss="疑問副詞：どこで、どこに 〜する場所 〜する場所に、〜するところで 〜な場合には、〜という状況では" data-pos="副詞 接続詞" data-level="A1" data-rank="85">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('where',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('where',this)">★</button>
+    
+    <span class="tocrank">#85</span>
+    <a class="tocword" href="w/where.html">where</a>
+    <span class="tocpos">副詞・接続詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">疑問副詞：どこで、どこに</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="which" data-gloss="どの、どちらの どれ、どちら ～という、～するところの そのことは、それは" data-pos="名詞 代名詞 限定詞" data-level="A1" data-rank="38">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('which',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('which',this)">★</button>
+    
+    <span class="tocrank">#38</span>
+    <a class="tocword" href="w/which.html">which</a>
+    <span class="tocpos">限定詞・代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">どの、どちらの</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="while" data-gloss="～している間に、～する間 ～する一方で、～なのに対して ～とはいえ、～だけれども 時間、期間 のんびり過ごす、紛らわす" data-pos="名詞 動詞 接続詞" data-level="A2" data-rank="154">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('while',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('while',this)">★</button>
+    
+    <span class="tocrank">#154</span>
+    <a class="tocword" href="w/while.html">while</a>
+    <span class="tocpos">接続詞・名詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">～している間に、～する間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="who" data-gloss="だれ、だれが 〜する、〜という" data-pos="名詞 代名詞" data-level="A1" data-rank="43">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('who',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('who',this)">★</button>
+    
+    <span class="tocrank">#43</span>
+    <a class="tocword" href="w/who.html">who</a>
+    <span class="tocpos">疑問代名詞・関係代名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">だれ、だれが</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="why" data-gloss="なぜ、どうして なぜ～か ～という理由" data-pos="副詞" data-level="A1" data-rank="153">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('why',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('why',this)">★</button>
+    
+    <span class="tocrank">#153</span>
+    <a class="tocword" href="w/why.html">why</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">なぜ、どうして</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="will" data-gloss="単純未来・予測 その場での意志・申し出 依頼・勧誘 習慣的な性質・当然の帰結 遺言、遺言書 意志、意志力" data-pos="名詞 動詞 助動詞" data-level="A1" data-rank="27">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('will',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('will',this)">★</button>
+    
+    <span class="tocrank">#27</span>
+    <a class="tocword" href="w/will.html">will</a>
+    <span class="tocpos">助動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">単純未来・予測</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="with" data-gloss="～と一緒に、～を伴って ～を使って、～で ～を持った、～のある ～に対して、～と ～のせいで、～のあまり ～につれて、～と共に" data-pos="前置詞" data-level="A1" data-rank="17">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('with',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('with',this)">★</button>
+    
+    <span class="tocrank">#17</span>
+    <a class="tocword" href="w/with.html">with</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～と一緒に、～を伴って</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="without" data-gloss="〜なしで、〜を持たずに 〜することなく、〜しないで もし〜がなければ" data-pos="前置詞" data-level="A1" data-rank="211">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('without',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('without',this)">★</button>
+    
+    <span class="tocrank">#211</span>
+    <a class="tocword" href="w/without.html">without</a>
+    <span class="tocpos">前置詞 (preposition)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">〜なしで、〜を持たずに</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="woman" data-gloss="(おとなの)女性、女の人 (総称的に)女性というもの、女性全般 (口語・所有格を伴って)恋人、妻" data-pos="名詞" data-level="A1" data-rank="168">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('woman',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('woman',this)">★</button>
+    
+    <span class="tocrank">#168</span>
+    <a class="tocword" href="w/woman.html">woman</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(おとなの)女性、女の人</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="word" data-gloss="単語、語 言葉、発言 ちょっとした話、一言 知らせ、便り 表現する、言い表す" data-pos="名詞 動詞" data-level="" data-rank="216">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('word',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('word',this)">★</button>
+    
+    <span class="tocrank">#216</span>
+    <a class="tocword" href="w/word.html">word</a>
+    <span class="tocpos">名詞・動詞</span>
+    
+    <span class="tocgloss">単語、語</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="work" data-gloss="仕事、(取り組むべき)作業、勉強〔不可算〕 職、勤め先、勤務 作品、著作 働く、仕事をする (機械・方法・薬などが)うまく機能する、効く (努力して)取り組む、作業を進める" data-pos="名詞 動詞" data-level="A1" data-rank="66">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('work',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('work',this)">★</button>
+    
+    <span class="tocrank">#66</span>
+    <a class="tocword" href="w/work.html">work</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">仕事、(取り組むべき)作業、勉強〔不可算〕</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="world" data-gloss="世界、地球 世界、業界 この世、人生" data-pos="名詞" data-level="A1" data-rank="155">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('world',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('world',this)">★</button>
+    
+    <span class="tocrank">#155</span>
+    <a class="tocword" href="w/world.html">world</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">世界、地球</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="would" data-gloss="もし～なら…するだろう ～するつもりだった、～するだろうと思われた よく～したものだ ～していただけますか ～したいのですが むしろ～したい" data-pos="動詞 助動詞" data-level="A2" data-rank="35">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('would',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('would',this)">★</button>
+    
+    <span class="tocrank">#35</span>
+    <a class="tocword" href="w/would.html">would</a>
+    <span class="tocpos">助動詞 (modal verb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">もし～なら…するだろう</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="write" data-gloss="(文字・単語・文章を)書く、書き記す (手紙・メールなどを)書いて送る、便りを出す (本・曲・記事などを)著す、書き上げる、作曲する (用紙・書類などに)記入する、書き込む" data-pos="動詞" data-level="A1" data-rank="120">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('write',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('write',this)">★</button>
+    
+    <span class="tocrank">#120</span>
+    <a class="tocword" href="w/write.html">write</a>
+    <span class="tocpos">動詞 (verb)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">(文字・単語・文章を)書く、書き記す</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="year" data-gloss="年、1年間 ～年、年度 年齢を数える単位、～歳 学年 長年、何年もの間" data-pos="名詞" data-level="A1" data-rank="57">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('year',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('year',this)">★</button>
+    
+    <span class="tocrank">#57</span>
+    <a class="tocword" href="w/year.html">year</a>
+    <span class="tocpos">名詞 (noun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">年、1年間</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="yes" data-gloss="はい、そうです いいえ、それは違います、実際は～です そのとおりです、確かに 賛成・肯定の返事、Yesの票" data-pos="名詞 副詞 間投詞" data-level="" data-rank="227">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('yes',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('yes',this)">★</button>
+    
+    <span class="tocrank">#227</span>
+    <a class="tocword" href="w/yes.html">yes</a>
+    <span class="tocpos">間投詞・副詞・名詞</span>
+    
+    <span class="tocgloss">はい、そうです</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="you" data-gloss="あなた、あなたたち 〈総称〉人は、世間一般の人" data-pos="名詞 代名詞" data-level="A1" data-rank="9">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('you',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('you',this)">★</button>
+    
+    <span class="tocrank">#9</span>
+    <a class="tocword" href="w/you.html">you</a>
+    <span class="tocpos">代名詞 (pronoun)</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">あなた、あなたたち</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="young" data-gloss="(人・動物が)若い、幼い (比較で)年下の、若い方の (組織・国・分野・伝統などが)できてまだ日が浅い、新しい (口語)(年齢・経験の割に)未熟な、青二才の (the young、複数扱い)(動物の)子、幼獣" data-pos="名詞 形容詞" data-level="" data-rank="237">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('young',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('young',this)">★</button>
+    
+    <span class="tocrank">#237</span>
+    <a class="tocword" href="w/young.html">young</a>
+    <span class="tocpos">形容詞・名詞</span>
+    
+    <span class="tocgloss">(人・動物が)若い、幼い</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="experience" data-gloss="経験〔不可算〕 体験、出来事 経験から得た知識・スキル 体験 〜を経験する、体験する" data-pos="名詞 動詞" data-level="A2" data-rank="263">
+  <div class="tocrow" style="--wc:#dc2626">
+    <button class="mk done" title="覚えた" onclick="markDone('experience',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('experience',this)">★</button>
+    
+    <span class="tocrank">#263</span>
+    <a class="tocword" href="w/experience.html">experience</a>
+    <span class="tocpos">名詞・動詞</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">経験〔不可算〕</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="take" data-gloss="取る、つかむ 連れて行く、持って行く かかる、必要とする 乗る、利用する とる、取る・受ける 見解、受け止め方；テイク" data-pos="名詞 動詞" data-level="A1" data-rank="58">
+  <div class="tocrow" style="--wc:#7c3aed">
+    <button class="mk done" title="覚えた" onclick="markDone('take',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('take',this)">★</button>
+    
+    <span class="tocrank">#58</span>
+    <a class="tocword" href="w/take.html">take</a>
+    <span class="tocpos">動詞・名詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">取る、つかむ</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="available" data-gloss="利用できる、入手できる 手が空いている、都合がつく 空いている 販売されている、発売中で" data-pos="形容詞" data-level="A2" data-rank="458">
+  <div class="tocrow" style="--wc:#0891b2">
+    <button class="mk done" title="覚えた" onclick="markDone('available',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('available',this)">★</button>
+    
+    <span class="tocrank">#458</span>
+    <a class="tocword" href="w/available.html">available</a>
+    <span class="tocpos">形容詞 (adjective)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">利用できる、入手できる</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="actually" data-gloss="実際に、実は なんと、本当に 実を言うと、いや実は 案外、意外にも" data-pos="副詞" data-level="A2" data-rank="290">
+  <div class="tocrow" style="--wc:#2563eb">
+    <button class="mk done" title="覚えた" onclick="markDone('actually',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('actually',this)">★</button>
+    
+    <span class="tocrank">#290</span>
+    <a class="tocword" href="w/actually.html">actually</a>
+    <span class="tocpos">副詞 (adverb)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">実際に、実は</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="through" data-gloss="～を通り抜けて、～を通って ～を通じて、～によって ～の間じゅう、初めから終わりまで ～を乗り越えて、～を経験して ～まで含めて 通り抜けて、最後まで 直通の；〔叙述〕終えて" data-pos="形容詞 副詞 前置詞" data-level="A1" data-rank="107">
+  <div class="tocrow" style="--wc:#059669">
+    <button class="mk done" title="覚えた" onclick="markDone('through',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('through',this)">★</button>
+    
+    <span class="tocrank">#107</span>
+    <a class="tocword" href="w/through.html">through</a>
+    <span class="tocpos">前置詞・副詞・形容詞</span>
+    <span class="toclvl">A1</span>
+    <span class="tocgloss">～を通り抜けて、～を通って</span>
+  </div>
+  
+</li>
+<li class="tocitem" data-word="although" data-gloss="〜だけれども、〜にもかかわらず とはいえ、もっとも〜だが 実際に〜であるにもかかわらず" data-pos="接続詞" data-level="A2" data-rank="277">
+  <div class="tocrow" style="--wc:#d97706">
+    <button class="mk done" title="覚えた" onclick="markDone('although',this)">✓</button>
+    <button class="mk star" title="ブックマーク" onclick="markStar('although',this)">★</button>
+    
+    <span class="tocrank">#277</span>
+    <a class="tocword" href="w/although.html">although</a>
+    <span class="tocpos">接続詞 (conjunction)</span>
+    <span class="toclvl">A2</span>
+    <span class="tocgloss">〜だけれども、〜にもかかわらず</span>
+  </div>
+  
+</li>
+</ul>
+</div>
+<script>
+
+var LS_DONE='ngsl_done', LS_STAR='ngsl_star';
+var STORAGE_OK=(function(){ try{ localStorage.setItem('_ngsl_t','1'); localStorage.removeItem('_ngsl_t'); return true; }catch(e){ return false; } })();
+function setArr(s){ var a=[]; s.forEach(function(v){ a.push(v); }); return a; } // SetをArrayへ（slice.callはSetに使えない）
+function loadSet(k){ try{ return new Set(JSON.parse(localStorage.getItem(k)||'[]')); }catch(e){ return new Set(); } }
+function saveSet(k,s){ try{ localStorage.setItem(k, JSON.stringify(setArr(s))); }catch(e){} }
+var doneSet=loadSet(LS_DONE), starSet=loadSet(LS_STAR);
+function reflectMarks(){ items.forEach(function(li){ var w=li.getAttribute('data-word');
+  li.querySelector('.mk.done').classList.toggle('on', doneSet.has(w));
+  li.querySelector('.mk.star').classList.toggle('on', starSet.has(w)); }); }
+function exportProgress(){
+  var data=JSON.stringify({done:setArr(doneSet), star:setArr(starSet)});
+  var blob=new Blob([data],{type:'application/json'});
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='ngsl-progress.json';
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
+}
+function importProgress(input){
+  var f=input.files&&input.files[0]; if(!f) return;
+  var r=new FileReader();
+  r.onload=function(){ try{ var o=JSON.parse(r.result);
+    doneSet=new Set(o.done||[]); starSet=new Set(o.star||[]);
+    saveSet(LS_DONE,doneSet); saveSet(LS_STAR,starSet); reflectMarks(); apply();
+  }catch(e){ alert('進捗ファイルの読み込みに失敗しました'); } };
+  r.readAsText(f); input.value='';
+}
+var listEl=document.getElementById('list');
+var items=Array.prototype.slice.call(listEl.querySelectorAll('.tocitem'));
+var sortMode='rank', activePos=new Set(), activeLvl=new Set(), onlyStar=false, onlyTodo=false;
+reflectMarks();
+if(!STORAGE_OK){ var sn=document.getElementById('storenote'); if(sn) sn.textContent='※この環境では自動保存（localStorage）が無効です。「書き出し」で進捗をファイル保存し、次回「読込」で復元してください。'; }
+function markDone(w,btn){ if(doneSet.has(w)){doneSet.delete(w);btn.classList.remove('on');}else{doneSet.add(w);btn.classList.add('on');} saveSet(LS_DONE,doneSet); apply(); }
+function markStar(w,btn){ if(starSet.has(w)){starSet.delete(w);btn.classList.remove('on');}else{starSet.add(w);btn.classList.add('on');} saveSet(LS_STAR,starSet); apply(); }
+function apply(){
+  var q=document.getElementById('q').value.trim().toLowerCase();
+  var n=0;
+  items.forEach(function(li){
+    var w=li.getAttribute('data-word');
+    var hit=!q || w.toLowerCase().indexOf(q)>=0 || li.getAttribute('data-gloss').toLowerCase().indexOf(q)>=0;
+    if(hit && activePos.size){ var pk=(li.getAttribute('data-pos')||'').split(' '); hit=pk.some(function(p){return activePos.has(p);}); }
+    if(hit && activeLvl.size){ hit=activeLvl.has(li.getAttribute('data-level')); }
+    if(hit && onlyStar) hit=starSet.has(w);
+    if(hit && onlyTodo) hit=!doneSet.has(w);
+    li.classList.toggle('hide', !hit);
+    if(hit) n++;
+  });
+  document.getElementById('count').textContent = n + ' / ' + items.length + ' 語'
+    + (doneSet.size? '（覚えた '+doneSet.size+'）':'');
+}
+function sortBy(mode){
+  sortMode=mode;
+  var arr=items.slice();
+  arr.sort(function(a,b){
+    if(mode==='az') return a.getAttribute('data-word').localeCompare(b.getAttribute('data-word'));
+    if(mode==='level'){ var la=a.getAttribute('data-level')||'Z', lb=b.getAttribute('data-level')||'Z'; if(la!==lb) return la<lb?-1:1; return a.getAttribute('data-word').localeCompare(b.getAttribute('data-word')); }
+    return (+a.getAttribute('data-rank')) - (+b.getAttribute('data-rank'));
+  });
+  arr.forEach(function(li){ listEl.appendChild(li); });
+}
+document.getElementById('q').addEventListener('input', apply);
+document.getElementById('sortseg').addEventListener('click', function(ev){
+  var b=ev.target.closest('button[data-sort]'); if(!b) return;
+  this.querySelectorAll('button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on');
+  sortBy(b.getAttribute('data-sort'));
+});
+document.querySelectorAll('.f-pos').forEach(function(b){ b.addEventListener('click', function(){ var p=b.getAttribute('data-pos'); if(activePos.has(p)){activePos.delete(p);b.classList.remove('on');}else{activePos.add(p);b.classList.add('on');} apply(); }); });
+document.querySelectorAll('.f-lvl').forEach(function(b){ b.addEventListener('click', function(){ var l=b.getAttribute('data-lvl'); if(activeLvl.has(l)){activeLvl.delete(l);b.classList.remove('on');}else{activeLvl.add(l);b.classList.add('on');} apply(); }); });
+document.getElementById('onlyStar').addEventListener('click', function(){ onlyStar=!onlyStar; this.classList.toggle('on',onlyStar); apply(); });
+document.getElementById('onlyTodo').addEventListener('click', function(){ onlyTodo=!onlyTodo; this.classList.toggle('on',onlyTodo); apply(); });
+sortBy('rank'); apply();
+</script>
+</body>
+</html>

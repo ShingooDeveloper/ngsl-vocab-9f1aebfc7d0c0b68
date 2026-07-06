@@ -1,0 +1,22 @@
+# --- 公開に不要な大容量デモ・生成物を除外 ---
+# base64埋め込みの単一ファイルデモ（各 ~451MB）
+index-demo-embedded.html
+ngsl-sample-embedded.html
+
+# 単一ファイル版デモ（site/ を公開するので不要）
+ngsl-sample.html
+ngsl-sample.md
+
+# 生成用データ・スクリプト・スキーマ
+data/
+data-en/
+scripts/
+schema/
+
+# ドキュメント
+HANDOFF.md
+IMPLEMENTATION_PLAN.md
+
+# OS/エディタ
+Thumbs.db
+.DS_Store
