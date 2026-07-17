@@ -1,0 +1,92 @@
+{
+  "word": "dust",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/dʌst/",
+  "rank": 2445,
+  "level": "A1",
+  "hi": "dust(?:s|ed|ing)?|dusty",
+  "meanings": [
+    "【名詞】微細な粉状物質、ほこり、塵（fine powder particles）",
+    "【名詞】マインクラフトの粉状ブロック、例えばレッドストーンダスト（powder-like blocks such as redstone dust）",
+    "【名詞】採掘時に生じる粉塵、爆発による塵（particles created by mining or explosions）",
+    "【動詞】ほこりを払い落とす、きれいにする（remove dust or dirt from something）",
+    "【動詞】粉末をまぶす、粉で覆う（coat or sprinkle something with powder）"
+  ],
+  "examples": [
+    {
+      "en": "Add redstone dust to activate this device.",
+      "ja": "このデバイスを起動するためにレッドストーンダストを加えてください。",
+      "ipa": "/æd ˈrɛdˌstoʊn dʌst tuː ˈæktəveɪt ðɪs dɪˈvaɪs/",
+      "linking": [
+        "dust to: dust の末尾子音 /t/ が to の弱形 /tə/ の初頭母音 /ə/ に連結 [ˈdʌ stə] ダスタ",
+        "to は機能語で弱形 /tə/ に弱化",
+        "this device: device の末尾 /s/ が次の単語に続く場合の例。ここでは the が弱形 /ðə/"
+      ],
+      "kana": "アド レッドストウン ダスタ アクティベイト ディス ディヴァイス"
+    },
+    {
+      "en": "Dust off your pickaxe before entering the cave.",
+      "ja": "洞窟に入る前にピッケルをきれいにしましょう。",
+      "ipa": "/dʌst ɔf jɔr ˈpɪkæks bɪˈfɔr ˈɛntərɪŋ ðə keɪv/",
+      "linking": [
+        "Dust off: dust の末尾子音 /t/ が off の初頭母音 /ɔ/ に連結 [ˈdʌ sɔf] ダサフ",
+        "before entering: before の末尾子音 /r/ が entering の初頭 /ɛ/ に連結 [bɪˈfɔr ɛn] ビフォエン",
+        "the は弱形 /ðə/ ザ"
+      ],
+      "kana": "ダサフ ユア ピカックス ビフォア エンタリング ザ ケイブ"
+    },
+    {
+      "en": "The explosion covered everything in dust and debris.",
+      "ja": "爆発で塵と瓦礫が周囲に飛び散りました。",
+      "ipa": "/ðə ɪkˈsploʊʒən ˈkʌvərd ˈɛvrɪθɪŋ ɪn dʌst ənd dɪˈbri/",
+      "linking": [
+        "The は弱形 /ðə/ ザ",
+        "dust and: dust の末尾子音 /t/ が and の初頭母音 /æ/ に連結 [ˈdʌ stænd] ダスタンド",
+        "and debris: and の末尾 /d/ が debris の初頭 /d/ に続く（同一子音で未開放 or 重なる）"
+      ],
+      "kana": "ザ イクスプロウジャン カヴァード エヴリシング イン ダスタンド デブリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "dust off",
+      "ja": "準備する、再開する、古いものを取り出して使う",
+      "example": "Let's dust off our mining gear and explore that new cave system.",
+      "example_ja": "採掘道具をきれいにして、その新しい洞窟システムを探索しましょう。",
+      "ipa": "/lɛts dʌst ɔf aʊr ˈmaɪnɪŋ ɡɪr ənd ɪkˈsplɔr ðæt ˈnjuː keɪv ˈsɪstəm/",
+      "linking": [
+        "Dust off: dust の末尾子音 /t/ が off の初頭母音 /ɔ/ に連結 [ˈdʌ sɔf] ダサフ",
+        "our mining: our の末尾 /r/ が mining の初頭 /m/ に続く（子音+子音）",
+        "and explore: and の末尾 /d/ が explore の初頭 /ɪ/ に連結 [əndɪk] アンディク"
+      ],
+      "kana": "レッツ ダサフ アワー マイニング ギア アンディクスプロア ザット ニュー ケイブ システム"
+    },
+    {
+      "idiom": "bite the dust",
+      "ja": "壊れる、破損する、失敗する",
+      "example": "My stone tool bit the dust when I went down into the mine.",
+      "example_ja": "鉱山の奥深くに進んだとき、石のツールが壊れました。",
+      "ipa": "/maɪ ˈstoʊn ˈtul bɪt ðə dʌst ʍɛn aɪ ˈwɛnt daʊn ˈɪntuː ðə ˈmaɪn/",
+      "linking": [
+        "when I: when の末尾子音 /n/ が I の初頭母音 /aɪ/ に連結 [ʍɛn aɪ] ホエナイ",
+        "went down: went の末尾 /t/ が down の初頭母音 /d/... 実は /d/ は子音。down /d/ に続く（子音+子音）",
+        "into the: into の末尾 /ə/ が the の初頭子音 /ð/ に続く。the は弱形 /ðə/ ザ"
+      ],
+      "kana": "マイ ストウン トゥール ビッ ザ ダスト ホエナイ ウェント ダウン イントゥー ザ マイン"
+    },
+    {
+      "idiom": "gather dust",
+      "ja": "使われずに放置される、眠ったままになる",
+      "example": "Old pickaxes gather dust in my storage vault after mining ends.",
+      "example_ja": "採掘が終わった後、古いピッケルは倉庫に放置されたままです。",
+      "ipa": "/ˈoʊld ˈpɪkæksɪz ˈɡæðər dʌst ɪn maɪ ˈstɔrɪdʒ vɔlt ˈæftər ˈmaɪnɪŋ ˈɛndz/",
+      "linking": [
+        "gather dust: gather の末尾 /r/ が dust の初頭 /d/ に続く（子音+子音）。だが gather の末尾 /r/ と dust の連結を考えると [ˈɡæðər dʌst]",
+        "in my: in の末尾 /n/ が my の初頭 /m/ に続く（子音+子音）",
+        "mining ends: mining の末尾 /ŋ/ が ends の初頭 /ɛ/ に続く（鼻音+母音のような関係）"
+      ],
+      "kana": "オウルド ピカックシズ ギャザー ダスト イン マイ ストレッジ ヴォルト アフター マイニング エンズ"
+    }
+  ]
+}
