@@ -1,0 +1,176 @@
+{
+  "word": "be",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/bi/",
+  "rank": 2,
+  "level": "A1",
+  "hi": "be|is, am, are|was, were|been|being",
+  "meanings": [
+    "【動詞】存在する・いる・ある（to exist or live）",
+    "【動詞】～になる・～である・～の状態にある（to become; to equal; to remain in a state）",
+    "【動詞】状態・条件・位置などを示す補動詞（linking verb showing state, condition, or location）",
+    "【動詞】マインクラフトコマンドと日常会話で最頻出の基本動詞（the most fundamental and frequent verb in Minecraft commands and gameplay）"
+  ],
+  "examples": [
+    {
+      "en": "There is a creeper nearby.",
+      "ja": "近くにクリーパーがいます。",
+      "ipa": "/ðɛr ɪz ə ˈkriːpɚ ˈnɪrˌbaɪ/",
+      "linking": [
+        "There は副詞で強形。is /ɪz/ の初頭母音に連なり、自然な流れ。",
+        "a は冠詞で弱形 /ə/。creeper の初頭母音 /k/ に連結。"
+      ],
+      "kana": "ゼア イズ ア クリーパー ニアバイ"
+    },
+    {
+      "en": "I am ready to fight.",
+      "ja": "戦う準備ができています。",
+      "ipa": "/aɪ æm ˈrɛdi tə ˈfaɪt/",
+      "linking": [
+        "am は弱形 /əm/。ready の初頭母音 /r/ に連結 [əm ˈrɛdi]。",
+        "to は機能語で弱形 /tə/。fight の初頭に連結。"
+      ],
+      "kana": "アイ アム レディ タ ファイト"
+    },
+    {
+      "en": "Diamonds are very rare.",
+      "ja": "ダイヤモンドはとても珍しいです。",
+      "ipa": "/ˈdaɪmənds ɑr ˈvɛri ˈrɛr/",
+      "linking": [
+        "are は弱形 /ɚ/ でも強形 /ɑr/ でも可。ここでは強形。very の初頭に連結。"
+      ],
+      "kana": "ダイモンズ アー ベリ レア"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "there is / there are",
+      "ja": "～がある・～がいる（存在を示す表現）",
+      "example": "There are many mobs in the cave.",
+      "example_ja": "洞窟にはたくさんのモブがいます。",
+      "ipa": "/ðɛr ɑr ˈmɛni ˈmoʊbz ɪn ðə ˈkeɪv/",
+      "linking": [
+        "There は副詞で強形。are /ɑr/ の初頭に連なる。",
+        "many の末尾音 /i/ は弱く、mobs の初頭 /m/ に連なる。",
+        "in ðə は弱形で /ɪn ðə/ に短縮。"
+      ],
+      "kana": "ゼア アー メニ モブズ イン ザ ケイヴ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "is",
+      "ipa": "/ɪz/",
+      "examples": [
+        {
+          "en": "There is a diamond ore.",
+          "ja": "そこにダイヤモンド鉱石があります。",
+          "ipa": "/ðɛr ɪz ə ˈdaɪmənd ɔr/",
+          "linking": [
+            "There は副詞で強形。is /ɪz/ の初頭に連なる。",
+            "a は冠詞で弱形 /ə/。diamond の初頭母音 /aɪ/ に連結 [ə ˈdaɪmənd]。"
+          ],
+          "kana": "ゼア イズ ア ダイモンド オア"
+        },
+        {
+          "en": "This chest is full of wood.",
+          "ja": "このチェストは木でいっぱいです。",
+          "ipa": "/ðɪs ˈtʃɛst ɪz ˌfʊl əv ˈwʊd/",
+          "linking": [
+            "This は限定詞で強形。chest の初頭に連なる。",
+            "chest の末尾子音 /t/ は未開放で次の is に連続 [tʃɛst ɪz]。",
+            "of は弱形 /əv/。full の末尾子音 /l/ に連結 [fʊl əv]。"
+          ],
+          "kana": "ディス チェスト イズ フル アヴ ウッド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "was",
+      "ipa": "/wɑz/ または /wəz/",
+      "examples": [
+        {
+          "en": "I was mining when the creeper came.",
+          "ja": "クリーパーが来たときに掘っていました。",
+          "ipa": "/aɪ wəz ˈmaɪnɪŋ wɛn ðə ˈkriːpɚ keɪm/",
+          "linking": [
+            "was は弱形 /wəz/。文中では /əz/ に弱化。mining の初頭 /m/ に連結 [wəz ˈmaɪnɪŋ]。",
+            "the は弱形 /ðə/。creeper に連結 [ðə ˈkriːpɚ]。"
+          ],
+          "kana": "アイ ワズ マイニング ウェン ザ クリーパー ケイム"
+        },
+        {
+          "en": "The biome was beautiful before.",
+          "ja": "前はそのバイオームが美しかったです。",
+          "ipa": "/ðə ˈbaɪˌoʊm wəz ˈbjuːtəfəl bɪˈfɔr/",
+          "linking": [
+            "the は弱形 /ðə/。biome に連結 [ðə ˈbaɪˌoʊm]。",
+            "was は弱形 /wəz/。beautiful の初頭 /b/ に連結 [wəz ˈbjuːtəfəl]。"
+          ],
+          "kana": "ザ バイオーム ワズ ビューティフル ビフォア"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "been",
+      "ipa": "/bin/ または /bɪn/",
+      "examples": [
+        {
+          "en": "I have been building all night.",
+          "ja": "一晩中建設していました。",
+          "ipa": "/aɪ hæv ˈbɪn ˈbɪldɪŋ ɔl ˈnaɪt/",
+          "linking": [
+            "have は弱形 /həv/。been の初頭 /b/ に連結 [hæv ˈbɪn]。",
+            "been は短い機能語で /bɪn/。building の初頭 /b/ に連結 [ˈbɪn ˈbɪldɪŋ]。"
+          ],
+          "kana": "アイ ハブ ビン ビルディング オール ナイト"
+        },
+        {
+          "en": "The server has been running fine.",
+          "ja": "サーバーが調子よく動いています。",
+          "ipa": "/ðə ˈsɝvɚ hæz ˈbɪn ˈrʌnɪŋ ˈfaɪn/",
+          "linking": [
+            "the は弱形 /ðə/。server に連結 [ðə ˈsɝvɚ]。",
+            "has は弱形 /həz/ 。been の初頭 /b/ に連結 [həz ˈbɪn]。"
+          ],
+          "kana": "ザ サーバー ハズ ビン ラニング ファイン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "being",
+      "ipa": "/ˈbiɪŋ/ または /ˈbɪŋ/",
+      "examples": [
+        {
+          "en": "Stop being so loud in chat.",
+          "ja": "チャットでそんなに大きな声出さないで。",
+          "ipa": "/stɑp ˈbɪŋ soʊ ˈlaʊd ɪn ˈtʃæt/",
+          "linking": [
+            "being は /ˈbɪŋ/。so の初頭子音 /s/ に連結 [ˈbɪŋ soʊ]。",
+            "loud の末尾子音 /d/ は未開放で、in の初頭に連続 [ˈlaʊd ɪn]。"
+          ],
+          "kana": "ストップ ビング ソ ラウド イン チャット"
+        },
+        {
+          "en": "I'm being chased by zombies.",
+          "ja": "ゾンビに追われています。",
+          "ipa": "/aɪm ˈbɪŋ ˈtʃeɪst baɪ ˈzɑmiz/",
+          "linking": [
+            "I'm は /aɪm/。being の初頭 /b/ に連結 [aɪm ˈbɪŋ]。",
+            "being は /ˈbɪŋ/。chased の初頭 /tʃ/ に連結 [ˈbɪŋ ˈtʃeɪst]。"
+          ],
+          "kana": "アイム ビング チェイスト バイ ゾンビズ"
+        }
+      ]
+    }
+  ]
+}

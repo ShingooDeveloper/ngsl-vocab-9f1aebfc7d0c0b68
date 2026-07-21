@@ -1,77 +1,57 @@
 {
   "word": "restrict",
-  "pos": "動詞・形容詞",
-  "pos_all": "動詞・形容詞",
+  "pos": "動詞",
+  "pos_all": "動詞",
   "ipa_us": "/rɪˈstrɪkt/",
   "rank": 2043,
-  "level": "B1",
-  "hi": "restrict(?:s|ed|ing)?|restricted",
+  "level": "B2",
+  "hi": "restrict|restricts|restricted|restricting",
   "meanings": [
-    "【動詞】～を制限する、限定する（…to keep within limits or bounds）",
-    "【動詞】～を束縛する、制限を加える（…to constrain or confine）",
-    "【形容詞】制限された、限定された（…limited in scope, constrained）",
-    "【形容詞】秘密の、限定公開の（…accessible only to certain people）"
+    "【動詞】何かを制限・限定する、その規模や程度を減らす（to limit or reduce something in scope or amount）",
+    "【動詞】何かがある領域や人々だけに限定される、閉じ込める（to confine something to a specific area or group of people）",
+    "【動詞】何かを禁止・規制する、許可しない（to prohibit or prevent an action or access）"
   ],
   "examples": [
     {
-      "en": "You must restrict access to keep the server safe.",
-      "ja": "サーバーを安全に保つため、アクセスを制限する必要があります。",
-      "ipa": "/ju məst rɪˈstrɪkt ˈæksɛs tə kip ðə ˈsɝvɚ seɪf/",
+      "en": "We need to restrict mob spawning near the base.",
+      "ja": "ベース近くのモブの繁殖を制限する必要があります。",
+      "ipa": "/wi ˈniːd tə rɪˈstrɪkt ˈmoʊb ˈspoʊnɪŋ nɪr ðə ˈbeɪs/",
       "linking": [
-        "restrict の語末子音 /t/ が access の /æ/ に連結 [rɪˈstrɪk tæ] リストリクタ",
-        "to は弱形 /tə/ タ",
-        "the は弱形 /ðə/ ザ"
+        "need の末尾子音 /d/ と to の弱形 /tə/ が連結。結果は [ˈniːdə] ニーダ",
+        "the は弱形 /ðə/"
       ],
-      "kana": "ユー マスト リストリクタ タ キープ ザ サーバー セイフ"
+      "kana": "ウィ ニーダ リストリクト モブ スポーニング ニアー ザ ベイス"
     },
     {
-      "en": "Mining inside is restricted to the quarry area only.",
-      "ja": "内部での採掘はクォーリーエリアのみに制限されています。",
-      "ipa": "/ˈmaɪnɪŋ ɪnˈsaɪd ɪz rɪˈstrɪktəd tə ðə ˈkwɔri ˈɛɹiə ˈoʊnli/",
-      "linking": [
-        "inside の語末子音 /d/ が is の /ɪ/ に連結 [ɪnˈsaɪ dɪz] インサイディズ",
-        "to は弱形 /tə/ タ",
-        "the は弱形 /ðə/ ザ"
-      ],
-      "kana": "マイニング インサイディズ リストリクティド タ ザ クォーリー エリア オンリー"
+      "en": "This command restricts players from breaking blocks here.",
+      "ja": "このコマンドはプレイヤーがここでブロックを壊すのを制限します。",
+      "ipa": "/ðɪs kəˈmænd rɪˈstrɪkts ˈpleɪɚz frəm ˈbreɪkɪŋ ˈblɑks hɪr/",
+      "linking": [],
+      "kana": "ディス カマンド リストリクツ プレイアーズ フロム ブレイキング ブロックス ヒアー"
     },
     {
-      "en": "Players cannot enter restricted zones without permission.",
-      "ja": "プレイヤーは許可なしに制限ゾーンに入ることができません。",
-      "ipa": "/ˈpleɪɚz ˈkænɑt ˈɛntɚ rɪˈstrɪktəd ˈzoʊnz wɪðaʊt pɚˈmɪʃən/",
+      "en": "Mining in the nether is restricted to authorized members.",
+      "ja": "ネザーでの採掘は認可されたメンバーのみに制限されています。",
+      "ipa": "/ˈmaɪnɪŋ ɪn ðə ˈnɛðɚ ɪz rɪˈstrɪktəd tu ˌɔθəˈraɪzd ˈmɛmbɚz/",
       "linking": [
-        "cannot の語末子音 /t/ が enter の /ɛ/ に連結 [ˈkænɑt̚ ɛ] キャンノッテンター",
-        "without の語末子音 /t/ は未開放 [wɪðaʊt̚] ウィザウト"
+        "the は弱形 /ðə/",
+        "in は前置詞で短縮なし"
       ],
-      "kana": "プレイアーズ キャンノッテンター リストリクティド ゾーンズ ウィザウト パーミッション"
+      "kana": "マイニング イン ザ ネザー イズ リストリクティド トゥ オソライズド メンバーズ"
     }
   ],
   "idioms": [
     {
       "idiom": "restrict access to",
       "ja": "～へのアクセスを制限する",
-      "example": "Admins restrict access to the vault to prevent theft.",
-      "example_ja": "管理者は盗難を防ぐため、金庫へのアクセスを制限します。",
-      "ipa": "/ˈædmɪnz rɪˈstrɪkt ˈæksɛs tə ðə vɔlt tə prɪˈvɛnt θɛft/",
+      "example": "Admins restrict access to the nether portal to prevent griefing.",
+      "example_ja": "管理者はグリーフィングを防ぐためにネザーポータルへのアクセスを制限します。",
+      "ipa": "/ˈædmɪnz rɪˈstrɪkt ˈæksɛs tu ðə ˈnɛðɚ ˈpɔɹtəl tu prɪˈvɛnt ˈɡriːfɪŋ/",
       "linking": [
-        "restrict の語末子音 /t/ が access の /æ/ に連結 [rɪˈstrɪk tæ] リストリクタ",
-        "to は弱形 /tə/ タ",
-        "the は弱形 /ðə/ ザ"
+        "restrict の語末子音 /t/ が access の初頭 /æ/ に連結 [rɪˈstrɪktæ]",
+        "the は弱形 /ðə/"
       ],
-      "kana": "アドミンズ リストリクタ タ ザ ヴォルト タ プリベント セフト"
-    },
-    {
-      "idiom": "restrict from",
-      "ja": "～するのを制限する、禁止する",
-      "example": "New players are restricted from using TNT and lava.",
-      "example_ja": "新プレイヤーはTNTと溶岩の使用が制限されています。",
-      "ipa": "/ˈnu ˈpleɪɚz ɑɹ rɪˈstrɪktəd frəm ˈjuːzɪŋ ˌtiːɛnˈtiː ənd ˈlɑvə/",
-      "linking": [
-        "are は弱形で /ɑɹ/ で次の /r/ に続く。restricted の /r/ と連結 [ɑɹ rɪ] アー リストリクティド",
-        "from は弱形 /frəm/ フラム",
-        "and は弱形 /ənd/ ən アン"
-      ],
-      "kana": "ニュー プレイアーズ アー リストリクティド フラム ユージング ティーエヌティー アン ラバ"
+      "kana": "アドミンズ リストリクタ クセス トゥ ザ ネザー ポータル トゥ プリベント グリーフィング"
     }
   ]
 }

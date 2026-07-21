@@ -1,0 +1,188 @@
+{
+  "word": "get",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɡɛt/",
+  "rank": 5,
+  "level": "A1",
+  "hi": "get(?:s|ting|(?:got|ten))?",
+  "meanings": [
+    "【動詞】得る、獲得する（obtain or acquire something）",
+    "【動詞】受け取る、もらう（receive something）",
+    "【動詞】～になる、～に到達する（become or reach a particular state）",
+    "【動詞】理解する、把握する（understand or comprehend）"
+  ],
+  "examples": [
+    {
+      "en": "I need to get some wood for building.",
+      "ja": "建築用に木をいくつか入手する必要があります。",
+      "ipa": "/aɪ ˈniːd tə ɡɛt səm wʊd fɔr ˈbɪldɪŋ/",
+      "linking": [
+        "need to: need の語末 /d/ が to の弱形 /tə/ に連結 [ˈniːdə] ニーダ",
+        "some は機能語で弱形 /səm/",
+        "for は機能語で弱形 /fɔr/ または /fər/"
+      ],
+      "kana": "アイ ニーダ ゲット サム ウッド フォア ビルディング"
+    },
+    {
+      "en": "We got lost in the cave last night.",
+      "ja": "昨晩、洞窟で迷ってしまいました。",
+      "ipa": "/wi ɡɑt lɔst ɪn ðə ˈkeɪv læst ˈnaɪt/",
+      "linking": [
+        "got lost: got の語末 /t/ は未開放で lost の /l/ に続く [ɡɑt̚ lɔst] ガッ ロスト",
+        "the は弱形 /ðə/ で cave の初頭に連結 [ðə keɪv] ザ ケイヴ"
+      ],
+      "kana": "ウィ ガッ ロスト イン ザ ケイヴ ラースト ナイト"
+    },
+    {
+      "en": "Did you get any diamonds today?",
+      "ja": "今日はダイヤモンドを入手しましたか？",
+      "ipa": "/dɪd juː ɡɛt ˈɛni ˈdaɪməndz təˈdeɪ/",
+      "linking": [
+        "Did you: did の語末 /d/ は未開放で you の初頭 /j/ に続く [dɪd̚ juː] ディッ ユー",
+        "to は弱形 /tə/ で day に連結 [təˈdeɪ] タデイ"
+      ],
+      "kana": "ディッ ユー ゲット エニー ダイモンズ タデイ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "get away",
+      "ja": "逃げる、脱出する",
+      "example": "We need to get away from the creeper!",
+      "example_ja": "クリーパーから逃げる必要があります！",
+      "ipa": "/wi ˈniːd tə ɡɛt əˈweɪ frəm ðə ˈkriːpər/",
+      "linking": [
+        "need to: /d/ が /t/ に連結 [ˈniːdə]",
+        "get away: /t/ が /ə/ に連結 [ɡɛtə]",
+        "from は弱形 /frəm/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ウィ ニーダ ゲッタウェイ フラム ザ クリーパー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "gets",
+      "ipa": "/ɡɛts/",
+      "examples": [
+        {
+          "en": "He gets a lot of experience points from mining.",
+          "ja": "彼は採掘から多くの経験値を得ます。",
+          "ipa": "/hi ɡɛts ə ˈlɑt əv ɪkˈspɪriəns ˈpɔɪnts frəm ˈmaɪnɪŋ/",
+          "linking": [
+            "gets a: gets の語末 /s/ が a の弱形 /ə/ に連結 [ɡɛtsə] ゲッツア",
+            "a lot: a は弱形 /ə/、lot は /ɑt/",
+            "of は弱形 /əv/ で experience の初頭に連結",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "ヒー ゲッツア ロット アヴ イクスピアリエンス ポインツ フラム マイニング"
+        },
+        {
+          "en": "She gets scared whenever she hears a creeper hiss.",
+          "ja": "クリーパーの音を聞くたびに彼女は怖くなります。",
+          "ipa": "/ʃi ɡɛts ˈskɛrd wɛnˈɛvər ʃi ˈhɪrz ə ˈkriːpər hɪs/",
+          "linking": [
+            "gets scared: gets の語末 /s/ が scared の初頭 /s/ に続く [ɡɛts ˈskɛrd] ゲッツ スケアード",
+            "whenever her: /r/ が /h/ に先行、連結なし",
+            "a は弱形 /ə/ で creeper の初頭に連結"
+          ],
+          "kana": "シー ゲッツ スケアード ウェンエヴァー シー ヒアーズ ア クリーパー ヒス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "got",
+      "ipa": "/ɡɑt/",
+      "examples": [
+        {
+          "en": "I got attacked by a zombie in the dark.",
+          "ja": "暗闇でゾンビに攻撃されました。",
+          "ipa": "/aɪ ɡɑt əˈtækt baɪ ə ˈzɑmbi ɪn ðə ˈdɑrk/",
+          "linking": [
+            "got attacked: got の語末 /t/ は未開放で attacked の初頭 /ə/ に続く [ɡɑt̚ əˈtækt] ガッ アタックド",
+            "by a: by は /baɪ/、a は弱形 /ə/ に連結 [baɪə] バイア",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ガッ アタックド バイア ゾンビー イン ザ ダーク"
+        },
+        {
+          "en": "They got the achievement after defeating the Ender Dragon.",
+          "ja": "エンダードラゴンを倒した後、彼らは実績を獲得しました。",
+          "ipa": "/ðeɪ ɡɑt ðə əˈtʃiːvmənt ˈæftər dɪˈfiːtɪŋ ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "got the: got の語末 /t/ は未開放で the の初頭に続く [ɡɑt̚ ðə] ガッ ザ",
+            "the は弱形 /ðə/ で achievement に連結",
+            "defeating the: defeating の語末 /ŋ/ が the の初頭に続く"
+          ],
+          "kana": "ザエイ ガッ ザ アチーヴメント アフター ディフィーティング ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "gotten",
+      "ipa": "/ˈɡɑtən/",
+      "examples": [
+        {
+          "en": "Have you gotten any enchanted books from fishing?",
+          "ja": "釣りでエンチャント本を獲得しましたか？",
+          "ipa": "/hæv juː ˈɡɑtən ˈɛni ɪnˈtʃæntɪd ˈbʊks frəm ˈfɪʃɪŋ/",
+          "linking": [
+            "Have you: have の語末 /v/ が you の初頭 /j/ に連結 [hævj] ハヴユー",
+            "any enchanted: any は /ˈɛni/ で最後の /i/ が enchanted の /ɪ/ に続く",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "ハヴ ユー ガッテン エニー インチャンティッド ブックス フラム フィッシング"
+        },
+        {
+          "en": "The map has gotten much better since we explored more.",
+          "ja": "もっと探索してから、地図がずっと良くなりました。",
+          "ipa": "/ðə mæp hæz ˈɡɑtən mʌtʃ ˈbɛtər sɪns wi ɪkˈsplɔrd mɔr/",
+          "linking": [
+            "the は弱形 /ðə/ で map に連結",
+            "has gotten: has は /hæz/、gotten は /ˈɡɑtən/ で自然に続く",
+            "much better: /tʃ b/ 子音が続く",
+            "since we: /s/ が /w/ に続く"
+          ],
+          "kana": "ザ マップ ハズ ガッテン マッチ ベター シンス ウィ エクスプロアド モア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "getting",
+      "ipa": "/ˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm getting close to finding the stronghold.",
+          "ja": "要塞を見つけるのに近づいています。",
+          "ipa": "/aɪm ˈɡɛtɪŋ ˈkloʊs tə ˈfaɪndɪŋ ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "I'm getting: I'm の /m/ が getting の初頭に連結 [aɪm ˈɡɛtɪŋ] アイム ゲッティング",
+            "close to: to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイム ゲッティング クロース タ ファインディング ザ ストロンホールド"
+        },
+        {
+          "en": "Are they getting enough food for the long journey?",
+          "ja": "長い旅のために十分な食料を確保していますか？",
+          "ipa": "/ɑr ðeɪ ˈɡɛtɪŋ ɪˈnʌf ˈfuːd fɔr ðə ˈlɔŋ ˈdʒɝni/",
+          "linking": [
+            "Are they: are の /r/ が they の初頭 /ð/ に連結 [ɑrð] アーザ",
+            "enough for: enough の /f/ が for に自然に続く、for は弱形 /fɔr/ または /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アーザ ゲッティング イナフ フード フォア ザ ロング ジャーニー"
+        }
+      ]
+    }
+  ]
+}

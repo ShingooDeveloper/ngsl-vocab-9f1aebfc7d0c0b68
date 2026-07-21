@@ -1,0 +1,244 @@
+{
+  "word": "test",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/test/",
+  "rank": 1234,
+  "level": "A1",
+  "hi": "test|tests|tested|testing",
+  "meanings": [
+    "【動詞】試験する、テストする、テストによって確認する（check the quality, performance, or reliability of something）",
+    "【動詞】（人の能力や忍耐を）試す、試験する（put someone's ability or patience to a severe trial）",
+    "【名詞】試験、テスト、検査（a procedure intended to establish the quality, performance, or reliability of something）",
+    "【名詞】試練、試験（a challenging or demanding situation that tests someone's abilities）"
+  ],
+  "examples": [
+    {
+      "en": "I need to test this new redstone circuit.",
+      "ja": "この新しいレッドストーン回路をテストする必要があります。",
+      "ipa": "/aɪ niːd tə ˈtɛst ðɪs ˈnu ˈrɛdˌstoʊn ˈsɜrkət/",
+      "linking": [
+        "need の末尾 /d/ が to の弱形 /ə/ に連結 [niːdə]ニーダ",
+        "to は機能語で弱形 /tə/、test の初頭 /t/ に別音 [tə ˈtɛst]タ テスト",
+        "this の末尾 /s/ が new の初頭 /n/。別音なので [ðɪs ˈnu]ジス ニュー"
+      ],
+      "kana": "アイ ニーダ テスト ジス ニュー レッドストーン サーキット"
+    },
+    {
+      "en": "The test checks if the farm produces enough crops.",
+      "ja": "このテストは農場が十分な作物を生産するかどうかを確認します。",
+      "ipa": "/ðə ˈtɛst tʃɛks ɪf ðə fɑrm prəˈduːsəz ɪˈnʌf krɑps/",
+      "linking": [
+        "The は冠詞で弱形 /ðə/、test の初頭 /t/ に滑らかに連結 [ðə ˈtɛst]ザ テスト",
+        "test の末尾 /t/ が checks の初頭 /tʃ/。別音なので [ˈtɛst tʃɛks]テスト チェックス",
+        "the は弱形 /ðə/、farm の初頭 /f/ に [ðə fɑrm]ザ ファーム"
+      ],
+      "kana": "ザ テスト チェックス イフ ザ ファーム プロデューシーズ イナフ クラップス"
+    },
+    {
+      "en": "Survival mode is the ultimate test of your skills.",
+      "ja": "サバイバルモードはあなたのスキルの究極のテストです。",
+      "ipa": "/sərˈvaɪvəl moʊd ɪz ðə ˈʌltəmət ˈtɛst əv ˈjɔr skɪlz/",
+      "linking": [
+        "mode の末尾 /d/ が is の初頭 /ɪ/。別音なので [moʊd ɪz]モード イズ",
+        "the は弱形 /ðə/、ultimate の初頭 /ʌ/ に [ðə ˈʌltəmət]ザ アルティメット",
+        "of は弱形 /əv/、your の初頭 /j/ に別音 [əv ˈjɔr]アヴ ジョー"
+      ],
+      "kana": "サーヴァイヴァル モード イズ ザ アルティメット テスト アヴ ジョー スキルズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "put to the test",
+      "ja": "試す、試練にさらす",
+      "example": "The survival challenge puts every player's skills to the test.",
+      "example_ja": "サバイバルチャレンジは全プレイヤーのスキルを試します。",
+      "ipa": "/ðə sərˈvaɪvəl ˈtʃælɪndʒ ˈpʊts ˈɛvri ˈpleɪɚz skɪlz tə ðə ˈtɛst/",
+      "linking": [
+        "puts の末尾 /s/ が every の初頭 /ɛ/。別音なので [ˈpʊts ˈɛvri]プッツ エブリー",
+        "to は弱形 /tə/、the の弱形 /ðə/ に別音 [tə ðə]タ ザ"
+      ],
+      "kana": "ザ サーヴァイヴァル チャレンジ プッツ エブリー プレイヤーズ スキルズ タ ザ テスト"
+    },
+    {
+      "idiom": "stand the test of time",
+      "ja": "時の試練に耐える、長く続く",
+      "example": "Good builds will stand the test of time on our server.",
+      "example_ja": "優れた建築はサーバーで長く持ちます。",
+      "ipa": "/ɡʊd bɪldz wɪl stænd ðə ˈtɛst əv ˈtaɪm ɑn ˈaʊr ˈsɝvɚ/",
+      "linking": [
+        "builds の末尾 /z/ が will の初頭 /w/。別音なので [bɪldz wɪl]ビルズ ウィル",
+        "the は弱形 /ðə/、test の初頭 /t/ に [ðə ˈtɛst]ザ テスト",
+        "of は弱形 /əv/、time の初頭 /t/ に別音 [əv ˈtaɪm]アヴ タイム"
+      ],
+      "kana": "グッド ビルズ ウィル スタンド ザ テスト アヴ タイム オン アワー サーバー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "名詞複数形",
+      "text": "tests",
+      "ipa": "/tɛsts/",
+      "examples": [
+        {
+          "en": "We need to run multiple tests for the redstone circuit.",
+          "ja": "レッドストーン回路用に複数のテストを実行する必要があります。",
+          "ipa": "/wi niːd tə rʌn ˈmʌltɪpəl ˈtɛsts fɔr ðə ˈrɛdˌstoʊn ˈsɜrkət/",
+          "linking": [
+            "need の末尾 /d/ が to の弱形 /ə/ に連結 [niːdə]ニーダ",
+            "to は弱形 /tə/、run の初頭 /r/ に別音 [tə rʌn]タ ラン",
+            "multiple の末尾 /l/ が tests の初頭 /t/。別音なので [ˈmʌltɪpəl ˈtɛsts]マルティプル テスツ",
+            "for は弱形 /fər/、the の弱形 /ðə/ に別音 [fər ðə]ファー ザ"
+          ],
+          "kana": "ウィー ニーダ ラン マルティプル テスツ ファー ザ レッドストーン サーキット"
+        },
+        {
+          "en": "Each test checks a different part of your build.",
+          "ja": "各テストは建築の異なる部分をチェックします。",
+          "ipa": "/itʃ ˈtɛst tʃɛks ə ˈdɪfərənt pɑrt əv ˈjɔr bɪld/",
+          "linking": [
+            "Each の末尾 /tʃ/ が test の初頭 /t/。別音なので [itʃ ˈtɛst]イーチ テスト",
+            "test の末尾 /t/ が checks の初頭 /tʃ/。別音なので [ˈtɛst tʃɛks]テスト チェックス",
+            "checks の末尾 /s/ が a の弱形 /ə/ に別音 [tʃɛks ə]チェックス ア",
+            "part の末尾 /t/ が of の弱形 /ə/ に未開放で詰まる [pɑrt̚ əv]パッ アヴ"
+          ],
+          "kana": "イーチ テスト チェックス ア ディファレント パッ アヴ ジョー ビルド"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "動詞三人称単数現在形",
+      "text": "tests",
+      "ipa": "/tɛsts/",
+      "examples": [
+        {
+          "en": "This system tests whether the trap works correctly.",
+          "ja": "このシステムはトラップが正しく機能するかどうかをテストします。",
+          "ipa": "/ðɪs ˈsɪstəm ˈtɛsts ˈwɛðər ðə træp wɝks kəˈrɛktli/",
+          "linking": [
+            "This の末尾 /s/ が system の初頭 /s/。同じ子音で1つに聞こえる [ðɪs ˈsɪstəm]ジス システム",
+            "system の末尾 /m/ が tests の初頭 /t/。別音なので [ˈsɪstəm ˈtɛsts]システム テスツ",
+            "tests の末尾 /s/ が whether の初頭 /w/。別音なので [ˈtɛsts ˈwɛðər]テスツ ウェザー",
+            "the は弱形 /ðə/、trap の初頭 /t/ に別音 [ðə træp]ザ トラップ"
+          ],
+          "kana": "ジス システム テスツ ウェザー ザ トラップ ワークス コレクトリー"
+        },
+        {
+          "en": "She tests the durability of every material before building.",
+          "ja": "彼女は建築する前にすべての材料の耐久性をテストします。",
+          "ipa": "/ʃi ˈtɛsts ðə ˌdʊrəˈbɪləti əv ˈɛvri məˈtɪriəl bɪˈfɔr ˈbɪldɪŋ/",
+          "linking": [
+            "She の末尾 /i/ が tests の初頭 /t/。別音なので [ʃi ˈtɛsts]シー テスツ",
+            "tests の末尾 /s/ が the の弱形 /ðə/ に別音 [ˈtɛsts ðə]テスツ ザ",
+            "the は弱形 /ðə/、durability の初頭 /d/ に [ðə ˌdʊrəˈbɪləti]ザ ジュラビリティ",
+            "of は弱形 /əv/、every の初頭 /ɛ/ に別音 [əv ˈɛvri]アヴ エブリー",
+            "building の末尾 /ŋ/ は鼻音で連結しない [ˈbɪldɪŋ]ビルディング"
+          ],
+          "kana": "シー テスツ ザ ジュラビリティ アヴ エブリー マテリアル ビフォー ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "tested",
+      "ipa": "/ˈtɛstəd/",
+      "examples": [
+        {
+          "en": "I tested the redstone door mechanism yesterday.",
+          "ja": "昨日、レッドストーンドアのメカニズムをテストしました。",
+          "ipa": "/aɪ ˈtɛstəd ðə ˈrɛdˌstoʊn ˈdɔr ˈmɛkənɪzəm ˈjɛstərdeɪ/",
+          "linking": [
+            "tested の末尾 /d/ が the の弱形 /ðə/ に連結 [ˈtɛstəd ðə]テステッド ザ",
+            "the は弱形 /ðə/、redstone の初頭 /r/ に [ðə ˈrɛdˌstoʊn]ザ レッドストーン",
+            "door の末尾 /r/ が mechanism の初頭 /m/。別音なので [ˈdɔr ˈmɛkənɪzəm]ドー メカニズム",
+            "mechanism の末尾 /m/ が yesterday の初頭 /j/。別音なので [ˈmɛkənɪzəm ˈjɛstərdeɪ]メカニズム イエスタデイ"
+          ],
+          "kana": "アイ テステッド ザ レッドストーン ドー メカニズム イエスタデイ"
+        },
+        {
+          "en": "We tested all the materials to find the strongest blocks.",
+          "ja": "最強のブロックを見つけるために、すべての材料をテストしました。",
+          "ipa": "/wi ˈtɛstəd ɔl ðə məˈtɪriəlz tə faɪnd ðə ˈstrɔŋəst blɑks/",
+          "linking": [
+            "We の末尾 /i/ が tested の初頭 /t/。別音なので [wi ˈtɛstəd]ウィー テステッド",
+            "tested の末尾 /d/ が all の初頭 /ɔ/。連結して [ˈtɛstəd ɔl]テステッド オール",
+            "all の末尾 /l/ が the の弱形 /ðə/ に連結 [ɔl ðə]オール ザ",
+            "to は弱形 /tə/、find の初頭 /f/ に別音 [tə faɪnd]タ ファインド",
+            "find の末尾 /d/ が the の弱形 /ðə/ に連結 [faɪnd ðə]ファインド ザ"
+          ],
+          "kana": "ウィー テステッド オール ザ マテリアルズ タ ファインド ザ ストロンガスト ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "tested",
+      "ipa": "/ˈtɛstəd/",
+      "examples": [
+        {
+          "en": "The design has been tested by hundreds of players.",
+          "ja": "そのデザインは数百のプレイヤーによってテストされています。",
+          "ipa": "/ðə dɪˈzaɪn hæz bɪn ˈtɛstəd baɪ ˈhʌndrədz əv ˈpleɪɚz/",
+          "linking": [
+            "The は弱形 /ðə/、design の初頭 /d/ に連結 [ðə dɪˈzaɪn]ザ ディザイン",
+            "been の末尾 /n/ が tested の初頭 /t/。別音なので [bɪn ˈtɛstəd]ビン テステッド",
+            "tested の末尾 /d/ が by の初頭 /b/。別音なので [ˈtɛstəd baɪ]テステッド バイ",
+            "of は弱形 /əv/、players の初頭 /p/ に別音 [əv ˈpleɪɚz]アヴ プレイヤーズ"
+          ],
+          "kana": "ザ ディザイン ハズ ビン テステッド バイ ハンドレッズ アヴ プレイヤーズ"
+        },
+        {
+          "en": "Once tested, the trap mechanism is guaranteed to work.",
+          "ja": "一度テストされると、トラップメカニズムは機能することが保証されます。",
+          "ipa": "/wʌns ˈtɛstəd ðə træp ˈmɛkənɪzəm ɪz ɡəˈræntid tə wɝk/",
+          "linking": [
+            "Once の末尾 /s/ が tested の初頭 /t/。別音なので [wʌns ˈtɛstəd]ワンス テステッド",
+            "tested の末尾 /d/ が the の弱形 /ðə/ に連結 [ˈtɛstəd ðə]テステッド ザ",
+            "the は弱形 /ðə/、trap の初頭 /t/ に別音 [ðə træp]ザ トラップ",
+            "mechanism の末尾 /m/ が is の初頭 /ɪ/。別音なので [ˈmɛkənɪzəm ɪz]メカニズム イズ",
+            "to は弱形 /tə/、work の初頭 /w/ に別音 [tə wɝk]タ ワーク"
+          ],
+          "kana": "ワンス テステッド ザ トラップ メカニズム イズ ガランティッド タ ワーク"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "testing",
+      "ipa": "/ˈtɛstɪŋ/",
+      "examples": [
+        {
+          "en": "We're testing if this farm design produces enough crops.",
+          "ja": "この農場デザインが十分な作物を生産するかどうかをテストしています。",
+          "ipa": "/wɪr ˈtɛstɪŋ ɪf ðɪs fɑrm dɪˈzaɪn prəˈduːsəz ɪˈnʌf krɑps/",
+          "linking": [
+            "We're は弱形で /wɪr/ (or /wɚ/)、testing の初頭 /t/ に別音なので [wɪr ˈtɛstɪŋ]ウィアー テスティング",
+            "testing の末尾 /ŋ/ が if の初頭 /ɪ/。別音なので [ˈtɛstɪŋ ɪf]テスティング イフ",
+            "if の末尾 /f/ が this の初頭 /ð/。別音なので [ɪf ðɪs]イフ ジス",
+            "this の末尾 /s/ が farm の初頭 /f/。別音なので [ðɪs fɑrm]ジス ファーム",
+            "farm の末尾 /m/ が design の初頭 /d/。別音なので [fɑrm dɪˈzaɪn]ファーム ディザイン"
+          ],
+          "kana": "ウィアー テスティング イフ ジス ファーム ディザイン プロデューシーズ イナフ クラップス"
+        },
+        {
+          "en": "I'm testing whether these materials can withstand lava.",
+          "ja": "これらの材料が溶岩に耐えられるかどうかをテストしています。",
+          "ipa": "/aɪm ˈtɛstɪŋ ˈwɛðər ðiːz məˈtɪriəlz kən wɪðˈstænd ˈlɑvə/",
+          "linking": [
+            "I'm の末尾 /m/ が testing の初頭 /t/。別音なので [aɪm ˈtɛstɪŋ]アイム テスティング",
+            "testing の末尾 /ŋ/ が whether の初頭 /w/。別音なので [ˈtɛstɪŋ ˈwɛðər]テスティング ウェザー",
+            "whether の末尾 /ər/ が these の初頭 /ð/。別音なので [ˈwɛðər ðiːz]ウェザー ディーズ",
+            "materials の末尾 /z/ が can の弱形 /kən/ に別音 [məˈtɪriəlz kən]マテリアルズ カン",
+            "can は弱形 /kən/、withstand の初頭 /w/ に別音 [kən wɪðˈstænd]カン ウィズスタンド"
+          ],
+          "kana": "アイム テスティング ウェザー ディーズ マテリアルズ カン ウィズスタンド ラーヴァ"
+        }
+      ]
+    }
+  ]
+}

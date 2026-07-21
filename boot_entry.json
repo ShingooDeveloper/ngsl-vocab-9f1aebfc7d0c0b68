@@ -1,0 +1,64 @@
+{
+  "word": "boot",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈbuːt/",
+  "rank": 2279,
+  "level": "B1",
+  "hi": "boot|boots|booted|booting|boot up",
+  "meanings": [
+    "【名詞】足を覆う履き物、特に頑丈で足首まで覆うもの（a sturdy piece of footwear covering the foot and lower part of the leg）",
+    "【名詞】コンピュータやサーバーの起動・再起動プロセス（the process of starting up a computer or server system）",
+    "【動詞】コンピュータやサーバーを起動する、起動させる（to start or initialize a computer or server）",
+    "【動詞】ゲームやサーバーから不当に追い出す、プレイヤーをキックする（to forcibly remove a player from a game or server）"
+  ],
+  "examples": [
+    {
+      "en": "Iron boots protect your feet when mining.",
+      "ja": "鉄のブーツは採掘時に足を保護します。",
+      "ipa": "/ˈaɪɚn ˈbuːts prəˈtɛk̚ jɔɚ ˈfiːt̚ wɛn ˈmaɪnɪŋ/",
+      "linking": [
+        "protect の末尾子音 /t/ は未開放。your の /j/ の前で詰まる。",
+        "feet の末尾子音 /t/ は未開放。when の /w/ の前で詰まる。"
+      ],
+      "kana": "アイアン ブーツ プロテック ユアー フィット ウェン マイニング"
+    },
+    {
+      "en": "We need to boot the server to load the new map.",
+      "ja": "新しいマップを読み込むため、サーバーを起動する必要があります。",
+      "ipa": "/wiː ˈniːd tə ˈbuːt ðə ˈsɝvɚ tə ˈloʊd ðə ˈnuː ˈmæp/",
+      "linking": [
+        "need の末尾子音 /d/ が to の初頭母音 /ə/ に連結。to は弱形 /tə/。[ˈniːdtə] ニードタ",
+        "boot の末尾子音 /t/ は未開放。the の /ð/ の前で詰まる。",
+        "the は冠詞で弱形 /ðə/。",
+        "to は弱形 /tə/。"
+      ],
+      "kana": "ウィー ニードタ ブート ザ サーヴァー タ ロード ザ ニュー マップ"
+    },
+    {
+      "en": "That player was booted for griefing our world.",
+      "ja": "そのプレイヤーは私たちのワールドを荒らしたためキックされました。",
+      "ipa": "/ðæt ˈpleɪɚ wəz ˈbuːtɪd fɔɚ ˈɡriːfɪŋ ɑɚ ˈwɝld/",
+      "linking": [
+        "was は弱形 /wəz/。player に連結。",
+        "booted の末尾子音 /d/ は未開放。for の /f/ の前で詰まる。"
+      ],
+      "kana": "ザット プレイアー ワズ ブーティド フォアー グリーフィング アワー ワールド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "boot up",
+      "ja": "コンピュータやサーバーを起動させる、始動させる",
+      "example": "The server took five minutes to boot up after the update.",
+      "example_ja": "更新後、サーバーが起動するのに5分かかりました。",
+      "ipa": "/ðə ˈsɝvɚ ˈtʊk faɪv ˈmɪnɪts tə ˈbuːt ʌp ˈæftɚ ðə ˈʌpˈdeɪt/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/。server に連結。",
+        "took の末尾子音 /k/ は未開放。five の /f/ の前で詰まる。",
+        "update の末尾子音 /t/ は未開放。"
+      ],
+      "kana": "ザ サーヴァー トゥック ファイブ ミニッツ タ ブート アップ アフター ザ アップデイト"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "hook",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/hʊk/",
+  "rank": 2686,
+  "level": "A2",
+  "hi": "hook(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】フック、曲げた金具や道具（ひもやロープなどを引っかけるための構造）",
+    "【名詞】釣り針。釣り竿の先端に付いた魚をかかえる部分（with my fishing rod）",
+    "【動詞】かぎで引っかける、つなぐ。マイクラではレッドストーン装置や道具をつなぐ（hook the mine cart to the rails）",
+    "【動詞】釣る、釣り針で捕らえる。獲物を引っかかせる（hooked a massive fish）"
+  ],
+  "examples": [
+    {
+      "en": "I hooked a massive fish with my fishing rod at the dock.",
+      "ja": "釣り竿でドックで大きな魚を釣った。",
+      "ipa": "/aɪ ˈhʊkt ə məˈsɪv ˈfɪʃ wɪð maɪ ˈfɪʃɪŋ ˈrɑdæt ðə ˈdɑk/",
+      "linking": [
+        "rod at: rod の末尾子音 /d/ が at の初頭母音 /æ/ に連結。[ˈrɑdæ] ラダ",
+        "with my: with の末尾 /ð/ が my の初頭 /maɪ/ に連結。[wɪðmaɪ] ウィズマイ",
+        "the: 冠詞で弱形 /ðə/ に弱化"
+      ],
+      "kana": "アイ フクト ア マシヴ フィッシュ ウィズ マイ フィッシング ラダット ザ ダック"
+    },
+    {
+      "en": "You need to hook the mine cart to the rails before pushing it.",
+      "ja": "鉱山のカートをレールに接続してから押す必要があります。",
+      "ipa": "/juː niːdə ˈhʊk ðə ˈmaɪn kɑrt tə ðə ˈreɪlz bɪˈfɔrpʊʃɪŋ ɪt/",
+      "linking": [
+        "need to: need の末尾子音 /d/ が to の弱形 /tə/ の /ə/ に連結。[niːdə] ニーダ",
+        "before pushing: before の末尾 /r/ が pushing の初頭 /p/ に連結。[fɔrpʊʃɪŋ] ビフォープッシング",
+        "the: 冠詞で弱形 /ðə/ に弱化（2箇所）"
+      ],
+      "kana": "ユー ニーダ フック ザ マイン カート タ ザ レイルズ ビフォープッシング イット"
+    },
+    {
+      "en": "She hung fishing hooks from her tower to decorate the base.",
+      "ja": "彼女はタワーからフィッシング フックをぶら下げてベースを飾った。",
+      "ipa": "/ʃiː ˈhʌŋ ˈfɪʃɪŋ ˈhʊks frɑm hɚ ˈtaʊər tə ˈdɛkəreɪt ðəˈbeɪs/",
+      "linking": [
+        "hung fishing: hung の末尾 /ŋ/ は鼻音で g 音なし。fishing の /f/ との間に明確な境界",
+        "to decorate: to は機能語で弱形 /tə/ に弱化",
+        "the base: the の末尾 /ə/ が base の初頭 /b/ に連結。[ðəˈbeɪs] ザベイス"
+      ],
+      "kana": "シー ハング フィッシング フックス フラム ハー タウワー タ デコレイト ザベイス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "hook up",
+      "ja": "接続する、つなぐ。電気機器やレッドストーン装置などを配線・接続する",
+      "example": "We need to hook up the redstone lamps to the lever.",
+      "example_ja": "レッドストーン ランプをレバーに接続する必要があります。",
+      "ipa": "/wiː niːdə ˈhʊk ʌp ðə ˈrɛdˌstoʊn ˈlæmps tə ðə ˈlɪvər/",
+      "linking": [
+        "need to: need の /d/ が to の弱形 /ə/ に連結。[niːdə] ニーダ",
+        "the: 冠詞で弱形 /ðə/ に弱化（2箇所）"
+      ],
+      "kana": "ウィー ニーダ フック アップ ザ レッドストーン ランプス タ ザ リヴァー"
+    },
+    {
+      "idiom": "by hook or by crook",
+      "ja": "手段を選ばず、どんな手を使ってでも。正々堂々とか不正かを問わずに目的を達成する",
+      "example": "I'll get that diamond ore by hook or by crook!",
+      "example_ja": "あのダイヤモンド鉱石を手段を選ばずに手に入れてやる！",
+      "ipa": "/aɪl ˈɡɛt ðæt ˈdaɪəˌmɑnd ˈɔr baɪ ˈhʊk ɔr baɪ ˈkrʊk/",
+      "linking": [
+        "diamond ore: diamond の末尾 /d/ が ore の初頭母音 /ɔ/ に連結。[ˈdaɪəˌmɑndˈɔr] ダイアモンドオア",
+        "by hook や by crook は文句なく繰り返される定型表現"
+      ],
+      "kana": "アイル ゲット ザット ダイアモンド オア バイ フック オア バイ クルック"
+    },
+    {
+      "idiom": "off the hook",
+      "ja": "責任から逃れる、許される。もう責任を負わなくてよい状態になる",
+      "example": "Now that the creeper destroyed the house, I'm off the hook for the damage.",
+      "example_ja": "クリーパーが家を壊したので、被害の責任から逃れました。",
+      "ipa": "/naʊ ðæt ðə ˈkriːpər dɪˈstrɔɪd ðə ˈhaʊs aɪm ɔf ðə ˈhʊk fɔr ðə ˈdæmɪdʒ/",
+      "linking": [
+        "the creeper: the の弱形 /ðə/ が creeper の初頭 /k/ に先行（弱形） ザ",
+        "off the: off の末尾 /f/ が the の弱形 /ðə/ に続く（子音+弱形の境界）",
+        "for the: for の末尾 /r/ が the の弱形 /ðə/ に続く（r が ə に連結）"
+      ],
+      "kana": "ナウ ザット ザ クリーパー ディストロイド ザ ハウス アイム オフ ザ フック フォア ザ ダメッジ"
+    }
+  ]
+}

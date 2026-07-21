@@ -4,57 +4,69 @@
   "pos_all": "名詞",
   "ipa_us": "/ˈlæbrətɔːri/",
   "rank": 2439,
-  "level": "B1",
-  "hi": "laborator(?:y|ies)",
+  "level": "B2",
+  "hi": "laboratory(?:ies)?",
   "meanings": [
-    "【名詞】科学的な実験や研究を行うための施設（a building or room where scientific experiments and research are conducted）。",
-    "【名詞】特定分野の知識や技能を必要とする作業スペース。",
-    "【名詞】マインクラフトでは、ポーション醸造やレッドストーン機構、素材実験などを行う研究専用スペース。"
+    "【名詞】科学的な実験や研究を行うための施設や部屋（a building or room equipped for conducting scientific experiments and research）",
+    "【名詞】医学・化学・物理学などの専門的な研究機関（a place where scientific testing and professional investigation is done）",
+    "【名詞】新しい手法や製品が開発・テストされる場所（a place where new techniques or products are developed and tested）"
   ],
   "examples": [
     {
-      "en": "I built a laboratory to conduct potion experiments safely.",
-      "ja": "安全にポーション実験を行うために実験室を建設した。",
-      "ipa": "/aɪ ˈbɪlt ə ˈlæbrətɔːri tu ˈkɑndʌkt ˈpoʊʃən ɪkˈspɛrəmənts ˈseɪfli/",
+      "en": "I built a potion laboratory to experiment with brewing mechanics.",
+      "ja": "ポーション醸造の仕組みを実験するためにポーション研究室を建てた。",
+      "ipa": "[aɪ bɪlt ə ˈpoʊʃən ˈlæbrətɔːri tə ɪkˈsperɪmənt wɪð ˈbruːɪŋ ˈmɛkənɪks]",
+      "kana": "アイ ビルタ ポウション ラブラトゥりー タイ イクスペリメント ウィズ ブルーイング メカニクス",
       "linking": [
-        "built の末尾子音 /t/ が a の初頭母音 /ə/ に連結。a は弱形。[ˈbɪlt ə]→「ビルタ」",
-        "to は機能語で弱形 /tə/ に弱化し conduct の初頭に流れる。[tə ˈkɑndʌkt]→「タ コンダクト」"
-      ],
-      "kana": "アイ ビルタ ラボラトリ タ コンダクト ポーション イクスペリメンツ セイフリ"
+        "built + a → built の語末子音 /t/ が a の弱形 /ə/ に連結: [bɪltə] ビルタ",
+        "to + experiment → to は弱形 /tə/ で、experiment の母音 /ɪ/ に連結: [tə ɪ] タイ"
+      ]
     },
     {
-      "en": "The laboratory has all the equipment we need for testing.",
-      "ja": "実験室にはテストに必要なすべての装備があります。",
-      "ipa": "/ðə ˈlæbrətɔːri hæz ɔl ðə ɪˈkwɪpmənt wi nid fɔr ˈtɛstɪŋ/",
+      "en": "My laboratory contains enchanting tables and bookshelves for testing spell power.",
+      "ja": "私の研究室には魔法台と本棚が含まれており、スペル威力をテストしている。",
+      "ipa": "[maɪ ˈlæbrətɔːri kənˈteɪnz ɪnˈtʃɑːntɪŋ ˈteɪbəlz ænd ˈbʊkˌʃɛlvz fɔːr ˈtɛstɪŋ spɛl ˈpaʊər]",
+      "kana": "マイ ラブラトゥりー コンテインズ インチャンティング テイボルズ アンド ブックシェルブズ フォー テスティング スペル パウアー",
       "linking": [
-        "The は冠詞で弱形 /ðə/ に弱化。laboratory の初頭に自然に流れる。[ðə ˈlæbrətɔːri]→「ザ ラボラトリ」",
-        "the は冠詞で弱形 /ðə/。equipment の初頭に流れる。[ðə ɪˈkwɪpmənt]→「ザ イクウィップメント」"
-      ],
-      "kana": "ザ ラボラトリ ハズ オール ザ イクウィップメント ウィ ニード ファー テスティング"
+        "and は機能語で弱形 /ænd/ に弱化",
+        "for + testing → for は /fɔːr/ で r が末尾。次の子音 /t/ に接近しない: [fɔːr ˈtɛstɪŋ] フォー"
+      ]
     },
     {
-      "en": "Our laboratory experiments with redstone helped us build better farms.",
-      "ja": "レッドストーンの実験室実験は、より良い農場を構築するのに役立ちました。",
-      "ipa": "/aʊr ˈlæbrətɔːri ɪkˈspɛrəmənts wɪð ˈrɛdstoʊn ˈhɛlpt əs bɪld ˈbɛtər fɑrmz/",
+      "en": "The redstone laboratory allows us to test complex circuit designs before building them.",
+      "ja": "レッドストーン研究室は、複雑な回路設計を建築する前にテストできる。",
+      "ipa": "[ðə ˈrɛdstoʊn ˈlæbrətɔːri əˈlaʊz əs tə tɛst ˈkɑːmplɛks ˈsɜːrkɪt dɪˈzaɪnz bɪˈfɔːr ˈbɪldɪŋ ðɛm]",
+      "kana": "ザ レッドストーン ラブラトゥりー アラウズ アス タッ テスト コンプレックス サーキット ディザインズ ビフォー ビルディング ゼム",
       "linking": [
-        "r は音節末の場合も音節頭の場合も弱く発音。Our /aʊr/ の末尾 r は次の語に軽く流れる。[aʊr ˈlæbrətɔːri]→「アワー ラボラトリ」",
-        "helped は過去形。末尾 /t/ が us の /ə/ に連結。[ˈhɛlpt əs]→「ヘルプタス」"
-      ],
-      "kana": "アワー ラボラトリ イクスペリメンツ ウィズ レッドストウン ヘルプタス ビルド ベター ファーム"
+        "the + redstone → the は弱形 /ðə/ で、redstone の母音 /r/ に連結: [ðə r] ザ",
+        "to + test → to は弱形 /tə/ で、test の初頭子音 /t/ と未開放: [tə t̚] タッ"
+      ]
     }
   ],
   "idioms": [
     {
-      "idiom": "laboratory experiment",
-      "ja": "実験室での実験、科学的な実験",
-      "example": "We're running laboratory experiments to test the efficiency of this redstone circuit.",
-      "example_ja": "このレッドストーン回路の効率をテストするために実験を実施しています。",
-      "ipa": "/wir ˈrʌnɪŋ ˈlæbrətɔːri ɪkˈspɛrəmənts tə ˈtɛst ðə ɪˈfɪʃənsi əv ðɪs ˈrɛdstoʊn ˈsɝkət/",
+      "idiom": "laboratory test",
+      "ja": "研究室での試験、実験室での検査",
+      "example": "We need to run laboratory tests on these potions to understand their effects.",
+      "example_ja": "これらのポーションの効果を理解するために、研究室での試験を実行する必要があります。",
+      "ipa": "[wi niːd tə rʌn ˈlæbrətɔːri tɛsts ɑn ðiz ˈpoʊʃənz tə ˌʌndərˈstænd ðeɪr ɪˈfɛkts]",
+      "kana": "ウィ ニード タ ラン ラブラトゥりー テストス オン ディーズ ポウションズ タ アンダースタンド ゼア イフェクツ",
       "linking": [
-        "running は -ing 形。末尾 /ŋ/ は子音なので次の語への連結なし。we're /wir/ の r が laboratory の初頭に軽く流れる。",
-        "efficiency の末尾 /i/ が of の初頭 /ə/ に続く。ただし /i/ は子音ではないので連結ではなく自然な分離。of は弱形 /əv/ に弱化。[əv ðɪs]→「アヴ ディス」"
-      ],
-      "kana": "ウィア ラニング ラボラトリ イクスペリメンツ タ テスト ザ イフィシェンシ アヴ ディス レッドストウン サーキット"
+        "need + to → need の語末 /d/ が to の初頭子音 /t/ と未開放: [niːd tə] ニード タ",
+        "to + run → to は弱形 /tə/ で、run の /r/ に連結: [tə r] ター"
+      ]
+    },
+    {
+      "idiom": "laboratory conditions",
+      "ja": "理想的でコントロールされた条件",
+      "example": "The enchanted lab provides laboratory conditions for perfect spell testing.",
+      "example_ja": "この魔法研究室は、完璧なスペルテストのための理想的な条件を提供しています。",
+      "ipa": "[ðə ɪnˈtʃɑːntɪd læb prəˈvaɪdz ˈlæbrətɔːri kənˈdɪʃənz fɔːr ˈpɜːrfɪkt spɛl ˈtɛstɪŋ]",
+      "kana": "ザ インチャンティド ラブ プロヴァイズ ラブラトゥりー コンディションズ フォー パーフィクト スペル テスティング",
+      "linking": [
+        "the + enchanted → the は弱形 /ðə/ で、enchanted の母音 /ɪ/ に連結: [ðə ɪ] ザ",
+        "provides + laboratory → provides の語末 /z/ が laboratory の /l/ に連結"
+      ]
     }
   ]
 }

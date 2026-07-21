@@ -1,0 +1,92 @@
+{
+  "word": "knock",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/nɑk/",
+  "rank": 1811,
+  "level": "A2",
+  "hi": "knock(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】（ドア・壁などを）叩く、ノックする（to hit a door or surface to get someone's attention）",
+    "【動詞】（物が）ぶつかる、衝突させる（to collide with or hit someone or something）",
+    "【名詞】ノック音、叩く音（the sound made by knocking）",
+    "【動詞】（人や物を）批判する、けなす（to criticize or find fault with）"
+  ],
+  "examples": [
+    {
+      "en": "I knocked on the wooden door, but no one answered.",
+      "ja": "木製のドアをノックしましたが、誰も応答しませんでした。",
+      "ipa": "[aɪ ˈnɑkɑn ðə ˈwʊdən ˈdɔr bət ˈnoʊ wʌn ˈænswərd]",
+      "linking": [
+        "knocked の語末子音 /t/ が on の初頭母音 /ɑ/ に連結 [ˈnɑkɑn] ナッカン",
+        "the は冠詞で弱形 /ðə/ に弱化",
+        "but の /t/ は未開放 [bət̚] で次の子音に続かない"
+      ],
+      "kana": "アイ ナッカン ザ ウッダン ドー バッ ノウ ワン エンサード"
+    },
+    {
+      "en": "The zombie knocked me into the lava.",
+      "ja": "ゾンビが私をマグマに突き落としました。",
+      "ipa": "[ðə ˈzɑmbi ˈnɑkt mi ˈɪntə ðə ˈlɑvə]",
+      "linking": [
+        "the は冠詞で弱形 /ðə/ に弱化",
+        "knocked の /t/ は me の /m/ に子音+子音で未連結。knocked は [ˈnɑkt] で開放される",
+        "to は機能語で弱形 /tə/ に弱化。into は [ˈɪntə] イントゥ",
+        "the は冠詞で弱形 /ðə/ に弱化"
+      ],
+      "kana": "ザ ゾンビ ナクト ミー イントゥ ザ ラバ"
+    },
+    {
+      "en": "Did you hear that knock sound?",
+      "ja": "あのノック音が聞こえましたか？",
+      "ipa": "[dɪd ju hɪr ðæt nɑk ˈsaʊnd]",
+      "linking": [
+        "Did の語末子音 /d/ が you の初頭 /j/ に子音+子音で未連結。Did は [dɪd] で開放",
+        "hear の語末子音 /r/ が that の初頭 /ð/ に子音+子音で未連結",
+        "that の語末子音 /t/ が knock の初頭 /n/ に子音+子音で未連結"
+      ],
+      "kana": "ディド ユー ヒア ザット ナック サウンド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "knock it off",
+      "ja": "やめる、中止する",
+      "example": "Knock it off! Stop punching that villager right now!",
+      "example_ja": "やめてよ！その村人を今すぐ殴るのは！",
+      "ipa": "[ˈnɑk ɪɾ ˈɔf stɑp ˈpʌntʃɪŋ ðæt ˈvɪlɪdʒər raɪt naʊ]",
+      "linking": [
+        "knock の /k/ は it の /ɪ/ に連結。it の /t/ は off の /ɔ/ 前で母音に挟まれてフラップ化 [ɪɾ] イラ",
+        "that の語末子音 /t/ が villager の初頭 /v/ に子音+子音で未連結"
+      ],
+      "kana": "ナック イラ オフ スタップ パンチング ザット ビレッジャー ライト ナウ"
+    },
+    {
+      "idiom": "knock down",
+      "ja": "倒す、壊す（建物などを）",
+      "example": "I knocked down my old house to build a new castle.",
+      "example_ja": "新しい城を作るために古い家を壊しました。",
+      "ipa": "[aɪ ˈnɑkt daʊn maɪ ˈoʊld haʊs tə ˈbɪld ə ˈnu ˈkæsəl]",
+      "linking": [
+        "knocked の語末子音 /t/ が down の初頭子音 /d/ に子音+子音で未連結。knocked は [ˈnɑkt] で開放",
+        "old の語末子音 /d/ が house の初頭子音 /h/ に子音+子音で未連結",
+        "to は機能語で弱形 /tə/ に弱化",
+        "a は冠詞で弱形 /ə/ に弱化"
+      ],
+      "kana": "アイ ナクト ダウン マイ オウルド ハウス ター ビルド ア ニュー キャスル"
+    },
+    {
+      "idiom": "knock over",
+      "ja": "倒す、転覆させる",
+      "example": "The creeper knocked over my entire mineshaft!",
+      "example_ja": "クリーパーが私の採掘坑全体を倒してしまいました！",
+      "ipa": "[ðə ˈkripər ˈnɑkt ˈoʊvər maɪ ənˈtaɪər ˈmaɪnʃæft]",
+      "linking": [
+        "the は冠詞で弱形 /ðə/ に弱化",
+        "knocked の語末子音 /t/ が over の初頭母音 /oʊ/ に連結 [ˈnɑ.toʊ.vɚ] ナット・オバー",
+        "entire は母音で始まるため consonant linking なし。my の語末も子音がない"
+      ],
+      "kana": "ザ クリーパー ナット・オバー マイ エンタイアー マインシャフト"
+    }
+  ]
+}

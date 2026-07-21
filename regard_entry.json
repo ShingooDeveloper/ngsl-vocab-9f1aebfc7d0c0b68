@@ -1,0 +1,222 @@
+{
+  "word": "regard",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/rɪˈɡɑːrd/",
+  "rank": 510,
+  "level": "B1",
+  "hi": "regard(?:s|ing|ed)?",
+  "meanings": [
+    "【動詞】～を…とみなす、～だと思う（regard A as B の形で使う）",
+    "【動詞】（格式張って）～をじっと見る、注視する",
+    "【名詞】（不可算）尊敬、敬意、配慮",
+    "【名詞】（複数形 regards で）よろしくという伝言、心遣い"
+  ],
+  "examples": [
+    {
+      "en": "Experienced players regard diamond armor as one of the best types of protection in the game.",
+      "ja": "経験豊富なプレイヤーは、ダイヤモンドの防具をゲーム内で最高クラスの防御手段の一つとみなしている。",
+      "ipa": "/ɪkˈspɪriənst ˈpleɪərz rɪˈɡɑːrd ˈdaɪmənd ˈɑːrmər əz wʌn əv ðə best ˈtaɪpz əv prəˈtɛkʃən ɪn ðə ɡeɪm/",
+      "linking": [
+        "regard → /rɪˈɡɑːrd/、diamond に続く",
+        "one of → 語末子音 n が母音 /ə/ に連結 [wʌn əv] ワナヴ",
+        "types of → 語末子音 s が母音 /ə/ に連結 [ˈtaɪpz əv] タイプザヴ"
+      ],
+      "kana": "イクスピリエンスト プレイヤーズ リガード ダイアモンド アーマー アズ ワナヴ ザ ベスト タイプザヴ プロテクション イン ザ ゲイム"
+    },
+    {
+      "en": "Regarding the new update, players should be careful because zombies now spawn faster at night.",
+      "ja": "新しいアップデートに関して、夜はゾンビが今までより速く湧くのでプレイヤーは注意すべきだ。",
+      "ipa": "/rɪˈɡɑːrdɪŋ ðə nuː ˈʌpdeɪt | ˈpleɪərz ʃəd bi ˈkɛrfəl bɪˈkɔːz ˈzɑːmbiz naʊ spɔːn ˈfæstər æt naɪt/",
+      "linking": [
+        "Regarding → /rɪˈɡɑːrdɪŋ/、the に続く",
+        "should → 助動詞は弱形 /ʃəd/",
+        "at night → at は弱形 /æt/、t は未開放で n に続く"
+      ],
+      "kana": "リガーディング ザ ニュー アップデイト、プレイヤーズ シュド ビー ケアフル ビコーズ ゾンビーズ ナウ スポーン ファスター アッ ナイト"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "regard as",
+      "ja": "～を…とみなす、評価する",
+      "example": "Most builders regard redstone circuits as the most challenging aspect of the game.",
+      "example_ja": "ほとんどのビルダーは、レッドストーン回路をゲーム内で最も難しい要素とみなしている。",
+      "ipa": "/moʊst ˈbɪldərz rɪˈɡɑːrd ˈrɛdstəʊn ˈsɜːrkɪts əz ðə moʊst ˈtʃælɪndʒɪŋ ˈæspɛkt əv ðə ɡeɪm/",
+      "linking": [
+        "regard → 語末 d が circuits の子音 s に続く",
+        "as the → as の語末 z が the の弱形 /ðə/ に連結 [əz ðə] アズ ザ",
+        "most challenging → s と ch が続く"
+      ],
+      "kana": "モウスト ビルダーズ リガード レッドストウン サーキッツ アズ ザ モウスト チャレンジング アスペクト アヴ ザ ゲイム"
+    },
+    {
+      "idiom": "with regard to",
+      "ja": "～に関して、～について",
+      "example": "With regard to survival mode, always keep your tools and armor in a safe chest.",
+      "example_ja": "サバイバルモードに関して、常にツールと防具を安全なチェストに保管してください。",
+      "ipa": "/wɪð rɪˈɡɑːrd tu sərˈvaɪvəl moʊd | ˈɔːlweɪz kiːp jɔr ˈtulz ənd ˈɑːrmər ɪn ə ˈseɪf ˈtʃɛst/",
+      "linking": [
+        "with regard → d が to の t に続く",
+        "to → 弱形 /tə/",
+        "chest → 語末 t は未開放"
+      ],
+      "kana": "ウィズ リガード ト サーバイバル モウド、オールウェイズ キープ ユアー ツールズ アンド アーマー イン ア セイフ チェスト"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "regards",
+      "ipa": "/rɪˈɡɑːrdz/",
+      "examples": [
+        {
+          "en": "This redstone detector regards player proximity as its main activation trigger.",
+          "ja": "このレッドストーン検知機は、プレイヤーの接近を主な起動トリガーとみなしている。",
+          "ipa": "/ðɪs ˈrɛdstəʊn dɪˈtɛktər rɪˈɡɑːrdz ˈpleɪər prɑkˈsɪməti əz ɪts meɪn ˌæktɪˈveɪʃən ˈtrɪɡər/",
+          "linking": [
+            "regards → 語末 z が player の p に続く（子音+子音）",
+            "proximity as → y が s に続く",
+            "activation → シネマティックな音は smooth に流れる"
+          ],
+          "kana": "ディス レッドストウン ディテクター リガーズ プレイヤー プロキシミティ アズ イッツ メイン アクティベイション トリガー"
+        },
+        {
+          "en": "Every experienced builder regards careful planning as essential before construction starts.",
+          "ja": "熟練ビルダーはみんな、建築開始前の慎重な計画を不可欠とみなしている。",
+          "ipa": "/ˈɛvri ɪkˈspɪriənst ˈbɪldər rɪˈɡɑːrdz ˈkɛrfəl ˈplænɪŋ əz ɪˈsɛnʃəl bɪˈfɔːr kənˈstrʌkʃən stɑrts/",
+          "linking": [
+            "regards → 語末 z が careful の k に続く",
+            "as → 前置詞、次の母音に連結 [əz ɪˈsɛnʃəl]",
+            "before → r が construction の k に続く"
+          ],
+          "kana": "エヴリ イクスピリエンスト ビルダー リガーズ ケアフル プラニング アズ イセンシャル ビフォー コンストラクション スターツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "regarded",
+      "ipa": "/rɪˈɡɑːrdɪd/",
+      "examples": [
+        {
+          "en": "The new player regarded the Nether as too dangerous until she obtained full netherite armor.",
+          "ja": "その新しいプレイヤーは、完全なネザライト防具を手に入れるまで、ネザーを危険すぎると思っていた。",
+          "ipa": "/ðə ˈnjuː ˈpleɪər rɪˈɡɑːrdɪd ðə ˈnɛðər əz ˈtuː ˈdeɪndʒərəs ənˈtɪl ʃi əbˈteɪnd fʊl ˈnɛðəraɪt ˈɑːrmər/",
+          "linking": [
+            "regarded → 語末 d と the の ð に続く（子音+子音）",
+            "as too → z が t に続く",
+            "until → 語末 l が she の初頭に連結 [ənˈtɪl ʃi] アンティル シー",
+            "full netherite → 語末 l が n に続く"
+          ],
+          "kana": "ザ ニュー プレイヤー リガーディド ザ ネザー アズ トゥー デンジャラス アンティル シー アブテインド フル ネザライト アーマー"
+        },
+        {
+          "en": "They regarded the abandoned village as worthless until they discovered valuable treasure inside the temple.",
+          "ja": "彼らは廃村をつまらないと思っていたが、寺院の中に貴重な宝を発見するまでそう思っていた。",
+          "ipa": "/ðeɪ rɪˈɡɑːrdɪd ðə əbˈændənd ˈvɪlɪdʒ əz ˈwɝðləs ənˈtɪl ðeɪ dɪˈskʌvərd ˈvæljuəbəl ˈtrɛʒər ɪnˈsaɪd ðə ˈtɛmpəl/",
+          "linking": [
+            "regarded the → d が the の弱形 /ðə/ に連結",
+            "as worthless → s が w に続く",
+            "treasure → 語末 r が inside の初頭に連結 [ˈtrɛʒər ɪnˈsaɪd] トレジャー インサイド"
+          ],
+          "kana": "ザイ リガーディド ザ アバンドンド ビレッジ アズ ワースレス アンティル ザイ ディスカバード ヴァリュアブル トレジャー インサイド ザ テンポル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "regarded",
+      "ipa": "/rɪˈɡɑːrdɪd/",
+      "examples": [
+        {
+          "en": "The highly regarded speedrunning technique requires perfect timing and flawless coordination.",
+          "ja": "高く評価されたスピードランテクニックは、完璧なタイミングと欠点のない協調を必要とする。",
+          "ipa": "/ðə ˈhaɪli rɪˈɡɑːrdɪd ˈspiːdˌrʌnɪŋ tɛkˈnik rɪˈkwaɪrz ˈpɝfɪkt ˈtaɪmɪŋ ənd ˈflɔːləs ˌkoʊˈɔːrdɪneɪʃən/",
+          "linking": [
+            "regarded → 語末 d が speedrunning の s に続く",
+            "and flawless → d の語末と f が続く。and は弱形で /ənd/ または /ən/",
+            "coordination → シームレスに続く"
+          ],
+          "kana": "ザ ハイリ リガーディド スピードランニング テクニック リクワイアーズ パーフェクト タイミング アン フローレス コーディネイション"
+        },
+        {
+          "en": "A well-regarded practice in multiplayer servers is setting up shared storage areas for all players.",
+          "ja": "マルチプレイサーバーでよく評価されたやり方は、すべてのプレイヤーのための共有ストレージエリアを設置することです。",
+          "ipa": "/ə ˈwɛl rɪˈɡɑːrdɪd ˈpræktɪs ɪn ˌmʌltɪˈpleɪər ˈsɜːrvərz ɪz ˈsɛɾɪŋ ʌp ˈʃɛrd ˈstɔːrɪdʒ ˈɛriəz fɔr ɔl ˈpleɪərz/",
+          "linking": [
+            "regarded practice → d が p に続く（未開放）",
+            "in multiplayer → n が m に続く（鼻音同化）",
+            "for all → r が a に連結 [fɔr ɔl] ファー オール"
+          ],
+          "kana": "ア ウェル リガーディド プラクティス イン マルチプレイヤー サーバーズ イズ セッティング アップ シェアド ストレージ エリアズ ファー オール プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "regarding",
+      "ipa": "/rɪˈɡɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "Regarding inventory management, always organize your items by type and stack similar materials together.",
+          "ja": "インベントリ管理に関しては、常にアイテムをタイプで整理し、似たような材料をまとめてスタックしてください。",
+          "ipa": "/rɪˈɡɑːrdɪŋ ɪnˈvɛntəri ˈmænɪdʒmənt | ˈɔːlweɪz ˈɔːrɡənəɪz jɔr ˈaɪtəmz baɪ ˈtaɪp ənd stæk ˈsɪmɪlər məˈtɪriəlz təˈɡɛðər/",
+          "linking": [
+            "Regarding inventory → 語末 g が i に続く（ng は鼻音で子音のような）",
+            "and stack → d が s に続く。and は弱形 /ən/ または /ənd/",
+            "together → 語末 r が next 単語に連結"
+          ],
+          "kana": "リガーディング インベントリー マネジメント、オールウェイズ オーガナイズ ユアー アイテムズ バイ タイプ アン スタック シミラー マテリアルズ トゥゲザー"
+        },
+        {
+          "en": "The players were confused regarding which enchantment to apply to their diamond pickaxe for mining.",
+          "ja": "プレイヤーたちは、ダイアモンドのツルハシにどのエンチャントを加えるか関して混乱していた。",
+          "ipa": "/ðə ˈpleɪərz wər kənˈfjuːzd rɪˈɡɑːrdɪŋ hwɪtʃ ɛnˈtʃɑːntmənt tə əˈplaɪ tə ðɛr ˈdaɪmənd ˈpɪkæks fɔr ˈmaɪnɪŋ/",
+          "linking": [
+            "were confused → r が c に続く（連結）",
+            "regarding → 語末 g が which の hw に続く",
+            "to apply → 弱形 /tə/、語末 a が apply の初頭 /ə/ に連結",
+            "for mining → r が m に続く"
+          ],
+          "kana": "ザ プレイヤーズ ワー コンフューズド リガーディング ウィッチ エンチャントメント タ アプライ タ ゼア ダイアモンド ピッカックス ファー マイニング"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "regards",
+      "ipa": "/rɪˈɡɑːrdz/",
+      "examples": [
+        {
+          "en": "Give my regards to your entire team when you meet them at the gaming convention!",
+          "ja": "ゲーミングコンベンションで彼らに会ったら、私からあなたのチーム全体によろしくお伝えください！",
+          "ipa": "/ɡɪv maɪ rɪˈɡɑːrdz tu jɔr ənˈtaɪər tim wɛn ju mit ðɛm æt ðə ˈɡeɪmɪŋ kənˈvɛnʃən/",
+          "linking": [
+            "give my → 語末 v が m に続く（弱形 /maɪ/）",
+            "regards to → z が t に続く。to は弱形 /tə/",
+            "entire team → t が t に続く（両唇音は未開放）",
+            "at the → 弱形 /ðə/、t は未開放"
+          ],
+          "kana": "ギヴ マイ リガーズ タ ユアー エンタイア ティーム ウェン ユー ミート ザム アット ザ ゲーミング コンベンション"
+        },
+        {
+          "en": "The server administrator's warm regards to all players are displayed in the welcome message upon joining.",
+          "ja": "サーバー管理者からすべてのプレイヤーへの心からの敬意は、参加時のウェルカムメッセージに表示されます。",
+          "ipa": "/ðə ˈsɜːrvər ˌædmɪnɪsˈtreɪtərz wɔːrm rɪˈɡɑːrdz tu ɔl ˈpleɪərz ɑr dɪsˈpleɪd ɪn ðə ˈwɛlkəm ˈmɛsɪdʒ əˈpɑn ˈdʒɔɪnɪŋ/",
+          "linking": [
+            "regards to → z が t に続く。to は弱形 /tə/",
+            "all players → 語末 l が p に続く（未開放）",
+            "upon joining → n が d に続く"
+          ],
+          "kana": "ザ サーバー アドミニストレイターズ ウォーム リガーズ タ オール プレイヤーズ アー ディスプレイド イン ザ ウェルカム メッセージ アポン ジョイニング"
+        }
+      ]
+    }
+  ]
+}

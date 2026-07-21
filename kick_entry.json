@@ -1,0 +1,61 @@
+{
+  "word": "kick",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/kɪk/",
+  "rank": 1727,
+  "level": "A1",
+  "hi": "kick(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】足で蹴る、蹴撃を加える（kick a mob など）",
+    "【動詞】（ゲームサーバーから）追放する、除外する（kick a player など）",
+    "【名詞】蹴り、足による一撃（That kick was perfect など）"
+  ],
+  "examples": [
+    {
+      "en": "I kick the creeper before it explodes.",
+      "ja": "クリーパーが爆発する前に蹴り飛ばします。",
+      "ipa": "/aɪ ˈkɪk ðə ˈkriːpər bɪˈfɔrɪt ɪkˈsploʊdz/",
+      "linking": [
+        "the は機能語で弱形 /ðə/ に弱化 [ðə] → ザ",
+        "before の語末 /r/ が it の /ɪ/（母音）に連結 [ˈfɔrɪt] → フォーリット",
+        "it の語末 /t/ が explodes の /ɪ/（母音）に続く、自然な連続 [ɪt ɪk] → イティク"
+      ],
+      "kana": "アイ キック ザ クリーパー ビフォーリット イティクスプロウズ"
+    },
+    {
+      "en": "The server admin kicks out griefers.",
+      "ja": "サーバー管理者が荒らし対象ユーザーを追い出します。",
+      "ipa": "/ðə ˈsɝvər ˈædmɪn ˈkɪks ˈaʊt̚ ˈɡriːfərz/",
+      "linking": [
+        "the は機能語で弱形 /ðə/ に弱化 → ザ",
+        "out の語末 /t/ が griefers の /ɡ/（子音）に続く場合、/t/ は未開放 [ˈaʊt̚ ɡ] → アウッ"
+      ],
+      "kana": "ザ サーバー アドミン キックス アウッ グリーファーズ"
+    },
+    {
+      "en": "That kick was perfect!",
+      "ja": "その蹴りは完璧だった！",
+      "ipa": "/ðæt̚ ˈkɪk wəz ˈpɝfɪkt/",
+      "linking": [
+        "That の語末 /t/ が kick の /k/（子音）に続く場合、/t/ は未開放 [ðæt̚ kɪk] → ザッキック",
+        "was は弱形 /wəz/ に弱化 → ワズ"
+      ],
+      "kana": "ザッ キック ワズ パーフィクト"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "get a kick out of",
+      "ja": "～を楽しむ、～から興奮を得る",
+      "example": "I get a kick out of exploring caves!",
+      "example_ja": "洞窟探検を楽しんでいます。",
+      "ipa": "/aɪ ˈɡɛt ə ˈkɪk ˈaʊɾəv ɪkˈsplɔrɪŋ ˈkeɪvz/",
+      "linking": [
+        "out の語末 /t/ が of の /ə/（母音）に挟まれてフラップ化 [ˈaʊɾəv] → アウラヴ",
+        "of は弱形 /əv/ に弱化"
+      ],
+      "kana": "アイ ゲット ア キック アウラヴ イクスプローリング ケイヴズ"
+    }
+  ]
+}

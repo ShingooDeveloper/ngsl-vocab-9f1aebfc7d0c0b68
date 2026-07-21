@@ -1,0 +1,67 @@
+{
+  "word": "sequence",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈsiːkwəns/",
+  "rank": 1957,
+  "level": "B1",
+  "hi": "sequ(?:ence|ences)",
+  "meanings": [
+    "【名詞】複数のもの・出来事が一定の順序で続いていく状態、系列（a series of things, events, or operations that follow a particular order）",
+    "【名詞】数学で、一定の法則に従う数の並び（a series of numbers following a mathematical pattern）",
+    "【動詞】あるものを順序に従って配列する、系列化する（to arrange in a particular sequence or order）"
+  ],
+  "examples": [
+    {
+      "en": "You need to place blocks in the exact sequence.",
+      "ja": "正確な順序でブロックを配置する必要があります。",
+      "ipa": "/juː ˈniːd tə ˈpleɪs blɑks ɪn ðə ɪɡˈzækt ˈsiːkwəns/",
+      "linking": [
+        "need の末尾子音 /d/ が to の弱形 /ə/ に連結。to は機能語で弱形に弱化。結果は [ˈniːdə] ニーダ",
+        "to は弱形 /tə/「タ」で place へ続く",
+        "the は冠詞で弱形 /ðə/「ザ」に弱化",
+        "in と the の間は子音クラスタで連結しない"
+      ],
+      "kana": "ユー ニーダ タ プレイス ブロックス イン ザ イグザクト シークウェンス"
+    },
+    {
+      "en": "The sequence of commands determines what happens next.",
+      "ja": "コマンドの順序が次に何が起こるかを決めます。",
+      "ipa": "/ðə ˈsiːkwəns əv kəˈmændz dɪˈtɝːmɪnz wət ˈhæpənz ˈnɛkst/",
+      "linking": [
+        "The は冠詞で弱形 /ðə/「ザ」",
+        "of は前置詞で弱形 /əv/「アヴ」に弱化。commands の子音 /k/ で始まるため、of の末尾子音 /v/ は弱く聞こえる",
+        "determines の末尾 /z/ と happens の初頭 /h/ は子音クラスタを形成。連結しない",
+        "what の末尾 /t/ は未開放で詰まり「ッ」となり、happens へ続く"
+      ],
+      "kana": "ザ シークウェンス アヴ コマンズ ディターミンズ ワッ ハペンズ ネクスト"
+    },
+    {
+      "en": "Building a redstone device requires planning the block sequence carefully.",
+      "ja": "レッドストーン装置を作るには、ブロック配置を慎重に計画する必要があります。",
+      "ipa": "/ˈbɪldɪŋ ə ˈɹɛdstoʊn dɪˈvaɪs rɪˈkwaɪɹz ˈplænɪŋ ðə blɑk ˈsiːkwəns ˈkɛɹfəli/",
+      "linking": [
+        "Building の末尾の鼻音 /ŋ/ の後、a は弱形 /ə/「ア」で続く。鼻音と母音の自然な連続",
+        "the は冠詞で弱形 /ðə/「ザ」。block の子音 /b/ で始まるため、the の /ðə/ は自然に連続",
+        "block の末尾子音 /k/ と sequence の初頭子音 /s/ は別々に発音され（子音クラスタ）、連結しない",
+        "carefully は句末で /ˈkɛɹfəli/「ケアフリ」。次の単語がないため特に連結なし"
+      ],
+      "kana": "ビルディング ア レッドストーン ディヴァイス リクワイヤーズ プラニング ザ ブロック シークウェンス ケアフリ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "in sequence",
+      "ja": "順序に従って、順番に（in the order or series specified）",
+      "example": "Place each redstone component in sequence to activate the machine.",
+      "example_ja": "機械を起動するために、各レッドストーン部品を順番に配置してください。",
+      "ipa": "/pleɪs iːtʃ ˈɹɛdstoʊn kəmˈpoʊnənt ɪn ˈsiːkwəns tə ˈæktɪveɪt ðə məˈʃiːn/",
+      "linking": [
+        "Place の末尾 /s/ と each の初頭 /iː/ は子音と母音で連結しない（Place は /pleɪs/ で子音で終わる）",
+        "component の末尾 /t/ は未開放「ッ」で in へ続く。in は /ɪn/ で始まる",
+        "in sequence の /n/ は next の音へ滑らかに移行。in は /ɪn/ で終わり、sequence は /ˈsiːkwəns/ で始まるため、/n/ から /s/ へ子音が続く"
+      ],
+      "kana": "プレイス イーチ レッドストーン コンポーネント イン シークウェンス タ アクティヴェイト ザ マシーン"
+    }
+  ]
+}

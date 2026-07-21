@@ -1,0 +1,106 @@
+{
+  "word": "fact",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/fækt/",
+  "rank": 1264,
+  "level": "A2",
+  "hi": "fact(?:s)?",
+  "meanings": [
+    "【名詞】事実、真実（実際に起こった、または真実である事柄）",
+    "【名詞】情報、データ（知識や情報の単位として用いられる）",
+    "【名詞】現実、実際（理論や推測ではなく、実際に存在する事柄）"
+  ],
+  "examples": [
+    {
+      "en": "It's a fact that diamonds are rare in Minecraft.",
+      "ja": "ダイヤモンドがマインクラフトで希少であるのは事実です。",
+      "ipa": "/ɪts ə ˈfækt ðæt ˈdaɪməndz ɑr ˈɛr ɪn ˈmaɪnˌkræft/",
+      "linking": [
+        "a は弱形 /ə/",
+        "diamonds の末 /z/ が are の /ɑ/ に続く"
+      ],
+      "kana": "イッツ ア ファクト ザット ダイモンズ アー レア イン マインクラフト"
+    },
+    {
+      "en": "We discovered some new facts about ore distribution.",
+      "ja": "私たちは鉱石分布について新しい事実を発見しました。",
+      "ipa": "/wi dɪˈskʌvərd səm ˈnjuː ˈfækts əˈbaʊt ˈɔr ˌdɪstrɪˈbjuːʃən/",
+      "linking": [
+        "discovered は末 /d/ で next word へ移行",
+        "about は弱形 /ə/",
+        "ore distribution は連続"
+      ],
+      "kana": "ウィ ディスカヴァード サム ニュー ファクツ アバウト オアー ディストリビューション"
+    },
+    {
+      "en": "In fact, the nether is more dangerous than the overworld.",
+      "ja": "実は、ネザーはオーバーワールドより危険です。",
+      "ipa": "/ɪn ˈfækt ðə ˈneðər ɪz ˈmɔr ˈdeɪndʒərəs ðæn ðə ˈoʊvərˌwɚld/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "than の末 /n/ が the の /ð/ に連結する鼻音化"
+      ],
+      "kana": "イン ファクト ザ ネザー イズ モア デインジャラス ザン ザ オーヴァーワールド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "in fact",
+      "ja": "実は、実際には",
+      "example": "In fact, iron ore is easier to find than you might think.",
+      "example_ja": "実は、鉄鉱石は思っているより見つけやすいです。",
+      "ipa": "/ɪn ˈfækt ˈaɪrən ˈɔr ɪz ˈiːzɪər tə ˈfaɪnd ðæn ju maɪt ˈθɪŋk/",
+      "linking": [
+        "easier の末 /r/ が to の /t/ に...連結なし"
+      ],
+      "kana": "イン ファクト アイアン オアー イズ イージア タ ファインド ザン ユー マイト シンク"
+    },
+    {
+      "idiom": "the fact that",
+      "ja": "〜という事実、〜というのは事実だが",
+      "example": "The fact that creepers explode makes them dangerous.",
+      "example_ja": "クリーパーが爆発するという事実が危険を生み出します。",
+      "ipa": "/ðə ˈfækt ðæt ˈkripərz ɪkˈsploʊd ˈmeɪks ðɛm ˈdeɪndʒərəs/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "makes の末 /z/ が them の /ð/ に...連結なし"
+      ],
+      "kana": "ザ ファクト ザット クリーパーズ イクスプロード メイクス ゼム デインジャラス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "facts",
+      "ipa": "/fækts/",
+      "examples": [
+        {
+          "en": "All the facts about mining help us survive longer.",
+          "ja": "採掘に関するすべての事実が私たちを長く生き残らせるのに役立ちます。",
+          "ipa": "/ɔːl ðə ˈfækts əˈbaʊt ˈmaɪnɪŋ ˈhɛlpəz əs sɚˈvaɪv ˈlɔŋɡər/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "facts の末 /ts/ が about の弱形 /ə/ に続く",
+            "help の末子音 /p/ が us の弱形に連結。結果 [ˈhɛlpəz] ヘルパズ",
+            "survive の末 /v/ が longer の /l/ に続く"
+          ],
+          "kana": "オール ザ ファクツ アバウト マイニング ヘルパズ アス サーヴァイヴ ロンガー"
+        },
+        {
+          "en": "I've learned important facts about creepers and blazes.",
+          "ja": "私はクリーパーとブレイズについての重要な事実を学びました。",
+          "ipa": "/aɪv ˈlɝnd ɪmˈpɔrtənt ˈfækts əˈbaʊt ˈkriːpərz ənd ˈbleɪzɪz/",
+          "linking": [
+            "learned の末子音 /d/ が important の /ɪ/ に連結。結果 [ˈlɝndɪm] ラーンディム",
+            "facts の末 /ts/ が about の弱形 /ə/ に続く",
+            "and は弱形 /ənd/ に弱化。creepers の末 /z/ に続く",
+            "blazes で文が終わる"
+          ],
+          "kana": "アイヴ ラーンディム インポータント ファクツ アバウト クリーパーズ エン ブレイジズ"
+        }
+      ]
+    }
+  ]
+}

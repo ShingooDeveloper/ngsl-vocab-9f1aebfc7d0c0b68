@@ -1,0 +1,79 @@
+{
+  "word": "hint",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/hɪnt/",
+  "rank": 2685,
+  "level": "A2",
+  "hi": "hint(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】ヒント、手がかり（何かを解く、理解するための情報...give me a hint about where diamonds spawn）",
+    "【名詞】かすかな痕跡、わずかな兆候（ほぼ見えない、聞こえない何かの小さな印...a hint of redstone dust）",
+    "【動詞】ほのめかす、暗に示す（直接言わずに間接的に示唆する...the map hints at treasure）"
+  ],
+  "examples": [
+    {
+      "en": "I need a hint where to find diamonds deep underground.",
+      "ja": "地下の深くでダイヤモンドを見つけるためのヒントが必要です。",
+      "ipa": "/aɪ niːd ə hɪnt wɛr tə ˈfaɪnd ˈdaɪməndz diːp ˈʌndərɡraʊnd/",
+      "linking": [
+        "need の末尾子音 /d/ が a の初頭母音 /ə/ に連結",
+        "a は弱形 /ə/",
+        "to は弱形 /tə/",
+        "find の末尾子音 /d/ が deep の初頭子音 /d/（子音）に直続、/d/ は未開放"
+      ],
+      "kana": "アイ ニーダ ヒント ウェア タ ファインッ ディープ アンダーグラウンド"
+    },
+    {
+      "en": "There's a hint of lava somewhere in the cave system.",
+      "ja": "洞窟システムのどこかに溶岩があるかすかな痕跡がある。",
+      "ipa": "/ðɛrz ə hɪnt əv ˈlɑvə ˈsʌmwɛr ɪn ðə ˈkeɪv ˈsɪstəm/",
+      "linking": [
+        "there's の末尾子音 /z/ が a の初頭母音 /ə/ に連結",
+        "of は弱形 /əv/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ザーザ ヒント アヴ ラヴァ サムウェア イン ザ ケイヴ システム"
+    },
+    {
+      "en": "The ancient ruins hint at hidden treasures below.",
+      "ja": "古い遺跡は下にある隠された宝物の存在をほのめかしている。",
+      "ipa": "/ðə ˈeɪʃənt ˈruːɪnz hɪnt ət ˈhɪdən ˈtrɛʒərz bɪˈloʊ/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "ruins の末尾子音 /z/ が hint の初頭子音 /h/（子音）に直続、/z/ は未開放",
+        "hint の末尾子音 /t/ が at の初頭母音 /æ/ に連結",
+        "at の末尾子音 /t/ が hidden の初頭子音 /h/（子音）に直続、/t/ は未開放"
+      ],
+      "kana": "ザ エイシェント ルーインズ ヒント アッ ヒドゥン トレジャーズ ビロウ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "drop a hint",
+      "ja": "ヒントを与える、暗に示す",
+      "example": "I dropped a hint about the secret base location.",
+      "example_ja": "秘密の基地の場所についてヒントを与えました。",
+      "ipa": "/aɪ ˈdrɑpt ə hɪnt əˈbaʊt ðə ˈsiːkrət ˈbeɪs ləˈkeɪʃən/",
+      "linking": [
+        "dropped の末尾子音 /t/ が a の初頭母音 /ə/ に連結、米語ではフラップ化",
+        "about の末尾子音 /t/ が the の初頭母音 /ə/ に連結、フラップ化"
+      ],
+      "kana": "アイ ドロップ ア ヒント アバウラ ザ シークリット ベイス ロケーション"
+    },
+    {
+      "idiom": "hint at",
+      "ja": "～をほのめかす、～を暗に示す",
+      "example": "The map hints at a fortress in the nether.",
+      "example_ja": "その地図はネザーの砦をほのめかしている。",
+      "ipa": "/ðə mæp hɪnts ət ə ˈfɔrtrəs ɪn ðə ˈnɛðər/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "map の末尾子音 /p/ が hints の初頭子音 /h/（子音）に直続、/p/ は未開放",
+        "hints の末尾子音 /s/ が at の初頭母音 /æ/ に連結",
+        "in の末尾子音 /n/ が the の初頭子音 /ð/（子音）に直続、/n/ は未開放"
+      ],
+      "kana": "ザ マッ ヒンツ ア フォートリス イン ザ ネザー"
+    }
+  ]
+}

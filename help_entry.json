@@ -1,0 +1,221 @@
+{
+  "word": "help",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/help/",
+  "rank": 139,
+  "level": "A1",
+  "hi": "help(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】手伝う、助ける（someone に対して支援・援助を与える）",
+    "【動詞】（問題などの解決に）役立つ、役に立つ（contribute to solving）",
+    "【動詞】（食べ物などを）取る、サーブする（help someone to food）",
+    "【名詞】助け、助力、支援（assistance or support）",
+    "【名詞】家政婦、手伝い人（a domestic worker）"
+  ],
+  "examples": [
+    {
+      "en": "Please help me find diamonds.",
+      "ja": "ダイヤを探すのを手伝ってください。",
+      "ipa": "/pliːz ˈhelp mi ˈfaɪnd ˈdaɪməndz/",
+      "linking": [
+        "help の末尾子音 /p/ が me の初頭母音 /i/ に連結 [ˈhelpi] ヘルピ",
+        "find の末尾子音 /d/ が diamonds の初頭母音 /d/ に連結（いや、/d/ は子音なので連結なし）"
+      ],
+      "kana": "プリーズ ヘルピ ミー ファインド ダイモンズ"
+    },
+    {
+      "en": "Enchantments help you survive longer.",
+      "ja": "魔法はあなたがより長く生き残るのに役立ちます。",
+      "ipa": "/ɪnˈtʃɑːntmənts ˈhelp juː sərˈvaɪv ˈlɔŋɡər/",
+      "linking": [
+        "help の末尾子音 /p/ が you の初頭母音 /j/ に続く（連結なし、子音+子音）",
+        "survive の末尾子音 /v/ が longer の初頭母音 /l/ に連結 [sərˈvaɪvl] サーバイヴル"
+      ],
+      "kana": "インチャントメンツ ヘルプ ユー サーバイヴラ ロンガー"
+    },
+    {
+      "en": "I need some help to build this redstone contraption.",
+      "ja": "このレッドストーン機械を建築するのに支援が必要です。",
+      "ipa": "/aɪ ˈniːd səm ˈhelp tuː ˈbɪld ðɪs ˈrɛdˌstoʊn kənˈtræpʃən/",
+      "linking": [
+        "need の末尾子音 /d/ が some の初頭母音 /s/ に連結（いや、/s/ は子音なので連結なし）",
+        "help の末尾子音 /p/ が to の初頭子音 /t/ に続く（連結なし）"
+      ],
+      "kana": "アイ ニード サム ヘルプ トゥー ビルド ディス レッドストーン カントラプション"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "help out",
+      "ja": "手伝う、支援する（特に緊急時や困った時）",
+      "example": "My teammate helped me out when I was stuck in lava.",
+      "example_ja": "溶岩に引っかかった時に、チームメイトが手伝ってくれました。",
+      "ipa": "/maɪ ˈtiːmmeɪt ˈhɛlpt mi ˈaʊt ˈwɛn aɪ wəz stʌk ɪn ˈlɑːvə/",
+      "linking": [
+        "helped の末尾子音 /t/ が me の初頭母音 /m/ に連結（いや、/m/ は子音なので連結なし）。helped は /ˈhɛlpt/ で /t/ は未開放"
+      ],
+      "kana": "マイ ティームメイト ヘルプト ミー アウト ホェン アイ ワズ スタック イン ラーバ"
+    },
+    {
+      "idiom": "can't help but",
+      "ja": "～するのを避けられない、～せずにはいられない",
+      "example": "I can't help but laugh at my mistakes in building.",
+      "example_ja": "建築での自分の間違いを見て、笑わずにはいられません。",
+      "ipa": "/aɪ ˈkænt ˈhelp bət ˈlæf æt maɪ mɪsˈteɪks ɪn ˈbɪldɪŋ/",
+      "linking": [
+        "help の末尾子音 /p/ が but の初頭子音 /b/ に続く（連結なし）",
+        "at の末尾子音 /t/ は未開放 [æt̚]。mistakes の初頭 /m/ に続く（子音+子音）"
+      ],
+      "kana": "アイ キャント ヘルプ バット ラフ アッ マイ ミステイクス イン ビルディング"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "helps",
+      "ipa": "/helpz/",
+      "examples": [
+        {
+          "en": "A pickaxe helps you mine faster.",
+          "ja": "つるはしはあなたがより速く採掘するのに役立ちます。",
+          "ipa": "/ə ˈpɪkæks ˈhelpz juː ˈmaɪn ˈfæstər/",
+          "linking": [
+            "helps you → 語末子音 /z/ が子音 /j/ に続く（連結なし、子音+子音）",
+            "mine faster → 語末子音 /n/ が母音 /ə/ に連結 [ˈmaɪnə] マイナ"
+          ],
+          "kana": "ア ピッカックス ヘルプズ ユー マイナ ファスター"
+        },
+        {
+          "en": "This tool helps a lot.",
+          "ja": "このツールは多くの役に立ちます。",
+          "ipa": "/ðɪs ˈtuːl ˈhelpz ə ˈlɑːt/",
+          "linking": [
+            "helps a lot → 語末子音 /z/ が母音 /ə/（弱形 a）に連結 [ˈhelpzə] ヘルプザ",
+            "tool の末尾 /l/ が helps の初頭 /h/ に続く（子音+子音）"
+          ],
+          "kana": "ディス トゥール ヘルプザ ロット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "helped",
+      "ipa": "/ˈhelpt/",
+      "examples": [
+        {
+          "en": "I helped my friend escape.",
+          "ja": "友人が逃げるのを手伝いました。",
+          "ipa": "/aɪ ˈhelpt maɪ ˈfrɛnd ɪˈskeɪp/",
+          "linking": [
+            "helped my → 語末子音 /t/ は未開放で、my の子音 /m/ に続く [ˈhelp̚t̚] ヘルッ",
+            "escape → 語末子音 /p/ が続く（ここでは文末）"
+          ],
+          "kana": "アイ ヘルップト マイ フレンド イスケイプ"
+        },
+        {
+          "en": "She helped gather wood.",
+          "ja": "彼女は木材を集めるのを手伝いました。",
+          "ipa": "/ʃi ˈhelpt ˈɡæðər ˈwʊd/",
+          "linking": [
+            "helped gather → 語末子音 /t/ は未開放で、gather の子音 /ɡ/ に続く [ˈhelp̚t̚] ヘルッ",
+            "gather の末尾 /r/ が wood の子音 /w/ に続く（子音+子音）"
+          ],
+          "kana": "シー ヘルップト ギャザー ウッド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "helped",
+      "ipa": "/ˈhelpt/",
+      "examples": [
+        {
+          "en": "I have helped many players survive.",
+          "ja": "多くのプレイヤーが生き残るのを手伝ってきました。",
+          "ipa": "/aɪ ˈhæv ˈhelpt ˈmeɪni ˈpleɪərz sərˈvaɪv/",
+          "linking": [
+            "have → 機能語で弱形 /həv/ に弱化。末尾 /v/ が helped の /h/ に続く（連結なし）",
+            "helped many → 語末子音 /t/ は未開放で、many の /m/ に続く [ˈhelp̚t̚] ヘルッ",
+            "survive → 末尾子音 /v/ が続く文への影響"
+          ],
+          "kana": "アイ ハヴ ヘルップト メイニ プレイヤーズ サーバイヴ"
+        },
+        {
+          "en": "The enchantment has helped us build.",
+          "ja": "その魔法は建築を手伝ってくれました。",
+          "ipa": "/ðə ɪnˈtʃɑːntmənt ˈhæz ˈhelpt əs ˈbɪld/",
+          "linking": [
+            "has → 機能語で弱形 /həz/ に弱化",
+            "helped us → 語末子音 /t/ が母音 /ə/ に連結 [ˈhelptəs] ヘルプタス",
+            "build → 末尾子音 /d/ で終わり（ここでは文末）"
+          ],
+          "kana": "ザ インチャントメント ハズ ヘルプタス ビルド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "helping",
+      "ipa": "/ˈhɛlpɪŋ/",
+      "examples": [
+        {
+          "en": "We are helping defend the village.",
+          "ja": "私たちは村を守るのを手伝っています。",
+          "ipa": "/wi ɑr ˈhɛlpɪŋ dɪˈfɛnd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "are → 機能語で弱形 /ər/ に弱化。末尾 /r/ が helping の /h/ に続く（連結なし、子音+子音）",
+            "helping defend → 末尾 /ŋ/ が defend の /d/ に続く（連結なし）",
+            "the → 弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ アー ヘルピング ディフェンド ザ ビリッジ"
+        },
+        {
+          "en": "Helping someone escape is fun.",
+          "ja": "誰かが逃げるのを手伝うことは楽しいです。",
+          "ipa": "/ˈhɛlpɪŋ ˈsʌmwʌn ɪˈskeɪp ɪz fʌn/",
+          "linking": [
+            "Helping someone → 末尾 /ŋ/ が someone の /s/ に続く（連結なし、子音+子音）",
+            "escape is → 語末子音 /p/ が母音 /ɪ/ に連結 [ɪˈskeɪpɪz] イスケイピズ",
+            "is → 弱形で /ɪz/ に弱化"
+          ],
+          "kana": "ヘルピング サムワン イスケイピズ ファン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "helps",
+      "ipa": "/helpz/",
+      "examples": [
+        {
+          "en": "These tools provide useful helps.",
+          "ja": "これらのツールは有用な支援を提供します。",
+          "ipa": "/ðiz ˈtuːlz prəˈvaɪd ˈjuːsfəl ˈhelpz/",
+          "linking": [
+            "provide useful → 語末子音 /d/ が母音 /ə/ に連結 [prəˈvaɪdə] プロバイダ",
+            "useful helps → 語末 /l/ が helps の /h/ に続く（連結なし、子音+子音）",
+            "These tools は複数形で /z/ で終わる"
+          ],
+          "kana": "ディーズ トゥールズ プロバイダ ユースフル ヘルプズ"
+        },
+        {
+          "en": "Various potions offer helps against different mobs.",
+          "ja": "様々なポーションは異なるモブに対する支援を提供します。",
+          "ipa": "/ˈvɛriəs ˈpoʊʃənz ˈɔfər ˈhelpz əˈɡɛnst ˈdɪfərənt ˈmɑbz/",
+          "linking": [
+            "offer helps → 語末子音 /r/ が helps の /h/ に続く（連結なし、子音+子音）",
+            "helps against → 語末子音 /z/ が母音 /ə/ に連結 [ˈhelpzə] ヘルプザ",
+            "Various potions の語末 /z/ で音声変化"
+          ],
+          "kana": "ベリアス ポーションズ オファー ヘルプザゲンスト ディファレント モブズ"
+        }
+      ]
+    }
+  ]
+}

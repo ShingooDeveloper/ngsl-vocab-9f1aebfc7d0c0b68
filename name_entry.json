@@ -1,0 +1,204 @@
+{
+  "word": "name",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈneɪm/",
+  "rank": 137,
+  "level": "A1",
+  "hi": "name(?:s|d|ing)?",
+  "meanings": [
+    "【名詞】人・物・場所などを呼ぶために使う言葉、呼び名（a word by which a person or thing is known）",
+    "【名詞】人・物の性質・特徴・評判を表す言葉（good name, bad name）",
+    "【名詞】有名人、著名な人（a famous person）",
+    "【動詞】～に名前をつける、～と呼ぶ（名付ける）（to give a particular name to）",
+    "【動詞】～を指定する、～を任命する（to appoint to a particular post）",
+    "【動詞】～を述べる、～に言及する（to mention or specify）"
+  ],
+  "examples": [
+    {
+      "en": "My name is Alex.",
+      "ja": "私の名前はアレックスです。",
+      "ipa": "/maɪ ˈneɪm ɪz ˈælɪɡz/",
+      "linking": [
+        "my の語末子音 /r/（実際には /aɪ/ で終わるため無し）name と is は自然な語間"
+      ],
+      "kana": "マイ ネイム イズ アレックス"
+    },
+    {
+      "en": "Can you name all the Minecraft mobs?",
+      "ja": "Minecraft のすべてのモブの名前が言えますか？",
+      "ipa": "/kæn ju ˈneɪm ɔl ðə ˈmaɪnˌkræft ˈmɑbz/",
+      "linking": [
+        "you は /ju/ で、name の /n/ に接続。can は助動詞で通常の発音。",
+        "the は冠詞で弱形 /ðə/ に弱化。"
+      ],
+      "kana": "キャン ユー ネイム オール ザ マインクラフト モブズ"
+    },
+    {
+      "en": "They named the horse Shadow.",
+      "ja": "彼らはその馬をシャドウと名付けました。",
+      "ipa": "/ðeɪ ˈneɪmd ðə ˈhɔrs ˈʃædoʊ/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/ に弱化。"
+      ],
+      "kana": "ザエイ ネイムド ザ ホース シャドウ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "by name",
+      "ja": "名前で、名指しで",
+      "example": "The server owner called me by name in chat.",
+      "example_ja": "サーバー所有者はチャットで私を名前で呼んだ。",
+      "ipa": "/ðə ˈsɝvɚ ˈoʊnɚ ˈkɔld mi baɪ ˈneɪm ɪn ˈtʃæt/",
+      "linking": [
+        "the は弱形 /ðə/。"
+      ],
+      "kana": "ザ サーヴァー オウナー コールド ミー バイ ネイム イン チャット"
+    },
+    {
+      "idiom": "in the name of",
+      "ja": "～の名目で、～を理由に",
+      "example": "In the name of adventure, we explored the nether.",
+      "example_ja": "冒険の名目で、私たちはネザーを探検しました。",
+      "ipa": "/ɪn ðə ˈneɪm əv ˈædvɛntʃɚ wi ɪkˈsplɔrd ðə ˈnɛðɚ/",
+      "linking": [
+        "the は弱形 /ðə/。name の末尾 /m/ が of の /ə/ に連結 [ˈneɪməv] ネイマヴ。"
+      ],
+      "kana": "イン ザ ネイマヴ アドヴェンチャー ウィー イクスプロアド ザ ネザー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "names",
+      "ipa": "/ˈneɪmz/",
+      "examples": [
+        {
+          "en": "All the player names are shown on the scoreboard.",
+          "ja": "すべてのプレイヤー名はスコアボードに表示されます。",
+          "ipa": "/ɔl ðə ˈpleɪɚ ˈneɪmz ɑr ˈʃoʊn ɑn ðə ˈskɔrˌbord/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。shown の末尾 /n/ が on の /ən/ に連結 [ˈʃoʊnən]。",
+            "on も弱形 /ən/。on の末尾 /n/ が the の /ðə/ に連結 [ənðə]。the も弱形 /ðə/。"
+          ],
+          "kana": "オール ザ プレイヤー ネイムズ アー ショウネン ザ スコアボード"
+        },
+        {
+          "en": "We remember different names for each mob type.",
+          "ja": "モブの種類ごとに異なる名前を覚えています。",
+          "ipa": "/wi rɪˈmɛmbɚ ˈdɪfərənt ˈneɪmz fɔr ˈiːtʃ ˈmɑb ˈtaɪp/",
+          "linking": [
+            "for は機能語で弱形 /fɚ/ に弱化。"
+          ],
+          "kana": "ウィー リメンバー ディファレント ネイムズ フォア イーチ モブ タイプ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "names",
+      "ipa": "/ˈneɪmz/",
+      "examples": [
+        {
+          "en": "The server names every island with a special prefix.",
+          "ja": "そのサーバーはすべての島に特別なプレフィックスをつけます。",
+          "ipa": "/ðə ˈsɝvɚ ˈneɪmz ˈɛvri ˈaɪlənd wɪð ə ˈspɛʃəl ˈpriːfɪks/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "every の末尾 /i/ が island の /ˈaɪ/ に連結なし（母音+母音）。"
+          ],
+          "kana": "ザ サーヴァー ネイムズ エヴリー アイランド ウィズ ア スペシャル プリーフィックス"
+        },
+        {
+          "en": "She names her animals after famous Minecraft YouTubers.",
+          "ja": "彼女は動物を有名なマインクラフト YouTuber の名前で名付けます。",
+          "ipa": "/ʃi ˈneɪmz ɚ ˈænəməlz ˈæftɚ ˈfeɪməs ˈmaɪnˌkræft ˈjuːˌtjuːbɚz/",
+          "linking": [
+            "her は弱形 /ɚ/ に弱化。after は /ˈæftɚ/、末尾 /ɚ/ が animals の /æ/ に連結なし（弱化した /ɚ/ と /æ/ は異なる音）。"
+          ],
+          "kana": "シー ネイムズ ハー アニマルズ アフター フェイマス マインクラフト ユーチューバーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "named",
+      "ipa": "/ˈneɪmd/",
+      "examples": [
+        {
+          "en": "I named my first pet Creeper Killer.",
+          "ja": "私は最初のペットをクリーパーキラーと名付けました。",
+          "ipa": "/aɪ ˈneɪmd maɪ ˈfɝst pɛt ˈkriːpɚ ˈkɪlɚ/",
+          "linking": [],
+          "kana": "アイ ネイムド マイ ファースト ペット クリーパー キラー"
+        },
+        {
+          "en": "They named the base after the ancient temple they found.",
+          "ja": "彼らは見つけた古い寺院にちなんで基地に名前をつけました。",
+          "ipa": "/ðeɪ ˈneɪmd ðə ˈbeɪs ˈæftɚ ðə ˈeɪʃənt ˈtɛmpəl ðeɪ faʊnd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。after の末尾 /ɚ/ が the の /ðə/ に連結なし。"
+          ],
+          "kana": "ザエイ ネイムド ザ ベース アフター ザ エンシェント テンポル ザエイ ファウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "named",
+      "ipa": "/ˈneɪmd/",
+      "examples": [
+        {
+          "en": "Mobs are named using special name tags to identify them.",
+          "ja": "モブは特別なネームタグを使用して識別するために名前が付けられます。",
+          "ipa": "/ˈmɑbz ɑr ˈneɪmd ˈjuːzɪŋ ˈspɛʃəl ˈneɪm ˈtæɡz tə aɪˈdɛntɪfaɪ ðɛm/",
+          "linking": [
+            "are は弱形 /ɑr/ に弱化。to は機能語で弱形 /tə/ に弱化。"
+          ],
+          "kana": "モブズ アー ネイムド ユージング スペシャル ネイム タグズ タ アイデンティファイ ゼム"
+        },
+        {
+          "en": "The area was named Dragon's Nest by the builders.",
+          "ja": "その地域はビルダーたちによってドラゴンズネストと名付けられました。",
+          "ipa": "/ðə ˈɛriə wəz ˈneɪmd ˈdræɡənz ˈnɛst baɪ ðə ˈbɪldɚz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。by の末尾 /aɪ/ が the の /ðə/ に連結なし（異なる音）。"
+          ],
+          "kana": "ザ エリア ワズ ネイムド ドラゴンズ ネスト バイ ザ ビルダーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "naming",
+      "ipa": "/ˈneɪmɪŋ/",
+      "examples": [
+        {
+          "en": "Naming your animals helps you organize your base.",
+          "ja": "動物に名前をつけることはあなたの基地を整理するのに役立ちます。",
+          "ipa": "/ˈneɪmɪŋ jɔr ˈænəməlz ˈhɛlps juː ˈɔrɡənəɪz jɔr ˈbeɪs/",
+          "linking": [
+            "your の末尾 /r/ が animals の /æ/ に連結 [jɔrænəməlz] ユアアニマルズ。",
+            "organize の末尾 /z/ が your の /jɔr/ に連結 [ˈɔrɡənəɪzjɔr] オーガナイズユア。"
+          ],
+          "kana": "ネイミング ユアアニマルズ ヘルプス ユー オーガナイズユア ベース"
+        },
+        {
+          "en": "By naming things properly, players stay organized during multiplayer sessions.",
+          "ja": "物に適切に名前をつけることで、プレイヤーはマルチプレイヤーセッション中に整理整頓された状態を保ちます。",
+          "ipa": "/baɪ ˈneɪmɪŋ ˈθɪŋz ˈprɑpɚli ˈpleɪɚz steɪ ˈɔrɡənəɪzd ˈdʊrɪŋ ˌmʌltiˈpleɪɚ ˈsɛʃənz/",
+          "linking": [
+            "properly は /ˈprɑpɚli/、末尾 /i/ が players の /p/ に連結なし。players の末尾 /z/ が stay の /s/ に連結なし。"
+          ],
+          "kana": "バイ ネイミング シングズ プロパーリー プレイアーズ ステイ オーガナイズド ドゥアリング マルティプレイアー セッションズ"
+        }
+      ]
+    }
+  ]
+}

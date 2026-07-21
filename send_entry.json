@@ -1,0 +1,179 @@
+﻿{
+  "word": "send",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/sɛnd/",
+  "rank": 400,
+  "level": "A1",
+  "hi": "send(?:s|ing)?|sent",
+  "meanings": [
+    "【動詞】（人・物を）送る、届ける（person や thing を特定の場所へ移送する）",
+    "【動詞】（メッセージ・信号などを）送信する（communication or signals を transmit する）",
+    "【動詞】（人を）行かせる、派遣する（someone を direction や place へ dispatch する）",
+    "【動詞】（感情・状態などを）生じさせる、～の状態にする（cause someone to be in a state）"
+  ],
+  "examples": [
+    {
+      "en": "I've already sent the email to the whole team.",
+      "ja": "もうそのメールはチーム全員に送ってあるよ。",
+      "ipa": "/aɪv ɔːlˈrɛdi ˈsɛnt ði ˈiːmeɪl tə ðə ˈhoʊl ˈtiːm/",
+      "linking": [
+        "I've → have が弱形 /əv/ に縮約され I と一体化 [aɪv]",
+        "the email → email が母音で始まるので the は /ði/",
+        "to → 機能語は弱形 /tə/ に弱化"
+      ],
+      "kana": "アイヴ オールレディ セント ディ イーメイル タ ダ ホウル ティーム"
+    },
+    {
+      "en": "The package was sent to the wrong address by mistake.",
+      "ja": "その荷物は手違いで間違った住所に送られてしまった。",
+      "ipa": "/ðə ˈpækɪdʒ wəz ˈsɛnt tə ðə ˈrɔŋ ˈædrɛs baɪ mɪsˈteɪk/",
+      "linking": [
+        "was → 弱形 /wəz/ に弱化",
+        "sent to → 語末 t と次の t が連続し、前の t は未開放 [sɛn̚ tə]",
+        "to → 弱形 /tə/"
+      ],
+      "kana": "ザ パキッジ ワズ セント̚ タ ザ ローング アドレス バイ ミステイク"
+    },
+    {
+      "en": "Could you send the documents before the meeting starts?",
+      "ja": "会議が始まる前に、その書類を送っていただけますか?",
+      "ipa": "/kəd ju ˈsɛnd ðə ˈdɑːkjəmənts bɪˈfɔːr ðə ˈmiːɾɪŋ ˈstɑːrts/",
+      "linking": [
+        "Could you → could が弱形 /kəd/ になり、you の /j/ と同化して [kədʒu]",
+        "meeting → 母音間の t がフラップ化 [ɾ]"
+      ],
+      "kana": "クヂュ セン ダ ダキュメンツ ビフォー ダ ミーリング スターツ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "send for",
+      "ja": "（人）を呼びにやる、（物）を取り寄せる",
+      "example": "If we run out of supplies, we'll send for reinforcements from the main base.",
+      "example_ja": "補給物資が足りなくなったら、メインベースから援軍を要請します。",
+      "ipa": "/ɪf wi rʌn aʊt əv səˈplaɪz | wil ˈsɛnd fɔːr ˌrɛɪnˈfɔːsməənts frəm ðə ˈmeɪn ˈbeɪs/",
+      "linking": [
+        "send for → 語末子音 d と f が連続し、d は未開放 [sɛn̚ fɔːr]",
+        "from the → from の弱形 /frəm/ と the の弱形 /ðə/ が連結"
+      ],
+      "kana": "イフ ウィ ラン アウト アヴ サプライズ、ウィル セン̚ フォー レインフォースメンツ フラム ダ メイン ベイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "sends",
+      "ipa": "/sɛndz/",
+      "examples": [
+        {
+          "en": "He sends supplies to the base every day.",
+          "ja": "彼は毎日ベースに補給物資を送ります。",
+          "ipa": "/hi ˈsɛndz səˈplaɪz tu ðə ˈbeɪs ˈɛvri ˈdeɪ/",
+          "linking": [
+            "sends supplies → 語末子音 z が母音 ə に連結 [ˈsɛndz ə]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ヒー センズ サプライズ トゥー ザ ベイス エヴリ デイ"
+        },
+        {
+          "en": "She sends me the coordinates so I can find her base.",
+          "ja": "彼女は座標を教えてくれるので、彼女のベースが見つかります。",
+          "ipa": "/ʃi ˈsɛndz mi ðə koʊˈɔːrdənəts soʊ aɪ kən ˈfaɪnd hɚ ˈbeɪs/",
+          "linking": [
+            "sends me → 語末子音 z が m に連結 [ˈsɛndz mɪ]",
+            "the coordinates → the は弱形 /ðə/",
+            "can → 弱形 /kən/"
+          ],
+          "kana": "シー センズミ ザ コウオーディネッツ ソウ アイ クン ファインド ハー ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "sent",
+      "ipa": "/sɛnt/",
+      "examples": [
+        {
+          "en": "I sent the diamonds to the main base yesterday.",
+          "ja": "昨日、ダイヤモンドをメインベースに送りました。",
+          "ipa": "/aɪ ˈsɛnt ðə ˈdaɪməndz tu ðə ˈmeɪn ˈbeɪs ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "sent the → 語末 t が弱形 ə に連結 [ˈsɛn tə]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ セン タ ザ ダイモンズ トゥー ザ メイン ベイス イェスターデイ"
+        },
+        {
+          "en": "He sent an offer through the chat server.",
+          "ja": "彼はチャットサーバー経由でオファーを送ってきました。",
+          "ipa": "/hi ˈsɛnt ən ˈɑfɚ θruː ðə ˈtʃæt ˈsɝvɚ/",
+          "linking": [
+            "sent an → 語末 t が母音 ə に連結し、an の弱形 /ən/ に続く [ˈsɛn tən]",
+            "the chat → the は弱形 /ðə/"
+          ],
+          "kana": "ヒー セン タン オファー スルー ザ チャット サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "sent",
+      "ipa": "/sɛnt/",
+      "examples": [
+        {
+          "en": "The resources have been sent to our storage area.",
+          "ja": "リソースは私たちのストレージエリアに送られました。",
+          "ipa": "/ðə ˈrɛsɔːrsəz hæv bɪn ˈsɛnt tu ˈaʊɚ ˈstɔːrɪdʒ ˈɛriə/",
+          "linking": [
+            "sent to → 語末 t が弱形 ə に連結 [ˈsɛn tə]",
+            "our storage → 語末 /ɚ/ が /s/ に自然に連結"
+          ],
+          "kana": "ザ リソーシーズ ハヴ ビン セン タ アワー ストーリッジ エリア"
+        },
+        {
+          "en": "Items sent by players often disappear if not picked up.",
+          "ja": "プレイヤーが送ったアイテムは、拾わないと消えてしまうことが多いです。",
+          "ipa": "/ˈaɪtəmz ˈsɛnt baɪ ˈpleɪɚz ˈɑfən dɪsˈpɪr ɪf nɑt ˈpɪkt ʌp/",
+          "linking": [
+            "sent by → 語末 t と by の初頭 b が連続し、t は未開放 [sɛn̚ baɪ]",
+            "often disappear → 語末 n と d が連続"
+          ],
+          "kana": "アイタムズ セン̚ バイ プレイヤーズ オフン ディスピアー イフ ナット ピクト アップ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "sending",
+      "ipa": "/ˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I'm sending you the coordinates right now.",
+          "ja": "今ちょうど座標を送っています。",
+          "ipa": "/aɪm ˈsɛndɪŋ ju ðə koʊˈɔːrdənəts ˈraɪt naʊ/",
+          "linking": [
+            "I'm sending → m と s が連結する傾向。sending you では語末 ŋ と j が連結 [dɪŋj]",
+            "the coordinates → the は弱形 /ðə/"
+          ],
+          "kana": "アイム センディング ユー ザ コウオーディネッツ ライト ナウ"
+        },
+        {
+          "en": "She's sending resources to the farm every morning.",
+          "ja": "彼女は毎朝、農場にリソースを送っています。",
+          "ipa": "/ʃiz ˈsɛndɪŋ ˈrɛsɔːrsəz tu ðə ˈfɑːrm ˈɛvri ˈmɔːrnɪŋ/",
+          "linking": [
+            "She's sending → z と s が連結",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/",
+            "every morning → 語末 i が m に自然に連結"
+          ],
+          "kana": "シーズ センディング リソーシーズ トゥー ザ ファーム エヴリ モーニング"
+        }
+      ]
+    }
+  ]
+}

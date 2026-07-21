@@ -1,0 +1,207 @@
+{
+  "word": "own",
+  "pos": "動詞・形容詞・代名詞",
+  "pos_all": "動詞・形容詞・代名詞",
+  "ipa_us": "/oʊn/",
+  "rank": 128,
+  "level": "A2",
+  "hi": "own(?:s|ed|ing)?|own(?:'s)?",
+  "meanings": [
+    "【動詞】（財産・権利などを）所有する、持っている（have something as one's property）",
+    "【形容詞】自分自身の、他人のものではない（belonging to oneself, not someone else's）",
+    "【代名詞】自分自身のもの（one's own property or possession）"
+  ],
+  "examples": [
+    {
+      "en": "Every player owns a personal plot on the server.",
+      "ja": "すべてのプレイヤーはサーバー上に個人用プロットを所有しています。",
+      "ipa": "/ˈɛvri ˈpleɪɚ oʊnz ə pɚˈsoʊnəl ˈplɑt ɑn ðə ˈsɝvɚ/",
+      "linking": [
+        "every から player への音変化は自然。",
+        "player の語末 /r/ が owns の初頭に連結（rhotic）[ˈpleɪɚoʊnz] プレイヤー オウンズ",
+        "owns の語末 /z/ が a の初頭 /ə/ に連結 [oʊnzə] オウンザ",
+        "a は弱形 /ə/"
+      ],
+      "kana": "エブリ プレイヤー オウンザ ア パーソナル プラット オン ザ サーヴァー"
+    },
+    {
+      "en": "My friend owns the best-built base in the realm.",
+      "ja": "私の友達がレルム内で最もよく建築された基地を所有しています。",
+      "ipa": "/maɪ frɛnd oʊnz ðə ˈbɛst ˈbɪlt ˈbeɪs ɪn ðə ˈrɛlm/",
+      "linking": [
+        "friend の語末 /d/ が owns の初頭 /oʊ/ に連結 [frɛndoʊnz] フレンド オウンズ",
+        "owns の語末 /z/ が the の弱形 /ð/ に連結 [oʊnzðə] オウンザ",
+        "the は弱形 /ðə/",
+        "in は弱形 /ɪn/"
+      ],
+      "kana": "マイ フレンド オウンズ ザ ベスト ビルト ベース イン ザ レルム"
+    },
+    {
+      "en": "This is my own design for the redstone system.",
+      "ja": "これは私自身のレッドストーンシステムの設計です。",
+      "ipa": "/ðɪs ɪz maɪ oʊn dɪˈzaɪn fɔr ðə ˈrɛdˌstoʊn ˈsɪstəm/",
+      "linking": [
+        "this の語末 /s/ が is の初頭 /ɪ/ に連結 [ðɪsɪz] ディスイズ",
+        "is の語末 /z/ が my の初頭に弱く連結 [ɪzmaɪ] イズマイ",
+        "for は弱形 /fɔr/ に弱化",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ディスイズ マイ オウン ディザイン フォア ザ レッドストウン システム"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "on your own",
+      "ja": "独自で、自力で",
+      "example": "I built this castle completely on my own without any help.",
+      "example_ja": "誰の助けもなく、完全に自分自身でこの城を建てました。",
+      "ipa": "/aɪ ˈbɪlt ðɪs ˈkæsəl kəmˈplit li ɑn maɪ oʊn wɪðˈaʊt ˈɛni hɛlp/",
+      "linking": [
+        "built の語末 /t/ が this の初頭 /ð/ に直続。未開放 [bɪlt̚ ðɪs] ビルト ディス",
+        "on の語末 /n/ が my の初頭 /m/ に直続 [ɑnmaɪ] オン マイ",
+        "without の語末 /t/ が any の初頭 /ɛ/ に連結 [wɪðaʊtɛ] ウィザウト エニー"
+      ],
+      "kana": "アイ ビルト ディス キャッセル コンプリートリー オン マイ オウン ウィザウト エニー ヘルプ"
+    },
+    {
+      "idiom": "own up",
+      "ja": "（悪いことを）白状する、認める",
+      "example": "The player had to own up to destroying the community builds.",
+      "example_ja": "そのプレイヤーはコミュニティーの建築物を破壊したことを認めざるを得ませんでした。",
+      "ipa": "/ðə ˈpleɪɚ hæd tu oʊn ˈʌp tu dɪˈstrɔɪɪŋ ðə kəˈmjuːnɪti ˈbɪldz/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "had to: had の語末 /d/ が to の初頭 /t/ に直続 [hæd̚ tu] ハド トゥ",
+        "up to: up の語末 /p/ が to の初頭 /t/ に直続。未開放 [ˈʌp̚ tu] アップ トゥ"
+      ],
+      "kana": "ザ プレイヤー ハド トゥ オウンアップ トゥ ディストロイング ザ コミューニティー ビルズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "owns",
+      "ipa": "/oʊnz/",
+      "examples": [
+        {
+          "en": "She owns the largest fortress on the server.",
+          "ja": "彼女がサーバー上で最も大きい砦を所有しています。",
+          "ipa": "/ʃi oʊnz ðə ˈlɑrdʒɪst ˈfɔɹtɪs ɑn ðə ˈsɝvɚ/",
+          "linking": [
+            "owns の語末 /z/ が the の弱形 /ð/ に連結 [oʊnzðə] オウンザ",
+            "the は弱形 /ðə/",
+            "on の語末 /n/ が the の弱形 /ð/ に直続 [ɑn̚ ðə] オン ザ"
+          ],
+          "kana": "シー オウンズ ザ ラージェスト フォートレス オン ザ サーヴァー"
+        },
+        {
+          "en": "The admin owns all the spawn protection zones.",
+          "ja": "管理者はすべてのスポーン保護エリアを所有しています。",
+          "ipa": "/ðə ˈɑdmɪn oʊnz ɔl ðə ˈspoʊn prəˈtɛkʃən ˈzoʊnz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin の語末 /n/ が owns の初頭 /oʊ/ に連結 [ˈɑdmɪnoʊnz] アドミン オウンズ",
+            "owns の語末 /z/ が all の初頭 /ɔ/ に連結 [oʊnzɔl] オウンズ オール",
+            "all の語末 /l/ が the の弱形 /ð/ に直続。未開放 [ɔl̚ ðə] オール ザ"
+          ],
+          "kana": "ザ アドミン オウンズ オール ザ スポーン プロテクション ゾーンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "owned",
+      "ipa": "/oʊnd/",
+      "examples": [
+        {
+          "en": "I owned that base before the server was reset.",
+          "ja": "サーバーがリセットされる前、私はその基地を所有していました。",
+          "ipa": "/aɪ oʊnd ðæt ˈbeɪs bɪˈfɔr ðə ˈsɝvɚ wəz ˈrɛˌset/",
+          "linking": [
+            "base の語末 /s/ が before の初頭 /b/ に接近（子音+子音）",
+            "before の語末 /r/ が the の弱形 /ð/ に連結（rhotic）[fɔɹðə] フォア ザ",
+            "the は弱形 /ðə/",
+            "was の語末 /z/ が reset の初頭 /r/ に連結（rhotic）[wəzrɛ] ワズ リセット"
+          ],
+          "kana": "アイ オウンド ザット ベース ビフォア ザ サーヴァー ワズ リセット"
+        },
+        {
+          "en": "They owned those mines until the land claim expired.",
+          "ja": "クレームが期限切れになるまで、彼らはその鉱山を所有していました。",
+          "ipa": "/ðeɪ oʊnd ðoʊz ˈmaɪnz ənˈtɪl ðə ˈlænd kleɪm ɪkˈspaɪɚd/",
+          "linking": [
+            "owned の語末 /d/ が those の初頭 /ð/ に直続 [oʊndðoʊz] オウンド ゾーズ",
+            "mines の語末 /z/ が until の初頭 /ə/ に連結 [maɪnzən] マインズ アンティル",
+            "until の語末 /l/ が the の弱形 /ð/ に直続 [ənˈtɪl̚ ðə] アンティル ザ"
+          ],
+          "kana": "ゼイ オウンド ゾーズ マインズ アンティル ザ ランド クレイム イクスパイアド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "owned",
+      "ipa": "/oʊnd/",
+      "examples": [
+        {
+          "en": "I have owned this land for three years in survival mode.",
+          "ja": "サバイバルモードでこの土地を3年間所有しています。",
+          "ipa": "/aɪ hæv oʊnd ðɪs ˈlænd fɔr θri ˈjɪrz ɪn sɚˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "have の語末 /v/ が owned の初頭 /oʊ/ に連結 [hævoʊnd] ハヴ オウンド",
+            "owned の語末 /d/ が this の初頭 /ð/ に直続 [oʊndðɪs] オウンド ディス",
+            "for は弱形 /fɚ/ に弱化"
+          ],
+          "kana": "アイ ハヴ オウンド ディス ランド フォア スリー イアーズ イン サバイバル モード"
+        },
+        {
+          "en": "That fortress has been owned by the same guild for five seasons.",
+          "ja": "その砦は5シーズン間、同じギルドに所有されてきました。",
+          "ipa": "/ðæt ˈfɔɹtɪs hæz bɪn oʊnd baɪ ðə ˈseɪm ɡɪld fɔr ˈfaɪv ˈsizənz/",
+          "linking": [
+            "fortress の語末 /s/ が has の初頭 /h/ に接近（子音+子音）",
+            "been の語末 /n/ が owned の初頭 /oʊ/ に連結 [bɪnoʊnd] ビン オウンド",
+            "owned の語末 /d/ が by の初頭 /b/ に直続。未開放 [oʊnd̚ baɪ] オウンド バイ",
+            "the は弱形 /ðə/",
+            "guild の語末 /d/ が for の初頭 /f/ に直続 [ɡɪld̚ fɔr] ギルド フォア"
+          ],
+          "kana": "ザット フォートレス ハズ ビン オウンド バイ ザ セイム ギルド フォア ファイヴ シーズンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "owning",
+      "ipa": "/ˈoʊnɪŋ/",
+      "examples": [
+        {
+          "en": "Owning multiple bases requires careful resource management in Minecraft.",
+          "ja": "マインクラフトで複数の基地を所有することは、注意深いリソース管理が必要です。",
+          "ipa": "/ˈoʊnɪŋ ˈmʌltɪpəl ˈbeɪsɪz rɪˈkwaɪɚz ˈkɛɹfəl ˈrɛsɔɹs ˈmænɪdʒmənt ɪn maɪnˈkræft/",
+          "linking": [
+            "owning の語末 /ŋ/ が multiple の初頭 /m/ に直続。未開放 [ˈoʊnɪŋ̚ ˈmʌl] オウニング マルティプル",
+            "in は弱形 /ɪn/"
+          ],
+          "kana": "オウニング マルティプル ベイシズ リクワイアーズ ケアフル リソース マネジメント イン マインクラフト"
+        },
+        {
+          "en": "She's interested in owning a large section of the Nether.",
+          "ja": "彼女はネザーの大きな部分を所有することに興味があります。",
+          "ipa": "/ʃiz ˈɪntərɪstɪd ɪn ˈoʊnɪŋ ə ˈlɑrdʒ ˈsɛkʃən əv ðə ˈnɛðɚ/",
+          "linking": [
+            "she's の語末 /z/ が interested の初頭 /ɪ/ に連結 [ʃɪzɪn] シーズ インテレスティド",
+            "in の語末 /n/ が owning の初頭 /oʊ/ に連結 [ɪnoʊ] イン オウニング",
+            "owning の語末 /ŋ/ が a の初頭 /ə/ に直続。未開放 [ˈoʊnɪŋ̚ ə] オウニング ア",
+            "a は弱形 /ə/",
+            "section の語末 /n/ が of の初頭に連結 [ˈsɛkʃənəv] セクション アヴ"
+          ],
+          "kana": "シーズ インテレスティド イン オウニング ア ラージ セクション アヴ ザ ネザー"
+        }
+      ]
+    }
+  ]
+}

@@ -5,64 +5,80 @@
   "ipa_us": "/səkˈsɛsfəli/",
   "rank": 2430,
   "level": "B1",
-  "hi": "success(?:ful(?:ly)?)?",
+  "hi": "successfully",
   "meanings": [
-    "【副詞】成功のうちに、首尾よく（目的や意図を達成して結果を得る方で）",
-    "【副詞】うまく、所期の結果を得て（困難を乗り越えて…に成功して）",
-    "【副詞】有効に作用して、効果的に（…が意図した通りに機能する）"
+    "【副詞】成功して、首尾よく（as a result of successful effort; producing the desired result）",
+    "【副詞】うまく、巧みに、効果的に（in a skillful or effective manner）",
+    "【副詞】予定通りに、トラブルなく（without problems or difficulties；as planned）"
   ],
   "examples": [
     {
-      "en": "I successfully mined a diamond ore.",
-      "ja": "私は成功裏にダイヤモンド鉱石を採掘した。",
-      "ipa": "/aɪ səkˈsɛsfəli ˈmaɪndə ˈdaɪmənd ɔɹ/",
+      "en": "I successfully dug a hole in the ground.",
+      "ja": "私は地面に穴を無事に掘ることができました。",
+      "ipa": "/aɪ səkˈsɛsfəli dʌg ə hoʊl ɪn ðə ˈɡraʊnd/",
       "linking": [
-        "mined a → mined の /d/ が a の /ə/ に連結 [ndə] ンダ",
-        "diamond ore → diamond の /d/ が ore の /ɔ/ に連結 [ndɔɹ] ンドア"
+        "dug の末尾子音 /g/ が a の初頭弱形 /ə/ に連結。結果は [dʌɡə] ダガ",
+        "in the で the は冠詞の弱形 /ðə/ ザ"
       ],
-      "kana": "アイ サクセスフリ マインダ ダイマンド オア"
+      "kana": "アイ サクセスフリ ダガ ホール イン ザ グラウンド"
     },
     {
-      "en": "We successfully escaped from the creeper.",
-      "ja": "私たちはクリーパーから無事に逃げ出した。",
+      "en": "She successfully made a bed for respawning.",
+      "ja": "彼女はリスポーン用のベッドを見事にクラフトしました。",
+      "ipa": "/ʃi səkˈsɛsfəli meɪd ə bɛd fɔr ˈrɛsˌpɔnɪŋ/",
+      "linking": [
+        "made の末尾子音 /d/ が a の初頭弱形 /ə/ に連結。結果は [meɪdə] メイダ",
+        "for は機能語で弱形 /fɔr/ に弱化"
+      ],
+      "kana": "シ サクセスフリ メイダ ベッド フォア レスポニング"
+    },
+    {
+      "en": "We successfully escaped from the Creeper.",
+      "ja": "私たちはクリーパーからうまく逃げおおせました。",
       "ipa": "/wi səkˈsɛsfəli ɪˈskeɪpt frəm ðə ˈkripɚ/",
       "linking": [
-        "the は母音前の弱形 /ðə/ ザ"
+        "from の末尾子音 /m/ が the の初頭弱形 /ðə/ に連結。結果は [frəmðə] フラムザ",
+        "the は冠詞の弱形で /ðə/ ザ"
       ],
-      "kana": "ウィ サクセスフリ イスケイプト フラム ザ クリーパー"
-    },
-    {
-      "en": "She successfully built a redstone circuit.",
-      "ja": "彼女はレッドストーン回路を見事に構築した。",
-      "ipa": "/ʃi səkˈsɛsfəli ˈbɪltə ˈrɛdˌstoʊn ˈsɝkɪt/",
-      "linking": [
-        "built a → built の /t/ が a の /ə/ に連結 [ltə] ルタ"
-      ],
-      "kana": "シー サクセスフリ ビルタ レッドストーン サーキット"
+      "kana": "ウィ サクセスフリ イスケイプト フラムザ クリーパー"
     }
   ],
   "idioms": [
     {
-      "idiom": "complete successfully",
-      "ja": "～を成功裏に完了する、無事終わらせる",
-      "example": "We completed this quest successfully.",
-      "example_ja": "私たちはこのクエストを無事完了した。",
-      "ipa": "/wi kəmˈplitəd ðɪs kwɛst səkˈsɛsfəli/",
+      "idiom": "successfully escape from",
+      "ja": "～から逃げおおせた、脱出した",
+      "example": "The player successfully escaped from the mob's attack.",
+      "example_ja": "プレイヤーはモブの攻撃からうまく逃げおおせました。",
+      "ipa": "/ðə ˈpleɪɚ səkˈsɛsfəli ɪˈskeɪpt frəm ðə ˈmɑbz əˈtæk/",
       "linking": [
-        "completed this → completed の /d/ が this に未開放で接続 [ɪd̚ ðɪs] イッ ディス"
+        "the は冠詞の弱形 /ðə/",
+        "from the で m が /ðə/ に連結 [frəmðə] フラムザ"
       ],
-      "kana": "ウィ カンプリーティッド ディス クウェスト サクセスフリ"
+      "kana": "ザ プレイヤー サクセスフリ イスケイプト フラムザ モブズ アタック"
     },
     {
-      "idiom": "escape successfully",
-      "ja": "～から無事に脱出する、うまく逃げ出す",
-      "example": "They escaped successfully from the wither.",
-      "example_ja": "彼らはウィザーから無事に逃げ出した。",
-      "ipa": "/ðeɪ ɪˈskeɪpt səkˈsɛsfəli frəm ðə ˈwɪðɚ/",
+      "idiom": "successfully complete",
+      "ja": "完成させる、達成する",
+      "example": "We successfully completed the mining challenge without dying.",
+      "example_ja": "私たちは死なずに採掘チャレンジを完成させました。",
+      "ipa": "/wi səkˈsɛsfəli kəmˈplitɪd ðə ˈmaɪnɪŋ ˈtʃælɪndʒ wɪðˈaʊt ˈdaɪɪŋ/",
       "linking": [
-        "the は弱形 /ðə/ ザ"
+        "completed の末尾 /d/ が the の /ðə/ に続く未開放",
+        "the は冠詞の弱形 /ðə/ ザ"
       ],
-      "kana": "ザイ イスケイプト サクセスフリ フラム ザ ウィザー"
+      "kana": "ウィ サクセスフリ コンプリーティド ザ マイニング チャレンジ ウィザウト ダイイング"
+    },
+    {
+      "idiom": "successfully defend",
+      "ja": "～を守りきる、防御する",
+      "example": "Our team successfully defended the base against the raid.",
+      "example_ja": "私たちのチームはレイドから基地を守りきりました。",
+      "ipa": "/ɑɚ tim səkˈsɛsfəli dɪˈfɛndɪd ðə beɪs əˈɡɛnst ðə reɪd/",
+      "linking": [
+        "our の末尾 /r/ が team の /t/ に続く連結",
+        "base の末尾 /s/ が against の /ə/ に続く（未開放）"
+      ],
+      "kana": "アワー ティーム サクセスフリ ディフェンディド ザ ベイス アゲンスト ザ レイド"
     }
   ]
 }
