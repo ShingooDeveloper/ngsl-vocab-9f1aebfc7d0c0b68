@@ -1,0 +1,241 @@
+{
+  "word": "review",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/rɪˈvjuː/",
+  "rank": 2089,
+  "level": "B1",
+  "hi": "review(?:s|ing|ed)?",
+  "meanings": [
+    "【動詞】～を査読・精査する、見直す（examine or assess something again）",
+    "【動詞】～を批評・評論する、レビューを書く（write a critical appraisal of something）",
+    "【動詞】（学んだことを）復習・見直す（go over something previously learned）",
+    "【名詞】批評、書評、レビュー（a critical evaluation of a work or performance）",
+    "【名詞】見直し、再検査（a second or fresh examination）"
+  ],
+  "examples": [
+    {
+      "en": "You should review your mining strategy before heading underground.",
+      "ja": "地下に向かう前に、あなたの採掘戦略を見直すべきです。",
+      "ipa": "/ju ʃʊd rɪˈvjuː jɚ ˈmaɪnɪŋ ˈstræɾəɡi bɪˈfɔr ˈhɛdɪŋ ˌʌndərˈɡraʊnd/",
+      "linking": [
+        "should は弱形で /ʃʊd/。review に続く。",
+        "review your → 語末の w (黙字) の代わりに /uː/ が your /jɚ/ に流れる [rɪˈvjuːjɚ] リヴューヤー",
+        "mining strategy → t がフラップ化 [ˈstræɾəɡi] ストララギ",
+        "before の r が heading に連結 [bɪˈfɔrɛdɪŋ] ビフォー ヘディング"
+      ],
+      "kana": "ユー シュッド リヴューヤー マイニング ストララギ ビフォー ヘディング アンダーグラウンド"
+    },
+    {
+      "en": "My friend reviews the redstone circuits to find problems.",
+      "ja": "私の友達は、問題を見つけるためにレッドストーン回路を査定します。",
+      "ipa": "/maɪ frɛnd rɪˈvjuːz ðə ˈrɛdˌstoʊn ˈsɝːkɪts tə ˈfaɪnd ˈprɑbləmz/",
+      "linking": [
+        "reviews の z が the に連結。the は弱形 /ðə/ [rɪˈvjuːzðə] リヴューザ",
+        "redstone circuit の t がフラップ化 [ˈsɝːkɪɾs] サーキッツ",
+        "to は弱形 /tə/。find に続く。"
+      ],
+      "kana": "マイ フレンド リヴューザ ザ レッドストーン サーキッツ タ ファインド プラブレムズ"
+    },
+    {
+      "en": "I left a five-star review about the new update.",
+      "ja": "新しいアップデートについて5つ星のレビューを書きました。",
+      "ipa": "/aɪ left ə ˈfaɪv stɑr rɪˈvjuː əˈbaʊt ðə ˈnu ˌʌpˈdeɪt/",
+      "linking": [
+        "left の t が a の母音に未開放で続く [left ə] レフタ",
+        "five-star は compound で [ˈfaɪv stɑr]。star の r が review に連結 [stɑr rɪˈvjuː] スター リヴュー",
+        "about の t が the に未開放で続く。the は弱形 /ðə/",
+        "new は /nu/。update は /ʌpˈdeɪt/"
+      ],
+      "kana": "アイ レフタ ァ ファイブ スター リヴュー アバウト ザ ニュー アップデイト"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "review board",
+      "ja": "査定委員会、審査委員会",
+      "example": "The server review board approved our new building rules.",
+      "example_ja": "サーバーの査定委員会が、私たちの新しい建築ルールを承認しました。",
+      "ipa": "/ðə ˈsɝːvər rɪˈvjuː bɔrd əˈpruːvd aʊər ˈnu ˈbɪldɪŋ ˈrulz/",
+      "linking": [
+        "review board は [rɪˈvjuː bɔrd] でつながる。board の r は次に続く。",
+        "building の g が rules に続く（子音+子音）。",
+        "new は /nu/、building に続く [ˈnu ˈbɪldɪŋ] ニュー ビルディング"
+      ],
+      "kana": "ザ サーバー リヴュー ボード アプルーブド アワー ニュー ビルディング ルールズ"
+    },
+    {
+      "idiom": "under review",
+      "ja": "審査中である、検討中である",
+      "example": "The new Minecraft feature is under review for safety.",
+      "example_ja": "新しいマインクラフトの機能は、安全性のために審査中です。",
+      "ipa": "/ðə ˈnu ˈmaɪnˌkræft ˈfitʃər ɪz ˌʌndər rɪˈvjuː fɔr ˈseɪfti/",
+      "linking": [
+        "new は /nu/。minecraft に続く。",
+        "under は /ˌʌndər/ で、review に続く。r が次に繋がる。",
+        "for は弱形 /fər/。safety に続く。"
+      ],
+      "kana": "ザ ニュー マインクラフト フィーチャー イズ アンダー リヴュー フォー セイフティー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "reviews",
+      "ipa": "/rɪˈvjuːz/",
+      "examples": [
+        {
+          "en": "She reviews every build to check for structural problems.",
+          "ja": "彼女は構造上の問題をチェックするために、すべての建築物を査定します。",
+          "ipa": "/ʃi rɪˈvjuːz ˈɛvri ˈbɪld tə ˈtʃɛk fər strʌkˈtʃʊrəl ˈprɑbləmz/",
+          "linking": [
+            "reviews の z が every に連結。every は /ˈɛvri/ [rɪˈvjuːzɛvri] リヴューズエヴリ",
+            "build の d が to に続く（弱形 /tə/）。未開放で [ˈbɪlt̚ tə] ビルド タ",
+            "check の k が for に続く（弱形 /fər/）。structural は [strʌkˈtʃʊrəl]"
+          ],
+          "kana": "シー リヴューズエヴリ ビルド タ チェック フォー ストラクチュアラル プラブレムズ"
+        },
+        {
+          "en": "The admin reviews all server changes before they go live.",
+          "ja": "管理者はライブになる前に、すべてのサーバー変更を確認します。",
+          "ipa": "/ðə ˈædmɪn rɪˈvjuːz ɔl ˈsɝːvər ˈtʃeɪndʒəz bɪˈfɔr ðeɪ ɡoʊ ˈlaɪv/",
+          "linking": [
+            "admin の n が reviews に続く。reviews の z が all に連結 [rɪˈvjuːzɔl] リヴューズオール",
+            "changes の z が before に続く。before は [bɪˈfɔr] で r が they に連結 [bɪˈfɔrðeɪ] ビフォー ゼイ",
+            "they は /ðeɪ/、go は /ɡoʊ/"
+          ],
+          "kana": "ザ アドミン リヴューズオール サーバー チェンジズ ビフォー ゼイ ゴー ライブ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "reviewed",
+      "ipa": "/rɪˈvjuːd/",
+      "examples": [
+        {
+          "en": "I reviewed the enchantment options before applying them to my tools.",
+          "ja": "ツールに適用する前に、エンチャント オプションを確認しました。",
+          "ipa": "/aɪ rɪˈvjuːd ðɪ ɛnˈtʃæntmənt ˈɑpʃənz bɪˈfɔr əˈplaɪɪŋ ðəm tə maɪ ˈtulz/",
+          "linking": [
+            "reviewed の d が the に連結。the は弱形 /ðə/ [rɪˈvjuːdə] リヴューダ",
+            "enchantment の t がフラップ化 [ɛnˈtʃæntmənt→ɛnˈtʃæn̚mənt]",
+            "before の r が applying に連結 [bɪˈfɔrəˈplaɪɪŋ] ビフォー アプライング",
+            "them は弱形 /ðəm/。to は /tə/"
+          ],
+          "kana": "アイ リヴューダ エンチャントメント オプションズ ビフォー アプライング ダム タ マイ トゥールズ"
+        },
+        {
+          "en": "We reviewed our base defense after the creeper explosion.",
+          "ja": "クリーパー爆発の後、基地の防御を見直しました。",
+          "ipa": "/wi rɪˈvjuːd ˈaʊər ˈbeɪs dɪˈfɛns ˈæftər ðə ˈkriːpər ɪkˈsploʊʒən/",
+          "linking": [
+            "we は /wi/。reviewed に続く。",
+            "reviewed の d が our に連結 [rɪˈvjuːdaʊər] リヴューダワー",
+            "defense の s が after に続く（弱い連結）。after の r が the に連結 [ˈæftərðə] アフター ザ",
+            "creeper の r が explosion に続く（子音+子音）"
+          ],
+          "kana": "ウィ リヴューダワー ベイス ディフェンス アフター ザ クリーパー エクスプロージョン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "reviewed",
+      "ipa": "/rɪˈvjuːd/",
+      "examples": [
+        {
+          "en": "After the trade had been reviewed, we approved the deal.",
+          "ja": "取引が確認された後、私たちは取引を承認しました。",
+          "ipa": "/ˈæftər ðə ˈtreɪd hæd bɪn rɪˈvjuːd | wi əˈpruːvd ðə ˈdil/",
+          "linking": [
+            "had は弱形 /hæd/、been は /bɪn/。reviewed に続く。",
+            "reviewed は /rɪˈvjuːd/。we に続く。",
+            "approved の d が the に続く（弱い）[əˈpruːvdðə] アプルーブド ザ"
+          ],
+          "kana": "アフター ザ トレイド ハド ビン リヴューd、ウィ アプルーブド ザ ディール"
+        },
+        {
+          "en": "The design has been reviewed by the entire building team.",
+          "ja": "デザインは建築チーム全体によって査定されました。",
+          "ipa": "/ðə dɪˈzaɪn hæz bɪn rɪˈvjuːd baɪ ðɪ ɛnˈtaɪər ˈbɪldɪŋ ˈtim/",
+          "linking": [
+            "has は弱形 /hæz/、been は /bɪn/。reviewed に続く。",
+            "reviewed は /rɪˈvjuːd/。by に続く [rɪˈvjuːd baɪ] リヴューバイ",
+            "the は弱形 /ðɪ/。entire に続く。",
+            "building の g が team に続く（子音+子音）"
+          ],
+          "kana": "ザ ディザイン ハズ ビン リヴューバイ ディ エンタイアー ビルディング ティーム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "reviewing",
+      "ipa": "/rɪˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "Reviewing inventory regularly keeps your resources organized.",
+          "ja": "定期的に在庫を確認することで、リソースが整理された状態に保たれます。",
+          "ipa": "/rɪˈvjuːɪŋ ɪnˈvɛntəri ˈrɛɡjələrli ˈkips jɚ rɪˈsɔrsəz ˈɔrɡənˌaɪzd/",
+          "linking": [
+            "reviewing の ng が inventory に続く（ただし連結ではなく自然な流れ）",
+            "inventory の r が regularly に続く（ただし r は子音）。regularly は [ˈrɛɡjələrli] レギュラリー",
+            "keeps の p が your に続く（弱形 /jɚ/）。your は [jɚ]",
+            "resources の s が organized に続く"
+          ],
+          "kana": "リヴューイング インヴェントリー レギュラリー キープス ヤー リソーシズ オーガナイズド"
+        },
+        {
+          "en": "While reviewing the terrain, we discovered a ravine system.",
+          "ja": "地形を確認している間に、峡谷システムを発見しました。",
+          "ipa": "/waɪl rɪˈvjuːɪŋ ðə təˈreɪn | wi dɪˈskʌvərd ə ˈrævˌaɪn ˈsɪstəm/",
+          "linking": [
+            "while は /waɪl/。reviewing に続く。",
+            "reviewing の ng が the に続く。the は弱形 /ðə/ [rɪˈvjuːɪŋðə] リヴューイング ザ",
+            "terrain の n が we に続く（子音+子音だが自然な流れ）",
+            "discovered の d が a に連結 [dɪˈskʌvərd ə] ディスカバード ア"
+          ],
+          "kana": "ワイル リヴューイング ザ テレイン、ウィ ディスカバード ア ラヴァイン シスタム"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "reviews",
+      "ipa": "/rɪˈvjuːz/",
+      "examples": [
+        {
+          "en": "Many player reviews mention that multiplayer features are essential.",
+          "ja": "多くのプレイヤー レビューは、マルチプレイヤー機能が不可欠であることを述べています。",
+          "ipa": "/ˈmɛni ˈpleɪər rɪˈvjuːz ˈmɛnʃən ðæt ˌmʌltiˈpleɪər ˈfitʃərz ɑr ɪˈsɛnʃəl/",
+          "linking": [
+            "player は /ˈpleɪər/ で r が reviews に連結 [ˈpleɪər rɪˈvjuːz] プレイヤー リヴューズ",
+            "reviews の z が mention に続く（ただし子音+子音）。mention は /ˈmɛnʃən/",
+            "that は弱形で /ðæt/。multiplayer は /ˌmʌltiˈpleɪər/",
+            "are は弱形で /ɑr/ または /ər/"
+          ],
+          "kana": "メニー プレイヤー リヴューズ メンション ザット マルチプレイヤー フィーチャーズ アー エッセンシャル"
+        },
+        {
+          "en": "The reviews on the server forum help new players understand the rules.",
+          "ja": "サーバー フォーラムのレビューは、新しいプレイヤーがルールを理解するのに役立ちます。",
+          "ipa": "/ðə rɪˈvjuːz ɑn ðə ˈsɝːvər ˈfɔrəm ˈhɛlp ˈnu ˈpleɪərz ˌʌndərˈstænd ðə ˈrulz/",
+          "linking": [
+            "the は弱形 /ðə/。reviews に続く [ðə rɪˈvjuːz] ザ リヴューズ",
+            "reviews の z が on に続く（弱い）。on は /ɑn/",
+            "on the は [ɑn ðə] オン ザ。server に続く。",
+            "new は /nu/。players に続く。",
+            "help の p が new に続く（未開放など）。players は /ˈpleɪərz/"
+          ],
+          "kana": "ザ リヴューズ オン ザ サーバー フォーラム ヘルプ ニュー プレイヤーズ アンダースタンド ザ ルールズ"
+        }
+      ]
+    }
+  ]
+}
