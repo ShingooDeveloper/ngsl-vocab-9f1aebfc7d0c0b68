@@ -1,0 +1,190 @@
+{
+  "word": "operate",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˈɑpəreɪt/",
+  "rank": 1832,
+  "level": "B1",
+  "hi": "operate(?:s|d|ing)?",
+  "meanings": [
+    "【動詞】（機械・装置などを）操作する、動かす（run or control a machine or system）",
+    "【動詞】（医学）手術をする、外科的に治療する（perform a medical operation）",
+    "【動詞】（事業・組織などを）経営する、運営する（manage or run a business）",
+    "【動詞】（システム・機器が）機能する、動く（function or work）"
+  ],
+  "examples": [
+    {
+      "en": "You need to operate the lever carefully to open the hidden door.",
+      "ja": "隠されたドアを開くために、レバーを慎重に操作する必要がある。",
+      "ipa": "/ju niːd tə ˈɑpəreɪt ðə ˈlɛvər ˈkɛrfəli tə ˈoʊpən ðə ˈhɪdən ˈdɔːr/",
+      "linking": [
+        "need to → to は機能語で弱形 /tə/ に弱化",
+        "the lever → the は弱形 /ðə/、lever の /r/ が carefully に連結 [ˈlɛvər ˈkɛrfəli] レヴァー ケアフリー",
+        "hidden door → /n/ + /d/ が子音+子音で連結なし"
+      ],
+      "kana": "ユー ニード タ アペレイト ザ レヴァー ケアフリー タ オウペン ザ ヒデン ドア"
+    },
+    {
+      "en": "The redstone circuit operates automatically when powered by an adjacent lever.",
+      "ja": "レッドストーン回路は、隣接するレバーで電源が入ると自動的に動作する。",
+      "ipa": "/ðə ˈrɛdstoʊn ˈsɜːrkɪt ˈɑpəreɪts ˌɔːtəˈmætɪkli wɛn ˈpaʊərd baɪ ən əˈdʒeɪsənt ˈlɛvər/",
+      "linking": [
+        "circuit operates → 語末 /t/ と operates の初頭 /ɑ/ が未開放で続く [ˈsɜːrkɪt̚ ˈɑpəreɪts] サーキット オペレイツ",
+        "by an → 前語末 /d/ が an の初頭 /ə/ に連結。an も弱形 [baɪ ən] バイ アン"
+      ],
+      "kana": "ザ レッドストーン サーキット オペレイツ オートマティクリー ウェン パウアード バイ アン ア ジェイセント レヴァー"
+    },
+    {
+      "en": "This mining drill operates most efficiently when fueled with diamonds.",
+      "ja": "このマイニングドリルはダイヤモンドで燃料を供給すると最も効率的に動作する。",
+      "ipa": "/ðɪs ˈmaɪnɪŋ ˈdrɪl ˈɑpəreɪts moʊst ɪˈfɪʃəntli wɛn ˈfjuːəld wɪð ˈdaɪəmændz/",
+      "linking": [
+        "mining drill → 語末 /ŋ/ と drill の初頭 /d/ が子音+子音で連結なし",
+        "fueled with → 語末 /d/ が with の初頭 /w/ に続く（子音+子音、連結なし）"
+      ],
+      "kana": "ザ マイニング ドリル オペレイツ モースト イフィシェントリー ウェン フューアルド ウィズ ダイアモンズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "operate on",
+      "ja": "（...に対して）手術する、外科手術を行う",
+      "example": "The admin will operate on the server to fix the critical bug.",
+      "example_ja": "管理者は重大なバグを修正するためにサーバーを修正する。",
+      "ipa": "/ðə ˈædmɪn wɪl ˈɑpəreɪt ɑn ðə ˈsɜːrvər tə ˈfɪks ðə ˈkrɪtɪkəl ˈbʌɡ/",
+      "linking": [
+        "will operate → will は弱形 /wɪl/",
+        "operate on → 語末 /t/ と on の初頭 /ɑ/ が未開放で続く [ˈɑpəreɪt̚ ɑn] オペレイト オン",
+        "critical bug → 語末 /l/ と bug の初頭 /b/ が子音+子音で連結なし"
+      ],
+      "kana": "ザ アドミン ウィル オペレイト オン ザ サーバー タ フィックス ザ クリティカル バグ"
+    },
+    {
+      "idiom": "operate within limits",
+      "ja": "制限内で動作する、範囲内で活動する",
+      "example": "The enchanting system must operate within the defined damage limits.",
+      "example_ja": "エンチャント システムは定義されたダメージ制限内で動作する必要がある。",
+      "ipa": "/ðə ɛnˈtʃæntɪŋ ˈsɪstəm məst ˈɑpəreɪt wɪðˈɪn ðə dɪˈfaɪnd ˈdæmɪdʒ ˈlɪmɪts/",
+      "linking": [
+        "must operate → must の /t/ が operate の /ɑ/ に未開放で続く。operate は /ˈɑpəreɪt/",
+        "within the → within の末音が the に連結。the は弱形 /ðə/ [wɪðˈɪn ðə] ウィジン ザ"
+      ],
+      "kana": "ザ エンチャンティング システム マスト オペレイト ウィジン ザ ディファインド ダメッジ リミッツ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "operates",
+      "ipa": "/ˈɑpəreɪts/",
+      "examples": [
+        {
+          "en": "The farm operates at full capacity during harvest season.",
+          "ja": "農場は収穫期に満杯の容量で動作する。",
+          "ipa": "/ðə ˈfɑːrm ˈɑpəreɪts ət ˈfʊl kəˈpæsɪti ˈdʊrɪŋ ˈhɑːrvɪst ˈsiːzən/",
+          "linking": [
+            "operates at → 語末 /ts/ と at の初頭 /æ/ が連結 [ˈɑpəreɪts ət] オペレイツ アット",
+            "during harvest → /ŋ/ + /h/ が子音+子音で連結なし"
+          ],
+          "kana": "ザ ファーム オペレイツ アット フル キャパシティ ジューリング ハーヴィスト シーズン"
+        },
+        {
+          "en": "She operates several Minecraft servers from her home base.",
+          "ja": "彼女はホームベースから複数のマインクラフト サーバーを運営している。",
+          "ipa": "/ʃi ˈɑpəreɪts ˈsɛvərəl ˈmaɪnˌkræft ˈsɜːrvərz frəm hɚ ˈhoʊm ˈbeɪs/",
+          "linking": [
+            "operates several → 語末 /ts/ と several の初頭 /s/ が子音+子音で連結なし",
+            "several の /l/ が Minecraft に連結 [ˈsɛvərəl ˈmaɪnˌkræft] セヴァラル マインクラフト"
+          ],
+          "kana": "シー オペレイツ セヴァラル マインクラフト サーバーズ フラム ハー ホーム ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "operated",
+      "ipa": "/ˈɑpəreɪtɪd/",
+      "examples": [
+        {
+          "en": "I operated the blast furnace for hours to smelt all the ores.",
+          "ja": "すべてのオーを溶かすために、たくさん(の時間)爆風炉を操作した。",
+          "ipa": "/aɪ ˈɑpəreɪtɪd ðə ˈblæst ˈfɜːrnɪs fɔːr ˈaʊərz tə ˈsmɛlt ɔːl ðə ˈɔːrz/",
+          "linking": [
+            "operated the → 語末 /d/ と the の初頭 /ð/ が子音+子音で連結なし。the は弱形 /ðə/",
+            "for hours → for は弱形 /fɔr/、hours の /ə/ に連結 [fɔr ˈaʊərz] フォー アワーズ"
+          ],
+          "kana": "アイ オペレイティド ザ ブラスト ファーニス フォー アワーズ タ スメルト オール ザ オアーズ"
+        },
+        {
+          "en": "We operated the mining elevator successfully and discovered diamonds.",
+          "ja": "私たちはマイニング エレベーターを成功裏に操作してダイヤモンドを発見した。",
+          "ipa": "/wi ˈɑpəreɪtɪd ðə ˈmaɪnɪŋ ˈɛləˌveɪtər ˌsʌkˈsɛsfəli ənd dɪˈskʌvərd ˈdaɪəmændz/",
+          "linking": [
+            "operated the → 語末 /d/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "discovered diamonds → 語末 /d/ と diamonds の初頭 /d/ が子音+子音で連結なし"
+          ],
+          "kana": "ウィ オペレイティド ザ マイニング エレヴェイター サクセスフリー アン ディスカバード ダイアモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "operated",
+      "ipa": "/ˈɑpəreɪtɪd/",
+      "examples": [
+        {
+          "en": "The system has been operated efficiently for many weeks.",
+          "ja": "そのシステムは何週間も効率的に操作されてきた。",
+          "ipa": "/ðə ˈsɪstəm həz bɪn ˈɑpəreɪtɪd ɪˈfɪʃəntli fɔːr ˈmɛni ˈwiːks/",
+          "linking": [
+            "has been → has は弱形 /həz/、been と連結 [həz bɪn] ハズ ビン",
+            "operated efficiently → 語末 /d/ と efficiently の初頭 /ɪ/ が連結 [ˈɑpəreɪtɪd ɪˈfɪʃəntli] オペレイティド イフィシェントリー"
+          ],
+          "kana": "ザ システム ハズ ビン オペレイティド イフィシェントリー フォー メニー ウィークス"
+        },
+        {
+          "en": "Once the machine had been operated by the engineer, it worked perfectly.",
+          "ja": "エンジニアがマシンを操作すると、完璧に機能した。",
+          "ipa": "/wʌns ðə məˈʃiːn hæd bɪn ˈɑpəreɪtɪd baɪ ðə ˌɛndʒɪˈnɪr | ɪt ˈwɜːrkt ˈpɜːrfɪktli/",
+          "linking": [
+            "operated by → 語末 /d/ と by の初頭 /b/ が子音+子音で連結なし",
+            "engineer it → 末音 /r/ と it の初頭 /ɪ/ が連結 [ɛndʒɪˈnɪr ɪt] エンジニア イット"
+          ],
+          "kana": "ワンス ザ マシーン ハド ビン オペレイティド バイ ザ エンジニアー、イット ワーク パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "operating",
+      "ipa": "/ˈɑpəreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Operating the complex redstone mechanism requires advanced knowledge.",
+          "ja": "複雑なレッドストーン機構を操作するには、高度な知識が必要です。",
+          "ipa": "/ˈɑpəreɪtɪŋ ðə ˈkɑːmplɛks ˈrɛdstoʊn ˈmɛkənɪzəm rɪˈkwaɪərz ədˈvænst ˈnɑːlɪdʒ/",
+          "linking": [
+            "operating the → 語末 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "complex redstone → 語末 /ks/ と redstone の初頭 /r/ が子音+子音で連結なし"
+          ],
+          "kana": "オペレイティング ザ コンプレックス レッドストーン メカニズム リクワイアーズ アドヴァンスド ナレッジ"
+        },
+        {
+          "en": "While operating the enchantment table, you might discover rare enchantments.",
+          "ja": "エンチャント テーブルを操作している間に、稀なエンチャントを発見するかもしれません。",
+          "ipa": "/waɪl ˈɑpəreɪtɪŋ ðə ɛnˈtʃæntmənt ˈteɪbəl | ju ˈmaɪt dɪˈskʌvər ˈrɛr ɛnˈtʃæntmənts/",
+          "linking": [
+            "operating the → 語末 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "table you → 語末 /l/ と you の初頭 /j/ が連結 [ˈteɪbəl ju] テイバル ユー",
+            "discover rare → 語末 /r/ と rare の初頭 /r/ が子音+子音で連結なし"
+          ],
+          "kana": "ワイル オペレイティング ザ エンチャントメント テイバル、ユー マイト ディスカバー レア エンチャントメンツ"
+        }
+      ]
+    }
+  ]
+}
