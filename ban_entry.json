@@ -1,0 +1,217 @@
+{
+  "word": "ban",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/bæn/",
+  "rank": 1234,
+  "level": "B1",
+  "hi": "ban(?:s|ned|ning)?",
+  "meanings": [
+    "【動詞】禁止する、〜することを禁ずる（to officially prevent someone from doing something）",
+    "【動詞】（ゲームサーバーやプラットフォームから）ユーザーを追放する、ブロックする（to exclude someone from a game or server）",
+    "【名詞】禁止、禁令（an official prohibition）",
+    "【名詞】（オンラインゲームでの）ブロック、アカウント削除（removal from a game or server）"
+  ],
+  "examples": [
+    {
+      "en": "The server bans players who use hacks to cheat.",
+      "ja": "サーバーはチートハックを使用するプレイヤーをバンする。",
+      "ipa": "[ðə ˈsɜːrvər ˈbænz ˈpleɪərz huː ˈjuːz ˈhæks tə ˈtʃit]",
+      "linking": [
+        "server の /ər/ が弱化。bans に連なり [ˈsɜːrvər ˈbænz] サーバー ベンズ",
+        "who の /uː/ が use の /j/ に glide で連なり [huː ˈjuːz] フー ユーズ",
+        "to は機能語で弱形 /tə/"
+      ],
+      "kana": "ザ サーバー ベンズ プレイアーズ フー ユーズ ハックス タ チート"
+    },
+    {
+      "en": "Getting banned from the server means you can't play anymore.",
+      "ja": "サーバーからバンされるとゲームができなくなる。",
+      "ipa": "[ˈɡɛtɪŋ ˈbænd frəm ðə ˈsɜːrvər ˈminz juː ˈkænt ˈpleɪ ənˈmɔr]",
+      "linking": [
+        "from の末 /m/ が the の初 /ðə/ に未開放で連なり [ˈfrəm̚ ðə] フラム ザ",
+        "you は弱形 /juː/。can't の /kæ/ に連なり [juː ˈkænt] ユー キャント",
+        "anymore は /ənˈmɔr/"
+      ],
+      "kana": "ゲッティング バンド フラム ザ サーバー ミーンズ ユー キャント プレイ エニモア"
+    },
+    {
+      "en": "Admins will put a ban on any form of griefing.",
+      "ja": "管理者はいかなる形の破壊行為にも禁止令を出す。",
+      "ipa": "[ˈædmɪnz wɪl ˈpʊt ə ˈbæn ɑn ˈɛni ˈfɔrm əv ˈɡriːfɪŋ]",
+      "linking": [
+        "put の /t/ が a の初 /ə/ に未開放で連結 [ˈpʊt̚ ə] プット ア",
+        "a の末 /ə/ が ban の初 /b/ に連結 [ə ˈbæn] ア バン",
+        "of は弱形 /əv/"
+      ],
+      "kana": "アドミンズ ウィル プット ア バン オン エニ フォーム アヴ グリーフィング"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "put a ban on",
+      "ja": "〜を禁止する、禁止令を出す",
+      "example": "The server put a ban on using X-ray texture packs.",
+      "example_ja": "サーバーはX線テクスチャパックの使用を禁止した。",
+      "ipa": "[ðə ˈsɜːrvər ˈpʊt ə ˈbæn ɑn ˈjuːzɪŋ ˈɛks reɪ ˈtɛkstʃər ˈpæks]",
+      "linking": [
+        "put の /t/ が a に連結 [ˈpʊt̚ ə] プット ア",
+        "a の末 /ə/ が ban に連結 [ə ˈbæn] ア バン",
+        "using の末 /ŋ/ が X-ray に続く"
+      ],
+      "kana": "ザ サーバー プット ア バン オン ユーズィング エックス レイ テクスチャー パックス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "bans",
+      "ipa": "/bænz/",
+      "examples": [
+        {
+          "en": "The admin bans hackers on sight.",
+          "ja": "管理者は目撃次第ハッカーをバンする。",
+          "ipa": "[ðə ˈædmɪn ˈbænz ˈhækərz ɑn ˈsaɪt]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/→「ザ」",
+            "admin の末 /n/ が bans の初 /b/ 直前で未開放 [ˈædmɪn̚ ˈbænz]→「アドミン ベンズ」",
+            "on の末 /n/ が sight の初 /s/ に未開放 [ɑn̚ ˈsaɪt]→「オン サイト」"
+          ],
+          "kana": "ザ アドミン ベンズ ハッカーズ オン サイト"
+        },
+        {
+          "en": "You'll get bans if you grief.",
+          "ja": "破壊すればバンを受ける。",
+          "ipa": "[juːl ɡɛt ˈbænz ɪf juː ɡrif]",
+          "linking": [
+            "get の末 /t/ が bans の初 /b/ 直前で未開放 [ɡɛt̚ ˈbænz]→「ゲット ベンズ」",
+            "if は /ɪf/。you の初 /j/ に word boundary",
+            "grief の末 /f/ が子音なので word boundary"
+          ],
+          "kana": "ユール ゲット ベンズ イフ ユー グリーフ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "banned",
+      "ipa": "/bænd/",
+      "examples": [
+        {
+          "en": "I got banned from the server yesterday.",
+          "ja": "私は昨日サーバーからバンされた。",
+          "ipa": "[aɪ ɡɑt ˈbænd frəm ðə ˈsɜːrvər ˈjɛstərdeɪ]",
+          "linking": [
+            "got の末 /t/ が banned の初 /b/ 直前で未開放 [ɡɑt̚ ˈbænd]→「ゴット バンド」",
+            "from の末 /m/ が the の初 /ð/ に連結 [ˈfrəm̚ðə]→「フラム ザ」",
+            "the は弱形 /ðə/→「ザ」"
+          ],
+          "kana": "アイ ゴット バンド フラム ザ サーヴァー イェスタデイ"
+        },
+        {
+          "en": "The moderator banned me for griefing.",
+          "ja": "モデレーターは破壊行為でミーをバンした。",
+          "ipa": "[ðə ˈmɑdəreɪtər ˈbænd mi fər ˈɡriːfɪŋ]",
+          "linking": [
+            "The は弱形 /ðə/→「ザ」",
+            "banned の末 /d/ が me の初 /m/ に未開放 [ˈbænd̚ ˈmi]→「バンド ミー」",
+            "for は機能語で弱形 /fər/→「ファー」"
+          ],
+          "kana": "ザ マダレイター バンド ミー ファー グリーフィング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "banned",
+      "ipa": "/bænd/",
+      "examples": [
+        {
+          "en": "Players who got banned can appeal to the admins.",
+          "ja": "バンされたプレイヤーは管理者に異議申し立てができる。",
+          "ipa": "[ˈpleɪərz huː ɡɑt ˈbænd kən əˈpil tə ðə ˈædmɪnz]",
+          "linking": [
+            "got の末 /t/ が banned の初 /b/ 直前で未開放 [ɡɑt̚ ˈbænd]→「ゴット バンド」",
+            "can は弱形 /kən/→「カン」",
+            "to は弱形 /tə/ で the に連なり [tə ðə]→「タ ザ」"
+          ],
+          "kana": "プレイアーズ フー ゴット バンド キャン アピール タ ザ アドミンズ"
+        },
+        {
+          "en": "The banned account is permanently disabled.",
+          "ja": "バンされたアカウントは永久に無効化される。",
+          "ipa": "[ðə ˈbænd əˈkaʊnt ɪz ˈpɜrmənəntli dɪsˈeɪbəld]",
+          "linking": [
+            "The は弱形 /ðə/→「ザ」",
+            "is の末 /z/ が permanently の初 /p/ に word boundary",
+            "permanently の末 /i/ が disabled の初 /d/ に連なり→「パーマネントリー ディセイブルド」"
+          ],
+          "kana": "ザ バンド アカウント イズ パーマネントリー ディセイブルド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "banning",
+      "ipa": "/ˈbænɪŋ/",
+      "examples": [
+        {
+          "en": "Banning X-ray mods keeps the game fair.",
+          "ja": "X線モッドをバンすればゲームが公平に保たれる。",
+          "ipa": "[ˈbænɪŋ ˈɛks reɪ ˈmɑdz ˈkips ðə ˈɡeɪm ˈfɛr]",
+          "linking": [
+            "banning の末 /ŋ/ が X-ray の初 /ɛ/ に word boundary",
+            "keeps の末 /z/ が the の初 /ðə/ に word boundary",
+            "the は弱形 /ðə/ で game に連なり [ðə ˈɡeɪm]→「ザ ゲイム」"
+          ],
+          "kana": "バニング エックス レイ モズ キープス ザ ゲイム フェア"
+        },
+        {
+          "en": "Stop banning unfair players from our server.",
+          "ja": "不公正なプレイヤーを不当にバンするのをやめろ。",
+          "ipa": "[ˈstɑp ˈbænɪŋ ʌnˈfɛr ˈpleɪərz frəm ˈaʊər ˈsɜːrvər]",
+          "linking": [
+            "stop の末 /p/ が banning の初 /b/ 直前で未開放 [ˈstɑp̚ ˈbænɪŋ]→「ストップ バニング」",
+            "from の末 /m/ が our の初 /aʊ/ に連結 [ˈfrəm ˈaʊər]→「フラム アワー」",
+            "our の末 /ər/ が server の初 /s/ に word boundary"
+          ],
+          "kana": "ストップ バニング アンフェア プレイアーズ フラム アワー サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bans",
+      "ipa": "/bænz/",
+      "examples": [
+        {
+          "en": "The server has strict bans on griefing.",
+          "ja": "サーバーは破壊行為に厳しいバン規則を持つ。",
+          "ipa": "[ðə ˈsɜːrvər həz ˈstrɪkt ˈbænz ɑn ˈɡriːfɪŋ]",
+          "linking": [
+            "The は弱形 /ðə/→「ザ」",
+            "strict の末 /t/ が bans の初 /b/ 直前で未開放 [ˈstrɪkt̚ ˈbænz]→「ストリクト ベンズ」",
+            "bans の末 /z/ が on の初 /ɑ/ に連結 [ˈbænz ɑn]→「ベンズ オン」"
+          ],
+          "kana": "ザ サーヴァー ハズ ストリクト ベンズ オン グリーフィング"
+        },
+        {
+          "en": "Multiple bans lead to permanent removal from the game.",
+          "ja": "複数のバンはゲームからの永久削除につながる。",
+          "ipa": "[ˈmʌltɪpəl ˈbænz ˈlɛd tu pərˈmænənt rɪˈmuːvəl frəm ðə ˈɡeɪm]",
+          "linking": [
+            "bans の末 /z/ が lead の初 /l/ に連結 [ˈbænz ˈlɛd]→「ベンズ レッド」",
+            "lead の末 /d/ が to の初 /t/ 直前で未開放、to は弱形 /tə/ [ˈlɛd̚ tə]→「レッド タ」",
+            "from の末 /m/ が the の初 /ðə/ に連結 [ˈfrəm̚ðə]→「フラム ザ」"
+          ],
+          "kana": "マルティプル ベンズ レッド タ パーマナント リムーヴァル フラム ザ ゲイム"
+        }
+      ]
+    }
+  ]
+}
