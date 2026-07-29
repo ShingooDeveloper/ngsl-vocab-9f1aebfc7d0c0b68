@@ -81,5 +81,141 @@
       ],
       "kana": "レッツ スウィープ アウト ザ コウベブズ ビフォー ウィ ムーヴ イントゥ ザ ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "sweeps",
+      "ipa": "/swiːps/",
+      "examples": [
+        {
+          "en": "She sweeps the floor of her house every morning.",
+          "ja": "彼女は毎朝、自分の家の床を掃く。",
+          "ipa": "[ʃi ˈswiːps ðə ˈflɔr əv hər ˈhaʊs ˈɛvri ˈmɔrnɪŋ]",
+          "linking": [
+            "the → 冠詞は弱形 /ðə/ に弱化",
+            "floor of her → floor の末尾 /r/ が of の初頭 /ə/ に連結。of は弱形 /əv/。her も /ɚ/ に弱化 [ˈflɔr əv ɚ]"
+          ],
+          "kana": "シ スウィープス ザ フロー ラヴ ハー ハウス エヴリー モーニング"
+        },
+        {
+          "en": "He sweeps up all the drops after defeating a creeper.",
+          "ja": "クリーパーを倒した後、彼はドロップを全部掃き集める。",
+          "ipa": "[hi ˈswiːps ʌp ɔl ðə drɑps ˈæftər dɪˈfitɪŋ ə ˈkriːpər]",
+          "linking": [
+            "the → 弱形 /ðə/。drops の初頭に連結 [ðə drɑps] ザ ドラップス",
+            "defeating a → defeating の末尾 /ŋ/ が a の初頭 /ə/ に連結。a は弱形 [dɪˈfitɪŋ ə] ディーティング ア"
+          ],
+          "kana": "ヒ スウィープス アップ オール ザ ドラップス アフター ディーティング ア クリーパー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "swept",
+      "ipa": "/swept/",
+      "examples": [
+        {
+          "en": "I swept the cave floor before mining deeper.",
+          "ja": "さらに深く採掘する前に、洞窟の床を掃いた。",
+          "ipa": "[aɪ swept ðə ˈkeɪv ˈflɔr bɪˈfɔr ˈmaɪnɪŋ ˈdipər]",
+          "linking": [
+            "the → 弱形 /ðə/。cave の初頭に連結"
+          ],
+          "kana": "アイ スウェプト ザ ケイヴ フロー ビフォー マイニング ディーパー"
+        },
+        {
+          "en": "We swept all the sand out of the storage area.",
+          "ja": "保管エリアからすべての砂を掃き出した。",
+          "ipa": "[wi swept ɔl ðə sænd aʊt əv ðə ˈstɔrɪdʒ ˈɛriə]",
+          "linking": [
+            "the (first) → 弱形 /ðə/。sand の初頭に連結",
+            "of the (second) → of の末尾 /v/ と the の初頭 /ð/ が子音同士で連続。both are weak forms [əv ðə]"
+          ],
+          "kana": "ウィ スウェプト オール ザ サンド アウト アヴ ザ ストレッジ エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "swept",
+      "ipa": "/swept/",
+      "examples": [
+        {
+          "en": "The area has been swept clean and is ready for building.",
+          "ja": "その地域はきれいに掃かれ、建築の準備ができている。",
+          "ipa": "[ðə ˈɛriə həz bɪn swept klin ənd ɪz ˈrɛdi fər ˈbɪldɪŋ]",
+          "linking": [
+            "has been → has の弱形 /həz/、been の弱形 /bɪn/。連続した弱形の流れ [həz bɪn]"
+          ],
+          "kana": "ザ エリア ハズ ビン スウェプト クリーン アンド イズ レディ ファー ビルディング"
+        },
+        {
+          "en": "They have swept through the nether fortress completely.",
+          "ja": "彼らはネザー要塞を完全に掃引した。",
+          "ipa": "[ðeɪ həv swept ˈθru ðə ˈnɛðər ˈfɔrtrəs kəmˈpliːtli]",
+          "linking": [
+            "the nether → the の弱形 /ðə/。nether の初頭に連結 [ðə ˈnɛðər] ザ ネザー"
+          ],
+          "kana": "ゼイ ハヴ スウェプト スルー ザ ネザー フォートレス コンプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "sweeping",
+      "ipa": "/ˈswiːpɪŋ/",
+      "examples": [
+        {
+          "en": "I'm sweeping the path while building my house.",
+          "ja": "家を建築している間、パスを掃いている。",
+          "ipa": "[aɪm ˈswiːpɪŋ ðə pæθ ˈwaɪl ˈbɪldɪŋ maɪ ˈhaʊs]",
+          "linking": [
+            "I'm → 縮約形 /aɪm/。m が sweeping の /s/ に先行。未開放気味 [aɪm̚ ˈswiːpɪŋ]",
+            "the path → the の弱形 /ðə/。path の初頭 /p/ に先行 [ðə pæθ] ザ パス"
+          ],
+          "kana": "アイム スウィーピング ザ パス ホワイル ビルディング マイ ハウス"
+        },
+        {
+          "en": "They are sweeping up all the drops right now.",
+          "ja": "彼らは今、すべてのドロップを掃き集めている。",
+          "ipa": "[ðeɪ ɑr ˈswiːpɪŋ ʌp ɔl ðə drɑps ˈraɪt ˈnaʊ]",
+          "linking": [
+            "the drops → the の弱形 /ðə/。drops の初頭に連結 [ðə drɑps] ザ ドラップス"
+          ],
+          "kana": "ゼイ アー スウィーピング アップ オール ザ ドラップス ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sweeps",
+      "ipa": "/swiːps/",
+      "examples": [
+        {
+          "en": "Multiple sweeps of the area will clear all the hostile mobs.",
+          "ja": "その地域の複数回の掃引がすべての敵対的なモブをクリアする。",
+          "ipa": "[ˈmʌltɪpəl swiːps əv ðə ˈɛriə wɪl klɪr ɔl ðə ˈhɑstəl ˈmɑbz]",
+          "linking": [
+            "of the → of は弱形 /əv/。the も弱形 /ðə/"
+          ],
+          "kana": "マルティプル スウィープス アヴ ザ エリア ウィル クリア オール ザ ハースタル モブズ"
+        },
+        {
+          "en": "We made several sweeps to find all the diamonds quickly.",
+          "ja": "ダイヤモンドをすべて素早く見つけるために、何度か掃引した。",
+          "ipa": "[wi meɪd ˈsɛvərəl swiːps tə faɪnd ɔl ðə ˈdaɪməndz ˈkwɪkli]",
+          "linking": [
+            "to → 機能語として弱形 /tə/"
+          ],
+          "kana": "ウィ メイド セヴラル スウィープス タ ファインド オール ザ ダイモンズ クイックリー"
+        }
+      ]
+    }
   ]
 }
