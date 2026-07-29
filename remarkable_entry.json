@@ -87,5 +87,63 @@
       ],
       "kana": "ザッ ストラクチャー イズ リマーカブル フォー イッツ インリケット レッストーン メカニックス"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more remarkable",
+      "ipa": "/ˈmoʊr rɪˈmɑrkəbəl/",
+      "examples": [
+        {
+          "en": "This cave system is more remarkable than the forest biome.",
+          "ja": "この洞窟システムは森バイオームより注目すべきだ。",
+          "ipa": "/ðɪs ˈkeɪv ˈsɪstəm ɪz ˈmoʊr rɪˈmɑrkəbəl ðæn ðə ˈfɔrəst baɪˈoʊm/",
+          "linking": [
+            "system is → system の末尾子音 /m/ が is の初頭母音 /ɪ/ に連結 [sɪstəmɪz]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディス ケイヴ システミズ モア リマーカブル ザン ザ フォリスト バイオウム"
+        },
+        {
+          "en": "Building this machine is more remarkable than digging a simple hole.",
+          "ja": "このマシンを建設することは、単純な穴を掘るより注目すべきだ。",
+          "ipa": "/ˈbɪldɪŋ ðɪs məˈʃin ɪz ˈmoʊr rɪˈmɑrkəbəl ðæn ˈdɪɡɪŋ ə ˈsɪmpəl hoʊl/",
+          "linking": [
+            "machine is → machine の末尾子音 /n/ が is の初頭母音 /ɪ/ に連結 [nɪz]",
+            "a は弱形 /ə/"
+          ],
+          "kana": "ビルディング ディス マシーン イズ モア リマーカブル ザン ディギング ア スィンプル ホール"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most remarkable",
+      "ipa": "/ˈmoʊst rɪˈmɑrkəbəl/",
+      "examples": [
+        {
+          "en": "The End is the most remarkable place in this world.",
+          "ja": "エンドはこのワールドで最も注目すべき場所だ。",
+          "ipa": "/ðə ˈɛnd ɪz ðə ˈmoʊst rɪˈmɑrkəbəl pleɪs ɪn ðɪs ˈwɝld/",
+          "linking": [
+            "place in → place の末尾子音 /s/ が in の初頭母音 /ɪ/ に連結 [pleɪsɪn]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ エンド イズ ザ モースト リマーカブル プレイシン ディス ワールド"
+        },
+        {
+          "en": "Their achievement was the most remarkable thing we could have imagined.",
+          "ja": "彼らの成果は、私たちが想像できた最も注目すべきことだった。",
+          "ipa": "/ðɛr əˈtʃivmənt wɑz ðə ˈmoʊst rɪˈmɑrkəbəl θɪŋ wi kʊd əv ɪˈmæʤɪnd/",
+          "linking": [
+            "have imagined → have は弱形 /əv/（末尾子音 /v/ が imagined の初頭母音 /ɪ/ に連結 [vɪ]）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼア アチーヴメント ワズ ザ モースト リマーカブル シング ウィ クッド ハヴ イマジンド"
+        }
+      ]
+    }
   ]
 }
