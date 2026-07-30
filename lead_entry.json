@@ -226,6 +226,95 @@
           "kana": "ザ リーディング ストラテジー イン サーバイバル モード イズ タ ギャザー レソースィズ ビフォア ナイト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is leading",
+      "ipa": "/ɪz ˈliːdɪŋ/",
+      "examples": [
+        {
+          "en": "She is leading the raid team through the nether right now.",
+          "ja": "彼女は今、レイドチームをネザーを通して導いています。",
+          "ipa": "/ʃi ɪz ˈliːdɪŋ ðə ˈreɪd tim θruː ðə ˈnɛðɚ ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is → 助動詞で弱形 /ɪz/",
+            "the raid → 冠詞 /ðə/ が raid /r/ に連結 [ðə ˈreɪd]"
+          ],
+          "kana": "シー イズ リーディング ザ レイド ティーム スルー ザ ネッザー ライト ナウ"
+        },
+        {
+          "en": "We are leading several expeditions to find rare ore deposits.",
+          "ja": "私たちは珍しい鉱石鉱床を見つけるためにいくつかの遠征を率いています。",
+          "ipa": "/wi ɑɹ ˈliːdɪŋ ˈsɛvɚəl ˌɛksəˈdɪʃənz tə ˈfaɪnd ˈrɛɚ ˈɔɹ dɪˈpɑzɪts/",
+          "linking": [
+            "are → 助動詞で標準形 /ɑɹ/",
+            "to → 機能語で弱形 /tə/"
+          ],
+          "kana": "ウィー アー リーディング セヴァラル エクスペディションズ タ ファインド レア オア ディポジッツ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was leading",
+      "ipa": "/wəz ˈliːdɪŋ/",
+      "examples": [
+        {
+          "en": "I was leading the team when we encountered the dragon.",
+          "ja": "私たちがドラゴンに出会った時、私はチームを導いていました。",
+          "ipa": "/aɪ wəz ˈliːdɪŋ ðə ˈtim wɛn wi ɛnˈkaʊntɚd ðə ˈdɹæɡən/",
+          "linking": [
+            "was → 助動詞で弱形 /wəz/",
+            "the team → 冠詞 /ðə/ が team /t/ に連結 [ðə ˈtim]"
+          ],
+          "kana": "アイ ワズ リーディング ザ ティーム ウェン ウィー エンカウンタード ザ ドラゴン"
+        },
+        {
+          "en": "They were leading the construction project when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼らは建設プロジェクトを率いていました。",
+          "ipa": "/ðeɪ wɚ ˈliːdɪŋ ðə kənˈstrʌkʃən ˈprɑdʒɛkt wɛn ðə ˈsɝvɚ ˈkɹæʃt/",
+          "linking": [
+            "were → 助動詞で弱形 /wɚ/",
+            "the construction → 冠詞 /ðə/ が construction に連結",
+            "the server → 冠詞 /ðə/ が server に連結"
+          ],
+          "kana": "ゼイ ワー リーディング ザ コンストラクション プロジェクト ウェン ザ サーバー クラッシュド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been leading",
+      "ipa": "/həd bɪn ˈliːdɪŋ/",
+      "examples": [
+        {
+          "en": "He had been leading the base expansion for hours before the creeper explosion.",
+          "ja": "クリーパーの爆発の前に、彼は何時間もベースの拡張を率いていました。",
+          "ipa": "/hi həd bɪn ˈliːdɪŋ ðə ˈbeɪs ɪkˈspænʃən fɚ ˈaʊɚz bɪˈfoːɹ ðə ˈkripɚ ɪkˈsploʊʒən/",
+          "linking": [
+            "had → 助動詞で弱形 /həd/",
+            "been → 助動詞で弱形 /bɪn/",
+            "the base → 冠詞 /ðə/ が base に連結",
+            "for → 機能語で弱形 /fɚ/"
+          ],
+          "kana": "ヒー ハド ビン リーディング ザ ベース エクスパンション ファー アワーズ ビフォア ザ クリーパー エクスプロージョン"
+        },
+        {
+          "en": "We had been leading the exploration team for weeks when we finally found the stronghold.",
+          "ja": "ついに砦を見つけた時、私たちは何週間も探検チームを率いていました。",
+          "ipa": "/wi həd bɪn ˈliːdɪŋ ðə ˌɛkspləˈreɪʃən ˈtim fɚ ˈwiks wɛn wi ˈfaɪnəli ˈfaʊnd ðə ˈstrɑŋˌhoʊld/",
+          "linking": [
+            "had → 助動詞で弱形 /həd/",
+            "been → 助動詞で弱形 /bɪn/",
+            "the exploration → 冠詞 /ðə/ が exploration に連結",
+            "for → 機能語で弱形 /fɚ/"
+          ],
+          "kana": "ウィー ハド ビン リーディング ザ エクスプロレーション ティーム ファー ウィークス ウェン ウィー ファイナリー ファウンド ザ ストロングホールド"
+        }
+      ]
     }
   ]
 }
