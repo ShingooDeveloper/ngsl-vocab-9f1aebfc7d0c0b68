@@ -291,6 +291,122 @@
           "kana": "ザ エンチャントメント キープス スロウイング ザ フォーリング サンド ウィザウト スタッピング イット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is slowing",
+      "ipa": "/ɪz ˈsloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The minecart is slowing down as it climbs the hill.",
+          "ja": "ミニカートが丘を登りながら遅くなっています。",
+          "ipa": "/ðə ˈmɪnɪˌkɑrt ɪz ˈsloʊɪŋ ˈdaʊn əz ɪt ˈklaɪmz ðə ˈhɪl/",
+          "linking": [
+            "the minecart → the は弱形 /ðə/",
+            "is slowing → /z/ + /s/（子音+子音、連結なし）",
+            "slowing down → /ŋ/ + /d/（子音+子音、連結なし）",
+            "as it → as は弱形 /əz/、/z/ + /ɪ/（子音+母音）が連結 [əz ɪt] アズ イット",
+            "climbs the → /z/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ミニカート イズ スロウイング ダウン アズ イット クライムズ ザ ヒル"
+        },
+        {
+          "en": "I am slowing my horse because there's a creeper ahead.",
+          "ja": "クリーパーが前にいるから、私は馬を遅くしています。",
+          "ipa": "/aɪ ˈæm ˈsloʊɪŋ maɪ ˈhɔrs bɪˈkɔz ðɛrz ə ˈkriːpər əˈhɛd/",
+          "linking": [
+            "am slowing → /m/ + /s/（子音+子音、連結なし）",
+            "slowing my → /ŋ/ + /m/（子音+子音、連結なし）",
+            "my horse → /i/ + /h/（子音+子音、連結なし）",
+            "because there's → because は弱形 /bɪˈkɔz/、/z/ + /ð/（子音+子音、連結なし）",
+            "there's a → /z/ + /ə/（子音+母音）が連結 [ðɛrz ə] ゼアーズ ア",
+            "creeper ahead → /r/ + /ə/（子音+母音）が連結 [ˈkriːpər əˈhɛd] クリーパー アヘッド"
+          ],
+          "kana": "アイ アム スロウイング マイ ホース ビコーズ ゼアーズ ア クリーパー アヘッド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was slowing",
+      "ipa": "/wəz ˈsloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The water flow was slowing down because of the sand blocks.",
+          "ja": "砂ブロックがあるから、水の流れが遅くなっていました。",
+          "ipa": "/ðə ˈwɔtɚ ˈfloʊ wəz ˈsloʊɪŋ ˈdaʊn bɪˈkɔz əv ðə ˈsænd ˈblɑks/",
+          "linking": [
+            "the water → the は弱形 /ðə/、/ə/ + /w/（子音+子音、連結なし）",
+            "water flow → /r/ + /f/（子音+子音、連結なし）",
+            "flow was → /oʊ/ + /w/（母音+子音、連結なし）、was は弱形 /wəz/",
+            "was slowing → /z/ + /s/（子音+子音、連結なし）",
+            "slowing down → /ŋ/ + /d/（子音+子音、連結なし）",
+            "because of → because は弱形 /bɪˈkɔz/、/z/ + /ə/（子音+母音）が連結 [bɪˈkɔz əv] ビコーズ オブ、of は弱形 /əv/",
+            "of the → /v/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "sand blocks → /d/ + /b/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ウォーター フロウ ワズ スロウイング ダウン ビコーズ オブ ザ サンド ブロックス"
+        },
+        {
+          "en": "We were slowing our pace to check every cave carefully.",
+          "ja": "洞窟をすべてチェックするために、私たちはゆっくり進んでいました。",
+          "ipa": "/wi wɚ ˈsloʊɪŋ ˈaʊɚ ˈpeɪs tə ˈtʃɛk ˈɛvəri ˈkeɪv ˈkɛrfəli/",
+          "linking": [
+            "we were → were は弱形 /wɚ/",
+            "were slowing → /r/ + /s/（子音+子音、連結なし）",
+            "slowing our → /ŋ/ + /aʊ/（子音+子音、連結なし）",
+            "our pace → /r/ + /p/（子音+子音、連結なし）",
+            "pace to → /s/ + /t/（子音+子音、連結なし）、to は弱形 /tə/",
+            "to check → /ə/ + /tʃ/（子音+子音、連結なし）",
+            "check every → /k/ + /ɛ/（子音+母音）が連結 [ˈtʃɛk ˈɛvəri] チェック エヴァリー",
+            "cave carefully → /v/ + /k/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィー ワー スロウイング アワー ペイス タ チェック エヴァリー ケイヴ ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been slowing",
+      "ipa": "/həd bɪn ˈsloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The server had been slowing for hours before the update.",
+          "ja": "アップデート前にサーバーは数時間遅くなっていました。",
+          "ipa": "/ðə ˈsɝːvɚ həd bɪn ˈsloʊɪŋ ˈfɔr ˈaʊɚz bɪˈfɔr ðə əpˈdeɪt/",
+          "linking": [
+            "the server → the は弱形 /ðə/、/ə/ + /s/（子音+子音、連結なし）",
+            "server had → /r/ + /h/（子音+子音、連結なし）、had は弱形 /həd/",
+            "had been → /d/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been slowing → /n/ + /s/（子音+子音、連結なし）",
+            "slowing for → /ŋ/ + /f/（子音+子音、連結なし）、for は弱形 /fɚ/",
+            "for hours → /r/ + /aʊ/（子音+子音、連結なし）",
+            "hours before → /z/ + /b/（子音+子音、連結なし）、before は弱形 /bɪˈfɔr/",
+            "before the → /r/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ サーバー ハド ビン スロウイング フォア アワーズ ビフォア ザ アップデイト"
+        },
+        {
+          "en": "The redstone signal had been slowing the door mechanism all day.",
+          "ja": "レッドストーン信号は一日中ドアメカニズムを遅くしていました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl həd bɪn ˈsloʊɪŋ ðə ˈdɔr ˈmɛkəˌnɪzəm ˈɔl ˈdeɪ/",
+          "linking": [
+            "the redstone → the は弱形 /ðə/、/ə/ + /r/（子音+子音、連結なし）",
+            "signal had → /l/ + /h/（子音+子音、連結なし）、had は弱形 /həd/",
+            "had been → /d/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been slowing → /n/ + /s/（子音+子音、連結なし）",
+            "slowing the → /ŋ/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the door → /ə/ + /d/（子音+子音、連結なし）",
+            "door mechanism → /r/ + /m/（子音+子音、連結なし）",
+            "mechanism all → /m/ + /ɔ/（子音+母音）が連結 [ˈmɛkəˌnɪzəm ˈɔl] メカニズム オール",
+            "all day → /l/ + /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ レッドストウン シグナル ハド ビン スロウイング ザ ドア メカニズム オール デイ"
+        }
+      ]
     }
   ]
 }
