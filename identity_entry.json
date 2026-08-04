@@ -68,5 +68,38 @@
       ],
       "kana": "プラテック ユアー ア カウント タ プリベンタイデンティティ セフト オン ザ サーバー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "identities",
+      "ipa": "/aɪˈdɛntətiz/",
+      "examples": [
+        {
+          "en": "The identities of all players must be verified by the server.",
+          "ja": "全プレイヤーのアイデンティティはサーバーで検証される必要があります。",
+          "ipa": "/ðə aɪˈdɛntətiz əv ɔl ˈpleɪərz məst bi vɛˈrɪfaɪd baɪ ðə ˈsɚvər/",
+          "linking": [
+            "identities の末尾子音 /z/ が of の初頭母音 /ə/ に連結 [aɪˈdɛntətizəv] ティティーズアヴ",
+            "the は機能語で弱形 /ðə/ に弱化",
+            "players の末尾子音 /z/ が次の子音に直続し未開放 [ˈpleɪərz̚]",
+            "must の末尾子音 /t/ が be の初頭子音 /b/ に直続し未開放 [məs̚t]"
+          ],
+          "kana": "ザ アイデンティティーズアヴ オール プレイアーズ マス ビー ヴェリファイド バイ ザ サーバー"
+        },
+        {
+          "en": "Different identities allow multiple players to coexist peacefully here.",
+          "ja": "異なるアイデンティティにより、複数のプレイヤーがここで平和に共存できます。",
+          "ipa": "/ˈdɪfərənt aɪˈdɛntətiz əˈlaʊ ˈmʌltɪpl ˈpleɪərz tə kəʊˈɪɡzɪst ˈpiːsfəli hɪr/",
+          "linking": [
+            "different の末尾子音 /t/ が identities の初頭母音 /aɪ/ に連結 [ˈdɪfərəntaɪˈdɛntətiz]",
+            "identities の末尾子音 /z/ が allow の初頭母音 /ə/ に連結 [aɪˈdɛntətizəˈlaʊ]",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ディファレント アイデンティティーズアラウ マルティプル プレイアーズ タ コエグジスト ピースフリー ヒア"
+        }
+      ]
+    }
   ]
 }

@@ -44,5 +44,35 @@
       "ja": "ネザーについて作った詩をシェアさせてください。"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "poems",
+      "ipa": "/ˈpoʊ.əmz/",
+      "examples": [
+        {
+          "en": "I wrote poems to describe our world.",
+          "ipa": "/aɪ roʊt ˈpoʊ.əmz tə dɪˈskraɪb ˈaʊər wɜrld/",
+          "kana": "アイ ロータ ポウエムズ タ ディスクライブ アワー ワールド",
+          "linking": [
+            "wrote の語末 /t/ が to の弱形 /tə/ に連結 [ˈroʊtə] 「ロータ」",
+            "to は機能語で弱形 /tə/ に弱化 「タ」"
+          ],
+          "ja": "私は自分たちの世界を説明するために詩を書きました。"
+        },
+        {
+          "en": "These poems tell about mining and building.",
+          "ipa": "/ðiːz ˈpoʊ.əmz tɛl əˈbaʊt ˈmaɪnɪŋ ənd ˈbɪldɪŋ/",
+          "kana": "ディーズ ポウエムズ テラバウト マイニング アンド ビルリング",
+          "linking": [
+            "tell の語末 /l/ が about の初頭 /ə/ に連結 [tɛləbaʊt] 「テラバウト」",
+            "building の語中 /d/ がフラップ化 [ɾ] 「ビルリング」"
+          ],
+          "ja": "これらの詩は採掘と建築について語っています。"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

@@ -55,5 +55,97 @@
       ],
       "kana": "ザ キーヴェントランス ワズィン プレインサイト バイ ザ ラヴィン"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "plainer",
+      "ipa": "/ˈpleɪnər/",
+      "examples": [
+        {
+          "en": "The grassland is plainer than the mountain biome.",
+          "ja": "グラスランドは山岳バイオームより平坦である。",
+          "ipa": "[ðə ˈɡræslænd ɪz ˈpleɪnər ðæn ðə ˈmaʊntən ˈbaɪoʊm]",
+          "linking": [
+            "the grassland で、弱形 the /ðə/ の /ə/ が grassland の初頭子音 /ɡ/ に連結",
+            "grassland is で、語末子音 /d/ が母音 /ɪ/ に連結、フラップ化して [ɡæsləɾɪz]",
+            "the mountain で、弱形 the /ðə/ の /ə/ が mountain の初頭子音 /m/ に連結"
+          ],
+          "kana": "ザグラスランディズ プレイナー ザン ザマウンテン バイオウム"
+        },
+        {
+          "en": "Dirt blocks are plainer than oak wood.",
+          "ja": "土ブロックはオークの木より平坦である。",
+          "ipa": "[dɝt blɑks ɑr ˈpleɪnər ðæn oʊk wʊd]",
+          "linking": [
+            "blocks are で、語末子音 /s/ が母音 /ɑ/ に連結して [blɑks ɑr]",
+            "than oak で、語末子音 /n/ が母音 /oʊ/ に連結して [ðæn oʊk]"
+          ],
+          "kana": "ダートブロックスアー プレイナー ザン オーク ウッド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "plainest",
+      "ipa": "/ˈpleɪnəst/",
+      "examples": [
+        {
+          "en": "The Nether is the plainest biome in the game.",
+          "ja": "ネザーはゲーム内で最も平坦なバイオームである。",
+          "ipa": "[ðə ˈnɛðər ɪz ðə ˈpleɪnəst ˈbaɪoʊm ɪn ðə ɡeɪm]",
+          "linking": [
+            "the Nether で、弱形 the /ðə/ の /ə/ が初頭子音 /n/ に連結",
+            "the plainest で、弱形 the /ðə/ の /ə/ が初頭子音 /p/ に連結して [ðəˈpleɪnəst]",
+            "biome in で、語末子音 /m/ が母音 /ɪ/ に連結",
+            "the game で、弱形 the /ðə/ の /ə/ が初頭子音 /ɡ/ に連結"
+          ],
+          "kana": "ザネザー イズ ザプレイネスト バイオウム インザゲイム"
+        },
+        {
+          "en": "Stone is the plainest block to build with.",
+          "ja": "石は建築するのに最も単純なブロックである。",
+          "ipa": "[stoʊn ɪz ðə ˈpleɪnəst blɑk tə ˈbɪld wɪð]",
+          "linking": [
+            "Stone is で、語末子音 /n/ が母音 /ɪ/ に連結して [stoʊnɪz]",
+            "the plainest で、弱形 the /ðə/ の /ə/ が初頭子音 /p/ に連結",
+            "to build で、機能語 to の弱形 /tə/ の /ə/ が初頭子音 /b/ に連結"
+          ],
+          "kana": "ストーン イズ ザプレイネスト ブロック トゥビルド ウィズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "plains",
+      "ipa": "/pleɪnz/",
+      "examples": [
+        {
+          "en": "The vast plains stretch for miles in Minecraft.",
+          "ja": "マインクラフトでは広大な平原が何マイルも広がっている。",
+          "ipa": "[ðə væst pleɪnz strɛtʃ fɔr maɪlz ɪn ˈmaɪnkræft]",
+          "linking": [
+            "the vast で、弱形 the /ðə/ の /ə/ が初頭子音 /v/ に連結",
+            "for miles で、語末子音 /r/ が母音 /m/ に連結して [fɔr maɪlz]",
+            "miles in で、語末子音 /z/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ ヴァスト プレインズ ストレッチ フォー マイルズ イン マインクラフト"
+        },
+        {
+          "en": "Explore the plains to find villages and resources.",
+          "ja": "平原を探索して村と資源を見つけよう。",
+          "ipa": "[ɪkˈsplɔr ðə pleɪnz tə faɪnd ˈvɪlɪdʒɪz ənd ɹɪˈsoɹsɪz]",
+          "linking": [
+            "the plains で、弱形 the /ðə/ の /ə/ が初頭子音 /p/ に連結して [ðəpleɪnz]",
+            "to find で、機能語 to の弱形 /tə/ の /ə/ が初頭子音 /f/ に連結",
+            "villages and で、語末子音 /z/ が弱形 and /ənd/ の /ə/ に連結"
+          ],
+          "kana": "エクスプロア ザプレインズ トゥ ファインド ヴィリジィズ エンド リソーシーズ"
+        }
+      ]
+    }
   ]
 }

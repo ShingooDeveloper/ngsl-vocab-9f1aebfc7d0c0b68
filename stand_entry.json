@@ -1,0 +1,321 @@
+{
+  "word": "stand",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/stænd/",
+  "rank": 230,
+  "level": "A2",
+  "hi": "stand|stands|stood|standing",
+  "meanings": [
+    "【動詞】立つ、立ち上がる（to rise to an upright position on one's feet）",
+    "【動詞】〜に立つ、〜の上に立つ（to be located or positioned）",
+    "【動詞】耐える、我慢する、支える（to endure, to tolerate, to support）",
+    "【名詞】スタンド、台座、立ち止まること（a stall, a platform, or a halt）",
+    "【名詞】立場、見解、態度（a position or viewpoint on an issue）"
+  ],
+  "examples": [
+    {
+      "en": "I need to stand on higher ground to see the biome better.",
+      "ja": "バイオームをよりよく見るために、より高い地面に立つ必要があります。",
+      "ipa": "/aɪ niːd tə stænd ɑn ˈhaɪər ˈɡraʊnd tə siː ðə ˈbaɪˌoʊm ˈbɛtər/",
+      "linking": [
+        "need の末尾 /d/ が to の初頭母音に連結。to は弱形 /tə/。結果 [ˈniːdə] ニーダ",
+        "higher の末尾が ground の初頭に続く",
+        "to は機能語で弱形 /tə/"
+      ],
+      "kana": "アイ ニーダ スタンド オン ハイアー グラウンド タ シー ザ バイオウム ベッター"
+    },
+    {
+      "en": "Can you stand the pressure when fighting the Ender Dragon?",
+      "ja": "エンダードラゴンと戦うときの圧力に耐えられますか？",
+      "ipa": "/kæn juː stænd ðə ˈprɛʃər wɛn ˈfaɪtɪŋ ðə ˈɛndər ˈdɹæɡən/",
+      "linking": [
+        "can の末尾 /n/ が you の初頭母音 /j/ に続く（consonant+consonant、連結なし）",
+        "you は通常強形 /juː/",
+        "the は弱形 /ðə/",
+        "pressure の末尾 /r/ が when の初頭 /w/ に続く"
+      ],
+      "kana": "キャン ユー スタンド ザ プレッシャー ウェン ファイティング ザ エンダー ドラゴン"
+    },
+    {
+      "en": "Build a stand from cobblestone to reach the mining level safely.",
+      "ja": "採掘レベルに安全に到達するために丸石でスタンドを構築してください。",
+      "ipa": "/ˈbɪld ə stænd frəm ˈkɑbəlˌstoʊn tə ˈriːtʃ ðə ˈmaɪnɪŋ ˈlɛvəl ˈseɪfli/",
+      "linking": [
+        "a は弱形 /ə/",
+        "from は弱形 /frəm/",
+        "to は機能語で弱形 /tə/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ビルド ア スタンド フラム コブルストーン タ リーチ ザ マイニング レベル セイフリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "stand by",
+      "ja": "〜を支持する、待機する、そばにいる",
+      "example": "I will stand by you during this dangerous raid.",
+      "example_ja": "この危険なレイドの間、私はあなたをサポートします。",
+      "ipa": "/aɪ wɪl stænd baɪ juː ˈdʊrɪŋ ðɪs ˈdeɪndʒərəs ˈreɪd/",
+      "linking": [
+        "by は機能語で弱形 /baɪ/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "アイ ウィル スタンド バイ ユー ドゥーリング ディス デインジャラス レイド"
+    },
+    {
+      "idiom": "stand out",
+      "ja": "目立つ、際立つ、突き出す",
+      "example": "Your magnificent castle stands out among all the builds.",
+      "example_ja": "あなたの壮大な城はすべてのビルドの中で際立っています。",
+      "ipa": "/ˈjɔɹ ˈmæɡnɪfɪsənt ˈkæsəl stændz aʊt əˈmʌŋ ɔl ðə ˈbɪldz/",
+      "linking": [
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ヨア マグニフィセント キャッスル スタンズ アウト アマング オール ザ ビルズ"
+    },
+    {
+      "idiom": "stand the test of time",
+      "ja": "時間の試練に耐える、長く続く",
+      "example": "This base design will stand the test of time on our server.",
+      "example_ja": "このベース設計は私たちのサーバーで時間の試練に耐えるでしょう。",
+      "ipa": "/ðɪs ˈbeɪs dɪˈzaɪn wɪl stænd ðə tɛst əv ˈtaɪm ɑn ˈaʊɚ ˈsɝvɚ/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "of は弱形 /əv/"
+      ],
+      "kana": "ディス ベース ディザイン ウィル スタンド ザ テスト アヴ タイム オン アワー サーバー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Players stand on obsidian blocks to avoid fall damage.",
+      "ja": "プレイヤーは落下ダメージを避けるために黒曜石の上に立ちます。",
+      "ipa": "/ˈpleɪɚz stænd ɑn əbˈsɪdiən ˈblɑks tə əˈvɔɪd ˈfɔl ˈdæmɪdʒ/",
+      "linking": [
+        "to は機能語で弱形 /tə/"
+      ],
+      "kana": "プレイアーズ スタンド オン オブシディアン ブロックス タ アヴォイド フォール ダメッジ"
+    },
+    {
+      "en": "A wooden stand can be built quickly in creative mode.",
+      "ja": "木製のスタンドはクリエイティブモードで素早く構築できます。",
+      "ipa": "/ə ˈwʊdən stænd kæn bi ˈbɪlt ˈkwɪkli ɪn kriˈeɪtɪv ˈmoʊd/",
+      "linking": [
+        "a は弱形 /ə/",
+        "be は弱形 /bi/"
+      ],
+      "kana": "ア ウッディン スタンド キャン ビー ビルト クイックリー イン クリエイティブ モード"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "stands",
+      "ipa": "/stændz/",
+      "examples": [
+        {
+          "en": "He stands guard at the entrance of our base.",
+          "ja": "彼は私たちの基地の入り口で番をしています。",
+          "ipa": "/hi stændz ɡɑrd æt ðə ˈɛntrəns əv ˈaʊɚ ˈbeɪs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ヒ スタンズ ガード アット ザ エントレンス アヴ アワー ベース"
+        },
+        {
+          "en": "The fortress stands tall on the mountain peak.",
+          "ja": "要塞は山の頂上に高くそびえています。",
+          "ipa": "/ðə ˈfɔɹtrəs stændz tɔl ɑn ðə ˈmaʊntn ˈpik/",
+          "linking": [
+            "the (first) は弱形 /ðə/",
+            "the (second) は弱形 /ðə/"
+          ],
+          "kana": "ザ フォートレス スタンズ トール オン ザ マウンテン ピーク"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stood",
+      "ipa": "/stʊd/",
+      "examples": [
+        {
+          "en": "We stood at the edge of the cliff to see the entire landscape.",
+          "ja": "私たちは崖の端に立ち、全体的な風景を見ました。",
+          "ipa": "/wi stʊd æt ðə ɛdʒ əv ðə klɪf tə siː ðə ənˈtaɪɚ ˈlændˌskeɪp/",
+          "linking": [
+            "the (first) は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "the (second) は弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ウィー ストゥッド アット ザ エッジ アヴ ザ クリフ タ シー ザ エンタイアー ランドスケイプ"
+        },
+        {
+          "en": "He stood still while the hostile mob passed nearby.",
+          "ja": "敵対的なモブが近くを通り過ぎている間、彼は動かずに立っていました。",
+          "ipa": "/hi stʊd ˈstɪl ˈwaɪl ðə ˈhɑstəl ˈmɑb pæst ˈnɪərˌbaɪ/",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヒ ストゥッド スティル ホワイル ザ ハースタル モブ パスト ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stood",
+      "ipa": "/stʊd/",
+      "examples": [
+        {
+          "en": "The wall has stood for centuries in Minecraft time.",
+          "ja": "その壁はマインクラフト時間で何世紀も立ち続けました。",
+          "ipa": "/ðə wɔl həz stʊd fɔr ˈsɛnʧəriz ɪn ˈmaɪnˌkræft ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "for は弱形 /fɔr/ または /fɚ/"
+          ],
+          "kana": "ザ ウォール ハズ ストゥッド フォー センチュリーズ イン マインクラフト タイム"
+        },
+        {
+          "en": "They have stood united against the raids and attacks.",
+          "ja": "彼らは略奪や攻撃に対して団結して立ち続けました。",
+          "ipa": "/ðeɪ həv stʊd ˈjuːnaɪtɪd əˈɡɛnst ðə ˈreɪdz ənd əˈtæks/",
+          "linking": [
+            "have は弱形 /həv/",
+            "against は通常強形 /əˈɡɛnst/",
+            "the は弱形 /ðə/",
+            "and は弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ゼイ ハヴ ストゥッド ユーナイティド アゲンスト ザ レイズ アンド アタックス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "standing",
+      "ipa": "/ˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "Standing on the highest tower gives you the best view.",
+          "ja": "最も高い塔の上に立つことが最高の眺めを与えます。",
+          "ipa": "/ˈstændɪŋ ɑn ðə ˈhaɪəst ˈtaʊər ɡɪvz juː ðə ˈbɛst ˈvjuː/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "you は通常強形 /juː/ だが連続する場合は弱化可能"
+          ],
+          "kana": "スタンディング オン ザ ハイエスト タワー ギヴズ ユー ザ ベスト ビュー"
+        },
+        {
+          "en": "I'm standing here waiting for my teammates to arrive.",
+          "ja": "チームメイトが到着するのを待ちながら、ここに立っています。",
+          "ipa": "/aɪm ˈstændɪŋ hɪr ˈweɪtɪŋ fɔr maɪ ˈtimˌmeɪts tə əˈraɪv/",
+          "linking": [
+            "I'm は縮約形 /aɪm/。m が standing の /s/ に先行、未開放気味",
+            "for は弱形 /fɔr/ または /fɚ/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイム スタンディング ヒア ウェイティング フォー マイ ティームメイツ タ アライヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is standing",
+      "ipa": "/ɪz ˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "She is standing on the bridge looking down at the lava lake.",
+          "ja": "彼女は橋に立って、溶岩湖を見下ろしています。",
+          "ipa": "/ʃi ɪz ˈstændɪŋ ɑn ðə ˈbrɪdʒ ˈlʊkɪŋ ˈdaʊn æt ðə ˈlɑvə ˈleɪk/",
+          "linking": [
+            "is → 助動詞で弱形 /ɪz/",
+            "the bridge → 冠詞 /ðə/ が bridge /b/ に連結 [ðə ˈbrɪdʒ] ザ ブリッジ",
+            "the lava → 冠詞 /ðə/ が lava に連結"
+          ],
+          "kana": "シー イズ スタンディング オン ザ ブリッジ ルッキング ダウン アット ザ ラーヴァ レイク"
+        },
+        {
+          "en": "We are standing here ready to defend against any attack.",
+          "ja": "私たちはここに立って、どんな攻撃にも対抗する準備ができています。",
+          "ipa": "/wi ɑr ˈstændɪŋ hɪr ˈrɛdi tə dɪˈfɛnd əˈɡɛnst ˈɛni əˈtæk/",
+          "linking": [
+            "are → 助動詞で標準形 /ɑr/",
+            "to → 機能語で弱形 /tə/",
+            "any の末尾 /i/ が attack の初頭 /ə/ に続く（vowel+vowel）"
+          ],
+          "kana": "ウィー アー スタンディング ヒア レディ タ ディフェンド アゲンスト エニー アタック"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was standing",
+      "ipa": "/wəz ˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "I was standing at the gate when the zombie horde suddenly appeared.",
+          "ja": "ゾンビの大群が突然現れた時、私はゲートに立っていました。",
+          "ipa": "/aɪ wəz ˈstændɪŋ æt ðə ɡeɪt wɛn ðə ˈzɑmbi ˈhɔːrd ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was → 助動詞で弱形 /wəz/",
+            "the gate → 冠詞 /ðə/ が gate に連結 [ðə ɡeɪt] ザ ゲート",
+            "the zombie → 冠詞 /ðə/ が zombie に連結"
+          ],
+          "kana": "アイ ワズ スタンディング アット ザ ゲート ウェン ザ ゾンビー ホード サドンリー アピアド"
+        },
+        {
+          "en": "They were standing together when the redstone mechanism activated.",
+          "ja": "レッドストーン機構が作動した時、彼らは一緒に立っていました。",
+          "ipa": "/ðeɪ wɚ ˈstændɪŋ təˈɡɛðɚ wɛn ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm ˈæktɪveɪtɪd/",
+          "linking": [
+            "were → 助動詞で弱形 /wɚ/",
+            "together の末尾 /ɚ/ が when の初頭 /w/ に続く",
+            "the redstone → 冠詞 /ðə/ が redstone に連結"
+          ],
+          "kana": "ゼイ ワー スタンディング トゥゲザー ウェン ザ レッドストーン メカニズム アクティベイティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been standing",
+      "ipa": "/həd bɪn ˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "He had been standing guard for hours before the creeper explosion.",
+          "ja": "クリーパーの爆発の前に、彼は何時間も番をしていました。",
+          "ipa": "/hi həd bɪn ˈstændɪŋ ɡɑrd fɔr ˈaʊɚz bɪˈfɔr ðə ˈkripɚ ɪkˈsploʊʒən/",
+          "linking": [
+            "had → 助動詞で弱形 /həd/",
+            "been → 助動詞で弱形 /bɪn/",
+            "for → 機能語で弱形 /fɔr/ または /fɚ/"
+          ],
+          "kana": "ヒー ハド ビン スタンディング ガード フォー アワーズ ビフォア ザ クリーパー エクスプロージョン"
+        },
+        {
+          "en": "We had been standing in the rain for days when the storm finally ended.",
+          "ja": "嵐がついに終わった時、私たちは何日間も雨の中に立っていました。",
+          "ipa": "/wi həd bɪn ˈstændɪŋ ɪn ðə ˈreɪn fɔr ˈdeɪz wɛn ðə ˈstɔrm ˈfaɪnəli ˈɛndəd/",
+          "linking": [
+            "had → 助動詞で弱形 /həd/",
+            "been → 助動詞で弱形 /bɪn/",
+            "the rain → 冠詞 /ðə/ が rain に連結",
+            "for → 機能語で弱形 /fɔr/ または /fɚ/"
+          ],
+          "kana": "ウィー ハド ビン スタンディング イン ザ レイン フォー デイズ ウェン ザ ストーム ファイナリー エンディド"
+        }
+      ]
+    }
+  ]
+}

@@ -197,6 +197,110 @@
           "kana": "アイム イクスペクティング ザ エンダー ドラゴン タ アピア トゥナイト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is expecting",
+      "ipa": "/ɪz ɪkˈspɛktɪŋ/",
+      "examples": [
+        {
+          "en": "The server is expecting you to gather wood before the storm arrives.",
+          "ja": "サーバーは嵐が到着する前に木を集めることを期待しています。",
+          "ipa": "/ðə ˈsɝvɚ ɪz ɪkˈspɛktɪŋ juː tə ˈɡæðɚ ˈwʊd bɪˈfɔr ðə ˈstɔrm əˈraɪvz/",
+          "linking": [
+            "the は弱形 /ðə/。server に連結。",
+            "server の末尾 /ɚ/ と is の初頭 /ɪ/ が連結 [ˈsɝvɚ ɪz ɪkˈspɛktɪŋ]。is は弱形 /ɪz/。",
+            "to は弱形 /tə/。gather に連結。",
+            "before は /bɪˈfɔr/。the は弱形 /ðə/。storm に連結。"
+          ],
+          "kana": "ザ サーヴァー イズ イクスペクティング ユー タ ギャザー ウッド ビフォア ザ ストーム アライヴズ"
+        },
+        {
+          "en": "We are expecting a Creeper explosion any minute now in this valley.",
+          "ja": "私たちはこの谷でクリーパー爆発がいつ起こってもおかしくないと予想しています。",
+          "ipa": "/wiː ɑr ɪkˈspɛktɪŋ ə ˈkriːpɚ ɪkˈsploʊʒən ˈɛni ˈmɪnət ˈnaʊ ɪn ðɪs ˈvæli/",
+          "linking": [
+            "we の末尾 /iː/ と are の初頭で自然な流れ。are は弱形 /ɚ/。",
+            "a は弱形 /ə/。Creeper に連結。",
+            "Creeper の末尾 /ɚ/ と explosion の初頭 /ɪ/ が連結 [ˈkriːpɚ ɪkˈsploʊʒən]。",
+            "any の末尾 /i/ と minute の初頭で連結。",
+            "in は弱形 /ɪn/。this に連結。"
+          ],
+          "kana": "ウィー ア イクスペクティング ア クリーパー イクスプロージョン エニー ミニット ナウ イン ディス バレー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was expecting",
+      "ipa": "/wəz ɪkˈspɛktɪŋ/",
+      "examples": [
+        {
+          "en": "I was expecting the Wither to attack from behind when my armor broke.",
+          "ja": "鎧が壊れたとき、ウィザーが背後から攻撃してくるだろうと予想していました。",
+          "ipa": "/aɪ wəz ɪkˈspɛktɪŋ ðə ˈwɪðɚ tə əˈtæk frəm bɪˈhaɪnd wɛn maɪ ˈɑrmɚ ˈbroʊk/",
+          "linking": [
+            "was は弱形 /wəz/。expecting に連結。",
+            "the は弱形 /ðə/。Wither に連結。",
+            "to は弱形 /tə/。attack に連結。",
+            "from は弱形 /frəm/。behind に連結。",
+            "when の末尾 /n/ と my の初頭 /m/ で鼻音+口音の接続。"
+          ],
+          "kana": "アイ ワズ イクスペクティング ザ ウィザー タ アタック フラム ビハインド ウェン マイ アーマー ブロウク"
+        },
+        {
+          "en": "They were expecting the mining operation to collapse because of water nearby.",
+          "ja": "彼らは近くに水があるため、採鉱操作が崩壊することを予想していました。",
+          "ipa": "/ðeɪ wɚ ɪkˈspɛktɪŋ ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən tə kəˈlæps bɪˈkɑz əv ˈwɔtɚ ˈnɪrˌbaɪ/",
+          "linking": [
+            "were は弱形 /wɚ/。expecting に連結。",
+            "the は弱形 /ðə/。mining に連結。",
+            "to は弱形 /tə/。collapse に連結。",
+            "because の末尾 /z/ と of の初頭 /ə/ が連結 [bɪˈkɑz əv]。of は弱形 /əv/。",
+            "of の末尾 /v/ と water の初頭 /w/ が続く。"
+          ],
+          "kana": "ザイ ワー イクスペクティング ザ マイニング オペレイション タ コラプス ビコーズ アヴ ウォーラー ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been expecting",
+      "ipa": "/həd bɪn ɪkˈspɛktɪŋ/",
+      "examples": [
+        {
+          "en": "The player had been expecting the stronghold to appear on the map before the search ended.",
+          "ja": "プレイヤーは検索が終わる前にストロングホールドがマップに現れることを前々から予想していました。",
+          "ipa": "/ðə ˈpleɪɚ həd bɪn ɪkˈspɛktɪŋ ðə ˈstrɔŋˌhoʊld tə əˈpɪr ɑn ðə ˈmæp bɪˈfɔr ðə ˈsɝtʃ ˈɛndɪd/",
+          "linking": [
+            "the は弱形 /ðə/。player に連結。",
+            "had は弱形 /həd/。been に連結。",
+            "been は弱形 /bɪn/。expecting に連結。",
+            "the は弱形 /ðə/。stronghold に連結。",
+            "to は弱形 /tə/。appear に連結。",
+            "on の末尾 /n/ と the の初頭で接続。the は弱形 /ðə/。map に連結。"
+          ],
+          "kana": "ザ プレイヤー ハド ビン イクスペクティング ザ ストロングホールド タ アピア アン ザ マップ ビフォア ザ サーチ エンディド"
+        },
+        {
+          "en": "Steve and I had been expecting the TNT to explode for several seconds before it ignited.",
+          "ja": "スティーヴと私はTNTが点火する数秒前からそれが爆発することを予想していました。",
+          "ipa": "/ˈstiv ən aɪ həd bɪn ɪkˈspɛktɪŋ ðə ˌtiːɛnˈtiː tə ɪkˈsploʊd fɔr ˈsɛvɚəl ˈsɛkəndz bɪˈfɔr ɪt ɪɡˈnaɪtɪd/",
+          "linking": [
+            "Steve の末尾 /v/ と and の初頭で連結 [stiv ən]。and は弱形 /ən/。",
+            "had は弱形 /həd/。been に連結。",
+            "been は弱形 /bɪn/。expecting に連結。",
+            "the は弱形 /ðə/。TNT に連結。",
+            "to は弱形 /tə/。explode に連結。",
+            "for は弱形 /fɚ/。several に連結。",
+            "before の末尾 /ɔr/ と it の初頭 /ɪ/ で連結。"
+          ],
+          "kana": "スティーヴ アン アイ ハド ビン イクスペクティング ザ ティーエヌティー タ イクスプロード フォー セヴァラル セコンズ ビフォア イット イグナイティド"
+        }
+      ]
     }
   ]
 }

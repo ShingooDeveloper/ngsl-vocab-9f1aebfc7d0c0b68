@@ -46,6 +46,38 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "discoveries",
+      "ipa": "/dɪˈskʌvəriz/",
+      "examples": [
+        {
+          "en": "We found three major discoveries in the deep caves last month.",
+          "ja": "先月、深い洞窟で3つの大きな発見をした。",
+          "ipa": "/wi ˈfaʊnd θriː ˈmeɪdʒər dɪˈskʌvəriz ɪn ðə ˈdiːp keɪvz læst mʌnθ/",
+          "kana": "ウィ ファウンド スリー メイジャー ディスカバリーズィンザ ディープ ケイブズ ラスマンス",
+          "linking": [
+            "discoveries in → discoveries の語末子音 /z/ が in の母音 /ɪ/ に連結 [zɪn] ジィン",
+            "in the → in の語末子音 /n/ が the の弱形母音 /ə/ に連結、the は弱形 /ðə/ [nðə] んザ",
+            "last month → last の語末子音 /t/ は未開放停止のまま month の /m/ に続く [læs̚ mʌnθ] ラスマンス"
+          ]
+        },
+        {
+          "en": "Those discoveries of rare resources will help us build our castle.",
+          "ja": "珍しい資源のそれらの発見は、城を建てるのに役立つだろう。",
+          "ipa": "/ðoʊz dɪˈskʌvəriz əv rɛr rɪˈsɔrsɪz wɪl hɛlp ʌs bɪld ˈaʊər ˈkæsəl/",
+          "kana": "ザウズ ディスカバリーズァヴ レア リソーシーズ ウィル ヘルパス ビルダウア キャッサル",
+          "linking": [
+            "discoveries of → discoveries の語末子音 /z/ が of の弱形母音 /ə/ に連結 [zəv] ザヴ、of は弱形 /əv/",
+            "help us → help の語末子音 /p/ が us の母音 /ʌ/ に連結 [pʌs] ぱす",
+            "build our → build の語末子音 /d/ が our の母音 /aʊ/ に連結 [daʊər] ダウア"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "make a discovery",

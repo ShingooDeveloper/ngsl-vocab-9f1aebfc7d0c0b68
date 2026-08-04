@@ -86,5 +86,121 @@
       ],
       "kana": "アイラカンパニ ユア シンギング ウィズ ギター"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "accompanies",
+      "ipa": "/əˈkʌmpəniz/",
+      "examples": [
+        {
+          "en": "She accompanies the mining team through the caves.",
+          "ja": "彼女は採掘チームを洞窟を通じて同伴する。",
+          "ipa": "/ʃi əˈkʌmpəniz ðə ˈmaɪnɪŋ ˈtim θruː ðə ˈkeɪvz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、mining に連結 [ðəˈmaɪnɪŋ] ザマイニング",
+            "through の長母音 /uː/ の後、caves 前の the は弱形 /ðə/ で [θruːðəˈkeɪvz] スルーザケイブズ"
+          ],
+          "kana": "シー アカンパニーズ ザマイニング ティーム スルー ザケイブズ"
+        },
+        {
+          "en": "Each player accompanies their partner to protect resources.",
+          "ja": "各プレイヤーは資源を守るため、パートナーに付き添う。",
+          "ipa": "/itʃ ˈpleɪər əˈkʌmpəniz ðɛr ˈpɑrtnər tu prəˈtɛkt ˈrɛsɚsɪz/",
+          "linking": [
+            "player の末尾 /r/ が accompanies の初頭 /ə/ に連結 [ˈpleɪərəˈkʌmpəniz] プレイヤラカンパニーズ",
+            "to は機能語で弱形 /tə/ に弱化。protect に連結 [təprəˈtɛkt] タプロテクト"
+          ],
+          "kana": "イッチ プレイヤラカンパニーズ ザエア パートナー タプロテクト レソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "accompanied",
+      "ipa": "/əˈkʌmpənid/",
+      "examples": [
+        {
+          "en": "I accompanied the team through the Nether portal yesterday.",
+          "ja": "昨日、私はチームをネザーポータルを通じて同伴した。",
+          "ipa": "/aɪ əˈkʌmpənid ðə ˈtim θruː ðə ˈnɛðər ˈpoʊrtəl ˈjɛstərdeɪ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、team に連結 [ðəˈtim] ザティーム",
+            "Nether 前の the も弱形 /ðə/。Nether に連結 [ðəˈnɛðər] ザネザー"
+          ],
+          "kana": "アイ アカンパニド ザティーム スルー ザネザー ポータル イェスタデイ"
+        },
+        {
+          "en": "We accompanied them while they searched for diamonds.",
+          "ja": "彼らがダイヤモンドを探している間、私たちは彼らに同伴した。",
+          "ipa": "/wi əˈkʌmpənid ðɛm waɪl ðeɪ sɝtʃt fɔr ˈdaɪmənz/",
+          "linking": [
+            "them は /ðɛm/。accompanied の末尾 /d/ の後、them の子音で自然に分かれる。",
+            "searched の末尾 /tʃd/ は /tʃt/ で未開放気味に発音され、for に続く [ˈsɝtʃtfɔr] サーチトフォー"
+          ],
+          "kana": "ウィー アカンパニド ザム ワイル ザエイ サーチトフォー ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "accompanied",
+      "ipa": "/əˈkʌmpənid/",
+      "examples": [
+        {
+          "en": "Accompanied by experienced miners, we discovered a vast underground network.",
+          "ja": "熟練した鉱夫に付き添われて、私たちは広大な地下ネットワークを発見した。",
+          "ipa": "/əˈkʌmpənid baɪ ɪkˈspɪriənst ˈmaɪnərz wi dɪˈskʌvərd ə ˈvæst ˈʌndərɡraʊnd ˈnɛtˌwɝk/",
+          "linking": [
+            "by は前置詞で弱形 /bə/。experienced の初頭 /ɪ/ に続く [bəɪkˈspɪriənst] バエクスピアリンスト",
+            "discovered の末尾 /d/ が a の初頭 /ə/ に連結 [dɪˈskʌvərdə] ディスカバーダ"
+          ],
+          "kana": "アカンパニド バエクスピアリンスト マイナーズ ウィー ディスカバーダ ヴァスト アンダーグラウンド ネットワーク"
+        },
+        {
+          "en": "The supplies were accompanied by heavy protective gear.",
+          "ja": "その物資は重い防具に伴われていた。",
+          "ipa": "/ðə səˈplaɪz wɚ əˈkʌmpənid baɪ ˈhɛvi prəˈtɛktɪv ɡɪr/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、supplies に連結 [ðəsəˈplaɪz] ザサプライズ",
+            "were の末尾 /r/ が accompanied の初頭 /ə/ に連結 [wərəˈkʌmpənid] ウエラカンパニド",
+            "by は前置詞で弱形 /bə/"
+          ],
+          "kana": "ザサプライズ ウエラカンパニド バイ ヘビー プロテクティブ ギア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "accompanying",
+      "ipa": "/əˈkʌmpənɪŋ/",
+      "examples": [
+        {
+          "en": "Accompanying other miners keeps you safer during night raids.",
+          "ja": "他の鉱夫に同伴することは、夜間の襲撃中はあなたをより安全に保つ。",
+          "ipa": "/əˈkʌmpənɪŋ ˈʌðər ˈmaɪnərz ˈkips ju ˈseɪfər ˈdʊrɪŋ naɪt reɪdz/",
+          "linking": [
+            "Accompanying の末尾 /ŋ/ が other の初頭 /ʌ/ に連結 [ɪŋʌðər] イングアザー",
+            "keeps の末尾 /ps/ の後 you /juː/ の初頭 /j/ と繋がり [ˈkipzju] キップスユー"
+          ],
+          "kana": "アカンパニング アザー マイナーズ キップスユー セイファー ジュアリング ナイト レイズ"
+        },
+        {
+          "en": "While accompanying the group through a storm, watch for lightning.",
+          "ja": "嵐を通ってグループに同伴している間、落雷に注意してください。",
+          "ipa": "/waɪl əˈkʌmpənɪŋ ðə ɡrup θruː ə stɔrm wɑtʃ fɔr ˈlaɪtnɪŋ/",
+          "linking": [
+            "While の末尾 /l/ が accompanying の初頭 /ə/ に連結 [aɪləˈkʌmpənɪŋ] ワイラカンパニング",
+            "the は冠詞で弱形 /ðə/、group に連結 [ðəˈɡrup] ザグループ",
+            "watch の末尾 /tʃ/ の後、for の初頭 /f/ で自然に分かれる。for は弱形 /fər/ で [wɑtʃfər] ウォッチファー"
+          ],
+          "kana": "ワイラカンパニング ザグループ スルー ア ストーム ウォッチファー ライトニング"
+        }
+      ]
+    }
   ]
 }

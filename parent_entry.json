@@ -190,6 +190,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is parenting",
+      "ipa": "/ɪz ˈperəntɪŋ/",
+      "examples": [
+        {
+          "en": "She is parenting a baby Panda in the bamboo grove.",
+          "ja": "彼女は竹林で赤ちゃんパンダを世話しています。",
+          "ipa": "/ʃi ɪz ˈperəntɪŋ ə ˈbeɪbi ˈpændə ɪn ðə bæmˈbu ˈɡroʊv/",
+          "kana": "シー イズ ペランティング ア ベイビー パンダ イン ザ バムブー グロウヴ",
+          "linking": [
+            "is → parenting: /z/ が母音 /p/ に連結 [ɪzp]",
+            "a → baby: 弱形 /ə/ に弱化、baby の初頭に連結",
+            "the → bamboo: 弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "We are parenting our first Allay pets in Creative Mode.",
+          "ja": "私たちはクリエイティブモードで最初のアレイペットを世話しています。",
+          "ipa": "/wi ɑr ˈperəntɪŋ ˈaʊɚ ˈfɝst əˈleɪ ˈpɛts ɪn kriˈeɪtɪv ˈmoʊd/",
+          "kana": "ウィ アー ペランティング アワー ファースト アレイ ペッツ イン クリエイティヴ モード",
+          "linking": [
+            "are → parenting: /r/ が母音に連結",
+            "our → first: /r/ が母音 /f/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was parenting",
+      "ipa": "/wəz ˈperəntɪŋ/",
+      "examples": [
+        {
+          "en": "He was parenting the baby Villager when the Enderman attacked.",
+          "ja": "エンダーマンが攻撃したとき、彼は赤ちゃんヴィレッジャーを世話していました。",
+          "ipa": "/hi wəz ˈperəntɪŋ ðə ˈbeɪbi ˈvɪlɪdʒɚ wɛn ði ˈɛndɚmæn əˈtækt/",
+          "kana": "ヒー ワズ ペランティング ザ ベイビー ヴィリジャー ウェン ディ エンダーマン アタクト",
+          "linking": [
+            "was → parenting: /z/ が母音に連結",
+            "the → baby: 弱形 /ðə/ に弱化",
+            "the → Enderman: 弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "They were parenting baby Axolotls in the deep cave system.",
+          "ja": "彼らは深い洞窟システムで赤ちゃんウーパールーパーを世話していました。",
+          "ipa": "/ðeɪ wɚ ˈperəntɪŋ ˈbeɪbi ˌæksəˈlɑtəlz ɪn ðə ˈdip ˈkeɪv ˈsɪstəm/",
+          "kana": "ゼイ ワー ペランティング ベイビー アクソロートルズ イン ザ ディープ ケイヴ システム",
+          "linking": [
+            "were → parenting: /r/ が母音に連結",
+            "the → deep: 弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been parenting",
+      "ipa": "/həd bɪn ˈperəntɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we found the structure, they had been parenting fledglings there for weeks.",
+          "ja": "構造物を見つけた時には、彼らはそこで数週間ひなを育てていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈstrʌktʃɚ ðeɪ həd bɪn ˈperəntɪŋ ˈflɛdʒlɪŋz ðɛr fɚ ˈwiks/",
+          "kana": "バイ ザ タイム ウィ ファウンド ザ ストラクチャー ゼイ ハド ビン ペランティング フレジリングズ ゼア ファー ウィークス",
+          "linking": [
+            "the → time: 弱形 /ðə/ に弱化",
+            "the → structure: 弱形 /ðə/ に弱化",
+            "had → been: /d/ が母音に連結 [hədbɪn]",
+            "been → parenting: /n/ が母音に連結",
+            "for → weeks: /r/ が母音に連結"
+          ]
+        },
+        {
+          "en": "She had been parenting baby Cats for so long that they trusted her completely.",
+          "ja": "彼女は赤ちゃん猫を長い間世話していたので、彼らは彼女を完全に信頼していました。",
+          "ipa": "/ʃi həd bɪn ˈperəntɪŋ ˈbeɪbi ˈkæts fɚ soʊ ˈlɔŋ ðæt ðeɪ ˈtrʌstəd hɚ kəmˈplitli/",
+          "kana": "シー ハド ビン ペランティング ベイビー キャッツ ファー ソー ロング ザット ゼイ トラスティッド ハー コンプリートリー",
+          "linking": [
+            "had → been: /d/ が母音に連結",
+            "been → parenting: /n/ が母音に連結",
+            "for → so: /r/ が母音に連結"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -45,6 +45,36 @@
       "kana": "ア グッド プューパル ラーンズタ ギャザー リーソーシーズ イフィシェントリー"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "pupils",
+      "ipa": "/ˈpjuːpəlz/",
+      "examples": [
+        {
+          "en": "The pupils need a dark cave.",
+          "ja": "生徒たちは暗い洞窟が必要だ。",
+          "ipa": "[ðə ˈpjuːpəlz ˈniːdə ˈdɑrk keɪv]",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "need a → 語末子音 /d/ が母音 /ə/ に連結 [ˈniːdə]"
+          ],
+          "kana": "ザ ピューパルズ ニーダ ダーク ケーブ"
+        },
+        {
+          "en": "All the pupils made a shelter.",
+          "ja": "すべての生徒たちは家を建築した。",
+          "ipa": "[ɔl ðə ˈpjuːpəlz ˈmeɪdə ˈʃɛltər]",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "made a → 語末子音 /d/ が母音 /ə/ に連結 [ˈmeɪdə]"
+          ],
+          "kana": "オル ザ ピューパルズ メイダ シェルター"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "model pupil",

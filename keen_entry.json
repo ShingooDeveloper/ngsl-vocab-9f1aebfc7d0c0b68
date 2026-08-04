@@ -61,5 +61,63 @@
       ],
       "kana": "ウィザ キーン アイ ユー キャン ファインド ヒドゥン ケイヴズ イージー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "keener",
+      "ipa": "/ˈkiːnər/",
+      "examples": [
+        {
+          "en": "I have keener eyes than you when searching for diamonds.",
+          "ja": "ダイヤモンド探しの際、私はあなたより敏感な目を持っています。",
+          "ipa": "/aɪ hæv ˈkiːnər aɪz ðæn juː wɛn ˈsɜːtʃɪŋ fɚ ˈdaɪməndz/",
+          "linking": [
+            "keener eyes → keener の語末 /r/ が eyes の母音 /aɪ/ に連結、[ˈkiːnəɹaɪz] キーナーライズ",
+            "when は通常の音声で /wɛn/ "
+          ],
+          "kana": "アイ ハブ キーナーライズ ザン ユー ウェン サーチング フォー ダイモンズ"
+        },
+        {
+          "en": "I'm keener on redstone engineering than you are.",
+          "ja": "レッドストーン工学に関しては私はあなたより熱心です。",
+          "ipa": "/aɪm ˈkiːnər ɑn ˈrɛdstoʊn ˌɛndʒɪˈnɪɹɪŋ ðæn juː ɑɹ/",
+          "linking": [
+            "keener on → keener の語末 /r/ が on の母音 /ɑ/ に連結、[ˈkiːnəɹɑn] キーナーラン",
+            "than は /ðæn/、you are は /juː ɑɹ/"
+          ],
+          "kana": "アイム キーナーラン レッドストーン エンジニアリング ザン ユー アー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "keenest",
+      "ipa": "/ˈkiːnəst/",
+      "examples": [
+        {
+          "en": "That Enderman has the keenest eyes you'll ever see in the Nether.",
+          "ja": "そのエンダーマンはネザーで今までに見た中で最も鋭い目を持っています。",
+          "ipa": "/ðæt ˈɛndɚmæn hæz ðə ˈkiːnəst aɪz juːl ˈɛvɚ si ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "keenest eyes → keenest の語末 /t/ が eyes の母音 /aɪ/ に挟まれてフラップ化、[ˈkiːnəɾaɪz] キーナライズ",
+            "you'll → you /juː/ が短縮形で /l/ が維持される"
+          ],
+          "kana": "ザット エンダーマン ハズ ザ キーナライズ ユール エバー シー イン ザ ネザー"
+        },
+        {
+          "en": "We need the keenest adventurer for this dangerous mining expedition.",
+          "ja": "この危険な採掘遠征には最も敏感な冒険者が必要です。",
+          "ipa": "/wi niːd ðə ˈkiːnəst ədˈvɛntʃɚ fɚ ðɪs ˈdeɪndʒərəs ˈmaɪnɪŋ ˌɛkspoˈdɪʃən/",
+          "linking": [
+            "keenest adventurer → keenest の語末 /t/ が adventurer の /ə/ に挟まれてフラップ化し連結、[ˈkiːnəɾə] キーナラ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ニード ザ キーナラ ドベンチャー フォー ディス デインジャラス マイニング エクスペディション"
+        }
+      ]
+    }
   ]
 }

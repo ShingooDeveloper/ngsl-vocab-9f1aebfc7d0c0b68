@@ -75,5 +75,169 @@
       ],
       "kana": "ザ マッ ヒンツ ア フォートリス イン ザ ネザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "hints",
+      "ipa": "/hɪnts/",
+      "examples": [
+        {
+          "en": "The map contained helpful hints for finding rare biomes.",
+          "ja": "地図には珍しいバイオームを見つけるための役立つヒントが含まれていました。",
+          "ipa": "/ðə ˈmæp kənˈteɪnd ˈhɛlpfəl ˈhɪnts fɔr ˈfaɪndɪŋ ˈrɛr baɪˈoʊmz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "helpful hints → /l/ が子音 /h/ に続く（連結なし）",
+            "hints for → /s/ が子音 /f/ に続く（連結なし）"
+          ],
+          "kana": "ザ マップ コンテインド ヘルプフル ヒンツ フォー ファインディング レアー バイオームズ"
+        },
+        {
+          "en": "I dropped some hints about the secret treasure location.",
+          "ja": "秘密の宝物の場所についていくつかのヒントを与えました。",
+          "ipa": "/aɪ ˈdrɑpt səm ˈhɪnts əˈbaʊt ðə ˈsiːkrət ˈtrɛʒər loʊˈkeɪʃən/",
+          "linking": [
+            "dropped some → /t/ が子音 /s/ に続く（連結なし）",
+            "some hints → /m/ が子音 /h/ に続く（連結なし）",
+            "hints about → /s/ が母音 /ə/ に連結 [ˈhɪnts əˈbaʊt] ヒンツ・ア・バウト",
+            "about the → /t/ が子音 /ð/ に続く（連結なし）、the は弱形"
+          ],
+          "kana": "アイ ドロップト サム ヒンツ アバウト ザ シークリット トレジャー ロウケーション"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "hints",
+      "ipa": "/hɪnts/",
+      "examples": [
+        {
+          "en": "The texture pack hints at a mysterious update.",
+          "ja": "そのテクスチャーパックは謎めいたアップデートをほのめかしています。",
+          "ipa": "/ðə ˈtɛkstʃər ˈpæk ˈhɪnts ət ə mɪˈstɪriəs ʌpˈdeɪt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "pack hints → /k/ が子音 /h/ に続く（連結なし）",
+            "hints at → /s/ が母音 /ə/ に連結 [ˈhɪnts ət] ヒンツ・ア",
+            "at a → /t/ が母音 /ə/ に連結してフラップ化 [əɾə] アラ"
+          ],
+          "kana": "ザ テクスチャー パック ヒンツ ア ミステリアス アップデイト"
+        },
+        {
+          "en": "She hints at hidden treasures throughout the game.",
+          "ja": "彼女はゲーム全体を通じて隠された宝物をほのめかしています。",
+          "ipa": "/ʃi ˈhɪnts ət ˈhɪdən ˈtrɛʒərz θruˈaʊt ðə ˈɡeɪm/",
+          "linking": [
+            "hints at → /s/ が母音 /ə/ に連結 [ˈhɪnts ət] ヒンツ・ア",
+            "at hidden → /t/ が子音 /h/ に続く（連結なし）",
+            "treasures throughout → /z/ が子音 /θ/ に続く（連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー ヒンツ ア ヒドゥン トレジャーズ スルーアウト ザ ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "hinted",
+      "ipa": "/ˈhɪntɪd/",
+      "examples": [
+        {
+          "en": "The admin hinted at new biomes coming to the server.",
+          "ja": "管理者は新しいバイオームがサーバーに来ることをほのめかしました。",
+          "ipa": "/ðə ˈædmɪn ˈhɪntɪd ət ˈnu baɪˈoʊmz ˈkʌmɪŋ tu ðə ˈsɝːvər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin hinted → /n/ が子音 /h/ に続く（連結なし）",
+            "hinted at → /d/ が母音 /ə/ に連結 [ˈhɪntəd ət] ヒンティッド・ア",
+            "coming to → /ŋ/ が子音 /t/ に続く（連結なし）",
+            "to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ヒンティッド ア ニュー バイオームズ カミング トゥ ザ サーバー"
+        },
+        {
+          "en": "The signs hinted at treasure buried under the mountain.",
+          "ja": "看板は山の下に埋められた宝物の存在をほのめかしていました。",
+          "ipa": "/ðə ˈsaɪnz ˈhɪntɪd ət ˈtrɛʒər ˈbɛrid ˈʌndər ðə ˈmaʊntn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "signs hinted → /z/ が子音 /h/ に続く（連結なし）",
+            "hinted at → /d/ が母音 /ə/ に連結 [ˈhɪntəd ət] ヒンティッド・ア",
+            "buried under → /d/ が母音 /ʌ/ に連結 [ˈbɛrid ˈʌndər] ベリッド・アンダー",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ サインズ ヒンティッド ア トレジャー ベリッド アンダー ザ マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "hinted",
+      "ipa": "/ˈhɪntɪd/",
+      "examples": [
+        {
+          "en": "Having hinted at the secret location, we waited for their reaction.",
+          "ja": "秘密の場所をほのめかしたので、私たちは彼らの反応を待っていました。",
+          "ipa": "/ˈhævɪŋ ˈhɪntɪd ət ðə ˈsiːkrət loʊˈkeɪʃən | wi ˈweɪtəd fɔr ðɛr riˈækʃən/",
+          "linking": [
+            "having hinted → /ŋ/ が子音 /h/ に続く（連結なし）",
+            "hinted at → /d/ が母音 /ə/ に連結 [ˈhɪntəd ət] ヒンティッド・ア",
+            "at the → /t/ が子音 /ð/ に続く（連結なし）",
+            "waited for → /d/ が子音 /f/ に続く（連結なし）"
+          ],
+          "kana": "ハービング ヒンティッド ア ザ シークリット ロウケーション、ウィ ウェイティッド フォー ゼア リアクション"
+        },
+        {
+          "en": "The hinted clues led us directly to the diamonds.",
+          "ja": "ほのめかされた手がかりは、私たちをダイヤモンドに直接導きました。",
+          "ipa": "/ðə ˈhɪntɪd ˈkluːz ˈlɛd əs dəˈrɛktli tu ðə ˈdaɪməndz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "hinted clues → /d/ が子音 /k/ に続く（連結なし）",
+            "clues led → /z/ が子音 /l/ に続く（連結なし）",
+            "led us → /d/ が母音 /ə/ に連結 [ˈlɛd əs] レッド・アス",
+            "to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ ヒンティッド クルーズ レッド アス ダイレクトリー トゥ ザ ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "hinting",
+      "ipa": "/ˈhɪntɪŋ/",
+      "examples": [
+        {
+          "en": "The environment is hinting at dangerous mobs nearby.",
+          "ja": "その環境は近くの危険なモブの存在をほのめかしています。",
+          "ipa": "/ðə ɪnˈvaɪrənmənt ɪz ˈhɪntɪŋ ət ˈdeɪndʒərəs ˈmɑbz ˈnɪrˌbaɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is hinting → /z/ が子音 /h/ に続く（連結なし）",
+            "hinting at → /ŋ/ が母音 /ə/ に連結 [ˈhɪntɪŋ ət] ヒンティング・ア",
+            "at dangerous → /t/ が子音 /d/ に続く（連結なし）"
+          ],
+          "kana": "ザ エンバイロンメント イズ ヒンティング ア デインジャラス モブズ ニアーバイ"
+        },
+        {
+          "en": "By hinting at the treasure, the mapmaker made the adventure more fun.",
+          "ja": "宝物をほのめかすことによって、地図製作者は冒険をより楽しくしました。",
+          "ipa": "/baɪ ˈhɪntɪŋ ət ðə ˈtrɛʒər | ðə ˈmæpˌmeɪkər ˈmeɪd ðə ədˈvɛntʃər ˈmɔr ˈfʌn/",
+          "linking": [
+            "hinting at → /ŋ/ が母音 /ə/ に連結 [ˈhɪntɪŋ ət] ヒンティング・ア",
+            "at the → /t/ が子音 /ð/ に続く（連結なし）、the は弱形 /ðə/",
+            "made the → /d/ が子音 /ð/ に続く（連結なし）",
+            "more fun → /r/ が子音 /f/ に続く（連結なし）"
+          ],
+          "kana": "バイ ヒンティング ア ザ トレジャー、ザ マップメイカー メイド ザ アドベンチャー モアー ファン"
+        }
+      ]
+    }
   ]
 }

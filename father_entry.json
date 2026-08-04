@@ -29,7 +29,7 @@
       "ipa": "/ðə ˈfɑðər əv ˈmaɪnˌkræft ˈkriˌeɪtəd ə ˌrɛvəˈluːʃəneri ˈɡeɪm/",
       "kana": "ザ ファーザー アヴ マインクラフト クリエイテッド ア レヴォリューショナリー ゲイム",
       "linking": [
-        "the は弱形 /ðə/ に弱化。father に連結 [ðəˈfɑðər]",
+        "the は弱形 /ðə/ に弱化",
         "of は弱形 /əv/ に弱化"
       ]
     },
@@ -39,8 +39,7 @@
       "ipa": "/aɪ ˈspɛnt ðə ˈæftərˌnun ˈbɪldɪŋ ə haʊs wɪð maɪ ˈfɑðər/",
       "kana": "アイ スペント ザ アフターヌーン ビルディング ア ハウス ウィズ マイ ファーザー",
       "linking": [
-        "the は弱形 /ðə/ に弱化。afternoon に連結 [ðəˈæftərˌnun]",
-        "with は /wɪð/。my father /maɪ ˈfɑðər/ に続く"
+        "the は弱形 /ðə/ に弱化"
       ]
     }
   ],
@@ -181,6 +180,87 @@
           "linking": [
             "the は弱形 /ðə/ に弱化。server に連結 [ðəˈsɜrvər]",
             "keeps の語末 /s/ が growing の /ɡ/ に続く（自然な分かち書き）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is fathering",
+      "ipa": "/ɪz ˈfɑðərɪŋ/",
+      "examples": [
+        {
+          "en": "He is fathering the new building competition on the server.",
+          "ja": "彼はサーバーで新しい建築コンテストを主導しています。",
+          "ipa": "/hi ɪz ˈfɑðərɪŋ ðə ˈnu ˈbɪldɪŋ ˌkɑmpɪˈtɪʃən ɑn ðə ˈsɜrvər/",
+          "kana": "ヒー イズ ファーザーリング ザ ニュー ビルディング コンペティション オン ザ サーヴァー",
+          "linking": [
+            "is は弱形 /ɪz/ に弱化"
+          ]
+        },
+        {
+          "en": "She is fathering new talent in the creative mode right now.",
+          "ja": "彼女は今、クリエイティブモードで新しい才能を育成しています。",
+          "ipa": "/ʃi ɪz ˈfɑðərɪŋ ˈnu ˈtælənt ɪn ðə kriˈeɪtɪv ˈmoʊd ˈraɪt ˈnaʊ/",
+          "kana": "シー イズ ファーザーリング ニュー タレント イン ザ クリエイティヴ モウド ライト ナウ",
+          "linking": [
+            "is は弱形 /ɪz/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was fathering",
+      "ipa": "/wəz ˈfɑðərɪŋ/",
+      "examples": [
+        {
+          "en": "He was fathering the entire building community when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼はビルディングコミュニティ全体を主導していました。",
+          "ipa": "/hi wəz ˈfɑðərɪŋ ðə ənˈtaɪər ˈbɪldɪŋ kəˈmjunəti wɛn ðə ˈsɜrvər ˈkræʃt/",
+          "kana": "ヒー ワズ ファーザーリング ザ エンタイア ビルディング カミューニティ ウェン ザ サーヴァー クラッシュト",
+          "linking": [
+            "was は弱形 /wəz/ に弱化",
+            "the は弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "They were fathering new gaming traditions at that time.",
+          "ja": "その時、彼らは新しいゲーミングの伝統を創造していました。",
+          "ipa": "/ðeɪ wər ˈfɑðərɪŋ ˈnu ˈɡeɪmɪŋ trəˈdɪʃənz æt ðæt ˈtaɪm/",
+          "kana": "ゼイ ワー ファーザーリング ニュー ゲイミング トラディションズ アット ザット タイム",
+          "linking": [
+            "were は /wər/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been fathering",
+      "ipa": "/əd bɪn ˈfɑðərɪŋ/",
+      "examples": [
+        {
+          "en": "By the time he quit, he had been fathering the server for three years.",
+          "ja": "彼が辞めた時までに、彼は3年間サーバーを主導していました。",
+          "ipa": "/baɪ ðə ˈtaɪm hi ˈkwɪt hi əd bɪn ˈfɑðərɪŋ ðə ˈsɜrvər fɔr ˈθri ˈjɪrz/",
+          "kana": "バイ ザ タイム ヒー クウィット ヒー ド ビン ファーザーリング ザ サーヴァー フォア スリー イヤーズ",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "had は弱形 /əd/ に弱化"
+          ]
+        },
+        {
+          "en": "She had been fathering the creative culture before anyone noticed.",
+          "ja": "誰かが気づく前に、彼女はクリエイティブな文化を育成していました。",
+          "ipa": "/ʃi əd bɪn ˈfɑðərɪŋ ðə kriˈeɪtɪv ˈkʌltʃər bɪˈfɔr ˈɛniˌwʌn ˈnoʊtɪst/",
+          "kana": "シー ド ビン ファーザーリング ザ クリエイティヴ カルチャー ビフォア エニワン ノウティスト",
+          "linking": [
+            "had は弱形 /əd/ に弱化",
+            "the は弱形 /ðə/ に弱化"
           ]
         }
       ]

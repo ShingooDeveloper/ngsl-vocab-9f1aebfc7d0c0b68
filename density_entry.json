@@ -56,5 +56,35 @@
       ],
       "kana": "ザ ポピュレーション デンシティ イン マイ マイニング ベース イズ ゲッティング クラウディッド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "densities",
+      "ipa": "/ˈdɛnsɪtiz/",
+      "examples": [
+        {
+          "en": "Ore densities vary by depth in the world.",
+          "ja": "世界では、鉱石の密度は深さによって異なります。",
+          "ipa": "/ɔr ˈdɛnsɪtiz ˈvɛri baɪ dɛpθ ɪn ðə wɜrld/",
+          "linking": [
+            "ore の語末子音 /r/ が母音 /ˈ/ に連結 [ɔrˈdɛnsɪtiz]→オアデンシティズ",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "オアデンシティズ ベリー バイ デプス イン ザ ワールド"
+        },
+        {
+          "en": "Different biome densities affect spawn rates.",
+          "ja": "異なるバイオームの密度は、モブのスポーンレートに影響します。",
+          "ipa": "/ˈdɪfərənt ˈbaɪoʊm ˈdɛnsɪtiz əˈfɛkts speɪn reɪts/",
+          "linking": [
+            "biome の語末子音 /m/ が母音 /ˈ/ に連結 [ˈbaɪoʊmˈdɛnsɪtiz]→バイオームデンシティズ",
+            "densities の語末子音 /z/ が母音 /ə/ に連結。affect は弱形 /əˈfɛkts/ に [ˈdɛnsɪtizəˈfɛkts]→デンシティズアフェクツ"
+          ],
+          "kana": "ディファレント バイオームデンシティズアフェクツ スペイン レイツ"
+        }
+      ]
+    }
   ]
 }

@@ -76,5 +76,135 @@
       ],
       "kana": "イーチ プレイアー マスト アンダー テイク リスポンシビリティ ファー プロテクティング ザ ビレッジ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "undertakes",
+      "ipa": "/ʌndərˈteɪks/",
+      "examples": [
+        {
+          "en": "She undertakes the task of building a massive mining operation.",
+          "ja": "彼女は巨大な採掘事業を建設するという任務に着手します。",
+          "ipa": "/ʃi ʌndərˈteɪks ðə ˈtæsk əv ˈbɪldɪŋ ə ˈmæsɪv ˈmaɪnɪŋ ˌɑpərˈeɪʃən/",
+          "linking": [
+            "undertakes the → /ks/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "task of → 語末子音 /k/ が弱形 /əv/ に連結 [ˈtæsk əv]",
+            "building a → 語末 /ŋ/ が弱形 /ə/ に連結 [ˈbɪldɪŋ ə]",
+            "mining operation → 語末 /ŋ/ が /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑ]"
+          ],
+          "kana": "シー アンダー テイクス ザ タスク オブ ビルディング ア マッシヴ マイニング オペレイション"
+        },
+        {
+          "en": "Every player undertakes important responsibilities to maintain the server stability.",
+          "ja": "すべてのプレイヤーは、サーバー安定性を維持するための重要な責任を引き受けます。",
+          "ipa": "/ˈɛvri ˈpleɪər ʌndərˈteɪks ɪmˈpɔrtənt ˌrɛspɑnsəˈbɪlətiz tu meɪnˈteɪn ðə ˈsɝvər stəˈbɪləti/",
+          "linking": [
+            "player undertakes → 語末 /r/ が /ʌ/ に連結 [ˈpleɪər ʌndərˈteɪks]",
+            "undertakes important → 語末 /ks/ が母音 /ɪ/ に続く、連結なし",
+            "to maintain → to は弱形 /tə/ (母音で終わる)、maintain の /m/ (子音)に続く",
+            "maintain the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "エブリー プレイアー アンダー テイクス イムポテント リスポンシビリティーズ トゥー メインテイン ザ サーバー ステービリティー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "undertook",
+      "ipa": "/ʌndərˈtʊk/",
+      "examples": [
+        {
+          "en": "We undertook a daring expedition to find the End stronghold deep underground.",
+          "ja": "地下深くのエンド要塞を見つけるための大胆な遠征に着手しました。",
+          "ipa": "/wi ʌndərˈtʊk ə ˈdɛrɪŋ ɛkspɪˈdɪʃən tu ˈfaɪnd ðə ˈɛnd ˈstrɔŋˌhoʊld ˈdip ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "undertook a → 語末子音 /k/ が弱形 /ə/ に連結 [ʌndərˈtʊk ə]",
+            "a daring → a は弱形 /ə/、daring と連結 [ə ˈdɛrɪŋ]",
+            "to find → to は弱形 /tə/ (母音で終わる)、find の /f/ (子音)に続く",
+            "find the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アンダー トゥック ア デリング エクスペディション トゥ ファインド ザ エンド ストロングホールド ディープ アンダーグラウンド"
+        },
+        {
+          "en": "They undertook the responsibility of protecting everyone's buildings and resources.",
+          "ja": "彼らは全員の建物と資源を保護する責任を引き受けました。",
+          "ipa": "/ðeɪ ʌndərˈtʊk ðə ˌrɛspɑnsəˈbɪləti əv prəˈtɛktɪŋ ˈɛvriˌwʌnz ˈbɪldɪŋz‿ənd ˈrɛsɚsɪz/",
+          "linking": [
+            "undertook the → 語末子音 /k/ が弱形 /ðə/ に連結 [ʌndərˈtʊk ðə]",
+            "of protecting → of は弱形 /əv/、protecting に連結 [əv prəˈtɛktɪŋ]",
+            "protecting everyone's → 語末 /ŋ/ が /ɛ/ に連結 [prəˈtɛktɪŋ ˈɛvriˌwʌnz]",
+            "buildings and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈbɪldɪŋz‿ənd]"
+          ],
+          "kana": "ゼイ アンダー トゥック ザ レスポンシビリティー オブ プロテクティング エブリワンズ ビルディングス アンド リソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "undertaken",
+      "ipa": "/ʌndərˈteɪkən/",
+      "examples": [
+        {
+          "en": "Having undertaken extensive mining operations, we discovered three diamond veins.",
+          "ja": "広範な採掘事業を行った後、ダイヤモンドの鉱脈を3つ発見しました。",
+          "ipa": "/ˈheɪvɪŋ ʌndərˈteɪkən ɪkˈstɛnsɪv ˈmaɪnɪŋ ˌɑpərˈeɪʃənz | wi dɪˈskʌvərd ˈθriː ˈdaɪmənd ˈveɪnz/",
+          "linking": [
+            "Having undertaken → 語末 /ŋ/ が /ʌ/ に連結 [ˈheɪvɪŋ ʌndərˈteɪkən]",
+            "undertaken extensive → 語末 /ən/ が /ɪ/ に連結 [ʌndərˈteɪkən ɪkˈstɛnsɪv]",
+            "mining operations → 語末 /ŋ/ が /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑ]",
+            "discovered three → /d/ + /θ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヘイヴィング アンダー テイケン イクステンシヴ マイニング オペレイションズ、ウィ ディスカバード スリー ダイアマンド ベインズ"
+        },
+        {
+          "en": "The massive castle has undertaken three months of construction.",
+          "ja": "その巨大な城は3ヶ月間の建設を行っています。",
+          "ipa": "/ðə ˈmæsɪv ˈkæsəl həz ʌndərˈteɪkən ˈθriː ˈmʌnθs əv kənˈstrʌkʃən/",
+          "linking": [
+            "castle has → /l/ + /h/ (consonant+consonant、連結なし)、has は弱形 /həz/",
+            "has undertaken → 語末 /z/ が /ʌ/ に連結 [həz ʌndərˈteɪkən]",
+            "undertaken three → 語末 /ən/ が /θ/ に続く（子音+子音、連結なし）",
+            "of construction → of は弱形 /əv/、construction に連結 [əv kənˈstrʌkʃən]"
+          ],
+          "kana": "ザ マッシヴ キャッスル ハズ アンダー テイケン スリー マンスズ オブ コンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "undertaking",
+      "ipa": "/ʌndərˈteɪkɪŋ/",
+      "examples": [
+        {
+          "en": "Undertaking a complete base renovation requires careful planning and teamwork.",
+          "ja": "基地全体の改装を行うことは、慎重な計画とチームワークが必要です。",
+          "ipa": "/ʌndərˈteɪkɪŋ ə kəmˈplit ˈbeɪs ˌrɛnəˈveɪʃən rɪˈkwaɪrz ˈkɛrfəl ˈplænɪŋ‿ənd ˈtimˌwɝk/",
+          "linking": [
+            "Undertaking a → 語末 /ŋ/ が弱形 /ə/ に連結 [ʌndərˈteɪkɪŋ ə]",
+            "a complete → a は弱形 /ə/、complete に連結 [ə kəmˈplit]",
+            "base renovation → /s/ + /r/ (consonant+consonant、連結なし)",
+            "planning and → 語末 /ŋ/ が弱形 /ə/ に連結、and は弱形 /ənd/ [ˈplænɪŋ‿ənd]"
+          ],
+          "kana": "アンダー テイキング ア コンプリート ベース レノベイション リクワイアーズ ケアフル プランニング アンド ティームワーク"
+        },
+        {
+          "en": "By undertaking this quest, players will earn valuable rewards and achievements.",
+          "ja": "このクエストを引き受けることで、プレイヤーは貴重な報酬と達成を得ることができます。",
+          "ipa": "/baɪ ʌndərˈteɪkɪŋ ðɪs ˈkwɛst | ˈpleɪərz wɪl ˈɝn ˈvæljəbəl rɪˈwɔrdz‿ənd əˈtʃivmənts/",
+          "linking": [
+            "undertaking this → 語末 /ŋ/ が /ð/ に続く（子音+子音、連結なし）",
+            "this quest → /s/ + /k/ (consonant+consonant、連結なし)",
+            "players will → /z/ + /w/ (consonant+consonant、連結なし)、will は弱形 /wɪl/",
+            "rewards and → 語末 /z/ が弱形 /ə/ に連結、and は弱形 /ənd/ [rɪˈwɔrdz‿ənd]"
+          ],
+          "kana": "バイ アンダー テイキング ディス クエスト、プレイヤーズ ウィル アーン ヴァリュアボル リウォーズ アンド アチーブメンツ"
+        }
+      ]
+    }
   ]
 }

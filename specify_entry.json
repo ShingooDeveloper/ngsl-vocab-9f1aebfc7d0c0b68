@@ -42,5 +42,120 @@
       "kana": "メイク シュア ユー スペシファイ ザ エンチャントメント レベル"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "specifies",
+      "ipa": "/spɛˈsɪfaɪz/",
+      "examples": [
+        {
+          "en": "She specifies the block type in the command.",
+          "ja": "彼女はコマンドでブロックタイプを指定します。",
+          "ipa": "/ʃi spɛˈsɪfaɪz ðə blɑk taɪp ɪn ðə kəˈmænd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。She specifies で /z/ が ðə の /ð/ に連なる",
+            "in the は /ɪn ðə/ で、the は弱形"
+          ],
+          "kana": "シー スペシファイズ ザ ブロック タイプ イン ザ コマンド"
+        },
+        {
+          "en": "The recipe specifies exactly what items you need.",
+          "ja": "レシピは正確に必要なアイテムを指定します。",
+          "ipa": "/ðə ˈrɛsəpi spɛˈsɪfaɪz ɪɡˈzæktli wɑt ˈaɪtəmz ju ˈniːd/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "you は意味的に弱くなりうるが、ここでは強形で発音"
+          ],
+          "kana": "ザ レシピ スペシファイズ イグザクトリー ホワット アイテムズ ユー ニード"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "specified",
+      "ipa": "/ˈspɛsɪfaɪd/",
+      "examples": [
+        {
+          "en": "I specified the dimensions of the structure.",
+          "ja": "構造の寸法を指定しました。",
+          "ipa": "/aɪ ˈspɛsɪfaɪd ðə dɪˈmɛnʃənz əv ðə ˈstrʌktʃɚ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（2回）",
+            "of は弱形 /əv/ アブ"
+          ],
+          "kana": "アイ スペシファイド ザ ディメンションズ アブ ザ ストラクチャー"
+        },
+        {
+          "en": "We specified which materials to use for the build.",
+          "ja": "建設に使用する材料を指定しました。",
+          "ipa": "/wi ˈspɛsɪfaɪd wɪtʃ məˈtɪriəlz tə ˈjuz fɚ ðə bɪld/",
+          "linking": [
+            "to は弱形 /tə/ タ",
+            "for は弱形 /fɚ/ ファー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ スペシファイド ウィッチ マテリアルズ タ ユーズ ファー ザ ビルド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "specified",
+      "ipa": "/ˈspɛsɪfaɪd/",
+      "examples": [
+        {
+          "en": "The specified blocks have been placed correctly.",
+          "ja": "指定されたブロックは正しく配置されました。",
+          "ipa": "/ðə ˈspɛsɪfaɪd blɑks əv bɪn pleɪst ˈkɛrəktli/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "have は弱形 /əv/ アブ、been は /bɪn/"
+          ],
+          "kana": "ザ スペシファイド ブロック ス アブ ビン プレイスト コレクトリー"
+        },
+        {
+          "en": "Unless you have specified a custom color, it defaults to white.",
+          "ja": "カスタムカラーを指定していない限り、白がデフォルトになります。",
+          "ipa": "/ənˈlɛs ju əv ˈspɛsɪfaɪd ə ˈkʌstəm ˈkʌlər ɪt ˈdɪfɔlts tə waɪt/",
+          "linking": [
+            "have は弱形 /əv/ アブ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "アンレス ユー アブ スペシファイド ア カスタム カラー イット ディフォルツ タ ホワイト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "specifying",
+      "ipa": "/ˈspɛsɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "By specifying the exact coordinates, we found the hidden base.",
+          "ja": "正確な座標を指定することで、隠れた基地を見つけました。",
+          "ipa": "/baɪ ˈspɛsɪfaɪɪŋ ðə ɪɡˈzækt koʊˈɔrdənɪts wi ˈfaʊnd ðə ˈhɪdn ˈbeɪs/",
+          "linking": [
+            "by は弱形 /baɪ/（機能語だが多くの場合強形で発音）",
+            "the は弱形 /ðə/ ザ（2回）"
+          ],
+          "kana": "バイ スペシファイイング ザ イグザクト コーディネイツ ウィ ファウンド ザ ヒドゥン ベイス"
+        },
+        {
+          "en": "When specifying mods, be careful with version compatibility.",
+          "ja": "MODを指定する際は、バージョンの互換性に注意してください。",
+          "ipa": "/wɛn ˈspɛsɪfaɪɪŋ mɑdz bi ˈkɛrfəl wɪð ˈvɝʒən kəmˌpætəˈbɪləti/",
+          "linking": [
+            "be は弱形 /bi/ ビー",
+            "with は語末が無声子音 /ð/。次の /v/ と連なるが、with の語末は未開放 [wɪð̚]"
+          ],
+          "kana": "ホェン スペシファイイング モッズ ビー ケアフル ウィズ バージョン コンパティビリティー"
+        }
+      ]
+    }
+  ]
 }

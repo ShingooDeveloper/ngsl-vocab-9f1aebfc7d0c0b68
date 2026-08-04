@@ -45,6 +45,151 @@
       "kana": "ザ サーヴァーズ プレミシズ アー プロテクティド バイ アイアン ゴウレムズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "premises",
+      "ipa": "/ˈpremɪsɪz/",
+      "examples": [
+        {
+          "en": "Our mining premises are being attacked by witches.",
+          "ja": "私たちの採掘施設が魔女に攻撃されています。",
+          "ipa": "/aɚ ˈmaɪnɪŋ ˈpremɪsɪz ɑr bɪˈɪŋ əˈtækt baɪ ˈwɪtʃɪz/",
+          "linking": [
+            "Our は所有代名詞で弱形 /aɚ/。mining に連結",
+            "premises の末尾 /z/ が are の初頭に連結 [ˈpremɪsɪz ɑr] プレミシズ アー。are は弱形 /ɑr/",
+            "attacked の末尾 /t/ が by の初頭に続く（未開放）[əˈtækt̚ baɪ] アタクト バイ"
+          ],
+          "kana": "アワー マイニング プレミシズ アー ビーイング アタクト バイ ウィチーズ"
+        },
+        {
+          "en": "These secure premises keep our valuables safe from raids.",
+          "ja": "これらの安全な敷地は私たちの貴重品をレイドから守ります。",
+          "ipa": "/ðiz səˈkjɚ ˈpremɪsɪz kip aɚ ˈvæljəbəlz seɪf frəm ˈreɪdz/",
+          "linking": [
+            "These は冠詞で弱形 /ðiz/。secure に連結 [ðiz səˈkjɚ] ディーズ セキュアー",
+            "premises の末尾 /z/ が keep の初頭に連結 [ˈpremɪsɪz kip] プレミシズ キープ",
+            "from は弱形 /frəm/。raid に続く"
+          ],
+          "kana": "ディーズ セキュアー プレミシズ キープ アワー ヴァリュアブルズ セイフ フラム レイズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "premises",
+      "ipa": "/ˈpremɪsɪz/",
+      "examples": [
+        {
+          "en": "This design premises that water blocks flow only downward.",
+          "ja": "この設計は、水ブロックが下向きにのみ流れることを前提としています。",
+          "ipa": "/ðɪs dɪˈzaɪn ˈpremɪsɪz ðæt ˈwɔtər blɑks floʊ ˈoʊnli ˈdaʊnwərd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。design に連結 [ðɪs dɪˈzaɪn] ディス ディザイン",
+            "premises の末尾 /z/ が that の初頭に連結 [ˈpremɪsɪz ðæt] プレミシズ ザット"
+          ],
+          "kana": "ディス ディザイン プレミシズ ザット ウォーター ブラックス フロウ オウンリー ダウンワード"
+        },
+        {
+          "en": "Our strategy premises that diamonds spawn below level sixteen.",
+          "ja": "私たちの戦略は、ダイヤモンドがレベル16以下でスポーンすることを前提としています。",
+          "ipa": "/aɚ ˈstrætədʒi ˈpremɪsɪz ðæt ˈdaɪməndz spoʊn bɪˈloʊ ˈlɛvəl sɪkˈstin/",
+          "linking": [
+            "strategy の末尾 /i/ が premise の初頭に続く",
+            "premises の末尾 /z/ が that の初頭に連結 [ˈpremɪsɪz ðæt] プレミシズ ザット"
+          ],
+          "kana": "アワー ストラテジー プレミシズ ザット ダイモンズ スポウン ビロウ レヴル シクスティーン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "premised",
+      "ipa": "/ˈpremɪst/",
+      "examples": [
+        {
+          "en": "We premised our fortress on thick obsidian walls.",
+          "ja": "私たちは、厚い黒曜石の壁を前提として要塞を建設しました。",
+          "ipa": "/wi ˈpremɪst aɚ ˈfɔrtrəs ɑn θɪk əbˈsɪdiən wɔlz/",
+          "linking": [
+            "We は人称代名詞 /wi/。premised に続く",
+            "premised の末尾 /t/ が our の初頭に連結 [ˈpremɪst aɚ] プレミスト アワー",
+            "on は前置詞で弱形 /ɑn/。thick に続く"
+          ],
+          "kana": "ウィ プレミスト アワー フォートレス アン スィック アプシディアン ウォールズ"
+        },
+        {
+          "en": "He premised that gathering wood comes before mining stone.",
+          "ja": "彼は、木を集めることが石採掘の前に来ることを前提としました。",
+          "ipa": "/hi ˈpremɪst ðæt ˈɡæðərɪŋ wʊd kəmz bɪˈfɔr ˈmaɪnɪŋ stoʊn/",
+          "linking": [
+            "He は人称代名詞で弱形 /hi/（またはやや強い /hi/）。premised に続く",
+            "premised の末尾 /t/ が that の初頭に続く（未開放または連結）[ˈpremɪst ðæt] プレミスト ザット"
+          ],
+          "kana": "ヒー プレミスト ザット ギャザリング ウッド カムズ ビフォア マイニング ストウン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "premised",
+      "ipa": "/ˈpremɪst/",
+      "examples": [
+        {
+          "en": "Having premised safety first, the base design succeeded.",
+          "ja": "安全を最優先として前提としたので、基地設計は成功しました。",
+          "ipa": "/ˈhævɪŋ ˈpremɪst ˈseɪfti fɝst ðə beɪs dɪˈzaɪn səkˈsidəd/",
+          "linking": [
+            "Having は現在分詞で /ˈhævɪŋ/。premised の初頭に続く",
+            "premised の末尾 /t/ が safety の初頭に続く（連結）[ˈpremɪst ˈseɪfti] プレミスト セイフティ"
+          ],
+          "kana": "ハヴィング プレミスト セイフティ ファースト ザ ベイス ディザイン サクシーディド"
+        },
+        {
+          "en": "Premised on efficient lighting, our farm runs smoothly.",
+          "ja": "効率的な照明を前提とすれば、私たちの農場は滑らかに動作します。",
+          "ipa": "/ˈpremɪst ɑn ɪˈfɪʃənt ˈlaɪtɪŋ aɚ fɑrm rənz ˈsmuðli/",
+          "linking": [
+            "Premised は過去分詞で /ˈpremɪst/。on の初頭に続く（末尾 /t/ は未開放）[ˈpremɪst̚ ɑn] プレミスト アン",
+            "efficient の末尾が lighting の初頭に続く"
+          ],
+          "kana": "プレミスト アン イフィシャント ライティング アワー ファーム ランズ スムーズリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "premising",
+      "ipa": "/ˈpremɪsɪŋ/",
+      "examples": [
+        {
+          "en": "Premising that coal is essential, we strip-mined an entire hillside.",
+          "ja": "石炭が不可欠であることを前提として、私たちは丘全体をはぎ取りました。",
+          "ipa": "/ˈpremɪsɪŋ ðæt koʊl ɪz ɪˈsɛnʃəl wi strɪp ˈmaɪnd ən ɪnˈtaɪər ˈhɪlsaɪd/",
+          "linking": [
+            "Premising の末尾 /ŋ/ が that の初頭に続く（語末鼻音 /ŋ/ は that の子音に先立つ）[ˈpremɪsɪŋ ðæt] プレミシング ザット",
+            "that は接続詞で弱形。coal に続く"
+          ],
+          "kana": "プレミシング ザット コウル イズ イセンシャル ウィ ストリップ マインド アン エンタイアー ヒルサイド"
+        },
+        {
+          "en": "By premising automation first, the redstone system became reliable.",
+          "ja": "最初に自動化を前提とすることで、レッドストーンシステムは信頼できるようになりました。",
+          "ipa": "/baɪ ˈpremɪsɪŋ ˌɔtəˈmeɪʃən fɝst ðə ˈrɛdˌstoʊn ˈsɪstəm bɪˈkeɪm rɪˈlaɪəbəl/",
+          "linking": [
+            "By は前置詞。premising に続く",
+            "premising の末尾 /ŋ/ が automation の初頭に続く [ˈpremɪsɪŋ ɔtəˈmeɪʃən] プレミシング オートメーション"
+          ],
+          "kana": "バイ プレミシング オートメーション ファースト ザ レッドストーン システム ビケーム リライアブル"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "on the premise that",

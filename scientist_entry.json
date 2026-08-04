@@ -46,6 +46,36 @@
       "kana": "イヴナ サイエンティスト ファインズ ジョイ イニクスプロアリング ヴァスト マインクラフト ワールズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "scientists",
+      "ipa": "/ˈsaɪəntɪsts/",
+      "examples": [
+        {
+          "en": "These scientists enjoy exploring abandoned structures and optimizing their designs.",
+          "ja": "これらの科学者たちは、放棄された構造物の探索と彼らの設計の最適化を楽しんでいます。",
+          "ipa": "/ðiz ˈsaɪəntɪsts ɪnˈdʒɔɪ ɪkˈsplɔrɪŋ əˈbændənd ˈstrʌktʃərz ənd ˈɑptɪmaɪzɪŋ ðɛr dɪˈzaɪnz/",
+          "linking": [
+            "exploring の語末子音 /ŋ/ が abandoned の母音 /ə/ に連結 [ɪkˈsplɔrɪŋ ə] エクスプロアリング ア",
+            "structures の語末子音 /z/ が and の母音 /ə/ に連結（and は弱形） [ˈstrʌktʃərz ənd] ストラクチャーズ アンド"
+          ],
+          "kana": "ディーズ サイエンティスツ インジョイ エクスプロアリング ア アバンドゥンド ストラクチャーズ アンド オプティマイジング ゼア ディザインズ"
+        },
+        {
+          "en": "Many scientists prefer studying the game mechanics to improve their understanding.",
+          "ja": "多くの科学者たちはゲームメカニクスの研究を好み、彼らの理解を向上させたいです。",
+          "ipa": "/ˈmɛni ˈsaɪəntɪsts prɪˈfɝ ˈstʌdiɪŋ ðə ɡeɪm məˈkænɪks tə ɪmˈpruv ðɛr ˌʌndərˈstændɪŋ/",
+          "linking": [
+            "studying の語末子音 /ŋ/ が the の母音 /ə/ に連結 [ˈstʌdiɪŋ ə] スタディング ザ",
+            "mechanics の語末子音 /s/ が to の母音 /ə/ に連結（to は弱形） [məˈkænɪks ə] メカニクス ト"
+          ],
+          "kana": "メニ サイエンティスツ プリファー スタディング ザ ゲイム メカニクス ト インプルーブ ゼア アンダースタンディング"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "like a scientist",

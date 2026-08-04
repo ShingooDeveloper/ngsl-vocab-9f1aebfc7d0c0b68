@@ -68,5 +68,63 @@
       ],
       "kana": "ア ユーニヴァーサル アプロゥチ トゥ レッドストゥン サーキッツ ヘルプセニ ビルダー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more universal",
+      "ipa": "mɔɹ ˌjuːnɪˈvɝːsl̩",
+      "examples": [
+        {
+          "en": "Diamond tools are more universal than stone tools for mining any block.",
+          "ja": "ダイヤモンド道具は石の道具よりも鉱石採掘に万能です。",
+          "ipa": "[ˈdaɪmənd ˈtuːlz ɑɹ mɔɹ ˌjuːnɪˈvɝːsl̩ ðən ˈstoʊn ˈtuːlz fɚ ˈmaɪnɪŋ ˈɛni blɑk]",
+          "linking": [
+            "tools の語末 /z/ が are の母音 /ɑ/ に連結 [ˈtuːlz ɑɹ] ツールザー",
+            "for は機能語で弱形 /fə/ に弱化"
+          ],
+          "kana": "ダイモンド ツールザー モア ユーニヴァーサル ザン ストーン ツールズ ファ マイニング エニー ブロック"
+        },
+        {
+          "en": "Water buckets are more universal than torches because they work in multiple situations.",
+          "ja": "水入りバケツは松明よりも複数の状況で万能に使えます。",
+          "ipa": "[ˈwɔɾɚ ˈbʌkɪts ɑɹ mɔɹ ˌjuːnɪˈvɝːsl̩ ðən ˈtɔɹtʃɪz bɪˈkɔz ðeɪ wɝk ɪn ˈmʌltɪpl̩ ˌsɪtʃuˈeɪʃənz]",
+          "linking": [
+            "Water の t が母音に挟まれてフラップ化 [ˈwɔɾɚ] ウォーラー",
+            "work の語末 /k/ が in の母音 /ɪ/ に連結 [wɝk ɪn] ワーク イン"
+          ],
+          "kana": "ウォーラー バケッツ アー モア ユーニヴァーサル ザン トーチーズ ビコーズ ゼイ ワーク イン マルティポル シチュエイションズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most universal",
+      "ipa": "moʊst ˌjuːnɪˈvɝːsl̩",
+      "examples": [
+        {
+          "en": "Crafting tables are the most universal crafting stations in the game.",
+          "ja": "クラフティングテーブルはゲーム内で最も万能なクラフト作業台です。",
+          "ipa": "[ˈkrɑftɪŋ ˈteɪblz ɑɹ ðə ˈmoʊst ˌjuːnɪˈvɝːsl̩ ˈkrɑftɪŋ ˈsteɪʃənz ɪn ðə ˈɡeɪm]",
+          "linking": [
+            "tables の語末 /z/ が are の母音 /ɑ/ に連結 [ˈteɪblz ɑɹ] テイブルザー",
+            "the は機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "クラフティング テイブルザー ザ モースト ユーニヴァーサル クラフティング ステイションズ イン ザ ゲイム"
+        },
+        {
+          "en": "Obsidian is the most universal material for building with nether blocks in the overworld.",
+          "ja": "黒曜石はオーバーワールドでネザー系ブロックを使って構築するのに最も万能な素材です。",
+          "ipa": "[ɑbˈsɪdiən ɪz ðə ˈmoʊst ˌjuːnɪˈvɝːsl̩ məˈtɪɹiəl fə ˈbɪldɪŋ wɪð ˈnɛðɚ blɑks ɪn ðe ˈoʊvɚwɝld]",
+          "linking": [
+            "materials の語末 /z/ が in の母音 /ɪ/ に連結 [məˈtɪɹiəlz ɪn] マテリアルズ イン",
+            "the は機能語で弱形 /ðə/（第1の the）と /ðe/（第2の the、母音の前で）に弱化"
+          ],
+          "kana": "アブシディアン イズ ザ モースト ユーニヴァーサル マテリアル ファ ビルディング ウィズ ネザー ブロックス イン ディ オーバーワールド"
+        }
+      ]
+    }
   ]
 }

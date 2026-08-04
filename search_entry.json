@@ -239,6 +239,102 @@
           "kana": "ワイル サーチング イン ザ ダーク、アイ ファウンド エン エメラルド オール ヴェイン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is searching",
+      "ipa": "/ɪz ˈsɝːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "The players are searching for diamonds deep underground.",
+          "ja": "プレイヤーたちは地下深くでダイヤモンドを探しています。",
+          "ipa": "/ðə ˈpleɪərz ɑr ˈsɝːtʃɪŋ fɔr ˈdaɪməndz dip ˌʌndərˈgraʊnd/",
+          "linking": [
+            "players の語末 /z/ が are の初頭母音 /ɑ/ に連結 [ˈpleɪərz ɑr] プレイヤーズ アー",
+            "are は弱形で /ɑr/。searching の /s/ に続く [ɑr ˈsɝːtʃɪŋ] アー サーチング",
+            "searching の /ŋ/ が for に続く。for は弱形 /fər/ [ˈsɝːtʃɪŋ fɔr] サーチング フォー",
+            "diamonds の語末 /z/ が deep に続く [ˈdaɪməndz dip] ダイモンズ ディープ"
+          ],
+          "kana": "ザ プレイヤーズ アー サーチング フォー ダイモンズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "I'm searching through the jungle temple for secret treasure.",
+          "ja": "ジャングルの寺院を通じて秘密の宝を探しています。",
+          "ipa": "/aɪm ˈsɝːtʃɪŋ θru ðə ˈdʒʌŋɡəl ˈtɛmpəl fɔr sɪˈkrɛt ˈtrɛʒər/",
+          "linking": [
+            "I'm の m が searching の /s/ に続く [aɪm ˈsɝːtʃɪŋ] アイム サーチング",
+            "searching の /ŋ/ が through に続く [ˈsɝːtʃɪŋ θru] サーチング スルー",
+            "jungle の語末 /l/ が temple の初頭母音 /ɛ/ に連結 [ˈdʒʌŋɡəl ˈtɛmpəl] ジャングル テンプル",
+            "temple の語末 /l/ が for に続く。for は弱形 /fər/ [ˈtɛmpəl fɔr] テンプル フォー"
+          ],
+          "kana": "アイム サーチング スルー ザ ジャングル テンプル フォー シークレット トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was searching",
+      "ipa": "/wəz ˈsɝːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "We were searching in the cave when a creeper appeared.",
+          "ja": "洞窟で探索していたとき、クリーパーが現れました。",
+          "ipa": "/wi wər ˈsɝːtʃɪŋ ɪn ðə ˈkeɪv wɛn ə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "we の w が were に続く [wi wər] ウィ ワー",
+            "were は弱形で /wər/。searching の /s/ に続く [wər ˈsɝːtʃɪŋ] ワー サーチング",
+            "searching の /ŋ/ が in に続く [ˈsɝːtʃɪŋ ɪn] サーチング イン",
+            "cave の語末 /v/ が when に続く [ˈkeɪv wɛn] ケイヴ ウェン"
+          ],
+          "kana": "ウィ ワー サーチング イン ザ ケイヴ ウェン ア クリーパー アピアード"
+        },
+        {
+          "en": "He was searching for the stronghold when he fell into a ravine.",
+          "ja": "彼が要塞を探索していたとき、渓谷に落ちました。",
+          "ipa": "/hi wəz ˈsɝːtʃɪŋ fɔr ðə ˈstrɔŋˌhoʊld wɛn hi ˈfɛl ˈɪntu ə rəˈvin/",
+          "linking": [
+            "he の h が was に続く [hi wəz] ヒー ワズ",
+            "was は弱形で /wəz/。searching の /s/ に続く [wəz ˈsɝːtʃɪŋ] ワズ サーチング",
+            "searching の /ŋ/ が for に続く。for は弱形 /fər/ [ˈsɝːtʃɪŋ fɔr] サーチング フォー",
+            "fell の語末 /l/ が into の初頭母音 /ɪ/ に連結 [ˈfɛl ˈɪntu] フェル イントゥ"
+          ],
+          "kana": "ヒー ワズ サーチング フォー ザ ストロングホールド ウェン ヒー フェル イントゥ ア ラヴィン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been searching",
+      "ipa": "/həd bɪn ˈsɝːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we found the End portal, we had been searching for three hours.",
+          "ja": "エンドポータルを見つけるまでに、私たちは3時間探索していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈɛnd ˈpɔrtəl | wi həd bɪn ˈsɝːtʃɪŋ fɔr θri ˈaʊərz/",
+          "linking": [
+            "by の語末 /aɪ/ が the に続く。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "found の語末 /d/ が the に連結 [ˈfaʊnd ðə] ファウンド ザ",
+            "had は弱形で /həd/。been に続く [həd bɪn] ハド ビン",
+            "been は弱形で /bɪn/。searching の /s/ に続く [bɪn ˈsɝːtʃɪŋ] ビン サーチング"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド ザ エンド ポータル、ウィ ハド ビン サーチング フォー スリー アワーズ"
+        },
+        {
+          "en": "They had been searching through the desert temples for an hour when they found the treasure map.",
+          "ja": "彼らは1時間砂漠の寺院を探索していたとき、宝の地図を見つけました。",
+          "ipa": "/ðeɪ həd bɪn ˈsɝːtʃɪŋ θru ðə ˈdɛzərt ˈtɛmpəlz fɔr ən ˈaʊər wɛn ðeɪ ˈfaʊnd ðə ˈtrɛʒər ˈmæp/",
+          "linking": [
+            "had は弱形で /həd/。been に続く [həd bɪn] ハド ビン",
+            "been は弱形で /bɪn/。searching の /s/ に続く [bɪn ˈsɝːtʃɪŋ] ビン サーチング",
+            "searching の /ŋ/ が through に続く [ˈsɝːtʃɪŋ θru] サーチング スルー",
+            "temples の語末 /z/ が for に続く。for は弱形 /fər/ [ˈtɛmpəlz fɔr] テンプルズ フォー"
+          ],
+          "kana": "ゼイ ハド ビン サーチング スルー ザ デザート テンプルズ フォー アン アワー ウェン ゼイ ファウンド ザ トレジャー マップ"
+        }
+      ]
     }
   ]
 }

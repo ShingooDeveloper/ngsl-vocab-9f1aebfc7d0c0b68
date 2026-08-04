@@ -46,5 +46,36 @@
       "kana": "アイ トールド マイ マム ザッ クリーパーズ アー ザ スケアリエスト モーブズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "moms",
+      "ipa": "/mɑmz/",
+      "examples": [
+        {
+          "en": "Our moms love watching us play Minecraft.",
+          "ja": "お母さんたちは私たちがマインクラフトをするのを見るのが大好きです。",
+          "ipa": "/ˈaʊɚ ˈmɑmz ˈlʌv ˈwɑtʃɪŋ əz ˈpleɪ ˌmaɪnkræft/",
+          "linking": [
+            "us の弱形化：/ʌs/ → /əz/",
+            "watching と us の連結：-ing /ŋ/ が母音 /ə/ に続く"
+          ],
+          "kana": "アウアー マムズ ラヴ ウォッチング アズ プレイ マインクラフト"
+        },
+        {
+          "en": "The moms on the server built an amazing village.",
+          "ja": "サーバー上のお母さんたちは素晴らしい村を作りました。",
+          "ipa": "/ðə ˈmɑmz ɑn ðə ˈsɜɚvɚ ˈbɪlt ən əˈmeɪzɪŋ ˈvɪlɪdʒ/",
+          "linking": [
+            "the の弱形化：/ðə/",
+            "built の語末子音 /t/ が an の弱形 /ə/ に連結",
+            "an の弱形化：/ən/"
+          ],
+          "kana": "ザ マムズ アン ザ サーバー ビルト ウン アメイジング ビリッジ"
+        }
+      ]
+    }
+  ]
 }

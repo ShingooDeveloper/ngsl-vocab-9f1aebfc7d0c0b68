@@ -19,7 +19,7 @@
       "ipa": "/ðɪs stoʊn ˈplætfɔɹm prəˈvaɪdz stəˈbɪləti fɚ jɔɹ ˈhaʊs ˈfaʊndeɪʃən/",
       "linking": [
         "for は前置詞で弱形 /fɚ/ に弱化",
-        "for your → for の語末子音 /ɚ/ が浮かんで your の /j/ の前に聞こえる（r-linking 的）→ [fɚɹ jɔɹ]「ファユー」"
+        "for your → for は r-colored schwa /ɚ/ で終わり、your の /j/ に自然に連結 [fɚ jɔɹ]「ファユー」"
       ],
       "kana": "ザス ストウン プラットフォーム プロヴァイズ スタビリティ ファユー ハウス ファウンデイション"
     },
@@ -53,9 +53,40 @@
       "ipa": "/jɔɹ ˈtaʊɚ læks ˈstɹʌktʃɚəl stəˈbɪləti wɪðˈaʊt ˈpɹɑpɚ faʊnˈdeɪʃənz/",
       "linking": [
         "without は /wɪðˈaʊt/ で語末 t は未開放",
-        "proper foundations → proper の語末 /ɚ/ が foundations の初頭 /f/ に先行"
+        "proper foundations → proper の末の r-colored schwa /ɚ/ と foundations の初頭 /f/ が自然に連結"
       ],
       "kana": "ユー タワー ラックス ストラクチャラル スタビリティ ウィザウト プロパー ファウンデイションズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "stabilities",
+      "ipa": "/stəˈbɪlətiz/",
+      "examples": [
+        {
+          "en": "Engineers test different stabilities of wood and stone materials.",
+          "ja": "エンジニアは木と石の異なる素材の安定性をテストします。",
+          "ipa": "/ˈɛndʒɪˌnɪɹz ˈtɛst ˈdɪfərənt stəˈbɪlətiz əv ˈwʊd ənd ˈstoʊn məˈtɪɹiəlz/",
+          "linking": [
+            "stabilities of → 末の /z/ が of の弱形 /əv/ の初頭母音に連結 [ˈbɪlətiz‿əv] スタビリティズ アヴ",
+            "wood and → 末の /d/ が and の弱形 /ənd/ の初頭母音に連結 [ˈwʊd‿ənd] ウッド エン"
+          ],
+          "kana": "エンジニアーズ テスト ディファレント スタビリティズ アヴ ウッド エン ストウン マテリアルズ"
+        },
+        {
+          "en": "Different stabilities in your base affect how well structures survive explosions.",
+          "ja": "ベースの異なる安定性が、構造がどの程度爆発に耐えられるかに影響します。",
+          "ipa": "/ˈdɪfərənt stəˈbɪlətiz ɪn jɔɹ ˈbeɪs əˈfɛkt ˈhaʊ wɛl ˈstrʌktʃɚz sɚˈvaɪv ɪkˈsploʊʒənz/",
+          "linking": [
+            "stabilities in → 末の /z/ が in の初頭母音に連結 [ˈbɪlətiz‿ɪn] スタビリティズ イン",
+            "base affect → 末の /s/ が affect の弱形初頭母音に連結 [ˈbeɪs‿əˈfɛkt] ベイス アフェクト",
+            "survive explosions → 末の /v/ が explosions の初頭母音に連結 [sɚˈvaɪv‿ɪkˈsploʊʒənz] サーヴァイヴ イクスプロージョンズ"
+          ],
+          "kana": "ディファレント スタビリティズ イン ユー ベイス アフェクト ハウ ウェル ストラクチャーズ サーヴァイヴ イクスプロージョンズ"
+        }
+      ]
     }
   ]
 }

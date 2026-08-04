@@ -42,5 +42,122 @@
       "kana": "ドーント アキューズ ミー ウィザウト エビデンス"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "accuses",
+      "ipa": "/əˈkjuːzɪz/",
+      "examples": [
+        {
+          "en": "He accuses me of mining his diamonds.",
+          "ja": "彼は私がダイヤを採掘したと非難する。",
+          "ipa": "/hi əˈkjuːzɪz mi əv ˈmaɪnɪŋ hɪz ˈdaɪməndz/",
+          "linking": [
+            "「of」は弱形 /əv/ で「アヴ」に弱化"
+          ],
+          "kana": "ヒー アキューズィズ ミー アヴ マイニング ヒズ ダイマンズ"
+        },
+        {
+          "en": "The admin accuses players of hacking the server.",
+          "ja": "管理者はプレイヤーがサーバーをハックしたと非難する。",
+          "ipa": "/ðə ˈædmɪn əˈkjuːzɪz ˈpleɪərz əv ˈhækɪŋ ðə ˈsɜːrvər/",
+          "linking": [
+            "「the」は子音前で弱形 /ðə/ で「ザ」に弱化",
+            "「of」は弱形 /əv/ で「アヴ」"
+          ],
+          "kana": "ザ アドミン アキューズィズ プレイヤーズ アヴ ハッキング ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "accused",
+      "ipa": "/əˈkjuːzd/",
+      "examples": [
+        {
+          "en": "I accused him of taking my diamonds.",
+          "ja": "私は彼が私のダイヤを盗んだと非難した。",
+          "ipa": "/aɪ əˈkjuːzd hɪm əv ˈteɪkɪŋ maɪ ˈdaɪməndz/",
+          "linking": [
+            "「accused of」の語末 /d/ が母音 /ə/ に連結 [də]",
+            "「of」は弱形 /əv/ で「アヴ」"
+          ],
+          "kana": "アイ アキューズド ヒム アヴ テイキング マイ ダイマンズ"
+        },
+        {
+          "en": "She was accused of griefing the entire village.",
+          "ja": "彼女は村全体を荒らしたと告発された。",
+          "ipa": "/ʃi wəz əˈkjuːzd əv ˈɡriːfɪŋ ðə ɪnˈtaɪər ˈvɪlɪdʒ/",
+          "linking": [
+            "「was accused」の語末 /z/ が母音 /ə/ に連結 [zə]",
+            "「of」は弱形 /əv/ で「アヴ」",
+            "「the」は子音前で弱形 /ðə/ で「ザ」"
+          ],
+          "kana": "シー ワズ アキューズド アヴ グリーフィング ザ イン タイアー ヴィレッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "accused",
+      "ipa": "/əˈkjuːzd/",
+      "examples": [
+        {
+          "en": "The accused player was banned immediately.",
+          "ja": "告発されたプレイヤーはすぐにバンされた。",
+          "ipa": "/ðə əˈkjuːzd ˈpleɪər wəz ˈbændɪd ɪˈmiːdʒətli/",
+          "linking": [
+            "「the」は子音前で弱形 /ðə/ で「ザ」に弱化",
+            "「player was」の /r/ から /w/ へ（r音と w音の連続）"
+          ],
+          "kana": "ザ アキューズド プレイヤー ワズ バンディッド イミーディエットリー"
+        },
+        {
+          "en": "He accused someone of spawning mobs in protected areas.",
+          "ja": "彼は誰かが保護された領域でモブをスポーンさせたと非難した。",
+          "ipa": "/hi əˈkjuːzd ˈsʌmwən əv ˈspoʊnɪŋ ˈmɑbz ɪn prəˈtɛktɪd ˈɛriəz/",
+          "linking": [
+            "「accused someone」の /d/ が子音 /s/ に続く（子音が連続）",
+            "「of」は弱形 /əv/ で「アヴ」",
+            "「protected」の /d/ が母音 /ɛ/ に連結 [dɛ]"
+          ],
+          "kana": "ヒー アキューズド サムワン アヴ スポーニング ラブズ イン プロテクティッド エリアズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "accusing",
+      "ipa": "/əˈkjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "Stop accusing me without proof!",
+          "ja": "証拠なしに僕を非難するのをやめろ！",
+          "ipa": "/stɑp əˈkjuːzɪŋ mi wɪðˈaʊt pruːf/",
+          "linking": [
+            "「Stop」の語末 /p/ は未開放 [p̚]、舌の動きが止まる",
+            "「accusing me」の /ŋ/ から /m/ へ連結（鼻音が続く）",
+            "「without」の語末 /t/ は未開放 [t̚]"
+          ],
+          "kana": "ストップ アキューズィング ミー ウィザウト プルーフ"
+        },
+        {
+          "en": "You're always accusing players of cheating.",
+          "ja": "あなたはいつもプレイヤーがチートしていると非難している。",
+          "ipa": "/jɔr ˈɔlweɪz əˈkjuːzɪŋ ˈpleɪərz əv ˈtʃiːtɪŋ/",
+          "linking": [
+            "「always」の語末 /z/ が母音 /ə/ に連結 [zə]",
+            "「accusing players」の /ŋ/ から /p/ へ（ng音から p音への移行）",
+            "「of」は弱形 /əv/ で「アヴ」"
+          ],
+          "kana": "ユア オールウェイズ アキューズィング プレイヤーズ アヴ チーティング"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

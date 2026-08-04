@@ -1,0 +1,307 @@
+{
+  "word": "finish",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ˈfɪnɪʃ/",
+  "rank": 487,
+  "level": "A2",
+  "hi": "finish(?:es)?|finished|finishing",
+  "meanings": [
+    "【動詞】終わる、完成する、済ます、仕上げる（to complete or bring to an end）",
+    "【動詞】使い果たす、消費する、飲み尽くす（to use up or consume completely）",
+    "【動詞】（対戦相手・敵を）倒す、やっつける（to defeat or overcome）",
+    "【名詞】終わり、終点、仕上げ（the end or final part; a surface treatment）"
+  ],
+  "examples": [
+    {
+      "en": "I finished building my house yesterday.",
+      "ja": "昨日、家の建築を終わらせました。",
+      "ipa": "/aɪ ˈfɪnɪʃt ˈbɪldɪŋ maɪ ˈhaʊs ˈjɛstɚdeɪ/",
+      "linking": [
+        "finished building → finished の末尾 /t/ が building の初頭母音 /ɪ/ に先行（未開放気味 [t̚ bɪ]）",
+        "my house → my は弱形 /maɪ/ （強い語だが語調では弱形傾向）"
+      ],
+      "kana": "アイ フィニシット ビルディング マイ ハウス イェスターデイ"
+    },
+    {
+      "en": "Can you finish the mine before nightfall?",
+      "ja": "夜間になる前に鉱山の採掘を終わらせることができますか？",
+      "ipa": "/kən juː ˈfɪnɪʃ ðə ˈmaɪn bɪˈfɔr ˈnaɪtˌfɔl/",
+      "linking": [
+        "Can you → can は弱形 /kən/ に弱化",
+        "the mine → the は弱形 /ðə/ に弱化、mine の初頭 /m/ に連結 [ðə maɪn]"
+      ],
+      "kana": "カン ユー フィニッシュ ザ マイン ビフォー ナイトフォール"
+    },
+    {
+      "en": "We finished the creeper before it exploded.",
+      "ja": "爆発する前にクリーパーを倒しました。",
+      "ipa": "/wi ˈfɪnɪʃt ðə ˈkriːpər bɪˈfɔr ɪt ɪkˈsploʊdəd/",
+      "linking": [
+        "the creeper → the は弱形 /ðə/ に弱化、creeper の /k/ に連結 [ðə ˈkriːpər]",
+        "before it → before の末尾 /r/ が it の初頭 /ɪ/ に連結 [bɪˈfɔrɪt]"
+      ],
+      "kana": "ウィ フィニシット ザ クリーパー ビフォーリット イクスプロウディッド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "finish off",
+      "ja": "～を倒す、～を片付ける、仕上げる",
+      "example": "Let's finish off the last few zombies and go home.",
+      "example_ja": "最後の数体のゾンビを倒して家に帰りましょう。",
+      "ipa": "/lɛts ˈfɪnɪʃ ɔf ðə læst ˈfjuː ˈzɑmiz ənd ɡoʊ ˈhoʊm/",
+      "linking": [
+        "finish off → finish の末尾 /ʃ/ と off の初頭 /ɔ/ （連結なし、distinct）",
+        "the last → the は弱形 /ðə/ に弱化"
+      ],
+      "kana": "レッツ フィニッシュ オフ ザ ラースト フューー ゾンビーズ アンド ゴウ ホウム"
+    },
+    {
+      "idiom": "finish up",
+      "ja": "完成させる、終わらせる",
+      "example": "We need to finish up this project before the weekend.",
+      "example_ja": "週末までにこのプロジェクトを終わらせる必要があります。",
+      "ipa": "/wi niːd tə ˈfɪnɪʃ ʌp ðɪs ˈprɑdʒɛkt bɪˈfɔr ðə ˈwikˌɛnd/",
+      "linking": [
+        "need to → need の末尾 /d/ が to の初頭母音 /ə/ に連結（弱形） [ˈniːdə]",
+        "the weekend → the は弱形 /ðə/ に弱化"
+      ],
+      "kana": "ウィ ニーダ フィニッシュ アップ ディス プロジェクト ビフォー ザ ウィークエンド"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "finishes",
+      "ipa": "/ˈfɪnɪʃɪz/",
+      "examples": [
+        {
+          "en": "He finishes his mine every morning.",
+          "ja": "彼は毎朝、鉱山の採掘を終わらせます。",
+          "ipa": "/hi ˈfɪnɪʃɪz hɪz ˈmaɪn ˈɛvri ˈmɔrnɪŋ/",
+          "linking": [
+            "finishes his → finishes の末尾 /ɪz/ が his の初頭 /h/ に先行（連結なし、distinct）",
+            "every morning → every の末尾 /i/ と morning が連続"
+          ],
+          "kana": "ヒ フィニシーズ ヒズ マイン エヴリー モーニング"
+        },
+        {
+          "en": "She always finishes before the sun goes down.",
+          "ja": "彼女は太陽が沈む前にいつも終わらせます。",
+          "ipa": "/ʃi ˈɔlweɪz ˈfɪnɪʃɪz bɪˈfɔr ðə sʌn ɡoʊz daʊn/",
+          "linking": [
+            "the sun → the は弱形 /ðə/ に弱化",
+            "sun goes → sun の末尾 /n/ が goes の初頭 /ɡ/ に先行（連結なし）"
+          ],
+          "kana": "シー オールウェイズ フィニシーズ ビフォー ザ サン ゴウズ ダウン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "finished",
+      "ipa": "/ˈfɪnɪʃt/",
+      "examples": [
+        {
+          "en": "I finished the tower yesterday.",
+          "ja": "昨日、塔を完成させました。",
+          "ipa": "/aɪ ˈfɪnɪʃt ðə ˈtaʊər ˈjɛstɚdeɪ/",
+          "linking": [
+            "finished the → finished の末尾 /t/ が the の初頭 /ð/ に先行（未開放気味）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ フィニシット ザ タウアー イェスターデイ"
+        },
+        {
+          "en": "They finished all the supplies.",
+          "ja": "彼らはすべての補給品を使い果たしました。",
+          "ipa": "/ðeɪ ˈfɪnɪʃt ɔl ðə səˈplaɪz/",
+          "linking": [
+            "finished all → finished の末尾 /t/ が all の初頭 /ɔ/ に先行（未開放気味）",
+            "the supplies → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ フィニシット オール ザ サプライズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "finished",
+      "ipa": "/ˈfɪnɪʃt/",
+      "examples": [
+        {
+          "en": "The house has been finished at last.",
+          "ja": "家がついに完成しました。",
+          "ipa": "/ðə ˈhaʊs həz bɪn ˈfɪnɪʃt ət læst/",
+          "linking": [
+            "has been → has の弱形 /həz/ と been の弱形 /bɪn/",
+            "at → at は弱形傾向（機能語）"
+          ],
+          "kana": "ザ ハウス ハズ ビン フィニシット アット ラースト"
+        },
+        {
+          "en": "Once the redstone was finished, the door opened.",
+          "ja": "レッドストーンが完成すると、ドアが開きました。",
+          "ipa": "/wʌns ðə ˈrɛdˌstoʊn wəz ˈfɪnɪʃt | ðə ˈdɔr ˈoʊpənd/",
+          "linking": [
+            "the redstone → the は弱形 /ðə/",
+            "was は弱形 /wəz/ に弱化",
+            "the door → the は弱形 /ðə/"
+          ],
+          "kana": "ワンス ザ レッストーン ワズ フィニシット、ザ ドア オウペンド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "finishing",
+      "ipa": "/ˈfɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Finishing the fortress takes a lot of time.",
+          "ja": "要塞の完成には多くの時間がかかります。",
+          "ipa": "/ˈfɪnɪʃɪŋ ðə ˈfɔrtrəs ˈteɪks ə lɑt əv ˈtaɪm/",
+          "linking": [
+            "finishing the → finishing の末尾 /ŋ/ が the の初頭母音 /ð/ に軽微に先行",
+            "the は弱形 /ðə/",
+            "takes a → takes の末尾 /z/ が a の弱形 /ə/ に連結 [ˈteɪkzə]",
+            "a lot → a は弱形 /ə/、lot の末尾 /t/ が of の初頭 /ə/ に連結（of は弱形 /əv/）[lɑt əv]"
+          ],
+          "kana": "フィニシング ザ フォートレス テイクザ ロット アヴ タイム"
+        },
+        {
+          "en": "She's finishing the details while we mine.",
+          "ja": "私たちが採掘している間、彼女は詳細を仕上げています。",
+          "ipa": "/ʃiz ˈfɪnɪʃɪŋ ðə dɪˈteɪlz waɪl wi ˈmaɪn/",
+          "linking": [
+            "She's → She は縮約形 /ʃiz/ に弱化",
+            "finishing the → finishing の末尾 /ŋ/ と the の /ð/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シーズ フィニシング ザ ディテイルズ ホワイル ウィ マイン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "finishes",
+      "ipa": "/ˈfɪnɪʃɪz/",
+      "examples": [
+        {
+          "en": "Multiple finishes on the surface look different.",
+          "ja": "表面の複数の仕上げは異なって見えます。",
+          "ipa": "/ˈmʌltɪpəl ˈfɪnɪʃɪz ɑn ðə ˈsɜrfɪs lʊk ˈdɪfərənt/",
+          "linking": [
+            "the surface → the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "マルティプル フィニシーズ オン ザ サーフィス ルック ディファレント"
+        },
+        {
+          "en": "The builders tested different finishes on the walls.",
+          "ja": "ビルダーたちは壁の異なる仕上げをテストしました。",
+          "ipa": "/ðə ˈbɪldərz ˈtɛstəd ˈdɪfərənt ˈfɪnɪʃɪz ɑn ðə ˈwɔlz/",
+          "linking": [
+            "the builders → the は弱形 /ðə/ に弱化",
+            "the walls → the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ザ ビルダーズ テストィッド ディファレント フィニシーズ オン ザ ウォールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is finishing",
+      "ipa": "/ɪz ˈfɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "I'm finishing this tower before the sun sets.",
+          "ja": "太陽が沈む前にこの塔を完成させています。",
+          "ipa": "/aɪm ˈfɪnɪʃɪŋ ðɪs ˈtaʊər bɪˈfɔr ðə sʌn sɛts/",
+          "linking": [
+            "I'm → I は縮約形 /aɪm/ に弱化、m が finishing の /f/ に先行（未開放気味 [aɪm̚]）",
+            "this tower → this の末尾 /s/ が tower の初頭 /t/ に先行（連結なし、distinct）",
+            "the sun → the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイム フィニシング ディス タウアー ビフォー ザ サン セッツ"
+        },
+        {
+          "en": "The team is finishing the final redstone adjustments.",
+          "ja": "チームは最後のレッドストーンの調整を完成させています。",
+          "ipa": "/ðə ˈtim ɪz ˈfɪnɪʃɪŋ ðə ˈfaɪnəl ˈrɛdˌstoʊn əˈdʒʌstmənts/",
+          "linking": [
+            "the team → the は弱形 /ðə/ に弱化、team の初頭 /t/ に先行（未開放気味）",
+            "is finishing → is は弱形 /ɪz/ に弱化、finishing の /f/ に連結 [ɪz ˈfɪnɪʃɪŋ]",
+            "the final → the は弱形 /ðə/"
+          ],
+          "kana": "ザ ティーム イズ フィニシング ザ ファイナル レッストーン アジャストメンツ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was finishing",
+      "ipa": "/wəz ˈfɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "We were finishing the mine when a creeper appeared.",
+          "ja": "クリーパーが現れたとき、私たちは鉱山の採掘を終わらせていました。",
+          "ipa": "/wi wər ˈfɪnɪʃɪŋ ðə ˈmaɪn wɛn ə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "were finishing → were は弱形 /wər/（または /wɚ/）に弱化、finishing の /f/ に先行",
+            "the mine → the は弱形 /ðə/",
+            "a creeper → a は弱形 /ə/ に弱化"
+          ],
+          "kana": "ウィ ワー フィニシング ザ マイン ウェン ア クリーパー アピアード"
+        },
+        {
+          "en": "He was finishing his build when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼は建築を完成させていました。",
+          "ipa": "/hi wəz ˈfɪnɪʃɪŋ hɪz bɪld wɛn ðə ˈsɜrvər kræʃt/",
+          "linking": [
+            "was finishing → was は弱形 /wəz/ に弱化、finishing の /f/ に先行 [wəz ˈfɪnɪʃɪŋ]",
+            "the server → the は弱形 /ðə/"
+          ],
+          "kana": "ヒ ワズ フィニシング ヒズ ビルド ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been finishing",
+      "ipa": "/həd bɪn ˈfɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "They had been finishing the fortress for three hours when help arrived.",
+          "ja": "援軍が到着したとき、彼らは3時間の間ずっと要塞を完成させていました。",
+          "ipa": "/ðeɪ həd bɪn ˈfɪnɪʃɪŋ ðə ˈfɔrtrəs fər ˈθri ˈaʊərz wɛn hɛlp əˈraɪvd/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/。連続した弱形の流れ [həd bɪn]",
+            "the fortress → the は弱形 /ðə/",
+            "for three → for は弱形 /fər/（または /fɚ/）に弱化"
+          ],
+          "kana": "ゼイ ハド ビン フィニシング ザ フォートレス ファー スリー アワーズ ウェン ヘルプ アライヴド"
+        },
+        {
+          "en": "She had been finishing the redstone contraption all day long.",
+          "ja": "彼女は一日中ずっとレッドストーン装置を完成させていました。",
+          "ipa": "/ʃi həd bɪn ˈfɪnɪʃɪŋ ðə ˈrɛdˌstoʊn kənˈtræpʃən ɔl ˈdeɪ lɔŋ/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/。[həd bɪn]",
+            "the redstone → the は弱形 /ðə/",
+            "all day → all の末尾 /l/ が day の初頭 /d/ に先行（連結なし、distinct）"
+          ],
+          "kana": "シ ハド ビン フィニシング ザ レッストーン コントラップション オール デイ ロング"
+        }
+      ]
+    }
+  ]
+}

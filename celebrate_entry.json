@@ -3,62 +3,194 @@
   "pos": "動詞",
   "pos_all": "動詞",
   "ipa_us": "/ˈsɛl.ə.breɪt/",
-  "rank": 1605,
+  "rank": 1279,
   "level": "B1",
-  "hi": "celebrat(?:e[ds]?|ing)",
+  "hi": "celebrate|celebrates|celebrated|celebrating",
   "meanings": [
-    "【動詞】祝う、お祝いをする（喜びや成功を表現する）",
-    "【動詞】記念する、称える（達成や人物を認める）",
-    "【動詞】盛大に祝う、パーティーをする（社交的・公的に）",
-    "【動詞】儀式を行う、式典を執り行う（より形式的に）"
+    "【動詞】～を祝う、記念する（to honor a special occasion or achievement）",
+    "【動詞】～を賞賛する、喜びを表す（to express joy or praise for something）",
+    "【動詞】（イベント・祝日を）祝う、（宗教儀式を）執り行う（to observe or commemorate an occasion）"
   ],
   "examples": [
     {
-      "en": "We celebrated defeating the Ender Dragon with fireworks.",
-      "ja": "エンダードラゴンを倒したことを花火で祝った。",
-      "ipa": "/wi ˈsɛl.ə.breɪɾəd dɪˈfiːɾɪŋ ðə ˈɛndɚ ˈdræɡən wɪð ˈfaɪɚwɝks/",
+      "en": "Players celebrate their achievements with fireworks in the village.",
+      "ja": "プレイヤーたちは村での花火でその成果を祝います。",
+      "ipa": "/ˈpleɪ.ərz ˈsɛl.ə.breɪt ðɛr əˈtʃiːv.mənts wɪð ˈfaɪr.wɚks ɪn ðə ˈvɪl.ɪdʒ/",
       "linking": [
-        "celebrated defeating → 語末 /d/ が未開放のまま語頭 /d/ に続く [ˈbreɪɾəd̚ dɪ]",
-        "defeating の /t/ → 母音に挟まれてフラップ化し [ˈfiːɾɪŋ]",
-        "the → 弱形 /ðə/"
+        "Players celebrate → /z/ が子音 /s/ に続く [ˈpleɪ.ərz ˈsɛl.ə.breɪt]",
+        "celebrate their → /t/ が子音 /ð/ に続く",
+        "with fireworks → /ð/ + /f/ (子音+子音、連結なし)、with は弱形"
       ],
-      "kana": "ウィ セレブレイラッド ディフィーリン ザ エンダー ドラゴン ウィズ ファイアワークス"
+      "kana": "プレイアーズ セラブレイト ゼア ア・チーヴメンツ ウィズ ファイアワークス イン ザ ビリッジ"
     },
     {
-      "en": "I celebrated my 100th day in the Minecraft world.",
-      "ja": "マインクラフトの世界で100日目に達したことを祝った。",
-      "ipa": "/aɪ ˈsɛl.ə.breɪɾəd maɪ ˌhʌndrəθ ˈdeɪ ɪn ðə ˌmaɪnˈkræft ˈwɝld/",
+      "en": "We celebrate every victory by building a monument of blocks.",
+      "ja": "私たちは毎回の勝利をブロックのモニュメント建築で祝います。",
+      "ipa": "/wi ˈsɛl.ə.breɪt ˈɛv.ri ˈvɪk.tə.ri baɪ ˈbɪl.dɪŋ ə ˈmɑn.jə.wɛnt əv ˈblɑks/",
       "linking": [
-        "I celebrated → 語末母音 /aɪ/ が語頭子音 /s/ に自然に連結",
-        "hundredth day → 語末 /θ/ が未開放のまま語頭 /d/ に続く",
-        "the → 弱形 /ðə/"
+        "celebrate every → /t/ が子音 /ɛ/ に続く",
+        "every victory → /i/ + /v/ (子音+子音、連結なし)",
+        "by building → /i/ + /b/ (子音+子音、連結なし)、by は弱形 /baɪ/ または /bə/"
       ],
-      "kana": "アイ セレブレイラッド マイ ハンドレッ デイ イン ザ マインクラフト ワールド"
+      "kana": "ウィ セラブレイト エヴリー ヴィクトリー バイ ビルディング ア モニュメント オヴ ブロックス"
     },
     {
-      "en": "The village celebrates its founder every spring season.",
-      "ja": "その村は毎春、創設者を記念する。",
-      "ipa": "/ðə ˈvɪlɪdʒ ˈsɛl.ə.breɪɾz ɪts ˈfaʊndɚ ˈɛvɚi ˈspɹɪŋ ˈsiːzən/",
+      "en": "The town celebrates the harvest season with games and decorations.",
+      "ja": "その町は収穫の季節をゲームと装飾で祝います。",
+      "ipa": "/ðə ˈtaʊn ˈsɛl.ə.breɪts ðə ˈhɑr.vɪst ˈsi.zən wɪð ɡeɪmz ənd ˌdɛk.ə.ˈreɪ.ʃənz/",
       "linking": [
-        "The → 弱形 /ðə/ が village /v/ に自然に続く",
-        "celebrates its → 語末子音 /z/ が語頭母音 /ɪ/ に連結 [ˈbreɪɾz ɪts]",
-        "every spring → 語末母音 /i/ が語頭子音 /s/ に連結"
+        "the town → the は弱形 /ðə/",
+        "celebrates the → /s/ が子音 /ð/ に続く、the も弱形",
+        "with games → /ð/ + /ɡ/ (子音+子音、連結なし)、with は弱形"
       ],
-      "kana": "ザ ビレッジ セレブレイラズ イツ ファウンダー エブリ スプリング シーズン"
+      "kana": "ザ タウン セラブレイツ ザ ハーベスト シーズン ウィズ ゲイムズ アンド デコレーションズ"
     }
   ],
-  "idioms": [
+  "mc_examples": [
     {
-      "idiom": "celebrate a victory",
-      "ja": "勝利を祝う",
-      "example": "We celebrated our victory against the Wither boss.",
-      "example_ja": "私たちはウィザーボスへの勝利を祝った。",
-      "ipa": "/wi ˈsɛl.ə.breɪɾəd aʊɚ ˈvɪktɚi əˈɡɛnst ðə ˈwɪðɚ boʊs/",
+      "en": "After defeating the Ender Dragon, players celebrate with excited cheers.",
+      "ja": "エンダードラゴンを倒した後、プレイヤーたちは興奮した歓声で祝います。",
+      "ipa": "/ˈæf.tər dɪˈfit.ɪŋ ðə ˈɛn.dər ˈdræɡ.ən | ˈpleɪ.ərz ˈsɛl.ə.breɪt wɪð ɪkˈsaɪ.tɪd ˈtʃɪrz/",
       "linking": [
-        "celebrated our → 語末子音 /d/ が語頭母音 /aʊ/ に連結",
-        "against the → 語末 /t/ が未開放のまま語頭 /ð/ に続く"
+        "defeating the → /ŋ/ + /ð/ (子音+子音、連結なし)、the は弱形",
+        "players celebrate → /z/ が子音 /s/ に続く",
+        "with excited → /ð/ + /ɪ/ (子音+母音) が連結 [wɪð ɪkˈsaɪ.tɪd]"
       ],
-      "kana": "ウィ セレブレイラッド アワー ビクタリー アゲンス ザ ウィザー ボス"
+      "kana": "アフター ディフィーティング ザ エンダー ドラゴン、プレイアーズ セラブレイト ウィズ イクサイティド チアーズ"
+    },
+    {
+      "en": "The team celebrates building their new base with a grand opening ceremony.",
+      "ja": "そのチームは新しい拠点の完成を盛大な開始式で祝います。",
+      "ipa": "/ðə ˈtim ˈsɛl.ə.breɪts ˈbɪl.dɪŋ ðɛr ˈnu beɪs wɪð ə ˈɡrænd ˈoʊ.pən.ɪŋ ˈsɛr.ə.moʊ.ni/",
+      "linking": [
+        "the team → the は弱形 /ðə/",
+        "celebrates building → /s/ が子音 /b/ に続く",
+        "building their → /ŋ/ が子音 /ð/ に続く",
+        "with a → with は弱形、a は弱形 /ə/"
+      ],
+      "kana": "ザ ティーム セラブレイツ ビルディング ゼア ニュー ベイス ウィズ ア グランド オウペニング セレモニー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "celebrates",
+      "ipa": "/ˈsɛl.ə.breɪts/",
+      "examples": [
+        {
+          "en": "He celebrates each milestone with his entire crew.",
+          "ja": "彼はチーム全体とマイルストーンを祝います。",
+          "ipa": "/hi ˈsɛl.ə.breɪts itʃ ˈmaɪl.stoʊn wɪð hɪz ɪnˈtaɪr kru/",
+          "linking": [
+            "He celebrates → he は弱形 /hi/ または /i/、celebrates の初期子音 /s/ と続く",
+            "each milestone → each の末尾 /tʃ/ が milestone の初期子音 /m/ に先行 [itʃ ˈmaɪl.stoʊn]",
+            "with his → with は弱形、his も弱形 /hɪz/"
+          ],
+          "kana": "ヒー セラブレイツ イーチ マイルストーン ウィズ ヒズ エンタイア クルー"
+        },
+        {
+          "en": "The admin celebrates successful server events with special rewards.",
+          "ja": "管理者は成功したサーバーイベントを特別な報酬で祝います。",
+          "ipa": "/ðə ˈæd.mɪn ˈsɛl.ə.breɪts səkˈsɛs.fəl ˈsɝr.vər ɪˈvɛnts wɪð ˈspɛ.ʃəl rɪˈwɔrdz/",
+          "linking": [
+            "the admin → the は弱形 /ðə/、admin の末尾 /n/ が celebrates の初期子音 /s/ に先行",
+            "celebrates successful → /s/ が子音に続く",
+            "with special → with は弱形、special の頭 /s/ に続く"
+          ],
+          "kana": "ザ アドミン セラブレイツ サクセスフル サーバー イベンツ ウィズ スペシャル リワーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "celebrated",
+      "ipa": "/ˈsɛl.ə.breɪ.tɪd/",
+      "examples": [
+        {
+          "en": "We celebrated completing the farm by trading with villagers.",
+          "ja": "私たちは農場を完成させたことを村人との交易で祝いました。",
+          "ipa": "/wi ˈsɛl.ə.breɪ.tɪd kəmˈplit.ɪŋ ðə ˈfɑrm baɪ ˈtreɪ.dɪŋ wɪð ˈvɪl.ə.dʒərz/",
+          "linking": [
+            "celebrated completing → /d/ が子音 /k/ に続く [ˈsɛl.ə.breɪ.tɪd̚ kəm~]",
+            "completing the → /ŋ/ + /ð/ (子音+子音、連結なし)、the は弱形",
+            "by trading → by は弱形、trading の初期子音 /t/ に続く"
+          ],
+          "kana": "ウィ セラブレイティッド コムプリーティング ザ ファーム バイ トレイディング ウィズ ビリッジャーズ"
+        },
+        {
+          "en": "The players celebrated their victory after mining for hours in the cave.",
+          "ja": "プレイヤーたちは洞窟で何時間も採掘した後、勝利を祝いました。",
+          "ipa": "/ðə ˈpleɪ.ərz ˈsɛl.ə.breɪ.tɪd ðɛr ˈvɪk.tə.ri ˈæf.tər ˈmaɪ.nɪŋ fɚ ˈaʊrz ɪn ðə ˈkeɪv/",
+          "linking": [
+            "players celebrated → /z/ が子音 /s/ に続く [ˈpleɪ.ərz ˈsɛl.ə.breɪ.tɪd]",
+            "celebrated their → /d/ が子音 /ð/ に続く [ˈsɛl.ə.breɪ.tɪd̚ ðɛr]",
+            "for hours → for は弱形 /fɚ/、hours の初期子音に続く"
+          ],
+          "kana": "ザ プレイアーズ セラブレイティッド ゼア ヴィクトリー アフター マイニング ファー アワーズ イン ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "celebrated",
+      "ipa": "/ˈsɛl.ə.breɪ.tɪd/",
+      "examples": [
+        {
+          "en": "Having celebrated their progress, the team planned the next expansion.",
+          "ja": "進捗を祝った後、チームは次の拡張を計画しました。",
+          "ipa": "/ˈhæv.ɪŋ ˈsɛl.ə.breɪ.tɪd ðɛr ˈprɑɡ.rɛs | ðə ˈtim ˈplænd ðə ˈnɛkst ɪkˈspæn.ʃən/",
+          "linking": [
+            "Having celebrated → /ŋ/ + /s/ (子音+子音、連結なし)",
+            "celebrated their → /d/ が子音 /ð/ に続く [ˈsɛl.ə.breɪ.tɪd̚ ðɛr]",
+            "the team → the は弱形 /ðə/"
+          ],
+          "kana": "ハービング セラブレイティッド ゼア プログレス、ザ ティーム プランド ザ ネクスト イクスパンション"
+        },
+        {
+          "en": "The celebrated builders received a special badge in the server.",
+          "ja": "祝賀されたビルダーたちはサーバー内で特別なバッジを受け取りました。",
+          "ipa": "/ðə ˈsɛl.ə.breɪ.tɪd ˈbɪl.dərz rɪˈsivd ə ˈspɛ.ʃəl ˈbædʒ ɪn ðə ˈsɝr.vər/",
+          "linking": [
+            "the celebrated → the は弱形 /ðə/、celebrated の初期子音 /s/ に続く",
+            "celebrated builders → /d/ + /b/ (子音+子音、連結なし)",
+            "received a → /d/ が母音 /ə/ に連結 [rɪˈsivd ə] リシーヴド ア"
+          ],
+          "kana": "ザ セラブレイティッド ビルダーズ リシーヴド ア スペシャル バッジ イン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "celebrating",
+      "ipa": "/ˈsɛl.ə.breɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "The players are celebrating their conquest of the stronghold.",
+          "ja": "プレイヤーたちは要塞の征服を祝っています。",
+          "ipa": "/ðə ˈpleɪ.ərz ɑr ˈsɛl.ə.breɪ.tɪŋ ðɛr ˈkɑŋ.kwɛst əv ðə ˈstrɔŋ.hoʊld/",
+          "linking": [
+            "players are → /z/ + /ɑr/ (子音+母音) が連結 [ˈpleɪ.ərz ɑr] プレイアーズ・アー",
+            "are celebrating → /r/ が子音に続く [ɑr ˈsɛl.ə.breɪ.tɪŋ]",
+            "their conquest → their の末尾 /r/ が conquest の母音 /ɑ/ に連結 [ðɛr ˈkɑŋ.kwɛst]"
+          ],
+          "kana": "ザ プレイアーズ アー セラブレイティング ゼア コンクエスト オヴ ザ ストロングホウルド"
+        },
+        {
+          "en": "Celebrating achievements is a way to build community spirit in multiplayer servers.",
+          "ja": "成果を祝うことは、マルチプレイサーバーでコミュニティスピリットを築く方法です。",
+          "ipa": "/ˈsɛl.ə.breɪ.tɪŋ əˈtʃiv.mənts ɪz ə ˈweɪ tu ˈbɪld kəˈmjuː.nə.ti ˈspɪr.ɪt ɪn ˈmʌl.ti.ˈpleɪ.ər ˈsɝr.vərz/",
+          "linking": [
+            "celebrating achievements → /ŋ/ + /ə/ (子音+母音) が連結 [ˈsɛl.ə.breɪ.tɪŋ əˈtʃiv.mənts]",
+            "achievements is → /s/ + /ɪ/ (子音+母音) が連結、is の末尾も /z/ [əˈtʃiv.mənts ɪz]",
+            "way to → way の末尾 /eɪ/ が to の初期子音 /t/ に先行、to は弱形 [ˈweɪ tə]"
+          ],
+          "kana": "セラブレイティング ア・チーヴメンツ イズ ア ウェイ トゥ ビルド コミュニティー スピリット イン マルチプレイアー サーバーズ"
+        }
+      ]
     }
   ]
 }

@@ -65,5 +65,59 @@
       ],
       "kana": "ウィ クワイエットリ イスケイプト フラム ザ ネザー ウェン ザ ガスツ アタクト"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more quietly",
+      "ipa": "/ˌmoɚ ˈkwaɪətli/",
+      "examples": [
+        {
+          "en": "Mobs move more quietly at night.",
+          "ja": "モブは夜の方がより静かに動く。",
+          "ipa": "/mɑbz muːv ˌmoɚ ˈkwaɪətli æt ˈnaɪt/",
+          "linking": [
+            "at の /t/ が未開放で次の子音 /n/ 前で [æt̚ naɪt]"
+          ],
+          "kana": "モブズ ムーヴ モア クワイエットリ アッ ナイト"
+        },
+        {
+          "en": "I can sneak more quietly than zombies.",
+          "ja": "ゾンビーよりも、私はより静かに忍び込める。",
+          "ipa": "/aɪ kæn ˈsniːk ˌmoɚ ˈkwaɪətli ðæn ˈzɑmiz/",
+          "linking": [
+            "than は弱形 /ðən/ で、前の単語から滑らかに移行"
+          ],
+          "kana": "アイ キャン スニーク モア クワイエットリ ザン ゾンビーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most quietly",
+      "ipa": "/ˌmoʊst ˈkwaɪətli/",
+      "examples": [
+        {
+          "en": "The Wither screams most quietly at dawn.",
+          "ja": "ウィザーは夜明けに最も静かに叫ぶ。",
+          "ipa": "/ðə ˈwɪðɚ ˈskriːmz ˌmoʊst ˈkwaɪətli æt ˈdɔn/",
+          "linking": [
+            "most の末尾 /t/ が未開放で子音 /k/ 前で [ˌmoʊs̚t ˈkwaɪətli]"
+          ],
+          "kana": "ザ ウィザー スクリーズ モースト クワイエットリ アッ ドーン"
+        },
+        {
+          "en": "We must hide most quietly when creepers come.",
+          "ja": "クリーパーが来たとき、我々は最も静かに隠れなければならない。",
+          "ipa": "/wi məst ˈhaɪd ˌmoʊst ˈkwaɪətli ˈwɛn ˈkriːpɚz ˈkʌm/",
+          "linking": [
+            "most の末尾 /t/ が未開放で子音 /k/ 前で [ˌmoʊs̚t ˈkwaɪətli]"
+          ],
+          "kana": "ウィ マスト ハイド モースト クワイエットリ ウェン クリーパーズ カム"
+        }
+      ]
+    }
   ]
 }

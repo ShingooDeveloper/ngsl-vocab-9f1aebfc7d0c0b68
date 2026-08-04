@@ -11,6 +11,64 @@
     "【副詞】うまく、巧みに、効果的に（in a skillful or effective manner）",
     "【副詞】予定通りに、トラブルなく（without problems or difficulties；as planned）"
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（副詞）",
+      "text": "more successfully",
+      "ipa": "/mɔr səkˈsɛsfəli/",
+      "examples": [
+        {
+          "en": "Our team completed the mining challenge more successfully this time.",
+          "ja": "私たちのチームは今回、採掘チャレンジをより成功裏に完成させました。",
+          "ipa": "/ˈaʊr tim kəmˈpliːtɪd ðə ˈmaɪnɪŋ ˈtʃælɪndʒ mɔr səkˈsɛsfəli ðɪs ˈtaɪm/",
+          "linking": [
+            "team completed → /m/ + /k/ は子音+子音で連結なし",
+            "completed the → /d/ + /ð/ は子音+子音で連結なし；the は冠詞の弱形 /ðə/"
+          ],
+          "kana": "アワー ティーム コンプリーティド ザ マイニング チャレンジ モア サクセスフリ ディス タイム"
+        },
+        {
+          "en": "Building with a team works more successfully than working alone.",
+          "ja": "チームで建設するほうが、1人で建設するより成功裏に機能します。",
+          "ipa": "/ˈbɪldɪŋ wɪð ə tim ˈwɝks mɔr səkˈsɛsfəli ðæn ˈwɝkɪŋ əˈloʊn/",
+          "linking": [
+            "with a → with の末尾子音 /ð/ が a の弱形 /ə/ に連結 [wɪðə] ウィザ",
+            "successfully than → /i/ + /ð/ は母音+子音で連結なし"
+          ],
+          "kana": "ビルディング ウィザ ア ティーム ワークス モア サクセスフリ ザン ワーキング アローン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（副詞）",
+      "text": "most successfully",
+      "ipa": "/ˈmoʊst səkˈsɛsfəli/",
+      "examples": [
+        {
+          "en": "That was the most successfully executed farm design in our server.",
+          "ja": "それは私たちのサーバーで最も成功裏に実行された農場設計でした。",
+          "ipa": "/ðæt wəz ðə ˈmoʊst səkˈsɛsfəli ɪgˈzɛkyətɪd ˈfɑrm dɪˈzaɪn ɪn ˈaʊr ˈsɝvər/",
+          "linking": [
+            "was the → was の末尾子音 /z/ が the の弱形 /ðə/ に連結 [wəz ðə] ワズ ザ",
+            "successfully executed → /i/ + /ɪ/ は母音+母音で連結なし"
+          ],
+          "kana": "ザット ワズ ザ モウスト サクセスフリ イグゼキューティド ファーム ディザイン イン アワー サーバー"
+        },
+        {
+          "en": "The raid defense was most successfully coordinated with clear communication.",
+          "ja": "レイド防御は、明確なコミュニケーションで最も成功裏に調整されました。",
+          "ipa": "/ðə ˈreɪd dɪˈfɛns wəz ˈmoʊst səkˈsɛsfəli ˈkoʊˌɔrdɪˌneɪtɪd wɪð klɪr kəˌmjuːnɪˈkeɪʃən/",
+          "linking": [
+            "The raid → The は冠詞の弱形 /ðə/ ザ",
+            "with clear → with の末尾子音 /ð/ が clear の /k/ に連なるが子音+子音で連結なし"
+          ],
+          "kana": "ザ レイド ディフェンス ワズ モウスト サクセスフリ コーディネイティド ウィズ クリア コミュニケイション"
+        }
+      ]
+    }
+  ],
   "examples": [
     {
       "en": "I successfully dug a hole in the ground.",
@@ -52,9 +110,10 @@
       "ipa": "/ðə ˈpleɪɚ səkˈsɛsfəli ɪˈskeɪpt frəm ðə ˈmɑbz əˈtæk/",
       "linking": [
         "the は冠詞の弱形 /ðə/",
-        "from the で m が /ðə/ に連結 [frəmðə] フラムザ"
+        "from the で m が /ðə/ に連結 [frəmðə] フラムザ",
+        "mobs の末尾子音 /z/ が attack の /ə/ に連結。結果は [ˈmɑbzə] モブザ"
       ],
-      "kana": "ザ プレイヤー サクセスフリ イスケイプト フラムザ モブズ アタック"
+      "kana": "ザ プレイヤー サクセスフリ イスケイプト フラムザ モブザ アタック"
     },
     {
       "idiom": "successfully complete",
@@ -63,7 +122,7 @@
       "example_ja": "私たちは死なずに採掘チャレンジを完成させました。",
       "ipa": "/wi səkˈsɛsfəli kəmˈplitɪd ðə ˈmaɪnɪŋ ˈtʃælɪndʒ wɪðˈaʊt ˈdaɪɪŋ/",
       "linking": [
-        "completed の末尾 /d/ が the の /ðə/ に続く未開放",
+        "completed の末尾子音 /d/ が the の初頭弱形 /ðə/ に連結",
         "the は冠詞の弱形 /ðə/ ザ"
       ],
       "kana": "ウィ サクセスフリ コンプリーティド ザ マイニング チャレンジ ウィザウト ダイイング"
@@ -75,10 +134,9 @@
       "example_ja": "私たちのチームはレイドから基地を守りきりました。",
       "ipa": "/ɑɚ tim səkˈsɛsfəli dɪˈfɛndɪd ðə beɪs əˈɡɛnst ðə reɪd/",
       "linking": [
-        "our の末尾 /r/ が team の /t/ に続く連結",
-        "base の末尾 /s/ が against の /ə/ に続く（未開放）"
+        "base の末尾子音 /s/ が against の初頭弱形 /ə/ に連結"
       ],
-      "kana": "アワー ティーム サクセスフリ ディフェンディド ザ ベイス アゲンスト ザ レイド"
+      "kana": "アワー ティーム サクセスフリ ディフェンディド ザ ベイサ ゲンスト ザ レイド"
     }
   ]
 }

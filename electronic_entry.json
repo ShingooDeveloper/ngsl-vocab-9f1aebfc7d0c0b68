@@ -1,7 +1,7 @@
 {
   "word": "electronic",
-  "pos": "形容詞",
-  "pos_all": "形容詞",
+  "pos": "形容詞・名詞",
+  "pos_all": "形容詞・名詞",
   "ipa_us": "/ɪˈlɛktrənɪk/",
   "rank": 1719,
   "level": "B1",
@@ -45,6 +45,66 @@
         "in の /n/ が Minecraft の /m/ に続く [ɪn ˈmaɪn] イン マイン"
       ],
       "kana": "ビルディング イレクトロニック コントラプションズ ティーチズ ユー プロブラム ソルヴィング スキルズ イン マインクラフト"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more electronic",
+      "ipa": "/ˌmoʊr ɪˈlɛktrənɪk/",
+      "examples": [
+        {
+          "en": "This farm is more electronic than the basic one.",
+          "ja": "この農場は基本的なものより電子的です。",
+          "ipa": "/ðɪs ˈfɑrm ɪz ˌmoʊr ɪˈlɛktrənɪk ðən ðə ˈbeɪsɪk ˈwʌn/",
+          "linking": [
+            "farm is → farm の末尾 /m/ が is の /ɪ/ に連結 [ɑrm ɪz] ファーム イズ",
+            "more electronic → more の末尾 /r/ が electronic の /ɪ/ に連結 [oʊrɪ] モアリ",
+            "than the → than の末尾 /n/ が the の弱形 /ə/ に連結 [ðænə] ザンア"
+          ],
+          "kana": "ディス ファーム イズ モアリ レクトロニック ザンア ベイシック ワン"
+        },
+        {
+          "en": "We need a more electronic solution to automate this process.",
+          "ja": "このプロセスを自動化するのに、より電子的なソリューションが必要です。",
+          "ipa": "/wi ˈniːd ə ˌmoʊr ɪˈlɛktrənɪk səˈluːʃən tu ˈɔːtəmeɪt ðɪs ˈprɑːsɛs/",
+          "linking": [
+            "more electronic → more の末尾 /r/ が electronic の /ɪ/ に連結 [oʊrɪ] モアリ",
+            "to automate → to は弱形 /tə/ で automate の /ɔ/ に続く [tə ˈɔ] タ オート"
+          ],
+          "kana": "ウィ ニード ア モアリ レクトロニック ソリューション タ オートメイト ディス プロセス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most electronic",
+      "ipa": "/ˌmoʊst ɪˈlɛktrənɪk/",
+      "examples": [
+        {
+          "en": "This is the most electronic farm we've built.",
+          "ja": "これは私たちが構築した最も電子的な農場です。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊst ɪˈlɛktrənɪk ˈfɑrm wiv bɪlt/",
+          "linking": [
+            "This is → This の末尾 /s/ が is の /ɪ/ に連結（有声化）[ðɪz ɪz] ディズ イズ",
+            "most electronic → most の末尾 /t/ が electronic の /ɪ/ に連結（未開放）[oʊs̚t ɪ] モース イ"
+          ],
+          "kana": "ディズ イズ ザ モース レクトロニック ファーム ウィヴ ビルト"
+        },
+        {
+          "en": "The most electronic farm in the server is incredible.",
+          "ja": "サーバーで最も電子的な農場は驚異的です。",
+          "ipa": "/ðə ˈmoʊst ɪˈlɛktrənɪk ˈfɑrm ɪn ðə ˈsɜrvər ɪz ɪnˈkrɛdəbəl/",
+          "linking": [
+            "most electronic → most の末尾 /t/ が electronic の /ɪ/ に連結（未開放）[oʊs̚t ɪ] モース イ",
+            "farm in → farm の末尾 /m/ が in の /ɪ/ に連結 [ɑrm ɪn] ファーム イン",
+            "the → the は弱形 /ðə/ に弱化 [ðə] ザ"
+          ],
+          "kana": "ザ モース レクトロニック ファーム イン ザ サーバー イズ インクレディバル"
+        }
+      ]
     }
   ],
   "idioms": [

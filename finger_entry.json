@@ -73,5 +73,39 @@
       ],
       "kana": "ドント ポイン タ フィンガー アット ザ アザー プレイアーズ フォア ザ ラッグ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "fingers",
+      "ipa": "/ˈfɪŋɡərz/",
+      "examples": [
+        {
+          "en": "Your fingers improve with constant practice and hard work.",
+          "ja": "一定の練習と努力であなたの指が上達します。",
+          "ipa": "/jɔr ˈfɪŋɡərz ɪmˈpruv wɪð ˈkɑnstənt ˈpræktɪs ənd hɑrd wɝk/",
+          "linking": [
+            "your fingers → your の /ɹ/ が fingers の /f/ に続く（子音+子音、連結なし）",
+            "fingers improve → fingers の末尾の /z/ が improve の母音 /ɪ/ に連結 [ˈfɪŋɡərz ɪmˈpruv]",
+            "practice and → and は機能語で弱形 /ən/ or /ənd/",
+            "hard work → /d/ + /w/ で子音+子音、連結なし"
+          ],
+          "kana": "ユア フィンガーズ イムプルーヴ ウィズ カンスタント プラクティス アンド ハード ワーク"
+        },
+        {
+          "en": "The fingers of skilled players move with incredible speed.",
+          "ja": "熟練プレイヤーの指は信じられないほどの速度で動きます。",
+          "ipa": "/ðə ˈfɪŋɡərz əv skɪld ˈpleɪɚz muv wɪð ɪnˈkrɛdəbəl ˈspiːd/",
+          "linking": [
+            "the fingers → the は機能語で弱形 /ðə/",
+            "fingers of → fingers の末尾の /z/ が of の弱形 /əv/ に連結 [ˈfɪŋɡərz əv]",
+            "of skilled → of は弱形 /əv/、skilled との間は /v/ + /sk/ で子音+子音",
+            "move with → move の末尾の /v/ が with の /w/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ フィンガーズ オブ スキルド プレイヤーズ ムーヴ ウィズ インクレディブル スピード"
+        }
+      ]
+    }
   ]
 }

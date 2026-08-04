@@ -19,7 +19,7 @@
       "ipa": "/ju niːd tə ˈɑpəreɪt ðə ˈlɛvər ˈkɛrfəli tə ˈoʊpən ðə ˈhɪdən ˈdɔːr/",
       "linking": [
         "need to → to は機能語で弱形 /tə/ に弱化",
-        "the lever → the は弱形 /ðə/、lever の /r/ が carefully に連結 [ˈlɛvər ˈkɛrfəli] レヴァー ケアフリー",
+        "the lever → the は弱形 /ðə/、lever の末尾 /r/ が carefully の初頭 /k/ に続く（子音+子音で連結なし）",
         "hidden door → /n/ + /d/ が子音+子音で連結なし"
       ],
       "kana": "ユー ニード タ アペレイト ザ レヴァー ケアフリー タ オウペン ザ ヒデン ドア"
@@ -66,8 +66,8 @@
       "example_ja": "エンチャント システムは定義されたダメージ制限内で動作する必要がある。",
       "ipa": "/ðə ɛnˈtʃæntɪŋ ˈsɪstəm məst ˈɑpəreɪt wɪðˈɪn ðə dɪˈfaɪnd ˈdæmɪdʒ ˈlɪmɪts/",
       "linking": [
-        "must operate → must の /t/ が operate の /ɑ/ に未開放で続く。operate は /ˈɑpəreɪt/",
-        "within the → within の末音が the に連結。the は弱形 /ðə/ [wɪðˈɪn ðə] ウィジン ザ"
+        "must operate → must の末尾 /t/ と operate の初頭 /ɑ/ が未開放で続く",
+        "within the → within の末尾 /n/ と the の初頭 /ð/ が子音+子音で連結なし。the は弱形 /ðə/"
       ],
       "kana": "ザ エンチャンティング システム マスト オペレイト ウィジン ザ ディファインド ダメッジ リミッツ"
     }
@@ -84,7 +84,7 @@
           "ja": "農場は収穫期に満杯の容量で動作する。",
           "ipa": "/ðə ˈfɑːrm ˈɑpəreɪts ət ˈfʊl kəˈpæsɪti ˈdʊrɪŋ ˈhɑːrvɪst ˈsiːzən/",
           "linking": [
-            "operates at → 語末 /ts/ と at の初頭 /æ/ が連結 [ˈɑpəreɪts ət] オペレイツ アット",
+            "operates at → operates の末尾 /ts/ と at の初頭 /ə/ が連結。at は弱形 /ət/",
             "during harvest → /ŋ/ + /h/ が子音+子音で連結なし"
           ],
           "kana": "ザ ファーム オペレイツ アット フル キャパシティ ジューリング ハーヴィスト シーズン"
@@ -95,7 +95,7 @@
           "ipa": "/ʃi ˈɑpəreɪts ˈsɛvərəl ˈmaɪnˌkræft ˈsɜːrvərz frəm hɚ ˈhoʊm ˈbeɪs/",
           "linking": [
             "operates several → 語末 /ts/ と several の初頭 /s/ が子音+子音で連結なし",
-            "several の /l/ が Minecraft に連結 [ˈsɛvərəl ˈmaɪnˌkræft] セヴァラル マインクラフト"
+            "several Minecraft → several の末尾 /l/ と Minecraft の初頭 /m/ が子音+子音で連結なし"
           ],
           "kana": "シー オペレイツ セヴァラル マインクラフト サーバーズ フラム ハー ホーム ベイス"
         }
@@ -109,23 +109,25 @@
       "examples": [
         {
           "en": "I operated the blast furnace for hours to smelt all the ores.",
-          "ja": "すべてのオーを溶かすために、たくさん(の時間)爆風炉を操作した。",
-          "ipa": "/aɪ ˈɑpəreɪtɪd ðə ˈblæst ˈfɜːrnɪs fɔːr ˈaʊərz tə ˈsmɛlt ɔːl ðə ˈɔːrz/",
+          "ja": "すべてのオーを溶かすために、何時間も高炉を操作した。",
+          "ipa": "/aɪ ˈɑpəreɪɾɪd ðə ˈblæst ˈfɜːrnɪs fɔːr ˈaʊərz tə ˈsmɛlt ɔːl ðə ˈɔːrz/",
           "linking": [
-            "operated the → 語末 /d/ と the の初頭 /ð/ が子音+子音で連結なし。the は弱形 /ðə/",
-            "for hours → for は弱形 /fɔr/、hours の /ə/ に連結 [fɔr ˈaʊərz] フォー アワーズ"
+            "operated 内部: /t/ が /eɪ/ と /ɪ/ に挟まれ、フラップ化 [ˈɑpəreɪɾɪd] オペレイリド",
+            "operated the → 末尾 /d/ と the の初頭 /ð/ が子音+子音で連結なし。the は弱形 /ðə/",
+            "for hours → for は弱形 /fɔr/、末尾 /r/ が hours の初頭 /aʊ/ に連結"
           ],
-          "kana": "アイ オペレイティド ザ ブラスト ファーニス フォー アワーズ タ スメルト オール ザ オアーズ"
+          "kana": "アイ オペレイリド ザ ブラスト ファーニス フォー アワーズ タ スメルト オール ザ オアーズ"
         },
         {
           "en": "We operated the mining elevator successfully and discovered diamonds.",
           "ja": "私たちはマイニング エレベーターを成功裏に操作してダイヤモンドを発見した。",
-          "ipa": "/wi ˈɑpəreɪtɪd ðə ˈmaɪnɪŋ ˈɛləˌveɪtər ˌsʌkˈsɛsfəli ənd dɪˈskʌvərd ˈdaɪəmændz/",
+          "ipa": "/wi ˈɑpəreɪɾɪd ðə ˈmaɪnɪŋ ˈɛləˌveɪtər ˌsʌkˈsɛsfəli ənd dɪˈskʌvərd ˈdaɪəmændz/",
           "linking": [
-            "operated the → 語末 /d/ と the の初頭 /ð/ が子音+子音で連結なし",
-            "discovered diamonds → 語末 /d/ と diamonds の初頭 /d/ が子音+子音で連結なし"
+            "operated 内部: /t/ がフラップ化 [ˈɑpəreɪɾɪd] オペレイリド",
+            "operated the → 末尾 /d/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "discovered diamonds → 末尾 /d/ と diamonds の初頭 /d/ が子音+子音で連結なし"
           ],
-          "kana": "ウィ オペレイティド ザ マイニング エレヴェイター サクセスフリー アン ディスカバード ダイアモンズ"
+          "kana": "ウィ オペレイリド ザ マイニング エレヴェイター サクセスフリー アン ディスカバード ダイアモンズ"
         }
       ]
     },
@@ -138,22 +140,24 @@
         {
           "en": "The system has been operated efficiently for many weeks.",
           "ja": "そのシステムは何週間も効率的に操作されてきた。",
-          "ipa": "/ðə ˈsɪstəm həz bɪn ˈɑpəreɪtɪd ɪˈfɪʃəntli fɔːr ˈmɛni ˈwiːks/",
+          "ipa": "/ðə ˈsɪstəm həz bɪn ˈɑpəreɪɾɪd ɪˈfɪʃəntli fɔːr ˈmɛni ˈwiːks/",
           "linking": [
-            "has been → has は弱形 /həz/、been と連結 [həz bɪn] ハズ ビン",
-            "operated efficiently → 語末 /d/ と efficiently の初頭 /ɪ/ が連結 [ˈɑpəreɪtɪd ɪˈfɪʃəntli] オペレイティド イフィシェントリー"
+            "operated 内部: /t/ がフラップ化 [ˈɑpəreɪɾɪd] オペレイリド",
+            "has been → has は弱形 /həz/。末尾 /z/ と been の初頭 /b/ が子音+子音で連結なし",
+            "operated efficiently → 末尾 /d/ が efficiently の初頭 /ɪ/ に連結"
           ],
-          "kana": "ザ システム ハズ ビン オペレイティド イフィシェントリー フォー メニー ウィークス"
+          "kana": "ザ システム ハズ ビン オペレイリド イフィシェントリー フォー メニー ウィークス"
         },
         {
           "en": "Once the machine had been operated by the engineer, it worked perfectly.",
           "ja": "エンジニアがマシンを操作すると、完璧に機能した。",
-          "ipa": "/wʌns ðə məˈʃiːn hæd bɪn ˈɑpəreɪtɪd baɪ ðə ˌɛndʒɪˈnɪr | ɪt ˈwɜːrkt ˈpɜːrfɪktli/",
+          "ipa": "/wʌns ðə məˈʃiːn hæd bɪn ˈɑpəreɪɾɪd baɪ ðə ˌɛndʒɪˈnɪr | ɪt ˈwɜːrkt ˈpɜːrfɪktli/",
           "linking": [
-            "operated by → 語末 /d/ と by の初頭 /b/ が子音+子音で連結なし",
-            "engineer it → 末音 /r/ と it の初頭 /ɪ/ が連結 [ɛndʒɪˈnɪr ɪt] エンジニア イット"
+            "operated 内部: /t/ がフラップ化 [ˈɑpəreɪɾɪd] オペレイリド",
+            "operated by → 末尾 /d/ と by の初頭 /b/ が子音+子音で連結なし",
+            "engineer it → 末尾 /r/ が it の初頭 /ɪ/ に連結 [ɛndʒɪˈnɪr ɪt] エンジニア イット"
           ],
-          "kana": "ワンス ザ マシーン ハド ビン オペレイティド バイ ザ エンジニアー、イット ワーク パーフェクトリー"
+          "kana": "ワンス ザ マシーン ハド ビン オペレイリド バイ ザ エンジニアー、イット ワーク パーフェクトリー"
         }
       ]
     },
@@ -166,23 +170,115 @@
         {
           "en": "Operating the complex redstone mechanism requires advanced knowledge.",
           "ja": "複雑なレッドストーン機構を操作するには、高度な知識が必要です。",
-          "ipa": "/ˈɑpəreɪtɪŋ ðə ˈkɑːmplɛks ˈrɛdstoʊn ˈmɛkənɪzəm rɪˈkwaɪərz ədˈvænst ˈnɑːlɪdʒ/",
+          "ipa": "/ˈɑpəreɪɾɪŋ ðə ˈkɑːmplɛks ˈrɛdstoʊn ˈmɛkənɪzəm rɪˈkwaɪərz ədˈvænst ˈnɑːlɪdʒ/",
           "linking": [
-            "operating the → 語末 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
-            "complex redstone → 語末 /ks/ と redstone の初頭 /r/ が子音+子音で連結なし"
+            "operating 内部: /t/ が /eɪ/ と /ɪ/ に挟まれ、フラップ化 [ˈɑpəreɪɾɪŋ] オペレイリング",
+            "operating the → 末尾 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "complex redstone → 末尾 /ks/ と redstone の初頭 /r/ が子音+子音で連結なし"
           ],
-          "kana": "オペレイティング ザ コンプレックス レッドストーン メカニズム リクワイアーズ アドヴァンスド ナレッジ"
+          "kana": "オペレイリング ザ コンプレックス レッドストーン メカニズム リクワイアーズ アドヴァンスド ナレッジ"
         },
         {
           "en": "While operating the enchantment table, you might discover rare enchantments.",
           "ja": "エンチャント テーブルを操作している間に、稀なエンチャントを発見するかもしれません。",
-          "ipa": "/waɪl ˈɑpəreɪtɪŋ ðə ɛnˈtʃæntmənt ˈteɪbəl | ju ˈmaɪt dɪˈskʌvər ˈrɛr ɛnˈtʃæntmənts/",
+          "ipa": "/waɪl ˈɑpəreɪɾɪŋ ðə ɛnˈtʃæntmənt ˈteɪbəl | ju ˈmaɪt dɪˈskʌvər ˈrɛr ɛnˈtʃæntmənts/",
           "linking": [
-            "operating the → 語末 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
-            "table you → 語末 /l/ と you の初頭 /j/ が連結 [ˈteɪbəl ju] テイバル ユー",
-            "discover rare → 語末 /r/ と rare の初頭 /r/ が子音+子音で連結なし"
+            "operating 内部: /t/ がフラップ化 [ˈɑpəreɪɾɪŋ] オペレイリング",
+            "operating the → 末尾 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし",
+            "table you → 末尾 /l/ と you の初頭 /j/ が子音+子音で連結なし",
+            "discover rare → 末尾 /r/ と rare の初頭 /r/ が子音+子音で連結なし"
           ],
-          "kana": "ワイル オペレイティング ザ エンチャントメント テイバル、ユー マイト ディスカバー レア エンチャントメンツ"
+          "kana": "ワイル オペレイリング ザ エンチャントメント テイバル、ユー マイト ディスカバー レア エンチャントメンツ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is operating",
+      "ipa": "/ɪz ˈɑpəreɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone farm is operating at peak efficiency right now.",
+          "ja": "レッドストーン農場は現在最大効率で動作しています。",
+          "ipa": "/ðə ˈrɛdstoʊn ˈfɑːrm ɪz ˈɑpəreɪɾɪŋ æt ˈpiːk əˈfɪʃənsi ˈraɪt ˈnaʊ/",
+          "linking": [
+            "farm is → farm の末尾 /m/ と is の初頭 /ɪ/ が子音+母音で連結",
+            "is operating → 末尾 /z/ と operating の初頭 /ɑ/ が子音+母音で連結。is は弱形 /ɪz/"
+          ],
+          "kana": "ザ レッドストーン ファーム イズ オペレイリング アット ピーク アフィシェンシー ライト ナウ"
+        },
+        {
+          "en": "She is operating a large-scale auto-smelter for her mining base.",
+          "ja": "彼女は彼女のマイニングベースのための大規模な自動製錬機を操作しています。",
+          "ipa": "/ʃi ɪz ˈɑpəreɪɾɪŋ ə ˈlɑːrdʒ ˌskeɪl ˌɔːtoʊ ˈsmɛltər fɔːr hɚ ˈmaɪnɪŋ ˈbeɪs/",
+          "linking": [
+            "She is → she の末尾 /i/ と is の初頭 /ɪ/ が母音+母音で連結なし。is は弱形 /ɪz/",
+            "is operating → 末尾 /z/ と operating の初頭 /ɑ/ が子音+母音で連結",
+            "a large → a は弱形 /ə/、末尾 /ə/ と large の初頭 /l/ が母音+子音で連結"
+          ],
+          "kana": "シー イズ オペレイリング ア ラージ スケール オートー スメルター フォー ハー マイニング ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was operating",
+      "ipa": "/wəz ˈɑpəreɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "The farm was operating smoothly when I arrived at the base.",
+          "ja": "私がベースに到着したとき、その農場は滑らかに動作していました。",
+          "ipa": "/ðə ˈfɑːrm wəz ˈɑpəreɪɾɪŋ ˈsmuːðli wɛn aɪ əˈraɪvd æt ðə ˈbeɪs/",
+          "linking": [
+            "farm was → farm の末尾 /m/ と was の初頭 /w/ が子音+子音で連結なし。was は弱形 /wəz/",
+            "was operating → 末尾 /z/ と operating の初頭 /ɑ/ が子音+母音で連結",
+            "I arrived → arrived の末尾 /d/ と at の初頭 /æ/ が子音+母音で連結"
+          ],
+          "kana": "ザ ファーム ワズ オペレイリング スムーズリー ウェン アイ ア ライヴド アット ザ ベイス"
+        },
+        {
+          "en": "We were operating the brewing system when the power went out.",
+          "ja": "電力が切れたとき、私たちは醸造システムを操作していました。",
+          "ipa": "/wi wɚ ˈɑpəreɪɾɪŋ ðə ˈbruːɪŋ ˈsɪstəm wɛn ðə ˈpaʊər wɛnt ˈaʊt/",
+          "linking": [
+            "We were → were /wɚ/ は強形。末尾 /r/ と operating の初頭 /ɑ/ が子音+母音で連結。were は弱形 /wər/ に",
+            "were operating → 末尾 /r/ と operating の初頭 /ɑ/ が子音+母音で連結",
+            "operating the → 末尾 /ŋ/ と the の初頭 /ð/ が子音+子音で連結なし。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ワー オペレイリング ザ ブルーイング システム ウェン ザ パウアー ウェント アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been operating",
+      "ipa": "/ˈhæd bɪn ˈɑpəreɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "The system had been operating for hours before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、システムは何時間も動作していました。",
+          "ipa": "/ðə ˈsɪstəm həd bɪn ˈɑpəreɪɾɪŋ fɔːr ˈaʊərz bɪˈfɔːr ðə ˈsɜːrvər ˈkræʃt/",
+          "linking": [
+            "system had → system の末尾 /m/ と had の初頭 /h/ が子音+子音で連結なし。had は弱形 /həd/",
+            "had been → 末尾 /d/ と been の初頭 /b/ が子音+子音で連結なし。been は弱形 /bɪn/",
+            "been operating → 末尾 /n/ と operating の初頭 /ɑ/ が子音+母音で連結",
+            "for hours → for は弱形 /fər/、末尾 /r/ と hours の初頭 /aʊ/ が子音+母音で連結"
+          ],
+          "kana": "ザ システム ハド ビン オペレイリング フォー アワーズ ビフォア ザ サーバー クラッシュト"
+        },
+        {
+          "en": "The auto-farm had been operating all night without stopping.",
+          "ja": "オートファームは止まることなく一晩中動作していました。",
+          "ipa": "/ðə ˈɔːtoʊ ˌfɑːrm həd bɪn ˈɑpəreɪɾɪŋ ˈɔːl ˈnaɪt wɪðˈaʊt ˈstɑːpɪŋ/",
+          "linking": [
+            "farm had → farm の末尾 /m/ と had の初頭 /h/ が子音+子音で連結なし。had は弱形 /həd/",
+            "had been → 末尾 /d/ と been の初頭 /b/ が子音+子音で連結なし。been は弱形 /bɪn/",
+            "been operating → 末尾 /n/ と operating の初頭 /ɑ/ が子音+母音で連結 [bɪn ˈɑpəreɪɾɪŋ] ビン オペレイリング"
+          ],
+          "kana": "ザ オートー ファーム ハド ビン オペレイリング オール ナイト ウィザウト スタッピング"
         }
       ]
     }

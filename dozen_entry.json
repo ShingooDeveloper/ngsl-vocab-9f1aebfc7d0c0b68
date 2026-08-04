@@ -43,6 +43,36 @@
       "kana": "アイ ギャザーア ダズン エッグズ フラム ザ チキン ファーム"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "dozens",
+      "ipa": "/ˈdʌzənz/",
+      "examples": [
+        {
+          "en": "I crafted dozens of wooden blocks for my castle.",
+          "ja": "城のために何十個もの木製ブロックをクラフトした。",
+          "ipa": "/aɪ ˈkræftəd ˈdʌzənz əv ˈwʊdən ˈblɑks fər maɪ ˈkæsəl/",
+          "linking": [
+            "of は機能語で弱形 /əv/。wooden に連結。[əv ˈwʊdən]",
+            "for は機能語で弱形 /fər/。my に連結。[fər maɪ]"
+          ],
+          "kana": "アイ クラフテッド ダズンズ アヴ ウッデン ブロックス ファー マイ キャッスル"
+        },
+        {
+          "en": "Dozens of mobs spawned around the dungeon.",
+          "ja": "ダンジョンの周りに何十体ものモブがスポーンした。",
+          "ipa": "/ˈdʌzənz əv ˈmoʊbz spɔnd əˈraʊnd ðə ˈdʌŋən/",
+          "linking": [
+            "Dozens の末尾 /z/ が of の初頭母音 /ə/ に連結。[ˈdʌzənz əv]",
+            "the は冠詞で弱形 /ðə/。dungeon に連結。[ðə ˈdʌŋən]"
+          ],
+          "kana": "ダズンズ アヴ モブズ スポウンド ア ラウンド ザ ダンジョン"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "a dozen",

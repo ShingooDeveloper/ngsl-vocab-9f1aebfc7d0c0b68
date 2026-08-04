@@ -68,5 +68,166 @@
       ],
       "kana": "アイ ファウンド ア パイラヴ ダイアモンズ イン ザット ケイヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "piles",
+      "ipa": "/paɪlz/",
+      "examples": [
+        {
+          "en": "I found piles of diamonds in the cave after exploring the mineshaft.",
+          "ja": "鉱山を探索した後、洞窟でダイヤモンドの山を見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈpaɪlz əv ˈdaɪəməndz ɪn ðə ˈkeɪv ˈæftər ɪkˈsplɔːrɪŋ ðə ˈmaɪnˌʃæft/",
+          "linking": [
+            "piles の末尾 /z/ が of に連結。of は弱形 /əv/ [ˈpaɪlz əv] パイルズ オブ",
+            "in の末尾 /n/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the は弱形。mineshaft に連結 [ðə ˈmaɪnˌʃæft] ザ マインシャフト"
+          ],
+          "kana": "アイ ファウンド パイルズ オブ ダイアモンドズ イン ザ ケイヴ アフター エクスプロアリング ザ マインシャフト"
+        },
+        {
+          "en": "The warehouse contains piles of valuable materials needed for crafting.",
+          "ja": "倉庫にはクラフトに必要な貴重な材料の山が含まれています。",
+          "ipa": "/ðə ˈwɛrˌhaʊs kənˈteɪnz ˈpaɪlz əv ˈvæljuəbəl məˈtɪriəlz ˈnidɪd fɔr ˈkræftɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/。warehouse に連結 [ðə ˈwɛrˌhaʊs] ザ ウェアハウス",
+            "piles の末尾 /z/ が of に連結。of は弱形 /əv/ [ˈpaɪlz əv] パイルズ オブ",
+            "for は弱形 /fɚ/。crafting に続く"
+          ],
+          "kana": "ザ ウェアハウス コンテインズ パイルズ オブ ヴァリュアブル マテリアルズ ニーディッド フォー クラフティング"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "piles",
+      "ipa": "/paɪlz/",
+      "examples": [
+        {
+          "en": "My friend always piles blocks higher than mine when competing.",
+          "ja": "競争するときに、私の友達はいつも私のものより高くブロックを積み重ねます。",
+          "ipa": "/maɪ ˈfrɛnd ˈɔːlweɪz ˈpaɪlz ˈblɑːks ˈhaɪər ðæn ˈmaɪn wɛn kəmˈpitɪŋ/",
+          "linking": [
+            "friend の末尾 /d/ が always に連結 [ˈfrɛnd ˈɔːlweɪz]",
+            "always の末尾 /z/ が piles に続く（子音+子音、連結なし）",
+            "piles は [ˈpaɪlz]。blocks に続く（子音+子音、連結なし）",
+            "when は [ˈwɛn]。competing に続く"
+          ],
+          "kana": "マイ フレンド オールウェイズ パイルズ ブロックス ハイアー ザン マイン ウェン コンピーティング"
+        },
+        {
+          "en": "The dust piles up rapidly in the dust collector.",
+          "ja": "ダストコレクターでダストが素早く積もります。",
+          "ipa": "/ðə ˈdʌst ˈpaɪlz ˈʌp ˈræpɪdli ɪn ðə ˈdʌst kəˈlɛktər/",
+          "linking": [
+            "the は弱形 /ðə/。dust に連結 [ðə ˈdʌst] ザ ダスト",
+            "dust の末尾 /t/ が piles に続く（子音+子音、連結なし）",
+            "piles の末尾 /z/ が up に連結 [ˈpaɪlz ˈʌp] パイルズ アップ",
+            "in の末尾 /n/ が the に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ダスト パイルズ アップ ラピッドリー イン ザ ダスト コレクター"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "piled",
+      "ipa": "/paɪld/",
+      "examples": [
+        {
+          "en": "We piled all the wood blocks into the storage area.",
+          "ja": "私たちはすべての木のブロックを収納エリアに積み重ねました。",
+          "ipa": "/wi ˈpaɪld ˈɔːl ðə ˈwʊd ˈblɑːks ˈɪntu ðə ˈstɔːrɪdʒ ˈɛriə/",
+          "linking": [
+            "piled の末尾 /d/ が all に連結 [ˈpaɪld ˈɔːl] パイルド オール",
+            "all の末尾 /l/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "into は /ˈɪntu/。the に続く",
+            "the は弱形。storage に連結 [ðə ˈstɔːrɪdʒ] ザ ストレッジ"
+          ],
+          "kana": "ウィ パイルド オール ザ ウッド ブロックス イントゥ ザ ストレッジ エリア"
+        },
+        {
+          "en": "The mobs piled against the door and broke through our defenses.",
+          "ja": "モブが扉に対して積み重なり、私たちの防御を突き破りました。",
+          "ipa": "/ðə ˈmoʊbz ˈpaɪld əˈɡɛnst ðə ˈdɔːr ənd ˈbroʊk ˈθru ˈaʊər dɪˈfɛnsɪz/",
+          "linking": [
+            "the は弱形 /ðə/。mobs に連結 [ðə ˈmoʊbz] ザ モブズ",
+            "mobs の末尾 /z/ が piled に続く（子音+子音、連結なし）",
+            "against は [əˈɡɛnst]。the に続く（子音+子音、連結なし）",
+            "the は弱形。door に連結 [ðə ˈdɔːr] ザ ドア",
+            "and は弱形 /ənd/ または /ən/。broke に続く"
+          ],
+          "kana": "ザ モブズ パイルド アゲインスト ザ ドア アン ブローク スルー アワー ディフェンシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "piled",
+      "ipa": "/paɪld/",
+      "examples": [
+        {
+          "en": "Having piled everything neatly, we could find items easily in the warehouse.",
+          "ja": "すべてをきちんと積み重ねた後、倉庫の中で簡単にアイテムを見つけることができました。",
+          "ipa": "/ˈheɪvɪŋ ˈpaɪld ˈɛvriθɪŋ ˈnitli | wi ˈkʊd ˈfaɪnd ˈaɪtəmz ˈizili ɪn ðə ˈwɛrˌhaʊs/",
+          "linking": [
+            "having は [ˈheɪvɪŋ]。piled に続く（子音+子音、連結なし）",
+            "piled の末尾 /d/ が everything に連結 [ˈpaɪld ˈɛvriθɪŋ]",
+            "could は [ˈkʊd]。find に続く（子音+子音、連結なし）",
+            "in の末尾 /n/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング パイルド エブリシング ニートリー、ウィ クッド ファインド アイテムズ イージリー イン ザ ウェアハウス"
+        },
+        {
+          "en": "The resources were piled up to the ceiling in an organized manner.",
+          "ja": "リソースは天井まで整然と積み重ねられました。",
+          "ipa": "/ðə rɪˈsɔːrsɪz wər ˈpaɪld ˈʌp tu ðə ˈsilɪŋ ɪn ən ˈɔːrɡənaɪzd ˈmænər/",
+          "linking": [
+            "the は弱形 /ðə/。resources に連結 [ðə rɪˈsɔːrsɪz] ザ リソーシズ",
+            "were は弱形 /wər/。piled に連結 [wər ˈpaɪld] ワー パイルド",
+            "piled の末尾 /d/ が up に連結 [ˈpaɪld ˈʌp] パイルド アップ",
+            "to は弱形 /tə/。the に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ リソーシズ ワー パイルド アップ トゥ ザ シーリング イン エン オーガナイズド マナー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "piling",
+      "ipa": "/ˈpaɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Piling resources efficiently saves time during base construction.",
+          "ja": "リソースを効率的に積み重ねることは基地建築時に時間を節約します。",
+          "ipa": "/ˈpaɪlɪŋ rɪˈsɔːrsɪz ɪˈfɪʃəntli ˈseɪvz ˈtaɪm ˈdʊrɪŋ ˈbeɪs kənˈstrʌkʃən/",
+          "linking": [
+            "piling は [ˈpaɪlɪŋ]。resources に続く（子音+子音、連結なし）",
+            "efficiently は [ɪˈfɪʃəntli]。saves に続く",
+            "saves の末尾 /z/ が time に続く（子音+子音、連結なし）",
+            "during は [ˈdʊrɪŋ]。base に続く"
+          ],
+          "kana": "パイリング リソーシズ イフィシェントリー セイブズ タイム デュアリング ベース コンストラクション"
+        },
+        {
+          "en": "Keep piling blocks until you reach the desired height.",
+          "ja": "目的の高さに達するまでブロックを積み重ねてください。",
+          "ipa": "/ˈkiːp ˈpaɪlɪŋ ˈblɑːks ənˈtɪl ju ˈritʃ ðə dɪˈzaɪərd ˈhaɪt/",
+          "linking": [
+            "keep は [ˈkiːp]。piling に続く（子音+子音、連結なし）",
+            "piling は [ˈpaɪlɪŋ]。blocks に続く（子音+子音、連結なし）",
+            "until は [ənˈtɪl]。you に続く",
+            "the は弱形 /ðə/。desired に連結 [ðə dɪˈzaɪərd] ザ ディザイアード"
+          ],
+          "kana": "キープ パイリング ブロックス アンティル ユー リーチ ザ ディザイアード ハイト"
+        }
+      ]
+    }
   ]
 }

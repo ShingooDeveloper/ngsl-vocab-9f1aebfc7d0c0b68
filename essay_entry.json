@@ -57,5 +57,162 @@
       ],
       "kana": "アイル エッセイ タ ファインダイモンズ イン ディス ディープ ケイブ システム"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "essays",
+      "ipa": "/ˈɛseɪz/",
+      "examples": [
+        {
+          "en": "He essays new redstone circuits every week.",
+          "ja": "彼は毎週新しいレッドストーン回路を試します。",
+          "ipa": "/hi ˈɛseɪz ˈnu ˈrɛdˌstoʊn ˈsɝːkɪts ˈɛvri ˈwik/",
+          "linking": [
+            "essays の z が new に続く（子音+子音、連結なし）",
+            "circuits の ts が every に続く（子音+母音、連結あり）"
+          ],
+          "kana": "ヒー エッセイズ ニュー レッドストーン サーキッツ エブリー ウィーク"
+        },
+        {
+          "en": "She essays dangerous jumps to improve her combat skills.",
+          "ja": "彼女は格闘スキルを向上させるため危険なジャンプを試します。",
+          "ipa": "/ʃi ˈɛseɪz ˈdeɪndʒɚəs dʒʌmps tə ɪmˈpruːv hɚ ˈkɑmbæt ˈskɪlz/",
+          "linking": [
+            "essays の z が dangerous に続く（子音+子音、連結なし）",
+            "to は弱形 /tə/",
+            "her は弱形 /hɚ/"
+          ],
+          "kana": "シー エッセイズ デンジャラス ジャンプス タ インプルーヴ ハー コンバット スキルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "essayed",
+      "ipa": "/ˈɛseɪd/",
+      "examples": [
+        {
+          "en": "Yesterday, I essayed a risky strategy in the Nether.",
+          "ja": "昨日、私はネザーで危険な戦略を試しました。",
+          "ipa": "/ˈjɛstɚˌdeɪ aɪ ˈɛseɪd ə ˈrɪski ˈstrætədʒi ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "a は弱形 /ə/",
+            "the は弱形 /ðə/",
+            "in の n が the に続く（子音+子音、連結なし）"
+          ],
+          "kana": "イエスタデイ アイ エッセイド ア リスキー ストラテジー イン ザ ネザー"
+        },
+        {
+          "en": "We essayed several designs before finding the perfect redstone machine.",
+          "ja": "完璧なレッドストーン機械を見つける前に、いくつかの設計を試しました。",
+          "ipa": "/wi ˈɛseɪd ˈsɛvɚəl dɪˈzaɪnz bɪˈfɔːr ˈfaɪndɪŋ ðə ˈpɝːfɪkt ˈrɛdˌstoʊn məˈʃin/",
+          "linking": [
+            "essayed は [ˈɛseɪd]。several に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/",
+            "finding の g が the に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ エッセイド セベラル ディザインズ ビフォー ファインディング ザ パーフェクト レッドストーン マシーン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "essayed",
+      "ipa": "/ˈɛseɪd/",
+      "examples": [
+        {
+          "en": "Having essayed many techniques, I finally discovered an efficient mining method.",
+          "ja": "多くのテクニックを試した後、効率的な採掘方法をついに発見しました。",
+          "ipa": "/ˈheɪvɪŋ ˈɛseɪd ˈmɛni tɛkˈnik | aɪ ˈfaɪnəli dɪˈskʌvɚd ən ɪˈfɪʃənt ˈmaɪnɪŋ ˈmɛθəd/",
+          "linking": [
+            "Having は [ˈheɪvɪŋ]。essayed に続く（子音+母音、連結あり）",
+            "essayed の d が many に続く（子音+子音、連結なし）",
+            "discovered の d が an に連結。an は弱形 /ən/ [dɪˈskʌvɚd ən] ディスカバード アン",
+            "an の n が efficient に続く（子音+母音、連結あり）"
+          ],
+          "kana": "ハヴィング エッセイド メニー テクニック、アイ ファイナリー ディスカバード アン イフィシェント マイニング メサッド"
+        },
+        {
+          "en": "The farming strategies we've essayed proved quite effective.",
+          "ja": "私たちが試した農業戦略はかなり効果的でした。",
+          "ipa": "/ðə ˈfɑːrmɪŋ ˈstrætədʒiz wiv ˈɛseɪd ˈpruːvd ˈkwaɪt ɪˈfɛktɪv/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "strategies の z が we've に続く（子音+子音、連結なし）",
+            "we've は [wiv]。essayed に続く（子音+母音、連結あり）",
+            "essayed の d が proved に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ファーミング ストラッチジーズ ウィヴ エッセイド プルーヴド クワイト イフェクティヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "essaying",
+      "ipa": "/ˈɛseɪɪŋ/",
+      "examples": [
+        {
+          "en": "We are essaying a new farming technique that's more efficient than our old one.",
+          "ja": "古い方法より効率的な新しい農業技術を試しています。",
+          "ipa": "/wi ɑːr ˈɛseɪɪŋ ə ˈnu ˈfɑːrmɪŋ tɛkˈnik ðæts ˈmɔːr ɪˈfɪʃənt ðæn ˈaʊər ˈoʊld ˈwʌn/",
+          "linking": [
+            "are は弱形 /ɚ/",
+            "a は弱形 /ə/",
+            "farming の g が technique に続く（子音+子音、連結なし）",
+            "technique の q が that's に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ アー エッセイイング ア ニュー ファーミング テクニック ザッツ モアー イフィシェント ザン アワー オールド ワン"
+        },
+        {
+          "en": "Essaying advanced combat moves will help you defeat stronger mobs more easily.",
+          "ja": "高度な格闘テクニックを試すことは、より強力なモブをより簡単に倒すのに役立ちます。",
+          "ipa": "/ˈɛseɪɪŋ ədˈvænst ˈkɑmbæt ˈmuːvz wɪl ˈhɛlp ju dɪˈfit ˈstrɔŋɡɚ ˈmɑbz ˈmoːr ˈizili/",
+          "linking": [
+            "essaying の ng が advanced に続く（子音+母音、連結あり）",
+            "will は弱形 /wəl/",
+            "defeat の t が stronger に続く（子音+子音、連結なし）",
+            "mobs の z が more に続く（子音+子音、連結なし）"
+          ],
+          "kana": "エッセイイング アドヴァンスト コンバット ムーヴズ ウィル ヘルプ ユー ディフィート ストロンガー モブズ モアー イージリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "essays",
+      "ipa": "/ˈɛseɪz/",
+      "examples": [
+        {
+          "en": "These essays explain different strategies for building efficient mob farms.",
+          "ja": "これらのエッセイは効率的なモブファームの構築戦略を説明しています。",
+          "ipa": "/ðiz ˈɛseɪz ɪkˈspleɪn ˈdɪfɚənt ˈstrætədʒiz fɔːr ˈbɪldɪŋ ɪˈfɪʃənt ˈmɑb ˈfɑːrmz/",
+          "linking": [
+            "essays の z が explain に続く（子音+母音、連結あり）",
+            "for は弱形 /fɚ/",
+            "building の ng が efficient に続く（子音+母音、連結あり）"
+          ],
+          "kana": "ディーズ エッセイズ イクスプレイン ディファレント ストラッチジーズ フォー ビルディング イフィシェント モブ ファームズ"
+        },
+        {
+          "en": "All the essays in this collection describe advanced redstone techniques and contraptions.",
+          "ja": "このコレクション内のすべてのエッセイは、高度なレッドストーンテクニックと装置を説明しています。",
+          "ipa": "/ɔːl ðə ˈɛseɪz ɪn ðɪs kəˈlɛkʃən dɪˈskɹaɪb ədˈvænst ˈrɛdˌstoʊn tɛkˈnik‿ənd kənˈtræpʃənz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "essays の z が in に続く（子音+母音、連結あり）",
+            "this の s が collection に続く（子音+子音、連結なし）",
+            "collection の n が describe に続く（子音+子音、連結なし）",
+            "technique の q が and に連結。and は弱形 /ənd/ [tɛkˈnik‿ənd] テクニック アンド"
+          ],
+          "kana": "オール ザ エッセイズ イン ディス コレクション ディスクライブ アドヴァンスト レッドストーン テクニック アンド コントラプションズ"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,64 @@
       ],
       "kana": "ビルディングアモニュメント イザ ヴォランテリ アクション イン ディス サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more voluntary",
+      "ipa": "/mɔr ˈvɑːlənteri/",
+      "examples": [
+        {
+          "en": "Building a fortress is more voluntary than mining for diamonds.",
+          "ja": "要塞を作ることはダイアモンドを採掘することより自発的です。",
+          "ipa": "/ˈbɪldɪŋ ə ˈfɔːrtəs ɪz mɔr ˈvɑːlənteri ðən ˈmaɪnɪŋ fər ˈdaɪəməndz/",
+          "linking": [
+            "a は冠詞で弱形 /ə/：ア",
+            "than は機能語で弱形 /ðən/：ザン",
+            "for は機能語で弱形 /fər/：ファー"
+          ],
+          "kana": "ビルディング ア フォーラス イズ モア ヴォランテリ ザン マイニング ファー ダイアモンズ"
+        },
+        {
+          "en": "Gathering resources is more voluntary than defeating mobs.",
+          "ja": "資源を集めることはモブを倒すことより自発的です。",
+          "ipa": "/ˈɡæðərɪŋ ˈrisɔrsɪz ɪz mɔr ˈvɑːlənteri ðən dɪˈfitɪŋ mɑbz/",
+          "linking": [
+            "than は機能語で弱形 /ðən/：ザン",
+            "resources の末尾 /z/ が is の初頭 /ɪ/ に連結：[ˈrisɔrsɪz ɪz] リソーシズ イズ"
+          ],
+          "kana": "ギャザリング リソーシズ イズ モア ヴォランテリ ザン ディフィーティング モブズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most voluntary",
+      "ipa": "/ˈmoʊst ˈvɑːlənteri/",
+      "examples": [
+        {
+          "en": "Building is the most voluntary activity in survival mode.",
+          "ja": "建築はサバイバルモードで最も自発的な活動です。",
+          "ipa": "/ˈbɪldɪŋ ɪz ðə ˈmoʊst ˈvɑːlənteri ækˈtɪvəti ɪn sɚˈvaɪvəl moʊd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/：ザ",
+            "survival は r-colored schwa で /sɚ/ と音節的 l で /ᵊl/ となり、[sɚˈvaɪvəl] に実現"
+          ],
+          "kana": "ビルディング イズ ザ モウスト ヴォランテリ アクティビティ イン サーヴァイヴァル モウド"
+        },
+        {
+          "en": "Taking care of your base is the most voluntary choice.",
+          "ja": "あなたの拠点を世話することが最も自発的な選択肢です。",
+          "ipa": "/ˈteɪkɪŋ ker əv jɔr beɪs ɪz ðə ˈmoʊst ˈvɑːlənteri ˈtʃɔɪs/",
+          "linking": [
+            "care の末尾 /r/ が of の初頭 /əv/ に連結：[kerəv] ケアラヴ",
+            "the は冠詞で弱形 /ðə/：ザ"
+          ],
+          "kana": "テイキング ケアラヴ ユア ベイス イズ ザ モウスト ヴォランテリ チョイス"
+        }
+      ]
+    }
   ]
 }

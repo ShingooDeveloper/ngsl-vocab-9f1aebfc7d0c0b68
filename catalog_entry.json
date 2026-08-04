@@ -59,5 +59,153 @@
       ],
       "kana": "ウィ ハヴ ア コンプリート キャタラグ アヴ オール ザ モブズ ウィーヴ インカウンタード"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "catalogs",
+      "ipa": "/ˈkætəlɔɡz/",
+      "examples": [
+        {
+          "en": "I need to organize my resource catalogs in separate chests.",
+          "ja": "リソースのカタログを別々のチェストに整理する必要があります。",
+          "ipa": "[aɪ ˈniːdə ˌɔɹɡəˈnaɪz maɪ ˈɹɪˌsɔɹs ˈkætəlɔɡz ɪn səˈpɛɹət ˈtʃɛsts]",
+          "linking": [
+            "need to → 語末子音 /d/ が弱形 /ə/ に連結 [ˈniːdə]",
+            "resource catalogs → 子音+子音で自然に続く"
+          ],
+          "kana": "アイ ニーダ オーガナイズ マイ リソース キャタラグズ イン セパレット チェスツ"
+        },
+        {
+          "en": "These catalogs show all available enchantments in detail.",
+          "ja": "これらのカタログは利用可能なすべてのエンチャントの詳細を表示します。",
+          "ipa": "[ðiz ˈkætəlɔɡz ʃoʊ ɔl əˈveɪləbəl ɪnˈtʃæntmənts ɪn dɪˈteɪl]",
+          "linking": [
+            "These catalogs → 子音+子音で自然に続く",
+            "all available → 子音+母音で自然に続く",
+            "in detail → 子音+子音で自然に続く"
+          ],
+          "kana": "ジーズ キャタラグズ ショー オール アヴェイラブル インチャントメンツ イン ディテイル"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "catalogs",
+      "ipa": "/ˈkætəlɔɡz/",
+      "examples": [
+        {
+          "en": "She catalogs every item she finds while exploring caves.",
+          "ja": "彼女は洞窟を探索中に見つけたすべてのアイテムを記録します。",
+          "ipa": "[ʃi ˈkætəlɔɡz ˈɛvəri ˈaɪtəm ʃi ˈfaɪndz waɪl ɪkˈsplɔrɪŋ ˈkeɪvz]",
+          "linking": [
+            "She catalogs → 子音+子音で自然に続く",
+            "every item → 母音+子音で自然に続く",
+            "finds while → 子音+子音で自然に続く"
+          ],
+          "kana": "シー キャタラグズ エヴェリー アイテム シー ファインズ ホワイル エクスプローリング ケイブズ"
+        },
+        {
+          "en": "The admin catalogs all new blocks after updates.",
+          "ja": "管理者はアップデート後にすべての新しいブロックを記録します。",
+          "ipa": "[ðə ˈædmɪn ˈkætəlɔɡz ɔl ˈnu ˈblɑks ˈæftər ˈʌpdeɪts]",
+          "linking": [
+            "the admin → the は弱形 /ðə/、子音で続く",
+            "all new → 子音+子音で自然に続く",
+            "after updates → 子音+子音で自然に続く"
+          ],
+          "kana": "ザ アドミン キャタラグズ オール ニュー ブロックス アフター アップデイツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "cataloged",
+      "ipa": "/ˈkætəlɔɡd/",
+      "examples": [
+        {
+          "en": "I cataloged all my diamonds and emeralds yesterday.",
+          "ja": "昨日、私はすべてのダイアモンドとエメラルドを記録しました。",
+          "ipa": "[aɪ ˈkætəlɔɡd ɔl maɪ ˈdaɪəmɑndz ənd ˈɛmərəldz ˈjɛstəɹdeɪ]",
+          "linking": [
+            "cataloged all → 子音+子音で自然に続く",
+            "and emeralds → and は弱形 /ən/、子音で続く"
+          ],
+          "kana": "アイ キャタラグド オール マイ ダイアモンズ アンド エメラルズ イェスターデイ"
+        },
+        {
+          "en": "We cataloged the mob drops after the farm update.",
+          "ja": "ファーム アップデート後、モブのドロップを記録しました。",
+          "ipa": "[wi ˈkætəlɔɡd ðə ˈmɑb drɑps ˈæftər ðə fɑɹm ˈʌpdeɪt]",
+          "linking": [
+            "cataloged the → 子音+子音で自然に続く（the は弱形 /ðə/）",
+            "after the → 子音+子音で自然に続く（both weak form）"
+          ],
+          "kana": "ウィ キャタラグド ザ モブ ドロップス アフター ザ ファーム アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "cataloged",
+      "ipa": "/ˈkætəlɔɡd/",
+      "examples": [
+        {
+          "en": "All the resources have been cataloged in our database.",
+          "ja": "すべてのリソースがデータベースに記録されています。",
+          "ipa": "[ɔl ðə ˈɹɪˌsɔɹsəz həv bɪn ˈkætəlɔɡd ɪn aʊɚ ˈdeɪtəbeɪs]",
+          "linking": [
+            "have been → have は弱形 /həv/、been は /bɪn/",
+            "cataloged in → 子音+母音で自然に続く"
+          ],
+          "kana": "オール ザ リソーシズ ハブ ビン キャタラグド イン アワー データベース"
+        },
+        {
+          "en": "The cataloged items are sorted by rarity and usefulness.",
+          "ja": "記録されたアイテムは希少性と有用性でソートされています。",
+          "ipa": "[ðə ˈkætəlɔɡd ˈaɪtəmz ɑɹ ˈsɔɹtəd baɪ ˈɹɛɹəti ənd ˈjuːsfəlnəs]",
+          "linking": [
+            "the cataloged → the は弱形 /ðə/、子音で続く",
+            "items are → 子音+母音で自然に続く",
+            "by rarity → 子音+母音で自然に続く"
+          ],
+          "kana": "ザ キャタラグド アイテムズ アー ソートッド バイ レリティ アンド ユースフルネス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "cataloging",
+      "ipa": "/ˈkætəlɔɡɪŋ/",
+      "examples": [
+        {
+          "en": "I'm cataloging the new items from the latest update.",
+          "ja": "最新アップデートの新しいアイテムを記録しています。",
+          "ipa": "[aɪm ˈkætəlɔɡɪŋ ðə ˈnu ˈaɪtəmz frəm ðə ˈleɪtəst ˈʌpdeɪt]",
+          "linking": [
+            "I'm → contraction /aɪm/",
+            "the new → the は弱形 /ðə/、子音で続く",
+            "from the → from は弱形 /frəm/、the も弱形 /ðə/"
+          ],
+          "kana": "アイム キャタラギング ザ ニュー アイテムズ フラム ザ レイテスト アップデイト"
+        },
+        {
+          "en": "Cataloging all the blocks takes patience and organization.",
+          "ja": "すべてのブロックを記録することは忍耐力と組織が必要です。",
+          "ipa": "[ˈkætəlɔɡɪŋ ɔl ðə ˈblɑks ˈteɪks ˈpeɪʃəns ənd ˌɔɹɡənɪˈzeɪʃən]",
+          "linking": [
+            "all the → 子音+子音で自然に続く（the は弱形 /ðə/）",
+            "blocks takes → 子音+子音で自然に続く",
+            "and organization → and は弱形 /ən/、母音で続く"
+          ],
+          "kana": "キャタラギング オール ザ ブロックス テイクス ペイシャンス アンド オーガナイゼーション"
+        }
+      ]
+    }
   ]
 }

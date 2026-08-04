@@ -116,7 +116,7 @@
           "ipa": "/ðɪs ˈhɪdən ˈkeɪv ˈsɪstəm ˈrɪli ˈɪntrəsts mi/",
           "linking": [
             "cave system → cave /v/ が system /s/ に続く（子音+子音）[ˈkeɪv ˈsɪstəm]",
-            "really interests → really /i/ が interests /ɪ/ に連結。actually は弱化で [ˈrɪli ˈɪntrəsts]"
+            "really interests → really が母音 /i/ で終わり、interests が母音 /ɪ/ で始まるため連結 [ˈrɪli ˈɪntrəsts]"
           ],
           "kana": "ディス ヒッドン ケイヴ システム リリー インターエスツ ミー"
         },
@@ -140,25 +140,26 @@
       "ipa": "/ˈɪntrəstəd/",
       "examples": [
         {
-          "en": "I first interested in Minecraft after watching a tutorial.",
-          "ja": "チュートリアルを見た後、初めてマインクラフトに興味を持ちました。",
-          "ipa": "/aɪ ˈfɝst ˈɪntrəstəd ɪn maɪnˈkræft ˈæftər ˈwɑtʃɪŋ ə ˈtʊtɔriəl/",
+          "en": "I became interested in Minecraft after watching a tutorial.",
+          "ja": "チュートリアルを見た後、初めてマインクラフトに興味を持つようになりました。",
+          "ipa": "/aɪ bɪˈkeɪm ˈɪntrəstəd ɪn maɪnˈkræft ˈæftər ˈwɑtʃɪŋ ə ˈtʊtɔriəl/",
           "linking": [
-            "first interested → first /t/ が interested /ɪ/ に連結、フラップ化 [ˈfɝs ɾ ˈɪntrəstəd]",
-            "in Minecraft → in /n/ が Minecraft /m/ に続く（子音+子音）[ɪn maɪnˈkræft]",
-            "after → 弱形 /ˈæf.tɚ/ または /ˈæf.tər/"
+            "became interested → became /m/ が interested /ɪ/ に連結 [bɪˈkeɪm ˈɪntrəstəd]",
+            "interested in → interested /d/ が in /ɪ/ に連結 [ˈɪntrəstəd ɪn]",
+            "in Minecraft → in /n/ が Minecraft /m/ に続く（子音+子音）[ɪn maɪnˈkræft]"
           ],
-          "kana": "アイ ファースト インターエステッド イン マインクラフト アフター ウォッチング ア チュートリアル"
+          "kana": "アイ ビケイム インターエステッド イン マインクラフト アフター ウォッチング ア チュートリアル"
         },
         {
-          "en": "My brother interested in playing on our server.",
-          "ja": "兄弟が私たちのサーバーでプレイすることに興味を持ちました。",
-          "ipa": "/maɪ ˈbrʌðɚ ˈɪntrəstəd ɪn ˈpleɪɪŋ ɑn ˈaʊr ˈsɝvɚ/",
+          "en": "My brother became interested in playing on our server.",
+          "ja": "兄弟が私たちのサーバーでプレイすることに興味を持つようになりました。",
+          "ipa": "/maɪ ˈbrʌðɚ bɪˈkeɪm ˈɪntrəstəd ɪn ˈpleɪɪŋ ɑn ˈaʊr ˈsɝvɚ/",
           "linking": [
+            "became interested → became /m/ が interested /ɪ/ に連結 [bɪˈkeɪm ˈɪntrəstəd]",
             "interested in → interested /d/ が in /ɪ/ に連結 [ˈɪntrəstəd ɪn]",
             "playing on → playing /ŋ/ が on /ɑ/ に続く（子音+母音）[ˈpleɪɪŋ ɑn]"
           ],
-          "kana": "マイ ブラザー インターエステッド イン プレイイング アン アワー サーヴァー"
+          "kana": "マイ ブラザー ビケイム インターエステッド イン プレイイング アン アワー サーヴァー"
         }
       ]
     },
@@ -217,6 +218,90 @@
             "caves makes → caves /z/ が makes /m/ に続く（子音+子音）[ˈkeɪvz ˈmeɪks]"
           ],
           "kana": "ファインディング インターエスティング ケイヴス メイクス エクスプロレイション ワースワイル"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is interesting",
+      "ipa": "/ɪz ˈɪntrəstɪŋ/",
+      "examples": [
+        {
+          "en": "What is interesting you most about this update?",
+          "ja": "このアップデートで最も何があなたに興味を起こさせていますか？",
+          "ipa": "/ˈwɑt ɪz ˈɪntrəstɪŋ ju ˈmoʊst əˈbaʊt ðɪs ˈʌpˌdeɪt/",
+          "linking": [
+            "is interesting → is /z/ が interesting /ɪ/ に連結 [ɪz ˈɪntrəstɪŋ]",
+            "interesting you → interesting /ŋ/ が you /j/ に続く（子音+子音）[ˈɪntrəstɪŋ̚ ju]"
+          ],
+          "kana": "ワット イズ インターエスティング ユー モースト アバウト ディス アップデイト"
+        },
+        {
+          "en": "The hidden treasure is interesting all the explorers.",
+          "ja": "隠された宝はすべての冒険者に興味を起こさせています。",
+          "ipa": "/ðə ˈhɪdən ˈtrɛʒɚ ɪz ˈɪntrəstɪŋ ˈɔl ðə ɪkˈsplɔrɚz/",
+          "linking": [
+            "treasure is → treasure /ɹ/ が is /ɪ/ に連結 [ˈtrɛʒɚ ɪz]",
+            "is interesting → is /z/ が interesting /ɪ/ に連結 [ɪz ˈɪntrəstɪŋ]"
+          ],
+          "kana": "ザ ヒッドン トレジャー イズ インターエスティング オール ザ エクスプローラーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was interesting",
+      "ipa": "/wəz ˈɪntrəstɪŋ/",
+      "examples": [
+        {
+          "en": "The new mob update was interesting the entire community last week.",
+          "ja": "新しいモブアップデートは先週、コミュニティ全体に興味を起こさせていました。",
+          "ipa": "/ðə ˈnu ˈmoʊb ˈʌpˌdeɪt wəz ˈɪntrəstɪŋ ðə ɪnˈtaɪɚ kəˈmjuːnəti ˈlæst ˈwik/",
+          "linking": [
+            "was interesting → was /z/ が interesting /ɪ/ に連結 [wəz ˈɪntrəstɪŋ]",
+            "the entire → the 弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ニュー モーブ アップデイト ワズ インターエスティング ザ エンタイアー コミュニティ ラスト ウィーク"
+        },
+        {
+          "en": "While we were playing, the new features were interesting everyone.",
+          "ja": "私たちがプレイしている間、新機能はみんなに興味を起こさせていました。",
+          "ipa": "/waɪl wɪ wɚ ˈpleɪɪŋ ðə ˈnu ˈfitʃɚz wɚ ˈɪntrəstɪŋ ˈɛvriwʌn/",
+          "linking": [
+            "were interesting → were /ɹ/ が interesting /ɪ/ に連結 [wɚ ˈɪntrəstɪŋ]",
+            "interesting everyone → interesting /ŋ/ が everyone /ɛ/ に続く（子音+母音）[ˈɪntrəstɪŋ ˈɛvriwʌn]"
+          ],
+          "kana": "ワイル ウィ ワー プレイイング ザ ニュー フィーチャーズ ワー インターエスティング エブリワン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been interesting",
+      "ipa": "/həd bɪn ˈɪntrəstɪŋ/",
+      "examples": [
+        {
+          "en": "The builders had been interesting the players with their creations for months.",
+          "ja": "ビルダーたちは数ヶ月間、彼らの創造物でプレイヤーに興味を起こさせていました。",
+          "ipa": "/ðə ˈbɪldɚz həd bɪn ˈɪntrəstɪŋ ðə ˈpleɪɚz wɪð ðɛɹ kriˈeɪʃənz fɔɹ ˈmʌnθz/",
+          "linking": [
+            "had been → had 弱形 /həd/ またはくっつき [həd]、been /n/ が interesting /ɪ/ に連結 [bɪn ˈɪntrəstɪŋ]",
+            "the players → the 弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ビルダーズ ハド ビン インターエスティング ザ プレイャーズ ウィズ ザェア クリエイションズ フォー マンスズ"
+        },
+        {
+          "en": "By that time, the new expansion had been interesting everyone for almost a year.",
+          "ja": "その時までに、新しい拡張はほぼ1年間みんなに興味を起こさせていました。",
+          "ipa": "/baɪ ðæt ˈtaɪm ðə ˈnu ɪkˈspænʃən həd bɪn ˈɪntrəstɪŋ ˈɛvriwʌn fɔɹ ˈɔlmoʊst ə ˈjɪɹ/",
+          "linking": [
+            "had been → had 弱形 /həd/ [həd]、been /n/ が interesting /ɪ/ に連結 [bɪn ˈɪntrəstɪŋ]",
+            "interesting everyone → interesting /ŋ/ が everyone /ɛ/ に続く（子音+母音）[ˈɪntrəstɪŋ ˈɛvriwʌn]"
+          ],
+          "kana": "バイ ザット タイム ザ ニュー イクスパンション ハド ビン インターエスティング エブリワン フォー オールモースト ア イアー"
         }
       ]
     }

@@ -197,12 +197,77 @@
           "ja": "彼らは今、利用可能なすべてのスロットを予約中です。",
           "ipa": "/ðeɪ ɑr ˈbʊkɪŋ ɔl ðə əˈveɪləbəl ˈslɑts æz wi ˈspik/",
           "linking": [
-            "are の弱形 /ɚ/ が booking の /b/（子音）に続く → 特に連結なし",
+            "are の弱形 /ɚ/ の /r/ が booking の /b/（子音）に連結",
             "booking の語末 /ŋ/ が all の /ɔ/（母音）に連結 [ˈbʊkɪŋ ɔl] → [ˈbʊkɪŋɔl] ブッキンゴール",
             "the は冠詞で弱形 /ðə/。available の /ə/（母音）に連結 [ðə əˈveɪləbəl] ザアヴェイラブル",
             "as の語末 /z/ が we の /w/（子音）に続く → 特に連結なし"
           ],
           "kana": "ゼイ アー ブッキンゴール ザアヴェイラブル スロッツ アズ ウィ スピーク"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is booking",
+      "ipa": "/ɪz ˈbʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I am booking a private server slot for tomorrow's mining expedition.",
+          "ja": "明日の採掘遠征用にプライベートサーバースロットを予約中です。",
+          "ipa": "/aɪ əm ˈbʊkɪŋ ə prɪˈveɪt ˈsɝvɚ ˈslɑt fɚ təˈmɑroʊz ˈmaɪnɪŋ ɛkˈspɪdiʃən/",
+          "linking": [
+            "am の弱形 /əm/ の /m/ が booking の /b/（子音）に同化連結",
+            "booking の語末 /ŋ/ が a の弱形 /ə/（母音）に連結 [ˈbʊkɪŋə] ブッキンガ",
+            "private の語末 /t/ が server の /s/（子音）に続く → 未開放で /t̚/ に聞こえる",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "アイ アム ブッキンガ プリヴェイト サーヴァー スロット ファ タモロー マイニング エクスペディション"
+        },
+        {
+          "en": "She is booking all the contested tournament slots right now.",
+          "ja": "彼女は今、争奪戦のすべてのトーナメントスロットを予約中です。",
+          "ipa": "/ʃi ɪz ˈbʊkɪŋ ɔl ðə kənˈtɛstəd ˈtɝnəmənt ˈslɑts raɪt naʊ/",
+          "linking": [
+            "is の弱形 /ɪz/ の /z/ が booking の /b/（子音）に続く → 特に連結なし",
+            "booking の語末 /ŋ/ が all の /ɔ/（母音）に連結 [ˈbʊkɪŋɔl] ブッキンゴール",
+            "the は冠詞で弱形 /ðə/。contested の /k/（子音）に続く → [ðə kənˈtɛstəd] ザ コンテステッド",
+            "right の語末 /t/ が now の /n/（子音）に続く → 未開放で /t̚/ に聞こえる"
+          ],
+          "kana": "シー イズ ブッキンゴール ザ コンテステッド ターナメント スロッツ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was booking",
+      "ipa": "/wəz ˈbʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I was booking a spot on the survival server when you logged in.",
+          "ja": "あなたがログインしたとき、サバイバルサーバーのスポットを予約中でした。",
+          "ipa": "/aɪ wəz ˈbʊkɪŋ ə ˈspɑt ɑn ðə sərˈvaɪvəl ˈsɝvɚ ˈwɛn ju ˈlɔgd ɪn/",
+          "linking": [
+            "was の弱形 /wəz/ の /z/ が booking の /b/（子音）に続く → 特に連結なし",
+            "booking の語末 /ŋ/ が a の弱形 /ə/（母音）に連結 [ˈbʊkɪŋə] ブッキンガ",
+            "spot の語末 /t/ が on の /ɑ/（母音）に続く → フラップTで [ˈspɑɾɑn] スパラン",
+            "the は冠詞で弱形 /ðə/。survival の /s/（子音）に続く → [ðə sərˈvaɪvəl] ザ サーヴァイヴァル",
+            "when の語末 /n/ が you の /j/（半母音）に続く → 連結される [ˈwɛn ju] ウェンユー"
+          ],
+          "kana": "アイ ワズ ブッキンガ スパラン ザ サーヴァイヴァル サーヴァー ウェンユー ロッギン"
+        },
+        {
+          "en": "They were booking the main hall all afternoon yesterday.",
+          "ja": "昨日、彼らは午後中ずっとメインホールを予約中でした。",
+          "ipa": "/ðeɪ wɚ ˈbʊkɪŋ ðə ˈmeɪn ˈhɔl ɔl ˌæftərˈnun ˈjɛstərˌdeɪ/",
+          "linking": [
+            "were の弱形 /wɚ/ の /r/ が booking の /b/（子音）に連結",
+            "booking の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈbʊkɪŋðə] ブッキンザ",
+            "the の /ð/ が main の /m/（子音）に続く → 特に連結なし",
+            "all の語末 /l/ が afternoon の /æ/（母音）に連結 [ɔl ˌæftərˈnun] オール アフターヌーン"
+          ],
+          "kana": "ゼイ ワー ブッキンザ メイン ホール オール アフターヌーン イェスタデイ"
         }
       ]
     }

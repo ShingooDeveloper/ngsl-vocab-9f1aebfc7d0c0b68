@@ -41,5 +41,59 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more frequently",
+      "ipa": "/mɔr ˈfriːkwəntli/",
+      "examples": [
+        {
+          "en": "Mobs attack more frequently after dark.",
+          "ja": "モブは暗くなった後により頻繁に攻撃してきます。",
+          "ipa": "[ˈmoʊbz əˈtæk mɔr ˈfriːkwəntli ˈæftɚ dɑrk]",
+          "kana": "モーブザ タック モア フリークウェントリー アフター ダーク",
+          "linking": [
+            "mobs の語末子音 /z/ が attack の初頭母音 /ə/ に連結 [ˈmoʊbzə] モーブザ"
+          ]
+        },
+        {
+          "en": "You find diamonds more frequently when mining deep.",
+          "ja": "深く採掘するときにより頻繁にダイヤモンドを見つけます。",
+          "ipa": "[juː faɪnd ˈdaɪməndz mɔr ˈfriːkwəntli wɛn ˈmaɪnɪŋ dip]",
+          "kana": "ユー ファインド ダイマンズ モア フリークウェントリー ウェン マイニング ディープ",
+          "linking": [
+            "find の語末子音 /d/ が diamonds の初頭子音 /d/ に未開放で連結し、1つの /d/ に聞こえます"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most frequently",
+      "ipa": "/moʊst ˈfriːkwəntli/",
+      "examples": [
+        {
+          "en": "Creepers appear most frequently in swamps.",
+          "ja": "クリーパーはスワンプで最も頻繁に現れます。",
+          "ipa": "[ˈkriːpɚz əˈpɪr moʊst ˈfriːkwəntli ɪn ˈswɑmps]",
+          "kana": "クリーパーザ アピア モウスト フリークウェントリー イン スワンプス",
+          "linking": [
+            "creepers の語末子音 /z/ が appear の初頭母音 /ə/ に連結 [ˈkriːpɚzə] クリーパーザ"
+          ]
+        },
+        {
+          "en": "Diamonds appear most frequently deep underground.",
+          "ja": "ダイヤモンドは地下深くで最も頻繁に現れます。",
+          "ipa": "[ˈdaɪməndz əˈpɪr moʊst ˈfriːkwəntli dip ˈʌndɚɡraʊnd]",
+          "kana": "ダイマンザ アピア モウスト フリークウェントリー ディープ アンダーグラウンド",
+          "linking": [
+            "diamonds の語末子音 /z/ が appear の初頭母音 /ə/ に連結 [ˈdaɪməndzə] ダイマンザ"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

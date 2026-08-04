@@ -192,6 +192,92 @@
           "kana": "シーズ グループング ザ モブス ビフォー ザ アタック"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is grouping",
+      "ipa": "/ɪz ˈɡruːpɪŋ/",
+      "examples": [
+        {
+          "en": "They are grouping resources in different storage areas.",
+          "ja": "彼らは異なる保管エリアでリソースをグループ化しています。",
+          "ipa": "/ðeɪ ər ˈɡruːpɪŋ ˈrɛsɔrsɪz ɪn ˈdɪfərənt ˈstɔrɪdʒ ˈɛriəz/",
+          "linking": [
+            "are は助動詞で弱形 /ər/ に弱化。grouping に先行。",
+            "resources の語末 /z/ が in の初頭母音 /ɪ/ に連結: [ˈrɛsɔrzɪn] レソーセズ イン"
+          ],
+          "kana": "ザ エアー グルーピング レソーセズ イン ディファレント ストレッジ エリアズ"
+        },
+        {
+          "en": "I'm grouping my diamonds into organized piles.",
+          "ja": "私は自分のダイヤモンドを整理されたパイルにグループ化しています。",
+          "ipa": "/aɪm ˈɡruːpɪŋ maɪ ˈdaɪməndz ˈɪntuː ˈɔrɡənɪzd paɪlz/",
+          "linking": [
+            "I'm の語末 /m/ と grouping の初頭 /ɡ/ が両子音で発音される。",
+            "diamonds の語末 /z/ が into の初頭母音 /ɪ/ に連結: [ˈdaɪməndz ɪntuː] ダイモンズ イントゥ"
+          ],
+          "kana": "アイム グルーピング マイ ダイモンズ イントゥー オーガナイズド パイルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was grouping",
+      "ipa": "/wəz ˈɡruːpɪŋ/",
+      "examples": [
+        {
+          "en": "The players were grouping the mobs near the barrier.",
+          "ja": "プレイヤーたちはバリアの近くでモブをグループ化していました。",
+          "ipa": "/ðə ˈpleɪərz wər ˈɡruːpɪŋ ðə mɑbz nɪr ðə ˈbæriər/",
+          "linking": [
+            "were は助動詞で弱形 /wər/ に弱化。grouping に先行。",
+            "grouping の語末 /ŋ/ と the の初頭 /ð/ が両子音で発音される。"
+          ],
+          "kana": "ザ プレイヤーズ ワー グルーピング ザ モブズ ニアー ザ バリアー"
+        },
+        {
+          "en": "I was grouping my resources when the server restarted.",
+          "ja": "サーバーが再開したとき、私は自分のリソースをグループ化していました。",
+          "ipa": "/aɪ wəz ˈɡruːpɪŋ maɪ ˈrɛsɔrsɪz wɛn ðə ˈsɜrvər ˌriˈstɑrtɪd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/ に弱化。grouping に先行。",
+            "resources の語末 /z/ が when の初頭 /w/ に先行。両子音で発音される。"
+          ],
+          "kana": "アイ ワズ グルーピング マイ レソーセズ ウェン ザ サーバー リスターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been grouping",
+      "ipa": "/həd bɪn ˈɡruːpɪŋ/",
+      "examples": [
+        {
+          "en": "We had been grouping the blocks for an hour.",
+          "ja": "私たちは1時間ブロックをグループ化していました。",
+          "ipa": "/wi həd bɪn ˈɡruːpɪŋ ðə blɑks fər ən ˈaʊr/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "been の語末 /n/ が grouping の初頭 /ɡ/ に先行。鼻音と子音が連接。",
+            "for の語末 /r/ が an の初頭母音 /ə/ に連結: [fərən] ファー アン"
+          ],
+          "kana": "ウィ ハド ビン グルーピング ザ ブロックス ファー アン アワー"
+        },
+        {
+          "en": "She had been grouping the chests before the lag spike hit.",
+          "ja": "ラグスパイクが発生する前に、彼女はチェストをグループ化していました。",
+          "ipa": "/ʃi həd bɪn ˈɡruːpɪŋ ðə tʃɛsts bɪˈfɔr ðə læɡ spaɪk hɪt/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "been の語末 /n/ が grouping の初頭 /ɡ/ に先行。両子音が連接。",
+            "chests の語末 /s/ が before の初頭 /b/ に先行。両子音で発音される。"
+          ],
+          "kana": "シー ハド ビン グルーピング ザ チェスツ ビフォー ザ ラグ スパイク ヒット"
+        }
+      ]
     }
   ]
 }

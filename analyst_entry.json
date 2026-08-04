@@ -41,6 +41,34 @@
       "kana": "エヴリー グッド アナリスト キープス ディテイルド ノーツ オン バイオーム キャラクタリスティックス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "analysts",
+      "ipa": "/ˈænəlɪsts/",
+      "examples": [
+        {
+          "en": "Expert analysts examined the caves for valuable ores.",
+          "ja": "熟練した複数の分析者が貴重な鉱石のための洞窟を調べました。",
+          "ipa": "/ˈɛkspɚt ˈænəlɪsts ɪɡˈzæmɪnd ðə ˈkeɪvz fɚ ˈvæljəbəl ˈɔɚz/",
+          "linking": [
+            "expert analysts → expert の末尾 /t/ が analysts の初頭 /æ/ に連結。[ˈɛkspɚtˈænəlɪsts] エクスパートアナリスツ"
+          ],
+          "kana": "エクスパート アナリスツ イグザミンド ザ ケイブス フォー ヴァリューバル オーズ"
+        },
+        {
+          "en": "Top analysts discovered new patterns in the redstone circuits.",
+          "ja": "最高の複数の分析者がレッドストーン回路の新しいパターンを発見しました。",
+          "ipa": "/ˈtɑp ˈænəlɪsts dɪˈskʌvɚd ˈnu ˈpætɚnz ɪn ðə ˈrɛdˌstoʊn ˈsɜɹkɪts/",
+          "linking": [
+            "top analysts → top の末尾 /p/ が analysts の初頭 /æ/ に連結。[ˈtɑpˈænəlɪsts] トップアナリスツ"
+          ],
+          "kana": "トップ アナリスツ ディスカヴァード ニュー パターンズ イン ザ レッドストーン サーキッツ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "data analyst",

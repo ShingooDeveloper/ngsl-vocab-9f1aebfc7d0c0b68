@@ -1,76 +1,299 @@
-{
+﻿{
   "word": "loose",
-  "rank": 2182,
   "pos": "形容詞・動詞",
   "pos_all": "形容詞・動詞",
   "ipa_us": "/luːs/",
+  "rank": 1358,
   "level": "A2",
-  "hi": "loose(?:r|st|ly)?|loosen(?:s|ed|ing)?",
+  "hi": "loose|looser|loosest|looses|loosed|loosing",
   "meanings": [
-    "【形容詞】しっかり固定されていない、ぐらぐらしている（tight の反対）",
-    "【形容詞】自由で拘束されない、勝手な",
-    "【形容詞】ざっくりした、不正確な",
-    "【動詞】放つ、解き放つ",
-    "【動詞】緩める"
+    "【形容詞】緩い、ぐらぐらした（not firmly or tightly fixed in place）",
+    "【形容詞】拘束されない、自由な（not bound, confined, or constrained）",
+    "【形容詞】不正確な、あいまいな（not precise or exact）",
+    "【動詞】～を放つ、解き放つ（to set free or release from restraint）",
+    "【動詞】～を撃つ（矢などを）（to fire or shoot a projectile）"
   ],
   "examples": [
     {
-      "en": "These stone bricks are getting loose from all the creeper explosions.",
-      "ja": "クリーパーの爆発でこれらの石レンガがだんだんぐらぐらになってきています。",
-      "ipa": "/ðiːz ˈstoʊn brɪks ɑr ˈɡɛtɪŋ luːs frəm ɔl ðə ˈkriːpɚ ɪkˈsploʊʒənz/",
-      "kana": "ディーズ ストゥン ブリクス アー ゲリング ルース フラム オール ザ クリーパー イクスプロージャンズ",
+      "en": "The stone blocks on the edge of the cliff are loose and dangerous.",
+      "ja": "崖の端にある石ブロックは緩くて危険です。",
+      "ipa": "/ðə ˈstoʊn ˈblɑks ɑn ði ˈɛdʒ əv ðə ˈklɪf ɑr ˈluːs ənd ˈdeɪndʒərəs/",
       "linking": [
-        "getting の t は母音に挟まれフラップ化: /ɛtɪ/ → [ɛɾɪ] ゲリング",
-        "from は弱形 /frəm/ → フラム",
-        "the は弱形 /ðə/ → ザ"
-      ]
+        "the stone → the は弱形 /ðə/",
+        "blocks on → /ks/ + /ɑ/（子音+母音）が連結 [ˈblɑks ɑn] ブロックス・オン",
+        "on the → on の末尾 /n/ が the の弱形 /ð/ に続く（子音+子音、連結なし）",
+        "edge of → edge の末尾 /dʒ/ が of の弱形 /ə/ に連結 [ˈɛdʒ əv] エッジ・オヴ"
+      ],
+      "kana": "ザ ストーン ブロックス オン ジ エッジ オヴ ザ クリフ アー ルース エンド デインジャラス"
     },
     {
-      "en": "I need to loosen these redstone mechanisms before the trap activates.",
-      "ja": "トラップが発動する前に、このレッドストーンの機構を緩める必要があります。",
-      "ipa": "/aɪ ˈniːd tu ˈluːsən ðiːz ˈrɛdstoʊn ˈmɛkənɪzəmz bɪˈfɔr ðə ˈtræp ˈæktɪveɪts/",
-      "kana": "アイ ニード タ ルースン ディーズ レッドストゥン メカニズムズ ビフォー ザ トラップ アリベイツ",
+      "en": "My rope structure became loose after the storm and heavy rain.",
+      "ja": "嵐と大雨の後、私のロープ構造は緩んでしまいました。",
+      "ipa": "/maɪ ˈroʊp ˈstrʌktʃər bɪˈkeɪm ˈluːs ˈæftər ðə ˈstɔrm ənd ˈhɛvi ˈreɪn/",
       "linking": [
-        "to は弱形 /tə/ → タ",
-        "the は弱形 /ðə/ → ザ",
-        "activates の t は母音に挟まれフラップ化: /æ/+t+/ɪ/ → [æɾɪ] アリ"
-      ]
+        "rope structure → /p/ + /s/（子音+子音、連結なし）",
+        "became loose → /m/ + /l/（子音+子音、連結なし）",
+        "loose after → loose の末尾 /s/ が after の弱形 /ə/ に連結 [ˈluːs ˈæftər]（実際には /s/ + /ə/ の子音+母音連結）",
+        "and heavy → and は弱形 /ən/、heavy の /h/ に続く（子音+子音、連結なし）"
+      ],
+      "kana": "マイ ロープ ストラクチャー ビケイム ルース アフター ザ ストーム アンド ヘビー レイン"
     },
     {
-      "en": "Watch out—there are loose blocks falling from the ceiling!",
-      "ja": "気をつけて！天井からぐらぐらしたブロックが落ちてきています！",
-      "ipa": "/wɑtʃ ˈaʊt ðɛr ɑr ˈluːs blɑks ˈfɔlɪŋ frəm ðə ˈsiːlɪŋ/",
-      "kana": "ウォッチ アウト ゼア アー ルース ブロックス フォーリング フラム ザ シーリング",
+      "en": "Don'"'"'t hold the bow with a loose grip or your arrow will fly away.",
+      "ja": "弓を緩い握りで持たないでください。弦が外れます。",
+      "ipa": "/ˈdoʊnt ˈhoʊld ðə ˈboʊ wɪð ə ˈluːs ˈɡrɪp ɔr jɚ ˈæroʊ wɪl ˈflaɪ əˈweɪ/",
       "linking": [
-        "from は弱形 /frəm/ → フラム",
-        "the は弱形 /ðə/ → ザ",
-        "are は /ɑr/ で アー"
-      ]
+        "the bow → the は弱形 /ðə/",
+        "with a → /ð/ + /ə/（子音+母音）の連結。a は弱形 /ə/ [wɪð ə] ウィザ",
+        "loose grip → /s/ + /ɡ/（子音+子音、連結なし）",
+        "your arrow → your の末尾 /r/ が arrow の /ə/ に連結 [jɔr ˈæroʊ] ユア・アロー",
+        "will fly → /l/ + /f/（子音+子音、連結なし）"
+      ],
+      "kana": "ドウント ホウルド ザ ボウ ウィザ ア ルース グリップ オア ユア アロー ウィル フライ ア・ウェイ"
     }
   ],
-  "idioms": [
+  "mc_examples": [
     {
-      "idiom": "on the loose",
-      "ja": "逃げ回っている、奔放になっている",
-      "example": "That warden is on the loose in the deep dark!",
-      "example_ja": "その監視者は深い暗闇で逃げ回っています！",
-      "ipa": "/ðæt ˈwɔrdən ɪz ɑn ðə ˈluːs ɪn ðə ˈdiːp ˈdɑrk/",
-      "kana": "ザット ワーディン イズ オン ザ ルース イン ザ ディープ ダーク",
+      "en": "The loose sand kept falling from the tower we built yesterday.",
+      "ja": "昨日建てた塔から、緩い砂がずっと落ちています。",
+      "ipa": "/ðə ˈluːs ˈsænd ˈkɛpt ˈfɔlɪŋ ˈfɹʌm ðə ˈtaʊər wi ˈbɪlt jɛsˈtɚdeɪ/",
       "linking": [
-        "the は弱形 /ðə/ (×2) → ザ",
-        "on は /ɑn/ で オン"
+        "the loose → the は弱形 /ðə/",
+        "loose sand → /s/ + /s/（子音+子音）が連続し未開放 [ˈluːs‿ˈsænd]（実際には別の子音）",
+        "kept falling → /t/ + /f/（子音+子音、連結なし）",
+        "falling from → /ŋ/ + /f/（子音+子音、連結なし）",
+        "from the → /m/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+      ],
+      "kana": "ザ ルース サンド ケプト フォーリング フラム ザ タウアー ウィ ビルト イェスターデイ"
+    },
+    {
+      "en": "We found a loose block hidden in the rock wall and pulled it out.",
+      "ja": "岩壁に隠された緩いブロックを見つけ、それを引き抜きました。",
+      "ipa": "/wi ˈfaʊnd ə ˈluːs ˈblɑk ˈhɪdən ɪn ðə ˈrɑk ˈwɔl ənd ˈpʊld ɪt ˈaʊt/",
+      "linking": [
+        "found a → /d/ + /ə/（子音+母音）が連結 [ˈfaʊnd ə] ファウンド・ア",
+        "a loose → a は弱形 /ə/、loose の /l/ に先行（子音+子音、連結なし）",
+        "in the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+        "rock wall → /k/ + /w/（子音+子音、連結なし）",
+        "and pulled → and は弱形 /ən/、pulled の /p/ に先行（子音+子音、連結なし）",
+        "pulled it → /d/ + /ɪ/（子音+母音）が連結 [ˈpʊld ɪt] プルド・イット"
+      ],
+      "kana": "ウィ ファウンド ア ルース ブロック ヒデン イン ザ ロック ウォール アンド プルド イット アウト"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "looser",
+      "ipa": "/ˈluːsər/",
+      "examples": [
+        {
+          "en": "The gravel structure is looser than the stone one on the server.",
+          "ja": "砂利構造は、サーバー上の石の構造より緩いです。",
+          "ipa": "/ðə ˈɡrævəl ˈstrʌktʃər ɪz ˈluːsər ðən ðə ˈstoʊn ˈwʌn ɑn ðə ˈsɜrvər/",
+          "linking": [
+            "the gravel → the は弱形 /ðə/",
+            "gravel structure → /l/ + /s/（子音+子音、連結なし）",
+            "is looser → is は弱形 /ɪz/、looser の /l/ に続く（子音+子音、連結なし）",
+            "than the → than は弱形 /ðən/、the も弱形 /ðə/",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/"
+          ],
+          "kana": "ザ グラベル ストラクチャー イズ ルーサー ザン ザ ストーン ワン オン ザ サーバー"
+        },
+        {
+          "en": "This dirt path became looser after the heavy rainfall and mobs running over it.",
+          "ja": "大雨と走り回るモブの後、この土の道はより緩くなりました。",
+          "ipa": "/ðɪs ˈdɝt ˈpæθ bɪˈkeɪm ˈluːsər ˈæftər ðə ˈhɛvi ˈreɪnfɔl ənd ˈmɑbz ˈrʌnɪŋ ˈoʊvər ɪt/",
+          "linking": [
+            "became looser → /m/ + /l/（子音+子音、連結なし）",
+            "looser after → /r/ + /ə/（子音+母音）が連結 [ˈluːsər ˈæftər] ルーサー・アフター",
+            "and mobs → and は弱形 /ən/、mobs の /m/ に先行（子音+子音、連結なし）",
+            "mobs running → /z/ + /r/（子音+子音、連結なし）",
+            "over it → /r/ + /ɪ/（子音+母音）が連結 [ˈoʊvər ɪt] オウバー・イット"
+          ],
+          "kana": "ディス ダート パス ビケイム ルーサー アフター ザ ヘビー レインフォール エンド モブズ ラニング オウバー イット"
+        }
       ]
     },
     {
-      "idiom": "break loose",
-      "ja": "逃げ出す、解放される",
-      "example": "The creeper broke loose from the cage!",
-      "example_ja": "クリーパーがケージから逃げ出しました！",
-      "ipa": "/ðə ˈkríːpər ˈbroʊk ˈluːs frəm ðə ˈkeɪdʒ/",
-      "kana": "ザ クリーパー ブロゥク ルース フラム ザ ケージ",
-      "linking": [
-        "the は弱形 /ðə/ (×2) → ザ",
-        "from は弱形 /frəm/ → フラム"
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "loosest",
+      "ipa": "/ˈluːsɪst/",
+      "examples": [
+        {
+          "en": "The loosest blocks in the old temple were ancient and fragile.",
+          "ja": "古い寺院で最も緩いブロックは古く壊れやすかったです。",
+          "ipa": "/ðə ˈluːsɪst ˈblɑks ɪn ði ˈoʊld ˈtɛmpəl wər ˈeɪnʃənt ənd ˈfrædʒəl/",
+          "linking": [
+            "the loosest → the は弱形 /ðə/",
+            "loosest blocks → /t/ + /b/（子音+子音、連結なし）",
+            "in the → /n/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/",
+            "old temple → /d/ + /t/（子音+子音、連結なし）",
+            "were ancient → /r/ + /eɪ/（子音+母音）が連結 [wər ˈeɪnʃənt] ワー・エインシェント"
+          ],
+          "kana": "ザ ルーシスト ブロックス イン ジ オウルド テンプル ワー エインシェント エンド フラジェル"
+        },
+        {
+          "en": "That is the loosest structure we have built all season, but it still works.",
+          "ja": "それはシーズン中に建てた最も緩い構造ですが、まだ機能しています。",
+          "ipa": "/ðæt ɪz ðə ˈluːsɪst ˈstrʌktʃər wi həv ˈbɪlt ɔl ˈsiːzən | bət ɪt ˈstɪl ˈwɝks/",
+          "linking": [
+            "That is → /t/ + /ɪ/（子音+母音）が連結 [ðæt ɪz] ザット・イズ",
+            "is the → is は弱形 /ɪz/、the も弱形 /ðə/",
+            "the loosest → the の弱形 /ə/ が loosest の初期子音 /l/ に先行（子音+子音、連結なし）",
+            "we have → we の末尾 /i/ が have の初期子音 /h/ に先行（子音+子音、連結なし）",
+            "have built → /v/ + /b/（子音+子音、連結なし）",
+            "built all → /t/ + /ɔ/（子音+母音）が連結 [ˈbɪlt ɔl] ビルト・オール",
+            "all season → /l/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "ザット イズ ザ ルーシスト ストラクチャー ウィ ハブ ビルト オール シーズン、バット イット スティル ワークス"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "looses",
+      "ipa": "/ˈluːsɪz/",
+      "examples": [
+        {
+          "en": "The archer looses arrows at the creepers attacking from the darkness.",
+          "ja": "弓使いは暗闇から攻撃してくるクリーパーに矢を放ちます。",
+          "ipa": "/ðə ˈɑrtʃər ˈluːsɪz ˈæroʊz ət ðə ˈkriːpərz əˈtækɪŋ ˈfɹʌm ðə ˈdɑrkɪnɪs/",
+          "linking": [
+            "the archer → the は弱形 /ðə/",
+            "archer looses → /r/ + /l/（子音+子音、連結なし）",
+            "looses arrows → /z/ + /ə/（子音+母音）が連結 [ˈluːsɪz ˈæroʊz] ルーシズ・アローズ",
+            "at the → /t/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/",
+            "creepers attacking → /z/ + /ə/（子音+母音）が連結 [ˈkriːpərz əˈtækɪŋ]",
+            "from the → /m/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ アーチャー ルーシズ アローズ アット ザ クリーパーズ アタッキング フラム ザ ダークネス"
+        },
+        {
+          "en": "She looses the trapped mob once the pressure plate activates the redstone signal.",
+          "ja": "圧力板がレッドストーン信号を起動すると、彼女は閉じ込められたモブを放ちます。",
+          "ipa": "/ʃi ˈluːsɪz ðə ˈtræpt ˈmɑb ˈwʌns ðə ˈprɛʃər ˈpleɪt ˈæktɪˌveɪts ðə ˈrɛdˌstoʊn ˈsɪɡnəl/",
+          "linking": [
+            "looses the → /z/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "trapped mob → /t/ + /m/（子音+子音、連結なし）",
+            "once the → /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "pressure plate → /r/ + /p/（子音+子音、連結なし）",
+            "activates the → /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "redstone signal → /n/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "シー ルーシズ ザ トラップト モブ ワンス ザ プレッシャー プレイト アクティベイツ ザ レッドストーン シグナル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "loosed",
+      "ipa": "/luːst/",
+      "examples": [
+        {
+          "en": "He loosed the water flow from the dam when the lever was pulled.",
+          "ja": "レバーが引かれたとき、彼はダムから水の流れを放ちました。",
+          "ipa": "/hi ˈluːst ðə ˈwɔtər ˈfloʊ ˈfɹʌm ðə ˈdæm ˈwɛn ðə ˈlɛvər wəz ˈpʊld/",
+          "linking": [
+            "loosed the → /d/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "water flow → /r/ + /f/（子音+子音、連結なし）",
+            "from the → /m/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/",
+            "when the → /n/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/",
+            "lever was → /r/ + /w/（子音+子音、連結なし）、was は弱形 /wəz/"
+          ],
+          "kana": "ヒー ルースト ザ ウォーター フロー フラム ザ ダム ウェン ザ レバー ワズ プルド"
+        },
+        {
+          "en": "They loosed the mobs from their enclosure and watched the chaos unfold.",
+          "ja": "彼らはエンクロージャーからモブを放ち、混乱の展開を見守りました。",
+          "ipa": "/ðeɪ ˈluːst ðə ˈmɑbz ˈfɹʌm ðɛr ɛnˈkloʊʒər ənd ˈwɑtʃt ðə ˈkeɪɑs ʌnˈfoʊld/",
+          "linking": [
+            "loosed the → /d/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the mobs → the の弱形 /ð/ が mobs の初期子音 /m/ に先行（子音+子音、連結なし）",
+            "mobs from → /z/ + /f/（子音+子音、連結なし）",
+            "from their → /m/ + /ð/（子音+子音、連結なし）",
+            "and watched → and は弱形 /ənd/、watched の /w/ に先行（子音+子音、連結なし）",
+            "chaos unfold → /s/ + /ʌ/（子音+母音）が連結 [ˈkeɪɑs ʌnˈfoʊld] ケイオス・アンフォウルド"
+          ],
+          "kana": "ザイ ルースト ザ モブズ フラム ゼア エンクロージャー エンド ウォッチト ザ ケイオス アンフォウルド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "loosed",
+      "ipa": "/luːst/",
+      "examples": [
+        {
+          "en": "Once loosed, the water flowed rapidly down the mountainside into the valley.",
+          "ja": "放たれると、水は山腹から谷へ急速に流れました。",
+          "ipa": "/ˈwʌns ˈluːst | ðə ˈwɔtər ˈfloʊd ˈræpɪdli ˈdaʊn ðə ˈmaʊntənˌsaɪd ˈɪntu ðə ˈvæli/",
+          "linking": [
+            "Once loosed → /s/ + /l/（子音+子音、連結なし）",
+            "loosed the → /d/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the water → the の弱形 /ə/ が water の初期子音 /w/ に先行（子音+子音、連結なし）",
+            "water flowed → /r/ + /f/（子音+子音、連結なし）",
+            "down the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "into the → /u/ + /ð/（母音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ワンス ルースト、ザ ウォーター フロウド ラピッドリー ダウン ザ マウンテンサイド イントゥー ザ ヴァリー"
+        },
+        {
+          "en": "The loosed arrows from our archers pierced through the enemy equipment without mercy.",
+          "ja": "弓使いたちから放たれた矢は、敵の装備を容赦なく貫きました。",
+          "ipa": "/ðə ˈluːst ˈæroʊz ˈfɹʌm ˈaʊr ˈɑrtʃərz ˈpɪrst ˈθru ðə ˈɛnəmi ɪˈkwɪpmənt wɪðˈaʊt ˈmɜrsi/",
+          "linking": [
+            "the loosed → the は弱形 /ðə/",
+            "loosed arrows → /d/ + /ə/（子音+母音）が連結 [ˈluːst ˈæroʊz] ルースト・アローズ",
+            "arrows from → /z/ + /f/（子音+子音、連結なし）",
+            "from our → /m/ + /aʊ/（子音+母音）が連結 [ˈfɹʌm ˈaʊr] フラム・アワー",
+            "pierced through → /t/ + /θ/（子音+子音、連結なし）",
+            "through the → /u/ + /ð/（母音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ルースト アローズ フラム アワー アーチャーズ ピアースト スルー ザ エネミー イクイップメント ウィザウト マーシー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "loosing",
+      "ipa": "/ˈluːsɪŋ/",
+      "examples": [
+        {
+          "en": "The archer is loosing arrows rapidly while standing on the guard tower.",
+          "ja": "弓使いはガード塔に立ちながら、矢を素早く放ち続けています。",
+          "ipa": "/ðə ˈɑrtʃər ɪz ˈluːsɪŋ ˈæroʊz ˈræpɪdli ˈwaɪl ˈstændɪŋ ɑn ðə ˈɡɑrd ˈtaʊər/",
+          "linking": [
+            "the archer → the は弱形 /ðə/",
+            "archer is → /r/ + /ɪ/（子音+母音）が連結 [ˈɑrtʃər ɪz] アーチャー・イズ",
+            "is loosing → is は弱形 /ɪz/、loosing の /l/ に先行（子音+子音、連結なし）",
+            "loosing arrows → /ŋ/ + /ə/（子音+母音）が連結 [ˈluːsɪŋ ˈæroʊz] ルーシング・アローズ",
+            "standing on → /ŋ/ + /ɑ/（子音+母音）が連結 [ˈstændɪŋ ɑn] スタンディング・オン",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ アーチャー イズ ルーシング アローズ ラピッドリー ホワイル スタンディング オン ザ ガード タウアー"
+        },
+        {
+          "en": "Loosing the pressure plate mechanism was risky, but we needed water for the fountain.",
+          "ja": "圧力板メカニズムを放つのは危険でしたが、噴水のために水が必要でした。",
+          "ipa": "/ˈluːsɪŋ ðə ˈprɛʃər ˈpleɪt ˈmɛkəˌnɪzəm wəz ˈrɪski | bət wi ˈnidɪd ˈwɔtər ˈfɔr ðə ˈfaʊntən/",
+          "linking": [
+            "Loosing the → /ŋ/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "pressure plate → /r/ + /p/（子音+子音、連結なし）",
+            "mechanism was → /m/ + /w/（子音+子音、連結なし）、was は弱形 /wəz/",
+            "but we → /t/ + /w/（子音+子音、連結なし）",
+            "we needed → /i/ + /n/（母音+子音、連結なし）",
+            "water for → /r/ + /f/（子音+子音、連結なし）、for は弱形 /fɚ/",
+            "for the → /r/ + /ð/（子音+子音、連結なし）、the も弱形 /ðə/"
+          ],
+          "kana": "ルーシング ザ プレッシャー プレイト メカニズム ワズ リスキー、バット ウィ ニーディッド ウォーター フォア ザ ファウンテン"
+        }
       ]
     }
   ]

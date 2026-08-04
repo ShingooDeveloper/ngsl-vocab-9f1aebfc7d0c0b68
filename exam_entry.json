@@ -81,5 +81,37 @@
         "exam + on → /m/ (exam の末尾) が /ɑ/ に連結: [ɪɡˈzæmɑn] イグザマン"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "exams",
+      "ipa": "/ɪɡˈzæmz/",
+      "examples": [
+        {
+          "en": "You need to pass all exams to advance to the next level.",
+          "ja": "次のレベルに進むために、すべての試験に合格する必要があります。",
+          "ipa": "/juː niːdə tə pæs ɔl ɪɡˈzæmz tə ədˈvænsə tə ðə nɛkst ˈlɛvəl/",
+          "linking": [
+            "need の語末 /d/ が to の母音 /ə/ に連結 [niːdə]",
+            "pass の語末 /s/ が all の母音 /ɔ/ に連結 [pæsɔl]",
+            "advance の語末 /s/ が to の母音 /ə/ に連結 [ədˈvænsə]"
+          ],
+          "kana": "ユー ニーダ タ パス オール イグザムズ タ アドヴァンサ タ ザ ネクスト レベル"
+        },
+        {
+          "en": "These difficult exams will test your skills in mining and building.",
+          "ja": "これらの難しい試験は、採掘と建築のあなたのスキルをテストします。",
+          "ipa": "/ðiːz ˈdɪfɪkəlt ɪɡˈzæmz wɪl tɛst jɔr skɪlz ɪn ˈmaɪnɪŋ ən ˈbɪldɪŋ/",
+          "linking": [
+            "difficult の語末 /t/ が exams の母音 /ɪ/ に連結 [ˈdɪfɪkəltɪɡˈzæmz]",
+            "in の語末 /n/ が mining の母音 /aɪ/ に連結 [ɪn ˈmaɪnɪŋ]",
+            "and は弱形 /ən/ で building に続く"
+          ],
+          "kana": "ディーズ ディフィカルト イグザムズ ウィル テスト ユア スキルズ イン マイニング エン ビルディング"
+        }
+      ]
+    }
   ]
 }

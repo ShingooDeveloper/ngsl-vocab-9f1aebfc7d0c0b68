@@ -44,5 +44,128 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "investigates",
+      "ipa": "/ɪnˈvɛstəɡeɪts/",
+      "examples": [
+        {
+          "en": "The scientist investigates the ancient ruin carefully each day.",
+          "ja": "科学者は毎日、古い遺跡を注意深く調査します。",
+          "ipa": "/ðə ˈsaɪəntɪst ɪnˈvɛstəɡeɪts ðɪ ˈeɪnʃənt ˈruːɪn ˈkɛrfəli ˈitʃ ˈdeɪ/",
+          "linking": [
+            "the は弱形 /ðə/。scientist と連結 [ðə ˈsaɪəntɪst] ザ サイエンティスト",
+            "investigates の z が the に続く（子音+子音、連結なし）。the は弱形 /ðɪ/ [ɪnˈvɛstəɡeɪts ðɪ] インベスティゲイツ ディ",
+            "each は /itʃ/。day に続く"
+          ],
+          "kana": "ザ サイエンティスト インベスティゲイツ ディ エインシェント ルーイン ケアフリー イッチ デイ"
+        },
+        {
+          "en": "My friend investigates every cave he finds for valuable diamonds and ore.",
+          "ja": "私の友達は見つけたあらゆる洞窟を価値あるダイヤモンドと鉱石について調査します。",
+          "ipa": "/maɪ ˈfrɛnd ɪnˈvɛstəɡeɪts ˈɛvri ˈkeɪv hi ˈfaɪndz fɔr ˈvæljuəbl ˈdaɪməndz ənd ˈɔːr/",
+          "linking": [
+            "friend は [ˈfrɛnd]。investigates に続く [ˈfrɛnd ɪnˈvɛstəɡeɪts] フレンド インベスティゲイツ",
+            "investigates の z が every に続く（子音+子音、連結なし）",
+            "finds の z が for に続く（子音+子音、連結なし）。for は弱形 /fɔr/ [ˈfaɪndz fɔr] ファインズ フォー",
+            "and は弱形 /ənd/ で ore と連結 [ənd ˈɔːr] アンド オー"
+          ],
+          "kana": "マイ フレンド インベスティゲイツ エブリー キェイブ ヒー ファインズ フォー ヴァリューアブル ダイモンズ アンド オア"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "investigated",
+      "ipa": "/ɪnˈvɛstəɡeɪtəd/",
+      "examples": [
+        {
+          "en": "We investigated the strange noise coming from under the ground.",
+          "ja": "私たちは地面の下から聞こえてくる奇妙な音を調査しました。",
+          "ipa": "/wi ɪnˈvɛstəɡeɪtəd ðə ˈstreɪndʒ ˈnɔɪz ˈkʌmɪŋ ˈfrʌm ˈʌndər ðə ˈɡraʊnd/",
+          "linking": [
+            "investigated の d が the に連結 [ɪnˈvɛstəɡeɪtəd ðə] インベスティゲイティド ザ",
+            "strange は [ˈstreɪndʒ]。noise に続く",
+            "coming は [ˈkʌmɪŋ]。from に続く",
+            "from は弱形 /frəm/。under と連結 [ˈfrʌm ˈʌndər] フラム アンダー"
+          ],
+          "kana": "ウィ インベスティゲイティド ザ ストレインジ ノイズ カミング フラム アンダー ザ グラウンド"
+        },
+        {
+          "en": "They investigated the abandoned village and found old chests inside.",
+          "ja": "彼らは放棄された村を調査し、中に古いチェストを見つけました。",
+          "ipa": "/ðeɪ ɪnˈvɛstəɡeɪtəd ðɪ əˈbændənd ˈvɪlɪdʒ ənd ˈfaʊnd ˈoʊld ˈtʃɛsts ɪnˈsaɪd/",
+          "linking": [
+            "investigated の d が the に連結 [ɪnˈvɛstəɡeɪtəd ðɪ] インベスティゲイティド ディ",
+            "and は弱形 /ən/ で found と連結。found は [ˈfaʊnd] [ən ˈfaʊnd] アン ファウンド",
+            "inside は /ɪnˈsaɪd/"
+          ],
+          "kana": "ゼイ インベスティゲイティド ディ アバンドンド ヴィリッジ アン ファウンド オールド チェスツ インサイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "investigated",
+      "ipa": "/ɪnˈvɛstəɡeɪtəd/",
+      "examples": [
+        {
+          "en": "Having investigated all the evidence, we realized the mystery behind the destruction.",
+          "ja": "すべての証拠を調査した後、私たちは破壊の背後にある謎を理解しました。",
+          "ipa": "/ˈheɪvɪŋ ɪnˈvɛstəɡeɪtəd ˈɔːl ðɪ ˈɛvɪdəns | wi riˈæləzd ðə ˈmɪstəri bɪˈhaɪnd ðə dɪˈstrʌkʃən/",
+          "linking": [
+            "investigated の d が all に続く（子音+子音、連結なし）",
+            "all の l が the に続く（子音+子音、連結なし）。the は弱形 /ðɪ/ [ˈɔːl ðɪ] オール ディ",
+            "realized は [riˈæləzd]。the は弱形 /ðə/ と連結 [riˈæləzd ðə] リアライズド ザ"
+          ],
+          "kana": "ハヴィング インベスティゲイティド オール ディ エビデンス、ウィ リアライズド ザ ミステリー ビハインド ザ ディストラクション"
+        },
+        {
+          "en": "The hidden temple had been investigated by previous explorers before we arrived.",
+          "ja": "隠された寺院は、私たちが到着する前に以前の探検家によって調査されていました。",
+          "ipa": "/ðə ˈhɪdən ˈtɛmpəl hæd bɪn ɪnˈvɛstəɡeɪtəd baɪ ˈpriːviəs ɪkˈsplɔːrərz bɪˈfɔːr wi əˈraɪvd/",
+          "linking": [
+            "the は弱形 /ðə/。hidden と連結 [ðə ˈhɪdən] ザ ヒデン",
+            "had は弱形 /hæd/ で been と連結 [hæd bɪn] ハド ビン",
+            "by は弱形 /baɪ/ で previous に続く [baɪ ˈpriːviəs] バイ プリーヴィアス"
+          ],
+          "kana": "ザ ヒデン テンプル ハド ビン インベスティゲイティド バイ プリーヴィアス エクスプローラーズ ビフォー ウィ アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "investigating",
+      "ipa": "/ɪnˈvɛstəɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Investigating this mysterious structure took longer than expected.",
+          "ja": "この神秘的な構造を調査することは予想より長くかかりました。",
+          "ipa": "/ɪnˈvɛstəɡeɪtɪŋ ðɪs mɪˈstɪriəs ˈstrʌktʃər ˈtʊk ˈlɔŋɡər ðæn ɪkˈspɛktəd/",
+          "linking": [
+            "investigating は [ɪnˈvɛstəɡeɪtɪŋ]。this に続く [ɪnˈvɛstəɡeɪtɪŋ ðɪs] インベスティゲイティング ディス",
+            "longer は [ˈlɔŋɡər]。than に続く [ˈlɔŋɡər ðæn] ロンガー ザン"
+          ],
+          "kana": "インベスティゲイティング ディス ミステリアス ストラクチャー トゥック ロンガー ザン イクスペクティド"
+        },
+        {
+          "en": "While investigating the deep dungeon, we encountered a rare mob we'd never seen before.",
+          "ja": "深いダンジョンを調査している間に、私たちは以前見たことのないレアなモブに遭遇しました。",
+          "ipa": "/waɪl ɪnˈvɛstəɡeɪtɪŋ ðə ˈdiːp ˈdʌndʒən | wi ɪnˈkaʊntərd ə ˈrɛr ˈmɑːb wi də ˈnɛvər ˈsiːn bɪˈfɔːr/",
+          "linking": [
+            "while は [waɪl]。investigating に続く [waɪl ɪnˈvɛstəɡeɪtɪŋ] ワイル インベスティゲイティング",
+            "the は弱形 /ðə/。deep と連結 [ðə ˈdiːp] ザ ディープ",
+            "encountered の d が a に連結。a は弱形 /ə/ [ɪnˈkaʊntərd ə] エンカウンタード ア"
+          ],
+          "kana": "ワイル インベスティゲイティング ザ ディープ ダンジョン、ウィ エンカウンタード ア レア モブ ウィー ディド ネバー シーン ビフォー"
+        }
+      ]
+    }
+  ]
 }

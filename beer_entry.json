@@ -39,5 +39,35 @@
       "kana": "ハヴア コールド ビア アフター ア ロング デイ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "beers",
+      "ipa": "/bɪrz/",
+      "examples": [
+        {
+          "en": "I'll take a few beers to the tavern.",
+          "ja": "タバーンに数杯のビールを持っていくよ",
+          "ipa": "[aɪl ˈteɪk ə ˈfju ˈbɪrz tə ðə ˈtævərn]",
+          "linking": [
+            "take a → /k/ が /ə/ に連結 [ˈteɪkə] テイカ",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "アイル テイカ フュー ビールズ タ ザ タヴァーン"
+        },
+        {
+          "en": "We need several beers after a long mining session.",
+          "ja": "長い採掘セッションの後に、数杯のビールが必要だ",
+          "ipa": "[wi ˈnid ˈsɛvərəl ˈbɪrz ˈæftər ə lɔŋ ˈmaɪnɪŋ ˈsɛʃən]",
+          "linking": [
+            "after a → a は弱形 /ə/",
+            "a long → a は弱形 /ə/"
+          ],
+          "kana": "ウィ ニード セヴラル ビールズ アフター ア ロング マイニング セッション"
+        }
+      ]
+    }
+  ]
 }

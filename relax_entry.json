@@ -56,5 +56,130 @@
         "relax の語末 /ks/ が with の初頭 /w/ に直続（子音クラスタ）"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "relaxes",
+      "ipa": "/rɪˈlæksɪz/",
+      "examples": [
+        {
+          "en": "Building relaxes us after a long day.",
+          "ja": "長い一日の後、建築は私たちをリラックスさせる。",
+          "ipa": "/ˈbɪldɪŋ rɪˈlæksɪz ʌs ˈæftər ə ˈlɔŋ ˈdeɪ/",
+          "kana": "ビルディング リラックスィズ アス アフター ア ロング デイ",
+          "linking": [
+            "building の語末 /ŋ/ が relaxes の初頭 /r/ に直続",
+            "relaxes の語末 /z/ が us の初頭母音 /ʌ/ に連結",
+            "after の語末子音 /r/ が a の弱形 /ə/ に連結",
+            "a は機能語として弱形 /ə/ に弱化"
+          ]
+        },
+        {
+          "en": "Mining relaxes me when I am stressed.",
+          "ja": "採掘は私がストレスを感じるときリラックスさせる。",
+          "ipa": "/ˈmaɪnɪŋ rɪˈlæksɪz mi wɛn aɪ æm strɛst/",
+          "kana": "マイニング リラックスィズ ミ ウェン アイ アム ストレスト",
+          "linking": [
+            "mining の語末 /ŋ/ が relaxes の初頭 /r/ に直続",
+            "relaxes の語末 /z/ が me の初頭母音 /i/ に連結",
+            "when の語末子音 /n/ が I の初頭母音 /aɪ/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "relaxed",
+      "ipa": "/rɪˈlækst/",
+      "examples": [
+        {
+          "en": "I relaxed in my bed after mining.",
+          "ja": "採掘した後、ベッドでくつろいだ。",
+          "ipa": "/aɪ rɪˈlækst ɪn maɪ ˈbɛd ˈæftər ˈmaɪnɪŋ/",
+          "kana": "アイ リラックスト イン マイ ベッド アフター マイニング",
+          "linking": [
+            "relaxed の語末子音 /t/ が in の初頭母音 /ɪ/ に連結",
+            "in の語末 /n/ が my の初頭母音 /aɪ/ に連結",
+            "bed の語末子音 /d/ が after の初頭母音 /æ/ に連結"
+          ]
+        },
+        {
+          "en": "We relaxed at sunset after building all day.",
+          "ja": "私たちは一日中建築した後、夕焼け時にくつろいだ。",
+          "ipa": "/wi rɪˈlækst æt ˈsʌnsɛt ˈæftər ˈbɪldɪŋ ɔl ˈdeɪ/",
+          "kana": "ウィ リラックスト アット サンセット アフター ビルディング オール デイ",
+          "linking": [
+            "relaxed の語末子音 /t/ が at の初頭母音 /æ/ に連結",
+            "at の語末子音 /t/ が sunset の初頭 /s/ に直続。/t/ は未開放",
+            "building の語末 /ŋ/ が all の初頭母音 /ɔ/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "relaxed",
+      "ipa": "/rɪˈlækst/",
+      "examples": [
+        {
+          "en": "The relaxed atmosphere makes everyone happy.",
+          "ja": "くつろいだ雰囲気が誰もを幸せにする。",
+          "ipa": "/ðə rɪˈlækst ˈætməsˌfɪr ˈmeɪks ˈɛvriwən ˈhæpi/",
+          "kana": "ザ リラックスト アットモスフィア メイクス エヴリワン ハッピー",
+          "linking": [
+            "The は冠詞として弱形 /ðə/ に弱化",
+            "relaxed の語末子音 /t/ が atmosphere の初頭母音 /æ/ に連結",
+            "makes の語末 /z/ が everyone の初頭母音 /ɛ/ に連結"
+          ]
+        },
+        {
+          "en": "Building a relaxed space is important for players.",
+          "ja": "くつろいだスペースを作ることはプレイヤーにとって重要である。",
+          "ipa": "/ˈbɪldɪŋ ə rɪˈlækst ˈspeɪs ɪz ɪmˈpɔrtənt fɔr ˈpleɪərz/",
+          "kana": "ビルディング ア リラックスト スペイス イズ インポーゾント フォー プレイアーズ",
+          "linking": [
+            "building の語末 /ŋ/ が a の弱形 /ə/ に連結",
+            "space の語末 /s/ が is の初頭 /ɪ/ に連結",
+            "important の語末子音 /t/ が for の弱形 /ə/ に連結",
+            "for は機能語として弱形 /fə(r)/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "relaxing",
+      "ipa": "/rɪˈlæksɪŋ/",
+      "examples": [
+        {
+          "en": "Relaxing in my base is the best feeling.",
+          "ja": "拠点でくつろぐことが最高の感覚です。",
+          "ipa": "/rɪˈlæksɪŋ ɪn maɪ ˈbeɪs ɪz ðə ˈbɛst ˈfilɪŋ/",
+          "kana": "リラックスィング イン マイ ベース イズ ザ ベスト フィーリング",
+          "linking": [
+            "relaxing の語末 /ŋ/ が in の初頭母音 /ɪ/ に連結",
+            "in の語末 /n/ が my の初頭母音 /aɪ/ に連結",
+            "base の語末 /s/ が is の初頭 /ɪ/ に連結",
+            "the は冠詞として弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "I enjoy relaxing after exploring all day.",
+          "ja": "私は一日中探検した後、くつろぐのを楽しむ。",
+          "ipa": "/aɪ ɪnˈdʒɔɪ rɪˈlæksɪŋ ˈæftər ɪkˈsplɔrɪŋ ɔl ˈdeɪ/",
+          "kana": "アイ インジョイ リラックスィング アフター イクスプロアリング オール デイ",
+          "linking": [
+            "relaxing の語末 /ŋ/ が after の初頭母音 /æ/ に連結",
+            "after の語末子音 /r/ が exploring の初頭母音 /ɪ/ に連結",
+            "exploring の語末 /ŋ/ が all の初頭母音 /ɔ/ に連結"
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -43,5 +43,119 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "revises",
+      "ipa": "[rɪˈvaɪzɪz]",
+      "examples": [
+        {
+          "en": "She revises the blueprint every evening.",
+          "ja": "彼女は毎晩そのブループリントを修正します。",
+          "ipa": "[ʃi rɪˈvaɪzɪz ðə ˈbluːprɪnt ˈɛvri ˈivnɪŋ]",
+          "kana": "シー レヴァイジズ ザ ブループリント エブリー イーブニング",
+          "linking": [
+            "She + revises → 母音 /i:/ と /r/ が連結",
+            "revises + the → /z/ (revise の末尾) が /ð/ 前で未開放、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "He revises his designs when structures fail.",
+          "ja": "構造が失敗したとき、彼は自分のデザインを修正します。",
+          "ipa": "[hi rɪˈvaɪzɪz hɪz dɪˈzaɪnz wɛn ˈstrʌktʃɚz feɪl]",
+          "kana": "ヒー レヴァイジズ ヒズ ディザインズ ウェン ストラクチャーズ フェイル",
+          "linking": [
+            "He + revises → 母音 /i:/ と /r/ が連結",
+            "his → 弱形で /ɪz/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "revised",
+      "ipa": "[rɪˈvaɪzd]",
+      "examples": [
+        {
+          "en": "I revised the redstone circuit yesterday.",
+          "ja": "昨日、レッドストーン回路を修正しました。",
+          "ipa": "[aɪ rɪˈvaɪzd ðə ˈrɛdˌstoʊn ˈsɝːkɪt ˈjɛstɚdeɪ]",
+          "kana": "アイ レヴァイズド ザ レッドストーン サーキット イェスタディ",
+          "linking": [
+            "revised + the → /d/ (revised の末尾) が /ð/ 前で未開放、the は弱形 /ðə/ で [rɪˈvaɪzd̚ ðə]",
+            "yesterday の初頭 y は /j/ なので弱形化なし"
+          ]
+        },
+        {
+          "en": "We revised our building plan after the creeper attack.",
+          "ja": "クリーパー攻撃の後、建築計画を修正しました。",
+          "ipa": "[wi rɪˈvaɪzd ˈaʊɹ ˈbɪldɪŋ plæn ˈæftɚ ðə ˈkripɚ əˈtæk]",
+          "kana": "ウィ レヴァイズド アワー ビルディング プラン アフター ザ クリーパー アタック",
+          "linking": [
+            "revised + our → /d/ (revised の末尾) が母音 /aʊ/ に連結",
+            "the + creeper → /ðə/ が /k/ 前で未開放"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "revised",
+      "ipa": "[rɪˈvaɪzd]",
+      "examples": [
+        {
+          "en": "The revised farm layout produces much more food.",
+          "ja": "修正されたファームレイアウトは、はるかに多くの食料を生産します。",
+          "ipa": "[ðə rɪˈvaɪzd ˈfɑrm ˈleɪaʊt pɹəˈdjuːs mʌtʃ mɔr ˈfud]",
+          "kana": "ザ レヴァイズド ファーム レイアウト プロデューズ マッチ モアー フード",
+          "linking": [
+            "the + revised → /ðə/ (the の弱形) が /r/ に連結",
+            "produces + much → /z/ が /m/ 前で未開放"
+          ]
+        },
+        {
+          "en": "All revised designs must be tested in survival mode.",
+          "ja": "すべての修正されたデザインはサバイバルモードでテストされねばなりません。",
+          "ipa": "[ɔl rɪˈvaɪzd dɪˈzaɪnz mʌst bi ˈtɛstɪd ɪn sərˈvaɪvəl moʊd]",
+          "kana": "オール レヴァイズド ディザインズ マスト ビー テステッド イン サーヴァイヴァル モード",
+          "linking": [
+            "must + be → /t/ (must の末尾) が /b/ 前で未開放 [mʌst̚ bi]",
+            "tested + in → /d/ が /ɪ/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "revising",
+      "ipa": "[rɪˈvaɪzɪŋ]",
+      "examples": [
+        {
+          "en": "She's revising the nether fortress plan now.",
+          "ja": "彼女は今、ネザー要塞計画を修正中です。",
+          "ipa": "[ʃiz rɪˈvaɪzɪŋ ðə ˈnɛðɚ ˈfɔːrtres plæn naʊ]",
+          "kana": "シーズ レヴァイジング ザ ネザー フォートレス プラン ナウ",
+          "linking": [
+            "She's + revising → /z/ (is の末尾) が /r/ に連結",
+            "the + nether → /ðə/ (the の弱形) が /n/ に連結"
+          ]
+        },
+        {
+          "en": "We're always revising our mining strategies to find diamonds.",
+          "ja": "私たちはダイヤモンドを見つけるために、採掘戦略を常に修正しています。",
+          "ipa": "[wir ˈɔlweɪz rɪˈvaɪzɪŋ ˈaʊɹ ˈmaɪnɪŋ ˈstɹætɪdʒiz tə ˈfaɪnd ˈdaɪməndz]",
+          "kana": "ウィアー オールウェイズ レヴァイジング アワー マイニング ストラテジーズ タ ファインド ダイモンズ",
+          "linking": [
+            "We're + always → /r/ (are の末尾) が /ɔ/ に連結",
+            "to + find → to は機能語で弱形 /tə/ に弱化"
+          ]
+        }
+      ]
+    }
+  ]
 }

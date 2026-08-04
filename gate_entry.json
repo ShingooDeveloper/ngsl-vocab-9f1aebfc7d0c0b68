@@ -72,5 +72,167 @@
       ],
       "kana": "クロウズ ザ ゲイッ ソウ クリーパーズ カン ノット エンター"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "gates",
+      "ipa": "/ɡeɪts/",
+      "examples": [
+        {
+          "en": "Multiple gates secured the entire fortress perimeter.",
+          "ja": "複数の門が砦全体の周囲を保護していました。",
+          "ipa": "/ˈmʌltɪpl̩ ɡeɪts sɪˈkjʊɚd ðə ənˈtaɪɚ ˈfɔɹtres pəˈrɪmɪtɚ/",
+          "linking": [
+            "Multiple gates → /l/ + /ɡ/ は子音+子音で連結なし",
+            "gates secured → /z/ + /s/ は子音+子音で連結なし",
+            "the entire → the は弱形 /ðə/、entire との間は /ə/ + /ɛ/ で連結"
+          ],
+          "kana": "マルティプル ゲイツ シキュアード ザ エンタイア フォートレス パリメター"
+        },
+        {
+          "en": "Iron gates protected all four sides of our base.",
+          "ja": "鉄の門は基地の4方向すべてを守りました。",
+          "ipa": "/ˈaɪrən ɡeɪts prəˈtɛktɪd ɔl fɔr saɪdz əv ɑr beɪs/",
+          "linking": [
+            "Iron gates → /n/ + /ɡ/ は子音+子音で連結なし",
+            "gates protected → /z/ + /p/ は子音+子音で連結なし",
+            "of our → of は弱形 /əv/、our は弱形 /ɑr/。/v/ + /ɑ/ で連結"
+          ],
+          "kana": "アイアン ゲイツ プロテクティド オール フォア サイズ アヴ アー ベース"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "gates",
+      "ipa": "/ɡeɪts/",
+      "examples": [
+        {
+          "en": "He gates the entrance with a wooden door to keep out zombies.",
+          "ja": "彼は木製のドアで入口を門で塞いでゾンビを防ぎます。",
+          "ipa": "/hi ɡeɪts ðə ˈɛntrəns wɪð ə ˈwʊdn̩ dɔr tu kip ˈaʊt ˈzɑmbiz/",
+          "linking": [
+            "He gates → /i/ + /ɡ/ は子音+子音で連結なし",
+            "gates the → /z/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/",
+            "the entrance → the は弱形 /ðə/、entrance との間は連結",
+            "a wooden → a は弱形 /ə/ で wooden と連結",
+            "to keep → to は弱形 /tə/ で keep と連結。/tə kip/ [tə ˈkip]"
+          ],
+          "kana": "ヒー ゲイツ ザ エントランス ウィズ ア ウッドゥン ドア トゥ キープ アウト ゾンビーズ"
+        },
+        {
+          "en": "The system gates the water flow at the redstone dam.",
+          "ja": "このシステムはレッドストーンダムで水の流れを制御します。",
+          "ipa": "/ðə ˈsɪstəm ɡeɪts ðə ˈwɔtɚ floʊ æt ðə ˈrɛdˌstoʊn dæm/",
+          "linking": [
+            "The system → the は弱形 /ðə/、system との間は連結",
+            "system gates → /m/ + /ɡ/ は子音+子音で連結なし",
+            "gates the → /z/ + /ð/ は子音+子音で連結なし",
+            "the water → the は弱形 /ðə/、water との間は連結",
+            "at the → /t/ + /ðə/。at の /t/ は未開放 [æt̚]"
+          ],
+          "kana": "ザ システム ゲイツ ザ ウォーター フロー アット ザ レッドストーン ダム"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "gated",
+      "ipa": "/ˈɡeɪtɪd/",
+      "examples": [
+        {
+          "en": "We gated off the dangerous area with barriers.",
+          "ja": "危険な領域をバリアで塞ぎました。",
+          "ipa": "/wi ˈɡeɪtɪd ɔf ðə ˈdeɪndʒərəs ˈɛɹiə wɪð ˈbɛɹiɚz/",
+          "linking": [
+            "We gated → /i/ + /ɡ/ は子音+子音で連結なし",
+            "gated off → /ɪd/ + /ɔ/ で連結。/ɪd ɔf/ [ˈɡeɪtɪd ɔf]",
+            "off the → /f/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/",
+            "the dangerous → the は弱形 /ðə/、dangerous との間は連結"
+          ],
+          "kana": "ウィ ゲイティド オフ ザ デインジャラス エリア ウィズ バリアーズ"
+        },
+        {
+          "en": "Players gated their compounds to prevent mob invasions.",
+          "ja": "プレイヤーがモブの侵略を防ぐために彼らの基地を門で塞ぎました。",
+          "ipa": "/ˈpleɪɚz ˈɡeɪtɪd ðɛɹ ˈkɑmˌpaʊndz tə prɪˈvɛnt moʊb ɪnˈveɪʒənz/",
+          "linking": [
+            "Players gated → /z/ + /ɡ/ は子音+子音で連結なし",
+            "gated their → /ɪd/ + /ð/ は子音+子音で連結なし",
+            "their compounds → /r/ + /k/ は子音+子音で連結なし",
+            "to prevent → to は弱形 /tə/、prevent との間は連結"
+          ],
+          "kana": "プレイヤーズ ゲイティド ゼア コムパウンズ タ プリヴェント モウブ インヴェイジャンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "gated",
+      "ipa": "/ˈɡeɪtɪd/",
+      "examples": [
+        {
+          "en": "The gated farm kept all animals safe from hostile mobs.",
+          "ja": "門で囲まれた農場はすべての動物を敵対的なモブから安全に保ちました。",
+          "ipa": "/ðə ˈɡeɪtɪd fɑɹm kɛpt ɔl ˈænɪməlz seɪf frəm ˈhoʊstəl moʊbz/",
+          "linking": [
+            "The gated → the は弱形 /ðə/、gated との間は連結",
+            "gated farm → /ɪd/ + /f/ は子音+子音で連結なし",
+            "safe from → /f/ + /f/ は子音+子音で連結なし。from は弱形 /frəm/",
+            "hostile mobs → /l/ + /m/ は連結なし"
+          ],
+          "kana": "ザ ゲイティド ファーム ケプト オール アニマルズ セーフ フラム ホウスタル モウブズ"
+        },
+        {
+          "en": "A gated compound with redstone mechanisms provided strong security.",
+          "ja": "レッドストーン機構を持つ門で囲まれた基地は強い安全を提供しました。",
+          "ipa": "/ə ˈɡeɪtɪd ˈkɑmˌpaʊnd wɪð ˈrɛdˌstoʊn ˈmɛkənɪzəmz prəˈvaɪdɪd ˈstɹɔŋ sɪˈkjʊɹɪti/",
+          "linking": [
+            "a gated → a は弱形 /ə/、gated との間は連結",
+            "gated compound → /ɪd/ + /k/ は子音+子音で連結なし",
+            "with redstone → /ð/ + /r/ は子音+子音で連結なし",
+            "mechanisms provided → /z/ + /p/ は子音+子音で連結なし"
+          ],
+          "kana": "ア ゲイティド コムパウンド ウィズ レッドストーン メカニズムズ プロヴァイディド ストロング シキュリティ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞（動詞）",
+      "text": "gating",
+      "ipa": "/ˈɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Gating the entrance prevented hostile mobs from entering the base.",
+          "ja": "入口を門で塞ぐことで敵対的なモブが基地に入るのを防ぎました。",
+          "ipa": "/ˈɡeɪtɪŋ ðə ˈɛntrəns prɪˈvɛntɪd ˈhoʊstəl moʊbz frəm ˈɛntɚɪŋ ðə beɪs/",
+          "linking": [
+            "Gating the → /ŋ/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/",
+            "the entrance → the は弱形 /ðə/、entrance との間は連結",
+            "prevented hostile → /ɪd/ + /h/ は子音+子音で連結なし",
+            "from entering → from は弱形 /frəm/"
+          ],
+          "kana": "ゲイティング ザ エントランス プリヴェンティド ホウスタル モウブズ フラム エンタリング ザ ベース"
+        },
+        {
+          "en": "We spent hours gating off the nether portal.",
+          "ja": "ネザーポータルを門で塞ぐのに何時間も費やしました。",
+          "ipa": "/wi ˈspɛnt ˈaʊɚz ˈɡeɪtɪŋ ɔf ðə ˈnɛðɚ ˈpoɹtl̩/",
+          "linking": [
+            "spent hours → spent の末尾の /t/ が hours の初頭の /aʊ/（母音）に連結し、フラップ化。[ˈspɛɾ ˈaʊɚz] スペア アワーズ",
+            "hours gating → /z/ + /ɡ/ は子音+子音で連結なし",
+            "gating off → /ŋ/ + /ɔ/。/ŋ/ は鼻音で通常連結なし",
+            "the nether → the は弱形 /ðə/、nether との間は連結"
+          ],
+          "kana": "ウィ スペア アワーズ ゲイティング オフ ザ ネザー ポータル"
+        }
+      ]
+    }
   ]
 }

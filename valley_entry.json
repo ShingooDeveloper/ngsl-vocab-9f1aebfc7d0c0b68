@@ -44,5 +44,35 @@
       "kana": "ウィ ニード タ ファイン ダ ヴァリ ファー ラウ ネクスト ベース"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "valleys",
+      "ipa": "/ˈvæliz/",
+      "examples": [
+        {
+          "en": "The valleys stretch across the biome.",
+          "ja": "その谷々はバイオーム全体に広がっています。",
+          "ipa": "/ðə ˈvæliz strɛtʃ əˈkrɑs ðə ˈbaɪoʊm/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 ザ",
+            "across の第1音節 a は弱形 /ə/ に弱化"
+          ],
+          "kana": "ザ ヴァリズ ストレッチ アクロス ザ バイオム"
+        },
+        {
+          "en": "Building homes in valleys provides protection.",
+          "ja": "谷々に家を建てることは保護をもたらします。",
+          "ipa": "/ˈbɪldɪŋ hoʊmz ɪn ˈvæliz prəˈvaɪdz prəˈtɛkʃən/",
+          "linking": [
+            "homes の末尾子音 /z/ が in の頭の母音 /ɪ/ に連結 [hoʊmz ɪn] ホームズ イン",
+            "in は弱形 /ɪn/ に弱化"
+          ],
+          "kana": "ビルディング ホームズ イン ヴァリズ プロヴァイズ プロテクション"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

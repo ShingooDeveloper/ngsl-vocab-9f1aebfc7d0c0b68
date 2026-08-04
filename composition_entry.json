@@ -48,6 +48,38 @@
       "kana": "アイル ディザイン ザ カンポジ シャナヴ アワー フォーテス トゥモロウ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "compositions",
+      "ipa": "/ˌkɑmpəˈzɪʃənz/",
+      "examples": [
+        {
+          "en": "These block compositions make perfect castles.",
+          "ja": "これらのブロック構成は完璧な城を作ります。",
+          "ipa": "/ðiz blɑk ˌkɑmpəˈzɪʃənz meɪk ˈpɜrfɪkt ˈkæsəlz/",
+          "linking": [
+            "These の弱形 /ðiz/ が block の初頭子音 /b/ に続く（弱形のまま）。",
+            "block の語末子音 /k/ が compositions の初頭子音 /k/ に未開放 [blɑk̚ kɑm]。",
+            "compositions の語末子音 /z/ が make の初頭子音 /m/ に連結し [ˈzɪʃənz meɪk] → ションズメイク"
+          ],
+          "kana": "ディーズ ブラック コンポジションズ メイク パーフィクト キャセルズ"
+        },
+        {
+          "en": "The best compositions require redstone and copper.",
+          "ja": "最高の構成にはレッドストーンと銅が必要です。",
+          "ipa": "/ðə bɛst ˌkɑmpəˈzɪʃənz rɪˈkwaɪər ˈrɛdˌstoʊn ənd ˈkɑpər/",
+          "linking": [
+            "The の弱形 /ðə/ が best の初頭子音 /b/ に続く（弱形のまま）。",
+            "best の語末子音 /t/ が compositions の初頭子音 /k/ に未開放 [bɛst̚ kɑm]。",
+            "compositions の語末子音 /z/ が require の初頭子音 /r/ に連結し [ˈzɪʃənz rɪˈkwaɪər] → ションズリクワイアー"
+          ],
+          "kana": "ザ ベスト コンポジションズ リクワイアー レッドストウン アン カッパー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "composition of",

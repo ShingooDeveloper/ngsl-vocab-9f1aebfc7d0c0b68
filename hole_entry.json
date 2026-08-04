@@ -59,5 +59,159 @@
       ],
       "kana": "アッ ナイッ ウィー ホーラップ イン アウアー マイン タ ステイ セイフ フラム マブズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "holes",
+      "ipa": "/hoʊlz/",
+      "examples": [
+        {
+          "en": "I dug several holes in the mountain to find diamonds.",
+          "ja": "山にダイヤモンドを探すための穴をいくつか掘りました。",
+          "ipa": "/aɪ dʌg ˈsɛvərəl hoʊlz ɪn ðə ˈmaʊntn̩ tu ˈfaɪnd ˈdaɪmændz/",
+          "linking": [
+            "dug several → /g/ + /s/: consonant+consonant、連結なし",
+            "holes in → /z/ + /ɪ/ が連結",
+            "mountain to → /n/ + /t/: consonant+consonant、連結なし、to は弱形 /tə/"
+          ],
+          "kana": "アイ ダグ セベラル ホールズ イン ザ マウンテン タ ファインド ダイマンズ"
+        },
+        {
+          "en": "The creepers left many holes in our base.",
+          "ja": "クリーパーは私たちの基地にたくさんの穴を残しました。",
+          "ipa": "/ðə ˈkriːpɚz lɛft ˈmɛni hoʊlz ɪn ˈaʊɚ beɪs/",
+          "linking": [
+            "The creepers → the は弱形 /ðə/、/ə/ + /k/: consonant+consonant、連結なし",
+            "many holes → /i/ + /h/ が連結",
+            "holes in → /z/ + /ɪ/ が連結"
+          ],
+          "kana": "ザ クリーパーズ レフト メニー ホールズ イン アワー ベース"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "holes",
+      "ipa": "/hoʊlz/",
+      "examples": [
+        {
+          "en": "He holes through the mountain with a diamond pickaxe.",
+          "ja": "彼はダイヤモンドのツルハシで山を掘り抜きます。",
+          "ipa": "/hi hoʊlz θruː ðə ˈmaʊntn̩ wɪð ə ˈdaɪmənd ˈpɪkˌæks/",
+          "linking": [
+            "He holes → /i/ + /h/ が連結",
+            "holes through → /z/ + /θ/: consonant+consonant、連結なし",
+            "through the → /θ/ + /ð/: consonant+consonant、連結なし、the は弱形 /ðə/",
+            "with a → /ð/ + /ə/ が連結"
+          ],
+          "kana": "ヒー ホールズ スルー ザ マウンテン ウィザ ダイマンド ピックアックス"
+        },
+        {
+          "en": "She holes the wall to make an exit.",
+          "ja": "彼女は出口を作るために壁に穴を開けます。",
+          "ipa": "/ʃi hoʊlz ðə wɔːl tu meɪk ən ˈɛɡˌzɪt/",
+          "linking": [
+            "She holes → /i/ + /h/ が連結",
+            "holes the → /z/ + /ð/: consonant+consonant、連結なし、the は弱形 /ðə/",
+            "to make → to は弱形 /tə/、/tə/ + /m/: consonant+consonant、連結なし",
+            "make an → /k/ + /ə/ が連結、an は弱形 /ən/"
+          ],
+          "kana": "シー ホールズ ザ ウォール タ メイカン エグジット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "holed",
+      "ipa": "/hoʊld/",
+      "examples": [
+        {
+          "en": "I holed through a massive obsidian block yesterday.",
+          "ja": "昨日、巨大な黒曜石ブロックを掘り抜きました。",
+          "ipa": "/aɪ hoʊld θruː ə məˈsɪv əbˈsɪdiən blɑk ˈjɛstərdeɪ/",
+          "linking": [
+            "massive obsidian → /v/ + /ə/ が連結",
+            "holed through → /d/ + /θ/: consonant+consonant、連結なし",
+            "through a → a は弱形 /ə/"
+          ],
+          "kana": "アイ ホールド スルー ア マシヴ オブシディアン ブロック イェスタディ"
+        },
+        {
+          "en": "We holed a tunnel all the way to the cave system.",
+          "ja": "洞窟システムまで全てをトンネルとして掘りました。",
+          "ipa": "/wi hoʊld ə ˈtʌnəl ɔːl ðə weɪ tu ðə keɪv ˈsɪstəm/",
+          "linking": [
+            "holed a → /d/ + /ə/ が連結",
+            "tunnel all → /l/ + /ɔ/ が連結",
+            "the way → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ホールダ トゥンネル オール ザ ウェイ タ ザ ケイヴ システム"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "holed",
+      "ipa": "/hoʊld/",
+      "examples": [
+        {
+          "en": "Once we had holed through the mountain, we could explore the vast underground network.",
+          "ja": "山を掘り抜いた後、広大な地下ネットワークを探索することができました。",
+          "ipa": "/wʌns wi həd hoʊld θruː ðə ˈmaʊntn̩ | wi kəd ɪkˈsplɔːr ðə væst ʌndərˈɡraund ˈnɛtˌwɝk/",
+          "linking": [
+            "we had → /i/ + /h/ が連結",
+            "could explore → /d/ + /ɪ/ が連結",
+            "vast underground → /t/ + /ʌ/ が連結"
+          ],
+          "kana": "ワンス ウィ ハド ホールド スルー ザ マウンテン、ウィ クド イクスプロア ザ ヴァスト アンダーグラウンド ネットワーク"
+        },
+        {
+          "en": "The structure has holed in multiple places from constant use and wear.",
+          "ja": "その構造は常時使用と摩耗から複数の場所に穴が開いています。",
+          "ipa": "/ðə ˈstrʌktʃɚ həz hoʊld ɪn ˈmʌltɪpəl ˈpleɪsɪz frəm ˈkɑnstənt juːz ənd wɛr/",
+          "linking": [
+            "holed in → /d/ + /ɪ/ が連結",
+            "use and → /z/ + /ə/ が連結、and は弱形 /ənd/",
+            "places from → /z/ + /f/: consonant+consonant、連結なし"
+          ],
+          "kana": "ザ ストラクチャー ハズ ホールド イン マルティプル プレイシズ フラム コンスタント ユーズ アンド ウェア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "holing",
+      "ipa": "/ˈhoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "While holing through this mountain, I discovered a massive cavern system.",
+          "ja": "この山を掘り抜いている間に、巨大な洞窟システムを発見しました。",
+          "ipa": "/waɪl ˈhoʊlɪŋ θruː ðɪs ˈmaʊntn̩ | aɪ dɪˈskʌvɚd ə məˈsɪv ˈkævɚn ˈsɪstəm/",
+          "linking": [
+            "discovered a → /d/ + /ə/ が連結、a は弱形 /ə/",
+            "a massive → /ə/ + /m/ が連結",
+            "holing through → /ŋ/ + /θ/: consonant+consonant、連結なし"
+          ],
+          "kana": "ワイル ホーリング スルー ジス マウンテン、アイ ディスカバード ア マシヴ キャヴァーン システム"
+        },
+        {
+          "en": "We are holing a tunnel to the ocean, but it's taking longer than expected.",
+          "ja": "私たちは海へのトンネルを掘っていますが、予想より時間がかかっています。",
+          "ipa": "/wi ɑːr ˈhoʊlɪŋ ə ˈtʌnəl tu ðə ˈoʊʃən | bət ɪts ˈteɪkɪŋ ˈlɔŋɡɚ ðən ɪkˈspɛktɪd/",
+          "linking": [
+            "holing a → /ŋ/ + /ə/ が連結、a は弱形 /ə/",
+            "than expected → /n/ + /ɪ/ が連結",
+            "taking longer → /ŋ/ + /l/: consonant+consonant、連結なし"
+          ],
+          "kana": "ウィ アー ホーリング ア トゥンネル タ ザ オーシャン、バット イッツ テイキング ロンガー ザン イクスペクティド"
+        }
+      ]
+    }
   ]
 }

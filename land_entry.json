@@ -224,6 +224,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is landing",
+      "ipa": "/ɪz ˈlændɪŋ/",
+      "examples": [
+        {
+          "en": "The player is landing on the roof of their house right now.",
+          "ja": "プレイヤーは今、家の屋根に着地しています。",
+          "ipa": "/ðə ˈpleɪər ɪz ˈlændɪŋ ɑn ðə ruf əv ðɛr haʊs raɪt naʊ/",
+          "kana": "ザ プレイアー イズ ランディング オン ザ ルーフ アヴ ゼア ハウス ライト ナウ",
+          "linking": [
+            "player is: /r/ が /ɪ/ に連結 [ˈpleɪər ɪz] プレイアー イズ",
+            "is landing: is /ɪz/ が landing に連結",
+            "landing on: /ŋ/ が /ɑ/ に続く [ˈlændɪŋ ɑn]",
+            "of their: of /əv/ 弱形が /ð/ に続く [əv ðɛr]"
+          ]
+        },
+        {
+          "en": "We are landing supplies on the beach with an elytra.",
+          "ja": "私たちはエリトラで物資をビーチに着地させています。",
+          "ipa": "/wi ɑr ˈlændɪŋ səˈplaɪz ɑn ðə bitʃ wɪð ən ɪˈlɪtrə/",
+          "kana": "ウィ アー ランディング サプライズ オン ザ ビーチ ウィズ エン イリトラ",
+          "linking": [
+            "are landing: /r/ が /l/ に連結 [ɑr ˈlændɪŋ] アー ランディング",
+            "landing supplies: /ŋ/ が /s/ に続く [ˈlændɪŋ səˈplaɪz]",
+            "with an: /ð/ が /ə/ に連結 [wɪðən]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was landing",
+      "ipa": "/wəz ˈlændɪŋ/",
+      "examples": [
+        {
+          "en": "I was landing on the island when the storm started.",
+          "ja": "嵐が始まったとき、私は島に着地しているところでした。",
+          "ipa": "/aɪ wəz ˈlændɪŋ ɑn ðə ˈaɪlənd wɛn ðə stɔrm ˈstɑrtɪd/",
+          "kana": "アイ ワズ ランディング オン ザ アイランド ウェン ザ ストーム スターティド",
+          "linking": [
+            "was landing: /z/ が /l/ に続く [wəz ˈlændɪŋ] ワズ ランディング",
+            "landing on: /ŋ/ が /ɑ/ に続く [ˈlændɪŋ ɑn]",
+            "the island: the /ðə/ 弱形が island に連結",
+            "when the: /n/ が /ð/ に未開放、the /ðə/ 弱形"
+          ]
+        },
+        {
+          "en": "The dragon was landing on our base when we escaped.",
+          "ja": "私たちが逃げているとき、ドラゴンが基地に着地していました。",
+          "ipa": "/ðə ˈdræɡən wəz ˈlændɪŋ ɑn ˈaʊər beɪs wɛn wi ɪsˈkeɪpt/",
+          "kana": "ザ ドラゴン ワズ ランディング オン アワー ベイス ウェン ウィ エスケイプト",
+          "linking": [
+            "dragon was: /n/ が /w/ に続く [ˈdræɡən wəz]",
+            "was landing: /z/ が /l/ に続く [wəz ˈlændɪŋ] ワズ ランディング",
+            "landing on: /ŋ/ が /ɑ/ に続く [ˈlændɪŋ ɑn]",
+            "when we: /n/ が /w/ に未開放 [wɛn wi]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been landing",
+      "ipa": "/həd bɪn ˈlændɪŋ/",
+      "examples": [
+        {
+          "en": "We had been landing supplies for hours before the raid began.",
+          "ja": "襲撃が始まる前に、私たちは何時間も物資を着地させていました。",
+          "ipa": "/wi həd bɪn ˈlændɪŋ səˈplaɪz fɔr ˈaʊərz bɪˈfɔr ðə reɪd bɪˈɡæn/",
+          "kana": "ウィ ハド ビン ランディング サプライズ フォア アワーズ ビフォア ザ レイド ビガン",
+          "linking": [
+            "had been: /d/ が /b/ に続く [həd bɪn]、had と been は弱形",
+            "been landing: /n/ が /l/ に未開放 [bɪn ˈlændɪŋ]",
+            "landing supplies: /ŋ/ が /s/ に続く [ˈlændɪŋ səˈplaɪz]",
+            "for hours: for は弱形 /fər/ [fər ˈaʊərz] ファ アワーズ"
+          ]
+        },
+        {
+          "en": "The bird had been landing on that branch for a while when the tree fell.",
+          "ja": "木が倒れたとき、その鳥はその枝に何度も着地していました。",
+          "ipa": "/ðə bɝd həd bɪn ˈlændɪŋ ɑn ðæt bræntʃ fər ə waɪl wɛn ðə tri fɛl/",
+          "kana": "ザ バード ハド ビン ランディング オン ザット ブランチ ファ ア ワイル ウェン ザ ツリー フェル",
+          "linking": [
+            "bird had: /d/ が /h/ に未開放 [bɝd̚ həd]、had は弱形",
+            "had been: /d/ が /b/ に続く [həd bɪn]",
+            "been landing: /n/ が /l/ に未開放 [bɪn ˈlændɪŋ]",
+            "landing on: /ŋ/ が /ɑ/ に続く [ˈlændɪŋ ɑn]",
+            "for a: for は弱形 /fər/、a /ə/ に連結 [fər ə] ファ ア"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

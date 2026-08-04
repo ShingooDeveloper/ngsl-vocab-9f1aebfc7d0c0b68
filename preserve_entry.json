@@ -67,5 +67,132 @@
       ],
       "kana": "ウィ プリザーヴド ディス フォレスト フォー フューチャー ジェネレイションズ アヴ プレイヤーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "3人称単数現在形",
+      "text": "preserves",
+      "ipa": "/prɪˈzɝːvz/",
+      "examples": [
+        {
+          "en": "Water preserves wood blocks from burning in the Nether.",
+          "ja": "水はネザーの木ブロックが燃えるのを防ぐ。",
+          "ipa": "/ˈwɔːtɚ prɪˈzɝːvz ˈwʊd blɑːks frəm ˈbɝːnɪŋ ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "water preserves → /r/ + /p/ (子音+子音、連結なし)",
+            "preserves wood → /z/ + /w/ (子音+子音、連結なし)",
+            "from burning → /m/ + /b/ (子音+子音、連結なし)",
+            "in the → /n/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ウォーター プリザーヴズ ウッド ブロックス フラム バーニング イン ザ ネザー"
+        },
+        {
+          "en": "She preserves the ancient ruins as a historical monument.",
+          "ja": "彼女は古代遺跡を歴史的記念碑として保存する。",
+          "ipa": "/ʃi prɪˈzɝːvz ðiː ˈeɪnʃənt ˈruːɪnz‿əz ə hɪˈstɔːrɪkəl ˈmɑːnjumənt/",
+          "linking": [
+            "preserves the → /z/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "ruins as → /z/ + /ə/ が連結、as は弱形 /əz/ [ˈruːɪnz‿əz] ルーインズ アズ",
+            "as a → /z/ + /ə/ が連結 [əz ə] アズ ア"
+          ],
+          "kana": "シー プリザーヴズ ザ エイシェント ルーインズ アズ ア ヒストリカル モニュメント"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "preserved",
+      "ipa": "/prɪˈzɝːvd/",
+      "examples": [
+        {
+          "en": "We preserved the village structure by preventing any modifications to the buildings.",
+          "ja": "私たちは建物への変更を防ぐことで村の構造を保存した。",
+          "ipa": "/wi prɪˈzɝːvd ðə ˈvɪlɪdʒ ˈstrʌktʃɚ baɪ prɪˈvɛntɪŋ ˈɛni ˌmɑːdɪfɪˈkeɪʃənz tu ðə ˈbɪldɪŋz/",
+          "linking": [
+            "preserved the → /d/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "preventing any → /ŋ/ + /ɛ/ が連結 [prɪˈvɛntɪŋ ˈɛni] プリベンティング エニー",
+            "modifications to → /z/ + /t/ (子音+子音、連結なし)、to は弱形 /tu/",
+            "to the → /tu/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ プリザーヴド ザ ビリッジ ストラクチャー バイ プリベンティング エニー モディフィケーションズ トゥ ザ ビルディングス"
+        },
+        {
+          "en": "Players preserved this forest for future generations by banning all mining activities.",
+          "ja": "プレイヤーたちはすべての採掘活動を禁止することで、この森を未来の世代のために保存した。",
+          "ipa": "/ˈpleɪɚz prɪˈzɝːvd ðɪs ˈfɔːrəst fɔr ˈfjuːtʃɚ ˌdʒɛnəˈreɪʃənz baɪ ˈbænɪŋ ɑːl ˈmaɪnɪŋ ækˈtɪvɪtiz/",
+          "linking": [
+            "Players preserved → /z/ + /p/ (子音+子音、連結なし)",
+            "preserved this → /d/ + /ð/ (子音+子音、連結なし)",
+            "for future → /r/ + /f/ (子音+子音、連結なし)、for は弱形 /fɔr/",
+            "banning all → /ŋ/ + /ɑ/ が連結 [ˈbænɪŋ ɑːl] バンニング オール"
+          ],
+          "kana": "プレイヤーズ プリザーヴド ディス フォーレスト フォー フューチャー ジェネレーションズ バイ バンニング オール マイニング アクティビティーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "preserved",
+      "ipa": "/prɪˈzɝːvd/",
+      "examples": [
+        {
+          "en": "The preserved biome remains untouched, showing original landscapes from the world's creation.",
+          "ja": "保存されたバイオームは手つかずのままで、ワールド作成当初の原始的な風景を示している。",
+          "ipa": "/ðə prɪˈzɝːvd ˈbaɪoʊm rɪˈmeɪnz ˌʌnˈtʌtʃt | ˈʃoʊɪŋ əˈrɪdʒənəl ˈlændˌskeɪpz frəm ðə ˈwɝːldz kriˈeɪʃən/",
+          "linking": [
+            "preserved biome → /d/ + /b/ (子音+子音、連結なし)",
+            "remains untouched → /z/ + /ʌ/ が連結、untouched は /ˌʌnˈtʌtʃt/ [rɪˈmeɪnz ˌʌnˈtʌtʃt] リメインズ アンタッチト",
+            "showing original → /ŋ/ + /ə/ が連結、original は弱形 [ˈʃoʊɪŋ əˈrɪdʒənəl] ショウイング オリジナル"
+          ],
+          "kana": "ザ プリザーヴド バイオーム リメインズ アンタッチト、ショウイング オリジナル ランドスケープス フラム ザ ワールズ クリエーション"
+        },
+        {
+          "en": "Having preserved the seed collection, we can restore the forest after regeneration.",
+          "ja": "種の収集を保存することで、再生後に森を復元できます。",
+          "ipa": "/ˈheɪvɪŋ prɪˈzɝːvd ðə ˈsiːd kəˈlɛkʃən | wi kən rɪˈstɔːr ðə ˈfɔːrəst ˈæftɚ ˌridʒənəˈreɪʃən/",
+          "linking": [
+            "Having preserved → /ŋ/ + /p/ (子音+子音、連結なし)",
+            "preserved the → /d/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "collection we → /n/ + /w/ (子音+子音、連結なし)",
+            "can restore → /n/ + /r/ (子音+子音、連結なし)、can は弱形 /kən/"
+          ],
+          "kana": "ハヴィング プリザーヴド ザ シード コレクション、ウィ キャン リストア ザ フォーレスト アフター リジェネレーション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "preserving",
+      "ipa": "/prɪˈzɝːvɪŋ/",
+      "examples": [
+        {
+          "en": "Preserving the ecosystem means preventing player interference with natural biome processes.",
+          "ja": "生態系を保存することは、プレイヤーの干渉を防ぎ、自然なバイオームプロセスを維持することを意味する。",
+          "ipa": "/prɪˈzɝːvɪŋ ðiː ˌɛkoʊˈsɪstəm ˈmiːnz prɪˈvɛntɪŋ ˈpleɪɚ ˌɪntɚˈfɪrəns wɪð ˈnætʃərəl ˈbaɪoʊm ˈproʊˌsɛsɪz/",
+          "linking": [
+            "Preserving の /v/ が次の音節の母音 /ɪ/ に連結 → [vɪŋ]（語末子音が次の母音に連結）",
+            "the ecosystem → /ə/ + /ɛ/ が連結 [ðiː ˌɛkoʊˈsɪstəm] ザ イコウシステム",
+            "preventing player → /ŋ/ + /p/ (子音+子音、連結なし)",
+            "player interference → /r/ + /ɪ/ が連結 [ˈpleɪɚ ˌɪntɚˈfɪrəns] プレイヤー インターフィアレンス"
+          ],
+          "kana": "プリザーヴィング ザ イコシステム ミーンズ プリベンティング プレイヤー インターフィアレンス ウィズ ナチュラル バイオーム プロセシズ"
+        },
+        {
+          "en": "By preserving old structures, we honor the building efforts of previous generations.",
+          "ja": "古い構造を保存することで、以前の世代の建設努力を尊重する。",
+          "ipa": "/baɪ prɪˈzɝːvɪŋ ˈoʊld ˈstrʌktʃɚz | wi ˈɑːnɚ ðə ˈbɪldɪŋ ˈɛfɚts əv ˈpriːviəs ˈdʒɛnəˌreɪʃənz/",
+          "linking": [
+            "preserving old → /ŋ/ + /oʊ/ が連結（preserving の /v/ + /ɪ/ linking を含む）[prɪˈzɝːvɪŋ ˈoʊld] プリザーヴィング オウルド",
+            "honor the → /r/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "of previous → /v/ + /p/ (子音+子音、連結なし)"
+          ],
+          "kana": "バイ プリザーヴィング オウルド ストラクチャーズ、ウィ オナー ザ ビルディング エフォーツ アヴ プリービアス ジェネレーションズ"
+        }
+      ]
+    }
   ]
 }

@@ -70,5 +70,68 @@
       ],
       "kana": "ゲティング スルー ザット マインシャフト パッセッジ ウィズ オール ジョア イクウィップメント イズ ア タイト スクウィーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "tighter",
+      "ipa": "/ˈtaɪtər/",
+      "examples": [
+        {
+          "en": "Make the fence tighter to keep all the animals inside.",
+          "ja": "すべての動物を中に留めるために、柵をもっときつくしてください。",
+          "ipa": "/ˈmeɪk ðə ˈfɛns ˈtaɪtər tə ˈkiːp ɔl ðə ˈænɪməlz ɪnˈsaɪd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（2回出現）",
+            "to は機能詞で弱形 /tə/",
+            "keep all - keep の末尾子音 /p/ が all の初頭母音 /ɔ/ に連結。[ˈkiːp‿ɔl]",
+            "animals inside - animals の末尾子音 /z/ が inside の初頭母音 /ɪ/ に連結。[ˈænɪməlz‿ɪnˈsaɪd]"
+          ],
+          "kana": "メイク ザ フェンス タイター タ キープ オール ザ アニマルズ インサイド"
+        },
+        {
+          "en": "This storage room is tighter now with reinforced walls all around it.",
+          "ja": "この貯蔵室は強化された壁でより密閉されています。",
+          "ipa": "/ðɪs ˈstɔrɪdʒ ˈɹum ɪz ˈtaɪtər ˈnaʊ wɪð ˌriːɪnˈfɔrst ˈwɔlz ɔl əˈɹaʊnd ɪt/",
+          "linking": [
+            "room is - room の末尾子音 /m/ が is の初頭母音 /ɪ/ に連結。[ɹum‿ɪz]",
+            "walls all - walls の末尾子音 /z/ が all の初頭母音 /ɔ/ に連結。[ˈwɔlz‿ɔl]",
+            "all around - all の末尾子音 /l/ が around の初頭母音 /ə/ に連結。[ɔl‿əˈɹaʊnd]"
+          ],
+          "kana": "ディス ストレッジ ルーム イズ タイター ナウ ウィズ リーエンフォースト ウォールズ オール アラウンド イット"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "tightest",
+      "ipa": "/ˈtaɪtɪst/",
+      "examples": [
+        {
+          "en": "The tightest security on this server uses obsidian and pistons together.",
+          "ja": "このサーバーで最も厳重なセキュリティは、黒曜石とピストンを組み合わせて使用します。",
+          "ipa": "/ðə ˈtaɪtɪst sɪˈkjʊrəti ɑn ðɪs ˈsɝːvər ˈjuːzɪz əbˈsɪdiən ænd ˈpɪstənz təˈɡɛðər/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "security on - security の末尾母音 /i/ が on の初頭母音 /ɑ/ に連結。母音+母音で自然な連結",
+            "uses obsidian - uses の末尾子音 /z/ が obsidian の初頭母音 /ə/ に連結。[ˈjuːzɪz‿əbˈsɪdiən]",
+            "obsidian and - obsidian の末尾子音 /n/ が and の初頭母音 /æ/ に連結。[əbˈsɪdiən‿ænd]"
+          ],
+          "kana": "ザ タイティスト セキュリティ オン ディス サーバー ユーズィズ オブシディアン エンド ピストンズ トゥゲザー"
+        },
+        {
+          "en": "She designed the tightest vault ever built on our server.",
+          "ja": "彼女はサーバーで最も厳重な金庫を設計しました。",
+          "ipa": "/ʃi dɪˈzaɪnd ðə ˈtaɪtɪst ˈvɔlt ˈɛvər ˈbɪlt ɑn ˈaʊər ˈsɝːvər/",
+          "linking": [
+            "vault ever - vault の末尾子音 /t/ が ever の初頭母音 /ɛ/ に連結。[ˈvɔlt‿ˈɛvər]",
+            "built on - built の末尾子音 /t/ が on の初頭母音 /ɑ/ に連結。[ˈbɪlt‿ɑn]"
+          ],
+          "kana": "シー ディザインド ザ タイティスト ヴォルト エバー ビルト オン アワー サーバー"
+        }
+      ]
+    }
   ]
 }

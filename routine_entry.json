@@ -42,6 +42,94 @@
       "kana": "チェッキング ザ ファーネス イズ パート アヴ マイ デイリー ルーティン ホェン プレイング サーヴァイヴァル モウド"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "routines",
+      "ipa": "/ruːˈtiːnz/",
+      "examples": [
+        {
+          "en": "My daily mining routines keep me organized in the game.",
+          "ja": "毎日の採掘ルーティンがゲーム内での整理を保つ。",
+          "ipa": "[ˈmaɪ ˈdeɪli ˈmaɪnɪŋ ruːˈtiːnz kiːp mi ɔrɡənˈaɪzd ɪn ðə ˈɡeɪm]",
+          "kana": "マイ デイリ マイニング ルーティーンズ キープ ミア オーガナイズディン ザ ゲイム",
+          "linking": [
+            "「organized」の語末 d が「in」の i に連結 [ˈaɪzd ɪn]",
+            "「the」は機能語で弱形 /ðə/、ə が「game」の g に連結",
+            "全体として音流がスムーズ"
+          ]
+        },
+        {
+          "en": "Setting up mining routines saves time and resources.",
+          "ja": "採掘ルーティンのセットアップは時間とリソースを節約できる。",
+          "ipa": "[ˈsɛtɪŋ ʌp ˈmaɪnɪŋ ruːˈtiːnz ˈseɪvz taɪm ənd ɹɪˈsɔrsəz]",
+          "kana": "セティング アップ マイニング ルーティーンズ セイブズ タイム アンド リソーセス",
+          "linking": [
+            "「time」の e と「and」の弱形 /ənd/ が連結 [taɪm ənd]→「タイマンド」",
+            "「and」の語末 d が「resources」の r に連結 [ənd ɹɪ]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more routine",
+      "ipa": "/mɔr ˈruːtiːn/",
+      "examples": [
+        {
+          "en": "Mining is more routine than exploring for diamonds.",
+          "ja": "採掘はダイヤモンド探索よりも日常的なタスクだ。",
+          "ipa": "[ˈmaɪnɪŋ ɪz mɔr ˈruːtiːn ðæn ɪkˈsplɔrɪŋ fɚ ˈdaɪmənz]",
+          "kana": "マイニング イズ モア ルーティーン ザン イクスプロアリング ファー ダイモンズ",
+          "linking": [
+            "「more」と「routine」で e が r に連結 [mɔr ˈruːtiːn]",
+            "「for」は機能語で弱形 /fɚ/、r が「diamonds」の d に連結"
+          ]
+        },
+        {
+          "en": "Building is more routine work than fighting mobs.",
+          "ja": "建築はモブ討伐よりもルーティン的な作業だ。",
+          "ipa": "[ˈbɪldɪŋ ɪz mɔr ˈruːtiːn wɝk ðæn ˈfaɪtɪŋ mɑbz]",
+          "kana": "ビルディング イズ モア ルーティーン ワーク ザン ファイティング マブズ",
+          "linking": [
+            "「more routine」内での e-r 連結",
+            "「than」は機能語で弱形として発音"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most routine",
+      "ipa": "/moʊst ˈruːtiːn/",
+      "examples": [
+        {
+          "en": "Crafting wooden planks is the most routine task.",
+          "ja": "木の板をクラフトすることが最も日常的なタスクだ。",
+          "ipa": "[ˈkræftɪŋ ˈwʊdən ˈplæŋks ɪz ðə ˈmoʊst ˈruːtiːn tæsk]",
+          "kana": "クラフティング ウッデン プラングクス イズ ザ モウスト ルーティーン タスク",
+          "linking": [
+            "「the」弱形 /ðə/、ə が「most」の m に連結 [ðə ˈmoʊst]→「ザ モウスト」",
+            "「most」の語末 t が「routine」の r に未開放で連結"
+          ]
+        },
+        {
+          "en": "Block placement is the most routine action for new players.",
+          "ja": "ブロック配置は新規プレイヤーにとって最も日常的なアクションだ。",
+          "ipa": "[blɑk ˈpleɪsmənt ɪz ðə ˈmoʊst ˈruːtiːn ˈækʃən fɚ nju ˈpleɪərz]",
+          "kana": "ブラック プレイスメント イズ ザ モウスト ルーティーン アクション ファー ニュー プレイアーズ",
+          "linking": [
+            "「placement」の語末 t が「is」の i に連結",
+            "「the」弱形 /ðə/、ə が「most」の m に連結、most の t が routine に未開放で連結",
+            "「for」弱形 /fɚ/、r が「new」の n に連結 [fɚ nju]→「ファー ニュー」"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "daily routine",

@@ -55,5 +55,35 @@
       ],
       "kana": "アイ ワークアズア ミューズィシャン クリエイティング ソンズ ウィズ レッドストーン オン ザ サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "musicians",
+      "ipa": "/mjuːˈzɪʃənz/",
+      "examples": [
+        {
+          "en": "Musicians collaborate to create incredible orchestras using note blocks in Minecraft.",
+          "ipa": "[mjuːˈzɪʃənz kəˈlæbəreɪt tə kriˈeɪt ɪnˈkrɛdəbəl ˈɔrkɪstrəz ˈjuːzɪŋ noʊt blɑks ɪn ˈmaɪnˌkræft]",
+          "linking": [
+            "to create → to は機能語で弱形 /tə/ に弱化。create の /k/ に続く（子音+子音）",
+            "create incredible → /t/ + /ɪ/ は子音+母音で連結。create の語末子音 /t/ が incredible の初頭母音 /ɪ/ に連結 [t‿ɪ]",
+            "blocks in → blocks の語末子音 /z/ が in の初頭母音 /ɪ/ に連結 [z‿ɪn]"
+          ],
+          "kana": "ミュージシャンズ コラボレイト タ クリエイト インクレディブル オーキストラズ ユージング ノート ブロックス イン マインクラフト"
+        },
+        {
+          "en": "These talented musicians built an elaborate musical structure with intricate redstone automation.",
+          "ipa": "[ðiːz ˈtæləntɪd mjuːˈzɪʃənz bɪlt ən ɪˈlæbərət ˈmjuzɪkəl ˈstrʌktʃər wɪð ɪnˈtrɪkət ˈrɛdˌstoʊn ˌɔːtəˈmeɪʃən]",
+          "linking": [
+            "built an → /t/ + /ə/ は子音+母音で連結。built の語末子音 /t/ が an の初頭母音 /ə/ に連結 [t‿ə]。an は弱形",
+            "an elaborate → an は弱形 /ən/ で /n/ が elaborate の初頭母音 /ɪ/ に連結 [n‿ɪ]",
+            "with intricate → with の語末子音 /ð/ が intricate の初頭母音 /ɪ/ に連結 [ð‿ɪ]"
+          ],
+          "kana": "ディーズ タレンティッド ミュージシャンズ ビルト ア イラボレット ミュージカル ストラクチャー ウィズ イントリケット レッドストーン オートメーション"
+        }
+      ]
+    }
   ]
 }

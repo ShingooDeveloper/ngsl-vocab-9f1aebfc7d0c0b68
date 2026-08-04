@@ -53,5 +53,63 @@
       ],
       "kana": "アドミンズ アー ストリク タバウト リソース ガザリング ロケーションズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "stricter",
+      "ipa": "ˈstrɪktər",
+      "examples": [
+        {
+          "en": "Stricter rules help in the Nether.",
+          "ja": "ネザーではより厳しいルールが役立つ。",
+          "ipa": "ˈstrɪktər ˈrulz ˈhɛlp ɪn ðə ˈnɛðər",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "help の /p/ が未開放で詰まる [ˈhɛlp̚ ɪn]"
+          ],
+          "kana": "ストリクター ルーズ ヘルプ イン ザ ネザー"
+        },
+        {
+          "en": "Survival mode is stricter than Creative mode.",
+          "ja": "サバイバルモードはクリエイティブモードより厳しい。",
+          "ipa": "sɚˈvaɪvəl ˈmoʊd ɪz ˈstrɪktər ðən kriˈeɪtɪv ˈmoʊd",
+          "linking": [
+            "is → 弱形 /əz/",
+            "than → 弱形 /ðən/"
+          ],
+          "kana": "サーヴァイヴァル モード イズ ストリクター ザン クリエイティヴ モード"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "strictest",
+      "ipa": "ˈstrɪktɪst",
+      "examples": [
+        {
+          "en": "The strictest rule is: no griefing.",
+          "ja": "最も厳しいルールはこれだ：グリーフィングは禁止。",
+          "ipa": "ðə ˈstrɪktɪst ˈrul ɪz noʊ ˈɡrifɪŋ",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "is → 弱形 /əz/"
+          ],
+          "kana": "ザ ストリクティスト ルール イズ ノー グリーフィング"
+        },
+        {
+          "en": "Survival is the strictest difficulty mode.",
+          "ja": "サバイバルは最も厳しい難易度モードだ。",
+          "ipa": "sɚˈvaɪvəl ɪz ðə ˈstrɪktɪst ˈdɪfɪkəlti ˈmoʊd",
+          "linking": [
+            "is → 弱形 /əz/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "サーヴァイヴァル イズ ザ ストリクティスト ディフィカルティ モード"
+        }
+      ]
+    }
   ]
 }

@@ -56,5 +56,35 @@
       ],
       "kana": "アイ ラヴ タ プレイギター ワイル エブリワン ビルズ トゥゲザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "guitars",
+      "ipa": "/ɡɪˈtɑrz/",
+      "examples": [
+        {
+          "en": "I collect guitars from all around my Minecraft world.",
+          "ja": "私はマインクラフトの世界中からギターを集めます。",
+          "ipa": "/aɪ kəˈlɛkt ɡɪˈtɑrz frəm ɔl əˈraʊnd maɪ ˈmaɪnˌkræft ˈwɝld/",
+          "linking": [
+            "collect の /t/ が guitars の /ɡ/ に続く。子音+子音で直接連結なし。collect の /t/ はreleased。",
+            "from の語末子音 /m/ が all の初頭母音 /ɔ/ に連結して [ˈfrəmɔl] フラモル"
+          ],
+          "kana": "アイ コレクト ギターズ フラモル アラウンド マイ マインクラフト ワールド"
+        },
+        {
+          "en": "The guitars make beautiful music in our base together.",
+          "ja": "それらのギターは私たちの基地で一緒に美しい音を作ります。",
+          "ipa": "/ðə ɡɪˈtɑrz ˈmeɪk ˈbjuːtəfəl ˈmjuzɪk ɪn ˈaʊɚ ˈbeɪs təˈɡɛðɚ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。guitars に連結して [ðə ɡɪˈtɑrz] ザ ギターズ",
+            "in は前置詞で弱形 /ɪn/。our の初頭母音 /aʊ/ に in の子音 /n/ が連結して [ɪnˈaʊɚ] イナワー"
+          ],
+          "kana": "ザ ギターズ メイク ビューティフル ミュージック イン アワー ベイス トゥゲザー"
+        }
+      ]
+    }
   ]
 }

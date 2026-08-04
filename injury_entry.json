@@ -43,5 +43,35 @@
       "kana": "ヘルス ロス フラミンジャリー カン ビー フェイタル"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "injuries",
+      "ipa": "/ˈɪndʒəriz/",
+      "examples": [
+        {
+          "en": "Serious injuries to players slow down progress.",
+          "ja": "プレイヤーへの深刻なダメージは、進行を遅くします。",
+          "ipa": "/ˈsɪriəs ˈɪndʒəriz tə ˈpleɪərz sloʊ ˈdaʊn ˈprɑɡrɛs/",
+          "linking": [
+            "injuries to - injuries の語末 /z/ が to の弱形 /ə/ に連結 [ˈɪndʒərɪzə] インジャリーザ",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "シリアス インジャリーザ プレイヤーズ スロー ダウン プログレス"
+        },
+        {
+          "en": "Mining injuries often happen to new players.",
+          "ja": "採掘ダメージはしばしば新しいプレイヤーに起こります。",
+          "ipa": "/ˈmaɪnɪŋ ˈɪndʒəriz ˈɔfən ˈhæpən tə ˈnu ˈpleɪərz/",
+          "linking": [
+            "injuries often - injuries の語末 /z/ が often の /ɔ/ に連結 [ˈɪndʒərɪzɔfən] インジャリーゾフン",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "マイニング インジャリーゾフン ハップン タ ニュー プレイヤーズ"
+        }
+      ]
+    }
+  ]
 }

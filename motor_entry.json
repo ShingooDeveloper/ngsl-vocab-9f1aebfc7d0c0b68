@@ -47,6 +47,38 @@
       "kana": "ア モウラー イズ ザ キー タ ビルディング アン オートマティック ファーム システム"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "motors",
+      "ipa": "/ˈmoʊtɚz/",
+      "examples": [
+        {
+          "en": "Connect the motors to your redstone.",
+          "ipa": "[kəˈnɛkt ðə ˈmoʊtɚz tə jɔɚ ˈɹɛdˌstoʊn]",
+          "linking": [
+            "the: 弱形 /ðə/ に弱化",
+            "to: 機能語で弱形 /tə/ に弱化",
+            "your: 末 /r/ rhoticity で持続"
+          ],
+          "kana": "カネクト ザ モウラーズ タ ユアー レッドストーン",
+          "ja": "モーターをあなたのレッドストーンに接続する。"
+        },
+        {
+          "en": "We placed motors in the water system.",
+          "ipa": "[wiː pleɪst ˈmoʊtɚz ɪn ðə ˈwɔːtɚ ˈsɪstəm]",
+          "linking": [
+            "motors in: 語末 /z/ が母音 /ɪ/ に連結 [ˈmoʊtɚzɪn]",
+            "the: 弱形 /ðə/ に弱化",
+            "water: 末 /r/ rhoticity で持続"
+          ],
+          "kana": "ウィー プレイスト モウラーズィン ザ ウォーター システム",
+          "ja": "水のシステムにモーターを配置した。"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "motor control",

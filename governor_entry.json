@@ -47,5 +47,37 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "governors",
+      "ipa": "/ˈɡʌvɚnɚz/",
+      "examples": [
+        {
+          "en": "The governors of the villages protect their borders.",
+          "ja": "村の知事たちは彼らの領域を守ります。",
+          "ipa": "/ðə ˈɡʌvɚnɚz əv ðə ˈvɪlɪdʒɪz prəˈtɛkt ðɛɚ ˈbɔrdɚz/",
+          "kana": "ザ ガバナズ アヴ ザ ビリッジズ プロテクト ゼア ボーダーズ",
+          "linking": [
+            "governors of の連結：governors の語末 /z/ が of の弱形 /əv/ に連結 [ˈɡʌvɚnɚz əv]「ガバナズ アヴ」。",
+            "protect the の未開放と弱形：protect の /t/ が /ð/ の前で未開放 [tɛkt̚]、the は弱形 /ðə/。",
+            "their borders の連結：their の /ɚ/ が borders の /b/ に連結 [ðɛɚ ˈbɔrdɚz]「ゼア ボーダーズ」。"
+          ]
+        },
+        {
+          "en": "Several governors manage the villager merchants.",
+          "ja": "複数の知事が村人商人を管理しています。",
+          "ipa": "/ˈsɛvɹəl ˈɡʌvɚnɚz ˈmænɪdʒ ðə ˈvɪlɪdʒɚ ˈmɚtʃənts/",
+          "kana": "セブラル ガバナズ マニッジ ザ ビリッジア マーチャンツ",
+          "linking": [
+            "governors manage の連結：governors の /z/ が manage の /m/ に連結 [ˈɡʌvɚnɚz ˈmænɪdʒ]「ガバナズ マニッジ」。",
+            "manage the の連結と弱形：manage の /ʒ/ が the の /ð/ に連結し、the は弱形 /ðə/。",
+            "villager merchants の連結：villager の /ɚ/ が merchants の /m/ に連結 [ˈvɪlɪdʒɚ ˈmɚtʃənts]「ビリッジア マーチャンツ」。"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

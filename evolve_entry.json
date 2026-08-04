@@ -1,74 +1,239 @@
-{
+﻿{
   "word": "evolve",
   "pos": "動詞",
   "pos_all": "動詞",
-  "ipa_us": "/ɪˈvɑlv/",
-  "rank": 2532,
-  "level": "B2",
-  "hi": "evolv(?:e[sd]?|ing)?",
+  "ipa_us": "/ɪˈvɑːlv/",
+  "rank": 1851,
+  "level": "B1",
+  "hi": "evolve|evolves|evolved|evolving",
   "meanings": [
-    "【動詞】時間とともに段階的に発展する、進化する（develop gradually or change over time）",
-    "【動詞】複雑さや洗練度が増す（become more complicated, elaborate, or refined）",
-    "【動詞】（戦略・計画などが）発展する、構築される（develop a strategy or plan gradually）",
-    "【動詞】生物が遺伝的に変化する、進化する（change genetically over successive generations）"
+    "【動詞】(時間をかけて) 進化する、発展する、発達する（develop or change gradually over time）",
+    "【動詞】(計画・アイデアなどが) 生まれる、展開する（come into being or develop gradually）"
   ],
   "examples": [
     {
-      "en": "My mining strategy has evolved as I discovered more ores.",
-      "ja": "より多くの鉱石を発見するにつれ、採掘戦略が進化しました。",
-      "ipa": "/maɪ ˈmaɪnɪŋ ˈstrætədʒi hæz ɪˈvɑlvd æz aɪ dɪˈskʌvərd mɔːr ˈɔːrz/",
+      "en": "Species evolve over millions of years in response to environmental changes.",
+      "ja": "種は環境変化への対応として何百万年もかけて進化します。",
+      "ipa": "/ˈspiːʃiz ɪˈvɑːlv ˈoʊvər ˈmɪljənz əv ˈjɪrz ɪn rɪˈspɑːns tu ɪnˌvaɪrənˈmɛntəl ˈtʃeɪndʒɪz/",
       "linking": [
-        "has evolved: has の語末 /z/ が evolved の初頭 /ɪ/ に連結 [hæzɪˈvɑlvd]",
-        "as I: as の語末 /z/ が I の初頭 /aɪ/ に連結 [æzaɪ]",
-        "more ores: more の語末 /r/ が ores の初頭 /ɔ/ に連結 [mɔːrɔːrz]"
+        "over は /ˈoʊvər/。millions に続く /m/ (子音+子音、連結なし)",
+        "of は弱形 /əv/。years と連結 [əv ˈjɪrz] オブ イヤーズ",
+        "in は /ɪn/。response に続く [ɪn rɪˈspɑːns] イン レスポンス",
+        "environmental は /ɪnˌvaɪrənˈmɛntəl/。changes は /ˈtʃeɪndʒɪz/"
       ],
-      "kana": "マイ マイニング ストラテジー ハズ イヴォルヴド エズ アイ ディスカヴァード モア オーズ"
+      "kana": "スピーシーズ イヴォルヴ オーバー ミリオンズ オブ イヤーズ イン レスポンス トゥ エンバイロンメンタル チェンジズ"
     },
     {
-      "en": "The game's building techniques have evolved greatly.",
-      "ja": "そのゲームの建築技術は大きく進化しています。",
-      "ipa": "/ðə ˈɡeɪmz ˈbɪldɪŋ tekˈniːks həv ɪˈvɑlvd ˈɡreɪtli/",
+      "en": "Technology continues to evolve as new innovations emerge every year.",
+      "ja": "テクノロジーは毎年新しいイノベーションが現れるにつれて進化し続けています。",
+      "ipa": "/tɛkˈnɑːlədʒi kənˈtɪnjuːz tu ɪˈvɑːlv æz ˈnu ɪnˌnoʊˈveɪʃənz ɪˈmɝːdʒ ˈɛvri ˈjɪr/",
       "linking": [
-        "The は冠詞で弱形 /ðə/ に弱化",
-        "have evolved: have の語末 /v/ が evolved の初頭 /ɪ/ に連結 [həvɪˈvɑlvd]"
+        "to は弱形 /tə/ で evolve と続く [tə ɪˈvɑːlv] タ イヴォルヴ",
+        "as は /æz/。new に続く [æz ˈnu] アズ ニュー",
+        "innovations の末 /nz/ が emerge に続く (子音+母音、連結する) [ɪnˌnoʊˈveɪʃənz ɪˈmɝːdʒ] イノベーションズ イマージ",
+        "every は [ˈɛvri]。year は [ˈjɪr]"
       ],
-      "kana": "ザ ゲームズ ビルディング テクニークス ハヴ イヴォルヴド グレイトリー"
+      "kana": "テクナロジー コンティニューズ トゥ イヴォルヴ アズ ニュー イノベーションズ イマージ エブリ イヤー"
     },
     {
-      "en": "Your skills evolve when you practice redstone engineering.",
-      "ja": "レッドストーン工学を練習するときにあなたのスキルが進化します。",
-      "ipa": "/jɚ ˈskɪlz ɪˈvɑlv wen ju ˈpræktɪs ˈrɛdˌstoʊn ˌɛndʒɪˈnɪɹɪŋ/",
+      "en": "The strategy evolved from simple ideas into a comprehensive plan.",
+      "ja": "その戦略は単純なアイデアから包括的な計画へと発展しました。",
+      "ipa": "/ðə ˈstrætəˌdʒi ɪˈvɑːlvd ˈfrɑm ˈsɪmpəl aɪˈdiːəz ˈɪntu ə ˌkɑːmprɪˈhɛnsɪv ˈplæn/",
       "linking": [
-        "skills evolve: skills の語末 /z/ が evolve の初頭 /ɪ/ に連結 [skɪlzɪˈvɑlv]",
-        "when you: when の語末 /n/ が未開放になり、you の /j/ が続く"
+        "the は弱形 /ðə/。strategy に連結 [ðə ˈstrætəˌdʒi] ザ ストラテジー",
+        "from は弱形 /frəm/。simple と連結 [ˈfrɑm ˈsɪmpəl] フラム シンプル",
+        "into は /ˈɪntu/。a は弱形 /ə/ で連結 [ˈɪntu ə] イントゥア",
+        "a は弱形 /ə/。comprehensive と連結"
       ],
-      "kana": "ユアー スキルズ イヴォルヴ ウェン ユー プラクティス レッドストーン エンジニアリング"
+      "kana": "ザ ストラテジー イヴォルヴド フラム シンプル アイディーズ イントゥア コンプリヘンシヴ プラン"
     }
   ],
   "idioms": [
     {
       "idiom": "evolve into",
-      "ja": "（時間をかけて）～に進化する、発展する",
-      "example": "A small cabin evolves into a massive base as you gather resources.",
-      "example_ja": "リソースを集めるにつれ、小さなキャビンが巨大な拠点に進化していきます。",
-      "ipa": "/ə ˈsmɔːl ˈkæbɪn ɪˈvɑlvz ɪntə ə ˈmæsɪv ˈbeɪs æz ju ˈɡæðər ˈrɛsɔːrsɪz/",
+      "ja": "～へと発展する、～に進化する",
+      "example": "The small startup evolved into a multinational corporation over the decades.",
+      "example_ja": "その小さなスタートアップは数十年にわたって多国籍企業へと発展しました。",
+      "ipa": "/ðə ˈsmɔːl ˈstɑːrˌtʌp ɪˈvɑːlvd ˈɪntu ə ˌmʌltiˈnæʃənəl ˌkɔːrpəˈreɪʃən ˈoʊvər ðə ˈdɛkeɪdz/",
       "linking": [
-        "cabin evolves: cabin の語末 /n/ が未開放になり、evolves の /ɪ/ が続く",
-        "into a: into と a は機能語で共に弱形 /ɪntə ə/ に弱化"
+        "startup の末 /p/ が evolved に続く (子音+母音、連結) [ˈstɑːrˌtʌp ɪˈvɑːlvd] スタートアップ イヴォルヴド",
+        "evolved into → 語末 /d/ が /ɪ/ に連結 [ɪˈvɑːlvd ˈɪntu] イヴォルヴド イントゥ",
+        "over は /ˈoʊvər/。the は弱形 /ðə/ で連結 [ˈoʊvər ðə] オーバー ザ"
       ],
-      "kana": "ア スモール キャビン イヴォルヴズ インタ ア マッシヴ ベイス エズ ユー ギャザー リソーシーズ"
+      "kana": "ザ スモール スタートアップ イヴォルヴド イントゥ ア マルティナショナル コーポレーション オーバー ザ デケイドズ"
     },
     {
       "idiom": "evolve over time",
-      "ja": "時間とともに進化する、発展する",
-      "example": "Your redstone designs will evolve over time with experimentation.",
-      "example_ja": "実験を通じて、あなたのレッドストーン設計は時間とともに進化するでしょう。",
-      "ipa": "/jɔːr ˈrɛdˌstoʊn dɪˈzaɪnz wɪl ɪˈvɑlv ˈoʊvər ˈtaɪm wɪð ˌɛkspɛrɪˈmɛnteɪʃən/",
+      "ja": "時間とともに進化する",
+      "example": "Our understanding of the universe continues to evolve over time.",
+      "example_ja": "私たちの宇宙の理解は時間とともに進化し続けています。",
+      "ipa": "/ˈaʊər ˌʌndərˈstændɪŋ əv ðə ˈjuːnɪˌvɝːs kənˈtɪnjuːz tu ɪˈvɑːlv ˈoʊvər ˈtaɪm/",
       "linking": [
-        "will evolve: will は機能語で弱形 /wəl/。evolve の初頭 /ɪ/ に連結 [wəlɪˈvɑlv]",
-        "over time: over の語末 /r/ が time の初頭 /t/ に接する。time の /t/ は未開放"
+        "understanding の末 /ŋ/ が of に続く (子音+母音) [ˌʌndərˈstændɪŋ əv] アンダースタンディング オブ",
+        "of は弱形 /əv/。the は弱形 /ðə/ で連結 [əv ðə] オブ ザ",
+        "to は弱形 /tə/ で evolve と連結 [tə ɪˈvɑːlv] タ イヴォルヴ",
+        "over は /ˈoʊvər/。time は /ˈtaɪm/"
       ],
-      "kana": "ユアー レッドストーン ディザインズ ウ イヴォルヴ オーヴァー タイム ウィズ エクスペリメンテイション"
+      "kana": "アワー アンダースタンディング オブ ザ ユニバース コンティニューズ タ イヴォルヴ オーバー タイム"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "The mob gradually evolves into a stronger form as experience builds up.",
+      "ja": "モブは経験が積み重なるにつれて徐々に更に強い形へと進化します。",
+      "ipa": "/ðə ˈmoʊb ˈɡrædʒuəli ɪˈvɑːlv ˈɪntu ə ˈstrɔŋɡər ˈfɔːrm æz ɪkˈspɪriəns ˈbɪldz ˈʌp/",
+      "linking": [
+        "mob の末 /b/ が gradually に続く (子音+母音) [ˈmoʊb ˈɡrædʒuəli] モウブ グラジュアリー",
+        "evolves into → evolve は基本形 [ɪˈvɑːlv]、into は /ˈɪntu/ [ɪˈvɑːlv ˈɪntu] イヴォルヴ イントゥ",
+        "experience の末 /s/ が builds に続く (子音+子音、連結なし) [ɪkˈspɪriəns ˈbɪldz] エクスペリエンス ビルズ"
+      ],
+      "kana": "ザ モウブ グラジュアリー イヴォルヴ イントゥ ア ストロンガー フォーム アズ エクスペリエンス ビルズ アップ"
+    },
+    {
+      "en": "After absorbing the crystals, the armor will evolve into an enchanted version.",
+      "ja": "クリスタルを吸収した後、防具は魔法がかかったバージョンへと進化します。",
+      "ipa": "/ˈæftər əbˈzɔːrbɪŋ ðə ˈkrɪstəlz | ðə ˈɑːrmər wɪl ɪˈvɑːlv ˈɪntu ən ɪnˈtʃæntɪd ˈvɛriənt/",
+      "linking": [
+        "after は /ˈæftər/。absorbing は /əbˈzɔːrbɪŋ/。末 r が続く a に連結 [ˈæftər əbˈzɔːrbɪŋ] アフター アブゾーブィング",
+        "the は弱形 /ðə/。crystals に連結 [ðə ˈkrɪstəlz] ザ クリスタルズ",
+        "will は弱形 /wəl/。evolve と連結 [wɪl ɪˈvɑːlv] ウィル イヴォルヴ",
+        "into は /ˈɪntu/。an は弱形 /ən/ で連結 [ˈɪntu ən] イントゥ エン"
+      ],
+      "kana": "アフター アブゾーブィング ザ クリスタルズ、ザ アーマー ウィル イヴォルヴ イントゥ エン エンチャンティッド ヴェリアント"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "evolves",
+      "ipa": "/ɪˈvɑːlvz/",
+      "kana": "イヴォルヴズ",
+      "examples": [
+        {
+          "en": "Every hostile mob evolves into a dangerous variant once it reaches a certain level.",
+          "ja": "すべてのモンスターは一定のレベルに達するとより危険なバリアントへと進化します。",
+          "ipa": "/ˈɛvri ˈhoʊsˌtaɪl ˈmoʊb ɪˈvɑːlvz ˈɪntu ə ˈdeɪndʒərəs ˈvɛriənt wʌns ɪt ˈritʃɪz ə ˈsɝːtən ˈlɛvəl/",
+          "linking": [
+            "mob evolves → 語末子音 /b/ が母音 /ɪ/ に連結 [ˈmoʊbɪˈvɑːlvz] モウビ イヴォルヴズ",
+            "into a → into は /ˈɪntu/、a は弱形 /ə/ で連結 [ɪnˈtuə] インチュア",
+            "once it → once の末 /s/ が it の母音 /ɪ/ に連結。it の /t/ は未開放 [wʌnsɪt̚] ワンスッ",
+            "reaches a → reaches の末 /z/ が弱形 /ə/ に連結 [ˈritʃɪz ə] リーチズ ア"
+          ],
+          "kana": "エブリ ホースタイル モウビ イヴォルヴズ イントゥア デンジャラス ヴェリアント ワンスッ リーチズ ア サーテン レベル"
+        },
+        {
+          "en": "The system evolves each player's gear based on experience and rare drops.",
+          "ja": "システムは経験とレアドロップに基づいて各プレイヤーの装備を進化させます。",
+          "ipa": "/ðə ˈsɪstəm ɪˈvɑːlvz itʃ ˈpleɪərz ɡɪr ˈbeɪsd ɑn ɪkˈspɪriəns ænd ˈrɛr ˈdrɑːps/",
+          "linking": [
+            "system evolves → 語末子音 /m/ が母音 /ɪ/ に連結 [ˈsɪstəmɪˈvɑːlvz] システム イヴォルヴズ",
+            "evolves each → 語末 /z/ が母音 /i/ に連結 [ɪˈvɑːlvz itʃ] イヴォルヴズ イーチ",
+            "based on → based は /ˈbeɪsd/、on は /ɑn/。語末 /d/ が母音に連結 [ˈbeɪsd ɑn] ベイスド オン",
+            "and rare → and の末 /d/ が rare の語頭の流音に続く [ænd ˈrɛr] アンド レアー"
+          ],
+          "kana": "ザ システム イヴォルヴズ イーチ プレイヤーズ ギア ベイスド オン エクスペリエンス アンド レアー ドロップス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "evolved",
+      "ipa": "/ɪˈvɑːlvd/",
+      "kana": "イヴォルヴド",
+      "examples": [
+        {
+          "en": "The armor evolved into netherite after we treated it with special materials.",
+          "ja": "特別な素材で処理した後、防具はネザライトへと進化しました。",
+          "ipa": "/ðə ˈɑːrmər ɪˈvɑːlvd ˈɪntu ˈnɛðəraɪt ˈæftər wi ˈtritəd ɪt wɪð ˈspɛʃəl məˈtɪriəlz/",
+          "linking": [
+            "armor evolved → 語末 /r/ が母音 /ɪ/ に連結 [ˈɑːrmərɪˈvɑːlvd] アーマー イヴォルヴド",
+            "evolved into → 語末 /d/ が母音 /ɪ/ に連結 [ɪˈvɑːlvd ˈɪntu] イヴォルヴド イントゥ",
+            "after we → after の末 /r/ が we /wi/ に連結 [ˈæftər wi] アフター ウィ",
+            "treated it → treated の末 /d/ が it の母音 /ɪ/ に連結 [ˈtritəd ɪt] トリーテッド イット"
+          ],
+          "kana": "ザ アーマー イヴォルヴド イントゥ ネザライト アフター ウィ トリーテッド イット ウィズ スペシャル マテリアルズ"
+        },
+        {
+          "en": "After the ritual was complete, the guardian evolved into a mythical being.",
+          "ja": "儀式が完了した後、ガーディアンは神話的な存在へと進化しました。",
+          "ipa": "/ˈæftər ðə ˈrɪtʃuəl wəz kəmˈplit | ðə ˈɡɑːrdiən ɪˈvɑːlvd ˈɪntu ə ˈmɪθɪkəl ˈbiːɪŋ/",
+          "linking": [
+            "after the → after の末 /r/ が the の /ð/ に... 子音+子音。the は弱形 /ðə/",
+            "the guardian → the は弱形 /ðə/。guardian に連結 [ðə ˈɡɑːrdiən] ザ ガーディアン",
+            "evolved into → 語末 /d/ が母音 /ɪ/ に連結 [ɪˈvɑːlvd ˈɪntu] イヴォルヴド イントゥ",
+            "a mythical → a は弱形 /ə/。mythical に連結 [ə ˈmɪθɪkəl] ア ミシカル"
+          ],
+          "kana": "アフター ザ リチュアル ワズ コンプリート、ザ ガーディアン イヴォルヴド イントゥ ア ミシカル ビーイング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "evolved",
+      "ipa": "/ɪˈvɑːlvd/",
+      "kana": "イヴォルヴド",
+      "examples": [
+        {
+          "en": "The newly evolved dragon was much stronger than its previous form.",
+          "ja": "新しく進化したドラゴンは以前の形よりもはるかに強かった。",
+          "ipa": "/ðə ˈnuːli ɪˈvɑːlvd ˈdræɡən wəz ˈmʌtʃ ˈstrɔŋɡər ðæn ɪts ˈprivjəs ˈfɔːrm/",
+          "linking": [
+            "newly evolved → 語末 /i/ が evolved の母音 /ɪ/ に続く [ˈnuːli ɪˈvɑːlvd] ニューリー イヴォルヴド",
+            "evolved dragon → 語末 /d/ が dragon の /d/ に... 子音+子音で連結なし",
+            "was much → was は弱形 /wəz/。much は /ˈmʌtʃ/。子音+子音 [wəz ˈmʌtʃ] ワズ マッチ",
+            "than its → than は /ðæn/。its の母音 /ɪ/ に末 /n/ が連結 [ðæn ɪts] ザン イッツ"
+          ],
+          "kana": "ザ ニューリー イヴォルヴド ドラゴン ワズ マッチ ストロンガー ザン イッツ プリビアス フォーム"
+        },
+        {
+          "en": "Having evolved twice, the boss monster is now unbeatable without proper preparation.",
+          "ja": "2度進化したボスモンスターは、適切な準備なしには今や倒せません。",
+          "ipa": "/ˈheɪvɪŋ ɪˈvɑːlvd twaɪs | ðə ˈbɔːs ˈmɑːnstər ɪz ˈnaʊ ˌʌnˈbitəbəl wɪˈðaʊt ˈproʊpər ˌprɛpəˈreɪʃən/",
+          "linking": [
+            "Having evolved → having の末 /ŋ/ が evolved の母音 /ɪ/ に連結 [ˈheɪvɪŋ ɪˈvɑːlvd] ハヴィング イヴォルヴド",
+            "the boss → the は弱形 /ðə/。boss に連結 [ðə ˈbɔːs] ザ ボス",
+            "monster is → monster の末 /r/ が is の母音 /ɪ/ に連結 [ˈmɑːnstər ɪz] モンスター イズ",
+            "is now → is の末 /z/ が now の母音 /n/ に連結 [ɪz ˈnaʊ] イズ ナウ"
+          ],
+          "kana": "ハヴィング イヴォルヴド トゥワイス、ザ ボス モンスター イズ ナウ アンビーテーブル ウィザウト プロパー プレパレイション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "evolving",
+      "ipa": "/ɪˈvɑːlvɪŋ/",
+      "kana": "イヴォルヴィング",
+      "examples": [
+        {
+          "en": "Watch the transformation as the creature is slowly evolving into its true form.",
+          "ja": "生き物がその真の形へと徐々に進化していく様子を見てください。",
+          "ipa": "/ˈwɑːtʃ ðə ˌtrænsfərˈmeɪʃən æz ðə ˈkritʃər ɪz ˈsloʊli ɪˈvɑːlvɪŋ ˈɪntu ɪts ˈtru ˈfɔːrm/",
+          "linking": [
+            "the transformation → the は弱形 /ðə/。transformation に連結 [ðə ˌtrænsfərˈmeɪʃən] ザ トランスフォーメーション",
+            "creature is → creature の末 /r/ が is の母音 /ɪ/ に連結 [ˈkritʃər ɪz] クリーチャー イズ",
+            "slowly evolving → slowly の末 /i/ が evolving の母音 /ɪ/ に続く [ˈsloʊli ɪˈvɑːlvɪŋ] スロウリー イヴォルヴィング",
+            "evolving into → evolving の末 /ŋ/ が into の母音 /ɪ/ に連結 [ɪˈvɑːlvɪŋ ˈɪntu] イヴォルヴィング イントゥ"
+          ],
+          "kana": "ウォッチ ザ トランスフォーメーション、アズ ザ クリーチャー イズ スロウリー イヴォルヴィング イントゥ イッツ トゥルー フォーム"
+        },
+        {
+          "en": "The server keeps evolving, constantly adding new challenges and content for players.",
+          "ja": "サーバーは常に進化し続け、プレイヤーのために新しいチャレンジとコンテンツを追加しています。",
+          "ipa": "/ðə ˈsɝːvər ˈkips ɪˈvɑːlvɪŋ | ˈkɑːnstəntli ˈædɪŋ ˈnu ˈtʃælɪndʒɪz ænd ˈkɑːntɛnt fɔr ˈpleɪərz/",
+          "linking": [
+            "the server → the は弱形 /ðə/。server に連結 [ðə ˈsɝːvər] ザ サーバー",
+            "keeps evolving → keeps の末 /s/ が evolving の母音 /ɪ/ に連結 [ˈkips ɪˈvɑːlvɪŋ] キープス イヴォルヴィング",
+            "constantly adding → constantly の末 /i/ が adding の母音 /ə/ に続く [ˈkɑːnstəntli ˈædɪŋ] コンスタントリー アディング",
+            "challenges and → challenges の末 /z/ が and の母音 /æ/ に連結 [ˈtʃælɪndʒɪz ænd] チャレンジズ アンド"
+          ],
+          "kana": "ザ サーバー キープス イヴォルヴィング、コンスタントリー アディング ニュー チャレンジズ アンド コンテント フォー プレイヤーズ"
+        }
+      ]
     }
   ]
 }

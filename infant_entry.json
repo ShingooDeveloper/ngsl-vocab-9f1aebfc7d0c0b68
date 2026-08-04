@@ -57,5 +57,35 @@
       ],
       "kana": "インファント インダストリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "infants",
+      "ipa": "/ˈɪnfənts/",
+      "examples": [
+        {
+          "en": "Baby animals include calves, lambs, and other infants.",
+          "ja": "赤ちゃん動物には仔牛、仔羊、その他の幼い生物が含まれる。",
+          "ipa": "/ˈbeɪbi ˈænɪməlz ɪnˈklud kælvz læmz ənd ˈʌðər ˈɪnfənts/",
+          "linking": [
+            "and が機能語で弱形 /ən/ に弱化して other /ˈʌðər/ の母音 /ʌ/ に連結 [ən‿ˈʌðər]",
+            "other /ˈʌðər/ の語末 /ɚ/ が infants の母音 /ɪ/ に連結（linking r）[ˈʌðər‿ˈɪnfənts]"
+          ],
+          "kana": "ベイビ アニマルズ インクルード カルブズ ラムズ アン アザー インファンツ"
+        },
+        {
+          "en": "These infants grow into adult creatures after some time.",
+          "ja": "これらの幼い生物はやがて成体生物へと成長する。",
+          "ipa": "/ðiz ˈɪnfənts groʊ ˈɪntə əˈdʌlt ˈkritʃɚz ˈæftər səm taɪm/",
+          "linking": [
+            "These /ðiz/ の語末 /z/ が infants の母音 /ɪ/ に連結 [ðiz‿ˈɪnfənts]",
+            "after /ˈæftər/ の語末 /ɚ/ が some の子音 /s/ に続く（linking r）[ˈæftɚ‿səm]"
+          ],
+          "kana": "ディーズ インファンツ グロー イントゥ アダルト クリーチャーズ アフター サム タイム"
+        }
+      ]
+    }
   ]
 }

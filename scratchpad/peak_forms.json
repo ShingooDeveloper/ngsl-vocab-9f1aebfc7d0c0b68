@@ -1,0 +1,152 @@
+{
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "peaks",
+      "ipa": "/piːks/",
+      "examples": [
+        {
+          "en": "We found three mountain peaks covered with snow biomes near our base.",
+          "ja": "私たちは基地の近くで、雪のバイオームで覆われた3つの山頂を見つけました。",
+          "ipa": "/wiː faʊnd ˈθriː ˈmaʊntən ˈpiːks ˈkʌvərd wɪð ˈsnoʊ baɪˈoʊmz nɪr ˈaʊr ˈbeɪs/",
+          "linking": [
+            "We found → /d/ が three の /θ/（子音+子音、連結なし）",
+            "near our → /r/ が our の /aʊ/（子音+母音、連結） [nɪr‿ˈaʊr] ニア・アワー"
+          ],
+          "kana": "ウィ ファウンド スリー マウンテン ピークス カバード ウィズ スノー バイオームズ ニア アワー ベイス"
+        },
+        {
+          "en": "These mountain peaks are perfect spots for building observation towers.",
+          "ja": "これらの山の頂上は、観察塔を建てるのに完璧な場所です。",
+          "ipa": "/ðiːz ˈmaʊntən ˈpiːks ɑr ˈpɜrfɪkt ˈspɑts fɔr ˈbɪldɪŋ ˌɑbzərˈveɪʃən ˈtaʊərz/",
+          "linking": [
+            "peaks are → /ks/ が /ɑr/（子音+母音、連結） [ˈpiːks‿ɑr] ピークス・アー",
+            "building observation → /ŋ/ が /ə/（子音+母音、連結） [ˈbɪldɪŋ‿ˌɑbzər...] ビルディング・オブザーベイション"
+          ],
+          "kana": "ディーズ マウンテン ピークス アー パーフィクト スポッツ フォー ビルディング オブザーベイション タワーズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "peaks",
+      "ipa": "/piːks/",
+      "examples": [
+        {
+          "en": "The server population peaks during the weekend when most players are online.",
+          "ja": "サーバーの人口は、ほとんどのプレイヤーがオンラインになる週末にピークに達します。",
+          "ipa": "/ðə ˈsɜrvər ˌpɑpjəˈleɪʃən ˈpiːks ˈdjʊrɪŋ ðə ˈwiːkɛnd wɛn ˈmoʊst ˈpleɪərz ɑr ˈɑnˌlaɪn/",
+          "linking": [
+            "population peaks → /n/ が /p/（子音+子音、連結なし）",
+            "peaks during → /ks/ が /d/（子音+子音、連結なし）",
+            "during the → /ŋ/ が /ð/（子音+子音、連結なし）；the は弱形 /ðə/"
+          ],
+          "kana": "ザ サーバー ポピュレイション ピークス ジューリング ザ ウィークエンド ウェン モウスト プレイヤーズ アー オンライン"
+        },
+        {
+          "en": "Monster spawning peaks around midnight in unlit caves deep underground.",
+          "ja": "モブのスポーニングは、地下深くの照明されていない洞窟で、真夜中近くにピークに達します。",
+          "ipa": "/ˈmɑnstər ˈspoʊnɪŋ ˈpiːks əˈraʊnd ˈmɪdˌnaɪt ɪn ʌnˈlɪt ˈkeɪvz ˈdip ʌndərˈɡraʊnd/",
+          "linking": [
+            "spawning peaks → /ŋ/ が /p/（子音+子音、連結なし）",
+            "peaks around → /ks/ が /ə/（子音+母音、連結） [ˈpiːks‿əˈraʊnd] ピークス・アラウンド",
+            "in unlit → /n/ が /ʌ/（子音+母音、連結） [ɪn‿ʌnˈlɪt] イン・アンリット"
+          ],
+          "kana": "モンスター スポーニング ピークス ア ラウンド ミッドナイト イン アンリット ケイブズ ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "peaked",
+      "ipa": "/ˈpiːkt/",
+      "examples": [
+        {
+          "en": "Server stress peaked when fifty players joined the game at the same time.",
+          "ja": "50人のプレイヤーが同時にゲームに参加したとき、サーバーストレスがピークに達しました。",
+          "ipa": "/ˈsɜrvər ˈstrɛs ˈpiːkt wɛn ˈfɪfti ˈpleɪərz dʒɔɪnd ðə ˈɡeɪm æt ðə ˈseɪm ˈtaɪm/",
+          "linking": [
+            "stress peaked → /s/ が /p/（子音+子音、連結なし）",
+            "peaked when → /t/ が /w/（子音+子音、連結なし）",
+            "the same → the は弱形 /ðə/、same の /s/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "サーバー ストレス ピークト ウェン フィフティ プレイヤーズ ジョインド ザ ゲイム アット ザ セイム タイム"
+        },
+        {
+          "en": "Diamond ore mining productivity peaked after we discovered that massive vein.",
+          "ja": "その巨大な鉱脈を発見した後、ダイヤモンド鉱石採掘の生産性がピークに達しました。",
+          "ipa": "/ˈdaɪmənd ˈɔr ˈmaɪnɪŋ prəˈdʌktɪvɪti ˈpiːkt ˈæftər wi dɪˈskʌvərd ðæt ˈmæsɪv ˈveɪn/",
+          "linking": [
+            "ore mining → /r/ が /m/（子音+子音、連結なし）",
+            "mining productivity → /ŋ/ が /p/（子音+子音、連結なし）",
+            "peaked after → /t/ が /ə/（子音+母音、連結） [ˈpiːkt‿ˈæftər] ピークト・アフター"
+          ],
+          "kana": "ダイモンド オア マイニング プロダクティビティ ピークト アフター ウィ ディスカバード ザット マッシブ ベイン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "peaked",
+      "ipa": "/ˈpiːkt/",
+      "examples": [
+        {
+          "en": "Having peaked last week, the server traffic is now stabilizing at normal levels.",
+          "ja": "先週ピークに達したため、サーバートラフィックは現在、正常なレベルで安定しています。",
+          "ipa": "/ˈhævɪŋ ˈpiːkt læst ˈwiːk | ðə ˈsɜrvər ˈtræfɪk ɪz ˈnaʊ ˈsteɪbɪˌlaɪzɪŋ æt ˈnɔrməl ˈlɛvəlz/",
+          "linking": [
+            "Having peaked → /ŋ/ が /p/（子音+子音、連結なし）",
+            "peaked last → /t/ が /l/（子音+子音、連結なし）",
+            "is now → is は弱形 /ɪz/、now の /n/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ハービング ピークト ラースト ウィーク、ザ サーバー トラフィック イズ ナウ ステイビライジング アット ノーマル レベルズ"
+        },
+        {
+          "en": "The server's performance has peaked and definitely needs optimization to handle more players.",
+          "ja": "サーバーのパフォーマンスはピークに達しており、より多くのプレイヤーに対応するには明らかに最適化が必要です。",
+          "ipa": "/ðə ˈsɜrvərz pərˈfɔrməns həz ˈpiːkt ənd ˈdɛfɪnɪtli ˈniːdz ˌɑptɪməˈzeɪʃən tə ˈhændəl ˈmoʊr ˈpleɪərz/",
+          "linking": [
+            "has peaked → /z/ が /p/（子音+子音、連結なし）",
+            "peaked and → /t/ が /ə/（子音+母音、連結） [ˈpiːkt‿ənd] ピークト・エン（and は弱形 /ənd/）",
+            "needs optimization → /z/ が /ə/（子音+母音、連結） [ˈniːdz‿ˌɑptɪ...] ニーズ・オプティ"
+          ],
+          "kana": "ザ サーバーズ パーフォーマンス ハズ ピークト アンド デフィニットリー ニーズ オプティマイゼーション タ ハンドル モア プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "peaking",
+      "ipa": "/ˈpiːkɪŋ/",
+      "examples": [
+        {
+          "en": "With hundreds of players online, server load is peaking right now during the event.",
+          "ja": "数百人のプレイヤーがオンラインなので、イベント中、サーバー負荷が今ピークに達しています。",
+          "ipa": "/wɪð ˈhʌndredz əv ˈpleɪərz ˈɑnˌlaɪn | ˈsɜrvər ˈloʊd ɪz ˈpiːkɪŋ ˈraɪt ˈnaʊ ˈdjʊrɪŋ ðɪ ɪˈvɛnt/",
+          "linking": [
+            "hundreds of → /z/ が /ə/（子音+母音、連結） [ˈhʌndredz‿əv] ハンドレッズ・アヴ（of は弱形 /əv/）",
+            "load is → /d/ が /ɪ/（子音+母音、連結） [ˈloʊd‿ɪz] ロード・イズ",
+            "is peaking → /z/ が /p/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィズ ハンドレッズ アヴ プレイヤーズ オンライン、サーバー ロード イズ ピーキング ライト ナウ ジューリング ジ イベント"
+        },
+        {
+          "en": "Monster activity is peaking in dark caves during the night cycle.",
+          "ja": "昼夜サイクルの夜の間、暗い洞窟でモブの活動がピークに達しています。",
+          "ipa": "/ˈmɑnstər ækˈtɪvɪti ɪz ˈpiːkɪŋ ɪn ˈdɑrk ˈkeɪvz ˈdjʊrɪŋ ðə ˈnaɪt ˈsaɪkəl/",
+          "linking": [
+            "Monster activity → /r/ が /ə/（子音+母音、連結） [ˈmɑnstər‿ækˈtɪvɪti] モンスター・アクティビティ",
+            "is peaking → /z/ が /p/（子音+子音、連結なし）",
+            "peaking in → /ŋ/ が /ɪ/（子音+母音、連結） [ˈpiːkɪŋ‿ɪn] ピーキング・イン"
+          ],
+          "kana": "モンスター アクティビティ イズ ピーキング イン ダーク ケイブズ ジューリング ザ ナイト サイクル"
+        }
+      ]
+    }
+  ]
+}

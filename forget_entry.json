@@ -1,0 +1,303 @@
+{
+  "word": "forget",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/fərˈɡɛt/",
+  "rank": 1159,
+  "level": "A2",
+  "hi": "forget(?:s|ting|got|gotten)?",
+  "meanings": [
+    "【動詞】（何かを）忘れる、思い出せなくなる（fail to remember something）",
+    "【動詞】（することを）忘れる、するのを忘れる（fail to do or remember to do something）",
+    "【動詞】（人や物を）置き忘れる、見落とす（leave something behind or overlook）"
+  ],
+  "examples": [
+    {
+      "en": "Don't forget your pickaxe when you go mining.",
+      "ja": "採掘に行くときは、ツルハシを忘れないでください。",
+      "ipa": "/ˈdoʊnt fərˈɡɛt jɚ ˈpɪkæks wɛn ju ˈɡoʊ ˈmaɪnɪŋ/",
+      "linking": [
+        "Don't は /doʊnt/、forget の f に続く（t+f は自然に連結）",
+        "your は /jɚ/ で弱形に近い",
+        "when は /wɛn/ で明確だが、you の前で自然に流れる"
+      ],
+      "kana": "ドウント フォーゲット ユアー ピックアックス ウェン ユー ゴー マイニング"
+    },
+    {
+      "en": "It's easy to forget where you placed your base if you don't mark it on a map.",
+      "ja": "地図に印をつけなければ、自分のベースをどこに置いたかを忘れるのは簡単です。",
+      "ipa": "/ɪts ˈiːzi tə fərˈɡɛt wɛr ju ˈpleɪst jɚ ˈbeɪs ɪf ju ˈdoʊnt ˈmɑrk ɪt ɑn ə ˈmæp/",
+      "linking": [
+        "It's は /ɪts/ で、easy の初頭に続く（s+i は自然に流れる）",
+        "to は機能語で弱形 /tə/",
+        "forget where → 語末の t が where の w に続く（t+w は明確に分かれる）",
+        "placed your → 語末の d が your の初頭に連結 [pleɪstʃ jɚ] プレイスト ユアー",
+        "if you → 機能語で流れる [ɪf ju]",
+        "on a → [ɑn ə] アン ア"
+      ],
+      "kana": "イッツ イージー タ フォーゲット ウェア ユー プレイスト ユアー ベース イフ ユー ドウント マーク イット アン ア マップ"
+    },
+    {
+      "en": "I forgot to bring water when exploring deep caves.",
+      "ja": "深い洞窟を探索するときに水を持ってくるのを忘れました。",
+      "ipa": "/aɪ fərˈɡɑt tə ˈbɹɪŋ ˈwɔtər wɛn ɪkˈsplɔrɪŋ ˈdip ˈkeɪvz/",
+      "linking": [
+        "forgot to → 語末の t が to の t に続く（t+t は未開放）[ˈɡɑt̚ tə] フォーゴット タ",
+        "to は弱形で /tə/",
+        "bring water → 語末の g が water の w に続く（自然に流れる）",
+        "water の t がフラップ化 [ˈwɔɾər] ワーラー",
+        "exploring の ing が deep の d に続く"
+      ],
+      "kana": "アイ フォーゴット タ ブリング ウォーラー ウェン エクスプロアリング ディープ ケイヴズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "forget about",
+      "ja": "〜のことを忘れる、気にしない",
+      "example": "Forget about the old base, we are building a better one.",
+      "example_ja": "古いベースのことは忘れてください。もっと良いものを建築しています。",
+      "ipa": "/fərˈɡɛt əˈbaʊt ðə ˈoʊld ˈbeɪs | wi ɑr ˈbɪldɪŋ ə ˈbɛtər ˈwʌn/",
+      "linking": [
+        "forget about → 語末の /t/ が about の母音 /ə/ に連結 [fərˈɡɛtəˈbaʊt] フォーゲット ア バウト",
+        "are は弱形で /ɚ/ アー"
+      ],
+      "kana": "フォーゲット ア バウト ザ オウルド ベース、ウィ アー ビルディング ア ベター ワン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "forgets",
+      "ipa": "/fərˈɡɛts/",
+      "examples": [
+        {
+          "en": "He forgets his coordinates every time he explores a new area.",
+          "ja": "彼は新しい地域を探索するたびに、自分の座標を忘れます。",
+          "ipa": "/hi fərˈɡɛts hɪz ˈkoʊˌɔrdənəts ˈɛvri ˈtaɪm hi ɪkˈsplɔrz ə ˈnu ˈɛriə/",
+          "linking": [
+            "He は弱形で /hi/、forgets に続く",
+            "forgets の語末 /z/ が his の /ɪ/ に連結 [fərˈɡɛts hɪz]（自然な流れ）",
+            "every time は自然に流れる /ˈɛvri ˈtaɪm/",
+            "he は弱形で /hi/",
+            "explores の語末 /z/ が a の /ə/ に続く（自然な連結）"
+          ],
+          "kana": "ヒー フォーゲッツ ヒズ コーオーディネイツ エヴリ タイム ヒー エクスプローズ ア ニュー エリア"
+        },
+        {
+          "en": "She always forgets to bring a water bucket for emergencies.",
+          "ja": "彼女はいつも緊急時のための水バケツを持ってくるのを忘れます。",
+          "ipa": "/ʃi ˈɔlweɪz fərˈɡɛts tə ˈbɹɪŋ ə ˈwɔtər ˈbʌkɪt fər ɪˈmɝdʒənsiz/",
+          "linking": [
+            "She は /ʃi/、always に続く（自然な流れ）",
+            "always の語末 /z/ が forgets の /f/ に続く（自然な連結）",
+            "forgets の語末 /z/ が to の /t/ に続く（自然な流れ）",
+            "to は弱形 /tə/",
+            "bring の語末 /ŋ/ が a に続く（鼻音と母音の自然な連結）",
+            "water の /t/ はフラップ化 [ˈwɔɾər]",
+            "for は弱形 /fər/"
+          ],
+          "kana": "シー オールウェイズ フォーゲッツ タ ブリング ア ウォーラー バケット フォー イマージェンシーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "forgot",
+      "ipa": "/fərˈɡɑt/",
+      "examples": [
+        {
+          "en": "I forgot to turn off the furnace when I logged out last night.",
+          "ja": "昨晩ログアウトするときに、炉の火を消すのを忘れました。",
+          "ipa": "/aɪ fərˈɡɑt tə ˈtɝn ɔf ðə ˈfɝneɪs wɛn aɪ ˈlɑɡd ˈaʊt ˈlæst ˈnaɪt/",
+          "linking": [
+            "forgot to → 語末の t が to の t に続く（t+t は未開放）[ˈɡɑt̚ tə] フォーゴット タ",
+            "to は弱形 /tə/",
+            "turn off → 語末の n が off の母音に続く [ˈtɝn ɔf]",
+            "the は /ðə/ ザ",
+            "furnace の ce は s 音",
+            "when は /wɛn/ で、I に続く",
+            "logged out → 語末の d が out の母音に続く [ˈlɑɡd ˈaʊt] ラッガド アウト",
+            "last night は自然に流れる"
+          ],
+          "kana": "アイ フォーゴット タ ターン オフ ザ ファーネイス ウェン アイ ロッグド アウト ラスト ナイト"
+        },
+        {
+          "en": "We forgot where we put our enchanting table in the workshop.",
+          "ja": "ワークショップで、私たちはエンチャントテーブルをどこに置いたかを忘れました。",
+          "ipa": "/wi fərˈɡɑt wɛr wi ˈpʊt ˈaʊər ɪnˈtʃæntɪŋ ˈteɪbəl ɪn ðə ˈwɝkʃɑp/",
+          "linking": [
+            "We は /wi/、forgot の f に続く",
+            "forgot where → 語末の t が where の w に続く（t+w は明確に分かれる）",
+            "where は /wɛr/ で、we に続く（r+w は流れる）[wɛr wi] ウェア ウィ",
+            "put our → 語末の t が our の初頭に連結 [ˈpʊtaʊr] プット アワー",
+            "in the → [ɪn ðə] イン ザ"
+          ],
+          "kana": "ウィ フォーゴット ウェア ウィ プット アワー インチャンティング テイブル イン ザ ワークショップ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "forgotten",
+      "ipa": "/fərˈɡɑtən/",
+      "examples": [
+        {
+          "en": "I have forgotten the password to my old base and can't access it anymore.",
+          "ja": "古いベースのパスワードを忘れてしまい、もうアクセスできません。",
+          "ipa": "/aɪ hæv fərˈɡɑtən ðə ˈpæsˌwɝd tə maɪ ˈoʊld ˈbeɪs | ənd ˈkænt ˈækˌsɛs ɪt ˈænɪˌmoːr/",
+          "linking": [
+            "have は弱形で [hæv]、forgotten に続く [hæv fərˈɡɑtən] ハヴ フォーゴッテン",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ",
+            "old は /oʊld/、base の b に続く（d+b は滑らかに）",
+            "and は弱形で /ənd/ または /ən/ アン",
+            "can't の t は未開放で access の a に続く [ˈkænt̚ ˈækˌsɛs] キャント アクセス",
+            "anymore は [ˈænɪˌmoːr] またはアニモア"
+          ],
+          "kana": "アイ ハヴ フォーゴッテン ザ パスワード タ マイ オウルド ベース、アン キャント アクセス イット エニモア"
+        },
+        {
+          "en": "The old redstone mechanism has been forgotten and nobody remembers how it worked.",
+          "ja": "古いレッドストーン機構は忘れられており、誰もそれがどのように機能したかを覚えていません。",
+          "ipa": "/ðə ˈoʊld ˈrɛdˌstoʊn ˈmɛkənɪzəm hæz bɪn fərˈɡɑtən | ənd ˈnoʊˌbɑdi rɪˈmɛmbərz haʊ ɪt ˈwɝkt/",
+          "linking": [
+            "The は /ðə/ ザ",
+            "been は /bɪn/ で forgotten に続く [bɪn fərˈɡɑtən] ビン フォーゴッテン",
+            "forgotten の n が and に続く",
+            "and は弱形で /ənd/ またはン",
+            "nobody は /ˈnoʊˌbɑdi/ で自然に流れる",
+            "how は /haʊ/ で、it の i に続く（w+i は連結）[haʊ ɪt] ハウ イット"
+          ],
+          "kana": "ザ オウルド レッドストーン メカニズム ハズ ビン フォーゴッテン、アン ノーバディ リメンバーズ ハウ イット ワーキット"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "forgetting",
+      "ipa": "/fərˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "Forgetting to place torches while mining is a mistake that gets you lost.",
+          "ja": "採掘中に松明を置くのを忘れるのは、迷子になってしまう間違いです。",
+          "ipa": "/fərˈɡɛtɪŋ tə ˈpleɪs ˈtɔrtʃɪz ˈwaɪl ˈmaɪnɪŋ | ɪz ə mɪsˈteɪk ðət ɡɛtʃ ju ˈlɑst/",
+          "linking": [
+            "Forgetting は /fərˈɡɛtɪŋ/ で、to に続く（語末の /ŋ/ が自然に流れる）",
+            "to は弱形 /tə/",
+            "torches の es は z 音化 [ˈtɔrtʃɪz]",
+            "while は /waɪl/ で mining に続く（自然な流れ）",
+            "mining は /ˈmaɪnɪŋ/ で、is の /ɪz/ に続く（弱形で流れる）",
+            "gets は /ɡɛts/ で、you の /j/ に続く（/z/ + /j/ → [tʃ] 同化）[ɡɛtʃ]"
+          ],
+          "kana": "フォーゲッティング タ プレイス トーチーズ ワイル マイニング、イズ ア ミステイク ザット ゲッチュー ロスト"
+        },
+        {
+          "en": "I'm forgetting my spawn point coordinates, and that could be a real problem.",
+          "ja": "スポーンポイントの座標を忘れていて、それは本当の問題になる可能性があります。",
+          "ipa": "/aɪm fərˈɡɛtɪŋ maɪ ˈspoːn ˈpɔɪnt ˈkoʊˌɔrdənəts | ənd ðæt ˈkʊd bi ə ˈɹiːəl ˈprɑbləm/",
+          "linking": [
+            "I'm は /aɪm/ で、forgetting に続く（両唇から唇歯への自然な流れ）",
+            "forgetting の語末 /ŋ/ が my に続く（鼻音と母音の自然な連結）",
+            "point は /pɔɪnt/ で、coordinates に続く（t+k は明確に分かれる）",
+            "could は弱形で /kʊd/ クド"
+          ],
+          "kana": "アイム フォーゲッティング マイ スポーン ポイント コーオーディネイツ、アン ザット クド ビー ア リーアル プロブレム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is forgetting",
+      "ipa": "/ɪz fərˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm forgetting where I stored my most valuable diamonds.",
+          "ja": "私は最も貴重なダイヤモンドをどこに保存したかを忘れかけています。",
+          "ipa": "/aɪm fərˈɡɛtɪŋ wɛr aɪ ˈstɔrd maɪ ˈmoʊst ˈvæljəbəl ˈdaɪməndz/",
+          "linking": [
+            "where I → 語末の /r/ が I の母音 /aɪ/ に連結 [wɛraɪ] ウェアイ",
+            "stored の /d/ が my に自然に流れる"
+          ],
+          "kana": "アイム フォーゲッティング ウェアイ ストアード マイ モウスト ヴァルージュアブル ダイモンズ"
+        },
+        {
+          "en": "She is forgetting the way back to the village after getting lost in the caves.",
+          "ja": "彼女は洞窟で迷った後、村に戻る道をどんどん忘れています。",
+          "ipa": "/ʃi ɪz fərˈɡɛtɪŋ ðə ˈweɪ ˈbæk tə ðə ˈvɪlɪdʒ ˈæftər ˈɡɛtɪŋ ˈlɑst ɪn ðə ˈkeɪvz/",
+          "linking": [
+            "is は弱形 /ɪz/、forgetting に続く（自然な流れ）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ フォーゲッティング ザ ウェイ バック タ ザ ヴィリッジ、アフター ゲッティング ロスト イン ザ ケイヴズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was forgetting",
+      "ipa": "/wəz fərˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I was forgetting about my armor when the creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れたとき、私はアーマーのことを忘れかけていました。",
+          "ipa": "/aɪ wəz fərˈɡɛtɪŋ əˈbaʊt maɪ ˈɑrmər wɛn ðə ˈkɹiːpər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/、forgetting に続く（自然な流れ）",
+            "forgetting の語末 /ŋ/ が about の /ə/ に続く（鼻音と母音の自然な連結）"
+          ],
+          "kana": "アイ ワズ フォーゲッティング ア バウト マイ アーマー、ウェン ザ クリーパー サッデンリー ア ピアード"
+        },
+        {
+          "en": "We were forgetting to bring water bottles when the Nether portal closed.",
+          "ja": "ネザーゲートが閉じたとき、私たちは水のボトルを持ってくるのを忘れていました。",
+          "ipa": "/wi wər fərˈɡɛtɪŋ tə ˈbɹɪŋ ˈwɔtər ˈbɑtəlz wɛn ðə ˈnɛðər ˈpoʊrtəl ˈkloʊzd/",
+          "linking": [
+            "were は弱形 /wər/、forgetting に続く（自然な流れ）",
+            "forgetting の語末 /ŋ/ が to に続く（鼻音と歯茎破裂音の自然な連結）",
+            "to は弱形 /tə/",
+            "water の /t/ がフラップ化 [ˈwɔɾər] ウォーラー"
+          ],
+          "kana": "ウィ ワー フォーゲッティング タ ブリング ウォーラー ボットルズ、ウェン ザ ネザー ポーラル クロウズド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been forgetting",
+      "ipa": "/hæd bɪn fərˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been forgetting to refill the water dispensers for days.",
+          "ja": "私たちは何日も水のディスペンサーを補充するのを忘れていました。",
+          "ipa": "/wi hæd bɪn fərˈɡɛtɪŋ tə rɪˈfɪl ðə ˈwɔtər dɪˈspɛnsərz fər ˈdeɪz/",
+          "linking": [
+            "had は弱形 /hæd/、been に続く（/d/ + /b/ は自然に連結）",
+            "been は弱形 /bɪn/、forgetting に続く（自然な流れ）",
+            "forgetting の語末 /ŋ/ が to に続く（自然な連結）",
+            "water の /t/ がフラップ化 [ˈwɔɾər] ウォーラー"
+          ],
+          "kana": "ウィ ハド ビン フォーゲッティング タ リフィル ザ ウォーラー ディスペンサーズ ファー デイズ"
+        },
+        {
+          "en": "You had been forgetting about the hidden treasure in the old castle.",
+          "ja": "あなたは古い城の隠れた宝のことを長い間忘れていました。",
+          "ipa": "/ju hæd bɪn fərˈɡɛtɪŋ əˈbaʊt ðə ˈhɪdən ˈtɹɛʒər ɪn ðə ˈoʊld ˈkæsəl/",
+          "linking": [
+            "had は弱形 /hæd/、been に続く（/d/ + /b/ は自然に連結）",
+            "been は弱形 /bɪn/、forgetting に続く（自然な流れ）",
+            "forgetting の語末 /ŋ/ が about の /ə/ に続く（鼻音と母音の自然な連結）"
+          ],
+          "kana": "ユー ハド ビン フォーゲッティング ア バウト ザ ヒデン トレジャー イン ザ オウルド キャッセル"
+        }
+      ]
+    }
+  ]
+}

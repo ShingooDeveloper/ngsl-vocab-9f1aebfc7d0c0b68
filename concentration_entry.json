@@ -43,6 +43,39 @@
       "kana": "マイ カンセントレーション イズ ブロウケン ウェン アイ ヒア ア クリーパー ヒッシング"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "concentrations",
+      "ipa": "/ˌkɑnˈsentrəʃənz/",
+      "examples": [
+        {
+          "en": "Ore concentrations vary at different depths in the mine.",
+          "ja": "鉱石の濃度は鉱山の異なる深さで異なります。",
+          "ipa": "/ˈɔɚ ˌkɑnˈsentrəʃənz ˈvɛri æt ˈdɪfərənt ˈdɛpθs ɪn ðə ˈmaɪn/",
+          "linking": [
+            "Ore concentrations vary at different depths in the mine.",
+            "depths の末尾子音 /s/ が in の初頭母音 /ɪ/ に連結: [ˈdɛpθsɪn] デプシン",
+            "in の末尾子音 /n/ が the の初頭母音 /ð/ に連結: [ɪn ðə] イン ザ"
+          ],
+          "kana": "オアー コンセントレーションズ ベアリー アット ディファレント デプシン ザ マイン"
+        },
+        {
+          "en": "We track concentrations of rare minerals throughout our world.",
+          "ja": "私たちは世界中の希少鉱物の濃度を追跡しています。",
+          "ipa": "/wi ˈtræk ˌkɑnˈsentrəʃənz əv ˈrɛɹ ˈmɪnərəlz θɹuːˈaʊt ˈaʊɚ ˈwɝld/",
+          "linking": [
+            "We track concentrations of rare minerals throughout our world.",
+            "track の末尾子音 /k/ と concentrations の初頭子音 /k/ が同じため、未開放で1つの /k/ に聞こえる: [ˈtræk̚ ˌkɑnˈsentrəʃənz] トラック コンセントレーション",
+            "concentrations の末尾子音 /z/ が of の初頭母音 /ə/ に連結: [ˌkɑnˈsentrəʃənz əv] コンセントレーション アヴ",
+            "throughout の末尾子音 /t/ が our の初頭母音 /ˈaʊ/ に連結: [θɹuːˈaʊt ˈaʊɚ] スルーアウター アワー"
+          ],
+          "kana": "ウィ トラック コンセントレーション アヴ レアー ミナラルズ スルーアウター アワー ワールド"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "lose concentration",

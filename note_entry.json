@@ -229,6 +229,94 @@
           "kana": "ヒーズ ノーティング ウィッチ モブズ スポウン イン イーチ バイオーム フォア ヒズ ガイド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is noting",
+      "ipa": "/ɪz ˈnoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm noting where I found ore.",
+          "ja": "鉱石を見つけた場所に注目しています。",
+          "ipa": "/aɪm ˈnoʊtɪŋ wɛɹ aɪ faʊnd ɔɹ/",
+          "linking": [
+            "found の末尾子音 /d/ が ore の初頭母音 /ɔ/ に連結。[faʊndɔɹ] ファウンドオア"
+          ],
+          "kana": "アイム ノーティング ウェア アイ ファウンドオア"
+        },
+        {
+          "en": "Steve is noting the redstone circuit.",
+          "ja": "スティーヴはレッドストーン回路に注目しています。",
+          "ipa": "/stiːv ɪz ˈnoʊtɪŋ ðə ˈrɛdstoʊn ˈsɝkət/",
+          "linking": [
+            "Steve の末尾子音 /v/ が is の初頭母音 /ɪ/ に連結。[stiːvɪz] スティーヴィズ",
+            "is は弱形 /ɪz/。[ɪz] イズ",
+            "the は弱形 /ðə/。[ðə] ザ"
+          ],
+          "kana": "スティーヴィズ ノーティング ザ レッドストーン サーキット"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was noting",
+      "ipa": "/wəz ˈnoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I was noting the location when a creeper appeared.",
+          "ja": "クリーパーが現れたときに、位置に注目していました。",
+          "ipa": "/aɪ wəz ˈnoʊtɪŋ ðə loʊˈkeɪʃən wɛn ə ˈkɹiːpɚ əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/。[wəz] ワズ",
+            "the は弱形 /ðə/。[ðə] ザ",
+            "when の末尾子音 /n/ が a の初頭母音 /ə/ に連結。[wɛnə] ウェナ"
+          ],
+          "kana": "アイ ワズ ノーティング ザ ロウケイション ウェナ クリーパー ア ピアド"
+        },
+        {
+          "en": "He was noting the coordinates in his journal.",
+          "ja": "彼は日記に座標を記録していました。",
+          "ipa": "/hi wəz ˈnoʊtɪŋ ðə ˌkoʊˈɔrdɪneɪts ɪn hɪz ˈdʒɝnəl/",
+          "linking": [
+            "was は弱形 /wəz/。[wəz] ワズ",
+            "the は弱形 /ðə/。[ðə] ザ",
+            "in は弱形 /ɪn/。[ɪn] イン"
+          ],
+          "kana": "ヒー ワズ ノーティング ザ コーディネイツ イン ヒズ ジャーナル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been noting",
+      "ipa": "/həd bɪn ˈnoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been noting the patterns before I left the world.",
+          "ja": "ワールドを出る前に、パターンを記録していました。",
+          "ipa": "/aɪ həd bɪn ˈnoʊtɪŋ ðə ˈpætərnz bɪˈfɔr aɪ lɛft ðə wɝld/",
+          "linking": [
+            "had は弱形 /həd/。[həd] ハド",
+            "been は弱形 /bɪn/。[bɪn] ビン",
+            "the は弱形 /ðə/。[ðə] ザ"
+          ],
+          "kana": "アイ ハド ビン ノーティング ザ パターンズ ビ フォア アイ レフト ザ ワールド"
+        },
+        {
+          "en": "She had been noting the mob spawning patterns when the server updated.",
+          "ja": "サーバーが更新されたときに、彼女はモブスポーンパターンを記録していました。",
+          "ipa": "/ʃi həd bɪn ˈnoʊtɪŋ ðə mɑb ˈspɔnɪŋ ˈpætərnz wɛn ðə ˈsɝvər ˈʌpˌdeɪtɪd/",
+          "linking": [
+            "had は弱形 /həd/。[həd] ハド",
+            "been は弱形 /bɪn/。[bɪn] ビン",
+            "the は弱形 /ðə/。[ðə] ザ（2回目）"
+          ],
+          "kana": "シー ハド ビン ノーティング ザ モブ スポーニング パターンズ ウェン ザ サーバー アップデイティッド"
+        }
+      ]
     }
   ]
 }

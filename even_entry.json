@@ -69,6 +69,90 @@
   ],
   "forms": [
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is evening",
+      "ipa": "/ɪz ˈiːvənɪŋ/",
+      "examples": [
+        {
+          "en": "I'm evening out the mountain to create a safe base area.",
+          "ja": "安全なベースエリアを作成するために山を平坦にしています。",
+          "ipa": "/aɪm ˈiːvənɪŋ aʊt ðə ˈmaʊntən tə kriˈeɪt ə ˈseɪf ˈbeɪs ˈɛriə/",
+          "linking": [
+            "I'm の末尾子音 /m/ が evening の初頭母音 /iː/ に連結 [aɪm ˈiːvənɪŋ]「アイム イーヴニング」",
+            "to は機能語で弱形 /tə/、a は冠詞で弱形 /ə/。"
+          ],
+          "kana": "アイム イーヴニング アウト ザ マウンテン タ クリエイト ア セイフ ベイス エリア"
+        },
+        {
+          "en": "The builder is evening the platform foundation so it's perfectly level.",
+          "ja": "ビルダーはプラットフォーム基礎を平坦にしているので完全に水平です。",
+          "ipa": "/ðə ˈbɪldər ɪz ˈiːvənɪŋ ðə ˈplætfɔrm faʊnˈdeɪʃən soʊ ɪts ˈpɜrfɪktli ˈlɛvəl/",
+          "linking": [
+            "builder の末尾子音 /r/ が is の初頭母音 /ɪ/ に連結 [ˈbɪldər ɪz]「ビルダー イズ」",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ザ ビルダー イズ イーヴニング ザ プラットフォーム ファウンデーション ソー イッツ パーフィクトリー レベル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was evening",
+      "ipa": "/wəz ˈiːvənɪŋ/",
+      "examples": [
+        {
+          "en": "I was evening the cave floor when the creeper explosion blocked my path.",
+          "ja": "クリーパーの爆発が私の道を塞いだとき、私は洞窟の床を平坦にしていました。",
+          "ipa": "/aɪ wəz ˈiːvənɪŋ ðə ˈkeɪv ˈflɔr wɛn ðə ˈkriːpər ɪkˈsploʊʒən blɑk maɪ ˈpæθ/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/。",
+            "the は冠詞で弱形 /ðə/、when は機能語で弱形 /wən/。"
+          ],
+          "kana": "アイ ワズ イーヴニング ザ ケイヴ フロアー ウェン ザ クリーパー イクスプロージョン ブロック マイ パス"
+        },
+        {
+          "en": "They were evening out the hillside for the construction project.",
+          "ja": "彼らは建設プロジェクト用に丘の側面を平坦にしていました。",
+          "ipa": "/ðeɪ wər ˈiːvənɪŋ aʊt ðə ˈhɪlˌsaɪd fɔr ðə kənˈstrʌkʃən ˈprɑdʒɪkt/",
+          "linking": [
+            "were は助動詞で弱形 /wər/。",
+            "the は冠詞で弱形 /ðə/、for は機能語で弱形 /fər/。"
+          ],
+          "kana": "ザイ ワー イーヴニング アウト ザ ヒルサイド ファー ザ コンストラクション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been evening",
+      "ipa": "/həd bɪn ˈiːvənɪŋ/",
+      "examples": [
+        {
+          "en": "By the time night fell, I had been evening the terrain for over an hour.",
+          "ja": "夜が明ける頃には、私は1時間以上地形を平坦にしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈnaɪt ˈfɛl aɪ həd bɪn ˈiːvənɪŋ ðə təˈreɪn fɔr ˈoʊvər ən ˈaʊər/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、been は助動詞で弱形 /bɪn/。",
+            "the は冠詞で弱形 /ðə/、for は機能語で弱形 /fər/、an は冠詞で弱形 /ən/。"
+          ],
+          "kana": "バイ ザ タイム ナイト フェル アイ ハド ビン イーヴニング ザ テレイン ファー オーヴァー アン アワー"
+        },
+        {
+          "en": "She had been evening out the desert for the build when the sandstorm started.",
+          "ja": "砂嵐が始まったとき、彼女は建築用に砂漠を平坦にしていました。",
+          "ipa": "/ʃi həd bɪn ˈiːvənɪŋ aʊt ðə ˈdɛzərt fɔr ðə ˈbɪld wɛn ðə ˈsændˌstɔrm ˈstɑrtəd/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、been は助動詞で弱形 /bɪn/。",
+            "the は冠詞で弱形 /ðə/、for は機能語で弱形 /fər/。"
+          ],
+          "kana": "シー ハド ビン イーヴニング アウト ザ デザート ファー ザ ビルド ウェン ザ サンドストーム スターティド"
+        }
+      ]
+    },
+    {
       "type": "comparative",
       "label": "比較級",
       "text": "more even",
@@ -105,22 +189,22 @@
         {
           "en": "This is the most even area for building the base.",
           "ja": "これがベース建築に最適な最も平坦なエリアです。",
-          "ipa": "/ðɪs ɪz ðə ˈmoʊst ˈiːvən ˈɛriə fɔr ˈbɪldɪŋ ðə ˈbeɪs/",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊs ˈiːvən ˈɛriə fɔr ˈbɪldɪŋ ðə ˈbeɪs/",
           "linking": [
             "the は冠詞で弱形 /ðə/。",
-            "most の末尾子音 /t/ が even の初頭母音 /iː/ に連結 [ˈmoʊst ˈiːvən]「モースティーヴァン」"
+            "most の末尾 /t/ は脱落し [ˈmoʊs ˈiːvən]「モース イーヴァン」"
           ],
-          "kana": "ディス イズ ザ モースティーヴァン エリア ファー ビルディング ザ ベイス"
+          "kana": "ディス イズ ザ モース イーヴァン エリア ファー ビルディング ザ ベイス"
         },
         {
           "en": "The most even platform is perfect for the structure.",
           "ja": "最も平坦なプラットフォームは構造に最適です。",
-          "ipa": "/ðə ˈmoʊst ˈiːvən ˈplætfɔrm ɪz ˈpɜrfɪkt fɔr ðə ˈstrʌkʃər/",
+          "ipa": "/ðə ˈmoʊs ˈiːvən ˈplætfɔrm ɪz ˈpɜrfɪkt fɔr ðə ˈstrʌkʃər/",
           "linking": [
             "the は冠詞で弱形 /ðə/。",
-            "most の末尾子音 /t/ が even の初頭母音 /iː/ に連結 [ˈmoʊst ˈiːvən]「モースティーヴァン」"
+            "most の末尾 /t/ は脱落し [ˈmoʊs ˈiːvən]「モース イーヴァン」"
           ],
-          "kana": "ザ モースティーヴァン プラットフォーム イズ パーフィクト ファー ザ ストラクチャー"
+          "kana": "ザ モース イーヴァン プラットフォーム イズ パーフィクト ファー ザ ストラクチャー"
         }
       ]
     },
@@ -133,13 +217,13 @@
         {
           "en": "Water gradually evens out the terrain over time.",
           "ja": "水は時間とともに地形を徐々に均等にします。",
-          "ipa": "/ˈwɔtər ˈɡrædʒuəli ˈiːvənz aʊt ðə təˈreɪn ˈoʊvər ˈtaɪm/",
+          "ipa": "/ˈwɔɾə ˈɡrædʒuəli ˈiːvənz aʊt ðə təˈreɪn ˈoʊvər ˈtaɪm/",
           "linking": [
-            "water の末尾フラップ /ɾ/ が gradually の初頭母音 /ɡ/ に...いや、別単語。water のみ [ˈwɔɾə]「ウォーラー」。",
+            "water は母音+t+母音 でフラップT /ɾ/ となる [ˈwɔɾə]「ウォーラー」。",
             "evens の末尾子音 /z/ が out の初頭母音 /aʊ/ に連結 [ˈiːvənz aʊt]「イーヴァンズ アウト」",
             "the は冠詞で弱形 /ðə/。"
           ],
-          "kana": "ウォーター グラジュアリー イーヴァンズ アウト ザ テレイン オーヴァー タイム"
+          "kana": "ウォーラー グラジュアリー イーヴァンズ アウト ザ テレイン オーヴァー タイム"
         },
         {
           "en": "The redstone system evens the power distribution.",
@@ -164,7 +248,6 @@
           "ja": "建築プラットフォーム用に地形を平坦にしました。",
           "ipa": "/aɪ ˈiːvənd ðə təˈreɪn fɔr ðə ˈbɪldɪŋ ˈplætfɔrm/",
           "linking": [
-            "evened の末尾子音 /d/ が the の初頭 /ð/...いや、the は別単語で弱形 /ðə/。",
             "the は冠詞で弱形 /ðə/。",
             "for は機能語で弱形 /fɔr/。"
           ],

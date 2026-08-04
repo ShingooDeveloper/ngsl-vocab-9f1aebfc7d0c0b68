@@ -59,5 +59,66 @@
       ],
       "kana": "ユー ニーダ ワイズ アップ ザット クリーパー イズ アバウタ エクスプロード ビサイド ユー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "wiser",
+      "ipa": "/ˈwaɪzər/",
+      "examples": [
+        {
+          "en": "It's wiser to prepare a base than explore the caves.",
+          "ja": "洞窟を探索するより基地を準備する方が賢明です。",
+          "ipa": "/ɪts ˈwaɪzər tə priˈper‿ə ˈbeɪs ðæn ɪkˈsplɔɹ ðə keɪvz/",
+          "linking": [
+            "prepare a → 語末子音 /r/ が母音 /ə/ に連結 [priˈperə] プリペア",
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "イッツ ワイザー タ プリペア ベース ザン エクスプロア ザ ケイヴズ"
+        },
+        {
+          "en": "Wearing armor is wiser than fighting without protection.",
+          "ja": "保護なしで戦うより防具を着用する方が賢明です。",
+          "ipa": "/ˈwɛrɪŋ ˈɑɹmɚ‿ɪz ˈwaɪzər ðæn ˈfaɪtɪŋ wɪðˈaʊt prəˈtɛkʃən/",
+          "linking": [
+            "armor is → 語末 /ɚ/ (r-colored schwa) が母音 /ɪ/ に連結 [ˈɑɹmɚɪz] アーマーイズ",
+            "than は連結なし（consonant+consonant）"
+          ],
+          "kana": "ウェアリング アーマーイズ ワイザー ザン ファイティング ウィザウト プロテクション"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "wisest",
+      "ipa": "/ˈwaɪzəst/",
+      "examples": [
+        {
+          "en": "The wisest move is to keep a water bucket handy in the Nether.",
+          "ja": "ネザーで水バケツを手元に保つことが最も賢明な決定です。",
+          "ipa": "/ðə ˈwaɪzəst muːv ɪz tə kiːp‿ə ˈwɔːtɚ ˈbʌkɪt ˈhændi ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "keep a → 語末子音 /p/ が母音 /ə/ に連結 [kiːpə] キープア",
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/（2回出現）"
+          ],
+          "kana": "ザ ワイジェスト ムーブ イズ タ キープア ウォーター バケット ハンディ イン ザ ネザー"
+        },
+        {
+          "en": "Staying near a village is the wisest strategy for safety.",
+          "ja": "村の近くに滞在することは安全性にとって最も賢明な戦略です。",
+          "ipa": "/ˈsteɪɪŋ ˈnɪɹ‿ə ˈvɪlɪdʒ ɪz ðə ˈwaɪzəst ˈstrætɪdʒi fɚ ˈseɪfti/",
+          "linking": [
+            "near a → 語末子音 /ɹ/ が母音 /ə/ に連結 [ˈnɪɹə] ニア",
+            "the は冠詞で弱形 /ðə/",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "ステイング ニア ビレッジ イズ ザ ワイジェスト ストラテジー フォア セーフティ"
+        }
+      ]
+    }
   ]
 }

@@ -43,5 +43,157 @@
       "kana": "ア ボウト メイダヴ ウッド ウル デフィニットリー シンク イン ラーヴァ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sinks",
+      "ipa": "/sɪŋks/",
+      "examples": [
+        {
+          "en": "I installed two sinks in the bathroom to handle water flow efficiently.",
+          "ja": "浴室に2つの流し台を設置して、水の流れを効率的に処理します。",
+          "ipa": "/aɪ ɪnˈstɔːld tu ˈsɪŋks ɪn ðə ˈbæθˌrum tu ˈhændəl ˈwɔːtər ˈfloʊ ɪˈfɪʃəntli/",
+          "linking": [
+            "two sinks → 末尾子音 /u/ が母音 /s/ に連結 [ˈsɪŋks] シンクス",
+            "in the → 子音+子音で続く。the は弱形 /ðə/",
+            "to は弱形 /tə/。handle と連結"
+          ],
+          "kana": "アイ インストールド トゥ シンクス イン ザ バスルーム トゥ ハンドル ウォーター フロー イフィシェントリー"
+        },
+        {
+          "en": "These decorative sinks are made from stone and wood blocks.",
+          "ja": "これらの装飾的な流し台は石と木のブロックでできています。",
+          "ipa": "/ðiz ˌdɛkərətɪv ˈsɪŋks ɑr ˈmeɪd frəm ˈstoʊn ənd ˈwʊd ˈblɑks/",
+          "linking": [
+            "sinks are → 語末子音 /s/ が母音 /ɑr/ に連結 [ˈsɪŋksɑr] シンクサー。are は弱形 /ɑr/",
+            "made from → /d/ + /f/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ディーズ デコレイティブ シンクサー メイド フラム ストーン アンド ウッド ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "sinks",
+      "ipa": "/sɪŋks/",
+      "examples": [
+        {
+          "en": "A wooden boat sinks immediately when placed in water.",
+          "ja": "木製のボートを水に置くと、すぐに沈みます。",
+          "ipa": "/ə ˈwʊdən ˈboʊt ˈsɪŋks ɪˈmiːdɪətli wɛn ˈpleɪst ɪn ˈwɔːtər/",
+          "linking": [
+            "a は弱形 /ə/。wooden と連結",
+            "boat sinks → /t/ + /s/ (consonant+consonant、連結なし)",
+            "when placed → /n/ + /p/ (consonant+consonant、連結なし)",
+            "in water → /n/ + /w/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ア ウッデン ボウト シンクス イミーディエットリー ウェン プレイスト イン ウォーター"
+        },
+        {
+          "en": "The obsidian block sinks into lava, so we must retrieve it quickly.",
+          "ja": "黒曜石のブロックが溶岩に沈むので、素早く回収する必要があります。",
+          "ipa": "/ðə ɑbˈsɪdɪən ˈblɑk ˈsɪŋks ˈɪntu ˈlavə | soʊ wi məst rɪˈtriːv ɪt ˈkwɪkli/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "block sinks → /k/ + /s/ (consonant+consonant、連結なし)",
+            "into lava → /tu/ の t は未開放で /t̚/。lava は /ˈlavə/"
+          ],
+          "kana": "ザ オブシディアン ブラック シンクス イント ラーヴァ、ソウ ウィー マスト リトリーヴ イット クイックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "sank",
+      "ipa": "/sæŋk/",
+      "examples": [
+        {
+          "en": "My first boat sank in the ocean because I didn't understand how water worked.",
+          "ja": "水の仕組みを理解していなかったので、私の最初のボートは海で沈みました。",
+          "ipa": "/maɪ fɝːst ˈboʊt ˈsæŋk ɪn ði ˈoʊʃən bɪˈkɑz aɪ ˈdɪdənt ˌʌndɚˈstænd haʊ ˈwɔːtər ˈwɝkt/",
+          "linking": [
+            "first boat → /st/ + /b/ (consonant+consonant、連結なし)",
+            "in the → /n/ + /ð/ (consonant+consonant、連結なし)。the は弱形 /ðə/",
+            "because I → /z/ + /aɪ/ (consonant+vowel) で自然に続く"
+          ],
+          "kana": "マイ ファースト ボウト サンク イン ザ オーシャン ビコーズ アイ ディッデント アンダースタンド ハウ ウォーター ワーク"
+        },
+        {
+          "en": "The entire floating platform sank into the quicksand within seconds.",
+          "ja": "浮遊するプラットフォーム全体が数秒のうちにクイックサンドに沈みました。",
+          "ipa": "/ðə ɛnˈtaɪər ˈfloʊtɪŋ ˈplætˌfɔːrm ˈsæŋk ˈɪntu ðə ˈkwɪkˌsænd wɪˈðɪn ˈsɛkəndz/",
+          "linking": [
+            "the entire → the は弱形 /ðə/",
+            "floating platform → /ŋ/ + /p/ (consonant+consonant、連結なし)",
+            "into the → /tu/ の t は未開放。the は弱形 /ðə/",
+            "within seconds → /n/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザ エンタイアー フロウティング プラットフォーム サンク イント ザ クイックサンド ウィズィン セコンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "sunk",
+      "ipa": "/sʌŋk/",
+      "examples": [
+        {
+          "en": "The treasure chest has sunk to the bottom of the ocean after weeks underwater.",
+          "ja": "宝箱は数週間の水中での後、海の底に沈んでしまいました。",
+          "ipa": "/ðə ˈtrɛʒər ˈtʃɛst həz ˈsʌŋk tu ðə ˈbɑtəm əv ði ˈoʊʃən ˈæftər ˈwiːks ˌʌndərˈwɔːtər/",
+          "linking": [
+            "the treasure → the は弱形 /ðə/",
+            "has sunk → /z/ + /s/ (consonant+consonant、連結なし)",
+            "to は弱形 /tə/。the に続く",
+            "of the → of は弱形 /əv/。the も弱形"
+          ],
+          "kana": "ザ トレジャー チェスト ハズ サンク トゥ ザ ボットム アブ ザ オーシャン アフター ウィークス アンダーウォーター"
+        },
+        {
+          "en": "All the valuable items have sunk into the lava, so they're completely lost.",
+          "ja": "すべての貴重なアイテムが溶岩に沈んでしまったので、完全に失われました。",
+          "ipa": "/ɔːl ðə ˈvæljəbəl ˈaɪtəmz həv ˈsʌŋk ˈɪntu ðə ˈlavə | soʊ ðeɪr kəmˈpliːtli ˈlɑst/",
+          "linking": [
+            "all the → /l/ + /ð/ (consonant+consonant、連結なし)。the は弱形 /ðə/",
+            "have sunk → /v/ + /s/ (consonant+consonant、連結なし)",
+            "into the → /tu/ の t は未開放。the は弱形 /ðə/"
+          ],
+          "kana": "オール ザ ヴァリュアブル アイテムズ ハブ サンク イント ザ ラーヴァ、ソウ ザイアー コンプリートリー ロスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "sinking",
+      "ipa": "/ˈsɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "Your boat is sinking rapidly; get to shore immediately!",
+          "ja": "あなたのボートが急速に沈んでいます。すぐに岸に到達してください！",
+          "ipa": "/jɔr ˈboʊt ɪz ˈsɪŋkɪŋ ˈræpɪdli | ˈɡɛt tə ˈʃɔr ɪˈmiːdɪətli/",
+          "linking": [
+            "boat is → /t/ + /ɪ/ (consonant+vowel) で自然に続く",
+            "to は弱形 /tə/。shore と連結"
+          ],
+          "kana": "ユアー ボウティズ シンキング ラピドリー、ゲット タ ショアー イミーディエットリー"
+        },
+        {
+          "en": "Sinking deeper into the caves, the explorers discovered ancient ruins.",
+          "ja": "洞窟の奥深くに沈んでいく中で、探検家たちは古代の遺跡を発見しました。",
+          "ipa": "/ˈsɪŋkɪŋ ˈdipər ˈɪntu ðə ˈkeɪvz | ðə ɪkˈsplɔrərz dɪˈskʌvərd ˈeɪʃənt ˈruːɪnz/",
+          "linking": [
+            "into the → /tu/ の t は未開放。the は弱形 /ðə/",
+            "ancient ruins → /t/ + /r/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "シンキング ディーパー イント ザ ケイブズ、ザ エクスプローラーズ ディスカバード エインシェント ルーイン"
+        }
+      ]
+    }
+  ]
 }

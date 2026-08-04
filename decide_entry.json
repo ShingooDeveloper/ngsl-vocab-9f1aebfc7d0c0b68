@@ -168,6 +168,101 @@
           "kana": "アイム スティル ディサイディング ウィッチ ブラックス タ ユーズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is deciding",
+      "ipa": "/ɪz ˈdɪsaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is deciding between wood and stone for the roof.",
+          "ja": "スティーブは屋根用に木と石のどちらかを決めています。",
+          "ipa": "/ˈstiv ɪz ˈdɪsaɪdɪŋ bɪˈtwin wʊd ənd stoʊn fɔr ðə ruf/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/",
+            "and は接続詞で弱形 /ən/ に弱化",
+            "for は機能語で弱形 /fɔr/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "スティーブ イズ ディサイディング ビトゥイーン ウッド エン ストーン フォアー ザ ルーフ"
+        },
+        {
+          "en": "They are deciding how many blocks they need.",
+          "ja": "彼らは何個のブロックが必要かを決めています。",
+          "ipa": "/ðeɪ ɑɹ ˈdɪsaɪdɪŋ haʊ ˈmɛni blɑks ðeɪ nid/",
+          "linking": [
+            "are は助動詞で弱形 /ɑɹ/ に弱化",
+            "how many: how の /aʊ/ と many の /m/ は連結しない"
+          ],
+          "kana": "ザイ アー ディサイディング ハウ メニー ブラックス ザイ ニード"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was deciding",
+      "ipa": "/wəz ˈdɪsaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "I was deciding where to build my base when a creeper appeared.",
+          "ja": "私が基地を建てる場所を決めていた時、クリーパーが現れました。",
+          "ipa": "/aɪ wəz ˈdɪsaɪdɪŋ wɛɹ tə bɪld maɪ beɪs wɛn ə ˈkripɚ əˈpɪɹd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/",
+            "to は機能語で弱形 /tə/",
+            "a は冠詞で弱形 /ə/",
+            "creeper appeared: creeper の語末 /r/ が appeared の初頭母音 /ə/ に連結 [ˈkripə əˈpɪɹd]"
+          ],
+          "kana": "アイ ワズ ディサイディング ウェアー タ ビルド マイ ベイス ウェン ア クリーパー アピアド"
+        },
+        {
+          "en": "We were deciding on a location for an hour.",
+          "ja": "私たちは1時間、場所を決めていました。",
+          "ipa": "/wi wɚ ˈdɪsaɪdɪŋ ɑn ə loʊˈkeɪʃən fɔɹ ən ˈaʊɚ/",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/",
+            "a は冠詞で弱形 /ə/",
+            "for は機能語で弱形 /fɔr/",
+            "an は冠詞で弱形 /ən/"
+          ],
+          "kana": "ウィ ワー ディサイディング アン ア ロケイション フォアー エン アワー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been deciding",
+      "ipa": "/həd bɪn ˈdɪsaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "He had been deciding for twenty minutes before he chose stone.",
+          "ja": "彼は石を選ぶ前に20分間、決めていました。",
+          "ipa": "/hi həd bɪn ˈdɪsaɪdɪŋ fɔɹ ˈtwɛnti ˈmɪnɪts bɪˈfɔɹ hi tʃoʊz stoʊn/",
+          "linking": [
+            "had は助動詞で弱形 /həd/",
+            "been は助動詞で弱形 /bɪn/",
+            "for は機能語で弱形 /fɔr/",
+            "before he: before の語末 /r/ と he の初頭 /h/ は連結しない"
+          ],
+          "kana": "ヒー ハド ビン ディサイディング フォアー トゥエンティー ミニッツ ビフォアー ヒー チョーズ ストーン"
+        },
+        {
+          "en": "By that point, they had been deciding what to build for days.",
+          "ja": "その時点までに、彼らは何を建てるか、何日も決めていました。",
+          "ipa": "/baɪ ðæt pɔɪnt ðeɪ həd bɪn ˈdɪsaɪdɪŋ wɑt tə bɪld fɔɹ deɪz/",
+          "linking": [
+            "that point: that の語末 /t/ と point の初頭 /p/ は連結しない",
+            "had は助動詞で弱形 /həd/",
+            "been は助動詞で弱形 /bɪn/",
+            "to は機能語で弱形 /tə/",
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "バイ ザット ポイント ザイ ハド ビン ディサイディング ワット タ ビルド フォアー デイズ"
+        }
+      ]
     }
   ]
 }

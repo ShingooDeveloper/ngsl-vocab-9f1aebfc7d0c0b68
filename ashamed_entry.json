@@ -43,6 +43,68 @@
       "kana": "ユシュッビーアシェイムダルーズォルユォディーマンズ"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more ashamed",
+      "ipa": "/mɔr əˈʃeɪmd/",
+      "examples": [
+        {
+          "en": "I'm more ashamed now that everyone saw my terrible mining tunnel.",
+          "ja": "皆が見たから、今はもっと私の下手な採掘坑道が恥ずかしい。",
+          "ipa": "/aɪm mɔr əˈʃeɪmd naʊ ðæt ˈɛvriˌwən sɔ maɪ ˈtɛrəbəl ˈmaɪnɪŋ ˈtʌnəl/",
+          "linking": [
+            "more-ashamed: r が母音 /ə/ に連結 [mɔrə] モーラ",
+            "that-everyone: t が母音 /ɛ/ に連結、フラップ化 [ðæɾɛ] ザレ"
+          ],
+          "kana": "アイムモーラシェイムドナウザレヴリワンソマイテラブルマイニングタナル"
+        },
+        {
+          "en": "Alice is more ashamed of her farm than anyone else.",
+          "ja": "アリスは皆より自分の農場をもっと恥じている。",
+          "ipa": "/ˈælɪs ɪz mɔr əˈʃeɪmd əv hər fɑrm ðæn ˈɛniˌwən ɛls/",
+          "linking": [
+            "Alice-is: s が母音 /ɪ/ に連結 [ˈælɪzɪz] アリズイズ",
+            "more-ashamed: r が母音 /ə/ に連結 [mɔrə] モーラ",
+            "ashamed-of: d が母音 /ə/ に連結、of は弱形 /əv/ [əˈʃeɪmdəv] アシェイムダヴ",
+            "than-anyone: n が母音 /ɛ/ に連結 [ðænɛ] ザンエ"
+          ],
+          "kana": "アリズイズモーラアシェイムダヴハーファームザンエニワンエルス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most ashamed",
+      "ipa": "/moʊst əˈʃeɪmd/",
+      "examples": [
+        {
+          "en": "Steve was the most ashamed when he lost his entire base to a creeper.",
+          "ja": "スティーブはクリーパーに基地全体を失った時、最も恥ずかしかった。",
+          "ipa": "/ˈstiːv wəz ðə ˈmoʊst əˈʃeɪmd wɛn hi lɔst hɪz ɪnˈtaɪər ˈbeɪs tu ə ˈkriːpər/",
+          "linking": [
+            "Steve-was: v が母音 /ə/ に連結 [ˈstiːvəz] スティーヴァズ",
+            "most-ashamed: t が母音 /ə/ に連結 [ˈmoʊstəˈʃeɪmd] モウスタシェイムド",
+            "his-entire: z が母音 /ɪ/ に連結 [hɪzɪn] ヒズィン"
+          ],
+          "kana": "スティーヴァズザモウストモウスタシェイムドウェンヒーロストヒズィンタイヤーベイステアクリーパー"
+        },
+        {
+          "en": "I felt the most ashamed about losing my diamonds in the Nether.",
+          "ja": "ネザーでダイヤを失ったことについて、最も恥ずかしい思いをした。",
+          "ipa": "/aɪ fɛlt ðə ˈmoʊst əˈʃeɪmd əˈbaʊt ˈluzɪŋ maɪ ˈdaɪmənz ɪn ðə ˈnɛðər/",
+          "linking": [
+            "most-ashamed: t が母音 /ə/ に連結 [ˈmoʊstəˈʃeɪmd] モウスタシェイムド",
+            "ashamed-about: d が母音 /ə/ に連結 [əˈʃeɪmdəˈbaʊt] アシェイムダバウト",
+            "diamonds-in: z が母音 /ɪ/ に連結 [ˈdaɪmənzɪn] ダイマンズィン"
+          ],
+          "kana": "アイフェルトザモウストモウスタシェイムダバウトルーズィングマイダイマンズィンザネザー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "be ashamed of",

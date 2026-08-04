@@ -45,5 +45,140 @@
       "kana": "ザット ソード エンド ピッカックス アー ア スティール アイ ガラム フォア ハーフ プライス"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "steals",
+      "ipa": "/stiːlz/",
+      "examples": [
+        {
+          "en": "A player steals items from a village.",
+          "ja": "プレイヤーが村からアイテムを盗みます。",
+          "ipa": "/ə ˈpleɪ.ɚ stiːlz ˈaɪ.təmz frəm ə ˈvɪ.lɪdʒ/",
+          "linking": [
+            "from a → 語末の /m/ が母音 /ə/ に連結 [frəmə] フラマ"
+          ],
+          "kana": "ア プレイアー スティールズ アイタムズ フラマ ヴィレッジ"
+        },
+        {
+          "en": "A zombie steals ore from a cave.",
+          "ja": "ゾンビが洞窟から鉱石を盗みます。",
+          "ipa": "/ə ˈzɑm.bi stiːlz ɔɹ frəm ə ˈkeɪv/",
+          "linking": [
+            "from a → 語末の /m/ が母音 /ə/ に連結 [frəmə] フラマ"
+          ],
+          "kana": "ア ゾンビ スティールズ オア フラマ ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stole",
+      "ipa": "/stoʊl/",
+      "examples": [
+        {
+          "en": "I stole diamonds from a mine yesterday.",
+          "ja": "昨日、鉱山からダイヤモンドを盗みました。",
+          "ipa": "/aɪ ˈstoʊl ˈdaɪ.məndz frəm ə ˈmaɪn ˈjɛs.tɚ.deɪ/",
+          "linking": [
+            "from a → 語末の /m/ が母音 /ə/ に連結 [frəmə] フラマ"
+          ],
+          "kana": "アイ ストール ダイモンズ フラマ マイン イェスターデイ"
+        },
+        {
+          "en": "He stole a valuable diamond from our base.",
+          "ja": "彼は私たちの基地から貴重なダイヤを盗みました。",
+          "ipa": "/hi ˈstoʊl ə ˈvæl.ju.ə.bəl ˈdaɪ.mənd frəm ˈaɪɚ ˈbeɪs/",
+          "linking": [
+            "stole a → 語末の /l/ が母音 /ə/ に連結 [ˈstoʊl ə] ストーラ",
+            "from our → 語末の /m/ が母音 /ɑɹ/ に連結 [frəm ɑɹ] フラマー"
+          ],
+          "kana": "ヒ ストーラ ヴァルュアブル ダイモンド フラマー ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stolen",
+      "ipa": "/ˈstoʊ.lən/",
+      "examples": [
+        {
+          "en": "The stolen diamond is now safe in our vault.",
+          "ja": "盗まれたダイヤモンドは今、私たちの金庫に安全です。",
+          "ipa": "/ðə ˈstoʊ.lən ˈdaɪ.mənd ɪz ˈnaʊ ˈseɪf ɪn ˈaɪɚ ˈvɔːlt/",
+          "linking": [
+            "diamond is → 語末の /d/ が母音 /ɪ/ に連結 [ˈdaɪ.mənd ɪz] ダイマンディズ"
+          ],
+          "kana": "ザ ストーレン ダイマンディズ ナウ セイフ イン アワー ヴォールト"
+        },
+        {
+          "en": "The stolen ore from the raid was secured.",
+          "ja": "レイドから盗まれた鉱石は確保されました。",
+          "ipa": "/ðə ˈstoʊ.lən ɔɹ frəm ðə ˈreɪd wəz sɪˈkjɚd/",
+          "linking": [
+            "stolen ore → 語末の /n/ が母音 /ɔ/ に連結 [ˈstoʊ.lən ɔɹ] ストーレノア"
+          ],
+          "kana": "ザ ストーレノア フラム ザ レイド ワズ シキュアード"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "stealing",
+      "ipa": "/ˈstiː.lɪŋ/",
+      "examples": [
+        {
+          "en": "Stealing resources is not allowed on our server.",
+          "ja": "このサーバーではリソースを盗むことは許可されていません。",
+          "ipa": "/ˈstiː.lɪŋ ɹɪˈsɔɹ.sɪz ɪz ˈnɑt əˈlaʊd ɑn ˈaɪɚ ˈsɜɹ.vɚ/",
+          "linking": [
+            "allowed on → 語末の /d/ が母音 /ɑ/ に連結 [əˈlaʊd ɑn] アラウダン"
+          ],
+          "kana": "スティーリング リソーシズ イズ ナット アラウダン オン アワー サーバー"
+        },
+        {
+          "en": "I caught a player stealing ore from my mine.",
+          "ja": "プレイヤーが私の鉱山から鉱石を盗んでいるのを見つけました。",
+          "ipa": "/aɪ ˈkɔːt ə ˈpleɪ.ɚ ˈstiː.lɪŋ ɔɹ frəm maɪ ˈmaɪn/",
+          "linking": [
+            "stealing ore → 語末の /ŋ/ が母音 /ɔ/ に連結 [ˈstiː.lɪŋ ɔɹ] スティーリングォア"
+          ],
+          "kana": "アイ コート ア プレイアー スティーリングォア フラム マイ マイン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "steals",
+      "ipa": "/stiːlz/",
+      "examples": [
+        {
+          "en": "Finding diamonds inside caves makes them steals.",
+          "ja": "洞窟の中でダイヤモンドを見つけることは、それらをお得な買い物にします。",
+          "ipa": "/ˈfaɪn.dɪŋ ˈdaɪ.məndz ɪnˈsaɪd ˈkeɪvz ˈmeɪks ðəm stiːlz/",
+          "linking": [
+            "diamonds inside → 語末の /z/ が母音 /ɪ/ に連結 [ˈdaɪ.məndz ɪnˈsaɪd] ダイマンディンサイド",
+            "makes them → 語末の /s/ が母音 /ə/ に連結 [ˈmeɪks ðəm] メイクスデム"
+          ],
+          "kana": "ファインディング ダイマンディンサイド ケイブズ メイクスデム スティールズ"
+        },
+        {
+          "en": "Half-price tools are great steals on this server.",
+          "ja": "半額のツールはこのサーバーでは素晴らしい掘り出し物です。",
+          "ipa": "/ˈhæf ˈpɹaɪs ˈtulz ɑɹ ˈɡreɪt stiːlz ɑn ˈðɪs ˈsɜɹ.vɚ/",
+          "linking": [
+            "tools are → 語末の /z/ が母音 /ɑɹ/ に連結 [ˈtulz ɑɹ] トゥールズアー",
+            "steals on → 語末の /z/ が母音 /ɑ/ に連結 [stiːlz ɑn] スティールズアン"
+          ],
+          "kana": "ハーフ プライス トゥールズアー グレイト スティールズアン ディス サーバー"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

@@ -46,6 +46,37 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "criteria",
+      "ipa": "/kraɪˈtɪriə/",
+      "examples": [
+        {
+          "en": "These criteria take a lot of thought to decide.",
+          "ja": "これらの基準を決定するためには、多くの思慮が必要です。",
+          "ipa": "[ðiz kraɪˈtɪriə ˈteɪkə ˈlɑɾəv θɔt tə dɪˈsaɪd]",
+          "linking": [
+            "take a → 語末子音 /k/ が母音 /ə/ に連結 [ˈteɪkə]",
+            "lot of → t が母音に挟まれフラップ化し連結 [ˈlɑɾəv]。of は弱形 /əv/",
+            "to → 機能詞は弱形 /tə/ に弱化"
+          ],
+          "kana": "ディーズ クライテアリア テイカ ラーラヴ ソート タ ディサイド"
+        },
+        {
+          "en": "We identified clear criteria for our base defense.",
+          "ja": "私たちは基地防衛のための明確な基準を特定しました。",
+          "ipa": "[wi aɪˈdɛntɪfaɪd klɪr kraɪˈtɪriə fɚ aʊr beɪs dɪˈfɛns]",
+          "linking": [
+            "clear criteria → 語末子音 /r/ が母音 /ə/ に連結 [klɪr kraɪˈtɪriə]",
+            "for our → 機能詞 for は弱形 /fɚ/ に弱化。語末 /r/ が母音 /aʊ/ に連結 [fɚ aʊr]"
+          ],
+          "kana": "ウィ アイデンティファイド クリア クライテアリア ファー アワー ベイス ディフェンス"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "criterion for",

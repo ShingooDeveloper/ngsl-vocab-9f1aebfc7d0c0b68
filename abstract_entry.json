@@ -41,6 +41,96 @@
       "kana": "レット ミー ギヴアン アブストラクト アヴ マイ マイニング ラウト"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "abstracts",
+      "ipa": "/ˈæbstrækt͡s/",
+      "examples": [
+        {
+          "en": "We need to understand the abstracts of redstone mechanics.",
+          "ja": "レッドストーン機構の抽象的概念を理解する必要があります。",
+          "ipa": "[wiː ˈniːdə ʌndərˈstænd ðə ˈæbstrækt͡s əv ˈred.stoʊn məˈkænɪks]",
+          "linking": [
+            "need の /d/ が to の弱形 /tə/ に連結",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ウィー ニーダ アンダースタンド ザ アブストラクツ アヴ レッドストウン マケェニックス"
+        },
+        {
+          "en": "The abstracts of building techniques will help us construct better structures.",
+          "ja": "建築技法の抽象的な説明は、より良い構造を構築するのに役立ちます。",
+          "ipa": "[ðə ˈæbstrækt͡s əv ˈbɪldɪŋ tɛkˈnɪks wɪl hɛlp ʌs kənˈstrʌkt ˈbɛtər ˈstrʌk.tʃərz]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "will は /wɪl/"
+          ],
+          "kana": "ザ アブストラクツ アヴ ビルディング テクニックス ウィル ヘルプ アス カンストラクト ベター ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more abstract",
+      "ipa": "/ˌmɔr ˈæbstrækt/",
+      "examples": [
+        {
+          "en": "The concept of potions is more abstract than mining ores.",
+          "ja": "ポーション醸造の概念は、鉱石採掘より抽象的です。",
+          "ipa": "[ðə ˈkɑnsɛpt əv ˈpoʊʃənz ɪz ˌmɔr ˈæbstrækt ðæn ˈmaɪnɪŋ ɔrz]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ザ コンセプト アヴ ポウションズ イズ モア アブストラクト ザン マイニング オアーズ"
+        },
+        {
+          "en": "Redstone is quite a bit more abstract than simply collecting resources.",
+          "ja": "レッドストーンは、単なるリソース収集より、かなり抽象的です。",
+          "ipa": "[ˈred.stoʊn ɪz kwaɪt ə bɪt ˌmɔr ˈæbstrækt ðæn ˈsɪmpli kəˈlɛktɪŋ ˈriːsɔrsɪz]",
+          "linking": [
+            "a の弱形 /ə/ が bit /b/ に連結",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "レッドストウン イズ クワイト ア ビット モア アブストラクト ザン シンプリ カレクティング リソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most abstract",
+      "ipa": "/ˌmoʊst ˈæbstrækt/",
+      "examples": [
+        {
+          "en": "Redstone mechanics are the most abstract part of the game.",
+          "ja": "レッドストーン機構はゲームの最も抽象的な部分です。",
+          "ipa": "[ˈred.stoʊn məˈkænɪks ɑr ðə ˈmoʊst ˈæbstrækt pɑrt əv ðə ɡeɪm]",
+          "linking": [
+            "the は弱形 /ðə/（最初）",
+            "of は弱形 /əv/",
+            "the は弱形 /ðə/（最後）"
+          ],
+          "kana": "レッドストウン マケェニックス ア ザ モースト アブストラクト パート アヴ ザ ゲーム"
+        },
+        {
+          "en": "Command blocks are the most abstract feature in Minecraft.",
+          "ja": "コマンドブロックはマインクラフトで最も抽象的な機能です。",
+          "ipa": "[kəˈmænd blɑks ɑr ðə ˈmoʊst ˈæbstrækt ˈfɪtʃər ɪn ˈmaɪn.kræft]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "in は弱形 /ɪn/"
+          ],
+          "kana": "コマンド ブロックス ア ザ モースト アブストラクト フィーチャー イン マインクラフト"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "abstract idea",

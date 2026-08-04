@@ -43,5 +43,36 @@
       "kana": "ザフル フルムーン メイクスイット イージー タ ビルド アウトドーズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "moons",
+      "ipa": "/muːnz/",
+      "examples": [
+        {
+          "en": "The moons light up the desert at night, making it easier to spot mobs from afar.",
+          "ja": "月が夜の砂漠を照らし、モブを遠くから見つけやすくしました。",
+          "ipa": "/ðə ˈmuːnz ˈlaɪt ʌp ðə ˈdɛzərt æt ˈnaɪt ˈmeɪkɪŋ ɪ ˈɾiːziər tə ˈspɑt ˈmɑbz frəm əˈfɑr/",
+          "linking": [
+            "the /ðə/ が moons /ˈmuːnz/ の m に連結 [ðə ˈmuːnz] ザムーンズ",
+            "light /laɪt/ の語末 t が up /ʌp/ の u に連結 [ˈlaɪt ʌp] ライトアップ",
+            "it /ɪt/ の語末 t が easier /ˈiːziər/ の i 前でフラップ化 [ɪ ˈɾiːziər] イリージアー"
+          ],
+          "kana": "ザムーンズ ライトアップ ザ デザート アット ナイト メイキング イリージアー タ スパット モブズ フラムアファー"
+        },
+        {
+          "en": "We watched the shining moons from our new observation tower at night.",
+          "ja": "夜間、私たちは新しい展望台から輝く月たちを眺めていました。",
+          "ipa": "/wi ˈwɑtʃt ðə ˈʃaɪnɪŋ ˈmuːnz frəm ˈaʊr ˈnjuː ˌɑbzərˈveɪʃən ˈtaʊər æt ˈnaɪt/",
+          "linking": [
+            "from /frəm/ が our /ˈaʊr/ の au に連結 [frəm ˈaʊr] フラム アワー",
+            "at /æt/ の語末 t は night /ˈnaɪt/ の n 前で未開放 [æt̚ ˈnaɪt] アット ナイト"
+          ],
+          "kana": "ウィ ウォッチド ザ シャイニング ムーンズ フラム アワー ニュー オブザベーション タワー アット ナイト"
+        }
+      ]
+    }
+  ]
 }

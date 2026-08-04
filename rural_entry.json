@@ -45,6 +45,52 @@
       "kana": "ディス ルーラル ヴィリッジ ハズ メニ ファームザラウンド イット"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more rural",
+      "ipa": "/ˌmɔr ˈrʊrəl/",
+      "examples": [
+        {
+          "en": "I want a more rural spot.",
+          "ja": "より田舎的な場所がほしい。",
+          "ipa": "/aɪ ˈwɑnt ə ˈmɔr ˈrʊrəl ˈspɑt/",
+          "linking": ["want a → 語末子音 /t/ が弱形 /ə/ に連結 [ˈwɑntə] ワンタ"],
+          "kana": "アイ ワンタ モア ルーラル スポット"
+        },
+        {
+          "en": "More rural areas need less upkeep than villages.",
+          "ja": "より田舎的な地域は村よりメンテナンスが少ない。",
+          "ipa": "/ˌmɔr ˈrʊrəl ˈeriəz ˈniːd ˈles ˈʌpˌkip ðən ˈvɪlɪdʒɪz/",
+          "linking": ["rural areas → 語末子音 /l/ が母音 /e/ に連結 [ˈrʊrəlˈeriəz] ルーラリアズ"],
+          "kana": "モア ルーラル エリアズ ニード レス アップキープ ザン ビレッジズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most rural",
+      "ipa": "/ˌmoʊst ˈrʊrəl/",
+      "examples": [
+        {
+          "en": "The most rural location has no villages nearby.",
+          "ja": "最も田舎的な場所の近くには村がない。",
+          "ipa": "/ðə ˈmoʊst ˈrʊrəl ˈloʊˌkeɪʃən həz noʊ ˈvɪlɪdʒɪz ˈnɪrbaɪ/",
+          "linking": ["The は冠詞で弱形 /ðə/ に弱化。most は强调 [ðə ˈmoʊst] ザ モウスト"],
+          "kana": "ザ モウスト ルーラル ロケーション ハズ ノウ ビレッジズ ニアバイ"
+        },
+        {
+          "en": "This biome is the most rural yet.",
+          "ja": "このバイオームは最も田舎的だ。",
+          "ipa": "/ðɪs ˌbaɪˈoʊm ɪz ðə ˈmoʊst ˈrʊrəl ˈjɛt/",
+          "linking": ["biome is → 語末子音 /m/ が母音 /ɪ/ に連結 [ˌbaɪˈoʊmɪz] バイオームイズ"],
+          "kana": "ディス バイオームイズ ザ モウスト ルーラル イェット"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "rural area",

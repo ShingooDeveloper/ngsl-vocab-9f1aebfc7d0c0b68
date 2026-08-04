@@ -202,6 +202,94 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is ranging",
+      "ipa": "/ɪz ˈreɪndʒɪŋ/",
+      "examples": [
+        {
+          "en": "We are ranging the towers along the wall.",
+          "ja": "私たちは壁沿いに塔を配置しています。",
+          "ipa": "/wi ɑr ˈreɪndʒɪŋ ðə ˈtaʊərz əˈlɔŋ ðə ˈwɔl/",
+          "kana": "ウィ アー レインジング ザ タウアーズ アロング ザ ウォール",
+          "linking": [
+            "are ranging: are の語末 /r/ が ranging の /r/ に連結。are は /ɑr/ [ɑrˈreɪndʒɪŋ]",
+            "ranging the: the は弱形 /ðə/",
+            "towers along: towers の語末 /z/ が along の /ə/ に連結 [ˈtaʊərz əˈlɔŋ]"
+          ]
+        },
+        {
+          "en": "The spawners are ranging from the central chamber.",
+          "ja": "スポーナーが中央チャンバーから配置されています。",
+          "ipa": "/ðə ˈspoʊnərz ər ˈreɪndʒɪŋ frəm ðə ˈsɛntrəl ˈtʃeɪmbər/",
+          "kana": "ザ スポウナーズ ア レインジング フラム ザ セントラル チェイムバー",
+          "linking": [
+            "spawners are: spawners の語末 /z/ が are の /ə/ に連結。are は弱形 /ər/ [ˈspoʊnərz ər]",
+            "are ranging: are は弱形 /ər/、ranging の /r/ に連結 [ərˈreɪndʒɪŋ]",
+            "from the: from は弱形 /frəm/、the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was ranging",
+      "ipa": "/wəz ˈreɪndʒɪŋ/",
+      "examples": [
+        {
+          "en": "We were ranging the defenses when the attack started.",
+          "ja": "攻撃が始まったとき、私たちは防衛施設を配置していました。",
+          "ipa": "/wi wər ˈreɪndʒɪŋ ðə dɪˈfɛnsɪz ˈwɛn ðə əˈtæk ˈstɑrtɪd/",
+          "kana": "ウィ ワー レインジング ザ ディフェンシズ ウェン ザ アタック スターティド",
+          "linking": [
+            "were ranging: were は弱形 /wər/、ranging の /r/ に連結 [wərˈreɪndʒɪŋ]",
+            "ranging the: the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The mobs were ranging across the plains when we escaped.",
+          "ja": "私たちが逃げたとき、モブが平原全体に広がっていました。",
+          "ipa": "/ðə ˈmoʊbz wər ˈreɪndʒɪŋ əˈkrɑs ðə ˈpleɪnz ˈwɛn wi ɪˈskeɪpt/",
+          "kana": "ザ モウブズ ワー レインジング アクロス ザ プレインズ ウェン ウィ イスケイプト",
+          "linking": [
+            "were ranging: were は弱形 /wər/、ranging に連結 [wərˈreɪndʒɪŋ]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been ranging",
+      "ipa": "/həd bɪn ˈreɪndʒɪŋ/",
+      "examples": [
+        {
+          "en": "We had been ranging the blocks for hours before we finished.",
+          "ja": "完成する前に、私たちは何時間もブロックを配置していました。",
+          "ipa": "/wi əd bɪn ˈreɪndʒɪŋ ðə ˈblɑks fər ˈaʊərz bɪˈfɔr wi ˈfɪnɪʃt/",
+          "kana": "ウィ ド ビン レインジング ザ ブロックス ファー アワーズ ビフォー ウィ フィニッシュト",
+          "linking": [
+            "had been: had は弱形 /əd/、been は弱形 /bɪn/ に連結 [ədbɪn]",
+            "been ranging: been の語末 /n/ が ranging の /r/ に連結 [bɪnˈreɪndʒɪŋ]",
+            "blocks for: blocks の語末 /z/ が for に連結。for は弱形 /fər/ [ˈblɑksfər]"
+          ]
+        },
+        {
+          "en": "The difficulty had been ranging from medium to hard throughout the session.",
+          "ja": "セッション中ずっと難易度が中程度から難しいまで変動していました。",
+          "ipa": "/ðə ˌdɪfɪˈkælti əd bɪn ˈreɪndʒɪŋ frəm ˈmɛdiəm tə ˈhɑrd θruˈaʊt ðə ˈsɛʃən/",
+          "kana": "ザ ディフィカルティ ド ビン レインジング フラム メディアム ター ハード スルーアウト ザ セッション",
+          "linking": [
+            "had been: had は弱形 /əd/、been は弱形 /bɪn/ に連結 [ədbɪn]",
+            "been ranging: been の語末 /n/ が ranging に連結 [bɪnˈreɪndʒɪŋ]",
+            "ranging from: from は弱形 /frəm/",
+            "to hard: to は弱形 /tə/"
+          ]
+        }
+      ]
     }
   ]
 }

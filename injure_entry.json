@@ -66,5 +66,127 @@
         "will → 弱形 /wəl/ に弱化"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "injures",
+      "ipa": "/ˈɪndʒɚz/",
+      "examples": [
+        {
+          "en": "Magma blocks injure players who stand on them without fire protection.",
+          "ja": "マグマブロックは耐火防具なしで立つプレイヤーをけがさせます。",
+          "ipa": "/ˈmæɡmə ˈblɑks ˈɪndʒɚz ˈpleɪɚz hu ˈstænd ɑn ðɛm wɪðˈaʊt ˈfaɪɚ prəˈtɛkʃən/",
+          "linking": [
+            "magma blocks → /ks/ + /ɪ/(子音+子音、連結なし)",
+            "stand on → /d/ + /ɑ/ が連結 [ˈstænd ɑn] スタンド オン",
+            "without は /wɪðˈaʊt/。fire に続く（子音+子音、連結なし）"
+          ],
+          "kana": "マグマ ブロックス インジャーズ プレイヤーズ フー スタンド オン ゼム ウィザウト ファイアー プロテクション"
+        },
+        {
+          "en": "Suffocation injures you inside solid blocks much faster than hunger.",
+          "ja": "窒息は飢えよりもはるかに速く固いブロックの中であなたをけがさせます。",
+          "ipa": "/ˌsʌfəˈkeɪʃən ˈɪndʒɚz ju ɪnˈsɑːlɪd ˈblɑks ˈmʌtʃ ˈfæstɚ ðən ˈhʌŋɡɚ/",
+          "linking": [
+            "Suffocation injures → /n/ + /ɪ/ が連結 [ˌsʌfəˈkeɪʃən ˈɪndʒɚz] サファケイション インジャーズ",
+            "injures you → /z/ + /j/ (子音+子音、連結なし)",
+            "much faster → /tʃ/ + /f/ (子音+子音、連結なし)、faster は [ˈfæstɚ]"
+          ],
+          "kana": "サファケイション インジャーズ ユー インソリッド ブロックス マッチ ファスター ザン ハンガー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "injured",
+      "ipa": "/ˈɪndʒɚd/",
+      "examples": [
+        {
+          "en": "That lava bucket injured me badly when I accidentally spilled it.",
+          "ja": "そのラババケツは私が誤ってこぼした時に私を大きくけがさせました。",
+          "ipa": "/ðæt ˈlɑvə ˈbʌkɪt ˈɪndʒɚd mi ˈbædli wɛn aɪ əkˈsɪdəntəli ˈspɪld ɪt/",
+          "linking": [
+            "bucket injured → /t/ + /ɪ/ (子音+子音、連結なし)",
+            "injured me → /d/ + /m/ (子音+子音、連結なし)",
+            "accidentally spilled → /i/ + /s/ が連結 [əkˈsɪdəntəli ˈspɪld] アクシデンタリー スピルド"
+          ],
+          "kana": "ザット ラヴァ バケット インジャード ミー バッドリー ウェン アイ アクシデンタリー スピルド イット"
+        },
+        {
+          "en": "The skeleton's arrows injured my horse during our escape.",
+          "ja": "スケルトンの矢は私たちの逃亡中に私の馬をけがさせました。",
+          "ipa": "/ðə ˈskɛlətən ˈɑːrəz ˈɪndʒɚd maɪ ˈhɔːrs ˈdʊrɪŋ ˈaʊɚ ɪˈskeɪp/",
+          "linking": [
+            "the skeleton's → the は弱形 /ðə/。skeleton に連結 [ðə ˈskɛlətən]",
+            "skeleton's arrows → /z/ + /ɑ/ が連結 [ˈskɛlətən ˈɑːrəz] スケルトンズ アローズ",
+            "during our → /ŋ/ + /aʊ/ が連結 [ˈdʊrɪŋ ˈaʊɚ] デュアリング アワー"
+          ],
+          "kana": "ザ スケルトンズ アローズ インジャード マイ ホース デュアリング アワー イスケイプ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "injured",
+      "ipa": "/ˈɪndʒɚd/",
+      "examples": [
+        {
+          "en": "The injured villagers took shelter in my base until they recovered completely.",
+          "ja": "傷ついた村人たちは彼らが完全に回復するまで私の拠点に避難しました。",
+          "ipa": "/ðə ˈɪndʒɚd ˈvɪlɪdʒɚz ˈtʊk ˈʃɛltɚ ɪn maɪ ˈbeɪs ənˈtɪl ðeɪ rɪˈkʌvɚd kəmˈplitli/",
+          "linking": [
+            "the injured → the は弱形 /ðə/。injured に連結 [ðə ˈɪndʒɚd]",
+            "injured villagers → /d/ + /v/ (子音+子音、連結なし)",
+            "shelter in → /r/ + /ɪ/ が連結 [ˈʃɛltɚ ɪn] シェルター イン"
+          ],
+          "kana": "ザ インジャード ビリッジャーズ トゥック シェルター イン マイ ベース アンティル ゼイ リカバード コンプリートリー"
+        },
+        {
+          "en": "After being injured by the Warden, we fled quickly into the tunnels.",
+          "ja": "ワーデンに傷つけられた後、私たちはトンネルへ素早く逃げました。",
+          "ipa": "/ˈæftər ˈbiːɪŋ ˈɪndʒɚd baɪ ðə ˈwɔːrdən | wi ˈflɛd ˈkwɪkli ˈɪntu ðə ˈtʌnəlz/",
+          "linking": [
+            "being injured → /ŋ/ + /ɪ/ が連結 [ˈbiːɪŋ ˈɪndʒɚd] ビーイング インジャード",
+            "injured by → /d/ + /b/ (子音+子音、連結なし)",
+            "into the → /tu/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "アフター ビーイング インジャード バイ ザ ウォーデン、ウィ フレッド クイックリー イントゥ ザ タンネルズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "injuring",
+      "ipa": "/ˈɪndʒərɪŋ/",
+      "examples": [
+        {
+          "en": "Avoid injuring your teammates by checking your combat radius carefully.",
+          "ja": "戦闘範囲を注意深くチェックしてチームメイトをけがさせることを避けてください。",
+          "ipa": "/əˈvɔɪd ˈɪndʒərɪŋ jɔr ˈtimeɪts baɪ ˈtʃɛkɪŋ jɔr ˈkɑːmbæt ˈreɪdiəs ˈkɛrfəli/",
+          "linking": [
+            "Avoid injuring → /d/ + /ɪ/ (子音+子音、連結なし)",
+            "injuring your → /ŋ/ + /j/ (子音+子音、連結なし)",
+            "checking your → /ŋ/ + /j/ (子音+子音、連結なし)"
+          ],
+          "kana": "アボイド インジャーリング ユア ティームメイツ バイ チェッキング ユア コンバット レイディアス ケアフリー"
+        },
+        {
+          "en": "Injuring neutral mobs can alert the Warden of your presence in the Deep Dark.",
+          "ja": "中立的なモブをけがさせることはワーデンにディープダークでのあなたの存在を警告することができます。",
+          "ipa": "/ˈɪndʒərɪŋ ˈnutrəl ˈmɑːbz kən əˈlɛrt ðə ˈwɔːrdən əv jɔr ˈprɛzəns ɪn ðə ˈdip ˈdɑːrk/",
+          "linking": [
+            "Injuring neutral → /ŋ/ + /n/ (子音+子音、連結なし)",
+            "can alert → can は弱形 /kən/。/n/ + /ə/ が連結 [kən əˈlɛrt] キャン アラート",
+            "in the → /n/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "インジャーリング ニュートラル モブズ キャン アラート ザ ウォーデン オヴ ユア プレゼンス イン ザ ディープ ダーク"
+        }
+      ]
+    }
   ]
 }

@@ -43,6 +43,36 @@
       "kana": "マイ アチーヴメント アルバム コンテインズ フィフティ アイラムズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "albums",
+      "ipa": "/ˈælbəmz/",
+      "examples": [
+        {
+          "en": "I stored albums in a creative build zone.",
+          "ja": "クリエイティブなビルドゾーンにアルバムを保存しました。",
+          "ipa": "/aɪ ˈstɔɹd ˈælbəmz ɪn ə kriˈeɪtɪv ˈbɪld ˈzoʊn/",
+          "linking": [
+            "albums の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。[ˈælbəmz ɪn] アルバムズ イン",
+            "in は前置詞で弱形。a は冠詞で弱形 /ə/。in a [ɪn ə] イナ"
+          ],
+          "kana": "アイ ストアード アルバムズ イン ア クリエイティヴ ビルド ゾーン"
+        },
+        {
+          "en": "These albums showcase all my favorite memories.",
+          "ja": "これらのアルバムは、私のお気に入りの思い出をすべて紹介します。",
+          "ipa": "/ðiz ˈælbəmz ˈʃoʊˌkeɪs ɔl maɪ ˈfeɪvɚɪt ˈmɛmɚiz/",
+          "linking": [
+            "these の末尾子音 /z/ が albums の初頭母音 /æ/ に連結。[ðɪz ˈælbəmz] ディズ アルバムズ",
+            "showcase の末尾子音 /s/ が all の初頭母音 /ɔ/ に連結。[ˈʃoʊˌkeɪs ɔl] ショウケイス オール"
+          ],
+          "kana": "ディズ アルバムズ ショウケイス オール マイ フェイバリット メモリーズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "photo album",

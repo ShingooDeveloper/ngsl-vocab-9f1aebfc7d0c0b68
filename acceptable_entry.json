@@ -42,5 +42,66 @@
                          "ja":  "このアーマーの耐久度はダイヤモンド採掘にはまだ許容できるレベルです。",
                          "ipa":  "/ðɪs ˈɑrmɚ ˈdæmɪdʒ ˈlɛvəl ɪz ˈstɪl əkˈsɛptəbəl fɔr ˈmaɪnɪŋ ˈdaɪməndz/"
                      }
-                 ]
+                 ],
+    "forms": [
+        {
+            "type": "comparative",
+            "label": "比較級",
+            "text": "more acceptable",
+            "ipa": "/ˌmɔr əkˈsɛptəbəl/",
+            "examples": [
+                {
+                    "en": "A stone sword is more acceptable than a wooden sword for mining diamonds.",
+                    "ja": "ダイヤモンド採掘には、木の剣より石の剣の方がより許容できるレベルです。",
+                    "ipa": "/ə ˈstoʊn sɔrd ɪz ˌmɔr əkˈsɛptəbəl ðæn ə ˈwʊdən sɔrd fɔr ˈmaɪnɪŋ ˈdaɪməndz/",
+                    "linking": [
+                        "more acceptable → /r/ が /ə/ に連結し [ˌmɔrəkˈsɛptəbəl] モーアクセプタボル",
+                        "than a → /n/ が /ə/ に連結し [ðænə] ザナ",
+                        "for は弱形 /fər/ で mining の /m/ に続く"
+                    ],
+                    "kana": "ア ストーン ソード イズ モーアクセプタボル ザナ ウッデン ソード フォー マイニング ダイマンズ"
+                },
+                {
+                    "en": "Using water buckets for mobility is more acceptable than taking falling damage in survival mode.",
+                    "ja": "サバイバルモードでは、落下ダメージを受けるより水バケットを使って移動する方がより受け入れられています。",
+                    "ipa": "/ˈjuːzɪŋ ˈwɔːtɚ ˈbʌkɪts fɔr moʊˈbɪləti ɪz ˌmɔr əkˈsɛptəbəl ðæn ˈteɪkɪŋ ˈfɔːlɪŋ ˈdæmɪdʒ ɪn sərˈvaɪvəl ˈmoʊd/",
+                    "linking": [
+                        "more acceptable → /r/ が /ə/ に連結し [ˌmɔrəkˈsɛptəbəl] モーアクセプタボル",
+                        "than taking → /n/ が /t/ に続く（子音+子音、未開放）",
+                        "in は弱形 /ɪn/ で survival の /s/ に続く"
+                    ],
+                    "kana": "ユージング ウォーター バケッツ フォー モービリティ イズ モーアクセプタボル ザン テイキング フォーリング ダメージ イン サーヴァイヴァル モード"
+                }
+            ]
+        },
+        {
+            "type": "superlative",
+            "label": "最上級",
+            "text": "most acceptable",
+            "ipa": "/ˌmoʊst əkˈsɛptəbəl/",
+            "examples": [
+                {
+                    "en": "The most acceptable strategy for avoiding creepers is placing torches around your base.",
+                    "ja": "クリーパーを避けるための最も受け入れられた戦略は、あなたの基地の周りに松明を置くことです。",
+                    "ipa": "/ðə ˈmoʊst əkˈsɛptəbəl ˈstrætədʒi fɔr əˈvɔɪdɪŋ ˈkriːpɚz ɪz ˈpleɪsɪŋ ˈtɔːrtʃɪz əˈraʊnd jɔr ˈbeɪs/",
+                    "linking": [
+                        "the は冠詞で弱形 /ðə/",
+                        "most acceptable → /t/ が /ə/ に連結し [ˈmoʊstəkˈsɛptəbəl] モースタクセプタボル",
+                        "for avoiding → /r/ が /ə/ に連結し [ˈfɚrəˈvɔɪdɪŋ] ファーアヴォイディング"
+                    ],
+                    "kana": "ザ モースタクセプタボル ストラタジー ファーアヴォイディング クリーパーズ イズ プレイシング トーチズ アラウンド ヤー ベイス"
+                },
+                {
+                    "en": "That's the most acceptable error rate for the redstone system we've built.",
+                    "ja": "それは、私たちが構築したレッドストーン システムにおいて最も許容できるエラー率です。",
+                    "ipa": "/ðæts ðə ˈmoʊst əkˈsɛptəbəl ˈɛrər ˈreɪt fɔr ðə ˈrɛdˌstoʊn ˈsɪstəm wiv bɪlt/",
+                    "linking": [
+                        "most acceptable → /t/ が /ə/ に連結し [ˈmoʊstəkˈsɛptəbəl] モースタクセプタボル",
+                        "for は弱形 /fɚ/ で、the に続く"
+                    ],
+                    "kana": "ザッツ ザ モースタクセプタボル エラー レイト ファー ザ レッドストーン システム ウィーヴ ビルト"
+                }
+            ]
+        }
+    ]
 }

@@ -56,5 +56,119 @@
       ],
       "kana": "アイ ハヴ タ アドマイア ユア デディケイション トゥ ビルディング"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "admires",
+      "ipa": "/ədˈmaɪɹz/",
+      "examples": [
+        {
+          "en": "Everyone admires our amazing castle.",
+          "ja": "みんながぼくたちの素晴らしい城を賞賛する。",
+          "ipa": "[ˌɛvɹiˈwʌn ə dˈmaɪɹz ˈaʊɚ əˈmeɪzɪŋ ˈkæsəl]",
+          "linking": [
+            "Everyone admires - 語末子音 /n/ が母音 /ə/ に連結 [ˈwʌn ə dˈmaɪɹz]",
+            "admires our - 語末子音 /z/ が母音 /aʊ/ に連結"
+          ],
+          "kana": "エブリワン アドマイアーズ アワー アメイジング キャッスル"
+        },
+        {
+          "en": "She admires the design you created.",
+          "ja": "彼女はあなたが作ったデザインを賞賛する。",
+          "ipa": "[ʃi ə dˈmaɪɹz ðə dɪˈzaɪn ju kriˈeɪtɪd]",
+          "linking": [
+            "She admires - 母音+母音の遷移で smooth に繋がる [ʃi ə dˈmaɪɹz]",
+            "the は弱形 /ðə/ で発音される。design の /d/ と連続"
+          ],
+          "kana": "シー アドマイアーズ ザ ディザイン ユー クリエイティッド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "admired",
+      "ipa": "/ədˈmaɪɹd/",
+      "examples": [
+        {
+          "en": "We admired the beautiful sunset before nightfall.",
+          "ja": "夜が来る前に、素晴らしい夕焼けを眺めました。",
+          "ipa": "[wi ə dˈmaɪɹd ðə ˈbjuːtɪfəl ˈsʌnˌsɛt bɪˈfɔɹ ˈnaɪtˌfɔl]",
+          "linking": [
+            "We admired - 語末 /d/ が母音 /ə/ に連結。admired の d は clearly heard [wi ə dˈmaɪɹd]",
+            "before nightfall - 語末 /ɹ/ が母音 /aɪ/ に連結 [bɪˈfɔɹ ˈnaɪt]"
+          ],
+          "kana": "ウィ アドマイアード ザ ビューティフル サンセット ビフォア ナイトフォール"
+        },
+        {
+          "en": "I admired your redstone design yesterday.",
+          "ja": "昨日、あなたのレッドストーン設計を賞賛しました。",
+          "ipa": "[aɪ ə dˈmaɪɹd jɔɹ ˈrɛdˌstoʊn dɪˈzaɪn ˈjɛstɚˌdeɪ]",
+          "linking": [
+            "I admired - 語末 /d/ が母音 /ə/ に連結 [aɪ ə dˈmaɪɹd]",
+            "your redstone - 語末 /ɹ/ が子音 /r/ に続く（連結なし）。redstone の /d/ が design の /d/ へ繋がる"
+          ],
+          "kana": "アイ アドマイアード ユア レッドストウン ディザイン イェスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "admired",
+      "ipa": "/ədˈmaɪɹd/",
+      "examples": [
+        {
+          "en": "The structure we had admired was destroyed by creepers.",
+          "ja": "私たちが賞賛していた建築物がクリーパーに破壊されました。",
+          "ipa": "[ðə ˈstrʌktʃɚ wi hæd ə dˈmaɪɹd wəz dɪˈstrɔɪd baɪ ˈkripɚz]",
+          "linking": [
+            "had admired - 語末 /d/ が母音 /ə/ に連結 [hæd ə dˈmaɪɹd]",
+            "was destroyed - 語末 /z/ が母音 /ɪ/ に連結 [wəz dɪˈstrɔɪd]"
+          ],
+          "kana": "ザ ストラクチャー ウィ ハッダドマイアード ワズ ディストロイド バイ クリーパーズ"
+        },
+        {
+          "en": "The creations that were admired became legendary.",
+          "ja": "賞賛されていた創作物は伝説となりました。",
+          "ipa": "[ðə kriˈeɪʃənz ðæt wɚ ə dˈmaɪɹd bɪˈkeɪm ˈlɛdʒənˌdɛri]",
+          "linking": [
+            "were admired - 語末 /ɹ/ が母音 /ə/ に連結 [wɚ ə dˈmaɪɹd]",
+            "admired became - 語末 /d/ が母音 /ɪ/ に連結 [dˈmaɪɹd bɪˈkeɪm]"
+          ],
+          "kana": "ザ クリエイションズ ザット ウェア アドマイアード ビケイム レジェンダリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "admiring",
+      "ipa": "/ədˈmaɪɹɪŋ/",
+      "examples": [
+        {
+          "en": "While admiring the landscape, I found diamonds.",
+          "ja": "風景を眺めながら、私はダイヤモンドを見つけました。",
+          "ipa": "[waɪl ə dˈmaɪɹɪŋ ðə ˈlændskeɪp aɪ ˈfaʊnd ˈdaɪəˌmɑndz]",
+          "linking": [
+            "admiring the - /ŋ/ が子音 /ð/ に続く（連結なし）。the は弱形 /ðə/",
+            "landscape I - 語末 /p/ が母音 /aɪ/ に連結 [ˈkeɪp aɪ]"
+          ],
+          "kana": "ワイル アドマイアリング ザ ランドスケイプ アイ ファウンド ダイアモンズ"
+        },
+        {
+          "en": "Players are admiring the new community build.",
+          "ja": "プレイヤーたちは新しいコミュニティの建築物を賞賛しています。",
+          "ipa": "[ˈpleɪɚz ɑɹ ə dˈmaɪɹɪŋ ðə nu kəˈmjuːnəti ˈbɪld]",
+          "linking": [
+            "are admiring - 語末 /ɹ/ が母音 /ə/ に連結 [ɑɹ ə dˈmaɪɹɪŋ]",
+            "the new - the は弱形 /ðə/。new の /u/ への母音遷移は smooth"
+          ],
+          "kana": "プレイアーズ アー アドマイアリング ザ ニュー コミュニティ ビルド"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,91 @@
       ],
       "kana": "ザ スウィート スポット フォー ディス ファーム イズ ニザ ワーター ソース"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "sweeter",
+      "ipa": "/ˈswiːɾɚ/",
+      "examples": [
+        {
+          "en": "This sugar is sweeter than honey.",
+          "ja": "この砂糖は蜂蜜より甘いです。",
+          "ipa": "/ðɪs ˈʃʊɡər ɪz ˈswiːɾɚ ðən ˈhʌni/",
+          "kana": "ディス シュガー イズ スウィーラー ザン ハニー",
+          "linking": [
+            "sugar is → sugar の語末子音 /r/ が is の /ɪ/（母音）に連結 [ˈʃʊɡərɪz] シュガーイズ",
+            "sweeter than → sweeter の語末子音 /r/ が than の初頭子音 /ð/（子音）に続く。連結しない。[ˈswiːɾəðən] スウィーラーザン"
+          ]
+        },
+        {
+          "en": "Glow berries taste sweeter than regular berries.",
+          "ja": "グロウベリーは通常のベリーより甘いです。",
+          "ipa": "/ɡloʊ ˈbɛriz ˈteɪst ˈswiːɾɚ ðən ˈrɛɡjələr ˈbɛriz/",
+          "kana": "グロウ ベリーズ テイスト スウィーラー ザン レギュラー ベリーズ",
+          "linking": [
+            "berries taste → berries の語末子音 /z/ が taste の /t/（子音）に続く。連結しない。[ˈbɛrɪts] ベリッツ",
+            "taste sweeter → taste の語末子音 /t/ が sweeter の /s/（子音）に続く。連結しない。[ˈteɪstˈswiːɾɚ] テイスト スウィーラー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "sweetest",
+      "ipa": "/ˈswiːɾəst/",
+      "examples": [
+        {
+          "en": "This fruit is the sweetest in the entire cave system.",
+          "ja": "この果実は洞窟システム全体で最も甘いです。",
+          "ipa": "/ðɪs ˈfrutː ɪz ðə ˈswiːɾəst ɪn ðə ɪnˈtaɪr ˈkeɪv ˈsɪstəm/",
+          "kana": "ディス フルート イズ ザ スウィーレスト イン ザ インタイア ケイヴ システム",
+          "linking": [
+            "is the → is の語末子音 /z/ が the の弱形 /ðə/ に続く。連結しない。[ɪzðə] イザ",
+            "in the → in の語末子音 /n/ が the の /ð/（子音）に続く。連結しない。[ɪnðə] イナ"
+          ]
+        },
+        {
+          "en": "Mining gold ore at night gives the sweetest rewards.",
+          "ja": "夜間に金鉱石を採掘すると、最も良い報酬が得られます。",
+          "ipa": "/ˈmaɪnɪŋ ɡoʊld ɔr æt ˈnaɪt ɡɪvz ðə ˈswiːɾəst rɪˈwɔrdz/",
+          "kana": "マイニング ゴールド オア アット ナイト ギブス ザ スウィーレスト リワードス",
+          "linking": [
+            "ore at → ore の語末子音 /r/ が at の /æ/（母音）に連結 [ɔrˈæt] オラット",
+            "gives the → gives の語末子音 /z/ が the の弱形 /ðə/ に続く。連結しない。[ɪzðə] イザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "sweets",
+      "ipa": "/swits/",
+      "examples": [
+        {
+          "en": "I found sweets in the treasure chest.",
+          "ja": "私は宝箱からお菓子を見つけました。",
+          "ipa": "/aɪ ˈfaʊnd swits ɪn ðə ˈtreʒər ˈtʃest/",
+          "kana": "アイ ファウンド スウィーツ イン ザ トレジャー チェスト",
+          "linking": [
+            "found sweets → found の語末子音 /d/ が sweets の /s/（子音）に続く。連結しない。[faʊnts] ファウンツ",
+            "in the → in の語末子音 /n/ が the の /ð/（子音）に続く。連結しない。[ɪnðə] イナ"
+          ]
+        },
+        {
+          "en": "These sweets restore health when you need it most.",
+          "ja": "これらのお菓子は、最も必要な時に体力を回復します。",
+          "ipa": "/ðiz swits rɪˈstɔr ˈhɛlθ wen ju ˈniːd ɪt ˈmoʊst/",
+          "kana": "ディーズ スウィーツ リストア ヘルス ウェン ユー ニード イット モウスト",
+          "linking": [
+            "These sweets → These の語末子音 /z/ が sweets の /s/（子音）に続く。連結しない。[ðizswits] ディーズスウィーツ",
+            "need it → need の語末子音 /d/ が it の /ɪ/（母音）に連結 [ˈniːdɪt] ニーディット"
+          ]
+        }
+      ]
+    }
   ]
 }

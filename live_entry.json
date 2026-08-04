@@ -31,7 +31,6 @@
       "ipa": "/ˈvɪlɪdʒərz lɪv ən ˈwɝk ɪn ðə ˈvɪlɪdʒ/",
       "kana": "ヴィリジャーズ リヴ アン ワーク イン ザ ヴィリジ",
       "linking": [
-        "Villagers の末子音 /z/ が live の初母音 /i/ に連結して [ˈvɪlɪdʒərz lɪv]",
         "and は弱形 /ən/ に弱化",
         "the は冠詞で弱形 /ðə/"
       ]
@@ -183,6 +182,95 @@
             "we've = we have の末子音 /v/ が gathered の初子音 /ɡ/ に続く（子音なので連結なし）"
           ],
           "kana": "ウィア リヴィング アフ ザ レソーシズ ウィヴ ガザード フラム ザ ファーム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is living",
+      "ipa": "/ɪz ˈlɪvɪŋ/",
+      "examples": [
+        {
+          "en": "I am living in a wooden shelter.",
+          "ja": "私は木造の避難所に住んでいます。",
+          "ipa": "/aɪ əm ˈlɪvɪŋ ɪn ə ˈwʊdən ˈʃɛltər/",
+          "linking": [
+            "am は弱形 /əm/",
+            "in a では「in」の末子音 /n/ が「a」の初母音 /ə/ に連結 [ɪnə] インア",
+            "a は弱形 /ə/"
+          ],
+          "kana": "アイ アム リヴィング インア ウッデン シェルター"
+        },
+        {
+          "en": "Players are living peacefully in the village.",
+          "ja": "プレイヤーたちはこの村で平和に暮らしています。",
+          "ipa": "/ˈpleɪərz ər ˈlɪvɪŋ ˈpiːsfəli ɪn ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "Players の末子音 /z/ が are の初母音 /ə/ に連結 [ˈpleɪərzə r]",
+            "are は弱形 /ər/",
+            "in the では「in」の末子音 /n/ が「the」の初母音に連結、「the」は弱形 /ðə/ [ɪnðə] インザ"
+          ],
+          "kana": "プレイアーザー リヴィング ピースフリー インザ ヴィリジ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was living",
+      "ipa": "/wəz ˈlɪvɪŋ/",
+      "examples": [
+        {
+          "en": "We were living near the spawn point when the creeper appeared.",
+          "ja": "クリーパーが現れたとき、私たちはスポーン地点の近くに住んでいました。",
+          "ipa": "/wi wər ˈlɪvɪŋ nɪr ðə ˈspɔn pɔɪnt wɛn ðə ˈkripər əˈpɪrd/",
+          "linking": [
+            "were は弱形 /wər/",
+            "near the では「near」の末子音 /r/ が「the」の初母音に連結、「the」は弱形 /ðə/ [nɪrðə] ニアザ",
+            "spawn point では「spawn」の末子音 /n/ が「point」の初子音 /p/ に未開放で続く [spɔn̚ pɔɪnt] スポーッ ポイント"
+          ],
+          "kana": "ウィ ワー リヴィング ニアザ スポーッ ポイント ウェンザ クリーパー アピアード"
+        },
+        {
+          "en": "They were living underground before the update.",
+          "ja": "彼らは更新前に地下に住んでいました。",
+          "ipa": "/ðeɪ wər ˈlɪvɪŋ ˌʌndɚˈɡraʊnd bɪˈfɔr ðə ˈʌpdeɪt/",
+          "linking": [
+            "were は弱形 /wər/",
+            "before the では「before」の末子音 /r/ が「the」の初母音に連結、「the」は弱形 /ðə/ [bɪˈfɔrðə] ビフォアザ"
+          ],
+          "kana": "ゼイ ワー リヴィング アンダーグラウンド ビフォアザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been living",
+      "ipa": "/həd bɪn ˈlɪvɪŋ/",
+      "examples": [
+        {
+          "en": "We had been living in that base for many days.",
+          "ja": "私たちはその基地で多くの日間住んでいました。",
+          "ipa": "/wi həd bɪn ˈlɪvɪŋ ɪn ðæt beɪs fɔr ˈmɛni deɪz/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fər/ に弱化"
+          ],
+          "kana": "ウィ ハド ビン リヴィング イン ザット ベイス ファー メニー デイズ"
+        },
+        {
+          "en": "They had been living peacefully until the raid started.",
+          "ja": "彼らは襲撃が始まるまで平和に住んでいました。",
+          "ipa": "/ðeɪ həd bɪn ˈlɪvɪŋ ˈpiːsfəli ənˈtɪl ðə reɪd ˈstɑrtəd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "until the では「until」の末子音 /l/ が「the」の初母音に連結、「the」は弱形 /ðə/ [ənˈtɪlðə] アンティルザ"
+          ],
+          "kana": "ゼイ ハド ビン リヴィング ピースフリー アンティルザ レイド スターテッド"
         }
       ]
     }

@@ -43,5 +43,93 @@
       "kana": "ビルディング ア ジャイント ストラクチャー リクワイアーズ ティムワーク アン プレニング"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "giants",
+      "ipa": "/ˈdʒaɪənts/",
+      "examples": [
+        {
+          "en": "I beat all the giants attacking me!",
+          "ja": "私を攻撃してきた巨人たちを全員倒しました！",
+          "ipa": "[aɪ ˈbiːtɔːl ðə ˈdʒaɪənts əˈtækɪŋ mi]",
+          "linking": [
+            "beat + all → /t/ (beat の語末) が母音 /ɔ/ (all の語頭) に連結し [ˈbiːtɔːl]",
+            "the giants → \"the\" は子音の前で弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイ ビートール ザ ジャイアンツ アタッキング ミー"
+        },
+        {
+          "en": "Mine more ore to craft better tools for the giants!",
+          "ja": "巨人たちのためにより多くの鉱石を採掘してよりよいツールを作ります！",
+          "ipa": "[maɪn ˈmɔːrɔːr tə kræft ˈbɛɾər tulz fɔr ðə ˈdʒaɪənts]",
+          "linking": [
+            "more + ore → /r/ (more の語末) が母音 /ɔ/ (ore の語頭) に連結して滑らかに繋がる [ˈmɔːrɔːr]",
+            "to → 機能語として弱形 /tə/ に弱化",
+            "better → /t/ が二つの母音に挟まれてフラップ化し [ɾ]、ベラー と聞こえる",
+            "the giants → \"the\" は弱形 /ðə/"
+          ],
+          "kana": "マイン モーロー タ クラフト ベラー トゥールズ フォー ザ ジャイアンツ"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "more giant",
+      "ipa": "/mɔːr ˈdʒaɪənt/",
+      "examples": [
+        {
+          "en": "I discovered a more giant structure than I expected in the End!",
+          "ja": "End での予期した以上により巨大な建造物を発見しました！",
+          "ipa": "[aɪ dɪsˈkʌvɚd ə ˈmɔːr ˈdʒaɪənt ˈstrʌktʃɚ ðænˈaɪ ɪkˈspɛktəd ɪn ðə ˈɛnd]",
+          "linking": [
+            "than + I → /n/ (than の語末) が母音 /aɪ/ (I の語頭) に連結して [ðænˈaɪ]",
+            "the End → \"the\" は弱形 /ðə/"
+          ],
+          "kana": "アイ ディスカヴァード ア モー ジャイアント ストラクチャー ザナイ イクスペクティッド イン ザ エンド"
+        },
+        {
+          "en": "Some giants are more giant than others in appearance!",
+          "ja": "何人かの巨人は見た目でよりほかより巨人らしく見えます！",
+          "ipa": "[səm ˈdʒaɪənts ɑr ˈmɔːr ˈdʒaɪənt ðænˈʌðɚz ɪnəˈpɪrəns]",
+          "linking": [
+            "than + others → /n/ (than の語末) が母音 /ʌ/ (others の語頭) に連結して [ðænˈʌðɚz]",
+            "in + appearance → /n/ (in の語末) が母音 /ə/ (appearance の語頭) に連結して [ɪnəˈpɪrəns]"
+          ],
+          "kana": "サム ジャイアンツ アー モー ジャイアント ザナザーズ イナピアランス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "most giant",
+      "ipa": "/moʊst ˈdʒaɪənt/",
+      "examples": [
+        {
+          "en": "That's the most giant structure I've ever seen in Minecraft!",
+          "ja": "これは Minecraft で今まで見た中で最も巨大な建造物です！",
+          "ipa": "[ðæts ðə ˈmoʊst ˈdʒaɪənt ˈstrʌktʃɚ aɪˈvɛvɚ ˈsin ɪn ˈmaɪnkræft]",
+          "linking": [
+            "the most → \"the\" は子音の前で弱形 /ðə/ に弱化",
+            "I've + ever → /v/ (I've の語末) が母音 /ɛ/ (ever の語頭) に連結して [aɪˈvɛvɚ]"
+          ],
+          "kana": "ザッツ ザ モウスト ジャイアント ストラクチャー アイヴェバー シーン イン マインクラフト"
+        },
+        {
+          "en": "The most giant creatures spawn in the Nether!",
+          "ja": "最も巨大な生き物はネザーでスポーンします！",
+          "ipa": "[ðə ˈmoʊst ˈdʒaɪənt ˈkritʃɚz ˈspɔn ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "the most → \"the\" は子音の前で弱形 /ðə/",
+            "in the Nether → \"the\" は子音の前で弱形 /ðə/"
+          ],
+          "kana": "ザ モウスト ジャイアント クリーチャーズ スポーン イン ザ ネザー"
+        }
+      ]
+    }
+  ]
 }

@@ -53,5 +53,35 @@
       ],
       "kana": "アイ ニード タ スモーク ア シガレット ビフォー ウィー イクスプロア ザ ディープ ダーク ケイヴズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "cigarettes",
+      "ipa": "/ˌsɪɡəˈrɛts/",
+      "examples": [
+        {
+          "en": "I need more cigarettes for the village market.",
+          "ja": "村のマーケット用にもっと多くのタバコが必要です。",
+          "ipa": "/aɪ ˈniːd mɔr ˌsɪɡəˈrɛts fɔr ðə ˈvɪlɪdʒ ˈmɑrkət/",
+          "linking": [
+            "need の末尾子音 /d/ が more の初頭音 /m/ に未開放で連結 [ˈniːd̚ mɔr] ニード モア",
+            "for と the は弱形。for は /fɔr/、the は /ðə/ [fɔrðə] フォー ザ"
+          ],
+          "kana": "アイ ニード モア シガレッツ フォー ザ ビリッジ マーケット"
+        },
+        {
+          "en": "Stack these cigarettes in the storage chest.",
+          "ja": "これらのタバコを保管箱に積み重ねてください。",
+          "ipa": "/stæk ðiz ˌsɪɡəˈrɛts ɪn ðə ˈstɔrɪdʒ tʃɛst/",
+          "linking": [
+            "Stack の末尾子音 /k/ が these の初頭音 /ð/ に未開放で連結 [stæk̚ ðiz] スタック ディーズ",
+            "the は弱形 /ðə/ [ɪnðə] イン ザ"
+          ],
+          "kana": "スタック ディーズ シガレッツ イン ザ ストレッジ チェスト"
+        }
+      ]
+    }
   ]
 }

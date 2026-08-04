@@ -1,0 +1,252 @@
+{
+  "word": "install",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɪnˈstɔl/",
+  "rank": 1847,
+  "level": "A2",
+  "hi": "install|installs|installed|installing",
+  "meanings": [
+    "【動詞】～をインストール・設置する；機械・装置などを据え付ける（to put a device, equipment, or software in place for use）",
+    "【動詞】～を就任させる；任命する（to place someone in an official position）",
+    "【名詞】インストール・設置；据え付けられたもの（a device or system that is installed）"
+  ],
+  "examples": [
+    {
+      "en": "You can install mods to customize your Minecraft experience.",
+      "ja": "マインクラフト体験をカスタマイズするためにモッドをインストールできます。",
+      "ipa": "/ju kən ɪnˈstɔl ˈmɑdz tu ˈkʌstəˌmaɪz jɚ ˈmaɪnˌkræft ɪkˈspɪriəns/",
+      "linking": [
+        "can install → can は弱形 /kən/、install の /ɪ/ に連結 [kən ɪnˈstɔl]",
+        "install mods → /l/ が子音 /m/ に続く [ɪnˈstɔl ˈmɑdz]",
+        "customize your → /z/ が子音 /j/ に続く [ˈkaɪz jɚ]"
+      ],
+      "kana": "ユー キャン インストール モッズ トゥー カスタマイズ ユアー マインクラフト エクスピアリエンス"
+    },
+    {
+      "en": "Installing shaders will significantly improve the visual quality of your world.",
+      "ja": "シェーダーをインストールすると、あなたのワールドのビジュアル品質が大幅に向上します。",
+      "ipa": "/ɪnˈstɔlɪŋ ˈʃeɪdərz wɪl sɪɡˈnɪfɪkəntli ɪmˈpruːv ðə ˈvɪʒuəl ˈkwɑləti əv jɚ ˈwɜrld/",
+      "linking": [
+        "shaders will → shaders の末尾 /z/ が will の初期子音 /w/ に先行 [ˈʃeɪdərz wɪl]",
+        "of your → /v/ が子音 /j/ に続く [əv jɚ]"
+      ],
+      "kana": "インストーリング シェイダーズ ウィル シグニフィキャントリー イムプルーヴ ザ ビジュアル クォリティ オヴ ユアー ワールド"
+    },
+    {
+      "en": "We need to install protective barriers around our base to prevent mob attacks.",
+      "ja": "モブ攻撃を防ぐために、私たちの基地の周りに保護バリアをインストールする必要があります。",
+      "ipa": "/wi ˈniːd tu ɪnˈstɔl prəˈtɛktɪv ˈbæriərz əˈraʊnd ˈaʊɚ ˈbeɪs tu prɪˈvɛnt ˈmɑb əˈtæks/",
+      "linking": [
+        "to install → to は弱形 /tə/",
+        "barriers around → barriers の末尾 /z/ が around の母音 /ə/ に連結 [ˈbæriərz əˈraʊnd]",
+        "around our → /d/ が子音 /aʊ/ に続く（未開放）[əˈraʊnd ˈaʊɚ]"
+      ],
+      "kana": "ウィ ニード トゥー インストール プロテクティヴ バリアーズ ア・ラウンド アワー ベイス トゥー プリヴェント モブ アタックス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "install someone in",
+      "ja": "〜の職に～を任命する、就任させる",
+      "example": "The admin will install the new manager in charge of the server.",
+      "example_ja": "管理者は新しいマネージャーをサーバーの責任者に任命するでしょう。",
+      "ipa": "/ðə ˈædmɪn wɪl ɪnˈstɔl ðə ˈnjuː ˈmænɪdʒər ɪn tʃɑrdʒ əv ðə ˈsɝːvər/",
+      "linking": [
+        "install the → the は弱形 /ðə/",
+        "manager in → manager の末尾 /r/ が in の初期子音 /ɪ/ に連結 [ˈmænɪdʒər ɪn]",
+        "of the → /v/ が子音 /ð/ に続く [əv ðə]"
+      ],
+      "kana": "ザ アドミン ウィル インストール ザ ニュー マネジャー イン チャージ オヴ ザ サーバー"
+    },
+    {
+      "idiom": "fresh install",
+      "ja": "クリーン・インストール、新規インストール",
+      "example": "After a fresh install of the mod pack, everything runs smoothly.",
+      "example_ja": "モッドパックの新規インストール後、すべてがスムーズに実行されます。",
+      "ipa": "/ˈæftər ə ˈfrɛʃ ɪnˈstɔl əv ðə ˈmɑd ˈpæk | ˈɛvriˌθɪŋ ˈɹʌnz ˈsmuːðli/",
+      "linking": [
+        "fresh install → /ʃ/ が子音 /ɪ/ に続く [ˈfrɛʃ ɪnˈstɔl]",
+        "of the → /v/ が子音 /ð/ に続く [əv ðə]"
+      ],
+      "kana": "アフター ア フレッシュ インストール オヴ ザ モッド パック、エヴリシング ランズ スムーズリー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I installed all the required mods before joining the server.",
+      "ja": "サーバーに参加する前に、必要なすべてのモッドをインストールしました。",
+      "ipa": "/aɪ ɪnˈstɔld ˈɔl ðə rɪˈkwaɪrd ˈmɑdz bɪˈfɔr ˈdʒɔɪnɪŋ ðə ˈsɝːvər/",
+      "linking": [
+        "all the → all の末尾 /l/ が the の初期子音 /ð/ に先行 [ˈɔl ðə] オール・ザ",
+        "before joining → /r/ が子音に続く [bɪˈfɔr ˈdʒɔɪnɪŋ]"
+      ],
+      "kana": "アイ インストールド オール ザ リクワイアード モッズ ビフォー ジョイニング ザ サーバー"
+    },
+    {
+      "en": "The new texture pack installs automatically when you launch the launcher.",
+      "ja": "ランチャーを起動すると、新しいテクスチャパックが自動的にインストールされます。",
+      "ipa": "/ðə ˈnjuː ˈtɛkstʃər ˈpæk ɪnˈstɔlz ˌɔːtəˈmætɪkli wɛn ju ˈlɔntʃ ðə ˈlɔntʃər/",
+      "linking": [
+        "the new → the は弱形 /ðə/",
+        "pack installs → /k/ が子音に続く [ˈpæk ɪnˈstɔlz]",
+        "when you → /n/ が子音に続く [wɛn ju] ウェン・ユー"
+      ],
+      "kana": "ザ ニュー テクスチャー パック インストールズ オートマティキリー ウェン ユー ローンチ ザ ローンチャー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "installs",
+      "ipa": "/ɪnˈstɔlz/",
+      "examples": [
+        {
+          "en": "The player installs custom blocks to create unique structures in the world.",
+          "ja": "プレイヤーはカスタムブロックをインストールして、ワールド内でユニークな構造を作成します。",
+          "ipa": "/ðə ˈpleɪər ɪnˈstɔlz ˈkʌstəm ˈblɑks tu kriˈeɪt juˈnik ˈstrʌktʃərz ɪn ðə ˈwɜrld/",
+          "linking": [
+            "the player → the は弱形 /ðə/",
+            "player installs → player の末尾 /r/ が installs の初期子音 /ɪ/ に連結 [ˈpleɪər ɪnˈstɔlz] プレイヤー インストールズ",
+            "blocks to → /s/ が子音に続く [ˈblɑks tə]",
+            "structures in → /z/ が母音 /ɪ/ に連結 [ˈstrʌktʃərz ɪn]"
+          ],
+          "kana": "ザ プレイヤー インストールズ カスタム ブロックス トゥー クリエイト ユニーク ストラクチャーズ イン ザ ワールド"
+        },
+        {
+          "en": "She installs resource packs frequently to keep the game visually fresh.",
+          "ja": "彼女はゲームを視覚的に新鮮に保つため、頻繁にリソースパックをインストールします。",
+          "ipa": "/ʃi ɪnˈstɔlz ˈrɛsərs ˈpæks ˈfrikwəntli tu ˈkip ðə ˈɡeɪm ˈvɪʒuəli ˈfrɛʃ/",
+          "linking": [
+            "installs resource → installs の末尾 /z/ が resource の初期子音 /r/ に先行 [ɪnˈstɔlz ˈrɛsərs] インストールズ・レソースィーズ",
+            "packs frequently → /s/ が子音に続く [ˈpæks ˈfrikwəntli]",
+            "keep the → /p/ が子音に続く [ˈkip ðə]"
+          ],
+          "kana": "シー インストールズ リソース パックス フリークウェントリー トゥー キープ ザ ゲイム ビジュアリー フレッシュ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "installed",
+      "ipa": "/ɪnˈstɔld/",
+      "examples": [
+        {
+          "en": "I installed the shader mod yesterday and the graphics look amazing now.",
+          "ja": "昨日シェーダーモッドをインストールしたので、グラフィックスが今素晴らしく見えます。",
+          "ipa": "/aɪ ɪnˈstɔld ðə ˈʃeɪdər ˈmɑd ˈjɛstərˌdeɪ ənd ðə ˈɡræfɪks ˈlʊk əˈmeɪzɪŋ ˈnaʊ/",
+          "linking": [
+            "installed the → /d/ が子音に続く [ɪnˈstɔld ðə]",
+            "mod yesterday → mod の末尾 /d/ が yesterday の初期子音 /j/ に先行（未開放）[ˈmɑd ˈjɛstərˌdeɪ]",
+            "and the → and は弱形 /ənd/ で the の弱形 /ðə/ に続く [ənd ðə] アンド・ザ"
+          ],
+          "kana": "アイ インストールド ザ シェイダー モッド イェスタデイ エンド ザ グラフィックス ルック ア・メイジング ナウ"
+        },
+        {
+          "en": "We installed protective walls around our base after the last mob raid.",
+          "ja": "前回のモブ襲撃の後、私たちは基地の周りに保護壁をインストールしました。",
+          "ipa": "/wi ɪnˈstɔld prəˈtɛktɪv ˈwɔlz əˈraʊnd ˈaʊɚ ˈbeɪs ˈæftər ðə ˈlæst ˈmɑb ˈreɪd/",
+          "linking": [
+            "installed protective → /d/ が子音に続く [ɪnˈstɔld prəˈtɛktɪv]",
+            "around our → /d/ が子音に続き未開放 [əˈraʊnd ˈaʊɚ] ア・ラウンド・アワー",
+            "after the → /r/ が子音に続く [ˈæftər ðə]"
+          ],
+          "kana": "ウィ インストールド プロテクティヴ ウォールズ ア・ラウンド アワー ベイス アフター ザ ラスト モブ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "installed",
+      "ipa": "/ɪnˈstɔld/",
+      "examples": [
+        {
+          "en": "Having installed several modification packs, the game now feels completely different.",
+          "ja": "いくつかの変更パックをインストールしたので、ゲームは今はまったく異なります。",
+          "ipa": "/ˈhævɪŋ ɪnˈstɔld ˈsɛvərəl ˌmɑdɪfɪˈkeɪʃən ˈpæks | ðə ˈɡeɪm ˈnaʊ ˈfilz kəmˈplitli ˈdɪfərənt/",
+          "linking": [
+            "installed several → /d/ が子音に続く [ɪnˈstɔld ˈsɛvərəl]",
+            "packs the → packs の末尾 /s/ が the の初期子音 /ð/ に先行 [ˈpæks ðə]",
+            "now feels → now の末尾 /aʊ/ が feels の初期子音 /f/ に先行 [ˈnaʊ ˈfilz]"
+          ],
+          "kana": "ハービング インストールド セヴァラル モディフィケーション パックス、ザ ゲイム ナウ フィールズ コムプリートリー ディファレント"
+        },
+        {
+          "en": "The newly installed texture pack transformed how the landscape looks.",
+          "ja": "新たにインストールされたテクスチャパックは、ランドスケープの見え方を変えました。",
+          "ipa": "/ðə ˈnuːli ɪnˈstɔld ˈtɛkstʃər ˈpæk trænsˈfɔrmd ˈhaʊ ðə ˈlændskeɪp ˈlʊks/",
+          "linking": [
+            "newly installed → /i/ が子音に続く [ˈnuːli ɪnˈstɔld] ニューリー インストールド",
+            "pack transformed → /k/ が子音に続く [ˈpæk trænsˈfɔrmd]",
+            "landscape looks → /p/ が子音に続く [ˈlændskeɪp ˈlʊks]"
+          ],
+          "kana": "ザ ニューリー インストールド テクスチャー パック トランスフォームド ハウ ザ ランドスケイプ ルックス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "installing",
+      "ipa": "/ɪnˈstɔlɪŋ/",
+      "examples": [
+        {
+          "en": "I'm installing new mods right now to improve the server performance.",
+          "ja": "サーバーのパフォーマンスを改善するために、今新しいモッドをインストール中です。",
+          "ipa": "/aɪm ɪnˈstɔlɪŋ ˈnjuː ˈmɑdz ˈraɪt ˈnaʊ tu ɪmˈpruːv ðə ˈsɝːvər pərˈfɔrməns/",
+          "linking": [
+            "I'm installing → /m/ が子音に続く [aɪm ɪnˈstɔlɪŋ] アイム インストーリング",
+            "new mods → /u/ が子音に続く [ˈnjuː ˈmɑdz]",
+            "right now → right の末尾 /t/ が now の母音 /n/ に連結（未開放）[ˈraɪt̚ ˈnaʊ]"
+          ],
+          "kana": "アイム インストーリング ニュー モッズ ライト ナウ トゥー イムプルーヴ ザ サーバー パフォーマンス"
+        },
+        {
+          "en": "While installing the texture pack, make sure your computer has enough storage space.",
+          "ja": "テクスチャパックをインストール中に、コンピュータに十分なストレージスペースがあることを確認してください。",
+          "ipa": "/ˈwaɪl ɪnˈstɔlɪŋ ðə ˈtɛkstʃər ˈpæk | ˈmeɪk ˈʃʊr jɚ kəmˈpjuːtər ˈhæz ɪˈnʌf ˈstɔrɪdʒ ˈspeɪs/",
+          "linking": [
+            "While installing → while の末尾 /l/ が installing の初期子音 /ɪ/ に連結 [ˈwaɪl ɪnˈstɔlɪŋ] ワイル インストーリング",
+            "installing the → /ŋ/ が子音に続く [ɪnˈstɔlɪŋ ðə]",
+            "make sure → /k/ が子音に続く [ˈmeɪk ˈʃʊr]"
+          ],
+          "kana": "ワイル インストーリング ザ テクスチャー パック、メイク シュアー ユアー コンピューター ハズ イナフ ストレッジ スペイス"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "installs",
+      "ipa": "/ɪnˈstɔlz/",
+      "examples": [
+        {
+          "en": "We maintain multiple game installs for testing different mod configurations.",
+          "ja": "異なるモッド構成をテストするために、複数のゲームインストールを保守しています。",
+          "ipa": "/wi meɪnˈteɪn ˈmʌltɪpəl ˈɡeɪm ɪnˈstɔlz fɔr ˈtɛstɪŋ ˈdɪfərənt ˈmɑd ˌkɑnfɪɡəˈreɪʃənz/",
+          "linking": [
+            "maintain multiple → multiple の末尾 /l/ が game の初期子音 /ɡ/ に先行 [ˈmʌltɪpəl ˈɡeɪm]",
+            "game installs → game の末尾 /m/ が installs の初期子音 /ɪ/ に連結 [ˈɡeɪm ɪnˈstɔlz] ゲイム インストールズ",
+            "for testing → /r/ が子音に続く [fɔr ˈtɛstɪŋ]"
+          ],
+          "kana": "ウィ メイテイン マルチプル ゲイム インストールズ フォー テスティング ディファレント モッド コンフィギュレイションズ"
+        },
+        {
+          "en": "Each server requires separate installs of the core mods.",
+          "ja": "各サーバーは、コアモッドの個別のインストールを必要とします。",
+          "ipa": "/itʃ ˈsɝːvər rɪˈkwaɪrz ˈsɛpərət ɪnˈstɔlz əv ðə ˈkɔr ˈmɑdz/",
+          "linking": [
+            "Each server → each の末尾 /tʃ/ が server の初期子音 /s/ に先行 [itʃ ˈsɝːvər] イーチ・サーバー",
+            "server requires → server の末尾 /r/ が requires の初期子音 /r/ に先行 [ˈsɝːvər rɪˈkwaɪrz] サーバー リクワイアーズ",
+            "separate installs → /t/ が子音に続く [ˈsɛpərət ɪnˈstɔlz]",
+            "of the → /v/ が子音に続く [əv ðə]"
+          ],
+          "kana": "イーチ サーバー リクワイアーズ セパレット インストールズ オヴ ザ コア モッズ"
+        }
+      ]
+    }
+  ]
+}

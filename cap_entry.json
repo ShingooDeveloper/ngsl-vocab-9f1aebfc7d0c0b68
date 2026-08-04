@@ -58,5 +58,168 @@
       ],
       "kana": "ウィ キャッポフ ザ プロジェクト ウィザ ザ ファイナル タッチーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "caps",
+      "ipa": "/kæps/",
+      "examples": [
+        {
+          "en": "Players wear different colored caps to show their team membership.",
+          "ja": "プレイヤーはチーム所属を示すために色付きのキャップをかぶっています。",
+          "ipa": "/ˈpleɪərz wɛr ˈdɪfərənt ˈkʌlərd ˈkæps tə ʃoʊ ðɛr ˈtiːm ˈmɛmbərʃɪp/",
+          "linking": [
+            "players wear → /z/ + /w/ = 子音+子音（連結なし）",
+            "caps to → /s/ + /t/ = 子音+子音（連結なし）、to は弱形 /tə/",
+            "to show → /ə/ + /ʃ/ = 母音+子音（連結なし）"
+          ],
+          "kana": "プレイヤーズ ウェア ディファレント カラード キャップス トゥ ショウ ゼア ティーム メンバーシップ"
+        },
+        {
+          "en": "We collected caps from mobs as trophies and traded them for resources.",
+          "ja": "私たちはモブからキャップを戦利品として集め、リソースと交換しました。",
+          "ipa": "/wiː kəˈlɛktəd ˈkæps frəm ˈmɑbz æz ˈtroʊfiz ənd ˈtreɪdəd ðɛm fɔr ˈrɛsɚsɪz/",
+          "linking": [
+            "collected caps → /d/ + /k/ = 子音+子音（連結なし）",
+            "mobs as → mobs の末尾 /z/ が as の初期母音 /æ/ に連結 [ˈmɑbz æz]",
+            "as trophies → /z/ + /t/ = 子音+子音（連結なし）"
+          ],
+          "kana": "ウィ コレクティッド キャップス フラム モブズ・アズ トロフィーズ アンド トレーディッド ゼム フォー リソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "caps",
+      "ipa": "/kæps/",
+      "examples": [
+        {
+          "en": "The redstone circuit caps the output at exactly 64 items per second.",
+          "ja": "レッドストーン回路は出力を正確に1秒あたり64個のアイテムに制限します。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɜrkət ˈkæps ðə ˈaʊtpʊt æt ɪɡˈzæktli ˈsɪksti ˈfoʊr ˈaɪtəmz pər ˈsɛkənd/",
+          "linking": [
+            "the redstone → the の弱形 /ðə/",
+            "circuit caps → /t/ + /k/ = 子音+子音（連結なし）",
+            "caps the → /s/ + /ð/ = 子音+子音（連結なし）",
+            "output at → output の末尾 /t/ が at の初期母音 /æ/ に連結 [ˈaʊtpʊt æt]"
+          ],
+          "kana": "ザ レッドストーン サーキット キャップス ザ アウトプット・アット イグザクトリー シックスティ フォー アイテムズ パー セコンド"
+        },
+        {
+          "en": "The hopper caps at exactly 64 slots, so it stops receiving items when full.",
+          "ja": "ホッパーは正確に64スロットで上限に達するため、満杯になるとアイテムを受け付けなくなります。",
+          "ipa": "/ðə ˈhɑpər ˈkæps æt ɪɡˈzæktli ˈsɪksti ˈfoʊr ˈsloʊts | soʊ ɪt ˈstɑps rɪˈsiːvɪŋ ˈaɪtəmz wɛn ˈfʊl/",
+          "linking": [
+            "hopper caps → /r/ + /k/ = 子音+子音（連結なし）",
+            "caps at → caps の末尾 /s/ が at の初期母音 /æ/ に連結 [ˈkæps æt]",
+            "it stops → /t/ + /s/ = 子音+子音（連結なし）",
+            "when full → /n/ + /f/ = 子音+子音（連結なし）"
+          ],
+          "kana": "ザ ハーパー キャップス・アット イグザクトリー シックスティ フォー スロッツ、ソウ イット スタップス リシーヴィング アイテムズ ウェン フル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "capped",
+      "ipa": "/ˈkæpəd/",
+      "examples": [
+        {
+          "en": "I capped the entrance with wooden blocks to keep the mobs out.",
+          "ja": "木製ブロックで入口を塞ぎ、モブを追い出しました。",
+          "ipa": "/aɪ ˈkæpəd ðə ˈɛntrəns wɪð ˈwʊdn̩ ˈblɑks tə ˈkiːp ðə ˈmɑbz ˈaʊt/",
+          "linking": [
+            "capped the → /d/ + /ð/ = 子音+子音（連結なし）",
+            "with wooden → /ð/ + /w/ = 子音+子音（連結なし）",
+            "wooden blocks → /n̩/ + /b/ = 音節的鼻音+子音（連結なし）",
+            "blocks to → /s/ + /t/ = 子音+子音（連結なし）、to は弱形 /tə/"
+          ],
+          "kana": "アイ キャップド・ザ エントランス ウィズ ウッデン ブロックス トゥ キープ ザ モブズ アウット"
+        },
+        {
+          "en": "We capped all the water sources to prevent flooding in the barn.",
+          "ja": "納屋の洪水を防ぐため、すべての水源を塞ぎました。",
+          "ipa": "/wiː ˈkæpəd ˈɔl ðə ˈwɔtər ˈsɔrsɪz tə prɪˈvɛnt ˈflʌdɪŋ ɪn ðə ˈbɑrn/",
+          "linking": [
+            "capped all → capped の末尾 /d/ が all の初期母音 /ɔ/ に連結 [ˈkæpəd ˈɔl]",
+            "all the → /l/ + /ð/ = 子音+子音（連結なし）",
+            "water sources → /r/ + /s/ = 子音+子音（連結なし）",
+            "sources to → /z/ + /t/ = 子音+子音（連結なし）、to は弱形 /tə/"
+          ],
+          "kana": "ウィ キャップド・オール ザ ウォーター ソーシズ トゥ プリヴェント フラッディング イン ザ バーン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "capped",
+      "ipa": "/ˈkæpəd/",
+      "examples": [
+        {
+          "en": "The capped hole has prevented mobs from spawning underneath the base.",
+          "ja": "塞がれた穴がベースの下にモブがスポーンするのを防いでいます。",
+          "ipa": "/ðə ˈkæpəd ˈhoʊl ˈhæz prɪˈvɛntəd ˈmɑbz frəm ˈspɔnɪŋ ˈʌndərˌniːθ ðə ˈbeɪs/",
+          "linking": [
+            "the capped → the の弱形 /ðə/ + /k/ = 母音+子音（連結なし）",
+            "capped hole → /d/ + /h/ = 子音+子音（連結なし）",
+            "hole has → /l/ + /h/ = 子音+子音（連結なし）",
+            "prevented mobs → /d/ + /m/ = 子音+子音（連結なし）"
+          ],
+          "kana": "ザ キャップド ホウル ハズ プリヴェンティッド モブズ フラム スポーニング アンダーニース ザ ベイス"
+        },
+        {
+          "en": "Having capped the redstone inputs, the contraption now runs at exactly 20 ticks per second.",
+          "ja": "レッドストーン入力を制限した後、装置は正確に1秒あたり20ティックで実行されています。",
+          "ipa": "/ˈhævɪŋ ˈkæpəd ðə ˈrɛdˌstoʊn ˈɪnˌpʊts | ðə kənˈtræpʃən ˈnaʊ ˈrʌnz æt ɪɡˈzæktli ˈtwɛnti ˈtɪks pər ˈsɛkənd/",
+          "linking": [
+            "having capped → /ŋ/ + /k/ = 子音+子音（連結なし）",
+            "capped the → /d/ + /ð/ = 子音+子音（連結なし）",
+            "redstone inputs → /n/ + /ɪ/ = 子音+母音（連結なし）",
+            "now runs → /w/ + /r/ = 子音+子音（連結なし）",
+            "runs at → runs の末尾 /z/ が at の初期母音 /æ/ に連結 [ˈrʌnz æt]"
+          ],
+          "kana": "ハービング キャップド ザ レッドストーン インプッツ、ザ コントラプション ナウ ランズ・アット イグザクトリー トゥウェンティ ティックス パー セコンド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "capping",
+      "ipa": "/ˈkæpɪŋ/",
+      "examples": [
+        {
+          "en": "Capping all the dark oak logs prevents the wood from rotting while stored.",
+          "ja": "すべてのダークオークの丸太にふたをすることで、保管中に木が腐るのを防ぎます。",
+          "ipa": "/ˈkæpɪŋ ˈɔl ðə ˈdɑrk ˈoʊk ˈlɔɡz prɪˈvɛnts ðə ˈwʊd frəm ˈrɑtɪŋ waɪl ˈstɔrd/",
+          "linking": [
+            "capping all → capping の末尾 /ŋ/ が all の初期母音 /ɔ/ に連結 [ˈkæpɪŋ ˈɔl]",
+            "all the → /l/ + /ð/ = 子音+子音（連結なし）",
+            "dark oak → /k/ + /oʊ/ = 子音+母音（連結なし）",
+            "wood from → /d/ + /f/ = 子音+子音（連結なし）",
+            "from rotting → /m/ + /r/ = 子音+子音（連結なし）"
+          ],
+          "kana": "キャッピング・オール ザ ダーク オウク ログス プリヴェンツ ザ ウッド フラム ロッティング ホワイル スタード"
+        },
+        {
+          "en": "We're capping off the last section of the build with decorative fencing.",
+          "ja": "装飾的なフェンシングでビルドの最後のセクションを仕上げています。",
+          "ipa": "/wir ˈkæpɪŋ ˈɔf ðə ˈlæst ˈsɛkʃən əv ðə ˈbɪld wɪð ˌdɛkərəˈtɪv ˈfɛnsɪŋ/",
+          "linking": [
+            "We're capping → /r/ + /k/ = 子音+子音（連結なし）",
+            "capping off → capping の末尾 /ŋ/ が off の初期母音 /ɔ/ に連結 [ˈkæpɪŋ ˈɔf]",
+            "off the → /f/ + /ð/ = 子音+子音（連結なし）",
+            "section of → section の末尾 /n/ が of の初期母音 /ə/ に連結 [ˈsɛkʃən əv]",
+            "of the → of は弱形 /əv/、the も弱形 /ðə/"
+          ],
+          "kana": "ウィアー キャッピング・オフ ザ ラスト セクション・アヴ ザ ビルド ウィズ デコレイティブ フェンシング"
+        }
+      ]
+    }
   ]
 }

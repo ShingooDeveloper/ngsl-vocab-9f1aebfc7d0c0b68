@@ -57,5 +57,33 @@
         "to は機能語で弱形 /tə/ に弱化"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "leathers",
+      "ipa": "/ˈlɛðɚz/",
+      "examples": [
+        {
+          "en": "I need some leathers to make armor pieces.",
+          "ja": "革のアーマーの部品を作るために、革がいくつか必要です。",
+          "ipa": "/aɪ ˈniːd səm ˈlɛðɚz tə ˈmeɪk ˈɑɹmɚ ˈpɪsɪz/",
+          "linking": [
+            "some leathers → some の弱形 /səm/"
+          ],
+          "kana": "アイ ニード サム レザーズ タ メイク アーマー ピーシズ"
+        },
+        {
+          "en": "Leathers drop from cows when you kill them.",
+          "ja": "ウシを倒すと革がドロップします。",
+          "ipa": "/ˈlɛðɚz ˈdrɑp frəm ˈkaʊz wɛn ju ˈkɪl ðɛm/",
+          "linking": [
+            "from cows → from の弱形 /frəm/"
+          ],
+          "kana": "レザーズ ドロップ フラム カウズ ウェン ユー キル ゼム"
+        }
+      ]
+    }
   ]
 }

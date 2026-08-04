@@ -202,6 +202,96 @@
           "kana": "ウィ クイックリ フィクスト ザ リザルティング プロブレムズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is resulting",
+      "ipa": "/ɪz rɪˈzʌltɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone mechanism is resulting in a fast piston door.",
+          "ja": "レッドストーンメカニズムが高速ピストンドアを生み出しています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm ɪz rɪˈzʌltɪŋ ɪn ə fæst ˈpɪstən dɔr/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "mechanism は末尾 /m/ が is の /ɪ/ に連結、is は弱形 /ɪz/",
+            "in は末尾 /n/ が a の /ə/ に連結 [ɪnə]→「イナ」"
+          ],
+          "kana": "ザ レッストーン メカニズム イズ リザルティング イナ ファスト ピスン ドアー"
+        },
+        {
+          "en": "These improvements are resulting in faster construction.",
+          "ja": "これらの改善がより速い建設をもたらしています。",
+          "ipa": "/ðiz ɪmˈpruːvmənts ɑr rɪˈzʌltɪŋ ɪn ˈfæstɚ kənˈstrʌkʃən/",
+          "linking": [
+            "improvements are → 末尾 /s/ が are の /ɑ/ に連結 [ɪmˈpruːvməntsɑr]、are は弱形 /ɑr/",
+            "in → 機能語（前置詞）"
+          ],
+          "kana": "ディーズ インプルーヴメンツアー リザルティング イン ファスター コンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was resulting",
+      "ipa": "/wəz rɪˈzʌltɪŋ/",
+      "examples": [
+        {
+          "en": "The farm was resulting in huge crop yields.",
+          "ja": "その農場が莫大な作物の収穫をもたらしていました。",
+          "ipa": "/ðə fɑrm wəz rɪˈzʌltɪŋ ɪn hjuːdʒ krɑp jɪldz/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "was → 弱形 /wəz/",
+            "in → 機能語"
+          ],
+          "kana": "ザ ファーム ワズ リザルティング イン ヒュージ クラップ イールズ"
+        },
+        {
+          "en": "Our efforts were resulting in continuous progress.",
+          "ja": "私たちの努力が継続的な進捗をもたらしていました。",
+          "ipa": "/ˈaʊɹ ˈɛfɚts wɚ rɪˈzʌltɪŋ ɪn kənˈtɪnjuəs ˈprɑɡrɛs/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "in → 機能語"
+          ],
+          "kana": "アワー エフォーツ ワー リザルティング イン コンティニュアス プログレス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been resulting",
+      "ipa": "/həd bɪn rɪˈzʌltɪŋ/",
+      "examples": [
+        {
+          "en": "The construction had been resulting in a magnificent fortress.",
+          "ja": "その建設が素晴らしい砦をもたらしていました。",
+          "ipa": "/ðə kənˈstrʌkʃən həd bɪn rɪˈzʌltɪŋ ɪn ə mæɡˈnɪfəsənt ˈfɔɹtrəs/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "in は末尾 /n/ が a の /ə/ に連結 [ɪnə]→「イナ」"
+          ],
+          "kana": "ザ コンストラクション ハド ビン リザルティング イナ マグニフィセント フォートレス"
+        },
+        {
+          "en": "The enchantment had been resulting in powerful magical effects.",
+          "ja": "その魔法がずっと強力な魔法効果をもたらしていました。",
+          "ipa": "/ðə ɪnˈtʃæntmənt həd bɪn rɪˈzʌltɪŋ ɪn ˈpaʊɚfəl ˈmædʒɪkəl ɪˈfɛkts/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "in → 機能語"
+          ],
+          "kana": "ザ エンチャントメント ハド ビン リザルティング イン パワーフル マジカル イフェクツ"
+        }
+      ]
     }
   ]
 }

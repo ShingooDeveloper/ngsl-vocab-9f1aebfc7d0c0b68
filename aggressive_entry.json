@@ -41,6 +41,66 @@
       "kana": "テイカン アグレッシヴ アプローチ タ イクスパンド ユア ベイス"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more aggressive",
+      "ipa": "ˌmɔɹ əˈɡrɛsɪv",
+      "examples": [
+        {
+          "en": "Raiding is more aggressive than mining alone.",
+          "ja": "レイドは単独採掘より攻撃的です。",
+          "ipa": "ˈreɪdɪŋ ɪz ˌmɔɹ əˈɡrɛsɪv ðæn ˈmaɪnɪŋ əˈloʊn",
+          "kana": "レイディング イズ モア アグレッシヴ ザン マイニング ア ロウン",
+          "linking": [
+            "Raiding is → /ŋ/ が語末で /ɪ/ に連結 [ˈreɪdɪŋ ɪz] レイディング イズ",
+            "than mining → /n/ が /m/ に詰まり未開放 [ðæn ˈmaɪnɪŋ] ザン マイニング"
+          ]
+        },
+        {
+          "en": "Wither fighting is more aggressive than peaceful caving.",
+          "ja": "ウィザーとの戦闘は平和的な洞窟探検より攻撃的です。",
+          "ipa": "ˈwɪðɚ ˈfaɪtɪŋ ɪz ˌmɔɹ əˈɡrɛsɪv ðæn ˈpisfəl ˈkeɪvɪŋ",
+          "kana": "ウィザー ファイティング イズ モア アグレッシヴ ザン ピースフル ケイヴィング",
+          "linking": [
+            "Wither fighting → /r/ が /f/ に詰まり未開放 [ˈwɪðɚ ˈfaɪtɪŋ] ウィザー ファイティング",
+            "than peaceful → /n/ が /p/ に詰まり未開放 [ðæn ˈpisfəl] ザン ピースフル"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most aggressive",
+      "ipa": "ˌmoʊst əˈɡrɛsɪv",
+      "examples": [
+        {
+          "en": "Ender Dragon is the most aggressive boss in the game.",
+          "ja": "エンダードラゴンはゲーム内で最も攻撃的なボスです。",
+          "ipa": "ˈɛndɚ ˈdræɡən ɪz ðə ˌmoʊst əˈɡrɛsɪv ˈbɑs ɪn ðə ˈɡeɪm",
+          "kana": "エンダー ドラゴン イズ ザ モウスト アグレッシヴ ボス イン ザ ゲイム",
+          "linking": [
+            "Dragon is → /n/ が /ɪ/ に連結 [ˈdræɡən ɪz] ドラゴン イズ",
+            "the most → the /ðə/ は弱形で /ə/ が /m/ に詰まり未開放 [ðə ˌmoʊst] ザ モウスト",
+            "in the → /n/ が /ð/ に詰まり未開放 [ɪn ðə] イン ザ"
+          ]
+        },
+        {
+          "en": "Ghasts are the most aggressive flying mobs we face.",
+          "ja": "ガストはあなたが遭遇する最も攻撃的な飛行モブです。",
+          "ipa": "ɡæsts ɑɹ ðə ˌmoʊst əˈɡrɛsɪv ˈflaɪɪŋ mɑbz wi ˈfeɪs",
+          "kana": "ガストス アー ザ モウスト アグレッシヴ フライイング モブズ ウィー フェイス",
+          "linking": [
+            "are the → /r/ が /ð/ に詰まり未開放 [ɑɹ ðə] アー ザ",
+            "the most → the /ðə/ は弱形 [ðə ˌmoʊst] ザ モウスト",
+            "mobs we → /z/ が /w/ に詰まり未開放 [mɑbz wi] モブズ ウィー"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "aggressive approach",

@@ -72,5 +72,36 @@
       ],
       "kana": "アッ リスト ウィ ハヴ ア ルーフォーヴァー アワー ヘッズ イン ディス ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "roofs",
+      "ipa": "/ruːfs/",
+      "examples": [
+        {
+          "en": "The wooden roofs burned down during the fire.",
+          "ja": "火災中に木製の屋根が燃えました。",
+          "ipa": "/ðə ˈwʊdən ˈruːfs ˈbɝːnd ˈdaʊn ˈdʊrɪŋ ðə ˈfaɪɚ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。",
+            "during の末尾 /ŋ/ と the の初頭 /ð/ で子音+子音で自然に続く。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ウッデン ルーフズ バーンド ダウン ジューリング ザ ファイヤー"
+        },
+        {
+          "en": "We're building stone roofs for all the houses in our village.",
+          "ja": "私たちは村のすべての家のために石の屋根を建築しています。",
+          "ipa": "/wɪr ˈbɪldɪŋ ˈstoʊn ˈruːfs fɚ ˈɔːl ðə ˈhaʊzɪz ɪn ˈaʊɚ ˈvɪlɪdʒ/",
+          "linking": [
+            "We're は /wɪr/（we are の縮約）。",
+            "for は機能語で弱形 /fɚ/、all の初頭母音 /ɔ/ に連結。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "ウィア ビルディング ストーン ルーフズ ファー オール ザ ハウシズ イン アワー ビリッジ"
+        }
+      ]
+    }
   ]
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "word": "aside",
   "pos": "副詞",
   "pos_all": "副詞・前置詞・名詞",
@@ -81,6 +81,38 @@
         "put の末尾子音 /t/ が aside の初頭母音 /ə/ に連結。結果は [ˈpʊtəˈsaɪd]"
       ],
       "kana": "ウィ ニーダ プッタサイド ディーズ マテリアルズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "asides",
+      "ipa": "/əˈsaɪdz/",
+      "examples": [
+        {
+          "en": "These asides about the cave system helped us plan our mining route.",
+          "ja": "洞窟システムについての余談が、採掘ルートの計画を助けた。",
+          "ipa": "[ðiːz əˈsaɪdz əˈbaʊt ðə ˈkeɪv ˈsɪstəm ˈhɛlpt əs ˈplæn ˈaʊr ˈmaɪnɪŋ ˈruːt]",
+          "linking": [
+            "asides about → 語末子音 /z/ が母音 /ə/ に連結",
+            "the cave → the は弱形 /ðə/",
+            "plan our → 語末子音 /n/ が母音に連結、our は弱形"
+          ],
+          "kana": "ディーズ アサイズ アバウト ザ ケイヴ システム ヘルプト アス プラン アワー マイニング ルート"
+        },
+        {
+          "en": "The building tips and asides from our friends made the construction much easier.",
+          "ja": "友人からのビルディングのコツと余談が、建設をもっと簡単にした。",
+          "ipa": "[ðə ˈbɪldɪŋ ˈtɪps ənd əˈsaɪdz frəm ɑɾ ˈfrɛndz ˈmeɪd ðə kənˈstrʌkʃən ˈmʌtʃ ˈiːziər]",
+          "linking": [
+            "tips and → 語末子音 /s/ が母音 /ə/ に連結、and は弱形",
+            "asides from → 語末子音 /z/ が母音 /ə/ に連結、from は弱形 /frəm/",
+            "made the → made の /d/ が未開放、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビルディング ティプス アン アサイズ フラム アー フレンズ メイド ザ カンストラクション マッチ イージャー"
+        }
+      ]
     }
   ]
 }

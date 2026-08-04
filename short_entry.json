@@ -246,6 +246,103 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is shorting",
+      "ipa": "/ɪz ˈʃɔːrtɪŋ/",
+      "examples": [
+        {
+          "en": "The broken wire is shorting out the redstone circuit.",
+          "ja": "壊れた配線がレッドストーン回路をショートさせています。",
+          "ipa": "/ðə ˈbroʊkən ˈwaɪr ɪz ˈʃɔːrtɪŋ ˈaʊt ðə ˈrɛdˌstoʊn ˈsɝːkɪt/",
+          "kana": "ザ ブロークン ワイアー イズ ショーティング アウト ザ レッドストーン サーキット",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "wire is: wire の末尾 /r/ が is の初頭 /ɪ/ に連結 [ˈwaɪrɪz] ワイリズ",
+            "is は弱形 /ɪz/",
+            "out は語末 /t/ が次の語の初頭に先立つため未開放"
+          ]
+        },
+        {
+          "en": "They are shorting the mechanism to prevent the trap from activating.",
+          "ja": "彼らはトラップが起動するのを防ぐためにメカニズムをショートさせています。",
+          "ipa": "/ðeɪ ɑr ˈʃɔːrtɪŋ ðə ˈmɛkənɪzəm tə prɪˈvɛnt ðə træp frəm ˈæktɪveɪtɪŋ/",
+          "kana": "ゼイ アー ショーティング ザ メカニズム タ プリベント ザ トラップ フラム アクティベイティング",
+          "linking": [
+            "are は弱形。they の末尾 /eɪ/ で始まり are は子音で始まるため自然な継続",
+            "the は弱形 /ðə/ (2回)",
+            "to は弱形 /tə/",
+            "from は弱形 /frəm/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was shorting",
+      "ipa": "/wəz ˈʃɔːrtɪŋ/",
+      "examples": [
+        {
+          "en": "The circuit was shorting when we first arrived at the base.",
+          "ja": "最初に基地に到着した時、回路がショートしていました。",
+          "ipa": "/ðə ˈsɝːkɪt wəz ˈʃɔːrtɪŋ wɛn wiː ˈfɝːst əˈraɪvd æt ðə ˈbeɪs/",
+          "kana": "ザ サーキット ワズ ショーティング ウェン ウィー ファースト アライヴド アット ザ ベイス",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "was は弱形 /wəz/",
+            "when は /wɛn/",
+            "first は /ˈfɝːst/",
+            "at は弱形 /ət/ または /æt/"
+          ]
+        },
+        {
+          "en": "The damaged wires were shorting the redstone for hours.",
+          "ja": "損傷した配線が何時間もレッドストーンをショートさせていました。",
+          "ipa": "/ðə ˈdæmɪdʒd ˈwaɪrz wɚ ˈʃɔːrtɪŋ ðə ˈrɛdˌstoʊn fɔr ˈaʊərz/",
+          "kana": "ザ ダメージド ワイアーズ ワー ショーティング ザ レッドストーン フォー アワーズ",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "were は弱形 /wɚ/",
+            "for は弱形 /fər/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been shorting",
+      "ipa": "/həd bɪn ˈʃɔːrtɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone had been shorting for hours before we discovered the problem.",
+          "ja": "問題を発見する前に、レッドストーンは何時間もショートしていました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn həd bɪn ˈʃɔːrtɪŋ fɔr ˈaʊərz bɪˈfɔr wiː dɪsˈkʌvərd ðə ˈprɑbləm/",
+          "kana": "ザ レッドストーン ハド ビン ショーティング フォー アワーズ ビフォア ウィー ディスカヴァード ザ プロブレム",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fər/",
+            "before は /bɪˈfɔr/"
+          ]
+        },
+        {
+          "en": "By the time we checked, the system had been shorting the entire network.",
+          "ja": "確認した時点で、システムはネットワーク全体をショートさせていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wiː ˈtʃɛkt ðə ˈsɪstəm həd bɪn ˈʃɔːrtɪŋ ðə ənˈtaɪr ˈnɛtˌwɝːk/",
+          "kana": "バイ ザ タイム ウィー チェクト ザ システム ハド ビン ショーティング ザ エンタイアー ネットワーク",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "entire は /ənˈtaɪr/"
+          ]
+        }
+      ]
     }
   ]
 }

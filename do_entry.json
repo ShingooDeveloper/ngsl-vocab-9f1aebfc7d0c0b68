@@ -73,6 +73,83 @@
   ],
   "forms": [
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is doing",
+      "ipa": "/ɪz ˈduːɪŋ/",
+      "examples": [
+        {
+          "en": "I am doing some mining in this cave right now.",
+          "ja": "今、この洞窟でマイニングをしています。",
+          "ipa": "/aɪ æm ˈduːɪŋ səm ˈmaɪnɪŋ ɪn ðɪs keɪv ˈraɪt naʊ/",
+          "linking": [
+            "some は機能語で弱形 /səm/"
+          ],
+          "kana": "アイ アム ドゥーイング サム マイニング イン ディッ ケイヴ ライッ ナウ"
+        },
+        {
+          "en": "They are doing a lot of redstone work in the lab.",
+          "ja": "彼らはラボでレッドストーン作業を多くしています。",
+          "ipa": "/ðɛr ɑr ˈduːɪŋ ə ˈlɑt əv ˈrɛdstoʊn ˈwɝk ɪn ðə læb/",
+          "linking": [
+            "lot of で lot の語末 /t/ がフラップ化して of の /ə/ に連結 [ˈlɑɾəv] ロッラヴ"
+          ],
+          "kana": "ザエアー アー ドゥーイング ア ロット アヴ レッドストーン ワーク イン ザ ラボ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was doing",
+      "ipa": "/wəz ˈduːɪŋ/",
+      "examples": [
+        {
+          "en": "I was doing some mining when the creeper attacked.",
+          "ja": "クリーパーが攻撃したときに採掘をしていました。",
+          "ipa": "/aɪ wəz ˈduːɪŋ səm ˈmaɪnɪŋ wɛn ðə ˈkripɚ əˈtækt/",
+          "linking": [
+            "some は機能語で弱形 /səm/",
+            "when の語末 /n/ と the の初頭 /ð/ は両方子音で連結なし"
+          ],
+          "kana": "アイ ワズ ドゥーイング サム マイニング ウェン ザ クリーパー ア タクト"
+        },
+        {
+          "en": "We were doing a build when the server crashed.",
+          "ja": "サーバーがクラッシュしたときに建築をしていました。",
+          "ipa": "/wi wɚ ˈduːɪŋ ə bɪld wɛn ðə ˈsɝvɚ kræʃt/",
+          "linking": [],
+          "kana": "ウィ ワー ドゥーイング ア ビルド ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been doing",
+      "ipa": "/həd bɪn ˈduːɪŋ/",
+      "examples": [
+        {
+          "en": "I had been doing the same quest for three days straight.",
+          "ja": "同じクエストを3日間連続してずっとしていました。",
+          "ipa": "/aɪ həd bɪn ˈduːɪŋ ðə seɪm kwɛst fɚ ˈθri deɪz streɪt/",
+          "linking": [
+            "days straight で /z/ と /s/ は両方子音で連結なし"
+          ],
+          "kana": "アイ ハド ビン ドゥーイング ザ セイム クエスト ファー スリー デイズ ストレイト"
+        },
+        {
+          "en": "They had been doing the redstone puzzle for hours.",
+          "ja": "彼らは何時間もレッドストーンパズルをし続けていました。",
+          "ipa": "/ðɛ həd bɪn ˈduːɪŋ ðə ˈrɛdstoʊn ˈpʌzəl fɚ ˈaʊərz/",
+          "linking": [
+            "for hours で for の語末 /r/ が hours の初頭 /aʊ/ に連結 [fɚ ˈaʊərz] ファー アワーズ"
+          ],
+          "kana": "ザエイ ハド ビン ドゥーイング ザ レッドストーン パズル ファー アワーズ"
+        }
+      ]
+    },
+    {
       "type": "3rd_person_singular",
       "label": "三人称単数現在形",
       "text": "does",

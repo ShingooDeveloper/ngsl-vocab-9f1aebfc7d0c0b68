@@ -1,85 +1,261 @@
-{
+﻿{
   "word": "circle",
-  "rank": 1709,
   "pos": "名詞・動詞",
   "pos_all": "名詞・動詞",
   "ipa_us": "/ˈsɝkəl/",
+  "rank": 644,
   "level": "A1",
-  "hi": "circle(?:s|d|ing)?",
+  "hi": "circle|circles|circled|circling",
   "meanings": [
-    "【名詞】円形、円、丸い形（始まりも終わりもない円形の形状）",
-    "【名詞】グループ、サークル（共通の興味や結びつきがある人々のグループ）",
-    "【動詞】～の周りを回る、周回する（～の周りを円形に移動する）",
-    "【動詞】～を輪で囲む（～の周りに円を描く、または実線で囲む）"
+    "【名詞】円、円形（a round shape; the line that forms a round shape）",
+    "【名詞】輪、グループ（a group of people who know each other）",
+    "【動詞】～の周りを回る、囲む（move in a circular path around something; surround）",
+    "【動詞】（飛行機が）旋回する（move in circles, especially in the air）"
   ],
   "examples": [
     {
-      "en": "I built a circle of torches.",
-      "ja": "松明の円を作りました。",
-      "ipa": "/aɪ bɪlt ə ˈsɝkəl əv ˈtɔɹtʃəz/",
+      "en": "The circle represents unity and connection between players.",
+      "ja": "円はプレイヤー間の統一と結合を表します。",
+      "ipa": "/ðə ˈsɝkəl ˌrɛprɪˈzɛnts ˈjuːnɪti ənd kəˈnɛkʃən bɪˈtwin ˈpleɪɚz/",
       "linking": [
-        "built a: /t/ が /ə/（弱形）に連結 [bɪl tə] ビルタ",
-        "circle of: /l/ が /əv/（弱形）に連結 [ˈsɝkəl əv] サークラヴ"
+        "the は弱形 /ðə/。circle に連結 [ðə ˈsɝkəl] ザ サークル",
+        "and は弱形 /ənd/ で connection に続く"
       ],
-      "kana": "アイ ビルタ サークラヴ トーチャーズ"
+      "kana": "ザ サークル レプリゼンツ ユニティ エン コネクション ビトウィーン プレイヤーズ"
     },
     {
-      "en": "Our mining circle is getting bigger.",
-      "ja": "私たちの採掘グループが大きくなっています。",
-      "ipa": "/ˈaʊɹ ˈmaɪnɪŋ ˈsɝkəl ɪz ˈɡɛtɪŋ ˈbɪɡɚ/",
+      "en": "Draw a circle on the ground to mark the center of your base.",
+      "ja": "地面に円を描いてベースの中心をマークします。",
+      "ipa": "/ˈdrɔ ə ˈsɝkəl ɑn ðə ˈɡraʊnd tu ˈmɑrk ðə ˈsɛntər əv jɔr ˈbeɪs/",
       "linking": [
-        "mining circle: /ŋ/ が /s/（子音）に直続、/ŋ/ は未開放 [ˈmaɪnɪŋ̚ ˈsɝkəl] マイニング サークル",
-        "circle is: /l/ が /ɪ/ に連結 [ˈsɝkəl ɪz] サークリズ"
+        "a は弱形 /ə/。circle と連結 [ə ˈsɝkəl] ア サークル",
+        "on の n が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ɑn ðə] オン ザ",
+        "to は弱形 /tə/。mark に続く",
+        "the は弱形 /ðə/。center に連結 [ðə ˈsɛntər] ザ センター",
+        "of は弱形 /əv/。your と連結 [əv jɔr] オブ ユア"
       ],
-      "kana": "アワー マイニング サークリズ ゲティング ビガー"
+      "kana": "ドロー ア サークル オン ザ グラウンド トゥ マーク ザ センター オブ ユア ベース"
     },
     {
-      "en": "The dragon circles the tower.",
-      "ja": "ドラゴンがタワーの周りを回っています。",
-      "ipa": "/ðə ˈdɹæɡən ˈsɝkəlz ðə ˈtaʊɚ/",
+      "en": "A circle of torches protects the area from hostile mobs at night.",
+      "ja": "松明の円は夜間に敵対的なモブから領域を保護します。",
+      "ipa": "/ə ˈsɝkəl əv ˈtɔrtʃɪz prəˈtɛkts ðɪ ˈɛriə ˈfɹʌm ˈhɑstəl ˈmɑbz æt ˈnaɪt/",
       "linking": [
-        "dragon circles: /n/ が /s/（子音）に直続、/n/ は未開放 [ˈdɹæɡən̚ ˈsɝkəlz] ドラゴン サークルズ",
-        "circles the: /z/ が /ð/（子音）に直続、/z/ は未開放 [ˈsɝkəlz̚ ðə] サークルズ ザ"
+        "a は弱形 /ə/。circle と連結 [ə ˈsɝkəl] ア サークル",
+        "of は弱形 /əv/。torches と連結 [əv ˈtɔrtʃɪz] オブ トーチェズ",
+        "from は弱形 /frəm/。hostile に続く"
       ],
-      "kana": "ザ ドラゴン サークルズ ザ タワー"
+      "kana": "ア サークル オブ トーチェズ プラテクツ ディ エリア フラム ホースタル モブズ アット ナイト"
     }
   ],
   "idioms": [
     {
-      "idiom": "come full circle",
-      "ja": "元に戻る、完全な周期を完結させて元の状態に戻る",
-      "example": "I started this server as a total beginner, but now I'm helping other players. I've come full circle.",
-      "example_ja": "このサーバーで最初は初心者でしたが、今は他のプレイヤーを手伝っています。完全に一周しました。",
-      "ipa": "/aɪ ˈstɑɹtɪd ðɪs ˈsɝvɚ æz ə ˈtoʊtəl bɪˈɡɪnɚ bət naʊ aɪm ˈhɛlpɪŋ ˈʌðɚ ˈpleɪɚz aɪv ˈkʌm fʊl ˈsɝkəl/",
-      "linking": [
-        "started this: /d/ が /ð/（子音）に直続、/d/ は未開放 [ˈstɑɹtəd̚ ðɪs] スターティッ ディス",
-        "I've come: /v/ が /k/（子音）に直続、/v/ は未開放 [aɪv̚ kʌm] アイヴ カム"
-      ],
-      "kana": "アイ スターティッ ディス サーバー アズ ア トータル ビギナー バッ ナウ アイム ヘルピング アザー プレイアーズ アイヴ カム フール サークル"
-    },
-    {
       "idiom": "circle around",
-      "ja": "～の周りを回る、ぐるぐる回る；直接的な答えを避ける",
-      "example": "Stop circling around the problem! Just tell me if the server is going down.",
-      "example_ja": "問題について回りくどい説明はやめて！サーバーが落ちるかどうか言ってよ。",
-      "ipa": "/stɑp ˈsɝkəlɪŋ əˈraʊnd ðə ˈpɹɑbləm dʒəst tɛl mi ɪf ðə ˈsɝvɚ ɪz ˈɡoʊɪŋ daʊn/",
+      "ja": "～を囲んで回る、周囲を回る",
+      "example": "The witch circles around the player, casting spells from a distance.",
+      "example_ja": "魔女はプレイヤーの周りを回り、距離を保って呪文をかけます。",
+      "ipa": "/ðə ˈwɪtʃ ˈsɝkəlz əˈraʊnd ðə ˈpleɪɚ ˈkæstɪŋ spɛlz ˈfɹʌm ə ˈdɪstəns/",
       "linking": [
-        "circling around: /ŋ/ が /ə/（弱形）に連結 [ˈsɝkəlɪŋ əˈraʊnd] サークリング アラウンド",
-        "tell me: /l/ が /m/（子音）に直続、/l/ は未開放 [tɛl̚ mi] テル ミー"
+        "circles の z が around に連結。around は /əˈraʊnd/ [ˈsɝkəlz əˈraʊnd] サークルズ アラウンド",
+        "around の d が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [əˈraʊnd ðə] アラウンド ザ",
+        "a は弱形 /ə/。distance に連結 [ə ˈdɪstəns] ア ディスタンス"
       ],
-      "kana": "スタップ サークリング アラウンド ザ プラブラム ジャス テル ミー イフ ザ サーバー イズ ゴーイング ダウン"
+      "kana": "ザ ウィッチ サークルズ アラウンド ザ プレイアー キャスティング スペルズ フラム ア ディスタンス"
     },
     {
-      "idiom": "go in circles",
-      "ja": "堂々巡りする、進展がない（同じところを何度も回ってしまう）",
-      "example": "We've been going in circles for hours trying to find the end portal.",
-      "example_ja": "エンドポータルを探すのに何時間も堂々巡りしています。",
-      "ipa": "/wiv bɪn ˈɡoʊɪŋ ɪn ˈsɝkəlz fɔɹ ˈaʊɚz ˈtɹaɪɪŋ tə faɪnd ðə ɛnd ˈpɔɹtəl/",
+      "idiom": "come full circle",
+      "ja": "本来の状態に戻る、一周して帰る",
+      "example": "The building project came full circle when we finally completed the circular tower.",
+      "example_ja": "最終的に円形の塔を完成させたとき、ビルドプロジェクトは一周して帰りました。",
+      "ipa": "/ðə ˈbɪldɪŋ ˈprɑdʒekt ˈkeɪm ˈfʊl ˈsɝkəl wɛn wi ˈfaɪnəli kəmˈpliːtɪd ðə ˈsɝkjələr ˈtaʊər/",
       "linking": [
-        "going in: /ŋ/ が /ɪ/ に連結 [ˈɡoʊɪŋ ɪn] ゴーイング イン",
-        "circles for: /z/ が /f/（子音）に直続、/z/ は未開放 [ˈsɝkəlz̚ fɔɹ] サークルズ フォー"
+        "building の g が project に続く（子音+子音、連結なし）",
+        "came の d が full に続く（子音+子音、連結なし）",
+        "when は /wɛn/。we に続く",
+        "the は弱形 /ðə/。circular に連結 [ðə ˈsɝkjələr] ザ サーキュラー"
       ],
-      "kana": "ウィヴ ビン ゴーイング イン サークルズ フォー アワーズ トライング タ ファインド ザ エンド ポータル"
+      "kana": "ザ ビルディング プロジェクト ケイム フル サークル ウェン ウィ ファイナリー コンプリーティド ザ サーキュラー タワー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I'm going to circle this monster before engaging in close combat.",
+      "ja": "近接戦闘に参加する前に、このモンスターの周りを回るつもりです。",
+      "ipa": "/aɪm ˈɡoʊɪŋ tu ˈsɝkəl ðɪs ˈmɑnstər bɪˈfɔr ɪnˈɡeɪdʒɪŋ ɪn ˈkloʊs ˈkɑmbæt/",
+      "linking": [
+        "to は弱形 /tə/。circle に続く",
+        "this は /ðɪs/。monster に続く"
+      ],
+      "kana": "アイム ゴーイング トゥ サークル ディス モンスター ビフォア エンゲイジング イン クローズ コンバット"
+    },
+    {
+      "en": "The dragon circles high above the island, waiting for the right moment to attack.",
+      "ja": "ドラゴンは島の上で高く旋回し、攻撃の適切な瞬間を待っています。",
+      "ipa": "/ðə ˈdræɡən ˈsɝkəlz ˈhaɪ əˈbʌv ðɪ ˈaɪlənd ˈweɪtɪŋ fɔr ðə ˈraɪt ˈmoʊmənt tu əˈtæk/",
+      "linking": [
+        "the は弱形 /ðə/。dragon に連結 [ðə ˈdræɡən] ザ ドラゴン",
+        "circles の z が high に続く（子音+子音、連結なし）",
+        "for は弱形 /fɔr/ または /fɚ/。the に続く。the も弱形 /ðə/"
+      ],
+      "kana": "ザ ドラゴン サークルズ ハイ アバヴ ディ アイランド ウェイティング フォー ザ ライト モーメント トゥ アタック"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "circles",
+      "ipa": "/ˈsɝkəlz/",
+      "examples": [
+        {
+          "en": "You need to draw circles all around the spawner area quickly.",
+          "ja": "スポーナー領域の周りにすぐに円を描く必要があります。",
+          "ipa": "/ju ˈniːd tə ˈdrɔ ˈsɝkəlz ˈɔːl əˈraʊnd ðə ˈspɔnər ˈɛriə ˈkwɪkli/",
+          "linking": [
+            "need to → 語末子音 /d/ が未開放で /t/ に接続 [niːd̚ tə]（ニッ タ）",
+            "circles の z が all に連結。all は /ˈɔːl/ [ˈsɝkəlz ˈɔːl]（サークルズ オール）",
+            "all の l が around に続く（子音+母音）[ˈɔːl əˈraʊnd]（オール アラウンド）",
+            "around の d が the に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ユー ニード タ ドロー サークルズ オール アラウンド ザ スポーナー エリア クウィックリー"
+        },
+        {
+          "en": "The circles on the ground show where to build walls and defensive structures.",
+          "ja": "地面の円は、壁と防御構造を建てる場所を示しています。",
+          "ipa": "/ðə ˈsɝkəlz ɑn ðə ˈɡraʊnd ʃoʊ wɛr tu ˈbɪld ˈwɔːlz ənd dɪˈfɛnsɪv ˈstrʌktʃərz/",
+          "linking": [
+            "the は弱形 /ðə/。circles に続く（子音+子音、連結なし）",
+            "circles の z が on に連結 [ˈsɝkəlz ɑn]（サークルズ オン）",
+            "on の n が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "to は弱形 /tə/。build に続く"
+          ],
+          "kana": "ザ サークルズ オン ザ グラウンド ショー ウェア タ ビルド ウォールズ エン ディフェンシヴ ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "circles",
+      "ipa": "/ˈsɝkəlz/",
+      "examples": [
+        {
+          "en": "She circles around the witch while fighting it in the dark forest.",
+          "ja": "彼女は暗い森で魔女と戦いながら、その周りを回ります。",
+          "ipa": "/ʃi ˈsɝkəlz əˈraʊnd ðə ˈwɪtʃ ˈwaɪl ˈfaɪtɪŋ ɪt ɪn ðə ˈdɑrk ˈfɔrɪst/",
+          "linking": [
+            "circles の z が around に連結 [ˈsɝkəlz əˈraʊnd]（サークルズ アラウンド）",
+            "around の d が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "in の n が the に続く（子音+子音、連結なし）"
+          ],
+          "kana": "シー サークルズ アラウンド ザ ウィッチ ワイル ファイティング イット イン ザ ダーク フォレスト"
+        },
+        {
+          "en": "The enderman circles the player slowly before attacking with its powerful strikes.",
+          "ja": "エンダーマンはプレイヤーの周りをゆっくり回り、その強力な打撃で攻撃します。",
+          "ipa": "/ðə ˈɛndərˌmæn ˈsɝkəlz ðə ˈpleɪər ˈsloʊli bɪˈfɔr əˈtækɪŋ wɪð ɪts ˈpaʊərfl ˈstraɪks/",
+          "linking": [
+            "the は弱形 /ðə/。enderman に連結 [ðə ˈɛndərˌmæn]（ザ エンダーマン）",
+            "circles の z が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。player に続く（子音+子音、連結なし）",
+            "before の r が attacking に連結 [bɪˈfɔr əˈtækɪŋ]（ビフォア アタッキング）"
+          ],
+          "kana": "ザ エンダーマン サークルズ ザ プレイアー スローリー ビフォア アタッキング ウィズ イツ パワーフル ストライクス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "circled",
+      "ipa": "/ˈsɝkəld/",
+      "examples": [
+        {
+          "en": "We circled the monument with stone blocks to mark its location.",
+          "ja": "その位置をマークするために、石ブロックで記念碑を囲みました。",
+          "ipa": "/wi ˈsɝkəld ðə ˈmɑnjəmənt wɪð ˈstoʊn ˈblɑks tu ˈmɑrk ɪts loʊˈkeɪʃən/",
+          "linking": [
+            "circled の d が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。monument に続く",
+            "to は弱形 /tə/。mark に続く"
+          ],
+          "kana": "ウィ サークルド ザ モニュメント ウィズ ストーン ブロックス タ マーク イツ ロケイション"
+        },
+        {
+          "en": "The players circled the dragon's nest to prepare for the final battle.",
+          "ja": "プレイヤーたちは最終戦闘に備えるためにドラゴンの巣を囲みました。",
+          "ipa": "/ðə ˈpleɪərz ˈsɝkəld ðə ˈdræɡənz ˈnɛst tə prɪˈpɛr fɔr ðə ˈfaɪnəl ˈbætəl/",
+          "linking": [
+            "the は弱形 /ðə/。players に続く（子音+子音、連結なし）",
+            "circled の d が the に続く（子音+子音、連結なし）",
+            "to は弱形 /tə/。prepare に続く",
+            "for は弱形 /fɔr/ または /fɚ/。the に続く"
+          ],
+          "kana": "ザ プレイアーズ サークルド ザ ドラゴンズ ネスト タ プリペア フォア ザ ファイナル バットル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "circled",
+      "ipa": "/ˈsɝkəld/",
+      "examples": [
+        {
+          "en": "The circled area was protected by a barrier of unbreakable glass blocks.",
+          "ja": "囲まれた領域は、壊せないガラスブロックのバリアで保護されていました。",
+          "ipa": "/ðə ˈsɝkəld ˈɛriə wəz prəˈtɛktɪd baɪ ə ˈbæriər əv ʌnˈbreɪkəbəl ˈɡlæs ˈblɑks/",
+          "linking": [
+            "the は弱形 /ðə/。circled に続く（子音+子音、連結なし）",
+            "was は弱形 /wəz/。protected に続く（子音+子音、連結なし）",
+            "by は弱形 /baɪ/。a に続く。a も弱形 /ə/"
+          ],
+          "kana": "ザ サークルド エリア ワズ プラテクティッド バイ ア バリアー オブ アンブレイカブル グラス ブロックス"
+        },
+        {
+          "en": "Inside the circled region, all hostile mobs were instantly defeated.",
+          "ja": "囲まれた領域内で、すべての敵対的なモブが即座に倒されました。",
+          "ipa": "/ɪnˈsaɪd ðə ˈsɝkəld ˈridʒən | ˈɔːl ˈhɑstəl ˈmɑbz wər ˈɪnstəntli dɪˈfiːtɪd/",
+          "linking": [
+            "the は弱形 /ðə/。circled に続く（子音+子音、連結なし）",
+            "were は弱形 /wər/。instantly に連結 [wər ˈɪnstəntli]（ワー インスタントリー）",
+            "all の l が hostile に続く（子音+子音、連結なし）"
+          ],
+          "kana": "インサイド ザ サークルド リージョン、オール ホースタル モブズ ワー インスタントリー ディフィーティッド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "circling",
+      "ipa": "/ˈsɝkəlɪŋ/",
+      "examples": [
+        {
+          "en": "I'm circling around the mob to avoid its direct attack and find a weak point.",
+          "ja": "モブの直接攻撃を避けて弱点を見つけるために、周りを回っています。",
+          "ipa": "/aɪm ˈsɝkəlɪŋ əˈraʊnd ðə ˈmɑb tə əˈvɔɪd ɪts dəˈrɛkt əˈtæk ənd ˈfaɪnd ə ˈwik ˈpɔɪnt/",
+          "linking": [
+            "circling の ŋ が around に連結 [ˈsɝkəlɪŋ əˈraʊnd]（サークリング アラウンド）",
+            "around の d が the に続く（子音+子音、連結なし）",
+            "to は弱形 /tə/。avoid に続く",
+            "and は弱形 /ənd/ で find に続く"
+          ],
+          "kana": "アイム サークリング アラウンド ザ モブ タ アボイド イツ ダイレクト アタック エン ファインド ア ウィーク ポイント"
+        },
+        {
+          "en": "Before circling the base, we need to collect all the necessary weapons and armor.",
+          "ja": "基地を周回する前に、必要なすべての武器と防具を集める必要があります。",
+          "ipa": "/bɪˈfɔr ˈsɝkəlɪŋ ðə ˈbeɪs | wi ˈniːd tə kəˈlɛkt ˈɔːl ðə ˈnɛsəˌsɛri ˈwɛpənz ənd ˈɑrmər/",
+          "linking": [
+            "before の r が circling に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。base に続く（子音+子音、連結なし）",
+            "to は弱形 /tə/。collect に続く",
+            "the は弱形 /ðə/。necessary に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ビフォア サークリング ザ ベース、ウィ ニード タ コレクト オール ザ ネセサリー ウェポンズ エン アーマー"
+        }
+      ]
     }
   ]
 }

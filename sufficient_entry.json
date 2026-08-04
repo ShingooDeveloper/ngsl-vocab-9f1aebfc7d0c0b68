@@ -54,5 +54,67 @@
       ],
       "kana": "ディス コールイズ ベアリー サフィシャント タ スメルト オール ディ オア"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more sufficient",
+      "ipa": "[ˈmɔːr səˈfɪʃənt]",
+      "examples": [
+        {
+          "en": "This armor is more sufficient than leather armor.",
+          "ja": "この鎧は革の鎧より十分です。",
+          "ipa": "[ðɪs ˈɑːrmər ɪz ˈmɔːr səˈfɪʃənt ðæn ˈlɛðər ˈɑːrmər]",
+          "linking": [
+            "armor is → 語末の r が母音に連結 [ˈɑːrmərɪz] アーマーイズ",
+            "more sufficient → r が母音に連結 [ˈmɔːrəsəˈfɪʃənt] モーラサフィシェント",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ディス アーマーイズ モーラサフィシェント ザン レザー アーマー"
+        },
+        {
+          "en": "More sufficient materials make a stronger fortress.",
+          "ja": "より十分な材料はより強い要塞を作ります。",
+          "ipa": "[ˈmɔːr səˈfɪʃənt ˈmætəriəlz ˈmeɪks ə ˈstrɔŋər ˈfɔːrtrɛs]",
+          "linking": [
+            "more sufficient → r が母音に連結 [ˈmɔːrəsəˈfɪʃənt] モーラサフィシェント",
+            "materials の末尾 /z/ が次の単語に接続",
+            "stronger の末尾 /r/ が次の母音に連結"
+          ],
+          "kana": "モーラサフィシェント マテリアルズ メイク ア ストロンガー フォートレス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most sufficient",
+      "ipa": "[ˈmoʊst səˈfɪʃənt]",
+      "examples": [
+        {
+          "en": "Diamond is the most sufficient material for a pickaxe.",
+          "ja": "ダイヤモンドは鶴嘴を作るのに最も十分な材料です。",
+          "ipa": "[ˈdaɪmənd ɪz ðə ˈmoʊst səˈfɪʃənt ˈmætəriəl fər ə ˈpɪkæks]",
+          "linking": [
+            "diamond is → d が母音に連結 [ˈdaɪməndɪz] ダイマンディズ",
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/、r が次の母音に連結"
+          ],
+          "kana": "ダイマンディズ ザ モウスト サフィシェント マテリアル ファ ピッカックス"
+        },
+        {
+          "en": "The most sufficient iron is what you need.",
+          "ja": "最も十分な鉄があなたに必要なものです。",
+          "ipa": "[ðə ˈmoʊst səˈfɪʃənt ˈaɪərn ɪz wɑt juː niːd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "iron is → n が母音に連結 [ˈaɪərnɪz] アイアーニズ",
+            "what you → t が未開放、you は弱形に近い"
+          ],
+          "kana": "ザ モウスト サフィシェント アイアーニズ ワット ユー ニード"
+        }
+      ]
+    }
   ]
 }

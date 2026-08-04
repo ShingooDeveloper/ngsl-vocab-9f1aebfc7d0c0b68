@@ -57,5 +57,145 @@
       "linking": [],
       "kana": "マイ マッスル メモリー レッツ ミー マイン ダイアモンズ ウィザウト シンキング"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "muscles",
+      "ipa": "/ˈmʌsəlz/",
+      "examples": [
+        {
+          "en": "Your muscles grow stronger when you mine diamonds all day.",
+          "ja": "一日中ダイアモンドを採掘すると、筋肉が強くなります。",
+          "ipa": "/jɔɹ ˈmʌsəlz ɡɹoʊ ˈstɹɔŋɡɚ wɛn ju maɪn ˈdaɪəmɑndz ɔl ˈdeɪ/",
+          "linking": [
+            "diamonds の末尾子音 /z/ が all の初頭母音 /ɔ/ に連結。結果は [ˈdaɪəmɑndz ɔl] ダイアモンズ オール"
+          ],
+          "kana": "ユア マッスルズ グロー ストロンガー ウェン ユー マイン ダイアモンズ オール デイ"
+        },
+        {
+          "en": "Building strong muscles helps you carry heavy blocks more easily.",
+          "ja": "強い筋肉を鍛えると、重いブロックを運ぶのが簡単になります。",
+          "ipa": "/ˈbɪldɪŋ ˈstɹɔŋ ˈmʌsəlz ˈhɛlps ju ˈkæri ˈhɛvi ˈblɑks ˈmɔːr ˈiːzəli/",
+          "linking": [
+            "muscles の z が helps に続く（子音+子音、連結なし）",
+            "helps は [ˈhɛlps]。you に続く"
+          ],
+          "kana": "ビルディング ストロング マッスルズ ヘルプス ユー キャリー ヘビー ブロックス モアー イージリー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "muscles",
+      "ipa": "/ˈmʌsəlz/",
+      "examples": [
+        {
+          "en": "He muscles his way through the cave to find diamonds.",
+          "ja": "彼は洞窟を力ずくで進み、ダイアモンドを探します。",
+          "ipa": "/hi ˈmʌsəlz hɪz ˈweɪ ˈθɹuː ðə ˈkeɪv tə ˈfaɪnd ˈdaɪəmɑndz/",
+          "linking": [
+            "cave の末尾子音 /v/ が to の初頭音 /t/ に続く（子音+子音、連結なし）。to は弱形 /tə/"
+          ],
+          "kana": "ヒー マッスルズ ヒズ ウェイ スルー ザ ケイヴ タ ファインド ダイアモンズ"
+        },
+        {
+          "en": "The player muscles past the hostile mobs with determination.",
+          "ja": "プレイヤーは決意を持って敵対的なモブを力ずくで退治します。",
+          "ipa": "/ðə ˈpleɪər ˈmʌsəlz ˈpæst ðə ˈhɑsˌtaɪl ˈmɑbz wɪð ˌdɛtərməˈneɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/ で player に連結 [ðə ˈpleɪər] ザ プレイヤー",
+            "mobs の末尾子音 /z/ が with の初頭子音 /w/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ プレイヤー マッスルズ パスト ザ ホスタイル モブズ ウィズ デターミネイション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "muscled",
+      "ipa": "/ˈmʌsəld/",
+      "examples": [
+        {
+          "en": "The explorer muscled through the Nether and survived.",
+          "ja": "探検家はネザーを力ずくで通り抜け、生き残りました。",
+          "ipa": "/ðə ɪkˈsplɔːrər ˈmʌsəld ˈθɹuː ðə ˈnɛðər ænd sərˈvaɪvd/",
+          "linking": [
+            "the は弱形 /ðə/ で explorer に連結 [ðə ɪkˈsplɔːrər] ザ エクスプローラー",
+            "Nether の r が and に続く（子音+子音、連結なし）。and は弱形 /ənd/"
+          ],
+          "kana": "ザ エクスプローラー マッスルド スルー ザ ネザー アン サーヴァイヴド"
+        },
+        {
+          "en": "They muscled past the Ender Dragon's attacks and won the battle.",
+          "ja": "彼らはエンダードラゴンの攻撃を力ずくで退治し、戦いに勝利しました。",
+          "ipa": "/ðeɪ ˈmʌsəld ˈpæst ðə ˈɛndər ˈdræɡənz əˈtæks ænd ˈwʌn ðə ˈbætəl/",
+          "linking": [
+            "the は弱形 /ðə/ で Ender に連結",
+            "attacks の末尾子音 /s/ が and に続く（子音+子音、連結なし）。and は弱形 /ənd/"
+          ],
+          "kana": "ゼイ マッスルド パスト ザ エンダー ドラゴンズ アタックス アン ワン ザ バトル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "muscled",
+      "ipa": "/ˈmʌsəld/",
+      "examples": [
+        {
+          "en": "Having muscled through the cave, the player finally found diamonds.",
+          "ja": "洞窟を力ずくで進み抜けたプレイヤーは、ついにダイアモンドを見つけました。",
+          "ipa": "/ˈheɪvɪŋ ˈmʌsəld ˈθɹuː ðə ˈkeɪv | ðə ˈpleɪər ˈfaɪnəli ˈfaʊnd ˈdaɪəmɑndz/",
+          "linking": [
+            "cave の末尾子音 /v/ が the に連結 [ˈkeɪv ðə] ケイヴ ザ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング マッスルド スルー ザ ケイヴ、ザ プレイヤー ファイナリー ファウンド ダイアモンズ"
+        },
+        {
+          "en": "The fortress was muscled through by skilled players in record time.",
+          "ja": "要塞は熟練したプレイヤーによって記録的な時間で力ずくで突破されました。",
+          "ipa": "/ðə ˈfɔːrtrəs wəz ˈmʌsəld ˈθɹuː baɪ ˈskɪld ˈpleɪərz ɪn ˈrɛkɚd ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/ で fortress に連結 [ðə ˈfɔːrtrəs] ザ フォートレス",
+            "was は弱形 /wəz/ で muscled と連結 [wəz ˈmʌsəld] ワズ マッスルド"
+          ],
+          "kana": "ザ フォートレス ワズ マッスルド スルー バイ スキルド プレイヤーズ イン レコード タイム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "muscling",
+      "ipa": "/ˈmʌsəlɪŋ/",
+      "examples": [
+        {
+          "en": "Muscling through the cave without tools is very difficult.",
+          "ja": "道具なしに洞窟を力ずくで進むのは非常に難しいです。",
+          "ipa": "/ˈmʌsəlɪŋ ˈθɹuː ðə ˈkeɪv wɪˈtaʊt ˈtulz ɪz ˈvɛri ˈdɪfɪkəlt/",
+          "linking": [
+            "cave の末尾子音 /v/ が without に連結 [ˈkeɪv wɪˈtaʊt] ケイヴ ウィザウト",
+            "tools の末尾子音 /z/ が is に続く（子音+子音、連結なし）"
+          ],
+          "kana": "マッスリング スルー ザ ケイヴ ウィザウト トゥールズ イズ ベリー ディフィカルト"
+        },
+        {
+          "en": "By muscling through obstacles, players improve their mining skills faster.",
+          "ja": "障害物を力ずくで突破することで、プレイヤーは採掘スキルをより速く向上させます。",
+          "ipa": "/baɪ ˈmʌsəlɪŋ ˈθɹuː ˌɑbstəkəlz | ˈpleɪərz ɪmˈpruːv ðɛər ˈmaɪnɪŋ ˈskɪlz ˈfæstər/",
+          "linking": [
+            "muscling は [ˈmʌsəlɪŋ]。through に続く",
+            "obstacles は [ˌɑbstəkəlz]。players に続く（子音+子音、連結なし）"
+          ],
+          "kana": "バイ マッスリング スルー オブスタクルズ、プレイヤーズ イムプルーヴ ゼア マイニング スキルズ ファスター"
+        }
+      ]
+    }
   ]
 }

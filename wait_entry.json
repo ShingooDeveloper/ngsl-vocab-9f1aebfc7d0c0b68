@@ -234,6 +234,108 @@
           "kana": "マルティプル ウェイツ フォー レソースィズ アッダップ トゥ ロッツ アヴ ウェイスティド タイム イン サーヴァイヴァル モード"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is waiting",
+      "ipa": "/ɪz ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She is waiting at the nether portal for her teammates.",
+          "ja": "彼女はチームメイトのためにネザーポータルで待機しています。",
+          "ipa": "/ʃi ɪz ˈweɪtɪŋ æt ðə ˈnɛðər ˈpoʊrtəl fɔr hər ˈtimˌmeɪts/",
+          "linking": [
+            "is waiting → is は弱形 /ɪz/。waiting に /z/ が連結なし [ɪz ˈweɪtɪŋ]",
+            "waiting at → 語末子音 /ŋ/ が母音に続く。連結なし",
+            "at the → at は弱形 /æt/。the は弱形 /ðə/",
+            "for her → for は弱形 /fɔr/。her は弱形 /ər/ または /ɚ/"
+          ],
+          "kana": "シー イズ ウェイティング アット ザ ネザー ポータル フォー ハー ティームメイツ"
+        },
+        {
+          "en": "They are waiting inside the base while the rain pours outside.",
+          "ja": "彼らは外の雨が降る間、基地の中で待機しています。",
+          "ipa": "/ðeɪ ɑr ˈweɪtɪŋ ɪnˈsaɪd ðə beɪs waɪl ðə reɪn pɔrz ˌaʊtˈsaɪd/",
+          "linking": [
+            "are waiting → are は弱形 /ɚ/。waiting に /r/ が連結 [ɚ ˈweɪtɪŋ]",
+            "waiting inside → 語末子音 /ŋ/ が母音に続く。連結なし",
+            "inside the → the は弱形 /ðə/",
+            "the base → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ アー ウェイティング インサイド ザ ベイス ワイル ザ レイン ポーズ アウトサイド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was waiting",
+      "ipa": "/wəz ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was waiting for the sun to rise before exploring the deep forest.",
+          "ja": "深い森を探索する前に、太陽が昇るのを待っていました。",
+          "ipa": "/aɪ wəz ˈweɪtɪŋ fɔr ðə sʌn tə raɪz bɪˈfɔr ɪkˈsplɔrɪŋ ðə dip ˈfɔrɪst/",
+          "linking": [
+            "was waiting → was は弱形 /wəz/。waiting に /z/ が連結なし [wəz ˈweɪtɪŋ]",
+            "waiting for → 語末子音 /ŋ/ が子音に続く。連結なし。for は弱形 /fɔr/",
+            "for the → for は弱形 /fɔr/。the は弱形 /ðə/",
+            "the sun → the は弱形 /ðə/",
+            "to rise → to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ ワズ ウェイティング フォー ザ サン タ ライズ ビフォア イクスプロアリング ザ ディープ フォレスト"
+        },
+        {
+          "en": "We were waiting in the cave system when the creepers suddenly appeared.",
+          "ja": "クリーパーが突然現れたときに、私たちは洞窟システムの中で待機していました。",
+          "ipa": "/wi wɚ ˈweɪtɪŋ ɪn ðə keɪv ˈsɪstəm wɛn ðə ˈkriːpərz ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "were waiting → were は弱形 /wɚ/。waiting に /r/ が連結 [wɚ ˈweɪtɪŋ]",
+            "waiting in → 語末子音 /ŋ/ が母音に続く。連結なし。in は弱形 /ɪn/",
+            "in the → in は弱形 /ɪn/。the は弱形 /ðə/",
+            "the cave → the は弱形 /ðə/",
+            "when the → the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ワー ウェイティング イン ザ ケイヴ システム ウェン ザ クリーパーズ サドゥンリー アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been waiting",
+      "ipa": "/həd bɪn ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been waiting for an hour by the time my friend finally joined me on the server.",
+          "ja": "私の友達がサーバーに参加するまでに、私は1時間待っていました。",
+          "ipa": "/aɪ həd bɪn ˈweɪtɪŋ fɔr ən ˈaʊər baɪ ðə taɪm maɪ frɛnd ˈfaɪnəli ˈdʒɔɪnd mi ɑn ðə ˈsɝvər/",
+          "linking": [
+            "had been → had は弱形 /həd/。been は弱形 /bɪn/",
+            "been waiting → been は弱形 /bɪn/。waiting に /n/ が連結 [bɪn ˈweɪtɪŋ]",
+            "waiting for → 語末子音 /ŋ/ が子音に続く。連結なし。for は弱形",
+            "for an → for は弱形 /fɔr/。an は弱形 /ən/",
+            "by the → the は弱形 /ðə/",
+            "me on → on は弱形 /ɑn/ または /ən/"
+          ],
+          "kana": "アイ ハド ビン ウェイティング フォー エン アワー バイ ザ タイム マイ フレンド ファイナリー ジョインド ミー オン ザ サーバー"
+        },
+        {
+          "en": "They had been waiting at the spawn point for three days when the update finally dropped.",
+          "ja": "アップデートが最終的にドロップしたとき、彼らはスポーンポイントで3日間待っていました。",
+          "ipa": "/ðeɪ həd bɪn ˈweɪtɪŋ æt ðə spoʊn pɔɪnt fɔr θri deɪz wɛn ðə ʌpˈdeɪt ˈfaɪnəli ˈdrɑpt/",
+          "linking": [
+            "had been → had は弱形 /həd/。been は弱形 /bɪn/",
+            "been waiting → been は弱形 /bɪn/。waiting に /n/ が連結 [bɪn ˈweɪtɪŋ]",
+            "waiting at → 語末子音 /ŋ/ が母音に続く。連結なし",
+            "at the → at は弱形 /æt/。the は弱形 /ðə/",
+            "the spawn → the は弱形 /ðə/",
+            "for three → for は弱形 /fɔr/"
+          ],
+          "kana": "ゼイ ハド ビン ウェイティング アット ザ スポウン ポイント フォー スリー デイズ ウェン ザ アップデイト ファイナリー ドラップト"
+        }
+      ]
     }
   ]
 }

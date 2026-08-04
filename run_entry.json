@@ -185,6 +185,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is running",
+      "ipa": "/ɪz ˈrʌnɪŋ/",
+      "examples": [
+        {
+          "en": "She is running from the skeleton in the dark forest.",
+          "ja": "彼女は暗い森のスケルトンから走って逃げています。",
+          "ipa": "/ʃi ɪz ˈrʌnɪŋ frəm ðə ˈskɛlɪtn ɪn ðə ˈdɑrk ˈfɔrəst/",
+          "kana": "シ イズ ラニング フラム ザ スケリトン イン ザ ダーク フォレスト",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/",
+            "in the: in の語末 /n/ が the の弱形 /ðə/ に連結 [ɪn ðə] インザ",
+            "from は前置詞で弱形 /frəm/"
+          ]
+        },
+        {
+          "en": "The players are running toward the village to find shelter.",
+          "ja": "プレイヤーたちは避難所を探すために村に向かって走っています。",
+          "ipa": "/ðə ˈpleɪərz ɑr ˈrʌnɪŋ ˈtɔrd ðə ˈvɪlɪdʒ tə ˈfaɪnd ˈʃɛltɚ/",
+          "kana": "ザ プレイヤーズ アー ラニング トワード ザ ヴィリッジ タ ファインド シェルター",
+          "linking": [
+            "are は助動詞で弱形 /ɑr/ から /ə/",
+            "the は冠詞で弱形 /ðə/ （2回出現）",
+            "to は機能語で弱形 /tə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was running",
+      "ipa": "/wəz ˈrʌnɪŋ/",
+      "examples": [
+        {
+          "en": "I was running when the cave collapsed behind me.",
+          "ja": "私が走っているとき、背後の洞窟が崩壊しました。",
+          "ipa": "/aɪ wəz ˈrʌnɪŋ wɛn ðə ˈkeɪv kəˈlæpst bɪˈhaɪnd mi/",
+          "kana": "アイ ワズ ラニング ウェン ザ ケイヴ コラプスト ビハインド ミー",
+          "linking": [
+            "was は助動詞で弱形 /wəz/",
+            "when the: when の語末 /n/ が the の弱形 /ðə/ に連結 [wɛn ðə] ウェンザ",
+            "the は冠詞で弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "They were running desperately as the creeper was chasing them.",
+          "ja": "クリーパーが追いかけているとき、彼らは必死に走っていました。",
+          "ipa": "/ðeɪ wɚ ˈrʌnɪŋ ˈdɛspərɪtli æz ðə ˈkripɚ wəz ˈtʃeɪsɪŋ ðɛm/",
+          "kana": "ゼイ ウェア ラニング デスペラットリー アズ ザ クリーパー ワズ チェイシング ゼム",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/",
+            "the は冠詞で弱形 /ðə/",
+            "was は助動詞で弱形 /wəz/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been running",
+      "ipa": "/həd bɪn ˈrʌnɪŋ/",
+      "examples": [
+        {
+          "en": "She had been running for hours before she found the underground base.",
+          "ja": "彼女は地下基地を見つける前に数時間走っていました。",
+          "ipa": "/ʃi həd bɪn ˈrʌnɪŋ fər ˈaʊərz bɪˈfɔr ʃi ˈfaʊnd ðə ˈʌndərˌɡraʊnd ˈbeɪs/",
+          "kana": "シー ハド ビン ラニング フォー アワーズ ビフォア シー ファウンド ザ アンダーグラウンド ベイス",
+          "linking": [
+            "had been: had と been は助動詞で弱形 /həd/, /bɪn/",
+            "for は前置詞で弱形 /fər/ または /fə/",
+            "the は冠詞で弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The miners had been running through tunnels when the lava appeared.",
+          "ja": "鉱夫たちは溶岩が現れるまでトンネルを走り続けていました。",
+          "ipa": "/ðə ˈmaɪnərz həd bɪn ˈrʌnɪŋ θru ˈtʌnəlz wɛn ðə ˈlɑvə əˈpɪrd/",
+          "kana": "ザ マイナーズ ハド ビン ラニング スルー タンネルズ ウェン ザ ラーヴァ アピアード",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "had been: had と been は助動詞で弱形 /həd/, /bɪn/",
+            "when the: when の語末 /n/ が the の弱形 /ðə/ に連結 [wɛn ðə] ウェンザ"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

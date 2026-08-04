@@ -52,5 +52,67 @@
       ],
       "kana": "オール アヴァ サドゥン ザ グラウンド ブロウク ビニス ミー アン アイ フェル イントゥ ア ラヴィン"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more sudden",
+      "ipa": "/ˌmɔɹ ˈsʌdən/",
+      "examples": [
+        {
+          "en": "Falling into the void is more sudden than I realized.",
+          "ja": "虚無に落ちるのは思ったより突然です。",
+          "ipa": "/ˈfɔlɪŋ ˈɪntu ðə vɔɪd ɪz ˌmɔɹ ˈsʌdən ðæn aɪ riˈælɪzd/",
+          "linking": [
+            "the void → the は冠詞で弱形 /ðə/",
+            "is more → is が弱形 /ɪz/ で more に続く",
+            "than I → 語末子音 /n/ が母音 /aɪ/ に連結し [ðæ naɪ] ザナイとなる"
+          ],
+          "kana": "フォーリング イントゥ ザ ボイド イズ モア サドゥン ザナイ リアライズド"
+        },
+        {
+          "en": "A cave collapse is more sudden than I thought.",
+          "ja": "洞窟の崩落は思ったより突然です。",
+          "ipa": "/ə keɪv kəˈlæps ɪz ˌmɔɹ ˈsʌdən ðæn aɪ θɔt/",
+          "linking": [
+            "a cave → a は冠詞で弱形 /ə/",
+            "is more → is が弱形 /ɪz/",
+            "than I → 語末子音 /n/ が母音 /aɪ/ に連結"
+          ],
+          "kana": "ア ケイブ カラプス イズ モア サドゥン ザナイ ソット"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most sudden",
+      "ipa": "/ˌmoʊst ˈsʌdən/",
+      "examples": [
+        {
+          "en": "That's the most sudden explosion I've ever seen.",
+          "ja": "それは私が見た最も突然の爆発です。",
+          "ipa": "/ðæts ðə ˌmoʊst ˈsʌdən ɪkˈsploʊʒən aɪv ˈɛvɚ sin/",
+          "linking": [
+            "that's the → that's は /ðæts/、the は弱形 /ðə/",
+            "the most → the は弱形 /ðə/（2回目）",
+            "I've ever → have の末尾子音 /v/ が ever の初頭母音 /ɛ/ に連結し [aɪ vɛvɚ] アイヴエヴァとなる"
+          ],
+          "kana": "ザッツ ザ モウスト サドゥン イクスプロージョン アイヴエヴァ シーン"
+        },
+        {
+          "en": "Creeper attacks are the most sudden hazard in multiplayer mode.",
+          "ja": "クリーパー攻撃はマルチプレイモードで最も突然の危険です。",
+          "ipa": "/ˈkripɚ əˈtæks ɑr ðə ˌmoʊst ˈsʌdən ˈhæzərd ɪn ˌmʌltiˈpleɪər moʊd/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most sudden → 語末子音 /t/ が子音 /s/ に接続（子音クラスター）",
+            "sudden hazard → 語末 /n/ が子音 /h/ に接続"
+          ],
+          "kana": "クリーパー アタックス アー ザ モウスト サドゥン ハザード イン マルチプレイアー モード"
+        }
+      ]
+    }
   ]
 }

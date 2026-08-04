@@ -114,6 +114,91 @@
           "kana": "ブリンギング モア ブロックス ヒア リクワイアーザ マインカート"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bringing",
+      "ipa": "/ɪz ˈbrɪŋɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is bringing items to the chest.",
+          "ja": "ホッパーがアイテムをチェストに運んでいます。",
+          "ipa": "[ðə ˈhɑpɚ ɪz ˈbrɪŋɪŋ ˈaɪɾəmz tə ðə ˈtʃɛst]",
+          "linking": [
+            "is bringing → is は弱形 /ɪz/。bringing に連結しない（子音+子音）",
+            "items → t が母音に挟まれフラップ化 [ˈaɪɾəmz]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ハッパ イズ ブリンギング アイラムズ タ ザ チェスト"
+        },
+        {
+          "en": "We are bringing all the supplies from mining.",
+          "ja": "私たちはマイニングからすべての物資を運んでいます。",
+          "ipa": "[wi ɑr ˈbrɪŋɪŋ ɔl ðə səˈplaɪz ˈfrəm ˈmaɪnɪŋ]",
+          "linking": [
+            "are bringing → are は弱形。bringing に連結しない",
+            "the supplies → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー ブリンギング オール ザ サプライズ フラム マイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bringing",
+      "ipa": "/wəz ˈbrɪŋɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone circuit was bringing power to all the lamps.",
+          "ja": "レッドストーン回路がすべてのランプに電力を供給していました。",
+          "ipa": "[ðə ˈrɛdˌstoʊn ˈsɝkɪt wəz ˈbrɪŋɪŋ ˈpaʊɚ tə ɔl ðə ˈlæmps]",
+          "linking": [
+            "was bringing → was は弱形 /wəz/。bringing に連結しない",
+            "to all → to は弱形 /tə/"
+          ],
+          "kana": "ザ レッドストーン サーキット ワズ ブリンギング パウアー タ オール ザ ランプス"
+        },
+        {
+          "en": "We were bringing supplies when the enderman appeared.",
+          "ja": "エンダーマンが現れたとき、私たちは物資を運んでいました。",
+          "ipa": "[wi wɚ ˈbrɪŋɪŋ səˈplaɪz wɛn ðə ˈɛndɚmən əˈpɪɹd]",
+          "linking": [
+            "were bringing → were は弱形 /wɚ/。bringing に連結しない",
+            "the enderman → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ワー ブリンギング サプライズ ウェン ザ エンダーマン アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bringing",
+      "ipa": "/hæd bɪn ˈbrɪŋɪŋ/",
+      "examples": [
+        {
+          "en": "I had been bringing diamonds when the cave collapsed.",
+          "ja": "洞窟が崩壊したとき、ダイヤモンドを持ち込んでいました。",
+          "ipa": "[aɪ hæd bɪn ˈbrɪŋɪŋ ˈdaɪəmɑndz wɛn ðə ˈkeɪv kəˈlæpst]",
+          "linking": [
+            "had been → had は弱化傾向。been は弱形 /bɪn/",
+            "the cave → the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハッド ビン ブリンギング ダイアモンズ ウェン ザ ケイブ カラプスト"
+        },
+        {
+          "en": "We had been bringing supplies to the mine for hours when Steve arrived.",
+          "ja": "スティーヴが到着したとき、私たちは数時間マインに物資を持ち込んでいました。",
+          "ipa": "[wi hæd bɪn ˈbrɪŋɪŋ səˈplaɪz tə ðə ˈmaɪn fɔr ˈaʊɚz wɛn ˈstiv əˈɹaɪvd]",
+          "linking": [
+            "had been → had は弱化。been は弱形 /bɪn/",
+            "for hours → for の r が hours の [aʊ] に連結 [fɔɹ aʊɚz]"
+          ],
+          "kana": "ウィ ハッド ビン ブリンギング サプライズ タ ザ マイン フォア アウアーズ ウェン スティーブ アライヴド"
+        }
+      ]
     }
   ]
 }

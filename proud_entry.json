@@ -55,5 +55,63 @@
       ],
       "kana": "アイム プラウダヴ ザ ポータル アイ ディザインド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "prouder",
+      "ipa": "/ˈpraʊdər/",
+      "examples": [
+        {
+          "en": "I feel prouder about this achievement than my first house.",
+          "ja": "このアチーブメントについて、最初の家より誇りに思う。",
+          "ipa": "[aɪ ˈfil ˈpraʊdərəˈbaʊt ðɪsəˈtʃɪvmənt ðæn maɪ ˈfɜrst haʊs]",
+          "linking": [
+            "prouder about → 語末子音 /r/ が初頭母音 /ə/ に連結 [ˈpraʊdərə] プラウダラ",
+            "this achievement → 語末子音 /s/ が初頭母音 /ə/ に連結 [ðɪsə] ディサ"
+          ],
+          "kana": "アイ フィール プラウダラバウト ディサチーヴメント ザン マイ ファースト ハウス"
+        },
+        {
+          "en": "Steve feels prouder in diamond armor than in iron armor.",
+          "ja": "スティーブはダイヤモンド防具の方がアイアン防具より誇りに感じる。",
+          "ipa": "[stiːv filz ˈpraʊdərɪn ˈdaɪmənˈɑɹmər ðæn ɪn ˈaɪɚn ˈɑɹmər]",
+          "linking": [
+            "prouder in → 語末子音 /r/ が初頭母音 /ɪ/ に連結 [ˈpraʊdərɪn] プラウダリン",
+            "diamond armor → 語末子音 /d/ が初頭母音 /ɑ/ に連結 [ˈdaɪmənˈɑɹmər] ダイマナーマー"
+          ],
+          "kana": "スティーヴ フィルズ プラウダリン ダイマナーマー ザン イン アイァーン アーマー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "proudest",
+      "ipa": "/ˈpraʊdəst/",
+      "examples": [
+        {
+          "en": "That's the proudest moment when we defeat the Ender Dragon together.",
+          "ja": "エンダードラゴンを一緒に倒すのは、最も誇りに思える瞬間だ。",
+          "ipa": "[ðæt̚ ðə ˈpraʊdəst ˈmoʊmənt wɛn wi dɪˈfit̚ ðə ˈɛndər ˈdræɡən tə ˈɡɛðər]",
+          "linking": [
+            "That's the → That's の語末子音 /t̚/ が未開放で詰まる [ðæt̚] ザッ。the は弱形 /ðə/ ザ",
+            "defeat the → defeat の語末子音 /t̚/ が未開放。the は弱形 /ðə/"
+          ],
+          "kana": "ザッ ザ プラウデスト モーメント ウェン ウィ ディフィット ザ エンダー ドラゴン トゥゲザー"
+        },
+        {
+          "en": "I'm the proudest player in the server right now!",
+          "ja": "私はこのサーバーで今、最も誇りに思っているプレイヤーだ！",
+          "ipa": "[aɪm ðə ˈpraʊdəst ˈpleɪər ɪn ðə ˈsɜrvər raɪt naʊ]",
+          "linking": [
+            "I'm the → I'm の /m/ が the の弱形 /ðə/ に続く [aɪm ðə] アイム ザ",
+            "in the → in /ɪn/ の /n/ が the の弱形 /ðə/ に続く。the は [ðə] ザ"
+          ],
+          "kana": "アイム ザ プラウデスト プレイヤー イン ザ サーヴァー ライト ナウ"
+        }
+      ]
+    }
   ]
 }

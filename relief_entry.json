@@ -51,6 +51,40 @@
       "kana": "マイ ヒーリング ポロウション ブロート インスタント リリーフ ウェン ザ クリーパーズ イクスプロウション ダミジド ミー"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "reliefs",
+      "ipa": "/rɪˈliːfz/",
+      "examples": [
+        {
+          "en": "Beautiful stone reliefs decorated the ancient temple structure.",
+          "ja": "美しい石の浮き彫りが古い寺院の構造を飾っていました。",
+          "ipa": "/ˈbjuːtəfəl stoʊn rɪˈliːfz ˈdɛkəreɪtɪd ðə ˈeɪnʃənt ˈtɛmpəl ˈstrʌktʃɚ/",
+          "linking": [
+            "beautiful stone → beautiful の /l/ が stone に連結 [ˈbjuːtəfəl stoʊn] ビューティフル ストウン",
+            "stone reliefs → stone の /n/ が reliefs の /r/ に先行 [stoʊn rɪˈliːfz] ストウン リリーフズ",
+            "the ancient → the は弱形 /ðə/ [ðə ˈeɪnʃənt] ザ エインシャント",
+            "temple structure → temple の /l/ が structure に連結 [ˈtɛmpəl ˈstrʌktʃɚ] テンパル ストラクチャー"
+          ],
+          "kana": "ビューティフル ストウン リリーフズ デコレイティド ザ エインシャント テンパル ストラクチャー"
+        },
+        {
+          "en": "The explorer discovered reliefs carved by previous builders deep inside.",
+          "ja": "探検家は以前のビルダーによって彫られた浮き彫りを深い場所で発見した。",
+          "ipa": "/ðə ekˈsploʊrɚ dɪsˈkʌvɚd rɪˈliːfz kɑrvd baɪ ˈpriːviəs ˈbɪldɚz dip ɪnˈsaɪd/",
+          "linking": [
+            "the explorer → the は弱形 /ðə/ [ðə ekˈsploʊrɚ] ザ エクスプローラー",
+            "discovered reliefs → discovered の /d/ が reliefs に先行 [dɪsˈkʌvɚd rɪˈliːfz] ディスカヴァード リリーフズ",
+            "carved by → carved の /d/ が by に先行、by は弱形 /baɪ/ [kɑrvd baɪ] カーヴド バイ",
+            "deep inside → deep の /p/ が inside に連結 [dip ɪnˈsaɪd] ディープ インサイド"
+          ],
+          "kana": "ザ エクスプローラー ディスカヴァード リリーフズ カーヴド バイ プリービアス ビルダーズ ディープ インサイド"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "what a relief",

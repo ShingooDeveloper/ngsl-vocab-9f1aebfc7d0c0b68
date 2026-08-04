@@ -67,5 +67,141 @@
       ],
       "kana": "ディス ハウス ワズ アダプティッ フォ ザ スノウイ ウェザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "adapts",
+      "ipa": "/əˈdæpts/",
+      "examples": [
+        {
+          "en": "My base adapts to the terrain, making construction much easier.",
+          "ja": "私の基地は地形に適応し、建築がずっと簡単になります。",
+          "ipa": "/maɪ ˈbeɪs əˈdæpts tu ðə ˈtɛreɪn | ˈmeɪkɪŋ kənˈstrʌkʃən ˈmʌtʃ ˈiːzər/",
+          "linking": [
+            "adapts to → /ts/ + /t/ が続く（子音+子音、連結なし）。to は弱形 /tə/ [əˈdæpts tə] アダプツ タ",
+            "the は弱形 /ðə/。terrain の /t/ で始まる（母音+子音）。",
+            "much の /tʃ/ が easier の /ˈiː/ に連結（子音+母音、連結あり）[ˈmʌtʃ ˈiːzər] マッチ イージャー"
+          ],
+          "kana": "マイ ベース アダプツ トゥ ザ テレイン、メイキング コンストラクション マッチ イージャー"
+        },
+        {
+          "en": "The structure adapts well when the weather changes every season.",
+          "ja": "毎シーズン天候が変わるとき、構造はよく適応します。",
+          "ipa": "/ðə ˈstrʌktʃɚ əˈdæpts ˈwɛl wɛn ðə ˈwɛðər ˈtʃeɪndʒɪz ˈɛvri ˈsiːzən/",
+          "linking": [
+            "the は弱形 /ðə/。structure の /s/ で始まる（母音+子音）。",
+            "adapts の /ts/ が well の /w/ で続く（子音+子音、連結なし）[əˈdæpts ˈwɛl] アダプツ ウェル",
+            "when の n が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [wɛn ðə] ウェン ザ",
+            "every の /i/ が season の /s/ で続く（母音+子音、連結なし）[ˈɛvri ˈsiːzən] エブリー シーズン"
+          ],
+          "kana": "ザ ストラクチャー アダプツ ウェル ウェン ザ ウェザー チェンジズ エブリー シーズン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "adapted",
+      "ipa": "/əˈdæptɪd/",
+      "examples": [
+        {
+          "en": "We adapted our farming technique when we discovered the fertile plains biome.",
+          "ja": "肥沃な平原バイオームを発見したとき、農業技術を改良しました。",
+          "ipa": "/wi əˈdæptɪd ˈaʊɚ ˈfɑːrmɪŋ ˈtɛkˌnik wɛn wi dɪˈskʌvɚd ðə ˈfɝːtəl ˈpleɪnz baɪˈoʊm/",
+          "linking": [
+            "adapted の d が our に連結。our は弱形 /ˈaʊɚ/（子音+母音）[əˈdæptɪd ˈaʊɚ] アダプティッド アワー",
+            "farming は /ˈfɑːrmɪŋ/。technique に続く [ˈfɑːrmɪŋ ˈtɛkˌnik] ファーミング テクニック",
+            "when の n が we に続く（子音+子音、連結なし）",
+            "discovered の d が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [dɪˈskʌvɚd ðə] ディスカバード ザ"
+          ],
+          "kana": "ウィ アダプティッド アワー ファーミング テクニック、ウェン ウィ ディスカバード ザ ファーテル プレインズ バイオーム"
+        },
+        {
+          "en": "I adapted this redstone design after testing showed several problems.",
+          "ja": "テストで何か問題が明らかになった後、このレッドストーンデザインを改造しました。",
+          "ipa": "/aɪ əˈdæptɪd ðɪs ˈrɛdˌstoʊn dɪˈzaɪn ˈæftər ˈtɛstɪŋ ˈʃoʊd ˈsɛvrəl ˈprɑːbləmz/",
+          "linking": [
+            "adapted の d が this に続く（子音+子音、連結なし）",
+            "this は /ðɪs/ です",
+            "design は /dɪˈzaɪn/。after に続く",
+            "testing の g が showed に続く（子音+子音、連結なし）",
+            "problems の z が文末 [ˈprɑːbləmz]"
+          ],
+          "kana": "アイ アダプティッド ディス レッドストーン ディザイン、アフター テスティング ショウド セブラル プラブレムズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "adapted",
+      "ipa": "/əˈdæptɪd/",
+      "examples": [
+        {
+          "en": "Having adapted our strategy to the Nether's unique challenges, we finally found the fortress.",
+          "ja": "ネザーのユニークな課題に戦略を適応させた後、ついに要塞を見つけました。",
+          "ipa": "/ˈheɪvɪŋ əˈdæptɪd ˈaʊɚ ˈstrætədʒi tu ðə ˈnɛðɚz juˈnik ˈtʃælənʤɪz | wi ˈfaɪnəli ˈfaʊnd ðə ˈfɔːrtrɪs/",
+          "linking": [
+            "Having の /ŋ/ が adapted に連結（子音+母音）[ˈheɪvɪŋ əˈdæptɪd] ハヴィング アダプティッド",
+            "adapted の d が our に連結。our は弱形 /ˈaʊɚ/ [əˈdæptɪd ˈaʊɚ] アダプティッド アワー",
+            "strategy の /i/ が to に続く（母音+子音、連結なし）。to は弱形 /tə/",
+            "the は弱形 /ðə/。Nether の /n/ で始まる（母音+子音）[ðə ˈnɛðɚz] ザ ネザーズ",
+            "finally は /ˈfaɪnəli/。found に続く [ˈfaɪnəli ˈfaʊnd] ファイナリー ファウンド"
+          ],
+          "kana": "ハヴィング アダプティッド アワー ストラテジー トゥ ザ ネザーズ ユニーク チャレンジズ、ウィ ファイナリー ファウンド ザ フォートレス"
+        },
+        {
+          "en": "The base has been adapted for better efficiency and storage capacity.",
+          "ja": "基地は効率と保管容量を向上させるために改造されました。",
+          "ipa": "/ðə ˈbeɪs həz bɪn əˈdæptɪd fɔr ˈbɛtər ɪˈfɪʃənsi‿ənd ˈstɔːrɪdʒ kəˈpæsɪti/",
+          "linking": [
+            "the は弱形 /ðə/。base の /b/ で始まる（母音+子音）[ðə ˈbeɪs] ザ ベース",
+            "has は弱形 /həz/。been は /bin/ で始まる（子音+子音、連結なし）[həz bɪn] ハズ ビン",
+            "been の n が adapted に続く（子音+母音、連結あり）[bɪn əˈdæptɪd] ビン アダプティッド",
+            "efficiency の /i/ が and の /ə/ に続く（母音+母音、境界）。and は弱形 /ənd/ [ɪˈfɪʃənsi ənd] エフィシェンシー アンド",
+            "and の d が storage に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ベース ハズ ビン アダプティッド フォー ベター エフィシェンシー アンド ストレッジ キャパシティー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "adapting",
+      "ipa": "/əˈdæptɪŋ/",
+      "examples": [
+        {
+          "en": "Adapting to a new world generation system required learning many new survival skills.",
+          "ja": "新しいワールド生成システムに適応することは、多くの新しい生存スキルを習得することを必要としました。",
+          "ipa": "/əˈdæptɪŋ tu ə ˈnu ˈwɝːld ˌdʒɛnəˈreɪʃən ˈsɪstəm rɪˈkwaɪrd ˈlɝːnɪŋ ˈmɛni ˈnu sərˈvaɪvəl ˈskɪlz/",
+          "linking": [
+            "Adapting の g が to に続く（子音+子音、連結なし）。to は弱形 /tə/ [əˈdæptɪŋ tə] アダプティング タ",
+            "a は弱形 /ə/。new の /n/ で始まる（母音+子音、連結なし）[ə ˈnu] ア ニュー",
+            "world は /ˈwɝːld/。generation の /dʒ/ で始まる（子音+子音、連結なし）",
+            "many の /i/ が new の /n/ で続く（母音+子音、連結なし）[ˈmɛni ˈnu] メニー ニュー",
+            "new は /ˈnu/。survival に続く"
+          ],
+          "kana": "アダプティング タ ア ニュー ワールド ジェネレイション システム、リクワイアード ラーニング メニー ニュー サーバイバル スキルズ"
+        },
+        {
+          "en": "While adapting our base layout, we stumbled upon a hidden cave system beneath the surface.",
+          "ja": "基地のレイアウトを改良している間、表面下の隠れた洞窟システムを発見しました。",
+          "ipa": "/waɪl əˈdæptɪŋ ˈaʊɚ ˈbeɪs ˈleɪˌaʊt | wi ˈstʌmbəld əˈpɑːn ə ˈhɪdn ˈkeɪv ˈsɪstəm bɪˈniːθ ðə ˈsɝːfɪs/",
+          "linking": [
+            "While の l が adapting に連結（子音+母音）[waɪl əˈdæptɪŋ] ワイル アダプティング",
+            "adapting の g が our に連結（子音+母音）[əˈdæptɪŋ ˈaʊɚ] アダプティング アワー",
+            "base は /ˈbeɪs/。layout に続く",
+            "we は /wi/ です",
+            "upon の n が a に連結（子音+母音）。a は弱形 /ə/ [əˈpɑːn ə] アポン ア",
+            "hidden は /ˈhɪdn/。cave に続く [ˈhɪdn ˈkeɪv] ヒデン ケーヴ",
+            "beneath の th が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [bɪˈniːθ ðə] ビニース ザ"
+          ],
+          "kana": "ワイル アダプティング アワー ベース レイアウト、ウィ スタンブルド アポン ア ヒデン ケーヴ システム ビニース ザ サーフィス"
+        }
+      ]
+    }
   ]
 }

@@ -64,5 +64,38 @@
       ],
       "kana": "イン ザ エイブサンス ア ウッド ウィー キャント クラフト ウッデン トゥールズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "absences",
+      "ipa": "/ˈæbsənsɪz/",
+      "examples": [
+        {
+          "en": "The repeated absences annoyed everyone on the server.",
+          "ja": "繰り返される欠席がサーバー上のすべての人を困らせた。",
+          "ipa": "[ðə rɪˈpitɪd ˈæbsənsɪz əˈnɔɪd ˈɛvriˌwʌn ən ðə ˈsɜrvər]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "absences の語末 /z/ が annoyed の /ə/ に連結",
+            "on → 弱形 /ən/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ リピーティド アブセンシーザノイド エブリワン アン ザ サーヴァー"
+        },
+        {
+          "en": "Many absences in the mines disrupted our mining schedule.",
+          "ja": "鉱山での多くの欠席が私たちの採掘スケジュールを混乱させた。",
+          "ipa": "[ˈmɛni ˈæbsənsɪz ɪn ðə maɪnz dɪsˈrʌptɪd ɑɚ ˈmaɪnɪŋ ˈskɛdʒul]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "absences の語末 /z/ が in の /ɪ/ に連結",
+            "our → 弱形 /ɑɚ/"
+          ],
+          "kana": "メニ アブセンシーズィン ザ マインズ ディスラプティド アー マイニング スケジュル"
+        }
+      ]
+    }
   ]
 }

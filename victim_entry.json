@@ -44,6 +44,37 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "victims",
+      "ipa": "[ˈvɪktɪmz]",
+      "examples": [
+        {
+          "en": "Protect the victims from the creepers.",
+          "ja": "クリーパーから犠牲者たちを保護しましょう。",
+          "ipa": "/prəˈtɛkt ðə ˈvɪktɪmz frəm ðə ˈkriːpərz/",
+          "linking": [
+            "Protect the: t が未開放で ð に続く [prəˈtɛkt̚ ðə] プロテクッ ザ",
+            "the victims: 語末音 /ə/ が v に連結 [ðə ˈvɪktɪmz] ザ ヴィクティムズ",
+            "from the: m が未開放で ð に続く [frəm̚ ðə] フラム ザ"
+          ],
+          "kana": "プロテクト ザ ヴィクティムズ フラム ザ クリーパーズ"
+        },
+        {
+          "en": "Many victims died in the cave accident.",
+          "ja": "洞窟の事故で多くの犠牲者が亡くなりました。",
+          "ipa": "/ˈmɛni ˈvɪktɪmz daɪd ɪn ðə keɪv ˈæksɪdənt/",
+          "linking": [
+            "Many victims: i が v に連結 [ˈmɛni ˈvɪktɪmz] メニ ヴィクティムズ",
+            "the cave: 語末音 /ə/ が k に連結 [ðə keɪv] ザ ケイヴ"
+          ],
+          "kana": "メニ ヴィクティムズ ダイド イン ザ ケイヴ アクシデント"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "fall victim to",

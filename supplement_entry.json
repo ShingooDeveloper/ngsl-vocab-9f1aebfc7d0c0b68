@@ -52,9 +52,170 @@
       "ipa": "/wi ˈsʌplɪmentɚ aʊr ˈdaɪət wɪð ˈmʌʃrumz wen wɪr loʊ ən ˈhelθ/",
       "kana": "ウィ サプリメンター アワ ダイエット ウィズ マッシュルームズ ウェン ウィア ロー アン ヘルス",
       "linking": [
-        "supplement our - t が our の母音に連結",
+        "supplement our - /t/ が our の母音に連結",
         "our - 弱形 /ɚ/",
         "on - 機能語で弱形 /ən/"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "supplements",
+      "ipa": "/ˈsʌplɪmənts/",
+      "examples": [
+        {
+          "en": "The merchant offers many supplements like potions and enchanted apples.",
+          "ja": "商人は、ポーションや魔法のリンゴのような多くの補充品を提供しています。",
+          "ipa": "/ðə ˈmɜrtʃənt ˈɑfɚz ˈmɛni ˈsʌplɪmənts laɪk ˈpoʊʃənz ənd ɪnˈtʃæntɪd ˈæpəlz/",
+          "linking": [
+            "the merchant - the は弱形 /ðə/",
+            "merchant offers - merchant の語末子音 /t/ が offers の母音 /ɑ/ に連結してフラップ [ɾ] になる [ˈmɜrtʃənt‿ˈɑfɚz]",
+            "and enchanted - and は弱形 /ənd/"
+          ],
+          "kana": "ザ マーチャント オファーズ メニー サプリメンツ ライク ポーションズ エンド インチャンティッド アップルズ"
+        },
+        {
+          "en": "We collected food supplements for the winter survival.",
+          "ja": "冬のサバイバルのために食料補充品を集めました。",
+          "ipa": "/wi kəˈlɛktɪd ˈfuːd ˈsʌplɪmənts fɚ ðə ˈwɪntɚ sɚˈvaɪvəl/",
+          "linking": [
+            "we collected - we は母音で終わり、collected の /k/ に連結",
+            "food supplements - /d/ + /s/（子音+子音、連結なし）",
+            "for the - for は弱形 /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "ウィ コレクティッド フード サプリメンツ ファー ザ ウィンター サーヴァイバル"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "supplements",
+      "ipa": "/ˈsʌplɪmənts/",
+      "examples": [
+        {
+          "en": "She supplements her diet with golden apples when exploring dangerous caves.",
+          "ja": "危険な洞窟を探検するときに、彼女は黄金のリンゴで食事を補充します。",
+          "ipa": "/ʃi ˈsʌplɪmənts hɚ ˈdaɪət wɪð ˈɡoʊldən ˈæpəlz wen ɪkˈsplɔrɪŋ ˈdeɪndʒɚəs ˈkeɪvz/",
+          "linking": [
+            "She supplements - She は弱形で母音で終わり、supplements の /s/ に連結",
+            "supplements her - supplements の語末 /ts/ + her の弱形 /ɚ/（子音+子音、連結なし）",
+            "with golden - with の語末 /ð/ が golden の /ɡ/（子音+子音、連結なし）"
+          ],
+          "kana": "シー サプリメンツ ハー ダイエット ウィズ ゴールデン アップルズ ウェン イクスプローリング デンジャラス ケイブズ"
+        },
+        {
+          "en": "Mining deep caves supplements our coal reserves significantly.",
+          "ja": "深い洞窟を採掘することは、私たちの石炭備蓄を大幅に補充します。",
+          "ipa": "/ˈmaɪnɪŋ ˈdip ˈkeɪvz ˈsʌplɪmənts ˈaʊɚ ˈkoʊl rɪˈzɜrvz ˌsɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "Mining deep - Mining の語末 /ŋ/ が deep の /d/（子音+子音、連結なし）",
+            "caves supplements - /z/ + /s/（子音+子音、連結なし）",
+            "supplements our - supplements の語末 /ts/ が our の母音 /aʊ/ に連結",
+            "for - 弱形 /fɚ/"
+          ],
+          "kana": "マイニング ディープ ケイブズ サプリメンツ アワー コール リザーブズ シグニフィカントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "supplemented",
+      "ipa": "/ˈsʌplɪˌmɛntɪd/",
+      "examples": [
+        {
+          "en": "We supplemented our armor with diamond pieces last season.",
+          "ja": "昨シーズン、私たちはダイヤモンドの破片で防具を補充しました。",
+          "ipa": "/wi ˈsʌplɪˌmɛntɪd ˈaʊɚ ˈɑrmɚ wɪð ˈdaɪmənd ˈpisɪz læst ˈsizən/",
+          "linking": [
+            "We supplemented - We は母音で終わり、supplemented の /s/ に連結",
+            "supplemented our - supplemented の語末 /d/ が our の母音 /aʊ/ に連結 [ˈmɛntɪd‿ˈaʊɚ]",
+            "our armor - our の語末 r が armor の母音 /ɑ/ に連結（r-linking）[ˈaʊɚ‿ˈɑrmɚ]"
+          ],
+          "kana": "ウィ サプリメンティッド アワー アーマー ウィズ ダイアモンド ピーシーズ ラスト シーズン"
+        },
+        {
+          "en": "I supplemented my pickaxe by adding enchantments at the table.",
+          "ja": "テーブルで魔法を加えることで、私は自分のつるはしを補充しました。",
+          "ipa": "/aɪ ˈsʌplɪˌmɛntɪd maɪ ˈpɪkˌæks baɪ ˈædɪŋ ɪnˈtʃæntmənts æt ðə ˈteɪbəl/",
+          "linking": [
+            "I supplemented - I の母音 /aɪ/ が supplemented の /s/ に連結",
+            "supplemented my - supplemented の語末 /d/ と my の /m/（子音+子音、連結なし）",
+            "by adding - by は弱形で母音で終わり、adding の /æ/ に連結",
+            "adding enchantments - adding の語末 /ŋ/ が enchantments の初頭 /ɪ/ に連結 [ˈædɪŋ‿ɪnˈtʃæntmənts]"
+          ],
+          "kana": "アイ サプリメンティッド マイ ピックアックス バイ アディング インチャントメンツ アット ザ テーブル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "supplemented",
+      "ipa": "/ˈsʌplɪˌmɛntɪd/",
+      "examples": [
+        {
+          "en": "Having supplemented our tools, we can mine obsidian now.",
+          "ja": "ツールを補充したので、今はオブシディアンを採掘できます。",
+          "ipa": "/ˈhævɪŋ ˈsʌplɪˌmɛntɪd ˈaʊɚ ˈtulz wi kən ˈmaɪn əbˈsɪdiən naʊ/",
+          "linking": [
+            "Having supplemented - Having の語末 /ŋ/ が supplemented の /s/（子音+子音、連結なし）",
+            "supplemented our - supplemented の語末 /d/ が our の母音 /aʊ/ に連結 [ˈmɛntɪd‿ˈaʊɚ]",
+            "our tools - our の r と tools の /t/（子音+子音、連結なし）",
+            "mine obsidian - mine の語末 /n/ が obsidian の母音 /ə/ に連結 [maɪn‿əbˈsɪdiən]"
+          ],
+          "kana": "ハヴィング サプリメンティッド アワー トゥールズ ウィ キャン マイン オブシディアン ナウ"
+        },
+        {
+          "en": "The new resources supplemented in our farm make survival easier.",
+          "ja": "農場に補充された新しいリソースは、サバイバルを簡単にしています。",
+          "ipa": "/ðə ˈnjuː ˈrɛsɚsɪz ˌsʌplɪˈmɛntɪd ɪn ˈaʊɚ ˈfɑrm meɪk sɚˈvaɪvəl ˈɪziər/",
+          "linking": [
+            "the new - the は弱形 /ðə/、new の /n/ に連結",
+            "resources supplemented - /z/ + /s/（子音+子音、連結なし）",
+            "supplemented in - supplemented の語末 /d/ が in の母音 /ɪ/ に連結 [ˈmɛntɪd‿ɪn]",
+            "in our - in の語末 /n/ が our の母音 /aʊ/ に連結 [ɪn‿ˈaʊɚ]",
+            "survival easier - survival の語末 /l/ が easier の初頭 /ɪ/ に連結 [vəl‿ˈɪziər]"
+          ],
+          "kana": "ザ ニュー リソーシーズ サプリメンティッド イン アワー ファーム メイク サーヴァイバル イージャー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "supplementing",
+      "ipa": "/ˌsʌpləˈmɛntɪŋ/",
+      "examples": [
+        {
+          "en": "We are supplementing our supplies by mining coal in the caves.",
+          "ja": "洞窟で石炭を採掘することで、私たちは物資を補充しています。",
+          "ipa": "/wi ɑr ˌsʌpləˈmɛntɪŋ ˈaʊɚ səˈplaɪz baɪ ˈmaɪnɪŋ ˈkoʊl ɪn ðə ˈkeɪvz/",
+          "linking": [
+            "We are - we は母音で終わり、are の /r/ に連結",
+            "are supplementing - are の語末 /r/ が supplementing の母音 /ə/ に連結 [ɑr‿ˌsʌpləˈmɛntɪŋ]",
+            "supplementing our - supplementing の語末 /ŋ/ が our の母音 /aʊ/ に連結 [ˈmɛntɪŋ‿ˈaʊɚ]",
+            "our supplies - our の r と supplies の /s/（子音+子音、連結なし）",
+            "coal in - coal の語末 /l/ が in の母音 /ɪ/ に連結 [ˈkoʊl‿ɪn]"
+          ],
+          "kana": "ウィ アー サプリメンティング アワー サプライズ バイ マイニング コール イン ザ ケイブズ"
+        },
+        {
+          "en": "Supplementing your inventory with healing items is crucial before boss fights.",
+          "ja": "ボス戦の前に、ヒーリングアイテムでインベントリを補充することは重要です。",
+          "ipa": "/ˌsʌpləˈmɛntɪŋ jɚ ˈɪnvəntɔri wɪð ˈhilɪŋ ˈaɪtəmz ɪz ˈkruːʃəl bɪˈfɔr ˈbɑs ˈfaɪts/",
+          "linking": [
+            "Supplementing your - Supplementing の語末 /ŋ/ が your の /j/（子音+半子音で連結なし）",
+            "your inventory - your の語末 r が inventory の母音 /ɪ/ に連結（r-linking）",
+            "with healing - with の語末 /ð/ が healing の /h/（子音+子音、連結なし）",
+            "healing items - healing の語末 /ŋ/ が items の母音 /aɪ/ に連結 [ˈhilɪŋ‿ˈaɪtəmz]",
+            "items is - items の語末 /z/ が is の初頭 /ɪ/（母音）に連結"
+          ],
+          "kana": "サプリメンティング ユア インベントリー ウィズ ヒーリング アイテムズ イズ クルーシャル ビフォア ボス ファイツ"
+        }
       ]
     }
   ]

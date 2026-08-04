@@ -75,5 +75,38 @@
       ],
       "kana": "アワー イナー サークル オールウェイズ プレイズ タゥゲザー アン ザ セイム サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "innermost",
+      "ipa": "/ˈɪnərˌmoʊst/",
+      "examples": [
+        {
+          "en": "The innermost layers of the fortress are constructed with obsidian.",
+          "ja": "砦の最も奥の層は黒曜石で構成されています。",
+          "ipa": "/ðə ˈɪnərˌmoʊst ˈleɪərz əv ðə ˈfɔːrtəs ɑr kənˈstrʌktəd wɪð əbˈsɪdiən/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "innermost の末尾子音 /t/ が layers の初頭子音 /l/ に先行（子音+子音、連結なし）。",
+            "constructed の末尾子音 /d/ が with の初頭子音 /w/ に先行（子音+子音、連結なし）。"
+          ],
+          "kana": "ザ イナーモウスト レイアーズ アヴ ザ フォーティス アー コンストラクティッド ウィズ アブシディアン"
+        },
+        {
+          "en": "We discovered a secret passage in the innermost chamber of the cave.",
+          "ja": "洞窟の最も奥の部屋に秘密の通路を発見しました。",
+          "ipa": "/wi dɪˈskʌvərd ə ˈsiːkrət ˈpæsɪdʒ ɪn ðə ˈɪnərˌmoʊst ˈtʃeɪmbər əv ðə ˈkeɪv/",
+          "linking": [
+            "discovered の末尾子音 /d/ が a の初頭母音 /ə/ に連結 [dɪˈskʌvərd ə] ディスカヴァード・ア。",
+            "the は弱形 /ðə/。",
+            "innermost の末尾子音 /t/ が chamber の初頭子音 /tʃ/ に先行（子音+子音、連結なし）。",
+            "of の末尾子音 /v/ が the の初頭子音 /ð/ に先行（子音+子音、連結なし）。"
+          ],
+          "kana": "ウィ ディスカヴァード ア シークレット パッシジ イン ザ イナーモウスト チェイムバー アヴ ザ ケイヴ"
+        }
+      ]
+    }
   ]
 }

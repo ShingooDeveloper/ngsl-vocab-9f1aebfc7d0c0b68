@@ -62,5 +62,40 @@
       ],
       "kana": "ダ エンダーメン アー ミア シャドウズ フリッカリング アット ダ エッジ アヴ ダ ダークネス"
     }
+  ],
+  "forms": [
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "merest",
+      "ipa": "/ˈmɪrɪst/",
+      "examples": [
+        {
+          "en": "A merest wooden pickaxe won't even scratch obsidian blocks.",
+          "ja": "ほんの木製のツルハシではブラックストーンのブロックさえ傷つけることができません。",
+          "ipa": "/ə ˈmɪrɪst ˈwʊdən ˈpɪkˌæks ˌwoʊnt ˈiːvən ˈskrætʃ əbˈsɪdiən ˈblɑks/",
+          "linking": [
+            "a merest → a は弱形 /ə/ で merest の /m/ に連結 [ə ˈmɪrɪst]",
+            "pickaxe won't → /ks/ + /w/（子音+子音、連結なし）",
+            "even scratch → even は /ˈiːvən/ で scratch の /s/ に続く（子音+子音、連結なし）",
+            "scratch obsidian → /tʃ/ + /ə/（子音+母音）が連結 [ˈskrætʃ‿əbˈsɪdiən]"
+          ],
+          "kana": "ア ミアリスト ウッデン ピックアックス ウォウント イーヴン スクラッチ オプシディアン ブラックス"
+        },
+        {
+          "en": "The merest touch of lava will instantly damage your health by half a heart.",
+          "ja": "溶岩のほんのわずかな接触で、あなたのヘルスが一瞬でハート半分失われます。",
+          "ipa": "/ðə ˈmɪrɪst ˈtʌtʃ əv ˈlɑːvə wɪl ˈɪnstəntli ˈdæmɪdʒ jɔr ˈhɛlθ baɪ ˈhæf ə ˈhɑrt/",
+          "linking": [
+            "the merest → the は弱形 /ðə/ で merest の /m/ に連結 [ðə ˈmɪrɪst]",
+            "touch of → 語末 /tʃ/ が of の弱形 /əv/ の /ə/ に連結 [ˈtʌtʃ‿əv]",
+            "of lava → /v/ + /l/（子音+子音、連結なし）",
+            "health by → /θ/ + /b/（子音+子音、連結なし）",
+            "half a → 語末 /f/ が a の弱形 /ə/ に連結 [ˈhæf‿ə]"
+          ],
+          "kana": "ザ ミアリスト タッチ アヴ ラーヴァ ウィル インスタントリー ダメージ ユア ヘルス バイ ハフ ア ハート"
+        }
+      ]
+    }
   ]
 }

@@ -45,5 +45,35 @@
       "kana": "アイアン アーマー プロテクツ ユア ブレスト ドゥーリング ケイブ エクスプレイション"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "breasts",
+      "ipa": "/ˈbrɛsts/",
+      "examples": [
+        {
+          "en": "Cooked chicken breasts heal you faster than raw meat.",
+          "ja": "調理した鶏の胸肉はあなたを生肉より速く治す。",
+          "ipa": "/ˈkʊkt ˈtʃɪkən ˈbrɛsts hiːl juː ˈfæstər ðən rɑ miːt/",
+          "linking": [
+            "heal you → 子音+子音で自然に続く [hiːljuː]",
+            "than raw → than は弱形 /ðən/"
+          ],
+          "kana": "クック チキン ブレスツ ヒール ユー ファスター ザン ロー ミート"
+        },
+        {
+          "en": "Eating cooked chicken breasts restores your hunger bar quickly.",
+          "ja": "調理した鶏の胸肉を食べるとあなたのハンガーバーが速く回復する。",
+          "ipa": "/ˈiːtɪŋ ˈkʊkt ˈtʃɪkən ˈbrɛsts rɪˈstɔrz jɔr ˈhʌŋɡɚ bɑr ˈkwɪkli/",
+          "linking": [
+            "chicken breasts → 子音+子音で自然に続く",
+            "restores your → 子音+子音で自然に続く [rɪˈstɔrzjɔr]"
+          ],
+          "kana": "イーティング クック チキン ブレスツ リストーズ ユア ハンガー バー クイックリー"
+        }
+      ]
+    }
+  ]
 }

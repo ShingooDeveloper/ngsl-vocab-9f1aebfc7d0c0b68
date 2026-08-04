@@ -71,5 +71,35 @@
         "have → 弱形 /həv/"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "interventions",
+      "ipa": "/ˌɪntɚˈvenʃənz/",
+      "examples": [
+        {
+          "en": "The different interventions from the admin team stopped the griefing attacks.",
+          "ja": "管理者チームからのさまざまな介入がグリーフィング攻撃を止めた。",
+          "ipa": "[ðə ˈdɪfərənt ˌɪntɚˈvenʃənz frəm ðə ˈædmɪn ˈtim ˈstɑpt ðə ˈɡriːfɪŋ əˈtæks]",
+          "linking": [
+            "from は弱形 /frəm/",
+            "stopped /t/ が the に続く（未開放）"
+          ],
+          "kana": "ザ ディファレント インターヴェンションズ フラム ザ アドミン ティーム スタップト ザ グリーフィング アタックス"
+        },
+        {
+          "en": "Multiple server interventions saved our base from being destroyed by hostile mobs.",
+          "ja": "複数のサーバー介入が、私たちの基地をホスタイル・モブに破壊されることから救った。",
+          "ipa": "[ˈmʌltɪpəl ˈsɝvɚ ˌɪntɚˈvenʃənz ˈseɪvd ˈaʊɚ ˈbeɪs frəm ˈbɪŋ dɪˈstrɔɪd baɪ ˈhɑstəl ˈmɑbz]",
+          "linking": [
+            "saved /d/ が our /aʊ/ に連結: [ˈseɪvd ˈaʊɚ] セイベド アワー",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "マルティプル サーヴァー インターヴェンションズ セイベド アワー ベイス フラム ビーング ディストロイド バイ ハスタル マーブズ"
+        }
+      ]
+    }
   ]
 }

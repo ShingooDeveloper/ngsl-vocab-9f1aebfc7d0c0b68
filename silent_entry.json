@@ -66,5 +66,66 @@
       ],
       "kana": "キープ サイラント ア バウト コーディネーツ オー グリーファーズ ウィル ファインド ザ ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more silent",
+      "ipa": "/mɔr ˈsaɪlənt/",
+      "examples": [
+        {
+          "en": "A sneaking creeper is more silent than a regular one.",
+          "ja": "スニークするクリーパーは普通のものより静かだ",
+          "ipa": "[ə ˈsniːkɪŋ ˈkriːpɚ ɪzˈmɔr ˈsaɪlənt̚ ðənə ˈɹɛɡjələr wʌn]",
+          "linking": [
+            "is の末尾 /z/ が more の初頭 /m/ に連結。[ɪzˈmɔr] イズモア",
+            "more の末尾 /r/ が silent の初頭母音 /aɪ/ に連結。[ˈmɔr ˈsaɪlənt̚] モア サイラント",
+            "silent の末尾 /t/ が未開放で than に先行。[ˈsaɪlənt̚ ðən]",
+            "than の末尾 /n/ が a の初頭母音 /ə/ に連結。[ðənə] ザナ"
+          ],
+          "kana": "ア スニーキング クリーパー イズモア サイラント ザナ レギュラー ワン"
+        },
+        {
+          "en": "When you crouch, your footsteps are more silent.",
+          "ja": "しゃがむと、足音がより静かになる",
+          "ipa": "[wɛn juːˈkraʊtʃ jɚˈfʊtstɛps ɚmˈɔr ˈsaɪlənt]",
+          "linking": [
+            "your の末尾 /r/ が footsteps の初頭 /f/ に連結。[jɚˈfʊtstɛps] ヤーフットステップス",
+            "are の末尾 /r/ (r-colored schwa) が more の初頭 /m/ に連結。[ɚmˈɔr] アーモア",
+            "more の末尾 /r/ が silent の初頭母音 /aɪ/ に連結。[ˈmɔr ˈsaɪlənt] モア サイラント"
+          ],
+          "kana": "ウェン ユークラウチ ヤーフットステップス アーモア サイラント"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most silent",
+      "ipa": "/ˈmoʊst ˈsaɪlənt/",
+      "examples": [
+        {
+          "en": "The enchantment makes the boots the most silent footwear in Minecraft.",
+          "ja": "その魔法は、ブーツをマインクラフトで最も静かな履き物にする",
+          "ipa": "[ðiːɛnˈtʃæntmənt ˈmeɪks ðə ˈbʊts ðə ˈmoʊst ˈsaɪlənt̚ ˈfʊtˌwɛɹɪn ˈmaɪnˌkræft]",
+          "linking": [
+            "The は母音で始まる enchantment の前で strong form /ðiː/ になる。[ðiːɛnˈtʃæntmənt] ザ エンチャントメント",
+            "footwear の末尾 /r/ が in の初頭母音 /ɪ/ に連結。[ˈfʊtˌwɛɹɪn] フットウェアリン"
+          ],
+          "kana": "ザ エンチャントメント メイクス ザ ブーツ ザ モウスト サイラント フットウェアリン マインクラフト"
+        },
+        {
+          "en": "Sneaking without armor is the most silent way to avoid mobs.",
+          "ja": "防具なしでしゃがむことが、モブを避ける最も静かな方法だ",
+          "ipa": "[ˈsniːkɪŋ wɪðaʊɾɑɹmɚɪz ðə ˈmoʊst ˈsaɪlənt̚ weɪ tə əˈvɔɪd mɑbz]",
+          "linking": [
+            "without の末尾 /t/ が armor の初頭母音 /ɑ/ に挟まれて flap化。[wɪðaʊɾɑɹmɚ] ウィザウラーマー",
+            "armor の末尾 /r/ が is の初頭母音 /ɪ/ に連結。[ɑɹmɚɪz] アーマーイズ"
+          ],
+          "kana": "スニーキング ウィザウラーマー アーマーイズ ザ モウスト サイラント ウェイ タ ァボイド マブズ"
+        }
+      ]
+    }
   ]
 }

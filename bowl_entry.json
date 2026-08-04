@@ -67,5 +67,148 @@
       ],
       "kana": "アイ キープ マイ クラフティング インガーディエンツ インア ボウル オンザ シェルフ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "bowls",
+      "ipa": "/ˈboʊlz/",
+      "examples": [
+        {
+          "en": "She bowls a snowball at the target block.",
+          "ja": "彼女は的ブロックに向かってスノーボールをボウリングします。",
+          "ipa": "/ʃi ˈboʊlz ə ˈsnoʊbɔːl æt ðə ˈtɑːrɡɪt ˈblɑːk/",
+          "linking": [
+            "bowls の z が a に連結。a は弱形 /ə/ [ˈboʊlz ə] ボウルズ ア",
+            "at の t が the に未開放で続く。the は弱形 /ðə/ [æt̚ ðə] アット ザ"
+          ],
+          "kana": "シー ボウルズ ア スノーボール アット ザ ターゲット ブロック"
+        },
+        {
+          "en": "The server bowls items into the hopper every minute.",
+          "ja": "サーバーは1分ごとにアイテムをホッパーに自動でボウリングします。",
+          "ipa": "/ðə ˈsɝːvər ˈboʊlz ˈaɪtəmz ˈɪntu ðə ˈhɑːpər ˈɛvri ˈmɪnɪt/",
+          "linking": [
+            "the は弱形 /ðə/。server に連結 [ðə ˈsɝːvər] ザ サーバー",
+            "bowls の z が items に連結 [ˈboʊlz ˈaɪtəmz] ボウルズ アイテムズ",
+            "every は [ˈɛvri]。minute に続く"
+          ],
+          "kana": "ザ サーバー ボウルズ アイテムズ イントゥ ザ ホッパー エブリー ミニット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "bowled",
+      "ipa": "/boʊld/",
+      "examples": [
+        {
+          "en": "We bowled the minecart down the tracks and it crashed.",
+          "ja": "私たちはミニカートをトラックに沿ってボウリングし、クラッシュしました。",
+          "ipa": "/wi ˈboʊld ðə ˈmaɪnkɑːrt ˈdaʊn ðə ˈtræks ən ɪt ˈkræʃt/",
+          "linking": [
+            "bowled の d が the に連結 [ˈboʊld ðə] ボウルド ザ",
+            "down は /daʊn/。the に続く（子音+子音）"
+          ],
+          "kana": "ウィ ボウルド ザ マインカート ダウン ザ トラックス エン イット クラッシド"
+        },
+        {
+          "en": "They bowled the arrow at the mob and missed.",
+          "ja": "彼らはモブに向かって矢をボウリングしましたが、外しました。",
+          "ipa": "/ðeɪ ˈboʊld ðə ˈæroʊ æt ðə ˈmɑːb ən ˈmɪst/",
+          "linking": [
+            "bowled の d が the に連結 [ˈboʊld ðə] ボウルド ザ",
+            "at の t が the に未開放で続く [æt̚ ðə] アット ザ"
+          ],
+          "kana": "ゼイ ボウルド ザ アロー アット ザ モブ エン ミスト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "bowled",
+      "ipa": "/boʊld/",
+      "examples": [
+        {
+          "en": "The snowball was bowled down the hill by the dispenser.",
+          "ja": "スノーボールはディスペンサーにより丘の下にボウリングされました。",
+          "ipa": "/ðə ˈsnoʊbɔːl wəz ˈboʊld ˈdaʊn ðə ˈhɪl baɪ ðə dɪsˈpɛnsər/",
+          "linking": [
+            "was は弱形 /wəz/。bowled と連結 [wəz ˈboʊld] ワズ ボウルド",
+            "the は弱形 /ðə/。hill に連結 [ðə ˈhɪl] ザ ヒル"
+          ],
+          "kana": "ザ スノーボール ワズ ボウルド ダウン ザ ヒル バイ ザ ディスペンサー"
+        },
+        {
+          "en": "Having bowled the item into the stream, we watched it float away.",
+          "ja": "アイテムを流れにボウリングした後、それが流れていくのを見ました。",
+          "ipa": "/ˈheɪvɪŋ ˈboʊld ðə ˈaɪtəm ˈɪntu ðə ˈstrim | wi ˈwɑːtʃt ɪt ˈfloʊt əˈweɪ/",
+          "linking": [
+            "bowled の d が the に連結 [ˈboʊld ðə] ボウルド ザ",
+            "watched の t が it に未開放で続く [ˈwɑːtʃt ɪt] ウォッチド イット"
+          ],
+          "kana": "ハヴィング ボウルド ザ アイテム イントゥ ザ ストリーム、ウィ ウォッチド イット フロート アウェイ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "bowling",
+      "ipa": "/ˈboʊlɪŋ/",
+      "examples": [
+        {
+          "en": "Bowling snowballs is the fastest way to clear a mob farm area.",
+          "ja": "スノーボールをボウリングすることは、モブファームエリアをクリアする最速の方法です。",
+          "ipa": "/ˈboʊlɪŋ ˈsnoʊbɔːlz ɪz ðə ˈfæstəst weɪ tu ˈklɪr ə ˈmɑːb ˈfɑːrm ˈɛriə/",
+          "linking": [
+            "is は弱形 /ɪz/で the に連結 [ɪz ðə] イズ ザ",
+            "to は弱形 /tə/ で clear に続く"
+          ],
+          "kana": "ボウリング スノーボールズ イズ ザ ファステスト ウェイ トゥ クリア ア モブ ファーム エリア"
+        },
+        {
+          "en": "Before bowling the arrow, wait until the creeper gets closer.",
+          "ja": "矢をボウリングする前に、クリーパーがもっと近づくまで待ってください。",
+          "ipa": "/bɪˈfɔːr ˈboʊlɪŋ ðə ˈæroʊ | ˈweɪt ənˈtɪl ðə ˈkriːpər ɡɛts ˈkloʊsər/",
+          "linking": [
+            "before の r が bowling に連結 [bɪˈfɔːr ˈboʊlɪŋ] ビフォー ボウリング",
+            "bowling は [ˈboʊlɪŋ]。the に続く（子音+子音）"
+          ],
+          "kana": "ビフォー ボウリング ザ アロー、ウェイト アンティル ザ クリーパー ゲッツ クローサー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "bowls",
+      "ipa": "/ˈboʊlz/",
+      "examples": [
+        {
+          "en": "The ceramic bowls can hold mushroom stew and other food.",
+          "ja": "セラミックボウルはキノコシチューと他の食べ物を保持できます。",
+          "ipa": "/ðə səˈræmɪk ˈboʊlz kæn ˈhoʊld ˈmʌʃrum ˈstuː ən ˈʌðər ˈfuːd/",
+          "linking": [
+            "the は弱形 /ðə/。ceramic に連結 [ðə səˈræmɪk] ザ セラミック",
+            "can は /kæn/。bowls に続く（子音+子音）"
+          ],
+          "kana": "ザ セラミック ボウルズ キャン ホウルド マッシュルーム ステュー エン アザー フード"
+        },
+        {
+          "en": "We crafted several bowls to store enchanted apples safely.",
+          "ja": "私たちはエンチャントされたリンゴを安全に保管するためにいくつかのボウルをクラフトしました。",
+          "ipa": "/wi ˈkræftɪd ˈsɛvərəl ˈboʊlz tu ˈstɔːr ɪnˈtʃɑːntɪd ˈæpəlz ˈseɪfli/",
+          "linking": [
+            "crafted の d が several に連結 [ˈkræftɪd ˈsɛvərəl] クラフティド セブラル",
+            "to は弱形 /tə/。store に続く"
+          ],
+          "kana": "ウィ クラフティド セブラル ボウルズ トゥ ストア イントンティッド アップルズ セイフリー"
+        }
+      ]
+    }
   ]
 }

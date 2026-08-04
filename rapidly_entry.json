@@ -66,5 +66,62 @@
       ],
       "kana": "ユア アイテムズ インクリーズ ラピドリー ウェン ユー トレイド ウィズ ザ ヴィリジャーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more rapidly",
+      "ipa": "/ˈmɔr ˈræpɪdli/",
+      "examples": [
+        {
+          "en": "You need to mine more rapidly to escape the cave before the creeper explodes.",
+          "ja": "クリーパーが爆発する前に洞窟から逃げるために、あなたはより素早く採掘する必要があります。",
+          "ipa": "/ju ˈniːd tə ˈmaɪn ˈmɔr ˈræpɪdli tə ɪˈskeɪp ðə ˈkeɪv bɪˈfɔr ðə ˈkriːpər ɪkˈsploʊdz/",
+          "linking": [
+            "to は弱形 /tə/",
+            "creeper explodes → /r/ が次の /ɪ/ に連結 [ˈkriːpər ɪkˈsploʊdz]"
+          ],
+          "kana": "ユー ニード タ マイン モア ラピドリー タ イスケイプ ザ ケイヴ ビフォア ザ クリーパー エクスプロードズ"
+        },
+        {
+          "en": "Mining with a proper pickaxe works more rapidly than using just your hands.",
+          "ja": "適切なツルハシで採掘することは、手を使うだけより素早く機能します。",
+          "ipa": "/ˈmaɪnɪŋ wɪð ə ˈproʊpɚ ˈpɪkˌæks ˈwɝks ˈmɔr ˈræpɪdli ðən ˈjuːzɪŋ ˈdʒəst jɔr ˈhændz/",
+          "linking": [
+            "with a → /ð/ が a の母音 /ə/ に連結 [wɪð ə]"
+          ],
+          "kana": "マイニング ウィザ プロパー ピックアックス ワークス モア ラピドリー ザン ユーズィング ジャスト ユア ハンズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most rapidly",
+      "ipa": "/ˈmoʊst ˈræpɪdli/",
+      "examples": [
+        {
+          "en": "The enchanted pickaxe mines most rapidly, extracting ore in seconds.",
+          "ja": "エンチャント済みツルハシが最も素早く採掘し、秒単位で鉱石を抽出します。",
+          "ipa": "/ðə ɪnˈtʃɑntɪd ˈpɪkˌæks ˈmaɪnz ˈmoʊst ˈræpɪdli | ɪkˈstræktɪŋ ˈɔr ɪn ˈsɛkəndz/",
+          "linking": [
+            "most rapidly → /t/ が /r/ に連結 [ˈmoʊst ˈræpɪdli]",
+            "rapidly extracting → /i/ が /ɪ/ に連結 [ˈræpɪdli ɪkˈstræktɪŋ]"
+          ],
+          "kana": "ザ エンチャンティド ピックアックス マインズ モースト ラピドリー、エクストラクティング オア イン セコンズ"
+        },
+        {
+          "en": "When your building burns in lava, it deteriorates most rapidly without water protection.",
+          "ja": "溶岩で建築が燃えると、水の保護なしに最も素早く劣化します。",
+          "ipa": "/wɛn jɔr ˈbɪldɪŋ ˈbɝnz ɪn ˈlɑːvə | ɪt ˌdɪtɪəriəˈreɪts ˈmoʊst ˈræpɪdli wɪðˈaʊt ˈwɔːtər prəˈtɛkʃən/",
+          "linking": [
+            "most rapidly → /t/ が /r/ に連結 [ˈmoʊst ˈræpɪdli]",
+            "rapidly without → /i/ が /w/ に連結 [ˈræpɪdli wɪðˈaʊt]"
+          ],
+          "kana": "ウェン ユア ビルディング バーンズ イン ラーヴァ、イット ディティアリエイツ モースト ラピドリー ウィザウト ウォーター プロテクション"
+        }
+      ]
+    }
   ]
 }

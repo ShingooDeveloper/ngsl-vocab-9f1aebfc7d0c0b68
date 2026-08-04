@@ -155,6 +155,92 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is adding",
+      "ipa": "/ɪz ˈædɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is adding blocks to the tower.",
+          "ja": "スティーブはタワーにブロックを追加しています。",
+          "ipa": "/stiv ɪz ˈædɪŋ blɑks tə ðə ˈtaʊər/",
+          "kana": "スティーブ イズ アディング ブロックス タ ザ タウアー",
+          "linking": [
+            "Steve is: Steve の語末 /v/ が is /ɪz/ に連結 [stivɪz] スティヴィズ",
+            "to the: to は弱形 /tə/、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "We are adding resources to our inventory.",
+          "ja": "私たちは在庫に資源を追加しています。",
+          "ipa": "/wi ər ˈædɪŋ ˈrɛsɔrsəz tə ˈaʊər ɪnˈvɛntəri/",
+          "kana": "ウィ アラディング レソーシーズ タ アワー インヴェントリー",
+          "linking": [
+            "are adding: are の語末 /r/ が adding の /æ/ に連結 [ərˈædɪŋ] アラディング",
+            "to は弱形 /tə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was adding",
+      "ipa": "/wəz ˈædɪŋ/",
+      "examples": [
+        {
+          "en": "Alex was adding final touches to the house.",
+          "ja": "アレックスは家に最終的なタッチを追加していました。",
+          "ipa": "/ˈælɪɡz wəz ˈædɪŋ ˈfaɪnəl ˈtʌtʃəz tə ðə haʊs/",
+          "kana": "アレックス ワザディング ファイナル タッチーズ タ ザ ハウス",
+          "linking": [
+            "was adding: was の /z/ が adding の /æ/ に連結 [wəzˈædɪŋ] ワザディング",
+            "to the: to /tə/ と the /ðə/ の弱形"
+          ]
+        },
+        {
+          "en": "While they were adding decorations, a creeper appeared.",
+          "ja": "彼らが装飾を追加していたとき、クリーパーが現れました。",
+          "ipa": "/waɪl ðeɪ wər ˈædɪŋ ˌdɛkəˈreɪʃənz ə ˈkripər əˈpɪrd/",
+          "kana": "ワイル ザイ ワラディング デコレイションズ ア クリーパラピアード",
+          "linking": [
+            "were adding: were の /r/ が adding の /æ/ に連結 [wərˈædɪŋ] ワラディング",
+            "creeper appeared: creeper の /r/ が appeared の /ə/ に連結 [ˈkripərəˈpɪrd] クリーパラピアード"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been adding",
+      "ipa": "/həd bɪn ˈædɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, they had been adding layers for hours.",
+          "ja": "私たちが到着するまでに、彼らは数時間レイヤーを追加していました。",
+          "ipa": "/baɪ ðə taɪm wi əˈraɪvd ðeɪ həd bɪn ˈædɪŋ ˈleɪərz fər ˈaʊərz/",
+          "kana": "バイ ザ タイム ウィ アライヴド ザイ ハド ビナディング レイアーズ ファーアワーズ",
+          "linking": [
+            "had been: had /həd/ と been /bɪn/ は弱形",
+            "been adding: been の /n/ が adding の /æ/ に連結 [bɪnˈædɪŋ] ビナディング",
+            "for hours: for の /r/ が hours の /aʊ/ に連結 [fərˈaʊərz] ファーアワーズ"
+          ]
+        },
+        {
+          "en": "She had been adding enchantments to the sword all morning.",
+          "ja": "彼女は朝中、剣に魔法をつけていました。",
+          "ipa": "/ʃi həd bɪn ˈædɪŋ ɪnˈtʃɑntmənts tə ðə sɔrd ɔl ˈmɔrnɪŋ/",
+          "kana": "シー ハド ビナディング エンチャントメンツ タ ザ ソード オール モーニング",
+          "linking": [
+            "had been: had /həd/ と been /bɪn/ は弱形",
+            "been adding: been の /n/ が adding の /æ/ に連結 [bɪnˈædɪŋ] ビナディング",
+            "to the: to /tə/ と the /ðə/ の弱形"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

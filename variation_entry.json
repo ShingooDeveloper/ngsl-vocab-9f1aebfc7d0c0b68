@@ -42,6 +42,37 @@
       "kana": "ウィ ニーダ ヴェリエイション アヴ ウッド"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "variations",
+      "ipa": "[ˌvɛriˈeɪʃənz]",
+      "examples": [
+        {
+          "en": "Ore variations are common in deep caves.",
+          "ja": "鉱石のバリエーションは深いケーブに一般的です。",
+          "ipa": "[ɔr ˌvɛriˈeɪʃənz ə ˈkɑmən ɪn diːp keɪvz]",
+          "linking": [
+            "variations + are: variations の末尾 /z/ が are の弱形 /ə/ に連結 [ˌvɛriˈeɪʃənz ə] → ベリエイションズア",
+            "are の弱形 /ə(r)/ は機能語として弱化"
+          ],
+          "kana": "オア ベリエイションズア コモン イン ディープ ケイブズ"
+        },
+        {
+          "en": "These variations of stone need careful mining.",
+          "ja": "石のこれらのバリエーションは慎重な採掘が必要です。",
+          "ipa": "[ðiːz ˌvɛriˈeɪʃənz əv stoʊn niːd ˈkɛrfəl ˈmaɪnɪŋ]",
+          "linking": [
+            "These + variations: /z/ (These の末尾) + /v/ (variations の頭) → 子音+子音だが滑らかに連なる",
+            "variations + of: /z/ (variations の末尾) が of の弱形 /ə/ に連結 [ˌvɛriˈeɪʃənz əv] → ベリエイションズアヴ",
+            "of は弱形 /əv/、need + careful: /d/ (need の末尾) が /k/ (careful の頭) に向かう"
+          ],
+          "kana": "ディーズ ベリエイションズアヴ ストーン ニード ケアフル マイニング"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "a variation of",

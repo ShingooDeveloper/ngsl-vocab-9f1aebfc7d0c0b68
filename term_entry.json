@@ -252,6 +252,102 @@
           "kana": "シー イズ ターミング ディス ニュー ブロック タイプ エン イノベイション イン レッドストーン エンジニアリング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is terming",
+      "ipa": "/ɪz ˈtɝmɪŋ/",
+      "examples": [
+        {
+          "en": "A player is terming this rare ore a precious treasure on the server.",
+          "ja": "あるプレイヤーがこの珍しい鉱石をサーバー上で貴重な宝物と呼んでいる。",
+          "ipa": "/ə ˈpleɪər ɪz ˈtɝmɪŋ ðɪs ˈrɛr ɔr ə ˈprɛʃəs ˈtrɛʒər ɑn ðə ˈsɝvər/",
+          "linking": [
+            "a は弱形 /ə/。player の /p/ に先行。player の末尾 /r/ が is の初頭母音 /ɪ/ に連結 [ˈpleɪər ɪz]",
+            "is は弱形 /ɪz/。terming に連結 [ɪz ˈtɝmɪŋ]",
+            "ore の末尾 /r/ が a の弱形 /ə/ に連結 [ɔr ə]",
+            "treasure の末尾 /r/ が on の初頭 /ɑ/ に連結"
+          ],
+          "kana": "ア プレイアー イズ ターミング ディス レアー オア ア プレシャス トレジャー アン ザ サーバー"
+        },
+        {
+          "en": "They are terming this innovation a breakthrough in redstone engineering.",
+          "ja": "彼らはこのイノベーションをレッドストーン工学における革新的な突破口と呼んでいる。",
+          "ipa": "/ðeɪ ɑr ˈtɝmɪŋ ðɪs ˌɪnəˈveɪʃən ə ˈbreɪkθru ɪn ˈrɛdstoʊn ˌɛndʒɪˈnɪrɪŋ/",
+          "linking": [
+            "are は弱形 /ɑr/。terming に連結 [ɑr ˈtɝmɪŋ]",
+            "terming の末尾 /ŋ/ が this の初頭 /ð/ に続く",
+            "innovation の末尾 /n/ が a の弱形 /ə/ に連結 [ˌɪnəˈveɪʃən ə]",
+            "engineering の末尾 /ŋ/ が後に続く"
+          ],
+          "kana": "ザイ アー ターミング ディス イノベイション ア ブレイクスルー イン レッドストーン エンジニアリング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was terming",
+      "ipa": "/wəz ˈtɝmɪŋ/",
+      "examples": [
+        {
+          "en": "The community was terming the glitch a bug while searching for a fix.",
+          "ja": "コミュニティはバグ修正を探している間、そのグリッチをバグと呼んでいた。",
+          "ipa": "/ðə kəˈmjuːnəti wəz ˈtɝmɪŋ ðə ˈɡlɪtʃ ə ˈbʌɡ ˈwaɪl ˈsɝtʃɪŋ fər ə ˈfɪks/",
+          "linking": [
+            "the は弱形 /ðə/。community に連結 [ðə kəˈmjuːnəti]",
+            "was は弱形 /wəz/。terming に連結 [wəz ˈtɝmɪŋ]",
+            "glitch の末尾 /tʃ/ が a の弱形 /ə/ に続く [ˈɡlɪtʃ ə]",
+            "for は弱形 /fər/。a に連結 [fər ə]"
+          ],
+          "kana": "ザ コミューニティ ワズ ターミング ザ グリッチ ア バグ ワイル サーチング ファー ア フィックス"
+        },
+        {
+          "en": "Players were terming this resource a rare commodity during the early game.",
+          "ja": "ゲーム序盤にプレイヤーたちはこのリソースをレアな商品と呼んでいた。",
+          "ipa": "/ˈpleɪərz wɝ ˈtɝmɪŋ ðɪs ˈrɛsɔrs ə ˈrɛr kəˈmɑdəti ˈdurɪŋ ðə ˈɝli ˈɡeɪm/",
+          "linking": [
+            "were は弱形 /wɝ/。terming に連結 [wɝ ˈtɝmɪŋ]",
+            "resource の末尾 /s/ が a の弱形 /ə/ に続く [ˈrɛsɔrs ə]",
+            "during の末尾 /ŋ/ が the の初頭 /ð/ に続く",
+            "the は弱形 /ðə/。early に連結 [ðə ˈɝli]"
+          ],
+          "kana": "プレイアーズ ワー ターミング ディス リソース ア レアー コモディティ デュアリング ザ アーリー ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been terming",
+      "ipa": "/həd bɪn ˈtɝmɪŋ/",
+      "examples": [
+        {
+          "en": "We had been terming this structure a legend until we discovered it could be built.",
+          "ja": "その構造を建てられることを発見するまで、私たちはずっとそれを伝説と呼んでいました。",
+          "ipa": "/wi həd bɪn ˈtɝmɪŋ ðɪs ˈstrʌktʃər ə ˈlɛdʒənd ənˈtɪl wi dɪˈskʌvərd ɪt ˈkʊd bi ˈbɪlt/",
+          "linking": [
+            "had は弱形 /həd/。been に連結 [həd bɪn]",
+            "been は弱形 /bɪn/。terming に連結 [bɪn ˈtɝmɪŋ]",
+            "until の末尾 /l/ が we の初頭 /w/ に続く",
+            "could の末尾 /d/ が be の初頭 /b/ に連結 [ˈkʊd bi]"
+          ],
+          "kana": "ウィー ハド ビン ターミング ディス ストラクチャー ア レジェンド アンティル ウィー ディスカバード イット クッド ビー ビルト"
+        },
+        {
+          "en": "The server had been terming this ore combination impossible for months before proof emerged.",
+          "ja": "証拠が現れる前の数ヶ月間、サーバーはこの鉱石の組み合わせを不可能と呼んでいました。",
+          "ipa": "/ðə ˈsɝvər həd bɪn ˈtɝmɪŋ ðɪs ɔr kɑmbɪˈneɪʃən ɪmˈpɑsəbəl fər ˈmʌnθz bɪˈfɔr ˈpruf ɪˈmɝdʒd/",
+          "linking": [
+            "the は弱形 /ðə/。server に連結 [ðə ˈsɝvər]",
+            "had は弱形 /həd/。been に連結 [həd bɪn]",
+            "been は弱形 /bɪn/。terming に連結 [bɪn ˈtɝmɪŋ]",
+            "for は弱形 /fər/。months に連結 [fər ˈmʌnθz]"
+          ],
+          "kana": "ザ サーバー ハド ビン ターミング ディス オア コンビネイション インポッシブル ファー マンスズ ビフォア プルーフ イマージド"
+        }
+      ]
     }
   ]
 }

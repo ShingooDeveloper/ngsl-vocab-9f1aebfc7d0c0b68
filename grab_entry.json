@@ -69,5 +69,129 @@
       ],
       "kana": "グラブ アンド ゴー ザ クリーパーズ アー オールモースト ヒアー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "grabs",
+      "ipa": "/ɡræbz/",
+      "examples": [
+        {
+          "en": "He grabs the pickaxe quickly.",
+          "ja": "彼はピッケルを素早く掴む。",
+          "ipa": "/hi ˈɡræbz ðə ˈpɪkæks ˈkwɪkli/",
+          "linking": [
+            "grabs の語末子音 /z/ は the の初頭 /ð/ に接し連結なし。",
+            "the は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ヒ グラブズ ザ ピッカックス クウィックリ"
+        },
+        {
+          "en": "The player grabs diamonds in the mine.",
+          "ja": "プレイヤーはマインでダイヤモンドを掴む。",
+          "ipa": "/ðə ˈpleɪər ˈɡræbz ˈdaɪməndz ɪn ðə ˈmaɪn/",
+          "linking": [
+            "the（最初）は弱形 /ðə/ に弱化。",
+            "grabs の語末子音 /z/ は diamonds の初頭 /d/ に接し連結なし。",
+            "the（最後）は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ザ プレイヤー グラブズ ダイモンズ イン ザ マイン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "grabbed",
+      "ipa": "/ɡræbd/",
+      "examples": [
+        {
+          "en": "I grabbed the sword before the zombie came.",
+          "ja": "ゾンビが来る前に剣を掴んだ。",
+          "ipa": "/aɪ ˈɡræbd ðə ˈsɔrd bɪˈfɔr ðə ˈzoʊmbi keɪm/",
+          "linking": [
+            "grabbed の語末子音 /d/ は the の初頭 /ð/ に接し連結なし。",
+            "the は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "アイ グラブド ザ ソード ビフォー ザ ゾンビ ケイム"
+        },
+        {
+          "en": "She grabbed all the wood from the trees.",
+          "ja": "彼女は木からすべての木材を掴んだ。",
+          "ipa": "/ʃi ˈɡræbd ɔl ðə ˈwʊd frəm ðə ˈtriːz/",
+          "linking": [
+            "grabbed の語末子音 /d/ が all の初頭 /ɔ/ に連結 [ˈɡræbdɔl] グラブドール。",
+            "the は弱形 /ðə/ に弱化。",
+            "from は前置詞で弱形 /frəm/ に弱化。"
+          ],
+          "kana": "シー グラブドール ザ ウッド フラム ザ トリーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "grabbed",
+      "ipa": "/ɡræbd/",
+      "examples": [
+        {
+          "en": "I have grabbed enough materials to build a house.",
+          "ja": "家を建てるのに十分な材料をつかんだ。",
+          "ipa": "/aɪ hæv ˈɡræbd ɪˈnʌf məˈtɪriəlz tə ˈbɪld ə ˈhaʊs/",
+          "linking": [
+            "have は弱形 /həv/ に弱化。",
+            "grabbed の語末子音 /d/ が enough の初頭 /ɪ/ に連結 [ˈɡræbdɪ] グラブディ。",
+            "to は機能詞で弱形 /tə/ に弱化。",
+            "a は不定冠詞で弱形 /ə/ に弱化。"
+          ],
+          "kana": "アイ ハヴ グラブディナフ マテリアルズ タ ビルド ア ハウス"
+        },
+        {
+          "en": "The player has grabbed all the diamonds they could find.",
+          "ja": "プレイヤーが見つけることができたすべてのダイヤモンドを掴んだ。",
+          "ipa": "/ðə ˈpleɪər hæz ˈɡræbd ɔl ðə ˈdaɪməndz ðeɪ kʊd ˈfaɪnd/",
+          "linking": [
+            "the（最初）は弱形 /ðə/ に弱化。",
+            "has は弱形化傾向があり /əz/ に近づく。",
+            "grabbed の語末子音 /d/ が all の初頭 /ɔ/ に連結 [ˈɡræbdɔl] グラブドール。",
+            "the（diamonds の前）は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ザ プレイヤー ハズ グラブドール ザ ダイモンズ ザイ クド ファインド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "grabbing",
+      "ipa": "/ˈɡræbɪŋ/",
+      "examples": [
+        {
+          "en": "Grabbing resources is essential for survival in Minecraft.",
+          "ja": "Minecraftでの生存に必要なリソースをつかむこと。",
+          "ipa": "/ˈɡræbɪŋ ˈrɛsɔrsɪz ɪz ɪˈsɛnʃəl fər sərˈvaɪvəl ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "grabbing の語末 /ŋ/ は resources の初頭 /r/ に向かい、特別な連結なし。",
+            "is は弱形化傾向があり /əz/ に弱化。",
+            "for は前置詞で弱形 /fər/ に弱化。",
+            "in は前置詞で /ɪn/。"
+          ],
+          "kana": "グラビング リソーシーズ イズ イセンシャル ファ サーバイバル イン マインクラフト"
+        },
+        {
+          "en": "The creeper is grabbing attention before it explodes.",
+          "ja": "クリーパーが爆発する前に注目を集めている。",
+          "ipa": "/ðə ˈkripər ɪz ˈɡræbɪŋ əˈtɛnʃən bɪˈfɔr ɪt ɪkˈsploʊdz/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化。",
+            "is は弱形化傾向があり /əz/ に近づく。",
+            "grabbing の語末 /ŋ/ は attention の初頭 /ə/ に向かい、特別な連結なし。",
+            "it の語末子音 /t/ は explodes の初頭 /ɪ/ に続き、未開放 [t̚] で聞こえる。"
+          ],
+          "kana": "ザ クリーパー イズ グラビング アテンション ビフォー イッ イクスプロウズ"
+        }
+      ]
+    }
   ]
 }

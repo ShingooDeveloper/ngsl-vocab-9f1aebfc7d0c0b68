@@ -56,5 +56,36 @@
       ],
       "kana": "ア ドラップ イン ザ オウシャン"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "oceans",
+      "ipa": "/ˈoʊʃənz/",
+      "examples": [
+        {
+          "en": "The oceans are full of dangerous fish and guardians.",
+          "ja": "オーシャンは危険な魚とガーディアンでいっぱいだ。",
+          "ipa": "/ðə ˈoʊʃənz ɑr ˈfʊləv ˈdeɪndʒərəs fɪʃ ən ɡɑrˈdiənz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "full の語末子音 /l/ が of の弱形 /əv/ の /ə/ に連結 [ˈfʊləv] フラヴ"
+          ],
+          "kana": "ザ オウシャンズ アー フラヴ デンジャラス フィッシュ エン ガーディアンズ"
+        },
+        {
+          "en": "Oceans can provide unlimited water for your base.",
+          "ja": "オーシャンはあなたの基地に無制限の水を提供できる。",
+          "ipa": "/ˈoʊʃənz kən prəˈvaɪd ʌnˈlɪmɪtɪd ˈwɔtɚ fɚ jɔr ˈbeɪs/",
+          "linking": [
+            "can は弱形 /kən/",
+            "provide の語末子音 /d/ が unlimited の /ʌ/ に連結 [ˈvaɪdʌn] ヴァイダン",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "オウシャンズ カン プロヴァイド アンリミティド ウォータ ファ ユア ベース"
+        }
+      ]
+    }
   ]
 }

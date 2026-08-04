@@ -43,5 +43,147 @@
       "kana": "アイ ナイフト スルー ザ オウク ドーリン ワン ストライク"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "knives",
+      "ipa": "/naɪvz/",
+      "examples": [
+        {
+          "en": "I stored three iron knives in my chest for harvesting crops.",
+          "ja": "作物を収穫するために、3つの鉄のナイフをチェストに保管しました。",
+          "ipa": "/aɪ ˈstɔrd ˈθri ˈaɪərən ˈnaɪvz ɪn maɪ ˈtʃɛst fər ˈhɑrvɪstɪŋ ˈkrɑps/",
+          "linking": [
+            "stored the → stored の語末子音 /d/ が three の初頭子音 /θ/ に連結しない（子音+子音）",
+            "chest for → /t/ + /f/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ストード スリー アイアン ナイヴズ イン マイ チェスト フォー ハーヴェスティング クラプス"
+        },
+        {
+          "en": "All my wooden knives broke when mining stone.",
+          "ja": "石を採掘するとき、私の木のナイフはすべて壊れました。",
+          "ipa": "/ɔl maɪ ˈwʊdən ˈnaɪvz ˈbroʊk wɛn ˈmaɪnɪŋ ˈstoʊn/",
+          "linking": [
+            "knives broke → /z/ + /b/ (consonant+consonant、連結なし)",
+            "broke when → /k/ + /w/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "オール マイ ウッデン ナイヴズ ブロウク ウェン マイニング ストウン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "knives",
+      "ipa": "/naɪvz/",
+      "examples": [
+        {
+          "en": "She knives through the thick vines blocking the cave entrance.",
+          "ja": "彼女は洞窟の入口をふさいでいる厚いツタをナイフで切り抜く。",
+          "ipa": "/ʃi ˈnaɪvz θruː ðə ˈθɪk ˈvaɪnz ˈblɑkɪŋ ðə ˈkeɪv ˈɛntrəns/",
+          "linking": [
+            "knives through → /z/ + /θ/ (consonant+consonant、連結なし)",
+            "the thick → the は弱形 /ðə/、thick の初頭子音 /θ/ に連結しない"
+          ],
+          "kana": "シー ナイヴズ スルー ザ シック ヴァインズ ブロッキング ザ ケイブ エントランス"
+        },
+        {
+          "en": "He knives the wooden planks to harvest wood faster.",
+          "ja": "彼は木板をナイフで切ってより速く木を採掘する。",
+          "ipa": "/hi ˈnaɪvz ðə ˈwʊdən ˈplæŋks tə ˈhɑrvɪst ˈwʊd ˈfæstɚ/",
+          "linking": [
+            "the wooden → the は弱形 /ðə/、wooden の初頭子音 /w/ に連結しない",
+            "to harvest → to は弱形 /tə/、harvest の初頭子音 /h/ に連結しない"
+          ],
+          "kana": "ヒー ナイヴズ ザ ウッデン プランクス タ ハーヴェスト ウッド ファスター"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "knifed",
+      "ipa": "/naɪft/",
+      "examples": [
+        {
+          "en": "I knifed through the oak wood in one strike.",
+          "ja": "私は1回の攻撃でオークの木をナイフで切り抜いた。",
+          "ipa": "/aɪ ˈnaɪft θruː ðə ˈoʊk ˈwʊd ɪn wʌn ˈstraɪk/",
+          "linking": [
+            "knifed through → /t/ + /θ/ (consonant+consonant、連結なし)",
+            "the oak → the は弱形 /ðə/ が oak の初頭母音 /oʊ/ に連結。[ðə ˈoʊk] ザ オウク"
+          ],
+          "kana": "アイ ナイフト スルー ザ オウク ウッド イン ワン ストライク"
+        },
+        {
+          "en": "We knifed the vines and entered the jungle temple safely.",
+          "ja": "私たちはツタをナイフで切り、ジャングルの神殿に安全に入った。",
+          "ipa": "/wi ˈnaɪft ðə ˈvaɪnz‿ənd ˈɛntɚd ðə ˈdʒʌŋɡəl ˈtɛmpəl ˈseɪfli/",
+          "linking": [
+            "knifed the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "vines and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈvaɪnz‿ənd] ヴァインズ アンド"
+          ],
+          "kana": "ウィ ナイフト ザ ヴァインズ アンド エンタード ザ ジャングル テンプル セイフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "knifed",
+      "ipa": "/naɪft/",
+      "examples": [
+        {
+          "en": "Having knifed through the thick jungle growth, we found the ancient temple.",
+          "ja": "厚いジャングルの成長をナイフで切り抜いた後、私たちは古い神殿を見つけた。",
+          "ipa": "/ˈheɪvɪŋ ˈnaɪft θruː ðə ˈθɪk ˈdʒʌŋɡəl ˈɡroʊθ | wi ˈfaʊnd ðə ˈeɪʃənt ˈtɛmpəl/",
+          "linking": [
+            "Having knifed → /ŋ/ + /n/ が連結 [ˈheɪvɪŋ ˈnaɪft] ハヴィング ナイフト",
+            "knifed through → /t/ + /θ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ハヴィング ナイフト スルー ザ シック ジャングル グロウス、ウィ ファウンド ディ エイシェント テンプル"
+        },
+        {
+          "en": "The blocks I had knifed away revealed a hidden passage.",
+          "ja": "私がナイフで切り取ったブロックは隠された通路を明かにした。",
+          "ipa": "/ðə ˈblɑks aɪ hæd ˈnaɪft əˈweɪ rɪˈvild ə ˈhɪdən ˈpæsɪdʒ/",
+          "linking": [
+            "blocks I → /z/ + /aɪ/ が連結 [ˈblɑks aɪ] ブラックス アイ",
+            "knifed away → /t/ + /ə/ が連結 [ˈnaɪft əˈweɪ] ナイフト アウェイ"
+          ],
+          "kana": "ザ ブラックス アイ ハッド ナイフト アウェイ リビールド ア ヒデン パッセッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "knifing",
+      "ipa": "/ˈnaɪfɪŋ/",
+      "examples": [
+        {
+          "en": "I'm knifing through the vines to find the cave entrance.",
+          "ja": "洞窟の入口を見つけるためにツタをナイフで切っています。",
+          "ipa": "/aɪm ˈnaɪfɪŋ θruː ðə ˈvaɪnz tə ˈfaɪnd ðə ˈkeɪv ˈɛntrəns/",
+          "linking": [
+            "I'm knifing → /m/ + /n/ が連結 [aɪm ˈnaɪfɪŋ] アイム ナイフィング",
+            "knifing through → /ŋ/ + /θ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイム ナイフィング スルー ザ ヴァインズ タ ファインド ザ ケイブ エントランス"
+        },
+        {
+          "en": "Knifing through blocks is faster than using bare hands.",
+          "ja": "ブロックをナイフで切るのは素手で使うより速い。",
+          "ipa": "/ˈnaɪfɪŋ θruː ˈblɑks ɪz ˈfæstɚ ðæn ˌjuzɪŋ ˈbɛr ˈhændz/",
+          "linking": [
+            "blocks is → /z/ + /ɪ/ が連結 [ˈblɑks ɪz] ブラックス イズ",
+            "faster than → /r/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ナイフィング スルー ブラックス イズ ファスター ザン ユージング ベア ハンズ"
+        }
+      ]
+    }
+  ]
 }

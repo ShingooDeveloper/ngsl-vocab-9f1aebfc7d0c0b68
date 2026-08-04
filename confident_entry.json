@@ -65,5 +65,77 @@
       ],
       "kana": "ウィア カンフィデント アバウト ディフィーティング ザ エンダー ドラゴン"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more confident",
+      "ipa": "/mɔr ˈkɑnfɪdənt/",
+      "examples": [
+        {
+          "en": "I'm more confident now that I have better equipment.",
+          "ja": "より良い装備を手に入れたので、今はもっと自信がある。",
+          "ipa": "/aɪm mɔr ˈkɑnfɪdənt naʊ ðæt aɪ həv ˈbɛɾɚ ɪˈkwɪpmənt/",
+          "linking": [
+            "I'm more → /m/ + /m/ は子音+子音で連結なし",
+            "more confident → /r/ + /k/ は子音+子音で連結なし",
+            "that I → that の末尾 /t/ は未開放 [t̚] で I の /aɪ/ に続く [ðæt̚‿aɪ] ザッ アイ",
+            "I have → have は弱形 /əv/ で、I の diphthong が母音に連結 [aɪ‿əv] アイア",
+            "better equipment → better の末尾 /ɚ/ が equipment の /ɪ/ に連結 [ˈbɛɾɚ‿ɪˈkwɪpmənt] ベラー イクウィップメント"
+          ],
+          "kana": "アイム モア カンフィデント ナウ ザッ アイア ベラー イクウィップメント"
+        },
+        {
+          "en": "You'll be more confident mining once you get diamond pickaxes.",
+          "ja": "ダイヤピッケルを手に入れたら、採掘がもっと得意になるだろう。",
+          "ipa": "/jəl bi mɔr ˈkɑnfɪdənt ˈmaɪnɪŋ wʌns ju ɡɛt ˈdaɪmənd ˈpɪkˌæksɪz/",
+          "linking": [
+            "You'll be → /l/ + /b/ は子音+子音で連結なし。You'll は弱形 /jəl/",
+            "be more → /i/ + /m/ は母音+子音で連結なし",
+            "more confident → /r/ + /k/ は子音+子音で連結なし",
+            "confident mining → /t/ + /m/ は子音+子音で連結なし",
+            "once you → /s/ + /j/ は子音+子音で連結なし。you は弱形 /ju/",
+            "get diamond → /t/ + /d/ は子音+子音で連結なし"
+          ],
+          "kana": "ユル ビー モア カンフィデント マイニング ワンス ユー ゲット ダイモンド ピックアクセズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most confident",
+      "ipa": "/ˈmoʊst ˈkɑnfɪdənt/",
+      "examples": [
+        {
+          "en": "The most confident players build the largest structures first.",
+          "ja": "最も自信のあるプレイヤーは最初に最大の構造物を建てる。",
+          "ipa": "/ðə ˈmoʊst ˈkɑnfɪdənt ˈpleɪɚz bɪld ðə ˈlɑrdʒəst ˈstrʌktʃɚz fɝst/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most confident → /t/ + /k/ は子音+子音で連結なし",
+            "confident players → /t/ + /p/ は子音+子音で連結なし",
+            "build the → /d/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/",
+            "structures first → /z/ + /f/ は子音+子音で連結なし"
+          ],
+          "kana": "ザ モースト カンフィデント プレイヤーズ ビルド ザ ラージェスト ストラクチャーズ ファースト"
+        },
+        {
+          "en": "I feel most confident when defending my base from attacks.",
+          "ja": "自分の拠点を攻撃から守るときに、最も自信を感じる。",
+          "ipa": "/aɪ fil ˈmoʊst ˈkɑnfɪdənt wɛn dɪˈfɛndɪŋ maɪ beɪs frəm əˈtæks/",
+          "linking": [
+            "feel most → /l/ + /m/ は子音+子音で連結なし",
+            "most confident → /t/ + /k/ は子音+子音で連結なし",
+            "confident when → /t/ + /w/ は子音+子音で連結なし",
+            "defending my → /ŋ/ + /m/ は子音+子音で連結なし",
+            "base from → /s/ + /f/ は子音+子音で連結なし。from は弱形 /frəm/",
+            "from attacks → from の末尾 /m/ が attacks の /ə/ に連結 [frəm‿əˈtæks] フラム アタックス"
+          ],
+          "kana": "アイ フィール モースト カンフィデント ウェン ディフェンディング マイ ベース フラム アタックス"
+        }
+      ]
+    }
   ]
 }

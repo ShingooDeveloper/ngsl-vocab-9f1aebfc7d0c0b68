@@ -56,5 +56,71 @@
       ],
       "kana": "プレイシング ザッ ブロック イン ザ プロテクテッド ゾーン イズ エン イリーガル ブロック プレイスメント"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more illegal",
+      "ipa": "/ˈmoʊr ɪˈliːɡəl/",
+      "examples": [
+        {
+          "en": "Using hacks is more illegal than just keeping forbidden items in your inventory.",
+          "ja": "ハックを使うのは、単に禁止アイテムをインベントリに保有するより違法だ。",
+          "ipa": "/ˈjuːzɪŋ hæks ɪz ˈmoʊr ɪˈliːɡəl ðæn dʒʌst ˈkiːpɪŋ fərˈbɪdən ˈaɪtəmz ɪn jɔr ɪnˈvɛntəri/",
+          "linking": [
+            "hacks is: s が母音に連結 [hæks‿ɪz] ハックスィズ",
+            "more illegal: r が母音に連結 [ˈmoʊr‿ɪˈliːɡəl] モア イリーガル",
+            "just keeping: /t/ + /k/ は子音+子音で連結しない",
+            "in your: n が母音に連結 [ɪn‿jɔr] イン ユア"
+          ],
+          "kana": "ユージング ハックスィズ モア イリーガル ザン ジャスト キーピング フォービドゥン アイテムズ イン ユア インヴェントリー"
+        },
+        {
+          "en": "Griefing is more illegal than just taking resources from other players.",
+          "ja": "グリーフィングは他のプレイヤーからリソースを取るより違法だ。",
+          "ipa": "/ˈɡriːfɪŋ ɪz ˈmoʊr ɪˈliːɡəl ðæn dʒʌst ˈteɪkɪŋ ˈrɛsɔrsɪz frəm ˈʌðər ˈpleɪərz/",
+          "linking": [
+            "more illegal: r が母音に連結 [ˈmoʊr‿ɪˈliːɡəl] モア イリーガル",
+            "just taking: /t/ が未開放で詰まり、次の /t/ に融合 [dʒʌs̚ ˈteɪkɪŋ] ジャス テイキング",
+            "from は弱形 /frəm/ に弱化",
+            "other は /ˈʌðər/ で発音"
+          ],
+          "kana": "グリーフィング イズ モア イリーガル ザン ジャスト テイキング リソーシズ フラム アザー プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most illegal",
+      "ipa": "/ˈmoʊst ɪˈliːɡəl/",
+      "examples": [
+        {
+          "en": "Griefing another player's builds is the most illegal activity on our server.",
+          "ja": "他のプレイヤーの建築物を破壊することは、私たちのサーバーで最も違法な行為だ。",
+          "ipa": "/ˈɡriːfɪŋ əˈnʌðər ˈpleɪərz bɪldz ɪz ðə ˈmoʊst ɪˈliːɡəl ækˈtɪvɪti ɑn ˈaʊər ˈsɝvər/",
+          "linking": [
+            "builds is: z が母音に連結 [bɪldz‿ɪz] ビルズ イズ",
+            "is the: the は弱形 /ðə/ に弱化 [ɪz‿ðə]",
+            "most illegal: t が母音に連結 [ˈmoʊst‿ɪˈliːɡəl] モースト イリーガル",
+            "illegal activity: l が母音に連結 [ɪˈliːɡəl‿ækˈtɪvəti] イリーガル アクティビティ"
+          ],
+          "kana": "グリーフィング アナザー プレイヤーズ ビルズ イズ ザ モースト イリーガル アクティビティ オン アワー サーバー"
+        },
+        {
+          "en": "The most illegal modification on any server is using an auto-clicker bot.",
+          "ja": "どのサーバーでも最も違法な改造はオートクリッカーボットを使うことだ。",
+          "ipa": "/ðə ˈmoʊst ɪˈliːɡəl ˌmɑdəfəˈkeɪʃən ɑn ˈɛni ˈsɝvər ɪz ˈjuːzɪŋ ən ˈɔtoʊ ˈklɪkər ˈbɑt/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "most illegal: t が母音に連結 [ˈmoʊst‿ɪˈliːɡəl] モースト イリーガル",
+            "on any: n が母音に連結 [ɑn‿ˈɛni] オン エニー",
+            "server is: r が母音に連結 [ˈsɝvɚ‿ɪz] サーバー イズ"
+          ],
+          "kana": "ザ モースト イリーガル モディフィケイション オン エニー サーバー イズ ユージング エン オートクリッカー ボット"
+        }
+      ]
+    }
   ]
 }

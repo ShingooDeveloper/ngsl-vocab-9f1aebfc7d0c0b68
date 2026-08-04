@@ -68,5 +68,144 @@
       ],
       "kana": "ザ ケイヴ イン アレッスラワ コンストラクション プラーンズ コムプリートリ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "arrests",
+      "ipa": "/əˈrɛsts/",
+      "examples": [
+        {
+          "en": "He arrests the Creeper before it explodes.",
+          "ja": "彼はクリーパーが爆発する前にそれを拘束する。",
+          "ipa": "[hi əˈrɛsts ðə ˈkriːpər bɪˈfɔːr ɪt ɪkˈsploʊdz]",
+          "linking": [
+            "the Creeper: the は弱形 /ðə/。[ðə ˈkriːpər]"
+          ],
+          "kana": "ヒ アレスツ ザ クリーパー ビフォア イット イクスプロウズ"
+        },
+        {
+          "en": "The command arrests any hostile mob instantly.",
+          "ja": "コマンドはすぐに敵対的なモブを拘束する。",
+          "ipa": "[ðə kəˈmænd əˈrɛsts ˈɛni ˈhoʊstaɪl mɑb ˈɪnstəntli]",
+          "linking": [
+            "command arrests: command の語末 /d/ が arrests の母音 /ə/ に続くため tap [ɾ] になり連結。[kəˈmænɾɛsts]",
+            "instantly: 標準的な単語境界。[ˈɪnstəntli]"
+          ],
+          "kana": "ザ コマンレスツ エニー ホウスタイル モブ インスタントリ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "arrested",
+      "ipa": "/əˈrɛstəd/",
+      "examples": [
+        {
+          "en": "The guards arrested the criminal on the obsidian platform.",
+          "ja": "警備員は黒曜石のプラットフォーム上で犯人を逮捕した。",
+          "ipa": "[ðə ˈɡɑrdz əˈrɛstəd ðə ˈkrɪmənəl ɑn ðə əbˈsɪdiən ˈplætfɔːrm]",
+          "linking": [
+            "arrested the: arrested の語末 /d/ が the の母音 /ə/ に続くため tap [ɾ] になり連結。[əˈrɛsɾə]",
+            "platform: 標準的な単語境界。[ˈplætfɔːrm]"
+          ],
+          "kana": "ザ ガーズ アレッスラ ザ クリミナル アン ザ アブシディアン プラットフォーム"
+        },
+        {
+          "en": "We arrested the water flow with obsidian blocks.",
+          "ja": "黒曜石ブロックで水の流れを止めた。",
+          "ipa": "[wi əˈrɛstəd ðə ˈwɔːtər floʊ wɪð əbˈsɪdiən blɑks]",
+          "linking": [
+            "arrested the: arrested の語末 /d/ が the の母音 /ə/ に続くため tap [ɾ] になり連結。[əˈrɛsɾə]",
+            "with: 弱形 /wɪð/。[wɪð]"
+          ],
+          "kana": "ウィ アレッスラ ザ ウォーター フロウ ウィズ アブシディアン ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "arrested",
+      "ipa": "/əˈrɛstəd/",
+      "examples": [
+        {
+          "en": "The arrested mob cannot attack nearby players.",
+          "ja": "拘束されたモブは近くのプレイヤーを攻撃できない。",
+          "ipa": "[ðə əˈrɛstəd moʊb ˈkænɑt əˈtæk ˈnɪrbaɪ ˈpleɪərz]",
+          "linking": [
+            "The arrested: the の弱形 /ðə/ が arrested の /ə/ に続く。[ðəˈrɛstəd]",
+            "cannot: 弱形 /kən/ に弱化。[ˈkænɑt]"
+          ],
+          "kana": "ザ アレステッド モウb キャンノット アタック ニアバイ プレイアーズ"
+        },
+        {
+          "en": "An arrested player remains frozen in place.",
+          "ja": "拘束されたプレイヤーはその場で凍ったままになる。",
+          "ipa": "[ən əˈrɛstəd ˈpleɪər rɪˈmeɪnz ˈfroʊzən ɪn pleɪs]",
+          "linking": [
+            "An arrested: an の弱形 /ən/ が arrested の /ə/ に続く。[ən əˈrɛstəd]",
+            "frozen: 標準的な単語境界。[ˈfroʊzən]"
+          ],
+          "kana": "アン アレステッド プレイアー リメインズ フロウズン イン プレイス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞",
+      "text": "arresting",
+      "ipa": "/əˈrɛstɪŋ/",
+      "examples": [
+        {
+          "en": "Arresting mobs with command blocks keeps them still.",
+          "ja": "コマンドブロックでモブを拘束することは彼らを止めたままに保つ。",
+          "ipa": "[əˈrɛstɪŋ moʊbz wɪð kəˈmænd blɑks kiːps ðɛm stɪl]",
+          "linking": [
+            "keeps them: them は弱形 /ðɛm/ または /ðəm/。[kiːps ðəm]"
+          ],
+          "kana": "アレスティング モウbズ ウィズ コマンド ブラックス キープス ザム スティル"
+        },
+        {
+          "en": "The arresting effect stops all mob movement instantly.",
+          "ja": "拘束効果はすべてのモブの動きを即座に停止させる。",
+          "ipa": "[ðə əˈrɛstɪŋ ɪˈfɛkt stɑps ɔːl moʊb ˈmuːvmənt ˈɪnstəntli]",
+          "linking": [
+            "The arresting: the の弱形 /ðə/ が arresting の /ə/ に続く。[ðəˈrɛstɪŋ]",
+            "instantly: 標準的な単語境界。[ˈɪnstəntli]"
+          ],
+          "kana": "ザ アレスティング イフェクト ストップス オール モウb ムーブメント インスタントリ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "arrests",
+      "ipa": "/əˈrɛsts/",
+      "examples": [
+        {
+          "en": "Multiple arrests stopped the mob attack completely.",
+          "ja": "複数の拘束がモブの攻撃を完全に止めた。",
+          "ipa": "[ˈmʌltɪpəl əˈrɛsts stɑpt ðə moʊb əˈtæk kəmˈpliːtli]",
+          "linking": [
+            "mob attack: mob の語末 /b/ が attack の母音 /ə/ に続くため連結。[moʊbəˈtæk]"
+          ],
+          "kana": "マルティプル アレスツ ストップト ザ モウbアタック コムプリートリ"
+        },
+        {
+          "en": "The arrests of hostile mobs saved the base from damage.",
+          "ja": "敵対的なモブの拘束は基地を損傷から救った。",
+          "ipa": "[ðə əˈrɛsts əv ˈhoʊstaɪl moʊbz seɪvd ðə beɪs frəm ˈdæmɪdʒ]",
+          "linking": [
+            "The arrests: the の弱形 /ðə/ が arrests の /ə/ に続く。[ðəˈrɛsts]",
+            "of hostile: of は弱形 /əv/。[əv ˈhoʊstaɪl]"
+          ],
+          "kana": "ザ アレスツ アヴ ホウスタイル モウbズ セイヴド ザ ベイス フラム ダミッジ"
+        }
+      ]
+    }
   ]
 }

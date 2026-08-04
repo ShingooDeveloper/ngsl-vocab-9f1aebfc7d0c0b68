@@ -44,5 +44,63 @@
       "kana": "ファウンド ア ウィアド ケイブ イェスタディ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "weirder",
+      "ipa": "/ˈwɪɹdɚ/",
+      "examples": [
+        {
+          "en": "This ore vein is weirder than that one.",
+          "ja": "この鉱脈はあの鉱脈より変です。",
+          "ipa": "/ðɪs ɔɹ veɪn ɪz ˈwɪɹdɚ ðən ðæt wʌn/",
+          "linking": [
+            "vein の語末 /n/ が is の初頭母音 /ɪ/ に連結 [veɪnɪz]（ベイニズ）",
+            "than は機能語で弱形 /ðən/ に弱化"
+          ],
+          "kana": "ディス オア ベイン イズ ウィアダー ザン ザット ワン"
+        },
+        {
+          "en": "This enchantment is weirder than I expected.",
+          "ja": "このエンチャントは想像より変です。",
+          "ipa": "/ðɪs ɪnˈtʃæntmənt ɪz ˈwɪɹdɚ ðən aɪ ɪkˈspɛktəd/",
+          "linking": [
+            "than の語末 /n/ が I の初頭母音 /aɪ/ に連結 [ðənaɪ]（ザナイ）",
+            "than は機能語で弱形 /ðən/ に弱化"
+          ],
+          "kana": "ディス インチャントメント イズ ウィアダー ザン アイ イクスペクティド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "weirdest",
+      "ipa": "/ˈwɪɹdəst/",
+      "examples": [
+        {
+          "en": "This is the weirdest mob.",
+          "ja": "これは一番変なモブです。",
+          "ipa": "/ðɪs ɪz ðə ˈwɪɹdəst mɑb/",
+          "linking": [
+            "This の語末 /s/ が is の初頭母音 /ɪ/ に連結 [ðɪsɪz]（ディシズ）",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディス イズ ザ ウィアダスト マブ"
+        },
+        {
+          "en": "That's the weirdest place I've found.",
+          "ja": "それは私が見つけた一番変な場所です。",
+          "ipa": "/ðæts ðə ˈwɪɹdəst pleɪs aɪv faʊnd/",
+          "linking": [
+            "place の語末 /s/ が I've の初頭母音 /aɪ/ に連結 [pleɪs aɪv]（プレイサイヴ）",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ザッツ ザ ウィアダスト プレイス アイヴ ファウンド"
+        }
+      ]
+    }
+  ]
 }

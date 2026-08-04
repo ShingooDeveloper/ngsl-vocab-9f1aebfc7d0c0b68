@@ -45,5 +45,127 @@
       "kana": "ザ ニグレクタ ヴ ヨア ベイス ショウズ イン クリーパー ダメッジ"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "neglects",
+      "ipa": "/nɪˈɡlɛkts/",
+      "examples": [
+        {
+          "en": "He neglects to repair the farm gate, and zombies get in.",
+          "ja": "彼は農場のゲートの修復を怠ると、ゾンビが入ってきます。",
+          "ipa": "/hɪ nɪˈɡlɛkts tə rɪˈpɛr ðə ˈfɑrm ɡeɪtən ˈzɑmbiz ˈɡɛtɪn/",
+          "linking": [
+            "「to」は機能語で弱形 /tə/ に弱化",
+            "「gate and」→ gate の語末子音 /t/ が and の母音 /ə/ に連結 [ɡeɪtən]",
+            "「get in」→ get の語末子音 /t/ が in の母音 /ɪ/ に連結 [ˈɡɛtɪn]"
+          ],
+          "kana": "ヒ ニグレクツ タ リペア ザ ファーム ゲートゥン ゾンビズ ゲティン"
+        },
+        {
+          "en": "She neglects to use armor during a raid.",
+          "ja": "彼女は襲撃の際にアーマーを使用することを怠ります。",
+          "ipa": "/ʃi nɪˈɡlɛkts tə ˈjuːz ˈɑrmɚ ˈdʊrɪŋ ə ˈreɪd/",
+          "linking": [
+            "「to」は機能語で弱形 /tə/",
+            "「use armor」→ use の語末子音 /z/ が armor の母音 /ɑ/ に連結 [ˈjuːzɑrmɚ]",
+            "「a」→ 冠詞で弱形 /ə/"
+          ],
+          "kana": "シ ニグレクツ タ ユーザーマー ドゥーリング ア レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "neglected",
+      "ipa": "/nɪˈɡlɛktɪd/",
+      "examples": [
+        {
+          "en": "I neglected the nether portal, and ghasts took over.",
+          "ja": "私はネザーポータルを放置したので、ガストが占領しました。",
+          "ipa": "/aɪ nɪˈɡlɛktɪd ðə ˈnɛðɚ ˈpɔrtəl ənd ɡæsts ˈtʊkoʊvɚ/",
+          "linking": [
+            "「neglected the」→ neglected の語末子音 /d/ が the の母音 /ə/ に連結",
+            "「and」→ 弱形 /ən/ または /n/",
+            "「took over」→ took の語末子音 /k/ が over の母音 /oʊ/ に連結 [ˈtʊkoʊvɚ]"
+          ],
+          "kana": "アイ ニグレクティド ザ ネザー ポータル アン ガース トゥックオーヴァー"
+        },
+        {
+          "en": "We neglected our equipment all week long.",
+          "ja": "私たちは一週間ずっと装備を放置してきました。",
+          "ipa": "/wi nɪˈɡlɛktɪd aʊɚ ɪˈkwɪpmənt ɔl wik ˈlɔŋ/",
+          "linking": [
+            "「neglected our」→ neglected の語末子音 /d/ が our の母音 /aʊ/ に連結 [nɪˈɡlɛktɪd aʊɚ]",
+            "「equipment」の語末 /t/ が all に続く（子音+子音）",
+            "「week long」での子音連続"
+          ],
+          "kana": "ウィ ニグレクティド アワー イクウィップメント オール ウィーク ロング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "neglected",
+      "ipa": "/nɪˈɡlɛktɪd/",
+      "examples": [
+        {
+          "en": "The neglected area looks abandoned and dangerous.",
+          "ja": "放置された場所は放棄されたように見え、危険です。",
+          "ipa": "/ðə nɪˈɡlɛktɪd ˈɛriə ˈlʊks əˈbændənd ənd ˈdeɪndʒərəs/",
+          "linking": [
+            "「the」→ 弱形 /ðə/",
+            "「neglected area」→ neglected の語末子音 /d/ が area の母音 /ɛ/ に連結 [nɪˈɡlɛktɪd ˈɛriə]",
+            "「abandoned and」→ abandoned の語末子音 /d/ が and の母音 /ə/ に連結 [əˈbændənd ənd]"
+          ],
+          "kana": "ザ ニグレクティド エリア ルックス アバンダンド アンド デンジャラス"
+        },
+        {
+          "en": "I've neglected our equipment all week long.",
+          "ja": "私は一週間ずっと装備を放置してきました。",
+          "ipa": "/aɪv nɪˈɡlɛktɪd aʊɚ ɪˈkwɪpmənt ɔl wik ˈlɔŋ/",
+          "linking": [
+            "「neglected our」→ neglected の語末子音 /d/ が our の母音 /aʊ/ に連結 [nɪˈɡlɛktɪd aʊɚ]",
+            "「I've」→ have の弱形 /əv/",
+            "「week long」での子音連続"
+          ],
+          "kana": "アイヴ ニグレクティド アワー イクウィップメント オール ウィーク ロング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "neglecting",
+      "ipa": "/nɪˈɡlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "Stop neglecting your tools; you need them for mining.",
+          "ja": "ツールを放置するのをやめてください。採掘にはそれらが必要です。",
+          "ipa": "/stɑp nɪˈɡlɛktɪŋ jɔr tulz | ju ˈnid ðəm fɔr ˈmaɪnɪŋ/",
+          "linking": [
+            "「neglecting your」→ neglecting の語末 /ŋ/ が your の /j/ に続く",
+            "「need them」→ need の語末子音 /d/ が them の /ð/ に未開放で続く [ˈniːd ðəm]",
+            "「for」→ 弱形 /fər/ で mining に続く"
+          ],
+          "kana": "ストップ ニグレクティング ユアー トゥールズ ユー ニード ザム フォー マイニング"
+        },
+        {
+          "en": "Neglecting your animals will make them unhappy.",
+          "ja": "動物を放置すると、彼らは不幸になります。",
+          "ipa": "/nɪˈɡlɛktɪŋ jɔr ˈænɪməlz wɪl ˈmeɪk ðəm ənˈhæpi/",
+          "linking": [
+            "「neglecting your」→ neglecting の語末 /ŋ/ が your の /j/ に続く",
+            "「animals will」→ animals の語末 /z/ が will の /w/ に続く（子音+子音）",
+            "「make them」→ make の語末 /k/ が them に続く"
+          ],
+          "kana": "ニグレクティング ユアー アニマルズ ウィル メイク ザム アンハッピー"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

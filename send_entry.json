@@ -174,6 +174,90 @@
           "kana": "シーズ センディング リソーシーズ トゥー ザ ファーム エヴリ モーニング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is sending",
+      "ipa": "/ɪz ˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I am sending supplies to the base right now.",
+          "ja": "今ちょうど基地に補給物資を送っています。",
+          "ipa": "/aɪ əm ˈsɛndɪŋ səˈplaɪz tu ðə ˈbeɪs ˈraɪt naʊ/",
+          "linking": [
+            "am sending → am は弱形 /əm/ に弱化",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ アム センディング サプライズ タ ザ ベイス ライト ナウ"
+        },
+        {
+          "en": "The server is sending an error message again.",
+          "ja": "サーバーがまたエラーメッセージを送り出しています。",
+          "ipa": "/ðə ˈsɝvɚ ɪz ˈsɛndɪŋ ən ˈɛrɚ ˈmɛsɪdʒ əˈɡɛn/",
+          "linking": [
+            "is sending → is は弱形 /ɪz/",
+            "an → 弱形 /ən/ に弱化"
+          ],
+          "kana": "ザ サーヴァー イズ センディング アン エラー メッセージ アゲイン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sending",
+      "ipa": "/wəz ˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I was sending the diamonds when the creeper exploded.",
+          "ja": "クリーパーが爆発したときにダイヤモンドを送っていました。",
+          "ipa": "/aɪ wəz ˈsɛndɪŋ ðə ˈdaɪməndz wɛn ðə ˈkriːpɚ ɪkˈsploʊdɪd/",
+          "linking": [
+            "was sending → was は弱形 /wəz/",
+            "the diamonds → the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ センディング ザ ダイモンズ ウェン ザ クリーパー イクスプロウディッド"
+        },
+        {
+          "en": "They were sending resources until the server crashed.",
+          "ja": "サーバーがクラッシュするまで、彼らはリソースを送り続けていました。",
+          "ipa": "/ðeɪ wɚ ˈsɛndɪŋ ˈrɛsɔːrsəz ənˈtɪl ðə ˈsɝvɚ kræʃt/",
+          "linking": [
+            "were sending → were は弱形 /wɚ/",
+            "the server → the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ワー センディング リソーシーズ アンティル ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sending",
+      "ipa": "/həd bɪn ˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "He had been sending messages all night before he went offline.",
+          "ja": "オフラインになる直前まで、彼は一晩中メッセージを送り続けていました。",
+          "ipa": "/hi həd bɪn ˈsɛndɪŋ ˈmɛsɪdʒəz ɔːl ˈnaɪt bɪˈfɔːr hi wɛnt ˈɑfˌlaɪn/",
+          "linking": [
+            "had been sending → had は弱形 /həd/、been は弱形 /bɪn/",
+            "before he → before の語末 r が母音 i に連結 [ɚ i]"
+          ],
+          "kana": "ヒー ハド ビン センディング メッセージーズ オール ナイト ビフォーリー ウェント オフライン"
+        },
+        {
+          "en": "We had been sending supplies for hours when we finally finished the project.",
+          "ja": "プロジェクトをやっと完成させたときまでに、数時間もの間、補給物資を送り続けていました。",
+          "ipa": "/wi həd bɪn ˈsɛndɪŋ səˈplaɪz fɚ ˈaʊɚz wɛn wi ˈfaɪnəli ˈfɪnɪʃt ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "had been sending → had は弱形 /həd/、been は弱形 /bɪn/",
+            "the project → the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ハド ビン センディング サプライズ フォー アワーズ ウェン ウィー ファイナリー フィニッシュト ザ プロジェクト"
+        }
+      ]
     }
   ]
 }

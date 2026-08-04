@@ -44,5 +44,35 @@
       "kana": "ライト ダウン エヴリ ナウン ファ マテリアルズ ユー ニーダ クラフト"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "nouns",
+      "ipa": "/naʊnz/",
+      "examples": [
+        {
+          "en": "Nouns help us name resources we collect from mining.",
+          "ja": "名詞は、採掘で集めたリソースに名前をつけるのに役立ちます。",
+          "ipa": "/ˈnaʊnz ˈhɛlp əs ˈneɪm rɪˈsoʊrsɪz wi kəˈlɛkt frəm ˈmaɪnɪŋ/",
+          "linking": [
+            "help の語末子音 /p/ が us の初頭母音 /ə/ に連結。us は弱形。",
+            "from は前置詞で弱形 /frəm/。"
+          ],
+          "kana": "ナウンズ ヘルパス ネイム リソーシズ ウィ コレクト フラム マイニング"
+        },
+        {
+          "en": "Practice using nouns to describe blocks and mobs.",
+          "ja": "名詞を使ってブロックとモブを説明する練習をしてください。",
+          "ipa": "/ˈpræktɪs ˈjuzɪŋ ˈnaʊnz tu dɪˈskraɪb ˈblɑks ən ˈmɑbz/",
+          "linking": [
+            "to は前置詞で弱形 /tə/。",
+            "blocks の語末子音 /s/ が and の初頭母音 /ə/ に連結。and は弱形 /ən/。"
+          ],
+          "kana": "プラクティス ユージング ナウンズ タ ディスクライブ ブラックス エン モブズ"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

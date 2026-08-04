@@ -42,6 +42,35 @@
       "kana": "アイ ディドンッ レド ザ ビルディング ガイドラインズ イェット"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "guidelines",
+      "ipa": "/ˈɡaɪdlaɪnz/",
+      "examples": [
+        {
+          "en": "Read the server guidelines before you start playing.",
+          "ja": "プレイする前にサーバーのガイドラインを読んでください。",
+          "ipa": "/rɛd ðə ˈsɜrvər ˈɡaɪdlaɪnz bɪˈfɔr juː stɑrt ˈpleɪɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（子音の前）",
+            "start の語末 /t/ は未開放 /t̚/ で詰まった音 ッ"
+          ],
+          "kana": "レド ザ サーバー ガイドラインズ ビフォー ユー スターッ プレイング"
+        },
+        {
+          "en": "These guidelines protect our Minecraft world from damage.",
+          "ja": "これらのガイドラインがマインクラフトワールドを損害から守ります。",
+          "ipa": "/ðiz ˈɡaɪdlaɪnz prəˈtɛkt aʊr ˈmaɪnkræft wɝld frəm ˈdæmɪdʒ/",
+          "linking": [
+            "from は前置詞で弱形 /frəm/ フラム（機能語）"
+          ],
+          "kana": "ディーズ ガイドラインズ プラテクト アワー マインクラフト ワールド フラム ダメッジ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "follow the guidelines",

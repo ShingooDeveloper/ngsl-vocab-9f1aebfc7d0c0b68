@@ -71,5 +71,143 @@
       ],
       "kana": "アイ ディストロイド ザ オウルド ファーム ウィザウッ リグレット"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "regrets",
+      "ipa": "/rɪˈɡrɛts/",
+      "examples": [
+        {
+          "en": "A player often regrets not bringing enough supplies on a deep mining expedition.",
+          "ja": "プレイヤーはしばしば深い採掘遠征に十分な補給を持ってこなかったことを後悔します。",
+          "ipa": "/ə ˈpleɪər ˈɔftən rɪˈɡrɛts nɑːt ˈbrɪŋɪŋ ɪˈnʌf səˈplaɪz ɑːn ə ˈdiːp ˈmaɪnɪŋ ˌɛkspɪˈdɪʃən/",
+          "linking": [
+            "often regrets → /n/ + /r/ が続く（子音+子音）",
+            "regrets not → /ts/ + /n/ が続く（子音+子音）",
+            "not bringing → /t/ + /b/ が続く（子音+子音）",
+            "supplies on → supplies の /z/ が on の初頭母音 /ɑ/ に連結 [səˈplaɪz ɑːn] サプライズ オン"
+          ],
+          "kana": "ア プレイヤー オフトン リグレッツ ノット ブリンギング イナフ サプライズ オン ア ディープ マイニング エクスペディション"
+        },
+        {
+          "en": "He regrets leaving valuable items in an unsafe place during adventures.",
+          "ja": "彼は冒険中に危険な場所に貴重なアイテムを置き忘れることを後悔しています。",
+          "ipa": "/hi rɪˈɡrɛts ˈliːvɪŋ ˈvæljəbəl ˈaɪtəmz ɪn ən ˈʌnseɪf ˈpleɪs ˈdʊrɪŋ ədˈvɛntʃərz/",
+          "linking": [
+            "He regrets → /i/ + /r/ が連結 [hi rɪˈɡrɛts] ヒー リグレッツ",
+            "regrets leaving → /ts/ + /l/ が続く（子音+子音）",
+            "leaving valuable → /ŋ/ + /v/ が続く（子音+子音）",
+            "items in → items の /z/ が in の初頭母音 /ɪ/ に連結 [ˈaɪtəmz ɪn] アイテムズ イン",
+            "unsafe place → /f/ + /p/ が続く（子音+子音）"
+          ],
+          "kana": "ヒー リグレッツ リーヴィング ヴァリュアブル アイテムズ イン アン アンセイフ プレイス ジューリング アドベンチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "regretted",
+      "ipa": "/rɪˈɡrɛtɪd/",
+      "examples": [
+        {
+          "en": "I regretted using all my diamonds to craft just one sword.",
+          "ja": "たった一本の剣をクラフトするために、すべてのダイヤモンドを使ったことを後悔しました。",
+          "ipa": "/aɪ rɪˈɡrɛtɪd ˈjuːzɪŋ ɔl maɪ ˈdaɪmənds tə ˈkræft dʒəst ˈwʌn ˈsɔːrd/",
+          "linking": [
+            "regretted using → /d/ + /j/ が続く（子音+子音）",
+            "all my → /l/ + /m/ が続く（子音+子音）",
+            "my diamonds → diamonds は /ˈdaɪmənds/ で /z/ が to の初頭子音 /t/ に続く（子音+子音）",
+            "to は弱形 /tə/",
+            "craft just → /ft/ + /dʒ/ が続く（子音+子音）"
+          ],
+          "kana": "アイ リグレッティド ユージング オール マイ ダイアモンズ タ クラフト ジャスト ワン ソード"
+        },
+        {
+          "en": "We regretted not bringing enough food on the long mining journey.",
+          "ja": "長い採掘の旅に十分な食べ物を持ってこなかったことを後悔しました。",
+          "ipa": "/wi rɪˈɡrɛtɪd nɑːt ˈbrɪŋɪŋ ɪˈnʌf ˈfuːd ɑːn ðə ˈlɔŋ ˈmaɪnɪŋ ˈdʒɝni/",
+          "linking": [
+            "regretted not → /d/ + /n/ が続く（子音+子音）",
+            "not bringing → /t/ + /b/ が続く（子音+子音）",
+            "food on → food の /d/ が on の初頭母音 /ɑ/ に連結 [ˈfuːd ɑːn] フード オン",
+            "the は弱形 /ðə/、long に連結",
+            "mining journey → /ŋ/ + /dʒ/ が続く（子音+子音）"
+          ],
+          "kana": "ウィ リグレッティド ノット ブリンギング イナフ フード オン ザ ロング マイニング ジャーニー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "regretted",
+      "ipa": "/rɪˈɡrɛtɪd/",
+      "examples": [
+        {
+          "en": "Having regretted my hasty decision, I mined much more carefully afterward.",
+          "ja": "性急な決定を後悔した後、私は非常に注意深く採掘しました。",
+          "ipa": "/ˈheɪvɪŋ rɪˈɡrɛtɪd maɪ ˈheɪsti dɪˈsɪʒən | aɪ ˈmaɪnd mʌtʃ ˈmɔːr ˈkɛrfəli ˈæftərwərd/",
+          "linking": [
+            "Having regretted → /ŋ/ + /r/ が続く（子音+子音）",
+            "regretted my → /d/ + /m/ が続く（子音+子音）",
+            "decision I → /n/ + /aɪ/ が続く（子音+母音で連結） [dɪˈsɪʒən aɪ] ディシジョン アイ",
+            "much more → /tʃ/ + /m/ が続く（子音+子音）",
+            "more carefully → /r/ + /k/ が続く（子音+子音）"
+          ],
+          "kana": "ハヴィング リグレッティド マイ ヘイスティ ディシジョン、アイ マインド マッチ モア ケアフリー アフターワード"
+        },
+        {
+          "en": "The decision, though regretted by many players, taught us valuable lessons.",
+          "ja": "その決定は多くのプレイヤーに後悔されましたが、私たちに貴重な教訓を教えてくれました。",
+          "ipa": "/ðə dɪˈsɪʒən | ðoʊ rɪˈɡrɛtɪd baɪ ˈmɛni ˈpleɪərz | tɔːt əs ˈvæljəbəl ˈlɛsənz/",
+          "linking": [
+            "the は弱形 /ðə/、decision に連結",
+            "though regretted → /oʊ/ + /r/ が続く（母音+子音で滑らかに）",
+            "regretted by → /d/ + /b/ が続く（子音+子音）",
+            "many players → /i/ + /p/ が続く（子音+子音）",
+            "taught us → /t/ + /ə/ が連結 [tɔːt əs] トート アス"
+          ],
+          "kana": "ザ ディシジョン、ゾウ リグレッティド バイ メニー プレイヤーズ、トート アス ヴァリュアブル レッスンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "regretting",
+      "ipa": "/rɪˈɡrɛtɪŋ/",
+      "examples": [
+        {
+          "en": "Regretting my building placement, I began to rebuild the house closer to safety.",
+          "ja": "建築配置を後悔して、安全な場所により近い家を再構築し始めました。",
+          "ipa": "/rɪˈɡrɛtɪŋ maɪ ˈbɪldɪŋ ˈpleɪsmənt | aɪ bɪˈɡæn tə rɪˈbɪld ðə ˈhaʊs ˈkloʊsər tə ˈseɪfti/",
+          "linking": [
+            "Regretting my → /ŋ/ + /m/ が続く（子音+子音）",
+            "my building → building は /ˈbɪldɪŋ/ で /ŋ/ + /p/ が続く（子音+子音）",
+            "began to → to は弱形 /tə/、began との間は /n/ + /t/ （子音+子音）",
+            "to rebuild → /tə/ + /r/ が続く（子音+子音）",
+            "the house → the は弱形 /ðə/、house に連結",
+            "closer to → closer の /r/ が to の初頭子音 /t/ に続く（子音+子音）、to は弱形 /tə/"
+          ],
+          "kana": "リグレッティング マイ ビルディング プレイスメント、アイ ビガン タ リビルド ザ ハウス クローサー タ セイフティ"
+        },
+        {
+          "en": "Without regretting anything, she defeated the Ender Dragon solo.",
+          "ja": "何も後悔することなく、彼女はエンダードラゴンに一人で勝利しました。",
+          "ipa": "/wɪðˈaʊt rɪˈɡrɛtɪŋ ˈɛniθɪŋ | ʃi dɪˈfiːtɪd ðə ˈɛndər ˈdræɡən ˈsoʊloʊ/",
+          "linking": [
+            "without regretting → without の語末 /t/ は未開放で、regretting /r/ に続く子音で [wɪðˈaʊt̚]",
+            "regretting anything → /ŋ/ + /ˈɛ/ が連結 [rɪˈɡrɛtɪŋ ˈɛniθɪŋ] リグレッティング エニシング",
+            "she defeated → /i/ + /d/ が連結 [ʃi dɪˈfiːtɪd] シー ディフィーティド",
+            "defeated the → /d/ + /ð/ が続く（子音+子音）、the は弱形 /ðə/",
+            "the は弱形 /ðə/、Ender に連結"
+          ],
+          "kana": "ウィザウト リグレッティング エニシング、シー ディフィーティド ザ エンダー ドラゴン ソウロウ"
+        }
+      ]
+    }
   ]
 }

@@ -69,5 +69,35 @@
       ],
       "kana": "アイ チューズ ブロックス ベイスト アン クライテリア ライク テクスチャー エン カラー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "criteria",
+      "ipa": "/kraɪˈtɪriə/",
+      "examples": [
+        {
+          "en": "These criteria help us evaluate our farm design.",
+          "ja": "これらの基準は、私たちの農場設計を評価するのに役立ちます。",
+          "ipa": "/ðiːz kraɪˈtɪriə hɛlpəs ɪˈvæljueɪt aʊɚ fɑrm dɪˈzaɪn/",
+          "linking": [
+            "help の末尾子音 /p/ が us の初頭母音 /ə/ に連結 [ˈhɛlpəs] ヘルパス",
+            "our は機能語で弱形 /ɚ/ に弱化 [aʊɚ] アワー"
+          ],
+          "kana": "ディーズ クライテリア ヘルパス イヴァリュエイト アワー ファーム ディザイン"
+        },
+        {
+          "en": "The criteria for selecting wood blocks are strength and appearance.",
+          "ja": "ウッドブロックを選ぶための基準は、強度と外観です。",
+          "ipa": "/ðə kraɪˈtɪriə fɚ səˈlɛktɪŋ wʊd blɑks ɑr strɛŋθənd əˈpɪrəns/",
+          "linking": [
+            "for は機能語で弱形 /fɚ/ に弱化 [fɚ] ファー",
+            "strength の末尾子音 /θ/ が and の初頭母音 /ə/ (弱形) に連結 [ˈstrɛŋθənd] ストレングセン"
+          ],
+          "kana": "ザ クライテリア ファー スィレクティング ウッド ブロックス アー ストレングセン アピアランス"
+        }
+      ]
+    }
   ]
 }

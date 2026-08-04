@@ -56,5 +56,35 @@
         "cup の末尾子音 /p/ が of の初頭母音 /ə/ に連結。結果は [ˈkʌpəv]。"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "teas",
+      "ipa": "/tiːz/",
+      "examples": [
+        {
+          "en": "I'll bring a lot of teas for the brewing stand tonight.",
+          "ja": "今晩、ブリューイング スタンドのために多くのお茶を持ってきます。",
+          "ipa": "/aɪl brɪŋ ə ˈlɑt əv ˈtiːz fɔr ðə ˈbruːɪŋ ˈstænd təˈnaɪt/",
+          "linking": [
+            "lot の /t/ が母音に挟まれてフラップ化。/t/ が /ə/ に連結してフラップ [ɾ]。結果は [ˈlɑɾəv]。",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイル ブリング ア ロターヴ ティーズ ファー ザ ブルーイング スタンド トゥナイト"
+        },
+        {
+          "en": "We need different types of teas to complete all recipes.",
+          "ja": "すべてのレシピを完成させるために、異なる種類のお茶が必要です。",
+          "ipa": "/wi ˈniːd ˈdɪfərənt ˈtaɪps əv ˈtiːz tə kəmˈplit ɔl ˈrɛsɪpiz/",
+          "linking": [
+            "need の語末 /d/ が different の初頭 /d/ に未開放で接する。1つの /d/ に聞こえる [ˈniːd̚ ˈdɪfərənt]。",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィ ニード ディファレント タイプス アヴ ティーズ タ コンプリート オール レシピーズ"
+        }
+      ]
+    }
   ]
 }

@@ -59,5 +59,39 @@
       ],
       "kana": "バーン コール タ クック ジャー フード"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "coals",
+      "ipa": "/koʊlz/",
+      "examples": [
+        {
+          "en": "We need coals in our inventory to smelt ores.",
+          "ja": "私たちは鉱石を精錬するために在庫に石炭が必要です。",
+          "ipa": "/wi ˈniːd ˈkoʊlz ɪn ˈaʊr ɪnˈvɛntɔːri tə smɛlt ˈɔːrz/",
+          "linking": [
+            "coals の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結 [ˈkoʊlzɪn] コールズイン",
+            "in の末尾子音 /n/ が our の初頭母音 /aʊ/ に連結 [ɪnˈaʊr] イン アワー",
+            "our の末尾子音 /r/ が inventory の初頭母音 /ɪ/ に連結 [ˈaʊr ɪnˈvɛntɔːri] アワー インベントリー",
+            "to は不定詞の前置詞で弱形 /tə/"
+          ],
+          "kana": "ウィ ニード コールズイン アワー インベントリー タ スメルト オーズ"
+        },
+        {
+          "en": "Stacks of coals are needed for long mining sessions.",
+          "ja": "長時間のマイニングセッションには複数の石炭が必要です。",
+          "ipa": "/ˈstæks əv ˈkoʊlz ɑːr ˈniːdəd fɚ lɔːŋ ˈmaɪnɪŋ ˈsɛʃənz/",
+          "linking": [
+            "stacks の末尾子音 /s/ が of の初頭母音 /ə/ に連結 [ˈstæks əv] スタックス オブ",
+            "of は弱形 /əv/。coals の初頭は子音 /k/ で連結なし",
+            "coals の末尾子音 /z/ が are の初頭母音 /ɑː/ に連結 [ˈkoʊlz ɑːr] コールズ エアー",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "スタックス オブ コールズ エアー ニーディド ファー ロング マイニング セッションズ"
+        }
+      ]
+    }
   ]
 }

@@ -43,6 +43,64 @@
       "kana": "ザ エンダー ドラゴンズ ヘルス ドロップ ドゥラマティクリ ウェン ウィー オール アタック トゥゲザー"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more dramatically",
+      "ipa": "/mɔr drəˈmætɪkli/",
+      "examples": [
+        {
+          "en": "Your world changes more dramatically than mine when you add mods.",
+          "ja": "モッドを追加すると、君の世界は俺のより劇的に変わる。",
+          "ipa": "/jɔr wɜrld ˈtʃeɪndʒɪz mɔr drəˈmætɪkli ðən maɪn wɛn ju æd ˈmɑdz/",
+          "linking": [
+            "than が弱形 /ðən/ で mine に続く",
+            "you は弱形で、add に続く"
+          ],
+          "kana": "ユア ワーld チェンジーズ モア ドゥラマティクリ ザン マイン ウェン ユー アド マッズ"
+        },
+        {
+          "en": "The nether dimension looks more dramatically different than the surface.",
+          "ja": "ネザー次元は、サーフェスより劇的に異なって見える。",
+          "ipa": "/ðə ˈnɛðər dɪˈmɛnʃən ˈlʊks mɔr drəˈmætɪkli ˈdɪfərənt ðən ðə ˈsɜrfɪs/",
+          "linking": [
+            "The は弱形 /ðə/、nether に続く",
+            "than が弱形 /ðən/、次の the も弱形 /ðə/"
+          ],
+          "kana": "ザ ネザー ディメンション ルックス モア ドゥラマティクリ ディファラント ザン ザ サーフィス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most dramatically",
+      "ipa": "/moʊst drəˈmætɪkli/",
+      "examples": [
+        {
+          "en": "The lava trap exploded most dramatically, destroying everything around it.",
+          "ja": "溶岩トラップは最も劇的に爆発し、周りのすべてを破壊した。",
+          "ipa": "/ðə ˈlɑːvə ˈtræp ɪkˈsploʊdɪd moʊst drəˈmætɪkli dɪˈstrɔɪɪŋ ˈɛvrɪθɪŋ əˈraʊnd ɪt/",
+          "linking": [
+            "The は弱形 /ðə/、lava に続く",
+            "most の /t/ が未開放 [moʊst̚]、dramatically に続く；around の /d/ が it の /ɪ/ に連結"
+          ],
+          "kana": "ザ ラーヴァ トラップ イクスプロウディド モースト ドゥラマティクリ ディストロイング エヴリシング ラウンド イット"
+        },
+        {
+          "en": "My redstone contraption failed most dramatically when I flipped all the levers.",
+          "ja": "私のレッドストーン装置は、すべてのレバーを切ったとき最も劇的に失敗した。",
+          "ipa": "/maɪ ˈrɛdˌstoʊn kənˈtræpʃən ˈfeɪld moʊst drəˈmætɪkli wɛn aɪ ˈflɪpt ɔːl ðə ˈlɛvərz/",
+          "linking": [
+            "failed の /d/ が未開放 [ˈfeɪld̚]、most に続く",
+            "most の /t/ が未開放 [moʊst̚]、dramatically に続く；flipped の /t/ が未開放 [ˈflɪpt̚]、all に続く；the は弱形 /ðə/"
+          ],
+          "kana": "マイ レッドストーン コントラプション フェイld モースト ドゥラマティクリ ウェン アイ フリップ オール ザ レヴァーズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "drop dramatically",

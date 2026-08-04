@@ -70,5 +70,161 @@
       ],
       "kana": "アイ スタンプト マイ フターン ザ グラウンド タ ショー マイ アンガー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "stamps",
+      "ipa": "/stæmps/",
+      "examples": [
+        {
+          "en": "She always stamps on creepers when she sees them.",
+          "ja": "彼女はクリーパーを見るたびに踏みつぶします。",
+          "ipa": "/ʃi ˈɔːlweɪz ˈstæmps ɑn ˈkriːpərz wen ʃi ˈsiz ðɛm/",
+          "linking": [
+            "always の末尾子音 /z/ が stamps の初頭子音 /s/ に続く。複数の子音で連結なし [ˈɔːlweɪz ˈstæmps] オールウェイズ スタンプス",
+            "stamps の末尾複合子音 /ps/ が on の初頭母音 /ɑ/ に続く。複合子音で連結なし [ˈstæmps ɑn] スタンプス オン"
+          ],
+          "kana": "シー オールウェイズ スタンプス オン クリーパーズ ウェン シー シーズ ゼム"
+        },
+        {
+          "en": "The player stamps the ground to signal the start of a raid.",
+          "ja": "プレイヤーは地面を踏み鳴らしてレイドの開始を合図します。",
+          "ipa": "/ðə ˈpleɪər ˈstæmps ðə ˈɡraʊnd tu ˈsɪɡnəl ðə ˈstɑɹt əv ə ˈreɪd/",
+          "linking": [
+            "the は弱形 /ðə/ で player と連結 [ðə ˈpleɪər] ザ プレイヤー",
+            "to は弱形 /tə/ で signal と連結 [tə ˈsɪɡnəl] タ シグナル",
+            "of は弱形 /əv/ で a に連結。a も弱形 /ə/ [əv ə] オブ ア"
+          ],
+          "kana": "ザ プレイヤー スタンプス ザ グラウンド タ シグナル ザ スターrt オブ ア レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stamped",
+      "ipa": "/stæmpt/",
+      "examples": [
+        {
+          "en": "I stamped on the witch to defeat it quickly.",
+          "ja": "私はウィッチを素早く倒すために踏みつぶしました。",
+          "ipa": "/aɪ ˈstæmpt ɑn ðə ˈwɪtʃ tu dɪˈfit ɪt ˈkwɪkli/",
+          "linking": [
+            "stamped の末尾子音 /t/ が on の初頭母音 /ɑ/ に連結。結果は [ˈstæmtɑn] スタンタン",
+            "to は弱形 /tə/ で defeat と連結 [tə dɪˈfit] タ ディフィート",
+            "defeat の末尾子音 /t/ が it の初頭母音 /ɪ/ に連結し、it の /t/ は未開放 [dɪˈfitɪt̚] ディフィット"
+          ],
+          "kana": "アイ スタンタン ザ ウィッチ タ ディフィート イット クウィックリー"
+        },
+        {
+          "en": "We stamped out all the hostile mobs in the Nether.",
+          "ja": "私たちはネザーのすべての敵対的なモブを根絶しました。",
+          "ipa": "/wi ˈstæmpt aʊt ɔːl ðə ˈhɑstəl ˈmɑbz ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "stamped の末尾子音 /t/ が out の初頭母音 /aʊ/ に連結。結果は [ˈstæmtaʊt] スタンタウト",
+            "out の末尾子音 /t/ が all の初頭母音 /ɔ/ に連結。結果は [aʊtɔːl] アウトール",
+            "the は弱形 /ðə/ で hostile に連結 [ðə ˈhɑstəl] ザ ハースタル",
+            "mobs の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。結果は [ˈmɑbzɪn] マブズイン"
+          ],
+          "kana": "ウィ スタンタウト オール ザ ハースタル マブズイン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stamped",
+      "ipa": "/stæmpt/",
+      "examples": [
+        {
+          "en": "Having stamped on the zombie, I collected its drops immediately.",
+          "ja": "ゾンビを踏みつぶした後、私は直ちにそのドロップを集めました。",
+          "ipa": "/ˈheɪvɪŋ ˈstæmpt ɑn ðə ˈzɑmbi | aɪ kəˈlɛktəd ɪts ˈdrɑps ɪˈmidiətli/",
+          "linking": [
+            "stamped の末尾子音 /t/ が on の初頭母音 /ɑ/ に連結。結果は [ˈstæmtɑn] スタンタン",
+            "the は弱形 /ðə/ で zombie に連結 [ðə ˈzɑmbi] ザ ゾンビー",
+            "collected の末尾子音 /d/ が its の初頭母音 /ɪ/ に連結。結果は [kəˈlɛktɪd ɪts] コレクティド イツ"
+          ],
+          "kana": "ハヴィング スタンタン ザ ゾンビー、アイ コレクティド イツ ドロップス イミディアットリー"
+        },
+        {
+          "en": "The chest was stamped with our faction's emblem.",
+          "ja": "チェストに私たちの派閥の紋章が押印されました。",
+          "ipa": "/ðə ˈtʃɛst wəz ˈstæmpt wɪð ˈaʊr ˈfækʃənz ˈɛmbləm/",
+          "linking": [
+            "the は弱形 /ðə/ で chest に連結 [ðə ˈtʃɛst] ザ チェスト",
+            "was は弱形 /wəz/ で stamped に連結 [wəz ˈstæmpt] ワズ スタンプト"
+          ],
+          "kana": "ザ チェスト ワズ スタンプト ウィズ アワー ファクションズ エンブレム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "stamping",
+      "ipa": "/ˈstæmpɪŋ/",
+      "examples": [
+        {
+          "en": "Stamping on blocks is a good way to test structure stability.",
+          "ja": "ブロックを踏むことは構造の安定性をテストするための良い方法です。",
+          "ipa": "/ˈstæmpɪŋ ɑn ˈblɑks ɪz ə ˈɡʊd ˈweɪ tu ˈtɛst ˈstrʌktʃər stəˈbɪləti/",
+          "linking": [
+            "stamping の末尾 /ŋ/ が on に続く。/ŋ/ は母音に連結しない。弱形なし [ˈstæmpɪŋ ɑn] スタンピング オン",
+            "is の末尾子音 /z/ が a の初頭母音 /ə/ に連結。a は弱形 /ə/ [ɪzə] イザ",
+            "a は弱形 /ə/ で good に連結 [ə ˈɡʊd] ア グッド",
+            "to は弱形 /tə/ で test に連結 [tə ˈtɛst] タ テスト"
+          ],
+          "kana": "スタンピング オン ブロックス イザ グッド ウェイ タ テスト ストラクチャー ステイビリティー"
+        },
+        {
+          "en": "Players are stamping out mobs as fast as they can.",
+          "ja": "プレイヤーたちは彼らができるだけ速くモブを根絶しています。",
+          "ipa": "/ˈpleɪərz ɑr ˈstæmpɪŋ aʊt ˈmɑbz əz ˈfæst əz ðeɪ kæn/",
+          "linking": [
+            "players の末尾子音 /z/ が are の初頭母音 /ɑ/ に連結。結果は [ˈpleɪərz ɑr] プレイヤーズ アー",
+            "stamping の末尾 /ŋ/ が out に続く。/ŋ/ は連結しない [ˈstæmpɪŋ aʊt] スタンピング アウト",
+            "mobs の末尾子音 /z/ が as の初頭母音 /ə/ に連結。結果は [ˈmɑbzəz] マブズアズ",
+            "as の末尾子音 /z/ が they に続く。子音で連結なし。they の末尾 /eɪ/ が can に続く。can は弱形 /kən/ [əz ðeɪ kæn] アズ ザイ キャン"
+          ],
+          "kana": "プレイヤーズ アー スタンピング アウト マブズ アズ ファスト アズ ザイ キャン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "stamps",
+      "ipa": "/stæmps/",
+      "examples": [
+        {
+          "en": "I collected many different decorative stamps from various biomes.",
+          "ja": "私はさまざまなバイオームからさまざまな装飾的なスタンプを集めました。",
+          "ipa": "/aɪ kəˈlɛktəd ˈmɛni ˈdɪfərənt ˌdɛkərətɪv ˈstæmps frəm ˈvɛriəs baɪˈoʊmz/",
+          "linking": [
+            "collected の末尾子音 /d/ が many の初頭母音 /m/ に続く。子音で連結なし",
+            "decorative の末尾子音 /v/ が stamps の初頭子音 /s/ に続く。複数の子音で連結なし",
+            "stamps の末尾複合子音 /ps/ が from に続く。子音で連結なし。from は弱形 /frəm/ [ˈstæmps frəm] スタンプス フラム",
+            "various の末尾子音 /s/ が biomes の初頭子音 /b/ に続く。複数の子音で連結なし"
+          ],
+          "kana": "アイ コレクティド メニー ディファレント デコラティヴ スタンプス フラム ベリアス バイオームズ"
+        },
+        {
+          "en": "These decorative stamps make our builds look absolutely unique and special.",
+          "ja": "これらの装飾的なスタンプは私たちのビルドを完全にユニークで特別に見えるようにしています。",
+          "ipa": "/ðiz ˌdɛkərətɪv ˈstæmps ˈmeɪk ˈaʊr ˈbɪldz ˈlʊk ˈæbsəˌlutli juːˈnik ənd ˈspɛʃəl/",
+          "linking": [
+            "decorative の末尾子音 /v/ が stamps の初頭子音 /s/ に続く。複数の子音で連結なし",
+            "stamps の末尾複合子音 /ps/ が make に続く。子音で連結なし [ˈstæmps ˈmeɪk] スタンプス メイク",
+            "our の末尾子音 /r/ が builds に続く。子音で連結なし",
+            "builds の末尾子音 /z/ が look の初頭子音 /l/ に続く。複数の子音で連結なし",
+            "absolutely の末尾子音 /i/ が unique に続く。弱化したリンク: [ˈæbsəˌlutli juːˈnik] アブソリュートリー ユニーク"
+          ],
+          "kana": "ディーズ デコラティヴ スタンプス メイク アワー ビルズ ルック アブソリュートリー ユニーク アンド スペシャル"
+        }
+      ]
+    }
   ]
 }

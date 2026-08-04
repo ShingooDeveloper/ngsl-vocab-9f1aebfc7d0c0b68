@@ -54,5 +54,63 @@
       ],
       "kana": "アイル マイン アット ランダム トゥ ファインド ダイモンズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more random",
+      "ipa": "/moɚ ˈræn.dəm/",
+      "examples": [
+        {
+          "en": "Mining at random depths is more random than strip mining.",
+          "ja": "ランダムな深さでの採掘は、ストリップ採掘よりもランダムです。",
+          "ipa": "/ˈmaɪn.ɪŋ æt ˈræn.dəm ˈdɛpθz ɪz moɚ ˈræn.dəm ðæn ˈstrɪp ˈmaɪn.ɪŋ/",
+          "linking": [
+            "at の語末 /t/ が random の /æ/ に連結して [ætˈræn.dəm]",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "マイニング アット ランダム デプスズ イズ モア ランダム ザン ストリップ マイニング"
+        },
+        {
+          "en": "I think ore distribution is more random now.",
+          "ja": "鉱石の分布はより無作為だと思います。",
+          "ipa": "/aɪ ˈθɪŋk ˈɔr ˌdɪs.trɪˈbju.ʃən ɪz moɚ ˈræn.dəm ˈnaʊ/",
+          "linking": [
+            "think の語末 /k/ が ore の /ɔ/ に連結して [ˈθɪŋkɔr]",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "アイ シンク オア ディストリビューション イズ モア ランダム ナウ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most random",
+      "ipa": "/moʊst ˈræn.dəm/",
+      "examples": [
+        {
+          "en": "Of all dimensions, the Nether is the most random.",
+          "ja": "全ての次元の中で、ネザーが最も無作為です。",
+          "ipa": "/ʌv ˈɔl dɪˈmɛn.ʃənz ðə ˈnɛðɚ ɪz ðə ˈmoʊst ˈræn.dəm/",
+          "linking": [
+            "of の語末 /v/ が all の /ɔ/ に連結して [ʌˈvɔl]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アヴ オール ディメンションズ ザ ネザー イズ ザ モースト ランダム"
+        },
+        {
+          "en": "This is the most random seed I've played.",
+          "ja": "これは私がプレイした最もランダムなシードです。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊst ˈræn.dəm sid aɪv pleɪd/",
+          "linking": [
+            "seed の語末 /d/ が I've の /aɪ/ に連結して [ˈsɪdaɪv]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディス イズ ザ モースト ランダム シード アイヴ プレイド"
+        }
+      ]
+    }
   ]
 }

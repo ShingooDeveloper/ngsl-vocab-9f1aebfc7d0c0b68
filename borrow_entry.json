@@ -51,5 +51,112 @@
       ],
       "kana": "ウィー バーロウイング タイム ビフォア ザ サン セッツ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "borrows",
+      "ipa": "/ˈbɑɹoʊz/",
+      "examples": [
+        {
+          "en": "She borrows my iron blocks regularly.",
+          "ja": "彼女は定期的に私の鉄ブロックを借ります。",
+          "ipa": "[ʃi ˈbɑɹoʊz maɪ ˈaɪɹən blɑks ˈɹɛɡjələɹi]",
+          "linking": [
+            "標準的な単語境界。音声変化なし。"
+          ],
+          "kana": "シー バーロウズ マイ アイアン ブロックス レギュラリー"
+        },
+        {
+          "en": "He borrows redstone dust from the trading post.",
+          "ja": "彼は交易所からレッドストーンダストを借ります。",
+          "ipa": "[hi ˈbɑɹoʊz ˈɹɛdˌstoʊn dʌst fɹəm ðə ˈtɹeɪdɪŋ ˌpoʊst]",
+          "linking": [
+            "from + the: from の語末 /m/ が the の弱形 /ə/ に連結。[fɹə ðə]"
+          ],
+          "kana": "ヒー バーロウズ レッドストウン ダスト フラザ トレイディング ポウスト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "borrowed",
+      "ipa": "/ˈbɑɹoʊd/",
+      "examples": [
+        {
+          "en": "I borrowed a crafting table from the village.",
+          "ja": "村からクラフトテーブルを借りました。",
+          "ipa": "[aɪ ˈbɑɹoʊd ə ˈkɹæftɪŋ ˌteɪbəl fɹəm ðə ˈvɪlɪdʒ]",
+          "linking": [
+            "borrowed + a: borrowed の /d/ が母音 /ə/ の前で tap [ɾ] になり連結。[ˈbɑɹoʊɾə]",
+            "from + the: from の語末 /m/ が the の弱形 /ə/ に連結。[fɹə ðə]"
+          ],
+          "kana": "アイ バーロウダ クラフティング テイバル フラザ ヴィリッジ"
+        },
+        {
+          "en": "We borrowed tools for mining last night.",
+          "ja": "昨晩、採鉱用のツールを借りました。",
+          "ipa": "[wi ˈbɑɹoʊd tulz fɔɹ ˈmaɪnɪŋ læs̚t naɪt]",
+          "linking": [
+            "last + night: last の語末 /t/ が未開放で詰まり気味。[læs̚t ˈnaɪt]"
+          ],
+          "kana": "ウィー バーロウド トゥールズ フォア マイニング ラッ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "borrowed",
+      "ipa": "/ˈbɑɹoʊd/",
+      "examples": [
+        {
+          "en": "The items I borrowed need to be returned.",
+          "ja": "私が借りたアイテムは返す必要があります。",
+          "ipa": "[ðə ˈaɪtəmz aɪ ˈbɑɹoʊd niːd tə bi rɪˈtɜɹnd]",
+          "linking": [
+            "標準的な単語境界。音声変化なし。"
+          ],
+          "kana": "ザ アイタムズ アイ バーロウド ニード タ ビー リターンド"
+        },
+        {
+          "en": "Once we've borrowed resources, we'll build the castle.",
+          "ja": "リソースを借りたら、城を構築します。",
+          "ipa": "[wʌns wiv ˈbɑɹoʊd ˈɹɛsɚsɪz, wɪl bɪld ðə ˈkæsəl]",
+          "linking": [
+            "標準的な単語境界。音声変化なし。"
+          ],
+          "kana": "ワンス ウィヴ バーロウド リソースィズ ウィル ビルド ザ キャスル"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "borrowing",
+      "ipa": "/ˈbɑɹoʊɪŋ/",
+      "examples": [
+        {
+          "en": "Are you borrowing my diamonds again?",
+          "ja": "また私のダイヤモンドを借りているのですか?",
+          "ipa": "[ɑɹ ju ˈbɑɹoʊɪŋ maɪ ˈdaɪməndz əˈɡɛn]",
+          "linking": [
+            "標準的な単語境界。音声変化なし。"
+          ],
+          "kana": "アー ユー バーロウイング マイ ダイモンズ アゲン"
+        },
+        {
+          "en": "They're borrowing the mining equipment right now.",
+          "ja": "彼らは今、採掘装備を借りています。",
+          "ipa": "[ðɛɹ ˈbɑɹoʊɪŋ ðə ˈmaɪnɪŋ ɪˈkwɪpmənt ɹaɪt naʊ]",
+          "linking": [
+            "標準的な単語境界。音声変化なし。"
+          ],
+          "kana": "ゼア バーロウイング ザ マイニング イクウィップメント ライト ナウ"
+        }
+      ]
+    }
   ]
 }

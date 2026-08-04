@@ -69,5 +69,35 @@
       ],
       "kana": "ダイマンド アーマー プロバイズ イクセレント プロテクション"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "protections",
+      "ipa": "/prəˈtɛkʃənz/",
+      "examples": [
+        {
+          "en": "Iron protections are much weaker than diamond.",
+          "ja": "アイアン防具の保護はダイヤモンドよりもはるかに弱いです。",
+          "ipa": "/ˈaɪɚn prəˈtɛkʃənz ɑr mʌtʃ ˈwikɚ ðæn ˈdaɪmənd/",
+          "linking": [
+            "iron の語末子音 /n/ が protections の /p/ の前で未開放 [ˈaɪɚn̚ prəˈtɛkʃənz] アイアン プロテクション",
+            "protections の語末子音 /z/ が are の /ɑ/（母音）に連結 [prəˈtɛkʃən zɑr] プロテク ション ザー"
+          ],
+          "kana": "アイアン プロテクション ザー マッチ ウィーカー ザン ダイマンド"
+        },
+        {
+          "en": "These protections offer excellent safety.",
+          "ja": "これらの保護は優れた安全性を提供します。",
+          "ipa": "/ðiz prəˈtɛkʃənz ˈɑfɚ ɪkˈsɛlənt ˈseɪfti/",
+          "linking": [
+            "protections の語末子音 /z/ が offer の /ɑ/（母音）に連結 [prəˈtɛkʃən zɑfɚ] プロテク ション ザファー",
+            "offer の語末子音 /r/ が excellent の /ɪ/（母音）に連結 [ˈɑfɚ ɪkˈsɛlənt] ザファー イクセレント"
+          ],
+          "kana": "ディーズ プロテク ション ザファー イクセレント セイフティ"
+        }
+      ]
+    }
   ]
 }

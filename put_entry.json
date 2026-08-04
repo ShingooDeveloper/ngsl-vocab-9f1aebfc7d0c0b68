@@ -210,6 +210,102 @@
           "kana": "ウィ ワー プッティング タゲザー ザ レッドストーン サーキット ウェン ザ ゲイム クラッシュト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is putting",
+      "ipa": "/ɪz ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm putting torches on the cave wall to stop the mob spawner.",
+          "ja": "モブスポーナーを止めるために、洞窟の壁に松明を置いています。",
+          "ipa": "/aɪm ˈpʊtɪŋ ˈtɔːrtʃɪz ɑn ðə ˈkeɪv wɔːl tə ˈstɑp ðə ˈmoʊb ˈspoːnər/",
+          "linking": [
+            "I'm の m が putting に連結 [aɪm ˈpʊtɪŋ] アイム プッティング",
+            "putting torches → ng 音と t が続く連結で流れる [ˈpʊtɪŋ ˈtɔːrtʃɪz]",
+            "on the は弱く [ɑn ðə] で the は /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイム プッティング トーチーズ アン ザ ケイヴ ウォール タ ストップ ザ モウブ スポーナー"
+        },
+        {
+          "en": "He is putting together an automatic farm system right now.",
+          "ja": "彼は今、自動農場システムを組み立てています。",
+          "ipa": "/hi ɪz ˈpʊtɪŋ təˈɡɛðər ən ɔːˈtɑmætɪk ˈfɑːrm ˈsɪstəm ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is は弱形で [ɪz]。He に続く [hi ɪz] ヒー イズ",
+            "putting together → ng と t が続き、together の t はフラップ化 [ˈpʊtɪŋ ɾəˈɡɛðər] プッティング ラゲザー",
+            "an は弱形 /ən/ で automatic に連結",
+            "right の t は未開放 [ˈraɪt̚ ˈnaʊ] ライット ナウ"
+          ],
+          "kana": "ヒー イズ プッティング ラゲザー アン オータマティック ファーム システム ライット ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was putting",
+      "ipa": "/wəz ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I was putting down the last block when the Creeper appeared.",
+          "ja": "クリーパーが現れたとき、私は最後のブロックを置いていました。",
+          "ipa": "/aɪ wəz ˈpʊtɪŋ ˈdaʊn ðə ˈlæst ˈblɑk wɛn ðə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/。putting に連結 [wəz ˈpʊtɪŋ] ワズ プッティング",
+            "putting down → ng と d が続く流れ。down は /daʊn/",
+            "last の t は次の子音 b の前で未開放 [ˈlæst̚ ˈblɑk] ラース ブロック",
+            "Creeper の r が appeared に連結 [ˈkriːpər əˈpɪrd] クリーパー アピアード"
+          ],
+          "kana": "アイ ワズ プッティング ダウン ザ ラース ブロック ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "They were putting redstone dust everywhere to activate the trap.",
+          "ja": "彼らはトラップを作動させるために、至る所にレッドストーンダストを置いていました。",
+          "ipa": "/ðeɪ wər ˈpʊtɪŋ ˈrɛdˌstoʊn ˈdʌst ˈɛvriˌwɛr tə ˈæktɪveɪt ðə ˈtræp/",
+          "linking": [
+            "were は弱形 /wər/。They に続く [ðeɪ wər] ゼイ ワー",
+            "putting redstone → ng と r が続き滑らかに [ˈpʊtɪŋ ˈrɛdˌstoʊn]",
+            "dust の t は未開放で everywhere に続く [ˈdʌst̚ ˈɛvriˌwɛr] ダッ エヴリホエア",
+            "to は弱形 /tə/。the は /ðə/"
+          ],
+          "kana": "ゼイ ワー プッティング レッドストーン ダッ エヴリホエア タ アクティヴェイト ザ トラップ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been putting",
+      "ipa": "/həd bɪn ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been putting resources into the storage system for weeks before the raid.",
+          "ja": "レイド前の数週間、私はリソースをストレージシステムに入れ続けていました。",
+          "ipa": "/aɪ həd bɪn ˈpʊtɪŋ ˈrɛsərsɪz ˈɪntə ðə ˈstɔːrɪdʒ ˈsɪstəm fər ˈwiːks bɪˈfɔr ðə ˈreɪd/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/ で連結 [həd bɪn] ハド ビン",
+            "putting resources → ng と r が続き滑らかに [ˈpʊtɪŋ ˈrɛsərsɪz]",
+            "into the → into は /ˈɪntə/、the は弱形 /ðə/ で連結",
+            "for は弱形 /fər/。weeks に続く。before の r が raid に連結 [bɪˈfɔr ðə ˈreɪd] ビフォー ザ レイド"
+          ],
+          "kana": "アイ ハド ビン プッティング レソーシーズ イント ザ ストレッジ システム ファー ウィークス ビフォー ザ レイド"
+        },
+        {
+          "en": "She had been putting together the contraption when someone destroyed it.",
+          "ja": "誰かがそれを破壊したとき、彼女は装置を組み立て続けていました。",
+          "ipa": "/ʃi həd bɪn ˈpʊtɪŋ təˈɡɛðər ðə kənˈtræpʃən wɛn ˈsʌmwən dɪˈstrɔɪd ɪt/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/ で連結 [həd bɪn] ハド ビン",
+            "putting together → ng と t が続き、together の t はフラップ化 [ˈpʊtɪŋ ɾəˈɡɛðər] プッティング ラゲザー",
+            "the は /ðə/ で contraption に続く。contraption の最後の n が when に続く",
+            "it は最後の音で /ɪt/"
+          ],
+          "kana": "シー ハド ビン プッティング ラゲザー ザ コントラプション ウェン サムワン ディストロイド イット"
+        }
+      ]
     }
   ]
 }

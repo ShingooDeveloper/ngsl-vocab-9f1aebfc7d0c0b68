@@ -150,6 +150,95 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is including",
+      "ipa": "/ɪz ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "I am including all the ores in my collection.",
+          "ja": "私は採掘したすべての鉱石をコレクションに含めています。",
+          "ipa": "[aɪ æm ɪnˈkluːdɪŋ ɔl ðə ɔrz ɪn maɪ kəˈlɛkʃən]",
+          "kana": "アイ アム インクルーディング オール ザ オーズ イン マイ コレクション",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        },
+        {
+          "en": "They are including special blocks in their structure.",
+          "ja": "彼らは構造物に特別なブロックを含めています。",
+          "ipa": "[ðeɪ ɑr ɪnˈkluːdɪŋ ˈspɛʃəl blɑks ɪn ðɛr ˈstrʌkʃɚ]",
+          "kana": "ザイ アー インクルーディング スペシャル ブラックス イン ゼア ストラクチャー",
+          "linking": [
+            "are は弱形 /ə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was including",
+      "ipa": "/wəz ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "He was including rare blocks in his masterpiece.",
+          "ja": "彼は傑作に希少ブロックを含めていました。",
+          "ipa": "[hi wəz ɪnˈkluːdɪŋ rer blɑks ɪn hɪz ˈmeɪstərˌpis]",
+          "kana": "ヒー ワズ インクルーディング レア ブラックス イン ヒズ マスターピース",
+          "linking": [
+            "was は機能語で弱形 /wəz/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        },
+        {
+          "en": "We were including diamonds in the treasure chest.",
+          "ja": "私たちは宝箱にダイヤモンドを含めていました。",
+          "ipa": "[wi wɚ ɪnˈkluːdɪŋ ˈdaɪəmɑndz ɪn ðə ˈtrɛʒɚ ˈtʃɛst]",
+          "kana": "ウィー ワー インクルーディング ダイアモンズ イン ザ トレジャー チェスト",
+          "linking": [
+            "were は弱形 /wə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been including",
+      "ipa": "/həd bɪn ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "They had been including all materials in the recipe.",
+          "ja": "彼らはレシピにすべての材料を含めていました。",
+          "ipa": "[ðeɪ həd bɪn ɪnˈkluːdɪŋ ɔl məˈtɪriəlz ɪn ðə ˈrɛsəpi]",
+          "kana": "ザイ ハド ビン インクルーディング オール マテリアルズ イン ザ レシピ",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "She had been including new features in the update.",
+          "ja": "彼女はアップデートに新機能を含めていました。",
+          "ipa": "[ʃi həd bɪn ɪnˈkluːdɪŋ nu ˈfitʃɚz ɪn ðə ˈʌpdeɪt]",
+          "kana": "シー ハド ビン インクルーディング ニュー フィチャーズ イン ザ アップデイト",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
     }
   ]
 }

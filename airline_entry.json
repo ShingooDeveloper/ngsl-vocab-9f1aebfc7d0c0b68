@@ -40,5 +40,36 @@
       "kana": "アイ ワンタ ビルダン エアライン ファー マイ サーヴァー"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "airlines",
+      "ipa": "/ˈɛrlaɪnz/",
+      "examples": [
+        {
+          "en": "Multiple airlines offer fast transport between our sky cities.",
+          "ja": "複数の航空会社が私たちのスカイシティ間で高速輸送を提供しています。",
+          "ipa": "/ˈmʌltɪpəl ˈɛrlaɪnz ˈɔfɚ ˈfæst ˈtrænspɔɹt bɪˈtwin ˈaʊɚ ˈskaɪ ˈsɪtiz/",
+          "kana": "マルチプル エアラインズ オファー ファスト トランスポート ビトゥイーン アワー スカイ シティーズ",
+          "linking": [
+            "airlines の末尾子音 /z/ が offer の初頭母音 /ɔ/ に連結 [ˈɛrlaɪnzˈɔfɚ] オファー",
+            "between の末尾子音 /n/ が our の初頭母音 /aʊ/ に連結 [bɪˈtwɪnˈaʊɚ] ビトゥイーン アワー"
+          ]
+        },
+        {
+          "en": "Players compete to establish the most profitable airlines in the realm.",
+          "ja": "プレイヤーはレルムで最も利益の高い航空会社を確立するために競っています。",
+          "ipa": "/ˈpleɪɚz kəmˈpiːt tə ɪˈstæblɪʃ ðə ˈmoʊst ˈprɑfɪtəbəl ˈɛrlaɪnz ɪn ðə ˈrɛlm/",
+          "kana": "プレイヤーズ カンピート タ イスタブリッシュ ザ モウスト プロフィタブル エアラインズ イン ザ レルム",
+          "linking": [
+            "compete の末尾子音 /t/ と to の弱形 /tə/ で [kəmˈpiːtə] カンピータ",
+            "airlines の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結 [ˈɛrlaɪnzɪn] エアラインズイン",
+            "the は弱形 /ðə/ で「ザ」"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

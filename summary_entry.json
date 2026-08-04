@@ -44,6 +44,36 @@
       "kana": "ヒアーズ ア サマリー アヴ ザ モブズ ユー ニード タ アンダースタンド"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "summaries",
+      "ipa": "/ˈsʌməɹiz/",
+      "examples": [
+        {
+          "en": "These project summaries show all the builds you've completed.",
+          "ja": "これらのプロジェクト要約は、完了したすべてのビルドを表示しています。",
+          "ipa": "/ðiz ˈprɑdʒɛkt ˈsʌməɹiz ˈʃoʊ ɔl ðə ˈbɪldz juv kəmˈplitəd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "you've の語末 /v/ が completed の初頭 /k/ に続く"
+          ],
+          "kana": "ディーズ プロジェクト サマリーズ ショー オール ザ ビルズ ユーヴ カムプリーティド"
+        },
+        {
+          "en": "The summaries of completed quests are saved in your game stats.",
+          "ja": "完了したクエストの要約は、ゲームの統計に保存されています。",
+          "ipa": "/ðə ˈsʌməɹiz əv kəmˈplitəd ˈkwɛsts ɑɹ ˈseɪvd ɪn jɚ ˈɡeɪm ˈstæts/",
+          "linking": [
+            "of は機能語で弱形 /əv/ に弱化",
+            "are も弱形 /ɑɹ/ から /ɚ/ に短縮される傾向"
+          ],
+          "kana": "ザ サマリーズ アヴ カムプリーティド クウェスツ アー セイヴド イン ユアー ゲーム スタッツ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "in summary",

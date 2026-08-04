@@ -55,5 +55,37 @@
       ],
       "kana": "イフ ウィー ドント フィックス ザ ウォーラー システム ザ ホール ファーム ゴーズ ダウン ザ チューブ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "tubes",
+      "ipa": "/ˈtuːbz/",
+      "examples": [
+        {
+          "en": "These glass tubes efficiently distribute water across the farm.",
+          "ja": "これらのガラス製チューブが農場全体に水を効率的に配分します。",
+          "ipa": "[ðiz ˈɡlæs ˈtuːbzɪˈfɪʃəntli dɪˈstrɪbjuːt ˈwɔɾəɹˈkrɔs ðəˈfɑɹm]",
+          "linking": [
+            "tubes の語末 /z/ が efficiently の初母音 /ɪ/ に連結 [ˈtuːbzɪ]",
+            "water の語末 /ɾ/ が across の初母音 /ə/ に連結 [ˈwɔɾə]",
+            "the は冠詞で弱形 /ðə/。farm の初頭に続く"
+          ],
+          "kana": "ディズ グラス チューブズィフィシェントリ ディストリビュート ウォーラークロス ザファーム"
+        },
+        {
+          "en": "Multiple copper tubes are essential for our automated farm.",
+          "ja": "複数の銅製チューブは、私たちの自動農場に不可欠です。",
+          "ipa": "[ˈmɑltɪpəl ˈkɑpɚ ˈtuːbzɑɹ ɪˈsɛnʃəl fɔɹ ˈaʊɹ ˈɑɾəˌmeɪtɪd ˈfɑɹm]",
+          "linking": [
+            "tubes の語末 /z/ が are の初母音 /ɑ/ に連結 [ˈtuːbzɑɹ]",
+            "for の語末 /r/ が our の初母音 /aʊ/ に連結 [fɔɹˈaʊɹ]",
+            "automated は /ˈɑɾəˌmeɪtɪd/、t がフラップ化 [ɾ]"
+          ],
+          "kana": "マルティプル カッパー チューブザ イセンシャル フォー アワー オーダメイティド ファーム"
+        }
+      ]
+    }
   ]
 }

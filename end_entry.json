@@ -226,6 +226,101 @@
           "kana": "ウィア エンディング ザ サーバーズ メインテナンス ライト ビフォア ザ ビッグ イベント トゥモロウ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is ending",
+      "ipa": "/ɪz ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The day is ending as we reach the Nether Portal.",
+          "ja": "ネザーポータルに到達すると、1日が終わります。",
+          "ipa": "/ðə ˈdeɪ ɪz ˈɛndɪŋ æz wi ˈritʃ ðə ˈnɛðɚ ˈpoɹtəl/",
+          "linking": [
+            "The は弱形 /ðə/。day へ連結。",
+            "is は助動詞で弱形 /ɪz/。ending へ連結。",
+            "as は /æz/。we へ続く。"
+          ],
+          "kana": "ザ デイ イズ エンディング アズ ウィ リーチ ザ ネザー ポータル"
+        },
+        {
+          "en": "We are ending our mining expedition because the inventory is full.",
+          "ja": "インベントリがいっぱいになったので、採掘遠征を終わらせています。",
+          "ipa": "/wi ɑr ˈɛndɪŋ ˈaʊɹ ˈmaɪnɪŋ ɛkspɪˈdɪʃən bɪˈkɔz ðə ɪnˈvɛntɚi ɪz ˈfʊl/",
+          "linking": [
+            "we は /wi/。are へ続く。are は弱形 /ɑr/。ending へ連結。",
+            "our の末子音 /ɹ/ が mining へ連結。",
+            "because は /bɪˈkɔz/。the へ続く。the は弱形 /ðə/。",
+            "is は弱形 /ɪz/。full へ続く。"
+          ],
+          "kana": "ウィ アー エンディング アワー マイニング エクスピディション ビコーズ ザ インベントリー イズ フル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was ending",
+      "ipa": "/wəz ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The battle was ending when we escaped to the underground base.",
+          "ja": "戦闘が終わろうとしていたとき、地下基地に逃げました。",
+          "ipa": "/ðə ˈbætəl wəz ˈɛndɪŋ wɛn wi ɪˈskeɪpt tu ðə ˈʌndɚˌɡraʊnd ˈbeɪs/",
+          "linking": [
+            "The は弱形 /ðə/。battle へ連結。",
+            "was は助動詞で弱形 /wəz/。ending へ連結。",
+            "when は /wɛn/。we へ続く。",
+            "to は弱形 /tə/。the へ連結。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ バットル ワズ エンディング ウェン ウィ イスケイプト タ ザ アンダーグラウンド ベイス"
+        },
+        {
+          "en": "They were ending their search for diamonds when the cavern collapsed.",
+          "ja": "洞窟が崩壊したとき、彼らはダイヤモンドの捜索を終わらせていました。",
+          "ipa": "/ðeɪ wɚ ˈɛndɪŋ ðɛɹ sɝtʃ fɔr ˈdaɪməndz wɛn ðə kəˈvɝːn kəˈlæpst/",
+          "linking": [
+            "were は弱形 /wɚ/。ending へ連結。",
+            "their の末子音 /ɹ/ が search へ連結。",
+            "for は弱形 /fər/。diamonds へ連結。",
+            "when は /wɛn/。the へ続く。the は弱形 /ðə/。"
+          ],
+          "kana": "ゼイ ワー エンディング ゼア サーチ フォア ダイモンズ ウェン ザ カバーン コラプスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been ending",
+      "ipa": "/hæd bɪn ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "By sunset, the storm had been ending and visibility improved.",
+          "ja": "日没までに、嵐は終わりかけていて視界が改善されていました。",
+          "ipa": "/baɪ ˈsʌnˌsɛt ðə ˈstɔɹm hæd bɪn ˈɛndɪŋ ænd vɪzəˈbɪlədi ɪmˈpruːvd/",
+          "linking": [
+            "by は /baɪ/。sunset へ続く。",
+            "the は弱形 /ðə/。storm へ連結。",
+            "had は弱形 /hæd/。been へ連結。been は弱形 /bɪn/。ending へ連結。",
+            "and は弱形 /ənd/。visibility へ連結。"
+          ],
+          "kana": "バイ サンセット ザ ストーム ハッド ビン エンディング アンド ヴィズビリティー イムプルーヴド"
+        },
+        {
+          "en": "The downtime had been ending when we finally logged back in.",
+          "ja": "ついにログインできるようになったとき、ダウンタイムはちょうど終わっていました。",
+          "ipa": "/ðə ˈdaʊnˌtaɪm hæd bɪn ˈɛndɪŋ wɛn wi ˈfaɪnəli ˈlɑɡd bæk ˈɪn/",
+          "linking": [
+            "the は弱形 /ðə/。downtime へ連結。",
+            "had は弱形 /hæd/。been へ連結。been は弱形 /bɪn/。ending へ連結。",
+            "when は /wɛn/。we へ続く。",
+            "back の末子音 /k/ が in の初子音 /ɪ/ に続く（子音+子音）。"
+          ],
+          "kana": "ザ ダウンタイム ハッド ビン エンディング ウェン ウィ ファイナリー ログド バック イン"
+        }
+      ]
     }
   ]
 }

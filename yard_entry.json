@@ -42,6 +42,36 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "yards",
+      "ipa": "/jɑrdz/",
+      "examples": [
+        {
+          "en": "The yards are perfect for building.",
+          "ja": "敷地は建築に完璧です。",
+          "ipa": "[ðə ˈjɑɹdz ɑɹ ˈpɚfɪkt fɔɹ ˈbɪldɪŋ]",
+          "kana": "ザ ヤーズアー パーフィクト フォー ビルディング",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "yards の語末 /z/ が are の /ɑ/ に連結 [ˈjɑɹdzɑɹ]"
+          ]
+        },
+        {
+          "en": "We need more yards of stone.",
+          "ja": "もっと多くのヤード分の石が必要です。",
+          "ipa": "[wi ˈniːd ˈmɔɹ ˈjɑɹdz əv ˈstoʊn]",
+          "kana": "ウィ ニード モア ヤーズアヴ ストウン",
+          "linking": [
+            "yards の語末 /z/ が of の /ə/ に連結 [ˈjɑɹdzəv]",
+            "of は弱形 /əv/ に弱化"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "by the yard",

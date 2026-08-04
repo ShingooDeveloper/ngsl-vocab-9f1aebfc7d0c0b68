@@ -43,6 +43,36 @@
       "kana": "ザ レッドストーン サーキット ニーディマージェンシー サージャリ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "surgeries",
+      "ipa": "/ˈsɝdʒərɪz/",
+      "examples": [
+        {
+          "en": "Multiple surgeries on my tools kept them working.",
+          "ja": "複数回の修理により、ツールは機能し続けました。",
+          "ipa": "/ˈmʌltəpəl ˈsɝdʒərɪz ɑn maɪ tulz kɛpt ðəm ˈwɝkɪŋ/",
+          "linking": [
+            "surgeries は複数形 -ies で weak vowel /ɪz/ で終わる",
+            "them は弱形 /ðəm/"
+          ],
+          "kana": "マルタプル サージャリーズ オン マイ トゥールズ ケプト ザム ワーキング"
+        },
+        {
+          "en": "After several surgeries, my base was fully repaired.",
+          "ja": "数回の修理の後、拠点は完全に修復されました。",
+          "ipa": "/ˈæftər ˈsɛvərəl ˈsɝdʒərɪz maɪ ˈbeɪs wəz ˈfulɪ rɪˈpɛrd/",
+          "linking": [
+            "surgeries は複数形 -ies で weak vowel /ɪz/ で終わる",
+            "was は弱形 /wəz/"
+          ],
+          "kana": "アフター セベラル サージャリーズ マイ ベイス ワズ フリー リペアード"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "minor surgery",

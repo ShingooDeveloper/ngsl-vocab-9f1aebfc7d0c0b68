@@ -44,5 +44,35 @@
       "kana": "アイ ニーダ コネクト ザ フローティング プラットフォーム ウィズ ブリジズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "platforms",
+      "ipa": "/ˈplætfɔrmz/",
+      "examples": [
+        {
+          "en": "These platforms provide safe passage over the lava.",
+          "ja": "これらのプラットフォームは溶岩の上を安全に通すための通路を提供する。",
+          "ipa": "/ðiːz ˈplætfɔrmz prəˈvaɪd seɪf ˈpæsɪdʒ ˈoʊvɚ ðə ˈlɑvə/",
+          "linking": [
+            "passage の末尾 /dʒ/ が over の /o/ に続く（子音+母音）",
+            "over の /ɚ/ が the の /ð/ に連結 [ˈoʊvɚðə]、the は弱形 /ðə/"
+          ],
+          "kana": "ディーズ プラットフォームズ プロヴァイド セイフ パッセッジ オーヴァザ ラーヴァ"
+        },
+        {
+          "en": "Multiple wooden platforms support the entire structure.",
+          "ja": "複数の木製プラットフォームが構造全体をサポートしている。",
+          "ipa": "/ˈmʌltəpəl ˈwʊdən ˈplætfɔrmz səˈpɔrt ðə ɪnˈtaɪɚ ˈstrʌktʃɚ/",
+          "linking": [
+            "wooden の /n/ が platforms の /p/ に続く（子音+子音）",
+            "support の /t/ が the の /ð/ に未開放で続く、the は弱形 /ðə/"
+          ],
+          "kana": "マルティプル ウッデン プラットフォームズ サポート ザ エンタイアー ストラクチャー"
+        }
+      ]
+    }
+  ]
 }

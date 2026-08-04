@@ -11,6 +11,125 @@
     "【動詞】〜から自由になる、解放される（get rid of の形で、不快な物や状態を排除する）",
     "【動詞】邪魔者・迷惑なものを処分する（to dispose of something troublesome）"
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "rids",
+      "ipa": "/rɪdz/",
+      "examples": [
+        {
+          "en": "The enchantment rids mobs from bases.",
+          "ja": "そのエンチャントはベースからモブを取り除く。",
+          "ipa": "/ðə ɪnˈtʃæntmənt ˈrɪdz ˈmɑbz frəm ˈbeɪsɪz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "enchantment の末尾 /t/ が未開放で rids に接する [ɪnˈtʃæntmənt̚ ˈrɪdz]"
+          ],
+          "kana": "ザ インチャントメント リッズ モブズ フラム ベイシズ"
+        },
+        {
+          "en": "She rids the area of creepers.",
+          "ja": "彼女はその地域からクリーパーを取り除く。",
+          "ipa": "/ʃi ˈrɪdz ðə ˈɛriə əv ˈkripɚz/",
+          "linking": [
+            "rids の末尾 /z/ が弱形 the /ðə/ の初頭に連結 [ˈrɪdz ðə] リッズ ザ",
+            "of は弱形 /əv/"
+          ],
+          "kana": "シー リッズ ザ エリア アヴ クリーパーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "rid",
+      "ipa": "/rɪd/",
+      "examples": [
+        {
+          "en": "He rid the farm of zombies.",
+          "ja": "彼は農場からゾンビを取り除いた。",
+          "ipa": "/hi ˈrɪd ðə ˈfɑrm əv ˈzɑmbiːz/",
+          "linking": [
+            "rid の末尾 /d/ が弱形 the /ðə/ に連結 [ˈrɪd ðə] リッザ",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ヒ リッザ ファーム アヴ ゾンビーズ"
+        },
+        {
+          "en": "We rid the cave of hostile creatures last night.",
+          "ja": "昨夜、洞窟から敵対的な生物を取り除いた。",
+          "ipa": "/wi ˈrɪd ðə ˈkeɪv əv ˈhɑstəl ˈkritʃɚz læst ˈnaɪt/",
+          "linking": [
+            "rid の末尾 /d/ が弱形 the /ðə/ に連結 [ˈrɪd ðə] リッザ",
+            "of は弱形 /əv/",
+            "creatures の末尾がzの音で、last との間で音声変化なし"
+          ],
+          "kana": "ウィ リッザ ケイヴ アヴ ハースタル クリーチャーズ ラスト ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "rid",
+      "ipa": "/rɪd/",
+      "examples": [
+        {
+          "en": "The base has been rid of mobs.",
+          "ja": "そのベースはモブから解放されている。",
+          "ipa": "/ðə ˈbeɪs həz bɪn ˈrɪd əv ˈmɑbz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/ → /əz/",
+            "been は弱形 /bɪn/、rid の /d/ が弱形 of /əv/ に連結 [ˈrɪd əv] リッダヴ"
+          ],
+          "kana": "ザ ベイス ハズ ビン リッダヴ モブズ"
+        },
+        {
+          "en": "All obstacles have been rid from the path.",
+          "ja": "すべての障害物はパスから除去されている。",
+          "ipa": "/ɔl ˈɑbstəklz həv bɪn ˈrɪd frəm ðə ˈpæθ/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "rid の末尾 /d/ が from /frəm/ に連結 [ˈrɪd frəm] リッフラム"
+          ],
+          "kana": "オール アブステイクルズ ハヴ ビン リッフラム ザ パス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "ridding",
+      "ipa": "/ˈrɪdɪŋ/",
+      "examples": [
+        {
+          "en": "We're ridding the base of spiders.",
+          "ja": "私たちはベースからクモを取り除いている。",
+          "ipa": "/wɪr ˈrɪdɪŋ ðə ˈbeɪs əv ˈspaɪdɚz/",
+          "linking": [
+            "we're は we /wi/ と are /ɑr/ のコントラクション",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ウィアー リディング ザ ベイス アヴ スパイダーズ"
+        },
+        {
+          "en": "Ridding the mine of creepers is dangerous.",
+          "ja": "鉱山からクリーパーを取り除くことは危険である。",
+          "ipa": "/ˈrɪdɪŋ ðə ˈmaɪn əv ˈkripɚz ɪz ˈdeɪndʒərəs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "リディング ザ マイン アヴ クリーパーズ イズ デンジャラス"
+        }
+      ]
+    }
+  ],
   "examples": [
     {
       "en": "I want to rid this area of spiders.",

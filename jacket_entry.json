@@ -44,5 +44,36 @@
       "kana": "ユアー ジャケタクツアズ グレイト アーマー"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "jackets",
+      "ipa": "/ˈdʒækɪts/",
+      "examples": [
+        {
+          "en": "I collected all the leather jackets in this world.",
+          "ja": "このワールドにあるすべての革のジャケットを集めました。",
+          "ipa": "/aɪ kəˈlɛktɪd ɔl ðə ˈlɛðər ˈdʒækɪts ɪn ðɪs wɝld/",
+          "linking": [
+            "collected all → collected の語末子音 /d/ が all の初頭母音 /ɔ/ に連結。[kəˈlɛktɪd ɔl] コレクティド オール",
+            "the leather → the は弱形 /ðə/。leather の /l/ に続く。",
+            "in this → in は /ɪn/。this は /ðɪs/。子音+子音、連結なし。"
+          ],
+          "kana": "アイ コレクティド オール ザ レザー ジャケッツ イン ディス ワールド"
+        },
+        {
+          "en": "Put on your jackets before exploring at night.",
+          "ja": "夜に探検に行く前に、あなたのジャケットを着てください。",
+          "ipa": "/pʊt ɑn jɔr ˈdʒækɪts bɪˈfɔr ɪkˈsplɔrɪŋ æt naɪt/",
+          "linking": [
+            "Put on → put の語末子音 /t/ が on の初頭母音 /ɑ/ に連結。[pʊt ɑn] プット オン",
+            "before exploring → before の語末子音 /r/ が exploring の初頭母音 /ɪ/ に連結。[bɪˈfɔr ɪkˈsplɔrɪŋ] ビフォア エクスプローリング"
+          ],
+          "kana": "プット オン ユアー ジャケッツ ビフォア エクスプローリング アット ナイト"
+        }
+      ]
+    }
+  ]
 }

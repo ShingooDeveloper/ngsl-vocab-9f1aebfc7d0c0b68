@@ -1,0 +1,335 @@
+{
+  "word": "guess",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɡɛs/",
+  "rank": 348,
+  "level": "A2",
+  "hi": "guess|guesses|guessed|guessed|guessing",
+  "meanings": [
+    "【動詞】（情報がなく）推測する、当てる、推し量る",
+    "【動詞】（北米）~と思う、推測する、推定する",
+    "【名詞】推測、推定値、推理、当て推量"
+  ],
+  "examples": [
+    {
+      "en": "I guess we should mine deeper to find diamonds.",
+      "ja": "ダイヤを見つけるにはもっと深く掘る必要があると思う。",
+      "ipa": "/aɪ ɡɛs wi ʃəd ˈmaɪn ˈdipɚ tə ˈfaɪnd ˈdaɪəmənz/",
+      "linking": [
+        "I guess → 子音+子音で連結なし",
+        "should → 弱形 /ʃəd/ に弱化",
+        "to find → to は弱形 /tə/"
+      ],
+      "kana": "アイ ゲス ウィー シャド マイン ディーパー タ ファイン ダイアモンズ"
+    },
+    {
+      "en": "She guesses that the cave system extends far underground.",
+      "ja": "彼女は洞窟システムが地下深くまで広がっていると推測している。",
+      "ipa": "/ʃi ˈɡɛsɪz ðæt ðə ˈkeɪv ˈsɪstəm ɪkˈstɛndz ˈfɑːr ˌʌndɚˈɡraʊnd/",
+      "linking": [
+        "She guesses → 語末 /z/ と that の初頭 /ð/ が子音+子音で連結なし",
+        "the cave → the は弱形 /ðə/"
+      ],
+      "kana": "シー ゲシズ ザット ザ ケイヴ システム エクステンズ ファー アンダーグラウンド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "guess correctly",
+      "ja": "正しく推測する",
+      "example": "If you guess correctly about the treasure location, we can save time.",
+      "example_ja": "宝の位置を正しく推測できれば、時間を節約できる。",
+      "ipa": "/ɪf ju ˈɡɛs ˈkərɪktli əˈbaʊt ðə ˈtrɛʒɚ loʊˈkeɪʃən | wi kən ˈseɪv ˈtaɪm/",
+      "linking": [
+        "guess correctly → 語末の /s/ と correctly の初頭 /k/ が子音+子音で連結なし",
+        "about the → the は弱形 /ðə/"
+      ],
+      "kana": "イフ ユー ゲス コレクトリー アバウト ザ トレジャー ロケーション、ウィー カン セイヴ タイム"
+    },
+    {
+      "idiom": "make a guess",
+      "ja": "推測する、推定する",
+      "example": "Make a guess about which direction the Nether fortress is in.",
+      "example_ja": "ネザー要塞がどの方向にあるか推測してみて。",
+      "ipa": "/ˈmeɪk ə ɡɛs əˈbaʊt wɪtʃ dɪˈrɛkʃən ðə ˈnɛðɚ ˈfɔːrtrɪs ɪz ɪn/",
+      "linking": [
+        "make a → a は弱形 /ə/",
+        "about which → 語末の /t/ と which の初頭 /w/ が子音+子音で連結なし",
+        "the Nether → the は弱形 /ðə/"
+      ],
+      "kana": "メイク ア ゲス アバウト ウィッチ ディレクション ザ ネザー フォートレス イズ イン"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I guess the diamonds must be near the lava lake.",
+      "ja": "ダイヤはきっとラヴァ湖の近くにあると思う。",
+      "ipa": "/aɪ ɡɛs ðə ˈdaɪəmənz mʌst bi ˈnɪr ðə ˈlɑːvə ˈleɪk/",
+      "linking": [
+        "I guess → 子音+子音で連結なし",
+        "the diamonds → the は弱形 /ðə/",
+        "must be → 語末の /t/ と be の初頭 /b/ が子音+子音で連結なし。must は弱形"
+      ],
+      "kana": "アイ ゲス ザ ダイアモンズ マスト ビー ニア ザ ラーヴァ レイク"
+    },
+    {
+      "en": "My guess is that the stronghold entrance is hidden behind those blocks.",
+      "ja": "私の推測では、要塞の入口はそれらのブロックの後ろに隠れている。",
+      "ipa": "/maɪ ɡɛs ɪz ðæt ðə ˈstrɑŋhoʊld ˈɛntrəns ɪz ˈhɪdən bɪˈhaɪnd ðoʊz ˈblɑks/",
+      "linking": [
+        "My guess → 語末の /s/ と is の初頭 /ɪ/ が連結 [maɪ ˈɡɛsɪz] マイ ゲシズ",
+        "is that → that は弱化される傾向",
+        "the stronghold → the は弱形 /ðə/"
+      ],
+      "kana": "マイ ゲシズ イズ ザット ザ ストロングホウルド エントランス イズ ヒデン ビハインド ゾウズ ブロックス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "guesses",
+      "ipa": "/ˈɡɛsɪz/",
+      "examples": [
+        {
+          "en": "My friend's guesses about the treasure location were all wrong.",
+          "ja": "友人の宝の位置についての推測はすべて外れた。",
+          "ipa": "/maɪ ˈfrɛnd ɡɛsɪz əˈbaʊt ðə ˈtrɛʒɚ loʊˈkeɪʃən wɚ ɔːl ˈrɔŋ/",
+          "linking": [
+            "friend's guesses → 語末の /z/ と guesses の初頭 /ɡ/ が子音+子音で連結なし",
+            "about the → the は弱形 /ðə/"
+          ],
+          "kana": "マイ フレンズ ゲシズ アバウト ザ トレジャー ロケーション ワー オール ロング"
+        },
+        {
+          "en": "Nobody's guesses matched the actual coordinates of the diamond ore.",
+          "ja": "誰もダイヤ鉱石の実際の座標について推測が当たらなかった。",
+          "ipa": "/ˈnoʊbɑdi ˈɡɛsɪz ˈmætʃt ðə ˈæktʃuəl ˈkoʊˌɔrdɪnəts əv ðə ˈdaɪəmənd ˈɔːr/",
+          "linking": [
+            "Nobody's guesses → 語末の /z/ と guesses の初頭 /ɡ/ が子音+子音で連結なし",
+            "matched the → the は弱形 /ðə/",
+            "of the → of は弱形 /əv/、the も弱形 /ðə/"
+          ],
+          "kana": "ノウバディズ ゲシズ マッチト ザ アクチュアル コウオーディネーツ オブ ザ ダイアモンド オア"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "guesses",
+      "ipa": "/ˈɡɛsɪz/",
+      "examples": [
+        {
+          "en": "She guesses the biome type by looking at the plants and terrain.",
+          "ja": "彼女は植物と地形を見てバイオームの種類を推測する。",
+          "ipa": "/ʃi ˈɡɛsɪz ðə baɪˈoʊm taɪp baɪ ˈlʊkɪŋ æt ðə ˈplænts ənd təˈreɪn/",
+          "linking": [
+            "She guesses → 子音+子音で連結なし",
+            "the biome → the は弱形 /ðə/",
+            "at the → at は弱形 /ət/、the も弱形 /ðə/",
+            "and terrain → 弱形 /ənd/"
+          ],
+          "kana": "シー ゲシズ ザ バイオーム タイプ バイ ルッキング アット ザ プランツ アン テレイン"
+        },
+        {
+          "en": "He guesses where the Nether portal might be located.",
+          "ja": "彼はネザーポータルがどこにあるかもしれないか推測する。",
+          "ipa": "/hi ˈɡɛsɪz wɛr ðə ˈnɛðɚ ˈpoʊrtəl maɪt bi ˈloʊkeɪtɪd/",
+          "linking": [
+            "He guesses → 子音+子音で連結なし",
+            "the Nether → the は弱形 /ðə/",
+            "might be → 子音+子音で連結なし。be は弱形"
+          ],
+          "kana": "ヒー ゲシズ ウェア ザ ネザー ポータル マイト ビー ロケイティド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "guessed",
+      "ipa": "/ˈɡɛst/",
+      "examples": [
+        {
+          "en": "I guessed the chest contained diamonds, but it only had dirt blocks.",
+          "ja": "チェストにダイヤが入っていると推測したが、実は土ブロックだけだった。",
+          "ipa": "/aɪ ˈɡɛst ðə ˈtʃɛst kənˈteɪnd ˈdaɪəmənz | bət ɪt ˈoʊnli hæd ˈdɜːrt ˈblɑks/",
+          "linking": [
+            "guessed the → the は弱形 /ðə/",
+            "contained diamonds → 語末の /d/ と diamonds の初頭 /d/ が子音+子音で連結なし",
+            "had dirt → 語末の /d/ と dirt の初頭 /d/ が子音+子音で連結なし。had は弱形"
+          ],
+          "kana": "アイ ゲスト ザ チェスト コンテインド ダイアモンズ、バット イット オウンリー ハド ダート ブロックス"
+        },
+        {
+          "en": "We guessed incorrectly and wasted time digging in the wrong direction.",
+          "ja": "私たちは間違った推測をして、間違った方向に掘る時間を無駄にした。",
+          "ipa": "/wi ˈɡɛst ɪnkəˈrɛktli | ənd ˈweɪstɪd ˈtaɪm ˈdɪɡɪŋ ɪn ðə ˈrɔŋ dɪˈrɛkʃən/",
+          "linking": [
+            "guessed incorrectly → 語末の /d/ と incorrectly の初頭 /ɪ/ が連結 [ˈɡɛstɪnkəˈrɛktli] ゲスティンコレクトリー",
+            "and → 弱形 /ənd/ に弱化",
+            "in the → in も弱形 /ɪn/、the も弱形 /ðə/"
+          ],
+          "kana": "ウィ ゲスティンコレクトリー、アン ウェイストイド タイム ディギング イン ザ ロング ディレクション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "guessed",
+      "ipa": "/ˈɡɛst/",
+      "examples": [
+        {
+          "en": "Having guessed wrong about the ravine depth, we fell and took damage.",
+          "ja": "渓谷の深さについて間違って推測したので、落ちてダメージを受けた。",
+          "ipa": "/ˈheɪvɪŋ ˈɡɛst ˈrɔŋ əˈbaʊt ðə ˈræviːn ˈdɛpθ | wi ˈfɛl ənd ˈtʊk ˈdæmɪdʒ/",
+          "linking": [
+            "guessed wrong → 語末の /d/ と wrong の初頭 /r/ が子音+子音で連結なし",
+            "about the → the は弱形 /ðə/",
+            "and took → 弱形 /ənd/、took は /tʊk/"
+          ],
+          "kana": "ハヴィング ゲスト ロング アバウト ザ ラヴィーン デプス、ウィ フェル アン トゥック ダメッジ"
+        },
+        {
+          "en": "Based on what we've guessed about the structure, the exit should be nearby.",
+          "ja": "構造について推測したことに基づくと、出口は近くにあるはずだ。",
+          "ipa": "/ˈbeɪst ɑn wət wi həv ˈɡɛst əˈbaʊt ðə ˈstrʌktʃɚ | ðə ˈɛɡzɪt ʃəd bi ˈnɪrbaɪ/",
+          "linking": [
+            "we've guessed → have の弱形 /həv/ と guessed の初頭が連結",
+            "about the → the は弱形 /ðə/",
+            "should be → should は弱形 /ʃəd/、be も弱形"
+          ],
+          "kana": "ベイスト アン ワット ウィ ハヴ ゲスト アバウト ザ ストラクチャー、ザ イグジット シャド ビー ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "guessing",
+      "ipa": "/ˈɡɛsɪŋ/",
+      "examples": [
+        {
+          "en": "Are you guessing where the cave system leads, or do you have a map?",
+          "ja": "洞窟がどこに続くか推測しているのか、それともマップを持っているのか？",
+          "ipa": "/ɑr ju ˈɡɛsɪŋ wɛr ðə ˈkeɪv ˈsɪstəm ˈlidz | ɔːr du ju ˈhæv ə ˈmæp/",
+          "linking": [
+            "you guessing → /u/ と /ɡ/ が連結 [juˈɡɛsɪŋ]",
+            "guessing where → 語末の /ŋ/ と where の初頭 /w/ が子音+子音で連結なし",
+            "the cave → the は弱形 /ðə/",
+            "or do → or は弱形 /ɚ/、do も弱形"
+          ],
+          "kana": "アー ユー ゲシング ウェア ザ ケイヴ システム リーズ、オア ドゥー ユー ハヴ ア マップ"
+        },
+        {
+          "en": "Stop guessing and just follow the path to the Stronghold.",
+          "ja": "推測するのはやめて、要塞へのパスをただ辿るだけにしよう。",
+          "ipa": "/ˈstɑp ˈɡɛsɪŋ ənd dʒəst ˈfɑloʊ ðə ˈpæθ tə ðə ˈstrɑŋhoʊld/",
+          "linking": [
+            "Stop guessing → 語末の /p/ と guessing の初頭 /ɡ/ が子音+子音で連結なし",
+            "and → 弱形 /ənd/ に弱化",
+            "just follow → just も弱化される傾向",
+            "the path → the は弱形 /ðə/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ストップ ゲシング アン ジャスト ファロウ ザ パス タ ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（動詞）",
+      "text": "is guessing",
+      "ipa": "/ɪz ˈɡɛsɪŋ/",
+      "examples": [
+        {
+          "en": "I'm guessing we need a few more diamonds for this build.",
+          "ja": "このビルドにはもっとダイヤが何個か必要だと推測しています。",
+          "ipa": "/aɪm ˈɡɛsɪŋ wi nɪdə fju mɔr ˈdaɪmənz fər ðɪs bɪld/",
+          "linking": [
+            "need a で語末の d が母音に連結 [nɪdə] ニーダ",
+            "for は弱形 /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイム ゲシング ウィ ニーダ フュー モア ダイマンズ ファ ザス ビルド"
+        },
+        {
+          "en": "They are guessing where the Nether fortress is.",
+          "ja": "彼らはネザー要塞がどこにあるか推測しています。",
+          "ipa": "/ðeɪ ɑr ˈɡɛsɪŋ wɛr ðə ˈneðər ˈfɔrtresɪz/",
+          "linking": [
+            "fortress is で語末の s が母音に連結 [ˈfɔrtresɪz] フォートレシズ",
+            "are は弱形 /ɑr/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザェイ アー ゲシング ウェア ザ ネザー フォートレシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（動詞）",
+      "text": "was guessing",
+      "ipa": "/wəz ˈɡɛsɪŋ/",
+      "examples": [
+        {
+          "en": "I was guessing the password while mining for diamonds.",
+          "ja": "ダイヤの採掘中にパスワードを推測していました。",
+          "ipa": "/aɪ wəz ˈɡɛsɪŋ ðə ˈpæswɚd waɪl ˈmaɪnɪŋ fər ˈdaɪmənz/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "アイ ワズ ゲシング ザ パスワード ホワイル マイニング ファ ダイマンズ"
+        },
+        {
+          "en": "They were guessing which mob was attacking the base.",
+          "ja": "彼らは基地を攻撃しているモブが何かを推測していました。",
+          "ipa": "/ðeɪ wɚ ˈɡɛsɪŋ wɪtʃ mɑb wəz əˈtækɪŋ ðə beɪs/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザェイ ワー ゲシング ウィッチ マブ ワズ アタッキング ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（動詞）",
+      "text": "had been guessing",
+      "ipa": "/həd bɪn ˈɡɛsɪŋ/",
+      "examples": [
+        {
+          "en": "I had been guessing the coordinates for hours before we found the fortress.",
+          "ja": "要塞を見つける前に何時間も座標を推測していました。",
+          "ipa": "/aɪ həd bɪn ˈɡɛsɪŋ ðə koʊˈɔrdənits fər ˈaʊrz bɪˈfɔr wi faʊnd ðə ˈfɔrtres/",
+          "linking": [
+            "for hours で語末の r が母音に連結 [fərˈaʊrz] ファラアウルズ",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハド ビン ゲシング ザ コーオーディネイツ ファラアウルズ ビフォア ウィ ファウンド ザ フォートレス"
+        },
+        {
+          "en": "They had been guessing which way was north until the compass broke.",
+          "ja": "コンパスが壊れるまで、どちらが北か推測していました。",
+          "ipa": "/ðeɪ həd bɪn ˈɡɛsɪŋ wɪtʃ weɪ wəz nɔrθ ənˈtɪl ðə ˈkɑmpəs broʊk/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザェイ ハド ビン ゲシング ウィッチ ウェイ ワズ ノース アンティル ザ キャンパス ブロウク"
+        }
+      ]
+    }
+  ]
+}

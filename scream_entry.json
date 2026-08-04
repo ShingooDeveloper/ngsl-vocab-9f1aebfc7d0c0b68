@@ -58,5 +58,120 @@
       ],
       "kana": "ザ マイナーズ スクリーダット ザ モブズ アタッキング ゼア ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "screams",
+      "ipa": "/ˈskriːmz/",
+      "examples": [
+        {
+          "en": "She screams every time a zombie appears.",
+          "ja": "彼女はゾンビが現れるたびに叫びます。",
+          "ipa": "/ʃi ˈskriːmz ˈɛvri taɪm ə ˈzɑmbi əˈpɪrz/",
+          "linking": [
+            "screams の末尾子音 /z/ が every の初頭母音 /ɛ/ に連結。[ˈskriːzɛ] スクリーゼ",
+            "a は冠詞で弱形 /ə/（ア）"
+          ],
+          "kana": "シー スクリーゼ エブリー タイム ア ゾンビー アピアーズ"
+        },
+        {
+          "en": "The sounds of screams echoed through the dark cave.",
+          "ja": "悲鳴の音がその暗い洞窟中に響き渡りました。",
+          "ipa": "/ðə ˈsaʊndz əv ˈskriːmz ˈɛkoʊd θruː ðə dɑrk keɪv/",
+          "linking": [
+            "the は弱形 /ðə/（ザ）",
+            "of は弱形 /əv/（ヴ）",
+            "screams の末尾子音 /z/ が echoed の初頭母音 /ɛ/ に連結。[ˈskriːzɛ] スクリーゼ"
+          ],
+          "kana": "ザ サウンズ ヴ スクリーゼ エコード スルー ザ ダーク ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "screamed",
+      "ipa": "/ˈskriːmd/",
+      "examples": [
+        {
+          "en": "I screamed loudly when the creeper exploded.",
+          "ja": "Creeper が爆発したとき、私は大声で叫びました。",
+          "ipa": "/aɪ ˈskriːmd ˈlaʊdli wɛn ðə ˈkriːpər ɪkˈsploʊdəd/",
+          "linking": [
+            "the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "アイ スクリードル ラウドリー ウェン ザ クリーパー イクスプロウディッド"
+        },
+        {
+          "en": "We screamed as we fell into the lava.",
+          "ja": "溶岩に落ちたとき、私たちは叫びました。",
+          "ipa": "/wi ˈskriːmd æz wi fɛl ˈɪntu ðə ˈlɑvə/",
+          "linking": [
+            "screamed の末尾子音 /d/ が as の初頭母音 /æ/ に連結。[ˈskriːdæ] スクリーダ",
+            "into の末尾 /tu/ は機能語の弱形 /tə/（タ）に弱化",
+            "the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "ウィー スクリーダ アズ ウィー フェル インタ ザ ラヴァ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "screamed",
+      "ipa": "/ˈskriːmd/",
+      "examples": [
+        {
+          "en": "Having screamed in panic, she ran to hide behind a tree.",
+          "ja": "パニックの中で叫んだ後、彼女は木の後ろに隠れるために走りました。",
+          "ipa": "/ˈhævɪŋ ˈskriːmd ɪn ˈpænɪk ʃi ræn tə haɪd bɪˈhaɪnd ə tri/",
+          "linking": [
+            "screamed の末尾 /d/ が in の初頭 /ɪ/ に連結。[ˈskriːdɪ] スクリーディ",
+            "to は機能語で弱形 /tə/（タ）に弱化"
+          ],
+          "kana": "ハヴィング スクリーディ イン パニック シー ラン タ ハイド ビハインド ア トゥリー"
+        },
+        {
+          "en": "The players were screamed at by the mobs.",
+          "ja": "プレイヤーたちはモブに叫ばれました。",
+          "ipa": "/ðə ˈpleɪərz wər ˈskriːmd æt baɪ ðə mɑbz/",
+          "linking": [
+            "the は弱形 /ðə/（ザ）",
+            "were は弱形 /wər/（ワー）",
+            "screamed の末尾 /d/ が at の初頭 /æ/ に連結。[ˈskriːdæ] スクリーダ"
+          ],
+          "kana": "ザ プレイヤーズ ワー スクリーダ バイ ザ モブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞",
+      "text": "screaming",
+      "ipa": "/ˈskriːmɪŋ/",
+      "examples": [
+        {
+          "en": "Why is the player screaming in the cave?",
+          "ja": "なぜそのプレイヤーは洞窟で叫んでいるのですか？",
+          "ipa": "/waɪ ɪz ðə ˈpleɪər ˈskriːmɪŋ ɪn ðə keɪv/",
+          "linking": [
+            "the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "ホワイ イズ ザ プレイヤー スクリーミング イン ザ ケイヴ"
+        },
+        {
+          "en": "The mob was screaming loudly before we defeated it.",
+          "ja": "そのモブは私たちがそれを倒す前に大きく叫んでいました。",
+          "ipa": "/ðə mɑb wəz ˈskriːmɪŋ ˈlaʊdli bɪˈfɔr wi dɪˈfiːtɪd ɪt/",
+          "linking": [
+            "the は弱形 /ðə/（ザ）",
+            "was は弱形 /wəz/（ワズ）"
+          ],
+          "kana": "ザ モブ ワズ スクリーミング ラウドリー ビフォー ウィー ディフィーティッド イット"
+        }
+      ]
+    }
   ]
 }

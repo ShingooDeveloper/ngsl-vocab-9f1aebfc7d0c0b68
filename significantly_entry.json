@@ -73,5 +73,63 @@
       ],
       "kana": "ザモーブ スポーン レイティンクリースト シグニフィカントリー アフター ウィー ビルッ ザスポーナー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more significantly",
+      "ipa": "/ˌmoʊr ˌsɪɡˈnɪfɪkəntli/",
+      "examples": [
+        {
+          "en": "This pickaxe improves mining speed more significantly than the previous one.",
+          "ja": "このツルハシは前のものより著しく採掘速度を向上させる。",
+          "ipa": "/ðɪs ˈpɪkˌæks ɪmˈpruːvz ˈmaɪnɪŋ ˈspiːd ˌmoʊr ˌsɪɡˈnɪfɪkəntli ðən ðə ˈprɪviəs ˈwʌn/",
+          "linking": [
+            "mining speed → 語末音 /ŋ/ が speed の初頭 /s/（子音+子音、連結なし）",
+            "more significantly → more の語末 /r/ が significantly の /ə/ に連結 [ˌmoʊr ˌsɪɡˈnɪfɪkəntli] モア シグニフィカントリー"
+          ],
+          "kana": "ディス ピッカックス イムプルーブズ マイニング スピード モア シグニフィカントリー ザン ザ プリビアス ワン"
+        },
+        {
+          "en": "The hunger depletes more significantly when sprinting compared to walking.",
+          "ja": "歩くのに比べてスプリント時はハンガーが著しく減少する。",
+          "ipa": "/ðə ˈhʌŋɡɚ dɪˈpliːts ˌmoʊr ˌsɪɡˈnɪfɪkəntli wɛn ˈspɹɪntɪŋ kəmˈpɛrd tu ˈwɔkɪŋ/",
+          "linking": [
+            "the hunger → the は弱形 /ðə/、hunger に連結 [ðə ˈhʌŋɡɚ] ザ ハンガー",
+            "more significantly → more の語末 /r/ が significantly の /ə/ に連結 [ˌmoʊr ˌsɪɡˈnɪfɪkəntli] モア シグニフィカントリー"
+          ],
+          "kana": "ザ ハンガー ディプリーツ モア シグニフィカントリー ウェン スプリンティング コンペアード トゥー ウォーキング"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most significantly",
+      "ipa": "/ˌmoʊst ˌsɪɡˈnɪfɪkəntli/",
+      "examples": [
+        {
+          "en": "The 1.20 update affected gameplay mechanics most significantly.",
+          "ja": "1.20アップデートはゲームプレイメカニクスに最も著しく影響を与えた。",
+          "ipa": "/ðə ˈwʌn ˈpoɪnt ˈtuː ˈoʊ ˈʌpˌdeɪt əˈfɛktɪd ˈɡeɪmˌpleɪ məˈkænɪks ˌmoʊst ˌsɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "the 1.20 → the は弱形 /ðə/、数字は one point two zero と読まれるが実際の表記に従う",
+            "most significantly → most の語末 /t/ が significantly の /s/（子音+子音、連結なし。/t/ は未開放） [ˌmoʊst̚ ˌsɪɡˈnɪfɪkəntli] モースト シグニフィカントリー"
+          ],
+          "kana": "ザ ワン ポイント トゥー ゼロ アップデイト アフェクティッド ゲームプレイ メカニクス モースト シグニフィカントリー"
+        },
+        {
+          "en": "Netherite tools changed combat most significantly among all equipment upgrades.",
+          "ja": "ネザライトツールはすべての装備アップグレード中で最も著しくコンバットを変えた。",
+          "ipa": "/ˈnɛðɚˌaɪt ˈtulz ˈtʃeɪndʒd ˈkɑmbæt ˌmoʊst ˌsɪɡˈnɪfɪkəntli əˈmʌŋ ɔːl ɪˈkwɪpmənt ˈʌpɡreɪdz/",
+          "linking": [
+            "tools changed → tools の語末 /z/ が changed の /tʃ/（子音+子音、連結なし）",
+            "most significantly → most の語末 /t/ が significantly の /s/（子音+子音、連結なし。/t/ は未開放） [ˌmoʊst̚ ˌsɪɡˈnɪfɪkəntli] モースト シグニフィカントリー"
+          ],
+          "kana": "ネザライト ツールズ チェインジド コンバット モースト シグニフィカントリー ア マング オール イクイップメント アップグレイドズ"
+        }
+      ]
+    }
   ]
 }

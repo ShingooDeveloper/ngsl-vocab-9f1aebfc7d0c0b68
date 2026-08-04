@@ -68,5 +68,157 @@
       ],
       "kana": "ビルダ ウォーター チャネル アッ ザ エッジ アヴ ザ ファーム"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "channels",
+      "ipa": "/ˈtʃænəlz/",
+      "examples": [
+        {
+          "en": "The Nether has multiple channels of lava flowing through it.",
+          "ja": "ネザーには溶岩が流れ落ちる複数のチャネル（通路）がある。",
+          "ipa": "/ðə ˈneðər hæz ˈmʌltəpəl ˈtʃænəlz əv ˈlɑːvə ˈfloʊɪŋ θruː ɪt/",
+          "linking": [
+            "The → 弱形 [ðə]",
+            "channels of → 語末子音 /z/ が母音 /ə/ に連結 [ˈtʃænəlzəv]",
+            "through it → it の語末が未開放 [ɪt̚]"
+          ],
+          "kana": "ザ ネザー ハズ マルティプル チャネルズァヴ ラーヴァ フロウイング スルー イッ"
+        },
+        {
+          "en": "Water channels are useful for irrigation in large farms.",
+          "ja": "水路は大きな農場での灌漑に便利である。",
+          "ipa": "/ˈwɔːtər ˈtʃænəlz ɑːr ˈjuːsfəl fɔːr ˌɪrɪˈɡeɪʃən ɪn lɑːrdʒ fɑːrmz/",
+          "linking": [
+            "Water → T がフラップ化 [ˈwɔɾər]",
+            "channels are → 語末子音 /z/ が母音 /ɑː/ に連結 [ˈtʃænəlzɑːr]",
+            "for → 弱形 [fər]"
+          ],
+          "kana": "ウォーラー チャネルズ アー ユースフル フォー イリゲイシャン イン ラージ ファームズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "channels",
+      "ipa": "/ˈtʃænəlz/",
+      "examples": [
+        {
+          "en": "The water channels the resources to the central storage.",
+          "ja": "水がリソースを中央ストレージにもたらす。",
+          "ipa": "/ðə ˈwɔːtər ˈtʃænəlz ðə ˈrɛsɚsɪz tu ðə ˈsɛntrəl ˈstɔːrɪdʒ/",
+          "linking": [
+            "The → 弱形 [ðə]",
+            "water → T がフラップ化 [ˈwɔɾər]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ウォーラー チャネルズ ザ レソーシズ タ ザ セントラル ストレッジ"
+        },
+        {
+          "en": "She channels the lava carefully to avoid accidents.",
+          "ja": "彼女は事故を避けるために溶岩を慎重に流す。",
+          "ipa": "/ʃi ˈtʃænəlz ðə ˈlɑːvə ˈkɛrfəli tu əˈvɔɪd ˈæksɪdənts/",
+          "linking": [
+            "to → 弱形 /tə/",
+            "the → 弱形 /ðə/",
+            "She channels → 子音+子音なので連結なし"
+          ],
+          "kana": "シー チャネルズ ザ ラーヴァ ケアフリー タ アヴォイド アクシデンツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "channeled",
+      "ipa": "/ˈtʃænəld/",
+      "examples": [
+        {
+          "en": "We channeled the water from the mountain spring to our base.",
+          "ja": "山の泉から基地に水を流しました。",
+          "ipa": "/wi ˈtʃænəld ðə ˈwɔːtər frəm ðə ˈmaʊntən sprɪŋ tu aʊr beɪs/",
+          "linking": [
+            "water → T がフラップ化 [ˈwɔɾər]",
+            "from the → from は子音で終わり、the は弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "ウィ チャネルド ザ ウォーラー フラム ザ マウンテン スプリング タ アワー ベイス"
+        },
+        {
+          "en": "The builder channeled the lava safely into the netherite farm.",
+          "ja": "ビルダーはネザライト農場に溶岩を安全に流しました。",
+          "ipa": "/ðə ˈbɪldər ˈtʃænəld ðə ˈlɑːvə ˈseɪfli ˈɪntu ðə ˈnɛðəraɪt fɑːrm/",
+          "linking": [
+            "The → 弱形 [ðə]",
+            "into the → into は /ˈɪntə/、the は弱形 /ðə/",
+            "netherite → [ˈnɛðəraɪt]"
+          ],
+          "kana": "ザ ビルダー チャネルド ザ ラーヴァ セイフリー イントゥー ザ ネザライト ファーム"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "channeled",
+      "ipa": "/ˈtʃænəld/",
+      "examples": [
+        {
+          "en": "The channeled water powered the redstone mechanisms.",
+          "ja": "流された水がレッドストーン機構を動力化した。",
+          "ipa": "/ðə ˈtʃænəld ˈwɔːtər ˈpaʊərd ðə ˈrɛdstoʊn ˈmɛkənɪzəmz/",
+          "linking": [
+            "The → 弱形 [ðə]",
+            "water → T がフラップ化 [ˈwɔɾər]",
+            "the → 弱形 [ðə]"
+          ],
+          "kana": "ザ チャネルド ウォーラー パワード ザ レッドストーン メカニズムズ"
+        },
+        {
+          "en": "With water channeled into the system, the farm started producing crops.",
+          "ja": "水がシステムに流されて、農場は作物を生産し始めた。",
+          "ipa": "/wɪθ ˈwɔːtər ˈtʃænəld ˈɪntu ðə ˈsɪstəm ðə fɑːrm ˈstɑːrtəd prəˈduːsɪŋ krɑːps/",
+          "linking": [
+            "water → T がフラップ化 [ˈwɔɾər]",
+            "into the → into は /ˈɪntə/、the は弱形 /ðə/",
+            "the system → the は弱形 /ðə/"
+          ],
+          "kana": "ウィズ ウォーラー チャネルド イントゥー ザ シスタム ザ ファーム スターテッド プロデューシング クラップス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "channeling",
+      "ipa": "/ˈtʃænəlɪŋ/",
+      "examples": [
+        {
+          "en": "Channeling resources efficiently is key to survival in hardcore mode.",
+          "ja": "リソースを効率的に流すことはハードコアモードでの生存の鍵である。",
+          "ipa": "/ˈtʃænəlɪŋ ˈrɛsɚsɪz ɪˈfɪʃəntli ɪz ki tu sərˈvaɪvəl ɪn ˈhɑːrdkoʊr moʊd/",
+          "linking": [
+            "to → 弱形 /tə/",
+            "is key → 子音+子音なので連結なし",
+            "key to → to は弱形 /tə/"
+          ],
+          "kana": "チャネリング レソーシズ イフィシェントリー イズ キー タ サーヴァイヴァル イン ハードコア モード"
+        },
+        {
+          "en": "We are channeling the mob drops into a sorting system.",
+          "ja": "モブのドロップをソーティングシステムに流しています。",
+          "ipa": "/wi ɑːr ˈtʃænəlɪŋ ðə mɑːb drɑːps ˈɪntu ə ˈsɔːrtɪŋ ˈsɪstəm/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "into a → into は /ˈɪntə/、a は弱形 /ə/（連結）",
+            "a sorting → a は弱形 /ə/"
+          ],
+          "kana": "ウィー アー チャネリング ザ マーブ ドロップス イントゥー ア ソーティング シスタム"
+        }
+      ]
+    }
   ]
 }

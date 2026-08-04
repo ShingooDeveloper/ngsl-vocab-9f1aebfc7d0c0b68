@@ -272,6 +272,104 @@
           "kana": "アイ スペント アワーズ アクティング アウト ディファレント ビルディング ストラテジーズ タ ファインド ザ ベスト アプローチ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is acting",
+      "ipa": "/ɪz ˈæktɪŋ/",
+      "examples": [
+        {
+          "en": "The player is acting as a guide for new members joining the server.",
+          "ja": "そのプレイヤーは、サーバーに参加する新しいメンバーのためのガイドとして機能しています。",
+          "ipa": "/ðə ˈpleɪɚ ɪz ˈæktɪŋ əz ə ˈɡaɪd fɔr ˈnuː ˈmɛmbɚz ˈdʒɔɪnɪŋ ðə ˈsɝvɚ/",
+          "linking": [
+            "the は弱形 /ðə/。player に続く [ðə ˈpleɪɚ] ザ プレイアー",
+            "is は弱形 /ɪz/。acting に続く [ɪz ˈæktɪŋ] イズ アクティング",
+            "acting as → acting の末尾 /ŋ/ と as は子音+子音で連結なし。as は弱形 /əz/",
+            "as a → as の /z/ と a が連結 [əz ə] アザ",
+            "for は弱形 /fɔr/。new に続く [fɔr ˈnuː] フォー ニュー"
+          ],
+          "kana": "ザ プレイアー イズ アクティング アズ ア ガイド フォー ニュー メンバーズ ジョイニング ザ サーバー"
+        },
+        {
+          "en": "We are acting defensively because creepers are spawning nearby.",
+          "ja": "私たちはクリーパーが近くにスポーンしているため、防守的に行動しています。",
+          "ipa": "/wi ɑr ˈæktɪŋ dɪˈfɛnsɪvli bɪˈkɑːz ˈkripɚz ɑr ˈspoʊnɪŋ ˈnɪrˌbaɪ/",
+          "linking": [
+            "we are は /wi ɑr/。acting に続く [wi ɑr ˈæktɪŋ] ウィー アー アクティング",
+            "defensively は /dɪˈfɛnsɪvli/。because に続く。",
+            "because は弱形で /bɪˈkɑːz/。creepers に続く [bɪˈkɑːz ˈkripɚz] ビコーズ クリーパーズ",
+            "are は弱形 /ɑr/。spawning に続く [ɑr ˈspoʊnɪŋ] アー スポーニング"
+          ],
+          "kana": "ウィー アー アクティング ディフェンシヴリー ビコーズ クリーパーズ アー スポーニング ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was acting",
+      "ipa": "/wəz ˈæktɪŋ/",
+      "examples": [
+        {
+          "en": "My teammate was acting as the main builder when the server crashed yesterday.",
+          "ja": "昨日サーバーがクラッシュしたとき、私のチームメイトが主要なビルダーとして機能していました。",
+          "ipa": "/maɪ ˈtimˌmeɪt wəz ˈæktɪŋ əz ðə ˈmeɪn ˈbɪldɚ wɛn ðə ˈsɝvɚ ˈkræʃt ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "was は弱形 /wəz/。acting に続く [wəz ˈæktɪŋ] ワズ アクティング",
+            "acting as → acting の末尾 /ŋ/ と as は子音+子音で連結なし。as は弱形 /əz/",
+            "as の /z/ と the が連結 [əz ðə] アザ",
+            "when は /wɛn/。the に続く [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "マイ ティームメイト ワズ アクティング アズ ザ メイン ビルダー ウェン ザ サーバー クラッシュト イエスターデイ"
+        },
+        {
+          "en": "They were acting cautiously in the dark cave system when they found diamonds.",
+          "ja": "ダイヤモンドを見つけたとき、彼らは暗い洞窟システムで慎重に行動していました。",
+          "ipa": "/ðeɪ wɚ ˈæktɪŋ ˈkɔːʃəsli ɪn ðə ˈdɑːrk ˈkeɪv ˈsɪstəm wɛn ðeɪ ˈfaʊnd ˈdaɪməndz/",
+          "linking": [
+            "were は弱形 /wɚ/。acting に続く [wɚ ˈæktɪŋ] ワー アクティング",
+            "in the は /ɪn ðə/。the は弱形 /ðə/ [ɪn ðə] イン ザ",
+            "dark cave → cave の末尾 /v/ が system の初頭 /s/ に続く。母音を経由しないため連結なし。",
+            "when は /wɛn/。they に続く [wɛn ðeɪ] ウェン ゼイ"
+          ],
+          "kana": "ゼイ ワー アクティング コーシャスリー イン ザ ダーク ケイヴ システム ウェン ゼイ ファウンド ダイアマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been acting",
+      "ipa": "/həd bɪn ˈæktɪŋ/",
+      "examples": [
+        {
+          "en": "He had been acting as the server administrator for six months before stepping down.",
+          "ja": "彼は辞任する前の6ヶ月間、サーバー管理者として行動していました。",
+          "ipa": "/hi həd bɪn ˈæktɪŋ əz ðə ˈsɝvɚ ˌædmɪnɪˈstreɪtɚ fɔr ˈsɪks ˈmʌnðz bɪˈfɔr ˈstɛpɪŋ ˈdaʊn/",
+          "linking": [
+            "had は弱形 /həd/。been に続く [hi həd bɪn] ヒー ハド ビン",
+            "been は弱形 /bɪn/。acting に続く [bɪn ˈæktɪŋ] ビン アクティング",
+            "acting as → acting の末尾 /ŋ/ と as は子音+子音で連結なし。as は弱形 /əz/",
+            "as の /z/ と the が連結 [əz ðə] アザ",
+            "for は弱形 /fɔr/。six に続く [fɔr ˈsɪks] フォー シックス"
+          ],
+          "kana": "ヒー ハド ビン アクティング アズ ザ サーバー アドミニストレイター フォー シックス マンズ ビフォー ステッピング ダウン"
+        },
+        {
+          "en": "We had been acting defensively for hours when the raid suddenly ended.",
+          "ja": "襲撃が突然終了するまで、私たちは数時間、防守的に行動していました。",
+          "ipa": "/wi həd bɪn ˈæktɪŋ dɪˈfɛnsɪvli fɔr ˈaʊɚz wɛn ðə ˈreɪd səˈdɛnli ˈɛndɪd/",
+          "linking": [
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/。acting に続く [bɪn ˈæktɪŋ] ビン アクティング",
+            "for は弱形 /fɔr/。hours に続く [fɔr ˈaʊɚz] フォー アワーズ",
+            "when は /wɛn/。the に続く [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "ウィー ハド ビン アクティング ディフェンシヴリー フォー アワーズ ウェン ザ レイド サデンリー エンディド"
+        }
+      ]
     }
   ]
 }

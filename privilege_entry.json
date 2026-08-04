@@ -82,5 +82,151 @@
       ],
       "kana": "プレイヤーズ フー アビューズ プリビリジーズ ウィル ビー バンド フラム アウアー サーバー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "privileges",
+      "ipa": "/ˈprɪvɪlɪdʒɪz/",
+      "examples": [
+        {
+          "en": "You need to earn special privileges to enter the admin area.",
+          "ja": "管理者エリアに入るには特別な権限を獲得する必要があります。",
+          "ipa": "/ju niːd tə ɝn ˈspɛʃəl ˈprɪvɪlɪdʒɪz tə ˈɛntər ðə ˈædmɪn ˈɛriə/",
+          "linking": [
+            "need の末尾 /d/ が to の弱形 /ə/ に連結：[niːdə]",
+            "to は機能語で弱形 /tə/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ユー ニード タ アーン スペシャル プリビリジーズ タ エンター ザ アドミン エリア"
+        },
+        {
+          "en": "Moderators have many privileges they use to keep the server safe.",
+          "ja": "モデレーターはサーバーを安全に保つために使用する多くの権限を持っています。",
+          "ipa": "/ˈmɑdəreɪtərz hæv ˈmɛni ˈprɪvɪlɪdʒɪz ðeɪ juːz tə kiːp ðə ˈsɝvər seɪf/",
+          "linking": [
+            "have の末尾 /v/ が many の /ɛ/ に連結：[hæv ˈmɛni]",
+            "to は弱形 /tə/",
+            "keep の末尾 /p/ が the の弱形 /ðə/ に連結：[kiːp ðə]"
+          ],
+          "kana": "マダレイターズ ハヴ メニ プリビリジーズ ゼイ ユーズ タ キープ ザ サーバー セイフ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "privileges",
+      "ipa": "/ˈprɪvɪlɪdʒɪz/",
+      "examples": [
+        {
+          "en": "The server owner privileges trusted friends with creative mode access.",
+          "ja": "サーバーオーナーは信頼できる友人にクリエイティブモードへのアクセス権を与えます。",
+          "ipa": "/ðə ˈsɝvər ˈoʊnər ˈprɪvɪlɪdʒɪz ˈtrʌstɪd frɛndz wɪð kriˈeɪtɪv ˈmoʊd ˈæksɛs/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "mode の末尾 /d/ が access の /æ/ に連結：[moʊd ˈæksɛs]"
+          ],
+          "kana": "ザ サーバー オーナー プリビリジーズ トラスティド フレンズ ウィズ クリエイティヴ モード アクセス"
+        },
+        {
+          "en": "This rank privileges you to bypass expensive build restrictions.",
+          "ja": "このランクはあなたに高額な建築制限をバイパスする権限を与えます。",
+          "ipa": "/ðɪs ræŋk ˈprɪvɪlɪdʒɪz ju tə baɪˈpæs ɪkˈspɛnsɪv bɪld rɪˈstrɪkʃənz/",
+          "linking": [
+            "privileges の末尾 /z/ が you の /j/ に連結：[ˈprɪvɪlɪdʒɪz ju]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ディス ラングク プリビリジーズ ユー タ バイパス イクスペンシヴ ビルド リストリクションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "privileged",
+      "ipa": "/ˈprɪvɪlɪdʒd/",
+      "examples": [
+        {
+          "en": "Yesterday, the admin privileged his friend by giving mod status.",
+          "ja": "昨日、管理者は彼の友人にモッド権限を与えることで特権を与えました。",
+          "ipa": "/ˈjɛstərdeɪ ðə ˈædmɪn ˈprɪvɪlɪdʒd hɪz frɛnd baɪ ˈɡɪvɪŋ mɑd ˈsteɪtəs/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "friend の末尾 /d/ が by の /b/ に連結しない（子音+子音）"
+          ],
+          "kana": "イェスターディ ザ アドミン プリビリジド ヒズ フレンド バイ ギヴィング マッド ステイタス"
+        },
+        {
+          "en": "The owner privileged new builders so they could terraform near spawn.",
+          "ja": "オーナーは新しいビルダーに特権を与えたので、彼らはスポーン近くで地形を変形することができました。",
+          "ipa": "/ðə ˈoʊnər ˈprɪvɪlɪdʒd ˈnjuː ˈbɪldərz soʊ ðeɪ ˈkʊd ˈtɛrəfɔrm nɪr spaʊn/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "near の末尾は /r/ で、spawn の /s/ に連結しない（子音+子音）"
+          ],
+          "kana": "ザ オーナー プリビリジド ニュー ビルダーズ ソー ゼイ クッド テラフォーム ニア スパウン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "privileged",
+      "ipa": "/ˈprɪvɪlɪdʒd/",
+      "examples": [
+        {
+          "en": "Players who have been privileged should follow all server rules.",
+          "ja": "特権を与えられたプレイヤーはすべてのサーバールールに従うべきです。",
+          "ipa": "/ˈpleɪərz hu həv bɪn ˈprɪvɪlɪdʒd ʃʊd ˈfɑloʊ ɔːl ˈsɝvər rulz/",
+          "linking": [
+            "have は弱形 /həv/ または /əv/",
+            "follow の末尾 /oʊ/ が all の /ɔ/ に連結しない（両方母音）"
+          ],
+          "kana": "プレイヤーズ フー ハヴ ビン プリビリジド シュッド ファロー オール サーバー ルールズ"
+        },
+        {
+          "en": "You are privileged to have access to the exclusive zone.",
+          "ja": "あなたはこの排他的なゾーンにアクセスする特権があります。",
+          "ipa": "/ju ɑr ˈprɪvɪlɪdʒd tə həv ˈæksɛs tə ðə ɪkˈsklusɪv ˈzoʊn/",
+          "linking": [
+            "are は弱形 /ər/",
+            "have の末尾 /v/ が access の /æ/ に連結：[həv ˈæksɛs]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ユー アー プリビリジド タ ハヴ アクセス タ ザ イクスクルーシヴ ゾーン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "privileging",
+      "ipa": "/ˈprɪvɪlɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is privileging his friends by giving them op status.",
+          "ja": "管理者は友人にオペレーター権限を与えることで、彼らに特権を与えています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈprɪvɪlɪdʒɪŋ hɪz frɛndz baɪ ˈɡɪvɪŋ ðəm ɑp ˈsteɪtəs/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "is は弱形 /ɪz/",
+            "them は弱形 /ðəm/"
+          ],
+          "kana": "ザ アドミン イズ プリビリジング ヒズ フレンズ バイ ギヴィング ゼム アップ ステイタス"
+        },
+        {
+          "en": "Privileging certain players can cause server drama and unfairness.",
+          "ja": "特定のプレイヤーに特権を与えることは、サーバーのドラマと不公正を引き起こす可能性があります。",
+          "ipa": "/ˈprɪvɪlɪdʒɪŋ ˈsɝtən ˈpleɪərz kæn ˈkɔz ˈsɝvər ˈdrɑmə ænd ʌnˈfɛrnəs/",
+          "linking": [
+            "Privileging の末尾 /ŋ/ が certain の /s/ に連結しない（鼻音+子音）",
+            "and は弱形 /ənd/ または /ən/"
+          ],
+          "kana": "プリビリジング サーティン プレイヤーズ キャン コーズ サーバー ドラマ アンド アンフェアネス"
+        }
+      ]
+    }
   ]
 }

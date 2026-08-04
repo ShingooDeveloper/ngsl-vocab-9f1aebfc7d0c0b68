@@ -55,5 +55,63 @@
       ],
       "kana": "アイル テイカ クリニカル アプロウチ タ ディス レッドストウン パズル"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more clinical",
+      "ipa": "/ˈmɔɹ ˈklɪnɪkəl/",
+      "examples": [
+        {
+          "en": "Your building technique is more clinical than traditional methods.",
+          "ja": "あなたの建築技術は従来の方法よりも臨床的です。",
+          "ipa": "[jɔr ˈbɪldɪŋ tɛkˈnik ɪz ˈmɔɹ ˈklɪnɪkəl ðən trəˈdɪʃənəl ˈmɛθədz]",
+          "linking": [
+            "is の語末子音 /z/ が more の母音 /ɔ/ に連結 [ɪz‿ˈmɔɹ] イズ モア",
+            "than は機能語で弱形 /ðən/ に弱化"
+          ],
+          "kana": "ユォー ビルディング テクニック イズ モア クリニカル ザン トラディショナル メッサッズ"
+        },
+        {
+          "en": "The farm design is more clinical than experimental.",
+          "ja": "ファームの設計は実験的なものよりも臨床的です。",
+          "ipa": "[ðə ˈfɑrm dɪˈzaɪn ɪz ˈmɔɹ ˈklɪnɪkəl ðən ˌɛkspɛɹɪˈmɛntəl]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化",
+            "is の語末子音 /z/ が more の母音 /ɔ/ に連結 [ɪz‿ˈmɔɹ] イズ モア"
+          ],
+          "kana": "ザ ファーム ディザイン イズ モア クリニカル ザン エクスペリメンタル"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most clinical",
+      "ipa": "/ˈmoʊst ˈklɪnɪkəl/",
+      "examples": [
+        {
+          "en": "That redstone computer is the most clinical build.",
+          "ja": "そのレッドストーンコンピュータは最も臨床的な建築物です。",
+          "ipa": "[ðæt ˈrɛdstoʊn kəmˈpjudər ɪz ðə ˈmoʊst ˈklɪnɪkəl ˈbɪld]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化",
+            "is の語末子音 /z/ が the の弱形 /ðə/ に連結 [ɪz‿ðə] イズ ザ"
+          ],
+          "kana": "ザット レッドストウン コムピューダー イズ ザ モウスト クリニカル ビルド"
+        },
+        {
+          "en": "This mob farm is the most clinical design in the server.",
+          "ja": "このモブファームはサーバーで最も臨床的な設計です。",
+          "ipa": "[ðɪs ˈmɑb ˈfɑrm ɪz ðə ˈmoʊst ˈklɪnɪkəl dɪˈzaɪn ɪn ðə ˈsɝvər]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化",
+            "in の語末子音 /n/ が the の弱形 /ðə/ に連結 [ɪn‿ðə] インザ"
+          ],
+          "kana": "ディス モブ ファーム イズ ザ モウスト クリニカル ディザイン インザ サーバー"
+        }
+      ]
+    }
   ]
 }

@@ -57,5 +57,35 @@
       ],
       "kana": "ビルディング ディス キャッスル ライカ ア ポエット エヴリ ディテイル テルザ ア ストーリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "poets",
+      "ipa": "/ˈpoʊəts/",
+      "examples": [
+        {
+          "en": "The poets dream of building castles among clouds.",
+          "ja": "その詩人たちは、雲の中に城を建てることを夢見ている。",
+          "ipa": "/ðə ˈpoʊəts drim əv ˈbɪldɪŋ ˈkæsəlz əˈmʌŋ klaʊdz/",
+          "linking": [
+            "of → 弱形 /əv/ に弱化",
+            "castles の末尾 /z/ が among の /ə/ に連結 [ˈkæsəlzə] カセルザ"
+          ],
+          "kana": "ザ ポエッツ ドリーム アヴ ビルディング キャッスルズ アマング クラウドズ"
+        },
+        {
+          "en": "Those poets wrote about mining in the deep dark.",
+          "ja": "あの詩人たちは深い暗がりでの採掘について書いた。",
+          "ipa": "/ðoʊz ˈpoʊəts roʊt əˈbaʊt ˈmaɪnɪŋ ɪn ðə dip dɑrk/",
+          "linking": [
+            "wrote の末尾 /t/ が about の /ə/ に連結 [roʊtə] ロウタ",
+            "the → 弱形 /ðə/ に弱化"
+          ],
+          "kana": "ドウズ ポエッツ ロウタバウト マイニング イン ザ ディープ ダーク"
+        }
+      ]
+    }
   ]
 }

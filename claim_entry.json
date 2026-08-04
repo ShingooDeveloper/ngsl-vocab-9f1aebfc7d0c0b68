@@ -205,6 +205,93 @@
           "kana": "イズ エニワン クレイミング ザット エリア フォア ゼア ベース"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is claiming",
+      "ipa": "/ɪz ˈkleɪmɪŋ/",
+      "examples": [
+        {
+          "en": "He is claiming the land while we're gathering resources.",
+          "ja": "彼は私たちがリソースを集めている間に、土地を領有権主張しています。",
+          "ipa": "/hi ɪz ˈkleɪmɪŋ ðə ˈlænd waɪl wɪr ˈɡæðərɪŋ ˈrɛsɔrsɪz/",
+          "linking": [
+            "is は機能語（助動詞）で弱形 /ɪz/。claiming に連結。",
+            "the は冠詞で弱形 /ðə/。land に連結。"
+          ],
+          "kana": "ヒー イズ クレイミング ザ ランド ワイル ウィア ガザリング リソーシズ"
+        },
+        {
+          "en": "Are they claiming chunks in the nether right now?",
+          "ja": "彼らは今、ネザーでチャンクを領有権主張していますか？",
+          "ipa": "/ɑr ðeɪ ˈkleɪmɪŋ ˈtʃʌŋks ɪn ðə ˈnɛðər ˈraɪt naʊ/",
+          "linking": [
+            "in は機能語で弱形 /ɪn/。the に連結。",
+            "the は冠詞で弱形 /ðə/。nether に連結。"
+          ],
+          "kana": "アー ゼイ クレイミング チャンクス イン ザ ネザー ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was claiming",
+      "ipa": "/wəz ˈkleɪmɪŋ/",
+      "examples": [
+        {
+          "en": "While I was claiming land, he started a fire.",
+          "ja": "私が土地を領有権主張している間に、彼が火を起こした。",
+          "ipa": "/waɪl aɪ wəz ˈkleɪmɪŋ ˈlænd hi ˈstɑrtəd ə ˈfaɪər/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/。claiming に連結。",
+            "a は冠詞で弱形 /ə/。fire に連結。"
+          ],
+          "kana": "ワイル アイ ワズ クレイミング ランド ヒー スターテッド ア ファイアー"
+        },
+        {
+          "en": "They were claiming the mountain when the raid started.",
+          "ja": "襲撃が始まった時、彼らは山を領有権主張していた。",
+          "ipa": "/ðeɪ wər ˈkleɪmɪŋ ðə ˈmaʊntn̩ wɛn ðə ˈreɪd ˈstɑrtəd/",
+          "linking": [
+            "were は助動詞で弱形 /wər/。claiming に連結。",
+            "the は冠詞で弱形 /ðə/。mountain に連結。"
+          ],
+          "kana": "ゼイ ワー クレイミング ザ マウンティン ウェン ザ レイド スターテッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been claiming",
+      "ipa": "/həd bɪn ˈkleɪmɪŋ/",
+      "examples": [
+        {
+          "en": "We had been claiming chunks for hours when the server crashed.",
+          "ja": "サーバーがクラッシュした時、私たちは何時間もチャンクを領有権主張し続けていた。",
+          "ipa": "/wi həd bɪn ˈkleɪmɪŋ ˈtʃʌŋks fɔr ˈaʊərz wɛn ðə ˈsɚvər ˈkræʃt/",
+          "linking": [
+            "had は助動詞で弱形 /həd/。been に連結。",
+            "been は助動詞で弱形 /bɪn/。claiming に連結。",
+            "for は機能語で弱形 /fər/。hours に連結。",
+            "the は冠詞で弱形 /ðə/。server に連結。"
+          ],
+          "kana": "ウィー ハド ビン クレイミング チャンクス フォー アワーズ ウェン ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "He had been claiming land across the entire continent before retiring.",
+          "ja": "引退する前に、彼は大陸全体にわたって土地を領有権主張し続けていた。",
+          "ipa": "/hi həd bɪn ˈkleɪmɪŋ ˈlænd əˈkrɔs ðə ɪnˈtaɪər ˈkɑntɪnənt bɪˈfɔr rɪˈtaɪərɪŋ/",
+          "linking": [
+            "had は助動詞で弱形 /həd/。been に連結。",
+            "been は助動詞で弱形 /bɪn/。claiming に連結。",
+            "the は冠詞で弱形 /ðə/。entire に連結。"
+          ],
+          "kana": "ヒー ハド ビン クレイミング ランド アクロス ザ インタイアー コンティネント ビフォア リタイアリング"
+        }
+      ]
     }
   ]
 }

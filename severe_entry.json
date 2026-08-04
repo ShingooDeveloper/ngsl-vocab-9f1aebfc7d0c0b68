@@ -70,5 +70,64 @@
         "vigilance の末尾子音 /s/ が against の初頭母音 /ə/ に連結 [ˈvɪdʒɪləns əˈɡɛnst] ヴィジランス・アゲンスト"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "more severe",
+      "ipa": "/mɔr sɪˈvɪr/",
+      "examples": [
+        {
+          "en": "The Wither's attack is more severe than a normal skeleton's.",
+          "ja": "ウィザーの攻撃は普通のスケルトンの攻撃より激しいです。",
+          "ipa": "/ðə ˈwɪðərz əˈtæk ɪz mɔr sɪˈvɪr ðæn ə ˈnɔrməl ˈskɛlətnz/",
+          "linking": [
+            "Wither's attack → Wither's の末尾子音 /z/ が attack の初頭母音 /ə/ に連結 [ˈwɪðərz əˈtæk] ウィザーズ・アタック",
+            "than a → than の末尾子音 /n/ が a の初頭母音 /ə/ に連結 [ðæn ə] ザン・ア"
+          ],
+          "kana": "ザ ウィザーズ・アタック イズ モア シヴィア ザン・ア ノーマル スケリトンズ"
+        },
+        {
+          "en": "Storm damage in the desert is more severe than in mountains.",
+          "ja": "砂漠での嵐の被害は山での被害より激しい。",
+          "ipa": "/ˈstɔrm ˈdæmɪdʒ ɪn ðə ˈdɛzərt ɪz mɔr sɪˈvɪr ðæn ɪn ˈmaʊntənz/",
+          "linking": [
+            "damage in → damage の末尾子音 /dʒ/ が in の初頭母音 /ɪ/ に連結 [ˈdæmɪdʒ ɪn] ダメッジ イン",
+            "desert is → desert の末尾子音 /t/ が is の初頭母音 /ɪ/ に連結 [ˈdɛzərt ɪz] デザート イズ"
+          ],
+          "kana": "ストーム ダメッジ イン ザ デザート イズ モア シヴィア ザン イン マウンテンズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "most severe",
+      "ipa": "/moʊst sɪˈvɪr/",
+      "examples": [
+        {
+          "en": "The most severe weather in Minecraft can destroy your base instantly.",
+          "ja": "マインクラフトで最も激しい天候があなたのベースを瞬時に破壊することができます。",
+          "ipa": "/ðə ˈmoʊst sɪˈvɪr ˈwɛðər ɪn ˈmaɪnˌkræft kæn dɪˈstrɔɪ jɔr ˈbeɪs ˈɪnstəntli/",
+          "linking": [
+            "most severe → most の末尾子音 /t/ が severe の初頭子音 /s/ の前で未開放 [moʊs̚t sɪˈvɪr] モースト シヴィア",
+            "weather in → weather の末尾子音 /r/ が in の初頭母音 /ɪ/ に連結 [ˈwɛðər ɪn] ウェザー イン",
+            "your base → your の末尾子音 /r/ が base の初頭母音 /e/ に連結 [jɔr ˈbeɪs] ユアー ベイス"
+          ],
+          "kana": "ザ モースト シヴィア ウェザー イン マインクラフト キャン ディストロイ ユアー ベイス インスタントリー"
+        },
+        {
+          "en": "Fighting the Ender Dragon is the most severe challenge in survival mode.",
+          "ja": "エンダードラゴンと戦うことはサバイバルモードで最も激しいチャレンジです。",
+          "ipa": "/ˈfaɪtɪŋ ðə ˈɛndər ˈdræɡən ɪz ðə ˈmoʊst sɪˈvɪr ˈtʃælɪndʒ ɪn sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "most severe → most の末尾子音 /t/ が severe の初頭子音 /s/ の前で未開放 [moʊs̚t sɪˈvɪr] モースト シヴィア",
+            "challenge in → challenge の末尾子音 /dʒ/ が in の初頭母音 /ɪ/ に連結 [ˈtʃælɪndʒ ɪn] チャレンジ イン"
+          ],
+          "kana": "ファイティング ザ エンダー ドラゴン イズ ザ モースト シヴィア チャレンジ イン サーヴァイヴァル モード"
+        }
+      ]
+    }
   ]
 }

@@ -55,5 +55,128 @@
       ],
       "kana": "アイ ニード タ ディプレス ディス バッタン タ オウペン ザ レッドストウン ドア"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "depresses",
+      "ipa": "/dɪˈpɹɛsɪz/",
+      "examples": [
+        {
+          "en": "When the server lags, it depresses us.",
+          "ja": "サーバーが遅延するとき、それは私達を落ち込ませます。",
+          "ipa": "/wɛn ðə ˈsɝvɚ ˈlæɡz ɪt dɪˈpɹɛsɪz ʌs/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ ザ",
+            "lags it で末尾の /z/ が /ɪ/ に連結 [læɡzɪt] ラッギット",
+            "it depresses で末尾の /t/ が未開放で詰まる",
+            "depresses us で末尾の /z/ が /ʌ/ に連結"
+          ],
+          "kana": "ウェン ザ サーヴァー ラッギット ディプレセズ アス"
+        },
+        {
+          "en": "Dying at the top depresses me.",
+          "ja": "山頂で死ぬことは私を落ち込ませます。",
+          "ipa": "/ˈdaɪɪŋ æt ðə ˈtɑp dɪˈpɹɛsɪz mi/",
+          "linking": [
+            "at the で末尾の /t/ が未開放で詰まる",
+            "the は冠詞で弱形 /ðə/ ザ",
+            "top depresses で末尾の /p/ が未開放で詰まる"
+          ],
+          "kana": "ダイイング アッ ザ タップ ディプレセズ ミー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "depressed",
+      "ipa": "/dɪˈpɹɛst/",
+      "examples": [
+        {
+          "en": "Yesterday's server crash really depressed us.",
+          "ja": "昨日のサーバークラッシュは私達を本当に落ち込ませました。",
+          "ipa": "/jɛsˈtɝdeɪz ˈsɝvɚ ˈkræʃ ˈɹɪəli dɪˈpɹɛst ʌs/",
+          "linking": [
+            "really depressed で末尾の /i/ が /d/ に連結しないが、次の単語への流れ",
+            "depressed us で末尾の /t/ が /ʌ/ に連結"
+          ],
+          "kana": "イェスターデイズ サーヴァー クラッシュ リアリー ディプレスト アス"
+        },
+        {
+          "en": "The loss of my enchanted tools depressed me.",
+          "ja": "エンチャントされたツールの喪失は私を落ち込ませました。",
+          "ipa": "/ðə ˈlɔs əv maɪ ɪnˈtʃæntɪd ˈtulz dɪˈpɹɛst mi/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ ザ",
+            "of は前置詞で弱形 /əv/ アヴ",
+            "loss of で末尾の /s/ が /ə/ に連結"
+          ],
+          "kana": "ザ ロス アヴ マイ インチャンティド トゥールズ ディプレスト ミー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "depressed",
+      "ipa": "/dɪˈpɹɛst/",
+      "examples": [
+        {
+          "en": "I was really depressed after the redstone circuit failed.",
+          "ja": "レッドストーン回路が失敗した後、私は本当に落ち込んでいました。",
+          "ipa": "/aɪ wəz ˈɹɪəli dɪˈpɹɛst ˈæftɚ ðə ˈrɛdˌstoʊn ˈsɝkɪt ˈfeɪld/",
+          "linking": [
+            "was の弱形 /wəz/ ウァズ",
+            "depressed after で末尾の /t/ が /æ/ に連結",
+            "the は冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ウァズ リアリー ディプレスト アフター ザ レッドストウン サーキット フェイルド"
+        },
+        {
+          "en": "She was completely depressed by the game difficulty.",
+          "ja": "彼女はゲームの難易度に完全に落ち込んでいました。",
+          "ipa": "/ʃi wəz kəmˈpliːtli dɪˈpɹɛst baɪ ðə ˈɡeɪm ˌdɪfɪˈkʌlti/",
+          "linking": [
+            "was の弱形 /wəz/ ウァズ",
+            "completely depressed で末尾の /i/ が /d/ に連結しない",
+            "the は冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ウァズ カムプリートリー ディプレスト バイ ザ ゲイム ディフィカルティー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "depressing",
+      "ipa": "/dɪˈpɹɛsɪŋ/",
+      "examples": [
+        {
+          "en": "It's depressing to lose everything in a single cave.",
+          "ja": "一つの洞窟で全てを失うのは落ち込ませます。",
+          "ipa": "/ɪts dɪˈpɹɛsɪŋ tə ˈluːz ˈɛvriθɪŋ ɪn ə ˈsɪŋɡəl ˈkeɪv/",
+          "linking": [
+            "to は不定詞で弱形 /tə/ タ",
+            "lose everything で末尾の /z/ が /ɛ/ に連結",
+            "everything in で末尾の /ŋ/ が /ɪ/ に連結",
+            "a は不定冠詞で弱形 /ə/ ア"
+          ],
+          "kana": "イッツ ディプレシング タ ルーズ エヴリシング イナ シングアル ケイヴ"
+        },
+        {
+          "en": "Watching others build amazing structures is depressing.",
+          "ja": "他の人が素晴らしい建造物を建てるのを見ることは落ち込ませます。",
+          "ipa": "/ˈwɑtʃɪŋ ˈʌðɚz ˈbɪld əˈmeɪzɪŋ ˈstrʌktʃɚz ɪz dɪˈpɹɛsɪŋ/",
+          "linking": [
+            "watching others で末尾の /ŋ/ が /ʌ/ に連結",
+            "build amazing で末尾の /d/ が /ə/ に連結",
+            "structures is で末尾の /z/ が /ɪ/ に連結"
+          ],
+          "kana": "ウォッチング アザーズ ビルド アメイジング ストラクチャーズ イズ ディプレシング"
+        }
+      ]
+    }
   ]
 }

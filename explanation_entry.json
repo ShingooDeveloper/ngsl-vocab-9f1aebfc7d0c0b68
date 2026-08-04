@@ -71,5 +71,37 @@
       ],
       "kana": "ユー オー ザ サーヴァー アン エクスプラネイション フォー ザ ミッシング ダイマンズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "explanations",
+      "ipa": "/ˌɛkspləˈneɪʃənz/",
+      "examples": [
+        {
+          "en": "The server admin gave clear explanations about the new update.",
+          "ja": "サーバー管理者は新しいアップデートについて明確な説明をしてくれた。",
+          "ipa": "/ðə ˈsɝvər ˈædmɪn ɡeɪv klɪr ˌɛkspləˈneɪʃənz əˈbaʊt ðə ˈnu ˌʌpˈdeɪt/",
+          "linking": [
+            "gave の語末 /v/ が explanations の /ɛ/ に連結 [ɡeɪv ˌɛkspləˈneɪʃənz]",
+            "explanations の語末 /z/ が about の /ə/ に連結 [ˌɛkspləˈneɪʃənz əˈbaʊt]",
+            "the は弱形 /ðə/、about の語末 /t/ が the の /ð/ に続く場合、/t/ は未開放 [əˈbaʊt̚ ðə]"
+          ],
+          "kana": "ザ サーヴァー アドミン ゲイヴ クリア エクスプラネイションズ アバウト ザ ニュー アップデイト"
+        },
+        {
+          "en": "I asked the server for explanations about their mining spots in the nether.",
+          "ja": "ネザーのマイニング地点について、サーバーに説明を求めた。",
+          "ipa": "/aɪ ˈæskt ðə ˈsɝvər fɔɹ ˌɛkspləˈneɪʃənz əˈbaʊt ðɛɪr ˈmaɪnɪŋ spɑts ɪn ðə ˈnɛðər/",
+          "linking": [
+            "asked の語末 /t/ が the の /ð/ に続く場合、/t/ は未開放 [ˈæskt̚ ðə]",
+            "explanations の語末 /z/ が about の /ə/ に連結 [ˌɛkspləˈneɪʃənz əˈbaʊt]",
+            "in は弱形 /ən/ に弱化 [ən]"
+          ],
+          "kana": "アイ アースト ザ サーヴァー フォー エクスプラネイションズ アバウト ゼア マイニング スポッツ イン ザ ネザー"
+        }
+      ]
+    }
   ]
 }

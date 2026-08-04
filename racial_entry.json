@@ -42,6 +42,63 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more racial",
+      "ipa": "/ˈmoɹ ˈreɪʃəl/",
+      "examples": [
+        {
+          "en": "This server has more racial diversity than the vanilla game.",
+          "ja": "このサーバーはバニラゲームより人種的な多様性を持っています",
+          "ipa": "[ðɪs ˈsɜɹvɚ hæz ˈmoɹ ˈreɪʃəl daɪˈvɝsəti ðæn ðə vəˈnɪlə ɡeɪm]",
+          "kana": "ディス サーバー ハズ モア レイシャル ダイバーシティ ザン ザ ヴァニラ ゲイム",
+          "linking": [
+            "the + vanilla → the は弱形 /ðə/ に弱化、vanilla の /v/ に先行"
+          ]
+        },
+        {
+          "en": "Some mods provide more racial customization options.",
+          "ja": "一部のモッドはより多くの人種的カスタマイズオプションを提供します",
+          "ipa": "[səm mɑdz prəˈvaɪd ˈmoɹ ˈreɪʃəl ˌkʌstəməˈzeɪʃən ˈɑpʃənz]",
+          "kana": "サム モッズ プロヴァイド モア レイシャル カスタマイゼーション オプションズ",
+          "linking": [
+            "some + mods → /m/ (some の末尾) が /m/ (mods の頭) に続く（同一鼻音の未開放）",
+            "provide + more → /d/ (provide の末尾) が /m/ (more の頭) に続く（子音クラスタ）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most racial",
+      "ipa": "/ˈmoʊst ˈreɪʃəl/",
+      "examples": [
+        {
+          "en": "This is the most racial aspect of the community.",
+          "ja": "これはコミュニティの最も人種的な側面です",
+          "ipa": "[ðɪs ɪz ðə ˈmoʊs̚t ˈreɪʃəl ˈæspɛkt əv ðə kə'mjuːnəti]",
+          "kana": "ディス イズ ザ モウスト レイシャル アスペクト アヴ ザ コミュニティ",
+          "linking": [
+            "most + racial → /t/ (most の末尾) が未開放で /r/ (racial の頭) に続く: [ˈmoʊs̚t ˈreɪ...]",
+            "of + the → 弱形 /əv/ が /ð/ (the の頭) に連結: [əv ðə] アヴザ"
+          ]
+        },
+        {
+          "en": "The new update showcases the most racial features in the game.",
+          "ja": "新しいアップデートはゲームの最も人種的な機能を紹介しています",
+          "ipa": "[ðə nju ˈʌpˌdeɪt ˈʃoʊˌkeɪsɪz ðə ˈmoʊs̚t ˈreɪʃəl ˈfɪtʃɚz ɪn ðə ɡeɪm]",
+          "kana": "ザ ニュー アップデイト ショウケイシズ ザ モウスト レイシャル フィチャーズ イン ザ ゲイム",
+          "linking": [
+            "most + racial → /t/ (most の末尾) が未開放で音を詰める",
+            "in + the → 鼻音 /n/ が /ð/ (the の頭) に続く"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "racial diversity",

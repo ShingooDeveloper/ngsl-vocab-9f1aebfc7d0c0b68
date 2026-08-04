@@ -60,5 +60,63 @@
       ],
       "kana": "ユー ニーダン オーフル ローラヴ ウッド イフ ユー ウォント タ ビルド ア ビグ ストラクチャー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more awful",
+      "ipa": "/moɹ ˈɑfəl/",
+      "examples": [
+        {
+          "en": "Mining in the Nether is more awful than I thought.",
+          "ja": "ネザーでの採掘は思った以上にひどいです。",
+          "ipa": "/ˈmaɪnɪŋ ɪn ðə ˈnɛðɚ ɪz moɹ ˈɑfəl ðən aɪ ˈθɔt/",
+          "linking": [
+            "「more」の語末子音 /r/ が「awful」の初頭母音 /ɑ/ に r-連結。[moɹˈɑfəl]（モラーフル）",
+            "「the」は子音前の弱形 /ðə/ に弱化"
+          ],
+          "kana": "マイニング イン ザ ネザー イズ モラーフル ザン アイ ソット"
+        },
+        {
+          "en": "Losing all your items is more awful than dying to a Creeper.",
+          "ja": "全てのアイテムを失うことはクリーパーに殺されるより酷いです。",
+          "ipa": "/ˈluːzɪŋ ɔl jɔr ˈaɪtəmz ɪz moɹ ˈɑfəl ðən ˈdaɪɪŋ tə ə ˈkɹiːpɚ/",
+          "linking": [
+            "「more」の語末 /r/ が「awful」の初頭 /ɑ/ に r-連結",
+            "「to」は機能語で弱形 /tə/ に弱化し「a」の初頭 /ə/ に連結 [ˈdaɪɪŋ təə]（ダイイング タ）"
+          ],
+          "kana": "ルーズィング オール ジョア アイタムズ イズ モラーフル ザン ダイイング タ ア クリーパー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most awful",
+      "ipa": "/moʊst ˈɑfəl/",
+      "examples": [
+        {
+          "en": "Watching your Minecraft house burn down is the most awful thing.",
+          "ja": "あなたのマインクラフトハウスが燃えるのを見ることは最も酷いことです。",
+          "ipa": "/ˈwɑtʃɪŋ jɔr ˈmaɪnkɹæft ˈhaʊs bɝn daʊn ɪz ðə ˈmoʊst ˈɑfəl ˈθɪŋ/",
+          "linking": [
+            "「most」の語末 /t/ が「awful」の初頭 /ɑ/ の前で未開放となり、[moʊs(ᵗ)ˈɑfəl]（モウス・アーフル）",
+            "「the」は母音前で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウォッチング ジョア マインクラフト ハウス バーン ダウン イズ ザ モウス・アーフル シング"
+        },
+        {
+          "en": "The most awful moment is when you fall into lava with all your items.",
+          "ja": "最も酷い瞬間はあなたが全てのアイテムを持ったまま溶岩に落ちるときです。",
+          "ipa": "/ðə ˈmoʊst ˈɑfəl ˈmoʊmənt ɪz wɛn ju fɔl ˈɪntə ˈlɑvə wɪð ɔl jɔr ˈaɪtəmz/",
+          "linking": [
+            "「most」の語末 /t/ が「awful」の初頭 /ɑ/ の前で未開放",
+            "「into」は [ˈɪntə] で弱化し、「lava」の初頭 /l/ に連結するが、語末 /r/ が弱化"
+          ],
+          "kana": "ザ モウス・アーフル モーメント イズ ウェン ユー フォール イント・ラーヴァ ウィズ オール ジョア アイタムズ"
+        }
+      ]
+    }
   ]
 }

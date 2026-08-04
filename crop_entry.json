@@ -52,5 +52,153 @@
       ],
       "kana": "ディス イア ウィ ガット ア バンパー クラパヴ キャロッツ フラム ザ ファーム"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "crops",
+      "ipa": "/krɑps/",
+      "examples": [
+        {
+          "en": "The crops are growing faster in good light.",
+          "ja": "その作物は良い光でより速く成長している。",
+          "ipa": "/ðə ˈkrɑps ɑr ˈɡroʊɪŋ ˈfæstər ɪn ɡʊd ˈlaɪt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "crops の語末子音 /s/ が are の母音 /ɑ/ に連結。結果は [ˈkrɑpsɑr] クラップスアー"
+          ],
+          "kana": "ザ クラップスアー グロウイング ファースター イン グッド ライト"
+        },
+        {
+          "en": "My crops in this farm field grow all season.",
+          "ja": "この農場の私の作物は一年中成長する。",
+          "ipa": "/maɪ ˈkrɑps ɪn ðɪs ˈfɑrm ˈfild ɡroʊ ɔl ˈsizən/",
+          "linking": [
+            "crops の語末子音 /s/ が in の母音 /ɪ/ に連結。結果は [ˈkrɑpsɪn] クラップスィン",
+            "all の語末 /ɔl/ が season の /s/ に続く（子音+子音、連結しない）"
+          ],
+          "kana": "マイ クラップスィン ディス ファーム フィールド グロウ オール シーズン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "crops",
+      "ipa": "/krɑps/",
+      "examples": [
+        {
+          "en": "The farmer crops all vegetables early every morning.",
+          "ja": "農夫は毎朝早く、すべての野菜を収穫する。",
+          "ipa": "/ðə ˈfɑrmər ˈkrɑps ɔl ˈvɛdʒtəbəlz ˈɜrli ˈɛvri ˈmɔrnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "crops の語末子音 /s/ が all の母音 /ɔ/ に連結。結果は [ˈkrɑpsɔl] クラップスオール",
+            "early の語末子音 /li/ が every の /ɛ/ に続く（子音+子音、連結しない）"
+          ],
+          "kana": "ザ ファーマー クラップスオール ベジタブルズ アーリー エブリー モーニング"
+        },
+        {
+          "en": "She crops our wheat field to collect seeds quickly.",
+          "ja": "彼女は種をすばやく集めるために私たちの小麦畑を収穫する。",
+          "ipa": "/ʃi ˈkrɑps aʊr ˈwit ˈfild tə kəˈlɛkt ˈsidz ˈkwɪkli/",
+          "linking": [
+            "crops の語末子音 /s/ が our の母音 /aʊ/ に連結。結果は [ˈkrɑpsaʊr] クラップスアワー",
+            "to は機能語として弱形 /tə/ に弱化"
+          ],
+          "kana": "シー クラップスアワー ウィート フィールド タ コレクト シーズ クウィックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "cropped",
+      "ipa": "/krɑpt/",
+      "examples": [
+        {
+          "en": "I cropped all the wheat yesterday afternoon.",
+          "ja": "昨日の午後、すべての小麦を収穫した。",
+          "ipa": "/aɪ ˈkrɑpt ɔl ðə ˈwit ˈjɛstərdeɪ ˈæftərˌnun/",
+          "linking": [
+            "cropped の語末子音 /t/ が all の母音 /ɔ/ に連結。結果は [ˈkrɑptɔl] クラップトール",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ クラップトール ザ ウィート イェスターデイ アフターヌーン"
+        },
+        {
+          "en": "We cropped everything in the farm last week.",
+          "ja": "先週、農場のすべてを収穫した。",
+          "ipa": "/wi ˈkrɑpt ˈɛvriθɪŋ ɪn ðə ˈfɑrm læst ˈwik/",
+          "linking": [
+            "cropped の語末子音 /t/ が everything の母音 /ɛ/ に連結。結果は [ˈkrɑptɛvriθɪŋ] クラップテヴリシング",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ クラップテヴリシング イン ザ ファーム ラスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "cropped",
+      "ipa": "/krɑpt/",
+      "examples": [
+        {
+          "en": "The crops were cropped early this morning.",
+          "ja": "作物は今朝早く収穫された。",
+          "ipa": "/ðə ˈkrɑps wər ˈkrɑpt ˈɜrli ðɪs ˈmɔrnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "were は弱形 /wɚ/、/z/ が cropped の /k/ に続く（子音+子音、連結しない）",
+            "cropped の語末子音 /t/ が early の母音 /ɜ/ に連結。結果は [ˈkrɑptɜrli] クラップターリー"
+          ],
+          "kana": "ザ クラップス ワー クラップターリー ディス モーニング"
+        },
+        {
+          "en": "Having cropped the field efficiently, we harvested seeds.",
+          "ja": "効率的に畑を収穫した後、種を収穫した。",
+          "ipa": "/ˈhævɪŋ ˈkrɑpt ðə ˈfild ɪˈfɪʃəntli wi ˈhɑrvɛstɪd ˈsidz/",
+          "linking": [
+            "cropped の語末子音 /t/ が the の子音 /ð/ に続く（子音+子音、連結しない）",
+            "the は弱形 /ðə/",
+            "efficiently の語末 /li/ が we の /w/ に続く（子音+子音、連結しない）"
+          ],
+          "kana": "ハエヴィング クラップド ザ フィールド イフィシェントリー ウィ ハーヴェスティド シーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "cropping",
+      "ipa": "/ˈkrɑpɪŋ/",
+      "examples": [
+        {
+          "en": "Cropping vegetables takes time and dedication in Minecraft.",
+          "ja": "マインクラフトで野菜を収穫することは時間と献身が必要です。",
+          "ipa": "/ˈkrɑpɪŋ ˈvɛdʒtəbəlz ˈteɪks ˈtaɪm ənd ˌdɛdɪˈkeɪʃən ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "cropping の語末 /ŋ/ が vegetables の子音 /v/ に続く（子音+子音、連結しない）",
+            "time の語末 /m/ が and の子音に続く（子音+子音、連結しない）",
+            "and の末尾 /ə/ が dedication の /d/ に続く"
+          ],
+          "kana": "クラップィング ベジタブルズ テイクス タイム アンド デディケイション イン マインクラフト"
+        },
+        {
+          "en": "I'm cropping my entire farm for preparation.",
+          "ja": "準備のために私の畑全体を収穫しています。",
+          "ipa": "/aɪm ˈkrɑpɪŋ maɪ ɪnˈtaɪr ˈfɑrm fər ˌprɛpəˈreɪʃən/",
+          "linking": [
+            "I'm は /aɪm/、cropping は子音で始まる（子音+子音、連結しない）",
+            "cropping の語末 /ŋ/ が my の /m/ に続く（子音+子音、連結しない）",
+            "farm の語末 /m/ が for の子音 /f/ に続く（子音+子音、連結しない）",
+            "for は機能語として弱形 /fər/ に弱化"
+          ],
+          "kana": "アイム クラップィング マイ エンタイア ファーム ファー プレパレイション"
+        }
+      ]
+    }
   ]
 }

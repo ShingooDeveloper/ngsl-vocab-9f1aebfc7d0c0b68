@@ -44,5 +44,34 @@
       "kana": "エヴァリー ファーマー グロウズ ロラヴ クラップス"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "farmers",
+      "ipa": "/ˈfɑːrmərz/",
+      "examples": [
+        {
+          "en": "The farmers are growing wheat and potatoes in their fields.",
+          "ipa": "/ðə ˈfɑːrmərz ɑːr ˈɡroʊɪŋ wit ən pəˈteɪtoʊz ɪn ðɛɚ ˈfiːldz/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "wheat and → 語末子音 /t/ がand の弱形 /ən/ に連結 [wɪtən] ウィテン",
+            "their → 弱形 /ðɛɚ/"
+          ],
+          "kana": "ザ ファーマーズ アー グローイング ウィテン パテイトウズ イン ザー フィールズ"
+        },
+        {
+          "en": "Many farmers help each other harvest crops on the farm.",
+          "ipa": "/ˈmɛni ˈfɑːrmərz ˈhɛlp itʃ ˈʌðɚ ˈhɑːrvɪst krɑːps ən ðə ˈfɑːrm/",
+          "linking": [
+            "help each → 語末子音 /p/ が母音 /i/ に連結 [ˈhɛlpitʃ]",
+            "on the → on の弱形 /ən/ と the の弱形 /ðə/"
+          ],
+          "kana": "メニ ファーマーズ ヘルピッチ アザー ハーヴィスト クラップス エン ザ ファーム"
+        }
+      ]
+    }
+  ]
 }

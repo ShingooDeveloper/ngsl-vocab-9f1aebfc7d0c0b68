@@ -69,5 +69,63 @@
       ],
       "kana": "ザ ペイル グロー アヴ ザ ポー タル ヘルプス アス ファイン ダワー ウェイ ホウム"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "paler",
+      "ipa": "/ˈpeɪlər/",
+      "examples": [
+        {
+          "en": "This stone is paler than the other block.",
+          "ja": "この石は他のブロックより淡い。",
+          "ipa": "/ðɪs ˈstoʊn əz ˈpeɪlər ðən ðə ˈʌðɚ ˈblɑk/",
+          "linking": [
+            "is は弱形 /əz/ に弱化",
+            "than は弱形で /ðən/、the は弱形で /ðə/"
+          ],
+          "kana": "ディス ストーン アズ ペイラー ザン ザ アザー ブラック"
+        },
+        {
+          "en": "The dripstone cave has paler decorations.",
+          "ja": "ドリップストーン洞窟はより淡い装飾を持つ。",
+          "ipa": "/ðə ˈdrɪpˌstoʊn ˈkeɪv əz ˈpeɪlər ˌdɛkəˈreɪʃənz/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化",
+            "has は機能語で弱形 /əz/ に弱化"
+          ],
+          "kana": "ザ ドリップストーン ケイヴ アズ ペイラー デコレーションズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "palest",
+      "ipa": "/ˈpeɪləst/",
+      "examples": [
+        {
+          "en": "The palest sand block looks beautiful in the desert.",
+          "ja": "最も淡い砂ブロックは砂漠で美しく見える。",
+          "ipa": "/ðə ˈpeɪləst ˈsænd ˈblɑk ˈlʊks ˈbjuːtɪfəl ɪn ðə ˈdɛzɚt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/（開始と in の後に出現）",
+            "in は前置詞で /ɪn/、the に続く"
+          ],
+          "kana": "ザ ペイラスト サンド ブラック ルックス ビューティフル イン ザ デザート"
+        },
+        {
+          "en": "This is the palest color available for our build.",
+          "ja": "これはビルドで利用可能な最も淡い色です。",
+          "ipa": "/ðɪs əz ðə ˈpeɪləst ˈkʌlɚ əˈveɪləbəl fɚ ˈaʊɚ ˈbɪld/",
+          "linking": [
+            "is は弱形 /əz/ に弱化",
+            "the は冠詞で弱形 /ðə/、for は前置詞で弱形 /fɚ/"
+          ],
+          "kana": "ディス アズ ザ ペイラスト カラー アヴェイラブル ファー アワー ビルド"
+        }
+      ]
+    }
   ]
 }

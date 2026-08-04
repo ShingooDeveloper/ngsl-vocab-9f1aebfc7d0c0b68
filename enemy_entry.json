@@ -64,5 +64,35 @@
       ],
       "kana": "ウィア ディープ イン エネミー テリトリー ウォッチ ファー モブズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "enemies",
+      "ipa": "/ˈɛnəmiz/",
+      "examples": [
+        {
+          "en": "I need to defeat all the enemies in this cave.",
+          "ja": "この洞窟のすべての敵を倒さなければなりません。",
+          "ipa": "/aɪ ˈniːdə dɪˈfiːt ɔl ðə ˈɛnəmiz ɪn ðɪs ˈkeɪv/",
+          "linking": [
+            "need は /niːd/ で語末子音 /d/ が次の to の弱形 /ə/ に連結 [ˈniːdə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ニーダ ディフィート オール ザ エネミーズ イン ディス ケイブ"
+        },
+        {
+          "en": "The enemies spawned everywhere when night came.",
+          "ja": "夜が来たときに敵があちこちに出現しました。",
+          "ipa": "/ðə ˈɛnəmiz ˈspɔnd ˈɛvriˌweər wən ˈnaɪt ˈkeɪm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "when は弱形 /wən/"
+          ],
+          "kana": "ザ エネミーズ スポーンド エヴリホェア ウェン ナイト ケイム"
+        }
+      ]
+    }
   ]
 }

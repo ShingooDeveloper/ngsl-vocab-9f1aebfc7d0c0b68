@@ -59,5 +59,34 @@
       ],
       "kana": "アイ マイラ カーラマヴ オア フラム ザ グラウンド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "columns",
+      "ipa": "ˈkɑləmz",
+      "examples": [
+        {
+          "en": "I need several tall columns in my base.",
+          "ja": "私の基地に何本かの背の高い柱が必要だ。",
+          "ipa": "/aɪ ˈnid ˈsɛvɚəl ˈtɔl ˈkɑləmz ɪn maɪ ˈbeɪs/",
+          "linking": [
+            "columns in → z が母音に連結 [ˈkɑləmzɪn] カーラムジン"
+          ],
+          "kana": "アイ ニード セヴラル トール カーラムジン イン マイ ベイス"
+        },
+        {
+          "en": "These columns are made of stone and wood.",
+          "ja": "これらの柱は石と木からできている。",
+          "ipa": "/ðiz ˈkɑləmz ɑɹ ˈmeɪd əv ˈstoʊn ənd ˈwʊd/",
+          "linking": [
+            "columns are → z が母音に連結 [ˈkɑləmzɑɹ] カーラムザー",
+            "made of → d がフラップ化し連結 [ˈmeɪɾəv] メイラヴ（of は弱形 /əv/）"
+          ],
+          "kana": "ディズ カーラムザー メイラヴ ストウン アンド ウッド"
+        }
+      ]
+    }
   ]
 }

@@ -81,5 +81,36 @@
         "and discipline では and が弱形化し、d が未開放気味"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "athletes",
+      "ipa": "/ˈæθliːts/",
+      "examples": [
+        {
+          "en": "The athletes gathered at the arena to train their combat skills and speed.",
+          "ja": "アスリートたちはアリーナに集まり、彼らの戦闘スキルとスピードを鍛えるために訓練した。",
+          "ipa": "/ðə ˈæθliːts ˈɡæðərd æt ðə əˈriːnə tə treɪn ðɛr ˈkɑmbæt skɪlz ən spiːd/",
+          "kana": "ザ アスリーツ ギャザード アット ザ アリーナ ター トレイン ゼアー コンバット スキルズ アン スピード",
+          "linking": [
+            "at the では at の t が未開放で、the が弱形 /ðə/",
+            "to では弱形 /tə/ に弱化",
+            "and では弱形 /ən/ に弱化"
+          ]
+        },
+        {
+          "en": "Multiple athletes compete to be the fastest parkour runner in the server.",
+          "ja": "複数のアスリートがサーバー内で最速パルクール走者になることを競っている。",
+          "ipa": "/ˈmʌltɪpəl ˈæθliːts kəmˈpiːt tə bi ðə ˈfæstɪst ˈpɑrkuɹ ˈrʌnər ɪn ðə ˈsɝvər/",
+          "kana": "ムルティプル アスリーツ コンピート ター ビー ザ ファステスト パークワー ラナー イン ザ サーヴァー",
+          "linking": [
+            "compete to では to が弱形 /tə/ に弱化し前の /t/ が未開放",
+            "the では弱形 /ðə/ に弱化（複数箇所）"
+          ]
+        }
+      ]
+    }
   ]
 }

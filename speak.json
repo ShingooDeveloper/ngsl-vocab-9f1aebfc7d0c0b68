@@ -55,5 +55,95 @@
         "up の末尾子音 /p/ が about の初頭母音 /ə/ に連結。"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is speaking",
+      "ipa": "/ɪz ˈspiːkɪŋ/",
+      "examples": [
+        {
+          "en": "I am speaking with friends about a secret base.",
+          "ja": "私は秘密のベースについて友人たちと話しています。",
+          "ipa": "[aɪ əm ˈspiːkɪŋ wɪð frɛndz əˈbaʊɾə ˈsɪkrət beɪs]",
+          "linking": [
+            "am は機能語で弱形 /əm/ に弱化",
+            "about の末尾子音 /t/ がフラップ化して [ɾ] となり、a の初頭母音 /ə/ に連結。結果は [əˈbaʊɾə]。"
+          ],
+          "kana": "アイ アム スピーキング ウィズ フレンズ アバウラ シークリット ベイス"
+        },
+        {
+          "en": "They are speaking about exploring an ancient temple.",
+          "ja": "彼らは古代の神殿を探索することについて話しています。",
+          "ipa": "[ðeɪ ɑr ˈspiːkɪŋ əˈbaʊɾ ɪkˈsplɔrɪŋ ən ˈeɪnʃənt ˈtɛmpəl]",
+          "linking": [
+            "are は機能語で弱形 /ɚ/ に弱化",
+            "about の末尾子音 /t/ がフラップ化して [ɾ] となり、exploring の初頭母音 /ɪ/ に連結。結果は [əˈbaʊɾ ɪk...]",
+            "an の末尾子音 /n/ が ancient の初頭母音 /ə/ に連結"
+          ],
+          "kana": "ゼイ アー スピーキング アバウリ クスプローリング アン エインシャント テンプル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was speaking",
+      "ipa": "/wəz ˈspiːkɪŋ/",
+      "examples": [
+        {
+          "en": "I was speaking with teammates when the server crashed.",
+          "ja": "サーバーがクラッシュした時に、私はチームメイトたちと話していました。",
+          "ipa": "[aɪ wəz ˈspiːkɪŋ wɪð ˈtimˌmeɪts wɛn ðə ˈsɚvər kræʃt]",
+          "linking": [
+            "was は機能語で弱形 /wəz/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイ ワズ スピーキング ウィズ ティームメイツ ウェン ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "They were speaking about a hidden treasure when suddenly a creeper appeared.",
+          "ja": "隠された宝物について話していた時に、突然クリーパーが現れました。",
+          "ipa": "[ðeɪ wɚ ˈspiːkɪŋ əˈbaʊɾə ˈhɪdən ˈtrɛʃər wɛn ˈsʌdənli ə ˈkriːpər əˈpɪrd]",
+          "linking": [
+            "were は機能語で弱形 /wɚ/ に弱化",
+            "about の末尾子音 /t/ がフラップ化して [ɾ] となり、a の初頭母音 /ə/ に連結。結果は [əˈbaʊɾə]。"
+          ],
+          "kana": "ゼイ ワー スピーキング アバウラ ヒドン トレジャー ウェン サドゥンリー ア クリーパー ア ピアド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been speaking",
+      "ipa": "/hæd bɪn ˈspiːkɪŋ/",
+      "examples": [
+        {
+          "en": "We had been speaking about the base design for hours before we started building.",
+          "ja": "建築を始める前に、ベースのデザインについて何時間も話していました。",
+          "ipa": "[wi həd bɪn ˈspiːkɪŋ əˈbaʊt ðə ˈbeɪs dɪˈzaɪn fɔr ˈaʊərz bɪˈfɔr wi ˈstɑrtɪd ˈbɪldɪŋ]",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "speaking の末尾子音 /ŋ/ が about の初頭母音 /ə/ に連結。結果は [ˈspiːkɪŋ ə]。",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィ ハド ビン スピーキング アバウト ザ ベイス デザイン ファー アワーズ ビフォー ウィ スターティド ビルディング"
+        },
+        {
+          "en": "They had been speaking about an upcoming adventure for weeks.",
+          "ja": "彼らは何週間も、来る予定の冒険について話していました。",
+          "ipa": "[ðeɪ həd bɪn ˈspiːkɪŋ əˈbaʊɾən ʌpˈkʌmɪŋ ədˈvɛntʃər fɔr wiks]",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "speaking の末尾子音 /ŋ/ が about の初頭母音 /ə/ に連結。結果は [ˈspiːkɪŋ ə]。",
+            "about の末尾子音 /t/ がフラップ化して [ɾ] となり、an の初頭母音 /ə/ に連結。結果は [əˈbaʊɾən]。",
+            "an の末尾子音 /n/ が upcoming の初頭母音 /ʌ/ に連結。結果は [ənʌ]。"
+          ],
+          "kana": "ゼイ ハド ビン スピーキング アバウラン アップカミング ア ベンチャー ファー ウィークス"
+        }
+      ]
+    }
   ]
 }

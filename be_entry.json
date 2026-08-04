@@ -171,6 +171,62 @@
           "kana": "アイム ビング チェイスト バイ ゾンビズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + being）",
+      "text": "is being",
+      "ipa": "/ɪz ˈbɪŋ/ または /ɪz ˈbiɪŋ/",
+      "examples": [
+        {
+          "en": "The player is being attacked by a zombie.",
+          "ja": "プレイヤーはゾンビに攻撃されています。",
+          "ipa": "/ðə ˈpleɪər ɪz ˈbɪŋ əˈtækt baɪ ə ˈzɑmbi/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。player に連結。",
+            "is は弱形 /ɪz/。being の初頭子音 /b/ に連結 [ɪz ˈbɪŋ]。"
+          ],
+          "kana": "ザ プレイアー イズ ビング アタクト バイ ア ゾンビ"
+        },
+        {
+          "en": "We are being hunted by creepers.",
+          "ja": "私たちはクリーパーに狙われています。",
+          "ipa": "/wi ər ˈbɪŋ ˈhʌntəd baɪ ˈkriːpərz/",
+          "linking": [
+            "are は弱形 /ər/。being の初頭子音 /b/ に連結 [ər ˈbɪŋ]。",
+            "hunted の末尾子音 /d/ は未開放で by に連続 [əd baɪ]。"
+          ],
+          "kana": "ウィ アー ビング ハンテッド バイ クリーパーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + being）",
+      "text": "was being",
+      "ipa": "/wəz ˈbɪŋ/ または /wəz ˈbiɪŋ/",
+      "examples": [
+        {
+          "en": "I was being chased through the cave.",
+          "ja": "私は洞窟の中をゾンビに追われていました。",
+          "ipa": "/aɪ wəz ˈbɪŋ ˈtʃeɪst θru ðə keɪv/",
+          "linking": [
+            "was は弱形 /wəz/。being の初頭子音 /b/ に連結 [wəz ˈbɪŋ]。",
+            "chased の末尾子音 /t/ は未開放で through に連続。"
+          ],
+          "kana": "アイ ワズ ビング チェイスト スルー ザ ケイヴ"
+        },
+        {
+          "en": "The structures were being destroyed by TNT.",
+          "ja": "その建造物はTNTで破壊されていました。",
+          "ipa": "/ðə ˈstrʌktʃərz wər ˈbɪŋ dɪˈstrɔɪd baɪ ˌtiˈɛnˈti/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。structures に連結。",
+            "were は弱形 /wər/。being の初頭子音 /b/ に連結 [wər ˈbɪŋ]。"
+          ],
+          "kana": "ザ ストラクチャーズ ウアー ビング ディストロイド バイ ティーエヌティー"
+        }
+      ]
     }
   ]
 }

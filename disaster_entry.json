@@ -41,6 +41,34 @@
       "kana": "ザット ディザスター デストロイダワー ベイス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "disasters",
+      "ipa": "/dɪˈzæstɚz/",
+      "examples": [
+        {
+          "en": "Disasters are terrible in Minecraft.",
+          "ja": "マインクラフトでは大惨事は恐ろしいです。",
+          "ipa": "/dɪˈzæstɚz ɑɚ ˈtɛɹəbəl ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "disasters の末尾子音 /z/ が are の初頭母音 /ɑ/ に連結。are は弱形。結果は [dɪˈzæstɚzɑɚ] ディザスターザー"
+          ],
+          "kana": "ディザスターザー テラブル イン マインクラフト"
+        },
+        {
+          "en": "Many disasters destroyed our villages.",
+          "ja": "多くの大惨事が私たちの村を破壊しました。",
+          "ipa": "/ˈmɛni dɪˈzæstɚz dɪsˈtɹɔɪd ɑɚ ˈvɪlɪdʒɪz/",
+          "linking": [
+            "destroyed の末尾子音 /d/ が our の初頭母音 /ɑ/ に連結。our は弱形。結果は [dɪsˈtɹɔɪdɑɚ] デストロイダワー"
+          ],
+          "kana": "メニ ディザスターズ デストロイダワー ビリッジズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "spell disaster",

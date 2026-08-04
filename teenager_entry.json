@@ -44,5 +44,35 @@
       "kana": "サム ティーネイジャーズ ギャザード テゲザー トゥ マイン ダイモンズ イン サーバイバル モード"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "teenagers",
+      "ipa": "/ˈtiːneɪdʒərz/",
+      "examples": [
+        {
+          "en": "Teenagers build an awesome castle.",
+          "ja": "ティーンエイジャーたちは素晴らしい城を作った。",
+          "ipa": "[ˈtiːneɪdʒɚz bɪld ən ˈɔsəm ˈkæsəl]",
+          "kana": "ティーネイジャーズ ビルド アン オーサム キャッスル",
+          "linking": [
+            "build an → /d/ が母音 /ə/ に連結 [bɪl dən] ビルダン",
+            "an は弱形 /ən/"
+          ]
+        },
+        {
+          "en": "Many teenagers want to discover diamonds.",
+          "ja": "多くのティーンエイジャーたちはダイヤモンドを見つけたい。",
+          "ipa": "[ˈmɛni ˈtiːneɪdʒɚz wɑnt tə dɪˈskʌvər ˈdaɪmənz]",
+          "kana": "メニー ティーネイジャーズ ワント タ ディスカバー ダイモンズ",
+          "linking": [
+            "want to → /t/ が未開放で次の /t/ に連接 [wɑn t̚ə] ワンタ",
+            "to は弱形 /tə/"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

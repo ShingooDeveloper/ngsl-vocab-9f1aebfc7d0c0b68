@@ -3,59 +3,156 @@
   "pos": "動詞・名詞",
   "pos_all": "動詞・名詞",
   "ipa_us": "/ʃaɪn/",
-  "rank": 2628,
+  "rank": 1200,
   "level": "A2",
-  "hi": "shine(?:s|d|ing)?|shone",
+  "hi": "shine(?:s|d|ing)?",
   "meanings": [
-    "【動詞】光を放つ、輝く。光源が明るく光をしている（the sun shines through the clouds）",
-    "【動詞】（光を）指す、当てる。光を特定の方向に向ける（shine a flashlight on the ore）",
-    "【動詞】ぴかぴかに磨く、光らせる。表面を磨いて輝かせる（shine your armor）",
-    "【名詞】光、輝き。光源から放たれる光、または物質の光沢（the shine of glowstone）"
+    "【動詞】輝く、光を放つ（emit or reflect light）",
+    "【動詞】（能力などが）光る、優れている（be particularly bright or good at something）",
+    "【動詞】（靴などを）磨く、つやを出す（make something bright by polishing）",
+    "【名詞】輝き、光沢；光（brightness or sparkle）"
   ],
   "examples": [
     {
-      "en": "The glowstone shines brightly in the dark cave.",
-      "ja": "グロウストーンは暗い洞窟の中で明るく輝いています。",
-      "ipa": "/ðə ˈɡloʊstoʊn ʃaɪnz ˈbraɪtli ɪnðə dɑrk keɪv/",
+      "en": "The diamonds shine brightly in the torchlight.",
+      "ja": "ダイヤモンドは松明の光で明るく輝く。",
+      "ipa": "/ðə ˈdaɪəməndz ʃaɪn ˈbraɪtli ɪn ðə ˈtɔɹtʃˌlaɪt/",
       "linking": [
-        "The は冠詞で弱形 /ðə/",
-        "in the で「in」の語末子音 /n/ が「the」の母音 /ə/ に連結 [ɪnðə] インザ"
+        "the → 機能語は弱形 /ðə/ に弱化",
+        "in the → /n/ + /ð/, 子音+子音で連結なし。the は弱形 /ðə/"
       ],
-      "kana": "ザ グロウストウン シャインズ ブライトリ インザ ダーク ケイヴ"
+      "kana": "ザ ダイアモンズ シャイン ブライトリー イン ザ トーチライト"
     },
     {
-      "en": "I need to shine my diamond pickaxe to keep it perfect.",
-      "ja": "ダイヤのつるはしを磨いて完璧な状態に保つ必要があります。",
-      "ipa": "/aɪ ˈniːdə ʃaɪn maɪ ˈdaɪmənd ˈpɪkæks tə ˈkipɪt ˈpɝfɪkt/",
+      "en": "I need to shine my armor before the battle.",
+      "ja": "戦いの前に鎧を磨く必要がある。",
+      "ipa": "/aɪ niːd tə ʃaɪn maɪ ˈɑɹmɚ bɪˈfɔɹ ðə ˈbætəl/",
       "linking": [
-        "need to で「need」の語末子音 /d/ が「to」の母音 /ə/ に連結；to は弱形 [ˈniːdə] ニーダ",
-        "keep it で「keep」の語末子音 /p/ が「it」の母音 /ɪ/ に連結 [ˈkipɪt] キーピッ"
+        "to shine → to は弱形 /tə/",
+        "the battle → the は弱形 /ðə/"
       ],
-      "kana": "アイ ニーダ シャイン マイ ダイモンド ピカックス タ キーピッ パーフェクト"
-    },
-    {
-      "en": "The lantern's shine helps me find diamonds in the deep mines.",
-      "ja": "ランタンの光は深い鉱山でダイヤを見つけるのに役立ちます。",
-      "ipa": "/ðə ˈlæn.tɚnz ʃaɪn ˈhɛlpz mi ˈfaɪnd ˈdaɪməndz ɪnðə dip ˈmaɪnz/",
-      "linking": [
-        "The は冠詞で弱形 /ðə/",
-        "in the で「in」の語末子音 /n/ が「the」の母音 /ə/ に連結 [ɪnðə] インザ"
-      ],
-      "kana": "ザ ランターンズ シャイン ヘルプズ ミー ファインド ダイモンズ インザ ディープ マインズ"
+      "kana": "アイ ニード タ シャイン マイ アーマー ビフォア ザ バトル"
     }
   ],
-  "idioms": [
+  "forms": [
     {
-      "idiom": "to shine",
-      "ja": "優れた成果を上げる、活躍する。比喩的に輝く",
-      "example": "This enchanted sword really shines when we fight the Ender Dragon.",
-      "example_ja": "このエンチャント剣はエンダードラゴンとの戦闘で本当に活躍します。",
-      "ipa": "/ðɪs ɪnˈtʃɑn.tɪd ˈsɔrd ˈrɪli ʃaɪnz wɛn wi ˈfaɪt ðə ˈɛn.dɚ ˈdræɡən/",
-      "linking": [
-        "this は弱形 /ðɪs/",
-        "this の語末 /s/ が enchanted の冒頭 /ɪ/ に連結 [sɪ] ディシ"
-      ],
-      "kana": "ディシン チャンティッド ソード リーリ シャイン ウェン ウィー ファイト ザ エンダー ドラゴン"
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "shines",
+      "ipa": "/ʃaɪnz/",
+      "examples": [
+        {
+          "en": "Your diamond pickaxe shines like a mirror in the sun.",
+          "ja": "あなたのダイヤモンドのツルハシが太陽の光で鏡のように輝く。",
+          "ipa": "/jɔɹ ˈdaɪəmənd ˈpɪkæks ʃaɪnz ˈlaɪkə ˈmɪɹɚ ɪn ðə sʌn/",
+          "linking": [
+            "like a → 語末子音 /k/ が母音 /ə/ に連結 [ˈlaɪkə] ライカ",
+            "a → 機能語は弱形 /ə/ に弱化",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ユア ダイアモンド ピッカックス シャインズ ライカ ミラー イン ザ サン"
+        },
+        {
+          "en": "The beacon shines bright in our underground base.",
+          "ja": "ビーコンが地下基地で明るく輝く。",
+          "ipa": "/ðə ˈbikən ʃaɪnz braɪt ɪnˈaʊɹ ˌʌndɚˈɡraʊnd beɪs/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "in our → 語末の鼻音 /n/ が母音 /aʊ/ に連結 [ɪnˈaʊɹ] インアワー",
+            "bright → 文末の /t/ は未開放 [braɪt̚]"
+          ],
+          "kana": "ザ ビーコン シャインズ ブライト インアワー アンダーグラウンド ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "shone",
+      "ipa": "/ʃoʊn/",
+      "examples": [
+        {
+          "en": "The ore shone brightly before I collected it.",
+          "ja": "鉱石が採掘する前に明るく輝いていた。",
+          "ipa": "/ðə ɔɹ ʃoʊn ˈbraɪtli bɪˈfoɹ aɪ kəˈlɛktɪd ɪt̚/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "before I → /r/ が /aɪ/ に連結",
+            "it → 文末の /t/ は未開放 [ɪt̚] イッ"
+          ],
+          "kana": "ザ オア ショーン ブライトリー ビフォア アイ カレクティド イット"
+        },
+        {
+          "en": "All the torches shone throughout the cave all night.",
+          "ja": "すべての松明が一晩中洞窟全体で輝いていた。",
+          "ipa": "/ɔl ðə ˈtɔɹtʃəz ʃoʊn θruˈaʊt ðə keɪv ɔl naɪt̚/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化 (2回)",
+            "night → 文末の /t/ は未開放 [naɪt̚] ナイット"
+          ],
+          "kana": "オール ザ トーチーズ ショーン スルーアウト ザ ケイヴ オール ナイット"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "shone",
+      "ipa": "/ʃoʊn/",
+      "examples": [
+        {
+          "en": "The diamonds that had shone so brightly were finally collected.",
+          "ja": "とても明るく輝いていたダイヤモンドが、ついに採掘された。",
+          "ipa": "/ðə ˈdaɪəməndz ðæt̚ hæd ʃoʊn soʊ ˈbraɪtli wɚ ˈfaɪnəli kəˈlɛktɪd/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "that → 末尾の /t/ は未開放 [ðæt̚] ザット",
+            "were → 弱形 /wɚ/ に弱化"
+          ],
+          "kana": "ザ ダイアモンズ ザット ハッド ショーン ソー ブライトリー ワー ファイナリー カレクティッド"
+        },
+        {
+          "en": "Once the beacon had shone, we knew the way home.",
+          "ja": "ビーコンが輝いたら、家への道を知った。",
+          "ipa": "/wʌns ðə ˈbikən hæd ʃoʊn wi nuː ðə weɪ hoʊm/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化 (2回)",
+            "had shone → /d/ + /ʃ/, 子音+子音で連結なし",
+            "we knew → /i/ + /n/ が滑らかに移行"
+          ],
+          "kana": "ワンス ザ ビーコン ハッド ショーン ウィ ニュー ザ ウェイ ホーム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "shining",
+      "ipa": "/ˈʃaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The shining diamond caught everyone's attention immediately.",
+          "ja": "輝くダイヤモンドがすぐにみんなの注目を集めた。",
+          "ipa": "/ðə ˈʃaɪnɪŋ ˈdaɪəmənd kɔt̚ ˈɛvriˌwʌnz əˈtɛnʃən ɪˈmiːdʒətli/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "caught → 末尾の /t/ は未開放 [kɔt̚] コート",
+            "everyone's attention → /z/ + /ə/ が連続して流れる"
+          ],
+          "kana": "ザ シャイニング ダイアモンド コート エブリワンズ ア テンション イメディエットリー"
+        },
+        {
+          "en": "We kept the beacon shining throughout the entire night.",
+          "ja": "一晩中ビーコンを輝かせ続けた。",
+          "ipa": "/wi kɛpt̚ ðə ˈbikən ˈʃaɪnɪŋ θruˈaʊt ðə ɪnˈtaɪɚ naɪt̚/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化 (2回)",
+            "kept the → /t/ + /ð/, 子音+子音で連結なし",
+            "night → 文末の /t/ は未開放 [naɪt̚] ナイット"
+          ],
+          "kana": "ウィ ケプト ザ ビーコン シャイニング スルーアウト ザ インタイアー ナイット"
+        }
+      ]
     }
   ]
 }

@@ -70,5 +70,37 @@
       ],
       "kana": "アイ ディザインダ プラン ター ギャザー オール ザ リソースィズ フォア マイ ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "designers",
+      "ipa": "/dɪˈzaɪnɚz/",
+      "examples": [
+        {
+          "en": "There are many talented designers on this server who build amazing structures.",
+          "ja": "このサーバーには素晴らしい構造物を建築する多くの才能のあるデザイナーがいます。",
+          "ipa": "/ðɛɹ‿ɑɹ ˈmɛni ˈtæləntəd dɪˈzaɪnɚz‿ɑn ðɪs ˈsɝvɚ hu bɪldə əˈmeɪzɪŋ ˈstrʌktʃɚz/",
+          "linking": [
+            "There are → 語末 /ɹ/ が母音 /ɑ/ に連結: [ðɛɹ‿ɑɹ] ゼア アー",
+            "designers on → 語末 /z/ が母音 /ɑ/ に連結: [dɪˈzaɪnɚz‿ɑn] ディザイナーズ オン",
+            "build amazing → 語末 /d/ が母音 /ə/ に連結: [bɪldə] ビルダ"
+          ],
+          "kana": "ゼア アー メニ タレンティド ディザイナーズ オン ディス サーバー フー ビルダ アメイジング ストラクチャーズ"
+        },
+        {
+          "en": "The designers of this world use advanced building techniques to create masterpieces.",
+          "ja": "このワールドのデザイナーは高度な建築技法を使用して傑作を作成しています。",
+          "ipa": "/ðə dɪˈzaɪnɚz‿əv ðɪs wɝldʒ ˈjuːzə ədˈvænst ˈbɪldɪŋ tɛkˈnik tə kriˈeɪt ˈmæstɚˌpis/",
+          "linking": [
+            "designers of → 語末 /z/ が弱形 /ə/ に連結: [dɪˈzaɪnɚz‿əv] ディザイナーズ アヴ",
+            "world use → 語末 /d/ が /j/ に連結（dʒ音）: [wɝldʒ ˈjuːz] ワールジュ ユーズ、また use の末尾 /z/ が advanced の弱形 /ə/ に連結: [ˈjuːzə] ユーザ",
+            "to create → to は弱形 /tə/、create と連続"
+          ],
+          "kana": "ザ ディザイナーズ アヴ ディス ワールジュ ユーザ アドヴァンスト ビルディング テクニーク タ クリエイト マスターピース"
+        }
+      ]
+    }
   ]
 }

@@ -62,5 +62,114 @@
       ],
       "kana": "ザ ディザイアー タ リーチ ザ トップ アヴザ マウンテン モウティベイティド ヒム タクライム エヴリ デイ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "motivates",
+      "ipa": "/ˈmoʊtɪveɪts/",
+      "examples": [
+        {
+          "en": "Winning a competition motivates players to try harder.",
+          "ja": "競争に勝つことが選手たちをより頑張ろうと動機づけます。",
+          "ipa": "/ˈwɪnɪŋ ə ˌkɑmpətɪʃən ˈmoʊtɪveɪts ˈpleɪəɹz tə ˈtraɪ ˈhɑɹdər/",
+          "linking": [
+            "a competition：冠詞 a は弱形 /ə/、/k/ に連結 [ə ˌkɑmpətɪʃən] ア カンペティション。",
+            "to try：弱形 /tə/ が /t/ に連結 [tə ˈtraɪ] タトライ。"
+          ],
+          "kana": "ウィニング ア カンペティション モウティベイツ プレイヤーズ タトライ ハーダー"
+        },
+        {
+          "en": "Training every day motivates me to become a better player.",
+          "ja": "毎日トレーニングすることが、僕をより良いプレイヤーになることを動機づけます。",
+          "ipa": "/ˈtreɪnɪŋ ˈɛvɹi ˈdeɪ ˈmoʊtɪveɪts mi tə bɪˈkʌm ə ˈbɛtɚ ˈpleɪɚ/",
+          "linking": [
+            "to become：弱形 /tə/ が /b/ に連結 [tə bɪˈkʌm] タビカム。",
+            "a better：冠詞 a は弱形 /ə/、/b/ に連結 [ə ˈbɛtɚ] ア ベター。"
+          ],
+          "kana": "トレイニング エヴリ デイ モウティベイツ ミー タビカム ア ベター プレイヤー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "motivated",
+      "ipa": "/ˈmoʊtɪveɪtəd/",
+      "examples": [
+        {
+          "en": "Finding diamonds motivated me to dig even deeper.",
+          "ja": "ダイヤモンドを見つけることが、僕をもっと深く掘ることを動機づけました。",
+          "ipa": "/ˈfaɪndɪŋ ˈdaɪmənds ˈmoʊtɪveɪtəd mi tə ˈdɪg ˈivən ˈdipər/",
+          "linking": [
+            "to dig：弱形 /tə/ が /d/ に連結 [tə ˈdɪg] タディグ。"
+          ],
+          "kana": "ファインディング ダイマンズ モウティベイティド ミー タディグ イーブン ディーパー"
+        },
+        {
+          "en": "The hidden treasure motivated him to explore every cave.",
+          "ja": "隠された宝が、彼を全ての洞窟を探検することを動機づけました。",
+          "ipa": "/ðə ˈhɪdn ˈtrɛʒɚ ˈmoʊtɪveɪtəd ˈhɪm tə ɪkˈsploɹ ˈɛvɹi ˈkeɪv/",
+          "linking": [
+            "the hidden：the は弱形 /ðə/、/h/ に連結 [ðə ˈhɪdn] ザヒドゥン。",
+            "to explore：弱形 /tə/ が /ɪ/ に連結 [tə ɪkˈsploɹ] タエクスプロアー。"
+          ],
+          "kana": "ザヒドゥン トレジャー モウティベイティド ヒム タエクスプロアー エヴリ ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "motivated",
+      "ipa": "/ˈmoʊtɪveɪtəd/",
+      "examples": [
+        {
+          "en": "Motivated by gold, she mined through the night.",
+          "ja": "金に動機づけられて、彼女は夜通し採掘しました。",
+          "ipa": "/ˈmoʊtɪveɪtəd baɪ ˈɡoʊld ʃi ˈmaɪnd θru ðə ˈnaɪt/",
+          "linking": [
+            "through the：/u/ が /ðə/ に連なり [θru ðə] スルー ザ。the は弱形 /ðə/。"
+          ],
+          "kana": "モウティベイティド バイ ゴウルド シー マインド スルー ザ ナイト"
+        },
+        {
+          "en": "The most motivated builders created incredible structures.",
+          "ja": "最も動機づけられたビルダーたちが素晴らしい建造物を作りました。",
+          "ipa": "/ðə ˈmoʊst ˈmoʊtɪveɪtəd ˈbɪldərz ˈkreɪtɪd ɪnˈkrɛdəbəl ˈstrʌkʧərz/",
+          "linking": [
+            "the most：the は弱形 /ðə/、/m/ に連結 [ðə ˈmoʊst] ザ モウスト。"
+          ],
+          "kana": "ザ モウスト モウティベイティド ビルダーズ クレイティド インクレディブル ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "motivating",
+      "ipa": "/ˈmoʊtɪveɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He is motivating the team with his leadership.",
+          "ja": "彼は彼のリーダーシップでチームを動機づけています。",
+          "ipa": "/hi ɪz ˈmoʊtɪveɪtɪŋ ðə tim wɪð hɪz ˈlidɚˌʃɪp/",
+          "linking": [
+            "the team：the は弱形 /ðə/、/t/ に連結 [ðə ˈtim] ザティーム。"
+          ],
+          "kana": "ヒー イズ モウティベイティング ザティーム ウィズ ヒズ リーダーシップ"
+        },
+        {
+          "en": "Building together is motivating everyone to play more.",
+          "ja": "一緒に建設することは皆をもっとプレイすることを動機づけています。",
+          "ipa": "/ˈbɪldɪŋ təˈɡɛðɚ ɪz ˈmoʊtɪveɪtɪŋ ˈɛvɹiˌwʌn tə ˈpleɪ ˈmoɹ/",
+          "linking": [
+            "to play：弱形 /tə/ が /p/ に連結 [tə ˈpleɪ] タプレイ。"
+          ],
+          "kana": "ビルディング トゥゲザー イズ モウティベイティング エヴリワン タプレイ モアー"
+        }
+      ]
+    }
   ]
 }

@@ -57,5 +57,38 @@
       ],
       "kana": "キープ ジャー シャート オン アイル ヘルプ ユー ディフィート ザ ウィザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "shirts",
+      "ipa": "/ʃɝːts/",
+      "examples": [
+        {
+          "en": "These colorful shirts are perfect for identifying players on our server.",
+          "ja": "これらのカラフルなシャツはサーバーのプレイヤーを識別するのに完璧です。",
+          "ipa": "/ðiːz ˈkʌlɚfəl ʃɝːts ɑːɹ ˈpɝːfɪkt fɚ aɪˈdɛntɪfaɪɪŋ ˈpleɪɚz ɑn ˈaʊɚ ˈsɝːvɚ/",
+          "linking": [
+            "These colorful → These の語末子音 /z/ が colorful の /ˈ/ に連結 [ðiːz ˈkʌ...]「ディーズ カラーフル」",
+            "shirts are → shirts の語末子音 /ts/ が are の /ɑ/ に連結 [ʃɝːts ɑːɹ]「シャーツ アー」",
+            "for → 機能語は弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ディーズ カラーフル シャーツ アー パーフェクト ファー アイデンティファイイング プレイヤーズ オン アワー サーバー"
+        },
+        {
+          "en": "I gathered different shirts and displayed them on armor stands.",
+          "ja": "私は様々なシャツを集めて、アーマースタンドの上に表示しました。",
+          "ipa": "/aɪ ˈɡæðɚd ˈdɪfɚənt ʃɝːts ən dɪˈspleɪd ðəm ɑn ˈɑːɹmɚ stændz/",
+          "linking": [
+            "gathered different → gathered の語末子音 /d/ が different の /ˈ/ に連結 [ˈɡæðɚd ˈdɪ...]「ギャザード ディファレント」",
+            "different shirts → different の語末子音 /t/ が shirts の /ʃ/ に続く（未開放）[ˈdɪfɚənt̚ ʃɝːts]「ディファレント シャーツ」",
+            "and → 機能語は弱形 /ən/ に弱化",
+            "them → 機能語は弱形 /ðəm/ に弱化"
+          ],
+          "kana": "アイ ギャザード ディファレント シャーツ アン ディスプレイド ザム オン アーマー スタンズ"
+        }
+      ]
+    }
   ]
 }

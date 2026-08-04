@@ -42,5 +42,35 @@
       "kana": "イーチ モジュール プロデューシズ ディファント レソーシズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "modules",
+      "ipa": "/ˈmɑdʒulz/",
+      "examples": [
+        {
+          "en": "I use redstone modules to automate farm systems.",
+          "ja": "私はレッドストーンモジュールを使って農場システムを自動化します。",
+          "ipa": "/aɪ ˈjuːz ˈrɛdˌstoʊn ˈmɑdʒulz tə ˌɔːtəˈmeɪt ˈfɑrm ˈsɪstəmz/",
+          "linking": [
+            "modules の末尾子音 /z/ が to の弱形 /ə/ に連結 [ˈmɑdʒulz tə]",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイ ユーズ レッドストーン モジュールズ タ オータメイト ファーム システムズ"
+        },
+        {
+          "en": "Place all modules near the main farm area.",
+          "ja": "すべてのモジュールをメインの農場エリアの近くに配置してください。",
+          "ipa": "/ˈpleɪs ɔl ˈmɑdʒulz ˈnɪr ðə ˈmeɪn ˈfɑrm ˈɛriə/",
+          "linking": [
+            "Place の末尾子音 /s/ が all の初頭母音 /ɔ/ に連結 [ˈpleɪs ɔl]",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "プレイス オール モジュールズ ニアー ザ メイン ファーム エリア"
+        }
+      ]
+    }
+  ]
 }

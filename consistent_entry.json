@@ -43,5 +43,60 @@
       "kana": "ゼア マイニング ルーティーニズ コンシステント ノウ マラ ザ チャレンジズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more consistent",
+      "ipa": "/mɔːr kənˈsɪstənt/",
+      "examples": [
+        {
+          "en": "Redstone circuits become more consistent when you update all the repeaters.",
+          "ja": "すべてのリピーターを更新すると、レッドストーン回路はより一定になります。",
+          "ipa": "/ˈrɛdˌsoʊn ˈsɜrkɪts bɪˈkʌmɔːr kənˈsɪstənt wɛn juː ʌpˈdeɪɾɔːl ðə rɪˈpiːtərz/",
+          "linking": [
+            "become more → become末の /m/ が more の母音 /ɔː/ に連結",
+            "update all → update末の /t/ が all の母音 /ɔː/ に連結してフラップ化 [ʌpˈdeɪɾɔːl]"
+          ],
+          "kana": "レッドストーン サーキッツ ビカモア コンシステント ウェン ユー アップデイラオー ザ リピーターズ"
+        },
+        {
+          "en": "Your mining output is more consistent after using the same technique.",
+          "ja": "同じテクニックを使い続けると、採掘の出力がより一定になります。",
+          "ipa": "/jɔːr ˈmaɪnɪŋ ˈaʊtpʊt ɪzmɔːr kənˈsɪstənt ˈæftər ˈjuːzɪŋ ðə seɪm tɛkˈniːk/",
+          "linking": [
+            "is more → is末の /z/ が more の母音 /ɔː/ に連結 [ɪzmɔːr]"
+          ],
+          "kana": "ヨー マイニング アウトプット イズモア コンシステント アフター ユージング ザ セイム テクニーク"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most consistent",
+      "ipa": "/ˈmoʊst kənˈsɪstənt/",
+      "examples": [
+        {
+          "en": "Diamond mining at Y-level 12 is the most consistent method.",
+          "ja": "Y-レベル12でのダイヤモンド採掘は、最も一定した方法です。",
+          "ipa": "/ˈdaɪəmɑnd ˈmaɪnɪŋ æt waɪ ˈlɛvəl twɛlv ɪz ðə ˈmoʊst kənˈsɪstənt ˈmɛθəd/",
+          "linking": [
+            "the → 機能語として弱形 /ðə/ に弱化"
+          ],
+          "kana": "ダイアモンド マイニング アット ワイ レベル トゥエルヴ イズ ザ モウスト コンシステント メサド"
+        },
+        {
+          "en": "Steve's farming is the most consistent throughout all seasons.",
+          "ja": "Steveの農業はすべての季節を通じて最も安定しています。",
+          "ipa": "/ˈstiːvz ˈfɑrmɪŋ ɪz ðə ˈmoʊst kənˈsɪstənt θruːˈaʊɾɔːl ˈsiːzənz/",
+          "linking": [
+            "throughout all → throughout末の /t/ が all の母音 /ɔː/ に連結してフラップ化 [θruːˈaʊɾɔːl]"
+          ],
+          "kana": "スティーヴズ ファーミング イズ ザ モウスト コンシステント スルーアウラオール シーズンズ"
+        }
+      ]
+    }
+  ]
 }

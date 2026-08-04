@@ -250,6 +250,91 @@
           "kana": "ザ レッドストーン ディヴァイス イズ フォーワーディング オール リソーシーズ パーフィクトリー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（動詞 + am/is/are）",
+      "text": "is forwarding",
+      "ipa": "/ɪz ˈfɔrwərdɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is forwarding ores to the main storage.",
+          "ja": "ホッパーはメインストレージに鉱石を転送しています。",
+          "ipa": "/ðə ˈhɑpər ɪz ˈfɔrwərdɪŋ ˈɔrz tu ðə meɪn ˈstɔrɪdʒ/",
+          "linking": [
+            "The は弱形 /ðə/、hopper の語末 /r/ が is の /ɪ/ に連結 [ðə ˈhɑpər ɪz]",
+            "to は機能語で弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ ハッパー イズ フォーワーディング オーズ タ ザ メイン ストレッジ"
+        },
+        {
+          "en": "We are forwarding diamonds while mining for emeralds.",
+          "ja": "鉱物を採掘しながら、ダイヤをメインベースに転送しています。",
+          "ipa": "/wi ɑr ˈfɔrwərdɪŋ ˈdaɪməndz waɪl ˈmaɪnɪŋ fər ˈɛmərəldz/",
+          "linking": [
+            "while の語末子音 /l/ が mining の /m/ に続く（子音+子音）ので /l/ は未開放 [waɪl̚ ˈmaɪnɪŋ]",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "ウィ アー フォーワーディング ダイモンズ ワイル マイニング ファー エメラルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（動詞 + was/were）",
+      "text": "was forwarding",
+      "ipa": "/wəz ˈfɔrwərdɪŋ/",
+      "examples": [
+        {
+          "en": "The system was forwarding items when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、システムはアイテムを転送していました。",
+          "ipa": "/ðə ˈsɪstəm wəz ˈfɔrwərdɪŋ ˈaɪtəmz wɛn ðə ˈsɜrvər̚ kræʃt/",
+          "linking": [
+            "was は機能語で弱形 /wəz/",
+            "server の語末子音 /r/ が crashed の /k/ に続く（子音+子音）ので /r/ は未開放 [ˈsɜrvər̚ kræʃt]"
+          ],
+          "kana": "ザ システム ワズ フォーワーディング アイテムズ ウェン ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "They were forwarding diamonds to the vault when the explosion happened.",
+          "ja": "爆発が起きたとき、彼らはダイヤを保管庫に転送していました。",
+          "ipa": "/ðeɪ wɛr ˈfɔrwərdɪŋ ˈdaɪməndz tu ðə vɔlt wɛn ðə ɪkˈsploʊʒən ˈhæpənd/",
+          "linking": [
+            "were は機能語で弱形 /wɛr/",
+            "to は機能語で弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ザイ ウェア フォーワーディング ダイモンズ タ ザ ヴォルト ウェン ザ イクスプロゥジュン ハップンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（動詞 + had been）",
+      "text": "had been forwarding",
+      "ipa": "/həd bɪn ˈfɔrwərdɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone circuit had been forwarding resources for days before we optimized it.",
+          "ja": "私たちが最適化する前に、レッドストーン回路は数日間リソースを転送していました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɜrkɪt həd bɪn ˈfɔrwərdɪŋ rɪˈsɔrsɪz fər deɪz bɪˈfɔr wi ˈɑptəˌmaɪzd ɪt/",
+          "linking": [
+            "circuit の語末子音 /t/ が had の /h/ に続く（子音+子音）ので /t/ は未開放 [ˈsɜrkɪt̚ həd]",
+            "had は機能語で弱形 /həd/、been も弱形 /bɪn/",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "ザ レッドストーン サーキット ハド ビン フォーワーディング リソーシーズ ファー デイズ ビフォア ウィ アプティマイズド イット"
+        },
+        {
+          "en": "They had been forwarding materials all night when the system broke down.",
+          "ja": "システムが故障したとき、彼らは一晩中マテリアルを転送していました。",
+          "ipa": "/ðeɪ həd bɪn ˈfɔrwərdɪŋ məˈtɪriəlz ɔl naɪt wɛn ðə ˈsɪstəm broʊk daʊn/",
+          "linking": [
+            "had は機能語で弱形 /həd/、been も弱形 /bɪn/",
+            "all の語末子音 /l/ が night の /n/ に続く（子音+子音）ので /l/ は未開放 [ɔl̚ naɪt]"
+          ],
+          "kana": "ザイ ハド ビン フォーワーディング マテリアルズ オール ナイト ウェン ザ システム ブロウク ダウン"
+        }
+      ]
     }
   ]
 }

@@ -223,6 +223,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is drawing",
+      "ipa": "/ɪz ˈdrɔːɪŋ/",
+      "examples": [
+        {
+          "en": "She is drawing a blueprint for the castle while sitting at her desk.",
+          "ja": "彼女は机に座りながら城の設計図を描いています。",
+          "ipa": "/ʃi ɪz ˈdrɔːɪŋ ə ˈbluːˌprɪnt fɚ ðə ˈkæsəl waɪl ˈsɪtɪŋ æt hər dɛsk/",
+          "kana": "シー イズ ドローイング ア ブループリント ファー ザ キャッスル ワイル シッティング アット ハー デスク",
+          "linking": [
+            "is drawing は /z/ が /d/ に未開放 [ɪz̚ ˈdrɔːɪŋ]",
+            "drawing a は /ŋ/ が /ə/ に連結 [ˈdrɔːɪŋə] ドローイングア",
+            "for the は /r/ が /ð/ に連結 [fɚðə] ファー ザ",
+            "at her は /t/ が /h/ に未開放 [æt hər]"
+          ]
+        },
+        {
+          "en": "We are drawing water from the well to fill the cauldron.",
+          "ja": "私たちは大釜を満たすために井戸から水を引いています。",
+          "ipa": "/wi ɑr ˈdrɔːɪŋ ˈwɔtər frəm ðə wɛl tə fɪl ðə ˈkɔldərən/",
+          "kana": "ウィ アー ドローイング ウォーラー フラム ザ ウェル タ フィル ザ コールドラン",
+          "linking": [
+            "are drawing は /r/ が /d/ に連結 [ɑrˈdrɔːɪŋ] アー ドローイング",
+            "drawing water は /ŋ/ が /w/ に未開放 [ˈdrɔːɪŋ̚ ˈwɔtər]",
+            "water from は /r/ が /f/ に未開放 [ˈwɔtər frəm]、from は弱形 /frəm/",
+            "to fill は to が弱形 /tə/ [tə fɪl] タ フィル"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was drawing",
+      "ipa": "/wəz ˈdrɔːɪŋ/",
+      "examples": [
+        {
+          "en": "He was drawing his sword when the creeper exploded near him.",
+          "ja": "クリーパーが彼の近くで爆発したとき、彼は剣を引き抜いていました。",
+          "ipa": "/hi wəz ˈdrɔːɪŋ hɪz sɔrd wɛn ðə ˈkripər ɪkˈsploʊdɪd nɪr hɪm/",
+          "kana": "ヒー ワズ ドローイング ヒズ ソード ウェン ザ クリーパー イクスプロウディド ニア ヒム",
+          "linking": [
+            "was drawing は /z/ が /d/ に未開放 [wəz̚ ˈdrɔːɪŋ] ワズ ドローイング",
+            "drawing his は /ŋ/ が /h/ に未開放 [ˈdrɔːɪŋ̚ hɪz]",
+            "when the は /n/ が /ð/ に連結 [wɛnðə] ウェン ザ",
+            "near him は /r/ が /h/ に未開放 [nɪr̚ hɪm]"
+          ]
+        },
+        {
+          "en": "They were drawing close to the dragon's nest when night fell.",
+          "ja": "夜が明け始めたとき、彼らはドラゴンの巣に近づいていました。",
+          "ipa": "/ðeɪ wər ˈdrɔːɪŋ kloʊs tu ðə ˈdræɡənz nɛst wɛn naɪt fɛl/",
+          "kana": "ゼイ ワー ドローイング クロース トゥ ザ ドラゴンズ ネスト ウェン ナイト フェル",
+          "linking": [
+            "were drawing は /r/ が /d/ に未開放 [wər̚ ˈdrɔːɪŋ] ワー ドローイング",
+            "drawing close は /ŋ/ が /k/ に未開放 [ˈdrɔːɪŋ̚ kloʊs]",
+            "to the は to が弱形 /tə/, the は /ðə/ [tə ðə] タ ザ",
+            "night fell は /t/ が /f/ に未開放 [naɪt̚ fɛl]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been drawing",
+      "ipa": "/ˌhæd bɪn ˈdrɔːɪŋ/",
+      "examples": [
+        {
+          "en": "She had been drawing plans for hours before she realized she forgot to save.",
+          "ja": "セーブを忘れたことに気づく前に、彼女は何時間も計画を描いていました。",
+          "ipa": "/ʃi ˌhæd bɪn ˈdrɔːɪŋ plænz fɚ ˈaʊərz bɪˈfɔr ʃi riˈæləzd ʃi fərˈɡɑt tu ˈseɪv/",
+          "kana": "シー ハッビン ドローイング プランズ ファアワーズ ビフォア シー リアライズド シー フォーゴット トゥ セイヴ",
+          "linking": [
+            "had been は had が /ˌhæd/ [ˌhæd bɪn] ハッビン",
+            "been drawing は /n/ が /d/ に未開放 [bɪn̚ ˈdrɔːɪŋ]",
+            "drawing plans は /ŋ/ が /p/ に未開放 [ˈdrɔːɪŋ̚ plænz]",
+            "for hours は /r/ が /aʊ/ に連結 [fɚ ˈaʊərz] ファアワーズ"
+          ]
+        },
+        {
+          "en": "We had been drawing water from the well when the enderman started attacking.",
+          "ja": "エンダーマンが攻撃を始めたとき、私たちは井戸から水を引いていました。",
+          "ipa": "/wi ˌhæd bɪn ˈdrɔːɪŋ ˈwɔtər frəm ðə wɛl wɛn ðə ˈɛndərmæn ˈstɑrtəd əˈtækɪŋ/",
+          "kana": "ウィ ハッビン ドローイング ウォーラー フラム ザ ウェル ウェン ザ エンダーマン スターテッド アタッキング",
+          "linking": [
+            "had been は /ˌhæd/ [ˌhæd bɪn] ハッビン",
+            "been drawing は /n/ が /d/ に未開放 [bɪn̚ ˈdrɔːɪŋ]",
+            "drawing water は /ŋ/ が /w/ に未開放 [ˈdrɔːɪŋ̚ ˈwɔtər]",
+            "water from は /r/ が /f/ に未開放 [ˈwɔtər frəm]、from は弱形 /frəm/"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -18,16 +18,16 @@
       "ja": "ボス戦には、より良い防具カバレッジが必要です。",
       "ipa": "/wi ˈniːd ˈbɛtɚ ˈɑɹmɚ ˈkʌvɚɪdʒ fɚ ðə ˈbɑs ˌfaɪt/",
       "linking": [
-        "for は機能語で弱形 /fɚ/ に弱化。the は冠詞で弱形 /ðə/ に弱化して boss の初頭 /b/ に連結 [ðəbɑs] ザボス"
+        "for は機能語で弱形 /fɚ/ に弱化"
       ],
-      "kana": "ウィ ニード ベター アーマー カヴァレッジ ファー ザボス ファイト"
+      "kana": "ウィ ニード ベター アーマー カヴァレッジ ファー ザ ボス ファイト"
     },
     {
       "en": "Cloud coverage makes it hard to see the sky.",
       "ja": "雲のカバレッジが空を見るのを難しくします。",
       "ipa": "/ˈklaʊd ˈkʌvɚɪdʒ ˈmeɪks ɪt ˈhɑɹd tə ˈsi ðə ˈskaɪ/",
       "linking": [
-        "it の末尾 /t/ は未開放で詰まる音 [ɪt̚]。to は機能語で弱形 /tə/ に弱化。the は弱形 /ðə/ で sky の初頭 /s/ に連なる [ðəskaɪ] ザスカイ"
+        "it の末尾 /t/ は未開放で詰まる音 [ɪt̚]。to は機能語で弱形 /tə/ に弱化"
       ],
       "kana": "クラウド カヴァレッジ メイクス イッ ハード タ シー ザ スカイ"
     },
@@ -36,7 +36,7 @@
       "ja": "沼付近の霧のカバレッジは、モブを視界から隠します。",
       "ipa": "/ðə ˈfɑɡ ˈkʌvɚɪdʒ ˈnɪɹ ðə ˈswɑmp ˈhaɪdz ˈmɑbz ˈfrəm ˈvju/",
       "linking": [
-        "the は冠詞で弱形 /ðə/ に弱化して fog の初頭 /f/ に連結 [ðəfɑɡ] ザフォッグ。swamp の前の the も弱形 /ðə/ で、swamp 初頭 /s/ に連結 [ðəswɑmp] ザスワップ。from は機能語で弱形 /frəm/"
+        "from は機能語で弱形 /frəm/ に弱化"
       ],
       "kana": "ザ フォッグ カヴァレッジ ニア ザ スワップ ハイズ モブズ フラム ビュー"
     }
@@ -63,6 +63,36 @@
         "this の末尾 /s/ と biome の初頭 /b/ で…子音+子音なので連結なし。has の末尾 /z/ と thick の初頭 /θ/ で…子音+子音なので連結なし。that の末尾 /t/ と blocks の初頭 /b/ で…未開放で [ðæt̚ blɑks]"
       ],
       "kana": "ディス バイオーム ハズ シック トリー カヴァレッジ ザッ ブロックス サンライト"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "coverages",
+      "ipa": "/ˈkʌvɚɪdʒɪz/",
+      "examples": [
+        {
+          "en": "These special coverages protect everything from hostile mob attacks.",
+          "ja": "これらの特別なカバレッジは、敵対的なモブの攻撃からすべてを保護します。",
+          "ipa": "[ðiz ˈspɛʃəl ˈkʌvɚɪdʒɪz prəˈtɛkt ˈɛvriθɪŋ frəm ˈhɑstaɪl ˈmɑb əˈtæks]",
+          "linking": [
+            "from は機能語で弱形 /frəm/ に弱化",
+            "mob の語末 /b/ が attacks の初頭 /ə/ に連結 [ˈmɑbəˈtæks] モバタックス"
+          ],
+          "kana": "ディーズ スペシャル カヴァレッジズ プロテクッ エヴリシング フラム ハスタイル モバタックス"
+        },
+        {
+          "en": "Layered armor coverages make you far stronger against damage.",
+          "ja": "層状の防具カバレッジはあなたをはるかに強くダメージに対抗させます。",
+          "ipa": "[ˈleɪɚd ˈɑɚmɚ ˈkʌvɚɪdʒɪz ˈmeɪk ju ˈfɑɚ ˈstrɔŋɡɚ əˈɡɛnst ˈdæmɪdʒ]",
+          "linking": [
+            "layered の語末 /d/ が armor の初頭 /ɑ/ に連結 [ˈleɪɚdɑɚmɚ] レイアダーマー",
+            "against の語末 /t/ が未開放で詰まる音 [əˈɡɛnst̚] アゲンッ"
+          ],
+          "kana": "レイアダーマー カヴァレッジズ メイク ユー ファー ストロンガー アゲンッ ダメージ"
+        }
+      ]
     }
   ]
 }

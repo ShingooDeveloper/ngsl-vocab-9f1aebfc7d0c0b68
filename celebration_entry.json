@@ -75,5 +75,35 @@
       ],
       "kana": "ザ イベント ワズ ア セレブレイション アヴ オール ザ アメイジング ビルズ ウィ クリエイラッド トゥゲザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "celebrations",
+      "ipa": "/ˌsɛl.ə.ˈbreɪʃənz/",
+      "examples": [
+        {
+          "en": "Players held celebrations after mining diamonds in the deep caves.",
+          "ja": "プレイヤーたちは深い洞窟でダイヤを採掘した後に祝いを開きました。",
+          "ipa": "/ˈpleɪərz hɛld ˌsɛl.ə.ˈbreɪʃənz ˈæftɚ ˈmaɪnɪŋ ˈdaɪmənz ɪn ðə ˈdip keɪvz/",
+          "linking": [
+            "held celebrations → held の語末子音 /d/ が celebrations の母音 /ə/ に連結 [hɛld ˌsɛl.ə.ˈbreɪʃənz]",
+            "in the → in の /n/ が the の子音 /ð/ に続く（連結なし）"
+          ],
+          "kana": "プレイアーズ ヘルドセレブレイション ズ アフター マイニング ダイモンズ イン ザ ディープ ケイヴズ"
+        },
+        {
+          "en": "Great celebrations lasted for days after the dragon fell.",
+          "ja": "ドラゴンが倒れた後、素晴らしい祝いが何日も続きました。",
+          "ipa": "/ɡreɪt ˌsɛl.ə.ˈbreɪʃənz ˈlæstəd fɚ deɪz ˈæftɚ ðə ˈdræɡən fɛl/",
+          "linking": [
+            "celebrations lasted → celebrations の語末子音 /z/ が lasted の母音 /ə/ に連結 [ˌsɛl.ə.ˈbreɪʃənz ˈlæstəd]",
+            "for days → for は機能語で弱形 /fɚ/、days の /d/ に続く（連結なし）"
+          ],
+          "kana": "グレイト セレブレイションザラスティッド フォー デイズ アフター ザ ドラゴン フェル"
+        }
+      ]
+    }
   ]
 }

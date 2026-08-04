@@ -1,0 +1,294 @@
+{
+  "word": "network",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈnetwɝk/",
+  "rank": 1526,
+  "level": "A2",
+  "hi": "network(?:s|ing|ed)?",
+  "meanings": [
+    "【名詞】ネットワーク、網、結合体",
+    "【名詞】（マインクラフト）相互接続された装置群やシステム",
+    "【動詞】（人と）ネットワークを構築する、人脈を広げる",
+    "【動詞】（コンピュータやシステムを）相互接続する、ネットワーク化する"
+  ],
+  "examples": [
+    {
+      "en": "We built a network of farms across multiple biomes.",
+      "ja": "私たちは複数のバイオームにまたがる農場のネットワークを構築しました。",
+      "ipa": "/wi ˈbɪlt ə ˈnetwɝk əv ˈfɑːrmz əˈkrɔːs ˈmʌltɪpəl ˈbaɪoʊmz/",
+      "linking": [
+        "built a → 語末子音 /t/ が a の母音 /ə/ に連結 [ˈbɪltə]",
+        "network of → 語末子音 /k/ が of の弱形 /əv/ に連結 [ˈnetwɝkəv]",
+        "across multiple → /s/ と /m/ は接続（子音+子音）"
+      ],
+      "kana": "ウィ ビルタ ネットワークオヴ ファームズ アクロース マルティプル バイオームズ"
+    },
+    {
+      "en": "The redstone network connects all the automated systems in the base.",
+      "ja": "レッドストーンネットワークは、ベース内のすべての自動化システムを接続します。",
+      "ipa": "/ðə ˈrɛdˌstoʊn ˈnetwɝk kəˈnɛkts ɔːl ðə ˌɔːtəˈmeɪtɪd ˈsɪstəmz ɪn ðə ˈbeɪs/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "network connects → 語末子音 /k/ が connects の /k/ で未開放",
+        "all the → 語末子音 /l/ が the の /ð/ で未開放、the は弱形 /ðə/"
+      ],
+      "kana": "ザ レッドストーン ネットワーク コネクツ オール ザ オートメイティド システムズ イン ザ ベイス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "network with",
+      "ja": "（人と）ネットワークを構築する、人脈を広げる",
+      "example": "Players network with each other to share building techniques.",
+      "example_ja": "プレイヤーたちは建築技法を共有するために互いにネットワークを構築します。",
+      "ipa": "/ˈpleɪərz ˈnetwɝk wɪð itʃ ˈʌðər tə ˈʃɛr ˈbɪldɪŋ ˈtɛkˌniːks/",
+      "linking": [
+        "network with → 語末子音 /k/ が with の /w/ で未開放",
+        "each other → 語末子音 /tʃ/ が other の初頭 /ʌ/ に連結"
+      ],
+      "kana": "プレイヤーズ ネットワーク ウィズ イーチ アザー タ シェア ビルディング テクニークス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "networks",
+      "ipa": "/ˈnetwɝks/",
+      "examples": [
+        {
+          "en": "You can connect multiple resource networks together.",
+          "ja": "複数のリソースネットワークを一緒に接続できます。",
+          "ipa": "/juː kən kəˈnɛkt ˈmʌltɪpəl rɪˈsɔːrs ˈnetwɝks təˈɡɛðər/",
+          "linking": [
+            "can connect → can の末尾 /n/ が connect の /k/ で未開放 [kən̚ kəˈnɛkt]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ユー キャン（未開放）コネクト マルティプル リソース ネットワークス タゲザー"
+        },
+        {
+          "en": "Building trading networks improves efficiency across the server.",
+          "ja": "トレーディングネットワークを構築することは、サーバー全体の効率を改善します。",
+          "ipa": "/ˈbɪldɪŋ ˈtreɪdɪŋ ˈnetwɝks ɪmˈpruːvz ɪˈfɪʃənsi əˈkrɔːs ðə ˈsɝːvər/",
+          "linking": [
+            "building trading → building の末尾 /ŋ/ が trading の /t/ で未開放 [ˈbɪldɪŋ̚ ˈtreɪdɪŋ]",
+            "networks improves → networks の末尾 /s/ が improves の /ɪ/ に連結 [ˈnetwɝksɪm...]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ビルディング（未開放）トレーディング ネットワークスイム プルーヴズ イフィシンシー アクロース ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "networks",
+      "ipa": "/ˈnetwɝks/",
+      "examples": [
+        {
+          "en": "She networks with other players to trade resources.",
+          "ja": "彼女はリソースを取引するために他のプレイヤーとネットワークを構築します。",
+          "ipa": "/ʃi ˈnetwɝks wɪð ˈʌðər ˈpleɪərz tə ˈtreɪd ˈrɛsɚsɪz/",
+          "linking": [
+            "She networks → She の /i/ が networks の /n/ に連結 [ʃiːˈnetwɝks]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "シー ネットワークス ウィズ アザー プレイヤーズ タ トレイド リソーセズ"
+        },
+        {
+          "en": "The admin networks all the servers together.",
+          "ja": "管理者がすべてのサーバーをネットワークで接続します。",
+          "ipa": "/ðə ˈædmɪn ˈnetwɝks ɔːl ðə ˈsɝːvərz təˈɡɛðər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "the servers → the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ アドミン ネットワークス オール ザ サーバーズ タゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "networked",
+      "ipa": "/ˈnetwɝkt/",
+      "examples": [
+        {
+          "en": "We networked across multiple server regions yesterday.",
+          "ja": "昨日、複数のサーバーリージョン全体でネットワークを構築しました。",
+          "ipa": "/wiː ˈnetwɝkt əˈkrɔːs ˈmʌltɪpəl ˈsɝːvər ˈridʒənz ˈjɛstərˌdeɪ/",
+          "linking": [
+            "networked across → networked の末尾 /t/ が across の /ə/ に連結 [ˈnetwɝktəˈkrɔːs]",
+            "regions yesterday → regions の末尾 /z/ が yesterday の /j/ で未開放"
+          ],
+          "kana": "ウィー ネットワークテッドアクロース マルティプル サーバー リジョンズ イェスタデイ"
+        },
+        {
+          "en": "They networked with builders to create an alliance.",
+          "ja": "彼らはビルダーとネットワークを構築して同盟を作りました。",
+          "ipa": "/ðeɪ ˈnetwɝkt wɪð ˈbɪldərz tə kriˈeɪt ən əˈlaɪəns/",
+          "linking": [
+            "They networked → They の /eɪ/ が networked の /n/ に連結 [ðeɪˈnetwɝkt]",
+            "networked with → networked の末尾 /t/ が with の /w/ で未開放 [ˈnetwɝkt̚ wɪð]",
+            "to は弱形 /tə/",
+            "create an → create の末尾 /t/ が an の /ə/ に連結"
+          ],
+          "kana": "ゼイ ネットワークテッド ウィズ ビルダーズ タ クリエイトダン アライアンス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "networked",
+      "ipa": "/ˈnetwɝkt/",
+      "examples": [
+        {
+          "en": "I have networked with experienced players before.",
+          "ja": "以前、経験豊富なプレイヤーとネットワークを構築したことがあります。",
+          "ipa": "/aɪ hæv ˈnetwɝkt wɪð ɪkˈspɪrɪənst ˈpleɪərz bɪˈfɔːr/",
+          "linking": [
+            "have networked → have の末尾 /v/ が networked の /n/ で未開放 [hæv̚ ˈnetwɝkt]",
+            "with experienced → with の末尾 /θ/ が experienced の /ɪ/ に連結"
+          ],
+          "kana": "アイ ハヴ ネットワークテッド ウィズ イクスピアリエンスト プレイヤーズ ビフォー"
+        },
+        {
+          "en": "They had networked to establish better communication.",
+          "ja": "彼らはより良いコミュニケーションを確立するためにネットワークを構築していました。",
+          "ipa": "/ðeɪ hæd ˈnetwɝkt tə ɪˈstæblɪʃ ˈbɛtər kəˈmjuːnɪˌkeɪʃən/",
+          "linking": [
+            "had networked → had の末尾 /d/ が networked の /n/ で未開放 [hæd̚ ˈnetwɝkt]",
+            "to は弱形 /tə/",
+            "establish better → establish の末尾 /ʃ/ が better の /b/ で未開放"
+          ],
+          "kana": "ゼイ ハッド ネットワークテッド タ イスタブリッシュ ベター コミュニケーション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "networking",
+      "ipa": "/ˈnetwɝkɪŋ/",
+      "examples": [
+        {
+          "en": "Networking between different servers improves cooperation.",
+          "ja": "異なるサーバー間でネットワークを構築することは、協力を改善します。",
+          "ipa": "/ˈnetwɝkɪŋ bɪˈtwiːn ˈdɪfərənt ˈsɝːvərz ɪmˈpruːvz koʊˈɑːpəˌreɪʃən/",
+          "linking": [
+            "Networking between → networking の末尾 /ŋ/ が between の /b/ で未開放 [ˈnetwɝkɪŋ̚ bɪˈtwiːn]",
+            "different servers → different の末尾 /t/ が servers の /s/ で未開放",
+            "improves cooperation → improves の末尾 /z/ が cooperation の /k/ で未開放"
+          ],
+          "kana": "ネットワーキング ビットゥイーン ディファレント サーバーズ イムプルーヴズ コオペレーション"
+        },
+        {
+          "en": "I'm networking with miners to find better resources.",
+          "ja": "より良いリソースを見つけるために、マイナーとネットワークを構築しています。",
+          "ipa": "/aɪm ˈnetwɝkɪŋ wɪð ˈmaɪnərz tə ˈfaɪnd ˈbɛtər ˈrɛsɚsɪz/",
+          "linking": [
+            "I'm networking → I'm の末尾 /m/ が networking の /n/ で未開放 [aɪm̚ ˈnetwɝkɪŋ]",
+            "networking with → networking の末尾 /ŋ/ が with の /w/ で未開放 [ˈnetwɝkɪŋ̚ wɪð]",
+            "to は弱形 /tə/",
+            "find better → find の末尾 /d/ が better の /b/ で未開放"
+          ],
+          "kana": "アイム ネットワーキング ウィズ マイナーズ タ ファインド ベター リソーセズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is networking",
+      "ipa": "/ɪz ˈnetwɝkɪŋ/",
+      "examples": [
+        {
+          "en": "He is networking with builders to share construction ideas.",
+          "ja": "彼は建築のアイデアを共有するためにビルダーとネットワークを構築しています。",
+          "ipa": "/hi ɪz ˈnetwɝkɪŋ wɪð ˈbɪldərz tə ˈʃɛr kənˈstrʌkʃən aɪˈdiːz/",
+          "linking": [
+            "is networking → is の末尾 /z/ が networking の /n/ で未開放 [ɪz̚ ˈnetwɝkɪŋ]",
+            "with builders → with の末尾 /ð/ が builders の /b/ で未開放",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ヒー イズ ネットワーキング ウィズ ビルダーズ タ シェア コンストラクション アイディーズ"
+        },
+        {
+          "en": "Players are networking at the trading hub to exchange resources.",
+          "ja": "プレイヤーたちはトレーディングハブでリソースを交換するためにネットワークを構築しています。",
+          "ipa": "/ˈpleɪərz ɑːr ˈnetwɝkɪŋ æt ðə ˈtreɪdɪŋ ˈhʌb tə ɪkˈstʃeɪndʒ ˈrɛsɚsɪz/",
+          "linking": [
+            "are networking → are の末尾 /r/ が networking の /n/ で未開放 [ɑːr̚ ˈnetwɝkɪŋ]",
+            "at the → the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "プレイヤーズ アー ネットワーキング アット ザ トレーディング ハブ タ イクスチェンジ リソーセズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was networking",
+      "ipa": "/wəz ˈnetwɝkɪŋ/",
+      "examples": [
+        {
+          "en": "I was networking when a creeper destroyed my project.",
+          "ja": "クリーパーが私のプロジェクトを破壊しているとき、ネットワークを構築していました。",
+          "ipa": "/aɪ wəz ˈnetwɝkɪŋ wɛn ə ˈkriːpər dɪˈstrɔɪd maɪ ˈprɑːdʒɛkt/",
+          "linking": [
+            "was networking → was の末尾 /z/ が networking の /n/ で未開放 [wəz̚ ˈnetwɝkɪŋ]",
+            "a は弱形 /ə/",
+            "a creeper → a の弱形 /ə/ が creeper の /k/ で未開放"
+          ],
+          "kana": "アイ ワズ ネットワーキング ウェン ア クリーパー ディストロイド マイ プロジェクト"
+        },
+        {
+          "en": "We were networking on the server when it suddenly crashed.",
+          "ja": "サーバーが突然クラッシュしたとき、ネットワークを構築していました。",
+          "ipa": "/wi wɜːr ˈnetwɝkɪŋ ɑːn ðə ˈsɜːrvər wɛn ɪt ˈsʌdənli ˈkræʃt/",
+          "linking": [
+            "were networking → were の末尾 /r/ が networking の /n/ で未開放 [wɜːr̚ ˈnetwɝkɪŋ]",
+            "on the → the は弱形 /ðə/",
+            "it suddenly → it の末尾 /t/ が suddenly の /s/ で未開放"
+          ],
+          "kana": "ウィ ウェア ネットワーキング オン ザ サーバー ウェン イッ サドゥンリー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been networking",
+      "ipa": "/hæd bɪn ˈnetwɝkɪŋ/",
+      "examples": [
+        {
+          "en": "They had been networking for weeks before starting their mega project.",
+          "ja": "彼らはメガプロジェクトを開始する前に、数週間ネットワークを構築していました。",
+          "ipa": "/ðeɪ hæd bɪn ˈnetwɝkɪŋ fɚ ˈwiːks bɪˈfɔːr ˈstɑːrtɪŋ ðɛr ˈmɛɡə ˈprɑːdʒɛkt/",
+          "linking": [
+            "had been → had の末尾 /d/ が been の初頭 /b/ で未開放 [hæd̚ bɪn]",
+            "for weeks → for の弱形 /fɚ/",
+            "before starting → before の末尾 /r/ が starting の /s/ で未開放"
+          ],
+          "kana": "ゼイ ハッド ビン ネットワーキング フ ウィークス ビフォー スターティング ゼア メガ プロジェクト"
+        },
+        {
+          "en": "We had been networking online for months before joining the server.",
+          "ja": "サーバーに参加する前に、数ヶ月間オンラインでネットワークを構築していました。",
+          "ipa": "/wi hæd bɪn ˈnetwɝkɪŋ ˌɑnˈlaɪn fɚ ˈmʌnθz bɪˈfɔːr ˈdʒɔɪnɪŋ ðə ˈsɜːrvər/",
+          "linking": [
+            "had been → had の末尾 /d/ が been の初頭 /b/ で未開放 [hæd̚ bɪn]",
+            "for months → for の弱形 /fɚ/",
+            "before joining → before の末尾 /r/ が joining の /dʒ/ で未開放",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハッド ビン ネットワーキング オンライン フ マンズ ビフォー ジョイニング ザ サーバー"
+        }
+      ]
+    }
+  ]
+}

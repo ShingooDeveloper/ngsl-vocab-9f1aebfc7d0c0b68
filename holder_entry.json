@@ -44,6 +44,36 @@
       "kana": "プレイヤーズ フー アー ザ ホウルダー ニード タ プロテクト ザ トーチ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "holders",
+      "ipa": "/ˈhoʊldərz/",
+      "examples": [
+        {
+          "en": "I need more item holders in my storage room.",
+          "ja": "ストレージルームに、もっとアイテムホルダーが必要です。",
+          "ipa": "/aɪ ˈniːd mɔr ˈaɪtəm ˈhoʊldərz ɪn maɪ ˈstɔrɪdʒ ˈrum/",
+          "linking": [
+            "more の末尾子音 /r/ が item の初頭母音 /aɪ/ に連結。",
+            "holders の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。"
+          ],
+          "kana": "アイ ニード モア アイテム ホウルダーズ イン マイ ストレッジ ルーム"
+        },
+        {
+          "en": "Torch holders will brighten up any dark area.",
+          "ja": "トーチホルダーはどんな暗いエリアも明るくしてくれます。",
+          "ipa": "/tɔrtʃ ˈhoʊldərz wɪl ˈbraɪtən ʌp ˈɛni dɑrk ˈɛriə/",
+          "linking": [
+            "up の末尾子音 /p/ が any の初頭母音 /ˈɛ/ に連結。",
+            "dark の末尾子音 /k/ が area の初頭母音 /ˈɛ/ に連結。"
+          ],
+          "kana": "トーチ ホウルダーズ ウィル ブライテン アップ エニー ダーク エリア"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "holder of",

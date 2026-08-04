@@ -50,12 +50,152 @@
       "ja": "パイプを通して（液体・ガスなど）を供給する、引き込む",
       "example": "We piped in water from the distant river to our base.",
       "example_ja": "私たちは遠い川から基地への水をパイプで引き込みました。",
-      "ipa": "/wi ˈpaɪtɪn ˈwɔtər frəm ðə ˈdɪstənt ˈrɪvər tə ˈaʊər ˈbeɪs/",
+      "ipa": "/wi ˈpaɪpd ɪn ˈwɔtər frəm ðə ˈdɪstənt ˈrɪvər tə ˈaʊər ˈbeɪs/",
       "linking": [
-        "piped in で、piped の末尾 /t/ が in の /ɪ/ に連結し [ˈpaɪtɪn] パイティン",
+        "piped の末尾 /d/ が in の /ɪ/ に連結",
         "the は弱形 /ðə/、to は弱形 /tə/ に弱化"
       ],
-      "kana": "ウィ パイティン ウォーター フロム ザ ディスタント リヴァー タ アワー ベイス"
+      "kana": "ウィ パイプド イン ウォーター フロム ザ ディスタント リヴァー タ アワー ベイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "pipes",
+      "ipa": "/paɪpz/",
+      "examples": [
+        {
+          "en": "These pipes connect our water farm to the main base.",
+          "ja": "これらのパイプが水農場を本拠地に接続します。",
+          "ipa": "/ðiz ˈpaɪpz kəˈnɛkt ˈaʊər ˈwɔtər ˈfɑrm tu ðə ˈmeɪn ˈbeɪs/",
+          "linking": [
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディーズ パイプス コネク アワー ウォーター ファーム タ ザ メイン ベイス"
+        },
+        {
+          "en": "The pipes in this redstone system work perfectly.",
+          "ja": "このレッドストーンシステムのパイプは完璧に機能します。",
+          "ipa": "/ðə ˈpaɪpz ɪn ðɪs ˈrɛdˌstoʊn ˈsɪstəm wɝk ˈpɝfɪktli/",
+          "linking": [
+            "最初の the は冠詞で弱形 /ðə/ に弱化",
+            "in は短い機能語で /ɪn/ のまま続く"
+          ],
+          "kana": "ザ パイプス イン ディス レッドストーン システム ワーク パーフェクリー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "pipes",
+      "ipa": "/paɪpz/",
+      "examples": [
+        {
+          "en": "The system pipes water automatically from the river.",
+          "ja": "このシステムは川から水を自動的にパイプで供給します。",
+          "ipa": "/ðə ˈsɪstəm ˈpaɪpz ˈwɔtər ˌɔtəˈmætɪkli ˈfrəm ðə ˈrɪvər/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化（文頭と from の後）",
+            "from は前置詞で弱形 /frəm/ に弱化"
+          ],
+          "kana": "ザ システム パイプス ウォーター オータマティクリー フラム ザ リヴァー"
+        },
+        {
+          "en": "This redstone circuit pipes signals to the TNT launcher.",
+          "ja": "このレッドストーン回路は信号をTNT発射機にパイプで送ります。",
+          "ipa": "/ðɪs ˈrɛdˌstoʊn ˈsɝkət ˈpaɪpz ˈsɪɡnəlz tu ðə ˌtiːˈɛnˈtiː ˈlɔntʃər/",
+          "linking": [
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディス レッドストーン サーキット パイプス シグナルズ タ ザ ティーエンティー ローンチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "piped",
+      "ipa": "/paɪpt/",
+      "examples": [
+        {
+          "en": "I piped the lava into the furnace yesterday.",
+          "ja": "昨日、溶岩を炉にパイプで供給しました。",
+          "ipa": "/aɪ ˈpaɪpt ðə ˈlɑvə ˈɪntu ðə ˈfɝnɪs ˈjɛstərˌdeɪ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化（2回）",
+            "into の to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ パイプト ザ ラーヴァ イントゥ ザ ファーニス イェスタデイ"
+        },
+        {
+          "en": "We piped water through the entire base in one day.",
+          "ja": "私たちは1日で基地全体に水をパイプで供給しました。",
+          "ipa": "/wi ˈpaɪpt ˈwɔtər ˈθru ðə ɛnˈtaɪər ˈbeɪs ɪn wʌn ˈdeɪ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィ パイプト ウォーター スルー ザ エンタイヤー ベイス イン ワン デイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "piped",
+      "ipa": "/paɪpt/",
+      "examples": [
+        {
+          "en": "The water piped from the ocean has filled our storage tanks.",
+          "ja": "海からパイプで供給された水が貯蔵タンクを満たしました。",
+          "ipa": "/ðə ˈwɔtər ˈpaɪpt ˈfrəm ðə ˈoʊʃən həz ˈfɪld ˈaʊər ˈstɔrɪdʒ ˈtæŋks/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化（2回）",
+            "from は前置詞で弱形 /frəm/ に弱化"
+          ],
+          "kana": "ザ ウォーター パイプト フラム ジ オーシャン ハズ フィルド アワー ストレッジ タンクス"
+        },
+        {
+          "en": "Once the redstone was piped through, the doors opened automatically.",
+          "ja": "レッドストーンがパイプで供給されると、ドアが自動的に開きました。",
+          "ipa": "/wʌns ðə ˈrɛdˌstoʊn wəz ˈpaɪpt ˈθru ðə ˈdɔrz ˈoʊpənd ˌɔtəˈmætɪkli/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化（2回）"
+          ],
+          "kana": "ワンス ザ レッドストーン ワズ パイプト スルー ザ ドーズ オープンド オータマティクリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "piping",
+      "ipa": "/ˈpaɪpɪŋ/",
+      "examples": [
+        {
+          "en": "I'm piping water to create an AFK farm.",
+          "ja": "AFK農場を作るために水をパイプで供給しています。",
+          "ipa": "/aɪm ˈpaɪpɪŋ ˈwɔtər tu kriːˈeɪt ən ˌeɪˈɛfˈkeɪ ˈfɑrm/",
+          "linking": [
+            "to は機能語で弱形 /tə/ に弱化",
+            "an は冠詞で /ən/ のまま続く"
+          ],
+          "kana": "アイム パイピング ウォーター タ クリエイト アン エーエフケイ ファーム"
+        },
+        {
+          "en": "Piping redstone dust allows us to automate the mining system.",
+          "ja": "レッドストーンダストをパイプで供給することで、採掘システムを自動化できます。",
+          "ipa": "/ˈpaɪpɪŋ ˈrɛdˌstoʊn ˈdʌst əˈlaʊz əs tu ˌɔtəˈmeɪt ðə ˈmaɪnɪŋ ˈsɪstəm/",
+          "linking": [
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "パイピング レッドストーン ダスト アラウズ アス タ オータメイト ザ マイニング システム"
+        }
+      ]
     }
   ]
 }

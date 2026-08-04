@@ -78,5 +78,35 @@
       ],
       "kana": "アウラヴ ハビット アイ オーウェイズ キャリー ア クラフティング テイブル"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "habits",
+      "ipa": "/ˈhæbɪts/",
+      "examples": [
+        {
+          "en": "Building good habits is the key to survival.",
+          "ja": "良い習慣を身につけることがサバイバルの鍵です。",
+          "ipa": "/ˈbɪldɪŋ ɡʊd ˈhæbɪts ɪz ðə ˈki tu sɚˈvaɪvəl/",
+          "linking": [
+            "「good habits」- good の末尾 /d/ は子音 /h/ の前で未開放",
+            "「to survival」- to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ビルディング グッ ハビッツ イズ ザ キー タ サーバイバル"
+        },
+        {
+          "en": "My worst habits lead to disaster in games.",
+          "ja": "私の最悪の習慣はゲーム内で災害につながります。",
+          "ipa": "/maɪ ˈwɝst ˈhæbɪts lɛd tu dɪˈzæstɚ ɪn ɡeɪmz/",
+          "linking": [
+            "「worst habits」- worst の末尾 /t/ は子音 /h/ の前で未開放",
+            "「to disaster」- to は弱形 /tə/ に弱化"
+          ],
+          "kana": "マイ ワースト ハビッツ レッド タ ディザスター イン ゲイムズ"
+        }
+      ]
+    }
   ]
 }

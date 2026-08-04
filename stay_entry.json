@@ -198,6 +198,92 @@
           "kana": "ザ マルチプル ステイザット ザ ベース メイド アス ファミリアー ウィズ エブリ コーナー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is staying",
+      "ipa": "/ɪz ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We are staying inside the base.",
+          "ja": "私たちは基地の中にいます。",
+          "ipa": "/wiː ɑr ˈsteɪɪŋ ɪnˈsaɪd ðə ˈbeɪs/",
+          "linking": [
+            "'are' は弱形 /ɑr/",
+            "'inside the' で 'inside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [ɪnˈsaɪðə] インサイザ"
+          ],
+          "kana": "ウィー アー ステイイング インサイザ ベース"
+        },
+        {
+          "en": "He is staying safe from the mobs.",
+          "ja": "彼はモブから安全にいます。",
+          "ipa": "/hi ɪz ˈsteɪɪŋ ˈseɪf frəm ðə ˈmɑbz/",
+          "linking": [
+            "'is' は弱形 /ɪz/",
+            "'the' は弱形 /ðə/。'mobs' の /m/（子音）に直続"
+          ],
+          "kana": "ヒ イズ ステイイング セイフ フラム ザ モブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was staying",
+      "ipa": "/wəz ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We were staying beside the campfire.",
+          "ja": "私たちはキャンプファイアのそばにいました。",
+          "ipa": "/wiː wər ˈsteɪɪŋ bɪˈsaɪd ðə ˈkæmpˌfaɪər/",
+          "linking": [
+            "'were' は弱形 /wər/",
+            "'beside the' で 'beside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [bɪˈsaɪðə] ビサイザ"
+          ],
+          "kana": "ウィー ワー ステイイング ビサイザ キャンプファイアー"
+        },
+        {
+          "en": "He was staying quiet during the storm.",
+          "ja": "彼は嵐の間、静かにしていました。",
+          "ipa": "/hi wəz ˈsteɪɪŋ ˈkwaɪət ˈdʊɹɪŋ ðə ˈstɔːrm/",
+          "linking": [
+            "'was' は弱形 /wəz/",
+            "'the' は弱形 /ðə/。'storm' の /s/（子音）に直続"
+          ],
+          "kana": "ヒ ワズ ステイイング クワイエット ドゥーリング ザ ストーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been staying",
+      "ipa": "/həd bɪn ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We had been staying together for three days.",
+          "ja": "私たちは3日間一緒にいました。",
+          "ipa": "/wiː həd bɪn ˈsteɪɪŋ təˈɡɛðər fər ˈθriː ˈdeɪz/",
+          "linking": [
+            "'had' は弱形 /həd/。'been' の /b/（子音）に直続、未開放 [həd̚ bɪn]",
+            "'been' は弱形 /bɪn/。'staying' の /s/（子音）に直続、未開放 [bɪn̚ ˈsteɪɪŋ]",
+            "'for' は弱形 /fər/"
+          ],
+          "kana": "ウィー ハド ビン ステイイング タゲザー ファー スリー デイズ"
+        },
+        {
+          "en": "They had been staying inside the fortress before the attack.",
+          "ja": "攻撃の前に、彼らは砦の中にいました。",
+          "ipa": "/ðeɪ həd bɪn ˈsteɪɪŋ ɪnˈsaɪd ðə ˈfɔːrtrəs bɪˈfɔːr ðɪ əˈtæk/",
+          "linking": [
+            "'had' は弱形 /həd/。'been' の /b/（子音）に直続、未開放",
+            "'been' は弱形 /bɪn/。'staying' の /s/（子音）に直続、未開放",
+            "'inside the' で 'inside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [ɪnˈsaɪðə] インサイザ"
+          ],
+          "kana": "ゼイ ハド ビン ステイイング インサイザ フォートレス ビフォア ザ アタック"
+        }
+      ]
     }
   ],
   "idioms": [

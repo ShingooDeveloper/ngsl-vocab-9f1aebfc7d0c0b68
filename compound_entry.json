@@ -46,6 +46,159 @@
       "kana": "アイ ビルタ コームパウンド ストラクチャー タ ディフェンド マイ ベイス フラム レイズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "compounds",
+      "ipa": "/ˈkɑːmpaundz/",
+      "examples": [
+        {
+          "en": "I stored chemical compounds in glass bottles to keep them safe.",
+          "ja": "化学化合物をガラス瓶に保管して安全に保ちました。",
+          "ipa": "/aɪ ˈstɔrd ˈkɛmɪkəl ˈkɑːmpaundz ɪn ɡlæs ˈbɑɾəlz tu kip ðəm ˈseɪf/",
+          "linking": [
+            "stored の /d/ と chemical の /k/ は未開放で詰まる [ˈstɔɹ̚d ˈkɛ]",
+            "in は機能語で弱形 /ɪn/、to も弱形 /tə/、them も弱形 /ðəm/",
+            "bottles の語末 /z/ が to の /t/ に連結しない（子音開始）"
+          ],
+          "kana": "アイ ストアード ケミカル コームパウンズ イン グラス ボラルズ タ キープ ザム セイフ"
+        },
+        {
+          "en": "Various compounds can be mixed to create specialized potions.",
+          "ja": "様々な化合物を混ぜることで、特殊なポーションを作成できます。",
+          "ipa": "/ˈvɛriəs ˈkɑːmpaundz kæn bi mɪkst tu kriˈeɪt ˌspɛʃəˈlaɪzd poʊˈʃənz/",
+          "linking": [
+            "compounds の /z/ が can の /k/ に連結しない（子音開始）",
+            "can は機能語で弱形 /kən/ に弱化",
+            "to も弱形 /tə/、be も弱形 /bi/"
+          ],
+          "kana": "ヴェリアス コームパウンズ キャン ビー ミクスト タ クリエイト スペシャライズド ポーションズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "compounds",
+      "ipa": "/ˈkɑːmpaundz/",
+      "examples": [
+        {
+          "en": "Mixing water with lava compounds the danger significantly.",
+          "ja": "水と溶岩を混ぜると、危険さが大幅に増します。",
+          "ipa": "/ˈmɪksɪŋ ˈwɔɾər wɪð ˈlɑːvə ˈkɑːmpaundz ðə ˈdeɪndʒər sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "Mixing の /ŋ/ が water の /w/ に連結しない（子音開始）",
+            "water の /ər/ が /ə/ に弱化 [ˈwɔɾə]",
+            "with は機能語で弱形 /wɪð/、the も弱形 /ðə/",
+            "compounds の /z/ が the に連結しない"
+          ],
+          "kana": "ミクシング ウォーラー ウィズ ラーヴァ コームパウンズ ザ デインジャー シグニフィカントリー"
+        },
+        {
+          "en": "Every mistake compounds the difficulty of building in hardcore mode.",
+          "ja": "ハードコアモードでは、すべてのミスが難易度を複雑にします。",
+          "ipa": "/ˈɛvri mɪsˈteɪk ˈkɑːmpaundz ðə ˌdɪfɪˈkɛlti əv ˈbɪldɪŋ ɪn ˈhɑrdˌkɔr moʊd/",
+          "linking": [
+            "every の /ri/ が mistake の /m/ に未開放で詰まる [ˈɛvrɪ̚ m]",
+            "compounds の /z/ が the に連結しない",
+            "the は弱形 /ðə/、of も弱形 /əv/、in も弱形 /ɪn/"
+          ],
+          "kana": "エヴリ ミステイク コームパウンズ ザ ディフィカルティ アヴ ビルディング イン ハードコア モウド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "compounded",
+      "ipa": "/kəmˈpaʊndɪd/",
+      "examples": [
+        {
+          "en": "I compounded my mistake by mining straight down into lava.",
+          "ja": "溶岩に向かって真下に掘ることで、ミスを重ねてしまいました。",
+          "ipa": "/aɪ kəmˈpaʊndɪd maɪ mɪsˈteɪk baɪ ˈmaɪnɪŋ streɪt daʊn ˈɪntu ˈlɑːvə/",
+          "linking": [
+            "compounded の /ɪd/ が my の /m/ に連結しない（子音開始）",
+            "by は機能語で弱形 /baɪ̆/、into も /ˈɪntə/ に弱化",
+            "down の /n/ が into の /ɪ/ に連結 [daʊnˈɪntə]"
+          ],
+          "kana": "アイ カムパウンディド マイ ミステイク バイ マイニング ストレイト ダウン イントゥ ラーヴァ"
+        },
+        {
+          "en": "The problem compounded when my redstone contraption broke mid-operation.",
+          "ja": "レッドストーン装置が操作途中で壊れると、問題が一層複雑になりました。",
+          "ipa": "/ðə ˈprɑbləm kəmˈpaʊndɪd wɛn maɪ ˈrɛdstoʊn kənˈtræpʃən broʊk mɪd ɑpəˈreɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "compounded の /ɪd/ が when の /w/ に連結しない（子音開始）",
+            "mid-operation の /d/ が /ɑ/ に連結 [mɪdˈɑpə]"
+          ],
+          "kana": "ザ プラブラム カムパウンディド ウェン マイ レッドストーン コントラプション ブロウク ミッド オペレーション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "compounded",
+      "ipa": "/kəmˈpaʊndɪd/",
+      "examples": [
+        {
+          "en": "With compounded damage from multiple mob attacks, I barely survived the encounter.",
+          "ja": "複数のモブからの複合ダメージで、その戦闘からはかろうじて生き残りました。",
+          "ipa": "/wɪð kəmˈpaʊndɪd ˈdæmɪdʒ frəm ˈmʌlɾɪpəl mɑb əˈtæks aɪ ˈbeɪrli sərˈvaɪvd ðə ɪnˈkaʊntər/",
+          "linking": [
+            "compounded の /ɪd/ が damage の /d/ に連結 [kəmˈpaʊndɪdə] → エリジョンで詰まる [ˈpaʊn̚d]",
+            "from は弱形 /frəm/、multiple の /pəl/ が /m/ に連結 [ˈmʌlɾɪpəm]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィズ カムパウンディド ダミッジ フラム マルリプル モッブ アタックス アイ ベアリー サーヴァイvド ザ インカウンター"
+        },
+        {
+          "en": "The compounded effect of stacked enchantments made this weapon nearly unbeatable.",
+          "ja": "重ねられた魔法の複合効果により、この武器はほぼ無敵になりました。",
+          "ipa": "/ðə kəmˈpaʊndɪd ɪˈfɛkt əv stækt ɪnˈtʃæntmənts meɪd ðɪs ˈwɛpən ˈnɪrli ʌnˈbitəbəl/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "compounded の /ɪd/ が effect の /ɪ/ に連結しない（両方子音開始に近い）",
+            "of は弱形 /əv/、this も弱形 /ðɪs/"
+          ],
+          "kana": "ザ カムパウンディド イフェクト アヴ スタクト インチャントメンツ メイド ディス ウェパン ニアリー アンビータバル"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "compounding",
+      "ipa": "/kəmˈpaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "Compounding my injuries by continuing to fight was clearly a losing strategy.",
+          "ja": "戦い続けることで怪我を重ねるのは、明らかに負けの戦略でした。",
+          "ipa": "/kəmˈpaʊndɪŋ maɪ ɪnˈdʒɚiz baɪ kənˈtɪnjuːɪŋ tu faɪt wəz ˈklɪrli ə ˈluːzɪŋ ˈstrætədʒi/",
+          "linking": [
+            "compounding の /ŋ/ が my の /m/ に連結しない（子音開始）",
+            "injuries の /z/ が by の /b/ に連結しない",
+            "by は機能語で弱形 /baɪ̆/、to も弱形 /tə/、a も弱形 /ə/"
+          ],
+          "kana": "カムパウンディング マイ インジュリーズ バイ カンティンューイング タ ファイト ウァズ クリアリー ア ルーズィング ストラタジー"
+        },
+        {
+          "en": "The advantage of compounding resources is that small farms grow exponentially over time.",
+          "ja": "リソースを複合的に蓄積する利点は、小規模な農場が時間とともに指数関数的に成長することです。",
+          "ipa": "/ðə ədˈvæntɪdʒ əv kəmˈpaʊndɪŋ ˈrɪsɔrsɪz ɪz ðæt smoʊl fɑrmz ɡroʊ ˌɛkspəˈnɛnʃəli ˈoʊvər taɪm/",
+          "linking": [
+            "the は弱形 /ðə/、advantage に連結",
+            "of は弱形 /əv/、compounding の /ŋ/ が resources に連結しない（子音開始）",
+            "is の /z/ が that の /ð/ に連結しない"
+          ],
+          "kana": "ザ アドヴァンティッジ アヴ カムパウンディング リソーセズ イズ ザット スモウル ファームズ グロウ エクスポーネンシャリー オウヴァー タイム"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "compound interest",

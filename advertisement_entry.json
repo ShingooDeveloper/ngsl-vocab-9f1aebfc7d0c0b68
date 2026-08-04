@@ -67,5 +67,36 @@
       ],
       "kana": "ウィ ラン アン アドヴァータイズメント ター アトラクト イクスピアリンスト ビルダーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "advertisements",
+      "ipa": "/ˈædvɚˌtaɪzmənts/",
+      "examples": [
+        {
+          "en": "The advertisements on the board attracted immediate interest.",
+          "ja": "ボード上の広告はすぐに興味を引き起こしました。",
+          "ipa": "/ðə ˌædvɚˈtaɪzmənts ɑn ðə ˈbɔrd əˈtræktɪd ɪˈmiːdɪət ˈɪntərəst/",
+          "linking": [
+            "the の末尾子音 /ð/ が advertisements の初頭母音 /ə/ に連結 [ðəˌæd...]",
+            "board の末尾子音 /d/ が attracted の初頭母音 /ə/ に連結 [ˈbɔrdəˈtræ...]",
+            "immediate の末尾子音 /t/ が interest の初頭母音 /ɪ/ に連結 [ɪtˈɪ...]"
+          ],
+          "kana": "ザ アドヴァータイズメンツ アン ザ ボード アトラクテッド イミーディエット インタレスト"
+        },
+        {
+          "en": "These advertisements promoted new server features effectively.",
+          "ja": "これらの広告は新しいサーバー機能を効果的にプロモーションしました。",
+          "ipa": "/ðiz ˌædvɚˈtaɪzmənts prəˈmoʊtəd ˈnjuː ˈsɝvər ˈfɪtʃərz ɪˈfɛktɪvli/",
+          "linking": [
+            "these の末尾子音 /z/ が advertisements の初頭母音 /ə/ に連結 [ðiz̴ˌæd...]",
+            "promoted の末尾子音 /d/ が new の初頭音 /n/ に接続するが、both consonants のため連結ではない。promoted は弱形の可能性あり"
+          ],
+          "kana": "ジーズ アドヴァータイズメンツ プロモーテッド ニュー サーヴァー フィーチャーズ イフェクティヴリー"
+        }
+      ]
+    }
   ]
 }

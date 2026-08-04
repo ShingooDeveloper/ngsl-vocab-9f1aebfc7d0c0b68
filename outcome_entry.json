@@ -73,5 +73,36 @@
         "can survive → can の弱形 /kən/ が survive の /s/ に連結しない（子音+子音）"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "outcomes",
+      "ipa": "/ˈaʊtkʌmz/",
+      "examples": [
+        {
+          "en": "Comparing outcomes of different mining techniques helps us improve efficiency.",
+          "ja": "異なる採掘テクニックの結果を比較することは、私たちの効率を改善するのに役立ちます。",
+          "ipa": "[kəmˈpɛɹɪŋ ˈaʊtkʌmz əv ˈdɪfɚɪnt ˈmaɪnɪŋ tɛkˈnikz ˈhɛlps əs ɪmˈpɹuːv ɪˈfɪʃənsi]",
+          "linking": [
+            "outcomes + of → outcomes の語末子音 /z/ が of の弱形 /ə/ に連結",
+            "helps + us → helps の語末子音 /s/ が us の弱形 /əs/ に連結"
+          ],
+          "kana": "カムペアリング アウトカムズ アヴ ディファレント マイニング テクニークス ヘルプス アス イムプルーヴ イフィシェンシー"
+        },
+        {
+          "en": "The outcomes of different building strategies can determine your success in survival mode.",
+          "ja": "異なる建築戦略の結果は、サバイバルモードでのあなたの成功を決定することができます。",
+          "ipa": "[ðə ˈaʊtkʌmz əv ˈdɪfɚɪnt ˈbɪldɪŋ ˈstɹætədʒiz kæn dɪˈtɝːmɪn jɔɹ səkˈsɛs ɪn sɚˈvaɪvəl ˈmoʊd]",
+          "linking": [
+            "The → 弱形 /ðə/: ザ",
+            "outcomes + of → outcomes の語末子音 /z/ が of の弱形 /ə/ に連結",
+            "in + survival → in の語末子音 /n/ が survival の /s/ に続く"
+          ],
+          "kana": "ザ アウトカムズ アヴ ディファレント ビルディング ストラテジーズ キャン ディターミン ユア サクセス イン サーヴァイヴァル モード"
+        }
+      ]
+    }
   ]
 }

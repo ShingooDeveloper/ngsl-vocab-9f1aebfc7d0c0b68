@@ -55,5 +55,151 @@
       ],
       "kana": "ウィー タケルド ザ ドラゴン ヘドーン ウィズ イン チャント イド ウェポンズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "tackles",
+      "ipa": "/ˈtækəlz/",
+      "examples": [
+        {
+          "en": "He tackles the problem every day.",
+          "ja": "彼は毎日その問題に取り組みます。",
+          "ipa": "[hɪ ˈtækəlz ðə ˈprɑbləm ˈɛvɚi deɪ]",
+          "linking": [
+            "He → 弱形 /hɪ/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ヒ タケルズ ザ プロブラム エブリ デイ"
+        },
+        {
+          "en": "The enderman tackles anyone who looks at it.",
+          "ja": "エンダーマンは見た人を誰でも攻撃します。",
+          "ipa": "[ðə ˈɛndɚmæn ˈtækəlz ˈɛniˌwʌn hu ˈlʊks æt ɪt]",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "enderman + tackles → 語末 /n/ が母音に連結、[ˈɛndɚmæn ˈtækəlz]"
+          ],
+          "kana": "ザ エンダーマン タケルズ エニワン フー ルックス アット イット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "tackled",
+      "ipa": "/ˈtækəld/",
+      "examples": [
+        {
+          "en": "I tackled the creeper last night.",
+          "ja": "昨夜、クリーパーに対処しました。",
+          "ipa": "[aɪ ˈtækəld ðə ˈkripɚ læst naɪt]",
+          "linking": [
+            "tackled + the → 語末 /d/ が未開放で次の /ð/ に直続、[ˈtækəld̚ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイ タケルド ザ クリーパー ラースト ナイト"
+        },
+        {
+          "en": "We tackled that challenge together.",
+          "ja": "我々はその課題に一緒に取り組みました。",
+          "ipa": "[wi ˈtækəld ðæt ˈtʃælɪndʒ təˈɡɛðɚ]",
+          "linking": [
+            "tackled + that → 語末 /d/ が未開放で次の /ð/ に直続、[ˈtækəld̚ ðæt]"
+          ],
+          "kana": "ウィ タケルド ザット チャレンジ トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "tackled",
+      "ipa": "/ˈtækəld/",
+      "examples": [
+        {
+          "en": "The problem has been tackled successfully.",
+          "ja": "その問題は成功裏に対処されました。",
+          "ipa": "[ðə ˈprɑbləm həz bɪn ˈtækəld səkˈsɛsfəli]",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "has → 弱形 /həz/",
+            "been → 弱形 /bɪn/"
+          ],
+          "kana": "ザ プロブラム ハズ ビン タケルド サクセスフリ"
+        },
+        {
+          "en": "Once the zombies have been tackled, we can build.",
+          "ja": "ゾンビが対処されたら、私たちは建設できます。",
+          "ipa": "[wʌns ðə ˈzɑmiz həv bɪn ˈtækəld wi kən ˈbɪld]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "have → 弱形 /həv/",
+            "been → 弱形 /bɪn/",
+            "can → 弱形 /kən/"
+          ],
+          "kana": "ワンス ザ ゾンビーズ ハヴ ビン タケルド ウィ カン ビルド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "tackling",
+      "ipa": "/ˈtækəlɪŋ/",
+      "examples": [
+        {
+          "en": "Tackling the Wither requires many players.",
+          "ja": "ウィザーに取り組むには多くのプレイヤーが必要です。",
+          "ipa": "[ˈtækəlɪŋ ðə ˈwɪðɚ rɪˈkwaɪɚz ˈmɛni ˈpleɪɚz]",
+          "linking": [
+            "Tackling + the → 語末 /ŋ/ が未開放で次の /ð/ に直続、[ˈtækəlɪŋ̚ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "タクルイング ザ ウィザー リクワイヤーズ メニ プレイヤーズ"
+        },
+        {
+          "en": "I'm tackling the mine shaft now.",
+          "ja": "今、鉱山坑道に取り組んでいます。",
+          "ipa": "[aɪm ˈtækəlɪŋ ðə ˈmaɪn ʃæft naʊ]",
+          "linking": [
+            "I'm → /aɪm/",
+            "Tackling + the → 語末 /ŋ/ が未開放で次の /ð/ に直続、[ˈtækəlɪŋ̚ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイム タクルイング ザ マイン シャフト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "tackles",
+      "ipa": "/ˈtækəlz/",
+      "examples": [
+        {
+          "en": "We need fishing tackles for the pond.",
+          "ja": "池のための釣り道具が必要です。",
+          "ipa": "[wi ˈniːd ˈfɪʃɪŋ ˈtækəlz fɚ ðə ˈpɑnd]",
+          "linking": [
+            "need + fishing → 語末 /d/ が母音 /ɪ/ に連結、[niːd ˈfɪʃɪŋ]",
+            "fishing + tackles → 語末 /ŋ/ が母音に連結、[ˈfɪʃɪŋ ˈtækəlz]",
+            "for → 機能語は弱形 /fɚ/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ウィ ニード フィッシング タケルズ ファー ザ ポンド"
+        },
+        {
+          "en": "My tackle collection includes many tackles.",
+          "ja": "私の道具コレクションは多くの道具を含んでいます。",
+          "ipa": "[maɪ ˈtækəl kəˈlɛkʃən ɪnˈkludz ˈmɛni ˈtækəlz]",
+          "linking": [
+            "tackle + collection → 語末 /l/ が母音 /ə/ に連結、[ˈtækəl kəˈlɛkʃən]"
+          ],
+          "kana": "マイ タケル コレクション インクルーズ メニ タケルズ"
+        }
+      ]
+    }
   ]
 }

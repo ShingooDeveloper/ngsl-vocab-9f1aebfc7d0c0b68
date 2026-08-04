@@ -61,5 +61,120 @@
       "linking": [],
       "kana": "アドミンズ エジュケイト プレイヤーズ アン プロパー サーヴァー ルールズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "educates",
+      "ipa": "/ˈɛdʒəkeɪts/",
+      "examples": [
+        {
+          "en": "The guide educates players on crafting.",
+          "ja": "ガイドはプレイヤーたちにクラフトについて教えています。",
+          "ipa": "[ðə ˈɡaɪd ˈɛdʒəkeɪts ˈpleɪɚz ɑn ˈkræftɪŋ]",
+          "linking": [
+            "The → 機能語は弱形 /ðə/",
+            "guide educates → guide の語末 /d/ が母音 /ɛ/ に連結 [ɡaɪd ˈɛdʒəkeɪts] ガイデジュケイツ",
+            "players on → players の語末 /z/ が母音 /ɑ/ に連結 [ˈpleɪɚz ɑn] プレイアーズ オン"
+          ],
+          "kana": "ザ ガイド エジュケイツ プレイアーズ オン クラフティング"
+        },
+        {
+          "en": "She educates us about redstone.",
+          "ja": "彼女は私たちにレッドストーンについて教えています。",
+          "ipa": "[ʃi ˈɛdʒəkeɪts ʌs əˈbaʊt ˈrɛdˌston]",
+          "linking": [
+            "us about → us の語末 /z/ が母音 /ə/ に連結 [ʌz əˈbaʊt] アザバウト",
+            "about redstone → about の語末 /t/ が未開放で redstone へ [əˈbaʊt̚ ˈrɛdˌston] アバウッ レッドストーン"
+          ],
+          "kana": "シー エジュケイツ アザバウト レッドストーン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "educated",
+      "ipa": "/ˈɛdʒəkeɪtɪd/",
+      "examples": [
+        {
+          "en": "The mentor educated us on proper techniques.",
+          "ja": "メンターは私たちに正しいテクニックについて教えてくれました。",
+          "ipa": "[ðə ˈmɛntɚ ˈɛdʒəkeɪtɪd ʌs ɑn ˈprɑpɚ tɛkˈniks]",
+          "linking": [
+            "The → 機能語は弱形 /ðə/",
+            "educated us → educated の語末 /d/ が母音 /ʌ/ に連結 [ˈɛdʒəkeɪtɪd ʌs] エジュケイティダス"
+          ],
+          "kana": "ザ メンター エジュケイティダス オン プロパー テクニクス"
+        },
+        {
+          "en": "Last week, they educated everyone on potion brewing.",
+          "ja": "先週、彼らは全員にポーション醸造について教えました。",
+          "ipa": "[læst wɪk ðeɪ ˈɛdʒəkeɪtɪd ˈɛvriˌwʌn ɑn ˈpoʊʃən ˈbruɪŋ]",
+          "linking": [
+            "week they → week の語末 /k/ が未開放で they へ [wɪk̚ ðeɪ] ウィッ ザイ",
+            "educated everyone → educated の語末 /d/ が母音 /ɛ/ に連結 [ˈɛdʒəkeɪtɪdɛvriˌwʌn] エジュケイティデヴリワン"
+          ],
+          "kana": "ラスト ウィッ ザイ エジュケイティデヴリワン オン ポウシャン ブルーイング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "educated",
+      "ipa": "/ˈɛdʒəkeɪtɪd/",
+      "examples": [
+        {
+          "en": "An educated player knows how to manage inventory.",
+          "ja": "教育を受けたプレイヤーはインベントリを管理する方法を知っています。",
+          "ipa": "[ən ˈɛdʒəkeɪtɪd ˈpleɪɚ noʊz haʊ tu ˈmænɪdʒ ɪnˈvɛntɚi]",
+          "linking": [
+            "An → 機能語は弱形 /ən/",
+            "how to → to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アン エジュケイティド プレイヤー ノーズ ハウ タ マネッジ インヴェントリー"
+        },
+        {
+          "en": "We have educated the whole team on redstone.",
+          "ja": "私たちはチーム全体をレッドストーンについて教えてきました。",
+          "ipa": "[wi hæv ˈɛdʒəkeɪtɪd ðə hoʊl tim ɑn ˈrɛdˌston]",
+          "linking": [
+            "have educated → have の語末 /v/ が母音 /ɛ/ に連結 [hæv ˈɛdʒəkeɪtɪd] ハヴ エジュケイティド",
+            "the → 機能語は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ エジュケイティド ザ ホウル ティーム オン レッドストーン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "educating",
+      "ipa": "/ˈɛdʒəkeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm educating my friend on mining strategies.",
+          "ja": "友達に採掘戦略について教えているところです。",
+          "ipa": "[aɪm ˈɛdʒəkeɪtɪŋ maɪ ˈfrɛnd ɑn ˈmaɪnɪŋ ˈstrætəˌdʒiz]",
+          "linking": [
+            "I'm educating → I'm の /m/ が educating の /ɛ/ に連結 [aɪm ˈɛdʒəkeɪtɪŋ] アイム エジュケイティング",
+            "friend on → friend の語末 /d/ が未開放で on へ [ˈfrɛnt̚ ɑn] フレンッ オン"
+          ],
+          "kana": "アイム エジュケイティング マイ フレンッ オン マイニング ストラテジーズ"
+        },
+        {
+          "en": "Educating new players helps build a better community.",
+          "ja": "新しいプレイヤーを教育することはより良いコミュニティの構築を助けます。",
+          "ipa": "[ˈɛdʒəkeɪtɪŋ ˈnu ˈpleɪɚz hɛlps bɪld ə ˈbɛtɚ kəˈmjunəti]",
+          "linking": [
+            "players helps → players の語末 /z/ が未開放で helps へ [ˈpleɪɚz̚ hɛlps] プレイアーズ ヘルプス",
+            "a better → a は弱形 /ə/"
+          ],
+          "kana": "エジュケイティング ニュー プレイアーズ ヘルプス ビルド ア ベター コミュニティー"
+        }
+      ]
+    }
   ]
 }

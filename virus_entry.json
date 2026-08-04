@@ -42,5 +42,35 @@
       "kana": "ウィ ニード ター リストール ザ ワールド アフター ザ ヴァイラス ディリーティド エヴリシング"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "viruses",
+      "ipa": "/ˈvaɪrəsɪz/",
+      "examples": [
+        {
+          "en": "Those viruses are everywhere in this world!",
+          "ja": "そのウイルスはこのワールドのあちこちにある！",
+          "ipa": "/ðoʊz ˈvaɪrəsɪz ɑr ˈɛvriwɛr ɪn ðɪs wɜrld/",
+          "linking": [
+            "viruses are で末尾 /z/ が母音 /ɑ/ に連結 [ˈvaɪrəsɪzɑɹ]",
+            "everywhere in で末尾 /r/ が母音 /ɪ/ に連結 [ˈɛvriwɛɹ ɪn]"
+          ],
+          "kana": "ゾウズ ヴァイラセザ エブリウェア イン ディス ワールド"
+        },
+        {
+          "en": "Multiple viruses are destroying our entire network!",
+          "ja": "複数のウイルスが私たちのネットワーク全体を破壊しています！",
+          "ipa": "/ˈmʌltɪpl ˈvaɪrəsɪz ɑr dɪˈstrɔɪɪŋ ˈaʊər ɛnˈtaɪr ˈnɛtwɜrk/",
+          "linking": [
+            "viruses are で末尾 /z/ が母音 /ɑ/ に連結 [ˈvaɪrəsɪzɑɹ]",
+            "our entire で末尾 /r/ が母音 /ɛ/ に連結 [ˈaʊr ɛn]"
+          ],
+          "kana": "マルティプル ヴァイラセザ デストロイイング アワ エンタイア ネットワーク"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

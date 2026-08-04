@@ -215,6 +215,109 @@
           "kana": "シー イズレッティング ザ クロップス グロー オートマティクリー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is letting",
+      "ipa": "/ɪz ˈlɛtɪŋ/",
+      "examples": [
+        {
+          "en": "He is letting the water flow into the tank.",
+          "ja": "彼は水をタンクに流すことを許している。",
+          "ipa": "/hi ɪz ˈlɛtɪŋ ðə ˈwɔtɚ floʊ ˈɪntu ðə ˈtæŋk/",
+          "linking": [
+            "he の語末母音 /i/ と is の語頭母音 /ɪ/ が隣接 [hiɪz] ヒーイズ",
+            "is の語末子音 /z/ が letting の /ɛ/（母音）に連結 [ɪzˈlɛtɪŋ] イズレッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ヒー イズレッティング ザ ウォーター フロー イントゥ ザ タンク"
+        },
+        {
+          "en": "They are letting the crops grow without interference.",
+          "ja": "彼らは作物に干渉せず成長させている。",
+          "ipa": "/ðeɪ ɑr ˈlɛtɪŋ ðə ˈkɹɑps ɡroʊ wɪˈaʊt ˌɪntɚˈfɪrəns/",
+          "linking": [
+            "They の語末母音 /ɪ/ と are の語頭子音 /ɑr/ が隣接 [ðeɪɑr] ザエ・アー",
+            "are の語末子音 /r/ が letting の /ɛ/（母音）に連結 [ɑrˈlɛtɪŋ] アー・レッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "crops の語末子音 /s/ が grow の /ɡ/（子音）に直続、/s/ は未開放 [ˈkɹɑps̚ ɡroʊ] クロップス・グロー"
+          ],
+          "kana": "ザエ アー レッティング ザ クロップス グロー ウィザウト インターフィレンス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was letting",
+      "ipa": "/wɑz ˈlɛtɪŋ/",
+      "examples": [
+        {
+          "en": "She was letting the zombies burn in the sunlight.",
+          "ja": "彼女はゾンビを日光で燃やすことを許していた。",
+          "ipa": "/ʃi wɑz ˈlɛtɪŋ ðə ˈzoʊmiz ˈbɝn ɪn ðə ˈsʌnˌlaɪt/",
+          "linking": [
+            "she の語末母音 /i/ と was の語頭子音 /w/ が直続 [ʃiwɑz] シーワズ",
+            "was の語末子音 /z/ が letting の /ɛ/（母音）に連結 [wɑzˈlɛtɪŋ] ワズ・レッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "zombies の語末子音 /z/ が burn の /b/（子音）に直続、/z/ は未開放 [ˈzoʊmiz̚ ˈbɝn] ゾンビーズ・バーン"
+          ],
+          "kana": "シー ワズ・レッティング ザ ゾンビーズ バーン イン ザ サンライト"
+        },
+        {
+          "en": "They were letting the redstone signal pass through.",
+          "ja": "彼らはレッドストーン信号を通していた。",
+          "ipa": "/ðeɪ wɝ ˈlɛtɪŋ ðə ˈrɛdˌstoʊn ˈsɪɡnəl ˈpæs θruː/",
+          "linking": [
+            "They の語末母音 /ɪ/ と were の語頭子音 /w/ が直続 [ðeɪwɝ] ザエ・ウェア",
+            "were の語末子音 /r/ が letting の /ɛ/（母音）に連結 [wɝˈlɛtɪŋ] ウェア・レッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "signal の語末子音 /l/ が pass の /p/（子音）に直続、/l/ は未開放 [ˈsɪɡnəl̚ ˈpæs] シグナル・パス"
+          ],
+          "kana": "ザエ ウェア・レッティング ザ レッドストーン シグナル パス スルー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been letting",
+      "ipa": "/hæd bɪn ˈlɛtɪŋ/",
+      "examples": [
+        {
+          "en": "He had been letting the crops grow for weeks.",
+          "ja": "彼は作物を数週間成長させ続けていた。",
+          "ipa": "/hi hæd bɪn ˈlɛtɪŋ ðə ˈkɹɑps ɡroʊ fɔr wiks/",
+          "linking": [
+            "he の語末母音 /i/ と had の語頭子音 /h/ が直続。had は弱形 /həd/ に弱化 [hiˈhəd] ヒー・ハド",
+            "had の語末子音 /d/ が been の /b/（子音）に直続、/d/ は未開放 [hæd̚ bɪn] ハド・ビン",
+            "been の語末子音 /n/ が letting の /ɛ/（母音）に連結 [bɪnˈlɛtɪŋ] ビン・レッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "crops の語末子音 /s/ が grow の /ɡ/（子音）に直続、/s/ は未開放 [ˈkɹɑps̚ ɡroʊ] クロップス・グロー"
+          ],
+          "kana": "ヒー ハド ビン・レッティング ザ クロップス グロー フォア ウィークス"
+        },
+        {
+          "en": "They had been letting the water flow for hours.",
+          "ja": "彼らは水を数時間流し続けていた。",
+          "ipa": "/ðeɪ hæd bɪn ˈlɛtɪŋ ðə ˈwɔtɚ floʊ fɔr ˈaʊɚz/",
+          "linking": [
+            "They の語末母音 /ɪ/ と had の語頭子音 /h/ が直続。had は弱形 /həd/ に弱化 [ðeɪˈhəd] ザエ・ハド",
+            "had の語末子音 /d/ が been の /b/（子音）に直続、/d/ は未開放 [hæd̚ bɪn] ハド・ビン",
+            "been の語末子音 /n/ が letting の /ɛ/（母音）に連結 [bɪnˈlɛtɪŋ] ビン・レッティング",
+            "letting の語末子音 /ŋ/ が the の弱形に未開放で続く [ˈlɛtɪŋ̚ ðə] レッティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "water の語末子音 /r/ が flow の /f/（子音）に直続 [ˈwɔtɚfloʊ] ウォーター・フロー"
+          ],
+          "kana": "ザエ ハド ビン・レッティング ザ ウォーター フロー フォア アウアーズ"
+        }
+      ]
     }
   ]
 }

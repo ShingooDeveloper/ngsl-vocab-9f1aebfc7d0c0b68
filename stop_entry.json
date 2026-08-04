@@ -39,7 +39,7 @@
       "ipa": "/doʊnt stɑp ˈbɪldɪŋ jɔɚ ˈkæsəl/",
       "linking": [
         "n't は縮約で短い t",
-        "stop の末子音 /p/ が building の初頭母音 /b/ に？子音+子音で連結なし"
+        "stop の末子音 /p/ が building の初頭子音 /b/ に接触。子音+子音で連結なし"
       ],
       "kana": "ドウント スタップ ビルディング ユア キャセル"
     }
@@ -178,7 +178,7 @@
             "here の末の /r/ が is の初頭母音 /ɪ/ に先行し、r-linking で [hɪɾ]",
             "is の弱形 /ɪz/"
           ],
-          "kana": "スタッピング ヒアリズ セーフ"
+          "kana": "スタッピング ヒリズ セーフ"
         }
       ]
     },
@@ -205,7 +205,101 @@
             "The は弱形 /ðə/ ザ",
             "stops の末 /s/ が allow の初頭弱形 /ə/ に連結 [ˈstɑpsə] スタップサ"
           ],
-          "kana": "ザ スタップサロー エントリー"
+          "kana": "ザ スタップサ ラウ エントリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is stopping",
+      "ipa": "/ɪz ˈstɑpɪŋ/",
+      "examples": [
+        {
+          "en": "Water is stopping the lava flow.",
+          "ja": "水がラバ流を止めている。",
+          "ipa": "[ˈwɔɾɚ ɪz ˈstɑpɪŋ ðə ˈlɑvə ˌfloʊ]",
+          "linking": [
+            "Water の末は r-colored vowel /ɚ/",
+            "is は助動詞で弱形 /ɪz/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ウォラー イズ スタッピング ザ ラーバ フロー"
+        },
+        {
+          "en": "The piston is stopping you from entering.",
+          "ja": "ピストンが入場を妨げている。",
+          "ipa": "[ðə ˈpɪs.tən ɪz ˈstɑpɪŋ jə frəm ˈɛn.tɚ.ɪŋ]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "is は助動詞で弱形 /ɪz/",
+            "you の弱形 /jə/",
+            "from は前置詞で弱形 /frəm/"
+          ],
+          "kana": "ザ ピストン イズ スタッピング ヤ フラム エンタリング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was stopping",
+      "ipa": "/wəz ˈstɑpɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone was stopping the signal.",
+          "ja": "レッドストーンがシグナルを止めていた。",
+          "ipa": "[ðə ˈrɛd.stoʊn wəz ˈstɑpɪŋ ðə ˈsɪɡ.nəl]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "was は助動詞で弱形 /wəz/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ レッドストーン ワズ スタッピング ザ シグナル"
+        },
+        {
+          "en": "I was stopping the flow when it broke.",
+          "ja": "流れを止めていた時に壊れた。",
+          "ipa": "[aɪ wəz ˈstɑpɪŋ ðə floʊ wɛn ɪt broʊk]",
+          "linking": [
+            "was は助動詞で弱形 /wəz/",
+            "the は冠詞で弱形 /ðə/",
+            "it は代名詞で弱形 /ɪt/"
+          ],
+          "kana": "アイ ワズ スタッピング ザ フロー ウェン イット ブロウク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been stopping",
+      "ipa": "/həd bɪn ˈstɑpɪŋ/",
+      "examples": [
+        {
+          "en": "The mechanism had been stopping the redstone.",
+          "ja": "メカニズムがずっとレッドストーンを止めていた。",
+          "ipa": "[ðə ˈmɛk.ə.ˌnɪz.əm həd bɪn ˈstɑpɪŋ ðə ˈrɛd.stoʊn]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "had は助動詞で弱形 /həd/",
+            "been は助動詞で弱形 /bɪn/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ メカニズム ハド ビン スタッピング ザ レッドストーン"
+        },
+        {
+          "en": "The water had been stopping the lava before we logged off.",
+          "ja": "ログオフする前に、水がラバを止めていた。",
+          "ipa": "[ðə ˈwɔɾɚ həd bɪn ˈstɑpɪŋ ðə ˈlɑvə bɪˈfoɚ wi ˈlɑɡd ɔf]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "water の末は r-colored vowel /ɚ/",
+            "had は助動詞で弱形 /həd/",
+            "been は助動詞で弱形 /bɪn/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ ウォラー ハド ビン スタッピング ザ ラーバ ビフォア ウィ ロッゴフ"
         }
       ]
     }

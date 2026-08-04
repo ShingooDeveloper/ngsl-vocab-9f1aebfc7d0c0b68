@@ -57,5 +57,37 @@
       ],
       "kana": "ア ニュー アライヴァル フラム ザ クリエイティヴ モード スターティド ビルディング ア ヒュージ キャセル"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "arrivals",
+      "ipa": "/əˈraɪvəlz/",
+      "examples": [
+        {
+          "en": "The arrivals of new players excited everyone in the server.",
+          "ja": "新しいプレイヤーの到着がサーバーの全員を興奮させました。",
+          "ipa": "/ðə əˈraɪvəlz əv ˈnjuː ˈpleɪərz ɪkˈsaɪtəd ˈɛvriˌwʌn ɪn ðə ˈsɝvər/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "arrivals の末尾子音 /z/ が of の初頭母音 /ə/ に連結。of は弱形 /əv/ [əˈraɪvəlz əv] アライヴァルズ アヴ",
+            "in the → in は弱形、the も弱形"
+          ],
+          "kana": "ザ アライヴァルズ アヴ ニュー プレイヤーズ イクサイティド エヴリワン イン ザ サーヴァー"
+        },
+        {
+          "en": "Arrivals from the base brought news and supplies yesterday.",
+          "ja": "昨日、基地からの到着は、ニュースと物資をもたらしました。",
+          "ipa": "/əˈraɪvəlz frəm ðə ˈbeɪs brɔt ˈnjuːz ənd səˈplaɪz ˈjɛstərdeɪ/",
+          "linking": [
+            "Arrivals from → 子音+子音で自然に続く。from は弱形 /frəm/ フラム",
+            "from the → from の末尾 /m/ が the の初頭 /ð/ に連結。the は弱形 /ðə/",
+            "and supplies → and は弱形 /ənd/、supplies に続く"
+          ],
+          "kana": "アライヴァルズ フラム ザ ベイス ブロート ニューズ アンド サプライズ イェスタデイ"
+        }
+      ]
+    }
   ]
 }

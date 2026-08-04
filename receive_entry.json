@@ -190,6 +190,96 @@
           "kana": "ウィ アー リスィーヴィング シグナルズ フラム マルティプル レッドストウン センサーズ ポジションド アラウンド ザ パリメター"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is receiving",
+      "ipa": "/ɪz rɪˈsiːvɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is receiving apples from the tree farm automatically right now.",
+          "ja": "ホッパーは今、ツリーファームから自動的にリンゴを受け取っています。",
+          "ipa": "/ðə ˈhɑːpər ɪz rɪˈsiːvɪŋ ˈæpəlz frəm ðə ˈtri ˈfɑːrm ˈɔːtəmætɪkli ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is receiving → is は弱形 /ɪz/。語末子音zと母音rが連結 [ɪzrɪˈsiːvɪŋ] イズ リスィーヴィング",
+            "receiving apples → 語末子音ŋと母音æが連結 [rɪˈsiːvɪŋ ˈæpəlz] リスィーヴィング アップルズ",
+            "from the → from は弱形 /frəm/、the は子音の前なので /ðə/"
+          ],
+          "kana": "ザ ホッパー イズ リスィーヴィング アップルズ フラム ザ トリー ファーム オートマティカリー ライト ナウ"
+        },
+        {
+          "en": "I am receiving updates to my base whenever other players make changes.",
+          "ja": "他のプレイヤーが変更を加えるたびに、自分の拠点にアップデートを受け取っています。",
+          "ipa": "/aɪ æm rɪˈsiːvɪŋ ʌpˈdeɪts tu maɪ ˈbeɪs wɛnˈɛvər ˈʌðər ˈpleɪərz ˈmeɪk ˈtʃeɪndʒɪz/",
+          "linking": [
+            "am receiving → am は弱形 /əm/。語末子音mと母音rが続く",
+            "receiving updates → 語末子音ŋと母音ʌが連結 [rɪˈsiːvɪŋ ʌpˈdeɪts] リスィーヴィング アップデーツ",
+            "my base → 語末子音sと母音bが続く"
+          ],
+          "kana": "アイ アム リスィーヴィング アップデーツ トゥ マイ ベイス ウェンエヴァー アザー プレイヤーズ メイク チェンジズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was receiving",
+      "ipa": "/wəz rɪˈsiːvɪŋ/",
+      "examples": [
+        {
+          "en": "The storage system was receiving items when the power suddenly cut out.",
+          "ja": "ストレージシステムがアイテムを受け取っていたとき、電源が突然切れました。",
+          "ipa": "/ðə ˈstɔːrɪdʒ ˈsɪstəm wəz rɪˈsiːvɪŋ ˈaɪtəmz wɛn ðə ˈpaʊər ˈsʌdənli ˈkʌt ˈaʊt/",
+          "linking": [
+            "was receiving → was は弱形 /wəz/。語末子音zと母音rが連結 [wəzrɪˈsiːvɪŋ] ワズ リスィーヴィング",
+            "receiving items → 語末子音ŋと母音aɪが連結 [rɪˈsiːvɪŋ ˈaɪtəmz] リスィーヴィング アイテムズ",
+            "suddenly cut → 語末子音nと母音kが続く"
+          ],
+          "kana": "ザ ストレージ システム ワズ リスィーヴィング アイテムズ ウェン ダ パウアー サッデンリー カット アウト"
+        },
+        {
+          "en": "I was receiving healing effects from the beacon while standing in the light beam.",
+          "ja": "光ビームに立ちながら、ビーコンから回復効果を受け取っていました。",
+          "ipa": "/aɪ wəz rɪˈsiːvɪŋ ˈhiːlɪŋ ɪˈfɛkts frəm ðə ˈbiːkən waɪl ˈstændɪŋ ɪn ðə ˈlaɪt ˈbim/",
+          "linking": [
+            "was receiving → was は弱形 /wəz/。語末子音zと母音rが連結 [wəzrɪˈsiːvɪŋ] ワズ リスィーヴィング",
+            "receiving healing → 語末子音ŋと母音hが続く",
+            "the beacon → the は子音の前なので /ðə/"
+          ],
+          "kana": "アイ ワズ リスィーヴィング ヒーリング イフェクツ フラム ダ ビーコン ワイル スタンディング イン ダ ライト ビーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been receiving",
+      "ipa": "/hæd bɪn rɪˈsiːvɪŋ/",
+      "examples": [
+        {
+          "en": "By the time I arrived at the base, the automatic system had been receiving ores all morning.",
+          "ja": "拠点に到着するまでに、自動システムは一日中鉱石を受け取っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ əˈraɪvd æt ðə ˈbeɪs, ðiː ˌɔːtəˈmætɪk ˈsɪstəm hæd bɪn rɪˈsiːvɪŋ ˈɔːrz ˈɔːl ˈmɔːrnɪŋ/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/",
+            "receiving ores → 語末子音ŋと母音ɔːが連結 [rɪˈsiːvɪŋ ˈɔːrz] リスィーヴィング オーズ",
+            "all morning → 語末子音lと母音mが連結 [ˈɔːl ˈmɔːrnɪŋ] オール モーニング"
+          ],
+          "kana": "バイ ザ タイム アイ アライヴド アット ザ ベイス、ディ オートマティック システム ハド ビン リスィーヴィング オーズ オール モーニング"
+        },
+        {
+          "en": "The redstone detector had been receiving signals from the distant outpost for hours before anyone noticed.",
+          "ja": "誰かが気づくまで、レッドストーン検出器は遠い前哨地からの信号を何時間も受け取っていました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn dɪˈtɛktər hæd bɪn rɪˈsiːvɪŋ ˈsɪɡnəlz frəm ðə ˈdɪstənt ˈaʊtˌpoʊst fər ˈaʊərz bɪˈfɔːr ˈɛniˌwʌn ˈnoʊtɪst/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/",
+            "from the → from は弱形 /frəm/、the は子音の前なので /ðə/",
+            "before anyone → 語末子音rと母音ɛが連結 [bɪˈfɔːr ˈɛniˌwʌn] ビフォー エニワン"
+          ],
+          "kana": "ザ レッドストウン ディテクター ハド ビン リスィーヴィング シグナルズ フラム ザ ディスタント アウトポスト ファー アワーズ ビフォー エニワン ノウティスト"
+        }
+      ]
     }
   ]
 }

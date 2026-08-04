@@ -46,6 +46,36 @@
       "kana": "ア ジュリ アヴィクスピリエンスド プレイアーズ ウィリヴァルエイト ユア ベイス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "juries",
+      "ipa": "/ˈdʒʊriz/",
+      "examples": [
+        {
+          "en": "The juries must evaluate all the submitted builds.",
+          "ja": "陪審団たちが提出されたすべてのビルドを評価しなければならない。",
+          "ipa": "[ðə ˈdʒʊriz məst ɪˈvæljʊeɪt ɔl ðə səbˈmɪtəd ˈbɪldz]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "the submitted → 語末の /ə/ で弱化した the が /s/ に連結"
+          ],
+          "kana": "ザ ジュリーズ マスト イヴァルエイト オール ザ サブミティッド ビルズ"
+        },
+        {
+          "en": "Several juries are watching the creative competition live.",
+          "ja": "複数の陪審団がクリエイティブコンテストをライブで視聴している。",
+          "ipa": "[ˈsɛvərəl ˈdʒʊriz ɑr ˈwɑtʃɪŋ ðə kriˈeɪtɪv ˌkɑmpəˈtɪʃən ˈlaɪv]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "are watching → 語末子音 /r/ が /w/ に連結 [ɑrˈwɑtʃɪŋ] アーウォッチング"
+          ],
+          "kana": "セヴラル ジュリーズ アー ウォッチング ザ クリエイティヴ コンペティション ライヴ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "jury-rigged",

@@ -66,5 +66,70 @@
       ],
       "kana": "ソウラー パウワー イズ ザ ベスト アプション ファ ディス ビルド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more solar",
+      "ipa": "/mɔr ˈsoʊlɚ/",
+      "kana": "モア ソウラー",
+      "examples": [
+        {
+          "en": "My redstone farm is more solar than a cave setup.",
+          "ja": "私のレッドストーン農場は洞窟のセットアップより太陽光に依存しています。",
+          "ipa": "/maɪ ˈrɛdˌstoʊn fɑrm ɪz mɔr ˈsoʊlɚ ðæn ə keɪv ˈsɛtʌp/",
+          "linking": [
+            "farm の末尾 /m/ が is の初頭 /ɪ/ に連結 [fɑrm ɪz] ファーミズ",
+            "is は弱形 /ɪz/ で more の初頭 /m/ に連結 [ɪz mɔr] イズモア"
+          ],
+          "kana": "マイ レッドストーン ファーミズ モア ソウラー ザン ア ケイブ セッタップ"
+        },
+        {
+          "en": "A rooftop design is more solar because it catches more sunlight.",
+          "ja": "屋根構造は太陽光がより当たるため、より太陽光に依存しています。",
+          "ipa": "/ə ˈruːfˌtɑp dɪˈzaɪn ɪz mɔr ˈsoʊlɚ bɪˈkɔz ɪt ˈkætʃɪz mɔr ˈsʌnˌlaɪt/",
+          "linking": [
+            "A は冠詞で弱形 /ə/ で rooftop の初頭 /r/ に連結 [ə ˈruːfˌtɑp] アルーフトップ",
+            "design の末尾 /n/ が is の初頭 /ɪ/ に連結 [dɪˈzaɪn ɪz] デザイニズ",
+            "is は弱形 /ɪz/ で more の初頭 /m/ に連結 [ɪz mɔr] イズモア"
+          ],
+          "kana": "ア ルーフトップ デザイニズ モア ソウラー ビコーズ イット キャッチズ モア サンライト"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most solar",
+      "ipa": "/moʊst ˈsoʊlɚ/",
+      "kana": "モウスト ソウラー",
+      "examples": [
+        {
+          "en": "The tower setup is the most solar design I can build.",
+          "ja": "塔のセットアップは、私が建設できる最も太陽光に依存した設計です。",
+          "ipa": "/ðə ˈtaʊɚ ˈsɛtʌp ɪz ðə ˈmoʊst ˈsoʊlɚ dɪˈzaɪn aɪ kæn bɪld/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ で tower の初頭 /t/ に先行 [ðə ˈtaʊɚ] ザタウワー",
+            "is は弱形 /ɪz/ で the の初頭 /ð/ に連結 [ɪz ðə] イズザ",
+            "design の末尾 /n/ が I の初頭 /aɪ/ に連結 [dɪˈzaɪn aɪ] デザイナイ",
+            "can は弱形 /kən/ で build の初頭 /b/ に連結 [kən bɪld] カンビルド"
+          ],
+          "kana": "ザ タウワー セッタップ イズザ モウスト ソウラー デザイナイ カンビルド"
+        },
+        {
+          "en": "This location is the most solar spot in the entire world.",
+          "ja": "この場所はゲーム全体で最も太陽光が得られるスポットです。",
+          "ipa": "/ðɪs ˌloʊˈkeɪʃən ɪz ðə ˈmoʊst ˈsoʊlɚ spɑt ɪn ðə ənˈtaɪɚ wɝld/",
+          "linking": [
+            "location の末尾 /n/ が is の初頭 /ɪ/ に連結 [ˌloʊˈkeɪʃən ɪz] ロケーション イズ",
+            "is は弱形 /ɪz/ で the の初頭 /ð/ に連結 [ɪz ðə] イズザ",
+            "spot の末尾 /t/ は未開放で in の初頭 /ɪ/ に連結 [spɑt ɪn] スパッティン",
+            "entire の末尾 /r/ が world の初頭 /w/ に連結 [ənˈtaɪɚ wɝld] エンタイアワールド"
+          ],
+          "kana": "ディス ロケーション イズザ モウスト ソウラー スパッティン ザ エンタイアワールド"
+        }
+      ]
+    }
   ]
 }

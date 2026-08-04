@@ -59,5 +59,157 @@
       ],
       "kana": "マイ フレンド プレイダ トリック トリカン ミー バイ スワッピング マイ ダイモンズ ウィズ ダート"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "tricks",
+      "ipa": "/trɪks/",
+      "examples": [
+        {
+          "en": "The Ender Dragon learns new tricks from your commands.",
+          "ja": "エンダードラゴンはあなたのコマンドから新しいトリックを学ぶ。",
+          "ipa": "/ðə ˈɛndər ˈdræɡən lərnz nu ˈtrɪks frəm jɔr kəˈmændz/",
+          "linking": [
+            "the は弱形 /ðə/、Ender に連結 [ðə ˈɛndər] ザ エンダー",
+            "learns new → 子音+子音で自然に続く",
+            "from は弱形 /frəm/、your に連結"
+          ],
+          "kana": "ザ エンダー ドラゴン ラーンズ ニュー トリックス フラム ユア コマンズ"
+        },
+        {
+          "en": "Building tricks can help you survive in multiplayer mode.",
+          "ja": "建築テクニックはマルチプレイモードでの生存に役立つ。",
+          "ipa": "/ˈbɪldɪŋ ˈtrɪks kən ˈhɛlp ju sərˈvaɪv ɪn ˌmʌltiˈpleɪər ˈmoʊd/",
+          "linking": [
+            "building tricks → 子音+子音で自然に続く",
+            "can は弱形 /kən/、help に続く",
+            "survive in → 子音+母音で自然に続く"
+          ],
+          "kana": "ビルディング トリックス カン ヘルプ ユー サーヴァイヴ イン マルチプレイヤー モード"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "tricks",
+      "ipa": "/trɪks/",
+      "examples": [
+        {
+          "en": "He tricks Creepers into water to prevent explosions.",
+          "ja": "彼はクリーパーを水に騙して爆発を防ぐ。",
+          "ipa": "/hi ˈtrɪks ˈkriːpərz ˈɪntu ˈwɔtər tə prɪˈvɛnt ɪkˈsploʊʒənz/",
+          "linking": [
+            "He tricks → 子音+子音で自然に続く",
+            "tricks Creepers → 子音+子音で自然に続く（tricks は /ks/ で終わる）",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ヒー トリックス クリーパーズ イントゥ ウォーター タ プリヴェント イクスプロージョンズ"
+        },
+        {
+          "en": "The villager tricks other mobs into walking into traps.",
+          "ja": "村人は他のモブを騙してわなに歩かせる。",
+          "ipa": "/ðə ˈvɪlɪdʒər ˈtrɪks ˈʌðər ˈmoʊbz ˈɪntu ˈwɔːkɪŋ ˈɪntu ˈtræps/",
+          "linking": [
+            "the は弱形 /ðə/、villager に連結 [ðə ˈvɪlɪdʒər] ザ ビリッジャー",
+            "tricks other → 子音+子音で自然に続く",
+            "into は /ˈɪntu/、walking に続く"
+          ],
+          "kana": "ザ ビリッジャー トリックス アザー モブズ イントゥ ウォーキング イントゥ トラップス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "tricked",
+      "ipa": "/trɪkt/",
+      "examples": [
+        {
+          "en": "I tricked the Ender Dragon into falling from the platform.",
+          "ja": "エンダードラゴンをプラットフォームから落ちるように騙した。",
+          "ipa": "/aɪ ˈtrɪkt ðə ˈɛndər ˈdræɡən ˈɪntu ˈfɔːlɪŋ frəm ðə ˈplætfɔrm/",
+          "linking": [
+            "tricked の /t/ が未開放で the の /ð/ に接続 [ˈtrɪk̚ðə]「トリッ ザ」",
+            "the は弱形 /ðə/、Ender に連結",
+            "from は弱形 /frəm/、the に連結"
+          ],
+          "kana": "アイ トリッ ザ エンダー ドラゴン イントゥ フォーリング フラム ザ プラットフォーム"
+        },
+        {
+          "en": "We tricked the Warden by moving silently through its territory.",
+          "ja": "静かに移動することでワーデンを騙した。",
+          "ipa": "/wi ˈtrɪkt ðə ˈwɔːrdən baɪ ˈmuːvɪŋ ˈsaɪləntli θru ɪts ˈtɛrətɔri/",
+          "linking": [
+            "tricked の /t/ が未開放で the の /ð/ に接続 [ˈtrɪk̚ðə]「トリッ ザ」",
+            "by moving → 子音+子音で自然に続く",
+            "silently は [ˈsaɪləntli]、through に続く"
+          ],
+          "kana": "ウィ トリッ ザ ウォーデン バイ ムーヴィング サイレントリー スルー イッツ テリトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "tricked",
+      "ipa": "/trɪkt/",
+      "examples": [
+        {
+          "en": "Players have tricked Endermen by wearing carved pumpkins on their heads.",
+          "ja": "プレイヤーは刻まれたカボチャをかぶることでエンダーマンを騙した。",
+          "ipa": "/ˈpleɪərz hæv ˈtrɪkt ˈɛndərmən baɪ ˈwɛrɪŋ ˈkɑːrvd ˈpʌmpkɪnz ɑn ðɛər ˈhɛdz/",
+          "linking": [
+            "have は弱形 /həv/、tricked に続く [hæv ˈtrɪkt]「ハブ トリックド」",
+            "wearing carved → 子音+子音で自然に続く",
+            "on は /ɑn/、their は /ðɛr/ で続く [ɑn ðɛr]「オン ゼア」"
+          ],
+          "kana": "プレイヤーズ ハブ トリックド エンダーメン バイ ウェアリング カーヴド パンプキンズ オン ゼア ヘッズ"
+        },
+        {
+          "en": "We have tricked many mobs this session by using clever redstone contraptions.",
+          "ja": "巧妙なレッドストーン装置を使ってこのセッションで多くのモブを騙した。",
+          "ipa": "/wi hæv ˈtrɪkt ˈmɛni ˈmoʊbz ðɪs ˈsɛʃən baɪ ˈjuːzɪŋ ˈklɛvər ˈrɛdˌstoʊn kənˈtræpʃənz/",
+          "linking": [
+            "have は弱形 /həv/、tricked に続く",
+            "many mobs → 子音+子音で自然に続く",
+            "this session → 子音+子音で自然に続く [ðɪs ˈsɛʃən] ディス セッション"
+          ],
+          "kana": "ウィ ハブ トリックド メニー モブズ ディス セッション バイ ユージング クレヴァー レッドストーン コントラプションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "tricking",
+      "ipa": "/ˈtrɪkɪŋ/",
+      "examples": [
+        {
+          "en": "Tricking mobs into traps is a useful survival technique.",
+          "ja": "モブをわなに騙すことは有用なサバイバル技術だ。",
+          "ipa": "/ˈtrɪkɪŋ ˈmoʊbz ˈɪntu ˈtræps ɪz ə ˈjuːsfl sərˈvaɪvəl ˌtɛkˈnik/",
+          "linking": [
+            "Tricking mobs → 子音+子音で自然に続く",
+            "into traps → 子音+子音で自然に続く",
+            "is a → 子音+母音で自然に続く"
+          ],
+          "kana": "トリッキング モブズ イントゥ トラップス イズ ア ユースフル サーヴァイヴァル テクニック"
+        },
+        {
+          "en": "By tricking the Warden, you can avoid taking damage in deep dark caves.",
+          "ja": "ワーデンを騙すことで、ディープダークケーブのダメージを避けることができる。",
+          "ipa": "/baɪ ˈtrɪkɪŋ ðə ˈwɔːrdən ju kən əˈvɔɪd ˈteɪkɪŋ ˈdæmɪdʒ ɪn ˈdip ˈdɑːrk ˈkeɪvz/",
+          "linking": [
+            "By tricking → 子音+子音で自然に続く",
+            "tricking の /ŋ/ と the の /ð/ が続く、the は弱形 [ˈtrɪkɪŋ ðə] トリッキング ザ",
+            "can は弱形 /kən/"
+          ],
+          "kana": "バイ トリッキング ザ ウォーデン ユー カン アヴォイド テイキング ダミッジ イン ディープ ダーク ケイブズ"
+        }
+      ]
+    }
   ]
 }

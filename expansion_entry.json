@@ -42,5 +42,35 @@
       "kana": "ディス イクスパンション トゥック スリー ウィークス アヴ マイニング"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "expansions",
+      "ipa": "/ɪkˈspænʃənz/",
+      "examples": [
+        {
+          "en": "Multiple expansions require different types of blocks.",
+          "ja": "複数の拡張には異なる種類のブロックが必要です。",
+          "ipa": "/ˈmʌltɪpəl ɪkˈspænʃənz rɪˈkwaɪr ˈdɪfərənt ˈtaɪps əv ˈblɑks/",
+          "linking": [
+            "different と types の間で、different の末尾 /t/ が未開放 [t̚] となり、types の初頭 /t/ と連なって1つの /t/ に聞こえる → [ˈdɪfərənt̚ ˈtaɪps] ディファレント タイプス",
+            "of は機能語で弱形 /əv/ に弱化する。"
+          ],
+          "kana": "マルティプル イクスパンションズ リクワイア ディファレント タイプス アヴ ブラックス"
+        },
+        {
+          "en": "These expansions will take many days to complete.",
+          "ja": "これらの拡張工事は完了するまで多くの日数がかかります。",
+          "ipa": "/ðiz ɪkˈspænʃənz wɪl ˈteɪk ˈmɛni ˈdeɪz tə kəmˈplit/",
+          "linking": [
+            "will は助動詞で弱形 /əl/ に弱化し、take の初頭 /t/ と連なる傾向 → [əlˈteɪk] ウァル テイク",
+            "to は機能語で弱形 /tə/ に弱化する。"
+          ],
+          "kana": "ディーズ イクスパンションズ ウァル テイク メニ デイズ タ コンプリート"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

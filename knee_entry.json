@@ -56,5 +56,35 @@
       ],
       "kana": "ザ エンダー ドラゴン ブロット アス トゥ アワー ニーズ ウィズ イッツ デヴァスティング アタックス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "knees",
+      "ipa": "/niːz/",
+      "examples": [
+        {
+          "en": "You need to protect your knees from cave spiders when exploring deep.",
+          "ja": "深い洞窟を探索するときは、洞窟クモから膝を保護する必要があります。",
+          "ipa": "/ju ˈniːd tə prəˈtɛkt jɔr ˈniːz frəm ˈkeɪv ˈspaɪdɚz wɛn ɪkˈsplɔrɪŋ ˈdip/",
+          "linking": [
+            "need to → /d/ が未開放で /t/ に続く [ˈniːd̚ tə] ニード トゥ",
+            "from は弱形 /frəm/。"
+          ],
+          "kana": "ユー ニード トゥ プロテクト ユアー ニーズ フラム ケイヴ スパイダーズ ウェン エクスプローリング ディープ"
+        },
+        {
+          "en": "After the fall, your knees take damage like the rest of your body in the game.",
+          "ja": "落下後、膝はゲーム内の体の他の部分と同じようにダメージを受けます。",
+          "ipa": "/ˈæftɚ ðə ˈfɔl jɔr ˈniːz ˈteɪk ˈdæmɪdʒ ˈlaɪk ðə ˈrɛst əv jɔr ˈbɑdi ɪn ðə ɡeɪm/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（4回）。",
+            "rest of → /t/ が未開放で /əv/ に続く [ˈrɛs(t̚) əv] レス(トゥ) アヴ"
+          ],
+          "kana": "アフター ザ フォール ユアー ニーズ テイク ダメージ ライク ザ レスト アヴ ユアー バディ イン ザ ゲイム"
+        }
+      ]
+    }
   ]
 }

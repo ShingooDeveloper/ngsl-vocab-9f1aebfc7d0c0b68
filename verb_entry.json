@@ -56,5 +56,35 @@
       ],
       "kana": "ザ ヴァーブ クラフト ディスクライブズ ザ モウスト インポータント アクション イン マインクラフト"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "verbs",
+      "ipa": "/vɝbz/",
+      "examples": [
+        {
+          "en": "Every verb action in Minecraft requires player input.",
+          "ja": "マインクラフトのすべての動詞的動作はプレイヤーの入力が必要です。",
+          "ipa": "/ˈɛvri ˈvɝb ˈækʃən ɪn ˈmaɪnˌkɹæft rɪˈkwaɪrz ˈpleɪər ˈɪnpʊt/",
+          "linking": [
+            "verb action → verb の語末子音 /b/ が action の母音 /æ/ に連結 [ˈvɝbækʃən]",
+            "player input → player の語末子音 /r/ が input の母音 /ɪ/ に連結 [ˈpleɪərɪnpʊt]"
+          ],
+          "kana": "エヴリ ヴァーブ アクション イン マインクラフト リクワイアーズ プレイアー インプット"
+        },
+        {
+          "en": "These verbs explain different Minecraft activities clearly.",
+          "ja": "これらの動詞はマインクラフトのさまざまな活動を明確に説明しています。",
+          "ipa": "/ðiːz ˈvɝbz ɪkˈspleɪn ˈdɪfərənt ˈmaɪnˌkɹæft ækˈtɪvɪtiz ˈklɪrli/",
+          "linking": [
+            "verbs explain → verbs の語末子音 /z/ が explain の母音 /ɪ/ に連結 [ˈvɝbzɪkˈspleɪn]",
+            "different activities → different の語末子音 /t/ が activities の母音 /æ/ に連結 [ˈdɪfərəntækˈtɪvɪtiz]"
+          ],
+          "kana": "ディーズ ヴァーブズ イクスプレイン ディファレント マインクラフト アクティビティーズ クリアーリー"
+        }
+      ]
+    }
   ]
 }

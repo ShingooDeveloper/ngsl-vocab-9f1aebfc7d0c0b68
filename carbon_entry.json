@@ -43,5 +43,37 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "carbons",
+      "ipa": "/ˈkɑrbənz/",
+      "examples": [
+        {
+          "en": "Collect these carbons as soon as possible to complete your mining quest.",
+          "ja": "採掘クエストを完了するために、これらの炭素をできるだけ早く収集してください。",
+          "ipa": "/kəˈlɛkt ðiːz ˈkɑrbənz æz suːn æz ˈpɑsəbəl tə kəmˈpliːt jɔr ˈmaɪnɪŋ kwɛst/",
+          "linking": [
+            "carbons as → carbons の語末子音 /z/ が as の初頭母音 /æ/ に連結 [ˈkɑrbənz æz] カーボンズ エズ",
+            "to は機能語で弱形 /tə/ に弱化、complete の初頭 /k/ に連結",
+            "your は /jɔr/"
+          ],
+          "kana": "コレクト ディーズ カーボンズ エズ スーン エズ ポッサブル タ コンプリート ヨア マイニング クエスト"
+        },
+        {
+          "en": "Multiple carbons often appear in deep caves and mineshafts during exploration.",
+          "ja": "探検中に、複数の炭素が深い洞窟と鉱山道で頻繁に現れます。",
+          "ipa": "/ˈmʌltɪpəl ˈkɑrbənz ˈɔfən əˈpɪr ɪn diːp keɪvz ənd ˈmaɪnʃæfts ˈdʊrɪŋ ɛkspləˈreɪʃən/",
+          "linking": [
+            "carbons often → carbons の語末子音 /z/ が often の初頭母音 /ɔ/ に連結 [ˈkɑrbənz ˈɔfən] カーボンズ オーフン",
+            "appear in → appear の語末子音 /r/ が in の初頭母音 /ɪ/ に連結 [əˈpɪr ɪn] アピア イン",
+            "caves and → caves の語末子音 /z/ が and の初頭母音 /ə/ に連結、and は弱形 /ənd/ [keɪvz ənd] ケイブズ エンド"
+          ],
+          "kana": "マルティプル カーボンズ オーフン アピア イン ディープ ケイブズ エンド マインシャフツ ドゥーリング エクスプロレイション"
+        }
+      ]
+    }
+  ]
 }

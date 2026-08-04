@@ -42,6 +42,36 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "pianos",
+      "ipa": "/pɪˈænoz/",
+      "examples": [
+        {
+          "en": "I need a few pianos for my concert hall.",
+          "ja": "僕のコンサートホール用にピアノが何台か必要だ。",
+          "ipa": "[aɪ ˈniːdə ˈfju pɪˈænoz fɚ maɪ ˈkɑnsɚt hɔl]",
+          "kana": "アイ ニーダ フュー ピアノズ ファー マイ コンサート ホール",
+          "linking": [
+            "need + a：末尾の /d/ が次の母音 /ə/ に連結 → [ˈniːdə]",
+            "for は機能語で弱形 [fɚ]"
+          ]
+        },
+        {
+          "en": "These pianos are placed all around our music room.",
+          "ja": "これらのピアノは、僕らの音楽室の周りに配置されている。",
+          "ipa": "[ðiz pɪˈænoz ɑr pleɪst ɔl əˈraʊnd ɑɚ ˈmjuːzɪk rum]",
+          "kana": "ディーズ ピアノズ アー プレイスト オール アラウンド アワー ミュージック ルーム",
+          "linking": [
+            "are は機能語で弱形 [ɑr]",
+            "our は機能語で弱形 [ɑɚ]"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "play the piano",

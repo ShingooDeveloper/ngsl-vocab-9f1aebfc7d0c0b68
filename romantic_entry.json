@@ -81,5 +81,62 @@
       ],
       "kana": "ビルディング ア ヴィレッジ イン ザ マウンテンズ イズ ア ロウマンティック アイディア"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more romantic",
+      "ipa": "/moɚ roʊˈmæntɪk/",
+      "examples": [
+        {
+          "en": "This sunset is more romantic than mine.",
+          "ja": "この夕焼けは私のものより素敵だ。",
+          "ipa": "/ðɪs ˈsʌnˌsɛt ɪz ˈmoɚ roʊˈmæntɪk ðæn maɪn/",
+          "linking": [
+            "more の語末子音 /ɚ/ が romantic の初頭母音 /oʊ/ に連結 [moɚoʊˈmæntɪk]"
+          ],
+          "kana": "ディス サンセット イズ モアロマンティック ザン マイン"
+        },
+        {
+          "en": "Moonlight makes the world more romantic.",
+          "ja": "月光は世界をより素敵にします。",
+          "ipa": "/ˈmuːnˌlaɪt ˈmeɪks ðə ˈwɝld ˈmoɚ roʊˈmæntɪk/",
+          "linking": [
+            "makes の末尾子音 /z/ が the の初頭母音 /ðə/ に連結",
+            "more の語末子音 /ɚ/ が romantic の初頭母音 /oʊ/ に連結"
+          ],
+          "kana": "ムーンライト メイクス ザ ワールド モアロマンティック"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most romantic",
+      "ipa": "/moʊst roʊˈmæntɪk/",
+      "examples": [
+        {
+          "en": "The most romantic place in Minecraft is the cherry grove.",
+          "ja": "Minecraftで最も素敵な場所はチェリーグローブです。",
+          "ipa": "/ðə ˈmoʊs̚ roʊˈmæntɪk pleɪs ɪn ˈmaɪnˌkræft ɪz ðə ˈtʃɛri ɡroʊv/",
+          "linking": [
+            "The は弱形 /ðə/、most の語末 /t/ は未開放 [moʊs̚]",
+            "is の末尾 /z/ が the の弱形 /ðə/ に連結"
+          ],
+          "kana": "ザ モース ロマンティック プレイス イン マインクラフト イズ ザ チェリー グロウヴ"
+        },
+        {
+          "en": "This is the most romantic moment of our adventure.",
+          "ja": "これは私たちの冒険の中で最も素敵な瞬間です。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊs̚ roʊˈmæntɪk ˈmoʊmənt əv ˈaʊɚ ədˈvɛntʃɚ/",
+          "linking": [
+            "is の末尾 /z/ が the の弱形 /ðə/ に連結",
+            "moment の語末 /t/ は未開放、of は弱形 /əv/"
+          ],
+          "kana": "ディス イズ ザ モース ロマンティック モーメント アヴ アワー アドベンチャー"
+        }
+      ]
+    }
   ]
 }

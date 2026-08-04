@@ -43,6 +43,148 @@
       "kana": "カンユー フェンス オフ ディシエリア"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "fences",
+      "ipa": "/ˈfensɪz/",
+      "examples": [
+        {
+          "en": "I placed fences around our camp.",
+          "ja": "私たちのキャンプの周りに柵を設置した。",
+          "ipa": "/aɪ ˈpleɪst ˈfensɪz əˈraʊnd ˈaʊr ˈkæmp/",
+          "linking": [
+            "placed の末尾子音 /t/ が fences の初頭子音 /f/ に連結しない。むしろ未開放で [t̚]。",
+            "around の末尾子音 /d/ が our の初頭母音 /aʊ/ に連結。[əˈraʊnd ˈaʊr]→[əˈraʊndaʊr]→「アラウンダウアー」"
+          ],
+          "kana": "アイ プレイスト フェンシズ アラウンダウアー キャンプ"
+        },
+        {
+          "en": "I need fences to build a safe zone.",
+          "ja": "安全なゾーンを構築するために柵が必要だ。",
+          "ipa": "/aɪ ˈnid ˈfensɪz tə ˈbɪld ə ˈseɪf ˈzoʊn/",
+          "linking": [
+            "need の末尾子音 /d/ が fences の初頭子音 /f/ に連結しない。",
+            "build の末尾子音 /d/ が a の初頭母音 /ə/（弱形）に連結。[ˈbɪld ə]→「ビルダ」"
+          ],
+          "kana": "アイ ニード フェンシズ タ ビルダ セイフ ゾーン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "fences",
+      "ipa": "/ˈfensɪz/",
+      "examples": [
+        {
+          "en": "He fences off the spider spawner area.",
+          "ja": "彼はクモのスポーナー区域を柵で隔離する。",
+          "ipa": "/hi ˈfensɪz ɔf ðə ˈspaɪdər ˈspɔnər ˈɛriə/",
+          "linking": [
+            "fences の末尾子音 /z/ が off の初頭母音 /ɔ/ に連結。[ˈfensɪzɔf]→「フェンシゾフ」",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ヒー フェンシゾフ ザ スパイダー スポナー エリア"
+        },
+        {
+          "en": "Each player fences around their base now.",
+          "ja": "各プレイヤーが今、拠点の周りに柵を設置する。",
+          "ipa": "/itʃ ˈpleɪər ˈfensɪz əˈraʊnd ðɛr ˈbeɪs ˈnaʊ/",
+          "linking": [
+            "fences の末尾子音 /z/ が around の初頭母音 /ə/ に連結。[ˈfensɪzəˈraʊnd]→「フェンシザラウンド」",
+            "around の末尾子音 /d/ が their の初頭子音 /ð/ に連結しない。むしろ their は弱形 /ðɛr/。"
+          ],
+          "kana": "イッチ プレイアー フェンシザラウンド ザー ベイス ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "fenced",
+      "ipa": "/fenst/",
+      "examples": [
+        {
+          "en": "I fenced off the lava pool yesterday.",
+          "ja": "昨日、溶岩プールを柵で隔離した。",
+          "ipa": "/aɪ ˈfɛnst ɔf ðə ˈlɑvə ˈpul ˈjɛstərdi/",
+          "linking": [
+            "fenced の末尾子音 /t/ が off の初頭母音 /ɔ/ に連結。[ˈfɛnstɔf]→「フェンストオフ」",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "アイ フェンストオフ ザ ラバ プール イェスタディ"
+        },
+        {
+          "en": "We fenced off an area for crops.",
+          "ja": "私たちは作物のための区域を柵で隔離した。",
+          "ipa": "/wi ˈfɛnst ɔf ən ˈɛriə fɔr ˈkrɑps/",
+          "linking": [
+            "fenced の末尾子音 /t/ が off の初頭母音 /ɔ/ に連結。[ˈfɛnstɔf]→「フェンストオフ」",
+            "for は前置詞で弱形 /fɚ/。"
+          ],
+          "kana": "ウィ フェンストオフ アン エリア フォー クラップス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "fenced",
+      "ipa": "/fenst/",
+      "examples": [
+        {
+          "en": "The fenced area protects sheep from wolves.",
+          "ja": "柵で囲まれた区域は羊をオオカミから守る。",
+          "ipa": "/ðə ˈfɛnst ˈɛriə prəˈtɛkts ˈʃip frəm ˈwulvz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "fenced の末尾子音 /t/ が area の初頭母音 /ɛ/ に連結。[ˈfɛnstˈɛriə]→「フェンステリア」"
+          ],
+          "kana": "ザ フェンステリア プロテクツ シープ フラム ウルブズ"
+        },
+        {
+          "en": "The fenced island provides safety.",
+          "ja": "柵で囲まれた島は安全を提供する。",
+          "ipa": "/ðə ˈfɛnst ˈaɪlənd prəˈvaɪdz ˈseɪfti/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "fenced の末尾子音 /t/ が island の初頭母音 /aɪ/ に連結。[ˈfɛnstˈaɪlənd]→「フェンスタイランド」"
+          ],
+          "kana": "ザ フェンスタイランド プロバイズ セイフティ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "fencing",
+      "ipa": "/ˈfensɪŋ/",
+      "examples": [
+        {
+          "en": "We start fencing our base immediately.",
+          "ja": "私たちはすぐに拠点を柵で囲み始める。",
+          "ipa": "/wi ˈstɑrt ˈfensɪŋ ˈaʊr ˈbeɪs ɪˈmidiətli/",
+          "linking": [
+            "start の末尾子音 /t/ が fencing の初頭子音 /f/ に連結しない。むしろ未開放で [t̚]。",
+            "fencing の末尾音 /ŋ/ が our の初頭母音 /aʊ/ に連結。[ˈfensɪŋ ˈaʊr]→「フェンシング アウアー」"
+          ],
+          "kana": "ウィ スターティング フェンシング アウアー ベイス イミーディアットリー"
+        },
+        {
+          "en": "Fencing areas stops mobs from entering.",
+          "ja": "区域を柵で囲むことはモブが侵入するのを防ぐ。",
+          "ipa": "/ˈfensɪŋ ˈɛriəz ˈstɑps ˈmɑbz frəm ˈɛntərɪŋ/",
+          "linking": [
+            "fencing の末尾音 /ŋ/ が areas の初頭母音 /ɛ/ に連結。[ˈfensɪŋ ˈɛriəz]→「フェンシング エリアズ」",
+            "from は前置詞で弱形 /frəm/。"
+          ],
+          "kana": "フェンシング エリアズ ストップス モブズ フラム エンタリング"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "fence in",

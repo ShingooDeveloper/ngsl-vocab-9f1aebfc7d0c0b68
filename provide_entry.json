@@ -197,6 +197,100 @@
           "kana": "ウィ アー プロヴァイディング サプライズ トゥ オール ティーム メンバーズ エヴリ ウィーク"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is providing",
+      "ipa": "/ɪz prəˈvaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The server is providing free resources for all new players.",
+          "ja": "このサーバーは、すべての新規プレイヤーに無料のリソースを提供しています。",
+          "ipa": "/ðə ˈsɚvər ɪz prəˈvaɪdɪŋ ˈfri ˈrɛsɚsɪz fɚ ɔl ˈnu ˈpleɪərz/",
+          "linking": [
+            "server is → 語末の r が i に連結 [ˈsɚvər ɪz]",
+            "is providing → is の語末 /z/ が p に続く（子音+子音）。is は弱形 /ɪz/",
+            "for all → for は弱形 /fɚ/ で all に続く [fɚ ɔl]"
+          ],
+          "kana": "ザ サーバー イズ プロヴァイディング フリー レソーシーズ ファ オール ニュー プレイヤーズ"
+        },
+        {
+          "en": "We are providing shelter while our team mines for diamonds.",
+          "ja": "私たちがダイヤを採掘している間、チームに避難所を提供しています。",
+          "ipa": "/wi ɑɹ prəˈvaɪdɪŋ ˈʃɛltər waɪl ˈaʊɚ ˈtim maɪnz fɚ ˈdaɪməndz/",
+          "linking": [
+            "are providing → are の r が p に続く（子音+子音）",
+            "while our → while の l が o に連結 [waɪl ˈaʊ]",
+            "for diamonds → for は弱形 /fɚ/"
+          ],
+          "kana": "ウィ アー プロヴァイディング シェルター ワイル アワー ティーム マインズ ファ ダイマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was providing",
+      "ipa": "/wəz prəˈvaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "He was providing directions to the base when the creeper exploded.",
+          "ja": "クリーパーが爆発したとき、彼は基地への道順を提供していました。",
+          "ipa": "/hi wəz prəˈvaɪdɪŋ dərɛkˈʃənz tu ðə ˈbeɪs wɛn ðə ˈkripər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was providing → was の z が p に続く（子音+子音）。was は弱形 /wəz/",
+            "providing directions → ng が d に続く（鼻音+子音）",
+            "to the → to は弱形 /tə/ で the の /ðə/ に続く [tə ðə]"
+          ],
+          "kana": "ヒー ワズ プロヴァイディング ディレクションズ タ ザ ベース ウェン ザ クリーパー エクスプロウディド"
+        },
+        {
+          "en": "They were providing materials for the construction of our castle.",
+          "ja": "彼らは私たちの城の建設のための材料を提供していました。",
+          "ipa": "/ðeɪ wɚ prəˈvaɪdɪŋ mətɪriəlz fɚ ðə kənˈstrʌkʃən əv ˈaʊɚ ˈkæsəl̚/",
+          "linking": [
+            "were providing → were の r が p に続く（子音+子音）",
+            "providing materials → ng が m に続く（鼻音+子音）",
+            "for the → for は弱形 /fɚ/ で the の /ðə/ に続く [fɚ ðə]",
+            "of our → of は弱形 /əv/ で our に続く [əv ˈaʊ]"
+          ],
+          "kana": "ゼイ ワー プロヴァイディング マテリアルズ ファ ザ カンストラクション アヴ アワー キャスル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been providing",
+      "ipa": "/hæd bɪn prəˈvaɪdɪŋ/",
+      "examples": [
+        {
+          "en": "We had been providing light to prevent mob spawning for months.",
+          "ja": "私たちは数ヶ月間、モブの湧くのを防ぐための照明を提供していました。",
+          "ipa": "/wi hæd bɪn prəˈvaɪdɪŋ laɪt̚ tu prɪˈvɛnt̚ mɑb ˈspoːnɪŋ fɚ ˈmʌnθs/",
+          "linking": [
+            "had been → had は弱形 /həd/ で been に続く。been は弱形 /bɪn/。語末の d が b に続く（子音+子音）",
+            "been providing → ng が p に続く（鼻音+子音）",
+            "light to → light の t が未開放で to に続く [laɪt̚ tə]。to は弱形 /tə/",
+            "for months → for は弱形 /fɚ/"
+          ],
+          "kana": "ウィ ハド ビン プロヴァイディング ライット トゥ プリヴェント マッブ スポーニング ファ マンスス"
+        },
+        {
+          "en": "The water system had been providing infinite water before the redstone broke.",
+          "ja": "レッドストーンが壊れる前に、ウォーターシステムは無限の水を供給していました。",
+          "ipa": "/ðə ˈwɔtər ˈsɪstəm hæd bɪn prəˈvaɪdɪŋ ɪnˈfɪnɪt ˈwɔtər bɪˈfɔr ðə ˈrɛdˌstoʊn broʊk/",
+          "linking": [
+            "the water → the は弱形 /ðə/ で water に続く [ðə ˈwɔ]",
+            "system had → system の m が h に続く（鼻音+子音）。had は弱形で /həd/",
+            "had been → 語末の d が b に続く（子音+子音）。been は弱形 /bɪn/",
+            "providing infinite → ng が i に続く（鼻音+母音で流暢に）",
+            "the redstone → the は弱形 /ðə/ で redstone に続く [ðə ˈrɛ]"
+          ],
+          "kana": "ザ ウォーター システム ハド ビン プロヴァイディング インフィニット ウォーター ビフォア ザ レッドストーン ブロウク"
+        }
+      ]
     }
   ]
 }

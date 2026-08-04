@@ -1,0 +1,140 @@
+{
+  "word": "process",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ˈprɑːsɛs/ (noun), /prəˈsɛs/ (verb)",
+  "rank": 1544,
+  "level": "B1",
+  "hi": "process(?:es|ing|ed)?",
+  "meanings": [
+    "【動詞】（データ・情報などを）処理する、加工する（handle or deal with）",
+    "【動詞】（段階的に）処理する、進める（to move or progress through）",
+    "【名詞】プロセス、過程、処理方法（a series of actions or steps）",
+    "【名詞】進行中の状況、最中（the state of being in progress）"
+  ],
+  "examples": [
+    {
+      "en": "The server processes millions of player actions every second.",
+      "ja": "サーバーは毎秒何百万ものプレイヤーアクションを処理します。",
+      "ipa": "/ðə ˈsɝvər ˈprɑːsɛsɪz ˈmɪl.jənz əv ˈpleɪər ˈæk.ʃənz ˈɛv.ri ˈsɛk.ənd/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "processes の語末 /z/ が millions の /m/ に連結"
+      ],
+      "kana": "ザ サーバー プロセシーズ ミリオンズ アヴ プレイヤー アクションズ エブリー セカンド"
+    },
+    {
+      "en": "I need to process the ore I just mined.",
+      "ja": "採掘したばかりの鉱石を処理する必要があります。",
+      "ipa": "/aɪ ˈniːd tə ˈprɑːsɛs ðə ˈɔr aɪ ˈdʒʌst ˈmaɪnd/",
+      "linking": [
+        "to は弱形 /tə/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "アイ ニード タ プロセス ザ オア アイ ジャスト マインド"
+    },
+    {
+      "en": "Processing raw materials is essential for crafting advanced tools.",
+      "ja": "高度なツール作成には、原材料の処理が不可欠です。",
+      "ipa": "/ˈprɑːsɛs.ɪŋ ˈrɔ mə.ˈtɪr.i.əlz ɪz ɪˈsɛn.ʃəl fər ˈkræf.tɪŋ ədˈvænst ˈtulz/",
+      "linking": [
+        "is は弱形 /ɪz/",
+        "for は弱形 /fər/"
+      ],
+      "kana": "プロセッシング ロー マテリアルズ イズ イセンシャル ファー クラフティング アドヴァンスト ツールズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is processing",
+      "ipa": "/ɪz ˈprɑːsɛs.ɪŋ/",
+      "examples": [
+        {
+          "en": "The server is processing chunk updates as we explore the world.",
+          "ja": "私たちが世界を探索する中、サーバーがチャンク更新を処理しています。",
+          "ipa": "/ðə ˈsɝvər ɪz ˈprɑːsɛs.ɪŋ ˈtʃʌŋk ˈʌp.deɪts əz wi ɪkˈsplɔr ðə ˈwɝld/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "is も機能語で弱形 /ɪz/、server の /r/ に後続",
+            "as は機能語で弱形 /əz/"
+          ],
+          "kana": "ザ サーバー イズ プロセッシング チャンク アップデイツ アズ ウィ イクスプロア ザ ワールド"
+        },
+        {
+          "en": "I'm processing raw materials in the furnace right now.",
+          "ja": "今、炉で原材料を処理しています。",
+          "ipa": "/aɪm ˈprɑːsɛs.ɪŋ ˈrɔ mə.ˈtɪr.i.əlz ɪn ðə ˈfɝnɪs ˈraɪt ˈnaʊ/",
+          "linking": [
+            "I'm /aɪm/ は I am の弱形で、am /əm/ が /m/ に弱化",
+            "in は前置詞で /ɪn/",
+            "the は機能語で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイム プロセッシング ロー マテリアルズ イン ザ ファーニス ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was processing",
+      "ipa": "/wəz ˈprɑːsɛs.ɪŋ/",
+      "examples": [
+        {
+          "en": "I was processing ore when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発した時、鉱石を処理していました。",
+          "ipa": "/aɪ wəz ˈprɑːsɛs.ɪŋ ˈɔr wɛn ðə ˈkripər ɪkˈsploʊd.ɪd ˈnɪr.baɪ/",
+          "linking": [
+            "was は機能語で弱形 /wəz/ ワズ",
+            "the は機能語で弱形 /ðə/ ザ",
+            "when は準機能語で /wɛn/"
+          ],
+          "kana": "アイ ワズ プロセッシング オア ホェン ザ クリーパー イクスプロウディド ニアバイ"
+        },
+        {
+          "en": "The system was processing world data when the lag spike occurred.",
+          "ja": "ラグスパイクが発生した時、システムがワールドデータを処理していました。",
+          "ipa": "/ðə ˈsɪs.təm wəz ˈprɑːsɛs.ɪŋ ˈwɝld ˈdeɪ.tə wɛn ðə ˈlæg ˈspaɪk ə.ˈkɝd/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "was は機能語で弱形 /wəz/ ワズ",
+            "when は準機能語で /wɛn/"
+          ],
+          "kana": "ザ システム ワズ プロセッシング ワールド デイタ ホェン ザ ラグ スパイク アカード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been processing",
+      "ipa": "/həd ˈbɪn ˈprɑːsɛs.ɪŋ/",
+      "examples": [
+        {
+          "en": "I had been processing diamonds for hours before I found the ancient city.",
+          "ja": "古代都市を見つける前、ダイヤモンドを何時間も処理していました。",
+          "ipa": "/aɪ həd ˈbɪn ˈprɑːsɛs.ɪŋ ˈdaɪ.məndz fər ˈaʊərz bɪˈfɔr aɪ ˈfaʊnd ðə ˈeɪ.ʃənt ˈsɪt.i/",
+          "linking": [
+            "had は機能語で弱形 /həd/ ハド",
+            "been は機能語で弱形 /bɪn/ ビン",
+            "for は機能語で弱形 /fər/ ファー",
+            "the は機能語で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハド ビン プロセッシング ダイモンズ ファー アワーズ ビフォア アイ ファウンド ザ エイシャント シティ"
+        },
+        {
+          "en": "The redstone system had been processing calculations all morning before it stabilized.",
+          "ja": "安定するまで、レッドストーンシステムは朝ずっと計算を処理していました。",
+          "ipa": "/ðə ˈrɛd.stoʊn ˈsɪs.təm həd ˈbɪn ˈprɑːsɛs.ɪŋ ˌkæl.kjə.ˈleɪ.ʃənz ˈɔl ˈmɔr.nɪŋ bɪˈfɔr ɪt ˈsteɪ.bə.laɪzd/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "had は機能語で弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "before は /bɪˈfɔr/、it は /ɪt/ イット"
+          ],
+          "kana": "ザ レッドストーン システム ハド ビン プロセッシング カルキュレーションズ オール モーニング ビフォア イット ステイバライズド"
+        }
+      ]
+    }
+  ]
+}

@@ -59,5 +59,37 @@
       ],
       "kana": "アイ トライタ マイン ダイアモンズ タザ マクシマム デプス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "maximums",
+      "ipa": "/ˈmæksɪməmz/",
+      "examples": [
+        {
+          "en": "The maximums in this server are much higher.",
+          "ja": "このサーバーの最大値ははるかに高いです。",
+          "ipa": "/ðə ˈmæksɪməmz ɪn ðɪs ˈsɜrvɚ ər ˈmʌtʃ ˈhaɪɚ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "maximums in → /z/ が /ɪ/ に連結 [ˈmæksɪməmzɪn]",
+            "are は弱形 /ər/"
+          ],
+          "kana": "ザ マクシマムズ イン ディス サーバー ア マッチ ハイアー"
+        },
+        {
+          "en": "We compared all the maximums from different modes.",
+          "ja": "異なるモードからすべての最大値を比較しました。",
+          "ipa": "/wi kəmˈpɛrd ɔl ðə ˈmæksɪməmz frəm ˈdɪfərənt ˈmoʊdz/",
+          "linking": [
+            "compared all → /d/ が /ɔ/ に連結 [kəmˈpɛrd ɔl]",
+            "the は弱形 /ðə/",
+            "maximums from → /z/ + /f/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ カムペアード オール ザ マクシマムズ フラム ディファレント モードズ"
+        }
+      ]
+    }
   ]
 }

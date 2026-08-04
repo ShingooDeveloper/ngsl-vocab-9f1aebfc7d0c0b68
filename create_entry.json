@@ -153,6 +153,91 @@
           "kana": "クリエイティング イフィシェント レッドストーン マシーンズ リクワイアーズ ケアフル プランニング アン テスティング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is creating",
+      "ipa": "/ɪz kriˈeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She is creating a new building near the spawn point.",
+          "ja": "彼女はスポーン地点の近くに新しい建物を作成しています。",
+          "ipa": "/ʃi ɪz kriˈeɪtɪŋ ə ˈnjuː ˈbɪldɪŋ ˈnɪr ðə ˈspoʊn pɔɪnt/",
+          "linking": [
+            "is: 助動詞は弱形 /ɪz/",
+            "a new: a は弱形 /ə/。new の初頭 /n/ に連結。[ə ˈnjuː] アニュー",
+            "near the: near の語末 /r/ が the の初頭母音 /ə/ に連結。[ˈnɪr ðə] ニアザ"
+          ],
+          "kana": "シー イズ クリエイティング ア ニュー ビルディング ニア ザ スポーン ポイント"
+        },
+        {
+          "en": "We are creating an underground maze for the adventure map.",
+          "ja": "私たちはアドベンチャーマップ用の地下迷路を作成しています。",
+          "ipa": "/wi ɑr kriˈeɪtɪŋ ən ˌʌndərˈɡraʊnd meɪz fɔr ðɪ ədˈvɛntʃər mæp/",
+          "linking": [
+            "are: 助動詞は弱形 /ɑr/",
+            "an underground: an は弱形 /ən/"
+          ],
+          "kana": "ウィ アー クリエイティング アン アンダーグラウンド メイズ フォー ディー エドベンチャー マップ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was creating",
+      "ipa": "/wəz kriˈeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was creating the farm when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、私は農場を作成していました。",
+          "ipa": "/aɪ wəz kriˈeɪtɪŋ ðə fɑrm wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "was: 助動詞は弱形 /wəz/",
+            "the farm: the は弱形 /ðə/。farm の初頭に続く。"
+          ],
+          "kana": "アイ ワズ クリエイティング ザ ファーム ウェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "We were creating a tunnel when we encountered a creeper.",
+          "ja": "トンネルを作成しているとき、私たちはクリーパーに遭遇しました。",
+          "ipa": "/wi wər kriˈeɪtɪŋ ə ˈtʌnəl wɛn wi ɪnˈkaʊntərd ə ˈkriːpər/",
+          "linking": [
+            "were: 助動詞は弱形 /wər/",
+            "encountered a: encountered の語末 /d/ が a の初頭母音 /ə/ に連結。[ɪnˈkaʊntərd ə] インカウンターダ"
+          ],
+          "kana": "ウィ ワー クリエイティング ア タンネル ウェン ウィ インカウンターダ ア クリーパー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been creating",
+      "ipa": "/həd bɪn kriˈeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been creating the base for hours before we found diamonds.",
+          "ja": "ダイヤモンドを見つける前に、私たちは何時間もベースを作成していました。",
+          "ipa": "/wi həd bɪn kriˈeɪtɪŋ ðə beɪs fɔr ˈaʊərz bɪˈfɔr wi faʊnd ˈdaɪməndz/",
+          "linking": [
+            "had been: had は弱形 /həd/。been は弱形 /bɪn/。[həd bɪn] ハド ビン",
+            "the base: the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ビン クリエイティング ザ ベース フォー アワーズ ビフォー ウィ ファウンド ダイモンズ"
+        },
+        {
+          "en": "He had been creating a redstone computer for weeks.",
+          "ja": "彼は何週間もレッドストーンコンピュータを作成していました。",
+          "ipa": "/hi həd bɪn kriˈeɪtɪŋ ə ˈɹɛdˌstoʊn kəmˈpjuːtər fɔr wiks/",
+          "linking": [
+            "had been: had は弱形 /həd/。been は弱形 /bɪn/",
+            "for weeks: for は弱形 /fər/"
+          ],
+          "kana": "ヒー ハド ビン クリエイティング ア レッドストーン コンピューター フォー ウィークス"
+        }
+      ]
     }
   ],
   "idioms": []

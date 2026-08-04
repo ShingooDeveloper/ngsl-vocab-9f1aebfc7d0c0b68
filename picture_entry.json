@@ -148,8 +148,8 @@
           "ipa": "/ðə ˈpɪktʃərz əv ˈaʊɚ ˈvɪlɪdʒ ˈkæptʃɚd ˈɛvri ˈbɪld ˈpɜːrfɪktli/",
           "linking": [
             "the pictures → the は弱形 /ðə/",
-            "pictures of → /z/ + /ə/ が連結 [ˈpɪktʃərz əv] ピクチャーズ オヴ",
-            "of our → /v/ + /aʊ/ が連結、our は弱形 /ɚ/ [əv ˈaʊɚ] オバー"
+            "pictures of → 語末子音 /z/ が of の初頭母音 /ə/ に連結、of は弱形 /əv/",
+            "of our → of の末尾子音 /v/ が our の初頭母音 /aʊ/ に連結"
           ],
           "kana": "ダ ピクチャーズ オバー ビリッジ キャプチャード エブリー ビルド パーフェクトリー"
         }
@@ -177,8 +177,8 @@
           "ja": "彼女は頭の中で大規模なレッドストーン機械を思い描いている。",
           "ipa": "/ʃi ˈpɪktʃərz ə ˈmæsɪv ˈrɛdˌstoʊn kənˈtræpʃən ɪn hɚ ˈmaɪnd/",
           "linking": [
-            "pictures a → /z/ + /ə/ が連結 [ˈpɪktʃərz ə] ピクチャーズ ア",
-            "in her → /n/ + /ɚ/ が連結、her は弱形 /ɚ/ [ɪn hɚ] インナー"
+            "pictures a → 語末子音 /z/ が a の初頭母音 /ə/ に連結",
+            "in her → 語末子音 /n/ が her の初頭母音 /ɚ/ に連結、her は弱形 /hɚ/"
           ],
           "kana": "シー ピクチャーズ ア マッシヴ レッドストーン カントラプション インナー マインド"
         }
@@ -272,6 +272,96 @@
             "mechanism would → /m/ + /w/ (consonant+consonant、連結なし)、would は弱形 /wəd/"
           ],
           "kana": "アイ スペント アワーズ ピクチャリング ハウ ザ レッドストーン メカニズム ウッド ワーク"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is picturing",
+      "ipa": "/ɪz ˈpɪktʃərɪŋ/",
+      "examples": [
+        {
+          "en": "I am picturing where to build my next castle.",
+          "ja": "次の城をどこに建てるか想像している。",
+          "ipa": "/aɪ əm ˈpɪktʃərɪŋ wɛr tə ˈbɪld maɪ ˈnɛkst ˈkæsl̩/",
+          "linking": [
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ ア ピクチャリング ウェア タ ビルド マイ ネクスト キャッスル"
+        },
+        {
+          "en": "She is picturing the exact design in her head.",
+          "ja": "彼女は頭の中にちょうどのデザインを思い描いている。",
+          "ipa": "/ʃi ɪz ˈpɪktʃərɪŋ ðə ɪɡˈzækt dɪˈzaɪn ɪn hɚ ˈhɛd/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/",
+            "her は弱形 /hɚ/"
+          ],
+          "kana": "シー イズ ピクチャリング ザ イグザクト ディザイン イン ハー ヘッド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was picturing",
+      "ipa": "/wəz ˈpɪktʃərɪŋ/",
+      "examples": [
+        {
+          "en": "I was picturing a beautiful tower when a creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、私は美しいタワーを想像していた。",
+          "ipa": "/aɪ wəz ˈpɪktʃərɪŋ ə ˈbjuːtəfəl ˈtaʊɚ wɛn ə ˈkriːpɚ ɪkˈsploʊdɪd ˈnɪɚbaɪ/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "when の末尾 /n/ が a の初頭 /ə/ に連結 [wɛn‿ə]"
+          ],
+          "kana": "アイ ワズ ピクチャリング ア ビューティフル タウアー ウェナ クリーパー イクスプロウディド ニアバイ"
+        },
+        {
+          "en": "He was picturing the layout before starting construction.",
+          "ja": "彼は建設を始める前にレイアウトを想像していた。",
+          "ipa": "/hi wəz ˈpɪktʃərɪŋ ðə ˈleɪaʊt bɪˈfoʊɚ ˈstɑːrtɪŋ kənˈstrʌkʃən/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ワズ ピクチャリング ザ レイアウト ビフォー スターティング カンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been picturing",
+      "ipa": "/əd bɪn ˈpɪktʃərɪŋ/",
+      "examples": [
+        {
+          "en": "I had been picturing this structure for weeks before I finally built it.",
+          "ja": "最終的に建築する前に、私は何週間もこの構造を想像していた。",
+          "ipa": "/aɪ həd bɪn ˈpɪktʃərɪŋ ðɪs ˈstrʌktʃɚ fɔːr ˈwiːks bɪˈfoʊɚ aɪ ˈfaɪnəli ˈbɪlt ɪt/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fɔːr/",
+            "before の末尾 /r/ が I の初頭 /aɪ/ に連結",
+            "built の末尾 /t/ が母音に挟まれてフラップ [ɾ] に変わる"
+          ],
+          "kana": "アイ ハド ビン ピクチャリング ディス ストラクチャー フォー ウィークス ビフォーアイ ファイナリー ビルリット"
+        },
+        {
+          "en": "She had been picturing the design for days before gathering the materials.",
+          "ja": "彼女は材料を集める前に何日もデザインを想像していた。",
+          "ipa": "/ʃi həd bɪn ˈpɪktʃərɪŋ ðə dɪˈzaɪn fɔːr ˈdeɪz bɪˈfoʊɚ ˈɡæðərɪŋ ðə məˈtɪrɪəlz/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/（最初）",
+            "for は弱形 /fɔːr/",
+            "the は弱形 /ðə/（最後）"
+          ],
+          "kana": "シー ハド ビン ピクチャリング ザ ディザイン フォー デイズ ビフォー ガザリング ザ マテリアルズ"
         }
       ]
     }

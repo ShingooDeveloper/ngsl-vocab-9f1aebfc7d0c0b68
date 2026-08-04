@@ -56,5 +56,147 @@
       ],
       "kana": "アイ シェルド アウタ ア ロット アヴ リソーセス タ コンプリート ディス ビルド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "shells",
+      "ipa": "/ʃɛlz/",
+      "examples": [
+        {
+          "en": "You can find shells on the beach in ocean biomes.",
+          "ja": "海洋バイオームのビーチで貝殻を見つけることができます。",
+          "ipa": "/juː kən ˈfaɪnd ˈʃɛlz ɑn ðə ˈbiːtʃ ɪn ˈoʊʃən ˈbaɪoʊmz/",
+          "linking": [
+            "can は機能語で弱形 /kən/ に弱化",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ユー カン ファインド シェルズ オン ザ ビーチ イン オウシャン バイオームズ"
+        },
+        {
+          "en": "Collect shells to craft beautiful decorations for your base.",
+          "ja": "あなたの拠点を飾るために貝殻を集めて美しい装飾を作成してください。",
+          "ipa": "/kəˈlɛkt ˈʃɛlz tə kræft ˈbjuːtɪfəl ˌdɛkəˈreɪʃənz fɔɹ jɔɹ beɪs/",
+          "linking": [
+            "to は弱形 /tə/",
+            "for は弱形 /fɔɹ/"
+          ],
+          "kana": "カレクト シェルズ タ クラフト ビューティフル デコレーションズ フォー ユァ ベース"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "shells",
+      "ipa": "/ʃɛlz/",
+      "examples": [
+        {
+          "en": "The turtle shells itself when enemies approach.",
+          "ja": "敵が近づくとカメは身を殻で守ります。",
+          "ipa": "/ðə ˈtɜːtəl ˈʃɛlz ɪtˈsɛlf wɛn ˈɛnəmiz əˈproʊtʃ/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "when は /wɛn/、enemies との間は子音+子音"
+          ],
+          "kana": "ザ ターティル シェルズ イッセルフ ウェン エネミーズ アプローチ"
+        },
+        {
+          "en": "A snail shells its body with a protective spiral.",
+          "ja": "カタツムリは保護的な螺旋で自分の体を覆っています。",
+          "ipa": "/ə ˈsneɪl ˈʃɛlz ɪts ˈbɑːdi wɪð ə prəˈtɛktɪv ˈspaɪrəl/",
+          "linking": [
+            "a は弱形 /ə/、snail と連結 [ə ˈsneɪl]",
+            "with a → with の末尾が a に連結 [wɪðə]"
+          ],
+          "kana": "ア スネイル シェルズ イツ ボディ ウィザ プロテクティヴ スパイラル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "shelled",
+      "ipa": "/ʃɛld/",
+      "examples": [
+        {
+          "en": "I shelled the fortress with TNT cannons during the raid.",
+          "ja": "レイド中、TNT砲でその要塞を砲撃しました。",
+          "ipa": "/aɪ ˈʃɛld ðə ˈfɔːrtɹəs wɪð ˈtiːɛnˈtiː ˈkænənz ˈdʊrɪŋ ðə ˈreɪd/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "during the → during の末尾 /ŋ/ と the は弱形 /ðə/"
+          ],
+          "kana": "アイ シェルド ザ フォートレス ウィズ ティーエヌティー キャナンズ ジューリング ザ レイド"
+        },
+        {
+          "en": "We shelled enemy structures to claim dominance over the territory.",
+          "ja": "領土の支配権を主張するために敵の建造物を砲撃しました。",
+          "ipa": "/wi ˈʃɛld ˈɛnəmi ˈstrʌktʃərz tu kleɪm ˈdɑmənəns ˈoʊvɚ ðə ˈtɛrətɔːri/",
+          "linking": [
+            "to は弱形 /tu/",
+            "over the → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ シェルド エネミー ストラクチャーズ ター クレイム ドミナンス オーヴァー ザ テリトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "shelled",
+      "ipa": "/ʃɛld/",
+      "examples": [
+        {
+          "en": "The shelled building was nearly destroyed by the explosion.",
+          "ja": "砲撃された建物は爆発でほぼ破壊されました。",
+          "ipa": "/ðə ˈʃɛld ˈbɪldɪŋ wəz ˈnɪrli dɪsˈstrɔɪd baɪ ðiː ɪkˈsploʊʒən/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "was は弱形 /wəz/（本来は /wɑz/）"
+          ],
+          "kana": "ザ シェルド ビルディング ワズ ニアリー ディストロイド バイ ディー エクスプロージャン"
+        },
+        {
+          "en": "After being shelled, the fortress stood in ruins.",
+          "ja": "砲撃を受けた後、その要塞は廃墟の中に立っていました。",
+          "ipa": "/ˈæftər ˈbiːɪŋ ˈʃɛld, ðə ˈfɔːrtɹəs stʊd ɪn ˈruːɪnz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "stood in → /d/ が /ɪ/ に連結"
+          ],
+          "kana": "アフター ビーイング シェルド、ザ フォートレス スティッド イン ルーインズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "shelling",
+      "ipa": "/ˈʃɛlɪŋ/",
+      "examples": [
+        {
+          "en": "Shelling structures with TNT is a common PvP strategy in multiplayer.",
+          "ja": "マルチプレイヤーでTNTで建造物を砲撃することは一般的なPvP戦略です。",
+          "ipa": "/ˈʃɛlɪŋ ˈstrʌktʃərz wɪð ˈtiːɛnˈtiː ɪz ə ˈkɑmən ˈpiːviːˈpiː ˈstrætəˌdʒi ɪn ˈmʌltiˌpleɪər/",
+          "linking": [
+            "a は弱形 /ə/",
+            "in は弱形 /ɪn/、multiplayer との間は連結"
+          ],
+          "kana": "シェリング ストラクチャーズ ウィズ ティーエヌティー イズ ア コモン ピーヴィーピー ストラテジー イン マルティプレイア"
+        },
+        {
+          "en": "We are shelling the enemy base with a massive cannon right now.",
+          "ja": "私たちは今、巨大な砲で敵の拠点を砲撃しています。",
+          "ipa": "/wi ɑːr ˈʃɛlɪŋ ðiː ˈɛnəmi beɪs wɪð ə ˈmæsɪv ˈkænən ˈraɪt naʊ/",
+          "linking": [
+            "the は弱形 /ðiː/（母音前なので /ðiː/）",
+            "a は弱形 /ə/、massive と連結"
+          ],
+          "kana": "ウィ アー シェリング ディー エネミー ベース ウィズ ア マシヴ キャナン ライト ナウ"
+        }
+      ]
+    }
   ]
 }

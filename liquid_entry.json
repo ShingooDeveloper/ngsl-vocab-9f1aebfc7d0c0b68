@@ -67,5 +67,37 @@
       ],
       "kana": "アイ ドレインド ザ リクウィッド ブロック フラム ザ ケイヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "liquids",
+      "ipa": "/ˈlɪkwɪdz/",
+      "examples": [
+        {
+          "en": "I collected different liquids for my potion brewing setup.",
+          "ja": "ポーション醸造セットアップ用に異なる液体を集めました。",
+          "ipa": "/aɪ kəˈlɛktɪd ˈdɪfərən̚t ˈlɪkwɪdz fɔr maɪ ˈpoʊʃən ˈbruːɪŋ ˈsɛtʌp/",
+          "linking": [
+            "collected different → collected の末尾 /d/ が different の子音 /d/ に先行（未開放）[kəˈlɛktɪd ˈdɪfərən̚t]",
+            "different liquids → different の末尾 t は未開放で liquids に先行 [ˈdɪfərən̚t ˈlɪkwɪdz]",
+            "for my → for の末尾 /r/ が my の初期子音 /m/ に先行 [fɔr maɪ]"
+          ],
+          "kana": "アイ コレクティッド ディファレント リクウィズ フォア マイ ポーション ブルーイング セットアップ"
+        },
+        {
+          "en": "Water and lava are the most common liquids in Minecraft survival mode.",
+          "ja": "水と溶岩は、マインクラフトサバイバルモードで最も一般的な液体です。",
+          "ipa": "/ˈwɔɾər ənd ˈlɑvə ɑr ðə ˈmoʊst ˈkɑmən ˈlɪkwɪdz ɪn ˈmaɪnkræft sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "Water の t がフラップ化 [ˈwɔɾər] ウォーラー",
+            "and は弱形 /ən/ で water に連結 [ˈwɔɾər ən] ウォーラー アン",
+            "lava are → lava の末尾 /ə/ が are の初期子音に先行 [ˈlɑvə ɑr]"
+          ],
+          "kana": "ウォーラー アン ラーヴァ アー ザ モウスト カマン リクウィズ イン マインクラフト サーヴァイヴァル モウド"
+        }
+      ]
+    }
   ]
 }

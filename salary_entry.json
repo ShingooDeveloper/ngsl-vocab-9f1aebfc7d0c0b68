@@ -56,5 +56,36 @@
       ],
       "kana": "アイ アーナ サラリー バイ ヘルピング ビルド アン メインテイン ザ サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "salaries",
+      "ipa": "/ˈsæləriz/",
+      "examples": [
+        {
+          "en": "Builders receive salaries based on the complexity of their structures.",
+          "ipa": "/ˈbɪldərz rɪˈsɪvə ˈsæləriz ˈbeɪstɑn ðə kəmˈplɛksəti əvðɛr ˈstrʌkʃərz/",
+          "linking": [
+            "receive の末尾子音 /v/ が salaries の初頭母音 /ə/ に連結 [rɪˈsɪvə]",
+            "based の末尾子音 /d/ が on の初頭母音 /ɑ/ に連結 [ˈbeɪstɑn]",
+            "of の末尾子音 /v/ が their の初頭母音 /ð/ に連結 [əvðɛr]"
+          ],
+          "ja": "ビルダーたちは自分たちの構造の複雑さに基づいて給与を受け取ります。",
+          "kana": "ビルダーズ リシーヴァ サラリーズ ベイスターン ザ コンプレクシティ アヴザ ストラクチャーズ"
+        },
+        {
+          "en": "Server salaries increased after the Nether update.",
+          "ipa": "/ˈsɝvɚ ˈsæləriz ɪnˈkrist ˈæftɚðə ˈnɛðɚ ˈʌpdeɪt/",
+          "linking": [
+            "after の末尾子音 /r/ が the の初頭母音 /ð/ に連結 [ˈæftɚðə]",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "ja": "ネザーアップデート後、サーバーの給与は増加しました。",
+          "kana": "サーヴァー サラリーズ インクリースト アフターザ ネザー アップデイト"
+        }
+      ]
+    }
   ]
 }

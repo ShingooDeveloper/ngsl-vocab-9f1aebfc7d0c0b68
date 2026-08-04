@@ -73,5 +73,37 @@
       ],
       "kana": "ザ ドラゴン コーズド カムプリート ディストラクション タ アワー ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "destructions",
+      "ipa": "/dɪˈstrʌkʃənz/",
+      "examples": [
+        {
+          "en": "Multiple destructions happened during the creeper attack.",
+          "ja": "クリーパーの攻撃中に複数の破壊が起きました。",
+          "ipa": "/ˈmʌltɪpəl dɪˈstrʌkʃənz ˈhæpənd ˈdʊrɪŋ ðə ˈkriːpər əˈtæk/",
+          "linking": [
+            "Multiple の末尾 /l/ が destructions の /d/ に続く（子音+子音で未開放）",
+            "happened と during は末尾と初頭の /d/ が未開放で1つの d に聞こえる",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "マルティプル ディストラクションズ ハペンド デューリング ザ クリーパー アタック"
+        },
+        {
+          "en": "We documented all the destructions caused by the dragon's flames.",
+          "ja": "ドラゴンの炎による全ての破壊を記録しました。",
+          "ipa": "/wi ˈdɑkjəmɛntɪd ɔːl ðə dɪˈstrʌkʃənz ˈkɔːzd baɪ ðə ˈdræɡənz ˈfleɪmz/",
+          "linking": [
+            "documented の末尾 /d/ が all の /ɔ/ に連結 [ˌdɑkjəmɛntəd ˈɔːl]",
+            "all の末尾 /l/ が the の /ð/ に続く、the は弱形 /ðə/ ザ",
+            "by の b が次の語に自然に続く、the も弱形"
+          ],
+          "kana": "ウィ ダキュメンティド オール ザ ディストラクションズ コーズド バイ ザ ドラゴンズ フレイムズ"
+        }
+      ]
+    }
   ]
 }

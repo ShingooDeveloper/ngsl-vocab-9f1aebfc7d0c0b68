@@ -56,5 +56,35 @@
       ],
       "kana": "マイ ロイアル サーヴァント アンダイ マイン トゥゲザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "servants",
+      "ipa": "/ˈsɜrvənts/",
+      "examples": [
+        {
+          "en": "The servants work on the farm together.",
+          "ja": "使用人たちが農場で一緒に働く。",
+          "ipa": "/ðə ˈsɜrvənts ˈwɜrk ɑn ðə ˈfɑrm təˈɡɛðɚ/",
+          "linking": [
+            "work の末尾子音 /k/ が on の初頭母音 /ɑ/ に連結 [ˈwɜrkɑn]",
+            "the は弱形 /ðə/（2回現れる）"
+          ],
+          "kana": "ザ サーヴァンツ ワークオン ザ ファーム トゥゲザー"
+        },
+        {
+          "en": "These servants mine diamonds for the castle.",
+          "ja": "このサーヴァントたちが城のためにダイヤを採掘する。",
+          "ipa": "/ðiːz ˈsɜrvənts ˈmaɪn ˈdaɪəmɑndz fər ðə ˈkæsəl/",
+          "linking": [
+            "for は弱形 /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディーズ サーヴァンツ マイン ダイアモンズ ファ ザ キャスル"
+        }
+      ]
+    }
   ]
 }

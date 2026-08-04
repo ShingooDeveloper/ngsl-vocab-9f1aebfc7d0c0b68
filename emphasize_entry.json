@@ -54,5 +54,119 @@
       ],
       "kana": "アワー サーヴァー ルーズ エムファサイズ ザ インポータンス アヴ ティームワーク"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "emphasizes",
+      "ipa": "/ˈɛmfəsaɪzɪz/",
+      "examples": [
+        {
+          "en": "Building with stone emphasizes structural stability.",
+          "ja": "石造りの建築は構造的な安定性を強調しています。",
+          "ipa": "/ˈbɪldɪŋ wɪð stoʊn ˈɛmfəsaɪzɪz ˈstrʌkʃərəl stəˈbɪləti/",
+          "linking": [
+            "stone emphasizes → stone の語末子音 /n/ が emphasizes の初頭母音 /ɛ/ に連結"
+          ],
+          "kana": "ビルディング ウィズ ストウン エムファサイズィズ ストラクチャラル スタビリティ"
+        },
+        {
+          "en": "The game emphasizes exploration over combat.",
+          "ja": "このゲームは探検を戦闘より強調しています。",
+          "ipa": "/ðə ˈɡeɪm ˈɛmfəsaɪzɪz ˌɛksplərˈeɪʃən ˈoʊvɚ ˈkɑmbæt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。game に連結 [ðə ˈɡeɪm] ザゲイム",
+            "game emphasizes → game の語末子音 /m/ が emphasizes の初頭母音 /ɛ/ に連結"
+          ],
+          "kana": "ザ ゲイム エムファサイズィズ エクスプロレーション オーヴァー コンバット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "emphasized",
+      "ipa": "/ˈɛmfəsaɪzd/",
+      "examples": [
+        {
+          "en": "The previous update emphasized mining efficiency greatly.",
+          "ja": "前回のアップデートはマイニング効率を大いに強調しました。",
+          "ipa": "/ðə ˈpriːviəs ˈʌpdeɪt ˈɛmfəsaɪzd ˈmaɪnɪŋ əˈfɪʃənsi ˈɡreɪtli/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。previous に連結",
+            "previous update → previous の語末子音 /s/ が update の初頭母音 /ʌ/ に連結 [ˈpriːviəs ˈʌpdeɪt]",
+            "update emphasized → update の語末子音 /t/ が emphasized の初頭 /ɛ/ に未開放で続く [ʌpdeɪt̚ ˈɛmfəsaɪzd]"
+          ],
+          "kana": "ザ プリーヴィアス アップデイト エムファサイズド マイニング エフィシェンシー グレイトリー"
+        },
+        {
+          "en": "I emphasized the importance of finding shelter quickly.",
+          "ja": "私はシェルターを素早く見つけることの重要性を強調しました。",
+          "ipa": "/aɪ ˈɛmfəsaɪzd ðə ɪmˈpɔrtəns əv ˈfaɪndɪŋ ˈʃɛltɚ ˈkwɪkli/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。importance に連結",
+            "importance of → importance の語末子音 /s/ が of の初頭母音 /ə/ に連結 [ɪmˈpɔrtəns əv] インポータンス オヴ",
+            "of は前置詞で弱形 /əv/"
+          ],
+          "kana": "アイ エムファサイズド ザ インポータンス オヴ ファインディング シェルター クイックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "emphasized",
+      "ipa": "/ˈɛmfəsaɪzd/",
+      "examples": [
+        {
+          "en": "The guide has emphasized proper enchantment tactics.",
+          "ja": "このガイドは適切なエンチャント戦略を強調してきました。",
+          "ipa": "/ðə ˈɡaɪd hæz ˈɛmfəsaɪzd ˈproʊpɚ ɪnˈtʃɑntmənt ˈtæktɪks/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。guide に連結",
+            "has emphasized → has の /z/ が emphasized の初頭母音 /ɛ/ に連結 [hæz ˈɛmfəsaɪzd]"
+          ],
+          "kana": "ザ ガイド ハズ エムファサイズド プロパー インチャントメント タクティクス"
+        },
+        {
+          "en": "Many experts have emphasized teamwork for success.",
+          "ja": "多くの専門家はチームワークを成功の為に強調してきました。",
+          "ipa": "/ˈmɛni ˈɛkspɜrts hæv ˈɛmfəsaɪzd ˈtimwɝk fɚ səkˈsɛs/",
+          "linking": [
+            "have emphasized → have の語末子音 /v/ が emphasized の初頭母音 /ɛ/ に連結",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "メニー エクスパーツ ハヴ エムファサイズド ティームワーク フォー サクセス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "emphasizing",
+      "ipa": "/ˈɛmfəsaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "We are emphasizing resource management this season.",
+          "ja": "今シーズンはリソース管理を強調しています。",
+          "ipa": "/wi ɑr ˈɛmfəsaɪzɪŋ ˈrɛsɔrs ˈmænɪdʒmənt ðɪs ˈsizən/",
+          "linking": [
+            "are emphasizing → are の語末子音 /r/ が emphasizing の初頭母音 /ɛ/ に連結 [ɑr ˈɛmfəsaɪzɪŋ]"
+          ],
+          "kana": "ウィー アー エムファサイジング リソース マネジメント ディス シーズン"
+        },
+        {
+          "en": "The server is emphasizing PvP safety rules.",
+          "ja": "このサーバーはPvP安全規則を強調しています。",
+          "ipa": "/ðə ˈsɜrvɚ ɪz ˈɛmfəsaɪzɪŋ ˌpiviˈpi ˈseɪfti rulz/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。server に連結",
+            "server is → server の語末子音 /r/ が is の初頭母音 /ɪ/ に連結 [ˈsɜrvɚ ɪz]"
+          ],
+          "kana": "ザ サーヴァー イズ エムファサイジング ピーヴィーピー セイフティ ルーズ"
+        }
+      ]
+    }
   ]
 }

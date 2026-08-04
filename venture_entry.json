@@ -1,64 +1,208 @@
-{
+﻿{
   "word": "venture",
   "pos": "動詞・名詞",
   "pos_all": "動詞・名詞",
-  "rank": 2376,
-  "ipa_us": "/ˈvɛntʃɚ/",
-  "level": "B2",
-  "hi": "ventur(?:e[sd]?|ing)",
+  "ipa_us": "/ˈvɛntʃər/",
+  "rank": 1450,
+  "level": "B1",
+  "hi": "venture|ventures|ventured|venturing",
   "meanings": [
-    "【動詞】危険を冒して〜する、冒険に行く（to go somewhere that is dangerous or difficult）",
-    "【動詞】勇敢に言う、主張する（to say something even though you are not confident about it）",
-    "【名詞】冒険、危険な試み（a dangerous or difficult undertaking）",
-    "【名詞】冒険的なビジネス企画（a risky new business enterprise）"
+    "【動詞】(危険なことに) 敢えてする、思い切ってする（dare to do something risky or difficult）",
+    "【動詞】(冒険心を持って) 進む、行く（travel or go with courage into unknown territory）",
+    "【名詞】(危険な) 事業、冒険的企画、投資（a risky or daring undertaking; an enterprise）",
+    "【名詞】勇気ある試み、挑戦（a bold or dangerous attempt）"
   ],
   "examples": [
     {
-      "en": "We ventured far from home and discovered a jungle temple.",
-      "ja": "私たちは家から遠く冒険に出かけ、ジャングルの寺院を発見した。",
-      "ipa": "/wiː ˈvɛntʃɚd fɑɹ fɹəm hoʊm ənd dɪˈskʌvɚd ə ˈdʒʌŋɡəl ˈtɛmpəl/",
+      "en": "The adventurer ventures into the unknown with only basic tools.",
+      "ja": "その冒険者は基本的なツールだけで未知の領域に冒険に行く。",
+      "ipa": "/ðɪ ˈædvəntʃərɚ ˈvɛntʃɚz ˈɪntu ðə ənˈnoʊn wɪð ˈoʊnli ˈbeɪsɪk ˈtulz/",
       "linking": [
-        "from は前置詞で弱形 /fɹəm/、[fɹəm hoʊm] フラム ホウム",
-        "and discovered → and は弱形 /ən/（子音先行）、d と連なり [ən dɪ] アンディスカヴァード",
-        "a jungle → a は弱形 /ə/、jungle に連なり [ə ˈdʒ] ア ジャングル"
+        "the は弱形 /ðə/。adventurer と連結 [ðə ˈædvəntʃərɚ] ザ アドベンチャラー",
+        "ventures into → /z/ + /ɪ/ が連結 [ˈvɛntʃɚz ˈɪntu] ベンチャーズ イントゥ",
+        "into the → /u/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
       ],
-      "kana": "ウィ ベンチャード ファー フラム ホウム アンディスカヴァード ア ジャングル テンプル"
-    },
-    {
-      "en": "Don't venture into that dark cave without your best armor.",
-      "ja": "最高の防具なしであの暗い洞窟へ冒険に行ってはいけない。",
-      "ipa": "/doʊnt ˈvɛntʃɚ ˈɪntu ðæt dɑɹk keɪv wɪðˈaʊt jɚ bɛst ˈɑɹmɚ/",
-      "linking": [
-        "venture into → venture の /ɚ/ が into の /ɪ/ に接近（linking r）、[ˈvɛntʃə ˈɪn] ベンチャ イン",
-        "that dark → that の /t/ が未開放で dark の /d/ が続く [ðæt̚ ˈdɑɹk] ザッ ダーク",
-        "without → 機能語で [wɪðˈaʊt] ウィザウト、ð は /ð/ のまま"
-      ],
-      "kana": "ドウント ベンチャ イントゥ ザット ダーク ケイヴ ウィザウト ユアー ベスト アーマー"
-    },
-    {
-      "en": "Mining deep underground is a risky venture that requires good planning.",
-      "ja": "深い地下での採掘は、良い計画が必要な危険な冒険だ。",
-      "ipa": "/ˈmaɪnɪŋ ˈdip ˈʌndɚɡɹaʊnd ɪz ə ˈɹɪski ˈvɛntʃɚ ðæt ɹɪˈkwaɪɚz ɡʊd ˈplænɪŋ/",
-      "linking": [
-        "is a → is の /z/ が a の /ə/（弱形）に連なり [ɪz ə] イズ ア",
-        "a risky → a は弱形 /ə/、risky に連なり [ə ˈɹɪski] ア リスキー",
-        "requires good → requires の /z/ が good の /ɡ/ の前で [ɹɪˈkwaɪɚz ɡʊd] リクワイアーズ グッド"
-      ],
-      "kana": "マイニング ディープ アンダーグラウンド イズ ア リスキー ベンチャー ザット リクワイアーズ グッド プランニング"
+      "kana": "ザ アドベンチャラー ベンチャーズ イントゥ ザ アンノウン ウィズ オウンリー ベイシック トゥールズ"
     }
   ],
   "idioms": [
     {
-      "idiom": "venture forth",
-      "ja": "（新しい環境や危険な場所へ）勇敢に進み出る",
-      "example": "The miners ventured forth into the unexplored ravine seeking fortune.",
-      "example_ja": "鉱夫たちは幸運を求めて、未開拓の渓谷へ勇敢に進み出た。",
-      "ipa": "/ðə ˈmaɪnɚz ˈvɛntʃɚd ˈfɔɹθ ˈɪntu ðə ʌnɪkˈsploʊɹd ˈɹævən ˈsikɪŋ ˈfɚtʃən/",
+      "idiom": "venture out",
+      "ja": "冒険に出かける、外に出て冒険する",
+      "example": "At midnight, the team ventured out to explore the spawner.",
+      "example_ja": "真夜中に、チームはスポーナーを探索するために冒険に出かけた。",
+      "ipa": "/æt ˈmɪdˌnaɪt | ðə ˈtim ˈvɛntʃɚd ˈaʊt tu ɪkˌsplɔr ðə ˈspɔːnɚ/",
       "linking": [
-        "ventured forth → forth の /θ/ が into の /ɪ/ に接近（未開放）、[ˈfɔɹθ̚ ˈɪn] フォース イン",
-        "into the → the は弱形 /ðə/、[ˈɪntu ðə] イントゥ ザ"
+        "at midnight → /t/ + /m/ (consonant+consonant、連結なし)",
+        "ventured out → /d/ + /aʊ/ が連結 [ˈvɛntʃɚd ˈaʊt] ベンチャード アウト",
+        "out to → /t/ + /t/ が未開放で続く [ˈaʊt tu] アウット トゥ"
       ],
-      "kana": "ザ マイナーズ ベンチャード フォース イントゥ ザ アンイクスプロード レイビン シーキング フォーチュン"
+      "kana": "アット ミッドナイト、ザ ティーム ベンチャード アウット トゥ エクスプロアー ザ スポーナー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "We venture into the Nether despite knowing the risks involved.",
+      "ja": "私たちはリスクを知っているにもかかわらず、ネザーへの冒険に行く。",
+      "ipa": "/wi ˈvɛntʃɚ ˈɪntu ðə ˈnɛðɚ dɪsˈpaɪt ˈnoʊɪŋ ðə ˈrɪsks ɪnˈvɑːlvd/",
+      "linking": [
+        "venture into → /r/ + /ɪ/ が連結 [ˈvɛntʃɚ ˈɪntu] ベンチャー イントゥ",
+        "into the → /u/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+        "risks involved → /s/ + /ɪ/ が連結 [ˈrɪsks ɪnˈvɑːlvd] リスクス インヴォルヴド"
+      ],
+      "kana": "ウィ ベンチャー イントゥ ザ ネザー ディスパイト ノーイング ザ リスクス インヴォルヴド"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "ventures",
+      "ipa": "/ˈvɛntʃɚz/",
+      "examples": [
+        {
+          "en": "The experienced player ventures into caves with confidence and proper equipment.",
+          "ja": "経験豊富なプレイヤーは自信と適切な装備で洞窟に冒険に行く。",
+          "ipa": "/ðə ɪkˈspɪriənst ˈpleɪɚ ˈvɛntʃɚz ˈɪntu ˈkeɪvz wɪð ˈkɑːnfɪdəns‿ənd prəˈprəʊt ɪˈkwɪpmənt/",
+          "linking": [
+            "the は弱形 /ðə/。experienced と連結 [ðə ɪkˈspɪriənst] ザ エクスピアリエンスト",
+            "ventures into → /z/ + /ɪ/ が連結 [ˈvɛntʃɚz ˈɪntu] ベンチャーズ イントゥ",
+            "confidence and → /s/ + /ə/ が連結、and は弱形 /ənd/ [ˈkɑːnfɪdəns‿ənd] コンフィデンス アンド"
+          ],
+          "kana": "ザ イクスピアリエンスド プレイヤー ベンチャーズ イントゥ ケイヴズ ウィズ コンフィデンス アンド プロパー エクウィップメント"
+        },
+        {
+          "en": "She ventures to defend her base against multiple hostile mobs.",
+          "ja": "彼女は複数の敵対的なモブから基地を守るために冒険に行く。",
+          "ipa": "/ʃi ˈvɛntʃɚz tu dɪˈfɛnd hɚ ˈbeɪs əˈɡɛnst ˈmʌltɪpl ˈhɒstaɪl ˈmɑːbz/",
+          "linking": [
+            "ventures to → /z/ + /t/ が連結 [ˈvɛntʃɚz tu] ベンチャーズ トゥ。to は弱形 /tə/"
+          ],
+          "kana": "シー ベンチャーズ トゥ ディフェンド ハー ベース アゲインスト マルチプル ホスタイル モブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "ventured",
+      "ipa": "/ˈvɛntʃɚd/",
+      "examples": [
+        {
+          "en": "They ventured deep into the stronghold and discovered valuable treasure.",
+          "ja": "彼らは要塞の深くに冒険に行き、貴重な宝物を発見した。",
+          "ipa": "/ðeɪ ˈvɛntʃɚd ˈdip ˈɪntu ðə ˈstrɔŋˌhoʊld‿ənd dɪˈskʌvɚd ˈvæljuəbl ˈtrɛʒɚ/",
+          "linking": [
+            "ventured deep → /d/ + /d/ が未開放で続く [ˈvɛntʃɚd ˈdip] ベンチャード ディープ",
+            "into the → /u/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "stronghold and → /d/ + /ə/ が連結、and は弱形 /ənd/ [ˈstrɔŋˌhoʊld‿ənd] ストロングホールド アンド",
+            "discovered valuable → /d/ + /v/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ゼイ ベンチャード ディープ イントゥ ザ ストロングホールド アンド ディスカバード ヴァリュアブル トレジャー"
+        },
+        {
+          "en": "We ventured across the ocean and established a new settlement.",
+          "ja": "私たちは海を横断して冒険に行き、新しい入植地を確立した。",
+          "ipa": "/wi ˈvɛntʃɚd əˈkrɔːs ðiː ˈoʊʃən‿ənd əˈstæblɪʃt ə ˈnu ˈsɛtəlmənt/",
+          "linking": [
+            "ventured across → /d/ + /ə/ が連結 [ˈvɛntʃɚd əˈkrɔːs] ベンチャード アクロス",
+            "ocean and → /n/ + /ə/ が連結、and は弱形 /ənd/ [ˈoʊʃən‿ənd] オーシャン アンド",
+            "new settlement → /u/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィ ベンチャード アクロス ザ オーシャン アンド エスタブリッシュト ア ニュー セットルメント"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "ventured",
+      "ipa": "/ˈvɛntʃɚd/",
+      "examples": [
+        {
+          "en": "Having ventured so far from base, the team finally reached the end dimension.",
+          "ja": "基地からそんなに遠くまで冒険に行った後、チームはついにエンド次元に到達した。",
+          "ipa": "/ˈheɪvɪŋ ˈvɛntʃɚd soʊ ˈfɑːr frəm ˈbeɪs | ðə ˈtim ˈfaɪnəli ˈritʃt ðə ˈɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "Having ventured → /ŋ/ + /v/ (consonant+consonant、連結なし)",
+            "ventured so → /d/ + /s/ (consonant+consonant、連結なし)",
+            "from base → /m/ + /b/ (consonant+consonant、連結なし)",
+            "finally reached → /i/ + /r/ が連結 [ˈfaɪnəli ˈritʃt] ファイナリー リーチト"
+          ],
+          "kana": "ハヴィング ベンチャード ソー ファー フラム ベース、ザ ティーム ファイナリー リーチト ザ エンド ディメンション"
+        },
+        {
+          "en": "Resources were ventured to complete this ambitious construction project.",
+          "ja": "この野心的な建設プロジェクトを完成させるためにリソースが投じられた。",
+          "ipa": "/ˈrɛsɚsɪz wɚ ˈvɛntʃɚd tu kəmˈplit ðɪs əmˈbɪʃəs kənˈstrʌkʃən ˈprɑːdʒekt/",
+          "linking": [
+            "were ventured → /r/ + /v/ (consonant+consonant、連結なし)、were は弱形 /wɚ/",
+            "ventured to → /d/ + /t/ が連結 [ˈvɛntʃɚd tu] ベンチャード トゥ。to は弱形 /tə/"
+          ],
+          "kana": "リソーシズ ワー ベンチャード トゥ カンプリート ディス アンビシャス コンストラクション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "venturing",
+      "ipa": "/ˈvɛntʃərɪŋ/",
+      "examples": [
+        {
+          "en": "Venturing into the Nether requires Fire Resistance potions and careful planning.",
+          "ja": "ネザーへの冒険には火への耐性ポーションと注意深い計画が必要です。",
+          "ipa": "/ˈvɛntʃərɪŋ ˈɪntu ðə ˈnɛðɚ rɪˈkwaɪrz ˈfaɪɚ rɪˈzɪstəns ˈpoʊʃənz‿ənd ˈkɛrfəl ˈplænɪŋ/",
+          "linking": [
+            "Venturing into → /ŋ/ + /ɪ/ が連結 [ˈvɛntʃərɪŋ ˈɪntu] ベンチャーリング イントゥ",
+            "into the → /u/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "potions and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈpoʊʃənz‿ənd] ポーションズ アンド"
+          ],
+          "kana": "ベンチャーリング イントゥ ザ ネザー リクワイアーズ ファイヤー レジスタンス ポーションズ アンド ケアフル プランニング"
+        },
+        {
+          "en": "Before venturing alone in hardcore mode, check your gear thoroughly.",
+          "ja": "ハードコアモードで一人で冒険に行く前に、装備を徹底的にチェックしてください。",
+          "ipa": "/bɪˈfɔːr ˈvɛntʃərɪŋ əˈloʊn ɪn ˈhɑːrdˌkoʊr ˈmoʊd | ˈtʃɛk jɚ ˈɡɪr ˈθɜːroʊli/",
+          "linking": [
+            "before venturing → /r/ + /v/ が連結 [bɪˈfɔːr ˈvɛntʃərɪŋ] ビフォー ベンチャーリング",
+            "venturing alone → /ŋ/ + /ə/ が連結 [ˈvɛntʃərɪŋ əˈloʊn] ベンチャーリング アローン",
+            "alone in → /n/ + /ɪ/ が連結 [əˈloʊn ɪn] アローン イン",
+            "check your → /k/ + /j/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ビフォー ベンチャーリング アローン イン ハードコア モード、チェック ユア ギア スゥーロウリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形(名詞)",
+      "text": "ventures",
+      "ipa": "/ˈvɛntʃɚz/",
+      "examples": [
+        {
+          "en": "Mining ventures in deep caves often yield rare ores and precious gems.",
+          "ja": "深い洞窟での採鉱事業は、珍しい鉱石と貴重な宝石をもたらすことが多い。",
+          "ipa": "/ˈmaɪnɪŋ ˈvɛntʃɚz ɪn ˈdip ˈkeɪvz ˈɔːftən ˈjild ˈrɛr ˈɔːrz‿ənd ˈprɛʃəs ˈdʒɛmz/",
+          "linking": [
+            "Mining ventures → /ŋ/ + /v/ (consonant+consonant、連結なし)",
+            "ventures in → /z/ + /ɪ/ が連結 [ˈvɛntʃɚz ɪn] ベンチャーズ イン",
+            "caves often → /z/ + /ɔ/ が連結 [ˈkeɪvz ˈɔːftən] ケイヴス オフテン",
+            "ores and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈɔːrz‿ənd] オーズ アンド"
+          ],
+          "kana": "マイニング ベンチャーズ イン ディープ ケイヴス オフテン ィールド レア オーズ アンド プレシャス ジェムズ"
+        },
+        {
+          "en": "Our exploration ventures have led to the discovery of three hidden temples.",
+          "ja": "私たちの探検事業により、3つの隠れた寺院の発見に至った。",
+          "ipa": "/ˈaʊɚ ɛkˌsplə ˈreɪʃən ˈvɛntʃɚz hæv ˈlɛd tu ðə dɪˈskʌvəri əv ˈθriː ˈhɪdən ˈtɛmpəlz/",
+          "linking": [
+            "exploration ventures → /n/ + /v/ (consonant+consonant、連結なし)",
+            "ventures have → /z/ + /h/ (consonant+consonant、連結なし)、have は弱形 /hæv/"
+          ],
+          "kana": "アワー エクスプロレーション ベンチャーズ ハブ レッド トゥ ザ ディスカバリー オブ スリー ヒドン テンプルズ"
+        }
+      ]
     }
   ]
 }

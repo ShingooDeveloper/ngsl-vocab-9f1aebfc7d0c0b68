@@ -239,6 +239,126 @@
           "kana": "アイム テスティング ウェザー ディーズ マテリアルズ カン ウィズスタンド ラーヴァ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is testing",
+      "ipa": "/ɪz ˈtɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I'm testing a new weapon on the zombies in the farm.",
+          "ja": "農場のゾンビで新しい武器をテストしています。",
+          "ipa": "/aɪm ˈtɛstɪŋ ə ˈnu ˈwɛpən ɑn ðə ˈzɑmbiz ɪn ðə fɑrm/",
+          "linking": [
+            "I'm の末尾 /m/ が testing の初頭 /t/。別音 [aɪm ˈtɛstɪŋ]アイム テスティング",
+            "testing の末尾 /ŋ/ が a の初頭 /ə/ に別音 [ˈtɛstɪŋ ə]テスティング ア",
+            "a の末尾 /ə/ が new の初頭 /n/ に連結 [ə ˈnu]ア ニュー",
+            "new の末尾 /u/ が weapon の初頭 /w/ に別音 [ˈnu ˈwɛpən]ニュー ウェポン",
+            "weapon の末尾 /n/ が on の初頭 /ɑ/。別音 [ˈwɛpən ɑn]ウェポン オン",
+            "on の末尾 /n/ が the の初頭 /ð/。別音 [ɑn ðə]オン ザ"
+          ],
+          "kana": "アイム テスティング ア ニュー ウェポン オン ザ ゾンビーズ イン ザ ファーム"
+        },
+        {
+          "en": "We're testing if this new redstone device actually works.",
+          "ja": "この新しいレッドストーンデバイスが実際に機能するかどうかをテストしています。",
+          "ipa": "/wɪr ˈtɛstɪŋ ɪf ðɪs ˈnu ˈrɛdˌstoʊn dɪˈvaɪs ˈæktʃuəli wɝks/",
+          "linking": [
+            "We're は弱形 /wɪr/、testing の初頭 /t/ に別音 [wɪr ˈtɛstɪŋ]ウィアー テスティング",
+            "testing の末尾 /ŋ/ が if の初頭 /ɪ/。別音 [ˈtɛstɪŋ ɪf]テスティング イフ",
+            "if の末尾 /f/ が this の初頭 /ð/。別音 [ɪf ðɪs]イフ ジス",
+            "this の末尾 /s/ が new の初頭 /n/。別音 [ðɪs ˈnu]ジス ニュー",
+            "new の末尾 /u/ が redstone の初頭 /r/ に別音 [ˈnu ˈrɛdˌstoʊn]ニュー レッドストーン",
+            "device の末尾 /s/ が actually の初頭 /æ/。別音 [dɪˈvaɪs ˈæktʃuəli]ディヴァイス アクチュアリー"
+          ],
+          "kana": "ウィアー テスティング イフ ジス ニュー レッドストーン ディヴァイス アクチュアリー ワークス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was testing",
+      "ipa": "/wəz ˈtɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I was testing the trap mechanism when the creeper appeared.",
+          "ja": "クリーパーが現れたとき、トラップメカニズムをテストしていました。",
+          "ipa": "/aɪ wəz ˈtɛstɪŋ ðə træp ˈmɛkənɪzəm wɛn ðə ˈkripər əˈpɪrd/",
+          "linking": [
+            "I の末尾 /aɪ/ が was の初頭 /w/。別音。was は弱形 /wəz/ [aɪ wəz]アイ ワズ",
+            "was は弱形 /wəz/、testing の初頭 /t/ に別音 [wəz ˈtɛstɪŋ]ワズ テスティング",
+            "testing の末尾 /ŋ/ が the の初頭 /ð/。別音 [ˈtɛstɪŋ ðə]テスティング ザ",
+            "the は弱形 /ðə/、trap の初頭 /t/ に別音 [ðə træp]ザ トラップ",
+            "trap の末尾 /p/ が mechanism の初頭 /m/。別音 [træp ˈmɛkənɪzəm]トラップ メカニズム",
+            "mechanism の末尾 /m/ が when の初頭 /w/。別音 [ˈmɛkənɪzəm wɛn]メカニズム ウェン",
+            "when の末尾 /n/ が the の初頭 /ð/。別音 [wɛn ðə]ウェン ザ",
+            "the は弱形 /ðə/、creeper の初頭 /k/ に別音 [ðə ˈkripər]ザ クリーパー"
+          ],
+          "kana": "アイ ワズ テスティング ザ トラップ メカニズム ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "They were testing the strength of obsidian for hours yesterday.",
+          "ja": "昨日、彼らは何時間もの間、黒曜石の強度をテストしていました。",
+          "ipa": "/ðeɪ wər ˈtɛstɪŋ ðə ˈstrɛŋθ əv ɑbˈsɪdiən fər ˈaʊərz ˈjɛstərdeɪ/",
+          "linking": [
+            "They の末尾 /eɪ/ が were の初頭 /w/。別音。were は弱形 /wər/ [ðeɪ wər]ゼイ ウェア",
+            "were は弱形 /wər/、testing の初頭 /t/ に別音 [wər ˈtɛstɪŋ]ウェア テスティング",
+            "testing の末尾 /ŋ/ が the の初頭 /ð/。別音 [ˈtɛstɪŋ ðə]テスティング ザ",
+            "the は弱形 /ðə/、strength の初頭 /s/ に別音 [ðə ˈstrɛŋθ]ザ ストレングス",
+            "strength の末尾 /θ/ が of の初頭 /ə/。別音。of は弱形 /əv/ [ˈstrɛŋθ əv]ストレングス アヴ",
+            "of は弱形 /əv/、obsidian の初頭 /ɑ/ に別音 [əv ɑbˈsɪdiən]アヴ オブシディアン",
+            "obsidian の末尾 /ən/ が for の初頭 /f/。別音。for は弱形 /fər/ [ɑbˈsɪdiən fər]オブシディアン ファー",
+            "for は弱形 /fər/、hours の初頭 /aʊ/ に別音 [fər ˈaʊərz]ファー アワーズ"
+          ],
+          "kana": "ゼイ ウェア テスティング ザ ストレングス アヴ オブシディアン ファー アワーズ イエスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been testing",
+      "ipa": "/həd bɪn ˈtɛstɪŋ/",
+      "examples": [
+        {
+          "en": "We had been testing the farm for two hours before it finally worked.",
+          "ja": "最終的に機能する前に、2時間その農場をテストしていました。",
+          "ipa": "/wi həd bɪn ˈtɛstɪŋ ðə fɑrm fɔr tu ˈaʊərz bɪˈfɔr ɪt̚ ˈfaɪnəli wɝkt/",
+          "linking": [
+            "We の末尾 /i/ が had の初頭 /h/。別音。had は弱形 /həd/ [wi həd]ウィー ハド",
+            "had は弱形 /həd/、been の初頭 /b/。別音。been も弱形 /bɪn/ [həd bɪn]ハド ビン",
+            "been は弱形 /bɪn/、testing の初頭 /t/ に別音 [bɪn ˈtɛstɪŋ]ビン テスティング",
+            "testing の末尾 /ŋ/ が the の初頭 /ð/。別音 [ˈtɛstɪŋ ðə]テスティング ザ",
+            "the は弱形 /ðə/、farm の初頭 /f/ に別音 [ðə fɑrm]ザ ファーム",
+            "farm の末尾 /m/ が for の初頭 /f/。別音。for は弱形 /fər/ [fɑrm fər]ファーム ファー",
+            "for は弱形 /fər/、two の初頭 /t/ に別音 [fər tu]ファー トゥー",
+            "two の末尾 /u/ が hours の初頭 /aʊ/。別音 [tu ˈaʊərz]トゥー アワーズ",
+            "hours の末尾 /z/ が before の初頭 /b/。別音 [ˈaʊərz bɪˈfɔr]アワーズ ビフォー",
+            "before の末尾 /ər/ が it の初頭 /ɪ/。別音。it の末尾 t は未開放 [bɪˈfɔr ɪt̚]ビフォー イッ",
+            "it の末尾 /t̚/ が finally の初頭 /f/。別音 [ɪt̚ ˈfaɪnəli]イッ ファイナリー"
+          ],
+          "kana": "ウィー ハド ビン テスティング ザ ファーム ファー トゥー アワーズ ビフォー イッ ファイナリー ワークト"
+        },
+        {
+          "en": "I had been testing different enchantment combinations when she joined.",
+          "ja": "彼女が参加したとき、異なるエンチャントの組み合わせをテストしていました。",
+          "ipa": "/aɪ həd bɪn ˈtɛstɪŋ ˈdɪfərənt ɪnˈtʃæntmənt ˌkɑmbɪˈneɪʃənz wɛn ʃi ˈdʒɔɪnd/",
+          "linking": [
+            "I の末尾 /aɪ/ が had の初頭 /h/。別音。had は弱形 /həd/ [aɪ həd]アイ ハド",
+            "had は弱形 /həd/、been の初頭 /b/。別音。been も弱形 /bɪn/ [həd bɪn]ハド ビン",
+            "been は弱形 /bɪn/、testing の初頭 /t/ に別音 [bɪn ˈtɛstɪŋ]ビン テスティング",
+            "testing の末尾 /ŋ/ が different の初頭 /d/。別音 [ˈtɛstɪŋ ˈdɪfərənt]テスティング ディファレント",
+            "different の末尾 /t/ が enchantment の初頭 /ɪ/。別音 [ˈdɪfərənt ɪnˈtʃæntmənt]ディファレント エンチャントメント",
+            "enchantment の末尾 /t/ が combinations の初頭 /k/。別音 [ɪnˈtʃæntmənt ˌkɑmbɪˈneɪʃənz]エンチャントメント コンビネーションズ",
+            "combinations の末尾 /z/ が when の初頭 /w/。別音 [ˌkɑmbɪˈneɪʃənz wɛn]コンビネーションズ ウェン",
+            "when の末尾 /n/ が she の初頭 /ʃ/。別音 [wɛn ʃi]ウェン シー",
+            "she の末尾 /i/ が joined の初頭 /dʒ/。別音 [ʃi ˈdʒɔɪnd]シー ジョインド"
+          ],
+          "kana": "アイ ハド ビン テスティング ディファレント エンチャントメント コンビネーションズ ウェン シー ジョインド"
+        }
+      ]
     }
   ]
 }

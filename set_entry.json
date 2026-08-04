@@ -243,6 +243,98 @@
           "kana": "シー・イズ・セッティング オール ザ・レッドストーン サーキッツ タ・アクティベイト アット ザ・セイム タイム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is setting",
+      "ipa": "/ɪz ˈsetɪŋ/",
+      "examples": [
+        {
+          "en": "The builder is setting up a new house nearby.",
+          "ja": "ビルダーが近くに新しい家を設置しています。",
+          "ipa": "/ðə ˈbɪldɚ ɪz ˈsetɪŋ ʌp ə ˈnu ˈhaʊs ˈnɪrbaɪ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。builder の /b/（子音）に続く [ðə ˈbɪldɚ] ザ・ビルダー",
+            "is の語末子音 /z/ が setting の /s/（子音）に未開放で続く [ɪz̚ ˈsetɪŋ] イズ・セッティング",
+            "setting の語末子音 /ŋ/ が up の /ʌ/（母音）に連結 [ˈsetɪŋʌp] セッティング・アップ"
+          ],
+          "kana": "ザ・ビルダー イズ・セッティング・アップ ア・ニュー ハウス ニアバイ"
+        },
+        {
+          "en": "I am setting traps around my base to keep mobs away.",
+          "ja": "モブを遠ざけるために基地の周りにトラップを設置しています。",
+          "ipa": "/aɪ æm ˈsetɪŋ træps əˈraʊnd maɪ ˈbeɪs tə kip ˈmoʊbz əˈweɪ/",
+          "linking": [
+            "am の語末子音 /m/ が setting の /s/（子音）に未開放で続く [æm̚ ˈsetɪŋ] アム・セッティング",
+            "setting の語末子音 /ŋ/ が traps の /t/（子音）に未開放で続く [ˈsetɪŋ̚ træps] セッティング・トラップス",
+            "to は機能語で弱形 /tə/。keep の /k/（子音）に続く [tə kip] タ・キープ"
+          ],
+          "kana": "アイ アム・セッティング・トラップス ア・ラウンド マイ ベイス タ・キープ モーブズ ア・ウェイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was setting",
+      "ipa": "/wəz ˈsetɪŋ/",
+      "examples": [
+        {
+          "en": "I was setting up my base when the creeper appeared suddenly.",
+          "ja": "クリーパーが突然現れた時、基地を設置していました。",
+          "ipa": "/aɪ wəz ˈsetɪŋ ʌp maɪ ˈbeɪs wɛn ðə ˈkripɚ əˈpɪrd ˈsʌdənli/",
+          "linking": [
+            "was の弱形 /wəz/。setting の /s/（子音）に未開放で続く [wəz̚ ˈsetɪŋ] ワズ・セッティング",
+            "setting の語末子音 /ŋ/ が up の /ʌ/（母音）に連結 [ˈsetɪŋʌp] セッティング・アップ",
+            "the は冠詞で弱形 /ðə/。creeper の /k/（子音）に続く [ðə ˈkripɚ] ザ・クリーパー"
+          ],
+          "kana": "アイ ワズ・セッティング・アップ マイ ベイス ウェン ザ・クリーパー ア・ピアード サッデンリー"
+        },
+        {
+          "en": "They were setting the trap when we heard the alarm go off.",
+          "ja": "アラームが鳴った時、彼らはトラップを設置していました。",
+          "ipa": "/ðeɪ wɚ ˈsetɪŋ ðə træp wɛn wi hɝd ðə əˈlɑrm ɡoʊ ɔf/",
+          "linking": [
+            "were の弱形 /wɚ/。setting の /s/（子音）に続く [wɚ ˈsetɪŋ] ウェア・セッティング",
+            "the は冠詞で弱形 /ðə/。trap の /t/（子音）に続く [ðə træp] ザ・トラップ",
+            "the は冠詞で弱形 /ðə/。alarm の /ə/（母音）に連結 [ðə əˈlɑrm] ザ・ア・ラーム"
+          ],
+          "kana": "ゼイ ウェア・セッティング ザ・トラップ ウェン ウィ ハード ザ・ア・ラーム ゴー・オフ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been setting",
+      "ipa": "/əd bɪn ˈsetɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we finished, we had been setting traps for three hours straight.",
+          "ja": "終わった時までに、私たちは3時間連続でトラップを設置していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃt wi əd bɪn ˈsetɪŋ træps fɚ θri ˈaʊɚz streɪt/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。time の /t/（子音）に続く [ðə ˈtaɪm] ザ・タイム",
+            "had の弱形 /əd/。been の /b/（子音）に未開放で続く [əd̚ bɪn] ハド・ビン",
+            "been の語末子音 /n/ が setting の /s/（子音）に未開放で続く [bɪn̚ ˈsetɪŋ] ビン・セッティング",
+            "for は機能語で弱形 /fɚ/。three の /θ/（子音）に続く [fɚ θri] ファー・スリー"
+          ],
+          "kana": "バイ ザ・タイム ウィ フィニッシュト ウィ ハド・ビン・セッティング トラップス ファー・スリー アワーズ ストレイト"
+        },
+        {
+          "en": "She had been setting up the redstone circuit all night before it finally worked.",
+          "ja": "彼女は夜中ずっとレッドストーン回路を設置していて、ようやく動作しました。",
+          "ipa": "/ʃi əd bɪn ˈsetɪŋ ʌp ðə ˈrɛdˌstoʊn ˈsɝkət ɔl naɪt bɪˈfɔr ɪt ˈfaɪnəli wɝkt/",
+          "linking": [
+            "had の弱形 /əd/。been の /b/（子音）に未開放で続く [əd̚ bɪn] ハド・ビン",
+            "been の語末子音 /n/ が setting の /s/（子音）に未開放で続く [bɪn̚ ˈsetɪŋ] ビン・セッティング",
+            "setting の語末子音 /ŋ/ が up の /ʌ/（母音）に連結 [ˈsetɪŋʌp] セッティング・アップ",
+            "the は冠詞で弱形 /ðə/。redstone の /r/（子音）に続く [ðə ˈrɛdˌstoʊn] ザ・レッドストーン"
+          ],
+          "kana": "シー ハド・ビン・セッティング・アップ ザ・レッドストーン サーキット オール ナイト ビフォア イット ファイナリー ワークト"
+        }
+      ]
     }
   ]
 }

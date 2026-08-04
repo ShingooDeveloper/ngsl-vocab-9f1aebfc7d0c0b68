@@ -43,6 +43,63 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "thinner",
+      "ipa": "/ˈθɪnər/",
+      "examples": [
+        {
+          "en": "A thin stick is thinner than oak wood.",
+          "ja": "細い棒はオーク材より細い。",
+          "ipa": "/ə ˈθɪn ˈstɪk ɪz ˈθɪnər ðəˈnoʊk ˈwʊd/",
+          "linking": [
+            "stick is: stick の語末 /k/ が is の母音 /ɪ/ に連結 [stɪkɪz]「スティキズ」",
+            "than oak: than の語末 /n/ が oak の母音 /oʊ/ に連結 [ðəˈnoʊk]「ザノーク」"
+          ],
+          "kana": "ア シン スティキズ シナー ザノーク ウッド"
+        },
+        {
+          "en": "A half-slab is much thinner than a solid block.",
+          "ja": "ハーフスラブは普通のブロックよりずっと細い。",
+          "ipa": "/ə ˈhæf slæb ɪz ˈmʌtʃ ˈθɪnər ðænə ˈsɑlɪd blɑk/",
+          "linking": [
+            "slab is: slab の語末 /b/ が is の母音 /ɪ/ に連結 [slæbɪz]「スラビズ」",
+            "than a: than の語末 /n/ が a の弱形母音 /ə/ に連結 [ðænə]「ザナ」"
+          ],
+          "kana": "ア ハーフ スラビズ マッチ シナー ザナ ソリッド ブラック"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "thinnest",
+      "ipa": "/ˈθɪnəst/",
+      "examples": [
+        {
+          "en": "Glass is the thinnest transparent block in Minecraft.",
+          "ja": "ガラスはマインクラフト内で最も薄い透明ブロックです。",
+          "ipa": "/ˈglæs ɪz ðə ˈθɪnəst ˌtrænsˈpærənt blɑk ɪn ˈmaɪnkræft/",
+          "linking": [
+            "glass is: glass の語末 /s/ が is の母音 /ɪ/ に連結 [ˈglæsɪz]「グラシズ」",
+            "block in: block の語末 /k/ が in の弱形母音 /ɪ/ に連結 [blɑkɪn]「ブラキン」"
+          ],
+          "kana": "グラシズ ザ シナスト トランスペアレント ブラキン マインクラフト"
+        },
+        {
+          "en": "A half-slab creates the thinnest wall you can build.",
+          "ja": "ハーフスラブはあなたが作ることができる最も薄い壁を作ります。",
+          "ipa": "/ə ˈhæf slæb ˈkreɪts ðə ˈθɪnəst wɔl ju ˈkæn bɪld/",
+          "linking": [
+            "can が弱形 /kən/ に弱化"
+          ],
+          "kana": "ア ハーフ スラブ クレイツ ザ シナスト ウォール ユー カン ビルド"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "out of thin air",

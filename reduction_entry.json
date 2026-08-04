@@ -60,5 +60,36 @@
         "reduction の末尾子音 /n/ が on の初頭母音 /ɑ/ に連結。結果は [nɑ]。"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "reductions",
+      "ipa": "/rɪˈdʌkʃənz/",
+      "examples": [
+        {
+          "en": "Reductions in armor help with protection.",
+          "ja": "防具の削減は保護効果を高める。",
+          "ipa": "[rɪˈdʌkʃənzɪn ˈɑrmɚ ˈhɛlp wɪθ prəˈtɛkʃən]",
+          "kana": "リダクションズインアーマーヘルプウィズプロテクション",
+          "linking": [
+            "Reductions の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。結果は [zɪ]。",
+            "in の末尾子音 /n/ が armor の初頭母音 /ɑ/ に連結。結果は [nɑ]。"
+          ]
+        },
+        {
+          "en": "The reductions of wood make survival harder.",
+          "ja": "木の削減はサバイバルをより難しくする。",
+          "ipa": "[ðə rɪˈdʌkʃənzəv ˈwʊd ˈmeɪk sɚˈvaɪvəl ˈhɑrdər]",
+          "kana": "ザリダクションズアヴウッドメイクサーバイバルハーダー",
+          "linking": [
+            "The は機能語で弱形 [ðə]。",
+            "Reductions の末尾子音 /z/ が of の初頭母音 /ə/ に連結。結果は [zə]。",
+            "of は弱形 [əv]。"
+          ]
+        }
+      ]
+    }
   ]
 }

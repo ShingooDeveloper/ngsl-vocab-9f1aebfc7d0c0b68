@@ -165,6 +165,97 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is explaining",
+      "ipa": "/ɪz ɪkˈspleɪnɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is explaining the crafting recipe to his friends at the workbench.",
+          "ja": "スティーブは作業台で友達にクラフトレシピを説明しています。",
+          "ipa": "/stiv ɪz ɪkˈspleɪnɪŋ ðə ˈkræftɪŋ ˈrɛsəpi tə hɪz frɛndz æt ðə ˈwɝːkˌbɛntʃ/",
+          "kana": "スティヴィズ イクスプレイニング ザ クラフティング レセピ タ ヒズ フレンズ アット ザ ワークベンチ",
+          "linking": [
+            "Steve is: Steve の語末 /v/ が is の弱形 /ɪz/ に連結 [stɪvɪz] スティヴィズ",
+            "is explaining: is の語末 /z/ が explaining の初母音 /ɪ/ に連結 [ɪzɪkˈspleɪnɪŋ] イズイクスプレイニング",
+            "to his: to の弱形 /tə/ が his に続く [tə hɪz] タ ヒズ",
+            "at the: at の /t/ が未開放で詰まり、the の弱形 /ðə/ に続く [æt̚ ðə] アッ ザ"
+          ]
+        },
+        {
+          "en": "I am explaining how to navigate the Nether portal system.",
+          "ja": "ネザーポータルシステムのナビゲート方法を説明しています。",
+          "ipa": "/aɪ æm ɪkˈspleɪnɪŋ haʊ tə ˈnævɪɡeɪt ðə ˈneðɚ ˈpɔrɾl̩ ˈsɪstəm/",
+          "kana": "アイ アミクスプレイニング ハウ タ ナビゲイト ザ ネザー ポーラル システム",
+          "linking": [
+            "am explaining: am の語末 /m/ が explaining の初母音 /ɪ/ に連結 [æmɪkˈspleɪnɪŋ] アミクスプレイニング",
+            "how to: how に続き、to の弱形 /tə/ に弱化 [tə] タ",
+            "the Nether: the の弱形 /ðə/ が Nether に続く [ðə ˈneðɚ] ザ ネザー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was explaining",
+      "ipa": "/wəz ɪkˈspleɪnɪŋ/",
+      "examples": [
+        {
+          "en": "While they were building the base, I was explaining the redstone mechanics.",
+          "ja": "拠点を建設している間、レッドストーン機構を説明していました。",
+          "ipa": "/waɪl ðeɪ wɚ ˈbɪldɪŋ ðə beɪs | aɪ wəz ɪkˈspleɪnɪŋ ðə ˈrɛdˌstoʊn məˈkænɪks/",
+          "kana": "ワイル ゼイ ワービルディング ザ ベイス、アイ ワズ イクスプレイニング ザ レッドストーン メカニックス",
+          "linking": [
+            "were building: were の語末 /r/ が building の初母音 /ɪ/ に連結 [wɚ ˈbɪldɪŋ] ワービルディング",
+            "was explaining: was の語末 /z/ が explaining の初母音 /ɪ/ に連結 [wəz ɪkˈspleɪnɪŋ] ワズ イクスプレイニング",
+            "the redstone: the の弱形 /ðə/ が redstone に続く [ðə ˈrɛdˌstoʊn] ザ レッドストーン"
+          ]
+        },
+        {
+          "en": "She was explaining the mob spawning rules when the creeper suddenly appeared.",
+          "ja": "モブのスポーン規則を説明していたとき、クリーパーが突然現れました。",
+          "ipa": "/ʃi wəz ɪkˈspleɪnɪŋ ðə ˈmoʊb ˈspɔːnɪŋ rulz | wɛn ðə ˈkriːpɚ ˈsʌdənli əˈpɪrd/",
+          "kana": "シー ワズ イクスプレイニング ザ モウブ スポーニング ルーズ、ウェン ザ クリーパー サッデンリー アピアド",
+          "linking": [
+            "was explaining: was の語末 /z/ が explaining の初母音 /ɪ/ に連結 [wəz ɪkˈspleɪnɪŋ] ワズ イクスプレイニング",
+            "the mob: the の弱形 /ðə/ が mob に続く [ðə ˈmoʊb] ザ モウブ",
+            "the creeper: the の弱形 /ðə/ が creeper に続く [ðə ˈkriːpɚ] ザ クリーパー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been explaining",
+      "ipa": "/həd bɪn ɪkˈspleɪnɪŋ/",
+      "examples": [
+        {
+          "en": "He had been explaining the enchantment system for a long time before everyone finally understood.",
+          "ja": "誰もが最終的に理解する前に、彼はエンチャントシステムを長い間説明していました。",
+          "ipa": "/hi həd bɪn ɪkˈspleɪnɪŋ ðə ɪnˈtʃɑːntmənt ˈsɪstəm fɔr ə ˈlɔŋ taɪm bɪˈfɔr ˈɛvriwən ˈfaɪnəli ˌʌndɚˈstʊd/",
+          "kana": "ヒー ハド ビニクスプレイニング ザ インチャントメント システム フォー ア ロング タイム ビフォー エヴリワン ファイナリー アンダースタッド",
+          "linking": [
+            "had been: had の弱形 /həd/、been の弱形 /bɪn/。had の /d/ は未開放で詰まり、been に続く [həd̚ bɪn] ハド ビン",
+            "been explaining: been の語末 /n/ が explaining の初母音 /ɪ/ に連結 [bɪn ɪkˈspleɪnɪŋ] ビニクスプレイニング",
+            "the enchantment: the の弱形 /ðə/ が enchantment に続く [ðə ɪnˈtʃɑːntmənt] ザ インチャントメント"
+          ]
+        },
+        {
+          "en": "They had been explaining the mining strategy when the power suddenly cut off.",
+          "ja": "電力が突然断絶されたとき、彼らは採掘戦略をずっと説明していました。",
+          "ipa": "/ðeɪ həd bɪn ɪkˈspleɪnɪŋ ðə ˈmaɪnɪŋ ˈstrætədʒi wɛn ðə ˈpaʊɚ ˈsʌdənli ˈkʌt ɔf/",
+          "kana": "ゼイ ハド ビニクスプレイニング ザ マイニング ストラテジー ウェン ザ パウアー サッデンリー カット オフ",
+          "linking": [
+            "had been: had の弱形 /həd/、been の弱形 /bɪn/。had の /d/ は未開放で詰まり、been に続く [həd̚ bɪn] ハド ビン",
+            "been explaining: been の語末 /n/ が explaining の初母音 /ɪ/ に連結 [bɪn ɪkˈspleɪnɪŋ] ビニクスプレイニング",
+            "the mining: the の弱形 /ðə/ が mining に続く [ðə ˈmaɪnɪŋ] ザ マイニング"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

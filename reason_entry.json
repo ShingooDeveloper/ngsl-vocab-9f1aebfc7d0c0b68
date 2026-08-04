@@ -210,6 +210,97 @@
           "kana": "ザ リーズニング ビハインド チュージング ディスワイ レヴルイズ ザット ダイモンズ アー モウスト アバンダント ヒア"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is reasoning",
+      "ipa": "/ɪz ˈriːzənɪŋ/",
+      "examples": [
+        {
+          "en": "He is reasoning about the best route to navigate through the nether fortress.",
+          "ja": "彼はネザー要塞を通り抜けるための最良のルートについて考えています。",
+          "ipa": "/hi ɪz ˈriːzənɪŋ əˈbaʊt ðə ˈbɛst ruːt tu ˈnævɪˌɡeɪt θruː ðə ˈnɛðər ˈfɔrtres/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ヒ イズ リーゾニング アバウト ザ ベスト ルート トゥ ナヴィゲイト スルー ザ ネザー フォートレス"
+        },
+        {
+          "en": "We are reasoning together about which blocks to use for this massive wall.",
+          "ja": "この巨大な壁にどのブロックを使うかについて、一緒に考えています。",
+          "ipa": "/wi ɚ ˈriːzənɪŋ təˈɡɛðər əˈbaʊt wɪtʃ ˈblɑks tə ˈjuːz fər ðɪs ˈmæsɪv ˈwɔl/",
+          "linking": [
+            "are は弱形 /ɚ/ に弱化",
+            "about の語末t が which の /w/（子音）に続く → 未開放で /t̚/ に聞こえる [əˈbaʊt̚ wɪtʃ]",
+            "to は機能語で弱形 /tə/ に弱化",
+            "for は機能語で弱形 /fər/ に弱化"
+          ],
+          "kana": "ウィ ァー リーゾニング トゥゲザー アバウト ウィッチ ブロックス タ ユーズ ファ ディス マッシヴ ウォール"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was reasoning",
+      "ipa": "/wəz ˈriːzənɪŋ/",
+      "examples": [
+        {
+          "en": "They were reasoning about the dragon's attack patterns when the server suddenly crashed.",
+          "ja": "ドラゴンの攻撃パターンについて考えていた時に、サーバーが突然クラッシュしました。",
+          "ipa": "/ðeɪ wɚ ˈriːzənɪŋ əˈbaʊt ðə ˈdræɡənz əˈtæk ˈpætərnz wɛn ðə ˈsɝvər ˈsʌdənli ˈkræʃt/",
+          "linking": [
+            "were は弱形 /wɚ/ に弱化",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ワー リーゾニング アバウト ザ ドラゴンズ アタック パターンズ ウェン ザ サーバー サドンリー クラッシュト"
+        },
+        {
+          "en": "I was reasoning through the redstone circuit design when you disconnected.",
+          "ja": "あなたが切断された時、私はレッドストーン回路の設計について考えていました。",
+          "ipa": "/aɪ wəz ˈriːzənɪŋ θruː ðə ˈrɛdˌstoʊn ˈsɝkɪt dɪˈzaɪn wɛn ju dɪsəˈnɛktəd/",
+          "linking": [
+            "was は弱形 /wəz/ に弱化",
+            "through の語末の音 /θ/ と the の /ð/ が続く（連結ではなく別々に発音）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ リーゾニング スルー ザ レッドストーン サーキット ディザイン ウェン ユー ディスコネクテッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been reasoning",
+      "ipa": "/həd bɪn ˈriːzənɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we reached the End, Steve had been reasoning about the optimal strategy for over an hour.",
+          "ja": "私たちがエンドに到達した時には、スティーブは最適な戦略について1時間以上考えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ritʃt ðə ˈɛnd | ˈstiːv həd bɪn ˈriːzənɪŋ əˈbaʊt ðə ˈɑptəməl ˈstrætədʒi fər ˈoʊvər ən ˈaʊər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/ に弱化",
+            "been は弱形 /bɪn/ に弱化",
+            "for は機能語で弱形 /fər/ に弱化"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチド ザ エンド、スティーヴ ハド ビン リーゾニング アバウト ザ アプティメル ストラテジー ファー オウヴァー アン アワー"
+        },
+        {
+          "en": "They had been reasoning about the mining operation plan when the power went out.",
+          "ja": "停電した時には、彼らは採掘作業計画について考え続けていました。",
+          "ipa": "/ðeɪ həd bɪn ˈriːzənɪŋ əˈbaʊt ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən ˈplæn wɛn ðə ˈpaʊər wɛnt ˈaʊt/",
+          "linking": [
+            "had は弱形 /həd/ に弱化",
+            "been は弱形 /bɪn/ に弱化",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド ビン リーゾニング アバウト ザ マイニング オペレーション プラン ウェン ザ パワー ウェント アウト"
+        }
+      ]
     }
   ],
   "idioms": [

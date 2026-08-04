@@ -55,5 +55,122 @@
       ],
       "kana": "クリエイティブ・ビルディング・テクニークス・インスパイアード・プレイヤーズ・タ・アテンプト・ボウルド・ストラクチャーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "inspires",
+      "ipa": "/ɪnˈspaɪrz/",
+      "examples": [
+        {
+          "en": "This awesome view inspires all players to build more creative structures.",
+          "ja": "この素晴らしい景色は、すべてのプレイヤーにもっと創造的な構造を建築するよう刺激を与える。",
+          "ipa": "/ðɪs ˈɔsəm ˈvjuː ɪnˈspaɪrzɔl ˈpleɪərz tə ˈbɪld mɔːr kriˈeɪtɪv ˈstrʌkʃərz/",
+          "linking": [
+            "inspires all → 語末子音 /z/ が母音 /ɔ/ に連結 [ɪnˈspaɪrzɔl] インスパイアーゾール",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ディス オーサム ビュー インスパイアーゾール プレイヤーズ タ ビルド モア クリエイティヴ ストラクチャーズ"
+        },
+        {
+          "en": "Her creative mind inspires everyone around to try new mining techniques.",
+          "ja": "彼女の創造的な心は、周りのみんなに新しい採掘技法を試すよう刺激を与える。",
+          "ipa": "/hɚ kriˈeɪtɪv ˈmaɪnd ɪnˈspaɪrzɛvrɪˈwʌn əˈraʊnd tə ˈtraɪ ˈnjuː ˈmaɪnɪŋ tekˈniks/",
+          "linking": [
+            "mind inspires → 語末子音 /d/ が母音 /ɪ/ に連結 [ˈmaɪndɪnˈspaɪrz] マインディンスパイアーズ",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ハー クリエイティヴ マインディンスパイアーズ エヴリワン アラウンド タ トライ ニュー マイニング テクニークス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "inspired",
+      "ipa": "/ɪnˈspaɪrd/",
+      "examples": [
+        {
+          "en": "That epic build inspired me to gather all the diamonds I could find.",
+          "ja": "あのエピックな建築は、私に見つけられるすべてのダイヤを集めるよう刺激を与えた。",
+          "ipa": "/ðæt ˈɛpɪk ˈbɪld ɪnˈspaɪərd mi tə ˈɡæðər ˈɔl ðə ˈdaɪməndz aɪ kʊd faɪnd/",
+          "linking": [
+            "build inspired → 語末子音 /d/ が母音 /ɪ/ に連結 [ˈbɪldɪnˈspaɪərd] ビルディンスパイアード",
+            "to は機能語で弱形 /tə/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザット エピック ビルディンスパイアード ミー タ ギャザー オール ダ ダイマンズ アイ クッド ファインド"
+        },
+        {
+          "en": "The tutorial video inspired our team to design the tallest tower ever.",
+          "ja": "そのチュートリアル動画は、私たちのチームに今までで最も高いタワーを設計するよう励ました。",
+          "ipa": "/ðə ˈtjuːtɔrɪəl ˈvɪdioʊ ɪnˈspaɪərd ˈaʊər ˈtim tə dɪˈzaɪn ðə ˈtɔlɪst ˈtaʊər ˈɛvər/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（2回）",
+            "inspired our → 語末子音 /d/ が母音 /aʊ/ に連結 [ɪnˈspaɪərdaʊər] インスパイアーダワー",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ダ チューター ビデオー インスパイアーダワー ティーム タ ディザイン ダ トーリスト タワー エヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "inspired",
+      "ipa": "/ɪnˈspaɪrd/",
+      "examples": [
+        {
+          "en": "Inspired by the landscape, I decided to build near the ocean with beautiful cliffs.",
+          "ja": "景色に感化されて、私は美しい崖のある海の近くに建築することにした。",
+          "ipa": "/ɪnˈspaɪərd baɪ ðə ˈlændskeɪp aɪ dɪˈsaɪdɪd tə ˈbɪld ˈnɪr ðiː ˈoʊʃən wɪð ˈbjuːtəfl ˈklɪfs/",
+          "linking": [
+            "Inspired by → 語末子音 /d/ が母音 /a/ に連結 [ɪnˈspaɪərdbaɪ] インスパイアーバイ",
+            "the landscape → /ðə/ は冠詞で弱形、/l/ が次の子音に続く",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "インスパイアーバイ ダ ランドスケイプ アイ ディサイディド タ ビルド ニアー ディー オーシャン ウィズ ビューティフル クリフス"
+        },
+        {
+          "en": "Inspired by their strategy, we started mining deeper and gathering rare resources faster.",
+          "ja": "彼らの戦略に感化されて、私たちはより深く掘り始め、レアなリソースをより早く集め始めた。",
+          "ipa": "/ɪnˈspaɪərd baɪ ðɛr ˈstrætəˌdʒi wi ˈstɑːrtəd ˈmaɪnɪŋ ˈdipər ænd ˈɡæðərɪŋ ˈrɛr ˈrɛsɔːrsɪz ˈfæstər/",
+          "linking": [
+            "Inspired by → 語末子音 /d/ が母音 /a/ に連結 [ɪnˈspaɪərdbaɪ] インスパイアーバイ",
+            "and は接続詞で弱化 /ən/ または /ənd/"
+          ],
+          "kana": "インスパイアーバイ ゼア ストラティジー ウィー スターティド マイニング ディーパー エンド ギャザリング レアー レソースィズ ファスター"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "inspiring",
+      "ipa": "/ɪnˈspaɪrɪŋ/",
+      "examples": [
+        {
+          "en": "Building with my friends is inspiring and makes the whole server more connected.",
+          "ja": "友達と一緒に建築するのは刺激的で、サーバー全体がもっとつながった感じになる。",
+          "ipa": "/ˈbɪldɪŋ wɪð maɪ ˈfrɛndz ɪz ɪnˈspaɪrɪŋ ænd ˈmeɪks ðə ˈhoʊl ˈsɚvər mɔːr kəˈnɛktɪd/",
+          "linking": [
+            "is inspiring → 語末子音 /z/ が母音 /ɪ/ に連結 [ɪzɪnˈspaɪrɪŋ] イズインスパイアリング",
+            "and は接続詞で弱化 /ən/"
+          ],
+          "kana": "ビルディング ウィズ マイ フレンズ イズインスパイアリング エンド メイクス ダ ホール サーヴァー モア コネクティド"
+        },
+        {
+          "en": "Watching speedrunners complete the Ender Dragon challenge is inspiring for learning new strategies.",
+          "ja": "スピードランナーがエンダードラゴンチャレンジを完了するのを見ることは、新しい戦略を学ぶのに刺激的だ。",
+          "ipa": "/ˈwɑʧɪŋ ˈspiːdˌrʌnərz kəmˈplit ðə ˈɛndər ˈdræɡən ˈʧælɪndʒ ɪz ɪnˈspaɪrɪŋ ˈfɔr ˈlɝnɪŋ ˈnjuː strəˈtɛdʒiz/",
+          "linking": [
+            "is inspiring → 語末子音 /z/ が母音 /ɪ/ に連結 [ɪzɪnˈspaɪrɪŋ] イズインスパイアリング",
+            "for は機能語で弱形 /fər/ または /fɔr/"
+          ],
+          "kana": "ウォッチング スピードランナーズ コンプリート ダ エンダー ドラゴン チャレンジ イズインスパイアリング フォー ラーニング ニュー ストラティジーズ"
+        }
+      ]
+    }
   ]
 }

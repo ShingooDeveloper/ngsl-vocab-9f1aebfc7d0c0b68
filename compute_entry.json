@@ -55,5 +55,119 @@
       ],
       "kana": "イッツ ハード タ カンピュート ハウ マッチ コンクリート ユー ニード ファ ザ フロア"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "computes",
+      "ipa": "/kəmˈpjuːts/",
+      "examples": [
+        {
+          "en": "The system computes your experience level quickly.",
+          "ja": "そのシステムはあなたのエクスペリエンスレベルを素早く計算する。",
+          "ipa": "/ðə ˈsɪs.təm kəmˈpjuːts jɚ ɪkˌspɪr.i.əns ˈlɛv.əl ˈkwɪk.li/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ",
+            "「your」は代名詞で弱形 /jɚ/ [jɚ] ユア"
+          ],
+          "kana": "ザ システム カンピューツ ユア イクスピアリエンス レベル クウィックリ"
+        },
+        {
+          "en": "My calculator computes block distances in seconds.",
+          "ja": "私の計算機はブロック距離を数秒で計算する。",
+          "ipa": "/maɪ ˈkæl.kjə.leɪ.tɚ kəmˈpjuːts ˈblɑk ˈdɪs.təns.ɪz ɪn ˈsɛk.əndz/",
+          "linking": [
+            "「distances」の末尾子音 /z/ が母音 /ɪ/ に連結 [ˈdɪs.tən.sɪz ɪn] ディスタンシズイン",
+            "「in」は弱形 /ɪn/ [ɪn] イン、機能語として短縮"
+          ],
+          "kana": "マイ キャルキュレイター カンピューツ ブロック ディスタンシズイン セカンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "computed",
+      "ipa": "/kəmˈpjuːtəd/",
+      "examples": [
+        {
+          "en": "I computed the perfect layout for this redstone device.",
+          "ja": "このレッドストーン装置に対して完璧なレイアウトを計算した。",
+          "ipa": "/aɪ kəmˈpjuːtəd ðə ˈpɜːr.fɪkt ˈleɪ.aʊt fɔːr ðɪs ˈrɛd.stoʊn dɪˈvaɪs/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ",
+            "「for」は前置詞で弱形 /fɚ/ [fɚ] ファ"
+          ],
+          "kana": "アイ カンピューテッド ザ パーフェクト レイアウト ファ ディス レッドストウン デバイス"
+        },
+        {
+          "en": "She computed the optimal placement yesterday.",
+          "ja": "彼女は昨日最適な配置を計算した。",
+          "ipa": "/ʃi kəmˈpjuːtəd ðə ˌɑp.tə.məl ˈpleɪs.mənt ˈjɛs.tɚ.deɪ/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ",
+            "「placement」の末尾 /t/ が未開放で [pleɪs.mənt̚] プレイスメント"
+          ],
+          "kana": "シー カンピューテッド ザ オプティマル プレイスメント イェスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "computed",
+      "ipa": "/kəmˈpjuːtəd/",
+      "examples": [
+        {
+          "en": "The value computed by this system is accurate.",
+          "ja": "このシステムによって計算された値は正確である。",
+          "ipa": "/ðə ˈvæl.juː kəmˈpjuːtəd baɪ ðɪs ˈsɪs.təm ɪz ˈær.ə.kət/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ",
+            "「this」は指示詞で弱化傾向 [ðɪs] ディス"
+          ],
+          "kana": "ザ ヴァリュー カンピューテッド バイ ディス システム イズ エラキット"
+        },
+        {
+          "en": "Once computed, the coordinates appear on the map.",
+          "ja": "一度計算されたら、座標がマップに表示される。",
+          "ipa": "/wʌns kəmˈpjuːtəd, ðə koʊˌɔːr.dən.ɪts əˈpɪr ɑn ðə mæp/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ（2回）",
+            "「on」は弱形 /ɑn/ [ɑn] アン"
+          ],
+          "kana": "ワンス カンピューテッド ザ コーディネイツ アピア アン ザ マップ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "computing",
+      "ipa": "/kəmˈpjuːtɪŋ/",
+      "examples": [
+        {
+          "en": "The device is computing the safest route now.",
+          "ja": "そのデバイスは今、最も安全なルートを計算中である。",
+          "ipa": "/ðə dɪˈvaɪs ɪz kəmˈpjuːtɪŋ ðə ˈseɪf.əst ruːt naʊ/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ（2回）",
+            "「is」は助動詞で弱形傾向 [ɪz] イズ"
+          ],
+          "kana": "ザ デバイス イズ カンピューティング ザ セイフェスト ルート ナウ"
+        },
+        {
+          "en": "While computing resources, the game may lag slightly.",
+          "ja": "リソースを計算中の間、ゲームが少し遅延する可能性がある。",
+          "ipa": "/waɪl kəmˈpjuːtɪŋ ˈrɛs.ɔːr.sɪz, ðə ɡeɪm meɪ læɡ ˈslaɪt.li/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ [ðə] ザ",
+            "「may」は助動詞で通常は強形 [meɪ] メイ"
+          ],
+          "kana": "ワイル カンピューティング レソーシーズ ザ ゲイム メイ ラッグ スライトリ"
+        }
+      ]
+    }
   ]
 }

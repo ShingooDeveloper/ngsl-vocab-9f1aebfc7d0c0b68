@@ -74,5 +74,154 @@
       ],
       "kana": "ザ ビルダー ティーム ニーズインプッ フラムエクスピアリンスト プレイアーズ アバウト ザ ディザイン"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "inputs",
+      "ipa": "/ˈɪnpʊts/",
+      "examples": [
+        {
+          "en": "You need multiple inputs for complex redstone circuits.",
+          "ja": "複雑なレッドストーン回路には複数の入力が必要です。",
+          "ipa": "/juː niːd ˈmʌltɪpəl ˈɪnpʊts fɚ ˈkɑːmplɛks ˈrɛdˌstoʊn ˈsɝkɪts/",
+          "linking": [
+            "need の末尾 /d/ が multiple の初頭 /m/ に連結 [niːd ˈmʌltɪpəl] ニード マルティプル。",
+            "for は弱形 /fɚ/ に弱化される。",
+            "complex redstone → /s/ が /r/ に近接 [ˈkɑːmplɛks ˈrɛd] コンプレックス レッド。"
+          ],
+          "kana": "ユー ニード マルティプル インプッツ ファー コンプレックス レッドストーン サーキッツ"
+        },
+        {
+          "en": "These inputs determine the signal strength in the circuit.",
+          "ja": "これらの入力が回路内の信号強度を決定します。",
+          "ipa": "/ðiːz ˈɪnpʊts dɪˈtɝmɪn ðə ˈsɪɡnəl ˈstrɛŋθ ɪn ðə ˈsɝkɪt/",
+          "linking": [
+            "these の末尾 /z/ が inputs の初頭 /ɪ/ に連結 [ðiːz ˈɪnpʊts] ディーズインプッツ。",
+            "the は弱形 /ðə/ (2回)。",
+            "signal の末尾 /l/ は次の /s/ に挟まれるが子音+子音なので連結なし。"
+          ],
+          "kana": "ディーズインプッツ ディターミン ザ シグナル ストレングス イン ザ サーキット"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "inputs",
+      "ipa": "/ˈɪnpʊts/",
+      "examples": [
+        {
+          "en": "The command block inputs the coordinates every game tick.",
+          "ja": "コマンドブロックはゲームティックごとに座標を入力します。",
+          "ipa": "/ðə ˈkɑːmænd blɑːk ˈɪnpʊts ðə ˌkoʊˈɔːrdəneɪts ˈɛvri ˈɡeɪm tɪk/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)。",
+            "block の末尾 /k/ が inputs の初頭 /ɪ/ に連結 [blɑːk ˈɪnpʊts] ブロック インプッツ。",
+            "every game → /i/ と /ɡ/ が近接するが、word boundary をはさむ。"
+          ],
+          "kana": "ザ コマンド ブロック インプッツ ザ コーオーディネッツ エブリー ゲーム ティック"
+        },
+        {
+          "en": "Each pressure plate inputs a redstone signal to the comparator.",
+          "ja": "各圧力板がレッドストーン信号をコンパレータに入力します。",
+          "ipa": "/iːtʃ ˈprɛʃər pleɪt ˈɪnpʊts ə ˈrɛdˌstoʊn ˈsɪɡnəl tə ðə kəmˈpɛrətər/",
+          "linking": [
+            "plate の末尾 /t/ が inputs の初頭 /ɪ/ に連結 [pleɪt ˈɪnpʊts] プレイト インプッツ。",
+            "a は弱形 /ə/。to は弱形 /tə/。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "イーチ プレッシャー プレイト インプッツ ア レッドストーン シグナル タ ザ カンペラレイター"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "inputted",
+      "ipa": "/ˈɪnpʊtɪd/",
+      "examples": [
+        {
+          "en": "I inputted the wrong command and accidentally deleted the structure.",
+          "ja": "間違ったコマンドを入力して、誤って構造を削除してしまいました。",
+          "ipa": "/aɪ ˈɪnpʊtɪd ðə rɔːŋ kəˈmænd ənd ˌæksɪˈdɛntəli dɪˈlitɪd ðə ˈstrʌktʃər/",
+          "linking": [
+            "the は弱形 /ðə/。inputted の末尾 /d/ が the の初頭 /ð/ に連結 [ˈɪnpʊtɪd ðə] インプッティド ザ。",
+            "and は弱形 /ənd/ または /ən/。",
+            "wrong command → /ŋ/ /k/ が近接。"
+          ],
+          "kana": "アイ インプッティド ザ ロング コマンド エン アクシデンタリー ディリーティド ザ ストラクチャー"
+        },
+        {
+          "en": "Once we inputted the spawn coordinates, the portal activated.",
+          "ja": "スポーン座標を入力すると、ポータルが起動しました。",
+          "ipa": "/wʌns wiː ˈɪnpʊtɪd ðə ˈspoʊn ˌkoʊˈɔːrdəneɪts ðə ˈpoːrtəl ˈæktɪveɪtɪd/",
+          "linking": [
+            "once の末尾 /s/ が we の初頭 /w/ に連結 [wʌns wiː] ワンスウィー。",
+            "the は弱形 /ðə/ (2回)。inputted の末尾 /d/ が the に連結。"
+          ],
+          "kana": "ワンスウィー インプッティド ザ スポーン コーオーディネッツ ザ ポータル アクティベイティド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "inputted",
+      "ipa": "/ˈɪnpʊtɪd/",
+      "examples": [
+        {
+          "en": "Once all the necessary data has been inputted, the mechanism activates.",
+          "ja": "必要なデータがすべて入力されると、メカニズムが起動します。",
+          "ipa": "/wʌns ɔːl ðə ˈnɛsəseri ˈdeɪtə həz bɪn ˈɪnpʊtɪd ðə ˈmɛkənɪzəm ˈæktɪveɪts/",
+          "linking": [
+            "has の末尾 /z/ が been の初頭 /b/ に連結 [həz bɪn] ハズビン。",
+            "the は弱形 /ðə/ (2回)。inputted の末尾 /d/ が the に連結。"
+          ],
+          "kana": "ワンス オール ザ ネセセリー データ ハズビン インプッティド ザ メカニズム アクティベイツ"
+        },
+        {
+          "en": "The coordinates have been inputted correctly into the redstone system.",
+          "ja": "座標が正しくレッドストーンシステムに入力されています。",
+          "ipa": "/ðə ˌkoʊˈɔːrdəneɪts həv bɪn ˈɪnpʊtɪd ˈkɔːrɪktli ˈɪntu ðə ˈrɛdˌstoʊn ˈsɪstəm/",
+          "linking": [
+            "have の末尾 /v/ が been の初頭 /b/ に連結 [həv bɪn] ハブビン。",
+            "into は弱形 /ˈɪntu/ または /ɪntə/。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ コーオーディネッツ ハブビン インプッティド コレクトリー イント ザ レッドストーン システム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "inputting",
+      "ipa": "/ˈɪnpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "Inputting the correct coordinates is essential for successful teleportation.",
+          "ja": "正しい座標を入力することはテレポーテーション成功に不可欠です。",
+          "ipa": "/ˈɪnpʊtɪŋ ðə kəˈrɛkt ˌkoʊˈɔːrdəneɪts ɪz ɪˈsɛnʃəl fɚ səkˈsɛsfəl ˌtɛləˈpɔːrteɪʃən/",
+          "linking": [
+            "inputting の末尾 /ŋ/ が the の初頭 /ð/ に連結 [ˈɪnpʊtɪŋ ðə] インプッティング ザ。",
+            "the は弱形 /ðə/。for は弱形 /fɚ/。",
+            "successful の末尾 /l/ が teleportation の初頭 /t/ → 子音+子音。"
+          ],
+          "kana": "インプッティング ザ コレクト コーオーディネッツ イズ エッセンシャル ファー サクセスフル テレポーテーション"
+        },
+        {
+          "en": "We are inputting all the player data into the server right now.",
+          "ja": "私たちは今、すべてのプレイヤーデータをサーバーに入力しています。",
+          "ipa": "/wiː ɑːr ˈɪnpʊtɪŋ ɔːl ðə ˈpleɪər ˈdeɪtə ˈɪntu ðə ˈsɝvər raɪt naʊ/",
+          "linking": [
+            "are は弱形 /ɚ/ に弱化 [wiː ɚ] ウィアー。",
+            "the は弱形 /ðə/。all の末尾 /l/ が the に連結 [ɔːl ðə] オールザ。",
+            "into は弱形 /ˈɪntu/ または /ɪntə/。"
+          ],
+          "kana": "ウィアー インプッティング オールザ プレイアー データ イント ザ サーバー ライト ナウ"
+        }
+      ]
+    }
   ]
 }

@@ -54,5 +54,167 @@
       ],
       "kana": "ザ ダイマンド アーマー イズ ビヨンド リペアー アフター ザ ラーヴァ アクシデント"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "repairs",
+      "ipa": "/rɪˈpɛrz/",
+      "examples": [
+        {
+          "en": "My friend repairs all the armor while I mine for diamonds.",
+          "ja": "私がダイヤを採掘する間、友達はすべての防具を修理します。",
+          "ipa": "/maɪ ˈfrɛnd rɪˈpɛrz ˈɔːl ðɪ ˈɑrmər waɪl aɪ ˈmaɪn fɔr ˈdaɪməndz/",
+          "linking": [
+            "repairs の z が all に連結。all は /ɔːl/ [rɪˈpɛrz ˈɔːl] リペアーズ オール",
+            "the は弱形 /ðɪ/ で armor に続く",
+            "while の l が I に連結 [waɪl aɪ] ワイル アイ",
+            "for は弱形 /fər/ で diamonds に続く"
+          ],
+          "kana": "マイ フレンド リペアーズ オール ディ アーマー ワイル アイ マイン フォー ダイモンズ"
+        },
+        {
+          "en": "The mending enchantment repairs damaged tools automatically.",
+          "ja": "修繕エンチャントは破損したツールを自動的に修理します。",
+          "ipa": "/ðə ˈmɛndɪŋ ɪnˈtʃæntmənt rɪˈpɛrz ˈdæmɪdʒd ˈtuːlz ˈɔːtəˌmætɪkli/",
+          "linking": [
+            "the は弱形 /ðə/ で mending に続く",
+            "enchantment の t が repairs に続く（子音+子音、連結なし）",
+            "repairs の z が damaged に連結 [rɪˈpɛrz ˈdæmɪdʒd] リペアーズ ダメージド",
+            "tools の z が automatically に続く（子音+母音、連結） [ˈtuːlz ˈɔːtəˌmætɪkli]"
+          ],
+          "kana": "ザ メンディング インチャントメント リペアーズ ダメージド トゥールズ オートマティカリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "repaired",
+      "ipa": "/rɪˈpɛrd/",
+      "examples": [
+        {
+          "en": "I repaired my pickaxe with the materials I found.",
+          "ja": "見つけた素材で自分のツルハシを修理しました。",
+          "ipa": "/aɪ rɪˈpɛrd maɪ ˈpɪkˌæks wɪð ðə ˈmətɪriəlz aɪ ˈfaʊnd/",
+          "linking": [
+            "repaired の d が my に続く（子音+子音、連結なし）",
+            "with の ð が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/ で materials に続く",
+            "materials の z が I に連結 [əlz aɪ] アルズ アイ"
+          ],
+          "kana": "アイ リペアード マイ ピッカックス ウィズ ザ マテリアルズ アイ ファウンド"
+        },
+        {
+          "en": "We repaired the entire house after the raid.",
+          "ja": "襲撃の後、家全体を修理しました。",
+          "ipa": "/wi rɪˈpɛrd ðə ənˈtaɪər ˈhaʊs ˈæftər ðə ˈreɪd/",
+          "linking": [
+            "repaired の d が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/ で entire に続く",
+            "entire の r が house に連結 [ənˈtaɪər ˈhaʊs] エンタイアー ハウス",
+            "after の r が the に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ リペアード ザ エンタイアー ハウス アフター ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "repaired",
+      "ipa": "/rɪˈpɛrd/",
+      "examples": [
+        {
+          "en": "Having repaired the bridge, we could finally cross the valley.",
+          "ja": "橋を修理した後、やっと谷を横切ることができました。",
+          "ipa": "/ˈheɪvɪŋ rɪˈpɛrd ðə ˈbrɪdʒ | wi ˈkʊd ˈfaɪnəli ˈkrɔːs ðə ˈvæli/",
+          "linking": [
+            "repaired の d が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/ で bridge に続く",
+            "bridge の dʒ が we に続く（子音+子音、連結なし）",
+            "finally の li が cross に続く。cross の s が the に続く。the は弱形 /ðə/ で valley に続く"
+          ],
+          "kana": "ハヴィング リペアード ザ ブリッジ、ウィ クッド ファイナリー クロース ザ ヴァレー"
+        },
+        {
+          "en": "The damaged tools were repaired at the crafting station.",
+          "ja": "破損したツールはクラフト台で修理されました。",
+          "ipa": "/ðə ˈdæmɪdʒd ˈtuːlz wər rɪˈpɛrd æt ðə ˈkræftɪŋ ˈsteɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/ で damaged に続く",
+            "tools の z が were に続く（子音+子音、連結なし）",
+            "repaired の d が at に連結 [rɪˈpɛrd æt] リペアード アット",
+            "at の t が the に未開放で続く [æt̚ ðə] アット ザ。the は弱形 /ðə/"
+          ],
+          "kana": "ザ ダメージド トゥールズ ワー リペアード アット ザ クラフティング ステイション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "repairing",
+      "ipa": "/rɪˈpɛrɪŋ/",
+      "examples": [
+        {
+          "en": "I'm repairing my armor before the next battle.",
+          "ja": "次の戦いの前に防具を修理しています。",
+          "ipa": "/aɪm rɪˈpɛrɪŋ maɪ ˈɑrmər bɪˈfɔːr ðə ˈnɛkst ˈbætəl/",
+          "linking": [
+            "repairing の ŋ が my に続く（子音+子音、連結なし）",
+            "armor の r が before に続く（子音+子音、連結なし）",
+            "before の r が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "next の t が battle に続く（子音+子音、連結なし）"
+          ],
+          "kana": "アイム リペアリング マイ アーマー ビフォー ザ ネクスト バトル"
+        },
+        {
+          "en": "Before repairing the furnace, gather all the resources.",
+          "ja": "かまどを修理する前に、すべてのリソースを集めてください。",
+          "ipa": "/bɪˈfɔːr rɪˈpɛrɪŋ ðə ˈfɜːrnɪs | ˈɡæðər ˈɔːl ðə ˈrɛsɔːrsɪz/",
+          "linking": [
+            "before の r が repairing に続く（子音+子音、連結なし） [bɪˈfɔːr rɪˈpɛrɪŋ] ビフォー リペアリング",
+            "repairing の ŋ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "gather の r が all に連結 [ˈɡæðər ˈɔːl] ギャザー オール",
+            "all の l が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ で resources に続く"
+          ],
+          "kana": "ビフォー リペアリング ザ ファーニス、ギャザー オール ザ リソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "repairs",
+      "ipa": "/rɪˈpɛrz/",
+      "examples": [
+        {
+          "en": "Necessary repairs take a lot of time and resources.",
+          "ja": "必要な修理には多くの時間とリソースがかかります。",
+          "ipa": "/ˈnɛsəˌsɛri rɪˈpɛrz ˈteɪk ə ˈlɑːt əv ˈtaɪm ənd ˈrɛsɔːrsɪz/",
+          "linking": [
+            "necessary の i が repairs に続く（母音+子音、連結なし） [ˈnɛsəˌsɛri rɪˈpɛrz] ネセサリー リペアーズ",
+            "repairs の z が take に続く（子音+子音、連結なし）",
+            "take の k が a に連結。a は弱形 /ə/ [ˈteɪk ə] テイカ",
+            "lot の t が of に連結。of は弱形 /əv/ [ˈlɑːt əv] ラット オブ"
+          ],
+          "kana": "ネセサリー リペアーズ テイカ ア ラット オブ タイム アンド リソーシズ"
+        },
+        {
+          "en": "All repairs must be completed before we leave the base.",
+          "ja": "基地を離れる前に、すべての修理を完了しなければなりません。",
+          "ipa": "/ˈɔːl rɪˈpɛrz ˈmʌst bi kəmˈpliːtɪd bɪˈfɔːr wi ˈliːv ðə ˈbeɪs/",
+          "linking": [
+            "all の l が repairs に続く（子音+子音、連結なし）",
+            "repairs の z が must に続く（子音+子音、連結なし）",
+            "completed の d が before に続く（子音+子音、連結なし）",
+            "leave の v が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ で base に続く"
+          ],
+          "kana": "オール リペアーズ マスト ビー コンプリーティド ビフォー ウィ リーブ ザ ベース"
+        }
+      ]
+    }
   ]
 }

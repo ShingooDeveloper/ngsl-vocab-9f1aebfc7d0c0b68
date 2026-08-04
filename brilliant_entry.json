@@ -58,5 +58,71 @@
       ],
       "kana": "ザッツァ ブリリエント アイディア ファ アン アンダーグラウンド ベイス"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "more brilliant",
+      "ipa": "/mɔr ˈbrɪljənt/",
+      "examples": [
+        {
+          "en": "This mining technique is more brilliant than our previous method because of the new layout we designed.",
+          "ja": "このマイニング技術は、設計した新しいレイアウトのため、以前の方法より優れています。",
+          "ipa": "/ðɪs ˈmaɪnɪŋ tɛkˈnik ɪz mɔr ˈbrɪljənt ðæn ˈaʊər ˈpriːviəs ˈmɛθəd bɪˈkɔz əv ðə ˈnu ˈleɪaʊt wi dɪˈzaɪnd/",
+          "linking": [
+            "than our → than の末尾 /n/ が our の初頭母音 /aʊ/ に連結 [ðæn ˈaʊər]",
+            "of the → of の末尾子音 /v/ が the の弱形 /ə/ に連結 [əv ðə]",
+            "the は冠詞で弱形 /ðə/",
+            "mining technique は子音+子音で連結なし"
+          ],
+          "kana": "ディス マイニング テクニック イズ モー ブリリエント ザン アワー プリービアス メサッド ビコーズ オヴ ザ ニュー レイアウト ウィ ディザインド"
+        },
+        {
+          "en": "Your redstone farm design is so much more brilliant than mine; the automation system you created is genius!",
+          "ja": "あなたのレッドストーン農場の設計は私のものより遙かに優れています。あなたが作った自動化システムは天才的です！",
+          "ipa": "/jɔr ˈrɛdˌstoʊn ˈfɑrm dɪˈzaɪn ɪz soʊ mʌtʃ mɔr ˈbrɪljənt ðæn ˈmaɪn | ðə ˌɔːtəˈmeɪʃən ˈsɪstəm ju kriˈeɪtəd ɪz ˈdʒiːniəs/",
+          "linking": [
+            "much more は子音+子音で連結なし",
+            "than mine は子音+子音で連結なし",
+            "the は弱形 /ðə/",
+            "system you は子音+子音で連結なし"
+          ],
+          "kana": "ユォ レッドストーン ファーム デザイン イズ ソー マッチ モー ブリリエント ザン マイン。ザ オートメイション シスタム ユー クリエイテッド イズ ジーニアス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "most brilliant",
+      "ipa": "/ˈmoʊst ˈbrɪljənt/",
+      "examples": [
+        {
+          "en": "That enchantment combination is the most brilliant strategy we have discovered for defeating the Ender Dragon.",
+          "ja": "そのエンチャント組み合わせは、エンダードラゴンを倒すために発見した最も優れた戦略です。",
+          "ipa": "/ðæt ɛnˈtʃæntmənt ˌkɑmbɪˈneɪʃən ɪz ðə ˈmoʊst ˈbrɪljənt ˈstrætədʒi wi həv dɪˈskʌvərd fɔr dɪˈfiːtɪŋ ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "That enchantment → /t/ が /ɛ/ に連結 [ðæt ɛnˈtʃæntmənt]",
+            "is the → is の弱形 /ɪz/ と the の弱形 /ðə/",
+            "for は弱形 /fɚ/",
+            "the Ender → the の弱形 /ðə/"
+          ],
+          "kana": "ザット エンチャントメント コンビネーション イズ ザ モースト ブリリエント ストラタジー ウィ ハブ ディスカバード フォア ディフィーティング ジ エンダー ドラゴン"
+        },
+        {
+          "en": "Look for the most brilliant path through the cave maze; it will lead you directly to the deepest diamond veins.",
+          "ja": "洞窟迷路を通る最も優れた道を探してください。それは最も深いダイヤモンド鉱石層へ直接導きます。",
+          "ipa": "/ˈlʊk fɔr ðə ˈmoʊst ˈbrɪljənt ˈpæθ θru ðə ˈkeɪv ˈmeɪz | ɪt wɪl ˈlɛd ju dɪˈrɛktli tu ðə ˈdipəst ˈdaɪmənd ˈveɪnz/",
+          "linking": [
+            "look for は子音+子音で連結なし、for は弱形 /fɔr/",
+            "for the → /r/ と /ð/ で子音+子音、連結なし。the は弱形 /ðə/",
+            "through the は母音+子音で連結なし、the も弱形 /ðə/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ルック フォア ザ モースト ブリリエント パス スルー ザ ケイヴ メイズ。イット ウィル レッド ユー ダイレクトリー トゥー ザ ディープエスト ダイモンド ヴェインズ"
+        }
+      ]
+    }
   ]
 }

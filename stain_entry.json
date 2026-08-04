@@ -45,5 +45,155 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "stains",
+      "ipa": "/steɪnz/",
+      "examples": [
+        {
+          "en": "There are many water stains on the stone brick walls.",
+          "ja": "石レンガの壁には多くの水跡がついている。",
+          "ipa": "[ðɛr ɑr ˈmɛni ˈwɔɾər ˈsteɪnz ɑn ðə ˈstoʊn ˈbrɪk ˈwɔlz]",
+          "kana": "ザー メニ ワッラー ステインズ オン ザ ストウン ブリック ウォルズ",
+          "linking": [
+            "there are → 弱形 /ɑr/ から /ər/ に弱化",
+            "water stains → water の語末 /r/ がフラップ化し stains に連結 [ˈwɔɾər ˈsteɪnz] ワッラー ステインズ",
+            "on the → /n/ が弱形 /ðə/ に連結 [ɑn ðə] オン ザ"
+          ]
+        },
+        {
+          "en": "I removed all the dirt stains from my wooden floor yesterday.",
+          "ja": "昨日、木製の床からすべての汚れを取り除いた。",
+          "ipa": "[aɪ rɪˈmuvd ɔl ðə ˈdɝt ˈsteɪnz frəm maɪ ˈwʊdən ˈflɔr ˈjɛstɚdeɪ]",
+          "kana": "アイ リムーヴド オル ザ ダート ステインズ フラム マイ ウッデン フロア イェスター デイ",
+          "linking": [
+            "all the → /l/ が弱形 /ðə/ に連結 [ɔl ðə] オル ザ",
+            "from my → from が弱形 /frəm/、/m/ が /maɪ/ に連結 [frəm maɪ] フラム マイ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "stains",
+      "ipa": "/steɪnz/",
+      "examples": [
+        {
+          "en": "The cave mud stains everything it touches.",
+          "ja": "洞窟の泥が触れるものすべてを汚す。",
+          "ipa": "[ðə ˈkeɪv ˈmʌd ˈsteɪnz ˈɛvrɪθɪŋ ɪt ˈtʌtʃɪz]",
+          "kana": "ザ ケイヴ マッド ステインズ エヴリシング イット タッチズ",
+          "linking": [
+            "The cave → 弱形 /ðə/ が cave に続く",
+            "it touches → /t/ が未開放で次の /t/ に連接（1つに聞こえる）[ɪt̚ ˈtʌtʃɪz] イット タッチズ"
+          ]
+        },
+        {
+          "en": "Red dye stains white wool when you apply it.",
+          "ja": "赤い染料を塗ると白いウールが汚れてしまう。",
+          "ipa": "[rɛd ˈdaɪ ˈsteɪnz ˈwaɪt wʊl wɛn juː əˈplaɪ ɪt]",
+          "kana": "レッド ダイ ステインズ ホワイト ウール ウェン ユー アプライ イット",
+          "linking": [
+            "Red dye → /d/ が /daɪ/ に続く",
+            "white wool → /t/ が未開放のままで wool に続く [ˈwaɪt̚ wʊl]",
+            "apply it → /aɪ/ が /ɪ/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stained",
+      "ipa": "/steɪnd/",
+      "examples": [
+        {
+          "en": "The lava stained my entire armor yellow and black.",
+          "ja": "マグマが私の鎧全体を黄色と黒に汚した。",
+          "ipa": "[ðə ˈlɑvə ˈsteɪnd maɪ ɪnˈtaɪr ˈɑɹmɚ ˈjɛloʊ ən ˈblæk]",
+          "kana": "ザ ラーバ ステインド マイ インタイア アーマー イエロー アン ブラック",
+          "linking": [
+            "lava stained → /ə/ が /steɪ/ に連結 [ˈlɑvə ˈsteɪnd] ラーバ ステインド",
+            "stained my → /d/ が /maɪ/ に連結 [steɪnd maɪ] ステインド マイ",
+            "armor yellow → /r/ が /jɛ/ に連結 [ˈɑɹmə ˈjɛloʊ] アーマー イエロー"
+          ]
+        },
+        {
+          "en": "I stained the wooden beams with dark oak dye.",
+          "ja": "木製の梁をダークオーク染料で染めた。",
+          "ipa": "[aɪ ˈsteɪnd ðə ˈwʊdən ˈbimz wɪð ˈdɑrk ˈoʊk ˈdaɪ]",
+          "kana": "アイ ステインド ザ ウッデン ビームズ ウィー ダーク オウク ダイ",
+          "linking": [
+            "stained the → /d/ が弱形 /ðə/ に連結 [steɪnd ðə] ステインド ザ",
+            "wooden beams → /n/ が /bim/ に連結 [ˈwʊdən ˈbimz] ウッデン ビームズ",
+            "with dark → /ð/ が /dɑ/ に連結 [wɪð ˈdɑrk] ウィー ダーク"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stained",
+      "ipa": "/steɪnd/",
+      "examples": [
+        {
+          "en": "The stained glass windows in my castle are beautiful.",
+          "ja": "私の城のステンドグラスの窓は美しい。",
+          "ipa": "[ðə ˈsteɪnd ɡlæs ˈwɪndoʊz ɪn maɪ ˈkæsəl ɑr ˈbjuːtɪfəl]",
+          "kana": "ザ ステインド グラス ウィンドウズ イン マイ キャッスル アー ビューティフル",
+          "linking": [
+            "in my → /n/ が /maɪ/ に連結 [ɪn maɪ] イン マイ",
+            "are beautiful → /r/ が /bjuː/ に連結 [ɑr ˈbjuːtɪfəl] アー ビューティフル"
+          ]
+        },
+        {
+          "en": "Once stained by lava, that block was ruined forever.",
+          "ja": "マグマで一度汚れたそのブロックは永遠に台無しだ。",
+          "ipa": "[wʌns ˈsteɪnd baɪ ˈlɑvə ðæt ˈblɑk wəz ˈruːɪnd fərˈɛvɚ]",
+          "kana": "ワンス ステインド バイ ラーバ ザット ブロック ワズ ルーインド フォーエヴァー",
+          "linking": [
+            "stained by → /d/ が /baɪ/ に連結 [ˈsteɪnd baɪ] ステインド バイ",
+            "lava that → /ə/ が /ðæ/ に連結 [ˈlɑvə ðæt] ラーバ ザット",
+            "was ruined → 弱形 /wəz/ が /ruː/ に連結 [wəz ˈruːɪnd] ワズ ルーインド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "staining",
+      "ipa": "/ˈsteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I'm staining the oak planks with red dye right now.",
+          "ja": "今、オークの板を赤い染料で染めている最中だ。",
+          "ipa": "[aɪm ˈsteɪnɪŋ ðə ˈoʊk ˈplæŋks wɪð rɛd ˈdaɪ ˈraɪt naʊ]",
+          "kana": "アイム ステイニング ザ オウク プランクス ウィー レッド ダイ ライッ ナウ",
+          "linking": [
+            "I'm staining → /m/ が /steɪ/ に連結 [aɪm ˈsteɪnɪŋ] アイム ステイニング",
+            "with red → /ð/ が /rɛ/ に連結 [wɪð rɛd] ウィー レッド",
+            "right now → /t/ が未開放で /n/ に続く [ˈraɪt̚ naʊ] ライッ ナウ"
+          ]
+        },
+        {
+          "en": "Staining wood blocks is one of the best ways to decorate.",
+          "ja": "木のブロックを染めるのは装飾する最良の方法の一つだ。",
+          "ipa": "[ˈsteɪnɪŋ ˈwʊd ˈblɑks ɪz wʌn əv ðə ˈbɛst ˈweɪz tə ˈdɛkəreɪt]",
+          "kana": "ステイニング ウッド ブロックス イズ ワン アヴ ザ ベスト ウェイズ タ デコレート",
+          "linking": [
+            "wood blocks → /d/ が /blɑ/ に連結 [wʊd ˈblɑks] ウッド ブロックス",
+            "one of → /n/ が弱形 /əv/ に連結 [wʌn əv] ワン アヴ",
+            "of the → 弱形 /əv/ の /v/ が弱形 /ðə/ に連結 [əv ðə] アヴ ザ",
+            "to decorate → 弱形 /tə/ が /dɛ/ に連結 [tə ˈdɛkəreɪt] タ デコレート"
+          ]
+        }
+      ]
+    }
+  ]
 }

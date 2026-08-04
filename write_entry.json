@@ -170,22 +170,87 @@
           "ja": "今、この看板に基地の名前を書いています。",
           "ipa": "/aɪm ˈraɪtɪŋ ðə ˈbeɪs ˈneɪm ɑn ðɪs ˈsaɪn ˈraɪt ˈnaʊ/",
           "linking": [
-            "I'm の末子音 /m/ が writing の初子音 /r/ に続く。",
-            "base の末子音 /s/ が name の初子音 /n/ に続く。",
-            "name の末子音 /m/ が on の初母音 /ɑ/ に連結。on は弱形 /ən/ となり [ˈneɪmən] ネイモン。",
-            "on の末子音 /n/ が this の初子音 /ð/ に続く。"
+            "name の末子音 /m/ が on の初母音 /ɑ/ に連結。on は弱形 /ən/ となり [ˈneɪmən] ネイモン。"
           ],
-          "kana": "アイム ライティン ザ ベース ネイモン ディス サイン ライト ナウ"
+          "kana": "アイム ライティング ザ ベース ネイモン ディス サイン ライト ナウ"
         },
         {
           "en": "He's writing the crafting guide for the redstone circuit project.",
           "ja": "彼はレッドストーン回路プロジェクト用のクラフトガイドを書いています。",
           "ipa": "/hiz ˈraɪtɪŋ ðə ˈkɹæftɪŋ ˈɡaɪd fɚ ðə ˈrɛdˌstoʊn ˈsɜrkət ˈprɑdʒɛkt/",
           "linking": [
-            "he's の末子音 /z/ が writing の初子音 /r/ に続く。",
             "for は機能語で弱形 /fɚ/ に弱化。"
           ],
-          "kana": "ヒーズ ライティン ザ クラフティング ガイド ファ ザ レッドストーン サーキット プロジェクト"
+          "kana": "ヒーズ ライティング ザ クラフティング ガイド ファ ザ レッドストーン サーキット プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is writing",
+      "ipa": "/ɪz ˈraɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She is writing the base name on a wooden sign right now.",
+          "ja": "彼女は今、木製の看板に基地の名前を書いています。",
+          "ipa": "/ʃi ɪz ˈraɪtɪŋ ðə ˈbeɪs ˈneɪm ɑn ə ˈwʊdən ˈsaɪn ˈraɪt ˈnaʊ/",
+          "linking": [
+            "name の末子音 /m/ が on の初母音 /ɑ/ に連結。on は弱形 /ən/ となり [ˈneɪmən] ネイモン。",
+            "on の末子音 /n/ が a の初母音 /ə/ に連結 [ɑnə] アンア。"
+          ],
+          "kana": "シー イズ ライティング ザ ベース ネイモン ア ウッデン サイン ライト ナウ"
+        },
+        {
+          "en": "They are writing commands in the command block at the spawn point.",
+          "ja": "彼らはスポーンポイントのコマンドブロックにコマンドを書いています。",
+          "ipa": "/ðeɪ ə ˈraɪtɪŋ kəˈmændz ɪn ðə ˈkɑmænd ˈblɑk æt ðə ˈspoʊn ˈpɔɪnt/",
+          "linking": [],
+          "kana": "ザイ ア ライティング コマンズ イン ザ コマンド ブロック アッ ザ スポーン ポイント"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was writing",
+      "ipa": "/wəz ˈraɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was writing a sign when the creeper exploded near the house.",
+          "ja": "家の近くでクリーパーが爆発したとき、看板を書いていました。",
+          "ipa": "/aɪ wəz ˈraɪtɪŋ ə ˈsaɪn ˈwɛn ðə ˈkripər ɪkˈsploʊdəd ˈnɪr ðə ˈhaʊs/",
+          "linking": [],
+          "kana": "アイ ワズ ライティング ア サイン ウェン ザ クリーパー イクスプロウダド ニア ザ ハウス"
+        },
+        {
+          "en": "We were writing the server rules in the chat log when the restart warning appeared.",
+          "ja": "再起動の警告が表示されたときに、チャットログにサーバールールを書いていました。",
+          "ipa": "/wi wɚ ˈraɪtɪŋ ðə ˈsɜrvər ˈrulz ɪn ðə ˈtʃæt ˈlɑg ˈwɛn ðə riˈstɑrt ˈwɔrnɪŋ əˈpɪrd/",
+          "linking": [],
+          "kana": "ウィ ワー ライティング ザ サーヴァー ルールズ イン ザ チャット ログ ウェン ザ リスターット ウォーニング アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been writing",
+      "ipa": "/həd bɪn ˈraɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He had been writing instructions all night before the server reset.",
+          "ja": "サーバーリセットの前に、彼は一晩中指示を書いていました。",
+          "ipa": "/hi həd bɪn ˈraɪtɪŋ ɪnˈstrʌkʃənz ɔl ˈnaɪt bɪˈfɔr ðə ˈsɜrvər ˈrɛsɛt/",
+          "linking": [],
+          "kana": "ヒー ハド ビン ライティング インストラクションズ オール ナイト ビフォア ザ サーヴァー リセット"
+        },
+        {
+          "en": "They had been writing the base blueprint for hours when I joined the world.",
+          "ja": "私がワールドに参加したとき、彼らは数時間基地の青写真を書いていました。",
+          "ipa": "/ðeɪ həd bɪn ˈraɪtɪŋ ðə ˈbeɪs ˈbluːprɪnt fɚ ˈaʊərz ˈwɛn aɪ ˈdʒɔɪnd ðə ˈwɜrld/",
+          "linking": [],
+          "kana": "ザイ ハド ビン ライティング ザ ベース ブループリント フォア アワーズ ウェン アイ ジョインド ザ ワールド"
         }
       ]
     }

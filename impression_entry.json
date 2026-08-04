@@ -79,5 +79,37 @@
       ],
       "kana": "アイ ガット ザ インプレッシュン ザット ディス ケイヴ ハッド ビン イクスプロアード オルレディ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "impressions",
+      "ipa": "/ɪmˈprɛʃənz/",
+      "examples": [
+        {
+          "en": "First impressions of new biomes matter most.",
+          "ja": "新しいバイオームの最初の印象がもっとも重要です。",
+          "ipa": "[ˈfɜɹst ɪmˈprɛʃən-zə-v nju ˈbaɪoʊmz ˈmæɾɚ]",
+          "linking": [
+            "impressions の語末 /z/ が of の弱形 /ə/ に連結 [ɪmˈprɛʃən-zə-v]",
+            "of は機能語の弱形 /əv/",
+            "matter の中間 /t/ が母音に挟まれフラップ化し [ˈmæɾɚ]"
+          ],
+          "kana": "ファースト インプレッシャンザヴ ニュー バイオームズ マラー"
+        },
+        {
+          "en": "These impressions on the blocks prove our progress.",
+          "ja": "これらのブロック上の印象は私たちの進行状況を証明しています。",
+          "ipa": "[ðiz ɪmˈprɛʃən-zɑn ðə blɑks pɹu-v-aʊɹ ˈprɑɡɹɛs]",
+          "linking": [
+            "impressions の語末 /z/ が on の /ɑ/ に連結 [ɪmˈprɛʃən-zɑn]",
+            "prove の語末 /v/ が our の /aʊ/ に連結 [pɹu-v-aʊɹ]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディーズ インプレッシャンザン ザ ブラックス プルーヴァウア プログレス"
+        }
+      ]
+    }
   ]
 }

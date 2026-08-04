@@ -43,6 +43,35 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "pigs",
+      "ipa": "/pɪɡz/",
+      "examples": [
+        {
+          "en": "We keep pigs in enclosures on the farm.",
+          "ja": "農場の囲いの中にブタを飼っています。",
+          "ipa": "[wi ˈkip ˈpɪɡzɪn ɪnˈkloʊʒɚz ɑn ðə ˈfɑrm]",
+          "kana": "ウィ キープ ピッズイン インクロージャーズ オン ザ ファーム",
+          "linking": [
+            "pigs の語末子音 /z/ が in の初頭母音 /ɪ/ に連結。結果は [ˈpɪɡzɪn] ピッズイン"
+          ]
+        },
+        {
+          "en": "We bred hundreds of pigs in the farm to get meat and leather.",
+          "ja": "肉と革を得るために農場で何百匹もブタを飼育しました。",
+          "ipa": "[wi brɛd ˈhʌndrədz əv ˈpɪɡzɪn ðə ˈfɑrm tə ɡɛt ˈmit ənd ˈlɛðɚ]",
+          "kana": "ウィ ブレッド ハンドレッズ オブ ピッズイン ザ ファーム タ ゲット ミート アンド レザー",
+          "linking": [
+            "hundreds の語末子音 /z/ が of の初頭音 /ə/ に連結。of は弱形 /əv/。結果は [ˈhʌndrədz əv] ハンドレッズ オブ",
+            "pigs の語末子音 /z/ が in の初頭母音 /ɪ/ に連結。結果は [ˈpɪɡzɪn] ピッズイン"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "pig farm",

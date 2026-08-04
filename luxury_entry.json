@@ -58,5 +58,39 @@
       ],
       "kana": "ウィ ハヴ ザ ラクシャリー アヴ アンリミティド ブロックス イン アワー クリエイティヴ モウド ワールド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "luxuries",
+      "ipa": "/ˈlʌkʃəriz/",
+      "examples": [
+        {
+          "en": "The treasure we found included luxuries like ancient debris, mending books, and enchanted gear.",
+          "ja": "見つけた宝には、古代のデブリ、修繕本、付呪装備などの贅沢品が含まれていました。",
+          "ipa": "/ðə ˈtɹɛʒɚ wi faʊnd ɪnˈkludɪd ˈlʌkʃəriz laɪk ˈeɪnʃənt dəˈbri ˈmɛndɪŋ bʊks ænd ɪnˈtʃæntɪd ɡɪr/",
+          "linking": [
+            "found included → found の語末子音 /d/ が included の初頭母音 /ɪ/ に連結",
+            "books and → books の語末子音 /z/ が and の初頭母音 /æ/ に連結",
+            "the → 冠詞で弱形 /ðə/ に弱化",
+            "and → 機能語で弱形 /ənd/ に弱化"
+          ],
+          "kana": "ザ トレジャー ウィ ファウンド インクルーディッド ラクシャリーズ ライク エイシャント デブリー メンディング ブックス アンド インチャンティド ギア"
+        },
+        {
+          "en": "Building with luxuries such as amethyst blocks and copper makes our base look impressive.",
+          "ja": "アメシストブロックと銅のような贅沢品で建築することで、我々のベースは印象的に見えます。",
+          "ipa": "/ˈbɪldɪŋ wɪð ˈlʌkʃəriz sʌtʃ æz ˈæməθɪst blɑks ənd ˈkɑpɚ ˈmeɪks ˈaʊr beɪs lʊk ɪmˈpɹɛsɪv/",
+          "linking": [
+            "blocks and → blocks の語末子音 /z/ が and の初頭母音 /æ/ に連結",
+            "makes our → makes の語末子音 /z/ が our の初頭母音 /aʊ/ に連結",
+            "base look → base の語末子音 /s/ が look の初頭子音 /l/ に連結（未開放）",
+            "and → 機能語で弱形 /ənd/ に弱化"
+          ],
+          "kana": "ビルディング ウィズ ラクシャリーズ サッチ アズ アメシスト ブロックス アンド コッパー メイクス アワー ベイス ルック インプレッシブ"
+        }
+      ]
+    }
   ]
 }

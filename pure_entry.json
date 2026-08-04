@@ -55,5 +55,64 @@
       ],
       "kana": "アイ ゴッ ディス バイ ザ ピュア ラッカヴ マイニング"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "purer",
+      "ipa": "/ˈpjʊrər/",
+      "examples": [
+        {
+          "en": "We need a purer ore for crafting.",
+          "ja": "クラフトのために、より純粋な鉱石が必要です。",
+          "ipa": "/wi ˈniːdə ˈpjʊrər ˈɔr fɚ ˈkræftɪŋ/",
+          "linking": [
+            "need a - d が弱形 a の /ə/ に連結 [ˈniːdə] ニーダ",
+            "for は機能語で弱形 /fɚ/ に弱化 フォア"
+          ],
+          "kana": "ウィ ニーダ ピュラー オア フォア クラフティング"
+        },
+        {
+          "en": "This water is purer than the stagnant pool.",
+          "ja": "この水は澱んだ池の水よりもきれいです。",
+          "ipa": "/ðɪs ˈwɔɾər ɪz ˈpjʊrər ðæn ðə ˈstæɡnənt ˈpuːl/",
+          "linking": [
+            "water の t がフラップ化 [ˈwɔɾər] ウォーラー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ディス ウォーラー イズ ピュラー ザン ザ スタグナント プール"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "purest",
+      "ipa": "/ˈpjʊrəst/",
+      "examples": [
+        {
+          "en": "We want the purest diamonds in this mine.",
+          "ja": "この鉱山で最も純粋なダイヤが欲しい。",
+          "ipa": "/wi ˈwɑn̚ ðə ˈpjʊrəst ˈdaɪməndz ɪn ðɪs ˈmaɪn/",
+          "linking": [
+            "want の t は未開放で弱形 the に続く [ˈwɑn̚ðə] ウォンザ",
+            "the は機能語で弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ウォンザ ピュアリスト ダイモンズ イン ディス マイン"
+        },
+        {
+          "en": "Get the purest water for brewing potions.",
+          "ja": "ポーション醸造用に最も純粋な水を手に入れなさい。",
+          "ipa": "/ɡɛt̚ ðə ˈpjʊrəst ˈwɔɾər fɚ ˈbruːɪŋ ˈpoʊʃənz/",
+          "linking": [
+            "get の t は未開放で弱形 the に続く [ɡɛt̚ðə] ゲッザ",
+            "the は機能語で弱形 /ðə/ ザ",
+            "water の t がフラップ化 [ˈwɔɾər] ウォーラー"
+          ],
+          "kana": "ゲッザ ピュアリスト ウォーラー フォア ブルーイング ポーションズ"
+        }
+      ]
+    }
   ]
 }

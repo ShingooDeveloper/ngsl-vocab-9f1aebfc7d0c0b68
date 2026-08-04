@@ -80,5 +80,35 @@
       ],
       "kana": "ウィ イスケイプト バイ ザ スキナヴ アワー ティース ウェン ザット クリーパー アピアード"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "teeth",
+      "ipa": "/tiːθ/",
+      "examples": [
+        {
+          "en": "The skeleton's sharp teeth were glowing in the darkness.",
+          "ipa": "/ðə ˈskɛlətənz ʃɑrp ˈtiːθ wər ˈɡloʊɪŋ ɪn ðə ˈdɑrknəs/",
+          "linking": [
+            "The → 弱形 /ðə/ で弱化: [ðə] ザ",
+            "were → 弱形 /wər/ で弱化: [wər] ワー",
+            "in the → 語末 /n/ が the の弱形 /ðə/ に続く: [ɪn ðə] イン ザ"
+          ],
+          "kana": "ザ スケレトンズ シャープ ティース ワー グローウィング イン ザ ダークネス"
+        },
+        {
+          "en": "I found some teeth lying in the cave after a terrible fight.",
+          "ipa": "/aɪ ˈfaʊnd səm ˈtiːθ ˈlaɪɪŋ ɪn ðə ˈkeɪv ˈæftər ə ˈtɛrəbəl ˈfaɪt/",
+          "linking": [
+            "found some → 語末 /d/ が some の弱形 /səm/ に連結: [ˈfaʊnd səm] ファウンド サム",
+            "in the → 語末 /n/ が the の弱形 /ðə/ に続く: [ɪn ðə] イン ザ",
+            "a terrible → a の弱形 /ə/ で弱化: [ə ˈtɛrəbəl] ア テリブル"
+          ],
+          "kana": "アイ ファウンド サム ティース ライング イン ザ ケーヴ アフター ア テリブル ファイト"
+        }
+      ]
+    }
   ]
 }

@@ -56,5 +56,36 @@
       ],
       "kana": "イェス サー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sirs",
+      "ipa": "/sɝz/",
+      "examples": [
+        {
+          "en": "Yes, sirs! I will gather supplies for the base.",
+          "ja": "かしこまりました！基地のために物資を集めます。",
+          "ipa": "/jɛs sɝzaɪ wɪl ˈɡæðər səˈplaɪz fɚ ðə ˈbeɪs/",
+          "linking": [
+            "sirs I → 語末 /z/ が I の /aɪ/ に連結 [sɝzaɪ]",
+            "for the → for が弱形 /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "イェス サーズアイ ウィル ギャザー サプライズ ファー ザ ベイス"
+        },
+        {
+          "en": "Many sirs visited the great castle before the storm.",
+          "ja": "多くの紳士たちが嵐の前に素晴らしい城を訪れた。",
+          "ipa": "/ˈmɛni sɝz ˈvɪzɪtɪd ðə ɡreɪt ˈkæsəl bɪˈfɔr ðə ˈstɔrm/",
+          "linking": [
+            "sirs visited → 子音+子音で自然に続く（/z/ と /v/）",
+            "the great → the が弱形 /ðə/",
+            "before the → before の語末 /r/ が the の /ðə/ に連結"
+          ],
+          "kana": "メニ サーズ ビジテッド ザ グレイト キャッスル ビフォアザ ストーム"
+        }
+      ]
+    }
   ]
 }

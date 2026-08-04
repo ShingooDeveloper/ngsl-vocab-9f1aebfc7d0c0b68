@@ -19,7 +19,7 @@
       "ipa": "[aɪm ˈblɛst tə ˈfaɪndə ˈvɪlɪdʒ wɪðə ˈlaɪˌbrɛriənz ɑn ðɪs ədˈvɛntʃɚ]",
       "kana": "アイム ブレスト タ ファインダ ヴィリッジ ウィザ ライブレリアンズ オン ザス アドベンチャー",
       "linking": [
-        "blessed + to → /d/ (blessed の末尾) が弱形 /ə/ に連結: [ˈblɛstə] ブレスタ",
+        "blessed + to → /t/ (blessed の末尾) が未開放で、to の弱形 /ə/ に続く: [ˈblɛstə] ブレスタ",
         "find + a → /d/ (find の末尾) が弱形 /ə/ に連結: [ˈfaɪndə] ファインダ",
         "with + a → /ð/ (with の末尾) が弱形 /ə/ に連結: [wɪðə] ウィザ"
       ]
@@ -40,9 +40,9 @@
       "ipa": "[ðə ˈlʌkəv ðə ˈsiː ɛnˈtʃɑntmənt ˈblɛst maɪ ˈfɪʃɪŋ trɪp təˈdeɪ]",
       "kana": "ザ ラッカヴ ザ シー エンチャントメント ブレスト マイ フィッシング トリップ タデイ",
       "linking": [
-        "Luck + of → /k/ (Luck の末尾) が弱形 /ə/ に連結: [ˈlʌkəv] ラッカヴ",
+        "Luck + of → /k/ (Luck の末尾) が弱形 /ə/ に続く: [ˈlʌkəv] ラッカヴ",
         "of + the → 弱形 /əv/ が /ð/ に続く: [əv ðə] アヴ ザ",
-        "trip + to → /p/ (trip の末尾) が未開放、to の弱形 /ə/ に続く: [trɪp̚ tə] トリップ タ"
+        "trip + to → /p/ (trip の末尾) が未開放で、to の弱形 /ə/ に続く: [trɪp̚ tə] トリップ タ"
       ]
     }
   ],
@@ -55,7 +55,7 @@
       "ipa": "[ðɪs ˈsɚvɚ ɪz ˈblɛst wɪðən əˈmeɪzɪŋ kəˈmjuːnəti əv ˈbɪldɚz]",
       "kana": "ザス サーバー イズ ブレスト ウィゼナ アメイジング カミューニティ アヴ ビルダーズ",
       "linking": [
-        "blessed + with → /d/ (blessed の末尾) が弱形 /ə/ に連結: [ˈblɛstə] ブレスタ",
+        "blessed + with → /t/ (blessed の末尾) が未開放で、with の弱形 /ə/ に続く: [ˈblɛstə] ブレスタ",
         "with + an → /ð/ (with の末尾) が弱形 /ə/ に連結: [wɪðən] ウィゼナ",
         "of + builders → 弱形 /əv/ が /b/ に続く: [əv ˈbɪldɚz] アヴ ビルダーズ"
       ]
@@ -68,8 +68,122 @@
       "ipa": "[aɪm ˈblɛst tə ˈhæv faʊnd ðɪs ˈnɛðɚ ˈfɔɹtɪs wɪðaʊt ˈɡɛtɪŋ lɔst]",
       "kana": "アイム ブレスト タ ハヴ ファウンド ザス ネザー フォーティス ウィザウト ゲッティング ロスト",
       "linking": [
-        "blessed + to → /d/ (blessed の末尾) が弱形 /ə/ に連結: [ˈblɛstə] ブレスタ",
+        "blessed + to → /t/ (blessed の末尾) が未開放で、to の弱形 /ə/ に続く: [ˈblɛstə] ブレスタ",
         "without → /t/ が弱形に: [wɪðˈaʊt] ウィザウト"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "blesses",
+      "ipa": "/ˈblɛsɪz/",
+      "examples": [
+        {
+          "en": "The priest blesses every new enchanted item before we use it.",
+          "ja": "司祭は使う前にすべての新しくエンチャントされたアイテムを祝福します",
+          "ipa": "[ðə ˈprist ˈblɛsɪz ˈɛvri ˈnu ɪnˈtʃɑntɪd ˈaɪtəm bɪˈfɔɹ wi ˈjuzɪt]",
+          "kana": "ザ プリースット ブレッシズ エヴリ ニュー インチャンティド アイテム ビフォー ウィ ユーズィット",
+          "linking": [
+            "priest + blesses → priest の末尾 /t/ が未開放で、blesses に接続: [prist̚ ˈblɛsɪz]",
+            "enchanted + item → enchanted の末尾 /d/ が item の /ˈaɪ/ に連結: [ɪd ˈaɪtəm] インダイテム",
+            "use + it → use の末尾 /z/ が it の /ɪ/ に連結: [ˈjuzɪt] ユーズィット"
+          ]
+        },
+        {
+          "en": "This enchantment blesses all tools that I craft in this workbench.",
+          "ja": "このエンチャントは、この作業台で私がクラフトするすべてのツールを祝福します",
+          "ipa": "[ðɪs ɪnˈtʃɑntmənt̚ ˈblɛsɪz ɔl ˈtulz ðæt̚ aɪ kræft̚ ɪn ðɪs ˈwɚkbɛntʃ]",
+          "kana": "ザス インチャントメント ブレッシズ オール トゥールズ ザット アイ クラフト イン ザス ワークベンチ",
+          "linking": [
+            "enchantment + blesses → enchantment の末尾 /t/ が未開放で、blesses に接続: [ɪnˈtʃɑntmənt̚ ˈblɛsɪz]",
+            "that + I → that の末尾 /t/ が未開放で、I に接続: [ðæt̚ aɪ]",
+            "craft + in → craft の末尾 /t/ が未開放で、in に接続: [kræft̚ ɪn]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "blessed",
+      "ipa": "/blɛst/",
+      "examples": [
+        {
+          "en": "The rain blessed our farmland yesterday and the crops grew quickly.",
+          "ja": "昨日の雨が畑を恵み、作物が急速に成長しました",
+          "ipa": "[ðə ˈreɪn ˈblɛst̚ aʊɚ ˈfɑɹmlænd ˈjɛstɚdeɪ ænd ðə krɑps ɡru ˈkwɪkli]",
+          "kana": "ザ レイン ブレスト アワー ファームランド イエスタディ アンド ザ クロップス グルー クウィックリ",
+          "linking": [
+            "blessed + our → blessed の末尾 /t/ が未開放で、our に接続: [ˈblɛst̚ aʊɚ]",
+            "and + the → and は弱く /ən/ に、the は弱形 /ðə/: [ən ðə] アン ザ"
+          ]
+        },
+        {
+          "en": "We blessed the foundation of our new castle before building it.",
+          "ja": "建設前に新しい城の基礎を祝福しました",
+          "ipa": "[wi ˈblɛst̚ ðə faʊnˈdeɪʃən əv aʊɚ ˈnu ˈkæsəl bɪˈfɔɹ ˈbɪldɪŋ ɪt]",
+          "kana": "ウィ ブレスト ザ ファウンデイション アヴアワー ニュー キャッスル ビフォー ビルディング イット",
+          "linking": [
+            "blessed + the → blessed の末尾 /t/ が未開放で、the に接続: [ˈblɛst̚ ðə]",
+            "of + our → of の末尾 /v/ が our の /aʊ/ に連結: [əˈvaʊɚ] アヴアワー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "blessed",
+      "ipa": "/blɛst/",
+      "examples": [
+        {
+          "en": "I have blessed this diamond pickaxe with mending enchantment.",
+          "ja": "このダイアモンドツルハシに修復エンチャントで祝福を与えました",
+          "ipa": "[aɪ ˈhæv ˈblɛst̚ ðɪs ˈdaɪmənd ˈpɪkˌæks wɪð ˈmɛndɪŋ ɪnˈtʃɑntmənt]",
+          "kana": "アイ ハヴ ブレスト ザス ダイモンド ピックアックス ウィズ メンディング インチャントメント",
+          "linking": [
+            "blessed + this → blessed の末尾 /t/ が未開放で、this に接続: [ˈblɛst̚ ðɪs]"
+          ]
+        },
+        {
+          "en": "The blessed armors protected us from the Wither's attacks.",
+          "ja": "祝福されたアーマーはウィザーの攻撃から私たちを守りました",
+          "ipa": "[ðə ˈblɛst̚ ˈɑɹmɚz prəˈtɛktɪdəs frəm ðə ˈwɪðɚz əˈtæks]",
+          "kana": "ザ ブレスト アーマーズ プラテクティドス フラム ザ ウィザーズ アタックス",
+          "linking": [
+            "blessed + armors → blessed の末尾 /t/ が未開放で、armors に接続: [ˈblɛst̚ ˈɑɹmɚz]",
+            "protected + us → protected の末尾 /d/ が us の弱形 /ə/ に連結: [prəˈtɛktɪdəs] プラテクティドス"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "blessing",
+      "ipa": "/ˈblɛsɪŋ/",
+      "examples": [
+        {
+          "en": "The enchantment is blessing our entire base with protection.",
+          "ja": "このエンチャントは基地全体を保護で祝福しています",
+          "ipa": "[ðə ɪnˈtʃɑntmənt̚ ɪz ˈblɛsɪŋ aʊɚ ɪnˈtaɪɚ ˈbeɪs wɪð prəˈtɛkʃən]",
+          "kana": "ザ インチャントメント イズ ブレッシング アワー インタイアー ベイス ウィズ プロテクション",
+          "linking": [
+            "enchantment + is → enchantment の末尾 /t/ が未開放で、is に接続: [ɪnˈtʃɑntmənt̚ ɪz]"
+          ]
+        },
+        {
+          "en": "Before blessing each tool, we check its durability first.",
+          "ja": "各ツールを祝福する前に、耐久性を最初に確認します",
+          "ipa": "[bɪˈfɔɹ ˈblɛsɪŋ itʃ tul wi tʃɛk ɪts ˌduːrəˈbɪləti ˈfɚst]",
+          "kana": "ビフォー ブレッシング イーチ ツール ウィ チェック イッツ ドゥーラビリティ ファースト",
+          "linking": [
+            "blessing + each → blessing の末尾 /ŋ/ が each の /i/ に続く",
+            "its + durability → its の末尾 /s/ が durability の /d/ に続く、子音+子音で分立"
+          ]
+        }
       ]
     }
   ]

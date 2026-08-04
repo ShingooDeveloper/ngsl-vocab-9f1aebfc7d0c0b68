@@ -217,6 +217,103 @@
           "kana": "ザ サーバー アドミニストレイターズ ウォーム リガーズ タ オール プレイヤーズ アー ディスプレイド イン ザ ウェルカム メッセージ アポン ジョイニング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is regarding",
+      "ipa": "/ɪz rɪˈɡɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "She is regarding the night sky while standing on the tall tower, watching for meteor showers.",
+          "ja": "彼女は高いタワーの上に立ちながら、流星群を探すために夜空を見つめている。",
+          "ipa": "/ʃi ɪz rɪˈɡɑːrdɪŋ ðə naɪt skaɪ waɪl ˈstændɪŋ ɑn ðə tɔːl ˈtaʊər ˈwɑːtʃɪŋ fɔr ˈmiːtɪər ˈʃaʊərz/",
+          "linking": [
+            "She is → is は弱形 /ɪz/、z が regarding の r に続く（子音+子音）",
+            "regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "night sky → t が s に続く（未開放）",
+            "on the → n が the の弱形 /ðə/ に連結"
+          ],
+          "kana": "シー イズ リガーディング ザ ナイト スカイ ワイル スタンディング オン ザ トール タウアー ウォッチング ファー ミーティアー シャワーズ"
+        },
+        {
+          "en": "They are regarding the suspicious creeper that just appeared near their base entrance.",
+          "ja": "彼らはベースの入口の近くに現れた疑わしいクリーパーを見つめている。",
+          "ipa": "/ðeɪ ɑr rɪˈɡɑːrdɪŋ ðə səˈspɪʃəs ˈkriːpər ðæt dʒʌst əˈpɪrd nɪr ðɛr beɪs ˈɛntrəns/",
+          "linking": [
+            "They are → are は弱形 /ɑr/、r が regarding の r に続く",
+            "regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "just appeared → t がフラップ化し /ɾ/ [dʒʌsɹəˈpɪrd]、d が near の n に続く",
+            "their base → r が b に連結"
+          ],
+          "kana": "ザイ アー リガーディング ザ サスピシャス クリーパー ザット ジャスラピアード ニアー ザイア ベイス エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was regarding",
+      "ipa": "/wəz rɪˈɡɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "The player was regarding the map when the zombie suddenly attacked from behind.",
+          "ja": "そのプレイヤーがマップを見つめていたとき、ゾンビが突然背後から攻撃してきた。",
+          "ipa": "/ðə ˈpleɪər wəz rɪˈɡɑːrdɪŋ ðə mæp wɛn ðə ˈzɑːmbi səˈdɛnli əˈtæktɪd frəm bɪˈhaɪnd/",
+          "linking": [
+            "player was → r が wəz に続く、was は弱形 /wəz/",
+            "was regarding → z が r に続く（子音+子音）",
+            "regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "attacked from → d が f に続く（未開放）"
+          ],
+          "kana": "ザ プレイヤー ワズ リガーディング ザ マップ ウェン ザ ゾンビー サドゥンリー アタクテッド フラム ビハインド"
+        },
+        {
+          "en": "He was regarding the redstone circuit when she called him to help with the project.",
+          "ja": "彼がレッドストーン回路を見つめていたとき、彼女がプロジェクトを手伝うよう彼を呼んだ。",
+          "ipa": "/hi wəz rɪˈɡɑːrdɪŋ ðə ˈrɛdstəʊn ˈsɜːrkɪt wɛn ʃi kɔːld hɪm tə hɛlp wɪð ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "He was → 最後の e がフラップ化し /ɾ/ に続く [hi wəz] (actually no flap - just 'hi' + 'wəz')",
+            "was regarding → z が r に続く（子音+子音）、was は弱形 /wəz/",
+            "regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "when she → n が sh に続く、to は弱形 /tə/"
+          ],
+          "kana": "ヒー ワズ リガーディング ザ レッドストウン サーキット ウェン シー コールド ヒム タ ヘルプ ウィズ ザ プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been regarding",
+      "ipa": "/həd bɪn rɪˈɡɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "The builder had been regarding the incomplete structure for hours before deciding on the final design.",
+          "ja": "そのビルダーは、最終デザインを決定する前に、不完全な構造物を何時間も見つめていた。",
+          "ipa": "/ðə ˈbɪldər həd bɪn rɪˈɡɑːrdɪŋ ðə ɪnkəmˈplit ˈstrʌktʃər fɔr ˈaʊərz bɪˈfɔr dɪˈsaɪdɪŋ ɑn ðə ˈfaɪnəl dɪˈzaɪn/",
+          "linking": [
+            "had been → had は弱形 /həd/、d が b に続く（子音+子音）、been は弱形 /bɪn/",
+            "been regarding → n が r に連結",
+            "regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "for hours → r が h に連結"
+          ],
+          "kana": "ザ ビルダー ハド ビン リガーディング ザ インコンプリート ストラクチャー ファー アワーズ ビフォー ディサイディング オン ザ ファイナル ディザイン"
+        },
+        {
+          "en": "By the time the storm arrived, the scouts had been regarding the weather patterns all morning.",
+          "ja": "嵐が到着するまでに、スカウトたちは朝ずっと天気パターンを見つめていた。",
+          "ipa": "/baɪ ðə taɪm ðə stɔːrm əˈraɪvd ðə skaʊts həd bɪn rɪˈɡɑːrdɪŋ ðə ˈwɛðər ˈpætərnz ɔːl ˈmɔːrnɪŋ/",
+          "linking": [
+            "By the → y が the の弱形 /ðə/ に連結",
+            "the storm → the は弱形 /ðə/",
+            "had been → had は弱形 /həd/、d が b に続く（子音+子音）、been は弱形 /bɪn/",
+            "been regarding → n が r に連結、regarding the → 語末 ng が the の弱形 /ðə/ に続く",
+            "weather patterns → r が w に続く"
+          ],
+          "kana": "バイ ザ タイム ザ ストーム アライヴド ザ スカウツ ハド ビン リガーディング ザ ウェザー パターンズ オール モーニング"
+        }
+      ]
     }
   ]
 }

@@ -247,6 +247,99 @@
           "kana": "ウィ ワー リコーディング ウェン ア クリーパー サドンリー アピアード ニアー アワー メイン ベース"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is recording",
+      "ipa": "/ɪz rɪˈkɔrdɪŋ/",
+      "examples": [
+        {
+          "en": "I'm recording this speedrun attempt for my YouTube channel right now.",
+          "ja": "今、YouTubeチャンネル用にこのスピードラン挑戦を記録しています。",
+          "ipa": "/aɪm rɪˈkɔrdɪŋ ðɪs ˈspɪdˌrʌn əˈtɛmpt fɚ maɪ ˈjuːˌtub ˈtʃænəl ˈraɪt ˈnaʊ/",
+          "linking": [
+            "for は弱形 /fɚ/",
+            "attempt for → attempt の末尾 /t/ が for の /f/ に続く（未開放）[əˈtɛmpt̚ fɚ] アテンプッ ファー"
+          ],
+          "kana": "アイム リコーディング ディス スピードラン アテンプッ ファー マイ ユーチューブ チャンネル ライト ナウ"
+        },
+        {
+          "en": "She is recording a detailed tutorial for building the perfect house.",
+          "ja": "彼女は完璧な家を建てるための詳細なチュートリアルを記録しています。",
+          "ipa": "/ʃi ɪz rɪˈkɔrdɪŋ ə dɪˈteɪld ˈtʃuːtɔˌrɪəl fɚ ˈbɪldɪŋ ðə ˈpɝfɪkt ˈhaʊs/",
+          "linking": [
+            "a は弱形 /ə/",
+            "for は弱形 /fɚ/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ リコーディング ア ディテイルド チュートリアル ファー ビルディング ザ パーフィクト ハウス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was recording",
+      "ipa": "/wəz rɪˈkɔrdɪŋ/",
+      "examples": [
+        {
+          "en": "I was recording the final speedrun attempt when my computer suddenly crashed.",
+          "ja": "コンピュータが突然クラッシュしたとき、最終的なスピードラン挑戦を記録していました。",
+          "ipa": "/aɪ wəz rɪˈkɔrdɪŋ ðə ˈfaɪnəl ˈspɪdˌrʌn əˈtɛmpt wɛn maɪ kəmˈpjuːtər ˈsʌdənli ˈkræʃt/",
+          "linking": [
+            "was は弱形 /wəz/、recording に連結 [wəz rɪˈkɔrdɪŋ] ワズ リコーディング",
+            "the は弱形 /ðə/",
+            "attempt when → attempt の末尾 /t/ が when の /w/ に続く（未開放）[əˈtɛmpt̚ wɛn] アテンプッ ウェン"
+          ],
+          "kana": "アイ ワズ リコーディング ザ ファイナル スピードラン アテンプッ ウェン マイ コンピューター サドンリー クラッシュト"
+        },
+        {
+          "en": "They were recording the redstone tutorial when the power went out.",
+          "ja": "電源が切れたとき、レッドストーン回路のチュートリアルを記録していました。",
+          "ipa": "/ðeɪ wər rɪˈkɔrdɪŋ ðə ˈrɛdˌstoʊn ˈtʃuːtɔˌrɪəl wɛn ðə ˈpaʊər wɛnt aʊt/",
+          "linking": [
+            "were は弱形 /wər/、recording に連結 [wər rɪˈkɔrdɪŋ] ワー リコーディング",
+            "the は弱形 /ðə/（redstone、power の前）",
+            "power went → power の末尾 /r/ が went の /w/ に続く（子音+子音）"
+          ],
+          "kana": "ザイ ワー リコーディング ザ レッドストーン チュートリアル ウェン ザ パワー ウェント アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been recording",
+      "ipa": "/həd bɪn rɪˈkɔrdɪŋ/",
+      "examples": [
+        {
+          "en": "I had been recording for hours before we finally found the stronghold.",
+          "ja": "私たちが最終的に要塞を見つけるまで、数時間記録していました。",
+          "ipa": "/aɪ həd bɪn rɪˈkɔrdɪŋ fɚ ˈaʊərz bɪˈfɔr wi ˈfaɪnəli ˈfaʊnd ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been recording → been の末尾 /n/ が recording の /r/ に連結 [bɪn rɪˈkɔrdɪŋ] ビン リコーディング",
+            "recording for → recording の末尾 /ŋ/ が for の /f/ に続く（鼻音+子音）",
+            "for は弱形 /fɚ/",
+            "found the → found の末尾 /d/ が the の初頭に連結（未開放）[ˈfaʊnd̚ ðə] ファウンッ ザ"
+          ],
+          "kana": "アイ ハド ビン リコーディング ファー アワーズ ビフォー ウィ ファイナリー ファウンッ ザ ストロングホールド"
+        },
+        {
+          "en": "She had been recording since dawn when the server announced the maintenance.",
+          "ja": "サーバーがメンテナンスを発表したとき、夜明け以来記録していました。",
+          "ipa": "/ʃi həd bɪn rɪˈkɔrdɪŋ sɪns dɔn wɛn ðə ˈsɝvər əˈnaʊnst ðə ˌmeɪnˈtɛnəns/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/",
+            "been recording → been の末尾 /n/ が recording の /r/ に連結 [bɪn rɪˈkɔrdɪŋ]",
+            "recording since → recording の末尾 /ŋ/ が since の /s/ に続く（鼻音+子音）",
+            "the は弱形 /ðə/",
+            "server announced → server の末尾 /r/ が announced の /ə/ に連結 [ˈsɝvər əˈnaʊnst] サーヴァー アナウンスト"
+          ],
+          "kana": "シー ハド ビン リコーディング シンス ドーン ウェン ザ サーヴァー アナウンスト ザ メインテナンス"
+        }
+      ]
     }
   ]
 }

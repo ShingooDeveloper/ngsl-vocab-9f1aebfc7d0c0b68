@@ -231,6 +231,101 @@
           "kana": "ワイル ルッキング アット ザ ネザー ポータル アイ ソー ア フォートレス イン ザ ディスタンス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is looking",
+      "ipa": "/ɪz ˈlʊkɪŋ/",
+      "examples": [
+        {
+          "en": "She is looking for diamonds in the cave right now.",
+          "ja": "彼女は今、洞窟でダイヤモンドを探しています。",
+          "ipa": "/ʃi ɪz ˈlʊkɪŋ fɔr ˈdaɪməndz ɪn ðə keɪv raɪt naʊ/",
+          "linking": [
+            "is looking: is は弱形 /ɪz/、looking の初頭に続く [ɪz ˈlʊkɪŋ]",
+            "looking for: looking の末音 /ŋ/ が for の初頭に続く [ˈlʊkɪŋ fɔr]",
+            "for は弱形 /fɚ/、diamonds の初頭に連結 [fɚ ˈdaɪməndz]",
+            "the は弱形 /ðə/、cave の初頭に連結 [ðə keɪv]"
+          ],
+          "kana": "シー イズ ルッキング フォー ダイマンズ イン ザ ケイヴ ライト ナウ"
+        },
+        {
+          "en": "They are looking at the mysterious structure with great interest.",
+          "ja": "彼らは大きな関心を持ってその謎めいた構造を見ています。",
+          "ipa": "/ðeɪ ɚ ˈlʊkɪŋ æt ðə ˌmɪsˈtɪɹiəs ˈstrʌktʃər wɪð ɡreɪt ˈɪntɹəst/",
+          "linking": [
+            "are looking: are は弱形 /ɚ/、looking の初頭に続く [ɚ ˈlʊkɪŋ]",
+            "looking at: looking の末音 /ŋ/ が at の初頭に続く [ˈlʊkɪŋ æt]",
+            "the は弱形 /ðə/、mysterious の初頭に連結 [ðə ˌmɪsˈtɪɹiəs]"
+          ],
+          "kana": "ザイ アー ルッキング アット ザ ミスティアリアス ストラクチャー ウィズ グレイト インタレスト"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was looking",
+      "ipa": "/wəz ˈlʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I was looking for ore when a creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れたとき、私は鉱石を探していました。",
+          "ipa": "/aɪ wəz ˈlʊkɪŋ fɔr ˈɔr wɛn ə ˈkɹipər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was looking: was は弱形 /wəz/、looking の初頭に続く [wəz ˈlʊkɪŋ]",
+            "looking for: looking の末音 /ŋ/ が for の初頭に続く [ˈlʊkɪŋ fɔr]",
+            "for は弱形 /fɚ/、ore の初頭に連結 [fɚ ˈɔr]",
+            "a は弱形 /ə/、creeper の初頭に連結 [ə ˈkɹipər]"
+          ],
+          "kana": "アイ ワズ ルッキング フォー オア ウェン ア クリーパー サデンリー アピアド"
+        },
+        {
+          "en": "While they were looking at the map, the night fell quickly.",
+          "ja": "彼らが地図を見ていた間に、夜は急速に落ちました。",
+          "ipa": "/waɪl ðeɪ wɚ ˈlʊkɪŋ æt ðə ˈmæp ðə naɪt fɛl ˈkwɪkli/",
+          "linking": [
+            "were looking: were は弱形 /wɚ/、looking の初頭に続く [wɚ ˈlʊkɪŋ]",
+            "looking at: looking の末音 /ŋ/ が at の初頭に続く [ˈlʊkɪŋ æt]",
+            "the は弱形 /ðə/、map の初頭に連結 [ðə ˈmæp]"
+          ],
+          "kana": "ワイル ザイ ウアー ルッキング アット ザ マップ ザ ナイト フェル クイックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been looking",
+      "ipa": "/hæd bɪn ˈlʊkɪŋ/",
+      "examples": [
+        {
+          "en": "He had been looking for the hidden treasure for weeks before he found it.",
+          "ja": "彼はそれを見つける前に、隠された宝物を数週間探していました。",
+          "ipa": "/hi həd bɪn ˈlʊkɪŋ fɔr ðə ˈhɪdən ˈtɛʒər fɔr wiks bɪˈfɔr hi faʊnd ɪt/",
+          "linking": [
+            "had been looking: had は弱形 /həd/、been の初頭に続く [həd bɪn ˈlʊkɪŋ]",
+            "been は弱形 /bɪn/、looking の初頭に続く [bɪn ˈlʊkɪŋ]",
+            "looking for: looking の末音 /ŋ/ が for の初頭に続く [ˈlʊkɪŋ fɔr]",
+            "for は弱形 /fɚ/、the の初頭に連結 [fɚ ðə]",
+            "the は弱形 /ðə/、hidden の初頭に連結 [ðə ˈhɪdən]"
+          ],
+          "kana": "ヒー ハド ビン ルッキング フォー ザ ヒデン トレジャー フォー ウィークス ビフォア ヒー ファウンド イット"
+        },
+        {
+          "en": "Once she had been looking around that building, she finally found the secret passage.",
+          "ja": "彼女がその建物の周りを見た後、彼女はついに秘密の通路を見つけました。",
+          "ipa": "/wʌns ʃi həd bɪn ˈlʊkɪŋ əˈraʊnd ðæt ˈbɪldɪŋ ʃi ˈfaɪnəli faʊnd ðə ˈsikrət ˈpæsɪdʒ/",
+          "linking": [
+            "had been looking: had は弱形 /həd/、been の初頭に続く [həd bɪn ˈlʊkɪŋ]",
+            "been は弱形 /bɪn/、looking の初頭に続く [bɪn ˈlʊkɪŋ]",
+            "looking around: looking の末音 /ŋ/ が around の初頭に続く [ˈlʊkɪŋ əˈraʊnd]",
+            "the は弱形 /ðə/、secret の初頭に連結 [ðə ˈsikrət]"
+          ],
+          "kana": "ワンス シー ハド ビン ルッキング アラウンド ザット ビルディング シー ファイナリー ファウンド ザ シークレット パッセジ"
+        }
+      ]
     }
   ]
 }

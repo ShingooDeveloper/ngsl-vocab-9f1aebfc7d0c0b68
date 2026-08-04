@@ -47,6 +47,158 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bunches",
+      "ipa": "/ˈbʌntʃɪz/",
+      "examples": [
+        {
+          "en": "We need bunches of materials to build this fortress.",
+          "ja": "この要塞を作るために、多くの材料が必要です。",
+          "ipa": "[wi ˈniːd ˈbʌntʃɪz əv məˈtɪriəlz tə ˈbɪld ðɪs ˈfɔrtrəs]",
+          "kana": "ウィ ニード バンチズ アヴ マテリアルズ タ ビルド ディス フォートレス",
+          "linking": [
+            "need bunches → d が b に連結 [ˈniːd ˈbʌntʃɪz] ニード バンチズ",
+            "of materials → of は弱形 /əv/ [əv məˈtɪriəlz] アヴ マテリアルズ",
+            "to build → to は弱形 /tə/ [tə ˈbɪld] タ ビルド"
+          ]
+        },
+        {
+          "en": "Collect bunches of flowers to decorate your base.",
+          "ja": "拠点を装飾するために、花の束を集めてください。",
+          "ipa": "[kəˈlɛkt ˈbʌntʃɪz əv ˈflaʊərz tə ˈdɛkəreɪt jər ˈbeɪs]",
+          "kana": "カレクト バンチズ アヴ フラワーズ タ デコレート ユアー ベイス",
+          "linking": [
+            "collect bunches → t が b に連結 [kəˈlɛkt ˈbʌntʃɪz] カレクト バンチズ",
+            "of flowers → of は弱形 /əv/ [əv ˈflaʊərz] アヴ フラワーズ",
+            "to decorate → to は弱形 /tə/ [tə ˈdɛkəreɪt] タ デコレート"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "bunches",
+      "ipa": "/ˈbʌntʃɪz/",
+      "examples": [
+        {
+          "en": "She bunches redstone wires to organize the circuit.",
+          "ja": "彼女は回路を整理するためにレッドストーンワイヤーを束ねます。",
+          "ipa": "[ʃi ˈbʌntʃɪz ˈrɛdˌstoʊn ˈwaɪərz tə ˈɔrɡənaɪz ðə ˈsɝkɪt]",
+          "kana": "シー バンチズ レッドストーン ワイアーズ タ オーガナイズ ザ サーキット",
+          "linking": [
+            "She bunches → no linking [ʃi ˈbʌntʃɪz] シー バンチズ",
+            "to organize → to は弱形 /tə/ [tə ˈɔrɡənaɪz] タ オーガナイズ",
+            "organize the → z が ð に連結 [ˈɔrɡənaɪz ðə] オーガナイズ ザ"
+          ]
+        },
+        {
+          "en": "He bunches vines together before the storm arrives.",
+          "ja": "彼は嵐が来る前にツタを束ねます。",
+          "ipa": "[hi ˈbʌntʃɪz vaɪnz təˈɡɛðər bɪˈfɔr ðə ˈstɔrm əˈraɪvz]",
+          "kana": "ヒー バンチズ ヴァインズ タゲザー ビフォー ザ ストーム アライヴズ",
+          "linking": [
+            "He bunches → no linking [hi ˈbʌntʃɪz] ヒー バンチズ",
+            "vines together → z が t に接続、to は弱形 /tə/ [vaɪnz tə ˈɡɛðər] ヴァインズ タゲザー",
+            "before the → r が ð に連結 [bɪˈfɔr ðə] ビフォー ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "bunched",
+      "ipa": "/bʌntʃt/",
+      "examples": [
+        {
+          "en": "I bunched the wool together yesterday for crafting.",
+          "ja": "昨日、クラフト用に羊毛を束ねました。",
+          "ipa": "[aɪ ˈbʌntʃt ðə ˈwʊl təˈɡɛðər ˈjɛstərdeɪ fər ˈkrɑːftɪŋ]",
+          "kana": "アイ バンチッ ザ ウール タゲザー イェスターデイ ファー クラーフティング",
+          "linking": [
+            "bunched the → tch のあとの t が未開放で ð に接続 [ˈbʌntʃt̚ ðə] バンチッ ザ",
+            "together → to は弱形 /tə/ [tə ˈɡɛðər] タゲザー",
+            "for crafting → r が k に連結 [fər ˈkrɑːftɪŋ] ファー クラーフティング"
+          ]
+        },
+        {
+          "en": "We bunched all the supplies before exploring the cave.",
+          "ja": "洞窟を探索する前に、全ての物資を束ねました。",
+          "ipa": "[wi ˈbʌntʃt ɔl ðə səˈplaɪz bɪˈfɔr ɪkˈsplɔrɪŋ ðə ˈkeɪv]",
+          "kana": "ウィ バンチッ オール ザ サプライズ ビフォー イクスプローリング ザ ケイヴ",
+          "linking": [
+            "bunched all → t が ɔ に連結（t は未開放）[ˈbʌntʃt̚ ɔl] バンチッ オール",
+            "all the → l が ð に連結 [ɔl ðə] オール ザ",
+            "before exploring → r が ɪ に連結 [bɪˈfɔr ɪkˈsplɔrɪŋ] ビフォー イクスプローリング"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "bunched",
+      "ipa": "/bʌntʃt/",
+      "examples": [
+        {
+          "en": "The bunched cords look neat in the redstone lab.",
+          "ja": "レッドストーンラボで束ねたコードがきれいに見えます。",
+          "ipa": "[ðə ˈbʌntʃt kɔrdz lʊk ˈnit ɪn ðə ˈrɛdˌstoʊn læb]",
+          "kana": "ザ バンチト コーズ ルック ニート イン ザ レッドストーン ラブ",
+          "linking": [
+            "the bunched → e が b に連結 [ðə ˈbʌntʃt] ザ バンチト",
+            "cords look → z が l に接続（子音+子音、no linking）[kɔrdz lʊk] コーズ ルック",
+            "in the → n が ð に連結 [ɪn ðə] イン ザ"
+          ]
+        },
+        {
+          "en": "These bunched flowers brighten the player's house nicely.",
+          "ja": "これらの束ねた花はプレイヤーの家を素敵に明るくします。",
+          "ipa": "[ðiz ˈbʌntʃt ˈflaʊərz ˈbraɪtən ðə ˈpleɪərz haʊs ˈnaɪsli]",
+          "kana": "ディーズ バンチト フラワーズ ブライトン ザ プレイアーズ ハウス ナイスリ",
+          "linking": [
+            "these bunched → z が b に連結 [ðiz ˈbʌntʃt] ディーズ バンチト",
+            "flowers brighten → z が b に連結 [ˈflaʊərz ˈbraɪtən] フラワーズ ブライトン",
+            "the player's → e が p に連結 [ðə ˈpleɪərz] ザ プレイアーズ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞",
+      "text": "bunching",
+      "ipa": "/ˈbʌntʃɪŋ/",
+      "examples": [
+        {
+          "en": "I'm bunching resources together for my new project.",
+          "ja": "新しいプロジェクトのために、リソースを束ねています。",
+          "ipa": "[aɪm ˈbʌntʃɪŋ ˈrɛsərsɪz təˈɡɛðər fər maɪ ˈnjuː ˈprɑdʒɛkt]",
+          "kana": "アイム バンチング レソーシズ タゲザー ファー マイ ニュー プロジェクト",
+          "linking": [
+            "I'm bunching → m が b に連結 [aɪm ˈbʌntʃɪŋ] アイム バンチング",
+            "resources together → z が t に接続、to は弱形 /tə/ [ˈrɛsərsɪz tə ˈɡɛðər] レソーシズ タゲザー",
+            "for my → r が m に連結 [fər maɪ] ファー マイ"
+          ]
+        },
+        {
+          "en": "They're bunching sticks while I'm collecting food.",
+          "ja": "彼らが木の棒を束ねている間に、私は食べ物を集めています。",
+          "ipa": "[ðeɪr ˈbʌntʃɪŋ stɪks waɪl aɪm kəˈlɛktɪŋ ˈfuːd]",
+          "kana": "ゼアー バンチング スティックス ホワイル アイム カレクティング フード",
+          "linking": [
+            "They're bunching → r が b に連結 [ðeɪr ˈbʌntʃɪŋ] ゼアー バンチング",
+            "sticks while → s が w に接続（子音+子音、no linking）[stɪks waɪl] スティックス ホワイル",
+            "I'm collecting → m が k に連結 [aɪm kəˈlɛktɪŋ] アイム カレクティング"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "a bunch of",

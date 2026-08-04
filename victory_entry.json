@@ -65,5 +65,35 @@
       ],
       "kana": "スルー ティームワーク ウィー アチーヴダウ グレイティスト ヴィクトリー オン ザ サーバー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "victories",
+      "ipa": "/ˈvɪktəriz/",
+      "examples": [
+        {
+          "en": "We celebrated our victories by building monuments on the server.",
+          "ja": "サーバー上に記念碑を建てることで、私たちの勝利を祝いました。",
+          "ipa": "/wi ˈsɛləbreɪtɪd aʊr ˈvɪktəriz baɪ ˈbɪldɪŋ ˈmɑnjəmənts ɑn ðə ˈsɜrvər/",
+          "linking": [
+            "celebrated の末尾子音 /d/ が our の初頭母音 /aʊ/ に連結 [ˈbreɪtɪdaʊr] ブレイティダウアー",
+            "victories の末尾子音 /z/ が by の初頭母音 /baɪ/ に連結 [ˈvɪktərizbaɪ] ヴィクトリーズバイ"
+          ],
+          "kana": "ウィー セレブレイティダウアー ヴィクトリーズバイ ビルディング モニュメンツ オン ザ サーバー"
+        },
+        {
+          "en": "Our victories over hostile mobs made us legendary players.",
+          "ja": "敵対的なモブに対する私たちの勝利は、私たちを伝説的なプレイヤーにしました。",
+          "ipa": "/aʊr ˈvɪktəriz ˈoʊvər ˈhɑstaɪl mɑbz meɪd əs ˈlɛdʒəndɛri ˈpleɪərz/",
+          "linking": [
+            "victories の末尾子音 /z/ が over の初頭母音 /oʊ/ に連結 [ˈvɪktərizˈoʊvər] ヴィクトリーズオーバー",
+            "made の末尾子音 /d/ が us の初頭母音 /ə/ に連結。us は弱形 [meɪdəs] メイダス"
+          ],
+          "kana": "アウアー ヴィクトリーズオーバー ホスタイル モブズ メイダス レジェンダリー プレイアーズ"
+        }
+      ]
+    }
   ]
 }

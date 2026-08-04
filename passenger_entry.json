@@ -58,5 +58,37 @@
       ],
       "kana": "ザ ゾンビ アン アイ ワー フェロー パッセンジャーズ オン ザ セイム マインカート"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "passengers",
+      "ipa": "/ˈpæsɪndʒərz/",
+      "examples": [
+        {
+          "en": "The passengers are sitting in the minecarts happily.",
+          "ja": "乗客たちは楽しくミニカートに座っています。",
+          "ipa": "/ðə ˈpæsɪndʒərz ɑɹ ˈsɪɾɪŋ ɪn ðə ˈmaɪnkɑrts ˈhæpɪli/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "passengers are では、passengers の語末子音 /z/ が are の初母音 /ɑ/ に連結 [ˈpæsɪndʒərz ɑɹ]。",
+            "sitting の語中 t がフラップ化 [ɾ]。sitting と in のジャンクションでは鼻音 /ŋ/ が母音 /ɪ/ に続く。"
+          ],
+          "kana": "ザ パッシンジャーズ アー シッリング イン ザ マインカーツ ハピリー"
+        },
+        {
+          "en": "We need to transport all passengers safely through the tunnel.",
+          "ja": "私たちはトンネルを通してすべての乗客を安全に運ぶ必要があります。",
+          "ipa": "/wi ˈniːd tə ˈtrænsˌpɔrt ɔl ˈpæsɪndʒərz ˈseɪfli θruː ðə ˈtʌnəl/",
+          "linking": [
+            "need to では、need の語末子音 /d/ が to の初母音 /ə/ に連結 [ˈniːd tə]。to は機能語で弱形 /tə/。",
+            "all passengers では、子音 /l/ と子音 /p/ のため連結なし。",
+            "through の語末は母音 /uː/ で、the との間に連結現象は起こらない。the は /ðə/（弱形）。"
+          ],
+          "kana": "ウィ ニード タ トランスポート オール パッシンジャーズ セイフリー スルー ザ タネル"
+        }
+      ]
+    }
   ]
 }

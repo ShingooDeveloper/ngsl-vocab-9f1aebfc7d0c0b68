@@ -219,6 +219,96 @@
           "kana": "ウィアー ショッピング ライト ナウ タ ストック アップ アン リソーシーズ ファー ウィンター"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is shopping",
+      "ipa": "/ɪz ˈʃɑpɪŋ/",
+      "examples": [
+        {
+          "en": "I'm shopping for rare items at the villager's stand.",
+          "ja": "村人のスタンドで珍しいアイテムを買い物しています。",
+          "ipa": "/aɪm ˈʃɑpɪŋ fɚ ˈɹɛr ˈaɪtəmz æt ðə ˈvɪlɪdʒərz ˈstænd/",
+          "linking": [
+            "for は機能語の弱形 /fɚ/",
+            "rare の語末子音 /r/ が items の初頭母音 /ɪ/ に連結 [ˈɹɛr ˈaɪtəmz] レア アイテムズ",
+            "at の /t/ が未開放、the は弱形 /ðə/"
+          ],
+          "kana": "アイム ショッピング ファー レア アイテムズ アット ザ ヴィリジャーズ スタンド"
+        },
+        {
+          "en": "Steve is shopping for supplies in the main marketplace.",
+          "ja": "スティーブはメインの市場で物資を買い物しています。",
+          "ipa": "/stiv ɪz ˈʃɑpɪŋ fɚ səˈplaɪz ɪn ðə ˈmeɪn ˈmɑɹkətˌpleɪs/",
+          "linking": [
+            "is は助動詞の弱形 /ɪz/",
+            "for は機能語の弱形 /fɚ/、in は機能語の弱形 /ɪn/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "スティーヴ イズ ショッピング ファー サプライズ イン ザ メイン マーケットプレイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was shopping",
+      "ipa": "/wəz ˈʃɑpɪŋ/",
+      "examples": [
+        {
+          "en": "I was shopping when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、買い物をしていました。",
+          "ipa": "/aɪ wəz ˈʃɑpɪŋ wɛn ðə ˈkɹiːpər ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "was は助動詞の弱形 /wəz/",
+            "the は弱形 /ðə/、creeper の語末子音 /r/ が exploded の初頭母音 /ɪ/ に連結 [ˈkɹiːpər ɪkˈsploʊdɪd] クリーパー イクスプローディド",
+            "exploded の語末子音 /d/ が nearby の初頭子音 /n/ に続く（子音+子音）"
+          ],
+          "kana": "アイ ワズ ショッピング ウェン ザ クリーパー イクスプローディド ニアバイ"
+        },
+        {
+          "en": "We were shopping for tools when the storm arrived.",
+          "ja": "嵐が来たとき、道具を買い物していました。",
+          "ipa": "/wi wɚ ˈʃɑpɪŋ fɚ ˈtulz wɛn ðə ˈstɔɹm əˈɹaɪvd/",
+          "linking": [
+            "were は助動詞の弱形 /wɚ/",
+            "for は機能語の弱形 /fɚ/、the は弱形 /ðə/",
+            "storm の語末子音 /m/ が arrived の初頭母音 /ə/ に連結 [ˈstɔɹm əˈɹaɪvd] ストーマライヴド"
+          ],
+          "kana": "ウィ ワー ショッピング ファー トゥールズ ウェン ザ ストーマライヴド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been shopping",
+      "ipa": "/həd bɪn ˈʃɑpɪŋ/",
+      "examples": [
+        {
+          "en": "I had been shopping for hours before finding the perfect sword.",
+          "ja": "完璧なソードを見つける前に、何時間も買い物をしていました。",
+          "ipa": "/aɪ həd bɪn ˈʃɑpɪŋ fɚ ˈaʊɚz bɪˈfɔɹ ˈfaɪndɪŋ ðə ˈpɝfɪkt ˈsɔɹd/",
+          "linking": [
+            "had は助動詞の弱形 /həd/、been は助動詞の弱形 /bɪn/",
+            "for は機能語の弱形 /fɚ/、before は content word /bɪˈfɔɹ/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハッド ビン ショッピング ファー アワーズ ビフォア ファインディング ザ パーフェクト ソード"
+        },
+        {
+          "en": "They had been shopping all day when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼らは一日中買い物をしていました。",
+          "ipa": "/ðeɪ həd bɪn ˈʃɑpɪŋ ɔl deɪ wɛn ðə ˈsɝvɚ kɹæʃt/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/",
+            "when の語末子音 /n/ が the の初頭 /ðə/（弱形）に続く（子音+子音）",
+            "server の語末子音 /r/ が crashed の初頭子音 /k/ に続く（子音+子音）"
+          ],
+          "kana": "ゼイ ハッド ビン ショッピング オール デイ ウェン ザ サーヴァー クラッシュド"
+        }
+      ]
     }
   ]
 }

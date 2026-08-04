@@ -46,5 +46,36 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "stairs",
+      "ipa": "/stɛɚz/",
+      "examples": [
+        {
+          "en": "You need stairs to reach the top of mountains.",
+          "ja": "山の頂上に到達するための階段が必要です。",
+          "ipa": "[ju niːd ˈstɛɚz tə ˈriːtʃ ðə ˈtɑp əv ˈmaʊntənz]",
+          "kana": "ユー ニード ステアーズ タ リーチ ザ タパヴ マウンテンズ",
+          "linking": [
+            "to reach の弱形：to /tə/（機能語）",
+            "the top の弱形：the /ðə/（consonant 前の弱形）",
+            "top of - p → ə 連結：top の語末 /p/ が of の /ə/ に連結 [ˈtɑ pəv]「タパヴ」"
+          ]
+        },
+        {
+          "en": "Build stairs made of stone blocks now.",
+          "ja": "石のブロックで作られた階段を今すぐ作ってください。",
+          "ipa": "[ˈbɪld ˈstɛɚz ˈmeɪd əv ˈstoʊn blɑks naʊ]",
+          "kana": "ビルド ステアーズ メイダヴ ストーン ブラックス ナウ",
+          "linking": [
+            "made of - d → ə 連結：made の語末 /d/ が of の /ə/ に連結 [ˈmeɪ dəv]「メイダヴ」",
+            "of の弱形：/əv/（機能語）"
+          ]
+        }
+      ]
+    }
+  ]
 }

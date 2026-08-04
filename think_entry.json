@@ -156,6 +156,90 @@
           "kana": "アー ユー シンキング アヴ マイニング ディーパー タナイト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is thinking",
+      "ipa": "ɪz ˈθɪŋkɪŋ",
+      "examples": [
+        {
+          "en": "Steve is thinking about the best mining strategy.",
+          "ja": "スティーブは最良の採掘戦略について考えています。",
+          "ipa": "[ˈstiv ɪz ˈθɪŋkɪŋ əˈbaʊt ðə ˈbɛst ˈmaɪnɪŋ ˈstrætədʒi]",
+          "linking": [
+            "is は機能語で弱形 /ɪz/。thinking の初頭音 /θ/ に接近 [ɪz ˈθɪŋkɪŋ]→イズ シンキング",
+            "about の末尾 /t/ が the の初頭 /ð/ に接近。the は弱形 /ðə/ [əˈbaʊt ðə]→アバウト ザ"
+          ],
+          "kana": "スティーブ イズ シンキング アバウト ザ ベスト マイニング ストラタジー"
+        },
+        {
+          "en": "We are thinking of ways to defeat the Ender Dragon.",
+          "ja": "私たちはエンダードラゴンを倒す方法について考えています。",
+          "ipa": "[wi ɑɹ ˈθɪŋkɪŋ əv ˈweɪz tu dɪˈfit ðə ˈɛndər ˈdræɡən]",
+          "linking": [
+            "are は弱形 /ɑr/。thinking の初頭 /θ/ に接近 [ɑɹ ˈθɪŋkɪŋ]→アー シンキング",
+            "of は機能語で弱形 /əv/。ways の初頭 /w/ に接近。to は弱形 /tə/、defeat に連結 [tu dɪˈfit]→タ ディフィート"
+          ],
+          "kana": "ウィ アー シンキング アヴ ウェイズ タ ディフィート ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was thinking",
+      "ipa": "wəz ˈθɪŋkɪŋ",
+      "examples": [
+        {
+          "en": "I was thinking about expanding the base when night fell.",
+          "ja": "夜間に拠点を拡大することを考えていたとき、夜になった。",
+          "ipa": "[aɪ wəz ˈθɪŋkɪŋ əˈbaʊt ɪkˈspændɪŋ ðə ˈbeɪs wɛn ˈnaɪt ˈfɛl]",
+          "linking": [
+            "was は機能語で弱形 /wəz/。thinking の初頭 /θ/ に接近 [wəz ˈθɪŋkɪŋ]→ワズ シンキング",
+            "about の末尾 /t/ が expanding の初頭母音 /ɪ/ に連結 [əˈbaʊt ɪkˈspændɪŋ]→アバウト イクスパンディング"
+          ],
+          "kana": "アイ ワズ シンキング アバウト イクスパンディング ザ ベース ウェン ナイト フェル"
+        },
+        {
+          "en": "They were thinking of ways to protect against creepers.",
+          "ja": "彼らはクリーパーから身を守る方法について考えていました。",
+          "ipa": "[ðeɪ wər ˈθɪŋkɪŋ əv ˈweɪz tu prəˈtɛkt əˈɡɛnst ˈkripərz]",
+          "linking": [
+            "were は機能語で弱形 /wər/。thinking の初頭 /θ/ に接近 [wər ˈθɪŋkɪŋ]→ワー シンキング",
+            "of は弱形 /əv/。ways に接近。to は弱形 /tə/、protect に連結 [tu prəˈtɛkt]→タ プロテクト"
+          ],
+          "kana": "ゼイ ワー シンキング アヴ ウェイズ タ プロテクト アゲインスト クリーパーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been thinking",
+      "ipa": "həd bɪn ˈθɪŋkɪŋ",
+      "examples": [
+        {
+          "en": "I had been thinking about this design for hours.",
+          "ja": "私は何時間もこのデザインについて考えていました。",
+          "ipa": "[aɪ həd bɪn ˈθɪŋkɪŋ əˈbaʊt ðɪs dɪˈzaɪn fɔɹ ˈaʊərz]",
+          "linking": [
+            "had は助動詞で弱形 /həd/。been の初頭 /b/ に連結 [həd bɪn]→ハッド ビン",
+            "been も弱形 /bɪn/。thinking の初頭 /θ/ に接近。about の末尾 /t/ が this の初頭 /ð/ に接近 [əˈbaʊt ðɪs]→アバウト ディス"
+          ],
+          "kana": "アイ ハッド ビン シンキング アバウト ディス ディザイン フォー アワーズ"
+        },
+        {
+          "en": "She had been thinking of ways to farm efficiently.",
+          "ja": "彼女は効率的に農場を管理する方法について考えていました。",
+          "ipa": "[ʃi həd bɪn ˈθɪŋkɪŋ əv ˈweɪz tu ˈfɑɹm ɪˈfɪʃəntli]",
+          "linking": [
+            "had は弱形 /həd/。been の初頭 /b/ に連結 [həd bɪn]→ハッド ビン",
+            "been は弱形 /bɪn/。thinking の初頭 /θ/ に接近。of は弱形 /əv/、ways に接近。to は弱形 /tə/、farm に連結 [tu ˈfɑɹm]→タ ファーム"
+          ],
+          "kana": "シー ハッド ビン シンキング アヴ ウェイズ タ ファーム イフィシェントリー"
+        }
+      ]
     }
   ],
   "idioms": [

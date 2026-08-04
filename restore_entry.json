@@ -44,6 +44,122 @@
       "kana": "リストア ユア ワールド フラマ バックアップ ファイル タ キープ イッ セーフ"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "restores",
+      "ipa": "/rɪˈstɔrz/",
+      "examples": [
+        {
+          "en": "He restores the ancient temple block by block.",
+          "ja": "彼は古代の寺院をブロックごとに復元しています。",
+          "ipa": "/hi rɪˈstɔrz ðə ˌeɪnʃənt ˈtɛmpəl blɑk baɪ blɑk/",
+          "linking": [
+            "He は代名詞で弱形 /hi/。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ヒ リストアーズ ザ エイシャント テンプル ブラック バイ ブラック"
+        },
+        {
+          "en": "She restores armor durability with anvils.",
+          "ja": "彼女は金床を使ってアーマーの耐久性を復元しています。",
+          "ipa": "/ʃi rɪˈstɔrz ˈɑrmɚ ˌdʊrəˈbɪləti wɪð ˈænvɪlz/",
+          "linking": [
+            "She は代名詞で弱形 /ʃi/。",
+            "restores の末尾 /z/ が armor の初頭母音 /ɑ/ に連結。",
+            "with の末尾 /ð/ が anvils の初頭 /æ/ に連結。結果 [wɪðæ] ウィザ。"
+          ],
+          "kana": "シー リストアーザ アーマー ドゥラビリティ ウィザ アンヴィルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "restored",
+      "ipa": "/rɪˈstɔrd/",
+      "examples": [
+        {
+          "en": "I restored my world from a backup file.",
+          "ja": "バックアップファイルからワールドを復元しました。",
+          "ipa": "/aɪ rɪˈstɔrd maɪ ˈwɝld frəm ə ˈbækʌp ˌfaɪl/",
+          "linking": [
+            "from は前置詞で弱形 /frəm/。from の末尾 /m/ が a の初頭 /ə/ に連結。結果は [frəmə] フラマ。",
+            "a は冠詞で弱形 /ə/。"
+          ],
+          "kana": "アイ リストアード マイ ワールド フラマ バックアップ ファイル"
+        },
+        {
+          "en": "We restored an entire village after the creeper attack.",
+          "ja": "クリーパーの攻撃後、村全体を復元しました。",
+          "ipa": "/wi rɪˈstɔrd ən ɛnˈtaɪr ˈvɪlɪdʒ ˈæftɚ ðə ˈkripɚ əˈtæk/",
+          "linking": [
+            "restored の末尾 /d/ が an の初頭母音 /ə/ に連結。結果 [rɪˈstɔrdən] リストアーレン。",
+            "after の末尾 /r/ が the の初頭 /ð/ に連結。結果 [ˈæftɚðə] アフターザ。"
+          ],
+          "kana": "ウィ リストアーレン エンタイア ヴィリッジ アフターザ クリーパーアタック"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "restored",
+      "ipa": "/rɪˈstɔrd/",
+      "examples": [
+        {
+          "en": "The structures restored by the players looked amazing.",
+          "ja": "プレイヤーによって復元された構造物は素晴らしく見えました。",
+          "ipa": "/ðə ˈstrʌktʃɚz rɪˈstɔrd baɪ ðə ˈpleɪɚz lʊkt əˈmeɪzɪŋ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "structures の末尾 /z/ が restored の初頭 /r/ に連結。",
+            "looked の末尾 /t/ が amazing の初頭 /ə/ に連結。結果 [lʊktə] ルックタ。"
+          ],
+          "kana": "ザ ストラクチャーザ リストアード バイ ザ プレイヤーズ ルックタ アメイジング"
+        },
+        {
+          "en": "Once restored, the house became my sanctuary.",
+          "ja": "一度復元されたら、その家は私の聖域になりました。",
+          "ipa": "/wʌns rɪˈstɔrd ðə haʊs bɪˈkeɪm maɪ ˈsæŋktʃuˌɛri/",
+          "linking": [
+            "Once の末尾 /z/ が restored の初頭 /r/ に連結。結果 [wʌnzr] ワンザー。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ワンザー リストアード ザ ハウス ビケイム マイ サンクチュエリ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "restoring",
+      "ipa": "/rɪˈstɔrɪŋ/",
+      "examples": [
+        {
+          "en": "He is restoring the castle stone by stone.",
+          "ja": "彼はその城をブロックごとに復元しています。",
+          "ipa": "/hi ɪz rɪˈstɔrɪŋ ðə ˈkæsəl stoʊn baɪ stoʊn/",
+          "linking": [
+            "He は代名詞で弱形 /hi/。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ヒ イズ リストアリング ザ キャッスル ストーン バイ ストーン"
+        },
+        {
+          "en": "They are restoring an ancient temple together.",
+          "ja": "彼らは古代の寺院をいっしょに復元しています。",
+          "ipa": "/ðeɪ ɑr rɪˈstɔrɪŋ ən ˌeɪnʃənt ˈtɛmpəl təˈɡɛðɚ/",
+          "linking": [
+            "are は機能語で弱形 /ɚ/。",
+            "restoring の末尾 /ŋ/ が an の初頭 /ə/ に連結。結果 [rɪˈstɔrɪŋən] リストアリングェン。"
+          ],
+          "kana": "ゼイ アー リストアリング ェン エイシャント テンプル トゥゲザー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "restore a backup",

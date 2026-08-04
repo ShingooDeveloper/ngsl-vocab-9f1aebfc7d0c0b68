@@ -42,6 +42,58 @@
       "kana": "テイキット スロウリ ウェン ユー ヒアー ア クリーパー ニアバイ"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more slowly",
+      "ipa": "/ˈmɔr ˈsloʊli/",
+      "examples": [
+        {
+          "en": "Build a bridge more slowly to avoid mistakes.",
+          "ipa": "/ˈbɪldə ˈbrɪdʒ ˈmɔr ˈsloʊli tə əˈvɔɪd mɪˈsteɪks/",
+          "linking": [
+            "Build a → 語末子音 /d/ が母音 /ə/ に連結 [ˈbɪldə] ビルダ",
+            "to → 機能語弱形 /tə/ [tə] タ"
+          ],
+          "kana": "ビルダ ブリッジ モア スロウリ タ アヴォイド ミステイクス"
+        },
+        {
+          "en": "The creeper is walking more slowly now.",
+          "ipa": "/ðə ˈkriːpər ɪz ˈwɔːkɪŋ ˈmɔr ˈsloʊli naʊ/",
+          "linking": [
+            "The → 冠詞弱形 /ðə/"
+          ],
+          "kana": "ザ クリーパー イズ ウォーキング モア スロウリ ナウ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most slowly",
+      "ipa": "/ˈmoʊst ˈsloʊli/",
+      "examples": [
+        {
+          "en": "Move most slowly when sneaking to avoid detection.",
+          "ipa": "/muːv ˈmoʊst ˈsloʊli wen ˈsniːkɪŋ tə əˈvɔɪd dɪˈtɛkʃən/",
+          "linking": [
+            "to → 機能語弱形 /tə/ [tə] タ"
+          ],
+          "kana": "ムーヴ モウスト スロウリ ウェン スニーキング タ アヴォイド ディテクション"
+        },
+        {
+          "en": "The zombie walks most slowly of all mobs.",
+          "ipa": "/ðə ˈzɑmbi wɔːks ˈmoʊst ˈsloʊli əv ɔːl mɑbz/",
+          "linking": [
+            "The → 冠詞弱形 /ðə/",
+            "of → 機能語弱形 /əv/ [əv] アヴ"
+          ],
+          "kana": "ザ ゾンビ ウォークス モウスト スロウリ アヴ オール モブズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "slowly but surely",

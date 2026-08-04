@@ -54,5 +54,146 @@
       ],
       "kana": "ウィ シュド スキャン ファ エニー キエイヴ システムズ ニアバイ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "scans",
+      "ipa": "/skænz/",
+      "examples": [
+        {
+          "en": "He scans ore deposits carefully.",
+          "ja": "彼は鉱石ブロックを注意深くスキャンしています。",
+          "ipa": "/hi skænz ɔr ˈdɪpɑzɪts ˈkɛrfəli/",
+          "linking": [
+            "scans ore → 語末子音 /z/ が母音 /ɔ/ に連結 [skænzɔr]"
+          ],
+          "kana": "ヒ スキャンゾア ディパーザッツ ケアフリ"
+        },
+        {
+          "en": "She scans a cave entrance quickly.",
+          "ja": "彼女は洞窟の入り口をすばやくスキャンしています。",
+          "ipa": "/ʃi skænz ə keɪv ˈɛntrəns ˈkwɪkli/",
+          "linking": [
+            "scans a → 語末子音 /z/ が母音 /ə/ に連結 [skænzə]"
+          ],
+          "kana": "シー スキャンザ キエイヴ エントランス クウィックリ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "scanned",
+      "ipa": "/skænd/",
+      "examples": [
+        {
+          "en": "I scanned the entire area yesterday.",
+          "ja": "昨日、私はエリア全体をスキャンしました。",
+          "ipa": "/aɪ skænd ðə ɪnˈtaɪər ˈɛriə ˈjɛstərdeɪ/",
+          "linking": [
+            "scanned the → 語末子音 /d/ が母音 /ð/ に続く。the は弱形 /ðə/"
+          ],
+          "kana": "アイ スキャンド ザ インタイア エリア イェスターデイ"
+        },
+        {
+          "en": "The biome was scanned for valuable resources.",
+          "ja": "そのバイオームは貴重なリソースをスキャンされました。",
+          "ipa": "/ðə ˈbaɪoʊm wəz skænd fɔr ˈvæljəbəl ˈrɛsɚsɪz/",
+          "linking": [
+            "was scanned → 子音で自然に続く",
+            "scanned for → 語末 /d/ が /f/ に続く。for は弱形 /fɔr/"
+          ],
+          "kana": "ザ バイオーム ワズ スキャンド フォア バルュアボル レソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "scanned",
+      "ipa": "/skænd/",
+      "examples": [
+        {
+          "en": "The cave has been scanned multiple times.",
+          "ja": "その洞窟は何度もスキャンされています。",
+          "ipa": "/ðə keɪv həz bɪn skænd ˈmʌltəpəl ˈtaɪmz/",
+          "linking": [
+            "has been → has は弱形、子音で自然に続く",
+            "been scanned → 子音で自然に続く"
+          ],
+          "kana": "ザ キエイヴ ハズ ビン スキャンド マルチポル タイムズ"
+        },
+        {
+          "en": "After the area was scanned, we found diamonds.",
+          "ja": "そのエリアがスキャンされた後、私たちはダイヤモンドを見つけました。",
+          "ipa": "/ˈæftər ðə ˈɛriə wəz skænd wi faʊnd ˈdaɪməndz/",
+          "linking": [
+            "after the → after は弱形、the も弱形",
+            "area was → 子音で自然に続く",
+            "was scanned → 子音で自然に続く"
+          ],
+          "kana": "アフター ザ エリア ワズ スキャンド ウィ ファウンド ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "scanning",
+      "ipa": "/ˈskænɪŋ/",
+      "examples": [
+        {
+          "en": "Scanning ore is essential for survival.",
+          "ja": "鉱石をスキャンすることはサバイバルに必須です。",
+          "ipa": "/ˈskænɪŋ ɔr ɪz ɪˈsɛnʃəl fɔr sɚˈvaɪvəl/",
+          "linking": [
+            "Scanning ore → 語末 /ŋ/ が母音 /ɔ/ に連結 [ˈskænɪŋɔr]",
+            "is essential → is は弱形",
+            "for survival → for は弱形 /fɔr/"
+          ],
+          "kana": "スキャニング オア イズ イセンシャル ファア サバイバル"
+        },
+        {
+          "en": "I am scanning the nether right now.",
+          "ja": "私は今、ネザーをスキャンしています。",
+          "ipa": "/aɪ æm ˈskænɪŋ ðə ˈnɛðər raɪt naʊ/",
+          "linking": [
+            "am scanning → am は弱形 /əm/、子音で自然に続く",
+            "scanning the → 子音で自然に続く。the は弱形 /ðə/"
+          ],
+          "kana": "アイ アム スキャニング ザ ネザー ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "scans",
+      "ipa": "/skænz/",
+      "examples": [
+        {
+          "en": "The scans revealed valuable ore deposits.",
+          "ja": "スキャン結果は貴重な鉱石ブロックを明らかにしました。",
+          "ipa": "/ðə skænz rɪˈvɪld ˈvæljəbəl ɔr ˈdɪpɑzɪts/",
+          "linking": [
+            "the scans → the は弱形、子音で自然に続く",
+            "scans revealed → 子音で自然に続く"
+          ],
+          "kana": "ザ スキャンズ リビールド バルュアボル オア ディパーザッツ"
+        },
+        {
+          "en": "Multiple scans of this area show promising results.",
+          "ja": "このエリアの複数回のスキャンは有望な結果を示しています。",
+          "ipa": "/ˈmʌltəpəl skænz əv ðɪs ˈɛriə ˈʃoʊ ˈprɑmɪsɪŋ rɪˈzʌlts/",
+          "linking": [
+            "scans of → 語末 /z/ が母音 /ə/ に連結 [skænzəv]",
+            "of this → of は弱形 /əv/、this は子音で続く"
+          ],
+          "kana": "マルチポル スキャンザヴ ディス エリア ショウ プラマシング リザルツ"
+        }
+      ]
+    }
   ]
 }

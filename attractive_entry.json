@@ -42,6 +42,67 @@
       "kana": "アナトラクティヴ トレイド ディール ウィズ ヴィリジャーズ キャン セイヴ ユー メニー ダイマンズ"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more attractive",
+      "ipa": "/ˈmɔr əˈtræktɪv/",
+      "examples": [
+        {
+          "en": "The new building design is more attractive than the old stone house.",
+          "ja": "新しい建物のデザインは古い石造りの家よりもっと魅力的です。",
+          "ipa": "/ðə ˈnu ˈbɪldɪŋ dɪˈzaɪn ɪz ˈmɔr əˈtræktɪv ðæn ðə oʊld stoʊn haʊs/",
+          "linking": [
+            "more の r が母音に連結 [mɔrə] モーラ",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ザ ニュー ビルディング ディザイン イズ モーラトラクティヴ ザン ザ オウルド ストウン ハウス"
+        },
+        {
+          "en": "Diamonds are more attractive to most players than copper ore.",
+          "ja": "ダイアモンドはほとんどのプレイヤーに銅鉱石よりもっと魅力的です。",
+          "ipa": "/ˈdaɪməndz ɑr ˈmɔr əˈtræktɪv tu moʊst ˈpleɪərz ðæn ˈkɑpər ɔr/",
+          "linking": [
+            "more の r が母音に連結 [mɔrə] モーラ",
+            "are が弱形 /ə/ に弱化 [ə] ア",
+            "to が弱形 /tə/ に弱化 [tə] タ",
+            "copper の r が ore に連結 [ˈkɑpɔr] カッポー"
+          ],
+          "kana": "ダイマンズ ア モーラトラクティヴ タ モウスト プレイヤーズ ザン カッポー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most attractive",
+      "ipa": "/ˈmoʊst əˈtræktɪv/",
+      "examples": [
+        {
+          "en": "This is the most attractive base design we've built in survival mode.",
+          "ja": "これはサバイバルモードで構築した最も魅力的なベースデザインです。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊst əˈtræktɪv beɪs dɪˈzaɪn wiv bɪlt ɪn sərˈvaɪvəl moʊd/",
+          "linking": [
+            "the が弱形 /ðə/ [ðə] ザ",
+            "most の t が未開放で次の ə に連なる [ˈmoʊs ət] モウスト"
+          ],
+          "kana": "ディス イズ ザ モウストラクティヴ ベイス ディザイン ウィーヴ ビルト イン サーヴァイヴァル モウド"
+        },
+        {
+          "en": "The enchanted sword with sharpness is the most attractive weapon available.",
+          "ja": "シャープネスの付与された魔法の剣は利用可能な最も魅力的な武器です。",
+          "ipa": "/ðə ɪnˈtʃɑntɪd sɔrd wɪð ˈʃɑrpnəs ɪz ðə ˈmoʊst əˈtræktɪv ˈwɛpən əˈveɪləbl/",
+          "linking": [
+            "with の th が母音に連結 [wɪðə] ウィザ",
+            "the が弱形 /ðə/ [ðə] ザ",
+            "most の t が未開放で次の ə に連なる [ˈmoʊs ət] モウスト"
+          ],
+          "kana": "ザ インチャンティッド ソード ウィザ シャープネス イズ ザ モウストラクティヴ ウェポン アヴェイラブル"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "attractive deal",

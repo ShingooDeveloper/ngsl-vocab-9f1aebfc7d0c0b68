@@ -59,5 +59,93 @@
       ],
       "kana": "アイ ワズ ジャスト アン イナセント バイスタンダー ウェン ザ グリーフィング ハペンド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more innocent",
+      "ipa": "/mɔr ˈɪnəsənt/",
+      "examples": [
+        {
+          "en": "You look more innocent than that villager.",
+          "ja": "あなたはそのアイアンゴーレムより無害に見えます。",
+          "ipa": "/juː ˈlʊk mɔr ˈɪnəsənt ðæn ðæt ˈvɪlɪndʒər/",
+          "linking": [
+            "look more: look の /k/ と more の /m/ は子音+子音で連結なし",
+            "more innocent: /r/ が innocent の母音 /ɪ/ に連結 [mɔr ˈɪnəsənt]"
+          ],
+          "kana": "ユー ルック モア イノセント ザン ザット ヴィリンジャー"
+        },
+        {
+          "en": "This strategy is more innocent than using command blocks.",
+          "ja": "このやり方はコマンドブロックを使うより正統的だ。",
+          "ipa": "/ðɪs ˈstrætədʒi ɪz mɔr ˈɪnəsənt ðən ˈjuːzɪŋ kəˈmænd blɑks/",
+          "linking": [
+            "is more: is の /z/ と more の /m/ は子音+子音で連結なし",
+            "more innocent: /r/ が /ɪ/ に連結 [mɔr ˈɪnəsənt]",
+            "than using: than は弱形 /ðən/、using の /j/ に子音+子音で連結なし"
+          ],
+          "kana": "ディス ストラテジー イズ モア イノセント ザン ユージング コマンド ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most innocent",
+      "ipa": "/ˈmoʊst ˈɪnəsənt/",
+      "examples": [
+        {
+          "en": "The most innocent players usually don't survive long in PvP.",
+          "ja": "世間知らずなプレイヤーはたいていPvPで長く生き残ることができない。",
+          "ipa": "/ðə ˈmoʊst ˈɪnəsənt ˈpleɪərz ˈjuːʒuəli doʊnt sərˈvaɪv lɔŋ ɪn ˌpiːviːˈpiː/",
+          "linking": [
+            "most innocent: /t/ が未開放で子音に先行 [ˈmoʊst̚ ˈɪnəsənt]",
+            "long in: 語末子音 /ŋ/ が in の母音 /ɪ/ に連結 [lɔŋ‿ɪn]"
+          ],
+          "kana": "ザ モース イノセント プレイヤーズ ユージュアリー ドント サーバイヴ ロング イン ピーヴィーピー"
+        },
+        {
+          "en": "That's the most innocent mistake I've ever made in creative mode.",
+          "ja": "それはクリエイティブモードで私が今までに犯した最も単純なミスです。",
+          "ipa": "/ðæts ðə ˈmoʊst ˈɪnəsənt mɪsˈteɪk aɪv ˈɛvɚ meɪd ɪn kriˈeɪtɪv moʊd/",
+          "linking": [
+            "most innocent: /t/ が未開放で子音に先行 [ˈmoʊst̚ ˈɪnəsənt]",
+            "ever made: /r/ が /m/ に（子音+子音）連結なし。ever は強形 [ˈɛvɚ]"
+          ],
+          "kana": "ザッツ ザ モース イノセント ミステイク アイヴ エヴァー メイド イン クリエイティヴ モード"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "innocents",
+      "ipa": "/ˈɪnəsənts/",
+      "examples": [
+        {
+          "en": "The innocents don't know about the hidden lava trap.",
+          "ja": "無防備なプレイヤーたちは隠された溶岩トラップのことを知らない。",
+          "ipa": "/ðə ˈɪnəsənts doʊnt noʊ əˈbaʊt ðə ˈhɪdən ˈlɑvə træp/",
+          "linking": [
+            "innocents don't: 末尾 /ts/ が /d/ に（子音+子音）連結なし。innocents の /t/ は未開放 [ˈɪnəsən̚ts]",
+            "don't know: don't の /t/ が未開放 [doʊn̚t]",
+            "about the: /t/ が未開放で the /ðə/ に（子音+子音）連結なし。the は弱形"
+          ],
+          "kana": "ザ イノセンツ ドント ノウ アバウト ザ ヒデン ラーヴァ トラップ"
+        },
+        {
+          "en": "These innocents built their base right next to a spawner.",
+          "ja": "このお人好したちは彼らの基地をスポーナーのすぐ隣に建てた。",
+          "ipa": "/ðiz ˈɪnəsənts bɪlt ðɛr beɪs raɪt nɛkst tə ə ˈspɔnər/",
+          "linking": [
+            "innocents built: 末尾 /ts/ が /b/ に（子音+子音）連結なし",
+            "to a: to は弱形 /tə/、a も弱形 /ə/ で母音+母音（連結なし）"
+          ],
+          "kana": "ディーズ イノセンツ ビルト ゼア ベイス ライト ネクスト タ ア スポナー"
+        }
+      ]
+    }
   ]
 }

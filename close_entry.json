@@ -202,6 +202,94 @@
           "kana": "ザッツ ザ クロウシスト ウォーター ソースアイヴ ファウンド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is closing",
+      "ipa": "[ɪz ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "Steve is closing the farmhouse door before nightfall.",
+          "ja": "スティーブが日暮れ前に農家のドアを閉じています。",
+          "ipa": "[ˈstiv ɪz ˈkloʊzɪŋ ðə ˈfɑrmhaʊs ˈdɔr bɪˈfɔr ˈnaɪtfɔl]",
+          "linking": [
+            "is は弱形 /ɪz/ 助動詞",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "スティーヴ イズ クロウジン ザ ファームハウス ドアー ビフォア ナイトフォル"
+        },
+        {
+          "en": "They're closing the entrance to protect the storage area.",
+          "ja": "彼らは保管エリアを保護するために入り口を閉じています。",
+          "ipa": "[ðeɪr ˈkloʊzɪŋ ðə ˈɛntrəns tə prəˈtɛkt ðə ˈstɔrɪdʒ ˈɛriə]",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ゼア クロウジン ザ エントランス タ プロテクト ザ ストレージ エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was closing",
+      "ipa": "[wəz ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "I was closing the gate when I heard the Ender Dragon.",
+          "ja": "エンダードラゴンの声が聞こえたとき、ゲートを閉じていました。",
+          "ipa": "[aɪ wəz ˈkloʊzɪŋ ðə ˈɡeɪt wɛn aɪ ˈhɝd ðə ˈɛndər ˈdræɡən]",
+          "linking": [
+            "was は弱形 /wəz/ 助動詞",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "アイ ワズ クロウジン ザ ゲイト ウェン アイ ハード ザ エンダー ドラゴン"
+        },
+        {
+          "en": "We were closing the bridge when the storm broke out.",
+          "ja": "嵐が突然始まったとき、橋を塞いでいました。",
+          "ipa": "[wi wər ˈkloʊzɪŋ ðə ˈbrɪdʒ wɛn ðə ˈstɔrm broʊk ˈaʊt]",
+          "linking": [
+            "were は弱形 /wər/ 助動詞",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ウィ ワー クロウジン ザ ブリッジ ウェン ザ ストアーム ブロウク アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been closing",
+      "ipa": "[həd bɪn ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "By the time the zombies arrived, I had been closing the shutters for ten minutes.",
+          "ja": "ゾンビが到着する頃には、10分間シャッターを閉じていました。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈzɑmbiz əˈraɪvd aɪ həd bɪn ˈkloʊzɪŋ ðə ˈʃʌtərz fər ˈtɛn ˈmɪnɪts]",
+          "linking": [
+            "had は弱形 /həd/ 助動詞",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/ (3回)",
+            "for は弱形 /fər/"
+          ],
+          "kana": "バイ ザ タイム ザ ゾンビズ アライブド アイ ハド ビン クロウジン ザ シャターズ ファー テン ミニッツ"
+        },
+        {
+          "en": "They had been closing in on the End Portal structure all afternoon.",
+          "ja": "彼らは午後中ずっとエンドポータル構造物に接近していました。",
+          "ipa": "[ðeɪ həd bɪn ˈkloʊzɪŋ ɪn ɑn ðə ˈɛnd ˈpɔrtəl ˈstrʌktʃər ˈɔl ˌæftərˈnun]",
+          "linking": [
+            "had は弱形 /həd/ 助動詞",
+            "been は弱形 /bɪn/",
+            "in on → /n/ が /ɑ/ に連結 [nɑn]インオン",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン クロウジン イノン ザ エンド ポータル ストラクチャー オール アフタヌーン"
+        }
+      ]
     }
   ]
 }

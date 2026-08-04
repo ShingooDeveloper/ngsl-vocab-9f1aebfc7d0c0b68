@@ -68,5 +68,37 @@
       ],
       "kana": "アイ ファウンド ア リミティッド エディション ダイモンド ヘルメット イン ディス ワールド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "editions",
+      "ipa": "/ɪˈdɪʃənz/",
+      "examples": [
+        {
+          "en": "We tested this mod on all editions.",
+          "ja": "このモッドをすべてのエディションでテストしました。",
+          "ipa": "/wɪ ˈtɛstəd ðɪs mɑd ɑn ɔl ɪˈdɪʃənz/",
+          "linking": [
+            "mod on の /d/ が /ɑ/ に連結 [ˈmɑdɑn] マダン",
+            "on all の /n/ が /ɔ/ に連結 [ɑˈnɔl] アノール",
+            "all editions の /l/ が /ɪ/ に連結 [ˈɔlɪˈdɪʃənz] オリディッションズ"
+          ],
+          "kana": "ウィ テステッド ディス マダン アノール オリディッションズ"
+        },
+        {
+          "en": "Both editions offer great features for creative play.",
+          "ja": "両方のエディションは創造的なプレイのための素晴らしい機能を提供します。",
+          "ipa": "/boʊθ ɪˈdɪʃənz ˈɔfɚ ɡɹeɪt ˈfɪtʃɚz fɔr kriˈeɪtɪv pleɪ/",
+          "linking": [
+            "Both editions の /θ/ が /ɪ/ に連結、voiceless /θ/ が voiced context で [ˈboʊðɪˈdɪʃənz] ボーディディッションズ",
+            "editions offer の /z/ が /ɔ/ に連結 [ɪˈdɪʃənzɔfɚ] エディッションザオッファー",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ボーディディッションザオッファー グレイト フィーチャーズ ファ クリエイティヴ プレイ"
+        }
+      ]
+    }
   ]
 }

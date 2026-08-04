@@ -61,5 +61,35 @@
       ],
       "kana": "ザ パスィッジ アヴ タイム"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "passages",
+      "ipa": "/ˈpæsɪdʒɪz/",
+      "examples": [
+        {
+          "en": "The hidden passages are easy to spot in caves.",
+          "ja": "隠された通路は洞窟内で見つけやすいです。",
+          "ipa": "[ðə ˈhɪdən ˈpæsɪdʒɪz ɑr ˈiːzi tə spɑt ɪn keɪvz]",
+          "linking": [
+            "the が弱形 /ðə/ に弱化",
+            "passages の語末 /z/ が are の母音 /ɑ/ に連結"
+          ],
+          "kana": "ザ ヒドゥン パスィッジズ アー イージ タ スパット イン キーヴズ"
+        },
+        {
+          "en": "We explored several passages and discovered amazing loot.",
+          "ja": "私たちは複数の通路を探索し、素晴らしい戦利品を発見しました。",
+          "ipa": "[wi ɪkˈsploʊɚd ˈsɛvɚəl ˈpæsɪdʒɪz ənd dɪˈskʌvɚd əˈmeɪzɪŋ lut]",
+          "linking": [
+            "passages の語末 /z/ が and の弱形 /ə/ に連結",
+            "discovered の語末 /d/ が amazing の弱形 /ə/ に連結"
+          ],
+          "kana": "ウィ イクスプロード セヴェラル パスィッジズ アン ディスカヴァー ダ メイジング ルート"
+        }
+      ]
+    }
   ]
 }

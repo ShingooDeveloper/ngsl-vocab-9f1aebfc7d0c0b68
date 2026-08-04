@@ -58,5 +58,37 @@
       ],
       "kana": "アイ ビルッ ディスレッストーン ドア バイ トライアル アンド エラー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "errors",
+      "ipa": "/ˈɛɹɚz/",
+      "examples": [
+        {
+          "en": "These errors in my redstone circuit broke the door mechanism.",
+          "ja": "レッドストーン回路のこれらのエラーがドアメカニズムを壊した。",
+          "ipa": "/ðiːz ˈɛɹɚz ɪn maɪ ˈɹɛdˌstoʊn ˈsɜrkɪt ˈbroʊk ðə ˈdoɹ ˈmɛkənɪzəm/",
+          "linking": [
+            "These errors → 語末子音 /z/ が errors の初頭 /ɛ/（母音）に連結 [ðiːz‿ˈɛɹɚz] ディーズ エラーズ",
+            "circuit broke → /t/ が /b/ に続く場合、子音+子音で連結しない",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディーズ エラーズ イン マイ レッストーン サーキット ブロウク ザ ドア メカニズム"
+        },
+        {
+          "en": "I found multiple errors in the command block code.",
+          "ja": "コマンドブロックコードに複数のエラーを見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈmʌltɪpəl ˈɛɹɚz ɪn ðə kəˈmænd blɑk ˈkoʊd/",
+          "linking": [
+            "found の /d/ が multiple の /m/ に続く場合、子音+子音で連結しない",
+            "multiple errors → 語末子音 /l/ が errors の初頭 /ɛ/（母音）に連結 [ˈmʌltɪpəl‿ˈɛɹɚz] マルティプル エラーズ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ファウンド マルティプル エラーズ イン ザ コマンド ブロック コード"
+        }
+      ]
+    }
   ]
 }

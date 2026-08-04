@@ -57,5 +57,138 @@
       ],
       "kana": "カムポウズ ユアセルフ ビフォア エンタリング ザ ネザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "composes",
+      "ipa": "/kəmˈpoʊzɪz/",
+      "examples": [
+        {
+          "en": "She composes beautiful ambient music for our Minecraft server.",
+          "ja": "彼女はマインクラフトサーバー用に素敵な環境音を作曲します。",
+          "ipa": "/ʃi kəmˈpoʊzɪz ˈbjuːtɪfəl ˈæmbɪənt ˈmjuːzɪk fɚ ˈaʊɚ ˈmaɪnˌkræft ˈsɝːvər/",
+          "linking": [
+            "she は /ʃi/、composes に続く [ʃi kəmˈpoʊzɪz] シー コムポウジズ",
+            "beautiful は /ˈbjuːtɪfəl/、ambient に続く [ˈbjuːtɪfəl ˈæmbɪənt] ビューティフル アンビアント",
+            "for は弱形 /fɚ/、our と連結 [fɚ ˈaʊɚ] フォー アワー",
+            "our は /ˈaʊɚ/、Minecraft に続く"
+          ],
+          "kana": "シー コムポウジズ ビューティフル アンビアント ミュージック フォー アワー マインクラフト サーバー"
+        },
+        {
+          "en": "The game composes all environmental sounds into an immersive experience.",
+          "ja": "ゲームはすべての環境音を没入感のある体験に構成します。",
+          "ipa": "/ðə ˈɡeɪm kəmˈpoʊzɪz ˈɔːl ɪnˌvaɪrənˈmɛntəl ˈsaʊndz ˈɪntu əm ɪˈmɝːsɪv ɪkˈspɪriəns/",
+          "linking": [
+            "the は弱形 /ðə/、game と連結 [ðə ˈɡeɪm] ザ ゲイム",
+            "composes の z が all に続く（子音+子音、連結なし）[kəmˈpoʊzɪz ˈɔːl] コムポウジズ オール",
+            "into は /ˈɪntu/、an に続く [ˈɪntu əm] イントゥ アン",
+            "immersive の /ɪ/ と /ɪ/ が続く"
+          ],
+          "kana": "ザ ゲイム コムポウジズ オール インバイアンメンタル サウンズ イントゥ ア イマーシヴ エクスペリエンス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "composed",
+      "ipa": "/kəmˈpoʊzd/",
+      "examples": [
+        {
+          "en": "He composed the perfect redstone circuit for our automated tree farm.",
+          "ja": "彼は自動木場用に完璧なレッドストーン回路を構成しました。",
+          "ipa": "/hi kəmˈpoʊzd ðə ˈpɝːfekt ˈrɛdˌstoʊn ˈsɝːkɪt fɚ ˈaʊɚ ˈɔːtəˌmeɪtɪd ˈtriː ˈfɑːrm/",
+          "linking": [
+            "he は /hi/、composed の d が the に連結 [hi kəmˈpoʊzd ðə] ヒー コムポウズド ザ",
+            "perfect は /ˈpɝːfekt/、redstone に続く [ˈpɝːfekt ˈrɛdˌstoʊn] パーフェクト レッドストーン",
+            "for は弱形 /fɚ/、our と連結 [fɚ ˈaʊɚ] フォー アワー",
+            "automated の d が tree に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー コムポウズド ザ パーフェクト レッドストーン サーキット フォー アワー オートメイティド トゥリー ファーム"
+        },
+        {
+          "en": "We composed our base defenses carefully after the last creeper attack.",
+          "ja": "最後のクリーパー攻撃の後、私たちは拠点の防御を注意深く構成しました。",
+          "ipa": "/wi kəmˈpoʊzd ˈaʊɚ ˈbeɪs dɪˈfɛnsɪz ˈkɛrfəli ˈæftər ðə ˈlæst ˈkriːpər əˈtæk/",
+          "linking": [
+            "we は /wi/、composed の d が our に連結 [wi kəmˈpoʊzd ˈaʊɚ] ウィ コムポウズド アワー",
+            "base は /ˈbeɪs/、defenses に続く [ˈbeɪs dɪˈfɛnsɪz] ベース ディフェンシズ",
+            "carefully は /ˈkɛrfəli/、after に続く",
+            "after の r が the に続く（子音+子音、連結なし）、the は弱形 /ðə/ [ˈæftər ðə] アフター ザ",
+            "creeper の r が attack に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ コムポウズド アワー ベース ディフェンシズ ケアフリー アフター ザ ラスト クリーパー アタック"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "composed",
+      "ipa": "/kəmˈpoʊzd/",
+      "examples": [
+        {
+          "en": "Having composed a strong defensive wall, we felt safer against raids.",
+          "ja": "強い防御壁を構成した後、私たちは襲撃に対してより安全に感じました。",
+          "ipa": "/ˈheɪvɪŋ kəmˈpoʊzd ə ˈstrɔŋ dɪˈfɛnsɪv ˈwɔːl | wi ˈfɛlt ˈseɪfər əˈɡɛnst ˈreɪdz/",
+          "linking": [
+            "having は /ˈheɪvɪŋ/、composed の d に続く（子音+子音、連結なし）",
+            "composed の d が a に連結 [kəmˈpoʊzd ə] コムポウズド ア",
+            "strong は /ˈstrɔŋ/、defensive に続く [ˈstrɔŋ dɪˈfɛnsɪv] ストロング ディフェンシヴ",
+            "we felt → we は /wi/、felt は /fɛlt/ [wi ˈfɛlt] ウィ フェルト",
+            "against の t が raids に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ハヴィング コムポウズド ア ストロング ディフェンシヴ ウォール、ウィ フェルト セイファー アゲインスト レイズ"
+        },
+        {
+          "en": "The fortress was composed of granite blocks and obsidian walls.",
+          "ja": "その要塞は花崗岩のブロックと黒曜石の壁で構成されていました。",
+          "ipa": "/ðə ˈfɔːrtrɪs wəz kəmˈpoʊzd əv ˈɡrænɪt ˈblɑks ənd əbˈsɪdiən ˈwɔːlz/",
+          "linking": [
+            "the は弱形 /ðə/、fortress と連結 [ðə ˈfɔːrtrɪs] ザ フォートレス",
+            "was は弱形 /wəz/、composed と連結 [wəz kəmˈpoʊzd] ワズ コムポウズド",
+            "of は弱形 /əv/、granite と連結 [əv ˈɡrænɪt] オブ グラナイト",
+            "blocks の s が and に続く（子音+子音、連結なし）、and は弱形 /ənd/"
+          ],
+          "kana": "ザ フォートレス ワズ コムポウズド オブ グラナイト ブロックス アンド オブシディアン ウォールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "composing",
+      "ipa": "/kəmˈpoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "While composing the roof design, I decided to use colorful wool blocks.",
+          "ja": "屋根のデザインを構成しながら、カラフルなウール製ブロックを使うことにしました。",
+          "ipa": "/waɪl kəmˈpoʊzɪŋ ðə ˈruːf dɪˈzaɪn | aɪ dɪˈsaɪdɪd tu ˈjuːz ˈkʌlərfəl ˈwʊl ˈblɑks/",
+          "linking": [
+            "while は /waɪl/、composing の /ŋ/ に続く（子音+子音、連結なし）",
+            "composing の g が the に続く（子音+子音、連結なし）、the は弱形 /ðə/ [ðə ˈruːf] ザ ルーフ",
+            "design は /dɪˈzaɪn/、I に続く",
+            "to は弱形 /tə/、use と連結 [tu ˈjuːz] トゥ ユーズ"
+          ],
+          "kana": "ワイル コムポウジング ザ ルーフ ディザイン、アイ ディサイディッド トゥ ユーズ カラーフル ウール ブロックス"
+        },
+        {
+          "en": "Composing a functional farm structure requires understanding water mechanics perfectly.",
+          "ja": "機能的な農場構造を構成することは、水力学を完璧に理解する必要があります。",
+          "ipa": "/kəmˈpoʊzɪŋ ə ˈfʌŋkʃənəl ˈfɑːrm ˈstrʌktʃər rɪˈkwaɪərz ˌʌndərˈstændɪŋ ˈwɔːtər məˈkænɪks ˈpɝːfɪktli/",
+          "linking": [
+            "composing の g が a に続く（子音+子音、連結なし）、a は弱形 /ə/ [ə ˈfʌŋkʃənəl] ア ファンクショナル",
+            "farm は /ˈfɑːrm/、structure に続く [ˈfɑːrm ˈstrʌktʃər] ファーム ストラクチャー",
+            "requires は /rɪˈkwaɪərz/、understanding に続く",
+            "water の r が mechanics に連結 [ˈwɔːtər məˈkænɪks] ウォーター メカニックス",
+            "perfectly は /ˈpɝːfɪktli/"
+          ],
+          "kana": "コムポウジング ア ファンクショナル ファーム ストラクチャー リクワイアーズ アンダースタンディング ウォーター メカニックス パーフェクトリー"
+        }
+      ]
+    }
   ]
 }

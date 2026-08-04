@@ -187,6 +187,97 @@
           "kana": "ヒー イズ リメンバーリング オール ザ ブロックス ヒー ハズ プレイスト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is remembering",
+      "ipa": "/ɪz rɪˈmɛmbərɪŋ/",
+      "examples": [
+        {
+          "en": "I am remembering where I hid my diamonds.",
+          "ja": "私がダイヤをどこに隠したかを思い出しています。",
+          "ipa": "/aɪ æm rɪˈmɛmbərɪŋ ˈwɛɹ aɪ ˈhɪd maɪ ˈdaɪməndz/",
+          "linking": [
+            "am は /æm/、remembering の初頭 /r/ に連結 [æmɹ]。",
+            "where は /wɛɹ/、I /aɪ/ との間に連結なし（子音同士）。",
+            "hid の末尾 /d/ が my の初頭 /m/ に連結 [ˈhɪdmaɪ]。"
+          ],
+          "kana": "アイ エム リメンバーリング ウェア アイ ヒドマイ ダイマンズ"
+        },
+        {
+          "en": "She is remembering how to craft a pickaxe.",
+          "ja": "彼女はつるはしのクラフト方法を思い出しています。",
+          "ipa": "/ʃi ɪz rɪˈmɛmbərɪŋ ˈhaʊ tə ˈkɹæft ə ˈpɪkˌæks/",
+          "linking": [
+            "is は弱形 /ɪz/、remembering の初頭に連結。",
+            "to は機能語で弱形 /tə/、craft に連結。",
+            "a は冠詞で弱形 /ə/、pickaxe に連結。"
+          ],
+          "kana": "シー イズ リメンバーリング ハウ タ クラフト ア ピックアックス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was remembering",
+      "ipa": "/wəz rɪˈmɛmbərɪŋ/",
+      "examples": [
+        {
+          "en": "I was remembering the way back to my base.",
+          "ja": "私の拠点への帰り道を思い出していました。",
+          "ipa": "/aɪ wəz rɪˈmɛmbərɪŋ ðə weɪ bæk tə maɪ ˈbeɪs/",
+          "linking": [
+            "was は弱形 /wəz/、remembering の初頭 /r/ に連結 [wəzɹ]。",
+            "the は冠詞で弱形 /ðə/、way に連結。",
+            "to は機能語で弱形 /tə/、my に連結。"
+          ],
+          "kana": "アイ ワズ リメンバーリング ザ ウェイ バック タ マイ ベイス"
+        },
+        {
+          "en": "He was remembering the coordinates when the creeper attacked.",
+          "ja": "クリーパーが攻撃したとき、彼は座標を思い出していました。",
+          "ipa": "/hi wəz rɪˈmɛmbərɪŋ ðə ˌkoʊˈɔɹdənəts wɛn ðə ˈkɹipɚ əˈtækt/",
+          "linking": [
+            "was は弱形 /wəz/、remembering に連結。",
+            "the は冠詞で弱形 /ðə/ × 2。各々後続語に連結。",
+            "when は /wɛn/、the と連結なし。"
+          ],
+          "kana": "ヒー ワズ リメンバーリング ザ コーオーディネイツ ウェン ザ クリーパー アタクト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been remembering",
+      "ipa": "/həd bɪn rɪˈmɛmbərɪŋ/",
+      "examples": [
+        {
+          "en": "I had been remembering the location for hours.",
+          "ja": "私は数時間その場所を思い出していました。",
+          "ipa": "/aɪ həd bɪn rɪˈmɛmbərɪŋ ðə loʊˈkeɪʃən fɔɹ ˈaʊɚz/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/。末尾 /d/ と初頭 /b/ は連結なし（子音同士）。",
+            "been は弱形 /bɪn/、remembering の初頭 /r/ に連結 [bɪnɹ]。",
+            "the は冠詞で弱形 /ðə/、location に連結。"
+          ],
+          "kana": "アイ ハド ビン リメンバーリング ザ ロケイション フォー アワーズ"
+        },
+        {
+          "en": "They had been remembering how to get to the Nether.",
+          "ja": "彼らはネザーに行く方法を思い出していました。",
+          "ipa": "/ðeɪ həd bɪn rɪˈmɛmbərɪŋ ˈhaʊ tə ˈɡɛt tə ðə ˈnɛðɚ/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/。末尾子音と初頭子音が連結なし。",
+            "been は弱形 /bɪn/、remembering に連結。",
+            "to は機能語で弱形 /tə/ × 2。各々後続語に連結。",
+            "the は冠詞で弱形 /ðə/、Nether に連結。"
+          ],
+          "kana": "ゼイ ハド ビン リメンバーリング ハウ タ ゲット タ ザ ネザー"
+        }
+      ]
     }
   ]
 }

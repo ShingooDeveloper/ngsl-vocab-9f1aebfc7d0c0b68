@@ -41,6 +41,36 @@
       "kana": "ウン イミグラント イクスプローラー ファウンド ダイモンズ イン ザ ケイブ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "immigrants",
+      "ipa": "/ˈɪmɪɡrənts/",
+      "examples": [
+        {
+          "en": "The immigrants built a trading post near the village.",
+          "ipa": "/ðə ˈɪmɪɡrənts ˈbɪlt ə ˈtreɪdɪŋ ˈpoʊst ˈnɪr ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "the immigrantsで、theは弱形/ðə/に弱化。[ðə ˈɪmɪɡɹənts] = ザ イミグランツ",
+            "built aで、builtの/t/が母音/ə/に挟まれフラップ化し連結。[ˈbɪɹə] = ビルラ",
+            "near theで、nearの/r/がtheの/ð/へ自然に連結。[ˈnɪɹ ðə] = ニア ザ"
+          ],
+          "kana": "ザ イミグランツ ビルラ ア トレイディング ポウスト ニア ザ ヴィリジ"
+        },
+        {
+          "en": "Many immigrants survived the harsh conditions in the Nether.",
+          "ipa": "/ˈmɛni ˈɪmɪɡrənts sɚˈvaɪvd ðə ˈhɑɹʃ kənˈdɪʃənz ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "Many immigrantsで、manyの/i/がimmigrantsの/ɪ/へ連結。[ˈmɛni ˈɪmɪɡɹənts] = メニ イミグランツ",
+            "survived theで、theは弱形/ðə/に弱化。[sɚˈvaɪvd ðə] = サーヴァイヴ ザ",
+            "in theで、theは弱形/ðə/。[ɪn ðə] = イン ザ"
+          ],
+          "kana": "メニ イミグランツ サーヴァイヴド ザ ハーシュ コンディションズ イン ザ ネザー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "immigrant community",

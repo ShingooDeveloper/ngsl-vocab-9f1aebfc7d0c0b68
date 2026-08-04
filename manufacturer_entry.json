@@ -53,5 +53,35 @@
       ],
       "kana": "ザィ マニュファクチャー アヴ インチャンティド アイテムズ ハズ ア シークリット ワークショップ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "manufacturers",
+      "ipa": "/ˌmæn.jə.ˈfæk.tʃɚz/",
+      "examples": [
+        {
+          "en": "Some manufacturers of items are adding more enchantments daily.",
+          "ja": "いくつかのアイテム製造業者が毎日さらにエンチャントを追加しています。",
+          "ipa": "/səm ˌmæn.jə.ˈfæk.tʃɚz əv ˈaɪ.təmz ɑɹ ˈæd.ɪŋ ˈmɔɹ ɪnˈtʃɑnt.mənts ˈdeɪ.li/",
+          "linking": [
+            "of は弱形 /əv/。items の初頭母音 /aɪ/ に連結 [əvaɪ] オヴァイ。",
+            "are は弱形 /ɚ/ に弱化。"
+          ],
+          "kana": "サム マニュファクチャーズ オヴァイテムズ アー アディング モア インチャントメンツ デイリー"
+        },
+        {
+          "en": "Manufacturers of enchanted items earn the most profit on this server.",
+          "ja": "エンチャント済みアイテムの製造業者は、このサーバーで最も多くの利益を得ます。",
+          "ipa": "/ˌmæn.jə.ˈfæk.tʃɚz əv ɪnˈtʃæn.tɪd ˈaɪ.təmz ˈɝrn ðə ˈmoʊst ˈprɑf.ɪt ɑn ˈðɪs ˈsɝːvər/",
+          "linking": [
+            "of は弱形 /əv/。enchanted の初頭母音 /ɪ/ に連結 [əvɪn] オヴィン。",
+            "the は冠詞。most は /m/ で始まるため、the は弱形 /ðə/ のまま。"
+          ],
+          "kana": "マニュファクチャーズ オヴィンチャンティド アイテムズ アーン ザ モースト プラフィット オン ジス サーバー"
+        }
+      ]
+    }
   ]
 }

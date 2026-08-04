@@ -47,6 +47,108 @@
       "kana": "ドント チェイス ドーズ ハスタル モブズ インタ ザ ラーバ レイク"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在",
+      "text": "chases",
+      "ipa": "/ˈtʃeɪsɪz/",
+      "examples": [
+        {
+          "en": "The Creeper chases a player.",
+          "ipa": "[ðə ˈkriːpər ˈtʃeɪzə ˈpleɪər]",
+          "linking": ["「chases a」/z/ が /ə/ に連結して [ˈtʃeɪzə] チェーザ"],
+          "kana": "ザ クリーパー チェーザ プレイヤー"
+        },
+        {
+          "en": "He chases an Enderman across the field.",
+          "ipa": "[hi ˈtʃeɪzən ˈɛndərˌmæn əˈkrɑːs ðə fiːld]",
+          "linking": ["「chases an」/z/ が /ə/ に連結して [ˈtʃeɪzən] チェーザン"],
+          "kana": "ヒ チェーザン エンダーマン アクロース ザ フィールド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "chased",
+      "ipa": "/tʃeɪst/",
+      "examples": [
+        {
+          "en": "The Zombie chased a player.",
+          "ipa": "[ðə ˈzɑːmbi tʃeɪɾə ˈpleɪər]",
+          "linking": ["「chased a」/t/ が母音に挟まれフラップ化して [tʃeɪɾə] チェイラ"],
+          "kana": "ザ ゾンビ チェイラ プレイヤー"
+        },
+        {
+          "en": "She chased an Enderman.",
+          "ipa": "[ʃi tʃeɪɾən ˈɛndərˌmæn]",
+          "linking": ["「chased an」/t/ がフラップ化して [tʃeɪɾən] チェイラン"],
+          "kana": "シ チェイラン エンダーマン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "chased",
+      "ipa": "/tʃeɪst/",
+      "examples": [
+        {
+          "en": "I have chased a sheep into the water.",
+          "ipa": "[aɪ hæv tʃeɪɾə ʃip ˈɪntu ðə ˈwɔːtər]",
+          "linking": ["have は弱形 /həv/。「chased a」/t/ がフラップ化 [tʃeɪɾə] チェイラ。to は弱形 /tə/。"],
+          "kana": "アイ ハブ チェイラ シープ インタ ザ ウォーター"
+        },
+        {
+          "en": "Having chased an Enderman, I felt proud.",
+          "ipa": "[ˈhævɪŋ tʃeɪɾən ˈɛndərˌmæn aɪ ˈfɛlt ˈpraʊd]",
+          "linking": ["「chased an」/t/ がフラップ化して [tʃeɪɾən] チェイラン"],
+          "kana": "ハビング チェイラン エンダーマン アイ フェルト プラウド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "chasing",
+      "ipa": "/ˈtʃeɪsɪŋ/",
+      "examples": [
+        {
+          "en": "Chasing a mob is fun.",
+          "ipa": "[ˈtʃeɪsɪŋə ˈmɑb ɪz ˈfʌn]",
+          "linking": ["「Chasing a」/ŋ/ が /ə/ に連結して [ˈtʃeɪsɪŋə] チェイシンア"],
+          "kana": "チェイシンア モブ イズ ファン"
+        },
+        {
+          "en": "I'm chasing an Enderman.",
+          "ipa": "[aɪm ˈtʃeɪsɪŋən ˈɛndərˌmæn]",
+          "linking": ["「chasing an」/ŋ/ が /ə/ に連結 [ˈtʃeɪsɪŋən] チェイシンガン"],
+          "kana": "アイム チェイシンガン エンダーマン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "chases",
+      "ipa": "/ˈtʃeɪsɪz/",
+      "examples": [
+        {
+          "en": "The chases in the Nether were dangerous.",
+          "ipa": "[ðə ˈtʃeɪsɪz ɪn ðə ˈnɛðər wər ˈdeɪndʒərəs]",
+          "linking": ["the は弱形 /ðə/。in は弱形 /ɪn/。"],
+          "kana": "ザ チェイシズ イン ザ ネザー ワー デインジャラス"
+        },
+        {
+          "en": "We had many chases today.",
+          "ipa": "[wi hæd ˈmɛni ˈtʃeɪsɪz təˈdeɪ]",
+          "linking": ["had は音の詰まり。today は to が弱形 /tə/ に弱化。"],
+          "kana": "ウィ ハッド メニ チェイシズ トゥディ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "chase away",

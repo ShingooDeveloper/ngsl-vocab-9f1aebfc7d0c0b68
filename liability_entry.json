@@ -40,5 +40,36 @@
       "kana": "ウィザウト アーマー ユール ファインド ビーイング スロウ ア ライアビリティ アゲンスト モブズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "liabilities",
+      "ipa": "/laɪəˈbɪlətɪz/",
+      "examples": [
+        {
+          "en": "Liabilities include water, lava, and fall damage.",
+          "ja": "危険要素には水、溶岩、落下ダメージが含まれます。",
+          "ipa": "/laɪəˈbɪlətɪz ɪnˈkluːd ˈwɔːtɚ ˈlɑːvə ən ˈfɔːl ˈdæmɪdʒ/",
+          "linking": [
+            "Liabilities include → 語末 /z/ が次の /ɪ/ に連結 [laɪəˈbɪlətɪz ɪnˈkluːd]「ライアビリティズ インクルード」",
+            "and → 機能語で弱形 /ən/"
+          ],
+          "kana": "ライアビリティズ インクルード ウォーラー ラバ アン フォール ダメージ"
+        },
+        {
+          "en": "Always watch for these liabilities when exploring caves.",
+          "ja": "洞窟を探索するときは、常にこれらの危険要素に注意してください。",
+          "ipa": "/ˈɔːlweɪz wɔːtʃ fɚ ðiːz laɪəˈbɪlətɪz wɛn ɪkˈsplɔːrɪŋ keɪvz/",
+          "linking": [
+            "Always watch → 語末 /z/ が /w/ に連結",
+            "for は機能語で弱形 /fɚ/",
+            "these liabilities → 語末 /z/ が /l/ に連結"
+          ],
+          "kana": "オールウェイズ ウォッチ ファ ディーズ ライアビリティズ ウェン エクスプローリング ケイブズ"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

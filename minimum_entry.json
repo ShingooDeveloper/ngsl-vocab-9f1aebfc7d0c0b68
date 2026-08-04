@@ -61,5 +61,36 @@
       ],
       "kana": "アッ ア ミニマム ユー ニーダ ストウン トゥールズ タ マイン アイアン オア"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "minimums",
+      "ipa": "/ˈmɪnɪməmz/",
+      "examples": [
+        {
+          "en": "Different blocks have different minimums for damage resistance.",
+          "ja": "異なるブロックはダメージ耐性の異なる最小値を持ちます。",
+          "ipa": "/ˈdɪfərənt ˈblɑks ˈhæv ˈdɪfərənt ˈmɪnɪməmz fɚ ˈdæmɪdʒ rɪˈzɪstəns/",
+          "linking": [
+            "have different → have の語末子音 /v/ が different の母音 /ɪ/ に連結 [ˈhæv ˈdɪ] ハブ ディ",
+            "for → 機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ディファレント ブラックス ハブ ディファレント ミニマムズ ファ ダミッジ リジスタンス"
+        },
+        {
+          "en": "The minimums required for enchanting depend on the level.",
+          "ja": "エンチャントに必要な最小値はレベルに依存します。",
+          "ipa": "/ðə ˈmɪnɪməmz rɪˈkwaɪərd fɚ ɪnˈtʃæntɪŋ dɪˈpɛnd ɑn ðə ˈlɛvəl/",
+          "linking": [
+            "The → 冠詞で弱形 /ðə/ に弱化",
+            "for → 機能語で弱形 /fɚ/ に弱化",
+            "depend on → depend の語末子音 /d/ が on の母音 /ɑ/ に連結 [dɪˈpɛnd ɑn] ディペンダン"
+          ],
+          "kana": "ザ ミニマムズ リクワイアード ファ インチャンティング ディペンダン ザ レベル"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,36 @@
         "compared の末尾 /d/ + to の弱形 /tə/ が連結"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "planets",
+      "ipa": "/ˈplænɪts/",
+      "examples": [
+        {
+          "en": "We use a lot of blocks to build planets.",
+          "ja": "私たちはたくさんのブロックを使って惑星を作ります。",
+          "ipa": "/wiː ˈjuːz ə ˈlɑt əv ˈblɑks tə ˈbɪld ˈplænɪts/",
+          "linking": [
+            "use a → z が母音 /ə/ に連結 [ˈjuːz ə] ユーザ",
+            "lot of → t が母音に連結。of は弱形 /əv/ [ˈlɑt əv] ラータヴ",
+            "build planets → d が母音 /æ/ に連結 [ˈbɪld ˈplænɪts] ビルドプラネッツ"
+          ],
+          "kana": "ウィ ユーザ ア ロット アヴ ブロックス タ ビルド プラネッツ"
+        },
+        {
+          "en": "The planets look wonderful in the night sky.",
+          "ja": "その惑星は夜空に素晴らしく見えます。",
+          "ipa": "/ðə ˈplænɪts ˈlʊk ˈwʌndɚfəl ɪn ðə ˈnaɪt ˈskaɪ/",
+          "linking": [
+            "look wonderful → k が母音 /ʌ/ に連結 [ˈlʊk ˈwʌndɚfəl] ルック ワンダーフル",
+            "wonderful in → l が母音 /ɪ/ に連結 [ˈwʌndɚfəl ɪn] ワンダーフル イン"
+          ],
+          "kana": "ザ プラネッツ ルック ワンダーフル イン ザ ナイト スカイ"
+        }
+      ]
+    }
   ]
 }

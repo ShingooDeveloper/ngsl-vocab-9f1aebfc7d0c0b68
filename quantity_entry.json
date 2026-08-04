@@ -74,5 +74,36 @@
       ],
       "kana": "アイアン オア アピアーズ イン ラージ クォンティティズ ニア ベッドロック レベル"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "quantities",
+      "ipa": "/ˈkwɑːntɪtɪz/",
+      "examples": [
+        {
+          "en": "We need large quantities of iron for tools.",
+          "ja": "道具作成用に大量の鉄が必要です。",
+          "ipa": "[wiː ˈniːd lɑːrdʒ ˈkwɑːntɪtɪz əv ˈaɪərn fɔːr ˈtuːlz]",
+          "linking": [
+            "quantities → z が母音 ə に連結（of の最初）",
+            "of は弱形 /əv/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ウィー ニード ラージ クワンティティズ アヴ アイアーン ファ ツールズ"
+        },
+        {
+          "en": "You'll find quantities of ore in caves.",
+          "ja": "洞窟で大量の鉱石が見つかるでしょう。",
+          "ipa": "[juːl ˈfaɪnd ˈkwɑːntɪtɪz əv ˈɔːr ɪn ˈkeɪvz]",
+          "linking": [
+            "quantities → z が母音 ə に連結（of の最初）",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ユール ファインド クワンティティズ アヴ オア イン キーブズ"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,37 @@
       ],
       "kana": "ザ サーバー イズ ラッニング ア スペシャル プロモーション ディス ウィークエンド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "promotions",
+      "ipa": "/prəˈmoʊʃənz/",
+      "examples": [
+        {
+          "en": "The merchant offered promotions on enchanted books.",
+          "ja": "商人は魔法付きの本の割引を提供していました。",
+          "ipa": "[ðə ˈmɝtʃənt ˈɔfərd prəˈmoʊʃənz ən ɪnˈtʃæntəd ˈbʊks]",
+          "linking": [
+            "「The」は冠詞で弱形 /ðə/ に弱化し「ザ」に",
+            "「promotions」の末尾 /z/ が「on」の弱形 /ən/ に連結",
+            "「enchanted」の語末 /d/ が「books」の初頭 /b/ の前で未開放化"
+          ],
+          "kana": "ザ マーチャント オファード プロモーション ズン インチャンティド ブックス"
+        },
+        {
+          "en": "We received multiple promotions for joining the building crew.",
+          "ja": "ビルディングチームに参加したため、複数の昇進を受け取りました。",
+          "ipa": "[wi rɪˈsivd ˈmʌltɪpl prəˈmoʊʃənz fɚ ˈdʒɔɪnɪŋ ðə ˈbɪldɪŋ ˈkru]",
+          "linking": [
+            "「received」の語末 /d/ が「multiple」に連結し[rɪˈsivdə]に",
+            "「promotions」の末尾 /z/ が「for」の弱形 /fɚ/ に連結",
+            "「the」は冠詞で弱形 /ðə/ に弱化し「ザ」に"
+          ],
+          "kana": "ウィ リシーヴド マルティプル プロモーション ズファー ジョイニング ザ ビルディング クルー"
+        }
+      ]
+    }
   ]
 }

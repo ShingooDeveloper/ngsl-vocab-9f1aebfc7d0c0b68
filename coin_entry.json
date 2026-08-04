@@ -69,5 +69,154 @@
       ],
       "kana": "ウィ コインド ザ ターム ダーク ファーム フォー モウブ グラインダーズ イン ケイヴズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "coins",
+      "ipa": "/koʊnz/",
+      "examples": [
+        {
+          "en": "I collected five gold coins from the treasure chest.",
+          "ja": "宝物箱から5つの金のコインを収集した。",
+          "ipa": "/aɪ kəˈlɛktəd faɪv ɡoʊld koʊnz frəm ðə ˈtrɛʒər tʃɛst/",
+          "linking": [
+            "from は機能語で弱形 /frəm/",
+            "the も弱形 /ðə/"
+          ],
+          "kana": "アイ コレクテッド ファイブ ゴールド コインズ フラム ザ トレジャー チェスト"
+        },
+        {
+          "en": "These coins can be used to buy items from the server shop.",
+          "ja": "これらのコインはサーバーショップからアイテムを購入するために使用できます。",
+          "ipa": "/ðiz koʊnz kən bi juːzd tə baɪ ˈaɪtəmz frəm ðə ˈsɝvər ʃɑp/",
+          "linking": [
+            "can は弱形 /kən/、be も弱形 /bi/",
+            "to は弱形 /tə/",
+            "from は弱形 /frəm/、the も弱形 /ðə/",
+            "used の末尾 /d/ は to の初頭 /t/ に先行し、/d/ は未開放"
+          ],
+          "kana": "ディーズ コインズ カン ビー ユーズド タ バイ アイテムズ フラム ザ サーバー ショップ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "coins",
+      "ipa": "/koʊnz/",
+      "examples": [
+        {
+          "en": "He coins new terms for rare enchantments.",
+          "ja": "彼は希少なエンチャントメントのために新しい用語を造語している。",
+          "ipa": "/hi koʊnz ˈnjuː ˈtɝmz fɔr ˈrɛr ɪnˈtʃæntmənts/",
+          "linking": [
+            "He は弱形 /hi/",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ヒー コインズ ニュー ターモズ フォー レア インチャントメンツ"
+        },
+        {
+          "en": "The server coins rewards for completing quests.",
+          "ja": "サーバーはクエストを完了するための報酬をコインで与える。",
+          "ipa": "/ðə ˈsɝvər koʊnz rɪˈwɔrdz fɔr kəmˈpliːtɪŋ ˈkwɛsts/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ザ サーバー コインズ リワーズ フォー コムプリーティング クエスツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "coined",
+      "ipa": "/kɔɪnd/",
+      "examples": [
+        {
+          "en": "The player coined a term for the rare ore formation.",
+          "ja": "プレイヤーは希少な鉱石の形成に対する用語を造語した。",
+          "ipa": "/ðə ˈpleɪər kɔɪnd ə ˈtɝm fɔr ðə ˈrɛr ɔr fɔrˈmeɪʃən/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "coined の末尾 /d/ が a の初頭母音 /ə/ に連結",
+            "for は弱形 /fɔr/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ プレイヤー コインド ア ターム フォー ザ レア オア フォーメーション"
+        },
+        {
+          "en": "They coined the phrase 'mob farm' to describe mob grinders.",
+          "ja": "彼らはモブグラインダーを説明するために『mob farm』というフレーズを造語した。",
+          "ipa": "/ðeɪ kɔɪnd ðə freɪz moʊb fɑrm tə dɪˈskraɪb moʊb ˈɡraɪndərz/",
+          "linking": [
+            "coined の末尾 /d/ は the の初頭 /ð/ に先行し、/d/ は未開放",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ゼイ コインド ザ フレーズ モウブ ファーム タ ディスクライブ モウブ グラインダーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "coined",
+      "ipa": "/kɔɪnd/",
+      "examples": [
+        {
+          "en": "The term 'dark farm' was coined to describe cave mob grinders.",
+          "ja": "『dark farm』という用語は洞窟のモブグラインダーを説明するために造語された。",
+          "ipa": "/ðə ˈtɝm dɑrk fɑrm wəz kɔɪnd tə dɪˈskraɪb keɪv moʊb ˈɡraɪndərz/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "was は弱形 /wəz/",
+            "coined の末尾 /d/ は to の初頭 /t/ に先行し、/d/ は未開放",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ ターム ダーク ファーム ワズ コインド タ ディスクライブ ケイブ モウブ グラインダーズ"
+        },
+        {
+          "en": "The server has coined several new names for biome features.",
+          "ja": "サーバーはバイオーム機能のための複数の新しい名前を造語した。",
+          "ipa": "/ðə ˈsɝvər həz kɔɪnd ˈsɛvrəl ˈnjuː neɪmz fɔr ˈbaɪoʊm ˈfɪtʃərz/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ザ サーバー ハズ コインド セブラル ニュー ネイムズ フォー バイオーム フィーチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "coining",
+      "ipa": "/ˈkoʊnɪŋ/",
+      "examples": [
+        {
+          "en": "Players are coining new names for game mechanics.",
+          "ja": "プレイヤーはゲームメカニクスのための新しい名前を造語している。",
+          "ipa": "/ˈpleɪərz ɑr ˈkoʊnɪŋ ˈnjuː neɪmz fɔr ɡeɪm məˈkænɪks/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "プレイヤーズ アー コーニング ニュー ネイムズ フォー ゲイム メカニクス"
+        },
+        {
+          "en": "By coining terms together, the community creates shared vocabulary.",
+          "ja": "一緒に用語を造語することで、コミュニティは共有語彙を作成します。",
+          "ipa": "/baɪ ˈkoʊnɪŋ ˈtɝmz təˈɡɛðər ðə kəˈmjunəti kriˈeɪts ˈʃɛrd vəˈkæbjəlɛri/",
+          "linking": [
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "バイ コーニング ターモズ トゥゲザー ザ コミュニティ クリエイツ シェアード ヴォキャビュラリー"
+        }
+      ]
+    }
   ]
 }

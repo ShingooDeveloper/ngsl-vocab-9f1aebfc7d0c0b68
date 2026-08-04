@@ -43,6 +43,64 @@
       "kana": "マイニング ヴァリュアブル オーリズ ワース ザ エフート"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more valuable",
+      "ipa": "[mɔɹ ˈvæljəbəl]",
+      "examples": [
+        {
+          "en": "Emeralds are more valuable than diamonds to any villager.",
+          "ipa": "[ˈɛmərəldz ɑɹ mɔɹ ˈvæljəbəl ðən ˈdaɪmənz tə ˈɛni ˈvɪləɡɚ]",
+          "linking": [
+            "emeralds の末音 /z/ が are の初頭母音 /ɑ/ に連結 [ˈɛmərəldz ɑɹ]",
+            "diamonds の末音 /z/ が to の弱形 /ə/ に連結 [ˈdaɪmənz tə]"
+          ],
+          "kana": "エメラルズ エアー モア ヴァリュアブル ザン ダイモンズ タ エニー ヴィラジャー",
+          "ja": "どんな村人にとってもダイヤモンドより翡翠の方が価値がある。"
+        },
+        {
+          "en": "Ancient debris is more valuable than regular copper ore blocks.",
+          "ipa": "[ˈeɪnʃənt dəˈbɹis ɪz mɔɹ ˈvæljəbəl ðən ˈɹɛɡjələɹ ˈkɑpɚ ɔɹ blɑks]",
+          "linking": [
+            "debris の末音 /z/ が is の初頭母音 /ɪ/ に連結 [dəˈbɹis ɪz]",
+            "copper の末音 /ɹ/ が ore の初頭母音 /ɔ/ に連結 [ˈkɑpɚ ɔɹ]"
+          ],
+          "kana": "エンシェント デブリース イズ モア ヴァリュアブル ザン レギュラー コッパー オアー ブラックス",
+          "ja": "古代の破片は通常の銅鉱石ブロックより価値がある。"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most valuable",
+      "ipa": "[moʊst ˈvæljəbəl]",
+      "examples": [
+        {
+          "en": "Netherite ore is the most valuable material in this entire realm.",
+          "ipa": "[ˈnɛðəɹaɪt ɔɹ ɪz ðə moʊst ˈvæljəbəl məˈtɪɹiəl ɪn ðɪs ɪnˈtaɪɚ ˈɹɛlm]",
+          "linking": [
+            "ore の末音 /ɹ/ が is の初頭母音 /ɪ/ に連結 [ɔɹ ɪz]",
+            "material の末音 /l/ が in の初頭母音 /ɪ/ に連結 [məˈtɪɹiəl ɪn]"
+          ],
+          "kana": "ネザーライト オアー イズ ザ モウスト ヴァリュアブル マテリアル イン ジス エンタイアー レルム",
+          "ja": "ネザライト鉱石はこの広大な領域で最も価値のある素材です。"
+        },
+        {
+          "en": "The most valuable item I ever owned was found underwater.",
+          "ipa": "[ðə moʊst ˈvæljəbəl ˈaɪtəm aɪ ˈɛvɚ ˈoʊnd wəz faʊnd ˈʌndɚˌwɔtɚ]",
+          "linking": [
+            "item の末音 /m/ が I の初頭母音 /aɪ/ に連結 [ˈaɪtəm aɪ]",
+            "ever の末音 /ɹ/ が owned の初頭母音 /oʊ/ に連結 [ˈɛvɚ ˈoʊnd]"
+          ],
+          "kana": "ザ モウスト ヴァリュアブル アイテム アイ エバー オウンド ワズ ファウンド アンダーウォーター",
+          "ja": "私が今までに持ったことのある最も価値のあるアイテムは水中で見つかった。"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "valuable resource",

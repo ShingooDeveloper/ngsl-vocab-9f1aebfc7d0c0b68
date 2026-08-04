@@ -56,5 +56,145 @@
       ],
       "kana": "アイ ブレッド アウト オール ザ ブラウン シープ タ ゲット ピュアホワイト ウール"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "breeds",
+      "ipa": "/briːdz/",
+      "examples": [
+        {
+          "en": "We found many sheep breeds in this biome.",
+          "ja": "このバイオームで多くの羊の品種を見つけました。",
+          "ipa": "/wi faʊnd ˈmɛni ʃiːp briːdz ɪn ðɪs baɪˈoʊm/",
+          "linking": [
+            "breeds の /z/ が in の /ɪ/ に連結。"
+          ],
+          "kana": "ウィ ファウンド メニー シープ ブリーズ イン ディス バイオーム"
+        },
+        {
+          "en": "These dog breeds are perfect for guarding the base.",
+          "ja": "これらの犬の品種は基地を守るのに完璧です。",
+          "ipa": "/ðiz dɔg briːdz ɑr ˈpɝfɪkt fɚ ˈɡɑrdɪŋ ðə beɪs/",
+          "linking": [
+            "breeds の /z/ が are の /ɑ/ に連結。",
+            "for は機能語で弱形 /fɚ/。the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ディーズ ドーグ ブリーズ アー パーフェクト ファー ガーディング ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "breeds",
+      "ipa": "/briːdz/",
+      "examples": [
+        {
+          "en": "The horse breeds here in spring.",
+          "ja": "この馬はここで春に繁殖します。",
+          "ipa": "/ðə hɔrs briːdz hɪr ɪn sprɪŋ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "here の /r/ が in の /ɪ/ に連結。"
+          ],
+          "kana": "ザ ホース ブリーズ ヒア イン スプリング"
+        },
+        {
+          "en": "This type of slime breeds in swamps.",
+          "ja": "このタイプのスライムは沼地で繁殖します。",
+          "ipa": "/ðɪs taɪp əv slaɪm briːdz ɪn swɑmps/",
+          "linking": [
+            "of は機能語で弱形 /əv/。type の /p/ に連結。",
+            "breeds の /z/ が in の /ɪ/ に連結。"
+          ],
+          "kana": "ディス タイプ アヴ スライム ブリーズ イン スウォンプス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "bred",
+      "ipa": "/brɛd/",
+      "examples": [
+        {
+          "en": "I bred sheep for protection against mobs.",
+          "ja": "モブから守るために羊を繁殖させました。",
+          "ipa": "/aɪ brɛd ʃiːp fɚ prəˈtɛkʃən əˈɡɛnst mɑbz/",
+          "linking": [
+            "for は機能語で弱形 /fɚ/。",
+            "protection の /n/ が against の /ə/ に連結。"
+          ],
+          "kana": "アイ ブレッド シープ ファー プラテクション アゲンスト モブズ"
+        },
+        {
+          "en": "The villagers bred horses for transport.",
+          "ja": "村民たちは輸送用の馬を繁殖させました。",
+          "ipa": "/ðə ˈvɪlɪdʒərz brɛd ˈhɔrsɪz fɚ ˈtrænspɔrt/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "for は機能語で弱形 /fɚ/。"
+          ],
+          "kana": "ザ ヴィリジャーズ ブレッド ホーシーズ ファー トランスポート"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "bred",
+      "ipa": "/brɛd/",
+      "examples": [
+        {
+          "en": "The sheep I bred are now fully grown.",
+          "ja": "私が繁殖させた羊は今完全に成長しています。",
+          "ipa": "/ðə ʃiːp aɪ brɛd ɑr naʊ ˈfʊli ɡroʊn/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "sheep の /p/ が I の /aɪ/ に連結。"
+          ],
+          "kana": "ザ シープ アイ ブレッド アー ナウ フーリー グロウン"
+        },
+        {
+          "en": "These horses have been bred for speed.",
+          "ja": "これらの馬はスピードのために繁殖させられてきました。",
+          "ipa": "/ðiz ˈhɔrsɪz hæv bɪn brɛd fɚ spiːd/",
+          "linking": [
+            "for は機能語で弱形 /fɚ/。"
+          ],
+          "kana": "ディーズ ホーシーズ ハヴ ビン ブレッド ファー スピード"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "breeding",
+      "ipa": "/ˈbriːdɪŋ/",
+      "examples": [
+        {
+          "en": "Breeding villagers is important for the farm.",
+          "ja": "村民を繁殖させることはファームにとって重要です。",
+          "ipa": "/ˈbriːdɪŋ ˈvɪlɪdʒərz ɪz ɪmˈpɔrtənt fɚ ðə fɑrm/",
+          "linking": [
+            "is は弱形 /əz/。",
+            "for は機能語で弱形 /fɚ/。the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ブリーディング ヴィリジャーズ アズ イムポータント ファー ザ ファーム"
+        },
+        {
+          "en": "Many mobs are breeding in the dark room.",
+          "ja": "多くのモブが暗い部屋で繁殖しています。",
+          "ipa": "/ˈmɛni mɑbz ɑr ˈbriːdɪŋ ɪn ðə dɑrk rum/",
+          "linking": [
+            "mobs の /z/ が are の /ɑ/ に連結。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "メニー モブズ アー ブリーディング イン ザ ダーク ルーム"
+        }
+      ]
+    }
   ]
 }

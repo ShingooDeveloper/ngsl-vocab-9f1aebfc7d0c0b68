@@ -17,9 +17,9 @@
       "ja": "このビルディングプロジェクトへのあなたの関与は、私たちがタワーを完成させるのに本当に役立ちました。",
       "ipa": "/jɔɚ ɪnˈvɑlvmənt ɪn ðɪs ˈbɪldɪŋ ˈprɑdʒɛkt ˈrɪli ˈhɛlpt əs ˈfɪnɪʃ ðə ˈtaʊɚ/",
       "linking": [
-        "the は冠詞で弱形 /ðə/ に弱化。tower の初頭に連結。"
+        "the は冠詞で弱形 /ðə/ に弱化。"
       ],
-      "kana": "ヨー インヴォルヴメント イン ディス ビルディング プロジェクト リーリ ヘルプト ァズ フィニッシュ ザ タウァー"
+      "kana": "ユア インヴォルヴメント イン ディス ビルディング プロジェクト リーリ ヘルプト ァズ フィニッシュ ザ タウァー"
     },
     {
       "en": "The involvement of all players is essential for the final battle.",
@@ -27,8 +27,8 @@
       "ipa": "/ðə ɪnˈvɑlvmənt əv ɔl ˈpleɪɚz ɪz ɪˈsɛnʃəl fɚ ðə ˈfaɪnəl ˈbætəl/",
       "linking": [
         "The は冠詞で弱形 /ðə/ に弱化。involvement の初頭に連結。",
-        "of は前置詞で弱形 /əv/。all の初頭に連結。",
-        "for は前置詞で弱形 /fɚ/。the は弱形 /ðə/。"
+        "of の末尾子音 /v/ が all の初頭母音 /ɔ/ に連結。",
+        "for は前置詞で弱形 /fɚ/ に弱化。the は弱形 /ðə/ に弱化。"
       ],
       "kana": "ザ インヴォルヴメント ァヴ オール プレイァーズ イズ イセンシャル ファー ザ ファイナル バトル"
     },
@@ -37,8 +37,8 @@
       "ja": "採掘作業への私の関与は慎重な計画が必要です。",
       "ipa": "/maɪ ɪnˈvɑlvmənt wɪð ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən rɪˈkwaɪɚz ˈkɛrfəl ˈplænɪŋ/",
       "linking": [
-        "with の末尾子音 /ð/ と the の初頭子音 /ð/ が重なるように接続。the は弱形 /ðə/。",
-        "the は冠詞で弱形 /ðə/ に弱化。mining の初頭に連結。"
+        "with の末尾子音 /ð/ と the の初頭子音 /ð/ が連続。同じ子音が重なる。",
+        "the は冠詞で弱形 /ðə/ に弱化。"
       ],
       "kana": "マイ インヴォルヴメント ウィザ マイニング アペレーション リクワイァーズ ケアフル プラニング"
     }
@@ -51,7 +51,7 @@
       "example_ja": "レッドストーン回路のクラフトへの彼らの関与は印象的でした。",
       "ipa": "/ðɛɚ ɪnˈvɑlvmənt ɪn ˈkræftɪŋ ðə ˈrɛdˌstoʊn ˈsɝkɪt wəz ɪmˈprɛsɪv/",
       "linking": [
-        "the は冠詞で弱形 /ðə/ に弱化。redstone の初頭に連結。"
+        "the は冠詞で弱形 /ðə/ に弱化。"
       ],
       "kana": "ゼア インヴォルヴメント イン クラフティング ザ レッドストーン サーキット ワズ インプレッシヴ"
     },
@@ -62,10 +62,40 @@
       "example_ja": "敵対的なモブとの係わりを減らすことで、暗闇ではより安全になります。",
       "ipa": "/rɪˈdjuːst ɪnˈvɑlvmənt wɪð ˈhoʊsˌtaɪl ˈmɑbz ˈkips ju ˈseɪfɚ ɪn ðə ˈdɑɹk/",
       "linking": [
-        "with は末尾子音 /ð/。hostile は初頭子音 /h/ で接続。",
-        "the は冠詞で弱形 /ðə/ に弱化。dark の初頭に連結。"
+        "with の末尾子音 /ð/ と hostile の初頭子音 /h/ が接続。子音+子音。",
+        "the は冠詞で弱形 /ðə/ に弱化。"
       ],
-      "kana": "リジューストゥ インヴォルヴメント ウィ ホースタイル モブズ キープス ユー セイファー イン ザ ダーク"
+      "kana": "リジューストゥ インヴォルヴメント ウィザ ホースタイル モブズ キープス ユー セイファー イン ザ ダーク"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "involvements",
+      "ipa": "/ɪnˈvɑlvmənts/",
+      "examples": [
+        {
+          "en": "The team's involvements in multiple redstone projects pushed their limits.",
+          "ja": "複数のレッドストーンプロジェクトへのチームの関わりが彼らの限界を押し広げた。",
+          "ipa": "/ðə ˈtimz ɪnˈvɑlvmənts ɪn ˈmʌltɪpəl ˈrɛdˌstoʊn ˈprɑdʒɛkts pʊʃt ðɛɚ ˈlɪməts/",
+          "linking": [
+            "team's involvements → 語末子音 /z/ が母音 /ɪ/ に連結 [ˈtimz ɪnˈvɑlvmənts]",
+            "involvements in → 語末子音 /ts/ が母音 /ɪ/ に連結 [ɪnˈvɑlvmənts ɪn]"
+          ],
+          "kana": "ザ チームズ インヴォルヴメンツ イン マルティプル レッドストーン プロジェクツ プッシュト ゼア リミッツ"
+        },
+        {
+          "en": "Our faction's involvements with mining and building shaped the server's history.",
+          "ja": "マイニングと建築への私たちのファクションの複数の関わりがサーバーの歴史を形作った。",
+          "ipa": "/ˈaʊɚ ˈfækʃənz ɪnˈvɑlvmənts wɪð ˈmaɪnɪŋ ənd ˈbɪldɪŋ ʃeɪpt ðə ˈsɝvɚz ˈhɪstəri/",
+          "linking": [
+            "faction's involvements → 語末子音 /z/ が母音 /ɪ/ に連結 [ˈfækʃənz ɪnˈvɑlvmənts]",
+            "shaped the → shaped の末尾子音 /t/ が the の初頭に連結。the は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "アワー ファクションズ インヴォルヴメンツ ウィザ マイニング アンド ビルディング シェイプト ザ サーバーズ ヒストリー"
+        }
+      ]
     }
   ]
 }

@@ -60,5 +60,69 @@
       ],
       "kana": "ユー シュッ ステイ フレクサブル アバウト ユア ビルディング プランズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more flexible",
+      "ipa": "/moɹ ˈflɛksəbəl/",
+      "examples": [
+        {
+          "en": "Set up a chest here: this storage is more flexible compared to just a furnace.",
+          "ja": "ここにチェストを設置しましょう：このストレージはただのかまどより柔軟です。",
+          "ipa": "/ˈsɛt ʌp ə tʃɛst hɪɚ ðɪs ˈstɔrɪdʒ ɪz moɹ ˈflɛksəbəl kəmˈpɛrd tu dʒʌst ə ˈfɝnɪs/",
+          "linking": [
+            "Set up → 語末子音 /t/ が母音 /ʌ/ に連結 [ˈsɛtʌp] セッタップ",
+            "up a → 語末子音 /p/ が母音 /ə/ に連結 [ʌpə] アパ",
+            "storage is → 語末子音 /dʒ/ が母音 /ɪ/ に連結 [ˈstɔrɪdʒɪz] ストーレッジイズ",
+            "just a → 語末子音 /t/ が母音 /ə/ に連結 [dʒʌtə] ジャスタ"
+          ],
+          "kana": "セッタップ ア チェスト ヒア、ディス ストーレッジイズ モア フレックスアビル コンペアド トゥ ジャスタ ファーニス"
+        },
+        {
+          "en": "Grab a sword when exploring: combat tools are more flexible for handling various situations.",
+          "ja": "探検中に剣を掴みましょう：戦闘ツールは様々な状況に対応するためにより柔軟です。",
+          "ipa": "/ˈɡræb ə ˈsɔɹd wɛn ɪkˈsplɔɹɪŋ ˈkɑmbæt tulz ɑɹ moɹ ˈflɛksəbəl fɔɹ ˈhændəlɪŋ ˈvɛriəs ˈsɪtʃuˌeɪʃənz/",
+          "linking": [
+            "Grab a → 語末子音 /b/ が母音 /ə/ に連結 [ˈɡræbə] グラバ",
+            "exploring tools → /ŋ/ が /t/ に（子音+子音で連結なし。ただし ng+tの場合、g は音が無い）",
+            "are more → 語末 /ɹ/ が /m/ に（子音+子音で連結なし）",
+            "for handling → 語末 /ɹ/ が /h/ に（子音+子音で連結なし）"
+          ],
+          "kana": "グラバ ソード ウェン イクスプロアリング、コンバット ツールズ アー モア フレックスアビル フォア ハンドリング ベアリアス シチュエイションズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most flexible",
+      "ipa": "/moʊst ˈflɛksəbəl/",
+      "examples": [
+        {
+          "en": "Cobblestone is the most flexible block for building because any pickaxe can mine it.",
+          "ja": "丸石は建築のために最も柔軟なブロックです。どのつるはしでも採掘できるから。",
+          "ipa": "/ˈkɑbəlˌstoʊn ɪz ðə ˈmoʊst ˈflɛksəbəl blɑk fɔɹ ˈbɪldɪŋ bɪˈkɔz ˈɛni ˈpɪkæks kæn ˈmaɪn ɪt/",
+          "linking": [
+            "Cobblestone is → 語末子音 /n/ が母音 /ɪ/ に連結 [ˈkɑbəlˌstoʊnɪz] コブルストウニズ",
+            "most flexible → 語末子音 /t/ が未開放で、flexible の /f/ に先行 [ˈmoʊst̚ ˈflɛksəbəl] モースト フレックスアビル",
+            "mine it → 語末子音 /n/ が母音 /ɪ/ に連結 [ˈmaɪnɪt] マイニット"
+          ],
+          "kana": "コブルストウニズ ザ モースト フレックスアビル ブラック フォア ビルディング ビコーズ エニー ピッカックス キャン マイニット"
+        },
+        {
+          "en": "Redstone dust is the most flexible redstone component for transmitting signals through circuits.",
+          "ja": "レッドストーンダストは回路を通ってシグナルを送信するために最も柔軟なレッドストーン部品です。",
+          "ipa": "/ˈrɛdˌstoʊn ˈdʌst ɪz ðə ˈmoʊst ˈflɛksəbəl ˈrɛdˌstoʊn kəmˈpoʊnənt fɔɹ trænzˈmɪtɪŋ ˈsɪɡnəlz θru ˈsɝkɪts/",
+          "linking": [
+            "Redstone is → 語末子音 /n/ が母音 /ɪ/ に連結 [ˈrɛdˌstoʊnɪz] レッドストウニズ",
+            "most flexible → 語末子音 /t/ が未開放で、flexible の /f/ に先行 [ˈmoʊst̚ ˈflɛksəbəl] モースト フレックスアビル",
+            "signals through → 語末子音 /z/ が /θ/ に（子音+子音で連結なし）"
+          ],
+          "kana": "レッドストウニズ ザ モースト フレックスアビル レッドストウン コンポウネント フォア トランズミティング シグナルズ スルー サーキッツ"
+        }
+      ]
+    }
   ]
 }

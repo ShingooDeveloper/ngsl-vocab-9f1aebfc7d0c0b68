@@ -42,6 +42,36 @@
       "kana": "ザ エヴァリューション ショウッ ポア ディフェンシズ アン ザ ノース サイド"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "evaluations",
+      "ipa": "/ˌɛvəˈluːʃənz/",
+      "examples": [
+        {
+          "en": "The evaluations showed the base was weak.",
+          "ja": "その評価は基地が弱かったことを示しました。",
+          "ipa": "/ðə ˌɛvəˈluːʃənz ˈʃoʊd ðə ˈbeɪs wəz ˈwiːk/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "showed の末尾子音 /d/ は次の子音 /ð/ 前で未開放 [ʃoʊd̚]"
+          ],
+          "kana": "ザ エヴァリューション ショウッ ザ ベイス ワズ ウィーク"
+        },
+        {
+          "en": "We collected evaluations on every base.",
+          "ja": "すべての基地に関する評価を集めました。",
+          "ipa": "/wi kəˈlɛktɪd ˌɛvəˈluːʃənz ən ˈɛvri ˈbeɪs/",
+          "linking": [
+            "collected の末尾子音 /d/ が evaluations の初頭母音 /ɛ/ に連結 [kəˈlɛktɪdɛ]",
+            "on は機能語で弱形 /ən/ に弱化"
+          ],
+          "kana": "ウィ コロクティデヴァリューション アン エヴリ ベイス"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "under evaluation",

@@ -164,6 +164,88 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is eating",
+      "ipa": "/ɪz ˈiːtɪŋ/",
+      "examples": [
+        {
+          "en": "The chicken is eating seeds in the farm.",
+          "ja": "ニワトリが農場で種を食べています。",
+          "ipa": "/ðə ˈtʃɪkən ɪz ˈiːtɪŋ sidz ɪn ðə fɑrm/",
+          "kana": "ザ チキン イズ イーティング シーズ イン ザ ファーム",
+          "linking": [
+            "is eating: is /ɪz/ の /z/ が eating /ˈiːtɪŋ/ に連結 [ɪzˈiːtɪŋ] イズ イーティング"
+          ]
+        },
+        {
+          "en": "I am eating a carrot while building my house.",
+          "ja": "家を建てながら、ニンジンを食べています。",
+          "ipa": "/aɪ æm ˈiːtɪŋ ə ˈkærət ˈwaɪl ˈbɪldɪŋ maɪ haʊs/",
+          "kana": "アイ アム イーティング ア キャロット ワイル ビルディング マイ ハウス",
+          "linking": [
+            "am eating: am /æm/ が eating /ˈiːtɪŋ/ に連結 [æmˈiːtɪŋ] アム イーティング",
+            "while building: /l/ (while) から /b/ (building) への自然な分かち書き"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was eating",
+      "ipa": "/wəz ˈiːtɪŋ/",
+      "examples": [
+        {
+          "en": "We were eating when a creeper exploded near us.",
+          "ja": "クリーパーが爆発した時、食べていました。",
+          "ipa": "/wi wər ˈiːtɪŋ ʍɛn ə ˈkripər ɪkˈsploʊdɪd nɪr əs/",
+          "kana": "ウィ ワー イーティング ホェン ア クリーパー イクスプロウディド ニア ラス",
+          "linking": [
+            "were eating: were /wər/ が eating /ˈiːtɪŋ/ に連結 [wərˈiːtɪŋ] ワー イーティング",
+            "near us: near /nɪr/ の /r/ が us /əs/ の /ə/ に連結 [nɪrəs] ニアアス"
+          ]
+        },
+        {
+          "en": "He was eating food when the Enderman appeared.",
+          "ja": "エンダーマンが現れた時、食べていました。",
+          "ipa": "/hi wəz ˈiːtɪŋ ˈfud ʍɛn ðə ˈɛndərmæn əˈpɪrd/",
+          "kana": "ヒー ワズ イーティング フード ホェン ザ エンダーマン アピアド",
+          "linking": [
+            "was eating: was /wəz/ (弱形) が eating /ˈiːtɪŋ/ に連結 [wəzˈiːtɪŋ] ワズ イーティング",
+            "eating food: /ŋ/ (eating) から /f/ (food) への自然な分かち書き",
+            "the Enderman: the /ðə/ の弱形が Enderman に連結 [ðəˈɛndərmæn] ザ エンダーマン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been eating",
+      "ipa": "/hæd bɪn ˈiːtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been eating our supplies for days before finding a village.",
+          "ja": "村を見つける前に、何日も食料を食べていました。",
+          "ipa": "/wi hæd bɪn ˈiːtɪŋ ɑr səˈplaɪz fə deɪz bɪˈfɔr ˈfaɪndɪŋ ə ˈvɪlɪdʒ/",
+          "kana": "ウィ ハド ビン イーティング アー サプライズ フォ デイズ ビフォア ファインディング ア ヴィリッジ",
+          "linking": [
+            "been eating: been /bɪn/ から eating /ˈiːtɪŋ/ への連結 [bɪnˈiːtɪŋ] ビン イーティング"
+          ]
+        },
+        {
+          "en": "They had been eating the last food when the storm started.",
+          "ja": "嵐が始まった時、最後の食べ物を食べていました。",
+          "ipa": "/ðeɪ hæd bɪn ˈiːtɪŋ ðə læst ˈfud ʍɛn ðə stɔrm ˈstɑrtəd/",
+          "kana": "ゼイ ハド ビン イーティング ザ ラスト フード ホェン ザ ストーム スターテッド",
+          "linking": [
+            "been eating: been /bɪn/ から eating /ˈiːtɪŋ/ への連結 [bɪnˈiːtɪŋ] ビン イーティング"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

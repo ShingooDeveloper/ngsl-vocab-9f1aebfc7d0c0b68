@@ -69,5 +69,37 @@
       ],
       "kana": "プレイラー インターアクション ウィズ ヴィラジャーズ ヘルプス ユー トレイド フォーレア アイテムズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "interactions",
+      "ipa": "/ˌɪn.tərˈæk.ʃənz/",
+      "examples": [
+        {
+          "en": "Player-mob interactions determine the outcome of every combat encounter.",
+          "ja": "プレイヤーとモブの相互作用は、あらゆる戦闘の結果を決定します。",
+          "ipa": "/ˈpleɪ.ɚ moʊb ˌɪn.tərˈæk.ʃənz dɪˈtɝ.mɪn ðə ˈaʊt.kəm əv ˈɛv.ri ˈkɑm.bæt ɪnˈkaʊn.tɚ/",
+          "linking": [
+            "player の末尾 /ɚ/ が mob の初頭 /m/ に連結 [ˈpleɪ.ɚm] プレイラム。",
+            "of は弱形 /əv/、every は /ˈɛv.ri/ で次の combat に連続。",
+            "encounter は [ɪnˈkaʊn.tɚ] エンカウンター。"
+          ],
+          "kana": "プレイラ モブ インターアクションズ ディターミン ザ アウトカム アヴ エヴリ コンバット エンカウンター"
+        },
+        {
+          "en": "Complex redstone interactions enable automatic farms and sophisticated contraptions.",
+          "ja": "複雑なレッドストーンの相互作用は、自動農場と高度な装置を可能にします。",
+          "ipa": "/kəmˈplɛks ˈrɛd.stoʊn ˌɪn.tərˈæk.ʃənz ɪˈneɪ.bəl ˌɔ.tə.ˈmæt.ɪk fɑrmz ənd ˌsoʊ.fɪsˈtɪ.keɪ.tɪd kənˈtræp.ʃənz/",
+          "linking": [
+            "redstone の末尾 /n/ が interactions の初頭 /ɪ/ に連結 [ˈrɛd.stoʊ.nɪn] レッドストー ニン。",
+            "and は弱形 /ənd/ [ənd] アン。",
+            "contraptions は [kənˈtræp.ʃənz] コントラプションズ。"
+          ],
+          "kana": "コンプレックス レッドストー ニン ターアクションズ イネイブル オートマティック ファームズ アン ソフィスティケイティド コントラプションズ"
+        }
+      ]
+    }
   ]
 }

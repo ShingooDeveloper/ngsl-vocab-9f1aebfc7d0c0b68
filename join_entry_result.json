@@ -195,6 +195,100 @@
           "kana": "ウィ アー ジョイニング ザ ニュー レルム タデイ、アンド エブリワン イズ イクサイティド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is joining",
+      "ipa": "/ɪz ˈdʒɔɪnɪŋ/",
+      "examples": [
+        {
+          "en": "She is joining our mining expedition tomorrow.",
+          "ja": "彼女は明日私たちの採掘遠征に参加する予定です。",
+          "ipa": "/ʃi ɪz ˈdʒɔɪnɪŋ ˈaʊər ˈmaɪnɪŋ ɪkˈspɪdɪʃən təˈmɑroʊ/",
+          "linking": [
+            "is は弱形 /ɪz/、joining に連結 [ɪz ˈdʒɔɪnɪŋ] イズ ジョイニング",
+            "joining our → joining の末尾 /ŋ/ が our の初頭 /aʊ/ に続く",
+            "to は弱形 /tə/"
+          ],
+          "kana": "シー イズ ジョイニング アウアー マイニング イクスペディション タモロー"
+        },
+        {
+          "en": "We are joining the Creative mode to build without limits.",
+          "ja": "私たちは制限なく建築するためにクリエイティブモードに参加しています。",
+          "ipa": "/wi ɑr ˈdʒɔɪnɪŋ ðə kriˈeɪtɪv ˈmoʊd tə ˈbɪld wɪˈðaʊt ˈlɪmɪts/",
+          "linking": [
+            "are は弱形 /ɑr/、joining に連結 [ɑr ˈdʒɔɪnɪŋ] アー ジョイニング",
+            "joining the → joining の末尾 /ŋ/ が the の初頭 /ð/ に続く、the は弱形 /ðə/ [ˈdʒɔɪnɪŋ ðə] ジョイニング ザ",
+            "to は弱形 /tə/、build に連結",
+            "without の /t/ は未開放で [wɪðˈaʊt̚]"
+          ],
+          "kana": "ウィ アー ジョイニング ザ クリエイティヴ モード タ ビルド ウィザウト リミッツ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was joining",
+      "ipa": "/wəz ˈdʒɔɪnɪŋ/",
+      "examples": [
+        {
+          "en": "They were joining the battle when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼らは戦いに参加していました。",
+          "ipa": "/ðeɪ wər ˈdʒɔɪnɪŋ ðə ˈbætəl wɛn ðə ˈsɜrvər ˈkræʃt/",
+          "linking": [
+            "were は弱形 /wər/、joining に連結 [wər ˈdʒɔɪnɪŋ] ワー ジョイニング",
+            "joining the → joining の末尾 /ŋ/ が the の初頭 /ð/ に続く、the は弱形 /ðə/ [ˈdʒɔɪnɪŋ ðə] ジョイニング ザ",
+            "when the → /wɛn ðə/ ウェン ザ"
+          ],
+          "kana": "ゼイ ワー ジョイニング ザ バトル ウェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "I was joining a co-op world, but I got disconnected.",
+          "ja": "協力ワールドに参加していたのですが、接続が切れました。",
+          "ipa": "/aɪ wəz ˈdʒɔɪnɪŋ ə koʊˈɑp ˈwɜrld | bət aɪ ɡɑt dɪsəˈnɛktɪd/",
+          "linking": [
+            "was は弱形 /wəz/、joining に連結 [wəz ˈdʒɔɪnɪŋ] ワズ ジョイニング",
+            "joining a → joining の末尾 /ŋ/ が a の初頭 /ə/ に連結 [ˈdʒɔɪnɪŋ ə] ジョイニング ア",
+            "but は /bət/、got に続く"
+          ],
+          "kana": "アイ ワズ ジョイニング ア コーアップ ワールド、バット アイ ガット ディスコネクティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been joining",
+      "ipa": "/həd bɪn ˈdʒɔɪnɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the boss appeared, we had been joining forces for an hour.",
+          "ja": "ボスが現れるまでに、1時間も力を合わせていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbɑs əˈpɪrd | wi hæd bɪn ˈdʒɔɪnɪŋ ˈfɔrsɪz fər ən ˈaʊər/",
+          "linking": [
+            "by the → by の末尾 /ɪ/ が the の初頭 /ð/ に続く。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "had は弱形 /həd/、been に連結 [həd bɪn] ハド ビン",
+            "joining の末尾 /ŋ/ が forces の初頭 /f/ に続く",
+            "for は弱形 /fər/"
+          ],
+          "kana": "バイ ザ タイム ザ ボス アピアド、ウィ ハド ビン ジョイニング フォーシーズ ファー アン アワー"
+        },
+        {
+          "en": "They had been joining in all the mini-games before the main event.",
+          "ja": "メインイベント前に、彼らはミニゲームに参加していました。",
+          "ipa": "/ðeɪ hæd bɪn ˈdʒɔɪnɪŋ ɪn ˈɔl ðə ˈmɪni ˈɡeɪmz bɪˈfɔr ðə ˈmeɪn ɪˈvɛnt/",
+          "linking": [
+            "had は弱形 /hæd/、been に連結 [hæd bɪn] ハド ビン",
+            "joining in → joining の末尾 /ŋ/ が in の初頭 /ɪ/ に連結 [ˈdʒɔɪnɪŋ ɪn] ジョイニング イン",
+            "in all → /ɪn ˈɔl/ イン オール",
+            "all the → all の末尾 /l/ が the の初頭 /ð/ に連結、the は弱形 /ðə/ [ˈɔl ðə] オール ザ",
+            "before の r が main の初頭に連結 [bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "ゼイ ハド ビン ジョイニング イン オール ザ ミニ ゲームズ ビフォア ザ メイン イベント"
+        }
+      ]
     }
   ]
 }

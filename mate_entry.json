@@ -56,5 +56,156 @@
       ],
       "kana": "マイ オールド メイト ファイナリ ジョイッ ザ サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "mates",
+      "ipa": "/meɪts/",
+      "examples": [
+        {
+          "en": "My mates and I are mining diamonds deep underground.",
+          "ja": "私の友人たちと私は、地下深くでダイヤモンドを採掘しています。",
+          "ipa": "/maɪ ˈmeɪts ənd aɪ ɑr ˈmaɪnɪŋ ˈdaɪəməndz ˈdip ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "mates and → 語末の s が and の初頭に続く [ˈmeɪts ənd] メイツ エン",
+            "and I → and は弱形 /ənd/",
+            "are mining → are は弱形 /ɑr/、mining に続く [ɑr ˈmaɪnɪŋ] アー マイニング"
+          ],
+          "kana": "マイ メイツ エン アイ アー マイニング ダイモンズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "Steve invited all his mates to build a village.",
+          "ja": "スティーブは彼の友人たちを村を建設するために招待しました。",
+          "ipa": "/ˈstiv ɪnˈvaɪtɪd ɔl hɪz ˈmeɪts tu ˈbɪld ə ˈvɪlɪdʒ/",
+          "linking": [
+            "invited → d が all の初頭に続く [ɪnˈvaɪtɪd ɔl] インヴァイティッド オール",
+            "his mates → z が m に続く [hɪz ˈmeɪts] ヒズ メイツ",
+            "to build → to は弱形 /tə/ [tə ˈbɪld] タ ビルド"
+          ],
+          "kana": "スティーヴ インヴァイティッド オール ヒズ メイツ タ ビルド ア ヴィリッジ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "mates",
+      "ipa": "/meɪts/",
+      "examples": [
+        {
+          "en": "The farmer mates the cows to produce more livestock.",
+          "ja": "農場主は、より多くの家畜を生産するために牛を交配させます。",
+          "ipa": "/ðə ˈfɑrmər ˈmeɪts ðə ˈkaʊz tu prəˈdus mɔr ˈlaɪvˌstɑk/",
+          "linking": [
+            "farmer mates → r が m に続く [ˈfɑrmər ˈmeɪts] ファーマー メイツ",
+            "mates the → s が ð に続く [ˈmeɪts ðə] メイツ ザ",
+            "to produce → to は弱形 /tə/"
+          ],
+          "kana": "ザ ファーマー メイツ ザ カウズ タ プロデュース モア ライブストック"
+        },
+        {
+          "en": "This wolf mates with another wolf to have pups.",
+          "ja": "このオオカミは、子犬を持つために別のオオカミと交配します。",
+          "ipa": "/ðɪs ˈwʊlf ˈmeɪts wɪð əˈnʌðər ˈwʊlf tu ˈhæv ˈpʌps/",
+          "linking": [
+            "wolf mates → f が m に続く [ˈwʊlf ˈmeɪts] ウルフ メイツ",
+            "mates with → s が w に続く [ˈmeɪts wɪð] メイツ ウィズ",
+            "to have → to は弱形 /tə/"
+          ],
+          "kana": "ディス ウルフ メイツ ウィズ アナザー ウルフ タ ハヴ パップス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "mated",
+      "ipa": "/ˈmeɪtɪd/",
+      "examples": [
+        {
+          "en": "We mated the horses yesterday and they produced a foal.",
+          "ja": "昨日は馬を交配させて、子馬を生産しました。",
+          "ipa": "/wi ˈmeɪtɪd ðə ˈhɔrsɪz ˈjɛstərˌdeɪ ənd ðeɪ prəˈdust ə ˈfoʊl/",
+          "linking": [
+            "mated the → d が ð に続く [ˈmeɪtɪd ðə] メイティッド ザ",
+            "they produced → ey が p に続く [ðeɪ prəˈdust] ゼイ プロデューストド"
+          ],
+          "kana": "ウィー メイティッド ザ ホーシーズ イエスタデイ エン ゼイ プロデューストド ア フォール"
+        },
+        {
+          "en": "After the sheep mated, the farmer collected the wool.",
+          "ja": "羊が交配した後、農夫は羊毛を集めました。",
+          "ipa": "/ˈæftər ðə ˈʃip ˈmeɪtɪd ðə ˈfɑrmər kəˈlɛktɪd ðə ˈwʊl/",
+          "linking": [
+            "sheep mated → p が m に続く [ˈʃip ˈmeɪtɪd] シープ メイティッド",
+            "mated, the → d が ð に続く [ˈmeɪtɪd ðə] メイティッド ザ",
+            "collected the → d が ð に続く [kəˈlɛktɪd ðə] コレクティッド ザ"
+          ],
+          "kana": "アフター ザ シープ メイティッド ザ ファーマー コレクティッド ザ ウル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "mated",
+      "ipa": "/ˈmeɪtɪd/",
+      "examples": [
+        {
+          "en": "I have mated the rabbits to increase the population.",
+          "ja": "ウサギを交配させて、個体数を増やしています。",
+          "ipa": "/aɪ hæv ˈmeɪtɪd ðə ˈræbɪts tu ɪnˈkris ðə ˌpɑpjəˈleɪʃən/",
+          "linking": [
+            "have mated → have は弱形 /hæv/、mated に続く [hæv ˈmeɪtɪd] ハヴ メイティッド",
+            "mated the → d が ð に続く [ˈmeɪtɪd ðə] メイティッド ザ",
+            "to increase → to は弱形 /tə/"
+          ],
+          "kana": "アイ ハヴ メイティッド ザ ラビッツ タ インクリース ザ ポピュレイション"
+        },
+        {
+          "en": "The mated animals produced offspring in the breeding area.",
+          "ja": "交配させた動物は、育成エリアで子孫を生産しました。",
+          "ipa": "/ðə ˈmeɪtɪd ˈænɪməlz prəˈdust ˈɑfˌsprɪŋ ɪn ðə ˈbridɪŋ ˈɛriə/",
+          "linking": [
+            "the mated → ə が m に続く [ðə ˈmeɪtɪd] ザ メイティッド",
+            "mated animals → d が ə に続く [ˈmeɪtɪd ˈænɪməlz] メイティッド アニマルズ",
+            "in the → n が ð に続く [ɪn ðə] イン ザ"
+          ],
+          "kana": "ザ メイティッド アニマルズ プロデューストド オフスプリング イン ザ ブリーディング エリア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "mating",
+      "ipa": "/ˈmeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The animals are mating in the breeding pen right now.",
+          "ja": "動物は今、育成ペンで交配しています。",
+          "ipa": "/ðə ˈænɪməlz ɑr ˈmeɪtɪŋ ɪn ðə ˈbridɪŋ ˈpɛn ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are mating → are は弱形 /ɑr/、mating に続く [ɑr ˈmeɪtɪŋ] アー メイティング",
+            "in the → n が ð に続く [ɪn ðə] イン ザ",
+            "pen right → n が r に続く [ˈpɛn ˈraɪt] ペン ライト"
+          ],
+          "kana": "ザ アニマルズ アー メイティング イン ザ ブリーディング ペン ライト ナウ"
+        },
+        {
+          "en": "While mating the two villagers, I saw a creeper approaching.",
+          "ja": "2人の村人を配置している間に、クリーパーが近づくのが見えました。",
+          "ipa": "/waɪl ˈmeɪtɪŋ ðə tu ˈvɪlɪdʒərz aɪ ˈsɔ ə ˈkripər əˈproʊtʃɪŋ/",
+          "linking": [
+            "mating the → ng が ð に続く [ˈmeɪtɪŋ ðə] メイティング ザ",
+            "I saw → aɪ が s に続く [aɪ ˈsɔ] アイ ソー",
+            "a creeper → ə が k に続く [ə ˈkripər] ア クリーパー"
+          ],
+          "kana": "ワイル メイティング ザ トゥー ヴィリジャーズ アイ ソー ア クリーパー アプローチング"
+        }
+      ]
+    }
   ]
 }

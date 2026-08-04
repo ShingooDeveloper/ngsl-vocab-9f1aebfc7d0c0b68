@@ -1,0 +1,240 @@
+{
+  "word": "jump",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/dʒʌmp/",
+  "rank": 1045,
+  "level": "A1",
+  "hi": "jump|jumps|jumped|jumping",
+  "meanings": [
+    "【動詞】ジャンプする、跳ぶ（to propel oneself upward or forward）",
+    "【動詞】（驚いて）飛び上がる、ぎょっとする（to move suddenly in surprise）",
+    "【動詞】（高さのある）段差を飛び越える（to leap over something）",
+    "【名詞】ジャンプ、跳躍、飛び降り（the act of jumping or a distance jumped）",
+    "【名詞】急激な増加、上昇（a sudden increase or rise）"
+  ],
+  "examples": [
+    {
+      "en": "Players can jump to reach higher platforms in Minecraft.",
+      "ja": "プレイヤーはマインクラフトでジャンプして、より高いプラットフォームに到達できます。",
+      "ipa": "/ˈpleɪərz kən ˈdʒʌmp tə ˈriːtʃ ˈhaɪər ˈplætfɔrmz ɪn ˈmaɪnˌkræft/",
+      "linking": [
+        "Players can → /z/ + /k/（子音+子音、連結なし）",
+        "can jump → /n/ + /dʒ/（子音+子音、連結なし）",
+        "jump to → /p/ + /t/（子音+子音、連結なし）",
+        "to reach → to は弱形 /tə/"
+      ],
+      "kana": "プレイアーズ カン ジャンプ トゥ リーチ ハイアー プラットフォームズ イン マインクラフト"
+    },
+    {
+      "en": "If you jump into lava, you will take damage quickly.",
+      "ja": "溶岩に飛び込むと、すぐにダメージを受けます。",
+      "ipa": "/ɪf ju ˈdʒʌmp ˈɪntu ˈlɑvə | ju wɪl ˈteɪk ˈdæmɪdʒ ˈkwɪkli/",
+      "linking": [
+        "you jump → /u/ + /dʒ/（母音+子音、連結なし）",
+        "jump into → /p/ + /ɪ/（子音+母音、連結なし）",
+        "will take → /l/ + /t/（子音+子音、連結なし）"
+      ],
+      "kana": "イフ ユー ジャンプ イントゥ ラーヴァ、ユー ウィル テイク ダメージ クイックリー"
+    },
+    {
+      "en": "Jumping is essential for survival in the Nether.",
+      "ja": "ネザーでの生存にはジャンプが不可欠です。",
+      "ipa": "/ˈdʒʌmpɪŋ ɪz ɪˈsɛnʃəl fɔr sərˈvaɪvəl ɪn ðə ˈnɛðər/",
+      "linking": [
+        "is essential → /z/ + /ɪ/（子音+母音、連結なし）",
+        "for survival → for は弱形 /fər/。survival の末尾 /l/ が in の /ɪ/ に先行",
+        "in the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+      ],
+      "kana": "ジャンピング イズ イセンシャル ファー サーヴァイヴァル イン ザ ネザー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Did you jump across the chasm without taking fall damage?",
+      "ja": "落下ダメージを受けずに深い溝を飛び越えましたか？",
+      "ipa": "/dɪd ju ˈdʒʌmp əˈkrɔs ðə ˈkæzəm wɪˈaʊt ˈteɪkɪŋ ˈfɔl ˈdæmɪdʒ/",
+      "linking": [
+        "Did you → did の末尾 /d/ が you の初期子音 /j/ に先行し未開放 [dɪd̚ ju]",
+        "you jump → /u/ + /dʒ/（連結なし）",
+        "jump across → /p/ + /ə/（子音+母音、連結なし）",
+        "the chasm → the は弱形 /ðə/"
+      ],
+      "kana": "ディッ ユー ジャンプ アクロス ザ キャズム ウィバウト テイキング フォール ダメージ"
+    },
+    {
+      "en": "Mobs jump at you when they are close enough to attack.",
+      "ja": "モブは攻撃するのに十分に近いとき、あなたに飛びかかります。",
+      "ipa": "/ˈmɑbz ˈdʒʌmp æt ju wɛn ðeɪ ɑr ˈkloʊs ɪˈnʌf tu əˈtæk/",
+      "linking": [
+        "Mobs jump → /z/ + /dʒ/（子音+子音、連結なし）",
+        "jump at → /p/ + /æ/（子音+母音、連結なし）",
+        "close enough → /s/ + /ɪ/（子音+母音、連結なし）",
+        "to attack → to は弱形 /tə/"
+      ],
+      "kana": "モブズ ジャンプ アット ユー ウェン ゼイ アー クロース イナフ トゥ アタック"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "jumps",
+      "ipa": "/dʒʌmps/",
+      "examples": [
+        {
+          "en": "The creeper jumps toward you before it explodes.",
+          "ja": "クリーパーはあなたに向かってジャンプしてから爆発します。",
+          "ipa": "/ðə ˈkriːpər dʒʌmz təˈwɔrd ju bɪˈfɔr ɪt ɪkˈsploʊdz/",
+          "linking": [
+            "the creeper: the は弱形 /ðə/",
+            "creeper jumps: /r/ + /dʒ/（子音+子音、連結なし）。jumps の実際の音は [dʒʌmz]（m が有声なので s が有声化）",
+            "jumps toward: /ps/ + /t/（子音+子音）。実際には [dʒʌmz təˈwɔrd]",
+            "before it: /r/ + /ɪ/ が連結 [bɪˈfɔr ɪt]"
+          ],
+          "kana": "ザ クリーパー ジャムズ タワード ユー ビフォー イット イクスプロウズ"
+        },
+        {
+          "en": "Your character jumps higher when you hold the jump button.",
+          "ja": "ジャンプボタンを押し続けると、キャラクターはより高くジャンプします。",
+          "ipa": "/jɔr ˈkɛrəktər ˈdʒʌmps ˈhaɪər wɛn ju ˈhoʊld ðə ˈdʒʌmp ˈbʌtən/",
+          "linking": [
+            "character jumps: /r/ + /dʒ/（子音+子音、連結なし）",
+            "jumps higher: /ps/ + /h/（子音+子音、連結なし）。実際には [dʒʌmz ˈhaɪər]",
+            "the jump: the は弱形 /ðə/",
+            "hold the: /d/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ユア キャラクター ジャムズ ハイアー ウェン ユー ホウルド ザ ジャンプ バットン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "jumped",
+      "ipa": "/dʒʌmpt/",
+      "examples": [
+        {
+          "en": "I jumped off the cliff and landed safely in the water.",
+          "ja": "私は崖から飛び降りて、水に安全に着地しました。",
+          "ipa": "/aɪ ˈdʒʌmpt ɔf ðə ˈklɪf ənd ˈlændɪd ˈseɪfli ɪn ðə ˈwɔtər/",
+          "linking": [
+            "jumped off: /t/ + /ɔ/（子音+母音、連結なし）",
+            "off the: /f/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the cliff: the の弱形 /ðə/",
+            "and landed: /d/ + /l/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ジャムプト オフ ザ クリフ アンド ランディド セイフリー イン ザ ウォラー"
+        },
+        {
+          "en": "The zombie jumped into the void before anyone could stop it.",
+          "ja": "誰もそれを止める前に、ゾンビは虚無に飛び込みました。",
+          "ipa": "/ðə ˈzɑmbi ˈdʒʌmpt ˈɪntu ðə ˈvɔɪd bɪˈfɔr ˈɛniˌwʌn kʊd ˈstɑp ɪt/",
+          "linking": [
+            "the zombie: the は弱形 /ðə/",
+            "zombie jumped: /i/ + /dʒ/ が連結 [ˈzɑmbi ˈdʒʌmpt]",
+            "jumped into: /t/ + /ɪ/（子音+母音、連結なし）",
+            "the void: the は弱形 /ðə/"
+          ],
+          "kana": "ザ ゾンビー ジャムプト イントゥ ザ ボイド ビフォー エニワン クッド ストップ イット"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "jumped",
+      "ipa": "/dʒʌmpt/",
+      "examples": [
+        {
+          "en": "Once jumped, you cannot fly in survival mode without creative powers.",
+          "ja": "ジャンプした後、クリエイティブパワーなしではサバイバルモードで飛べません。",
+          "ipa": "/ˈwʌns ˈdʒʌmpt | ju ˈkænɑt ˈflaɪ ɪn sərˈvaɪvəl ˈmoʊd wɪˈaʊt kriˈeɪtɪv ˈpaʊərz/",
+          "linking": [
+            "Once jumped: /s/ + /dʒ/（子音+子音、連結なし）",
+            "jumped you: /t/ + /j/ が先行し未開放 [ˈdʒʌmpt̚ ju]",
+            "cannot fly: /ɑt/ + /f/（子音+子音、連結なし）",
+            "in survival: /n/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "ワンス ジャムプト、ユー キャンナット フライ イン サーヴァイヴァル モード ウィバウト クリエイティヴ パワーズ"
+        },
+        {
+          "en": "Having jumped across the gap, the player reached the treasure chest.",
+          "ja": "ギャップを飛び越えた後、プレイヤーは宝箱に到達しました。",
+          "ipa": "/ˈhævɪŋ ˈdʒʌmpt əˈkrɔs ðə ˈɡæp | ðə ˈpleɪər ˈritʃt ðə ˈtrɛʒər ˈtʃɛst/",
+          "linking": [
+            "having jumped: /ŋ/ + /dʒ/（子音+子音、連結なし）",
+            "jumped across: /t/ + /ə/（子音+母音、連結なし）",
+            "the gap: the は弱形 /ðə/",
+            "reached the: /t/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ハービング ジャムプト アクロス ザ ギャップ、ザ プレイアー リーチド ザ トレジャー チェスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "jumping",
+      "ipa": "/ˈdʒʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "Jumping helps you move faster across the terrain and dodge attacks.",
+          "ja": "ジャンプすると、地形をより速く移動し、攻撃を避けるのに役立ちます。",
+          "ipa": "/ˈdʒʌmpɪŋ ˈhɛlps ju ˈmuːv ˈfæstər əˈkrɔs ðə təˈreɪn ənd ˈdɑdʒ əˈtæks/",
+          "linking": [
+            "jumping helps: /ŋ/ + /h/（子音+子音、連結なし）",
+            "move faster: /v/ + /f/（子音+子音、連結なし）",
+            "across the: /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "dodge attacks: /dʒ/ + /ə/（子音+母音、連結なし）"
+          ],
+          "kana": "ジャンピング ヘルプス ユー ムーヴ ファスター アクロス ザ テレイン アンド ダッジ アタックス"
+        },
+        {
+          "en": "The player is jumping over lava to escape the pursuing zombie.",
+          "ja": "プレイヤーは追ってくるゾンビから逃げるために溶岩を飛び越えています。",
+          "ipa": "/ðə ˈpleɪər ɪz ˈdʒʌmpɪŋ ˈoʊvər ˈlɑvə tu ɪˈskeɪp ðə pərˈsuːɪŋ ˈzɑmbi/",
+          "linking": [
+            "is jumping: /z/ + /dʒ/（子音+子音、連結なし）",
+            "jumping over: /ŋ/ + /oʊ/（子音+母音、連結なし）",
+            "over lava: /r/ + /l/（子音+子音、連結なし）",
+            "to escape: to は弱形 /tə/"
+          ],
+          "kana": "ザ プレイアー イズ ジャンピング オウバー ラーヴァ トゥー イスケイプ ザ パースーイング ゾンビー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "jumps",
+      "ipa": "/dʒʌmps/",
+      "examples": [
+        {
+          "en": "Multiple jumps let you reach the top of tall structures.",
+          "ja": "複数のジャンプで、背の高い構造物の頂上に到達できます。",
+          "ipa": "/ˈmʌltəpəl dʒʌmz ˈlɛt ju ˈriːtʃ ðə ˈtɑp əv ˈtɔl ˈstrʌktʃərz/",
+          "linking": [
+            "Multiple jumps: /l/ + /dʒ/ が連結し、jumps は実際に [dʒʌmz]（m が有声）",
+            "jumps let: /z/ + /l/（子音+子音、連結なし）",
+            "let you: /t/ + /j/ が未開放で先行 [ˈlɛt̚ ju]",
+            "top of: /p/ + /ə/（子音+母音、連結なし）。of は弱形 /əv/"
+          ],
+          "kana": "マルチプル ジャムズ レット ユー リーチ ザ トップ オヴ トール ストラクチャーズ"
+        },
+        {
+          "en": "The jumps across the lava require precise timing to survive.",
+          "ja": "溶岩を越えるジャンプは、生き残るのに正確なタイミングが必要です。",
+          "ipa": "/ðə dʒʌmz əˈkrɔs ðə ˈlɑvə rɪˈkwaɪər prɪˈsaɪs ˈtaɪmɪŋ tu sərˈvaɪv/",
+          "linking": [
+            "the jumps: the は弱形 /ðə/。jumps は実際に [dʒʌmz]（有声化）",
+            "jumps across: /z/ + /ə/（子音+母音、連結なし）",
+            "across the: /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "timing to: /ŋ/ + /t/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ジャムズ アクロス ザ ラーヴァ リクワイアー プリサイス タイミング トゥー サーヴァイヴ"
+        }
+      ]
+    }
+  ]
+}

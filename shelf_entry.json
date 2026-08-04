@@ -43,5 +43,36 @@
       "kana": "ウッドゥン シェルバ アー ベスト"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "shelves",
+      "ipa": "/ˈʃelvz/",
+      "examples": [
+        {
+          "en": "I crafted wooden shelves for my storage room.",
+          "ja": "私はストレージルームに木製の棚をクラフトしました。",
+          "ipa": "/aɪ ˈkræftəd ˈwʊdən ˈʃelvz fə maɪ ˈstɔrɪdʒ ˈrum/",
+          "linking": [
+            "wooden の語末 /n/ が shelves の子音 /ʃ/ に未開放で続く [ˈwʊdən̚ ˈʃelvz]",
+            "for は機能語で弱形 /fə/、my に続く [ˈfəmaɪ]→「ファマイ」"
+          ],
+          "kana": "アイ クラフティッド ウッデン シェルブズ ファマイ ストーリッジ ルーム"
+        },
+        {
+          "en": "The shelves hold enchanted books in my library.",
+          "ja": "その棚は私のライブラリーのエンチャント本を保持しています。",
+          "ipa": "/ðə ˈʃelvz ˈhoʊld ɛnˈtʃæntəd ˈbʊks ɪn maɪ ˈlaɪbrɛri/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。shelves に続く [ðə ˈʃelvz] ザ シェルブズ",
+            "books の語末 /ks/ が in の初頭母音 /ɪ/ に連結し滑らかに続く [ˈbʊks ɪn] ブックス イン",
+            "in は弱形で /ən/ または /ɪn/ に弱化"
+          ],
+          "kana": "ザ シェルブズ ホールド エンチャンティッド ブックス イン マイ ライブレリ"
+        }
+      ]
+    }
+  ]
 }

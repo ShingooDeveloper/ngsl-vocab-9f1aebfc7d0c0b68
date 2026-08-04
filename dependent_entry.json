@@ -44,6 +44,90 @@
       "kana": "ザ レッドストーン ドーリズ ディペンダン タン ア レバー"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more dependent",
+      "ipa": "/mɔr dɪˈpɛndənt/",
+      "examples": [
+        {
+          "en": "Players with limited resources are more dependent on farming.",
+          "ja": "限られたリソースを持つプレイヤーは農業に更に依存しています。",
+          "ipa": "/ˈpleɪərz wɪð ˈlɪmɪtɪd rɪˈsoʊrsɪz ə mɔr dɪˈpɛndən tən ˈfɑrmɪŋ/",
+          "linking": [
+            "are が弱形 /ə/ に弱化",
+            "dependent の末尾 /t/ が on の弱形 /ə/ に連結 [dɪˈpɛndən tən]"
+          ],
+          "kana": "プレイヤーズ ウィズ リミティド リソースィズ ア モア ディペンダン タン ファーミング"
+        },
+        {
+          "en": "Sky islands become more dependent on existing trees.",
+          "ja": "空の島は既存の樹木にさらに依存するようになります。",
+          "ipa": "/skaɪ ˈaɪləndz bɪˈkʌm mɔr dɪˈpɛndən tən ɪgˈzɪstɪŋ triz/",
+          "linking": [
+            "dependent の末尾 /t/ が on の弱形 /ə/ に連結 [dɪˈpɛndən tən]",
+            "on が弱形 /ən/ に弱化"
+          ],
+          "kana": "スカイ アイランズ ビカム モア ディペンダン タン イグズィスティング トリーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most dependent",
+      "ipa": "/ˈmoʊst dɪˈpɛndənt/",
+      "examples": [
+        {
+          "en": "Players with limited resources are most dependent on the environment.",
+          "ja": "限られたリソースを持つプレイヤーは環境に最も依存しています。",
+          "ipa": "/ˈpleɪərz wɪð ˈlɪmɪtɪd rɪˈsoʊrsɪz ə ˈmoʊst dɪˈpɛndən tən ðə ɪnˈvaɪrənmənt/",
+          "linking": [
+            "are が弱形 /ə/ に弱化",
+            "dependent の末尾 /t/ が on の弱形 /ə/ に連結 [dɪˈpɛndən tən]"
+          ],
+          "kana": "プレイヤーズ ウィズ リミティド リソースィズ ア モウスト ディペンダン タン ザ インヴァイランメント"
+        },
+        {
+          "en": "Mob spawning is most dependent on darkness.",
+          "ja": "モブスポーニングは暗さに最も依存しています。",
+          "ipa": "/ˈmoʊb ˈspoʊnɪŋ ɪz ˈmoʊst dɪˈpɛndən tən ˈdɑrknis/",
+          "linking": [
+            "dependent の末尾 /t/ が on の弱形 /ə/ に連結 [dɪˈpɛndən tən]",
+            "on が弱形 /ən/ に弱化"
+          ],
+          "kana": "モブ スポーニング イズ モウスト ディペンダン タン ダークニス"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "dependents",
+      "ipa": "/dɪˈpɛndənts/",
+      "examples": [
+        {
+          "en": "My dependents are safe at home.",
+          "ja": "私の扶養家族は家で安全です。",
+          "ipa": "/maɪ dɪˈpɛndənts ɑr seɪf æt hoʊm/",
+          "linking": [
+            "dependents の末尾 /s/ が are の /ɑ/ に連結 [dɪˈpɛndən(t) sɑr]"
+          ],
+          "kana": "マイ ディペンデン ツァー セイフ アット ホウム"
+        },
+        {
+          "en": "Dependents are valuable to your survival.",
+          "ja": "扶養家族はあなたの生存に重要です。",
+          "ipa": "/dɪˈpɛndənts ɑr ˈvæljəbəl tu jɔr sərˈvaɪvəl/",
+          "linking": [
+            "dependents の末尾 /s/ が are の /ɑ/ に連結 [dɪˈpɛndən(t) sɑr]"
+          ],
+          "kana": "ディペンデン ツァー ヴァリュアブル トゥ ユア サーヴァイバル"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "dependent on",

@@ -62,5 +62,107 @@
       ],
       "kana": "ディス バイオーム イザ カンテンポラリ ウィザ ケイヴ アップデイト"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more contemporary",
+      "ipa": "/mɔr kənˈtɛmpəˌreri/",
+      "examples": [
+        {
+          "en": "Modern features are more contemporary than basic blocks.",
+          "ja": "モダン機能は基本的なブロックより現代的です。",
+          "ipa": "/ˈmɑdɚn ˈfiːtʃɚz ɑr mɔr kənˈtɛmpəˌreri ðæn ˈbeɪsɪk blɑks/",
+          "linking": [
+            "features の末尾 /z/ が are の初頭 /ɑ/ に連結 [ˈfiːtʃərz ɑr]。",
+            "are の末尾 /r/ と more の初頭 /m/ は離散。",
+            "more の末尾 /r/ と contemporary の初頭 /k/ は離散。",
+            "than は機能語で弱形 /ðən/。"
+          ],
+          "kana": "モダーン フィーチャーズ アー モー カンテンポラリ ザン ベイシック ブロックス"
+        },
+        {
+          "en": "That version is more contemporary in style and features.",
+          "ja": "そのバージョンはスタイルと機能でより現代的です。",
+          "ipa": "/ðæt ˈvɝʒən ɪz mɔr kənˈtɛmpəˌreri ɪn ˈstaɪl ənd ˈfiːtʃɚz/",
+          "linking": [
+            "version の末尾 /n/ が is の初頭 /ɪ/ に連結。",
+            "is の末尾 /z/ と more の初頭 /m/ は離散。",
+            "more の末尾 /r/ と contemporary の初頭 /k/ は離散。",
+            "in は機能語で弱形 /ɪn/。",
+            "and は機能語で弱形 /ən/。"
+          ],
+          "kana": "ザッ ヴァージョン イズ モー カンテンポラリ イン スタイル エン フィーチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most contemporary",
+      "ipa": "/moʊst kənˈtɛmpəˌreri/",
+      "examples": [
+        {
+          "en": "The most contemporary features are always changing.",
+          "ja": "最も現代的な機能は常に変わっています。",
+          "ipa": "/ðə ˈmoʊst kənˈtɛmpəˌreri ˈfiːtʃɚz ɑr ˈɔlweɪz ˈtʃeɪndʒɪŋ/",
+          "linking": [
+            "The は機能語で弱形 /ðə/ → ザ。",
+            "features の末尾 /z/ が are の初頭 /ɑ/ に連結 [ˈfiːtʃərz ɑr]。",
+            "always の末尾 /z/ と changing の初頭 /tʃ/ は離散。"
+          ],
+          "kana": "ザ モウスト カンテンポラリ フィーチャーズ アー オールウェイズ チェンジング"
+        },
+        {
+          "en": "Most contemporary players now enjoy survival challenges.",
+          "ja": "今ほとんどの現代的なプレイヤーはサバイバルチャレンジを楽しんでいます。",
+          "ipa": "/ˈmoʊst kənˈtɛmpəˌreri ˈpleɪɚz ˈnaʊ ɪnˈdʒɔɪ sɚˈvaɪvəl ˈtʃælɪndʒɪz/",
+          "linking": [
+            "Most の末尾 /t/ は未開放で、contemporary の /k/ に続く [ˈmoʊs̚t kən]。",
+            "players の末尾 /z/ と now の初頭 /n/ は離散。",
+            "now の末尾 /w/ が enjoy の初頭 /ɪ/ に連結。",
+            "enjoy の末尾 /ɔɪ/ は母音で、survival の初頭 /s/ は子音なので連結なし。"
+          ],
+          "kana": "モウスト カンテンポラリ プレイヤーズ ナウ インジョイ サーヴァイヴァル チャレンジーズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "contemporaries",
+      "ipa": "/kənˌtɛmpəˈrɛrɪz/",
+      "examples": [
+        {
+          "en": "Our contemporaries in the server work together on mega builds.",
+          "ja": "サーバー内の同年代の人たちは大規模なビルドで協力しています。",
+          "ipa": "/ˈaʊɚ kənˌtɛmpəˈrɛrɪz ɪn ðə ˈsɚvɚ wɝk təˈɡɛðɚ ɑn ˈmɛɡə bɪldz/",
+          "linking": [
+            "Our の末尾 /r/ と contemporaries の初頭 /k/ は離散。",
+            "contemporaries の末尾 /z/ が in の初頭 /ɪ/ に連結 [kənˌtɛmpəˈrɛrɪz ɪn]。",
+            "in は機能語で弱形 /ɪn/。",
+            "the は機能語で弱形 /ðə/。",
+            "work の末尾 /k/ は未開放で、together の /t/ に続く [wɝk̚ təˈɡ]。"
+          ],
+          "kana": "アワー カンテンポラリーズ イン ザ サーバー ワーッ トゥゲザー アン メガ ビルズ"
+        },
+        {
+          "en": "Playing with contemporaries makes the game more enjoyable and fun.",
+          "ja": "同年代の人たちと一緒にプレイすることでゲームはより楽しく、そして面白くなります。",
+          "ipa": "/ˈpleɪɪŋ wɪð kənˌtɛmpəˈrɛrɪz ˈmeɪks ðə ˈɡeɪm mɔr ɪnˈdʒɔɪəbəl ənd ˈfʌn/",
+          "linking": [
+            "Playing の末尾 /ŋ/ と with の初頭 /w/ は離散。",
+            "with の末尾 /ð/ と contemporaries の初頭 /k/ は離散。",
+            "contemporaries の末尾 /z/ と makes の初頭 /m/ は離散。",
+            "the は機能語で弱形 /ðə/。",
+            "game の末尾 /m/ は未開放で、more の /m/ に続く [ˈɡeɪm̚ mɔr]。",
+            "enjoyable の末尾 /l/ が and の初頭 /ə/ に連結 [ɪnˈdʒɔɪəbəl ənd]。",
+            "and は機能語で弱形 /ən/。"
+          ],
+          "kana": "プレイング ウィズ カンテンポラリーズ メイクス ザ ゲイム モー インジョイアブル エン ファン"
+        }
+      ]
+    }
   ]
 }

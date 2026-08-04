@@ -81,5 +81,36 @@
       ],
       "kana": "テクノロジカル イノベーション イン レッドストーン メカニズムズ ハズ レヴォリューションド ハウ ウィ ディザイン コントラプション"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "innovations",
+      "ipa": "/ˌɪnəˈveɪʃənz/",
+      "examples": [
+        {
+          "en": "These redstone innovations make building automatic farms.",
+          "ja": "これらのレッドストーン革新技術により、自動農場の建築が可能です。",
+          "ipa": "[ðiːz ˈɹɛdˌstoʊnɪnəˈveɪʃənz ˈmeɪk ˈbɪldɪŋ ɑːtəˈmætɪk ˈfɑrmz]",
+          "linking": [
+            "redstone の末尾 /n/ が innovations の /ɪ/ に連結 [ˈɹɛdˌstoʊnɪ]",
+            "automatic farms → automatic の末尾 /k/ が farms の初頭 /f/ に先行（連結なし）"
+          ],
+          "kana": "ディーズ レッドストウニ イノヴェイシャンズ メイク ビルディング オートマティック ファームズ"
+        },
+        {
+          "en": "Players share their innovations on different building techniques.",
+          "ja": "プレイヤーたちは異なる建築技法に関する彼らの革新を共有します。",
+          "ipa": "[ˈpleɪərz ʃɛr ðɛrɪnəˈveɪʃənz ɑn ˈdɪfərənt ˈbɪldɪŋ tɛkˈnikz]",
+          "linking": [
+            "their innovations → their の末尾 /r/ が innovations の /ɪ/ に連結 [ðɛrɪ]",
+            "innovations on → innovations の末尾 /z/ が on の /ɑ/ に連結 [ˈveɪʃənzɑn]",
+            "on different → on の末尾 /n/ が different の初頭 /d/ に先行（連結なし）"
+          ],
+          "kana": "プレイヤーズ シェア ザーリノヴェイシャンズォン ディファレント ビルディング テクニークス"
+        }
+      ]
+    }
   ]
 }

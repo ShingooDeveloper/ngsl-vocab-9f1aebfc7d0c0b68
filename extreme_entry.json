@@ -72,5 +72,67 @@
       ],
       "kana": "サーヴァイヴィング ウィザウト シェルター イズ ディフィカルト イン ザ エクストリーム"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more extreme",
+      "ipa": "/ˈmoʊr ɪkˈstrim/",
+      "examples": [
+        {
+          "en": "The Nether is more extreme than the Overworld.",
+          "ja": "ネザーはオーバーワールドより極端です。",
+          "ipa": "/ðə ˈnɛðɚ ɪz ˈmoʊr ɪkˈstrim ðæn ðə ˈoʊvɚwɝld/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（最初と than の後）",
+            "more extreme → /r/ + /ɪ/ は子音+母音で連結 [ˈmoʊr‿ɪkˈstrim] モアー イクストリーム"
+          ],
+          "kana": "ザ ネザー イズ モアー イクストリーム ザン ザ オーヴァーワールド"
+        },
+        {
+          "en": "Preparing for the Wither fight requires more extreme strategy than regular battles.",
+          "ja": "ウィザーとの戦闘の準備には、通常の戦闘よりもっと極端な戦略が必要です。",
+          "ipa": "/prɪˈpɛrɪŋ fɔr ðə ˈwɪðɚ faɪt rɪˈkwaɪrz ˈmoʊr ɪkˈstrim ˈstrætədʒi ðæn ˈrɛɡjələr ˈbætəlz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "more extreme → /r/ + /ɪ/ は子音+母音で連結 [ˈmoʊr‿ɪkˈstrim] モアー イクストリーム",
+            "than regular → /n/ + /r/ は子音+子音で連結しない"
+          ],
+          "kana": "プリペアリング フォー ザ ウィザー ファイト リクワイアーズ モアー イクストリーム ストラテジー ザン レギュラー バテルズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most extreme",
+      "ipa": "/ˈmoʊst ɪkˈstrim/",
+      "examples": [
+        {
+          "en": "The void represents the most extreme danger in Minecraft survival mode.",
+          "ja": "ボイドはマインクラフトのサバイバルモードで最も極端な危険を表しています。",
+          "ipa": "/ðə ˈvɔɪd ˌrɛprɪˈzɛnts ðə ˈmoʊst ɪkˈstrim ˈdeɪndʒər ɪn ˈmaɪnˌkræft sɚˈvaɪvəl moʊd/",
+          "linking": [
+            "the は弱形 /ðə/（最初と most の前）",
+            "void represents → void の末尾 /d/ は represents の初頭 /r/ の前で未開放 [ˈvɔɪd̚ ˌrɛ]",
+            "most extreme → /t/ + /ɪ/ は子音+母音で連結 [ˈmoʊst‿ɪkˈstrim] モースト イクストリーム"
+          ],
+          "kana": "ザ ボイド レプリゼンツ ザ モースト イクストリーム デインジャー イン マインクラフト サーヴァイヴァル モード"
+        },
+        {
+          "en": "Finding diamonds at the deepest levels requires the most extreme concentration and patience.",
+          "ja": "最も深いレベルでダイヤモンドを探すことは、最も極端な集中力と忍耐が必要です。",
+          "ipa": "/ˈfaɪndɪŋ ˈdaɪəˌmɑndz æt ðə ˈdipəst ˈlɛvəlz rɪˈkwaɪrz ðə ˈmoʊst ɪkˈstrim ˌkɑnˈsɛntreɪʃən ənd ˈpeɪʃənts/",
+          "linking": [
+            "the は弱形 /ðə/（二回）",
+            "deepest levels → deepest の末尾 /t/ は levels の初頭 /l/ の前で未開放 [ˈdipəst̚ ˈlɛ]",
+            "most extreme → /t/ + /ɪ/ は子音+母音で連結 [ˈmoʊst‿ɪkˈstrim] モースト イクストリーム",
+            "and は弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ファインディング ダイアモンズ アット ザ ディーペスト レベルズ リクワイアーズ ザ モースト イクストリーム コンセントレーション エンド ペーシェンス"
+        }
+      ]
+    }
   ]
 }

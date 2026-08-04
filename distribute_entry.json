@@ -71,5 +71,135 @@
       ],
       "kana": "アイ ウィル ディストリビュート ツールズ タ エブリー プレイアー オン ディス サーバー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "distributes",
+      "ipa": "/dɪsˈtrɪbjuːts/",
+      "examples": [
+        {
+          "en": "The dispenser distributes items into the chest below.",
+          "ja": "ディスペンサーは下のチェストにアイテムを配置する。",
+          "ipa": "/ðə dɪˈspɛnsɚ dɪsˈtrɪbjuːts ˈaɪtəmz ˈɪntə ðə tʃɛst bɪˈloʊ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "distributes の語末子音 /ts/ が items の母音 /aɪ/ に連結",
+            "into の to は弱形 /tə/、the も弱形 /ðə/",
+            "chest の語末 /t/ は未開放"
+          ],
+          "kana": "ザ ディスペンサー ディストリビューツ アイタムズ イントゥ ザ チェスト ビロウ"
+        },
+        {
+          "en": "Each hopper distributes resources to nearby containers efficiently.",
+          "ja": "各ホッパーは、近くのコンテナにリソースを効率的に配置する。",
+          "ipa": "/itʃ ˈhɑpɚ dɪsˈtrɪbjuːts ɹɪˈsɔːɹsɪz tu ˈneɚbaɪ kənˈteɪnɚz ɪˈfɪʃəntli/",
+          "linking": [
+            "each の語末 /tʃ/ と hopper の /h/ は子音+子音で連結しない",
+            "distributes の語末 /ts/ が resources の /ɹ/ に続く（子音+子音、連結しない）",
+            "to は強形 /tu/ または弱形 /tə/（文脈による）",
+            "efficiently の最後の /li/ で /i/ が次の文脈に続く"
+          ],
+          "kana": "イッチ ホッパー ディストリビューツ リソーシーズ トゥ ニアバイ コンテイナーズ イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "distributed",
+      "ipa": "/ˌdɪstrɪˈbjuːtɪd/",
+      "examples": [
+        {
+          "en": "We distributed the mining materials equally among all team members.",
+          "ja": "採掘材料をチームメンバー全員に均等に配分した。",
+          "ipa": "/wiː ˌdɪstrɪˈbjuːtɪd ðə ˈmaɪnɪŋ mətˈɪɹiəlz ɪˈkwəli əˈmʌŋ ɔːl ˈtim ˈmɛmbɚz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "mining の語末 /ŋ/ が materials の /m/ に続く（子音+子音、連結しない）",
+            "materials の語末 /z/ が equally の母音 /ɪ/ に連結",
+            "among の語末 /ŋ/ が all の /ɔː/ に続く"
+          ],
+          "kana": "ウィ ディストリビューティッド ザ マイニング マテリアルズ イークウォリ アマング オール ティーム メンバーズ"
+        },
+        {
+          "en": "The system distributed diamonds and emeralds fairly to every player.",
+          "ja": "システムはダイヤモンドとエメラルドをすべてのプレイヤーに公平に配置した。",
+          "ipa": "/ðə ˈsɪstəm ˌdɪstrɪˈbjuːtɪd ˈdaɪmɑndz ən‿ɛməɹəldz ˈfɛɹli tu ˈɛvri ˈpleɪɚ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "diamonds の語末 /z/ が and の /ə/ に連結 [ˈdaɪmɑndz‿ən]",
+            "and の語末が emeralds の /ɛ/ に連結",
+            "fairly の語末 /li/ が to の /t/ に続く（子音+子音、連結しない）"
+          ],
+          "kana": "ザ システム ディストリビューティッド ダイモンズ エン エメラルドズ フェアリー トゥ エブリー プレイアー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "distributed",
+      "ipa": "/ˌdɪstrɪˈbjuːtɪd/",
+      "examples": [
+        {
+          "en": "The resources were distributed fairly among all players.",
+          "ja": "リソースはすべてのプレイヤー間で公平に配分された。",
+          "ipa": "/ðə ɹɪˈsɔːɹsɪz wər ˌdɪstrɪˈbjuːtɪd ˈfɛɹli əˈmʌŋ ɔːl ˈpleɪɚz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "were は弱形 /wɚ/、/z/ が /d/ に続く（子音+子音）",
+            "fairly の語末 /li/ が among の /ə/ に続く（子音+子音、連結しない）",
+            "all の語末 /ɔːl/ が players の /p/ に続く"
+          ],
+          "kana": "ザ リソーシーズ ワー ディストリビューティッド フェアリー アマング オール プレイヤーズ"
+        },
+        {
+          "en": "Once distributed, the items remained safely in the storage chests.",
+          "ja": "配置されたアイテムはストレージボックスに安全に残った。",
+          "ipa": "/ˈwʌns ˌdɪstrɪˈbjuːtɪd ðə ˈaɪtəmz rɪˈmeɪnd ˈseɪfli ɪn ðə ˈstɔɹɪdʒ tʃɛsts/",
+          "linking": [
+            "once の語末 /s/ が distributed の /d/ に続く（子音+子音、連結しない）",
+            "the は弱形 /ðə/",
+            "remained の語末 /d/ が safely の /s/ に続く（子音+子音、連結しない）",
+            "in の語末 /n/ が the の /ð/ に続く（子音+子音、連結しない）、the は弱形"
+          ],
+          "kana": "ワンス ディストリビューティッド ザ アイタムズ リメインド セイフリー イン ザ ストレージ チェスツ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "distributing",
+      "ipa": "/dɪsˈtrɪbjuːtɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is distributing items to the smelter continuously.",
+          "ja": "ホッパーはアイテムを製錬炉に継続的に配置している。",
+          "ipa": "/ðə ˈhɑpɚ ɪz dɪsˈtrɪbjuːtɪŋ ˈaɪtəmz tu ðə ˈsmɛltɚ ˌkɑntɪˈnjuːəsli/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is は弱形 /ɪz/、/z/ が distributing の /d/ に続く（子音+子音、連結しない）",
+            "distributing の語末 /ŋ/ が items の母音 /aɪ/ に連結 [dɪsˈtrɪbjuːtɪŋ‿ˈaɪtəmz]",
+            "to は強形 /tu/ または弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ホッパー イズ ディストリビューティング アイタムズ トゥ ザ スメルター コンティニューアスリー"
+        },
+        {
+          "en": "While distributing supplies, we discovered a secret cave beneath our base.",
+          "ja": "支援物資を配置している間に、基地の下に隠れた洞窟を発見した。",
+          "ipa": "/ˈwaɪl dɪsˈtrɪbjuːtɪŋ səˈplaɪz wiː dɪˈskʌvɚd ə ˈsiːkrət keɪv bɪˈniːθ aʊɚ ˈbeɪs/",
+          "linking": [
+            "while の語末 /l/ が distributing の /d/ に続く（子音+子音、連結しない）",
+            "distributing の語末 /ŋ/ が supplies の子音 /s/ に続く（子音+子音、連結しない）",
+            "supplies の語末 /z/ が we の /wi/ に続く（子音+子音、連結しない）",
+            "a は弱形 /ə/、secret と連結"
+          ],
+          "kana": "ワイル ディストリビューティング サプライズ ウィ ディスカヴァード ア シークレット ケイヴ ビニース アワー ベイス"
+        }
+      ]
+    }
   ]
 }

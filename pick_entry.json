@@ -288,6 +288,103 @@
           "kana": "シー イズ ピキング アウット ザ ベスト ブロックス フォー デコレーション"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is picking",
+      "ipa": "/ɪz ˈpɪkɪŋ/",
+      "examples": [
+        {
+          "en": "I am picking up diamonds right now.",
+          "ja": "今まさにダイヤを拾っている。",
+          "ipa": "/aɪ əm ˈpɪkɪŋ ʌp ˈdaɪməndz raɪt naʊ/",
+          "linking": [
+            "am → 弱形 /əm/",
+            "picking up → /ŋ/ + /ʌ/ で続く"
+          ],
+          "kana": "アイ アム ピキング アップ ダイモンズ ライト ナウ"
+        },
+        {
+          "en": "She is picking flowers for decoration.",
+          "ja": "彼女は装飾用に花を摘んでいる。",
+          "ipa": "/ʃi ɪz ˈpɪkɪŋ ˈflaʊərz fə ˌdɛkəˈreɪʃən/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "picking flowers → /ŋ/ + /f/ で続く（consonant+consonant、連結なし）",
+            "for → 弱形 /fə/"
+          ],
+          "kana": "シー イズ ピキング フラウアーズ ファ デコレーション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was picking",
+      "ipa": "/wəz ˈpɪkɪŋ/",
+      "examples": [
+        {
+          "en": "I was picking apples when a creeper appeared.",
+          "ja": "リンゴを摘んでいたら、クリーパーが現れた。",
+          "ipa": "/aɪ wəz ˈpɪkɪŋ ˈæpəlz wɛn ə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "picking apples → /ŋ/ + /æ/ で続く",
+            "when a → when の末尾 /n/ が a の初頭 /ə/ に連結 [wɛnə] ウェナ。a は弱形 /ə/",
+            "a creeper → a は弱形 /ə/"
+          ],
+          "kana": "アイ ワズ ピキング アップルズ ウェナ クリーパー アピアード"
+        },
+        {
+          "en": "We were picking the best spot when it got dark.",
+          "ja": "最適な場所を選んでいたら、暗くなった。",
+          "ipa": "/wi wɚ ˈpɪkɪŋ ðə ˈbɛst ˈspɑt wɛn ɪt ɡɑt̚ ˈdɑrk/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "picking the → /ŋ/ + /ð/ で続く（consonant+consonant、連結なし）。the は弱形 /ðə/",
+            "the best → the は弱形 /ðə/",
+            "got dark → /t/ + /d/ で前の t が未開放 [ɡɑt̚ ˈdɑrk] ガット ダーク"
+          ],
+          "kana": "ウィ ワー ピキング ザ ベスト スパット ウェン イット ダーク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been picking",
+      "ipa": "/həd bɪn ˈpɪkɪŋ/",
+      "examples": [
+        {
+          "en": "We had been picking diamonds for hours when we found the lava lake.",
+          "ja": "何時間もダイヤを集めていたら、溶岩湖を見つけた。",
+          "ipa": "/wi həd bɪn ˈpɪkɪŋ ˈdaɪməndz fə ˈaʊərz wɛn wi faʊnd ðə ˈlɑvə ˈleɪk/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "been picking → /n/ + /p/ で続く（consonant+consonant）",
+            "picking diamonds → /ŋ/ + /d/ で続く（consonant+consonant、連結なし）",
+            "for hours → for は弱形 /fə/",
+            "the lava → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ビン ピキング ダイモンズ ファ アワーズ ウェン ウィ ファウンド ザ ラーヴァ レイク"
+        },
+        {
+          "en": "They had been picking blocks all day when the storm hit.",
+          "ja": "一日中ブロックを集めていたら、嵐が来た。",
+          "ipa": "/ðeɪ həd bɪn ˈpɪkɪŋ ˈblɑks ɔl ˈdeɪ wɛn ðə ˈstɔrm ˈhɪt/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "been picking → /n/ + /p/ で続く（consonant+consonant）",
+            "picking blocks → /ŋ/ + /b/ で続く（consonant+consonant、連結なし）",
+            "all day → /l/ + /d/ で続く（consonant+consonant）",
+            "the storm → the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド ビン ピキング ブロックス オール デイ ウェン ザ ストーム ヒット"
+        }
+      ]
     }
   ]
 }

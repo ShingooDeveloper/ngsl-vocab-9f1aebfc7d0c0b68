@@ -84,5 +84,36 @@
       ],
       "kana": "ザ アドミン チェックス アテンダンス アッ ザ エンド アヴ イーチ サーヴァー イヴェント"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "attendances",
+      "ipa": "/əˈtɛndənsɪz/",
+      "examples": [
+        {
+          "en": "Perfect attendances at training sessions earn you valuable experience.",
+          "ja": "トレーニングセッションでの完璧な出席は、貴重な経験を得ることができます。",
+          "ipa": "/ˈpɝfɪkt əˈtɛndənsɪz æt̚ ˈtreɪnɪŋ ˈsɛʃənz ˈɝn ju ˈvæljəbəl ɪkˈspɪriəns/",
+          "linking": [
+            "perfect attendances → perfect の語末子音 /t/ が attendances の初頭母音 /ə/ に連結 [ˈpɝfɪktə]",
+            "at training → at の語末子音 /t/ は未開放 [æt̚]",
+            "earn you → earn の語末子音 /n/ が you の初頭子音 /j/ に連結 [ˈɝnju]"
+          ],
+          "kana": "パーフィクテンダンシズ アッ トレーニング セッションズ アーニュー ヴァリュアブル イクスピアリエンス"
+        },
+        {
+          "en": "High server attendances indicate a thriving multiplayer community.",
+          "ja": "高いサーバー出席数は、繁栄しているマルチプレイヤーコミュニティを示しています。",
+          "ipa": "/ˈhaɪ ˈsɝvər əˈtɛndənsɪz ˈɪndɪkeɪt ə ˈθraɪvɪŋ ˌmʌltiˈpleɪər kəˈmjunɪti/",
+          "linking": [
+            "server attendances → server の語末子音 /r/ が attendances の初頭母音 /ə/ に連結 [ˈsɝvərə]",
+            "indicate a → indicate の語末子音 /t/ が a の初頭母音 /ə/ に連結 [ˈɪndɪkeɪtə]"
+          ],
+          "kana": "ハイ サーヴァラテンダンシズ インディケイタ スライビング マルティプレイアー コミュニティー"
+        }
+      ]
+    }
   ]
 }

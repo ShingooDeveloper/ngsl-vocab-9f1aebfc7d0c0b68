@@ -43,6 +43,37 @@
       "kana": "アイ ラヴァ フライ ウィズ ウィングズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "wings",
+      "ipa": "/wɪŋz/",
+      "examples": [
+        {
+          "en": "Guard the wings carefully!",
+          "ja": "翼を注意深く守りなさい！",
+          "ipa": "/ɡɑrd ðə wɪŋz ˈkɛrfəli/",
+          "linking": [
+            "Guard は /d/ で終わり、the の初頭母音 /ə/ に連結。flapping で /d/ が /ɾ/ になる: [ɡɑɾə] ガーダ",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ガーダ ウィングズ ケアフリー"
+        },
+        {
+          "en": "Need the wings to reach that platform.",
+          "ja": "そのプラットフォームに達するために翼が必要です。",
+          "ipa": "/niːd ðə wɪŋz tə riːtʃ ðæt ˈplætfɔrm/",
+          "linking": [
+            "Need は /d/ で終わり、the の初頭母音 /ə/ に連結。flapping で /d/ が /ɾ/ になる: [niːɾə] ニーダ",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "to は機能語で弱形 /tə/ に弱化。"
+          ],
+          "kana": "ニーダ ウィングズ タ リーチ ザット プラットフォーム"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "take wing",

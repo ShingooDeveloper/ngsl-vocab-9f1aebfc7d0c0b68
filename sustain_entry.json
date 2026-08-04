@@ -71,5 +71,141 @@
       ],
       "kana": "ユー キャン サステイン ユアセルフ ウィズ フィッシュ ユー キャッチ フラムザ オーシャン"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "sustains",
+      "ipa": "/səˈsteɪnz/",
+      "examples": [
+        {
+          "en": "A well-designed farm sustains your hunger meter for weeks without running out of food.",
+          "ja": "設計をよくした農場は、食べ物を切らさずに数週間あなたの栄養メーターを維持します。",
+          "ipa": "/ə wɛl dɪˈzaɪnd ˈfɑːrm səˈsteɪnz jɔr ˈhʌŋɡɚ ˈmiːtɚ fər ˈwiːks wɪðˈaʊt ˈrʌnɪŋ ˈaʊt əv ˈfuːd/",
+          "linking": [
+            "well-designed → /l/ + /d/ (consonant+consonant、連結なし)",
+            "farm sustains → /m/ + /s/ (consonant+consonant、連結なし)",
+            "sustains your → /z/ + /j/ が連結 [səˈsteɪnz jɔr] サステインズ ユア",
+            "out of → /t/ + /ə/ が連結、of は弱形 /əv/ [ˈaʊt əv] アウト オヴ"
+          ],
+          "kana": "ア ウェル ディザインド ファーム サステインズ ユア ハンガー ミーター ファー ウィークス ウィザウト ランニング アウト オヴ フード"
+        },
+        {
+          "en": "This redstone system sustains constant power to your base without manual intervention.",
+          "ja": "このレッドストーン装置はマニュアル操作なしであなたの拠点に継続的な電力を供給します。",
+          "ipa": "/ðɪs ˈrɛdˌstoʊn ˈsɪstəm səˈsteɪnz ˈkɑːnstənt ˈpaʊɚ tə jɔr ˈbeɪs wɪðˈaʊt ˈmænuəl ɪnˈtɚvɛnʃən/",
+          "linking": [
+            "This redstone → /s/ + /r/ (consonant+consonant、連結なし)",
+            "system sustains → /m/ + /s/ (consonant+consonant、連結なし)",
+            "sustains constant → /z/ + /k/ (consonant+consonant、連結なし)",
+            "power to → /r/ + /t/ が連なり [ˈpaʊɚ tə] パウアー タ",
+            "your base → /r/ + /b/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ディス レッドストーン システム サステインズ コンスタント パウアー タ ユア ベース ウィザウト マニュアル インターベンション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "sustained",
+      "ipa": "/səˈsteɪnd/",
+      "examples": [
+        {
+          "en": "The fortress walls sustained heavy damage but protected us from the dragon's attacks.",
+          "ja": "砦の壁は大きなダメージを受けましたが、ドラゴンの攻撃から私たちを保護しました。",
+          "ipa": "/ðə ˈfɔːrtrəs wɔːlz səˈsteɪnd ˈhɛvi ˈdæmɪdʒ bət prəˈtɛktɪd əs frəm ðə ˈdræɡənz əˈtæks/",
+          "linking": [
+            "The fortress → the は弱形 /ðə/",
+            "fortress walls → /s/ + /w/ (consonant+consonant、連結なし)",
+            "walls sustained → /z/ + /s/ (consonant+consonant、連結なし)",
+            "heavy damage → /i/ + /d/ が連結 [ˈhɛvi ˈdæmɪdʒ] ヘビー ダメージ",
+            "from the → /m/ が the の弱形 /ðə/ に連結 [frəm ðə] フラムザ"
+          ],
+          "kana": "ザ フォートレス ウォールズ サステインド ヘビー ダメージ バット プロテクティド アス フラムザ ドラゴンズ アタックス"
+        },
+        {
+          "en": "She sustained herself for months in the survival island by farming crops and fishing.",
+          "ja": "彼女は農作物を栽培と漁業によってサバイバルアイランドで何ヶ月も自分を養いました。",
+          "ipa": "/ʃi səˈsteɪnd hɚˈsɛlf fər ˈmʌnθz ɪn ðə sərˈvaɪvəl ˈaɪlənd baɪ ˈfɑːrmɪŋ ˈkrɑːps ənd ˈfɪʃɪŋ/",
+          "linking": [
+            "She sustained → /i/ + /s/ が連結 [ʃi səˈsteɪnd] シー サステインド",
+            "in the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "crops and → /s/ + /ə/ が連結、and は弱形 /ənd/ [ˈkrɑːps ənd] クロップス アンド",
+            "and fishing → /ə/ + /f/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "シー サステインド ハーセルフ ファー マンス イン ザ サーバイバル アイランド バイ ファーミング クロップス アンド フィッシング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "sustained",
+      "ipa": "/səˈsteɪnd/",
+      "examples": [
+        {
+          "en": "Having sustained the siege for three days, the castle's defenders finally surrendered.",
+          "ja": "3日間の包囲に耐えた後、城の防御者は最終的に降伏しました。",
+          "ipa": "/ˈheɪvɪŋ səˈsteɪnd ðə ˈsiːdʒ fər ˈθriː ˈdeɪz | ðə ˈkæsəlz dɪˈfɛndɚz ˈfaɪnəli ˈsɛrəndɚd/",
+          "linking": [
+            "Having sustained → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "sustained the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "for three → /r/ + /θ/ (consonant+consonant、連結なし)",
+            "days the → /z/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "finally surrendered → /i/ + /s/ が連結 [ˈfaɪnəli ˈsɛrəndɚd] ファイナリー サレンダード"
+          ],
+          "kana": "ハヴィング サステインド ザ シージ ファー スリー デイズ、ザ キャッスルズ ディフェンダーズ ファイナリー サレンダード"
+        },
+        {
+          "en": "The structure has sustained thousands of mining explosions thanks to its reinforced frame.",
+          "ja": "その構造は強化されたフレームのおかげで、何千ものマイニング爆発に耐えました。",
+          "ipa": "/ðə ˈstrʌktʃɚ həz səˈsteɪnd ˈθaʊzəndz əv ˈmaɪnɪŋ ɪkˈsploʊʒənz ˈθæŋks tu ɪts rɪnˈfɔːrst ˈfreɪm/",
+          "linking": [
+            "structure has → /r/ + /h/ (consonant+consonant、連結なし)、has は弱形 /həz/",
+            "has sustained → /z/ + /s/ (consonant+consonant、連結なし)",
+            "thousands of → /z/ + /ə/ が連結、of は弱形 /əv/ [ˈθaʊzəndz əv] ザウザンズ オヴ",
+            "of mining → /v/ + /m/ (consonant+consonant、連結なし)",
+            "thanks to → /ks/ + /t/ (consonant+consonant、連結なし)、to は弱形 /tu/"
+          ],
+          "kana": "ザ ストラクチャー ハズ サステインド ザウザンズ オヴ マイニング エクスプロージョンズ、サンクス トゥ イツ リンフォースト フレイム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "sustaining",
+      "ipa": "/səˈsteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "Sustaining your village requires constant attention to food supplies and population growth.",
+          "ja": "あなたの村を維持するには、食料供給と人口増加への継続的な注意が必要です。",
+          "ipa": "/səˈsteɪnɪŋ jɔr ˈvɪlɪdʒ rɪˈkwaɪrz ˈkɑːnstənt əˈtɛnʃən tu ˈfuːd səˈplaɪz ənd ˌpɑːpjəˈleɪʃən ɡroʊθ/",
+          "linking": [
+            "Sustaining your → /ŋ/ + /j/ が連結 [səˈsteɪnɪŋ jɔr] サステイニング ユア",
+            "your village → /r/ + /v/ (consonant+consonant、連結なし)",
+            "requires constant → /z/ + /k/ (consonant+consonant、連結なし)",
+            "constant attention → /t/ + /ə/ が連結 [ˈkɑːnstənt əˈtɛnʃən] コンスタント アテンション",
+            "supplies and → /z/ + /ə/ が連結、and は弱形 /ənd/ [səˈplaɪz ənd] サプライズ アンド"
+          ],
+          "kana": "サステイニング ユア ビリッジ リクワイアーズ コンスタント アテンション トゥ フード サプライズ アンド ポピュレーション グロース"
+        },
+        {
+          "en": "While sustaining the automatic farm, we discovered new underground caverns filled with ores.",
+          "ja": "自動農場を維持している間に、鉱石でいっぱいの新しい地下洞窟を発見しました。",
+          "ipa": "/waɪl səˈsteɪnɪŋ ðə ˈɔːtəməˌtɪk ˈfɑːrm | wi dɪˈskʌvɚd ˈnuː ˈʌndɚɡraʊnd ˈkævərnz ˈfɪld wɪð ˈɔːrz/",
+          "linking": [
+            "While sustaining → /l/ + /s/ (consonant+consonant、連結なし)",
+            "sustaining the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "automatic farm → /k/ + /f/ (consonant+consonant、連結なし)",
+            "we discovered → /i/ + /d/ が連結 [wi dɪˈskʌvɚd] ウィー ディスカバード",
+            "discovered new → /d/ + /n/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ワイル サステイニング ザ オートマティック ファーム、ウィー ディスカバード ニュー アンダーグラウンド キャバーンズ フィルド ウィズ オーズ"
+        }
+      ]
+    }
   ]
 }

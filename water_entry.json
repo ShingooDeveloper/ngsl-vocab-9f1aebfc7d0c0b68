@@ -188,6 +188,107 @@
           "kana": "バイ ワーラーリング レギュラーリ ユア プラントス グロウ ファスター ザン ユージュアル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is watering",
+      "ipa": "/ɪz ˈwɔtərɪŋ/",
+      "examples": [
+        {
+          "en": "I am watering the crops in the farm area right now.",
+          "ja": "私は今、農場エリアの作物に水をやっています。",
+          "ipa": "/aɪ æm ˈwɔtərɪŋ ðə ˈkrɑps ɪn ðə ˈfɑːrm ˈɛriə ˈraɪt ˈnaʊ/",
+          "linking": [
+            "I /aɪ/ と am /æm/ が隣接（通常の語の組み合わせ）",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング",
+            "the は弱形 /ðə/ ザ",
+            "farm の末尾子音 /m/ が area の初頭母音 /ɛ/ に連結 [ˈfɑːm ˈɛriə]"
+          ],
+          "kana": "アイ アム ワーラーリング ザ クラップス イン ザ ファーム エリア ライト ナウ"
+        },
+        {
+          "en": "He is watering the farmland near the base to keep plants healthy.",
+          "ja": "彼は植物を健康に保つために、基地近くの農地に水をやっています。",
+          "ipa": "/hi ɪz ˈwɔtərɪŋ ðə ˈfɑːmlænd ˈnɪr ðə ˈbeɪs tə ˈkiːp ˈplænts ˈhɛlθi/",
+          "linking": [
+            "He /hi/ と is が隣接（子音+母音で通常の組み合わせ）",
+            "is は弱形 /ɪz/",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒ イズ ワーラーリング ザ ファームランド ニア ザ ベイス タ キープ プラントス ヘルシー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was watering",
+      "ipa": "/wəz ˈwɔtərɪŋ/",
+      "examples": [
+        {
+          "en": "I was watering the crops when it started raining heavily.",
+          "ja": "雨が激しく降り始めたとき、私は作物に水をやっていました。",
+          "ipa": "/aɪ wəz ˈwɔtərɪŋ ðə ˈkrɑps wɛn ɪt ˈstɑɾtəd ˈreɪnɪŋ ˈhɛvəli/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング",
+            "the は弱形 /ðə/ ザ",
+            "when の末尾 /n/ が it の初頭母音 /ɪ/ に連結 [wɛn ɪt] ウェニット",
+            "started は米語でflap T: [ˈstɑɾtəd] スターティッド"
+          ],
+          "kana": "アイ ワズ ワーラーリング ザ クラップス ウェニット スターティッド レイニング ヘビリ"
+        },
+        {
+          "en": "They were watering all the farmland for hours yesterday.",
+          "ja": "昨日、彼らは何時間も農地全体に水をやっていました。",
+          "ipa": "/ðeɪ wɚ ˈwɔtərɪŋ ɔl ðə ˈfɑːmlænd fər ˈaʊɚz ˈjɛstɚdeɪ/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング",
+            "the は弱形 /ðə/ ザ",
+            "hours は米語でflap r: [ˈaʊɚz] アワーズ",
+            "yesterday は米語でflap T: [ˈjɛstɚdeɪ] イエスターデイ"
+          ],
+          "kana": "ザイ ワー ワーラーリング オール ザ ファームランド ファー アワーズ イエスターデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been watering",
+      "ipa": "/həd ˈbɪn ˈwɔtərɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the drought started, I had been watering the crops daily for weeks.",
+          "ja": "干ばつが始まるまでに、私は数週間毎日作物に水をやっていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈdraʊt ˈstɑɾtəd aɪ həd ˈbɪn ˈwɔtərɪŋ ðə ˈkrɑps ˈdeɪli fər ˈwiːks/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "started は米語でflap T: [ˈstɑɾtəd] スターティッド",
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング"
+          ],
+          "kana": "バイ ザ タイム ザ ドラウト スターティッド アイ ハド ビン ワーラーリング ザ クラップス デイリ ファー ウィークス"
+        },
+        {
+          "en": "We had been watering the fields daily before the summer drought arrived.",
+          "ja": "夏の干ばつが来る前に、私たちは毎日田んぼに水をやっていました。",
+          "ipa": "/wi həd ˈbɪn ˈwɔtərɪŋ ðə ˈfiːldz ˈdeɪli bɪˈfɔɹ ðə ˈsʌmɚ ˈdraʊt əˈraɪvd/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "watering は米語でflap T: [ˈwɑɾɚɪŋ] ワーラーリング",
+            "the は弱形 /ðə/ ザ",
+            "before の末尾 /ɹ/ が the の初頭子音 /ð/ に連結しない（子音+子音）",
+            "summer は米語でflap r: [ˈsʌmɚ] サマー"
+          ],
+          "kana": "ウィ ハド ビン ワーラーリング ザ フィールズ デイリ ビフォア ザ サマー ドラウト アライヴド"
+        }
+      ]
     }
   ]
 }

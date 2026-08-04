@@ -67,5 +67,117 @@
       ],
       "kana": "ハードコア モード リクワイアーズ ア リール センス アヴ アドヴェンチャー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "adventures",
+      "ipa": "/ədˈvɛntʃɚz/",
+      "examples": [
+        {
+          "en": "Many adventures await us in the deep caves.",
+          "ja": "多くの冒険が深い洞窟で私たちを待っています。",
+          "ipa": "/ˈmɛni ədˈvɛntʃɚz əˈweɪt əs ɪn ðə ˈdiːp ˈkeɪvz/",
+          "linking": ["await の語末 /t/ が us の初頭 /ə/ に連結 [əˈweɪtəs]。", "the は弱形 /ðə/。"],
+          "kana": "メニー アドヴェンチャーズ アウェイタス イン ザ ディープ ケイブズ"
+        },
+        {
+          "en": "Our adventures always end with finding rare treasures.",
+          "ja": "私たちの冒険は常に貴重な宝物の発見で終わります。",
+          "ipa": "/ˈaʊɚ ədˈvɛntʃɚz ˈɔlweɪz ɛnd wɪð ˈfaɪndɪŋ ˈɹɛɹ ˈtɛʒɚz/",
+          "linking": [],
+          "kana": "アウアー アドヴェンチャーズ オールウェイズ エンド ウィズ ファインディング レア テジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "adventures",
+      "ipa": "/ədˈvɛntʃɚz/",
+      "examples": [
+        {
+          "en": "He adventures through the world searching for diamonds.",
+          "ja": "彼は世界中を冒険してダイヤモンドを探しています。",
+          "ipa": "/hiː ədˈvɛntʃɚz θɹuː ðə ˈwɝld ˈsɝtʃɪŋ fɚ ˈdaɪməndz/",
+          "linking": ["the は弱形 /ðə/。", "for は弱形 /fɚ/。"],
+          "kana": "ヒー アドヴェンチャーズ スルー ザ ワールド サーチング ファ ダイマンズ"
+        },
+        {
+          "en": "She adventures into dangerous biomes without fear.",
+          "ja": "彼女は恐れずに危険なバイオームに冒険に出かけます。",
+          "ipa": "/ʃiː ədˈvɛntʃɚz ˈɪntu ˈdeɪndʒɚəs baɪˈoʊmz wɪðˈaʊt ˈfɪɹ/",
+          "linking": [],
+          "kana": "シー アドヴェンチャーズ イントゥ デインジャラス バイオームズ ウィザウト フィアー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "adventured",
+      "ipa": "/ˈædvɛntʃɚd/",
+      "examples": [
+        {
+          "en": "We adventured deep into the End dimension yesterday.",
+          "ja": "私たちは昨日エンド次元の深部に冒険に出かけました。",
+          "ipa": "/wiː ˈædvɛntʃɚd ˈdiːp ˈɪntu ðiː ˈɛnd dɪˈmɛnʃən ˈjɛstɚdeɪ/",
+          "linking": ["adventured の語末 /d/ が deep の初頭 /d/ に未開放で連なる。"],
+          "kana": "ウィー アドヴェンチャード ディープ イントゥ ザ エンド ディメンション イェスターデイ"
+        },
+        {
+          "en": "They adventured for three days through the Nether.",
+          "ja": "彼らはネザーを3日間冒険しました。",
+          "ipa": "/ðeɪ ˈædvɛntʃɚd fɚ θriː ˈdeɪz θɹuː ðə ˈnɛðɚ/",
+          "linking": ["for は弱形 /fɚ/。", "the は弱形 /ðə/。"],
+          "kana": "ザイ アドヴェンチャード ファ スリー デイズ スルー ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "adventured",
+      "ipa": "/ˈædvɛntʃɚd/",
+      "examples": [
+        {
+          "en": "We have adventured to every corner of this world.",
+          "ja": "私たちはこの世界のあらゆる隅に冒険してきました。",
+          "ipa": "/wiː hæv ˈædvɛntʃɚd tu ˈɛvəri ˈkɔɹnɚ əv ðɪs ˈwɝld/",
+          "linking": ["to は機能語で弱形 /tə/。", "of は弱形 /əv/。"],
+          "kana": "ウィー ハヴ アドヴェンチャード トゥ エブリ コーナー アヴ ディス ワールド"
+        },
+        {
+          "en": "The fortress we had adventured through was absolutely massive.",
+          "ja": "私たちが冒険で通った砦は全く巨大でした。",
+          "ipa": "/ðə ˈfɔɹtɹəs wiː hæd ˈædvɛntʃɚd θɹuː wəz ˈæbsəˌluːtli ˈmæsɪv/",
+          "linking": ["the は弱形 /ðə/。", "was は弱形 /wəz/。"],
+          "kana": "ザ フォートレス ウィー ハド アドヴェンチャード スルー ワズ アプソルートリ マシヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "adventuring",
+      "ipa": "/ˈædvɛntʃɚɪŋ/",
+      "examples": [
+        {
+          "en": "Adventuring in Minecraft is always exciting and fun.",
+          "ja": "マインクラフトで冒険することはいつも興奮的で楽しいです。",
+          "ipa": "/ˈædvɛntʃɚɪŋ ɪn ˈmaɪnˌkɹæft ɪz ˈɔlweɪz ɪkˈsaɪtɪŋ ənd ˈfʌn/",
+          "linking": ["in は弱形 /ɪn/。", "is は弱形 /z/。", "and は弱形 /ən/ または /n/。"],
+          "kana": "アドヴェンチャーリング イン マインクラフト イズ オールウェイズ インサイティング アンド ファン"
+        },
+        {
+          "en": "We enjoy adventuring with our friends online every weekend.",
+          "ja": "私たちは毎週末、オンラインで友達と冒険することを楽しんでいます。",
+          "ipa": "/wiː ɪnˈdʒɔɪ ˈædvɛntʃɚɪŋ wɪð ˈaʊɚ ˈfrɛndz ˈɑnˌlaɪn ˈɛvəri ˈwiːkˌɛnd/",
+          "linking": [],
+          "kana": "ウィー インジョイ アドヴェンチャーリング ウィズ アウアー フレンズ オンラインン エブリ ウィークエンド"
+        }
+      ]
+    }
   ]
 }

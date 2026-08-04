@@ -59,5 +59,117 @@
       ],
       "kana": "ウィー シャド インターピット ザット クリーキング サウンド アズア ウォーニング フラム ザ ケイヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "interprets",
+      "ipa": "/ɪnˈtɝprəts/",
+      "examples": [
+        {
+          "en": "He interprets the ancient rune symbols on the ruin blocks.",
+          "ja": "彼は古い遺跡のルーン記号を解釈する。",
+          "ipa": "[hi ɪnˈtɝprəts ðə ˈeɪntʃənt ˈruːn ˈsɪmbəlz ɑn ðə ˈruːɪn ˈblɑks]",
+          "linking": [
+            "\"the\" が出現する箇所で弱形 /ðə/ に弱化。「the」→「ザ」",
+            "\"on\" → 弱形 /ən/ に弱化。「on」→「エン」"
+          ],
+          "kana": "ヒ インタープリッツ ザ エイントチャント ルーン シンボルズ エン ザ ルーイン ブラックス"
+        },
+        {
+          "en": "She interprets the map markers to find the treasure.",
+          "ja": "彼女は宝の地図マーカーを解釈する。",
+          "ipa": "[ʃi ɪnˈtɝprəts ðə ˈmæp ˈmɑrkərz tə ˈfaɪnd ðə ˈtrɛʒər]",
+          "linking": [
+            "\"to\" → 機能語で弱形 /tə/ に弱化。「to」→「タ」",
+            "\"the\" が出現する箇所で弱形 /ðə/ に弱化。「the」→「ザ」（2回）"
+          ],
+          "kana": "シー インタープリッツ ザ マップ マーカーズ タ ファインド ザ トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "interpreted",
+      "ipa": "/ɪnˈtɝprətəd/",
+      "examples": [
+        {
+          "en": "He interpreted the ancient rune tablets.",
+          "ja": "彼は古い遺跡のルーン板を解釈した。",
+          "ipa": "[hi ɪnˈtɝprətəd ðiː ˈeɪntʃənt ˈruːn ˈtæbləts]",
+          "linking": [
+            "\"the ancient\" → 「the」は母音の前なので強形 [ðiː]。「the」→「ザー」"
+          ],
+          "kana": "ヒ インターププレティッド ザー エイントチャント ルーン タブレッツ"
+        },
+        {
+          "en": "She interpreted the wizard's cryptic message.",
+          "ja": "彼女は魔法使いの謎めいたメッセージを解釈した。",
+          "ipa": "[ʃi ɪnˈtɝprətəd ðə ˈwɪzərdz ˈkrɪptɪk ˈmɛsɪʤ]",
+          "linking": [
+            "\"the wizard's\" → 「the」は子音の前で弱形 [ðə]。「the」→「ザ」"
+          ],
+          "kana": "シー インターププレティッド ザ ウィザーズ クリプティック メッセージ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "interpreted",
+      "ipa": "/ɪnˈtɝprətəd/",
+      "examples": [
+        {
+          "en": "The ancient script was interpreted by the elder.",
+          "ja": "古い書類は長老により解釈された。",
+          "ipa": "[ðə ˈeɪntʃənt ˈskrɪpt wəz ɪnˈtɝprətəd baɪ ðə ˈɛldər]",
+          "linking": [
+            "\"was interpreted\" → was は弱形 /wəz/ に弱化。「was」→「ウァズ」",
+            "\"by the elder\" → 「the」は子音の前で弱形 [ðə]。「the」→「ザ」"
+          ],
+          "kana": "ザ エイントチャント スクリプト ウァズ インターププレティッド バイ ザ エルダー"
+        },
+        {
+          "en": "The interpreted signals guide adventurers through the dungeon.",
+          "ja": "解釈されたシグナルが冒険者をダンジョンを通して導く。",
+          "ipa": "[ðə ɪnˈtɝprətəd ˈsɪɡnəlz ɡaɪdə dˈvɛntʃərərz θruː ðə ˈdʌndʒən]",
+          "linking": [
+            "\"guide adventurers\" → guide の /d/ が次の /ə/ に連結。[ɡaɪdə] → 「ガイダ」",
+            "\"through the\" → 「the」は子音の前で弱形 [ðə]。「the」→「ザ」"
+          ],
+          "kana": "ザ インターププレティッド シグナルズ ガイド アドベンチャーラーズ スルー ザ ダンジョン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "interpreting",
+      "ipa": "/ɪnˈtɝprətɪŋ/",
+      "examples": [
+        {
+          "en": "The elder is interpreting the ancient prophecy.",
+          "ja": "長老は古い預言を解釈している。",
+          "ipa": "[ðiː ˈɛldər ɪz ɪnˈtɝprətɪŋ ðiː ˈeɪntʃənt ˈprɑfəsi]",
+          "linking": [
+            "\"the elder\" と \"the ancient\" → 「the」は母音の前で強形 [ðiː]。「the」→「ザー」",
+            "\"is\" → 機能語で弱形 [ɪz]"
+          ],
+          "kana": "ザー エルダー イズ インターププレティング ザー エイントチャント プロフェシー"
+        },
+        {
+          "en": "While interpreting the ancient signals, the team found treasure.",
+          "ja": "古いシグナルを解釈している間に、チームは宝を見つけた。",
+          "ipa": "[ˈwaɪl ɪnˈtɝprətɪŋ ðiː ˈeɪntʃənt ˈsɪɡnəlz ðə ˈtiːm faʊnd ˈtrɛʒər]",
+          "linking": [
+            "\"the ancient\" → 「the」は母音の前で強形 [ðiː]。「the」→「ザー」",
+            "\"the team\" → 「the」は子音の前で弱形 [ðə]。「the」→「ザ」"
+          ],
+          "kana": "ワイル インターププレティング ザー エイントチャント シグナルズ ザ ティーム ファウンド トレジャー"
+        }
+      ]
+    }
   ]
 }

@@ -6,6 +6,36 @@
   "rank": 2701,
   "level": "B1",
   "hi": "comedy|comedies",
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "comedies",
+      "ipa": "/ˈkɑːmədiz/",
+      "examples": [
+        {
+          "en": "We watched comedies on the redstone screen all night.",
+          "ja": "私たちは一晩中、レッドストーン画面でコメディを見ました。",
+          "ipa": "/wi ˈwɑːtʃt̚ ˈkɑːmədiz ɑnðə ˈrɛdˌstoʊn ˈskrin ɔl naɪt̚/",
+          "linking": [
+            "watched の末尾子音 /tʃt/ が未開放で comedies の初頭子音 /k/ に先行。[ˈwɑːtʃt̚] ウォッチ",
+            "on の末尾子音 /n/ が the の初頭子音 /ð/ に連結。the は弱形 /ðə/。[ɑnðə] オンザ"
+          ],
+          "kana": "ウィ ウォッチ コーマディーズ オンザ レッドストーン スクリーン オール ナイト"
+        },
+        {
+          "en": "Those comedies always make the creepers dance!",
+          "ja": "あのコメディたちはいつもクリーパーを踊らせます！",
+          "ipa": "/ðoʊz ˈkɑːmədiz ˈɔlweɪz meɪk̚ ðə ˈkripərz̚ dæns/",
+          "linking": [
+            "comedies の末尾 /z/ が always の初頭母音 /ɔ/ に連結。[ˈkɑːmədiz ˈɔlweɪz] コーマディーズ オルウェイズ",
+            "make の末尾子音 /k/ が the の初頭子音 /ð/ に先行し未開放。the は弱形 /ðə/。[meɪk̚ ðə] メイ ザ"
+          ],
+          "kana": "ザウズ コーマディーズ オルウェイズ メイ ザ クリーパーズ ダンス"
+        }
+      ]
+    }
+  ],
   "meanings": [
     "【名詞】舞台や映画などで観客を笑わせることを目的とした作品や演技（a play, movie, or performance intended to make an audience laugh）",
     "【名詞】おかしさ、こっけい（the quality of being amusing or funny）",

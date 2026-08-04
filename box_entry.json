@@ -243,6 +243,92 @@
           "kana": "ワイル ボックシング ザ インチャンテッド ブックス、アイ ディスカバード ア レアー レベル サーティー ブック"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is boxing",
+      "ipa": "/ɪz ˈbɑksɪŋ/",
+      "examples": [
+        {
+          "en": "I see my friend is boxing up supplies in the chest room right now.",
+          "ja": "友人が今、チェストルームで補給物を箱に詰めているのが見えます。",
+          "ipa": "/aɪ ˈsi maɪ ˈfrɛnd ɪz ˈbɑksɪŋ ˌʌp səˈplaɪz ɪn ðə ˈtʃɛst ˈrum ˈraɪt ˈnaʊ/",
+          "linking": [
+            "friend の d が is に連結 [ˈfrɛnd ɪz] フレンド イズ。is は弱形 /ɪz/",
+            "in の n が the に続く（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "アイ シー マイ フレンド イズ ボックシング アップ サプライズ イン ザ チェスト ルーム ライト ナウ"
+        },
+        {
+          "en": "The redstone contraption is boxing items automatically through a series of hoppers.",
+          "ja": "レッドストーン装置がホッパーの一連を通してアイテムを自動的に箱詰めしています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn kənˈtræpʃən ɪz ˈbɑksɪŋ ˈaɪtəmz ˌɔtəˈmætɪkli ˈθru ə ˈsɪriz əv ˈhɑpərz/",
+          "linking": [
+            "the は弱形 /ðə/。contraption の n が is に連結 [kənˈtræpʃən ɪz] コントラプション イズ"
+          ],
+          "kana": "ザ レッストウン コントラプション イズ ボックシング アイテムズ オータマティカリー スルー ア シリーズ オブ ホッパーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was boxing",
+      "ipa": "/wəz ˈbɑksɪŋ/",
+      "examples": [
+        {
+          "en": "I was boxing up the rare ores when a creeper suddenly appeared behind me.",
+          "ja": "クリーパーが突然後ろに現れたとき、珍しい鉱石を箱に詰めていました。",
+          "ipa": "/aɪ wəz ˈbɑksɪŋ ˌʌp ðə ˈrɛr ˈɔrz wɛn ə ˈkripər səˈdɛnli əˈpɪrd bɪˈhaɪnd mi/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "when の n が a に連結 [wɛn ə] ウェン ア。a は弱形 /ə/",
+            "appeared の d が behind に続く（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ワズ ボックシング アップ ザ レアー オーズ ウェン ア クリーパー サデンリー アピアード ビハインド ミー"
+        },
+        {
+          "en": "While I was boxing materials, my teammate was building the wall nearby.",
+          "ja": "私が材料を箱詰めしている間、チームメイトは近くで壁を建てていました。",
+          "ipa": "/waɪl aɪ wəz ˈbɑksɪŋ məˈtɪriəlz | maɪ ˈtimˌmeɪt wəz ˈbɪldɪŋ ðə ˈwɔl ˈnɪrˌbaɪ/",
+          "linking": [
+            "while の l が I に連結 [waɪl aɪ] ワイル アイ",
+            "was は弱形 /wəz/",
+            "teammate の t が was に続く（子音+子音、連結なし）、was は弱形 /wəz/"
+          ],
+          "kana": "ワイル アイ ワズ ボックシング マテリアルズ、マイ ティームメイト ワズ ビルディング ザ ウォール ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been boxing",
+      "ipa": "/hæd bɪn ˈbɑksɪŋ/",
+      "examples": [
+        {
+          "en": "She had been boxing up diamonds for hours before she finally took a break at the relaxation area.",
+          "ja": "彼女はリラックスエリアで休憩を取る前に、何時間もダイヤを箱詰めしていました。",
+          "ipa": "/ʃi hæd bɪn ˈbɑksɪŋ ˌʌp ˈdaɪməndz ˈfɔr ˈaʊərz bɪˈfɔr ʃi ˈfaɪnəli ˈtʊk ə ˈbreɪk æt ðə ˌrɪˈlæksˈeɪʃən ˈɛriə/",
+          "linking": [
+            "had は弱形 /hæd/、been は弱形 /bɪn/",
+            "took の k が a に連結 [ˈtʊk ə] トゥック ア。a は弱形 /ə/",
+            "break の k が at に連結 [ˈbreɪk æt] ブレイク アット"
+          ],
+          "kana": "シー ハド ビン ボックシング アップ ダイモンズ フォー アワーズ ビフォアー シー ファイナリー トゥック ア ブレイク アット ザ リラクセイション エリア"
+        },
+        {
+          "en": "They had been boxing and sorting ore all night before the dawn broke over the mountains.",
+          "ja": "山々の上に夜明けが訪れる前に、彼らは一晩中鉱石を箱詰めして分類していました。",
+          "ipa": "/ðeɪ hæd bɪn ˈbɑksɪŋ ənd ˈsɔrtɪŋ ˈɔr ɔl ˈnaɪt bɪˈfɔr ðə ˈdɔn ˈbroʊk ˈoʊvər ðə ˈmaʊntənz/",
+          "linking": [
+            "had は弱形 /hæd/、been は弱形 /bɪn/",
+            "ore の r が all に連結 [ˈɔr ɔl] オアー オール"
+          ],
+          "kana": "ゼイ ハド ビン ボックシング アン ソーティング オアー オール ナイト ビフォアー ザ ドーン ブロウク オーバー ザ マウンテンズ"
+        }
+      ]
     }
   ]
 }

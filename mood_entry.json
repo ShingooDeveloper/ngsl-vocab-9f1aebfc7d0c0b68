@@ -45,6 +45,40 @@
       "kana": "ディフィーティング ザ ウィザー カムプリートリー チェンジド マイ ムード"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "moods",
+      "ipa": "/muːdz/",
+      "examples": [
+        {
+          "en": "Many moods exist in different biomes around the world.",
+          "ja": "世界中のさまざまなバイオームには多くの雰囲気が存在します。",
+          "ipa": "[ˈmɛni ˈmuːdz ɪɡˈzɪst ɪn ˈdɪfərənt baɪˈoʊmz əˈraʊnd ðə wɝld]",
+          "linking": [
+            "moods の末尾子音 /z/ が exist の初頭母音 /ɪ/ に連結: [ˈmuːdz-ɪɡˈzɪst] ムーズイグジスト",
+            "exist の末尾子音 /t/ は未開放で in の初頭母音 /ɪ/ に繋がる",
+            "biomes の末尾子音 /z/ が around の初頭母音 /ə/ に連結: [baɪˈoʊmz-əˈraʊnd] バイオームザラウンド",
+            "around の末尾子音 /d/ が the の初頭弱形 /ðə/ に連結: [əˈraʊnd-ðə] アラウンザ"
+          ],
+          "kana": "メニー ムーズイグジスト イン ディフレント バイオームザラウンザ ワールド"
+        },
+        {
+          "en": "The moods of players change with the seasons.",
+          "ja": "プレイヤーの気分は季節とともに変わります。",
+          "ipa": "[ðə ˈmuːdz əv ˈpleɪɚz ˈtʃeɪndʒ wɪð ðə ˈsiːzənz]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "moods の末尾子音 /z/ が of の初頭弱形 /ə/ に連結: [ˈmuːdz-əv] ムーズアヴ。of は弱形 /əv/",
+            "with の末尾子音 /ð/ が the の初頭弱形 /ðə/ に連結: [wɪð-ðə] ウィザ",
+            "the の末尾弱形 /ə/ が seasons の初頭子音 /s/ に自然に連続"
+          ],
+          "kana": "ザ ムーズアヴ プレイヤーズ チェンジ ウィザ シーズンズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "in a good mood",

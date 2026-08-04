@@ -71,5 +71,132 @@
       ],
       "kana": "プレイヤーズ ウィッドルー サポート フォー ザ マンション プロジェクト"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "withdraws",
+      "ipa": "/wɪðˈdrɔz/",
+      "examples": [
+        {
+          "en": "The player withdraws ore from the mine.",
+          "ja": "プレイヤーは鉱石をマインから引き出す。",
+          "ipa": "/ðə ˈpleɪər wɪðˈdrɔz ɔr frəm ðə ˈmaɪn/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "withdraws ore → /z/ + /ɔ/ が連結 [wɪðˈdrɔz ɔr] ウィッドローズ オア",
+            "from は弱形 /frəm/ に弱化",
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ザ プレイヤー ウィッドローズ オア フラム ザ マイン"
+        },
+        {
+          "en": "She withdraws all diamonds quickly before the creeper arrives.",
+          "ja": "彼女はクリーパーが到着する前にすべてのダイヤモンドを素早く引き出す。",
+          "ipa": "/ʃi wɪðˈdrɔz ɔl ˈdaɪməndz ˈkwɪkli bɪˈfɔr ðə ˈkriːpər əˈraɪvz/",
+          "linking": [
+            "all diamonds → /l/ + /d/ (consonant+consonant、連結なし)。diamonds は複数形 /z/",
+            "before the → /r/ + /ð/ (consonant+consonant、連結なし)。the は弱形 /ðə/",
+            "creeper arrives → /r/ + /ə/ が連結 [ˈkriːpər əˈraɪvz] クリーパー アライブズ"
+          ],
+          "kana": "シー ウィッドローズ オール ダイマンズ クイックリー ビフォー ザ クリーパー アライブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "withdrew",
+      "ipa": "/wɪðˈdruː/",
+      "examples": [
+        {
+          "en": "He withdrew from the battle with the dragon.",
+          "ja": "彼はドラゴンとの戦いから撤退した。",
+          "ipa": "/hi wɪðˈdruː frəm ðə ˈbætəl wɪð ðə ˈdræɡən/",
+          "linking": [
+            "withdrew from → /uː/ + /f/ (consonant+consonant、連結なし)。from は弱形 /frəm/",
+            "the battle → the は弱形 /ðə/",
+            "with the → /ð/ + /ð/ (consonant+consonant、連結なし)。the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ウィッドルー フラム ザ バトル ウィズ ザ ドラゴン"
+        },
+        {
+          "en": "They withdrew their equipment and supplies.",
+          "ja": "彼らは彼らの装備と補給品を撤退させた。",
+          "ipa": "/ðeɪ wɪðˈdruː ðɛr ɪˈkwɪpmənt‿ənd səˈplaɪz/",
+          "linking": [
+            "withdrew their → /uː/ + /ð/ (vowel + consonant、連結なし)。their は弱形 /ðɛr/",
+            "equipment and → /t/ + /ə/ が連結、and は弱形 /ənd/ [ɪˈkwɪpmənt‿ənd] エクイップメント アンド",
+            "supplies は複数形末尾 /z/"
+          ],
+          "kana": "ザイ ウィッドルー ザー イクイップメント アンド サプライズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "withdrawn",
+      "ipa": "/wɪðˈdrɔn/",
+      "examples": [
+        {
+          "en": "All resources have been withdrawn from the storage chest.",
+          "ja": "すべてのリソースは保管チェストから引き出されている。",
+          "ipa": "/ɔl ˈrɛsɚsɪz həv bɪn wɪðˈdrɔn frəm ðə ˈstɔrɪdʒ tʃɛst/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は /bɪn/",
+            "withdrawn from → /n/ + /f/ (consonant+consonant、連結なし)。from は弱形 /frəm/",
+            "the storage → the は弱形 /ðə/",
+            "storage chest → /dʒ/ + /tʃ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "オール リソーシズ ハブ ビン ウィッドローン フラム ザ ストレッジ チェスト"
+        },
+        {
+          "en": "Once the items are withdrawn, the inventory opens automatically.",
+          "ja": "アイテムが引き出されると、インベントリが自動的に開く。",
+          "ipa": "/wʌns ðə ˈaɪtəmz ɑr wɪðˈdrɔn | ðə ɪnˈvɛntəri ˈoʊpənz ˌɔːtəˈmætɪkli/",
+          "linking": [
+            "the items → the は弱形 /ðə/",
+            "are withdrawn → are は弱形 /ɑr/、/r/ + /w/ (consonant+consonant、連結なし)",
+            "the inventory → the は弱形 /ðə/",
+            "opens automatically → /z/ + /ɔ/ が連結 [ˈoʊpənz ˌɔːtəˈmætɪkli] オーペンズ オートマティカリー"
+          ],
+          "kana": "ワンス ザ アイテムズ アー ウィッドローン、ザ インベントリー オーペンズ オートマティカリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "withdrawing",
+      "ipa": "/wɪðˈdrɔɪŋ/",
+      "examples": [
+        {
+          "en": "While withdrawing from the lava lake, stay hydrated and watch your steps.",
+          "ja": "溶岩湖から撤退している間、水分を補給して足元に気をつけてください。",
+          "ipa": "/waɪl wɪðˈdrɔɪŋ frəm ðə ˈlɑvə ˈleɪk | steɪ haɪˈdreɪtɪd‿ənd wɑtʃ jɔr stɛps/",
+          "linking": [
+            "withdrawing from → /ŋ/ + /f/ (consonant+consonant、連結なし)。from は弱形 /frəm/",
+            "the lava → the は弱形 /ðə/",
+            "hydrated and → /d/ + /ə/ が連結、and は弱形 /ənd/ [haɪˈdreɪtɪd‿ənd] ハイドレーティド アンド",
+            "watch your → /tʃ/ + /j/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ワイル ウィッドローイング フラム ザ ラーバ レイク、ステイ ハイドレーティド アンド ワッチ ユア ステップス"
+        },
+        {
+          "en": "The team is withdrawing supplies strategically across the map.",
+          "ja": "チームはマップ全体に戦略的に補給品を撤退させている。",
+          "ipa": "/ðə ˈtiːm ɪz wɪðˈdrɔɪŋ səˈplaɪz ˈstrætədʒɪkli əˈkrɔs ðə mæp/",
+          "linking": [
+            "the team → the は弱形 /ðə/",
+            "is withdrawing → is は弱形 /ɪz/、/z/ + /w/ (consonant+consonant、連結なし)",
+            "withdrawing supplies → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "across the → /s/ + /ð/ (consonant+consonant、連結なし)。the は弱形 /ðə/"
+          ],
+          "kana": "ザ ティーム イズ ウィッドローイング サプライズ ストラテジカリー アクロス ザ マップ"
+        }
+      ]
+    }
   ]
 }

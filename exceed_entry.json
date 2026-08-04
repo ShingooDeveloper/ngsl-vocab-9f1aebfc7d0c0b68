@@ -58,5 +58,119 @@
       ],
       "kana": "イフ ユー イクシード ザ ハイト リミット ユァー ビルド ウォント ロード カレクリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "exceeds",
+      "ipa": "/ɪkˈsiːdz/",
+      "examples": [
+        {
+          "en": "The building height exceeds the server limit.",
+          "ja": "建物の高さがサーバーの制限を超えています。",
+          "ipa": "/ðə ˈbɪldɪŋ haɪt ɪkˈsiːdz ðə ˈsɝvər ˈlɪmət/",
+          "linking": [
+            "height の語末子音 /t/ が exceeds の初頭 /ɪ/ に連結。結果 [haɪt ɪkˈsiːdz] ハイト・イクシーズ",
+            "exceeds の語末子音 /z/ が the の初頭 /ə/ に連結。結果 [ɪkˈsiːdz ə] イクシーズ・ア"
+          ],
+          "kana": "ザ ビルディング ハイト イクシーズ ザ サーバー リミット"
+        },
+        {
+          "en": "This mob farm output exceeds our expectations.",
+          "ja": "このモブファームの出力は私たちの期待を上回っています。",
+          "ipa": "/ðɪs moʊb fɑrm ˈaʊtpʊt ɪkˈsiːdz ˈaʊər ɪkˌspɛkˈteɪʃənz/",
+          "linking": [
+            "output の語末子音 /t/ が exceeds の初頭 /ɪ/ に連結。結果 [ˈaʊtpʊt ɪkˈsiːdz] アウトプット・イクシーズ",
+            "exceeds の語末子音 /z/ が our の初頭 /aʊ/ に連結。結果 [ɪkˈsiːdz aʊ] イクシーズ・アウ"
+          ],
+          "kana": "ディス モウブ ファーム アウトプット イクシーズ アウアー イクスペクテイシャンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "exceeded",
+      "ipa": "/ɪkˈsiːdɪd/",
+      "examples": [
+        {
+          "en": "Yesterday's harvest exceeded our storage quota.",
+          "ja": "昨日の収穫は私たちのストレージ割当量を上回った。",
+          "ipa": "/ˌjɛstərˈdeɪz ˈhɑrvəst ɪkˈsiːdɪd ˈaʊər ˈstɔrɪdʒ ˈkwoʊtə/",
+          "linking": [
+            "harvest の語末子音 /t/ が exceeded の初頭 /ɪ/ に連結。結果 [ˈhɑrvəst ɪkˈsiːdɪd] ハーベスト・イクシーディド",
+            "exceeded の語末子音 /d/ が our の初頭 /aʊ/ に連結。結果 [ɪkˈsiːdɪd aʊ] イクシーディド・アウ"
+          ],
+          "kana": "イエスターデイズ ハーベスト イクシーディド アウアー ストレージ クォータ"
+        },
+        {
+          "en": "The mining run exceeded all previous records.",
+          "ja": "採掘実行は以前のすべてのレコードを上回った。",
+          "ipa": "/ðə ˈmaɪnɪŋ ɹʌn ɪkˈsiːdɪd ɔl ˈprivɪəs ˈrɛkərdz/",
+          "linking": [
+            "run の語末子音 /n/ が exceeded の初頭 /ɪ/ に連結。結果 [ɹʌn ɪkˈsiːdɪd] ラン・イクシーディド",
+            "exceeded の語末子音 /d/ が all の初頭 /ɔ/ に連結。結果 [ɪkˈsiːdɪd ɔl] イクシーディド・オール"
+          ],
+          "kana": "ザ マイニング ラン イクシーディド オール プリヴィアス レコーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "exceeded",
+      "ipa": "/ɪkˈsiːdɪd/",
+      "examples": [
+        {
+          "en": "I've exceeded the inventory limit in creative mode.",
+          "ja": "私はクリエイティブモードでインベントリ容量を超えてしまった。",
+          "ipa": "/aɪv ɪkˈsiːdɪd ðə ɪnˈvɛntəri ˈlɪmət ɪn kriˈeɪtɪv moʊd/",
+          "linking": [
+            "exceeded の語末子音 /d/ が the の初頭 /ə/ に連結。結果 [ɪkˈsiːdɪd ə] イクシーディド・ア",
+            "mode は語末音 /d/ だが、文末なので特に連結なし。但し in the による弱形あり"
+          ],
+          "kana": "アイヴ イクシーディド ザ インベンタリー リミット イン クリエイティヴ モード"
+        },
+        {
+          "en": "The redstone signal has exceeded the maximum range.",
+          "ja": "レッドストーン信号は最大範囲を超えてしまった。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl hæz ɪkˈsiːdɪd ðə ˈmæksɪməm reɪndʒ/",
+          "linking": [
+            "exceeded の語末子音 /d/ が the の初頭 /ə/ に連結。結果 [ɪkˈsiːdɪd ə] イクシーディド・ア",
+            "maximum の語末子音 /m/ が range の初頭 /r/ に連結（子音+子音だが自然に流れる）"
+          ],
+          "kana": "ザ レッドストーン シグナル ハズ イクシーディド ザ マックスィマム レインジ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "exceeding",
+      "ipa": "/ɪkˈsiːdɪŋ/",
+      "examples": [
+        {
+          "en": "Exceeding the height limit will cause lag on the server.",
+          "ja": "高さ制限を超えるとサーバーでラグが発生します。",
+          "ipa": "/ɪkˈsiːdɪŋ ðə haɪt ˈlɪmət wɪl kɔz læɡ ɑn ðə ˈsɝvər/",
+          "linking": [
+            "exceeding の語末 /ŋ/ が the の初頭 /ə/ に連結。結果 [ɪkˈsiːdɪŋ ə] イクシーディング・ア",
+            "lag の語末子音 /ɡ/ が on の初頭 /ɑ/ に連結。結果 [læɡ ɑn] ラッグ・オン"
+          ],
+          "kana": "イクシーディング ザ ハイト リミット ウィル コーズ ラッグ オン ザ サーバー"
+        },
+        {
+          "en": "We are currently exceeding our resource production goals.",
+          "ja": "私たちは現在、資源生産目標を上回っています。",
+          "ipa": "/wi ɑr kɚˈɛntli ɪkˈsiːdɪŋ ˈaʊər ˈrisoʊrs prəˈdʌkʃən ɡoʊlz/",
+          "linking": [
+            "exceeding の語末 /ŋ/ が our の初頭 /aʊ/ に連結。結果 [ɪkˈsiːdɪŋ aʊ] イクシーディング・アウ",
+            "production の語末子音 /n/ が goals の初頭 /ɡ/ に連結（子音+子音で自然な流れ）"
+          ],
+          "kana": "ウィー アー カレントリー イクシーディング アウアー リソース プロダクション ゴールズ"
+        }
+      ]
+    }
   ]
 }

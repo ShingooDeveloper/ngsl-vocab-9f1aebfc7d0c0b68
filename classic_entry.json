@@ -67,5 +67,97 @@
       ],
       "kana": "ビルディング ウィ ストーン ブラックス ギヴズ ユアー ベイス ア クラシック スタイル"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "classics",
+      "ipa": "/ˈklæsɪks/",
+      "examples": [
+        {
+          "en": "Minecraft classics like Survival and Creative modes are always popular.",
+          "ja": "マインクラフトの古典的なモード、サバイバルとクリエイティブは常に人気があります。",
+          "ipa": "/ˈmaɪnˌkræft ˈklæsɪks laɪk sɚˈvaɪvəl ənd kriˈeɪtɪv moʊdz ɑɹ ˈɔlweɪz ˈpɑpjəlɚ/",
+          "linking": [
+            "Minecraft の末尾 /t/ が classics の /k/ に未開放で接する：[ˈmaɪnˌkræft̚ ˈklæsɪks]",
+            "and は機能語で弱形 /ənd/ に弱化：[ənd]",
+            "Creative の末尾 /v/ が modes の /m/ に接する：[kriˈeɪtɪv moʊdz]"
+          ],
+          "kana": "マインクラフト クラシックス ライク サーヴァイヴァル アンド クリエイティヴ モーズ アー オールウェイズ ポピュラー"
+        },
+        {
+          "en": "Stone tools are the classics of early game progression.",
+          "ja": "石道具はゲーム初期段階の古典的な道具です。",
+          "ipa": "/stoʊn tulz ɑɹ ðə ˈklæsɪks əv ˈɝli ɡeɪm ˈproʊɡrɛʃən/",
+          "linking": [
+            "tools の末尾 /z/ が are の /ɑ/ に連結：[tulz ɑɹ]",
+            "the は冠詞で弱形 /ðə/：[ðə]",
+            "of は前置詞で弱形 /əv/：[əv]"
+          ],
+          "kana": "ストーン トゥールズ アー ザ クラシックス アヴ アーリー ゲイム プログレッション"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more classic",
+      "ipa": "/mɔɹ ˈklæsɪk/",
+      "examples": [
+        {
+          "en": "Building with stone is more classic than using dirt blocks.",
+          "ja": "土ブロックを使うよりも、石で建築する方がより古典的です。",
+          "ipa": "/ˈbɪldɪŋ wɪð stoʊn ɪz mɔɹ ˈklæsɪk ðæn ˈjuːzɪŋ dɚt blɑks/",
+          "linking": [
+            "with の末尾 /ð/ が stone の /st/ に接する：[wɪð stoʊn]",
+            "than の末尾 /n/ が using の /j/ に接する：[ðæn ˈjuːzɪŋ]",
+            "dirt の末尾 /t/ が blocks の /b/ に接する：[dɚt blɑks]"
+          ],
+          "kana": "ビルディング ウィズ ストーン イズ モー クラシック ザン ユージング ダート ブラックス"
+        },
+        {
+          "en": "The original Survival mode is more classic than Hardcore mode.",
+          "ja": "オリジナルのサバイバルモードはハードコアモードよりもより古典的です。",
+          "ipa": "/ðə əˈrɪdʒənəl sɚˈvaɪvəl moʊd ɪz mɔɹ ˈklæsɪk ðæn ˈhɑrdˌkoʊr moʊd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/：[ðə]",
+            "mode の末尾 /d/ が is の /ɪ/ に連結：[moʊd ɪz]",
+            "than の末尾 /n/ が Hardcore の /h/ に接する：[ðæn ˈhɑrdˌkoʊr]"
+          ],
+          "kana": "ザ アリジナル サーヴァイヴァル モード イズ モー クラシック ザン ハードコア モード"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most classic",
+      "ipa": "/moʊst ˈklæsɪk/",
+      "examples": [
+        {
+          "en": "Mining with a wooden pickaxe is the most classic way to start.",
+          "ja": "木製つるはしで採掘することが最も古典的な開始方法です。",
+          "ipa": "/ˈmaɪnɪŋ wɪð ə ˈwʊdən ˈpɪkˌæks ɪz ðə ˈmoʊst ˈklæsɪk weɪ tu stɑrt/",
+          "linking": [
+            "with の末尾 /ð/ が a の /ə/ に連結：[wɪð ə]",
+            "pickaxe の末尾 /s/ が is の /ɪ/ に連結：[ˈpɪkˌæks ɪz]",
+            "the は冠詞で弱形 /ðə/、to は機能語で弱形 /tə/：[ðə] [tə]"
+          ],
+          "kana": "マイニング ウィズ ア ウッデン ピッカックス イズ ザ モースト クラシック ウェイ トゥ スタート"
+        },
+        {
+          "en": "A simple stone house is the most classic building design in Minecraft.",
+          "ja": "シンプルな石の家はマインクラフトにおいて最も古典的な建築設計です。",
+          "ipa": "/ə ˈsɪmpəl stoʊn haʊs ɪz ðə ˈmoʊst ˈklæsɪk ˈbɪldɪŋ dɪˈzaɪn ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "A は冠詞で弱形 /ə/：[ə]",
+            "simple の末尾 /l/ が stone の /st/ に接する：[ˈsɪmpəl stoʊn]",
+            "house の末尾 /s/ が is の /ɪ/ に連結、the は弱形 /ðə/：[haʊs ɪz] [ðə]"
+          ],
+          "kana": "ア シンプル ストーン ハウス イズ ザ モースト クラシック ビルディング ディザイン イン マインクラフト"
+        }
+      ]
+    }
   ]
 }

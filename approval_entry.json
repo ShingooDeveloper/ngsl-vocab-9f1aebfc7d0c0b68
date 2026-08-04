@@ -70,5 +70,35 @@
       ],
       "kana": "ウィ ニード タ ゲラプルーヴァル ビフォア プレイシング ティーエヌティー ヒア"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "approvals",
+      "ipa": "/əˈpruːvəlz/",
+      "examples": [
+        {
+          "en": "You need approvals for admin commands.",
+          "ja": "管理者コマンドを実行するために、あなたは複数の承認が必要です。",
+          "ipa": "[juː ˈniːdəˈpruːvəlz fɚ ˈædmɪn kəˈmændz]",
+          "linking": [
+            "need approvals → 語末子音 /d/ が母音 /ə/ に連結 [ˈniːdəˈpruːvəlz] ニーダプルーヴァルズ",
+            "for → 機能語は弱形 /fɚ/"
+          ],
+          "kana": "ユー ニーダプルーヴァルズ ファー アドミン コマンズ"
+        },
+        {
+          "en": "Server admins grant approvals for large builds.",
+          "ja": "サーバー管理者は、大規模な建築に対して複数の承認を与えます。",
+          "ipa": "[ˈsɚvɚ ˈædmɪnz ɡræɾəˈpruːvəlz fɚ lɑrdʒ ˈbɪldz]",
+          "linking": [
+            "grant approvals → 語末子音 /t/ が母音 /ə/ に連結し、フラップT [ɾ] に変化。結果は [ɡræɾə] グララ。",
+            "for → 機能語は弱形 /fɚ/"
+          ],
+          "kana": "サーヴァー アドミンズ グララプルーヴァルズ ファー ラージ ビルズ"
+        }
+      ]
+    }
   ]
 }

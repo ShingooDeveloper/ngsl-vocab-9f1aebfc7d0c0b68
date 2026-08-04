@@ -60,5 +60,113 @@
       ],
       "kana": "ザ アラーム システム ディテクティド ア スレット アット アワー ベイス エントレンス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "detects",
+      "ipa": "/dɪˈtɛkts/",
+      "examples": [
+        {
+          "en": "A sensor detects any movement nearby.",
+          "ipa": "[ə ˈsɛnsə dɪˈtɛkts ˈɛniː ˈmuːvmənt ˈneɚbi]",
+          "linking": [
+            "A sensor - 機能語 a の弱形 /ə/ が s に連結 [əˈsɛnsər]",
+            "detects any - 語末子音 /s/ が母音 /ɛ/ に連結"
+          ],
+          "kana": "ア・センサー ディテクツ エニー ムーヴメント ニアーバイ"
+        },
+        {
+          "en": "It detects redstone signals perfectly.",
+          "ipa": "[ɪt̚ dɪˈtɛkts ˈrɛdˌstoʊn ˈsɪɡnəlz ˈpɚfɪktli]",
+          "linking": [
+            "It detects - /t/ が未開放で次の /d/ に繋がる [ɪt̚ dɪˈtɛkts]",
+            "detects redstone - 語末子音 /s/ が子音 /r/ に続く（連結なし）"
+          ],
+          "kana": "イッ ディテクツ レッドストウン シグナルズ パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "detected",
+      "ipa": "/dɪˈtɛktɪd/",
+      "examples": [
+        {
+          "en": "I detected a skeleton in the cave.",
+          "ipa": "[aɪ dɪˈtɛktɪd ə ˈskɛlɪtn̩ ɪn ðə ˈkeɪv]",
+          "linking": [
+            "detected a - 語末子音 /d/ が母音 /ə/ に連結 [dɪˈtɛktɪdə]",
+            "in the - 子音+子音で連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ディテクティダ スケリトン イン ザ ケイヴ"
+        },
+        {
+          "en": "We detected lava under our base.",
+          "ipa": "[wi dɪˈtɛktɪd ˈlɑvə ˈʌndɚ ˈaʊɚ ˈbeɪs]",
+          "linking": [
+            "detected lava - 子音+子音で連結なし",
+            "under our - 語末 /r/ が母音 /aʊ/ に連結 [ˈʌndəɹˈaʊɚ]"
+          ],
+          "kana": "ウィ ディテクティド ラヴァ アンダー アウア ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "detected",
+      "ipa": "/dɪˈtɛktɪd/",
+      "examples": [
+        {
+          "en": "Once an ore is detected, it's marked.",
+          "ipa": "[ʌns ən ˈɔr ɪz dɪˈtɛktɪd ɪts ˈmɑrkt]",
+          "linking": [
+            "an ore - 語末子音 /n/ が母音 /ɔ/ に連結 [ənˈɔr]",
+            "ore is - 語末 /r/ が母音 /ɪ/ に連結 [ˈɔrɪz]",
+            "detected it's - 語末 /d/ が母音 /ɪ/ に連結 [dɪˈtɛktɪd ɪts]"
+          ],
+          "kana": "アンス エン オア イズ ディテクティッド イツ マークト"
+        },
+        {
+          "en": "Any ore detected by the sensor activates redstone.",
+          "ipa": "[ˈɛniː ˈɔr dɪˈtɛktɪd baɪ ðə ˈsɛnsə ˈæktɪveɪts ˈrɛdˌstoʊn]",
+          "linking": [
+            "ore detected - 子音+子音で連結なし",
+            "detected by - 子音+子音で連結なし",
+            "sensor activates - 語末 /ə/ が母音 /æ/ に続く（非rhotic では連結なし）"
+          ],
+          "kana": "エニー オア ディテクティッド バイ ザ センサー アクティベイツ レッドストウン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "detecting",
+      "ipa": "/dɪˈtɛktɪŋ/",
+      "examples": [
+        {
+          "en": "Detecting ores is essential for survival mode.",
+          "ipa": "[dɪˈtɛktɪŋ ˈɔrz ɪz ɪˈsɛnʃəl fɚ sɚˈvaɪvəl ˈmoʊd]",
+          "linking": [
+            "Detecting ores - 鼻音 /ŋ/ が母音 /ɔ/ に連結 [dɪˈtɛktɪŋˈɔrz]",
+            "ores is - 語末子音 /z/ が母音 /ɪ/ に連結 [ˈɔrzɪz]"
+          ],
+          "kana": "ディテクティング オアーズ イズ イセンシャル ファー サーヴァイヴァル モウド"
+        },
+        {
+          "en": "Try detecting threats using a sensor.",
+          "ipa": "[traɪ dɪˈtɛktɪŋ ˈθrɛts ˈjuːzɪŋ ə ˈsɛnsə]",
+          "linking": [
+            "Try detecting - 子音+子音で連結なし",
+            "using a - 鼻音 /ŋ/ が弱形 /ə/ に連結 [ˈjuːzɪŋə]"
+          ],
+          "kana": "トライ ディテクティング スレッツ ユージング ア・センサー"
+        }
+      ]
+    }
   ]
 }

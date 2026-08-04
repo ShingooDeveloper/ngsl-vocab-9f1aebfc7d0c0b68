@@ -43,5 +43,35 @@
       "kana": "ウィル ファイン ウォーラー アン フィッシュ アッザ レイク"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "lakes",
+      "ipa": "/leɪks/",
+      "examples": [
+        {
+          "en": "We swam in the lakes to cool down.",
+          "ja": "湖で泳いで涼しくなりました。",
+          "ipa": "/wi ˈswæm ɪn ðə ˈleɪks tə ˈkuːl ˈdaʊn/",
+          "linking": [
+            "in the - 語末子音 /n/ が弱形 the /ðə/ に連結 [ɪnðə]「インザ」",
+            "to - 機能語 to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ウィー スウェム インザ レイクス タ クール ダウン"
+        },
+        {
+          "en": "Many lakes fill with water during the rainy season.",
+          "ja": "雨の季節に多くの湖が水で満たされます。",
+          "ipa": "/ˈmɛni ˈleɪks fɪl wɪð ˈwɔɾər ˈdʊrɪŋ ðə ˈreɪni ˈsizən/",
+          "linking": [
+            "water - 母音に挟まれた t がフラップ化 [ɾ] し連結 [ˈwɔɾər]「ウォーラー」",
+            "the - 機能語 the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "メニ レイクス フィル ウィズ ウォーラー ドゥーリング ザ レイニー シーズン"
+        }
+      ]
+    }
+  ]
 }

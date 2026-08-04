@@ -195,6 +195,106 @@
           "kana": "バイ ウォーリング ウィズ イーチ アザー プレイアーズ ディスカバード ニュー ストラテジーズ エン タクティクス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is warring",
+      "ipa": "/ɪz ˈwɔrɪŋ/",
+      "examples": [
+        {
+          "en": "The two armies are warring over control of the nether fortress.",
+          "ja": "2つの軍隊がネザー砦の支配権を巡って戦闘中だ。",
+          "ipa": "/ðə tu ˈɑrmiz ɑr ˈwɔrɪŋ ˈoʊvər kənˈtroʊl əv ðə ˈnɛðər ˈfɔrtrəs/",
+          "linking": [
+            "The は弱形 /ðə/。two に先行 [ðə tu] ザ トゥー",
+            "are は弱形 /ɑr/。warring に先行 [ɑr ˈwɔrɪŋ] アー ウォーリング",
+            "over の末尾 /r/ が control の初頭 /k/ に続く（子音+子音）",
+            "of は弱形 /əv/。the の弱形 /ðə/ に連結 [əv ðə] アヴ ザ"
+          ],
+          "kana": "ザ トゥー アーミーズ アー ウォーリング オーヴァー コントロール アヴ ザ ネザー フォートレス"
+        },
+        {
+          "en": "I am warring against the Wither boss right now in this world.",
+          "ja": "このワールドで今、私はウィザーボスと戦闘中だ。",
+          "ipa": "/aɪ æm ˈwɔrɪŋ əˈɡɛnst ðə ˈwɪðər bɑs raɪt naʊ ɪn ðɪs wɝld/",
+          "linking": [
+            "am の弱形 /əm/。warring に先行 [æm ˈwɔrɪŋ] アム ウォーリング",
+            "against の末尾 /t/ が the の弱形 /ðə/ に未開放で続く [əˈɡɛns̚ ðə] アゲンスト ザ",
+            "now の末尾 /w/ が in の初頭 /ɪ/ に続く（子音+子音）"
+          ],
+          "kana": "アイ アム ウォーリング アゲンスト ザ ウィザー ボス ライト ナウ イン ディス ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was warring",
+      "ipa": "/wəz ˈwɔrɪŋ/",
+      "examples": [
+        {
+          "en": "While they were warring, the village was under constant siege.",
+          "ja": "彼らが戦っている間、村は絶えず包囲下にあった。",
+          "ipa": "/waɪl ðeɪ wər ˈwɔrɪŋ ðə ˈvɪlɪdʒ wəz ˈʌndər ˈkɑnstənt sɪdʒ/",
+          "linking": [
+            "while の末尾 /l/ が they の初頭 /ð/ に続く（子音+子音）",
+            "they の末尾 /eɪ/ が were の初頭 /w/ に続く（母音+子音）。were は弱形 /wər/。[ðeɪ wər] ゼイ ウァー",
+            "the は弱形 /ðə/。village に先行 [ðə ˈvɪlɪdʒ] ザ ヴィリジ",
+            "was は弱形 /wəz/。under に先行 [wəz ˈʌndər] ワズ アンダー"
+          ],
+          "kana": "ホワイル ゼイ ウァー ウォーリング ザ ヴィリジ ワズ アンダー コンスタント シージ"
+        },
+        {
+          "en": "My faction was warring for rare resources when the truce was announced.",
+          "ja": "停戦が発表されたとき、私たちの派閥はレアなリソースのために戦っていた。",
+          "ipa": "/maɪ ˈfækʃən wəz ˈwɔrɪŋ fɔr ˈrɛr ˈrɛsɔrsəz wɛn ðə trus wəz əˈnaʊnst/",
+          "linking": [
+            "was は弱形 /wəz/。warring に先行 [wəz ˈwɔrɪŋ] ワズ ウォーリング",
+            "for は弱形 /fər/。rare に先行 [fər ˈrɛr] ファ レア",
+            "when の末尾 /n/ が the の弱形 /ðə/ に未開放で続く [wɛn̚ ðə] ウェン ザ",
+            "the は弱形 /ðə/。truce に先行 [ðə trus] ザ トゥルース",
+            "was は弱形 /wəz/。announced に先行 [wəz əˈnaʊnst] ワズ アナウンスト"
+          ],
+          "kana": "マイ ファクション ワズ ウォーリング ファ レア レソーシーズ ウェン ザ トゥルース ワズ アナウンスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been warring",
+      "ipa": "/həd bɪn ˈwɔrɪŋ/",
+      "examples": [
+        {
+          "en": "The kingdoms had been warring for decades before they agreed to make peace.",
+          "ja": "その王国たちは平和を作ることに同意する前に何十年も戦闘していた。",
+          "ipa": "/ðə ˈkɪŋdəmz həd bɪn ˈwɔrɪŋ fɔr ˈdɛkeɪdz bɪˈfɔr ðeɪ əˈɡrid tu meɪk pis/",
+          "linking": [
+            "The は弱形 /ðə/。kingdoms に先行 [ðə ˈkɪŋdəmz] ザ キングダムズ",
+            "had は弱形 /həd/。been に先行 [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が warring の初頭 /w/ に未開放で続く [bɪn̚ ˈwɔrɪŋ] ビン ウォーリング",
+            "for は弱形 /fər/。decades に先行 [fər ˈdɛkeɪdz] ファ デケイズ",
+            "before の末尾 /r/ が they の初頭 /ð/ に続く（子音+子音）",
+            "to は弱形 /tə/。make に先行 [tə meɪk] タ メイク"
+          ],
+          "kana": "ザ キングダムズ ハド ビン ウォーリング ファ デケイズ ビフォア ゼイ アグリード タ メイク ピース"
+        },
+        {
+          "en": "We had been warring since the server started until a new leader brought everyone together.",
+          "ja": "サーバーが始まってから新しいリーダーがみんなを一つにするまで、私たちは戦い続けていた。",
+          "ipa": "/wi həd bɪn ˈwɔrɪŋ sɪns ðə ˈsɝvər ˈstɑrtəd ənˈtɪl ə nu ˈlidər brɔt ˈɛvriwʌn təˈɡɛðər/",
+          "linking": [
+            "had は弱形 /həd/。been に先行 [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が warring の初頭 /w/ に未開放で続く [bɪn̚ ˈwɔrɪŋ] ビン ウォーリング",
+            "since の末尾 /s/ が the の弱形 /ðə/ に続く（子音+子音）[sɪns ðə] シンス ザ",
+            "the は弱形 /ðə/。server に先行 [ðə ˈsɝvər] ザ サーヴァー",
+            "started の末尾 /d/ が until の初頭 /ə/ に連結 [ˈstɑrtəd ənˈtɪl] スターテッド アンティル",
+            "a は弱形 /ə/。new に先行 [ə nu] ア ニュー"
+          ],
+          "kana": "ウィ ハド ビン ウォーリング シンス ザ サーヴァー スターテッド アンティル ア ニュー リーダー ブロート エブリワン トゥゲザー"
+        }
+      ]
     }
   ],
   "idioms": [

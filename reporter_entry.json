@@ -58,5 +58,37 @@
       ],
       "kana": "ザ ニューズ リポーター トゥールダス アバウッ ザ ニュー バイオーム ディスカヴァリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "reporters",
+      "ipa": "/rɪˈpɔɹtɚz/",
+      "examples": [
+        {
+          "en": "These reporters found a massive cave system under the desert.",
+          "ja": "これらのレポーターは砂漠の下に巨大な洞窟システムを見つけました。",
+          "ipa": "/ðiːz rɪˈpɔɹtɚz faʊnd ə ˈmæsɪv ˈkeɪv ˈsɪstəm ˈʌndɚ ðə ˈdɛzəɹt/",
+          "linking": [
+            "found /d/ が a /ə/ に連結。a は弱形。",
+            "system /m/ が under /ʌ/ に連結。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "ディーズ リポーターズ ファウンダ マッシヴ ケイヴ システムアンダー ザ デザート"
+        },
+        {
+          "en": "The reporters were excited about the huge diamond deposit.",
+          "ja": "レポーターたちはその巨大なダイヤモンド鉱床に興奮していました。",
+          "ipa": "/ðə rɪˈpɔɹtɚz wər ɪkˈsaɪtɪd əˈbaʊt ðə ˈhjuːdʒ ˈdaɪmənd ˈdɪpaʊzɪt/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "were は弱形 /wər/。excited /ɪ/ に連結。",
+            "about の末尾 /t/ は未開放。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ リポーターズ ワーイクサイティダバウト ザ ヒューージ ダイモンド ディポーズィット"
+        }
+      ]
+    }
   ]
 }

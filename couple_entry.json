@@ -215,6 +215,85 @@
           "kana": "アイム カプリング ザ レッドストーン ラインズ タ オータメイト ザ エンタイアー システム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is coupling",
+      "ipa": "/ɪz ˈkʌpəlɪŋ/",
+      "examples": [
+        {
+          "en": "She is coupling the redstone components to the main circuit.",
+          "ja": "彼女はレッドストーン部品をメイン回路に結合している。",
+          "ipa": "/ʃi ɪz ˈkʌpəlɪŋ ðə ˈrɛdˌstoʊn kəmˈpoʊnənts tu ðə ˈmeɪn ˈsɜrkət/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "the は弱形 /ðə/、to は弱形 /tə/"
+          ],
+          "kana": "シー イズ カプリング ザ レッドストーン コンポーネンツ タ ザ メイン サーキット"
+        },
+        {
+          "en": "We are coupling two command blocks together for the automated farm system.",
+          "ja": "自動化農場システム用に2つのコマンドブロックを結合している。",
+          "ipa": "/wi ɑr ˈkʌpəlɪŋ ˈtuː kəˈmænd blɑks təˈɡɛðər fɔr ðə ˈɔtəmeɪtəd fɑrm ˈsɪstəm/",
+          "linking": [
+            "are → 弱形 /ɚ/、for は弱形 /fɚ/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ア カプリング トゥー カマンド ブロックス トゥゲザー ファー ザ オータメイティッド ファーム システム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was coupling",
+      "ipa": "/wəz ˈkʌpəlɪŋ/",
+      "examples": [
+        {
+          "en": "He was coupling the irrigation lines when the creeper suddenly exploded.",
+          "ja": "彼がクリーパーが突然爆発したときに灌漑線を結合していた。",
+          "ipa": "/hi wəz ˈkʌpəlɪŋ ðə ˌɪrɪˈɡeɪʃən ˈlaɪnz wɛn ðə ˈkriːpər ˈsʌdənli ɪkˈsploʊdəd/",
+          "linking": [
+            "was → 弱形 /wəz/、the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ワズ カプリング ザ イリゲイション ラインズ ウェン ザ クリーパー サッデンリー エクスプローディッド"
+        },
+        {
+          "en": "They were coupling the water channels when the server went offline.",
+          "ja": "サーバーがオフラインになったとき、彼らは水路を結合していた。",
+          "ipa": "/ðeɪ wɜr ˈkʌpəlɪŋ ðə ˈwɔtər ˈtʃænəlz wɛn ðə ˈsɜrvər wɛnt ˈɔfˌlaɪn/",
+          "linking": [
+            "were → 弱形 /wɚ/、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ウェア カプリング ザ ウォーター チャンネルズ ウェン ザ サーバー ウェント オフライン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been coupling",
+      "ipa": "/hæd bɪn ˈkʌpəlɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the redstone engineer arrived, I had been coupling the circuits for several hours.",
+          "ja": "レッドストーンエンジニアが到着するまでに、私は何時間もの間回路を結合していた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈrɛdˌstoʊn ˌɛndʒɪˈnɪr əˈraɪvd | aɪ hæd bɪn ˈkʌpəlɪŋ ðə ˈsɜrkəts fɔr ˈsɛvərəl ˈaʊɚz/",
+          "linking": [
+            "the は弱形 /ðə/、had → 弱形 /həd/、been → 弱形 /bɪn/、for は弱形 /fɚ/"
+          ],
+          "kana": "バイ ザ タイム ザ レッドストーン エンジニアー アライヴド、アイ ハッド ビン カプリング ザ サーキッツ ファー セヴァラル アワーズ"
+        },
+        {
+          "en": "They had been coupling the transit rails for days before the project was finally completed.",
+          "ja": "プロジェクトが最終的に完成するまで、彼らは何日間も輸送用レールを結合していた。",
+          "ipa": "/ðeɪ hæd bɪn ˈkʌpəlɪŋ ðə ˈtrænzət ˈreɪlz fɔr ˈdeɪz bɪˈfɔr ðə ˈprɑdʒɛkt wəz ˈfaɪnəli kəmˈpliːtəd/",
+          "linking": [
+            "had → 弱形 /həd/、been → 弱形 /bɪn/、the は弱形 /ðə/、for は弱形 /fɚ/、was → 弱形 /wəz/"
+          ],
+          "kana": "ゼイ ハッド ビン カプリング ザ トランジット レイルズ ファー デイズ ビフォー ザ プロジェクト ワズ ファイナリー カムプリーティッド"
+        }
+      ]
     }
   ]
 }

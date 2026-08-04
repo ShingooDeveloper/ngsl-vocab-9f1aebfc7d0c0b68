@@ -117,10 +117,10 @@
           "ipa": "/wi meɪnˈteɪnd ðə ˈrɛdˌstoʊn ˈsɝːkɪt ɪn ˈpɝːfɪkt kənˈdɪʃən/",
           "linking": [
             "maintained の /d/ が the の弱形 /ðə/ に連結 [meɪnˈteɪndə] メインテインド ザ",
-            "circuit の t が in の /ɪ/ に連結。未開放で続く [ˈsɝːkɪt ɪn] サーキッティン",
-            "perfect の t が condition の /k/ に未開放で接続 [ˈpɝːfɪkt kənˈdɪʃən] パーフェクト コンディション"
+            "circuit の語末 /t/ が in の語頭 /ɪ/ に未開放で続く [ˈsɝːkɪt ɪn] サーキット イン",
+            "perfect の語末 /t/ が condition の語頭 /k/ に未開放で続く [ˈpɝːfɪkt kənˈdɪʃən] パーフェクト コンディション"
           ],
-          "kana": "ウィ メインテインド ザ レッドストーン サーキッティン パーフェクト コンディション"
+          "kana": "ウィ メインテインド ザ レッドストーン サーキット イン パーフェクト コンディション"
         },
         {
           "en": "The builder maintained control of the project throughout.",
@@ -176,11 +176,9 @@
           "ja": "インベントリーを管理することで、貴重なアイテムを失うことを防ぎます。",
           "ipa": "/meɪnˈteɪnɪŋ jɚ ɪnˈvɛntəri prɪˈvɛnts ju frəm ˈluːzɪŋ ˈvæljəbl ˈaɪtəmz/",
           "linking": [
-            "maintaining の /ŋ/ は鼻音。your に続く [meɪnˈteɪnɪŋ jɚ] メインテイニング ヤー",
-            "inventory の /i/ が prevents に連結 [ɪnˈvɛntəri prɪˈvɛnts] インヴェントリー プリヴェンツ",
-            "prevents の /s/ が losing に連結 [prɪˈvɛnts ˈluːzɪŋ] プリヴェンツ ルーズィング"
+            "prevents の /s/ が losing の /l/ に連結 [prɪˈvɛnts ˈluːzɪŋ] プリヴェンツ ルーズィング"
           ],
-          "kana": "メインテイニング ヤー インヴェントリー プリヴェンツ ユー フラム ルーズィング ヴァリュアブル アイタムズ"
+          "kana": "メインテイニング ユアー インヴェントリー プリヴェンツ ユー フラム ルーズィング ヴァリュアブル アイタムズ"
         },
         {
           "en": "The admin team is maintaining the best experience for all players now.",
@@ -193,6 +191,104 @@
             "for は弱形 /fər/、players に続く [fər ˈpleɪərz] ファー プレイヤーズ"
           ],
           "kana": "ザ アドミン ティーム イズ メインテイニング ザ ベスト エクスピアリアンス ファー オール プレイヤーズ ナウ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is maintaining",
+      "ipa": "/ɪz meɪnˈteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The crew is maintaining the redstone doors to keep them working smoothly.",
+          "ja": "クルーがレッドストーン ドアを保守し続けて、それらが滑らかに動き続けるようにしています。",
+          "ipa": "/ðə kruː ɪz meɪnˈteɪnɪŋ ðə ˈrɛdˌstoʊn dɔrz tə kɪp ðəm ˈwɝːkɪŋ ˈsmuːðli/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "crew の /u/ と is の /ɪ/ が開放。is の /z/ が maintaining 語頭 /m/ に連結 [kruː ɪz meɪnˈteɪnɪŋ] クルー イズ メインテイニング",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/、keep に続く [tə kɪp] タ キープ"
+          ],
+          "kana": "ザ クルー イズ メインテイニング ザ レッドストーン ドアーズ タ キープ ザム ワーキング スムーズリー"
+        },
+        {
+          "en": "Players are maintaining their bases while exploring new areas.",
+          "ja": "プレイヤーたちは新しいエリアを探索しながら、ベースを保ち続けています。",
+          "ipa": "/ˈpleɪərz ɑr meɪnˈteɪnɪŋ ðɛr ˈbeɪsɪz waɪl ɪkˈsplɔrɪŋ ˈnu ˈɛriəz/",
+          "linking": [
+            "players の /z/ が are 語頭 /ɑ/ に連結 [ˈpleɪərz ɑr] プレイヤーズ エアー",
+            "are の /r/ が maintaining 語頭 /m/ に連結 [ɑr meɪnˈteɪnɪŋ]",
+            "their の /r/ が bases 語頭 /b/ に連結 [ðɛr ˈbeɪsɪz] ゼアー ベイシズ",
+            "while の /l/ が exploring 語頭 /ɛ/ に連結 [waɪl ɪkˈsplɔrɪŋ] ワイル エクスプロアリング"
+          ],
+          "kana": "プレイヤーズ エアー メインテイニング ゼアー ベイシズ ワイル エクスプロアリング ニュー エアリアズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was maintaining",
+      "ipa": "/wəz meɪnˈteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin was maintaining the server while we were building.",
+          "ja": "管理者が私たちが建築している間、サーバーを保守し続けていました。",
+          "ipa": "/ðə ˈædmɪn wəz meɪnˈteɪnɪŋ ðə ˈsɝːvər waɪl wi wər ˈbɪldɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin の /n/ が was に連結。was は弱形 /wəz/ [ˈædmɪn wəz] アドミン ワズ",
+            "was の /z/ が maintaining 語頭 /m/ に連結 [wəz meɪnˈteɪnɪŋ]",
+            "while の /l/ が we に連結。we は /wi/、were は弱形 /wər/ [waɪl wi wər ˈbɪldɪŋ] ワイル ウィ ワー ビルディング"
+          ],
+          "kana": "ザ アドミン ワズ メインテイニング ザ サーバー ワイル ウィ ワー ビルディング"
+        },
+        {
+          "en": "They were maintaining the water flow system throughout the night.",
+          "ja": "彼らは夜通し給水システムの流れを保ち続けていました。",
+          "ipa": "/ðeɪ wər meɪnˈteɪnɪŋ ðə ˈwɔɾər floʊ ˈsɪstəm θruˈaʊt ðə naɪt/",
+          "linking": [
+            "they の /eɪ/ と were 語頭 /w/ が開放。were は弱形 /wər/、その /r/ が maintaining に連結 [ðeɪ wər meɪnˈteɪnɪŋ]",
+            "the は弱形 /ðə/。water の t がフラップ化し /ɾ/ に弱化 [ðə ˈwɔɾər] ザ ウォーラー",
+            "water の /r/ が flow 語頭 /f/ に連結 [ˈwɔɾər floʊ] ウォーラー フロー",
+            "the は弱形 /ðə/ [ðə naɪt] ザ ナイト"
+          ],
+          "kana": "ザイ ワー メインテイニング ザ ウォーラー フロー システム スルーアウト ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been maintaining",
+      "ipa": "/hæd bɪn meɪnˈteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The team had been maintaining the base for weeks before the update.",
+          "ja": "チームはアップデートの前に、数週間ベースを保ち続けていました。",
+          "ipa": "/ðə tim hæd bɪn meɪnˈteɪnɪŋ ðə ˈbeɪs fər wiks bɪˈfɔr ðə ʌpˈdeɪt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "team の /m/ が had に連結 [tim həd] ティーム ハド",
+            "had の /d/ が been 語頭 /b/ に未開放で連接。had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn]",
+            "been の /n/ が maintaining 語頭 /m/ に連結 [bɪn meɪnˈteɪnɪŋ]",
+            "for は弱形 /fər/ [fər wiks] ファー ウィークス"
+          ],
+          "kana": "ザ ティーム ハド ビン メインテイニング ザ ベイス ファー ウィークス ビフォー ザ アップデイト"
+        },
+        {
+          "en": "I had been maintaining the farm when the new feature was released.",
+          "ja": "新機能がリリースされたとき、私は農場を保ち続けていました。",
+          "ipa": "/aɪ hæd bɪn meɪnˈteɪnɪŋ ðə fɑrm wɛn ðə ˈnu ˈfiːtʃər wəz rɪˈlist/",
+          "linking": [
+            "I の /aɪ/ と had 語頭 /h/ が開放。had は弱形 /həd/ [aɪ həd] アイ ハド",
+            "had の /d/ が been 語頭 /b/ に未開放で連接。been は弱形 /bɪn/ [həd bɪn]",
+            "been の /n/ が maintaining 語頭 /m/ に連結 [bɪn meɪnˈteɪnɪŋ]",
+            "when の /n/ が the は弱形 /ðə/ に連結 [wɛn ðə] ウェン ザ",
+            "feature の /r/ が was に連結。was は弱形 /wəz/ [ˈfiːtʃər wəz] フィーチャー ワズ"
+          ],
+          "kana": "アイ ハド ビン メインテイニング ザ ファーム ウェン ザ ニュー フィーチャー ワズ リリースト"
         }
       ]
     }

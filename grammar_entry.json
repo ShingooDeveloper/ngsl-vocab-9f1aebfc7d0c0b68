@@ -70,5 +70,34 @@
       ],
       "kana": "ザ グラマー アヴ レッドストーン ラジック イズ イセンシャル ファ ビルディング アドヴァンスト マシーンズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "grammars",
+      "ipa": "/ˈɡræmɚz/",
+      "examples": [
+        {
+          "en": "The grammars of redstone take time to learn.",
+          "ja": "レッドストーンの文法は、理解するのに時間がかかります。",
+          "ipa": "/ðə ˈɡræmɚz əv ˈrɛdˌstoʊn ˈteɪk ˈtaɪm tu ˈlɝn/",
+          "linking": [
+            "the → /ðə/ 弱形",
+            "of → /əv/ 弱形"
+          ],
+          "kana": "ザ グラマーズ アヴ レッドストーン テイク タイム トゥ ラーン"
+        },
+        {
+          "en": "Master these advanced grammars to become a redstone expert.",
+          "ja": "これらの高度な文法をマスターして、レッドストーン専門家になってください。",
+          "ipa": "/ˈmæstɚ ðiz ədˈvænst ˈɡræmɚz tu bɪˈkʌmə ˈrɛdˌstoʊn ˈɛkspɚt/",
+          "linking": [
+            "become a → become の末尾 /m/ が a /ə/ に連結 [bɪˈkʌmə]"
+          ],
+          "kana": "マスター ディーズ アドヴァンスト グラマーズ トゥ ビカム ア レッドストーン エクスパート"
+        }
+      ]
+    }
   ]
 }

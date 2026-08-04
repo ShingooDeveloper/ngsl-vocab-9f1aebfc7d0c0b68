@@ -44,6 +44,37 @@
       "kana": "ウィ ニーダ ストロング バリア ター キップアウト ザ ウィザー"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "barriers",
+      "ipa": "/ˈbæriərz/",
+      "examples": [
+        {
+          "en": "We placed several barriers around the base.",
+          "ja": "ベースの周りに複数のバリアを置きました。",
+          "ipa": "/wi ˈpleɪsd ˈsɛvrəl ˈbæriərz əˈraʊndə ðə beɪs/",
+          "linking": [
+            "around の末子音 /d/ が the の弱形 /ðə/ に連結。結果は [əˈraʊndə]",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィ プレイスド セヴラル バリアーズ アラウンダ ザ ベイス"
+        },
+        {
+          "en": "These barriers protect us from the mobs.",
+          "ja": "これらのバリアは私たちをモブから守ります。",
+          "ipa": "/ðiz ˈbæriərz prəˈtɛkt ʌs ˈfrəmə ðə mɑbz/",
+          "linking": [
+            "protect の末子音 /t/ が us の初頭母音 /ʌ/ に連結",
+            "from は機能語で弱形 /frəm/ に弱化。the に連結し [ˈfrəmə]",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディーズ バリアーズ プロテクト アス フラマ ザ マブズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "break the barrier",

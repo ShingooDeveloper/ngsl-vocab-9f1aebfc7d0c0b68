@@ -44,5 +44,110 @@
       "kana": "ユー カン クック チキン タ メイク フード"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "chickens",
+      "ipa": "/ˈtʃɪkənz/",
+      "examples": [
+        {
+          "en": "You can breed chickens by feeding them seeds to get eggs and baby chickens.",
+          "ja": "シードを与えて鶏を繁殖させると、卵とベビーチキンが得られます。",
+          "ipa": "/ju kən ˈbrid ˈtʃɪkənz baɪ ˈfidɪŋ ðəm sidz tə ɡɛt ɛɡz ənd ˈbeɪbi ˈtʃɪkənz/",
+          "linking": [
+            "can → 弱形 /kən/（助動詞）",
+            "breed chickens → 語末 /d/ が子音 /tʃ/ に続く（連結なし）[ˈbrid ˈtʃɪkənz]",
+            "feeding them → 語末 /ŋ/ が子音 /ð/ に続く、them は弱形 /ðəm/",
+            "seeds to → 語末 /z/ が子音 /t/ に続く、to は弱形 /tə/"
+          ],
+          "kana": "ユー キャン ブリード チキンズ バイ フィーディング ゼム シーズ タ ゲット エッグズ アンド ベイビー チキンズ"
+        },
+        {
+          "en": "Chickens drop cooked chicken meat when killed by fire or lava.",
+          "ja": "火または溶岩で殺された鶏は加熱されたチキン肉をドロップします。",
+          "ipa": "/ˈtʃɪkənz ˈdrɑp ˈkʊkt ˈtʃɪkən mit wɛn ˈkɪld baɪ ˈfaɪɚ ɔɹ ˈlɑvə/",
+          "linking": [
+            "chickens drop → 語末 /z/ が子音 /d/ に続く [ˈtʃɪkənz ˈdrɑp]",
+            "drop cooked → 語末 /p/ が子音 /k/ に続く（連結なし）",
+            "cooked chicken → 語末 /t/ が子音 /tʃ/ に続く（連結なし）",
+            "chicken meat → 語末 /n/ が子音 /m/ に続く（連結なし）"
+          ],
+          "kana": "チキンズ ドラップ クックト チキン ミート ウェン キルド バイ ファイアー オアー ラーヴァ"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "more chicken",
+      "ipa": "/moʊɹ ˈtʃɪkən/",
+      "examples": [
+        {
+          "en": "Running away from the creeper is more chicken than standing and fighting back.",
+          "ja": "クリーパーから逃げることは、立ち向かって戦い返すより臆病です。",
+          "ipa": "/ˈrʌnɪŋ əˈweɪ ˈfrɑm ðə ˈkripɚ ɪz moʊɹ ˈtʃɪkən ðæn ˈstændɪŋ ənd ˈfaɪtɪŋ ˈbæk/",
+          "linking": [
+            "running away → 語末 /ŋ/ が母音 /ə/ に連結 [ˈrʌnɪŋ əˈweɪ] ラニング アウェイ",
+            "from the → 語末 /m/ が子音 /ð/ に続く、the は弱形 /ðə/",
+            "is more → 語末 /z/ が子音 /m/ に続く [ɪz moʊɹ]",
+            "chicken than → 語末 /n/ が子音 /ð/ に続く [ˈtʃɪkən ðæn]",
+            "and fighting → and は弱形 /ənd/、語末 /d/ が子音 /f/ に続く"
+          ],
+          "kana": "ラニング アウェイ フラム ザ クリーパー イズ モア チキン ザン スタンディング アンド ファイティング バック"
+        },
+        {
+          "en": "Building a dirt house is more chicken than exploring the deep caves without armor.",
+          "ja": "土の家を建てることは、防具なしで深い洞窟を探検するより臆病です。",
+          "ipa": "/ˈbɪldɪŋ ə ˈdɝt ˈhaʊs ɪz moʊɹ ˈtʃɪkən ðæn ɪkˈsplɔɹɪŋ ðə ˈdip ˈkeɪvz wɪðˈaʊt ˈɑɹmɚ/",
+          "linking": [
+            "building a → 語末 /ŋ/ が弱形 /ə/ に連結 [ˈbɪldɪŋ ə] ビルディング ア",
+            "a dirt → a は弱形 /ə/、語末が子音に続く",
+            "house is → 語末 /s/ が母音 /ɪ/ に連結 [ˈhaʊz ɪz] ハウズ イズ",
+            "is more → 語末 /z/ が子音 /m/ に続く [ɪz moʊɹ]",
+            "exploring the → 語末 /ŋ/ が子音 /ð/ に続く、the は弱形 /ðə/"
+          ],
+          "kana": "ビルディング ア ダート ハウズ イズ モア チキン ザン イクスプロアリング ザ ディープ ケイヴス ウィザウト アーマー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "most chicken",
+      "ipa": "/moʊst ˈtʃɪkən/",
+      "examples": [
+        {
+          "en": "The most chicken thing you can do is hide in your base when monsters spawn.",
+          "ja": "最も臆病なことは、モンスターが出現したときに自分の基地に隠れることです。",
+          "ipa": "/ðə ˈmoʊst ˈtʃɪkən θɪŋ ju kən ˈdu ɪz ˈhaɪd ɪn jɔɹ ˈbeɪs wɛn ˈmɑnstɚz ˈspɑn/",
+          "linking": [
+            "the most → the は弱形 /ðə/、語末 /st/ が子音 /tʃ/ に続く [ðə ˈmoʊst ˈtʃɪkən]",
+            "can do → can は弱形 /kən/、語末 /n/ が子音 /d/ に続く",
+            "do is → 語末 /u/ が母音 /ɪ/ に連結 [ˈdu ɪz] ドゥー イズ",
+            "in your → 語末 /n/ が子音 /j/ に続く [ɪn jɔɹ]",
+            "when monsters → 語末 /n/ が子音 /m/ に続く [wɛn ˈmɑnstɚz]"
+          ],
+          "kana": "ザ モウスト チキン シング ユー キャン ドゥー イズ ハイド イン ユア ベイス ウェン モンスターズ スポーン"
+        },
+        {
+          "en": "Logging off before you win feels like the most chicken move in the entire game.",
+          "ja": "勝つ前にログアウトすることは、ゲーム全体で最も臆病な行動に感じます。",
+          "ipa": "/ˈlɔɡɪŋ ˈɔf bɪˈfɔɹ ju ˈwɪn filz laɪk ðə ˈmoʊst ˈtʃɪkən muv ɪn ðə ɪnˈtaɪɚ ˈɡeɪm/",
+          "linking": [
+            "logging off → 語末 /ŋ/ が母音に先行 [ˈlɔɡɪŋ ˈɔf] ロギング オフ",
+            "off before → 語末 /f/ が子音 /b/ に続く（連結なし）",
+            "before you → 語末 /ɹ/ が子音 /j/ に続く [bɪˈfɔɹ ju]",
+            "feels like → 語末 /z/ が子音 /l/ に続く [filz laɪk]",
+            "the most → the は弱形 /ðə/、語末 /st/ が子音 /tʃ/ に続く",
+            "chicken move → 語末 /n/ が子音 /m/ に続く [ˈtʃɪkən muv]",
+            "move in → 語末 /v/ が母音 /ɪ/ に連結 [muv ɪn] ムーヴ イン",
+            "entire game → 語末 /ɹ/ が子音 /ɡ/ に続く [ɪnˈtaɪɚ ˈɡeɪm]"
+          ],
+          "kana": "ロギング オフ ビフォア ユー ウィン フィールズ ライク ザ モウスト チキン ムーヴ イン ザ インタイアー ゲイム"
+        }
+      ]
+    }
+  ]
 }

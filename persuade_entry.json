@@ -71,5 +71,115 @@
       ],
       "kana": "ザビルダーズ ワー パースウェイディッター リストア ザオウルド フォートリス インステッド アヴ ディモリッシン イット"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "persuades",
+      "ipa": "/pərˈsweɪdz/",
+      "examples": [
+        {
+          "en": "He persuades all his teammates to build a shared base together.",
+          "ja": "彼はチームメイト全員で共用拠点を建築するよう説得する。",
+          "ipa": "/hi pərˈsweɪdzɔl hɪz ˈtimmeɪts tə bɪld ə ˈʃɛrd beɪs təˈɡɛðər/",
+          "linking": [
+            "persuades all → persuades の語末子音 /z/ が all の /ɔ/ に連結 [pərˈsweɪdzɔl] パースウェイズオール"
+          ],
+          "kana": "ヒー パースウェイズオール ヒズ ティームメイツ ター ビルド ア シェアド ベイス トゥゲザー"
+        },
+        {
+          "en": "She persuades everyone to gather resources before winter comes.",
+          "ja": "彼女は皆に冬が来る前に資源を集めるよう説得する。",
+          "ipa": "/ʃi pərˈsweɪdzˈɛvriwən tə ˈɡæðər ˈrɛsɔrsɪz bɪˈfɔr ˈwɪntər kʌmz/",
+          "linking": [
+            "persuades everyone → persuades の語末子音 /z/ が everyone の /ɛ/ に連結 [pərˈsweɪdzˈɛvriwən] パースウェイズエヴリワン"
+          ],
+          "kana": "シー パースウェイズエヴリワン ター ギャザー レソーシーズ ビフォア ウィンター カムズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "persuaded",
+      "ipa": "/pərˈsweɪdɪd/",
+      "examples": [
+        {
+          "en": "I persuaded my crew to explore the End dimension despite the danger.",
+          "ja": "危険にも関わらず、クルーをエンド次元探索に説得した。",
+          "ipa": "/aɪ pərˈsweɪdɪd maɪ kru tə ɪkˈsplɔr ðə ɛnd dɪˈmɛnʃən dɪˈspaɪt ðə ˈdeɪndʒər/",
+          "linking": [
+            "persuaded my → persuaded の語末子音 /d/ が my の /m/ に続く（子音+子音なので未連結）[pərˈsweɪdɪd maɪ] パースウェイディド マイ"
+          ],
+          "kana": "アイ パースウェイディド マイ クルー ター イクスプロア ザ エンド ディメンション ディスパイト ザ デインジャー"
+        },
+        {
+          "en": "They persuaded us to farm crops in the Nether despite warnings from experienced players.",
+          "ja": "彼らは経験者の警告にも関わらず、ネザーで農業をするよう説得した。",
+          "ipa": "/ðeɪ pərˈsweɪdɪd əs tə fɑrm krɑps ɪn ðə ˈnɛðər dɪˈspaɪt ˈwɔrnɪŋz frəm ɪkˈspɪriənst ˈpleɪərz/",
+          "linking": [
+            "persuaded us → persuaded の語末子音 /d/ が us の弱形 /əz/ に連結 [pərˈsweɪdɪdəz] パースウェイディダズ",
+            "the Nether → the の弱形 /ðə/ が Nether の /n/ に連結 [ðə ˈnɛðər] ザ ネザー"
+          ],
+          "kana": "ゼイ パースウェイディダズ ター ファーム クラップス イン ザ ネザー ディスパイト ウォーニングズ フラム イクスピアリンスト プレイアーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "persuaded",
+      "ipa": "/pərˈsweɪdɪd/",
+      "examples": [
+        {
+          "en": "Having persuaded everyone to collaborate, we completed the massive redstone machine.",
+          "ja": "皆に協力するよう説得した結果、大規模なレッドストーン装置を完成させた。",
+          "ipa": "/ˈheɪvɪŋ pərˈsweɪdɪd ˈɛvriwən tə ˌkɑləˈbɑreɪt wi kəmˈpliːtɪd ðə ˈmæsɪv ˈrɛdstoʊn məˈʃin/",
+          "linking": [
+            "persuaded everyone → persuaded の語末子音 /d/ が everyone の /ɛ/ に連結 [pərˈsweɪdɪdˈɛvriwən] パースウェイディドエヴリワン",
+            "the massive → the の弱形 /ðə/ が massive の /m/ に続く（子音+子音なので未連結）[ðə ˈmæsɪv] ザ マッシヴ"
+          ],
+          "kana": "ヘイヴィング パースウェイディドエヴリワン ター コラボレイト ウィー コンプリーティド ザ マッシヴ レッドストーン マシーン"
+        },
+        {
+          "en": "The players, persuaded by the enchanted gear, ventured into the unexplored cave system.",
+          "ja": "エンチャント済みの装備に説得されたプレイヤーたちは未探索の洞窟システムに向かった。",
+          "ipa": "/ðə ˈpleɪərz pərˈsweɪdɪd baɪ ði ɛnˈtʃɑntɪd ɡɪr ˈvɛntʃərd ˈɪntu ði ʌnɪkˈsplɔrd keɪv ˈsɪstəm/",
+          "linking": [
+            "persuaded by → persuaded の語末子音 /d/ が by と連結しない（子音+子音）[pərˈsweɪdɪd baɪ] パースウェイディド バイ",
+            "the enchanted → the の弱形 /ðə/ が enchanted の /ɛ/ に連結 [ði ɛnˈtʃɑntɪd] ゼ エンチャンティド"
+          ],
+          "kana": "ザ プレイアーズ パースウェイディド バイ ゼ エンチャンティド ギア ヴェンチャード イントゥー ゼ アンエクスプロアド ケイヴ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "persuading",
+      "ipa": "/pərˈsweɪdɪŋ/",
+      "examples": [
+        {
+          "en": "I'm persuading him to dismantle the failed farming setup and try a new design.",
+          "ja": "失敗した農業設備を解体して新しいデザインを試すよう説得している。",
+          "ipa": "/aɪm pərˈsweɪdɪŋ hɪm tə dɪsˈmæntəl ðə ˈfeɪld ˈfɑrmɪŋ ˈsɛtʌp ænd traɪ ə nu dɪˈzaɪn/",
+          "linking": [
+            "to dismantle → to の弱形 /tə/ が dismantle の /d/ に続く（子音+子音なので未連結）[tə dɪsˈmæntəl] ター ディスマンタル",
+            "the failed → the の弱形 /ðə/ が failed の /f/ に続く（子音+子音なので未連結）[ðə ˈfeɪld] ザ フェイルド"
+          ],
+          "kana": "アイム パースウェイディング ヒム ター ディスマンタル ザ フェイルド ファーミング セットアップ アンド トライ ア ニュー ディザイン"
+        },
+        {
+          "en": "By persuading allies to contribute materials, we accelerated the kingdom's growth.",
+          "ja": "同盟者に材料を提供するよう説得することで、王国の成長を加速させた。",
+          "ipa": "/baɪ pərˈsweɪdɪŋ ˈælaɪz tə kənˈtrɪbjut məˈtɪriəlz wi ækˈsɛləreɪtɪd ðə ˈkɪŋdəmz ɡroʊθ/",
+          "linking": [
+            "the kingdom's → the の弱形 /ðə/ が kingdom's の /k/ に続く（子音+子音なので未連結）[ðə ˈkɪŋdəmz] ザ キングダムズ"
+          ],
+          "kana": "バイ パースウェイディング アライズ ター コントリビュート マテリアルズ ウィー アクセレイティド ザ キングダムズ グロース"
+        }
+      ]
+    }
   ]
 }

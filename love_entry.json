@@ -201,6 +201,102 @@
           "kana": "ゼア ラビング ザ ニュー コンバット チェンジズ アンド イクスプローリング オール ザ ポッサビリティーズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is loving",
+      "ipa": "/ɪz ˈlʌvɪŋ/",
+      "examples": [
+        {
+          "en": "She is loving the new cave exploration features right now.",
+          "ja": "彼女は今、新しい洞窟探索の機能が大好きです。",
+          "ipa": "/ʃi ɪz ˈlʌvɪŋ ðə ˈnu ˈkeɪv ˌɛkspləˈreɪʃən ˈfitʃərz ˈraɪt ˈnaʊ/",
+          "linking": [
+            "She は /ʃi/。is の /ɪ/ に続く。",
+            "is は機能語で弱形 /ɪz/。loving の /l/ に続く。",
+            "the は冠詞で弱形 /ðə/。new の /n/ に続く。",
+            "cave の語末子音 /v/ が exploration の /ɛ/ に連結 [ˈkeɪvɛkspləˈreɪʃən] ケイヴ エクスプロレイション"
+          ],
+          "kana": "シー イズ ラビング ザ ニュー ケイヴ エクスプロレイション フィーチャーズ ライト ナウ"
+        },
+        {
+          "en": "They are loving the new building block updates so much!",
+          "ja": "彼らは新しいビルディングブロックのアップデートをとても気に入っています。",
+          "ipa": "/ðeɪ ɑr ˈlʌvɪŋ ðə ˈnu ˈbɪldɪŋ ˈblɑk ʌpˈdeɪts ˈsoʊ ˈmʌtʃ/",
+          "linking": [
+            "They は /ðeɪ/。are の /ɑ/ に続く。",
+            "are は機能語で弱形 /ɚ/。loving の /l/ に続く。",
+            "the は冠詞で弱形 /ðə/。new の /n/ に続く。",
+            "block の語末子音 /k/ が updates の /ʌ/ に連結 [ˈblɑkʌpˈdeɪts] ブラッカプデイツ"
+          ],
+          "kana": "ゼイ アー ラビング ザ ニュー ビルディング ブラッカプデイツ ソー マッチ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was loving",
+      "ipa": "/wəz ˈlʌvɪŋ/",
+      "examples": [
+        {
+          "en": "I was loving the survival challenge when a creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れた時、私はサバイバルチャレンジを楽しんでいました。",
+          "ipa": "/aɪ wəz ˈlʌvɪŋ ðə sərˈvaɪvəl ˈtʃælɪndʒ wɛn ə ˈkripər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was は機能語で弱形 /wəz/。loving の /l/ に続く。",
+            "the は冠詞で弱形 /ðə/。survival の /s/ に続く。",
+            "challenge の語末子音 /dʒ/ が when の /w/ に続く [ˈtʃælɪndʒ wɛn] チャレンジ ウェン",
+            "a は冠詞で弱形 /ə/。creeper の /k/ に続く。"
+          ],
+          "kana": "アイ ワズ ラビング ザ サーバイバル チャレンジ ウェン ア クリーパー サディンリー アピアード"
+        },
+        {
+          "en": "We were loving our multiplayer session before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、私たちはマルチプレイセッションを楽しんでいました。",
+          "ipa": "/wi wɚ ˈlʌvɪŋ ˈaʊr ˈmʌltɪˌpleɪər ˈsɛʃən bɪˈfoɚ ðə ˈsɝvər ˈkræʃt/",
+          "linking": [
+            "We は /wi/。were の /w/ に続く。",
+            "were は機能語で弱形 /wɚ/。loving の /l/ に続く。",
+            "our は /ˈaʊr/。multiplayer の /m/ に続く。",
+            "session の語末子音 /n/ が before の /b/ に続く [ˈsɛʃən bɪˈfoɚ] セッション ビフォア"
+          ],
+          "kana": "ウィ ワー ラビング アワー マルティプレイヤー セッション ビフォア ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been loving",
+      "ipa": "/həd bɪn ˈlʌvɪŋ/",
+      "examples": [
+        {
+          "en": "She had been loving creative mode for years before she tried survival mode.",
+          "ja": "彼女がサバイバルモードを試す前に、クリエイティブモードを何年も楽しんでいました。",
+          "ipa": "/ʃi həd bɪn ˈlʌvɪŋ kriˈeɪtɪv ˈmoʊd fɚ ˈjɪrz bɪˈfoɚ ʃi ˈtraɪd sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "had は機能語で弱形 /həd/。been の /b/ に未開放で続く [həd̚ bɪn] ハド ビン",
+            "been は機能語で弱形 /bɪn/。loving の /l/ に続く。",
+            "creative の語末子音 /v/ が mode の /m/ に続く [kriˈeɪtɪv ˈmoʊd] クリエイティヴ モード",
+            "for は機能語で弱形 /fɚ/。years の /j/ に続く。"
+          ],
+          "kana": "シー ハド・ビン ラビング クリエイティヴ モード ファ イアーズ ビフォア シー トライド サーバイバル モード"
+        },
+        {
+          "en": "They had been loving the old texture pack until the update changed everything.",
+          "ja": "アップデートで全てが変わるまで、彼らは古いテクスチャパックを長く楽しんでいました。",
+          "ipa": "/ðeɪ həd bɪn ˈlʌvɪŋ ðə ˈoʊld ˈtɛkstʃər ˈpæk ʌnˈtɪl ðə ʌpˈdeɪt ˈtʃeɪndʒd ˈɛvriˌθɪŋ/",
+          "linking": [
+            "had は機能語で弱形 /həd/。been の /b/ に未開放で続く [həd̚ bɪn] ハド ビン",
+            "been は機能語で弱形 /bɪn/。loving の /l/ に続く。",
+            "the は冠詞で弱形 /ðə/。old の /o/ に続く。",
+            "pack の語末子音 /k/ は未開放 [pæk̚] パック（until 前）"
+          ],
+          "kana": "ゼイ ハド・ビン ラビング ザ オールド テクスチャー パック・アンティル ザ アップデイト チェンジド エブリシング"
+        }
+      ]
     }
   ]
 }

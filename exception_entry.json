@@ -79,5 +79,35 @@
       ],
       "kana": "ディス ブラック タイプ イザン イクセプション タ ザ ルールズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "exceptions",
+      "ipa": "/ɪkˈsɛpʃənz/",
+      "examples": [
+        {
+          "en": "The rules have exceptions in Creative Mode.",
+          "ja": "ルールにはクリエイティブモードでの例外があります。",
+          "ipa": "/ðə ˈrulz əv ɪkˈsɛpʃənz ɪn kriˈeɪtɪv ˈmoʊd/",
+          "linking": [
+            "rules の語末子音 /z/ が have の弱形 /əv/ に連結: [ˈrulz əv] ルールザヴ",
+            "have の弱形 /əv/ が exceptions の /ɪ/ に連結: [əv ɪk...] ヴイク"
+          ],
+          "kana": "ザ ルールザヴ イクセプションズ イン クリエイティブ モード"
+        },
+        {
+          "en": "Most blocks stack in the inventory, but there are exceptions.",
+          "ja": "ほとんどのブロックはインベントリにスタックしますが、例外があります。",
+          "ipa": "/ˈmoʊst blɑks stæk ɪn ðə ɪnˈvɛntəri bət ðɛr ər ɪkˈsɛpʃənz/",
+          "linking": [
+            "stack の語末子音 /k/ が in の弱形 /ən/ に連結: [stæk ən] スタッカン",
+            "are の弱形 /ər/ が exceptions の /ɪ/ に連結: [ər ɪk...] アーイク"
+          ],
+          "kana": "モースト ブラックス スタッカン ザ インベントリー バット ゼア アーイクセプションズ"
+        }
+      ]
+    }
   ]
 }

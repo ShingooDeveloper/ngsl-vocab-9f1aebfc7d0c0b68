@@ -86,5 +86,122 @@
       ],
       "kana": "シー コムプレインド ザッ ザ ニュー アップデッ ルーインド ハー フェイバリット ビルド"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "complains",
+      "ipa": "/kəmˈpleɪnz/",
+      "examples": [
+        {
+          "en": "He complains about the lag every day.",
+          "ja": "彼は毎日ラグについて文句を言う。",
+          "ipa": "/hi kəmˈpleɪnz əˈbaʊt ðə læɡ ˈɛvri deɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "about の語末 /t/ が lag の /l/（子音）に直続、/t/ は未開放 [əˈbaʊt̚ læɡ]"
+          ],
+          "kana": "ヒー コムプレインズ アバウト ザ ラッグ エヴリ デイ"
+        },
+        {
+          "en": "She always complains when the server crashes.",
+          "ja": "彼女はサーバーがクラッシュするたびに文句を言う。",
+          "ipa": "/ʃi ˈɔlweɪz kəmˈpleɪnz wɛn ðə ˈsɚvər ˈkræʃɪz/",
+          "linking": [
+            "always の語末 /z/ が when の /w/（子音）に直続 [ˈɔlweɪz wɛn]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー オールウェイズ コムプレインズ ウェン ザ サーバー クラッシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "complained",
+      "ipa": "/kəmˈpleɪnd/",
+      "examples": [
+        {
+          "en": "He complained to the admin about losing his diamonds.",
+          "ja": "彼はダイヤモンドを失ったことについて管理者に文句を言った。",
+          "ipa": "/hi kəmˈpleɪnd tu ðə ˈædmɪn əˈbaʊt ˈluːzɪŋ hɪz ˈdaɪmənz/",
+          "linking": [
+            "to は弱形 /tə/ で the の /ð/ に続く [tə ðə]",
+            "admin の語末 /n/ が about の /ə/（弱形）に連結 [ˈædmɪnə] アドミナ"
+          ],
+          "kana": "ヒー コムプレインド タ ザ アドミナバウト ルージング ヒズ ダイマンズ"
+        },
+        {
+          "en": "Players complained that the update ruined everything.",
+          "ja": "プレイヤーたちはアップデートがすべてを台無しにしたと文句を言った。",
+          "ipa": "/ˈpleɪərz kəmˈpleɪnd ðæt ðə ʌpˈdeɪt ˈɹuːɪnd ˈɛvrɪˌθɪŋ/",
+          "linking": [
+            "complained の語末 /d/ が that の /ð/（子音）に直続、/d/ は未開放 [kəmˈpleɪnd̚ ðæt]",
+            "that の語末 /t/ が the の /ð/（子音）に直続、/t/ は未開放 [ðæt̚ ðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ コムプレインド ザッ ザ アップデッ ルーインド エヴリシング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "complained",
+      "ipa": "/kəmˈpleɪnd/",
+      "examples": [
+        {
+          "en": "The admin complained that lags were ruining the game.",
+          "ja": "管理者はラグがゲームを台無しにしていると文句を言った。",
+          "ipa": "/ðə ˈædmɪn kəmˈpleɪnd ðæt læɡz wɚ ˈɹuːɪnɪŋ ðə geɪm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "complained の語末 /d/ が that の /ð/（子音）に直続、/d/ は未開放 [kəmˈpleɪnd̚ ðæt]",
+            "that の語末 /t/ が lags の /l/（子音）に直続、/t/ は未開放 [ðæt̚ læɡz]"
+          ],
+          "kana": "ザ アドミン コムプレインド ザッ ラッグズ ワー ルーイニング ザ ゲイム"
+        },
+        {
+          "en": "Having complained about the rules, the players left the server.",
+          "ja": "ルールについて文句を言った後、プレイヤーたちはサーバーを去った。",
+          "ipa": "/ˈhævɪŋ kəmˈpleɪnd əˈbaʊt ðə rulz, ðə ˈpleɪərz lɛft ðə ˈsɚvər/",
+          "linking": [
+            "complained の語末 /d/ が about の /ə/（弱形）に連結 [kəmˈpleɪndə] コムプレインダ",
+            "the は弱形 /ðə/（複数出現）",
+            "left の語末 /t/ が the の /ð/（子音）に直続、/t/ は未開放 [lɛft̚ ðə]"
+          ],
+          "kana": "ハービング コムプレインダバウト ザ ルールズ、ザ プレイヤーズ レフト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "complaining",
+      "ipa": "/kəmˈpleɪnɪŋ/",
+      "examples": [
+        {
+          "en": "Stop complaining about diamonds! You'll find them eventually.",
+          "ja": "ダイヤについて文句を言うのをやめろ。最終的には見つかるよ。",
+          "ipa": "/stɑp kəmˈpleɪnɪŋ əˈbaʊt ˈdaɪmənz! juːl ˈfaɪnd ðɛm ɪˈvɛntʃuəli/",
+          "linking": [
+            "complaining の語末 /ŋ/ が about の /ə/（弱形）に続く（鼻音+母音）[kəmˈpleɪnɪŋ əˈbaʊt]",
+            "about の語末 /t/ が diamonds の /d/（子音）に直続、/t/ は未開放 [əˈbaʊt̚ ˈdaɪmənz]"
+          ],
+          "kana": "ストップ コムプレイニング アバウト ダイマンズ! ユール ファインド ザム イヴェンチュアリー"
+        },
+        {
+          "en": "Players keep complaining whenever the game crashes unexpectedly.",
+          "ja": "ゲームが予期せずクラッシュするたびに、プレイヤーたちは絶えず文句を言う。",
+          "ipa": "/ˈpleɪərz kip kəmˈpleɪnɪŋ ˈwɛnɛvər ðə geɪm ˈkræʃɪz ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "keep の語末 /p/ が complaining の /k/（子音）に直続 [kip̚ kəmˈpleɪnɪŋ]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ キープ コムプレイニング ウェンエヴァー ザ ゲイム クラッシズ アンイクスペクティドリー"
+        }
+      ]
+    }
   ]
 }

@@ -67,5 +67,34 @@
       "linking": [],
       "kana": "ユー キャン エディット ザ テレイン ウィズ パーミッション フラム ザ オウナー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "permissions",
+      "ipa": "/pɚˈmɪʃənz/",
+      "examples": [
+        {
+          "en": "The admin grants special permissions to new players.",
+          "ja": "管理者は新しいプレイヤーに特別な許可を与えます。",
+          "ipa": "/ðə ˈædmɪn ˈɡrænts ˈspeʃəl pɚˈmɪʃənz tə ˈnjuː ˈpleɪɚz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ アドミン グランツ スペシャル パーミッションズ タ ニュー プレイアーズ"
+        },
+        {
+          "en": "Server permissions prevent regular players from breaking blocks.",
+          "ja": "サーバーの許可設定は、通常プレイヤーがブロックを壊すのを防ぎます。",
+          "ipa": "/ˈsɝvɚ pɚˈmɪʃənz prɪˈvɛnt ˈrɛɡjələr ˈpleɪɚz frəm ˈbreɪkɪŋ ˈblɑks/",
+          "linking": [
+            "from は弱形 /frəm/"
+          ],
+          "kana": "サーバー パーミッションズ プリベント レギュラー プレイアーズ フラム ブレイキング ブロックス"
+        }
+      ]
+    }
   ]
 }

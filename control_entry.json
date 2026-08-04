@@ -210,6 +210,100 @@
           "kana": "バイ カントローリング ウォーター、ウィー クリエイテッド エン アメイジング ファーム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is controlling",
+      "ipa": "[ɪz kənˈtroʊlɪŋ]",
+      "examples": [
+        {
+          "en": "I am controlling the water flow now.",
+          "ja": "今、私は水の流れを制御しています。",
+          "ipa": "[aɪ æm kənˈtroʊlɪŋ ðə ˈwɔːtɚ ˈfloʊ ˈnaʊ]",
+          "linking": [
+            "I は /aɪ/。am に流暢に続く。",
+            "am は助動詞で /æm/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。water に連結。"
+          ],
+          "kana": "アイ アム カントローリング ザ ウォーター フロー ナウ"
+        },
+        {
+          "en": "She is controlling the redstone circuit carefully.",
+          "ja": "彼女はレッドストーン回路を慎重に制御しています。",
+          "ipa": "[ʃi ɪz kənˈtroʊlɪŋ ðə ˈɹɛdˌstoʊn ˈsɜːrkɪt ˈkɛrfəli]",
+          "linking": [
+            "She は /ʃi/。is に流暢に続く。",
+            "is は助動詞で弱形 /ɪz/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。redstone に連結。"
+          ],
+          "kana": "シー イズ カントローリング ザ レッドストーン サーキット ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was controlling",
+      "ipa": "[wəz kənˈtroʊlɪŋ]",
+      "examples": [
+        {
+          "en": "I was controlling the farm when you arrived.",
+          "ja": "あなたが到着したとき、私はファームを制御していました。",
+          "ipa": "[aɪ wəz kənˈtroʊlɪŋ ðə ˈfɑːrm wɛn juː əˈɹaɪvd]",
+          "linking": [
+            "I は /aɪ/。was に流暢に続く。",
+            "was は助動詞で弱形 /wəz/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。farm に連結。"
+          ],
+          "kana": "アイ ワズ カントローリング ザ ファーム ウェン ユー アライヴド"
+        },
+        {
+          "en": "We were controlling the spawner very carefully.",
+          "ja": "私たちはスポーナーを非常に慎重に制御していました。",
+          "ipa": "[wi wər kənˈtroʊlɪŋ ðə ˈspɔːnər ˈvɛri ˈkɛrfəli]",
+          "linking": [
+            "We は /wi/。were に流暢に続く。",
+            "were は助動詞で弱形 /wər/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。spawner に連結。"
+          ],
+          "kana": "ウィー ワー カントローリング ザ スポーナー ベリー ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been controlling",
+      "ipa": "[həd bɪn kənˈtroʊlɪŋ]",
+      "examples": [
+        {
+          "en": "I had been controlling the water for hours.",
+          "ja": "私は何時間も水を制御していました。",
+          "ipa": "[aɪ həd bɪn kənˈtroʊlɪŋ ðə ˈwɔːtɚ fər ˈaʊɚz]",
+          "linking": [
+            "I は /aɪ/。had に流暢に続く。",
+            "had は助動詞で弱形 /həd/。been に流暢に続く。",
+            "been は助動詞で弱形 /bɪn/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。water に連結。",
+            "for は前置詞で弱形 /fər/。hours に流暢に続く。"
+          ],
+          "kana": "アイ ハド ビン カントローリング ザ ウォーター ファー アワーズ"
+        },
+        {
+          "en": "She had been controlling the mechanism before the crash.",
+          "ja": "クラッシュの前に、彼女はそのメカニズムを制御していました。",
+          "ipa": "[ʃi həd bɪn kənˈtroʊlɪŋ ðə ˈmɛkənɪzəm bɪˈfoːr ðə ˈkræʃ]",
+          "linking": [
+            "She は /ʃi/。had に流暢に続く。",
+            "had は助動詞で弱形 /həd/。been に流暢に続く。",
+            "been は助動詞で弱形 /bɪn/。controlling に流暢に続く。",
+            "the は冠詞で弱形 /ðə/。mechanism に連結。",
+            "before の末尾 r が the の初頭 ð に r-linking で連結 [bɪˈfoːrðə]。"
+          ],
+          "kana": "シー ハド ビン カントローリング ザ メカニズム ビフォーザ クラッシュ"
+        }
+      ]
     }
   ]
 }

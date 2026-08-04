@@ -73,5 +73,126 @@
       ],
       "kana": "ワイポフ ザ ラバ フラムユア アーマー ウィズ ウォータ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "wipes",
+      "ipa": "/waɪps/",
+      "examples": [
+        {
+          "en": "She wipes the dust off the workbench after crafting.",
+          "ja": "彼女はクラフト後、ワークベンチの塵を拭き落とします。",
+          "ipa": "[ʃi ˈwaɪps ðə ˈdʌst ɔf ðə ˈwɝkˌbɛntʃ ˈæftɚ ˈkræftɪŋ]",
+          "linking": [
+            "the (first) → 冠詞は弱形 /ðə/。dust の初頭 /d/ に連結 [ðə ˈdʌst]"
+          ],
+          "kana": "シ ワイプス ザ ダスト オフ ザ ワークベンチ アフター クラフティング"
+        },
+        {
+          "en": "He wipes the gravel from his armor before entering the cave.",
+          "ja": "洞窟に入る前に、彼は彼のアーマーから砂利を拭き落とします。",
+          "ipa": "[hi ˈwaɪps ðə ˈɡrævəl frəm hɪz ˈɑrmɚ bɪˈfɔr ˈɛntɚɪŋ ðə ˈkeɪv]",
+          "linking": [
+            "the gravel → the は弱形 /ðə/。gravel の初頭 /ɡ/ に連結 [ðə ˈɡrævəl]",
+            "from his → from の末尾 /m/ が his の弱形の /ɪ/（/h/ 脱落傾向）に連結 [frəmɪz]"
+          ],
+          "kana": "ヒ ワイプス ザ グラヴル フラミズ アーマー ビフォー エンタリング ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "wiped",
+      "ipa": "/waɪpt/",
+      "examples": [
+        {
+          "en": "I wiped all the hostile mobs from the area before building.",
+          "ja": "建築する前に、その地域のすべての敵対的なモブを一掃しました。",
+          "ipa": "[aɪ ˈwaɪpt ɔl ðə ˈhɑstəl ˈmɑbz frəm ðə ˈɛriə bɪˈfɔr ˈbɪldɪŋ]",
+          "linking": [],
+          "kana": "アイ ワイプト オール ザ ハースタル モブズ フラム ザ エリア ビフォー ビルディング"
+        },
+        {
+          "en": "We wiped the entire enemy team in the raid.",
+          "ja": "レイドで敵チーム全体を一掃しました。",
+          "ipa": "[wi ˈwaɪpt ðə ɪnˈtaɪɚ ˈɛnəmi ˈtim ɪn ðə ˈreɪd]",
+          "linking": [],
+          "kana": "ウィ ワイプト ザ インタイアー エネミー ティーム イン ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "wiped",
+      "ipa": "/waɪpt/",
+      "examples": [
+        {
+          "en": "The area has been completely wiped clean of all mobs.",
+          "ja": "その地域はすべてのモブが完全に拭われてきれいになっています。",
+          "ipa": "[ðə ˈɛriə həz bɪn kəmˈpliːtli ˈwaɪpt ˈklin əv ɔl ˈmɑbz]",
+          "linking": [
+            "of all → of は弱形 /əv/。all の初頭 /ɔ/ に連結 [əv ɔl]"
+          ],
+          "kana": "ザ エリア ハズ ビン コンプリートリー ワイプト クリーン アヴ オール モブズ"
+        },
+        {
+          "en": "All the zombies have been wiped out by the redstone trap.",
+          "ja": "すべてのゾンビはレッドストーントラップによって一掃されました。",
+          "ipa": "[ɔl ðə ˈzɑmiz həv bɪn ˈwaɪpt ˈaʊt baɪ ðə ˈrɛdˌstoʊn ˈtræp]",
+          "linking": [],
+          "kana": "オール ザ ザーミズ ハヴ ビン ワイプト アウト バイ ザ レッドストーン トラップ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "wiping",
+      "ipa": "/ˈwaɪpɪŋ/",
+      "examples": [
+        {
+          "en": "She's wiping the sand off her tools right now.",
+          "ja": "彼女は今、彼女のツールから砂を拭き落としています。",
+          "ipa": "[ʃiz ˈwaɪpɪŋ ðə sænd ɔf hɚ ˈtulz ˈraɪt ˈnaʊ]",
+          "linking": [
+            "the sand → the は弱形 /ðə/。sand の初頭 /s/ に連結 [ðə sænd]"
+          ],
+          "kana": "シーズ ワイピング ザ サンド オフ ハー トゥールズ ライト ナウ"
+        },
+        {
+          "en": "They are wiping mobs from the fortress entrance continuously.",
+          "ja": "彼らは継続的に要塞の入口からモブを拭き落としています。",
+          "ipa": "[ðeɪ ɑr ˈwaɪpɪŋ ˈmɑbz frəm ðə ˈfɔrtrəs ˈɛntrəns kənˈtɪnjuəsli]",
+          "linking": [],
+          "kana": "ゼイ アー ワイピング モブズ フラム ザ フォートレス エントレンス コンティニュアスリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "wipes",
+      "ipa": "/waɪps/",
+      "examples": [
+        {
+          "en": "Multiple strategic wipes cleared the region of hostile forces.",
+          "ja": "複数の戦略的な一掃が敵対的な勢力をその地域から一掃しました。",
+          "ipa": "[ˈmʌltɪpəl strəˈtidʒɪk ˈwaɪps ˈklɪrd ðə ˈridʒən əv ˈhɑstəl ˈfɔrsɪz]",
+          "linking": [],
+          "kana": "マルティプル ストラティージック ワイプス クリアド ザ リージョン アヴ ハースタル フォーシズ"
+        },
+        {
+          "en": "Several quick wipes of the area made it safe for building.",
+          "ja": "その地域を何度か素早く拭き落とすことで、建築に安全になりました。",
+          "ipa": "[ˈsɛvərəl ˈkwɪk ˈwaɪps əv ðə ˈɛriə ˈmeɪd ɪt ˈseɪf fɚ ˈbɪldɪŋ]",
+          "linking": [],
+          "kana": "セヴラル クウィック ワイプス アヴ ザ エリア メイド イット セイフ ファー ビルディング"
+        }
+      ]
+    }
   ]
 }

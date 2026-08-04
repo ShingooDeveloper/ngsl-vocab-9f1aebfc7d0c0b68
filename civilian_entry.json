@@ -44,6 +44,36 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "civilians",
+      "ipa": "/sɪˈvɪljənz/",
+      "examples": [
+        {
+          "en": "We built protective bunkers for the civilians during the raid.",
+          "ja": "レイド中に民間人のための防御バンカーを建設しました。",
+          "ipa": "/wiː ˈbɪlt prəˈtɛktɪv ˈbʌŋkərz fɔr ðə ˌsɪˈvɪljənz ˈdʊrɪŋ ðə ˈreɪd/",
+          "kana": "ウィー ビルト プロテクティブ バンカーズ フォー ザ シビリヤンズ ドューリング ザ レイド",
+          "linking": [
+            "for the → 語末子音 /r/ が弱形 /ə/ に連結 [fɔr ðə] フォー ザ",
+            "during the → 語末子音 /ŋ/ が弱形 /ə/ に連結 [ˈdʊrɪŋ ðə] ドューリング ザ"
+          ]
+        },
+        {
+          "en": "All civilians must stay in the designated shelter area.",
+          "ja": "すべての民間人は指定されたシェルター領域に留まらなければなりません。",
+          "ipa": "/ɔl ˌsɪˈvɪljənz mʌst ˈsteɪ ɪn ðə ˈdɛzɪɡˌneɪtɪd ˈʃɛltər ˈɛriə/",
+          "kana": "オール シビリヤンズ マスト ステイ イン ザ デジグネイティド シェルター エリア",
+          "linking": [
+            "in the → 語末子音 /n/ が弱形 /ə/ に連結 [ɪn ðə] イン ザ",
+            "shelter area → 語末子音 /r/ が母音 /ɛ/ に連結 [ˈʃɛltər ˈɛriə] シェルター エリア"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "civilian population",

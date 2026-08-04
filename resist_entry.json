@@ -76,5 +76,118 @@
       ],
       "kana": "ウェアリング インチャンティド アーマー レッツ ユ リジスト ダメッジ ベター イン コンバット"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "resists",
+      "ipa": "/rɪˈzɪsts/",
+      "examples": [
+        {
+          "en": "Obsidian resists explosions from creepers.",
+          "ja": "黒曜石はクリーパーの爆発に耐えます。",
+          "ipa": "/ɑbˈsɪdiən rɪˈzɪsts ɪkˈsploʊʒənz frəm ˈkripərz/",
+          "linking": [
+            "Obsidian resists → /n/ が /r/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "オブシディアン リジスツ イクスプロージョンズ フラム クリーパーズ"
+        },
+        {
+          "en": "Diamond armor resists all damage types.",
+          "ja": "ダイアモンド防具はあらゆるダメージタイプに耐えます。",
+          "ipa": "/ˈdaɪəmənd ˈɑrmɚ rɪˈzɪsts ɔl ˈdæmɪdʒ ˈtaɪps/",
+          "linking": [
+            "all damage → /l/ + /d/ は子音+子音で連結なし"
+          ],
+          "kana": "ダイアモンド アーマー リジスツ オール ダメッジ タイプス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "resisted",
+      "ipa": "/rɪˈzɪstɪd/",
+      "examples": [
+        {
+          "en": "We resisted the wither's powerful attacks yesterday.",
+          "ja": "昨日、私たちはウィザーの強力な攻撃に耐えました。",
+          "ipa": "/wi rɪˈzɪstɪd ðə ˈwɪðərz ˈpaʊərful əˈtæks ˌjɛstərˈdeɪ/",
+          "linking": [
+            "resisted the → /d/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/ ザ",
+            "wither's powerful → /z/ + /p/ は子音+子音で連結なし"
+          ],
+          "kana": "ウィー リジスティッド ザ ウィザーズ パウアフル アタックス イェスタディ"
+        },
+        {
+          "en": "The fortress resisted every siege attempt.",
+          "ja": "要塞はすべての包囲試行に耐えました。",
+          "ipa": "/ðə ˈfɔrtrəs rɪˈzɪstɪd ˈɛvri ˈsidʒ əˈtɛmpt/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "resisted every → resisted の末尾 /d/ が every の /ɛ/ に連結 [rɪˈzɪstɪ‿dɛ]"
+          ],
+          "kana": "ザ フォートレス リジスティッド エブリ シージ アテンプト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "resisted",
+      "ipa": "/rɪˈzɪstɪd/",
+      "examples": [
+        {
+          "en": "Our base had resisted the invasion perfectly all week.",
+          "ja": "私たちの拠点は1週間、侵略に完璧に耐えていました。",
+          "ipa": "/ˈaʊər ˈbeɪs hæd rɪˈzɪstɪd ðə ɪnˈveɪʒən ˈpɝfɪktli ɔl wik/",
+          "linking": [
+            "base had → /s/ + /h/ は子音+子音で連結なし",
+            "resisted the → /d/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/ ザ",
+            "all week → /l/ + /w/ は子音+子音で連結なし"
+          ],
+          "kana": "アワー ベース ハド リジスティッド ザ インベージョン パーフェクトリー オール ウィーク"
+        },
+        {
+          "en": "Having resisted for days, we finally defeated the boss.",
+          "ja": "何日も耐えた後、私たちは最終的にボスを倒しました。",
+          "ipa": "/ˈhævɪŋ rɪˈzɪstɪd fɔr ˈdeɪz wi ˈfaɪnəli dɪˈfitɪd ðə ˈbɔs/",
+          "linking": [
+            "resisted for → /d/ + /f/ は子音+子音で連結なし。for は弱形 /fɔr/ フォー",
+            "days we → /z/ + /w/ は子音+子音で連結なし",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ハビング リジスティッド フォー デイズ ウィー ファイナリー ディフィティッド ザ ボス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "resisting",
+      "ipa": "/rɪˈzɪstɪŋ/",
+      "examples": [
+        {
+          "en": "While resisting the ender dragon, I protected my base.",
+          "ja": "エンダードラゴンに耐えている間に、私は拠点を保護しました。",
+          "ipa": "/waɪl rɪˈzɪstɪŋ ðə ˈɛndər ˈdræɡən aɪ prəˈtɛktɪd maɪ ˈbeɪs/",
+          "linking": [
+            "resisting the → /ŋ/ + /ð/ は子音+子音で連結なし。the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ワイル リジスティング ザ エンダー ドラゴン アイ プロテクティッド マイ ベース"
+        },
+        {
+          "en": "By resisting creeper explosions, players save valuable resources.",
+          "ja": "クリーパー爆発に耐えることで、プレイヤーは貴重なリソースを節約できます。",
+          "ipa": "/baɪ rɪˈzɪstɪŋ ˈkripər ɪkˈsploʊʒənz ˈpleɪərz ˈseɪv ˈvæljəbəl ˈrɛsɔrsɪz/",
+          "linking": [
+            "resisting creeper → /ŋ/ + /k/ は子音+子音で連結なし",
+            "creeper explosions → /r/ + /ɪ/ で /r/ が /ɪ/ に連結 [ɚ‿ɪk]"
+          ],
+          "kana": "バイ リジスティング クリーパー イクスプロージョンズ プレイヤーズ セイブ ヴァリュアブル リソーシズ"
+        }
+      ]
+    }
   ]
 }

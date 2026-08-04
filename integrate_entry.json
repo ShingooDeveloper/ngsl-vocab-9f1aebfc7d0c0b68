@@ -69,5 +69,111 @@
       ],
       "kana": "ニュー フィーチャーズ イントゥ ザ マッドパック オートマティクリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "integrates",
+      "ipa": "/ˈɪn.tə.ɡreɪts/",
+      "examples": [
+        {
+          "en": "This system integrates multiple input sources smoothly.",
+          "ipa": "/ðɪs ˈsɪs.təm ˈɪn.tə.ɡreɪts ˈmʌl.tə.pəl ˈɪn.pʊt ˈsɔr.sɪz ˈsmud.li/",
+          "linking": [
+            "This の末尾は無声歯摩擦音 /s/、system の初頭も /s/ なので、子音-子音で連結なし。[ðɪs ˈsɪs.təm] ジス システム",
+            "integrates の末尾 /ts/ は系列音で、multiple の初頭 /m/ は子音なので連結なし。"
+          ],
+          "kana": "ジス システム インタグレイツ マルティプル インプット ソーセズ スムーズリー"
+        },
+        {
+          "en": "The mod integrates seamlessly with many other mods.",
+          "ipa": "/ðə mɑd ˈɪn.tə.ɡreɪts ˈsim.ləs.li wɪð ˈmeɪ.ni ˈʌ.ðɚ mɑdz/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。mod の初頭 /m/ に連結 [ðə mɑd] ザ マッド",
+            "seamlessly の末尾 /li/ と with の初頭 /w/ は語境界で連結なし。with は [wɪð] ウィズ"
+          ],
+          "kana": "ザ マッド インタグレイツ シームレスリー ウィズ メイニー アザー マッズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "integrated",
+      "ipa": "/ˈɪn.tə.ɡreɪ.tɪd/",
+      "examples": [
+        {
+          "en": "I integrated the two power systems yesterday.",
+          "ipa": "/aɪ ˈɪn.tə.ɡreɪ.tɪd ðə tu ˈpaʊ.ɚ ˈsɪs.təmz ˈjɛs.tɚ.deɪ/",
+          "linking": [
+            "I の末尾 /aɪ/ は二重母音の母音で、integrated の初頭 /ɪ/ も母音。中間に [j] が挿入される傾向。[aɪ j ˈɪn...] アイ インタグレイティド",
+            "integrated の末尾 /d/ と the の初頭 /ð/ が連結。the は弱形 /ðə/。[ˈɪn.tə.ɡreɪ.tɪd ə] インタグレイティッダ"
+          ],
+          "kana": "アイ インタグレイティド ザ トゥー パワー システムズ イェスタデイ"
+        },
+        {
+          "en": "We integrated all the redstone circuits into one network.",
+          "ipa": "/wi ˈɪn.tə.ɡreɪ.tɪd ɔl ðə ˈrɛd.stoʊn ˈsɝ.kɪts ˈɪn.tu wʌn ˈnɛt.wɝk/",
+          "linking": [
+            "integrated の末尾 /d/ と all の初頭 /ɔ/ は語境界で連結なし。[ˈɪn.tə.ɡreɪ.tɪd ɔl] インタグレイティド オール",
+            "all の末尾 /l/ と the の初頭 /ð/ が連結。the は弱形 /ðə/。[ɔl ðə] オール ザ"
+          ],
+          "kana": "ウィ インタグレイティド オール ザ レッドストーン サーキッツ イントゥ ワン ネットワーク"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "integrated",
+      "ipa": "/ˈɪn.tə.ɡreɪ.tɪd/",
+      "examples": [
+        {
+          "en": "The newly integrated system works perfectly now.",
+          "ipa": "/ðə ˈnu.li ˈɪn.tə.ɡreɪ.tɪd ˈsɪs.təm ˈwɝks ˈpɝ.fɪkt.li naʊ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。newly の初頭 /n/ に連結 [ðə ˈnu.li] ザ ニューリー",
+            "newly の末尾 /i/ と integrated の初頭 /ɪ/ は母音-母音で語境界。[ˈu.li ˈɪn...] ニューリー インタグレイティド"
+          ],
+          "kana": "ザ ニューリー インタグレイティド システム ワークス パーフェクトリー ナウ"
+        },
+        {
+          "en": "All the redstone devices have been integrated successfully.",
+          "ipa": "/ɔl ðə ˈrɛd.stoʊn dɪˈvaɪ.sɪz hæv bɪn ˈɪn.tə.ɡreɪ.tɪd ˌsʌk.ˈsɛs.fə.li/",
+          "linking": [
+            "All の末尾 /l/ と the の初頭 /ð/ が連結。the は弱形 /ðə/。[ɔl ðə] オール ザ",
+            "have の末尾 /v/ と been の初頭 /b/ は子音-子音で連結なし。have は /hæv/（弱形 /əv/）で [hæv bɪn] ハヴ ビン"
+          ],
+          "kana": "オール ザ レッドストーン デバイシズ ハヴ ビン インタグレイティド サクセスフリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "integrating",
+      "ipa": "/ˈɪn.tə.ɡreɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "I am integrating the new water contraption right now.",
+          "ipa": "/aɪ æm ˈɪn.tə.ɡreɪ.tɪŋ ðə njuː ˈwɔ.tɚ kənˈtræp.ʃən ˈɹaɪt naʊ/",
+          "linking": [
+            "I の末尾 /aɪ/ と am の初頭 /æ/ は母音-母音。am は弱形 /əm/。[aɪ əm] アイ アム",
+            "am の末尾 /m/ と integrating の初頭 /ɪ/ が連結。[əm ˈɪn...] アム インタグレイティング"
+          ],
+          "kana": "アイ アム インタグレイティング ザ ニュー ウォーター カントラプション ライト ナウ"
+        },
+        {
+          "en": "We are integrating the systems without stopping.",
+          "ipa": "/wi ɑr ˈɪn.tə.ɡreɪ.tɪŋ ðə ˈsɪs.təmz wɪðˈaʊt ˈstɑ.pɪŋ/",
+          "linking": [
+            "We の末尾 /i/ と are の初頭 /ɑ/ は母音-母音。are は弱形で /ɚ/。[i ɑr] ウィ アー",
+            "are の末尾 /r/ と integrating の初頭 /ɪ/ が連結。[ɑr ˈɪn...] アー インタグレイティング"
+          ],
+          "kana": "ウィ アー インタグレイティング ザ システムズ ウィザウト スタッピング"
+        }
+      ]
+    }
   ]
 }

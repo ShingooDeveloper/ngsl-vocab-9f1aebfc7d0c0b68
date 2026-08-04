@@ -49,6 +49,40 @@
       "kana": "シー ハズ ビカムザ レッドストーン プロフェッサー ビコーズ シー ディザインザ ザ モウストゥ コムプレックス コントラプションズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "professors",
+      "ipa": "/prəˈfɛsərz/",
+      "examples": [
+        {
+          "en": "There are five professors in the academy building we constructed together.",
+          "ja": "一緒に建築したアカデミー建物には5人の教授がいます。",
+          "grammar": "主語 + There be 構文で「~がいる」を表す。数詞（five）で複数を指定。constructed は過去形で建設の完了を表す。",
+          "ipa": "/ðɛr ɑr ˈfaɪv prəˈfɛsərz ɪn ðə əˈkædəmi ˈbɪldɪŋ wi kənˈstrʌktəd təˈɡɛðər/",
+          "linking": [
+            "There are five → are は弱形 /ɚ/。[ðɛr ɚ ˈfaɪv] ザー ア ファイブ",
+            "in the academy → in の n と the の ə が連結 [ɪnðə] インザ",
+            "constructed together → constructed の d が未開放で t に接続 [kənˈstrʌkt̚ təˈɡɛðər] コンストラクト タゥゲザー"
+          ],
+          "kana": "ザー ア ファイブ プロフェッサーズ インザ アカデミー ビルディング ウィー コンストラクト タゥゲザー"
+        },
+        {
+          "en": "The professors of different specialties collaborate on advanced redstone engineering projects.",
+          "ja": "異なる専門分野の教授たちが、高度なレッドストーン工学プロジェクトで協力しています。",
+          "grammar": "主語 + 動詞の複数形で複数の行為者を表す。of + 名詞で分野を指定。collaborate on ~ で「～に協力する」。",
+          "ipa": "/ðə prəˈfɛsərz əv ˈdɪfərənt ˈspɛʃəltiz ˌkoʊləˈbɑreɪt ɑn ədˈvænst ˈrɛdˌstoʊn ˌɛndʒɪˈnɪrɪŋ ˈprɑdʒɛkts/",
+          "linking": [
+            "The professors → the は弱形 /ðə/。[ðə prəˈfɛsərz] ザ プロフェッサーズ",
+            "professors of → professors の z と of の弱形 /əv/ が連結 [prəˈfɛsərz əv] プロフェッサーズ アヴ",
+            "on advanced → on の n と advanced の ə が連結 [ɑnəˈdvænst] アナドヴァンスト"
+          ],
+          "kana": "ザ プロフェッサーズ アヴ ディファレント スペシャルティーズ コラボレイト アナドヴァンスト レッドストーン エンジニアリング プロジェクツ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "the professor of (分野)",

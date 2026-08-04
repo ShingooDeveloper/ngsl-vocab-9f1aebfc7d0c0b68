@@ -1,61 +1,202 @@
-{
+﻿{
   "word": "approve",
   "pos": "動詞",
   "pos_all": "動詞",
   "ipa_us": "/əˈpruːv/",
-  "rank": 1572,
-  "level": "B1",
-  "hi": "approv(?:e[sd]?|ing)",
+  "rank": 1524,
+  "level": "A2",
+  "hi": "approve|approves|approved|approving",
   "meanings": [
-    "【動詞】〜を承認する、正式に認可する（…approve something）",
-    "【動詞】〜に賛成する、同意する（…approve of something）",
-    "【動詞】好意的に受け入れる、許可する"
+    "【動詞】～を承認する、認可する（to officially accept or agree to something）",
+    "【動詞】～に満足する、～に賛成する（to have a favorable opinion of something）"
   ],
   "examples": [
     {
-      "en": "I approve of your base idea.",
-      "ja": "あなたの基地のアイデアに賛成します",
-      "ipa": "[aɪ əˈpruːvəvjɔɹ ˈbeɪs aɪˈdiːə]",
-      "kana": "アイ アプルーヴアヴユア ベース アイディア",
+      "en": "The server admin must approve all new building projects.",
+      "ja": "サーバー管理者は、すべての新しい建築プロジェクトを承認する必要があります。",
+      "ipa": "/ðə ˈsɝːvər ˈædmɪn məst əˈpruːv ˈɔl ˈnu ˈbɪldɪŋ ˈprɑdʒɛkts/",
       "linking": [
-        "approve + of → /v/ (approve の末尾) が弱形 /ə/ (of) に連結: [əˈpruːvəv] アプルーヴアヴ",
-        "of + your → /v/ (of の末尾) が /j/ (your の開始) に連結: [əvjɔɹ] アヴユア"
-      ]
+        "the server → the は弱形 /ðə/",
+        "server admin → /r/ + /ə/（子音+母音）が連結 [ˈsɝːvər ˈædmɪn] サーバー・アドミン",
+        "approve all → /v/ + /ɔ/（子音+母音）が連結 [əˈpruːv ˈɔl]"
+      ],
+      "kana": "ザ サーバー アドミン マスト アプルーブ オール ニュー ビルディング プロジェクツ"
     },
     {
-      "en": "The admin approves of PvP in the arena.",
-      "ja": "管理者はこのアリーナでのPvPに賛成しています",
-      "ipa": "[ðə ˈädmɪn əˈpruːvzəv ˈpiːˌviːˈpiː ɪn ðə əˈriːnə]",
-      "kana": "ザ アドミン アプルーヴザヴ ピーヴィーピー イン ザ アリーナ",
+      "en": "I don't approve of leaving valuable items unprotected in the base.",
+      "ja": "私は、ベースで貴重なアイテムを保護されずに放置することを承認しません。",
+      "ipa": "/aɪ ˈdoʊnt əˈpruːv əv ˈlivɪŋ ˈvæljəbəl ˈaɪtəmz ʌnprəˈtɛktɪd ɪn ðə ˈbeɪs/",
       "linking": [
-        "The → 子音の前での弱形: [ðə] ザ",
-        "approves + of → /z/ (approves の末尾) が弱形 /ə/ に連結: [əˈpruːvzəv] アプルーヴザヴ",
-        "of + PvP → /v/ が子音 /p/ に連結: [əvˈpiː] アヴピー"
-      ]
+        "approve of → /v/ + /ə/（子音+母音）が連結、of は弱形 /əv/ [əˈpruːv əv] アプルーブ・オヴ",
+        "of leaving → /v/ + /l/（子音+子音、連結なし）",
+        "in the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+      ],
+      "kana": "アイ ドウント アプルーブ オヴ リービング ヴァリュアブル アイテムズ アンプロテクティド イン ザ ベイス"
     },
     {
-      "en": "We approve of that awesome build you did.",
-      "ja": "あなたがした素晴らしいビルドを支持しています",
-      "ipa": "[wi əˈpruːvəv ðæt ˈɔsəm bɪld ju dɪd]",
-      "kana": "ウィ アプルーヴアヴ ザット オーサム ビルド ユー ディド",
+      "en": "Do you approve of the new enchanting room design?",
+      "ja": "新しいエンチャント部屋のデザインを承認しますか？",
+      "ipa": "/du ju əˈpruːv əv ðə ˈnu ɪnˈtʃæntɪŋ ˈrum dɪˈzaɪn/",
       "linking": [
-        "approve + of → /v/ が弱形 /ə/ に連結: [əˈpruːvəv] アプルーヴアヴ",
-        "of + that → /v/ が子音 /ð/ に連結: [əvðæt] アヴザット"
-      ]
+        "you approve → /u/ + /ə/（子音+母音）が連結 [ju‿əˈpruːv] ユー・アプルーブ",
+        "approve of → /v/ + /ə/（子音+母音）が連結、of は弱形 /əv/",
+        "of the → /v/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+      ],
+      "kana": "ドゥー ユー アプルーブ オヴ ザ ニュー インチャンティング ルーム ディザイン"
     }
   ],
-  "idioms": [
+  "mc_examples": [
     {
-      "idiom": "approve of",
-      "ja": "〜に賛成する、〜を支持する",
-      "example": "The admin approves of your mining plan.",
-      "example_ja": "管理者はあなたの採掘計画に賛成しています",
-      "ipa": "[ðə ˈädmɪn əˈpruːvzəvjɔɹ ˈmaɪnɪŋ plæn]",
-      "kana": "ザ アドミン アプルーヴザヴユア マイニング プラン",
+      "en": "The builder must get the admin's approval before expanding the spawn area.",
+      "ja": "ビルダーはスポーンエリアを拡張する前に、管理者の承認を得る必要があります。",
+      "ipa": "/ðə ˈbɪldər məst ˈɡɛt ðə ˈædmɪnz əˈpruːvəl bɪˈfɔr ɪkˈspændɪŋ ðə ˈspɔn ˈɛriə/",
       "linking": [
-        "The → 弱形 /ðə/: [ðə] ザ",
-        "approves + of → /z/ が弱形 /ə/ に連結: [əˈpruːvzəv] アプルーヴザヴ",
-        "of + your → /v/ が /j/ に連結: [əvjɔɹ] アヴユア"
+        "the builder → the は弱形 /ðə/",
+        "get the → /t/ + /ð/（子音+子音、連結なし）",
+        "the admin's → the は弱形 /ðə/",
+        "expanding the → /ŋ/ + /ð/（子音+子音、連結なし）"
+      ],
+      "kana": "ザ ビルダー マスト ゲット ザ アドミンズ アプルーヴァル ビフォア イクスパンディング ザ スポーン エリア"
+    },
+    {
+      "en": "The moderator approved the new PvP arena rules after reviewing the proposal.",
+      "ja": "モデレーターは提案を検討した後、新しいPvPアリーナルールを承認しました。",
+      "ipa": "/ðə ˈmɑdəˌreɪtər əˈpruvd ðə ˈnu ˈpiˈvi ˈɛrinə ˈrulz ˈæftər rɪˈvjuːɪŋ ðə prəˈpoʊzəl/",
+      "linking": [
+        "the moderator → the は弱形 /ðə/",
+        "moderator approved → /r/ + /ə/（子音+母音）が連結 [ˈmɑdəˌreɪtər əˈpruvd]",
+        "approved the → /d/ + /ð/（子音+子音、連結なし）",
+        "after reviewing → /r/ + /r/（子音+子音、連結なし）"
+      ],
+      "kana": "ザ モダレイター アプルーヴド ザ ニュー ピー・ヴィー アリーナ ルールズ アフター リビューイング ザ プロポウザル"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "approves",
+      "ipa": "/əˈpruːvz/",
+      "examples": [
+        {
+          "en": "The server admin approves new building designs before construction begins.",
+          "ja": "サーバー管理者は、建設が始まる前に新しい建築デザインを承認します。",
+          "ipa": "/ðə ˈsɝːvər ˈædmɪn əˈpruːvz ˈnu ˈbɪldɪŋ dɪˈzaɪnz bɪˈfɔr kənˈstrʌkʃən bɪˈɡɪnz/",
+          "linking": [
+            "the server → the は弱形 /ðə/",
+            "server admin → /r/ + /ə/（子音+母音）が連結 [ˈsɝːvər ˈædmɪn]",
+            "approves new → /z/ + /n/（子音+子音、連結なし）",
+            "building designs → /ŋ/ + /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ サーバー アドミン アプルーブズ ニュー ビルディング ディザインズ ビフォア コンストラクション ビギンズ"
+        },
+        {
+          "en": "She approves of the mining plan for the diamond branch.",
+          "ja": "彼女はダイヤモンドブランチのマイニング計画を承認します。",
+          "ipa": "/ʃi əˈpruːvz əv ðə ˈmaɪnɪŋ ˈplæn fɔr ðə ˈdaɪmənd ˈbræntʃ/",
+          "linking": [
+            "approves of → /z/ + /ə/（子音+母音）が連結、of は弱形 /əv/ [əˈpruːvz əv]",
+            "of the → /v/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the mining → the は弱形 /ðə/",
+            "for the → /r/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "シー アプルーブズ オヴ ザ マイニング プラン フォア ザ ダイアモンド ブランチ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "approved",
+      "ipa": "/əˈpruːvd/",
+      "examples": [
+        {
+          "en": "The moderator approved the foundation of the new castle yesterday.",
+          "ja": "モデレーターは昨日、新しい城の基礎を承認しました。",
+          "ipa": "/ðə ˈmɑdəˌreɪtər əˈpruːvd ðə faʊnˈdeɪʃən əv ðə ˈnu ˈkæsl ˈjɛstərdeɪ/",
+          "linking": [
+            "the moderator → the は弱形 /ðə/",
+            "moderator approved → /r/ + /ə/（子音+母音）が連結 [ˈmɑdəˌreɪtər əˈpruːvd]",
+            "approved the → /d/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "of the → /v/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ モダレイター アプルーヴド ザ ファウンデイション オヴ ザ ニュー キャッスル イェスタディ"
+        },
+        {
+          "en": "Once the builder approved the design, we started gathering materials for the project.",
+          "ja": "ビルダーがデザインを承認したら、プロジェクトの材料集めを始めました。",
+          "ipa": "/ˈwʌns ðə ˈbɪldər əˈpruːvd ðə dɪˈzaɪn | wi ˈstɑrtɪd ˈɡæðərɪŋ məˈtɪriəlz fɔr ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "the builder → the は弱形 /ðə/",
+            "builder approved → /r/ + /ə/（子音+母音）が連結 [ˈbɪldər əˈpruːvd]",
+            "approved the → /d/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ワンス ザ ビルダー アプルーヴド ザ ディザイン、ウィ スターティド ガザリング マテリアルズ フォア ザ プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "approved",
+      "ipa": "/əˈpruːvd/",
+      "examples": [
+        {
+          "en": "Having been approved by the admin, the new redstone contraption was installed.",
+          "ja": "管理者に承認されたので、新しいレッドストーン装置がインストールされました。",
+          "ipa": "/ˈhævɪŋ bɪn əˈpruːvd baɪ ðə ˈædmɪn | ðə ˈnu ˈrɛdˌstoʊn kənˈtræpʃən wəz ɪnˈstɔld/",
+          "linking": [
+            "been approved → /n/ + /ə/（子音+母音）が連結 [bɪn əˈpruːvd]",
+            "by the → the は弱形 /ðə/",
+            "the admin → the は弱形 /ðə/",
+            "the new → the は弱形 /ðə/"
+          ],
+          "kana": "ハービング ビン アプルーヴド バイ ザ アドミン、ザ ニュー レッドストーン コントラプション ワズ インストールド"
+        },
+        {
+          "en": "The approved mining area expanded to include the new cave system.",
+          "ja": "承認されたマイニングエリアは、新しい洞窟システムを含むように拡張されました。",
+          "ipa": "/ðə əˈpruːvd ˈmaɪnɪŋ ˈɛriə ɪkˈspændɪd tu ɪnˈklud ðə ˈnu ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "the approved → the は弱形 /ðə/",
+            "mining area → /ŋ/ + /ɛ/（子音+母音）が連結 [ˈmaɪnɪŋ ˈɛriə]",
+            "to include → to は弱形 /tə/",
+            "the new → the は弱形 /ðə/"
+          ],
+          "kana": "ザ アプルーヴド マイニング エリア イクスパンディド トゥー インクルード ザ ニュー ケイヴ シスタム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "approving",
+      "ipa": "/əˈpruːvɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is approving the new blueprint for the automated farm today.",
+          "ja": "管理者は今日、自動農場の新しいブループリントを承認しています。",
+          "ipa": "/ðə ˈædmɪn ɪz əˈpruːvɪŋ ðə ˈnu ˈbluːˌprɪnt fɔr ðə ˌɔtəˈmeɪtɪd ˈfɑrm təˈdeɪ/",
+          "linking": [
+            "admin is → /n/ + /ɪ/（子音+母音）が連結 [ˈædmɪn ɪz]",
+            "is approving → /z/ + /ə/（子音+母音）が連結 [ɪz əˈpruːvɪŋ]",
+            "approving the → /ŋ/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "for the → /r/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ アドミン イズ アプルーヴィング ザ ニュー ブループリント フォア ザ オートメイティド ファーム トゥデイ"
+        },
+        {
+          "en": "Approving all the renovation plans took the team over three hours.",
+          "ja": "すべてのリノベーション計画を承認するのに、チームは3時間以上かかりました。",
+          "ipa": "/əˈpruːvɪŋ ˈɔl ðə ˌrɛnəˈveɪʃən ˈplænz ˈtʊk ðə ˈtim ˈoʊvər ˈθri ˈaʊərz/",
+          "linking": [
+            "approving all → /ŋ/ + /ɔ/（子音+母音）が連結 [əˈpruːvɪŋ ˈɔl]",
+            "all the → /l/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the renovation → the は弱形 /ðə/",
+            "over three → /r/ + /θ/（子音+子音、連結なし）"
+          ],
+          "kana": "アプルーヴィング オール ザ レノベイション プランズ トゥック ザ ティーム オウヴァー スリー アワーズ"
+        }
       ]
     }
   ]

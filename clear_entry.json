@@ -246,6 +246,98 @@
           "kana": "ザ クリアリスト ワラー イズ ファウンド イン ザ フローズン オウシャン バイオーム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is clearing",
+      "ipa": "/ɪz ˈklɪrɪŋ/",
+      "examples": [
+        {
+          "en": "They are clearing the jungle to make space for a building.",
+          "ja": "彼らは建物用のスペースを作るためにジャングルをきれいにしています。",
+          "ipa": "/ðeɪ ɑr ˈklɪrɪŋ ðə ˈdʒʌŋɡəl tə ˈmeɪk speɪs fɔr ə ˈbɪldɪŋ/",
+          "linking": [
+            "are clearing: are の r /r/ が clearing の /k/ の前で子音+子音→ linking なし",
+            "the は子音前で弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ザェイ アー クリアリング ザ ジャングル タ メイク スペイス ファー ア ビルディング"
+        },
+        {
+          "en": "I'm clearing away the blocks to find diamonds.",
+          "ja": "私はダイヤモンドを見つけるためにブロックを片付けています。",
+          "ipa": "/aɪm ˈklɪrɪŋ əˈweɪ ðə blɑks tə ˈfaɪnd ˈdaɪməndz/",
+          "linking": [
+            "I'm clearing: I am の短縮 /aɪm/ で m が clearing の /k/ の前で子音+子音→ linking なし",
+            "the は子音前で弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイム クリアリング アウェイ ザ ブラックス タ ファインド ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was clearing",
+      "ipa": "/wəz ˈklɪrɪŋ/",
+      "examples": [
+        {
+          "en": "We were clearing the desert when a creeper attacked us.",
+          "ja": "私たちが砂漠をきれいにしていたとき、クリーパーが私たちを攻撃しました。",
+          "ipa": "/wi wər ˈklɪrɪŋ ðə ˈdɛzərt wɛn ə ˈkripər əˈtækt ʌs/",
+          "linking": [
+            "were clearing: were の r /r/ が clearing の /k/ の前で子音+子音→ linking なし",
+            "the は子音前で弱形 /ðə/",
+            "when a: when の語末子音 /n/ が a の初頭 /ə/ に連結 [ˈwɛnə]"
+          ],
+          "kana": "ウィ ワー クリアリング ザ デザート ウェナ クリーパー アタックド アス"
+        },
+        {
+          "en": "She was clearing the cave while searching for ores.",
+          "ja": "彼女は鉱石を探しながら洞窟をきれいにしていました。",
+          "ipa": "/ʃi wəz ˈklɪrɪŋ ðə keɪv waɪl ˈsɝtʃɪŋ fɔr ɔrz/",
+          "linking": [
+            "was clearing: was の語末子音 /z/ が clearing の初頭 /k/ の前で未開放 [wəz̚ ˈklɪrɪŋ]",
+            "the は子音前で弱形 /ðə/",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "シー ワズ クリアリング ザ ケイヴ ワイル サーチング ファー オアーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been clearing",
+      "ipa": "/həd bɪn ˈklɪrɪŋ/",
+      "examples": [
+        {
+          "en": "We had been clearing the forest for hours when it got dark.",
+          "ja": "私たちが数時間森をきれいにしていたとき、暗くなってきました。",
+          "ipa": "/wi həd bɪn ˈklɪrɪŋ ðə ˈfɔrɪst fɔr ˈaʊərz wɛn ɪt ɡɑt dɑrk/",
+          "linking": [
+            "had been: had の語末子音 /d/ が been の初頭 /b/ の前で未開放 [həd̚ bɪn]。had は弱形 /həd/",
+            "been clearing: been の /n/ が clearing の /k/ の前で子音+子音→ linking なし",
+            "the は子音前で弱形 /ðə/",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "ウィ ハド ビン クリアリング ザ フォレスト ファー アワーズ ウェン イット ガット ダーク"
+        },
+        {
+          "en": "He had been clearing the land all day to prepare for construction.",
+          "ja": "彼は建設の準備をするために一日中土地をきれいにしていました。",
+          "ipa": "/hi həd bɪn ˈklɪrɪŋ ðə lænd ɔl deɪ tə prɪˈpɛr fɔr kənˈstrʌkʃən/",
+          "linking": [
+            "had been: had の語末子音 /d/ が been の初頭 /b/ の前で未開放 [həd̚ bɪn]。had は弱形 /həd/",
+            "been clearing: been の /n/ が clearing の /k/ の前で子音+子音→ linking なし",
+            "the は子音前で弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ヒー ハド ビン クリアリング ザ ランド オール デイ ト プリペア ファー カンストラクション"
+        }
+      ]
     }
   ]
 }

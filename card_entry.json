@@ -218,6 +218,96 @@
           "kana": "ウィアー カーディング オール ザ レアー アイテム スポーンズ タ アップデイト アワー コレクション ストラテジー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is carding",
+      "ipa": "/ɪz ˈkɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "I'm carding every new player who joins the survival server to verify they're old enough.",
+          "ja": "サバイバルサーバーに参加する新しいプレイヤー全員に年齢確認をしています。",
+          "ipa": "/aɪm ˈkɑːrdɪŋ ˈɛvri ˈnjuː ˈpleɪɚ huː dʒɔɪnz ðə sɚˈvaɪvəl ˈsɜːrvɚ tə ˈvɛrɪfaɪ ðer oʊld ɪˈnʌf/",
+          "linking": [
+            "I'm carding → I'm は /aɪm/、carding の /k/ と連結しない [aɪm ˈkɑːrdɪŋ] アイム カーディング",
+            "carding every → 語末子音 /ŋ/ と母音 /ɛ/ が連結しない（子音+子音）",
+            "to verify → to は弱形 /tə/、verify の /v/ と連結しない（子音+子音）"
+          ],
+          "kana": "アイム カーディング エブリ ニュー プレイヤー フー ジョインズ ザ サーバイバル サーバー タ ベリファイ デア オウルド イナフ"
+        },
+        {
+          "en": "The admin is carding players at spawn right now to ensure server safety.",
+          "ja": "管理者は今、スポーン地点でプレイヤーに年齢確認をしてサーバー安全性を確保しています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈkɑːrdɪŋ ˈpleɪɚz æt spɔːn raɪt naʊ tə ɪnˈʃɔːr ˈsɜːrvɚ ˈseɪfti/",
+          "linking": [
+            "admin is → 語末子音 /n/ が母音 /ɪ/ に連結 [ˈædmɪn ɪz] アドミン イズ",
+            "is carding → is は弱形 /ɪz/、carding の /k/ と連結しない [ɪz ˈkɑːrdɪŋ] イズ カーディング",
+            "to ensure → to は弱形 /tə/、ensure の /ɪ/ と連結しない（子音+子音）"
+          ],
+          "kana": "ザ アドミン イズ カーディング プレイヤーズ アット スポーン ライト ナウ タ インシュア サーバー セイフティ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was carding",
+      "ipa": "/wəz ˈkɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "I was carding new members when the unexpected server lag occurred.",
+          "ja": "サーバーラグが起きた時、新しいメンバーに年齢確認をしていました。",
+          "ipa": "/aɪ wəz ˈkɑːrdɪŋ ˈnjuː ˈmɛmbɚz wen ðə ˌʌnɪkˈspɛktəd ˈsɜːrvɚ læɡ əˈkɜːrd/",
+          "linking": [
+            "was carding → was は弱形 /wəz/、carding の /k/ と連結しない [wəz ˈkɑːrdɪŋ] ワズ カーディング",
+            "carding new → 語末子音 /ŋ/ と母音 /n/ が連結しない（子音+子音）",
+            "lag occurred → 語末子音 /ɡ/ が母音 /ə/ に連結 [læɡ əˈkɜːrd] ラッグ オカード"
+          ],
+          "kana": "アイ ワズ カーディング ニュー メンバーズ ウェン ザ アンイクスペクティド サーバー ラッグ オカード"
+        },
+        {
+          "en": "They were carding tournament participants all afternoon before the event started.",
+          "ja": "イベント開始前、午後中ずっとトーナメント参加者に年齢確認をしていました。",
+          "ipa": "/ðeɪ wɚ ˈkɑːrdɪŋ ˈtʊrnəmənt pɑːrˈtɪsɪpənts ɔːl ˌæftɚˈnuːn bɪˈfɔːr ðə ɪˈvɛnt ˈstɑːrtəd/",
+          "linking": [
+            "were carding → were は弱形 /wɚ/、carding の /k/ と連結しない [wɚ ˈkɑːrdɪŋ] ウェア カーディング",
+            "all afternoon → 語末子音 /l/ が母音 /æ/ に連結 [ɔːl ˌæftɚˈnuːn] オール アフターヌーン",
+            "before the → 語末子音 /r/ と母音 /ð/ が連結しない（子音+子音）"
+          ],
+          "kana": "ゼイ ウェア カーディング トーナメント パーティシパント オール アフターヌーン ビフォー ザ イベント スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been carding",
+      "ipa": "/hæd bɪn ˈkɑːrdɪŋ/",
+      "examples": [
+        {
+          "en": "I had been carding players for hours before I realized the server list needed updating.",
+          "ja": "サーバーリストの更新が必要だと気づく前に、何時間もプレイヤーに年齢確認をしていました。",
+          "ipa": "/aɪ hæd bɪn ˈkɑːrdɪŋ ˈpleɪɚz fɚ ˈaʊɚz bɪˈfɔːr aɪ ˈriːəlaɪzd ðə ˈsɜːrvɚ lɪst ˈnidəd ʌpˈdeɪtɪŋ/",
+          "linking": [
+            "had been → had は /hæd/ またはより弱く /həd/、been は /bɪn/ またはより弱く /bən/ [hæd bɪn] ハド ビン",
+            "been carding → been /bɪn/ の語末が母音なので連結されず [bɪn ˈkɑːrdɪŋ] ビン カーディング",
+            "I realized → 語末子音 /aɪ/ と母音 /r/ が連結 [aɪ ˈriːəlaɪzd] アイ リアライズド"
+          ],
+          "kana": "アイ ハド ビン カーディング プレイヤーズ フォア アワーズ ビフォー アイ リアライズド ザ サーバー リスト ニーディド アップデイティング"
+        },
+        {
+          "en": "She had been carding applicants all week to prepare for the recruitment event.",
+          "ja": "リクルートイベントの準備のために、1週間中ずっと申請者に年齢確認をしていました。",
+          "ipa": "/ʃi hæd bɪn ˈkɑːrdɪŋ ˈæplɪkənts ɔːl wik tə prɪˈper fɚ ðə rɪˈkruːtmənt ɪˈvɛnt/",
+          "linking": [
+            "had been → had は /hæd/ またはより弱く /həd/、been は /bɪn/ またはより弱く /bən/ [hæd bɪn] ハド ビン",
+            "been carding → been /bɪn/ の語末が母音なので連結されず [bɪn ˈkɑːrdɪŋ] ビン カーディング",
+            "to prepare → to は弱形 /tə/、prepare の /p/ と連結しない（子音+子音）"
+          ],
+          "kana": "シ ハド ビン カーディング アプリカント オール ウィーク タ プリペア フォー ザ リクルートメント イベント"
+        }
+      ]
     }
   ]
 }

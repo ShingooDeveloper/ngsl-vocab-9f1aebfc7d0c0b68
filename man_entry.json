@@ -21,7 +21,7 @@
       "ipa": "/ə ˈmæn ɪz ˈmaɪnɪŋ ˈdaɪmənz ˈdip bɪˈloʊ ðə ˈsɝfɪs/",
       "linking": [
         "a は冠詞で弱形 /ə/。man の初頭子音 /m/ に連結。",
-        "below の末尾子音 /oʊ/ は次に母音がないため連結なし。the は弱形 /ðə/。"
+        "below の末尾は母音 /oʊ/。the は弱形 /ðə/。母音同士が続きます。"
       ],
       "kana": "ア マン イズ マイニング ダイモンズ ディープ ビロー ザ サーフィス"
     },
@@ -32,7 +32,7 @@
       "linking": [
         "the は弱形 /ðə/。",
         "point の末尾子音 /t/ が won't の初頭 /w/ に続かない（子音+子音）。",
-        "let us: let の末子音 /t/ が us の初頭 /ə/ に連結。米語ではフラップ化: [lɛɾəs]"
+        "let us: let の末子音 /t/ が us の初頭母音 /ə/ に挟まれてフラップ化: [lɛɾəs]"
       ],
       "kana": "ザ マン スタンディング ガード アット ザ スポーン ポイント ウォント レット アス パス"
     },
@@ -41,8 +41,8 @@
       "ja": "一緒に働く男たちはサバイバルモードで巨大な構造物を建設できます。",
       "ipa": "/ˈmɛn ˈwɝkɪŋ təˈɡɛðɚ kæn ˈbɪld ˈmæsɪv ˈstrʌktʃərz ɪn sɚˈvaɪvəl ˈmoʊd/",
       "linking": [
-        "together の末尾 /ər/ が can の初頭 /k/ に続かない。",
-        "survival の末尾子音 /l/ が mode の初頭母音 /m/ に続かない。"
+        "together の末尾 /ər/ が can の初頭 /k/ に続かない（子音+子音）。",
+        "survival の末尾子音 /l/ が mode の初頭子音 /m/ に続く（子音+子音、リエゾンなし）。"
       ],
       "kana": "メン ワーキング トゥゲザー キャン ビルド マシーヴ ストラクチャーズ イン サーヴァイヴァル モード"
     }
@@ -93,12 +93,12 @@
         },
         {
           "en": "These men are skilled miners who know exactly where to find rare ores.",
-          "ja": "これらの男たちはレアなな鉱石がどこにあるかを正確に知っている熟練した鉱夫です。",
+          "ja": "これらの男たちはレアな鉱石がどこにあるかを正確に知っている熟練した鉱夫です。",
           "ipa": "/ðiz ˈmɛn ɑr skɪld ˈmaɪnərz hu noʊ ɪɡˈzæktli wɛr tu ˈfaɪnd ˈrɛr ˈɔrz/",
           "linking": [
             "rare の末尾子音 /r/ が ores の初頭母音 /ɔ/ に連結。"
           ],
-          "kana": "ディーズ メン アー スキルド マイナーズ フー ノー イグザクトリー ウェア トゥ ファインド レアー オアーズ"
+          "kana": "ディーズ メン アー スキルド マイナーズ フー ノー イグザクトリー ウェア トゥ ファインド レア オアーズ"
         }
       ]
     },
@@ -211,9 +211,98 @@
           "linking": [
             "manning の末音 /ŋ/ が multiple の初頭母音 /ə/ に続く。",
             "checkpoints の末尾子音 /s/ が we の初頭 /w/ に続かない。",
-            "all の末尾子音 /l/ が the の初頭 /ð/ に続く。the は弱形 /ðə/。"
+            "all の末尾子音 /l/ が the の初頭 /ð/ に続かない（子音+子音）。the は弱形 /ðə/。"
           ],
           "kana": "バイ マニング マルティプル チェックポインツ ウィー クッド マニター オール ザ エントランシーズ トゥ アワー カムパウンド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is manning",
+      "ipa": "/ɪz ˈmænɪŋ/",
+      "examples": [
+        {
+          "en": "Players are manning the checkpoint in shifts right now.",
+          "ja": "プレイヤーは今、交代でチェックポイントに人を配置しています。",
+          "ipa": "/ˈpleɪərz ɑr ˈmænɪŋ ðə ˈtʃɛkˌpɔɪnt ɪn ˈʃɪfts ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are は弱形 /ɚ/ で発音される。manning の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、リエゾンなし）。the は弱形 /ðə/。",
+            "checkpoint の末尾子音 /t/ と in の初頭母音 /ɪ/ で、/t/ がフラップ化：[ˈtʃɛkˌpɔɪnɾɪn]。"
+          ],
+          "kana": "プレイヤーズ アー マニング ザ チェックポイント イン シフツ ライト ナウ"
+        },
+        {
+          "en": "The server admin is manning the console right now to fix a bug.",
+          "ja": "サーバー管理者は今、バグを修正するためにコンソールを操作しています。",
+          "ipa": "/ðə ˈsɝvər ˈædmɪn ɪz ˈmænɪŋ ðə ˈkɑnˌsoʊl ˈraɪt ˈnaʊ tu ˈfɪks ə ˈbʌɡ/",
+          "linking": [
+            "the は弱形 /ðə/。admin の末尾 /n/ が is の初頭 /ɪ/ に続く。is は弱形 /ɪz/（助動詞）。",
+            "manning の末尾 /ŋ/ が the の初頭に続き、the は弱形 /ðə/。",
+            "to は機能語で弱形 /tə/。a は弱形 /ə/。"
+          ],
+          "kana": "ザ サーヴァー アドミン イズ マニング ザ コンソール ライト ナウ トゥ フィックス ア バグ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was manning",
+      "ipa": "/wəz ˈmænɪŋ/",
+      "examples": [
+        {
+          "en": "While we were mining, others were manning the defenses against mobs.",
+          "ja": "私たちが採掘している間、他の人たちがモブに対する防御を守っていました。",
+          "ipa": "/waɪl wi wər ˈmaɪnɪŋ ˈʌðərz wər ˈmænɪŋ ðə dɪˈfɛnsɪz əˈɡɛnst ˈmoʊbz/",
+          "linking": [
+            "we は弱形 /wi/ で発音。were は弱形 /wər/。mining の末尾 /ŋ/ が others の初頭母音 /ʌ/ に続く。",
+            "others の末尾子音 /z/ が were の初頭 /w/ に続かない（子音+子音）。were は弱形 /wər/。",
+            "the は弱形 /ðə/。against の末尾子音 /t/ が mobs の初頭 /m/ に続かない（子音+子音）。"
+          ],
+          "kana": "ワイル ウィー ワー マイニング アザーズ ワー マニング ザ ディフェンシーズ アゲンスト モーブズ"
+        },
+        {
+          "en": "I was manning the gate when the endermen invasion started.",
+          "ja": "エンダーマンの侵攻が始まったとき、私はゲートを守っていました。",
+          "ipa": "/aɪ wəz ˈmænɪŋ ðə ˈɡeɪt wɛn ðə ˈɛndərˌmɛn ɪnˈveɪʒən ˈstɑrtɪd/",
+          "linking": [
+            "was は弱形 /wəz/。",
+            "the は弱形 /ðə/。gate の末尾 /t/ が when の初頭 /w/ に続かない。",
+            "the は弱形 /ðə/。invasion の末尾子音 /n/ が started の初頭 /s/ に続かない。"
+          ],
+          "kana": "アイ ワズ マニング ザ ゲイト ウェン ザ エンダーメン インベージョン スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been manning",
+      "ipa": "/hæd bɪn ˈmænɪŋ/",
+      "examples": [
+        {
+          "en": "We had been manning the walls for days before the siege finally ended.",
+          "ja": "包囲がついに終わる前に、私たちは何日も壁を守っていました。",
+          "ipa": "/wi hæd bɪn ˈmænɪŋ ðə ˈwɔlz fər ˈdeɪz bɪˈfɔr ðə ˈsidʒ ˈfaɪnəli ˈɛndɪd/",
+          "linking": [
+            "had は弱形 /həd/。had の末尾 /d/ が been の初頭母音 /b/ に連結: [ˈhəd bɪn]。",
+            "the は弱形 /ðə/。walls の末尾 /z/ が for の初頭 /f/ に続かない。for は弱形 /fər/。",
+            "before の末尾子音 /r/ が the の初頭 /ð/ に連結。the は弱形 /ðə/。"
+          ],
+          "kana": "ウィー ハッド ビン マニング ザ ウォールズ ファー デイズ ビフォー ザ シージ ファイナリー エンディド"
+        },
+        {
+          "en": "By that time, she had been manning the command center for weeks nonstop.",
+          "ja": "その時点で、彼女はコマンドセンターを何週間もノンストップで守っていました。",
+          "ipa": "/baɪ ðæt ˈtaɪm ʃi hæd bɪn ˈmænɪŋ ðə kəˈmænd ˈsɛntər fər ˈwiks ˈnɑnˌstɑp/",
+          "linking": [
+            "that の末尾子音 /t/ が time の初頭 /t/ に未開放で接する: [ðæt̚ ˈtaɪm]。",
+            "had は弱形 /həd/。had の末尾 /d/ が been の初頭母音 /b/ に連結: [ˈhəd bɪn]。",
+            "the は弱形 /ðə/。center の末尾 /r/ が for の初頭 /f/ に続かない。for は弱形 /fər/。"
+          ],
+          "kana": "バイ ザット タイム シー ハッド ビン マニング ザ コマンド センター ファー ウィークス ナンスタップ"
         }
       ]
     }

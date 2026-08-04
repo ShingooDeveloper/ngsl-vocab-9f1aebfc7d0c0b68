@@ -43,6 +43,36 @@
       "kana": "テイク ケアフル メジャーメンツ アヴ ザ レッドストーン メカニズム"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "measurements",
+      "ipa": "/ˈmeʒɚmənts/",
+      "examples": [
+        {
+          "en": "These measurements prove that the two structures are identical.",
+          "ja": "これらの寸法は、2つの構造物が同じであることを証明しています。",
+          "ipa": "/ðiːz ˈmeʒɚmənts pruːv ðæt ðə tuː ˈstrʌktʃɚz ɑr aɪˈdɛntɪkəl/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化する",
+            "structures の末尾子音 /z/ が are の初頭母音に連結する"
+          ],
+          "kana": "ディーズ メジャーメンツ プルーヴ ザット ザ トゥー ストラクチャーズ アー アイデンティカル"
+        },
+        {
+          "en": "We collected measurements of every cave system we discovered.",
+          "ja": "発見したすべての洞窟システムの寸法を記録しました。",
+          "ipa": "/wi kəˈlɛktəd ˈmeʒɚmənts əv ˈɛvri keɪv ˈsɪstəm wi dɪsˈkʌvɚd/",
+          "linking": [
+            "measurements の末尾子音 /s/ が of の初頭母音に連結する。of は機能語で弱形 /əv/",
+            "of の末尾子音 /v/ が every の初頭母音に連結する"
+          ],
+          "kana": "ウィー コレクテッド メジャーメンツ アヴ エブリ ケイヴ シスタム ウィー ディスカバード"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "take measurements",

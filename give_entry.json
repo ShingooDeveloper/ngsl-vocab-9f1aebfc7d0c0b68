@@ -181,6 +181,83 @@
           "kana": "バイ ギビング ユアー チーム クリアー インストラクションズ ユー キャン コーォーディネイト カムプレックス ビルディング プロジェクツ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is giving",
+      "ipa": "/ɪz ˈɡɪvɪŋ/",
+      "examples": [
+        {
+          "en": "I am giving you my diamond pickaxe right now.",
+          "ja": "今、ダイヤのツルハシをあげています。",
+          "ipa": "/aɪ æm ˈɡɪvɪŋ ju maɪ ˈdaɪmənd ˈpɪkæks raɪt naʊ/",
+          "linking": [
+            "giving you: giving の末音 /ŋ/ が you の初頭 /j/ に続く [ˈɡɪvɪŋ ju] ギビング ユー"
+          ],
+          "kana": "アイ アム ギビング ユー マイ ダイマンド ピックアックス ライト ナウ"
+        },
+        {
+          "en": "The admin is giving everyone free diamonds as a bonus this week.",
+          "ja": "管理者は今週、皆に無料でダイヤをボーナスとしてあげています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈɡɪvɪŋ ˈɛvriwʌn ˈfri ˈdaɪməndz æz ə ˈboʊnəs ðɪs wik/",
+          "linking": [
+            "is giving: is が弱形 /ɪz/、giving の末音 /ŋ/ が everyone の初頭 /ɛ/ に連結 [ɪz ˈɡɪvɪŋ ˈɛvriwʌn] イズ ギビング エヴリワン"
+          ],
+          "kana": "ザ アドミン イズ ギビング エヴリワン フリー ダイマンズ アズ ア ボーナス ディス ウィック"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was giving",
+      "ipa": "/wəz ˈɡɪvɪŋ/",
+      "examples": [
+        {
+          "en": "I was giving my friend my coordinates when the server crashed.",
+          "ja": "サーバーがクラッシュした時、友達に座標を教えていました。",
+          "ipa": "/aɪ wəz ˈɡɪvɪŋ maɪ frɛnd maɪ ˈkoʊˌɔrdənɪts wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "was giving: was が弱形 /wəz/、giving の末音 /ŋ/ が my の初頭 /m/ に続く [wəz ˈɡɪvɪŋ maɪ] ワズ ギビング マイ"
+          ],
+          "kana": "アイ ワズ ギビング マイ フレンド マイ コーォーディネイツ ウェン ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "They were giving advice about building strategies when the power went out.",
+          "ja": "建築戦略についてのアドバイスを与えていた時に、停電になった。",
+          "ipa": "/ðeɪ wɝ ˈɡɪvɪŋ ədˈvaɪs əˈbaʊt ˈbɪldɪŋ ˈstrætədʒiz wɛn ðə ˈpaʊər wɛnt aʊt/",
+          "linking": [
+            "giving advice: giving の末音 /ŋ/ が advice の初頭 /ə/ に連結 [ˈɡɪvɪŋ ə] ギビング ア"
+          ],
+          "kana": "ゼイ ワー ギビング アドバイス アバウト ビルディング ストラテジーズ ウェン ザ パウアー ウェント アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been giving",
+      "ipa": "/həd bɪn ˈɡɪvɪŋ/",
+      "examples": [
+        {
+          "en": "He had been giving out free supplies all morning before logging off.",
+          "ja": "ログオフする前に、彼は朝中無料で物資を配っていました。",
+          "ipa": "/hi həd bɪn ˈɡɪvɪŋ aʊt ˈfri səˈplaɪz ɔl ˈmɔrnɪŋ bɪˈfɔr ˈlɑɡɪŋ ɔf/",
+          "linking": [
+            "giving out: giving の末音 /ŋ/ が out の初頭 /aʊ/ に続く [ˈɡɪvɪŋ aʊt] ギビング アウト"
+          ],
+          "kana": "ヒー ハド ビン ギビング アウト フリー サプライズ オール モーニング ビフォー ロギング オフ"
+        },
+        {
+          "en": "We had been giving new players equipment and guidance for several hours when the event ended.",
+          "ja": "イベントが終了するまでに、私たちは数時間新規プレイヤーに装備とガイダンスを与えていました。",
+          "ipa": "/wi həd bɪn ˈɡɪvɪŋ ˈnu ˈpleɪərz ɪˈkwɪpmənt ænd ˈɡaɪdəns fɔr ˈsɛvərəl ˈaʊərz wɛn ðə ɪˈvɛnt ˈɛndəd/",
+          "linking": [
+          ],
+          "kana": "ウィー ハド ビン ギビング ニュー プレイヤーズ イクウィップメント アンド ガイダンス フォー セヴァラル アワーズ ウェン ザ イベント エンデッド"
+        }
+      ]
     }
   ]
 }

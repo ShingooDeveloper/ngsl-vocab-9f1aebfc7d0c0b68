@@ -239,6 +239,112 @@
           "kana": "ウィンター イズ ニアリング ギャザー リソーシズ ファスト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is nearing",
+      "ipa": "/ɪz ˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The storm is nearing our base.",
+          "ja": "嵐が私たちの基地に接近している。",
+          "ipa": "[ðə ˈstɔrm ɪz ˈnɪrɪŋ ˈaʊr beɪs]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "storm の末尾 /m/ が is の初頭 /ɪ/ に連結 [ˈstɔrm ɪz]",
+            "is の末尾 /z/ が nearing の初頭 /n/ に前置（連結なし）",
+            "nearing の末尾 /ŋ/ が our の初頭 /aʊ/ に連結 [ˈnɪrɪŋ ˈaʊr]"
+          ],
+          "kana": "ザ ストーム イズ ニアリング アワー ベイス"
+        },
+        {
+          "en": "A zombie is nearing the door.",
+          "ja": "ゾンビが扉に接近している。",
+          "ipa": "[ə ˈzɑmbi ɪz ˈnɪrɪŋ ðə dɔr]",
+          "linking": [
+            "a は弱形 /ə/",
+            "is の末尾 /z/ が nearing の初頭 /n/ に前置（連結なし）",
+            "nearing の末尾 /ŋ/ が the の初頭 /ð/ に前置（連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ア ゾンビー イズ ニアリング ザ ドア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was nearing",
+      "ipa": "/wəz ˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The lava was nearing the building.",
+          "ja": "溶岩が建物に接近していた。",
+          "ipa": "[ðə ˈlɑvə wəz ˈnɪrɪŋ ðə ˈbɪldɪŋ]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was は弱形 /wəz/",
+            "was の末尾 /z/ が nearing の初頭 /n/ に前置（連結なし）",
+            "nearing の末尾 /ŋ/ が the の初頭 /ð/ に前置（連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ラーバ ワズ ニアリング ザ ビルディング"
+        },
+        {
+          "en": "We were nearing the cave entrance.",
+          "ja": "私たちは洞窟入口に接近していた。",
+          "ipa": "[wi wər ˈnɪrɪŋ ðə keɪv ˈɛntrəns]",
+          "linking": [
+            "were は弱形 /wər/",
+            "were の末尾 /r/ が nearing の初頭 /n/ に前置（連結なし）",
+            "nearing の末尾 /ŋ/ が the の初頭 /ð/ に前置（連結なし）",
+            "the は弱形 /ðə/",
+            "cave の末尾 /v/ が entrance の初頭 /ɛ/ に連結 [keɪv ˈɛntrəns]"
+          ],
+          "kana": "ウィ ワー ニアリング ザ ケイヴ エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been nearing",
+      "ipa": "/həd bɪn ˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The players had been nearing the End portal for hours.",
+          "ja": "プレイヤーたちは何時間もエンドポータルに接近していた。",
+          "ipa": "[ðə ˈpleɪərz həd bɪn ˈnɪrɪŋ ðə ɛnd ˈpɔrtəl fɔr ˈaʊərz]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "players の末尾 /z/ が had の初頭 /h/ に前置（連結なし）",
+            "had は弱形 /həd/",
+            "had の末尾 /d/ が been の初頭 /b/ に前置（連結なし）",
+            "been は弱形 /bɪn/",
+            "been の末尾 /n/ が nearing の初頭 /n/ に連結（同一子音、1つに聞こえる）[bɪn ˈnɪrɪŋ]",
+            "nearing の末尾 /ŋ/ が the の初頭 /ð/ に前置（連結なし）",
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザ プレイヤーズ ハド ビン ニアリング ザ エンド ポータル フォー アワーズ"
+        },
+        {
+          "en": "I had been nearing a dangerous area.",
+          "ja": "私は危険な地域に接近していた。",
+          "ipa": "[aɪ həd bɪn ˈnɪrɪŋ ə ˈdeɪndʒərəs ˈɛriə]",
+          "linking": [
+            "had は弱形 /həd/",
+            "had の末尾 /d/ が been の初頭 /b/ に前置（連結なし）",
+            "been は弱形 /bɪn/",
+            "been の末尾 /n/ が nearing の初頭 /n/ に連結 [bɪn ˈnɪrɪŋ]",
+            "nearing の末尾 /ŋ/ が a の弱形 /ə/ に連結 [ˈnɪrɪŋ ə]",
+            "a は弱形 /ə/",
+            "dangerous の末尾 /s/ が area の初頭 /ɛ/ に連結 [ˈdeɪndʒərəs ˈɛriə]"
+          ],
+          "kana": "アイ ハド ビン ニアリング ア デンジャラス エリア"
+        }
+      ]
     }
   ]
 }

@@ -45,6 +45,72 @@
       "kana": "ル ージング オール ユア アイ テムズ ハザ サイ カ ラー ジ カ リン パクタン ユー"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "more psychological",
+      "ipa": "/mɔr ˌsaɪkəˈlɑdʒɪkəl/",
+      "examples": [
+        {
+          "en": "Playing in the Nether is a more psychological experience than mining underground.",
+          "ja": "ネザーでプレイすることは、地下採掘よりも心理的な体験です。",
+          "ipa": "[ˈpleɪɪŋ ɪn ðə ˈnɛðɚɪz ə ˌmɔr ˌsaɪkəˈlɑdʒɪkəlɪkˈspɪɚiəns ðə ˈmaɪnɪŋ ˌʌndɚˈɡraʊnd]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "Nether の末尾 /r/ が is の初頭 /ɪ/ に連結: [ˈnɛðɚɪz] ネザリズ",
+            "is の末尾 /z/ が a の初頭 /ə/ に連結: [ɪzə] イザ",
+            "than は弱形 /ðə/ に弱化"
+          ],
+          "kana": "プレイング イン ザ ネザ リズ ア モア サイ カ ラー ジ カ リク スピ リ エンス ザ マイ ニング アンダー グラウンド"
+        },
+        {
+          "en": "Losing all your items in survival is a more psychological challenge than restarting.",
+          "ja": "サバイバルモードですべてのアイテムを失うことは、再スタートするよりも心理的なチャレンジです。",
+          "ipa": "[ˈluzɪŋ ɔl jɔr ˈaɪtəmz ɪn sɚˈvaɪvəl ɪz ə ˌmɔr ˌsaɪkəˈlɑdʒɪkəlˈtʃælɪndʒ ðən riˈstɑrtɪŋ]",
+          "linking": [
+            "all your → 語末の /l/ が your の初頭 /j/ に連結: [ɔljɔr] オールユア",
+            "is a → is の末尾 /z/ が a の初頭 /ə/ に連結: [ɪzə] イザ",
+            "more psychological → 語末の /r/ と初頭の /s/ は子音同士なので連結なし",
+            "than restarting → than は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ル ージング オール ユア アイ テムズ イン サー ヴァイ ヴァル イザ モア サイ カ ラー ジ カル チャ リンジ ザン リ スター ティング"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "most psychological",
+      "ipa": "/moʊst ˌsaɪkəˈlɑdʒɪkəl/",
+      "examples": [
+        {
+          "en": "The Wither boss is the most psychological threat in all of Minecraft.",
+          "ja": "Witherボスはマインクラフト全体で最も心理的な脅威です。",
+          "ipa": "[ðə ˈwɪðɚ bɔs ɪz ðə ˈmoʊst ˌsaɪkəˈlɑdʒɪkəlˈθrɛt ɪn ɔl əv ˈmaɪnkræft]",
+          "linking": [
+            "the (1st) は弱形 /ðə/ に弱化",
+            "the (2nd) は弱形 /ðə/ に弱化",
+            "most psychological → 語末の /t/ が psychological の初頭 /s/ に連結なし",
+            "threat in → 語末の /t/ が in の初頭 /ɪ/ に連結: [θrɛtɪn] スレッティン"
+          ],
+          "kana": "ザ ウィザー バース イズ ザ モースト サイ カ ラー ジ カル スレッ ティン オール ア ヴ マイン クラフト"
+        },
+        {
+          "en": "Endermen represent the most psychological horror element in the game.",
+          "ja": "Endermanはゲーム内で最も心理的なホラー要素を表しています。",
+          "ipa": "[ˈɛndɚmən ˌrɛprɪˈzɛnt ðə ˈmoʊst ˌsaɪkəˈlɑdʒɪkəlˈhɔrɚ ˈɛləmənt ɪn ðə ɡeɪm]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "most psychological → 語末の /t/ が psychological の初頭 /s/ に連結なし",
+            "horror element → 語末の /r/ が element の初頭 /ɛ/ に連結: [ˈhɔrɛ] ホーレ",
+            "element in → 語末の /t/ が in の初頭 /ɪ/ に連結: [ˈlɛməntɪn] レ モン ティン"
+          ],
+          "kana": "エン ダー マン レプ リ ゼント ザ モースト サイ カ ラー ジ カル ホー レ エ レ メント イン ザ ゲイム"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "psychological warfare",

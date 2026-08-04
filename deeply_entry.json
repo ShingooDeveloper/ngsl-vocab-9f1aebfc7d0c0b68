@@ -46,6 +46,65 @@
       "kana": "ヒ フェル ディープリ アスレップドゥーリング ザ ナイト"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more deeply",
+      "ipa": "/mɔːr ˈdiːpli/",
+      "examples": [
+        {
+          "en": "You need to dig more deeply to find diamonds.",
+          "ja": "ダイヤモンドを見つけるにはもっと深く掘る必要があります。",
+          "ipa": "/juː ˈniːd̚ tə ˈdɪɡ ˈmɔːr ˈdiːpli tə ˈfaɪnd ˈdaɪmənz/",
+          "linking": [
+            "need to → need の語末 /d/ が未開放で、to は弱形 /tə/ に弱化",
+            "to dig → to は弱形 /tə/"
+          ],
+          "kana": "ユー ニード タ ディグ モア ディープリ タ ファインド ダイマンズ"
+        },
+        {
+          "en": "The dungeon goes more deeply underground than the cave.",
+          "ja": "ダンジョンは洞窟より地下深くにある。",
+          "ipa": "/ðə ˈdʌŋɡən ɡoʊz ˈmɔːr ˈdiːpli ˌʌndərˈɡraʊnd ðən ðə keɪv/",
+          "linking": [
+            "The → 弱形 /ðə/ に弱化",
+            "than the → than は弱形 /ðən/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ダンジャン ゴーズ モア ディープリ アンダーグラウンド ザン ザ ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most deeply",
+      "ipa": "/moʊst ˈdiːpli/",
+      "examples": [
+        {
+          "en": "The ancient city is buried most deeply beneath the surface.",
+          "ja": "古い都市は地表面の最も深い場所に埋もれている。",
+          "ipa": "/ðə ˈeɪnʃənt ˈsɪti ɪz ˈbɛrid moʊst ˈdiːpli bɪˈniːθ ðə ˈsɜːrfɪs/",
+          "linking": [
+            "The → 弱形 /ðə/ に弱化",
+            "most deeply → most の語末 /t/ が未開放で、deeply に続く",
+            "the surface → the は弱形 /ðə/"
+          ],
+          "kana": "ザ エイシェント シティ イズ ベリッド モースト ディープリ ビニース ザ サーフィス"
+        },
+        {
+          "en": "I've explored most deeply in the nether biome.",
+          "ja": "ネザーバイオームでもっとも深く探索した。",
+          "ipa": "/aɪv ɪkˈsplɔːrd moʊst ˈdiːpli ɪn ðə ˈnɛðər ˈbaɪoʊm/",
+          "linking": [
+            "most deeply → most の語末 /t/ が未開放で、deeply に続く",
+            "in the → in は弱形 /ɪn/、the は弱形 /ðə/"
+          ],
+          "kana": "アイヴ エクスプロアド モースト ディープリ イン ザ ネザー バイオム"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "deeply concerned",

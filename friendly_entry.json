@@ -61,5 +61,64 @@
       ],
       "kana": "ウォッチ アウト フレンドリー ファイアリズ イネイブルド ソー ドンッ ヒット ユア ティームメイツ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "friendlier",
+      "ipa": "/ˈfrendliər/",
+      "examples": [
+        {
+          "en": "This server is friendlier than the old one.",
+          "ja": "このサーバーは前のサーバーより友好的だ。",
+          "ipa": "/ðɪs ˈsɝvər ɪz ˈfrendliər ðən ðiː oʊld wʌn/",
+          "linking": [
+            "server is → 語末子音 /r/ が母音 /ɪ/ に連結 [ˈsɝvərɪz] サーバーリズ",
+            "friendlier than → 語末子音 /r/ が弱形 than /ðən/ の母音 /ə/ に連結 [ˈfrendliərðən] フレンドリアーザン"
+          ],
+          "kana": "ディス サーバーリズ フレンドリアーザン ザ オウルド ワン"
+        },
+        {
+          "en": "Building a base is friendlier to new players than mining alone.",
+          "ja": "基地を作るのは、一人で採掘するよりも新しいプレイヤーにより友好的だ。",
+          "ipa": "/ˈbɪldɪŋ ə beɪs ɪz ˈfrendliər tə nu ˈpleɪərz ðən ˈmaɪnɪŋ əˈloʊn/",
+          "linking": [
+            "base is → 語末子音 /s/ が母音 /ɪ/ に連結 [beɪsɪz] ベイシズ",
+            "friendlier to → 語末子音 /r/ が弱形 to /tə/ の母音に連結 [ˈfrendliərtə] フレンドリアータ",
+            "to new → 弱形 to /tə/ が母音 /n/ に先行 [tə nu] タ ニュー"
+          ],
+          "kana": "ビルディング ア ベイシズ フレンドリアータ ニュー プレイアーズ ザン マイニング アローン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "friendliest",
+      "ipa": "/ˈfrendliəst/",
+      "examples": [
+        {
+          "en": "This is the friendliest community in all of Minecraft.",
+          "ja": "これはマインクラフト全体で最も友好的なコミュニティです。",
+          "ipa": "/ðɪs ɪz ðə ˈfrendliəst kəˈmjunəti ɪn ɔl əv ˈmaɪnkræft/",
+          "linking": [
+            "is the → 語末 /z/ が弱形 the /ðə/ の母音に連結 [ɪzðə] イズザ",
+            "all of → 語末子音 /l/ が弱形 of /əv/ の母音に連結 [ɔləv] オーラヴ"
+          ],
+          "kana": "ディス イズザ フレンドリエスト コミューニティ イン オール アヴ マインクラフト"
+        },
+        {
+          "en": "The friendliest players always help beginners learn the basics.",
+          "ja": "最も友好的なプレイヤーはいつも初心者が基本を学ぶのを手伝う。",
+          "ipa": "/ðə ˈfrendliəst ˈpleɪərz ˈɔlweɪz hɛlp ˈbɪɡɪnərz ˈlɝn ðə ˈbeɪsɪks/",
+          "linking": [
+            "players always → 語末 /z/ が母音 /ɔ/ に連結、自然な流れ [ˈpleɪərz ˈɔlweɪz] プレイアーズ オールウェイズ",
+            "the basics → 弱形 the /ðə/ が子音 /b/ に先行、スムーズに接続 [ðə ˈbeɪsɪks] ザ ベイシクス"
+          ],
+          "kana": "ザ フレンドリエスト プレイアーズ オールウェイズ ヘルプ ビギナーズ ラーン ザ ベイシクス"
+        }
+      ]
+    }
   ]
 }

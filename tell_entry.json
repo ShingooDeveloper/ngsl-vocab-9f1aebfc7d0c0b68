@@ -189,6 +189,102 @@
           "kana": "ザ システミズ テリング アス イズザ サーヴァー イズ アバウット タリスターット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is telling",
+      "ipa": "/ɪzˈtɛlɪŋ/",
+      "examples": [
+        {
+          "en": "I'm telling my friend about the enderman encounter.",
+          "ja": "エンダーマンとの遭遇について友達に話しています。",
+          "ipa": "/aɪm ˈtɛlɪŋ maɪ frɛnd əˈbaʊt ðə ˈɛndərˌmæn ɪnˈkaʊntər/",
+          "linking": [
+            "I'm telling: I'm の語末 /m/ が telling の初頭 /t/ に直続。未開放 [aɪm̚ˈtɛlɪŋ] アイム テリング",
+            "friend about: friend の語末子音 /d/ が about の初頭母音 /ə/ に連結 [frɛndəˈbaʊt] フレンド アバウト",
+            "the は弱形 /ðə/ に弱化。enderman の /ɛ/ に連結 [ðəˈɛndər] ザ エンダー"
+          ],
+          "kana": "アイム テリング マイ フレンド アバウット ザ エンダーマン インカウンター"
+        },
+        {
+          "en": "He is telling everyone how to find the stronghold.",
+          "ja": "彼はみんなにストロングホールドの見つけ方を話しています。",
+          "ipa": "/hi ɪz ˈtɛlɪŋ ˈɛvriˌwən haʊ tə ˈfaɪnd ðə ˈstrɑŋˌhoʊld/",
+          "linking": [
+            "is は弱形 /ɪz/ に弱化し、telling の初頭子音 /t/ に直続。未開放 [ɪz̚ˈtɛlɪŋ] イズ テリング",
+            "telling everyone: telling の語末子音 /ŋ/ が everyone の初頭母音 /ɛ/ に連結 [ˈtɛlɪŋɛv] テリング エブリワン",
+            "to は弱形 /tə/ に弱化し、find の初頭子音 /f/ に連結 [təˈfaɪnd] タ ファインド",
+            "find the: find の語末子音 /d/ が the の初頭子音 /ð/ に直続。未開放 [ˈfaɪnd̚ ðə] ファインド ザ"
+          ],
+          "kana": "ヒー イズ テリング エブリワン ハウ タ ファインド ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was telling",
+      "ipa": "/wəzˈtɛlɪŋ/",
+      "examples": [
+        {
+          "en": "I was telling the player the exit route when the creeper appeared.",
+          "ja": "クリーパーが現れたとき、プレイヤーに脱出ルートを教えていました。",
+          "ipa": "/aɪ wəz ˈtɛlɪŋ ðə ˈpleɪər ðə ˈɛɡzɪt ruːt wɛn ðə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/ に弱化し、telling の初頭子音 /t/ に直続。未開放 [wəz̚ˈtɛlɪŋ] ワズ テリング",
+            "telling the: telling の語末子音 /ŋ/ が the の初頭子音 /ð/ に直続。未開放 [ˈtɛlɪŋ̚ ðə] テリング ザ",
+            "the は弱形 /ðə/ に弱化。player の /p/ に連結 [ðəˈpleɪ] ザプレイ",
+            "when the: when の語末子音 /n/ が the の初頭子音 /ð/ に直続。未開放 [wɛn̚ ðə] ウェン ザ"
+          ],
+          "kana": "アイ ワズ テリング ザプレイヤー ザ エグジット ルート ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "They were telling each other about the rare ore they found.",
+          "ja": "彼らは見つけたレアな鉱石についてお互いに話していました。",
+          "ipa": "/ðeɪ wɚ ˈtɛlɪŋ iːtʃ ˈʌðər əˈbaʊt ðə rɛr ɔr ðeɪ faʊnd/",
+          "linking": [
+            "were は弱形 /wɚ/ に弱化し、telling の初頭子音 /t/ に直続。未開放 [wɚ̚ˈtɛlɪŋ] ワー テリング",
+            "telling each: telling の語末子音 /ŋ/ が each の初頭母音 /i/ に連結 [ˈtɛlɪŋiːtʃ] テリング イーチ",
+            "each other: each の語末子音 /tʃ/ が other の初頭母音 /ʌ/ に連結 [iːtʃˈʌðər] イーチ アザー",
+            "about the: about の語末子音 /t/ が the の初頭子音 /ð/ に直続。未開放 [əˈbaʊt̚ ðə] アバウット ザ"
+          ],
+          "kana": "ザイ ワー テリング イーチ アザー アバウット ザレア オア ザイ ファウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been telling",
+      "ipa": "/hədˈbɪnˈtɛlɪŋ/",
+      "examples": [
+        {
+          "en": "I had been telling him to avoid lava before he fell in.",
+          "ja": "彼が溶岩に落ちてくる前に、溶岩を避けるよう言い続けていました。",
+          "ipa": "/aɪ həd bɪn ˈtɛlɪŋ ɪm tə əˈvɔɪd ˈlɑvə bɪˈfɔr hi fɛl ɪn/",
+          "linking": [
+            "had been: had の語末子音 /d/ が been の初頭子音 /b/ に連結 [hədˈbɪn] ハド ビン",
+            "been telling: been の語末子音 /n/ が telling の初頭子音 /t/ に直続。未開放 [ˈbɪn̚ˈtɛlɪŋ] ビン テリング",
+            "to は弱形 /tə/ に弱化。avoid の /ə/ に連結 [təəˈvɔɪd] タ アボイド",
+            "avoid lava: avoid の語末子音 /d/ が lava の初頭子音 /l/ に連結 [əˈvɔɪdˈlɑvə] アボイド ラバ"
+          ],
+          "kana": "アイ ハド ビン テリング イム タ アボイド ラバ ビフォア ヒー フェル イン"
+        },
+        {
+          "en": "She had been telling everyone about the new update before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、彼女は新しいアップデートについてみんなに言い続けていました。",
+          "ipa": "/ʃi həd bɪn ˈtɛlɪŋ ˈɛvriˌwən əˈbaʊt ðə ˈnu ˈʌpˌdeɪt bɪˈfɔr ðə ˈsɚvər kræʃt/",
+          "linking": [
+            "had been: had の語末子音 /d/ が been の初頭子音 /b/ に連結 [hədˈbɪn] ハド ビン",
+            "been telling: been の語末子音 /n/ が telling の初頭子音 /t/ に直続。未開放 [ˈbɪn̚ˈtɛlɪŋ] ビン テリング",
+            "telling everyone: telling の語末子音 /ŋ/ が everyone の初頭母音 /ɛ/ に連結 [ˈtɛlɪŋɛv] テリング エブリワン",
+            "about the: about の語末子音 /t/ が the の初頭子音 /ð/ に直続。未開放 [əˈbaʊt̚ ðə] アバウット ザ",
+            "the は弱形 /ðə/ に弱化。server の /s/ に連結 [ðəˈsɚ] ザサーバー"
+          ],
+          "kana": "シー ハド ビン テリング エブリワン アバウット ザ ニュー アップデイト ビフォア ザサーバー クラッシュト"
+        }
+      ]
     }
   ]
 }

@@ -68,5 +68,187 @@
       ],
       "kana": "モウブ スポンズ ニア ウォーター アー ア フリークウエント アカレンス"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more frequent",
+      "ipa": "/mɔr ˈfriːkwənt/",
+      "examples": [
+        {
+          "en": "Hostile mobs spawn more frequently in darker areas than in lit caves.",
+          "ja": "暗い場所では、ライトのある洞窟よりもホスタイルなモブがより頻繁にスポーンします。",
+          "ipa": "/ˈhoʊstəl moʊbz spɔn mɔr ˈfrikwəntli ɪn ˈdɑrkər ˈɛriəz ðæn ɪn lɪt keɪvz/",
+          "linking": [
+            "mobs spawn → /z/ + /s/ は子音+子音で連結しない",
+            "than in → than /ðæn/、in は初頭の /ɪ/ に続く（子音+母音、通常の繋がり）"
+          ],
+          "kana": "ホウステル モウブズ スポーン モア フリークウエントリー イン ダーカー エアリエズ ザン イン リット ケイブズ"
+        },
+        {
+          "en": "This fortress has more frequent spawners than the stronghold.",
+          "ja": "この要塞は要塞よりも、より頻繁なスポーナーを持っています。",
+          "ipa": "/ðɪs ˈfɔrtrəs həz mɔr ˈfrikwənt ˈspɔnərz ðən ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "has more → has は /həz/（弱形 /əz/）、more の /m/ に続く",
+            "than the → than /ðæn/、the は弱形 /ðə/"
+          ],
+          "kana": "ディス フォートレス ハズ モア フリークウエント スポーナーズ ザン ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most frequent",
+      "ipa": "/ˈmoʊst ˈfriːkwənt/",
+      "examples": [
+        {
+          "en": "The most frequent location for finding diamonds is between Y-levels 5 and 12.",
+          "ja": "ダイヤモンドを見つけるための最も頻繁な場所はY-レベル5から12の間です。",
+          "ipa": "/ðə ˈmoʊst ˈfrikwənt loʊˈkeɪʃən fɔr ˈfaɪndɪŋ ˈdaɪəməndz ɪz bɪˈtwin waɪ ˈlɛvəlz faɪv ənd twɛlv/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most frequent → /t/ + /f/ は子音+子音で連結しない",
+            "for finding → for は弱形 /fər/、finding の /f/ に続く",
+            "and twelve → and /ənd/ または /ən/、twelve の /t/ に続く"
+          ],
+          "kana": "ザ モースト フリークウエント ロケーション フォー ファインディング ダイモンズ イズ ビトウィーン ワイ レベルズ ファイブ エン トゥエルブ"
+        },
+        {
+          "en": "Creepers are the most frequent threat to our carefully crafted builds.",
+          "ja": "クリーパーは私たちの慎重に作られたビルドへの最も頻繁な脅威です。",
+          "ipa": "/ˈkripərz ɑr ðə ˈmoʊst ˈfrikwənt ˈθrɛt tə ˈaʊr ˈkɛrfəli ˈkræftɪd bɪldz/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "to our → to は弱形 /tə/、our の /aʊ/ に連結 [tə ˈaʊr]"
+          ],
+          "kana": "クリーパーズ アー ザ モースト フリークウエント スレット タ アワー ケアフリー クラフティッド ビルズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "frequents",
+      "ipa": "/frɪˈkwɛnts/",
+      "examples": [
+        {
+          "en": "She frequents the village to trade with merchants and get supplies.",
+          "ja": "彼女は商人と取引して物資を得るために村をよく訪れます。",
+          "ipa": "/ʃi frɪˈkwɛnts ðə ˈvɪlɪdʒ tə treɪd wɪð ˈmɜrʃənts ənd ɡɛt səˈplaɪz/",
+          "linking": [
+            "the village → the は弱形 /ðə/",
+            "to trade → to は弱形 /tə/",
+            "with merchants → with の語末 /ð/ が merchants の初頭 /m/（子音+子音、連結なし）",
+            "and get → and /ənd/ または /ən/、get の /ɡ/ に続く"
+          ],
+          "kana": "シー フリクウエンツ ザ ビレッジ タ トレイド ウィズ マーチャンツ エン ゲット サプライズ"
+        },
+        {
+          "en": "This player frequents the nether to collect ancient debris and netherite ore.",
+          "ja": "このプレイヤーはネザーをよく訪れて、古い破片とネザーライト鉱石を収集しています。",
+          "ipa": "/ðɪs ˈpleɪər frɪˈkwɛnts ðə ˈnɛðər tə kəˈlɛkt ˈeɪnʃənt dəˈbriː ənd ˈnɛðəraɪt ˈɔr/",
+          "linking": [
+            "the nether → the は弱形 /ðə/",
+            "to collect → to は弱形 /tə/",
+            "and netherite → and /ənd/ または /ən/、netherite の /n/ に続く"
+          ],
+          "kana": "ディス プレイヤー フリクウエンツ ザ ネザー タ コレクト エイシェント デブリー エン ネザーライト オア"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "frequented",
+      "ipa": "/frɪˈkwɛntɪd/",
+      "examples": [
+        {
+          "en": "I frequented the jungle temple yesterday looking for emeralds and books.",
+          "ja": "昨日、私はエメラルドと本を探してジャングルテンプルをよく訪れました。",
+          "ipa": "/aɪ frɪˈkwɛntɪd ðə ˈdʒʌŋɡəl ˈtɛmpəl ˈjɛstərdeɪ ˈlʊkɪŋ fɔr ɪˈmɛrəldz ənd bʊks/",
+          "linking": [
+            "the jungle → the は弱形 /ðə/",
+            "for emeralds → for は弱形 /fər/",
+            "and books → and /ənd/ または /ən/、books の /b/ に続く"
+          ],
+          "kana": "アイ フリクウエンティッド ザ ジャングル テンプル イェスターデイ ルッキング フォー イメラルズ エン ブックス"
+        },
+        {
+          "en": "We frequented the ocean monument last week to gather sponges and find treasure.",
+          "ja": "先週、私たちはスポンジを集めて宝を見つけるためにオーシャンモニュメントをよく訪れました。",
+          "ipa": "/wi frɪˈkwɛntɪd ðə ˈoʊʃən ˈmɑnumənt ˈlæst wik tə ˈɡæðər ˈspʌndʒəz ənd faɪnd ˈtrɛʒər/",
+          "linking": [
+            "the ocean → the は弱形 /ðə/",
+            "last week → last の語末 /t/ は未開放、week の初頭 /w/ は子音（連結なし）",
+            "to gather → to は弱形 /tə/",
+            "and find → and /ənd/ または /ən/、find の /f/ に続く"
+          ],
+          "kana": "ウィ フリクウエンティッド ザ オーシャン モニューメント ラスト ウィーク タ ガザー スポンジェズ エン ファインド トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "frequented",
+      "ipa": "/frɪˈkwɛntɪd/",
+      "examples": [
+        {
+          "en": "The frequently visited desert temple is famous for its treasure and traps.",
+          "ja": "頻繁に訪れられる砂漠テンプルは、その宝とトラップで有名です。",
+          "ipa": "/ðə ˈfrikwəntli ˈvɪzɪtəd ˈdɛzərt ˈtɛmpəl ɪz ˈfeɪməs fɔr ɪts ˈtrɛʒər ənd træps/",
+          "linking": [
+            "the frequently → the は弱形 /ðə/",
+            "is famous → is は弱形 /ɪz/",
+            "for its → for は弱形 /fər/",
+            "and traps → and /ənd/ または /ən/、traps の /t/ に続く"
+          ],
+          "kana": "ザ フリークウエントリー ビジティッド デザート テンプル イズ フェイマス フォー イツ トレジャー エン トラップス"
+        },
+        {
+          "en": "Players have frequented this mining spot for months because of its rich ore deposits.",
+          "ja": "プレイヤーは豊富な鉱石鉱床のため、この採掘地をここ数ヶ月間よく訪れています。",
+          "ipa": "/ˈpleɪərz həv frɪˈkwɛntɪd ðɪs ˈmaɪnɪŋ spɑt fɔr mʌnθz bɪˈkɔz əv ɪts ˈrɪtʃ ˈɔr dɪˈpɑzɪts/",
+          "linking": [
+            "have frequented → have は弱形 /əv/ または /həv/",
+            "for months → for は弱形 /fər/",
+            "because of → because /bɪˈkɔz/ または弱形 /bɪˈkəz/、of は弱形 /əv/。結果は [bɪˈkəz əv]"
+          ],
+          "kana": "プレイヤーズ ハブ フリクウエンティッド ディス マイニング スパット フォー マンスズ ビコーズ アブ イツ リッチ オア ディポジッツ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "frequenting",
+      "ipa": "/frɪˈkwɛntɪŋ/",
+      "examples": [
+        {
+          "en": "We are frequenting the End to collect chorus fruit and enderpearls.",
+          "ja": "私たちはコーラスフルーツと落ちたエンドマンを集めるためにエンドをよく訪れています。",
+          "ipa": "/wi ɑr frɪˈkwɛntɪŋ ðə ˈɛnd tə kəˈlɛkt ˈkɔrəs ˈfruːt ənd ˈɛndərpɜrlz/",
+          "linking": [
+            "are frequenting → are は弱形 /ɑr/、frequenting の /f/ に続く",
+            "the End → the は弱形 /ðə/",
+            "to collect → to は弱形 /tə/",
+            "and enderpearls → and /ənd/ または /ən/、enderpearls の /ɛ/ に続く"
+          ],
+          "kana": "ウィ アール フリクウエンティング ザ エンド タ コレクト コーラス フルーット エン エンダーパールズ"
+        },
+        {
+          "en": "Frequenting dangerous cave systems without proper gear is extremely risky.",
+          "ja": "適切な装備なしで危険な洞窟システムをよく訪れることは非常に危険です。",
+          "ipa": "/frɪˈkwɛntɪŋ ˈdeɪndʒərəs keɪv ˈsɪstəmz wɪðˈaʊt ˈprɑpər ɡɪr ɪz ɪkˈstrimli ˈrɪski/",
+          "linking": [
+            "is extremely → is は弱形 /ɪz/。extremely の /ɪ/ に続く [ɪz ɪkˈstrimli]"
+          ],
+          "kana": "フリクウエンティング デインジャラス ケイヴ システムズ ウィザウット プロパー ギア イズ イクストリームリー リスキー"
+        }
+      ]
+    }
   ]
 }

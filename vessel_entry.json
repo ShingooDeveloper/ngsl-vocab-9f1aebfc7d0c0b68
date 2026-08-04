@@ -43,5 +43,34 @@
       "kana": "ウィ ニード タ プタ ラーラヴ アイテムズ イン ザ ヴェスル"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "vessels",
+      "ipa": "/ˈvɛsəlz/",
+      "examples": [
+        {
+          "en": "We need multiple vessels to store our potions safely.",
+          "ja": "ポーションを安全に保管するために複数の容器が必要です。",
+          "ipa": "/wi ˈniːd ˈmʌltəpəl ˈvɛsəlz tə ˈstɔr ˈaʊr ˈpoʊʃənz ˈseɪfli/",
+          "linking": [
+            "to [tə]: to は機能語で弱形に弱化"
+          ],
+          "kana": "ウィ ニード マルテプル ヴェスルズ タ ストア アワー ポーシャンズ セイフリ"
+        },
+        {
+          "en": "Those large vessels can hold plenty of water.",
+          "ja": "あの大きな容器はたくさんの水を保持できます。",
+          "ipa": "/ðoʊz ˈlɑrdʒ ˈvɛsəlz kən ˈhoʊld ˈplɛnti əv ˈwɔɾər/",
+          "linking": [
+            "can [kən]: can は機能語で弱形に弱化",
+            "of water [əv ˈwɔɾər]: of は弱形、water の /t/ がフラップ /ɾ/ に変わり連結"
+          ],
+          "kana": "ドーズ ラージ ヴェスルズ カン ホウルド プレンティ アヴ ウォーラー"
+        }
+      ]
+    }
+  ]
 }

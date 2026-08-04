@@ -92,5 +92,63 @@
       ],
       "kana": "アイ インベスティド ヘヴィリ イン マイニング イクウィップメント アンド インチャンティド トゥールズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more heavily",
+      "ipa": "/mɔɹ ˈhɛvɪli/",
+      "examples": [
+        {
+          "en": "Rain falls more heavily when it storms.",
+          "ja": "嵐になると、雨はより激しく降ります。",
+          "ipa": "/ˈreɪn fɔlz mɔɹ ˈhɛvɪli ˈwen ɪt ˈstɔɹmz/",
+          "linking": [
+            "連結「when it」：語末の /n/ が母音 /ɪ/ に連結 [ˈwɛnɪt] ウェニット",
+            "「more heavily」：比較級として自然な流れ、more が先行詞"
+          ],
+          "kana": "レイン フォールズ モア ヘヴィリ ウェニット ストームズ"
+        },
+        {
+          "en": "Blocks break more heavily in the nether.",
+          "ja": "ブロックはネザーでより激しく壊れます。",
+          "ipa": "/ˈblɑks ˈbreɪk mɔɹ ˈhɛvɪli ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "連結「in the」：語末の /n/ が弱形「the」の /ð/ に連結 [ɪnðə] インザ",
+            "弱形「the」：子音の前で /ðə/ に弱化"
+          ],
+          "kana": "ブロックス ブレイク モア ヘヴィリ インザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most heavily",
+      "ipa": "/moʊst ˈhɛvɪli/",
+      "examples": [
+        {
+          "en": "Diamonds spawn most heavily at Y-level -59.",
+          "ja": "ダイヤモンドはY座標-59で最も密集して出現します。",
+          "ipa": "/ˈdaɪməndz spɔn moʊst ˈhɛvɪli æt ˈwaɪ ˈlɛvəl ˌmaɪnəs ˈfɪfti ˈnaɪn/",
+          "linking": [
+            "弱形「at」：ストレスなく /ət/ に弱化",
+            "「most heavily」：最上級として強調、primary stress は most に"
+          ],
+          "kana": "ダイモンズ スポーン モースト ヘヴィリ アット ワイ レベル マイナス フィフティ ナイン"
+        },
+        {
+          "en": "The Wither attacks most heavily when alone.",
+          "ja": "Wither は単独の時、最も激しく攻撃します。",
+          "ipa": "/ðə ˈwɪðɚ əˈtæks moʊst ˈhɛvɪli ˈwen əˈloʊn/",
+          "linking": [
+            "弱形「the」：子音 /w/ の前で /ðə/",
+            "連結「when alone」：語末の /n/ が母音 /ə/ に連結 [ˈwɛnə] ウェナ、次に stressed /loʊn/"
+          ],
+          "kana": "ザ ウィザー アタックス モースト ヘヴィリ ウェナ ローン"
+        }
+      ]
+    }
   ]
 }

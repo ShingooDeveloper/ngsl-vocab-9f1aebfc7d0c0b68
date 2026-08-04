@@ -69,5 +69,129 @@
       ],
       "kana": "アイ スウォア アフ マイニング イン ザ ネザー アローン"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "swears",
+      "ipa": "/ˈswɛrz/",
+      "examples": [
+        {
+          "en": "He swears he'll survive the night alone in the cave.",
+          "ja": "彼は洞窟の中で一晩夜明かしできることを誓う。",
+          "ipa": "/hi ˈswɛrz hiːl sərˈvaɪv ðə naɪt əˈloʊn ɪn ðə keɪv/",
+          "linking": [
+            "swears の語末子音 /z/ が he'll の初頭母音 /i/ に連結 [ˈswɛrziːl]→「スウェアーズ ヒール」",
+            "the は冠詞で弱形 /ðə/→「ザ」"
+          ],
+          "kana": "ヒー スウェアーズ ヒール サーヴァイヴ ザ ナイト アローン イン ザ ケイヴ"
+        },
+        {
+          "en": "Everyone swears to protect our base from any mob attack.",
+          "ja": "みんなは敵モブの攻撃から私たちの基地を守ることを誓う。",
+          "ipa": "/ˈɛvriˌwʌn ˈswɛrz tu prəˈtɛkt ˈaʊər beɪs frəm ˈɛni moʊb əˈtæk/",
+          "linking": [
+            "swears の語末 /z/ が to の弱形初頭母音 /ə/ に連結 [ˈswɛrzə]→「スウェアーザ」",
+            "to は機能語で弱形 /tə/",
+            "from は機能語で弱形 /frəm/→「フラム」"
+          ],
+          "kana": "エヴリワン スウェアーザ プロテクト アワー ベース フラム エニー モブ アタック"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "swore",
+      "ipa": "/swɔɹ/",
+      "examples": [
+        {
+          "en": "I swore I would rebuild the base if it was destroyed.",
+          "ja": "基地が破壊されたら再建することを誓った。",
+          "ipa": "/aɪ swɔɹ aɪ wəd rɪˈbɪld ðə ˈbeɪs ɪf ɪt wəz dɪˈstrɔɪd/",
+          "linking": [
+            "swore の語末子音 /r/ が I の初頭母音 /aɪ/ に連結 [swɔɹaɪ]→「スウォーアイ」",
+            "would は機能語で弱形 /wəd/",
+            "the は弱形 /ðə/→「ザ」",
+            "was は弱形 /wəz/→「ワズ」"
+          ],
+          "kana": "アイ スウォーアイ ウッド リビルド ザ ベース イフ イット ワズ ディストロイド"
+        },
+        {
+          "en": "She swore that the Nether base was completely safe from ghasts.",
+          "ja": "彼女はネザーの基地がガストからいわゆる完全に安全だと誓った。",
+          "ipa": "/ʃi swɔɹ ðæt ðə ˈnɛðər ˈbeɪs wəz kəmˈpliːtli ˈseɪf frəm ˈɡæsts/",
+          "linking": [
+            "the は弱形 /ðə/→「ザ」",
+            "was は弱形 /wəz/→「ワズ」",
+            "from は弱形 /frəm/→「フラム」"
+          ],
+          "kana": "シー スウォア ザット ザ ネザー ベース ワズ コンプリートリー セイフ フラム ガスツ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "sworn",
+      "ipa": "/swɔɹn/",
+      "examples": [
+        {
+          "en": "I've sworn an oath to defend this territory forever.",
+          "ja": "この領土をいつまでも守ることを誓った。",
+          "ipa": "/aɪv sworn ən oʊθ tu dɪˈfɛnd ðɪs ˈtɛrətɔri ˈfɔɹɛvər/",
+          "linking": [
+            "have の弱形 /v/ で I've [aɪv]",
+            "an は弱形 /ən/→「ナン」",
+            "to は機能語で弱形 /tə/→「トゥ」",
+            "this は弱形傾向で [ðɪs]"
+          ],
+          "kana": "アイヴ スウォーン ナン オース トゥ ディフェンド ディス テリトリー フォーエヴァー"
+        },
+        {
+          "en": "They have sworn to rebuild and repel any invasion of the land.",
+          "ja": "彼らは再建し、いかなる侵略も撃退することを誓った。",
+          "ipa": "/ðeɪ hæv sworn tu rɪˈbɪld ənd rɪˈpɛl ˈɛni ɪnˈveɪʒən əv ðə ˈlænd/",
+          "linking": [
+            "to は機能語で弱形 /tə/→「トゥ」",
+            "and は弱形 /ənd/ または /ən/→「アン」",
+            "of は弱形 /əv/→「オブ」"
+          ],
+          "kana": "ザイ ハヴ スウォーン トゥ リビルド アン リペル エニー インヴェージョン オブ ザ ランド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "swearing",
+      "ipa": "/ˈswɛrɪŋ/",
+      "examples": [
+        {
+          "en": "Stop swearing and focus on the mining task at hand!",
+          "ja": "悪態をつくのをやめて、今やる採掘作業に集中してください！",
+          "ipa": "/stɑp ˈswɛrɪŋ ənd ˈfoʊkəs ɑn ðə ˈmaɪnɪŋ ˈtæsk æt ˈhænd/",
+          "linking": [
+            "and は弱形 /ənd/ または /ən/→「アン」",
+            "the は弱形 /ðə/→「ザ」",
+            "at の語末 /t/ が next word の前で未開放 [æt̚]"
+          ],
+          "kana": "ストップ スウェアリング アン フォーカス オン ザ マイニング タスク アッ ハンド"
+        },
+        {
+          "en": "He's swearing that he'll find diamonds in the deep caves of the Overworld.",
+          "ja": "彼はオーバーワールドの深い洞窟でダイヤモンドを見つけると誓っている。",
+          "ipa": "/hiz ˈswɛrɪŋ ðæt hiːl ˈfaɪnd ˈdaɪəmændz ɪn ðə ˈdip keɪvz əv ðə ˈoʊvərˌwɝld/",
+          "linking": [
+            "He's の is は弱形化傾向 /ɪz/→「ヒーズ」",
+            "the は弱形 /ðə/→「ザ」",
+            "of は弱形 /əv/→「オブ」",
+            "Overworld の d が次の語に続く流れ"
+          ],
+          "kana": "ヒーズ スウェアリング ザット ヒール ファインド ダイアモンズ イン ザ ディープ ケイブズ オブ ザ オーバーワールド"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,71 @@
       ],
       "kana": "アイ ウォント タクリエイト アナーバン センター ウィズ ショップス アンド ロードズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more urban",
+      "ipa": "/ˈmoʊr ˈɝbən/",
+      "examples": [
+        {
+          "en": "Building in the Nether is more urban than building in a quiet village.",
+          "ja": "ネザーでの建築は静かな村での建築より都市的だ。",
+          "ipa": "/ˈbɪldɪŋ ɪn ðə ˈnɛðɚ ɪz ˈmoʊr ˈɝbən ðæn ˈbɪldɪŋ ɪn ə ˈkwaɪ.ət ˈvɪlɪdʒ/",
+          "linking": [
+            "building in → /ŋ/ + /ɪ/ は子音+母音で連結 [ˈbɪldɪŋ‿ɪn]",
+            "in the → /n/ + /ð/ は子音+子音で連結なし、the は弱形 /ðə/",
+            "is more → is は弱形 /ɪz/、more へ連結 [ɪz‿ˈmoʊr]",
+            "more urban → /r/ + /ɝ/ は子音+母音で連結 [ˈmoʊr‿ˈɝbən]"
+          ],
+          "kana": "ビルディング イン ザ ネザー イズ モア アーバン ザン ビルディング イン ア クワイエット ビレッジ"
+        },
+        {
+          "en": "This server's downtown is way more urban than the countryside zone.",
+          "ja": "このサーバーのダウンタウンは田舎ゾーンより遥かに都市的だ。",
+          "ipa": "/ðɪs ˈsɝvɚz ˈdaʊnˌtaʊn ɪz ˈweɪ ˈmoʊr ˈɝbən ðæn ðə ˈkʌn.triˌsaɪd ˈzoʊn/",
+          "linking": [
+            "server's downtown → /z/ + /d/ は子音+子音で連結なし",
+            "downtown is → /n/ + /ɪ/ は子音+母音で連結 [ˈdaʊnˌtaʊn‿ɪz]",
+            "way more → /eɪ/ で終わる way、/m/ で始まる more に流れる [ˈweɪ‿ˈmoʊr]",
+            "more urban → /r/ + /ɝ/ は子音+母音で連結 [ˈmoʊr‿ˈɝbən]"
+          ],
+          "kana": "ディス サーバーズ ダウンタウン イズ ウェイ モア アーバン ザン ザ カントリーサイド ゾーン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most urban",
+      "ipa": "/ˈmoʊst ˈɝbən/",
+      "examples": [
+        {
+          "en": "The most urban area on our server is filled with tall skyscrapers and shopping districts.",
+          "ja": "我々のサーバーで最も都市的なエリアは高いビルとショッピング地区でいっぱいだ。",
+          "ipa": "/ðə ˈmoʊst ˈɝbən ˈɛriə ɑn ˈaʊɚ ˈsɝvɚ ɪz fɪld wɪð tɔl ˈskaɪˌskræpɚz ənd ˈʃɑpɪŋ ˈdɪstrɪkts/",
+          "linking": [
+            "the most → the は弱形 /ðə/、most へ流れる [ðə‿ˈmoʊst]",
+            "most urban → /t/ + /ɝ/ は子音+母音で連結 [ˈmoʊst‿ˈɝbən]",
+            "urban area → /n/ + /ɛ/ は子音+母音で連結 [ən‿ˈɛriə]",
+            "on our → /n/ + /aʊ/ は子音+母音で連結 [ɑn‿ˈaʊɚ]"
+          ],
+          "kana": "ザ モースト アーバン エリア オン アワー サーバー イズ フィルド ウィズ トール スカイスクレイパーズ エンド ショッピング ディストリクツ"
+        },
+        {
+          "en": "This shopping district is the most urban place we've built so far.",
+          "ja": "このショッピング地区は我々がこれまで建てた中で最も都市的な場所だ。",
+          "ipa": "/ðɪs ˈʃɑpɪŋ ˈdɪstrɪkt ɪz ðə ˈmoʊst ˈɝbən pleɪs wiv bɪlt soʊ fɑr/",
+          "linking": [
+            "is the → is は弱形 /ɪz/、the は弱形 /ðə/",
+            "the most → the は弱形 /ðə/",
+            "most urban → /t/ + /ɝ/ は子音+母音で連結 [ˈmoʊst‿ˈɝbən]",
+            "urban place → /n/ + /p/ は子音+子音で連結なし"
+          ],
+          "kana": "ディス ショッピング ディストリクト イズ ザ モースト アーバン プレイス ウィヴ ビルト ソウ ファー"
+        }
+      ]
+    }
   ]
 }

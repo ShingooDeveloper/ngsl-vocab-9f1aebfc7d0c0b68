@@ -15,23 +15,23 @@
     {
       "en": "I'm writing poetry in a book on this server.",
       "ja": "このサーバーで本に詩を書いています。",
-      "ipa": "/aɪm ˈraɪtɪŋ ˈpoʊətri ɪn ə bʊk ɑn ðɪs ˈsɝvɚ/",
+      "ipa": "/aɪm ˈraɪɾɪŋ ˈpoʊətri ɪn ə bʊk ɑn ðɪs ˈsɝvɚ/",
       "linking": [
         "in の末尾子音 /n/ が a の初頭母音 /ə/ に連結。a は弱形。結果は [ɪnə] イナ。"
       ],
-      "kana": "アイム ライティング ポエトリ イナ ブック アン ディス サーヴァー"
+      "kana": "アイム ライリング ポエトリ イナ ブック アン ディス サーヴァー"
     },
     {
       "en": "The poetry of building a castle appeals to me.",
       "ja": "お城を建てることの詩的な美しさが私に魅力的です。",
-      "ipa": "/ðə ˈpoʊətri əv ˈbɪldɪŋ ə ˈkæsəl əˈpilz tə mi/",
+      "ipa": "/ðə ˈpoʊətri əv ˈbɪlɾɪŋ ə ˈkæsɚ əˈpilz tə mi/",
       "linking": [
         "The は冠詞で弱形 /ðə/。",
         "of は弱形 /əv/。",
         "a は弱形 /ə/。",
         "to は弱形 /tə/。"
       ],
-      "kana": "ザ ポエトリ アヴ ビルディング ア キャスル アピールズ タ ミー"
+      "kana": "ザ ポエトリ アヴ ビルリング ア キャスラ アピールズ タ ミー"
     },
     {
       "en": "She has poetry in her soul when she builds.",
@@ -52,6 +52,34 @@
         "the は冠詞で弱形 /ðə/。"
       ],
       "kana": "ウォッチング ザ レッドストーン パルシズ フロー イズ ポエトリ イン モーション"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "poetries",
+      "ipa": "ˈpoʊətriz",
+      "examples": [
+        {
+          "en": "The collection includes poetries from ancient and modern times.",
+          "ja": "このコレクションは古代から現代までの詩集を含んでいます。",
+          "ipa": "ðə kəˈlɛkʃən ɪnˈklʊdz ˈpoʊətriz frəm ˈeɪnʃənt ənd ˈmɑdɚn taɪmz",
+          "linking": [
+            "includes の末尾子音 /z/ が次の母音 /ə/ に連結。"
+          ],
+          "kana": "ザ コレクション インクルーズ ポエトリーズ フロム エイシェント アンド モダン タイムズ"
+        },
+        {
+          "en": "She studied poetries written in different languages.",
+          "ja": "彼女は異なる言語で書かれた詩集を研究しました。",
+          "ipa": "ʃi ˈstʌdid ˈpoʊətriz ˈrɪtən ɪn ˈdɪfərənt ˈlæŋɡwɪdʒɪz",
+          "linking": [
+            "studied の /d/ が母音 /ə/ に連結。"
+          ],
+          "kana": "シー スタディド ポエトリーズ リトン イン ディファレント ラングウィジーズ"
+        }
+      ]
     }
   ]
 }

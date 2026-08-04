@@ -45,6 +45,73 @@
       "kana": "マイニング ディス ディップ ドライヴ ミー クレイジー ファースト"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "crazier",
+      "ipa": "/ˈkreɪziər/",
+      "examples": [
+        {
+          "en": "That redstone contraption is even crazier than the last one.",
+          "ja": "そのレッドストーン装置は前のやつより更にクレイジーです。",
+          "ipa": "/ðæt̚ ˈrɛdˌstoʊn kənˈtræpʃən ɪz ˈiːvən̚ ˈkreɪziər ðæn̚ ðə læst̚ wʌn/",
+          "linking": [
+            "That の末尾 /t/ は未開放で次の語へ [ðæt̚]",
+            "even の末尾 /n/ が crazier の /k/ に接続（未開放）",
+            "than の末尾 /n/ が the の /ð/ に接続（未開放）、the は弱形 /ðə/",
+            "last の末尾 /t/ が one の /w/ に接続（未開放）"
+          ],
+          "kana": "ザッ レッドストーン コントラプション イズ イーブン クレイジアー ザン ザ ラースト ワン"
+        },
+        {
+          "en": "The Nether is getting crazier with all these mobs.",
+          "ja": "ネザーはモブが増えてきてますますクレイジーになっています。",
+          "ipa": "/ðə ˈnɛðər ɪz ˈɡɛtɪŋ̚ ˈkreɪziər wɪð ɔːl̚ ðiːz moʊbz/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "Nether の末尾 /r/ が is の母音 /ɪ/ に連結 [ˈnɛðər ɪz]",
+            "getting の末尾 /ŋ/ が crazier の /k/ に接続（未開放）",
+            "all の末尾 /l/ が these の /ð/ に接続（未開放）"
+          ],
+          "kana": "ザ ネザー イズ ゲッティン クレイジアー ウィズ オール ディーズ モブズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "craziest",
+      "ipa": "/ˈkreɪziəst/",
+      "examples": [
+        {
+          "en": "That's the craziest base I've ever seen!",
+          "ja": "それは今までで一番クレイジーなベースですね！",
+          "ipa": "/ðæts̚ ðə ˈkreɪziəs̚t beɪz aɪv ˈɛvɚ siːn/",
+          "linking": [
+            "That's の末尾 /z/ が the の /ð/ に接続（未開放）",
+            "the は弱形 /ðə/",
+            "craziest の末尾 /t/ が base の /b/ に接続（未開放）",
+            "base の末尾 /z/（有声化）が I've へ連結"
+          ],
+          "kana": "ザッツ ザ クレイジアスト ベース アイヴ エヴァー シーン"
+        },
+        {
+          "en": "The craziest thing happened when lightning struck the tree.",
+          "ja": "雷が木に落ちたときに最もクレイジーなことが起きました。",
+          "ipa": "/ðə ˈkreɪziəs̚t θɪŋ̚ ˈhæpənd wɛn̚ ˈlaɪtnɪŋ̚ ˈstrʌkðə triː/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "craziest の末尾 /t/ が thing の /θ/ に接続（未開放）",
+            "when の末尾 /n/ が lightning の /l/ に接続（未開放）",
+            "lightning の末尾 /ŋ/ が struck の /s/ に接続（未開放）",
+            "struck の末尾 /k/ が the の弱形母音 /ə/ に連結 [ˈstrʌkðə]"
+          ],
+          "kana": "ザ クレイジアスト シング ハップンド ウェン ライトニング ストラッカ トリー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "go crazy",

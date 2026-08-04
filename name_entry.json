@@ -199,6 +199,98 @@
           "kana": "バイ ネイミング シングズ プロパーリー プレイアーズ ステイ オーガナイズド ドゥアリング マルティプレイアー セッションズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is naming",
+      "ipa": "/ɪz ˈneɪmɪŋ/",
+      "examples": [
+        {
+          "en": "They are naming all the structures in their city.",
+          "ja": "彼らは自分たちの都市のすべての建造物に名前をつけています。",
+          "ipa": "/ðeɪ ɚ ˈneɪmɪŋ ɔl ðə ˈstrʌktʃɚz ən ðɚ ˈsɪti/",
+          "linking": [
+            "are は助動詞で弱形 /ɚ/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "structures の末尾 /z/ が in の /ɪn/ に連結 [ˈstrʌktʃɚzɪn] ストラクチャーズィン。",
+            "in は前置詞で弱形 /ən/ に弱化。",
+            "their は弱形 /ðɚ/ に弱化。"
+          ],
+          "kana": "ザエイ アー ネイミング オール ザ ストラクチャーズィン ザ シティ"
+        },
+        {
+          "en": "She is naming her new pet right now.",
+          "ja": "彼女は今、彼女の新しいペットに名前をつけています。",
+          "ipa": "/ʃi ɪz ˈneɪmɪŋ ɚ ˈnju pɛt ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is は機能語で弱形 /ɪz/ に弱化。",
+            "her は弱形 /ɚ/ に弱化。"
+          ],
+          "kana": "シー イズ ネイミング ァー ニュー ペット ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was naming",
+      "ipa": "/wəz ˈneɪmɪŋ/",
+      "examples": [
+        {
+          "en": "We were naming the different villages when the creeper attacked.",
+          "ja": "クリーパーが襲ってきた時、私たちは異なる村に名前をつけていました。",
+          "ipa": "/wi wɚ ˈneɪmɪŋ ðə ˈdɪfərənt ˈvɪlɪdʒɪz ˈwɛn ðə ˈkriːpɚ əˈtækt/",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（最初と2回目）。"
+          ],
+          "kana": "ウィー ワー ネイミング ザ ディファレント ヴィレッジズ ウェン ザ クリーパー アタクト"
+        },
+        {
+          "en": "He was naming each block when I joined the server.",
+          "ja": "私がサーバーに参加した時、彼は各ブロックに名前をつけていました。",
+          "ipa": "/hi wəz ˈneɪmɪŋ itʃ ˈblɑk ˈwɛn aɪ dʒɔɪnd ðə ˈsɝvɚ/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/ に弱化。",
+            "when の末尾 /n/ が I の /aɪ/ に連結 [ˈwɛnaɪ] ウェナイ。",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ヒー ワズ ネイミング イーチ ブロック ウェナイ ジョインド ザ サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been naming",
+      "ipa": "/həd bɪn ˈneɪmɪŋ/",
+      "examples": [
+        {
+          "en": "They had been naming the landmarks before the server reset.",
+          "ja": "サーバーがリセットされる前に、彼らはランドマークに名前をつけていました。",
+          "ipa": "/ðeɪ həd bɪn ˈneɪmɪŋ ðə ˈlændmɑrks bɪˈfɔr ðə ˈsɝvɚ ˈriːsɛt/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（最初と2回目）。"
+          ],
+          "kana": "ザエイ ハド ビン ネイミング ザ ランドマークス ビフォア ザ サーヴァー リーセット"
+        },
+        {
+          "en": "By the time I arrived, they had been naming the rooms for hours.",
+          "ja": "私が到着する時には、彼らは数時間部屋に名前をつけていました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ əˈraɪvd ðeɪ həd bɪn ˈneɪmɪŋ ðə ˈrumz fɚ ˈaʊɚz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化（最初と2回目）。",
+            "time の末尾 /m/ が I の /aɪ/ に連結 [ˈtaɪmaɪ] タイマイ。",
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "for は前置詞で弱形 /fɚ/ に弱化。"
+          ],
+          "kana": "バイ ザ タイマイ アイ アライヴド ザエイ ハド ビン ネイミング ザ ルームズ ファアワーズ"
+        }
+      ]
     }
   ]
 }

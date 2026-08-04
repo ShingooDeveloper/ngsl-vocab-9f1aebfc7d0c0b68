@@ -53,5 +53,114 @@
       ],
       "kana": "アドミン クルーズィ イクスクルード エニーワン フー グリーフス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "excludes",
+      "ipa": "/ɪkˈskluːdz/",
+      "examples": [
+        {
+          "en": "The rule excludes ore.",
+          "ja": "そのルールは鉱石を除外します。",
+          "ipa": "/ðə ˈruːl ɪkˈskluːdz ɔːr/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "rule の末尾子音 /l/ が excludes の母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ ルーリクスクルーズ オア"
+        },
+        {
+          "en": "That filter excludes mobs.",
+          "ja": "そのフィルターはモブを除外します。",
+          "ipa": "/ðæt ˈfɪltər ɪkˈskluːdz ˈmɑbz/",
+          "linking": [
+            "filter の末尾音 /r/ が excludes の母音 /ɪ/ に連結"
+          ],
+          "kana": "ザット フィルタリクスクルーズ モーブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "excluded",
+      "ipa": "/ɪkˈskluːdɪd/",
+      "examples": [
+        {
+          "en": "We excluded all hackers.",
+          "ja": "私たちはすべてのハッカーを除外しました。",
+          "ipa": "/wi ɪkˈskluːdɪd ɔːl ˈhækərz/",
+          "linking": [],
+          "kana": "ウィ イクスクルーディド オール ハッカーズ"
+        },
+        {
+          "en": "The excluded players complained.",
+          "ja": "除外されたプレイヤーが不満を言いました。",
+          "ipa": "/ðə ɪkˈskluːdɪd ˈpleɪərz kəmˈpleɪnd/",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ イクスクルーディド プレイアーズ カムプレインド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "excluded",
+      "ipa": "/ɪkˈskluːdɪd/",
+      "examples": [
+        {
+          "en": "Anyone excluded from building will be removed.",
+          "ja": "ビルドから除外された人は誰でも削除されます。",
+          "ipa": "/ˈɛniˌwʌn ɪkˈskluːdɪd frəm ðə ˈbɪldɪŋ wɪl bi rɪˈmuvd/",
+          "linking": [
+            "anyone の末尾 /n/ が excluded の母音 /ɪ/ に連結",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "エニーワニクスクルーディド フラム ザ ビルディング ウィル ビー リムーヴド"
+        },
+        {
+          "en": "The platform has been excluded from the update.",
+          "ja": "プラットフォームがアップデートから除外されました。",
+          "ipa": "/ðə ˈplætfɔːrm həz bɪn ɪkˈskluːdɪd frəm ðə ˈʌpdeɪt/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "been の末尾 /n/ が excluded の母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ プラットフォーム ハズ ビニクスクルーディド フラム ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "excluding",
+      "ipa": "/ɪkˈskluːdɪŋ/",
+      "examples": [
+        {
+          "en": "Everyone is building excluding water.",
+          "ja": "誰もが水を除外して建築しています。",
+          "ipa": "/ˈɛvriˌwʌn ɪz ˈbɪldɪŋ ɪkˈskluːdɪŋ ˈwɔːtər/",
+          "linking": [
+            "everyone の末尾 /n/ が is の母音 /ɪ/ に連結",
+            "building の末尾 /ŋ/ が excluding の母音 /ɪ/ に連結"
+          ],
+          "kana": "エブリワニズ ビルディングイクスクルーディング ウォーター"
+        },
+        {
+          "en": "We built the platform excluding lava.",
+          "ja": "私たちはラバを除外してプラットフォームを構築しました。",
+          "ipa": "/wi bɪlt ðə ˈplætfɔːrm ɪkˈskluːdɪŋ ˈlɑːvə/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "platform の末尾 /m/ が excluding の母音 /ɪ/ に連結し [mɪ] と発音"
+          ],
+          "kana": "ウィ ビルト ザ プラットフォーミクスクルーディング ラーヴァ"
+        }
+      ]
+    }
   ]
 }

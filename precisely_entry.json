@@ -59,5 +59,67 @@
         "for + mining → /ɹ/ (for の末尾) が /m/ (mining の開始) に連結: [fɔɹ ˈmaɪnɪŋ] フォア マイニング"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more precisely",
+      "ipa": "/mɔɹ prɪˈsaɪsli/",
+      "examples": [
+        {
+          "en": "The redstone circuit works more precisely when you use repeaters set to four ticks.",
+          "ja": "リピーターを4ティックに設定すると、レッドストーン回路がより正確に動作します。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɝːkɪt wɚks mɔɹ prɪˈsaɪsli wɛn ju juz rɪˈpiːtɚz sɛt tə ˈfɔɹ tɪks/",
+          "linking": [
+            "the + redstone → 弱形 /ðə/ が /ɹ/ に連結: [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "works more → /s/ が子音 /m/ に続く（連結なし）",
+            "set to → 過去分詞 /sɛt/ の /t/ が未開放で、to の /tə/ に続く: [sɛt̚ tə] セット トゥ"
+          ],
+          "kana": "ザ レッドストーン サーキット ワークス モア プリサイスリ ウェン ユー ユーズ リピーターズ セット トゥ フォア ティックス"
+        },
+        {
+          "en": "You can build the trap door mechanism more precisely if you measure the block placement carefully.",
+          "ja": "ブロック配置を注意深く測定すれば、トラップドアメカニズムをより正確に構築できます。",
+          "ipa": "/ju kæn bɪld ðə træp dɔɹ ˈmɛkənɪzəm mɔɹ prɪˈsaɪsli ɪf ju ˈmɛʒɚ ðə blɑk ˈpleɪsmənt ˈkɛrfəli/",
+          "linking": [
+            "the + trap → 弱形 /ðə/ が /t/ に連結: [ðə træp] ザ トラップ",
+            "mechanism more → /m/ が子音 /m/ に続く（連結なし）",
+            "placement carefully → /t/ が子音 /k/ に続く（連結なし）。carefully は /ˈkɛrfəli/"
+          ],
+          "kana": "ユー キャン ビルド ザ トラップ ドア メカニズム モア プリサイスリ イフ ユー メジャー ザ ブラック プレイスメント ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most precisely",
+      "ipa": "/moʊst prɪˈsaɪsli/",
+      "examples": [
+        {
+          "en": "The underground base is built most precisely using a grid-based building system.",
+          "ja": "地下基地はグリッドベースのビルディングシステムを使って、最も正確に構築されます。",
+          "ipa": "/ðə ˌʌndɚˈɡraʊnd ˈbeɪs ɪz bɪlt moʊst prɪˈsaɪsli ˈjuːzɪŋ ə ɡrɪd ˈbeɪst ˈbɪldɪŋ ˈsɪstəm/",
+          "linking": [
+            "the + underground → 弱形 /ðə/ が /ʌ/ に連結: [ðə ˌʌndɚˈɡraʊnd] ザ アンダーグラウンド",
+            "built most → /t/ が未開放で、/m/ に続く: [bɪlt̚ moʊst] ビルト モウスト",
+            "using a → /ŋ/ が母音 /ə/ に連結: [ˈjuːzɪŋ ə] ユージング ア"
+          ],
+          "kana": "ザ アンダーグラウンド ベイス イズ ビルト モウスト プリサイスリ ユージング ア グリッド ベイスト ビルディング システム"
+        },
+        {
+          "en": "When coordinates are aligned most precisely, the piston door opens and closes without stuttering.",
+          "ja": "座標が最も正確に整列すると、ピストンドアは途切れずにスムーズに開閉します。",
+          "ipa": "/wɛn koʊˈɔɹdɪneɪts ɑɹ əˈlaɪnd moʊst prɪˈsaɪsli ðə ˈpɪstən dɔɹ ˈoʊpənz ænd ˈkloʊzɪz wɪðˈaʊt ˈstʌtɚɪŋ/",
+          "linking": [
+            "aligned most → /d/ が未開放で /m/ に続く: [əˈlaɪnd̚ moʊst] アラインド モウスト",
+            "the + piston → 弱形 /ðə/ が /p/ に連結: [ðə ˈpɪstən] ザ ピストン",
+            "opens and → /z/ が母音 /æ/ に連結: [ˈoʊpənz ænd] オウペンズ アンド"
+          ],
+          "kana": "ウェン コオーディネイツ アー アラインド モウスト プリサイスリ ザ ピストン ドア オウペンズ アンド クローズィズ ウィザウト スタッタリング"
+        }
+      ]
+    }
   ]
 }

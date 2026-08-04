@@ -43,6 +43,38 @@
       "kana": "アズ ア ボウター アイ チューズ ダイモンズ オーヴァー エメラルズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "voters",
+      "ipa": "/ˈvoʊtərz/",
+      "examples": [
+        {
+          "en": "Voters must decide on every block in our world.",
+          "ja": "投票者たちは私たちの世界のすべてのブロックについて決める必要があります。",
+          "ipa": "/ˈvoʊtərz məst dɪˈsaɪd ɑn ˈɛvəri blɑk ɪn aʊr wɝld/",
+          "linking": [
+            "must の末尾 /t/ が decide [dɪˈsaɪd] の /d/ に未開放で続く [məst̚ dɪˈsaɪd] マス ディサイド。",
+            "block の末尾 /k/ が in [ɪn] の /ɪ/ に連結 [blɑk ɪn] ブロック イン。",
+            "in の末尾 /n/ が our [aʊr] の /aʊ/ に連なる [ɪn aʊr] イン アワー。"
+          ],
+          "kana": "ボウターズ マスディサイド オン エヴァリ ブロック イン アワー ワールド"
+        },
+        {
+          "en": "The competing voters chose to build a massive monument.",
+          "ja": "競い合う投票者たちは巨大な記念碑を建設することを選んだ。",
+          "ipa": "/ðə kəmˈpitɪŋ ˈvoʊtərz tʃoʊz tə ˈbɪld ə ˈmæsɪv ˈmɑnjumənt/",
+          "linking": [
+            "The は弱形 /ðə/ で competing [kəmˈpitɪŋ] に連なる [ðə kəmˈpitɪŋ] ザ コンピティング。",
+            "to は弱形 /tə/ で build [ˈbɪld] に連なる [tə ˈbɪld] タ ビルド。",
+            "a は弱形 /ə/ で massive [ˈmæsɪv] に連なる [ə ˈmæsɪv] ア マッシブ。"
+          ],
+          "kana": "ザ コンピティング ボウターズ チョーズ タ ビルド ア マッシブ モニュメント"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "registered voter",

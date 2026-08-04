@@ -58,5 +58,63 @@
       ],
       "kana": "ザ トレジャー ビカムズ ビザボル ワンス ユー クリア ザ サンド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more visible",
+      "ipa": "/ˌmɔr ˈvɪzəbəl/",
+      "examples": [
+        {
+          "en": "This ore is more visible than stone.",
+          "ja": "このオアは石より見えやすい。",
+          "ipa": "/ðɪs ˈɔr ɪz ˌmɔr ˈvɪzəbəl ðæn ˈstoʊn/",
+          "linking": [
+            "This の語末 /s/ が ore の母音 /ɔ/ に連結 [ðɪz ˈɔr] ディズ オア",
+            "ore の語末 /r/ が is の弱形 /ə/ に連結 [ˈɔrəz] オーラズ"
+          ],
+          "kana": "ディズ オーラズ モア ビザボル ザン ストーン"
+        },
+        {
+          "en": "Hostile mobs are more visible in the open.",
+          "ja": "ホスタイルモブは開けた場所でより見えやすい。",
+          "ipa": "/ˈhoʊs.taɪl ˈmoʊbz ɑr ˌmɔr ˈvɪzəbəl ɪn ðə ˈoʊpən/",
+          "linking": [
+            "mobs の語末 /z/ が are の母音 /ɑ/ に連結 [ˈmoʊbz ˈɑr] モーブズ アー",
+            "visible の語末 /l/ が in の母音 /ɪ/ に連結 [ˈvɪzəbəl ɪn] ビザボリン"
+          ],
+          "kana": "ホースタイル モーブズ アー モア ビザボリン ザ オーペン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most visible",
+      "ipa": "/ˌmoʊst ˈvɪzəbəl/",
+      "examples": [
+        {
+          "en": "The beacon is the most visible light source on the island.",
+          "ja": "ビーコンは島で最も見えやすい光源です。",
+          "ipa": "/ðə ˈbikən ɪz ðə ˈmoʊst ˈvɪzəbəl ˈlaɪt ˈsɔrs ɑn ðə ˈaɪlənd/",
+          "linking": [
+            "beacon の語末 /n/ が is の弱形 /ə/ に連結 [ˈbikən əz] ビーカニズ",
+            "source の語末 /s/ が on の母音 /ɑ/ に連結 [ˈsɔrs ˈɑn] ソースオン"
+          ],
+          "kana": "ザ ビーカニズ ザ モースト ビザボル ライト ソースオン ザ アイランド"
+        },
+        {
+          "en": "Glowing obsidian is the most visible when placed near the surface.",
+          "ja": "グロウイングオブシディアンは表面近くに置くと最も見えやすい。",
+          "ipa": "/ˈɡloʊɪŋ əbˈsɪdiən ɪz ðə ˈmoʊst ˈvɪzəbəl wɛn ˈpleɪst nɪr ðə ˈsɜrfɪs/",
+          "linking": [
+            "Glowing の語末 /ŋ/ が obsidian の母音 /ə/ に連結 [ˈɡloʊɪŋ əbˈsɪdiən] グロウイング オブシディアン",
+            "obsidian の語末 /n/ が is の弱形 /ə/ に連結 [əbˈsɪdiən əz] オブシディアニズ"
+          ],
+          "kana": "グロウイング オブシディアニズ ザ モースト ビザボル ウェン プレイスト ニア ザ サーフィス"
+        }
+      ]
+    }
   ]
 }

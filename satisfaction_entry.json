@@ -17,9 +17,9 @@
       "ja": "地下でダイアモンド鉱石を発見した後、圧倒的な満足感を感じました。",
       "ipa": "/aɪ ˈfɛlt ˌoʊvərˈwɛlmɪŋ ˌsætɪsˈfækʃən ˈæftər dɪˈskʌvərɪŋ ˈdaɪəmənd ˈɔɹ ˌʌndərˈɡraʊnd/",
       "linking": [
-        "satisfaction after → /n/ が母音 /æ/ に連結 [nætər] サティスファクション(ナ)アフター",
+        "satisfaction after → /n/ が母音 /æ/ に連結し、その後 /t/ がフラップT [ɾ] に変化 [næɾɚ] サティスファクション(ナ)ア(ラ)ー",
         "diamond ore → /d/ が母音 /ɔ/ に連結 [dɔ] ダイアモンド(ド)オア",
-        "ore underground → /r/ が母音 /ʌ/ に連結 [rʌndər] オア(ラ)アンダーグラウンド"
+        "ore underground → /r/ が母音 /ʌ/ に連結 [rʌ] オア(ラ)アンダーグラウンド"
       ],
       "kana": "アイ フェルト オーバーウェルミング サティスファクション アフター ディスカヴァリング ダイアモンド オア アンダーグラウンド"
     },
@@ -30,7 +30,7 @@
       "linking": [
         "satisfaction of → /n/ が母音 /ə/ に連結 [nəv] サティスファクション(ノ)アブ。of は弱形 /əv/",
         "diamonds is → /z/ が母音 /ɪ/ に連結 [zɪz] ダイアモンズ(ズ)イズ",
-        "beyond incredible → /d/ が母音 /ɪ/ に連結 [dɪnkred] ビヨンド(ディ)インクレディブル"
+        "beyond incredible → /d/ が母音 /ɪ/ に連結し、その後 /n/ が /ˈkrɛ/ に続く [dɪn.ˈkrɛdəbəl] ビヨンド(ディ)インクレディブル"
       ],
       "kana": "ザ サティスファクション オブ ファイナリー マイニング マイ ファースト ダイアモンズ イズ ビヨンド インクレディブル"
     },
@@ -39,7 +39,7 @@
       "ja": "探索して隠れた領域を発見することから即座の満足感を得ます。",
       "ipa": "/aɪ ɡɛt ˈɪnstənt ˌsætɪsˈfækʃən ˈfrɑm ɪɡˈzplɔɹɪŋ ənd ˌdɪskəˈvɛrɪŋ ˈhɪdən ˈɛɹiəz/",
       "linking": [
-        "get instant → /t/ が母音 /ɪ/ に連結 [tɪnstənt] ゲット(ティ)インスタント",
+        "get instant → /t/ がフラップT [ɾ] に変化し、その後母音 /ɪ/ に連結 [ɡɛɾ.ɪnstənt] ゲッ(ラ)インスタント",
         "from exploring → /m/ が母音 /ɪ/ に連結 [mɪɡ] フラム(ミ)エクスプロアリング",
         "hidden areas → /n/ が母音 /ɛ/ に連結 [nɛ] ヒドン(ネ)エリアズ"
       ],
@@ -70,6 +70,36 @@
         "satisfaction in → /n/ が母音 /ɪ/ に連結 [nɪn] サティスファクション(ニ)イン"
       ],
       "kana": "テイク グレイト サティスファクション イン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "satisfactions",
+      "ipa": "/ˌsætɪsˈfækʃənz/",
+      "examples": [
+        {
+          "en": "You get satisfactions in every mining adventure.",
+          "ja": "あなたはすべての採掘冒険で満足感を得られます。",
+          "ipa": "/ju ɡɛt ˌsætɪsˈfækʃənz ɪn ˈɛvəri ˈmaɪnɪŋ ədˈvɛntʃɚ/",
+          "linking": [
+            "satisfactions in → /z/ が母音 /ɪ/ に連結 [zɪn]",
+            "mining adventure → /ŋ/ が母音 /ə/ に連結 [ŋə]"
+          ],
+          "kana": "ユー ゲット サティスファクションズ イン エブリー マイニング アドベンチャー"
+        },
+        {
+          "en": "Multiple satisfactions await those who search deep in mines.",
+          "ja": "深い鉱山を探索する者を待つ多くの満足感。",
+          "ipa": "/ˈmʌltɪpəl ˌsætɪsˈfækʃənz əˈweɪt ðoʊz huː sɝtʃ dip ɪn maɪnz/",
+          "linking": [
+            "satisfactions await → /z/ が母音 /ə/ に連結 [zə]",
+            "deep in → /p/ が母音 /ɪ/ に連結 [pɪn]"
+          ],
+          "kana": "マルチプル サティスファクションズ アウェイト ザウズ フー サーチ ディープ イン マインズ"
+        }
+      ]
     }
   ]
 }

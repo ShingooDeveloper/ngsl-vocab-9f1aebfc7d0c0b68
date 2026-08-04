@@ -39,9 +39,97 @@
       "ja": "邪悪がサーバーを破壊するのを許しません。",
       "ipa": "/aɪ wɪl ˈnɑt ˈlɛt ˈiːvəl dɪsˈtroɪ ˈɑɚ ˈsɝvɚ/",
       "linking": [
-        "let の語末子音 /t/ が evil の初頭母音 /iː/ に連結して [ˈlɛtiː] レティーとなる。"
+        "let の語末子音 /t/ が evil の初頭母音 /iː/ に連結し、フラップT [ɾ] となり [ˈlɛɾiː] レリーとなる。"
       ],
-      "kana": "アイ ウィル ナット レティーバル ディストロイ アアー サーヴァー"
+      "kana": "アイ ウィル ナット レリーバル ディストロイ アアー サーヴァー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more evil",
+      "ipa": "/mɔr ˈiːvəl/",
+      "examples": [
+        {
+          "en": "The Ender Dragon is more evil than the Wither.",
+          "ja": "エンダードラゴンはウィザーより邪悪です。",
+          "ipa": "/ðiː ˈɛndɚ ˈdræɡən ɪz mɚ ˈiːvəl ðæn ðə ˈwɪðɚ/",
+          "linking": [
+            "The は冠詞で母音前なので /ðiː/。",
+            "more の語末子音 /r/ が evil の初頭母音 /iː/ に連結。",
+            "than の後の the は /ðə/。"
+          ],
+          "kana": "ディー エンダー ドラゴン イズ マー イーバル ザン ザ ウィザー"
+        },
+        {
+          "en": "Creepers seem more evil than spiders in the dark.",
+          "ja": "クリーパーはクモよりも邪悪に見えます。",
+          "ipa": "/ˈkriːpɚz ˈsiːm mɚ ˈiːvəl ðæn ˈspaɪdɚz ɪn ðə ˈdɑrk/",
+          "linking": [
+            "more の /r/ が evil の初頭母音に連結。",
+            "in は前置詞で弱形 /ɪn/。the は /ðə/。"
+          ],
+          "kana": "クリーパーズ シーム マー イーバル ザン スパイダーズ イン ザ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most evil",
+      "ipa": "/ˈmoʊst ˈiːvəl/",
+      "examples": [
+        {
+          "en": "The Wither is the most evil mob in Minecraft.",
+          "ja": "ウィザーはマインクラフトで最も邪悪なモブです。",
+          "ipa": "/ðə ˈwɪðɚ ɪz ðə ˈmoʊst ˈiːvəl ˈmɑb ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "the は冠詞で /ðə/（複数回）。",
+            "in は前置詞で弱形 /ɪn/。"
+          ],
+          "kana": "ザ ウィザー イズ ザ モウスト イーバル マブ イン マインクラフト"
+        },
+        {
+          "en": "Losing all your diamonds is the most evil thing that can happen.",
+          "ja": "すべてのダイヤモンドを失うことは起こりうる最も邪悪なことです。",
+          "ipa": "/ˈluːzɪŋ ɔl jɚ ˈdaɪmənz ɪz ðə ˈmoʊst ˈiːvəl ˈθɪŋ ðæt kən ˈhæpən/",
+          "linking": [
+            "your は弱形 /jɚ/。",
+            "is の後の the は /ðə/。",
+            "can は助動詞で弱形 /kən/。"
+          ],
+          "kana": "ルーズィング オール ユア ダイマンズ イズ ザ モウスト イーバル シング ザット カン ハップン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "evils",
+      "ipa": "/ˈiːvəlz/",
+      "examples": [
+        {
+          "en": "We must fight against all the evils of the Nether.",
+          "ja": "私たちはネザーのすべての邪悪に対抗する必要があります。",
+          "ipa": "/wi ˈmʌst ˈfaɪt əˈɡɛnst ɔl ðə ˈiːvəlz əv ðə ˈnɛðɚ/",
+          "linking": [
+            "the は冠詞で /ðə/（複数回）。",
+            "evils の /z/ が of の初頭母音に連結。"
+          ],
+          "kana": "ウィ マスト ファイト アゲンスト オール ザ イーバルズ アヴ ザ ネザー"
+        },
+        {
+          "en": "The server has faced many evils since we started playing.",
+          "ja": "サーバーは私たちがプレイを開始してから多くの邪悪に直面しています。",
+          "ipa": "/ðə ˈsɝvɚ ˈhæz ˈfeɪst ˈmɛni ˈiːvəlz sɪns wi ˈstɑrtəd ˈpleɪɪŋ/",
+          "linking": [
+            "the は冠詞で /ðə/。",
+            "has は助動詞で /həz/ に弱化。"
+          ],
+          "kana": "ザ サーヴァー ハズ フェイスト メニ イーバルズ スィンス ウィ スターティッド プレイング"
+        }
+      ]
     }
   ],
   "idioms": [

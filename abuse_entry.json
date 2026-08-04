@@ -46,6 +46,154 @@
       "kana": "ネヴァー アビューズアドミン コマンズ インサーヴァイヴァル モード"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "abuses",
+      "ipa": "/əˈbjuːzɪz/",
+      "examples": [
+        {
+          "en": "The admin abuses his authority by banning innocent players unfairly.",
+          "ja": "その管理者は無実のプレイヤーを不公正にバンすることで権限を乱用している。",
+          "ipa": "[ðə ˈædmɪn əˈbjuːzɪz hɪz ɔːˈθɔrəti baɪ ˈbænɪŋ ɪˈnoʊsənt ˈpleɪərz ʌnˈfɛrli]",
+          "linking": [
+            "admin の /n/ が abuses の /ə/ に連結 [ˈædmɪn əˈbjuːzɪz] アドミナビューズィズ",
+            "his の /z/ が authority の /ɔ/ に連結 [hɪz ɔːˈθɔrəti] ヒズ オーソリティ",
+            "by は弱形 /baɪ/"
+          ],
+          "kana": "ザ アドミナビューズィズ ヒズ オーソリティ バイ バニング イノセント プレイアーズ アンフェアリー"
+        },
+        {
+          "en": "A hacker abuses the server's systems to steal player data.",
+          "ja": "ハッカーがサーバーのシステムを乱用してプレイヤーデータを盗む。",
+          "ipa": "[ə ˈhækər əˈbjuːzɪz ðə ˈsɜːrvərz ˈsɪstəmz tə ˈstil ˈpleɪər ˈdeɪtə]",
+          "linking": [
+            "abuses の /z/ が the の /ə/ に連結 [əˈbjuːzɪz ðə] アビューズィズザ",
+            "systems の /z/ が to の /t/ に続く（to は弱形 /tə/）",
+            "steal の /l/ が player の /p/ に続く"
+          ],
+          "kana": "ア ハッカー アビューズィズザ サーヴァーズ システムズ タ スティール プレイアー デイター"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "abused",
+      "ipa": "/əˈbjuːzd/",
+      "examples": [
+        {
+          "en": "The moderator abused his role yesterday by griefing the spawn area.",
+          "ja": "その管理者は昨日、スポーン地域を破壊することで自分の役割を悪用した。",
+          "ipa": "[ðə ˈmɑdəreɪtər əˈbjuːzd hɪz roʊl ˈjɛstərdeɪ baɪ ˈɡriːfɪŋ ðə sˈpoʊn ˈɛəriə]",
+          "linking": [
+            "abused の /d/ が his の /h/ に続く（/h/ は弱い）[əˈbjuːzd hɪz] アビューズド ヒズ",
+            "griefing の /ŋ/ が the の /ðə/ に連なり [ˈɡriːfɪŋ ðə] グリーフィングザ"
+          ],
+          "kana": "ザ マダレイター アビューズド ヒズ ロール イェスタデイ バイ グリーフィングザ スポーン エアリア"
+        },
+        {
+          "en": "Players who abused duplication glitches got banned permanently from all servers.",
+          "ja": "複製バグを乱用したプレイヤーはすべてのサーバーから永久にバンされた。",
+          "ipa": "[ˈpleɪərz huː əˈbjuːzd ˌduːplɪˈkeɪʃən ˈɡlɪtʃɪz ɡɑt bænd ˈpɝːmənəntli frəm ɔːl ˈsɜːrvərz]",
+          "linking": [
+            "abused の /d/ が duplication の /d/ に連接（どちらも /d/ で、1つに聞こえる）[əˈbjuːzd ˌduːplɪˈkeɪʃən] アビューズド ドゥープリケイション",
+            "banned の /d/ が permanently の /p/ に続く（未開放）[bænd ˈpɝːmənəntli] バンド パーマナントリー"
+          ],
+          "kana": "プレイアーズ フー アビューズド ドゥープリケイション グリッチーズ ゴッ バンド パーマナントリー フラム オール サーヴァーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "abused",
+      "ipa": "/əˈbjuːzd/",
+      "examples": [
+        {
+          "en": "The abused player filed a complaint against the server administrators.",
+          "ja": "虐待されたプレイヤーはサーバー管理者に対して苦情を申し立てた。",
+          "ipa": "[ðə əˈbjuːzd ˈpleɪər ˈfaɪld ə kəmˈpleɪnt əˈɡɛnst ðə ˈsɜːrvər ˌædmɪnɪˈstreɪtərz]",
+          "linking": [
+            "abused の /d/ が player の /p/ に続く [əˈbjuːzd ˈpleɪər] アビューズド プレイアー",
+            "complaint の /t/ が against の /ə/ に連結 [kəmˈpleɪnt əˈɡɛnst] コンプレイント アゲンスト"
+          ],
+          "kana": "ザ アビューズド プレイアー ファイルド ア コンプレイント アゲンスト ザ サーヴァー アドミニストレイターズ"
+        },
+        {
+          "en": "The system has been abused by cheaters using illegal mods for weeks.",
+          "ja": "そのシステムは何週間も違法なModを使用しているチーターに乱用されている。",
+          "ipa": "[ðə ˈsɪstəm həz bɪn əˈbjuːzd baɪ ˈtʃiːtərz ˈjuːzɪŋ ɪˈliːɡəl mɑdz fɔr wiks]",
+          "linking": [
+            "has の /z/ が been の /b/ に続く（弱形 /həz/）[həz bɪn] ハズ ビン",
+            "been の /n/ が abused の /ə/ に連結 [bɪn əˈbjuːzd] ビン アビューズド",
+            "using の /ŋ/ が illegal の /ɪ/ に連結 [ˈjuːzɪŋ ɪˈliːɡəl] ユーズィング イリーガル"
+          ],
+          "kana": "ザ システム ハズ ビン アビューズド バイ チーターズ ユーズィング イリーガル モズ フォー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "abusing",
+      "ipa": "/əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "Stop abusing the teleport command immediately, or you'll be banned!",
+          "ja": "今すぐテレポートコマンドの乱用をやめろ。さもないとバンされるぞ!",
+          "ipa": "[ˈstɑp əˈbjuːzɪŋ ðə ˈtɛləˌpɔrt kəˈmænd ɪˈmiːdɪətli ɔr juːl bi bænd]",
+          "linking": [
+            "abusing の /ŋ/ が the の /ðə/ に連なり [əˈbjuːzɪŋ ðə] アビューズィングザ",
+            "command の /d/ が immediately の /ɪ/ に連結 [kəˈmænd ɪˈmiːdɪətli] コマンド イミーディエットリー",
+            "you'll は短縮形"
+          ],
+          "kana": "ストップ アビューズィングザ テレポート コマンド イミーディエットリー オア ユール ビー バンド"
+        },
+        {
+          "en": "Abusing X-ray texture packs violates the server's anti-cheat policy.",
+          "ja": "X線テクスチャパックの乱用はサーバーのアンチチート規約に違反する。",
+          "ipa": "[əˈbjuːzɪŋ ˈɛks reɪ ˈtɛkstʃər pæks ˈvaɪəleɪts ðə ˈsɜːrvərz ˈænti tʃit ˈpɑləsi]",
+          "linking": [
+            "packs の /s/ が violates の /v/ に続く（フラップT化の可能性）[pæks ˈvaɪəleɪts] パックス ヴァイオレイツ",
+            "anti の /i/ が cheat の /tʃ/ に続く"
+          ],
+          "kana": "アビューズィング エックス レイ テクスチャー パックス ヴァイオレイツ ザ サーヴァーズ アンティ チート ポリシー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "abuses",
+      "ipa": "/əˈbjuːzɪz/",
+      "examples": [
+        {
+          "en": "The abuses of admin power were well-documented in the server logs.",
+          "ja": "管理者権限の乱用はサーバーログに十分に記録されていた。",
+          "ipa": "[ðə əˈbjuːzɪz əv ˈædmɪn ˈpaʊər wər ˈwɛl ˈdɑkjuˌmɛntɪd ɪn ðə ˈsɜːrvər lɔgz]",
+          "linking": [
+            "abuses の /z/ が of の /ə/ に連結 [əˈbjuːzɪz əv] アビューズィズ オヴ",
+            "of の /v/ が admin の /æ/ に連結 [əv ˈædmɪn] オヴ アドミン",
+            "were は弱形 /wər/"
+          ],
+          "kana": "ザ アビューズィズ オヴ アドミン パウアー ワー ウェル ドキュメンティド イン ザ サーヴァー ログス"
+        },
+        {
+          "en": "Multiple abuses of the system have been reported to server moderators.",
+          "ja": "システムの複数の乱用がサーバーモデレーターに報告されている。",
+          "ipa": "[ˈmʌltɪpəl əˈbjuːzɪz əv ðə ˈsɪstəm həv bɪn rɪˈpɔrtɪd tu ˈsɜːrvər ˈmɑdəreɪtərz]",
+          "linking": [
+            "abuses の /z/ が of の /ə/ に連結 [əˈbjuːzɪz əv] アビューズィズ オヴ",
+            "of の /v/ が the の /ðə/ に連結（弱形 /ðə/）[əv ðə] オヴザ",
+            "have の /v/ が been の /b/ に続く（弱形 /həv/）[həv bɪn] ハヴ ビン"
+          ],
+          "kana": "マルティプル アビューズィズ オヴザ システム ハヴ ビン リポーティド トゥー サーヴァー マダレイターズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "abuse of power",

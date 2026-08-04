@@ -55,5 +55,37 @@
         "the /ðə/ は冠詞で弱形。new の /n/ に自然に連結: [ðə ˈnuː] ザ ニュー"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "publications",
+      "ipa": "/ˌpʌbləˈkeɪʃənz/",
+      "examples": [
+        {
+          "en": "I need a look at recent publications.",
+          "ja": "最近の出版物をちょっと見る必要があります。",
+          "ipa": "/aɪ ˈniːdə ˈlʊkæ̚t ˈrisənt ˌpʌbləˈkeɪʃənz/",
+          "linking": [
+            "need a → need の語末子音 /d/ が a の /ə/ に連結 [ˈniːdə] ニーダ",
+            "look at → look の語末子音 /k/ が at の /æ/ に連結 [ˈlʊkæ̚t] ルカッ",
+            "at recent → at の語末 /t/ が未開放で recent の /r/ に続く [ˈlʊkæ̚t ˈrisənt] ルカッ レセント"
+          ],
+          "kana": "アイ ニーダ ルカッ レセント パブリケーションズ"
+        },
+        {
+          "en": "Look at older publications about Minecraft tips.",
+          "ja": "Minecraft のコツに関する古い出版物を見てください。",
+          "ipa": "/ˈlʊkæ̚t ˈoʊldər ˌpʌbləˈkeɪʃənzəˈbaʊ̚t ˈmaɪnkræft ˈtɪps/",
+          "linking": [
+            "look at → look の語末子音 /k/ が at の /æ/ に連結 [ˈlʊkæ̚t] ルカッ",
+            "publications about → publications の語末子音 /z/ が about の /ə/ に連結 [ˌpʌbləˈkeɪʃənzəˈbaʊ̚t] パブリケーションザバウッ",
+            "about Minecraft → about の語末 /t/ が未開放で Minecraft の /m/ に続く [əˈbaʊ̚t ˈmaɪnkræft] バウッマインクラフト"
+          ],
+          "kana": "ルカッ オウルダー パブリケーションザバウッ マインクラフト ティップス"
+        }
+      ]
+    }
   ]
 }

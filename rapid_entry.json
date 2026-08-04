@@ -54,5 +54,70 @@
       ],
       "kana": "アイム マイニング アタ ラピッド ペイス タ ゲット ディス オア クイックリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more rapid",
+      "ipa": "/mɔr ˈræpɪd/",
+      "examples": [
+        {
+          "en": "The redstone signal is more rapid than walking speed.",
+          "ja": "レッドストーン信号は歩行速度より速い。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl ɪz mɔr ˈræpɪd ðæn ˈwɔkɪŋ ˈspiːd/",
+          "linking": [
+            "signal is → 語末音 /l/ が is の初頭母音 /ɪ/ に連結 [ˈsɪɡnəl‿ɪz]",
+            "is more → is は弱形 /ɪz/",
+            "more rapid → /r/ + /r/ で子音+子音、連結なし",
+            "rapid than → 語末音 /d/ が than の子音 /ð/ に未開放"
+          ],
+          "kana": "ザ レッドストーン シグナル イズ モア ラピッド ザン ウォーキング スピード"
+        },
+        {
+          "en": "We need a more rapid way to clear this area.",
+          "ja": "このエリアをクリアするためのより速い方法が必要だ。",
+          "ipa": "/wi nid ə mɔr ˈræpɪd ˈweɪ tə klɪr ðɪs ˈɛriə/",
+          "linking": [
+            "need a → 語末音 /d/ が a の初頭母音 /ə/ に連結 [nid‿ə]",
+            "a more → a は弱形 /ə/、more の /m/ に続く",
+            "clear this → 語末音 /r/ が this の子音 /ð/ に、子音+子音で連結なし"
+          ],
+          "kana": "ウィ ニード ア モア ラピッド ウェイ タ クリア ディス エリア"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most rapid",
+      "ipa": "/ˈmoʊst ˈræpɪd/",
+      "examples": [
+        {
+          "en": "The most rapid way to find diamonds is mining straight down.",
+          "ja": "ダイヤモンドを見つける最も速い方法は真っ直ぐ採掘することだ。",
+          "ipa": "/ðə ˈmoʊst ˈræpɪd ˈweɪ tə ˈfaɪnd ˈdaɪmənz ɪz ˈmaɪnɪŋ ˈstreɪt ˈdaʊn/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most rapid → /t/ + /r/ で子音+子音、連結なし",
+            "to find → to は弱形 /tə/、find の /f/ に続く（子音+子音）",
+            "way to → /weɪ/ で終わり（母音）、to が続く、連結なし"
+          ],
+          "kana": "ザ モースト ラピッド ウェイ タ ファインド ダイモンズ イズ マイニング ストレイト ダウン"
+        },
+        {
+          "en": "That's the most rapid automatic farm design we've created.",
+          "ja": "それは私たちが作った最も速い自動ファームデザインだ。",
+          "ipa": "/ðæts ðə ˈmoʊst ˈræpɪd ˈɔːtəˌmætɪk ˈfɑrm dɪˈzaɪn wiv kriˈeɪtɪd/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most rapid → /t/ + /r/ で子音+子音、連結なし",
+            "rapid automatic → 語末音 /d/ が automatic の初頭母音 /ɔ/ に連結 [ˈræpɪd‿ˈɔːtəˌmætɪk]",
+            "we've created → /v/ + /k/ で子音+子音、連結なし"
+          ],
+          "kana": "ザッツ ザ モースト ラピッド オートマティック ファーム ディザイン ウィヴ クリエイティッド"
+        }
+      ]
+    }
   ]
 }

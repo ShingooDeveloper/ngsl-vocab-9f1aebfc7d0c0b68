@@ -55,5 +55,36 @@
       ],
       "kana": "アイル テイコウナーシップア オーガナイジング アワー ストレッジ システム"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "ownerships",
+      "ipa": "/ˈoʊnərʃɪps/",
+      "examples": [
+        {
+          "en": "Different ownerships have different rules.",
+          "ja": "異なる所有権はそれぞれ異なるルールを持っています。",
+          "ipa": "/ˈdɪfərənt̚ ˈoʊnərʃɪps hæv ˈdɪfərənt̚ rulz/",
+          "linking": [
+            "最初の different の語末 [t] が ownerships の語頭 [oʊ] に未開放で接続 [ˈdɪfərənt̚]",
+            "2番目の different の語末 [t] が rules の語頭 [r] に未開放で接続 [ˈdɪfərənt̚]"
+          ],
+          "kana": "ディファレント オウナーシップス ハヴ ディファレント ルールズ"
+        },
+        {
+          "en": "These ownerships must be registered in the land office.",
+          "ja": "これらの所有権は土地管理局に登録する必要があります。",
+          "ipa": "/ðiːz ˈoʊnərʃɪps məs(t)̚ bi ˈrɛdʒɪstərd ɪn ðə lænd ˈɑfɪs/",
+          "linking": [
+            "must の語末 [t] が be の語頭 [b] に未開放で接続 [məs(t)̚]",
+            "registered の語末 [d] が in の語頭 [ɪ] に連結 [ˈrɛdʒɪstərd ɪn]",
+            "land の語末 [d] が office の語頭 [ɑ] に連結 [lænd ˈɑfɪs]"
+          ],
+          "kana": "ディーズ オウナーシップス マス ビ レジスターディン ダ ランドオフィス"
+        }
+      ]
+    }
   ]
 }

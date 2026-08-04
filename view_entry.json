@@ -244,6 +244,112 @@
           "kana": "ゼイ アー ビューイング ディファレント レッドストーン コンフィギュレーションズ タ ファインダザ モースト イフィシェント ディザイン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is viewing",
+      "ipa": "/ɪz ˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is viewing the landscape from his observation tower.",
+          "ja": "スティーブは自分の見張り塔からランドスケープを見ています。",
+          "ipa": "/stiːv ɪz ˈvjuːɪŋ ðə ˈlændˌskeɪp frəm hɪz ˌɑbzərˈveɪʃən ˈtaʊər/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。landscape の /l/（子音）に続く",
+            "from は機能語で弱形 /frəm/"
+          ],
+          "kana": "スティーヴ イズ ビューイングザ ランドスケイプ フラム ヒズ オブザーベーション タウア"
+        },
+        {
+          "en": "They are viewing the different chunks of the world together.",
+          "ja": "彼らは世界の異なるチャンクを一緒に見ています。",
+          "ipa": "/ðeɪ ɑr ˈvjuːɪŋ ðə ˈdɪfərənt ˈtʃʌŋks əv ðə ˈwɝːld təˈɡɛðər/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。different の /d/（子音）に続く",
+            "chunks の語末 /s/ が of の弱形 /əv/（母音）に連結 [ˈtʃʌŋksəv] チャンクザヴ",
+            "of は機能語で弱形 /əv/"
+          ],
+          "kana": "ゼイ アー ビューイングザ ディファレント チャンクザヴ ザ ワールド トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was viewing",
+      "ipa": "/wəz ˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "I was viewing the sunset when the creeper suddenly appeared.",
+          "ja": "私が夕日を見ていたとき、クリーパーが突然現れました。",
+          "ipa": "/aɪ wəz ˈvjuːɪŋ ðə ˈsʌnsɛt wɛn ðə ˈkriːpər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。sunset の /s/（子音）に続く",
+            "when は /wɛn/ で（相対節内だが弱化しない）",
+            "the は冠詞で弱形 /ðə/。creeper の /k/（子音）に続く"
+          ],
+          "kana": "アイ ワズ ビューイングザ サンセット ウェン ザ クリーパー サドゥンリ アピアード"
+        },
+        {
+          "en": "They were viewing the redstone components when the server lagged badly.",
+          "ja": "彼らがレッドストーン部品を見ていたとき、サーバーが大きく遅延しました。",
+          "ipa": "/ðeɪ wər ˈvjuːɪŋ ðə ˈrɛdˌstoʊn kəmˈpoʊnənts wɛn ðə ˈsɜrvər ˈlæɡd ˈbædli/",
+          "linking": [
+            "were は弱形 /wər/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。redstone の /r/（子音）に続く",
+            "components の語末 /s/ が when の /w/（子音）に続く → 連結なし",
+            "the は冠詞で弱形 /ðə/。server の /s/（子音）に続く",
+            "lagged の語末 /d/ が badly の /b/（子音）に続く → 未開放で /d̚/ に聞こえる"
+          ],
+          "kana": "ゼイ ワー ビューイングザ レッドストーン コンポーネンツ ウェン ザ サーバー ラッ バッドリ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been viewing",
+      "ipa": "/həd bɪn ˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "Steve had been viewing the cave system for hours before he found the first diamond.",
+          "ja": "スティーブは最初のダイヤモンドを見つける前に、何時間も洞窟システムを見ていました。",
+          "ipa": "/stiːv həd bɪn ˈvjuːɪŋ ðə ˈkeɪv ˈsɪstəm fər ˈaʊərz bɪˈfɔːr hi ˈfaʊnd ðə ˈfɝst ˈdaɪmənd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。cave の /k/（子音）に続く",
+            "system の語末 /m/ が for の弱形 /fər/（母音）に連結 [ˈsɪstəmfər] システムファー",
+            "for は機能語で弱形 /fər/",
+            "hours の語末 /z/ が before の /b/（子音）に続く → 連結なし"
+          ],
+          "kana": "スティーヴ ハド ビン ビューイングザ ケイヴ システムファー アワーズ ビフォア ヒー ファウンド ザ ファースト ダイモンド"
+        },
+        {
+          "en": "They had been viewing the different biome options to decide where to build the settlement.",
+          "ja": "彼らは入植地をどこに建てるかを決めるために、異なるバイオームオプションを見ていました。",
+          "ipa": "/ðeɪ həd bɪn ˈvjuːɪŋ ðə ˈdɪfərənt ˈbaɪoʊm ˈɑpʃənz tu dɪˈsaɪd wɛr tu ˈbɪld ðə ˈsɛtəlmənt/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "viewing の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈvjuːɪŋðə] ビューイングザ",
+            "the は冠詞で弱形 /ðə/。different の /d/（子音）に続く",
+            "options の語末 /z/ が to の弱形 /tə/（母音）に連結 [ˈɑpʃənz tə] オプションズ タ",
+            "to は機能語で弱形 /tə/",
+            "where の /ɛər/ が to の弱形 /tə/（母音）に続く"
+          ],
+          "kana": "ゼイ ハド ビン ビューイングザ ディファレント バイオーム オプションズ タ ディサイド ウェア タ ビルド ザ セトゥルメント"
+        }
+      ]
     }
   ]
 }

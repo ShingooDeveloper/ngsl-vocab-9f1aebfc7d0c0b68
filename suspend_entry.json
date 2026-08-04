@@ -46,6 +46,132 @@
       "kana": "マイ アカウント ワズ セスペンディド ファ グリーフィング ザ ビレッジ"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "suspends",
+      "ipa": "/səˈspɛndz/",
+      "examples": [
+        {
+          "en": "This contraption suspends blocks in the air using pistons.",
+          "ja": "このメカはピストンを使ってブロックを空中に浮かします。",
+          "ipa": "/ðɪs ˌkɑntɹəˈpʃən səˈspɛndz blɑks ɪn ðɪ ɛr ˈjuːzɪŋ ˈpɪstənz/",
+          "linking": [
+            "blocks の末子音 /z/ が in の初頭母音 /ɪ/ に連結 [blɑkzɪn] ブロックスイン",
+            "the は冠詞で弱形 /ðə/ に弱化し、air の初頭母音に連結 [ðɪ ɛr]"
+          ],
+          "kana": "ディス カントラプション セスペンズ ブロックスイン ディ エア ユージング ピストンズ"
+        },
+        {
+          "en": "The server suspends any account that breaks community rules.",
+          "ja": "サーバーはコミュニティルールに違反するアカウントをすべて停止します。",
+          "ipa": "/ðə ˈsɝvɚ səˈspɛndz ˈɛni əˈkaʊnt ðət bɹeɪks kəˈmjuːnəti ˈɹulz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "any の末母音 /i/ が account の初母音 /ə/ に連結。結果 [ˈɛniəˈkaʊnt] エニアカウント",
+            "that の末子音 /t/ が breaks の初頭子音 /b/ に... 子音+子音なので連結しない"
+          ],
+          "kana": "ザ サーバー セスペンズ エニアカウント ザット ブレイクス コミュニティ ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "suspended",
+      "ipa": "/səˈspɛndəd/",
+      "examples": [
+        {
+          "en": "I suspended the game to check the Nether fortress map.",
+          "ja": "ネザー要塞のマップを確認するためにゲームを一時停止しました。",
+          "ipa": "/aɪ səˈspɛndəd ðə ɡeɪm tə ˈtʃɛk ðə ˈnɛðɚ ˈfɔrtɪs mæp/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "game の末子音 /m/ が to の初頭母音 /ə/ に連結。to は弱形 [ɡeɪm tə] ゲイムタ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイ セスペンディド ザ ゲイムタ チェック ザ ネッダー フォーティス マップ"
+        },
+        {
+          "en": "They suspended mining operations after the cave-in happened.",
+          "ja": "落盤が起きた後、採掘作業が中止されました。",
+          "ipa": "/ðeɪ səˈspɛndəd ˈmaɪnɪŋ ˌɑpəˈreɪʃənz ˈæftɚ ðə ˈkeɪv ɪn ˈhæpənd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "cave の末子音 /v/ が in の初頭母音 /ɪ/ に連結 [ˈkeɪv ɪn] ケイヴイン"
+          ],
+          "kana": "ザイ セスペンディド マイニング アペレーションズ アフター ザ ケイヴイン ハプンド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "suspended",
+      "ipa": "/səˈspɛndəd/",
+      "examples": [
+        {
+          "en": "The platform has been suspended above the lava lake for hours.",
+          "ja": "そのプラットフォームは数時間、ラバ湖の上に浮かんだままです。",
+          "ipa": "/ðə ˈplætfɔrm həz bɪn səˈspɛndəd əˈbʌv ðə ˈlɑvə ˈleɪk fɚ ˈaʊɚz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "has は弱形 /həz/ に弱化",
+            "been は弱形 /bɪn/ に弱化",
+            "suspended の末子音 /d/ が above の初頭母音 /ə/ に連結 [səˈspɛndəd əˈbʌv] セスペンディダバブ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "for は弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ザ プラットフォーム ハズ ビン セスペンディダバブ ザ ラーバ レイク ファー アワーズ"
+        },
+        {
+          "en": "Your access was suspended due to repeated rule violations.",
+          "ja": "繰り返されたルール違反のため、あなたのアクセスが停止されました。",
+          "ipa": "/jɔr ˈɛkˌsɛs wəz səˈspɛndəd duː tə rɪˈpitɪd ˈrul vioʊˈleɪʃənz/",
+          "linking": [
+            "was は弱形 /wəz/ に弱化",
+            "due の末子音 /uː/ は長母音で、to の初頭子音 /t/ は子音なので連結しない",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ユアー エクセス ワズ セスペンディド デュー タ リピーティド ルール ヴァイオレーションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "suspending",
+      "ipa": "/səˈspɛndɪŋ/",
+      "examples": [
+        {
+          "en": "We are suspending the redstone build until we get more materials.",
+          "ja": "材料がもっと揃うまでレッドストーンの建築を中止しています。",
+          "ipa": "/wi ɑr səˈspɛndɪŋ ðə ˈrɛdˌstəʊn bɪld ənˈtɪl wi ɡɛt ˈmoʊr məˈtɪrəlz/",
+          "linking": [
+            "are は弱形 /ɑr/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "suspending の末子音 /ŋ/ が the の初頭子音に... 子音+子音なので連結しない",
+            "build の末子音 /d/ が until の初頭母音 /ə/ に連結 [bɪld ənˈtɪl] ビルダンティル"
+          ],
+          "kana": "ウィ アー セスペンディング ザ レッドストゥーン ビルダンティル ウィ ゲット モア マテリアルズ"
+        },
+        {
+          "en": "Suspending updates for a week gives players time to explore.",
+          "ja": "1週間アップデートを保留することで、プレイヤーに探索する時間を与えます。",
+          "ipa": "/səˈspɛndɪŋ ʌpˈdeɪts fɚ ə wik ɡɪvz ˈpleɪɚz taɪm tə ɪkˈsplɔr/",
+          "linking": [
+            "suspending の末子音 /ŋ/ が updates の初頭子音 /ə/ に... いや、updates の初頭は /ʌ/ で子音ではなく母音。/ŋ/ + /ʌ/ なので連結しない",
+            "for は弱形 /fɚ/ に弱化",
+            "a は弱形 /ə/ に弱化",
+            "gives の末子音 /z/ が players の初頭子音 /p/ に... 子音+子音なので連結しない",
+            "time の末子音 /m/ が to の初頭母音 /ə/ に連結。to は弱形 [taɪm tə] タイムタ"
+          ],
+          "kana": "セスペンディング アップデイツ ファ ア ウィーク ギブズ プレイヤーズ タイムタ イクスプロア"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "suspend from",

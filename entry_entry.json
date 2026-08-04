@@ -70,5 +70,38 @@
       ],
       "kana": "ウィ・ユーズダ・シークレッ・エントリ・トゥ・アヴォイザ・ガーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "entries",
+      "ipa": "/ˈɛntriz/",
+      "examples": [
+        {
+          "en": "I blocked all the cave entries with iron doors.",
+          "ja": "洞窟のすべての入り口を鉄のドアでふさいだ。",
+          "ipa": "/aɪ ˈblɑkt ɔl ðə ˈkeɪv ˈɛntriz wɪð ˈaɪrən ˈdɔrz/",
+          "linking": [
+            "blocked が all に連結 /t̚/ → /ɔ/：blocked の語末子音 /t/（未開放）が all の母音 /ɔ/ に続く [ˈblɑkt̚ ɔl] ブロッコール",
+            "all が the に連結 /l/ → /ə/：all の語末子音 /l/ が the の弱形母音 /ə/ に連結 [ɔlðə] オールザ",
+            "cave が entries に連結 /v/ → /ɛ/：cave の語末子音 /v/ が entries の母音 /ɛ/ に連結 [ˈkeɪvɛn-] ケイヴェントリーズ",
+            "with が iron に連結 /ð/ → /aɪ/：with の語末子音 /ð/ が iron の母音 /aɪ/ に連結 [wɪðˈaɪ-] ウィザイアン"
+          ],
+          "kana": "アイ・ブロッコール・ザ・ケイヴェントリーズ・ウィザイアン・ドーズ"
+        },
+        {
+          "en": "These entries lead to different mining areas.",
+          "ja": "これらの入り口は異なる採掘エリアに通じている。",
+          "ipa": "/ðiz ˈɛntriz lid tu ˈdɪfərənt ˈmaɪnɪŋ ˈeriəz/",
+          "linking": [
+            "These が entries に連結 /z/ → /ɛ/：These の語末子音 /z/ が entries の母音 /ɛ/ に連結 [ðizˈɛn-] ディーズエントリーズ",
+            "lead が to に連結 /d/ → /t/：lead の語末子音 /d/ が to の子音 /t/ に接し、未開放・閉鎖で詰まる [liːd̚ tə] リッター",
+            "mining が areas に連結 /ŋ/ → /ɛ/：mining の語末子音 /ŋ/ が areas の母音 /ɛ/ に流れ込む [ˈmaɪnɪŋˈɛ-] マイニング・エリアズ"
+          ],
+          "kana": "ディーズ・エントリーズ・リッター・ディファレント・マイニング・エリアズ"
+        }
+      ]
+    }
   ]
 }

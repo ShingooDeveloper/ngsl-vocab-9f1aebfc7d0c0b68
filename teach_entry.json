@@ -212,23 +212,117 @@
             "teaching new → /ŋ/ + /n/ (consonant+consonant、連結なし)",
             "to は弱形 /tə/",
             "is one → /z/ + /w/ (consonant+consonant、連結なし)",
-            "most rewarding → /st/ + /r/ が連結 [ˈmoʊst rɪˈwɔːrdɪŋ] モースト リワーディング",
-            "of the → /v/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
-            "of the game → /v/ + /ð/ (consonant+consonant、連結なし)"
+            "most rewarding → /st/ + /r/ が連結 [ˈmoʊstrɪˈwɔːrdɪŋ] モーストリワーディング",
+            "all the → /l/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "of the → /v/ + /ð/ (consonant+consonant、連結なし)"
           ],
-          "kana": "ティーチング ニュー プレイヤーズ ハウ タ サバイブ イズ ワン オヴ ザ モースト リワーディング パーツ オヴ ザ ゲイム"
+          "kana": "ティーチング ニュー プレイヤーズ ハウ タ サバイブ イズ ワン オヴ ザ モーストリワーディング パーツ オヴ ザ ゲイム"
         },
         {
           "en": "I'm still teaching my friend the complexities of enchantment systems.",
           "ja": "私は今でも友人にエンチャントシステムの複雑さを教えています。",
           "ipa": "/aɪm ˈstɪl ˈtiːtʃɪŋ maɪ ˈfrɛnd ðə kəmˈplɛksɪtiz əv ɪnˈtʃæntmənt ˈsɪstəmz/",
           "linking": [
-            "I'm still → /m/ + /st/ が続く [aɪm ˈstɪl] アイム スティル",
+            "I'm still → /m/ + /st/ (consonant+consonant、連結なし)",
             "teaching my → /ŋ/ + /m/ (consonant+consonant、連結なし)",
-            "the complexities → the は弱形 /ðə/、complexities に続く",
-            "of enchantment → /v/ + /ɪ/ が連結 [əv ɪnˈtʃæntmənt] オヴ インチャントメント"
+            "the complexities → the は弱形 /ðə/、/ə/ + /k/ (consonant+consonant、連結なし)",
+            "of enchantment → /v/ + /ɪ/ が連結 [əvɪnˈtʃæntmənt] オヴインチャントメント"
           ],
-          "kana": "アイム スティル ティーチング マイ フレンド ザ コンプレクシティーズ オヴ インチャントメント システムズ"
+          "kana": "アイム スティル ティーチング マイ フレンド ザ コンプレクシティーズ オヴインチャントメント システムズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is teaching",
+      "ipa": "/ɪz ˈtiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "She is teaching the new player how to build safely.",
+          "ja": "彼女は新しいプレイヤーに安全に建築する方法を教えています。",
+          "ipa": "/ʃi ɪz ˈtiːtʃɪŋ ðə ˈnu ˈpleɪɚ ˈhaʊ tə ˈbɪld ˈseɪfli/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "teaching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "how to → to は弱形 /tə/"
+          ],
+          "kana": "シー イズ ティーチング ザ ニュー プレイヤー ハウ タ ビルド セイフリー"
+        },
+        {
+          "en": "We are teaching each other about enchantment combinations.",
+          "ja": "私たちはエンチャント組み合わせについてお互いに教えあっています。",
+          "ipa": "/wi ɑr ˈtiːtʃɪŋ ˈiːtʃ ˈʌðɚ əˈbaʊt ɪnˈtʃæntmənt ˌkɑmbɪˈneɪʃənz/",
+          "linking": [
+            "are → 弱形 /ɑr/",
+            "teaching each → /ŋ/ + /i/ が連結 [ˈtiːtʃɪŋiːtʃ] ティーチングイーチ",
+            "about enchantment → /t/ + /ɪ/ が連結 [əˈbaʊtɪnˈtʃæntmənt] アバウティンチャントメント"
+          ],
+          "kana": "ウィー アー ティーチングイーチ アザー アバウティンチャントメント コンビネイションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was teaching",
+      "ipa": "/wəz ˈtiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "While I was teaching my friend, a creeper suddenly appeared.",
+          "ja": "友人に教えていたところ、突然クリーパーが現れました。",
+          "ipa": "/waɪl aɪ wəz ˈtiːtʃɪŋ maɪ ˈfrɛnd | ə ˈkriːpɚ ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "teaching my → /ŋ/ + /m/ (consonant+consonant、連結なし)",
+            "a creeper → a は弱形 /ə/"
+          ],
+          "kana": "ワイル アイ ワズ ティーチング マイ フレンド、ア クリーパー サッデンリー アピアード"
+        },
+        {
+          "en": "They were teaching newcomers when the server crashed.",
+          "ja": "彼らが新参者に教えていたとき、サーバーがクラッシュしました。",
+          "ipa": "/ðeɪ wɚ ˈtiːtʃɪŋ ˈnjuːˌkʌmɚz wɛn ðə ˈsɝːvɚ ˈkræʃt/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "teaching newcomers → /ŋ/ + /n/ (consonant+consonant、連結なし)",
+            "the → 弱形 /ðə/",
+            "server crashed → /r/ + /k/ が続く（consonant+consonant、連結なし）"
+          ],
+          "kana": "ゼイ ワー ティーチング ニューカマーズ ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been teaching",
+      "ipa": "/həd bɪn ˈtiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "By the time he finished, he had been teaching for hours.",
+          "ja": "終わる頃には、何時間も教えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm hi ˈfɪnɪʃt | hi həd bɪn ˈtiːtʃɪŋ fɔr ˈaʊɚz/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "been teaching → /n/ + /t/ (consonant+consonant、連結なし)",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "バイ ザ タイム ヒー フィニシュト、ヒー ハド ビン ティーチング フォー アワーズ"
+        },
+        {
+          "en": "She had been teaching survival skills for weeks before anyone mastered them.",
+          "ja": "彼女は誰かがそれを習得する数週間前から、サバイバルスキルを教えていました。",
+          "ipa": "/ʃi həd bɪn ˈtiːtʃɪŋ sərˈvaɪvəl ˈskɪlz fɔr wiks bɪˈfɔr ˈɛniˌwʌn ˈmæstɚd ðɛm/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been teaching → /n/ + /t/ (consonant+consonant、連結なし)",
+            "for → 弱形 /fɔr/",
+            "before anyone → /r/ + /ɛ/ が連結 [bɪˈfɔrɛniˌwʌn] ビフォアエニワン",
+            "mastered them → /d/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "シー ハド ビン ティーチング サバイバル スキルズ フォー ウィークス ビフォアエニワン マスタード ゼム"
         }
       ]
     }

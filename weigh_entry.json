@@ -69,5 +69,127 @@
       ],
       "kana": "ゴーイング バック タ ザ ケイヴ ウェイゾン マイ マインド"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "weighs",
+      "ipa": "/weɪz/",
+      "examples": [
+        {
+          "en": "The diamond armor weighs you down when swimming.",
+          "ja": "ダイヤモンドの防具は泳ぐときにあなたを引き下げます。",
+          "ipa": "/ðə ˈdaɪmənd ˈɑɚmɚ ˈweɪzjuː ˈdaʊn ˈwɛn ˈswɪmɪŋ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ ザ。",
+            "weighs の末尾子音 /z/ が you の初頭半子音 /j/ に連結 [ˈweɪzjuː] ウェイズユー。"
+          ],
+          "kana": "ザ ダイモンド アーマー ウェイズユー ダウン ウェン スウィミング"
+        },
+        {
+          "en": "That heavy block weighs more than expected.",
+          "ja": "その重いブロックは予想より重いです。",
+          "ipa": "/ðæt ˈhɛvi ˈblɑk ˈweɪz ˈmɔɹ ðən ɪkˈspɛktəd/",
+          "linking": [
+            "that の末尾子音 /t/ が heavy の初頭母音 /h/ に続く（aspirated h は 実質的には子音なので strict には連結なし）。",
+            "weighs の末尾子音 /z/ が more の初頭子音 /m/ に続くが、consonant+consonant で連結なし。",
+            "than は弱形で /ðən/ ザン。"
+          ],
+          "kana": "ザット ヘビー ブラック ウェイズ モアー ザン イクスペクティド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "weighed",
+      "ipa": "/weɪd/",
+      "examples": [
+        {
+          "en": "I weighed all my items before the long adventure.",
+          "ja": "長い冒険の前に、すべてのアイテムの重さを測定しました。",
+          "ipa": "/aɪ ˈweɪd ˈɔl maɪ ˈaɪtəmz bɪˈfɔɹ ðə ˈlɔŋ ədˈvɛntʃɚ/",
+          "linking": [
+            "weighed の末尾子音 /d/ が all の初頭母音 /ɔ/ に連結 [ˈweɪdɔl] ウェイドール。",
+            "the は冠詞で弱形 /ðə/ ザ。",
+            "adventure の /t/ は母音に挟まれてフラップ化し /ɾ/ になり、[ədˈvɛntʃɚ] アドベンチャー。"
+          ],
+          "kana": "アイ ウェイドール マイ アイテムズ ビフォアー ザ ロング アドベンチャー"
+        },
+        {
+          "en": "The builder weighed each stone block with precision.",
+          "ja": "ビルダーは各石のブロックを正確に測定しました。",
+          "ipa": "/ðə ˈbɪldɚ ˈweɪd ˈitʃ ˈstoʊn ˈblɑk wɪð prɪˈsɪʒən/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ ザ。",
+            "weighed の末尾子音 /d/ が each の初頭母音 /i/ に連結 [ˈweɪdɪtʃ] ウェイディッチ。",
+            "with は /wɪð/。precision に連結する場合、/ð/ が /p/ に続くが consonant+consonant なので連結なし。"
+          ],
+          "kana": "ザ ビルダー ウェイディッチ ストーン ブラック ウィズ プリシージョン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "weighed",
+      "ipa": "/weɪd/",
+      "examples": [
+        {
+          "en": "Having weighed our options carefully, we chose the diamond pickaxe.",
+          "ja": "慎重にオプションを計量した後、ダイヤモンドのツルハシを選びました。",
+          "ipa": "/ˈhævɪŋ ˈweɪd ˈaʊər ˈɑpʃənz ˈkɛrfəli | wi tʃoʊz ðə ˈdaɪmənd ˈpɪkˌæks/",
+          "linking": [
+            "weighed の末尾子音 /d/ が our の初頭母音 /aʊ/ に連結 [ˈweɪdaʊ] ウェイダウ。",
+            "our は /aʊr/、options の初頭 /ɑ/ に連結 [ˈaʊər ˈɑpʃənz] アワー オプションズ。",
+            "carefully の /r/ は弱化し /ə/、/li/ に流れる [ˈkɛrfəli] ケアフリー。"
+          ],
+          "kana": "ハビング ウェイダウ アワー オプションズ ケアフリー、ウィ チューズ ザ ダイモンド ピックアックス"
+        },
+        {
+          "en": "All items weighed yesterday remain in the storage chest.",
+          "ja": "昨日計量されたすべてのアイテムはストレージチェストに残っています。",
+          "ipa": "/ɔl ˈaɪtəmz ˈweɪd ˈjɛstɚˌdeɪ rɪˈmeɪn ɪn ðə ˈstɔɹɪdʒ ˈtʃɛst/",
+          "linking": [
+            "weighed の末尾子音 /d/ が yesterday の初頭 /j/ に連結 [ˈweɪdjɛs] ウェイドイェス。",
+            "remain の末尾 /n/ が in の初頭 /ɪ/ に連結 [rɪˈmeɪn ɪn] リメイン イン。",
+            "the は冠詞で弱形 /ðə/ ザ。"
+          ],
+          "kana": "オール アイテムズ ウェイドイェスタディ リメイン イン ザ ストレッジ チェスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "weighing",
+      "ipa": "/ˈweɪɪŋ/",
+      "examples": [
+        {
+          "en": "Weighing your inventory is essential for efficient mining.",
+          "ja": "インベントリーの重さを測定することは効率的な採掘に不可欠です。",
+          "ipa": "/ˈweɪɪŋ jɚ ɪnˈvɛntəri ɪz ɪˈsɛnʃəl fɚ ɪˈfɪʃənt ˈmaɪnɪŋ/",
+          "linking": [
+            "weighing の末尾 /ŋ/ は鼻音、your の初頭 /j/ は semivowel なので連結が弱いが [ˈweɪɪŋ jɚ] ウェイイング ヤー。",
+            "essential の /t/ は母音に挟まれてフラップ化し /ɾ/ [ɪˈsɛnʃəl] イセンシャル。",
+            "for は機能語で弱形 /fɚ/ ファー。"
+          ],
+          "kana": "ウェイイング ヤー インベントリー イズ イセンシャル ファー イフィシャント マイニング"
+        },
+        {
+          "en": "While weighing ore samples, we discovered valuable resources.",
+          "ja": "鉱石サンプルの重さを測定している間に、貴重なリソースを発見しました。",
+          "ipa": "/ˈwaɪl ˈweɪɪŋ ˈɔr ˈsæmpəlz | wi dɪˈskʌvɚd ˈvæljuəbl ˈrɛsɚsɪz/",
+          "linking": [
+            "while の末尾 /l/ が weighing の初頭 /w/ に続くが consonant+consonant で連結なし。",
+            "weighing の末尾 /ŋ/ が ore の初頭 /ɔ/ に続く [ˈweɪɪŋ ˈɔr] ウェイイング オアー。",
+            "samples の末尾 /z/ が we の初頭 /w/ に続く [ˈsæmpəlz wi] サンプルズ ウィー。",
+            "discovered の /d/ は /ɪ/ に連結 [dɪˈskʌvɚd] ディスカバード。"
+          ],
+          "kana": "ワイル ウェイイング オアー サンプルズ ウィー ディスカバード バリュアブル リソーシズ"
+        }
+      ]
+    }
   ]
 }

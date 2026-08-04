@@ -53,5 +53,70 @@
       ],
       "kana": "ジェントリ ダズ イット ウィズ ザ ティーエヌティー アー ザ ホール ベイス ウィル イクスプロード"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more gently",
+      "ipa": "[mɔr ˈdʒɛntli]",
+      "examples": [
+        {
+          "en": "You need to handle the eggs more gently than glass blocks.",
+          "ja": "卵をガラスブロックより優しく扱う必要があります。",
+          "ipa": "[ju ˈniːd tə ˈhændəl ðə ˈɛɡz mɔr ˈdʒɛntli ðæn ˈɡlæs ˈblɑks]",
+          "linking": [
+            "you の /u/ が need の /n/ に連結。",
+            "need の /d/ が to の弱形 /tə/ に連結。",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "eggs の /z/ が more の /m/ に連結。"
+          ],
+          "kana": "ユー ニード タ ハンドル ザ エッグズ モア ジェントリ ザン グラス ブロックス"
+        },
+        {
+          "en": "Place water streams more gently near your valuable bases.",
+          "ja": "貴重な基地の近くで水流をもっと優しく配置します。",
+          "ipa": "[ˈpleɪs ˈwɔɾɚ ˈstrimz mɔr ˈdʒɛntli ˈnɪr jɔr ˈvæljuəbəl ˈbeɪsɪz]",
+          "linking": [
+            "water の /t/ が母音間でフラップ化して /ɾ/ となり [ˈwɔɾɚ] ウォーラー。",
+            "streams の /z/ が more の /m/ に連結。",
+            "your の /r/ が valuable の /v/ の前で未開放。"
+          ],
+          "kana": "プレイス ウォーラー ストリームズ モア ジェントリ ニア ユア ヴァリュアブル ベイシズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most gently",
+      "ipa": "[ˈmoʊst ˈdʒɛntli]",
+      "examples": [
+        {
+          "en": "You should dig ore most gently to avoid breaking it completely.",
+          "ja": "採掘鉱石をできるだけ優しく掘って完全に破壊されないようにする。",
+          "ipa": "[ju ˈʃʊd ˈdɪɡ ˈɔr ˈmoʊst ˈdʒɛntli tə əˈvɔɪd ˈbreɪkɪŋ ɪt kəmˈpliːtli]",
+          "linking": [
+            "should の /d/ が dig の /d/ に未開放で連続。",
+            "ore の /r/ が most の /m/ の前で未開放。",
+            "to は弱形 /tə/。",
+            "breaking の /ŋ/ が it の /ɪ/ に連結。"
+          ],
+          "kana": "ユー シュッド ディグ オア モウスト ジェントリ タ アヴォイド ブレイキング イット コムプリートリ"
+        },
+        {
+          "en": "Builders move precious blocks most gently through redstone doors.",
+          "ja": "ビルダーはレッドストーンドアを通して貴重なブロックをできるだけ優しく動かします。",
+          "ipa": "[ˈbɪldərz ˈmuv ˈprɛʃəs ˈblɑks ˈmoʊst ˈdʒɛntli θru ˈrɛdˌstoʊn ˈdɔrz]",
+          "linking": [
+            "builders の /z/ が move の /m/ に連結。",
+            "move の /v/ が precious の /p/ の前で未開放。",
+            "precious の /s/ が blocks の /b/ に連結。",
+            "blocks の /s/ が most の /m/ に連結。"
+          ],
+          "kana": "ビルダーズ ムーヴ プレシャス ブロックス モウスト ジェントリ スルー レッドストーン ドアーズ"
+        }
+      ]
+    }
   ]
 }

@@ -43,5 +43,143 @@
       "kana": "イフ ユー ドーント ビヘイヴ カレクトリ ユール リグレット イット"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "behaves",
+      "ipa": "/bɪˈheɪvz/",
+      "examples": [
+        {
+          "en": "A guardian behaves very aggressively when it detects a player near the ocean monument.",
+          "ja": "ガーディアンはプレイヤーが海底神殿の近くにいると、非常に攻撃的に振る舞う。",
+          "ipa": "/ə ˈɡɑrdiən bɪˈheɪvz ˈvɛri əˈɡrɛsɪvli wɛn ɪt dɪˈtɛkts ə ˈpleɪər ˈnɪr ðə ˈoʊʃən ˈmɑnjumənt/",
+          "linking": [
+            "guardian の語末 /ən/ が次の /b/ に連結。結果は [ˈɡɑrdiən bɪ] ガーディェンビ",
+            "behaves very → /z/ + /v/ が続く（子音+子音）",
+            "aggressively の /i/ が when の初頭に続く",
+            "when it → when の語末 /n/ が it の /ɪ/ に連結 [wɛn ɪt] ウェニット",
+            "the ocean → the は弱形で /ðə/、ocean に連結 [ðə ˈoʊʃən] ザ オーシャン"
+          ],
+          "kana": "ア ガーディアン ビヘイヴズ ベリー アグレッシヴリー ウェン イット ディテックツ ア プレイヤー ニア ザ オーシャン モニュメント"
+        },
+        {
+          "en": "The warden behaves very differently when a mob gets too close.",
+          "ja": "ウォーデンはモブが近づきすぎると、非常に異なる振る舞いをする。",
+          "ipa": "/ðə ˈwɔrdən bɪˈheɪvz ˈvɛri ˈdɪfərəntli wɛn ə ˈmoʊb ɡɛts tu ˈkloʊs/",
+          "linking": [
+            "the は弱形で /ðə/、warden に連結 [ðə ˈwɔrdən] ザ ウォーデン",
+            "warden behaves → /n/ + /b/ が連結 [ˈwɔrdən bɪ] ウォーデン ビ",
+            "behaves very → /z/ + /v/ が続く（子音+子音）",
+            "when a → when の語末 /n/ が a の /ə/ に連結。a は弱形。結果は [wɛn ə] ウェナ",
+            "gets too → /s/ + /t/ が続く（子音+子音）、too は /tu/"
+          ],
+          "kana": "ザ ウォーデン ビヘイヴズ ベリー ディッファレントリー ウェナ モーブ ゲッツ トゥ クロース"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "behaved",
+      "ipa": "/bɪˈheɪvd/",
+      "examples": [
+        {
+          "en": "The zombie behaved strangely after I hit it with a weakness potion.",
+          "ja": "ゾンビは弱体化ポーションで攻撃した後、奇妙に振る舞った。",
+          "ipa": "/ðə ˈzoʊmbi bɪˈheɪvd ˈstreɪndʒli ˈæftər aɪ ˈhɪt ɪt wɪð ə ˈwiːknəs ˈpoʊʃən/",
+          "linking": [
+            "the は弱形で /ðə/、zombie に連結 [ðə ˈzoʊmbi] ザ ゾンビ",
+            "zombie behaved → /i/ + /b/ が連結 [bi bɪˈheɪvd] ビビヘイヴド",
+            "hit it → /t/ が未開放で詰まる。結果は [ˈhɪt̚ ɪt] ヒッ イット",
+            "it with → /t/ + /w/ が続く（子音+子音）",
+            "a weakness → a は弱形で /ə/、weakness に連結 [ə ˈwiːknəs] ア ウィークネス"
+          ],
+          "kana": "ザ ゾンビ ビヘイヴド ストレインジリー アフター アイ ヒッ イット ウィズ ア ウィークネス ポーション"
+        },
+        {
+          "en": "The hostile mobs behaved peacefully once I drank the invisibility potion.",
+          "ja": "透明化ポーションを飲むと、敵対的なモブは穏やかに振る舞った。",
+          "ipa": "/ðə ˈhoʊstəl ˈmoʊbz bɪˈheɪvd ˈpiːsfəli ˈwʌns aɪ ˈdræŋk ðə ɪnˌvɪzəˈbɪləti ˈpoʊʃən/",
+          "linking": [
+            "the は弱形で /ðə/、hostile に連結 [ðə ˈhoʊstəl] ザ ホースタル",
+            "mobs behaved → /z/ + /b/ が連結 [ˈmoʊbz bɪˈheɪvd] モーブズビヘイヴド",
+            "peacefully once → /i/ + /wʌ/ が続く（子音+子音）",
+            "drank the → the は弱形で /ðə/、drank の語末 /ŋk/ に続く [ðə ɪn] ザ イン",
+            "invisibility の /i/ が potion の /p/ に続く"
+          ],
+          "kana": "ザ ホースタル モーブズ ビヘイヴド ピースフリー ワンス アイ ドラング ザ インビジビリティ ポーション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "behaved",
+      "ipa": "/bɪˈheɪvd/",
+      "examples": [
+        {
+          "en": "Having behaved correctly during the test, I passed the challenge easily.",
+          "ja": "テスト中に正しく振る舞ったので、チャレンジに簡単に合格しました。",
+          "ipa": "/ˈheɪvɪŋ bɪˈheɪvd kəˈrɛktli ˈdʊrɪŋ ðə ˈtɛst | aɪ ˈpæst ðə ˈtʃælɪndʒ ˈiːzɪli/",
+          "linking": [
+            "Having behaved → /ŋ/ + /b/ が連結 [ˈheɪvɪŋ bɪˈheɪvd] ハヴィング ビヘイヴド",
+            "behaved correctly → /d/ + /k/ が続く（子音+子音）",
+            "during the → the は弱形で /ðə/、during の語末 /ŋ/ に続く [ðə ˈtɛst] ザ テスト",
+            "the challenge → the は /ðə/、challenge に連結 [ðə ˈtʃælɪndʒ] ザ チャレンジ",
+            "challenge easily → /dʒ/ + /i/ が続く（子音+母音で連結可能）[ˈtʃælɪndʒ ˈiːzɪli] チャレンジ イージリー"
+          ],
+          "kana": "ハヴィング ビヘイヴド コレクトリー ドゥーリング ザ テスト、アイ パッスド ザ チャレンジ イージリー"
+        },
+        {
+          "en": "The animals that behaved well throughout the breeding season are now being used for farming.",
+          "ja": "繁殖期全体を通じて良く振る舞った動物は、今、農業に使用されている。",
+          "ipa": "/ðə ˈænəməlz ðæt bɪˈheɪvd ˈwɛl θruˈaʊt ðə ˈbriːdɪŋ ˈsiːzən | ɑr ˈnaʊ ˈbiːɪŋ ˈjuzd fər ˈfɑrmɪŋ/",
+          "linking": [
+            "the は弱形で /ðə/、animals に連結 [ðə ˈænəməlz] ザ アニマルズ",
+            "that behaved → /t/ + /b/ が続く（子音+子音）",
+            "behaved well → /d/ + /w/ が連結 [bɪˈheɪvd wɛl] ビヘイヴド ウェル",
+            "throughout the → the は弱形で /ðə/、throughout の語末 /t/ に続く [ðə ˈbriːdɪŋ] ザ ブリーディング",
+            "being used for → for は弱形で /fər/、used の語末 /d/ + /f/ が続く（子音+子音）"
+          ],
+          "kana": "ザ アニマルズ ザット ビヘイヴド ウェル スルーアウト ザ ブリーディング シーズン、アー ナウ ビーイング ユーズド ファー ファーミング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "behaving",
+      "ipa": "/bɪˈheɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The creepers are behaving unpredictably near the TNT storage area.",
+          "ja": "クリーパーはTNT保管エリアの近くで予測不可能に振る舞っている。",
+          "ipa": "/ðə ˈkriːpərz ɑr bɪˈheɪvɪŋ ˌʌnprɪˈdɪktəbli ˈnɪr ðə ˈtiːɛnˈtiː ˈstɔrɪdʒ ˈɛriə/",
+          "linking": [
+            "the は弱形で /ðə/、creepers に連結 [ðə ˈkriːpərz] ザ クリーパーズ",
+            "creepers are → /z/ + /ɑ/ が連結 [ˈkriːpərz ɑr] クリーパーズ アー",
+            "are behaving → /r/ + /b/ が連結 [ɑr bɪˈheɪvɪŋ] アー ビヘイビング",
+            "near the → the は弱形で /ðə/、near の語末 /r/ + the の /ð/ が続く（子音+子音）",
+            "storage area → /dʒ/ + /ɛ/ が連結 [ˈstɔrɪdʒ ˈɛriə] ストレッジ エリア"
+          ],
+          "kana": "ザ クリーパーズ アー ビヘイビング アンプリディクタブリー ニア ザ ティーエヌティー ストレッジ エリア"
+        },
+        {
+          "en": "While behaving stealthily, I managed to sneak past the warden without getting caught.",
+          "ja": "こっそり振る舞いながら、ウォーデンに見つからずに忍び寄ることができました。",
+          "ipa": "/ˈwaɪl bɪˈheɪvɪŋ ˈstelθɪli | aɪ ˈmænɪdʒd tə ˈsnik ˈpæst ðə ˈwɔrdən wɪˈðaʊt ˈɡɛtɪŋ ˈkɔt/",
+          "linking": [
+            "While behaving → /l/ + /b/ が連結 [ˈwaɪl bɪˈheɪvɪŋ] ワイル ビヘイビング",
+            "behaving stealthily → /ŋ/ + /s/ が続く（子音+子音）",
+            "to sneak → to は弱形で /tə/、sneak に連結 [tə ˈsnik] タ スニーク",
+            "the warden → the は弱形で /ðə/、warden に連結 [ðə ˈwɔrdən] ザ ウォーデン",
+            "without getting → /t/ + /ɡ/ が続く（子音+子音）、getting の /ŋ/ + caught の /k/ も続く"
+          ],
+          "kana": "ワイル ビヘイビング ステルシリー、アイ マネッジド タ スニーク パスト ザ ウォーデン ウィザウト ゲッティング コート"
+        }
+      ]
+    }
+  ]
 }

@@ -103,5 +103,69 @@
       "kana": "ザ カルチャラル ブロックス フラム ディス ビルド リマインド ミー アヴ ストラクチャーズ フラム エインシェント シヴィライゼーションズ"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more cultural",
+      "ipa": "/mɔr ˈkʌltʃərəl/",
+      "examples": [
+        {
+          "en": "Building a more cultural structure attracts players from different backgrounds.",
+          "ja": "より文化的な構造を建てることで、異なる背景を持つプレイヤーを引きつける。",
+          "ipa": "/ˈbɪldɪŋ ə mɔr ˈkʌltʃərəl ˈstrʌktʃɚ əˈtræks ˈpleɪɚz ˈfɹʌm ˈdɪfɚənt ˈbækɡraʊndz/",
+          "linking": [
+            "Building a → 語末音 /ŋ/ が a の初頭 /ə/（子音+母音）に連結 [ˈbɪldɪŋ‿ə]",
+            "a more → a は弱形 /ə/ で more と連結 [ə mɔr] ア モア",
+            "more cultural → /r/ + /k/（子音+子音、連結なし）",
+            "structure attracts → 語末音 /r/ が attracts の初頭 /ə/（子音+母音）に連結 [ˈstrʌktʃɚ‿əˈtræks]"
+          ],
+          "kana": "ビルディング ア モア カルチャラル ストラクチャー アトラクツ プレイヤーズ フラム ディファレント バックグラウンズ"
+        },
+        {
+          "en": "This design is more cultural than the basic stone version.",
+          "ja": "このデザインは基本的な石バージョンより文化的だ。",
+          "ipa": "/ðɪs dɪˈzaɪn ɪz mɔr ˈkʌltʃərəl ðən ðə ˈbeɪsɪk ˈstoʊn ˈvɜrʒən/",
+          "linking": [
+            "is more → is は弱形 /ɪz/、more の /m/ に続く（子音+子音、連結なし）",
+            "more cultural → /r/ + /k/（子音+子音、連結なし）",
+            "than the → than は弱形 /ðən/、the も弱形 /ðə/"
+          ],
+          "kana": "ディス ディザイン イズ モア カルチャラル ザン ダ ベイシック ストーン ヴァージョン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most cultural",
+      "ipa": "/ˈmoʊst ˈkʌltʃərəl/",
+      "examples": [
+        {
+          "en": "The most cultural build in our Minecraft server showcases ancient civilizations.",
+          "ja": "マインクラフトサーバーで最も文化的なビルドは古代文明を示している。",
+          "ipa": "/ðə ˈmoʊst ˈkʌltʃərəl ˈbɪld ɪn ˈaʊɚ ˈmaɪnˌkræft ˈsɜrvɚ ˈʃoʊˌkeɪsəz ˈeɪnʃənt ˌsɪvɪlɪˈzeɪʃənz/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most cultural → /t/ + /k/（子音+子音、連結なし）",
+            "in our → 語末音 /n/ が our の初頭 /aʊ/（子音+母音）に連結 [ɪn‿ˈaʊɚ]",
+            "showcases ancient → 語末音 /z/ が ancient の初頭 /eɪ/（子音+母音）に連結 [ˈʃoʊˌkeɪsəz‿ˈeɪnʃənt]"
+          ],
+          "kana": "ダ モースト カルチャラル ビルド イン アワー マインクラフト サーバー ショウケイセズ エイシェント シヴィライゼーションズ"
+        },
+        {
+          "en": "That's the most cultural achievement players have created on this server.",
+          "ja": "それはプレイヤーがこのサーバーで作った最も文化的な達成だ。",
+          "ipa": "/ðæts ðə ˈmoʊst ˈkʌltʃərəl əˈtʃiːvmənt ˈpleɪɚz həv kriˈeɪtɪd ɑn ðɪs ˈsɜrvɚ/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most cultural → /t/ + /k/（子音+子音、連結なし）",
+            "achievement players → 語末音 /t/ が players の初頭 /p/（子音+子音、連結なし）",
+            "on this → 語末音 /n/ が this の初頭 /ð/（子音+子音、連結なし）、this の /ð/ は子音"
+          ],
+          "kana": "ザッツ ダ モースト カルチャラル ア チーヴメント プレイヤーズ ハブ クリエイティッド オン ディス サーバー"
+        }
+      ]
+    }
+  ]
 }

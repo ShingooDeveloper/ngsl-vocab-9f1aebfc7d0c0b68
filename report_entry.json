@@ -219,6 +219,95 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is reporting",
+      "ipa": "/ɪz rɪˈpɔrtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is reporting the glitch to the admin right now.",
+          "ja": "スティーヴは今、グリッチについて管理者に報告しています。",
+          "ipa": "/stiv ɪz rɪˈpɔrtɪŋ ðə ɡlɪtʃ tu ðə ˈædmɪn ˈraɪt ˈnaʊ/",
+          "linking": [
+            "Steve の語末子音 /v/ が is の弱形 /ɪz/ に連結 [ˈstɪvɪz] スティーヴ・イズ",
+            "reporting の語末子音 /ŋ/ が the の /ð/（子音）に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ðə] リポーティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "スティーヴ イズリポーティン ザ グリッチ トゥ ザ アドミン ライト ナウ"
+        },
+        {
+          "en": "We are reporting the glitch to the server.",
+          "ja": "私たちはグリッチについてサーバーに報告しています。",
+          "ipa": "/wi ɑr rɪˈpɔrtɪŋ ðə ɡlɪtʃ tu ðə ˈsɝvɚ/",
+          "linking": [
+            "reporting の語末子音 /ŋ/ が the の /ð/（子音）に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ðə] リポーティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィー・アー リポーティン ザ グリッチ トゥ ザ サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was reporting",
+      "ipa": "/wəz rɪˈpɔrtɪŋ/",
+      "examples": [
+        {
+          "en": "I was reporting the crash when the server restarted.",
+          "ja": "サーバーが再起動した時、私はクラッシュについて報告していました。",
+          "ipa": "/aɪ wəz rɪˈpɔrtɪŋ ðə kræʃ wɛn ðə ˈsɝvɚ rɪˈstɑrtəd/",
+          "linking": [
+            "reporting の語末子音 /ŋ/ が the の /ð/ に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ðə] リポーティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "crash の語末子音 /ʃ/ が when の /w/（子音）に直続、/ʃ/ は未開放 [kræʃ̚ wɛn] クラッシュ・ウェン"
+          ],
+          "kana": "アイ ワズリポーティン ザ クラッシュ ウェンザ サーヴァー リスターティド"
+        },
+        {
+          "en": "They were reporting the coordinates when we lost connection.",
+          "ja": "私たちが接続を失った時、彼らは座標を報告していました。",
+          "ipa": "/ðeɪ wɝ rɪˈpɔrtɪŋ ðə ˌkoʊˈɔɹdənɪts wɛn wi ˈlɑst kəˈnɛkʃən/",
+          "linking": [
+            "reporting の語末子音 /ŋ/ が the の /ð/ に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ðə] リポーティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "coordinates の語末子音 /s/ が when の /w/（子音）に直続、/s/ は未開放 [ˌɔɹdənɪts̚ wɛn] コウオーディネッツ・ウェン"
+          ],
+          "kana": "ザェイ ウァーリポーティン ザ コウオーディネッツ ウェン ウィ ロスト ケネクション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been reporting",
+      "ipa": "/həd bɪn rɪˈpɔrtɪŋ/",
+      "examples": [
+        {
+          "en": "He had been reporting bugs for months before the update.",
+          "ja": "アップデート前の数ヶ月間、彼はバグを報告していました。",
+          "ipa": "/hi həd bɪn rɪˈpɔrtɪŋ ˈbʌɡz fɔr ˈmʌnθz bɪˈfɔr ðə ʌpˈdeɪt/",
+          "linking": [
+            "had の語末子音 /d/ が been の /b/（子音）に直続、/d/ は未開放 [həd̚ bɪn] ハド・ビン",
+            "reporting の語末子音 /ŋ/ が bugs の /b/（子音）に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ˈbʌɡz] リポーティン・バッグズ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ヒー ハド ビン リポーティン バッグズ フォア マンス ビフォア ザ アップデイト"
+        },
+        {
+          "en": "We had been reporting the same issue repeatedly.",
+          "ja": "私たちは同じ問題を何度も報告していました。",
+          "ipa": "/wi həd bɪn rɪˈpɔrtɪŋ ðə ˈseɪm ˈɪʃu rɪˈpitɪdli/",
+          "linking": [
+            "had の語末子音 /d/ が been の /b/ に直続、/d/ は未開放 [həd̚ bɪn] ハド・ビン",
+            "reporting の語末子音 /ŋ/ が the の /ð/ に直続、/ŋ/ は未開放 [rɪˈpɔrtɪŋ̚ ðə] リポーティン・ザ",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィー ハド ビン リポーティン ザ セイム イッシュー リピーティッドリー"
+        }
+      ]
+    },
+    {
       "type": "present_participle",
       "label": "現在分詞/動名詞",
       "text": "reporting",

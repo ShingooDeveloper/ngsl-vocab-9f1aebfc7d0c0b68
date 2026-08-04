@@ -70,5 +70,147 @@
       ],
       "kana": "ザ モブズ クラウディド アウト ザ ヴィリンジャーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "crowds",
+      "ipa": "/kraʊdz/",
+      "examples": [
+        {
+          "en": "Crowds of zombies spawn near the village every night.",
+          "ja": "毎晩、村の近くでゾンビの群れが湧く。",
+          "ipa": "/ˈkraʊdz əv ˈzɑmbiːz ˈspoːn ˈnɪr ðə ˈvɪlɪdʒ ˈɛvri ˈnaɪt/",
+          "linking": [
+            "crowds of → 語末子音 /dz/ が of の弱形 /əv/ に連結 [kraʊdz‿əv]",
+            "near the → /r/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "クラウズ オヴ ゾムビーズ スポーン ニアー ダ ビリッジ エブリー ナイト"
+        },
+        {
+          "en": "These crowds gathered together near the exit.",
+          "ja": "これらの群れは一緒に出口の近くに集まった。",
+          "ipa": "/ðiːz ˈkraʊdz ˈɡæðərd təˈɡɛðər ˈnɪr ðə ˈɛɡzɪt/",
+          "linking": [
+            "These crowds → /z/ + /k/（子音+子音、連結なし）",
+            "gathered together → /d/ + /t/（子音+子音、連結なし）"
+          ],
+          "kana": "ディーズ クラウズ ギャザード トゥゲッザー ニアー ダ エグジット"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "crowds",
+      "ipa": "/kraʊdz/",
+      "examples": [
+        {
+          "en": "A wave of mobs crowds the chamber constantly.",
+          "ja": "モブの波が常に部屋を埋め尽くす。",
+          "ipa": "/ə ˈweɪv əv ˈmoʊbz ˈkraʊdz ðə ˈtʃeɪmbər ˈkɑnstəntli/",
+          "linking": [
+            "wave of → 語末子音 /v/ が of の弱形 /əv/ に連結 [ˈweɪv‿əv]",
+            "crowds the → /z/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ア ウェイヴ オヴ モブズ クラウズ ダ チェンバー コンスタントリー"
+        },
+        {
+          "en": "The horde crowds deeper into our base tunnels daily.",
+          "ja": "群れが毎日、私たちの基地のトンネルをより深く埋め尽くす。",
+          "ipa": "/ðə ˈhɔrd ˈkraʊdz ˈdipər ˈɪntu ˈaʊər ˈbeɪs ˈtʌnəlz ˈdeɪli/",
+          "linking": [
+            "deeper into → 語末子音 /r/ が into の /ɪ/ に連結 [ˈdipɚ‿ˈɪntu]",
+            "players all → /z/ が /ɔ/ に連結。all の /l/ が day の /d/ に続く"
+          ],
+          "kana": "ダ ホード クラウズ ディーパー イントゥ アワー ベース タンネルズ デイリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "crowded",
+      "ipa": "/ˈkraʊdəd/",
+      "examples": [
+        {
+          "en": "Mobs crowded the passage and blocked our escape route.",
+          "ja": "モブは通路を埋め尽くし、私たちの脱出ルートをふさいだ。",
+          "ipa": "/ˈmoʊbz ˈkraʊdəd ðə ˈpæsɪdʒ ənd ˈblɑkt ˈaʊər ɪˈskeɪp ˈruːt/",
+          "linking": [
+            "crowded the → 語末子音 /d/ が the の弱形 /ðə/ に続く（未開放で）",
+            "and blocked → and は弱形 /ənd/。blocked の /b/ に続く"
+          ],
+          "kana": "モブズ クラウディド ダ パッセッジ アン ブロクト アワー エスケイプ ルート"
+        },
+        {
+          "en": "Villagers crowded around the trading desk excitedly.",
+          "ja": "村人は興奮して取引机の周りに群がった。",
+          "ipa": "/ˈvɪlɪndʒərz ˈkraʊdəd əˈraʊnd ðə ˈtreɪdɪŋ ˈdɛsk ɪkˈsaɪtɪdli/",
+          "linking": [
+            "crowded around → 語末子音 /d/ が /ə/ に続く（around の初頭）",
+            "desk excitedly → /k/ が /ɪ/ に連結 [ˈdɛsk‿ɪkˈsaɪtɪdli] デスク エクサイティドリー"
+          ],
+          "kana": "ビリンジャーズ クラウディド アラウンド ダ トレイディング デスク エクサイティドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "crowded",
+      "ipa": "/ˈkraʊdəd/",
+      "examples": [
+        {
+          "en": "The spawner is crowded with aggressive mobs every night.",
+          "ja": "スポーナーは毎晩、攻撃的なモブでいっぱいだ。",
+          "ipa": "/ðə ˈspoːnər ɪz ˈkraʊdəd ˈwɪð əˈɡrɛsɪv ˈmoʊbz ˈɛvri ˈnaɪt/",
+          "linking": [
+            "spawner is → 語末子音 /r/ が /ɪ/ に連結 [ˈspoːnɚ‿ɪz]",
+            "mobs every → 語末子音 /z/ が /ɛ/ に連結 [ˈmoʊbz‿ˈɛvəri]"
+          ],
+          "kana": "ダ スポーナー イズ クラウディド ウィズ アグレッシヴ モブズ エブリー ナイト"
+        },
+        {
+          "en": "Our base entrance has been crowded with players all day.",
+          "ja": "私たちの基地の入り口は一日中プレイヤーでいっぱいだ。",
+          "ipa": "/ˈaʊər ˈbeɪs ˈɛntrəns hæz bɪn ˈkraʊdəd ˈwɪð ˈpleɪərz ˈɔl ˈdeɪ/",
+          "linking": [
+            "players all → 語末子音 /z/ が /ɔ/ に連結 [ˈpleɪɚz‿ˈɔl]",
+            "been crowded → /n/ + /k/（子音+子音、連結なし）"
+          ],
+          "kana": "アワー ベース エントランス ハズ ビン クラウディド ウィズ プレイヤーズ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "crowding",
+      "ipa": "/ˈkraʊdɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs are crowding the tunnel faster than before.",
+          "ja": "モブは以前より速く、トンネルを埋め尽くしている。",
+          "ipa": "/ðə ˈmoʊbz ɑr ˈkraʊdɪŋ ðə ˈtʌnəl ˈfæstər ðən bɪˈfɔr/",
+          "linking": [
+            "mobs are → 語末子音 /z/ が /ɑ/ に連結 [ˈmoʊbz‿ɑr]",
+            "crowding the → /ŋ/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ダ モブズ アー クラウディング ダ タンネル ファスター ザン ビフォー"
+        },
+        {
+          "en": "More villagers are crowding into the trading hall constantly.",
+          "ja": "より多くの村人が常に取引ホールに群がっている。",
+          "ipa": "/ˈmɔr ˈvɪlɪndʒərz ɑr ˈkraʊdɪŋ ˈɪntu ðə ˈtreɪdɪŋ ˈhɔl ˈkɑnstəntli/",
+          "linking": [
+            "villagers are → 語末子音 /z/ が /ɑ/ に連結 [ˈvɪlɪndʒɚz‿ɑr]",
+            "crowding into → 語末の /ŋ/ が /ɪ/ に連結 [ˈkraʊdɪŋ‿ˈɪntu]"
+          ],
+          "kana": "モー ビリンジャーズ アー クラウディング イントゥ ダ トレイディング ホール コンスタントリー"
+        }
+      ]
+    }
   ]
 }

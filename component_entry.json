@@ -45,6 +45,36 @@
       "kana": "ザ クムポウナント パーツ アー カッパー アン レッドストウン ダスト"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "components",
+      "ipa": "/kəmˈpoʊnənts/",
+      "examples": [
+        {
+          "en": "Gather all the components you need before starting the build.",
+          "ja": "ビルドを始める前に必要なすべての部品を集めてください。",
+          "ipa": "/ˈɡæðər ɔl ðə kəmˈpoʊnənts ju ˈniːd bɪˈfɔr ˈstɑrtɪŋ ðə ˈbɪld/",
+          "linking": [
+            "all の語末 /l/ が the の母音に連結 [ɔlðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ギャザー オール ザ クムポウネンツ ユー ニード ビフォー スターティング ザ ビルド"
+        },
+        {
+          "en": "These redstone components are essential for making an automatic door.",
+          "ja": "これらのレッドストーン部品は自動ドアを作るのに不可欠です。",
+          "ipa": "/ðiːz ˈrɛdˌstoʊn kəmˈpoʊnənts ɑr əˈsɛnʃəl fɔr ˈmeɪkɪŋ ən ɔˈtɑmətɪk ˈdɔr/",
+          "linking": [
+            "components の語末 /ts/ が are の母音に連結 [nənts ɑr]",
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "ディーズ レッドストウン クムポウネンツ アー エッセンシャル フォー メイキング エン オートマティック ドア"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "component part",

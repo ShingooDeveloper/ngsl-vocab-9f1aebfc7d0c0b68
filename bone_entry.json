@@ -57,5 +57,35 @@
       ],
       "kana": "ユーズ ボーン ミール アン ディーズ クロップス タ メイク ザム グロー インスタントリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bones",
+      "ipa": "/boʊnz/",
+      "examples": [
+        {
+          "en": "I hit the skeleton and it dropped many bones.",
+          "ja": "スケルトンを殴ると、たくさんの骨がドロップしました。",
+          "ipa": "/aɪ hɪt ðə ˈskɛlətən ənd ɪt ˈdrɑpt ˈmɛni boʊnz/",
+          "linking": [
+            "hit the → 語末子音 /t/ が母音 /ə/ に連結 [ˈhɪtə]",
+            "the は冠詞で弱形 /ðə/。and は接続詞で弱形 /ən/。"
+          ],
+          "kana": "アイ ヒター スケレトン アン イット ドロップ メニー ボーンズ"
+        },
+        {
+          "en": "Bones can be crafted into bone meal for farming crops.",
+          "ja": "骨は骨粉にクラフトできます。これは農業に使用されます。",
+          "ipa": "/boʊnz kən bə ˈkræftəd ˌɪntu boʊn mil fɔr ˈfɑrmɪŋ krɑps/",
+          "linking": [
+            "can は助動詞で弱形 /kən/。be は助動詞で弱形 /bə/。",
+            "for は前置詞で弱形 /fɔr/。farming に続く。"
+          ],
+          "kana": "ボーンズ カン バ クラフティド インタ ボーン ミール ファ ファーミング クロップス"
+        }
+      ]
+    }
   ]
 }

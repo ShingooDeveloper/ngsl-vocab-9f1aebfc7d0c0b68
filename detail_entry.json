@@ -210,6 +210,93 @@
           "kana": "ヒーズ ディテイリング ザ エンチャントメント リクワイアメント イン ザ ドキュメント"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is detailing",
+      "ipa": "/ɪz dɪˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is detailing the redstone circuit to his friend in the creative mode.",
+          "ja": "スティーブはクリエイティブモードで、友人にレッドストーン回路について詳しく説明しています。",
+          "ipa": "/stiːv ɪz dɪˈteɪlɪŋ ðə ˈrɛdˌstoʊn ˈsɝkət tə hɪz frɛnd ɪn ðə kriˈeɪtɪv moʊd/",
+          "linking": [
+            "Steve is: 語末子音 /v/ が母音 /ɪ/ に連結 [stiːvɪz] スティーヴイズ",
+            "friend in: 語末子音 /d/ が母音 /ɪ/ に連結 [frɛndɪn] フレンディン",
+            "is / the / to: 助動詞・定冠詞・前置詞は弱形 /ɪz/, /ðə/, /tə/"
+          ],
+          "kana": "スティーヴイズ ディテイリング ザ レッドストーン サーキット タ ヒズ フレンディン ザ クリエイティヴ モード"
+        },
+        {
+          "en": "The players are detailing the construction plan for the new base.",
+          "ja": "プレイヤーたちは新しい拠点の建築計画について詳しく説明しています。",
+          "ipa": "/ðə ˈpleɪərz ər dɪˈteɪlɪŋ ðə kənˈstrʌkʃən plæn fər ðə nu beɪs/",
+          "linking": [
+            "the: 定冠詞は弱形 /ðə/ で players に連結",
+            "are: 助動詞の弱形 /ər/。detailing の /d/ 前では軽く発音",
+            "for / the: 前置詞・定冠詞は弱形 /fər/, /ðə/"
+          ],
+          "kana": "ザ プレイヤーズ アー ディテイリング ザ カンストラクション プラン ファ ザ ニュー ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was detailing",
+      "ipa": "/wəz dɪˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "While we were mining, Alex was detailing the cave system she had discovered.",
+          "ja": "採掘している間、アレックスは彼女が発見した洞窟システムについて詳しく説明していました。",
+          "ipa": "/waɪl wi wər ˈmaɪnɪŋ, ˈælɛks wəz dɪˈteɪlɪŋ ðə keɪv ˈsɪstəm ʃi həd dɪsˈkʌvərd/",
+          "linking": [
+            "were: 過去形の助動詞は弱形 /wər/"
+          ],
+          "kana": "ワイル ウィ ワー マイニング、アレックス ワズ ディテイリング ザ ケイヴ システム シー ハド ディスカヴァード"
+        },
+        {
+          "en": "He was detailing the survival tips when the creeper attacked.",
+          "ja": "クリーパーが攻撃した時、彼はサバイバルのコツについて説明していました。",
+          "ipa": "/hi wəz dɪˈteɪlɪŋ ðə sərˈvaɪvəl tɪps wɛn ðə ˈkripər əˈtækt/",
+          "linking": [
+            "was: 過去形の助動詞は弱形 /wəz/",
+            "the: 定冠詞は弱形 /ðə/。survival に連結",
+            "when the: /n/ が /ð/ に続き、the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ワズ ディテイリング ザ サーヴァイヴァル ティプス ウェン ザ クリーパー アタックト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been detailing",
+      "ipa": "/həd bɪn dɪˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The game master had been detailing the new adventure map for hours before the server crashed.",
+          "ja": "サーバーがクラッシュする前、ゲームマスターは新しいアドベンチャーマップについて何時間も説明していました。",
+          "ipa": "/ðə ɡeɪm ˈmæstər həd bɪn dɪˈteɪlɪŋ ðə nu ədˈvɛntʃər mæp fər ˈaʊərz bɪˈfɔr ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "had: 完了形の助動詞は弱形 /həd/",
+            "the: 定冠詞は弱形 /ðə/。adventure に連結",
+            "for: 前置詞は弱形 /fər/"
+          ],
+          "kana": "ザ ゲイム マスター ハド ビン ディテイリング ザ ニュー アドヴェンチャー マップ ファ アワーズ ビフォア ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "Steve had been detailing the crafting recipe when the redstone trap activated.",
+          "ja": "レッドストーン罠が起動した時、スティーブはクラフトレシピについて説明していました。",
+          "ipa": "/stiːv həd bɪn dɪˈteɪlɪŋ ðə ˈkræftɪŋ ˈrɛsəpi wɛn ðə ˈrɛdˌstoʊn træp ˈæktɪˌveɪtɪd/",
+          "linking": [
+            "Steve had: 語末子音 /v/ が had の弱化母音 /ə/ に連結",
+            "trap activated: 語末子音 /p/ が母音 /ə/ に連結 [træpə]"
+          ],
+          "kana": "スティーヴ ハド ビン ディテイリング ザ クラフティング レシピ ウェン ザ レッドストーン トラップ アクティベイテッド"
+        }
+      ]
     }
   ]
 }

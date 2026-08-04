@@ -80,5 +80,135 @@
       ],
       "kana": "アイヴ シャット イン オール マイ ホーシズ インサイド ディス ステイバル"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "shuts",
+      "ipa": "/ʃʌts/",
+      "examples": [
+        {
+          "en": "The redstone door shuts automatically when the mob sensor detects enemies nearby.",
+          "ja": "レッドストーンドアは、モブセンサーが近くの敵を検出すると自動的に閉じます。",
+          "ipa": "[ðə ˈrɛdˌstoʊn dɔr ʃʌts ˌɔːtəˈmætɪkli wɛn ðə ˈmɑb ˈsɛnsər dɪˈtɛkts ˈɛnəmiz ˈnɪrbaɪ]",
+          "linking": [
+            "the は弱形 /ðə/。redstone に連結 [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "door は /dɔr/。shuts に続く。shuts の /ts/ が automatically の /ɔː/ に連結。[ʃʌts ˌɔːtəˈmætɪkli] シャッツ オーラマリクリー"
+          ],
+          "kana": "ザ レッドストーン ドア シャッツ オーラマリクリー ウェン ザ モブ センサー ディテクツ エネミーズ ニアバイ"
+        },
+        {
+          "en": "Every night at sunset my farm shuts down to prevent any nighttime damage.",
+          "ja": "毎晩日没時に私の農場がシャットダウンして、夜間の被害を防ぎます。",
+          "ipa": "[ˈɛvri naɪt æt ˈsʌnˌsɛt maɪ ˈfɑrm ʃʌts ˈdaʊn tu prɪˈvɛnt ˈɛni ˈnaɪtˌtaɪm ˈdæmɪdʒ]",
+          "linking": [
+            "every は [ˈɛvri]。night に続く [ˈɛvri naɪt] エブリー ナイト",
+            "at は /æt/。sunset に未開放で続く [æt̚ ˈsʌnˌsɛt] アット サンセット",
+            "farm は /fɑrm/。shuts に続く。shuts の /ts/ が down の /d/ に続く（子音+子音、連結なし）",
+            "to は弱形 /tu/。prevent に続く"
+          ],
+          "kana": "エブリー ナイト アット サンセット マイ ファーム シャッツ ダウン トゥ プリベント エニー ナイトタイム ダメージ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "shut",
+      "ipa": "/ʃʌt/",
+      "examples": [
+        {
+          "en": "I accidentally shut the door while my friend was mining outside the base.",
+          "ja": "友達が基地の外で採掘している間に、ドアを誤って閉じてしまいました。",
+          "ipa": "[aɪ ˌæksɪˈdɛntli ʃʌt ðə ˈdɔr waɪl maɪ ˈfrɛnd wəz ˈmaɪnɪŋ ˈaʊtsaɪd ðə ˈbeɪs]",
+          "linking": [
+            "the は弱形 /ðə/。door に連結 [ðə ˈdɔr] ザ ドア",
+            "shut は /ʃʌt/。the に未開放で続く [ʃʌt̚ ðə] シャット ザ",
+            "was は弱形 /wəz/。mining と連結 [wəz ˈmaɪnɪŋ] ワズ マイニング",
+            "the は弱形 /ðə/。base に連結 [ðə ˈbeɪs] ザ ベース"
+          ],
+          "kana": "アイ アクシデントリー シャット ザ ドア ワイル マイ フレンド ワズ マイニング アウトサイド ザ ベース"
+        },
+        {
+          "en": "We shut the iron gates immediately when the zombie horde attacked.",
+          "ja": "ゾンビの群れが攻撃してきたとき、すぐに鉄のゲートを閉じました。",
+          "ipa": "[wi ʃʌt ðə ˈaɪrən ˈɡeɪts ɪˈmiːdɪətli wɛn ðə ˈzɑmbi ˈhɔːrd əˈtækt]",
+          "linking": [
+            "shut は /ʃʌt/。the に未開放で続く [ʃʌt̚ ðə] シャット ザ",
+            "the は弱形 /ðə/。iron に連結 [ðə ˈaɪrən] ザ アイアン",
+            "gates は /ˈɡeɪts/。immediately に続く [ˈɡeɪts ɪˈmiːdɪətli] ゲーツ イミーディアトリー",
+            "when は /wɛn/。the は弱形 /ðə/ [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "ウィ シャット ザ アイアン ゲーツ イミーディアトリー ウェン ザ ゾンビ ホード アタクド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "shut",
+      "ipa": "/ʃʌt/",
+      "examples": [
+        {
+          "en": "Once the main gate is shut, our base becomes a completely protected fortress.",
+          "ja": "メインゲートが一度閉じたら、私たちの基地は完全に保護された要塞になります。",
+          "ipa": "[wʌns ðə ˈmeɪn ˈɡeɪt ɪz ʃʌt | ˈaʊər ˈbeɪs bɪˈkʌmz ə kəmˈpliːtli prəˈtɛktɪd ˈfɔːtrəs]",
+          "linking": [
+            "the は弱形 /ðə/。main に連結 [ðə ˈmeɪn] ザ メイン",
+            "is は弱形 /ɪz/。shut に連結 [ɪz ʃʌt] イズ シャット",
+            "becomes の z が a に連結。a は弱形 /ə/ [bɪˈkʌmz ə] ビカムズ ア",
+            "a は弱形 /ə/。completely に連結 [ə kəmˈpliːtli] ア コンプリートリー"
+          ],
+          "kana": "ワンス ザ メイン ゲート イズ シャット、アワー ベース ビカムズ ア コンプリートリー プロテクティド フォートレス"
+        },
+        {
+          "en": "All storage rooms have been shut and sealed with iron doors for security.",
+          "ja": "セキュリティのため、すべての貯蔵室が鉄のドアで密封されています。",
+          "ipa": "[ɔːl ˈstɔːrɪdʒ ˈrumz hæv bɪn ʃʌt ænd ˈsiːld wɪð ˈaɪrən ˈdɔːrz fɔr sɪˈkjʊrɪti]",
+          "linking": [
+            "have は弱形 /həv/。been と連結 [hæv bɪn] ハブ ビン",
+            "been は弱形 /bɪn/。shut に連結 [bɪn ʃʌt] ビン シャット",
+            "shut は /ʃʌt/。and に続く",
+            "with は /wɪð/。iron に続く [wɪð ˈaɪrən] ウィズ アイアン",
+            "for は弱形 /fɔr/。security に続く [fɔr sɪˈkjʊrɪti] フォー シキュリティ"
+          ],
+          "kana": "オール ストレッジ ルームズ ハブ ビン シャット アンド シールド ウィズ アイアン ドアーズ フォー シキュリティ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "shutting",
+      "ipa": "/ˈʃʌtɪŋ/",
+      "examples": [
+        {
+          "en": "Shutting all the doors at dusk is part of our nightly survival routine.",
+          "ja": "夕暮れにすべてのドアを閉じることは、私たちの夜間サバイバル日課の一部です。",
+          "ipa": "[ˈʃʌtɪŋ ˈɔːl ðə ˈdɔːrz æt ˈdʌsk ɪz ˈpɑːrt əv ˈaʊər ˈnaɪtli sərˈvaɪvəl ˌruːˈtiːn]",
+          "linking": [
+            "shutting は [ˈʃʌtɪŋ]。all は /ɔːl/（子音+子音、連結なし）",
+            "all の l が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+            "doors は /ˈdɔːrz/。at に未開放で続く [ˈdɔːrz æt̚] ドアーズ アット",
+            "is は弱形 /ɪz/。part に連結 [ɪz ˈpɑːrt] イズ パート",
+            "of は弱形 /əv/。our と連結 [əv ˈaʊər] オブ アワー"
+          ],
+          "kana": "シャティング オール ザ ドアーズ アット ダスク イズ パート オブ アワー ナイトリー サーバイバル ルーティーン"
+        },
+        {
+          "en": "The redstone mechanism is shutting the door faster than we expected.",
+          "ja": "レッドストーンメカニズムが予想以上に速くドアを閉じています。",
+          "ipa": "[ðə ˈrɛdˌstoʊn ˈmɛkəˌnɪzəm ɪz ˈʃʌtɪŋ ðə ˈdɔr ˈfæstər ðæn wi ɪkˈspɛktəd]",
+          "linking": [
+            "the は弱形 /ðə/。redstone に連結 [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "is は弱形 /ɪz/。shutting に連結 [ɪz ˈʃʌtɪŋ] イズ シャティング",
+            "the は弱形 /ðə/。door に連結 [ðə ˈdɔr] ザ ドア",
+            "faster の r が than に続く（子音+子音、連結なし）。than は /ðæn/"
+          ],
+          "kana": "ザ レッドストーン メカニズム イズ シャティング ザ ドア ファスター ザン ウィ イクスペクティド"
+        }
+      ]
+    }
   ]
 }

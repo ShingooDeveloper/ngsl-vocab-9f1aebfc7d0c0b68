@@ -60,5 +60,37 @@
       ],
       "kana": "アイ トラック ザ エヴァルーシャン アヴ マイ ビルディング テクニクス イン エヴリ ニュー ワールド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "evolutions",
+      "ipa": "/ˌɛvəˈluːʃənz/",
+      "examples": [
+        {
+          "en": "The evolutions of your tools show how far you've progressed.",
+          "ja": "あなたのツールの進化は、どのくらい進歩したかを示します。",
+          "ipa": "/ðə ˌɛvəˈluːʃənz əv jɔr ˈtulz ˈʃoʊ haʊ ˈfɑr juv prəˈɡrɛst/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "tools show → 子音+子音で自然に続く",
+            "you've は /juv/（have の弱形）"
+          ],
+          "kana": "ザ エヴァルーシャンズ アヴ ユア トゥールズ ショウ ハウ ファー ユーヴ プログレスト"
+        },
+        {
+          "en": "Many weapon evolutions require rare materials to craft.",
+          "ja": "多くの武器の進化は、それを作成するために希少材料が必要です。",
+          "ipa": "/ˈmɛni ˈwɛpən ˌɛvəˈluːʃənz rɪˈkwaɪr ˈrɛr məˈtɪriəlz tə ˈkræft/",
+          "linking": [
+            "weapon evolutions → 子音+子音で自然に続く",
+            "to craft → to は弱形 /tə/"
+          ],
+          "kana": "メニー ウェポン エヴァルーシャンズ リクワイアー レアー マテリアルズ タ クラフト"
+        }
+      ]
+    }
   ]
 }

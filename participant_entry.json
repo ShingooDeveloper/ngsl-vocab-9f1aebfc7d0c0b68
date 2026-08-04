@@ -45,5 +45,35 @@
       "kana": "パーティシパンツ フー ファインダ ダイヤモンド ゲット エクストラ ポイント"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "participants",
+      "ipa": "/pɑrˈtɪsəpənts/",
+      "examples": [
+        {
+          "en": "Participants made a base.",
+          "ja": "参加者たちはベースを作りました。",
+          "ipa": "/pɑrˈtɪsəpənts ˈmeɪdə ˈbeɪs/",
+          "linking": [
+            "a は弱形 /ə/",
+            "made の末子音 /d/ が a の /ə/ に連結 [ˈmeɪdə] メイダ"
+          ],
+          "kana": "パーティシパンツ メイダ ベース"
+        },
+        {
+          "en": "The participants searched the caves.",
+          "ja": "参加者たちが洞窟を探索しました。",
+          "ipa": "/ðə pɑrˈtɪsəpənts ˈsɝtʃt ðə ˈkeɪvz/",
+          "linking": [
+            "最初の the は弱形 /ðə/",
+            "2番目の the は弱形 /ðə/"
+          ],
+          "kana": "ザ パーティシパンツ サーチト ザ ケイヴズ"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

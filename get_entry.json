@@ -183,6 +183,99 @@
           "kana": "アーザ ゲッティング イナフ フード フォア ザ ロング ジャーニー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is getting",
+      "ipa": "/ɪz ˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is getting resources for the shelter.",
+          "ja": "スティーブはシェルターのためにリソースを集めています。",
+          "ipa": "/stiːv ɪz ˈɡɛtɪŋ ˈrɛsərsɪz fɔr ðə ˈʃɛltər/",
+          "linking": [
+            "is getting: is は弱形 /ɪz/、getting に自然に続く",
+            "resources for: resources の語末 /z/ が for の初頭に連結 [ˈrɛsərsɪz fɔr] レソーシーズ フォア",
+            "for the: for は弱形 /fər/、the は弱形 /ðə/ に連結"
+          ],
+          "kana": "スティーヴ イズ ゲッティング レソーシーズ フォア ザ シェルター"
+        },
+        {
+          "en": "They're getting attacked by mobs right now.",
+          "ja": "彼らは今、モブに攻撃されています。",
+          "ipa": "/ðɛr ˈɡɛtɪŋ əˈtækt baɪ mɑbz raɪt naʊ/",
+          "linking": [
+            "They're getting: are は弱形で短縮 /ðɛr/、getting に続く",
+            "getting attacked: /ŋ ə/ 自然に続く",
+            "attacked by: attacked の語末 /t/ は未開放で by の初頭に続く [əˈtæk̚t baɪ] アタック バイ"
+          ],
+          "kana": "ザー ゲッティング アタックド バイ モブズ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was getting",
+      "ipa": "/wəz ˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I was getting lost when the sun went down.",
+          "ja": "太陽が沈むときに、私は迷っていました。",
+          "ipa": "/aɪ wəz ˈɡɛtɪŋ lɔst wɛn ðə sʌn wɛnt daʊn/",
+          "linking": [
+            "I was: was は弱形 /wəz/",
+            "was getting: /z/ が /ɡ/ に続く",
+            "when the: the は弱形 /ðə/、when に続く"
+          ],
+          "kana": "アイ ワズ ゲッティング ロスト ウェン ザ サン ウェント ダウン"
+        },
+        {
+          "en": "We were getting ready to fight when the Ender Dragon appeared.",
+          "ja": "エンダードラゴンが現れたときに、私たちは戦いの準備をしていました。",
+          "ipa": "/wi wər ˈɡɛtɪŋ ˈrɛdi tə faɪt wɛn ðə ˈɛndər ˈdræɡən əˈpɪrd/",
+          "linking": [
+            "We were: were は弱形 /wər/、getting に続く",
+            "getting ready: /ŋ/ が /r/ に先行",
+            "ready to: to は弱形 /tə/ に連結 [ˈrɛdi tə] レディー タ",
+            "before the: /r/ が /ð/ に先行で連結 [ðə] ザ、the は弱形"
+          ],
+          "kana": "ウィ ワー ゲッティング レディー タ ファイト ウェン ザ エンダー ドラゴン アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been getting",
+      "ipa": "/həd bɪn ˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been getting better at farming before I started mining.",
+          "ja": "採掘を始める前に、私は農業が上達していました。",
+          "ipa": "/aɪ həd bɪn ˈɡɛtɪŋ ˈbɛtər æt ˈfɑrmɪŋ bɪˈfɔr aɪ ˈstɑrtɪd ˈmaɪnɪŋ/",
+          "linking": [
+            "I had: had は弱形 /həd/",
+            "had been: /d/ が /b/ に続く",
+            "been getting: been は弱形 /bɪn/、/n/ が /ɡ/ に先行で連結 [bɪn ˈɡɛtɪŋ] ビン ゲッティング",
+            "before I: /r/ が /aɪ/ に先行で連結 [bɪˈfɔr aɪ] ビフォア アイ"
+          ],
+          "kana": "アイ ハド ビン ゲッティング ベター アット ファーミング ビフォア アイ スターティド マイニング"
+        },
+        {
+          "en": "We had been getting supplies for weeks before the raid started.",
+          "ja": "レイドが始まる前に、数週間供給物を集めていました。",
+          "ipa": "/wi həd bɪn ˈɡɛtɪŋ səˈplaɪz fɔr wiks bɪˈfɔr ðə reɪd ˈstɑrtəd/",
+          "linking": [
+            "We had: had は弱形 /həd/",
+            "had been: /d/ が /b/ に続く",
+            "been getting: been は弱形 /bɪn/、/n/ が /ɡ/ に先行で連結 [bɪn ˈɡɛtɪŋ] ビン ゲッティング",
+            "supplies for: supplies の語末 /z/ が for に先行で連結 [səˈplaɪz fɔr] サプライズ フォア"
+          ],
+          "kana": "ウィ ハド ビン ゲッティング サプライズ フォア ウィークス ビフォア ザ レイド スターティド"
+        }
+      ]
     }
   ]
 }

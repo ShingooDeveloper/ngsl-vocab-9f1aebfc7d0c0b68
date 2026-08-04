@@ -71,5 +71,64 @@
       ],
       "kana": "ザット トレイダー ゲイヴミー ア ロー ディール アン ドーズ エメラルズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "rawer",
+      "ipa": "/ˈrɔɚ/",
+      "examples": [
+        {
+          "en": "Iron ore is rawer than smelted iron ingots.",
+          "ja": "鉄鉱石は精錬された鉄インゴットより未加工だ。",
+          "ipa": "/ˈaɪɚn ˈɔr ɪz ˈrɔɚ ðən ˈsmɛltəd ˈaɪɚn ˈɪŋɡɑts/",
+          "linking": [
+            "ore の語末 /r/ が is の初頭母音 /ɪ/ に連結。結果 [ˈɔɹɪz] オアリズ",
+            "than は機能語で弱形 /ðən/ に弱化。ザン"
+          ],
+          "kana": "アイアン オアリズ ロウア ザン スメルテッド アイアン イングアット"
+        },
+        {
+          "en": "Raw copper is rawer than the refined blocks.",
+          "ja": "生の銅は精製されたブロックより未加工だ。",
+          "ipa": "/ˈrɔ ˈkɑpɚ ɪz ˈrɔɚ ðən ðə rɪˈfaɪnd ˈblɑks/",
+          "linking": [
+            "raw の語末 /r/ が copper の初頭母音 /ɑ/ に連結。結果 [ˈrɔɑ] ロウ コッパー",
+            "the は弱形 /ðə/。ザ"
+          ],
+          "kana": "ロウ コッパー イズ ロウア ザン ザ リファインド ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "rawest",
+      "ipa": "/ˈrɔɪst/",
+      "examples": [
+        {
+          "en": "Diamond ore is the rawest form before smelting.",
+          "ja": "ダイヤモンド鉱石は精錬前の最も未加工の形だ。",
+          "ipa": "/ˈdaɪəmənd ˈɔr ɪz ðə ˈrɔɪst ˈfɔrm bɪˈfɔr ˈsmɛltɪŋ/",
+          "linking": [
+            "ore の語末 /r/ が is の初頭母音 /ɪ/ に連結。結果 [ˈɔɹɪz] オアリズ",
+            "the は弱形 /ðə/。ザ"
+          ],
+          "kana": "ダイアモンド オアリズ ザ ロウイスト フォーム ビフォア スメルティング"
+        },
+        {
+          "en": "The rawest materials need the most processing to craft.",
+          "ja": "最も未加工の素材はクラフトするために最も多くの加工が必要だ。",
+          "ipa": "/ðə ˈrɔɪst ˈmætəriəlz ˈniːd ðə ˈmoʊst ˈprɑsɛsɪŋ tə ˈkræft/",
+          "linking": [
+            "the は弱形 /ðə/。ザ",
+            "need の語末 /d/ が the の初頭子音 /ð/ に続く（未開放）。結果 [ˈniːd̚] ニード",
+            "to は弱形 /tə/ に弱化。タ"
+          ],
+          "kana": "ザ ロウイスト マテリアルズ ニード ザ モースト プロセッシング タ クラフト"
+        }
+      ]
+    }
   ]
 }

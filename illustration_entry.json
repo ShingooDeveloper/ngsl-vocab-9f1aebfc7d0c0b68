@@ -61,5 +61,35 @@
       ],
       "kana": "フォー イラストレイション、ヒアーズン イフィシャント ウェイ タ セット アップ ア モーブ ファーム"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "illustrations",
+      "ipa": "/ˌɪləˈstreɪʃənz/",
+      "examples": [
+        {
+          "en": "I need illustrations to build a complex redstone device.",
+          "ja": "複雑なレッドストーン装置を構築するために、図が必要です。",
+          "ipa": "/aɪ ˈnid ˌɪləˈstreɪʃənz tə ˈbɪld ə ˈkɑmplɛks ˈrɛdˌstoʊn dɪˈvaɪs/",
+          "linking": [
+            "to は弱形 /tə/",
+            "build の語末 /d/ が a の弱形 /ə/ に連結 [ˈbɪldə]「ビルダ」"
+          ],
+          "kana": "アイ ニード イラストレイションズ タ ビルダ ア コンプレックス レッドストーン ディヴァイス"
+        },
+        {
+          "en": "The tutorial has step-by-step illustrations for building mob farms.",
+          "ja": "このチュートリアルには、モブファームを構築するためのステップバイステップの図があります。",
+          "ipa": "/ðə tuˈtɔriəl hæz ˈstɛpbaɪˈstɛp ˌɪləˈstreɪʃənz fər ˈbɪldɪŋ ˈmɑb ˈfɑrmz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザ チュートリアル ハズ ステップバイステップ イラストレイションズ ファー ビルディング モブ ファームズ"
+        }
+      ]
+    }
   ]
 }

@@ -5,6 +5,73 @@
   "ipa_us": "/ˈmæʤɪk/",
   "rank": 2588,
   "level": "B1",
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more magic",
+      "ipa": "/mɔːr ˈmæʤɪk/",
+      "examples": [
+        {
+          "en": "An enchanted sword is more magic than a regular iron sword in combat.",
+          "ja": "エンチャント済みの剣は、通常の鉄の剣より戦闘時に魔法的だ。",
+          "ipa": "/ən ɪnˈtʃæntɪd ˈsɔrd ɪz mɔːr ˈmæʤɪk ðæn ə ˈrɛɡjələr ˈaɪrən ˈsɔrd ɪn ˈkɑmbæt/",
+          "linking": [
+            "enchanted の末尾子音 /d/ が sword の初頭 /s/（両方子音、連結なし）。",
+            "is は弱形 /ɪz/ に弱化。",
+            "than は弱形 /ðæn/ に弱化。",
+            "regular の末尾 /r/ が iron の初頭 /a/（子音+母音、連結）[ˈrɛɡjələɹaɪ]。"
+          ],
+          "kana": "アン インチャンティッド ソード イズ モア マジック ザン ア レギュラー アイアン ソード イン カムバット"
+        },
+        {
+          "en": "The Nether feels more magic when you find rare treasures deep underground.",
+          "ja": "地下深くでレアな宝を見つける時、ネザーはより魔法的に感じます。",
+          "ipa": "/ðə ˈnɛðər filz mɔːr ˈmæʤɪk wen ju faɪnd ˈrɛr ˈtrɛʒərz dip ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "feel の末尾 /l/ が more の初頭 /m/（両方子音、連結なし）。",
+            "when は通常形 /wen/。",
+            "find の末尾 /d/ が rare の初頭 /r/（両方子音、連結なし）。"
+          ],
+          "kana": "ザ ネザー フィールズ モア マジック ウェン ユー ファインド レア トレジャーズ ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most magic",
+      "ipa": "/moʊst ˈmæʤɪk/",
+      "examples": [
+        {
+          "en": "The Wither boss is the most magic creature in the entire Minecraft world.",
+          "ja": "ウィザーボスはMinecraft世界全体で最も魔法的な生物だ。",
+          "ipa": "/ðə ˈwɪðər ˈbɑs ɪz ðə ˈmoʊst ˈmæʤɪk ˈkriːtʃər ɪn ðə ənˈtaɪr ˈmaɪnkræft ˈwɜrld/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（計2回）。",
+            "Wither の末尾 /r/ が boss の初頭 /b/（両方子音、連結なし）。",
+            "is は弱形 /ɪz/ に弱化。",
+            "most の末尾 /t/ が magic の初頭 /m/（両方子音、連結なし）。"
+          ],
+          "kana": "ザ ウィザー ボス イズ ザ モースト マジック クリーチャー イン ディ エンタイアー マインクラフト ワールド"
+        },
+        {
+          "en": "An enchanted book with Mending is the most magic item we could ever hope to find in survival mode.",
+          "ja": "修繕が付いたエンチャント本は、サバイバルモードで見つけることを望める最も魔法的なアイテムだ。",
+          "ipa": "/ən ɪnˈtʃæntɪd ˈbʊk wɪð ˈmɛndɪŋ ɪz ðə ˈmoʊst ˈmæʤɪk ˈaɪtəm wi ˈkʊd ˈɛvər ˈhoʊp tə faɪnd ɪn sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "enchanted の末尾 /d/ が book の初頭 /b/（両方子音、連結なし）。",
+            "with の末尾 /ð/ が Mending の初頭 /m/（両方子音、連結なし）。",
+            "is は弱形 /ɪz/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "most の末尾 /t/ が magic の初頭 /m/（両方子音、連結なし）。"
+          ],
+          "kana": "アン インチャンティッド ブック ウィズ メンディング イズ ザ モースト マジック アイテム ウィー クッド エヴァー ホープ タ ファインド イン サーヴァイヴァル モード"
+        }
+      ]
+    }
+  ],
   "hi": "magic|magical|magically",
   "meanings": [
     "【名詞】魔法、不思議な力、超自然的な力（mysterious or supernatural power that cannot be explained by natural laws）",

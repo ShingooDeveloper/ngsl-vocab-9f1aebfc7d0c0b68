@@ -50,7 +50,7 @@
           "ja": "彼はベースを建築するために木と石を買った。",
           "ipa": "[hi ˈbɔːt wʊd ənd stoʊn tə bɪld hɪz beɪs]",
           "linking": [
-            "bought と wood の間は /t/ と /w/（両方子音）なので連結なし",
+            "bought と wood の間は /t/ と /w/(両方子音)なので連結なし",
             "and は機能語で弱形 /ənd/ に弱化 アン、to も弱形 /tə/ タ"
           ],
           "kana": "ヒ ボート ウッド アン ストウン タ ビルド ヒズ ベイス"
@@ -78,7 +78,7 @@
           "ja": "この木を買ったら、家を建てた。",
           "ipa": "[wʌns aɪ ˈbɔːt ðɪs wʊd aɪ bɪlt ə haʊs]",
           "linking": [
-            "bought と this の間は /t/ と /ð/（両方子音）なので連結なし",
+            "bought と this の間は /t/ と /ð/(両方子音)なので連結なし",
             "a は弱形 /ə/ に弱化 ア、built と a の間は /t/ と /ə/ で弱リンク"
           ],
           "kana": "ワンス アイ ボート ディス ウッド アイ ビルト ア ハウス"
@@ -87,7 +87,7 @@
     },
     {
       "type": "present_participle",
-      "label": "現在分詞/動名詞",
+      "label": "現在分詞・動名詞",
       "text": "buying",
       "ipa": "/ˈbaɪɪŋ/",
       "examples": [
@@ -96,7 +96,7 @@
           "ja": "夜間前に補給品を買うことは重要である。",
           "ipa": "[ˈbaɪɪŋ səˈplaɪz bɪˈfɔɚ ðə ˈnaɪtˌfɔːl ɪz ɪmˈpɔɚtənt]",
           "linking": [
-            "buying の /ŋ/ が supplies の /s/（両方子音）に連結しない",
+            "buying の /ŋ/ が supplies の /s/(両方子音)に連結しない",
             "the は弱形 /ðə/ に弱化 ザ、before は弱形 /bɪˈfɔɚ/"
           ],
           "kana": "バイイング サプライズ ビフォア ザ ナイトフォール イズ インポータント"
@@ -110,6 +110,102 @@
             "from は機能語で弱形 /frəm/ に弱化"
           ],
           "kana": "ウィ アー バイイング フード フラム ファーマーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is buying",
+      "ipa": "/ɪz ˈbaɪɪŋ/",
+      "examples": [
+        {
+          "en": "He is buying enchanted books from the librarian villager to improve his tools.",
+          "ja": "彼はツールを改善するために、司書村人から魔法の本を買っています。",
+          "ipa": "/hi ɪz ˈbaɪɪŋ ɪnˈtʃæntɪd ˈbʊks frəm ðə ˌlaɪˈbrɛriən vɪˈlɪdʒər tu ɪmˈpruv hɪz ˈtulz/",
+          "linking": [
+            "is buying → 弱形 is /ɪz/ が b に続く [ɪz ˈbaɪɪŋ] イズ バイイング",
+            "buying enchanted → 語末 ng が ɪn に続く [ˈbaɪɪŋ ɪnˈtʃæntɪd] バイイング インチャンティド",
+            "from the → 弱形で [frəm ðə] フラム ザ",
+            "improve his → 語末 v が h に続く [ɪmˈpruv hɪz] インプルーヴ ヒズ"
+          ],
+          "kana": "ヒー イズ バイイング インチャンティド ブックス フラム ザ ライブレリアン ヴィリジャー トゥ インプルーヴ ヒズ ツールズ"
+        },
+        {
+          "en": "Are you buying materials for your new base construction project?",
+          "ja": "新しい基地建設プロジェクトのために材料を買っていますか?",
+          "ipa": "/ɑr ju ˈbaɪɪŋ məˈtɪriəlz fər jɔr ˈnu beɪs kənˈstrʌkʃən ˈprɑdʒɛkt/",
+          "linking": [
+            "Are you → 語末 r が y に連結 [ɑr ju] アー ユー",
+            "you buying → 語末 u が b に続く [ju ˈbaɪɪŋ] ユー バイイング",
+            "for your → 弱形で [fər jɔr] フォー ヨア",
+            "base construction → 語末 s が c に続く [beɪs kənˈstrʌkʃən] ベース コンストラクション"
+          ],
+          "kana": "アー ユー バイイング マティリアルズ フォー ヨア ニュー ベース コンストラクション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was buying",
+      "ipa": "/wəz ˈbaɪɪŋ/",
+      "examples": [
+        {
+          "en": "I was buying diamonds when the enderman attacked me unexpectedly.",
+          "ja": "エンダーマンが予期せず攻撃してきたとき、私はダイヤを買っていました。",
+          "ipa": "/aɪ wəz ˈbaɪɪŋ ˈdaɪməndz wɛn ðə ˈɛndərmæn əˈtækt mi ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "was buying → 弱形 was /wəz/ が b に続く [wəz ˈbaɪɪŋ] ワズ バイイング",
+            "buying diamonds → 語末 ng が d に続く [ˈbaɪɪŋ ˈdaɪməndz] バイイング ダイモンズ",
+            "when the → 弱形で [wɛn ðə] ウェン ザ",
+            "attacked me → 語末 d が m に続く [əˈtækt mi] アタクト ミー"
+          ],
+          "kana": "アイ ワズ バイイング ダイモンズ ウェン ザ エンダーマン アタクト ミー アンイクスペクティドリー"
+        },
+        {
+          "en": "They were buying armor and weapons at the shop when the network lag started.",
+          "ja": "ネットワークラグが始まったとき、彼らはショップで防具と武器を買っていました。",
+          "ipa": "/ðeɪ wər ˈbaɪɪŋ ˈɑrmər ænd ˈwɛpənz æt ðə ˈʃɑp wɛn ðə ˈnɛtwɜrk læɡ ˈstɑrtɪd/",
+          "linking": [
+            "They were → 語末 y が w に連結。were は /wər/ [ðeɪ wər] ゼイ ワー",
+            "were buying → 語末 r が b に連結傾向 [wər ˈbaɪɪŋ] ワー バイイング",
+            "buying armor → 語末 ng が a に続く [ˈbaɪɪŋ ˈɑrmər] バイイング アーマー",
+            "at the → 語末 t が ðə に続く。the は弱形 [æt ðə] アット ザ"
+          ],
+          "kana": "ゼイ ワー バイイング アーマー アンド ウェポンズ アット ザ ショップ ウェン ザ ネットワーク ラッグ スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been buying",
+      "ipa": "/hæd bɪn ˈbaɪɪŋ/",
+      "examples": [
+        {
+          "en": "He had been buying enchanted items from various traders before he finally assembled the perfect gear.",
+          "ja": "彼はパーフェクトな装備をついに揃えるまで、様々なトレーダーから魔法のアイテムを買い続けていました。",
+          "ipa": "/hi hæd bɪn ˈbaɪɪŋ ɪnˈtʃæntɪd ˈaɪtəmz frəm ˈvɛriəs ˈtreɪdərz bɪˈfɔr hi ˈfaɪnəli əˈsɛmbld ðə pərˈfɛkt ɡɪr/",
+          "linking": [
+            "had been → 語末 d が b に続く。been /bɪn/ [hæd bɪn] ハド ビン",
+            "been buying → 語末 n が b に連結 [bɪn ˈbaɪɪŋ] ビン バイイング",
+            "buying enchanted → 語末 ng が ɪn に続く [ˈbaɪɪŋ ɪnˈtʃæntɪd] バイイング インチャンティド",
+            "traders before → 語末 z が b に続く [ˈtreɪdərz bɪˈfɔr] トレーダーズ ビフォー"
+          ],
+          "kana": "ヒー ハド ビン バイイング インチャンティド アイテムズ フラム ベリアス トレーダーズ ビフォー ヒー ファイナリー アセンブルド ザ パーフェクト ギア"
+        },
+        {
+          "en": "By the time the shop closed, we had been buying rare materials for over an hour.",
+          "ja": "ショップが閉じるまでに、私たちは1時間以上もレアな素材を買い続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈʃɑp ˈkloʊzd | wi hæd bɪn ˈbaɪɪŋ ˈrɛr məˈtɪriəlz fər ˈoʊvər ən ˈaʊər/",
+          "linking": [
+            "By the → 語末 y が ðə に連結。the は弱形 [baɪ ðə] バイ ザ",
+            "the shop → 弱形で [ðə ˈʃɑp] ザ ショップ",
+            "had been → 語末 d が b に続く [hæd bɪn] ハド ビン",
+            "been buying → 語末 n が b に連結 [bɪn ˈbaɪɪŋ] ビン バイイング"
+          ],
+          "kana": "バイ ザ タイム ザ ショップ クロウズド、ウィ ハド ビン バイイング レア マティリアルズ フォー オウヴァー アン アワー"
         }
       ]
     }

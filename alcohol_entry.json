@@ -44,5 +44,37 @@
       "kana": "アヴォイドアルコホール ポーションズ イフ ユー ワント タ ステイ イン クントロール"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "alcohols",
+      "ipa": "/ˈælkəhɑːlz/",
+      "examples": [
+        {
+          "en": "I found several alcohols in the alchemist's shop this morning.",
+          "ja": "今朝、錬金術師の店でいくつかのアルコール飲料を見つけました。",
+          "ipa": "/aɪ faʊnd ˈsɛvərəl ˈælkəhɑːlz ɪn ðə ˈælkəmɪsts ʃɑp ðɪs ˈmɔrnɪŋ/",
+          "linking": [
+            "several の末尾 /l/ が alcohols の初頭母音 /æ/ に連結 [ˈsɛvərəlælkəhɑːlz] セブラルアルコホールズ",
+            "the は機能語で弱形 /ðə/"
+          ],
+          "kana": "アイ ファウンド セブラルアルコホールズ イン ザ アルキミスツ ショップ ディス モーニング"
+        },
+        {
+          "en": "Mix all these alcohols together to brew a powerful strength potion.",
+          "ja": "すべてのアルコール飲料を混ぜて、強力な力ポーションを醸造しましょう。",
+          "ipa": "/mɪks ɔːl ðiːz ˈælkəhɑːlz təˈɡɛðər tə bruː ə ˈpaʊərfəl ˈstrɛŋθ ˈpoʊʃən/",
+          "linking": [
+            "mix の末尾 /s/ が all の初頭母音 /ɔ/ に連結、有声化 [mɪzɔːl] ミズオール",
+            "these の末尾 /z/ が alcohols の初頭母音 /æ/ に連結 [ðiːzælkəhɑːlz] ディーザルコホールズ",
+            "to は機能語で弱形 /tə/",
+            "a は冠詞で弱形 /ə/"
+          ],
+          "kana": "ミズオール ディーザルコホールズ トゥゲザー タ ブルー ア パウラフル ストレングス ポーション"
+        }
+      ]
+    }
+  ]
 }

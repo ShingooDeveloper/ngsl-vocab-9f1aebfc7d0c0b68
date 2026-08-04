@@ -46,6 +46,37 @@
       "kana": "ハヴィング インチャンテッド トゥルズ イザン インポーテント アセッ フォア マイニング"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "assets",
+      "ipa": "/ˈæsɛts/",
+      "examples": [
+        {
+          "en": "All our assets are protected here.",
+          "ja": "私たちのすべての資産がここで保護されています。",
+          "ipa": "/ɔl ˈaʊɚ ˈæsɛts ɑɹ prəˈtɛktɪd hɪɹ/",
+          "linking": [
+            "All our → l が ɑ に連結 [ɔl ˈaʊɚ] オール アワー",
+            "assets are → s が ɑ に連結してz音化 [ˈæsɛz ɑɹ] アセッザー"
+          ],
+          "kana": "オール アワー アセッザー プロテクティド ヒア"
+        },
+        {
+          "en": "Diamonds and emeralds are valuable assets in mining.",
+          "ja": "ダイヤモンドとエメラルドは採掘における価値のある資産です。",
+          "ipa": "/ˈdaɪmɑndz ənd ɪˈmɛrəldz ɑɹ ˈvæljuəbəl ˈæsɛts ɪn ˈmaɪnɪŋ/",
+          "linking": [
+            "Diamonds and → z が ə に連結、and が弱形 [ˈdaɪmɑndz ənd] ダイモンズ アンド",
+            "are valuable → r が v に連結 [ɑɹˈvæljuəbəl] アーヴァリュアブル",
+            "assets in → s が i に連結してz音化 [ˈæsɛzɪn] アセッズィン"
+          ],
+          "kana": "ダイモンズ アンド イメラルズ アーヴァリュアブル アセッズィン マイニング"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "be an asset to",

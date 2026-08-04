@@ -61,5 +61,92 @@
       ],
       "kana": "ファッ チャンス ウィル サバイブ ディス クリーパー イクスプロージョン ウィザウト テイキング ダメージ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "fats",
+      "ipa": "/fæts/",
+      "examples": [
+        {
+          "en": "I've collected three different fats from various animals.",
+          "ja": "私は様々な動物から3つの異なった脂肪を集めました。",
+          "ipa": "/aɪv kəˈlɛktɪd θriː ˈdɪfərənt fæts frəm ˈvɛriəs ˈænɪməlz/",
+          "linking": [
+            "collected の /d/ が three の /θ/（子音）に続く場合、/d/ は未開放 [kəˈlɛktɪd̚ θriː] コレクティッ スリー",
+            "various の語末子音 /s/ が animals の /æ/（母音）に連結 [ˈvɛriəz ˈænɪməlz] ベリアズ・アニマルズ"
+          ],
+          "kana": "アイヴ コレクティッド スリー ディファレント ファッツ フラム ベリアズ・アニマルズ"
+        },
+        {
+          "en": "These fats can be used for crafting different cooking recipes.",
+          "ja": "これらの脂肪は、異なる調理レシピをクラフトするために使用できます。",
+          "ipa": "/ðiːz fæts kən bi ˈjuzd fər ˈkræftɪŋ ˈdɪfərənt ˈkʊkɪŋ ˈrɛsəpiz/",
+          "linking": [
+            "these の語末 /z/ が fats の /f/（子音）に続く場合、子音同士なので連結なし [ðiːz fæts] ディーズ ファッツ",
+            "for は弱形 /fər/ で、r-linking により語末の /r/ が crafting の /k/（子音）に続く場合は連結なし [fər ˈkræftɪŋ] ファ クラフティング"
+          ],
+          "kana": "ディーズ ファッツ カン ビー ユーズド ファ クラフティング ディファレント クッキング レシピーズ"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "fatter",
+      "ipa": "/ˈfætər/",
+      "examples": [
+        {
+          "en": "This pig is getting fatter from all the seeds I feed it.",
+          "ja": "このブタは、私が与えるすべての種からどんどん太ってくる。",
+          "ipa": "/ðɪs pɪɡ ɪz ˈɡɛɾɪŋ ˈfæɾər frəm ɔːl ðə ˈsiːdz aɪ fid ɪt/",
+          "linking": [
+            "getting の t は2つの母音に挟まれてフラップ化 [ˈɡɛɾɪŋ] ゲリング",
+            "fatter の t もフラップ化 [ˈfæɾər] ファーラー",
+            "from は弱形で、/m/ が all の /ɔː/（母音）に連結 [frəm ɔːl] フラマ オール"
+          ],
+          "kana": "ディス ピッグ イズ ゲリング ファーラー フラマ オール ザ シーズ アイ フィード イット"
+        },
+        {
+          "en": "The fatter animals always drop more loot than smaller ones.",
+          "ja": "より太った動物は常に、小さいものより多くのドロップをします。",
+          "ipa": "/ðə ˈfæɾər ˈænɪməlz ˈɔlweɪz drɑp mɔr ˈlut ðən ˈsmɔːlər wʌnz/",
+          "linking": [
+            "fatter の t はフラップ化 [ˈfæɾər] ファーラー",
+            "always の /l/ の後に /w/ が続く場合、w は半母音なので連結傾向 [ˈɔlweɪz] オールウェイズ"
+          ],
+          "kana": "ザ ファーラー アニマルズ オールウェイズ ドラップ モア ルート ザン スモーラー ワンズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "fattest",
+      "ipa": "/ˈfætɪst/",
+      "examples": [
+        {
+          "en": "That's the fattest cow in my entire farm!",
+          "ja": "それは私の農場全体で最も太った牛です！",
+          "ipa": "/ðæts ðə ˈfætɪst kaʊ ɪn maɪ ɪnˈtaɪər fɑrm/",
+          "linking": [
+            "that's の /ts/ が the の /ð/（子音）に続く場合、/s/ は未開放 [ðæts̚ ðə] ザッツ ザ",
+            "entire の /ər/ は r-linking により、後の /f/（子音）に続く場合は連結なし [ɪnˈtaɪər fɑrm] エンタイアー ファーム"
+          ],
+          "kana": "ザッツ ザ ファッティスト カウ イン マイ エンタイアー ファーム"
+        },
+        {
+          "en": "The fattest slimes always yield the best treasure inside.",
+          "ja": "最も太ったスライムは常に、内部で最高の宝をもたらします。",
+          "ipa": "/ðə ˈfætɪst slaɪmz ˈɔlweɪz ˈjild ðə bɛst ˈtrɛʒər ɪnˈsaɪd/",
+          "linking": [
+            "slimes の /z/ が always の /ɔː/（母音）に連結 [slaɪmz ˈɔlweɪz] スライムズ・オールウェイズ",
+            "treasure の /ɔɚ/ が inside の /ɪ/（母音）に続く場合、r-linking により /r/ が介在 [ˈtrɛʒər ɪnˈsaɪd] トレジャー インサイド"
+          ],
+          "kana": "ザ ファッティスト スライムズ・オールウェイズ イールド ザ ベスト トレジャー インサイド"
+        }
+      ]
+    }
   ]
 }

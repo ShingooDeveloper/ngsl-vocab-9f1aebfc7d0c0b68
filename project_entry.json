@@ -202,6 +202,109 @@
           "kana": "ヒーズ プロジェクティング コンフィデンス ワイル プラニング アワー ニューイスト アンビシャス ストラクチャー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is projecting",
+      "ipa": "/ɪz prəˈdʒɛktɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is projecting the new castle design onto the wall for everyone to see.",
+          "ja": "スティーヴは新しい城の設計を壁に投影して、誰もが見られるようにしています。",
+          "ipa": "/stiːv ɪz prəˈdʒɛktɪŋ ðə njuː ˈkæsəl dɪˈzaɪn ˈɑːntuː ðə wɔːl fɚ ˈɛvriwʌn tə siː/",
+          "linking": [
+            "Steve is → 語末の子音 /v/ が次の母音 /ɪ/ に連結。is は弱形 /ɪz/。",
+            "projecting the → 語末の子音 /ŋ/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "for everyone → 語末の子音 /r/ が次の母音 /ɛ/ に連結。for は弱形 /fɚ/。",
+            "to see → to は弱形 /tə/。"
+          ],
+          "kana": "スティーヴ イズ プロジェクティング ザ ニュー キャッセル デザイン オントゥ ザ ウォール ファー エブリワン タ シー"
+        },
+        {
+          "en": "We are projecting a budget for the redstone farm expansion this month.",
+          "ja": "私たちは今月のレッドストーン農場の拡張のための予算を計上しています。",
+          "ipa": "/wiː ɚ prəˈdʒɛktɪŋ ə ˈbʌdʒɪt fɚ ðə ˈrɛdˌstoʊn fɑːrm ɪkˈspænʃən ðɪs mʌnθ/",
+          "linking": [
+            "We are → 語末の母音 /iː/ が are の初頭 /ɚ/ に続く。are は弱形 /ɚ/。",
+            "projecting a → 語末の子音 /ŋ/ が次の母音 /ə/ に連結。a は弱形 /ə/。",
+            "for the → 語末の子音 /r/ が次の子音 /ð/ に続く（連結なし）。for は弱形 /fɚ/、the は弱形 /ðə/。",
+            "farm expansion → 語末の子音 /m/ が次の母音 /ɪ/ に連結。"
+          ],
+          "kana": "ウィー アー プロジェクティング ア バッジット ファー ザ レッドストーン ファーム イクスパンション ディス マンス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was projecting",
+      "ipa": "/wəz prəˈdʒɛktɪŋ/",
+      "examples": [
+        {
+          "en": "While we were projecting the tunnel layout, a creeper appeared!",
+          "ja": "私たちがトンネルのレイアウトを計画していた間に、クリーパーが現れました。",
+          "ipa": "/waɪl wiː wɚ prəˈdʒɛktɪŋ ðə ˈtʌnəl ˈleɪaʊt | ə ˈkriːpɚ əˈpɪrd/",
+          "linking": [
+            "we were → 語末の母音 /iː/ が were の初頭 /w/ に続く。were は弱形 /wɚ/。",
+            "projecting the → 語末の子音 /ŋ/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "a creeper → a は弱形 /ə/（母音）。末尾が母音で、creeper の初頭 /k/ は子音（連結なし）。",
+            "creeper appeared → 語末の子音 /r/ が次の母音 /ə/ に連結。"
+          ],
+          "kana": "ワイル ウィー ワー プロジェクティング ザ タンネル レイアウト、ア クリーパー アピアード"
+        },
+        {
+          "en": "The architect was projecting the building's final shape when the server lagged.",
+          "ja": "サーバーがラグしたとき、建築家は建物の最終形状を計画していました。",
+          "ipa": "/ðə ˈɑːrkɪtɛkt wəz prəˈdʒɛktɪŋ ðə ˈbɪldɪŋz ˈfaɪnəl ʃeɪp | wɛn ðə ˈsɚvɚ læɡd/",
+          "linking": [
+            "The architect → the は弱形 /ðə/。末尾の母音 /ə/ が architect の初頭 /ɑː/ に続く。",
+            "architect was → 語末の子音 /t/ が次の子音 /w/ に続く（連結なし）。was は弱形 /wəz/。",
+            "projecting the → 語末の子音 /ŋ/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "when the → 語末の子音 /n/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "the server → 語末の母音 /ə/ が server の初頭 /s/ に続く。"
+          ],
+          "kana": "ザ アーキテクト ワズ プロジェクティング ザ ビルディングズ ファイナル シェイプ、ウェン ザ サーヴァー ラッグド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been projecting",
+      "ipa": "/həd bɪn prəˈdʒɛktɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the mining started, they had been projecting the optimal tunnel routes for days.",
+          "ja": "採掘が始まるまでに、彼らは何日間も最適なトンネルルートを計画していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈmaɪnɪŋ ˈstɑːrtəd | ðeɪ həd bɪn prəˈdʒɛktɪŋ ðə ˈɑːptɪməl ˈtʌnəl ruːts fɚ deɪz/",
+          "linking": [
+            "By the → 語末の母音 /aɪ/ が the の初頭 /ð/ に続く。the は弱形 /ðə/。",
+            "time the → 語末の子音 /m/ が次の子音 /ð/ に続く（連結なし）。",
+            "they had → 語末の母音 /eɪ/ が had の初頭 /h/ に続く。had は弱形 /həd/。",
+            "had been → 語末の子音 /d/ が次の子音 /b/ に続く（連結なし）。been は弱形 /bɪn/。",
+            "been projecting → 語末の子音 /n/ が次の子音 /p/ に続く（連結なし）。",
+            "projecting the → 語末の子音 /ŋ/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "for days → 語末の子音 /r/ が次の子音 /d/ に続く（連結なし）。for は弱形 /fɚ/。"
+          ],
+          "kana": "バイ ザ タイム ザ マイニング スターティド、ザェイ ハド ビン プロジェクティング ザ オプティマル タンネル ルーツ ファー デイズ"
+        },
+        {
+          "en": "He had been projecting the costs of materials before deciding to expand the base.",
+          "ja": "彼はベースを拡張することを決定する前に、材料のコストを計上していました。",
+          "ipa": "/hiː həd bɪn prəˈdʒɛktɪŋ ðə ˈkɔsts əv məˈtɪrɪəlz | bɪˈfɔr dɪˈsaɪdɪŋ tə ɪkˈspænd ðə beɪs/",
+          "linking": [
+            "He had → 語末の母音 /iː/ が had の初頭 /h/ に続く。had は弱形 /həd/。",
+            "had been → 語末の子音 /d/ が次の子音 /b/ に続く（連結なし）。been は弱形 /bɪn/。",
+            "been projecting → 語末の子音 /n/ が次の子音 /p/ に続く（連結なし）。",
+            "projecting the → 語末の子音 /ŋ/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。",
+            "costs of → 語末の子音 /s/ が次の母音 /ə/ に続く。of は弱形 /əv/。",
+            "to expand → to は弱形 /tə/。末尾の母音 /ə/ が expand の初頭 /ɪ/ に続く（母音+母音）。",
+            "expand the → 語末の子音 /d/ が次の子音 /ð/ に続く（連結なし）。the は弱形 /ðə/。"
+          ],
+          "kana": "ヒー ハド ビン プロジェクティング ザ コスツ オヴ マテリアルズ、ビフォー デサイディング タ イクスパンド ザ ベイス"
+        }
+      ]
     }
   ]
 }

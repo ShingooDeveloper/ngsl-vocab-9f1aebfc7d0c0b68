@@ -43,5 +43,145 @@
       "kana": "ウィ ニーダ アップデイト ザ サーヴァー スーン"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "servers",
+      "ipa": "/ˈsɜːrvərz/",
+      "examples": [
+        {
+          "en": "Multiple servers handle millions of blocks.",
+          "ja": "複数のサーバーが何百万ものブロックを処理しています。",
+          "ipa": "/ˈmʌltɪpl ˈsɜːrvərz ˈhændəl ˈmɪljənz əv blɑks/",
+          "linking": [
+            "「servers」の末尾 /z/ が handle の /h/ に続きますが、子音同士のため連結しません",
+            "「of」は前置詞で弱形 /əv/。millions の末尾 /z/ が of の弱形 /ə/ に連結 [ˈmɪljənzəv] ミリオンズァヴ"
+          ],
+          "kana": "マルティプル サーヴァーズ ハンドル ミリオンズァヴ ブラックス"
+        },
+        {
+          "en": "We maintain several servers for different worlds.",
+          "ja": "私たちは異なるワールド用に複数のサーバーを管理しています。",
+          "ipa": "/wi meɪnˈteɪn ˈsɛvərəl ˈsɜːrvərz fɔr ˈdɪfərənt ˈwɜːrldz/",
+          "linking": [
+            "「We」は代名詞で弱形 /wi/",
+            "「servers」の末尾 /z/ が for の /f/ に続きますが、子音同士のため連結しません。for は前置詞で弱形 /fər/ に弱化"
+          ],
+          "kana": "ウィ メインテイン セヴァラル サーヴァーズ ファー ディファレント ワールドズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "serves",
+      "ipa": "/ˈsɜːrvz/",
+      "examples": [
+        {
+          "en": "The main server serves all players worldwide.",
+          "ja": "メインサーバーが世界中のすべてのプレイヤーにサービスを提供しています。",
+          "ipa": "/ðə ˈmeɪn ˈsɜːrvər ˈsɜːrvz ɔl ˈpleɪərz ˈwɜːrldwaɪd/",
+          "linking": [
+            "「The」は冠詞で弱形 /ðə/",
+            "「serves」の末尾 /z/ が all の /ɔ/ に連結 [ˈsɜːrvzɔl] サーヴゾール"
+          ],
+          "kana": "ザ メイン サーヴァー サーヴゾール プレイヤーズ ワールドワイド"
+        },
+        {
+          "en": "Each server serves specific game regions.",
+          "ja": "各サーバーが特定のゲームリージョンにサービスを提供しています。",
+          "ipa": "/itʃ ˈsɜːrvər ˈsɜːrvz spɪˈsɪfɪk ˈɡeɪm ˈridʒənz/",
+          "linking": [
+            "「Each」は /itʃ/ で末尾の /tʃ/ は未開放気味",
+            "「serves」の末尾 /z/ が specific の /s/ に続きますが、子音同士のため連結しません"
+          ],
+          "kana": "イッチ サーヴァー サーヴズ スペシフィック ゲイム リージョンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "served",
+      "ipa": "/ˈsɜːrvd/",
+      "examples": [
+        {
+          "en": "That server served our community for years.",
+          "ja": "そのサーバーは長年私たちのコミュニティにサービスを提供していました。",
+          "ipa": "/ðæt ˈsɜːrvər ˈsɜːrvd aʊr kəˈmjuːnətɪ fɔr ˈjɪrz/",
+          "linking": [
+            "「That」は /ðæt/ で末尾の /t/ は未開放",
+            "「served」の末尾 /d/ が our の /aʊ/ に連結 [ˈsɜːrvdaʊr] サーヴダウ"
+          ],
+          "kana": "ザット サーヴァー サーヴダウ カミュニティ ファー イヤーズ"
+        },
+        {
+          "en": "Multiple servers served millions of sessions.",
+          "ja": "複数のサーバーが何百万ものセッションにサービスを提供しました。",
+          "ipa": "/ˈmʌltɪpl ˈsɜːrvərz ˈsɜːrvd ˈmɪljənz əv ˈsɛʃənz/",
+          "linking": [
+            "「of」は前置詞で弱形 /əv/。millions の末尾 /z/ が of の弱形 /ə/ に連結 [ˈmɪljənzəv] ミリオンズァヴ"
+          ],
+          "kana": "マルティプル サーヴァーズ サーヴド ミリオンズァヴ セッションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "served",
+      "ipa": "/ˈsɜːrvd/",
+      "examples": [
+        {
+          "en": "The database has served terabytes of information.",
+          "ja": "そのデータベースはテラバイト単位の情報をサービス提供してきました。",
+          "ipa": "/ðə ˈdeɪtəbeɪs həz ˈsɜːrvd ˈterəbaɪts əv ɪnfərˈmeɪʃən/",
+          "linking": [
+            "「The」は冠詞で弱形 /ðə/",
+            "「has」は助動詞で弱形 /həz/ または /əz/ に弱化"
+          ],
+          "kana": "ザ デイタベース ハズ サーヴド テラバイツ アヴ インファーメイション"
+        },
+        {
+          "en": "Players have been served a stable experience.",
+          "ja": "プレイヤーたちは安定したエクスペリエンスをサービス提供されてきました。",
+          "ipa": "/ˈpleɪərz həv bɪn ˈsɜːrvd ə ˈsteɪbl ɪkˈspɪriəns/",
+          "linking": [
+            "「have」は助動詞で弱形 /həv/ に弱化",
+            "「served」の末尾 /d/ が a の /ə/ に連結 [ˈsɜːrvdə] サーヴダ"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン サーヴダ ステイブル イクスピアリエンス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "serving",
+      "ipa": "/ˈsɜːrvɪŋ/",
+      "examples": [
+        {
+          "en": "Multiple servers are serving different game modes.",
+          "ja": "複数のサーバーが異なるゲームモードにサービスを提供しています。",
+          "ipa": "/ˈmʌltɪpl ˈsɜːrvərz ɑr ˈsɜːrvɪŋ ˈdɪfərənt ˈɡeɪm ˈmoʊdz/",
+          "linking": [
+            "「servers」の末尾 /z/ が are の /ɑ/ に連結。r が音的に次の母音に乗る [ˈsɜːrvərz ɑr]"
+          ],
+          "kana": "マルティプル サーヴァーズ アー サーヴィング ディファレント ゲイム モーズ"
+        },
+        {
+          "en": "The primary server is serving world data right now.",
+          "ja": "プライマリサーバーが今、ワールドデータにサービスを提供しています。",
+          "ipa": "/ðə ˈpraɪmeri ˈsɜːrvər ɪz ˈsɜːrvɪŋ ˈwɜːrld ˈdeɪtə ˈraɪt ˈnaʊ/",
+          "linking": [
+            "「The」は冠詞で弱形 /ðə/",
+            "「server is」で server の /ər/ が is の /ɪ/ に連結。r が音的に次の母音に乗る [ˈsɜːrvərɪz] サーヴァリズ"
+          ],
+          "kana": "ザ プライマリ サーヴァリズ サーヴィング ワールド デイタ ライト ナウ"
+        }
+      ]
+    }
+  ]
 }

@@ -43,6 +43,65 @@
       "kana": "ワンス ユー ビルダ パーマネント セッルメント — ユー キャント ムーヴィット"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more permanent",
+      "ipa": "/ˈmoʊr ˈpɝːmənənt/",
+      "examples": [
+        {
+          "en": "Obsidian is more permanent than stone blocks in survival mode.",
+          "ja": "黒曜石はサバイバルモードの石ブロックより永続的です。",
+          "ipa": "/ɑbˈsɪdiən ɪz ˈmoʊr ˈpɝːmənənt ðæn ˈstoʊn blɑks ɪn sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "Obsidian の末尾子音 /n/ が is の初頭母音 /ɪ/ に連結し [ɑbˈsɪdiən ɪz]（「アブシディアン・イズ」→「アブシディアニズ」）",
+            "blocks の末尾子音 /s/ が in の初頭母音 /ɪ/ に連結。/s/ が母音前で有声化し /z/ になる [blɑkz ɪn]（「ブラックス・イン」→「ブラッズィン」）"
+          ],
+          "kana": "アブシディアニズ モア パーマネント ザン ストーン ブラッズィン サーヴァイヴァル モード"
+        },
+        {
+          "en": "Using concrete is more permanent than building with dirt.",
+          "ja": "泥で建設するよりコンクリートを使う方が永続的です。",
+          "ipa": "/ˈjuːzɪŋ ˈkɑŋkrit ɪz ˈmoʊr ˈpɝːmənənt ðæn ˈbɪldɪŋ wɪð dɝt/",
+          "linking": [
+            "concrete の末尾子音 /t/ が is の初頭母音 /ɪ/ に連結し [ˈkɑŋkrɪt ɪz]（「コンクリート・イズ」→「コンクリーティズ」）",
+            "with は機能語で弱形 /wɪð/。dirt の初頭子音 /d/ に続く"
+          ],
+          "kana": "ユーズィング コンクリーティズ モア パーマネント ザン ビルディング ウィズ ダート"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most permanent",
+      "ipa": "/ˈmoʊst ˈpɝːmənənt/",
+      "examples": [
+        {
+          "en": "Bedrock is the most permanent block in Minecraft.",
+          "ja": "基岩はMinecraftで最も永続的なブロックです。",
+          "ipa": "/ˈbɛdrɑk ɪz ðə ˈmoʊst ˈpɝːmənənt blɑk ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "Bedrock の末尾子音 /k/ が is の初頭母音 /ɪ/ に連結し [ˈbɛdrɑk ɪz]（「ベッドロック・イズ」→「ベッドロッキズ」）",
+            "the は冠詞で弱形 /ðə/。most の初頭子音 /m/ に続く [ðə ˈmoʊst]（「ザ・モースト」→「ザモースト」）"
+          ],
+          "kana": "ベッドロッキズ ザ モースト パーマネント ブラック イン マインクラフト"
+        },
+        {
+          "en": "An obsidian fortress is the most permanent structure you can build.",
+          "ja": "黒曜石の要塞は、あなたが建設できる最も永続的な構造です。",
+          "ipa": "/ən ɑbˈsɪdiən ˈfɔrtəs ɪz ðə ˈmoʊst ˈpɝːmənənt ˈstrʌktʃɚ juː kæn bɪld/",
+          "linking": [
+            "An の末尾 /n/ が obsidian の初頭母音 /ɑ/ に連結 [ən ɑbˈsɪdiən]（「アン・アブシディアン」→「ナブシディアン」）",
+            "fortress の末尾子音 /s/ が is の初頭母音 /ɪ/ に連結。/s/ が有声化し /z/: [ˈfɔrtəz ɪz]（「フォーティス・イズ」→「フォーティズ」）",
+            "the は冠詞で弱形 /ðə/。most に続く"
+          ],
+          "kana": "アン アブシディアン フォーティズ ザ モースト パーマネント ストラクチャー ユー キャン ビルド"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "make permanent",

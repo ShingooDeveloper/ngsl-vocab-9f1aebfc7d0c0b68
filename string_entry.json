@@ -44,5 +44,37 @@
       "kana": "ストリングス オン フィシング ロッズ カン ブレイク イフ ユア ナッ ケアフル"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "strings",
+      "ipa": "/strɪŋz/",
+      "examples": [
+        {
+          "en": "You need strings to craft a bow.",
+          "ja": "弓をクラフトするのに糸が必要です。",
+          "ipa": "[juː ˈniːd ˈstrɪŋztə ˈkræftə ˈboʊ]",
+          "linking": [
+            "strings の語末 /z/ が to の弱形 /tə/ に連結 [ˈstrɪŋztə]",
+            "to は機能語で弱形 /tə/ に弱化",
+            "craft の語末 /t/ が a の弱形 /ə/ に連結 [ˈkræftə]"
+          ],
+          "kana": "ユー ニード ストリングズタ クラフタ ボウ"
+        },
+        {
+          "en": "Collect strings from spiders to make bows.",
+          "ja": "弓を作るためにクモから糸を集めます。",
+          "ipa": "[kəˈlɛkt ˈstrɪŋz frəm ˈspaɪdərztə ˈmeɪk ˈboʊz]",
+          "linking": [
+            "from は機能語で弱形 /frəm/ に弱化",
+            "spiders の語末 /z/ が to の弱形 /tə/ に連結 [ˈspaɪdərztə]",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "コレクト ストリングス フラム スパイダーズタ メイク ボウズ"
+        }
+      ]
+    }
+  ]
 }

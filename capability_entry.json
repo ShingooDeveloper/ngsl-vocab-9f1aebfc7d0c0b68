@@ -59,5 +59,39 @@
       ],
       "kana": "ウィ ハヴ ザ キャパビリティ タ ビルダ ネザー ポータル セイフリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "capabilities",
+      "ipa": "/ˌkæpəˈbɪlətiz/",
+      "examples": [
+        {
+          "en": "The redstone mechanisms in our base have multiple capabilities for automation.",
+          "ja": "基地のレッドストーン機構は自動化のための複数の機能を持っています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈmɛkənɪzəmz ɪn ˈaʊər ˈbeɪs hæv ˈmʌltəpəl ˌkæpəˈbɪlətiz fɚ ˌɔtəˈmeɪʃən/",
+          "linking": [
+            "mechanisms in → 語末子音 /z/ が in の初頭 /ɪ/ に連結 [ˈmɛkənɪzəmz ɪn] メカニズムズ イン",
+            "our base → 語末 /r/ が base の初頭 /b/ に連結 [ˈaʊər ˈbeɪs] アワー ベイス",
+            "capabilities for → 語末子音 /z/ が for の初頭 /f/ に連結、for は弱形 /fɚ/ [ˌkæpəˈbɪlətiz fɚ] キャパビリティーズ ファー",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "ザ レッドストーン メカニズムズ イン アワー ベイス ハヴ マルティプル キャパビリティーズ ファー オーテメイション"
+        },
+        {
+          "en": "Understanding the capabilities of different biomes helps with survival planning.",
+          "ja": "異なるバイオームの機能を理解することはサバイバル計画に役立ちます。",
+          "ipa": "/ˌʌndərˈstændɪŋ ðə ˌkæpəˈbɪlətiz əv ˈdɪfərənt ˈbaɪoʊmz ˈhɛlps wɪð sərˈvaɪvəl ˈplænɪŋ/",
+          "linking": [
+            "capabilities of → 語末子音 /z/ が of の初頭 /ə/ に連結、of は弱形 /əv/ [ˌkæpəˈbɪlətiz əv] キャパビリティーズ オブ",
+            "biomes helps → 語末子音 /z/ が helps の初頭 /h/ に連結 [ˈbaɪoʊmz ˈhɛlps] バイオームズ ヘルプス",
+            "with は弱形 /wɪð/ で、survival /s/ に続く",
+            "survival の末尾 /l/ が planning の初頭 /p/ に続く（子音+子音なので連結なし）"
+          ],
+          "kana": "アンダースタンディング ザ キャパビリティーズ オブ ディファレント バイオームズ ヘルプス ウィズ サーヴァイヴァル プラニング"
+        }
+      ]
+    }
   ]
 }

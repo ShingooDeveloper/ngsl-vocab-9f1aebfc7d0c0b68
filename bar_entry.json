@@ -1,0 +1,336 @@
+{
+  "word": "bar",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/bɑr/",
+  "rank": 800,
+  "level": "A2",
+  "hi": "bar|bars|barred|barring",
+  "meanings": [
+    "【名詞】（金属・木などの）棒、バー、杆",
+    "【名詞】（カウンター型の）バー、カウンター",
+    "【名詞】（牢獄の）格子、鉄格子",
+    "【動詞】（棒などで）ふさぐ、塞ぐ、閉ざす",
+    "【動詞】（法律・ルール等で）禁止する、やめさせる"
+  ],
+  "examples": [
+    {
+      "en": "I need iron bars to protect my base from mobs.",
+      "ja": "モブから自分の基地を守るために鉄の格子が必要です。",
+      "ipa": "/aɪ ˈniːd ˈaɪɚn ˈbɑrz tə prəˈtɛkt maɪ ˈbeɪs frəm ˈmoʊbz/",
+      "linking": [
+        "need の末子音 /d/ が iron の初頭母音 /aɪ/ に連結 [ˈniːd ˈaɪɚn] ニード アイアン",
+        "to は弱形 /tə/"
+      ],
+      "kana": "アイ ニード アイアン バーズ タ プリテクト マイ ベース フラム モブズ"
+    },
+    {
+      "en": "The wooden bars blocked the cave entrance completely.",
+      "ja": "木製の格子が洞窟の入口を完全にふさいだ。",
+      "ipa": "/ðə ˈwʊdən ˈbɑrz ˈblɑkt ðə ˈkeɪv ˈɛntrəns kəmˈpliːtli/",
+      "linking": [
+        "the は弱形 /ðə/ で wooden に連結",
+        "bars blocked → 語末 /z/ が blocked の /b/ に後続（consonant+consonant、連結なし）"
+      ],
+      "kana": "ザ ウッドゥン バーズ ブロクト ザ ケイヴ エントランス コンプリートリー"
+    },
+    {
+      "en": "The prison has bars on every window.",
+      "ja": "その牢獄のすべての窓に格子がある。",
+      "ipa": "/ðə ˈprɪzən hæz ˈbɑrz ɑn ˈɛvri ˈwɪndoʊ/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "bars on → 語末 /z/ が on の /ɑ/ に連結（consonant+vowel）[ˈbɑrz ɑn] バーズ オン"
+      ],
+      "kana": "ザ プリズン ハズ バーズ オン エヴリ ウィンドウ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "behind bars",
+      "ja": "牢獄に入って、投獄されて",
+      "example": "The villain is now behind bars for stealing diamonds.",
+      "example_ja": "そのヴィランはダイヤモンドを盗んだため、今は牢獄に入っている。",
+      "ipa": "/ðə ˈvɪlən ɪz ˈnaʊ bɪˈhɪnd ˈbɑrz fɔr ˈstilɪŋ ˈdaɪməndz/",
+      "linking": [
+        "behind bars → /d/ が /b/ に後続（consonant+consonant、連結なし）",
+        "bars for → 語末 /z/ が for の初頭 /f/ (consonant+consonant、連結なし)"
+      ],
+      "kana": "ザ ビレイン イズ ナウ ビハインド バーズ フォー スティーリング ダイアマンズ"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "You can craft iron bars at the crafting table to build a secure cell.",
+      "ja": "クラフトテーブルで鉄の格子をクラフトして、安全な牢を作ることができます。",
+      "ipa": "/ju kən ˈkræft ˈaɪɚn ˈbɑrz æt ðə ˈkræftɪŋ ˈteɪbəl tə ˈbɪld ə sɪˈkjʊr ˈsɛl/",
+      "linking": [
+        "craft iron → /t/ が /aɪ/ に連結（consonant+vowel）[ˈkræft ˈaɪɚn] クラフト アイアン",
+        "at the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+      ],
+      "kana": "ユー キャン クラフト アイアン バーズ アット ザ クラフティング テイブル タ ビルド ア セキュア セル"
+    },
+    {
+      "en": "Iron bars prevent mobs from entering your shelter.",
+      "ja": "鉄の格子はモブがあなたのシェルターに入るのを防ぎます。",
+      "ipa": "/ˈaɪɚn ˈbɑrz prɪˈvɛnt ˈmoʊbz frəm ˈɛntərɪŋ jɔr ˈʃɛltɚ/",
+      "linking": [
+        "prevent mobs → /t/ が /m/ に後続（consonant+consonant、連結なし）",
+        "from entering → /m/ が /ɛ/ に連結（consonant+vowel）[frəm ˈɛntərɪŋ] フラム エンタリング"
+      ],
+      "kana": "アイアン バーズ プリベント モブズ フラム エンタリング ヤー シェルター"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "bars",
+      "ipa": "/bɑrz/",
+      "examples": [
+        {
+          "en": "I stored all my iron bars in a double chest.",
+          "ja": "すべての鉄の格子をダブルチェストに保管しました。",
+          "ipa": "/aɪ ˈstɔrd ɔːl maɪ ˈaɪɚn ˈbɑrz ɪn ə ˈdʌbəl ˈtʃɛst/",
+          "linking": [
+            "stored all → 語末 /d/ が all の初頭 /ɔ/ に連結 [ˈstɔrd ɔːl] ストード オール",
+            "in a → /n/ + /ə/ が連結 [ɪn ə] イナ"
+          ],
+          "kana": "アイ ストード オール マイ アイアン バーズ イナ ダブル チェスト"
+        },
+        {
+          "en": "The bars on the window were made of obsidian.",
+          "ja": "窓の格子は黒曜石でできていた。",
+          "ipa": "/ðə ˈbɑrz ɑn ðə ˈwɪndoʊ wɚ ˈmeɪd əv ɑbˈsɪdiən/",
+          "linking": [
+            "the bars → the は弱形 /ðə/ で bars の初頭に連結",
+            "bars on → 語末 /z/ が on の初頭 /ɑ/ に連結 [ˈbɑrz ɑn] バーズ オン",
+            "made of → /d/ + /ə/ が連結、of は弱形 /əv/ [ˈmeɪd əv] メイド オヴ"
+          ],
+          "kana": "ザ バーズ オン ザ ウィンドウ ワー メイド オヴ アブシディアン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "bars",
+      "ipa": "/bɑrz/",
+      "examples": [
+        {
+          "en": "Nothing bars a determined player from reaching the End.",
+          "ja": "決心したプレイヤーをエンドに到達するのを阻むものは何もない。",
+          "ipa": "/ˈnʌθɪŋ ˈbɑrz ə dɪˈtɝmɪnd ˈpleɪɚ frəm ˈritʃɪŋ ðə ˈɛnd/",
+          "linking": [
+            "Nothing bars → 語末 /ŋ/ + /b/ (consonant+consonant、連結なし)",
+            "bars a → 語末 /z/ が a の初頭 /ə/ に連結 [ˈbɑrz ə] バーズ ア"
+          ],
+          "kana": "ナシング バーズ ア ディターミンド プレイヤー フラム リーチング ザ エンド"
+        },
+        {
+          "en": "He bars the entrance with his shield.",
+          "ja": "彼は盾で入口をふさいでいる。",
+          "ipa": "/hi ˈbɑrz ðə ˈɛntrəns wɪð hɪz ˈʃild/",
+          "linking": [
+            "bars the → 語末 /z/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ヒー バーズ ザ エントランス ウィズ ヒズ シールド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "barred",
+      "ipa": "/bɑrd/",
+      "examples": [
+        {
+          "en": "We barred the entrance with obsidian blocks for protection.",
+          "ja": "保護のために、入口を黒曜石ブロックでふさぎました。",
+          "ipa": "/wi ˈbɑrd ðə ˈɛntrəns wɪð ɑbˈsɪdiən ˈblɑks fɔr prəˈtɛkʃən/",
+          "linking": [
+            "barred the → 語末 /d/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "for protection → /r/ が /p/ に後続（consonant+consonant、連結なし）"
+          ],
+          "kana": "ウィ バード ザ エントランス ウィズ アブシディアン ブロックス フォー プロテクション"
+        },
+        {
+          "en": "They barred access to the nether portal after the disaster.",
+          "ja": "災害の後、ネザーポータルへのアクセスを禁止しました。",
+          "ipa": "/ðeɪ ˈbɑrd ˈæksɛs tu ðə ˈnɛðɚ ˈpɔrtəl ˈæftɚ ðə dɪˈzæstɚ/",
+          "linking": [
+            "barred access → 語末 /d/ が access の初頭 /æ/ に連結（consonant+vowel）[ˈbɑrd ˈæksɛs] バード アクセス",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ゼイ バード アクセス トゥ ザ ネザー ポータル アフター ザ ディザスター"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "barred",
+      "ipa": "/bɑrd/",
+      "examples": [
+        {
+          "en": "Having barred the door, we felt safe from the mobs outside.",
+          "ja": "ドアをふさいだので、外のモブから安全だと感じました。",
+          "ipa": "/ˈheɪvɪŋ ˈbɑrd ðə ˈdɔr | wi ˈfɛlt ˈseɪf frəm ðə ˈmoʊbz əˈtsaɪd/",
+          "linking": [
+            "Having barred → 語末 /ŋ/ が barred の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "barred the → 語末 /d/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング バード ザ ドア、ウィー フェルト セイフ フラム ザ モブズ アツァイド"
+        },
+        {
+          "en": "The path barred by lava forced us to find another route.",
+          "ja": "溶岩によってふさがれた道は、別のルートを見つけることを余儀なくされました。",
+          "ipa": "/ðə ˈpæθ ˈbɑrd baɪ ˈlɑvə ˈfɔrst əs tu ˈfaɪnd əˈnʌðɚ ˈrut/",
+          "linking": [
+            "the path → the は弱形 /ðə/",
+            "path barred → 語末 /θ/ が barred の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "forced us → 語末 /t/ が us の初頭 /ə/ に連結（consonant+vowel）[ˈfɔrst əs] ファースト アス"
+          ],
+          "kana": "ザ パス バード バイ ラバ、フォースト アス トゥ ファインド アナザー ルート"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "barring",
+      "ipa": "/ˈbɑrɪŋ/",
+      "examples": [
+        {
+          "en": "Barring the entrance with iron doors kept the zombies out.",
+          "ja": "鉄のドアで入口をふさいでおくことで、ゾンビを追い出しました。",
+          "ipa": "/ˈbɑrɪŋ ðə ˈɛntrəns wɪð ˈaɪɚn ˈdɔrz | ˈkɛpt ðə ˈzɑmbiːz ˈaʊt/",
+          "linking": [
+            "Barring the → 語末 /ŋ/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "with iron → /ð/ + /aɪ/ が続く（consonant+vowel、連結なし）",
+            "kept the → 語末 /t/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the も弱形 /ðə/"
+          ],
+          "kana": "バーリング ザ エントランス ウィズ アイアン ドアーズ、ケプト ザ ゾンビーズ アウト"
+        },
+        {
+          "en": "They are barring access to the cave system until it's cleared.",
+          "ja": "彼らはそれがクリアされるまで、洞窟システムへのアクセスを禁止しています。",
+          "ipa": "/ðeɪ ɑr ˈbɑrɪŋ ˈæksɛs tu ðə ˈkeɪv ˈsɪstəm ənˈtɪl ɪts ˈklɪrd/",
+          "linking": [
+            "They are → are は弱形 /ɚ/ に弱化 [ðeɪ ɑr] ゼイ アー",
+            "barring access → 語末 /ŋ/ が access の初頭 /æ/ に後続（consonant+consonant、連結なし）",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ゼイ アー バーリング アクセス トゥ ザ ケイヴ システム アンティル イッツ クリアード"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is Ving）",
+      "text": "is barring",
+      "ipa": "/ɪz ˈbɑrɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is barring the door with obsidian blocks to keep mobs out.",
+          "ja": "スティーブは黒曜石ブロックでドアをふさいでモブを外に出しています。",
+          "ipa": "/ˈstiv ɪz ˈbɑrɪŋ ðə ˈdɔr wɪð ɑbˈsɪdiən ˈblɑks tə ˈkip ˈmoʊbz ˈaʊt/",
+          "linking": [
+            "Steve is → is は弱形 /ɪz/",
+            "barring the → 語末 /ŋ/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "mobs out → 語末 /z/ が out の初頭 /aʊ/ に連結 [ˈmoʊbz ˈaʊt] モブズ アウト"
+          ],
+          "kana": "スティーヴ イズ バーリング ザ ドア ウィズ アブシディアン ブロックス タ キープ モブズ アウト"
+        },
+        {
+          "en": "The iron golem is barring access to the treasure room.",
+          "ja": "アイアンゴーレムが宝物庫へのアクセスを禁止しています。",
+          "ipa": "/ðə ˈaɪɚn ˈɡoʊləm ɪz ˈbɑrɪŋ ˈæksɛs tu ðə ˈtrɛʒɚ ˈrum/",
+          "linking": [
+            "The iron → the は弱形 /ðə/",
+            "golem is → 語末 /m/ が is の初頭 /ɪ/ に連結 [ˈɡoʊləm ɪz] ゴーラム イズ",
+            "access to → 語末 /s/ が to の初頭 /t/ に後続（consonant+consonant、連結なし）、to は弱形 /tə/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ アイアン ゴーラム イズ バーリング アクセス トゥ ザ トレジャー ルーム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was Ving）",
+      "text": "was barring",
+      "ipa": "/wəz ˈbɑrɪŋ/",
+      "examples": [
+        {
+          "en": "We were barring the cave entrance when the creeper explosion happened.",
+          "ja": "クリーパーの爆発が起こったとき、私たちは洞窟の入り口をふさいでいました。",
+          "ipa": "/wi wɚ ˈbɑrɪŋ ðə ˈkeɪv ˈɛntrəns ˈwɛn ðə ˈkripɚ ɪkˈsploʊʒən ˈhæpənd/",
+          "linking": [
+            "We were → were は弱形 /wɚ/",
+            "were barring → 語末 /r/ が barring の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "barring the → 語末 /ŋ/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "cave entrance → 語末 /v/ が entrance の初頭 /ɛ/ に連結 [ˈkeɪv ˈɛntrəns] ケイヴ エントランス",
+            "creeper explosion → 語末 /ɚ/ が explosion の初頭 /ɪ/ に連結 [ˈkripɚ ɪkˈsploʊʒən] クリーパー イクスプロージョン"
+          ],
+          "kana": "ウィー ワー バーリング ザ ケイヴ エントランス ウェン ザ クリーパー イクスプロージョン ハッペンド"
+        },
+        {
+          "en": "He was barring the door when I arrived at the base.",
+          "ja": "私が基地に到着したとき、彼はドアをふさいでいました。",
+          "ipa": "/hi wəz ˈbɑrɪŋ ðə ˈdɔr ˈwɛn aɪ əˈraɪvd æt ðə ˈbeɪs/",
+          "linking": [
+            "He was → was は弱形 /wəz/",
+            "was barring → 語末 /z/ が barring の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "barring the → 語末 /ŋ/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "I arrived → 語末 /aɪ/ が arrived の初頭 /ə/ に連結 [aɪ əˈraɪvd] アイ アライヴド",
+            "arrived at → 語末 /d/ が at の初頭 /æ/ に連結 [əˈraɪvd æt] アライヴド アット",
+            "at the → 語末 /t/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ワズ バーリング ザ ドア ウェン アイ アライヴド アット ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been Ving）",
+      "text": "had been barring",
+      "ipa": "/həd ˈbɪn ˈbɑrɪŋ/",
+      "examples": [
+        {
+          "en": "We had been barring the entrance for hours when reinforcements arrived.",
+          "ja": "援軍が到着したとき、私たちは数時間入り口をふさいできました。",
+          "ipa": "/wi həd ˈbɪn ˈbɑrɪŋ ðə ˈɛntrəns fɔr ˈaʊərz ˈwɛn ˌriɪnˈfɔrsmənt əˈraɪvd/",
+          "linking": [
+            "We had → had は弱形 /həd/",
+            "had been → 語末 /d/ が been の初頭 /b/ に後続（consonant+consonant、連結なし）、been は弱形 /bɪn/",
+            "been barring → 語末 /n/ が barring の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "barring the → 語末 /ŋ/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "for hours → 語末 /ɚ/ が hours の初頭 /aʊ/ に連結 [fɔr ˈaʊərz] ファー アワーズ",
+            "reinforcements arrived → 語末 /t/ が arrived の初頭 /ə/ に連結 [ˌriɪnˈfɔrsmənt əˈraɪvd] レインフォースメント アライヴド"
+          ],
+          "kana": "ウィー ハド ビン バーリング ザ エントランス フォー アワーズ ウェン レインフォースメント アライヴド"
+        },
+        {
+          "en": "They had been barring access to the nether for days to contain the ghasts.",
+          "ja": "彼らはガストを抑え込むために、何日もネザーへのアクセスを禁止していました。",
+          "ipa": "/ðeɪ həd ˈbɪn ˈbɑrɪŋ ˈæksɛs tu ðə ˈnɛðɚ fɔr ˈdeɪz tu kənˈteɪn ðə ˈɡæsts/",
+          "linking": [
+            "They had → had は弱形 /həd/",
+            "had been → 語末 /d/ が been の初頭 /b/ に後続（consonant+consonant、連結なし）、been は弱形 /bɪn/",
+            "been barring → 語末 /n/ が barring の初頭 /b/ に後続（consonant+consonant、連結なし）",
+            "barring access → 語末 /ŋ/ が access の初頭 /æ/ に後続（consonant+consonant、連結なし）",
+            "access to → 語末 /s/ が to の初頭 /t/ に後続（consonant+consonant、連結なし）、to は弱形 /tə/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/",
+            "nether for → 語末 /ɚ/ が for の初頭 /f/ に連結 [ˈnɛðɚ fɔr] ネザー フォー",
+            "for days → 語末 /ɚ/ が days の初頭 /d/ に連結 [fɔr ˈdeɪz] ファー デイズ",
+            "days to → 語末 /z/ が to の初頭 /t/ に後続（consonant+consonant、連結なし）、to は弱形 /tə/",
+            "to contain → to は弱形 /tə/",
+            "contain the → 語末 /n/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン バーリング アクセス トゥ ザ ネザー ファー デイズ トゥ カンテイン ザ ガスト"
+        }
+      ]
+    }
+  ]
+}

@@ -45,6 +45,36 @@
       "kana": "ウィ リーチ ア セットルメント アバウト ザボーダー ラヴアウアー クレイムズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "settlements",
+      "ipa": "/ˈsɛtəlmənts/",
+      "examples": [
+        {
+          "en": "I found several settlements near the river.",
+          "ja": "川の近くでいくつかの村を見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈsɛvərəl ˈsɛtəlmənts nɪr ðə ˈrɪvər/",
+          "linking": [
+            "near the → near の語末 /r/ が、the の弱形 /ðə/ に連なり [nɪrðə]→「ニアザ」",
+            "the → 機能語で弱形 /ðə/"
+          ],
+          "kana": "アイ ファウンド セヴラル セットルメンツ ニアザ リヴァー"
+        },
+        {
+          "en": "These settlements have trading villagers.",
+          "ja": "これらの村には商人がいます。",
+          "ipa": "/ðiz ˈsɛtəlmənts əv ˈtreɪdɪŋ ˈvɪlɪdʒərz/",
+          "linking": [
+            "have → 会話で弱形 /əv/ に弱化する [əv]→「アヴ」",
+            "trading villagers → /ŋ/ + /v/ で連結なし、各々独立"
+          ],
+          "kana": "ディーズ セットルメンツ アヴ トレイディング ヴィリジャーズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "reach a settlement",

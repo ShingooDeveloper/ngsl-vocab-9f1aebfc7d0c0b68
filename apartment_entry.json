@@ -56,5 +56,35 @@
       ],
       "kana": "アイ ビルダ ア ラージ アパートメント ビルディング フォー アワ サーバー カミュニティ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "apartments",
+      "ipa": "/əˈpɑɹtmənts/",
+      "examples": [
+        {
+          "en": "I found two apartments near the spawn point.",
+          "ja": "スポーンポイント近くで2つのアパートメントを見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈtuː əˈpɑɹtmənts ˈnɪɹ ðə ˈspoʊn pɔɪnt/",
+          "linking": [
+            "near の語末子音 /ɹ/ が the の初頭母音 /ə/ に連結 [ˈnɪɹðə] ニアザ",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "アイ ファウンド トゥー アパートメンツ ニアザ スポウン ポイント"
+        },
+        {
+          "en": "Our apartments protect from hostile mobs.",
+          "ja": "私たちのアパートメントは敵モブから守ります。",
+          "ipa": "/ˈaʊɹ əˈpɑɹtmənts prəˈtɛkt frəm ˈhɑstəl mɑbz/",
+          "linking": [
+            "Our の語末子音 /ɹ/ が apartments の初頭母音 /ə/ に連結 [ˈaʊɹəˈpɑɹtmənts] アワアパートメンツ",
+            "from は前置詞で弱形 /frəm/"
+          ],
+          "kana": "アワアパートメンツ プロテクト フラム ハスタル モブズ"
+        }
+      ]
+    }
   ]
 }

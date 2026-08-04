@@ -82,5 +82,161 @@
       ],
       "kana": "ザ イクスプロウジャン トール アパート マイ ウッデン ハウス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞：涙）",
+      "text": "tears",
+      "ipa": "/tɪrz/",
+      "examples": [
+        {
+          "en": "Tears of joy filled my eyes when I defeated the Ender Dragon.",
+          "ja": "エンダードラゴンを倒した時、喜びの涙が私の目に満ちました。",
+          "ipa": "/tɪrz əv dʒɔɪ fɪld maɪ aɪz wɛn aɪ dɪˈfiːtɪd ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "of は弱形 /əv/",
+            "when → /n/ で未開放",
+            "Ender → /ər/ で弱形"
+          ],
+          "kana": "ティアーズ・アヴ・ジョイ・フィルド・マイ・アイズ・ウェン・アイ・ディフィーティド・ザ・エンダー・ドラゴン"
+        },
+        {
+          "en": "The villager's tears showed his sadness about the destroyed village.",
+          "ja": "村人の涙は、破壊された村への悲しみを示していました。",
+          "ipa": "/ðə ˈvɪlɪdʒərz tɪrz ˈʃoʊd hɪz ˈsædnəs əˈbaʊt ðə dɪˈstrɔɪd ˈvɪlɪdʒ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "villager's → /z/",
+            "about → /t/ が未開放"
+          ],
+          "kana": "ザ・ビリジャーズ・ティアーズ・ショウド・ヒズ・サッドネス・アバウト・ザ・ディストロイド・ビリッジ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "tears",
+      "ipa": "/tɛrz/",
+      "examples": [
+        {
+          "en": "The enderman tears blocks with supernatural strength.",
+          "ja": "エンダーマンは超自然的な力でブロックを引き裂きます。",
+          "ipa": "/ðə ˈɛndərmæn tɛrz blɑks wɪð ˌsuːpərˈnætʃərəl ˈstrɛŋθ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "enderman tears → 子音+子音で自然に続く"
+          ],
+          "kana": "ザ・エンダーマン・テアーズ・ブロックス・ウィズ・スーパーナチュラル・ストレングス"
+        },
+        {
+          "en": "She tears through obstacles as if nothing can stop her.",
+          "ja": "彼女は何もが彼女を止めることができないかのように、障害を破り進みます。",
+          "ipa": "/ʃi tɛrz θruː ˈɑbstəkəlz æz ɪf ˈnʌθɪŋ kən stɑp hɜr/",
+          "linking": [
+            "tears through → 子音+子音で自然に続く",
+            "through → rhotic な /ɾ/",
+            "can → 弱形 /kən/"
+          ],
+          "kana": "シー・テアーズ・スルー・アブスタクルズ・アズ・イフ・ナッシング・カン・ストップ・ハー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "tore",
+      "ipa": "/tɔr/",
+      "examples": [
+        {
+          "en": "I tore down my old house to build a better fortress.",
+          "ja": "より良い要塞を建てるために、古い家を壊しました。",
+          "ipa": "/aɪ tɔr daʊn maɪ ˈoʊld haʊs tə bɪld ə ˈbɛtər ˈfɔrtəs/",
+          "linking": [
+            "tore down → 子音+子音で自然に続く",
+            "to → 弱形 /tə/",
+            "better → /ər/ で弱形"
+          ],
+          "kana": "アイ・トア・ダウン・マイ・オールド・ハウス・タ・ビルド・ア・ベター・フォーティス"
+        },
+        {
+          "en": "The explosion tore apart the entire castle structure.",
+          "ja": "爆発は城全体の構造を引き裂きました。",
+          "ipa": "/ðə ɪkˈsploʊʒən tɔr əˈpɑrt ðə ɪnˈtaɪər ˈkæsəl ˈstrʌkʃər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "explosion → /n/",
+            "tore の末子音 /r/ が apart の /ə/ に連結 [tɔrə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ・イクスプロージョン・トア・アパート・ザ・エンタイアー・キャッスル・ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "torn",
+      "ipa": "/tɔrn/",
+      "examples": [
+        {
+          "en": "The torn banner was all that remained of the base.",
+          "ja": "破れた旗は基地に残ったすべてでした。",
+          "ipa": "/ðə ˈtɔrn ˈbænər wəz ɔːl ðæt rɪˈmeɪnd əv ðə beɪs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "torn banner → 子音+子音で自然に続く",
+            "was → 弱形 /wəz/",
+            "of → 弱形 /əv/"
+          ],
+          "kana": "ザ・トアン・バナー・ワズ・オール・ザット・リメインド・アヴ・ザ・ベイス"
+        },
+        {
+          "en": "My armor was torn into pieces by the dragon's attack.",
+          "ja": "ドラゴンの攻撃で私の鎧は粉々に裂かれました。",
+          "ipa": "/maɪ ˈɑrmər wəz tɔrn ˈɪntu ˈpisəz baɪ ðə ˈdræɡənz əˈtæk/",
+          "linking": [
+            "armor → /ər/ で弱形",
+            "was → 弱形 /wəz/",
+            "torn into → 子音+母音で自然に続く"
+          ],
+          "kana": "マイ・アーマー・ワズ・トアン・イント・ピーシズ・バイ・ザ・ドラゴンズ・アタック"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "tearing",
+      "ipa": "/ˈtɛrɪŋ/",
+      "examples": [
+        {
+          "en": "Tearing down terrain is necessary for building big structures.",
+          "ja": "大きな構造物を建てるために、地形を壊すことが必要です。",
+          "ipa": "/ˈtɛrɪŋ daʊn təˈreɪn ɪz ˈnɛsəseri fər ˈbɪldɪŋ bɪɡ ˈstrʌkʃərz/",
+          "linking": [
+            "tearing down → /ŋ/ で自然に続く",
+            "is → 弱形 /ɪz/",
+            "necessary → /eri/",
+            "for → 弱形 /fər/"
+          ],
+          "kana": "テアリング・ダウン・テレイン・イズ・ネセサリー・ファー・ビルディング・ビッグ・ストラクチャーズ"
+        },
+        {
+          "en": "I'm tearing through the Nether searching for rare treasures.",
+          "ja": "ネザーで希少な宝を探して、破り進んでいます。",
+          "ipa": "/aɪm ˈtɛrɪŋ θruː ðə ˈnɛðər ˈsɜrtʃɪŋ fɔr ˈreɪr ˈtrɛʒərz/",
+          "linking": [
+            "I'm の /m/ が未開放で tearing の /t/ に続く",
+            "tearing through → /ŋ/ が /θ/ に未開放で続く",
+            "through → rhotic な /ɾ/",
+            "the は弱形 /ðə/",
+            "for → 弱形 /fər/"
+          ],
+          "kana": "アイム・テアリング・スルー・ザ・ネザー・サーチング・フォー・レア・トレジャーズ"
+        }
+      ]
+    }
   ]
 }

@@ -75,5 +75,37 @@
       ],
       "kana": "アワー ベイス オファーズアコモデーション アン プロテクション フラム ハースタル マブズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "accommodations",
+      "ipa": "/ˌækəˈmeɪʃənz/",
+      "examples": [
+        {
+          "en": "We built three stone accommodations for all the villagers.",
+          "ja": "私たちはすべての村人のために、3つの石造りの宿泊施設を建てました。",
+          "ipa": "[wiː bɪlt θriː stoʊn ˌækəˈmeɪʃənz fɚ ɑl ðə ˈvɪlɪdʒɚz]",
+          "linking": [
+            "stone の語末子音 /n/ が accommodations の初頭母音 /ə/ に連結",
+            "for は機能語で弱形 /fɚ/",
+            "the は機能語で弱形 /ðə/"
+          ],
+          "kana": "ウィー ビルト スリー ストウナコモデーションズ ファ オール ザ ヴィリジャーズ"
+        },
+        {
+          "en": "These accommodations provide shelter and protection from attacks.",
+          "ja": "これらの宿泊施設は攻撃からの避難所と保護を提供します。",
+          "ipa": "[ðiːz ˌækəˈmeɪʃənz prəˈvaɪd ˈʃɛltɚ ənd prəˈtɛkʃən frəm əˈtæks]",
+          "linking": [
+            "provide の語末子音 /d/ が shelter の初頭子音 /ʃ/ に続く",
+            "from の語末子音 /m/ が attacks の初頭母音 /ə/ に連結",
+            "and は機能語で弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ディーズ コモデーションズ プロヴァイド シェルター エン プロテクション フラマタックス"
+        }
+      ]
+    }
   ]
 }

@@ -57,5 +57,147 @@
       ],
       "kana": "アイ ゲット ア キック アウラヴ イクスプローリング ケイヴズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "kicks",
+      "ipa": "/kɪks/",
+      "examples": [
+        {
+          "en": "She kicks the sand block to collect it quickly.",
+          "ja": "彼女はサンドブロックを素早く集めるために蹴ります。",
+          "ipa": "/ʃi ˈkɪks ðə ˈsænd ˈblɑk tə kəˈlɛkt ɪt ˈkwɪkli/",
+          "linking": [
+            "she の末尾 /i/ が kicks の初期子音 /k/ に連結 [ʃi ˈkɪks] シー・キックス",
+            "to は弱形 /tə/ → タ"
+          ],
+          "kana": "シー キックス ザ サンド ブラック タ コレクト イット クイックリー"
+        },
+        {
+          "en": "Every player kicks gravel to get flint for crafting.",
+          "ja": "すべてのプレイヤーは、クラフティングのためのフリントを得るために砂利を蹴ります。",
+          "ipa": "/ˈɛvəri ˈpleɪər ˈkɪks ˈɡrævəl tə ˈɡɛt ˈflɪnt fɚ ˈkræftɪŋ/",
+          "linking": [
+            "to は弱形 /tə/ → タ",
+            "for は弱形 /fɚ/ → フォー"
+          ],
+          "kana": "エヴリー プレイヤー キックス グラベル タ ゲット フリント フォー クラフティング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "kicked",
+      "ipa": "/kɪkt/",
+      "examples": [
+        {
+          "en": "I kicked the dirt block and got seeds.",
+          "ja": "私は土ブロックを蹴って、種を手に入れました。",
+          "ipa": "/aɪ ˈkɪkt ðə ˈdɝt ˈblɑk ənd ˈɡɑt ˈsidz/",
+          "linking": [
+            "the は弱形 /ðə/ → ザ",
+            "and は弱形 /ənd/ → アンド"
+          ],
+          "kana": "アイ キクト ザ ダート ブラック アンド ゴット シーズ"
+        },
+        {
+          "en": "We kicked all the blocks off the tall tower.",
+          "ja": "私たちは高い塔からすべてのブロックを蹴り落とした。",
+          "ipa": "/wi ˈkɪkt ˈɔl ðə ˈblɑks ˈɔf ðə ˈtɔl ˈtaʊər/",
+          "linking": [
+            "kicked の末尾 /t/ が all の初期母音 /ɔ/ に連結 [ˈkɪkt ˈɔl] キクト・オール",
+            "the は弱形 /ðə/ → ザ"
+          ],
+          "kana": "ウィ キクト オール ザ ブラックス オフ ザ トール タウアー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "kicked",
+      "ipa": "/kɪkt/",
+      "examples": [
+        {
+          "en": "Having kicked the gravel around, we found diamonds.",
+          "ja": "砂利を蹴り回してから、ダイヤモンドを見つけました。",
+          "ipa": "/ˈhævɪŋ ˈkɪkt ðə ˈɡrævəl əˈraʊnd | wi ˈfaʊnd ˈdaɪməndz/",
+          "linking": [
+            "the は弱形 /ðə/ → ザ"
+          ],
+          "kana": "ハービング キクト ザ グラベル ア・ラウンド ウィ ファウンド ダイモンズ"
+        },
+        {
+          "en": "The mobs were kicked into a pit by our defense system.",
+          "ja": "モブは防御システムによってピットに蹴り込まれた。",
+          "ipa": "/ðə ˈmɑbz wɚ ˈkɪkt ˈɪntu ə ˈpɪt ˈbaɪ ˈaʊər dɪˈfɛns ˈsɪstəm/",
+          "linking": [
+            "a は弱形 /ə/ → ア"
+          ],
+          "kana": "ザ モブズ ワー キクト イント ア ピット バイ アワー ディフェンス システム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "kicking",
+      "ipa": "/ˈkɪkɪŋ/",
+      "examples": [
+        {
+          "en": "Kicking the ore blocks is much faster than mining.",
+          "ja": "鉱石ブロックを蹴ることは、採掘するよりもはるかに速いです。",
+          "ipa": "/ˈkɪkɪŋ ðə ˈɔr ˈblɑks ɪz ˈmʌtʃ ˈfæstər ðən ˈmaɪnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ → ザ",
+            "is は弱形 /ɪz/ → イズ"
+          ],
+          "kana": "キッキング ザ オアー ブラックス イズ マッチ ファスター ザン マイニング"
+        },
+        {
+          "en": "We're kicking gravel everywhere to find flint.",
+          "ja": "私たちはフリントを見つけるために、至る所で砂利を蹴っています。",
+          "ipa": "/wɪr ˈkɪkɪŋ ˈɡrævəl ɛvriˈwɛr tə ˈfaɪnd ˈflɪnt/",
+          "linking": [
+            "we're は /wɪr/ → ウィアー",
+            "to は弱形 /tə/ → タ"
+          ],
+          "kana": "ウィアー キッキング グラベル エヴリウェア タ ファインド フリント"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "kicks",
+      "ipa": "/kɪks/",
+      "examples": [
+        {
+          "en": "Three kicks are usually needed to break stone blocks.",
+          "ja": "通常、ストーンブロックを破壊するには3回の蹴りが必要です。",
+          "ipa": "/ˈθri ˈkɪks ɑr ˈjuːʒuəli ˈnidəd tə ˈbreɪk ˈstoʊn ˈblɑks/",
+          "linking": [
+            "three の末尾 /i/ が kicks の初期子音 /k/ に連結 [ˈθri ˈkɪks] スリー・キックス",
+            "are は弱形 /ɑr/ → アー",
+            "to は弱形 /tə/ → タ"
+          ],
+          "kana": "スリー キックス アー ユージュアリー ニーディッド タ ブレイク ストウン ブラックス"
+        },
+        {
+          "en": "A few kicks destroyed the decorative lamp we placed.",
+          "ja": "わずか数回の蹴りで、私たちが置いた装飾用ランプが壊れました。",
+          "ipa": "/ə ˈfju ˈkɪks dɪˈstrɔɪd ðə ˌdɛkərəˈtɪv ˈlæmp wi ˈpleɪst/",
+          "linking": [
+            "a は弱形 /ə/ → ア",
+            "few の末尾 /u/ が kicks の初期子音 /k/ に連結 [ˈfju ˈkɪks] フュー・キックス",
+            "the は弱形 /ðə/ → ザ"
+          ],
+          "kana": "ア フュー キックス ディストロイド ザ デコレイティヴ ランプ ウィ プレイスト"
+        }
+      ]
+    }
   ]
 }

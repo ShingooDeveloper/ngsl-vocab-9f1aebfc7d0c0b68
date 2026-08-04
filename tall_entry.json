@@ -1,62 +1,64 @@
 {
   "word": "tall",
-  "pos": "形容詞",
   "pos_all": "形容詞",
-  "ipa_us": "/tɔːl/",
-  "rank": 1782,
-  "level": "A1",
-  "hi": "tall",
-  "meanings": [
-    "【形容詞】背が高い、底から頂上までの距離が長い（having considerable height from bottom to top）",
-    "【形容詞】指定された身長がある（having a specified height）",
-    "【形容詞】（話や言い張りが）大げさな、信じられない（exaggerated or unlikely）"
-  ],
-  "examples": [
+  "forms": [
     {
-      "en": "That enderman is very tall and dangerous.",
-      "ja": "そのエンダーマンはとても背が高くて危険です。",
-      "ipa": "/ðæt ˈɛndɚmæn ɪz ˈvɛri ˈtɔːl ənd ˈdeɪndʒərəs/",
-      "linking": [
-        "tall and: l が a に連結。and は弱形 /ənd/。結果 [ˈtɔːlənd] トーラン",
-        "is は弱形 /ɪz/、very は /ˈvɛri/ で、子音+子音は連結せず自然に続く"
-      ],
-      "kana": "ザット エンダーマン イズ ベリー トーラン デンジャラス"
+      "type": "comparative",
+      "label": "比較級",
+      "text": "taller",
+      "ipa": "/ˈtɔlɚ/",
+      "examples": [
+        {
+          "en": "My tower is taller than before.",
+          "ja": "私のタワーは前より背が高い。",
+          "ipa": "[maɪ ˈtaʊɚ ɪz ˈtɔlɚ ðæn bɪˈfɔɚ]",
+          "kana": "マイ タウアー イズ トーラー ザン ビフォー",
+          "linking": [
+            "tower は語末 /ɚ/ で、is の母音 /ɪ/ に連結 [ˈtaʊɚɪz] タウアーイズ",
+            "is は助動詞で弱形 /ɪz/"
+          ]
+        },
+        {
+          "en": "The pillar I built is taller now.",
+          "ja": "私が建てた柱は今、背が高い。",
+          "ipa": "[ðə ˈpɪlɚ aɪ bɪɾɪz ˈtɔlɚ naʊ]",
+          "kana": "ザ ピラー アイ ビリズ トーラー ナウ",
+          "linking": [
+            "pillar は語末 /ɚ/ で、I の母音 /aɪ/ に連結 [ˈpɪlɚ aɪ] ピラーアイ",
+            "built は語末 /t/ が母音に挟まれてフラップ化し、is の /ɪ/ に連結 [bɪɾɪz] ビリズ"
+          ]
+        }
+      ]
     },
     {
-      "en": "We built a tall tower for our base.",
-      "ja": "我々は基地のために背の高い塔を建てました。",
-      "ipa": "/wi bɪlt ə ˈtɔːl ˈtaʊɚ fɚ ˈɑɚ ˈbeɪs/",
-      "linking": [
-        "built a: t が a の弱形に連結 [bɪltə] ビルダ",
-        "a tall: a の弱形 /ə/ と t が連結 [ətɔːl] アトーl"
-      ],
-      "kana": "ウィ ビルダ トール タウワー ファ アワー ベイス"
-    },
-    {
-      "en": "He told a tall tale about defeating the dragon.",
-      "ja": "彼はドラゴンを倒したという大げさな話をしました。",
-      "ipa": "/hi ˈtoʊld ə ˈtɔːl ˈteɪl əˈbaʊt dɪˈfiːtɪŋ ðə ˈdræɡən/",
-      "linking": [
-        "told a: d が a の弱形に連結 [ˈtoʊldə] トールダ",
-        "tale about: l が a に連結 [ˈteɪləˈbaʊt] テイラバウト",
-        "the dragon: the は弱形 /ðə/、d に連結 [ðəˈdræɡən] ザドラゴン"
-      ],
-      "kana": "ヒー トールダ トール テイラバウト ディフィーティング ザドラゴン"
-    }
-  ],
-  "idioms": [
-    {
-      "idiom": "tall tale",
-      "ja": "大げさな、誇張した話；信じられない話",
-      "example": "That's a tall tale about finding a whole stack of diamonds in one cave.",
-      "example_ja": "1つの洞窟でダイヤモンドを丸ごと1スタック見つけたなんて、それは大げさな話ですね。",
-      "ipa": "/ðæts ə ˈtɔːl ˈteɪl əˈbaʊt ˈfaɪndɪŋ ə ˈhoʊl ˈstæk əv ˈdaɪmənz ɪn ˈwʌn ˈkeɪv/",
-      "linking": [
-        "That's a: s が a に連結 [ðætsə] ザッツァ",
-        "a tall tale: a と t が連結し、l が a に連結 [ə ˈtɔːl ˈteɪləˈbaʊt]",
-        "of diamonds: of は弱形 /əv/、子音+子音で連結なし"
-      ],
-      "kana": "ザッツァ トール テイル アバウト ファインディング ア ホール スタック アヴ ダイモンズ イン ワン ケイヴ"
+      "type": "superlative",
+      "label": "最上級",
+      "text": "tallest",
+      "ipa": "/ˈtɔləst/",
+      "examples": [
+        {
+          "en": "The sky limit is the tallest point in my world.",
+          "ja": "スカイリミットは私のワールドで最も高いポイントだ。",
+          "ipa": "[ðə skaɪ ˈlɪmɪɾɪz ðə ˈtɔləst pɔɪɾɪn maɪ wɚld]",
+          "kana": "ザ スカイ リミリズ ザ トーレスト ポイリン マイ ワールド",
+          "linking": [
+            "limit は語末 /t/ が母音に挟まれてフラップ化し、is の /ɪ/ に連結 [ˈlɪmɪɾɪz] リミリズ",
+            "the は consonant /t/ の前で弱形 /ðə/ ザ",
+            "point は語末 /t/ が in の母音 /ɪ/ に挟まれてフラップ化 [pɔɪɾɪn] ポイリン"
+          ]
+        },
+        {
+          "en": "My obsidian tower is the tallest structure I ever built.",
+          "ja": "私の黒曜石のタワーは、私が今まで建てた中で最も高い構造物だ。",
+          "ipa": "[maɪ əbˈsɪdiən ˈtaʊɚɪz ðə ˈtɔləst ˈstrʌktʃɚ aɪ ˈɛvɚ bɪlt]",
+          "kana": "マイ アブシディアン タウアーイズ ザ トーレスト ストラクチャー アイ エヴァー ビルト",
+          "linking": [
+            "tower は語末 /ɚ/ で、is の母音 /ɪ/ に連結 [ˈtaʊɚɪz] タウアーイズ",
+            "the は consonant /t/ の前で弱形 /ðə/ ザ",
+            "structure は語末 /ɚ/ で、I の母音 /aɪ/ に連結 [ˈstrʌktʃɚ aɪ] ストラクチャーアイ"
+          ]
+        }
+      ]
     }
   ]
 }

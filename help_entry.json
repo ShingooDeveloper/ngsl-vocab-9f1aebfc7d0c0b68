@@ -30,7 +30,7 @@
       "ipa": "/ɪnˈtʃɑːntmənts ˈhelp juː sərˈvaɪv ˈlɔŋɡər/",
       "linking": [
         "help の末尾子音 /p/ が you の初頭母音 /j/ に続く（連結なし、子音+子音）",
-        "survive の末尾子音 /v/ が longer の初頭母音 /l/ に連結 [sərˈvaɪvl] サーバイヴル"
+        "survive の末尾子音 /v/ が longer の初頭子音 /l/ に続く（子音+子音）"
       ],
       "kana": "インチャントメンツ ヘルプ ユー サーバイヴラ ロンガー"
     },
@@ -55,7 +55,7 @@
       "linking": [
         "helped の末尾子音 /t/ が me の初頭母音 /m/ に連結（いや、/m/ は子音なので連結なし）。helped は /ˈhɛlpt/ で /t/ は未開放"
       ],
-      "kana": "マイ ティームメイト ヘルプト ミー アウト ホェン アイ ワズ スタック イン ラーバ"
+      "kana": "マイ ティームメイト ヘルプト ミー アウト ウェン アイ ワズ スタック イン ラーバ"
     },
     {
       "idiom": "can't help but",
@@ -214,6 +214,92 @@
             "Various potions の語末 /z/ で音声変化"
           ],
           "kana": "ベリアス ポーションズ オファー ヘルプザゲンスト ディファレント モブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is helping",
+      "ipa": "/ɪz ˈhɛlpɪŋ/",
+      "examples": [
+        {
+          "en": "I'm helping my teammate build this castle.",
+          "ja": "わたしはチームメイトがこの城を建築するのを手伝っています。",
+          "ipa": "/aɪm ˈhɛlpɪŋ maɪ ˈtiːmmeɪt ˈbɪld ðɪs ˈkæsəl/",
+          "linking": [
+            "'m は \"am\" の短縮形で弱形。\"I'm\" で1語のような発音"
+          ],
+          "kana": "アイム ヘルピング マイ ティームメイト ビルド ディス キャスル"
+        },
+        {
+          "en": "They are helping defend the village.",
+          "ja": "彼らは村を守るのを手伝っています。",
+          "ipa": "/ðeɪ ɑr ˈhɛlpɪŋ dɪˈfɛnd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "are → 機能語（助動詞）で弱形 /ər/ に弱化",
+            "the → 機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ゼイ アー ヘルピング ディフェンド ザ ビリッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was helping",
+      "ipa": "/wəz ˈhɛlpɪŋ/",
+      "examples": [
+        {
+          "en": "She was helping me escape when we got surrounded.",
+          "ja": "彼女は、われわれが囲まれた時、わたしが逃げるのを手伝っていました。",
+          "ipa": "/ʃi wəz ˈhɛlpɪŋ mi ɪˈskeɪp ˈwɛn wi ɡɑt səˈraʊndɪd/",
+          "linking": [
+            "was → 機能語（助動詞）で弱形 /wəz/ に弱化",
+            "helping me → 末尾 /ŋ/ が \"me\" の子音 /m/ に続く（連結なし）"
+          ],
+          "kana": "シー ワズ ヘルピング ミー イスケイプ ウェン ウィ ガット サラウンディッド"
+        },
+        {
+          "en": "The enchantments were helping us survive the night.",
+          "ja": "その魔法はわれわれがその夜を生き残るのを手伝っていました。",
+          "ipa": "/ðə ɪnˈtʃɑːntmənts wər ˈhɛlpɪŋ əs sərˈvaɪv ðə ˈnaɪt/",
+          "linking": [
+            "the → 機能語で弱形 /ðə/ に弱化",
+            "were → 機能語（助動詞）で弱形 /wər/ に弱化"
+          ],
+          "kana": "ザ インチャントメンツ ワー ヘルピング アス サーバイヴ ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been helping",
+      "ipa": "/həd bɪn ˈhɛlpɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we finished, we had been helping each other for hours.",
+          "ja": "終わるまでに、わたしたちは数時間もお互いを手伝っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃt, wi həd bɪn ˈhɛlpɪŋ ˈiːtʃ ˈʌðər fər ˈaʊərz/",
+          "linking": [
+            "the → 機能語で弱形 /ðə/ に弱化",
+            "had → 機能語（助動詞）で弱形 /həd/ に弱化",
+            "been → 機能語で弱形 /bɪn/ に弱化",
+            "for → 機能語で弱形 /fər/ に弱化"
+          ],
+          "kana": "バイ ザ タイム ウィ フィニシュト、ウィ ハド ビン ヘルピング イーチ アザー ファー アワーズ"
+        },
+        {
+          "en": "They had been helping defend the fortress all week.",
+          "ja": "彼らは1週間ずっと要塞を守るのを手伝っていました。",
+          "ipa": "/ðeɪ həd bɪn ˈhɛlpɪŋ dɪˈfɛnd ðə ˈfɔːrtəs ɔːl ˈwiːk/",
+          "linking": [
+            "had → 機能語（助動詞）で弱形 /həd/ に弱化",
+            "been → 機能語で弱形 /bɪn/ に弱化",
+            "the → 機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ゼイ ハド ビン ヘルピング ディフェンド ザ フォートレス オール ウィーク"
         }
       ]
     }

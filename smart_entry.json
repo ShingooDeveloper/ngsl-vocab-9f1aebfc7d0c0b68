@@ -65,5 +65,64 @@
       ],
       "kana": "ザット プレイヤー イザ スマート クッキー - ゼイ ファウンド ダイアモンズ クイックリー"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "smarter",
+      "ipa": "/ˈsmɑɹtɚ/",
+      "examples": [
+        {
+          "en": "My farm is smarter than yours.",
+          "ja": "私のファームはあなたのより頭がいいです。",
+          "ipa": "/maɪ fɑɹm ɪz ˈsmɑɹtɚ ðæn jɔɹz/",
+          "linking": [
+            "farm の末尾子音 /m/ が is の初頭母音 /ɪ/ に連結 [ˈfɑɹmɪz] ファーミズ"
+          ],
+          "kana": "マイ ファーミズ スマーター ザン ヨーアーズ"
+        },
+        {
+          "en": "This design is smarter for mining efficiency.",
+          "ja": "このデザインは採掘効率が高いです。",
+          "ipa": "/ðɪs dɪˈzaɪn ɪz ˈsmɑɹtɚ fɔɹ ˈmaɪnɪŋ ɪˈfɪʃənsi/",
+          "linking": [
+            "design の末尾子音 /n/ が is の初頭母音 /ɪ/ に連結 [dɪˈzaɪnɪz] デザイニズ",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ディス デザイニズ スマーター ファ マイニング イフィシェンシー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "smartest",
+      "ipa": "/ˈsmɑɹtəst/",
+      "examples": [
+        {
+          "en": "That's the smartest mine I've ever seen.",
+          "ja": "それは私が見たことがある最も賢い鉱山です。",
+          "ipa": "/ðæts ðə ˈsmɑɹtəst ˈmaɪn aɪv ˈɛvɚ ˈsin/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "mine の末尾子音 /n/ が I've の初頭音 /aɪ/ に連結 [ˈmaɪn aɪv] マイナイヴ",
+            "I've の末尾子音 /v/ が ever の初頭母音 /ɛ/ に連結 [aɪv ɛvɚ] アイヴェヴァー"
+          ],
+          "kana": "ザッツ ザ スマーテスト マイナイヴ エヴァー シーン"
+        },
+        {
+          "en": "Find a location—it's the smartest move overall.",
+          "ja": "位置を見つける—それは全体的に最も賢い動きです。",
+          "ipa": "/ˈfaɪnd ə loʊˈkeɪʃən - ɪts ðə ˈsmɑɹtəst muv oʊvɚˈɔl/",
+          "linking": [
+            "Find の末尾子音 /d/ が a の初頭母音 /ə/ に連結 [ˈfaɪndə] ファインダ",
+            "the は弱形 /ðə/",
+            "move の末尾子音 /v/ が overall の初頭母音 /oʊ/ に連結 [muv oʊvɚˈɔl] ムヴォーヴァーロール"
+          ],
+          "kana": "ファインダ ロケーション - イッツ ザ スマーテスト ムヴォーヴァーロール"
+        }
+      ]
+    }
   ]
 }

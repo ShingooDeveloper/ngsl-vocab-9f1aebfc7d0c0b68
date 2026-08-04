@@ -43,5 +43,35 @@
       "kana": "マイ ブラック ブレイキング スタティスティッキズ インプレッシヴ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "statistics",
+      "ipa": "/stəˈtɪstɪks/",
+      "examples": [
+        {
+          "en": "View the statistics about your completed achievements.",
+          "ja": "達成した業績についての統計を表示してください。",
+          "ipa": "/ˈvju ðə stəˈtɪstɪks əˈbaʊt jɔr kəmˈpliːtɪd əˈtʃivmənts/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "statistics の語末子音 /s/（複数形では実際に /z/ に濁る）が about の初声母音 /ə/ に連結 [stəˈtɪstɪkz əˈbaʊt] スタティスティッキザバウト"
+          ],
+          "kana": "ビュー ザ スタティスティッキザバウト ユアー コンプリーティド ア チーヴメンツ"
+        },
+        {
+          "en": "These statistics show your mining efficiency over the last week.",
+          "ja": "これらの統計は、先週のあなたの採掘効率を示しています。",
+          "ipa": "/ðiz stəˈtɪstɪks ˈʃoʊ jɔr ˈmaɪnɪŋ ɪˈfɪʃənsi ˈoʊvər ðə ˈlæst ˈwik/",
+          "linking": [
+            "mining の語末子音 /ŋ/ が efficiency の初声母音 /ɪ/ に連結 [ˈmaɪnɪŋɪˈfɪʃənsi] マイニングギフィシェンシー",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザーズ スタティスティックス ショー ユアー マイニングギフィシェンシー オーヴァー ザ ラスト ウィック"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

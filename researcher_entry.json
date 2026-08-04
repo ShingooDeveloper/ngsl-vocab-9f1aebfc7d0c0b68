@@ -45,5 +45,35 @@
       "kana": "ザ リサーチャー ディスカヴァード ア ニュー マイニング テクニーク ファー アブシディアン"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "researchers",
+      "ipa": "/rɪˈsɜrʧərz/",
+      "examples": [
+        {
+          "en": "Researchers discovered new mob spawning mechanics in the Nether.",
+          "ja": "研究者たちはネザーの新しいモブスポーン仕組みを発見した。",
+          "ipa": "/rɪˈsɜrʧərz dɪˈskʌvərd ˈnu ˈmɑb ˈspɑnɪŋ məˈkænɪks ɪn ðə ˈnɛðər/",
+          "linking": [
+            "mechanics の語末子音 /s/ が in の母音 /ɪ/ に連結 [ˈkænɪksɪn]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "リサーチャーズ ディスカヴァード ニュー マブ スパーニング メカニクシン ザ ネザー"
+        },
+        {
+          "en": "Several researchers studied how to optimize farm efficiency on their server.",
+          "ja": "複数の研究者たちは自分たちのサーバーで農場効率を最適化する方法を研究した。",
+          "ipa": "/ˈsɛvrəl rɪˈsɜrʧərz ˈstʌdid ˈhaʊ tə ˈɑptɪˌmaɪz ˈfɑrm ɪˈfɪʃənsi ɑn ðɛr ˈsɜrvər/",
+          "linking": [
+            "to は弱形 /tə/、optimize の /ə/ に続く",
+            "efficiency の語末 /si/ から on の /ə/ への遷移"
+          ],
+          "kana": "セヴラル リサーチャーズ スタディド ハウ タ アプティマイズ ファーム イフィシェンシー オン ゼア サーヴァー"
+        }
+      ]
+    }
+  ]
 }

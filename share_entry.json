@@ -228,6 +228,105 @@
           "kana": "ウィー ワー シェアリング フード ウェン ア クリーパー サッデンリー アピアード"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is sharing",
+      "ipa": "/ɪz ˈʃɛrɪŋ/",
+      "examples": [
+        {
+          "en": "She is sharing her enchanted sword with the new player.",
+          "ja": "彼女は新しいプレイヤーに魔法で強化された剣を分け合っている。",
+          "ipa": "/ʃi ɪz ˈʃɛrɪŋ hɚ ɪnˈtʃæntɪd sɔrd wɪð ðə ˈnuː ˈpleɪɚ/",
+          "linking": [
+            "is は弱形 /ɪz/ に弱化。",
+            "sharing の末尾 /ŋ/ が her の初頭 /h/ に続く。連結なし。her は弱形 /ɚ/。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "シー イズ シェアリング ハー インチャンティド ソード ウィズ ザ ニュー プレイヤー"
+        },
+        {
+          "en": "They are sharing food and tools near the campfire.",
+          "ja": "彼らはキャンプファイアの近くで食料と道具を分け合っている。",
+          "ipa": "/ðeɪ ɚ ˈʃɛrɪŋ fuːd ənd tulz nɪr ðə ˈkæmpˌfaɪr/",
+          "linking": [
+            "are は弱形 /ɚ/ に弱化。",
+            "sharing の末尾 /ŋ/ が food の初頭 /f/ に続く。連結なし。",
+            "and は機能語で弱形 /ənd/ に弱化。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "ゼイ ア シェアリング フード アンド トゥールズ ニア ザ キャンプファイアー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sharing",
+      "ipa": "/wəz ˈʃɛrɪŋ/",
+      "examples": [
+        {
+          "en": "I was sharing cobblestone with my friend when the storm started.",
+          "ja": "嵐が始まったとき、私は友達と丸石を分け合っていた。",
+          "ipa": "/aɪ wəz ˈʃɛrɪŋ ˈkɑbəlˌstoʊn wɪð maɪ frɛnd wɛn ðə stɔrm ˈstɑɾɪd/",
+          "linking": [
+            "was は弱形 /wəz/ に弱化。",
+            "sharing の末尾 /ŋ/ が cobblestone の初頭 /k/ に続く。連結なし。",
+            "with の末尾 /ð/ が my の初頭 /m/ に続く。連結なし。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "アイ ワズ シェアリング コッブルストウン ウィズ マイ フレンド ウェン ザ ストーム スターリド"
+        },
+        {
+          "en": "We were sharing information about the hidden treasure.",
+          "ja": "私たちは隠された宝物について情報を分け合っていた。",
+          "ipa": "/wi wɚ ˈʃɛrɪŋ ɪnfɚˈmeɪʃən əˈbaʊt ðə ˈhɪdən ˈtrɛtʃɚ/",
+          "linking": [
+            "were は弱形 /wɚ/ に弱化。",
+            "sharing の末尾 /ŋ/ が information の初頭 /ɪ/ に続く。連結なし。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "ウィー ワー シェアリング インフォメーション アバウト ザ ヒドゥン トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sharing",
+      "ipa": "/həd bɪn ˈʃɛrɪŋ/",
+      "examples": [
+        {
+          "en": "By the time reinforcements arrived, we had been sharing the last food supplies.",
+          "ja": "援軍が到着した時点で、私たちは最後の食料補給品を分け合っていた。",
+          "ipa": "/baɪ ðə taɪm ˌrinˈfɔrsmənt əˈraɪvd | wi həd bɪn ˈʃɛrɪŋ ðə læst fuːd səˈplaɪz/",
+          "linking": [
+            "by は /baɪ/。",
+            "the は弱形 /ðə/。",
+            "had は弱形 /həd/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "the は弱形 /ðə/。",
+            "last の末尾 /t/ が food の初頭 /f/ に続く。連結なし（未開放）。"
+          ],
+          "kana": "バイ ザ タイム リインフォースメント アライヴド、ウィー ハド ビン シェアリング ザ ラスト フード サプライズ"
+        },
+        {
+          "en": "The team had been sharing secret coordinates for weeks when the rival clan attacked.",
+          "ja": "ライバルクランが攻撃したとき、チームは数週間秘密の座標を分け合っていた。",
+          "ipa": "/ðə tiːm həd bɪn ˈʃɛrɪŋ ˈsikrɪt ˌkoʊˈɔrdənət fɚ wiks wɛn ðə ˈraɪvəl klænə ˈtækt/",
+          "linking": [
+            "the は弱形 /ðə/。",
+            "had は弱形 /həd/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "sharing の末尾 /ŋ/ が secret の初頭 /s/ に続く。連結なし。",
+            "for は弱形 /fɚ/。",
+            "the は弱形 /ðə/。",
+            "clan の末尾 /n/ が attacked の初頭 /ə/ に連結。[klænə] クラナ。"
+          ],
+          "kana": "ザ ティーム ハド ビン シェアリング シークレット コオーディネット ファ ウィークス ウェン ザ ライバル クラナ タクト"
+        }
+      ]
     }
   ]
 }

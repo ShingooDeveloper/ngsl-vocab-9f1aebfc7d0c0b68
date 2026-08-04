@@ -43,5 +43,147 @@
       "kana": "ウィ コンテスティド ザイア ビルディング クレイム エン ウォン ザ コンペティション"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "contests",
+      "ipa": "/ˈkɑn.tɛsts/",
+      "examples": [
+        {
+          "en": "We host building contests in our server.",
+          "ja": "私たちのサーバーで建築コンテストを開催しています。",
+          "ipa": "/wi hoʊst ˈbɪl.dɪŋ ˈkɑn.tɛsts ɪn ˈaʊɚ ˈsɚvɚ/",
+          "linking": [
+            "contests in → contests の語末 /s/ が in の /ɪ/ に連結 [kɑnˈtɛ.sɪn]",
+            "in our → in の語末 /n/ が our の /aʊ/ に連結 [ɪˈnaʊɚ]"
+          ],
+          "kana": "ウィ ホウスト ビルディング コンテスイン アワー サーバー"
+        },
+        {
+          "en": "Monthly contests reward the best builders with special prizes.",
+          "ja": "月間コンテストは最高のビルダーに特別な賞を与えます。",
+          "ipa": "/ˈmʌnθli ˈkɑn.tɛsts rɪˈwɔrd ðə ˈbɛst ˈbɪl.dɚz wɪð ˈspɛʃəl ˈpraɪ.zɪz/",
+          "linking": [
+            "contests reward → contests の語末 /s/ が reward の /r/ に連結 [kɑnˈtɛ.sɹɪˈwɔrd]",
+            "builders with → builders の語末 /z/ が with の /w/ に連結なし（子音+子音）"
+          ],
+          "kana": "マンスリー コンテストリワード ザ ベスト ビルダーズ ウィズ スペシャル プライズィズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "contests",
+      "ipa": "/kənˈtɛsts/",
+      "examples": [
+        {
+          "en": "This mod contests the vanilla building rules.",
+          "ja": "このModはバニラの建築ルールに異議を唱えています。",
+          "ipa": "/ðɪs mɑd kənˈtɛsts ðə vəˈnɪ.lə ˈbɪl.dɪŋ ˈrulz/",
+          "linking": [
+            "contests the → contests の語末 /s/ が the の /ð/ に連結 [kənˈtɛs.ðə]",
+            "vanilla b → vanilla の弱形が building の /b/ に連結"
+          ],
+          "kana": "ディス マッド コンテスザ ヴァニラビルディング ルーズ"
+        },
+        {
+          "en": "He contests every decision the admin makes on the server.",
+          "ja": "彼はサーバーでアドミンが下すあらゆる決定に異議を唱えます。",
+          "ipa": "/hi kənˈtɛsts ˈɛv.ri dɪˈsɪ.ʒən ðə ˈæd.mɪn meɪks ɑn ðə ˈsɚvɚ/",
+          "linking": [
+            "contests every → contests の /s/ が every の /ɛ/ に連結 [kənˈtɛ.sɛv.ɚi]",
+            "the admin → the の弱形 /ə/ が admin の /æ/ に連結"
+          ],
+          "kana": "ヒ コンテスエブリ ディシジョン ザ アドミン メイクス オン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "contested",
+      "ipa": "/kənˈtɛs.təd/",
+      "examples": [
+        {
+          "en": "We contested the decision to ban flying.",
+          "ja": "私たちは飛行禁止の決定に異議を唱えました。",
+          "ipa": "/wi kənˈtɛs.təd ðə dɪˈsɪ.ʒən tə bæn ˈflaɪ.ɪŋ/",
+          "linking": [
+            "contested the → contested の /d/ が the の /ð/ に連結 [kənˈtɛs.təðə]",
+            "to ban → to の弱形 /ə/ が ban の /b/ に連結"
+          ],
+          "kana": "ウィ コンテスティド ザ ディシジョン タバン フライイング"
+        },
+        {
+          "en": "Several players contested the winner of last month's contest.",
+          "ja": "数人のプレイヤーが先月のコンテストの勝者に異議を唱えました。",
+          "ipa": "/ˈsɛv.rəl ˈpleɪ.ɚz kənˈtɛs.təd ðə ˈwɪn.ɚ əv ˈlæst ˈmʌnθz ˈkɑn.tɛst/",
+          "linking": [
+            "several players → several の /əl/ が players の /p/ に連結",
+            "contested the → contested の /d/ が the の /ð/ に連結 [kənˈtɛs.təðə]"
+          ],
+          "kana": "セブラル プレイアーズ コンテスティド ザ ウィナー アヴ ラースト マンスズ コンテスト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "contested",
+      "ipa": "/ˈkɑn.tɛs.təd/",
+      "examples": [
+        {
+          "en": "Our contested rules were removed by the admin.",
+          "ja": "異議を唱えられた私たちのルールはアドミンによって削除されました。",
+          "ipa": "/ˈaʊɚ ˈkɑn.tɛs.təd ˈrulz wɚ rɪˈmuvd baɪ ðə ˈæd.mɪn/",
+          "linking": [
+            "contested r → contested の /d/ が rules の /r/ に連結 [ˈkɑn.tɛs.tədɹulz]",
+            "removed b → removed の /d/ が by の /b/ に連結"
+          ],
+          "kana": "アワー コンテステッドルーズ ウァー リムーヴドバイ ザ アドミン"
+        },
+        {
+          "en": "The contested build was eventually approved after review.",
+          "ja": "異議を唱えられたビルドはレビュー後に最終的に承認されました。",
+          "ipa": "/ðə ˈkɑn.tɛs.təd ˈbɪld wəz ɪˈvɛn.tʃu.ə.li əˈpruvd ˈæf.tɚ rɪˈvju/",
+          "linking": [
+            "the contested → the と contested は子音+子音で連結なし",
+            "eventually approved → eventually の /i/ が approved の /ə/ に連結 [ɪˈvɛn.tʃu.ə.liəˈpruvd]"
+          ],
+          "kana": "ザ コンテステッド ビルド ワズ イヴェンチュアリ アプルーヴド アフター リビュー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "contesting",
+      "ipa": "/kənˈtɛs.tɪŋ/",
+      "examples": [
+        {
+          "en": "Players are contesting the new resource rules.",
+          "ja": "プレイヤーたちは新しいリソースルールに異議を唱えています。",
+          "ipa": "/ˈpleɪ.ɚz ar kənˈtɛs.tɪŋ ðə ˈnu ˈri.soʊrs ˈrulz/",
+          "linking": [
+            "the new → the の弱形 /ə/ が new の /n/ に連結 [ðəˈnu]",
+            "new resource → new と resource の間に子音+子音なし（/u/ から /r/ へ glide）"
+          ],
+          "kana": "プレイアーズ アー コンテスティング ザニュー リソース ルーズ"
+        },
+        {
+          "en": "Contesting blocks without proof is pointless.",
+          "ja": "証拠なしにブロックに異議を唱えることは無意味です。",
+          "ipa": "/kənˈtɛs.tɪŋ blɑks wɪðˈaʊt ˈpruf ɪz ˈpɔɪ.nt.ləs/",
+          "linking": [
+            "proof is → proof の /f/ が is の /ɪ/ に連結 [ˈprufɪz]",
+            "is pointless → is と pointless は子音+子音で連結なし"
+          ],
+          "kana": "コンテスティング ブロックス ウィザウト プルーフィズ ポイントレス"
+        }
+      ]
+    }
+  ]
 }

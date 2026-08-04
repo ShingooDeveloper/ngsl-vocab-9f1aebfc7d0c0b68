@@ -47,5 +47,36 @@
       "kana": "フィシズ エン エクセレント ソースラヴ プロウティン ヒア"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "proteins",
+      "ipa": "/ˈproʊtɪnz/",
+      "examples": [
+        {
+          "en": "Proteins in meat are important for your survival.",
+          "ja": "肉に含まれるタンパク質は生き残りのために重要です。",
+          "ipa": "[ˈproʊtɪnz ɪn ˈmit ɑr ɪmˈpɔrtənt fɔr jɔr sərˈvaɪvəl]",
+          "linking": [
+            "語末子音 /z/ が母音 /ɪ/ に連結 [ˈproʊtɪnz ɪn] — proteins in",
+            "語末子音 /t/ が母音 /ɑ/ に連結 [ˈmit ɑr] — meat are",
+            "語末子音 /r/ が母音 /ɪ/ に連結 [ɑr ɪmˈpɔrtənt] — are important"
+          ],
+          "kana": "プロティンズ イン ミート ア インポータント フォー ユア サーヴァイヴァル"
+        },
+        {
+          "en": "Proteins are helpful to all players.",
+          "ja": "タンパク質はすべてのプレイヤーに役立ちます。",
+          "ipa": "[ˈproʊtɪnz ɑr ˈhɛlpfəl tu ɔl ˈpleɪərz]",
+          "linking": [
+            "語末子音 /z/ が母音 /ɑ/ に連結 [ˈproʊtɪnz ɑr] — proteins are",
+            "語末子音 /t/ が母音 /ɔ/ に連結 [tu ɔl] — to all"
+          ],
+          "kana": "プロティンザ ヘルプフル トゥー オール プレイアーズ"
+        }
+      ]
+    }
+  ]
 }

@@ -40,5 +40,35 @@
       "kana": "ブレディズリー レストゥァーズ ユォー ハンガー ポインツ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "breads",
+      "ipa": "/brɛdz/",
+      "examples": [
+        {
+          "en": "I got a lot of different breads to trade.",
+          "ja": "取引用にいろいろなパンを集めた。",
+          "ipa": "[aɪ ˈɡɑɾə ˈlɑɾəv ˈdɪfərənt brɛdz tu ˈtreɪd]",
+          "linking": [
+            "got a → got の語末 t が母音に挟まれフラップ化し連結 [ɡɑɾə]",
+            "lot of → lot の語末 t が母音に挟まれフラップ化し連結 [ˈlɑɾəv]。of は弱形 /əv/"
+          ],
+          "kana": "アイ ガラ ロァラブ ディフレント ブレッズ トゥ トレイド"
+        },
+        {
+          "en": "We put all the breads away safely.",
+          "ja": "すべてのパンを安全にしまった。",
+          "ipa": "[wi ˈpʊɾɔl ðə brɛdz əˈweɪ ˈseɪfli]",
+          "linking": [
+            "put all → put の語末 t が母音に挟まれフラップ化 [pʊɾɔl]",
+            "the breads → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ プラオル ザ ブレッズ アウェイ セイフリ"
+        }
+      ]
+    }
+  ]
 }

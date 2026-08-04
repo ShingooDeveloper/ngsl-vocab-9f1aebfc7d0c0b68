@@ -50,5 +50,71 @@
       "kana": "ウィ ストップ アット ザ ヴィリッジ ブライフリ ザェン ラッシュ タ ザ ストロングホウルド"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（副詞）",
+      "text": "more briefly",
+      "ipa": "/mɔr ˈbraɪfli/",
+      "examples": [
+        {
+          "en": "We explained the redstone circuit more briefly than usual.",
+          "ja": "私たちはレッドストーン回路をいつもより簡潔に説明しました。",
+          "ipa": "/wi ɪkˈspleɪnd ðə ˈrɛdˌstɑn ˈsɝːkɪt mɔr ˈbraɪfli ðən ˈjuʒuəl/",
+          "linking": [
+            "explained the → /d/ が子音に続き未開放 [ɪkˈspleɪnd̚ ðə]、the は弱形 /ðə/",
+            "circuit more → /t/ が子音に続き未開放 [ˈsɝːkɪt̚ mɔr]",
+            "more briefly → /r/ が母音 /b/ に連結 [mɔr ˈbraɪfli] モア ブライフリ",
+            "than usual → /n/ が子音に先行 [ðən ˈjuʒuəl]"
+          ],
+          "kana": "ウィ イクスプレインド ザ レッドストーン サーキット モア ブライフリ ザン ユージュアル"
+        },
+        {
+          "en": "The instructions were more briefly worded this time.",
+          "ja": "今回の指示はより簡潔に書かれました。",
+          "ipa": "/ðə ɪnˈstrʌkʃənz wɚ mɔr ˈbraɪfli ˈwɝːdəd ðɪs ˈtaɪm/",
+          "linking": [
+            "the instructions → the は弱形 /ðə/",
+            "instructions were → /z/ が子音に先行 [ɪnˈstrʌkʃənz wɚ]",
+            "were more → /r/ が母音 /m/ に連結 [wɚ mɔr] ワー モア",
+            "more briefly → /r/ が母音 /b/ に連結 [mɔr ˈbraɪfli]"
+          ],
+          "kana": "ザ インストラクションズ ワー モア ブライフリ ワーディッド ジス タイム"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（副詞）",
+      "text": "most briefly",
+      "ipa": "/moʊst ˈbraɪfli/",
+      "examples": [
+        {
+          "en": "The admin explained the rules most briefly during the update.",
+          "ja": "管理者はアップデート中にルールを最も簡潔に説明しました。",
+          "ipa": "/ðə ˈædmɪn ɪkˈspleɪnd ðə ˈrulz moʊst ˈbraɪfli ˈdjʊrɪŋ ðə ʌpˈdeɪt/",
+          "linking": [
+            "the admin → the は弱形 /ðə/",
+            "admin explained → /n/ が母音に連結 [ˈædmɪn ɪkˈspleɪnd̚]",
+            "most briefly → /t/ が母音 /b/ に連結 [moʊst ˈbraɪfli] モウスト ブライフリ",
+            "during the → /ŋ/ が子音に先行 [ˈdjʊrɪŋ̚ ðə]、the は弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン イクスプレインド ザ ルールズ モウスト ブライフリ ジュアリング ザ アップデイト"
+        },
+        {
+          "en": "He answered most briefly, giving only the essential facts about the spawn point.",
+          "ja": "彼は最も簡潔に答えて、スポーンポイントについての本質的な事実だけを述べました。",
+          "ipa": "/hi ˈænswərd moʊst ˈbraɪfli | ˈɡɪvɪŋ ˈoʊnli ðə ɪˈsɛnʃəl ˈfækts əˈbaʊt ðə ˈspoʊn ˈpɔɪnt/",
+          "linking": [
+            "answered most → /d/ が子音に続く [ˈænswərd̚ moʊst]",
+            "most briefly → /t/ が母音 /b/ に連結 [moʊst ˈbraɪfli]",
+            "giving only → /ŋ/ が母音に先行 [ˈɡɪvɪŋ ˈoʊnli] ギビング オウンリ",
+            "facts about → /s/ が母音に連結 [ˈfækts əˈbaʊt] ファクツ アバウト"
+          ],
+          "kana": "ヒー アンサード モウスト ブライフリ、ギビング オウンリ ザ エッセンシャル ファクツ アバウト ザ スポーン ポイント"
+        }
+      ]
+    }
+  ]
 }

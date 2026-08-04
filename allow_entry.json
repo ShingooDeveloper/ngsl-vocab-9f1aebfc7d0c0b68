@@ -194,6 +194,102 @@
           "kana": "バイ アラウイング モッズ ザ サーヴァー ビケイム マッチ モア ファン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is allowing",
+      "ipa": "/ɪz əˈlaʊɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is allowing players to use TNT in the creative zone.",
+          "ja": "管理者はクリエイティブゾーンでプレイヤーがTNTを使用することを許可しています。",
+          "ipa": "/ðə ˈædmɪn ɪz əˈlaʊɪŋ ˈpleɪɚz tə ˈjuːz ˌtiːɛnˈti ɪn ðə kriˈeɪtɪv zoʊn/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。",
+            "is は機能語（助動詞）で弱形 /ɪz/。",
+            "allowing の末尾 /ŋ/ と players の初頭 /p/ が続く。連結なし。",
+            "to は機能語で弱形 /tə/。"
+          ],
+          "kana": "ザ アドミン イズ アラウイング プレイヤーズ タ ユーズ ティーエンティー イン ザ クリエイティヴ ゾーン"
+        },
+        {
+          "en": "I am allowing my friend to explore the new building area.",
+          "ja": "私は友人が新しい建造地域を探索することを許可しています。",
+          "ipa": "/aɪ æm əˈlaʊɪŋ maɪ frɛnd tə ɪkˈsplɔr ðə nuː ˈbɪldɪŋ ˈɛriə/",
+          "linking": [
+            "I の末尾 /aɪ/ と am の初頭 /æ/ が連結。[aɪ̯əm] アイアム",
+            "am は機能語（助動詞）で弱形 /əm/。",
+            "my の末尾 /aɪ/ と friend の初頭 /f/ が連結。[maɪf] マイフ",
+            "to は機能語で弱形 /tə/。"
+          ],
+          "kana": "アイ アム アラウイング マイフ フレンド タ エクスプロア ザ ヌー ビルディング エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was allowing",
+      "ipa": "/wəz əˈlaʊɪŋ/",
+      "examples": [
+        {
+          "en": "The server was allowing donations when it first started.",
+          "ja": "サーバーが最初に開始したときは寄付を許可していました。",
+          "ipa": "/ðə ˈsɝvɚ wəz əˈlaʊɪŋ doʊˈneɪʃənz wɛn ɪt ˈfɚst ˈstɑrtɪd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。",
+            "was は機能語（助動詞）で弱形 /wəz/。",
+            "allowing の末尾 /ŋ/ と donations の初頭 /d/ が続く。連結なし。"
+          ],
+          "kana": "ザ サーヴァー ワズ アラウイング ドネーションズ ウェン イット ファースト スターティド"
+        },
+        {
+          "en": "They were allowing unrestricted mining before the update.",
+          "ja": "アップデート前、彼らは無制限の採掘を許可していました。",
+          "ipa": "/ðeɪ wɚ əˈlaʊɪŋ ˌʌnrɪˈstrɪktɪd ˈmaɪnɪŋ bɪˈfɔr ðə ˈʌpdeɪt/",
+          "linking": [
+            "They の末尾 /eɪ/ と were の初頭 /w/ が連結。[ðeɪ̯wɚ] ザエイウアー",
+            "were は機能語（助動詞）で弱形 /wɚ/。",
+            "allowing の末尾 /ŋ/ と unrestricted の初頭 /ʌ/ が続く。連結なし。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "ザエイ ウアー アラウイング アンリストリクティド マイニング ビフォア ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been allowing",
+      "ipa": "/hæd bɪn əˈlaʊɪŋ/",
+      "examples": [
+        {
+          "en": "The admin had been allowing griefing until someone reported it.",
+          "ja": "管理者は誰かが報告するまでグリーフィングを許可していました。",
+          "ipa": "/ðə ˈædmɪn həd bɪn əˈlaʊɪŋ ˈɡriːfɪŋ ənˈtɪl ˈsʌmwʌn rɪˈpɔrtɪd ɪt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。",
+            "had は機能語で弱形 /həd/。",
+            "been は過去分詞で弱形 /bɪn/。",
+            "allowing の末尾 /ŋ/ と griefing の初頭 /ɡ/ が続く。連結なし。",
+            "reported の末尾 /d/ と it の初頭 /ɪ/ が連結。[rɪˈpɔrtɪdɪt] レポーティディット"
+          ],
+          "kana": "ザ アドミン ハド ビン アラウイング グリーフィング アンティル サムワン レポーティディット"
+        },
+        {
+          "en": "By the time I joined, they had been allowing multiple mods.",
+          "ja": "私が参加した頃には、彼らは複数のモッドを許可していました。",
+          "ipa": "/baɪ ðə taɪm aɪ ˈdʒɔɪnd ðeɪ həd bɪn əˈlaʊɪŋ ˈmʌltɪpəl mɑdz/",
+          "linking": [
+            "By の末尾 /aɪ/ と the の初頭 /ð/ が連結。[baɪ̯ðə] バイザ",
+            "the は冠詞で弱形 /ðə/。",
+            "time の末尾 /m/ と I の初頭 /aɪ/ が続く。連結なし。",
+            "had は機能語で弱形 /həd/。been は過去分詞で弱形 /bɪn/。"
+          ],
+          "kana": "バイザ タイム アイ ジョインド ザイ ハド ビン アラウイング マルティプル モッズ"
+        }
+      ]
     }
   ]
 }

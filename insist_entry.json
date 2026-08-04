@@ -56,5 +56,119 @@
         "using only: 語末の /ŋ/ (鼻音) が母音 /o/ に連結 [ˈjuːzɪŋoʊnli] ユーズィン・オーンリー"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "insists",
+      "ipa": "/ɪnˈsɪsts/",
+      "examples": [
+        {
+          "en": "She insists that we need a pickaxe to mine this diamond.",
+          "ja": "彼女は、このダイヤを採掘するためにはつるはしが必要だと主張しています。",
+          "ipa": "/ʃi ɪnˈsɪsts ðæt wiː niːdə ˈpɪkæks tə maɪn ðɪs ˈdaɪmənd/",
+          "kana": "シー イン・シスツ ザット ウィー ニーダ ピック・アクス タ マイン ジス ダイマンド",
+          "linking": [
+            "need a: 語末子音 /d/ が母音 /ə/ に連結 [niːdə] ニーダ",
+            "to: 弱形 /tə/ (consonant の前)"
+          ]
+        },
+        {
+          "en": "The builder insists on collecting all stone blocks before sunset.",
+          "ja": "その建築者は日没前にすべての石ブロックを集めることを主張しています。",
+          "ipa": "/ðə ˈbɪldɚ ɪnˈsɪsts ɑn kəˈlɛktɪŋɔl stoʊn blɑks bɪˈfɔɹ ˈsʌnˌsɛt/",
+          "kana": "ザ ビルダー イン・シスツ オン コ・レクティン・グオール ストーン ブロックス ビ・フォア サン・セット",
+          "linking": [
+            "collecting all: 語末の /ŋ/ (鼻音) が母音 /ɔ/ に連結 [kəˈlɛktɪŋɔl] コ・レクティン・グオール",
+            "for: 弱形 /fər/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "insisted",
+      "ipa": "/ɪnˈsɪstəd/",
+      "examples": [
+        {
+          "en": "He insisted on exploring the cave system yesterday.",
+          "ja": "昨日、彼はその洞窟システムを探索することを主張しました。",
+          "ipa": "/hi ɪnˈsɪstəd ɑn ɪkˈsplɔɹɪŋ ðə keɪv ˈsɪstəm ˈjɛstɚdi/",
+          "kana": "ヒー イン・システィド オン イク・スプロアリング ザ ケイブ シス・テム イェス・タディ",
+          "linking": [
+            "insisted on: 語末子音 /d/ が母音 /ɑ/ に連結 [ɪnˈsɪstədɑn] イン・シスタン",
+            "the: 弱形 /ðə/ (consonant の前)"
+          ]
+        },
+        {
+          "en": "They insisted that we not abandon the base.",
+          "ja": "彼らはベースを放棄しないことを主張しました。",
+          "ipa": "/ðeɪ ɪnˈsɪstəd ðæt wiː nɑɾəbændən ðə beɪs/",
+          "kana": "ゼイ イン・システィド ザット ウィー ナラ・バンダン ザ ベイス",
+          "linking": [
+            "not abandon: 語末子音 /t/ が母音に挟まれフラップ化し連結 [nɑɾə] ナラ",
+            "the: 弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "insisted",
+      "ipa": "/ɪnˈsɪstəd/",
+      "examples": [
+        {
+          "en": "Having insisted on proper safety measures, they survived the creeper attack.",
+          "ja": "適切な安全対策を主張したことで、彼らはクリーパーの攻撃から生き残りました。",
+          "ipa": "/ˈhævɪŋ ɪnˈsɪstəd ɑn ˈpɹɑpɚ ˈseɪfti ˈmɛʒɚz ðeɪ sɚˈvaɪvd ðə ˈkriːpɚ əˈtæk/",
+          "kana": "ハエ・ビング イン・システィド オン プロパー セイフティ メジャーズ ゼイ サー・ヴァイ・バド ザ クリーパー ア・タック",
+          "linking": [
+            "insisted on: 語末子音 /d/ が母音 /ɑ/ に連結 [ɪnˈsɪstədɑn] イン・シスタン",
+            "the: 弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The rules they had insisted on were actually very fair to everyone.",
+          "ja": "彼らが主張していたルールは実際には誰にとっても非常に公正でした。",
+          "ipa": "/ðə ˈɹulz ðeɪ hæd ɪnˈsɪstəd ɑn wɚ ˈæktʃuəli ˈvɛɹi fɛɹ tu ˈɛvɹiwʌn/",
+          "kana": "ザ ルーズ ゼイ ハッド イン・システィド オン ワー アク・チュアリー ベリー フェア タ エブリ・ワン",
+          "linking": [
+            "insisted on: 語末子音 /d/ が母音 /ɑ/ に連結 [ɪnˈsɪstədɑn] イン・シスタン",
+            "to everyone: 弱形 /tə/ に次の /e/ が連結 [tuˈɛvɹiwʌn] タ・エブリ・ワン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "insisting",
+      "ipa": "/ɪnˈsɪstɪŋ/",
+      "examples": [
+        {
+          "en": "By insisting on using only wooden tools, the player stayed true to the challenge.",
+          "ja": "木製ツールだけを使うことに主張することで、プレイヤーはチャレンジに忠実でいました。",
+          "ipa": "/baɪ ɪnˈsɪstɪŋɑn ˈjuːzɪŋˈoʊnli ˈwʊdən ˈtulz ðə ˈpleɪɚ steɪd ˈtru tu ðə ˈtʃælɪndʒ/",
+          "kana": "バイ イン・システィン・グオン ユーズィン・グオーンリー ウッデン ツールズ ザ プレイヤー ステイド トゥルー タ ザ チャレンジ",
+          "linking": [
+            "insisting on: 語末の /ŋ/ (鼻音) が母音 /ɑ/ に連結 [ɪnˈsɪstɪŋɑn] イン・システィン・グオン",
+            "using only: 語末の /ŋ/ (鼻音) が母音 /o/ に連結 [ˈjuːzɪŋˈoʊnli] ユーズィン・グオーンリー"
+          ]
+        },
+        {
+          "en": "The captain is insisting on building a safe spawning point.",
+          "ja": "船長は安全なスポーン地点を建設することを主張しています。",
+          "ipa": "/ðə ˈkæptən ɪz ɪnˈsɪstɪŋɑn ˈbɪldɪŋə ˈseɪf ˈspɔːnɪŋ pɔɪnt/",
+          "kana": "ザ キャップテン イズ イン・システィン・グオン ビルディング・ア セイフ スポーニング ポイント",
+          "linking": [
+            "insisting on: 語末の /ŋ/ (鼻音) が母音 /ɑ/ に連結 [ɪnˈsɪstɪŋɑn] イン・システィン・グオン",
+            "building a: 語末の /ŋ/ (鼻音) が母音 /ə/ に連結 [ˈbɪldɪŋə] ビルディング・ア"
+          ]
+        }
+      ]
+    }
   ]
 }

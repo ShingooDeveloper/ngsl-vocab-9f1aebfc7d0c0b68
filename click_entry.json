@@ -59,5 +59,147 @@
       ],
       "kana": "クリック アン ザ チェスト タ シー ワット アイテムズ アー インサイド"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "clicks",
+      "ipa": "/klɪks/",
+      "examples": [
+        {
+          "en": "The player clicks on the ore and gets a drop.",
+          "ja": "プレイヤーは鉱石をクリックしてドロップアイテムを獲得する。",
+          "ipa": "/ðə ˈpleɪər ˈklɪks ɑn ðə ˈɔr ənd ˈɡɛts ə drɑp/",
+          "linking": [
+            "clicks on → clicks の末尾子音 /s/ が on の母音 /ɑ/ に連結し有声化 [ˈklɪkzɑn] クリクゾン",
+            "ore and → ore /ɔr/ の末尾子音 /r/ が and の弱形 /ənd/ の /ə/ に連結 [ˈɔrənd] オーランド"
+          ],
+          "kana": "ザ プレイヤー クリクゾン ザ オーランド ゲッツァ ドロップ"
+        },
+        {
+          "en": "She clicks to gather resources quickly.",
+          "ja": "彼女は素早くリソースを集めるためにクリックする。",
+          "ipa": "/ʃi ˈklɪks tə ˈɡæðər ˈrɛsərsəz ˈkwɪkli/",
+          "linking": [
+            "clicks to → clicks の末尾子音 /s/ が to の弱形 /ə/ に連結 [ˈklɪksə] クリクサ",
+            "gather resources → gather /ˈɡæðər/ の末尾 /r/ が resources の /r/ に連結"
+          ],
+          "kana": "シ クリクサ ギャザー レソーシズ クウィックリ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "clicked",
+      "ipa": "/ˈklɪkt/",
+      "examples": [
+        {
+          "en": "I clicked on the diamond ore yesterday.",
+          "ja": "昨日、ダイヤモンド鉱石をクリックした。",
+          "ipa": "/aɪ ˈklɪkt ɑn ðə ˈdaɪmənd ˈɔr ˈjɛstərdeɪ/",
+          "linking": [
+            "clicked on → clicked の末尾子音 /t/ が on の母音 /ɑ/ に連結 [ˈklɪktɑn] クリクトーン",
+            "the diamond → the は冠詞で弱形 /ðə/ (ザ)"
+          ],
+          "kana": "アイ クリクトーン ザ ダイモンド オア イェスターデイ"
+        },
+        {
+          "en": "He clicked the button to open the gate.",
+          "ja": "彼はゲートを開くためにボタンをクリックした。",
+          "ipa": "/hi ˈklɪkt ðə ˈbʌtən tə ˈoʊpən ðə ˈɡeɪt/",
+          "linking": [
+            "clicked the → clicked の末尾子音 /t/ が the の弱形 /ðə/ に未開放で続く [ˈklɪk̚ðə] クリッザ",
+            "button to → button /ˈbʌtən/ の末尾 /n/ が to の弱形 /ə/ に連結 [ˈbʌtə] バッター"
+          ],
+          "kana": "ヒ クリッザ バッター オゥプン ザ ゲイト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "clicked",
+      "ipa": "/ˈklɪkt/",
+      "examples": [
+        {
+          "en": "I have clicked every ore block in this cave.",
+          "ja": "この洞窟のすべての鉱石ブロックをクリックしてきた。",
+          "ipa": "/aɪ həv ˈklɪkt ˈɛvri ˈɔr blɑk ɪn ðɪs keɪv/",
+          "linking": [
+            "have clicked → have の弱形 /əv/ と clicked の /k/ は子音+子音で分離",
+            "ore block → ore /ˈɔr/ の末尾 /r/ と block の /b/ は子音+子音で連結なし"
+          ],
+          "kana": "アイ ハヴ クリクト エブリ オア ブロック イン ディス キェイヴ"
+        },
+        {
+          "en": "The blocks I clicked on turned to stone.",
+          "ja": "クリックしたブロックは石に変わった。",
+          "ipa": "/ðə blɑks aɪ ˈklɪkt ɑn ˈtɜrnd tə ˈstoʊn/",
+          "linking": [
+            "clicked on → clicked の末尾子音 /t/ が on の母音 /ɑ/ に連結 [ˈklɪktɑn] クリクトーン",
+            "turned to → turned /ˈtɜrnd/ の末尾 /d/ が to の弱形 /ə/ に連結 [ˈtɜrntə] ターンタ"
+          ],
+          "kana": "ザ ブロックス アイ クリクトーン ターンタ ストゥーン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "clicking",
+      "ipa": "/ˈklɪkɪŋ/",
+      "examples": [
+        {
+          "en": "Clicking rapidly on the ore breaks it fast.",
+          "ja": "鉱石を素早くクリックすると素早く壊れる。",
+          "ipa": "/ˈklɪkɪŋ ˈræpɪdli ɑn ðə ˈɔr ˈbreɪks ɪt fæst/",
+          "linking": [
+            "on the → on /ɑn/ の末尾 /n/ が the の弱形 /ðə/ に連結 [ɑnðə] アンザ",
+            "ore breaks → ore /ˈɔr/ の末尾 /r/ と breaks の /b/ は子音+子音で連結なし"
+          ],
+          "kana": "クリキング ラピドゥリ アンザ オア ブレイクス イット ファスト"
+        },
+        {
+          "en": "She is clicking the button now.",
+          "ja": "彼女は今ボタンをクリックしている。",
+          "ipa": "/ʃi ɪz ˈklɪkɪŋ ðə ˈbʌtən naʊ/",
+          "linking": [
+            "is clicking → is の弱形 /ɪz/ と clicking の /k/ は子音+子音で分離",
+            "clicking the → clicking の末尾 /ŋ/ が the の弱形 /ðə/ に連結 [ˈklɪkɪŋðə] クリキンザ"
+          ],
+          "kana": "シ イズ クリキンザ バタン ナウ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "clicks",
+      "ipa": "/klɪks/",
+      "examples": [
+        {
+          "en": "A few clicks can mine a block.",
+          "ja": "わずかなクリックでブロックを採掘できる。",
+          "ipa": "/ə ˈfju ˈklɪks kən ˈmaɪn ə blɑk/",
+          "linking": [
+            "few clicks → few /ˈfju/ の末尾 /u/ と clicks の /k/ は母音+子音で連結なし",
+            "can mine → can の弱形 /kən/ と mine の /m/ は子音+子音で分離"
+          ],
+          "kana": "ア フュー クリックス カン マイン ア ブロック"
+        },
+        {
+          "en": "Multiple clicks break the ore block quickly.",
+          "ja": "複数のクリックで鉱石ブロックが素早く壊れる。",
+          "ipa": "/ˈmʌltɪpəl ˈklɪks ˈbreɪk ðə ˈɔr blɑk ˈkwɪkli/",
+          "linking": [
+            "multiple clicks → multiple /ˈmʌltɪpəl/ の末尾 /l/ と clicks の /k/ は子音+子音で連結なし",
+            "the ore → the は冠詞で弱形 /ðə/ (ザ)、ore /ˈɔr/"
+          ],
+          "kana": "マルティプル クリックス ブレイク ザ オア ブロック クウィックリ"
+        }
+      ]
+    }
   ]
 }

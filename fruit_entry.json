@@ -44,6 +44,39 @@
       "kana": "スウィート ベリーザ ア タイパヴ フルート ユー キャン ファインド イン フォレスツ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "fruits",
+      "ipa": "/fruːts/",
+      "examples": [
+        {
+          "en": "I planted seeds and now fruits are growing in my farm.",
+          "ja": "私は種を植え、今は私の農場でフルーツが育っています。",
+          "ipa": "/aɪ ˈplæntɪd sidz ənd naʊ fruːts ɑr ˈɡroʊɪŋ ɪn maɪ fɑrm/",
+          "linking": [
+            "seeds の末尾 /z/ が and の弱形 /ən/ に連結 [sidz ən]",
+            "and は機能語なので弱形 /ən/",
+            "fruits の末尾 /ts/ が are の母音 /ɑ/ に連結 [fruːts ɑr]"
+          ],
+          "kana": "アイ プランティド シーズ エン ナウ フルーツ アー グロウイング イン マイ ファーム"
+        },
+        {
+          "en": "These fruits mature quickly in the right farming conditions.",
+          "ja": "これらのフルーツは適切な農業条件で素早く成熟します。",
+          "ipa": "/ðiz fruːts məˈtʃur ˈkwɪkli ɪn ðə ˈraɪt ˈfɑrmɪŋ kənˈdɪʃənz/",
+          "linking": [
+            "fruits の末尾 /ts/ が mature の /m/ で子音+子音で自然に続く",
+            "in の末尾 /n/ が the の弱形 /ðə/ に連結 [ɪn ðə]",
+            "the は弱形 /ðə/",
+            "farming の末尾 /ŋ/ が conditions の母音に連結 [ˈfɑrmɪŋ kən]"
+          ],
+          "kana": "ディス フルーツ マチュア クウィックリー イン ザ ライト ファーミング コンディションズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "bear fruit",

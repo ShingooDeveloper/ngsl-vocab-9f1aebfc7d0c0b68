@@ -70,5 +70,120 @@
       ],
       "kana": "アイ プレイ ザット ザ クリーパー ダズント ブロー アップ マイ ベース"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "prays",
+      "ipa": "/preɪz/",
+      "examples": [
+        {
+          "en": "He prays every night for a Stronghold to appear.",
+          "ja": "彼は毎晩ストロングホールド（要塞）が出現することを祈ります。",
+          "ipa": "/hi ˈpreɪz ˈɛvri ˈnaɪt fər ə ˈstrɔŋhoʊld tu əˈpɪr/",
+          "linking": [
+            "He prays → /z/ が /ɛ/ に連結 [hi ˈpreɪzɛ] ヒー プレイザ",
+            "for は機能語で弱形 /fər/、to も弱形 /tə/"
+          ],
+          "kana": "ヒー プレイザ エブリ ナイト ファー ア ストロングホウルド トゥ アピア"
+        },
+        {
+          "en": "This player always prays after encountering a Wither.",
+          "ja": "このプレイヤーはウィザーに遭遇した後、いつも祈ります。",
+          "ipa": "/ðɪs ˈpleɪər ˈɔlweɪz ˈpreɪz ˈæftər ɪnˈkaʊntərɪŋ ə ˈwɪðər/",
+          "linking": [
+            "prays after → /z/ が /æ/ に連結 [ˈpreɪzæ] プレイザ",
+            "is と always の弱形 /ɔlweɪz/"
+          ],
+          "kana": "ディス プレイヤー オルウェイズ プレイザ アフター インカウンタリング ア ウィザー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "prayed",
+      "ipa": "/preɪd/",
+      "examples": [
+        {
+          "en": "We prayed before entering the dark cave system.",
+          "ja": "暗い洞窟システムに入る前に、私たちは祈りました。",
+          "ipa": "/wi ˈpreɪd bɪˈfɔr ˈɛntərɪŋ ðə ˈdɑrk ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "dark cave → /k/ が /s/ に続く（連結なし）"
+          ],
+          "kana": "ウィ プレイド ビフォア エンタリング ザ ダーク ケイブ システム"
+        },
+        {
+          "en": "I prayed that the Creeper would not destroy my house.",
+          "ja": "クリーパーが私の家を破壊しないことを祈りました。",
+          "ipa": "/aɪ ˈpreɪd ðæt ðə ˈkripər wʊd nɑt dɪˈstrɔɪ maɪ ˈhaʊs/",
+          "linking": [
+            "prayed that → /d/ が未開放で /ð/ に続く [ˈpreɪd̚ ðæt̚] プレイッ ザット",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ プレイッ ザット ザ クリーパー ウッド ナット ディストロイ マイ ハウス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "prayed",
+      "ipa": "/preɪd/",
+      "examples": [
+        {
+          "en": "Having prayed for strength, she defeated the Ender Dragon.",
+          "ja": "力を祈った後、彼女はエンダードラゴンを倒しました。",
+          "ipa": "/ˈhævɪŋ ˈpreɪd fər ˈstrɛŋθ, ʃi dɪˈfitɪd ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "for は機能語で弱形 /fər/ ファー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ハヴィング プレイド ファー ストレングス シー ディフィティド ザ エンダー ドラゴン"
+        },
+        {
+          "en": "We had prayed before the storm appeared over our base.",
+          "ja": "基地の上に嵐が現れる前に、私たちは祈っていました。",
+          "ipa": "/wi hæd ˈpreɪd bɪˈfɔr ðə ˈstɔrm əˈpɪrd ˈoʊvər aʊr ˈbeɪs/",
+          "linking": [
+            "had は弱形 /hæd/ ハド",
+            "the は弱形 /ðə/ ザ",
+            "over our → /r/ が /aʊ/ に続く（linking R）"
+          ],
+          "kana": "ウィ ハド プレイド ビフォア ザ ストーム アピアド オーヴァー アワー ベース"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "praying",
+      "ipa": "/ˈpreɪɪŋ/",
+      "examples": [
+        {
+          "en": "Instead of praying, you should build more defenses around your base.",
+          "ja": "祈るのではなく、基地の周りにもっと防御を構築すべきです。",
+          "ipa": "/ɪnˈstɛd əv ˈpreɪɪŋ, ju ʃʊd ˈbɪld ˈmoʊr dɪˈfɛnsəz əˈraʊnd jər ˈbeɪs/",
+          "linking": [
+            "of は弱形 /əv/ アブ",
+            "your は弱形 /jər/ ヤー"
+          ],
+          "kana": "インステド アブ プレイング ユ シュッド ビルド モア ディフェンシズ アラウンド ヤー ベース"
+        },
+        {
+          "en": "While praying for diamonds, I discovered a hidden lava lake.",
+          "ja": "ダイヤモンドを祈りながら、隠れた溶岩湖を発見しました。",
+          "ipa": "/waɪl ˈpreɪɪŋ fər ˈdaɪəməndz, aɪ dɪsˈkʌvərd ə ˈhɪdən ˈlɑvə ˈleɪk/",
+          "linking": [
+            "for は機能語で弱形 /fər/ ファー",
+            "a は弱形 /ə/ ア"
+          ],
+          "kana": "ホワイル プレイング ファー ダイモンズ アイ ディスカバード ア ヒドゥン ラヴァ レイク"
+        }
+      ]
+    }
   ]
 }

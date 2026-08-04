@@ -69,5 +69,68 @@
       ],
       "kana": "ザ ウォーデンズ ロア ワズ ラウダン クリア デンジャラ アヘッド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "louder",
+      "ipa": "/ˈlaʊdɚ/",
+      "examples": [
+        {
+          "en": "That explosion was louder than the last one.",
+          "ja": "その爆発は前回のものより大きかった。",
+          "ipa": "/ðæt ɪksˈploʊʒən wəz ˈlaʊdɚ ðən ðə læst wʌn/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ザット イクスプロージョン ワズ ラウダー ザン ザ ラスト ワン"
+        },
+        {
+          "en": "The Warden's roar is much louder than any mob sound.",
+          "ja": "ウォーデンの咆哮は任意のモブの音より遥かに大きい。",
+          "ipa": "/ðə ˈwɔɹdənz ɹoɹ ɪz mʌtʃ ˈlaʊdɚ ðən ˈɛni moʊb saʊnd/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is は弱形 /ɪz/",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ザ ウォーデンズ ロア イズ マッチ ラウダー ザン エニ モウブ サウンド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "loudest",
+      "ipa": "/ˈlaʊdəst/",
+      "examples": [
+        {
+          "en": "The loudest roar in Minecraft is from the Warden.",
+          "ja": "マインクラフトで最も大きな咆哮はウォーデンからだ。",
+          "ipa": "/ðə ˈlaʊdəst ɹoɹ ɪn ˈmaɪnˌkræft ɪz ˈfrʌm ðə ˈwɔɹdən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "in は弱形 /ɪn/",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "ザ ラウデスト ロア イン マインクラフト イズ フラム ザ ウォーデン"
+        },
+        {
+          "en": "The loudest sound in this world was the creeper explosion nearby.",
+          "ja": "このワールドで最も大きな音は、近くのクリーパーの爆発だった。",
+          "ipa": "/ðə ˈlaʊdəst saʊnd ɪn ðɪs wɝld wəz ðə ˈkriːpɚ ɪksˈploʊʒən ˈnɪrˈbaɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "in は弱形 /ɪn/",
+            "this は弱形 /ðɪs/",
+            "was は弱形 /wəz/"
+          ],
+          "kana": "ザ ラウデスト サウンド イン ディス ワールド ワズ ザ クリーパー イクスプロージョン ニアバイ"
+        }
+      ]
+    }
   ]
 }

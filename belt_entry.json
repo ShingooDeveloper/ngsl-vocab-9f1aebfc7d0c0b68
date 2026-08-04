@@ -72,5 +72,149 @@
       ],
       "kana": "ウィズ スリー インチャンティッド ソードズ アンダー マイ ベルト アイム レディ ファー ザ ネザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "belts",
+      "ipa": "/bɛlts/",
+      "examples": [
+        {
+          "en": "Leather belts were scattered throughout the ancient fortress.",
+          "ja": "革のベルトは古い要塞全体に散らばっていました。",
+          "ipa": "[ˈlɛðər bɛlts wər ˈskætərd θruːˈaʊt ðə ˈeɪnʃənt ˈfɔːrtrəs]",
+          "linking": [
+            "were は弱形 /wər/ で、scattered の初頭子音に続く",
+            "the は弱形 /ðə/ で、ancient の初頭母音に続く"
+          ],
+          "kana": "レザー ベルツ ワー スキャラド スルーアウト ザ エイシェント フォーレス"
+        },
+        {
+          "en": "We collected three enchanted belts from the Nether.",
+          "ja": "私たちはネザーからエンチャント済みベルト3本を集めました。",
+          "ipa": "[wi kəˈlɛktəd ˈθriː ɪnˈtʃæntəd bɛlts frəm ðə ˈnɛðər]",
+          "linking": [
+            "from は弱形 /frəm/ で、the の初頭子音に続く",
+            "the は弱形 /ðə/ で、Nether の初頭子音に続く"
+          ],
+          "kana": "ウィ コレクティッド スリー インチャンティッド ベルツ フラム ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "belts",
+      "ipa": "/bɛlts/",
+      "examples": [
+        {
+          "en": "He belts the zombie repeatedly until it drops its loot.",
+          "ja": "彼はゾンビをドロップまで何度も殴ります。",
+          "ipa": "[hi ˈbɛlts ðə ˈzɑmbi rɪˈpitɪdli əntɪl ɪt ˈdrɑps ɪts ˈluːt]",
+          "linking": [
+            "the は弱形 /ðə/ で、zombie の初頭子音に続く",
+            "until は /ənˈtɪl/ で、it の初頭母音に連結する（液音 /l/ が次の母音に続く）"
+          ],
+          "kana": "ヒー ベルツ ザ ゾンビー リピーティドリー アンティル イット ドロップス イツ ルート"
+        },
+        {
+          "en": "Steve belts out a song while mining deep underground.",
+          "ja": "スティーブは地下深くで採掘しながら大声で歌います。",
+          "ipa": "[ˈstiːv ˈbɛlts ˈaʊt ə sɔŋ ˈwaɪl ˈmaɪnɪŋ ˈdiːp ˈʌndərɡraʊnd]",
+          "linking": [
+            "out は /aʊt/ で、a に続く。a は弱形 /ə/。out の /t/ が a の初頭母音 /ə/ に連結してフラップ化 [ˈaʊɾə] アウラ",
+            "while は /waɪl/ で、mining に続く（液音+子音なので特記の現象なし）"
+          ],
+          "kana": "スティーブ ベルツ アウラ ソング ワイル マイニング ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "belted",
+      "ipa": "/ˈbɛltəd/",
+      "examples": [
+        {
+          "en": "I belted the creeper just before it exploded.",
+          "ja": "爆発する直前にクリーパーを殴りました。",
+          "ipa": "[aɪ ˈbɛltəd ðə ˈkriːpər dʒəst bɪˈfɔːr ɪt ɪkˈsploʊdɪd]",
+          "linking": [
+            "belted は /ˈbɛltəd/ で、the の初頭子音に続く（belted の /d/ が the の /ð/ に続く）",
+            "before の /r/ が、it の初頭母音に連結する（r-linking: [bɪˈfɔːrɪt]）"
+          ],
+          "kana": "アイ ベルティッド ザ クリーパー ジャスト ビフォーリット イクスプロウディッド"
+        },
+        {
+          "en": "We belted enemies for hours before finding shelter.",
+          "ja": "避難所を見つけるまで、数時間敵を殴りました。",
+          "ipa": "[wi ˈbɛltəd ˈɛnəmiz fər ˈaʊərz bɪˈfɔːr ˈfaɪndɪŋ ˈʃɛltər]",
+          "linking": [
+            "for は弱形 /fər/ で、hours の初頭母音に r-linking が起こる [fərˈaʊərz]",
+            "before の /r/ が finding の初頭子音に続く（子音+子音なので特記の現象なし）"
+          ],
+          "kana": "ウィ ベルティッド エネミズ ファー アワーズ ビフォア ファインディング シェルター"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "belted",
+      "ipa": "/ˈbɛltəd/",
+      "examples": [
+        {
+          "en": "The mobs I had belted earlier suddenly respawned.",
+          "ja": "以前に殴ったモブが突然リスポーンしました。",
+          "ipa": "[ðə ˈmoʊbz aɪ həd ˈbɛltəd ˈɜːrliər ˈsʌdənli rɪˈspɔːnd]",
+          "linking": [
+            "the は弱形 /ðə/ で、mobs の初頭子音に続く",
+            "had は弱形 /həd/ で、belted の初頭子音に続く（had の /d/ が belted の /b/ に続く）"
+          ],
+          "kana": "ザ モブズ アイ ハド ベルティッド アーリアー サドゥンリー リスポーンド"
+        },
+        {
+          "en": "Having belted the zombies, we were able to escape safely.",
+          "ja": "ゾンビを殴ったので、安全に逃げることができました。",
+          "ipa": "[ˈheɪvɪŋ ˈbɛltəd ðə ˈzɑmbiz | wi wər ˈeɪbəl tu ɪˈskeɪp ˈseɪfli]",
+          "linking": [
+            "belted は /ˈbɛltəd/ で、the の初頭子音に続く",
+            "were は弱形 /wər/ で、able の初頭母音に r-linking が起こる [wərˈeɪbəl]",
+            "to は弱形 /tə/ で、escape の初頭子音に続く"
+          ],
+          "kana": "ハヴィング ベルティッド ザ ゾンビズ、ウィ ワー エイブル タ イスケイプ セイフリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "belting",
+      "ipa": "/ˈbɛltɪŋ/",
+      "examples": [
+        {
+          "en": "Belting enemies is the quickest way to defeat them.",
+          "ja": "敵を殴ることが、敵を倒す最速の方法です。",
+          "ipa": "[ˈbɛltɪŋ ˈɛnəmiz ɪz ðə ˈkwɪkəst ˈweɪ tu dɪˈfiːt ðɛm]",
+          "linking": [
+            "is は弱形 /ɪz/ で、the の初頭子音に続く",
+            "the は弱形 /ðə/ で、quickest の初頭子音に続く",
+            "to は弱形 /tə/ で、defeat の初頭子音に続く"
+          ],
+          "kana": "ベルティング エネミズ イズ ザ クイッケスト ウェイ タ ディフィート ゼム"
+        },
+        {
+          "en": "We spent the evening belting zombies and collecting drops.",
+          "ja": "私たちは夕方をゾンビを殴ってドロップを集めるのに費やしました。",
+          "ipa": "[wi ˈspɛnt ðə ˈiːvnɪŋ ˈbɛltɪŋ ˈzɑmbiz ənd kəˈlɛktɪŋ ˈdrɑps]",
+          "linking": [
+            "the は弱形 /ðə/ で、evening の初頭母音に続く",
+            "and は弱形 /ənd/ で、collecting の初頭子音に続く"
+          ],
+          "kana": "ウィ スペント ザ イーブニング ベルティング ゾンビズ アン コレクティング ドロップス"
+        }
+      ]
+    }
   ]
 }

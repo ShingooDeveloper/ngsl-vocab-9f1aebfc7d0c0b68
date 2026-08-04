@@ -69,5 +69,35 @@
       ],
       "kana": "ヒー ビケイマン インディペンデント プラデューサー アヴ マインクラフト コンテント"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "producers",
+      "ipa": "/prəˈduːsərz/",
+      "examples": [
+        {
+          "en": "Mob farms are efficient producers of valuable drops and experience.",
+          "ja": "モブファームは貴重なドロップと経験値の効率的な生産者である。",
+          "ipa": "/mɑb fɑrmz ɑr ɪˈfɪʃənt prəˈduːsərz əv ˈvæljəbəl drɑps ənd ɪkˈspɪriəns/",
+          "linking": [
+            "farms の語末子音 /z/ が are の初頭母音 /ɑ/ に連結 [ˈfɑrmzɑr] ファームザー",
+            "producers の語末子音 /z/ が of の初頭弱形 /ə/ に連結、of は弱形 /əv/ アヴ",
+            "drops の /s/ が and の初頭 /ə/ に連結 [drɑps ənd] ドロップサン"
+          ],
+          "kana": "モブ ファームザー イフィシェント プラデューサーズ アヴ ヴァリュアブル ドラップス アン イクスピアリアンス"
+        },
+        {
+          "en": "Multiple producers help gather resources much faster than mining alone.",
+          "ja": "複数の生産者は、単独で採鉱するよりもはるかに速くリソースを集めるのに役立つ。",
+          "ipa": "/ˈmʌltəpəl prəˈduːsərz hɛlp ˈɡæðər ˈrɪsɔrsəz ˈmʌtʃ ˈfæstər ðən ˈmaɪnɪŋ əˈloʊn/",
+          "linking": [
+            "mining の語末鼻音 /ŋ/ が alone の初頭母音 /ə/ に連結 [ˈmaɪnɪŋ əˈloʊn] マイニング ァローン"
+          ],
+          "kana": "マルティプル プラデューサーズ ヘルプ ゲザー リソーシズ マッチ ファスター ザン マイニング ァローン"
+        }
+      ]
+    }
   ]
 }

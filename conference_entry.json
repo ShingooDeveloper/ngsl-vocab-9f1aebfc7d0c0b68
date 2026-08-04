@@ -60,5 +60,37 @@
       ],
       "kana": "ザ ビルダーズ アー イン カンファレンス ライト ナウ アバウト ザ ベイス ディザイン"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "conferences",
+      "ipa": "/ˈkɑːnfərənsɪz/",
+      "examples": [
+        {
+          "en": "We should host multiple conferences about building amazing bases.",
+          "ja": "素晴らしいベースの建築について複数の会議を開くべきです。",
+          "ipa": "/wij ˈʃʊd ˈhoʊst ˈmʌltɪpəl ˈkɑːnfərənsɪz əˈbaʊt ˈbɪldɪŋ əˈmeɪzɪŋ ˈbeɪsɪz/",
+          "linking": [
+            "should host - 語末の /d/ は未開放で次の /h/ と分離 [ˈʃʊd̚ ˈhoʊst] シュッド ホースト",
+            "host multiple - 語末の /t/ は未開放で次の /m/ と分離 [ˈhoʊst̚ ˈmʌltɪpəl] ホースト マルチプル",
+            "about building - 語末の /t/ は未開放で次の /b/ と分離 [əˈbaʊt̚ ˈbɪldɪŋ] アバウト ビルディング"
+          ],
+          "kana": "ウィ シュッド ホースト マルチプル カンファレンシズ アバウト ビルディング アメイジング ベイシズ"
+        },
+        {
+          "en": "The conferences with server admins discussed new farming automation ideas.",
+          "ja": "サーバー管理者との会議は新しい農業自動化のアイデアを議論しました。",
+          "ipa": "/ðə ˈkɑːnfərənsɪz ˈwɪð ˈsɝvɚ ˈædmɪnz dɪˈskʌst ˈnjuː ˈfɑːrmɪŋ ˌɔːtəˈmeɪʃən aɪˈdɪəz/",
+          "linking": [
+            "The conferences - 冠詞 the は弱形 /ðə/ に弱化 [ðə ˈkɑːnfərənsɪz] ザ カンファレンシズ",
+            "with server - 語末の /ð/ が /s/ の前で有声音のため未開放 [ˈwɪð ˈsɝvɚ] ウィズ サーヴァー",
+            "discussed new - 語末の /d/ は未開放で次の /n/ と分離 [dɪˈskʌst̚ ˈnjuː] ディスカスト ニュー"
+          ],
+          "kana": "ザ カンファレンシズ ウィズ サーヴァー アドミンズ ディスカスト ニュー ファーミング オートメイション アイディアズ"
+        }
+      ]
+    }
   ]
 }

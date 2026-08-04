@@ -69,5 +69,138 @@
       ],
       "kana": "エヴリワン アクノーリッジーズ ザ ファクト ザット モウズ スポーン イン ダークネス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "acknowledges",
+      "ipa": "/əkˈnɑːlɪdʒɪz/",
+      "examples": [
+        {
+          "en": "The server acknowledges every block you place by updating the world in real-time.",
+          "ja": "サーバーはプレイヤーが配置したすべてのブロックをリアルタイムで世界に反映させることで認識します。",
+          "ipa": "/ðə ˈsɝːvɚ əkˈnɑːlɪdʒɪz ˈɛvri blɑk ju pleɪs baɪ ˈʌpdeɪtɪŋ ðə ˈwɝld ɪn ˈriːəl ˈtaɪm/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/",
+            "server acknowledges → server の語末 /r/ が acknowledges の語頭 /ə/ に連結",
+            "acknowledges every → acknowledges の語末 /z/ が every の語頭 /ɛ/ に連結",
+            "place by → /s/ + /b/ (子音+子音、連結なし)",
+            "real-time → 複合語で primary stress は real に位置"
+          ],
+          "kana": "ザ サーヴァー アクノーリッジーズ エヴリー ブロック ユー プレイス バイ アップデイティング ザ ワールド イン リーアル タイム"
+        },
+        {
+          "en": "Our team leader acknowledges the effort that each player contributes to the project.",
+          "ja": "私たちのチームリーダーは、各プレイヤーがプロジェクトに貢献する努力を認めています。",
+          "ipa": "/ˈaʊɚ ˈtiːm ˈliːdɚ əkˈnɑːlɪdʒɪz ðə ˈɛfɚt ðæt ˈiːtʃ ˈpleɪɚ kənˈtrɪbjuːts tə ðə ˈprɑːdʒɛkt/",
+          "linking": [
+            "leader acknowledges → leader の語末 /r/ が acknowledges の語頭 /ə/ に連結",
+            "the → 冠詞で弱形 /ðə/",
+            "that each → that の語末 /t/ は unreleased で、each の初頭母音に続く",
+            "each player → /tʃ/ + /p/ (子音+子音、連結なし)",
+            "to → 前置詞で弱形 /tə/"
+          ],
+          "kana": "アワー ティーム リーダー アクノーリッジーズ ザ エフォート ザット イーチ プレイヤー カントリビューツ タ ザ プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "acknowledged",
+      "ipa": "/əkˈnɑːlɪdʒd/",
+      "examples": [
+        {
+          "en": "I acknowledged the danger when the creeper exploded right next to my base.",
+          "ja": "クリーパーが自分の拠点のすぐそばで爆発したとき、危険を認識しました。",
+          "ipa": "/aɪ əkˈnɑːlɪdʒd ðə ˈdeɪndʒɚ ˈwɛn ðə ˈkriːpɚ ɪkˈsploʊdɪd ˈraɪt ˈnɛkst tu maɪ ˈbeɪs/",
+          "linking": [
+            "acknowledged the → /d/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "danger when → /r/ + /w/ (子音+子音、連結なし)",
+            "creeper exploded → creeper の語末 /r/ が exploded の語頭 /ɪ/ に連結",
+            "to my → to は弱形 /tu/ または /tə/、my に連結"
+          ],
+          "kana": "アイ アクノーリッジド ザ デインジャー ウェン ザ クリーパー エクスプロウディド ライト ネクスト トゥー マイ ベース"
+        },
+        {
+          "en": "Once we acknowledged our mistake in the redstone circuit, we fixed the entire design.",
+          "ja": "レッドストーン回路での間違いを認めたら、デザイン全体を修正しました。",
+          "ipa": "/wʌns wi əkˈnɑːlɪdʒd ˈaʊɚ mɪˈsteɪk ɪn ðə ˈrɛdˌstoʊn ˈsɝːkɪt | wi ˈfɪkst ðə ɪnˈtaɪɚ dɪˈzaɪn/",
+          "linking": [
+            "we acknowledged → we の語末 /i/ と acknowledged の語頭 /ə/ の間に palatal glide [j] が介在",
+            "acknowledged our → acknowledged の語末 /d/ が our の語頭 /aʊ/ に連結",
+            "in the → /n/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "circuit we → /t/ + /w/ (子音+子音、連結なし)"
+          ],
+          "kana": "ワンス ウィー アクノーリッジド アワー ミステイク イン ザ レッドストーン サーキット、ウィー フィックスト ザ エンタイアー ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "acknowledged",
+      "ipa": "/əkˈnɑːlɪdʒd/",
+      "examples": [
+        {
+          "en": "Having acknowledged the risks of exploring the deep cave, the team proceeded carefully with diamond pickaxes.",
+          "ja": "深いケーブ探検のリスクを認識した後、チームはダイヤモンドのつるはしで慎重に進みました。",
+          "ipa": "/ˈheɪvɪŋ əkˈnɑːlɪdʒd ðə ˈrɪsks əv ɪkˈsplɔːrɪŋ ðə ˈdip keɪv | ðə ˈtiːm prəˈsiːdɪd ˈkɛrfəli wɪð ˈdaɪəmənd ˈpɪkˌæksɪz/",
+          "linking": [
+            "Having acknowledged → having の語末 /ŋ/ が acknowledged の語頭 /ə/ に連結",
+            "acknowledged the → /d/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "risks of → risks の語末 /s/ が of の語頭 /ə/ に連結、of は弱形 /əv/",
+            "team proceeded → /m/ + /p/ (子音+子音、連結なし)"
+          ],
+          "kana": "ハヴィング アクノーリッジド ザ リスクス オヴ エクスプローリング ザ ディープ ケイヴ、ザ ティーム プロシーディッド ケアフリー ウィズ ダイアマンド ピックアクスィーズ"
+        },
+        {
+          "en": "With the structural problem finally acknowledged, we began construction of the new fortress design.",
+          "ja": "構造的な問題がついに認識されたので、新しい要塞デザインの建築を始めました。",
+          "ipa": "/wɪð ðə strʌkˈtʃɚːəl ˈprɑːbləm ˈfaɪnəli əkˈnɑːlɪdʒd | wi bɪˈɡæn kənˈstrʌkʃən əv ðə ˈnjuː ˈfɔːrtrɪs dɪˈzaɪn/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/",
+            "finally acknowledged → finally の語末 /i/ と acknowledged の語頭 /ə/ の間に palatal glide [j] が介在",
+            "problem acknowledged → problem の語末 /m/ が acknowledged の語頭 /ə/ に連結",
+            "of the → /v/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ウィズ ザ ストラクチャーアル プロブレム ファイナリー アクノーリッジド、ウィー ビガン カンストラクション オヴ ザ ニュー フォートレス ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "acknowledging",
+      "ipa": "/əkˈnɑːlɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "Acknowledging the difficulty of finding diamonds at this depth, we decided to excavate a wider area.",
+          "ja": "この深さでダイヤモンドを見つけることの難しさを認識して、より広い領域を掘削することを決めました。",
+          "ipa": "/əkˈnɑːlɪdʒɪŋ ðə ˈdɪfɪkəlti əv ˈfaɪndɪŋ ˈdaɪəməndz æt ðɪs ˈdɛpθ | wi dɪˈsaɪdɪd tu ˌɛkskəˈveɪt ə ˈwaɪdɚ ˈɛriə/",
+          "linking": [
+            "Acknowledging the → /ŋ/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "difficulty of → difficulty の語末 /i/ と of の語頭 /ə/ の間に palatal glide [j] が介在、of は弱形 /əv/",
+            "to excavate → to は弱形 /tu/、to の語末 /u/ が excavate の語頭 /ɛ/ に連結",
+            "a wider → /ə/ + /w/ が連結（弱形 a に続く子音）"
+          ],
+          "kana": "アクノーリッジング ザ ディフィカルティー オヴ ファインディング ダイアモンズ アット ディス デプス、ウィー ディサイディド トゥー エクスカヴェイト ア ワイダー エアリア"
+        },
+        {
+          "en": "After acknowledging the threats from the zombie horde, our team reinforced all the walls around our base.",
+          "ja": "ゾンビの群れからの脅威を認識した後、私たちのチームは拠点の周りのすべての壁を補強しました。",
+          "ipa": "/ˈæftɚ əkˈnɑːlɪdʒɪŋ ðə ˈθrɛts frəm ðə ˈzɑːmbi ˈhɔrd | ˈaʊɚ ˈtiːm rɪnˈfɔːrst ɔl ðə ˈwɔlz əˈraʊnd ˈaʊɚ ˈbeɪs/",
+          "linking": [
+            "After acknowledging → after の語末 /r/ が acknowledging の語頭 /ə/ に連結",
+            "acknowledging the → /ŋ/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "threat from → /t/ + /f/ (子音+子音、連結なし)",
+            "all the → /l/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "around our → around の語末 /d/ が our の語頭 /aʊ/ に連結"
+          ],
+          "kana": "アフター アクノーリッジング ザ スレットス フラム ザ ゾンビー ホード、アワー ティーム リインフォースト オール ザ ウォールズ アラウンド アワー ベース"
+        }
+      ]
+    }
   ]
 }

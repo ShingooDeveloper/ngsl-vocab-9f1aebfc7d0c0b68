@@ -58,5 +58,189 @@
         "to は弱形 /tə/ に弱化"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "reverses",
+      "ipa": "/rɪˈvɝsɪz/",
+      "examples": [
+        {
+          "en": "The admin reverses the damage after players break the spawn area.",
+          "ja": "プレイヤーがスポーン地域を破壊した後、管理者はダメージを逆転させます。",
+          "ipa": "/ðə ˈædmɪn rɪˈvɝsɪz ðə ˈdæmɪdʒ ˈæftər ˈpleɪərz breɪk ðə ˈspoʊn ˈɛriə/",
+          "linking": [
+            "the admin → the は弱形 /ðə/",
+            "admin reverses → /n/ + /r/（子音+子音、連結なし）",
+            "reverses the → reverses の末尾 /z/ が the の初頭弱形 /ə/ に連結 [rɪˈvɝsɪz ðə]",
+            "break the → break の末尾 /k/ が the の初頭弱形 /ə/ に連結 [breɪk ðə]",
+            "the spawn → the は弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン リバーシズ ザ ダメージ アフター プレイアーズ ブレイク ザ スポウン エリア"
+        },
+        {
+          "en": "The redstone pulse reverses the piston's direction automatically.",
+          "ja": "レッドストーン信号はピストンの方向を自動的に逆転させます。",
+          "ipa": "/ðə ˈrɛdˌstɑn ˈpʌls rɪˈvɝsɪz ðə ˈpɪsənz dɪˈrɛkʃən ˌɔtəˈmætɪkli/",
+          "linking": [
+            "the redstone → the は弱形 /ðə/",
+            "redstone pulse → /n/ + /p/（子音+子音、連結なし）",
+            "pulse reverses → /s/ + /r/（子音+子音、連結なし）",
+            "reverses the → reverses の末尾 /z/ が the の初頭弱形 /ə/ に連結 [rɪˈvɝsɪz ðə]",
+            "the piston's → the は弱形 /ðə/"
+          ],
+          "kana": "ザ レッドストーン パルス リバーシズ ザ ピストンズ ディレクション オートマティックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "reversed",
+      "ipa": "/rɪˈvɝst/",
+      "examples": [
+        {
+          "en": "I reversed the door mechanism to prevent mobs from entering.",
+          "ja": "モブの侵入を防ぐために、ドアメカニズムを逆転させました。",
+          "ipa": "/aɪ rɪˈvɝst ðə ˈdɔr ˌmɛkəˈnɪzəm tu prɪˈvɛnt ˈmɑbz ˈfɹʌm ˈɛntərɪŋ/",
+          "linking": [
+            "reversed the → reversed の末尾 /d/ が the の初頭弱形 /ə/ に連結 [rɪˈvɝst ðə]",
+            "the door → the は弱形 /ðə/",
+            "door mechanism → /r/ + /m/（子音+子音、連結なし）",
+            "to prevent → to は弱形 /tə/",
+            "prevent mobs → /t/ + /m/（子音+子音、連結なし）",
+            "from entering → from の末尾 /m/ が entering の初頭 /ɛ/（母音）に連結 [ˈfɹʌm ˈɛntərɪŋ]"
+          ],
+          "kana": "アイ リバースド ザ ドア メカニズム トゥ プリベント モブズ フラム エンタリング"
+        },
+        {
+          "en": "We reversed the hopper flow to change the crafting output.",
+          "ja": "クラフトの出力を変えるために、ホッパーの流れを逆転させました。",
+          "ipa": "/wi rɪˈvɝst ðə ˈhɑpər ˈfloʊ tu ˈtʃeɪndʒ ðə ˈkræftɪŋ ˈaʊtpʊt/",
+          "linking": [
+            "reversed the → reversed の末尾 /d/ が the の初頭弱形 /ə/ に連結 [rɪˈvɝst ðə]",
+            "the hopper → the は弱形 /ðə/",
+            "hopper flow → /r/ + /f/（子音+子音、連結なし）",
+            "to change → to は弱形 /tə/",
+            "change the → change の末尾 /dʒ/ が the の初頭弱形 /ə/ に先行",
+            "the crafting → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ リバースド ザ ハッパー フロウ トゥ チェンジ ザ クラフティング アウトプット"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "reversed",
+      "ipa": "/rɪˈvɝst/",
+      "examples": [
+        {
+          "en": "Having reversed the lever, the door finally opened.",
+          "ja": "レバーを逆転させたので、ドアがついに開きました。",
+          "ipa": "/ˈhævɪŋ rɪˈvɝst ðə ˈlɛvər | ðə ˈdɔr ˈfaɪnəli ˈoʊpənd/",
+          "linking": [
+            "having reversed → having の末尾 /ŋ/ が reversed の初頭 /r/ に先行（子音+子音）",
+            "reversed the → reversed の末尾 /d/ が the の初頭弱形 /ə/ に連結 [rɪˈvɝst ðə]",
+            "the lever → the は弱形 /ðə/",
+            "door finally → /r/ + /f/（子音+子音、連結なし）",
+            "finally opened → finally の末尾 /i/ が opened の初頭 /o/ に連結 [ˈfaɪnəli ˈoʊpənd]"
+          ],
+          "kana": "ハービング リバースド ザ レバー、ザ ドア ファイナリー オウペンド"
+        },
+        {
+          "en": "The reversed water flow helps us escape from the lava.",
+          "ja": "逆流する水が、私たちを溶岩から逃げるのを助けます。",
+          "ipa": "/ðə rɪˈvɝst ˈwɔtər ˈfloʊ ˈhɛlps əs ɪˈskeɪp ˈfɹʌm ðə ˈlɑvə/",
+          "linking": [
+            "the reversed → the は弱形 /ðə/",
+            "reversed water → /d/ + /w/（子音+子音、連結なし）",
+            "water flow → /r/ + /f/（子音+子音、連結なし）",
+            "flow helps → flow の末尾 /oʊ/ が helps の初頭 /h/ に先行",
+            "helps us → helps の末尾 /s/ が us の初頭弱形 /ə/ に連結 [ˈhɛlps əs]",
+            "escape from → /p/ + /f/（子音+子音、連結なし）",
+            "from the → from の末尾 /m/ が the の初頭弱形 /ə/ に連結 [ˈfɹʌm ðə]"
+          ],
+          "kana": "ザ リバースド ウォーター フロウ ヘルプス アス イスケイプ フラム ザ ラーヴァ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "reversing",
+      "ipa": "/rɪˈvɝsɪŋ/",
+      "examples": [
+        {
+          "en": "By reversing the redstone signal, we can toggle between two states.",
+          "ja": "レッドストーン信号を逆転させることで、2つの状態を切り替えることができます。",
+          "ipa": "/baɪ rɪˈvɝsɪŋ ðə ˈrɛdˌstɑn ˈsɪɡnəl | wi ˈkæn ˈtɑɡəl bɪˈtwin ˈtu ˈdɪfərənt ˈsteɪts/",
+          "linking": [
+            "by reversing → by の末尾 /aɪ/ が reversing の初頭 /r/ に先行",
+            "reversing the → reversing の末尾 /ŋ/ が the の初頭弱形 /ə/ に先行（子音+弱形）",
+            "the redstone → the は弱形 /ðə/",
+            "redstone signal → /n/ + /s/（子音+子音、連結なし）",
+            "signal, we → signal の末尾 /l/ が we の初頭 /w/ に先行",
+            "between two → between の末尾 /n/ が two の初頭 /t/ に先行"
+          ],
+          "kana": "バイ リバーシング ザ レッドストーン シグナル、ウィ キャン トガル ビットウィーン トゥー ディファレント ステイツ"
+        },
+        {
+          "en": "Reversing the hopper flow completely changes the auto-farm output.",
+          "ja": "ホッパーの流れを逆転させることで、自動農場の出力が完全に変わります。",
+          "ipa": "/rɪˈvɝsɪŋ ðə ˈhɑpər ˈfloʊ kəmˈplitli ˈtʃeɪndʒɪz ðə ˈɔtoʊ ˌfɑrm ˈaʊtpʊt/",
+          "linking": [
+            "reversing the → reversing の末尾 /ŋ/ が the の初頭弱形 /ə/ に先行",
+            "the hopper → the は弱形 /ðə/",
+            "hopper flow → /r/ + /f/（子音+子音、連結なし）",
+            "flow completely → flow の末尾 /oʊ/ が completely の初頭 /k/ に先行",
+            "completely changes → completely の末尾 /i/ が changes の初頭 /tʃ/ に先行",
+            "changes the → changes の末尾 /z/ が the の初頭弱形 /ə/ に連結 [ˈtʃeɪndʒɪz ðə]",
+            "the auto → the は弱形 /ðə/"
+          ],
+          "kana": "リバーシング ザ ハッパー フロウ カムプリーティー チェインジズ ザ オウトウ ファーム アウトプット"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "reverses",
+      "ipa": "/rɪˈvɝsɪz/",
+      "examples": [
+        {
+          "en": "These redstone reverses allow us to control multiple mechanisms at once.",
+          "ja": "これらのレッドストーン反転により、複数のメカニズムを一度に制御できます。",
+          "ipa": "/ðiz ˈrɛdˌstɑn rɪˈvɝsɪz əˈlaʊ əs tu kənˈtroʊl ˈmʌltəpəl ˈmɛkənɪzəmz ət ˈwʌns/",
+          "linking": [
+            "these reverses → these の末尾 /z/ が reverses の初頭 /r/ に先行（子音+子音）",
+            "redstone reverses → /n/ + /r/（子音+子音、連結なし）",
+            "reverses allow → reverses の末尾 /z/ が allow の初頭弱形 /ə/ に連結 [rɪˈvɝsɪz əˈlaʊ]",
+            "allow us → allow の末尾 /w/ が us の初頭弱形 /ə/ に連結 [əˈlaʊ əs]",
+            "us to → to は弱形 /tə/",
+            "control multiple → /l/ + /m/（子音+子音、連結なし）",
+            "at once → /t/ + /wʌns/（子音+子音）"
+          ],
+          "kana": "ジーズ レッドストーン リバーシズ アラウ アス トゥ コントロウル マルティプル メカニズムズ アット ワンス"
+        },
+        {
+          "en": "The reverses in the hopper system are essential for this auto-farm.",
+          "ja": "ホッパーシステムのこれらの反転は、この自動農場に不可欠です。",
+          "ipa": "/ðə rɪˈvɝsɪz ɪn ðə ˈhɑpər ˈsɪstəm ɑr ɪˈsɛnʃəl fɔr ðɪs ˈɔtoʊ ˌfɑrm/",
+          "linking": [
+            "the reverses → the は弱形 /ðə/",
+            "reverses in → reverses の末尾 /z/ が in の初頭 /ɪ/ に連結 [rɪˈvɝsɪz ɪn]",
+            "in the → in の末尾 /n/ が the の初頭弱形 /ə/ に連結 [ɪn ðə]、the は弱形 /ðə/",
+            "the hopper → the は弱形 /ðə/",
+            "hopper system → /r/ + /s/（子音+子音、連結なし）",
+            "system are → system の末尾 /m/ が are の初頭 /ɑr/ に先行",
+            "are essential → are の末尾 /r/ が essential の初頭 /ɪ/ に連結 [ɑr ɪˈsɛnʃəl]",
+            "for this → for は弱形 /fər/ で this へ"
+          ],
+          "kana": "ザ リバーシズ イン ザ ハッパー システム アー イセンシャル フォー ジス オウトウ ファーム"
+        }
+      ]
+    }
   ]
 }

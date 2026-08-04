@@ -41,5 +41,35 @@
       "kana": "ユー キャン ファインド スキンズ オナ ウェブサイト"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "websites",
+      "ipa": "/ˈwɛbsaɪts/",
+      "examples": [
+        {
+          "en": "Visit popular websites for crafting tips.",
+          "ja": "クラフトのコツは人気のウェブサイトで調べてください。",
+          "ipa": "/ˈvɪzɪt ˈpɑpjələr ˈwɛbsaɪts fɚ ˈkræftɪŋ ˈtɪps/",
+          "linking": [
+            "visit の末尾子音 /t/ と popular の初頭子音 /p/ が子音+子音で結合し、/t/ が未開放になる [ˈvɪzɪt̚ ˈpɑpjələr]",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ビジッ ポピュラー ウェブサイツ ファー クラフティング ティップス"
+        },
+        {
+          "en": "Some Minecraft websites teach new players.",
+          "ja": "いくつかのマインクラフトのウェブサイトは新しいプレイヤーに教えます。",
+          "ipa": "/səm ˈmaɪnkræft ˈwɛbsaɪts ˈtiːtʃ njuː ˈpleɪərz/",
+          "linking": [
+            "Some の末尾子音 /m/ と Minecraft の初頭子音 /m/ が結合し、1つの /m/ に融合する [səm̚ ˈmaɪnkræft]",
+            "websites の末尾子音 /s/ と teach の初頭子音 /t/ が子音+子音で結合し、/s/ が未開放になる [ˈwɛbsaɪts̚ ˈtiːtʃ]"
+          ],
+          "kana": "サム マインクラフト ウェブサイツ ティーチ ニュー プレイアーズ"
+        }
+      ]
+    }
+  ]
 }

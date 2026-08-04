@@ -65,5 +65,118 @@
       ],
       "kana": "ウィ コミュニケイト スルー ハンド シグナルズ ウェン ボイス チャティズ ブロウケン"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "communicates",
+      "ipa": "/ˌkəˈmjuːnɪkeɪts/",
+      "examples": [
+        {
+          "en": "She communicates with the team about the build plan.",
+          "ja": "彼女はビルド計画についてチームと通信します。",
+          "ipa": "[ʃi ˌkəˈmjuːnɪkeɪts wɪðə ˈtimə əˈbaʊt ðə bɪld plæn]",
+          "linking": [
+            "「with the」→ \"with\" の語末子音 /θ/ が次の母音に連結",
+            "「team about」→ 語末子音 /m/ が母音 /ə/ に連結 [ˈtimə]"
+          ],
+          "kana": "シー コミューニケイツ ウィザ ティーマ アバウト ザ ビルド プラン"
+        },
+        {
+          "en": "The server communicates important updates to all players.",
+          "ja": "サーバーは重要なアップデートをすべてのプレイヤーに通信します。",
+          "ipa": "[ðə ˈsɝːvɚ ˌkəˈmjuːnɪkeɪts ɪmˈpɔːɾənt ˈʌpˌdeɪts tə ɔl ˈpleɪərz]",
+          "linking": [
+            "「communicates important」→ 語末子音 /ts/ が次の母音 /ɪ/ に連結",
+            "「to all」→ 機能語 to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ザ サーヴァー コミューニケイツ イムポーテント アップデイツ タ オール プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "communicated",
+      "ipa": "/ˌkəˈmjuːnɪkeɪtɪd/",
+      "examples": [
+        {
+          "en": "I communicated the meeting point to my teammates.",
+          "ja": "私は集合地点をチームメイトに通信しました。",
+          "ipa": "[aɪ ˌkəˈmjuːnɪkeɪtɪd ðə ˈmiɾɪŋ pɔɪn̚t tə maɪ ˈtimˌmeɪts]",
+          "linking": [
+            "「point to」→ point の語末子音 /t/ は未開放 [pɔɪn̚t]。機能語 to は弱形 /tə/",
+            "「to my」→ 機能語 to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ コミューニケイティド ザ ミーリング ポイント タ マイ ティームメイツ"
+        },
+        {
+          "en": "Players communicated urgently during the raid.",
+          "ja": "プレイヤーは襲撃中に緊急に通信しました。",
+          "ipa": "[ˈpleɪərz ˌkəˈmjuːnɪkeɪtɪd ˈɝːdʒənɾli ˈdʊrɪŋ ðə ˈreɪd]",
+          "linking": [
+            "「communicated urgently」→ 語末子音 /d/ が母音 /ɝ/ に連結",
+            "「the raid」→ 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ コミューニケイティド アーレントリー ドゥーリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "communicated",
+      "ipa": "/ˌkəˈmjuːnɪkeɪtɪd/",
+      "examples": [
+        {
+          "en": "The information communicated to us was about the treasure location.",
+          "ja": "私たちに通信された情報は宝物の場所についてでした。",
+          "ipa": "[ðə ɪnfɚˈmeɪʃən ˌkəˈmjuːnɪkeɪtɪd tə əs wəz əˈbaʊt ðə ˈtrɛʒɚ loʊˈkeɪʃən]",
+          "linking": [
+            "「communicated to」→ 機能語 to は弱形 /tə/ に弱化",
+            "「about the」→ about の語末子音 /t/ は未開放 [əˈbaʊt̚]。機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ザ インファメーション コミューニケイティド タ アス ワズ アバウト ザ トレジャー ロウケーション"
+        },
+        {
+          "en": "Having communicated our strategy, we started the raid.",
+          "ja": "戦略を通信したので、私たちは襲撃を開始しました。",
+          "ipa": "[ˈhævɪŋ ˌkəˈmjuːnɪkeɪtɪd ˈaʊɚ ˈstrætəˌdʒi wi ˈstɑrtɪd ðə reɪd]",
+          "linking": [
+            "「communicated our」→ 語末子音 /d/ が母音 /aʊ/ に連結",
+            "「the raid」→ 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング コミューニケイティド アワー ストラテジー ウィ スターティド ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "communicating",
+      "ipa": "/ˌkəˈmjuːnɪkeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We are communicating through the walkie-talkie mod.",
+          "ja": "私たちはウォーキートーキーMODを通じて通信しています。",
+          "ipa": "[wi ɑr ˌkəˈmjuːnɪkeɪtɪŋ θruː ðə ˈwɑki ˈtɑki mɑd]",
+          "linking": [
+            "「are communicating」→ 助動詞 are は弱形 /ɑr/ に弱化",
+            "「the walkie」→ 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー コミューニケイティング スルー ザ ウォーキー トーキー モッド"
+        },
+        {
+          "en": "Players enjoy communicating while building together.",
+          "ja": "プレイヤーは一緒に建築しながら通信することを楽しみます。",
+          "ipa": "[ˈpleɪɚz ɛnˈdʒɔɪ ˌkəˈmjuːnɪkeɪtɪŋ waɪl ˈbɪldɪŋ təˈɡɛðɚ]",
+          "linking": [
+            "「building together」→ together の初頭は /t/ で子音。弱形 to /tə/ に弱化 [təˈɡɛðɚ]"
+          ],
+          "kana": "プレイヤーズ エンジョイ コミューニケイティング ワイル ビルディング タゲザー"
+        }
+      ]
+    }
   ]
 }

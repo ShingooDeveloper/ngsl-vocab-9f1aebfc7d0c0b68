@@ -43,6 +43,72 @@
       "kana": "ディス ジャーナル カンテインズ リタレリ ディスクリプションズ アヴ マイ マイニング アドヴェンチャーズ"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more literary",
+      "ipa": "/ˌmɔɹ ˈlɪtəˌreri/",
+      "examples": [
+        {
+          "en": "The journal entries in our library are more literary than the simple notes I wrote before.",
+          "ja": "図書館の日記のエントリーは、以前書いた基本的なノートより文学的です。",
+          "ipa": "/ðə ˈdʒɜːrnəl ˈɛntriz ɪn aʊɚ ˈlaɪˌbreri ɑɹ ˌmɔɹ ˈlɪtəˌreri ðæn ðə ˈbeɪsɪk ˈnoʊts aɪ ˈroʊt bɪˈfɔɹ/",
+          "linking": [
+            "the journal → the は弱形 /ðə/",
+            "in our → our は弱形 /aʊɚ/、library に流れる",
+            "are more → are /ɑɹ/ の末尾の r が more の初頭に続き、スムーズに流れる",
+            "more literary → more の末尾の r-色母音が literary の初頭 /l/ に連結"
+          ],
+          "kana": "ザ ジャーナル エントリーズ イン アワー ライブラリー アー モア リタレリ ザン ザ ベイシック ノウツ アイ ロウト ビフォー"
+        },
+        {
+          "en": "His book describing our adventures is more literary than the basic command guide we printed.",
+          "ja": "冒険について説明している彼の本は、印刷した基本的なコマンドガイドより文学的です。",
+          "ipa": "/hɪz ˈbʊk dɪˈskraɪbɪŋ aʊɚ ədˈvɛntʃərz ɪz ˌmɔɹ ˈlɪtəˌreri ðæn ðə ˈbeɪsɪk ˈkɑːmænd ˈɡaɪd wi ˈprɪntɪd/",
+          "linking": [
+            "our adventures → our /aʊɚ/ の末尾 r が adventures の初頭 /ə/（弱形）に連結 [aʊɹədˈvɛntʃɚz] アワーアドベンチャーズ",
+            "is more → is /ɪz/ から more /ˌmɔɹ/ への流れ、smooth transition",
+            "more literary → more の r が literary の /l/ に連結",
+            "basic command → command は /ˈkɑːmænd/、基本的には子音に続く"
+          ],
+          "kana": "ヒズ ブック ディスクライビング アワー アドベンチャーズ イズ モア リタレリ ザン ザ ベイシック コマンド ガイド ウィ プリンティド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most literary",
+      "ipa": "/ˌmoʊst ˈlɪtəˌreri/",
+      "examples": [
+        {
+          "en": "The most literary work on our server is the epic tale we wrote about our journey through the Nether.",
+          "ja": "私たちのサーバー上で最も文学的な作品は、ネザーでの旅についての叙事詩です。",
+          "ipa": "/ðə ˌmoʊst ˈlɪtəˌreri ˈwɜːrk ɑn aʊɚ ˈsɜːrvɚ ɪz ðə ˈɛpɪk ˈteɪl wi ˈroʊt əˈbaʊt aʊɚ ˈdʒɜːrni θruː ðə ˈnɛðɚ/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most literary → most /t/ と literary の /l/ が子音+子音で未開放 [t̚ ˈl]、結果として詰まった音",
+            "work on → work /wɜːrk/ の末尾 /k/ が on /ɑːn/（弱形 /ən/）の初頭 /ə/（弱形）に連結 [ˈwɜːrkən] ワーカン",
+            "journey through → through は /θruː/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ モウスト リタレリ ワーク オン アワー サーヴァー イズ ザ エピック テイル ウィー ロウト アバウト アワー ジャーニー スルー ザ ネザー"
+        },
+        {
+          "en": "This manuscript is the most literary document we have ever kept in our library vault.",
+          "ja": "この原稿は、図書館の金庫に保管した最も文学的な文書です。",
+          "ipa": "/ðɪs ˈmænjəskrɪpt ɪz ðə ˌmoʊst ˈlɪtəˌreri ˈdɑːkjəmənt wi hæv‿ˈɛvɚ kɛpt ɪn aʊɚ ˈlaɪˌbreri ˈvɔːlt/",
+          "linking": [
+            "the most → the は弱形 /ðə/",
+            "most literary → most の末尾 /t/ が literary の初頭 /l/ に未開放で続く [t̚ ˈl]",
+            "have ever → have /hæv/ の末尾 /v/ が ever /ˈɛvɚ/ の初頭 /ɛ/ に連結 [hæˈvɛvɚ] ハヴエヴァー",
+            "our library → our /aʊɚ/ は弱形で、library に流れる"
+          ],
+          "kana": "ディス マニュスクリプト イズ ザ モウスト リタレリ ドキュメント ウィー ハヴエヴァー ケプト イン アワー ライブラリー ヴォルト"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "literary work",

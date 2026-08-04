@@ -61,5 +61,119 @@
       ],
       "kana": "スター アップ ザ クリーパーズ ウェン ユー ワントゥ プラクティス ファイティング"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "stirs",
+      "ipa": "/stɝz/",
+      "examples": [
+        {
+          "en": "She stirs a potion in the cauldron.",
+          "ja": "彼女がカウドロンでポーションを混ぜている。",
+          "ipa": "/ʃi ˈstɝz ə ˈpoʊʃən ɪn ðə ˈkɔːldrən/",
+          "linking": [
+            "stirs の語末子音 /z/ が a の初頭母音 /ə/ に連結 [ˈstɝzə]",
+            "the は機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "シー スターザ ポーション イン ザ コールドロン"
+        },
+        {
+          "en": "The witch stirs the magical brewing cauldron.",
+          "ja": "魔女が魔法的な醸造用のカウドロンをかき混ぜている。",
+          "ipa": "/ðə ˈwɪtʃ ˈstɝz ðə məˈdʒɪkəl ˈbruːɪŋ ˈkɔːldrən/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ、二度出現",
+            "magical の語末 /l/ が brewing の初頭 /b/ に続く。子音+子音なので連結なし"
+          ],
+          "kana": "ザ ウィッチ スターズ ザ マジカル ブルーイング コールドロン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stirred",
+      "ipa": "/stɝd/",
+      "examples": [
+        {
+          "en": "I stirred the cauldron water until it glowed.",
+          "ja": "カウドロンの水が光るまで混ぜた。",
+          "ipa": "/aɪ ˈstɝd ðə ˈkɔːldrən ˈwɔːtər ənˈtɪl ɪt ɡloʊd/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "until は機能語で弱形 /ənˈtɪl/ に弱化"
+          ],
+          "kana": "アイ スターボ ザ コールドロン ウォーター アンティル イット グロウド"
+        },
+        {
+          "en": "We stirred the ingredients for hours during the experiment.",
+          "ja": "実験中、何時間も材料を混ぜた。",
+          "ipa": "/wi ˈstɝd ðə ɪnˈɡridʒənts fər ˈaʊɚz ˈdʊrɪŋ ði ɪkˈspɛrəmənt/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ、二度出現",
+            "for は機能語で弱形 /fər/ ファー"
+          ],
+          "kana": "ウィ スターボ ザ インギリーディェンツ ファー アワーズ ジューリング ザ イクスペリメント"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stirred",
+      "ipa": "/stɝd/",
+      "examples": [
+        {
+          "en": "The well-stirred potion begins to glow.",
+          "ja": "よく混ぜられたポーションが光り始める。",
+          "ipa": "/ðə wɛl ˈstɝd ˈpoʊʃən bɪˈɡɪnz tə ɡloʊ/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ザ ウェル スターボ ポーション ビギンズ タ グロウ"
+        },
+        {
+          "en": "Once stirred, the water becomes crystal clear.",
+          "ja": "一度混ぜると、水が透き通る。",
+          "ipa": "/wʌns ˈstɝd, ðə ˈwɔːtər bɪˈkʌmz ˈkrɪstəl klɪr/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "crystal の語末 /l/ が clear の初頭 /k/ に続く。子音+子音なので連結なし"
+          ],
+          "kana": "ワンス スターボ、ザ ウォーター ビカムズ クリスタル クリア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "stirring",
+      "ipa": "/ˈstɝɪŋ/",
+      "examples": [
+        {
+          "en": "Stirring the cauldron takes skill and patience.",
+          "ja": "カウドロンをかき混ぜるにはスキルと忍耐が必要だ。",
+          "ipa": "/ˈstɝɪŋ ðə ˈkɔːldrən ˈteɪks skɪl ənd ˈpeɪʃəns/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "and は機能語で弱形 /ənd/ に弱化、n の音に同化することもある"
+          ],
+          "kana": "スターリング ザ コールドロン テイクス スキル アン ペーション"
+        },
+        {
+          "en": "The witch is stirring her magical brew.",
+          "ja": "魔女が彼女の魔法の醸造液をかき混ぜている。",
+          "ipa": "/ðə ˈwɪtʃ ɪz ˈstɝɪŋ hɚ məˈdʒɪkəl ˈbru/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ ザ",
+            "is は機能語で弱形 /ɪz/ イズ。stirring に続く"
+          ],
+          "kana": "ザ ウィッチ イズ スターリング ハー マジカル ブルー"
+        }
+      ]
+    }
   ]
 }

@@ -1,0 +1,232 @@
+{
+  "word": "flow",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/floʊ/",
+  "rank": 1372,
+  "level": "A2",
+  "hi": "flow(?:s|ing|ed)?",
+  "meanings": [
+    "【動詞】（液体・気体などが）流れる、流動する（of liquid, gas, or object move continuously）",
+    "【動詞】～から流出する、流れ出す（to issue or emerge in a steady stream）",
+    "【名詞】流れ、流動（the action or state of flowing）",
+    "【名詞】流量、流量制御（the rate at which something flows）"
+  ],
+  "examples": [
+    {
+      "en": "Water flows from mountain springs into the valleys below.",
+      "ja": "水は山の泉から下の谷へ流れます。",
+      "ipa": "/ˈwɔɾər floʊz frəm ˈmaʊntən ˈsprɪŋz ˌɪntu ðə ˈvæliz bɪˈloʊ/",
+      "linking": [
+        "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+        "flows の z が from に連結 [floʊz frəm] フロウズ フラム",
+        "from は弱形 /frəm/。mountain に続く。",
+        "into の t は子音（valleys の v）の前で未開放。"
+      ],
+      "kana": "ウォーラー フロウズ フラム マウンテン スプリングス イント ザ ヴァリーズ ビロウ"
+    },
+    {
+      "en": "The flow of lava from this volcano is quite dangerous.",
+      "ja": "この火山からの溶岩の流れは非常に危険です。",
+      "ipa": "/ðə floʊ əv ˈlɑvə frəm ðɪs ˈvɑlˌkeɪnoʊ ɪz ˈkwaɪt ˈdeɪndʒərəs/",
+      "linking": [
+        "the は弱形 /ðə/。flow に続く [ðə floʊ] ザ フロウ",
+        "flow の w が of に連結せず。of は弱形 /əv/ [əv ˈlɑvə] オブ ラーバ",
+        "from は弱形 /frəm/。this に続く。",
+        "is は弱形 /ɪz/ だが通常はっきり発音される。"
+      ],
+      "kana": "ザ フロウ オブ ラーバ フラム ディス ボルケイノウ イズ クワイト デインジャラス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "go with the flow",
+      "ja": "流れに逆らわない、流されるままにする",
+      "example": "When building, you should go with the flow and adapt to the terrain.",
+      "example_ja": "建築するときは、地形に適応して流れに逆らわないようにすべきです。",
+      "ipa": "/wɛn ˈbɪldɪŋ | ju ʃʊd ɡoʊ wɪð ðə floʊ ənd əˈdæpt tu ðə təˈreɪn/",
+      "linking": [
+        "with は弱形 /wɪð/。the に続く [wɪð ðə] ウィ ザ",
+        "the は弱形 /ðə/。flow に続く [ðə floʊ] ザ フロウ",
+        "and は弱形 /ənd/。adapt に続く。",
+        "adapt の t が to に連結 [əˈdæpt tu] アダプ タ"
+      ],
+      "kana": "ホエン ビルディング、ユー シュッド ゴウ ウィ ザ フロウ アン アダプ ツ ザ テレイン"
+    },
+    {
+      "idiom": "flow of traffic",
+      "ja": "交通の流れ",
+      "example": "The flow of mobs at night requires careful base planning.",
+      "example_ja": "夜間のモブの流れには、慎重な基地計画が必要です。",
+      "ipa": "/ðə floʊ əv ˈmoʊbz æt ˈnaɪt rɪˈkwaɪərz ˈkɛrfəl ˈbeɪs ˈplænɪŋ/",
+      "linking": [
+        "the は弱形 /ðə/。flow に続く [ðə floʊ] ザ フロウ",
+        "flow の w が of に連結せず。of は弱形 /əv/ [əv ˈmoʊbz] オブ モウブズ",
+        "of の v が mobs に連結 [əv ˈmoʊbz] オブ モウブズ（実は連結なし、子音+子音）",
+        "base は /beɪs/。planning に続く。"
+      ],
+      "kana": "ザ フロウ オブ モウブズ アット ナイト リクワイアーズ ケアフル ベイス プランニング"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "flows",
+      "ipa": "/floʊz/",
+      "examples": [
+        {
+          "en": "Water flows down from the mountain peaks into the valley.",
+          "ja": "水は山の頂上から谷に流れ落ちます。",
+          "ipa": "/ˈwɔɾər floʊz daʊn frəm ðə ˈmaʊntən ˈpiks ˌɪntu ðə ˈvæli/",
+          "linking": [
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "flows の z が down に連結 [floʊz daʊn] フロウズ ダウン",
+            "from は弱形 /frəm/。mountain に続く [frəm ðə] フラム ザ",
+            "into の t は子音の前で未開放。valley に続く。"
+          ],
+          "kana": "ウォーラー フロウズ ダウン フラム ザ マウンテン ピークス イント ザ ヴァリー"
+        },
+        {
+          "en": "Redstone signal flows through these repeaters to power all the mechanisms.",
+          "ja": "レッドストーン信号はこれらのリピーターを通して流れ、すべてのメカニズムに電源を供給します。",
+          "ipa": "/ˈrɛdˌstoʊn ˈsɪɡnəl floʊz θru ðiz riˈpitərz tə ˈpaʊər ɔl ðə ˈmɛkənˌɪzəmz/",
+          "linking": [
+            "signal の l が flows に連結 [ˈsɪɡnəl floʊz] シグナル フロウズ",
+            "flows の z が through に連結 [floʊz θru] フロウズ スルー",
+            "through は /θru/。these に続く [θru ðiz] スルー ディーズ",
+            "to は弱形 /tə/。power に続く [tə ˈpaʊər] タ パワー"
+          ],
+          "kana": "レッドストーン シグナル フロウズ スルー ディーズ リピーターズ タ パワー オール ザ メカニズムズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "flowed",
+      "ipa": "/floʊd/",
+      "examples": [
+        {
+          "en": "Lava flowed from the volcano and destroyed our barn.",
+          "ja": "溶岩は火山から流れ出し、私たちの納屋を破壊しました。",
+          "ipa": "/ˈlɑvə floʊd frəm ðə vɑlˈkeɪnoʊ ənd dɪˈstrɔɪd ˈaʊər bɑrn/",
+          "linking": [
+            "lava の a が flowed に連結 [ˈlɑvə floʊd] ラーバ フロウド",
+            "flowed の d が from に連結 [floʊd frəm] フロウド フラム",
+            "from は弱形 /frəm/。volcano に続く [frəm ðə] フラム ザ",
+            "and は弱形 /ənd/。destroyed に続く。"
+          ],
+          "kana": "ラーバ フロウド フラム ザ ボルケイノウ アン ディストロイド アワー バーン"
+        },
+        {
+          "en": "Water flowed through the channels we built yesterday.",
+          "ja": "昨日建てたチャネルを水が流れました。",
+          "ipa": "/ˈwɔɾər floʊd θru ðə ˈtʃænəlz wi bɪlt ˈjɛstərˌdeɪ/",
+          "linking": [
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "flowed の d が through に連結 [floʊd θru] フロウド スルー",
+            "through は /θru/。the に続く [θru ðə] スルー ザ",
+            "channels の z が we に連結 [ˈtʃænəlz wi] チャネルズ ウィ"
+          ],
+          "kana": "ウォーラー フロウド スルー ザ チャネルズ ウィ ビルト イエスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "flowed",
+      "ipa": "/floʊd/",
+      "examples": [
+        {
+          "en": "The water that flowed through our base was cold and clear.",
+          "ja": "私たちの基地を流れた水は冷たくて澄んでいました。",
+          "ipa": "/ðə ˈwɔɾər ðæt floʊd θru ˈaʊər ˈbeɪs wəz ˈkoʊld ənd ˈklɪr/",
+          "linking": [
+            "the は弱形 /ðə/。water に続く [ðə ˈwɔɾər] ザ ウォーラー",
+            "water の -er がフラップ化 /ɾ/",
+            "flowed の d が through に連結 [floʊd θru] フロウド スルー",
+            "and は弱形 /ənd/。clear に続く。"
+          ],
+          "kana": "ザ ウォーラー ザット フロウド スルー アワー ベイス ワズ コウルド アン クリア"
+        },
+        {
+          "en": "After water had flowed across the farm, crops grew much faster.",
+          "ja": "水が農地全体に流れた後、作物はずっと速く成長しました。",
+          "ipa": "/ˈæftər ˈwɔɾər hæd floʊd əˈkrɔs ðə ˈfɑrm | ˈkrɑps ɡru mʌtʃ ˈfæstər/",
+          "linking": [
+            "after の r が water に連結 [ˈæftər ˈwɔɾər] アフター ウォーラー",
+            "water の -er がフラップ化 /ɾ/",
+            "flowed の d が across に連結 [floʊd əˈkrɔs] フロウド アクロス",
+            "faster の -er がフラップ化 [ˈfæstər] ファスター"
+          ],
+          "kana": "アフター ウォーラー ハド フロウド アクロス ザ ファーム、クラップス グルー マッチ ファスター"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "flowing",
+      "ipa": "/ˈfloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The flowing water in this aqueduct irrigates our entire farm.",
+          "ja": "この水路の流水は私たちの全農場を灌漑します。",
+          "ipa": "/ðə ˈfloʊɪŋ ˈwɔɾər ɪn ðɪs ˈækwəˌdʌkt ˈɪrɪˌɡeɪts ˈaʊər ɛnˈtaɪər ˈfɑrm/",
+          "linking": [
+            "the は弱形 /ðə/。flowing に続く [ðə ˈfloʊɪŋ] ザ フロウィング",
+            "flowing の g が water に続く。water の -er がフラップ化 [ˈfloʊɪŋ ˈwɔɾər] フロウィング ウォーラー",
+            "irrigates の t がフラップ化 [ˈɪrɪˌɡeɪɾs] イリゲイッツ",
+            "entire の r が farm に連結 [ɛnˈtaɪər ˈfɑrm] エンタイヤー ファーム"
+          ],
+          "kana": "ザ フロウィング ウォーラー イン ディス アクウェダクト イリゲイッツ アワー エンタイヤー ファーム"
+        },
+        {
+          "en": "Building flowing channels requires careful planning and lots of sand.",
+          "ja": "流れるチャネルを建設するには、慎重な計画と大量の砂が必要です。",
+          "ipa": "/ˈbɪldɪŋ ˈfloʊɪŋ ˈtʃænəlz rɪˈkwaɪərz ˈkɛrfəl ˈplænɪŋ ənd lɑts əv ˈsænd/",
+          "linking": [
+            "building の g が flowing に連結 [ˈbɪldɪŋ ˈfloʊɪŋ] ビルディング フロウィング",
+            "flowing の g が channels に続く。channels の z が requires に連結 [ˈtʃænəlz rɪˈkwaɪərz] チャネルズ リクワイアーズ",
+            "of は弱形 /əv/。sand に続く [əv ˈsænd] オブ サンド"
+          ],
+          "kana": "ビルディング フロウィング チャネルズ リクワイアーズ ケアフル プランニング アン ロッツ アブ サンド"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "flows",
+      "ipa": "/floʊz/",
+      "examples": [
+        {
+          "en": "Multiple water flows create a beautiful landscape in our valley.",
+          "ja": "複数の水の流れが、私たちの谷に美しい風景を作ります。",
+          "ipa": "/ˈmʌɫtɪpəl ˈwɔɾər floʊz kriˈeɪt ə ˈbjuːtɪfəl ˈlændˌskeɪp ɪn ˈaʊər ˈvæli/",
+          "linking": [
+            "multiple は /ˈmʌɫtəpəl/。water に続く（子音+子音）。",
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "flows の z が create に連結 [floʊz kriˈeɪt] フロウズ クリエイト",
+            "beautiful の l が landscape に続く（子音+子音）。"
+          ],
+          "kana": "マルティプル ウォーラー フロウズ クリエイト ア ビューティフル ランドスケイプ イン アワー ヴァリー"
+        },
+        {
+          "en": "The flows of liquid flowing near my base drain into a collection system.",
+          "ja": "私の基地の近くで流れている液体の流れは、回収システムに排水します。",
+          "ipa": "/ðə floʊz əv ˈlɪkwɪd ˈfloʊɪŋ ˈnɪr maɪ ˈbeɪs ˈdreɪn ˈɪntu ə kəˈlɛkʃən ˈsɪstəm/",
+          "linking": [
+            "the は弱形 /ðə/。flows に続く [ðə floʊz] ザ フロウズ",
+            "flows の z が of に連結。of は弱形 /əv/ [floʊz əv] フロウズ オブ",
+            "liquid の d が flowing に連結 [ˈlɪkwɪd ˈfloʊɪŋ] リクウィド フロウィング",
+            "flowing の g が near に続く。near の r が my に連結 [ˈfloʊɪŋ ˈnɪr maɪ] フロウィング ニャー マイ"
+          ],
+          "kana": "ザ フロウズ オブ リクウィド フロウィング ニャー マイ ベイス ドレイン イント ア コレクション シスタム"
+        }
+      ]
+    }
+  ]
+}

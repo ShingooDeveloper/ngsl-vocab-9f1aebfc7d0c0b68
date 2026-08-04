@@ -61,5 +61,37 @@
       ],
       "kana": "ザッツ サッチ ア ダッド ジョーク アバウト クリーパーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "dads",
+      "ipa": "/dædz/",
+      "examples": [
+        {
+          "en": "The dads are building a shelter for their kids.",
+          "ja": "お父さんたちが子供たちのためにシェルターを建築している。",
+          "ipa": "[ðə ˈdædzər ˈbɪldɪŋ ə ˈʃɛltər fər ðɛr ˈkɪdz]",
+          "linking": [
+            "The - 弱形 /ðə/",
+            "dads are - z が ə に連結 [ˈdædzər]",
+            "a shelter - 弱形 /ə/、shelter の /ʃ/ に連結 [əˈʃɛltər]"
+          ],
+          "kana": "ザ ダッズア ビルディング ア シェルター ファ ザ キッズ"
+        },
+        {
+          "en": "Several dads joined the multiplayer server to play with their children.",
+          "ja": "複数のお父さんが子供たちとプレイするためにマルチプレイサーバーに参加した。",
+          "ipa": "[ˈsɛvərəl̚ ˈdædz dʒɔɪnd ðə ˌmʌltɪˈpleɪər ˈsɛrvər tə pleɪ wɪð ðɛr ˈtʃɪldrən]",
+          "linking": [
+            "Several dads - l が未開放で d に先行 [ˈsɛvərəl̚ ˈdædz]",
+            "the - 弱形 /ðə/",
+            "to - 弱形 /tə/"
+          ],
+          "kana": "セベラル ダッズ ジョインド ザ マルティプレイアー サーバー タ プレイ ウィズ ザ チルドレン"
+        }
+      ]
+    }
   ]
 }

@@ -129,7 +129,7 @@
           "ipa": "/wi ˈstɔːrd ˈvɛriəs əˈmaʊnts əv ˈdɪfɚənt məˈtɪriəlz ɪn ˈaʊɚ ˈɔːrɡənɪzd ˈbeɪs/",
           "linking": [
             "various amounts → /s/ + /ə/ が連結 [ˈvɛriəs əˈmaʊnts] ベリアス アマウンツ",
-            "of different → /v/ + /d/ が連結、different は /ə/ で弱化開始 [əv ˈdɪfɚənt] オヴ ディファレント",
+            "of different → /v/ + /d/（consonant+consonant、連結なし）、different は /ə/ で弱化 [əv ˈdɪfɚənt] オヴ ディファレント",
             "in our → /n/ + /aʊ/ が連結 [ɪn ˈaʊɚ] イナワー"
           ],
           "kana": "ウィ ストード ベリアス アマウンツ オヴ ディファレント マテリアルズ イナワー オーガナイズド ベイス"
@@ -160,7 +160,7 @@
           "ipa": "/ðə ˈtoʊtəl ˈdæmɪdʒ frəm ðə ˈfɔːl əˈmaʊnts tu ˈfaɪv ˈhɑːrts ˈwɝθ əv ˈhɛlθ ˈlɔːs/",
           "linking": [
             "the total → the は弱形 /ðə/",
-            "from the → from は弱形 /frəm/、the も弱形 /ðə/ で連結 [frəm ðə]",
+            "from the → from は弱形 /frəm/、the は弱形 /ðə/（consonant+consonant、連結なし）",
             "fall amounts → /l/ + /ə/ が連結 [fɔːl əˈmaʊnts] フォール アマウンツ",
             "worth of → /θ/ + /ə/ が連結、of は弱形 /əv/ [ˈwɝθ əv] ワース オヴ"
           ],
@@ -192,8 +192,8 @@
           "ipa": "/ðə ˈtoʊtəl ɹɪˈsɔːrsɪz wi kəˈlɛktəd ˈdʊrɪŋ ðə ˈmaɪnɪŋ ɪkˈspɪdɪʃən əˈmaʊntəd tə ˈsɛvɚəl ˈtʃɛsts ˈfʊl/",
           "linking": [
             "the total → the は弱形 /ðə/",
-            "collected during → /d/ + /dʒ/ (consonant+consonant、連結なし)、during は /ˈdʊrɪŋ/",
-            "expedition amounted → /n/ + /ə/ が連結、amounted は [əˈmaʊntəd] エクスピディション アマウンテド",
+            "collected during → /d/ + /d/（consonant+consonant、連結なし）、during は /ˈdʊrɪŋ/",
+            "expedition amounted → /n/ + /ə/ が連結 [ɪkˈspɪdɪʃən əˈmaʊntəd] エクスピディション アマウンテド",
             "to several → to は弱形 /tə/"
           ],
           "kana": "ザ トウタル リソーシズ ウィ コレクテド デュアリング ザ マイニング エクスピディション アマウンテド タ セヴァラル チェスツ フル"
@@ -207,41 +207,9 @@
             "diamonds and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈdaɪməndz ənd] ダイアマンズ アンド",
             "emeralds we → /z/ + /w/ (consonant+consonant、連結なし)",
             "found yesterday → /d/ + /j/ (consonant+consonant、連結なし)、yesterday は [ˈjɛstɚˌdeɪ]",
-            "amounted to → /d/ + /tu/ が連結、to は弱形 /tə/ [əˈmaʊntəd tə] アマウンテド タ"
+            "amounted to → /d/ + /t/（consonant+consonant、連結なし）、to は弱形 /tə/"
           ],
           "kana": "オール ザ ダイアマンズ アンド エメラルズ ウィ ファウンド イェスタデイ アマウンテド タ ア キングズ ランサム"
-        }
-      ]
-    },
-    {
-      "type": "past_participle",
-      "label": "過去分詞（動詞）",
-      "text": "amounted",
-      "ipa": "/əˈmaʊntəd/",
-      "examples": [
-        {
-          "en": "Having amounted our resources carefully, we knew exactly what we could afford to build.",
-          "ja": "リソースを注意深く合計したので、正確に何が建築できるかを知っていました。",
-          "ipa": "/ˈheɪvɪŋ əˈmaʊntəd ˈaʊɚ ɹɪˈsɔːrsɪz ˈkɛrfəli | wi ˈnjuː ɪɡˈzæktli wʌt wi kəd əˈfɔːrd tə ˈbɪld/",
-          "linking": [
-            "amounted our → /d/ + /aʊ/ が連結 [əˈmaʊntəd ˈaʊɚ] アマウンテド アワー",
-            "carefully we → /i/ + /w/ (vowel+consonant、連結なし)",
-            "knew exactly → /u/ + /ɪ/ が連結 [ˈnjuː ɪɡˈzæktli] ニュー イグザクトリー",
-            "could afford → could は弱形 /kəd/、afford と連結"
-          ],
-          "kana": "ハヴィング アマウンテド アワー リソーシズ ケアフリー、ウィ ニュー イグザクトリー ワット ウィ クッド アフォード タ ビルド"
-        },
-        {
-          "en": "The supplies amounted in the warehouse were carefully recorded in our inventory ledger.",
-          "ja": "倉庫に保管された物資はインベントリ台帳に注意深く記録されました。",
-          "ipa": "/ðə səˈplaɪz əˈmaʊntəd ɪn ðə ˈwɛɚˌhaʊs wɚ ˈkɛrfəli rɪˈkɔːrdəd ɪn ˈaʊɚ ɪnˈvɛntɔːri ˈlɛdʒɚ/",
-          "linking": [
-            "supplies amounted → /z/ + /ə/ が連結 [səˈplaɪz əˈmaʊntəd] サプライズ アマウンテド",
-            "in the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
-            "recorded in → /d/ + /ɪ/ が連結 [rɪˈkɔːrdəd ɪn] リコーデド イン",
-            "in our → /n/ + /aʊ/ が連結 [ɪn ˈaʊɚ] イナワー"
-          ],
-          "kana": "ザ サプライズ アマウンテド イン ザ ウェアハウス ワー ケアフリー リコーディド イナワー インベントリー レッジャー"
         }
       ]
     },
@@ -275,6 +243,113 @@
             "in our → /n/ + /aʊ/ が連結 [ɪn ˈaʊɚ] イナワー"
           ],
           "kana": "ウィ スペント ザ インタイアー ウィーク アマウンティング アンド オーガナイジング エブリー シングル マテリアル イナワー ストレッジ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is + -ing）",
+      "text": "is amounting",
+      "ipa": "/ɪz əˈmaʊntɪŋ/",
+      "examples": [
+        {
+          "en": "The materials we're collecting during this mining session are amounting to a small fortune.",
+          "ja": "このマイニングセッション中に集めている材料の合計が、かなり貴重な量に達しています。",
+          "ipa": "/ðə məˈtɪriəlz wir kəˈlɛktɪŋ ˈdʊrɪŋ ðɪs ˈmaɪnɪŋ ˈsɛʃən ɑr əˈmaʊntɪŋ tu ə ˈsmɔːl ˈfɔːrtʃən/",
+          "linking": [
+            "materials we're → /z/ + /w/ (consonant+consonant、連結なし)、we're は縮約形 /wir/",
+            "we're collecting → /r/ + /k/ (consonant+consonant、連結なし)",
+            "during this → /ŋ/ + /ð/ (consonant+consonant、連結なし)",
+            "are amounting → are は弱形 /ə/ か /əɹ/、amounting と連結 [ə əˈmaʊntɪŋ]",
+            "to a → to は弱形 /tə/、a は弱形 /ə/"
+          ],
+          "kana": "ザ マテリアルズ ウィアー コレクティング デュアリング ディス マイニング セッション ア アマウンティング トゥ ア スモール フォーチュン"
+        },
+        {
+          "en": "The total number of blocks is amounting to exactly what we need for the wall.",
+          "ja": "ブロックの総数がちょうど私たちが壁に必要とする数に達しています。",
+          "ipa": "/ðə ˈtoʊtəl ˈnʌmbɚ əv ˈblɑːks ɪz əˈmaʊntɪŋ tu ɪɡˈzæktli ˈwɑt wi ˈniːd fɔr ðə ˈwɔːl/",
+          "linking": [
+            "the total → the は弱形 /ðə/",
+            "number of → /r/ + /ə/ が連結、of は弱形 /əv/ [ˈnʌmbɚ əv] ナンバー オヴ",
+            "is amounting → is は弱形 /ɪz/、amounting と連結 [ɪz əˈmaʊntɪŋ] イズ アマウンティング",
+            "to exactly → to は弱形 /tə/、exactly は /ɪɡˈzæktli/"
+          ],
+          "kana": "ザ トウタル ナンバー オヴ ブロックス イズ アマウンティング トゥ イグザクトリー ワット ウィ ニード フォー ザ ウォール"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was amounting",
+      "ipa": "/wəz əˈmaʊntɪŋ/",
+      "examples": [
+        {
+          "en": "While we were building yesterday, the resource count was amounting to over two stacks.",
+          "ja": "昨日私たちが建築している間、リソースの数は2スタック以上に達していました。",
+          "ipa": "/waɪl wi wɚ ˈbɪldɪŋ ˈjɛstɚdeɪ | ðə ɹɪˈsɔːrs ˈkaʊnt wəz əˈmaʊntɪŋ tu ˈoʊvɚ ˈtu ˈstæks/",
+          "linking": [
+            "while we → /l/ + /w/ (consonant+consonant、連結なし)",
+            "we were → /i/ + /w/ (母音+子音)、were は弱形 /wɚ/",
+            "were building → /r/ + /b/ (consonant+consonant、連結なし)",
+            "resource count → /s/ + /k/ (consonant+consonant、連結なし)",
+            "was amounting → was は弱形 /wəz/、amounting と連結 [wəz əˈmaʊntɪŋ] ワズ アマウンティング",
+            "to over → to は弱形 /tə/、over と連結 [tə ˈoʊvɚ] タ オウバー"
+          ],
+          "kana": "ワイル ウィ ワー ビルディング イェスタデイ、ザ リソース カウント ワズ アマウンティング タ オウバー トゥー スタックス"
+        },
+        {
+          "en": "During the expedition, the treasure we found was amounting to more than we expected.",
+          "ja": "探検中に、私たちが見つけた宝は予想以上の量に達していました。",
+          "ipa": "/ˈdʊrɪŋ ðə ɪkˈspɪdɪʃən | ðə ˈtrɛʒɚ wi ˈfaʊnd wəz əˈmaʊntɪŋ tu ˈmɔːr ðən wi ɪkˈspɛktəd/",
+          "linking": [
+            "during the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "treasure we → /r/ + /w/ (consonant+consonant、連結なし)",
+            "was amounting → was は弱形 /wəz/、amounting と連結 [wəz əˈmaʊntɪŋ] ワズ アマウンティング",
+            "to more → to は弱形 /tə/、more と連結 [tə ˈmɔːr] タ モア",
+            "than we → /n/ + /w/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "デュアリング ザ エクスピディション、ザ トレジャー ウィ ファウンド ワズ アマウンティング タ モア ザン ウィ イクスペクテド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been amounting",
+      "ipa": "/həd bɪn əˈmaʊntɪŋ/",
+      "examples": [
+        {
+          "en": "Before we discovered the new mining area, our collection had been amounting to far less than what we have now.",
+          "ja": "新しいマイニングエリアを発見する前は、私たちのコレクションは現在より遥かに少ない量に達していました。",
+          "ipa": "/bɪˈfɔːr wi dɪsˈkʌvɚd ðə ˈnu ˈmaɪnɪŋ ˈɛriə | ˈaʊɚ kəˈlɛkʃən həd bɪn əˈmaʊntɪŋ tu ˈfɑːr ˈlɛs ðən ˈwɑt wi ˈhæv ˈnaʊ/",
+          "linking": [
+            "before we → /r/ + /w/ (consonant+consonant、連結なし)",
+            "we discovered → /i/ + /d/ (母音+子音)",
+            "the new → the は弱形 /ðə/、new は /nju/",
+            "mining area → /ŋ/ + /ɛ/ が連結 [ˈmaɪnɪŋ ˈɛriə] マイニング エリア",
+            "had been → had は弱形 /əd/ か /d/、been と連結 [əd bɪn əˈmaʊntɪŋ]",
+            "to far → to は弱形 /tə/、far と連結 [tə ˈfɑːr] タ ファー",
+            "have now → /v/ + /n/ (consonant+consonant、連結なし)、have は弱形 /həv/"
+          ],
+          "kana": "ビフォア ウィ ディスカバード ザ ニュー マイニング エリア、アワー コレクション アッド ビン アマウンティング トゥ ファー レス ザン ワット ウィ ハブ ナウ"
+        },
+        {
+          "en": "By the time the battle ended, the damage we had been taking had been amounting to nearly half our health.",
+          "ja": "戦いが終わるまでに、私たちが受けていたダメージの合計は、ほぼ半分のヘルスに達していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbætəl ˈɛndəd | ðə ˈdæmɪdʒ wi həd bɪn ˈteɪkɪŋ həd bɪn əˈmaʊntɪŋ tu ˈniːrli ˈhæf ˈaʊɚ ˈhɛlθ/",
+          "linking": [
+            "by the → /aɪ/ + /ð/ (母音+子音)、the は弱形 /ðə/",
+            "the battle → /ə/ + /b/ (母音+子音)",
+            "battle ended → /l/ + /ɛ/ が連結 [ˈbætəl ˈɛndəd] バトル エンデド",
+            "had been → had は弱形 /əd/ か /d/、been と連結 [əd bɪn ˈteɪkɪŋ]",
+            "been taking → /n/ + /t/ (consonant+consonant、連結なし)",
+            "taking had → /ŋ/ + /h/ (consonant+consonant、連結なし)",
+            "had been → had は弱形 /əd/ か /d/、amounting と連結 [əd bɪn əˈmaʊntɪŋ]",
+            "to nearly → to は弱形 /tə/、nearly と連結 [tə ˈnɪrli] タ ニアリー"
+          ],
+          "kana": "バイ ザ タイム ザ バトル エンデド、ザ ダメッジ ウィ アッド ビン テイキング アッド ビン アマウンティング タ ニアリー ハーフ アワー ヘルス"
         }
       ]
     }

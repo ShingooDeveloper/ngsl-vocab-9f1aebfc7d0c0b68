@@ -86,5 +86,68 @@
       ],
       "kana": "ウェン コンフランティド ア バウト グリーフィング, ヒ アドミティド ギルティ アズ チャージド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "guiltier",
+      "ipa": "/ˈɡɪltiər/",
+      "examples": [
+        {
+          "en": "Steve looks guiltier than ever after griefing.",
+          "ja": "スティーブは荒らし行為後、以前より有罪に見えます。",
+          "ipa": "/stiv ˈlʊks ˈɡɪltiər ðən ˈɛvər ˈæftər ˈɡriːfɪŋ/",
+          "linking": [
+            "looks の末尾 /ks/ と guiltier の初頭 /ɡ/ は子音+子音で連結しない",
+            "than は機能語で弱形 /ðən/ に弱化",
+            "ever の末尾の /r/ が after の初頭の母音 /æ/ に連結する"
+          ],
+          "kana": "スティーブ ルックス ギルティア ザン エヴラフター グリーフィング"
+        },
+        {
+          "en": "The player felt guiltier about the theft.",
+          "ja": "プレイヤーは盗難についてより有罪に感じました。",
+          "ipa": "/ðə ˈpleɪər fɛlt ˈɡɪltiər əˈbaʊt ðə θɛft/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "player の末尾 /r/ と felt の初頭 /f/ は子音+子音で連結しない",
+            "guiltier の末尾の /r/ が about の初頭の母音 /ə/ に連結する"
+          ],
+          "kana": "ザ プレイア フェルト ギルティアラ バウト ザ セフト"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "guiltiest",
+      "ipa": "/ˈɡɪltiəst/",
+      "examples": [
+        {
+          "en": "He's the guiltiest player on the entire server.",
+          "ja": "彼はサーバー全体で最も有罪なプレイヤーです。",
+          "ipa": "/hiːz ðə ˈɡɪltiəst ˈpleɪər ɑn ðə ɛnˈtaɪər ˈsɝvər/",
+          "linking": [
+            "he's の末尾 /z/ と the の初頭 /ð/ は子音+子音で連結しない",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "guiltiest の末尾の /t/ は未開放で、player の初頭 /p/ に吸収される"
+          ],
+          "kana": "ヒーズ ザ ギルティエスト プレイア オン ザ エンタイア サーヴァー"
+        },
+        {
+          "en": "That was the guiltiest moment of my gaming life.",
+          "ja": "それは私のゲーム人生で最も有罪な瞬間でした。",
+          "ipa": "/ðæt wəz ðə ˈɡɪltiəst ˈmoʊmənt əv maɪ ˈɡeɪmɪŋ laɪf/",
+          "linking": [
+            "that の末尾 /t/ は未開放。was の初頭は新しい子音 /w/ で開始される",
+            "was は弱形 /wəz/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "guiltiest の末尾の /t/ は未開放で、moment の初頭 /m/ に吸収される"
+          ],
+          "kana": "ザッ ワズ ザ ギルティエスト モウメント アヴ マイ ゲイミング ライフ"
+        }
+      ]
+    }
   ]
 }

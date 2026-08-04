@@ -47,6 +47,63 @@
       "kana": "ア シック レイア アヴ ストーン キープス ザ ラーヴァ アウト"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "thicker",
+      "ipa": "/ˈθɪkər/",
+      "examples": [
+        {
+          "en": "Thicker walls provide better protection from creepers.",
+          "ja": "より厚い壁はクリーパーからより良い保護を提供します。",
+          "ipa": "/ˈθɪkər wɔːlz prəˈvaɪd ˈbɛtɚ prəˈtɛkʃən frəm ˈkripɚz/",
+          "linking": [
+            "from は前置詞で弱形 /frəm/。"
+          ],
+          "kana": "シッカー ウォールズ プロヴァイド ベター プロテクション フラム クリーパーズ"
+        },
+        {
+          "en": "Make the wall thicker by adding more blocks.",
+          "ja": "さらにブロックを追加して壁をより厚くしてください。",
+          "ipa": "/meɪk ðə wɔːl ˈθɪkər baɪ ˈædɪŋ mɔːr blɑks/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "メイク ザ ウォール シッカー バイ アディング モア ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "thickest",
+      "ipa": "/ˈθɪkəst/",
+      "examples": [
+        {
+          "en": "The thickest armor available is Netherite.",
+          "ja": "入手可能な最も厚い装甲はネザライトです。",
+          "ipa": "/ðə ˈθɪkəst ˈɑːrmɚ əˈveɪləbəl ɪz ˈnɛðərɪt/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "thickest の末尾子音 /t/ が armor の初頭母音 /ɑː/ に連結。結果は [ˈθɪkəstɑːrmɚ]。"
+          ],
+          "kana": "ザ シッカスト アーマー アヴェイラブル イズ ネザライト"
+        },
+        {
+          "en": "The thickest wall in our base is made of obsidian.",
+          "ja": "私たちの基地で最も厚い壁は黒曜石でできています。",
+          "ipa": "/ðə ˈθɪkəst wɔːl ɪn ˈaʊɚ beɪs ɪz meɪd əv ɑbˈsɪdiən/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "base の末尾 /z/ が is の初頭 /ɪ/ に連結。結果は [ˈbeɪzɪz]。",
+            "of は機能語で弱形 /əv/。"
+          ],
+          "kana": "ザ シッカスト ウォール イン アワー ベイズ イズ メイド アヴ アブシディアン"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "through thick and thin",

@@ -68,5 +68,35 @@
         "the → 弱形 /ðə/: [ðə] ザ"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "invitations",
+      "ipa": "/ɪnvɪˈteɪʃənz/",
+      "examples": [
+        {
+          "en": "We sent out invitations to the building competition.",
+          "ja": "建築コンテストの招待状を送った。",
+          "ipa": "/wiː ˈsɛn̚t aʊt ɪnvɪˈteɪʃənz tə ðə ˈbɪldɪŋ ˌkɑmpiˈtɪʃən/",
+          "linking": [
+            "sent out → sent末尾の子音 /t/ が未開放で詰まり [sɛn̚t aʊt]",
+            "to the → to が弱形 /tə/、the が弱形 /ðə/ [tə ðə]"
+          ],
+          "kana": "ウィ セン(ッ)トアウト インビテイションズ タ ザ ビルディング コンペティション"
+        },
+        {
+          "en": "Many invitations were delivered at the spawn point.",
+          "ja": "多くの招待状がスポーン地点で配達された。",
+          "ipa": "/ˈmɛni ɪnvɪˈteɪʃənz wɚ dɪˈlɪvərd æ̚t ðə ˈspɔn pɔɪnt/",
+          "linking": [
+            "were delivered → were が弱形 /wɚ/ で delivered に連続",
+            "at the → at末尾の子音 /t/ が未開放で詰まり、the が弱形 /ðə/ [æ̚t ðə]"
+          ],
+          "kana": "メニ インビテイションズ ワー ディリバード ア(ッ)ザ スポーン ポイント"
+        }
+      ]
+    }
   ]
 }

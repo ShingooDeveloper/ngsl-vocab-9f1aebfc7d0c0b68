@@ -62,5 +62,71 @@
       ],
       "kana": "ザット ビルド イズ アグリー アズ シン バッ ザ レッドストーン メカニズム イズ ブリリャント"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "uglier",
+      "ipa": "/ˈʌɡliər/",
+      "examples": [
+        {
+          "en": "This texture pack is uglier than the default one.",
+          "ja": "このテクスチャパックはデフォルトより醜いです。",
+          "ipa": "/ðɪs ˈtɛkstʃər pæk ɪz ˈʌɡliər ðæn ðə dɪˈfɔlt wən/",
+          "linking": [
+            "pack is → pack の末尾子音 /k/ が is の初頭母音 /ɪ/ に連結 [pækɪz] パックイズ",
+            "is uglier → is の末尾子音 /z/ が uglier の初頭母音 /ʌ/ に連結 [ɪzʌɡliər] イザグリアー",
+            "than は弱形 /ðæn/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディス テクスチャー パックイズ アグリアー ザン ザ ディフォルト ワン"
+        },
+        {
+          "en": "The spawner room looks uglier without decoration.",
+          "ja": "スポーナー部屋は装飾なしで見た目がより醜いです。",
+          "ipa": "/ðə ˈspɔnər rum lʊks ˈʌɡliər wɪðˈaʊt ˌdɛkəˈreɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "looks uglier → looks の末尾子音 /s/ が uglier の初頭母音 /ʌ/ に連結 [lʊksʌɡliər] ルックサグリアー",
+            "without は /wɪðˈaʊt/"
+          ],
+          "kana": "ザ スポーナー ルーム ルックサグリアー ウィザウト デコレーション"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "ugliest",
+      "ipa": "/ˈʌɡliəst/",
+      "examples": [
+        {
+          "en": "That's the ugliest build I've ever attempted in Survival mode.",
+          "ja": "これはサバイバルモードで試した中で最も醜いビルドです。",
+          "ipa": "/ðæts ðə ˈʌɡliəst bɪld aɪv ˈɛvər əˈtɛmptɪd ɪn sərˈvaɪvəl moʊd/",
+          "linking": [
+            "That's は /ðæts/",
+            "the は弱形 /ðə/",
+            "I've は /aɪv/（contraction: I have）",
+            "ever は通常は /ˈɛvər/ だが、弱化傾向で /ˈɛvɚ/",
+            "in は弱形 /ɪn/"
+          ],
+          "kana": "ザッツ ザ アグリアスト ビルド アイブ エバー アテンプティド イン サーバイバル モード"
+        },
+        {
+          "en": "This is the ugliest cave system I've discovered so far.",
+          "ja": "これは今まで発見した中で最も醜い洞窟システムです。",
+          "ipa": "/ðɪs ɪz ðə ˈʌɡliəst keɪv ˈsɪstəm aɪv dɪsˈkʌvərd soʊ fɑr/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/",
+            "system discovered → system の末尾子音 /m/ が discovered の初頭母音 /d/ に続く（子音同士のため連結なし、ただし system は弱化傾向）",
+            "I've は /aɪv/"
+          ],
+          "kana": "ディス イズ ザ アグリアスト ケイヴ システム アイブ ディスカヴァード ソー ファー"
+        }
+      ]
+    }
   ]
 }

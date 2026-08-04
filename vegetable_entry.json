@@ -68,5 +68,35 @@
       ],
       "kana": "ウィ ニーダ タグロウ ヴェジタブルズ ファ フード サプライズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "vegetables",
+      "ipa": "/ˈvɛdʒtəbəlz/",
+      "examples": [
+        {
+          "en": "I planted a lot of vegetables in my farm.",
+          "ja": "私は農場にたくさんの野菜を植えました。",
+          "ipa": "[aɪ ˈplæntəd ə ˈlɑɾəv ˈvɛdʒtəbəlz ɪn maɪ ˈfɑɹm]",
+          "linking": [
+            "planted a → /d/ (planted の末尾) が弱形 /ə/ に連結 [ˈplæntəd ə]→「プランタ」",
+            "lot of → t が of の /ə/ (weak form) の前でフラップ化 [ˈlɑɾəv]→「ラーラヴ」"
+          ],
+          "kana": "アイ プランタ ア ラーラヴ ヴェジタブルズ イン マイ ファーム"
+        },
+        {
+          "en": "You should eat vegetables to stay strong.",
+          "ja": "強くいるために野菜を食べるべきだ。",
+          "ipa": "[juː ʃʊd iːt ˈvɛdʒtəbəlz tə steɪ ˈstrɑŋ]",
+          "linking": [
+            "should eat → /d/ (should の末尾) が母音 /i/ に連結 [ʃʊd iːt]→「シュディート」",
+            "to → 機能語で弱形 /tə/ に弱化 [tə]→「タ」"
+          ],
+          "kana": "ユー シュディート ヴェジタブルズ タ ステイ ストロング"
+        }
+      ]
+    }
   ]
 }

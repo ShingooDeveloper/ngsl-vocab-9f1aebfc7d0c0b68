@@ -72,5 +72,68 @@
         "「the」は子音前の弱形 /ðə/（ザ）。"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more grateful",
+      "ipa": "/mɔr ˈɡreɪtfəl/",
+      "examples": [
+        {
+          "en": "I was more grateful for diamonds in the Nether than in the Overworld.",
+          "ja": "ネザーのダイヤモンドがオーバーワールドのものより、もっとありがたく感じた。",
+          "ipa": "/aɪ wəz mɔr ˈɡreɪtfəl fɚ ˈdaɪməndz ɪn ðə ˈnɛðər ðæn ɪn ðə ˈoʊvɚˌwɝld/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "for → 弱形 /fɚ/（r-カラード・シュワ）",
+            "in the → in の /n/ から the の弱形 /ðə/ に続く"
+          ],
+          "kana": "アイ ワズ モア グレイトフル フー ダイマンズ イン ザ ネザー ザン イン ザ オーバーワールド"
+        },
+        {
+          "en": "He was more grateful for his teammates after defeating the Wither together.",
+          "ja": "彼は、ウィザー戦でチームメイトと一緒に戦った後、彼らにもっと感謝を感じた。",
+          "ipa": "/hi wəz mɔr ˈɡreɪtfəl fɚ hɪz ˈtimˌmeɪts ˈæftər dɪˈfitɪŋ ðə ˈwɪðɚ təˈɡɛðɚ/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "for → 弱形 /fɚ/（r-カラード・シュワ）",
+            "defeating → 語中のtが母音間でフラップ化し連結 [dɪˈfiɾɪŋ] ディフィーリング",
+            "the → 弱形 /ðə/ before consonant"
+          ],
+          "kana": "ヒー ワズ モア グレイトフル フー ヒズ ティームメイツ アフター ディフィーリング ザ ウィザー トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most grateful",
+      "ipa": "/moʊst ˈɡreɪtfəl/",
+      "examples": [
+        {
+          "en": "She is the most grateful player on our entire server.",
+          "ja": "彼女はサーバー全体で最もありがたく感じている選手です。",
+          "ipa": "/ʃi ɪz ðə ˈmoʊst ˈɡreɪtfəl ˈpleɪər ɑn ˈaʊɚ ɪnˈtaɪɚ ˈsɝvɚ/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "the → 弱形 /ðə/ before consonant",
+            "on → /ɑn/、our は /ˈaʊɚ/ で自然に続く"
+          ],
+          "kana": "シー イズ ザ モウスト グレイトフル プレイヤー アン アワー インタイアー サーバー"
+        },
+        {
+          "en": "We were the most grateful after defeating the Ender Dragon together.",
+          "ja": "エンダードラゴンを一緒に倒した後、私たちはこれ以上ないくらい感謝を感じました。",
+          "ipa": "/wi wɚ ðə ˈmoʊst ˈɡreɪtfəl ˈæftər dɪˈfitɪŋ ðə ˈɛndɚ ˈdræɡən təˈɡɛðɚ/",
+          "linking": [
+            "were → 弱形 /wɚ/ before consonant",
+            "the → 弱形 /ðə/ before consonant",
+            "defeating → 語中のtが母音間でフラップ化し連結 [dɪˈfiɾɪŋ] ディフィーリング"
+          ],
+          "kana": "ウィ ワー ザ モウスト グレイトフル アフター ディフィーリング ザ エンダー ドラゴン トゥゲザー"
+        }
+      ]
+    }
   ]
 }

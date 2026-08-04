@@ -245,6 +245,106 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bearing",
+      "ipa": "/ɪz ˈberɪŋ/",
+      "examples": [
+        {
+          "en": "The reinforced stone pillar is bearing the full weight of the castle tower without buckling.",
+          "ja": "強化された石の柱は城の塔の全重量を支えており、曲がらない。",
+          "ipa": "/ðə rɪnˈfɔrst stoʊn ˈpɪlər ɪz ˈberɪŋ ðə fʊl weɪt əv ðə ˈkæsəl ˈtaʊər wɪˈðaʊt ˈbʌklɪŋ/",
+          "kana": "ザ レインフォースド ストウン ピラー イズ ベアリング ザ フル ウェイラヴ ザ キャッスル タウアー ウィザッ バッキング",
+          "linking": [
+            "stone pillar: 語末子音 /n/ が母音に連結 [stoʊn ˈpɪlər]",
+            "weight of: 語末子音 /t/ がフラップ化して母音に連結 [ˈweɪɾəv]",
+            "of は機能語で弱形 /əv/",
+            "without の語末 /t/ は未開放 [wɪˈðaʊt̚]"
+          ]
+        },
+        {
+          "en": "My character is bearing heavy diamond armor and mining deeper into the cave system.",
+          "ja": "私のキャラクターは重いダイヤモンド鎧に耐えながら、洞窟システムをさらに深く採掘している。",
+          "ipa": "/maɪ ˈkɛɹəktər ɪz ˈberɪŋ ˈhɛvi ˈdaɪmɑnd ˈɑrmər ənd ˈmaɪnɪŋ ˈdipər ɪnˈtu ðə keɪv ˈsɪstəm/",
+          "kana": "マイ キャラクター イズ ベアリング ヘビー ダイマンド アーマー アンド マイニング ディーパー イント ザ ケイヴ システム",
+          "linking": [
+            "character is: 語末子音 /r/ が母音に連結 [ˈkɛɹəktər ɪz]",
+            "diamond armor: 語末子音 /d/ が母音に連結 [ˈdaɪmɑnd ˈɑrmər]",
+            "and は機能語で弱形 /ənd/",
+            "deeper into: 語末子音 /r/ が母音に連結 [ˈdipər ɪnˈtu]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bearing",
+      "ipa": "/wəz ˈberɪŋ/",
+      "examples": [
+        {
+          "en": "The old structure was bearing the weight of the explosion when it suddenly collapsed.",
+          "ja": "古い構造物は爆発の重さに耐えていたが、突然崩壊した。",
+          "ipa": "/ðə oʊld ˈstrʌktʃər wəz ˈberɪŋ ðə weɪt əv ðə ɪkˈsploʊʒən wɛn ɪt ˈsʌdənli kəˈlæpst/",
+          "kana": "ザ オウルド ストラクチャー ワズ ベアリング ザ ウェイラヴ ザ イクスプロウジャン ウェンイット サッデンリー コラップスト",
+          "linking": [
+            "structure was: 語末子音 /r/ が母音に連結 [ˈstrʌktʃər wəz]",
+            "weight of: 語末子音 /t/ がフラップ化して母音に連結 [ˈweɪɾəv]",
+            "of は機能語で弱形 /əv/",
+            "when it: 語末子音 /n/ が母音に連結 [wɛn ɪt]"
+          ]
+        },
+        {
+          "en": "Players were bearing heavy loads of resources when a creeper ambushed them in the darkness.",
+          "ja": "プレイヤーたちは重いリソースの荷物に耐えながら歩いていたとき、クリーパーに襲われた。",
+          "ipa": "/ˈpleɪərz wər ˈberɪŋ ˈhɛvi loʊdz əv riˈsɔrsəz wɛn ə ˈkripər æmˈbʊʃt ðɛm ɪn ðə ˈdɑrknəs/",
+          "kana": "プレイアーズ ワー ベアリング ヘビー ロウズ アヴ リソーシーズ ウェナ クリーパー アムバッシュド デム イン ザ ダークネス",
+          "linking": [
+            "players were: 語末子音 /z/ が母音に連結 [ˈpleɪərz wər]",
+            "loads of: 語末子音 /z/ が母音に連結、of は弱形 /əv/",
+            "resources when: 語末子音 /z/ が母音に連結 [riˈsɔrsəz wɛn]",
+            "a は機能語で弱形 /ə/",
+            "them in: 語末子音 /m/ が母音に連結 [ðɛm ɪn]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bearing",
+      "ipa": "/həd bɪn ˈberɪŋ/",
+      "examples": [
+        {
+          "en": "The bridge had been bearing the constant traffic for months before it finally gave way.",
+          "ja": "橋は何ヶ月間も絶え間ない通行に耐えていたが、ついに崩落した。",
+          "ipa": "/ðə brɪdʒ həd bɪn ˈberɪŋ ðə ˈkɑnstənt ˈtræfɪk fɚ mʌnθz bɪˈfɔr ɪt ˈfaɪnəli ɡeɪv weɪ/",
+          "kana": "ザ ブリッジ ハド ビン ベアリング ザ コンスタント トラフィック フォー マンスズ ビフォア イット ファイナリー ゲイヴ ウェイ",
+          "linking": [
+            "bridge had: 語末子音 /dʒ/ が母音に連結 [brɪdʒ həd]",
+            "had は弱形 /həd/、been は弱形 /bɪn/",
+            "constant traffic: 語末 /t/ と traffic の /t/ で同音の子音が連続",
+            "for は弱形 /fɚ/",
+            "before it: 語末子音 /r/ が母音に連結 [bɪˈfɔr ɪt]"
+          ]
+        },
+        {
+          "en": "The ancient wall had been bearing the pressure of the expanding tree roots for years.",
+          "ja": "古い壁は何年もの間、拡張する木の根の圧力に耐えていた。",
+          "ipa": "/ðə ˈeɪnʃənt wɔl həd bɪn ˈberɪŋ ðə ˈprɛʃər əv ðə ɪkˈspændɪŋ tri ruts fɚ jɪrz/",
+          "kana": "ザ エインシャント ウォール ハド ビン ベアリング ザ プレッシャー アヴ ザ エクスパンディング トゥリー ルーツ フォー イアーズ",
+          "linking": [
+            "ancient wall: 語末子音 /t/ が子音に続くため未開放 [ˈeɪnʃənt wɔl]",
+            "wall had: 語末子音 /l/ が母音に連結 [wɔl həd]",
+            "had は弱形 /həd/、been は弱形 /bɪn/",
+            "pressure of: 語末子音 /r/ が母音に連結 [ˈprɛʃər əv]、of は弱形 /əv/",
+            "tree roots: 語末音が /i/ で roots は /r/ で始まる",
+            "for は弱形 /fɚ/"
+          ]
+        }
+      ]
     }
   ]
 }

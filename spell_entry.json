@@ -70,5 +70,158 @@
       ],
       "kana": "レット ミ スペル アウト ザ レッドストーン ラジック"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "spells",
+      "ipa": "/spɛlz/",
+      "examples": [
+        {
+          "en": "The ancient spells are stored in this enchanted chest.",
+          "ja": "古い呪文はこのエンチャントされた宝箱に保管されています。",
+          "ipa": "/ðə ˈeɪʃənt ˈspɛlz ɑr ˈstɔrd ɪn ðɪs ɛnˈtʃæntɪd ˈtʃɛst/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "spells are → /z/+/ɑ/（子音+母音）連結 [ˈspɛlz‿ɑr] スペルズ アー",
+            "in this → /n/+/ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ エーシェント スペルズ アー ストアド イン ディス エンチャンテッド チェスト"
+        },
+        {
+          "en": "I need to collect these spells to complete my magic book.",
+          "ja": "魔法の本を完成させるために、これらの呪文を集める必要があります。",
+          "ipa": "/aɪ ˈniːd tə kəˈlɛkt ðiz ˈspɛlz tə kəmˈplit maɪ ˈmædʒɪk ˈbʊk/",
+          "linking": [
+            "need to → /d/+/t/（子音+子音、連結なし）、to は弱形 /tə/",
+            "spells to → /z/+/t/（子音+子音、連結なし）",
+            "magic book → /k/+/b/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ニード タ コレクト ディーズ スペルズ タ コンプリート マイ マジック ブック"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "spells",
+      "ipa": "/spɛlz/",
+      "examples": [
+        {
+          "en": "The wizard spells out the enchantment command in chat.",
+          "ja": "ウィザードはチャットで魔法のコマンドをつづって説明します。",
+          "ipa": "/ðə ˈwɪzɚd ˈspɛlz aʊt ðə ɛnˈtʃæntmənt kəˈmænd ɪn ˈtʃæt/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "spells out → /z/+/aʊ/（子音+母音）連結 [ˈspɛlz‿aʊt] スペルズ アウト",
+            "the enchantment → /ə/+/ɛ/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ウィザード スペルズ アウト ザ エンチャントメント コマンド イン チャット"
+        },
+        {
+          "en": "She spells every ingredient name carefully to avoid mistakes.",
+          "ja": "彼女は間違いを避けるために、すべての材料の名前を慎重につづります。",
+          "ipa": "/ʃi ˈspɛlz ˈɛvri ɪnˈɡrɛdiənt ˈneɪm ˈkɛrfəli tə əˈvɔɪd mɪˈsteɪks/",
+          "linking": [
+            "She spells → /i/+/sp/（母音+子音群、連結なし）",
+            "every ingredient → /i/+/ɪ/（母音+母音、連結なし）",
+            "name carefully → /m/+/k/（子音+子音、連結なし）",
+            "to avoid → to は弱形 /tə/"
+          ],
+          "kana": "シー スペルズ エブリー インギーディエント ネーム ケアフリー タ アボイド ミステイクス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "spelled",
+      "ipa": "/spɛld/",
+      "examples": [
+        {
+          "en": "I spelled the potion recipe wrong and it didn't work.",
+          "ja": "ポーション レシピをつづり間違えて、それは機能しませんでした。",
+          "ipa": "/aɪ ˈspɛld ðə ˈpoʊʃən ˈrɛsəpi ˈrɔŋ ənd ɪt ˈdɪdn̩t ˈwɝːk/",
+          "linking": [
+            "spelled the → /d/+/ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "didn't work → /t/+/w/（子音+子音、連結なし）、didn't は弱形 /dɪdn̩t/"
+          ],
+          "kana": "アイ スペルド ザ ポーション レシピー ロング エンド イット ディドゥント ワーク"
+        },
+        {
+          "en": "He spelled out the coordinates for the treasure location.",
+          "ja": "彼は宝物の場所の座標をつづって説明しました。",
+          "ipa": "/hi ˈspɛld aʊt ðə koʊˈɔɹdənəts ˈfɔr ðə ˈtrɛʒɚ loʊˈkeɪʃən/",
+          "linking": [
+            "spelled out → /d/+/aʊ/（子音+母音）連結 [ˈspɛld‿aʊt] スペルド アウト",
+            "the coordinates → /ə/+/k/（子音+子音、連結なし）",
+            "treasure location → /r/+/l/（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー スペルド アウト ザ コーディネイツ フォー ザ トレジャー ローケーション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "spelled",
+      "ipa": "/spɛld/",
+      "examples": [
+        {
+          "en": "I have spelled the command correctly this time.",
+          "ja": "今回は、コマンドを正しくつづりました。",
+          "ipa": "/aɪ ˈhæv ˈspɛld ðə kəˈmænd ˈkɔrɛktli ðɪs ˈtaɪm/",
+          "linking": [
+            "have spelled → /v/+/sp/（子音+子音、連結なし）",
+            "spelled the → /d/+/ð/（子音+子音、連結なし）",
+            "correctly this → /i/+/ð/（母音+子音、連結なし）"
+          ],
+          "kana": "アイ ハブ スペルド ザ コマンド コレクトリー ディス タイム"
+        },
+        {
+          "en": "The spell was spelled incorrectly in the ancient grimoire.",
+          "ja": "その呪文は古い魔法書に誤ってつづられていました。",
+          "ipa": "/ðə ˈspɛl wəz ˈspɛld ɪnkəˈrɛktli ɪn ði ˈeɪʃənt ˈɡrɪˌmwɑr/",
+          "linking": [
+            "spell was → /l/+/w/（子音+子音、連結なし）、was は弱形 /wəz/",
+            "was spelled → /z/+/sp/（子音+子音、連結なし）",
+            "in the → /n/+/ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ スペル ワズ スペルド インコレクトリー イン ジ エーシェント グリムワー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "spelling",
+      "ipa": "/ˈspɛlɪŋ/",
+      "examples": [
+        {
+          "en": "I am spelling out the redstone circuit step by step.",
+          "ja": "私は段階的にレッドストーン回路をつづって説明しています。",
+          "ipa": "/aɪ ˈæm ˈspɛlɪŋ aʊt ðə ˈrɛdˌstoʊn ˈsɝːkɪt ˈstɛp baɪ ˈstɛp/",
+          "linking": [
+            "I am → /aɪ/+/æ/（母音+母音、連結なし）",
+            "spelling out → /ŋ/+/aʊ/（鼻音+母音、連結なし）",
+            "the redstone → /ə/+/r/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ アム スペリング アウト ザ レッドストーン サーキット ステップ バイ ステップ"
+        },
+        {
+          "en": "Are you spelling the potion ingredients correctly in the recipe?",
+          "ja": "レシピのポーション材料をあなたは正しくつづっていますか？",
+          "ipa": "/ɑr ju ˈspɛlɪŋ ðə ˈpoʊʃən ɪnˈɡrɛdiənts ˈkɔrɛktli ɪn ðə ˈrɛsəpi/",
+          "linking": [
+            "Are you → /r/+/ju/（子音+母音）連結 [ɑr‿ju] アー ユー",
+            "you spelling → /ju/+/sp/（母音+子音、連結なし）",
+            "the potion → /ə/+/p/（子音+子音、連結なし）",
+            "in the → /n/+/ð/（子音+子音、連結なし）"
+          ],
+          "kana": "アー ユー スペリング ザ ポーション インギーディエンツ コレクトリー イン ザ レシピー"
+        }
+      ]
+    }
   ]
 }

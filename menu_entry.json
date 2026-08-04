@@ -43,5 +43,37 @@
       "kana": "アイ ライカ グッド メニュー シスラム"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "menus",
+      "ipa": "/ˈmɛnjuːz/",
+      "examples": [
+        {
+          "en": "These menus appear in different worlds.",
+          "ja": "これらのメニューは異なる世界に現れます。",
+          "ipa": "/ðiːz ˈmɛnjuːz əˈpɪr ɪn ˈdɪfərənt ˈwɝldz/",
+          "linking": [
+            "menus と appear が連結。menus の語末子音 /z/ が appear の弱第一音節 /ə/ に連なる [ˈmɛnjuːzə] メニューザ",
+            "in は弱形で /ɪn/ イン",
+            "different の末尾 /t/ は未開放で詰まった音"
+          ],
+          "kana": "ディーズ メニューザピアー イン ディファレント ワールズ"
+        },
+        {
+          "en": "Open those menus and check for recipes.",
+          "ja": "それらのメニューを開いてレシピを確認してください。",
+          "ipa": "/ˈoʊpən ðoʊz ˈmɛnjuːz ənd tʃɛk fɔr ˈrɛsɪpiz/",
+          "linking": [
+            "menus と and が連結。menus の語末子音 /z/ が and の弱形 /ən(d)/ に連なる [ˈmɛnjuːzən] メニューザン",
+            "and は機能語で弱形 /ən(d)/ に弱化",
+            "for は弱形で /fɚ/ ファー"
+          ],
+          "kana": "オウプン ザウズ メニューザンド チェック ファー レスィピーズ"
+        }
+      ]
+    }
+  ]
 }

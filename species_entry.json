@@ -53,5 +53,35 @@
         "species の語末 z /z/ が「in」の母音に連結"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "species",
+      "ipa": "/ˈspiːʃiːz/",
+      "examples": [
+        {
+          "en": "Different species of fish can be found in various water biomes.",
+          "ja": "様々な水のバイオームに異なる種類の魚が見られます。",
+          "ipa": "/ˈdɪfərənt ˈspiːʃiːz əv ˈfɪʃ kən bi ˈfaʊnd ɪn ˈvɛriəs ˈwɔːtər baɪˈoʊmz/",
+          "kana": "ディファレント スピーシーズアヴ フィッシュ カン ビー ファウンド イン ヴェリアス ウォーター バイオームズ",
+          "linking": [
+            "species の語末 z /z/ が「of」の弱形 /əv/ に連結 [ˈspiːʃiːzəv]",
+            "can は弱形 /kən/",
+            "found の語末 d /d/ が「in」の母音 /ɪ/ に連結 [ˈfaʊndɪn]"
+          ]
+        },
+        {
+          "en": "Rare mob species appear in deep underground caves.",
+          "ja": "珍しいモブの種は深い地下の洞窟に現れます。",
+          "ipa": "/ˈrɛr ˈmoʊb ˈspiːʃiːz əˈpɪr ɪn ˈdip ˌʌndərˈɡraʊnd ˈkeɪvz/",
+          "kana": "レア モブ スピーシーズアピア イン ディープ アンダーグラウンド ケイヴズ",
+          "linking": [
+            "species の語末 z /z/ が「appear」の母音 /ə/ に連結 [ˈspiːʃiːzəˈpɪr]"
+          ]
+        }
+      ]
+    }
   ]
 }

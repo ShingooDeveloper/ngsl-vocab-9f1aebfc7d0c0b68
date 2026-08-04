@@ -1,7 +1,7 @@
 {
   "word": "weekly",
-  "pos": "形容詞・副詞",
-  "pos_all": "形容詞・副詞",
+  "pos": "形容詞・副詞・名詞",
+  "pos_all": "形容詞・副詞・名詞",
   "ipa_us": "/ˈwiːkli/",
   "rank": 2657,
   "level": "B1",
@@ -62,6 +62,36 @@
         "on の末尾鼻音 /n/ が a の初頭母音 /ə/ に連結 [ɑnə] アナ。"
       ],
       "kana": "ウィ チェック オール ビルドズ アナ ウィークリ ベイシス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "weeklies",
+      "ipa": "/ˈwiːkliz/",
+      "examples": [
+        {
+          "en": "My brother reads different Minecraft weeklies to learn new redstone designs.",
+          "ja": "兄は新しいレッドストーン設計を学ぶために異なるマインクラフト週刊誌を読みます。",
+          "ipa": "/maɪ ˈbrʌðər ˈrɛdz ˈdɪfərənt ˈmaɪnˌkræft ˈwiːkliz tə ˈlɝn ˈnjuː ˈrɛdˌstoʊn dɪˈzaɪnz/",
+          "linking": [
+            "to は機能語で弱形 /tə/ に弱化し、learn に続く。",
+            "reads different → /z/ と /d/ が子音+子音で自然に続く。"
+          ],
+          "kana": "マイ ブラザー レッズ ディファレント マインクラフト ウィークリーズ タ ラーン ニュー レッドストーン ディザインズ"
+        },
+        {
+          "en": "Online Minecraft weeklies always share tips for mining diamonds quickly.",
+          "ja": "オンラインマインクラフト週刊誌は常にダイヤモンド採掘のコツを素早く共有しています。",
+          "ipa": "/ˌɑnˈlaɪn ˈmaɪnˌkræft ˈwiːkliz ˈɔlˌweɪz ˈʃɛr ˈtɪps fɚ ˈmaɪnɪŋ ˈdaɪəməndz ˈkwɪkli/",
+          "linking": [
+            "for は機能語で弱形 /fɚ/ に弱化する。",
+            "mining diamonds → /ŋ/ 鼻音が /d/ に続く。"
+          ],
+          "kana": "オンライン マインクラフト ウィークリーズ オールウェイズ シェア ティップス ファ マイニング ダイアモンズ クィックリー"
+        }
+      ]
     }
   ]
 }

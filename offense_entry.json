@@ -68,5 +68,36 @@
       ],
       "kana": "ノウ アフェンス, バット ユア ディフェンス ニーズ ベーラ ウォルズ ア ゲンスト クリーパーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "offenses",
+      "ipa": "/əˈfɛnsɪz/",
+      "examples": [
+        {
+          "en": "Repeated offenses will result in a permanent ban from the server.",
+          "ja": "繰り返された違反はサーバーからの永続的なバンをもたらします。",
+          "ipa": "/rɪˈpiːtəd əˈfɛnsɪz wɪl rɪˈzʌlt ɪn ə ˈpɝmənənt ˈbæn frəm ðə ˈsɝvɚ/",
+          "linking": [
+            "repeated の末尾 /d/ が offenses の /ə/ に連結",
+            "from と the は弱形で、from の /m/ が the の /ð/ に続く"
+          ],
+          "kana": "リピーティド オフェンシズ ウィル リザルト イン ア パーマネント バン フラム ザ サーバー"
+        },
+        {
+          "en": "All player offenses are documented by the admin for review.",
+          "ja": "すべてのプレイヤーの違反は管理者によってレビューのために記録されます。",
+          "ipa": "/ɔl ˈpleɪɚ əˈfɛnsɪz ɑr ˈdɑkjəmɛntɪd baɪ ðə ˈædmɪn fər rɪˈvju/",
+          "linking": [
+            "player の末尾 /r/ が offenses の /ə/ に連結",
+            "offenses の末尾 /z/ が are の /ɑ/ に連結",
+            "documented の末尾 /d/ が by の /b/ に続く（子音同士）、by の末尾 /aɪ/ が the に続く、the は弱形 /ðə/"
+          ],
+          "kana": "オール プレイヤー オフェンシズ アール ドキュメンティド バイ ザ アドミン フア リビュー"
+        }
+      ]
+    }
   ]
 }

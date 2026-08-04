@@ -80,5 +80,37 @@
       ],
       "kana": "ユージング ベッズ タ ファイト ザ ドラゴン イザ プロウ ムーヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "pros",
+      "ipa": "/proʊz/",
+      "examples": [
+        {
+          "en": "The pros built a stunning castle in the sky.",
+          "ja": "プロたちは空に素晴らしい城を建てました。",
+          "ipa": "/ðə ˈproʊz bɪlt ə ˈstʌnɪŋ ˈkæsəl ɪn ðə ˈskaɪ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、pros に自然に連結 [ðə ˈproʊz] ザ プローズ",
+            "built の語末 /t/ は未開放 [bɪlt̚]、a の弱形 /ə/ に続く ビルッ ア",
+            "in the → in の /n/ から the の弱形 /ðə/ に続く [ɪn ðə] イン ザ"
+          ],
+          "kana": "ザ プローズ ビルッ ア スタニング カセル イン ザ スカイ"
+        },
+        {
+          "en": "The pros explained the advantages of mining near a village.",
+          "ja": "プロたちは村の近くで採掘することの利点を説明しました。",
+          "ipa": "/ðə ˈproʊz ɪkˈspleɪnd ðə ədˈvæntɪdʒəz əv ˈmaɪnɪŋ nɪr ə ˈvɪlɪdʒ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、pros に自然に連結 [ðə ˈproʊz] ザ プローズ",
+            "of は弱形 /əv/ に弱化、mining の /m/ に連結 [əv ˈmaɪnɪŋ] アヴ マイニング",
+            "near の語末 /r/ が a の弱形 /ə/ に連結 [nɪr ə] ニア"
+          ],
+          "kana": "ザ プローズ イクスプレインド ザ アドヴァンティジーズ アヴ マイニング ニア ア ビレッジ"
+        }
+      ]
+    }
   ]
 }

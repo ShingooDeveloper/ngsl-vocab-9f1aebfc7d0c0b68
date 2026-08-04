@@ -41,6 +41,118 @@
       "kana": "ザ イクスプロージョン ベリッド ザ エンタイヤー ヴィリッジ"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "buries",
+      "ipa": "/ˈbɛriz/",
+      "examples": [
+        {
+          "en": "He buries the diamonds in the sand.",
+          "ja": "彼は砂の中にダイアモンドを埋めます。",
+          "ipa": "/hi ˈbɛriz ðə ˈdaɪməndz ɪn ðə sænd/",
+          "linking": [
+            "the は冠詞で弱形 [ðə]",
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "ヒー ベリーズ ザ ダイマンズ イン ザ サンド"
+        },
+        {
+          "en": "She buries valuable items for protection.",
+          "ja": "彼女は保護のために貴重なアイテムを埋めます。",
+          "ipa": "/ʃi ˈbɛriz ˈvæljuəbl ˈaɪtəmz fər prəˈtɛkʃən/",
+          "linking": [
+            "for は前置詞で弱形 [fər]"
+          ],
+          "kana": "シー ベリーズ ヴァリュアブル アイタムズ ファー プロテクション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "buried",
+      "ipa": "/ˈbɛrid/",
+      "examples": [
+        {
+          "en": "I buried the ancient artifact under the obsidian.",
+          "ja": "私は古い工芸品を黒曜石の下に埋めました。",
+          "ipa": "/aɪ ˈbɛrid ðə ˈeɪʃənt ˈɑːrtɪfækt ˌʌndɚ ðə əbˈsɪdiən/",
+          "linking": [
+            "buried の語末子音 /d/ が次の母音 /ə/ に連結 [ˈbɛridə]",
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "アイ ベリダ ザ エイシャント アーティファクト アンダー ザ オブシディアン"
+        },
+        {
+          "en": "They buried the chest deep in the cave.",
+          "ja": "彼らは宝箱を洞窟の深くに埋めました。",
+          "ipa": "/ðeɪ ˈbɛrid ðə tʃɛst diːp ɪn ðə keɪv/",
+          "linking": [
+            "buried の語末子音 /d/ が次の母音 /ə/ に連結 [ˈbɛridə]",
+            "the は冠詞で弱形 [ðə]",
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "ザイ ベリダ ザ チェスト ディープ イン ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "buried",
+      "ipa": "/ˈbɛrid/",
+      "examples": [
+        {
+          "en": "The treasure has been buried safely.",
+          "ja": "その宝は安全に埋められています。",
+          "ipa": "/ðə ˈtrɛʒɚ hæz bɪn ˈbɛrid ˈseɪfli/",
+          "linking": [
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "ザ トレジャー ハズ ビン ベリッド セイフリー"
+        },
+        {
+          "en": "The items were buried under stone blocks.",
+          "ja": "アイテムは石のブロックの下に埋められました。",
+          "ipa": "/ðə ˈaɪtəmz wɚ ˈbɛrid ˌʌndɚ stoʊn blɑks/",
+          "linking": [
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "ザ アイタムズ ワー ベリッド アンダー ストーン ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "burying",
+      "ipa": "/ˈbɛriɪŋ/",
+      "examples": [
+        {
+          "en": "I am burying the seeds in the farm.",
+          "ja": "私は農場に種を埋めています。",
+          "ipa": "/aɪ æm ˈbɛriɪŋ ðə siːdz ɪn ðə fɑːrm/",
+          "linking": [
+            "the は冠詞で弱形 [ðə]",
+            "the は冠詞で弱形 [ðə]"
+          ],
+          "kana": "アイ アム ベリーイング ザ シーズ イン ザ ファーム"
+        },
+        {
+          "en": "He is burying diamonds in his secret vault.",
+          "ja": "彼は自分の秘密の金庫にダイアモンドを埋めています。",
+          "ipa": "/hi ɪz ˈbɛriɪŋ ˈdaɪməndz ɪn hɪz ˈsiːkrət vɔːlt/",
+          "linking": [
+            "diamonds の語末子音 /z/ が次の母音 /ɪ/ に連結 [ˈdaɪməndzɪn]",
+            "his は代名詞で短形 [hɪz]"
+          ],
+          "kana": "ヒー イズ ベリーイング ダイマンズ イン ヒズ シークレット ヴォルト"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "bury the hatchet",

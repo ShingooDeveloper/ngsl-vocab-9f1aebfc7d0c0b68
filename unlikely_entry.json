@@ -44,6 +44,65 @@
       "kana": "エンダーマン アルアンライクリ タ アタック イン デイライト"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more unlikely",
+      "ipa": "/mɔr ʌnˈlaɪkli/",
+      "examples": [
+        {
+          "en": "Diamonds at the surface are more unlikely to occur than underground.",
+          "ja": "地表のダイヤモンドは地下で生じるより可能性が低い。",
+          "ipa": "/ˈdaɪmændz æt ðə ˈsɜrfɪs ɑr mɔr ʌnˈlaɪkli tə əˈkɜr ðæn ˈʌndɚˌɡraʊnd/",
+          "linking": [
+            "more の末尾 /r/ が unlikely の初頭母音 /ʌ/ に連結",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ダイマンズ アット ザ サーフィス アー モア アンライクリ タ アカー ザン アンダーグラウンド"
+        },
+        {
+          "en": "It's more unlikely you'll find emeralds than diamonds in caves.",
+          "ja": "洞窟でエメラルドを見つけるのはダイヤモンドを見つけるより起こりそうもない。",
+          "ipa": "/ɪts mɔr ʌnˈlaɪkli jəl faɪnd ɪˈmɛrəldz ðæn ˈdaɪmændz ɪn ˈkeɪvz/",
+          "linking": [
+            "more の末尾 /r/ が unlikely の初頭母音 /ʌ/ に連結",
+            "you'll は弱形 /jəl/"
+          ],
+          "kana": "イッツ モア アンライクリ ユル ファインド イメラルズ ザン ダイマンズ イン ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most unlikely",
+      "ipa": "/moʊst ʌnˈlaɪkli/",
+      "examples": [
+        {
+          "en": "Snow falling in the Nether is the most unlikely weather event.",
+          "ja": "ネザーで降る雪は最も起こりそうもない気象現象である。",
+          "ipa": "/snoʊ ˈfɔlɪŋ ɪn ðə ˈnɛðɚ ɪz ðə ˈmoʊst ʌnˈlaɪkli ˈwɛðɚ ɪˈvɛnt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "most の末尾 /t/ が unlikely の初頭母音 /ʌ/ に連結"
+          ],
+          "kana": "スノー フォーリング イン ザ ネザー イズ ザ モースト アンライクリ ウェザー イベント"
+        },
+        {
+          "en": "Finding a diamond ore at the surface is the most unlikely discovery.",
+          "ja": "地表でダイヤモンド鉱石を見つけることは最も起こりそうもない発見である。",
+          "ipa": "/ˈfaɪndɪŋ ə ˈdaɪmənd ɔr æt ðə ˈsɜrfɪs ɪz ðə ˈmoʊst ʌnˈlaɪkli dɪˈskʌvəri/",
+          "linking": [
+            "a は弱形 /ə/",
+            "the は弱形 /ðə/",
+            "most の末尾 /t/ が unlikely の初頭母音 /ʌ/ に連結"
+          ],
+          "kana": "ファインディング ア ダイマンド オア アット ザ サーフィス イズ ザ モースト アンライクリ ディスカバリー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "unlikely to",

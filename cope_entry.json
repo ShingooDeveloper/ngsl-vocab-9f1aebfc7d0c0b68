@@ -56,5 +56,134 @@
       ],
       "kana": "アイ ニーダ コウプ ウィズ ディーズ モウブズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "copes",
+      "ipa": "/ˈkoʊps/",
+      "examples": [
+        {
+          "en": "The skeletons cope with rain by seeking shelter in caves.",
+          "ja": "スケルトンは雨に対処するために洞窟で避難所を探します。",
+          "ipa": "/ðə ˈskɛlɪtənz ˈkoʊps wɪð ˈreɪn baɪ ˈsikɪŋ ˈʃɛltɚ ɪn ˈkeɪvz/",
+          "linking": [
+            "the は弱形 /ðə/。skeletons に連結 [ðə ˈskɛlɪtənz] ザ スケルトンズ",
+            "skeletons cope → /z/ + /k/ (子音+子音、連結なし)",
+            "cope with → /p/ + /w/ (子音+子音、連結なし)",
+            "shelter in → /r/ + /ɪ/ が連結 [ˈʃɛltɚ ɪn] シェルター イン"
+          ],
+          "kana": "ザ スケルトンズ コープス ウィズ レイン バイ シーキング シェルター イン ケイブズ"
+        },
+        {
+          "en": "My team copes with supply shortages by trading with villagers.",
+          "ja": "私たちのチームは村人と取引することで供給不足に対処します。",
+          "ipa": "/maɪ ˈtiːm ˈkoʊps wɪð səˈplaɪ ˈʃɔːrtɪdʒɪz baɪ ˈtreɪdɪŋ wɪð ˈvɪlɪdʒɚz/",
+          "linking": [
+            "team copes → /m/ + /k/ (子音+子音、連結なし)",
+            "copes with → /p/ + /w/ (子音+子音、連結なし)",
+            "trading with → /ŋ/ + /w/ (子音+子音、連結なし)",
+            "villagers は /ˈvɪlɪdʒɚz/"
+          ],
+          "kana": "マイ ティーム コープス ウィズ サプライ ショーテージ バイ トレイディング ウィズ ビリッジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "coped",
+      "ipa": "/ˈkoʊpt/",
+      "examples": [
+        {
+          "en": "I coped with the dragon by using a bow from a safe distance.",
+          "ja": "安全な距離から弓を使ってドラゴンに対処しました。",
+          "ipa": "/aɪ ˈkoʊpt wɪð ðə ˈdræɡən baɪ ˈjuzɪŋ ə ˈboʊ frəm ə ˈseɪf ˈdɪstəns/",
+          "linking": [
+            "coped with → /t/ + /w/ (子音+子音、連結なし)",
+            "the dragon → /ðə/ + /d/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "a bow → a は弱形 /ə/ で bow と連結 [ə ˈboʊ] ア ボウ",
+            "from a → /m/ + /ə/ が連結、a は弱形 /ə/ [frəm ə] フラム ア"
+          ],
+          "kana": "アイ コープド ウィズ ザ ドラゴン バイ ユージング ア ボウ フラム ア セイフ ディスタンス"
+        },
+        {
+          "en": "We coped with the sudden zombie siege by retreating to higher ground.",
+          "ja": "突然のゾンビ包囲に対処するために、より高い地形に後退しました。",
+          "ipa": "/wi ˈkoʊpt wɪð ðə ˈsʌdən ˈzɑːmbi ˈsidʒ baɪ rɪˈtriːtɪŋ tu ˈhaɪɚ ˈɡraʊnd/",
+          "linking": [
+            "coped with → /t/ + /w/ (子音+子音、連結なし)",
+            "the sudden → /ðə/ + /s/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "to higher → /tu/ + /h/ (子音+子音、連結なし)、to は弱形 /tə/"
+          ],
+          "kana": "ウィ コープド ウィズ ザ サドゥン ゾンビー シージ バイ リトリーティング トゥ ハイアー グラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "coped",
+      "ipa": "/ˈkoʊpt/",
+      "examples": [
+        {
+          "en": "Having coped with several failed mining expeditions, we found diamonds at last.",
+          "ja": "いくつかの失敗した鉱業遠征に対処した後、ついにダイヤモンドを見つけました。",
+          "ipa": "/ˈheɪvɪŋ ˈkoʊpt wɪð ˈsɛvrəl ˈfeɪld ˈmaɪnɪŋ ˌɛkspɪˈdɪʃənz | wi ˈfaʊnd ˈdaɪəməndz ət ˈlæst/",
+          "linking": [
+            "Having coped → /ŋ/ + /k/ (子音+子音、連結なし)",
+            "coped with → /t/ + /w/ (子音+子音、連結なし)",
+            "we found → /w/ + /f/ (子音+子音、連結なし)",
+            "at last → /t/ + /l/ (子音+子音、連結なし)"
+          ],
+          "kana": "ハヴィング コープド ウィズ セブラル フェイルド マイニング エクスペディション、ウィ ファウンド ダイアモンズ アット ラスト"
+        },
+        {
+          "en": "The challenges we had coped with made us more experienced players.",
+          "ja": "対処した課題は私たちをより経験豊かなプレイヤーにしました。",
+          "ipa": "/ðə ˈtʃælɪndʒɪz wi ˈhæd ˈkoʊpt wɪð ˈmeɪd əs ˈmɔːr ɪkˈspɪriənst ˈpleɪɚz/",
+          "linking": [
+            "the は弱形 /ðə/。challenges に連結 [ðə ˈtʃælɪndʒɪz] ザ チャレンジズ",
+            "we had → /w/ + /h/ (子音+子音、連結なし)",
+            "had coped → /d/ + /k/ (子音+子音、連結なし)",
+            "coped with → /t/ + /w/ (子音+子音、連結なし)"
+          ],
+          "kana": "ザ チャレンジズ ウィ ハド コープド ウィズ メイド アス モアー イクスペリエンスド プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "coping",
+      "ipa": "/ˈkoʊpɪŋ/",
+      "examples": [
+        {
+          "en": "We are coping with the server lag by reducing the number of entities.",
+          "ja": "エンティティの数を減らすことでサーバーラグに対処しています。",
+          "ipa": "/wi ɑːr ˈkoʊpɪŋ wɪð ðə ˈsɝːvɚ ˈlæɡ baɪ rɪˈdjuːsɪŋ ðə ˈnʌmbɚ əv ˈɛntɪtiz/",
+          "linking": [
+            "are coping → /r/ + /k/ (子音+子音、連結なし)",
+            "coping with → /ŋ/ + /w/ (子音+子音、連結なし)",
+            "the server → /ðə/ + /s/ (子音+子音、連結なし)、the は弱形 /ðə/",
+            "of entities → /v/ + /ə/ が連結、of は弱形 /əv/ [əv ˈɛntɪtiz] オブ エンティティーズ"
+          ],
+          "kana": "ウィ アー コーピング ウィズ ザ サーバー ラグ バイ リデューシング ザ ナンバー オブ エンティティーズ"
+        },
+        {
+          "en": "Coping with extreme terrain variations requires careful pathfinding and planning.",
+          "ja": "極端な地形の変化に対処するには、慎重なパス検索と計画が必要です。",
+          "ipa": "/ˈkoʊpɪŋ wɪð ɪkˈstriːm tɚˈreɪn ˌvɛriˈeɪʃənz rɪˈkwaɪrz ˈkɛrfəl ˈpæθˌfaɪndɪŋ‿ənd ˈplænɪŋ/",
+          "linking": [
+            "Coping with → /ŋ/ + /w/ (子音+子音、連結なし)",
+            "terrain variations → /n/ + /v/ (子音+子音、連結なし)",
+            "variations requires → /z/ + /r/ (子音+子音、連結なし)",
+            "pathfinding and → /ŋ/ + /ə/ が連結、and は弱形 /ənd/ [ˈpæθˌfaɪndɪŋ‿ənd] パスファインディング アンド"
+          ],
+          "kana": "コーピング ウィズ イクストリーム テレイン バリエーションズ リクワイアーズ ケアフル パスファインディング アンド プランニング"
+        }
+      ]
+    }
   ]
 }

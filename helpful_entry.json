@@ -41,6 +41,68 @@
       "kana": "ザ マップ イズ ヘルプフル ファー ファインディング ザ オーシャン バイオーム"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more helpful",
+      "ipa": "/ˌmoɚ ˈhɛlpfəl/",
+      "examples": [
+        {
+          "en": "A water bucket is more helpful than running from lava.",
+          "ja": "水バケツは溶岩から逃げるより役に立ちます。",
+          "ipa": "[ə ˈwɔɾɚ ˈbʌkɪt ɪz ˈmoɚ ˈhɛlpfəl ðæn ˈrʌnɪŋ frəm ˈlavə]",
+          "linking": [
+            "a は冠詞で弱形 /ə/",
+            "water の t はフラップ化して /ɾ/ になり [ˈwɔɾɚ]",
+            "from は機能語で弱形 /frəm/"
+          ],
+          "kana": "ア ウォーラー バケット イズ モア ヘルプフル ザン ラニング フラム ラーヴァ"
+        },
+        {
+          "en": "Torches are more helpful than your memory for finding your way home.",
+          "ja": "トーチは家への道を見つけるために、あなたの記憶より役に立ちます。",
+          "ipa": "[ˈtɔrʃəz ɑr ˈmoɚ ˈhɛlpfəl ðæn jɔr ˈmɛməri fɔr ˈfaɪndɪŋ jɔr weɪ hoʊm]",
+          "linking": [
+            "Torches の語末子音 /z/ が are の母音 /ɑ/ に続く [ˈtɔrʃəz ɑr]",
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "トーチェズ アー モア ヘルプフル ザン ユア メモリー ファー ファインディング ユア ウェイ ホーム"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most helpful",
+      "ipa": "/ˌmoʊst ˈhɛlpfəl/",
+      "examples": [
+        {
+          "en": "A crafting table is the most helpful block in Minecraft.",
+          "ja": "クラフティングテーブルはマインクラフトで最も役立つブロックです。",
+          "ipa": "[ə ˈkræftɪŋ ˈteɪbəl ɪz ðə ˌmoʊst ˈhɛlpfəl ˈblɑk ɪn ˈmaɪnˌkræft]",
+          "linking": [
+            "a は冠詞で弱形 /ə/",
+            "the は冠詞で弱形 /ðə/、most /moʊst/ に続く [ðə ˈmoʊst]",
+            "in は機能語で /ɪn/"
+          ],
+          "kana": "ア クラフティング テイブル イズ ザ モースト ヘルプフル ブラック イン マインクラフト"
+        },
+        {
+          "en": "Iron ore is the most helpful material for crafting quality tools and armor.",
+          "ja": "鉄鉱石は質の高いツールと防具を作るのに最も役立つ材料です。",
+          "ipa": "[ˈaɪɚn ˈɔr ɪz ðə ˌmoʊst ˈhɛlpfəl məˈtɪriəl fɔr ˈkræftɪŋ ˈkwɑləti ˈtulz ənd ˈɑrmɚ]",
+          "linking": [
+            "Iron の語末子音 /n/ が ore の母音 /ɔ/ に続く [ˈaɪɚn ˈɔr]",
+            "is の z が the の ð に続く [ɪz ðə]、the は弱形 /ðə/",
+            "for は機能語で弱形 /fɔr/",
+            "and は /ənd/"
+          ],
+          "kana": "アイアン オア イズ ザ モースト ヘルプフル マテリアル ファー クラフティング クゥァラティー トゥールズ アンド アーマー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "be helpful",

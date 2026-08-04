@@ -67,5 +67,39 @@
       ],
       "kana": "ザ オータメイティド メカニズム カレクツ オール ドラップス フラム ザ モブ グラインダー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "mechanisms",
+      "ipa": "/ˈmɛkənɪzəmz/",
+      "examples": [
+        {
+          "en": "We need multiple mechanisms to operate this farm.",
+          "ja": "この農場を動かすために複数の仕組みが必要です。",
+          "ipa": "/wi ˈnid ˈmʌltɪpəl ˈmɛkənɪzəmz tə ˈɑpərˌeɪt ðɪs ˈfɑrm/",
+          "linking": [
+            "need multiple → 母音+子音で自然に続く",
+            "multiple mechanisms → 子音+子音で自然に続く",
+            "mechanisms to → 子音+子音で自然に続く（to は弱形 /tə/）",
+            "this farm → 子音+子音で自然に続く"
+          ],
+          "kana": "ウィ ニード マルチプル メカニズムズ タ アペレイト ディス ファーム"
+        },
+        {
+          "en": "All the redstone mechanisms in your base need checking.",
+          "ja": "あなたの基地のすべてのレッドストーン機構を確認する必要があります。",
+          "ipa": "/ɔl ðə ˈrɛdˌstoʊn ˈmɛkənɪzəmz ɪn jɔr ˈbeɪs ˈnid ˈtʃɛkɪŋ/",
+          "linking": [
+            "All the → l音が the の弱形 /ðə/ に連結 [ɔl ðə]",
+            "redstone mechanisms → 子音+子音で自然に続く",
+            "mechanisms in → 子音+母音で自然に続く",
+            "in your → n が your の初頭母音に連結"
+          ],
+          "kana": "オール ザ レッドストーン メカニズムズ イン ユア ベイス ニード チェッキング"
+        }
+      ]
+    }
   ]
 }

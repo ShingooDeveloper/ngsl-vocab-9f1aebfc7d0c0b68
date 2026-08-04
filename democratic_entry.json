@@ -71,5 +71,67 @@
       ],
       "kana": "ウィ ファロウダ デモクラティック プロセス ウェン チュージング ザ ニュー サーヴァー アドミニストレイターズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more democratic",
+      "ipa": "/mɔr ˌdɛməˈkrætɪk/",
+      "examples": [
+        {
+          "en": "This voting system is more democratic than the old one.",
+          "ja": "この投票システムは古いシステムより民主的です。",
+          "ipa": "/ðɪs ˈvoʊtɪŋ ˈsɪstəm ɪz mɔr ˌdɛməˈkrætɪk ðæn ðə ˈoʊld wʌn/",
+          "linking": [
+            "voting system → voting の末尾 /ŋ/ が system の初頭母音 /s/ に連結 [ˈvoʊtɪŋ ˈsɪs] ヴォウティング シス",
+            "is more → is の末尾 /z/ が more の初頭母音に連結 [ɪz mɔr] イズ モア",
+            "more democratic → more の末尾 /r/ が democratic の初頭母音 /d/ に連結 [mɔr ˌdɛm] モア デモ"
+          ],
+          "kana": "ディス ヴォウティング システム イズ モア デモクラティック ザン ジア オウルド ワン"
+        },
+        {
+          "en": "A larger server needs more democratic governance rules.",
+          "ja": "より大きなサーバーは、より民主的なガバナンスルールが必要です。",
+          "ipa": "/ə ˈlɑrdʒər ˈsɜrvər ˈnidz mɔr ˌdɛməˈkrætɪk ˈɡʌvərnəns ˈrulz/",
+          "linking": [
+            "a larger → a は弱形 /ə/、larger と連なる [ə ˈlɑr] ア ラー",
+            "larger server → larger の末尾 /r/ が server の初頭母音に連結 [ˈlɑrdʒər ˈsɜr] ラージャー サー",
+            "needs more → needs の末尾 /z/ が more の初頭母音に連結 [ˈnidz mɔr] ニーズ モア"
+          ],
+          "kana": "ア ラージャー サーヴァー ニーズ モア デモクラティック ガヴァーナンス ルーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most democratic",
+      "ipa": "/ˈmoʊst ˌdɛməˈkrætɪk/",
+      "examples": [
+        {
+          "en": "Our server has the most democratic rule-making system in the realm.",
+          "ja": "私たちのサーバーはレルム内で最も民主的なルール制定システムを持っています。",
+          "ipa": "/ˈaʊər ˈsɜrvər hæz ðə ˈmoʊst ˌdɛməˈkrætɪk ˈrul ˈmeɪkɪŋ ˈsɪstəm ɪn ðə ˈrɛlm/",
+          "linking": [
+            "has the → has の末尾 /z/ が the の初頭に連結。the は弱形 /ðə/ [hæz ðə] ハズ ザ",
+            "most democratic → most の末尾 /t/ が未開放で、democratic に連接 [moʊst̚ ˌdɛm] モウスト デモ",
+            "in the → in の末尾 /n/ が the の初頭に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "アワー サーヴァー ハズ ザ モウスト デモクラティック ルール メイキング システム イン ザ レルム"
+        },
+        {
+          "en": "That community created the most democratic decision-making process ever.",
+          "ja": "そのコミュニティは今までで最も民主的な意思決定プロセスを作りました。",
+          "ipa": "/ðæt kəˈmjuːnɪti kriˈeɪtɪd ðə ˈmoʊst ˌdɛməˈkrætɪk dɪˈsɪʒən ˈmeɪkɪŋ ˈprɑsɛs ˈɛvər/",
+          "linking": [
+            "created the → created の末尾 /d/ が the の初頭に連結。the は弱形 /ðə/ [kriˈeɪtɪd ðə] クリエイティド ザ",
+            "most democratic → most の末尾 /t/ が未開放で democratic に連接 [moʊst̚ ˌdɛm] モウスト デモ",
+            "process ever → process の末尾 /s/ が ever の初頭母音に連結 [ˈprɑsɛs ˈɛ] プロセス エ"
+          ],
+          "kana": "ザット コミュニティ クリエイティド ザ モウスト デモクラティック ディシジョン メイキング プロセス エヴァー"
+        }
+      ]
+    }
   ]
 }

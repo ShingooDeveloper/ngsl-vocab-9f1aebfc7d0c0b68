@@ -64,5 +64,33 @@
       ],
       "kana": "ショー ミー プルーフ アヴ ユア ダイモンズ ビフォア ザ トレイド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "proofs",
+      "ipa": "[pruːfs]",
+      "examples": [
+        {
+          "en": "I collected several proofs that this biome is safe.",
+          "ja": "私はこのバイオームが安全であることを証明するいくつかの証拠を集めた。",
+          "ipa": "[aɪ kəˈlɛktɪd ˈsɛvərəl ˈpruːfs ðæt ðɪs ˈbaɪoʊmɪz seɪf]",
+          "linking": [
+            "biome の語末 /m/ が is の /ɪ/ に連結し [ˈbaɪoʊmɪz] バイオミズ"
+          ],
+          "kana": "アイ カレクティド セヴラル プルーフス ザット ディス バイオミズ セイフ"
+        },
+        {
+          "en": "These proofs confirm the mineshaft's location.",
+          "ja": "これらの証拠は、その鉱山の場所を確認する。",
+          "ipa": "[ðiːz ˈpruːfs kənˈfɝm ðə ˈmaɪnʃæfts loʊˈkeɪʃən]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディーズ プルーフス コンファーム ザ マインシャフツ ロウケイション"
+        }
+      ]
+    }
   ]
 }

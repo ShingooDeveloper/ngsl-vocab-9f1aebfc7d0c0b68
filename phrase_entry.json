@@ -46,5 +46,156 @@
       "kana": "ペインタ フレーズ オン ザット バナー ニアー ザ エントレンス"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "phrases",
+      "ipa": "/ˈfreɪzɪz/",
+      "examples": [
+        {
+          "en": "These building phrases help us construct better structures every day.",
+          "ja": "これらの建築フレーズは毎日より良い構造を構築するのに役立ちます。",
+          "ipa": "/ðiːz ˈbɪldɪŋ ˈfreɪzɪz ˈhɛlp ʌs kənˈstrʌkt ˈbɛtɚ ˈstrʌktʃɚz ˈɛvri ˈdeɪ/",
+          "linking": [
+            "help us → help の末尾子音 /p/ が us の初頭母音 /ʌ/ に連結 [ˈhɛlpʌs] ヘルパス",
+            "construct better → construct の末尾子音 /t/ が better の初頭子音 /b/ に続く（未開放）[kənˈstrʌk̚t] コンストラクッ",
+            "every day → every の末尾 /i/ が day の初頭 /d/ に続く。音が連なる"
+          ],
+          "kana": "ディーズ ビルディング フレーズィズ ヘルパス コンストラクト ベター ストラクチャーズ エブリ デイ"
+        },
+        {
+          "en": "Master these command phrases and you'll automate your redstone mechanisms perfectly.",
+          "ja": "これらのコマンド・フレーズをマスターすれば、レッドストーン・メカニズムを完璧に自動化できます。",
+          "ipa": "/ˈmæstɚ ðiːz kəˈmænd ˈfreɪzɪz ən juːl ˈɔːtəmeɪt jɔɹ ˈɹɛdˌstoʊn ˈmɛkənɪzəmz ˈpɜːfɪktli/",
+          "linking": [
+            "the は弱形 /ðə/ で these に先行するが、ここは these なので相互作用なし",
+            "and は弱形 /ən/ エン に弱化",
+            "you'll → you /juː/ + will /wɪl/。you'll は /juːl/ ユール"
+          ],
+          "kana": "マスター ディーズ カマンド フレーズィズ エン ユール オートメイト ユアー レッドストーン メカニズムズ パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "phrases",
+      "ipa": "/ˈfreɪzɪz/",
+      "examples": [
+        {
+          "en": "She phrases the instructions so clearly that every player understands the build.",
+          "ja": "彼女は指示をそれほど明確に表現するので、すべてのプレイヤーが建築を理解します。",
+          "ipa": "/ʃi ˈfreɪzɪz ðə ɪnˈstrʌkʃənz soʊ ˈklɪrli ðæt ˈɛvri ˈpleɪɚ ˌʌndɚˈstændz ðə ˈbɪld/",
+          "linking": [
+            "the は弱形 /ðə/ ザ に弱化。phrases に先行",
+            "that every → that /ðæt/ の末尾 /t/ が every の初頭母音 /ɛ/ に連結（未開放 unreleased t + vowel）[ðæt̚ ˈɛvri] ザット エブリ",
+            "the build → the は弱形 /ðə/ ザ。build に先行"
+          ],
+          "kana": "シー フレーズィズ ザ インストラクション ソー クリアーリー ザット エブリ プレイアー アンダースタンズ ザ ビルド"
+        },
+        {
+          "en": "He phrases each command in a way that the redstone responds correctly.",
+          "ja": "彼は各コマンドをレッドストーンが正しく応答する方法で表現します。",
+          "ipa": "/hi ˈfreɪzɪz itʃ kəˈmænd ɪn ə ˈweɪ ðæt ðə ˈɹɛdˌstoʊn rɪˈspɑndz kəˈrɛktli/",
+          "linking": [
+            "in a → in の末尾子音 /n/ が a の初頭母音 /ə/ に連結 [ɪˈnə] イナ",
+            "a は弱形 /ə/ ア に弱化",
+            "that the → that の末尾 /t/ が the の初頭 /ð/ に続く（未開放）。the は弱形 /ðə/ [ðæt̚ ðə] ザット ザ"
+          ],
+          "kana": "ヒー フレーズィズ イーチ カマンド イナ ウェイ ザット ザ レッドストーン リスパンズ カレクトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "phrased",
+      "ipa": "/ˈfreɪzd/",
+      "examples": [
+        {
+          "en": "The builder phrased the instructions clearly so everyone understood the design.",
+          "ja": "そのビルダーは指示を明確に表現したので、みんな設計を理解しました。",
+          "ipa": "/ðə ˈbɪldɚ ˈfreɪzd ðə ɪnˈstrʌkʃənz ˈklɪrli soʊ ˈɛvriwʌn ˌʌndɚˈstʊd ðə dɪˈzaɪn/",
+          "linking": [
+            "the は弱形 /ðə/ ザ。builder に先行",
+            "phrased the → phrased の末尾 /d/ が the の初頭 /ð/ に続く（未開放）。the は弱形 /ðə/ [ˈfreɪzd̚ ðə] フレーズド ザ",
+            "everyone understood → /wʌn/ + /ʌ/ となり、語が連なる。understood は過去形"
+          ],
+          "kana": "ザ ビルダー フレーズド ザ インストラクション クリアーリー ソー エブリワン アンダースタッド ザ ディザイン"
+        },
+        {
+          "en": "We phrased the quest so carefully that players enjoyed completing all tasks.",
+          "ja": "私たちはクエストを非常に注意深く表現したので、プレイヤーはすべてのタスクを完了するのを楽しみました。",
+          "ipa": "/wi ˈfreɪzd ðə ˈkwɛst soʊ ˈkɛrfəli ðæt ˈpleɪɚz ɪnˈdʒɔɪd kəmˈpliːtɪŋ ɔl ˈtæsks/",
+          "linking": [
+            "the は弱形 /ðə/ ザ。quest に先行",
+            "carefully は /ˈkɛrfəli/ で弱化した /fə/ を含む",
+            "that players → that の末尾 /t/ が players の初頭 /p/ に続く（未開放）[ðæt̚ ˈpleɪɚz] ザット プレイアーズ"
+          ],
+          "kana": "ウィー フレーズド ザ クエスト ソー ケアフリー ザット プレイアーズ インジョイド コムプリーティング オール タスクス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "phrased",
+      "ipa": "/ˈfreɪzd/",
+      "examples": [
+        {
+          "en": "Phrased this way, the redstone tutorial becomes much easier to follow.",
+          "ja": "このように表現されると、レッドストーン・チュートリアルはずっと従いやすくなります。",
+          "ipa": "/ˈfreɪzd ðɪs ˈweɪ | ðə ˈɹɛdˌstoʊn ˈtʃuːtɔːriəl bɪˈkʌmz ˈmʌtʃ ˈiːzɪr tə ˈfɑloʊ/",
+          "linking": [
+            "Phrased this → phrased の末尾 /d/ が this の初頭 /ð/ に続く（未開放）[ˈfreɪzd̚ ðɪs] フレーズド ディス",
+            "to follow → to は弱形 /tə/ タ に弱化。follow に先行"
+          ],
+          "kana": "フレーズド ディス ウェイ、ザ レッドストーン チュートーリアル ビカムズ マッチ イージアー タ ファロー"
+        },
+        {
+          "en": "The guide, phrased perfectly, helped us build our castle in record time.",
+          "ja": "完璧に表現されたそのガイドは、私たちが記録時間で城を建てるのを助けました。",
+          "ipa": "/ðə ˈɡaɪd | ˈfreɪzd ˈpɜːfɪktli | ˈhɛlpt ʌs ˈbɪld ˈaʊɚ ˈkæsəl ɪn ˈrɛkɚd ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/ ザ。guide に先行",
+            "helped us → helped の末尾 /t/ が us の初頭母音 /ʌ/ に連結 [ˈhɛlptʌs] ヘルプタス",
+            "our castle → our /aʊɚ/ の末尾 /r/ が castle の初頭子音 /k/ に続く（連結なし、consonant+consonant）"
+          ],
+          "kana": "ザ ガイド、フレーズド パーフェクトリー、ヘルプタス ビルド アワー キャッスル イン レコード タイム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "phrasing",
+      "ipa": "/ˈfreɪzɪŋ/",
+      "examples": [
+        {
+          "en": "Phrasing commands correctly is essential for making redstone machines work properly.",
+          "ja": "コマンドを正しく表現することはレッドストーン・マシンが正常に機能するために不可欠です。",
+          "ipa": "/ˈfreɪzɪŋ kəˈmændz kəˈrɛktli ɪz ɪˈsɛnʃəl fɚ ˈmeɪkɪŋ ˈɹɛdˌstoʊn məˈʃiːnz ˈwɝk ˈprɑpɚli/",
+          "linking": [
+            "Phrasing commands → phrasing の末尾 /ŋ/ が commands の初頭子音 /k/ に続く（consonant+consonant、連結なし）",
+            "for は弱形 /fɚ/ ファー に弱化",
+            "work properly → work の末尾 /k/ が properly の初頭 /p/ に続く（子音+子音）"
+          ],
+          "kana": "フレーズィング カマンズ カレクトリー イズ イセンシャル ファー メイキング レッドストーン マシーンズ ワーク プロパリー"
+        },
+        {
+          "en": "I'm phrasing this build guide right now to help new players start quickly.",
+          "ja": "新しいプレイヤーが素早く開始するのを助けるために、私は今このビルドガイドを表現しています。",
+          "ipa": "/aɪm ˈfreɪzɪŋ ðɪs ˈbɪld ˈɡaɪd ˈraɪt ˈnaʊ tə ˈhɛlp ˈnjuː ˈpleɪɚz ˈstɑrt ˈkwɪkli/",
+          "linking": [
+            "I'm phrasing → I'm の /m/ が phrasing の初頭子音 /f/ に続く（consonant+consonant）",
+            "to help → to は弱形 /tə/ タ に弱化。help に先行。tə と /h/ は子音+子音",
+            "help new → help の末尾 /p/ が new の初頭 /n/ に続く（子音+子音）"
+          ],
+          "kana": "アイム フレーズィング ディス ビルド ガイド ライト ナウ タ ヘルプ ニュー プレイアーズ スターティング クイックリー"
+        }
+      ]
+    }
+  ]
 }

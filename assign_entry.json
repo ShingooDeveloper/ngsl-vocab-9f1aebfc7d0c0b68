@@ -72,5 +72,123 @@
       ],
       "kana": "ザ リーダー アサインド ア マイニング ジャブ タ ザ ニュー プレイアー"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "assigns",
+      "ipa": "/əˈsaɪnz/",
+      "examples": [
+        {
+          "en": "The admin assigns tasks to everyone.",
+          "ja": "管理者は全員にタスクを割り当てます。",
+          "ipa": "/ðə ˈædmɪn əˈsaɪnz ˈtæsks tə ˈɛvriˌwʌn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin assigns → admin の語末 /n/ が assigns の /ə/ に連結 [ˈædmɪn əˈsaɪnz]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ エドミン アサインズ タスクス タ エブリワン"
+        },
+        {
+          "en": "She assigns mining duties to her teammates.",
+          "ja": "彼女は採掘の業務をチームメートに割り当てます。",
+          "ipa": "/ʃi əˈsaɪnz ˈmaɪnɪŋ ˈduːtiz tə hər ˈtiːmˌmeɪts/",
+          "linking": [
+            "She assigns → [ʃi əˈsaɪnz] シー アサインズ",
+            "assigns mining → assigns の語末 /z/ と mining の語頭 /m/ が子音+子音で連続、途中で若干の連結感",
+            "to は弱形 /tə/、her は弱形化可能 /hər/"
+          ],
+          "kana": "シー アサインズ マイニング デューティーズ タ ハー ティームメイツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "assigned",
+      "ipa": "/əˈsaɪnd/",
+      "examples": [
+        {
+          "en": "The leader assigned resources yesterday.",
+          "ja": "リーダーは昨日リソースを割り当てました。",
+          "ipa": "/ðə ˈliːdər əˈsaɪnd ˈrɛsɝsɪz ˈjɛstərˌdeɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "leader assigned → leader の語末 /r/ が assigned の /ə/ に連結 [ˈliːdər əˈsaɪnd]",
+            "assigned resources → assigned の語末 /d/ が resources の /r/ の直前で未開放 [əˈsaɪn̚d ˈrɛsɝsɪz]"
+          ],
+          "kana": "ザ リーダー アサインド レサーシーズ イェスターデイ"
+        },
+        {
+          "en": "I assigned you to the building crew.",
+          "ja": "私はあなたを建築チームに割り当てました。",
+          "ipa": "/aɪ əˈsaɪnd juː tə ðə ˈbɪldɪŋ kruː/",
+          "linking": [
+            "assigned you → assigned の語末 /d/ が you の /j/ に連結 [əˈsaɪnd juː]",
+            "to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ アサインド ユー タ ザ ビルディング クルー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "assigned",
+      "ipa": "/əˈsaɪnd/",
+      "examples": [
+        {
+          "en": "Once assigned, the tasks were completed quickly.",
+          "ja": "割り当てられたら、タスクはすぐに完了されました。",
+          "ipa": "/wʌns əˈsaɪnd ðə ˈtæsks wər kəmˈpliːtəd ˈkwɪkli/",
+          "linking": [
+            "assigned the → assigned の語末 /d/ が the の /ðə/ に連結 [əˈsaɪn̚d ðə]",
+            "were は弱形 /wər/"
+          ],
+          "kana": "ワンス アサインド ザ タスクス ワー カムプリーティド クイックリー"
+        },
+        {
+          "en": "Assigned to mining, we worked for hours.",
+          "ja": "採掘に割り当てられたので、私たちは何時間も働きました。",
+          "ipa": "/əˈsaɪnd tə ˈmaɪnɪŋ wiː ˈwɝːkt fɔːr ˈaʊərz/",
+          "linking": [
+            "assigned to → assigned の語末 /d/ が to の /t/ の直前で未開放、to は弱形 /tə/ [əˈsaɪn̚d tə]",
+            "for は弱形化可能 /fər/"
+          ],
+          "kana": "アサインド タ マイニング ウィー ワーク フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "assigning",
+      "ipa": "/əˈsaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is assigning new duties to everyone.",
+          "ja": "管理者は全員に新しい業務を割り当てています。",
+          "ipa": "/ðə ˈædmɪn ɪz əˈsaɪnɪŋ ˈnjuː ˈduːtiz tə ˈɛvriˌwʌn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin is → admin の語末 /n/ が is の /ɪ/ に連結 [ˈædmɪn ɪz]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ エドミン イズ アサイニング ニュー デューティーズ タ エブリワン"
+        },
+        {
+          "en": "By assigning tasks fairly, we keep morale high.",
+          "ja": "公平にタスクを割り当てることで、私たちは士気を高く保ちます。",
+          "ipa": "/baɪ əˈsaɪnɪŋ ˈtæsks ˈfɛrli wiː ˈkiːp məˈræl ˈhaɪ/",
+          "linking": [
+            "assigning tasks → [əˈsaɪnɪŋ ˈtæsks] アサイニング タスクス",
+            "we は可能な弱形 /wi/ から /wə/ へ、文脈によっては /wi/ のまま"
+          ],
+          "kana": "バイ アサイニング タスクス フェアリー ウィー キープ モラル ハイ"
+        }
+      ]
+    }
   ]
 }

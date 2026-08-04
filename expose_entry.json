@@ -68,5 +68,119 @@
       ],
       "kana": "ユア ベイス イズ イクスポーズド トゥ クリーパー アタックス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "exposes",
+      "ipa": "/ɪkˈspoʊzɪz/",
+      "examples": [
+        {
+          "en": "The cave exposes valuable diamond ore.",
+          "ja": "その洞窟は価値あるダイヤモンド鉱石を露出させる。",
+          "ipa": "/ðə ˈkeɪv ɪkˈspoʊzɪz ˈvæljuəbəl ˈdaɪmɑnd ɔr/",
+          "linking": [
+            "cave exposes: 語末子音 /v/ が母音 /ɪ/ に連結",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "ザ ケイヴィ クスポーズィズ ヴァリュアボル ダイモンド オア"
+        },
+        {
+          "en": "Breaking blocks exposes many minerals quickly.",
+          "ja": "ブロックを壊すと多くの鉱物がすぐに露出する。",
+          "ipa": "/ˈbreɪkɪŋ blɑks ɪkˈspoʊzɪz ˈmɛni ˈmɪnərəlz ˈkwɪkli/",
+          "linking": [
+            "blocks exposes: 語末子音 /ks/ が母音 /ɪ/ に連結",
+            "exposes many: 語末子音 /z/ が母音 /ɛ/ に連結"
+          ],
+          "kana": "ブレイキング ブラックス イクスポーズィズ メニ ミナラルズ クウィックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "exposed",
+      "ipa": "/ɪkˈspoʊzd/",
+      "examples": [
+        {
+          "en": "I exposed a hidden cave when mining.",
+          "ja": "採掘中に隠れた洞窟を露出させた。",
+          "ipa": "/aɪ ɪkˈspoʊzd ə ˈhɪdən keɪv wɛn ˈmaɪnɪŋ/",
+          "linking": [
+            "exposed a: 語末子音 /d/ が母音 /ə/ に連結",
+            "when mining: 語末子音 /n/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "アイ イクスポーザ ア ヒダン ケイヴ ウェニ マイニング"
+        },
+        {
+          "en": "The storm exposed the fortress deep below.",
+          "ja": "嵐が深い所にある砦を露出させた。",
+          "ipa": "/ðə ˈstɔrm ɪkˈspoʊzd ðə ˈfɔrtrəs dip bɪˈloʊ/",
+          "linking": [
+            "storm exposed: 語末子音 /m/ が母音 /ɪ/ に連結",
+            "exposed the: 語末子音 /d/ が母音 /ə/ に連結"
+          ],
+          "kana": "ザ ストアム イクスポーザ ザ フォートリス ディープ ビロウ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "exposed",
+      "ipa": "/ɪkˈspoʊzd/",
+      "examples": [
+        {
+          "en": "The exposed ore was very rare.",
+          "ja": "露出した鉱石はとても珍しかった。",
+          "ipa": "/ðə ɪkˈspoʊzd ɔr wəz ˈvɛri ˈreər/",
+          "linking": [
+            "exposed ore: 語末子音 /d/ が母音 /ɔ/ に連結",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "ザ イクスポーザ オア ワズ ベリー レアー"
+        },
+        {
+          "en": "This exposed section is perfect for building.",
+          "ja": "この露出したセクションは建築に完璧だ。",
+          "ipa": "/ðɪs ɪkˈspoʊzd ˈsɛkʃən ɪz ˈpɜrfɪkt fɔr ˈbɪldɪŋ/",
+          "linking": [
+            "section is: 語末子音 /n/ が母音 /ɪ/ に連結",
+            "is perfect: 語末子音 /z/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "ディス イクスポーザ セクション イズ パーフェクト フォア ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "exposing",
+      "ipa": "/ɪkˈspoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "I'm exposing the bedrock now.",
+          "ja": "今、ベッドロック層を露出させている。",
+          "ipa": "/aɪm ɪkˈspoʊzɪŋ ðə ˈbɛdɹɑk naʊ/",
+          "linking": [
+            "'m: 弱形 /əm/",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "アイム イクスポーズィング ザ ベッドラック ナウ"
+        },
+        {
+          "en": "Exposing the cave took all morning.",
+          "ja": "洞窟を露出させるのに朝中かかった。",
+          "ipa": "/ɪkˈspoʊzɪŋ ðə ˈkeɪv tʊk ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "the: 弱形 /ðə/",
+            "took all: 語末子音 /k/ が母音 /ɔ/ に連結"
+          ],
+          "kana": "イクスポーズィング ザ ケイヴ トゥック オル モーニング"
+        }
+      ]
+    }
   ]
 }

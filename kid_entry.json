@@ -64,7 +64,7 @@
       "ipa": "/noʊ ˈkɪdɪŋ | ju ˈæktʃuəli ˈfaʊnd ə ˈdaɪmənd ɑn ðə ˈsɝfɪs/",
       "linking": [
         "no kidding → /oʊ/ + /k/ (vowel+consonant、連結なし)",
-        "kidding you → /ŋ/ + /j/ が連結 [ˈkɪdɪŋ juː] キディング ユー",
+        "kidding you → /ŋ/ + /j/ (consonant+consonant、連結なし)",
         "on the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
       ],
       "kana": "ノー キディング ユー、アクチュアリー ファウンド ア ダイアマンド アン ザ サーフィス"
@@ -221,8 +221,7 @@
             "kidded around → /d/ + /ə/ が連結 [ˈkɪdɪd əˈraʊnd] キディド アラウンド",
             "around about → /d/ + /ə/ が連結 [əˈraʊnd əˈbaʊt] アラウンド アバウト",
             "about the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
-            "then one → /n/ + /w/ (consonant+consonant、連結なし)",
-            "actually appeared → /i/ + /ə/ が連結 [əˈktʃuəli əˈpɪrd] アクチュアリー アピアード"
+            "then one → /n/ + /w/ (consonant+consonant、連結なし)"
           ],
           "kana": "アイ キディド アラウンド アバウト ザ クリーパー、バット ザン ワン アクチュアリー アピアード"
         },
@@ -295,7 +294,6 @@
             "that zombie → /t/ + /z/ (consonant+consonant、連結なし)",
             "nearly destroyed → /i/ + /d/ (vowel+consonant、連結なし)",
             "destroyed my → /d/ + /m/ (consonant+consonant、連結なし)",
-            "my entire → /i/ + /ɪ/ が連結 [maɪ ɪnˈtaɪɚ] マイ エンタイア",
             "entire farm → /r/ + /f/ (consonant+consonant、連結なし)"
           ],
           "kana": "アイム ノット キディング、ザット ゾンビー ニアリー ディストロイド マイ エンタイア ファーム"
@@ -313,6 +311,116 @@
             "find the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
           ],
           "kana": "ストップ キディング アラウンド アンド ヘルプ ミー ファインド ザ ビリッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is kidding",
+      "ipa": "/ɪz ˈkɪdɪŋ/",
+      "examples": [
+        {
+          "en": "He is kidding about finding diamonds with a wooden pickaxe.",
+          "ja": "彼は木のツルハシでダイヤを見つけることについて冗談を言っています。",
+          "ipa": "/hi ɪz ˈkɪdɪŋ‿əˈbaʊt ˈfaɪndɪŋ ˈdaɪməndz wɪð ə ˈwʊdən ˈpɪkæks/",
+          "linking": [
+            "is kidding → is は弱形 /ɪz/、/z/ + /k/ (consonant+consonant、連結なし)",
+            "kidding about → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈbaʊt] キディング アバウト",
+            "about finding → /t/ + /f/ (consonant+consonant、連結なし)",
+            "finding diamonds → /ŋ/ + /d/ (consonant+consonant、連結なし)",
+            "with a → /ð/ + /ə/ が連結 [wɪð ə] ウィズ ア",
+            "wooden pickaxe → /ən/ + /p/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヒー イズ キディング アバウト ファインディング ダイアマンズ ウィズ ア ウッデン ピックアックス"
+        },
+        {
+          "en": "My friend is kidding about defeating the Ender Dragon without armor.",
+          "ja": "友人はエンダードラゴンを防具なしで倒すことについて冗談を言っています。",
+          "ipa": "/maɪ ˈfrɛnd ɪz ˈkɪdɪŋ‿əˈbaʊt dɪˈfitɪŋ ðə ˈɛndɚ ˈdræɡən wɪˈðaʊt ˈɑrmɚ/",
+          "linking": [
+            "is kidding → is は弱形 /ɪz/、/z/ + /k/ (consonant+consonant、連結なし)",
+            "kidding about → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈbaʊt] キディング アバウト",
+            "about defeating → /t/ + /d/ (consonant+consonant、連結なし)",
+            "defeating the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "Ender Dragon → /r/ + /d/ (consonant+consonant、連結なし)",
+            "without armor → /t/ + /ɑ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "マイ フレンド イズ キディング アバウト ディフィーティング ザ エンダー ドラゴン ウィザウト アーマー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was kidding",
+      "ipa": "/wəz ˈkɪdɪŋ/",
+      "examples": [
+        {
+          "en": "I was kidding about the lava when it suddenly destroyed my house.",
+          "ja": "ラヴァについて冗談を言っていたら、突然家が破壊されました。",
+          "ipa": "/aɪ wəz ˈkɪdɪŋ‿əˈbaʊt ðə ˈlɑvə wɛn ɪt ˈsʌdənli dɪˈstrɔɪd maɪ ˈhaʊs/",
+          "linking": [
+            "was kidding → was は弱形 /wəz/、/z/ + /k/ (consonant+consonant、連結なし)",
+            "kidding about → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈbaʊt] キディング アバウト",
+            "about the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "when it → /n/ + /ɪ/ (consonant+consonant、連結なし)",
+            "it suddenly → /t/ + /s/ (consonant+consonant、連結なし)",
+            "destroyed my → /d/ + /m/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ワズ キディング アバウト ザ ラーヴァ、ウェン イット サデンリー ディストロイド マイ ハウス"
+        },
+        {
+          "en": "We were kidding around about the creeper spawn rate while mining.",
+          "ja": "採掘中にクリーパーのスポーン率についてふざけていました。",
+          "ipa": "/wi wɚ ˈkɪdɪŋ‿əˈraʊnd əˈbaʊt ðə ˈkɹiːpɚ ˈspoʊn reɪt waɪl ˈmaɪnɪŋ/",
+          "linking": [
+            "were kidding → were は弱形 /wɚ/、/r/ + /k/ (consonant+consonant、連結なし)",
+            "kidding around → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈraʊnd] キディング アラウンド",
+            "around about → /d/ + /ə/ が連結 [əˈraʊnd əˈbaʊt] アラウンド アバウト",
+            "about the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "while mining → /l/ + /m/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィー ワー キディング アラウンド アバウト ザ クリーパー スポウン レイト、ホワイル マイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been kidding",
+      "ipa": "/həd bɪn ˈkɪdɪŋ/",
+      "examples": [
+        {
+          "en": "We had been kidding about the secret base location for weeks before I accidentally revealed it.",
+          "ja": "シークレットベースの場所について数週間冗談を言い続けていたのに、誤って暴露してしまいました。",
+          "ipa": "/wi həd bɪn ˈkɪdɪŋ‿əˈbaʊt ðə ˈsikrət beɪs loʊˈkeɪʃən fɚ wiks bɪˈfɔːr aɪ ˈæksɪˌdɛntəli rɪˈvild ɪt/",
+          "linking": [
+            "had been → had は弱形 /həd/、/d/ + /b/ (consonant+consonant、連結なし)、been は弱形 /bɪn/",
+            "been kidding → /n/ + /k/ (consonant+consonant、連結なし)",
+            "kidding about → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈbaʊt] キディング アバウト",
+            "about the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "location for → /n/ + /f/ (consonant+consonant、連結なし)、for は弱形 /fɚ/",
+            "before I → /r/ + /aɪ/ が連結 [bɪˈfɔːr aɪ] ビフォア アイ",
+            "accidentally revealed → /i/ + /r/ (vowel+consonant、連結なし)"
+          ],
+          "kana": "ウィー ハド ビン キディング アバウト ザ シークレット ベース ロケーション フォー ウィークス ビフォア アイ アクシデンタリー リビールド イット"
+        },
+        {
+          "en": "She had been kidding around with her teammates all morning about the base design.",
+          "ja": "彼女はベースのデザインについて、朝中ずっとチームメイトとふざけていました。",
+          "ipa": "/ʃi həd bɪn ˈkɪdɪŋ‿əˈraʊnd wɪð hɚ ˈtimˌmeɪts ɔːl ˈmɔːrnɪŋ əˈbaʊt ðə beɪs dɪˈzaɪn/",
+          "linking": [
+            "had been → had は弱形 /həd/、/d/ + /b/ (consonant+consonant、連結なし)、been は弱形 /bɪn/",
+            "been kidding → /n/ + /k/ (consonant+consonant、連結なし)",
+            "kidding around → /ŋ/ + /ə/ が連結 [ˈkɪdɪŋ əˈraʊnd] キディング アラウンド",
+            "around with → /d/ + /w/ (consonant+consonant、連結なし)",
+            "with her → /ð/ + /h/ (consonant+consonant、連結なし)、her は弱形 /ɚ/",
+            "all morning → /l/ + /m/ (consonant+consonant、連結なし)",
+            "morning about → /ŋ/ + /ə/ が連結 [ˈmɔːrnɪŋ əˈbaʊt] モーニング アバウト",
+            "about the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハド ビン キディング アラウンド ウィズ ハー ティームメイツ オール モーニング アバウト ザ ベース ディザイン"
         }
       ]
     }

@@ -72,5 +72,152 @@
       ],
       "kana": "ゲッリング ザット オーリズ ナット アナ プレイト イン サーバイバル モウド"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "plates",
+      "ipa": "/pleɪts/",
+      "examples": [
+        {
+          "en": "The craftsman plates armor pieces with obsidian.",
+          "ja": "職人は装甲片にオブシディアンで装甲を施します。",
+          "ipa": "/ðə ˈkræftsmən pleɪts ˈɑrmər ˈpisɪz wɪð ɑbˈsɪdiən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "with は /wɪð/（子音）"
+          ],
+          "kana": "ザ クラフツマン プレイツ アーマー ピーシーズ ウィズ アブシディアン"
+        },
+        {
+          "en": "He plates each diamond armor piece before the warrior enters battle.",
+          "ja": "彼は戦士が戦闘に入る前に、各ダイヤモンド装甲をプレート化します。",
+          "ipa": "/hi pleɪts itʃ ˈdaɪəmənd ˈɑrmər ˈpis bɪˈfɔr ðə ˈwɔriər ˈɛntərz ˈbætəl/",
+          "linking": [
+            "before の r が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/",
+            "enters は [ˈɛntərz]"
+          ],
+          "kana": "ヒー プレイツ イッチ ダイアマンド アーマー ピース ビフォー ザ ウォリアー エンターズ バトル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "plated",
+      "ipa": "/ˈpleɪtɪd/",
+      "examples": [
+        {
+          "en": "We plated the fortress walls with obsidian for extra protection.",
+          "ja": "追加の保護のために、要塞の壁にオブシディアンで装甲を施しました。",
+          "ipa": "/wi ˈpleɪtɪd ðə ˈfɔrtrɪs wɔlz wɪð ɑbˈsɪdiən fər ˈɛkstrə prəˈtɛkʃən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "ウィ プレイティド ザ フォートレス ウォルズ ウィズ アブシディアン ファー エクストラ プロテクション"
+        },
+        {
+          "en": "I plated my diamond armor with gold last night for the raid.",
+          "ja": "襲撃のために、昨夜、ダイヤモンド装甲を金でプレート化しました。",
+          "ipa": "/aɪ ˈpleɪtɪd maɪ ˈdaɪəmənd ˈɑrmər wɪð ɡoʊld læst ˈnaɪt fər ðə ˈreɪd/",
+          "linking": [
+            "diamond armor → 語末子音 /d/ が母音 /ɑ/ に連結",
+            "for は機能語で弱形 /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ プレイティド マイ ダイアマンド アーマー ウィズ ゴールド ラスト ナイト ファー ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "plated",
+      "ipa": "/ˈpleɪtɪd/",
+      "examples": [
+        {
+          "en": "The plated fortress stood strong against all enemy attacks.",
+          "ja": "装甲化された要塞は、すべての敵の攻撃に対して強く立ち続けました。",
+          "ipa": "/ðə ˈpleɪtɪd ˈfɔrtrɪs ˈstʊd strɔŋ əˈɡɛnst ˈɔl ˈɛnəmi əˈtæks/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "strong against → 語末子音 /ŋ/ が母音 /ə/ に連結"
+          ],
+          "kana": "ザ プレイティド フォートレス スッド ストロング アゲンスト オール エネミー アタックス"
+        },
+        {
+          "en": "Having plated the walls with diamond blocks, the builder finally rested.",
+          "ja": "ダイヤモンド・ブロックで壁にプレートを施した後、ビルダーはついに休みました。",
+          "ipa": "/ˈheɪvɪŋ ˈpleɪtɪd ðə wɔlz wɪð ˈdaɪəmənd blɑks | ðə ˈbɪldər ˈfaɪnəli ˈrɛstɪd/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "the builder → the は弱形 /ðə/ で builder と連結"
+          ],
+          "kana": "ハヴィング プレイティド ザ ウォルズ ウィズ ダイアマンド ブロックス、ザ ビルダー ファイナリー レスティド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "plating",
+      "ipa": "/ˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Plating the roof with golden blocks takes many hours of careful work.",
+          "ja": "金ブロックで屋根にプレートを施すには、多くの時間がかかります。",
+          "ipa": "/ˈpleɪtɪŋ ðə ˈruf wɪð ˈɡoʊldən blɑks ˈteɪks ˈmɛni ˈaʊərz əv ˈkɛrfəl wɜrk/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "takes hours → 語末子音 /z/ が母音 /aʊ/ に連結",
+            "hours of → 語末子音 /z/ が母音 /ə/ に連結、of は弱形 /əv/"
+          ],
+          "kana": "プレイティング ザ ルーフ ウィズ ゴールデン ブロックス テイクス メニー アワーズ オブ ケアフル ワーク"
+        },
+        {
+          "en": "While plating the structure with obsidian, we discovered an underground river.",
+          "ja": "オブシディアンで構造にプレートを施しながら、地下の川を発見しました。",
+          "ipa": "/waɪl ˈpleɪtɪŋ ðə ˈstrʌktʃər wɪð ɑbˈsɪdiən | wi dɪsˈkʌvərd‿ən ˌʌndərˈɡraʊnd ˈrɪvər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "discovered an → 語末子音 /d/ が母音 /ə/ に連結、an は弱形 /ən/"
+          ],
+          "kana": "ワイル プレイティング ザ ストラクチャー ウィズ アブシディアン、ウィ ディスカバード アン アンダーグラウンド リヴァー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "plates",
+      "ipa": "/pleɪts/",
+      "examples": [
+        {
+          "en": "I need decorative plates to display my treasure collection.",
+          "ja": "私の宝物コレクションを飾るための装飾的な皿が必要です。",
+          "ipa": "/aɪ ˈniːd ˌdɛkəˈreɪtɪv pleɪts tu dɪsˈpleɪ maɪ ˈtrɛʒər kəˈlɛkʃən/",
+          "linking": [
+            "to は弱形 /tə/",
+            "my treasure → my は /maɪ/、treasure に続く"
+          ],
+          "kana": "アイ ニード デコレイティヴ プレイツ トゥ ディスプレイ マイ トレジャー コレクション"
+        },
+        {
+          "en": "Gold plates are perfect for decorating the walls of any castle.",
+          "ja": "金の皿は、どんな城の壁も飾るのに完璧です。",
+          "ipa": "/ɡoʊld pleɪts ər ˈpɜrfɪkt fər ˌdɛkəˈreɪtɪŋ ðə wɔlz əv ˈɛni ˈkæsəl/",
+          "linking": [
+            "are → /ɑr/ は弱形で次に続く",
+            "for は機能語で弱形 /fər/",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ゴールド プレイツ アー パーフィクト ファー デコレイティング ザ ウォルズ オブ エニー キャッスル"
+        }
+      ]
+    }
   ]
 }

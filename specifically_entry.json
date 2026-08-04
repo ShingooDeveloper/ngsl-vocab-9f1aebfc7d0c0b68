@@ -54,5 +54,35 @@
       ],
       "kana": "アイ ニーッ マテリアルッ モア スペシフィクリー アイ ニーッ ウッ エン ストーン"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more specifically",
+      "ipa": "/mɔɹ spəˈsɪfɪkli/",
+      "examples": [
+        {
+          "en": "I need blocks. More specifically, I need dark oak wood for my cabin.",
+          "ja": "ブロックが必要です。より具体的には、自分のキャビンのためにダークオークの木が必要です。",
+          "ipa": "/aɪ ˈniːd ˈblɑks mɔɹ spəˈsɪfɪkli aɪ ˈniːd ˈdɑɹk ˈoʊk ˈwʊd fɔɹ maɪ ˈkæbɪn/",
+          "linking": [
+            "blocks の語末子音 /s/ が more の /m/（子音）に直続、/s/ は未開放 [ˈblɑks̚ mɔɹ] ブロックス モア",
+            "for の弱形 /fɚ/ と my の /m/ が連なり [fɚ maɪ] ファー マイ"
+          ],
+          "kana": "アイ ニード ブロックス モア スペシフィクリー アイ ニード ダーク オーク ウッド ファー マイ キャビン"
+        },
+        {
+          "en": "I'm exploring. More specifically, I'm searching for cave systems with ore.",
+          "ja": "探索中です。より具体的には、鉱石がある洞窟システムを探しています。",
+          "ipa": "/aɪm ɪkˈsplɔɹɪŋ mɔɹ spəˈsɪfɪkli aɪm ˈsɑɹtʃɪŋ fɔɹ ˈkeɪv ˈsɪstəmz wɪð ˈɔɹ/",
+          "linking": [
+            "exploring の語末子音 /ŋ/ が more の /m/（子音）に直続、/ŋ/ は未開放 [ɪŋ̚ mɔɹ] イング モア",
+            "systems の語末子音 /z/ が with の /ð/（子音）に直続、/z/ は未開放 [ˈsɪstəmz̚ wɪð] システムズ ウィズ"
+          ],
+          "kana": "アイム イクスプロアリング モア スペシフィクリー アイム サーチング フォア ケーブ システムズ ウィズ オア"
+        }
+      ]
+    }
   ]
 }

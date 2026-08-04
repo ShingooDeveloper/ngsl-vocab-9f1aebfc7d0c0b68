@@ -43,5 +43,37 @@
       "kana": "ストウン イズ イージャー タ ファインド アット ザ バッダム アヴ ヒルズ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "hills",
+      "ipa": "/hɪlz/",
+      "examples": [
+        {
+          "en": "These hills are perfect for building.",
+          "ja": "この丘たちは建築に完璧だ。",
+          "ipa": "[ðiːz ˈhɪlz ə ˈpɝːfɪkt fə ˈbɪldɪŋ]",
+          "linking": [
+            "hills は /ˈhɪlz/ 語末が /z/。直後の are は弱形 /ə/ なので連結 [ˈhɪlz ə]。",
+            "are は弱形 /ə/。perfect の /p/ に連結 [ə ˈpɝːfɪkt]。",
+            "perfect は /ˈpɝːfɪkt/ 語末が /t/。直後の for は弱形 /ə/ なので連結 [ˈpɝːfɪkə]。"
+          ],
+          "kana": "ディーズ ヒルズ ア パーフェクト フ ビルディング"
+        },
+        {
+          "en": "Hills with forests are great for shelter.",
+          "ja": "森のある丘は避難に最適だ。",
+          "ipa": "[ˈhɪlz wɪð ˈfɔrɪsts ə ˈɡreɪt fə ˈʃɛltɚ]",
+          "linking": [
+            "forests は /ˈfɔrɪsts/ 語末が /z/。直後の are は弱形 /ə/ なので連結 [ˈfɔrɪsts ə]。",
+            "are は弱形 /ə/。great の /g/ に連結 [ə ˈɡreɪt]。",
+            "great は /ˈɡreɪt/ 語末が /t/。直後の for は弱形 /ə/ なので連結 [ɡreɪt ə]。"
+          ],
+          "kana": "ヒルズ ウィズ フォレスツ ア グレイト フ シェルター"
+        }
+      ]
+    }
+  ]
 }

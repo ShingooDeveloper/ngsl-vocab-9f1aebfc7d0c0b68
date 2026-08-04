@@ -216,6 +216,96 @@
           "kana": "ウィ オーガナイズド ロウテイティング ウォッチーズ タ プロテク アワー ベイス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is watching",
+      "ipa": "/ɪz ˈwɑtʃɪŋ/",
+      "examples": [
+        {
+          "en": "She is watching the zombie approach slowly.",
+          "ja": "彼女はゾンビがゆっくり近づいてくるのを見ている。",
+          "ipa": "[ʃi ɪz ˈwɑtʃɪŋ ðə ˈzɑmbi əˈproʊtʃ ˈsloʊli]",
+          "linking": [
+            "She の語末 /i/ が is の初頭 /ɪ/ に滑らかに続く [ʃi ɪz] シー イズ",
+            "is は助動詞で弱形 /ɪz/。watching の初頭 /w/ に [ɪz ˈwɑtʃɪŋ] イズ ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に滑らかに続く [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "シー イズ ウォッチング ザ ゾンビー アプロウチ スロウリー"
+        },
+        {
+          "en": "We are watching the redstone repeater signal closely.",
+          "ja": "私たちはレッドストーンリピーターの信号を注視している。",
+          "ipa": "[wi ɑr ˈwɑtʃɪŋ ðə ˈrɛdˌstoʊn rɪˈpitər ˈsɪɡnəl ˈkloʊsli]",
+          "linking": [
+            "We の語末 /i/ が are の初頭 /ɑ/ に。別音なので [wi ɑr] ウィ アー",
+            "are は助動詞で弱形 /ər/。watching の初頭 /w/ に [ɑr ˈwɑtʃɪŋ] アー ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "ウィ アー ウォッチング ザ レッドストーン リピーター シグナル クロウスリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was watching",
+      "ipa": "/wəz ˈwɑtʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was watching the sunset when the creeper appeared.",
+          "ja": "クリーパーが現れたとき、私は日没を見ていた。",
+          "ipa": "[aɪ wəz ˈwɑtʃɪŋ ðə ˈsʌnˌsɛt wɛn ðə ˈkripər əˈpɪrd]",
+          "linking": [
+            "I の語末 /aɪ/ が was の初頭 /w/ に [aɪ wəz] アイ ワズ",
+            "was は助動詞で弱形 /wəz/。watching の初頭 /w/ に [wəz ˈwɑtʃɪŋ] ワズ ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "アイ ワズ ウォッチング ザ サンセット ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "We were watching the mob spawner when the farm shut down.",
+          "ja": "農場がシャットダウンしたとき、私たちはモブスポーナーを見ていた。",
+          "ipa": "[wi wər ˈwɑtʃɪŋ ðə mɑb ˈspɔnər wɛn ðə fɑrm ʃʌt daʊn]",
+          "linking": [
+            "We の語末 /i/ が were の初頭 /w/ に。別音なので [wi wər] ウィ ワー",
+            "were は助動詞で弱形 /ər/。watching の初頭 /w/ に [wər ˈwɑtʃɪŋ] ワー ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "ウィ ワー ウォッチング ザ モブ スポーナー ウェン ザ ファーム シャット ダウン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been watching",
+      "ipa": "/həd bɪn ˈwɑtʃɪŋ/",
+      "examples": [
+        {
+          "en": "She had been watching the entrance all night before the attack.",
+          "ja": "攻撃の前、彼女は一晩中入口を見張っていた。",
+          "ipa": "[ʃi həd bɪn ˈwɑtʃɪŋ ðə ˈɛntrəns ɔl naɪt bɪˈfɔr ðə əˈtæk]",
+          "linking": [
+            "had は助動詞で弱形 /həd/。been の初頭 /b/ に [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が watching の初頭 /w/ に。別音なので [bɪn ˈwɑtʃɪŋ] ビン ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "シー ハド ビン ウォッチング ザ エントランス オール ナイト ビフォア ザ アタック"
+        },
+        {
+          "en": "We had been watching the dragon for hours before the final battle.",
+          "ja": "最終決戦の前、私たちは数時間ドラゴンを監視していた。",
+          "ipa": "[wi həd bɪn ˈwɑtʃɪŋ ðə ˈdræɡən fər aʊrz bɪˈfɔr ðə ˈfaɪnəl ˈbætəl]",
+          "linking": [
+            "had は助動詞で弱形 /həd/。been の初頭 /b/ に [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が watching の初頭 /w/ に。別音なので [bɪn ˈwɑtʃɪŋ] ビン ウォッチング",
+            "watching の末尾 /ŋ/ が the の弱形 /ðə/ に [ˈwɑtʃɪŋ ðə] ウォッチング ザ"
+          ],
+          "kana": "ウィ ハド ビン ウォッチング ザ ドラゴン ファー アワーズ ビフォア ザ ファイナル バトル"
+        }
+      ]
     }
   ]
 }

@@ -68,5 +68,35 @@
       ],
       "kana": "エヴリワン ウィル ヴォート アン アメンドメナバウト ビルディング ハイト リストリクションズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "amendments",
+      "ipa": "/əˈmɛndmənts/",
+      "examples": [
+        {
+          "en": "Players made amendments to the server rules.",
+          "ja": "プレイヤーたちはサーバールールに修正案を作成しました。",
+          "ipa": "/ˈpleɪɚz meɪd əˈmɛndmənts tu ðə ˈsɝvɚ rulz/",
+          "linking": [
+            "made の末尾子音 /d/ が amendments の初頭母音 /ə/ に連結。結果は [meɪdəˈmɛndmənts] メイダメンドメンツ",
+            "to と the は機能語で弱形。to は /tə/、the は /ðə/。"
+          ],
+          "kana": "プレイヤーズ メイダメンドメンツ トゥ ザ サーヴァー ルーズ"
+        },
+        {
+          "en": "We need amendments to resolve PvP conflicts.",
+          "ja": "PvP争いを解決するために修正案が必要です。",
+          "ipa": "/wi nid əˈmɛndmənts tu rɪˈzɑlv ˈpiːˌviːˈpiː ˈkɑnflɪkts/",
+          "linking": [
+            "need の末尾子音 /d/ が amendments の初頭母音 /ə/ に連結。結果は [niːdəˈmɛndmənts] ニーダメンドメンツ",
+            "to は機能語で弱形 /tə/。"
+          ],
+          "kana": "ウィ ニーダメンドメンツ トゥ リゾルヴ ピー ヴィー ピー コンフリクツ"
+        }
+      ]
+    }
   ]
 }

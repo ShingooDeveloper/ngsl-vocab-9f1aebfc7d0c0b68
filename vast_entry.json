@@ -61,5 +61,71 @@
       ],
       "kana": "ザ ヴァスト マジョリティ アヴ モーブズ スポーン アット ナイト イン ディ オーバーワールド"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more vast",
+      "ipa": "/mɔr væst/",
+      "examples": [
+        {
+          "en": "This area is more vast than the previous one.",
+          "ja": "この地域は前の場所より広大だ。",
+          "ipa": "[ðɪs ˈɛriə ɪz mɔr væst ðən ðə ˈpriːviəs wʌn]",
+          "linking": [
+            "is more で is の /z/ が more の /ɔ/ に連結 [ɪz mɔr] イズモア",
+            "more vast で more の /r/ が vast の /æ/ に連結 [mɔr væst] モアヴァスト",
+            "the と than は弱形で短縮 /ðə/ /ðən/",
+            "the previous は [ðə ˈpriːviəs] ザプリービアス"
+          ],
+          "kana": "ディス エリアー イズ モア ヴァスト ザン ザ プリーヴィアス ワン"
+        },
+        {
+          "en": "The End dimension appears more vast when you explore it.",
+          "ja": "End の次元は探索するとより広大に見える。",
+          "ipa": "[ðə ˈɛnd dɪˈmɛnʃən əˈpɪrz mɔr væst wɛn ju ɪkˈsplɔr ɪt]",
+          "linking": [
+            "The は弱形 /ðə/ [ðə ˈɛnd] ザ エンド",
+            "appears more で /z/ が /ɔ/ に連結 [əˈpɪrz mɔr] アピアズ モア",
+            "more vast で /r/ が /æ/ に連結 [mɔr væst] モアヴァスト",
+            "explore it で /r/ が /ɪ/ に連結 [ɪkˈsplɔr ɪt] エクスプロア イット"
+          ],
+          "kana": "ザ エンド ディメンション アピアズ モア ヴァスト ウェン ユー エクスプロア イット"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most vast",
+      "ipa": "/moʊst væst/",
+      "examples": [
+        {
+          "en": "The Savanna is the most vast biome in our world.",
+          "ja": "サバンナは私たちのワールドで最も広大なバイオームだ。",
+          "ipa": "[ðə səˈvænə ɪz ðə ˈmoʊst væst ˈbaɪoʊm ɪn ˈaʊr wɜrld]",
+          "linking": [
+            "The と the は弱形 /ðə/ [ðə səˈvænə ɪz ðə]",
+            "biome in で /m/ が /ɪ/ に連結 [ˈbaɪoʊm ɪn]",
+            "in our で /n/ が /ˈaʊr/ に連結 [ɪn ˈaʊr]",
+            "most vast では /t/ が未開放か短縮 [ˈmoʊst væst]"
+          ],
+          "kana": "ザ サヴァナ イズ ザ モースト ヴァスト バイオム イン アウアー ワールド"
+        },
+        {
+          "en": "This desert is the most vast landscape we've discovered.",
+          "ja": "この砂漠は私たちが発見した中で最も広大な風景だ。",
+          "ipa": "[ðɪs ˈdɛzərt ɪz ðə ˈmoʊst væst ˈlændˌskeɪp wɪv dɪˈskʌvərd]",
+          "linking": [
+            "desert is で /t/ が /ɪ/ に連結 [ˈdɛzərt ɪz] デザート イズ",
+            "the は弱形 /ðə/",
+            "most vast では /t/ が未開放ないし短縮 [ˈmoʊst væst]",
+            "we've discovered では /v/ と /d/ が続く [wɪv dɪˈskʌvərd] ウィヴ ディスカヴァード"
+          ],
+          "kana": "ディス デザート イズ ザ モースト ヴァスト ランドスケープ ウィヴ ディスカヴァード"
+        }
+      ]
+    }
   ]
 }

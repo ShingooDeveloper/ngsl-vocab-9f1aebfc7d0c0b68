@@ -67,5 +67,36 @@
       ],
       "kana": "ドウント アッ ライカ ゴッ ジャス ビコーズ ユー ビッ ザ ウィザー ワンス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "gods",
+      "ipa": "/ɡɑdz/",
+      "examples": [
+        {
+          "en": "The gods help us survive the night.",
+          "ja": "神々が私たちが夜を生き残るのを助ける。",
+          "ipa": "/ðə ˈɡɑdz ˈhɛlpəs sərˈvaɪv ðə naɪt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "help の末尾 /p/ が us の初頭 /ə/ に連結 [ˈhɛlpəs] ヘルパス",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ ゴッズ ヘルパス サーヴァイヴ ザ ナイト"
+        },
+        {
+          "en": "Ancient gods are hiding in the depths of the cave.",
+          "ja": "古い神々が洞窟の深いところに隠れている。",
+          "ipa": "/ˈeɪnʃənt ˈɡɑzɑr ˈhaɪdɪŋ ɪn ðə dɛpθs əv ðə keɪv/",
+          "linking": [
+            "gods の末尾 /z/ が are の初頭 /ɑ/ に連結 [ˈɡɑzɑr] ゴッザー",
+            "the は冠詞で弱形 /ðə/、of は弱形 /əv/"
+          ],
+          "kana": "エインシャント ゴッザー ハイディング イン ザ デプス アヴ ザ ケイヴ"
+        }
+      ]
+    }
   ]
 }

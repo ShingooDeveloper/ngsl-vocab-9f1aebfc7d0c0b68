@@ -87,5 +87,35 @@
       ],
       "kana": "ザ プロバビリティ アヴ ア クリーパー アピアリング ヒア イズ ハイアー ザン アイ イクスペクテド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "probabilities",
+      "ipa": "/ˌprɑbəˈbɪlətiz/",
+      "examples": [
+        {
+          "en": "The probabilities of spawning different ores vary greatly between surface and deep caves.",
+          "ja": "鉱石の生成確率は、表面と深洞窟の間で大きく異なります。",
+          "ipa": "/ðə ˌprɑbəˈbɪlətiz əv ˈspoʊnɪŋ ˈdɪfərənt ˈɔrz ˈvɛri ˈɡreɪtli bɪˈtwin ˈsɝːfəs ənd ˈdip ˈkeɪvz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "probabilities の語末子音 /z/ が of の /ə/（弱形）に連結"
+          ],
+          "kana": "ザ プロバビリティーズ アヴ スポーニング ディファレント オーズ ベリ グレイラリー ビトウィーン サーフェス アンド ディープ ケイヴズ"
+        },
+        {
+          "en": "Calculating exact probabilities helps predict which depths yield the most valuable loot.",
+          "ja": "確率を計算することで、最も価値のあるルートが見つかりやすい深さを予測できます。",
+          "ipa": "/ˈkælkjəˌleɪtɪŋ ɪɡˈzækt ˌprɑbəˈbɪlətiz ˈhɛlps prɪˈdɪkt wɪtʃ ˈdɛpθs jild ðə ˈmoʊst ˈvæljəbəl ˈlut/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "exact の末尾 /t/ は未開放で、次の probabilities /p/ に続く"
+          ],
+          "kana": "カルキュレイティング イグザクト プロバビリティーズ ヘルプス プリディクト ウィッチ デプス イールド ザ モースト バリュアブル ルート"
+        }
+      ]
+    }
   ]
 }

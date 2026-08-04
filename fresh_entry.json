@@ -1,0 +1,161 @@
+{
+  "word": "fresh",
+  "pos": "形容詞・副詞",
+  "pos_all": "形容詞・副詞",
+  "ipa_us": "/frɛʃ/",
+  "rank": 2101,
+  "level": "A2",
+  "hi": "fresh(er|est)?",
+  "meanings": [
+    "【形容詞】新しい、新鮮な（recently made or produced; not old）",
+    "【形容詞】（食べ物が）新鮮な、取りたての（not preserved or canned）",
+    "【形容詞】さっぱりした、爽やかな（refreshingly cool or invigorating）",
+    "【形容詞】元気な、活発な（vigorous or energetic）",
+    "【副詞】新しく、最近（recently）"
+  ],
+  "examples": [
+    {
+      "en": "I want fresh water from the spring, not from the ocean.",
+      "ja": "海からではなく、泉から新鮮な水が欲しい。",
+      "ipa": "/aɪ ˈwɑnt ˈfrɛʃ ˈwɔtər frəm ðə ˈsprɪŋ, nɑt frəm ðɪ ˈoʊʃən/",
+      "linking": [
+        "want fresh → /t/ + /f/ は子音+子音で連結しない",
+        "from the → from と the は共に弱形 /frəm/ /ðə/"
+      ],
+      "kana": "アイ ワント フレッシュ ウォーター フラム ザ スプリング ナット フラム ジ オーシャン"
+    },
+    {
+      "en": "The fresh apples I harvested taste much better than old ones.",
+      "ja": "私が収穫した新鮮なリンゴは古いものより味が良い。",
+      "ipa": "/ðə ˈfrɛʃ ˈæpəlz aɪ ˈhɑrvɪstɪd ˈteɪst ˈmʌtʃ ˈbɛtər ðən oʊld ˈwʌnz/",
+      "linking": [
+        "the fresh → the は弱形 /ðə/、子音+子音で連結しない",
+        "apples I → 語末音 /z/ が /aɪ/ に連結 [ˈæpəlz aɪ]"
+      ],
+      "kana": "ザ フレッシュ アップルズ アイ ハーヴェスティド テイスト マッチ ベター ザン オールド ワンズ"
+    },
+    {
+      "en": "A fresh breeze blows through the birch forest biome.",
+      "ja": "白樺の森バイオームを通して爽やかな風が吹く。",
+      "ipa": "/ə ˈfrɛʃ ˈbriːz ˈbloʊz ˈθruː ðə ˈbɜrtʃ ˈfɔrɪst baɪˈoʊm/",
+      "linking": [
+        "a fresh → a は弱形 /ə/、語末音 /ə/ が /f/ に連結 [ə ˈfrɛʃ]",
+        "breeze blows → 語末音 /z/ が /b/ に連結しない（子音+子音）"
+      ],
+      "kana": "ア フレッシュ ブリーズ ブロウズ スルー ザ バーチ フォレスト バイオーム"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "fresh water",
+      "ja": "淡水、新鮮な水",
+      "example": "Finding fresh water is essential for survival in Minecraft.",
+      "example_ja": "マインクラフトで生き残るには新鮮な水を見つけることが必須だ。",
+      "ipa": "/ˈfaɪndɪŋ ˈfrɛʃ ˈwɔtər ɪz ɪˈsɛnʃəl fər sərˈvaɪvəl ɪn ˈmaɪnˌkræft/",
+      "linking": [
+        "finding fresh → /ŋ/ + /f/ は子音+子音で連結しない、fresh の /f/ に続く",
+        "essential for → 語末音 /l/ が /f/ に連結しない（子音+子音）、for は弱形 /fər/"
+      ],
+      "kana": "ファインディング フレッシュ ウォーター イズ エッセンシャル ファー サーヴァイバル イン マインクラフト"
+    },
+    {
+      "idiom": "fresh start",
+      "ja": "新しく始めること、一からやり直し",
+      "example": "I destroyed my old world and built a fresh start in a new one.",
+      "example_ja": "古いワールドを破壊して、新しいワールドで一からやり直した。",
+      "ipa": "/aɪ dɪˈstrɔɪd maɪ ˈoʊld ˈwɜrld ənd ˈbɪlt ə ˈfrɛʃ ˈstɑrt ɪn ə ˈnuː ˈwʌn/",
+      "linking": [
+        "old world → 語末音 /d/ が /w/ に連結しない（子音+子音）",
+        "and built → /d/ + /b/ は子音+子音で連結しない、built の /b/ に続く",
+        "a fresh → a は弱形 /ə/、fresh に連結 [ə ˈfrɛʃ]"
+      ],
+      "kana": "アイ ディストロイド マイ オールド ワールド エンド ビルト ア フレッシュ スターット イン ア ニュー ワン"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I planted fresh seeds on the farm and they grew into crops overnight.",
+      "ja": "農場に新しい種を植えたら、一晩で作物に成長した。",
+      "ipa": "/aɪ ˈplæntɪd ˈfrɛʃ ˈsidz ɑn ðə ˈfɑrm ənd ðeɪ ˈɡruː ˈɪntu ˈkrɑps ˈoʊvərnɑɪt/",
+      "linking": [
+        "planted fresh → 語末音 /d/ が /f/ に連結しない（子音+子音）",
+        "on the → on の /n/ が the の /ð/ に連結しない（子音+子音）、the は弱形 /ðə/",
+        "into crops → 語末音 /u/ が /k/ に連結しない（母音+子音）"
+      ],
+      "kana": "アイ プランティド フレッシュ シーズ オン ザ ファーム エンド ゼイ グルー イントゥ クラップス オーバーナイト"
+    },
+    {
+      "en": "This fresh-caught salmon will keep me healthy and strong.",
+      "ja": "この新鮮に捕れたサーモンは私を健康で強く保つだろう。",
+      "ipa": "/ðɪs ˈfrɛʃˌkɔːt ˈsæmən wɪl ˈkip mi ˈhɛlθi ənd ˈstrɔŋ/",
+      "linking": [
+        "this fresh → /s/ + /f/ は子音+子音で連結しない",
+        "will keep → 語末音 /l/ が /k/ に連結しない（子音+子音）",
+        "me healthy → 語末音 /i/ が /h/ に連結 [mi ˈhɛlθi]"
+      ],
+      "kana": "ディス フレッシュキャット サーモン ウィル キープ ミー ヘルシー エンド ストロング"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "fresher",
+      "ipa": "/ˈfrɛʃər/",
+      "examples": [
+        {
+          "en": "This apple is fresher than the one from the old farm.",
+          "ja": "このリンゴはあの古い農場のものより新鮮だ。",
+          "ipa": "/ðɪs ˈæpəl ɪz ˈfrɛʃər ðən ðə ˈwʌn frəm ðə oʊld ˈfɑrm/",
+          "linking": [
+            "語末子音 /s/ が母音 /æ/ に連結 [ðɪsˈæpəl] ディスアップル",
+            "語末子音 /n/ が母音 /ə/ に連結、the は弱形 /ðə/ [ðənðə] ザンザ",
+            "語末子音 /d/ が母音 /ɑ/ に連結 [oʊldˈfɑrm] オールドファーム"
+          ],
+          "kana": "ディスアップル イズ フレッシャー ザン ザ ワン フロマ ザ オールド ファーム"
+        },
+        {
+          "en": "The crops I harvested today are fresher than yesterday's harvest.",
+          "ja": "今日収穫した作物は昨日の収穫より新鮮だ。",
+          "ipa": "/ðə ˈkrɑps aɪ ˈhɑrvɪstɪd təˈdeɪ ɑr ˈfrɛʃər ðən ˈjɛstərˌdeɪz ˈhɑrvɪst/",
+          "linking": [
+            "語末子音 /s/ が母音 /aɪ/ に連結 [krɑpsaɪ] クラップサイ",
+            "機能語 to は弱形 /tə/ [təˈdeɪ] タデイ",
+            "語末子音 /n/ が母音 /j/ に連結 [ðənˈjɛs...] ザン イェス"
+          ],
+          "kana": "ザ クラップス アイ ハーヴェスティド タ デイ アー フレッシャー ザン イェスターデイズ ハーヴェスト"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "freshest",
+      "ipa": "/ˈfrɛʃəst/",
+      "examples": [
+        {
+          "en": "I want the freshest water from this underground spring.",
+          "ja": "この地下の泉から最も新鮮な水が欲しい。",
+          "ipa": "/aɪ ˈwɑnt ðə ˈfrɛʃəst ˈwɔtər frəm ðɪs ˌʌndərɡraʊnd ˈsprɪŋ/",
+          "linking": [
+            "語末子音 /t/ が未開放で詰まる（want の末尾） [wɑn̚t̚] ワント",
+            "弱形の the [ðə]、freshest に続く",
+            "語末子音 /s/ が母音 /ʌ/ に連結 [ðɪsˌʌndər...] ディスアンダー"
+          ],
+          "kana": "アイ ワント ザ フレッシェスト ウォーター フロマ ディスアンダーグラウンド スプリング"
+        },
+        {
+          "en": "This salmon is the freshest catch from the ocean biome.",
+          "ja": "このサーモンはオーシャン バイオームから捕れた最も新鮮なものだ。",
+          "ipa": "/ðɪs ˈsæmən ɪz ðə ˈfrɛʃəst ˈkætʃ frəm ðə ˈoʊʃən ˈbaɪoʊm/",
+          "linking": [
+            "語末子音 /n/ が母音 /ɪ/ に連結 [ˈsæmən ɪz] サモン イズ",
+            "弱形の the [ðə]、freshest に続く（子音+子音で連結なし）",
+            "語末子音 /n/ が母音 /b/ に連結 [ˈoʊʃən ˈbaɪ...] オーシャン バイ"
+          ],
+          "kana": "ディス サモン イズ ザ フレッシェスト キャッチ フロマ ザ オーシャン バイオーム"
+        }
+      ]
+    }
+  ]
+}

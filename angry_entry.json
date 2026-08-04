@@ -67,5 +67,67 @@
       ],
       "kana": "アイマングリー ウィズ ザ クリーパーズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "angrier",
+      "ipa": "/ˈæŋɡriər/",
+      "examples": [
+        {
+          "en": "This Enderman is angrier than the previous one.",
+          "ja": "このエンドマンは、前のものより怒っています。",
+          "ipa": "/ðɪs ˈɛndərmən ɪz ˈæŋɡriər ðən ðə ˈpriːviəs wʌn/",
+          "linking": [
+            "is angrier → is の末尾 /z/ が angrier の初期母音 /æ/ に連結 [ɪz ˈæŋɡriər] イズ・アングリアー",
+            "than the → than の弱形 /ðən/ と the の弱形 /ðə/ [ðən ðə] ザン・ザ",
+            "the previous → the の弱形 /ðə/ が previous の初期子音 /p/ に先行 [ðə ˈpriːviəs] ザ・プリービアス"
+          ],
+          "kana": "ディス エンダーマン イズ アングリアー ザン ザ プリービアス ワン"
+        },
+        {
+          "en": "The zombie appeared angrier when we broke its spawn block.",
+          "ja": "スポーンブロックを壊すと、ゾンビがより怒った状態で現れました。",
+          "ipa": "/ðə ˈzɑmbi əˈpɪrd ˈæŋɡriər wen wi broʊk ɪts spɔn blɑk/",
+          "linking": [
+            "The zombie → the の弱形 /ðə/ が zombie の初期子音 /z/ に連結 [ðə ˈzɑmbi] ザ・ゾンビ",
+            "appeared angrier → appeared の末尾 /d/ が angrier の初期母音 /æ/ に連結 [əˈpɪrd ˈæŋɡriər] アピアード・アングリアー",
+            "when we → when の末尾 /n/ が we の初期子音 /w/ に先行（子音+子音）[wen wi] ウェン・ウィ"
+          ],
+          "kana": "ザ ゾンビ アピアード アングリアー ウェン ウィ ブロウク イツ スポーン ブロック"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "angriest",
+      "ipa": "/ˈæŋɡriəst/",
+      "examples": [
+        {
+          "en": "The angriest mob in the Nether is the Wither.",
+          "ja": "ネザーで最も怒ったモブはウィザーです。",
+          "ipa": "/ðə ˈæŋɡriəst mɑb ɪn ðə ˈnɛðər ɪz ðə ˈwɪðər/",
+          "linking": [
+            "The angriest → the の弱形 /ðə/ が angriest の初期母音 /æ/ に連結 [ðə ˈæŋɡriəst] ザ・アングリエスト",
+            "mob in → mob の末尾 /b/ が in の初期母音 /ɪ/ に連結 [mɑb ɪn] モブ・イン",
+            "in the → in の末尾 /n/ が the の初期子音 /ð/ に先行（子音+子音）[ɪn ðə] イン・ザ"
+          ],
+          "kana": "ザ アングリエスト モブ イン ザ ネザー イズ ザ ウィザー"
+        },
+        {
+          "en": "We found the angriest Creeper near the village.",
+          "ja": "村の近くで最も怒ったクリーパーを見つけました。",
+          "ipa": "/wi faʊnd ðə ˈæŋɡriəst ˈkripər nɪr ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "found the → found の末尾 /d/ が the の弱形 /ə/ に連結（未開放）[faʊnd ðə] ファウンド・ザ",
+            "the angriest → the の弱形 /ðə/ が angriest の初期母音 /æ/ に連結 [ðə ˈæŋɡriəst] ザ・アングリエスト",
+            "near the → near の末尾 /r/ が the の弱形 /ə/ に連結 [nɪr ðə] ニアー・ザ"
+          ],
+          "kana": "ウィ ファウンド ザ アングリエスト クリーパー ニアー ザ ヴィレッジ"
+        }
+      ]
+    }
   ]
 }

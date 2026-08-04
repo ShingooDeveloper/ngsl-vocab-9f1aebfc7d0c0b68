@@ -20,8 +20,8 @@
       "ipa": "/aɪ ˈhæv ə ˈmaɪnɪŋ ˈklæs ˈɛvri ˈmɔːrnɪŋ/",
       "linking": [
         "have a → have の /v/ が a の弱形 /ə/ に連結 [ˈhæv ə] ハヴ ア",
-        "mining は /ˈmaɪnɪŋ/ で、class に続く [ˈmaɪnɪŋ ˈklæs] マイニング クラス",
-        "every は /ˈɛvri/ で、morning に続く"
+        "mining の末尾 /ŋ/ が class の /k/ に続く（子音+子音で未開放）[ˈmaɪnɪŋ ˈklæs]",
+        "every の末尾 /i/ が morning の /m/ に続く（子音+子音で未開放）[ˈɛvri ˈmɔːrnɪŋ]"
       ],
       "kana": "アイ ハヴ ア マイニング クラス エヴリ モーニング"
     },
@@ -30,9 +30,9 @@
       "ja": "私たちのクラスは毎週異なるバイオームを探検します。",
       "ipa": "/ˈaʊər ˈklæs ɪkˈsplɔːrz ˈdɪfərənt ˈbaɪoʊmz ˈɛvri ˈwiːk/",
       "linking": [
-        "class は /ˈklæs/ で末尾が s。explores に続く [ˈklæs ɪkˈsplɔːrz] クラス イクスプローズ",
-        "different は /ˈdɪfərənt/。biomes に続く。",
-        "every は /ˈɛvri/ で week に続く"
+        "class の末尾 /s/ が explores の /ɪ/ に流れ [ˈklæs ɪkˈsplɔːrz] クラス イクスプローズ",
+        "different の末尾 /t/ が biomes の /b/ に続く（子音+子音で未開放）[ˈdɪfərənt ˈbaɪoʊmz]",
+        "every の末尾 /i/ が week の /w/ に続く（子音+子音で未開放）[ˈɛvri ˈwiːk]"
       ],
       "kana": "アワー クラス イクスプローズ ディフラント バイオームズ エヴリ ウィーク"
     },
@@ -196,8 +196,8 @@
           "ja": "より良い組織のために、私たちはすべてのリソースを採掘ティアで分類しています。",
           "ipa": "/wiː ɑr ˈklæsɪŋ ɔːl ˈrɛsɔːrsɪz baɪ ðɛər ˈhɑːrvəst ˈtɪr fɚ ˈbɛtər ˌɔrɡənɪˈzeɪʃən/",
           "linking": [
-            "are は弱形で /ɑr/。classing に続く [ɑr ˈklæsɪŋ] アー クラッシング",
-            "classing all → classing の末尾 /ŋ/ が all の /ɔ/ に連結 [ˈklæsɪŋ ɔːl] クラッシング オール",
+            "are の末尾 /r/ が classing の /k/ に続く（子音+子音で未開放）[ɑr̚ ˈklæsɪŋ] アー クラッシング",
+            "classing の末尾 /ŋ/ が all の /ɔ/ に続く [ˈklæsɪŋ ɔːl] クラッシング オール",
             "by their → by は /baɪ/、their は /ðɛər/ で harvest に続く"
           ],
           "kana": "ウィ アー クラッシング オール レソーシズ バイ ゼア ハーヴェスト ティア ファー ベター オーガナイゼーション"
@@ -207,11 +207,111 @@
           "ja": "システムは爆発耐性プロパティに基づいてブロックを分類しています。",
           "ipa": "/ðə ˈsɪstəm ɪz ˈklæsɪŋ blɑks ˈbeɪst ɑn ðɛər blæst rɪˈzɪstəns ˈprɑpərtiz/",
           "linking": [
-            "system の末尾 /m/ が is の /ɪ/ に連結 [ˈsɪstəm ɪz] システミズ",
+            "system の末尾 /m/ が is の /ɪ/ に流れ [ˈsɪstəm ɪz] システム イズ",
             "is の末尾 /z/ が classing の /k/ に続く（子音+子音で未開放）[ɪz̚ ˈklæsɪŋ]",
             "classing blocks → classing の末尾 /ŋ/ が blocks の /b/ に続く [ˈklæsɪŋ blɑks]"
           ],
-          "kana": "ザ システミズ クラッシング ブラックス ベイスト オン ゼア ブラスト リジスタンス プラパティズ"
+          "kana": "ザ システム イズ クラッシング ブラックス ベイスト オン ゼア ブラスト リジスタンス プラパティズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is classing",
+      "ipa": "[ɪz ˈklæsɪŋ]",
+      "examples": [
+        {
+          "en": "I am classing all the materials by their crafting recipes right now.",
+          "ja": "私は今すぐ、すべての素材をクラフトレシピで分類しています。",
+          "ipa": "/aɪ əm ˈklæsɪŋ ɔːl ðə məˈtɪriəlz baɪ ðɛər ˈkɹæftɪŋ ˈrɛsɪpiz ɹaɪt ˈnaʊ/",
+          "linking": [
+            "am classing → am の弱形 /əm/ の末尾 /m/ が classing の /k/ に続く（子音+子音で未開放）[əm̚ ˈklæsɪŋ] アム クラッシング",
+            "all the → all の末尾 /l/ が the の弱形 /ð/ に続く（子音+子音で未開放）[ɔːl ðə] オール ザ",
+            "by their → by は /baɪ/、their は /ðɛər/",
+            "right now → right の末尾 /t/ が now の /n/ に続く（子音+子音で未開放）[ɹaɪt̚ ˈnaʊ] ライト ナウ"
+          ],
+          "kana": "アイ アム クラッシング オール ザ マテリアルズ バイ ゼア クラフティング レシピズ ライト ナウ"
+        },
+        {
+          "en": "She is classing the ores by their enchantment potential in the sorting system.",
+          "ja": "彼女は分類システムでエンチャント可能性によって鉱石を分類しています。",
+          "ipa": "/ʃi ɪz ˈklæsɪŋ ðə ˈoʊrz baɪ ðɛər ɪnˈtʃæntmənt pəˈtɛnʃəl ɪn ðə ˈsɔːrtɪŋ ˈsɪstəm/",
+          "linking": [
+            "is classing → is の弱形 /ɪz/ の末尾 /z/ が classing の /k/ に続く（子音+子音で未開放）[ɪz̚ ˈklæsɪŋ] イズ クラッシング",
+            "classing the → classing の末尾 /ŋ/ が the の弱形 /ð/ に続く（子音+子音で未開放）[ˈklæsɪŋ ðə] クラッシング ザ",
+            "by their → by は /baɪ/、their は /ðɛər/",
+            "in the → in の末尾 /n/ が the の弱形 /ð/ に続く（子音+子音で未開放）[ɪn̚ ðə] イン ザ",
+            "sorting system → sorting の末尾 /ŋ/ が system の /s/ に続く（子音+子音で未開放）[ˈsɔːrtɪŋ ˈsɪstəm] ソーティング システム"
+          ],
+          "kana": "シ イズ クラッシング ザ オーズ バイ ゼア インチャントメント ポテンシャル イン ザ ソーティング システム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was classing",
+      "ipa": "[wəz ˈklæsɪŋ]",
+      "examples": [
+        {
+          "en": "I was classing the items when a creeper destroyed my chests.",
+          "ja": "クリーパーが私のチェストを破壊したとき、私はアイテムを分類していました。",
+          "ipa": "/aɪ wəz ˈklæsɪŋ ðə ˈaɪtəmz wɛn ə ˈkɹipər dɪˈstrɔɪd maɪ ˈtʃɛsts/",
+          "linking": [
+            "I was → I の /aɪ/ と was の弱形 /wəz/ が流れ [aɪ wəz] アイ ワズ",
+            "was classing → was の末尾 /z/ が classing の /k/ に続く（子音+子音で未開放）[wəz̚ ˈklæsɪŋ]",
+            "classing the → classing の末尾 /ŋ/ が the の弱形 /ð/ に続く（子音+子音で未開放）[ˈklæsɪŋ ðə]",
+            "when a → when の末尾 /n/ が a の弱形 /ə/ に続く（子音+子音で未開放）[wɛn ə]"
+          ],
+          "kana": "アイ ワズ クラッシング ザ アイテムズ ウェン ア クリーパー ディストロイド マイ チェスツ"
+        },
+        {
+          "en": "They were classing all the tools by their mining level before the update crashed the server.",
+          "ja": "アップデートがサーバーをクラッシュさせる前に、彼らはマイニングレベルで全てのツールを分類していました。",
+          "ipa": "/ðɛi wɚ ˈklæsɪŋ ɔːl ðə ˈtuːlz baɪ ðɛər ˈmaɪnɪŋ ˈlɛvəl bɪˈfɔr ðə əpˈdeɪt kɹæʃt ðə ˈsɜːrvər/",
+          "linking": [
+            "They were → they の末尾 /i/ が were の /w/ に続く（子音+子音で未開放）[ðɛi wɚ]",
+            "were の末尾 /r/ が classing の /k/ に続く（子音+子音で未開放）[wɚ̚ ˈklæsɪŋ]",
+            "classing の末尾 /ŋ/ が all の /ɔ/ に続く [ˈklæsɪŋ ɔːl]",
+            "all の末尾 /l/ が the の弱形 /ð/ に続く（子音+子音で未開放）[ɔːl ðə]"
+          ],
+          "kana": "ゼイ ウェア クラッシング オール ザ トゥールズ バイ ゼア マイニング レヴァル ビフォア ザ アップデイト クラッシュト ザ サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been classing",
+      "ipa": "[həd bɪn ˈklæsɪŋ]",
+      "examples": [
+        {
+          "en": "We had been classing the materials for three hours before we discovered a diamond vein.",
+          "ja": "ダイヤモンド鉱脈を発見する前に、私たちは3時間にわたって素材を分類していました。",
+          "ipa": "/wiː həd bɪn ˈklæsɪŋ ðə məˈtɪriəlz fər ˈθɹi ˈaʊərz bɪˈfɔr wiː dɪˈskʌvərd ə ˈdaɪmənd ˈveɪn/",
+          "linking": [
+            "had been → had の弱形 /həd/ の末尾 /d/ が been の弱形 /bɪ/ に続く（子音+子音で未開放）[həd̚ bɪn] ハド ビン",
+            "been classing → been の末尾 /n/ が classing の /k/ に続く（子音+子音で未開放）[bɪn̚ ˈklæsɪŋ] ビン クラッシング",
+            "the materials → the の弱形 /ðə/ [ðə məˈtɪriəlz] ザ マテリアルズ",
+            "for three → for の弱形 /fər/ [fər ˈθɹi] ファー スリー",
+            "discovered a → discovered の末尾 /d/ が a の弱形 /ə/ に連結 [dɪˈskʌvərd ə] ディスカヴァード ア",
+            "a diamond → a の末尾 /ə/ が diamond の /d/ に続く（子音+子音で未開放）[ə ˈdaɪmənd] ア ダイマンド"
+          ],
+          "kana": "ウィ ハド ビン クラッシング ザ マテリアルズ ファー スリー アワーズ ビフォア ウィ ディスカヴァード ア ダイマンド ヴェイン"
+        },
+        {
+          "en": "The admin had been classing all enchanted items by their power level when the server restarted.",
+          "ja": "サーバーが再起動されたとき、管理者はパワーレベルに基づいてエンチャント済みアイテムをすべて分類していました。",
+          "ipa": "/ðə ˈædmɪn həd bɪn ˈklæsɪŋ ɔːl ɪnˈtʃæntɪd ˈaɪtəmz baɪ ðɛər ˈpaʊər ˈlɛvəl wɛn ðə ˈsɜːrvər rɪˈstɑːrtɪd/",
+          "linking": [
+            "had been → had の弱形 /həd/ の末尾 /d/ が been の弱形 /bɪ/ に続く（子音+子音で未開放）[həd̚ bɪn] ハド ビン",
+            "been classing → been の末尾 /n/ が classing の /k/ に続く（子音+子音で未開放）[bɪn̚ ˈklæsɪŋ] ビン クラッシング",
+            "all enchanted → all の末尾 /l/ が enchanted の /ɪ/ に連結 [ɔːl ɪnˈtʃæntɪd] オール インチャンティド",
+            "by their → by は /baɪ/、their は /ðɛər/",
+            "power level → power の末尾 /r/ が level の /l/ に続く（子音+子音で未開放）[ˈpaʊər̚ ˈlɛvəl] パウア レヴァル"
+          ],
+          "kana": "ザ アドミン ハド ビン クラッシング オール インチャンティド アイテムズ バイ ゼア パウア レヴァル ウェン ザ サーヴァー リスターティド"
         }
       ]
     }

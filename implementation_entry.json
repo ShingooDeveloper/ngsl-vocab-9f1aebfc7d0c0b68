@@ -72,5 +72,37 @@
       ],
       "kana": "ザ サクセスフル インプレメンテイション メント ウィー クッド イクスパンド ザ ベイス ファスター"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "implementations",
+      "ipa": "/ˌɪmpləmenˈteɪʃənz/",
+      "examples": [
+        {
+          "en": "The implementations of different farm designs were tested carefully.",
+          "ja": "異なる農場デザインの実装がテストされました。",
+          "ipa": "/ðə ˌɪmpləmenˈteɪʃənz əv ˈdɪfərənt fɑrm dɪˈzaɪnz wər ˈtɛstəd ˈkɛrfəli/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化",
+            "of は前置詞で弱形 /əv/ に弱化",
+            "were は助動詞で弱形 /wər/ に弱化"
+          ],
+          "kana": "ザ インプレメンテイションズ アヴ ディファレント ファーム ディザインズ ワー テステッド ケアフリー"
+        },
+        {
+          "en": "Multiple implementations of redstone logic existed in the world.",
+          "ja": "ワールド内に複数のレッドストーン論理の実装が存在していました。",
+          "ipa": "/ˈmʌltɪpəl ˌɪmpləmenˈteɪʃənz əv ˈrɛdˌstoʊn ˈlɑdʒɪk ɪgˈzɪstəd ɪn ðə wɝld/",
+          "linking": [
+            "of は前置詞で弱形 /əv/ に弱化",
+            "in は前置詞で弱形 /ɪn/ に弱化",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "マルティプル インプレメンテイションズ アヴ レッドストーン ロジック イグジステッド イン ザ ワールド"
+        }
+      ]
+    }
   ]
 }

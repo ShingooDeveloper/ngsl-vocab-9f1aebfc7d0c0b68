@@ -174,6 +174,108 @@
           "kana": "ディスクライビング ザ コーディネイツ ヘルプズ エブリワン ファイント ザ スパット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is describing",
+      "ipa": "/ɪz dɪˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is describing where the diamonds are hidden in the cave.",
+          "ja": "スティーブは洞窟のどこにダイアモンドが隠れているかを説明しています。",
+          "ipa": "/ˈstiːv ɪz dɪˈskraɪbɪŋ wɛr ðə ˈdaɪəmənz ɑr ˈhɪdən ɪn ðə keɪv/",
+          "linking": [
+            "is は弱形 /ɪz/ で describing に連結 [ɪz dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が where の /w/（子音）に直続、/ŋ/ は未開放 [dɪˈskraɪbɪŋ̚ wɛr]",
+            "the は弱形 /ðə/ で diamonds に連結（子音同士、未開放）[ðə̚ ˈdaɪəmənz]",
+            "are は弱形 /ɑr/ で hidden に連結（子音同士、未開放）[ɑr̚ ˈhɪdən]"
+          ],
+          "kana": "スティーヴ イズ ディスクライビング ウェア ザ ダイアモンズ アー ヒデン イン ザ ケイヴ"
+        },
+        {
+          "en": "They are describing how to build a redstone contraption.",
+          "ja": "彼らはレッドストーン装置の作り方を説明しています。",
+          "ipa": "/ðeɪ ɑr dɪˈskraɪbɪŋ ˈhaʊ tə ˈbɪld ə ˈrɛdstoʊn kənˈtræpʃən/",
+          "linking": [
+            "are は弱形 /ɑr/ で describing に連結（子音同士、未開放）[ɑr̚ dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が how の /h/（子音）に直続、/ŋ/ は未開放 [dɪˈskraɪbɪŋ̚ ˈhaʊ]",
+            "how の末尾子音 /w/ が to に連結（子音同士、未開放）[ˈhaʊ̚ tə]、to は弱形 /tə/",
+            "build の末尾子音 /d/ が a に連結 [bɪldə]、a は弱形 /ə/"
+          ],
+          "kana": "ザイ アー ディスクライビング ハウ タ ビルド ア レッドストーン カントラプション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was describing",
+      "ipa": "/wəz dɪˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "The player was describing the epic battle with the Ender Dragon.",
+          "ja": "そのプレイヤーはエンダードラゴンとの壮大な戦いを説明していました。",
+          "ipa": "/ðə ˈpleɪər wəz dɪˈskraɪbɪŋ ðə ˈɛpɪk ˈbætəl wɪð ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "the は弱形 /ðə/ で player に連結（子音同士、未開放）[ðə̚ ˈpleɪər]",
+            "was は弱形 /wəz/ で describing に連結 [wəz dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が the に連結（子音同士、未開放）[dɪˈskraɪbɪŋ̚ ðə]、the は弱形 /ðə/",
+            "battle の末尾子音 /l/ が with の /w/（子音）に直続、/l/ は未開放 [ˈbætəl̚ wɪð]",
+            "with の末尾子音 /ð/ が the に連結（子音同士、未開放）[wɪð̚ ðə]、the は弱形 /ðə/"
+          ],
+          "kana": "ザ プレイヤー ワズ ディスクライビング ザ エピック バトル ウィッ ザ エンダー ドラゴン"
+        },
+        {
+          "en": "We were describing our mining strategy when the creeper appeared.",
+          "ja": "私たちが採掘戦略を説明していたとき、クリーパーが現れました。",
+          "ipa": "/wi wɚ dɪˈskraɪbɪŋ ˈaʊər ˈmaɪnɪŋ ˈstrætədʒi wɛn ðə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "were は弱形 /wɚ/ で describing に連結（子音同士、未開放）[wɚ̚ dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が our に連結（子音同士、未開放）[dɪˈskraɪbɪŋ̚ ˈaʊər]",
+            "mining の末尾子音 /ŋ/ が strategy に連結（子音同士、未開放）[ˈmaɪnɪŋ̚ ˈstrætədʒi]",
+            "when の末尾子音 /n/ が the に連結（子音同士、未開放）[wɛn̚ ðə]、the は弱形 /ðə/",
+            "creeper の末尾子音 /r/ が appeared に連結 [ˈkriːpərəˈpɪrd]"
+          ],
+          "kana": "ウィ ワー ディスクライビング アワー マイニング ストラタジー ウェン ザ クリーパー アピアド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been describing",
+      "ipa": "/həd bɪn dɪˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "They had been describing the fortress layout for hours before the raid started.",
+          "ja": "襲撃が始まる前に、彼らは何時間も砦のレイアウトを説明していました。",
+          "ipa": "/ðeɪ həd bɪn dɪˈskraɪbɪŋ ðə ˈfɔɹtres ˈleɪaʊt fɔr ˈaʊɚz bɪˈfɔr ðə reɪd ˈstɑɹtəd/",
+          "linking": [
+            "had は弱形 /həd/ で been に連結（子音同士、未開放）[həd̚ bɪn]",
+            "been は弱形 /bɪn/ で describing に連結（子音同士、未開放）[bɪn̚ dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が the に連結（子音同士、未開放）[dɪˈskraɪbɪŋ̚ ðə]、the は弱形 /ðə/",
+            "fortress の末尾 /s/ が layout の /l/（子音）に直続、/s/ は未開放 [ˈfɔɹtres̚ ˈleɪaʊt]",
+            "for は弱形 /fɚ/",
+            "before の末尾子音 /r/ が the に連結（子音同士、未開放）[bɪˈfɔr̚ ðə]、the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド ビン ディスクライビング ザ フォートレス レイアウト ファー アワーズ ビフォア ザ レイド スターティド"
+        },
+        {
+          "en": "Steve had been describing where to find the ancient city when he got attacked.",
+          "ja": "スティーブが古代都市の見つけ方を説明していたとき、彼は攻撃を受けました。",
+          "ipa": "/ˈstiːv həd bɪn dɪˈskraɪbɪŋ wɛr tə ˈfaɪnd ðə eɪnˈʃənt ˈsɪti wɛn hi ɡɑt əˈtækt/",
+          "linking": [
+            "had は弱形 /həd/ で been に連結（子音同士、未開放）[həd̚ bɪn]",
+            "been は弱形 /bɪn/ で describing に連結（子音同士、未開放）[bɪn̚ dɪˈskraɪbɪŋ]",
+            "describing の末尾子音 /ŋ/ が where に連結（子音同士、未開放）[dɪˈskraɪbɪŋ̚ wɛr]",
+            "to は弱形 /tə/ で find に連結 [tə ˈfaɪnd]",
+            "the は弱形 /ðə/ で ancient に連結（子音同士、未開放）[ðə̚ eɪnˈʃənt]",
+            "when の末尾子音 /n/ が he に連結（子音同士、未開放）[wɛn̚ hi]"
+          ],
+          "kana": "スティーヴ ハド ビン ディスクライビング ウェア タ ファイント ザ エイシャント シティ ウェン ヒー ガット アタクト"
+        }
+      ]
     }
   ]
 }

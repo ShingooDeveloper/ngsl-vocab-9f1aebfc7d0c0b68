@@ -86,5 +86,37 @@
       ],
       "kana": "メニ プレイアーズ ノー ザ テイル アヴ ザ ファース エクスプローラー フー リーチト ザ ファー ランズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "tales",
+      "ipa": "/teɪlz/",
+      "examples": [
+        {
+          "en": "Experienced miners share tales about discovering the richest ore deposits underground.",
+          "ja": "経験豊かな鉱夫たちは地下で最も豊富な鉱石鉱脈を発見した物語を共有している。",
+          "ipa": "/ɪkˈspɪriənst ˈmaɪnərz ʃɛr ˈteɪlz əˈbaʊt dɪˈskʌvərɪŋ ðə ˈrɪtʃəst ˈɔr dɪˈpoʊzɪts ˈʌndərˌɡraʊnd/",
+          "linking": [
+            "tales about → tales /teɪlz/ の語末摩擦音 /z/ が about の弱形 /ə/ に連結 [ˈteɪlz əˈbaʊt] テイルズ アバウト",
+            "richest ore → richest /ˈrɪtʃəst/ の語末 /t/ が ore /ɔr/ に先行、/t/ は未開放で続く [ˈrɪtʃəst̚ ˈɔr] リッチェスト オア",
+            "the richest → the は弱形 /ðə/ に弱化 [ðə ˈrɪtʃəst] ザ リッチェスト"
+          ],
+          "kana": "イクスピアリエンスト マイナーズ シェア テイルズ アバウト ディスカヴァリング ザ リッチェスト オア ディポージッツ アンダーグラウンド"
+        },
+        {
+          "en": "Children love hearing tales of legendary players who built gigantic structures overnight.",
+          "ja": "子どもたちは一晩で巨大な構造物を造った伝説的なプレイヤーの物語を聞くのが好きだ。",
+          "ipa": "/ˈtʃɪldrən ˈlʌv ˈhɪrɪŋ ˈteɪlz əv ˈlɛdʒəndɛri ˈpleɪərz hu bɪlt dʒɪˈɡæntɪk ˈstrʌktʃərz ˈoʊvərˌnaɪt/",
+          "linking": [
+            "tales of → tales /teɪlz/ の語末摩擦音 /z/ が of の弱形 /ə/ に連結、of は /əv/ に弱化 [ˈteɪlz əv] テイルズ アヴ",
+            "love hearing → love /lʌv/ の語末 /v/ が hearing /ˈhɪrɪŋ/ の /h/ に先行 [ˈlʌv ˈhɪrɪŋ] ラヴ ヒアリング",
+            "built gigantic → built /bɪlt/ の語末 /t/ が gigantic /dʒɪˈɡæntɪk/ の /dʒ/ に先行、/t/ は未開放で続く [bɪlt̚ dʒɪˈɡæntɪk] ビルト ジガンティック"
+          ],
+          "kana": "チルドレン ラヴ ヒアリング テイルズ アヴ レジェンデリ プレイアーズ フー ビルト ジガンティック ストラクチャーズ オーヴァーナイト"
+        }
+      ]
+    }
   ]
 }

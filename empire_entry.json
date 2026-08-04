@@ -40,6 +40,34 @@
       "kana": "ザ ドラゴンズ エンパイア ワンス ルールド ディス サーヴァー"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "empires",
+      "ipa": "/ˈɛmpaɪrz/",
+      "examples": [
+        {
+          "en": "Three major empires control this server.",
+          "ja": "3つの大帝国がこのサーバーを支配しています。",
+          "ipa": "/θri ˈmeɪdʒər ˈɛmpaɪrz kənˈtroʊl ðɪs ˈsɜrvər/",
+          "linking": [
+            "major empires → r が次の e に連結 [ˈmeɪdʒə ˈɛmpaɪrz] メイジャー エンパイアーズ"
+          ],
+          "kana": "スリー メイジャー エンパイアーズ コントロール ディス サーヴァー"
+        },
+        {
+          "en": "Many empires have risen and fallen.",
+          "ja": "多くの帝国が栄えたり衰えたりしました。",
+          "ipa": "/ˈmɛni ˈɛmpaɪrz hæv ˈrɪzən ænd ˈfɔlən/",
+          "linking": [
+            "risen and → n が次の a に連結 [ˈrɪzən ænd] リズン アン"
+          ],
+          "kana": "メニ エンパイアーズ ハヴ リズン アン フォーレン"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "build an empire",

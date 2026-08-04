@@ -44,5 +44,36 @@
       "kana": "ウィ ダガップ ア ポテイトウ イン ザ ファーム"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "potatoes",
+      "ipa": "/pəˈteɪtoʊz/",
+      "examples": [
+        {
+          "en": "I need potatoes to make a baked potato.",
+          "ja": "焼きいもを作るためにジャガイモが必要です。",
+          "ipa": "[aɪ ˈniːd pəˈteɪtoʊz tə ˈmeɪk ə ˈbeɪkt pəˈteɪtoʊ]",
+          "linking": [
+            "to は弱形 /tə/ に弱化",
+            "a は弱形 /ə/ に弱化"
+          ],
+          "kana": "アイ ニード ポテイトウズ タ メイク ア ベイクト ポテイトウ"
+        },
+        {
+          "en": "Potatoes are essential for survival in Minecraft.",
+          "ja": "マインクラフトでのサバイバルにはジャガイモが必須です。",
+          "ipa": "[pəˈteɪtoʊz ɑɹ ɪˈsɛnʃəl fɔɹ sɚˈvaɪvəl ɪn maɪnˈkræft]",
+          "linking": [
+            "are [ɑɹ] の語末子音 /ɹ/ が essential [ɪˈsɛnʃəl] の /ɪ/ に連結 [ɑɹɪ] → アリセンシャル",
+            "for - 機能語は単独の /fɔɹ/ のまま（consonant before survival）",
+            "in は前置詞の弱形 /ɪn/ 保持"
+          ],
+          "kana": "ポテイトウズ アリセンシャル フォーサーバイバル イン マインクラフト"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

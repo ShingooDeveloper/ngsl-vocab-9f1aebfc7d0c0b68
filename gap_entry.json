@@ -11,6 +11,38 @@
     "【名詞】時間的な間隔・休止・中断（二つの出来事の間の時間。例：between raids）",
     "【名詞】距離・差分・格差（二つのグループ・能力などの違い。例：skill gap）"
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "gaps",
+      "ipa": "/ɡæpz/",
+      "examples": [
+        {
+          "en": "There are several gaps in the wall.",
+          "ja": "壁にいくつかの隙間があります。",
+          "ipa": "/ðɛr ɑr ˈsɛvərəl ɡæpz ɪn ðə wɔl/",
+          "linking": [
+            "are several → are の末尾音 /r/ と several の初頭音 /s/ が続く。子音-子音なのでリンクなし。[ɑr ˈsɛvərəl] アー セヴェラル",
+            "gaps in → gaps の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。[ɡæpzɪn] ギャップズイン",
+            "the wall → the は冠詞で弱形 /ðə/。wall の /w/ に続く。[ðə wɔl] ザ ウォール"
+          ],
+          "kana": "ザー アー セヴェラル ギャップズイン ザ ウォール"
+        },
+        {
+          "en": "We need to fill the gaps in the wall.",
+          "ja": "壁の隙間を埋める必要があります。",
+          "ipa": "/wi ˈniːd tə fɪl ðə ɡæpz ɪn ðə wɔl/",
+          "linking": [
+            "need to → need の末尾子音 /d/ が to の初頭母音 /ə/ に連結。to は機能語で弱形 /tə/。[ˈniːdə] ニーダ",
+            "gaps in → gaps の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。[ɡæpzɪn] ギャップズイン",
+            "the wall → the は冠詞で弱形 /ðə/。wall の /w/ に続く。[ðə wɔl] ザ ウォール"
+          ],
+          "kana": "ウィ ニーダ フィル ザ ギャップズイン ザ ウォール"
+        }
+      ]
+    }
+  ],
   "examples": [
     {
       "en": "I found a gap in the wall and sneaked through it.",

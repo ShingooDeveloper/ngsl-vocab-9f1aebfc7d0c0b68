@@ -43,5 +43,64 @@
       "kana": "ウィー リーズナブリ イクスペクティド ザ マブ スポナー タ アクティベイト"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（副詞）",
+      "text": "more reasonably",
+      "ipa": "/mɔr ˈriːzənəbli/",
+      "examples": [
+        {
+          "en": "You can gather stone much more reasonably from a mountain biome.",
+          "ja": "山バイオームからはより合理的に大量の石を集めることができます。",
+          "ipa": "/juː kən ˈɡæðər stoʊn mʌtʃ mɔr ˈriːzənəbli frɑm ə ˈmaʊntən baɪˈoʊm/",
+          "linking": [
+            "from の末尾子音 /m/ が a の初頭母音 /ə/ に連結 [frɑm ə] フラマ",
+            "a は機能語で弱形 /ə/ に弱化"
+          ],
+          "kana": "ユー クン ギャザー ストーン マッチ モア リーズナブリ フラマ マウンテン バイオーム"
+        },
+        {
+          "en": "Building a base more reasonably uses fewer resources over time.",
+          "ja": "拠点をより合理的に建築することで、時間をかけてリソースの使用が少なくなります。",
+          "ipa": "/ˈbɪldɪŋ ə ˈbeɪs mɔr ˈriːzənəbli ˈjuːzɪz ˈfjuːər ˈrɛsɔrsɪz ˈoʊvər ˈtaɪm/",
+          "linking": [
+            "a は機能語で弱形 /ə/ に弱化",
+            "resources の末尾子音 /z/ が over の初頭母音 /oʊ/ に連結 [ˈrɛsɔrsə zˈoʊvər] レソーシーズ オーヴァー"
+          ],
+          "kana": "ビルディング ア ベイス モア リーズナブリ ユーズィズ フューアー レソーシーズ オーヴァー タイム"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（副詞）",
+      "text": "most reasonably",
+      "ipa": "/moʊst ˈriːzənəbli/",
+      "examples": [
+        {
+          "en": "The most reasonably designed shelter provides excellent protection in storms.",
+          "ja": "最も合理的に設計されたシェルターは嵐時に優れた保護を提供します。",
+          "ipa": "/ðə ˈmoʊst ˈriːzənəbli dɪˈzaɪnd ˈʃɛltər prəˈvaɪdz ɪkˈsɛlənt prəˈtɛkʃən ɪn ˈstɔrmz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "provides の末尾子音 /z/ が excellent の初頭母音 /ɪ/ に連結 [prəˈvaɪdz ɪk-] プロバイドズ イクセレント"
+          ],
+          "kana": "ザ モースト リーズナブリ ディザインド シェルター プロバイドズ イクセレント プロテクション イン ストームズ"
+        },
+        {
+          "en": "This is the most reasonably priced route to the End dimension.",
+          "ja": "これはエンド次元への最も合理的な価格のルートです。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊst ˈriːzənəbli ˈpraɪst ˈruːt tu ðə ˈɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "this の末尾子音 /s/ が is の初頭母音 /ɪ/ に連結 [ðɪ sɪz] ディスィズ",
+            "the は冠詞で弱形 /ðə/ に弱化（複数回出現）",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ディス イズ ザ モースト リーズナブリ プライスト ルート タ ザ エンド ディメンション"
+        }
+      ]
+    }
+  ]
 }

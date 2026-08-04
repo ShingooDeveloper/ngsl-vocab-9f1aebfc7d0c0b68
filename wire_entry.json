@@ -60,5 +60,147 @@
       ],
       "kana": "レッツ ワイアー アップ ザ メカニズム ビフォア テスティング イット"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "wires",
+      "ipa": "/ˈwaɪɚz/",
+      "examples": [
+        {
+          "en": "I need copper wires for my redstone circuit.",
+          "ja": "私のレッドストーン回路には銅線が必要です。",
+          "ipa": "/aɪ niːd ˈkɑpɚ ˈwaɪɚz fɚ maɪ ˈrɛdˌstoʊn ˈsɝkət/",
+          "linking": [
+            "need は /d/ で終わり次の /k/ は子音。連結なし。",
+            "for は機能語で弱形 /fɚ/。"
+          ],
+          "kana": "アイ ニード カパー ワイアーズ ファ マイ レッドストーン サーキット"
+        },
+        {
+          "en": "The wires connect the lever to the piston.",
+          "ja": "その電線がレバーをピストンに接続します。",
+          "ipa": "/ðə ˈwaɪɚz kəˈnɛkt ðə ˈlɛvɚ tə ðə ˈpɪstən/",
+          "linking": [
+            "the は弱形 /ðə/。",
+            "to は機能語で弱形 /tə/。connect 後の the も弱形 /ðə/。"
+          ],
+          "kana": "ザ ワイアーズ コネクト ザ レバー タ ザ ピストン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "wires",
+      "ipa": "/ˈwaɪɚz/",
+      "examples": [
+        {
+          "en": "She wires the redstone lamps to a switch.",
+          "ja": "彼女はレッドストーン ランプをスイッチに配線します。",
+          "ipa": "/ʃi ˈwaɪɚz ðə ˈrɛdˌstoʊn ˈlæmps tə ə ˈswɪtʃ/",
+          "linking": [
+            "the は弱形 /ðə/。",
+            "to は弱形 /tə/、a も弱形 /ə/。"
+          ],
+          "kana": "シー ワイアーズ ザ レッドストーン ランプス タ ア スウィッチ"
+        },
+        {
+          "en": "He wires the door lock to the pressure plate.",
+          "ja": "彼はドアのロックを感圧プレートに配線します。",
+          "ipa": "/hi ˈwaɪɚz ðə ˈdɔr lɑk tə ðə ˈprɛʃɚ pleɪt/",
+          "linking": [
+            "He は短く /hi/。the は弱形 /ðə/。",
+            "to は弱形 /tə/。pressure 前の the も弱形 /ðə/。"
+          ],
+          "kana": "ヒー ワイアーズ ザ ドア ロック タ ザ プレッシャー プレート"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "wired",
+      "ipa": "/ˈwaɪɚd/",
+      "examples": [
+        {
+          "en": "I wired the TNT dispenser to the redstone clock.",
+          "ja": "私はTNT ディスペンサーをレッドストーン クロックに配線しました。",
+          "ipa": "/aɪ ˈwaɪɚd ðə ˌtiɛnˈti dɪˈspɛnsɚ tə ðə ˈrɛdˌstoʊn klɑk/",
+          "linking": [
+            "wired は /d/ で終わる。次の the /ðə/ と子音同士。",
+            "to は弱形 /tə/。redstone 前の the は弱形 /ðə/。"
+          ],
+          "kana": "アイ ワイアード ザ ティーエヌティー ディスペンサー タ ザ レッドストーン クロック"
+        },
+        {
+          "en": "We wired all the lanterns in the castle.",
+          "ja": "私たちは城中の全ランタンを配線しました。",
+          "ipa": "/wi ˈwaɪɚd ɔl ðə ˈlæntɚnz ɪn ðə ˈkæsəl/",
+          "linking": [
+            "We は弱形 /wi/。wired は /d/ で終わり、all /ɔl/ に続く。",
+            "in the → /ɪn ðə/ で弱形連続。castle の /l/ は暗い l。"
+          ],
+          "kana": "ウィー ワイアード オール ザ ランターンズ イン ザ キャッスル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "wired",
+      "ipa": "/ˈwaɪɚd/",
+      "examples": [
+        {
+          "en": "The wired mechanism activated the secret door.",
+          "ja": "配線されたメカニズムが隠しドアを起動しました。",
+          "ipa": "/ðə ˈwaɪɚd ˈmɛkənɪzəm ˈæktɪˌveɪtɪd ðə ˈsikrət ˈdɔr/",
+          "linking": [
+            "the は弱形 /ðə/。mechanism 内の /ə/ は弱形。",
+            "activated は /ˈæktɪˌveɪtɪd/ で末尾 /d/。secret 前の the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ワイアード メカニズム アクティベイティド ザ シークリット ドア"
+        },
+        {
+          "en": "Once the wired circuit is complete, it works perfectly.",
+          "ja": "配線された回路が完成すると、完璧に機能します。",
+          "ipa": "/wʌns ðə ˈwaɪɚd ˈsɝkət ɪz kəmˈplit ɪt wɝks ˈpɝfɪktli/",
+          "linking": [
+            "the は弱形 /ðə/。is は弱形 /ɪz/ または /əz/。",
+            "it は弱形 /ɪt/。complete は /kəmˈplit/。"
+          ],
+          "kana": "ワンス ザ ワイアード サーキット イズ コムプリート イット ワークス パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "wiring",
+      "ipa": "/ˈwaɪrɪŋ/",
+      "examples": [
+        {
+          "en": "Wiring the observer to detect block updates is essential.",
+          "ja": "ブロック更新を検出するオブザーバーを配線することが重要です。",
+          "ipa": "/ˈwaɪrɪŋ ðə əbˈzɝvɚ tə dɪˈtɛkt blɑk ˈʌpˌdeɪts ɪz ɪˈsɛnʃəl/",
+          "linking": [
+            "the は弱形 /ðə/。observer 前の /ə/ は弱形。",
+            "to は弱形 /tə/。is は弱形 /ɪz/ または /əz/。"
+          ],
+          "kana": "ワイアリング ザ オブザーバー タ ディテクト ブロック アップデイツ イズ イセンシャル"
+        },
+        {
+          "en": "They are wiring the entire contraption right now.",
+          "ja": "彼らは今、装置全体を配線しています。",
+          "ipa": "/ðeɪ ɑr ˈwaɪrɪŋ ðə ɪnˈtaɪɚ kənˈtræpʃən ˈraɪt naʊ/",
+          "linking": [
+            "are は弱形 /ɚ/ または /ə/。the は弱形 /ðə/。",
+            "entire は /ɪnˈtaɪɚ/。"
+          ],
+          "kana": "ゼイ アー ワイアリング ザ エンタイアー コントラプション ライト ナウ"
+        }
+      ]
+    }
   ]
 }

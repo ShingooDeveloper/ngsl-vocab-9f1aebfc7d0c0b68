@@ -58,5 +58,71 @@
         "to は弱形 /tə/ タ"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "bloodier",
+      "ipa": "ˈblʌdiər",
+      "examples": [
+        {
+          "en": "That battle is bloodier than the last one.",
+          "ja": "その戦いは前のものより血生臭い。",
+          "ipa": "[ðæt ˈbætəl ɪz ˈblʌdiər ðən ðə ˈlæst wʌn]",
+          "kana": "ザット バットゥル イズ ブラッディアー ザン ザ ラスト ワン",
+          "linking": [
+            "that: 語末子音 /t/ は未開放で詰まる [æt̚] ザット",
+            "battle + is: battle の末尾子音 /l/ が is の開始母音 /ɪ/ に連結: [ˈbætəl ɪz] バットゥル イズ",
+            "than: 弱形 /ðən/ ザン、the も弱形 /ðə/ ザ",
+            "last: 語末子音 /t/ は未開放 [æst̚]"
+          ]
+        },
+        {
+          "en": "Zombie attacks are getting bloodier every night.",
+          "ja": "ゾンビの攻撃は毎晩より血生臭くなっている。",
+          "ipa": "[ˈzɑmbi əˈtæks ɑr ˈɡɛtɪŋ ˈblʌdiər ˈɛvri ˈnaɪt]",
+          "kana": "ザムビー アタックス アー ゲッティング ブラッディアー エヴリ ナイト",
+          "linking": [
+            "zombie + attacks: zombie の末尾母音 /i/ が attacks の開始 /ə/ へスムーズに続く",
+            "are: 弱化して /ər/ になることもある",
+            "getting + bloodier: 語末 /ŋ/ と開始 /b/ で separate だが滑らかに連なる",
+            "every + night: every の末尾 /i/ が night の開始 /n/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "bloodiest",
+      "ipa": "ˈblʌdiɪst",
+      "examples": [
+        {
+          "en": "This is the bloodiest fight we've ever had.",
+          "ja": "これは私たちが今までしたことがある中で最も血生臭い戦闘だ。",
+          "ipa": "[ðɪs ɪz ðə ˈblʌdiɪst ˈfaɪt wɪv ˈɛvər ˈhæd]",
+          "kana": "ディス イズ ザ ブラッディアスト ファイト ウィヴ エヴァー ハッド",
+          "linking": [
+            "This + is: this の末尾子音 /s/ が is の開始母音 /ɪ/ に連結: [ðɪs ɪz] ディス イズ",
+            "is + the: is の末尾子音 /z/ が the の弱形 /ðə/ に連結: [ɪz ðə] イズ ザ",
+            "we've: have の短縮形で /wɪv/ ウィヴ",
+            "ever + had: ever の末尾子音 /r/ が had の開始 /h/ へ連結: [ˈɛvər ˈhæd] エヴァー ハッド"
+          ]
+        },
+        {
+          "en": "The Nether is the bloodiest place in the world.",
+          "ja": "ネザーは世界で最も血生臭い場所である。",
+          "ipa": "[ðə ˈnɛðər ɪz ðə ˈblʌdiɪst ˈpleɪs ɪn ðə ˈwɝld]",
+          "kana": "ザ ネザー イズ ザ ブラッディアスト プレイス イン ザ ワールド",
+          "linking": [
+            "The: 弱形 /ðə/ ザ",
+            "is + the: is の末尾子音 /z/ が the の弱形 /ðə/ に連結: [ɪz ðə] イズ ザ",
+            "place + in: place の末尾子音 /s/ が in の開始母音 /ɪ/ に連結: [pleɪs ɪn] プレイス イン",
+            "in + the: in の末尾子音 /n/ が the の弱形 /ðə/ に連結: [ɪn ðə] イン ザ"
+          ]
+        }
+      ]
+    }
   ]
 }

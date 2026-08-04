@@ -48,6 +48,37 @@
       "kana": "ア カーマトモスフィアイズ インポータント フォーラワー ベイス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "atmospheres",
+      "ipa": "/ˈætməsˌfɪrz/",
+      "examples": [
+        {
+          "en": "Different biomes have different atmospheres.",
+          "ja": "異なるバイオームはそれぞれ異なった雰囲気を持つ。",
+          "ipa": "/ˈdɪfərənt baɪˈoʊmz hæv ˈdɪfərənt ˈætməsˌfɪrz/",
+          "linking": [
+            "biomes have → biomes の語末子音 /z/ が have の弱形 /æv/ に連結 [baɪˈoʊmzæv] バイオームザヴ",
+            "different atmospheres → different の語末子音 /t/ が atmospheres の母音 /æ/ に先立つ [ˈdɪfərən̚t ˈætməsˌfɪrz] ディファレンッ アットモスフィアーズ"
+          ],
+          "kana": "ディファレント バイオームズ ハヴ ディファレント アットモスフィアーズ"
+        },
+        {
+          "en": "The atmospheres in caves feel mysterious and dark.",
+          "ja": "洞窟の雰囲気は神秘的で暗く感じられる。",
+          "ipa": "/ðə ˈætməsˌfɪrz ɪn keɪvz fiːl mɪˈstɪriəs ənd dɑrk/",
+          "linking": [
+            "The → 機能語で弱形 /ðə/",
+            "atmospheres in → atmospheres の語末子音 /z/ が in の母音 /ɪ/ に連結 [ˈætməsˌfɪɹɪn] アットモスフィアイン",
+            "in caves → in の語末子音 /n/ が caves の母音 /eɪ/ に連結 [ɪnˈkeɪvz] インケイブズ"
+          ],
+          "kana": "ザ アットモスフィアズ イン ケイブズ フィール ミステリアス エン ダーク"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "create an atmosphere",

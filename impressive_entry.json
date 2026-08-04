@@ -50,5 +50,59 @@
       ],
       "kana": "アイ ワズ インプレスト バイ ユア レッドストーン スキルズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more impressive",
+      "ipa": "/moɚ ɪmˈprɛsɪv/",
+      "examples": [
+        {
+          "en": "This redstone farm is more impressive than my previous one.",
+          "ja": "このレッドストーン農場は、前のものより素晴らしいです。",
+          "ipa": "/ðɪs ˈrɛdˌstoʊn fɑɚm ɪz moɚ ɪmˈprɛsɪv ðæn maɪ ˈpriːviəs wʌn/",
+          "linking": [
+            "farm は末尾 /m/ が is の初頭母音 /ɪ/ に連結。[ˈfɑɚmɪz] ファーミズ"
+          ],
+          "kana": "ディス レッドストーン ファーミズ モー インプレッシヴ ザン マイ プリービアス ワン"
+        },
+        {
+          "en": "Your build looks more impressive with shaders enabled.",
+          "ja": "シェーダーを有効にすると、あなたのビルドはより素晴らしく見えます。",
+          "ipa": "/jɔɚ bɪld lʊks moɚ ɪmˈprɛsɪv wɪð ˈʃeɪdɚz ɪnˈeɪbəld/",
+          "linking": [
+            "shaders は末尾 /z/ が enabled の初頭母音 /ɪ/ に連結。[ˈʃeɪdɚzɪn] シェイダーズィン"
+          ],
+          "kana": "ユア ビルド ルックス モー インプレッシヴ ウィズ シェイダーズィン エイバルド"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most impressive",
+      "ipa": "/ˈmoʊst ɪmˈprɛsɪv/",
+      "examples": [
+        {
+          "en": "That's the most impressive fortress I've ever seen!",
+          "ja": "それは、私が見たことのある中で最も素晴らしい砦です！",
+          "ipa": "/ðæts ðə ˈmoʊst ɪmˈprɛsɪv ˈfɔɚtɹəs aɪv ˈɛvɚ sɪn/",
+          "linking": [
+            "most の末尾 /t/ が未開放となり、impressive の初頭 /ɪ/ 直前で詰まる。[ˈmoʊs̚ ɪmˈprɛsɪv] モウスッ インプレッシヴ"
+          ],
+          "kana": "ザッツ ザ モウスッ インプレッシヴ フォートレス アイヴ エバー シン"
+        },
+        {
+          "en": "The most impressive part is the automatic sorting system.",
+          "ja": "最も素晴らしい部分は、自動仕分けシステムです。",
+          "ipa": "/ðə ˈmoʊst ɪmˈprɛsɪv pɑɚt ɪz ðə ˌɔtəˈmætɪk ˈsɔɚtɪŋ ˈsɪstəm/",
+          "linking": [
+            "part は末尾 /t/ が is の初頭母音 /ɪ/ に連結。[ˈpɑɚtɪz] パーティズ"
+          ],
+          "kana": "ザ モウスト インプレッシヴ パーティズ ジ オータマティック ソーティング システム"
+        }
+      ]
+    }
   ]
 }

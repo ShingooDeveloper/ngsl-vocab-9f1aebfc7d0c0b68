@@ -12,6 +12,36 @@
     "【名詞】（比喩的に）社会や精神の不調、弊害",
     "【名詞】（医学的に）特定の病気や症状を示す疾病"
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "illnesses",
+      "ipa": "/ˈɪlnəsəz/",
+      "examples": [
+        {
+          "en": "Multiple illnesses affect every mob in caves.",
+          "ja": "複数の病気がすべてのモブに洞窟内で影響を与える。",
+          "ipa": "/ˈmʌltɪpəl ˈɪlnəsəz əˈfɛɾɛvəri mɑb ɪn keɪvz/",
+          "linking": [
+            "illnesses の末尾子音 /z/ が affect の初頭母音 /ə/ に連結。結果は [ˈɪlnəsəzəˈfɛkt] イルネシーザフェクト",
+            "affect の末尾子音 /t/ が every の初頭母音 /ɛ/ に連結。t はフラップ化して [ɾ]。結果は [əˈfɛɾɛvəri] アフェレブリ"
+          ],
+          "kana": "マルティプル イルネシーズ アフェレブリ モブ イン ケイブズ"
+        },
+        {
+          "en": "You can avoid illnesses by staying away from infected mobs.",
+          "ja": "感染したモブから離れることで、病気を避けることができます。",
+          "ipa": "/ju kən əˈvɔɪɾɪlnəsəz baɪ ˈsteɪɪŋəˈweɪ frəm ɪnˈfɛktəd mɑbz/",
+          "linking": [
+            "avoid の末尾子音 /d/ が illnesses の初頭母音 /ɪ/ に連結。d はフラップ化して [ɾ]。結果は [əˈvɔɪɾɪlnəsəz] アボイリルネシーズ",
+            "staying の末尾子音 /ŋ/ が away の初頭母音 /ə/ に連結。結果は [ˈsteɪɪŋəˈweɪ] ステイイングアウェイ"
+          ],
+          "kana": "ユー キャン アボイリルネシーズ バイ ステイイングアウェイ フラム インフェクテッド モブズ"
+        }
+      ]
+    }
+  ],
   "examples": [
     {
       "en": "My character caught an illness from a poisonous spider.",

@@ -42,6 +42,33 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "tendencies",
+      "ipa": "ˈtɛndənsiz",
+      "examples": [
+        {
+          "en": "Spiders have aggressive tendencies around players.",
+          "ipa": "/ˈspaɪdərz hæv əˈɡrɛsɪv ˈtɛndənsiz əˈraʊnd ˈpleɪərz/",
+          "kana": "スパイダーズ ハヴ アグレッシブ テンデンシーズ アラウンド プレイアーズ",
+          "linking": [
+            "have の /v/ が aggressive の /ə/ に連結 [hæˈvəɡrɛsɪv]",
+            "tendencies の /z/ が around の /ə/ に連結 [ˈtɛndənsɪzəˈraʊnd]"
+          ]
+        },
+        {
+          "en": "Mobs in caves display different tendencies.",
+          "ipa": "/moʊbz ɪn keɪvz dɪˈspleɪ ˈdɪfəɹənt ˈtɛndənsiz/",
+          "kana": "モウブズ イン ケイヴズ ディスプレイ ディファレント テンデンシーズ",
+          "linking": [
+            "mobs の /z/ が in の /ɪ/ に連結 [moʊbzɪn]"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "have a tendency to",

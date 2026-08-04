@@ -179,6 +179,90 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is ruling",
+      "ipa": "/ɪz ˈruːlɪŋ/",
+      "examples": [
+        {
+          "en": "The server admin is ruling this realm wisely.",
+          "ja": "サーバー管理者はこのレルムを賢く統治しています。",
+          "ipa": "/ðə ˈsɝvɚ ˈædmɪn ɪz ˈruːlɪŋ ðɪs rɛlm ˈwaɪzli/",
+          "kana": "ザ サーヴァー アドミン イズ ルーリング ディス レルム ワイズリー",
+          "linking": [
+            "The server: the は弱形 /ðə/、server に連結 [ðəˈsɝvɚ] ザサーヴァー",
+            "admin is: admin の語末 /n/ が is の初頭 /ɪ/ に連結。is は助動詞で弱形 /ɪz/"
+          ]
+        },
+        {
+          "en": "We are ruling our faction with peace and order.",
+          "ja": "私たちは平和と秩序を持ってフェクションを統治しています。",
+          "ipa": "/wi ɑr ˈruːlɪŋ ˈaʊɚ ˈfækʃən wɪð pis ænd ˈɔrdɚ/",
+          "kana": "ウィ アー ルーリング アワー ファクション ウィズ ピース アンド オーダー",
+          "linking": [
+            "are ruling: are は弱形 /ɚ/（または /ər/）で ruling に連結 [ɑɚˈruːlɪŋ] アー ルーリング",
+            "our は弱形 /ɚ/ に弱化。faction に先行 [ˈaʊɚ ˈfækʃən] アワー ファクション"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was ruling",
+      "ipa": "/wəz ˈruːlɪŋ/",
+      "examples": [
+        {
+          "en": "He was ruling the ancient kingdom when the great war started.",
+          "ja": "彼は大戦が始まったときに古い王国を統治していました。",
+          "ipa": "/hi wəz ˈruːlɪŋ ði ˈeɪnʃənt ˈkɪŋdəm wɛn ðə ɡreɪt wɔr ˈstɑrtəd/",
+          "kana": "ヒー ワズ ルーリング ディ エイシャント キングダム ウェン ザ グレイト ウォー スターテッド",
+          "linking": [
+            "was ruling: was は弱形 /wəz/、ruling に先行 [wəzˈruːlɪŋ] ワズ ルーリング",
+            "the ancient: the は弱形 /ðə/ → /ðɪ/（母音の前で /ðɪ/ に近い）、ancient に連結"
+          ]
+        },
+        {
+          "en": "The faction leaders were ruling together for many years.",
+          "ja": "フェクション指導者たちは何年も一緒に統治していました。",
+          "ipa": "/ðə ˈfækʃən ˈlidɚz wɝ ˈruːlɪŋ təˈɡɛðɚ fɚ ˈmɛni jɪrz/",
+          "kana": "ザ ファクション リーダーズ ワー ルーリング トゥゲザー ファー メニー イアーズ",
+          "linking": [
+            "The faction: the は弱形 /ðə/、faction に連結 [ðəˈfækʃən] ザ ファクション",
+            "were ruling: were は弱形 /wɚ/、ruling に先行 [wɚˈruːlɪŋ] ワー ルーリング"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been ruling",
+      "ipa": "/həd bɪn ˈruːlɪŋ/",
+      "examples": [
+        {
+          "en": "She had been ruling the tower fortress since the server reset.",
+          "ja": "彼女はサーバーリセット以来、タワー砦を統治していました。",
+          "ipa": "/ʃi həd bɪn ˈruːlɪŋ ðə ˈtaʊɚ ˈfɔrts sɪns ðə ˈsɝvɚ ˈrɛsɛt/",
+          "kana": "シー ハド ビン ルーリング ザ タワー フォートレス シンス ザ サーヴァー リセット",
+          "linking": [
+            "had been: had は弱形 /həd/、been は弱形 /bɪn/ で連続 [həd bɪn] ハド ビン",
+            "the tower: the は弱形 /ðə/、tower に連結 [ðəˈtaʊɚ] ザ タワー"
+          ]
+        },
+        {
+          "en": "They had been ruling that region until a new council was formed.",
+          "ja": "彼らは新しい評議会が形成されるまで、その地域を統治していました。",
+          "ipa": "/ðeɪ həd bɪn ˈruːlɪŋ ðæt ˈridʒən ənˈtɪl ə ˈnu ˈkaʊnsəl wəz ˈfɔrmd/",
+          "kana": "ゼイ ハド ビン ルーリング ザット リージョン アンティル ア ニュー カウンスル ワズ フォームド",
+          "linking": [
+            "had been: had は弱形 /həd/、been は弱形 /bɪn/ で連続。ただし had+been では usually linked [həd bɪn]",
+            "until は弱形 /ənˈtɪl/、a /ə/ は弱形で council に先行 [ənˈtɪl ə ˈkaʊnsəl] アンティル ア カウンスル"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

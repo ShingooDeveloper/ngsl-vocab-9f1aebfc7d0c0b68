@@ -1,0 +1,172 @@
+{
+  "word": "confirm",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/kənˈfɜːrm/",
+  "rank": 3456,
+  "level": "B1",
+  "hi": "confirm|confirms|confirmed|confirming",
+  "meanings": [
+    "【動詞】（事実や情報を）確認する、確かめる（establish the truth or correctness of something）",
+    "【動詞】（計画・予定などを）確定する、認める（formally agree to or accept something）",
+    "【動詞】（疑いを）払拭する、確証する（remove doubt about something）"
+  ],
+  "examples": [
+    {
+      "en": "I need to confirm the coordinates of the village before setting up a base.",
+      "ja": "拠点を設置する前に、その村の座標を確認する必要があります。",
+      "ipa": "/aɪ ˈnid tə kənˈfɜːrm ðə ˈkoʊˌɔrdənɪts əv ðə ˈvɪlɪdʒ bɪˈfɔr ˈsɛtɪŋ ˈʌp ə ˈbeɪs/",
+      "linking": [
+        "to confirm → to は弱形 /tə/、confirm の初頭 /k/ に後続（consonant+consonant、連結なし）",
+        "the village → the は弱形 /ðə/、village の /v/ に後続（consonant+consonant、連結なし）",
+        "of the → /v/ + /ð/ (consonant+consonant、連結なし)、of は弱形 /əv/"
+      ],
+      "kana": "アイ ニード タ コンファーム ザ コーディネッツ オヴ ザ ビレッジ ビフォー セッティング アップ ア ベイス"
+    },
+    {
+      "en": "Can you confirm that you've collected all the required materials?",
+      "ja": "必要な材料をすべて集めたことを確認してくれませんか？",
+      "ipa": "/kæn ju kənˈfɜːrm ðæt juːv kəˈlɛktəd ɔl ðə rɪˈkwaɪrd məˈtɪriəlz/",
+      "linking": [
+        "confirm that → 語末 /m/ + /ð/ (consonant+consonant、連結なし)",
+        "that you've → /t/ + /j/ (consonant+consonant、連結なし)、you've は /juːv/"
+      ],
+      "kana": "キャン ユー コンファーム ザット ユーヴ コレクティド オール ザ リクワイアード マテリアルズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "confirm receipt",
+      "ja": "受取を確認する、確認応答する",
+      "example": "Please confirm receipt of your spawn point assignment.",
+      "example_ja": "スポーン ポイント割り当てを受け取ったことを確認してください。",
+      "ipa": "/pliːz kənˈfɜːrm rɪˈsit əv jɚ ˈspoʊn pɔɪnt əˈsaɪnmənt/",
+      "linking": [
+        "confirm receipt → 語末 /m/ + /r/ (consonant+consonant、連結なし)",
+        "of your → /v/ + /j/ (consonant+consonant、連結なし)、of は弱形 /əv/"
+      ],
+      "kana": "プリーズ コンファーム リシート オヴ ヤー スポーン ポイント アサインメント"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "confirms",
+      "ipa": "/kənˈfɜːrmz/",
+      "examples": [
+        {
+          "en": "He confirms the location of each ore deposit on the map.",
+          "ja": "彼はマップ上の各鉱石堆積物の場所を確認します。",
+          "ipa": "/hi kənˈfɜːrmz ðə loʊˈkeɪʃən əv itʃ ɔr dɪˈpɑzɪt ɑn ðə ˈmæp/",
+          "linking": [
+            "confirms the → 語末 /z/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）[kənˈfɜːrmz ðə] コンファームズ ザ",
+            "of each → /v/ + /i/ に連結（consonant+vowel）[əv itʃ] オヴ イーチ",
+            "on the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/ [ɑn ðə] オン ザ"
+          ],
+          "kana": "ヒー コンファームズ ザ ロケーション オヴ イーチ オア ディパジット オン ザ マップ"
+        },
+        {
+          "en": "The server administrator confirms all new player applications before granting access.",
+          "ja": "サーバー管理者はアクセス権を付与する前に、新しいプレイヤーのすべての申請を確認します。",
+          "ipa": "/ðə ˈsɜːrvər ˌædmɪnɪsˈtreɪtər kənˈfɜːrmz ɔl ˈnuː ˈpleɪər ˌæplɪˈkeɪʃənz bɪˈfɔr ˈɡrɑntɪŋ ˈæksɛs/",
+          "linking": [
+            "confirms all → 語末 /z/ が all の初頭 /ɔ/ に連結（consonant+vowel）[kənˈfɜːrmz ɔl] コンファームズ オール",
+            "before granting → 語末 /r/ が granting の初頭 /ɡ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザ サーバー アドミニストレイター コンファームズ オール ニュー プレイヤー アプリケーションズ ビフォー グランティング アクセス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "confirmed",
+      "ipa": "/kənˈfɜːrmd/",
+      "examples": [
+        {
+          "en": "I confirmed that diamonds were present at Y-level 11.",
+          "ja": "Y軸レベル11にダイヤモンドが存在することを確認しました。",
+          "ipa": "/aɪ kənˈfɜːrmd ðæt ˈdaɪməndz wər ˈprɛzənt æt ˈwaɪ ˈlɛvəl ɪˈlɛvən/",
+          "linking": [
+            "confirmed that → 語末 /d/ が that の初頭 /ð/ に後続（consonant+consonant、連結なし）[kənˈfɜːrmd ðæt] コンファームド ザット",
+            "were present → 語末 /r/ が present の初頭 /p/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ コンファームド ザット ダイアマンズ ワー プレゼント アット ワイ レベル イレヴン"
+        },
+        {
+          "en": "We confirmed the safety of the shelter before the storm approached.",
+          "ja": "嵐が近づく前に、シェルターの安全性を確認しました。",
+          "ipa": "/wi kənˈfɜːrmd ðə ˈseɪfti əv ðə ˈʃɛltər bɪˈfɔr ðə ˈstɔrm əˈproʊtʃt/",
+          "linking": [
+            "confirmed the → 語末 /d/ が the の初頭 /ð/ に後続（consonant+consonant、連結なし）[kənˈfɜːrmd ðə] コンファームド ザ",
+            "of the → /v/ + /ð/ (consonant+consonant、連結なし)、of は弱形 /əv/",
+            "before the → 語末 /r/ が the の初頭 /ð/ に連結（consonant+consonant、連結なし）、the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォー ザ"
+          ],
+          "kana": "ウィ コンファームド ザ セイフティ オヴ ザ シェルター ビフォー ザ ストーム アプローチト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "confirmed",
+      "ipa": "/kənˈfɜːrmd/",
+      "examples": [
+        {
+          "en": "Once confirmed, the player's status was set to 'verified' on the server roster.",
+          "ja": "確認されると、プレイヤーのステータスはサーバー名簿で「確認済み」に設定されました。",
+          "ipa": "/ˈwʌns kənˈfɜːrmd | ðə ˈpleɪərz ˈsteɪtəs wəz sɛt tə ˈvɛrɪfaɪd ɑn ðə ˈsɜːrvər ˈrɑstər/",
+          "linking": [
+            "Once confirmed → /s/ が /k/ に後続（consonant+consonant、連結なし）",
+            "the player's → the は弱形 /ðə/、player の /p/ に後続（consonant+consonant、連結なし）",
+            "was set → /z/ + /s/ (consonant+consonant、連結なし)、was は弱形 /wəz/",
+            "on the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/ [ɑn ðə] オン ザ"
+          ],
+          "kana": "ワンス コンファームド、ザ プレイヤーズ ステイタス ワズ セット トゥ ベリファイド オン ザ サーバー ロスター"
+        },
+        {
+          "en": "The confirmed biome data helped us plan the best exploration route.",
+          "ja": "確認されたバイオームデータは、最適な探検ルートを計画するのに役立ちました。",
+          "ipa": "/ðə kənˈfɜːrmd ˈbaɪoʊm ˈdeɪtə ˈhɛlpt əs ˈplæn ðə ˈbɛst ɪkˌsploʊˈreɪʃən ˈrut/",
+          "linking": [
+            "The confirmed → the は弱形 /ðə/、confirmed の /k/ に後続（consonant+consonant、連結なし）",
+            "confirmed biome → 語末 /d/ + /b/ (consonant+consonant、連結なし)",
+            "helped us → 語末 /d/ が us の初頭 /ə/ に連結（consonant+vowel）[ˈhɛlpt əs] ヘルプト アズ"
+          ],
+          "kana": "ザ コンファームド バイオーム デイタ ヘルプト アズ プラン ザ ベスト エクスプロレーション ルート"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "confirming",
+      "ipa": "/kənˈfɜːrmɪŋ/",
+      "examples": [
+        {
+          "en": "Confirming each player's identity helps prevent griefing and unauthorized access.",
+          "ja": "各プレイヤーのアイデンティティを確認することは、グリーフと不正アクセスを防ぐのに役立ちます。",
+          "ipa": "/kənˈfɜːrmɪŋ itʃ ˈpleɪərz aɪˈdɛntəti ˈhɛlps prɪˈvɛnt ˈɡrifɪŋ ən ˌʌnɔθəˈraɪzd ˈæksɛs/",
+          "linking": [
+            "Confirming each → 語末 /ŋ/ + /i/ (consonant+consonant、連結なし)。each は /itʃ/",
+            "player's identity → 語末 /z/ が identity の初頭 /aɪ/ に連結（consonant+vowel）[ˈpleɪərz aɪˈdɛntəti] プレイヤーズ アイデンティティ",
+            "helps prevent → 語末 /s/ + /p/ (consonant+consonant、連結なし)",
+            "and unauthorized → 語末 /n/ + /ə/ に連結（consonant+vowel）、and は弱形 /ən/ [ən ˌʌnɔθəˈraɪzd] アン アナーソライズド"
+          ],
+          "kana": "コンファーミング イーチ プレイヤーズ アイデンティティ ヘルプス プリベント グリーフィング アン アナーソライズド アクセス"
+        },
+        {
+          "en": "While confirming the map boundaries, the team discovered a hidden ravine system.",
+          "ja": "マップの境界を確認している間に、チームは隠れた峡谷システムを発見しました。",
+          "ipa": "/waɪl kənˈfɜːrmɪŋ ðə ˈmæp ˈbaʊndəriz | ðə ˈtim dɪˈskʌvərd ə ˈhɪdən ˈrævˌaɪn ˈsɪstəm/",
+          "linking": [
+            "confirming the → 語末 /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/ [kənˈfɜːrmɪŋ ðə] コンファーミング ザ",
+            "discovered a → 語末 /d/ が a の初頭 /ə/ に連結（consonant+vowel）[dɪˈskʌvərd ə] ディスカバード ア"
+          ],
+          "kana": "ワイル コンファーミング ザ マップ バウンダリーズ、ザ ティーム ディスカバード ア ヒドン ラヴァイン システム"
+        }
+      ]
+    }
+  ]
+}

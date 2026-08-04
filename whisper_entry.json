@@ -59,5 +59,149 @@
       ],
       "kana": "アイ ウィスパード ザ ヒドン ケイヴ ロケーション タ マイ コープレイヤー ビフォー ロギング オフ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "whispers",
+      "ipa": "/ˈwɪspərz/",
+      "examples": [
+        {
+          "en": "She whispers a secret plan to sneak into the castle.",
+          "ja": "彼女は城に忍び込む秘密の計画をささやく。",
+          "ipa": "[ʃi ˈwɪspərz ə ˈsikrət plæn tə snik ˈɪntu ðə ˈkæsəl]",
+          "linking": [
+            "whispers a → 語末 /z/ が母音 /ə/ に連結 [ˈwɪspərz ə] ウィスパーザ",
+            "to → 機能語は弱形 /tə/ に弱化",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "シー ウィスパーザ シークレット プラン タ スニーク イント ザ キャッスル"
+        },
+        {
+          "en": "He whispers every important coordinate during the raid.",
+          "ja": "彼は襲撃中にすべての重要な座標をささやく。",
+          "ipa": "[hi ˈwɪspərz ˈɛvri ɪmˈpɔrtənt ˌkoʊˈɔrdɪneɪt ˈdʊrɪŋ ðə reɪd]",
+          "linking": [
+            "whispers every → 語末 /z/ が母音 /ɛ/ に連結し、流暢に [ˈwɪspərz ˈɛvri] ウィスパーゼブリ",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ヒー ウィスパーゼブリ インポータント コーディネット ドゥーリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "whispered",
+      "ipa": "/ˈwɪspərd/",
+      "examples": [
+        {
+          "en": "She whispered a strategy to avoid the lava lake.",
+          "ja": "彼女はラバレイクを避けるための戦略をささやいた。",
+          "ipa": "[ʃi ˈwɪspərd ə strəˈtidʒi tu əˈvɔɪd ðə ˈlɑvə leɪk]",
+          "linking": [
+            "whispered a → 語末 /d/ が母音 /ə/ に連結 [ˈwɪspərd ə] ウィスパード ア",
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "to → 機能語は弱形 /tu/ または /tə/"
+          ],
+          "kana": "シー ウィスパード ア ストラテジー トゥ アボイド ザ ラーヴァ レイク"
+        },
+        {
+          "en": "They whispered about the dragon's location before entering the end.",
+          "ja": "彼らはエンドに入る前に、ドラゴンの場所について小声で話した。",
+          "ipa": "[ðeɪ ˈwɪspərd əˈbaʊt ðə ˈdræɡənz ˌloʊˈkeɪʃən bɪˈfɔr ˈɛntərɪŋ ðɪ ɛnd]",
+          "linking": [
+            "whispered about → 語末 /d/ が母音 /ə/ に連結 [ˈwɪspərd əˈbaʊt]",
+            "the → 機能語は弱形 /ðə/、/ðɪ/ に弱化"
+          ],
+          "kana": "ゼイ ウィスパード アバウト ザ ドラゴンズ ロケーション ビフォー エンタリング ディ エンド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "whispered",
+      "ipa": "/ˈwɪspərd/",
+      "examples": [
+        {
+          "en": "Having whispered the password, we entered the secret base.",
+          "ja": "パスワードをささやいた後、私たちは秘密の基地に入った。",
+          "ipa": "[ˈhævɪŋ ˈwɪspərd ðə ˈpæswɜrd wi ˈɛntərd ðə ˈsikrət beɪs]",
+          "linking": [
+            "having whispered → /ŋ/ が /w/ の前で流暢に [ˈhævɪŋ ˈwɪspərd]",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ハーヴィング ウィスパード ザ パスワード ウィー エンタード ザ シークレット ベース"
+        },
+        {
+          "en": "Once whispered, the treasure coordinates spread through the entire team.",
+          "ja": "一度ささやかれると、宝物の座標がチーム全体に広がった。",
+          "ipa": "[wʌns ˈwɪspərd ðə ˈtrɛʒər ˌkoʊˈɔrdɪneɪts sprɛd θru ðɪ ɪnˈtaɪɚ tim]",
+          "linking": [
+            "once whispered → /s/ が /w/ の前で流暢に [wʌns ˈwɪspərd]",
+            "through the → /u/ と /ð/ が滑らかに [θru ðɪ]"
+          ],
+          "kana": "ワンス ウィスパード ザ トレジャー コーディネイツ スプレッド スルー ジ イナイア ティーム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "whispering",
+      "ipa": "/ˈwɪspərɪŋ/",
+      "examples": [
+        {
+          "en": "We're whispering the escape route to avoid the mob guard.",
+          "ja": "モブガードを避けるために、逃げるルートをささやいている。",
+          "ipa": "[wɪr ˈwɪspərɪŋ ðə ɪˈskeɪp rut tu əˈvɔɪd ðə moʊb ɡɑrd]",
+          "linking": [
+            "We're whispering → /r/ が /w/ の前で流暢に [wɪr ˈwɪspərɪŋ]",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィアー ウィスパリング ザ イスケイプ ルート トゥ アボイド ザ モウブ ガード"
+        },
+        {
+          "en": "Is anyone whispering about where the hidden base is located?",
+          "ja": "誰かが隠れたベースがどこにあるかについてささやいていますか？",
+          "ipa": "[ɪz ˈɛniˌwən ˈwɪspərɪŋ əˈbaʊt wɛr ðə ˈhɪdən beɪs ɪz ˈloʊkeɪtɪd]",
+          "linking": [
+            "anyone whispering → /n/ が /w/ に連結し流暢に [ˈɛniˌwən ˈwɪspərɪŋ]",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "イズ エニワン ウィスパリング アバウト ウェア ザ ヒドン ベース イズ ロケイティド"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "whispers",
+      "ipa": "/ˈwɪspərz/",
+      "examples": [
+        {
+          "en": "The whispers of a secret cave excited the whole team.",
+          "ja": "秘密の洞窟についてのささやきがチーム全体を興奮させた。",
+          "ipa": "[ðə ˈwɪspərz əv ə ˈsikrət keɪv ɪkˈsaɪtɪd ðə hoʊl tim]",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "whispers of → 語末 /z/ が母音 /ə/ に連結し [ˈwɪspərz əv]"
+          ],
+          "kana": "ザ ウィスパーザヴ ア シークレット キェイヴ イクサイティド ザ ホール ティーム"
+        },
+        {
+          "en": "Whispers about diamond locations spread quickly through the server.",
+          "ja": "ダイヤモンドの場所についてのささやきがサーバー全体に速く広がった。",
+          "ipa": "[ˈwɪspərz əˈbaʊt ˈdaɪmənd ˌloʊˈkeɪʃənz sprɛd ˈkwɪkli θru ðə ˈsɝvər]",
+          "linking": [
+            "Whispers about → 語末 /z/ が母音 /ə/ に連結 [ˈwɪspərz əˈbaʊt]",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィスパーザバウト ダイモンド ロケーションズ スプレッド クイックリー スルー ザ サーヴァー"
+        }
+      ]
+    }
   ]
 }

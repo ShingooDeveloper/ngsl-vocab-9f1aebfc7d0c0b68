@@ -42,6 +42,36 @@
       "kana": "アイ ニード タ メイカン アナウンスメント タ オール プレイヤーズ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "announcements",
+      "ipa": "/əˈnaʊnsmənts/",
+      "examples": [
+        {
+          "en": "The server admin posted announcements about the maintenance today.",
+          "ja": "サーバー管理者は今日のメンテナンスについてのお知らせを投稿しました。",
+          "ipa": "/ðə ˈsɝvɚ ˈædmɪn ˈpoʊstɪd əˈnaʊnsmənts əˈbaʊt̚ ðə ˈmeɪntənəns təˈdeɪ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。",
+            "about の末尾子音 /t/ が未開放で次へ続く [əˈbaʊt̚ ðə] アバウッ ザ"
+          ],
+          "kana": "ザ サーヴァー アドミン ポースティド アナウンスメンツ アバウッ ザ メインテナンス トゥデイ"
+        },
+        {
+          "en": "Players read all the announcements before starting the game.",
+          "ja": "プレイヤーはゲームを始める前にすべてのお知らせを読みました。",
+          "ipa": "/ˈpleɪɚz rɛd ɔl ðə əˈnaʊnsmənts bɪˈfɔr ˈstɑrtɪŋ ðə ɡeɪm/",
+          "linking": [
+            "read の末尾子音 /d/ が all の初頭母音 /ɔ/ に連結 [rɛd ɔl] レッド オール",
+            "all の末尾子音 /l/ が the の初頭母音 /ð/ に連結 [ɔl ðə] オルザ"
+          ],
+          "kana": "プレイヤーズ レッド オルザ アナウンスメンツ ビフォア スターティング ザ ゲイム"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "make an announcement",

@@ -80,5 +80,35 @@
       ],
       "kana": "アイ ケイム イントゥ ポゼッション アヴ エイシェント ディブリス イン ザ ディープ ネザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "possessions",
+      "ipa": "/pəˈzɛʃənz/",
+      "examples": [
+        {
+          "en": "My possessions are hidden in the enderchest.",
+          "ja": "私の所有物はエンダーチェストに隠してあります。",
+          "ipa": "[maɪ pəˈzɛʃənz ɑɹ ˈhɪdən ɪn ðə ˈɛndɚtʃɛst]",
+          "linking": [
+            "possessions の末尾子音 /z/ が are の初頭母音 /ɑ/ に連結。[pəˈzɛʃənz ɑɹ]",
+            "in の末尾子音 /n/ が the の初頭母音 /ə/ に連結。the は弱形 /ðə/。[ɪn ðə]"
+          ],
+          "kana": "マイ ポゼッションズ アー ヒドン イン ザ エンダーチェスト"
+        },
+        {
+          "en": "Creepers destroyed all of my valuable possessions.",
+          "ja": "クリーパーが私の全ての貴重な所有物を破壊しました。",
+          "ipa": "[ˈkɹiːpɚz dɪˈstɹɔɪd ɔl əv maɪ ˈvæljuəbəl pəˈzɛʃənz]",
+          "linking": [
+            "all の末尾子音 /l/ が of の初頭母音 /ə/ に連結。of は弱形 /əv/。[ɔl əv]",
+            "destroyed all → 子音+子音。特に連結なし。"
+          ],
+          "kana": "クリーパーズ ディストロイド オール アヴ マイ ヴァリュアブル ポゼッションズ"
+        }
+      ]
+    }
   ]
 }

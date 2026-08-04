@@ -46,5 +46,37 @@
       "kana": "ア グッド ヒストーリアン リコーズ ナット ジャスト アワー ビルズ バット ザ ストーリーズ ビハインド ゼム"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "historians",
+      "ipa": "/hɪˈstɔːɹiənz/",
+      "examples": [
+        {
+          "en": "The historians explored the ancient temple in the Minecraft world.",
+          "ja": "歴史家たちはマインクラフトの世界にある古代の寺院を探索しました。",
+          "ipa": "/ðə ˌhɪˈstɔːɹiənz ɪkˈsploːɹd ðə ˈeɪnʃənt ˈtɛmpəl ɪn ðə ˈmaɪnkræft ˈwɝːld/",
+          "linking": [
+            "the の弱形 /ðə/",
+            "historians の /z/ が explored の /ɪ/ に連結",
+            "temple の /l/ が in の /ɪ/ に連結"
+          ],
+          "kana": "ザ ヒストーリアンズ イクスプロード ザ エインシェント テンプル イン ザ マインクラフト ワールド"
+        },
+        {
+          "en": "These historians studied the ruins that players had built over years.",
+          "ja": "これらの歴史家たちは、プレイヤーたちが何年にもわたって建てた遺跡を研究しました。",
+          "ipa": "/ðiːz ˌhɪˈstɔːɹiənz ˈstʌdid ðə ˈɹuːɪnz ðæt ˈpleɪərz hæd bɪlt ˈoʊvər ˈjɪrz/",
+          "linking": [
+            "the の弱形 /ðə/",
+            "studied の /d/ が the の弱形へ未開放で連結",
+            "built の /t/ が over の /ˈoʊ/ に連結"
+          ],
+          "kana": "ジーズ ヒストーリアンズ スタディド ザ ルーインズ ザット プレイヤーズ ハッド ビルト オーバー イヤーズ"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

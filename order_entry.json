@@ -228,6 +228,86 @@
           "kana": "ウィアー オーダリング サプライズ タ プリペア ファ ウィンター"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is ordering",
+      "ipa": "/ɪz ˈɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "I am ordering supplies to prepare for the raid.",
+          "ja": "レイドに備えるため供給物を注文しています。",
+          "ipa": "/aɪ əm ˈɔːrdərɪŋ səˈplaɪz tə prɪˈpɛr fɚ ðə ˈreɪd/",
+          "linking": [
+            "am の末尾 /m/ が ordering の初頭母音 /ɔː/ に連結"
+          ],
+          "kana": "アイ アム オーダリング サプライズ タ プリペア ファ ザ レイド"
+        },
+        {
+          "en": "The admin is ordering players to gather at spawn.",
+          "ja": "管理者はプレイヤーにスポーンに集合するように指示しています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈɔːrdərɪŋ ˈpleɪərz tə ˈɡæðər æt ˈspoʊn/",
+          "linking": [
+            "admin の末尾 /n/ が is の初頭 /ɪ/ に連結",
+            "is の末尾 /z/ が ordering の初頭母音 /ɔː/ に連結"
+          ],
+          "kana": "ザ アドミン イズ オーダリング プレイアーズ タ ギャザー アット スポーン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was ordering",
+      "ipa": "/wəz ˈɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "While we were mining, he was ordering more tools.",
+          "ja": "私たちが採掘している間、彼はもっと多くのツールを注文していました。",
+          "ipa": "/waɪl wi wər ˈmaɪnɪŋ hi wəz ˈɔːrdərɪŋ ˈmɔr ˈtulz/",
+          "linking": [
+            "was の末尾 /z/ が ordering の初頭母音 /ɔː/ に連結"
+          ],
+          "kana": "ワイル ウィ ワー マイニング ヒー ワズ オーダリング モア トゥールズ"
+        },
+        {
+          "en": "The builder was ordering materials when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、ビルダーは材料を注文していました。",
+          "ipa": "/ðə ˈbɪldər wəz ˈɔːrdərɪŋ məˈtɪriəlz wɛn ðə ˈsɝvər ˈkræʃt/",
+          "linking": [
+            "was の末尾 /z/ が ordering の初頭母音 /ɔː/ に連結"
+          ],
+          "kana": "ザ ビルダー ワズ オーダリング マテリアルズ ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been ordering",
+      "ipa": "/həd bɪn ˈɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "She had been ordering items before we joined the realm.",
+          "ja": "私たちがレルムに参加する前に、彼女はアイテムを注文していました。",
+          "ipa": "/ʃi həd bɪn ˈɔːrdərɪŋ ˈaɪtəmz bɪˈfɔr wi ˈdʒɔɪnd ðə ˈrɛlm/",
+          "linking": [
+            "been の末尾 /n/ が ordering の初頭母音 /ɔː/ に連結",
+            "ordering の末尾 /ŋ/ が items の初頭母音 /aɪ/ に連結"
+          ],
+          "kana": "シー ハド ビン オーダリング アイテムズ ビフォア ウィ ジョインド ザ レルム"
+        },
+        {
+          "en": "We had been ordering resources all week when the update came.",
+          "ja": "更新が来たとき、私たちは1週間リソースを注文していました。",
+          "ipa": "/wi həd bɪn ˈɔːrdərɪŋ ˈrɛsɚsɪz ɔl ˈwik wɛn ðə ˈʌpdeɪt ˈkeɪm/",
+          "linking": [
+            "been の末尾 /n/ が ordering の初頭母音 /ɔː/ に連結"
+          ],
+          "kana": "ウィ ハド ビン オーダリング レソーシーズ オール ウィーク ウェン ザ アップデイト ケイム"
+        }
+      ]
     }
   ]
 }

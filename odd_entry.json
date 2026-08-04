@@ -1,0 +1,154 @@
+{
+  "word": "odd",
+  "pos": "形容詞",
+  "pos_all": "形容詞",
+  "ipa_us": "/ɑd/",
+  "rank": 1532,
+  "level": "A2",
+  "hi": "odd(?:er|est)?",
+  "meanings": [
+    "【形容詞】奇妙な、変な、風変わりな（strange; unusual）",
+    "【形容詞】不規則な、そろっていない（not matching; unpaired）",
+    "【形容詞】（数が）端数の、割り切れない（not even; not exactly divisible）"
+  ],
+  "examples": [
+    {
+      "en": "That's an odd way to organize your inventory system.",
+      "ja": "それはインベントリシステムを整理する奇妙な方法だ。",
+      "ipa": "/ðæts æn ˈɑd ˈweɪ tu ˈɔːɹɡənˌaɪz jɔːɹ ɪnˈvɛntəri ˈsɪstəm/",
+      "linking": [
+        "That's an → /ts/ + /æ/ (consonant+vowel連結 [ðætsæn] ザッツ アン)",
+        "an odd → /n/ + /ɑ/ が連結 [ænˈɑd] アン オッド"
+      ],
+      "kana": "ザッツ アン オッド ウェイ トゥ オーガナイズ ユア インベントリー システム"
+    },
+    {
+      "en": "The odd glitch made the mobs walk through walls.",
+      "ja": "その奇妙なバグでモブが壁を通り抜けて歩いた。",
+      "ipa": "/ðə ˈɑd ɡlɪtʃ ˈmeɪd ðə ˈmoʊbz wɔːk θruː ˈwɔːlz/",
+      "linking": [
+        "the odd → /ə/ + /ɑ/ (母音+母音、流れるが連結ではない) [ðə ˈɑd] ザ オッド",
+        "glitch made → /tʃ/ + /m/ (子音+子音、連結なし)"
+      ],
+      "kana": "ザ オッド グリッチ メイド ザ モウブズ ウォーク スルー ウォールズ"
+    },
+    {
+      "en": "We had an odd number of diamonds left after the raid.",
+      "ja": "レイド後、奇妙な数のダイヤが残った。",
+      "ipa": "/wi hæd æn ˈɑd ˈnʌmbɚ əv ˈdaɪmənz ˈlɛft ˈæftɚ ðə ˈreɪd/",
+      "linking": [
+        "had an → /d/ + /æ/ が連結 [hædæn] ハド アン",
+        "an odd → /n/ + /ɑ/ が連結 [ænˈɑd] アン オッド"
+      ],
+      "kana": "ウィ ハド アン オッド ナンバー アヴ ダイマンズ レフト アフター ザ レイド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "the odd one out",
+      "ja": "仲間外れ、異なるもの",
+      "example": "Among all the Minecraft players on our server, he's always the odd one out.",
+      "example_ja": "サーバー上の全マインクラフトプレイヤーの中で、彼は常に仲間外れだ。",
+      "ipa": "/əˈmʌŋ ˈɔːl ðə ˈmaɪnkræft ˈpleɪɚz ɑn ˈaʊɚ ˈsɝvɚ hi ɪz ˈɔːlweɪz ðə ˈɑd ˈwʌn ˈaʊt/",
+      "linking": [
+        "Among all → /ŋ/ + /ɔ/ (子音+母音、通常は連結なし)",
+        "all the → /l/ + /ð/ (子音+子音、連結なし)"
+      ],
+      "kana": "ア マング オール ザ マインクラフト プレイヤーズ オン アワー サーバー ヒー イズ オールウェイズ ザ オッド ワン アウト"
+    },
+    {
+      "idiom": "odd and even",
+      "ja": "奇数と偶数",
+      "example": "In that redstone puzzle, you need to separate odd and even numbers.",
+      "example_ja": "そのレッドストーンパズルでは、奇数と偶数を分ける必要があります。",
+      "ipa": "/ɪn ðæt ˈrɛdˌstoʊn ˈpʌzəl ju ˈniːd tu ˌsɛpəˈreɪt ˈɑd ænd ˈiːvən ˈnʌmbɚz/",
+      "linking": [
+        "odd and → /d/ + /æ/ が連結 [ˈɑdænd] オッド アンド",
+        "and even → /d/ + /i/ が連結 [ændˈiːvən] アンド イーヴン"
+      ],
+      "kana": "イン ザット レッドストウン パズル ユー ニード トゥ セパレイト オッド アンド イーヴン ナンバーズ"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "The spawner has an odd placement—it's inside the wall instead of the room.",
+      "ja": "スポーナーは奇妙な配置をしています。部屋の中ではなく壁の中に入っています。",
+      "ipa": "/ðə spˈɔːnɚ hæz æn ˈɑd ˈpleɪsmənt ɪts ɪnˈsaɪd ðə ˈwɔːl ɪnˈstɛd əv ðə ˈruːm/",
+      "linking": [
+        "spawner has → /ɚ/ + /h/ (子音+子音、連結なし)",
+        "has an → /z/ + /æ/ が連結 [hæzæn] ハズ アン"
+      ],
+      "kana": "ザ スポーナー ハズ アン オッド プレイスメント イッツ インサイド ザ ウォール インステッド アヴ ザ ルーム"
+    },
+    {
+      "en": "When mining deep, it's odd to find lava at this depth without warning.",
+      "ja": "深くマイニングする時、警告なしにこの深さで溶岩を見つけるのは奇妙です。",
+      "ipa": "/wen ˈmaɪnɪŋ ˈdip ɪts ˈɑd tu ˈfaɪnd ˈlɑːvə æt ðɪs ˈdɛpθ wɪðˈaʊt ˈwɔːrnɪŋ/",
+      "linking": [
+        "mining deep → /ŋ/ + /d/ (子音+子音、連結なし)",
+        "it's odd → /s/ + /ɑ/ が連結 [ɪts ˈɑd] イッツ オッド"
+      ],
+      "kana": "ウェン マイニング ディープ イッツ オッド トゥ ファインド ラーヴァ アット ディス デプス ウィズアウト ウォーニング"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "odder",
+      "ipa": "/ˈɑdɚ/",
+      "examples": [
+        {
+          "en": "This cave system is odder than any we've found before.",
+          "ja": "この洞窟システムは、今までに見つけたどれよりも奇妙です。",
+          "ipa": "/ðɪs ˈkeɪv ˈsɪstəm ɪz ˈɑdɚ ðæn ˈɛni wiv ˈfaʊnd bɪˈfɔɹ/",
+          "linking": [
+            "system is → 語末 /m/ が母音 /ɪ/ に連結 [ˈsɪstəmɪz] システミズ",
+            "is odder → 語末 /z/ が母音 /ɑ/ に連結 [ɪzˈɑdɚ] イズ オダー",
+            "than any → 語末 /n/ が母音 /ɛ/ に連結 [ðænˈɛni] ザン エニー"
+          ],
+          "kana": "ディス ケイブ システミズ オダー ザン エニー ウィヴ ファウンド ビフォー"
+        },
+        {
+          "en": "That mining tunnel has an odder slope than the original one.",
+          "ja": "そのマイニングトンネルは、元のものより奇妙な勾配を持っています。",
+          "ipa": "/ðæt ˈmaɪnɪŋ ˈtʌnəl hæz æn ˈɑdɚ ˈsloʊp ðæn ðɪ əˈrɪdʒənəl ˈwʌn/",
+          "linking": [
+            "has an → 語末 /z/ が母音 /æ/ に連結 [hæzæn] ハズ アン",
+            "an odder → 語末 /n/ が母音 /ɑ/ に連結 [ænˈɑdɚ] アン オダー"
+          ],
+          "kana": "ザット マイニング タンネル ハズ アン オダー スロウプ ザン ザ オリジナル ワン"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "oddest",
+      "ipa": "/ˈɑdəst/",
+      "examples": [
+        {
+          "en": "That's the oddest structure I've ever built in survival mode.",
+          "ja": "それがサバイバルモードで私が今まで建築した最も奇妙な構造物です。",
+          "ipa": "/ðæts ðə ˈɑdəst ˈstrʌktʃɚ aɪv ˈɛvɚ ˈbɪlt ɪn sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "I've ever → 語末 /v/ が母音 /ɛ/ に連結 [aɪvˈɛvɚ] アイヴ エヴァー",
+            "built in → 語末 /t/ が母音 /ɪ/ に連結 [ˈbɪltɪn] ビルト イン"
+          ],
+          "kana": "ザッツ ザ オデスト ストラクチャー アイヴ エヴァー ビルト イン サーヴァイヴァル モード"
+        },
+        {
+          "en": "Finding the oddest cave entrance while exploring—we couldn't believe our luck!",
+          "ja": "探索中に最も奇妙な洞窟入口を見つけました。信じられないほど幸運でした！",
+          "ipa": "/ˈfaɪndɪŋ ðə ˈɑdəst ˈkeɪv ˈɛntrəns ˈwaɪl ɪkˈsplɔːrɪŋ wi ˈkʊdənt bɪˈliv ˈaʊɚ ˈlʌk/",
+          "linking": [
+            "cave entrance → 語末 /v/ が母音 /ɛ/ に連結 [ˈkeɪvɛntrəns] ケイヴ エントランス",
+            "while exploring → 語末 /l/ が母音 /ɪ/ に連結 [ˈwaɪlɪkˈsplɔːrɪŋ] ホワイル エクスプローリング",
+            "believe our → 語末 /v/ が母音 /aʊ/ に連結 [bɪˈlivˈaʊɚ] ビリーヴ アワー"
+          ],
+          "kana": "ファインディング ザ オデスト ケイヴ エントランス ホワイル エクスプローリング ウィー クッデント ビリーヴ アワー ラック"
+        }
+      ]
+    }
+  ]
+}

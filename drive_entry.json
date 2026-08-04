@@ -225,6 +225,110 @@
           "kana": "ザ トゥ ドライヴズ コンテイン ディファレント コンポーネンツ エン デイタ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is driving",
+      "ipa": "/ɪz ˈdraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The minecart is driving through the cave tunnel with cargo.",
+          "ja": "マインカートは物資を積んでトンネルを通っている。",
+          "ipa": "/ðə ˈmaɪnˌkɑrt ɪz ˈdraɪvɪŋ θruː ðə ˈkeɪv ˈtʌnəl wɪð ˈkɑrɡoʊ/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "is は弱形 /ɪz/。minecart の末尾 /t/ が is の初頭 /ɪ/ に連結 [ˈmaɪnˌkɑrt ɪz] マインカート イズ",
+            "through は /θruː/",
+            "with は /wɪð/"
+          ],
+          "kana": "ザ マインカート イズ ドライヴィング スルー ザ ケイヴ タンネル ウィズ カーゴウ"
+        },
+        {
+          "en": "My friend is driving the mobs into the pen right now.",
+          "ja": "友人は今、モブをペンに追い込んでいる。",
+          "ipa": "/maɪ ˈfrɛnd ɪz ˈdraɪvɪŋ ðə ˈmɑbz ˈɪntə ðə ˈpɛn ˈraɪt naʊ/",
+          "linking": [
+            "is は弱形 /ɪz/。friend の末尾 /d/ が is の初頭 /ɪ/ に連結 [ˈfrɛnd ɪz] フレンド イズ",
+            "the は弱形 /ðə/ (2回)",
+            "into は /ˈɪntə/ で to が弱形",
+            "right now: right の末尾 /t/ と now の初頭 /n/ が続く [ˈraɪt naʊ] ライトナウ"
+          ],
+          "kana": "マイ フレンド イズ ドライヴィング ザ マッブズ イントゥ ザ ペン ライトナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was driving",
+      "ipa": "/wəz ˈdraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The cart was driving smoothly when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発した時、カートはスムーズに走っていた。",
+          "ipa": "/ðə ˈkɑrt wəz ˈdraɪvɪŋ ˈsmuːðli wɛn ðə ˈkripər ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "cart was: cart の末尾 /t/ と was の初頭 /w/ が続く [ˈkɑrt wəz] カート ワズ",
+            "was は弱形 /wəz/",
+            "when は /wɛn/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ カート ワズ ドライヴィング スムーザリー ウェン ザ クリーパー イクスプロウディド ニアバイ"
+        },
+        {
+          "en": "We were driving sheep toward the farm when it started raining.",
+          "ja": "農場に向かって羊を追い立てていた時、雨が降り始めた。",
+          "ipa": "/wi wɚ ˈdraɪvɪŋ ʃip təˈwɔrd ðə ˈfɑrm wɛn ɪt ˈstɑrtɪd ˈreɪnɪŋ/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "driving sheep: driving の末尾 /ŋ/ と sheep の初頭 /ʃ/ が続く。連結なし。",
+            "sheep toward: sheep の末尾 /p/ と toward の弱形初頭 /t/ が続く。toward は弱形 /təˈwɔrd/",
+            "the は弱形 /ðə/",
+            "when は /wɛn/",
+            "it は /ɪt/"
+          ],
+          "kana": "ウィ ワー ドライヴィング シープ トゥワード ザ ファーム ウェン イット スターティド レイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been driving",
+      "ipa": "/həd bɪn ˈdraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The piston had been driving the block for several minutes before it stopped.",
+          "ja": "ピストンは止まる前に何分間もブロックを駆動していた。",
+          "ipa": "/ðə ˈpɪstən həd bɪn ˈdraɪvɪŋ ðə ˈblɑk fɔr ˈsɛvərəl ˈmɪnɪts bɪˈfɔr ɪt ˈstɑpt/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "piston had: piston の末尾 /n/ と had の初頭 /h/ が続く。had は弱形 /həd/ [ˈpɪstən həd] ピストン ハド",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fər/",
+            "several minutes: several の末尾 /l/ が minutes の初頭 /m/ に続く。自然な連続。",
+            "before は /bɪˈfɔr/"
+          ],
+          "kana": "ザ ピストン ハド ビン ドライヴィング ザ ブロック ファー セヴラル ミニッツ ビフォア イット ストップ"
+        },
+        {
+          "en": "They had been driving the herd all day before finally reaching the destination.",
+          "ja": "彼らは目的地に到着するまで一日中モブを追い立てていた。",
+          "ipa": "/ðeɪ həd bɪn ˈdraɪvɪŋ ðə ˈhɝd ɔl ˈdeɪ bɪˈfɔr ˈfaɪnəli ˈriːtʃɪŋ ðə ˌdɛstəˈneɪʃən/",
+          "linking": [
+            "had は弱形 /həd/。they の末尾 /eɪ/ と had の初頭 /h/ が続く [ðeɪ həd] ザイ ハド",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/ (2回)",
+            "all day: all の末尾 /l/ が day の初頭 /d/ に連結 [ɔl ˈdeɪ] オール デイ",
+            "before は /bɪˈfɔr/",
+            "destination は /ˌdɛstəˈneɪʃən/"
+          ],
+          "kana": "ザイ ハド ビン ドライヴィング ザ ハード オール デイ ビフォア ファイナリー リーチング ザ デスティネイション"
+        }
+      ]
     }
   ]
 }

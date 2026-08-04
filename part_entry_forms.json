@@ -141,6 +141,96 @@
           "kana": "ザイアー パーティング ザ アブシディアン ブロックス タ リーチ ザ ポータル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is parting",
+      "ipa": "[ɪz ˈpɑrtɪŋ]",
+      "examples": [
+        {
+          "en": "The water is parting as we dig deeper into the cave.",
+          "ja": "水が分かれています。私たちが洞窟をもっと深く掘り進めるとき。",
+          "ipa": "[ðə ˈwɔɾər ɪz ˈpɑrtɪŋ əz wi dɪg ˈdipər ˈɪntu ðə keɪv]",
+          "linking": [
+            "the + water → 弱形 /ðə/ が /w/ に連結 [ðə ˈwɔɾər] ザ ウォーラー",
+            "water + is → 語末 /r/（フラップ）が弱形 /ɪz/ に連結 [ˈwɔɾər ɪz] ウォーラー イズ",
+            "parting + as → /ŋ/ が弱形 /əz/ に連結 [ˈpɑrtɪŋ əz] パーティング アズ"
+          ],
+          "kana": "ザ ウォーラー イズ パーティング アズ ウィ ディッ ディーパー イントゥ ザ ケイヴ"
+        },
+        {
+          "en": "I am parting the tall trees to see the forest biome.",
+          "ja": "背の高い木を分けて、森のバイオームを見ています。",
+          "ipa": "[aɪ əm ˈpɑrtɪŋ ðə ˈtɔl triz tu si ðə ˈfɔrɪst baɪˈoʊm]",
+          "linking": [
+            "I + am → /aɪ/ が弱形 /əm/ に連結 [aɪ əm] アイ アム",
+            "am + parting → /m/ が /p/ に未開放で連接 [əm̚ ˈpɑrtɪŋ] アム パーティング",
+            "parting + the → /ŋ/ が弱形 /ðə/ に連結 [ˈpɑrtɪŋ ðə] パーティング ザ"
+          ],
+          "kana": "アイ アム パーティング ザ トール ツリーズ トゥ シー ザ フォレスト バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was parting",
+      "ipa": "[wəz ˈpɑrtɪŋ]",
+      "examples": [
+        {
+          "en": "The stream was parting large rocks when we arrived to mine.",
+          "ja": "私たちが採掘に到着したときに、小川が大きな岩を分けていました。",
+          "ipa": "[ðə ˈstrim wəz ˈpɑrtɪŋ ˈlɑrdʒ ˈrɑks wɛn wi əˈraɪvd tu ˈmaɪn]",
+          "linking": [
+            "the + stream → 弱形 /ðə/ が /s/ に連結 [ðə ˈstrim] ザ ストリーム",
+            "stream + was → 語末 /m/ が弱形 /wəz/ に未開放で連接 [strim̚ wəz] ストリーム ワズ",
+            "was + parting → /z/ が /p/ に未開放で連接 [wəz̚ ˈpɑrtɪŋ] ワズ パーティング"
+          ],
+          "kana": "ザ ストリーム ワズ パーティング ラージ ロックス ウェン ウィ アライヴド トゥ マイン"
+        },
+        {
+          "en": "They were parting the snow to construct the ice fortress.",
+          "ja": "彼らは氷の要塞を建設するために雪を分けていました。",
+          "ipa": "[ðeɪ wər ˈpɑrtɪŋ ðə ˈsnoʊ tu kənˈstrʌkt ðɪ ˈaɪs ˈfɔrtrəs]",
+          "linking": [
+            "They + were → /ðeɪ/ が /w/ に連結 [ðeɪ wər] ザイ ワー",
+            "were + parting → /r/ が /p/ に未開放で連接 [wər̚ ˈpɑrtɪŋ] ワー パーティング",
+            "parting + the → /ŋ/ が弱形 /ðə/ に連結 [ˈpɑrtɪŋ ðə] パーティング ザ"
+          ],
+          "kana": "ザイ ワー パーティング ザ スノー トゥ カンストラクト ザ アイス フォートレス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been parting",
+      "ipa": "[həd bɪn ˈpɑrtɪŋ]",
+      "examples": [
+        {
+          "en": "The players had been parting ways before the server reset crashed everything.",
+          "ja": "サーバーのリセットがすべてをクラッシュさせる前に、プレイヤーたちはずっと別れていました。",
+          "ipa": "[ðə ˈpleɪərz həd bɪn ˈpɑrtɪŋ ˈweɪz bɪˈfɔr ðə ˈsɜrvər ˈriˌsɛt ˈkræʃt ˈɛvrɪθɪŋ]",
+          "linking": [
+            "the + players → 弱形 /ðə/ が /p/ に連結 [ðə ˈpleɪərz] ザ プレイアーズ",
+            "players + had → 語末 /z/ が弱形 /həd/ に未開放で連接 [ˈpleɪərz̚ həd] プレイアーズ ハド",
+            "had + been → /d/ が /b/ に未開放で連接 [həd̚ bɪn] ハド ビン"
+          ],
+          "kana": "ザ プレイアーズ ハド ビン パーティング ウェイズ ビフォー ザ サーヴァー リーセット クラッシュト エヴリシング"
+        },
+        {
+          "en": "The terrain had been parting into valleys for thousands of blocks underground.",
+          "ja": "地形は何千ブロックも地下でずっと谷に分かれていました。",
+          "ipa": "[ðə tɛˈreɪn həd bɪn ˈpɑrtɪŋ ˈɪntə ˈvæliːz fər ˈθaʊzəndz əv ˈblɑks ˈʌndərˌɡraʊnd]",
+          "linking": [
+            "the + terrain → 弱形 /ðə/ が /t/ に連結 [ðə tɛˈreɪn] ザ テレイン",
+            "terrain + had → 語末 /n/ が弱形 /həd/ に未開放で連接 [tɛˈreɪn̚ həd] テレイン ハド",
+            "had + been → /d/ が /b/ に未開放で連接 [həd̚ bɪn] ハド ビン"
+          ],
+          "kana": "ザ テレイン ハド ビン パーティング イントゥ ヴァリーズ ファー サウザンズ アヴ ブロックス アンダーグラウンド"
+        }
+      ]
     }
   ]
 }

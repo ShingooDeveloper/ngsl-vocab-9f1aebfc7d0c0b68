@@ -78,5 +78,157 @@
       ],
       "kana": "ディスパイット ザ マンスターズ ウィ マスト マーチ アン タ リーチ ザ フォーティス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "marches",
+      "ipa": "/ˈmɑːrtʃɪz/",
+      "examples": [
+        {
+          "en": "The zombie marches straight toward the door.",
+          "ja": "そのゾンビはまっすぐドアに向かって歩みます。",
+          "ipa": "/ðə ˈzoʊmbi ˈmɑːrtʃɪz ˈstreɪt təˈwɔɹd ðə ˈdɔɹ/",
+          "linking": [
+            "the は弱形 /ðə/。zombie に連結 [ðə ˈzoʊmbi] ザ ゾンビ",
+            "marches の /ɪz/ が straight の初頭 /s/ に続く（子音+子音、連結なし）",
+            "toward の末尾 /d/ が the に連結。the は弱形 /ðə/ [təˈwɔɹd ðə] トゥ ワード ザ"
+          ],
+          "kana": "ザ ゾンビ マーチズ ストレイト トゥ ワード ザ ドア"
+        },
+        {
+          "en": "Every mob marches together when following a leader.",
+          "ja": "すべてのモブはリーダーに従うとき一緒に歩みます。",
+          "ipa": "/ˈɛvri ˈmɑːb ˈmɑːrtʃɪz təˈɡɛðɚ ˈwɛn ˈfɑloʊɪŋ ə ˈliːdɚ/",
+          "linking": [
+            "mob は /mɑːb/。marches に続く（子音+子音、連結なし）",
+            "marches の /z/ が together に連結。together は /təˈɡɛðɚ/ [ˈmɑːrtʃɪz təˈɡɛðɚ] マーチズ トゥゲザー",
+            "a は弱形 /ə/。leader に連結 [ə ˈliːdɚ] ア リーダー"
+          ],
+          "kana": "エブリー モブ マーチズ トゥゲザー ウェン ファローイング ア リーダー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "marched",
+      "ipa": "/ˈmɑːrtʃt/",
+      "examples": [
+        {
+          "en": "We marched through the forest all night looking for ore.",
+          "ja": "私たちは鉱石を探して、一晩中森を行進しました。",
+          "ipa": "/wi ˈmɑːrtʃt θruː ðə ˈfɔːrɪst ˈɔːl ˈnaɪt ˈlʊkɪŋ fɚ ˈɔːɹ/",
+          "linking": [
+            "marched は /ˈmɑːrtʃt/。through に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。forest に連結 [ðə ˈfɔːrɪst] ザ フォーレスト",
+            "for は弱形 /fɚ/。ore に連結 [fɚ ˈɔːɹ] ファー オアー"
+          ],
+          "kana": "ウィ マーチド スルー ザ フォーレスト オール ナイト ルッキング ファー オアー"
+        },
+        {
+          "en": "The skeleton army marched across the plains.",
+          "ja": "スケルトン軍は平原を横切って行進しました。",
+          "ipa": "/ðə ˈskɛlɪtn̩ ˈɑːrmi ˈmɑːrtʃt əˈkrɔːs ðə ˈpleɪnz/",
+          "linking": [
+            "the は弱形 /ðə/。skeleton に連結 [ðə ˈskɛlɪtn̩] ザ スケレトン",
+            "marched は /ˈmɑːrtʃt/。across に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。plains に連結 [ðə ˈpleɪnz] ザ プレインズ"
+          ],
+          "kana": "ザ スケレトン アーミー マーチド アクロス ザ プレインズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "marched",
+      "ipa": "/ˈmɑːrtʃt/",
+      "examples": [
+        {
+          "en": "Having marched for days, we found the End portal at last.",
+          "ja": "何日も行進した後、ついにエンドポータルを見つけました。",
+          "ipa": "/ˈheɪvɪŋ ˈmɑːrtʃt fɚ ˈdeɪz | wi ˈfaʊnd ðə ˈɛnd ˈpoːɹtl æt ˈlæst/",
+          "linking": [
+            "marched は /ˈmɑːrtʃt/。for に続く（子音+子音、連結なし）",
+            "for は弱形 /fɚ/。days に連結 [fɚ ˈdeɪz] ファー デイズ",
+            "the は弱形 /ðə/。End に連結 [ðə ˈɛnd] ザ エンド"
+          ],
+          "kana": "ハヴィング マーチド ファー デイズ、ウィ ファウンド ザ エンド ポータル アット ラスト"
+        },
+        {
+          "en": "The path was marched by hundreds of players before us.",
+          "ja": "そのパスは私たちの前に何百人ものプレイヤーに歩まれていました。",
+          "ipa": "/ðə ˈpæθ wəz ˈmɑːrtʃt baɪ ˈhʌndrədz əv ˈpleɪɚz bɪˈfɔːr ˈʌs/",
+          "linking": [
+            "the は弱形 /ðə/。path に連結 [ðə ˈpæθ] ザ パス",
+            "was は弱形 /wəz/。marched に連結 [wəz ˈmɑːrtʃt] ワズ マーチド",
+            "of は弱形 /əv/。players に連結 [əv ˈpleɪɚz] オブ プレイヤーズ"
+          ],
+          "kana": "ザ パス ワズ マーチド バイ ハンドレッズ オブ プレイヤーズ ビフォー アス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "marching",
+      "ipa": "/ˈmɑːrtʃɪŋ/",
+      "examples": [
+        {
+          "en": "Marching through the nether is extremely dangerous for beginners.",
+          "ja": "ネザーを通って行進することは初心者にとって非常に危険です。",
+          "ipa": "/ˈmɑːrtʃɪŋ θruː ðə ˈnɛðɚ ɪz ɪkˈstrimli ˈdeɪndʒɚəs fɚ bɪˈɡɪnɚz/",
+          "linking": [
+            "the は弱形 /ðə/。nether に連結 [ðə ˈnɛðɚ] ザ ネザー",
+            "is は /ɪz/。extremely に続く（子音+子音、連結なし）",
+            "for は弱形 /fɚ/。beginners に連結 [fɚ bɪˈɡɪnɚz] ファー ビギナーズ"
+          ],
+          "kana": "マーチング スルー ザ ネザー イズ エクストリームリー デンジャラス ファー ビギナーズ"
+        },
+        {
+          "en": "The marching skeletons surrounded our camp completely.",
+          "ja": "行進するスケルトンが私たちのキャンプを完全に取り囲みました。",
+          "ipa": "/ðə ˈmɑːrtʃɪŋ ˈskɛlɪtnz səˈraʊndɪd ˈaʊɚ ˈkæmp kəmˈplitli/",
+          "linking": [
+            "the は弱形 /ðə/。marching に連結 [ðə ˈmɑːrtʃɪŋ] ザ マーチング",
+            "surrounded の d が our に連結 [səˈraʊndɪd aʊɚ] サラウンディド アワー",
+            "camp の末尾 /p/ が completely の初頭に未開放 [ˈkæmp kəmˈplitli] キャンップ コンプリートリー"
+          ],
+          "kana": "ザ マーチング スケレトンズ サラウンディド アワー キャンプ コンプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "marches",
+      "ipa": "/ˈmɑːrtʃɪz/",
+      "examples": [
+        {
+          "en": "The marches we took across different biomes taught us a lot.",
+          "ja": "私たちがさまざまなバイオーム全体で行った行進は、私たちに多くのことを教えてくれました。",
+          "ipa": "/ðə ˈmɑːrtʃɪz wi ˈtʊk əˈkrɔːs ˈdɪfərənt baɪˈoʊmz ˈtɔːt əs ə ˈlɑːt/",
+          "linking": [
+            "the は弱形 /ðə/。marches に連結 [ðə ˈmɑːrtʃɪz] ザ マーチズ",
+            "marches の /z/ が we に続く（子音+子音、連結なし）",
+            "a は弱形 /ə/。lot に連結 [ə ˈlɑːt] ア ラット"
+          ],
+          "kana": "ザ マーチズ ウィ トゥック アクロス ディファレント バイオムズ トート アス ア ラット"
+        },
+        {
+          "en": "After three long marches, we finally reached the fortress.",
+          "ja": "3つの長い行進の後、ついに砦に到達しました。",
+          "ipa": "/ˈæftɚ ˈθriː ˈlɔːŋ ˈmɑːrtʃɪz | wi ˈfaɪnəli ˈritʃt ðə ˈfɔːɹtɪs/",
+          "linking": [
+            "after の /r/ が three に続く（子音+子音、連結なし）",
+            "marches の /z/ が we に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。fortress に連結 [ðə ˈfɔːɹtɪs] ザ フォーティス"
+          ],
+          "kana": "アフター スリー ロング マーチズ、ウィ ファイナリー リーチド ザ フォーティス"
+        }
+      ]
+    }
   ]
 }

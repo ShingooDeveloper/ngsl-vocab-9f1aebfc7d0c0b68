@@ -41,6 +41,36 @@
       "kana": "ハロウ イズ エニワン アウト ゼア"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "hellos",
+      "ipa": "/həˈloʊz/",
+      "examples": [
+        {
+          "en": "Excited hellos rang out from every corner of the server!",
+          "ja": "サーバーのあらゆる隅から興奮した挨拶が鳴り響いた！",
+          "ipa": "[ɪkˈsaɪtɪd həˈloʊz ɹæŋ aʊt frəm ˈɛvɚi ˈkɔɹnɚ əv ðə ˈsɜrvɚ]",
+          "linking": [
+            "from の末尾子音 /m/ が every の初頭母音 /ɛ/ に連結 [frəmˈɛvɚi] フラムエヴリ",
+            "of は前置詞で弱形 /əv/、the も冠詞で弱形 /ðə/"
+          ],
+          "kana": "イクサイティド ハロウズ ラング アウト フラム エヴリ コーナー アヴ ザ サーヴァー"
+        },
+        {
+          "en": "Grateful hellos filled the chat after we defeated the final boss!",
+          "ja": "最終ボスを倒した後、感謝の挨拶がチャットを満たした！",
+          "ipa": "[ˈɡreɪtfəl həˈloʊz fɪld ðə tʃæt ˈæftɚ wi dɪˈfiːtɪd ðə ˈfaɪnəl bɑs]",
+          "linking": [
+            "defeated の末尾子音 /d/ が the の初頭 /ð/ に先行 [dɪˈfiːtəðə] ディフィーティッザ",
+            "the は冠詞で弱形 /ðə/ に弱化し、両方ともフロー [əðə]"
+          ],
+          "kana": "グレイトフル ハロウズ フィルド ザ チャット アフター ウィー ディフィーティド ザ ファイナル ボス"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "say hello to",

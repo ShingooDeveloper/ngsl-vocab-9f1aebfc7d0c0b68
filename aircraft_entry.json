@@ -43,5 +43,39 @@
       "kana": "ザ エアクラフト パフォームズ ウェル ウィズ エリトラ"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "aircraft",
+      "ipa": "/ˈɛrˌkræft/",
+      "examples": [
+        {
+          "en": "Multiple aircraft circled above the landing zone before descending.",
+          "ja": "複数の航空機は降下する前に着陸ゾーン上を何周もしました。",
+          "ipa": "/ˈmʌltɪpəl ˈɛrˌkræft ˈsɝːkəld əˈbʌv ðə ˈlændɪŋ ˈzoʊn bɪˈfɔr dɪˈsɛndɪŋ/",
+          "linking": [
+            "circled の末尾子音 /d/ が above の初頭母音 /ə/ に未開放で続く [ˈsɝːkəld̚ əˈbʌv] サークルド アバヴ",
+            "the は機能語で弱形 /ðə/ に弱化",
+            "before の末尾 /r/ が descending の初頭 /d/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "マルティプル エアクラフト サークルド アバヴ ザ ランディング ゾーン ビフォア ディセンディング"
+        },
+        {
+          "en": "The aircraft were equipped with advanced navigation systems for exploration.",
+          "ja": "その航空機は探索用の高度なナビゲーションシステムを備えていました。",
+          "ipa": "/ðə ˈɛrˌkræft wər ɪˈkwɪpt wɪð ədˈvænst ˌnævɪˈɡeɪʃən ˈsɪstəmz fɚ ɪkˌsplɔˈreɪʃən/",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化、aircraft の初頭母音に連結 [ðəˈɛr]",
+            "aircraft の末尾子音 /t/ が were の初頭 /w/ に未開放で続く（子音+子音、連結なし）",
+            "were は機能語で弱形 /wər/ に弱化",
+            "equipped の末尾子音 /d/ が with の初頭 /w/ に未開放で続く [ɪˈkwɪpt̚ wɪð] イクウィップト ウィズ",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "ザ エアクラフト ワー イクウィップト ウィズ アドヴァンスト ナヴィゲイション システムズ ファー イクスプロレイション"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

@@ -67,5 +67,34 @@
         "the は弱形 /ðə/"
       ]
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "currencies",
+      "ipa": "/ˈkɝənsiz/",
+      "examples": [
+        {
+          "en": "Multiple currencies were used in different Minecraft server economies.",
+          "ja": "異なるMinecraftサーバーの経済では複数の通貨が使用されていました。",
+          "ipa": "/ˈmʌltɪpəl ˈkɝənsiz wɚ ˈjuːzd ɪn ˈdɪfərənt ˈmaɪnˌkræft ˈsɚvɚ ɪˈkɑnəmiz/",
+          "linking": [
+            "were は弱形 /wər/",
+            "used in の /d/ が /ɪ/ に連結 [ˈjuːz.dɪn] ユーズディン"
+          ],
+          "kana": "マルティプル カレンシーズ ワー ユーズディン ディファレント マインクラフト サーバー イコノミーズ"
+        },
+        {
+          "en": "These new currencies help players trade more efficiently across the server.",
+          "ja": "これらの新しい通貨は、プレイヤーがサーバー全体でより効率的に取引するのを助けます。",
+          "ipa": "/ðiːz njuː ˈkɝənsiz hɛlp ˈpleɪərz treɪd mɔr ɪˈfɪʃəntli əˈkrɔs ðə ˈsɚvɚ/",
+          "linking": [
+            "across the → the は弱形 /ðə/"
+          ],
+          "kana": "ディーズ ニュー カレンシーズ ヘルプ プレイヤーズ トレード モア イフィッシェントリー アクロス ザ サーバー"
+        }
+      ]
+    }
   ]
 }

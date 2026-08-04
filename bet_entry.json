@@ -42,6 +42,138 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "bets",
+      "ipa": "/bɛts/",
+      "examples": [
+        {
+          "en": "She bets a fortune on reaching the stronghold.",
+          "ipa": "[ʃi ˈbɛts ə ˈfɔrʧən ɑn ˈriʧɪŋ ðə ˈstrɔŋhoʊld]",
+          "linking": [
+            "bets a → 語末子音 /s/ が弱形 /ə/ に連結: [ˈbɛts ə] ベッツァ",
+            "on → 弱形 /ən/"
+          ],
+          "kana": "シー ベッツァ フォーチュン アン リーチング ザ ストロングホールド"
+        },
+        {
+          "en": "He bets everything on winning the challenge.",
+          "ipa": "[hi ˈbɛts ˈɛvrɪˌθɪŋ ɑn ˈwɪnɪŋ ðə ˈtʃælɪndʒ]",
+          "linking": [
+            "bets everything → 語末子音 /s/ が母音 /ɛ/ に連結: [ˈbɛts ˈɛ...] ベッツ エブリシング",
+            "the → 子音前の弱形 /ðə/"
+          ],
+          "kana": "ヒー ベッツ エブリシング アン ウィニング ザ チャレンジ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "bet",
+      "ipa": "/bɛt/",
+      "examples": [
+        {
+          "en": "I bet all my resources yesterday.",
+          "ipa": "[aɪ ˈbɛt ɔl maɪ ˈrɛsɚsɪz ˈjɛstərdeɪ]",
+          "linking": [
+            "bet all → 語末子音 /t/ が母音 /ɔ/ に連結: [ˈbɛt ɔl] ベット オール",
+            "yesterday → 複合語で内部ストレス調整"
+          ],
+          "kana": "アイ ベット オール マイ レソーシーズ イェスタデイ"
+        },
+        {
+          "en": "She bet everything on finding diamonds here.",
+          "ipa": "[ʃi ˈbɛt ˈɛvrɪˌθɪŋ ɑn ˈfaɪndɪŋ ˈdaɪmɑndz hɪr]",
+          "linking": [
+            "bet everything → 語末子音 /t/ が母音 /ɛ/ に連結: [ˈbɛt ˈɛ...] ベット エブリシング",
+            "on → 弱形 /ən/"
+          ],
+          "kana": "シー ベット エブリシング アン ファインディング ダイモンズ ヒア"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "bet",
+      "ipa": "/bɛt/",
+      "examples": [
+        {
+          "en": "I had bet everything on reaching the end.",
+          "ipa": "[aɪ ˈhæd ˈbɛt ˈɛvrɪˌθɪŋ ɑn ˈriʧɪŋ ðə ˈɛnd]",
+          "linking": [
+            "bet everything → 語末子音 /t/ が母音 /ɛ/ に連結: [ˈbɛt ˈɛ...] ベット エブリシング",
+            "the → 子音前の弱形 /ðə/"
+          ],
+          "kana": "アイ ハッド ベット エブリシング アン リーチング ザ エンド"
+        },
+        {
+          "en": "She has bet her diamonds on this survival.",
+          "ipa": "[ʃi ˈhæz ˈbɛt ɚ ˈdaɪmɑndz ɑn ðɪs sərˈvaɪvəl]",
+          "linking": [
+            "bet her → 語末子音 /t/ は未開放で詰まる: [ˈbɛt̚ˌhɚ] ベッ ハー",
+            "on → 弱形 /ən/"
+          ],
+          "kana": "シー ハズ ベッ ハー ダイモンズ アン ディス サーヴァイヴァル"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "betting",
+      "ipa": "/ˈbɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I am betting everything on reaching the limit.",
+          "ipa": "[aɪ ˈæm ˈbɛtɪŋ ˈɛvrɪˌθɪŋ ɑn ˈriʧɪŋ ðə ˈlɪmɪt]",
+          "linking": [
+            "betting everything → 語末鼻音 /ŋ/ が母音 /ɛ/ に自然に連なる: [ˈbɛtɪŋ ˈɛ...] ベッティング エブリシング",
+            "the → 子音前の弱形 /ðə/"
+          ],
+          "kana": "アイ アム ベッティング エブリシング アン リーチング ザ リミット"
+        },
+        {
+          "en": "She is betting all her diamonds on winning.",
+          "ipa": "[ʃi ˈɪz ˈbɛtɪŋ ɔl ɚ ˈdaɪmɑndz ɑn ˈwɪnɪŋ]",
+          "linking": [
+            "betting all → 語末鼻音 /ŋ/ が母音 /ɔ/ に自然に連なる: [ˈbɛtɪŋ ɔl] ベッティング オール",
+            "all her → /l/ が /h/ に... 流音+气音、連結なし"
+          ],
+          "kana": "シー イズ ベッティング オール ハー ダイモンズ アン ウィニング"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bets",
+      "ipa": "/bɛts/",
+      "examples": [
+        {
+          "en": "We made several bets on the mining competition.",
+          "ipa": "[wi ˈmeɪd ˈsɛvrəl ˈbɛts ɑn ðə ˈmaɪnɪŋ ˌkɑmpɪˈtɪʃən]",
+          "linking": [
+            "bets on → 語末子音 /s/ が母音 /ɑ/ に連結: [ˈbɛts ɑn] ベッツ アン",
+            "the → 子音前の弱形 /ðə/"
+          ],
+          "kana": "ウィ メイド セブラル ベッツ アン ザ マイニング コンペティション"
+        },
+        {
+          "en": "Our bets about survival have been huge.",
+          "ipa": "[ˈaʊɚ ˈbɛts əˈbaʊt sərˈvaɪvəl ˈhæv bɪn ˈhjuːdʒ]",
+          "linking": [
+            "bets about → 語末子音 /s/ が弱形 /ə/ に連結: [ˈbɛts əˈbaʊt] ベッツ アバウト",
+            "have been → /v/ が /b/ に... 子音+子音、ただし帯気音は弱まる傾向"
+          ],
+          "kana": "アワー ベッツ アバウト サーヴァイヴァル ハブ ビン ヒューージ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "bet on",

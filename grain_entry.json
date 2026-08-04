@@ -56,5 +56,36 @@
       ],
       "kana": "アイ テイク ザット オールド トレジャー マップ ウィザ グレイン アヴ ソルト"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "grains",
+      "ipa": "/ˈɡreɪnz/",
+      "examples": [
+        {
+          "en": "These grains can be planted in rows on your farm.",
+          "ja": "これらの穀粒はあなたの農場の列に植えることができます。",
+          "ipa": "/ðiːz ˈɡreɪnz kən bi ˈplæn.ɾɪd ɪn ˈroʊz ɑn jɔr ˈfɑrm/",
+          "linking": [
+            "can be → can は弱形 [kən] カン",
+            "planted in → /t/ が母音 /ɪ/ に連結してフラップ化 [plæn.ɾɪd ɪn] プランラード イン"
+          ],
+          "kana": "ディーズ グレインズ カン ビー プランラード イン ロウズ オン ユアー ファーム"
+        },
+        {
+          "en": "My grains are ready to harvest for bread making.",
+          "ja": "私の穀粒はパン作りのために収穫する準備ができています。",
+          "ipa": "/maɪ ˈɡreɪnz ɑr ˈrɛdi tə ˈhɑrvəst fər ˈbrɛd ˈmeɪkɪŋ/",
+          "linking": [
+            "grains are → /z/ が母音 /ɑ/ に連結 [ɡreɪnz ɑr] グレインズ アー",
+            "to harvest → to は弱形 [tə] タ",
+            "for bread → for は弱形 [fər] ファー"
+          ],
+          "kana": "マイ グレインズ アー レディー タ ハーベスト ファー ブレッド メイキング"
+        }
+      ]
+    }
   ]
 }

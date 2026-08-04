@@ -55,5 +55,118 @@
       ],
       "kana": "タ サマライズ ウィ ニード タ オーガナイズ アワー ベース バイ ゾーンズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "summarizes",
+      "ipa": "/ˈsʌməˌraɪzɪz/",
+      "examples": [
+        {
+          "en": "Take a look at how she summarizes resource data.",
+          "ja": "彼女がどのようにリソースデータをまとめるかを見てみてください。",
+          "ipa": "/ˈteɪkə ˈlʊk æt ˈhaʊ ʃi ˈsʌməˌraɪzɪz ˈrɛsoɚs ˈdeɪtə/",
+          "linking": [
+            "take a → take の語末子音 /k/ が a /ə/ に連結し [ˈteɪkə] テイカ",
+            "she → 代名詞で弱形 /ʃə/"
+          ],
+          "kana": "テイカ ルック アット ハウ シー サマライズズ リソース デイタ"
+        },
+        {
+          "en": "He summarizes ore deposits whenever we find a new vein.",
+          "ja": "新しい鉱脈を見つけるたびに、彼は鉱石の配置をまとめます。",
+          "ipa": "/hi ˈsʌməˌraɪzɪz ˈoɚ dɪˈpɑzɪts ˈwɛnˈɛvər wi ˈfaɪnd ə ˈnjuː ˈveɪn/",
+          "linking": [
+            "ore → /ˈoɚ/（r-coloring、米語）",
+            "whenever → wh音で強形 /ˈwɛnˈɛvər/ ホェネバー"
+          ],
+          "kana": "ヒー サマライズズ オア デポジッツ ホェネバー ウィ ファインド ア ニュー ベイン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "summarized",
+      "ipa": "/ˈsʌməˌraɪzd/",
+      "examples": [
+        {
+          "en": "I summarized my building plan before starting the project.",
+          "ja": "プロジェクトを開始する前に、建築計画をまとめました。",
+          "ipa": "/aɪ ˈsʌməˌraɪzd maɪ ˈbɪldɪŋ ˈplæn bɪˈfɔr ˈstɑɚtɪŋ ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "before → /bɪˈfɔr/ or /bəˈfɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ サマライズド マイ ビルディング プラン ビフォア スターティング ザ プロジェクト"
+        },
+        {
+          "en": "We summarized all of our inventory at the end of the session.",
+          "ja": "セッションの終わりに、インベントリ全体をまとめました。",
+          "ipa": "/wi ˈsʌməˌraɪzd ɔl əv ˈaʊɚ ɪnˈvɛntəri æt ði ˈɛnd əv ðə ˈsɛʃən/",
+          "linking": [
+            "all of → all の語末 /l/ は未開放で続く [ɔl̚ əv]。of は弱形 /əv/ アブ",
+            "end of → end は /d/ で終わり、of は弱形 /əv/ に続く"
+          ],
+          "kana": "ウィ サマライズド オール アブ アワー インベントリー アット ジ エンド アブ ザ セッション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "summarized",
+      "ipa": "/ˈsʌməˌraɪzd/",
+      "examples": [
+        {
+          "en": "Having summarized the map, we could plan our mining route efficiently.",
+          "ja": "マップをまとめた後、採掘ルートを効率的に計画できました。",
+          "ipa": "/ˈhævɪŋ ˈsʌməˌraɪzd ðə ˈmæp wi ˈkʊd ˈplæn ˈaʊɚ ˈmaɪnɪŋ ˈrut ɪˈfɪʃəntli/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/ ザ",
+            "we could → we は弱形 /wə/（ただし could /kʊd/ の前では通常 /wi/）"
+          ],
+          "kana": "ハービング サマライズド ザ マップ ウィ クッド プラン アワー マイニング ルート イフィシャントリー"
+        },
+        {
+          "en": "The summarized statistics show that our farm produces exceptional yields.",
+          "ja": "まとめられた統計は、我々の農場が例外的な収量を生産していることを示しています。",
+          "ipa": "/ðə ˈsʌməˌraɪzd stəˈtɪstɪks ˈʃoʊ ðæt ˈaʊɚ ˈfɑrm prəˈdusɪz ɪkˈsɛpʃənəl ˈjildz/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/ ザ",
+            "show that → show の /w/ が that の初頭に続く（breaking）"
+          ],
+          "kana": "ザ サマライズド スタティスティックス ショー ザット アワー ファーム プロデュース イクセプショナル イールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "summarizing",
+      "ipa": "/ˈsʌməˌraɪzɪŋ/",
+      "examples": [
+        {
+          "en": "While summarizing the crafting recipes, I discovered we need more wood.",
+          "ja": "クラフトレシピをまとめている間に、もっと木が必要なことに気づきました。",
+          "ipa": "/ˈwaɪl ˈsʌməˌraɪzɪŋ ðə ˈkɹæftɪŋ ˈrɛsəpiz aɪ dɪˈskʌvərd wi ˈniːd ˈmoɚ ˈwʊd/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/ ザ",
+            "we need → we は弱形 /wə/（ただし need /nid/ の前では通常 /wi/）"
+          ],
+          "kana": "ワイル サマライジング ザ クラフティング レセピーズ アイ ディスカバード ウィ ニード モア ウッド"
+        },
+        {
+          "en": "Summarizing ore distributions by biome helps us optimize our mining strategy.",
+          "ja": "バイオームごとに鉱石の分布をまとめることで、採掘戦略を最適化できます。",
+          "ipa": "/ˈsʌməˌraɪzɪŋ ˈoɚ ˌdɪstrɪˈbjuːʃənz baɪ ˈbaɪoʊm hɛlps əs ˈɑptəˌmaɪz ˈaʊɚ ˈmaɪnɪŋ ˈstrætədʒi/",
+          "linking": [
+            "ore → /ˈoɚ/（r-coloring、米語）",
+            "us optimize → us は /əs/ or /ʌs/（弱形 /əs/）に弱化"
+          ],
+          "kana": "サマライジング オア ディストリビューションズ バイ バイオーム ヘルプス アス アプティマイズ アワー マイニング ストラテジー"
+        }
+      ]
+    }
   ]
 }

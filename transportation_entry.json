@@ -59,5 +59,37 @@
       ],
       "kana": "ザ メイン ハブ イザ トランスポー テーション ハブ カネクティング オール アワー アウトポースツ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "transportations",
+      "ipa": "/ˌtrænspɚˈteɪʃənz/",
+      "examples": [
+        {
+          "en": "Take a minecart as one of the fastest transportations for ore.",
+          "ja": "鉱石用に最速の輸送手段の一つとしてマインカートを使いましょう。",
+          "ipa": "/ˈteɪk ə ˈmaɪnˌkɑɹt æz ˈwʌn əv ðə ˈfæstəst ˌtrænspɚˈteɪʃənz fɔr ɔɹ/",
+          "linking": [
+            "Take a → 語末子音 /k/ が母音 /ə/ に連結 [ˈteɪkə] テイカ",
+            "one of → of は弱形 /əv/ に弱化、語末 /f/ が次の単語に先立つ",
+            "the fastest → the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "テイカ マインカート アズ ワン アヴ ザ ファステスト トランスポーテイシャンズ フォー オア"
+        },
+        {
+          "en": "Set off in different transportations to explore new caves.",
+          "ja": "異なる輸送手段で新しい洞窟を探検しに出発しましょう。",
+          "ipa": "/ˈset ɔf ɪn ˈdɪfɹənt ˌtrænspɚˈteɪʃənz tə ɪkˈsploɹ nu keɪvz/",
+          "linking": [
+            "Set off → 語末の /t/ が母音に挟まれてflap化し /ɾ/ になって /ɔ/ に連結 [ˈseɾɔf] セラフ",
+            "different transportations → /t/ が未開放 [t̚] となり、次の /t/ と連接（1つの t に聞こえる）[ˈdɪfɹənt̚ ˌtrænspɚˈteɪʃənz]",
+            "to explore → to は弱形 /tə/ に弱化"
+          ],
+          "kana": "セラフ イン ディファレント トランスポーテイシャンズ タ イク スプロア ニュー ケイブズ"
+        }
+      ]
+    }
   ]
 }

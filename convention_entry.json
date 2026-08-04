@@ -47,6 +47,38 @@
       "kana": "ウィ ファロー ザ ネザー ビルディング カンヴェンションアヴ ユージング ブラックストーン"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "conventions",
+      "ipa": "/kənˈvɛnʃənz/",
+      "examples": [
+        {
+          "en": "Building conventions are important for server harmony.",
+          "ja": "建築慣例はサーバーの調和にとって重要です。",
+          "ipa": "/ˈbɪldɪŋ kənˈvɛnʃənz ɑr ɪmˈpɔrtənt fɔr ˈsɝvɚ ˈhɑrməni/",
+          "linking": [
+            "conventions + are → /z/ (conventions の末尾) が /ɑ/ に連結: [kənˈvɛnʃənzɑr] カンヴェンションズアー",
+            "important + for → /t/ (important の末尾) が /f/ に続く前に未開放: [ɪmˈpɔrtən̚t fɔr] イムポーッ",
+            "for は前置詞で弱形 /fɚ/: [fɚ ˈsɝvɚ] ファ サーヴァー"
+          ],
+          "kana": "ビルディング カンヴェンションズアー イムポーッ ファ サーヴァー ハーモニー"
+        },
+        {
+          "en": "Miners follow many different conventions when exploring caves.",
+          "ja": "マイナーは洞窟を探索するときに多くの異なる慣例に従います。",
+          "ipa": "/ˈmaɪnɚz ˈfɑloʊ ˈmɛni ˈdɪfərənt kənˈvɛnʃənz wɛn ɪkˈsplɔrɪŋ keɪvz/",
+          "linking": [
+            "conventions + when → /z/ (conventions の末尾) が /w/ に続く前に未開放: [kənˈvɛnʃənz̚ wɛn] カンヴェンションズ",
+            "when + exploring → /n/ (when の末尾) が /ɪ/ に連結: [wɛnɪkˈsplɔrɪŋ] ウェニクスプロアリング",
+            "different は /ˈdɪfərənt/ で多音節形容詞（修飾する conventions の前置）"
+          ],
+          "kana": "マイナーズ ファロー メニー ディファレント カンヴェンションズ ウェニクスプロアリング ケイヴズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "break convention",

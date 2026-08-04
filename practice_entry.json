@@ -187,6 +187,98 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is practicing",
+      "ipa": "/ɪz ˈpræktɪsɪŋ/",
+      "examples": [
+        {
+          "en": "He is practicing redstone building in creative mode.",
+          "ja": "彼はクリエイティブモードでレッドストーン建築を練習しています。",
+          "ipa": "/hi ɪz ˈpræktɪsɪŋ ˈrɛdˌstoʊn ˈbɪldɪŋ ɪn kriˈeɪtɪv moʊd/",
+          "kana": "ヒー イズ プラクティシング レッドストーン ビルディング イン クリエイティヴ モード",
+          "linking": [
+            "is 助動詞の弱形 /ɪz/",
+            "practicing redstone: practicing の語末 /ŋ/ が redstone の初頭 /r/ に、子音同士で分離",
+            "in creative: in の語末 /n/ が creative の初頭 /k/ に、子音同士で分離"
+          ]
+        },
+        {
+          "en": "I am practicing archery against targets in this arena.",
+          "ja": "私はこのアリーナで的に対する射撃を練習しています。",
+          "ipa": "/aɪ æm ˈpræktɪsɪŋ ˈɑrʃəri əˈɡɛnst ˈtɑrɡɪts ɪn ðɪs əˈrenə/",
+          "kana": "アイ アム プラクティシング アーチェリー アゲンスト ターゲッツ イン ディス アリーナ",
+          "linking": [
+            "am 助動詞で /æm/",
+            "practicing archery: practicing の語末 /ŋ/ が archery の初頭 /ɑ/ に連結 [ˈpræktɪsɪŋ ˈɑrʃəri] プラクティシング アーチェリー",
+            "in this: in の語末 /n/ が this の初頭 /ð/ に、子音同士で分離 [ɪn ðɪs] イン ディス"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was practicing",
+      "ipa": "/wəz ˈpræktɪsɪŋ/",
+      "examples": [
+        {
+          "en": "She was practicing building techniques when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼女は建築技法を練習していました。",
+          "ipa": "/ʃi wəz ˈpræktɪsɪŋ ˈbɪldɪŋ tɛkˈnikz wɛn ðə ˈsɝvɚ kræʃt/",
+          "kana": "シ ワズ プラクティシング ビルディング テクニークス ホェン ザ サーバー クラッシュト",
+          "linking": [
+            "was 助動詞の弱形 /wəz/",
+            "practicing building: practicing の語末 /ŋ/ が building の初頭 /b/ に、子音同士で分離",
+            "the 冠詞の弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "They were practicing combat skills all afternoon.",
+          "ja": "彼らは午後中、戦闘スキルを練習していました。",
+          "ipa": "/ðeɪ wɝ ˈpræktɪsɪŋ ˈkɑmbæt skɪlz ɔl ˌæftɚˈnun/",
+          "kana": "ザイ ワー プラクティシング コンバット スキルズ オール アフターヌーン",
+          "linking": [
+            "were 助動詞で /wɝ/",
+            "practicing combat: practicing の語末 /ŋ/ が combat の初頭 /k/ に、子音同士で分離",
+            "all afternoon: all の語末 /l/ が afternoon の初頭 /æ/ に連結 [ˈɔl ˌæftɚˈnun] オール アフターヌーン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been practicing",
+      "ipa": "/həd bɪn ˈpræktɪsɪŋ/",
+      "examples": [
+        {
+          "en": "I had been practicing mining techniques for hours before sunset.",
+          "ja": "日没前に数時間、採掘技法を練習していました。",
+          "ipa": "/aɪ həd bɪn ˈpræktɪsɪŋ ˈmaɪnɪŋ tɛkˈnikz fɚ ˈaʊɚz bɪˈfɔr ˈsʌnˌsɛt/",
+          "kana": "アイ ハド ビン プラクティシング マイニング テクニークス ファー アワーズ ビフォア サンセット",
+          "linking": [
+            "had 助動詞の弱形 /həd/",
+            "been 助動詞の弱形 /bɪn/",
+            "practicing mining: practicing の語末 /ŋ/ が mining の初頭 /m/ に、子音同士で分離",
+            "for hours: for の弱形 /fɚ/、hours に連結"
+          ]
+        },
+        {
+          "en": "She had been practicing PvP duels since morning.",
+          "ja": "彼女は朝からPvPの決闘を練習していました。",
+          "ipa": "/ʃi həd bɪn ˈpræktɪsɪŋ ˌpiːviːˈpi ˈduːəlz sɪns ˈmɔrnɪŋ/",
+          "kana": "シ ハド ビン プラクティシング ピーヴィーピー ジューエルズ シンス モーニング",
+          "linking": [
+            "had 助動詞の弱形 /həd/",
+            "been 助動詞の弱形 /bɪn/",
+            "practicing PvP: practicing の語末 /ŋ/ が PvP の初頭 /p/ に、子音同士で分離",
+            "duels since: duels の語末 /z/ が since の初頭 /s/ に、子音同士で分離"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

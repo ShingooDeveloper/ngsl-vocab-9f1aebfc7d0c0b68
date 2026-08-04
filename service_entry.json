@@ -272,6 +272,108 @@
           "kana": "ウィ アー サービシング オール ザ ブルーイング スタンズ ライト ナウ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is servicing",
+      "ipa": "/ɪz ˈsɜrvɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We are servicing the farm equipment today.",
+          "ja": "今日、農場の装備をメンテナンスしています。",
+          "ipa": "/wi ɑr ˈsɜrvɪsɪŋ ðə ˈfɑrm ɪˈkwɪpmənt təˈdeɪ/",
+          "linking": [
+            "are は機能語で弱形 /ər/ に弱化する場合がある。",
+            "servicing の語末 /ŋ/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "farm の語末 /m/ が equipment の /ɪ/（母音）に連結 [ˈfɑrm ɪˈkwɪpmənt] ファーム イクウィップメント"
+          ],
+          "kana": "ウィ アー サービシング ザ ファーム イクウィップメント タデイ"
+        },
+        {
+          "en": "I am servicing my pickaxe before the next mining trip.",
+          "ja": "次の採掘の旅の前に、ピッケルをメンテナンスしています。",
+          "ipa": "/aɪ æm ˈsɜrvɪsɪŋ maɪ ˈpɪkˌæks bɪˈfɔr ðə ˈnɛkst ˈmaɪnɪŋ trɪp/",
+          "linking": [
+            "am は機能語で弱形 /əm/ に弱化。servicing に直続。",
+            "servicing の語末 /ŋ/ が my の /m/（子音）に未開放で直続 [ˈsɜrvɪsɪŋ̚ maɪ] サービシング マイ",
+            "pickaxe の語末 /s/ が before の /b/（子音）に直続 [ˈpɪkˌæks bɪˈfɔr] ピックアックス ビフォア",
+            "before の語末 /r/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。"
+          ],
+          "kana": "アイ アム サービシング マイ ピックアックス ビフォア ザ ネクスト マイニング トリップ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was servicing",
+      "ipa": "/wəz ˈsɜrvɪsɪŋ/",
+      "examples": [
+        {
+          "en": "He was servicing the water elevator when the lag spike hit.",
+          "ja": "ラグスパイクが来た時、彼はウォーターエレベーターを整備していました。",
+          "ipa": "/hi wəz ˈsɜrvɪsɪŋ ðə ˈwɔtɚ ˈɛləveɪtɚ wɛn ðə læɡ spaɪk hɪt/",
+          "linking": [
+            "was は機能語で弱形 /wəz/ に弱化（既に弱形）。",
+            "servicing の語末 /ŋ/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "elevator の語末 /ɚ/ が when の /w/（子音）に直続 [ˈɛləveɪtɚ wɛn] エレベイター ウェン",
+            "spike の語末 /k/ が hit の /h/（子音）に未開放で直続 [spaɪk̚ hɪt] スパイク ヒット"
+          ],
+          "kana": "ヒー ワズ サービシング ザ ウォター エレベイター ウェン ザ ラッグ スパイク ヒット"
+        },
+        {
+          "en": "While they were servicing all the machines, the server crashed.",
+          "ja": "すべての機械を整備している間に、サーバーがクラッシュしました。",
+          "ipa": "/waɪl ðɛr wɚ ˈsɜrvɪsɪŋ ɔl ðə məˈʃinz ðə ˈsɜrvɚ kræʃt/",
+          "linking": [
+            "While の語末 /l/ が they の /ð/（子音）に直続 [waɪl ðɛr] ワイル ザイア",
+            "were は機能語で弱形 /wər/ に弱化。",
+            "servicing の語末 /ŋ/ が all の /ɔ/（母音）に連結 [ˈsɜrvɪsɪŋ ɔl] サービシング オール",
+            "all の語末 /l/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "machines の語末 /z/ が the の /ð/（子音）に未開放で直続。the は弱形 /ðə/ に弱化。",
+            "server の語末 /ɚ/ が crashed の /k/（子音）に直続 [ˈsɜrvɚ kræʃt] サーヴァー クラッシュト"
+          ],
+          "kana": "ワイル ザイア ワー サービシング オール ザ マシーンズ ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been servicing",
+      "ipa": "/həd bɪn ˈsɜrvɪsɪŋ/",
+      "examples": [
+        {
+          "en": "The contraption had been servicing the base perfectly before it failed.",
+          "ja": "その装置は故障する前に、ベースに完璧に機能を提供していました。",
+          "ipa": "/ðə ˌkɑntræpʃən həd bɪn ˈsɜrvɪsɪŋ ðə beɪs ˈpɜrfɪktli bɪˈfɔr ɪt ˈfeɪld/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "had は機能語で弱形 /həd/ に弱化（既に弱形）。been に直続。",
+            "been は機能語で弱形 /bɪn/ に弱化。servicing に直続。",
+            "servicing の語末 /ŋ/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "base の語末 /s/ が perfectly の /p/（子音）に未開放で直続 [beɪs̚ ˈpɜrfɪktli] ベース パーフェクトリー",
+            "before の語末 /r/ が it の /ɪ/（母音）に連結 [bɪˈfɔr ɪt] ビフォア イット"
+          ],
+          "kana": "ザ コントラプション ハド ビン サービシング ザ ベース パーフェクトリー ビフォア イット フェイルド"
+        },
+        {
+          "en": "By the time we discovered the issue, the trap had been servicing incorrect data for weeks.",
+          "ja": "問題を発見した時までに、トラップは何週間も間違ったデータを提供していました。",
+          "ipa": "/baɪ ðə taɪm wi dɪˈskʌvɚd ðə ˈɪʃu ðə træp həd bɪn ˈsɜrvɪsɪŋ ɪnkəˈrɛkt ˈdeɪtə fɔr wiks/",
+          "linking": [
+            "By の語末 /aɪ/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "time の語末 /m/ が we の /w/（子音）に直続 [taɪm wi] タイム ウィ",
+            "discovered の語末 /d/ が the の /ð/（子音）に直続。the は弱形 /ðə/ に弱化。",
+            "had は機能語で弱形 /həd/ に弱化（既に弱形）。been に直続。",
+            "been は機能語で弱形 /bɪn/ に弱化。servicing に直続。",
+            "servicing の語末 /ŋ/ が incorrect の /ɪ/（母音）に連結 [ˈsɜrvɪsɪŋ ɪnkəˈrɛkt] サービシング インコレクト",
+            "for は機能語で弱形 /fər/ に弱化。weeks に直続。"
+          ],
+          "kana": "バイ ザ タイム ウィ ディスカヴァード ザ イッシュー ザ トラップ ハド ビン サービシング インコレクト デイタ フォア ウィークス"
+        }
+      ]
     }
   ]
 }

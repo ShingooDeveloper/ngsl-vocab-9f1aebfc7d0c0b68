@@ -36,5 +36,114 @@
       "linking": []
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "underlies",
+      "ipa": "/ˌʌndərˈlaɪz/",
+      "examples": [
+        {
+          "en": "A network of tunnels underlies this mountain.",
+          "ja": "トンネルのネットワークがこの山の下に横たわっている。",
+          "ipa": "/ə ˈnɛtˌwɜrk əv ˈtʌnəlz ˌʌndərˈlaɪz ðɪs ˈmaʊntən/",
+          "kana": "ア ネットワークアヴ タンネルズ アンダーライズ ディス マウンテン",
+          "linking": [
+            "a は不定冠詞で弱形 /ə/（「ア」）",
+            "of は弱形 /əv/、network の /k/ に連結"
+          ]
+        },
+        {
+          "en": "The bedrock underlies all the mineral deposits.",
+          "ja": "岩盤がすべての鉱物鉱床を下から支えている。",
+          "ipa": "/ðə ˈbɛdˌrɑk ˌʌndərˈlaɪz ɔl ðə ˈmɪnərəl dɪˈpoʊzɪts/",
+          "kana": "ザ ベッドラック アンダーライズ オール ザ ミネラル ディポージッツ",
+          "linking": [
+            "the は定冠詞で子音の前なので弱形 /ðə/（「ザ」）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "underlay",
+      "ipa": "/ˌʌndərˈleɪ/",
+      "examples": [
+        {
+          "en": "The miners underlay thick stone blocks beneath the foundation.",
+          "ja": "採掘者たちが基盤の下に厚い石ブロックを敷いた。",
+          "ipa": "/ðə ˈmaɪnərz ˌʌndərˈleɪ ˈθɪk ˈstoʊn ˈblɑks bɪˈniːθ ðə ˈfaʊnˌdeɪʃən/",
+          "kana": "ザ マイナーズ アンダーレイ シック ストーン ブラックス ビニース ザ ファウンデイション",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/（「ザ」）"
+          ]
+        },
+        {
+          "en": "Old bedrock underlay the thin soil layer.",
+          "ja": "古い岩盤が薄い土の層の下にあった。",
+          "ipa": "/ˈoʊld ˈbɛdˌrɑk ˌʌndərˈleɪ ðə ˈθɪn ˈsɔɪl ˈleɪər/",
+          "kana": "オウルド ベッドラック アンダーレイ ザ シン ソイル レイア",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/（「ザ」）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "underlain",
+      "ipa": "/ˌʌndərˈleɪn/",
+      "examples": [
+        {
+          "en": "The entire cave system is underlain by obsidian ore.",
+          "ja": "洞窟システム全体が黒曜石鉱石で下から支えられている。",
+          "ipa": "/ðə ɪnˈtɪr ˈkeɪv ˈsɪstəm ɪz ˌʌndərˈleɪn baɪ əbˈsɪdiən ˈɔr/",
+          "kana": "ザ インティア ケイブ システム イズアンダーレイン バイ オプシディアン オア",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/（「ザ」）",
+            "is の /z/ が underlain の /ʌ/ に連結 [ɪzʌ]"
+          ]
+        },
+        {
+          "en": "Diamond veins had underlain that ancient stronghold.",
+          "ja": "ダイヤモンド鉱脈がその古い砦を下から支えていた。",
+          "ipa": "/ˈdaɪmənd ˈveɪnz həd ˌʌndərˈleɪn ðæt ˈeɪnʃənt ˈstrɔŋˌhoʊld/",
+          "kana": "ダイマンド ヴェインズ ハッド アンダーレイン ザット エインシャント ストロングホウルド",
+          "linking": [
+            "had は助動詞で弱形 /əd/（「ハッド」）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "underlying",
+      "ipa": "/ˌʌndərˈlaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The underlying geology determines where you'll find diamonds.",
+          "ja": "基礎となる地質学が、ダイヤモンドが見つかる場所を決定する。",
+          "ipa": "/ðə ˌʌndərˈlaɪɪŋ dʒiˈɑlədʒi dɪˈtɜrmɪnz ˈwɛr juːl faɪnd ˈdaɪmənds/",
+          "kana": "ザ アンダーライイング ジオロジー ディターミンズ ウェア ユール ファインド ダイマンズ",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/（「ザ」）"
+          ]
+        },
+        {
+          "en": "Understanding the underlying structure helps you survive better.",
+          "ja": "基礎となる構造を理解することは、より良く生き残るのに役立つ。",
+          "ipa": "/ˌʌndərˈstændɪŋ ðə ˌʌndərˈlaɪɪŋ ˈstrʌkʃər ˈhɛlps juː sərˈvaɪv ˈbɛtər/",
+          "kana": "アンダースタンディング ザ アンダーライイング ストラクチャー ヘルプスユー サーヴァイヴ ベター",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/（「ザ」）",
+            "helps の /s/ が you の /j/ に連結 [ˈhɛlps j]"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": []
 }

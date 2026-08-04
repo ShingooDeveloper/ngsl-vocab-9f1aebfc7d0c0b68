@@ -69,5 +69,155 @@
       ],
       "kana": "ベンドオーバー トゥ フィット スルー ディス タイニー ケイヴ エントランス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "bends",
+      "ipa": "/bɛndz/",
+      "examples": [
+        {
+          "en": "The redstone bends at a 90-degree angle.",
+          "ja": "レッドストーン回路が90度の角で曲がっています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈbɛndz æt ə ˈnaɪnti dɪˈɡri ˈæŋɡəl/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "bends の末尾子音 /z/ が at の初頭母音 /æ/ に連結。at の語末子音 /t/ は未開放。結果は [ˈbɛnzæt̚] ベンザット。",
+            "a は弱形 /ə/。"
+          ],
+          "kana": "ザ レッドストーン ベンザット ア ナインティ ディグリー アングル"
+        },
+        {
+          "en": "The wall bends inward from the blast.",
+          "ja": "壁が爆発の衝撃で内側に曲がっています。",
+          "ipa": "/ðə ˈwɔl ˈbɛndz ˈɪnwərd frəm ðə ˈblæst/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "bends の末尾子音 /z/ が inward の初頭母音 /ɪ/ に連結。結果は [ˈbɛndɪnwərd] ベンディンワード。",
+            "from は弱形 /frəm/。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ウォール ベンディンワード フラム ザ ブラスト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "bent",
+      "ipa": "/bɛnt/",
+      "examples": [
+        {
+          "en": "I bent the iron bars to escape the prison.",
+          "ja": "私は牢獄から逃げるために鉄の棒を曲げました。",
+          "ipa": "/aɪ ˈbɛnt ðə ˈaɪrən ˈbɑrz tə əˈskeɪp ðə ˈprɪzən/",
+          "linking": [
+            "the は弱形 /ðə/。",
+            "bent の末尾子音 /t/ は未開放。bars の初頭音 /b/ に連結しない。",
+            "to は弱形 /tə/。the は弱形 /ðə/。"
+          ],
+          "kana": "アイ ベント ザ アイアン バーズ タ エスケイプ ザ プリズン"
+        },
+        {
+          "en": "The bridge bent under the heavy load.",
+          "ja": "橋が重い荷物の下で曲がりました。",
+          "ipa": "/ðə ˈbrɪdʒ ˈbɛnt ˈʌndər ðə ˈhɛvi ˈloʊd/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "bent の末尾子音 /t/ は未開放。under の初頭母音 /ʌ/ に連結しない。",
+            "under は弱形 /ˈʌndər/。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ブリッジ ベント アンダー ザ ヘヴィ ロード"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "bent",
+      "ipa": "/bɛnt/",
+      "examples": [
+        {
+          "en": "The bent rail cannot support the minecart.",
+          "ja": "曲がったレールはトロッコを支えることができません。",
+          "ipa": "/ðə ˈbɛnt ˈreɪl ˈkænət səˈpɔrt ðə ˈmaɪnˌkɑrt/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "bent の末尾子音 /t/ は未開放。rail の初頭音 /r/ に連結しない。",
+            "cannot は /ˈkænət/。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ベント レイル キャネット サポート ザ マインカート"
+        },
+        {
+          "en": "A bent stick is useless for crafting.",
+          "ja": "曲がった棒はクラフトに役に立たません。",
+          "ipa": "/ə ˈbɛnt ˈstɪk ɪz ˈjusləs fər ˈkræftɪŋ/",
+          "linking": [
+            "a は弱形 /ə/。",
+            "bent の末尾子音 /t/ は未開放。stick の初頭音 /s/ に連結しない。",
+            "is は弱形 /əz/。for は弱形 /fər/。"
+          ],
+          "kana": "ア ベント スティック イズ ユースレス ファ クラフティング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "bending",
+      "ipa": "/ˈbɛndɪŋ/",
+      "examples": [
+        {
+          "en": "Stop bending the wooden planks!",
+          "ja": "木製の板を曲げるのをやめてください！",
+          "ipa": "/ˈstɑp ˈbɛndɪŋ ðə ˈwʊdən ˈplæŋks/",
+          "linking": [
+            "stop の末尾子音 /p/ は未開放。bending の初頭音 /b/ に連結しない。",
+            "the は弱形 /ðə/。"
+          ],
+          "kana": "スタップ ベンディング ザ ウッデン プランクス"
+        },
+        {
+          "en": "Bending metal requires extreme heat.",
+          "ja": "金属を曲げるには極めて高い温度が必要です。",
+          "ipa": "/ˈbɛndɪŋ ˈmɛtəl rɪˈkwaɪrz əkˈstrim ˈhit/",
+          "linking": [
+            "bending の末尾音 /ŋ/ は metal の初頭音 /m/ に連結しない。",
+            "requires の末尾音 /z/ は extreme の初頭音 /ɪ/ に連結... いや /z/ と /ɪ/ なので不連結。"
+          ],
+          "kana": "ベンディング メタル リクワイヤーズ エクストリーム ヒート"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bends",
+      "ipa": "/bɛndz/",
+      "examples": [
+        {
+          "en": "There are many sharp bends in this tunnel.",
+          "ja": "このトンネルには多くの急なカーブがあります。",
+          "ipa": "/ðɛɹ ɑr ˈmɛni ˈʃɑrp ˈbɛndz ɪn ðɪs ˈtʌnəl/",
+          "linking": [
+            "there の末尾音 /r/ が are の初頭母音 /ɑ/ に連結 [ðɛɹɑr] ゼアー。are は弱形。",
+            "bends の末尾子音 /z/ が in の初頭母音 /ɪ/ に連結。結果は [ˈbɛndɪn] ベンディン。",
+            "this は /ðɪs/。"
+          ],
+          "kana": "ゼアー メニ シャープ ベンディン ディス タンネル"
+        },
+        {
+          "en": "The river has several sharp bends.",
+          "ja": "その川にはいくつかの急なカーブがあります。",
+          "ipa": "/ðə ˈrɪvər ˈhæz ˈsɛvərəl ˈʃɑrp ˈbɛndz/",
+          "linking": [
+            "The は弱形 /ðə/。",
+            "river の末尾音 /r/ が has の初頭音 /h/ に連結... いや /r/ と /h/ なので連結ではない。has は弱形 /həz/。",
+            "several の末尾音 /l/ が sharp に連結... いや連結ではない。"
+          ],
+          "kana": "ザ リバー ハズ セベラル シャープ ベンズ"
+        }
+      ]
+    }
   ]
 }

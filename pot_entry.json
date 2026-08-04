@@ -68,5 +68,36 @@
       ],
       "kana": "ザ クッキング ポット シッツ アン タップ アヴ ザ キャンプファイアー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "pots",
+      "ipa": "/pɑts/",
+      "examples": [
+        {
+          "en": "Pots are everywhere in this world.",
+          "ja": "この世界のいたるところに鍋があります。",
+          "ipa": "/ˈpɑts ɑr ɛvriˈwɛr ɪn ðɪs ˈwɜrld/",
+          "linking": [
+            "pots の語末子音 /s/ が are の母音 /ɑ/ に連結",
+            "are の語末子音 /r/ が everywhere の母音 /ɛ/ に連結"
+          ],
+          "kana": "ポッツ アー エヴリウェア イン ディス ワールド"
+        },
+        {
+          "en": "Many pots of flowers are in the garden.",
+          "ja": "たくさんの花の鍋が庭にあります。",
+          "ipa": "/ˈmɛni ˈpɑts əv ˈflaʊərz ɑr ɪn ðə ˈɡɑrdən/",
+          "linking": [
+            "pots の語末子音 /s/ が of の母音 /ə/ に連結",
+            "of は弱形 /əv/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "メニー ポッツ アヴ フラワーズ アー イン ザ ガーデン"
+        }
+      ]
+    }
   ]
 }

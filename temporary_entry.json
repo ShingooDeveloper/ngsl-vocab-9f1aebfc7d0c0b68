@@ -80,5 +80,63 @@
       ],
       "kana": "ユーズ ディス チェスト アズ テンパラリ ストレッジ ファー ユア アイテムズ"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more temporary",
+      "ipa": "/ˈmɔɹ ˈtɛmpəreri/",
+      "examples": [
+        {
+          "en": "This dirt shelter is more temporary than a stone castle.",
+          "ja": "この土のシェルターは石の城よりも一時的です。",
+          "ipa": "/ðɪs ˈdɝt ˈʃɛltɚ ɪz ˈmɔɹ ˈtɛmpəreri ðæn ə ˈstoʊn ˈkæsəl/",
+          "linking": [
+            "shelter は /ɚ/ で終わり is に続く。スムーズな接続",
+            "than の末尾 /n/ が a の初頭母音 /ə/ に連結 [ðænə] ダナ。a は弱形"
+          ],
+          "kana": "ディス ダート シェルター イズ モア テンパラリ ダナ ストーン キャスル"
+        },
+        {
+          "en": "These wood blocks are more temporary than obsidian structures.",
+          "ja": "これらの木製ブロックは黒曜石の構造体よりも一時的です。",
+          "ipa": "/ðiːz ˈwʊd ˈblɑks ɑɹ ˈmɔɹ ˈtɛmpəreri ðæn ɑbˈsɪdiən ˈstrʌktʃɚz/",
+          "linking": [
+            "are は動詞 be の弱形で /ɚ/ または /ɑɹ/ に短縮",
+            "than の末尾 /n/ が obsidian の初頭母音 /ɑ/ へ向かう"
+          ],
+          "kana": "ディーズ ウッド ブロックス アー モア テンパラリ ザン アブシディアン ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most temporary",
+      "ipa": "/ˈmoʊst ˈtɛmpəreri/",
+      "examples": [
+        {
+          "en": "This is the most temporary base I've ever built in Minecraft.",
+          "ja": "これは私がマインクラフトで建築した最も一時的な基地です。",
+          "ipa": "/ðɪs ɪz ðə ˈmoʊst ˈtɛmpəreri ˈbeɪs ˈaɪv ˈɛvər ˈbɪlt ɪn ˌmaɪnˈkræft/",
+          "linking": [
+            "is は /ɪz/、the は弱形 /ðə/。スムーズな接続",
+            "most の末尾 /t/ は未開放で temporary の初頭 /t/ に続く。2つの /t/ が接続"
+          ],
+          "kana": "ディス イズ ザ モースト テンパラリ ベース アイヴ エヴァー ビルト イン マインクラフト"
+        },
+        {
+          "en": "Dirt is the most temporary building material you can find.",
+          "ja": "土は、あなたが見つけることができる最も一時的な建築材料です。",
+          "ipa": "/ˈdɝt ɪz ðə ˈmoʊst ˈtɛmpəreri ˈbɪldɪŋ məˈtɪriəl ju kən ˈfaɪnd/",
+          "linking": [
+            "is は弱形 /ɪz/、the は弱形 /ðə/",
+            "can は助動詞で弱形 /kən/。find は /aɪnd/ で終わる"
+          ],
+          "kana": "ダート イズ ザ モースト テンパラリ ビルディング マテリアル ユー カン ファインド"
+        }
+      ]
+    }
   ]
 }

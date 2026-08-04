@@ -56,5 +56,37 @@
       ],
       "kana": "ウェン ザ クリーパー ディストロイド アワー ファーム ザ シルヴァー ライニング ワズ ファインディング ダイアモンズ ニアバイ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "silvers",
+      "ipa": "/ˈsɪlvɚz/",
+      "examples": [
+        {
+          "en": "I mined several silvers from the cave and brought them back to the base.",
+          "ja": "洞窟で何個かのシルバーを採掘して、ベースに持ち帰った。",
+          "ipa": "/aɪ ˈmaɪnd ˈsɛvɚəl ˈsɪlvɚz frəm ðə ˈkeɪv ənd brɔːt ðəm bæk tə ðə ˈbeɪs/",
+          "linking": [
+            "cave の /v/ が and の弱形 /ə/ に連結して [ˈkeɪvənd] ケイヴァン",
+            "back の語末 /k/ が未開放で to の弱形 /tə/ に続く [bæk̚tə] バッター",
+            "機能語 the、and、them、to は弱形により音の軽化"
+          ],
+          "kana": "アイ マインド セヴラル スィルヴァーズ フラム ザ ケイヴァン ブロート ザム バッター ザ ベイス"
+        },
+        {
+          "en": "The silvers glowed brightly under the moonlight in my inventory.",
+          "ja": "インベントリーのシルバーが月明かりの下で輝いていた。",
+          "ipa": "/ðə ˈsɪlvɚz ɡloʊd ˈbraɪɾli ˈʌndɚ ðə ˈmuːnlaɪt ɪn maɪ ɪnˈvɛntəri/",
+          "linking": [
+            "brightly の t がフラップ化して [ˈbraɪɾli] ブライラ",
+            "the は機能語として弱形 /ðə/ に弱化（2回）",
+            "moonlight の t が未開放で in に続く [ˈmuːnlaɪt̚ ɪn] ムーンライッ イン"
+          ],
+          "kana": "ザ スィルヴァーズ グロウド ブライラ アンダー ザ ムーンライッ イン マイ インヴェンタリー"
+        }
+      ]
+    }
   ]
 }

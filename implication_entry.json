@@ -72,5 +72,38 @@
       ],
       "kana": "バイ イムプリケイション イフ ユー ドウント メインテイン ユアー ベイス イット ウィル フォール ア パート"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "implications",
+      "ipa": "/ˌɪmpləˈkeɪʃənz/",
+      "examples": [
+        {
+          "en": "These redstone design implications suggest we need a completely different power source.",
+          "ja": "これらのレッドストーン設計の含意は、完全に異なる電源が必要であることを示唆しています。",
+          "ipa": "/ðiːz ˈrɛdˌstoʊn dɪˈzaɪn ˌɪmpləˈkeɪʃənz səˈdʒɛst wiː ˈniːdə kəmˈpliːtli ˈdɪfrənt ˈpaʊər sɔrs/",
+          "linking": [
+            "need a → need の /d/ が a の /ə/ に連結 [ˈniːdə] ニーダ",
+            "suggest → /t/ 未開放で次の we に続く",
+            "redstone → 強勢音で発音 [ˈrɛdˌstoʊn]、次の design に自然につながる"
+          ],
+          "kana": "ジーズ レッドストゥーン ディザイン イムプリケイションズ サジェスト ウィー ニーダ カムプリートリー ディフラント パワー ソース"
+        },
+        {
+          "en": "The implications of building in this biome affect whether the structure will survive Creeper explosions.",
+          "ja": "このバイオームに建設することの含意は、構造がクリーパーの爆発に耐えるかどうかに影響します。",
+          "ipa": "/ðə ˌɪmpləˈkeɪʃənz əv ˈbɪldɪŋ ɪn ðɪs baɪˈoʊm əˈfɛkt ˈwɛðər ðə ˈstrʌktʃər wɪl sərˈvaɪv ˈkriːpər ɪkˈsploʊʒənz/",
+          "linking": [
+            "the → 弱形 /ðə/ ザ、implications の /ɪ/ に続く",
+            "of → 弱形 /əv/ アヴ",
+            "biome の末尾 /m/ が affect の /ə/ に連結 [baɪˈoʊməˈfɛkt] バイオーマ フェクト",
+            "structure の /r/ が will の /w/ に連結できないが、語末音として聞こえる"
+          ],
+          "kana": "ザ イムプリケイションズ アヴ ビルディング イン ディス バイオーマ フェクト ウェザー ザ ストラクチャー ウィル サーヴァイヴ クリーパー イクスプロージョンズ"
+        }
+      ]
+    }
   ]
 }

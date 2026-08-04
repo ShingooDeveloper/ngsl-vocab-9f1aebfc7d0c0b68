@@ -157,6 +157,94 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is agreeing",
+      "ipa": "/ɪz əˈɡriːɪŋ/",
+      "examples": [
+        {
+          "en": "The builders are agreeing on the next phase of construction.",
+          "ja": "建築者たちは建設の次のフェーズについて合意を形成しています。",
+          "ipa": "/ðə ˈbɪldərz ɑr əˈɡriːɪŋ ɑn ðə nɛkst feɪz əv kənˈstrʌkʃən/",
+          "kana": "ザ ビルダーズ アー アグリーイング オン ザ ネクスト フェーズ アヴ カンストラクション",
+          "linking": [
+            "are agreeing: are の語末 /r/ が agreeing の初頭母音 /ə/ に連結 [ɑrəˈɡriːɪŋ] アラグリーイング",
+            "the は弱形 /ðə/。next に先立つ",
+            "of は弱形 /əv/。construction に先立つ"
+          ]
+        },
+        {
+          "en": "She is agreeing with the settlement plan at the moment.",
+          "ja": "彼女は現在、和解計画に同意しています。",
+          "ipa": "/ʃi ɪz əˈɡriːɪŋ wɪð ðə ˈsɛtəlmənt plæn æt ðə ˈmoʊmənt/",
+          "kana": "シー イズ アグリーイング ウィズ ザ セットルメント プラン アット ザ モーメント",
+          "linking": [
+            "is agreeing: is の語末 /z/ が agreeing の初頭母音 /ə/ に連結 [ɪzəˈɡriːɪŋ] イザグリーイング",
+            "the は弱形 /ðə/。settlement に先立つ、moment に先立つ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was agreeing",
+      "ipa": "/wəz əˈɡriːɪŋ/",
+      "examples": [
+        {
+          "en": "They were agreeing on the rules when a creeper appeared.",
+          "ja": "クリーパーが現れた時、彼らはルールについて合意していました。",
+          "ipa": "/ðeɪ wɛr əˈɡriːɪŋ ɑn ðə rulz wɛn ə ˈkripər əˈpɪrd/",
+          "kana": "ザイ ウェア アグリーイング オン ザ ルールズ ウェン ア クリーパー アピアード",
+          "linking": [
+            "were agreeing: were の語末 /r/ が agreeing の初頭母音 /ə/ に連結 [wɛrəˈɡriːɪŋ] ウェラグリーイング",
+            "the は弱形 /ðə/。rules に先立つ",
+            "a は弱形 /ə/。creeper に連結 [əˈkripər] アクリーパー"
+          ]
+        },
+        {
+          "en": "We were agreeing about resource sharing before the disaster.",
+          "ja": "災害の前に、私たちはリソース共有について合意していました。",
+          "ipa": "/wi wɛr əˈɡriːɪŋ əˈbaʊt rɪˈsɔrs ˈʃɛrɪŋ bɪˈfɔr ðə dɪˈzæstər/",
+          "kana": "ウィ ウェア アグリーイング アバウト リソース シェアリング ビフォア ザ ディザスター",
+          "linking": [
+            "were agreeing: were の語末 /r/ が agreeing の初頭母音 /ə/ に連結 [wɛrəˈɡriːɪŋ] ウェラグリーイング",
+            "the は弱形 /ðə/。disaster に先立つ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been agreeing",
+      "ipa": "/həd bɪn əˈɡriːɪŋ/",
+      "examples": [
+        {
+          "en": "They had been agreeing on the design for weeks.",
+          "ja": "彼らは何週間もデザインについて合意形成をしていました。",
+          "ipa": "/ðeɪ həd bɪn əˈɡriːɪŋ ɑn ðə dɪˈzaɪn fɔr wiks/",
+          "kana": "ザイ ハド ビン アグリーイング オン ザ ディザイン フォア ウィークス",
+          "linking": [
+            "had been agreeing: had は弱形 /həd/、been は弱形 /bɪn/。been の語末 /n/ が agreeing の初頭母音 /ə/ に連結 [bɪnəˈɡriːɪŋ] ビナグリーイング",
+            "the は弱形 /ðə/。design に先立つ",
+            "for は弱形 /fər/。weeks に先立つ"
+          ]
+        },
+        {
+          "en": "We had been agreeing to the terms when the server crashed.",
+          "ja": "サーバーがクラッシュした時、私たちは条件に同意形成をしていました。",
+          "ipa": "/wi həd bɪn əˈɡriːɪŋ tə ðə tɜrmz wɛn ðə ˈsɜrvər kræʃt/",
+          "kana": "ウィ ハド ビン アグリーイング タ ザ タームズ ウェン ザ サーバー クラッシュド",
+          "linking": [
+            "had been agreeing: had は弱形 /həd/、been は弱形 /bɪn/。been の語末 /n/ が agreeing の初頭母音 /ə/ に連結 [bɪnəˈɡriːɪŋ] ビナグリーイング",
+            "to は弱形 /tə/。the は弱形 /ðə/。terms に先立つ",
+            "when the: the は弱形 /ðə/。server に先立つ"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [

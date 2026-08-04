@@ -44,6 +44,36 @@
       "kana": "ウィ ビルタ ウィル アウ ラヴ ストーン ブラックス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "wheels",
+      "ipa": "/ˈwiːlz/",
+      "examples": [
+        {
+          "en": "I need four wheels to craft a minecart.",
+          "ja": "マインカートをクラフトするには4つのホイールが必要です。",
+          "ipa": "/aɪ ˈniːd ˈfoʊr ˈwiːlz tə ˈkɹæft ə ˈmaɪnˌkɑrt/",
+          "linking": [
+            "wheels to → /z/ が /ə/ に連結 [ˈwiːlzə] ウィールザ。to は弱形 /tə/",
+            "craft a → 語末子音 /t/ が /ə/ に連結 [ˈkɹæftə] クラフタ"
+          ],
+          "kana": "アイ ニード フォー ウィールザ タ クラフタ マインカート"
+        },
+        {
+          "en": "I need to install wheels on my minecart before mining.",
+          "ja": "採掘する前に、マインカートにホイールを取り付ける必要があります。",
+          "ipa": "/aɪ ˈniːd tə ɪnˈstɑl ˈwiːlz ɑn maɪ ˈmaɪnˌkɑrt bɪˈfoʊr ˈmaɪnɪŋ/",
+          "linking": [
+            "need to → /d/ が /ə/ に連結 [ˈniːdə] ニーダ。to は弱形 /tə/",
+            "wheels on → /z/ が /ɑ/ に連結 [ˈwiːlz ɑn] ウィールズ オン"
+          ],
+          "kana": "アイ ニーダ タ インスタール ウィールズ オン マイ マインカート ビフォア マイニング"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "spinning wheel",

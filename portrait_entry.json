@@ -42,6 +42,37 @@
       "kana": "ポートレイツ ア ファイマス プレイアーズ デコレット ザ ウォール"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "portraits",
+      "ipa": "/ˈpɔrtrəts/",
+      "examples": [
+        {
+          "en": "I hung several portraits of famous explorers on the gallery wall.",
+          "ja": "私は有名な探検家の複数の肖像画をギャラリーの壁に掛けました。",
+          "ipa": "/aɪ hʌŋ ˈsɛvərəl ˈpɔrtrəts əv ˈfeɪməs ɪkˈsplɔrərz ɑn ðə ˈɡæləri wɔl/",
+          "linking": [
+            "portraits の末 /ts/ が of の母音 /ə/ に続く [tsə]",
+            "of は弱形 /əv/",
+            "the の弱形 /ðə/"
+          ],
+          "kana": "アイ ハング セベラル ポートレッツァ ファイマス イクスプローラーズ オン ザ ガラリー ウォール"
+        },
+        {
+          "en": "These portraits show the builders and heroes who made history.",
+          "ja": "これらの肖像画は、歴史を作ったビルダーとヒーローを表しています。",
+          "ipa": "/ðiz ˈpɔrtrəts ʃoʊ ðə ˈbɪldərz ənd ˈhɪroʊz huː meɪd ˈhɪstəri/",
+          "linking": [
+            "the の弱形 /ðə/",
+            "who の末 /u/ は母音なので made との間に連結なし"
+          ],
+          "kana": "ディーズ ポートレッツ ショウ ザ ビルダーズ アン ヒーローズ フー メイド ヒストリー"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "self-portrait",

@@ -44,5 +44,100 @@
       "kana": "クリーパーズ コンスーマ ラーラヴ ドゥラビリティ フラマウ アーマー"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "consumes",
+      "ipa": "/kənˈsuːmz/",
+      "examples": [
+        {
+          "en": "A furnace consumes fuel slowly if not supplied.",
+          "ja": "かまどは供給されない場合、ゆっくり燃料を消費する。",
+          "ipa": "/ə ˈfɜːrnɪs kənˈsuːmz ˈfjuːəl ˈsloʊli ɪf nɑt səˈplaɪd/",
+          "linking": [],
+          "kana": "ア ファーニス コンスームズ フューエル スロウリ イフ ナット サプライド"
+        },
+        {
+          "en": "This enchantment consumes durability from tools.",
+          "ja": "この魔法はツールから耐久性を消費する。",
+          "ipa": "/ðɪs ɪnˈtʃɑːntmənt kənˈsuːmz ˌdʊrəˈbɪləti frəm ˈtuːlz/",
+          "linking": [],
+          "kana": "ディス インチャントメント コンスームズ ドゥラビリティ フラム トゥールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "consumed",
+      "ipa": "/kənˈsuːmd/",
+      "examples": [
+        {
+          "en": "The creeper consumed my wooden house.",
+          "ja": "クリーパーが木造の家を消費した。",
+          "ipa": "/ðə ˈkriːpər kənˈsuːmd maɪ ˈwʊdən ˈhaʊs/",
+          "linking": [],
+          "kana": "ザ クリーパー コンスームド マイ ウッデン ハウス"
+        },
+        {
+          "en": "That furnace consumed all our coal.",
+          "ja": "そのかまどは石炭をすべて消費した。",
+          "ipa": "/ðæt ˈfɜːrnɪs kənˈsuːmd ɔːl ˈaʊər ˈkoʊl/",
+          "linking": [
+            "consumed all で語末子音 /d/ が母音 /ɔ/ に連結",
+            "all our で語末子音 /l/ が母音 /aʊ/ に連結"
+          ],
+          "kana": "ザット ファーニス コンスームド オール アウア コウル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "consumed",
+      "ipa": "/kənˈsuːmd/",
+      "examples": [
+        {
+          "en": "I've consumed half the food supplies.",
+          "ja": "食料供給の半分を消費した。",
+          "ipa": "/aɪv kənˈsuːmd ˈhæf ðə ˈfuːd səˈplaɪz/",
+          "linking": [],
+          "kana": "アイヴ コンスームド ハーフ ザ フード サプライズ"
+        },
+        {
+          "en": "All resources have been consumed for crafting.",
+          "ja": "クラフト用にすべてのリソースが消費された。",
+          "ipa": "/ɔːl ˈrɛsɔːrsɪz həv bɪn kənˈsuːmd fɔːr ˈkræftɪŋ/",
+          "linking": [],
+          "kana": "オール リソーシーズ ハヴ ビン コンスームド フォア クラフティング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "consuming",
+      "ipa": "/kənˈsuːmɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs are consuming our wheat farm.",
+          "ja": "モブが私たちの小麦農場を消費している。",
+          "ipa": "/ðə ˈmoʊbz ɑːr kənˈsuːmɪŋ ˈaʊər ˈwiːt ˈfɑːrm/",
+          "linking": [
+            "mobs are で語末子音 /z/ が母音 /ɑ/ に連結"
+          ],
+          "kana": "ザ モウブズ アー コンスーミング アウア ウィート ファーム"
+        },
+        {
+          "en": "This haste effect is consuming hunger points quickly.",
+          "ja": "このスピード効果は急速に空腹ゲージを消費している。",
+          "ipa": "/ðɪs ˈheɪst ɪˈfɛkt ɪz kənˈsuːmɪŋ ˈhʌŋɡər ˈpɔɪnts ˈkwɪkli/",
+          "linking": [],
+          "kana": "ディス ヘイスト イフェクト イズ コンスーミング ハンガー ポインツ クイックリ"
+        }
+      ]
+    }
+  ]
 }

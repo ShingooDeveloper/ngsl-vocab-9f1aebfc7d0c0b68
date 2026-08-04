@@ -60,5 +60,34 @@
       ],
       "kana": "ザ カスタマヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "examples": [
+        {
+          "en": "Community customs keep our server safe.",
+          "ja": "コミュニティの習慣は私たちのサーバーを安全に保ちます。",
+          "ipa": "[kəmˈjunəti ˈkʌstəmz kɪp ˈaʊɚ ˈsɚvɚ seɪf]",
+          "linking": [
+            "keep our: /p/ が /aʊ/ に連結 [kɪˈpaʊɚ]。"
+          ],
+          "kana": "コミュニティ カスタムズ キープ アワー サーバー セーフ"
+        },
+        {
+          "en": "These customs of the server protect us all.",
+          "ja": "このサーバーのこれらの習慣は私たち全員を守ります。",
+          "ipa": "[ðiz ˈkʌstəmz əv ðə ˈsɚvɚ prəˈtɛkt əz ɔl]",
+          "linking": [
+            "customs of: /z/ が /ə/ (of の弱形) に連結 [ˈkʌstəmzəv]。",
+            "protect us: /t/ が /ə/ に連結、フラップ化 [prəˈtɛkɾəz]。"
+          ],
+          "kana": "ディーズ カスタムズ アヴ ザ サーバー プロテクラズ オール"
+        }
+      ]
+    }
   ]
 }

@@ -82,5 +82,67 @@
       ],
       "kana": "ユアー ラッキー タ スポーン イン ア フォリスト バイオム"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "luckier",
+      "ipa": "/ˈlʌkiər/",
+      "examples": [
+        {
+          "en": "I feel luckier when I find diamonds deep underground.",
+          "ja": "地下深くでダイヤモンドを見つけたとき、私はより幸運だと感じます。",
+          "ipa": "/aɪ fiːl ˈlʌkiər wɛn aɪ faɪnd ˈdaɪəməndz ˈdiːp ʌndərˈɡraʊnd/",
+          "linking": [
+            "find diamonds → find の末子音 /d/ が diamonds の初頭 /d/ に未開放で接続 [faɪn̚ ˈdaɪ] ファイン ダイモンズ",
+            "when は弱形 /wən/",
+            "deep underground → deep の末 /p/ が underground の /ʌ/ に連結 [ˈdiːpʌn] ディープ アンダー"
+          ],
+          "kana": "アイ フィール ラッキアー ウェン アイ ファイン ダイモンズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "Mining gets luckier when you have a good pickaxe.",
+          "ja": "良いツルハシを持つとき、マイニングはより幸運になります。",
+          "ipa": "/ˈmaɪnɪŋ ɡɛts ˈlʌkiər wɛn juː hæv ə ɡʊd ˈpɪkˌæks/",
+          "linking": [
+            "have a → have の末子音 /v/ が a の弱形 /ə/ に連結 [hæv ə] ハヴ ア",
+            "when は弱形 /wən/",
+            "a good → a は弱形 /ə/"
+          ],
+          "kana": "マイニング ゲッツ ラッキアー ウェン ユー ハヴ ア グッド ピックアックス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "luckiest",
+      "ipa": "/ˈlʌkiəst/",
+      "examples": [
+        {
+          "en": "That was the luckiest moment when I found a stronghold.",
+          "ja": "要塞を見つけたとき、それが最も幸運な瞬間でした。",
+          "ipa": "/ðæt wəz ðə ˈlʌkiəst ˈmoʊmənt wɛn aɪ faʊnd ə ˈstrɔŋhoʊld/",
+          "linking": [
+            "was the → was の末 /z/ が the の弱形 /ðə/ に連結 [wəz ðə] ワズ ザ",
+            "found a → found の末子音 /d/ が a の弱形 /ə/ に連結 [faʊndə] ファウンダ",
+            "when は弱形 /wən/"
+          ],
+          "kana": "ザット ワズ ザ ラッキエスト モーメント ウェン アイ ファウンダ ストロングホールド"
+        },
+        {
+          "en": "The luckiest players find diamonds on their first day.",
+          "ja": "最も幸運なプレイヤーは、初日にダイヤモンドを見つけます。",
+          "ipa": "/ðə ˈlʌkiəst ˈpleɪərz faɪnd ˈdaɪəməndz ɑːn ðɛr fɝːst deɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "find diamonds → find の末子音 /d/ が diamonds の初頭 /d/ に未開放で接続 [faɪn̚ ˈdaɪ]",
+            "players find → players の末 /z/ が find の初頭 /f/ に...子音+子音で連結なし"
+          ],
+          "kana": "ザ ラッキエスト プレイヤーズ ファイン ダイモンズ オン ザール ファースト デイ"
+        }
+      ]
+    }
   ]
 }

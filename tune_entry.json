@@ -66,5 +66,155 @@
       ],
       "kana": "レット ミ チューン アップ マイ イクィップメント ビフォア アイ ゴー マイニング"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "tunes",
+      "ipa": "/ˈtjuːnz/",
+      "examples": [
+        {
+          "en": "She tunes each note block carefully to create perfect harmony.",
+          "ja": "彼女は各ノートブロックを慎重にチューニングして完全な調和を作ります。",
+          "ipa": "/ʃi ˈtjuːnz itʃ ˈnoʊt blɑk ˈkɛrfəli tə kriˈeɪt ˈpɝːfɪkt ˈhɑrməni/",
+          "linking": [
+            "each note → /tʃ/ + /n/ (consonant+consonant、連結なし)",
+            "to create → to は弱形 /tə/ で create に続く"
+          ],
+          "kana": "シー チューンズ イッチ ノート ブロック ケアフリー タ クリエイト パーフェクト ハーモニー"
+        },
+        {
+          "en": "He tunes his redstone circuits with precision every morning.",
+          "ja": "彼は毎朝正確さでレッドストーン回路をチューニングします。",
+          "ipa": "/hi ˈtjuːnz hɪz ˈrɛdˌstoʊn ˈsɝːkɪts wɪð prɪˈsɪʒən ˈɛvri ˈmɔːrnɪŋ/",
+          "linking": [
+            "his redstone → /z/ + /r/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヒー チューンズ ヒズ レッドストーン サーキッツ ウィズ プリシジョン エブリー モーニング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "tuned",
+      "ipa": "/ˈtjuːnd/",
+      "examples": [
+        {
+          "en": "I tuned the note block yesterday and created a beautiful melody.",
+          "ja": "昨日ノートブロックをチューニングして美しいメロディーを作りました。",
+          "ipa": "/aɪ ˈtjuːnd ðə ˈnoʊt blɑk ˈjɛstərˌdeɪ‿ənd kriˈeɪtɪd ə ˈbjuːtɪfəl ˈmɛlədi/",
+          "linking": [
+            "tuned the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "yesterday and → yesterday の /eɪ/ と and の弱形 /ənd/ が連結 [ˈjɛstərˌdeɪ‿ənd] イエスタデイ アンド",
+            "created a → /d/ + /ə/ が連結、a は弱形 /ə/ [kriˈeɪtɪd ə] クリエイティド ア"
+          ],
+          "kana": "アイ チューンド ザ ノート ブロック イエスタデイ アンド クリエイティド ア ビューティフル メロディー"
+        },
+        {
+          "en": "After we tuned all the instruments, the concert performance sounded perfect.",
+          "ja": "すべての楽器をチューニング後、コンサート演奏は完璧に聞こえました。",
+          "ipa": "/ˈæftər wi ˈtjuːnd ˈɔːl ðə ˈɪnstrəmənts | ðə ˈkɑːnsərt pərˈfɔːrməns ˈsaʊndɪd ˈpɝːfɪkt/",
+          "linking": [
+            "after の r が we に続く（子音+子音、連結なし）[ˈæftər wi] アフター ウィー",
+            "all の l が the に続く（子音+子音、連結なし）、the は弱形 /ðə/ [ˈɔːl ðə] オール ザ",
+            "sounded の d が perfect に未開放で続く [ˈsaʊndɪd ˈpɝːfɪkt] サウンディド パーフェクト"
+          ],
+          "kana": "アフター ウィー チューンド オール ザ インストルメンツ、ザ コンサート パフォーマンス サウンディド パーフェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "tuned",
+      "ipa": "/ˈtjuːnd/",
+      "examples": [
+        {
+          "en": "The tuned note block sequence resonated through the entire concert hall.",
+          "ja": "チューニングされたノートブロックシーケンスがコンサートホール全体に共鳴しました。",
+          "ipa": "/ðə ˈtjuːnd ˈnoʊt blɑk ˈsikwəns ˈrɛzənˌeɪtɪd θruː ðə ɪnˈtaɪər ˈkɑːnsərt ˈhɔːl/",
+          "linking": [
+            "resonated through → /d/ + /θ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザ チューンド ノート ブロック シークエンス レゾネイティド スルー ザ インタイアー コンサート ホール"
+        },
+        {
+          "en": "Having tuned my redstone circuits, I was able to complete the automated farm.",
+          "ja": "レッドストーン回路をチューニングした後、自動農場を完成させることができました。",
+          "ipa": "/ˈheɪvɪŋ ˈtjuːnd maɪ ˈrɛdˌstoʊn ˈsɝːkɪts | aɪ wəz ˈeɪbəl tə kəmˈplit ðə ˈɔːtəˌmeɪtɪd ˈfɑːrm/",
+          "linking": [
+            "Having tuned → /ŋ/ + /t/ (consonant+consonant、連結なし)",
+            "my redstone → /aɪ/ + /r/ が連結 [maɪ ˈrɛdˌstoʊn] マイ レッドストーン",
+            "to complete → to は弱形 /tə/、complete に続く"
+          ],
+          "kana": "ハヴィング チューンド マイ レッドストーン サーキッツ、アイ ワズ エイバル タ コンプリート ザ オートメイティド ファーム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "tuning",
+      "ipa": "/ˈtjuːnɪŋ/",
+      "examples": [
+        {
+          "en": "Tuning note blocks requires patience and a good ear for music and sound.",
+          "ja": "ノートブロックのチューニングには忍耐と音感が必要です。",
+          "ipa": "/ˈtjuːnɪŋ ˈnoʊt ˈblɑks rɪˈkwaɪərz ˈpeɪʃəns‿ənd ə ˈɡʊd ˈɪr fɚ ˈmjuːzɪk‿ənd ˈsaʊnd/",
+          "linking": [
+            "Tuning note → /ŋ/ + /n/ (consonant+consonant、連結なし)",
+            "patience and → /s/ + /ə/ が連結、and は弱形 /ənd/ [ˈpeɪʃəns‿ənd] ペイシェンス アンド",
+            "music and → /k/ + /ə/ が連結、and は弱形 /ənd/ [ˈmjuːzɪk‿ənd] ミュージック アンド"
+          ],
+          "kana": "チューニング ノート ブロックス リクワイアーズ ペイシェンス アンド ア グッド イアー ファー ミュージック アンド サウンド"
+        },
+        {
+          "en": "While tuning the redstone circuits, I realized they needed additional adjustments.",
+          "ja": "レッドストーン回路をチューニングしながら、追加の調整が必要だと気づきました。",
+          "ipa": "/waɪl ˈtjuːnɪŋ ðə ˈrɛdˌstoʊn ˈsɝːkɪts | aɪ ˈrɪəˌlaɪzd ðeɪ ˈnidɪd əˈdɪʃənəl əˈdʒʌstmənts/",
+          "linking": [
+            "While tuning → /l/ + /t/ (consonant+consonant、連結なし)",
+            "tuning the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "circuits I → /s/ + /aɪ/ が連結 [ˈsɝːkɪts aɪ] サーキッツ アイ",
+            "realized they → /d/ + /ð/ (consonant+consonant、連結なし)",
+            "needed additional → /d/ + /ə/ が連結、additional は /əˈdɪʃənəl/ [ˈnidɪd əˈdɪʃənəl] ニーディド アディショナル"
+          ],
+          "kana": "ワイル チューニング ザ レッドストーン サーキッツ、アイ リアライズド ゼイ ニーディド アディショナル アジャストメンツ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "tunes",
+      "ipa": "/ˈtjuːnz/",
+      "examples": [
+        {
+          "en": "I discovered several melodies that sound like different tunes for note blocks.",
+          "ja": "ノートブロック用の異なるメロディーとして聞こえる複数の曲を発見しました。",
+          "ipa": "/aɪ dɪˈskʌvərd ˈsɛvrəl ˈmɛləˌdiz ðæt saʊnd laɪk ˈdɪfərənt̚ ˈtjuːnz fɚ noʊt blɑks/",
+          "linking": [
+            "discovered several → /d/ + /s/ (consonant+consonant、連結なし)",
+            "that sound → /t/ + /s/ (consonant+consonant、連結なし)",
+            "different tunes → /t/ が未開放、次の /t/ に連接。1つの /t/ に聞こえます [ˈdɪfərənt̚ ˈtjuːnz] ディファレント チューンズ",
+            "for note → /r/ + /n/ (consonant+consonant、連結なし)、for は弱形 /fɚ/"
+          ],
+          "kana": "アイ ディスカバード セヴラル メロディーズ ザット サウンド ライク ディファレント チューンズ ファー ノート ブロックス"
+        },
+        {
+          "en": "The jukebox plays different tunes depending on which disc you insert.",
+          "ja": "ジュークボックスは挿入するディスクに応じて異なる曲を再生します。",
+          "ipa": "/ðə ˈdʒuːkˌbɑks pleɪz ˈdɪfərənt̚ ˈtjuːnz dɪˈpɛndɪŋ ɑn wɪtʃ dɪsk ju ɪnˈsɝt/",
+          "linking": [
+            "plays different → /z/ + /d/ (consonant+consonant、連結なし)",
+            "different tunes → /t/ が未開放、次の /t/ に連接。1つの /t/ に [ˈdɪfərənt̚ ˈtjuːnz] ディファレント チューンズ",
+            "depending on → /ŋ/ + /ɑ/ が連結 [dɪˈpɛndɪŋ ɑn] ディペンディング オン"
+          ],
+          "kana": "ザ ジュークボックス プレイズ ディファレント チューンズ ディペンディング オン ウィッチ ディスク ユー インサート"
+        }
+      ]
+    }
   ]
 }

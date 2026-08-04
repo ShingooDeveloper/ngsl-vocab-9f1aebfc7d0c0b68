@@ -1,0 +1,298 @@
+{
+  "word": "worry",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ˈwɝi/",
+  "rank": 1089,
+  "level": "A2",
+  "hi": "worry|worries|worried|worrying",
+  "meanings": [
+    "【動詞】心配する、悩む（anxious or concerned about something）",
+    "【動詞】（～に）心労を与える、気がかりにさせる（cause someone to feel anxious）",
+    "【名詞】心配事、懸念、悩みの種（a thing that causes concern or anxiety）",
+    "【名詞】（people 等の主語で）心配している人たちの様子"
+  ],
+  "examples": [
+    {
+      "en": "Don't worry about creepers—I built strong walls around our base.",
+      "ja": "クリーパーのことについて心配するな。強い壁を基地の周りに建築した。",
+      "ipa": "/doʊnt ˈwɝi əˈbaʊt ˈkriːpərz | aɪ ˈbɪlt ˈstrɔŋ wɔlz əˈraʊnd ˈaʊr ˈbeɪs/",
+      "linking": [
+        "worry about → 語末子音 /i/ は母音だが、about との連結はなし",
+        "about creepers → 語末 /t/ が creepers /ˈkriːpərz/ の初頭 /k/ に続く（consonant+consonant）、linking なし",
+        "around our → /d/ + /ˈaʊr/ が連結 [əˈraʊnd ˈaʊr] ア ラウンド アワー"
+      ],
+      "kana": "ドウント ウェリー アバウト クリーパーズ、アイ ビルト ストロング ウォルズ アラウンド アワー ベイス"
+    },
+    {
+      "en": "I worry that our mining tunnel might connect with a lava lake.",
+      "ja": "採掘トンネルがラヴァ湖と繋がるかもしれないことが心配だ。",
+      "ipa": "/aɪ ˈwɝi ðæt ˈaʊər ˈmaɪnɪŋ ˈtʌnəl maɪt kəˈnɛkt wɪð ə ˈlɑvə ˈleɪk/",
+      "linking": [
+        "worry that → 語末の /i/ から that の /ð/ へ。that は弱形 /ðæt/。母音+子音で linking なし [ˈwɝi ðæt] ウェリー ザット",
+        "with a → /ð/ + /ə/ が連結 [wɪð ə] ウィザ"
+      ],
+      "kana": "アイ ウェリー ザット アワー マイニング タンネル マイト カネクト ウィザ ラヴァ レイク"
+    },
+    {
+      "en": "The worry on his face showed that the boss fight was going badly.",
+      "ja": "彼の顔の心配そうな表情は、ボス戦が悪くなってきていることを示していた。",
+      "ipa": "/ðə ˈwɝi ɑn hɪz ˈfeɪs ˈʃoʊd ðæt ðə ˈbɔs ˈfaɪt wəz ˈɡoʊɪŋ ˈbædli/",
+      "linking": [
+        "the worry → the は弱形 /ðə/、worry の初頭 /w/ と連結 [ðə ˈwɝi] ザ ウェリー",
+        "on his → /n/ + /h/ (consonant+consonant)、his は弱形 /hɪz/"
+      ],
+      "kana": "ザ ウェリー オン ヒズ フェイス、ショウド ザット ダ ボス ファイト ウァズ ゴーイング バッドリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "not to worry",
+      "ja": "心配するなよ、大丈夫だ",
+      "example": "Lost your diamonds? Not to worry—I have extras in my chest.",
+      "example_ja": "ダイヤモンドを失った？心配するなよ。余分なのをチェストに持ってるから。",
+      "ipa": "/nɑt tə ˈwɝi | aɪ ˈhæv ˈɛkstrəz ɪn maɪ ˈtʃɛst/",
+      "linking": [
+        "worry の弱形は通常 /ˈwɝi/ だが、to worry では to が弱形 /tə/",
+        "in my → /n/ + /m/ (consonant+consonant)"
+      ],
+      "kana": "ノット タ ウェリー、アイ ハブ エクストラズ イン マイ チェスト"
+    },
+    {
+      "idiom": "worry-free",
+      "ja": "心配のない、安心の",
+      "example": "Build a protected base for a worry-free experience.",
+      "example_ja": "保護された基地を建築して、安心のための体験を得る。",
+      "ipa": "/ˈbɪld ə prəˈtɛktɪd ˈbeɪs fɔr ə ˈwɝi-friː ɪkˈspɪriəns/",
+      "linking": [
+        "build a → /d/ + /ə/ が連結 [ˈbɪld ə] ビルド ア",
+        "a protected → a は弱形 /ə/"
+      ],
+      "kana": "ビルド ア プロテクティド ベイス フォー ア ウェリーフリー イクスペリエンス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "worries",
+      "ipa": "/ˈwɝiz/",
+      "examples": [
+        {
+          "en": "All these worries about mob attacks would disappear if we built a strong defensive wall.",
+          "ja": "モブ攻撃についてのこれらすべての心配は、強い防御壁を建築すれば消えるだろう。",
+          "ipa": "/ɔːl ðiz ˈwɝiz əˈbaʊt ˈmɑb əˈtæks wəd dɪsəˈpɪr ɪf wi ˈbɪlt ə ˈstrɔŋ dɪˈfɛnsɪv ˈwɔl/",
+          "linking": [
+            "all these → /l/ + /ð/ (consonant+consonant)、these は弱形 /ðiz/",
+            "worries about → worries /ˈwɝiz/ の末尾 /z/（子音）、about の初頭 /ə/（母音）で linking [ˈwɝiz əˈbaʊt]"
+          ],
+          "kana": "オール ディーズ ウェリーズ アバウト モブ アタックス、ウッド ディスアピア イフ ウィー ビルト ア ストロング ディフェンシヴ ウォール"
+        },
+        {
+          "en": "The main worries we have are creepers and water leaking into the mine.",
+          "ja": "我々が持つ主な懸念はクリーパーと鉱山への水漏れだ。",
+          "ipa": "/ðə ˈmeɪn ˈwɝiz wi ˈhæv ɑr ˈkriːpərz ənd ˈwɔːtər ˈliːkɪŋ ˈɪntu ðə ˈmaɪn/",
+          "linking": [
+            "worries we → /z/ + /w/ (consonant+consonant)、linking なし",
+            "into the → into の末尾 /u/（母音）、the の初頭 /ð/（子音）で linking なし"
+          ],
+          "kana": "ザ メイン ウェリーズ ウィー ハブ アー クリーパーズ アンド ウォーター リーキング イントゥ ザ マイン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "worries",
+      "ipa": "/ˈwɝiz/",
+      "examples": [
+        {
+          "en": "She worries that a skeleton might spawn inside her dark underground base.",
+          "ja": "彼女はスケルトンが彼女の暗い地下基地の中に出現するかもしれないと心配している。",
+          "ipa": "/ʃi ˈwɝiz ðæt ə ˈskɛlɪtn̩ maɪt spɔːn ɪnˈsaɪd hɚ ˈdɑrk ˌʌndɚˈɡraʊnd ˈbeɪs/",
+          "linking": [
+            "she worries → she の末尾 /i/（母音）、worries の初頭 /w/（子音）で linking なし",
+            "a skeleton → a は弱形 /ə/"
+          ],
+          "kana": "シー ウェリーズ ザット ア スケリトゥン マイト スポーン インサイド ハー ダーク アンダーグラウンド ベイス"
+        },
+        {
+          "en": "He doesn't worry about running out of food supplies at all.",
+          "ja": "彼は食料供給がなくなることについてまったく心配していない。",
+          "ipa": "/hi ˈdʌzənt ˈwɝi əˈbaʊt ˈrʌnɪŋ ˈaʊt əv ˈfuːd səˈplaɪz æt ɔːl/",
+          "linking": [
+            "doesn't worry → doesn't /ˈdʌzənt/ の末尾 /t/（子音）、worry の初頭 /w/（子音）で linking なし",
+            "out of → out の末尾 /t/（子音）、of の初頭 /ə/（母音）で linking [ˈaʊt əv]"
+          ],
+          "kana": "ヒー ダズント ウェリー アバウト ランニング アウト オヴ フード サプライズ アット オール"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "worried",
+      "ipa": "/ˈwɝid/",
+      "examples": [
+        {
+          "en": "I worried that the Wither boss would break through our stone walls.",
+          "ja": "ウィザーボスが石の壁を破ると心配していた。",
+          "ipa": "/aɪ ˈwɝid ðæt ðə ˈwɪðər ˈbɔs wəd ˈbreɪk θruː ˈaʊr stoʊn ˈwɔlz/",
+          "linking": [
+            "worried that → worried の末尾 /d/（子音）、that の初頭 /ð/（子音）で linking なし",
+            "through our → through の末尾 /u/（母音）、our の初頭 /aʊ/（母音）で linking なし"
+          ],
+          "kana": "アイ ウェリード ザット ダ ウィザー ボス ウッド ブレイク スルー アワー ストウン ウォルズ"
+        },
+        {
+          "en": "She worried about losing all her diamonds when mining deep in the cave.",
+          "ja": "洞窟の深いところで採掘するときに全てのダイヤモンドを失うことについて心配していた。",
+          "ipa": "/ʃi ˈwɝid əˈbaʊt ˈluːzɪŋ ɔːl hɚ ˈdaɪməndz ˈwɛn ˈmaɪnɪŋ ˈdip ɪn ðə ˈkeɪv/",
+          "linking": [
+            "worried about → worried の末尾 /d/（子音）、about の初頭 /ə/（母音）で linking [ˈwɝid əˈbaʊt]",
+            "all her → /l/ + /h/ (consonant+consonant)、her は弱形 /hɚ/"
+          ],
+          "kana": "シー ウェリード アバウト ルーズィング オール ハー ダイモンズ ホェン マイニング ディープ イン ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "worried",
+      "ipa": "/ˈwɝid/",
+      "examples": [
+        {
+          "en": "Having worried about every detail, we finally built a fortress nothing could destroy.",
+          "ja": "あらゆる細部について心配した結果、何も破壊できない砦をついに建築した。",
+          "ipa": "/ˈheɪvɪŋ ˈwɝid əˈbaʊt ˈɛvri dɪˈteɪl | wi ˈfaɪnəli ˈbɪlt ə ˈfɔrtəs ˈnʌθɪŋ kəd dɪsˈtɚɪ/",
+          "linking": [
+            "worried about → worried の末尾 /d/（子音）、about の初頭 /ə/（母音）で linking [ˈwɝid əˈbaʊt]",
+            "about every → about の末尾 /t/（子音）、every の初頭 /ɛ/（母音）で linking [əˈbaʊt ɛ]"
+          ],
+          "kana": "ハヴィング ウェリード アバウト エヴリー ディテイル、ウィー ファイナリー ビルト ア フォートレス ナッシング クッド ディストロイ"
+        },
+        {
+          "en": "The worried builder reinforced her base three times before feeling secure.",
+          "ja": "心配なビルダーは安心を感じる前に自分の基地を3回補強した。",
+          "ipa": "/ðə ˈwɝid ˈbɪldər ˌriːɪnˈfɔrst hɚ ˈbeɪs ˈθri ˈtaɪmz bɪˈfɔr ˈfilɪŋ sɪˈkjʊr/",
+          "linking": [
+            "the worried → the の末尾 /ə/（母音）、worried の初頭 /w/（子音）で linking なし",
+            "worried builder → /d/ + /b/ (consonant+consonant)、linking なし"
+          ],
+          "kana": "ザ ウェリード ビルダー リインフォースト ハー ベイス スリー タイムズ ビフォア フィーリング シキュア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "worrying",
+      "ipa": "/ˈwɝiɪŋ/",
+      "examples": [
+        {
+          "en": "Stop worrying about mobs and just start building your castle now!",
+          "ja": "モブについて心配するのをやめて、今すぐ城の建築を始めなさい！",
+          "ipa": "/ˈstɑp ˈwɝiɪŋ əˈbaʊt ˈmɑbz ənd dʒəst ˈstɑrt ˈbɪldɪŋ jɔr ˈkæsl̩ ˈnaʊ/",
+          "linking": [
+            "stop worrying → /p/ + /w/ (consonant+consonant)、linking なし",
+            "worrying about → worrying の末尾 /ŋ/（子音）、about の初頭 /ə/（母音）で linking される場合あり"
+          ],
+          "kana": "ストップ ウェリーイング アバウト モブズ アンド ジャスト スタート ビルディング ユア キャッスル ナウ"
+        },
+        {
+          "en": "We spent all night worrying that the base would catch fire from lava.",
+          "ja": "基地がラヴァから火に包まれるのではないかと懸念して、一晩中過ごした。",
+          "ipa": "/wi ˈspɛnt ɔːl ˈnaɪt ˈwɝiɪŋ ðæt ðə ˈbeɪs wəd ˈkætʃ ˈfaɪr ˈfrɑm ˈlɑvə/",
+          "linking": [
+            "night worrying → /t/ + /w/ (consonant+consonant)、linking なし",
+            "worrying that → /ŋ/ + /ð/ (consonant+consonant)、linking なし"
+          ],
+          "kana": "ウィー スペント オール ナイト ウェリーイング ザット ダ ベイス ウッド キャッチ ファイア フラム ラヴァ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is worrying",
+      "ipa": "/ɪz ˈwɝiɪŋ/",
+      "examples": [
+        {
+          "en": "She is worrying about whether the Creeper just destroyed her favorite building.",
+          "ja": "クリーパーが彼女のお気に入りの建物を破壊したかどうかについて心配している。",
+          "ipa": "/ʃi ɪz ˈwɝiɪŋ əˈbaʊt ˈwɛðər ðə ˈkriːpər dʒəst dɪsˈtrɔɪd hɚ ˈfeɪvərɪt ˈbɪldɪŋ/",
+          "linking": [
+            "is は弱形 /ɪz/、子音+子音で連結なし"
+          ],
+          "kana": "シー イズ ウェリーイング アバウト ウェザー ザ クリーパー ジャスト ディストロイド ハー フェイヴァリット ビルディング"
+        },
+        {
+          "en": "They are worrying too much about running out of diamonds while mining.",
+          "ja": "採掘中にダイヤモンドがなくなることについて彼らは気にしすぎている。",
+          "ipa": "/ðeɪ ɑr ˈwɝiɪŋ tu ˈmʌtʃ əˈbaʊt ˈrʌnɪŋ ˈaʊt əv ˈdaɪməndz ˈwaɪl ˈmaɪnɪŋ/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "much の末尾 /tʃ/ が about の /ə/（母音）に連結"
+          ],
+          "kana": "ザイ アー ウェリーイング トゥー マッチ アバウト ランニング アウト アヴ ダイモンズ ワイル マイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was worrying",
+      "ipa": "/wəz ˈwɝiɪŋ/",
+      "examples": [
+        {
+          "en": "We were worrying about a Wither attack while building our new fortress.",
+          "ja": "新しい砦を建築している間、ウィザー攻撃について心配していた。",
+          "ipa": "/wi wɚ ˈwɝiɪŋ əˈbaʊt ə ˈwɪðər əˈtæk ˈwaɪl ˈbɪldɪŋ ˈaʊr nu ˈfɔrtəs/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "about の末尾 /t/ が a の /ə/（母音）に連結"
+          ],
+          "kana": "ウィー ワー ウェリーイング アバウト ア ウィザー アタック ワイル ビルディング アワー ニュー フォートレス"
+        },
+        {
+          "en": "He was worrying that the zombies might break through the wooden door.",
+          "ja": "ゾンビが木製ドアを破る可能性があることについて彼は心配していた。",
+          "ipa": "/hi wəz ˈwɝiɪŋ ðæt ðə ˈzɑmbiz maɪt ˈbreɪk θruː ðə ˈwʊdən ˈdɔr/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "worrying that → 子音+子音、linking なし"
+          ],
+          "kana": "ヒー ワズ ウェリーイング ザット ザ ゾンビーズ マイト ブレイク スルー ザ ウッデン ドア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been worrying",
+      "ipa": "/əd bɪn ˈwɝiɪŋ/",
+      "examples": [
+        {
+          "en": "He had been worrying about the cave system's danger before he finally explored it.",
+          "ja": "彼がついに探検するまで、洞窟システムの危険性について心配し続けていた。",
+          "ipa": "/hi əd bɪn ˈwɝiɪŋ əˈbaʊt ðə ˈkeɪv ˈsɪstəmz ˈdeɪndʒər bɪˈfɔr hi ˈfaɪnəli ɪkˈsplɔrd ɪt/",
+          "linking": [
+            "had は弱形 /əd/、been は弱形 /bɪn/"
+          ],
+          "kana": "ヒー ド ビン ウェリーイング アバウト ザ ケイブ システムズ デインジャー ビフォア ヒー ファイナリー イクスプロアド イット"
+        },
+        {
+          "en": "We had been worrying for hours that the Ender Dragon would escape our arena.",
+          "ja": "エンダードラゴンが我々のアリーナから脱出することについて何時間も心配し続けていた。",
+          "ipa": "/wi əd bɪn ˈwɝiɪŋ fɔr ˈaʊərz ðæt ðə ˈɛndər ˈdreɪɡən wəd ɪsˈkeɪp ˈaʊr əˈrinə/",
+          "linking": [
+            "had は弱形 /əd/、been は弱形 /bɪn/",
+            "for の末尾 /r/ が hours の /aʊ/（母音）に連結"
+          ],
+          "kana": "ウィー ド ビン ウェリーイング ファー アワーズ ザット ザ エンダー ドレイガン ウッド イスケイプ アワー アリーナ"
+        }
+      ]
+    }
+  ]
+}

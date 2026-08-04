@@ -58,5 +58,35 @@
       ],
       "kana": "マイ アンカレナイ ファウンド ダイアモンズ ディープ アンダーグラウンド"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "uncles",
+      "ipa": "/ˈʌŋkəlz/",
+      "examples": [
+        {
+          "en": "My uncles are building a mine together.",
+          "ja": "おじさんたちが一緒に鉱山を建てています。",
+          "ipa": "/maɪ ˈʌŋkəlz ɑr ˈbɪldɪŋ ə maɪn təˈɡɛðər/",
+          "linking": [
+            "uncles の末尾複数 /z/ が are /ɑr/ に先行する",
+            "building の末尾 -ing /ŋ/ が a の弱形 /ə/ に先行；together は /təˈɡɛðər/"
+          ],
+          "kana": "マイ アンカルズ アー ビルディング ア マイン トゥゲザー"
+        },
+        {
+          "en": "Some uncles discovered diamonds deep underground.",
+          "ja": "何人かのおじさんが地下深くでダイヤモンドを発見しました。",
+          "ipa": "/səm ˈʌŋkəlz dɪˈskʌvərd ˈdaɪəmɑndz ˈdip ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "some は弱形 /səm/；uncles の /ʌ/ に接する [səm ˈʌŋkəlz] サム アンカルズ",
+            "discovered の末尾 /d/ が diamonds の /d/ に先行（子音+子音）"
+          ],
+          "kana": "サム アンカルズ ディスカバード ダイアモンズ ディープ アンダーグラウンド"
+        }
+      ]
+    }
   ]
 }

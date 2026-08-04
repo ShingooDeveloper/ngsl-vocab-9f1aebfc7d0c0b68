@@ -55,5 +55,37 @@
       ],
       "kana": "アイ ハヴ ノウ インテンション アヴ イクスプローリング ザット ケイヴ タナイト"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "intentions",
+      "ipa": "/ɪnˈtɛnʃənz/",
+      "examples": [
+        {
+          "en": "Our main intentions are to find diamonds and establish a safe base before nightfall.",
+          "ja": "私たちの主な意図は、夜間前にダイヤモンドを見つけて安全な基地を確立することです。",
+          "ipa": "[aʊr ˈmeɪn ɪnˈtɛnʃənz ər tə ˈfaɪnd ˈdaɪəmɑndz ənd ɪˈstæblɪʃ ə ˈseɪf ˈbeɪs bɪˈfoɚ ˈnaɪtfɔl]",
+          "linking": [
+            "intentions are - 語末子音 /z/ が弱形 /ə/ に連結 [ɪnˈtɛnʃənz ə] インテンションズア",
+            "are to - are 弱形 /ər/、to 弱形 /tə/ に弱化",
+            "and establish - and は弱形 /ənd/ で子音に先行"
+          ],
+          "kana": "アワー メイン インテンションズア タ ファインド ダイアモンズ ン エスタブリッシュ ア セーフ ベース ビフォア ナイトフォル"
+        },
+        {
+          "en": "The intentions of each team member shape how the colony develops and grows.",
+          "ja": "チームメンバーの意図は、コロニーがどのように発展し成長するかを形作ります。",
+          "ipa": "[ðə ɪnˈtɛnʃənz əv ˈiːtʃ ˈtiːm ˈmɛmbər ˈʃeɪp ˈhaʊ ðə kəˈloʊni dɪˈvɛləps ənd ɡroʊz]",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。intentions に連結 [ðə ɪnˈtɛnʃənz] ザ インテンションズ",
+            "intentions of - 語末子音 /z/ が弱形 /ə/ に連結 [ɪnˈtɛnʃənz əv] インテンションズ アヴ",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ザ インテンションズ アヴ イーチ ティーム メンバー シェイプ ハウ ザ カロニー ディベロップス ン グロウズ"
+        }
+      ]
+    }
   ]
 }

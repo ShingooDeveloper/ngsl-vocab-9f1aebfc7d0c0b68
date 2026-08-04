@@ -70,5 +70,37 @@
       ],
       "kana": "アイ ハド ミクスト イモーションズ アバウト リーヴィング ザ サーヴァー ワールド ウィー ビルト タゥゲッザー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "emotions",
+      "ipa": "/ɪˈmoʊʃənz/",
+      "examples": [
+        {
+          "en": "Different emotions overcame us when we spotted the Ender Portal.",
+          "ja": "エンダーポータルを見つけたとき、様々な感情が私たちを圧倒しました。",
+          "ipa": "/ˈdɪfərənt ɪˈmoʊʃənz ˈoʊvərˌkeɪm ʌs wɛn wi ˈspɑtɪd ðə ˈɛndər ˈpoʊrtəl/",
+          "linking": [
+            "emotions overcame → emotions の /z/ が overcame の /oʊ/ に連結 [ɪˈmoʊʃənz ˈoʊvərˌkeɪm]",
+            "when we → when の /n/ が we の /w/ に先行 [wɛn wi] ウェン ウィー",
+            "spotted the → spotted の /d/ が the の /ð/ に先行、the は弱形 /ðə/ [ˈspɑtɪd ðə]"
+          ],
+          "kana": "ディファレント イモーションズ オーバーケーム アス ウェン ウィー スパティッド ザ エンダー ポータル"
+        },
+        {
+          "en": "Mixed emotions filled the server when we finally defeated the Wither Boss.",
+          "ja": "ウィザーボスをついに倒したとき、複雑な感情がサーバーいっぱいに満ちました。",
+          "ipa": "/mɪkst ɪˈmoʊʃənz fɪld ðə ˈsɝvər wɛn wi ˈfaɪnəli dɪˈfitɪd ðə ˈwɪðər ˈbɔs/",
+          "linking": [
+            "emotions filled → emotions の /z/ が filled の /f/ に先行 [ɪˈmoʊʃənz fɪld]",
+            "when we → when の /n/ が we の /w/ に先行 [wɛn wi] ウェン ウィー",
+            "the Wither → the は弱形 /ðə/ で Wither に先行 [ðə ˈwɪðər]"
+          ],
+          "kana": "ミクスト イモーションズ フィルド ザ サーヴァー ウェン ウィー ファイナリー ディフィーティッド ザ ウィザー ボス"
+        }
+      ]
+    }
   ]
 }

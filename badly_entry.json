@@ -43,6 +43,58 @@
       "kana": "ユアー アーマー ガット バドリ ダマジディン ザット クリーパー イクスプロージョン"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "worse",
+      "ipa": "/wɝs/",
+      "examples": [
+        {
+          "en": "Digging ore becomes worse when the server lags.",
+          "ja": "サーバーが遅くなると、鉱石採掘がもっと大変になります。",
+          "ipa": "[ˈdɪɡɪŋ ˈɔr bɪˈkʌmz wɝs wɛn ðə ˈsɝvɚ læɡz]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ディギング オアー ビカムズ ワース ウェン ザ サーバー ラッグズ"
+        },
+        {
+          "en": "This sword performs worse in mob fights now.",
+          "ja": "この剣はモブ戦で、もっと悪いパフォーマンスを発揮します。",
+          "ipa": "[ðɪs sɔrd pərˈfɔrmz wɝs ɪn mɑb faɪts naʊ]",
+          "linking": [],
+          "kana": "ジス ソード パーフォームズ ワース イン モブ ファイツ ナウ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "worst",
+      "ipa": "/wɝst/",
+      "examples": [
+        {
+          "en": "That was the worst mine I've ever dug.",
+          "ja": "それは私が今まで掘った最悪の鉱山でした。",
+          "ipa": "[ðæt wəz ðə ˈwɝst maɪn aɪv ˈɛvɚ dʌɡ]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ザット ワズ ザ ワースト マイン アイヴ エバー ダッグ"
+        },
+        {
+          "en": "The worst loot comes from the deepest caves.",
+          "ja": "最悪のドロップは最も深い洞窟から出ます。",
+          "ipa": "[ðə ˈwɝst lut kʌmz frəm ðə ˈdiːpɪst keɪvz]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ザ ワースト ルート カムズ フラム ザ ディーピスト ケイヴズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "need badly",

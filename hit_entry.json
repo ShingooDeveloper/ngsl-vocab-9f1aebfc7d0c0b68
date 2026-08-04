@@ -1,0 +1,326 @@
+{
+  "word": "hit",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/hɪt/",
+  "rank": 1047,
+  "level": "A1",
+  "hi": "hit|hits|hit|hitting",
+  "meanings": [
+    "【動詞】～に打つ、叩く、殴る（to strike or deal a blow to someone or something）",
+    "【動詞】～に当たる、~に命中する（to reach a target with a thrown or propelled object）",
+    "【名詞】打つこと、ヒット、当たったもの（an instance of striking something, or something that strikes its target）"
+  ],
+  "examples": [
+    {
+      "en": "I hit the zombie with my diamond sword.",
+      "ja": "ダイヤモンドの剣でゾンビを殴りました。",
+      "ipa": "/aɪ ˈhɪt ðə ˈzɑːmi wɪð maɪ ˈdaɪmənd ˈsɔːrd/",
+      "linking": [
+        "the は弱形 /ðə/。zombie に続く（子音+母音、連結なし）",
+        "with は [wɪð]。my に続く（子音+子音、連結なし）"
+      ],
+      "kana": "アイ ヒット ザ ゾンビ ウィズ マイ ダイモンド ソード"
+    },
+    {
+      "en": "The arrow hit the target perfectly from across the field.",
+      "ja": "矢は野原の向こう側から標的に完璧に当たりました。",
+      "ipa": "/ðə ˈæroʊ ˈhɪt ðə ˈtɑːrɡɪt ˈpɜːrfɪktli frəm əˈkrɔːs ðə ˈfild/",
+      "linking": [
+        "the は弱形 /ðə/。arrow に連結 [ðə ˈæroʊ] ザ アロー",
+        "the は弱形 /ðə/。target に続く",
+        "from は弱形 /frəm/。across に続く（子音+子音、連結なし）"
+      ],
+      "kana": "ザ アロー ヒット ザ ターゲット パーフェクトリー フラム アクロス ザ フィールド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "hit the ground",
+      "ja": "着地する、落ちる",
+      "example": "When I jumped from the cliff, I hit the ground hard.",
+      "example_ja": "崖から飛び降りたとき、私は地面に硬く着地しました。",
+      "ipa": "/wɛn aɪ ˈdʒʌmpt frəm ðə ˈklɪf | aɪ ˈhɪt ðə ˈɡraʊnd ˈhɑːrd/",
+      "linking": [
+        "from は弱形 /frəm/。the に続く。the は弱形 /ðə/",
+        "hit は [hɪt]。the に続く。the は弱形 /ðə/ [hɪt ðə] ヒット ザ"
+      ],
+      "kana": "ホエン アイ ジャンプト フラム ザ クリフ | アイ ヒット ザ グラウンド ハード"
+    },
+    {
+      "idiom": "hit a target",
+      "ja": "目標に当たる、目的を達成する",
+      "example": "Our mining operation hit the goal of 1000 blocks per day.",
+      "example_ja": "私たちの採掘作業は1日1000ブロックという目標に達成しました。",
+      "ipa": "/ˈaʊər ˈmaɪnɪŋ ˌɑːpəˈreɪʃən ˈhɪt ðə ˈɡoʊl əv ə ˈθaʊzənd ˈblɑks pər ˈdeɪ/",
+      "linking": [
+        "mining は [ˈmaɪnɪŋ]。operation に続く",
+        "hit は [hɪt]。the に続く。the は弱形 /ðə/"
+      ],
+      "kana": "アワー マイニング オペレイション ヒット ザ ゴール アヴ ア サウザンド ブロックス パー デイ"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "The creeper hit our wall and created a huge hole.",
+      "ja": "クリーパーが我々の壁に当たり、巨大な穴を作りました。",
+      "ipa": "/ðə ˈkriːpər ˈhɪt ˈaʊər ˈwɔːl ən kriˈeɪtɪd ə ˈhjuːdʒ ˈhoʊl/",
+      "linking": [
+        "the は弱形 /ðə/。creeper に続く（子音+子音、連結なし）",
+        "hit は [hɪt]。our に続く（子音+母音、連結なし）",
+        "and は弱形 /ən/。created に続く"
+      ],
+      "kana": "ザ クリーパー ヒット アワー ウォール エン クリエイティド ア ヒュージ ホール"
+    },
+    {
+      "en": "Direct hits from the Ender Dragon deal massive damage.",
+      "ja": "エンダードラゴンからの直撃は大量のダメージを与えます。",
+      "ipa": "/daɪˈrɛkt ˈhɪts frəm ðə ˈɛndər ˈdræɡən ˈdil ˈmæsɪv ˈdæmɪdʒ/",
+      "linking": [
+        "hits は [hɪts]。from に続く（子音+子音、連結なし）",
+        "from は弱形 /frəm/。the に続く。the は弱形 /ðə/"
+      ],
+      "kana": "ダイレクト ヒッツ フラム ザ エンダー ドラゴン ディール マッシブ ダメージ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "hits",
+      "ipa": "/hɪts/",
+      "examples": [
+        {
+          "en": "The skeleton's arrow hits my shield when I'm not paying attention.",
+          "ja": "注意を払っていないときに、スケルトンの矢が私の盾に当たります。",
+          "ipa": "/ðə ˈskɛlətənz ˈæroʊ ˈhɪts maɪ ˈʃild wɛn aɪm ˈnɑt ˈpeɪɪŋ əˈtɛnʃən/",
+          "linking": [
+            "the は弱形 /ðə/。skeleton's に続く（子音+子音、連結なし）",
+            "hits は [hɪts]。my に続く（子音+子音、連結なし）",
+            "when は [wɛn]。I'm に続く"
+          ],
+          "kana": "ザ スケルトンズ アロー ヒッツ マイ シールド ホエン アイム ノット ペイイング アテンション"
+        },
+        {
+          "en": "Each hit from the wither effect hits all nearby entities repeatedly.",
+          "ja": "withの効果からの各ヒットは、近くのすべてのエンティティに繰り返し当たります。",
+          "ipa": "/ˈitʃ ˈhɪt frəm ðə ˈwɪðər ɪˈfɛkt ˈhɪts ˈɔːl ˈnɪrbaɪ ˈɛntɪtiz rɪˈpitɪdli/",
+          "linking": [
+            "hit は [hɪt]。from に続く（子音+子音、連結なし）",
+            "from は弱形 /frəm/。the に続く。the は弱形 /ðə/"
+          ],
+          "kana": "イッチ ヒット フラム ザ ウィザー エフェクト ヒッツ オール ニアバイ エンティティーズ リピーティドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "hit",
+      "ipa": "/hɪt/",
+      "examples": [
+        {
+          "en": "I hit the boss and damaged its health significantly.",
+          "ja": "ボスに当たり、そのヘルスに大きなダメージを与えました。",
+          "ipa": "/aɪ ˈhɪt ðə ˈbɔːs ən ˈdæmɪdʒd ɪts ˈhɛlθ sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "the は弱形 /ðə/。boss に続く（子音+子音、連結なし）",
+            "and は弱形 /ən/。damaged に続く"
+          ],
+          "kana": "アイ ヒット ザ ボス エン ダメージド イッツ ヘルス シグニフィカントリー"
+        },
+        {
+          "en": "The lightning hit the tree and set it on fire during the storm.",
+          "ja": "嵐の間に、稲妻が木に当たり、それに火をつけました。",
+          "ipa": "/ðə ˈlaɪtnɪŋ ˈhɪt ðə ˈtri ən ˈsɛt ɪt ˈɑn ˈfaɪər ˈdʊrɪŋ ðə ˈstɔːrm/",
+          "linking": [
+            "the は弱形 /ðə/。lightning に続く（子音+子音、連結なし）",
+            "hit は [hɪt]。the に続く。the は弱形 /ðə/"
+          ],
+          "kana": "ザ ライトニング ヒット ザ ツリー エン セット イット オン ファイアー デュアリング ザ ストーム"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "hit",
+      "ipa": "/hɪt/",
+      "examples": [
+        {
+          "en": "Having been hit by multiple creepers, our base was nearly destroyed.",
+          "ja": "複数のクリーパーに当たったので、私たちの基地は破壊されかけていました。",
+          "ipa": "/ˈheɪvɪŋ bɪn ˈhɪt baɪ ˈmʌltɪpəl ˈkriːpərz | ˈaʊər ˈbeɪs wəz ˈnɪrli dɪsˈtrɔɪd/",
+          "linking": [
+            "been は弱形 /bɪn/。hit に続く（子音+子音、連結なし）",
+            "by は弱形 /baɪ/。multiple に続く（子音+子音、連結なし）",
+            "base は [ˈbeɪs]。was に続く（子音+子音、連結なし）。was は弱形 /wəz/"
+          ],
+          "kana": "ハヴィング ビン ヒット バイ マルティプル クリーパーズ | アワー ベース ワズ ニアリー ディストロイド"
+        },
+        {
+          "en": "The walls hit by explosions require immediate repairs.",
+          "ja": "爆発に当たった壁はすぐに修理が必要です。",
+          "ipa": "/ðə ˈwɔːlz ˈhɪt baɪ ɪkˈsploʊʒənz rɪkˈwaɪər ɪˈmiːdɪət rɪˈpɛrz/",
+          "linking": [
+            "the は弱形 /ðə/。walls に続く（子音+子音、連結なし）",
+            "hit は [hɪt]。by に続く（子音+母音、連結なし）",
+            "by は弱形 /baɪ/。explosions に続く"
+          ],
+          "kana": "ザ ウォールズ ヒット バイ エクスプロージョンズ リクワイアー イミーディエット リペアーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "hitting",
+      "ipa": "/ˈhɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Hitting the ore blocks repeatedly is the fastest mining technique.",
+          "ja": "鉱石ブロックを繰り返し叩くことが最速の採掘技法です。",
+          "ipa": "/ˈhɪtɪŋ ðə ˈɔːr ˈblɑks rɪˈpitɪdli ɪz ðə ˈfæstəst ˈmaɪnɪŋ tɛkˈnik/",
+          "linking": [
+            "hitting は [ˈhɪtɪŋ]。the に続く。the は弱形 /ðə/",
+            "is は弱形 /ɪz/。the に続く。the は弱形 /ðə/"
+          ],
+          "kana": "ヒッティング ザ オア ブロックス リピーティドリー イズ ザ ファステスト マイニング テクニック"
+        },
+        {
+          "en": "Avoid hitting the dragon's tails as they deal extra knockback damage.",
+          "ja": "ドラゴンの尻尾を叩くことを避けてください。これらは追加のノックバックダメージを与えます。",
+          "ipa": "/əˈvɔɪd ˈhɪtɪŋ ðə ˈdræɡənz ˈteɪlz əz ðeɪ ˈdil ˈɛkstrə ˈnɑkˌbæk ˈdæmɪdʒ/",
+          "linking": [
+            "avoid は [əˈvɔɪd]。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。dragon's に続く（子音+子音、連結なし）",
+            "as は [əz]。they に続く"
+          ],
+          "kana": "アヴォイド ヒッティング ザ ドラゴンズ テイルズ アズ ゼイ ディール エクストラ ノックバック ダメージ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "hits",
+      "ipa": "/hɪts/",
+      "examples": [
+        {
+          "en": "Three direct hits from my sword knocked down the zombie.",
+          "ja": "私の剣からの3つの直撃がゾンビを倒しました。",
+          "ipa": "/ˈθri daɪˈrɛkt ˈhɪts frəm maɪ ˈsɔːrd ˈnɑkt ˈdaʊn ðə ˈzɑːmi/",
+          "linking": [
+            "direct は [daɪˈrɛkt]。hits に続く（子音+子音、連結なし）",
+            "from は弱形 /frəm/。my に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。zombie に続く（子音+母音、連結なし）"
+          ],
+          "kana": "スリー ダイレクト ヒッツ フラム マイ ソード ノック ダウン ザ ゾンビ"
+        },
+        {
+          "en": "Several critical hits can eliminate most mobs quickly.",
+          "ja": "いくつかのクリティカルヒットはほとんどのモブを迅速に排除できます。",
+          "ipa": "/ˈsɛvərəl ˈkrɪtɪkəl ˈhɪts kæn ɪˈlɪməˌneɪt ˈmoʊst ˈmɑːbz ˈkwɪkli/",
+          "linking": [
+            "critical は [ˈkrɪtɪkəl]。hits に続く（子音+子音、連結なし）",
+            "can は弱形 /kən/。eliminate に続く（子音+母音、連結なし）"
+          ],
+          "kana": "セヴァラル クリティカル ヒッツ キャン イリミネイト モースト モブズ クイックリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is hitting",
+      "ipa": "/ɪz ˈhɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The miner is hitting stone with their pickaxe as fast as they can.",
+          "ja": "採掘者が可能な限り速く石をツルハシで叩いています。",
+          "ipa": "/ðə ˈmaɪnər ɪz ˈhɪtɪŋ ˈstoʊn wɪð ðɛər ˈpɪkˌæks əz ˈfæst əz ðeɪ ˈkæn/",
+          "linking": [
+            "the は弱形 /ðə/。miner に続く（母音+子音、連結なし）",
+            "is は弱形 /ɪz/。hitting に続く（子音+子音、連結なし）",
+            "with は [wɪð]。their に続く（子音+子音、連結なし）",
+            "as は [əz]。fast に続く。fast は [fæst]"
+          ],
+          "kana": "ザ マイナー イズ ヒッティング ストーン ウィズ ゼア ピックアックス アズ ファスト アズ ゼイ キャン"
+        },
+        {
+          "en": "She is hitting the boss while her teammates provide support.",
+          "ja": "彼女はチームメイトがサポートを提供している間、ボスを叩いています。",
+          "ipa": "/ʃi ɪz ˈhɪtɪŋ ðə ˈbɔːs waɪl hər ˈtimˌmeɪts prəˈvaɪd səˈpɔːrt/",
+          "linking": [
+            "is は弱形 /ɪz/。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。boss に続く（母音+子音、連結なし）",
+            "while は [waɪl]。her に続く（子音+子音、連結なし）"
+          ],
+          "kana": "シー イズ ヒッティング ザ ボス ホワイル ハー ティームメイツ プロバイド サポート"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was hitting",
+      "ipa": "/wəz ˈhɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was hitting the ore when the creeper explosion suddenly interrupted me.",
+          "ja": "クリーパーの爆発が突然私を邪魔したとき、私は鉱石を叩いていました。",
+          "ipa": "/aɪ wəz ˈhɪtɪŋ ðə ˈɔːr wɛn ðə ˈkriːpər ɪkˈsploʊʒən ˈsʌdənli ˌɪntərˈrʌptɪd mi/",
+          "linking": [
+            "was は弱形 /wəz/。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。ore に続く（母音+母音、連結なし）",
+            "when は [wɛn]。the に続く。the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ ヒッティング ザ オア ホエン ザ クリーパー イクスプロージョン サドゥンリー インタラプティド ミー"
+        },
+        {
+          "en": "They were hitting the obsidian blocks when they discovered the hidden chamber.",
+          "ja": "彼らが隠された部屋を発見したとき、彼らは黒曜石のブロックを叩いていました。",
+          "ipa": "/ðeɪ wər ˈhɪtɪŋ ðə ɑbˈsɪdiən ˈblɑks wɛn ðeɪ dɪsˈkʌvərd ðə ˈhɪdən ˈtʃeɪmbər/",
+          "linking": [
+            "were は弱形 /wər/。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。obsidian に続く（母音+母音、連結なし）",
+            "the は弱形 /ðə/。hidden に続く（母音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ワー ヒッティング ザ オブシディアン ブロックス ホエン ゼイ ディスカバード ザ ヒドゥン チェインバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been hitting",
+      "ipa": "/həd bɪn ˈhɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He had been hitting the mine for hours before he finally found the diamond.",
+          "ja": "彼は最終的にダイヤモンドを見つける前に、何時間も鉱山を叩いていました。",
+          "ipa": "/hi həd bɪn ˈhɪtɪŋ ðə ˈmaɪn fɔːr ˈaʊərz bɪˈfɔːr hi ˈfaɪnəli ˈfaʊnd ðə ˈdaɪmənd/",
+          "linking": [
+            "had は弱形 /həd/。been に続く（子音+子音、連結なし）",
+            "been は弱形 /bɪn/。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。mine に続く（母音+子音、連結なし）",
+            "before は [bɪˈfɔːr]。he に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー ハド ビン ヒッティング ザ マイン フォー アワーズ ビフォア ヒー ファイナリー ファウンド ザ ダイモンド"
+        },
+        {
+          "en": "By the time they arrived, we had been hitting the boss for nearly an hour.",
+          "ja": "彼らが到着するまでに、我々はボスをほぼ1時間叩いていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðeɪ əˈraɪvd | wi həd bɪn ˈhɪtɪŋ ðə ˈbɔːs fɔːr ˈnɪrli ən ˈaʊər/",
+          "linking": [
+            "by は弱形 /baɪ/。the に続く。the は弱形 /ðə/",
+            "had は弱形 /həd/。been に続く（子音+子音、連結なし）",
+            "been は弱形 /bɪn/。hitting に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。boss に続く（母音+子音、連結なし）"
+          ],
+          "kana": "バイ ザ タイム ゼイ アライヴド | ウィー ハド ビン ヒッティング ザ ボス フォー ニアリー エン アワー"
+        }
+      ]
+    }
+  ]
+}

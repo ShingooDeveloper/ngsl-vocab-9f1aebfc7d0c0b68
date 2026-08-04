@@ -45,5 +45,35 @@
       "kana": "ザ カウ ドラップト レザー アンド ビーフ ウェン イット ダイド"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "cows",
+      "ipa": "/kaʊz/",
+      "examples": [
+        {
+          "en": "Kill all cows around the farm to collect meat.",
+          "ja": "農場の周りの牛をすべて倒してミートを集める。",
+          "ipa": "/kɪl ɔl kaʊz əˈraʊnd ðə fɑrm tə kəˈlɛkt mit/",
+          "linking": [
+            "all cows → 語末 /l/ が母音 /k/ に連結 [ɔl kaʊz] オール カウズ",
+            "cows around → 語末 /z/ が母音 /ə/ に連結 [kaʊz əˈraʊnd] カウズ ア ラウンド"
+          ],
+          "kana": "キル オール カウズ ア ラウンド ザ ファーム タ コレクト ミート"
+        },
+        {
+          "en": "Breeding cows yields baby calves in Minecraft.",
+          "ja": "マインクラフトで牛を交配させるとベビーカーフが生まれる。",
+          "ipa": "/ˈbridɪŋ kaʊz ˈjildz ˈbeɪbi ˈkælvz ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "breeding cows → 語末 /ŋ/ が母音 /k/ に連結 [ˈbridɪŋ kaʊz] ブリーディング カウズ",
+            "cows yields → 語末 /z/ が母音 /j/ に連結 [kaʊz ˈjildz] カウズ イールズ"
+          ],
+          "kana": "ブリーディング カウズ イールズ ベイビー カルヴズ イン マインクラフト"
+        }
+      ]
+    }
+  ]
 }

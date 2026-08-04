@@ -73,5 +73,37 @@
       ],
       "kana": "レッツ スター タ ニュー セッション ウィザ フォーカス オン レッドストーン エンジニアリング"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sessions",
+      "ipa": "/ˈseʃənz/",
+      "examples": [
+        {
+          "en": "Players can join multiple survival sessions at the same time.",
+          "ja": "プレイヤーは同時に複数のサバイバル セッションに参加できます。",
+          "ipa": "/ˈpleɪɚz kæn dʒɔɪn ˈmʌltɪpəl sərˈvaɪvəl ˈseʃənz æt ðə ˈseɪm taɪm/",
+          "linking": [
+            "multiple survival sessions → 語末子音 /l/ と sessions の初頭 /s/ で子音+子音、連結なし",
+            "at the → at の語末子音 /t/ が the の初頭母音 /ðə/ に連結。the は弱形 /ðə/ [æt ðə] アッ・ザ",
+            "the same → the は冠詞で弱形 /ðə/。same に連結 [ðə seɪm] ザ・セイム"
+          ],
+          "kana": "プレイアーズ カン ジョイン マルティプル サーヴァイアル セッションズ アッ ザ セイム タイム"
+        },
+        {
+          "en": "Survival sessions require careful planning to avoid dangers like hostile mobs.",
+          "ja": "サバイバル セッションは敵対的なモブなどの危険を避けるための注意深い計画が必要です。",
+          "ipa": "/sərˈvaɪvəl ˈseʃənz rɪˈkwaɪɚ ˈkɛɹfəl ˈplænɪŋ tə əˈvɔɪd ˈdeɪndʒɚz ˈlaɪk ˈhɑːstəl ˈmɑːbz/",
+          "linking": [
+            "sessions require → /n/ と /r/ は子音+子音で連結なし",
+            "to avoid → to は機能語で弱形 /tə/。avoid の初頭母音 /ə/ に連結 [tə əˈvɔɪd] タ・アボイド",
+            "avoid dangers → avoid の語末子音 /d/ が dangers の初頭 /d/ に未開放で続く [əˈvɔɪd̚ ˈdeɪndʒɚz] アボイッ・デインジャーズ"
+          ],
+          "kana": "サーヴァイアル セッションズ リクワイア ケアフル プラニング タ アボイド デインジャーズ ライク ハースタル モブズ"
+        }
+      ]
+    }
   ]
 }

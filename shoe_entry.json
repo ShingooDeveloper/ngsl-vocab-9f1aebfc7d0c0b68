@@ -82,5 +82,34 @@
       ],
       "kana": "ザ シュー イズ オン ザ アザー フット ナウ ザット アイ ハブ ベター アーマー ザン ザット プレイヤー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "shoes",
+      "ipa": "/ʃuːz/",
+      "examples": [
+        {
+          "en": "You need good shoes to survive long mining expeditions in deep caves.",
+          "ipa": "/ju ˈnid ˈɡʊd ˈʃuːz tə sərˈvaɪv lɔŋ ˈmaɪnɪŋ ˌɛkspɪˈdɪʃənz ɪn ˈdiːp ˈkeɪvz/",
+          "linking": [
+            "shoes to → shoes の語末 /z/ が to の弱形 /ə/ に連結 [ʃuːzə] シューズター",
+            "to は機能語で弱形 /tə/",
+            "in は機能語で弱形 /ɪn/"
+          ],
+          "kana": "ユー ニード グッド シューズター サーヴァイヴ ロング マイニング エクスペディションズ イン ディープ ケイヴズ"
+        },
+        {
+          "en": "Diamond shoes protect your feet from lava damage when running across hot terrain.",
+          "ipa": "/ˈdaɪmənd ˈʃuːz prəˈtɛkt jɔr fit frəm ˈlɑvə ˈdæmɪdʒ wɛn ˈrʌnɪŋ əˈkrɔs hɑt ˈtɛreɪn/",
+          "linking": [
+            "from は弱形 /frəm/ に弱化",
+            "running across → running の語末 /ŋ/ が across の母音 /ə/ に連結 [ˈrʌnɪŋ əˈkrɔs] ラニング・アクロス"
+          ],
+          "kana": "ダイアモンド シューズ プロテクト ユアー フィート フラム ラバ ダメッジ ウェン ラニング アクロス ホット テレイン"
+        }
+      ]
+    }
   ]
 }

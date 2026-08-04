@@ -44,5 +44,162 @@
       "kana": "イーチ クリック ウィズ マイ マウス ブレイクサ ブラック"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "mice",
+      "ipa": "/maɪs/",
+      "examples": [
+        {
+          "en": "There are mice scurrying through the barn of the village.",
+          "ja": "村の納屋にはネズミが走り回っています。",
+          "ipa": "/ðɛr ɑr ˈmaɪs ˈskɝɪŋ θru ðə ˈbɑrn əv ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "are mice → /r/ + /m/ (consonant+consonant、連結なし)",
+            "the barn → the は弱形 /ðə/",
+            "barn of → /n/ + /ə/ が連結、of は弱形 /əv/ [ˈbɑrn əv] バーン オヴ"
+          ],
+          "kana": "ゼア アー マイス スカーリング スルー ザ バーン オヴ ザ ビリッジ"
+        },
+        {
+          "en": "We trapped several mice in our storage area to prevent them from eating our grain.",
+          "ja": "私たちの穀物を食べるのを防ぐため、貯蔵エリアにいくつかのネズミを閉じ込めました。",
+          "ipa": "/wi ˈtræpt ˈsɛvɚəl ˈmaɪs ɪn ˈaʊɚ ˈstɔːrɪdʒ ˈɛriə tu prɪˈvɛnt ðɛm frəm ˈiːtɪŋ ˈaʊɚ ˈɡreɪn/",
+          "linking": [
+            "trapped several → /t/ + /s/ (consonant+consonant、連結なし)",
+            "several mice → /l/ + /m/ (consonant+consonant、連結なし)",
+            "in our → /n/ + /aʊ/ が連結 [ɪn ˈaʊɚ] イン アワー",
+            "prevent them → /t/ + /ð/ (consonant+consonant、連結なし)、them は弱形 /ðɛm/"
+          ],
+          "kana": "ウィ トラップト セヴラル マイス イン アワー ストレッジ エリア トゥ プリヴェント ゼム フラム イーティング アワー グレイン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "mouses",
+      "ipa": "/ˈmaʊsɪz/",
+      "examples": [
+        {
+          "en": "The cat mouses around the barn every night searching for prey.",
+          "ja": "その猫は毎晩狩りを探して納屋の周りでネズミを狩ります。",
+          "ipa": "/ðə ˈkæt ˈmaʊsɪz əˈraʊnd ðə ˈbɑrn ˈɛvri ˈnaɪt ˈsɝtʃɪŋ fɔr ˈpreɪ/",
+          "linking": [
+            "cat mouses → /t/ + /m/ (consonant+consonant、連結なし)",
+            "around the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "barn every → /n/ + /ɛ/ が連結 [ˈbɑrn ˈɛvri] バーン エヴリー"
+          ],
+          "kana": "ザ キャット マウシズ アラウンド ザ バーン エヴリー ナイト サーチング フォー プレイ"
+        },
+        {
+          "en": "She mouses through the abandoned farmhouse looking for hidden treasures and supplies.",
+          "ja": "彼女は放棄された農家の中をネズミのように探り回り、隠された宝と物資を探します。",
+          "ipa": "/ʃi ˈmaʊsɪz θru ðɪ əˈbændənd ˈfɑrmˌhaʊs ˈlʊkɪŋ fɔr ˈhɪdən ˈtrɛʒɚz‿ənd səˈplaɪz/",
+          "linking": [
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðɪ/",
+            "farmhouse looking → /s/ + /l/ (consonant+consonant、連結なし)",
+            "treasures and → /z/ + /ə/ が連結、and は弱形 /ənd/ [ˈtrɛʒɚz‿ənd] トレジャーズ アンド"
+          ],
+          "kana": "シー マウシズ スルー ザ アバンドド ファームハウス ルッキング フォー ヒドン トレジャーズ アンド サプライズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "moused",
+      "ipa": "/maʊst/",
+      "examples": [
+        {
+          "en": "I moused around the village storage looking for extra supplies.",
+          "ja": "村の倉庫の周りでネズミのように探り回り、余分な物資を探していました。",
+          "ipa": "/aɪ ˈmaʊst əˈraʊnd ðə ˈvɪlɪdʒ ˈstɔːrɪdʒ ˈlʊkɪŋ fɔr ˈɛkstrə səˈplaɪz/",
+          "linking": [
+            "around the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "storage looking → /dʒ/ + /l/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ マウスト アラウンド ザ ビリッジ ストレッジ ルッキング フォー エクストラ サプライズ"
+        },
+        {
+          "en": "The owl moused silently through the fields at midnight.",
+          "ja": "そのフクロウは真夜中に畑をサイレントにネズミのように探り回りました。",
+          "ipa": "/ðə ˈaʊl ˈmaʊst ˈsaɪləntli θru ðə ˈfildz ət ˈmɪdˌnaɪt/",
+          "linking": [
+            "owl moused → /l/ + /m/ (consonant+consonant、連結なし)",
+            "moused silently → /t/ + /s/ (consonant+consonant、連結なし)",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "fields at → /z/ + /ə/ が連結、at は弱形 /ət/ [ˈfildz ət] フィールズ アット"
+          ],
+          "kana": "ザ アウル マウスト サイレントリー スルー ザ フィールズ アット ミッドナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "moused",
+      "ipa": "/maʊst/",
+      "examples": [
+        {
+          "en": "Having moused around for hours, we finally found the hidden chest in the barn.",
+          "ja": "何時間もネズミのように探り回った後、ついに納屋に隠されたチェストを見つけました。",
+          "ipa": "/ˈheɪvɪŋ ˈmaʊst əˈraʊnd fɔr ˈaʊɚz | wi ˈfaɪnəli ˈfaʊnd ðə ˈhɪdən tʃɛst ɪn ðə ˈbɑrn/",
+          "linking": [
+            "Having moused → /ŋ/ + /m/ (consonant+consonant、連結なし)",
+            "for hours → /r/ + /aʊ/ が連結 [fɔr ˈaʊɚz] フォー アワーズ",
+            "hidden chest → /n/ + /tʃ/ (consonant+consonant、連結なし)",
+            "in the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング マウスト アラウンド フォー アワーズ、ウィ ファイナリー ファウンド ザ ヒドン チェスト イン ザ バーン"
+        },
+        {
+          "en": "The storage had been moused through by rodents, leaving grain scattered everywhere.",
+          "ja": "その倉庫はげっ歯類によってネズミのように探り回られ、穀物があちこちに散らばっていました。",
+          "ipa": "/ðə ˈstɔːrɪdʒ həd bin ˈmaʊst θru baɪ ˈroʊdənts | ˈlɛvɪŋ ˈɡreɪn ˈskætɚd ˈɛvriˌwɛr/",
+          "linking": [
+            "storage had → /dʒ/ + /h/ (consonant+consonant、連結なし)、had は弱形 /həd/",
+            "been moused → /n/ + /m/ (consonant+consonant、連結なし)",
+            "moused through → /t/ + /θ/ (consonant+consonant、連結なし)",
+            "everywhere の最後が /wɛr/"
+          ],
+          "kana": "ザ ストレッジ ハド ビン マウスト スルー バイ ロウデンツ、レヴィング グレイン スキャタード エヴリウェア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "mousing",
+      "ipa": "/ˈmaʊsɪŋ/",
+      "examples": [
+        {
+          "en": "While mousing through the inventory, I discovered the forgotten diamonds.",
+          "ja": "インベントリをネズミのように探り回りながら、忘れられたダイヤを発見しました。",
+          "ipa": "/waɪl ˈmaʊsɪŋ θru ðə ɪnˈvɛntəri | aɪ dɪˈskʌvɚd ðə fɚˈɡɑːtən ˈdaɪəməndz/",
+          "linking": [
+            "While mousing → /l/ + /m/ (consonant+consonant、連結なし)",
+            "mousing through → /ŋ/ + /θ/ (consonant+consonant、連結なし)",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "discovered the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ワイル マウシング スルー ザ インヴェントリー、アイ ディスカバード ザ フォーゴットン ダイアマンズ"
+        },
+        {
+          "en": "Mousing for resources in the abandoned structures became our daily routine.",
+          "ja": "放棄された構造物でリソースをネズミのように探ることが、私たちの日課になりました。",
+          "ipa": "/ˈmaʊsɪŋ fɔr ˈrɛsɚsɪz ɪn ðɪ əˈbændənd ˈstrʌktʃɚz bɪˈkeɪm ˈaʊɚ ˈdeɪli ruːˈtin/",
+          "linking": [
+            "Mousing for → /ŋ/ + /f/ (consonant+consonant、連結なし)",
+            "for resources → /r/ + /r/ (consonant+consonant、連結なし)",
+            "in the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðɪ/",
+            "abandoned structures → /d/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "マウシング フォー リソーシズ イン ザ アバンドド ストラクチャーズ ビケイム アワー デイリー ルーティーン"
+        }
+      ]
+    }
+  ]
 }

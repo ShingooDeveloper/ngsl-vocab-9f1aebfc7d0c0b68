@@ -17,10 +17,9 @@
     {
       "en": "I need a water stream for the farm.",
       "ja": "農場に水流が必要だ。",
-      "ipa": "/aɪ ˈniːd ə ˈwɔːtər ˈstrim fər ðə ˈfɑrm/",
+      "ipa": "/aɪ ˈniːd ə ˈwɑtər ˈstrim fər ðə ˈfɑrm/",
       "linking": [
-        "need の末尾子音 /d/ が a の初頭母音 /ə/ に連結。a は弱形。結果は [ˈniːdə] ニーダ",
-        "for は機能語で弱形 /fər/ に弱化。"
+        "need の末尾子音 /d/ が a の初頭母音 /ə/ に連結。a は弱形。結果は [ˈniːdə] ニーダ"
       ],
       "kana": "アイ ニーダ ウォーター ストリーム ファー ザ ファーム"
     },
@@ -29,8 +28,7 @@
       "ja": "この溶岩流を止めるためにバリアを置きます。",
       "ipa": "/ˈpleɪs ə ˈbæriər tə ˈstɑp ðɪs ˈlɑvə ˈstrim/",
       "linking": [
-        "place の末尾子音 /s/ が a の初頭母音 /ə/ に連結。結果は [ˈpleɪsə] プレイサ",
-        "to は機能語で弱形 /tə/ に弱化。"
+        "place の末尾子音 /s/ が a の初頭母音 /ə/ に連結。結果は [ˈpleɪsə] プレイサ"
       ],
       "kana": "プレイサ バリア タ ストップ ディス ラーヴァ ストリーム"
     },
@@ -44,5 +42,131 @@
       "kana": "アイ ストリーム マイ サーヴァイヴァル ゲイムプレイ エブリ ウィーク"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "streams",
+      "ipa": "/ˈstrimz/",
+      "examples": [
+        {
+          "en": "The streams in this biome provide plenty of water.",
+          "ja": "このバイオームの小川は豊富な水を提供する。",
+          "ipa": "/ðə ˈstrimz ɪn ðɪs ˈbaɪoʊm prəˈvaɪd ˈplɛnti əv ˈwɔɾər/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ザ ストリームズ イン ディス バイオーム プロヴァイド プレンティ アブ ウォーラー"
+        },
+        {
+          "en": "Several streams flow toward the ocean biome.",
+          "ja": "複数の小川がオーシャン バイオームへと流れている。",
+          "ipa": "/ˈsɛvərəl ˈstrimz floʊ təˈwɔrd ðə ˈoʊʃən ˈbaɪoʊm/",
+          "linking": [],
+          "kana": "セブラル ストリームズ フロー トワード ザ オーシャン バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "streams",
+      "ipa": "/ˈstrimz/",
+      "examples": [
+        {
+          "en": "Water streams from the mountain spring during rain.",
+          "ja": "雨の間、水が山の湧き水から流出する。",
+          "ipa": "/ˈwɔɾər ˈstrimz frəm ðə ˈmaʊntən sprɪŋ ˈdʊrɪŋ reɪn/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ウォーラー ストリームズ フラム ザ マウンテン スプリング ドゥーリング レイン"
+        },
+        {
+          "en": "Pure water streams into the collection tank.",
+          "ja": "きれいな水が集水タンクに流れ込む。",
+          "ipa": "/ˈpjʊr ˈwɔɾər ˈstrimz ˈɪntu ðə kəˈlɛkʃən ˈtæŋk/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ピュア ウォーラー ストリームズ イントゥ ザ コレクション タングク"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "streamed",
+      "ipa": "/ˈstrimd/",
+      "examples": [
+        {
+          "en": "Water streamed down the cliff after the heavy rain.",
+          "ja": "大雨の後、水が崖を流れ落ちた。",
+          "ipa": "/ˈwɔɾər ˈstrimd daʊn ðə klɪf ˈæftər ðə ˈhɛvi reɪn/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ウォーラー ストリームド ダウン ザ クリフ アフター ザ ヘビー レイン"
+        },
+        {
+          "en": "Lava streamed through the caves during the eruption.",
+          "ja": "噴火の際、溶岩が洞窟を流れていった。",
+          "ipa": "/ˈlɑvə ˈstrimd θru ðə ˈkeɪvz ˈdʊrɪŋ ðə ɪˈrʌpʃən/",
+          "linking": [],
+          "kana": "ラーヴァ ストリームド スルー ザ ケイブズ ドゥーリング ザ イラプション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "streamed",
+      "ipa": "/ˈstrimd/",
+      "examples": [
+        {
+          "en": "The lava has streamed across the terrain for minutes.",
+          "ja": "溶岩は何分間も地形を横切って流れている。",
+          "ipa": "/ðə ˈlɑvə əz ˈstrimd əˈkrɔs ðə ˈtɛreɪn fər ˈmɪnɪts/",
+          "linking": [],
+          "kana": "ザ ラーヴァ アズ ストリームド アクロス ザ テレイン ファー ミニッツ"
+        },
+        {
+          "en": "Water had streamed from the spring before we built the dam.",
+          "ja": "ダムを作る前に、水は湧き水から流れていた。",
+          "ipa": "/ˈwɔɾər əd ˈstrimd frəm ðə sprɪŋ bɪˈfɔr wi bɪlt ðə ˈdæm/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ウォーラー アッド ストリームド フラム ザ スプリング ビフォア ウィ ビルト ザ ダム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "streaming",
+      "ipa": "/ˈstrimɪŋ/",
+      "examples": [
+        {
+          "en": "Water is streaming from the waterfall into the pool.",
+          "ja": "水が滝から池へと流れている。",
+          "ipa": "/ˈwɔɾər ɪz ˈstrimɪŋ frəm ðə ˈwɔɾərˌfɔl ˈɪntu ðə pul/",
+          "linking": [
+            "water と waterfall 内の water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ウォーラー イズ ストリーミング フラム ザ ウォーラーフォール イントゥ ザ プール"
+        },
+        {
+          "en": "The spring is streaming clear water through the valley.",
+          "ja": "湧き水が渓谷を通してきれいな水を流している。",
+          "ipa": "/ðə sprɪŋ ɪz ˈstrimɪŋ klɪr ˈwɔɾər θru ðə ˈvæli/",
+          "linking": [
+            "water は /ˈwɔɾər/ にフラップ化"
+          ],
+          "kana": "ザ スプリング イズ ストリーミング クリア ウォーラー スルー ザ ヴァレー"
+        }
+      ]
+    }
+  ]
 }

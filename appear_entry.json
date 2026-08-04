@@ -179,6 +179,90 @@
           "kana": "アピアリング イン ザ ネザー イズ デインジャラス ビコーズ ガスツ アー ウェイティング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is appearing",
+      "ipa": "/ɪz əˈpɪrɪŋ/",
+      "examples": [
+        {
+          "en": "A skeleton is appearing near the well.",
+          "ja": "スケルトンが井戸の近くに現れています。",
+          "ipa": "/ə ˈskɛlətən ɪz əˈpɪrɪŋ ˈnɪɹ ðə ˈwɛl/",
+          "linking": [
+            "is appearing → 弱形 /ɪz/ が /ə/ に連結 [ɪzə-ˈpɪrɪŋ] イザ アピアリング",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ア スケレトン イザ アピアリング ニア ザ ウェル"
+        },
+        {
+          "en": "New players are appearing around the spawn point.",
+          "ja": "新しいプレイヤーがスポーンポイントの周りに現れています。",
+          "ipa": "/ˈnuː ˈpleɪɚz ɑɹ əˈpɪrɪŋ əˈraʊnd ðə ˈspoʊn pɔɪnt/",
+          "linking": [
+            "are appearing → /ɹ/ が /ə/ に連結 [ɑɹə-ˈpɪrɪŋ] アー アピアリング",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ニュー プレイアーズ アー アピアリング アラウンド ザ スポーン ポイント"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was appearing",
+      "ipa": "/wəz əˈpɪrɪŋ/",
+      "examples": [
+        {
+          "en": "A figure was appearing in front of us.",
+          "ja": "姿が私たちの目の前に現れていました。",
+          "ipa": "/ə ˈfɪɡɚ wəz əˈpɪrɪŋ ɪn ˈfɹʌnt əv ʌs/",
+          "linking": [
+            "was appearing → 弱形 /wəz/ が /ə/ に連結 [ˈwəzə-ˈpɪrɪŋ] ワザ アピアリング",
+            "of → 弱形 /əv/ オヴ"
+          ],
+          "kana": "ア フィガー ワザ アピアリング イン フラント アヴ アス"
+        },
+        {
+          "en": "Creepers were appearing when I entered the base.",
+          "ja": "基地に入った時、クリーパーが現れていました。",
+          "ipa": "/ˈkriːpɚz wɚ əˈpɪrɪŋ wɛn aɪ ˈɛntɚd ðə ˈbeɪs/",
+          "linking": [
+            "were appearing → /ɹ/ が /ə/ に連結 [wɚə-ˈpɪrɪŋ] ワー アピアリング",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "クリーパーズ ワー アピアリング ウェン アイ エンタード ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been appearing",
+      "ipa": "/həd bɪn əˈpɪrɪŋ/",
+      "examples": [
+        {
+          "en": "Strange things had been appearing before the darkness fell.",
+          "ja": "暗闇が訪れる前から、奇妙なものが現れていました。",
+          "ipa": "/ˈstreɪndʒ θɪŋz həd bɪn əˈpɪrɪŋ bɪˈfɔɹ ðə ˈdɑɹknɪs fɛl/",
+          "linking": [
+            "had been appearing → 弱形 /həd/ /bɪn/、/n/ が /ə/ に連結 [həd bɪn əˈpɪrɪŋ] ハド ビン アピアリング",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ストレインジ シングス ハド ビン アピアリング ビフォー ザ ダークニス フェル"
+        },
+        {
+          "en": "Blocks had been appearing all night around the entrance.",
+          "ja": "一晩中、ブロックが入口の周りに現れていました。",
+          "ipa": "/blɑks həd bɪn əˈpɪrɪŋ ɔl ˈnaɪt əˈraʊnd ðə ˈɛntɹəns/",
+          "linking": [
+            "had been appearing → 弱形 /həd/ /bɪn/、/n/ が /ə/ に連結 [həd bɪn əˈpɪrɪŋ] ハド ビン アピアリング",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ブロックス ハド ビン アピアリング オール ナイト アラウンド ザ エントランス"
+        }
+      ]
     }
   ]
 }

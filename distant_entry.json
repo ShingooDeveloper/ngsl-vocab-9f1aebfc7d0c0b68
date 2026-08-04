@@ -80,5 +80,63 @@
       ],
       "kana": "アイキープディスタントフラムザラーヴァレイクワイルイクスプロアリング"
     }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more distant",
+      "ipa": "/mɔr ˈdɪs.tənt/",
+      "examples": [
+        {
+          "en": "The Nether fortress is more distant than I expected.",
+          "ja": "ネザー要塞は私が予想していたよりも遠い。",
+          "ipa": "/ðə ˈnɛðə ˈfɔr.tɪs ɪz mɔr ˈdɪs.tənt ðæn aɪ ɪkˈspɛk.tɪd/",
+          "linking": [
+            "more distant → more の末の /r/ が distant の初めの /d/ に連結 [mɔr ˈdɪs.tənt] モアディスタント",
+            "than I → than の末の /n/ が I の /aɪ/ に連結 [ðæn aɪ] ザンアイ"
+          ],
+          "kana": "ザ ネザー フォーティス イズ モアディスタント ザンアイ イクスペクティド"
+        },
+        {
+          "en": "The ancient city seems more distant from my spawn point than before.",
+          "ja": "古代都市は私のスポーンポイントからより遠く見える。",
+          "ipa": "/ðə ˈeɪn.ʃənt ˈsɪt.i simz mɔr ˈdɪs.tənt frəm maɪ ˈspɔn pɔɪnt ðæn bɪˈfɔr/",
+          "linking": [
+            "more distant → more の末の /r/ が distant の初めの /d/ に連結 [mɔr ˈdɪs.tənt] モアディスタント",
+            "from my → from の末の /m/ が my の /aɪ/ に連結 [frəm maɪ] フラムマイ"
+          ],
+          "kana": "ザ エイン シェント シームズ モアディスタント フラムマイ スポーン ポイント ザン ビフォア"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most distant",
+      "ipa": "/ˈmoʊst ˈdɪs.tənt/",
+      "examples": [
+        {
+          "en": "The End dimension is the most distant place I've ever explored.",
+          "ja": "エンド次元は私がこれまで探索した中で最も遠い場所です。",
+          "ipa": "/ðə ɛnd dɪˈmɛn.ʃən ɪz ðə ˈmoʊst ˈdɪs.tənt pleɪs aɪv ˈɛv.ər ɪkˈsplɔrd/",
+          "linking": [
+            "End dimension → End の末の /d/ が dimension の /d/ に連結（未開放で続く） [ɛn̚ dɪˈmɛn.ʃən] エンディメンション",
+            "most distant → most の末の /t/ が distant の /d/ に連結（未開放で続く） [ˈmoʊs̚ ˈdɪs.tənt] モーストディスタント"
+          ],
+          "kana": "ザ エンディメンション イズ ザ モーストディスタント プレイス アイヴエバー イクスプロアード"
+        },
+        {
+          "en": "The biome at coordinates far away is the most distant from my base.",
+          "ja": "はるか遠くの座標にあるバイオームは、私のベースから最も遠い。",
+          "ipa": "/ðə ˈbaɪ.oʊm æt koʊˈɔr.də.nits fɑr əˈweɪ ɪz ðə ˈmoʊst ˈdɪs.tənt frəm maɪ ˈbeɪs/",
+          "linking": [
+            "most distant → most の末の /t/ が distant の /d/ に連結（未開放で続く） [ˈmoʊs̚ ˈdɪs.tənt] モーストディスタント",
+            "from my → from の末の /m/ が my の /aɪ/ に連結 [frəm maɪ] フラムマイ"
+          ],
+          "kana": "ザ バイオーム アット コーオーディネイツ ファー アウェイ イズ ザ モーストディスタント フラムマイ ベイス"
+        }
+      ]
+    }
   ]
 }

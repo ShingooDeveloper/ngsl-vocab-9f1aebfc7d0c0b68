@@ -47,5 +47,38 @@
       "kana": "アワー ラージェスト シェアホールダーズ ボゥリッド トゥ イクスパンド ザ ファーム"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "shareholders",
+      "ipa": "/ˈʃɛɚˌhoʊldɚz/",
+      "examples": [
+        {
+          "en": "The shareholders agreed to build a new town together.",
+          "ja": "株主たちが一緒に新しい町を建てることに同意しました。",
+          "ipa": "/ðə ˈʃɛɚˌhoʊldɚz əˈɡrid tə bɪld ə ˈnu taʊn təˈɡɛðɚ/",
+          "linking": [
+            "the shareholders — the は弱形 /ðə/、shareholders に自然に続く",
+            "shareholders agreed — shareholders の語末 /z/ が agreed の /ə/ に連結 [ˈhoʊldɚz əˈɡrid]",
+            "to build — to は弱形 /tə/、build に続く",
+            "a new — a は弱形 /ə/、new に連結 [ə ˈnu]"
+          ],
+          "kana": "ザ シェアホールダーズ アグリード ツ ビルド ア ニュー タウン トゥゲザー"
+        },
+        {
+          "en": "Several shareholders invested resources to create a trading hub.",
+          "ja": "何人かの株主が取引ハブを作成するためにリソースに投資しました。",
+          "ipa": "/ˈsɛvərəl ˈʃɛɚˌhoʊldɚz ɪnˈvɛstəd rɪˈsɔrsəz tə kriˈeɪt ə ˈtreɪdɪŋ ˈhʌb/",
+          "linking": [
+            "several shareholders — several の語末 /l/ が shareholders に自然に続く",
+            "shareholders invested — shareholders の語末 /z/ が invested の /ɪ/ に連結 [ˈhoʊldɚz ɪnˈvɛstəd]",
+            "resources to — resources の語末 /z/ が to の /tə/ に隣接、to は弱形 [rɪˈsɔrsəz tə]"
+          ],
+          "kana": "セヴァラル シェアホールダーズ インヴェスティド リソーシズ ツ クリエイト ア トレーディング ハブ"
+        }
+      ]
+    }
+  ]
 }

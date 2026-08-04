@@ -44,5 +44,36 @@
       "kana": "ディサイテムズ ディスクリプション イクスプレイン ザ イフェクト パーフェクトリ"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "descriptions",
+      "ipa": "/dɪˈskrɪpʃənz/",
+      "examples": [
+        {
+          "en": "Descriptions of blocks help you understand their properties.",
+          "ja": "ブロックの説明は、それらの特性を理解するのに役立ちます。",
+          "ipa": "/dɪˈskrɪpʃənz əv blɑks hɛlp ju ʌndərˈstænd ðɛr ˈprɑpərtiz/",
+          "linking": [
+            "「of」は弱形 /əv/",
+            "「help you」→ help の末 /p/ が you の /j/ に連結 [ˈhɛlpjə] ヘルプユ"
+          ],
+          "kana": "ディスクリプションズ アヴ ブロックス ヘルプユ アンダースタンド ザー プロパティーズ"
+        },
+        {
+          "en": "The mob descriptions tell you how to defeat them.",
+          "ja": "モブの説明があれば、それらを倒す方法がわかります。",
+          "ipa": "/ðə ˈmoʊb dɪˈskrɪpʃənz ˈtɛl ju ˈhaʊ tə dɪˈfiːt ðɛm/",
+          "linking": [
+            "「The」は弱形 /ðə/",
+            "「tell you」→ tell の末 /l/ が you の /j/ に連結 [ˈtɛljə] テルユ",
+            "「to」は弱形 /tə/"
+          ],
+          "kana": "ザ モブ ディスクリプションズ テルユ ハウ タ ディフィート ザム"
+        }
+      ]
+    }
+  ]
 }

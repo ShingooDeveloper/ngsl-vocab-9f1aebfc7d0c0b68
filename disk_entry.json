@@ -43,5 +43,35 @@
       "kana": "アイ ゴラ ディスク アンド ビラ マッシヴ モニュメント"
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "disks",
+      "ipa": "/dɪsks/",
+      "examples": [
+        {
+          "en": "I gathered all the music disks from the deepest dungeons.",
+          "ja": "最も深い地下牢からすべての音楽ディスクを集めました。",
+          "ipa": "[aɪ ˈɡæðɚd ɔl ðə ˈmjuːzɪk ˈdɪsks frɑm ðə ˈdiːpəst ˈdʌndʒənz]",
+          "linking": [
+            "gathered all → 語末の /d/ が母音 /ɔ/ に連結してスムーズに続く [ˈɡæðɚdɔ] ギャザード",
+            "the → 冠詞は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "アイ ギャザード オール ザ ミュージック ディスクス フロム ザ ディーペスト ダンジョンズ"
+        },
+        {
+          "en": "These disks are incredibly hard to find in the game.",
+          "ja": "これらのディスクはゲーム内で見つけるのが信じられないほど難しいです。",
+          "ipa": "[ðiz ˈdɪsks ɑɹ ɪnˈkɹɛdəbli hɑɹd tə ˈfaɪnd ɪn ðə ˈɡeɪm]",
+          "linking": [
+            "to → 機能語は弱形 /tə/ に弱化 タ",
+            "the → 冠詞は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "ディーズ ディスクス アー インクレディブリー ハード タ ファインド イン ザ ゲイム"
+        }
+      ]
+    }
+  ]
 }

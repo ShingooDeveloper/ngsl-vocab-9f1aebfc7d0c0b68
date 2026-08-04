@@ -45,6 +45,38 @@
       "kana": "ザ レッドストーン マシーンズ フレイムワーク イズ メイド アヴ アイアン ブロックス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "frameworks",
+      "ipa": "/ˈfreɪmwɜːrks/",
+      "examples": [
+        {
+          "en": "The frameworks need to support the roof.",
+          "ja": "枠組みは屋根を支える必要があります。",
+          "ipa": "/ðə ˈfreɪmwɜːrks niːd tə səˈpɔːrt ðə ˈruːf/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/（文中に2度出現）",
+            "to は機能語で弱形 /tə/",
+            "support の /t/ が次の子音 /ð/ の前で未開放 [səˈpɔːrt̚ ðə]"
+          ],
+          "kana": "ザ フレイムワークス ニード タ サポート ザ ルーフ"
+        },
+        {
+          "en": "We need better frameworks for water features.",
+          "ja": "水の機能のためにより良い枠組みが必要です。",
+          "ipa": "/wiː niːd ˈbɛɾɚ ˈfreɪmwɜːrks fɚ ˈwɔɾɚ ˈfiːtʃɚz/",
+          "linking": [
+            "better の /t/ が母音に挟まれてフラップ化 [ˈbɛɾɚ] ベラー",
+            "for は機能語で弱形 /fɚ/",
+            "water の /t/ がフラップ化 [ˈwɔɾɚ] ウォーラー"
+          ],
+          "kana": "ウィ ニード ベラー フレイムワークス ファ ウォーラー フィーチャーズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "within a framework",

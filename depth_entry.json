@@ -57,5 +57,35 @@
       ],
       "kana": "ウィー アナライズド ザ レッドストーン メカニズム イン デプス"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "depths",
+      "ipa": "/dɛpθz/",
+      "examples": [
+        {
+          "en": "Explore the depths of this mine.",
+          "ja": "このマインの深さを探索する。",
+          "ipa": "/ɪkˈsplɔr ðə ˈdɛpθz əv ðɪs maɪn/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "of は機能語で弱形 /əv/"
+          ],
+          "kana": "イクスプロア ザ デプスズ アヴ ディス マイン"
+        },
+        {
+          "en": "I found diamonds at deeper depths.",
+          "ja": "もっと深い層でダイヤモンドを見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈdaɪməndz ət ˈdiːpər ˈdɛpθz/",
+          "linking": [
+            "found の末 d が未開放で diamonds に連接",
+            "at は機能語で弱形 /ət/"
+          ],
+          "kana": "アイ ファウンド ダイモンズ アッ ディーパー デプスズ"
+        }
+      ]
+    }
   ]
 }
