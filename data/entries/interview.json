@@ -315,6 +315,110 @@
           "kana": "ウィアー インターヴューイング ヴォランティアーズ フォー ポジションズ イン アワー ニュー マネージメント ティーム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is interviewing",
+      "ipa": "/ɪz ˌɪntɚˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "She is interviewing a Redstone engineer about contraption design.",
+          "ja": "彼女はレッドストーン技術者にからくり設計についてインタビューしている。",
+          "ipa": "/ʃi ɪz ˌɪntɚˈvjuːɪŋ ə ˈrɛdˌstoʊn ˈɛndʒɪnɪr əˈbaʊt kənˈtræpʃən dɪˈzaɪn/",
+          "linking": [
+            "is interviewing → is は弱形 /ɪz/、語末 /z/ が interviewing の初頭母音 /ɪ/ に連結 [ɪz ˌɪntɚˈvjuːɪŋ] イズインターヴューイング",
+            "interviewing a → 語末 /ŋ/ が a の初頭母音 /ə/ に連結 [ˌɪntɚˈvjuːɪŋə] インターヴューインガ",
+            "engineer about → 語末 /r/ が about の初頭母音 /ə/ に連結、about は機能語で弱形 /əˈbaʊt/"
+          ],
+          "kana": "シ イズ インターヴューインガ レッドストーン エンジニア アバウト コントラプション ディザイン"
+        },
+        {
+          "en": "The server admin is interviewing new moderators for the staff team.",
+          "ja": "サーバー管理者は新しいモデレーターをスタッフチーム向けにインタビューしている。",
+          "ipa": "/ðə ˈsɜːrvɚ ˈædmɪn ɪz ˌɪntɚˈvjuːɪŋ ˈnuː ˈmɑːdəreɪtɚz fɚ ðə ˈstæf tiːm/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "admin is → 語末 /n/ が is の初頭 /ɪ/ に続く（consonant+consonant、連結なし）、is は弱形 /ɪz/",
+            "is interviewing → 語末 /z/ が interviewing の初頭母音 /ɪ/ に連結",
+            "interviewing new → 語末 /ŋ/ が new の初頭 /n/ に続く（consonant+consonant、連結なし）",
+            "new moderators → /u/ + /m/ が連結",
+            "for the → for は弱形 /fɚ/、語末 /r/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ サーバー アドミン イズ インターヴューイング ニュー モデレイターズ フォー ザ スタッフ ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was interviewing",
+      "ipa": "/wəz ˌɪntɚˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "The streamer was interviewing a famous speedrunner during the livestream.",
+          "ja": "ストリーマーはライブストリーム中に有名なスピードランナーをインタビューしていた。",
+          "ipa": "/ðə ˈstrimɚ wəz ˌɪntɚˈvjuːɪŋ ə ˈfeɪməs ˈspiːdˌrʌnɚ ˈdʊrɪŋ ðə ˈlaɪvˌstrim/",
+          "linking": [
+            "streamer was → 語末 /r/ が was の初頭 /w/ に続く（consonant+consonant、連結なし）、was は弱形 /wəz/",
+            "was interviewing → 語末 /z/ が interviewing の初頭母音 /ɪ/ に連結 [wəz ˌɪntɚˈvjuːɪŋ] ワズインターヴューイング",
+            "interviewing a → 語末 /ŋ/ が a の初頭母音 /ə/ に連結 [ˌɪntɚˈvjuːɪŋə] インターヴューインガ",
+            "a famous → /ə/ + /f/ が連結",
+            "during the → 語末 /ŋ/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ストリーマー ワズ インターヴューインガ フェイマス スピードラナー デューリング ザ ライブストリーム"
+        },
+        {
+          "en": "They were interviewing NPCs to understand the village's history.",
+          "ja": "彼らは村の歴史を理解するためにNPCたちにインタビューしていた。",
+          "ipa": "/ðeɪ wɚ ˌɪntɚˈvjuːɪŋ ˌɛnˈpiːˈsiːz tə əndɚˈstænd ðə ˈvɪlɪdʒɪz ˈhɪstɚi/",
+          "linking": [
+            "They were → 語末 /eɪ/ + /w/ が連結 [ðeɪ wɚ] ゼイ ワー",
+            "were interviewing → were の語末 /r/ が interviewing の初頭 /ɪ/ に連結 [wɚ ˌɪntɚˈvjuːɪŋ] ワー + インターヴューイング",
+            "interviewing NPCs → 語末 /ŋ/ が N の初頭 /ɛ/ に続く（consonant+consonant、連結なし）",
+            "to understand → to は弱形 /tə/、語末 /ə/ が understand の初頭 /ə/ に連結",
+            "understand the → 語末 /d/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "the village's → /ə/ + /v/ が連結"
+          ],
+          "kana": "ゼイ ワー インターヴューイング エンピーシーズ タ アンダースタンド ザ ビリッジズ ヒスタリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been interviewing",
+      "ipa": "/həd bɪn ˌɪntɚˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, she had been interviewing candidates for hours.",
+          "ja": "私たちが到着した時までに、彼女は何時間も候補者をインタビューしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ʃi həd bɪn ˌɪntɚˈvjuːɪŋ ˈkændɪdeɪts fɚ ˈaʊɚz/",
+          "linking": [
+            "had been → had は弱形 /həd/、語末 /d/ が been の初頭 /b/ に続く（consonant+consonant、連結なし）、been は弱形 /bɪn/。[həd bɪn] ハッド ビン",
+            "been interviewing → 語末 /n/ が interviewing の初頭母音 /ɪ/ に連結 [bɪn ˌɪntɚˈvjuːɪŋ] ビン + インターヴューイング",
+            "interviewing candidates → 語末 /ŋ/ が candidates の初頭 /k/ に続く（consonant+consonant、連結なし）",
+            "candidates for → 語末 /s/ が for の初頭 /f/ に続く（consonant+consonant、連結なし）、for は弱形 /fɚ/",
+            "for hours → 語末 /r/ が hours の初頭 /aʊ/ に連結"
+          ],
+          "kana": "バイ ダ タイム ウィ アライブド、シ ハッド ビン インターヴューイング キャンディデイツ フォー アワーズ"
+        },
+        {
+          "en": "The producers had been interviewing builders before they selected the team.",
+          "ja": "プロデューサーたちはチームを選ぶ前に、ビルダーたちをずっとインタビューしていた。",
+          "ipa": "/ðə prəˈduːsɚz həd bɪn ˌɪntɚˈvjuːɪŋ ˈbɪldɚz bɪˈfɔːr ðeɪ sɪˈlɛktɪd ðə ˈtiːm/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "had been → had は弱形 /həd/、語末 /d/ が been の初頭 /b/ に続く（consonant+consonant、連結なし）、been は弱形 /bɪn/",
+            "been interviewing → 語末 /n/ が interviewing の初頭母音 /ɪ/ に連結",
+            "interviewing builders → 語末 /ŋ/ が builders の初頭 /b/ に続く（consonant+consonant、連結なし）",
+            "builders before → 語末 /z/ が before の初頭 /b/ に続く（consonant+consonant、連結なし）",
+            "before they → 語末 /r/ が they の初頭 /ð/ に続く（consonant+consonant、連結なし）",
+            "selected the → 語末 /d/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ プロデューサーズ ハッド ビン インターヴューイング ビルダーズ ビフォー ゼイ セレクティッド ザ ティーム"
+        }
+      ]
     }
   ]
 }
