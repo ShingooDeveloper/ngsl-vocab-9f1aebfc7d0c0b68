@@ -169,6 +169,99 @@
           "kana": "オーラリング インチャントメンツ オン アーマー リクワイアーズ イクスピアりエンス ポインツ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is altering",
+      "ipa": "/ɪz ˈɔːltərɪŋ/",
+      "examples": [
+        {
+          "en": "I am altering my diamond armor right now to add protection enchantments.",
+          "ja": "今、ダイヤ防具を改造して保護エンチャントを追加しています。",
+          "ipa": "/aɪ æm ˈɔːltərɪŋ maɪ ˈdaɪəmənd ˈɑːrmər ˈraɪt ˈnaʊ tə ˈæd prəˈtɛkʃən ɪnˈtʃɑːntmənts/",
+          "linking": [
+            "am altering → am は弱形 /əm/ に弱化",
+            "to add → to は弱形 /tə/"
+          ],
+          "kana": "アイ エム オーラリング マイ ダイアマンド アーマー ライト ナウ タ アド プラテクション インチャントメンツ"
+        },
+        {
+          "en": "The builders are altering the main structure of the castle as we speak.",
+          "ja": "ビルダーは今、城のメイン構造を改造しています。",
+          "ipa": "/ðə ˈbɪldərz ɑr ˈɔːltərɪŋ ðə ˈmeɪn ˈstrʌktʃər əv ðə ˈkæsəl əz wi ˈspik/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "are altering → are は弱形 /ɑr/ に弱化",
+            "altering the → /ŋ/ + /ð/ （子音+子音、連結なし）。the は弱形 /ðə/",
+            "of the → of は弱形 /əv/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビルダーズ アー オーラリング ザ メイン ストラクチャー アヴ ザ キャッセル アズ ウィ スピーク"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was altering",
+      "ipa": "/wəz ˈɔːltərɪŋ/",
+      "examples": [
+        {
+          "en": "I was altering the redstone circuit when the power went out.",
+          "ja": "レッドストーン回路を改造していたとき、電源が切れました。",
+          "ipa": "/aɪ wəz ˈɔːltərɪŋ ðə ˈrɛdˌstoʊn ˈsɝːkɪt wɛn ðə ˈpaʊər wɛnt ˈaʊt/",
+          "linking": [
+            "was altering → was は弱形 /wəz/ に弱化",
+            "altering the → /ŋ/ + /ð/ （子音+子音、連結なし）。the は弱形 /ðə/",
+            "when the → when の語末 /n/ と the の /ð/ は子音+子音で連結なし。the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ オーラリング ザ レッドストーン サーキット ウェン ザ パワー ウェント アウト"
+        },
+        {
+          "en": "They were altering the landscape when they discovered the ancient temple.",
+          "ja": "風景を改造していたとき、古代の寺院を発見しました。",
+          "ipa": "/ðeɪ wɚ ˈɔːltərɪŋ ðə ˈlændˌskeɪp wɛn ðeɪ dɪsˈkʌvərd ðə ˈeɪntʃənt ˈtɛmpəl/",
+          "linking": [
+            "were altering → were は弱形 /wɚ/ に弱化",
+            "altering the → /ŋ/ + /ð/ （子音+子音、連結なし）。the は弱形 /ðə/",
+            "when they → when の語末 /n/ と they の /ð/ は子音+子音で連結なし"
+          ],
+          "kana": "ゼイ ワー オーラリング ザ ランドスケイプ ウェン ゼイ ディスカヴァード ザ エインチェント テンプル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been altering",
+      "ipa": "/həd bɪn ˈɔːltərɪŋ/",
+      "examples": [
+        {
+          "en": "I had been altering the farm design for days before we finally harvested the crops.",
+          "ja": "作物を収穫するまで、何日間も農場設計を改造し続けていました。",
+          "ipa": "/aɪ həd bɪn ˈɔːltərɪŋ ðə ˈfɑːrm dɪˈzaɪn fər ˈdeɪz bɪˈfɔːr wi ˈfaɪnəli ˈhɑːrvɪstɪd ðə ˈkrɑːps/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been altering → /n/ + /ɔ/ が連結し滑らかに [bɪn ˈɔːltərɪŋ] ビン オーラリング",
+            "altering the → /ŋ/ + /ð/ （子音+子音、連結なし）。the は弱形 /ðə/",
+            "for days → for は弱形 /fər/"
+          ],
+          "kana": "アイ ハド ビン オーラリング ザ ファーム ディザイン ファー デイズ ビフォア ウィ ファイナリー ハーベスティド ザ クロップス"
+        },
+        {
+          "en": "We had been altering the barrier walls for weeks when the system became unstable.",
+          "ja": "システムが不安定になるまで、何週間もバリアウォールを改造し続けていました。",
+          "ipa": "/wi həd bɪn ˈɔːltərɪŋ ðə ˈbæriər ˈwɔːlz fər wiːks wɛn ðə ˈsɪstəm bɪˈkeɪm ʌnˈsteɪbəl/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been altering → /n/ + /ɔ/ が連結し滑らかに [bɪn ˈɔːltərɪŋ] ビン オーラリング",
+            "altering the → /ŋ/ + /ð/ （子音+子音、連結なし）。the は弱形 /ðə/",
+            "barrier walls → /r/ が母音 /ɔ/ に連結 [ˈbæriər ˈwɔːlz]",
+            "for weeks → for は弱形 /fər/"
+          ],
+          "kana": "ウィ ハド ビン オーラリング ザ バリアー ウォールズ ファー ウィークス ウェン ザ システム ビケイム アンステイブル"
+        }
+      ]
     }
   ]
 }
