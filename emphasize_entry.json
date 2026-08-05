@@ -167,6 +167,97 @@
           "kana": "ザ サーヴァー イズ エムファサイジング ピーヴィーピー セイフティ ルーズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is emphasizing",
+      "ipa": "/ɪz ˈɛmfəsaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "The tutorial is emphasizing resource gathering efficiency this update.",
+          "ja": "このアップデートでは、チュートリアルはリソース収集効率を強調しています。",
+          "ipa": "/ðə tjuːˈtɔrɪəl ɪz ˈɛmfəsaɪzɪŋ ˈrɛsɔrs ˈɡæðərɪŋ ɪˈfɪʃənsi ðɪs ˈʌpdeɪt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "is emphasizing → is は弱形 /ɪz/"
+          ],
+          "kana": "ザ チュートリアル イズ エムファサイジング リソース ギャザリング エフィシェンシー ディス アップデイト"
+        },
+        {
+          "en": "We are emphasizing teamwork while exploring the nether fortress.",
+          "ja": "ネザー要塞を探索しながら、チームワークを強調しています。",
+          "ipa": "/wi ɑr ˈɛmfəsaɪzɪŋ ˈtimwɝk waɪl ɪkˈsplɔːrɪŋ ðə ˈnɛðɚ ˈfɔːrtrɪs/",
+          "linking": [
+            "are → 弱形 /ɑr/ で次の母音に連結 [ɑr ˈɛ]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ウィ アー エムファサイジング ティームワーク ワイル イクスプローリング ザ ネザー フォートリス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was emphasizing",
+      "ipa": "/wəz ˈɛmfəsaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "The developer was emphasizing combat balance when the update dropped last week.",
+          "ja": "先週アップデートがリリースされたとき、開発者はコンバットバランスを強調していました。",
+          "ipa": "/ðə dɪˈvɛləpɚ wəz ˈɛmfəsaɪzɪŋ ˈkɑːmbæt ˈbæləns wɛn ðə ˈʌpdeɪt drɑpt læst wiːk/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/",
+            "was emphasizing → was は弱形 /wəz/",
+            "when → /wɛn/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ デベロッパー ワズ エムファサイジング コンバット バランス ウェン ダ アップデイト ドロップト ラスト ウィーク"
+        },
+        {
+          "en": "I was emphasizing survival strategies when the creeper suddenly exploded nearby.",
+          "ja": "クリーパーが突然近くで爆発したとき、生存戦略を強調していました。",
+          "ipa": "/aɪ wəz ˈɛmfəsaɪzɪŋ sərˈvaɪvəl ˈstrætədʒiz wɛn ðə ˈkriːpɚ ˈsʌdənli ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "was emphasizing → was は弱形 /wəz/",
+            "when → /wɛn/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ エムファサイジング サーバイバル ストラテジーズ ウェン ザ クリーパー サドゥンリー イクスプロウディド ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been emphasizing",
+      "ipa": "/həd bɪn ˈɛmfəsaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "The instructor had been emphasizing proper enchantment techniques for weeks before the tournament.",
+          "ja": "トーナメント前の数週間、インストラクターは正しいエンチャント技術を強調していました。",
+          "ipa": "/ðə ɪnˈstrʌktɚ həd bɪn ˈɛmfəsaɪzɪŋ ˈproʊpɚ ɪnˈtʃɑːntmənt tɛkˈniːks fər wiːks bɪˈfɔːr ðə ˈtɜːrnəmənt/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fər/",
+            "before the → before の /r/ が the の /ð/ に続く（未開放）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ インストラクター ハド ビン エムファサイジング プロパー インチャントメント テクニークス ファー ウィークス ビフォア ザ ターナメント"
+        },
+        {
+          "en": "By the time the patch dropped, developers had been emphasizing stability improvements for months.",
+          "ja": "パッチがリリースされた時点で、開発者は数ヶ月間、安定性向上を強調していました。",
+          "ipa": "/baɪ ðə taɪm ðə pætʃ drɑpt | dɪˈvɛləpɚz həd bɪn ˈɛmfəsaɪzɪŋ stəˈbɪlɪti ɪmˈpruːvmənts fər mʌnθz/",
+          "linking": [
+            "by the → the は弱形 /ðə/、time で /m/ が /t/ に続く（未開放）",
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fər/"
+          ],
+          "kana": "バイ ダ タイム ダ パッチ ドロップ、デベロッパーズ ハド ビン エムファサイジング スタビリティ インプルーブメンツ ファー マンスズ"
+        }
+      ]
     }
   ]
 }
