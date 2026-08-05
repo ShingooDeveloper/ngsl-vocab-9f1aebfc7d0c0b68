@@ -204,6 +204,103 @@
           "kana": "エクスプローリング ネイバーリング アイランズ カン レッド ツ アメイジング ディスカバリーズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（動詞）",
+      "text": "is neighboring",
+      "ipa": "/ɪz ˈneɪbərɪŋ/",
+      "examples": [
+        {
+          "en": "The village is neighboring a dark forest biome on the north side.",
+          "ja": "村は北側の暗いジャングルに隣接している。",
+          "ipa": "/ðə ˈvɪlɪdʒ ɪz ˈneɪbərɪŋ ə ˈdɑrk ˈfɔrəst ˈbaɪoʊm ɑn ðə ˈnɔrθ ˈsaɪd/",
+          "linking": [
+            "village is → 子音+母音で自然に続く [ˈvɪlɪdʒ ɪz] ビリッジ イズ。is は弱形 /ɪz/",
+            "is neighboring → 子音+子音で自然に続く",
+            "neighboring a → 子音+母音で連結 [ˈneɪbərɪŋ ə] ネイバーリング ア",
+            "on the → on は /ɑn/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビリッジ イズ ネイバーリング ア ダーク フォレスト バイオーム オン ザ ノーサイド"
+        },
+        {
+          "en": "We are neighboring a peaceful ocean while we build our base.",
+          "ja": "私たちは基地を建設しながら、穏やかなオーシャンに隣接しており続けている。",
+          "ipa": "/wi ɑr ˈneɪbərɪŋ ə ˈpisful ˈoʊʃən ˈwaɪl wi bɪld ˈaʊr ˈbeɪs/",
+          "linking": [
+            "We are → are は弱形 /ɑr/ に弱化",
+            "are neighboring → 子音+子音で自然に続く",
+            "neighboring a → 子音+母音で連結",
+            "ocean while → 語末子音+子音で自然な連結"
+          ],
+          "kana": "ウィ アー ネイバーリング ア ピースフル オーシャン ワイル ウィ ビルド アワー ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（動詞）",
+      "text": "was neighboring",
+      "ipa": "/wəz ˈneɪbərɪŋ/",
+      "examples": [
+        {
+          "en": "The fortress was neighboring a lava lake when I first discovered it.",
+          "ja": "要塞が溶岩湖に隣接していたとき、それを発見した。",
+          "ipa": "/ðə ˈfɔrtrəs wəz ˈneɪbərɪŋ ə ˈlɑvə ˈleɪk wɛn aɪ ˈfɜːrst dɪˈskʌvərd ɪt/",
+          "linking": [
+            "fortress was → 子音+子音で自然に続く（was は弱形 /wəz/）",
+            "was neighboring → 子音+子音",
+            "neighboring a → 子音+母音で連結",
+            "when I → n で終わり i で始まるので連結 [wɛn aɪ] ウェン アイ"
+          ],
+          "kana": "ザ フォートレス ワズ ネイバーリング ア ラーバ レイク ウェン アイ ファースト ディスカバード イット"
+        },
+        {
+          "en": "I was neighboring the village when the zombies attacked our camp.",
+          "ja": "ゾンビが私たちのキャンプを攻撃したとき、村に隣接していた。",
+          "ipa": "/aɪ wəz ˈneɪbərɪŋ ðə ˈvɪlɪdʒ wɛn ðə ˈzɑːmbiz əˈtækt ˈaʊr kæmp/",
+          "linking": [
+            "I was → /aɪ wəz/ で自然に続く",
+            "was neighboring → 子音+子音",
+            "neighboring the → 子音+子音（the は弱形 /ðə/）",
+            "zombies attacked → 語末子音/z/が母音に連結 [ˈzɑːmbiz əˈtækt] ゾンビーズ アタック"
+          ],
+          "kana": "アイ ワズ ネイバーリング ザ ビリッジ ウェン ザ ゾンビーズ アタック アワー キャンプ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（動詞）",
+      "text": "had been neighboring",
+      "ipa": "/həd bɪn ˈneɪbərɪŋ/",
+      "examples": [
+        {
+          "en": "The outpost had been neighboring the ocean biome for months before the water level changed.",
+          "ja": "水位が変わる前に、アウトポストは何ヶ月もオーシャン バイオームに隣接していた。",
+          "ipa": "/ðə ˈaʊtpoʊst həd bɪn ˈneɪbərɪŋ ðə ˈoʊʃən ˈbaɪoʊm fɔːr ˈmʌnθz bɪˈfɔːr ðə ˈwɔːtər ˈlɛvəl ˈtʃeɪndʒd/",
+          "linking": [
+            "outpost had → 子音+子音（had は弱形 /həd/）",
+            "had been → 子音+母音で滑らかに連結 [həd bɪn] ハド ビン",
+            "been neighboring → 子音+子音",
+            "neighboring the → 子音+子音（the は弱形 /ðə/）",
+            "for months → for は弱形 /fɔr/、子音+子音で連結なし"
+          ],
+          "kana": "ザ アウトポースト ハド ビン ネイバーリング ザ オーシャン バイオーム ファー マンスズ ビフォア ザ ウォーター レベル チェンジド"
+        },
+        {
+          "en": "We had been neighboring the trading post for years before they renovated the entire facility.",
+          "ja": "彼らが施設全体を改築する前に、取引所に何年も隣接していた。",
+          "ipa": "/wi həd bɪn ˈneɪbərɪŋ ðə ˈtreɪdɪŋ poʊst fɔːr ˈjɪrz bɪˈfɔːr ðeɪ ˌrɛnəˈveɪtɪd ðə ɪnˈtaɪər fəˈsɪləti/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been neighboring → 子音+子音",
+            "neighboring the → 子音+子音（the は弱形 /ðə/）",
+            "for years → for は弱形 /fɔr/、子音+子音で連結なし"
+          ],
+          "kana": "ウィ ハド ビン ネイバーリング ザ トレーディング ポースト ファー イヤーズ ビフォア ゼイ レノーヴェイティド ザ インタイア ファシリティ"
+        }
+      ]
     }
   ]
 }
