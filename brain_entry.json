@@ -216,6 +216,105 @@
           "kana": "ブレイニング クリーパーズ クウィックリー イズ エッセンシャル ファー サーバイバル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is braining",
+      "ipa": "/ɪz ˈbreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "She is braining zombies while defending the base against the nightly horde.",
+          "ja": "夜間の群れから基地を守りながら、彼女はゾンビを殴っている。",
+          "ipa": "/ʃi ɪz ˈbreɪnɪŋ ˈzɑːmbiz waɪl dɪˈfɛndɪŋ ðə ˈbeɪs əˈɡɛnst ðə ˈnaɪtli ˈhɔːrd/",
+          "linking": [
+            "is braining → is は弱形 /ɪz/ に弱化",
+            "braining zombies → 語末/ŋ/が母音に続き自然に連結",
+            "defending the → the は弱形 /ðə/（子音の前）",
+            "base against → 語末子音/s/が母音/ə/に連結 [ˈbeɪs əˈɡɛnst] ベイセ"
+          ],
+          "kana": "シー イズ ブレイニング ゾンビーズ ワイル ディフェンディング ザ ベイセ アゲンスト ザ ナイトリー ホード"
+        },
+        {
+          "en": "We are braining the skeleton archers before they can shoot us from the cliff.",
+          "ja": "彼らが崖から私たちを撃つ前に、スケルトンの弓手を殴っている。",
+          "ipa": "/wi ɑr ˈbreɪnɪŋ ðə ˈskɛlətən ˈɑːrtʃərz bɪˈfɔːr ðeɪ kən ʃuːt əs frəm ðə klɪf/",
+          "linking": [
+            "are braining → are は弱形 /ɑr/ に弱化",
+            "braining the → the は弱形 /ðə/（子音の前）",
+            "skeleton archers → 語末/n/が母音/ɑ/に連結し滑らかに [ˈskɛlətən ˈɑːrtʃərz]",
+            "can shoot → can は弱形 /kən/",
+            "shoot us → 語末子音/t/が母音/ə/に挟まれてフラップ化 [ʃuːɾəs] シューラス",
+            "from the → from は弱形 /frəm/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー ブレイニング ザ スケリトン アーチャーズ ビフォア ゼイ キャン シューラス フラム ザ クリフ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was braining",
+      "ipa": "/wəz ˈbreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I was braining the creeper when it suddenly exploded.",
+          "ja": "クリーパーを殴っていたとき、突然爆発した。",
+          "ipa": "/aɪ wəz ˈbreɪnɪŋ ðə ˈkriːpɚ wɛn ɪt ˈsʌdənli ɪkˈsploʊdɪd/",
+          "linking": [
+            "was braining → was は弱形 /wəz/ に弱化",
+            "braining the → the は弱形 /ðə/（子音の前）",
+            "when it suddenly → when の語末/n/と it の/ɪ/が連結 [wɛn ɪt]、it の/t/と suddenly の/s/は子音+子音で未開放"
+          ],
+          "kana": "アイ ワズ ブレイニング ザ クリーパー ホェン イット サドゥンリー イクスプロウディド"
+        },
+        {
+          "en": "They were braining zombies in the tunnel when the ceiling started collapsing.",
+          "ja": "トンネルでゾンビを殴っていたとき、天井が崩壊し始めた。",
+          "ipa": "/ðeɪ wɚ ˈbreɪnɪŋ ˈzɑːmbiz ɪn ðə ˈtʌnəl wɛn ðə ˈsiːlɪŋ ˈstɑːrtəd kəˈlæpsɪŋ/",
+          "linking": [
+            "were braining → were は弱形 /wɚ/ に弱化",
+            "in the → the は弱形 /ðə/（子音の前）",
+            "tunnel when → 語末/l/が子音/w/に続き未開放",
+            "started collapsing → 語末/d/が子音/k/に続き未開放"
+          ],
+          "kana": "ゼイ ワー ブレイニング ゾンビーズ イン ダ タンネル ホェン ダ シーリング スターティド カラプシング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been braining",
+      "ipa": "/həd bɪn ˈbreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I had been braining mobs for hours when I finally found the diamonds.",
+          "ja": "ダイヤモンドを見つけるまで、何時間もモブを殴り続けていた。",
+          "ipa": "/aɪ həd bɪn ˈbreɪnɪŋ ˈmɑːbz fər ˈaʊərz wɛn aɪ ˈfaɪnəli ˈfaʊnd ðə ˈdaɪəməndz/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/（強形 /biːn/ ではなく）に弱化",
+            "been braining → 自然な連結",
+            "for hours → for は弱形 /fər/",
+            "found the → 語末子音/d/が子音/ð/に続き未開放傾向、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハド ビン ブレイニング モブズ ファー アワーズ ホェン アイ ファイナリー ファウンド ザ ダイアマンズ"
+        },
+        {
+          "en": "We had been braining the skeleton army for weeks before we collected enough bones.",
+          "ja": "十分な骨を集めるまで、何週間もスケルトン軍を殴り続けていた。",
+          "ipa": "/wi həd bɪn ˈbreɪnɪŋ ðə ˈskɛlətən ˈɑːrmi fər wiːks bɪˈfɔːr wi kəˈlɛktəd ɪˈnʌf ˈboʊnz/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been braining → 自然な連結",
+            "braining the → the は弱形 /ðə/（子音の前）",
+            "skeleton army → 語末/n/が母音/ɑ/に連結し滑らかに [ˈskɛlətən ˈɑːrmi]",
+            "for weeks → for は弱形 /fər/、weeks の語末/s/が before の子音に続く（連結なし）",
+            "we collected → we は /wi/、collected は /kəˈlɛktəd/"
+          ],
+          "kana": "ウィ ハド ビン ブレイニング ザ スケリトン アーミー ファー ウィークス ビフォア ウィ コレクティド イナフ ボーンズ"
+        }
+      ]
     }
   ]
 }
