@@ -206,6 +206,90 @@
           "kana": "ザ アレスツ アヴ ホウスタイル モウbズ セイヴド ザ ベイス フラム ダミッジ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is arresting",
+      "ipa": "/ɪz əˈrɛstɪŋ/",
+      "examples": [
+        {
+          "en": "The command block is arresting the creeper's movement right now.",
+          "ja": "コマンドブロックが今この瞬間にクリーパーの動きを止めている。",
+          "ipa": "[ðə kəˈmænd blɑk ɪz əˈrɛstɪŋ ðə ˈkriːpərz ˈmuːvmənt ɹaɪt naʊ]",
+          "linking": [
+            "block is: block は語末 /k/。is は弱形 /ɪz/。[blɑk ɪz]",
+            "creeper's movement: possessive s。[ˈkriːpərz]"
+          ],
+          "kana": "ザ コマンド ブラック イズ ア・レスティング ザ クリーパーズ ムーブメント ライト ナウ"
+        },
+        {
+          "en": "Are the diamonds arresting your attention again?",
+          "ja": "ダイヤモンドがまたあなたの注意を引いていますか？",
+          "ipa": "[ɑr ðə ˈdaɪmənzəˈrɛstɪŋ jɔr əˈtɛnʃən əˈɡɛn]",
+          "linking": [
+            "Are the: are は弱形 /ɚ/。[ɑr ðə]",
+            "diamonds arresting: diamonds は語末 /z/ が arresting の母音 /ə/ に連結。[ˈdaɪmənzə]"
+          ],
+          "kana": "アー ザ ダイマンズ ア・レスティング ユア アテンション ア・ゲン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was arresting",
+      "ipa": "/wəz əˈrɛstɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone mechanism was arresting the water flow perfectly.",
+          "ja": "レッドストーン機構が水の流れを完璧に止めていた。",
+          "ipa": "[ðə ˈrɛdstəʊn ˈmɛkənɪzəm wəz əˈrɛstɪŋ ðə ˈwɔːtər floʊ ˈpɜrfɪktli]",
+          "linking": [
+            "mechanism was: mechanism は語末 /m/。was は弱形 /wəz/。[ˈmɛkənɪzəm wəz]",
+            "the water: the は弱形 /ðə/。[ðə ˈwɔːtər]"
+          ],
+          "kana": "ザ レッドストウン メカニズム ワズ ア・レスティング ザ ウォーター フロウ パーフィクトリー"
+        },
+        {
+          "en": "We were arresting the mob attack when the chunk unloaded.",
+          "ja": "チャンクがアンロードされたときモブの攻撃を止めていた。",
+          "ipa": "[wi wɚ əˈrɛstɪŋ ðə moʊb əˈtæk wɛn ðə tʃʌŋk ʌnˈloʊdɪd]",
+          "linking": [
+            "we were: were は弱形 /wɚ/。[wi wɚ]",
+            "mob attack: mob は語末 /b/。attack は母音で始まる /ə/。/b/ と /ə/ で連結 [moʊbəˈtæk]"
+          ],
+          "kana": "ウィ ワー ア・レスティング ザ モウバタック ウェン ザ チャンク アンロウディッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been arresting",
+      "ipa": "/hæd bɪn əˈrɛstɪŋ/",
+      "examples": [
+        {
+          "en": "The plugin had been arresting hostile mobs for hours before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、プラグインは何時間も敵対的なモブを止めていた。",
+          "ipa": "[ðə ˈplʌdʒɪn hæd bɪn əˈrɛstɪŋ ˈhoʊstaɪl moʊbz fər ˈaʊərz bɪˈfɔːr ðə ˈsɜːrvər ˈkræʃt]",
+          "linking": [
+            "had been: had は弱形 /həd/。been は弱形 /bɪn/。[hæd bɪn]",
+            "for hours: for は弱形 /fɚ/。[fɚ ˈaʊərz]"
+          ],
+          "kana": "ザ プラギン ハド ビン ア・レスティング ホウスタイル モウbズ フォー アワーズ ビフォア ザ サーバー クラッシュト"
+        },
+        {
+          "en": "I had been arresting the flow with obsidian when you arrived.",
+          "ja": "あなたが到着したとき、黒曜石で流れを止めていた。",
+          "ipa": "[aɪ hæd bɪn əˈrɛstɪŋ ðə floʊ wɪð əbˈsɪdiən wɛn juː əˈraɪvd]",
+          "linking": [
+            "had been: had は弱形 /həd/。been は弱形 /bɪn/。[hæd bɪn]",
+            "with obsidian: with は弱形 /wɪð/。[wɪð əbˈsɪdiən]"
+          ],
+          "kana": "アイ ハド ビン ア・レスティング ザ フロウ ウィズ アブシディアン ウェン ユー ア・ライヴド"
+        }
+      ]
     }
   ]
 }
