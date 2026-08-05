@@ -265,6 +265,102 @@
           "kana": "ザ ゲイミング カフェ リーセントリー アップデイティド オール ゼア モニラーズ トゥ サポート ハイアー レゾリューションズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is monitoring",
+      "ipa": "/ɪz ˈmɑnɪtɚɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is monitoring the server to catch any cheaters in real-time.",
+          "ja": "管理者はリアルタイムで不正行為者を捕捉するためにサーバーを監視しています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈmɑnɪtɚɪŋ ðə ˈsɝːvər tu ˈkætʃ ˈɛni ˈtʃiːtərz ɪn ˈril ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/。admin と連結 [ðə ˈædmɪn] ザ アドミン",
+            "is は弱形 /ɪz/。monitoring に続く（末尾 /z/ が初頭 /m/ に続く、子音+子音で連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "server の末尾 /r/ が to の初頭 /t/ に続く（子音+子音、連結なし）。to は弱形 /tə/"
+          ],
+          "kana": "ザ アドミン イズ モニラリング ザ サーバー トゥ キャッチ エニー チーターズ イン リール タイム"
+        },
+        {
+          "en": "She is monitoring the creeper movements near the base.",
+          "ja": "彼女は基地の近くのクリーパーの動きを監視しています。",
+          "ipa": "/ʃi ɪz ˈmɑnɪtɚɪŋ ðə ˈkriːpər ˈmuːvmənts ˈnɪr ðə ˈbeɪs/",
+          "linking": [
+            "she は [ʃi]。is も弱形 /ɪz/ [ʃi ɪz] シー イズ",
+            "is の末尾 /z/ が monitoring の初頭 /m/ に続く（子音+子音、連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "near の末尾 /r/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ モニラリング ザ クリーパー ムーブメンツ ニアー ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was monitoring",
+      "ipa": "/wəz ˈmɑnɪtɚɪŋ/",
+      "examples": [
+        {
+          "en": "I was monitoring the redstone circuit when the explosion happened unexpectedly.",
+          "ja": "爆発が予想外に起こったとき、私はレッドストーン回路を監視していました。",
+          "ipa": "/aɪ wəz ˈmɑnɪtɚɪŋ ðə ˈrɛdˌstoʊn ˈsɝːkət wɛn ðə ɪkˈsploʊʒən ˈhæpənd ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "was は弱形 /wəz/。monitoring の末尾 /ŋ/ が初頭 /m/ に続く（子音+子音、連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "redstone の末尾 /n/ が circuit の初頭 /s/ に続く（子音+子音、連結なし）",
+            "when は [wɛn]。the に続く"
+          ],
+          "kana": "アイ ワズ モニラリング ザ レッドストーン サーキット ウェン ザ エクスプロージョン ハップンド アンイクスペクテッドリー"
+        },
+        {
+          "en": "They were monitoring the base entrance all night during the raid.",
+          "ja": "レイド中、彼らは夜通し基地の入り口を監視していました。",
+          "ipa": "/ðeɪ wər ˈmɑnɪtɚɪŋ ðə ˈbeɪs ˈɛntrəns ˈɔːl ˈnaɪt ˈdʊrɪŋ ðə ˈreɪd/",
+          "linking": [
+            "They は [ðeɪ]。were は弱形 /wər/ [ðeɪ wər] ザイ ワー",
+            "were の末尾 /r/ が monitoring の初頭 /m/ に続く（子音+子音、連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "during の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ワー モニラリング ザ ベース エントランス オール ナイト デュアリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been monitoring",
+      "ipa": "/həd ˈbɪn ˈmɑnɪtɚɪŋ/",
+      "examples": [
+        {
+          "en": "We had been monitoring the nether portal for hours before the wither appeared.",
+          "ja": "ウィザーが現れる前に、私たちは数時間ネザーポータルを監視していました。",
+          "ipa": "/wi həd ˈbɪn ˈmɑnɪtɚɪŋ ðə ˈnɛðər ˈpoʊrtəl fər ˈaʊərz bɪˈfɔːr ðə ˈwɪðər əˈpɪrd/",
+          "linking": [
+            "had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が monitoring の初頭 /m/ に続く（子音+子音、連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "for は弱形 /fər/ に弱化"
+          ],
+          "kana": "ウィ ハド ビン モニラリング ザ ネザー ポータル フォー アワーズ ビフォアー ザ ウィザー アピアード"
+        },
+        {
+          "en": "She had been monitoring the farm production when the village got attacked.",
+          "ja": "村が攻撃されたとき、彼女は農場の生産量を監視していました。",
+          "ipa": "/ʃi həd ˈbɪn ˈmɑnɪtɚɪŋ ðə ˈfɑːrm prəˈdʌkʃən wɛn ðə ˈvɪlɪdʒ ɡɑt əˈtækt/",
+          "linking": [
+            "had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が monitoring の初頭 /m/ に続く（子音+子音、連結なし）",
+            "monitoring の末尾 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the は弱形 /ðə/。farm と連結 [ðə ˈfɑːrm] ザ ファーム"
+          ],
+          "kana": "シー ハド ビン モニラリング ザ ファーム プロダクション ウェン ザ ヴィリッジ ガット アタクト"
+        }
+      ]
     }
   ]
 }
