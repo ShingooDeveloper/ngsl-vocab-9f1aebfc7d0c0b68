@@ -102,6 +102,108 @@
       "kana": "マイニング アンド パッキジング リソーシズ コンスームズ モウスト オヴ アワー デイリー タイム"
     }
   ],
+  "progressive_forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is packaging",
+      "ipa": "/ɪz ˈpækɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "She is packaging the supplies for our next expedition into the nether.",
+          "ja": "彼女は次のネザー遠征のための補給品を梱包しています。",
+          "ipa": "/ʃi ɪz ˈpækɪdʒɪŋ ðə səˈplaɪz fɔːr ˈaʊɚ ˈnɛkst ɪkˈspɪdɪʃən ˈɪntu ðə ˈnɛðɚ/",
+          "linking": [
+            "She は [ʃi]。is と連結 [ʃi ɪz] シー イズ",
+            "is は弱形 /ɪz/。packaging に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。supplies と連結 [ðə səˈplaɪz] ザ サプライズ",
+            "for は弱形 /fɔːr/。our と連結 [fɔːr ˈaʊɚ] フォー アワー",
+            "into の o が the に続く（母音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ パッキジング ザ サプライズ フォー アワー ネクスト エクスペディション イントゥ ザ ネザー"
+        },
+        {
+          "en": "They are packaging diamonds and emeralds in shulker boxes carefully.",
+          "ja": "彼らはダイヤモンドとエメラルドを慎重にシュルカーボックスに梱包しています。",
+          "ipa": "/ðeɪ ɑːr ˈpækɪdʒɪŋ ˈdaɪməndz‿ənd ɪˈmɛrəldz ɪn ˈʃʌlkɚ ˈbɑːksɪz ˈkɛrfəli/",
+          "linking": [
+            "They は [ðeɪ]。are と連結 [ðeɪ ɑːr] ザイ アー",
+            "diamonds は [ˈdaɪməndz]。and に続く。and は弱形 /ənd/ で連結 [ˈdaɪməndz‿ənd] ダイアマンズ アンド",
+            "in の n が shulker に続く（子音+子音、連結なし）",
+            "boxes は [ˈbɑːksɪz]。carefully に続く"
+          ],
+          "kana": "ザイ アー パッキジング ダイアマンズ アンド エメラルドズ イン シュルカー ボックシズ ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was packaging",
+      "ipa": "/wəz ˈpækɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "I was packaging the crops when a creeper suddenly attacked the barn.",
+          "ja": "クリーパーが突然納屋を攻撃した時、私は作物を梱包していました。",
+          "ipa": "/aɪ wəz ˈpækɪdʒɪŋ ðə ˈkrɑːps ˈwɛn ə ˈkripɚ ˈsʌdənli əˈtækt ðə ˈbɑːrn/",
+          "linking": [
+            "was は弱形 /wəz/。packaging に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。crops と連結 [ðə ˈkrɑːps] ザ クラップス",
+            "when は /wɛn/。a に続く。a は弱形 /ə/ で連結 [wɛn ə] ウェン ア",
+            "creeper の r が suddenly に続く（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ワズ パッキジング ザ クラップス ウェン ア クリーパー サドゥンリー アタックド ザ バーン"
+        },
+        {
+          "en": "He was packaging enchanted books while we mined for diamonds deep underground.",
+          "ja": "地下深くでダイヤモンドを採掘している間に、彼は魔法がかかった本を梱包していました。",
+          "ipa": "/hi wəz ˈpækɪdʒɪŋ ɪnˈtʃæntɪd ˈbʊks ˈwaɪl wi ˈmaɪnd fɔːr ˈdaɪməndz ˈdiːp ˌʌndɚˈɡraʊnd/",
+          "linking": [
+            "He は [hi]。was と連結 [hi wəz] ヒー ワズ",
+            "was は弱形 /wəz/。packaging に続く（子音+子音、連結なし）",
+            "while は [waɪl]。we と連結 [waɪl wi] ワイル ウィ",
+            "for は弱形 /fɔːr/。diamonds に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー ワズ パッキジング エンチャンティド ブックス ワイル ウィ マインド フォー ダイアマンズ ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been packaging",
+      "ipa": "/həd bɪn ˈpækɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "We had been packaging the resources for hours before the trading ship finally arrived.",
+          "ja": "交易船がようやく到着する前に、私たちは何時間もリソースを梱包していました。",
+          "ipa": "/wi həd bɪn ˈpækɪdʒɪŋ ðə ˈrɛsɚsɪz fɔːr ˈaʊɚz bɪˈfɔːr ðə ˈtreɪdɪŋ ˈʃɪp ˈfaɪnəli əˈraɪvd/",
+          "linking": [
+            "had は弱形 /həd/。been に続く",
+            "been は弱形 /bɪn/。packaging に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/。resources と連結 [ðə ˈrɛsɚsɪz] ザ リソーシズ",
+            "for は弱形 /fɔːr/。hours と連結 [fɔːr ˈaʊɚz] フォー アワーズ",
+            "before は /bɪˈfɔːr/。the に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ビン パッキジング ザ リソーシズ フォー アワーズ ビフォー ザ トレイディング シップ ファイナリー アライヴド"
+        },
+        {
+          "en": "She had been packaging items all day before she finally took a well-deserved break.",
+          "ja": "彼女はようやく休憩を取る前に、一日中アイテムを梱包していました。",
+          "ipa": "/ʃi həd bɪn ˈpækɪdʒɪŋ ˈaɪtəmz ˈɔːl ˈdeɪ bɪˈfɔːr ʃi ˈfaɪnəli ˈtʊk ə ˌwɛl dɪˈzɜːrvd ˈbreɪk/",
+          "linking": [
+            "had は弱形 /həd/。been に続く",
+            "been は弱形 /bɪn/。packaging に続く（子音+子音、連結なし）",
+            "all は [ˈɔːl]。day と連結 [ˈɔːl ˈdeɪ] オール デイ",
+            "before は /bɪˈfɔːr/。she に続く",
+            "a は弱形 /ə/。well と連結 [ə ˈwɛl] ア ウェル",
+            "well は [ˈwɛl]。deserved に続く"
+          ],
+          "kana": "シー ハド ビン パッキジング アイタムズ オール デイ ビフォー シー ファイナリー トゥック ア ウェル ディザーヴド ブレイク"
+        }
+      ]
+    }
+  ],
   "forms": [
     {
       "type": "3rd_person_singular",
