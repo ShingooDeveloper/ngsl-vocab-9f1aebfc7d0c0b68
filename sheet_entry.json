@@ -211,6 +211,104 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is sheeting",
+      "ipa": "/ɪz ˈʃiːtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is sheeting the mansion walls with white marble right now.",
+          "ja": "スティーブが今、白い大理石で館の壁を覆っている。",
+          "ipa": "/ˈstiːv ɪz ˈʃiːtɪŋ ðə ˈmænʃən wɔːlz wɪð waɪt ˈmɑːrbəl ˈraɪt naʊ/",
+          "kana": "スティーヴ イズ シーティング ダ マンション ウォールズ ウィズ ホワイト マーブル ライト ナウ",
+          "linking": [
+            "Steve is → /v/ が /ɪ/ に連結 [ˈstiːvɪz]",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the mansion → 機能語 the は弱形 /ðə/",
+            "is → 機能語 is は弱形 /ɪz/"
+          ]
+        },
+        {
+          "en": "We are sheeting the fortress tower with obsidian blocks.",
+          "ja": "要塞の塔を黒曜石ブロックで覆っている。",
+          "ipa": "/wiː ər ˈʃiːtɪŋ ðə ˈfɔːrtɪs ˈtaʊər wɪð əbˈsɪdiən ˈblɑːks/",
+          "kana": "ウィ アー シーティング ダ フォーティス タウアー ウィザプシディアン ブロックス",
+          "linking": [
+            "are → 機能語 are は弱形 /ər/",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the fortress → 機能語 the は弱形 /ðə/",
+            "with obsidian → with の /ð/ が obsidian の /ə/ に連結 [wɪðəbˈsɪdiən]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was sheeting",
+      "ipa": "/wəz ˈʃiːtɪŋ/",
+      "examples": [
+        {
+          "en": "I was sheeting the roof with copper when a lightning struck nearby.",
+          "ja": "すぐ近くに落雷が落ちたとき、銅で屋根を覆っていた。",
+          "ipa": "/aɪ wəz ˈʃiːtɪŋ ðə ˈruːf wɪð ˈkɑːpər wɛn ə ˈlaɪtnɪŋ ˈstrʌk ˈnɪrbaɪ/",
+          "kana": "アイ ワズ シーティング ダ ルーフ ウィズ カッパー ウェナ ライトニング ストラック ニアバイ",
+          "linking": [
+            "was → 機能語 was は弱形 /wəz/",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the roof → 機能語 the は弱形 /ðə/",
+            "when a → /n/ が /ə/ に連結 [wɛnə]"
+          ]
+        },
+        {
+          "en": "They were sheeting the farm structures with wood when the rain started.",
+          "ja": "雨が降り始めたときに、彼らは農場の建造物を木で覆っていた。",
+          "ipa": "/ðeɪ wɚ ˈʃiːtɪŋ ðə ˈfɑːrm ˈstrʌktʃərz wɪð wʊd wɛn ðə ˈreɪn ˈstɑːrtɪd/",
+          "kana": "ゼイ ワー シーティング ダ ファーム ストラクチャーズ ウィズ ウッド ウェン ダ レイン スターティド",
+          "linking": [
+            "were → 機能語 were は弱形 /wɚ/",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the farm → 機能語 the は弱形 /ðə/",
+            "the rain → 機能語 the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been sheeting",
+      "ipa": "/həd bɪn ˈʃiːtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been sheeting the tunnel walls for days before we finished the project.",
+          "ja": "プロジェクトを完成させるまで、何日もトンネルの壁を覆っていた。",
+          "ipa": "/wiː həd bɪn ˈʃiːtɪŋ ðə ˈtʌnəl wɔːlz fər deɪz bɪˈfɔːr wiː ˈfɪnɪʃt ðə ˈprɑːdʒɛkt/",
+          "kana": "ウィー ハド ビン シーティング ダ タンネル ウォールズ ファー デイズ ビフォア ウィー フィニッシュト ダ プロジェクト",
+          "linking": [
+            "had → 機能語 had は弱形 /həd/",
+            "been → 機能語 been は弱形 /bɪn/",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the tunnel → 機能語 the は弱形 /ðə/",
+            "for → 機能語 for は弱形 /fər/"
+          ]
+        },
+        {
+          "en": "I had been sheeting the exterior with stone for hours when the sun set.",
+          "ja": "太陽が沈むまで、何時間も石で外壁を覆っていた。",
+          "ipa": "/aɪ həd bɪn ˈʃiːtɪŋ ðə ɪkˈstɪriər wɪð stoʊn fər ˈaʊərz wɛn ðə ˈsʌn sɛt/",
+          "kana": "アイ ハド ビン シーティング ダ イクスティリアー ウィズ ストウン ファー アワーズ ウェン ダ サン セット",
+          "linking": [
+            "had → 機能語 had は弱形 /həd/",
+            "been → 機能語 been は弱形 /bɪn/",
+            "sheeting the → /ŋ/ が /ð/ に続く",
+            "the exterior → 機能語 the は弱形 /ðə/",
+            "for → 機能語 for は弱形 /fər/"
+          ]
+        }
+      ]
     }
   ]
 }
