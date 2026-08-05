@@ -166,6 +166,90 @@
           "kana": "ワイル インベスティゲイティング ザ ディープ ダンジョン、ウィ エンカウンタード ア レア モブ ウィー ディド ネバー シーン ビフォー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is investigating",
+      "ipa": "/ɪz ɪnˈvɛstəɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is investigating the ore vein deep underground.",
+          "ja": "スティーブは地下深くの鉱脈を調査中です。",
+          "ipa": "/stiːv ɪz ɪnˈvɛstəɡeɪtɪŋ ðə ɔːr veɪn diːp ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "弱形: is /ɪz/、the /ðə/",
+            "vein deep: vein の語末子音 /n/ が deep の母音 /i/ に連結 [veɪndiːp] ヴェイン→ディープ"
+          ],
+          "kana": "スティーブ イズ インベスティゲイティング ザ オア ヴェインディープ アンダーグラウンド"
+        },
+        {
+          "en": "The players are investigating the ancient temple for treasure.",
+          "ja": "プレイヤーたちは古い寺院で宝物を探して調査中です。",
+          "ipa": "/ðə ˈpleɪərz ɑr ɪnˈvɛstəɡeɪtɪŋ ðə ˈeɪnʃənt ˈtɛmpəl fɔr ˈtrɛʒər/",
+          "linking": [
+            "弱形: the /ðə/、are が続く（機能語）",
+            "temple for: temple の語末子音 /l/ が for の母音 /ɔ/ に連結 [ˈtɛmpəlfɔr] テンプル→フォー"
+          ],
+          "kana": "ザ プレイヤーズ アー インベスティゲイティング ザ エインシャント テンプルフォー トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was investigating",
+      "ipa": "/wəz ɪnˈvɛstəɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was investigating the cave when a creeper appeared.",
+          "ja": "洞窟を調査していた時、クリーパーが現れました。",
+          "ipa": "/aɪ wəz ɪnˈvɛstəɡeɪtɪŋ ðə keɪv wɛn ə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "弱形: was /wəz/、the /ðə/、a /ə/",
+            "cave when: cave の語末子音 /v/ が when の母音 /ɛ/ に連結 [keɪvwɛn] キェイヴ→ウェン"
+          ],
+          "kana": "アイ ワズ インベスティゲイティング ザ キェイヴウェン ア クリーパー アピアド"
+        },
+        {
+          "en": "We were investigating the redstone circuit when the system failed.",
+          "ja": "レッドストーン回路を調査していた時、システムが故障しました。",
+          "ipa": "/wi wər ɪnˈvɛstəɡeɪtɪŋ ðə ˈrɛdˌstoʊn ˈsɜːrkɪt wɛn ðə ˈsɪstəm ˈfeɪld/",
+          "linking": [
+            "弱形: were /wə/、the /ðə/",
+            "circuit when: circuit の語末子音 /t/ が when の母音 /ɛ/ に連結 [ˈsɜːrkɪtwɛn] サーキット→ウェン"
+          ],
+          "kana": "ウィ ワー インベスティゲイティング ザ レッドストーン サーキットウェン ザ システム フェイルド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been investigating",
+      "ipa": "/həd bɪn ɪnˈvɛstəɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been investigating the stronghold for hours before we found the portal.",
+          "ja": "ポータルを見つける前に、数時間要塞を調査していました。",
+          "ipa": "/wi həd bɪn ɪnˈvɛstəɡeɪtɪŋ ðə ˈstrɔŋˌhoʊld fɔr ˈaʊərz bɪˈfɔːr wi faʊnd ðə ˈpoːrtəl/",
+          "linking": [
+            "弱形: had /həd/、been /bɪn/、the /ðə/、for /fə/",
+            "stronghold for: stronghold の語末子音 /d/ が for の母音 /ɔ/ に連結 [ˈstrɔŋhoʊldfɔr] ストロングホールド→フォー"
+          ],
+          "kana": "ウィ ハド ビン インベスティゲイティング ザ ストロングホールドフォー アワーズ ビフォー ウィ ファウンド ザ ポータル"
+        },
+        {
+          "en": "She had been investigating the mob spawner when she realized it was broken.",
+          "ja": "彼女がモブスポーナーが壊れていることに気づいたとき、調査していました。",
+          "ipa": "/ʃi həd bɪn ɪnˈvɛstəɡeɪtɪŋ ðə mɑb ˈspaːnər wɛn ʃi riˈæləzd ɪt wəz ˈbroʊkən/",
+          "linking": [
+            "弱形: had /həd/、been /bɪn/、the /ðə/、was /wəz/",
+            "spawner when: spawner の語末子音 /r/ が when の母音 /ɛ/ に連結 [ˈspaːnərwɛn] スポーナー→ウェン"
+          ],
+          "kana": "シ ハド ビン インベスティゲイティング ザ マブ スポーナーウェン シ リアライズド イット ワズ ブロークン"
+        }
+      ]
     }
   ]
 }
