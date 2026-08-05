@@ -208,6 +208,97 @@
           "kana": "バイ チャーティング アワー リソーシズ マンスリー、ウィ キャン トラック サプライ トレンズ アンド プラン アヘッド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is charting",
+      "ipa": "/ɪz ˈtʃɑrtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is charting the terrain while exploring new caves.",
+          "ja": "スティーブは新しい洞窟を探索しながら地形を地図に記入しています。",
+          "ipa": "/stiːv ɪz ˈtʃɑrtɪŋ ðə ˈtɛreɪn waɪl ɪkˈsplɔːrɪŋ ˈnjuː keɪvz/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "the terrain → the は弱形 /ðə/、terrain は /ˈtɛreɪn/（stressed）",
+            "while exploring → while の語末子音 /l/ が exploring の母音 /ɪ/ に連結 [waɪl ɪkˈsplɔːrɪŋ] ワイル エクスプロアリング"
+          ],
+          "kana": "スティーヴ イズ チャーティング ザ テレイン ワイル エクスプロアリング ニュー ケイブズ"
+        },
+        {
+          "en": "We are charting our mining route through the mountain.",
+          "ja": "私たちは山を通る採掘ルートを地図に記入しています。",
+          "ipa": "/wi ɑr ˈtʃɑrtɪŋ ˈaʊɚ ˈmaɪnɪŋ ˈruːt θruː ðə ˈmaʊntən/",
+          "linking": [
+            "are → 弱形 /ɑr/ または /ə(ɹ)/",
+            "through the → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー チャーティング アワー マイニング ルート スルー ザ マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was charting",
+      "ipa": "/wəz ˈtʃɑrtɪŋ/",
+      "examples": [
+        {
+          "en": "She was charting the caves when the creeper appeared.",
+          "ja": "クリーパーが現れた時、彼女は洞窟を地図に記入していました。",
+          "ipa": "/ʃi wəz ˈtʃɑrtɪŋ ðə keɪvz wɛn ðə ˈkriːpɚ əˈpɪrd/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the caves → the は弱形 /ðə/",
+            "when the → the は弱形 /ðə/",
+            "the creeper → the は弱形 /ðə/"
+          ],
+          "kana": "シー ワズ チャーティング ザ ケイブズ ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "They were charting coordinates when they found the stronghold.",
+          "ja": "彼らが要塞を見つけた時、座標を地図に記入していました。",
+          "ipa": "/ðeɪ wɚ ˈtʃɑrtɪŋ ˌkoʊˈɔːrdɪnəts wɛn ðeɪ ˈfaʊnd ðə ˈstrɔŋhoʊld/",
+          "linking": [
+            "were → 弱形 /wɚ/（r-colored schwa）",
+            "found the → found の語末子音 /d/ が the の子音 /ð/ に連結することなし、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ワー チャーティング コーディネッツ ウェン ゼイ ファウンド ザ ストロングホールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been charting",
+      "ipa": "/həd bɪn ˈtʃɑrtɪŋ/",
+      "examples": [
+        {
+          "en": "Before the server crashed, I had been charting the biome distribution.",
+          "ja": "サーバーがクラッシュする前に、バイオームの分布を地図に記入していました。",
+          "ipa": "/bɪˈfɔr ðə ˈsɝvɚ kræʃt | aɪ həd bɪn ˈtʃɑrtɪŋ ðə ˈbaɪoʊm ˌdɪstrɪˈbjuːʃən/",
+          "linking": [
+            "Before the → the は弱形 /ðə/",
+            "the server → the は弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "the biome → the は弱形 /ðə/"
+          ],
+          "kana": "ビフォア ザ サーバー クラッシュド、アイ ハッド ビン チャーティング ザ バイオーム ディストリビューション"
+        },
+        {
+          "en": "She had been charting routes for hours before she found the ancient city.",
+          "ja": "彼女が古代都市を見つけるまで数時間、ルートを地図に記入していました。",
+          "ipa": "/ʃi həd bɪn ˈtʃɑrtɪŋ ˈruːts fɚ ˈaʊɚz bɪˈfɔr ʃi ˈfaʊnd ðə ˈeɪnʃənt ˈsɪti/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "for → 弱形 /fɚ/",
+            "the ancient → the は弱形 /ðə/",
+            "found the → the は弱形 /ðə/"
+          ],
+          "kana": "シー ハッド ビン チャーティング ルーツ ファー アワーズ ビフォア シー ファウンド ザ エインシェント シティ"
+        }
+      ]
     }
   ]
 }
