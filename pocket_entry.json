@@ -180,6 +180,100 @@
           "kana": "ワイル ポキティング オア ビー ケアフラヴ ラーヴァ フロウイング ダウン ザ ウォールズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is pocketing",
+      "ipa": "/ɪz ˈpɑkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm pocketing all the diamonds before the lava reaches me.",
+          "ja": "溶岩が私に到達する前に、すべてのダイヤモンドをポケットに入れています。",
+          "ipa": "[aɪm ˈpɑkɪtɪŋɔl ðə ˈdaɪməndz bɪˈfoɹ ðə ˈlɑvə ˈriːtʃɪz mi]",
+          "linking": [
+            "I'm pocketing → /aɪm/ の末尾 /m/（鼻音）が /ɔ/ に連結 [aɪm ˈpɑkɪtɪŋɔl] アイム ポキティングオール",
+            "the → 定冠詞で弱形 /ðə/",
+            "before the → before の末尾 /r/ と the の初頭 /ð/ は子音+子音で接近"
+          ],
+          "kana": "アイム ポキティングオール ザ ダイモンズ ビフォー ザ ラーヴァ リーチズ ミー"
+        },
+        {
+          "en": "He is pocketing the gems as they fall from the ore block.",
+          "ja": "彼は鉱石ブロックから落ちてくるジェムをポケットに入れています。",
+          "ipa": "[hi ɪz ˈpɑkɪtɪŋ ðə dʒɛmzæz ðeɪ fɔl frəm ðə ɔr blɑk]",
+          "linking": [
+            "He is → He /hi/ と is の弱形 /ɪz/ は接近。is の末尾 /z/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "gems as → gems の末尾 /z/ が as の初頭 /æ/ に連結 [dʒɛmzæz] ジェムザズ",
+            "from → 前置詞で弱形 /frəm/。fall の末尾 /l/ と from の初頭 /f/ は子音+子音で接近"
+          ],
+          "kana": "ヒー イズ ポキティング ザ ジェムザズ ゼイ フォール フラム ザ オア ブロック"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was pocketing",
+      "ipa": "/wəz ˈpɑkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was pocketing the ores when the creeper suddenly appeared.",
+          "ja": "鉱石をポケットに入れていたとき、クリーパーが突然現れました。",
+          "ipa": "[aɪ wəz ˈpɑkɪtɪŋ ðə ɔrz wɛn ðə ˈkripər ˈsʌdənli əˈpɪrd]",
+          "linking": [
+            "was pocketing → was の弱形 /wəz/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "the → 定冠詞で弱形 /ðə/",
+            "ores when → ores の末尾 /z/ と when の初頭 /w/ は子音+子音で接近。when の末尾 /n/ と the の初頭 /ð/ も子音+子音で接近"
+          ],
+          "kana": "アイ ワズ ポキティング ザ オーズ ウェン ザ クリーパー サドゥンリー アピアード"
+        },
+        {
+          "en": "They were pocketing valuable items throughout the entire mine.",
+          "ja": "彼らはマイン全体を通じて価値のあるアイテムをポケットに入れていました。",
+          "ipa": "[ðeɪ wɜr ˈpɑkɪtɪŋ ˈvæljuəbəlaɪtəmz θruˈaʊt ðə ɛnˈtaɪr maɪn]",
+          "linking": [
+            "They were → were の末尾 /r/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "pocketing valuable → pocketing の末尾 /ŋ/ と valuable の初頭 /v/ は鼻音+子音で接近。valuable の末尾 /l/ が items の初頭 /aɪ/ に連結 [ˈvæljuəbəlaɪtəmz] ヴァルュアバル アイテムズ",
+            "throughout the → throughout の末尾 /t/ と the の初頭 /ð/ は子音+子音で接近。the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ワー ポキティング ヴァルュアバル アイテムズ スルーアウト ザ エンタイア マイン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been pocketing",
+      "ipa": "/həd bɪn ˈpɑkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been pocketing diamonds for an hour before we found the lava lake.",
+          "ja": "溶岩湖を見つける前に、私たちは1時間ダイヤモンドをポケットに入れていました。",
+          "ipa": "[wi həd bɪn ˈpɑkɪtɪŋ ˈdaɪməndz fɔr ən ˈaʊər bɪˈfoɹ wi faʊnd ðə ˈlɑvə leɪk]",
+          "linking": [
+            "had been → had の弱形 /həd/ と been の弱形 /bɪn/ の間、/d/ と /b/ は子音+子音で接近",
+            "been pocketing → been の末尾 /n/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "for an → for は弱形 /fər/ と an は弱形 /ən/。/r/ と /ə/ は接近。an hour で /ən ˈaʊər/ 、/n/ と /aʊ/ で連結 [ən ˈaʊər] エン アワー",
+            "before we → before の末尾 /r/ と we の初頭 /w/ は子音+子音で接近"
+          ],
+          "kana": "ウィー ハド ビン ポキティング ダイモンズ フォー エン アワー ビフォー ウィー ファウンド ザ ラーヴァ レイク"
+        },
+        {
+          "en": "She had been pocketing rare materials all morning before her inventory was full.",
+          "ja": "彼女のインベントリがいっぱいになる前に、彼女は午前中ずっとレアマテリアルをポケットに入れていました。",
+          "ipa": "[ʃi həd bɪn ˈpɑkɪtɪŋ rer məˈtɪriəlz ɔl ˈmɔrnɪŋ bɪˈfoɹ hɜrɪnˈvɛntəri wəz fʊl]",
+          "linking": [
+            "She had → She /ʃi/ と had の弱形 /həd/ の間は子音+子音で接近",
+            "had been → had の末尾 /d/ と been の初頭 /b/ は子音+子音で接近",
+            "been pocketing → been の末尾 /n/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "pocketing rare → pocketing の末尾 /ŋ/ と rare の初頭 /r/ は鼻音+子音で接近。rare の末尾 /r/ と materials の初頭 /m/ は子音+子音で接近",
+            "all morning → all の末尾 /l/ と morning の初頭 /m/ は子音+子音で接近",
+            "before her → before の末尾 /r/ と her の初頭 /h/ は子音+子音で接近。her の末尾 /r/ が inventory の初頭 /ɪ/ に連結 [hɜrɪnˈvɛntəri] ハリン ベントリ"
+          ],
+          "kana": "シー ハド ビン ポキティング レア マテリアルズ オール モーニング ビフォー ハリン ベントリ ワズ フール"
+        }
+      ]
     }
   ]
 }
