@@ -180,6 +180,96 @@
           "kana": "ボーダリング オン サクセス ウィ フィニシト ザ レッストゥーン ドア"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bordering",
+      "ipa": "/ɪz ˈbɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "That jungle area is bordering our new settlement.",
+          "ja": "あのジャングルエリアは私たちの新しい入植地に隣接している。",
+          "ipa": "/ðæt ˈdʒʌŋɡəl ˈæriə ɪz ˈbɔːrdərɪŋ ˈaʊər ˈnjuː ˈsɛtəlmənt/",
+          "linking": [
+            "area の語末 /ə/ が is の /ɪz/ に連結 [ˈæriə ɪz]「エリア イズ」。is は弱形 /ɪz/"
+          ],
+          "kana": "ザッ ジャングル エリア イズ ボーダリング アワー ニュー セットルメント"
+        },
+        {
+          "en": "The mountain biome is currently bordering three different zones.",
+          "ja": "その山岳バイオームは現在3つの異なるゾーンに隣接している。",
+          "ipa": "/ðə ˈmaʊntən ˈbaɪoʊm ɪz ˈkɜːrəntli ˈbɔːrdərɪŋ ˈθriː ˈdɪfərənt ˈzoʊnz/",
+          "linking": [
+            "the の弱形 /ðə/「ザ」",
+            "biome の語末 /m/ が is の /ɪz/ に連結 [ˈbaɪoʊm ɪz]「バイオウム イズ」。is は弱形 /ɪz/"
+          ],
+          "kana": "ザ マウンテン バイオウム イズ カレントリー ボーダリング スリー ディファレント ゾウンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bordering",
+      "ipa": "/wəz ˈbɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "When I started building, the swamp was bordering my farm.",
+          "ja": "建築を始めた時、沼地は私の農場に隣接していた。",
+          "ipa": "/wɛn aɪ ˈstɑːrtəd ˈbɪldɪŋ ðə ˈswɑːmp wəz ˈbɔːrdərɪŋ maɪ ˈfɑːrm/",
+          "linking": [
+            "started の語末 /d/ が building に未開放で続く [ˈstɑːrtəd̚ ˈbɪldɪŋ]「スターティド ビルディング」",
+            "the の弱形 /ðə/「ザ」",
+            "swamp の語末 /p/ が was の /ə/ に連結し、was も弱形 /wəz/ [ˈswɑːmp wəz]「スワンプ ウォズ」"
+          ],
+          "kana": "ウェン アイ スターティド ビルディング ザ スワンプ ウォズ ボーダリング マイ ファーム"
+        },
+        {
+          "en": "They were exploring while their base was bordering the ocean.",
+          "ja": "彼らが探検していた時、ベースは海に隣接していた。",
+          "ipa": "/ðeɪ wər ɪkˈsplɔːrɪŋ waɪl ðɛr ˈbeɪs wəz ˈbɔːrdərɪŋ ðə ˈoʊʃən/",
+          "linking": [
+            "were は弱形 /wər/「ワー」",
+            "exploring の語末 /ŋ/ が while の子音に続く [ɪkˈsplɔːrɪŋ waɪl]「エクスプローリング ワイル」",
+            "base の語末 /s/ が was に続く。was も弱形 /wəz/ [ˈbeɪs wəz]「ベイス ウォズ」",
+            "the の弱形 /ðə/「ザ」"
+          ],
+          "kana": "ゼイ ワー エクスプローリング ワイル ゼア ベイス ウォズ ボーダリング ザ オウシャン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bordering",
+      "ipa": "/həd bɪn ˈbɔːrdərɪŋ/",
+      "examples": [
+        {
+          "en": "The forest had been bordering the desert before the biome changed.",
+          "ja": "バイオームが変わる前に、森は砂漠に隣接していた。",
+          "ipa": "/ðə ˈfɔːrɪst həd bɪn ˈbɔːrdərɪŋ ðə ˈdɛzərt bɪˈfɔːr ðə ˈbaɪoʊm ˈtʃeɪndʒd/",
+          "linking": [
+            "the の弱形 /ðə/「ザ」",
+            "forest の語末 /t/ が had に未開放で続く [ˈfɔːrɪst̚ həd]「フォレスト ハド」。had も弱形 /həd/",
+            "had の語末 /d/ が been の /ɪ/ に連結。been も弱形 /bɪn/ [həd bɪn]「ハド ビン」",
+            "bordering の語末 /ŋ/ が the に続く [ˈbɔːrdərɪŋ ðə]「ボーダリング ザ」。the も弱形 /ðə/"
+          ],
+          "kana": "ザ フォレスト ハド ビン ボーダリング ザ デザート ビフォー ザ バイオウム チェインジド"
+        },
+        {
+          "en": "We realized that area had been bordering a ravine all along.",
+          "ja": "その領域がずっと渓谷に隣接していたことに気づいた。",
+          "ipa": "/wiː ˈriːəlaɪzd ðæt ˈæriə həd bɪn ˈbɔːrdərɪŋ ə rəˈviːn ɔːl əˈlɔŋ/",
+          "linking": [
+            "realized の語末 /d/ が that に未開放で続く [ˈriːəlaɪzd̚ ðæt]「リアライズド ザッ」",
+            "area の語末 /ə/ が had に続く。had も弱形 /həd/ [ˈæriə həd]「エリア ハド」",
+            "had の語末 /d/ が been の /ɪ/ に連結。been も弱形 /bɪn/ [həd bɪn]「ハド ビン」",
+            "bordering の語末 /ŋ/ が a の /ə/ に続く [ˈbɔːrdərɪŋ ə]「ボーダリング ア」。a も弱形 /ə/"
+          ],
+          "kana": "ウィ リアライズド ザッ エリア ハド ビン ボーダリング ア ラヴィーン オール アロング"
+        }
+      ]
     }
   ]
 }
