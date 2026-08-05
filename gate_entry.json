@@ -233,6 +233,97 @@
           "kana": "ウィ スペア アワーズ ゲイティング オフ ザ ネザー ポータル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is gating",
+      "ipa": "/ɪz ˈɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He is gating the entrance with iron bars.",
+          "ja": "彼が鉄の柵で入口を門で塞いでいる。",
+          "ipa": "/hi ɪz ˈɡeɪtɪŋ ðə ˈɛntrəns wɪð ˈaɪɚn bɑrz/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/",
+            "with iron → /ð/ + /ˈaɪ/ は連結なし"
+          ],
+          "kana": "ヒー イズ ゲイティング ザ エントランス ウィズ アイアン バーズ"
+        },
+        {
+          "en": "They are gating the nether portal entrance.",
+          "ja": "彼らがネザーポータルの入口を門で塞いでいる。",
+          "ipa": "/ðeɪ ɑr ˈɡeɪtɪŋ ðə ˈnɛðɚ ˈpoɹtl̩ ˈɛntrəns/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "the は弱形 /ðə/",
+            "nether portal → /r/ + /p/ は連結なし"
+          ],
+          "kana": "ゼイ アー ゲイティング ザ ネザー ポータル エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was gating",
+      "ipa": "/wəz ˈɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We were gating off the breeding area when the raid started.",
+          "ja": "襲撃が始まったとき、私たちが繁殖エリアを門で塞いでいた。",
+          "ipa": "/wi wɚ ˈɡeɪtɪŋ ɔf ðə ˈbriːdɪŋ ˈɛɹiə wɛn ðə reɪd ˈstɑɹtɪd/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "the は弱形 /ðə/",
+            "when the → /n/ + /ð/ は連結なし。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ワー ゲイティング オフ ザ ブリーディング エリア ウェン ザ レイド スターティド"
+        },
+        {
+          "en": "She was gating the exit to prevent escape.",
+          "ja": "脱出を防ぐために彼女が出口を門で塞いでいた。",
+          "ipa": "/ʃi wəz ˈɡeɪtɪŋ ðə ˈɛɡzɪt tu prɪˈvɛnt ɪˈskeɪp/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/、prevent との間で連結"
+          ],
+          "kana": "シー ワズ ゲイティング ザ エグジット タ プリヴェント イスケイプ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been gating",
+      "ipa": "/həd bɪn ˈɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been gating the fortress for hours before the attack.",
+          "ja": "攻撃の前に、私たちが砦を何時間も門で塞いでいた。",
+          "ipa": "/wi həd bɪn ˈɡeɪtɪŋ ðə ˈfɔɹtres fɚ ˈaʊɚz bɪˈfɔr ðə əˈtæk/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/",
+            "for は弱形 /fɚ/、hours との間で連結"
+          ],
+          "kana": "ウィ ハド ビン ゲイティング ザ フォートレス ファー アワーズ ビフォア ザ アタック"
+        },
+        {
+          "en": "He had been gating off sections of his base all week.",
+          "ja": "彼は1週間中ずっと基地のセクションを門で塞いでいた。",
+          "ipa": "/hi həd bɪn ˈɡeɪtɪŋ ɔf ˈsɛkʃənz əv hɪz beɪs ɔl wik/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "of は弱形 /əv/、sections との間で連結"
+          ],
+          "kana": "ヒー ハド ビン ゲイティング オフ セクションズ アヴ ヒズ ベース オール ウィーク"
+        }
+      ]
     }
   ]
 }
