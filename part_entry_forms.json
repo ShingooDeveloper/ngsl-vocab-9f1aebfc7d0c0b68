@@ -231,6 +231,96 @@
           "kana": "ザ テレイン ハド ビン パーティング イントゥ ヴァリーズ ファー サウザンズ アヴ ブロックス アンダーグラウンド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has parted",
+      "ipa": "/həz ˈpɑrtəd/",
+      "examples": [
+        {
+          "en": "The soil has parted, revealing the diamonds inside.",
+          "ja": "土が分かれて、中のダイアモンドが現れました。",
+          "ipa": "[ðə sɔɪl həz ˈpɑrtəd rɪˈvilɪŋ ðə ˈdaɪməndz ɪnˈsaɪd]",
+          "linking": [
+            "the + soil → 弱形 /ðə/ が /s/ に連結 [ðə sɔɪl] ザ ソイル",
+            "soil + has → 語末 /l/ が弱形 /həz/ に連結 [sɔɪl həz] ソイル ハズ",
+            "has + parted → /z/ が /p/ に未開放で連接 [həz̚ ˈpɑrtəd] ハズ パーテッド"
+          ],
+          "kana": "ザ ソイル ハズ パーテッド リビーリング ザ ダイモンズ インサイド"
+        },
+        {
+          "en": "You have parted the lava flow to cross the Nether safely.",
+          "ja": "あなたは溶岩の流れを分けてネザーを安全に横切りました。",
+          "ipa": "[ju həv ˈpɑrtəd ðə ˈlɑvə ˈfloʊ tu ˈkrɔs ðə ˈnɛðər ˈseɪfli]",
+          "linking": [
+            "You + have → /u/ が /h/ に連結 [ju həv] ユー ハヴ",
+            "have + parted → /v/ が /p/ に未開放で連接 [həv̚ ˈpɑrtəd] ハヴ パーテッド",
+            "to + cross → 弱形 /tə/ が /k/ に連結 [tə ˈkrɔs] タ クロス"
+          ],
+          "kana": "ユー ハヴ パーテッド ザ ラーヴァ フロー タ クロス ザ ネザー セーフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had parted",
+      "ipa": "/həd ˈpɑrtəd/",
+      "examples": [
+        {
+          "en": "Before the raid, the team had parted their resources to each member.",
+          "ja": "襲撃の前に、チームは各メンバーにリソースを分配していました。",
+          "ipa": "[bɪˈfɔr ðə ˈreɪd ðə tim həd ˈpɑrtəd ðɛr rɪˈsɔrsəz tu itʃ ˈmɛmbər]",
+          "linking": [
+            "the + raid → 弱形 /ðə/ が /r/ に連結 [ðə ˈreɪd] ザ レイド",
+            "team + had → 語末 /m/ が弱形 /həd/ に未開放で連接 [tim̚ həd] ティーム ハド",
+            "had + parted → /d/ が /p/ に未開放で連接 [həd̚ ˈpɑrtəd] ハド パーテッド"
+          ],
+          "kana": "ビフォー ザ レイド ザ ティーム ハド パーテッド ザイアー リソーシズ トゥ イッチ メンバー"
+        },
+        {
+          "en": "The rock had parted before we even swung the pickaxe.",
+          "ja": "岩は我々がツルハシを振る前に既に分かれていました。",
+          "ipa": "[ðə rɑk həd ˈpɑrtəd bɪˈfɔr wi ˈivən swʌŋ ðə ˈpɪkˌæks]",
+          "linking": [
+            "the + rock → 弱形 /ðə/ が /r/ に連結 [ðə rɑk] ザ ロック",
+            "rock + had → /k/ が /h/ に未開放で連接 [rɑk̚ həd] ロック ハド",
+            "had + parted → /d/ が /p/ に未開放で連接 [həd̚ ˈpɑrtəd] ハド パーテッド"
+          ],
+          "kana": "ザ ロック ハド パーテッド ビフォー ウィ イーヴン スワング ザ ピッケックス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been parting",
+      "ipa": "/həz bɪn ˈpɑrtɪŋ/",
+      "examples": [
+        {
+          "en": "The stream has been parting the canyon walls for thousands of years.",
+          "ja": "小川は何千年間もキャニオンの壁を分け続けています。",
+          "ipa": "[ðə strim həz bɪn ˈpɑrtɪŋ ðə ˈkænjən wɔlz fər ˈθaʊzəndz əv ˈjɪrz]",
+          "linking": [
+            "the + stream → 弱形 /ðə/ が /s/ に連結 [ðə strim] ザ ストリーム",
+            "stream + has → 語末 /m/ が弱形 /həz/ に未開放で連接 [strim̚ həz] ストリーム ハズ",
+            "has + been → /z/ が /b/ に未開放で連接 [həz̚ bɪn] ハズ ビン"
+          ],
+          "kana": "ザ ストリーム ハズ ビン パーティング ザ キャニオン ウォルズ ファー サウザンズ アヴ イヤーズ"
+        },
+        {
+          "en": "We have been parting the terrain to create a massive base.",
+          "ja": "我々は巨大な基地を作るために地形を分け続けています。",
+          "ipa": "[wi həv bɪn ˈpɑrtɪŋ ðə tɛˈreɪn tu kriˈeɪt ə məˈsɪv beɪs]",
+          "linking": [
+            "We + have → /i/ が /h/ に連結 [wi həv] ウィ ハヴ",
+            "have + been → /v/ が /b/ に未開放で連接 [həv̚ bɪn] ハヴ ビン",
+            "been + parting → /n/ が /p/ に未開放で連接 [bɪn̚ ˈpɑrtɪŋ] ビン パーティング"
+          ],
+          "kana": "ウィ ハヴ ビン パーティング ザ テレイン トゥ クリエイト ア マシーヴ ベイス"
+        }
+      ]
     }
   ]
 }
