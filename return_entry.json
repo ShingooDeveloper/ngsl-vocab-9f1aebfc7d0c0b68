@@ -131,6 +131,96 @@
           "kana": "ザイ ハド ビン リターニング ザ イクスキャヴェイテッド ブロックス ウェン ザ ケイヴ カラップスト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has returned",
+      "ipa": "/həz rɪˈtɝnd/",
+      "examples": [
+        {
+          "en": "We have returned to the Nether portal with a new treasure.",
+          "ja": "ネザーポータルに新しい宝物を持って戻ってきました。",
+          "ipa": "[wi həv rɪˈtɝnd tu ðə ˈnɛðər ˈpɔrəl wɪð ə nu ˈtrɛʒər]",
+          "linking": [
+            "have" は弱形 /həv/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ で Nether に連結 [tə ðə ˈnɛðər] タ ザ ネザー",
+            "a new → a は弱形 /ə/"
+          ],
+          "kana": "ウィ ハヴ リターンド タ ザ ネザー ポーラル ウィズ ア ニュー トレジャー"
+        },
+        {
+          "en": "The explorer has returned from the Stronghold with the End Pearl.",
+          "ja": "探検家がストロングホールドからエンドパールを持って戻ってきました。",
+          "ipa": "[ðə ɪkˈsplɔrər həz rɪˈtɝnd frəm ðə ˈstɹɔŋˌhoʊld wɪð ðə ɛnd pɝl]",
+          "linking": [
+            "the explorer → the は弱形 /ðə/で explorer に先行 [ðə ɪkˈsplɔrər] ザ イクスプローラー",
+            "has" は弱形 /həz/",
+            "from the → from は弱形 /frəm/、the も弱形 /ðə/。両方弱形で [frəm ðə] フラム ザ"
+          ],
+          "kana": "ザ イクスプローラー ハズ リターンド フラム ザ ストロングホールド ウィズ ジ エンド パール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had returned",
+      "ipa": "/həd rɪˈtɝnd/",
+      "examples": [
+        {
+          "en": "By the time we found the village, the mobs had already returned to the darkness.",
+          "ja": "私たちが村を見つける時には、モブはすでに暗闇に戻ってしまいました。",
+          "ipa": "[baɪ ðə ˈtaɪm wi faʊnd ðə ˈvɪlɪdʒ, ðə ˈmoʊbz həd ɔlˈrɛdi rɪˈtɝnd tu ðə ˈdɑrkənəs]",
+          "linking": [
+            "the time → the は弱形 /ðə/ で time に先行",
+            "had" は弱形 /həd/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ で darkness に先行 [tu ðə ˈdɑrkənəs] トゥ ザ ダークネス"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド ザ ビレッジ ザ モウブズ ハド オルレディ リターンド トゥ ザ ダークネス"
+        },
+        {
+          "en": "The player had returned his tools to the chest before logging off.",
+          "ja": "プレイヤーがログオフする前に、ツールをチェストに返していました。",
+          "ipa": "[ðə ˈpleɪər həd rɪˈtɝnd hɪz tulz tu ðə tʃɛst bɪˈfɔr ˈlɑɡɪŋ ɔf]",
+          "linking": [
+            "the player → the は弱形 /ðə/",
+            "had" は弱形 /həd/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ で chest に先行 [tu ðə tʃɛst] トゥ ザ チェスト"
+          ],
+          "kana": "ザ プレイアー ハド リターンド ヒズ ツールズ トゥ ザ チェスト ビフォー ラギング オフ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been returning",
+      "ipa": "/həz bɪn rɪˈtɝnɪŋ/",
+      "examples": [
+        {
+          "en": "I have been returning materials from the farm for the whole afternoon.",
+          "ja": "午後中ずっと農場から材料を返し続けています。",
+          "ipa": "[aɪ həv bɪn rɪˈtɝnɪŋ məˈtɪriəlz frəm ðə fɑrm fɔr ðə hoʊl ˌæftərˈnun]",
+          "linking": [
+            "have" は弱形 /həv/",
+            "been" は弱形 /bɪn/",
+            "from the → from は弱形 /frəm/、the も弱形 /ðə/ で farm に先行 [frəm ðə fɑrm] フラム ザ ファーム"
+          ],
+          "kana": "アイ ハヴ ビン リターニング マティリアルズ フラム ザ ファーム フォー ザ ホール アフターヌーン"
+        },
+        {
+          "en": "Steve has been returning supplies to the base ever since we started mining diamonds.",
+          "ja": "私たちがダイヤモンド採掘を始めて以来、スティーブは物資を基地に返し続けています。",
+          "ipa": "[stiv həz bɪn rɪˈtɝnɪŋ səˈplaɪz tu ðə beɪs ˈɛvər sɪns wi ˈstɑrtəd ˈmaɪnɪŋ ˈdaɪmənz]",
+          "linking": [
+            "has" は弱形 /həz/",
+            "been" は弱形 /bɪn/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ で base に先行 [tu ðə beɪs] タ ザ ベイス"
+          ],
+          "kana": "スティーヴ ハズ ビン リターニング サプライズ タ ザ ベイス エヴァー シンス ウィ スターテッド マイニング ダイモンズ"
+        }
+      ]
     }
   ]
 }
