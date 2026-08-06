@@ -297,6 +297,106 @@
           "kana": "ゼイ ハド・ビン ラビング ザ オールド テクスチャー パック・アンティル ザ アップデイト チェンジド エブリシング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has loved",
+      "ipa": "/həz ˈlʌvd/",
+      "examples": [
+        {
+          "en": "I have loved playing on this server for several months now.",
+          "ja": "今、私はこのサーバーで数ヶ月間プレイすることが大好きです。",
+          "ipa": "/aɪ həv ˈlʌvd ˈpleɪɪŋ ɑn ðɪs ˈsɝvər fɚ ˈsɛvrəl ˈmʌnθz ˈnaʊ/",
+          "linking": [
+            "have は機能語で弱形 /həv/。loved の /l/ に続く。",
+            "on は /ɑn/。this の /ð/ に続く。",
+            "server の語末子音 /r/ が for に続く [ˈsɝvər fɚ] サーバー ファ",
+            "several は /ˈsɛvrəl/。months の /m/ に続く。"
+          ],
+          "kana": "アイ ハヴ ラヴド プレイング オン ディス サーバー ファ セブラル マンス ナウ"
+        },
+        {
+          "en": "She has loved this game since it was first released.",
+          "ja": "彼女はこのゲームが最初にリリースされた時からずっと愛しています。",
+          "ipa": "/ʃi həz ˈlʌvd ðɪs ɡeɪm sɪns ɪt wəz ˈfɝst rɪˈlist/",
+          "linking": [
+            "has は機能語で弱形 /həz/。loved の /l/ に続く。",
+            "this は /ðɪs/。game の /ɡ/ に続く。",
+            "it の語末子音 /t/ は未開放 [ɪt̚] イット（was 前で閉鎖）",
+            "first は /ˈfɝst/。released の /r/ に続く。"
+          ],
+          "kana": "シー ハズ ラヴド ディス ゲイム シンス イット・ワズ ファースト リリースト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had loved",
+      "ipa": "/həd ˈlʌvd/",
+      "examples": [
+        {
+          "en": "By the time the server shut down, I had loved every moment of it.",
+          "ja": "サーバーがシャットダウンされた時までに、私はそのすべての瞬間を愛していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɝvər ʃʌt ˈdaʊn aɪ həd ˈlʌvd ˈɛvri ˈmoʊmənt əv ɪt/",
+          "linking": [
+            "by は /baɪ/。the の弱形 /ðə/ に続く。",
+            "the は冠詞で弱形 /ðə/。time の /t/ に続く。",
+            "server の語末子音 /r/ が shut に続く [ˈsɝvər ʃʌt] サーバー シャット",
+            "had は機能語で弱形 /həd/。loved の /l/ に未開放で続く [həd̚ ˈlʌvd] ハド・ラヴド",
+            "every は /ˈɛvri/。moment の /m/ に続く。",
+            "moment の語末子音 /t/ が of に続く [ˈmoʊmənt əv] モーメント・アヴ"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー・シャット ダウン アイ ハド・ラヴド エブリー モーメント・アヴ イット"
+        },
+        {
+          "en": "They had loved the old version before the major update came out.",
+          "ja": "大きなアップデートが出る前に、彼らは古いバージョンを愛していました。",
+          "ipa": "/ðeɪ həd ˈlʌvd ðə ˈoʊld ˈvɝʒən bɪˈfoɚ ðə ˈmeɪdʒər ʌpˈdeɪt ˈkeɪm ˈaʊt/",
+          "linking": [
+            "had は機能語で弱形 /həd/。loved の /l/ に未開放で続く [həd̚ ˈlʌvd] ハド・ラヴド",
+            "the は冠詞で弱形 /ðə/。old の /o/ に続く。",
+            "version の語末子音 /n/ が before に続く [ˈvɝʒən bɪˈfoɚ] バージョン ビフォア",
+            "major は /ˈmeɪdʒər/。update の /ʌ/ に続く。"
+          ],
+          "kana": "ゼイ ハド・ラヴド ザ オールド バージョン ビフォア ザ メイジャー アップデイト ケイム アウト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been loving",
+      "ipa": "/həz bɪn ˈlʌvɪŋ/",
+      "examples": [
+        {
+          "en": "He has been loving the new redstone mechanics since the update dropped.",
+          "ja": "アップデートがリリースされた時から、彼は新しいレッドストーンメカニクスを楽しんでいます。",
+          "ipa": "/hi həz bɪn ˈlʌvɪŋ ðə ˈnu ˈrɛdˌstoʊn məˈkænɪks sɪns ðə ʌpˈdeɪt ˈdrɑpt/",
+          "linking": [
+            "has は機能語で弱形 /həz/。been の /b/ に未開放で続く [həz̚ bɪn] ハズ ビン",
+            "been は機能語で弱形 /bɪn/。loving の /l/ に続く。",
+            "the は冠詞で弱形 /ðə/。new の /n/ に続く。",
+            "redstone は /ˈrɛdˌstoʊn/。mechanics の /m/ に続く。",
+            "update の語末子音 /t/ が dropped に続く [ʌpˈdeɪt ˈdrɑpt] アップデイト・ドロップト"
+          ],
+          "kana": "ヒー ハズ・ビン ラビング ザ ニュー レッドストーン メカニクス シンス ザ アップデイト・ドロップト"
+        },
+        {
+          "en": "We have been loving exploring the new caves and finding diamonds.",
+          "ja": "私たちは新しい洞窟を探索し、ダイヤモンドを見つけることを楽しんでいます。",
+          "ipa": "/wi həv bɪn ˈlʌvɪŋ ɪkˈsplɔrɪŋ ðə ˈnu ˈkeɪvz ənd ˈfaɪndɪŋ ˈdaɪmənz/",
+          "linking": [
+            "have は機能語で弱形 /həv/。been の /b/ に未開放で続く [həv̚ bɪn] ハヴ ビン",
+            "been は機能語で弱形 /bɪn/。loving の /l/ に続く。",
+            "exploring の語末子音 /ŋ/ は鼻音で続く [ɪŋ̃] イング（あくまで鼻腔を通る）。the の弱形 /ðə/ に続く。",
+            "caves の語末子音 /z/ が and の弱形 /ənd/ に連結 [ˈkeɪvz ənd] ケイヴズ アンド",
+            "finding は /ˈfaɪndɪŋ/。diamonds の /d/ に続く。"
+          ],
+          "kana": "ウィ ハヴ・ビン ラビング エクスプローリング ザ ニュー ケイヴズ アンド ファインディング ダイマンズ"
+        }
+      ]
     }
   ]
 }
