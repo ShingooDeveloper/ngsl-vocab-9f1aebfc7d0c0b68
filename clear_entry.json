@@ -338,6 +338,96 @@
           "kana": "ヒー ハド ビン クリアリング ザ ランド オール デイ ト プリペア ファー カンストラクション"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has cleared",
+      "ipa": "/həz ˈklɪrd/",
+      "examples": [
+        {
+          "en": "The player has cleared all the dungeons in the world.",
+          "ja": "プレイヤーが世界中のすべてのダンジョンをクリアしました。",
+          "ipa": "/ðə ˈpleɪər həz ˈklɪrd ɔl ðə ˈdʌndʒənz ɪn ðə wɜrld/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "has cleared: has の語末子音 /z/ が cleared の初頭 /k/ の前で未開放 [həz̚ ˈklɪrd]、has は弱形 /həz/"
+          ],
+          "kana": "ザ プレイアー ハズ クリアード オール ザ ダンジョンズ イン ザ ワールド"
+        },
+        {
+          "en": "We have cleared the Nether fortress and obtained all the treasures.",
+          "ja": "私たちがネザー要塞をクリアし、すべての宝物を手に入れました。",
+          "ipa": "/wi həv ˈklɪrd ðə ˈnɛðər ˈfɔrtrəs ənd əbˈteɪnd ɔl ðə ˈtrɛʒərz/",
+          "linking": [
+            "have cleared: have の /v/ が cleared の /k/ の前で子音+子音なので linking なし、have は弱形 /həv/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ クリアード ザ ネザー フォートレス エン オブテインド オール ザ トレジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had cleared",
+      "ipa": "/həd ˈklɪrd/",
+      "examples": [
+        {
+          "en": "They had cleared the land before they started building the castle.",
+          "ja": "城を建て始める前に、彼らが土地をきれいにしていました。",
+          "ipa": "/ðeɪ həd ˈklɪrd ðə lænd bɪˈfɔr ðeɪ ˈstɑrtəd ˈbɪldɪŋ ðə ˈkæsəl/",
+          "linking": [
+            "had cleared: had の語末子音 /d/ が cleared の /k/ の前で未開放 [həd̚ ˈklɪrd]、had は弱形 /həd/",
+            "the は子音前で弱形 /ðə/（2回使用）",
+            "before building: before の語末 /r/ が building の /b/ に来るが子音+子音なので linking なし"
+          ],
+          "kana": "ザェイ ハド クリアード ザ ランド ビフォアー ザェイ スターティド ビルディング ザ キャッセル"
+        },
+        {
+          "en": "She had cleared the cave system completely by the time sunset occurred.",
+          "ja": "日没が起こるまでに、彼女が洞窟システムを完全にクリアしていました。",
+          "ipa": "/ʃi həd ˈklɪrd ðə keɪv ˈsɪstəm kəmˈpliːtli baɪ ðə ˈtaɪm ˈsʌnˌsɛt əˈkɜrd/",
+          "linking": [
+            "had cleared: had の語末子音 /d/ が cleared の /k/ の前で未開放 [həd̚ ˈklɪrd]、had は弱形 /həd/",
+            "the は子音前で弱形 /ðə/（2回使用）",
+            "time sunset: time の語末 /m/ が sunset の /s/ に先行（子音+子音で linking なし）"
+          ],
+          "kana": "シー ハド クリアード ザ ケイヴ シスタム カムプリートリー バイ ザ タイム サンセット アキャード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been clearing",
+      "ipa": "/həz bɪn ˈklɪrɪŋ/",
+      "examples": [
+        {
+          "en": "They have been clearing the forest all morning to prepare for a structure.",
+          "ja": "彼らが建築物の準備をするために、朝中森をきれいにしています。",
+          "ipa": "/ðeɪ həv bɪn ˈklɪrɪŋ ðə ˈfɔrɪst ɔl ˈmɔrnɪŋ tə prɪˈpɛr fɔr ə ˈstrʌktʃər/",
+          "linking": [
+            "have been: have の /v/ が been の /b/ に先行するが子音+子音なので linking なし、have は弱形 /həv/、been は弱形 /bɪn/",
+            "been clearing: been の /n/ が clearing の /k/ に先行（子音+子音で linking なし）",
+            "the は子音前で弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ザェイ ハヴ ビン クリアリング ザ フォレスト オール モーニング タ プリペア ファー ア ストラクチャー"
+        },
+        {
+          "en": "I have been clearing the beach of shells since early sunrise.",
+          "ja": "日の出の直後から、私がビーチの貝殻をきれいにしています。",
+          "ipa": "/aɪ həv bɪn ˈklɪrɪŋ ðə bɪtʃ əv ʃɛlz sɪns ˈɜrli ˈsʌnˌraɪz/",
+          "linking": [
+            "have been: have の /v/ が been の /b/ に先行（子音+子音で linking なし）、have は弱形 /həv/、been は弱形 /bɪn/",
+            "been clearing: been の /n/ が clearing の /k/ に先行（子音+子音で linking なし）",
+            "the は子音前で弱形 /ðə/",
+            "of は機能語で弱形 /əv/"
+          ],
+          "kana": "アイ ハヴ ビン クリアリング ザ ビーチ アヴ シェルズ シンス アーリー サンライズ"
+        }
+      ]
     }
   ]
 }
