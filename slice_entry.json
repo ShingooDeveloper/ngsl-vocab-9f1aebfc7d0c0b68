@@ -202,6 +202,101 @@
           "kana": "ザ スライスィズ アヴ ケイク アー ストアード イン ザ サーバー チェスト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is slicing",
+      "ipa": "/ɪz ˈslaɪsɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is slicing watermelons from the farm.",
+          "ja": "スティーブはファームからスイカをスライスしています。",
+          "ipa": "/stiv ɪz ˈslaɪsɪŋ ˈwɑtərˌmɛlənz frəm ðə ˈfɑrm/",
+          "linking": [
+            "Steve の末尾子音 /v/ が is の /ɪ/ に連結 [stiv‿ɪz] スティーヴ・イズ",
+            "is の末尾 /z/ が slicing に連結",
+            "from, the は弱形 /frəm/, /ðə/"
+          ],
+          "kana": "スティーヴ イズ スライスィング ウォーターメロンズ フラム ザ ファーム"
+        },
+        {
+          "en": "We are slicing pumpkins for the soup tonight.",
+          "ja": "私たちは今夜のスープ用にカボチャをスライスしています。",
+          "ipa": "/wi ər ˈslaɪsɪŋ ˈpʌmpkɪnz fər ðə ˈsup təˈnaɪt/",
+          "linking": [
+            "we の末尾 /w/ が are に連結傾向",
+            "are の末尾 /r/ が slicing に続く（子音+子音）",
+            "for, the は弱形 /fər/, /ðə/"
+          ],
+          "kana": "ウィー アー スライスィング パンプキンズ ファー ザ スープ タナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was slicing",
+      "ipa": "/wəz ˈslaɪsɪŋ/",
+      "examples": [
+        {
+          "en": "He was slicing the cake when the creeper came.",
+          "ja": "クリーパーが来たとき、彼はケーキをスライスしていました。",
+          "ipa": "/hi wəz ˈslaɪsɪŋ ðə ˈkeɪk wən ðə ˈkripər ˈkeɪm/",
+          "linking": [
+            "He の末尾 /i/ が was に連結傾向",
+            "was の末尾 /z/ が slicing に連結",
+            "the は弱形 /ðə/（2回）",
+            "when は弱形 /wən/"
+          ],
+          "kana": "ヒー ワズ スライスィング ザ ケイク ウェン ザ クリーパー ケイム"
+        },
+        {
+          "en": "The players were slicing wood when the sun set.",
+          "ja": "日が沈んだとき、プレイヤーたちは木をスライスしていました。",
+          "ipa": "/ðə ˈpleɪərz wər ˈslaɪsɪŋ ˈwud wən ðə ˈsʌn ˈsɛt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "players の末尾 /z/ が were に連結傾向",
+            "were の末尾 /r/ が slicing に連結傾向",
+            "when は弱形 /wən/"
+          ],
+          "kana": "ザ プレイアーズ ワー スライスィング ウッド ウェン ザ サン セット"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been slicing",
+      "ipa": "/həd bɪn ˈslaɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We had been slicing watermelons for hours before we finished the harvest.",
+          "ja": "収穫を終える前に、私たちは何時間もスイカをスライスしていました。",
+          "ipa": "/wi həd bɪn ˈslaɪsɪŋ ˈwɑtərˌmɛlənz fər ˈaʊərz bɪˈfɔr wi ˈfɪnɪʃt ðə ˈhɑrvəst/",
+          "linking": [
+            "we の末尾 /w/ が had に連結傾向",
+            "had の末尾 /d/ が been に連結傾向",
+            "been の末尾 /n/ が slicing に連結傾向",
+            "for, the は弱形 /fər/, /ðə/"
+          ],
+          "kana": "ウィー ハド ビン スライスィング ウォーターメロンズ ファー アワーズ ビフォアー ウィー フィニシット ザ ハーベスト"
+        },
+        {
+          "en": "He had been slicing blocks when the TNT exploded.",
+          "ja": "TNTが爆発したとき、彼はブロックをスライスしていました。",
+          "ipa": "/hi həd bɪn ˈslaɪsɪŋ ˈblɑks wən ðə ˈtiːɛnˈti ɪkˈsploʊdɪd/",
+          "linking": [
+            "He の末尾 /i/ が had に連結傾向",
+            "had の末尾 /d/ が been に連結傾向",
+            "been の末尾 /n/ が slicing に連結傾向",
+            "when は弱形 /wən/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハド ビン スライスィング ブロックス ウェン ザ ティーエンティー イクスプロウディッド"
+        }
+      ]
     }
   ]
 }
