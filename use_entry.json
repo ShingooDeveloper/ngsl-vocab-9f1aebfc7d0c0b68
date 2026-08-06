@@ -162,6 +162,98 @@
           "kana": "ザイ ハド ビン ユージング ウッド トゥールズ ンティル ザイ ギャザード アナフ アイアーン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has used",
+      "ipa": "/həz ˈjuːzd/",
+      "examples": [
+        {
+          "en": "I have used diamonds to craft many tools so far.",
+          "ja": "私はこれまでダイヤを使って多くのツールをクラフトしてきました。",
+          "ipa": "/aɪ həv ˈjuːzd ˈdaɪməndz tə ˈkræft ˈmɛni ˈtulz ˈsoʊ ˈfɑr/",
+          "linking": [
+            "have は弱形 /həv/。used に続く [həv ˈjuːzd] ハヴ ユーズド",
+            "diamonds の z が to に続く [ˈdaɪməndz tə] ダイマンズ タ"
+          ],
+          "kana": "アイ ハヴ ユーズド ダイマンズ タ クラフト メニ トゥールズ ソー ファー"
+        },
+        {
+          "en": "He has used the crafting bench to create this chest.",
+          "ja": "彼はこのチェストを作るためにクラフティングベンチを使ってきました。",
+          "ipa": "/hi həz ˈjuːzd ðə ˈkræftɪŋ ˈbɛntʃ tə kriˈeɪt ðɪs ˈtʃɛst/",
+          "linking": [
+            "has は弱形 /həz/。used に続く [həz ˈjuːzd] ハズ ユーズド",
+            "the は弱形 /ðə/。crafting に続く [ðə ˈkræftɪŋ] ザ クラフティング",
+            "bench の tʃ が to に続く [ˈbɛntʃ tə] ベンチ タ"
+          ],
+          "kana": "ヒー ハズ ユーズド ザ クラフティング ベンチ タ クリエイト ディス チェスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had used",
+      "ipa": "/həd ˈjuːzd/",
+      "examples": [
+        {
+          "en": "By the time we found the village, we had used all our food.",
+          "ja": "村を見つけたときには、私たちはすべての食べ物を使い終えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈvɪlɪdʒ wi həd ˈjuːzd ɔl ˈaʊr ˈfud/",
+          "linking": [
+            "time の m が we に続く [ˈtaɪm wi] タイム ウィー",
+            "village の dʒ が we に続く [ˈvɪlɪdʒ wi] ヴィリッジ ウィー",
+            "had は弱形 /həd/。used に続く [həd ˈjuːzd] ハド ユーズド",
+            "all の l が our に続く [ɔl ˈaʊr] オール アワー"
+          ],
+          "kana": "バイ ザ タイム ウィー ファウンド ザ ヴィリッジ ウィー ハド ユーズド オール アワー フード"
+        },
+        {
+          "en": "They had used stone tools before iron became available.",
+          "ja": "鉄が利用可能になる前に、彼らは石のツールを使っていました。",
+          "ipa": "/ðeɪ həd ˈjuːzd ˈstoʊn ˈtulz bɪˈfɔr ˈaɪrn bɪˈkeɪm əˈveɪləbəl/",
+          "linking": [
+            "had は弱形 /həd/。used に続く [həd ˈjuːzd] ハド ユーズド",
+            "tools の z が before に続く [ˈtulz bɪˈfɔr] トゥールズ ビフォー",
+            "before の r が iron に連結 [bɪˈfɔr ˈaɪrn] ビフォア アイアーン"
+          ],
+          "kana": "ザイ ハド ユーズド ストーン トゥールズ ビフォー アイアーン ビケイム アヴェイラブル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been using",
+      "ipa": "/həz bɪn ˈjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "We have been using redstone all morning to build this door.",
+          "ja": "私たちは朝中、このドアを作るためにレッドストーンを使ってきました。",
+          "ipa": "/wi həv bɪn ˈjuːzɪŋ ˈrɛdˌstoʊn ɔl ˈmɔrnɪŋ tə ˈbɪld ðɪs ˈdɔr/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/。using に続く [bɪn ˈjuːzɪŋ] ビン ユージング",
+            "all の l が morning に続く [ɔl ˈmɔrnɪŋ] オール モーニング",
+            "to は弱形 /tə/。build に続く [tə ˈbɪld] タ ビルド"
+          ],
+          "kana": "ウィー ハヴ ビン ユージング レッドストーン オール モーニング タ ビルド ディス ドア"
+        },
+        {
+          "en": "She has been using the same pickaxe for hours.",
+          "ja": "彼女は何時間も同じツルハシを使い続けています。",
+          "ipa": "/ʃi həz bɪn ˈjuːzɪŋ ðə ˈseɪm ˈpɪkæks ˈfɔr ˈaʊərz/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/。using に続く [bɪn ˈjuːzɪŋ] ビン ユージング",
+            "the は弱形 /ðə/。same に続く [ðə ˈseɪm] ザ セイム",
+            "for は弱形 /fər/。hours に続く [ˈfɔr ˈaʊərz] ファー アワーズ"
+          ],
+          "kana": "シー ハズ ビン ユージング ザ セイム ピッケックス ファー アワーズ"
+        }
+      ]
     }
   ]
 }
