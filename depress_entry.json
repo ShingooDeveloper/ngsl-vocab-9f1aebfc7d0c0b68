@@ -177,6 +177,94 @@
           "kana": "ウォッチング アザーズ ビルド アメイジング ストラクチャーズ イズ ディプレシング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is depressing",
+      "ipa": "[ɪz dɪˈprɛsɪŋ]",
+      "examples": [
+        {
+          "en": "The endless night is depressing us.",
+          "ja": "終わらない夜が私たちを落ち込ませています。",
+          "ipa": "[ðə ˈɛndləs naɪt ɪz dɪˈprɛsɪŋ ʌs]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "is → 弱形 /ɪz/"
+          ],
+          "kana": "ダ エンドレス ナイト イズ ディプレッシング アス"
+        },
+        {
+          "en": "I am depressing the redstone button to open the door.",
+          "ja": "ドアを開くためにレッドストーンボタンを押しています。",
+          "ipa": "[aɪ əm dɪˈprɛsɪŋ ðə ˈrɛdˌstoʊn ˈbʌtən tə ˈoʊpən ðə ˈdɔr]",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the → 弱形 /ðə/（2回）",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "アイ アム ディプレッシング ザ レッドストウン バットン タ オウペン ザ ドア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was depressing",
+      "ipa": "[wəz dɪˈprɛsɪŋ]",
+      "examples": [
+        {
+          "en": "The bad weather was depressing the players yesterday.",
+          "ja": "昨日、悪い天気がプレイヤーたちを落ち込ませていました。",
+          "ipa": "[ðə bæd ˈwɛðɚ wəz dɪˈprɛsɪŋ ðə ˈpleɪɚz ˈjɛstɚdeɪ]",
+          "linking": [
+            "the → 弱形 /ðə/（2回）",
+            "was → 弱形 /wəz/"
+          ],
+          "kana": "ダ バド ウェザー ワズ ディプレッシング ダ プレイヤーズ イェスタデイ"
+        },
+        {
+          "en": "I was depressing the piston when the creeper exploded.",
+          "ja": "クリーパーが爆発した時、ピストンを押していました。",
+          "ipa": "[aɪ wəz dɪˈprɛsɪŋ ðə ˈpɪstən wɛn ðə ˈkriːpɚ ɪkˈsploʊdəd]",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the → 弱形 /ðə/（2回）"
+          ],
+          "kana": "アイ ワズ ディプレッシング ザ ピストン ウェン ザ クリーパー イクスプロウディド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been depressing",
+      "ipa": "[həd bɪn dɪˈprɛsɪŋ]",
+      "examples": [
+        {
+          "en": "The bad situation had been depressing us for days.",
+          "ja": "悪い状況が数日間、私たちを落ち込ませていました。",
+          "ipa": "[ðə bæd ˌsɪtʃuˈeɪʃən həd bɪn dɪˈprɛsɪŋ ʌs fɔr deɪz]",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "ダ バド シチュエーション ハド ビン ディプレッシング アス ファー デイズ"
+        },
+        {
+          "en": "The redstone mechanism had been depressing the plate all night.",
+          "ja": "レッドストーン機構は一晩中、プレートを押さえていました。",
+          "ipa": "[ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm həd bɪn dɪˈprɛsɪŋ ðə pleɪt ɔl naɪt]",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/（2回）"
+          ],
+          "kana": "ダ レッドストウン メカニズム ハド ビン ディプレッシング ダ プレイト オール ナイト"
+        }
+      ]
     }
   ]
 }
