@@ -350,13 +350,109 @@
             "had は弱形 /həd/、been の初頭 /b/。別音。been も弱形 /bɪn/ [həd bɪn]ハド ビン",
             "been は弱形 /bɪn/、testing の初頭 /t/ に別音 [bɪn ˈtɛstɪŋ]ビン テスティング",
             "testing の末尾 /ŋ/ が different の初頭 /d/。別音 [ˈtɛstɪŋ ˈdɪfərənt]テスティング ディファレント",
-            "different の末尾 /t/ が enchantment の初頭 /ɪ/。別音 [ˈdɪfərənt ɪnˈtʃæntmənt]ディファレント エンチャントメント",
+            "different の末尾 /t/ が enchantment の初頭 /ɪ/。別音 [ˈdɪfərənt ɪnˈtʃæntməント]ディファレント エンチャントメント",
             "enchantment の末尾 /t/ が combinations の初頭 /k/。別音 [ɪnˈtʃæntmənt ˌkɑmbɪˈneɪʃənz]エンチャントメント コンビネーションズ",
             "combinations の末尾 /z/ が when の初頭 /w/。別音 [ˌkɑmbɪˈneɪʃənz wɛn]コンビネーションズ ウェン",
             "when の末尾 /n/ が she の初頭 /ʃ/。別音 [wɛn ʃi]ウェン シー",
             "she の末尾 /i/ が joined の初頭 /dʒ/。別音 [ʃi ˈdʒɔɪnd]シー ジョインド"
           ],
           "kana": "アイ ハド ビン テスティング ディファレント エンチャントメント コンビネーションズ ウェン シー ジョインド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has tested",
+      "ipa": "/həz ˈtɛstəd/",
+      "examples": [
+        {
+          "en": "I have tested this enchantment on the diamond sword.",
+          "ja": "このエンチャントをダイヤモンドの剣でテストしました。",
+          "ipa": "/aɪ həv ˈtɛstəd ðɪs ɪnˈtʃæntmənt ɑn ðə ˈdaɪmənd ˈsɔrd/",
+          "linking": [
+            "I の末尾 /aɪ/ が have の初頭 /h/。別音。have は弱形 /həv/ [aɪ həv]アイ ハヴ",
+            "have は弱形 /həv/、tested の初頭 /t/ に別音 [həv ˈtɛstəd]ハヴ テステッド",
+            "tested の末尾 /d/ が this の初頭 /ð/。別音 [ˈtɛstəd ðɪs]テステッド ジス",
+            "enchantment の末尾 /t/ が on の初頭 /ɑ/。別音 [ɪnˈtʃæntmənt ɑn]エンチャントメント オン"
+          ],
+          "kana": "アイ ハヴ テステッド ジス エンチャントメント オン ザ ダイマンド ソード"
+        },
+        {
+          "en": "We have tested the water elevator and it works.",
+          "ja": "水上昇機をテストしましたが、機能しています。",
+          "ipa": "/wi həv ˈtɛstəd ðə ˈwɔtər ˈɛləˌveɪtər ænd ɪt̚ wɝks/",
+          "linking": [
+            "We の末尾 /i/ が have の初頭 /h/。別音。have は弱形 /həv/ [wi həv]ウィー ハヴ",
+            "have は弱形 /həv/、tested の初頭 /t/ に別音 [həv ˈtɛstəd]ハヴ テステッド",
+            "tested の末尾 /d/ が the の初頭 /ð/。別音 [ˈtɛstəd ðə]テステッド ザ",
+            "it の末尾 /t/ が works の初頭 /w/。未開放で詰まる [ɪt̚ wɝks]イッ ワークス"
+          ],
+          "kana": "ウィー ハヴ テステッド ザ ウォーター エレベーター アンド イッ ワークス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had tested",
+      "ipa": "/həd ˈtɛstəd/",
+      "examples": [
+        {
+          "en": "I had tested the trap before the zombies arrived.",
+          "ja": "ゾンビが到着する前にトラップをテストしていました。",
+          "ipa": "/aɪ həd ˈtɛstəd ðə træp bɪˈfɔr ðə ˈzɑmbiz əˈraɪvd/",
+          "linking": [
+            "I の末尾 /aɪ/ が had の初頭 /h/。別音。had は弱形 /həd/ [aɪ həd]アイ ハド",
+            "had は弱形 /həd/、tested の初頭 /t/ に別音 [həd ˈtɛstəd]ハド テステッド",
+            "tested の末尾 /d/ が the の初頭 /ð/。別音 [ˈtɛstəd ðə]テステッド ザ",
+            "trap の末尾 /p/ が before の初頭 /b/。別音 [træp bɪˈfɔr]トラップ ビフォー"
+          ],
+          "kana": "アイ ハド テステッド ザ トラップ ビフォー ザ ゾンビーズ アライヴド"
+        },
+        {
+          "en": "She had tested all the materials before she started building.",
+          "ja": "彼女は建築を始める前にすべての材料をテストしていました。",
+          "ipa": "/ʃi həd ˈtɛstəd ɔl ðə məˈtɪriəlz bɪˈfɔr ʃi ˈstɑrtəd ˈbɪldɪŋ/",
+          "linking": [
+            "She の末尾 /i/ が had の初頭 /h/。別音。had は弱形 /həd/ [ʃi həd]シー ハド",
+            "had は弱形 /həd/、tested の初頭 /t/ に別音 [həd ˈtɛstəd]ハド テステッド",
+            "tested の末尾 /d/ が all の初頭 /ɔ/。連結 [ˈtɛstəd ɔl]テステッド オール",
+            "all の末尾 /l/ が the の初頭 /ð/。別音 [ɔl ðə]オール ザ"
+          ],
+          "kana": "シー ハド テステッド オール ザ マテリアルズ ビフォー シー スターテッド ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been testing",
+      "ipa": "/həz bɪn ˈtɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I have been testing this farm design for several hours now.",
+          "ja": "何時間も前からこの農場デザインをテストしています。",
+          "ipa": "/aɪ həv bɪn ˈtɛstɪŋ ðɪs fɑrm dɪˈzaɪn fɔr ˈsɛvərəl ˈaʊərz naʊ/",
+          "linking": [
+            "I の末尾 /aɪ/ が have の初頭 /h/。別音。have は弱形 /həv/ [aɪ həv]アイ ハヴ",
+            "have は弱形 /həv/、been の初頭 /b/。別音。been も弱形 /bɪn/ [həv bɪn]ハヴ ビン",
+            "been は弱形 /bɪn/、testing の初頭 /t/ に別音 [bɪn ˈtɛstɪŋ]ビン テスティング",
+            "testing の末尾 /ŋ/ が this の初頭 /ð/。別音 [ˈtɛstɪŋ ðɪs]テスティング ジス"
+          ],
+          "kana": "アイ ハヴ ビン テスティング ジス ファーム ディザイン フォー セヴァラル アワーズ ナウ"
+        },
+        {
+          "en": "We have been testing different strategies to defeat the Wither.",
+          "ja": "ウィザーを倒すための異なるストラテジーをテストしています。",
+          "ipa": "/wi həv bɪn ˈtɛstɪŋ ˈdɪfərənt ˈstrætədʒiz tə dɪˈfit ðə ˈwɪðər/",
+          "linking": [
+            "We の末尾 /i/ が have の初頭 /h/。別音。have は弱形 /həv/ [wi həv]ウィー ハヴ",
+            "have は弱形 /həv/、been の初頭 /b/。別音。been も弱形 /bɪn/ [həv bɪn]ハヴ ビン",
+            "been は弱形 /bɪn/、testing の初頭 /t/ に別音 [bɪn ˈtɛstɪŋ]ビン テスティング",
+            "testing の末尾 /ŋ/ が different の初頭 /d/。別音 [ˈtɛstɪŋ ˈdɪfərənt]テスティング ディファレント"
+          ],
+          "kana": "ウィー ハヴ ビン テスティング ディファレント ストラテジーズ タ ディフィート ザ ウィザー"
         }
       ]
     }
