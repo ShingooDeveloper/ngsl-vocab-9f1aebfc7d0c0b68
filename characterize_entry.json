@@ -171,6 +171,96 @@
           "kana": "バイ キャラクタライジング イーチ レソース ロウケイション、ウィ オプティマイズド アワー マイニング ストラテジー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is characterizing",
+      "ipa": "/ɪz ˌkærɪktəˈraɪzɪŋ/",
+      "examples": [
+        {
+          "en": "She is characterizing the new biome for our base design.",
+          "ja": "彼女は私たちのベースデザインのために新しいバイオームを特徴付けています。",
+          "ipa": "/ʃi ɪz ˌkærɪktəˈraɪzɪŋ ðə ˈnju ˈbaɪoʊm fɔr ˈaʊɚ ˈbeɪs dɪˈzaɪn/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "for の語末子音 /r/ が our の初頭母音 /aʊ/ に連結 [fɔr aʊɚ] フォー アワー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー イズ キャラクタライジング ザ ニュー バイオーム フォー アワー ベース ディザイン"
+        },
+        {
+          "en": "We are characterizing all the caves to map out the terrain.",
+          "ja": "地形を図示するために、私たちは見つけたすべての洞窟を特徴付けています。",
+          "ipa": "/wi ɑr ˌkærɪktəˈraɪzɪŋ ɔl ðə ˈkeɪvz tə mæp aʊt ðə təˈreɪn/",
+          "linking": [
+            "characterizing の語末子音 /ŋ/ が all の初頭母音 /ɔ/ に連結 [ˌkærɪktəˈraɪzɪŋ ɔl] キャラクタライジング オール",
+            "all the → /l/ が /ð/ に続く（子音+子音、連結なし）、the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィ アー キャラクタライジング オール ザ ケイブズ タ マップ アウト ザ ターレイン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was characterizing",
+      "ipa": "/wəz ˌkærɪktəˈraɪzɪŋ/",
+      "examples": [
+        {
+          "en": "She was characterizing all the biomes on the map.",
+          "ja": "彼女はマップ上のすべてのバイオームを特徴付けていました。",
+          "ipa": "/ʃi wəz ˌkærɪktəˈraɪzɪŋ ɔl ðə baɪˈoʊmz ɑn ðə mæp/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "characterizing の語末子音 /ŋ/ が all の初頭母音 /ɔ/ に連結 [ˌkærɪktəˈraɪzɪŋ ɔl] キャラクタライジング オール",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ワズ キャラクタライジング オール ザ バイオームズ オン ザ マップ"
+        },
+        {
+          "en": "The miners were characterizing the mining tunnel when night fell.",
+          "ja": "鉱夫たちが夜間に採掘トンネルを特徴付けていました。",
+          "ipa": "/ðə ˈmaɪnərz wɚ ˌkærɪktəˈraɪzɪŋ ðə ˈmaɪnɪŋ ˈtʌnəl wɛn ˈnaɪt ˈfɛl/",
+          "linking": [
+            "the（1番目）は弱形 /ðə/ ザ",
+            "were は弱形 /wɚ/",
+            "the（2番目）は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ マイナーズ ワー キャラクタライジング ザ マイニング タネル ウェン ナイッ フェル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been characterizing",
+      "ipa": "/həd bɪn ˌkærɪktəˈraɪzɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the explorer had been characterizing the biome for hours.",
+          "ja": "私たちが到着するまでに、探検家は数時間バイオームを特徴付けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ɪkˈsplɔrɚ həd bɪn ˌkærɪktəˈraɪzɪŋ ðə ˈbaɪoʊm fɔr ˈaʊɚz/",
+          "linking": [
+            "we arrived → /i/ + /ə/ が連結 [wi əˈraɪvd] ウィー アライブド",
+            "had は弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "for の語末子音 /r/ が hours の初頭母音 /aʊ/ に連結 [fɔr ˈaʊɚz] フォー アワーズ"
+          ],
+          "kana": "バイ ザ タイム ウィ アライブド、ザ エクスプローラー ハド ビン キャラクタライジング ザ バイオーム フォー アワーズ"
+        },
+        {
+          "en": "The team had been characterizing the landscape before they started building.",
+          "ja": "チームは建設を開始する前に風景を特徴付けていました。",
+          "ipa": "/ðə ˈtiːm həd bɪn ˌkærɪktəˈraɪzɪŋ ðə ˈlændˌskeɪp bɪˈfɔr ðeɪ ˈstɑrtɪd ˈbɪldɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "characterizing の語末子音 /ŋ/ が the の初頭子音 /ð/ に続く（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ティーム ハド ビン キャラクタライジング ザ ランドスケープ ビフォー ゼイ スターティド ビルディング"
+        }
+      ]
     }
   ]
 }
