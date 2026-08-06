@@ -236,6 +236,100 @@
           "kana": "アイム フッキング アップ ザ レッドストーン リピーター タディレイ ザ シグナル ナウ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is hooking",
+      "ipa": "/ɪz ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I am hooking the minecart to the track right now.",
+          "ja": "今、マインカートをレールに繋いでいます。",
+          "ipa": "/aɪ əm ˈhʊkɪŋ ðə ˈmaɪnˌkɑrt tə ðə ˈtræk ˈraɪt ˈnaʊ/",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the → 弱形 /ðə/",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ"
+          ],
+          "kana": "アイ アム フッキング ザ マインカート タザ トラック ライト ナウ"
+        },
+        {
+          "en": "She is hooking the redstone lamp to the lever for the auto-door.",
+          "ja": "自動ドア用にレッドストーン ランプをレバーに繋いでいます。",
+          "ipa": "/ʃi ɪz ˈhʊkɪŋ ðə ˈrɛdˌstoʊn ˈlæmp tə ðə ˈlɪvər fɔr ðə ˈɔːtəˌdɔr/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ",
+            "for the → for は弱形 /fɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ フッキング ザ レッドストーン ランプ タザ リバー ファー ザ オートドア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was hooking",
+      "ipa": "/wəz ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "We were hooking up the entire redstone circuit when the creeper attacked.",
+          "ja": "クリーパーが攻撃してきた時、レッドストーン回路全体を繋いでいました。",
+          "ipa": "/wi wɚ ˈhʊkɪŋ ʌp ðə ɛnˈtaɪər ˈrɛdˌstoʊn ˈsɝːkɪt wɛn ðə ˈkriːpər əˈtækt/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "the → 弱形 /ðə/",
+            "the creeper → the は弱形 /ðə/、creeper の /k/ に連結 [ðəˈkriːpər] ザクリーパー"
+          ],
+          "kana": "ウィー ワー フッキング アップ ザ エンタイアー レッドストーン サーキット ウェン ザ クリーパー アタックト"
+        },
+        {
+          "en": "I was hooking the cart to the rails when I found diamonds.",
+          "ja": "レールにカートを繋いでいた時、ダイヤを見つけました。",
+          "ipa": "/aɪ wəz ˈhʊkɪŋ ðə kɑrt tə ðə ˈreɪlz wɛn aɪ faʊnd ˈdaɪəˌmɑndz/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ"
+          ],
+          "kana": "アイ ワズ フッキング ザ カート タザ レイルズ ウェン アイ ファウンド ダイアマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been hooking",
+      "ipa": "/həd bɪn ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "We had been hooking the gates to the redstone system for hours before it finally worked.",
+          "ja": "やっと動くまで、何時間もゲートをレッドストーン システムに繋いでいました。",
+          "ipa": "/wi həd bɪn ˈhʊkɪŋ ðə ˈɡeɪts tə ðə ˈrɛdˌstoʊn ˈsɪstəm fɔr ˈaʊərz bɪˈfɔr ɪt ˈfaɪnəli ˈwɚkt/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "ウィー ハド ビン フッキング ザ ゲイツ タザ レッドストーン システム ファー アワーズ ビフォア イット ファイナリー ワーキト"
+        },
+        {
+          "en": "They had been hooking up the decorative lanterns all morning before the party started.",
+          "ja": "パーティーが始まる前、朝中ずっと装飾的なランタンをぶら下げていました。",
+          "ipa": "/ðeɪ həd bɪn ˈhʊkɪŋ ʌp ðə ˈdɛkərətɪv ˈlæntərnz ɔl ˈmɔrnɪŋ bɪˈfɔr ðə ˈpɑrti ˈstɑrtɪd/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "all morning → all の末尾 /l/ が morning の /m/ に連結 [ɔlˈmɔrnɪŋ] オール モーニング"
+          ],
+          "kana": "ゼイ ハド ビン フッキング アップ ザ デコラティヴ ランターンズ オール モーニング ビフォア ザ パーティー スターティド"
+        }
+      ]
     }
   ]
 }
