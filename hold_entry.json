@@ -415,6 +415,156 @@
           "kana": "ザイ・ハド・ビン・ホールディング・ザ キャッスル ウォールズ・アンティル・ザ ドラゴン ファイナリー・ブリーチド・ザム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has held",
+      "ipa": "/həz hɛld/",
+      "examples": [
+        {
+          "en": "She has held that diamond pickaxe since the very first day of the server.",
+          "ja": "彼女はサーバーの最初の日からずっとそのダイヤモンドツルハシを持っています。",
+          "ipa": "/ʃi həz hɛld ðæt ˈdaɪmənd ˈpɪkˌæks sɪns ðə ˈvɛri fɚst deɪ əv ðə ˈsɚvɚ/",
+          "linking": [
+            "She は /ʃi/。has は /həz/（弱形）。[ʃi həz] シー・ハズ",
+            "has の語末子音 /z/ が held の /h/（子音）に未開放で続く [həz̚ hɛld] ハズ・ヘルド",
+            "held の語末子音 /d/ が that の /ð/（子音）に未開放で続く [hɛld̚ ðæt] ヘルド・ザット",
+            "that は /ðæt/。diamond の /d/（子音）に続く [ðæt ˈdaɪmənd] ザット・ダイモンド",
+            "pickaxe の語末子音 /s/ が since の /s/（子音）に未開放で続く [ˈpɪkˌæks̚ sɪns] ピックアックス・シンス",
+            "since の語末子音 /s/ が the の /ð/（子音）に未開放で続く [sɪns̚ ðə] シンス・ザ",
+            "the は冠詞で弱形 /ðə/。very の /v/（子音）に続く [ðə ˈvɛri] ザ・ベリー",
+            "very の語末 /i/ が first の /f/（子音）に続く [ˈvɛri fɚst] ベリー・ファースト",
+            "first の語末子音 /t/ が day の /d/（子音）に未開放で続く [fɚst̚ deɪ] ファースト・デイ",
+            "day は /deɪ/。of は弱形 /əv/。[deɪ əv] デイ・ア",
+            "of は弱形 /əv/。the の /ð/（子音）に続く [əv ðə] ア・ザ",
+            "the は冠詞で弱形 /ðə/。server の /s/（子音）に続く [ðə ˈsɚvɚ] ザ・サーバー"
+          ],
+          "kana": "シー・ハズ・ヘルド・ザット ダイモンド ピックアックス シンス・ザ ベリー・ファースト デイ・ア・ザ・サーバー"
+        },
+        {
+          "en": "We have held our position at the base for more than two weeks now.",
+          "ja": "私たちは2週間以上、ベースでその位置を守り続けています。",
+          "ipa": "/wi həv hɛld ɑɚ pəˈzɪʃən æt ðə beɪs fɚ mɔr ðæn tu wiks naʊ/",
+          "linking": [
+            "We は /wi/（弱形）。have は /həv/（弱形）。[wi həv] ウィ・ハヴ",
+            "have の語末子音 /v/ が held の /h/（子音）に未開放で続く [həv̚ hɛld] ハヴ・ヘルド",
+            "held の語末子音 /d/ が our の /a/（母音）に連結 [hɛld aɚ] ヘルダー",
+            "our の語末子音 /r/ が position の /p/（子音）に続く [aɚ pəˈzɪʃən] アワー・パジション",
+            "position の語末子音 /n/ が at の /æ/（母音）に連結 [pəˈzɪʃən æt] パジション・アット",
+            "at は /æt/。the の /ð/（子音）に続く [æt ðə] アット・ザ",
+            "the は冠詞で弱形 /ðə/。base の /b/（子音）に続く [ðə beɪs] ザ・ベイス",
+            "base の語末子音 /s/ が for の /f/（子音）に未開放で続く [beɪs̚ fɚ] ベイス・ファー",
+            "for は機能語で弱形 /fɚ/。more の /m/（子音）に続く [fɚ mɔr] ファー・モー",
+            "more は /mɔr/。than は /ðæn/。[mɔr ðæn] モー・ザン",
+            "than の語末子音 /n/ が two の /t/（子音）に未開放で続く [ðæn̚ tu] ザン・トゥー",
+            "two は /tu/。weeks の /w/（子音）に続く [tu wiks] トゥー・ウィークス",
+            "weeks の語末子音 /s/ が now の /n/（子音）に未開放で続く [wiks̚ naʊ] ウィークス・ナウ"
+          ],
+          "kana": "ウィ・ハヴ・ヘルダー パジション・アット・ザ・ベイス ファー・モー・ザン・トゥー ウィークス・ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had held",
+      "ipa": "/həd hɛld/",
+      "examples": [
+        {
+          "en": "By the time the server crashed, I had held the top rank for three seasons.",
+          "ja": "サーバーがクラッシュするまでに、私は3シーズン間トップランクを保持していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈsɚvɚ kræʃt aɪ həd hɛld ðə tɑp ræŋk fɚ θri ˈsiːzənz/",
+          "linking": [
+            "by は機能語で弱形 /bə/。the の /ð/（子音）に続く [bə ðə] バ・ザ",
+            "the は冠詞で弱形 /ðə/。time の /t/（子音）に続く [ðə taɪm] ザ・タイム",
+            "time は /taɪm/。the の /ð/（子音）が続く [taɪm ðə] タイム・ザ",
+            "the は冠詞で弱形 /ðə/。server の /s/（子音）に続く [ðə ˈsɚvɚ] ザ・サーバー",
+            "server の語末子音 /r/ が crashed の /k/（子音）に続く [ˈsɚvɚ kræʃt] サーバー・クラッシュド",
+            "crashed は /kræʃt/。I の /aɪ/（母音）が続く [kræʃt aɪ] クラッシュド・アイ",
+            "I は /aɪ/。had は /həd/（弱形）。[aɪ həd] アイ・ハド",
+            "had の語末子音 /d/ が held の /h/（子音）に未開放で続く [həd̚ hɛld] ハド・ヘルド",
+            "held の語末子音 /d/ が the の /ð/（子音）に未開放で続く [hɛld̚ ðə] ヘルド・ザ",
+            "the は冠詞で弱形 /ðə/。top の /t/（子音）に続く [ðə tɑp] ザ・トップ",
+            "top は /tɑp/。rank の /r/（子音）に続く [tɑp ræŋk] トップ・ランク",
+            "rank の語末子音 /k/ が for の /f/（子音）に未開放で続く [ræŋk̚ fɚ] ランク・ファー",
+            "for は機能語で弱形 /fɚ/。three の /θ/（子音）に続く [fɚ θri] ファー・スリー",
+            "three の語末 /i/ が seasons の /s/（子音）に続く [θri ˈsiːzənz] スリー・シーズンズ"
+          ],
+          "kana": "バイ・ザ・タイム ザ・サーバー クラッシュド・アイ ハド・ヘルド・ザ トップ・ランク ファー・スリー シーズンズ"
+        },
+        {
+          "en": "She had held the key to the secret room before someone else discovered it.",
+          "ja": "彼女は誰か他の人がそれを発見する前に、秘密の部屋の鍵を持っていました。",
+          "ipa": "/ʃi həd hɛld ðə ki tu ðə ˈsikrət rum bɪˈfoɚ ˈsʌmwən ɛls dɪsˈkʌvɚd ɪt/",
+          "linking": [
+            "She は /ʃi/。had は /həd/（弱形）。[ʃi həd] シー・ハド",
+            "had の語末子音 /d/ が held の /h/（子音）に未開放で続く [həd̚ hɛld] ハド・ヘルド",
+            "held の語末子音 /d/ が the の /ð/（子音）に未開放で続く [hɛld̚ ðə] ヘルド・ザ",
+            "the は冠詞で弱形 /ðə/。key の /k/（子音）に続く [ðə ki] ザ・キー",
+            "key は /ki/。to は弱形 /tə/。[ki tə] キー・タ",
+            "to は機能語で弱形 /tə/。the の /ð/（子音）に続く [tə ðə] タ・ザ",
+            "the は冠詞で弱形 /ðə/。secret の /s/（子音）に続く [ðə ˈsikrət] ザ・シークレット",
+            "secret の語末子音 /t/ が room の /r/（子音）に未開放で続く [ˈsikrət̚ rum] シークレット・ルーム",
+            "room の語末子音 /m/ が before の /b/（子音）に続く [rum bɪˈfoɚ] ルーム・ビフォア",
+            "before の語末子音 /r/ が someone の /s/（子音）に続く [bɪˈfoɚ ˈsʌmwən] ビフォア・サムワン",
+            "someone は /ˈsʌmwən/。else の /ɛ/（母音）が続く [ˈsʌmwən ɛls] サムワン・エルス",
+            "else の語末子音 /s/ が discovered の /d/（子音）に未開放で続く [ɛls̚ dɪsˈkʌvɚd] エルス・ディスカバード",
+            "discovered は /dɪsˈkʌvɚd/。it の /ɪ/（母音）が続く [dɪsˈkʌvɚd ɪt] ディスカバード・イット"
+          ],
+          "kana": "シー・ハド・ヘルド・ザ キー・タ・ザ・シークレット ルーム ビフォア・サムワン エルス・ディスカバード・イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been holding",
+      "ipa": "/həz bɪn ˈhoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "He has been holding that torch for the last hour to light up the dark cave.",
+          "ja": "彼は暗い洞窟を照らすために、この1時間松明を持ち続けています。",
+          "ipa": "/hi həz bɪn ˈhoʊldɪŋ ðæt tɔrʃ fɚ ðə læst ˈaʊɚ tu laɪt ʌp ðə dark keɪv/",
+          "linking": [
+            "He は /hi/（弱形）。has は /həz/（弱形）。[hi həz] ヒー・ハズ",
+            "has の語末子音 /z/ が been の /b/（子音）に未開放で続く [həz̚ bɪn] ハズ・ビン",
+            "been の語末子音 /n/ が holding の /h/（子音）に未開放で続く [bɪn̚ ˈhoʊldɪŋ] ビン・ホールディング",
+            "holding の語末子音 /ŋ/ が that の /ð/（子音）に続く [ˈhoʊldɪŋ ðæt] ホールディング・ザット",
+            "that は /ðæt/。torch の /t/（子音）に続く [ðæt tɔrʃ] ザット・トーチ",
+            "torch の語末子音 /ʃ/ が for の /f/（子音）に未開放で続く [tɔrʃ̚ fɚ] トーチ・ファー",
+            "for は機能語で弱形 /fɚ/。the の /ð/（子音）に続く [fɚ ðə] ファー・ザ",
+            "the は冠詞で弱形 /ðə/。last の /l/（子音）に続く [ðə læst] ザ・ラスト",
+            "last の語末子音 /t/ が hour の /a/（母音）に連結 [læst ˈaʊɚ] ラスト・アワー",
+            "hour の語末子音 /r/ が to の弱形 /tə/ に続く [ˈaʊɚ tə] アワー・タ",
+            "to は機能語で弱形 /tə/。light の /l/（子音）に続く [tə laɪt] タ・ライト",
+            "light の語末子音 /t/ が up の /ʌ/（母音）に連結 [laɪt ʌp] ライト・アップ",
+            "up は /ʌp/。the の /ð/（子音）が続く [ʌp ðə] アップ・ザ",
+            "the は冠詞で弱形 /ðə/。dark の /d/（子音）に続く [ðə dark] ザ・ダーク",
+            "dark は /dark/。cave の /k/（子音）に続く [dark keɪv] ダーク・ケイヴ"
+          ],
+          "kana": "ヒー・ハズ・ビン・ホールディング・ザット トーチ ファー・ザ ラスト・アワー タ・ライト・アップ ザ・ダーク ケイヴ"
+        },
+        {
+          "en": "They have been holding the line against the mob waves since sunrise.",
+          "ja": "彼らは日の出からずっとモブの波に対する防線を守り続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈhoʊldɪŋ ðə laɪn əˈɡɛnst ðə mɑb weɪvz sɪns ˈsʌnˌraɪz/",
+          "linking": [
+            "They は /ðeɪ/。have は /həv/（弱形）。[ðeɪ həv] ザイ・ハヴ",
+            "have の語末子音 /v/ が been の /b/（子音）に未開放で続く [həv̚ bɪn] ハヴ・ビン",
+            "been の語末子音 /n/ が holding の /h/（子音）に未開放で続く [bɪn̚ ˈhoʊldɪŋ] ビン・ホールディング",
+            "holding の語末子音 /ŋ/ が the の /ð/（子音）に続く [ˈhoʊldɪŋ ðə] ホールディング・ザ",
+            "the は冠詞で弱形 /ðə/。line の /l/（子音）に続く [ðə laɪn] ザ・ライン",
+            "line の語末子音 /n/ が against の /ə/（母音）に連結 [laɪn əˈɡɛnst] ラインアゲンスト",
+            "against の語末子音 /t/ が the の /ð/（子音）に未開放で続く [əˈɡɛnst̚ ðə] アゲンスト・ザ",
+            "the は冠詞で弱形 /ðə/。mob の /m/（子音）に続く [ðə mɑb] ザ・モブ",
+            "mob は /mɑb/。waves の /w/（子音）に続く [mɑb weɪvz] モブ・ウェイブズ",
+            "waves の語末子音 /z/ が since の /s/（子音）に未開放で続く [weɪvz̚ sɪns] ウェイブズ・シンス",
+            "since の語末子音 /s/ が sunrise の /s/（子音）に未開放で続く [sɪns̚ ˈsʌnˌraɪz] シンス・サンライズ"
+          ],
+          "kana": "ザイ・ハヴ・ビン・ホールディング・ザ ライン アゲンスト・ザ モブ ウェイブズ シンス・サンライズ"
+        }
+      ]
     }
   ]
 }
