@@ -264,6 +264,102 @@
           "kana": "ワット ワズ コンサーニング ザ プレイヤーズ ウェン ザ サーバー クラッシュト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has concerned",
+      "ipa": "/həz kənˈsɝnd/",
+      "examples": [
+        {
+          "en": "The recent patches have concerned players who rely on vanilla mechanics.",
+          "ja": "最近のパッチはバニラメカニクスに依存するプレイヤーたちを懸念させてきました。",
+          "ipa": "[ðə ˈriːsənt ˈpætʃɪz hæv kənˈsɝnd ˈpleɪərz huː rɪˈlaɪ ɑn vəˈnɪlə mɪˈkænɪks]",
+          "linking": [
+            "the は弱形 /ðə/。recent の初頭に連結 [ðə ˈriːsənt] ザ リーセント",
+            "patches の末尾 /z/ が have の初頭 /h/。別音なので [ˈpætʃɪz hæv] パッチズ ハヴ",
+            "have の末尾 /v/ が concerned の初頭 /k/。別音なので [hæv kənˈsɝnd] ハヴ コンサーンド",
+            "concerned の末尾 /d/ が players の初頭 /p/。別音なので [kənˈsɝnd ˈpleɪərz] コンサーンド プレイヤーズ"
+          ],
+          "kana": "ザ リーセント パッチズ ハヴ コンサーンド プレイヤーズ フー リライ オン ヴァニラ ミカニクス"
+        },
+        {
+          "en": "Your disappearance has concerned everyone on the server.",
+          "ja": "あなたの消失はサーバー上のみんなを懸念させてきました。",
+          "ipa": "[jɔr dɪsəˈpɪrəns həz kənˈsɝnd ˈɛvriˌwʌn ɑn ðə ˈsɝvər]",
+          "linking": [
+            "disappearance の末尾 /s/ が has の初頭 /h/。別音なので [dɪsəˈpɪrəns həz] ディサピアランス ハズ",
+            "has は弱形 /həz/。concerned の初頭に別音なので [həz kənˈsɝnd] ハズ コンサーンド",
+            "concerned の末尾 /d/ が everyone の初頭 /ɛ/ に連結 [kənˈsɝnd ˈɛvriˌwʌn] コンサーンド エブリワン",
+            "the は弱形 /ðə/。server の初頭に連結 [ðə ˈsɝvər] ザ サーバー"
+          ],
+          "kana": "ユアー ディサピアランス ハズ コンサーンド エブリワン オン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had concerned",
+      "ipa": "/həd kənˈsɝnd/",
+      "examples": [
+        {
+          "en": "By the time we fixed the bug, the errors had concerned many players.",
+          "ja": "バグを修正するまでに、エラーは多くのプレイヤーを懸念させていました。",
+          "ipa": "[baɪ ðə taɪm wi fɪkst ðə bʌɡ ðə ˈɛrərz həd kənˈsɝnd ˈmɛni ˈpleɪərz]",
+          "linking": [
+            "the は弱形 /ðə/。time の初頭に連結 [ðə taɪm] ザ タイム",
+            "we の末尾 /i/ が fixed の初頭 /f/。別音なので [wi fɪkst] ウィー フィクスト",
+            "fixed の末尾 /t/ が the の初頭 /ðə/。未開放で先行 [fɪkst̚ ðə] フィクスト ザ",
+            "errors の末尾 /z/ が had の初頭 /h/。別音なので [ˈɛrərz həd] エラーズ ハド"
+          ],
+          "kana": "バイ ザ タイム ウィー フィクスト ザ バグ ザ エラーズ ハド コンサーンド メニー プレイヤーズ"
+        },
+        {
+          "en": "He hadn't realized that his actions had concerned the entire guild.",
+          "ja": "彼は自分の行動がギルド全体を懸念させていたことに気づいていませんでした。",
+          "ipa": "[hi ˈhædənt ˈriːəˌlaɪzd ðət hɪz ˈækʃənz həd kənˈsɝnd ðə ɛnˈtaɪər ɡɪld]",
+          "linking": [
+            "hadn't の末尾 /t/ が realized の初頭 /r/。未開放で先行 [ˈhædən̚t ˈriːəˌlaɪzd] ハドント リアライズド",
+            "realized の末尾 /d/ が that の初頭 /ðə/。別音なので [ˈriːəˌlaɪzd ðət] リアライズド ザット",
+            "actions の末尾 /z/ が had の初頭 /h/。別音なので [ˈækʃənz həd] アクションズ ハド",
+            "had は弱形 /həd/。concerned の初頭に別音なので [həd kənˈsɝnd] ハド コンサーンド"
+          ],
+          "kana": "ヒー ハドント リアライズド ザット ヒズ アクションズ ハド コンサーンド ザ エンタイア ギルド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been concerning",
+      "ipa": "/həz bɪn kənˈsɝnɪŋ/",
+      "examples": [
+        {
+          "en": "The stability issues have been concerning me throughout the entire session.",
+          "ja": "安定性の問題はセッション全体を通じて私を懸念させ続けています。",
+          "ipa": "[ðə stəˈbɪləti ˈɪʃuːz hæv bɪn kənˈsɝnɪŋ mi θruːˈaʊt ðə ənˈtaɪər ˈsɛʃən]",
+          "linking": [
+            "the は弱形 /ðə/。stability の初頭に連結 [ðə stəˈbɪləti] ザ スタビリティー",
+            "issues の末尾 /z/ が have の初頭 /h/。別音なので [ˈɪʃuːz hæv] イシューズ ハヴ",
+            "have の末尾 /v/ が been の初頭 /b/。別音なので [hæv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/。concerning の初頭に別音なので [bɪn kənˈsɝnɪŋ] ビン コンサーニング"
+          ],
+          "kana": "ザ スタビリティー イシューズ ハヴ ビン コンサーニング ミー スルーアウト ザ エンタイア セッション"
+        },
+        {
+          "en": "What has been concerning the admins most about the performance lag?",
+          "ja": "パフォーマンスラグについて、管理者を最も懸念させ続けているのは何ですか？",
+          "ipa": "[wɑt həz bɪn kənˈsɝnɪŋ ðə ˈædmɪnz moʊst əˈbaʊt ðə pərˈfɔrməns læɡ]",
+          "linking": [
+            "has は弱形 /həz/。been の初頭に別音なので [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。concerning の初頭に別音なので [bɪn kənˈsɝnɪŋ] ビン コンサーニング",
+            "concerning の末尾 /ŋ/ が the の初頭 /ðə/ に別音なので [kənˈsɝnɪŋ ðə] コンサーニング ザ",
+            "the は弱形 /ðə/。performance の初頭に連結 [ðə pərˈfɔrməns] ザ パーフォーマンス"
+          ],
+          "kana": "ワット ハズ ビン コンサーニング ザ アドミンズ モウスト アバウト ザ パーフォーマンス ラグ"
+        }
+      ]
     }
   ]
 }
