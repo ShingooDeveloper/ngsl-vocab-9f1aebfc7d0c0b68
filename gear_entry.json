@@ -208,6 +208,95 @@
           "kana": "ザ レッドストーン コントラプション イズ ギアリング ザ マインカート システム トゥワード ザ スポーン ポイント"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is gearing",
+      "ipa": "/ɪz ˈɡɪɹɪŋ/",
+      "examples": [
+        {
+          "en": "The player is gearing up to face the dragon.",
+          "ja": "プレイヤーはドラゴンに立ち向かう準備をしている。",
+          "ipa": "/ðə ˈpleɪɚ ɪz ˈɡɪɹɪŋ ʌp tə ˈfeɪs ðə ˈdræɡən/",
+          "linking": [
+            "is は助動詞の弱形 /ɪz/",
+            "to は機能語の弱形 /tə/、face の /f/ に連結",
+            "the は冠詞の弱形 /ðə/"
+          ],
+          "kana": "ザ プレイヤー イズ ギアリング アップ タ フェイス ザ ドラゴン"
+        },
+        {
+          "en": "I am gearing my character with diamond armor.",
+          "ja": "私はキャラクターをダイヤモンドアーマーで武装させている。",
+          "ipa": "/aɪ əm ˈɡɪɹɪŋ maɪ ˈkærəktɚ wɪð ˈdaɪmənd ˈɑɹmɚ/",
+          "linking": [
+            "am は弱形 /əm/",
+            "diamond の /d/ が armor の /ɑ/ に連結"
+          ],
+          "kana": "アイ アム ギアリング マイ キャラクター ウィズ ダイモンド アーマー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was gearing",
+      "ipa": "/wəz ˈɡɪɹɪŋ/",
+      "examples": [
+        {
+          "en": "She was gearing her tools when the creeper appeared.",
+          "ja": "クリーパーが現れた時、彼女は道具を用意していた。",
+          "ipa": "/ʃi wəz ˈɡɪɹɪŋ ɚ tulz wɛn ðə ˈkripɚ əˈpɪɹd/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "her は弱形 /ɚ/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "シー ワズ ギアリング ハー トゥールズ ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "We were gearing up for a long mining expedition.",
+          "ja": "私たちは長い採掘遠征の準備をしていた。",
+          "ipa": "/wi wɚ ˈɡɪɹɪŋ ʌp fɚ ə lɔŋ ˈmaɪnɪŋ ɪkˌspɛdəˈʃən/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "for は弱形 /fɚ/",
+            "a は弱形 /ə/"
+          ],
+          "kana": "ウィ ワー ギアリング アップ フォア ア ロング マイニング イクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been gearing",
+      "ipa": "/həd bɪn ˈɡɪɹɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the boss arrived, he had been gearing for an hour.",
+          "ja": "ボスが到着までに、彼は1時間準備していた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbɑs əˈraɪvd hi həd bɪn ˈɡɪɹɪŋ fɚ ən ˈaʊɚ/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ ボス アライブド ヒー ハド ビン ギアリング フォア アン アワー"
+        },
+        {
+          "en": "They had been gearing themselves for the raid all week.",
+          "ja": "彼らはレイド用に1週間ずっと準備していた。",
+          "ipa": "/ðeɪ həd bɪn ˈɡɪɹɪŋ ðəmˈsɛlvz fɚ ðə ˈreɪd ɔl ˈwik/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン ギアリング ゼムセルブズ フォア ザ レイド オール ウィーク"
+        }
+      ]
     }
   ]
 }
