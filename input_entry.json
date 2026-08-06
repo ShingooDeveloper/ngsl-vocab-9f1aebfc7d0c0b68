@@ -222,6 +222,96 @@
           "kana": "ウィアー インプッティング オールザ プレイアー データ イント ザ サーバー ライト ナウ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is + -ing）",
+      "text": "is inputting",
+      "ipa": "ɪz ˈɪnpʊtɪŋ",
+      "examples": [
+        {
+          "en": "The hopper is inputting items into the chest.",
+          "ja": "ホッパーがチェストにアイテムを入力しています。",
+          "ipa": "/ðə ˈhɑpɚ ɪz ˈɪnpʊtɪŋ ˈaɪtəmz ˈɪntu ðə tʃɛst/",
+          "linking": [
+            "hopper の語末 /ɚ/ が is の /ɪ/ に連結 [ˈhɑpɚɪz] ハッパーイズ。is は弱形 /ɪz/。",
+            "items の語末 /z/ が into の /ɪ/ に連結 [ˈaɪtəmzˈɪntu] アイタムズインチュ。",
+            "the は弱形 /ðə/（2回）。"
+          ],
+          "kana": "ザ ハッパー イズ インプッティング アイタムズ インチュ ザ チェスト"
+        },
+        {
+          "en": "I am inputting the command into the command block.",
+          "ja": "私がコマンドをコマンドブロックに入力しています。",
+          "ipa": "/aɪ æm ˈɪnpʊtɪŋ ðə kəˈmænd ˈɪntu ðə kəˈmænd blɑk/",
+          "linking": [
+            "command の語末 /d/ が into の /ɪ/ に連結 [kəˈmænɪntu] コマンドインチュ。",
+            "the は弱形 /ðə/（2回）。",
+            "into は通常強勢 /ˈɪntu/。"
+          ],
+          "kana": "アイ アム インプッティング ザ コマンド インチュ ザ コマンド ブラック"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was + -ing）",
+      "text": "was inputting",
+      "ipa": "wəz ˈɪnpʊtɪŋ",
+      "examples": [
+        {
+          "en": "She was inputting data when the lightning struck.",
+          "ja": "彼女がデータを入力していたとき、雷が落ちました。",
+          "ipa": "/ʃi wəz ˈɪnpʊtɪŋ ˈdeɪtə wɛn ðə ˈlaɪtnɪŋ strʌk/",
+          "linking": [
+            "was は弱形 /wəz/。",
+            "the は弱形 /ðə/。",
+            "inputting の語末 /ŋ/ は未開放で、次の data の語頭へ連結しない（鼻音で終わる）。"
+          ],
+          "kana": "シー ワズ インプッティング デイタ ウェン ザ ライトニング ストラック"
+        },
+        {
+          "en": "They were inputting the recipe into the crafting table.",
+          "ja": "彼らがレシピをクラフティングテーブルに入力していました。",
+          "ipa": "/ðɛɪ wɚ ˈɪnpʊtɪŋ ðə ˈrɛsəpi ˈɪntu ðə ˈkræftɪŋ ˈteɪbəl/",
+          "linking": [
+            "were は弱形 /wɚ/。",
+            "the は弱形 /ðə/（2回）。",
+            "recipe の語末 /i/ は半母音に近く、into の /ɪ/ との間で連結なし（母音+母音）。"
+          ],
+          "kana": "ゼイ ワー インプッティング ザ レセピー インチュ ザ クラフティング テーブル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been inputting",
+      "ipa": "həd bɪn ˈɪnpʊtɪŋ",
+      "examples": [
+        {
+          "en": "She had been inputting coordinates for hours when the server crashed.",
+          "ja": "彼女がサーバーがクラッシュするまで数時間座標を入力していました。",
+          "ipa": "/ʃi həd bɪn ˈɪnpʊtɪŋ ˌkoʊˈɔrdəneɪts ˈfɔr ˈaʊərz wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "had は弱形 /həd/。been は弱形 /bɪn/。",
+            "for は弱形 /fɚ/。the は弱形 /ðə/。",
+            "coordinates の語末 /s/ が for の /f/ に続く（子音+子音、連結なし）。"
+          ],
+          "kana": "シー ハド ビン インプッティング コーオーディネッツ ファー アワーズ ウェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "We had been inputting resources into the hopper all morning.",
+          "ja": "私たちは朝中ずっとリソースをホッパーに入力していました。",
+          "ipa": "/wi həd bɪn ˈɪnpʊtɪŋ rɪˈsɔrsɪz ˈɪntu ðə ˈhɑpər ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "had は弱形 /həd/。been は弱形 /bɪn/。",
+            "resources の語末 /z/ が into の /ɪ/ に連結 [rɪˈsɔrsɪzˈɪntu] リソーシーズインチュ。",
+            "the は弱形 /ðə/。all は /ɔl/ で強勢（変化なし）。"
+          ],
+          "kana": "ウィ ハド ビン インプッティング リソーシーズ インチュ ザ ハッパー オール モーニング"
+        }
+      ]
     }
   ]
 }
