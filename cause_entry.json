@@ -71,6 +71,96 @@
   ],
   "forms": [
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has caused",
+      "ipa": "/həz ˈkɔːzd/",
+      "examples": [
+        {
+          "en": "The toxic cloud has caused several players to lose health.",
+          "ja": "有毒なクラウドが複数のプレイヤーに健康損失をもたらしました。",
+          "ipa": "/ðə ˈtɑksɪk ˈklaʊd həz ˈkɔːzd ˈsɛvərəl ˈpleɪərz tu ˈluːz ˈhɛlθ/",
+          "linking": [
+            "the toxic cloud → the は弱形 /ðə/",
+            "has caused → has は弱形 /həz/；/z/ が caused の /k/ に先行（consonant+consonant、連結なし）",
+            "to lose → to は弱形 /tə/"
+          ],
+          "kana": "ザ トクシック クラウド ハズ コーズド セヴラル プレイヤーズ トゥ ルーズ ヘルス"
+        },
+        {
+          "en": "We have caused an enormous delay in the redstone mechanism.",
+          "ja": "私たちはレッドストーン機構に大きな遅れをもたらしました。",
+          "ipa": "/wi həv ˈkɔːzd ən ɪˈnɔːrməs dɪˈleɪ ɪn ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm/",
+          "linking": [
+            "have caused → have は弱形 /həv/；/v/ が caused の /k/ に先行（consonant+consonant、連結なし）",
+            "an enormous → an は弱形 /ən/",
+            "the redstone → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ コーズド ア イノーマス ディレイ イン ザ レッドストーン メカニズム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had caused",
+      "ipa": "/həd ˈkɔːzd/",
+      "examples": [
+        {
+          "en": "The explosion had caused structural damage before we could repair it.",
+          "ja": "修理する前に、爆発は構造的な損傷をもたらしていました。",
+          "ipa": "/ðə ɪkˈsploʊʒən həd ˈkɔːzd ˈstrʌktʃərəl ˈdæmɪdʒ bɪˈfɔːr wi kʊd rɪˈpɛr ɪt/",
+          "linking": [
+            "the explosion → the は弱形 /ðə/",
+            "had caused → had は弱形 /həd/；/d/ が caused の /k/ に先行（consonant+consonant、連結なし）",
+            "before we → before は /bɪˈfɔːr/；we の /w/ に先行"
+          ],
+          "kana": "ザ エクスプロージョン ハド コーズド ストラクチャラル ダメッジ ビフォア ウィ コッド リペア イット"
+        },
+        {
+          "en": "The bug had caused many server crashes before the update was released.",
+          "ja": "アップデートがリリースされる前に、そのバグは多くのサーバー障害をもたらしていました。",
+          "ipa": "/ðə bʌg həd ˈkɔːzd ˈmɛni ˈsɜːrvər ˈkræʃɪz bɪˈfɔːr ðə ˈʌpdeɪt wəz rɪˈlist/",
+          "linking": [
+            "the bug → the は弱形 /ðə/",
+            "had caused → had は弱形 /həd/；/d/ が caused の /k/ に先行（consonant+consonant、連結なし）",
+            "the update → the は弱形 /ðə/"
+          ],
+          "kana": "ザ バグ ハド コーズド メニ サーバー クラッシーズ ビフォア ザ アップデイト ワズ リリースト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been causing",
+      "ipa": "/həz bɪn ˈkɔːzɪŋ/",
+      "examples": [
+        {
+          "en": "The water leak has been causing the wood blocks to rot for days.",
+          "ja": "水漏れは何日も木のブロックを腐らせ続けています。",
+          "ipa": "/ðə ˈwɔːtər ˈliːk həz bɪn ˈkɔːzɪŋ ðə ˈwʊd blɑks tu rɑt fər ˈdeɪz/",
+          "linking": [
+            "the water → the は弱形 /ðə/",
+            "has been causing → has は弱形 /həz/；/z/ が been の /b/ に先行（consonant+consonant、連結なし）；been は弱形 /bɪn/；/n/ が causing の /k/ に先行（consonant+consonant、連結なし）",
+            "the wood blocks → the は弱形 /ðə/；to は弱形 /tə/；for は弱形 /fər/"
+          ],
+          "kana": "ザ ウォーター リーク ハズ ビン コージング ザ ウッド ブロックス トゥ ロット ファー デイズ"
+        },
+        {
+          "en": "The lag spikes have been causing the players to disconnect repeatedly.",
+          "ja": "ラグスパイクがプレイヤーを繰り返し切断させ続けています。",
+          "ipa": "/ðə læg ˈspaɪks həv bɪn ˈkɔːzɪŋ ðə ˈpleɪərz tu ˌdɪsəˈnɛkt rɪˈpitɪdli/",
+          "linking": [
+            "the lag spikes → the は弱形 /ðə/",
+            "have been causing → have は弱形 /həv/；/v/ が been の /b/ に先行（consonant+consonant、連結なし）；been は弱形 /bɪn/；/n/ が causing の /k/ に先行（consonant+consonant、連結なし）",
+            "the players → the は弱形 /ðə/；to は弱形 /tə/"
+          ],
+          "kana": "ザ ラグ スパイクス ハヴ ビン コージング ザ プレイヤーズ トゥ ディスコネクト リピーテッドリー"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is causing",
