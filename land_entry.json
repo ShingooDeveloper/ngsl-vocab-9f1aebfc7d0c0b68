@@ -320,6 +320,107 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has landed",
+      "ipa": "/hæz ˈlændɪd/",
+      "examples": [
+        {
+          "en": "I have successfully landed my supplies on the highest mountain in the realm.",
+          "ja": "私はこの世界の最高の山に物資を着地させることに成功しました。",
+          "ipa": "/aɪ həv səkˈsɛsˌfəli ˈlændɪd maɪ səˈplaɪz ɑn ðə ˈhaɪəst ˈmaʊntən ɪn ðə realm/",
+          "kana": "アイ ハヴ サクセスフリー ランディッド マイ サプライズ オン ザ ハイアスト マウンテン イン ザ レルム",
+          "linking": [
+            "have: 弱形 /həv/",
+            "successfully landed: /i/ が /l/ に連結 [səkˈsɛsˌfəli ˈlændɪd] サクセスフリー ランディッド",
+            "supplies on: /z/ が /ɑ/ に連結 [səˈplaɪz ɑn]",
+            "highest mountain: /t/ が /m/ に未開放 [ˈhaɪəst ˈmaʊntən]"
+          ]
+        },
+        {
+          "en": "She has landed her parrot on every tree in the jungle biome.",
+          "ja": "彼女はジャングルバイオームのすべての木にオウムを着地させている。",
+          "ipa": "/ʃi həz ˈlændɪd hɚ ˈpærət ɑn ˈɛvri tri ɪn ðə ˈdʒʌŋɡəl ˈbaɪoʊm/",
+          "kana": "シー ハズ ランディッド ハー パレット オン エヴリー ツリー イン ザ ジャングル バイオーム",
+          "linking": [
+            "has: 弱形 /həz/ [ʃi həz] シー ハズ",
+            "landed her: /d/ が /h/ に続く [ˈlændɪd hɚ]",
+            "every tree: /i/ が /t/ に連結 [ˈɛvri tri] エヴリー ツリー",
+            "in the: /n/ が /ð/ に続く [ɪn ðə] インザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had landed",
+      "ipa": "/hæd ˈlændɪd/",
+      "examples": [
+        {
+          "en": "After we had landed safely, the team discovered diamonds nearby.",
+          "ja": "無事に着地した後、チームは近くでダイヤモンドを発見しました。",
+          "ipa": "/ˈæftər wi həd ˈlændɪd ˈseɪfli ðə tim dɪsˈkʌvərd ˈdaɪəˌmɑndz ˈnɪrˌbaɪ/",
+          "kana": "アフター ウィ ハド ランディッド セイフリー、ザ ティーム ディスカヴァード ダイアモンズ ニアバイ",
+          "linking": [
+            "had landed: /d/ が /l/ に続く [həd ˈlændɪd]、had は弱形 /həd/",
+            "safely the: /i/ が /ð/ に続く [ˈseɪfli ðə]",
+            "discovered diamonds: /d/ が /d/ に続く [dɪsˈkʌvərd ˈdaɪəˌmɑndz]",
+            "diamonds nearby: /z/ が /n/ に続く [ˈdaɪəˌmɑndz ˈnɪrˌbaɪ]"
+          ]
+        },
+        {
+          "en": "Once the dragon had landed on the tower, it began attacking the village.",
+          "ja": "ドラゴンが塔に着地したら、村を攻撃し始めました。",
+          "ipa": "/wʌns ðə ˈdræɡən həd ˈlændɪd ɑn ðə ˈtaʊər ɪt bɪˈɡæn əˈtækɪŋ ðə ˈvɪlɪdʒ/",
+          "kana": "ワンス ザ ドラゴン ハド ランディッド オン ザ タウアー、イット ビガン アタッキング ザ ヴィリッジ",
+          "linking": [
+            "dragon had: /n/ が /h/ に続く [ˈdræɡən həd]",
+            "had landed: /d/ が /l/ に続く [həd ˈlændɪd]、had は弱形",
+            "landed on: /d/ が /ɑ/ に連結 [ˈlændɪd ɑn]",
+            "on the: /n/ が /ð/ に続く [ɑn ðə] オンザ",
+            "attacking the: /ŋ/ が /ð/ に続く [əˈtækɪŋ ðə]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been landing",
+      "ipa": "/hæz bɪn ˈlændɪŋ/",
+      "examples": [
+        {
+          "en": "The player has been landing jump pads on the parkour course all afternoon.",
+          "ja": "プレイヤーは午後中、パルクール道にジャンプパッドを着地させ続けています。",
+          "ipa": "/ðə ˈpleɪər həz bɪn ˈlændɪŋ dʒʌmp pædz ɑn ðə ˈpɑrkur kɔrs ɔl ˈæftərˌnun/",
+          "kana": "ザ プレイアー ハズ ビン ランディング ジャンプ パッズ オン ザ パーク コース オール アフターヌーン",
+          "linking": [
+            "has been: /z/ が /b/ に続く [həz bɪn] ハズ ビン",
+            "been landing: /n/ が /l/ に未開放 [bɪn ˈlændɪŋ]",
+            "landing jump: /ŋ/ が /dʒ/ に続く [ˈlændɪŋ dʒʌmp]",
+            "jump pads: /p/ が /p/ に未開放",
+            "pads on: /z/ が /ɑ/ に連結 [pædz ɑn]",
+            "on the: /n/ が /ð/ に続く [ɑn ðə]"
+          ]
+        },
+        {
+          "en": "We have been landing supplies on the dock for the entire morning shift.",
+          "ja": "私たちは朝のシフト全体の間、ドックに物資を着地させ続けています。",
+          "ipa": "/wi həv bɪn ˈlændɪŋ səˈplaɪz ɑn ðə dɑk fɔr ðə ɪnˈtaɪər ˈmɔrnɪŋ ʃɪft/",
+          "kana": "ウィ ハヴ ビン ランディング サプライズ オン ザ ダック フォア ザ エンタイアー モーニング シフト",
+          "linking": [
+            "have been: /v/ が /b/ に続く [həv bɪn] ハヴ ビン",
+            "been landing: /n/ が /l/ に未開放 [bɪn ˈlændɪŋ]",
+            "landing supplies: /ŋ/ が /s/ に続く [ˈlændɪŋ səˈplaɪz]",
+            "supplies on: /z/ が /ɑ/ に連結 [səˈplaɪz ɑn]",
+            "on the: /n/ が /ð/ に続く [ɑn ðə]",
+            "for the: for は弱形 /fɔr/ [fɔr ðə]、the は /ðə/"
+          ]
+        }
+      ]
     }
   ],
   "idioms": [
