@@ -240,6 +240,198 @@
           "kana": "ウィザウト セクシング ユー キャンノット プリベント アンウォンティド ブリーディング イン ユー ファーム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is sexing",
+      "ipa": "/ɪz ˈsɛksɪŋ/",
+      "examples": [
+        {
+          "en": "The farmer is sexing the new animals to set up breeding pairs.",
+          "ja": "農民は新しい動物の性別を確認して、繁殖ペアを作ろうとしています。",
+          "ipa": "/ðə ˈfɑrmər ɪz ˈsɛksɪŋ ðə ˈnu ˈænɪməlz tu ˈsɛt ʌp ˈbridɪŋ ˈpɛrz/",
+          "linking": [
+            "farmer is → r が ə に連結し、is は弱形 /ɪz/ [ˈfɑrmər ɪz] ファーマー イズ",
+            "is sexing → z が s に子音+子音で続く（連結なし）",
+            "sexing the → ŋ が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛksɪŋ ðə] セクシング ザ",
+            "to set → to は弱形 /tə/、set へ [tə ˈsɛt] タ セット"
+          ],
+          "kana": "ザ ファーマー イズ セクシング ザ ニュー アニマルズ タ セット アップ ブリーディング ペアーズ"
+        },
+        {
+          "en": "I am currently sexing the rabbits I bred last week.",
+          "ja": "先週育てたウサギの性別を現在確認しています。",
+          "ipa": "/aɪ æm ˈkɝrəntli ˈsɛksɪŋ ðə ˈræbɪts aɪ brɛd ˈlæst ˈwik/",
+          "linking": [
+            "sexing the → ŋ が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛksɪŋ ðə] セクシング ザ",
+            "the rabbits → ə が r に子音+子音で続く（連結なし）",
+            "rabbits I → z が ə に連結 [ˈræbɪts aɪ] ラビッツ アイ",
+            "I bred → d が b に子音+子音で続く（連結なし）"
+          ],
+          "kana": "アイ アム カレントリー セクシング ザ ラビッツ アイ ブレッド ラースト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sexing",
+      "ipa": "/wəz ˈsɛksɪŋ/",
+      "examples": [
+        {
+          "en": "I was sexing the animals when the lightning storm hit.",
+          "ja": "落雷が起きたとき、動物の性別を確認していました。",
+          "ipa": "/aɪ wəz ˈsɛksɪŋ ðə ˈænɪməlz wɛn ðə ˈlaɪtnɪŋ ˈstɔrm hɪt/",
+          "linking": [
+            "I was → z が s に子音+子音で続く。was は弱形 /wəz/ [aɪ wəz] アイ ワズ",
+            "was sexing → z が s に子音+子音で続く（連結なし）",
+            "sexing the → ŋ が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛksɪŋ ðə] セクシング ザ",
+            "when the → n が ð に子音+子音で続く。the は弱形 /ðə/ [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "アイ ワズ セクシング ザ アニマルズ ウェン ザ ライトニング ストーム ヒット"
+        },
+        {
+          "en": "We were sexing the horses when you logged into the server.",
+          "ja": "あなたがサーバーにログインしたとき、馬の性別を確認していました。",
+          "ipa": "/wi wɝ ˈsɛksɪŋ ðə ˈhɔrsəz wɛn ju ˈlɑɡd ˈɪntu ðə ˈsɝvər/",
+          "linking": [
+            "We were → r が s に子音+子音で続く。were は弱形 /wɝ/ [wi wɝ] ウィー ワー",
+            "were sexing → z が s に子音+子音で続く（連結なし）",
+            "sexing the → ŋ が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛksɪŋ ðə] セクシング ザ",
+            "logged into → d が ɪ に連結 [ˈlɑɡd ˈɪntu] ロゴド イントゥー"
+          ],
+          "kana": "ウィー ワー セクシング ザ ホースイズ ウェン ユー ロゴド イントゥー ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sexing",
+      "ipa": "/həd bɪn ˈsɛksɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the breeder had been sexing animals for three hours.",
+          "ja": "到着したとき、ブリーダーは3時間動物の性別確認をしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈbridər həd bɪn ˈsɛksɪŋ ˈænɪməlz fɔr ˈθri ˈaʊərz/",
+          "linking": [
+            "By the → ð が ð に子音+子音で続く。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "we arrived → d が ə に連結 [əˈraɪvd] アライブド",
+            "breeder had → r が h に子音+子音で続く。had は弱形 /həd/ [ˈbridər həd] ブリーダー ハド",
+            "had been → n が b に子音+子音で続く。been は弱形 /bɪn/ [həd bɪn] ハド ビン"
+          ],
+          "kana": "バイ ザ タイム ウィー アライブド ザ ブリーダー ハド ビン セクシング アニマルズ フォー スリー アワーズ"
+        },
+        {
+          "en": "I had been sexing every animal in the farm before the new players joined.",
+          "ja": "新しいプレイヤーが参加する前に、農場のすべての動物の性別を確認していました。",
+          "ipa": "/aɪ həd bɪn ˈsɛksɪŋ ˈɛvri ˈænɪməl ɪn ðə ˈfɑrm bɪˈfɔr ðə ˈnu ˈpleɪərz ˈdʒɔɪnd/",
+          "linking": [
+            "I had → d が b に子音+子音で続く。had は弱形 /həd/ [aɪ həd] アイ ハド",
+            "had been → n が b に子音+子音で続く。been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been sexing → n が s に子音+子音で続く（連結なし）",
+            "before the → r が ð に子音+子音で続く。the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォー ザ"
+          ],
+          "kana": "アイ ハド ビン セクシング エヴリー アニマル イン ザ ファーム ビフォー ザ ニュー プレイヤーズ ジョインド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sexed",
+      "ipa": "/həz ˈsɛkst/",
+      "examples": [
+        {
+          "en": "The farmer has sexed all the newly spawned animals.",
+          "ja": "農民は新しくスポーンした動物すべての性別を確認しました。",
+          "ipa": "/ðə ˈfɑrmər həz ˈsɛkst ˈɔl ðə ˌnjuːli ˈspɔːnd ˈænɪməlz/",
+          "linking": [
+            "farmer has → r が h に子音+子音で続く。has は弱形 /həz/ [ˈfɑrmər həz] ファーマー ハズ",
+            "has sexed → z が s に子音+子音で続く（連結なし）",
+            "sexed all → d が ə に連結 [ˈsɛkst ˈɔl] セクスト オール",
+            "all the → l が ð に子音+子音で続く。the は弱形 /ðə/ [ˈɔl ðə] オール ザ"
+          ],
+          "kana": "ザ ファーマー ハズ セクスト オール ザ ニューリー スポウンド アニマルズ"
+        },
+        {
+          "en": "I have sexed the horses, so we can start breeding.",
+          "ja": "馬の性別を確認しました、だから繁殖を始められます。",
+          "ipa": "/aɪ həv ˈsɛkst ðə ˈhɔrsəz soʊ wi kən ˈstɑrt ˈbridɪŋ/",
+          "linking": [
+            "I have → v が ə に続く。have は弱形 /həv/ [aɪ həv] アイ ハヴ",
+            "have sexed → v が s に子音+子音で続く（連結なし）",
+            "sexed the → d が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛkst ðə] セクスト ザ",
+            "can start → n が s に子音+子音で続く。can は弱形 /kən/ [kən ˈstɑrt] カン スターット"
+          ],
+          "kana": "アイ ハヴ セクスト ザ ホースィズ ソウ ウィー カン スターット ブリーディング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sexed",
+      "ipa": "/həd ˈsɛkst/",
+      "examples": [
+        {
+          "en": "Before the players arrived, I had sexed all the animals.",
+          "ja": "プレイヤーが到着する前に、すべての動物の性別を確認していました。",
+          "ipa": "/bɪˈfɔr ðə ˈpleɪərz əˈraɪvd aɪ həd ˈsɛkst ˈɔl ðə ˈænɪməlz/",
+          "linking": [
+            "Before the → r が ð に子音+子音で続く。the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォー ザ",
+            "players arrived → z が ə に連結 [ˈpleɪərz əˈraɪvd] プレイヤーズ アライブド",
+            "I had → d が h に子音+子音で続く。had は弱形 /həd/ [aɪ həd] アイ ハド",
+            "sexed all → d が ə に連結 [ˈsɛkst ˈɔl] セクスト オール"
+          ],
+          "kana": "ビフォー ザ プレイヤーズ アライブド、アイ ハド セクスト オール ザ アニマルズ"
+        },
+        {
+          "en": "She had sexed the chickens before organizing them into breeding groups.",
+          "ja": "彼女は繁殖グループに整理する前に、チキンの性別を確認していました。",
+          "ipa": "/ʃi həd ˈsɛkst ðə ˈtʃɪkənz bɪˈfɔr ˌɔːrɡənˌaɪzɪŋ ðəm ˈɪntu ˈbridɪŋ ɡruːps/",
+          "linking": [
+            "She had → d が h に子音+子音で続く。had は弱形 /həd/ [ʃi həd] シー ハド",
+            "had sexed → d が s に子音+子音で続く（連結なし）",
+            "sexed the → d が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛkst ðə] セクスト ザ",
+            "before organizing → r が ə に連結 [bɪˈfɔr ˌɔːrɡənˌaɪzɪŋ] ビフォー オーガナイジング"
+          ],
+          "kana": "シー ハド セクスト ザ チキンズ ビフォー オーガナイジング ゼム イントゥー ブリーディング グループス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sexing",
+      "ipa": "/həz bɪn ˈsɛksɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been sexing animals all day to organize the farm.",
+          "ja": "管理者は農場を整理するために、一日中動物の性別を確認しています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn ˈsɛksɪŋ ˈænɪməlz ˈɔl ˈdeɪ tu ˈɔːrɡənˌaɪz ðə ˈfɑrm/",
+          "linking": [
+            "admin has → n が h に子音+子音で続く。has は弱形 /həz/ [ˈædmɪn həz] アドミン ハズ",
+            "has been → z が b に子音+子音で続く。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "sexing animals → ŋ が ə に連結 [ˈsɛksɪŋ ˈænɪməlz] セクシング アニマルズ",
+            "to organize → to は弱形 /tə/、organize へ [tə ˈɔːrɡənˌaɪz] タ オーガナイズ"
+          ],
+          "kana": "ザ アドミン ハズ ビン セクシング アニマルズ オール デイ タ オーガナイズ ザ ファーム"
+        },
+        {
+          "en": "We have been sexing the livestock since morning.",
+          "ja": "朝から家畜の性別を確認し続けています。",
+          "ipa": "/wi həv bɪn ˈsɛksɪŋ ðə ˈlɪvˌstɑk sɪns ˈmɔːrnɪŋ/",
+          "linking": [
+            "We have → have は弱形 /həv/ [wi həv] ウィー ハヴ",
+            "have been → v が b に子音+子音で続く。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been sexing → n が s に子音+子音で続く（連結なし）",
+            "sexing the → ŋ が ð に子音+子音で続く。the は弱形 /ðə/ [ˈsɛksɪŋ ðə] セクシング ザ"
+          ],
+          "kana": "ウィー ハヴ ビン セクシング ザ リブストック シンス モーニング"
+        }
+      ]
     }
   ]
 }
