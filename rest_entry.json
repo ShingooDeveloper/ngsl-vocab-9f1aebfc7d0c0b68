@@ -249,8 +249,7 @@
           "ja": "ダイヤモンド洞窟を発見する前に、数時間休んでいました。",
           "ipa": "/wi həd bɪn ˈrɛstɪŋ fər ˈaʊərz bɪˈfɔr wi dɪˈskʌvərd ðə ˈdaɪmənd keɪv/",
           "linking": [
-            "had（弱形 /həd/）と been（弱形 /bɪn/）の連続で [həd bɪn]。",
-            "for は機能語で弱形 /fər/。the（弱形 /ðə/）は diamond に先行。"
+            "for は機能語で弱形 /fər/。before の末尾 /r/ は次の子音で未発音。"
           ],
           "kana": "ウィ ハド ビン レスティング ファー アワーズ ビフォー ウィ ディスカヴァード ザ ダイモンド ケイヴ"
         },
@@ -259,10 +258,105 @@
           "ja": "プレイヤーがネザーボスを倒してからずっと、アーマーは棚に置かれていました。",
           "ipa": "/ðə ˈɑrmɚ həd bɪn ˈrɛstɪŋ ɑn ðə ʃɛlf sɪns ðə ˈpleɪər dɪˈfitəd ðə ˈnɛðər bɔs/",
           "linking": [
-            "had（弱形 /həd/）と been（弱形 /bɪn/）で [həd bɪn]。",
-            "the（弱形 /ðə/）は armor、shelf、player、Nether boss の前に各々使用。"
+            "defeated の末尾 /d/ は Nether の初頭 /n/ に続く（子音+子音で未連結）。"
           ],
           "kana": "ザ アーマー ハド ビン レスティング アン ザ シェルフ シンス ザ プレイヤー ディーティッド ザ ネザー バース"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has rested",
+      "ipa": "/həz ˈrɛstəd/",
+      "examples": [
+        {
+          "en": "The player has rested and recovered their health points.",
+          "ja": "プレイヤーは十分に休んで体力を回復した。",
+          "ipa": "/ðə ˈpleɪər həz ˈrɛstəd ənd rɪˈkʌvərd ðɛr ˈhɛlθ pɔɪnts/",
+          "linking": [
+            "the（弱形 /ðə/）は player の初頭に連結。",
+            "has（弱形 /həz/）は rested に続く。",
+            "rested の末尾 /d/ は and の初頭 /æ/ に連結 [ˈrɛstədənd] レスティッド アンド。",
+            "their は /ðɛr/ で発音され、末尾の /r/ は次の子音 /h/ を前に未開放。"
+          ],
+          "kana": "ザ プレイヤー ハズ レスティッド アンド リカヴァード ゼア ヘルス ポインツ"
+        },
+        {
+          "en": "We have rested enough to challenge the Ender Dragon.",
+          "ja": "エンダードラゴンに挑戦するのに十分に休んだ。",
+          "ipa": "/wi həv ˈrɛstəd ɪˈnʌf tu ˈtʃælɪndʒ ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "have（弱形 /həv/）は rested に続く。",
+            "to は子音で始まる challenge の前で /tu/ で発音。",
+            "the（弱形 /ðə/）は Ender の初頭に連結。",
+            "enough の末尾 /f/ は to の初頭 /t/ に続く（子音+子音で連結しない）。"
+          ],
+          "kana": "ウィ ハヴ レスティッド イナフ トゥ チャレンジ ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had rested",
+      "ipa": "/həd ˈrɛstəd/",
+      "examples": [
+        {
+          "en": "We had rested before the zombie siege began.",
+          "ja": "ゾンビの包囲が始まる前に、私たちは休んでいた。",
+          "ipa": "/wi həd ˈrɛstəd bɪˈfɔr ðə ˈzɑmbi siːdʒ bɪˈɡæn/",
+          "linking": [
+            "had（弱形 /həd/）は rested に続く。",
+            "before の末尾 /r/ は次の子音 /ð/ の前で未開放。",
+            "the（弱形 /ðə/）は zombie の初頭に連結。",
+            "siege の末尾は /dʒ/ で、began の初頭 /b/ に続く（子音+子音で連結しない）。"
+          ],
+          "kana": "ウィ ハド レスティッド ビフォー ザ ゾーンビ シージ ビガン"
+        },
+        {
+          "en": "The armor had rested undisturbed in storage for weeks.",
+          "ja": "アーマーは何週間も保管状態で休んでいた。",
+          "ipa": "/ðə ˈɑrmɚ həd ˈrɛstəd ˌʌndɪˈstɝbd ɪn ˈstɔrɪdʒ fər wikz/",
+          "linking": [
+            "the（弱形 /ðə/）は armor の初頭に連結。",
+            "had（弱形 /həd/）は rested に続く。",
+            "rested の末尾 /d/ は undisturbed の初頭 /ʌ/ に連結 [ˈrɛstədʌndɪˈstɝbd]。",
+            "for は機能語で弱形 /fər/。"
+          ],
+          "kana": "ザ アーマー ハド レスティッド アンディスターバード イン ストレッジ ファー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been resting",
+      "ipa": "/həz bɪn ˈrɛstɪŋ/",
+      "examples": [
+        {
+          "en": "The player has been resting in the shelter since morning.",
+          "ja": "プレイヤーは朝からずっと避難所で休んでいます。",
+          "ipa": "/ðə ˈpleɪər həz bɪn ˈrɛstɪŋ ɪn ðə ˈʃɛltər sɪns ˈmɔrnɪŋ/",
+          "linking": [
+            "the（弱形 /ðə/）は player の初頭に連結。",
+            "has（弱形 /həz/）、been（弱形 /bɪn/）の連続で [həz bɪn] ハズ ビン。",
+            "the（弱形 /ðə/）は shelter の初頭に連結。",
+            "shelter の末尾 /r/ は次の子音 /s/ の前で未開放。"
+          ],
+          "kana": "ザ プレイヤー ハズ ビン レスティング イン ザ シェルター シンス モーニング"
+        },
+        {
+          "en": "We have been resting and gathering strength for the final battle.",
+          "ja": "最後の戦いのために、私たちは休んで力を集めています。",
+          "ipa": "/wi həv bɪn ˈrɛstɪŋ ənd ˈɡæðərɪŋ ˈstrɛŋθ fər ðə ˈfaɪnəl ˈbætəl/",
+          "linking": [
+            "have（弱形 /həv/）、been（弱形 /bɪn/）の連続で [həv bɪn] ハヴ ビン。",
+            "resting の末尾は -ing で子音なし。and の初頭 /æ/ に連結。",
+            "the（弱形 /ðə/）は final の初頭に連結。",
+            "for は機能語で弱形 /fər/。"
+          ],
+          "kana": "ウィ ハヴ ビン レスティング アンド ガザリング ストレングス ファー ザ ファイナル バットル"
         }
       ]
     }
