@@ -208,6 +208,194 @@
           "kana": "プログレシング イン スキル テイクス タイム、バット ザ リザルツ アー ワース ザ エフォート"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is progressing",
+      "ipa": "/ɪz prəˈɡrɛsɪŋ/",
+      "examples": [
+        {
+          "en": "The construction is progressing faster than expected.",
+          "ja": "建設は予想より速く進行しています。",
+          "ipa": "/ðə kənˈstrʌkʃən ɪz prəˈɡrɛsɪŋ ˈfæstər ðæn ɪkˈspɛktɪd/",
+          "linking": [
+            "the construction → the は弱形 /ðə/",
+            "is progressing → /z/ + /p/ (consonant+consonant、連結なし)、is は弱形 /ɪz/",
+            "faster than → /r/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザ コンストラクション イズ プログレシング ファスター ザン イクスペクティド"
+        },
+        {
+          "en": "We're progressing through the cave system very effectively.",
+          "ja": "私たちは洞窟システムを非常に効果的に進行しています。",
+          "ipa": "/wɪr prəˈɡrɛsɪŋ θruː ðə ˈkeɪv ˈsɪstəm ˈvɛri ɪˈfɛktɪvli/",
+          "linking": [
+            "We're → we + are contraction → /wir/",
+            "progressing through → /ŋ/ + /θ/ (consonant+consonant、連結なし)",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ウィアー プログレシング スルー ザ ケイヴ システム ベリー イフェクティヴリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was progressing",
+      "ipa": "/wəz prəˈɡrɛsɪŋ/",
+      "examples": [
+        {
+          "en": "The building was progressing smoothly until the creeper exploded.",
+          "ja": "建物はクリーパーが爆発するまで、スムーズに進行していました。",
+          "ipa": "/ðə ˈbɪldɪŋ wəz prəˈɡrɛsɪŋ ˈsmuːðli ənˈtɪl ðə ˈkriːpər ɪkˈsploʊdɪd/",
+          "linking": [
+            "building was → /ŋ/ + /w/ (consonant+consonant、連結なし)、was は弱形 /wəz/",
+            "progressing smoothly → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "until the → /l/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビルディング ワズ プログレシング スムーズリー アンティル ザ クリーパー イクスプロウディド"
+        },
+        {
+          "en": "We were progressing through the mine when we encountered a zombie.",
+          "ja": "私たちがゾンビを遭遇したとき、私たちは鉱山を進行していました。",
+          "ipa": "/wi wər prəˈɡrɛsɪŋ θruː ðə ˈmaɪn wɛn wi ɪnˈkaʊntərd ə ˈzoʊmbi/",
+          "linking": [
+            "were progressing → /r/ + /p/ (consonant+consonant、連結なし)、were は弱形 /wər/",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "a zombie → a は弱形 /ə/、/ə/ + /z/ (vowel+consonant、連結なし)"
+          ],
+          "kana": "ウィ ワー プログレシング スルー ザ マイン ウェン ウィ インカウンタード ア ゾンビ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been progressing",
+      "ipa": "/həd bɪn prəˈɡrɛsɪŋ/",
+      "examples": [
+        {
+          "en": "We had been progressing for hours when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、私たちは数時間進行していました。",
+          "ipa": "/wi həd bɪn prəˈɡrɛsɪŋ fər ˈaʊɚz wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/、/d/ + /b/ (consonant+consonant、連結なし)",
+            "progressing for → /ŋ/ + /f/ (consonant+consonant、連結なし)、for は弱形 /fər/",
+            "for hours → /r/ + /aʊ/ が連結 [fər ˈaʊɚz] ファー アワーズ"
+          ],
+          "kana": "ウィ ハド ビン プログレシング ファー アワーズ ウェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "The project had been progressing smoothly until the incident disrupted everything.",
+          "ja": "プロジェクトは、その出来事が全てを混乱させるまで、スムーズに進行していました。",
+          "ipa": "/ðə ˈprɑːdʒɛkt həd bɪn prəˈɡrɛsɪŋ ˈsmuːðli ənˈtɪl ðə ˈɪnsɪdənt dɪsˈrʌptɪd ˈɛvrɪθɪŋ/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/、/d/ + /b/ (consonant+consonant、連結なし)",
+            "progressing smoothly → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "until the → /l/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ザ プロジェクト ハド ビン プログレシング スムーズリー アンティル ザ インシデント ディスラプティド エブリシング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has progressed",
+      "ipa": "/həz prəˈɡrɛst/",
+      "examples": [
+        {
+          "en": "We have progressed so far that we're now preparing the final battle.",
+          "ja": "私たちはここまで進んだので、今は最終戦に向けて準備しています。",
+          "ipa": "/wi həv prəˈɡrɛst soʊ fɑr ðæt wɪr naʊ prɪˈpɛrɪŋ ðə ˈfaɪnəl ˈbætəl/",
+          "linking": [
+            "have progressed → have は弱形 /həv/、/v/ + /p/ (consonant+consonant、連結なし)",
+            "progressed so → /t/ + /s/ (consonant+consonant、連結なし)",
+            "far that → /r/ + /ð/ (consonant+consonant、連結なし)",
+            "we're now → we're は /wɪr/、/r/ + /n/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィ ハヴ プログレスト ソウ ファー ザット ウィアー ナウ プリペアリング ザ ファイナル バトル"
+        },
+        {
+          "en": "The redstone project has progressed greatly since we found all the iron ore.",
+          "ja": "レッドストーンプロジェクトは、鉄鉱石をすべて見つけてから大いに進歩しました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈprɑːdʒɛkt həz prəˈɡrɛst ˈɡreɪtli sɪns wi ˈfaʊnd ɔːl ðə ˈaɪɚn ˈɔr/",
+          "linking": [
+            "the redstone → the は弱形 /ðə/、/ə/ + /r/ が連結 [ðə ˈrɛdˌstoʊn] ザ レッドストウン",
+            "has progressed → has は弱形 /həz/、/z/ + /p/ (consonant+consonant、連結なし)",
+            "progressed greatly → /t/ + /ɡ/ (consonant+consonant、連結なし)",
+            "all the → /l/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "ザ レッドストウン プロジェクト ハズ プログレスト グレイトリー シンス ウィ ファウンド オール ザ アイアン オア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had progressed",
+      "ipa": "/həd prəˈɡrɛst/",
+      "examples": [
+        {
+          "en": "By the time the storm ended, we had progressed halfway through the cave system.",
+          "ja": "嵐が終わるまでに、私たちは洞窟システムの途中まで進んでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈstɔːrm ˈɛndəd | wi həd prəˈɡrɛst ˈhæfˌweɪ θruː ðə ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "By the → /aɪ/ + /ð/ (vowel+consonant、連結なし)、the は弱形 /ðə/",
+            "the time → the は弱形 /ðə/、/ə/ + /t/ が連結 [ðə ˈtaɪm] ザ タイム",
+            "had progressed → had は弱形 /həd/、/d/ + /p/ (consonant+consonant、連結なし)",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ ストーム エンデド、ウィ ハド プログレスト ハーフウェイ スルー ザ ケイヴ システム"
+        },
+        {
+          "en": "She had progressed faster than anyone expected before the server reset occurred.",
+          "ja": "サーバーのリセットが起こる前に、彼女は誰もが予想した以上に速く進歩していました。",
+          "ipa": "/ʃi həd prəˈɡrɛst ˈfæstər ðæn ˈɛniˌwʌn ɪkˈspɛktɪd bɪˈfɔr ðə ˈsɝvər ˈriːˌsɛt əˈkɝd/",
+          "linking": [
+            "She had → /i/ + /h/ (vowel+consonant、連結なし)、had は弱形 /həd/",
+            "had progressed → /d/ + /p/ (consonant+consonant、連結なし)",
+            "faster than → /r/ + /ð/ (consonant+consonant、連結なし)",
+            "anyone expected → /n/ + /ɪ/ が連結 [ˈɛniˌwʌn ɪkˈspɛktɪd] エニワン イクスペクティド"
+          ],
+          "kana": "シー ハド プログレスト ファスター ザン エニワン イクスペクティド ビフォー ザ サーバー リセット アキャード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been progressing",
+      "ipa": "/həz bɪn prəˈɡrɛsɪŋ/",
+      "examples": [
+        {
+          "en": "We have been progressing steadily through the nether fortress for weeks.",
+          "ja": "私たちは何週間もの間、ネザー要塞を着実に進行しています。",
+          "ipa": "/wi həv bɪn prəˈɡrɛsɪŋ ˈstɛdɪli θruː ðə ˈnɛðər ˈfɔːrtɪs fɔr ˈwiːks/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/、/v/ + /b/ (consonant+consonant、連結なし)",
+            "been progressing → /n/ + /p/ (consonant+consonant、連結なし)",
+            "progressing steadily → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "for weeks → /r/ + /w/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィ ハヴ ビン プログレシング ステディリー スルー ザ ネザー フォーティス フォー ウィークス"
+        },
+        {
+          "en": "The construction project has been progressing remarkably well without any setbacks.",
+          "ja": "建設プロジェクトは支障なく、目覚ましいほどうまく進行しています。",
+          "ipa": "/ðə kənˈstrʌkʃən ˈprɑːdʒɛkt həz bɪn prəˈɡrɛsɪŋ rɪˈmɑːrkəbli wɛl wɪðˈaʊt ˈɛni ˈsɛtˌbæks/",
+          "linking": [
+            "the construction → the は弱形 /ðə/、/ə/ + /k/ が連結 [ðə kənˈstrʌkʃən] ザ コンストラクション",
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/、/z/ + /b/ (consonant+consonant、連結なし)",
+            "been progressing → /n/ + /p/ (consonant+consonant、連結なし)",
+            "progressing remarkably → /ŋ/ + /r/ (consonant+consonant、連結なし)",
+            "without any → /t/ + /ɛ/ が連結 [wɪðˈaʊt ˈɛni] ウィザウト エニー"
+          ],
+          "kana": "ザ コンストラクション プロジェクト ハズ ビン プログレシング リマーカブリー ウェル ウィザウト エニー セットバックス"
+        }
+      ]
     }
   ]
 }
