@@ -251,6 +251,196 @@
           "kana": "バイ グラッシング ザ ウィンドウズ、ウィ インプルーヴド ザ キャッスルズ オーヴァーオール アピアランス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is glassing",
+      "ipa": "/ɪz ˈɡlæsɪŋ/",
+      "examples": [
+        {
+          "en": "She is glassing the front wall of her tower right now.",
+          "ja": "彼女は今、彼女のタワーの前の壁をガラスで覆っています。",
+          "ipa": "/ʃi ɪz ˈɡlæsɪŋ ðə ˈfrʌnt ˈwɔl əv hər ˈtaʊər ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is glassing → is は弱形 /ɪz/、glassing は /ŋ/（子音+子音、連結なし）",
+            "glassing the → glassing は /ŋ/ で終わり、the は弱形 /ðə/（子音+子音、連結なし）",
+            "front wall → /t/ + /w/（子音+子音、連結なし）",
+            "wall of → 語末子音 /l/ が of の母音 /ə/ に連結 [ˈwɔl əv] ウォール オヴ、of は弱形 /əv/"
+          ],
+          "kana": "シー イズ グラッシング ザ フラント ウォール オヴ ハー タワー ライト ナウ"
+        },
+        {
+          "en": "We're glassing the windows so mobs can't get in.",
+          "ja": "モブが中に入れないようにために、私たちはガラスをはめています。",
+          "ipa": "/wɪr ˈɡlæsɪŋ ðə ˈwɪndoʊz ˈsoʊ ˈmɑbz ˈkænt ˈɡɛt ˈɪn/",
+          "linking": [
+            "We're glassing → are は弱形 /ɚ/、glassing は /ŋ/（子音+子音、連結なし）",
+            "glassing the → glassing は /ŋ/ で終わり、the は弱形 /ðə/（子音+子音、連結なし）",
+            "so mobs → /oʊ/ + /m/（母音+子音、連結なし）",
+            "can't get → /t/ + /ɡ/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィア グラッシング ザ ウィンドウズ ソウ モブズ キャント ゲット イン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was glassing",
+      "ipa": "/wəz ˈɡlæsɪŋ/",
+      "examples": [
+        {
+          "en": "I was glassing the entire fortress when the storm started.",
+          "ja": "嵐が始まった時、私は要塞全体をガラスで覆っていました。",
+          "ipa": "/aɪ wəz ˈɡlæsɪŋ ðə ənˈtaɪr ˈfɔrtrəs ˈwɛn ðə ˈstɔrm ˈstɑrtɪd/",
+          "linking": [
+            "was glassing → was は弱形 /wəz/、glassing は /ŋ/（子音+子音、連結なし）",
+            "glassing the → glassing は /ŋ/ で終わり、the は弱形 /ðə/（子音+子音、連結なし）",
+            "entire fortress → /r/ + /f/（子音+子音、連結なし）",
+            "when the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ グラッシング ザ エンタイアー フォートレス ウェン ザ ストーム スターティッド"
+        },
+        {
+          "en": "They were glassing the walls all day yesterday.",
+          "ja": "昨日、彼らは一日中壁をガラスで覆っていました。",
+          "ipa": "/ðeɪ wər ˈɡlæsɪŋ ðə ˈwɔlz ˈɔl ˈdeɪ ˈjɛstərdi/",
+          "linking": [
+            "were glassing → were は弱形 /wə/、glassing は /ŋ/（子音+子音、連結なし）",
+            "glassing the → glassing は /ŋ/ で終わり、the は弱形 /ðə/（子音+子音、連結なし）",
+            "walls all → /z/ + /ɔ/（子音+母音）が連結 [ðə ˈwɔlz ˈɔl] ダ ウォールズ オール"
+          ],
+          "kana": "ゼイ ワー グラッシング ザ ウォールズ オール デイ イェスタディー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been glassing",
+      "ipa": "/həd bɪn ˈɡlæsɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we finished, we had been glassing the structure for two hours.",
+          "ja": "私たちが終わるまでに、私たちは2時間その構造をガラスで覆っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃt | wi həd bɪn ˈɡlæsɪŋ ðə ˈstrʌktʃər ˈfɔr tu ˈaʊərz/",
+          "linking": [
+            "By the → /aɪ/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the time → the は弱形 /ðə/、/m/ + /w/（子音+子音、連結なし）",
+            "had been → /d/ + /b/（子音+子音、連結なし）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been glassing → /n/ + /ɡ/（子音+子音、連結なし）",
+            "the structure → the は弱形 /ðə/、/r/ + /s/（子音+子音、連結なし）",
+            "for two → /r/ + /t/（子音+子音、連結なし）、for は弱形 /fɚ/"
+          ],
+          "kana": "バイ ダ タイム ウィ フィニッシト、ウィ ハド ビン グラッシング ザ ストラクチャー フォー トゥー アワーズ"
+        },
+        {
+          "en": "The builder had been glassing the greenhouse for hours before it was complete.",
+          "ja": "それが完成する前に、ビルダーは何時間もの間温室をガラスで覆っていました。",
+          "ipa": "/ðə ˈbɪldər həd bɪn ˈɡlæsɪŋ ðə ˈɡrɪnˌhaʊs ˈfɔr ˈaʊərz bɪˈfɔr ɪt wəz kəmˈplit/",
+          "linking": [
+            "the builder → the は弱形 /ðə/、/r/ + /h/（子音+子音、連結なし）",
+            "had been → /d/ + /b/（子音+子音、連結なし）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been glassing → /n/ + /ɡ/（子音+子音、連結なし）",
+            "the greenhouse → the は弱形 /ðə/、/s/ + /ɡ/（子音+子音、連結なし）",
+            "for hours → for は弱形 /fɚ/、/z/ + /aʊ/（子音+母音）が連結 [ˈfɚ ˈaʊərz] ファー アワーズ",
+            "before it → /r/ + /ɪ/（子音+母音）が連結 [bɪˈfɔr ɪt] ビフォア イット",
+            "was complete → was は弱形 /wəz/"
+          ],
+          "kana": "ダ ビルダー ハド ビン グラッシング ダ グリーンハウス ファー アワーズ ビフォア イット ワズ コンプリート"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has glassed",
+      "ipa": "/həz ˈɡlæst/",
+      "examples": [
+        {
+          "en": "I have glassed off the observation platform to keep it safe from mobs.",
+          "ja": "モブから安全に保つために、観察プラットフォームをガラスで覆いました。",
+          "ipa": "/aɪ həv ˈɡlæst ˈɔf ðə ˌɑbzɚˈveɪʃən ˈplætˌfɔrm tu ˈkip ɪt ˈseɪf ˈfɹɑm ˈmɑbz/",
+          "linking": [
+            "have glassed → have は弱形 /həv/、glassed の語末 /t/ が off に未開放で続く",
+            "off the → /f/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "keep it → 語末子音 /p/ が it の母音に連結 [ˈkip ɪt] キープ イット"
+          ],
+          "kana": "アイ ハヴ グラースト オフ ダ オブザーベイション プラットフォーム トゥ キープ イット セイフ フラム モブズ"
+        },
+        {
+          "en": "They have glassed in the entire perimeter to protect the base.",
+          "ja": "ベースを保護するために、彼らは周囲全体をガラスで囲みました。",
+          "ipa": "/ðeɪ həv ˈɡlæst ˈɪn ðə ənˈtaɪr pəˈrɪmɪtər tu prəˈtɛkt ðə ˈbeɪs/",
+          "linking": [
+            "have glassed → have は弱形 /həv/、glassed の語末 /t/ が in に続く [ˈɡlæst ɪn] グラースト イン",
+            "in the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "protect the → /t/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハヴ グラースト イン ザ エンタイアー パリメター トゥ プロテクト ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had glassed",
+      "ipa": "/həd ˈɡlæst/",
+      "examples": [
+        {
+          "en": "By the time night fell, we had glassed all the windows on the front wall.",
+          "ja": "夜が明けるまでに、私たちは前の壁のすべての窓をガラスで覆っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈnaɪt ˈfɛl | wi həd ˈɡlæst ˈɔl ðə ˈwɪndoʊz ɑn ðə ˈfrʌnt ˈwɔl/",
+          "linking": [
+            "had glassed → had は弱形 /həd/、glassed の語末 /t/ が all に未開放で続く [ˈɡlæst̚ ˈɔl] グラースト オール",
+            "windows on → 語末子音 /z/ が on の母音に連結 [ˈwɪndoʊz ɑn] ウィンドウズ オン",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ダ タイム ナイト フェル、ウィ ハド グラースト オール ダ ウィンドウズ オン ダ フラント ウォール"
+        },
+        {
+          "en": "After we had glassed the tower, it looked much more impressive.",
+          "ja": "タワーをガラスで覆った後、それはずっとより印象的に見えました。",
+          "ipa": "/ˈæftər wi həd ˈɡlæst ðə ˈtaʊər | ɪt ˈlʊkt ˈmʌtʃ ˈmɔr ɪmˈprɛsɪv/",
+          "linking": [
+            "had glassed → had は弱形 /həd/、glassed の語末 /t/ が tower に未開放で続く",
+            "glassed the → glassed の /t/ が the に続く、the は弱形 /ðə/",
+            "looked much → 語末子音 /t/ が much に続く [ˈlʊkt̚ ˈmʌtʃ] ルックト マッチ"
+          ],
+          "kana": "アフター ウィ ハド グラースト ザ タワー、イット ルックト マッチ モア インプレッシヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been glassing",
+      "ipa": "/həz bɪn ˈɡlæsɪŋ/",
+      "examples": [
+        {
+          "en": "She has been glassing the greenhouse all morning to improve its appearance.",
+          "ja": "彼女は外観を改善するために、朝中温室をガラスで覆っていました。",
+          "ipa": "/ʃi həz bɪn ˈɡlæsɪŋ ðə ˈɡrɪnˌhaʊs ˈɔl ˈmɔrnɪŋ tu ɪmˈpruːv ɪts əˈpɪrəns/",
+          "linking": [
+            "has been → has は弱形 /həz/、/z/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been glassing → /n/ + /ɡ/（子音+子音、連結なし）",
+            "glassing the → glassing は /ŋ/ で終わり、the は弱形 /ðə/（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ ビン グラッシング ザ グリーンハウス オール モーニング トゥ インプルーヴ イツ アピアランス"
+        },
+        {
+          "en": "We have been glassing the roof structure for hours to complete the project.",
+          "ja": "プロジェクトを完成させるために、私たちは何時間も屋根の構造をガラスで覆っています。",
+          "ipa": "/wi həv bɪn ˈɡlæsɪŋ ðə ˈruf ˈstrʌktʃər ˈfɔr ˈaʊərz tu kəmˈplit ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "have been → have は弱形 /həv/、/v/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been glassing → /n/ + /ɡ/（子音+子音、連結なし）",
+            "for hours → for は弱形 /fɚ/、語末子音 /z/ が hours の母音に連結 [ˈfɔr ˈaʊərz] フォー アワーズ"
+          ],
+          "kana": "ウィ ハヴ ビン グラッシング ザ ルーフ ストラクチャー フォー アワーズ トゥ コンプリート ザ プロジェクト"
+        }
+      ]
     }
   ]
 }
