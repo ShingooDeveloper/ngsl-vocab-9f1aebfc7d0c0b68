@@ -419,6 +419,108 @@
           "kana": "ザ プロデューサーズ ハッド ビン インターヴューイング ビルダーズ ビフォー ゼイ セレクティッド ザ ティーム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has interviewed",
+      "ipa": "/həz ˈɪntɚˌvjuːd/",
+      "examples": [
+        {
+          "en": "I have interviewed several experienced players about their base designs.",
+          "ja": "私は何人かの経験豊富なプレイヤーに拠点設計についてインタビューしてきた。",
+          "ipa": "/aɪ həv ˈɪntɚˌvjuːd ˈsɛvrəl ɪkˈspɪriənst ˈpleɪɚz əˈbaʊt ðɛr ˈbeɪs dɪˈzaɪnz/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "have interviewed → 語末 /v/ が interviewed の初頭 /ɪ/ に連結",
+            "several experienced → 語末 /l/ が experienced の初頭 /ɪ/ に連結",
+            "about their → 機能語 about は弱形 /əˈbaʊt/、their は弱形 /ðɛr/"
+          ],
+          "kana": "アイ ハヴ インターヴューd セヴラル イクスピーリエンスト プレイアーズ アバウト ゼア ベイス ディザインズ"
+        },
+        {
+          "en": "She has interviewed the village's oldest NPC to learn about its history.",
+          "ja": "彼女は村の最年長のNPCにインタビューして、その歴史を学んできた。",
+          "ipa": "/ʃi həz ˈɪntɚˌvjuːd ðə ˈvɪlɪdʒɪz ˈoʊldɪst ˈɛnˈpiːˈsiː tə ˈlɜːrn əˈbaʊt ɪts ˈhɪstɚi/",
+          "linking": [
+            "has → 弱形 /həz/",
+            "has interviewed → 語末 /z/ が interviewed の初頭 /ɪ/ に連結 [həz ˈɪntɚˌvjuːd] ハズインターヴューd",
+            "the village's → the は弱形 /ðə/、語末 /ə/ が village の初頭 /v/ に連結",
+            "to learn → to は弱形 /tə/、語末 /ə/ が learn の初頭 /l/ に連結",
+            "about its → 機能語 about は弱形 /əˈbaʊt/"
+          ],
+          "kana": "シ ハズ インターヴューd ダ ビリッジズ オウルディスト エンピーシー タ ラーン アバウト イッツ ヒスタリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had interviewed",
+      "ipa": "/həd ˈɪntɚˌvjuːd/",
+      "examples": [
+        {
+          "en": "By the time the livestream started, I had interviewed all the top builders.",
+          "ja": "ライブストリームが始まるまでに、トップビルダーのすべてにインタビューしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈlaɪvˌstrim ˈstɑːrtɪd | aɪ həd ˈɪntɚˌvjuːd ˈɔːl ðə ˈtɑːp ˈbɪldɚz/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "livestream started → 語末 /m/ が started の初頭 /s/ に続く（consonant+consonant、連結なし）",
+            "had interviewed → had は弱形 /həd/、語末 /d/ が interviewed の初頭 /ɪ/ に連結 [həd ˈɪntɚˌvjuːd] ハディンターヴューd",
+            "all the → 語末 /l/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ダ タイム ダ ライブストリーム スターティド、アイ ハディ インターヴューd オール ダ トップ ビルダーズ"
+        },
+        {
+          "en": "The documentary crew had interviewed many players before they selected the featured builders.",
+          "ja": "ドキュメンタリー製作チームは、特集ビルダーを選ぶ前に、多くのプレイヤーにインタビューしていた。",
+          "ipa": "/ðə ˌdɑːkjuˈmɛntɚi ˈkruː həd ˈɪntɚˌvjuːd ˈmɛni ˈpleɪɚz bɪˈfɔːr ðeɪ sɪˈlɛktɪd ðə ˈfiːtʃɚd ˈbɪldɚz/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "crew had → 語末 /u/ が had の初頭 /h/ に続く（consonant+consonant、連結なし）、had は弱形 /həd/",
+            "had interviewed → 語末 /d/ が interviewed の初頭 /ɪ/ に連結",
+            "interviewed many → 語末 /d/ が many の初頭 /m/ に続く（consonant+consonant、連結なし）",
+            "before they → 語末 /r/ が they の初頭 /ð/ に続く（consonant+consonant、連結なし）",
+            "selected the → 語末 /d/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ダ ドキュメンタリー クルー ハッド インターヴューd メニー プレイアーズ ビフォー ゼイ セレクティッド ダ フィーチャード ビルダーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been interviewing",
+      "ipa": "/həz bɪn ˌɪntɚˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "We have been interviewing candidates for the admin team all week.",
+          "ja": "私たちは管理チームの候補者たちのインタビューを一週間中ずっと続けている。",
+          "ipa": "/wi həv bɪn ˌɪntɚˈvjuːɪŋ ˈkændɪdeɪts fɚ ðə ˈædmɪn ˈtiːm ˈɔːl ˈwiːk/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "have been → 語末 /v/ が been の初頭 /b/ に続く（consonant+consonant、連結なし）、been は弱形 /bɪn/",
+            "been interviewing → 語末 /n/ が interviewing の初頭 /ɪ/ に連結 [bɪn ˌɪntɚˈvjuːɪŋ] ビンインターヴューイング",
+            "interviewing candidates → 語末 /ŋ/ が candidates の初頭 /k/ に続く（consonant+consonant、連結なし）",
+            "for the → for は弱形 /fɚ/、語末 /r/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ビン インターヴューイング キャンディデイツ ファー ザ アドミン ティーム オール ウィーク"
+        },
+        {
+          "en": "The podcast hosts have been interviewing legendary players throughout the season.",
+          "ja": "ポッドキャストのホストたちはシーズン中、レジェンドプレイヤーのインタビューを続けている。",
+          "ipa": "/ðə ˈpɑːdˌkæst hoʊsts həv bɪn ˌɪntɚˈvjuːɪŋ ˈlɛdʒənˌdɛri ˈpleɪɚz θruːˈaʊt ðə ˈsiːzən/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "have been → 語末 /v/ が been の初頭 /b/ に続く（consonant+consonant、連結なし）、been は弱形 /bɪn/",
+            "been interviewing → 語末 /n/ が interviewing の初頭 /ɪ/ に連結",
+            "interviewing legendary → 語末 /ŋ/ が legendary の初頭 /l/ に続く（consonant+consonant、連結なし）",
+            "throughout the → 語末 /t/ が the の初頭 /ð/ に続く（consonant+consonant、連結なし）、the は弱形 /ðə/",
+            "the season → /ə/ + /s/ が連結"
+          ],
+          "kana": "ダ ポッドキャスト ホウスツ ハヴ ビン インターヴューイング レジェンダリー プレイアーズ スルーアウト ダ シーズン"
+        }
+      ]
     }
   ]
 }
