@@ -214,6 +214,187 @@
           "kana": "バイ パートナーリング イン サーヴァイヴァル モード、ウィ アコンプリッシュ モア トゥゲザー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（be + -ing）",
+      "text": "is partnering",
+      "ipa": "/ɪz ˈpɑrtənərɪŋ/",
+      "examples": [
+        {
+          "en": "She is partnering with me to defeat the Ender Dragon this week.",
+          "ja": "彼女は今週、エンダードラゴンを倒すために私とパートナーを組んでいます。",
+          "ipa": "/ʃi ɪz ˈpɑrtənərɪŋ wɪð mi tu dɪˈfit ðə ˈɛndər ˈdræɡən ðɪs wɪk/",
+          "linking": [
+            "is は弱形 /ɪz/（助動詞）",
+            "to は弱形 /tə/",
+            "defeat の末尾 /t/ が the に続く。the は弱形 /ðə/、未開放で [dɪˈfit̚ ðə]"
+          ],
+          "kana": "シー イズ パートナーリング ウィズ ミー トゥ ディフィート ザ エンダー ドラゴン ディス ウィーク"
+        },
+        {
+          "en": "They are partnering on a massive building project that will take months.",
+          "ja": "彼らは数ヶ月かかる巨大な建築プロジェクトでパートナーを組んでいます。",
+          "ipa": "/ðeɪ ɑr ˈpɑrtənərɪŋ ɑn ə ˈmæsɪv ˈbɪldɪŋ ˈprɑdʒɛkt ðæt wɪl teɪk ˈmʌnθz/",
+          "linking": [
+            "are は弱形 /ər/",
+            "on の末尾 /n/ が a の初頭 /ə/ に連結 [ɑnə]",
+            "will は弱形 /wəl/"
+          ],
+          "kana": "ゼイ アー パートナーリング オナ ア マッシブ ビルディング プロジェクト ザット ウル テイク マンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was partnering",
+      "ipa": "/wəz ˈpɑrtənərɪŋ/",
+      "examples": [
+        {
+          "en": "I was partnering with Sarah when the creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れたとき、私はサラとパートナーを組んでいました。",
+          "ipa": "/aɪ wəz ˈpɑrtənərɪŋ wɪð ˈsɛrə ˈwɛn ðə ˈkriːpər səˈdɛnli əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/"
+          ],
+          "kana": "アイ ワズ パートナーリング ウィズ セラ ウェン ザ クリーパー サドゥンリー アピアード"
+        },
+        {
+          "en": "We were partnering on different tasks during the raid.",
+          "ja": "レイド中、私たちは異なるタスクでパートナーを組んでいました。",
+          "ipa": "/wi wər ˈpɑrtənərɪŋ ɑn ˈdɪfərənt ˈtæsks ˈdʊrɪŋ ðə ˈreɪd/",
+          "linking": [
+            "were は弱形 /wər/"
+          ],
+          "kana": "ウィ ワー パートナーリング オン ディファレント タスクス ドゥーリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been partnering",
+      "ipa": "/həd bɪn ˈpɑrtənərɪŋ/",
+      "examples": [
+        {
+          "en": "They had been partnering for hours before finally defeating the Wither boss.",
+          "ja": "ウィザーボスを最終的に倒す前に、彼らは何時間もパートナーを組んでいました。",
+          "ipa": "/ðeɪ həd bɪn ˈpɑrtənərɪŋ fər ˈaʊərz bɪˈfɔr ˈfaɪnəli dɪˈfiːtɪŋ ðə ˈwɪðər ˈbɑs/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/",
+            "for は弱形 /fər/。hours の初頭 /aʊ/ に続く（linking r）"
+          ],
+          "kana": "ゼイ ハド ビン パートナーリング ファー アワーズ ビフォー ファイナリー ディフィーティング ザ ウィザー ボス"
+        },
+        {
+          "en": "She had been partnering with him on the redstone contraption all week.",
+          "ja": "彼女は1週間中ずっと、レッドストーン仕掛けで彼とパートナーを組んでいました。",
+          "ipa": "/ʃi həd bɪn ˈpɑrtənərɪŋ wɪð hɪm ɑn ðə ˈrɛdˌstoʊn kənˈtræpʃən ɔl wɪk/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/"
+          ],
+          "kana": "シー ハド ビン パートナーリング ウィズ ヒム オン ザ レッドストーン コントラプション オール ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has partnered",
+      "ipa": "/həz ˈpɑrtənərd/",
+      "examples": [
+        {
+          "en": "She has partnered with him for the last three years on the server.",
+          "ja": "彼女はサーバーで過去3年間彼とパートナーを組んでいます。",
+          "ipa": "/ʃi həz ˈpɑrtənərd wɪð hɪm fɔr ðə læst θri jɪrz ɑn ðə ˈsɝvər/",
+          "linking": [
+            "has は弱形 /həz/。partnered の p に続く [həz ˈpɑrtənərd] ハズ パートナード",
+            "partnered の d が with に続く。with は /wɪð/、未開放で [ˈpɑrtənərd̚ wɪð] パートナード ウィズ",
+            "for の r が the に連結。the は弱形 /ðə/ [fɔr ðə] フォー ザ",
+            "on の n が the に連結。the は弱形 /ðə/ [ɑn ðə] オン ザ"
+          ],
+          "kana": "シー ハズ パートナード ウィズ ヒム フォー ザ ラスト スリー イヤーズ オン ザ サーバー"
+        },
+        {
+          "en": "We have partnered on countless building projects together.",
+          "ja": "私たちは数え切れないほどのビルディングプロジェクトでパートナーを組んできました。",
+          "ipa": "/wi həv ˈpɑrtənərd ɑn ˈkaʊntləs ˈbɪldɪŋ ˈprɑdʒɛkts təˈɡɛðər/",
+          "linking": [
+            "have は弱形 /həv/。partnered の p に続く [həv ˈpɑrtənərd] ハヴ パートナード",
+            "partnered の d が on に連結 [ˈpɑrtənərd ɑn] パートナード オン",
+            "building の末尾 /ŋ/ が projects の初頭 /p/ に続く（子音+子音、未開放）[ˈbɪldɪŋ̚ ˈprɑdʒɛkts] ビルディング プロジェクツ"
+          ],
+          "kana": "ウィ ハヴ パートナード オン カウントレス ビルディング プロジェクツ トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had partnered",
+      "ipa": "/həd ˈpɑrtənərd/",
+      "examples": [
+        {
+          "en": "By the time the server reset, they had partnered on many successful expeditions.",
+          "ja": "サーバーがリセットされるまでに、彼らは多くの成功した遠征でパートナーを組んでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɝvər ˌriˈsɛt | ðeɪ həd ˈpɑrtənərd ɑn ˈmɛni səkˈsɛsfəl ˌɛkspɪˈdɪʃənz/",
+          "linking": [
+            "By の y が the に続く。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "time の m が the に続く。the は弱形 /ðə/ [ˈtaɪm ðə] タイム ザ",
+            "server の r が reset に連結 [ˈsɝvər ˌriˈsɛt] サーバー リセット",
+            "had は弱形 /həd/。partnered の p に続く [həd ˈpɑrtənərd] ハド パートナード",
+            "on の n が many に続く [ɑn ˈmɛni] オン メニー"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー リセット、ゼイ ハド パートナード オン メニー サクセスフル エクスピディションズ"
+        },
+        {
+          "en": "She had partnered with several players before joining our team.",
+          "ja": "彼女は私たちのチームに参加する前に、複数のプレイヤーとパートナーを組んでいました。",
+          "ipa": "/ʃi həd ˈpɑrtənərd wɪð ˈsɛvərəl ˈpleɪərz bɪˈfɔr ˈdʒɔɪnɪŋ ˈaʊər ˈtim/",
+          "linking": [
+            "had は弱形 /həd/。partnered の p に続く [həd ˈpɑrtənərd] ハド パートナード",
+            "partnered の d が with に続く。with は /wɪð/、未開放で [ˈpɑrtənərd̚ wɪð] パートナード ウィズ",
+            "before の r が joining に連結 [bɪˈfɔr ˈdʒɔɪnɪŋ] ビフォー ジョイニング",
+            "our の r が team に連結 [ˈaʊər ˈtim] アワー ティーム"
+          ],
+          "kana": "シー ハド パートナード ウィズ セベラル プレイヤーズ ビフォー ジョイニング アワー ティーム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been partnering",
+      "ipa": "/həz bɪn ˈpɑrtənərɪŋ/",
+      "examples": [
+        {
+          "en": "He has been partnering with me to build a mega base for three weeks now.",
+          "ja": "彼はここ3週間、メガベースを建築するために私とパートナーを組んでいます。",
+          "ipa": "/hi həz bɪn ˈpɑrtənərɪŋ wɪð mi tə ˈbɪld ə ˈmeɡə ˈbeɪs fər θri wiks ˈnaʊ/",
+          "linking": [
+            "has は弱形 /həz/。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been の n が partnering に続く [bɪn ˈpɑrtənərɪŋ] ビン パートナーリング",
+            "partnering の g が with に続く。with は /wɪð/、未開放で [ˈpɑrtənərɪŋ̚ wɪð] パートナーリング ウィズ",
+            "to は弱形 /tə/。build の b に続く [tə ˈbɪld] タ ビルド",
+            "a は弱形 /ə/。mega の m に続く [ə ˈmeɡə] ア メガ",
+            "for は弱形 /fər/。three の θ に続く [fər θri] ファー スリー"
+          ],
+          "kana": "ヒー ハズ ビン パートナーリング ウィズ ミー タ ビルド ア メガ ベース ファー スリー ウィークス ナウ"
+        },
+        {
+          "en": "They have been partnering on the Nether portal project and making great progress.",
+          "ja": "彼らはネザーポータルプロジェクトでパートナーを組んでおり、素晴らしい進捗を遂行しています。",
+          "ipa": "/ðeɪ həv bɪn ˈpɑrtənərɪŋ ɑn ðə ˈnɛðər ˈpɔrtəl ˈprɑdʒɛkt ənd ˈmeɪkɪŋ ɡreɪt ˈprɑɡrɛs/",
+          "linking": [
+            "have は弱形 /həv/。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been の n が partnering に続く [bɪn ˈpɑrtənərɪŋ] ビン パートナーリング",
+            "on の n が the に連結。the は弱形 /ðə/ [ɑn ðə] オン ザ",
+            "and は弱形 /ən/。making の m に続く [ən ˈmeɪkɪŋ] アン メーキング"
+          ],
+          "kana": "ゼイ ハヴ ビン パートナーリング オン ザ ネザー ポータル プロジェクト アン メーキング グレート プログレス"
+        }
+      ]
     }
   ]
 }
