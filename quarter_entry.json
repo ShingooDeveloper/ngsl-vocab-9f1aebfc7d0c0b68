@@ -337,6 +337,96 @@
           "kana": "シー ハド ビン クォーターリング レッドストーン オア フォー アワーズ ビフォア ウィー ディスカバード ザ ニュー ベイン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（動詞）",
+      "text": "has quartered",
+      "ipa": "/həz ˈkwɔrɾɚrd/",
+      "examples": [
+        {
+          "en": "He has quartered all the diamond ore blocks and organized them by size.",
+          "ja": "彼はすべてのダイヤモンド鉱石ブロックを4等分にして、サイズ別に整理しました。",
+          "ipa": "/hi həz ˈkwɔrɾɚrd ɔːl ðə ˈdaɪmənd ˈɔr blɑks ənd ˈɔrɡənɪzd ðəm baɪ ˈsaɪz/",
+          "linking": [
+            "has quartered → has は弱形 /həz/ [həz ˈkwɔrɾɚrd] ハズ クォータード",
+            "quartered all → /d/ + /ɔ/ が連結 [ˈkwɔrɾɚrd ɔːl] クォータード オール",
+            "organized them → /d/ + /ð/ (consonant+consonant、連結なし)、them は弱形 /ðəm/"
+          ],
+          "kana": "ヒー ハズ クォータード オール ザ ダイアマンド オア ブラックス アンド オーガナイズド ザム バイ サイズ"
+        },
+        {
+          "en": "I have quartered the massive tree trunk into manageable pieces for building.",
+          "ja": "私は巨大な木の幹を建築用の扱いやすいピースに4等分にしました。",
+          "ipa": "/aɪ həv ˈkwɔrɾɚrd ðə məˈsɪv ˈtri ˈtrʌŋk ˈɪntu ˈmænɪdʒəbəl ˈpisɪz fɔr ˈbɪldɪŋ/",
+          "linking": [
+            "have quartered → have は弱形 /həv/ [həv ˈkwɔrɾɚrd] ハヴ クォータード",
+            "quartered the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "tree trunk → /i/ + /t/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハヴ クォータード ザ マッシヴ ツリー トランク イントゥ マネッジャブル ピーシーズ フォー ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（動詞）",
+      "text": "had quartered",
+      "ipa": "/həd ˈkwɔrɾɚrd/",
+      "examples": [
+        {
+          "en": "We had quartered the wood blocks before the creeper explosion destroyed the workshop.",
+          "ja": "クリーパーの爆発がワークショップを破壊する前に、私たちは木のブロックを4等分にしていました。",
+          "ipa": "/wi həd ˈkwɔrɾɚrd ðə ˈwʊd blɑks bɪˈfɔr ðə ˈkripɚ ɪkˈsploʊʒən dɪˈstrɔɪd ðə ˈwɚkʃɑp/",
+          "linking": [
+            "had quartered → had は弱形 /həd/ [həd ˈkwɔrɾɚrd] ハド クォータード",
+            "quartered the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "creeper explosion → /r/ + /ɪ/ が連結 [ˈkripɚ ɪkˈsploʊʒən] クリーパー イクスプロージョン"
+          ],
+          "kana": "ウィー ハド クォータード ザ ウッド ブラックス ビフォア ザ クリーパー イクスプロージョン ディストロイド ザ ワークショップ"
+        },
+        {
+          "en": "She had quartered all the materials by the time the rain started.",
+          "ja": "雨が降り始めた時までに、彼女はすべての材料を4等分にしていました。",
+          "ipa": "/ʃi həd ˈkwɔrɾɚrd ɔːl ðə məˈtɪriəlz baɪ ðə ˈtaɪm ðə ˈreɪn ˈstɑːrtɪd/",
+          "linking": [
+            "had quartered → had は弱形 /həd/ [həd ˈkwɔrɾɚrd] ハド クォータード",
+            "quartered all → /d/ + /ɔ/ が連結 [ˈkwɔrɾɚrd ɔːl] クォータード オール",
+            "the time → the は弱形 /ðə/"
+          ],
+          "kana": "シー ハド クォータード オール ザ マテリアルズ バイ ザ タイム ザ レイン スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（動詞）",
+      "text": "has been quartering",
+      "ipa": "/həz bɪn ˈkwɔrɾərɪŋ/",
+      "examples": [
+        {
+          "en": "He has been quartering stone blocks for the castle wall all morning.",
+          "ja": "彼は朝ずっと城の壁のために石ブロックを4等分にしています。",
+          "ipa": "/hi həz bɪn ˈkwɔrɾərɪŋ ˈstoʊn blɑks fɔr ðə ˈkæsəl ˈwɔːl ɔːl ˈmɔːrnɪŋ/",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been quartering → /n/ + /k/ (consonant+consonant、連結なし)",
+            "quartering stone → /ŋ/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヒー ハズ ビン クォーターリング ストーン ブラックス フォー ザ キャッスル ウォール オール モーニング"
+        },
+        {
+          "en": "We have been quartering ore deposits in this cave for three days.",
+          "ja": "私たちはこの洞窟で3日間、鉱石鉱床を4等分にしています。",
+          "ipa": "/wi həv bɪn ˈkwɔrɾərɪŋ ˈɔr dɪˈpɑzɪts ɪn ðɪs ˈkeɪv fɔr ˈθri ˈdeɪz/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been quartering → /n/ + /k/ (consonant+consonant、連結なし)",
+            "quartering ore → /ŋ/ + /ɔ/ が連結 [ˈkwɔrɾərɪŋ ˈɔr] クォーターリング オア"
+          ],
+          "kana": "ウィー ハヴ ビン クォーターリング オア ディパジッツ イン ディス ケイヴ フォー スリー デイズ"
+        }
+      ]
     }
   ]
 }
