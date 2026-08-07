@@ -183,6 +183,182 @@
           "kana": "ザ ショップ ハズ セヴァラル インタラクティヴ ディスプレイズ ザット セル エンチャンテッド ブックス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is displaying",
+      "ipa": "/ɪz dɪsˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "My friend is displaying his collection of rare minerals on the shelf.",
+          "ja": "友人が棚に希少鉱物のコレクションを展示しています。",
+          "ipa": "/maɪ ˈfrɛnd ɪz dɪsˈpleɪɪŋ hɪz kəˈlɛkʃən əv ˈrɛr ˈmɪnərəlz ɑn ðə ˈʃɛlf/",
+          "linking": [
+            "is displaying → is は弱形 /ɪz/、語末 /ŋ/ は次の /h/ に流れない（子音+子音）",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "マイ フレンド イズ ディスプレイイング ヒズ コレクション アヴ レアー ミネラルズ オン ザ シェルフ"
+        },
+        {
+          "en": "They are displaying the new items in the trading post right now.",
+          "ja": "彼らは今、新しいアイテムを取引所に展示しています。",
+          "ipa": "/ðeɪ ɑr dɪsˈpleɪɪŋ ðə ˈnu ˈaɪtəmz ɪn ðə ˈtreɪdɪŋ ˈpoʊst ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are displaying → are は弱形 /ɑr/、語末 /ŋ/ は次の /ð/ に流れない（子音+子音）",
+            "displaying the → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ アー ディスプレイイング ザ ニュー アイテムズ イン ザ トレイディング ポウスト ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was displaying",
+      "ipa": "/wəz dɪsˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "I was displaying my enchanted weapons when the creeper exploded.",
+          "ja": "クリーパーが爆発したとき、私は魔法の武器を展示していました。",
+          "ipa": "/aɪ wəz dɪsˈpleɪɪŋ maɪ ɛnˈtʃæntəd ˈwɛpənz wɛn ðə ˈkripər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was displaying → was は弱形 /wəz/、語末 /ŋ/ は次の /m/ に流れない（子音+子音）",
+            "weapons when → 語末子音 /z/ が when に続く（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ワズ ディスプレイイング マイ エンチャンテッド ウェポンズ ウェン ザ クリーパー エクスプロウディド"
+        },
+        {
+          "en": "The shopkeeper was displaying new enchanted books before the server reset.",
+          "ja": "サーバーリセット前に、ショップキーパーは新しい魔法の本を展示していました。",
+          "ipa": "/ðə ˈʃɑpˌkipər wəz dɪsˈpleɪɪŋ ˈnu ɛnˈtʃæntəd ˈbʊks bɪˈfɔr ðə ˈsɝːvər ˈrɛsɛt/",
+          "linking": [
+            "the shopkeeper → the は弱形 /ðə/",
+            "was displaying → was は弱形 /wəz/",
+            "before the → /ɔr/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ショップキーパー ワズ ディスプレイイング ニュー エンチャンテッド ブックス ビフォー ザ サーバー レセット"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been displaying",
+      "ipa": "/həd bɪn dɪsˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "We had been displaying the champion trophies for a long time before moving them.",
+          "ja": "移動する前に、私たちはチャンピオントロフィーを長時間展示していました。",
+          "ipa": "/wi həd bɪn dɪsˈpleɪɪŋ ðə ˈtʃæmpjən ˈtroʊfiz ˈfɔr ə ˈlɔŋ ˈtaɪm bɪˈfɔr ˈmuvɪŋ ðɛm/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/、/d/ + /b/（子音+子音、連結なし）",
+            "displaying the → 語末 /ŋ/ は次の /ð/ に流れない（子音+子音）、the は弱形 /ðə/",
+            "for a → 語末子音 /r/ が a（弱形 /ə/）に連結 [fɔrə] フォーラ"
+          ],
+          "kana": "ウィ ハド ビン ディスプレイイング ザ チャンピオン トロフィーズ フォーラ ロング タイム ビフォー ムーヴィング ゼム"
+        },
+        {
+          "en": "She had been displaying her award collection in the museum for months.",
+          "ja": "彼女は何ヶ月も、自分の賞のコレクションを博物館に展示していました。",
+          "ipa": "/ʃi həd bɪn dɪsˈpleɪɪŋ hɚ əˈwɔrd kəˈlɛkʃən ɪn ðə mjuˈziəm fɔr ˈmʌnθz/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/",
+            "displaying her → 語末 /ŋ/ は次の /h/ に流れない（子音+子音）",
+            "in the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハド ビン ディスプレイイング ハー ア ウォード コレクション イン ザ ミュージアム フォー マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has displayed",
+      "ipa": "/həz dɪsˈpleɪd/",
+      "examples": [
+        {
+          "en": "The builders have displayed impressive structures throughout the server.",
+          "ja": "ビルダーたちがサーバー全体に素晴らしい構造物を展示しています。",
+          "ipa": "/ðə ˈbɪldərz həv dɪsˈpleɪd ɪmˈprɛsɪv ˈstrʌktʃərz ˌθruːˈaʊt ðə ˈsɝːvər/",
+          "linking": [
+            "the builders → the は弱形 /ðə/",
+            "have displayed → have は弱形 /həv/"
+          ],
+          "kana": "ザ ビルダーズ ハヴ ディスプレイド インプレッシヴ ストラクチャーズ スルーアウト ザ サーバー"
+        },
+        {
+          "en": "I have displayed my achievements to all the players in the community.",
+          "ja": "自分の成果をコミュニティーのすべてのプレイヤーに展示しました。",
+          "ipa": "/aɪ həv dɪsˈpleɪd maɪ əˈtʃivmənts tu ˈɔl ðə ˈpleɪərz ɪn ðə kəˈmjunəti/",
+          "linking": [
+            "have displayed → have は弱形 /həv/",
+            "to all → to は弱形 /tə/",
+            "the players → the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ディスプレイド マイ アチーヴメンツ トゥ オール ザ プレイヤーズ イン ザ コミューニティ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had displayed",
+      "ipa": "/həd dɪsˈpleɪd/",
+      "examples": [
+        {
+          "en": "By the time the competition ended, the judges had displayed the rankings on the leaderboard.",
+          "ja": "競争が終わるまでに、ジャッジはリーダーボードにランキングを表示していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˌkɑmpəˈtɪʃən ˈɛndɪd | ðə ˈdʒʌdʒɪz həd dɪsˈpleɪd ðə ˈræŋkɪŋz ɑn ðə ˈlidərˌbɔrd/",
+          "linking": [
+            "the time → the は弱形 /ðə/",
+            "had displayed → had は弱形 /həd/",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ コンピティション エンデッド、ザ ジャッジズ ハド ディスプレイド ザ ランキングズ オン ザ リーダーボード"
+        },
+        {
+          "en": "She had displayed the enchanted items before anyone could claim them.",
+          "ja": "誰かがそれらを要求する前に、彼女は魔法のアイテムを展示していました。",
+          "ipa": "/ʃi həd dɪsˈpleɪd ðə ɛnˈtʃæntəd ˈaɪtəmz bɪˈfɔr ˈɛniˌwʌn kəd ˈkleɪm ðɛm/",
+          "linking": [
+            "had displayed → had は弱形 /həd/",
+            "before anyone → 語末子音 /r/ が anyone の初頭母音 /ɛ/ に連結 [bɪˈfɔrɛniˌwʌn]",
+            "could claim → could は弱形 /kəd/"
+          ],
+          "kana": "シー ハド ディスプレイド ザ エンチャンテッド アイテムズ ビフォーア エニワン クッド クレイム ゼム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been displaying",
+      "ipa": "/həz bɪn dɪsˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "The livestream has been displaying the world map for the entire event.",
+          "ja": "ライブストリームはイベント全体にわたってワールド マップを表示し続けています。",
+          "ipa": "/ðə ˈlaɪvˌstrim həz bɪn dɪsˈpleɪɪŋ ðə ˈwɝːld ˈmæp fɔr ðə ɪnˈtaɪr ɪˈvɛnt/",
+          "linking": [
+            "the livestream → the は弱形 /ðə/",
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/",
+            "for the → 語末子音 /r/ が the（弱形 /ðə/）に連結 [fɔrðə]"
+          ],
+          "kana": "ザ ライブストリーム ハズ ビン ディスプレイイング ザ ワールド マップ フォーザ エンタイアー イヴェント"
+        },
+        {
+          "en": "We have been displaying our new redstone farm on the public server all week.",
+          "ja": "1週間ずっと、パブリック サーバーに新しいレッドストーン ファームを展示し続けています。",
+          "ipa": "/wi həv bɪn dɪsˈpleɪɪŋ ˈaʊɚ ˈnu ˈrɛdˌstoʊn ˈfɑrm ɑn ðə ˈpʌblɪk ˈsɝːvər ˈɔl ˈwik/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/",
+            "on the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "all week → /ɔl/ の /l/ が week の初頭 /w/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ ハヴ ビン ディスプレイイング アワー ニュー レッドストーン ファーム オン ザ パブリック サーバー オール ウィーク"
+        }
+      ]
     }
   ]
 }
