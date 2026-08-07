@@ -197,6 +197,102 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is flowing",
+      "ipa": "/ɪz ˈfloʊɪŋ/",
+      "examples": [
+        {
+          "en": "Water is flowing through the channels we just built.",
+          "ja": "私たちが建てたばかりのチャネルを水が流れています。",
+          "ipa": "/ˈwɔɾər ɪz ˈfloʊɪŋ θru ðə ˈtʃænəlz wi dʒʌst bɪlt/",
+          "linking": [
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "is は弱形 /ɪz/。flowing に続く [ɪz ˈfloʊɪŋ] イズ フロウィング",
+            "through は /θru/。the に続く [θru ðə] スルー ザ",
+            "channels の z が we に連結 [ˈtʃænəlz wi] チャネルズ ウィ"
+          ],
+          "kana": "ウォーラー イズ フロウィング スルー ザ チャネルズ ウィ ジャスト ビルト"
+        },
+        {
+          "en": "Lava is flowing into the collection pit right now.",
+          "ja": "溶岩が今、回収用のピットに流れ込んでいます。",
+          "ipa": "/ˈlɑvə ɪz ˈfloʊɪŋ ˌɪntu ðə kəˈlɛkʃən ˈpɪt ˈraɪt ˈnaʊ/",
+          "linking": [
+            "lava の a が is に連結 [ˈlɑvə ɪz] ラーバ イズ",
+            "is は弱形 /ɪz/。flowing に続く [ɪz ˈfloʊɪŋ] イズ フロウィング",
+            "into の t は子音の前で未開放 [ˈɪntu] イント",
+            "the は弱形 /ðə/。collection に続く [ðə kə] ザ カ"
+          ],
+          "kana": "ラーバ イズ フロウィング イント ザ コレクション ピット ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was flowing",
+      "ipa": "/wəz ˈfloʊɪŋ/",
+      "examples": [
+        {
+          "en": "When we arrived, lava was flowing down the mountain.",
+          "ja": "私たちが到着したとき、溶岩は山から流れ落ちていました。",
+          "ipa": "/ˈwɛn wi əˈraɪvd | ˈlɑvə wəz ˈfloʊɪŋ daʊn ðə ˈmaʊntən/",
+          "linking": [
+            "we は弱形 /wi/。arrived に続く [wi əˈraɪvd] ウィ アライヴド",
+            "lava の a が was に連結。was は弱形 /wəz/ [ˈlɑvə wəz] ラーバ ワズ",
+            "was は弱形 /wəz/。flowing に続く [wəz ˈfloʊɪŋ] ワズ フロウィング",
+            "the は弱形 /ðə/。mountain に続く [ðə ˈmaʊntən] ザ マウンテン"
+          ],
+          "kana": "ホエン ウィ アライヴド、ラーバ ワズ フロウィング ダウン ザ マウンテン"
+        },
+        {
+          "en": "The water was flowing backwards because we had built it wrong.",
+          "ja": "私たちが誤って建てたため、水は逆方向に流れていました。",
+          "ipa": "/ðə ˈwɔɾər wəz ˈfloʊɪŋ ˈbækwərdz bɪˈkɔz wi hæd bɪlt ɪt ˈrɔŋ/",
+          "linking": [
+            "the は弱形 /ðə/。water に続く [ðə ˈwɔɾər] ザ ウォーラー",
+            "water の -er がフラップ化。water の r が was に連結 [ˈwɔɾər wəz] ウォーラー ワズ",
+            "was は弱形 /wəz/。flowing に続く [wəz ˈfloʊɪŋ] ワズ フロウィング",
+            "because の z が we に連結 [bɪˈkɔz wi] ビコーズ ウィ"
+          ],
+          "kana": "ザ ウォーラー ワズ フロウィング バックワーズ ビコーズ ウィ ハド ビルト イット ロング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been flowing",
+      "ipa": "/hæd bɪn ˈfloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The water had been flowing for a week before we noticed the damage.",
+          "ja": "私たちが被害に気づく前に、水は1週間流れていました。",
+          "ipa": "/ðə ˈwɔɾər hæd bɪn ˈfloʊɪŋ fər ə ˈwik bɪˈfɔr wi ˈnoʊtɪst ðə ˈdæmɪdʒ/",
+          "linking": [
+            "the は弱形 /ðə/。water に続く [ðə ˈwɔɾər] ザ ウォーラー",
+            "water の -er がフラップ化。water の r が had に連結 [ˈwɔɾər hæd] ウォーラー ハド",
+            "been は弱形 /bɪn/。flowing に続く [bɪn ˈfloʊɪŋ] ビン フロウィング",
+            "for は弱形 /fər/。a に続く [fər ə] ファー ア"
+          ],
+          "kana": "ザ ウォーラー ハド ビン フロウィング ファー ア ウィーク ビフォー ウィ ノウティスト ザ ダミッジ"
+        },
+        {
+          "en": "Lava had been flowing for hours, destroying everything in its path.",
+          "ja": "溶岩は数時間流れていて、その道のすべてを破壊していました。",
+          "ipa": "/ˈlɑvə hæd bɪn ˈfloʊɪŋ fər ˈaʊərz dɪˈstrɔɪɪŋ ˈɛvrɪˌθɪŋ ɪn ɪts ˈpæθ/",
+          "linking": [
+            "lava の a が had に連結 [ˈlɑvə hæd] ラーバ ハド",
+            "been は弱形 /bɪn/。flowing に続く [bɪn ˈfloʊɪŋ] ビン フロウィング",
+            "for は弱形 /fər/。hours に続く [fər ˈaʊərz] ファー アワーズ",
+            "destroying の g が everything に続く（子音+子音）。"
+          ],
+          "kana": "ラーバ ハド ビン フロウィング ファー アワーズ ディストロイング エヴリシング イン イッツ パス"
+        }
+      ]
+    },
+    {
       "type": "plural",
       "label": "複数形（名詞）",
       "text": "flows",
@@ -225,6 +321,102 @@
             "flowing の g が near に続く。near の r が my に連結 [ˈfloʊɪŋ ˈnɪr maɪ] フロウィング ニャー マイ"
           ],
           "kana": "ザ フロウズ オブ リクウィド フロウィング ニャー マイ ベイス ドレイン イント ア コレクション シスタム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has flowed",
+      "ipa": "/həz floʊd/",
+      "examples": [
+        {
+          "en": "Water has flowed through our entire farm and created irrigation channels.",
+          "ja": "水が私たちの全農場を流れて、灌漑チャネルを作りました。",
+          "ipa": "/ˈwɔɾər həz floʊd θru ˈaʊər ənˈtaɪər ˈfɑrm ənd kriˈeɪtɪd ˌɪrɪˈɡeɪʃən ˈtʃænəlz/",
+          "linking": [
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "water の r が has に連結。has は弱形 /həz/ [ˈwɔɾər həz] ウォーラー ハズ",
+            "has は弱形 /həz/。flowed に続く [həz floʊd] ハズ フロウド",
+            "flowed の d が through に連結 [floʊd θru] フロウド スルー"
+          ],
+          "kana": "ウォーラー ハズ フロウド スルー アワー エンタイヤー ファーム アン クリエイティド イリゲイション チャネルズ"
+        },
+        {
+          "en": "The redstone signal has flowed to all the contraptions without any issues.",
+          "ja": "レッドストーン信号がすべての装置に流れ込み、問題はありません。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl həz floʊd tu ɔl ðə kənˈtræpʃənz wɪðˈaʊt ˈɛni ˈɪʃuz/",
+          "linking": [
+            "the は弱形 /ðə/。redstone に続く [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "signal の l が has に連結 [ˈsɪɡnəl həz] シグナル ハズ",
+            "has は弱形 /həz/。flowed に続く [həz floʊd] ハズ フロウド",
+            "flowed の d が to に連結。to は弱形 /tə/ [floʊd tə] フロウド タ"
+          ],
+          "kana": "ザ レッドストーン シグナル ハズ フロウド タ オール ザ コントラプションズ ウィザウト エニ イシューズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had flowed",
+      "ipa": "/hæd floʊd/",
+      "examples": [
+        {
+          "en": "The lava had flowed across the landscape before we could stop it.",
+          "ja": "私たちがそれを止める前に、溶岩は地形全体に流れていました。",
+          "ipa": "/ðə ˈlɑvə hæd floʊd əˈkrɔs ðə ˈlændˌskeɪp bɪˈfɔr wi kʊd ˈstɑp ɪt/",
+          "linking": [
+            "the は弱形 /ðə/。lava に続く [ðə ˈlɑvə] ザ ラーバ",
+            "lava の a が had に連結 [ˈlɑvə hæd] ラーバ ハド",
+            "had は /hæd/（通常はっきり）。flowed に続く [hæd floʊd] ハド フロウド",
+            "flowed の d が across に連結 [floʊd əˈkrɔs] フロウド アクロス"
+          ],
+          "kana": "ザ ラーバ ハド フロウド アクロス ザ ランドスケイプ ビフォー ウィ クッド ストップ イット"
+        },
+        {
+          "en": "After water had flowed into the collection chamber, the farm began to flourish.",
+          "ja": "水が回収チャンバーに流れ込んだ後、農場は繁栄し始めました。",
+          "ipa": "/ˈæftər ˈwɔɾər hæd floʊd ˌɪntu ðə kəˈlɛkʃən ˈtʃeɪmbər | ðə ˈfɑrm bɪˈɡæn tu ˈflʌrɪʃ/",
+          "linking": [
+            "after の r が water に連結 [ˈæftər ˈwɔɾər] アフター ウォーラー",
+            "water の -er がフラップ化。water の r が had に連結 [ˈwɔɾər hæd] ウォーラー ハド",
+            "had は /hæd/。flowed に続く [hæd floʊd] ハド フロウド",
+            "flowed の d が into に連結。into の t は子音の前で未開放 [floʊd ˌɪntu] フロウド イント"
+          ],
+          "kana": "アフター ウォーラー ハド フロウド イント ザ コレクション チェンバー、ザ ファーム ビギャン タ フラーリッシュ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been flowing",
+      "ipa": "/həz bɪn ˈfloʊɪŋ/",
+      "examples": [
+        {
+          "en": "Water has been flowing through our channels for the entire day without stopping.",
+          "ja": "水は1日中、休みなく私たちのチャネルを流れています。",
+          "ipa": "/ˈwɔɾər həz bɪn ˈfloʊɪŋ θru ˈaʊər ˈtʃænəlz fər ðə ənˈtaɪər ˈdeɪ wɪðˈaʊt ˈstɑpɪŋ/",
+          "linking": [
+            "water の -er がフラップ化 [ˈwɔɾər] ウォーラー",
+            "water の r が has に連結。has は弱形 /həz/ [ˈwɔɾər həz] ウォーラー ハズ",
+            "has は弱形 /həz/。been に続く [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。flowing に続く [bɪn ˈfloʊɪŋ] ビン フロウィング"
+          ],
+          "kana": "ウォーラー ハズ ビン フロウィング スルー アワー チャネルズ ファー ザ エンタイヤー デイ ウィザウト ストッピング"
+        },
+        {
+          "en": "The lava has been flowing into the collection pit since we activated the magma farm.",
+          "ja": "溶岩は、マグマファームを起動してから、回収ピットに流れ込み続けています。",
+          "ipa": "/ðə ˈlɑvə həz bɪn ˈfloʊɪŋ ˌɪntu ðə kəˈlɛkʃən ˈpɪt sɪns wi ˈæktɪˌveɪtɪd ðə ˈmæɡmə ˈfɑrm/",
+          "linking": [
+            "the は弱形 /ðə/。lava に続く [ðə ˈlɑvə] ザ ラーバ",
+            "lava の a が has に連結。has は弱形 /həz/ [ˈlɑvə həz] ラーバ ハズ",
+            "has は弱形 /həz/。been に続く [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。flowing に続く [bɪn ˈfloʊɪŋ] ビン フロウィング"
+          ],
+          "kana": "ザ ラーバ ハズ ビン フロウィング イント ザ コレクション ピット シンス ウィ アクティベイティド ザ マグマ ファーム"
         }
       ]
     }
