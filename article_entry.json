@@ -237,7 +237,7 @@
           "linking": [
             "She is → she は /ʃi/ で is は弱形 /ɪz/ [ʃi ɪz] シー イズ",
             "is articling → /z/ が /ɑ/ に連結 [ɪz ˈɑːɹtɪkəlɪŋ] イズ アーティクリング",
-            "articling the → /ŋ/ が /ð/ に続く（連結ではなく）、the は弱形 /ðə/ [ðə ˌɑːɹkɪˈtɛktʃɚ] ザ アーキテクチャー",
+            "articling the → /ŋ/ が /ð/ に続く（連結ではなく）、the は弱形 /ðə/ [ðə ˌɑːɹkɪˈtɛktʃɚ] ザ アーキテクチャー"
           ],
           "kana": "シー イズ アーティクリング ザ アーキテクチャー プリンシプルズ イン ハー ニュー ビデオ チュートリアル"
         }
@@ -332,6 +332,101 @@
             "to retire → to は弱形 /tu/（音声的には /tə/や /tu/）、[tu rɪˈtaɪɚ] タ リタイアー"
           ],
           "kana": "シー ハド ビン アーティクリング ザ コンプレックス レッドストーン チュートリアル フォー マンスズ ウェン シー ディサイディド タ リタイアー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has articled",
+      "ipa": "/həz ˈɑːɹtɪkəld/",
+      "examples": [
+        {
+          "en": "I have articled three detailed mining guides so far.",
+          "ja": "これまでのところ、詳細な採掘ガイドを3つ書いてきました。",
+          "ipa": "/aɪ həv ˈɑːɹtɪkəld ˈθriː dɪˈteɪld ˈmaɪnɪŋ ˈɡaɪdz soʊ fɑːɹ/",
+          "linking": [
+            "have articled → have は弱形 /həv/、articled に連結 [həv ˈɑːɹtɪkəld] ハヴ アーティクルド",
+            "three detailed → /iː/ と /d/ で連結なし [ˈθriː dɪˈteɪld] スリー ディテイルド",
+            "mining guides → /ŋ/ と /ɡ/ で子音+子音、連結なし [ˈmaɪnɪŋ ˈɡaɪdz] マイニング ガイズ"
+          ],
+          "kana": "アイ ハヴ アーティクルド スリー ディテイルド マイニング ガイズ ソウ ファー"
+        },
+        {
+          "en": "She has articled the best practices for base design in the community forum.",
+          "ja": "彼女はコミュニティフォーラムでベースデザインのベストプラクティスを記述してきました。",
+          "ipa": "/ʃi həz ˈɑːɹtɪkəld ðə ˈbɛst ˈpræktɪsɪz fər ˈbeɪs dɪˈzaɪn ɪn ðə kəˈmjuːnəti ˈfɔːɹəm/",
+          "linking": [
+            "She has → She /ʃi/、has は弱形 /həz/ [ʃi həz] シー ハズ",
+            "has articled → /z/ が articled /ˈɑ/ に連結 [həz ˈɑːɹtɪkəld] ハズ アーティクルド",
+            "articled the → /d/ と /ð/ で子音+子音、連結なし [ˈɑːɹtɪkəld ðə] アーティクルド ザ",
+            "base design → /s/ と /d/ で子音+子音、連結なし [ˈbeɪs dɪˈzaɪn] ベース ディザイン"
+          ],
+          "kana": "シー ハズ アーティクルド ザ ベスト プラクティシズ ファー ベース ディザイン イン ザ カミュニティ フォーラム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had articled",
+      "ipa": "/həd ˈɑːɹtɪkəld/",
+      "examples": [
+        {
+          "en": "Before the update came out, they had articled all the changes in advance.",
+          "ja": "アップデートが出される前に、彼らはすべての変更を事前に記述していました。",
+          "ipa": "/bɪˈfɔɹ ðə ʌpˈdeɪt keɪm aʊt | ðeɪ həd ˈɑːɹtɪkəld ɔl ðə ˈtʃeɪndʒɪz ɪn ədˈvæns/",
+          "linking": [
+            "Before the → before /bɪˈfɔɹ/、the は弱形 /ðə/、/r/ と /ð/ で連結なし [bɪˈfɔɹ ðə] ビフォー ザ",
+            "had articled → had は弱形 /həd/、articled に連結 [həd ˈɑːɹtɪkəld] ハド アーティクルド",
+            "all the → /l/ と /ð/ で子音+子音、連結なし [ɔl ðə] オール ザ",
+            "in advance → /n/ が advance の /ə/ に連結 [ɪn ədˈvæns] イン アドヴァンス"
+          ],
+          "kana": "ビフォー ザ アップデイト ケイム アウト、ザイ ハド アーティクルド オール ザ チェンジズ イン アドヴァンス"
+        },
+        {
+          "en": "I had articled the mining techniques before my friend started learning from it.",
+          "ja": "友人がそれから学び始める前に、採掘技術についてを記述していました。",
+          "ipa": "/aɪ həd ˈɑːɹtɪkəld ðə ˈmaɪnɪŋ tɛkˈniːks bɪˈfɔɹ maɪ ˈfrɛnd ˈstɑːɹtɪd ˈlɜːɹnɪŋ frəm ɪt/",
+          "linking": [
+            "had articled → had は弱形 /həd/、articled に連結 [həd ˈɑːɹtɪkəld] ハド アーティクルド",
+            "articled the → /d/ と /ð/ で子音+子音、連結なし [ˈɑːɹtɪkəld ðə] アーティクルド ザ",
+            "mining techniques → /ŋ/ と /t/ で子音+子音、連結なし [ˈmaɪnɪŋ tɛkˈniːks] マイニング テクニークス",
+            "before my → /r/ と /m/ で連結なし、my は /maɪ/ [bɪˈfɔɹ maɪ] ビフォー マイ"
+          ],
+          "kana": "アイ ハド アーティクルド ザ マイニング テクニークス ビフォー マイ フレンド スターティド ラーニング フラム イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been articling",
+      "ipa": "/həz bɪn ˈɑːɹtɪkəlɪŋ/",
+      "examples": [
+        {
+          "en": "He has been articling the redstone circuit tutorial for the past three hours.",
+          "ja": "彼はこの3時間、レッドストーン回路チュートリアルをずっと書いています。",
+          "ipa": "/hi həz bɪn ˈɑːɹtɪkəlɪŋ ðə ˈrɛdˌstoʊn ˈsɜːɹkɪt ˈtʃuːtɔːriəl fər ðə ˈpæst ˈθriː ˈaʊɹz/",
+          "linking": [
+            "He has → He /hi/、has は弱形 /həz/ [hi həz] ヒー ハズ",
+            "has been → /z/ と /b/ で子音+子音、連結なし [həz bɪn] ハズ ビン",
+            "been articling → been は弱形 /bɪn/、/n/ が articling の /ɑ/ に連結 [bɪn ˈɑːɹtɪkəlɪŋ] ビン アーティクリング",
+            "articling the → /ŋ/ と /ð/ で子音+子音、連結なし、the は弱形 /ðə/ [ðə ˈrɛdˌstoʊn] ザ レッドストーン"
+          ],
+          "kana": "ヒー ハズ ビン アーティクリング ザ レッドストーン サーキット チュートリアル ファー ザ パスト スリー アワーズ"
+        },
+        {
+          "en": "They have been articling different crafting recipes all week long.",
+          "ja": "彼らはずっと異なるクラフトレシピについてを一週間書いています。",
+          "ipa": "/ðeɪ həv bɪn ˈɑːɹtɪkəlɪŋ ˈdɪfəɹənt ˈkræftɪŋ ˈrɛsɪpiz ɔl ˈwiːk ˈlɔŋ/",
+          "linking": [
+            "have been → have は弱形 /həv/、/v/ と /b/ で子音+子音、連結なし [həv bɪn] ハヴ ビン",
+            "been articling → been は弱形 /bɪn/、/n/ が articling の /ɑ/ に連結 [bɪn ˈɑːɹtɪkəlɪŋ] ビン アーティクリング",
+            "articling different → /ŋ/ と /d/ で子音+子音、連結なし [ˈɑːɹtɪkəlɪŋ ˈdɪfəɹənt] アーティクリング ディファレント",
+            "all week → /l/ と /w/ で子音+子音、連結なし [ɔl ˈwiːk] オール ウィーク"
+          ],
+          "kana": "ザイ ハヴ ビン アーティクリング ディファレント クラフティング レシピーズ オール ウィーク ロング"
         }
       ]
     }
