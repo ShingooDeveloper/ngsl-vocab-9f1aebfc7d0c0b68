@@ -299,6 +299,103 @@
           "kana": "ザ センティナル ハド ビン ポリーシング ザ ウォルズ シンス サンセット"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has policed",
+      "ipa": "/həz pəˈliːst/",
+      "examples": [
+        {
+          "en": "She has policed the server area for several seasons to maintain order.",
+          "ja": "彼女は秩序を保つために、数シーズンの間、サーバーエリアをパトロールしています。",
+          "ipa": "/ʃi həz pəˈliːst ðə ˈsɝvɚ ˈɛriə fɔr ˈsɛvərəl ˈsiːzənz tə meɪnˈteɪn ˈɔrdɚ/",
+          "linking": [
+            "has policed → 弱形 has /həz/；/z/ が /ə/ に連結 [həz pəˈliːst] ハズ ポリースト",
+            "policed the → /d/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "for → 弱形 /fɔr/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "シー ハズ ポリースト ザ サーバー エリア フォー セベラル シーズンズ タ メインテイン オーダー"
+        },
+        {
+          "en": "We have policed the boundaries carefully, and no one has built outside the limits.",
+          "ja": "私たちは境界線を注意深く監視しており、誰も制限外に建築していません。",
+          "ipa": "/wi həv pəˈliːst ðə ˈbaʊndəriz ˈkɛrfəli | ənd ˈnoʊ ˈwʌn həz ˈbɪlt ˈaʊtˌsaɪd ðə ˈlɪmɪts/",
+          "linking": [
+            "have policed → 弱形 have /həv/；/v/ が /ə/ に連結 [həv pəˈliːst] ハヴ ポリースト",
+            "policed the → /d/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "carefully → [ˈkɛrfəli] ケアフリー",
+            "and → 弱形 /ənd/",
+            "has built → has は弱形 /həz/、built は /d/ で終わる（子音+子音で連結なし）",
+            "outside the → /d/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ポリースト ザ バウンダリーズ ケアフリー、アン ノウ ワン ハズ ビルト アウトサイド ザ リミッツ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had policed",
+      "ipa": "/həd pəˈliːst/",
+      "examples": [
+        {
+          "en": "The guards had policed the perimeter long before the attack happened.",
+          "ja": "攻撃が起きるずっと前に、警備隊は周囲をパトロールしていました。",
+          "ipa": "/ðə ɡɑrdz həd pəˈliːst ðə pəˈrɪmɪtər lɔŋ bɪˈfɔr ðə əˈtæk ˈhæpənd/",
+          "linking": [
+            "had policed → 弱形 had /həd/；/d/ が /ə/ に連結 [həd pəˈliːst] ハド ポリースト",
+            "policed the → /d/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "before the → before は /bɪˈfɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "ダ ガーズ ハド ポリースト ザ ペリメター ロング ビフォア ザ アタック ハプンド"
+        },
+        {
+          "en": "By the time the incident started, our team had policed every corner of the base already.",
+          "ja": "事件が始まった時点で、私たちのチームは基地のあらゆる隅をすでにパトロールしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈɪnsɪdənt ˈstɑːrtɪd | ˈaʊɚ ˈtim həd pəˈliːst ˈɛvəri ˈkɔːrnɚ əv ðə ˈbeɪs ɔlˈrɛdi/",
+          "linking": [
+            "By the → the は弱形 /ðə/",
+            "had policed → 弱形 had /həd/；/d/ が /ə/ に連結 [həd pəˈliːst] ハド ポリースト",
+            "policed every → /d/ が /ɛ/ に連結 [pəˈliːst ˈɛvəri]",
+            "of the → of は弱形 /əv/、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ インシデント スターティド、アワー ティーム ハド ポリースト エブリ コーナー アヴ ザ ベイス オールレディ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been policing",
+      "ipa": "/həz bɪn pəˈliːsɪŋ/",
+      "examples": [
+        {
+          "en": "The warden has been policing the castle grounds since dawn to prevent intrusions.",
+          "ja": "城の敷地の侵入を防ぐため、獄吏は夜明け以来ずっと監視しています。",
+          "ipa": "/ðə ˈwɔːrdən həz bɪn pəˈliːsɪŋ ðə ˈkæsəl ɡraʊndz sɪns dɔn tə prɪˈvɛnt ɪnˈtruːʒənz/",
+          "linking": [
+            "has been → 弱形 has /həz/、been /bɪn/",
+            "been policing → /n/ が /p/ に連結 [bɪn pəˈliːsɪŋ] ビン ポリーシング",
+            "policing the → /ŋ/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "ザ ウォーダン ハズ ビン ポリーシング ザ キャッスル グラウンズ シンス ドーン タ プリヴェント イントゥルージョンズ"
+        },
+        {
+          "en": "The security team have been policing the spawn zone to stop all griefing incidents.",
+          "ja": "セキュリティチームはすべてのグリーフィング事件を止めるためにスポーンゾーンを監視しています。",
+          "ipa": "/ðə sɪˈkjʊrɪti ˈtim həv bɪn pəˈliːsɪŋ ðə ˈspoːn ˈzoʊn tə stɑp ɔl ˈɡrieːfɪŋ ˈɪnsɪdənts/",
+          "linking": [
+            "have been → 弱形 have /həv/、been /bɪn/",
+            "been policing → /n/ が /p/ に連結 [bɪn pəˈliːsɪŋ] ビン ポリーシング",
+            "policing the → /ŋ/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "ザ シキュリティ ティーム ハヴ ビン ポリーシング ザ スポーン ゾーン タ ストップ オール グリーフィング インシデンツ"
+        }
+      ]
     }
   ]
 }
