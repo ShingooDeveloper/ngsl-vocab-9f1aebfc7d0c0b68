@@ -1,0 +1,423 @@
+{
+  "word": "choose",
+  "pos": "動詞 (verb)",
+  "ipa_us": "/tʃuːz/",
+  "ipa_uk": "/tʃuːz/",
+  "meanings": [
+    "【動詞】（複数の選択肢の中から）選ぶ、選択する",
+    "【動詞】（～することに）決める（choose to do ~ で「～することに決める」）"
+  ],
+  "examples": [
+    {
+      "en": "You can choose to walk to school or take the bus.",
+      "ja": "歩いて学校へ行くか、バスに乗るか、選べますよ。",
+      "grammar": "助動詞 can + choose to do：「～することを選べる」。choose to do「～することを選ぶ」の用法。",
+      "ipa": "/ju kən ˈtʃuːz tə ˈwɔːk tə skuːl ɔːr ˈteɪk ðə bʌs/",
+      "linking": [
+        "can choose → can は助動詞なので弱形 /kən/ に弱化",
+        "choose to → to は弱形 /tə/ に弱化",
+        "walk to → 2つ目の to も同様に弱形 /tə/ に弱化"
+      ],
+      "kana": "ユ カン チューズ タ ウォーク タ スクール オア テイク ダ バス"
+    },
+    {
+      "en": "She was chosen to lead the new project.",
+      "ja": "彼女は新しいプロジェクトを率いるよう選ばれた。",
+      "grammar": "受動態（be + 過去分詞）：「選ばれる」。be chosen to do「～するよう選ばれる」。",
+      "ipa": "/ʃi wəz ˈtʃoʊzən tə ˈliːd ðə nuː ˈprɑːdʒekt/",
+      "linking": [
+        "was → 弱形 /wəz/ に弱化（強形 /wɑːz/ ではない）",
+        "chosen to → to は弱形 /tə/ に弱化",
+        "the new → 子音の前なので the は /ðə/"
+      ],
+      "kana": "シ ワズ チョウズン タ リード ダ ニュー プラジェクト"
+    },
+    {
+      "en": "I have already chosen my topic for the presentation.",
+      "ja": "発表のテーマはもう決めてあります。",
+      "grammar": "現在完了（have + 過去分詞）：すでに完了した行為を表す。already「すでに」とともに頻出。",
+      "ipa": "/aɪ həv ɔːlˈredi ˈtʃoʊzən maɪ ˈtɑːpɪk fər ðə ˌprezənˈteɪʃən/",
+      "linking": [
+        "have → 弱形 /həv/ に弱化（口語ではさらに /əv/ まで潰れることもある）",
+        "for the → for は弱形 /fər/、the は子音の前なので /ðə/"
+      ],
+      "kana": "アイ ハヴ オールレディ チョウズン マイ タピック フォー ダ プレズンテイション"
+    },
+    {
+      "en": "This is the color that she chose for the walls.",
+      "ja": "これが彼女が壁のために選んだ色です。",
+      "grammar": "関係代名詞 that（目的格、省略可）：that she chose が the color を後ろから修飾。choose の不規則過去形 chose。",
+      "ipa": "/ðɪsɪz ðə ˈkʌlɚ ðət ʃi ˈtʃoʊz fər ðə ˈwɔːlz/",
+      "linking": [
+        "This is → 語末子音sと母音ɪが連結 [ðɪsɪz] ディスィズ",
+        "that → 弱形 /ðət/ に弱化",
+        "for the → for は弱形 /fər/、the は子音の前なので /ðə/"
+      ],
+      "kana": "ディスィズ ダ カラー ダット シ チョウズ フォー ダ ウォールズ"
+    },
+    {
+      "en": "If you choose the wrong path, you might get lost in the forest.",
+      "ja": "もし間違った道を選んだら、森で迷ってしまうかもしれません。",
+      "grammar": "条件文（If + 現在形, 主節に might）：一般的な条件・可能性を表す。choose の現在形。",
+      "ipa": "/ɪf ju ˈtʃuːz ðə ˈrɔːŋ pæθ | ju maɪt ˈɡet̚ lɔːst ɪn ðə ˈfɔːrəst/",
+      "linking": [
+        "the wrong → 子音の前なので the は /ðə/",
+        "get lost → get の語末tは次の子音lの前で未開放になる [ɡet̚ lɔːst] ゲッ(ト)ロースト",
+        "in the → 子音の前なので the は /ðə/"
+      ],
+      "kana": "イフ ユ チューズ ダ ローング パス、ユ マイト ゲッ(ト)ロースト イン ダ フォレスト"
+    },
+    {
+      "en": "Choose your words carefully when you talk to him.",
+      "ja": "彼と話すときは言葉を選んで慎重に話してね。",
+      "grammar": "命令文（動詞の原形で文を始める）：「～しなさい」。choose your words「言葉を選ぶ」という頻出コロケーション。",
+      "ipa": "/ˈtʃuːz jɔːr ˈwɜːrdz ˈkerfəli wen ju ˈtɔːk tə‿ɪm/",
+      "linking": [
+        "talk to → to は弱形 /tə/ に弱化",
+        "to him → 弱形代名詞 him は語頭のhが脱落し、直前の to と連結 [tə‿ɪm] タイム"
+      ],
+      "kana": "チューズ ヨア ワーズ ケアフリー ウェン ユ トーク タイム"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "You can choose to build your house near the village or deep in the forest.",
+      "ja": "村の近くに家を建てるか、森の奥に建てるか、選べるよ。",
+      "grammar": "助動詞 can + choose to do：選択の自由を表す。マイクラでの拠点選びの文脈。",
+      "ipa": "/ju kən ˈtʃuːz tə ˈbɪld jɔːr ˈhaʊs nɪr ðə ˈvɪlɪdʒ ɔːr diːp ɪn ðə ˈfɔːrəst/",
+      "linking": [
+        "can choose → can は弱形 /kən/ に弱化",
+        "choose to → to は弱形 /tə/ に弱化"
+      ],
+      "kana": "ユ カン チューズ タ ビルド ヨア ハウス ニア ダ ヴィリッジ オア ディープ イン ダ フォレスト"
+    },
+    {
+      "en": "Once you have chosen your starting biome, gathering wood should be your first step.",
+      "ja": "最初のバイオームを一度決めたら、まず木を集めるのが第一歩です。",
+      "grammar": "現在完了（have + 過去分詞）：行為の完了を表す。Once ~, ...「いったん～したら」の形。",
+      "ipa": "/wʌns ju həv ˈtʃoʊzən jɔːr ˈstɑːrtɪŋ ˈbaɪoʊm | ˈɡæðərɪŋ wʊd ʃəd bi jɔːr ˈfɜːrst step/",
+      "linking": [
+        "have → 弱形 /həv/ に弱化",
+        "should be → should は弱形 /ʃəd/ に弱化"
+      ],
+      "kana": "ワンス ユ ハヴ チョウズン ヨア スターティング バイオウム、ギャザリング ウッド シュド ビー ヨア ファースト ステップ"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "She was chosen to lead the new project.",
+      "swapped_word": "selected",
+      "result": "She was selected to lead the new project.",
+      "ja": "彼女は新しいプロジェクトを率いるよう選出された。",
+      "note": "select は基準や審査に基づいて選ぶニュアンスが強く、委員会や人事などフォーマルな選出場面でよく使われる。choose は個人的な好みや判断による選択も含む、より一般的な語。"
+    },
+    {
+      "base": "This is the color that she chose for the walls.",
+      "swapped_word": "picked",
+      "result": "This is the color that she picked for the walls.",
+      "ja": "これが彼女が壁のために選んだ色です。",
+      "note": "pick は choose よりくだけた口語的な同義語で、あまり深く考えずにさっと選ぶ印象を与えることが多い。choose は中立的で書き言葉にも使いやすい。"
+    },
+    {
+      "base": "You can choose to walk to school or take the bus.",
+      "swapped_word": "decide",
+      "result": "You can decide to walk to school or take the bus.",
+      "ja": "歩いて学校へ行くか、バスに乗るか、決めることができます。",
+      "note": "decide to do は「考えた末に心を決める」ことに焦点があり、choose to do は「選択肢の中から選ぶ」ことに焦点がある。この文脈ではほぼ置き換え可能だが、ニュアンスがわずかに異なる。"
+    }
+  ],
+  "collocations": [
+    "choose a career（職業を選ぶ）",
+    "choose the right words（適切な言葉を選ぶ）"
+  ],
+  "rank": 446,
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "chooses",
+      "ipa": "/ˈtʃuːzɪz/",
+      "examples": [
+        {
+          "en": "She chooses diamonds over all other ores in her mining route.",
+          "ja": "彼女は採掘ルート内で他のすべての鉱石よりもダイヤモンドを選ぶ。",
+          "ipa": "/ʃi ˈtʃuːzɪz ˈdaɪmənz ˈoʊvər ˈɔːl ˈʌðər ˈɔːrz ɪn hər ˈmaɪnɪŋ ˈruːt/",
+          "kana": "シ チューズズ ダイモンズ オウヴァー オール アザー オアーズ イン ハー マイニング ルート",
+          "linking": [
+            "over all → 自然な分かち書き",
+            "in her → 子音の前なので自然な連結"
+          ]
+        },
+        {
+          "en": "The player chooses to build with stone blocks whenever possible.",
+          "ja": "プレイヤーは可能な限り石のブロックで建築することを選ぶ。",
+          "ipa": "/ðə ˈpleɪər ˈtʃuːzɪz tə ˈbɪld wɪð stoʊn blɑks ˌwɛnˈɛvər ˈpɑːsəbəl/",
+          "kana": "ダ プレイヤー チューズズ タ ビルド ウィズ ストウン ブラックス ウェネヴァー パッシブル",
+          "linking": [
+            "The → 弱形 /ðə/ に弱化",
+            "to build → to は弱形 /tə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "chose",
+      "ipa": "/tʃoʊz/",
+      "examples": [
+        {
+          "en": "I chose to collect every block type available in survival mode.",
+          "ja": "サバイバルモードで入手可能なすべてのブロックタイプを集めることを選びました。",
+          "ipa": "/aɪ tʃoʊz tə kəˈlɛkt ˈɛvri blɑk taɪp əˈveɪləbəl ɪn sərˈvaɪvəl moʊd/",
+          "kana": "アイ チョウズ タ カレクト エヴリ ブラック タイプ アヴェイラブル イン サーヴァイヴァル モウド",
+          "linking": [
+            "to collect → to は弱形 /tə/ に弱化",
+            "in survival → in の /ɪn/ が次の /s/ に連接。自然な分かち書き"
+          ]
+        },
+        {
+          "en": "She chose a village near mountains as her main base location.",
+          "ja": "彼女は山の近くの村を主な拠点の場所として選びました。",
+          "ipa": "/ʃi tʃoʊz ə ˈvɪlɪdʒ nɪr ˈmaʊntənz æz hər ˈmeɪn ˈbeɪs ˈloʊˌkeɪʃən/",
+          "kana": "シ チョウザ ヴィリッジ ニア マウンテンズ アズ ハー メイン ベース ロウケイション",
+          "linking": [
+            "chose a → chose の語末 /z/ が a の弱形 /ə/ に連結 [tʃoʊzə] チョウザ",
+            "as her → 自然な分かち書き"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "chosen",
+      "ipa": "/ˈtʃoʊzən/",
+      "examples": [
+        {
+          "en": "The best materials have been chosen for this epic castle build.",
+          "ja": "この壮大な城の建造物用に最高の材料が選ばれています。",
+          "ipa": "/ðə bɛst məˈtɪriəlz həv bɪn ˈtʃoʊzən fər ðɪs ˈɛpɪk ˈkæsəl bɪld/",
+          "kana": "ザ ベスト マテリアルズ ハヴ ビン チョウズン ファー ディス エピック キャッスル ビルド",
+          "linking": [
+            "have been → have は弱形 /həv/ に弱化。been は通常 /bɪn/ (短くなる)",
+            "for this → for は弱形 /fər/ に弱化"
+          ]
+        },
+        {
+          "en": "Once the strategy had been chosen, we focused entirely on survival.",
+          "ja": "戦略が決まったら、私たちはサバイバルに完全に集中しました。",
+          "ipa": "/wʌns ðə ˈstrætədʒi hæd bɪn ˈtʃoʊzən | wi ˈfoʊkəst ɪnˈtaɪərli ɑn sərˈvaɪvəl/",
+          "kana": "ワンス ダ ストラテジー ハド ビン チョウズン、ウィー フォウカスト インタイアーリー アン サーヴァイヴァル",
+          "linking": [
+            "The strategy → The は弱形 /ðə/ に弱化",
+            "on survival → on は弱形。survival の前で自然な連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "choosing",
+      "ipa": "/ˈtʃuːzɪŋ/",
+      "examples": [
+        {
+          "en": "Choosing the right location for a base is crucial for success in Minecraft.",
+          "ja": "マイクラで成功するための拠点の正しい場所を選ぶことは重要です。",
+          "ipa": "/ˈtʃuːzɪŋ ðə ˈraɪt ˈloʊˌkeɪʃən fər ə ˈbeɪs ɪz ˈkruːʃəl fər səkˈsɛs ɪn ˈmaɪnˌkræft/",
+          "kana": "チューズィング ザ ライト ロウケイション ファー ア ベース イズ クルーシャル ファー サクセス イン マインクラフト",
+          "linking": [
+            "the right → the は弱形 /ðə/ に弱化",
+            "for a → for は弱形 /fər/、a も弱形 /ə/ に弱化"
+          ]
+        },
+        {
+          "en": "By choosing diamonds over iron, you'll get superior tools for mining and construction.",
+          "ja": "鉄よりもダイヤモンドを選ぶことで、採掘と建築のための優れたツールが得られます。",
+          "ipa": "/baɪ ˈtʃuːzɪŋ ˈdaɪmənz ˈoʊvər ˈaɪrən | juːl ɡɛt suːˈpɪriər tulz fər ˈmaɪnɪŋ ənd kənˈstrʌkʃən/",
+          "kana": "バイ チューズィング ダイモンズ オウヴァー アイアン、ユール ゲット スーピーリア ツールズ ファー マイニング アン コンストラクション",
+          "linking": [
+            "for mining → for は弱形 /fər/ に弱化。mining に連結",
+            "and construction → and は弱形 /ənd/ または /ən/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is choosing",
+      "ipa": "/ɪz ˈtʃuːzɪŋ/",
+      "examples": [
+        {
+          "en": "She is choosing between diamond armor and netherite armor.",
+          "ja": "彼女はダイヤモンドアーマーとネザライトアーマーのどちらかを選んでいます。",
+          "ipa": "/ʃi ɪz ˈtʃuːzɪŋ bɪˈtwin ˈdaɪmənd ˈɑrmər ənd ˈnɛðərˌaɪt ˈɑrmər/",
+          "linking": [
+            "is → 助動詞なので弱形 /ɪz/ に弱化",
+            "and → 弱形 /ən/ に弱化"
+          ],
+          "kana": "シ イズ チューズィング ビトウィーン ダイモンド アーマー エン ネザーライト アーマー"
+        },
+        {
+          "en": "We are choosing the perfect location for our new base right now.",
+          "ja": "私たちは今、新しい拠点のための完璧な場所を選んでいます。",
+          "ipa": "/wi ɑr ˈtʃuːzɪŋ ðə ˈpɜrfɪkt ˈloʊkeɪʃən fər aʊər nuː ˈbeɪs raɪt naʊ/",
+          "linking": [
+            "are → 助動詞なので弱形 /ɑr/ に弱化",
+            "the → 子音の前なので /ðə/ に弱化",
+            "for → 前置詞なので弱形 /fər/ に弱化"
+          ],
+          "kana": "ウィー アー チューズィング ザ パーフェクト ロウケイション ファー アワー ニュー ベース ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was choosing",
+      "ipa": "/wəz ˈtʃuːzɪŋ/",
+      "examples": [
+        {
+          "en": "He was choosing which tools to take when the zombie attacked.",
+          "ja": "ゾンビが攻撃してきた時、彼はどのツールを持っていくかを選んでいました。",
+          "ipa": "/hi wəz ˈtʃuːzɪŋ ˈwɪtʃ tulz tə ˈteɪk ˈwɛn ðə ˈzɑmbi əˈtækt/",
+          "linking": [
+            "was → 弱形 /wəz/ に弱化",
+            "to take → to は不定詞マーカーなので弱形 /tə/ に弱化",
+            "the zombie → the は子音の前なので /ðə/ に弱化"
+          ],
+          "kana": "ヒー ワズ チューズィング ウィッチ ツールズ タ テイク ウェン ダ ゾンビ アタックト"
+        },
+        {
+          "en": "They were choosing blocks for their house decoration.",
+          "ja": "彼らは家の装飾用のブロックを選んでいました。",
+          "ipa": "/ðeɪ wər ˈtʃuːzɪŋ blɑks fər ðeər ˈhaʊs ˌdɛkəˈreɪʃən/",
+          "linking": [
+            "were → 弱形 /wər/ に弱化",
+            "for → 前置詞なので弱形 /fər/ に弱化"
+          ],
+          "kana": "ザイ ワー チューズィング ブラックス ファー ゼア ハウス デコレイション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been choosing",
+      "ipa": "/hæd bɪn ˈtʃuːzɪŋ/",
+      "examples": [
+        {
+          "en": "She had been choosing the best materials for an hour before starting the build.",
+          "ja": "建築を始める前に、彼女は1時間のあいだ最高の材料を選んでいました。",
+          "ipa": "/ʃi hæd bɪn ˈtʃuːzɪŋ ðə bɛst məˈtɪriəlz fər ən ˈaʊər bɪˈfɔr ˈstɑrtɪŋ ðə bɪld/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "the best → the は /ðə/ に弱化",
+            "for an → for は弱形 /fər/、an も弱形 /ən/ に弱化"
+          ],
+          "kana": "シ ハド ビン チューズィング ザ ベスト マテリアルズ ファー アン アワー ビフォア スターティング ダ ビルド"
+        },
+        {
+          "en": "We had been choosing our strategy long before we entered the Nether.",
+          "ja": "ネザーに入る前に、私たちは長い間戦略を選んでいました。",
+          "ipa": "/wi hæd bɪn ˈtʃuːzɪŋ aʊər ˈstrætədʒi lɔŋ bɪˈfɔr wi ˈɛntərd ðə ˈnɛðər/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "before we → 母音で自然に分かち書き"
+          ],
+          "kana": "ウィー ハド ビン チューズィング アワー ストラテジー ロング ビフォア ウィー エンタード ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has chosen",
+      "ipa": "/həz ˈtʃoʊzən/",
+      "examples": [
+        {
+          "en": "I have chosen this spot as my permanent base because it's near a village.",
+          "ja": "この場所を拠点として選んだ。村の近くだからいい。",
+          "ipa": "/aɪ həv ˈtʃoʊzən ðɪs spɑt əz maɪ ˈpɜrmənənt ˈbeɪs bɪˈkɔz ɪts nɪr ə ˈvɪlɪdʒ/",
+          "linking": [
+            "have → 助動詞なので弱形 /həv/ に弱化",
+            "this spot → 自然な分かち書き",
+            "as my → 自然な連結",
+            "a village → a は弱形 /ə/ に弱化"
+          ],
+          "kana": "アイ ハヴ チョウズン ディス スパット アズ マイ パーマネント ベース ビコーズ イツ ニア ア ヴィリッジ"
+        },
+        {
+          "en": "We have chosen netherite tools over diamond tools for this new chapter.",
+          "ja": "この新しい章では、ネザーライトツールをダイヤモンドツールの代わりに選ぶことにした。",
+          "ipa": "/wi həv ˈtʃoʊzən ˈnɛðərˌaɪt tulz ˈoʊvər ˈdaɪmənd tulz fər ðɪs nuː ˈtʃæptər/",
+          "linking": [
+            "have → 助動詞なので弱形 /həv/ に弱化",
+            "for this → for は弱形 /fər/、this は母音の前なので /ðɪs/"
+          ],
+          "kana": "ウィー ハヴ チョウズン ネザーライト ツールズ オウヴァー ダイモンド ツールズ ファー ディス ニュー チャプター"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had chosen",
+      "ipa": "/hæd ˈtʃoʊzən/",
+      "examples": [
+        {
+          "en": "Once the player had chosen their enchantments, the battle became much easier.",
+          "ja": "プレイヤーがエンチャントを選ぶと、戦闘が格段に楽になった。",
+          "ipa": "/wʌns ðə ˈpleɪər hæd ˈtʃoʊzən ðeər ɪnˈtʃæntmənts | ðə ˈbætəl bɪˈkeɪm mʌtʃ ˈizər/",
+          "linking": [
+            "the player → the は子音の前なので /ðə/ に弱化",
+            "had → 弱形 /həd/ に弱化",
+            "the battle → the は子音の前なので /ðə/ に弱化"
+          ],
+          "kana": "ワンス ダ プレイヤー ハド チョウズン ゼア インチャントメンツ、ダ バトル ビケイム マッチ イージャー"
+        },
+        {
+          "en": "By the time the raid started, I had chosen my best armor and weapons.",
+          "ja": "襲撃が始まるまでに、私はベストなアーマーと武器を選び終わっていた。",
+          "ipa": "/baɪ ðə taɪm ðə ˈreɪd ˈstɑrtəd | aɪ hæd ˈtʃoʊzən maɪ bɛst ˈɑrmər ənd ˈwɛpənz/",
+          "linking": [
+            "by the → the は子音の前なので /ðə/ に弱化",
+            "the raid → the は子音の前なので /ðə/ に弱化",
+            "had → 弱形 /həd/ に弱化"
+          ],
+          "kana": "バイ ダ タイム ダ レイド スターテッド、アイ ハド チョウズン マイ ベスト アーマー アンド ウェポンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been choosing",
+      "ipa": "/həz bɪn ˈtʃuːzɪŋ/",
+      "examples": [
+        {
+          "en": "I have been choosing between building styles for the past hour.",
+          "ja": "ここ1時間、建築スタイルを選んでいました。",
+          "ipa": "/aɪ həv bɪn ˈtʃuːzɪŋ bɪˈtwin ˈbɪldɪŋ ˈstaɪlz fər ðə pæst ˈaʊər/",
+          "linking": [
+            "have been → have は弱形 /həv/ に弱化、been は弱形 /bɪn/ に弱化",
+            "for the → for は弱形 /fər/、the は子音の前なので /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン チューズィング ビトウィーン ビルディング スタイルズ ファー ダ パスト アワー"
+        },
+        {
+          "en": "They have been choosing the perfect location for their new house all morning.",
+          "ja": "彼らは朝からずっと新しい家の完璧な場所を選んでいます。",
+          "ipa": "/ðeɪ həv bɪn ˈtʃuːzɪŋ ðə ˈpɜrfɪkt ˈloʊkeɪʃən fər ðeər nuː ˈhaʊs ɔːl ˈmɔːrnɪŋ/",
+          "linking": [
+            "have been → have は弱形 /həv/ に弱化、been は弱形 /bɪn/ に弱化",
+            "the perfect → the は子音の前なので /ðə/ に弱化"
+          ],
+          "kana": "ザイ ハヴ ビン チューズィング ザ パーフェクト ロウケイション ファー ゼア ニュー ハウス オール モーニング"
+        }
+      ]
+    }
+  ]
+}
