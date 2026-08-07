@@ -295,6 +295,103 @@
           "kana": "グッド ポジションズ ギブ ザ ティーム ア ストラティージック アドバンテッジ イン ピーヴィーピー バットルズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has positioned",
+      "ipa": "/həz pəˈzɪʃənd/",
+      "examples": [
+        {
+          "en": "We have positioned the defensive wall to block the mob spawner.",
+          "ja": "私たちはモブスポーナーをブロックするために防御壁を配置しました。",
+          "ipa": "[wi həv pəˈzɪʃənd ðə dɪˈfɛnsɪv wɔl tu blɑk ðə ˈmoʊb ˈspoʊnər]",
+          "linking": [
+            "have → 助動詞の弱形 /həv/",
+            "the → 冠詞の弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "ウィ ハヴ ポジションド ザ ディフェンシヴ ウォール トゥ ブロック ザ モウブ スポーナー"
+        },
+        {
+          "en": "The players have positioned their bases on a floating island.",
+          "ja": "プレイヤーたちは浮かぶ島に自分たちの基地を配置しました。",
+          "ipa": "[ðə ˈpleɪərz həv pəˈzɪʃənd ðɛr ˈbeɪsɪz ɑn ə ˈfloʊtɪŋ ˈaɪlənd]",
+          "linking": [
+            "the → 冠詞の弱形 /ðə/",
+            "have → 助動詞の弱形 /həv/",
+            "positioned their → positioned の末尾 /d/ が their の初頭 /ð/ に連結。their は強形 /ðɛr/ [pəˈzɪʃənd ðɛr]",
+            "bases on a → bases の末尾 /z/ が on の初頭に連結。on は弱形 /ɑn/、a も弱形 /ə/ [ˈbeɪsɪz ɑn ə]"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ ポジションド ゼア ベイシズ オン ア フロウティング アイランド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had positioned",
+      "ipa": "/həd pəˈzɪʃənd/",
+      "examples": [
+        {
+          "en": "I had positioned all the torches before the darkness fell in the cave.",
+          "ja": "洞窟で暗くなる前に、私はすべてのたいまつを配置していました。",
+          "ipa": "[aɪ həd pəˈzɪʃənd ɔl ðə ˈtɔrtʃɪz bɪˈfɔr ðə ˈdɑrknəs fɛl ɪn ðə keɪv]",
+          "linking": [
+            "had → 助動詞の弱形 /həd/",
+            "the → 冠詞の弱形 /ðə/",
+            "before → 弱形 /bɪˈfɔr/",
+            "the (darkness) → 冠詞の弱形 /ðə/",
+            "in → 前置詞の弱形 /ɪn/",
+            "the (cave) → 冠詞の弱形 /ðə/"
+          ],
+          "kana": "アイ ハド ポジションド オール ザ トーチーズ ビフォア ザ ダークネス フェル イン ザ ケイヴ"
+        },
+        {
+          "en": "We had positioned all the command blocks when the redstone circuit failed.",
+          "ja": "レッドストーン回路が失敗したとき、私たちはすべてのコマンドブロックを配置し終わっていました。",
+          "ipa": "[wi həd pəˈzɪʃənd ɔl ðə kəˈmænd blɑks ˈwɛn ðə ˈrɛdˌstoʊn ˈsɜrkət ˈfeɪld]",
+          "linking": [
+            "had → 助動詞の弱形 /həd/",
+            "the → 冠詞の弱形 /ðə/",
+            "when → /wen/",
+            "the (redstone) → 冠詞の弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ポジションド オール ザ コマンド ブロックス ウェン ザ レッドストーン サーキット フェイルド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been positioning",
+      "ipa": "/həz bɪn pəˈzɪʃənɪŋ/",
+      "examples": [
+        {
+          "en": "I have been positioning the decorative blocks since sunrise.",
+          "ja": "私は日の出以来、装飾ブロックを配置し続けています。",
+          "ipa": "[aɪ həv bɪn pəˈzɪʃənɪŋ ðə ˈdɛkərətɪv blɑks sɪns ˈsənˌraɪz]",
+          "linking": [
+            "have → 助動詞の弱形 /həv/",
+            "been → 助動詞の弱形 /bɪn/",
+            "the → 冠詞の弱形 /ðə/",
+            "since → /sɪns/"
+          ],
+          "kana": "アイ ハヴ ビン ポジショニング ザ デコラティヴ ブロックス シンス サンライズ"
+        },
+        {
+          "en": "She has been positioning the farm beds to maximize crop yield.",
+          "ja": "彼女は作物の収量を最大化するために農場のベッドを配置し続けています。",
+          "ipa": "[ʃi həz bɪn pəˈzɪʃənɪŋ ðə ˈfɑrm bɛdz tu ˈmæksəˌmaɪz ˈkrɑp jild]",
+          "linking": [
+            "has → 助動詞の弱形 /həz/",
+            "been → 助動詞の弱形 /bɪn/",
+            "the → 冠詞の弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "シー ハズ ビン ポジショニング ザ ファーム ベッズ トゥ マクシマイズ クラップ イールド"
+        }
+      ]
     }
   ]
 }
