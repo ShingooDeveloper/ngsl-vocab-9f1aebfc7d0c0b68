@@ -247,6 +247,90 @@
           "kana": "ザ プロテクティブ ウォールズ ハド ビン かんテイニング ザ ラーヴァ フォア デケイズ ビフォア ザ ヴォルケイノーズ ファイナル イラプション アカード"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has contained",
+      "ipa": "/həz kənˈteɪnd/",
+      "examples": [
+        {
+          "en": "This chest has contained diamonds for the past week without any thieves stealing them.",
+          "ja": "このチェストは過去1週間、泥棒に盗まれることなくダイヤモンドを含んでいます。",
+          "ipa": "/ðɪs tʃɛst həz kənˈteɪnd ˈdaɪməndz fɔr ðə ˈpæst ˈwik wɪˈðaʊt ˈɛni ˈθivz ˈstilɪŋ ðɛm/",
+          "linking": [
+            "chest has → 語末 /t/ が has 初頭の /h/ に後続（consonant+consonant、連結なし）、has は弱形 /həz/",
+            "without any → 語末 /t/ が any 初頭の /ɛ/ に連結（consonant+vowel）[wɪˈðaʊt ˈɛni] ウィズアウト エニー"
+          ],
+          "kana": "ディス チェスト ハズ かんテインド ダイアモンズ フォア ザ パスト ウィーク ウィザウト エニー シーヴズ スティーリング ゼム"
+        },
+        {
+          "en": "I have contained my excitement about the new update since yesterday.",
+          "ja": "私は昨日からこの新しいアップデートについての興奮を抑えています。",
+          "ipa": "/aɪ həv kənˈteɪnd maɪ ɪkˈsaɪtmənt əˈbaʊt ðə ˈnu ˈʌpˌdeɪt sɪns ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "have contained → have は弱形 /həv/、語末 /v/ が contained 初頭の /k/ に後続（consonant+consonant、連結なし）",
+            "my excitement → 語末 /aɪ/ が excitement 初頭の /ɪ/ に連結（vowel+vowel）[maɪ ɪkˈsaɪtmənt] マイ イクサイトメント"
+          ],
+          "kana": "アイ ハヴ かんテインド マイ イクサイトメント アバウト ザ ニュー アップデイト シンス イェスターデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had contained",
+      "ipa": "/həd kənˈteɪnd/",
+      "examples": [
+        {
+          "en": "The barrier had contained the water before the wall broke and flooded the base.",
+          "ja": "壁が壊れてベースが浸水する前に、バリアが水を封じ込めていました。",
+          "ipa": "/ðə ˈbæriɚ həd kənˈteɪnd ðə ˈwɔtɚ bɪˈfɔr ðə ˈwɔl ˈbroʊk ənd ˈflʌdɪd ðə ˈbeɪs/",
+          "linking": [
+            "barrier had → 語末 /r/ が had 初頭の /h/ に後続（consonant+consonant、連結なし）、had は弱形 /həd/",
+            "water before → 語末 /r/ が before 初頭の /b/ に後続（consonant+consonant、連結なし）"
+          ],
+          "kana": "ザ バリアー ハド かんテインド ザ ウォーター ビフォア ザ ウォール ブロウク アンド フラディド ザ ベイス"
+        },
+        {
+          "en": "The cave system had contained rare ores before the mining expedition removed them all.",
+          "ja": "採掘遠征隊がすべてを除去する前に、洞窟システムはレアなオアを含んでいました。",
+          "ipa": "/ðə ˈkeɪv ˈsɪstəm həd kənˈteɪnd ˈrɛr ˈɔrz bɪˈfɔr ðə ˈmaɪnɪŋ ɛksəˈdɪʃən rɪˈmuvd ðɛm ˈɔl/",
+          "linking": [
+            "system had → 語末 /m/ が had 初頭の /h/ に後続（consonant+consonant、連結なし）、had は弱形 /həd/",
+            "ores before → 語末 /z/ が before 初頭の /b/ に後続（consonant+consonant、連結なし）"
+          ],
+          "kana": "ザ ケイブ システム ハド かんテインド レア オアーズ ビフォア ザ マイニング エクスペディション リムーヴド ゼム オール"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been containing",
+      "ipa": "/həz bɪn kənˈteɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We have been containing the lava flow for hours to prevent it from destroying the village.",
+          "ja": "私たちは村を破壊するのを防ぐために、数時間溶岩流を封じ込めています。",
+          "ipa": "/wi həv bɪn kənˈteɪnɪŋ ðə ˈlɑvə ˈfloʊ fɔr ˈaʊɚz tu prɪˈvɛnt ɪt frəm dɪsˈtrɔɪɪŋ ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/、語末 /v/ が been 初頭の /b/ に後続（consonant+consonant、連結なし）",
+            "for hours → for は弱形 /fər/、語末 /r/ が hours 初頭の /aʊ/ に連結（consonant+vowel）[fɔr ˈaʊɚz] フォア アウアーズ"
+          ],
+          "kana": "ウィー ハヴ ビン かんテイニング ザ ラーヴァ フロー フォア アウアーズ トゥー プリヴェント イット フラム ディストロイイング ザ ヴィレッジ"
+        },
+        {
+          "en": "The protective barrier has been containing the creeper explosions since we built it.",
+          "ja": "私たちがそれを建設して以来、防御的なバリアがクリーパー爆発を封じ込めています。",
+          "ipa": "/ðə prəˈtɛktɪv ˈbæriɚ həz bɪn kənˈteɪnɪŋ ðə ˈkripɚ ɪkˈsploʊʒənz sɪns wi ˈbɪlt ɪt/",
+          "linking": [
+            "barrier has → 語末 /r/ が has 初頭の /h/ に後続（consonant+consonant、連結なし）、has は弱形 /həz/",
+            "creeper explosions → 語末 /r/ が explosions 初頭の /ɪ/ に連結（consonant+vowel）[ˈkripɚ ɪkˈsploʊʒənz] クリーパー イクスプロージョンズ"
+          ],
+          "kana": "ザ プロテクティブ バリアー ハズ ビン かんテイニング ザ クリーパー イクスプロージョンズ シンス ウィー ビルト イット"
+        }
+      ]
     }
   ]
 }
