@@ -195,6 +195,223 @@
           "kana": "パーフェクティング レッドストーン サーキッツ イザ チャレンジング バット リワーディング スキル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is perfecting",
+      "ipa": "/ɪz pɚˈfɛktɪŋ/",
+      "examples": [
+        {
+          "en": "She is perfecting her redstone circuit to make it more efficient.",
+          "ja": "彼女は、より効率的にするためにレッドストーン回路を完璧にしている。",
+          "ipa": "/ʃi ɪz pɚˈfɛktɪŋ hɚ ˈɹɛdˌstoʊn ˈsɝkɪɾ tə ˈmeɪk ɪt ˈmɔr ɪˈfɪʃənt/",
+          "linking": [
+            "She is → is は弱形 /ɪz/",
+            "her redstone → her は弱形 /hɚ/、redstone の初頭 /ɹ/（子音、連結して r のみ）",
+            "circuit to → /ɾ/ + /t/（フラップT + 子音、連結なし）",
+            "to make → to は弱形 /tə/",
+            "more efficient → 語末子音 /r/ が efficient の初頭 /ɪ/ に連結 [ˈmɔr‿ɪˈfɪʃənt] モアー イフィシェント"
+          ],
+          "kana": "シー イズ パーフェクティング ハー レッドストーン サーキラ タ メイク イット モアー イフィシェント"
+        },
+        {
+          "en": "We are perfecting our mining strategy by exploring different biomes.",
+          "ja": "様々なバイオームを探索することで採掘戦略を完璧にしている。",
+          "ipa": "/wi ɑr pɚˈfɛktɪŋ ˈaʊɚ ˈmaɪnɪŋ ˈstrætədʒi baɪ ɪkˈsplɔrɪŋ ˈdɪfərənt ˈbaɪoʊmz/",
+          "linking": [
+            "are perfecting → are は弱形 /ɑr/",
+            "our mining → 語末/r/が子音/m/に続く（子音+子音、連結なし）",
+            "by exploring → /aɪ/ + /ɪ/（母音+母音、hiatus）",
+            "exploring different → /ŋ/ + /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ アー パーフェクティング アワー マイニング ストラテジー バイ イクスプローリング ディファレント バイオームズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was perfecting",
+      "ipa": "/wəz pɚˈfɛktɪŋ/",
+      "examples": [
+        {
+          "en": "He was perfecting his enchanting strategy when a creeper interrupted him.",
+          "ja": "彼がエンチャント戦略を完璧にしていた時、クリーパーが彼を邪魔した。",
+          "ipa": "/hi wəz pɚˈfɛktɪŋ hɪz ɛnˈtʃæntɪŋ ˈstrætədʒi wɛn ə ˈkriːpɚ ˈɪnɾəɹʌpɾɪd hɪm/",
+          "linking": [
+            "He was → was は弱形 /wəz/",
+            "his enchanting → his は弱形 /hɪz/、enchanting の初頭 /ɛ/（子音+母音）で連結 [hɪz‿ɛnˈtʃæntɪŋ]",
+            "when a → /n/ + /ə/（子音+母音）で連結 [wɛn‿ə]",
+            "a creeper → a は弱形 /ə/、creeper の初頭 /k/（子音+子音、連結なし）",
+            "interrupted him → 複数の /t/ がフラップT [ɾ]（母音に挟まれた /t/）、/d/ + /h/（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー ワズ パーフェクティング ヒズ エンチャンティング ストラテジー ウェン ア クリーパー インラプリッド ヒム"
+        },
+        {
+          "en": "They were perfecting their mob grinder when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼らはモブグラインダーを完璧にしていた。",
+          "ipa": "/ðeɪ wɚ pɚˈfɛktɪŋ ðɛr ˈmɑb ˈɡraɪndɚ wɛn ðə ˈsɝːvɚ ˈkræʃt/",
+          "linking": [
+            "were perfecting → were は弱形 /wɚ/",
+            "their mob → their は弱形 /ðɛr/、mob の初頭 /m/（子音+子音、連結なし）",
+            "when the → /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "server crashed → 語末/r/が子音/k/に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ワー パーフェクティング ゼア モブ グラインダー ウェン ダ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been perfecting",
+      "ipa": "/həd bɪn pɚˈfɛktɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the server restarted, she had been perfecting her base for three hours.",
+          "ja": "サーバーが再起動した時までに、彼女は3時間、基地を完璧にしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɝːvɚ rɪˈstɑːɾɪd | ʃi həd bɪn pɚˈfɛktɪŋ hɚ ˈbeɪs fɔr ˈθri ˈaʊɚz/",
+          "linking": [
+            "by the → /aɪ/ + /ð/（母音+子音）、the は弱形 /ðə/",
+            "the time → the は弱形 /ðə/、time の初頭 /t/（子音+子音、連結なし）",
+            "she had → had は弱形 /həd/",
+            "had been → been は弱形 /bɪn/（強形 /biːn/）",
+            "her base → her は弱形 /hɚ/、base の初頭 /b/（子音+子音、連結なし）",
+            "for three → for は弱形 /fɔr/、three の初頭 /θ/（子音+子音、連結なし）",
+            "restarted → /t/ がフラップT [ɾ]（母音に挟まれた /t/）"
+          ],
+          "kana": "バイ ダ タイム ダ サーバー リスターリッド、シー ハド ビン パーフェクティング ハー ベース ファー スリー アワーズ"
+        },
+        {
+          "en": "They had been perfecting their mining strategy for weeks before they found the diamond deposit.",
+          "ja": "ダイヤモンド鉱床を見つける前に、数週間採掘戦略を完璧にしていた。",
+          "ipa": "/ðeɪ həd bɪn pɚˈfɛktɪŋ ðɛr ˈmaɪnɪŋ ˈstrætədʒi fɔr ˈwiːks bɪˈfɔr ðeɪ ˈfaʊnd ðə ˈdaɪmənd dɪˈpɑzɪt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "their mining → their は弱形 /ðɛr/、mining の初頭 /m/（子音+子音、連結なし）",
+            "for weeks → for は弱形 /fɔr/、weeks の初頭 /w/（子音+子音、連結なし）",
+            "they found → /ðeɪ/ + /f/（vowel + consonant）、連結なし",
+            "the diamond → the は弱形 /ðə/、diamond の初頭 /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハド ビン パーフェクティング ゼア マイニング ストラテジー ファー ウィークス ビフォア ゼイ ファウンド ダ ダイモンド ディパジット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has perfected",
+      "ipa": "/həz pɚˈfɛktɪd/",
+      "examples": [
+        {
+          "en": "I have perfected my farm automation system, and it now runs itself.",
+          "ja": "私は農場の自動化システムを完璧にしてしまった。今は自分で動く。",
+          "ipa": "/aɪ həv pɚˈfɛktɪd maɪ ˈfɑrm ˌɔtəˈmeɪʃən ˈsɪstəm | ənd ɪt ˈnaʊ ˈɹʌnz ɪtˈsɛlf/",
+          "linking": [
+            "have perfected → have は弱形 /həv/、perfected の初頭 /p/（子音+子音、連結なし）",
+            "my farm → /maɪ/ + /f/（子音+子音、連結なし）",
+            "farm automation → 語末子音 /m/ が automation の初頭 /ɔ/ に連結 [ˈfɑrm‿ˌɔtəˈmeɪʃən] ファーム オートメイション",
+            "automation system → /n/ + /s/（子音+子音、連結なし）",
+            "and it → and は弱形 /ənd/、it の初頭 /ɪ/（子音+母音）で連結 [ənd‿ɪt] アンド イット",
+            "runs itself → 語末子音 /z/ が itself の初頭 /ɪ/（子音+母音）で連結 [ˈɹʌnz‿ɪtˈsɛlf] ランズ イットセルフ"
+          ],
+          "kana": "アイ ハヴ パーフェクティッド マイ ファーム オートメイション システム、アンド イット ナウ ランズ イットセルフ"
+        },
+        {
+          "en": "She has perfected the design of her mob grinder through countless hours of testing.",
+          "ja": "彼女は数え切れないほどのテスト時間を通じて、モブグラインダーの設計を完璧にしてしまった。",
+          "ipa": "/ʃi həz pɚˈfɛktɪd ðə dɪˈzaɪn əv hɚ ˈmɑb ˈɡraɪndɚ ˈθru ˈkaʊntləs ˈaʊɚz əv ˈtɛstɪŋ/",
+          "linking": [
+            "She has → has は弱形 /həz/",
+            "has perfected → /z/ + /p/（子音+子音、連結なし）",
+            "the design → the は弱形 /ðə/、design の初頭 /d/（子音+子音、連結なし）",
+            "of her → of は弱形 /əv/、her の初頭 /h/（子音+子音、連結なし）",
+            "her mob → her は弱形 /hɚ/、mob の初頭 /m/（子音+子音、連結なし）",
+            "countless hours → 語末子音 /s/ が hours の初頭 /aʊ/（子音+母音）で連結 [ˈkaʊntləs‿ˈaʊɚz] カウントレス アワーズ",
+            "of testing → of は弱形 /əv/、testing の初頭 /t/（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ パーフェクティッド ダ ディザイン アヴ ハー モブ グラインダー スルー カウントレス アワーズ アヴ テスティング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had perfected",
+      "ipa": "/həd pɚˈfɛktɪd/",
+      "examples": [
+        {
+          "en": "Before the update, we had perfected our mining route to maximize diamond yields.",
+          "ja": "アップデート前に、ダイヤモンドの収量を最大化するために採掘ルートを完璧にしてしまった。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpˌdeɪt | wi həd pɚˈfɛktɪd ˈaʊɚ ˈmaɪnɪŋ ˈɹaʊt tu ˈmæksəˌmaɪz ˈdaɪmənd ˈjiːldz/",
+          "linking": [
+            "Before the → before の語末子音 /r/ が the の初頭 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "we had → had は弱形 /həd/",
+            "had perfected → /d/ + /p/（子音+子音、連結なし）",
+            "perfected our → 語末子音 /d/ が our の初頭 /aʊ/（子音+母音）で連結 [pɚˈfɛktɪd‿ˈaʊɚ] パーフェクティッド アワー",
+            "our mining → /r/ + /m/（子音+子音、連結なし）",
+            "to maximize → to は弱形 /tə/、maximize の初頭 /m/（子音+子音、連結なし）",
+            "diamond yields → /d/ + /j/（子音+子音、連結なし）"
+          ],
+          "kana": "ビフォア ダ アップデート、ウィ ハド パーフェクティッド アワー マイニング ラウト トゥ マクシマイズ ダイモンド イールズ"
+        },
+        {
+          "en": "By the time they joined, I had already perfected the redstone door mechanism.",
+          "ja": "彼らが参加する時までに、私はすでにレッドストーンドアメカニズムを完璧にしてしまった。",
+          "ipa": "/baɪ ðə ˈtaɪm ðeɪ ˈdʒɔɪnd | aɪ əd ɔːlˈɹɛdi pɚˈfɛktɪd ðə ˈɹɛdˌstoʊn ˈdɔr ˈmɛkənɪzəm/",
+          "linking": [
+            "by the → the は弱形 /ðə/",
+            "the time → /ə/ + /t/（子音+子音、連結なし）",
+            "they joined → /eɪ/ + /dʒ/（子音+子音、連結なし）",
+            "had already → had は弱形 /əd/、already の初頭 /ɔː/（母音）で連結 [əd‿ɔːlˈɹɛdi] アド オールレディ",
+            "already perfected → /i/ + /p/（子音+子音、連結なし）",
+            "perfected the → 語末子音 /d/ + the の初頭 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the redstone → /ə/ + /ɹ/（子音+子音、連結なし）"
+          ],
+          "kana": "バイ ダ タイム ゼイ ジョインド、アイ ハド オールレディ パーフェクティッド ダ レッドストーン ドア メカニズム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been perfecting",
+      "ipa": "/həz bɪn pɚˈfɛktɪŋ/",
+      "examples": [
+        {
+          "en": "He has been perfecting his enchanting setup since the last major patch.",
+          "ja": "彼は前回のメジャーパッチ以来、エンチャント設定を完璧にしている。",
+          "ipa": "/hi həz bɪn pɚˈfɛktɪŋ hɪz ɛnˈtʃæntɪŋ ˈsɛtˌʌp ˈsɪns ðə ˈlæst ˈmeɪdʒɚ ˈpætʃ/",
+          "linking": [
+            "He has → has は弱形 /həz/",
+            "has been → been は弱形 /bɪn/（子音+子音、連結なし）",
+            "been perfecting → /n/ + /p/（子音+子音、連結なし）",
+            "his enchanting → his は弱形 /hɪz/、enchanting の初頭 /ɛ/（子音+母音）で連結 [hɪz‿ɛnˈtʃæntɪŋ] ヒズ エンチャンティング",
+            "enchanting setup → /ŋ/ + /s/（子音+子音、連結なし）",
+            "setup since → /p/ + /s/（子音+子音、連結なし）",
+            "since the → the は弱形 /ðə/",
+            "major patch → /ɚ/ + /p/（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー ハズ ビン パーフェクティング ヒズ エンチャンティング セットアップ シンス ダ ラスト メジャー パッチ"
+        },
+        {
+          "en": "I have been perfecting my building skills by working on this castle for weeks.",
+          "ja": "数週間このお城に取り組むことで、建築スキルを完璧にしている。",
+          "ipa": "/aɪ həv bɪn pɚˈfɛktɪŋ maɪ ˈbɪldɪŋ ˈskɪlz baɪ ˈwɝkɪŋ ɑn ˈðɪs ˈkæsl̩ fɔr ˈwiːks/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/（子音+子音、連結なし）",
+            "been perfecting → /n/ + /p/（子音+子音、連結なし）",
+            "perfecting my → /ŋ/ + /m/（子音+子音、連結なし）",
+            "my building → /aɪ/ + /b/（子音+子音、連結なし）",
+            "building skills → /ŋ/ + /s/（子音+子音、連結なし）",
+            "by working → /aɪ/ + /w/（子音+子音、連結なし）",
+            "working on → 語末子音 /ŋ/ が on の初頭 /ɑ/（子音+母音）で連結 [ˈwɝkɪŋ‿ɑn] ワーキング オン",
+            "for weeks → for は弱形 /fɔr/、weeks の初頭 /w/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ハヴ ビン パーフェクティング マイ ビルディング スキルズ バイ ワーキング オン ディス キャッスル ファー ウィークス"
+        }
+      ]
     }
   ]
 }
