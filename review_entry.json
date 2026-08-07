@@ -293,6 +293,102 @@
           "kana": "シー ハド ビン リヴューイング ザ マテリアル フォー ウィークス ビフォア シー リーチド ザ ファイナル ディシージョン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has reviewed",
+      "ipa": "/həz rɪˈvjuːd/",
+      "examples": [
+        {
+          "en": "She has reviewed the new mining techniques for better efficiency.",
+          "ja": "彼女は、より良い効率のために新しい採掘技術をレビューしました。",
+          "ipa": "/ʃi həz rɪˈvjuːd ðə ˈnu ˈmaɪnɪŋ tɛkˈniːkz fɔr ˈbɛtər ɪˈfɪʃənsi/",
+          "linking": [
+            "has は弱形 /həz/（助動詞）。reviewed に続く。",
+            "reviewed の d が the に連結 [rɪˈvjuːdðə] リヴューード ザ",
+            "for は弱形 /fər/。better に続く。",
+            "better の r が efficiency に連結 [ˈbɛɾəɪˈfɪʃənsi] ベターイフィシェンシー"
+          ],
+          "kana": "シー ハズ リヴューード ザ ニュー マイニング テクニークス フォー ベターイフィシェンシー"
+        },
+        {
+          "en": "We have reviewed all the modifications before deploying them to the server.",
+          "ja": "サーバーに展開する前に、すべての変更をレビューしました。",
+          "ipa": "/wi həv rɪˈvjuːd ɔl ðə ˌmɑdəfɪˈkeɪʃənz bɪˈfɔr dɪˈploɪɪŋ ðəm tə ðə ˈsɝːvər/",
+          "linking": [
+            "have は弱形 /həv/（助動詞）。reviewed に続く。",
+            "reviewed の d が all に連結 [rɪˈvjuːdɔl] リヴューード オール",
+            "before の r が deploying に連結 [bɪˈfɔrdɪˈploɪɪŋ] ビフォー ディプロイング",
+            "to は弱形 /tə/。the に続く。the も弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "ウィ ハヴ リヴューード オール ザ マディフィケーションズ ビフォー ディプロイング ザム タ ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had reviewed",
+      "ipa": "/həd rɪˈvjuːd/",
+      "examples": [
+        {
+          "en": "After the admin had reviewed the player's base, the ban was lifted.",
+          "ja": "管理者がプレイヤーの基地をレビューした後、バンが解除されました。",
+          "ipa": "/ˈæftər ðə ˈædmɪn həd rɪˈvjuːd ðə ˈpleɪərz ˈbeɪs | ðə ˈbæn wəz ˈlɪftɪd/",
+          "linking": [
+            "after の r が the に連結 [ˈæftərðə] アフター ザ",
+            "had は弱形 /həd/（助動詞）。reviewed に続く。",
+            "reviewed の d が the に連結 [rɪˈvjuːdðə] リヴューード ザ",
+            "was は弱形 /wəz/。lifted に続く。"
+          ],
+          "kana": "アフター ザ アドミン ハド リヴューード ザ プレイヤーズ ベイス、ザ バン ワズ リフティド"
+        },
+        {
+          "en": "By the time the update was released, developers had reviewed every detail for bugs.",
+          "ja": "アップデートがリリースされた時点で、開発者はすべての詳細をバグについてレビューしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ʌpˈdeɪt wəz rɪˈlɪst | dɪˈvɛləpərz həd rɪˈvjuːd ˈɛvri dɪˈteɪl fɔr ˈbʌɡz/",
+          "linking": [
+            "the は弱形 /ðə/。time に続く。",
+            "was は弱形 /wəz/。released に続く。",
+            "developers の z が had に続く（弱形 /həd/）。",
+            "reviewed の d が every に連結 [rɪˈvjuːdɛvri] リヴューード エヴリ"
+          ],
+          "kana": "バイ ザ タイム ザ アップデイト ワズ リリースド、ディヴェロッパーズ ハド リヴューード エヴリ ディテイル フォー バグズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been reviewing",
+      "ipa": "/həz bɪn rɪˈvjuːɪŋ/",
+      "examples": [
+        {
+          "en": "The head admin has been reviewing player complaints all week.",
+          "ja": "ヘッド管理者は1週間中プレイヤーの苦情をレビューしています。",
+          "ipa": "/ðə ˈhɛd ˈædmɪn həz bɪn rɪˈvjuːɪŋ ˈpleɪər kəmˈpleɪnts ɔl ˈwik/",
+          "linking": [
+            "has は弱形 /həz/。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。reviewing に続く。",
+            "player の r が complaints に連結 [ˈpleɪər kəmˈpleɪnts] プレイヤー コンプレインツ",
+            "all は /ɔl/。week に続く [ɔl ˈwik] オール ウィーク"
+          ],
+          "kana": "ザ ヘッド アドミン ハズ ビン リヴューイング プレイヤー コンプレインツ オール ウィーク"
+        },
+        {
+          "en": "I have been reviewing the server logs to identify the performance issues.",
+          "ja": "パフォーマンスの問題を特定するためにサーバーログをレビューしています。",
+          "ipa": "/aɪ həv bɪn rɪˈvjuːɪŋ ðə ˈsɝːvər ˈlɔɡz tə aɪˈdɛntɪfaɪ ðə pərˈfɔrməns ˈɪʃuz/",
+          "linking": [
+            "have は弱形 /həv/。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/。reviewing に続く。",
+            "logs の z が to に続く（弱形 /tə/）。",
+            "to は弱形 /tə/。the に続く。the も弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "アイ ハヴ ビン リヴューイング ザ サーバー ログズ タ アイデンティファイ ザ パーフォーマンス イシューズ"
+        }
+      ]
     }
   ]
 }
