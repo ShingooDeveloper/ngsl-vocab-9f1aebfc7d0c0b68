@@ -290,6 +290,95 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has ranged",
+      "ipa": "/həz ˈreɪndʒd/",
+      "examples": [
+        {
+          "en": "We have ranged the towers throughout the map during this session.",
+          "ja": "このセッション中、マップ全体に塔を配置してきました。",
+          "ipa": "/wi həv ˈreɪndʒd ðə ˈtaʊərz θruˈaʊt ðə ˈmæp ˈdʊrɪŋ ðɪs ˈsɛʃən/",
+          "kana": "ウィ ハヴ レインジド ザ タウアーズ スルーアウト ザ マップ ドゥーリング ディス セッション",
+          "linking": [
+            "have ranged: have は弱形 /həv/、ranged の語末 /d/ が the の弱形 /ðə/ に連結 [hæv ˈreɪndʒd ðə]",
+            "towers throughout: towers の語末 /z/ が throughout の /θ/ に続く。throughout は通常強形"
+          ]
+        },
+        {
+          "en": "The mobs have ranged outside the safe zone for the entire game.",
+          "ja": "モブはゲーム全体を通じてセーフゾーン外に広がっています。",
+          "ipa": "/ðə ˈmoʊbz həv ˈreɪndʒd ˈaʊtˌsaɪd ðə ˈseɪf ˈzoʊn fər ðɪ ənˈtaɪər ˈɡeɪm/",
+          "kana": "ザ モウブズ ハヴ レインジド アウトサイド ザ セイフ ゾウン ファー ディ エンタイアー ゲイム",
+          "linking": [
+            "mobs have: mobs の語末 /z/ が have の弱形 /həv/ に連結 [ˈmoʊbzəv]",
+            "have ranged: have の語末 /v/ が ranged の /r/ に連結 [hæv ˈreɪndʒd]",
+            "for the: for は弱形 /fər/、the は弱形 /ðə/、entire は通常 /ɪnˈtaɪər/ だが the の /ðə/ が entire に続く [fərðɪ]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had ranged",
+      "ipa": "/həd ˈreɪndʒd/",
+      "examples": [
+        {
+          "en": "Before we reached the fortress, the scouts had ranged across the entire terrain.",
+          "ja": "要塞に到着する前に、斥候が地形全体に広がっていました。",
+          "ipa": "/bɪˈfɔr wi ˈritʃt ðə ˈfɔrtrəs ðə ˈskaʊts həd ˈreɪndʒd əˈkrɑs ðɪ ənˈtaɪər təˈreɪn/",
+          "kana": "ビフォー ウィ リーチト ザ フォートレス ザ スカウツ ハド レインジド アクロス ディ エンタイアー テレイン",
+          "linking": [
+            "had ranged: had は弱形 /həd/、ranged の語末 /d/ が across の /ə/ に連結 [həd ˈreɪndʒd əˈkrɑs]（across の第1音節は弱化）",
+            "across the: across の語末 /s/ が the の弱形 /ðə/ に続く [əˈkrɑsðə]、the は弱形"
+          ]
+        },
+        {
+          "en": "By the time reinforcements arrived, the armies had ranged across the whole battlefield.",
+          "ja": "援軍が到着する頃には、軍隊は戦場全体に広がっていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˌrɪnˈfɔrsmənt əˈraɪvd ðə ˈɑrmiz həd ˈreɪndʒd əˈkrɑs ðə ˈhoʊl ˈbætəlˌfild/",
+          "kana": "バイ ザ タイム リインフォースメント アライヴド ザ アーミーズ ハド レインジド アクロス ザ ホウル バトルフィールド",
+          "linking": [
+            "by the: the は弱形 /ðə/",
+            "armies had: armies の語末 /z/ が had の弱形 /həd/ に連結 [ˈɑrmizəd]",
+            "had ranged: had は弱形 /həd/、ranged の /r/ に連結 [həd ˈreɪndʒd]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been ranging",
+      "ipa": "/həz bɪn ˈreɪndʒɪŋ/",
+      "examples": [
+        {
+          "en": "We have been ranging blocks all morning to build this castle structure.",
+          "ja": "この城構造を建てるために、私たちは朝中ブロックを配置し続けています。",
+          "ipa": "/wi həv bɪn ˈreɪndʒɪŋ ˈblɑks ɔl ˈmɔrnɪŋ tə ˈbɪld ðɪs ˈkæsəl ˈstrʌktʃər/",
+          "kana": "ウィ ハヴ ビン レインジング ブロックス オール モーニング タ ビルド ディス キャセル ストラクチャー",
+          "linking": [
+            "have been: have は弱形 /həv/、been は弱形 /bɪn/ に連結 [hæv bɪn]",
+            "been ranging: been の語末 /n/ が ranging の /r/ に連結 [bɪn ˈreɪndʒɪŋ]",
+            "all morning: 強い語呼吸で発音（linking なし）to は弱形 /tə/"
+          ]
+        },
+        {
+          "en": "The mob difficulty has been ranging from easy to expert since we started the world.",
+          "ja": "ワールドを開始してから、モブの難易度がイージーからエキスパートまで変動し続けています。",
+          "ipa": "/ðə ˈmoʊb ˌdɪfɪˈkælti həz bɪn ˈreɪndʒɪŋ frəm ˈiːzi tə ˈɛkspɜrt sɪns wi ˈstɑrtɪd ðə ˈwɜrld/",
+          "kana": "ザ モウブ ディフィカルティ ハズ ビン レインジング フラム イージー タ エクスパート シンス ウィ スターティド ザ ワールド",
+          "linking": [
+            "has been: has は弱形 /həz/、been は弱形 /bɪn/ に連結 [həz bɪn]",
+            "been ranging: been の語末 /n/ が ranging の /r/ に連結 [bɪn ˈreɪndʒɪŋ]",
+            "ranging from: from は弱形 /frəm/",
+            "to expert: to は弱形 /tə/、expert の /ɛk/ に続く"
+          ]
+        }
+      ]
     }
   ]
 }
