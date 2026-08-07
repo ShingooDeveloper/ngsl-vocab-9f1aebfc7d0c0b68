@@ -1,0 +1,490 @@
+{
+  "word": "request",
+  "pos": "動詞 (verb)",
+  "ipa_us": "/rɪˈkwest/",
+  "ipa_uk": "/rɪˈkwest/",
+  "meanings": [
+    "【動詞】（人に）〜してほしいと丁寧に頼む、要請する（The teacher requested that students submit their homework. 先生は生徒たちに宿題を提出するよう求めた）",
+    "【動詞】（正式に・書面で）申し込む、要求する（You can request a copy of your medical records. 診療記録のコピーを申し込むことができる）",
+    "【名詞】依頼、要望、リクエスト（make a request for more information さらに詳しい情報を求める）",
+    "【名詞】（システムへの）リクエスト、要求（send a request to the server サーバーにリクエストを送る）"
+  ],
+  "examples": [
+    {
+      "en": "I've already requested three days off next week, but my manager hasn't approved it yet.",
+      "ja": "すでに来週の3連休を申請してあるんだけど、上司はまだ承認していない。",
+      "grammar": "現在完了（have + 過去分詞）＋等位接続詞 but による対比：request の動詞用法「（休みなどを）申請する」。hasn't（has not の短縮）にも注意。",
+      "ipa": "/aɪv ɔːlˈredi rɪˈkwestɪd θriː ˈdeɪz‿ɔːf neks wiːk | bət maɪ ˈmænɪdʒɚ ˈhæzənt‿əˈpruːvd‿ɪt jet/",
+      "linking": [
+        "days off → 語末子音zと母音ɔːが連結 [ˈdeɪzɔːf] デイゾフ",
+        "next week → 子音の直前で語末のtが脱落し [neks wiːk] ネクス ウィーク のように聞こえることが多い",
+        "hasn't approved → 語末のnt（弱いt）が母音の前で軽く連結し [ˈhæzəntəˈpruːvd] ハズントアプルーヴド のようにつながる",
+        "approved it → 語末子音dと母音ɪが連結 [əˈpruːvdɪt] アプルーヴディット"
+      ],
+      "kana": "アイヴ オールレディ リクウェスティド スリー デイゾフ ネクス ウィーク、バット マイ マネジャー ハズント アプルーヴディット イェット"
+    },
+    {
+      "en": "The document you requested has been sent to your email.",
+      "ja": "ご依頼のあった書類は、メールで送付済みです。",
+      "grammar": "関係代名詞の省略（the document (that) you requested）＋受動態の現在完了（has been + 過去分詞）：request の動詞用法。",
+      "ipa": "/ðə ˈdɑːkjəməntʃu rɪˈkwestɪd həz bɪn sent tə jʊr ˈiːmeɪl/",
+      "linking": [
+        "document you → 語末のtと後続のyの音が同化して[tʃ]になる（document you → documentchu）[ˈdɑːkjəməntʃu] ダキュメンチュ",
+        "has → 助動詞としては弱形 /həz/ に弱化",
+        "sent to → nt+tの連続で前のtが未開放になる [sent̚ tə] セン(ト)トゥ",
+        "to → 機能語は弱形 /tə/ に弱化"
+      ],
+      "kana": "ダ ダキュメンチュ リクウェスティド ハズ ビン セン(ト)トゥ ヨア イーメイル"
+    },
+    {
+      "en": "If you request a refund within thirty days, the store will give your money back.",
+      "ja": "30日以内に返金を申し込めば、その店はお金を返してくれる。",
+      "grammar": "第1条件文（If + 現在形, will + 原形）：起こりうる条件とその結果を表す。request の動詞用法「（返金などを）申し込む」。",
+      "ipa": "/ɪf ju rɪˈkwest‿ə ˈriːfʌnd wɪˈðɪn ˈθɜːɾi deɪz | ðə stɔːr wəl ɡɪv jʊr ˈmʌni bæk/",
+      "linking": [
+        "request a → 語末のtは/s/の後ろにあるためフラップ化はせず、そのまま母音と連結 [rɪˈkwestə] リクウェスタ",
+        "thirty → rの後のtがフラップ化することが多い（米口語）[ˈθɜːɾi] サーリ",
+        "will → 弱形 /wəl/ に弱化"
+      ],
+      "kana": "イフ ユ リクウェスタ リーファンド ウィズィン サーリ デイズ、ダ ストア ウル ギヴ ヨア マニ バック"
+    },
+    {
+      "en": "The teacher requested that all students submit their homework by Friday.",
+      "ja": "先生は、全生徒に金曜日までに宿題を提出するよう求めた。",
+      "grammar": "request that + 主語 + 動詞の原形（仮定法現在・should省略）：要求・提案を表す動詞に続く that節では動詞が原形になる、フォーマルな用法。",
+      "ipa": "/ðə ˈtiːtʃɚ rɪˈkwestɪd ðət ɔːl ˈstuːdənts səbˈmɪt ðer ˈhoʊmwɜːrk baɪ ˈfraɪdeɪ/",
+      "linking": [
+        "that all → that の弱形 /ðət/ の語末tが母音の前で連結 [ðətɔːl] ダットール"
+      ],
+      "kana": "ダ ティーチャー リクウェスティド ダットール ステューデンツ サブミット ゼア ホウムワーク バイ フライデイ"
+    },
+    {
+      "en": "Passengers are requested to fasten their seatbelts before takeoff.",
+      "ja": "乗客の皆様は、離陸前にシートベルトをお締めください。",
+      "grammar": "受動態（be + 過去分詞）＋ be requested to do ~：フォーマルな案内・指示の定型表現（機内アナウンスなどで頻出）。",
+      "ipa": "/ˈpæsɪndʒɚz‿ər rɪˈkwestɪd tə ˈfæsən ðer ˈsiːtbelts bɪˈfɔːr ˈteɪkɔːf/",
+      "linking": [
+        "passengers are → 語末子音zと弱形の are /ər/ が連結 [ˈpæsɪndʒɚzər] パセンジャザー",
+        "fasten → tは発音されない（サイレントT）[ˈfæsən] ファセン",
+        "seatbelts → tの直後にbが続くため未開放になる [ˈsiːt̚belts] スィー(ト)ベルツ"
+      ],
+      "kana": "パセンジャザー リクウェスティド タ ファセン ゼア スィー(ト)ベルツ ビフォー テイコフ"
+    },
+    {
+      "en": "Could you make a request for extra napkins when you call the restaurant?",
+      "ja": "お店に電話するとき、紙ナプキンを多めにって頼んでもらえる?",
+      "grammar": "Could you + 原形（丁寧な依頼の疑問文）＋名詞 request の用法 make a request for ~「〜を求める依頼をする」。when節（時を表す副詞節）。",
+      "ipa": "/ˈkʊdʒu ˈmeɪk‿ə rɪˈkwest fər ˈekstrə ˈnæpkənz wen ju kɔːl ðə ˈrestərɑːnt/",
+      "linking": [
+        "Could you → dとyの音が同化して[dʒ]になる（could you → couldja）[ˈkʊdʒu] クッジュ",
+        "make a → 語末子音kと母音əが連結 [ˈmeɪkə] メイカ",
+        "for → 前置詞としての弱形 /fər/"
+      ],
+      "kana": "クッジュ メイカ リクウェスト フォー エクストラ ナプキンズ ウェン ユ コール ダ レストラント"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Can you request more redstone from the shopkeeper before we start building the machine?",
+      "ja": "機械を作り始める前に、店主にレッドストーンをもっと頼んでもらえる?",
+      "grammar": "助動詞 can の疑問文（依頼・可能性を尋ねる）：request の動詞用法「〜を頼む、要求する」。before節（時を表す副詞節）。",
+      "ipa": "/kən ju rɪˈkwest mɔːr ˈredstoʊn frəm ðə ˈʃɑːpkiːpɚ bɪˈfɔːr wi stɑːrt ˈbɪldɪŋ ðə məˈʃiːn/",
+      "linking": [
+        "can → 弱形 /kən/ に弱化",
+        "from → 弱形 /frəm/ に弱化"
+      ],
+      "kana": "カン ユ リクウェスト モア レッドストウン フラム ダ シャプキーパー ビフォー ウィ スタート ビルディング ダ マシーン"
+    },
+    {
+      "en": "My little brother keeps requesting that I trade him diamonds for iron every time we play.",
+      "ja": "一緒に遊ぶたびに、弟がダイヤと鉄を交換してほしいとしつこく頼んでくる。",
+      "grammar": "keep + -ing（繰り返される行為へのいらだち）＋ request that + 原形（仮定法現在）：頻度を表す every time節を伴う。",
+      "ipa": "/maɪ ˈlɪɾl̩ ˈbrʌðɚ kiːps rɪˈkwestɪŋ ðət aɪ treɪd‿ɪm ˈdaɪəməndz fər ˈaɪɚn ˈevri taɪm wi pleɪ/",
+      "linking": [
+        "little → 母音と成節的lに挟まれたtがフラップ化 [ˈlɪɾl̩] リロゥ（米音）",
+        "trade him → himのhが脱落して弱形/ɪm/になり、語末のdと連結 [treɪdɪm] トレイディム",
+        "for → 弱形 /fər/ に弱化"
+      ],
+      "kana": "マイ リロゥ ブラザー キープス リクウェスティング ダット アイ トレイディム ダイアマンズ フォー アイアン エヴリ タイム ウィ プレイ"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "I've already requested three days off next week, but my manager hasn't approved it yet.",
+      "swapped_word": "ask for",
+      "result": "I've already asked for three days off next week, but my manager hasn't approved it yet.",
+      "ja": "すでに来週の3連休を頼んであるんだけど、上司はまだ承認していない。",
+      "note": "ask for は日常会話で使われるカジュアルな言い方。request は同じ内容でもよりフォーマルで、職場の正式な申請書やメールで好まれる。意味はほぼ同じだが register（文体）の差が大きい。"
+    },
+    {
+      "base": "If you request a refund within thirty days, the store will give your money back.",
+      "swapped_word": "demand",
+      "result": "If you demand a refund within thirty days, the store will give your money back.",
+      "ja": "30日以内に返金を強く要求すれば、その店はお金を返してくれる。",
+      "note": "demand は「権利として強く要求する」ニュアンスで、時に高圧的・対立的に響く。request は丁寧に「お願いする」響きを保つ中立的な語で、対応する印象が大きく異なる。"
+    },
+    {
+      "base": "Passengers are requested to fasten their seatbelts before takeoff.",
+      "swapped_word": "required",
+      "result": "Passengers are required to fasten their seatbelts before takeoff.",
+      "ja": "乗客は離陸前にシートベルトを締めることが義務づけられている。",
+      "note": "require は「規則・法律上の義務」を表し、拒否できないニュアンスが強い。request は丁寧な依頼・指示で、形式上は従うことが期待されるが命令的な響きは弱い。機内アナウンスでは乗客への配慮から request が好んで使われる。"
+    }
+  ],
+  "collocations": [
+    "make a request（依頼をする、要望を出す）",
+    "urgent request（緊急の依頼）",
+    "request for + 名詞（〜についての依頼・要求）"
+  ],
+  "pos_all": "動詞・名詞",
+  "rank": 1008,
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "requests",
+      "ipa": "/rɪˈkwests/",
+      "examples": [
+        {
+          "en": "The villager requests emeralds in exchange for better tools.",
+          "ja": "その村人は、より良いツールと引き換えにエメラルドを要求します。",
+          "ipa": "/ðə ˈvɪlɪdʒər rɪˈkwests ˈɛmərəldz ɪn ɪkˈstʃeɪndʒ fər ˈbɛtər ˈtulz/",
+          "linking": [
+            "villager requests → 語末の r が requests の r と自然につながる [ˈvɪlɪdʒər rɪˈkwests] ヴィリジャー リクウェスツ",
+            "exchange for → for は前置詞で弱形 /fər/"
+          ],
+          "kana": "ザ ヴィリジャー リクウェスツ エメラルズ イン イクスチェンジ フォー ベター トゥールズ"
+        },
+        {
+          "en": "The server owner requests that all players follow the building rules.",
+          "ja": "サーバーのオーナーは、すべてのプレイヤーが建築ルールに従うことを要求します。",
+          "ipa": "/ðə ˈsɝːvər ˈoʊnər rɪˈkwests ðæt ɔːl ˈpleɪərz ˈfɑloʊ ðə ˈbɪldɪŋ ˈrulz/",
+          "linking": [
+            "owner requests → 語末の r が requests に連結 [ˈoʊnər rɪˈkwests] オウナー リクウェスツ",
+            "that all → that の語末 t が母音 ɔ に続くため未開放 [ðæt ɔːl] ザット オール"
+          ],
+          "kana": "ザ サーバー オウナー リクウェスツ ザット オール プレイヤーズ ファロー ザ ビルディング ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "requested",
+      "ipa": "/rɪˈkwestɪd/",
+      "examples": [
+        {
+          "en": "I requested five stacks of cobblestone from the storage chest.",
+          "ja": "ストレージチェストから丸石を5スタック要求しました。",
+          "ipa": "/aɪ rɪˈkwestɪd ˈfaɪv stæks ʌv ˈkɑbəlˌstoʊn frəm ðə ˈstɔrɪdʒ ˈtʃɛst/",
+          "linking": [
+            "requested five → 語末の d が母音 aɪ に連結 [rɪˈkwestɪd ˈfaɪv] リクウェスティド ファイブ",
+            "stacks of → 語末 s が of に連結 [stæks ʌv] スタックス アヴ。of は弱形 /ʌv/",
+            "from the → from は弱形 /frəm/。the も弱形 /ðə/ [frəm ðə] フラム ザ"
+          ],
+          "kana": "アイ リクウェスティド ファイブ スタックス アヴ コブルストウン フラム ザ ストレッジ チェスト"
+        },
+        {
+          "en": "She requested to join our mining expedition last week.",
+          "ja": "彼女は先週、私たちの採掘遠征に参加することを申し込みました。",
+          "ipa": "/ʃi rɪˈkwestɪd tə dʒɔɪn ˈaʊər ˈmaɪnɪŋ ɛkspɪˈdɪʃən læst ˈwik/",
+          "linking": [
+            "She requested → /ʃi/ が /rɪˈkwestɪd/ に自然につながる [ʃi rɪˈkwestɪd] シー リクウェスティド",
+            "to join → to は前置詞で弱形 /tə/ [tə dʒɔɪn] タ ジョイン",
+            "our mining → 語末 r が mining に連結 [ˈaʊər ˈmaɪnɪŋ] アワー マイニング"
+          ],
+          "kana": "シー リクウェスティド タ ジョイン アワー マイニング エクスペディション ラスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "requested",
+      "ipa": "/rɪˈkwestɪd/",
+      "examples": [
+        {
+          "en": "As requested, I've prepared all the materials for the project.",
+          "ja": "ご要望のとおり、プロジェクトの材料をすべて準備しました。",
+          "ipa": "/əz rɪˈkwestɪd | aɪv prɪˈpɛrd ɔːl ðə məˈtɪriəlz fər ðə ˈprɑdʒɛkt/",
+          "linking": [
+            "As requested → 語末 z が requested に連結 [əz rɪˈkwestɪd] アズ リクウェスティド",
+            "I've prepared → 縮約形 I've /aɪv/。語末 d が all に連結 [prɪˈpɛrd ɔːl] プリペアド オール",
+            "the materials → the は弱形 /ðə/。materials につながる [ðə məˈtɪriəlz] ザ マテリアルズ",
+            "for the → for は弱形 /fər/。the も弱形 /ðə/ [fər ðə] フォー ザ"
+          ],
+          "kana": "アズ リクウェスティド、アイヴ プリペアド オール ザ マテリアルズ フォー ザ プロジェクト"
+        },
+        {
+          "en": "The changes you requested have been implemented on the server.",
+          "ja": "ご要望いただいた変更がサーバーに実装されました。",
+          "ipa": "/ðə ˈtʃeɪndʒəz ju rɪˈkwestɪd həv bɪn ɪmˈplɪməntɪd ɑn ðə ˈsɝːvər/",
+          "linking": [
+            "you requested → you /ju/ が requested に連結 [ju rɪˈkwestɪd] ユー リクウェスティド",
+            "requested have → 語末 d が have に連結 [rɪˈkwestɪd həv] リクウェスティド ハヴ",
+            "implemented on → 語末 d が on に連結 [ɪmˈplɪməntɪd ɑn] インプリメンティド オン",
+            "on the → on の語末 n が the に連結。the は弱形 /ðə/ [ɑn ðə] オン ザ"
+          ],
+          "kana": "ザ チェンジズ ユー リクウェスティド ハヴ ビン インプリメンティド オン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "requesting",
+      "ipa": "/rɪˈkwestɪŋ/",
+      "examples": [
+        {
+          "en": "The moderator is requesting that everyone stop griefing the spawn area.",
+          "ja": "モデレーターは、みんなが スポーン地域の荒らしを止めることを要求しています。",
+          "ipa": "/ðə ˈmɑdəˌreɪtər ɪz rɪˈkwestɪŋ ðæt ˈɛvriˌwʌn ˈstɑp ˈɡriːfɪŋ ðə ˈspoːn ˈɛriə/",
+          "linking": [
+            "moderator is → 語末 r が is に連結 [ˈmɑdəˌreɪtər ɪz] マデレイター イズ",
+            "is requesting → 語末 z が requesting に連結 [ɪz rɪˈkwestɪŋ] イズ リクウェスティング",
+            "that everyone → that の語末 t が everyone に続くため未開放 [ðæt ˈɛvriˌwʌn] ザット エヴリワン",
+            "the spawn → the は弱形 /ðə/ [ðə ˈspoːn] ザ スポーン"
+          ],
+          "kana": "ザ マデレイター イズ リクウェスティング ザット エヴリワン ストップ グリーフィング ザ スポーン エリア"
+        },
+        {
+          "en": "Are you requesting help with your redstone contraption?",
+          "ja": "あなたはレッドストーン装置でヘルプを要求していますか？",
+          "ipa": "/ɑr ju rɪˈkwestɪŋ ˈhɛlp wɪð jɚ ˈrɛdˌstoʊn kənˈtræpʃən/",
+          "linking": [
+            "Are you → 語末 r が you に連結 [ɑr ju] アー ユー",
+            "you requesting → you /ju/ が requesting に連結 [ju rɪˈkwestɪŋ] ユー リクウェスティング",
+            "with your → 語末 ð が your に連結 [wɪð jɚ] ウィズ ヤー",
+            "redstone contraption → 複合語。n と c で子音が続く"
+          ],
+          "kana": "アー ユー リクウェスティング ヘルプ ウィズ ヤー レッドストーン コントラプション"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "requests",
+      "ipa": "/rɪˈkwests/",
+      "examples": [
+        {
+          "en": "We received multiple requests to add a new dimension to the server.",
+          "ja": "サーバーに新しいディメンションを追加するという複数の要求を受け取りました。",
+          "ipa": "/wi rɪˈsiːvd ˈmʌltɪpəl rɪˈkwests tə ˈæd ə ˈnu dɪˈmɛnʃən tə ðə ˈsɝːvər/",
+          "linking": [
+            "We received → we は弱形 /wi/。received に続く [wi rɪˈsiːvd] ウィ リシーヴド",
+            "received multiple → 語末 d と multiple の m で子音が続く [rɪˈsiːvd ˈmʌltɪpəl] リシーヴド マルチプル",
+            "requests to → 語末 s が to に連結。to は弱形 /tə/ [rɪˈkwests tə] リクウェスツ タ",
+            "a new → a は弱形 /ə/。new に続く [ə ˈnu] ア ニュー",
+            "to the → to は弱形 /tə/。the も弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "ウィ リシーヴド マルチプル リクウェスツ タ アド ア ニュー ディメンション タ ザ サーバー"
+        },
+        {
+          "en": "The server logs show many requests for new items.",
+          "ja": "サーバーログは、新しいアイテムのための多くのリクエストを示しています。",
+          "ipa": "/ðə ˈsɝːvər ˈlɑɡz ˈʃoʊ ˈmɛni rɪˈkwests fər ˈnu ˈaɪtəmz/",
+          "linking": [
+            "logs show → 語末 z が show に連結 [ˈlɑɡz ˈʃoʊ] ラッグズ ショウ",
+            "many requests → many のy音が requests の r に連結 [ˈmɛni rɪˈkwests] メニー リクウェスツ",
+            "requests for → 語末 s が for に連結。for は弱形 /fər/ [rɪˈkwests fər] リクウェスツ フォー",
+            "for new → for の r が new に連結 [fər ˈnu] フォー ニュー"
+          ],
+          "kana": "ザ サーバー ラッグズ ショウ メニー リクウェスツ フォー ニュー アイテムズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is requesting",
+      "ipa": "/ɪz rɪˈkwestɪŋ/",
+      "examples": [
+        {
+          "en": "The player is requesting more diamonds from the trading villager right now.",
+          "ja": "そのプレイヤーは今、取引村人からもっとダイヤモンドを要求しています。",
+          "ipa": "/ðə ˈpleɪər ɪz rɪˈkwestɪŋ mɔːr ˈdaɪməndz frəm ðə ˈtreɪdɪŋ ˈvɪlɪdʒər raɪt ˈnaʊ/",
+          "linking": [
+            "player is → 語末 r が is に連結 [ˈpleɪər ɪz] プレイヤー イズ",
+            "is requesting → 語末 z が requesting に連結 [ɪz rɪˈkwestɪŋ] イズ リクウェスティング",
+            "from the → from は弱形 /frəm/、the も弱形 /ðə/ に連結 [frəm ðə] フラム ザ",
+            "the trading → the は弱形 /ðə/、r が trading に連結 [ðə ˈtreɪdɪŋ] ザ トレイディング",
+            "villager right → 語末 r が right に連結 [ˈvɪlɪdʒər raɪt] ヴィリジャー ライト"
+          ],
+          "kana": "ザ プレイヤー イズ リクウェスティング モア ダイアマンズ フラム ザ トレイディング ヴィリジャー ライト ナウ"
+        },
+        {
+          "en": "We are requesting permission to build in the protected zone.",
+          "ja": "私たちは保護されたゾーンで建築する許可を要求しています。",
+          "ipa": "/wi ɑr rɪˈkwestɪŋ pərˈmɪʃən tə ˈbɪld ɪn ðə prəˈtɛktɪd ˈzoʊn/",
+          "linking": [
+            "We are → we は弱形 /wi/、are に連結 [wi ɑr] ウィ アー",
+            "are requesting → 語末 r が requesting に連結 [ɑr rɪˈkwestɪŋ] アー リクウェスティング",
+            "to build → to は弱形 /tə/ [tə ˈbɪld] タ ビルド",
+            "in the → in /ɪn/、the は弱形 /ðə/ に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "ウィ アー リクウェスティング パーミッション タ ビルド イン ザ プロテクティド ゾーン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was requesting",
+      "ipa": "/wəz rɪˈkwestɪŋ/",
+      "examples": [
+        {
+          "en": "While we were building the farm, she was requesting help from the admin.",
+          "ja": "私たちが農場を建築している間に、彼女は管理人にヘルプを要求していました。",
+          "ipa": "/waɪl wi ˈwɚ ˈbɪldɪŋ ðə ˈfɑrm | ʃi wəz rɪˈkwestɪŋ ˈhɛlp frəm ðə ˈædmɪn/",
+          "linking": [
+            "While we → 語末 l が we に連結 [waɪl wi] ワイル ウィ",
+            "we were → we は弱形 /wi/、were に連結 [wi ˈwɚ] ウィ ワー",
+            "the farm → the は弱形 /ðə/ [ðə ˈfɑrm] ザ ファーム",
+            "she was → 語末 i が was に連結。was は弱形 /wəz/ [ʃi wəz] シー ワズ",
+            "from the → from は弱形 /frəm/、the も弱形 /ðə/ に連結 [frəm ðə] フラム ザ"
+          ],
+          "kana": "ワイル ウィ ワー ビルディング ザ ファーム、シー ワズ リクウェスティング ヘルプ フラム ザ アドミン"
+        },
+        {
+          "en": "He was requesting cobblestone when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼は丸石を要求していました。",
+          "ipa": "/hi wəz rɪˈkwestɪŋ ˈkɑbəlˌstoʊn wɛn ðə ˈsɝːvər ˈkræʃt/",
+          "linking": [
+            "He was → 語末 i が was に連結。was は弱形 /wəz/ [hi wəz] ヒー ワズ",
+            "when the → when /wɛn/、the は弱形 /ðə/ に連結 [wɛn ðə] ウェン ザ",
+            "the server → the は弱形 /ðə/ [ðə ˈsɝːvər] ザ サーバー"
+          ],
+          "kana": "ヒー ワズ リクウェスティング コブルストーン ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been requesting",
+      "ipa": "/həd bɪn rɪˈkwestɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the admin logged in, the player had been requesting mod support for weeks.",
+          "ja": "管理人がログインするまでに、そのプレイヤーは何週間もモッドサポートを要求していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn ˈlɑɡd ɪn | ðə ˈpleɪər həd bɪn rɪˈkwestɪŋ ˈmɑd səˈpɔːrt fər ˈwiːks/",
+          "linking": [
+            "By the → 語末 i が the に連結。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "logged in → 語末 d が in に連結 [ˈlɑɡd ɪn] ロッギド イン",
+            "the player → the は弱形 /ðə/ [ðə ˈpleɪər] ザ プレイヤー",
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "for weeks → for は弱形 /fər/ [fər ˈwiːks] フォー ウィークス"
+          ],
+          "kana": "バイ ザ タイム ザ アドミン ロッギド イン、ザ プレイヤー ハド ビン リクウェスティング モド サポート フォー ウィークス"
+        },
+        {
+          "en": "She had been requesting a whitelist spot before finally getting access.",
+          "ja": "彼女はアクセスをようやく得る前に、ホワイトリストスポットを要求していました。",
+          "ipa": "/ʃi həd bɪn rɪˈkwestɪŋ ə ˈwaɪtˌlɪst ˈspɑt bɪˈfɔːr ˈfaɪnəli ˈɡɛtɪŋ ˈækˌsɛs/",
+          "linking": [
+            "She had → 語末 i が had に連結。had は弱形 /həd/ [ʃi həd] シー ハド",
+            "a whitelist → a は弱形 /ə/、w に連結 [ə ˈwaɪtˌlɪst] ア ホワイトリスト",
+            "before finally → before /bɪˈfɔːr/、finally に続く [bɪˈfɔːr ˈfaɪnəli] ビフォー ファイナリー",
+            "finally getting → 語末 i が getting に連結 [ˈfaɪnəli ˈɡɛtɪŋ] ファイナリー ゲッティング"
+          ],
+          "kana": "シー ハド ビン リクウェスティング ア ホワイトリスト スポット ビフォー ファイナリー ゲッティング アクセス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has requested",
+      "ipa": "/həz rɪˈkwestɪd/",
+      "examples": [
+        {
+          "en": "The server has requested a major update after several crash incidents this week.",
+          "ja": "このサーバーは今週のいくつかのクラッシュインシデントの後、大規模なアップデートをリクエストしました。",
+          "ipa": "/ðə ˈsɝːvər həz rɪˈkwestɪd ə ˈmeɪdʒər ˈʌpdeɪt ˈæftər ˈsɛvərəl ˈkræʃ ˈɪnsɪdənts ðɪs ˈwik/",
+          "linking": [
+            "server has → 語末の r が has に連結 [ˈsɝːvər həz] サーバー ハズ",
+            "has requested → 語末の z が requested に連結 [həz rɪˈkwestɪd] ハズ リクウェスティド",
+            "major update → 語末の r が update に連結 [ˈmeɪdʒər ˈʌpdeɪt] メイジャー アップデイト"
+          ],
+          "kana": "ザ サーバー ハズ リクウェスティド ア メイジャー アップデイト アフター セベラル クラッシュ インシデンツ ディス ウィーク"
+        },
+        {
+          "en": "I have requested permission to place TNT in the PvP arena for our battle event.",
+          "ja": "私たちの戦闘イベントのために、PvPアリーナにTNTを設置する許可をリクエストしました。",
+          "ipa": "/aɪ həv rɪˈkwestɪd pərˈmɪʃən tə pleɪs ˈtiːɛnˈtiː ɪn ðə ˈpiːviːˈpiː əˈrinə fɔːr ˈaʊər ˈbætəl ɪˈvɛnt/",
+          "linking": [
+            "have requested → 語末の v が requested に連結 [həv rɪˈkwestɪd] ハヴ リクウェスティド",
+            "to place → to は弱形 /tə/ に弱化 [tə pleɪs] タ プレイス",
+            "in the → in が the（弱形 /ðə/）に連結 [ɪn ðə] イン ザ",
+            "for our → for は弱形 /fər/、r が our に連結 [fər ˈaʊər] フォー アワー"
+          ],
+          "kana": "アイ ハヴ リクウェスティド パーミッション タ プレイス ティーエヌティー イン ザ ピーヴィーピー アリーナ フォー アワー バットル イベント"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had requested",
+      "ipa": "/həd rɪˈkwestɪd/",
+      "examples": [
+        {
+          "en": "Before the major update, the community had requested better mod support for over a year.",
+          "ja": "大規模アップデートの前に、コミュニティは1年以上もモッドサポートの改善をリクエストしていました。",
+          "ipa": "/bɪˈfɔːr ðə ˈmeɪdʒər ˈʌpdeɪt | ðə kəˈmjuːnɪti həd rɪˈkwestɪd ˈbɛtər ˈmɑd səˈpɔːrt fər ˈoʊvər ə ˈjɪr/",
+          "linking": [
+            "Before the → before の r が the（弱形 /ðə/）に連結 [bɪˈfɔːr ðə] ビフォー ザ",
+            "the major → the（弱形 /ðə/）が major に連結 [ðə ˈmeɪdʒər] ザ メイジャー",
+            "had requested → had（弱形 /həd/）が requested に連結 [həd rɪˈkwestɪd] ハド リクウェスティド",
+            "for over → for（弱形 /fər/）が over に連結 [fər ˈoʊvər] フォー オウバー"
+          ],
+          "kana": "ビフォー ザ メイジャー アップデイト、ザ コミューニティ ハド リクウェスティド ベター モド サポート フォー オウバー ア イアー"
+        },
+        {
+          "en": "The player had requested help before the enderman griefed his entire base.",
+          "ja": "エンドマンが彼の基地全体を荒らす前に、そのプレイヤーはヘルプをリクエストしていました。",
+          "ipa": "/ðə ˈpleɪər həd rɪˈkwestɪd ˈhɛlp bɪˈfɔːr ðə ˈɛndɚmən ɡriːft hɪz ɪnˈtaɪər ˈbeɪs/",
+          "linking": [
+            "had requested → had（弱形 /həd/）が requested に連結 [həd rɪˈkwestɪd] ハド リクウェスティド",
+            "requested help → 語末の d が help に連結 [rɪˈkwestɪd ˈhɛlp] リクウェスティド ヘルプ",
+            "Before the → before の r が the（弱形 /ðə/）に連結 [bɪˈfɔːr ðə] ビフォー ザ"
+          ],
+          "kana": "ザ プレイヤー ハド リクウェスティド ヘルプ ビフォー ザ エンダーマン グリーフト ヒズ エンタイア ベイス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been requesting",
+      "ipa": "/həz bɪn rɪˈkwestɪŋ/",
+      "examples": [
+        {
+          "en": "He has been requesting more storage space for his mining operation all month.",
+          "ja": "彼は1ヶ月間ずっと、採掘作業のためにもっとストレージスペースをリクエストし続けています。",
+          "ipa": "/hi həz bɪn rɪˈkwestɪŋ mɔːr ˈstɔrɪdʒ ˈspeɪs fər hɪz ˈmaɪnɪŋ ˌɑːpəˈreɪʃən ɔːl ˈmʌnθ/",
+          "linking": [
+            "has been → has（弱形 /həz/）が been（弱形 /bɪn/）に連結 [həz bɪn] ハズ ビン",
+            "requesting more → 語末の ŋ が more に続く [rɪˈkwestɪŋ mɔːr] リクウェスティング モア",
+            "for his → for（弱形 /fər/）が his に連結 [fər hɪz] フォー ヒズ",
+            "all month → all が month に続く [ɔːl ˈmʌnθ] オール マンス"
+          ],
+          "kana": "ヒー ハズ ビン リクウェスティング モア ストレッジ スペイス フォー ヒズ マイニング オペレイション オール マンス"
+        },
+        {
+          "en": "The admin has been requesting better player feedback on new server features since the last patch.",
+          "ja": "前回のパッチ以来、管理人は新しいサーバー機能に対してプレイヤーからのより良いフィードバックをリクエストし続けています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn rɪˈkwestɪŋ ˈbɛtər ˈpleɪər ˈfiːdbæk ɑn ˈnu ˈsɝːvər ˈfiːtʃɚz sɪns ðə ˈlæst ˈpætʃ/",
+          "linking": [
+            "has been → has（弱形 /həz/）が been（弱形 /bɪn/）に連結 [həz bɪn] ハズ ビン",
+            "requesting better → 語末の ŋ が better に続く [rɪˈkwestɪŋ ˈbɛtər] リクウェスティング ベター",
+            "on new → on が new に続く [ɑn ˈnu] オン ニュー",
+            "the last → the（弱形 /ðə/）が last に連結 [ðə ˈlæst] ザ ラスト"
+          ],
+          "kana": "ザ アドミン ハズ ビン リクウェスティング ベター プレイヤー フィードバック オン ニュー サーバー フィーチャーズ シンス ザ ラスト パッチ"
+        }
+      ]
+    }
+  ]
+}
