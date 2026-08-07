@@ -331,6 +331,96 @@
           "kana": "ゼイ ハド ビン バーリング アクセス トゥ ザ ネザー ファー デイズ トゥ カンテイン ザ ガスト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has barred",
+      "ipa": "/həz ˈbɑrd/",
+      "examples": [
+        {
+          "en": "I have barred the door with oak wood.",
+          "ja": "私はオーク材で扉を塞いだ。",
+          "ipa": "/aɪ ˈhəv ˈbɑrd ðə ˈdɔr wɪð ˈoʊk ˈwʊd/",
+          "linking": [
+            "have barred → 弱形 have /həv/；/v/ が /b/ に後続（consonant+consonant、連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ バード ザ ドア ウィズ オウク ウッド"
+        },
+        {
+          "en": "He has barred access to the Nether portal.",
+          "ja": "彼はネザーポータルへのアクセスを塞いだ。",
+          "ipa": "/hi ˈhəz ˈbɑrd ˈæksɛs tə ðə ˈnɛðɚ ˈpɔrtəl/",
+          "linking": [
+            "has barred → 弱形 has /həz/；/z/ が /æ/ に連結（consonant+vowel）[həz ˈæksɛs] ハズ アクセス",
+            "to は機能詞で弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ バード アクセス タ ザ ネザー ポータル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had barred",
+      "ipa": "/həd ˈbɑrd/",
+      "examples": [
+        {
+          "en": "She had barred the cave entrance before the creepers came.",
+          "ja": "クリーパーが来る前に、彼女はその洞窟の入口を塞いでいた。",
+          "ipa": "/ʃi ˈhəd ˈbɑrd ðə ˈkeɪv ˈɛntrəns bɪˈfɔr ðə ˈkripɚz keɪm/",
+          "linking": [
+            "had barred → 弱形 had /həd/；/d/ が /b/ に後続（consonant+consonant、連結なし）",
+            "the は弱形 /ðə/",
+            "nether for → 語末 /ɚ/ が for の初頭 /f/ に後続（consonant+consonant、連結なし）"
+          ],
+          "kana": "シー ハド バード ザ ケイヴ エントランス ビフォア ザ クリーパーズ ケイム"
+        },
+        {
+          "en": "We had barred the gate with iron.",
+          "ja": "私たちは鉄で門を塞いでいた。",
+          "ipa": "/wi ˈhəd ˈbɑrd ðə ˈɡeɪt wɪð ˈaɪɚn/",
+          "linking": [
+            "had barred → 弱形 had /həd/；/d/ が /b/ に後続（consonant+consonant、連結なし）",
+            "the は弱形 /ðə/",
+            "with iron → /ð/ が /aɪ/ に後続（consonant+vowel、連結なし）"
+          ],
+          "kana": "ウィー ハド バード ザ ゲイト ウィズ アイアン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been barring",
+      "ipa": "/həz bɪn ˈbɑrɪŋ/",
+      "examples": [
+        {
+          "en": "He has been barring the entrance all day.",
+          "ja": "彼は一日中その入口を塞いでいる。",
+          "ipa": "/hi ˈhəz bɪn ˈbɑrɪŋ ðə ˈɛntrəns ɔl ˈdeɪ/",
+          "linking": [
+            "has been → 弱形 has /həz/、been /bɪn/",
+            "been barring → /n/ が /b/ に後続（consonant+consonant、連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ ビン バーリング ザ エントランス オール デイ"
+        },
+        {
+          "en": "They have been barring the bridge to prevent mob crossing.",
+          "ja": "彼らはモブの渡河を防ぐため、橋を塞き続けている。",
+          "ipa": "/ðeɪ ˈhəv bɪn ˈbɑrɪŋ ðə ˈbrɪdʒ tə prɪˈvɛnt ˈmɑb ˈkrɔsɪŋ/",
+          "linking": [
+            "have been → 弱形 have /həv/、been /bɪn/",
+            "been barring → /n/ が /b/ に後続（consonant+consonant、連結なし）",
+            "the は弱形 /ðə/",
+            "to は機能詞で弱形 /tə/"
+          ],
+          "kana": "ザイ ハヴ ビン バーリング ザ ブリッジ タ プリベント モブ クロッシング"
+        }
+      ]
     }
   ]
 }
