@@ -309,6 +309,100 @@
           "kana": "ウィ ハド ビン レファレンシング アウトデイティド ヴァージョン インファーメーション ファー ザ プラギン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has referenced",
+      "ipa": "/həz ˈɹɛfərenst/",
+      "examples": [
+        {
+          "en": "I have referenced this tutorial countless times since I started playing Minecraft.",
+          "ja": "マインクラフトを始めてから、このチュートリアルを何度も参照しています。",
+          "ipa": "/aɪ həv ˈɹɛfərenst ðɪs ˈtuːtɔrɪəl ˈkaʊntləsli ˈtaɪmz sɪns aɪ ˈstɑrtɪd ˈpleɪɪŋ maɪnˈkræft/",
+          "linking": [
+            "have は弱形 /həv/",
+            "this は /ðɪs/",
+            "since は /sɪns/"
+          ],
+          "kana": "アイ ハヴ レファレンスト ディス チュートーリアル カウントレスリー タイムズ シンス アイ スターティド プレイング マインクラフト"
+        },
+        {
+          "en": "She has referenced every crafting recipe guide on the server this week.",
+          "ja": "彼女は今週、サーバー上のすべてのクラフトレシピガイドを参照してきた。",
+          "ipa": "/ʃi həz ˈɹɛfərenst ˈɛvri ˈkræftɪŋ ˈɹɛsɪpi ɡaɪd ɑn ðə ˈsɝːvər ðɪs ˈwik/",
+          "linking": [
+            "has は弱形 /həz/",
+            "every は /ˈɛvri/",
+            "guide の d が on に連結 [ɡaɪd ɑn] ガイド オン",
+            "the は弱形 /ðə/",
+            "this は /ðɪs/"
+          ],
+          "kana": "シー ハズ レファレンスト エヴリ クラフティング レシピ ガイド オン ザ サーバー ディス ウィック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had referenced",
+      "ipa": "/həd ˈɹɛfərenst/",
+      "examples": [
+        {
+          "en": "I had referenced the survival guide before I encountered the Ender Dragon.",
+          "ja": "エンダードラゴンに出会う前に、サバイバルガイドを参照していた。",
+          "ipa": "/aɪ həd ˈɹɛfərenst ðə sərˈvaɪvəl ɡaɪd bɪˈfɔr aɪ ɪnˈkaʊntərd ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/",
+            "guide の d が before に連結 [ɡaɪd bɪˈfɔr] ガイド ビフォー"
+          ],
+          "kana": "アイ ハド レファレンスト ザ サーヴァイヴァル ガイド ビフォー アイ エンカウンタード ザ エンダー ドラゴン"
+        },
+        {
+          "en": "They had referenced the old base design before starting the new construction.",
+          "ja": "彼らは新しい建設を開始する前に、古いベース設計を参照していた。",
+          "ipa": "/ðeɪ həd ˈɹɛfərenst ðə oʊld ˈbeɪs dɪˈzaɪn bɪˈfɔr ˈstɑrtɪŋ ðə ˈnu kənˈstrʌkʃən/",
+          "linking": [
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/",
+            "design の n が before に連結 [dɪˈzaɪn bɪˈfɔr] ディザイン ビフォー"
+          ],
+          "kana": "ザイ ハド レファレンスト ザ オウルド ベース ディザイン ビフォー スターティング ザ ニュー コンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been referencing",
+      "ipa": "/həz bɪn ˈɹɛfərənsɪŋ/",
+      "examples": [
+        {
+          "en": "I have been referencing the wiki constantly while building my redstone farm.",
+          "ja": "レッドストーンファームを建設しながら、ずっとウィキを参照している。",
+          "ipa": "/aɪ həv bɪn ˈɹɛfərənsɪŋ ðə ˈwɪki ˈkɑnstəntli waɪl ˈbɪldɪŋ maɪ ˈɹɛdˌstoʊn ˈfɑrm/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/",
+            "farm の m が結末（停止）"
+          ],
+          "kana": "アイ ハヴ ビン レファレンシング ザ ウィキー コンスタントリー ワイル ビルディング マイ レッドストーン ファーム"
+        },
+        {
+          "en": "She has been referencing different building styles for the past few days.",
+          "ja": "彼女はこの数日間、異なる建築スタイルを参照し続けている。",
+          "ipa": "/ʃi həz bɪn ˈɹɛfərənsɪŋ ˈdɪfərənt ˈbɪldɪŋ ˈstaɪlz ˈfɔr ðə pæst ˈfju ˈdeɪz/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "シー ハズ ビン レファレンシング ディファラント ビルディング スタイルズ ファー ザ パスト フュー デイズ"
+        }
+      ]
     }
   ]
 }
