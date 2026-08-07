@@ -264,6 +264,100 @@
           "kana": "シー ハド ビン オゥケイイング ファーム ディザインズ ビフォア エニワン エルス ロッド イン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has okayed",
+      "ipa": "/həz ˈoʊkeɪd/",
+      "examples": [
+        {
+          "en": "The admin has okayed the new spawn point location.",
+          "ja": "管理者が新しいスポーン地点を承認しました。",
+          "ipa": "/ðə ˈædmɪn həz ˈoʊkeɪd ðə ˈnu ˈspoʊn ˈpɔɪnt ˈloʊˌkeɪʃən/",
+          "linking": [
+            "The admin → The は弱形 /ðə/、admin は /ˈædmɪn/（子音+子音）",
+            "admin has → /n/ + /h/（子音+子音、連結なし）",
+            "has okayed → has は弱形 /həz/、okayed は /ˈoʊkeɪd/（子音+母音）[həzˈoʊkeɪd] ハズオゥケイド",
+            "the new → the は弱形 /ðə/、new は /nu/（子音+子音）"
+          ],
+          "kana": "ザ アドミン ハズ オゥケイド ザ ニュー スポーン ポイント ロケーション"
+        },
+        {
+          "en": "We have okayed all the decorations for the event.",
+          "ja": "イベント用の装飾をすべて承認しました。",
+          "ipa": "/wi həv ˈoʊkeɪd ˈɔl ðə ˌdɛkəˈreɪʃənz ˈfɔr ðə ɪˈvɛnt/",
+          "linking": [
+            "have okayed → have は弱形 /həv/、okayed は /ˈoʊkeɪd/（子音+母音）[həvˈoʊkeɪd] ハヴオゥケイド",
+            "all the → all は /ɔl/、the は弱形 /ðə/（子音+子音）",
+            "for the → for は弱形 /fɚ/、the も弱形 /ðə/（子音+子音）"
+          ],
+          "kana": "ウィ ハヴ オゥケイド オール ザ デコレーションズ フォー ザ イベント"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had okayed",
+      "ipa": "/həd ˈoʊkeɪd/",
+      "examples": [
+        {
+          "en": "The owner had okayed the terraforming before the players arrived.",
+          "ja": "プレイヤーが到着する前にオーナーは土地改造を承認していました。",
+          "ipa": "/ðə ˈoʊnɚ həd ˈoʊkeɪd ðə ˌtɛrəˈfɔrmɪŋ bɪˈfɔr ðə ˈpleɪərz əˈraɪvd/",
+          "linking": [
+            "The owner → The は弱形 /ðə/、owner は /ˈoʊnɚ/",
+            "owner had → /ɚ/ + /h/（子音+子音、連結なし）",
+            "had okayed → had は弱形 /həd/、okayed は /ˈoʊkeɪd/（子音+母音）[hədˈoʊkeɪd] ハドオゥケイド",
+            "before the → before は /bɪˈfɔr/（末尾 /ɚ/）、the は弱形 /ðə/（子音+子音）[bɪˈfɔr ðə] ビフォア ザ",
+            "players arrived → /z/ + /ə/（子音+母音）が連結 [ˈpleɪərz‿əˈraɪvd] プレイヤーズ アライぶド"
+          ],
+          "kana": "ザ オーナー ハド オゥケイド ザ テラフォーミング ビフォア ザ プレイヤーズ アライぶド"
+        },
+        {
+          "en": "They had okayed the expansion plan before the meeting started.",
+          "ja": "会議開始前に拡張計画を承認していました。",
+          "ipa": "/ðeɪ həd ˈoʊkeɪd ðə ɪkˈspænʃən plæn bɪˈfɔr ðə ˈmiːtɪŋ ˈstɑrtɪd/",
+          "linking": [
+            "had okayed → had は弱形 /həd/、okayed は /ˈoʊkeɪd/（子音+母音）[hədˈoʊkeɪd] ハドオゥケイド",
+            "the expansion → the は弱形 /ðə/、expansion は /ɪkˈspænʃən/（子音+子音）",
+            "before the → before は /bɪˈfɔr/（末尾 /ɚ/）、the は弱形 /ðə/（子音+子音）[bɪˈfɔr ðə] ビフォア ザ",
+            "the meeting → the は弱形 /ðə/、meeting は /ˈmiːtɪŋ/（子音+子音）"
+          ],
+          "kana": "ゼイ ハド オゥケイド ザ イクスパンション プラン ビフォア ザ ミーティング スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been okaying",
+      "ipa": "/həz bɪn ˈoʊkeɪɪŋ/",
+      "examples": [
+        {
+          "en": "She has been okaying new builds all morning.",
+          "ja": "彼女は朝からずっと新しいビルドを承認し続けています。",
+          "ipa": "/ʃi həz bɪn ˈoʊkeɪɪŋ ˈnu ˈbɪldz ˈɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/（子音+子音）[həz bɪn] ハズ ビン",
+            "been okaying → been は /bɪn/（末尾 /n/）、okaying は /ˈoʊkeɪɪŋ/（初頭 /oʊ/、子音+母音）[bɪnˈoʊkeɪɪŋ] ビンオゥケイイング",
+            "builds all → /z/ + /ɔ/（子音+母音）が連結 [ˈbɪldz‿ˈɔl] ビルズ オール"
+          ],
+          "kana": "シー ハズ ビン オゥケイイング ニュー ビルズ オール モーニング"
+        },
+        {
+          "en": "The moderators have been okaying player suggestions since the server started.",
+          "ja": "モデレーターはサーバー開始以来、プレイヤーの提案を承認し続けています。",
+          "ipa": "/ðə ˈmɑdəˌreɪtɚz həv bɪn ˈoʊkeɪɪŋ ˈpleɪɚ səˈdʒɛstʃənz sɪns ðə ˈsɝvɚ ˈstɑrtɪd/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/（子音+子音）[həv bɪn] ハヴ ビン",
+            "been okaying → been は /bɪn/（末尾 /n/）、okaying は /ˈoʊkeɪɪŋ/（初頭 /oʊ/、子音+母音）[bɪnˈoʊkeɪɪŋ] ビンオゥケイイング",
+            "since the → since は /sɪns/（末尾 /s/）、the は弱形 /ðə/（子音+子音）[sɪns ðə] シンス ザ"
+          ],
+          "kana": "ザ マダレイターズ ハヴ ビン オゥケイイング プレイヤー サジェスションズ シンス ザ サーバー スターティド"
+        }
+      ]
     }
   ]
 }
