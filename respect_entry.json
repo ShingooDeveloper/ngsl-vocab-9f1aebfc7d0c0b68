@@ -361,6 +361,116 @@
           "kana": "シー ハド ビン リスペクティング ザ ケイブ シスタムズ ジオロジカル ストラクチャー ファー ウィークス ビフォア オウプニング イタップ トゥ アザーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has respected",
+      "ipa": "/həz rɪˈspɛktəd/",
+      "examples": [
+        {
+          "en": "The veteran player has respected this community's traditions for five years.",
+          "ja": "退役プレイヤーがこのコミュニティの伝統を5年間尊重してきました。",
+          "ipa": "/ðə ˈvɛtərən ˈpleɪɚ həz rɪˈspɛktəd ðɪs kəˈmjuːnətiz trəˈdɪʃənz fɔr faɪv jɪrz/",
+          "linking": [
+            "veteran player → 語末の /n/ が player の初頭 /p/ に続く（子音+子音）",
+            "player has → 語末の /ɚ/ が has の初頭 /h/ に続く（子音+子音）、has は弱形 /həz/",
+            "respected this → 語末の /əd/ の /d/ が this の初頭 /ð/ に続く（子音+子音）",
+            "community's traditions → 語末の /z/ が traditions の初頭 /t/ に続く（子音+子音）",
+            "for five → for は弱形 /fɚ/"
+          ],
+          "kana": "ザ ベテラン プレイアー ハズ リスペクティッド ディス コミュニティーズ トラディションズ フォー ファイヴ イアーズ"
+        },
+        {
+          "en": "We have respected the boundaries of neighboring bases since we joined the server.",
+          "ja": "サーバーに参加してからずっと隣接するベースの境界を尊重しています。",
+          "ipa": "/wi həv rɪˈspɛktəd ðə ˈbaʊndɚiz əv ˈneɪbɚɪŋ ˈbeɪsɪz sɪns wi dʒɔɪnd ðə ˈsɝːvɚ/",
+          "linking": [
+            "have respected → have は弱形 /həv/",
+            "respected the → 語末の /əd/ の /d/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "boundaries of → 語末の /z/ が of の初頭 /ə/ に連結 [ˈbaʊndɚiz əv] バウンダリーズ アヴ、of は弱形 /əv/",
+            "of neighboring → 語末の /v/ が neighboring の初頭 /n/ に続く（子音+子音）",
+            "joined the → 語末の /d/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ リスペクティッド ザ バウンダリーズ アヴ ネイバアリング ベイシズ シンス ウィ ジョインド ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had respected",
+      "ipa": "/hæd rɪˈspɛktəd/",
+      "examples": [
+        {
+          "en": "By the time the griefing incident occurred, the builders had respected the monument for years.",
+          "ja": "グリーフ事件が起こるまでに、ビルダーたちは何年もモニュメントを尊重していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈɡrifɪŋ ˈɪnsɪdənt əˈkɝːd | ðə ˈbɪldɚz hæd rɪˈspɛktəd ðə ˈmɑːnjuːmənt fɚ jɪrz/",
+          "linking": [
+            "By the → the は弱形 /ðə/",
+            "time the → 語末の /m/ が the の初頭 /ð/ に続く（子音+子音）",
+            "incident occurred → 語末の /t/ が occurred の初頭 /ə/ に連結 [ˈɪnsɪdənt əˈkɝːd] インシデント オカード",
+            "builders had → 語末の /z/ が had の初頭 /h/ に続く（子音+子音）",
+            "had respected → had は弱形 /əd/（一般的に文中）",
+            "respected the → 語末の /əd/ の /d/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "for years → for は弱形 /fɚ/"
+          ],
+          "kana": "バイ ザ タイム ザ グリーフィング インシデント オカード、ザ ビルダーズ ハド リスペクティッド ザ モニュメント ファー イアーズ"
+        },
+        {
+          "en": "Before entering the restricted zone, he had respected all mining regulations.",
+          "ja": "禁止ゾーンに進入する前に、彼は採掘規則をすべて尊重していました。",
+          "ipa": "/bɪˈfɔr ˈɛntərɪŋ ðə rɪˈstrɪktəd ˈzoʊn | hi hæd rɪˈspɛktəd ɔl ˈmaɪnɪŋ ˌrɛɡjəˈleɪʃənz/",
+          "linking": [
+            "entering the → 語末の /ŋ/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "restricted zone → 語末の /əd/ の /d/ が zone の初頭 /z/ に続く（子音+子音）",
+            "he had → had は弱形 /əd/ または /hæd/（やや強調）",
+            "had respected → had と respected の結合",
+            "respected all → 語末の /əd/ の /d/ が all の初頭 /ɔ/ に連結 [rɪˈspɛktəd ɔl] リスペクティッド オール",
+            "all mining → 語末の /l/ が mining の初頭 /m/ に続く（子音+子音）"
+          ],
+          "kana": "ビフォア エントアリング ザ リストリクティッド ゾウン、ヒー ハド リスペクティッド オール マイニング レギュレイションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been respecting",
+      "ipa": "/həz bɪn rɪˈspɛktɪŋ/",
+      "examples": [
+        {
+          "en": "Alice has been respecting the environmental protection guidelines while building her sustainable base.",
+          "ja": "アリスは持続可能なベースを構築しながら、環境保護ガイドラインを尊重し続けています。",
+          "ipa": "/ˈælɪs həz bɪn rɪˈspɛktɪŋ ðə ɪnˌvaɪrənˈmɛntəl prəˈtɛkʃən ˈɡaɪdlaɪnz waɪl ˈbɪldɪŋ hɚ səˈsteɪnəbəl ˈbeɪs/",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/",
+            "been respecting → 語末の /n/ が respecting の初頭 /ɹ/ に続く（子音+子音）",
+            "respecting the → 語末の /ŋ/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "guidelines while → 語末の /z/ が while の初頭 /w/ に続く（子音+子音）",
+            "while building → 語末の /l/ が building の初頭 /b/ に続く（子音+子音）",
+            "building her → 語末の /ŋ/ が her の初頭 /h/ に続く（子音+子音）、her は弱形 /hɚ/",
+            "her sustainable → 語末の /ɚ/ が sustainable の初頭 /s/ に続く（子音+子音）"
+          ],
+          "kana": "アリス ハズ ビン リスペクティング ザ インバイアランメンタル プロテクション ガイドラインズ ワイル ビルディング ハー サステイナブル ベイス"
+        },
+        {
+          "en": "The miners have been respecting the ore regeneration cycle set by the administrators.",
+          "ja": "マイナーたちは管理者が設定した鉱石再生サイクルを尊重し続けています。",
+          "ipa": "/ðə ˈmaɪnɚz həv bɪn rɪˈspɛktɪŋ ðə ˈɔr ˌrɛdʒənəˈreɪʃən ˈsaɪkəl sɛt baɪ ðə ˌædmɪnɪsˈtreɪtɚz/",
+          "linking": [
+            "The miners → The は弱形 /ðə/",
+            "miners have → 語末の /z/ が have の初頭 /h/ に続く（子音+子音）、have は弱形 /həv/",
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/",
+            "been respecting → 語末の /n/ が respecting の初頭 /ɹ/ に続く（子音+子音）",
+            "respecting the → 語末の /ŋ/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "cycle set → 語末の /əl/ の /l/ が set の初頭 /s/ に続く（子音+子音）",
+            "set by → 語末の /t/ が by の初頭 /b/ に続く（子音+子音）",
+            "by the → the は弱形 /ðə/"
+          ],
+          "kana": "ザ マイナーズ ハヴ ビン リスペクティング ザ オア レジェネレイション サイカル セット バイ ザ アドミニストレイターズ"
+        }
+      ]
     }
   ]
 }
