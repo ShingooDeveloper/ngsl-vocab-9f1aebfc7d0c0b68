@@ -343,6 +343,104 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has shorted",
+      "ipa": "/həz ˈʃɔːrtəd/",
+      "examples": [
+        {
+          "en": "The circuit has shorted due to a wire touching the frame.",
+          "ja": "フレームに触れた配線のせいで回路がショートしました。",
+          "ipa": "/ðə ˈsɝːkɪt həz ˈʃɔːrtəd ˈduː tə ə ˈwaɪr ˈtʌtʃɪŋ ðə freɪm/",
+          "kana": "ザ サーキット ハズ ショーテッド デュー タ ア ワイアー タッチング ザ フレイム",
+          "linking": [
+            "the は弱形 /ðə/",
+            "circuit has: circuit の末尾 /t/ が has の初頭 /h/ に先立つため未開放 [kɪt̚ həz]",
+            "has は弱形 /həz/",
+            "to は弱形 /tə/",
+            "a は弱形 /ə/"
+          ]
+        },
+        {
+          "en": "Your redstone contraption has shorted again!",
+          "ja": "あなたのレッドストーン装置がまたショートしました!",
+          "ipa": "/jɔːr ˈrɛdˌstoʊn ˌkɑnˈtræpʃən həz ˈʃɔːrtəd əˈɡɛn/",
+          "kana": "ユアー レッドストーン コントラプション ハズ ショーテッド アゲン",
+          "linking": [
+            "your: /jɔːr/",
+            "has は弱形 /həz/",
+            "again: /əˈɡɛn/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had shorted",
+      "ipa": "/həd ˈʃɔːrtəd/",
+      "examples": [
+        {
+          "en": "The system had shorted before we could fix the problem.",
+          "ja": "問題を修正する前に、システムがショートしてしまいました。",
+          "ipa": "/ðə ˈsɪstəm həd ˈʃɔːrtəd bɪˈfɔr wiː ˈkʊd fɪks ðə ˈprɑbləm/",
+          "kana": "ザ システム ハド ショーテッド ビフォア ウィー クッド フィックス ザ プロブレム",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "before は /bɪˈfɔr/（強形）",
+            "could は弱形 /kəd/"
+          ]
+        },
+        {
+          "en": "By that time, the mechanism had shorted the entire circuit.",
+          "ja": "その時点までに、メカニズム全体が回路をショートさせていました。",
+          "ipa": "/baɪ ðæt ˈtaɪm ðə ˈmɛkənɪzəm həd ˈʃɔːrtəd ðə ənˈtaɪr ˈsɝːkɪt/",
+          "kana": "バイ ザット タイム ザ メカニズム ハド ショーテッド ザ エンタイアー サーキット",
+          "linking": [
+            "by: /baɪ/",
+            "that は /ðæt/（強形）",
+            "the は弱形 /ðə/（2回）",
+            "had は弱形 /həd/",
+            "entire は /ənˈtaɪr/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been shorting",
+      "ipa": "/həz bɪn ˈʃɔːrtɪŋ/",
+      "examples": [
+        {
+          "en": "The wire has been shorting the circuit for several minutes.",
+          "ja": "その配線が何分も前から回路をショートさせています。",
+          "ipa": "/ðə ˈwaɪr həz bɪn ˈʃɔːrtɪŋ ðə ˈsɝːkɪt fɔr ˈsɛvərəl ˈmɪnɪts/",
+          "kana": "ザ ワイアー ハズ ビン ショーティング ザ サーキット フォー セバラル ミニッツ",
+          "linking": [
+            "the は弱形 /ðə/",
+            "wire has: wire の末尾 /r/ が has の初頭 /h/ に先立つため未開放。has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fər/",
+            "several: /ˈsɛvərəl/"
+          ]
+        },
+        {
+          "en": "The damaged part has been shorting the redstone system all day.",
+          "ja": "損傷した部分が一日中レッドストーンシステムをショートさせています。",
+          "ipa": "/ðə ˈdæmɪdʒd pɑrt həz bɪn ˈʃɔːrtɪŋ ðə ˈrɛdˌstoʊn ˈsɪstəm ɔl ˈdeɪ/",
+          "kana": "ザ ダメージド パート ハズ ビン ショーティング ザ レッドストーン システム オール デイ",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "all: /ɔl/"
+          ]
+        }
+      ]
     }
   ]
 }
