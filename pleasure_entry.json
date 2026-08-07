@@ -229,6 +229,117 @@
           "kana": "ウィ スペント ザ アフターヌーン プレジャーリング イン エクスプロレーション アンド ディスカバリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has pleased",
+      "ipa": "/həz ˈplizd/",
+      "examples": [
+        {
+          "en": "This amazing world has pleased millions of players since its release.",
+          "ja": "この素晴らしい世界はリリース以来、何百万人ものプレイヤーを喜ばせてきました。",
+          "ipa": "/ðɪs əˈmeɪzɪŋ ˈwɝld həz ˈplizd ˈmɪljənz əv ˈpleɪɚz sɪns ɪts rɪˈlis/",
+          "linking": [
+            "This amazing → 語末子音 /s/ と amazing の /ə/ が連結しない（子音+母音、sは連結できない）",
+            "world has → 語末子音 /d/ と has の /h/ が連結しない（子音+子音）、has は弱形 /həz/",
+            "has pleased → has の /z/ と pleased の /p/ が連結しない（子音+子音）",
+            "pleased millions → pleased の語末子音 /d/ と millions の /m/ が連結しない（子音+子音）",
+            "millions of → millions の語末子音 /z/ と of の /ə/ が連結 [ˈmɪljənz əv]、of は弱形 /əv/"
+          ],
+          "kana": "ディス アメイジング ワールド ハズ プリーズド ミリオンズ アヴ プレイヤーズ シンス イッツ リリース"
+        },
+        {
+          "en": "The new adventure has pleased us ever since we started playing together.",
+          "ja": "その新しい冒険は、私たちが一緒にプレイを始めた時からずっと私たちを喜ばせてきました。",
+          "ipa": "/ðə ˈnu ədˈvɛntʃər həz ˈplizd əs ˈɛvər sɪns wi ˈstɑrtɪd ˈpleɪɪŋ təˈɡɛðər/",
+          "linking": [
+            "The new → The は弱形 /ðə/、new の /n/ と連結しない（子音+子音）",
+            "adventure has → adventure の語末子音 /r/ と has の /h/ が連結しない（子音+子音）、has は弱形 /həz/",
+            "has pleased → /z/ と /p/ が連結しない（子音+子音）",
+            "pleased us → pleased の語末子音 /d/ と us の /ə/ が連結 [ˈplizd əs]、us は弱形 /əs/",
+            "since we → 語末子音 /s/ と we の /w/ が連結しない（子音+子音）",
+            "playing together → playing の語末子音 /ŋ/ と together の /t/ が連結しない（子音+子音）、to は弱形 /tə/"
+          ],
+          "kana": "ザ ニュー アドベンチャー ハズ プリーズド アズ エバー シンス ウィ スターティド プレイング タゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had pleased",
+      "ipa": "/həd ˈplizd/",
+      "examples": [
+        {
+          "en": "Before the update arrived, the old version had pleased us for many seasons.",
+          "ja": "アップデートが到着する前に、古いバージョンは私たちを何シーズンもの間喜ばせていました。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpˌdeɪt əˈraɪvd | ðə oʊld ˈvɝʒən həd ˈplizd əs fɚ ˈmɛni ˈsizənz/",
+          "linking": [
+            "Before the → Before の語末子音 /r/ と the の /ð/ が連結しない（子音+子音）、the は弱形 /ðə/",
+            "the update → the は弱形 /ðə/、update の /ʌ/ と連結しない（子音+母音だが、th と ʌ は連結しない）",
+            "version had → version の語末子音 /n/ と had の /h/ が連結しない（子音+子音）、had は弱形 /həd/",
+            "had pleased → had の /d/ と pleased の /p/ が連結しない（子音+子音）",
+            "pleased us → pleased の語末子音 /d/ と us の /ə/ が連結 [ˈplizd əs]、us は弱形 /əs/",
+            "for many → for は弱形 /fɚ/、many の /m/ と連結しない（子音+子音）"
+          ],
+          "kana": "ビフォア ザ アップデイト アライヴド、ザ オウルド ヴァージョン ハド プリーズド アズ ファー メニ シーズンズ"
+        },
+        {
+          "en": "The peaceful builds had pleased everyone before the chaos of lag began.",
+          "ja": "平和な建築物は、ラグの混乱が始まる前にみんなを喜ばせていました。",
+          "ipa": "/ðə ˈpisful ˈbɪldz həd ˈplizd ˈɛvriwən bɪˈfɔr ðə ˈkeɪɑs əv læɡ bɪˈɡæn/",
+          "linking": [
+            "The peaceful → The は弱形 /ðə/、peaceful の /p/ と連結しない（子音+子音）",
+            "peaceful builds → peaceful の語末子音 /l/ と builds の /b/ が連結しない（子音+子音）",
+            "builds had → builds の語末子音 /z/ と had の /h/ が連結しない（子音+子音）、had は弱形 /həd/",
+            "had pleased → had の /d/ と pleased の /p/ が連結しない（子音+子音）",
+            "pleased everyone → pleased の語末子音 /d/ と everyone の /ɛ/ が連結 [ˈplizd ˈɛvriwən]",
+            "of lag → of は弱形 /əv/、lag の /l/ と連結しない（子音+子音）"
+          ],
+          "kana": "ザ ピースフル ビルズ ハド プリーズド エヴリワン ビフォア ザ ケイオス アヴ ラッグ ビギャン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been pleasuring",
+      "ipa": "/həz bɪn ˈplɛʒərɪŋ/",
+      "examples": [
+        {
+          "en": "We have been pleasuring ourselves with the creative freedom of building anything we imagine.",
+          "ja": "私たちは、想像できることなら何でも建てることができるという創造的な自由で自分たちを喜ばせ続けています。",
+          "ipa": "/wi həv bɪn ˈplɛʒərɪŋ ˌaʊrˈsɛlvz wɪð ðə kriˈeɪtɪv ˈfridəm əv ˈbɪldɪŋ ˈɛniθɪŋ wi ɪˈmædʒɪn/",
+          "linking": [
+            "We have → We は /wi/、have は弱形 /həv/。have と been は /v/ と /b/ で連結しない（子音+子音）",
+            "been pleasuring → been は弱形 /bɪn/、pleasuring の /p/ と連結しない（子音+子音）",
+            "pleasuring ourselves → pleasuring の語末子音 /ŋ/ と ourselves の /aʊ/ が連結しない（子音+二重母音）",
+            "with the → with の語末子音 /ð/ と the の /ð/ が連結しない（同じ子音）、the は弱形 /ðə/",
+            "the creative → the は弱形 /ðə/、creative の /k/ と連結しない（子音+子音）",
+            "creative freedom → creative の語末子音 /v/ と freedom の /f/ が連結しない（子音+子音）",
+            "of building → of は弱形 /əv/、building の /b/ と連結しない（子音+子音）",
+            "building anything → building の語末子音 /ŋ/ と anything の /ɛ/ が連結しない（子音+母音）"
+          ],
+          "kana": "ウィ ハヴ ビン プレジャーリング アワーセルブズ ウィズ ザ クリエイティヴ フリーダム アヴ ビルディング エニシング ウィ イマジン"
+        },
+        {
+          "en": "Players have been pleasuring in the endless possibilities of survival mode exploration.",
+          "ja": "プレイヤーたちは、サバイバルモード探索の無限の可能性に喜びを感じ続けています。",
+          "ipa": "/ˈpleɪɚz həv bɪn ˈplɛʒərɪŋ ɪn ðə ˈɛndləs pɑsəˈbɪləˌtiz əv sɚˈvaɪvəl moʊd ˌɛkspləˈreɪʃən/",
+          "linking": [
+            "Players have → have は弱形 /həv/、been と have は /v/ と /b/ で連結しない（子音+子音）",
+            "have been → /v/ と /b/ が連結しない（子音+子音）",
+            "been pleasuring → been は弱形 /bɪn/、pleasuring の /p/ と連結しない（子音+子音）",
+            "pleasuring in → pleasuring の語末子音 /ŋ/ と in の /ɪ/ が連結",
+            "in the → /n/ と the の /ð/ が連結しない（子音+子音）、the は弱形 /ðə/",
+            "the endless → the は弱形 /ðə/、endless の /ɛ/ と連結しない（子音+母音だが、th は連結しない）",
+            "of survival → of は弱形 /əv/、survival の /s/ と連結しない（子音+子音）",
+            "mode exploration → mode の語末子音 /d/ と exploration の /ɛ/ が連結"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン プレジャーリング イン ザ エンドレス ポッシビリティーズ アヴ サーバイバル モード エクスプロレーション"
+        }
+      ]
     }
   ]
 }
