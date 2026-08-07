@@ -367,6 +367,110 @@
           "kana": "シー ハド ビン セイビング ゲイム プログレス ファー マンズ ウェン シュ ファイナリー コンプリーティド ザ ワールド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has saved",
+      "ipa": "/həz ˈseɪvd/",
+      "examples": [
+        {
+          "en": "I have saved my world before the major update.",
+          "ja": "大規模なアップデートの前にワールドを保存しました。",
+          "ipa": "/aɪ həv ˈseɪvd maɪ ˈwɝld bɪˈfɔːr ðə ˈmeɪdʒɚ ʌpˈdeɪt/",
+          "linking": [
+            "have は弱形 /həv/ で saved に続く [həv ˈseɪvd] ハヴ セイヴド",
+            "saved my → /d/ + /m/ (consonant+consonant、連結なし)",
+            "my world → /aɪ/ + /w/ (vowel+consonant、連結なし)",
+            "the は弱形 /ðə/",
+            "before the → /r/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハヴ セイヴド マイ ワールド ビフォー ザ メイジャー アップデイト"
+        },
+        {
+          "en": "She has saved enough diamonds to craft advanced tools.",
+          "ja": "彼女は高度なツールをクラフトするのに十分なダイヤを貯めました。",
+          "ipa": "/ʃi həz ˈseɪvd ɪˈnʌf ˈdaɪməndz tu ˈkræft ədˈvænst ˈtulz/",
+          "linking": [
+            "has は弱形 /həz/ で saved に続く [həz ˈseɪvd] ハズ セイヴド",
+            "saved enough → /d/ + /ɪ/ (consonant+consonant、連結なし)",
+            "diamonds to → /z/ + /t/ (consonant+consonant、連結なし)、to は弱形 /tu/",
+            "to craft → /u/ + /k/ (vowel+consonant、連結なし)"
+          ],
+          "kana": "シー ハズ セイヴド イナフ ダイアマンズ トゥー クラフト アドヴァンスト トゥールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had saved",
+      "ipa": "/həd ˈseɪvd/",
+      "examples": [
+        {
+          "en": "He had saved the crops before the rain destroyed the farm.",
+          "ja": "雨が農場を破壊する前に彼は農作物を保存していました。",
+          "ipa": "/hi həd ˈseɪvd ðə ˈkrɑːps bɪˈfɔːr ðə ˈreɪn dɪˈstrɔɪd ðə ˈfɑːrm/",
+          "linking": [
+            "had は弱形 /həd/ で saved に続く [həd ˈseɪvd] ハド セイヴド",
+            "saved the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "the crops → /ə/ + /k/ (consonant+consonant、連結なし)",
+            "before the → /r/ + /ð/ (consonant+consonant、連結なし)",
+            "rain destroyed → /n/ + /d/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヒー ハド セイヴド ザ クロップス ビフォー ザ レイン ディストロイド ザ ファーム"
+        },
+        {
+          "en": "They had saved their progress before the server crashed.",
+          "ja": "サーバーがクラッシュする前に彼らは進捗を保存していました。",
+          "ipa": "/ðeɪ həd ˈseɪvd ðɛr ˈprɑːɡrɛs bɪˈfɔːr ðə ˈsɚvɚ kræʃt/",
+          "linking": [
+            "had は弱形 /həd/ で saved に続く [həd ˈseɪvd] ハド セイヴド",
+            "saved their → /d/ + /ð/ (consonant+consonant、連結なし)",
+            "their progress → /r/ + /p/ (consonant+consonant、連結なし)",
+            "before the → /r/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "the server → /ə/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザイ ハド セイヴド ザー プログレス ビフォー ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been saving",
+      "ipa": "/həz bɪn ˈseɪvɪŋ/",
+      "examples": [
+        {
+          "en": "I have been saving blocks for the new castle building project.",
+          "ja": "新しい城の建築プロジェクトのためにブロックを集めています。",
+          "ipa": "/aɪ həv bɪn ˈseɪvɪŋ ˈblɑːks fɚ ðə ˈnju ˈkæsəl ˈbɪldɪŋ ˈprɑːdʒɛkt/",
+          "linking": [
+            "have は弱形 /həv/ で been に続く [həv bɪn] ハヴ ビン",
+            "been saving → /n/ + /s/ (consonant+consonant、連結なし)、been は弱形 /bɪn/",
+            "saving blocks → /ŋ/ + /b/ (consonant+consonant、連結なし)",
+            "blocks for → /s/ + /f/ (consonant+consonant、連結なし)",
+            "for は機能語で弱形 /fɚ/",
+            "for the → /r/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハヴ ビン セイビング ブロックス ファー ザ ニュー キャッスル ビルディング プロジェクト"
+        },
+        {
+          "en": "She has been saving materials all week for the enchanting setup.",
+          "ja": "彼女は週中ずっとエンチャント設置用の材料を集めています。",
+          "ipa": "/ʃi həz bɪn ˈseɪvɪŋ məˈtɪrɪəlz ɔːl ˈwik fɚ ðə ɪnˈtʃæntɪŋ ˈsɛtʌp/",
+          "linking": [
+            "has は弱形 /həz/ で been に続く [həz bɪn] ハズ ビン",
+            "been saving → /n/ + /s/ (consonant+consonant、連結なし)、been は弱形 /bɪn/",
+            "saving materials → /ŋ/ + /m/ (consonant+consonant、連結なし)",
+            "all week → /ɔːl/ + /w/ (vowel+consonant、連結なし)",
+            "week for → /k/ + /f/ (consonant+consonant、連結なし)",
+            "for は機能語で弱形 /fɚ/",
+            "for the → /r/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ ビン セイビング マテリアルズ オール ウィーク ファー ザ インチャンティング セットアップ"
+        }
+      ]
     }
   ]
 }
