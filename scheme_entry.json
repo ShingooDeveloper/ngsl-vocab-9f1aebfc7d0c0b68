@@ -206,10 +206,8 @@
           "ja": "新しいトラップを計画することはサーバー管理の最も楽しい部分の1つです。",
           "ipa": "/ˈskiːmɪŋ ˈnu træps ɪz wʌn əv ðə ˈmoʊst fʌn pɑrts əv ˈsɝːvər ˌædmɪnɪˈstreɪʃən/",
           "linking": [
-            "scheming new → scheming の末尾 ŋ が new の初頭 n に... 実は scheming は /ˈskiːmɪŋ/ で末尾 ŋ、new は /nju/ で子音 n で始まる。[ˈskiːmɪŋ ˈnu] スキーミング ニュー。",
-            "new traps → new は /nju/ で末尾 w（semi-vowel）、traps は /træps/。[ˈnu ˈtræps] ニュー トラップス。",
-            "is one → is の末尾 z が one の初頭 w に... one は /wʌn/ で初頭 w。[ɪz wʌn] イズ ワン。",
-            "of the → of の末尾 v が the の初頭ð に続く。of は弱形 /əv/、the は /ðə/。[əv ðə] アヴ ザ。"
+            "scheming new → 末尾 ŋ と初頭 n は鼻音同士で連結なし [ˈskiːmɪŋ ˈnu] スキーミング ニュー。",
+            "is one → is の末尾 z と one の初頭 w（半子音）は子音+半子音で連結なし [ɪz wʌn] イズ ワン。"
           ],
           "kana": "スキーミング ニュー トラップス イズ ワン アヴ ザ モウスト ファン パーツ アヴ サーバー アドミニストレーション"
         },
@@ -218,13 +216,196 @@
           "ja": "基地を改善する方法を計画している間に、近くの隠された洞窟を発見しました。",
           "ipa": "/waɪl ˈskiːmɪŋ weɪz tə ɪmˈpruːv ðə ˈbeɪs | wi dɪˈskʌvərd ə ˈhɪdən keɪv ˈnɪərˌbaɪ/",
           "linking": [
-            "scheming ways → scheming の末尾 ŋ が ways の初頭 w（semi-vowel）に続く [ˈskiːmɪŋ weɪz] スキーミング ウェイズ。",
-            "ways to → ways の末尾 z が to の弱形 /ə/ に連結 [weɪz tə] ウェイズ タ。",
-            "to improve → to は弱形 /tə/。improve に続く [tə ɪmˈpruːv] タ インプルーヴ。",
-            "improve the → improve の末尾 v が the の初頭 ð に続く。the は弱形 /ðə/。[ɪmˈpruːv ðə] インプルーヴ ザ。",
-            "discovered a → discovered の末尾 d が a の弱形 /ə/ に連結 [dɪˈskʌvərd ə] ディスカバード ア。"
+            "scheming ways → 末尾 ŋ と初頭 w は子音+半子音で連結なし [ˈskiːmɪŋ weɪz] スキーミング ウェイズ。",
+            "to improve → to は弱形 /tə/ [tə ɪmˈpruːv] タ インプルーヴ。",
+            "improve the → [ɪmˈpruːv ðə] インプルーヴ ザ。"
           ],
           "kana": "ワイル スキーミング ウェイズ タ インプルーヴ ザ ベース、ウィ ディスカバード ア ヒデン ケイヴ ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is scheming",
+      "ipa": "/ɪz ˈskiːmɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is scheming a way to trap the Ender Dragon safely.",
+          "ja": "スティーブはエンダー ドラゴンを安全にトラップする方法を計画しています。",
+          "ipa": "/stiv ɪz ˈskiːmɪŋ ə weɪ tə træp ðə ˈɛndər ˈdræɡən ˈseɪfli/",
+          "linking": [
+            "is scheming → is の末尾 z と scheming の初頭 s は子音+子音で連結なし [ɪz ˈskiːmɪŋ] イズ スキーミング。",
+            "to trap → to は弱形 /tə/ [tə ˈtræp] タ トラップ。"
+          ],
+          "kana": "スティーヴ イズ スキーミング ア ウェイ タ トラップ ザ エンダー ドラゴン セーフリー"
+        },
+        {
+          "en": "Players are scheming a defense against the next raid.",
+          "ja": "プレイヤーたちは次の襲撃に対する防御を計画しています。",
+          "ipa": "/ˈpleɪərz ɑr ˈskiːmɪŋ ə dɪˈfɛns əˈɡɛnst ðə nɛkst ˈreɪd/",
+          "linking": [
+            "are scheming → are は弱形 /ɑr/。末尾 r と scheming の初頭 s は子音+子音で連結なし [ɑr ˈskiːmɪŋ] アー スキーミング。",
+            "against the → [əˈɡɛnst ðə] アゲンスト ザ。"
+          ],
+          "kana": "プレイヤーズ アー スキーミング ア ディフェンス アゲンスト ザ ネクスト レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was scheming",
+      "ipa": "/wəz ˈskiːmɪŋ/",
+      "examples": [
+        {
+          "en": "I was scheming the perfect mining strategy when a creeper exploded.",
+          "ja": "クリーパーが爆発したとき、私は完璧な採掘戦略を計画していました。",
+          "ipa": "/aɪ wəz ˈskiːmɪŋ ðə ˈpɝːfɪkt ˈmaɪnɪŋ ˈstrætədʒi wɛn ə ˈkripər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was scheming → was は弱形 /wəz/。末尾 z と scheming の初頭 s は子音+子音で連結なし [wəz ˈskiːmɪŋ] ワズ スキーミング。",
+            "scheming the → [ˈskiːmɪŋ ðə] スキーミング ザ。"
+          ],
+          "kana": "アイ ワズ スキーミング ザ パーフェクト マイニング ストラタジー ウェン ア クリーパー イクスプロウディド"
+        },
+        {
+          "en": "They were scheming how to defend our base before the attack began.",
+          "ja": "攻撃が始まる前に、彼らは私たちの基地を守る方法を計画していました。",
+          "ipa": "/ðeɪ wɚ ˈskiːmɪŋ haʊ tə dɪˈfɛnd ˈaʊɚ ˈbeɪs bɪˈfɔr ðə əˈtæk bɪˈɡæn/",
+          "linking": [
+            "were scheming → were は弱形 /wɚ/。末尾 r と scheming の初頭 s は子音+子音で連結なし [wɚ ˈskiːmɪŋ] ウァ スキーミング。",
+            "to defend → to は弱形 /tə/ [tə dɪˈfɛnd] タ ディフェンド。"
+          ],
+          "kana": "ゼイ ウァ スキーミング ハウ タ ディフェンド アワー ベース ビフォー ザ アタック ビガン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been scheming",
+      "ipa": "/hæd bɪn ˈskiːmɪŋ/",
+      "examples": [
+        {
+          "en": "We had been scheming for hours when we finally found the perfect location.",
+          "ja": "完璧な場所を最終的に見つけたとき、私たちは何時間も計画していました。",
+          "ipa": "/wi hæd bɪn ˈskiːmɪŋ fɔr ˈaʊərz wɛn wi ˈfaɪnəli faʊnd ðə ˈpɜːrfɪkt ˌloʊˈkeɪʃən/",
+          "linking": [
+            "had been → had は弱形 /həd/。末尾 d が been の初頭 b に未開放で続く [həd̚ bɪn] ハド ビン。",
+            "been scheming → [bɪn ˈskiːmɪŋ] ビン スキーミング。"
+          ],
+          "kana": "ウィ ハド ビン スキーミング フォー アワーズ ウェン ウィ ファイナリー ファウンド ザ パーフェクト ロケーション"
+        },
+        {
+          "en": "He had been scheming the redstone mechanism for days before it finally worked.",
+          "ja": "最終的に機能する前に、彼は数日間レッドストーン メカニズムを計画していました。",
+          "ipa": "/hi hæd bɪn ˈskiːmɪŋ ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm fɔr deɪz bɪˈfɔr ɪt ˈfaɪnəli ˈwɜːrkt/",
+          "linking": [
+            "had been → had は弱形 /həd/。末尾 d が been の初頭 b に未開放で続く [həd̚ bɪn] ハド ビン。",
+            "been scheming → [bɪn ˈskiːmɪŋ] ビン スキーミング。"
+          ],
+          "kana": "ヒー ハド ビン スキーミング ザ レッドストーン メカニズム フォー デイズ ビフォー イット ファイナリー ワーキット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has schemed",
+      "ipa": "/həz ˈskiːmd/",
+      "examples": [
+        {
+          "en": "Steve has schemed the perfect trap for creepers in his base.",
+          "ja": "スティーブは自分の基地でクリーパー用の完璧なトラップを企てました。",
+          "ipa": "/stiv həz ˈskiːmd ðə ˈpɜːrfɪkt træp fɔr ˈkriːpərz ɪn hɪz ˈbeɪs/",
+          "linking": [
+            "has schemed → has は弱形 /həz/。末尾 z が schemed の初頭 s に続く（子音+子音で連結なし）[həz ˈskiːmd] ハズ スキームド。",
+            "the perfect → the は弱形 /ðə/。末尾 ə と perfect の初頭 p は母音+子音で連結なし [ðə ˈpɜːrfɪkt] ザ パーフェクト。",
+            "for creepers → for は弱形 /fɚ/。末尾 r が creepers の初頭 k に続く（子音+子音で連結なし）[fɚ ˈkriːpərz] ファ クリーパーズ。",
+            "in his → 末尾 n と初頭 h は子音+子音で連結なし [ɪn hɪz] イン ヒズ。"
+          ],
+          "kana": "スティーヴ ハズ スキームド ザ パーフェクト トラップ ファ クリーパーズ イン ヒズ ベース"
+        },
+        {
+          "en": "They have schemed a complex security system using redstone blocks.",
+          "ja": "彼らはレッドストーン ブロックを使った複雑なセキュリティ システムを企てました。",
+          "ipa": "/ðeɪ həv ˈskiːmd ə ˈkɑmplɛks sɪˈkjʊrɪti ˈsɪstəm ˈjuːzɪŋ ˈrɛdˌstoʊn blɑks/",
+          "linking": [
+            "have schemed → have は弱形 /həv/。末尾 v が schemed の初頭 s に続く（子音+子音で連結なし）[həv ˈskiːmd] ハヴ スキームド。",
+            "a complex → a は弱形 /ə/。末尾 ə と complex の初頭 k は母音+子音で連結なし [ə ˈkɑmplɛks] ア コンプレックス。",
+            "using redstone → using の末尾 ŋ と redstone の初頭 r は子音+子音で連結なし [ˈjuːzɪŋ ˈrɛdˌstoʊn] ユーズィング レッドストーン。"
+          ],
+          "kana": "ゼイ ハヴ スキームド ア コンプレックス セキュリティー システム ユーズィング レッドストーン ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had schemed",
+      "ipa": "/hæd ˈskiːmd/",
+      "examples": [
+        {
+          "en": "By the time the raid started, we had schemed three different escape routes.",
+          "ja": "襲撃が始まった時までに、私たちは3つの異なる逃げ道を企てていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd ˈstɑːrtɪd | wi həd ˈskiːmd θriː ˈdɪfərənt ɪˈskeɪp ˈraʊts/",
+          "linking": [
+            "By the → [baɪ ðə] バイ ザ。",
+            "the time → the は弱形 /ðə/。[ðə ˈtaɪm] ザ タイム。",
+            "had schemed → had は弱形 /həd/。末尾 d が schemed の初頭 s に続く（子音+子音で連結なし）[həd ˈskiːmd] ハド スキームド。",
+            "three different → three の末尾 r が different の初頭 d に続く（子音+子音で連結なし）[θriː ˈdɪfərənt] スリー ディファレント。",
+            "escape routes → escape の末尾 p が routes の初頭 r に続く（子音+子音で連結なし）[ɪˈskeɪp ˈraʊts] イスケイプ ラウツ。"
+          ],
+          "kana": "バイ ザ タイム ザ レイド スターティド | ウィ ハド スキームド スリー ディファレント イスケイプ ラウツ"
+        },
+        {
+          "en": "She had schemed a way to secretly expand the base before anyone found out.",
+          "ja": "誰かに見つかる前に、彼女は基地を秘密に拡張する方法を企てていました。",
+          "ipa": "/ʃi həd ˈskiːmd ə weɪ tə ˈsiːkrɪtli ɪkˈspænd ðə ˈbeɪs bɪˈfɔr ˈɛniˌwʌn faʊnd aʊt/",
+          "linking": [
+            "had schemed → had は弱形 /həd/。末尾 d が schemed の初頭 s に続く（子音+子音で連結なし）[həd ˈskiːmd] ハド スキームド。",
+            "a way → a は弱形 /ə/。way の初頭 w に続く（母音+半子音）[ə ˈweɪ] ア ウェイ。",
+            "to secretly → to は弱形 /tə/。[tə ˈsiːkrɪtli] タ シークリットリー。",
+            "expand the → expand の末尾 d が the の初頭 ð に未開放で続く [ɪkˈspænd̚ ðə] イクスパンド ザ。",
+            "found out → found の末尾 d が out の初頭 aʊ に連結 [ˈfaʊnd aʊt] ファウンド アウト。"
+          ],
+          "kana": "シー ハド スキームド ア ウェイ タ シークリットリー イクスパンド ザ ベース ビフォー エニーワン ファウンド アウト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been scheming",
+      "ipa": "/həz bɪn ˈskiːmɪŋ/",
+      "examples": [
+        {
+          "en": "He has been scheming ways to improve the farm automation all week.",
+          "ja": "彼は1週間ずっと農場の自動化を改善する方法を計画し続けています。",
+          "ipa": "/hi həz bɪn ˈskiːmɪŋ weɪz tə ɪmˈpruːv ðə ˈfɑːrm ˌɔːtəˈmeɪʃən ɔːl wik/",
+          "linking": [
+            "has been → has は弱形 /həz/。末尾 z が been の初頭 b に続く（子音+子音で連結なし）been は弱形 /bɪn/ [həz bɪn] ハズ ビン。",
+            "been scheming → been の末尾 n が scheming の初頭 s に続く（子音+子音で連結なし）[bɪn ˈskiːmɪŋ] ビン スキーミング。",
+            "ways to → ways の末尾 z が to の初頭 t に続く（子音+子音で連結なし）to は弱形 /tə/ [weɪz tə] ウェイズ タ。",
+            "to improve → to は弱形 /tə/。improve の初頭 ɪ に続く（子音+母音）[tə ɪmˈpruːv] タ インプルーヴ。",
+            "the farm → the は弱形 /ðə/。[ðə ˈfɑːrm] ザ ファーム。",
+            "farm automation → farm の末尾 m が automation の初頭 ɔ に連結 [ˈfɑːrm ˌɔːtəˈmeɪʃən] ファーム オートメーション。"
+          ],
+          "kana": "ヒー ハズ ビン スキーミング ウェイズ タ インプルーヴ ザ ファーム オートメーション オール ウィーク"
+        },
+        {
+          "en": "Players have been scheming a defense strategy against the latest monster update.",
+          "ja": "プレイヤーたちは最新のモンスター アップデートに対する防御戦略を計画し続けています。",
+          "ipa": "/ˈpleɪərz həv bɪn ˈskiːmɪŋ ə dɪˈfɛns ˈstrætədʒi əˈɡɛnst ðə ˈleɪtəst ˈmɑnstər ʌpˈdeɪt/",
+          "linking": [
+            "have been → have は弱形 /həv/。末尾 v が been の初頭 b に続く（子音+子音で連結なし）been は弱形 /bɪn/ [həv bɪn] ハヴ ビン。",
+            "been scheming → been の末尾 n が scheming の初頭 s に続く（子音+子音で連結なし）[bɪn ˈskiːmɪŋ] ビン スキーミング。",
+            "a defense → a は弱形 /ə/。defense の初頭 d に続く（母音+子音）[ə dɪˈfɛns] ア ディフェンス。",
+            "against the → against の末尾 t が the の初頭 ð に未開放で続く [əˈɡɛnst̚ ðə] アゲンスト ザ。",
+            "the latest → the は弱形 /ðə/。[ðə ˈleɪtəst] ザ レイテスト。",
+            "monster update → monster の末尾 r が update の初頭 ʌ に連結 [ˈmɑnstər ʌpˈdeɪt] モンスター アップデイト。"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン スキーミング ア ディフェンス ストラタジー アゲンスト ザ レイテスト モンスター アップデイト"
         }
       ]
     }
