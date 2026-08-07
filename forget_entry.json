@@ -269,6 +269,112 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has forgotten",
+      "ipa": "/həz fərˈɡɑtən/",
+      "examples": [
+        {
+          "en": "I have forgotten the location of my original spawn point.",
+          "ja": "私は最初のスポーンポイントの場所を忘れてしまいました。",
+          "ipa": "/aɪ həv fərˈɡɑtən ðə ˌloʊˈkeɪʃən əv maɪ əˈrɪdʒənəl ˈspoːn ˈpɔɪnt/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、forgotten に続く",
+            "forgotten の n が the の /ðə/ に続く（鼻音と歯音の自然な連結）",
+            "the は弱形 /ðə/ ザ",
+            "location の s が of に続く（自然な連結）",
+            "of は弱形 /əv/ アヴ"
+          ],
+          "kana": "アイ ハヴ フォーゴッテン ザ ロウケイション アヴ マイ ア リッジナル スポーン ポイント"
+        },
+        {
+          "en": "She has forgotten to craft a shelter before nightfall.",
+          "ja": "彼女は夜間になる前に避難所を作るのを忘れてしまいました。",
+          "ipa": "/ʃi həz fərˈɡɑtən tə ˈkræft ə ˈʃɛltɚ bɪˈfɔr ˈnaɪtˌfɔl/",
+          "linking": [
+            "has は弱形 /həz/ ハズ、forgotten に続く",
+            "forgotten の n が to の /t/ に続く（鼻音と歯茎破裂音の自然な連結）",
+            "to は弱形 /tə/ タ",
+            "craft の t が a の /ə/ に連結 [ˈkræftə] クラフト ア",
+            "shelter の t がフラップ化 [ˈʃɛlɾɚ] シェルター"
+          ],
+          "kana": "シー ハズ フォーゴッテン タ クラフト ア シェルター ビフォア ナイトフォール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had forgotten",
+      "ipa": "/həd fərˈɡɑtən/",
+      "examples": [
+        {
+          "en": "We had forgotten that we stored our rare resources in the old temple.",
+          "ja": "私たちは古い寺院に貴重なリソースを保存したことを忘れていました。",
+          "ipa": "/wi həd fərˈɡɑtən ðæt wi ˈstɔrd aʊr ˈrɛr rɪˈsɔrsɪz ɪn ðə ˈoʊld ˈtɛmpəl/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "forgotten の n が that の /ð/ に続く（自然な連結）",
+            "that の t が we の /w/ に続く（子音+子音で明確に分かれる）",
+            "stored の /d/ が our の初頭に続く（子音+母音で自然に連結）",
+            "resources の /z/ が in の /ɪ/ に続く（自然な連結）"
+          ],
+          "kana": "ウィ ハド フォーゴッテン ザット ウィ ストアード アワー レア リソーシーズ イン ザ オウルド テンプル"
+        },
+        {
+          "en": "They had forgotten the password to their trading hall by then.",
+          "ja": "その時までに、彼らは交易ホールのパスワードを忘れていました。",
+          "ipa": "/ðeɪ həd fərˈɡɑtən ðə ˈpæsˌwɝd tu ðɛr ˈtreɪdɪŋ ˈhɔl baɪ ðɛn/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "forgotten の n が the の /ðə/ に続く（自然な連結）",
+            "the は弱形 /ðə/ ザ",
+            "password の /d/ が to に続く（子音+子音で明確に分かれる）",
+            "to は弱形 /tə/ タ",
+            "their は /ðɛr/ ゼア、trading に続く"
+          ],
+          "kana": "ゼイ ハド フォーゴッテン ザ パスワード タ ゼア トレイディング ホール バイ ゼン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been forgetting",
+      "ipa": "/həz bɪn fərˈɡɛtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been forgetting to replant my wheat field.",
+          "ja": "私は小麦畑を植え直すのを忘れ続けています。",
+          "ipa": "/aɪ həv bɪn fərˈɡɛtɪŋ tə rɪˈplænt maɪ ˈwit ˈfild/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "forgetting の /ŋ/ が to に続く（鼻音と歯茎破裂音の自然な連結）",
+            "to は弱形 /tə/ タ",
+            "replant の /t/ が my に続く（子音+子音で明確に分かれる）",
+            "my は /maɪ/ マイ、wheat に続く"
+          ],
+          "kana": "アイ ハヴ ビン フォーゲッティング タ リプラント マイ ウィート フィールド"
+        },
+        {
+          "en": "He has been forgetting to gather wood for the furnace.",
+          "ja": "彼は炉の薪を集めるのを忘れ続けています。",
+          "ipa": "/hi həz bɪn fərˈɡɛtɪŋ tə ˈɡæðər ˈwʊd fɔr ðə ˈfɝnəs/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "been は弱形 /bɪn/ ビン",
+            "forgetting の /ŋ/ が to に続く（鼻音と歯茎破裂音の自然な連結）",
+            "to は弱形 /tə/ タ",
+            "gather の /ər/ が wood の /w/ に続く（r と w の自然な流れ）",
+            "wood の /d/ が for に続く（子音+子音で明確に分かれる）",
+            "for は弱形 /fər/ ファー、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー ハズ ビン フォーゲッティング タ ギャザー ウッド ファー ザ ファーネス"
+        }
+      ]
+    },
+    {
       "type": "past_perfect_progressive",
       "label": "過去完了進行形",
       "text": "had been forgetting",
