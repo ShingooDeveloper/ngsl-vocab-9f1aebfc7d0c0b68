@@ -343,12 +343,12 @@
       "type": "past_perfect_progressive",
       "label": "過去完了進行形（動詞）",
       "text": "had been noticing",
-      "ipa": "/həd bɪn ˈnoʊtɪsɪŋ/",
+      "ipa": "/həd bɪn ˈnoʊɾɪsɪŋ/",
       "examples": [
         {
           "en": "I had been noticing the warning signs for weeks before the server crash.",
           "ja": "サーバークラッシュの前の数週間、警告の兆候に気づいていた。",
-          "ipa": "/aɪ həd bɪn ˈnoʊtɪsɪŋ ðə ˈwɔːrnɪŋ ˈsaɪnz fɚ ˈwɪks bɪˈfɔːr ðə ˈsɜːrvɚ ˈkræʃ/",
+          "ipa": "/aɪ həd bɪn ˈnoʊɾɪsɪŋ ðə ˈwɔːrnɪŋ ˈsaɪnz fɚ ˈwɪks bɪˈfɔːr ðə ˈsɜːrvɚ ˈkræʃ/",
           "linking": [
             "I had → /aɪ/ + /h/ (vowel+consonant、連結なし)",
             "had been → had は弱形 /həd/、/d/ + /b/ (consonant+consonant、連結なし)",
@@ -363,7 +363,7 @@
         {
           "en": "They had been noticing a strange noise in the caves when I found them.",
           "ja": "私が彼らを見つけた時、彼らは洞窟の中で奇妙な音に気づいていた。",
-          "ipa": "/ðeɪ həd bɪn ˈnoʊtɪsɪŋ ə ˈstreɪndʒ ˈnɔɪz ɪn ðə ˈkeɪvz wɛn aɪ ˈfaʊnd ðɛm/",
+          "ipa": "/ðeɪ həd bɪn ˈnoʊɾɪsɪŋ ə ˈstreɪndʒ ˈnɔɪz ɪn ðə ˈkeɪvz wɛn aɪ ˈfaʊnd ðɛm/",
           "linking": [
             "They had → /eɪ/ + /h/ (vowel+consonant、連結なし)",
             "had been → /d/ + /b/ (consonant+consonant、連結なし)、had と been は弱形",
@@ -375,6 +375,96 @@
             "when I → 語末子音 /n/ が I の初頭音 /aɪ/ に連結 [wɛn aɪ] ウェン アイ"
           ],
           "kana": "ゼイ ハド ビン ノウティシング ア ストレインジ ノイズ イン ダ ケイヴズ ウェン アイ ファウンド ゼム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（動詞）",
+      "text": "has noticed",
+      "ipa": "/həz ˈnoʊɾɪst/",
+      "examples": [
+        {
+          "en": "I have noticed that creepers are spawning more frequently near my base lately.",
+          "ja": "最近、私の基地の近くでクリーパーがより頻繁にスポーンしているのに気づいている。",
+          "ipa": "/aɪ həv ˈnoʊɾɪst ðæt ˈkriːpɚz ɑːr ˈspoːnɪŋ ˈmoːr ˈfrikwəntli ˈnɪr maɪ ˈbeɪs ˈleɪtli/",
+          "linking": [
+            "have noticed → have は弱形 /həv/、/v/ + /n/ (consonant+consonant、連結なし)。noticed の語中 t はフラップ化 [ˈnoʊɾɪst] ノウリスト",
+            "creepers are → 語末子音 /z/ が are の初頭母音 /ɑ/ に連結 [ˈkriːpɚz ɑr] クリーパーズ アー",
+            "frequently near → /i/ + /n/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハヴ ノウリスト ザット クリーパーズ アー スポウニング モアー フリークエントリー ニアー マイ ベイス レイトリー"
+        },
+        {
+          "en": "She has noticed the redstone repeater pattern and fixed the timing issue.",
+          "ja": "彼女はレッドストーンリピーターのパターンに気づいて、タイミングの問題を修正した。",
+          "ipa": "/ʃi həz ˈnoʊɾɪst ðə ˈrɛdˌstoʊn rɪˈpiːtɚ ˈpætɚn ənd ˈfɪkst ðə ˈtaɪmɪŋ ˈɪʃuː/",
+          "linking": [
+            "has noticed → has は弱形 /həz/、noticed の語中 t はフラップ化",
+            "noticed the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "timing and → 語末子音 /ŋ/ が and の初頭音 /ə/ に連結 [ˈtaɪmɪŋ ənd] タイミング アンド"
+          ],
+          "kana": "シー ハズ ノウリスト ダ レッドストーン リピーター パターン アンド フィクスト ダ タイミング イシュー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（動詞）",
+      "text": "had noticed",
+      "ipa": "/həd ˈnoʊɾɪst/",
+      "examples": [
+        {
+          "en": "I had noticed the cave entrance before the ground collapsed beneath me.",
+          "ja": "地面が私の下で崩れ落ちる前に、洞窟の入口に気づいていた。",
+          "ipa": "/aɪ həd ˈnoʊɾɪst ðə ˈkeɪv ˈɛntrəns bɪˈfoːr ðə ˈɡraʊnd kəˈlæpst bɪˈniːθ mi/",
+          "linking": [
+            "had noticed → had は弱形 /həd/、noticed の語中 t はフラップ化 [ˈnoʊɾɪst] ノウリスト",
+            "noticed the → /t/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "ground collapsed → 語末子音 /d/ が collapsed の初頭子音 /k/ に続かず (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハド ノウリスト ダ ケイヴ エントランス ビフォア ダ グラウンド カラプスト ビニース ミー"
+        },
+        {
+          "en": "By the time you logged in, we had already noticed and fixed the issue.",
+          "ja": "あなたがログインした時までに、私たちは既に問題に気づいて修正していた。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ˈlɑːɡd ˈɪn | wi həd ɔːlˈrɛdi ˈnoʊɾɪst ənd ˈfɪkst ðə ˈɪʃuː/",
+          "linking": [
+            "by the → the は弱形 /ðə/",
+            "had noticed → had は弱形 /həd/、noticed の語中 t はフラップ化",
+            "noticed and → 語末子音 /t/ が and の初頭音 /ə/ に連結 [ˈnoʊɾɪst ənd] ノウリスタンド。and は弱形 /ənd/"
+          ],
+          "kana": "バイ ダ タイム ユー ラゴド イン、ウィ ハド オールレディ ノウリスタンド フィクスト ダ イシュー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（動詞）",
+      "text": "has been noticing",
+      "ipa": "/həz bɪn ˈnoʊɾɪsɪŋ/",
+      "examples": [
+        {
+          "en": "I have been noticing strange lag spikes in the server all morning.",
+          "ja": "朝中、サーバーで奇妙なラグスパイクに気づいているずっと。",
+          "ipa": "/aɪ həv bɪn ˈnoʊɾɪsɪŋ ˈstreɪndʒ ˈlæɡ ˈspaɪks ɪn ðə ˈsɜːrvɚ ɔːl ˈmɔːrnɪŋ/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/、/v/ + /b/ (consonant+consonant、連結なし)",
+            "been noticing → /n/ + /n/ (consonant+consonant、連結なし)。noticing の語中 t はフラップ化 [ˈnoʊɾɪsɪŋ] ノウリシング",
+            "lag spikes → /ɡ/ + /s/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アイ ハヴ ビン ノウリシング ストレインジ ラゴ スパイクス イン ダ サーヴァー オール モーニング"
+        },
+        {
+          "en": "We have been noticing increased mob activity near the spawnpoint lately.",
+          "ja": "最近、スポーンポイント近くで増加したモブ活動に気づいてずっと。",
+          "ipa": "/wi həv bɪn ˈnoʊɾɪsɪŋ ɪnˈkrist ˈmɑːb ækˈtɪvɪti ˈnɪr ðə ˈspoːnpɔɪnt ˈleɪtli/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/",
+            "been noticing → noticing の語中 t はフラップ化 [ˈnoʊɾɪsɪŋ] ノウリシング",
+            "noticing increased → /ŋ/ + /ɪ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィ ハヴ ビン ノウリシング インクリースト マブ アクティビティ ニアー ダ スポウンポイント レイトリー"
         }
       ]
     }
