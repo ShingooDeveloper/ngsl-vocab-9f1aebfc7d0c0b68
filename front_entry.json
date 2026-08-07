@@ -164,6 +164,96 @@
           "kana": "ザ ティーム ハド ビン フラントイング ザ ディフェンス ウェン ザ エネミーズ サープライズ アタック ケイム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has fronted",
+      "ipa": "/həz ˈfrʌntɪd/",
+      "examples": [
+        {
+          "en": "We have fronted many threats to survive in the Nether.",
+          "ja": "ネザーで生き残るため、多くの脅威に立ち向かいました。",
+          "ipa": "/wiː həv ˈfrʌntɪd ˈmɛni θrɛts tu sərˈvaɪvɪn ðə ˈnɛðər/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ に弱化。",
+            "survive の末尾 /v/ が in の /ɪ/ に連結し [sərˈvaɪvɪn] サーバイビン。",
+            "to は機能語で弱形 /tə/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "ウィー ハヴ フラントイド メニー スレッツ タ サーバイビン ザ ネザー"
+        },
+        {
+          "en": "Has the player fronted all the bosses in this world?",
+          "ja": "そのプレイヤーはこのワールドのすべてのボスに立ち向かったのか？",
+          "ipa": "/həz ðə ˈpleɪər ˈfrʌntɪd ɔl ðə ˈboʊsɪz ɪn ðɪs ˈwɝld/",
+          "linking": [
+            "Has は助動詞で弱形 /həz/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（2回）。"
+          ],
+          "kana": "ハズ ザ プレイヤー フラントイド オール ザ ボースィズ イン ディス ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had fronted",
+      "ipa": "/həd ˈfrʌntɪd/",
+      "examples": [
+        {
+          "en": "The army had fronted the invasion before the walls were destroyed.",
+          "ja": "壁が破壊される前に、軍は侵略に立ち向かっていました。",
+          "ipa": "/ðə ˈɑrmi həd ˈfrʌntɪd ðə ɪnˈveɪʒən bɪˈfɔr ðə ˈwɔlz wər dɪˈstrɔɪd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "were は助動詞で弱形 /wər/ に弱化。"
+          ],
+          "kana": "ザ アーミー ハド フラントイド ザ インベージョン ビフォア ザ ウォールズ ワー ディストロイド"
+        },
+        {
+          "en": "We had fronted the horde by sunset, so we could rest safely.",
+          "ja": "日没までにホードに立ち向かっていたので、安全に休めました。",
+          "ipa": "/wiː həd ˈfrʌntɪd ðə ˈhɔrd baɪ ˈsʌnˌsɛt soʊ wiː kəd ˈrɛst ˈseɪfli/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "could は助動詞で弱形 /kəd/ に弱化。"
+          ],
+          "kana": "ウィー ハド フラントイド ザ ホード バイ サンセット ソウ ウィー クッド レスト セーフリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been fronting",
+      "ipa": "/həz bɪn ˈfrʌntɪŋ/",
+      "examples": [
+        {
+          "en": "The warrior has been fronting the Wither since dawn.",
+          "ja": "戦士は夜明けからウィザーに立ち向かい続けています。",
+          "ipa": "/ðə ˈwɔriər həz bɪn ˈfrʌntɪŋ ðə ˈwɪðər sɪns ˈdɔn/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "has は助動詞で弱形 /həz/ に弱化。",
+            "been は弱形 /bɪn/。"
+          ],
+          "kana": "ザ ウォーリア ハズ ビン フラントイング ザ ウィザー シンス ドーン"
+        },
+        {
+          "en": "I have been fronting the endermen attacks all night long.",
+          "ja": "僕は一晩中、エンダーマンの攻撃に立ち向かい続けています。",
+          "ipa": "/aɪ həv bɪn ˈfrʌntɪŋ ðə ˈɛndərˌmɛn əˈtæks ɔl ˈnaɪt ˈlɔŋ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ に弱化。",
+            "been は弱形 /bɪn/。",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "アイ ハヴ ビン フラントイング ザ エンダーメン アタックス オール ナイト ロング"
+        }
+      ]
     }
   ]
 }
