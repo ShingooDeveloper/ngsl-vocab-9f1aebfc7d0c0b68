@@ -336,6 +336,103 @@
           "kana": "ビフォー ザ サーバー クラッシュト、ユー ハド ビン ゲイニング イクスピアリアンス ステディリー ウィズ エブリー タスク"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has gained",
+      "ipa": "/həz ˈɡeɪnd/",
+      "examples": [
+        {
+          "en": "We have gained enough resources to craft the final tools.",
+          "ja": "最終的なツールをクラフトするのに十分なリソースを得ました。",
+          "ipa": "/wi həv ˈɡeɪnd ɪˈnʌf ˈɹɛsɔɹsɪz tu ˈkɹæft ðə ˈfaɪnəl ˈtulz/",
+          "linking": [
+            "have は弱形 /həv/",
+            "gained enough → 語末子音 /d/ が enough の初頭母音 /ɪ/ に連結 [ˈɡeɪndɪ] ゲインディ",
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ハヴ ゲインディ イナフ レソーシズ トゥ クラフト ザ ファイナル トゥールズ"
+        },
+        {
+          "en": "Alex has gained the diamond level achievement after defeating the dragon.",
+          "ja": "ドラゴンを倒した後、Alexはダイヤモンドレベルの実績を得ました。",
+          "ipa": "/ˈælɪɡz həz ˈɡeɪnd ðə ˈdaɪmənd ˈlɛvəl əˈtʃivmənt ˈæftɚ dɪˈfitɪŋ ðə ˈdɹæɡən/",
+          "linking": [
+            "has は弱形 /həz/",
+            "gained the → 語末子音 /d/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/",
+            "diamond level → 語末子音 /d/ が level の初頭子音 /l/ に続く（consonant+consonant）",
+            "level achievement → 語末子音 /l/ が achievement の初頭母音 /ə/ に連結 [ˈlɛvəl əˈtʃivmənt] レベル アチーブメント",
+            "defeating the → 語末音 /ŋ/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/"
+          ],
+          "kana": "アレックス ハズ ゲインド ザ ダイモンド レベル アチーブメント アフター ディフィーティング ザ ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had gained",
+      "ipa": "/həd ˈɡeɪnd/",
+      "examples": [
+        {
+          "en": "Once we had gained the necessary materials, the base construction started.",
+          "ja": "必要な材料を得たら、ベースの建設が開始しました。",
+          "ipa": "/wʌns wi həd ˈɡeɪnd ðə ˈnɛsəsɛri məˈtɪɹiəlz | ðə ˈbeɪs kənˈstɹʌkʃən ˈstɑɹtəd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "gained the → 語末子音 /d/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/",
+            "base construction → 語末子音 /s/ が construction の初頭子音 /k/ に続く（consonant+consonant）"
+          ],
+          "kana": "ワンス ウィ ハド ゲインド ザ ネセサリー マテリアルズ、ザ ベース コンストラクション スターティド"
+        },
+        {
+          "en": "By that point, Steve had gained significant experience from years of mining.",
+          "ja": "その時点で、Steveは何年もの採掘から相当な経験を得ていました。",
+          "ipa": "/baɪ ðæt ˈpoɪnt | ˈstiv həd ˈɡeɪnd sɪɡˈnɪfɪkənt ɪkˈspɪɹiəns frəm ˈjɪɹz əv ˈmaɪnɪŋ/",
+          "linking": [
+            "had は弱形 /həd/",
+            "gained significant → 語末子音 /d/ が significant の初頭子音 /s/ に続く（consonant+consonant）",
+            "from は弱形 /frəm/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "バイ ザット ポイント、スティーヴ ハド ゲインド シグニフィカント イクスピアリアンス フラム イヤーズ アヴ マイニング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been gaining",
+      "ipa": "/həz bɪn ˈɡeɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The team has been gaining momentum by completing challenging missions daily.",
+          "ja": "チームは毎日チャレンジングなミッションを完了することで、勢いを増しています。",
+          "ipa": "/ðə ˈtim həz bɪn ˈɡeɪnɪŋ ˈmoʊməntəm baɪ kəmˈplitɪŋ ˈtʃælɪndʒɪŋ ˈmɪʃənz ˈdeɪli/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has been → 語末子音 /z/ が been の初頭子音 /b/ に続く（consonant+consonant）。has は弱形 /həz/, been も弱形 /bɪn/",
+            "gaining momentum → 語末音 /ŋ/ が momentum の初頭子音 /m/ に続く（consonant+consonant）",
+            "by は弱形 /bɪ/",
+            "completing missions → 語末音 /ŋ/ が missions の初頭子音 /m/ に続く（consonant+consonant）"
+          ],
+          "kana": "ザ ティーム ハズ ビン ゲイニング モーメンタム バイ コンプリーティング チャレンジング ミッションズ デイリー"
+        },
+        {
+          "en": "I have been gaining confidence while exploring the End dimension safely.",
+          "ja": "エンド次元を安全に探索しながら、自信を得ています。",
+          "ipa": "/aɪ həv bɪn ˈɡeɪnɪŋ ˈkɑnfɪdəns waɪl ɪkˈsploːɹɪŋ ðə ˈɛnd dɪˈmɛnʃən ˈseɪfli/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been gaining → 語末音 /n/ が gaining の初頭子音 /ɡ/ に続く（consonant+consonant）。been は弱形 /bɪn/",
+            "gaining confidence → 語末音 /ŋ/ が confidence の初頭子音 /k/ に続く（consonant+consonant）",
+            "exploring the → 語末音 /ŋ/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン ゲイニング カンフィデンス ワイル イクスプロアリング ザ エンド ディメンション セイフリー"
+        }
+      ]
     }
   ]
 }
