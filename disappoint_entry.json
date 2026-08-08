@@ -176,6 +176,184 @@
           "kana": "ゲッティング オンリー ダート ウェン サーチング ファ オア アット ナイト イズ ディサポインティング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is disappointing",
+      "ipa": "/ɪz ˌdɪsəˈpɔɪntɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is disappointing everyone by dying in the Nether during our raid.",
+          "ja": "スティーブがネザーで死ぬことで、レイド中にみんなをがっかりさせている。",
+          "ipa": "/stiːv ɪz ˌdɪsəˈpɔɪntɪŋ ˈɛvriˌwʌn baɪ ˈdaɪɪŋ ɪn ðə ˈnɛðɚ ˈdʊrɪŋ ˈaʊɚ reɪd/",
+          "linking": [
+            "is は弱形 /ɪz/、disappointing に続く",
+            "in は機能語で弱形 /ɪn/、the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "スティーブ イズ ディサポインティング エヴリワン バイ ダイイング イン ザ ネザー ジューリング アウアー レイド"
+        },
+        {
+          "en": "This continuous lag is disappointing all of us at the worst time.",
+          "ja": "この継続的なラグが今、私たちみんなをがっかりさせている。",
+          "ipa": "/ðɪs kənˈtɪnjuəs ˈlæɡ ɪz ˌdɪsəˈpɔɪntɪŋ ˈɔl əv ˈʌz æt ðə ˈwɝst ˈtaɪm/",
+          "linking": [
+            "is は弱形 /ɪz/、disappointing に続く",
+            "all の語末子音 /l/ が of（弱形 /əv/）の語頭母音 /ə/ に連結し、[ˈɔləv]"
+          ],
+          "kana": "ディス コンティニュアス ラグ イズ ディサポインティング オーラヴ アス アット ザ ワースト タイム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was disappointing",
+      "ipa": "/wəz ˌdɪsəˈpɔɪntɪŋ/",
+      "examples": [
+        {
+          "en": "The broken redstone machine was disappointing everyone while we tried to debug it.",
+          "ja": "壊れたレッドストーン機械は、私たちがデバッグしようとしている間ずっとみんなをがっかりさせていた。",
+          "ipa": "/ðə ˈbroʊkən ˈrɛdˌstoʊn məˈʃiːn wəz ˌdɪsəˈpɔɪntɪŋ ˈɛvriˌwʌn waɪl wi ˈtraɪd tə dɪˈbʌɡ ɪt̚/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "was は弱形 /wəz/、disappointing に続く",
+            "to は機能語で弱形 /tə/",
+            "it の語末 /t/ は未開放 [t̚]"
+          ],
+          "kana": "ザ ブロウクン レッストーン マシーン ワズ ディサポインティング エヴリワン ワイル ウィー トライド タ ディバッグ イット"
+        },
+        {
+          "en": "Alex was disappointing the team by ignoring the defense strategy during the attack.",
+          "ja": "アレックスは、攻撃中に防御戦略を無視して、チームをがっかりさせていた。",
+          "ipa": "/ˈæləks wəz ˌdɪsəˈpɔɪntɪŋ ðə ˈtiːm baɪ ɪɡˈnɔrɪŋ ðə dɪˈfɛns ˈstrætɪdʒi ˈdʊrɪŋ ðə əˈtæk/",
+          "linking": [
+            "was は弱形 /wəz/、disappointing に続く"
+          ],
+          "kana": "アレックス ワズ ディサポインティング ザ ティーム バイ イグノーリング ザ ディフェンス ストラテジー ジューリング ザ アタック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been disappointing",
+      "ipa": "/həd bɪn ˌdɪsəˈpɔɪntɪŋ/",
+      "examples": [
+        {
+          "en": "The poor mining strategy had been disappointing us for weeks before we changed our approach.",
+          "ja": "下手な採掘戦略は、私たちが方針を変える前の数週間、ずっと私たちをがっかりさせていた。",
+          "ipa": "/ðə ˈpʊr ˈmaɪnɪŋ ˈstrætɪdʒi həd bɪn ˌdɪsəˈpɔɪntɪŋ ˈʌs fɚ ˈwiːks bɪˈfɔr wi ˈtʃeɪndʒd ˈaʊɚ əˈproʊtʃ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "had は弱形 /həd/、been に続く",
+            "been は弱形 /bɪn/、disappointing に続く",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "ザ プア マイニング ストラテジー ハド ビン ディサポインティング アス ファ ウィークス ビフォア ウィー チェンジド アウアー アプローチ"
+        },
+        {
+          "en": "That useless tool had been disappointing players since its introduction to the server.",
+          "ja": "その役に立たないツールは、サーバーへの導入以来、プレイヤーをずっとがっかりさせていた。",
+          "ipa": "/ðæt ˈjuːsləs ˈtul həd bɪn ˌdɪsəˈpɔɪntɪŋ ˈpleɪərz sɪns ɪts ɪnˌtɹoˈdʌkʃən tə ðə ˈsɜrvər/",
+          "linking": [
+            "had は弱形 /həd/、been に続く",
+            "been は弱形 /bɪn/、disappointing に続く",
+            "to は機能語で弱形 /tə/",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザット ユースレス トゥール ハド ビン ディサポインティング プレイアーズ シンス イツ イントロダクション タ ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has disappointed",
+      "ipa": "/həz ˌdɪsəˈpɔɪntɪd/",
+      "examples": [
+        {
+          "en": "The chest has disappointed us with nothing inside.",
+          "ja": "その宝箱は中に何もなくて、私たちをがっかりさせた。",
+          "ipa": "/ðə ˈtʃɛst həz ˌdɪsəˈpɔɪntɪd ˈʌs wɪð ˈnʌθɪŋ ɪnˈsaɪd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、chest の /tʃ/ に連結",
+            "has は弱形 /həz/、disappointed に続く"
+          ],
+          "kana": "ザ チェスト ハズ ディサポインティッド アス ウィズ ナッシング インサイド"
+        },
+        {
+          "en": "Steve and Alex have disappointed many players by abandoning the base we built together.",
+          "ja": "スティーブとアレックスが、一緒に建てた基地を放棄することで多くのプレイヤーをがっかりさせた。",
+          "ipa": "/ˈstiːv ænd ˈæləks həv ˌdɪsəˈpɔɪntɪd ˈmɛni ˈpleɪərz baɪ əˈbændənɪŋ ðə ˈbeɪs wi ˈbɪlt təˈɡɛðɚ/",
+          "linking": [
+            "and は弱形 /ənd/、Alex に続く",
+            "have は弱形 /həv/、disappointed に続く",
+            "the は冠詞で弱形 /ðə/、base に続く"
+          ],
+          "kana": "スティーブ アンド アレックス ハヴ ディサポインティッド メニ プレイアーズ バイ アバンドニング ザ ベイス ウィー ビルト タゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had disappointed",
+      "ipa": "/həd ˌdɪsəˈpɔɪntɪd/",
+      "examples": [
+        {
+          "en": "The enderman had disappointed everyone before we could finish building the tower.",
+          "ja": "エンダーマンが塔を完成させる前に、みんなをがっかりさせていた。",
+          "ipa": "/ðə ˈɛndərˌmæn həd ˌdɪsəˈpɔɪntɪd ˈɛvɹɪˌwʌn bɪˈfoɚ wi ˈkʊd ˈfɪnɪʃ ˈbɪldɪŋ ðə ˈtaʊər/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、enderman に続く",
+            "had は弱形 /həd/、disappointed に続く"
+          ],
+          "kana": "ザ エンダーマン ハド ディサポインティッド エヴリワン ビフォア ウィ クッド フィニッシュ ビルディング ザ タウアー"
+        },
+        {
+          "en": "Our mining efforts had disappointed the new players who had just joined the server.",
+          "ja": "私たちの採掘努力は、ちょうど参加した新しいプレイヤーをがっかりさせていた。",
+          "ipa": "/ˈaʊɚ ˈmaɪnɪŋ ˈɛfərts həd ˌdɪsəˈpɔɪntɪd ðə ˈnuː ˈpleɪərz huː həd dʒʌst ˈdʒɔɪnd ðə ˈsɜrvər/",
+          "linking": [
+            "had は弱形 /həd/、disappointed に続く",
+            "the は冠詞で弱形 /ðə/、new に続く"
+          ],
+          "kana": "アウアー マイニング エフォーツ ハド ディサポインティッド ザ ニュー プレイアーズ フー ハド ジャスト ジョインド ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been disappointing",
+      "ipa": "/həz bɪn ˌdɪsəˈpɔɪntɪŋ/",
+      "examples": [
+        {
+          "en": "The lag has been disappointing all of us since the last server update.",
+          "ja": "ラグがこの最後のサーバーアップデート以来、ずっと私たちみんなをがっかりさせている。",
+          "ipa": "/ðə ˈlæɡ həz bɪn ˌdɪsəˈpɔɪntɪŋ ˈɔl əv ˈʌs sɪns ðə ˈlæst ˈsɜrvər ˈʌpˌdeɪt/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、lag に続く",
+            "has は弱形 /həz/、been に続く",
+            "been は弱形 /bɪn/、disappointing に続く",
+            "all の語末 /l/ が of（弱形 /əv/）の /ə/ に連結 [ˈɔləv]"
+          ],
+          "kana": "ザ ラグ ハズ ビン ディサポインティング オーラヴ アス シンス ザ ラスト サーバー アップデイト"
+        },
+        {
+          "en": "The broken crafting system has been disappointing players for the entire season.",
+          "ja": "壊れたクラフトシステムが、この季節全体を通じてずっとプレイヤーをがっかりさせている。",
+          "ipa": "/ðə ˈbroʊkən ˈkræftɪŋ ˈsɪstəm həz bɪn ˌdɪsəˈpɔɪntɪŋ ˈpleɪərz fɚ ði ənˈtaɪər ˈsiːzən/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、broken に続く",
+            "has は弱形 /həz/、been に続く",
+            "been は弱形 /bɪn/、disappointing に続く",
+            "for は機能語で弱形 /fɚ/"
+          ],
+          "kana": "ザ ブロウクン クラフティング システム ハズ ビン ディサポインティング プレイアーズ ファ ザ エンタイアー シーズン"
+        }
+      ]
     }
   ]
 }
