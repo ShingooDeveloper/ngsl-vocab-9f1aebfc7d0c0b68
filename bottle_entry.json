@@ -280,6 +280,96 @@
           "ja": "井戸が突然枯れる前に、彼女は一日中水を詰めていました。"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has bottled",
+      "ipa": "/hæz ˈbɑtəld/",
+      "examples": [
+        {
+          "en": "The player has bottled enough water for the Nether expedition.",
+          "ja": "プレイヤーはネザー遠征のために十分な水をボトル詰めしました。",
+          "ipa": "/ðə ˈpleɪər hæz ˈbɑtəld ɪˈnʌf ˈwɔtər ˈfɔr ðə ˈnɛðər ɪkˌspɪˈdɪʃən/",
+          "linking": [
+            "has は弱形 /həz/",
+            "bottled の末尾 d が enough の母音に連結 [ˈbɑtəldɪˈnʌf] ボティルディナフ",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ザ プレイヤー ハズ ボティルディナフ ウォーター フォー ザ ネザー エクスピディッション"
+        },
+        {
+          "en": "We have bottled all the potions for the raid.",
+          "ja": "私たちはレイドのためにすべてのポーションをボトル詰めしました。",
+          "ipa": "/wi həv ˈbɑtəld ɔl ðə ˈpoʊʃənz ˈfɔr ðə ˈreɪd/",
+          "linking": [
+            "have は弱形 /həv/",
+            "all の末尾 l が the に続く（子音+子音）",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ウィー ハヴ ボティルド オール ザ ポーションズ フォー ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had bottled",
+      "ipa": "/hæd ˈbɑtəld/",
+      "examples": [
+        {
+          "en": "By the time the dragon appeared, we had bottled all the healing potions.",
+          "ja": "ドラゴンが現れるまでに、私たちはすべてのヒーリングポーションをボトル詰めしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈdræɡən əˈpɪrd | wi hæd ˈbɑtəld ɔl ðə ˈhilɪŋ ˈpoʊʃənz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "all の末尾 l が the に続く（子音+子音）"
+          ],
+          "kana": "バイ ザ タイム ザ ドラゴン アピアード、ウィー ハド ボティルド オール ザ ヒーリング ポーションズ"
+        },
+        {
+          "en": "He had bottled the experience points before the server restarted.",
+          "ja": "彼はサーバーが再起動する前に経験ポイントをボトル詰めしていました。",
+          "ipa": "/hi hæd ˈbɑtəld ðə ɪkˈspɪriəns ˈpɔɪnts bɪˈfɔr ðə ˈsɜrvər rɪˈstɑrtəd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "bottled の末尾 d が the に続く（子音+子音）",
+            "before の末尾 r が the に連結 [bɪˈfɔr ðə] ビフォアザ"
+          ],
+          "kana": "ヒー ハド ボティルド ザ エクスピーアランス ポインツ ビフォアザ サーバー リスターティッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been bottling",
+      "ipa": "/hæz bɪn ˈbɑtəlɪŋ/",
+      "examples": [
+        {
+          "en": "The player has been bottling water since sunrise.",
+          "ja": "プレイヤーは日の出から水をボトル詰めしています。",
+          "ipa": "/ðə ˈpleɪər hæz bɪn ˈbɑtəlɪŋ ˈwɔtər sɪns ˈsʌnˌraɪz/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "bottling の末尾 ng が water に続く（ng+子音）"
+          ],
+          "kana": "ザ プレイヤー ハズ ビン ボティリング ウォーター シンス サンライズ"
+        },
+        {
+          "en": "We have been bottling potions for hours preparing for the raid.",
+          "ja": "私たちはレイドの準備のために何時間もポーションをボトル詰めしています。",
+          "ipa": "/wi həv bɪn ˈbɑtəlɪŋ ˈpoʊʃənz ˈfɔr ˈaʊərz prɪˈpɛrɪŋ ˈfɔr ðə ˈreɪd/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fɔr/ (第一、第二出現)"
+          ],
+          "kana": "ウィー ハヴ ビン ボティリング ポーションズ フォー アワーズ プリペアリング フォー ザ レイド"
+        }
+      ]
     }
   ]
 }
