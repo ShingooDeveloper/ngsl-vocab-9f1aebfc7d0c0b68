@@ -235,6 +235,198 @@
           "kana": "ビフォアー エンジニアリング ザ システム、ウィ ガザード オール ネセセリー マテリアルズ アンド チェック ザ アヴェイラブル スペイス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is engineering",
+      "ipa": "/ɪz ˌɛndʒɪˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "She is engineering the automatic farm to handle all the crops and animals efficiently.",
+          "ja": "彼女は、すべての作物と動物を効率的に処理するために、自動農場を設計しています。",
+          "ipa": "/ʃi ɪz ˌɛndʒɪˈnɪrɪŋ ðə ˌɔːtəˈmætɪk ˈfɑːrm tu ˈhændəl ɔːl ðə ˈkrɑːps ænd ˈænɪməlz ɪˈfɪʃəntli/",
+          "linking": [
+            "is engineering → is の弱形 /ɪz/ の語末子音 /z/ が engineering の母音に連結 [ɪz ˌɛndʒɪˈnɪrɪŋ] イズ エンジニアリング",
+            "engineering the → engineering の語末子音 /ŋ/ が the の弱形 /ðə/ に続く [ˌɛndʒɪˈnɪrɪŋ ðə] エンジニアリング ザ",
+            "farm to → farm の語末子音 /m/ が to の弱形 /tə/ に連結 [ˈfɑːrm tə] ファーム タ",
+            "all the → all の語末子音 /l/ が the の弱形 /ðə/ に連結 [ɔːl ðə] オール ザ"
+          ],
+          "kana": "シ イズ エンジニアリング ザ オートマティック ファーム トゥ ハンドル オール ザ クロップス アンド アニマルズ イフィシェントリー"
+        },
+        {
+          "en": "They are engineering a redstone contraption to automate the entire mining operation right now.",
+          "ja": "彼らは今、鉱業全体を自動化するためにレッドストーン装置を設計しています。",
+          "ipa": "/ðeɪ ɑːr ˌɛndʒɪˈnɪrɪŋ ə ˈrɛdˌstoʊn kənˈtræpʃən tu ˌɔːtəˈmeɪt ði ɪnˈtaɪər ˈmaɪnɪŋ ˌɑːpərˈeɪʃən ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are engineering → are の弱形 /ɚ/ が engineering の母音に続く [ɑːr ˌɛndʒɪˈnɪrɪŋ] アール エンジニアリング",
+            "engineering a → engineering の語末子音 /ŋ/ が a の弱形 /ə/ に続く [ˌɛndʒɪˈnɪrɪŋ ə] エンジニアリング ア",
+            "redstone contraption → redstone の語末子音 /n/ が contraption の母音に連結 [ˈrɛdˌstoʊn kənˈtræpʃən] レッドストーン コントラプション",
+            "mining operation → mining の語末子音 /ŋ/ が operation の母音に続く [ˈmaɪnɪŋ ˌɑːpərˈeɪʃən] マイニング アペレイション"
+          ],
+          "kana": "ゼイ アール エンジニアリング ア レッドストーン コントラプション トゥ オートメイト ディ インタイアー マイニング アペレイション ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was engineering",
+      "ipa": "/wəz ˌɛndʒɪˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "I was engineering the minecart track when a creeper suddenly destroyed everything in sight.",
+          "ja": "クリーパーが突然すべてを破壊したとき、私はマインカート線路を設計していました。",
+          "ipa": "/aɪ wəz ˌɛndʒɪˈnɪrɪŋ ðə ˈmaɪnˌkɑːrt ˈtræk wen ə ˈkriːpər ˈsʌdənli dɪˈstrɔɪd ˈɛvrɪθɪŋ ɪn ˈsaɪt/",
+          "linking": [
+            "was engineering → was の弱形 /wəz/ の語末子音 /z/ が engineering の母音に連結 [wəz ˌɛndʒɪˈnɪrɪŋ] ワズ エンジニアリング",
+            "engineering the → engineering の語末子音 /ŋ/ が the の弱形 /ðə/ に続く [ˌɛndʒɪˈnɪrɪŋ ðə] エンジニアリング ザ",
+            "when a → when の語末子音 /n/ が a の弱形 /ə/ に連結 [wen ə] ウェン ア",
+            "in sight → in の語末子音 /n/ が sight の母音に連結 [ɪn ˈsaɪt] イン サイト"
+          ],
+          "kana": "アイ ワズ エンジニアリング ザ マインカート トラック ウェン ア クリーパー サドゥンリー ディストロイド エブリシング イン サイト"
+        },
+        {
+          "en": "We were engineering the automatic smelter when we ran out of redstone dust.",
+          "ja": "レッドストーン粉が足りなくなったとき、私たちは自動製錬機を設計していました。",
+          "ipa": "/wi wɚ ˌɛndʒɪˈnɪrɪŋ ðə ˌɔːtəˈmætɪk ˈsmɛltər wen wi ˈræn ˈaʊt əv ˈrɛdˌstoʊn ˈdʌst/",
+          "linking": [
+            "were engineering → were の弱形 /wɚ/ が engineering の母音に続く [wɚ ˌɛndʒɪˈnɪrɪŋ] ワー エンジニアリング",
+            "engineering the → engineering の語末子音 /ŋ/ が the の弱形 /ðə/ に続く [ˌɛndʒɪˈnɪrɪŋ ðə] エンジニアリング ザ",
+            "ran out → ran の語末子音 /n/ が out の母音に連結 [ˈræn ˈaʊt] ラン アウト",
+            "out of → out の語末子音 /t/ が of の弱形 /əv/ に未開放で続く [ˈaʊt̚ əv] アウト アブ"
+          ],
+          "kana": "ウィ ワー エンジニアリング ザ オートマティック スメルター ウェン ウィ ラン アウト アブ レッドストーン ダスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been engineering",
+      "ipa": "/hæd bɪn ˌɛndʒɪˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we finished gathering materials, we had been engineering the farm for hours.",
+          "ja": "材料の収集を終えた時点で、私たちは何時間もの間、農場を設計していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃt ˈɡæðərɪŋ məˈtɪriəlz | wi həd bɪn ˌɛndʒɪˈnɪrɪŋ ðə ˈfɑːrm fɔr ˈaʊərz/",
+          "linking": [
+            "had been → had の弱形 /həd/ と been の弱形 /bɪn/ の語末子音 /n/ が engineering の母音に連結 [həd bɪn ˌɛndʒɪˈnɪrɪŋ] ハド ビン エンジニアリング",
+            "been engineering → been の語末子音が engineering に連結（既出）",
+            "engineering the → engineering の語末子音 /ŋ/ が the の弱形 /ðə/ に続く [ˌɛndʒɪˈnɪrɪŋ ðə] エンジニアリング ザ",
+            "farm for → farm の語末子音 /m/ が for の弱形 /fər/ に連結 [ˈfɑːrm fər] ファーム ファー"
+          ],
+          "kana": "バイ ザ タイム ウィ フィニッシュド ガザリング マテリアルズ、ウィ ハド ビン エンジニアリング ザ ファーム フォー アワーズ"
+        },
+        {
+          "en": "She had been engineering the automatic fishing farm when she discovered an even better design.",
+          "ja": "彼女がより良い設計を発見したとき、自動漁場を何時間も設計していました。",
+          "ipa": "/ʃi həd bɪn ˌɛndʒɪˈnɪrɪŋ ðə ˌɔːtəˈmætɪk ˈfɪʃɪŋ ˈfɑːrm wen ʃi dɪˈskʌvərd ən ˈiːvən ˈbɛtər dɪˈzaɪn/",
+          "linking": [
+            "had been → had の弱形 /həd/ と been の弱形 /bɪn/ の語末子音 /n/ が engineering の母音に連結 [həd bɪn ˌɛndʒɪˈnɪrɪŋ] ハド ビン エンジニアリング",
+            "engineering the → engineering の語末子音 /ŋ/ が the の弱形 /ðə/ に続く [ˌɛndʒɪˈnɪrɪŋ ðə] エンジニアリング ザ",
+            "discovered an → discovered の語末子音 /d/ が an の弱形 /ən/ に連結 [dɪˈskʌvərd ən] ディスカバード アン",
+            "even better → even の語末子音 /n/ が better の母音に連結 [ˈiːvən ˈbɛtər] イーブン ベター"
+          ],
+          "kana": "シ ハド ビン エンジニアリング ザ オートマティック フィシング ファーム ウェン シ ディスカバード アン イーブン ベター ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has engineered",
+      "ipa": "/həz ˌɛndʒɪˈnɪrd/",
+      "examples": [
+        {
+          "en": "We have engineered an amazing automatic farm and it works perfectly now.",
+          "ja": "私たちは素晴らしい自動農場を設計し、それが今完璧に機能しています。",
+          "ipa": "/wi həv ˌɛndʒɪˈnɪrd ən əˈmeɪzɪŋ ˌɔːtəˈmætɪk ˈfɑːrm ænd ɪt ˈwɝːks ˈpɝːfɪktli ˈnaʊ/",
+          "linking": [
+            "have engineered → have の弱形 /həv/ の語末子音 /v/ が engineered の母音 /ɛ/ に連結 [həv ˌɛndʒɪˈnɪrd] ハブ エンジニアード",
+            "engineered an → engineered の語末子音 /d/ が an の弱形 /ən/ に連結 [ˌɛndʒɪˈnɪrd ən] エンジニアード アン",
+            "farm and → farm の語末子音 /m/ が and の母音 /æ/ に連結 [ˈfɑːrm ænd] ファーム アンド",
+            "and it → and の語末子音 /d/ が it の母音 /ɪ/ に連結 [ænd ɪt] アンド イット"
+          ],
+          "kana": "ウィ ハブ エンジニアード アン アメイジング オートマティック ファーム アンド イット ワークス パーフェクトリー ナウ"
+        },
+        {
+          "en": "I have engineered three automatic farms and now they produce tons of resources daily.",
+          "ja": "私は3つの自動農場を設計しており、今彼らは毎日大量のリソースを生産しています。",
+          "ipa": "/aɪ həv ˌɛndʒɪˈnɪrd ˈθriː ˌɔːtəˈmætɪk ˈfɑːrmz ænd ˈnaʊ ðeɪ prəˈduːs ˈtʌnz əv ˈrɛsɚsɪz ˈdeɪli/",
+          "linking": [
+            "have engineered → have の弱形 /həv/ の語末子音 /v/ が engineered の母音に連結 [həv ˌɛndʒɪˈnɪrd] ハブ エンジニアード",
+            "farms and → farms の語末子音 /z/ が and の母音 /æ/ に連結 [ˈfɑːrmz ænd] ファームズ アンド",
+            "tons of → tons の語末子音 /z/ が of の弱形 /əv/ に連結 [ˈtʌnz əv] タンズ アブ",
+            "of resources → of の弱形 /əv/ の語末子音 /v/ が resources の母音に連結 [əv ˈrɛsɚsɪz] アブ レソースィズ"
+          ],
+          "kana": "アイ ハブ エンジニアード スリー オートマティック ファームズ アンド ナウ ゼイ プロデュース タンズ アブ レソースィズ デイリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had engineered",
+      "ipa": "/hæd ˌɛndʒɪˈnɪrd/",
+      "examples": [
+        {
+          "en": "After hours of work, she had engineered an automated system that harvested crops automatically.",
+          "ja": "何時間もの作業の後、彼女は自動的に作物を収穫する自動化システムを設計していました。",
+          "ipa": "/ˈæftər ˈaʊrz əv ˈwɝːk | ʃi hæd ˌɛndʒɪˈnɪrd ən ˌɔːtəˈmeɪtəd ˈsɪstəm ðæt ˈhɑːrvɪstəd ˈkrɑːps ˌɔːtəˈmætɪkli/",
+          "linking": [
+            "hours of → hours の語末子音 /z/ が of の弱形 /əv/ に連結 [ˈaʊrz əv] アワーズ アブ",
+            "had engineered → had の弱形 /hæd/ の語末子音 /d/ が engineered の母音に連結 [hæd ˌɛndʒɪˈnɪrd] ハド エンジニアード",
+            "engineered an → engineered の語末子音 /d/ が an の弱形 /ən/ に連結 [ˌɛndʒɪˈnɪrd ən] エンジニアード アン",
+            "crops automatically → crops の語末子音 /s/ が automatically の母音 /ɔ/ に連結 [ˈkrɑːps ˌɔːtəˈmætɪkli] クロップス オートマティカリー"
+          ],
+          "kana": "アフター アワーズ アブ ワーク、シ ハド エンジニアード アン オートメイテッド システム ザット ハーベステッド クロップス オートマティカリー"
+        },
+        {
+          "en": "Before that disaster, they had engineered an amazing system to sort items automatically.",
+          "ja": "あの災害の前に、彼らはアイテムを自動的に分類するための素晴らしいシステムを設計していました。",
+          "ipa": "/bɪˈfɔːr ðæt ˈdɪzæstər | ðeɪ hæd ˌɛndʒɪˈnɪrd ən əˈmeɪzɪŋ ˈsɪstəm tu ˈsɔːrt ˈaɪtəmz ˌɔːtəˈmætɪkli/",
+          "linking": [
+            "had engineered → had の弱形 /hæd/ の語末子音 /d/ が engineered の母音に連結 [hæd ˌɛndʒɪˈnɪrd] ハド エンジニアード",
+            "engineered an → engineered の語末子音 /d/ が an の弱形 /ən/ に連結 [ˌɛndʒɪˈnɪrd ən] エンジニアード アン",
+            "sort items → sort の語末子音 /t/ が items の母音 /aɪ/ に連結 [ˈsɔːrt ˈaɪtəmz] ソート アイテムズ",
+            "items automatically → items の語末子音 /z/ が automatically の母音 /ɔ/ に連結 [ˈaɪtəmz ˌɔːtəˈmætɪkli] アイテムズ オートマティカリー"
+          ],
+          "kana": "ビフォアー ザット ディザスター、ゼイ ハド エンジニアード アン アメイジング システム トゥ ソート アイテムズ オートマティカリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been engineering",
+      "ipa": "/həz bɪn ˌɛndʒɪˈnɪrɪŋ/",
+      "examples": [
+        {
+          "en": "She has been engineering the automatic farm all afternoon without any breaks.",
+          "ja": "彼女は午後中ずっと休みなしで自動農場を設計しています。",
+          "ipa": "/ʃi həz bɪn ˌɛndʒɪˈnɪrɪŋ ðə ˌɔːtəˈmætɪk ˈfɑːrm ˈɔːl ˌæftərˈnuːn wɪˈaʊt ˈɛni ˈbreɪks/",
+          "linking": [
+            "has been → has の弱形 /həz/ の語末子音 /z/ が been の母音に連結しない（/b/は子音）。been の /n/ が engineering に連結 [bɪn ˌɛndʒɪˈnɪrɪŋ] ビン エンジニアリング",
+            "farm all → farm の語末子音 /m/ が all の母音 /ɔ/ に連結 [ˈfɑːrm ɔːl] ファーム オール",
+            "all afternoon → all の語末子音 /l/ が afternoon の母音 /æ/ に連結 [ɔːl ˌæftərˈnuːn] オール アフターヌーン",
+            "without any → without の語末子音 /t/ が any の母音 /ɛ/ に連結 [wɪˈaʊt ˈɛni] ウィザウト エニー"
+          ],
+          "kana": "シ ハズ ビン エンジニアリング ザ オートマティック ファーム オール アフターヌーン ウィザウト エニー ブレイクス"
+        },
+        {
+          "en": "We have been engineering the system for hours and it's working great.",
+          "ja": "私たちは何時間もシステムを設計しており、それは素晴らしく機能しています。",
+          "ipa": "/wi həv bɪn ˌɛndʒɪˈnɪrɪŋ ðə ˈsɪstəm fɔr ˈaʊrz ænd ɪts ˈwɝːkɪŋ ˈɡreɪt/",
+          "linking": [
+            "been engineering → been の弱形 /bɪn/ の語末子音 /n/ が engineering の母音 /ɛ/ に連結 [bɪn ˌɛndʒɪˈnɪrɪŋ] ビン エンジニアリング",
+            "for hours → for の弱形 /fər/ の語末子音 /r/ が hours の母音 /aʊ/ に連結 [fər ˈaʊrz] ファー アワーズ",
+            "hours and → hours の語末子音 /z/ が and の母音 /æ/ に連結 [ˈaʊrz ænd] アワーズ アンド",
+            "and it's → and の語末子音 /d/ が it's の母音 /ɪ/ に連結 [ænd ɪts] アンド イッツ"
+          ],
+          "kana": "ウィ ハブ ビン エンジニアリング ザ システム ファー アワーズ アンド イッツ ワーキング グレイト"
+        }
+      ]
     }
   ]
 }
