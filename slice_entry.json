@@ -297,6 +297,108 @@
           "kana": "ヒー ハド ビン スライスィング ブロックス ウェン ザ ティーエンティー イクスプロウディッド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sliced",
+      "ipa": "/həz ˈslaɪst/",
+      "examples": [
+        {
+          "en": "I have sliced the watermelon and stored it in chests.",
+          "ja": "スイカをスライスしてチェストに保管しました。",
+          "ipa": "/aɪ həv ˈslaɪst ðə ˈwɑtərˌmɛlən ənd ˈstɔrd ɪt ɪn ˈtʃɛsts/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "sliced の末尾 /t/ が the に続く（子音+子音）",
+            "the は弱形 /ðə/",
+            "and は弱形 /ən/ に弱化"
+          ],
+          "kana": "アイ ハヴ スライスト ザ ウォーターメロン アン ストアード イット イン チェスツ"
+        },
+        {
+          "en": "They have sliced all the pumpkins for the farm layout.",
+          "ja": "彼らはファームレイアウト用にカボチャをすべてスライスしました。",
+          "ipa": "/ðeɪ həv ˈslaɪst ɔl ðə ˈpʌmpkɪnz fɚ ðə ˈfɑrm ˈleɪˌaʊt/",
+          "linking": [
+            "have は弱形 /həv/",
+            "sliced の末尾 /t/ が all に続く（子音+子音）",
+            "the は弱形 /ðə/（複数回）",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "ゼイ ハヴ スライスト オール ザ パンプキンズ ファー ザ ファーム レイアウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sliced",
+      "ipa": "/həd ˈslaɪst/",
+      "examples": [
+        {
+          "en": "He had sliced the cake before the guests arrived.",
+          "ja": "ゲストが到着する前に、彼はケーキをスライスしていました。",
+          "ipa": "/hi həd ˈslaɪst ðə ˈkeɪk bɪˈfɔr ðə ˈɡɛsts əˈraɪvd/",
+          "linking": [
+            "He の末尾 /i/ が had に連結傾向",
+            "had は弱形 /həd/",
+            "sliced の末尾 /t/ が the に続く（子音+子音）",
+            "the は弱形 /ðə/（複数回）",
+            "before は弱形傾向"
+          ],
+          "kana": "ヒー ハド スライスト ザ ケイク ビフォアー ザ ゲストス ァライヴド"
+        },
+        {
+          "en": "The builders had sliced the wood blocks to create the pattern.",
+          "ja": "ビルダーたちはパターンを作成するために木製ブロックをスライスしていました。",
+          "ipa": "/ðə ˈbɪldərz həd ˈslaɪst ðə ˈwud ˈblɑks tə kriˈeɪt ðə ˈpætərn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "builders の末尾 /z/ が had に連結傾向",
+            "had は弱形 /həd/",
+            "sliced の末尾 /t/ が the に続く（子音+子音）",
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビルダーズ ハド スライスト ザ ウッド ブロックス タ クリエイト ザ パターン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been slicing",
+      "ipa": "/həz bɪn ˈslaɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We have been slicing watermelons all day on the farm.",
+          "ja": "私たちはファームで一日中スイカをスライスしています。",
+          "ipa": "/wi həv bɪn ˈslaɪsɪŋ ˈwɑtərˌmɛlənz ɔl ˈdeɪ ɑn ðə ˈfɑrm/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "been の末尾 /n/ が slicing に連結 [bɪn‿ˈslaɪsɪŋ]",
+            "on は弱形傾向 /ən/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ハヴ ビン スライスィング ウォーターメロンズ オール デイ オン ザ ファーム"
+        },
+        {
+          "en": "She has been slicing blocks to build the decorative wall.",
+          "ja": "彼女は装飾的な壁を構築するためにブロックをスライスしています。",
+          "ipa": "/ʃi həz bɪn ˈslaɪsɪŋ ˈblɑks tə ˈbɪld ðə ˌdɛkəˈreɪtɪv ˈwɔl/",
+          "linking": [
+            "She の末尾 /i/ が has に連結傾向",
+            "has は助動詞で弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "been の末尾 /n/ が slicing に連結 [bɪn‿ˈslaɪsɪŋ]",
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ ビン スライスィング ブロックス タ ビルド ザ デコレイティヴ ウォール"
+        }
+      ]
     }
   ]
 }
