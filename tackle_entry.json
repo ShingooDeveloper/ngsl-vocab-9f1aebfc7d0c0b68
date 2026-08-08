@@ -200,6 +200,101 @@
           "kana": "マイ タケル コレクション インクルーズ メニ タケルズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has tackled",
+      "ipa": "/həz ˈtækəld/",
+      "examples": [
+        {
+          "en": "He has tackled the mining challenge successfully.",
+          "ja": "彼は採掘の課題に成功して取り組みました。",
+          "ipa": "[hi həz ˈtækəld̚ ðə ˈmaɪnɪŋ ˈtʃælɪndʒ səkˈsɛsfəli]",
+          "linking": [
+            "He → 弱形 /hi/",
+            "has → 弱形 /həz/",
+            "tackled + the → 語末 /d/ が未開放で次の /ð/ に直続、[ˈtækəld̚ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ヒ ハズ タケルド ザ マイニング チャレンジ サクセスフリ"
+        },
+        {
+          "en": "We have tackled every boss in this server.",
+          "ja": "私たちはこのサーバーのすべてのボスに対処しました。",
+          "ipa": "[wi həv ˈtækəld ˈɛvɚi bɑs ɪn ðɪs ˈsɚvɚ]",
+          "linking": [
+            "have → 弱形 /həv/",
+            "tackled + every → 語末 /d/ が母音 /ɛ/ に連結、[ˈtækəld ˈɛvɚi]",
+            "this → 弱形 /ðɪs/"
+          ],
+          "kana": "ウィ ハヴ タケルド エブリ ボス イン ディス サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had tackled",
+      "ipa": "/həd ˈtækəld/",
+      "examples": [
+        {
+          "en": "By the time the new update arrived, they had tackled all the major bugs.",
+          "ja": "新しいアップデートが到着するまでに、彼らは主なバグをすべて対処していました。",
+          "ipa": "[baɪ ðə taɪm ðə ˈnu ˈʌpdeɪt əˈraɪvd ðeɪ həd ˈtækəld̚ ɔl ðə ˈmeɪdʒɚ bʌɡz]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "update + arrived → 語末 /t/ が未開放で次に続く、[ˈʌpdeɪt̚ əˈraɪvd]",
+            "had → 弱形 /həd/",
+            "tackled + all → 語末 /d/ が未開放で次の /ɔ/ に直続、[ˈtækəld̚ ɔl]"
+          ],
+          "kana": "バイ ザ タイム ザ ニュー アップデット アライヴド ゼイ ハド タケルド オール ザ メイジャー バグズ"
+        },
+        {
+          "en": "I had tackled the Wither before my friend even joined the game.",
+          "ja": "友人がゲームに参加する前に、私はウィザーに対処していました。",
+          "ipa": "[aɪ həd ˈtækəld̚ ðə ˈwɪðɚ bɪˈfɔɹ maɪ frɛnd ˈivən ˈdʒoɪnd ðə ɡeɪm]",
+          "linking": [
+            "had → 弱形 /həd/",
+            "tackled + the → 語末 /d/ が未開放で次の /ð/ に直続、[ˈtækəld̚ ðə]",
+            "the → 弱形 /ðə/",
+            "friend + even → 語末 /d/ が母音 /ɪ/ に連結、[frɛnd ˈivən]"
+          ],
+          "kana": "アイ ハド タケルド ザ ウィザー ビフォー マイ フレンド イーブン ジョインド ザ ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been tackling",
+      "ipa": "/həz bɪn ˈtækəlɪŋ/",
+      "examples": [
+        {
+          "en": "She has been tackling this mega base project for months now.",
+          "ja": "彼女は今、この巨大ベースプロジェクトに数ヶ月取り組んでいます。",
+          "ipa": "[ʃi həz bɪn ˈtækəlɪŋ̚ ðɪs ˈmɛɡə ˈbeɪs ˈprɑdʒɛkt fɚ ˈmʌnðz naʊ]",
+          "linking": [
+            "has → 弱形 /həz/",
+            "been → 弱形 /bɪn/",
+            "tackling + this → 語末 /ŋ/ が未開放で次の /ð/ に直続、[ˈtækəlɪŋ̚ ðɪs]",
+            "for → 弱形 /fɚ/"
+          ],
+          "kana": "シー ハズ ビン タクルイング ディス メガ ベース プロジェクト ファー マンスズ ナウ"
+        },
+        {
+          "en": "They have been tackling the enchanting system challenge all week.",
+          "ja": "彼らは一週間、エンチャント・システムの課題に取り組んでいます。",
+          "ipa": "[ðeɪ həv bɪn ˈtækəlɪŋ̚ ðə ɪnˈtʃæntɪŋ ˈsɪstəm ˈtʃælɪndʒ ɔl wik]",
+          "linking": [
+            "have → 弱形 /həv/",
+            "been → 弱形 /bɪn/",
+            "tackling + the → 語末 /ŋ/ が未開放で次の /ð/ に直続、[ˈtækəlɪŋ̚ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハヴ ビン タクルイング ザ インチャント システム チャレンジ オール ウィック"
+        }
+      ]
     }
   ]
 }
