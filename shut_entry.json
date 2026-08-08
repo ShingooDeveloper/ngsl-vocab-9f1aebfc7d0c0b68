@@ -209,6 +209,186 @@
           "kana": "ザ レッドストーン メカニズム イズ シャティング ザ ドア ファスター ザン ウィ イクスペクティド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is shutting",
+      "ipa": "/ɪz ˈʃʌtɪŋ/",
+      "examples": [
+        {
+          "en": "The door is shutting automatically in the spawner room.",
+          "ja": "スポナー内のドアが自動的に閉じています。",
+          "ipa": "[ðə ˈdɔrɪz ˈʃʌtɪŋ ˌɔtəˈmætɪkli ɪn ðə ˈspɔnər rum]",
+          "linking": [
+            "door is → 語末音 /r/ が母音 /ɪ/ に連結 [ˈdɔrɪz] ドーリズ。is は弱形 /ɪz/",
+            "the → 機能語は弱形 /ðə/"
+          ],
+          "kana": "ザ ドーリズ シャティング オーダマティックリ イン ザ スポナー ルーム"
+        },
+        {
+          "en": "We are shutting the entrance gate right now.",
+          "ja": "私たちは今すぐ入口のゲートを閉じています。",
+          "ipa": "[wɪr ˈʃʌtɪŋ ðə ˈɛntrəns geɪt raɪt naʊ]",
+          "linking": [
+            "we are → are は弱形 /ər/。we の /i/ が are の /ə/ に連結 [wɪr] ウィア",
+            "the → 機能語は弱形 /ðə/"
+          ],
+          "kana": "ウィア シャティング ザ エントランス ゲイト ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was shutting",
+      "ipa": "/wəz ˈʃʌtɪŋ/",
+      "examples": [
+        {
+          "en": "The door was shutting when the zombie attacked.",
+          "ja": "ゾンビが攻撃してきたときにドアが閉じていました。",
+          "ipa": "[ðə ˈdɔrəz ˈʃʌtɪŋ wɛn ðə ˈzɑmbi əˈtækt]",
+          "linking": [
+            "door was → door の語末音 /r/ が was の初頭 /ə/ に連結 [ˈdɔrəz] ドーラズ。was は弱形 /wəz/",
+            "the zombie → the は弱形 /ðə/ [ðə ˈzɑmbi] ザ ゾンビ"
+          ],
+          "kana": "ザ ドーラズ シャティング ウェン ザ ゾンビ アタックト"
+        },
+        {
+          "en": "We were shutting down the farm when it started raining.",
+          "ja": "雨が降り始めたとき、私たちは農場をシャットダウンしていました。",
+          "ipa": "[wɪr ˈʃʌtɪŋ daʊn ðə fɑrm wɛn ɪt ˈstɑrtəd ˈreɪnɪŋ]",
+          "linking": [
+            "we were → we の /i/ が were の弱形 /ə/ に連結。were は弱形 /wər/ [wɪr] ウィア",
+            "the farm → the は弱形 /ðə/ [ðə ˈfɑrm] ザ ファーム"
+          ],
+          "kana": "ウィア シャティング ダウン ザ ファーム ウェン イット スターテド レイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been shutting",
+      "ipa": "/həd bɪn ˈʃʌtɪŋ/",
+      "examples": [
+        {
+          "en": "The door had been shutting for several seconds before I noticed.",
+          "ja": "気付く前にドアが数秒間閉じ続けていました。",
+          "ipa": "[ðə ˈdɔrəd bɪn ˈʃʌtɪŋ fər ˈsɛvərəl ˈsɛkəndz bɪˈfɔraɪ ˈnoʊtɪst]",
+          "linking": [
+            "door had → door の語末音 /r/ が had の初頭 /ə/ に連結 [ˈdɔrəd] ドーラド。had は弱形 /həd/",
+            "had been → been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "before I → before の語末音 /r/ が I の /aɪ/ に連結 [bɪˈfɔraɪ] ビフォーアイ"
+          ],
+          "kana": "ザ ドーラド ビン シャティング ファ セヴァラル セコンズ ビフォーアイ ノーティスト"
+        },
+        {
+          "en": "The circuit had been shutting down intermittently.",
+          "ja": "その回路は間欠的にシャットダウンし続けていました。",
+          "ipa": "[ðə ˈsɜrkɪt həd bɪn ˈʃʌtɪŋ daʊn ˌɪntərˈmɪtəntli]",
+          "linking": [
+            "had been → had と been は弱形。had /həd/、been /bɪn/ [həd bɪn] ハド ビン",
+            "the circuit → the は弱形 /ðə/ [ðə ˈsɜrkɪt] ザ サーキット"
+          ],
+          "kana": "ザ サーキット ハド ビン シャティング ダウン インターミッテントリ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has shut",
+      "ipa": "/həz ʃʌt/",
+      "examples": [
+        {
+          "en": "I have shut the main gate to protect our base.",
+          "ja": "我々の基地を保護するためにメインゲートを閉じてしまいました。",
+          "ipa": "[aɪ həv ʃʌt ðə ˈmeɪn ɡeɪt tə prəˈtɛkt ˈaʊr ˈbeɪs]",
+          "linking": [
+            "have shut → have は弱形 /həv/。shut は /ʃʌt/。v が ʃ に続く [həv ʃʌt] ハブ シャット",
+            "the main → the は弱形 /ðə/。main は /meɪn/ [ðə ˈmeɪn] ザ メイン",
+            "to protect → to は弱形 /tə/。protect は /prəˈtɛkt/ [tə prəˈtɛkt] タ プロテクト",
+            "our base → our は /aʊr/。base は /beɪs/。r が ベース に続く [ˈaʊr ˈbeɪs] アワー ベース"
+          ],
+          "kana": "アイ ハブ シャット ザ メイン ゲイト タ プロテクト アワー ベース"
+        },
+        {
+          "en": "He has shut down all the furnaces for the night.",
+          "ja": "彼は夜間のためにすべての炉をシャットダウンしてしまいました。",
+          "ipa": "[hi həz ʃʌt daʊn ɔːl ðə ˈfɝnəsɪz fər ðə naɪt]",
+          "linking": [
+            "He has → He は /hi/。has は弱形 /həz/。i が həz に連結 [hiˈhəz] ヒー ハズ",
+            "has shut → has は /həz/。shut は /ʃʌt/ [həz ʃʌt] ハズ シャット",
+            "all the → all は /ɔːl/。the は /ðə/。l が ðə に続く [ɔːl ðə] オール ザ",
+            "for the → for は弱形 /fər/。the は弱形 /ðə/ [fər ðə] ファー ザ"
+          ],
+          "kana": "ヒー ハズ シャット ダウン オール ザ ファーナシズ ファー ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had shut",
+      "ipa": "/həd ʃʌt/",
+      "examples": [
+        {
+          "en": "After I had shut the door, the creepers couldn't get in.",
+          "ja": "ドアを閉じた後、クリーパーは中に入ることができませんでした。",
+          "ipa": "[ˈæftər aɪ həd ʃʌt ðə ˈdɔr ðə ˈkripərz ˈkʊdənt ɡɛt ɪn]",
+          "linking": [
+            "After I → After は /ˈæftər/。I は /aɪ/。r が aɪ に連結 [ˈæftər aɪ] アフター アイ",
+            "I had → I は /aɪ/。had は弱形 /həd/。aɪ が həd に連結 [aɪ həd] アイ ハド",
+            "had shut → had は /həd/。shut は /ʃʌt/ [həd ʃʌt] ハド シャット",
+            "door the → door は /ˈdɔr/。the は弱形 /ðə/。r が ðə に連結 [ˈdɔr ðə] ドー ザ"
+          ],
+          "kana": "アフター アイ ハド シャット ザ ドア ザ クリーパーズ クッデント ゲット イン"
+        },
+        {
+          "en": "The guards had shut the gates before the raid started.",
+          "ja": "警備隊はレイドが始まる前にゲートを閉じていました。",
+          "ipa": "[ðə ˈɡɑrdz həd ʃʌt ðə ˈɡeɪts bɪˈfɔr ðə ˈreɪd ˈstɑrtəd]",
+          "linking": [
+            "The guards → The は弱形 /ðə/。guards は /ˈɡɑrdz/ [ðə ˈɡɑrdz] ザ ガーズ",
+            "had shut → had は弱形 /həd/。shut は /ʃʌt/ [həd ʃʌt] ハド シャット",
+            "before the → before は /bɪˈfɔr/。the は弱形 /ðə/。r が ðə に連結 [bɪˈfɔr ðə] ビフォー ザ"
+          ],
+          "kana": "ザ ガーズ ハド シャット ザ ゲーツ ビフォー ザ レイド スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been shutting",
+      "ipa": "/həz bɪn ˈʃʌtɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone mechanism has been shutting the door repeatedly all day.",
+          "ja": "レッドストーンメカニズムが一日中ドアを繰り返し閉じています。",
+          "ipa": "[ðə ˈrɛdstoʊn ˈmɛkənɪzəm həz bɪn ˈʃʌtɪŋ ðə ˈdɔr rɪˈpiːtɪdli ɔːl ˈdeɪ]",
+          "linking": [
+            "The redstone → The は弱形 /ðə/。redstone は /ˈrɛdstoʊn/ [ðə ˈrɛdstoʊn] ザ レッドストーン",
+            "has been → has は弱形 /həz/。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "door repeatedly → door は /ˈdɔr/。repeatedly は /rɪˈpiːtɪdli/。r が ri に続く [ˈdɔr rɪˈpiːtɪdli] ドア リピーティドリー",
+            "all day → all は /ɔːl/。day は /ˈdeɪ/ [ɔːl ˈdeɪ] オール デイ"
+          ],
+          "kana": "ザ レッドストーン メカニズム ハズ ビン シャティング ザ ドア リピーティドリー オール デイ"
+        },
+        {
+          "en": "They have been shutting down parts of the farm to save resources.",
+          "ja": "彼らはリソースを節約するために農場の一部をシャットダウンし続けています。",
+          "ipa": "[ðeɪ həv bɪn ˈʃʌtɪŋ daʊn ˈpɑrts əv ðə ˈfɑrm tə ˈseɪv ˈrisɔrsɪz]",
+          "linking": [
+            "They have → They は /ðeɪ/。have は弱形 /həv/ [ðeɪ həv] ザイ ハブ",
+            "have been → have は /həv/。been は弱形 /bɪn/ [həv bɪn] ハブ ビン",
+            "of the → of は弱形 /əv/。the は弱形 /ðə/。v が ðə に連結 [əv ðə] オヴ ザ",
+            "farm to → farm は /ˈfɑrm/。to は弱形 /tə/ [ˈfɑrm tə] ファーム タ"
+          ],
+          "kana": "ザイ ハブ ビン シャティング ダウン パーツ オヴ ザ ファーム タ セイヴ リソーシズ"
+        }
+      ]
     }
   ]
 }
