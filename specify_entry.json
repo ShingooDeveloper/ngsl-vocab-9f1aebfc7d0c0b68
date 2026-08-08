@@ -156,6 +156,185 @@
           "kana": "ホェン スペシファイイング モッズ ビー ケアフル ウィズ バージョン コンパティビリティー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is specifying",
+      "ipa": "/ɪz ˈspɛsɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "He is specifying the exact redstone circuit design.",
+          "ja": "彼は正確なレッドストーン回路設計を指定しています。",
+          "ipa": "/hi ɪz ˈspɛsɪfaɪɪŋ ðə ɪɡˈzækt ˈrɛdˌstoʊn ˈsɝkət dɪˈzaɪn/",
+          "linking": [
+            "is は弱形 /ɪz/ イズ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー イズ スペシファイイング ザ イグザクト レッドストーン サーキット ディザイン"
+        },
+        {
+          "en": "I'm specifying the coordinates for the new base location.",
+          "ja": "新しい基地の位置の座標を指定しています。",
+          "ipa": "/aɪm ˈspɛsɪfaɪɪŋ ðə koʊˈɔrdənɪts fɚ ðə ˈnu ˈbeɪs loʊˈkeɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "アイム スペシファイイング ザ コーディネイツ ファー ザ ニュー ベイス ロケイション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was specifying",
+      "ipa": "/wəz ˈspɛsɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "She was specifying the building requirements when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼女は建設要件を指定していました。",
+          "ipa": "/ʃi wəz ˈspɛsɪfaɪɪŋ ðə ˈbɪldɪŋ rɪˈkwɚrməts wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ",
+            "the は弱形 /ðə/ ザ（2回）"
+          ],
+          "kana": "シー ワズ スペシファイイング ザ ビルディング リクワイヤメンツ ホェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "They were specifying different materials for the construction.",
+          "ja": "彼らは建設に異なる素材を指定していました。",
+          "ipa": "/ðeɪ wɚ ˈspɛsɪfaɪɪŋ ˈdɪfərənt məˈtɪriəlz fɚ ðə kənˈstrʌkʃən/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "ザイ ワー スペシファイイング ディファレント マテリアルズ ファー ザ コンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been specifying",
+      "ipa": "/həd bɪn ˈspɛsɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, they had been specifying the block types for hours.",
+          "ja": "私たちが到着する頃には、彼らは何時間もブロックタイプを指定していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðeɪ həd bɪn ˈspɛsɪfaɪɪŋ ðə blɑk ˈtaɪps fɚ ˈaʊrz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（2回）",
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "バイ ザ タイム ウィ ア ライブド ザイ ハド ビン スペシファイイング ザ ブロック タイプス ファー アワーズ"
+        },
+        {
+          "en": "We realized they had been specifying the terrain rules throughout the game.",
+          "ja": "彼らが試合中ずっと地形ルールを指定していたことに気づきました。",
+          "ipa": "/wi ˈriːəlaɪzd ðeɪ həd bɪn ˈspɛsɪfaɪɪŋ ðə təˈreɪn rulz θruˈaʊt ðə ɡeɪm/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ（2回）"
+          ],
+          "kana": "ウィ リアライズド ザイ ハド ビン スペシファイイング ザ テレイン ルールズ スルーアウト ザ ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has specified",
+      "ipa": "/həz ˈspɛsɪfaɪd/",
+      "examples": [
+        {
+          "en": "The admin has specified the server settings clearly.",
+          "ja": "管理者がサーバー設定を明確に指定しました。",
+          "ipa": "/ðə ˈædmɪn həz ˈspɛsɪfaɪd ðə ˈsɝvər ˈsɛtɪŋz ˈklɪrli/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（最初）",
+            "has は弱形 /həz/ ハズ",
+            "the は弱形 /ðə/ ザ（2回目）"
+          ],
+          "kana": "ザ アドミン ハズ スペシファイド ザ サーバー セッティングス クリアリー"
+        },
+        {
+          "en": "We have specified the exact coordinates for the treasure chest.",
+          "ja": "宝箱の正確な座標を指定しました。",
+          "ipa": "/wi həv ˈspɛsɪfaɪd ðə ɪɡˈzækt koʊˈɔrdənɪts fɚ ðə ˈtrɛʒər tʃɛst/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "the は弱形 /ðə/ ザ（最初）",
+            "for は弱形 /fɚ/ ファー",
+            "the は弱形 /ðə/ ザ（2回目）"
+          ],
+          "kana": "ウィ ハヴ スペシファイド ザ イグザクト コーディネイツ ファー ザ トレジャー チェスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had specified",
+      "ipa": "/həd ˈspɛsɪfaɪd/",
+      "examples": [
+        {
+          "en": "Before the update, they had specified different crafting recipes.",
+          "ja": "アップデートの前に、彼らは異なるクラフトレシピを指定していました。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpdeɪt ðeɪ həd ˈspɛsɪfaɪd ˈdɪfərənt ˈkræftɪŋ ˈrɛsəpiz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は弱形 /həd/ ハド"
+          ],
+          "kana": "ビフォー ザ アップデイト ザイ ハド スペシファイド ディファレント クラフティング レシピズ"
+        },
+        {
+          "en": "We realized the designer had specified the exact color code long ago.",
+          "ja": "デザイナーがずっと前に正確な色コードを指定していたことに気づきました。",
+          "ipa": "/wi ˈriːəlaɪzd ðə dɪˈzaɪnər həd ˈspɛsɪfaɪd ðə ɪɡˈzækt ˈkʌlər ˈkoʊd lɔŋ əˈɡoʊ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（最初）",
+            "had は弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ（2回目）"
+          ],
+          "kana": "ウィ リアライズド ザ ディザイナー ハド スペシファイド ザ イグザクト カラー コード ロング アゴー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been specifying",
+      "ipa": "/həz bɪn ˈspɛsɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "She has been specifying the mob spawn rules since the server started.",
+          "ja": "サーバーが開始してから、彼女はモブスポーンルールを指定してきました。",
+          "ipa": "/ʃi həz bɪn ˈspɛsɪfaɪɪŋ ðə ˈmɑb sˈpɔn rulz sɪns ðə ˈsɝvər ˈstɑrtəd/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ（最初）",
+            "the は弱形 /ðə/ ザ（2回目）"
+          ],
+          "kana": "シー ハズ ビン スペシファイイング ザ モブ スポーン ルールズ シンス ザ サーバー スターテッド"
+        },
+        {
+          "en": "They have been specifying the enchantment values for weeks now.",
+          "ja": "彼らは何週間もエンチャント値を指定してきました。",
+          "ipa": "/ðeɪ həv bɪn ˈspɛsɪfaɪɪŋ ðə ɪnˈtʃæntmənt ˈvæljuz fɚ wiks naʊ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "ザイ ハヴ ビン スペシファイイング ザ エンチャントメント バリューズ ファー ウィークス ナウ"
+        }
+      ]
     }
   ]
 }
