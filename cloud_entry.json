@@ -221,6 +221,206 @@
           "kana": "クラウズ クラウディング ザ スカイ メイク ナヴィゲイション ディフィカルト"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is clouding",
+      "ipa": "/ɪz ˈklaʊdɪŋ/",
+      "examples": [
+        {
+          "en": "The dust storm is clouding my view of the ore.",
+          "ja": "ダストストームが鉱石への私の視界を曇らせています。",
+          "ipa": "/ðə ˈdʌst ˈstɔrm ɪz ˈklaʊdɪŋ maɪ ˈvjuː əv ðə ˈɔr/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "is clouding → is は助動詞で弱形 /ɪz/ に弱化、clouding の初頭子音 /k/ に連結 [ɪzˈklaʊdɪŋ]。",
+            "view of → view の末尾子音 /w/ と of の初頭母音 /ə/ は自然に続く、of は弱形 /əv/。",
+            "of the → of の末尾子音 /v/ が the の初頭 /ð/ に連結 [əvðə]。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ダスト ストーム イズ クラウディング マイ ビュー オヴザ オー"
+        },
+        {
+          "en": "It is clouding the sky above us.",
+          "ja": "それが私たちの上の空を曇らせています。",
+          "ipa": "/ɪt ɪz ˈklaʊdɪŋ ðə ˈskaɪ əˈbʌv ʌs/",
+          "linking": [
+            "It is → it の末尾子音 /t/ は未開放で、is の初頭母音 /ɪ/ に続く [ɪt̚ ɪz]。",
+            "is clouding → is は弱形 /ɪz/ に弱化、clouding の初頭子音 /k/ に連結 [ɪzˈklaʊdɪŋ]。",
+            "clouding the → clouding の末尾子音 /ŋ/ が the の初頭 /ð/ に連結 [ˈklaʊdɪŋðə]。the は弱形 /ðə/。",
+            "above us → above の末尾子音 /v/ が us の初頭母音 /ʌ/ に連結 [əˈbʌvʌs]。"
+          ],
+          "kana": "イッ イズ クラウディング ザ スカイ アバヴアス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was clouding",
+      "ipa": "/wəz ˈklaʊdɪŋ/",
+      "examples": [
+        {
+          "en": "The smoke was clouding the entire village.",
+          "ja": "煙が村全体を曇らせていました。",
+          "ipa": "/ðə ˈsmoʊk wəz ˈklaʊdɪŋ ðə ɪnˈtaɪər ˈvɪlɪdʒ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "smoke was → smoke の末尾子音 /k/ は未開放で、was の初頭子音 /w/ に続く [ˈsmoʊk̚wəz]。",
+            "was clouding → was は弱形 /wəz/ に弱化、clouding の初頭子音 /k/ に連結 [wəzˈklaʊdɪŋ]。",
+            "clouding the → clouding の末尾子音 /ŋ/ が the の初頭 /ð/ に連結 [ˈklaʊdɪŋðə]。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ スモーク ワズ クラウディング ザ インタイアー ビリジ"
+        },
+        {
+          "en": "My breathing was clouding my helmet visor.",
+          "ja": "私の呼吸がヘルメットのバイザーを曇らせていました。",
+          "ipa": "/maɪ ˈbrɛðɪŋ wəz ˈklaʊdɪŋ maɪ ˈhɛlmət ˈvaɪzər/",
+          "linking": [
+            "breathing was → breathing の末尾子音 /ŋ/ と was の初頭子音 /w/ は連結しない。",
+            "was clouding → was は弱形 /wəz/ に弱化、clouding の初頭子音 /k/ に連結 [wəzˈklaʊdɪŋ]。",
+            "clouding my → clouding の末尾子音 /ŋ/ と my の初頭子音 /m/ は連結しない。",
+            "helmet visor → helmet の末尾子音 /t/ は未開放で、visor の初頭子音 /v/ に続く [ˈhɛlməd̚ ˈvaɪzər]。"
+          ],
+          "kana": "マイ ブレッディング ワズ クラウディング マイ ヘルメット ヴァイザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been clouding",
+      "ipa": "/həd bɪn ˈklaʊdɪŋ/",
+      "examples": [
+        {
+          "en": "The fog had been clouding the landscape for hours.",
+          "ja": "霧が何時間も景観を曇らせていました。",
+          "ipa": "/ðə ˈfɑɡ həd bɪn ˈklaʊdɪŋ ðə ˈlændskeɪp fɔr ˈaʊərz/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "had been → had は弱形 /həd/ に弱化、been の初頭子音 /b/ に自然に続く [hədbɪn]。",
+            "been clouding → been は弱形 /bɪn/ に弱化、clouding の初頭子音 /k/ に自然に続く [bɪnˈklaʊdɪŋ]。",
+            "clouding the → clouding の末尾子音 /ŋ/ が the の初頭 /ð/ に連結 [ˈklaʊdɪŋðə]。the は弱形 /ðə/。",
+            "for hours → for は弱形 /fər/ に弱化、hours の初頭母音 /aʊ/ に自然に続く [fərˈaʊərz]。"
+          ],
+          "kana": "ザ ファッグ ハッド ビン クラウディング ザ ランドスケイプ ファー アワーズ"
+        },
+        {
+          "en": "The sand had been clouding the water when I arrived.",
+          "ja": "私が到着した時、砂が水を曇らせていました。",
+          "ipa": "/ðə ˈsænd həd bɪn ˈklaʊdɪŋ ðə ˈwɔɾər wɛn aɪ əˈraɪvd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "sand had → sand の末尾子音 /d/ が had の初頭子音 /h/ に自然に続く、had は弱形 /həd/。",
+            "had been → had は弱形、been の初頭子音 /b/ に自然に続く [hədbɪn]。",
+            "been clouding → been は弱形 /bɪn/、clouding の初頭子音 /k/ に自然に続く [bɪnˈklaʊdɪŋ]。",
+            "clouding the → clouding の末尾子音 /ŋ/ が the の初頭 /ð/ に連結 [ˈklaʊdɪŋðə]。the は弱形 /ðə/。",
+            "water when → water は米式 /ˈwɔɾər/、末尾フラップ /ɾ/ が when の初頭子音 /w/ に自然に続く。",
+            "when I → when の末尾子音 /n/ が I の初頭母音 /aɪ/ に連結 [wɛnˈaɪ]。",
+            "I arrived → I の末尾母音 /aɪ/ が arrived の初頭母音 /ə/ に自然に続く [aɪəˈraɪvd]。"
+          ],
+          "kana": "ザ サンド ハッド ビン クラウディング ザ ウォーラー ウェンアイ アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has clouded",
+      "ipa": "/həz ˈklaʊdəd/",
+      "examples": [
+        {
+          "en": "The volcanic ash has clouded the entire sky above our desert base.",
+          "ja": "火山灰が砂漠の基地の上の空全体を曇らせました。",
+          "ipa": "/ðə vɑlˈkænɪk ˈæʃ həz ˈklaʊdəd ðə ɪnˈtaɪər ˈskaɪ əˈbʌv ˈaʊɚ ˈdɛzərt ˈbeɪs/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "has clouded → has の末尾子音 /z/ が clouded の初頭子音 /k/ に連結 [həzˈklaʊdəd]。has は弱形 /həz/。",
+            "clouded the → clouded の末尾子音 /d/ が the の初頭 /ð/ に連結 [ˈklaʊdədðə]。the は弱形 /ðə/。",
+            "sky above → sky の末尾母音 /aɪ/ が above の初頭母音 /ə/ に自然に続く [ˈskaɪəˈbʌv]。",
+            "above our → above の末尾子音 /v/ が our の初頭母音 /aʊ/ に連結 [əˈbʌvaʊɚ]。"
+          ],
+          "kana": "ザ ボルケニック アッシュ ハズ クラウディド ザ インタイアー スカイ アバヴ アワー デザート ベイス"
+        },
+        {
+          "en": "These dust particles have clouded my view of the rare ore deposit.",
+          "ja": "これらのダスト粒子が希少鉱石鉱床への私の視界を曇らせました。",
+          "ipa": "/ðiz ˈdʌst ˈpɑrɪkəlz həv ˈklaʊdəd maɪ ˈvjuː əv ðə ˈrɛr ˈɔr dɪˈpoʊzɪt/",
+          "linking": [
+            "These は通常形 /ðiz/。",
+            "particles have → particles の末尾子音 /z/ と have の初頭子音 /h/ は連結しない。",
+            "have clouded → have の末尾子音 /v/ と clouded の初頭子音 /k/ は連結しない。have は弱形 /həv/。",
+            "of the → of の末尾子音 /v/ が the の初頭 /ð/ に連結 [əvðə]。of と the は弱形。"
+          ],
+          "kana": "ディーズ ダスト パーティクルズ ハヴ クラウディド マイ ビュー オヴザ レアー オー ディポーズィット"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had clouded",
+      "ipa": "/həd ˈklaʊdəd/",
+      "examples": [
+        {
+          "en": "The sand had clouded the water before the fish spawned.",
+          "ja": "魚が産卵する前に、砂が水を曇らせていました。",
+          "ipa": "/ðə ˈsænd həd ˈklaʊdəd ðə ˈwɔɾər bɪˈfɔr ðə ˈfɪʃ ˈspɔnd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "sand had → sand の末尾子音 /d/ と had の初頭子音 /h/ は連結しない。",
+            "had clouded → had の末尾子音 /d/ は未開放で、clouded の初頭子音 /k/ に続く [həd̚ˈklaʊdəd]。had は弱形 /həd/。",
+            "clouded the → clouded の末尾子音 /d/ が the の初頭 /ð/ に連結 [ˈklaʊdədðə]。the は弱形 /ðə/。",
+            "before the → before の末尾音 /ɚ/ が the の初頭 /ð/ に連結 [bɪˈfɔɚðə]。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ サンド ハッド クラウディド ザ ウォーラー ビフォー ザ フィッシュ スポーン"
+        },
+        {
+          "en": "The smoke had clouded the air long before I entered the burning building.",
+          "ja": "私が建物に入る前に、煙が長時間空気を曇らせていました。",
+          "ipa": "/ðə ˈsmoʊk həd ˈklaʊdəd ðə ˈɛr lɔŋ bɪˈfɔr aɪ ˈɛntɚd ðə ˈbɝnɪŋ ˈbɪldɪŋ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "smoke had → smoke の末尾子音 /k/ は未開放で、had の初頭子音 /h/ に続く [ˈsmoʊk̚həd]。",
+            "had clouded → had の末尾子音 /d/ は未開放で、clouded の初頭子音 /k/ に続く [həd̚ˈklaʊdəd]。had は弱形 /həd/。",
+            "before I → before の末尾音 /ɚ/ が I の初頭母音 /aɪ/ に連結 [bɪˈfɔɚaɪ]。",
+            "entered the → entered の末尾子音 /d/ が the の初頭 /ð/ に連結 [ˈɛntɚdðə]。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ スモーク ハッド クラウディド ザ エアー ロング ビフォーアイ エンタード ザ バーニング ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been clouding",
+      "ipa": "/həz bɪn ˈklaʊdɪŋ/",
+      "examples": [
+        {
+          "en": "The dust storm has been clouding the desert landscape all morning long.",
+          "ja": "ダストストームが朝中ずっと砂漠の景観を曇らせています。",
+          "ipa": "/ðə ˈdʌst ˈstɔrm həz bɪn ˈklaʊdɪŋ ðə ˈdɛzərt ˈlændskeɪp ɔl ˈmɔrnɪŋ ˈlɔŋ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化。",
+            "has been → has の末尾子音 /z/ が been の初頭子音 /b/ に連結 [həzbɪn]。has は弱形 /həz/、been も弱形 /bɪn/。",
+            "been clouding → been の末尾子音 /n/ と clouding の初頭子音 /k/ は連結しない。",
+            "clouding the → clouding の末尾子音 /ŋ/ が the の初頭 /ð/ に連結 [ˈklaʊdɪŋðə]。the は弱形 /ðə/。",
+            "all morning → all の末尾子音 /l/ が morning の初頭子音 /m/ に自然に続く。"
+          ],
+          "kana": "ザ ダスト ストーム ハズビン クラウディング ザ デザート ランドスケイプ オール モーニング ロング"
+        },
+        {
+          "en": "My breath has been clouding my helmet visor for the last thirty minutes.",
+          "ja": "私の呼吸がここ30分ヘルメットバイザーを曇らせています。",
+          "ipa": "/maɪ ˈbrɛθ həz bɪn ˈklaʊdɪŋ maɪ ˈhɛlmət ˈvaɪzər fɔr ðə ˈlæst ˈθɝdi ˈmɪnɪts/",
+          "linking": [
+            "has been → has の末尾子音 /z/ が been の初頭子音 /b/ に連結 [həzbɪn]。has は弱形 /həz/、been も弱形 /bɪn/。",
+            "been clouding → been の末尾子音 /n/ と clouding の初頭子音 /k/ は連結しない。",
+            "for the → for の末尾音 /r/ が the の初頭 /ð/ に連結 [fərðə]。for と the は弱形。"
+          ],
+          "kana": "マイ ブレス ハズビン クラウディング マイ ヘルメット ヴァイザー フォー ザ ラスト サーティ ミニッツ"
+        }
+      ]
     }
   ]
 }
