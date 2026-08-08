@@ -31,7 +31,7 @@
         "lava /ˈlɑːvə/ の末尾弱形 [ə] が destroyed /dɪˈstrɔɪd/ の初頭 [d] に連結して [ˈlɑːvə dɪˈstrɔɪd] ラーバデストロイド",
         "「panicked」の過去形 [t] は帯気音で発音される"
       ],
-      "kana": "アイパニックトウェンラーバデストロイドマイダイモンズ"
+      "kana": "アイ パニクト ウェン ラーバ デストロイド マイ ダイモンズ"
     },
     {
       "en": "Panic spreads fast when the Wither appears.",
@@ -57,9 +57,9 @@
           "ipa": "/ˈmʌltɪpl ˈpænɪks swept θruː ðə ˈsɝvər wɛn ðə ˈwɪðər bɑs‿əˈpɪrd/",
           "linking": [
             "「the」は弱形 /ðə/",
-            "「boss」の末尾 [s] が「appeared」の初頭 [ə] に連結して有声化し [bɑz əˈpɪrd] ボザピアード"
+            "「boss」の末尾 [s] が「appeared」の初頭 [ə] に連結して [bɑs əˈpɪrd] ボスアピアード"
           ],
-          "kana": "マルチプル パニックス スウェプト スルー ザ サーバー ウェン ザ ウィザー ボザピアード"
+          "kana": "マルチプル パニックス スウェプト スルー ザ サーバー ウェン ザ ウィザー ボスアピアード"
         },
         {
           "en": "The sudden panics caused players to abandon their bases.",
@@ -177,10 +177,188 @@
           "ja": "大声でパニックすると、もっとゾンビが引き寄せられます。",
           "ipa": "/ˈpænɪkɪŋ ˈlaʊdli wɪl əˈtrækt mɔr ˈzɑmbiz tə jɚ loʊˈkeɪʃən/",
           "linking": [
-            "「will」は弱形 /əl/",
+            "「will」の弱化で /wɪl/ → /wəl/ に弱形化",
             "「to」は弱形 /tə/"
           ],
-          "kana": "パニッキング ラウドリー ウィル アトラクト モア ゾンビーズ タ ユア ロケーション"
+          "kana": "パニッキング ラウドリー ウル アトラクト モア ゾンビーズ タ ユア ロケーション"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is panicking",
+      "ipa": "/ɪz ˈpænɪkɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is panicking after my attack.",
+          "ja": "私の攻撃の後、ゾンビはパニック状態です。",
+          "ipa": "/ðə ˈzɑmbi ɪz ˈpænɪkɪŋ ˈæftər maɪ əˈtæk/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「is」は弱形 /ɪz/"
+          ],
+          "kana": "ザ ゾンビー イズ パニッキング アフター マイ アタック"
+        },
+        {
+          "en": "Are you panicking because the creeper is near?",
+          "ja": "クリーパーが近いからパニックになっているのですか？",
+          "ipa": "/ɑr juː ˈpænɪkɪŋ bɪˈkɔz ðə ˈkriːpər ɪz nɪr/",
+          "linking": [
+            "「are」は弱形 /ər/ に弱化",
+            "「the」は弱形 /ðə/",
+            "「is」は弱形 /ɪz/"
+          ],
+          "kana": "アー ユー パニッキング ビコーズ ザ クリーパー イズ ニアー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was panicking",
+      "ipa": "/wəz ˈpænɪkɪŋ/",
+      "examples": [
+        {
+          "en": "I was panicking when the dragon attacked.",
+          "ja": "ドラゴンが攻撃してきたとき、私はパニック状態でした。",
+          "ipa": "/aɪ wəz ˈpænɪkɪŋ wɛn ðə ˈdræɡən əˈtækt/",
+          "linking": [
+            "「was」は弱形 /wəz/",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ パニッキング ウェン ザ ドラゴン アタックト"
+        },
+        {
+          "en": "The villagers were panicking during the raid.",
+          "ja": "襲撃の間、村人たちはパニック状態でした。",
+          "ipa": "/ðə ˈvɪlɪdʒərz wər ˈpænɪkɪŋ ˈdʊrɪŋ ðə reɪd/",
+          "linking": [
+            "「the」は弱形 /ðə/（2回）",
+            "「were」は弱形 /wər/ に弱化"
+          ],
+          "kana": "ザ ビリッジャーズ ワー パニッキング ドゥーリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been panicking",
+      "ipa": "/həd bɪn ˈpænɪkɪŋ/",
+      "examples": [
+        {
+          "en": "The players had been panicking for hours before rescue came.",
+          "ja": "プレイヤーたちは救助が来るまで、数時間の間ずっとパニック状態でした。",
+          "ipa": "/ðə ˈpleɪərz həd bɪn ˈpænɪkɪŋ fər ˈaʊərz bɪˈfɔr ˈrɛskjuː keɪm/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「had」は弱形 /həd/ に弱化",
+            "「been」は弱形 /bɪn/ に弱化",
+            "「for」は弱形 /fər/ に弱化"
+          ],
+          "kana": "ザ プレイヤーズ ハド ビン パニッキング ファー アワーズ ビフォー レスキュー ケイム"
+        },
+        {
+          "en": "She had been panicking ever since the enderman appeared.",
+          "ja": "エンダーマンが出現してから、彼女はずっとパニック状態でした。",
+          "ipa": "/ʃi həd bɪn ˈpænɪkɪŋ ˈɛvər sɪns ðə ˈɛndərmæn əˈpɪrd/",
+          "linking": [
+            "「had」は弱形 /həd/ に弱化",
+            "「been」は弱形 /bɪn/ に弱化",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "シー ハド ビン パニッキング エバー シンス ザ エンダーマン アピアード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has panicked",
+      "ipa": "/həz ˈpænɪkt/",
+      "examples": [
+        {
+          "en": "Players have panicked when they first saw a wither boss.",
+          "ja": "プレイヤーたちはウィザーボスを初めて見たときにパニックしました。",
+          "ipa": "/ˈpleɪərz həv ˈpænɪkt wɛn ðeɪ fɚst sɔː ə ˈwɪðər bɑs/",
+          "linking": [
+            "「have」は弱形 /həv/ に弱化",
+            "「a」は弱形 /ə/"
+          ],
+          "kana": "プレイヤーズ ハヴ パニクト ウェン ザイ ファースト ソー ア ウィザー バス"
+        },
+        {
+          "en": "She has panicked every time she's entered the Ender dimension.",
+          "ja": "彼女はエンド次元に入るたびにパニックしています。",
+          "ipa": "/ʃi həz ˈpænɪkt ˈɛvri taɪm ʃiz ˈɛntərd ðə ˈɛndər dɪˈmɛnʃən/",
+          "linking": [
+            "「has」は弱形 /həz/ に弱化",
+            "「she's」の末尾 /z/ が「entered」の初頭 /ɛ/ に連結",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ パニクト エヴリー タイム シーズ エンタード ザ エンダー ディメンション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had panicked",
+      "ipa": "/həd ˈpænɪkt/",
+      "examples": [
+        {
+          "en": "By the time the rescue team arrived, we had panicked and scattered.",
+          "ja": "救助チームが到着する頃には、我々はパニックして散り散りになっていました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈrɛskjuː tim əˈraɪvd wi həd ˈpænɪkt ənd ˈskætərd/",
+          "linking": [
+            "「the」は弱形 /ðə/（2回）",
+            "「had」は弱形 /həd/ に弱化",
+            "「and」は弱形 /ənd/"
+          ],
+          "kana": "バイ ザ タイム ザ レスキュー ティーム アライヴド ウィー ハド パニクト アン スキャタード"
+        },
+        {
+          "en": "She realized she had panicked unnecessarily when the zombie walked past peacefully.",
+          "ja": "ゾンビが穏やかに通り過ぎたとき、彼女は不必要にパニックしていたことに気付きました。",
+          "ipa": "/ʃi ˈriːəˌlaɪzd ʃi həd ˈpænɪkt ʌnˈnɛsəsɛrəli wɛn ðə ˈzɑmbi ˈwɔːkt pæst ˈpiːsfəli/",
+          "linking": [
+            "「had」は弱形 /həd/ に弱化",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "シー リアライズド シー ハド パニクト アンネセサリー ウェン ザ ゾンビー ウォークト パースト ピースフリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been panicking",
+      "ipa": "/həz bɪn ˈpænɪkɪŋ/",
+      "examples": [
+        {
+          "en": "The villagers have been panicking since the raid started an hour ago.",
+          "ja": "襲撃が1時間前に始まってから、村人たちはずっとパニック状態です。",
+          "ipa": "/ðə ˈvɪlɪdʒərz həv bɪn ˈpænɪkɪŋ sɪns ðə reɪd ˈstɑːrtɪd ən ˈaʊər əˈɡoʊ/",
+          "linking": [
+            "「the」は弱形 /ðə/（2回）",
+            "「have」は弱形 /həv/ に弱化",
+            "「been」は弱形 /bɪn/ に弱化",
+            "「an」は弱形 /ən/"
+          ],
+          "kana": "ザ ビリッジャーズ ハヴ ビン パニッキング シンス ザ レイド スターティッド ア アワー ア ゴー"
+        },
+        {
+          "en": "I have been panicking about my lost diamonds for the past ten minutes.",
+          "ja": "過去10分間、失ったダイヤモンドについてパニックしています。",
+          "ipa": "/aɪ həv bɪn ˈpænɪkɪŋ əˈbaʊt maɪ lɔst ˈdaɪməndz fər ðə pæst tɛn ˈmɪnɪts/",
+          "linking": [
+            "「have」は弱形 /həv/ に弱化",
+            "「been」は弱形 /bɪn/ に弱化",
+            "「for」は弱形 /fər/ に弱化",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン パニッキング ア バウト マイ ロースト ダイモンズ ファー ザ パースト テン ミニッツ"
         }
       ]
     }
