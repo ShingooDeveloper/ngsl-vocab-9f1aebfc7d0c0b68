@@ -209,6 +209,183 @@
           "kana": "ウィ クラフティド セブラル ボウルズ トゥ ストア イントンティッド アップルズ セイフリー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bowling",
+      "ipa": "/ɪz ˈboʊlɪŋ/",
+      "examples": [
+        {
+          "en": "I'm bowling snowballs at the creeper right now.",
+          "ja": "今、スノーボールをクリーパーに投げています。",
+          "ipa": "/aɪm ˈboʊlɪŋ ˈsnoʊbɔːlz æt̚ ðə ˈkriːpər ˈraɪt ˈnaʊ/",
+          "linking": [
+            "at の末尾 /t/ が未開放。the は弱形 /ðə/ で続く [æt̚ ðə] アット ザ",
+            "right は /raɪt/。now に子音+子音で続く"
+          ],
+          "kana": "アイム ボウリング スノーボールズ アット ザ クリーパー ライト ナウ"
+        },
+        {
+          "en": "The dispenser is bowling items into the hopper continuously.",
+          "ja": "ディスペンサーは継続的にアイテムをホッパーにボウリングしています。",
+          "ipa": "/ðə dɪsˈpɛnsər ɪz ˈboʊlɪŋ ˈaɪtəmz ˈɪntu ðə ˈhɑːpər kənˈtɪnjuəsli/",
+          "linking": [
+            "the は弱形 /ðə/。dispenser の /d/ に連結 [ðə dɪsˈpɛnsər] ザ ディスペンサー",
+            "is は弱形 /ɪz/。bowling の /b/ に連結 [ɪz ˈboʊlɪŋ] イズ ボウリング"
+          ],
+          "kana": "ザ ディスペンサー イズ ボウリング アイテムズ イントゥ ザ ホッパー コンティニューアスリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bowling",
+      "ipa": "/wəz ˈboʊlɪŋ/",
+      "examples": [
+        {
+          "en": "While you were bowling the snowball, the creeper approached.",
+          "ja": "あなたがスノーボールを投げていた間に、クリーパーが近づきました。",
+          "ipa": "/waɪl ju wɚ ˈboʊlɪŋ ðə ˈsnoʊbɔːl | ðə ˈkriːpər əˈproʊtʃt/",
+          "linking": [
+            "were は弱形 /wɚ/ の r-colored vowel。bowling に子音 /b/ で続く [wɚ ˈboʊlɪŋ] ワー ボウリング",
+            "the は弱形 /ðə/。snowball に連結 [ðə ˈsnoʊbɔːl] ザ スノーボール"
+          ],
+          "kana": "ワイル ユー ワー ボウリング ザ スノーボール、ザ クリーパー アプローチド"
+        },
+        {
+          "en": "I was bowling arrows at the target when the server crashed.",
+          "ja": "サーバーがクラッシュしたときに、私はターゲットに矢を投げていました。",
+          "ipa": "/aɪ wəz ˈboʊlɪŋ ˈæroʊz æt̚ ðə ˈtɑːrɡɪt wen ðə ˈsɝːvər ˈkræʃt/",
+          "linking": [
+            "was は弱形 /wəz/。bowling に連結 [wəz ˈboʊlɪŋ] ワズ ボウリング",
+            "at の末尾 /t/ が未開放。the は弱形 /ðə/ で続く [æt̚ ðə] アット ザ"
+          ],
+          "kana": "アイ ワズ ボウリング アローズ アット ザ ターゲット ウェン ザ サーバー クラッシド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bowling",
+      "ipa": "/əd ˈbiːn ˈboʊlɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the mob farm was built, we had been bowling items for hours.",
+          "ja": "モブファームが建設されたときまでに、私たちは何時間もアイテムをボウリングしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈmɑːb ˈfɑːrm wəz ˈbɪlt | wi əd ˈbiːn ˈboʊlɪŋ ˈaɪtəmz fɚ ˈaʊərz/",
+          "linking": [
+            "the は弱形 /ðə/。time に連結 [ðə ˈtaɪm] ザ タイム",
+            "had は弱形 /əd/。been に連結 [əd ˈbiːn] アド ビーン"
+          ],
+          "kana": "バイ ザ タイム ザ モブ ファーム ワズ ビルト、ウィ アド ビーン ボウリング アイテムズ ファー アワーズ"
+        },
+        {
+          "en": "She had been bowling snowballs at the boss for ten minutes before it died.",
+          "ja": "彼女はボスが死ぬ前の10分間、スノーボールを投げていました。",
+          "ipa": "/ʃi əd ˈbiːn ˈboʊlɪŋ ˈsnoʊbɔːlz æt̚ ðə ˈbɔːs fɚ ˈtɛn ˈmɪnɪts bɪˈfɔːr ɪt ˈdaɪd/",
+          "linking": [
+            "had は弱形 /əd/。been に連結 [əd ˈbiːn] アド ビーン",
+            "at の末尾 /t/ が未開放。the は弱形 /ðə/ で続く [æt̚ ðə] アット ザ"
+          ],
+          "kana": "シー アド ビーン ボウリング スノーボールズ アット ザ ボス ファー テン ミニッツ ビフォー イット ダイド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has bowled",
+      "ipa": "/ˈhæz ˈboʊld/",
+      "examples": [
+        {
+          "en": "I have bowled snowballs all day to test the mechanics.",
+          "ja": "メカニクスをテストするために、一日中スノーボールを投げてきました。",
+          "ipa": "/aɪ ˈhæv ˈboʊld ˈsnoʊbɔːlz ˈɔːl ˈdeɪ tu ˈtɛst ðə məˈkænɪks/",
+          "linking": [
+            "have は弱形 /həv/",
+            "snowballs all → snowballs の末尾 /z/ が all に連結 [ˈsnoʊbɔːlz ˈɔːl]",
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/。mechanics に連結 [ðə məˈkænɪks]"
+          ],
+          "kana": "アイ ハヴ ボウルド スノーボールズ オール デイ トゥ テスト ザ メカニクス"
+        },
+        {
+          "en": "She has bowled dozens of items into the hopper this hour.",
+          "ja": "彼女はこの1時間、何ダースものアイテムをホッパーに投げ入れました。",
+          "ipa": "/ʃi ˈhæz ˈboʊld ˈdʌzənz əv ˈaɪtəmz ˈɪntu ðə ˈhɑːpər ðɪs ˈaʊər/",
+          "linking": [
+            "has は弱形 /əz/",
+            "of は弱形 /əv/。items に連結 [əv ˈaɪtəmz]",
+            "the は弱形 /ðə/。hopper に連結 [ðə ˈhɑːpər]"
+          ],
+          "kana": "シー ハズ ボウルド ダズンズ アヴ アイテムズ インチュ ザ ホッパー ディス アワー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had bowled",
+      "ipa": "/ˈhæd ˈboʊld/",
+      "examples": [
+        {
+          "en": "Before the creeper spawned, I had already bowled the snowball.",
+          "ja": "クリーパーがスポーンする前に、私は既にスノーボールを投げていました。",
+          "ipa": "/bɪˈfɔːr ðə ˈkriːpər ˈspɔːnd | aɪ ˈhæd əˈlrɛdi ˈboʊld ðə ˈsnoʊbɔːl/",
+          "linking": [
+            "the は弱形 /ðə/。creeper に連結 [ðə ˈkriːpər]",
+            "had は弱形 /əd/。already に連結 [əd əˈlrɛdi]",
+            "the は弱形 /ðə/。snowball に連結 [ðə ˈsnoʊbɔːl]"
+          ],
+          "kana": "ビフォー ザ クリーパー スポーンド、アイ ハド オールレディ ボウルド ザ スノーボール"
+        },
+        {
+          "en": "They had bowled the minecart down the track before the rail broke.",
+          "ja": "レールが壊れる前に、彼らはミニカートを線路に沿って投げていました。",
+          "ipa": "/ðeɪ ˈhæd ˈboʊld ðə ˈmaɪnkɑːrt ˈdaʊn ðə ˈtræk bɪˈfɔːr ðə ˈreɪl ˈbroʊk/",
+          "linking": [
+            "had は弱形 /əd/",
+            "the は弱形 /ðə/。minecart に連結 [ðə ˈmaɪnkɑːrt]",
+            "the は弱形 /ðə/。rail に連結 [ðə ˈreɪl]"
+          ],
+          "kana": "ゼイ ハド ボウルド ザ マインカート ダウン ザ トラック ビフォー ザ レイル ブロウク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been bowling",
+      "ipa": "/ˈhæz bɪn ˈboʊlɪŋ/",
+      "examples": [
+        {
+          "en": "We have been bowling items into this system for five minutes.",
+          "ja": "私たちは5分間、このシステムにアイテムを投げ込んでいます。",
+          "ipa": "/wi ˈhæv bɪn ˈboʊlɪŋ ˈaɪtəmz ˈɪntu ðɪs ˈsɪstəm fɚ ˈfaɪv ˈmɪnɪts/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "items into → items の末尾 /z/ が into に連結 [ˈaɪtəmz ˈɪntu]",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "ウィ ハヴ ビン ボウリング アイテムズ インチュ ディス システム ファ ファイブ ミニッツ"
+        },
+        {
+          "en": "The dispenser has been bowling snowballs at the zombie all session.",
+          "ja": "ディスペンサーはセッション全体を通じてゾンビにスノーボールを投げ続けています。",
+          "ipa": "/ðə dɪsˈpɛnsər ˈhæz bɪn ˈboʊlɪŋ ˈsnoʊbɔːlz æt̚ ðə ˈzɑːmbi ˈɔːl ˈsɛʃən/",
+          "linking": [
+            "the は弱形 /ðə/。dispenser に連結 [ðə dɪsˈpɛnsər]",
+            "has は弱形 /əz/",
+            "been は弱形 /bɪn/",
+            "at の末尾 /t/ が未開放。the は弱形 /ðə/ で続く [æt̚ ðə]"
+          ],
+          "kana": "ザ ディスペンサー ハズ ビン ボウリング スノーボールズ アット ザ ゾンビー オール セッション"
+        }
+      ]
     }
   ]
 }
