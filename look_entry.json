@@ -326,6 +326,210 @@
           "kana": "ワンス シー ハド ビン ルッキング アラウンド ザット ビルディング シー ファイナリー ファウンド ザ シークレット パッセジ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has looked",
+      "ipa": "/həz ˈlʊkt/",
+      "examples": [
+        {
+          "en": "She has looked for the perfect spot to build her base for weeks.",
+          "ja": "彼女はベースを建てる完璧な場所を数週間探しています。",
+          "ipa": "/ʃi həz ˈlʊkt fɔr ðə pərˈfɛkt spɑt tu ˈbɪld hər beɪs fɔr wiks/",
+          "linking": [
+            "has looked: has は弱形 /həz/、looked の初頭に続く [həz ˈlʊkt]",
+            "looked for: looked の末子音 /t/ が for の初頭に連結 [ˈlʊkt fɔr]",
+            "for は弱形 /fɚ/、the の初頭に連結 [fɚ ðə]",
+            "the は弱形 /ðə/、perfect の初頭に連結 [ðə pərˈfɛkt]",
+            "to は弱形 /tə/、build の初頭に連結 [tə ˈbɪld]",
+            "her は弱形 /ɚ/、base の初頭に連結 [ɚ beɪs]"
+          ],
+          "kana": "シー ハズ ルックト フォー ザ パーフェクト スパット トゥー ビルド ハー ベイス フォー ウィークス"
+        },
+        {
+          "en": "Players have looked everywhere but still haven't found all the ancient structures.",
+          "ja": "プレイヤーはあちこち見ましたが、それでも古代建造物すべてを見つけていません。",
+          "ipa": "/ˈpleɪərz həv ˈlʊkt ɛvriˌwɛr bət stɪl ˈhævənt faʊnd ɔl ðə ˈeɪnʃənt ˈstrʌktʃərz/",
+          "linking": [
+            "have looked: have は弱形 /həv/、looked の初頭に続く [həv ˈlʊkt]",
+            "looked everywhere: looked の末子音 /t/ が everywhere の初頭に連結 [ˈlʊkt ɛvriˌwɛr]",
+            "but は弱形 /bət/、still の初頭に続く [bət stɪl]",
+            "the は弱形 /ðə/、ancient の初頭に連結 [ðə ˈeɪnʃənt]"
+          ],
+          "kana": "プレイヤーズ ハブ ルックト エブリウェア バット スティル ハブント ファウンド オール ザ エインシャント ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had looked",
+      "ipa": "/həd ˈlʊkt/",
+      "examples": [
+        {
+          "en": "By the time he arrived at the base, she had already looked through all the storage chests.",
+          "ja": "彼がベースに着いた時までに、彼女はすでにすべてのストレージチェストを見終わっていました。",
+          "ipa": "/baɪ ðə taɪm hi əˈraɪvd æt ðə beɪs ʃi həd ˈɔlˌrɛdi ˈlʊkt θru ɔl ðə ˈstɔɹɪdʒ ˈtʃɛsts/",
+          "linking": [
+            "by the: by の末音 /aɪ/ が the に連結 [baɪ ðə]",
+            "the は弱形 /ðə/、time の初頭に連結 [ðə taɪm]",
+            "at the: at の末子音 /t/ が the の初頭に続く [æt ðə]",
+            "the は弱形 /ðə/、base の初頭に連結 [ðə beɪs]",
+            "had looked: had は弱形 /həd/、looked の初頭に続く [həd ˈlʊkt]",
+            "looked through: looked の末子音 /t/ が through の初頭に続く [ˈlʊkt θru]",
+            "the は弱形 /ðə/、storage の初頭に連結 [ðə ˈstɔɹɪdʒ]"
+          ],
+          "kana": "バイ ザ タイム ヒー アライヴド アット ザ ベイス シー ハド オールレディ ルックト スルー オール ザ ストレージ チェスツ"
+        },
+        {
+          "en": "After the players had looked around the building, they discovered a secret room.",
+          "ja": "プレイヤーが建物を見た後、彼らは秘密の部屋を発見しました。",
+          "ipa": "/ˈæftər ðə ˈpleɪərz həd ˈlʊkt əˈraʊnd ðə ˈbɪldɪŋ ðeɪ dɪˈskʌvərd ə ˈsikrət rum/",
+          "linking": [
+            "the は弱形 /ðə/、players の初頭に連結 [ðə ˈpleɪərz]",
+            "had looked: had は弱形 /həd/、looked の初頭に続く [həd ˈlʊkt]",
+            "looked around: looked の末子音 /t/ が around の初頭に続く [ˈlʊkt əˈraʊnd]",
+            "the は弱形 /ðə/、building の初頭に連結 [ðə ˈbɪldɪŋ]",
+            "a は弱形 /ə/、secret の初頭に連結 [ə ˈsikrət]"
+          ],
+          "kana": "アフター ザ プレイヤーズ ハド ルックト アラウンド ザ ビルディング ザイ ディスカバード ア シークレット ルーム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been looking",
+      "ipa": "/həz bɪn ˈlʊkɪŋ/",
+      "examples": [
+        {
+          "en": "She has been looking for a jungle temple since early morning.",
+          "ja": "彼女は早朝からジャングルの寺を探しています。",
+          "ipa": "/ʃi həz bɪn ˈlʊkɪŋ fɔr ə ˈdʒʌŋɡəl ˈtɛmpəl sɪns ˈɪrli ˈmɔrnɪŋ/",
+          "linking": [
+            "has been looking: has は弱形 /həz/、been の初頭に続く [həz bɪn ˈlʊkɪŋ]",
+            "been は弱形 /bɪn/、looking の初頭に続く [bɪn ˈlʊkɪŋ]",
+            "looking for: looking の末音 /ŋ/ が for の初頭に続く [ˈlʊkɪŋ fɔr]",
+            "for は弱形 /fɚ/、a の初頭に連結 [fɚ ə]",
+            "a は弱形 /ə/、jungle の初頭に連結 [ə ˈdʒʌŋɡəl]",
+            "since は弱形で /sɪns/、early の初頭に連結 [sɪns ˈɪrli]"
+          ],
+          "kana": "シー ハズ ビン ルッキング フォー ア ジャングル テンプル シンス アーリー モーニング"
+        },
+        {
+          "en": "Many players have been looking at this new build design for inspiration.",
+          "ja": "多くのプレイヤーがこの新しいビルドデザインをインスピレーション用に見ています。",
+          "ipa": "/ˈmeɪni ˈpleɪərz həv bɪn ˈlʊkɪŋ æt ðɪs nu bɪld dɪˈzaɪn fɔr ɪnspəˈreɪʃən/",
+          "linking": [
+            "have been looking: have は弱形 /həv/、been の初頭に続く [həv bɪn ˈlʊkɪŋ]",
+            "been は弱形 /bɪn/、looking の初頭に続く [bɪn ˈlʊkɪŋ]",
+            "looking at: looking の末音 /ŋ/ が at の初頭に続く [ˈlʊkɪŋ æt]",
+            "for は弱形 /fɚ/、inspiration の初頭に連結 [fɚ ɪnspəˈreɪʃən]"
+          ],
+          "kana": "メイニー プレイヤーズ ハブ ビン ルッキング アット ディス ニュー ビルド ディザイン フォー インスパレイション"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will look",
+      "ipa": "/wɪl ˈlʊk/",
+      "examples": [
+        {
+          "en": "I'll look for diamonds in the cave tomorrow.",
+          "ja": "明日、私は洞窟のダイヤモンドを探すでしょう。",
+          "ipa": "/aɪl ˈlʊk fɚ ˈdaɪməndz ɪn ðə keɪv təˈmɑroʊ/",
+          "linking": [
+            "look for: look の末子音 /k/ が for の初頭に連結 [ˈlʊk fɚ]",
+            "for は弱形 /fɚ/、diamonds の初頭に連結",
+            "in the: in の末子音 /n/ が the に続く [ɪn ðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイル ルック フォー ダイマンズ イン ザ ケイヴ トゥモロー"
+        },
+        {
+          "en": "The players will look at the mysterious structure carefully.",
+          "ja": "プレイヤーたちはその謎めいた構造を注意深く見るでしょう。",
+          "ipa": "/ðə ˈpleɪərz wɪl ˈlʊk æt ðə ˌmɪsˈtɪɹiəs ˈstrʌktʃər ˈkɛrfəli/",
+          "linking": [
+            "the は弱形 /ðə/、players の初頭に連結 [ðə ˈpleɪərz]",
+            "look at: look の末子音 /k/ が at の初頭の母音に連結 [ˈlʊk æt]",
+            "at the: at の末子音 /t/ が the に続く [æt ðə]",
+            "the は弱形 /ðə/、mysterious の初頭に連結 [ðə ˌmɪsˈtɪɹiəs]"
+          ],
+          "kana": "ザ プレイヤーズ ウィル ルック アット ザ ミスティアリアス ストラクチャー ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be looking",
+      "ipa": "/wɪl bi ˈlʊkɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow, we'll be looking at the new farm design that's being built.",
+          "ja": "明日、私たちは建設中の新しい農場のデザインを見ることになります。",
+          "ipa": "/təˈmɑroʊ wəl bi ˈlʊkɪŋ æt ðə ˈnu ˈfɑrm dɪˈzaɪn ðæts ˈbɪɪŋ ˈbɪlt/",
+          "linking": [
+            "we'll be: will は弱形 /wəl/ に弱化し、be の初頭に連結 [wəl bi]",
+            "be が弱形で be → /bɪ/ (unstressed)",
+            "looking at: looking の末音 /ŋ/ が at の初頭の母音に連結 [ˈlʊkɪŋ æt]",
+            "at the: at の末子音 /t/ が the に続く [æt ðə]",
+            "the は弱形 /ðə/、new の初頭に連結 [ðə ˈnu]"
+          ],
+          "kana": "トゥモロー ウル ビ ルッキング アット ザ ニュー ファーム ディザイン ザッツ ビーイング ビルト"
+        },
+        {
+          "en": "She'll be looking for rare mobs while we explore the biome.",
+          "ja": "私たちがバイオームを探索する間に、彼女は珍しいモブを探すことになります。",
+          "ipa": "/ʃəl bi ˈlʊkɪŋ fɚ ˈreɪr moʊbz waɪl wi ɪkˈsplɔr ðə ˈbaɪoʊm/",
+          "linking": [
+            "She'll be: will は弱形 /əl/ に弱化、she の末音と連結 [ʃəl bi]",
+            "be が弱形で /bɪ/",
+            "looking for: looking の末音 /ŋ/ が for の初頭に連結 [ˈlʊkɪŋ fɚ]",
+            "for は弱形 /fɚ/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シル ビ ルッキング フォー レア モウズ ワイル ウィ エクスプロア ザ バイオウム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have looked",
+      "ipa": "/wɪl həv ˈlʊkt/",
+      "examples": [
+        {
+          "en": "By next week, you will have looked through all the enchantment books.",
+          "ja": "来週までに、あなたはすべてのエンチャント本を見終わることになります。",
+          "ipa": "/baɪ ˈnɛkst wik ju wɪl həv ˈlʊkt θru ɔl ðə ɪnˈtʃæntmənt ˈbʊks/",
+          "linking": [
+            "will have: will の末子音 /l/ が have の初頭に連結 [wɪl həv]",
+            "have は弱形 /həv/、looked の初頭に連結 [həv ˈlʊkt]",
+            "looked through: looked の末子音 /t/ が through の初頭に続く [ˈlʊkt θru]",
+            "the は弱形 /ðə/、enchantment の初頭に連結 [ðə ɪnˈtʃæntmənt]"
+          ],
+          "kana": "バイ ネクスト ウィーク ユー ウィル ハブ ルックト スルー オール ザ インチャントメント ブックス"
+        },
+        {
+          "en": "They'll have looked for hidden passages in the labyrinth by midnight.",
+          "ja": "真夜中までに、彼らは迷路で隠された通路を探し終わることになります。",
+          "ipa": "/ðeɪl həv ˈlʊkt fɚ ˈhɪdən ˈpæsɪdʒɪz ɪn ðə ˈlæbəˌrɪnθ baɪ ˈmɪdˌnaɪt/",
+          "linking": [
+            "They'll have: will は弱形 /əl/ に弱化、they の末音と連結 [ðeɪl həv]",
+            "have は弱形 /həv/、looked の初頭に連結 [həv ˈlʊkt]",
+            "looked for: looked の末子音 /t/ が for の初頭に連結 [ˈlʊkt fɚ]",
+            "for は弱形 /fɚ/、hidden の初頭に連結 [fɚ ˈhɪdən]",
+            "in the: in の末子音 /n/ が the に続く [ɪn ðə]",
+            "the は弱形 /ðə/、labyrinth の初頭に連結 [ðə ˈlæbəˌrɪnθ]"
+          ],
+          "kana": "ザイル ハブ ルックト フォー ヒデン パッセジーズ イン ザ ラビリンス バイ ミッドナイト"
+        }
+      ]
     }
   ]
 }
