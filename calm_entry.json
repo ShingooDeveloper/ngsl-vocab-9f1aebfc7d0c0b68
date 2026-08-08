@@ -271,6 +271,214 @@
           "kana": "アイ エンジョイ カーミング マイセルフ バイ フィッシング イン ザ ポンド ニア マイ ホーム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is calming",
+      "ipa": "/ɪz ˈkɑːmɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is calming a horse while preparing his new ranch.",
+          "ja": "スティーブが新しい牧場を準備しながら馬を落ち着かせている。",
+          "ipa": "/ˈstiv ɪz ˈkɑːmɪŋ ə ˈhɔrs waɪl priˈpɛrɪŋ hɪz ˈnu ˈræntʃ/",
+          "linking": [
+            "Steve is → /v/ が /ɪ/ に連結 [ˈstiv ɪz] スティーヴ イズ",
+            "is calming → is は弱形 /ɪz/",
+            "a horse → a は弱形 /ə/",
+            "preparing his → his は弱形 /hɪz/"
+          ],
+          "kana": "スティーヴ イズ カーミング ア ホース ワイル プリペアリング ヒズ ニュー ランチ"
+        },
+        {
+          "en": "I am calming the creepers by playing peaceful music on my jukebox.",
+          "ja": "ジュークボックスで穏やかな音楽を再生してクリーパーを落ち着かせている。",
+          "ipa": "/aɪ əm ˈkɑːmɪŋ ðə ˈkriːpərz baɪ ˈpleɪɪŋ ˈpisful ˈmjuːzɪk ɑn maɪ ˈdʒuːkˌbɑks/",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the creepers → the は弱形 /ðə/、creepers の語末 /z/ は by の /b/ に続く（子音+子音、連結なし）",
+            "by playing → by は /baɪ/",
+            "on my → on は /ɑn/、my は /maɪ/"
+          ],
+          "kana": "アイ アム カーミング ダ クリーパーズ バイ プレイング ピースフル ミュージック ォン マイ ジュークボックス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was calming",
+      "ipa": "/wəz ˈkɑːmɪŋ/",
+      "examples": [
+        {
+          "en": "I was calming the frightened horse when a storm suddenly arrived.",
+          "ja": "嵐が突然到着したときに、怯えた馬を落ち着かせていた。",
+          "ipa": "/aɪ wəz ˈkɑːmɪŋ ðə ˈfraɪtənd ˈhɔrs wɛn ə ˈstɔrm ˈsʌdənli əˈraɪvd/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the frightened → the は弱形 /ðə/",
+            "a storm → a は弱形 /ə/",
+            "arrived → 語末の /d/ は(独立形なので、次に強い子音がない場合)"
+          ],
+          "kana": "アイ ワズ カーミング ダ フライテンド ホース ウェン ア ストーム サドゥンリー ァライヴド"
+        },
+        {
+          "en": "They were calming the baby villagers when the attack began.",
+          "ja": "攻撃が始まったときに、彼らは赤ちゃん村人を落ち着かせていた。",
+          "ipa": "/ðeɪ wɚ ˈkɑːmɪŋ ðə ˈbeɪbi ˈvɪlɪdʒərz wɛn ðə əˈtæk bɪˈɡæn/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "the → 弱形 /ðə/（子音の前）",
+            "villagers when → 語末 /z/ が /w/ に続く（子音+子音、連結なし）",
+            "the attack → the は弱形 /ðə/",
+            "attack began → 語末 /k/ が弱形 /b/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ゼイ ワー カーミング ダ ベイビー ヴィリジャーズ ウェン ダ アタック ビガン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has calmed",
+      "ipa": "/həz ˈkɑːmd/",
+      "examples": [
+        {
+          "en": "She has calmed many horses by using apples.",
+          "ja": "彼女はリンゴを使って多くの馬を落ち着かせてきた。",
+          "ipa": "/ʃi həz ˈkɑːmd ˈmɛni ˈhɔrsɪz baɪ ˈjuːzɪŋ ˈæpəlz/",
+          "linking": [
+            "she has → she の語末 /ʃ/ が has の /h/ に続く（子音+子音、連結なし）。has は弱形 /həz/",
+            "has calmed → has の語末 /z/ が calmed の /k/ に続く（子音+子音、連結なし）",
+            "calmed many → calmed の語末 /d/ が many の /m/ に続く（子音+子音、連結なし）",
+            "horses by → horses の語末 /z/ が by の /b/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ カームド メニー ホーシーズ バイ ユージング アップルズ"
+        },
+        {
+          "en": "We have calmed the hostile mobs with music and lighting.",
+          "ja": "我々は音楽と照明でホスタイルなモブを落ち着かせてきた。",
+          "ipa": "/wi həv ˈkɑːmd ðə ˈhɑːstaɪl ˈmɑbz wɪð ˈmjuːzɪk ənd ˈlaɪtɪŋ/",
+          "linking": [
+            "we have → we の語末 /i/ が have の /h/ に続く（母音+子音、連結なし）。have は弱形 /həv/",
+            "have calmed → have の語末 /v/ が calmed の /k/ に続く（子音+子音、連結なし）",
+            "calmed the → calmed の語末 /d/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "hostile mobs → hostile の語末 /l/ が mobs の /m/ に続く（子音+子音、連結なし）",
+            "mobs with → mobs の語末 /z/ が with の /w/ に続く（子音+子音、連結なし）",
+            "music and → music の語末 /k/ が and の /æ/ に続く（子音+母音）。and は弱形 /ənd/"
+          ],
+          "kana": "ウィー ハヴ カームド ザ ホースタイル モブズ ウィズ ミュージック エンド ライティング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had calmed",
+      "ipa": "/həd ˈkɑːmd/",
+      "examples": [
+        {
+          "en": "After I had calmed the aggressive creeper, the base was finally safe.",
+          "ja": "攻撃的なクリーパーを落ち着かせた後、基地はやっと安全になった。",
+          "ipa": "/ˈæftər aɪ həd ˈkɑːmd ðə əˈɡrɛsɪv ˈkriːpər | ðə ˈbeɪs wəz ˈfaɪnəli ˈseɪf/",
+          "linking": [
+            "After I → after の語末 /r/ が I の /aɪ/ に連結 [ˈæftər aɪ] アフター アイ",
+            "I had → had は弱形 /həd/",
+            "had calmed → had の語末 /d/ が calmed の /k/ に続く（子音+子音、連結なし）",
+            "calmed the → calmed の語末 /d/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "aggressive creeper → aggressive の語末 /v/ が creeper の /k/ に続く（子音+子音、連結なし）",
+            "was finally → was は弱形 /wəz/"
+          ],
+          "kana": "アフター アイ ハド カームド ザ ァグレッシヴ クリーパー、ザ ベース ワズ ファイナリー セイフ"
+        },
+        {
+          "en": "He had calmed the baby villagers before the infection spread.",
+          "ja": "感染が広がる前に、彼は赤ちゃん村人を落ち着かせていた。",
+          "ipa": "/hi həd ˈkɑːmd ðə ˈbeɪbi ˈvɪlɪdʒərz bɪˈfɔr ðə ɪnˈfɛkʃən sprɛd/",
+          "linking": [
+            "He had → he の語末 /i/ が had の /h/ に続く（母音+子音、連結なし）。had は弱形 /həd/",
+            "had calmed → had の語末 /d/ が calmed の /k/ に続く（子音+子音、連結なし）",
+            "calmed the → calmed の語末 /d/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "baby villagers → baby の語末 /i/ が villagers の /v/ に続く（母音+子音、連結なし）",
+            "villagers before → villagers の語末 /z/ が before の /b/ に続く（子音+子音、連結なし）",
+            "before the → before の語末 /r/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハド カームド ザ ベイビー ヴィリジャーズ ビフォア ザ インフェクション スプレッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been calming",
+      "ipa": "/həz bɪn ˈkɑːmɪŋ/",
+      "examples": [
+        {
+          "en": "Steve has been calming the wild horses for the entire afternoon.",
+          "ja": "スティーブは一日中馬を落ち着かせている。",
+          "ipa": "/ˈstiv həz bɪn ˈkɑːmɪŋ ðə ˈwaɪld ˈhɔrsɪz fɔr ðə ɪnˈtaɪər ˌæftərˈnun/",
+          "linking": [
+            "Steve has → Steve の語末 /v/ が has の /h/ に続く（子音+子音、連結なし）。has は弱形 /həz/",
+            "has been → has の語末 /z/ が been の /b/ に続く（子音+子音、連結なし）。been は弱形 /bɪn/",
+            "been calming → been の語末 /n/ が calming の /k/ に続く（子音+子音、連結なし）",
+            "calming the → calming の語末 /ŋ/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "horses for → horses の語末 /z/ が for の /f/ に続く（子音+子音、連結なし）。for は弱形 /fɚ/",
+            "entire afternoon → entire の語末 /r/ が afternoon の /æ/ に連結 [ɪnˈtaɪər ˌæftərˈnun] エンタイア アフターヌーン"
+          ],
+          "kana": "スティーヴ ハズ ビン カーミング ザ ワイルド ホーシーズ ファー ザ エンタイア アフターヌーン"
+        },
+        {
+          "en": "They have been calming the animals since the new neighbor moved in.",
+          "ja": "新しいご近所さんが引っ越してきて以来、彼らは動物たちを落ち着かせている。",
+          "ipa": "/ðeɪ həv bɪn ˈkɑːmɪŋ ðə ˈænɪməlz sɪns ðə ˈnu ˈneɪbər ˈmuvd ɪn/",
+          "linking": [
+            "They have → They の語末 /eɪ/ が have の /h/ に続く（母音+子音、連結なし）。have は弱形 /həv/",
+            "have been → have の語末 /v/ が been の /b/ に続く（子音+子音、連結なし）。been は弱形 /bɪn/",
+            "been calming → been の語末 /n/ が calming の /k/ に続く（子音+子音、連結なし）",
+            "calming the → calming の語末 /ŋ/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "animals since → animals の語末 /z/ が since の /s/ に続く（子音+子音、連結なし）",
+            "since the → since の語末 /s/ が the の /ð/ に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "moved in → moved の語末 /d/ が in の /ɪ/ に連結 [ˈmuvd ɪn] ムーヴド イン"
+          ],
+          "kana": "ゼイ ハヴ ビン カーミング ザ アニマルズ シンス ザ ニュー ネイバー ムーヴド イン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been calming",
+      "ipa": "/həd bɪn ˈkɑːmɪŋ/",
+      "examples": [
+        {
+          "en": "I had been calming the horses for hours before the stable was finally complete.",
+          "ja": "厩舎がやっと完成するまで、何時間も馬を落ち着かせていた。",
+          "ipa": "/aɪ həd bɪn ˈkɑːmɪŋ ðə ˈhɔrsɪz fɔr ˈaʊərz bɪˈfɔr ðə ˈsteɪbəl wəz ˈfaɪnəli kəmˈplit/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/",
+            "for hours → for は弱形 /fɔr/",
+            "before the → before の /r/ は the の /ð/ に続く（子音+子音、連結なし）",
+            "was → 弱形 /wəz/"
+          ],
+          "kana": "アイ ハド ビン カーミング ダ ホーシーズ ファー アワーズ ビフォア ザ ステイバル ワズ ファイナリー コンプリート"
+        },
+        {
+          "en": "He had been calming the aggressive mobs for days when he finally found peace.",
+          "ja": "平和をついに見つけるまで、何日間も攻撃的なモブを落ち着かせていた。",
+          "ipa": "/hi həd bɪn ˈkɑːmɪŋ ðə əˈɡrɛsɪv ˈmɑbz fɔr ˈdeɪz wɛn hi ˈfaɪnəli faʊnd ˈpis/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/",
+            "for days → for は弱形 /fɔr/",
+            "when he → when の語末 /n/ が he の /h/ に続く（子音+子音、連結なし）",
+            "found peace → 語末 /d/ が /p/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ヒー ハド ビン カーミング ダ ァグレッシヴ モブズ ファー デイズ ウェン ヒー ファイナリー ファウンド ピース"
+        }
+      ]
     }
   ]
 }
