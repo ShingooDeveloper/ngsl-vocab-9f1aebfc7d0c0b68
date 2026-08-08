@@ -252,6 +252,221 @@
           "kana": "バイ エンハンスィング ユアー ウェポンズ レギュラーリー、ユール ビー ストロンガー イン エブリー バトル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is enhancing",
+      "ipa": "/ɪz ɪnˈhænsɪŋ/",
+      "examples": [
+        {
+          "en": "She is enhancing her diamond pickaxe with the best enchantments.",
+          "ja": "彼女は最良のエンチャントでダイヤのピッケアを強化している。",
+          "ipa": "/ʃi ɪz ɪnˈhænsɪŋ hɚ ˈdaɪmənd ˈpɪkˌæks wɪð ðə ˈbɛst ɪnˈtʃɑːntmənts/",
+          "linking": [
+            "She は /ʃi/。is に続く [ʃi ɪz] シー イズ（is は弱形 /ɪz/）",
+            "is は弱形 /ɪz/。enhancing に続く。is の /z/ が enhancing の /ɪ/ に連結 [ɪ.zɪnˈhænsɪŋ] イズ エンハンスィング",
+            "her は /hɚ/。diamond に続く [hɚ ˈdaɪmənd] ハー ダイアマンド",
+            "best の t が enchantments に連結 [ˈbɛst ɪnˈtʃɑːntmənts] ベスト エンチャントメンツ"
+          ],
+          "kana": "シー イズ エンハンスィング ハー ダイアマンド ピックアックス ウィズ ザ ベスト エンチャントメンツ"
+        },
+        {
+          "en": "They are enhancing the lighting system in their underground base.",
+          "ja": "彼らは地下基地の照明システムを強化している。",
+          "ipa": "/ðeɪ ər ɪnˈhænsɪŋ ðə ˈlaɪtɪŋ ˈsɪstəm ɪn ðɛr ˌʌndɚˈɡraʊnd ˈbeɪs/",
+          "linking": [
+            "They は /ðeɪ/。are に続く [ðeɪ ər] ザイ アー（are は弱形 /ər/）",
+            "are は弱形 /ər/。enhancing に続く。are の /r/ が enhancing の /ɪ/ に連結 [ə.rɪnˈhænsɪŋ] アー エンハンスィング",
+            "the は弱形 /ðə/。lighting に続く [ðə ˈlaɪtɪŋ] ザ ライティング",
+            "underground の d が base に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザイ アー エンハンスィング ザ ライティング システム イン ゼア アンダーグラウンド ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was enhancing",
+      "ipa": "/wəz ɪnˈhænsɪŋ/",
+      "examples": [
+        {
+          "en": "He was enhancing his armor when the creeper suddenly appeared.",
+          "ja": "彼がアーマーを強化していた時、クリーパーが突然現れた。",
+          "ipa": "/hi wəz ɪnˈhænsɪŋ hɪz ˈɑːrmɚ wɛn ðə ˈkripɚ ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "He は /hi/。was に続く [hi wəz] ヒー ワズ（was は弱形 /wəz/）",
+            "was は弱形 /wəz/。enhancing に続く。was の /z/ が enhancing の /ɪ/ に連結 [wə.zɪnˈhænsɪŋ] ワズ エンハンスィング",
+            "his は /hɪz/。armor に続く [hɪz ˈɑːrmɚ] ヒズ アーマー",
+            "the は弱形 /ðə/。creeper に続く [ðə ˈkripɚ] ザ クリーパー"
+          ],
+          "kana": "ヒー ワズ エンハンスィング ヒズ アーマー ウェン ザ クリーパー サドゥンリー アピアード"
+        },
+        {
+          "en": "We were enhancing our defense system all night.",
+          "ja": "私たちは夜通し防御システムを強化していた。",
+          "ipa": "/wi wɚ ɪnˈhænsɪŋ ˈaʊɚ dɪˈfɛns ˈsɪstəm ɔːl ˈnaɪt/",
+          "linking": [
+            "We は /wi/。were に続く [wi wɚ] ウィ ワー（were は /wɚ/）",
+            "were は /wɚ/。enhancing に続く。were の /r/ が enhancing の /ɪ/ に連結 [wɚ.ɪnˈhænsɪŋ] ワー エンハンスィング",
+            "our は /ˈaʊɚ/。defense に続く [ˈaʊɚ dɪˈfɛns] アワー ディフェンス",
+            "all は /ɔːl/。night に続く [ɔːl ˈnaɪt] オール ナイト"
+          ],
+          "kana": "ウィ ワー エンハンスィング アワー ディフェンス システム オール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been enhancing",
+      "ipa": "/həd bɪn ɪnˈhænsɪŋ/",
+      "examples": [
+        {
+          "en": "By the time I arrived at the base, she had been enhancing the tools for hours.",
+          "ja": "私が基地に着いた時、彼女は何時間もツールを強化していた。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ əˈraɪvd ət ðə ˈbeɪs | ʃi həd bɪn ɪnˈhænsɪŋ ðə ˈtulz fɔr ˈaʊɚz/",
+          "linking": [
+            "By は /baɪ/。the に続く [baɪ ðə] バイ ザ（the は弱形 /ðə/）",
+            "at は弱形 /ət/。the に続く [ət ðə] アット ザ",
+            "base の s が she に続く（子音+子音、連結なし）",
+            "she は /ʃi/。had に続く [ʃi həd] シー ハド（had は弱形 /həd/）",
+            "had は弱形 /həd/。been に続く。had の /d/ が been の /ɪ/ に連結 [hə.dɪn] ハド ビン（been は /bɪn/）",
+            "been は /bɪn/。enhancing に続く。been の /n/ が enhancing の /ɪ/ に連結 [bɪ.nɪnˈhænsɪŋ] ビン エンハンスィング",
+            "for は弱形 /fɔr/。hours に続く [fɔr ˈaʊɚz] フォー アワーズ"
+          ],
+          "kana": "バイ ザ タイム アイ アライブド アット ザ ベース、シー ハド ビン エンハンスィング ザ ツールズ フォー アワーズ"
+        },
+        {
+          "en": "We had been enhancing our gear all week before the server-wide event.",
+          "ja": "サーバー全体のイベント前に、私たちは1週間ずっとギアを強化していた。",
+          "ipa": "/wi həd bɪn ɪnˈhænsɪŋ ˈaʊɚ ɡɪr ɔːl ˈwik bɪˈfɔr ðə ˈsɜːrvɚwaɪd ɪˈvɛnt/",
+          "linking": [
+            "We は /wi/。had に続く [wi həd] ウィ ハド（had は弱形 /həd/）",
+            "had は弱形 /həd/。been に続く。had の /d/ が been の /ɪ/ に連結 [hə.dɪn] ハド ビン（been は /bɪn/）",
+            "been は /bɪn/。enhancing に続く。been の /n/ が enhancing の /ɪ/ に連結 [bɪ.nɪnˈhænsɪŋ] ビン エンハンスィング",
+            "all は /ɔːl/。week に続く [ɔːl ˈwik] オール ウィーク",
+            "before は /bɪˈfɔr/。the に続く [bɪˈfɔr ðə] ビフォー ザ（the は弱形 /ðə/）",
+            "the は弱形 /ðə/。server-wide に続く [ðə ˈsɜːrvɚwaɪd] ザ サーバーワイド"
+          ],
+          "kana": "ウィ ハド ビン エンハンスィング アワー ギアー オール ウィーク ビフォー ザ サーバーワイド イベント"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has enhanced",
+      "ipa": "/həz ɪnˈhænst/",
+      "examples": [
+        {
+          "en": "I have enhanced my armor with Protection IV enchantments.",
+          "ja": "Protection IVのエンチャントで自分のアーマーを強化しました。",
+          "ipa": "/aɪ həv ɪnˈhænst maɪ ˈɑːrmɚ wɪð prəˈtɛkʃən ˈfoʊr ɪnˈtʃɑːntmənts/",
+          "linking": [
+            "I は /aɪ/。have に続く [aɪ həv] アイ ハヴ",
+            "have は弱形 /həv/。enhanced に続く。have の /v/ が enhanced の /ɪ/ に連結 [hə.vɪnˈhænst] ハヴ エンハンスト",
+            "armor の r が with に続く（子音+子音、連結なし）",
+            "with は /wɪð/。Protection に続く [wɪð prəˈtɛkʃən] ウィズ プロテクション",
+            "Protection の n が IV に続く（子音+子音、連結なし）",
+            "enchantments は複数形で /ɪnˈtʃɑːntmənts/"
+          ],
+          "kana": "アイ ハヴ エンハンスト マイ アーマー ウィズ プロテクション フォー エンチャントメンツ"
+        },
+        {
+          "en": "The team has enhanced their pickaxes to mine diamonds more efficiently.",
+          "ja": "チームはダイヤを効率よく採掘するためにピッケアを強化しました。",
+          "ipa": "/ðə ˈtim həz ɪnˈhænst ðɛr ˈpɪkˌæksɪz tu ˈmaɪn ˈdaɪməndz ˈmɔr ɪˈfɪʃəntli/",
+          "linking": [
+            "The は弱形 /ðə/。team に続く [ðə ˈtim] ザ チーム",
+            "team の m が has に続く（子音+子音、連結なし）",
+            "has は弱形 /həz/。enhanced に続く。has の /z/ が enhanced の /ɪ/ に連結 [hə.zɪnˈhænst] ハズ エンハンスト",
+            "their は /ðɛr/。pickaxes に続く [ðɛr ˈpɪkˌæksɪz] ゼア ピックアックシズ",
+            "to は弱形 /tə/。mine に続く [tə ˈmaɪn] タ マイン",
+            "diamonds の z が more に続く（子音+子音、連結なし）",
+            "more は /ˈmɔr/。efficiently に続く [ˈmɔr ɪˈfɪʃəntli] モアー イフィシェントリー"
+          ],
+          "kana": "ザ チーム ハズ エンハンスト ゼア ピックアックシズ タ マイン ダイアマンズ モアー イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had enhanced",
+      "ipa": "/həd ɪnˈhænst/",
+      "examples": [
+        {
+          "en": "Before the dragon fight, she had enhanced all her weapons with Sharpness V.",
+          "ja": "ドラゴン戦の前に、彼女はSharpness Vですべての武器を強化していました。",
+          "ipa": "/bɪˈfɔr ðə ˈdræɡən ˈfaɪt | ʃi həd ɪnˈhænst ɔːl hɚ ˈwɛpənz wɪð ˈʃɑːrpnɪs ˈfaɪv/",
+          "linking": [
+            "Before は /bɪˈfɔr/。the に続く。the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォー ザ",
+            "the は弱形 /ðə/。dragon に続く [ðə ˈdræɡən] ザ ドラゴン",
+            "dragon の n が fight に続く（子音+子音、連結なし）",
+            "She は /ʃi/。had に続く [ʃi həd] シー ハド（had は弱形 /həd/）",
+            "had は弱形 /həd/。enhanced に続く。had の /d/ が enhanced の /ɪ/ に連結 [hə.dɪnˈhænst] ハド エンハンスト",
+            "all は /ɔːl/。her に続く [ɔːl hɚ] オール ハー",
+            "weapons の z が with に続く（子音+子音、連結なし）",
+            "with は /wɪð/。Sharpness に続く [wɪð ˈʃɑːrpnɪs] ウィズ シャープネス"
+          ],
+          "kana": "ビフォー ザ ドラゴン ファイト、シー ハド エンハンスト オール ハー ウェポンズ ウィズ シャープネス ファイヴ"
+        },
+        {
+          "en": "By the time we arrived, they had enhanced the base defense system completely.",
+          "ja": "私たちが到着した時に、彼らは既に基地の防御システムを完全に強化していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðeɪ həd ɪnˈhænst ðə ˈbeɪs dɪˈfɛns ˈsɪstəm kəmˈplitli/",
+          "linking": [
+            "By は /baɪ/。the に続く。the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "time の m が we に続く（子音+子音、連結なし）",
+            "We は /wi/。arrived に続く [wi əˈraɪvd] ウィ アライブド",
+            "They は /ðeɪ/。had に続く [ðeɪ həd] ザイ ハド（had は弱形 /həd/）",
+            "had は弱形 /həd/。enhanced に続く。had の /d/ が enhanced の /ɪ/ に連結 [hə.dɪnˈhænst] ハド エンハンスト",
+            "the は弱形 /ðə/。base に続く [ðə ˈbeɪs] ザ ベース",
+            "base の s が defense に続く（子音+子音、連結なし）",
+            "system の m が completely に続く（子音+子音、連結なし）"
+          ],
+          "kana": "バイ ザ タイム ウィ アライブド、ザイ ハド エンハンスト ザ ベース ディフェンス システム コンプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been enhancing",
+      "ipa": "/həz bɪn ɪnˈhænsɪŋ/",
+      "examples": [
+        {
+          "en": "I have been enhancing my survival gear all week for the adventure.",
+          "ja": "冒険のために1週間ずっとサバイバルギアを強化し続けています。",
+          "ipa": "/aɪ həv bɪn ɪnˈhænsɪŋ maɪ sərˈvaɪvəl ɡɪr ɔːl ˈwik fɔr ðə ˈædvɛntʃɚ/",
+          "linking": [
+            "I は /aɪ/。have に続く [aɪ həv] アイ ハヴ",
+            "have は弱形 /həv/。been に続く [həv bɪn] ハヴ ビン（been は /bɪn/）",
+            "been は /bɪn/。enhancing に続く。been の /n/ が enhancing の /ɪ/ に連結 [bɪ.nɪnˈhænsɪŋ] ビン エンハンスィング",
+            "survival の l が gear に続く（子音+子音、連結なし）",
+            "all は /ɔːl/。week に続く [ɔːl ˈwik] オール ウィーク",
+            "for は弱形 /fɔr/。the に続く。the は弱形 /ðə/ [fɔr ðə] フォー ザ"
+          ],
+          "kana": "アイ ハヴ ビン エンハンスィング マイ サーヴァイヴァル ギアー オール ウィーク フォー ザ アドヴェンチャー"
+        },
+        {
+          "en": "They have been enhancing the redstone circuits to automate the farm.",
+          "ja": "農場を自動化するためにレッドストーン回路を強化し続けています。",
+          "ipa": "/ðeɪ həv bɪn ɪnˈhænsɪŋ ðə ˈrɛdˌstoʊn ˈsɜːrkɪts tu ˈɔːtəˌmeɪt ðə ˈfɑːrm/",
+          "linking": [
+            "They は /ðeɪ/。have に続く [ðeɪ həv] ザイ ハヴ",
+            "have は弱形 /həv/。been に続く [həv bɪn] ハヴ ビン（been は /bɪn/）",
+            "been は /bɪn/。enhancing に続く。been の /n/ が enhancing の /ɪ/ に連結 [bɪ.nɪnˈhænsɪŋ] ビン エンハンスィング",
+            "the は弱形 /ðə/。redstone に続く [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "circuits の s が to に続く。to は弱形 /tə/（子音+子音、連結なし）",
+            "to は弱形 /tə/。automate に続く [tə ˈɔːtəˌmeɪt] タ オートメイト",
+            "the は弱形 /ðə/。farm に続く [ðə ˈfɑːrm] ザ ファーム"
+          ],
+          "kana": "ザイ ハヴ ビン エンハンスィング ザ レッドストーン サーキッツ タ オートメイト ザ ファーム"
+        }
+      ]
     }
   ]
 }

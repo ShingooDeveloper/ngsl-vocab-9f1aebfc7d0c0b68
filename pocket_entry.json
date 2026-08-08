@@ -274,6 +274,101 @@
           "kana": "シー ハド ビン ポキティング レア マテリアルズ オール モーニング ビフォー ハリン ベントリ ワズ フール"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has pocketed",
+      "ipa": "/həz ˈpɑkɪtɪd/",
+      "examples": [
+        {
+          "en": "I have pocketed all the diamonds from this cave.",
+          "ja": "この洞窟からすべてのダイヤモンドをポケットに入れました。",
+          "ipa": "[aɪ həv ˈpɑkɪtɪdɔl ðə ˈdaɪməndz frəm ðɪs keɪv]",
+          "linking": [
+            "have pocketed → have の弱形 /həv/ と pocketed の初頭 /p/ は子音+子音で接近。pocketed の末尾 /d/ が all の /ɔ/ に連結 [ˈpɑkɪtɪdɔl] ポキティドオール",
+            "from → 前置詞で弱形 /frəm/"
+          ],
+          "kana": "アイ ハヴ ポキティドオール ザ ダイモンズ フラム ディス ケイヴ"
+        },
+        {
+          "en": "She has pocketed the emeralds before the creeper exploded.",
+          "ja": "クリーパーが爆発する前に、彼女はエメラルドをポケットに入れました。",
+          "ipa": "[ʃi həz ˈpɑkɪtɪðə ɛˈmɛrəldz bɪˈfoɹ ðə ˈkripər ɪkˈsploʊdɪd]",
+          "linking": [
+            "has pocketed → has の末尾 /z/ と pocketed の初頭 /p/ は子音+子音で接近。pocketed の末尾 /d/ が the の初頭 /ð/ に連結 [ˈpɑkɪtɪðə] ポキティザ",
+            "before the → before の末尾 /r/ と the の初頭 /ð/ は子音+子音で接近"
+          ],
+          "kana": "シー ハズ ポキティザ エメラルドズ ビフォー ザ クリーパー イクスプロディド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had pocketed",
+      "ipa": "/həd ˈpɑkɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the cave collapsed, I had pocketed enough materials for three chests.",
+          "ja": "洞窟が崩壊する前に、私は3つの箱に必要な十分な材料をポケットに入れました。",
+          "ipa": "[bɪˈfoɹ ðə ˈkeɪv kəˈlæpst aɪ həd ˈpɑkɪtɪdɪˈnʌf ˌmætəˈrɪəlz fɚ θri tʃɛsts]",
+          "linking": [
+            "before the → before の末尾 /r/ と the の初頭 /ð/ は子音+子音で接近。the は弱形 /ðə/",
+            "cave collapsed → cave の末尾 /v/ と collapsed の初頭 /k/ は子音+子音で接近",
+            "had pocketed → had の末尾 /d/ と pocketed の初頭 /p/ は子音+子音で接近。pocketed の末尾 /d/ が enough の /ɪ/ に連結 [ˈpɑkɪtɪdɪˈnʌf] ポキティディナフ",
+            "for → 前置詞で弱形 /fər/"
+          ],
+          "kana": "ビフォー ザ ケイヴ コラプスト アイ ハド ポキティディナフ マテリアルズ フォー スリー チェスツ"
+        },
+        {
+          "en": "They had pocketed most of the valuable ore when the mining tunnel flooded.",
+          "ja": "採掘トンネルが浸水したとき、彼らは貴重な鉱石のほとんどをポケットに入れました。",
+          "ipa": "[ðeɪ həd ˈpɑkɪtɪd ˈmoʊst əv ðə ˈvæljuəbəl ˈɔr wɛn ðə ˈmaɪnɪŋ ˈtʌnəl ˈflʌdəd]",
+          "linking": [
+            "had pocketed → had の末尾 /d/ と pocketed の初頭 /p/ は子音+子音で接近",
+            "pocketed most → pocketed の末尾 /d/ と most の初頭 /m/ は子音+子音で接近",
+            "most of → most の末尾 /t/ が of の弱形 /əv/ の初頭 /ə/ に連結 [ˈmoʊstəv] モースタヴ",
+            "of the → of の末尾 /v/ と the の初頭 /ð/ は子音+子音で接近。the は弱形 /ðə/",
+            "valuable ore → valuable の末尾 /l/ が ore の初頭 /ɔ/ に連結 [ˈvæljuəbəl ˈɔr] ヴァルュアバルオア",
+            "when the → when の末尾 /n/ と the の初頭 /ð/ は子音+子音で接近"
+          ],
+          "kana": "ゼイ ハド ポキティド モースタヴ ザ ヴァルュアバルオア ウェン ザ マイニング タンネル フラッディド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been pocketing",
+      "ipa": "/həz bɪn ˈpɑkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been pocketing diamonds all day since I found this cave.",
+          "ja": "この洞窟を見つけて以来、私は一日中ダイヤモンドをポケットに入れています。",
+          "ipa": "[aɪ həv bɪn ˈpɑkɪtɪŋ ˈdaɪməndz ɔl ˈdeɪ sɪns aɪ faʊnd ðɪs keɪv]",
+          "linking": [
+            "have been → have の末尾 /v/ と been の初頭 /b/ は子音+子音で接近。been は弱形 /bɪn/",
+            "been pocketing → been の末尾 /n/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "pocketing diamonds → pocketing の末尾 /ŋ/ と diamonds の初頭 /d/ は鼻音+子音で接近",
+            "all day → all の末尾 /l/ と day の初頭 /d/ は子音+子音で接近"
+          ],
+          "kana": "アイ ハヴ ビン ポキティング ダイモンズ オール デイ シンス アイ ファウンド ディス ケイヴ"
+        },
+        {
+          "en": "She has been pocketing rare materials for the past hour.",
+          "ja": "彼女は過去1時間、レアマテリアルをポケットに入れています。",
+          "ipa": "[ʃi həz bɪn ˈpɑkɪtɪŋ rer ˌmætəˈrɪəlz fɚ ðə ˈpæst ˈaʊr]",
+          "linking": [
+            "has been → has の末尾 /z/ と been の初頭 /b/ は子音+子音で接近。been は弱形 /bɪn/",
+            "been pocketing → been の末尾 /n/ と pocketing の初頭 /p/ は子音+子音で接近",
+            "pocketing rare → pocketing の末尾 /ŋ/ と rare の初頭 /r/ は鼻音+子音で接近。rare の末尾 /r/ と materials の初頭 /m/ は子音+子音で接近",
+            "for the → for は弱形 /fər/。the は弱形 /ðə/",
+            "past hour → past の末尾 /t/ と hour の初頭 /aʊ/ は子音+母音で接近"
+          ],
+          "kana": "シー ハズ ビン ポキティング レア マテリアルズ フォー ザ パースト アワー"
+        }
+      ]
     }
   ]
 }
