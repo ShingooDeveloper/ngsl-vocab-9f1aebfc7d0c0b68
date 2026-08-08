@@ -189,6 +189,193 @@
           "kana": "バイ アサイニング タスクス フェアリー ウィー キープ モラル ハイ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is assigning",
+      "ipa": "/ɪz əˈsaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is assigning mining areas to our team.",
+          "ja": "管理者は私たちのチームに採掘エリアを割り当てています。",
+          "ipa": "/ðə ˈædmɪn ɪz əˈsaɪnɪŋ ˈmaɪnɪŋ ˈɛriəz tə aʊər ˈtiːm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin is → admin の語末 /n/ が is の /ɪ/ に連結 [ˈædmɪn ɪz]",
+            "is assigning → is の語末 /z/ が assigning の /ə/ に連結 [ɪz əˈsaɪnɪŋ]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ エドミン イズ アサイニング マイニング エリアズ タ アワー ティーム"
+        },
+        {
+          "en": "We are assigning equipment to each player.",
+          "ja": "私たちは各プレイヤーに装備を割り当てています。",
+          "ipa": "/wiː ɑr əˈsaɪnɪŋ ɪˈkwɪpmənt tə iːtʃ ˈpleɪər/",
+          "linking": [
+            "are assigning → are の語末 /r/ が assigning の /ə/ に連結 [ɑr əˈsaɪnɪŋ]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィー アー アサイニング イクィップメント タ イーチ プレイアー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was assigning",
+      "ipa": "/wəz əˈsaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin was assigning duties when I joined the server.",
+          "ja": "私がサーバーに参加したとき、管理者は業務を割り当てていました。",
+          "ipa": "/ðə ˈædmɪn wəz əˈsaɪnɪŋ ˈduːtiz wɛn aɪ ˈdʒɔɪnd ðə ˈsɝːvər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was assigning → was の語末 /z/ が assigning の /ə/ に連結 [wəz əˈsaɪnɪŋ]",
+            "when I → when の語末 /n/ が I の /aɪ/ に連結 [wɛn aɪ]"
+          ],
+          "kana": "ザ エドミン ワズ アサイニング デューティーズ ウェン アイ ジョインド ザ サーバー"
+        },
+        {
+          "en": "I was assigning mining zones while building our base.",
+          "ja": "私たちのベースを建築している間、私は採掘エリアを割り当てていました。",
+          "ipa": "/aɪ wəz əˈsaɪnɪŋ ˈmaɪnɪŋ ˈzoʊnz waɪl ˈbɪldɪŋ ˈaʊər ˈbeɪs/",
+          "linking": [
+            "I was → I と was が連続、was は弱形 /wəz/ [aɪ wəz]",
+            "was assigning → was の /z/ が assigning の /ə/ に連結 [wəz əˈsaɪnɪŋ]"
+          ],
+          "kana": "アイ ワズ アサイニング マイニング ゾーンズ ワイル ビルディング アワー ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been assigning",
+      "ipa": "/həd bɪn əˈsaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "They had been assigning tasks all day before the reset.",
+          "ja": "リセット前に、彼らは一日中タスクを割り当てていました。",
+          "ipa": "/ðeɪ həd bɪn əˈsaɪnɪŋ ˈtæsks ɔːl ˈdeɪ bɪˈfɔr ðə ˈriːsɛt/",
+          "linking": [
+            "They had → they と had が連続、had は弱形 /həd/ [ðeɪ həd]",
+            "been assigning → been の語末 /n/ が assigning の /ə/ に連結 [bɪn əˈsaɪnɪŋ]",
+            "before the → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン アサイニング タスクス オール デイ ビフォー ザ リーセット"
+        },
+        {
+          "en": "She had been assigning resources for hours when the crash happened.",
+          "ja": "クラッシュが起きたとき、彼女は数時間リソースを割り当てていました。",
+          "ipa": "/ʃi həd bɪn əˈsaɪnɪŋ ˈrɛsɝsɪz fɔr ˈaʊərz wɛn ðə ˈkræʃ ˈhæpənd/",
+          "linking": [
+            "She had → she と had が連続、had は弱形 /həd/ [ʃi həd]",
+            "been assigning → been の語末 /n/ が assigning の /ə/ に連結 [bɪn əˈsaɪnɪŋ]",
+            "for は弱形 /fər/"
+          ],
+          "kana": "シー ハド ビン アサイニング レサーシーズ フォー アワーズ ウェン ザ クラッシュ ハプンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has assigned",
+      "ipa": "/həz əˈsaɪnd/",
+      "examples": [
+        {
+          "en": "The admin has assigned resources to all new players.",
+          "ja": "管理者は全ての新しいプレイヤーにリソースを割り当てました。",
+          "ipa": "/ðə ˈædmɪn həz əˈsaɪnd ˈrɛsɝsɪz tə ɔːl ˈnjuː ˈpleɪərz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin has → admin の語末 /n/ が has の /ə/ に連結、has は弱形 /həz/ [ˈædmɪn həz]",
+            "has assigned → has の語末 /z/ が assigned の /ə/ に連結 [həz əˈsaɪnd]",
+            "assigned resources → assigned の語末 /d/ が resources の /r/ の直前で未開放 [əˈsaɪn̚d ˈrɛsɝsɪz]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ エドミン ハズ アサインド レサーシーズ タ オール ニュー プレイアーズ"
+        },
+        {
+          "en": "She has assigned mining tasks to the team.",
+          "ja": "彼女はチームに採掘タスクを割り当てました。",
+          "ipa": "/ʃi həz əˈsaɪnd ˈmaɪnɪŋ ˈtæsks tə ðə ˈtiːm/",
+          "linking": [
+            "She has → she と has が連続、has は弱形 /həz/ [ʃi həz]",
+            "has assigned → has の語末 /z/ が assigned の /ə/ に連結 [həz əˈsaɪnd]",
+            "assigned mining → assigned の語末 /d/ が mining の /m/ の直前で未開放 [əˈsaɪn̚d ˈmaɪnɪŋ]",
+            "to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ アサインド マイニング タスクス タ ザ ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had assigned",
+      "ipa": "/həd əˈsaɪnd/",
+      "examples": [
+        {
+          "en": "We had assigned all roles before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、私たちは全ての役割を割り当てていました。",
+          "ipa": "/wiː həd əˈsaɪnd ɔːl ˈroʊlz bɪˈfɔr ðə ˈsɝːvər kræʃt/",
+          "linking": [
+            "We had → we と had が連続、had は弱形 /həd/ [wiː həd]",
+            "had assigned → had の語末 /d/ が assigned の /ə/ に連結 [həd əˈsaɪnd]",
+            "assigned all → assigned の語末 /d/ が all の /ɔː/ に連結 [əˈsaɪnd ɔːl]",
+            "before the → the は弱形 /ðə/",
+            "server crashed → server の語末 /r/ が crashed の /k/ の直前で未開放 [ˈsɝːvər̚ kræʃt]"
+          ],
+          "kana": "ウィー ハド アサインド オール ロールズ ビフォー ザ サーバー クラッシュト"
+        },
+        {
+          "en": "They had assigned equipment to everyone by sunset.",
+          "ja": "日没までに、彼らは全員に装備を割り当てていました。",
+          "ipa": "/ðeɪ həd əˈsaɪnd ɪˈkwɪpmənt tə ˈɛvriˌwʌn baɪ ˈsʌnˌsɛt/",
+          "linking": [
+            "They had → they と had が連続、had は弱形 /həd/ [ðeɪ həd]",
+            "had assigned → had の語末 /d/ が assigned の /ə/ に連結 [həd əˈsaɪnd]",
+            "assigned equipment → assigned の語末 /d/ が equipment の /ɪ/ に連結 [əˈsaɪnd ɪˈkwɪpmənt]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ゼイ ハド アサインド イクィップメント タ エブリワン バイ サンセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been assigning",
+      "ipa": "/həz bɪn əˈsaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been assigning duties all morning.",
+          "ja": "管理者は朝からずっと業務を割り当てています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn əˈsaɪnɪŋ ˈduːtiz ɔːl ˈmɔrnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin has → admin の語末 /n/ が has の /ə/ に連結、has は弱形 /həz/ [ˈædmɪn həz]",
+            "has been → has の語末 /z/ が been の /b/ に連結、been は弱形 /bɪn/ [həz bɪn]",
+            "been assigning → been の語末 /n/ が assigning の /ə/ に連結 [bɪn əˈsaɪnɪŋ]"
+          ],
+          "kana": "ザ エドミン ハズ ビン アサイニング デューティーズ オール モーニング"
+        },
+        {
+          "en": "We have been assigning mining areas since the update.",
+          "ja": "アップデート以来、私たちは採掘エリアを割り当てています。",
+          "ipa": "/wiː həv bɪn əˈsaɪnɪŋ ˈmaɪnɪŋ ˈɛriəz sɪns ðə ˈʌpˌdeɪt/",
+          "linking": [
+            "We have → we と have が連続、have は弱形 /həv/ [wiː həv]",
+            "have been → have の語末 /v/ が been の /b/ に連結、been は弱形 /bɪn/ [həv bɪn]",
+            "been assigning → been の語末 /n/ が assigning の /ə/ に連結 [bɪn əˈsaɪnɪŋ]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ハヴ ビン アサイニング マイニング エリアズ シンス ザ アップデイト"
+        }
+      ]
     }
   ]
 }
