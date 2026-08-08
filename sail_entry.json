@@ -249,6 +249,199 @@
           "kana": "ザ プレイアーズ アー セイリング オン ザ オーシャン トゥゲザー"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is sailing",
+      "ipa": "/ɪz ˈseɪlɪŋ/",
+      "examples": [
+        {
+          "en": "I am sailing toward the village right now.",
+          "ja": "今、私は村に向かって航海しています。",
+          "ipa": "[aɪ æm ˈseɪlɪŋ təˈwɔrd ðə ˈvɪlɪdʒ raɪt naʊ]",
+          "linking": [
+            "am の /m/ が sailing の /s/ に連結 [æm ˈseɪlɪŋ] アム セイリング",
+            "sailing の /ŋ/ が toward の /t/ に未開放で続く [ˈseɪlɪŋ təˈwɔrd] セイリング タワード",
+            "toward の /d/ が the の /ð/ に未開放で続く [təˈwɔrd ðə] タワード ザ"
+          ],
+          "kana": "アイ アム セイリング タワード ザ ビリッジ ライト ナウ"
+        },
+        {
+          "en": "The boat is sailing smoothly through the river canyon.",
+          "ja": "ボートは川の峡谷を滑らかに航海しています。",
+          "ipa": "[ðə boʊt ɪz ˈseɪlɪŋ ˈsmuðli θru ðə ˈrɪvər ˈkænjən]",
+          "linking": [
+            "the は弱形 /ðə/。boat に連結 [ðə boʊt] ザ ボート",
+            "boat の /t/ が is に未開放で続く [boʊt ɪz] ボート イズ",
+            "is は弱形 /ɪz/。sailing に続く [ɪz ˈseɪlɪŋ] イズ セイリング",
+            "the は弱形 /ðə/。river に連結 [ðə ˈrɪvər] ザ リバー"
+          ],
+          "kana": "ザ ボート イズ セイリング スムーズリー スルー ザ リバー キャニオン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sailing",
+      "ipa": "/wəz ˈseɪlɪŋ/",
+      "examples": [
+        {
+          "en": "We were sailing when the creeper explosion happened.",
+          "ja": "クリーパーの爆発が起きたとき、私たちは航海していました。",
+          "ipa": "[wi wər ˈseɪlɪŋ wɛn ðə ˈkripər ɪkˈsploʊʒən ˈhæpənd]",
+          "linking": [
+            "we の /i/ が were の /w/ に連接（子音+子音、未開放）[wi wər] ウィ ワー",
+            "were の /r/ が sailing の /s/ に連結 [wər ˈseɪlɪŋ] ワー セイリング",
+            "when の /n/ が the の /ð/ に連接（子音+子音、未開放）[wɛn ðə] ウェン ザ"
+          ],
+          "kana": "ウィ ワー セイリング ウェン ザ クリーパー イクスプロージョン ハペンド"
+        },
+        {
+          "en": "She was sailing toward the island when the storm arrived.",
+          "ja": "嵐が到着したとき、彼女は島に向かって航海していました。",
+          "ipa": "[ʃi wəz ˈseɪlɪŋ təˈwɔrd ðə ˈaɪlənd wɛn ðə stɔrm əˈraɪvd]",
+          "linking": [
+            "She の /i/ が was の /w/ に連接（子音+子音、未開放）[ʃi wəz] シー ワズ",
+            "was は弱形 /wəz/。sailing に続く [wəz ˈseɪlɪŋ] ワズ セイリング",
+            "toward の /d/ が the の /ð/ に未開放で続く [təˈwɔrd ðə] タワード ザ",
+            "when の /n/ が the の /ð/ に連接（子音+子音、未開放）[wɛn ðə] ウェン ザ"
+          ],
+          "kana": "シー ワズ セイリング タワード ザ アイランド ウェン ザ ストーム アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sailing",
+      "ipa": "/hæd bɪn ˈseɪlɪŋ/",
+      "examples": [
+        {
+          "en": "We had been sailing for hours before discovering the sunken temple.",
+          "ja": "私たちは沈んだ寺院を発見する前に数時間航海していました。",
+          "ipa": "[wi həd bɪn ˈseɪlɪŋ fər ˈaʊərz bɪˈfɔr dɪsˈkʌvərɪŋ ðə ˈsʌŋkən ˈtɛmpəl]",
+          "linking": [
+            "we の /i/ が had の /h/ に連接（子音+子音、未開放）[wi həd] ウィ ハド",
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/。sailing に続く [bɪn ˈseɪlɪŋ] ビン セイリング",
+            "for は弱形 /fər/。hours に続く [fər ˈaʊərz] ファ アワーズ",
+            "before の /r/ が discovering の /d/ に連結 [bɪˈfɔr dɪsˈkʌvərɪŋ] ビフォー ディスカバリング"
+          ],
+          "kana": "ウィ ハド ビン セイリング ファ アワーズ ビフォー ディスカバリング ザ サンケン テンプル"
+        },
+        {
+          "en": "They had been sailing around the world for three days.",
+          "ja": "彼らは3日間世界を航海していました。",
+          "ipa": "[ðeɪ həd bɪn ˈseɪlɪŋ əˈraʊnd ðə wɜrld fər θri deɪz]",
+          "linking": [
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/。sailing に続く [bɪn ˈseɪlɪŋ] ビン セイリング",
+            "around の /d/ が the の /ð/ に未開放で続く [əˈraʊnd ðə] アラウンド ザ",
+            "the は弱形 /ðə/。world に連結 [ðə wɜrld] ザ ワールド",
+            "for は弱形 /fər/。three に続く [fər θri] ファ スリー"
+          ],
+          "kana": "ザイ ハド ビン セイリング アラウンド ザ ワールド ファ スリー デイズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sailed",
+      "ipa": "/hæz seɪld/",
+      "examples": [
+        {
+          "en": "I have sailed across many oceans looking for treasure.",
+          "ja": "私は宝を探して多くの海を航海してきました。",
+          "ipa": "[aɪ həv seɪld əˈkrɑs ˈmɛni ˈoʊʃənz ˈlʊkɪŋ fər ˈtrɛʒər]",
+          "linking": [
+            "have は弱形 /həv/。sailed に続く [həv seɪld] ハヴ セイルド",
+            "across の /s/ が many の /m/ に未開放で連接 [əˈkrɑs ˈmɛni] アクロス メニー",
+            "looking の /ŋ/ が for に未開放で続く。for は弱形 /fər/ [ˈlʊkɪŋ fər] ルッキング ファ",
+            "for の /r/ が treasure に連結 [fər ˈtrɛʒər] ファ トレジャー"
+          ],
+          "kana": "アイ ハヴ セイルド アクロス メニー オーシャンズ ルッキング ファ トレジャー"
+        },
+        {
+          "en": "The crew has sailed safely past the dangerous coral reef.",
+          "ja": "クルーは危険なサンゴ礁を安全に航海して過ぎました。",
+          "ipa": "[ðə kru hæz seɪld ˈseɪfli pæst ðə ˈdeɪndʒərəs ˈkɔrəl rif]",
+          "linking": [
+            "the は弱形 /ðə/。crew に連結 [ðə kru] ザ クルー",
+            "has は弱形 /həz/。sailed に続く [həz seɪld] ハズ セイルド",
+            "past の /t/ が the の /ð/ に未開放で連接 [pæst ðə] パスト ザ",
+            "the は弱形 /ðə/。dangerous に連結 [ðə ˈdeɪndʒərəs] ザ デンジャラス"
+          ],
+          "kana": "ザ クルー ハズ セイルド セイフリー パスト ザ デンジャラス コーラル リーフ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sailed",
+      "ipa": "/hæd seɪld/",
+      "examples": [
+        {
+          "en": "They had sailed all the way around the island before nightfall.",
+          "ja": "夜間までに、彼らは島の周りを一周航海していました。",
+          "ipa": "[ðeɪ həd seɪld ɑl ðə weɪ əˈraʊnd ðə ˈaɪlənd bɪˈfɔr ˈnaɪtfɑl]",
+          "linking": [
+            "had は弱形 /həd/。sailed に続く [həd seɪld] ハド セイルド",
+            "all の /l/ が the の /ð/ に未開放で連接 [ɑl ðə] オール ザ",
+            "the は弱形 /ðə/。way に連結 [ðə weɪ] ザ ウェイ",
+            "around の /d/ が the の /ð/ に未開放で連接 [əˈraʊnd ðə] アラウンド ザ"
+          ],
+          "kana": "ザイ ハド セイルド オール ザ ウェイ アラウンド ザ アイランド ビフォー ナイトフォール"
+        },
+        {
+          "en": "Before the storm hit, we had sailed far from land.",
+          "ja": "嵐が当たる前に、私たちは陸から遠く航海していました。",
+          "ipa": "[bɪˈfɔr ðə stɔrm hɪt | wi həd seɪld fɑr frəm lænd]",
+          "linking": [
+            "before の /r/ が the に連結 [bɪˈfɔr ðə] ビフォー ザ",
+            "the は弱形 /ðə/。storm に連結 [ðə stɔrm] ザ ストーム",
+            "had は弱形 /həd/。sailed に続く [həd seɪld] ハド セイルド",
+            "far の /r/ が from に連結 [fɑr frəm] ファー フラム"
+          ],
+          "kana": "ビフォー ザ ストーム ヒット、ウィ ハド セイルド ファー フラム ランド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sailing",
+      "ipa": "/hæz bɪn ˈseɪlɪŋ/",
+      "examples": [
+        {
+          "en": "She has been sailing toward the volcano for two hours straight.",
+          "ja": "彼女は2時間ぶっ続けで火山に向かって航海しています。",
+          "ipa": "[ʃi hæz bɪn ˈseɪlɪŋ təˈwɔrd ðə ˈvɑlkeɪnoʊ fɔr tu ˈaʊərz streɪt]",
+          "linking": [
+            "has は弱形 /həz/。been に続く [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。sailing に続く [bɪn ˈseɪlɪŋ] ビン セイリング",
+            "toward の /d/ が the の /ð/ に未開放で連接 [təˈwɔrd ðə] タワード ザ",
+            "the は弱形 /ðə/。volcano に連結 [ðə ˈvɑlkeɪnoʊ] ザ ボルケイノウ"
+          ],
+          "kana": "シー ハズ ビン セイリング タワード ザ ボルケイノウ フォー トゥー アワーズ ストレイト"
+        },
+        {
+          "en": "The players have been sailing across the vast ocean all day.",
+          "ja": "プレイヤーたちは一日中広大な海を航海し続けています。",
+          "ipa": "[ðə ˈpleɪərz hæv bɪn ˈseɪlɪŋ əˈkrɑs ðə ˈvæst ˈoʊʃən ɑl deɪ]",
+          "linking": [
+            "the は弱形 /ðə/。players に連結 [ðə ˈpleɪərz] ザ プレイアーズ",
+            "have は弱形 /həv/。been に続く [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/。sailing に続く [bɪn ˈseɪlɪŋ] ビン セイリング",
+            "across の /s/ が the の /ð/ に未開放で連接 [əˈkrɑs ðə] アクロス ザ",
+            "the は弱形 /ðə/。vast に連結 [ðə ˈvæst] ザ ヴァスト"
+          ],
+          "kana": "ザ プレイアーズ ハヴ ビン セイリング アクロス ザ ヴァスト オーシャン オール デイ"
+        }
+      ]
     }
   ]
 }
