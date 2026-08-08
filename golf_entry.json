@@ -172,6 +172,177 @@
           "kana": "ヒズ ゴルフィング イナ クリエイティヴ アリーナ ウィズ セヴァラル プレイヤーズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is golfing",
+      "ipa": "/ɪz ˈɡɑlfɪŋ/",
+      "examples": [
+        {
+          "en": "He is golfing at our custom course this afternoon.",
+          "ja": "彼は今午後、私たちのカスタムゴルフコースでゴルフをしています。",
+          "ipa": "/hiː ɪz ˈɡɑlfɪŋ æt ˈɑwɚ ˈkʌstəm ˈkɔrs ðɪs ˌæftərˈnun/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/。",
+            "at our → at の末尾子音 /t/ が our の初頭母音 /ɑ/ に連結 [ætˈɑwɚ] アタワー。"
+          ],
+          "kana": "ヒー イズ ゴルフィング アタワー カスタム コース ディス アフターヌーン"
+        },
+        {
+          "en": "They are golfing in the creative world all day.",
+          "ja": "彼らは創造モードの世界で一日中ゴルフをしています。",
+          "ipa": "/ðeɪ ɑr ˈɡɑlfɪŋ ɪn ðə kriˈeɪtɪv ˈwɝːld ɔl ˈdeɪ/",
+          "linking": [
+            "are は弱形 /ə/ に弱化。",
+            "in the → in の末尾鼻音 /n/ が the の弱形 /ðə/ に連結 [ɪnðə] インザ。"
+          ],
+          "kana": "ゼイ アー ゴルフィング インザ クリエイティヴ ワールド オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was golfing",
+      "ipa": "/wəz ˈɡɑlfɪŋ/",
+      "examples": [
+        {
+          "en": "He was golfing when the thunderstorm started.",
+          "ja": "雷雨が始まったとき、彼はゴルフをしていました。",
+          "ipa": "/hiː wəz ˈɡɑlfɪŋ wɛn ðə ˈθʌndərˌstɔrm ˈstɑrtəd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/。",
+            "when the → when の末尾子音 /n/ が the の弱形 /ðə/ に連結 [wɛnðə] ウェンザ。"
+          ],
+          "kana": "ヒー ワズ ゴルフィング ウェンザ サンダースストーム スターテッド"
+        },
+        {
+          "en": "I was golfing with my friends for several hours.",
+          "ja": "私は友達と数時間ゴルフをしていました。",
+          "ipa": "/aɪ wəz ˈɡɑlfɪŋ wɪð maɪ ˈfrɛndz fər ˈsɛvərəl ˈɑwərz/",
+          "linking": [
+            "was は弱形 /wəz/。",
+            "for は機能語で弱形 /fər/。"
+          ],
+          "kana": "アイ ワズ ゴルフィング ウィズ マイ フレンズ ファー セヴァラル アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been golfing",
+      "ipa": "/həd bɪn ˈɡɑlfɪŋ/",
+      "examples": [
+        {
+          "en": "He had been golfing for two hours before we arrived.",
+          "ja": "私たちが到着する前に、彼は2時間ゴルフをしていました。",
+          "ipa": "/hiː həd bɪn ˈɡɑlfɪŋ fər tu ˈɑwərz bɪˈfɔr wi əˈraɪvd/",
+          "linking": [
+            "had は弱形 /həd/, been は弱形 /bɪn/, for は弱形 /fər/。",
+            "before we → before の末尾子音 /r/ が we の初頭母音 /i/ に連結 [bɪˈfɔrwi] ビフォーウィ。"
+          ],
+          "kana": "ヒー ハド ビン ゴルフィング ファー トゥ アワーズ ビフォーウィ アライヴド"
+        },
+        {
+          "en": "They had been golfing since early morning in the minigame world.",
+          "ja": "彼らは早朝からミニゲーム世界でゴルフをしていました。",
+          "ipa": "/ðeɪ həd bɪn ˈɡɑlfɪŋ sɪns ˈɝːli ˈmɔːrnɪŋ ɪn ðə ˈmɪniɡeɪm ˈwɝːld/",
+          "linking": [
+            "had は弱形 /həd/, been は弱形 /bɪn/。",
+            "in the → in の末尾鼻音 /n/ が the の弱形 /ðə/ に連結 [ɪnðə] インザ。"
+          ],
+          "kana": "ゼイ ハド ビン ゴルフィング シンス アーリー モーニング インザ ミニゲイム ワールド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has golfed",
+      "ipa": "/həz ˈɡɑlft/",
+      "examples": [
+        {
+          "en": "He has golfed in this server for three months now.",
+          "ja": "彼は今このサーバーで3ヶ月間ゴルフをしてきました。",
+          "ipa": "/hi həz ˈɡɑlft ɪn ðɪs ˈsɝvɚ fər θri ˈmʌnðz ˈnaʊ/",
+          "linking": [
+            "has は助動詞で弱形 /həz/。",
+            "for は機能語で弱形 /fər/。"
+          ],
+          "kana": "ヒー ハズ ゴルフット イン ディス サーヴァー ファー スリー マンスズ ナウ"
+        },
+        {
+          "en": "Players have golfed at our course many times this week.",
+          "ja": "プレイヤーたちは今週、私たちのコースで何度もゴルフをしてきました。",
+          "ipa": "/ˈpleɪərz həv ˈɡɑlft æt ˈɑwɚ ˈkɔrs ˈmɛni ˈtaɪmz ðɪs ˈwik/",
+          "linking": [
+            "have は助動詞で弱形 /həv/。",
+            "at our → at の末尾子音 /t/ が our の初頭母音 /ɑ/ に連結 [ætˈɑwɚ] アタワー。"
+          ],
+          "kana": "プレイヤーズ ハヴ ゴルフット アタワー コース メニー タイムズ ディス ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had golfed",
+      "ipa": "/həd ˈɡɑlft/",
+      "examples": [
+        {
+          "en": "By the time we arrived, he had golfed for two hours.",
+          "ja": "私たちが到着した時までに、彼は2時間ゴルフをしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd, hi həd ˈɡɑlft fər tu ˈɑwərz/",
+          "linking": [
+            "had は弱形 /həd/。",
+            "for は弱形 /fər/。",
+            "by の末尾母音が the の弱形 /ðə/ に流れ込む [baɪðə] バイザ。"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド, ヒー ハド ゴルフット ファー トゥ アワーズ"
+        },
+        {
+          "en": "They had golfed at every hole before the server reset.",
+          "ja": "サーバーがリセットされる前に、彼らはすべてのホールでゴルフをしていました。",
+          "ipa": "/ðeɪ həd ˈɡɑlft æt ˈɛvri ˈhoʊl bɪˈfɔr ðə ˈsɝvɚ ɹɪˈsɛt/",
+          "linking": [
+            "had は弱形 /həd/。",
+            "at every → at の末尾子音 /t/ が every の初頭母音 /ɛ/ に連結 [ætˈɛvri] アットエブリー。",
+            "before the → before の末尾子音 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔrðə] ビフォーザ。"
+          ],
+          "kana": "ゼイ ハド ゴルフット アットエブリー ホール ビフォーザ サーヴァー リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been golfing",
+      "ipa": "/həz bɪn ˈɡɑlfɪŋ/",
+      "examples": [
+        {
+          "en": "He has been golfing since this morning.",
+          "ja": "彼は今朝からずっとゴルフをしています。",
+          "ipa": "/hi həz bɪn ˈɡɑlfɪŋ sɪns ðɪs ˈmɔːrnɪŋ/",
+          "linking": [
+            "has は助動詞で弱形 /həz/。",
+            "been は弱形 /bɪn/。"
+          ],
+          "kana": "ヒー ハズ ビン ゴルフィング シンス ディス モーニング"
+        },
+        {
+          "en": "We have been golfing at the same course all week.",
+          "ja": "私たちは一週間ずっと同じコースでゴルフをしています。",
+          "ipa": "/wi həv bɪn ˈɡɑlfɪŋ æt ðə ˈseɪm ˈkɔrs ɔl ˈwik/",
+          "linking": [
+            "have は助動詞で弱形 /həv/。",
+            "been は弱形 /bɪn/。",
+            "at the → at の末尾子音 /t/ が the の弱形 /ðə/ に連結 [ætðə] アットザ。"
+          ],
+          "kana": "ウィ ハヴ ビン ゴルフィング アットザ セイム コース オール ウィーク"
+        }
+      ]
     }
   ]
 }
