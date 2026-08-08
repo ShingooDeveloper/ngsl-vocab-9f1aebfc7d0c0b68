@@ -223,9 +223,201 @@
             "are は弱形 /ɑr/",
             "shading の末尾 /ŋ/ が the の初頭 /ð/ に子音で続き、連結なし",
             "the は弱形 /ðə/",
-            "tree の末尾 /i/ が leaves の初頭 /l/ に連結 [tri livz] トゥリー リーブズ"
+            "tree の末尾の母音 /i/ と leaves の初頭の子音 /l/ が自然に続く"
           ],
           "kana": "ウィ アー シェイディング ザ ニュー ストラクチャー ウィズ トゥリー リーブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is shading",
+      "ipa": "/ɪz ˈʃeɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The large oak tree is shading my farmland, preventing the crops from burning.",
+          "ja": "大きなオークの木が私の農地に陰を落とし、作物が焼けるのを防いでいます。",
+          "ipa": "/ðə ˈlɑrdʒ ˈoʊk ˈtriː ɪz ˈʃeɪdɪŋ maɪ ˈfɑrmˌlænd prɪˈvɛntɪŋ ðə ˈkɹɑps fɹəm ˈbɝnɪŋ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "is → 弱形 /ɪz/",
+            "from → 弱形 /frəm/",
+            "preventing the crops from → 複数の弱形が続く"
+          ],
+          "kana": "ザ ラージ オウク トゥリー イズ シェイディング マイ ファームランド プリベンティング ザ クロップス フラム バーニング"
+        },
+        {
+          "en": "I am shading the mob spawner with dark blocks to stop mobs from appearing.",
+          "ja": "私はダークブロックでモブスポーナーに暗がりをつけて、モブが出現するのを止めています。",
+          "ipa": "/aɪ əm ˈʃeɪdɪŋ ðə ˈmɑb ˈspoʊnɚ wɪð dɑrk blɑks tu stɑp mɑbz fɹəm əˈpɪrɪŋ/",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the → 弱形 /ðə/",
+            "to → 弱形 /tu/",
+            "from → 弱形 /fɹəm/"
+          ],
+          "kana": "アイ アム シェイディング ザ モブ スポーナー ウィズ ダーク ブロックス トゥ ストップ モブズ フラム ァピアリング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was shading",
+      "ipa": "/wəz ˈʃeɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The server was shading the crops with a canopy while I was building nearby.",
+          "ja": "サーバー管理者が野菜にキャノピーで日よけをしていて、私は近くで建築していました。",
+          "ipa": "/ðə ˈsɝvɚ wəz ˈʃeɪdɪŋ ðə ˈkɹɑps wɪð ə ˈkænəpi waɪl aɪ wəz ˈbɪldɪŋ ˈnɪrbaɪ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "was → 弱形 /wəz/",
+            "a → 弱形 /ə/",
+            "while の末尾の /l/ が I の初頭の母音 /aɪ/ に連結される"
+          ],
+          "kana": "ザ サーバー ワズ シェイディング ザ クロップス ウィズ ア キャナピー ワイル アイ ワズ ビルディング ニアバイ"
+        },
+        {
+          "en": "We were shading the farm area with leaves and wood to protect the plants.",
+          "ja": "私たちは葉と木で農場エリアに日よけをして、植物を保護していました。",
+          "ipa": "/wi wɚ ˈʃeɪdɪŋ ðə ˈfɑrm ˈɛriə wɪð livz ənd wʊd tu prəˈtɛkt ðə ˈplænts/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "the → 弱形 /ðə/",
+            "and → 弱形 /ənd/",
+            "to → 弱形 /tu/"
+          ],
+          "kana": "ウィー ワー シェイディング ザ ファーム エリア ウィズ リーヴス アン ウッド トゥ プロテクト ザ プラント"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been shading",
+      "ipa": "/həd bɪn ˈʃeɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The trees had been shading the crops all summer before we had to harvest them.",
+          "ja": "私たちが収穫しなければならなくなる前に、木はずっと作物に日よけをしていました。",
+          "ipa": "/ðə ˈtriz həd bɪn ˈʃeɪdɪŋ ðə ˈkɹɑps ɔl ˈsʌmɚ bɪˈfɔr wi həd tu ˈhɑrvɪst ðɛm/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "before we: /r/ が /w/ に続く（連結なし）",
+            "to → 弱形 /tu/"
+          ],
+          "kana": "ザ トゥリーズ ハド ビン シェイディング ザ クロップス オール サマー ビフォア ウィ ハド トゥ ハーベスト ゼム"
+        },
+        {
+          "en": "Steve had been shading the base with a thick roof before the storm struck.",
+          "ja": "嵐が襲いかかる前に、スティーブは厚い屋根でベースに日よけをしていました。",
+          "ipa": "/ˈstɪv həd bɪn ˈʃeɪdɪŋ ðə ˈbeɪs wɪð ə θɪk ˈruf bɪˈfɔr ðə ˈstɔrm strʌk/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/",
+            "a → 弱形 /ə/",
+            "before the: /r/ が /ð/ に続く（連結なし）"
+          ],
+          "kana": "スティーブ ハド ビン シェイディング ザ ベイス ウィズ ア シック ルフ ビフォア ザ ストーム ストラック"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has shaded",
+      "ipa": "/həz ˈʃeɪdəd/",
+      "examples": [
+        {
+          "en": "I have shaded the farm to protect the crops from sunlight.",
+          "ja": "作物を日光から守るために、農場に日よけをしました。",
+          "ipa": "/aɪ əv ˈʃeɪdəd ðə ˈfɑrm tu prəˈtɛkt ðə ˈkɹɑps fɹəm ˈsʌnˌlaɪt/",
+          "linking": [
+            "have は助動詞で弱形 /əv/",
+            "shaded の末尾子音 /d/ が the の初頭子音 /ð/ に未開放で続く [ʃeɪdəd̚]",
+            "to は弱形 /tu/、from は弱形 /frəm/"
+          ],
+          "kana": "アイ アブ シェイディッド ザ ファーム トゥ プロテクト ザ クロップス フラム サンライト"
+        },
+        {
+          "en": "The builders have shaded the entire village with dark oak roofs.",
+          "ja": "建設者たちはダークオークの屋根で村全体に日よけをしました。",
+          "ipa": "/ðə ˈbɪldərz əv ˈʃeɪdəd ðɪ ɪnˈtaɪr ˈvɪlɪdʒ wɪð ˈdɑrk ˈoʊk ˈrufs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "have は弱形 /əv/",
+            "shaded の末尾 /d/ が the の初頭 /ð/ に未開放で続く",
+            "the は弱形 /ðɪ/（直後が母音 /ɪ/）"
+          ],
+          "kana": "ザ ビルダーズ アブ シェイディッド ザ インタイア ビリッジ ウィズ ダーク オウク ルーフス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had shaded",
+      "ipa": "/həd ˈʃeɪdəd/",
+      "examples": [
+        {
+          "en": "I had shaded the mob farm before the daylight cycle began.",
+          "ja": "昼間のサイクルが始まる前に、モブファームに日よけをしていました。",
+          "ipa": "/aɪ həd ˈʃeɪdəd ðə ˈmɑb ˈfɑrm bɪˈfɔr ðə ˈdeɪˌlaɪt ˈsaɪkəl bɪˈɡæn/",
+          "linking": [
+            "had は弱形 /həd/",
+            "shaded の末尾 /d/ が the の初頭 /ð/ に未開放で続く",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハド シェイディッド ザ モブ ファーム ビフォア ザ デイライト サイクル ビガン"
+        },
+        {
+          "en": "By the time we arrived, they had shaded the entire base with leaves.",
+          "ja": "私たちが着いた時には、彼らは葉を使ってベース全体に日よけをしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðeɪ həd ˈʃeɪdəd ðɪ ɪnˈtaɪr ˈbeɪs wɪð livz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "arrived の末尾 /d/ が they の初頭 /ð/ に未開放で続く",
+            "had は弱形 /həd/",
+            "shaded の末尾 /d/ が the の初頭 /ð/ に未開放で続く",
+            "the は弱形 /ðɪ/（直後が母音）"
+          ],
+          "kana": "バイ ザ タイム ウィ ァラーヴド ザ ハド シェイディッド ザ インタイア ベイス ウィズ リーブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been shading",
+      "ipa": "/həz bɪn ˈʃeɪdɪŋ/",
+      "examples": [
+        {
+          "en": "We have been shading the crops all day to keep them safe.",
+          "ja": "一日中作物に日よけをして、安全に保っています。",
+          "ipa": "/wi əv bɪn ˈʃeɪdɪŋ ðə ˈkɹɑps ɔl ˈdeɪ tu kip ðɛm ˈseɪf/",
+          "linking": [
+            "have は弱形 /əv/、been は弱形 /bɪn/",
+            "shading の末尾 /ŋ/ が the の初頭 /ð/ に子音で続く（連結なし）",
+            "the は弱形 /ðə/、to は弱形 /tu/"
+          ],
+          "kana": "ウィ アブ ビン シェイディング ザ クロップス オール デイ トゥ キープ ゼム セイフ"
+        },
+        {
+          "en": "The server has been shading the farm with a canopy to prevent crop burning.",
+          "ja": "サーバー管理者はキャノピーで農場に日よけをして、作物が焼けるのを防いでいます。",
+          "ipa": "/ðə ˈsɝvɚ əz bɪn ˈʃeɪdɪŋ ðə ˈfɑrm wɪð ə ˈkænəpi tu prɪˈvɛnt ˈkrɑp ˈbɝnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /əz/（server の末尾 /ɚ/ に続く場合）、been は弱形 /bɪn/",
+            "shading の末尾 /ŋ/ が the の初頭 /ð/ に子音で続く",
+            "the は弱形 /ðə/、a は弱形 /ə/、to は弱形 /tu/"
+          ],
+          "kana": "ザ サーバー アズ ビン シェイディング ザ ファーム ウィズ ア キャナピー トゥ プリベント クロップ バーニング"
         }
       ]
     }
