@@ -197,6 +197,188 @@
           "kana": "ザ アドヴァンティッジ アヴ カムパウンディング リソーセズ イズ ザット スモウル ファームズ グロウ エクスポーネンシャリー オウヴァー タイム"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is compounding",
+      "ipa": "/ɪz kəmˈpaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "The difficulty is compounding as I face stronger mobs in the nether.",
+          "ja": "ネザーでより強いモブと対面するにつれて、難易度がますます悪化しています。",
+          "ipa": "/ðə ˌdɪfɪˈkɛlti ɪz kəmˈpaʊndɪŋ æz aɪ feɪs ˈstrɔŋər mɑbz ɪn ðə ˈnɛðər/",
+          "linking": [
+            "as の /z/ が I の /aɪ/ に連結。フラップ化 [ɾ]",
+            "is は機能語で弱形 /ɪz/、compounding に続く（子音開始）",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ ディフィカルティ イズ カムパウンディング アズアイ フェイス ストロンガー モッブズ イン ザ ネザー"
+        },
+        {
+          "en": "My mistakes are compounding because I keep making the same errors in building.",
+          "ja": "建築で同じミスを繰り返しているため、ミスが重なっています。",
+          "ipa": "/maɪ mɪsˈteɪks ə kəmˈpaʊndɪŋ bɪˈkɑz aɪ kip ˈmeɪkɪŋ ðə seɪm ˈɛrərz ɪn ˈbɪldɪŋ/",
+          "linking": [
+            "mistakes の /s/ が are の初頭母音に連結。are は弱形 /ə/",
+            "because の /z/ が I の /aɪ/ に連結。フラップ化 [ɾ]",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "マイ ミステイクス ア カムパウンディング ビコーズ アイ キープ メイキング ザ セイム エラーズ イン ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was compounding",
+      "ipa": "/wəz kəmˈpaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "The danger was compounding as I mined deeper into the cavern without supplies.",
+          "ja": "補給なしに洞穴をさらに深く掘り進めるにつれて、危険が増していました。",
+          "ipa": "/ðə ˈdeɪndʒər wəz kəmˈpaʊndɪŋ æz aɪ maɪnd ˈdipər ˈɪntu ðə ˈkævərn wɪðˈaʊt səˈplaɪz/",
+          "linking": [
+            "as の /z/ が I の /aɪ/ に連結。フラップ化 [ɾ]",
+            "was は機能語で弱形 /wəz/、compounding に続く（子音開始）",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ デインジャー ワズ カムパウンディング アズアイ マインド ディーパー イントゥ ザ キャヴァーン ウィザウト サプライズ"
+        },
+        {
+          "en": "My problems were compounding during the raid when my defenses started failing.",
+          "ja": "防御が失敗し始めた襲撃中に、私の問題は増えていました。",
+          "ipa": "/maɪ ˈprɑbləmz wɚ kəmˈpaʊndɪŋ ˈdʊrɪŋ ðə reɪd wɛn maɪ dɪˈfɛnsɪz ˈstɑɹtɪd ˈfeɪlɪŋ/",
+          "linking": [
+            "problems の /z/ が were の初頭母音に連結。were は弱形 /ə/",
+            "during の /ŋ/ が the の /ðə/ に連結。the は冠詞で弱形"
+          ],
+          "kana": "マイ プロブラムズ ワー カムパウンディング ドゥリング ザ レイド ウェン マイ ディフェンシズ スター テッド フェイリング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been compounding",
+      "ipa": "/həd bɪn kəmˈpaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "The resource shortage had been compounding since I neglected to set up efficient farms.",
+          "ja": "効率的な農場を作らなかったため、リソース不足が悪化し続けていました。",
+          "ipa": "/ðə ˈrɛsɔrs ˈʃɔɹtɪdʒ həd bɪn kəmˈpaʊndɪŋ sɪns aɪ nɪˈɡlɛktɪd tə sɛt ʌp ɪˈfɪʃənt fɑrmz/",
+          "linking": [
+            "since の /s/ が I の /aɪ/ に連結。フラップ化 [ɾ]",
+            "had と been は機能語で弱形 /həd/、/bɪn/、to も弱形 /tə/"
+          ],
+          "kana": "ザ レソース ショーテッジ ハド ビン カムパウンディング シンスアイ ネグレクティド タ セット アップ イフィシェント ファームズ"
+        },
+        {
+          "en": "The structural damage had been compounding throughout the season before I finally made repairs.",
+          "ja": "修理を最終的に行うまで、シーズン中ずっと構造的ダメージが増し続けていました。",
+          "ipa": "/ðə ˈstrʌktʃərəl ˈdæmɪdʒ həd bɪn kəmˈpaʊndɪŋ θruˈaʊt ðə ˈsizən bɪˈfoɹ aɪ ˈfaɪnəli meɪd rɪˈpɛɹz/",
+          "linking": [
+            "before の /r/ が I の /aɪ/ に連結",
+            "had と been は機能語で弱形 /həd/、/bɪn/、the も冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ ストラクチャラル ダミッジ ハド ビン カムパウンディング スルーアウト ザ シーズン ビフォーアイ ファイナリー メイド リペアーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has compounded",
+      "ipa": "/həz kəmˈpaʊndɪd/",
+      "examples": [
+        {
+          "en": "I have compounded the issue by adding more complex redstone circuits.",
+          "ja": "さらに複雑なレッドストーン回路を追加することで、問題を複雑にしてしまった。",
+          "ipa": "/aɪ həv kəmˈpaʊndɪd ðə ˈɪʃu baɪ ˈædɪŋ moʊr kəmˈplɛks ˈrɛdstoʊn ˈsɝkɪts/",
+          "linking": [
+            "have は機能語で弱形 /həv/、by も弱形 /baɪ̆/",
+            "more の /r/ が complex の /k/ に連結しない（複数子音）",
+            "compounded の /ɪd/ が the に連結しない"
+          ],
+          "kana": "アイ ハヴ カムパウンディド ザ イシュー バイ アディング モア コンプレックス レッドストーン サーキッツ"
+        },
+        {
+          "en": "Mining has compounded the cave system's fragility over time.",
+          "ja": "採掘により、洞窟システムの脆弱性は時間とともに増してきた。",
+          "ipa": "/ˈmaɪnɪŋ həz kəmˈpaʊndɪd ðə ˈkeɪv ˈsɪstəmz frəˈdʒɪlɪti ˈoʊvər taɪm/",
+          "linking": [
+            "has は機能語で弱形 /həz/ [z]音",
+            "the は冠詞で弱形 /ðə/、compounded に続く（子音開始）",
+            "system's の /z/ が fragility の /f/ に連結しない"
+          ],
+          "kana": "マイニング ハズ カムパウンディド ザ ケイブ シスタムズ フラジリティー オーヴァー タイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had compounded",
+      "ipa": "/həd kəmˈpaʊndɪd/",
+      "examples": [
+        {
+          "en": "The danger had compounded before I found the iron deposits.",
+          "ja": "鉄鉱床を見つける前に、危険性が増していた。",
+          "ipa": "/ðə ˈdeɪndʒər həd kəmˈpaʊndɪd bɪˈfoɹ aɪ faʊnd ðə ˈaɪərn dɪˈpɑːzɪts/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "had は機能語で弱形 /həd/",
+            "before の /ɹ/ が I の /aɪ/ に接近連結（r-coloring）",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ デインジャー ハド カムパウンディド ビフォーアイ ファウンド ザ アイアーン デポジッツ"
+        },
+        {
+          "en": "By the time I reached the Nether, several failures had compounded into a losing streak.",
+          "ja": "ネザーに到達するまでに、複数の失敗が連敗に変わっていた。",
+          "ipa": "/baɪ ðə taɪm aɪ riːtʃt ðə ˈnɛðər ˈsɛvərəl ˈfeɪljərz həd kəmˈpaʊndɪd ˈɪntə ə ˈluːzɪŋ strik/",
+          "linking": [
+            "by は機能語で弱形 /baɪ̆/",
+            "the は冠詞で弱形 /ðə/",
+            "reached の /t/ は未開放 [t̚]",
+            "the は冠詞で弱形 /ðə/",
+            "into は弱形 /ˈɪntə/、a は弱形 /ə/"
+          ],
+          "kana": "バイ ザ タイム アイ リーチット ザ ネザー セヴァラル フェイリャーズ ハド カムパウンディド イントゥ ア ルーズィング ストリーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been compounding",
+      "ipa": "/həz bɪn kəmˈpaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "The structural problems have been compounding since I first started mining here.",
+          "ja": "ここで最初に採掘を始めてから、構造的な問題がずっと悪化し続けている。",
+          "ipa": "/ðə ˈstrʌktʃərəl ˈprɑbləmz həv bɪn kəmˈpaʊndɪŋ sɪns aɪ fɝst ˈstɑɹtɪd ˈmaɪnɪŋ hɪr/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "problems の /z/ が have に連結。have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "first の /t/ が started の初頭に未開放で詰まる [fɝst̚ ˈstɑɹ]"
+          ],
+          "kana": "ザ ストラクチャラル プロブラムズ ハヴ ビン カムパウンディング シンス アイ ファースット スター ティド マイニング ヒア"
+        },
+        {
+          "en": "The resource shortage has been compounding throughout this season, making everything harder.",
+          "ja": "このシーズン中、リソース不足がずっと悪化し続けており、すべてがより難しくなっています。",
+          "ipa": "/ðə ˈrɛsɔɹs ˈʃɔɹtɪdʒ həz bɪn kəmˈpaʊndɪŋ θɹuːˈaʊt ðɪs ˈsizən ˈmeɪkɪŋ ˈɛvriθɪŋ ˈhɑɹdər/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "shortage の /dʒ/ が has に連結しない",
+            "has は機能語で弱形 /həz/、been は弱形 /bɪn/",
+            "this は弱形 /ðɪs/"
+          ],
+          "kana": "ザ レソース ショーティッジ ハズ ビン カムパウンディング スルーアウト ディス シーズン メイキング エヴリシング ハーダー"
+        }
+      ]
     }
   ],
   "idioms": [
