@@ -192,6 +192,203 @@
           "kana": "マルティプル アビューズィズ オヴザ システム ハヴ ビン リポーティド トゥー サーヴァー マダレイターズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is abusing",
+      "ipa": "/ɪz əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "The player is abusing the teleport glitch to reach unreachable areas of the map.",
+          "ja": "そのプレイヤーはテレポートバグを乱用してマップの到達不可能な領域に到達しようとしている。",
+          "ipa": "[ðə ˈpleɪər ɪz əˈbjuːzɪŋ ðə ˈtɛləˌpɔrt ɡlɪtʃ tə ˈritʃ ˌʌnˈritʃəbəl ˈɛəriəz əv ðə mæp]",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "is → 弱形 /ɪz/、player の /r/ が連結 [ˈpleɪər ɪz] プレイアー イズ",
+            "is abusing: /z/ が /ə/ に連結 [ɪz əˈbjuːzɪŋ] イズ アビューズィング",
+            "to → 弱形 /tə/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ プレイアーイズ アビューズィング ザ テレポート グリッチ タ リーチ アンリーチャブル エアリアズ アヴ ダ マップ"
+        },
+        {
+          "en": "They are abusing spawn protection to attack other players unfairly during the battle.",
+          "ja": "彼らはスポーン保護を乱用して戦闘中に他のプレイヤーを不公正に攻撃している。",
+          "ipa": "[ðeɪ ɑːr əˈbjuːzɪŋ ˈspoʊn prəˈtɛkʃən tə əˈtæk ˈʌðɚ ˈpleɪərz ʌnˈfɛrli ˈdʊrɪŋ ðə ˈbætəl]",
+          "linking": [
+            "are → 弱形 /ɑr/、/r/ が /ə/ に連結 [ɑr əˈbjuːzɪŋ] アー アビューズィング",
+            "to → 弱形 /tə/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ゼイ アーアビューズィング スポウン プロテクション タ アタック アザー プレイアーズ アンフェアリー デュリング ザ バットル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was abusing",
+      "ipa": "/wəz əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "I was abusing the resource duplication glitch when the server update suddenly forced a logout.",
+          "ja": "サーバーアップデートが突然ログアウトを強制したとき、リソース複製バグを乱用していた。",
+          "ipa": "[aɪ wəz əˈbjuːzɪŋ ðə rɪˈsɔːrs ˌduːplɪˈkeɪʃən ɡlɪtʃ wɛn ðə ˈsɜːrvər ˈʌpˌdeɪt ˈsʌdənli fɔːrst ə ˈlɑgaʊt]",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "was abusing: /z/ が /ə/ に連結 [wəz əˈbjuːzɪŋ] ワズ アビューズィング",
+            "the → 弱形 /ðə/",
+            "when the: /n/ が /ð/ に連なり [wɛn ðə] ウェン ザ",
+            "forced a: /t/ が /ə/ に連結 [fɔːrst ə] ファースト ア"
+          ],
+          "kana": "アイ ワズ アビューズィング ザ リソース ドゥープリケイション グリッチ ウェン ザ サーヴァー アップデイト サドゥンリー ファースト ア ラガウト"
+        },
+        {
+          "en": "They were abusing admin commands to grief the spawn area while the server owner was away.",
+          "ja": "サーバーオーナーが不在の間に、彼らはスポーン地域を破壊するために管理者コマンドを乱用していた。",
+          "ipa": "[ðeɪ wɚ əˈbjuːzɪŋ ˈædmɪn kəˈmændz tə ɡriːf ðə ˈspoʊn ˈɛəriə waɪl ðə ˈsɜːrvər ˈoʊnɚ wəz əˈweɪ]",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "were abusing: /r/ が /ə/ に連結 [wɚ əˈbjuːzɪŋ] ワー アビューズィング",
+            "to → 弱形 /tə/",
+            "the → 弱形 /ðə/",
+            "while the: /l/ が /ð/ に連なり [waɪl ðə] ワイル ザ",
+            "was → 弱形 /wəz/、away の /ə/ に連結 [wəz əˈweɪ] ワズ ァウェイ"
+          ],
+          "kana": "ゼイ ワー アビューズィング アドミン コマンズ タ グリーフ ザ スポウン エアリア ワイル ザ サーヴァー オウナー ワズ ァウェイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been abusing",
+      "ipa": "/həd bɪn əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "The hacker had been abusing the fly command for months before the administrators finally detected and banned him.",
+          "ja": "ハッカーが逮捕される数か月前から、飛行コマンドを乱用していたが、管理者が最終的に検出してバンした。",
+          "ipa": "[ðə ˈhækɚ həd bɪn əˈbjuːzɪŋ ðə flaɪ kəˈmænd fɚ mʌnθz bɪˈfɔːr ðə ˌædmɪnɪˈstreɪtərz ˈfaɪnəli dɪˈtɛktɪd ənd bænd hɪm]",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "been abusing: /n/ が /ə/ に連結 [bɪn əˈbjuːzɪŋ] ビン アビューズィング",
+            "the → 弱形 /ðə/",
+            "for → 弱形 /fɚ/",
+            "before the: /r/ が /ðə/ に連結 [bɪˈfɔːr ðə] ビフォア ザ",
+            "and → 弱形 /ənd/"
+          ],
+          "kana": "ダ ハッカー ハド ビン アビューズィング ザ フライ コマンド ファー マンスズ ビフォア ザ アドミニストレイターズ ファイナリー ディテクティド アン バンド ヒム"
+        },
+        {
+          "en": "Players had been abusing the same X-ray texture exploit for weeks without getting caught on the anti-cheat system.",
+          "ja": "プレイヤーたちはアンチチートシステムに引っかからないまま、数週間同じX線テクスチャ悪用を乱用していた。",
+          "ipa": "[ˈpleɪərz həd bɪn əˈbjuːzɪŋ ðə seɪm ˈɛks reɪ ˈtɛkstʃər ˈɛkˌsplɔɪt fɚ wiks wɪðˈaʊt ˈɡɛtɪŋ kɔt ɑn ðə ˌænti tʃit ˈsɪstəm]",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "been abusing: /n/ が /ə/ に連結 [bɪn əˈbjuːzɪŋ] ビン アビューズィング",
+            "the → 弱形 /ðə/",
+            "for → 弱形 /fɚ/",
+            "on the: /n/ が /ðə/ に連結 [ɑn ðə] オン ザ"
+          ],
+          "kana": "プレイアーズ ハド ビン アビューズィング ザ セイム エックス レイ テクスチャー エクスプロイット ファー ウィークス ウィザウト ゲッティング コッ オン ザ アンティ チート システム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has abused",
+      "ipa": "/həz əˈbjuːzd/",
+      "examples": [
+        {
+          "en": "The server owner has abused his authority to ban innocent players unfairly.",
+          "ja": "そのサーバーオーナーは無実のプレイヤーを不公正にバンするために権限を乱用してきた。",
+          "ipa": "[ðə ˈsɜːrvər ˈoʊnɚ həz əˈbjuːzd hɪz ɔːˈθɔrəti tə bæn ɪˈnoʊsənt ˈpleɪərz ʌnˈfɛrli]",
+          "linking": [
+            "owner の /r/ が has の /h/ に続く [ˈoʊnɚ həz] オウナー ハズ",
+            "has の /z/ が abused の /ə/ に連結（弱形 /həz/）[həz əˈbjuːzd] ハズ アビューズド",
+            "ban の /n/ が innocent の /ɪ/ に連結 [bæn ɪˈnoʊsənt] バン イノセント"
+          ],
+          "kana": "ザ サーヴァー オウナー ハズ アビューズド ヒズ オーソリティ タ バン イノセント プレイアーズ アンフェアリー"
+        },
+        {
+          "en": "Several players have abused the duplication glitch to get infinite diamonds.",
+          "ja": "複数のプレイヤーが無限ダイヤモンドを獲得するために複製バグを乱用してきた。",
+          "ipa": "[ˈsɛvrəl ˈpleɪərz həv əˈbjuːzd ðə ˌduːplɪˈkeɪʃən ɡlɪtʃ tə ɡɛt ɪnˈfɪnət ˈdaɪəmʌndz]",
+          "linking": [
+            "have の /v/ が abused の /ə/ に連結（弱形 /həv/）[həv əˈbjuːzd] ハヴ アビューズド",
+            "abused の /d/ が the の /ðə/ に続く [əˈbjuːzd ðə] アビューズド ザ",
+            "to は弱形 /tə/、get の /ɡ/ に続く [tə ɡɛt] タ ゲット"
+          ],
+          "kana": "セヴラル プレイアーズ ハヴ アビューズド ザ ドゥープリケイション グリッチ タ ゲット インフィニット ダイアモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had abused",
+      "ipa": "/həd əˈbjuːzd/",
+      "examples": [
+        {
+          "en": "The hacker had abused the fly glitch for weeks before the admins finally caught him.",
+          "ja": "ハッカーが管理者に最終的に捕まる前に、飛行バグを数週間乱用していた。",
+          "ipa": "[ðə ˈhækɚ həd əˈbjuːzd ðə flaɪ ɡlɪtʃ fɚ wiks bɪˈfɔːr ðə ˈædmɪnz ˈfaɪnəli kɔːt hɪm]",
+          "linking": [
+            "had の /d/ が abused の /ə/ に連結（弱形 /həd/）[həd əˈbjuːzd] ハド アビューズド",
+            "abused の /d/ が the の /ðə/ に続く [əˈbjuːzd ðə] アビューズド ザ",
+            "weeks の /z/ が before の /b/ に続く [wiks bɪˈfɔːr] ウィークス ビフォア",
+            "before の /r/ が the の /ðə/ に連結 [bɪˈfɔːr ðə] ビフォア ザ"
+          ],
+          "kana": "ザ ハッカー ハド アビューズド ザ フライ グリッチ ファー ウィークス ビフォア ザ アドミンズ ファイナリー コット ヒム"
+        },
+        {
+          "en": "By the time the server owner noticed, players had abused the resource duplication system.",
+          "ja": "サーバーオーナーが気づいたときまでに、プレイヤーはリソース複製システムを乱用していた。",
+          "ipa": "[baɪ ðə taɪm ðə ˈsɜːrvər ˈoʊnɚ ˈnoʊtɪst ˈpleɪərz həd əˈbjuːzd ðə ˈriːsɔːrs ˌduːplɪˈkeɪʃən ˈsɪstəm]",
+          "linking": [
+            "had の /d/ が abused の /ə/ に連結（弱形 /həd/）[həd əˈbjuːzd] ハド アビューズド",
+            "abused の /d/ が the の /ðə/ に続く [əˈbjuːzd ðə] アビューズド ザ",
+            "resource の /s/ が duplication の /d/ に続く [ˈriːsɔːrs ˌduː] リソース ドゥー"
+          ],
+          "kana": "バイ ザ タイム ザ サーヴァー オウナー ノウティスト プレイアーズ ハド アビューズド ザ リソース ドゥープリケイション システム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been abusing",
+      "ipa": "/həz bɪn əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been abusing the teleport command to secretly spy on players for months.",
+          "ja": "その管理者は数ヶ月間、テレポートコマンドをこっそり使ってプレイヤーを監視し続けている。",
+          "ipa": "[ðə ˈædmɪn həz bɪn əˈbjuːzɪŋ ðə ˈtɛləpɔːrt kəˈmænd tə ˈsiːkrətli spaɪ ɑn ˈpleɪərz fɚ mʌnθz]",
+          "linking": [
+            "has の /z/ が been の /b/ に続く（弱形 /həz/）[həz bɪn] ハズ ビン",
+            "been の /n/ が abusing の /ə/ に連結（弱形 /bɪn/）[bɪn əˈbjuːzɪŋ] ビン アビューズィング",
+            "abusing の /ŋ/ が the の /ðə/ に連なり [əˈbjuːzɪŋ ðə] アビューズィングザ",
+            "to は弱形 /tə/、spy の /s/ に続く [tə spaɪ] タ スパイ"
+          ],
+          "kana": "ザ アドミン ハズ ビン アビューズィングザ テレポート コマンド タ シークリットリー スパイ オン プレイアーズ ファー マンスズ"
+        },
+        {
+          "en": "Hackers have been abusing a security vulnerability in the login system without being detected.",
+          "ja": "ハッカーはログインシステムのセキュリティ脆弱性を乱用し続けており、検出されていない。",
+          "ipa": "[ˈhækərz həv bɪn əˈbjuːzɪŋ ə sɪˈkjʊrəti ˌvʌlnərəˈbɪləti ɪn ðə ˈlɑɡɪn ˈsɪstəm wɪðˈaʊt bɪŋ dɪˈtɛktɪd]",
+          "linking": [
+            "have の /v/ が been の /b/ に続く（弱形 /həv/）[həv bɪn] ハヴ ビン",
+            "been の /n/ が abusing の /ə/ に連結（弱形 /bɪn/）[bɪn əˈbjuːzɪŋ] ビン アビューズィング",
+            "abusing の /ŋ/ が a の /ə/ に連結 [əˈbjuːzɪŋ ə] アビューズィング ア",
+            "in の /n/ が the の /ðə/ に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "ハッカーズ ハヴ ビン アビューズィング ア セキュリティ ヴァルナラビリティ イン ザ ラギン システム ウィザウト ビング ディテクティド"
+        }
+      ]
     }
   ],
   "idioms": [
