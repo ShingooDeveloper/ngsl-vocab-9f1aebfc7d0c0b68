@@ -321,6 +321,96 @@
           "kana": "ウィ ハヴ ビン パーティング ザ テレイン トゥ クリエイト ア マシーヴ ベイス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will part",
+      "ipa": "/wɪl pɑrt/",
+      "examples": [
+        {
+          "en": "The stream will part the two mountains as erosion continues.",
+          "ja": "侵食が続くにつれて、小川は2つの山を分けるだろう。",
+          "ipa": "[ðə ˈstrim wɪl ˈpɑrt ðə tu ˈmaʊntənz əz ɪˈroʊʒən kənˈtɪnjuːz]",
+          "linking": [
+            "the + stream → 弱形 /ðə/ が /s/ に連結 [ðə ˈstrim] ザ ストリーム",
+            "will + part → /l/ が /p/ に未開放で連接 [wɪl̚ ˈpɑrt] ウィル パート",
+            "the + two → 弱形 /ðə/ が /t/ に連結 [ðə tu] ザ トゥー"
+          ],
+          "kana": "ザ ストリーム ウィル パート ザ トゥー マウンテンズ アズ イロージョン カンティニューズ"
+        },
+        {
+          "en": "They will part ways at the village entrance after the quest is complete.",
+          "ja": "クエストが完了した後、彼らは村の入り口で別れるだろう。",
+          "ipa": "[ðeɪ wɪl ˈpɑrt ˈweɪz æt ðə ˈvɪlɪdʒ ˈɛntrəns ˈæftər ðə ˈkwɛst ɪz kəmˈplit]",
+          "linking": [
+            "They + will → /ðeɪ/ が /w/ に連結 [ðeɪ wɪl] ザイ ウィル",
+            "will + part → /l/ が /p/ に未開放で連接 [wɪl̚ ˈpɑrt] ウィル パート",
+            "at + the → /t/ が弱形 /ðə/ に未開放で連接 [æt ðə] アット ザ"
+          ],
+          "kana": "ザイ ウィル パート ウェイズ アット ザ ヴィリッジ エントレンス アフター ザ クウェスト イズ コンプリート"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have parted",
+      "ipa": "/wɪl həv ˈpɑrtəd/",
+      "examples": [
+        {
+          "en": "The lava will have parted the obsidian barrier by the time we reach the other side.",
+          "ja": "私たちが反対側に到達するころには、溶岩は黒曜石の障壁を分けてしまっているだろう。",
+          "ipa": "[ðə ˈlɑvə wɪl həv ˈpɑrtəd ðə əbˈsɪdiən ˈbæriər baɪ ðə taɪm wi ritʃ ðə ˈʌðər saɪd]",
+          "linking": [
+            "lava + will → /ə/ が /w/ に連結 [ˈlɑvə wɪl] ラーヴァ ウィル",
+            "will + have → /l/ が /h/ に未開放で連接 [wɪl̚ həv] ウィル ハヴ",
+            "have + parted → /v/ が /p/ に未開放で連接 [həv̚ ˈpɑrtəd] ハヴ パーテッド"
+          ],
+          "kana": "ザ ラーヴァ ウィル ハヴ パーテッド ザ アブシディアン バリアー バイ ザ タイム ウィ リーチ ザ アザー サイド"
+        },
+        {
+          "en": "I'll have parted with all my diamonds by tomorrow's deadline.",
+          "ja": "明日の期限までに、私はすべてのダイヤを手放してしまっているだろう。",
+          "ipa": "[aɪl həv ˈpɑrtəd wɪð ɔːl maɪ ˈdaɪməndz baɪ təˈmɑˌroʊz ˈdɛdˌlaɪn]",
+          "linking": [
+            "I'll + have → 縮約形 /aɪl/ が弱形 /həv/ に連結 [aɪl həv] アイル ハヴ",
+            "with + all → /ð/ が /ɔ/ に連結 [wɪð ɔːl] ウィズ オール",
+            "by + tomorrow's → /baɪ/ が /t/ に連結 [baɪ təˈmɑˌroʊz] バイ トゥモローズ"
+          ],
+          "kana": "アイル ハヴ パーテッド ウィズ オール マイ ダイモンズ バイ トゥモローズ デッドライン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be parting",
+      "ipa": "/wɪl bi ˈpɑrtɪŋ/",
+      "examples": [
+        {
+          "en": "The water will be parting the rocky surface when the heavy rainfall begins.",
+          "ja": "大雨が降り始めるとき、水は岩の多い地表を分け続けるだろう。",
+          "ipa": "[ðə ˈwɔtər wɪl bi ˈpɑrtɪŋ ðə ˈrɑki ˈsɝfɪs wɛn ðə ˈhɛvi ˈreɪnˌfɔːl bɪˈɡɪnz]",
+          "linking": [
+            "water + will → /r/ が /w/ に未開放で連接 [ˈwɔtər wɪl] ウォーター ウィル",
+            "will + be → /l/ が /b/ に未開放で連接 [wɪl̚ bi] ウィル ビー",
+            "be + parting → /i/ が /p/ に連結 [bi ˈpɑrtɪŋ] ビー パーティング"
+          ],
+          "kana": "ザ ウォーター ウィル ビー パーティング ザ ロッキー サーフィス ウェン ザ ヘヴィ レインフォール ビギンズ"
+        },
+        {
+          "en": "You'll be parting the dense forest while searching for the treasure chest.",
+          "ja": "宝箱を探している間、あなたは茂った森を分け続けるだろう。",
+          "ipa": "[juːl bi ˈpɑrtɪŋ ðə dɛns ˈfɔrəst waɪl ˈsɝtʃɪŋ fɔr ðə ˈtrɛʒər tʃɛst]",
+          "linking": [
+            "You'll + be → 縮約形 /juːl/ が /b/ に未開放で連接 [juːl̚ bi] ユール ビー",
+            "be + parting → /i/ が /p/ に連結 [bi ˈpɑrtɪŋ] ビー パーティング",
+            "for + the → /fɔr/ が弱形 /ðə/ に連結 [fɔr ðə] ファー ザ"
+          ],
+          "kana": "ユール ビー パーティング ザ デンス フォレスト ワイル サーチング ファー ザ トレジャー チェスト"
+        }
+      ]
     }
   ]
 }
