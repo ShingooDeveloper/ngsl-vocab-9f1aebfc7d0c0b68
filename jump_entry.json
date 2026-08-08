@@ -235,6 +235,202 @@
           "kana": "ザ ジャムズ アクロス ザ ラーヴァ リクワイアー プリサイス タイミング トゥー サーヴァイヴ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is jumping",
+      "ipa": "/ɪz ˈdʒʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The player is jumping over the lava pit right now.",
+          "ja": "プレイヤーが今まさに溶岩ピットを飛び越えています。",
+          "ipa": "/ðə ˈpleɪər ɪz ˈdʒʌmpɪŋ ˈoʊvər ðə ˈlɑvə ˈpɪt ˈraɪt ˈnaʊ/",
+          "linking": [
+            "the player: the は弱形 /ðə/",
+            "is jumping: is は弱形 /ɪz/。/z/ + /dʒ/（子音+子音、連結なし）",
+            "jumping over: /ŋ/ + /oʊ/（子音+母音、連結なし）",
+            "over the: /r/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ プレイアー イズ ジャンピング オウバー ザ ラーヴァ ピット ライト ナウ"
+        },
+        {
+          "en": "While we are jumping, the mob is chasing us closely.",
+          "ja": "私たちがジャンプしている間、モブが私たちを追いかけています。",
+          "ipa": "/waɪl wi ɑr ˈdʒʌmpɪŋ | ðə ˈmɑb ɪz ˈtʃeɪsɪŋ ʌs ˈkloʊsli/",
+          "linking": [
+            "While we: /l/ + /w/（子音+子音、連結なし）",
+            "are jumping: /r/ + /dʒ/（子音+子音、連結なし）",
+            "mob is: /b/ + /ɪ/（子音+母音、連結なし）",
+            "is chasing: is は弱形 /ɪz/。/z/ + /tʃ/（子音+子音、連結なし）"
+          ],
+          "kana": "ワイル ウィー アー ジャンピング、ザ モブ イズ チェイシング アス クロースリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was jumping",
+      "ipa": "/wəz ˈdʒʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "I was jumping when the creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れたとき、私はジャンプしていました。",
+          "ipa": "/aɪ wəz ˈdʒʌmpɪŋ wɛn ðə ˈkriːpər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was jumping: was は弱形 /wəz/。/z/ + /dʒ/（子音+子音、連結なし）",
+            "jumping when: /ŋ/ + /w/（子音+子音、連結なし）",
+            "the creeper: the は弱形 /ðə/",
+            "creeper suddenly: /r/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ワズ ジャンピング ウェン ザ クリーパー サドンリー アピアード"
+        },
+        {
+          "en": "They were jumping across the gap as the bridge collapsed.",
+          "ja": "橋が崩れ落ちるとき、彼らはギャップを飛び越えていました。",
+          "ipa": "/ðeɪ wər ˈdʒʌmpɪŋ əˈkrɔs ðə ˈɡæp æz ðə ˈbrɪdʒ kəˈlæpst/",
+          "linking": [
+            "were jumping: were は弱形 /wər/。/r/ + /dʒ/（子音+子音、連結なし）",
+            "jumping across: /ŋ/ + /ə/（子音+母音、連結なし）",
+            "across the: /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "bridge collapsed: /dʒ/ + /k/（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ワー ジャンピング アクロス ザ ギャップ アズ ザ ブリッジ コラプスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been jumping",
+      "ipa": "/həd bɪn ˈdʒʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The player had been jumping for several minutes before reaching the summit.",
+          "ja": "頂上に到達する前に、プレイヤーは数分間ジャンプしていました。",
+          "ipa": "/ðə ˈpleɪər həd bɪn ˈdʒʌmpɪŋ fɔr ˈsɛvərəl ˈmɪnɪts bɪˈfɔr ˈriːtʃɪŋ ðə ˈsʌmɪt/",
+          "linking": [
+            "the player: the は弱形 /ðə/",
+            "had been: had は弱形 /həd/、been は弱形 /bɪn/。/d/ + /b/（子音+子音、連結なし）",
+            "been jumping: /n/ + /dʒ/（子音+子音、連結なし）",
+            "jumping for: /ŋ/ + /f/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ プレイアー ハド ビン ジャンピング フォー セヴァラル ミニッツ ビフォー リーチング ザ サミット"
+        },
+        {
+          "en": "They had been jumping back and forth to warm up before entering the battle arena.",
+          "ja": "戦闘アリーナに入る前に、彼らは体を温めるために行ったり来たりジャンプしていました。",
+          "ipa": "/ðeɪ həd bɪn ˈdʒʌmpɪŋ bæk ənd ˈfɔrθ tu ˈwɔrm ʌp bɪˈfɔr ɛnˈtərɪŋ ðə ˈbætəl əˈriːnə/",
+          "linking": [
+            "had been: had は弱形 /həd/、/d/ + /b/（子音+子音、連結なし）",
+            "been jumping: /n/ + /dʒ/（子音+子音、連結なし）",
+            "jumping back: /ŋ/ + /b/（子音+子音、連結なし）",
+            "back and: /k/ + /æn/（子音+母音、連結なし）、and は弱形 /ənd/"
+          ],
+          "kana": "ゼイ ハド ビン ジャンピング バック アンド フォース トゥ ウォーム アップ ビフォー エンタリング ザ バットル アリーナ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has jumped",
+      "ipa": "/həz ˈdʒʌmpt/",
+      "examples": [
+        {
+          "en": "I have jumped over lava pits many times in this world.",
+          "ja": "このワールドで何度も溶岩を飛び越えました。",
+          "ipa": "/aɪ həv ˈdʒʌmpt ˈoʊvər ˈlɑvə ˈpɪts ˈmɛni ˈtaɪmz ɪn ðɪs ˈwɜrld/",
+          "linking": [
+            "have jumped: have は弱形 /həv/。/v/ + /dʒ/（子音+子音、連結なし）",
+            "jumped over: /t/ + /oʊ/（子音+母音、連結なし）",
+            "over lava: /r/ + /l/（子音+子音、連結なし）",
+            "in this: /n/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "アイ ハヴ ジャムプト オウバー ラーヴァ ピッツ メニー タイムズ イン ディス ワールド"
+        },
+        {
+          "en": "He has jumped onto the highest platform in the Nether.",
+          "ja": "彼はネザーの最も高いプラットフォームにジャンプしました。",
+          "ipa": "/hi həz ˈdʒʌmpt ˈɑntu ðə ˈhaɪəst ˈplætfɔrm ɪn ðə ˈnɛðər/",
+          "linking": [
+            "has jumped: has は弱形 /həz/。/z/ + /dʒ/（子音+子音、連結なし）",
+            "jumped onto: /t/ + /ɑ/（子音+母音、連結なし）",
+            "the highest: the は弱形 /ðə/",
+            "in the: /n/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー ハズ ジャムプト オントゥ ザ ハイエスト プラットフォーム イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had jumped",
+      "ipa": "/həd ˈdʒʌmpt/",
+      "examples": [
+        {
+          "en": "Before the lava spread, we had jumped safely across the gap.",
+          "ja": "溶岩が広がる前に、私たちは安全にギャップを飛び越えていました。",
+          "ipa": "/bɪˈfɔr ðə ˈlɑvə ˈsprɛd | wi həd ˈdʒʌmpt ˈseɪfli əˈkrɔs ðə ˈɡæp/",
+          "linking": [
+            "Before the: /r/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "had jumped: had は弱形 /həd/。/d/ + /dʒ/（子音+子音、連結なし）",
+            "jumped safely: /t/ + /s/（子音+子音、連結なし）",
+            "across the: /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ビフォー ザ ラーヴァ スプレッド、ウィー ハド ジャムプト セイフリー アクロス ザ ギャップ"
+        },
+        {
+          "en": "After he had jumped into the end portal, the dragon appeared.",
+          "ja": "彼がエンドポータルに飛び込んだ後、ドラゴンが現れました。",
+          "ipa": "/ˈæftər hi həd ˈdʒʌmpt ˈɪntu ði ˈɛnd ˈpoʊrtəl | ðə ˈdrægən əˈpɪrd/",
+          "linking": [
+            "After he: /r/ + /h/（子音+子音、連結なし）",
+            "had jumped: had は弱形 /həd/。/d/ + /dʒ/（子音+子音、連結なし）",
+            "jumped into: /t/ + /ɪ/（子音+母音、連結なし）",
+            "the end: the は弱形 /ðə/ または /ði/（母音前）",
+            "end portal: /d/ + /p/（子音+子音、連結なし）"
+          ],
+          "kana": "アフター ヒー ハド ジャムプト イントゥ ディー エンド ポータル、ザ ドラゴン アピアード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been jumping",
+      "ipa": "/həz bɪn ˈdʒʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The slime has been jumping up and down in the swamp for hours.",
+          "ja": "スライムは沼地で何時間も上下にジャンプし続けています。",
+          "ipa": "/ðə ˈslaɪm həz bɪn ˈdʒʌmpɪŋ ˈʌp ənd ˈdaʊn ɪn ðə ˈswɑmp fɔr ˈaʊərz/",
+          "linking": [
+            "the slime: the は弱形 /ðə/",
+            "has been: has は弱形 /həz/、been は弱形 /bɪn/。/z/ + /b/（子音+子音、連結なし）",
+            "been jumping: /n/ + /dʒ/（子音+子音、連結なし）",
+            "jumping up: /ŋ/ + /ʌ/（子音+母音、連結なし）",
+            "in the: /n/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ スライム ハズ ビン ジャンピング アップ アンド ダウン イン ザ スワンプ フォー アワーズ"
+        },
+        {
+          "en": "We have been jumping over obstacles all morning to train for the boss fight.",
+          "ja": "ボス戦に備えて、私たちは朝中障害物を飛び越えてトレーニングし続けています。",
+          "ipa": "/wi həv bɪn ˈdʒʌmpɪŋ ˈoʊvər ˈɑbstəkəlz ˈɔl ˈmɔrnɪŋ tu ˈtreɪn fɔr ðə ˈbɑs ˈfaɪt/",
+          "linking": [
+            "have been: have は弱形 /həv/、/v/ + /b/（子音+子音、連結なし）",
+            "been jumping: /n/ + /dʒ/（子音+子音、連結なし）",
+            "jumping over: /ŋ/ + /oʊ/（子音+母音、連結なし）",
+            "all morning: /l/ + /m/（子音+子音、連結なし）",
+            "to train: to は弱形 /tə/",
+            "for the: /r/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィー ハヴ ビン ジャンピング オウバー オブスタクルズ オール モーニング トゥ トレイン フォー ザ ボス ファイト"
+        }
+      ]
     }
   ]
 }
