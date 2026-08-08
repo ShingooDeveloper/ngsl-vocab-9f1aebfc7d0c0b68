@@ -276,6 +276,196 @@
           "kana": "ディス イズ ザ リーニスト ファーム ストラクチャー アイ ハブ エバー ビルト イン マイ ワールド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is leaning",
+      "ipa": "[ɪz ˈliːnɪŋ]",
+      "examples": [
+        {
+          "en": "The tree is leaning against the stone wall.",
+          "ja": "木が石の壁に寄りかかっている。",
+          "ipa": "[ðə ˈtriː ɪz ˈliːnɪŋ əˈɡɛnst ðə ˈstoʊn wɔl]",
+          "linking": [
+            "the（出現2回）→ 機能語は弱形 /ðə/",
+            "is → 助動詞は弱形 /ɪz/",
+            "against の末尾/t/が次の子音に続くため未開放 /t̚/"
+          ],
+          "kana": "ザ トリー イズ リーニング アゲンスト ザ ストウン ウォール"
+        },
+        {
+          "en": "I am leaning on the fence and waiting for the sunset.",
+          "ja": "フェンスに寄りかかりながら夕日を待っている。",
+          "ipa": "[aɪ əm ˈliːnɪŋ ɑn ðə fɛns ən ˈweɪtɪŋ fər ðə ˈsʌnsɛt]",
+          "linking": [
+            "am → 助動詞は弱形 /əm/",
+            "the（出現2回）→ 機能語は弱形 /ðə/",
+            "for → 機能語は弱形 /fər/"
+          ],
+          "kana": "アイ アム リーニング アン ザ フェンス アン ウェイティング ファー ザ サンセット"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was leaning",
+      "ipa": "[wəz ˈliːnɪŋ]",
+      "examples": [
+        {
+          "en": "While I was leaning over the railing, a skeleton shot at me.",
+          "ja": "手すりに寄りかかっている間に、スケルトンが私に矢を撃った。",
+          "ipa": "[waɪl aɪ wəz ˈliːnɪŋ ˈoʊvər ðə ˈreɪlɪŋ ə ˈskɛlətən ʃɑt æt mi]",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/",
+            "the、a → 機能語は弱形 /ðə、ə/",
+            "at → /t/ が /mi/ の前で未開放 /t̚/"
+          ],
+          "kana": "ワイル アイ ワズ リーニング オーバー ザ レイリング ア スケラトゥン シャット アット ミー"
+        },
+        {
+          "en": "The structure was leaning dangerously when the storm hit.",
+          "ja": "嵐が襲ったとき、その構造は危険なほど傾いていた。",
+          "ipa": "[ðə ˈstrʌktʃər wəz ˈliːnɪŋ ˈdeɪndʒərəsli wɛn ðə ˈstɔrm hɪt]",
+          "linking": [
+            "the（出現2回）→ 機能語は弱形 /ðə/",
+            "was → 助動詞は弱形 /wəz/",
+            "dangerously → /li/ が /wɛn/ の /w/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ストラクチャー ワズ リーニング デインジャラスリー ウェン ザ ストーム ヒット"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been leaning",
+      "ipa": "[həd bɪn ˈliːnɪŋ]",
+      "examples": [
+        {
+          "en": "The tower had been leaning for days before it finally collapsed.",
+          "ja": "その塔は最終的に崩壊する前に何日も傾いていました。",
+          "ipa": "[ðə ˈtaʊər həd bɪn ˈliːnɪŋ fər ˈdeɪz bɪˈfɔr ɪt ˈfaɪnəli kəˈlæpst]",
+          "linking": [
+            "the → 機能語は弱形 /ðə/",
+            "had been → 助動詞は弱形 /həd bɪn/",
+            "for → 機能語は弱形 /fər/"
+          ],
+          "kana": "ザ タウアー ハド ビン リーニング ファー デイズ ビフォー イット ファイナリー カラプスト"
+        },
+        {
+          "en": "The beam had been leaning against the structure, supporting the roof.",
+          "ja": "その梁は構造に寄りかかっており、屋根を支えていました。",
+          "ipa": "[ðə bim həd bɪn ˈliːnɪŋ əˈɡɛnst ðə ˈstrʌktʃər səˈpɔrtɪŋ ðə ruf]",
+          "linking": [
+            "the（出現3回）→ 機能語は弱形 /ðə/",
+            "had been → 助動詞は弱形 /həd bɪn/",
+            "against の末尾/t/が次の子音に続くため未開放 /t̚/"
+          ],
+          "kana": "ザ ビーム ハド ビン リーニング アゲンスト ザ ストラクチャー サポーティング ザ ルーフ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（have/has + 過去分詞）",
+      "text": "has leaned",
+      "ipa": "/həz ˈliːnd/",
+      "examples": [
+        {
+          "en": "I have leaned my sword against the wall while organizing my inventory.",
+          "ja": "インベントリを整理している間、剣を壁に立てかけています。",
+          "ipa": "[aɪ həv ˈliːnd maɪ ˈsɔːrd əˈɡɛnst ðə ˈwɔːl waɪl ˈɔːrɡənaɪzɪŋ maɪ ɪnˈvɛntəri]",
+          "linking": [
+            "have は弱形 /həv/。leaned の /l/ に続く（子音+子音で連結なし）",
+            "leaned の d が my に連結 [ˈliːnd maɪ] リーンド マイ",
+            "against の t が the に続く（子音+子音で連結なし）。the は弱形 /ðə/",
+            "while の l が organizing の /ɔː/ に続く（子音+母音で連結なし）"
+          ],
+          "kana": "アイ ハブ リーンド マイ ソード アゲインスト ザ ウォール ワイル オーガナイジング マイ インベントリー"
+        },
+        {
+          "en": "The sign has leaned to the side since the latest update.",
+          "ja": "最新アップデート以来、看板が片側に傾いています。",
+          "ipa": "[ðə ˈsaɪn həz ˈliːnd tu ðə ˈsaɪd sɪns ðə ˈleɪtɪst ˈʌpdeɪt]",
+          "linking": [
+            "the は弱形 /ðə/。sign に続く（子音+子音で連結なし）",
+            "has は弱形 /həz/。leaned に連結 [həz ˈliːnd] ハズ リーンド",
+            "leaned の d が to に連結。to は弱形 /tə/ [ˈliːnd tə] リーンド タ",
+            "the（出現2回）→ 機能語は弱形 /ðə/",
+            "since は /sɪns/。the に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ サイン ハズ リーンド タ ザ サイド シンス ザ レイティスト アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had leaned",
+      "ipa": "/həd ˈliːnd/",
+      "examples": [
+        {
+          "en": "Before the creeper explosion, I had leaned the ladder against the structure.",
+          "ja": "クリーパー爆発の前に、梯子を建造物に立てかけていました。",
+          "ipa": "[bɪˈfɔːr ðə ˈkriːpər ɪkˈsploʊʒən | aɪ həd ˈliːnd ðə ˈlædər əˈɡɛnst ðə ˈstrʌktʃər]",
+          "linking": [
+            "the は弱形 /ðə/。creeper に続く（子音+子音で連結なし）",
+            "had は弱形 /həd/。leaned に連結 [həd ˈliːnd] ハド リーンド",
+            "leaned の d が the に連結。the は弱形 /ðə/ [ˈliːnd ðə] リーンド ザ",
+            "against の t が the に続く（子音+子音で連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ビフォー ザ クリーパー イクスプロージョン、アイ ハド リーンド ザ ラダー アゲインスト ザ ストラクチャー"
+        },
+        {
+          "en": "He had leaned his pickaxe there before the cave-in happened.",
+          "ja": "洞窟の落盤が起きる前に、彼はそこに自分のツルハシを立てかけていました。",
+          "ipa": "[hi həd ˈliːnd hɪz ˈpɪkˌæks ðɛr bɪˈfɔːr ðə ˈkeɪv ɪn ˈhæpənd]",
+          "linking": [
+            "he → /hi/。had に続く（子音+子音で連結なし）",
+            "had は弱形 /həd/。leaned に連結 [həd ˈliːnd] ハド リーンド",
+            "leaned の d が his に連結 [ˈliːnd hɪz] リーンド ヒズ",
+            "the は弱形 /ðə/。cave に続く（子音+子音で連結なし）",
+            "before の r が the に連結。the は弱形 /ðə/ [fɔːr ðə] フォー ザ"
+          ],
+          "kana": "ヒー ハド リーンド ヒズ ピックアックス ゼア ビフォー ザ ケイヴ イン ハプンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（have/has been + -ing）",
+      "text": "has been leaning",
+      "ipa": "/həz bɪn ˈliːnɪŋ/",
+      "examples": [
+        {
+          "en": "The fence has been leaning against the barn for weeks now.",
+          "ja": "フェンスがこの数週間、納屋に立てかかっています。",
+          "ipa": "[ðə ˈfɛns həz bɪn ˈliːnɪŋ əˈɡɛnst ðə ˈbɑːrn fɔːr ˈwiːks naʊ]",
+          "linking": [
+            "the は弱形 /ðə/。fence に続く（子音+子音で連結なし）",
+            "has は弱形 /həz/。been に連結 [həz bɪn] ハズ ビン",
+            "been の /n/ が leaning の /l/ に続く（子音+子音で連結なし）",
+            "against の t が the に続く（子音+子音で連結なし）。the は弱形 /ðə/",
+            "for は弱形 /fər/。weeks に連結 [fər ˈwiːks] ファー ウィークス"
+          ],
+          "kana": "ザ フェンス ハズ ビン リーニング アゲインスト ザ バーン ファー ウィークス ナウ"
+        },
+        {
+          "en": "The tree has been leaning toward the lava lake since the explosion.",
+          "ja": "爆発以来、木はラヴァ湖の方に傾いています。",
+          "ipa": "[ðə ˈtriː həz bɪn ˈliːnɪŋ təˈwɔːrd ðə ˈlɑːvə ˈleɪk sɪns ðə ɪkˈsploʊʒən]",
+          "linking": [
+            "the は弱形 /ðə/。tree に続く（子音+母音で連結なし）",
+            "has は弱形 /həz/。been に連結 [həz bɪn] ハズ ビン",
+            "been の /n/ が leaning の /l/ に続く（子音+子音で連結なし）",
+            "leaning の /g/ が toward の /t/ に続く（子音+子音で連結なし）",
+            "toward の d が the に連結。the は弱形 /ðə/ [təˈwɔːrd ðə] タワード ザ"
+          ],
+          "kana": "ザ トリー ハズ ビン リーニング タワード ザ ラバ レイク シンス ザ イクスプロージョン"
+        }
+      ]
     }
   ]
 }
