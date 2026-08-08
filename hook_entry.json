@@ -330,6 +330,104 @@
           "kana": "ゼイ ハド ビン フッキング アップ ザ デコラティヴ ランターンズ オール モーニング ビフォア ザ パーティー スターティド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has hooked",
+      "ipa": "/həz ˈhʊkt/",
+      "examples": [
+        {
+          "en": "She has hooked several fish by the dock today.",
+          "ja": "彼女は今日、ドック近くで何匹か魚を釣った。",
+          "ipa": "/ʃi həz ˈhʊkt ˈsɛvərəl ˈfɪʃ baɪ ðə ˈdɑk təˈdeɪ/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "the dock → the の弱形 /ðə/ が dock の初頭 /d/ に先行 [ðəˈdɑk] ザダック",
+            "to (in today) → to は弱形 /tə/ に弱化"
+          ],
+          "kana": "シー ハズ フック セヴァラル フィッシュ バイ ザ ダック タデイ"
+        },
+        {
+          "en": "We have hooked the minecart to the track.",
+          "ja": "私たちはマインカートをレールに接続した。",
+          "ipa": "/wi həv ˈhʊkt ðə ˈmaɪnˌkɑrt tə ðə ˈtræk/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the track → the の弱形 /ðə/ が track の /t/ に先行 [ðəˈtræk] ザトラック"
+          ],
+          "kana": "ウィー ハヴ フックタ ザ マインカート タザ トラック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had hooked",
+      "ipa": "/həd ˈhʊkt/",
+      "examples": [
+        {
+          "en": "I had hooked the minecart to the rails before the creeper attacked.",
+          "ja": "クリーパーが攻撃する前に、カートをレールに接続していた。",
+          "ipa": "/aɪ həd ˈhʊkt ðə ˈmaɪnˌkɑrt tə ðə ˈreɪlz bɪˈfɔr ðə ˈkriːpər əˈtækt/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the rails → the の弱形 /ðə/ が rails の /r/ に先行 [ðəˈreɪlz] ザレイルズ",
+            "before → 副詞で弱形傾向 /bɪˈfɔr/",
+            "the creeper → the の弱形 /ðə/ が creeper の /k/ に先行 [ðəˈkriːpər] ザクリーパー"
+          ],
+          "kana": "アイ ハド フックタ ザ マインカート タザ レイルズ ビフォア ザ クリーパー アタックト"
+        },
+        {
+          "en": "She had hooked the fishing lines to the dock posts for storage.",
+          "ja": "彼女は保管用に釣り糸をドックの柱に引っかけていた。",
+          "ipa": "/ʃi həd ˈhʊkt ðə ˈfɪʃɪŋ ˈlaɪnz tə ðə ˈdɑk ˈpoʊsts fər ˈstɔrɪdʒ/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the dock → the の弱形 /ðə/ が dock の /d/ に先行 [ðəˈdɑk] ザダック",
+            "for → 弱形 /fər/ に弱化"
+          ],
+          "kana": "シー ハド フックタ ザ フィッシング ラインズ タザ ダック ポーストス ファー ストレッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been hooking",
+      "ipa": "/həz bɪn ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "He has been hooking fish all morning.",
+          "ja": "彼は朝からずっと魚を釣り続けている。",
+          "ipa": "/hi həz bɪn ˈhʊkɪŋ ˈfɪʃ ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "all morning → all の末尾 /l/ が morning の /m/ に連結 [ɔlˈmɔrnɪŋ] オール モーニング"
+          ],
+          "kana": "ヒー ハズ ビン フッキング フィッシュ オール モーニング"
+        },
+        {
+          "en": "We have been hooking the redstone circuit to the main power for the past hour.",
+          "ja": "私たちは過去1時間、レッドストーン回路をメイン電源に接続し続けている。",
+          "ipa": "/wi həv bɪn ˈhʊkɪŋ ðə ˈrɛdˌstoʊn ˈsɝːkɪt tə ðə ˈmeɪn ˈpaʊər fɔr ðə ˈpæst ˈaʊər/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "the → 弱形 /ðə/ (2-3箇所)",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "for the → for の末尾 /r/ が the の弱形 /ðə/ に連結 [fɔrðə] ファーザ"
+          ],
+          "kana": "ウィー ハヴ ビン フッキング ザ レッドストーン サーキット タザ メイン パワー ファーザ パスト アワー"
+        }
+      ]
     }
   ]
 }
