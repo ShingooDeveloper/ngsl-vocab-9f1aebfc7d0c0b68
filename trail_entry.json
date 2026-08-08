@@ -224,6 +224,191 @@
           "kana": "ウィ アー トレイリング ビハインド ザ メイン グループ イン ザ ケイヴ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is trailing",
+      "ipa": "ɪz ˈtreɪlɪŋ",
+      "examples": [
+        {
+          "en": "The mob is trailing the player through the cave.",
+          "ja": "そのモブはプレイヤーを洞窟を通じて追跡している。",
+          "ipa": "[ðə ˈmɑbɪz ˈtreɪlɪŋ ðə ˈpleɪər θruː ðə keɪv]",
+          "linking": [
+            "mob の語末子音 /b/ が is の /ɪ/ に連結",
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ マビズ トレイリング ザ プレイアー スルー ザ ケイブ"
+        },
+        {
+          "en": "We are trailing the horse across the meadow.",
+          "ja": "私たちはその馬を牧草地を横切って追跡している。",
+          "ipa": "[wi ər ˈtreɪlɪŋ ðə ˈhɔrs əˈkrɔs ðə ˈmɛdoʊ]",
+          "linking": [
+            "are は弱形 /ər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー トレイリング ザ ホース アクロス ザ メドウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was trailing",
+      "ipa": "wəz ˈtreɪlɪŋ",
+      "examples": [
+        {
+          "en": "The zombie was trailing me through the tunnels.",
+          "ja": "そのゾンビは私をトンネルを通じて追跡していた。",
+          "ipa": "[ðə ˈzɑmbi wəz ˈtreɪlɪŋ mi θruː ðə ˈtʌnəlz]",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ザンビ ワズ トレイリング ミー スルー ザ タナルズ"
+        },
+        {
+          "en": "They were trailing the vines when I found diamonds.",
+          "ja": "彼らが私がダイヤモンドを見つけたとき、つるを追跡していた。",
+          "ipa": "[ðeɪ wər ˈtreɪlɪŋ ðə vaɪnz wɛn̚ aɪ faʊnd ˈdaɪməndz]",
+          "linking": [
+            "were は弱形 /wər/",
+            "the は弱形 /ðə/",
+            "when の語末 /n/ が未開放傾向で d に繋がる"
+          ],
+          "kana": "ゼイ ワー トレイリング ザ ヴァインズ ウェン アイ ファウンド ダイマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been trailing",
+      "ipa": "həd bɪn ˈtreɪlɪŋ",
+      "examples": [
+        {
+          "en": "The vines had been trailing along the wall for days.",
+          "ja": "そのつるは何日間も壁に沿って這っていた。",
+          "ipa": "[ðə vaɪnz həd bɪn ˈtreɪlɪŋ əˈlɔŋ ðə wɔl fɚ deɪz]",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "ザ ヴァインズ ハド ビン トレイリング アロング ザ ウォール フォー デイズ"
+        },
+        {
+          "en": "I had been trailing the path before the storm started.",
+          "ja": "嵐が始まる前に、私はずっとその道を追っていました。",
+          "ipa": "[aɪ həd bɪn ˈtreɪlɪŋ ðə pæθ bɪˈfɔr ðə ˈstɔrm ˈstɑrtəd]",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハド ビン トレイリング ザ パス ビフォー ザ ストーム スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has trailed",
+      "ipa": "/həz treɪld/",
+      "examples": [
+        {
+          "en": "The player has trailed so many mobs that the area is now a dangerous maze.",
+          "ja": "プレイヤーはたくさんのモブを追跡してきたので、その領域は今や危険な迷路だ。",
+          "ipa": "/ðə ˈpleɪər həz ˈtreɪld soʊ ˈmɛni ˈmoʊbz ðæt ðə ˈɛriə ɪz naʊ ə ˈdeɪndʒərəs ˈmeɪz/",
+          "linking": [
+            "has trailed → has は弱形 /həz/ が t /treɪld/ に連結 [həz ˈtreɪld] ハズ トレイルド",
+            "area is → area の語末 /ə/ が i /ɪ/ に連結 [ˈɛriə ɪz] エリア イズ",
+            "that the → that の語末 /t/ が /ð/ に繋がり未開放傾向、the は弱形 /ðə/ [ðæt̚ ðə] ザット ザ"
+          ],
+          "kana": "ザ プレイアー ハズ トレイルド ソウ メニ モウブズ ザット ザ エリア イズ ナウ ア デインジャラス メイズ"
+        },
+        {
+          "en": "We have trailed the horse all the way to the ocean.",
+          "ja": "私たちはその馬を海まで追跡してきた。",
+          "ipa": "/wi həv ˈtreɪld ðə ˈhɔrs ɔl ðə ˈweɪ tu ðə ˈoʊʃən/",
+          "linking": [
+            "have trailed → have は弱形 /həv/ が t に連結 [həv ˈtreɪld] ハヴ トレイルド",
+            "the horse → the は弱形 /ðə/ が h に連結 [ðə ˈhɔrs] ザ ホース",
+            "way to the → way 語末 /eɪ/ が t に繋がり、to は弱形 /tə/、the は弱形 /ðə/ [ˈweɪ tə ðə] ウェイ タ ザ"
+          ],
+          "kana": "ウィ ハヴ トレイルド ザ ホース オール ザ ウェイ タ ザ オウシャン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had trailed",
+      "ipa": "/həd treɪld/",
+      "examples": [
+        {
+          "en": "By the time we arrived at the nether fortress, the path had trailed off into the lava.",
+          "ja": "私たちがネザー砦に着く頃には、その道は溶岩に消えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd æt ðə ˈnɛðər ˈfɔrtrəs ðə ˈpæθ həd ˈtreɪld ɔf ˈɪntu ðə ˈlɑvə/",
+          "linking": [
+            "time we → time 語末 /m/ が w /wi/ に連結 [ˈtaɪm wi] タイム ウィ",
+            "arrived at → arrived 語末 /d/ が /æ/ に連結 [əˈraɪvd æt] アライヴド アット",
+            "at the → at は弱形 /ət/ が /ð/ に繋がり、the は弱形 /ðə/ [ət ðə] ア ザ",
+            "path had → path 語末 /θ/ が /h/ に繋がり未開放傾向、had は弱形 /həd/ [pæθ̚ həd] パス ハド",
+            "had trailed → had 語末 /d/ が t に繋がり未開放傾向 [həd̚ ˈtreɪld] ハッ トレイルド",
+            "trailed off → trailed 語末 /d/ が /ɔ/ に連結 [ˈtreɪld ɔf] トレイルド オフ"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド アット ザ ネザー フォートレス ザ パス ハッ トレイルド オフ イントゥ ザ ラヴァ"
+        },
+        {
+          "en": "The zombie had trailed us through three biomes before we defeated it.",
+          "ja": "そのゾンビは私たちを倒す前に、3つのバイオームを通じて追跡していた。",
+          "ipa": "/ðə ˈzɑmbi həd ˈtreɪld əs θruː θriː ˈbaɪoʊmz bɪˈfɔr wi dɪˈfitəd ɪt/",
+          "linking": [
+            "the zombie → the は弱形 /ðə/ が z に連結 [ðə ˈzɑmbi] ザ ザンビ",
+            "had trailed → had は弱形 /həd/ が t に繋がり未開放傾向 [həd̚ ˈtreɪld] ハッ トレイルド",
+            "trailed us → trailed 語末 /d/ が /ə/ に連結 [ˈtreɪld əs] トレイルド アス",
+            "before we → before 語末 /r/ が w に繋がり未開放傾向 [bɪˈfɔr̚ wi] ビフォー ウィ"
+          ],
+          "kana": "ザ ザンビ ハッ トレイルド アス スルー スリー バイオムズ ビフォー ウィ ディフィーティド イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been trailing",
+      "ipa": "/həz bɪn ˈtreɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The mob has been trailing us ever since we left the base camp.",
+          "ja": "そのモブは私たちがベースキャンプを離れたときからずっと追跡し続けています。",
+          "ipa": "/ðə ˈmoʊb həz bɪn ˈtreɪlɪŋ əs ˈɛvər sɪns wi ˈlɛft ðə ˈbeɪs ˈkæmp/",
+          "linking": [
+            "the mob → the は弱形 /ðə/ が m に連結 [ðə ˈmoʊb] ザ モウブ",
+            "mob has → mob 語末 /b/ が /h/ に繋がり未開放傾向、has は弱形 /həz/ [ˈmoʊb̚ həz] モウプ ハズ",
+            "has been → has 語末 /z/ が b に繋がり、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been trailing → been 語末 /n/ が t に繋がり未開放傾向 [bɪn̚ ˈtreɪlɪŋ] ビン トレイリング",
+            "since we → since 語末 /s/ が w に繋がり [sɪns wi] シンス ウィ"
+          ],
+          "kana": "ザ モウプ ハズ ビン トレイリング アス エバー シンス ウィ レフト ザ ベイス キャンプ"
+        },
+        {
+          "en": "I have been trailing that horse for ten minutes now.",
+          "ja": "私はその馬を10分間ずっと追跡し続けています。",
+          "ipa": "/aɪ həv bɪn ˈtreɪlɪŋ ðæt ˈhɔrs fɔr ˈtɛn ˈmɪnɪts naʊ/",
+          "linking": [
+            "have been → have は弱形 /həv/ が b に連結 [həv bɪn] ハヴ ビン",
+            "been trailing → been 語末 /n/ が t に繋がり未開放傾向 [bɪn̚ ˈtreɪlɪŋ] ビン トレイリング",
+            "trailing that → trailing 語末 /ŋ/ が /ð/ に繋がり [ˈtreɪlɪŋ ðæt] トレイリング ザット",
+            "ten minutes → ten 語末 /n/ が m に繋がり未開放傾向 [ˈtɛn̚ ˈmɪnɪts] テン ミニッツ"
+          ],
+          "kana": "アイ ハヴ ビン トレイリング ザット ホース フォー テン ミニッツ ナウ"
+        }
+      ]
     }
   ]
 }
