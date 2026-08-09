@@ -149,6 +149,186 @@
           "kana": "ウィ ハド ビン プレイイング トゥゲザー シンス ザ ワールド ワズ クリエイティド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has played",
+      "ipa": "/həz ˈpleɪd/",
+      "examples": [
+        {
+          "en": "I have played Minecraft for over five years now.",
+          "ja": "私は5年以上マインクラフトをしている。",
+          "ipa": "/aɪ həv ˈpleɪd ˈmaɪnˌkræft fɔr ˈoʊvər ˈfaɪv ˈjɪrz naʊ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "for は弱形 /fɔr/ フォア"
+          ],
+          "kana": "アイ ハヴ プレイド マインクラフト フォア オーバー ファイヴ イヤーズ ナウ"
+        },
+        {
+          "en": "She has played and built an amazing castle in the survival world.",
+          "ja": "彼女はマインクラフトをしながら、サバイバルモードで素晴らしい城を建てた。",
+          "ipa": "/ʃi həz ˈpleɪd ənd ˈbɪlt ən əˈmeɪzɪŋ ˈkæsəl ɪn ðə sərˈvaɪvəl ˈwɜrld/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "played の /d/ が and の /ə/ に接着する",
+            "and は弱形 /ənd/ アンド",
+            "an は弱形 /ən/ ウン",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ハズ プレイド アンド ビルト ウン ァメイジング キャッスル イン ザ サーヴァイヴァル ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had played",
+      "ipa": "/həd ˈpleɪd/",
+      "examples": [
+        {
+          "en": "I had played only in Creative Mode before I tried Hardcore.",
+          "ja": "ハードコアに挑戦する前に、私はクリエイティブモードだけをしていた。",
+          "ipa": "/aɪ həd ˈpleɪd ˈoʊnli ɪn kriəˈtɪv ˈmoʊd bɪˈfɔr aɪ traɪd ˈhɑrdˌkoʊr/",
+          "linking": [
+            "had は弱形 /həd/ ハド"
+          ],
+          "kana": "アイ ハド プレイド オウンリー イン クリエイティヴ モッド ビフォア アイ トライド ハードコア"
+        },
+        {
+          "en": "He had played for two hours before the server crashed.",
+          "ja": "サーバーが落ちる前に、彼は2時間プレイしていた。",
+          "ipa": "/hi həd ˈpleɪd fɔr tu ˈaʊrz bɪˈfɔr ðə ˈsɜrvər kræʃt/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "for は弱形 /fɔr/ フォア",
+            "the は弱形 /ðə/ ザ",
+            "crashed は /kræʃt/ クラッシュド"
+          ],
+          "kana": "ヒー ハド プレイド フォア トゥー アワーズ ビフォア ザ サーバー クラッシュド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been playing",
+      "ipa": "/həz bɪn ˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "They have been playing on this server since yesterday.",
+          "ja": "彼らは昨日からこのサーバーでプレイしている。",
+          "ipa": "/ðeɪ həv bɪn ˈpleɪɪŋ ɑn ðɪs ˈsɜrvər sɪns ˈjɛstərˌdeɪ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン"
+          ],
+          "kana": "ザイ ハヴ ビン プレイイング アン ジス サーバー シンス イェスタディ"
+        },
+        {
+          "en": "I've been playing and building my castle all morning.",
+          "ja": "私は朝ずっと城を建てながらプレイしている。",
+          "ipa": "/aɪv bɪn ˈpleɪɪŋ ənd ˈbɪldɪŋ maɪ ˈkæsəl ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "been は弱形 /bɪn/ ビン",
+            "playing の /ŋ/ が and の /ə/ に接着する",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "アイヴ ビン プレイイング アンド ビルディング マイ キャッスル オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will play",
+      "ipa": "/wɪl pleɪ/",
+      "examples": [
+        {
+          "en": "Tomorrow I will play with my friends on the new server.",
+          "ja": "明日、私は新しいサーバーで友人とプレイします。",
+          "ipa": "/təˈmɑroʊ aɪ wɪl pleɪ wɪð maɪ frɛndz ɑn ðə nu ˈsɜrvər/",
+          "linking": [
+            "on は弱形 /ɑn/ で発音",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "トゥモロー アイ ウィル プレイ ウィズ マイ フレンズ アン ザ ニュー サーバー"
+        },
+        {
+          "en": "They will play in Creative Mode to build their dream fortress.",
+          "ja": "彼らはクリエイティブモードで彼らの夢の砦を建てるためにプレイします。",
+          "ipa": "/ðeɪ wɪl pleɪ ɪn kriəˈtɪv ˈmoʊd tu bɪld ðɛr drɛm ˈfɔrtrəs/",
+          "linking": [
+            "in は弱形 /ɪn/ に弱化",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ザイ ウィル プレイ イン クリエイティヴ モード タ ビルド ザー ドレム フォートレス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be playing",
+      "ipa": "/wɪl bi ˈpleɪɪŋ/",
+      "examples": [
+        {
+          "en": "I will be playing Minecraft all night tonight!",
+          "ja": "私は今夜、一晩中マインクラフトをプレイしています！",
+          "ipa": "/aɪ wɪl bi ˈpleɪɪŋ ˈmaɪnkræft ɔl ˈnaɪt təˈnaɪt/",
+          "linking": [
+            "be は弱形 /bə/ に弱化",
+            "Minecraft の語末 /t/ が all の /ɔ/ に連結",
+            "night の語末 /t/ が tonight の /t/ に連接（最初の /t/ は未開放）",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ ウィル ビー プレイイング マインクラフト オール ナイト タナイト"
+        },
+        {
+          "en": "We will be playing and mining diamonds when you join the server.",
+          "ja": "あなたがサーバーに参加したとき、私たちはプレイしながらダイヤモンドを採掘しています。",
+          "ipa": "/wi wɪl bi ˈpleɪɪŋ ənd ˈmaɪnɪŋ ˈdaɪmənz wɛn ju ˈdʒɔɪn ðə ˈsɜrvər/",
+          "linking": [
+            "be は弱形 /bə/ に弱化",
+            "playing の語末 /ŋ/ が and の /ə/ に接着 [ˈpleɪɪŋ ənd]",
+            "and は弱形 /ənd/ に弱化",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ウィル ビー プレイイング アンド マイニング ダイモンズ ウェン ユー ジョイン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have played",
+      "ipa": "/wɪl həv ˈpleɪd/",
+      "examples": [
+        {
+          "en": "By next week, I will have played over 100 hours in this world.",
+          "ja": "来週までに、私はこのワールドで100時間以上プレイしているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈwik aɪ wɪl həv ˈpleɪd ˈoʊvər ə ˈhʌndrəd ˈaʊrz ɪn ðɪs ˈwɜrld/",
+          "linking": [
+            "have は弱形 /həv/ に弱化",
+            "over の /r/ が a の /ə/ に連結 [ˈoʊvərə]",
+            "a は弱形 /ə/ アに弱化"
+          ],
+          "kana": "バイ ネクスト ウィーク アイ ウィル ハヴ プレイド オーバー ア ハンドレド アワーズ イン ジス ワールド"
+        },
+        {
+          "en": "They will have played and completed the entire map before summer ends.",
+          "ja": "夏が終わる前に、彼らはプレイして、マップ全体を完成させているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈpleɪd ənd kəmˈplitəd ðə ɪnˈtaɪr mæp bɪˈfɔr ˈsʌmər ɛndz/",
+          "linking": [
+            "have は弱形 /həv/ に弱化",
+            "played の /d/ が and の /ə/ に連結 [ˈpleɪd ənd]",
+            "and は弱形 /ənd/ に弱化",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイ ウィル ハヴ プレイド アンド コムプリーティド ザ インタイア マップ ビフォア サマー エンズ"
+        }
+      ]
     }
   ]
 }
