@@ -83,5 +83,117 @@
       "kana": "クラップス ノーマリ テイク ア フュー デイズ トゥ グロウ トゥ フル マチュアリティ"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "future",
+      "label": "単純未来形（will + normally）",
+      "text": "normally",
+      "ipa": "/ˈnɔːrməli/",
+      "examples": [
+        {
+          "en": "I will normally spawn near a forest or village when I start a new world.",
+          "ja": "新しいワールドを開始する時、通常、私は森か村の近くにスポーンします。",
+          "ipa": "/aɪ wɪl ˈnɔːrməli ˈspoʊn nɪr ə ˈfɔrəst ɔr ˈvɪlɪdʒ wɛn aɪ ˈstɑrt ə ˈnuː ˈwɝld/",
+          "linking": [
+            "will の弱形 /wəl/。normally に先行 [wəl ˈnɔːrməli] ウィル ノーマリ",
+            "a は弱形 /ə/ で forest に連結 [ə ˈfɔrəst] ア フォレスト",
+            "or の /r/ が village の /v/ に先行（両子音、連結なし）[ɔr ˈvɪlɪdʒ] オア ヴィレッジ",
+            "when の語末 /n/ が I に連結 [wɛnaɪ] ウェナイ",
+            "a は弱形 /ə/ で new に連結 [ə ˈnuː] ア ニュー"
+          ],
+          "kana": "アイ ウィル ノーマリ スポウン ニアー ア フォレスト オアー ヴィレッジ ウェナイ スタート ア ニュー ワールド"
+        },
+        {
+          "en": "Crops will normally grow faster with bone meal and proper lighting conditions.",
+          "ja": "骨粉と適切な照明条件があれば、作物は通常、より速く成長するでしょう。",
+          "ipa": "/ˈkrɑps wɪl ˈnɔːrməli ˈɡroʊ ˈfæstər wɪð ˈboʊn mil ənd prəˈpɝ ˈlaɪtɪŋ kənˈdɪʃənz/",
+          "linking": [
+            "will の弱形 /wəl/。normally に先行 [wəl ˈnɔːrməli] ウィル ノーマリ",
+            "faster の語末 /r/ が with の /w/ に先行（両子音、連結なし）",
+            "with の /ð/ が bone の /b/ に先行（両子音、連結なし）",
+            "bone の /n/ が meal の /m/ に先行（両子音、連結なし）",
+            "proper の語末 /r/ が lighting に連結 [prəˈpɝ ˈlaɪtɪŋ] プロパー ライティング",
+            "lighting の /ŋ/ は鼻音。conditions の /k/ に先行（連結なし）"
+          ],
+          "kana": "クラップス ウィル ノーマリ グロウ ファスター ウィズ ボウン ミール アンド プロパー ライティング コンディションズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing + normally）",
+      "text": "normally",
+      "ipa": "/ˈnɔːrməli/",
+      "examples": [
+        {
+          "en": "While you're away, the mobs will be spawning normally in dark areas.",
+          "ja": "あなたが留守の間、モブは暗い場所で通常、スポーンし続けるでしょう。",
+          "ipa": "/waɪl jɔr əˈwɛ ðə ˈmoʊbz wɪl bi ˈspoʊnɪŋ ˈnɔːrməli ɪn ˈdɑrk ˈɛriəz/",
+          "linking": [
+            "while の語末 /l/ が you're の /j/ に先行（両子音、連結なし）",
+            "you're の /r/ が away に連結 [jɔr əˈwɛ] ユアー アウェイ",
+            "the は弱形 /ðə/。mobs に連結 [ðə ˈmoʊbz] ザ モブズ",
+            "will の弱形が be に連結（短形 '会話体）",
+            "be の /i/ が spawning に連結 [bi ˈspoʊnɪŋ] ビー スポウニング",
+            "spawning の語末 /ŋ/ が normally に連結（鼻音+母音）[ˈspoʊnɪŋ ˈnɔːrməli] スポウニング ノーマリ",
+            "in は弱形 /ɪn/。dark に連結 [ɪn ˈdɑrk] イン ダーク"
+          ],
+          "kana": "ワイル ユアー アウェイ ザ モブズ ウィル ビー スポウニング ノーマリ イン ダーク エアリアズ"
+        },
+        {
+          "en": "They will be building normally next week unless the server maintenance happens.",
+          "ja": "サーバーメンテナンスがない限り、彼らは来週は通常通り構築し続けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈbɪldɪŋ ˈnɔːrməli ˈnɛkst ˈwik ənˈlɛs ðə ˈsɝːvər ˌmeɪntənəns ˈhæpənz/",
+          "linking": [
+            "will の弱形 /wəl/ が be に連結 [wəl bi] ウィル ビー",
+            "be の /i/ が building の /b/ に連結 [bi ˈbɪldɪŋ] ビー ビルディング",
+            "building の語末 /ŋ/ が normally に連結（鼻音+母音）[ˈbɪldɪŋ ˈnɔːrməli] ビルディング ノーマリ",
+            "next の /t/ が week の /w/ に先行（両子音、連結なし）",
+            "the は弱形 /ðə/。連結なし（子音+子音）",
+            "server の語末 /r/ が maintenance に連結 [ˈsɝːvər ˌmeɪntənəns] サーヴァー メインテナンス"
+          ],
+          "kana": "ゼイ ウィル ビー ビルディング ノーマリ ネクスト ウィーク アンレス ザ サーヴァー メインテナンス ハペンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞 + normally）",
+      "text": "normally",
+      "ipa": "/ˈnɔːrməli/",
+      "examples": [
+        {
+          "en": "By the end of the month, we will have normally completed all the major structures.",
+          "ja": "月末までに、私たちはすべての主要構造物を通常通り完成させていることになっているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ wi wɪl həv ˈnɔːrməli kəmˈplitəd ɔl ðə ˈmeɪdʒər ˈstrʌkʃərz/",
+          "linking": [
+            "by の /b/ が the の /ð/ に先行（両子音、連結なし）",
+            "the は弱形 /ðə/。end に連結 [ðə ˈɛnd] ザ エンド",
+            "of は弱形 /əv/。the に連結 [əv ðə] アヴ ザ",
+            "the は弱形 /ðə/。month に連結 [ðə ˈmʌnθ] ザ マンス",
+            "will の弱形 /wəl/ が have に連結 [wəl həv] ウィル ハヴ",
+            "have の弱形 /həv/ が completed に連結 [həv kəmˈplitəd] ハヴ コンプリーテッド",
+            "completed の語末 /d/ が normally に連結 [d ˈnɔːrməli] ディ ノーマリ",
+            "all の語末 /l/ が the に連結 [ɔl ðə] オール ザ",
+            "the は弱形 /ðə/。major に連結 [ðə ˈmeɪdʒər] ザ メイジャー"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス ウィ ウィル ハヴ ノーマリ コンプリーテッド オール ザ メイジャー ストラクチャーズ"
+        },
+        {
+          "en": "She will have normally harvested three crops by the time autumn arrives.",
+          "ja": "秋が到着する時までに、彼女は通常通り3つの作物を収穫していることになっているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈnɔːrməli ˈhɑrvɪstəd ˈθri ˈkrɑps baɪ ðə ˈtaɪm ɔˈtʌm əˈraɪvz/",
+          "linking": [
+            "will の弱形 /wəl/ が have に連結 [wəl həv] ウィル ハヴ",
+            "have の弱形 /həv/ が normally に連結 [həv ˈnɔːrməli] ハヴ ノーマリ",
+            "normally の語末 /i/ が harvested に連結 [ˈnɔːrməli ˈhɑrvɪstəd] ノーマリ ハーヴェステッド",
+            "harvested の語末 /d/ が three の /θ/ に先行（両子音、連結なし）",
+            "by は /baɪ/。the が弱形 /ðə/。time に連結 [ðə ˈtaɪm] ザ タイム",
+            "autumn の語末 /m/ が arrives に連結 [ɔˈtʌm əˈraɪvz] オータム アライヴズ"
+          ],
+          "kana": "シー ウィル ハヴ ノーマリ ハーヴェステッド スリー クラップス バイ ザ タイム オータム アライヴズ"
+        }
+      ]
+    }
+  ]
 }
