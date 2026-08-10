@@ -389,6 +389,105 @@
           "kana": "ハッカーズ ハヴ ビン アビューズィング ア セキュリティ ヴァルナラビリティ イン ザ ラギン システム ウィザウト ビング ディテクティド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will abuse",
+      "ipa": "/wɪl əˈbjuːz/",
+      "examples": [
+        {
+          "en": "You will abuse the creative mode if you keep playing like that.",
+          "ja": "そのままプレイを続けるとクリエイティブモードを悪用することになる。",
+          "ipa": "[juː wɪl əˈbjuːz ðə kriˈeɪtɪv moʊd ɪf juː kip ˈpleɪɪŋ laɪk ðæt]",
+          "linking": [
+            "will の /l/ が abuse の /ə/ に連結 [wɪl əˈbjuːz] ウィル アビューズ",
+            "abuse の /z/ が the の /ðə/ に連結 [əˈbjuːz ðə] アビューズ ザ",
+            "mode の /d/ が if の /ɪ/ に続く（未開放）[moʊd ɪf] モード イフ",
+            "keep の /p/ が playing の /p/ に続く（同音が1つに聞こえる）[kip ˈpleɪɪŋ] キップ プレイイング"
+          ],
+          "kana": "ユー ウィル アビューズ ザ クリエイティヴ モード イフ ユー キップ プレイイング ライク ザット"
+        },
+        {
+          "en": "We will abuse the enchantment system to make overpowered tools.",
+          "ja": "私たちはエンチャントシステムを乱用して圧倒的に強いツールを作るだろう。",
+          "ipa": "[wi wɪl əˈbjuːz ðə ɪnˈtʃæntmənt ˈsɪstəm tə meɪk ˌoʊvərˈpaʊərd tulz]",
+          "linking": [
+            "will の /l/ が abuse の /ə/ に連結 [wɪl əˈbjuːz] ウィル アビューズ",
+            "abuse の /z/ が the の /ðə/ に連結 [əˈbjuːz ðə] アビューズ ザ",
+            "system の /m/ が to の /tə/ に続く（弱形）[ˈsɪstəm tə] システム タ",
+            "to の /tə/ が make の /m/ に続く（弱形 /tə/）[tə meɪk] タ メイク"
+          ],
+          "kana": "ウィ ウィル アビューズ ザ インチャントメント システム タ メイク オーヴァーパウアード トゥールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be abusing",
+      "ipa": "/wɪl bi əˈbjuːzɪŋ/",
+      "examples": [
+        {
+          "en": "He will be abusing the command block when the server restarts.",
+          "ja": "サーバーが再起動するとき、彼はコマンドブロックを乱用しているだろう。",
+          "ipa": "[hi wɪl bi əˈbjuːzɪŋ ðə kəˈmænd blɑk wɛn ðə ˈsɜːrvər riˈstɑrts]",
+          "linking": [
+            "will の /l/ が be の /b/ に続く [wɪl bi] ウィル ビー",
+            "be の /i/ が abusing の /ə/ に連結 [bi əˈbjuːzɪŋ] ビー アビューズィング",
+            "abusing の /ŋ/ が the の /ðə/ に連なり [əˈbjuːzɪŋ ðə] アビューズィング ザ",
+            "when の /n/ が the の /ðə/ に連結 [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "ヒー ウィル ビー アビューズィング ザ コマンド ブロック ウェン ザ サーヴァー リスターツ"
+        },
+        {
+          "en": "They'll be abusing the villager breeding exploit all night.",
+          "ja": "彼らは一晩中、村人繁殖バグを乱用しているだろう。",
+          "ipa": "[ðeɪl bi əˈbjuːzɪŋ ðə ˈvɪlɪdʒər ˈbridɪŋ ˈɛkˌsplɔɪt ɔl naɪt]",
+          "linking": [
+            "they'll の /l/ が be の /b/ に続く（縮約形）[ðeɪl bi] ゼイル ビー",
+            "be の /i/ が abusing の /ə/ に連結 [bi əˈbjuːzɪŋ] ビー アビューズィング",
+            "abusing の /ŋ/ が the の /ðə/ に連なり [əˈbjuːzɪŋ ðə] アビューズィング ザ",
+            "exploit の /t/ が all の /ɔ/ に続く（未開放）[ˈɛkˌsplɔɪt ɔl] エクスプロイッ オール"
+          ],
+          "kana": "ゼイル ビー アビューズィング ザ ヴィリジャー ブリーディング エクスプロイット オール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have abused",
+      "ipa": "/wɪl həv əˈbjuːzd/",
+      "examples": [
+        {
+          "en": "By tomorrow, you will have abused every loophole in survival mode.",
+          "ja": "明日までに、サバイバルモードのすべての抜け穴を乱用してしまっているだろう。",
+          "ipa": "[baɪ təˈmɑroʊ juː wɪl həv əˈbjuːzd ˈɛvri ˈlupˌhoʊl ɪn sərˈvaɪvəl moʊd]",
+          "linking": [
+            "by の /aɪ/ が tomorrow の /t/ に続く（未開放）[baɪ təˈmɑroʊ] バイ トゥモロー",
+            "will の /l/ が have の /h/ に続く [wɪl həv] ウィル ハヴ",
+            "have の /v/ が abused の /ə/ に連結（弱形 /həv/）[həv əˈbjuːzd] ハヴ アビューズド",
+            "abused の /d/ が every の /ɛ/ に続く [əˈbjuːzd ˈɛvri] アビューズド エヴリ",
+            "in の /n/ が survival の /s/ に連結 [ɪn sərˈvaɪvəl] イン サーヴァイヴァル"
+          ],
+          "kana": "バイ トゥモロー ユー ウィル ハヴ アビューズド エヴリ ループホール イン サーヴァイヴァル モード"
+        },
+        {
+          "en": "She will have abused all the duplication glitches before the patch arrives.",
+          "ja": "パッチが到着する前に、彼女はすべての複製バグを乱用してしまっているだろう。",
+          "ipa": "[ʃi wɪl həv əˈbjuːzd ɔl ðə ˌduːplɪˈkeɪʃən ˈɡlɪtʃɪz bɪˈfɔr ðə pætʃ əˈraɪvz]",
+          "linking": [
+            "will の /l/ が have の /h/ に続く [wɪl həv] ウィル ハヴ",
+            "have の /v/ が abused の /ə/ に連結（弱形 /həv/）[həv əˈbjuːzd] ハヴ アビューズド",
+            "abused の /d/ が all の /ɔ/ に続く（未開放）[əˈbjuːzd ɔl] アビューズッ オール",
+            "all の /l/ が the の /ðə/ に連結 [ɔl ðə] オール ザ",
+            "glitches の /z/ が before の /b/ に続く [ˈɡlɪtʃɪz bɪˈfɔr] グリッチーズ ビフォア",
+            "before の /r/ が the の /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "シー ウィル ハヴ アビューズド オール ザ ドゥープリケイション グリッチーズ ビフォア ザ パッチ アライヴズ"
+        }
+      ]
     }
   ],
   "idioms": [
