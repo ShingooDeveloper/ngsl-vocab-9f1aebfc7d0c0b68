@@ -271,6 +271,104 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has demanded",
+      "ipa": "/həz dɪˈmændɪd/",
+      "examples": [
+        {
+          "en": "The boss has demanded three diamonds as payment for its assistance.",
+          "ja": "そのボスは、その支援に対する支払いとして、ダイヤモンド3個を要求している。",
+          "ipa": "/ðə bɔs həz dɪˈmændɪd θriː ˈdaɪmənds əz ˈpeɪmənt fər ɪts əˈsɪstəns/",
+          "linking": [
+            "boss has → 語末子音 /s/ が母音 /ə/ に連結 [bɔs həz] ボス ハズ、has は弱形 /həz/",
+            "has demanded → 語末子音 /z/ が /d/ に続く [həz dɪˈmændɪd] ハズ ディマンディド",
+            "as payment → as は弱形 /əz/、の /z/ が payment の母音に連結 [əz ˈpeɪmənt] アズ ペイメント",
+            "for its → for は弱形 /fər/、語末 /r/ が its の /ɪ/ に続く [fər ɪts] ファー イツ"
+          ],
+          "kana": "ザ ボス ハズ ディマンディド スリー ダイモンズ アズ ペイメント ファー イツ アシスタンス"
+        },
+        {
+          "en": "Players have demanded server-wide events to keep the community engaged.",
+          "ja": "プレイヤーたちはコミュニティを活発に保つためにサーバー全体のイベントを要求している。",
+          "ipa": "/ˈpleɪərz həv dɪˈmændɪd ˈsɝvər waɪd ɪˈvɛnts tə kip ðə kəˈmjunəti ɛnˈɡeɪdʒd/",
+          "linking": [
+            "Players have → 語末子音 /z/ が have /həv/ の母音に連結 [ˈpleɪərz həv] プレイアーズ ハヴ",
+            "have demanded → 語末子音 /v/ が demanded /d/ に連結 [həv dɪˈmændɪd] ハヴ ディマンディド",
+            "to keep → to は弱形 /tə/ [tə kip] タ キープ",
+            "the community → the は弱形 /ðə/ [ðə kəˈmjunəti] ザ コミュニティー"
+          ],
+          "kana": "プレイアーズ ハヴ ディマンディド サーヴァー ワイド イベンツ タ キープ ザ コミュニティー エンゲイジド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had demanded",
+      "ipa": "/həd dɪˈmændɪd/",
+      "examples": [
+        {
+          "en": "The nether fortress inhabitants had demanded tribute from every traveler before we arrived.",
+          "ja": "我々が到着する前に、ネザー要塞の住民は、すべての旅人から献金を要求していた。",
+          "ipa": "/ðə ˈnɛðər ˈfɔrtrɪs ɪnˈhæbɪtənts həd dɪˈmændɪd ˈtrɪbjut frəm ˈɛvri ˈtrævələr bɪˈfɔr wi əˈraɪvd/",
+          "linking": [
+            "inhabitants had → 語末子音 /s/ が母音 /ə/ に連結 [ɪnˈhæbɪtənts həd] インハビタンツ ハド",
+            "had demanded → 語末 /d/ が次の /d/ に未開放で続く [həd̚ dɪˈmændɪd] ハド ディマンディド",
+            "from every → from は弱形 /frəm/ [frəm ˈɛvri] フラム エブリー",
+            "before we → before の語末 /r/ が we の /w/ に続く [bɪˈfɔr wi] ビフォー ウィ"
+          ],
+          "kana": "ザ ネザー フォートレス インハビタンツ ハド ディマンディド トリビュート フラム エブリー トラベラー ビフォー ウィ アライヴド"
+        },
+        {
+          "en": "The puzzle had demanded perfect timing before we discovered the solution.",
+          "ja": "その謎解きは、私たちが解答を発見する前に、完璧なタイミングを要求していた。",
+          "ipa": "/ðə ˈpʌzəl həd dɪˈmændɪd ˈpɝfɪkt ˈtaɪmɪŋ bɪˈfɔr wi dɪsˈkʌvərd ðə səˈluʃən/",
+          "linking": [
+            "puzzle had → 語末 /l/ が母音 /ə/ に連結 [ˈpʌzəl həd] パズル ハド",
+            "had demanded → 語末 /d/ が次の /d/ に未開放で続く [həd̚ dɪˈmændɪd] ハド ディマンディド",
+            "before we → before の /r/ が we の /w/ に続く [bɪˈfɔr wi] ビフォー ウィ",
+            "discovered the → 語末 /d/ が the の母音に続く、the は弱形 /ðə/ [dɪsˈkʌvərd ðə] ディスカヴァード ザ"
+          ],
+          "kana": "ザ パズル ハド ディマンディド パーフェクト タイミング ビフォー ウィ ディスカヴァード ザ ソルーション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been demanding",
+      "ipa": "/həz bɪn dɪˈmændɪŋ/",
+      "examples": [
+        {
+          "en": "Mining in this cave has been demanding constant attention to avoid danger.",
+          "ja": "この洞窟で採掘することは、危険を避けるために絶え間ない注意を要求し続けている。",
+          "ipa": "/ˈmaɪnɪŋ ɪn ðɪs keɪv həz bɪn dɪˈmændɪŋ ˈkɑnstənt əˈtɛnʃən tə əˈvɔɪd ˈdeɪndʒər/",
+          "linking": [
+            "Mining in → 語末鼻音 /ŋ/ が母音 /ɪ/ に連結 [ˈmaɪnɪŋ ɪn] マイニング イン",
+            "cave has → 語末 /v/ が母音 /ə/ に連結 [keɪv həz] ケイヴ ハズ、has は弱形 /həz/",
+            "has been → 語末 /z/ が been の母音に連結 [həz bɪn] ハズ ビン、been は弱形 /bɪn/",
+            "demanding constant → 語末鼻音 /ŋ/ が母音 /ɑ/ に連結 [dɪˈmændɪŋ ˈkɑnstənt] ディマンディング コンスタント",
+            "to avoid → to は弱形 /tə/ [tə əˈvɔɪd] タ アヴォイド"
+          ],
+          "kana": "マイニング イン ディス ケイヴ ハズ ビン ディマンディング コンスタント アテンション タ アヴォイド デンジャー"
+        },
+        {
+          "en": "The enchantment has been demanding rare materials for the past few updates.",
+          "ja": "そのエンチャントは、この数回のアップデート以来、レアな素材を要求し続けている。",
+          "ipa": "/ðə ɪnˈtʃæntmənt həz bɪn dɪˈmændɪŋ rɛr məˈtɪriəlz fər ðə pæst fjuː ˈʌpdeɪts/",
+          "linking": [
+            "enchantment has → 語末 /t/ が母音に連結 [ɪnˈtʃæntmənt həz] インチャントメント ハズ",
+            "has been → 語末 /z/ が been の母音に連結 [həz bɪn] ハズ ビン",
+            "demanding rare → 語末鼻音 /ŋ/ が母音 /ɛ/ に連結 [dɪˈmændɪŋ rɛr] ディマンディング レアー",
+            "for the → for は弱形 /fər/、the も弱形 /ðə/ [fər ðə] ファー ザ",
+            "few updates → few の語末 /w/ が updates の母音に続く"
+          ],
+          "kana": "ザ インチャントメント ハズ ビン ディマンディング レアー マテリアルズ ファー ザ パスト フュー アップデーツ"
+        }
+      ]
+    },
+    {
       "type": "plural",
       "label": "複数形（名詞）",
       "text": "demands",
@@ -296,6 +394,79 @@
             "keep increasing → 語末 /p/ が母音 /ɪ/ に連結 [ˈkiːp ɪnˈkriːsɪŋ] キープ インクリーシング"
           ],
           "kana": "ゼア ディマンズ ファー レアー マテリアルズ キープ インクリーシング アズ ウィ プログレス スルー ザ ゲイム"
+        }
+      ]
+    }
+  ],
+  "forms_future": [
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will demand",
+      "ipa": "/wɪl dɪˈmænd/",
+      "examples": [
+        {
+          "en": "I'll demand better equipment before we fight the dragon.",
+          "ja": "ドラゴンと戦う前に、より良い装備を要求するだろう。",
+          "ipa": "/aɪl dɪˈmænd ˈbɛɾər ɪˈkwɪpmənt bɪˈfɔr wi ˈfaɪt ðə ˈdræɡən/",
+          "linking": [
+            "better equipment → better の語末フラップ [ɾ] が equipment の /ɪ/ に連結 [ˈbɛɾər ɪˈkwɪpmənt] ベター イクウィップメント"
+          ],
+          "kana": "アイル ディマンド ベター イクウィップメント ビフォー ウィ ファイト ザ ドラゴン"
+        },
+        {
+          "en": "They will demand all resources before we venture into the nether.",
+          "ja": "ネザーに冒険する前に、彼らはすべてのリソースを要求するだろう。",
+          "ipa": "/ðeɪ wɪl dɪˈmænd ɔl ˈrɛsərsɪz bɪˈfɔr wi ˈvɛntʃər ˈɪntu ðə ˈnɛðər/",
+          "linking": [],
+          "kana": "ザイ ウィル ディマンド オール リソーシズ ビフォー ウィ ベンチャー イントゥ ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be demanding",
+      "ipa": "/wɪl bi dɪˈmændɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be demanding perfect coordination from everyone during the boss battle.",
+          "ja": "ボスバトル中、全員から完璧な協調プレイを要求し続けるだろう。",
+          "ipa": "/aɪl bi dɪˈmændɪŋ ˈpɚfɪkt koʊˌɔrdɪˈneɪʃən frəm‿ɛvriˌwʌn ˈdʊrɪŋ ðə bɔs ˈbæɾəl/",
+          "linking": [
+            "demanding perfect → 語末鼻音 /ŋ/ が perfect の /p/ に（子音+子音） [dɪˈmændɪŋ ˈpɚfɪkt] ディマンディング パーフェクト",
+            "from everyone → 語末 /m/ が母音 /ɛ/ に連結 [frəm‿ɛvriˌwʌn] フラメブリワン"
+          ],
+          "kana": "アイル ビー ディマンディング パーフェクト コーオーディネーション フラメブリワン ドゥアリング ザ ボス バトル"
+        },
+        {
+          "en": "We'll be demanding faster mining speeds throughout the entire session.",
+          "ja": "セッション全体を通じて、より速い採掘速度を要求し続けるだろう。",
+          "ipa": "/wil bi dɪˈmændɪŋ ˈfæstər ˈmaɪnɪŋ spidz θruːˈaʊt ðə ɪnˈtaɪr ˈsɛʃən/",
+          "linking": [],
+          "kana": "ウィル ビー ディマンディング ファスター マイニング スピーズ スルーアウト ザ インタイア セッション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have demanded",
+      "ipa": "/wɪl həv dɪˈmændɪd/",
+      "examples": [
+        {
+          "en": "By next month, I will have demanded three new bases from the admin.",
+          "ja": "来月までに、管理者に3つの新しい拠点を要求するだろう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ aɪ wɪl həv dɪˈmændɪd θri nju ˈbeɪsɪz frəm ðə ˈædmɪn/",
+          "linking": [],
+          "kana": "バイ ネクスト マンス アイ ウィル ハヴ ディマンディド スリー ニュー ベイシズ フラム ザ アドミン"
+        },
+        {
+          "en": "By the time the server resets, we will have demanded changes to the spawn system.",
+          "ja": "サーバーがリセットされるまでに、私たちはスポーンシステムへの変更を要求するだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɚvər ˈriːsɛts wi wɪl həv dɪˈmændɪd ˈtʃeɪndʒɪz tə ðə ˈspoʊn ˈsɪstəm/",
+          "linking": [],
+          "kana": "バイ ザ タイム ザ サーヴァー リーセッツ ウィ ウィル ハヴ ディマンディド チェインジズ タ ザ スポーン システム"
         }
       ]
     }
