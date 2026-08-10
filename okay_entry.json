@@ -358,6 +358,95 @@
           "kana": "ザ マダレイターズ ハヴ ビン オゥケイイング プレイヤー サジェスションズ シンス ザ サーバー スターティド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞）",
+      "text": "will okay",
+      "ipa": "/wɪl ˈoʊkeɪ/",
+      "examples": [
+        {
+          "en": "I will okay your mining permit application tomorrow.",
+          "ja": "明日、あなたの採掘許可申請を承認します。",
+          "ipa": "/aɪ wɪl ˈoʊkeɪ jɚ ˈmaɪnɪŋ ˈpɜrmɪt ˌæpləˈkeɪʃən təˈmɑroʊ/",
+          "linking": [
+            "I'll → I と will の縮約で /aɪl/",
+            "will okay → will の /l/ が okay の /oʊ/ に連結 [wɪˈloʊkeɪ]",
+            "to → 機能語は弱形 /tə/"
+          ],
+          "kana": "アイル ウィロウケイ ユア マイニング パーミット アプリケーション トゥモロー"
+        },
+        {
+          "en": "The owner will okay this farm design before next week's reset.",
+          "ja": "オーナーが来週のリセット前に、この農場デザインを承認するでしょう。",
+          "ipa": "/ðə ˈoʊnɚ wɪl ˈoʊkeɪ ðɪs ˈfɑrm dɪˈzaɪn bɪˈfɔr ˈnɛkst ˈwiks ˈrɪˌsɛt/",
+          "linking": [
+            "The → 冠詞は弱形 /ðə/",
+            "will okay → will の /l/ が okay の /oʊ/ に連結 [wɪˈloʊkeɪ]",
+            "before next → before の /ɚ/ が next の /n/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ オーナー ウィロウケイ ディス ファーム ディザイン ビフォア ネクスト ウィークス リセット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be okaying",
+      "ipa": "/wɪl bi ˈoʊkeɪɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be okaying new builds throughout the event.",
+          "ja": "イベント中、新しいビルドを承認し続けるでしょう。",
+          "ipa": "/wil bi ˈoʊkeɪɪŋ ˈnu ˈbɪldz θruˈaʊt ðə ɪˈvɛnt/",
+          "linking": [
+            "We'll → we と will の縮約で /wil/",
+            "be okaying → be の /i/ + okaying の /oʊ/ が母音+母音で流れる [biˈoʊkeɪɪŋ]",
+            "the → 冠詞は弱形 /ðə/"
+          ],
+          "kana": "ウィル ビー オウケイイング ニュー ビルズ スルーアウト ダ イベント"
+        },
+        {
+          "en": "She will be okaying player applications all evening.",
+          "ja": "彼女は一晩中、プレイヤーアプリケーションを承認し続けるでしょう。",
+          "ipa": "/ʃi wɪl bi ˈoʊkeɪɪŋ ˈpleɪɚ ˌæpləˈkeɪʃənz ˈɔl ˈiːvnɪŋ/",
+          "linking": [
+            "be okaying → be の /i/ + okaying の /oʊ/ が母音+母音で流れる [biˈoʊkeɪɪŋ]",
+            "all evening → all の /l/ + evening の /iː/ が連結 [ˈɔlˈiːvnɪŋ]"
+          ],
+          "kana": "シー ウィル ビー オウケイイング プレイヤー アプリケーションズ オール イーブニング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have okayed",
+      "ipa": "/wɪl həv ˈoʊkeɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have okayed all the construction projects.",
+          "ja": "明日までに、すべての建設プロジェクトを承認しているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪ wɪl həv ˈoʊkeɪd ˈɔl ðə kənˈstrʌkʃən ˈprɑdʒɛkts/",
+          "linking": [
+            "to → 機能語は弱形 /tə/",
+            "have okayed → have は弱形 /həv/、okayed の /oʊ/ に連結 [həvˈoʊkeɪd]",
+            "the → 冠詞は弱形 /ðə/"
+          ],
+          "kana": "バイ トゥモロー アイ ウィル ハヴ オウケイド オール ザ コンストラクション プロジェクツ"
+        },
+        {
+          "en": "The admins will have okayed every new structure before the server maintenance.",
+          "ja": "サーバーメンテナンスの前に、管理者がすべての新しい構造物を承認しているでしょう。",
+          "ipa": "/ðə ˈædmɪnz wɪl həv ˈoʊkeɪd ˈɛvri ˈnu ˈstrʌktʃɚ bɪˈfɔr ðə ˈsɝvɚ ˌmeɪntənəns/",
+          "linking": [
+            "The → 冠詞は弱形 /ðə/",
+            "have okayed → have は弱形 /həv/、okayed の /oʊ/ に連結 [həvˈoʊkeɪd]",
+            "the → 冠詞は弱形 /ðə/（2度出現）"
+          ],
+          "kana": "ザ アドミンズ ウィル ハヴ オウケイド エブリー ニュー ストラクチャー ビフォア ザ サーバー メインテナンス"
+        }
+      ]
     }
   ]
 }
