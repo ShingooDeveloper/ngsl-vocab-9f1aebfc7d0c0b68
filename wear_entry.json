@@ -169,6 +169,188 @@
           "kana": "シー ハド ビン ウェアリング ハー イリトラ オール モーニング ビフォア シー ファイナリー ディサイディッド タ ランド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has worn",
+      "ipa": "/həz wɔrn/",
+      "examples": [
+        {
+          "en": "I have worn out all my tools by mining all day.",
+          "ja": "1日中採掘してすべてのツールを摩耗させてしまった。",
+          "ipa": "/aɪ həv wɔrn ˈaʊt ɔl maɪ tulz baɪ ˈmaɪnɪŋ ɔl ˈdeɪ/",
+          "linking": [
+            "have worn → have の末尾 /v/ が worn の初頭 /w/（子音+子音、連結なし）。have は弱形 /həv/",
+            "worn out → worn の末尾 /n/ が out の初頭母音 /aʊ/ に連結 [wɔrn aʊt] ワーン アウト",
+            "out all → out の末尾 /t/ が未開放（all に先行する際、/t/ は子音+子音で未開放）"
+          ],
+          "kana": "アイ ハヴ ワーン アウト オール マイ トゥールズ バイ マイニング オール デイ"
+        },
+        {
+          "en": "She has worn diamond armor since joining our server.",
+          "ja": "彼女はサーバーに参加してからずっとダイヤ防具を着ている。",
+          "ipa": "/ʃi həz wɔrn ˈdaɪəmənd ˈɑrmər sɪns ˈdʒɔɪnɪŋ ˈaʊər ˈsɝvər/",
+          "linking": [
+            "has worn → has の末尾 /z/ が worn の初頭 /w/（子音+子音、連結なし）。has は弱形 /həz/",
+            "since joining → since の末尾 /s/ が joining の初頭 /dʒ/（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ ワーン ダイアモンド アーマー シンス ジョイニング アワー サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had worn",
+      "ipa": "/həd wɔrn/",
+      "examples": [
+        {
+          "en": "He had worn through three sets of armor before finding diamonds.",
+          "ja": "彼はダイヤモンドを見つける前に、3セットの防具を完全に摩耗させていました。",
+          "ipa": "/hi həd wɔrn θru ˈθri ˈsɛts əv ˈɑrmər bɪˈfɔr ˈfaɪndɪŋ ˈdaɪəmənz/",
+          "linking": [
+            "had worn → had の末尾 /d/ が worn の初頭 /w/（子音+子音、連結なし）。had は弱形 /həd/",
+            "sets of → sets の末尾 /t/ が of の初頭母音 /ə/（弱形 /əv/）に連結してフラップ [ɾ] になり [ˈsɛɾəv] セッレアヴ"
+          ],
+          "kana": "ヒー ハド ワーン スルー スリー セッレアヴ アーマー ビフォア ファインディング ダイアマンズ"
+        },
+        {
+          "en": "We had worn our boots completely before we reached the village.",
+          "ja": "私たちは村に到着する前に、ブーツを完全に摩耗させていました。",
+          "ipa": "/wi həd wɔrn ˈaʊər buts kəmˈplit li bɪˈfɔr wi ritʃt ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "had worn → had の末尾 /d/ が worn の初頭 /w/（子音+子音、連結なし）",
+            "worn our → worn の末尾 /n/ が our の初頭母音 /aʊ/ に連結 [wɔrn aʊər] ワーン アワー",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィー ハド ワーン アワー ブーツ コムプリートリー ビフォア ウィー リーチド ザ ヴィリッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been wearing",
+      "ipa": "/həz bɪn ˈwɛrɪŋ/",
+      "examples": [
+        {
+          "en": "I have been wearing this armor since I started playing.",
+          "ja": "ゲームを始めた時からずっとこの防具を着ている。",
+          "ipa": "/aɪ həv bɪn ˈwɛrɪŋ ðɪs ˈɑrmər sɪns aɪ ˈstɑrtɪd ˈpleɪɪŋ/",
+          "linking": [
+            "have been → have の末尾 /v/ が been の初頭 /b/（子音+子音、連結なし）。have は弱形 /həv/、been は弱形 /bɪn/",
+            "this armor → this の末尾 /s/ が armor の初頭母音 /ɑ/ に連結 [ðɪs ˈɑrmər] ディス アーマー",
+            "since I → since の末尾 /s/ が I の初頭母音 /aɪ/ に連結 [sɪns aɪ] シンズ アイ"
+          ],
+          "kana": "アイ ハヴ ビン ウェアリング ディス アーマー シンズ アイ スターティッド プレイング"
+        },
+        {
+          "en": "They have been wearing Elytra for the entire adventure.",
+          "ja": "彼らは冒険全体を通してエリトラを着けている。",
+          "ipa": "/ðeɪ həv bɪn ˈwɛrɪŋ ɪˈlɪtrə fɚ ðə ɪnˈtaɪər ədˈvɛntʃər/",
+          "linking": [
+            "have been → have の末尾 /v/ が been の初頭 /b/（子音+子音、連結なし）。have は弱形 /həv/、been は弱形 /bɪn/",
+            "wearing Elytra → wearing の末尾 /ŋ/ が Elytra の初頭母音 /ɪ/ に連結 [ˈwɛrɪŋ ɪˈlɪtrə] ウェアリング イリトラ",
+            "for the → for は弱形 /fɚ/、the は弱形 /ðə/。[fɚ ðə] ファ ザ"
+          ],
+          "kana": "ゼイ ハヴ ビン ウェアリング イリトラ ファ ザ インタイア アドベンチャー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will wear",
+      "ipa": "/wɪl wɛr/",
+      "examples": [
+        {
+          "en": "I'll wear diamond armor when exploring the Deep Dark.",
+          "ja": "深暗の地を探検するときは、ダイヤ防具を着る。",
+          "ipa": "/aɪl wɛr ˈdaɪəmənd ˈɑrmər wɛn ɪkˈsplɔrɪŋ ðə ˈdip ˈdɑrk/",
+          "linking": [
+            "I'll wear → I'll は /aɪl/ 縮約形（will に相当）。wear の初頭 /w/（子音）に先行（子音+子音、連結なし）",
+            "when exploring → when の末尾 /n/ が exploring の初頭母音 /ɪ/ に連結 [wɛn ɪkˈsplɔrɪŋ] ウェン イクスプローリング",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル ウェア ダイアモンド アーマー ウェン イクスプローリング ザ ディープ ダーク"
+        },
+        {
+          "en": "We'll wear protective gear before descending into the cave.",
+          "ja": "洞窟に降りる前に、保護具を着る。",
+          "ipa": "/wil wɛr prəˈtɛktɪv ɡɪr bɪˈfɔr dɪˈsɛndɪŋ ˈɪntu ðə ˈkeɪv/",
+          "linking": [
+            "We'll wear → We'll は /wil/ 縮約形（will に相当）。wear の初頭 /w/（子音）に先行（子音+子音、連結なし）",
+            "descending into → descending の末尾 /ŋ/ が into の初頭母音 /ɪ/ に連結 [dɪˈsɛndɪŋ ˈɪntu] ディセンディング イント",
+            "into the → into の末尾 /oʊ/ が the の初頭 /ð/（子音）に先行（母音+子音、連結なし）。the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル ウェア プロテクティヴ ギア ビフォア ディセンディング イント ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be wearing",
+      "ipa": "/wɪl bi ˈwɛrɪŋ/",
+      "examples": [
+        {
+          "en": "He'll be wearing the Elytra while flying to the mountain.",
+          "ja": "彼は山に飛び向かう間、エリトラを着ているだろう。",
+          "ipa": "/hil bi ˈwɛrɪŋ ðə ɪˈlɪtrə ˈwaɪl ˈflaɪɪŋ tə ðə ˈmaʊntn/",
+          "linking": [
+            "He'll be → He'll は /hil/ 縮約形。be の初頭 /b/（子音）に先行（子音+子音、連結なし）。be は弱形 /bi/",
+            "be wearing → be の末尾 /i/ が wearing の初頭 /w/（子音）に先行（母音+子音、連結なし）",
+            "the Elytra → the は弱形 /ðə/ ザ。Elytra の初頭母音 /ɪ/ に連結 [ðə ɪˈlɪtrə] ザ イリトラ",
+            "to the → to は弱形 /tə/ タ、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒール ビー ウェアリング ザ イリトラ ホワイル フライング タ ザ マウンテン"
+        },
+        {
+          "en": "They'll be wearing enchanted armor during the raid boss battle.",
+          "ja": "彼らはレイドボス戦闘中にエンチャントされた防具を着ているだろう。",
+          "ipa": "/ðeɪl bi ˈwɛrɪŋ ɛnˈtʃɑntɪd ˈɑrmər ˈdʊrɪŋ ðə ˈreɪd bɔs ˈbætəl/",
+          "linking": [
+            "They'll be → They'll は /ðeɪl/ 縮約形。be の初頭 /b/（子音）に先行（子音+子音、連結なし）",
+            "be wearing → be の末尾 /i/ が wearing の初頭 /w/（子音）に先行（母音+子音、連結なし）",
+            "during the → during の末尾 /ŋ/ が the の初頭 /ð/（子音）に続く（鼻音+子音）。the は弱形 /ðə/ ザ",
+            "boss battle → boss の語末 /s/ が battle の初頭 /b/（子音）に続く（子音+子音）。/s/ は未開放 [bɔs̚ ˈbætəl]"
+          ],
+          "kana": "ゼイル ビー ウェアリング エンチャンティッド アーマー デューリング ザ レイド ボス バトル"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have worn",
+      "ipa": "/wɪl həv wɔrn/",
+      "examples": [
+        {
+          "en": "I will have worn through my boots by the time the mining session ends.",
+          "ja": "採掘セッションが終わるまでに、ブーツは完全に摩耗しているだろう。",
+          "ipa": "/aɪ wɪl həv wɔrn θru maɪ ˈbuts baɪ ðə ˈtaɪm ðə ˈmaɪnɪŋ ˈsɛʃən ˈɛndz/",
+          "linking": [
+            "will have → will は弱形傾向 /wəl/ ウル。have は弱形 /həv/（ハヴ）に続く（子音+子音）",
+            "have worn → have の語末 /v/ が worn の初頭 /w/（子音）に先行（子音+子音、連結なし）",
+            "by the → by の末尾 /aɪ/ が the の初頭 /ð/（子音）に先行（母音+子音、連結なし）。the は弱形 /ðə/ ザ",
+            "time the → time の末尾 /m/ が the の初頭 /ð/（子音）に先行（子音+子音）。the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ウィル ハヴ ワーン スルー マイ ブーツ バイ ザ タイム ザ マイニング セッション エンズ"
+        },
+        {
+          "en": "She will have worn out her pickaxe before discovering the ancient city.",
+          "ja": "彼女は古い都市を発見する前に、つるはしを完全に摩耗させているだろう。",
+          "ipa": "/ʃi wɪl həv wɔrn ˈaʊt hɚ ˈpɪkæks bɪˈfɔr dɪsˈkʌvərɪŋ ðə ˈeɪnʃənt ˈsɪti/",
+          "linking": [
+            "will have → will は弱形傾向 /wəl/ ウル。have は弱形 /həv/（ハヴ）に続く（子音+子音）",
+            "have worn → have の語末 /v/ が worn の初頭 /w/（子音）に先行（子音+子音、連結なし）",
+            "worn out → worn の末尾 /n/ が out の初頭母音 /aʊ/ に連結 [wɔrn aʊt] ワーン アウト",
+            "discovering the → discovering の末尾 /ŋ/ が the の初頭 /ð/（子音）に続く（鼻音+子音）。the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ウィル ハヴ ワーン アウト ハー ピックアックス ビフォア ディスカヴァリング ザ エインシェント シティ"
+        }
+      ]
     }
   ]
 }
