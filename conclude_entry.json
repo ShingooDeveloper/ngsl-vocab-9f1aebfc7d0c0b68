@@ -116,6 +116,287 @@
           "kana": "バイ コンクルーディング ディス クエスト アーリー、ウィ カン イクスプロア ニュー バイオームズ ビフォア ナイトフォール"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is concluding",
+      "ipa": "/ɪz kənˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "The researchers are concluding their analysis of diamond spawn patterns at deeper levels.",
+          "ja": "研究者たちがより深いレベルのダイヤモンドスポーンパターンの分析を終わらせつつあります。",
+          "ipa": "/ðə ɹɪˈsɝːtʃərz ɑr kənˈkluːdɪŋ ðɛr ənˈælɪsɪs əv ˈdaɪmənd spoʊn ˈpætərnz æt ˈdipər ˈlɛvəlz/",
+          "linking": [
+            "are → 弱形で /ər/ [ɑr]、researchers の語末 /z/ との間で弱形化",
+            "concluding their → 語末子音 /ŋ/ が their の初頭子音 /ð/（子音+子音、連結なし）",
+            "of diamond → of の語末 /v/ が diamond の初頭子音 /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ リサーチャーズ アー コンクルーディング ゼア アナリシス アヴ ダイアモンド スポーン パターンズ アット ディーパー レベルズ"
+        },
+        {
+          "en": "We are concluding our investigation before the sun rises.",
+          "ja": "私たちは太陽が昇る前に調査を終わらせつつあります。",
+          "ipa": "/wi ɑr kənˈkluːdɪŋ ˈaʊɚ ɪnˌvɛstəˈɡeɪʃən bɪˈfoʊr ðə ˈsʌn ˈɹaɪzɪz/",
+          "linking": [
+            "are → 弱形で /ɚ/（we の語末母音と連結）[wɪɚ]",
+            "concluding our → 語末子音 /ŋ/ が our の初頭母音 /aʊ/ に連結 [kənˈkluːdɪŋ ˈaʊɚ] コンクルーディング アワー",
+            "our investigation → 語末子音 /r/ が investigation の初頭母音 /ɪ/ に連結 [ˈaʊɚ ɪnˌvɛstəˈɡeɪʃən] アワー インベスティゲーション"
+          ],
+          "kana": "ウィ アー コンクルーディング アワー インベスティゲーション ビフォア ザ サン ライジズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was concluding",
+      "ipa": "/wəz kənˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "The miners were concluding their resource survey when they encountered a deep cave system.",
+          "ja": "鉱夫たちが資源調査を終わらせつつあった時、彼らは深い洞窟システムに遭遇しました。",
+          "ipa": "/ðə ˈmaɪnərz wər kənˈkluːdɪŋ ðɛr rɪˈsoʊrs ˈsɝːveɪ wɛn ðeɪ ɪnˈkaʊntərd ə ˈdip ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "were → 機能語（助動詞）の弱形 /wər/",
+            "concluding their → 語末子音 /ŋ/ + their の初頭子音 /ð/（子音+子音、連結なし）",
+            "deep cave → 語末子音 /p/ が cave の初頭母音 /eɪ/ に連結 [ˈdip ˈkeɪv] ディープ ケイヴ"
+          ],
+          "kana": "ザ マイナーズ ウア コンクルーディング ゼア リソース サーヴェイ ウェン ゼイ インカウンタード ア ディープ ケイヴ システム"
+        },
+        {
+          "en": "We were concluding our survey when we found the perfect base location.",
+          "ja": "私たちが調査を終わらせつつあった時、完璧な基地の場所を見つけました。",
+          "ipa": "/wi wər kənˈkluːdɪŋ ˈaʊɚ ˈsɝːveɪ wɛn wi faʊnd ðə ˈpɝːfɪkt ˈbeɪs loʊˈkeɪʃən/",
+          "linking": [
+            "were → 弱形で /ər/（we の語末母音と連結）[wɪɚ]",
+            "concluding our → 語末子音 /ŋ/ が our の初頭母音 /aʊ/ に連結 [kənˈkluːdɪŋ ˈaʊɚ] コンクルーディング アワー",
+            "found the → 語末子音 /d/ が the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウア コンクルーディング アワー サーヴェイ ウェン ウィ ファウンド ザ パーフィクト ベース ロケーション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been concluding",
+      "ipa": "/həd bɪn kənˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "They had been concluding their exploration when they finally discovered the safest location in the entire biome.",
+          "ja": "彼らが探索を終わらせるプロセスを続けていた時、バイオーム全体で最も安全な場所をついに見つけました。",
+          "ipa": "/ðeɪ həd bɪn kənˈkluːdɪŋ ðɛr ɪkˌsploʊˈreɪʃən wɛn ðeɪ ˈfaɪnəli dɪˈskʌvərd ðə ˈseɪfəst loʊˈkeɪʃən ɪn ðiː ənˈtaɪɚ baɪˈoʊm/",
+          "linking": [
+            "had been → had は弱形で /həd/、been も弱形で /bɪn/ [həd bɪn]",
+            "their exploration → 語末子音 /r/ が exploration の初頭母音 /ɪ/ に連結 [ðɛr ɪkˌsploʊˈreɪʃən] ゼア イクスプロレーション",
+            "the safest → the は弱形で /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン コンクルーディング ゼア イクスプロレーション ウェン ゼイ ファイナリー ディスカヴァード ザ セイフェスト ロケーション イン ジ エンタイアー バイオーム"
+        },
+        {
+          "en": "By the time they heard the strange sound, the team had been concluding their safety assessment of the deep dark.",
+          "ja": "奇妙な音を聞く頃には、チームが深い暗い場所の安全評価を終わらせるプロセスをずっと続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðeɪ ˈhɝːd ðə ˈstreɪndʒ ˈsaʊnd | ðə ˈtim həd bɪn kənˈkluːdɪŋ ðɛr ˈseɪfti əˈsɛsmənt əv ðə ˈdip ˈdɑrk/",
+          "linking": [
+            "had been → had は弱形で /həd/、been も弱形で /bɪn/ [həd bɪn]",
+            "their safety → 語末子音 /r/ が safety の初頭子音 /s/ に後続（子音+子音なので連結なし）",
+            "of the → of の語末 /v/ が the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形で /ðə/"
+          ],
+          "kana": "バイ ザ タイム ゼイ ハード ザ ストレインジ サウンド、ザ ティーム ハド ビン コンクルーディング ゼア セイフティ アセスメント アヴ ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has concluded",
+      "ipa": "/həz kənˈkluːdəd/",
+      "examples": [
+        {
+          "en": "The player has concluded the mining mission and collected all the required resources.",
+          "ja": "プレイヤーは採掘ミッションを完了し、必要なリソースをすべて集めました。",
+          "ipa": "/ðə ˈpleɪər həz kənˈkluːdəd ðə ˈmaɪnɪŋ ˈmɪʃən ənd kəˈlɛktəd ˈɔl ðə rɪˈkwaɪərd ˈɹɛsərsɪz/",
+          "linking": [
+            "The player → The は弱形で /ðə/",
+            "player has → 語末子音 /r/ が has の初頭母音 /h/（弱形 /həz/）に連結 [ˈpleɪər həz] プレイアー ハズ",
+            "mission and → and は機能語で弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ザ プレイアー ハズ コンクルーディッド ザ マイニング ミッション アンド コレクテッド オール ザ リクワイアード レソースィズ"
+        },
+        {
+          "en": "We have concluded our investigation of the Nether fortress design principles.",
+          "ja": "私たちはネザー要塞の設計原理の調査を完了しました。",
+          "ipa": "/wi həv kənˈkluːdəd ˈaʊɚ ɪnˌvɛstəˈɡeɪʃən əv ðə ˈnɛðɚ ˈfɔrtrəs dɪˈzaɪn ˈprɪnsəpəlz/",
+          "linking": [
+            "We have → have は弱形で /həv/、we の語末母音 /i/ に続く",
+            "our investigation → 語末子音 /r/ が investigation の初頭母音 /ɪ/ に連結 [ˈaʊɚ ɪnˌvɛstəˈɡeɪʃən] アワー インベスティゲーション",
+            "of the → of の語末 /v/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ コンクルーディッド アワー インベスティゲーション アヴ ザ ネザー フォートレス ディザイン プリンシパルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had concluded",
+      "ipa": "/həd kənˈkluːdəd/",
+      "examples": [
+        {
+          "en": "After the team had concluded their base design, they started construction immediately.",
+          "ja": "チームが基地の設計を完了した後、彼らはすぐに建設を開始しました。",
+          "ipa": "/ˈæftər ðə ˈtim həd kənˈkluːdəd ðɛr ˈbeɪs dɪˈzaɪn | ðeɪ ˈstɑɹtəd kənˈstrʌkʃən ɪˈmiːdiətli/",
+          "linking": [
+            "After the → After の語末 /r/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the team → the は弱形で /ðə/、team に連結",
+            "had concluded → had は弱形で /həd/、concluded に続く",
+            "their base → 語末子音 /r/ が base の初頭子音 /b/（子音+子音、連結なし）"
+          ],
+          "kana": "アフター ザ ティーム ハド コンクルーディッド ゼア ベース ディザイン、ゼイ スターティッド コンストラクション イミーディエットリー"
+        },
+        {
+          "en": "By the time nightfall arrived, we had concluded our exploration of the new cave system.",
+          "ja": "夜間が到着する時までに、私たちは新しい洞窟システムの探索を完了していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈnaɪtˌfɔl əˈɹaɪvd | wi həd kənˈkluːdəd ˈaʊɚ ɪkˌsploʊˈreɪʃən əv ðə ˈnuː ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "By the → the は弱形で /ðə/、time に連結",
+            "nightfall arrived → 語末子音 /l/ が arrived の初頭母音 /ə/ に連結 [ˈnaɪtˌfɔl əˈɹaɪvd] ナイトフォール アライヴド",
+            "had concluded → had は弱形で /həd/、concluded に続く",
+            "our exploration → 語末子音 /r/ が exploration の初頭母音 /ɪ/ に連結 [ˈaʊɚ ɪkˌsploʊˈreɪʃən] アワー イクスプロレーション",
+            "of the → of の語末 /v/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ナイトフォール アライヴド、ウィ ハド コンクルーディッド アワー イクスプロレーション アヴ ザ ニュー ケイヴ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been concluding",
+      "ipa": "/həz bɪn kənˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "The miners have been concluding their survey of diamond layers for the past hour.",
+          "ja": "鉱夫たちはこの1時間、ダイヤモンド層の調査を完了するプロセスを続けています。",
+          "ipa": "/ðə ˈmaɪnərz həv bɪn kənˈkluːdɪŋ ðɛr ˈsɝːveɪ əv ˈdaɪmənd ˈleɪərz fɔɹ ðə ˈpæst ˈaʊɚ/",
+          "linking": [
+            "The miners → The は弱形で /ðə/、miners に連結",
+            "miners have → 語末子音 /z/ + have の初頭子音 /h/（子音+子音、連結なし）、have は弱形 /həv/",
+            "have been → have は弱形 /həv/、been も弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "their survey → 語末子音 /r/ が survey の初頭子音 /s/（子音+子音、連結なし）",
+            "of diamond → of の語末 /v/ + diamond の初頭子音 /d/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ マイナーズ ハヴ ビン コンクルーディング ゼア サーヴェイ アヴ ダイアモンド レイアーズ フォー ザ パースト アワー"
+        },
+        {
+          "en": "We have been concluding our preparations for the raid against the Ender Dragon.",
+          "ja": "私たちはエンダードラゴンとのレイドへの準備を完了するプロセスを続けています。",
+          "ipa": "/wi həv bɪn kənˈkluːdɪŋ ˈaʊɚ ˌprɛpəˈreɪʃən fɔɹ ðə ˈɹeɪd əˈɡɛnst ði ˈɛndɚ ˈdɹæɡən/",
+          "linking": [
+            "We have → have は弱形で /həv/、we の語末母音に続く",
+            "have been → have は弱形 /həv/、been も弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "concluding our → 語末子音 /ŋ/ が our の初頭母音 /aʊ/ に連結 [kənˈkluːdɪŋ ˈaʊɚ] コンクルーディング アワー",
+            "for the → for は弱形 /fɔɹ/、the も弱形 /ðə/",
+            "the Ender → the は弱形で /ðə/、Ender に連結"
+          ],
+          "kana": "ウィ ハヴ ビン コンクルーディング アワー プレパレーション フォー ザ レイド アゲンスト ジ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will conclude",
+      "ipa": "/wɪl kənˈkluːd/",
+      "examples": [
+        {
+          "en": "We will conclude the expedition once we reach the underground base.",
+          "ja": "私たちは地下基地に到達すると、遠征を完了します。",
+          "ipa": "/wi wəl kənˈkluːd ðə ɪkˌspɛdɪʃən wʌns wi riːtʃ ðə ˈʌndərɡraʊnd ˈbeɪs/",
+          "linking": [
+            "will → 機能語（助動詞）の弱形 /wəl/",
+            "conclude the → 語末子音 /d/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "reach the → 語末子音 /tʃ/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル コンクルード ザ イクスペディション ワンス ウィ リーチ ザ アンダーグラウンド ベース"
+        },
+        {
+          "en": "They will conclude their investigation by measuring the exact distance to the Stronghold.",
+          "ja": "彼らは要塞までの正確な距離を測定して調査を完了します。",
+          "ipa": "/ðeɪ wəl kənˈkluːd ðɛr ɪnˌvɛstəˈɡeɪʃən baɪ ˈmɛʒərɪŋ ðə ɪɡˈzækt ˈdɪstəns tə ðə ˈstɹɔŋˌhoʊld/",
+          "linking": [
+            "will → 弱形 /wəl/",
+            "conclude their → 語末子音 /d/ + their の初頭子音 /ð/（子音+子音、連結なし）",
+            "by measuring → 語末母音 /aɪ/ + measuring の初頭子音 /m/（母音+子音、連結なし）",
+            "distance to → 語末子音 /s/ + to の初頭子音 /t/（子音+子音、連結なし）、to は弱形 /tə/",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/"
+          ],
+          "kana": "ゼイ ウィル コンクルード ゼア インベスティゲーション バイ メジャーリング ザ イグザクト ディスタンス トゥ ザ ストロングホールド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be concluding",
+      "ipa": "/wɪl bi kənˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "While we're mining, they will be concluding their examination of the cave system.",
+          "ja": "私たちが採掘している間、彼らは洞窟システムの検査を完了しつつあるでしょう。",
+          "ipa": "/waɪl wɪɹ ˈmaɪnɪŋ | ðeɪ wəl bi kənˈkluːdɪŋ ðɛr ɪɡˈzæmɪˈneɪʃən əv ðə ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "will be → will は弱形 /wəl/、be は弱形 /bi/ [wəl bi]",
+            "concluding their → 語末子音 /ŋ/ + their の初頭子音 /ð/（子音+子音、連結なし）",
+            "of the → of の語末 /v/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ワイル ウィアー マイニング、ゼイ ウィル ビ コンクルーディング ゼア イグザミネーション アヴ ザ ケイヴ システム"
+        },
+        {
+          "en": "I'll be concluding my assessment of the biome when you arrive at the base.",
+          "ja": "君が基地に到着する時、私はバイオームの評価を完了しつつあるでしょう。",
+          "ipa": "/aɪl bi kənˈkluːdɪŋ maɪ əˈsɛsmənt əv ðə baɪˈoʊm wɛn ju əˈɹaɪv æt ðə ˈbeɪs/",
+          "linking": [
+            "I'll be → I'll /aɪl/（縮約形）、be の初頭母音に連結 [aɪl bi]",
+            "concluding my → 語末子音 /ŋ/ + my の初頭子音 /m/（子音+子音、連結なし）",
+            "of the → of の語末 /v/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "arrive at → 語末 /v/ が at の初頭母音 /æ/ に連結 [əˈɹaɪv æt] アライヴ アット"
+          ],
+          "kana": "アイル ビ コンクルーディング マイ アセスメント アヴ ザ バイオーム ウェン ユー アライヴ アット ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have concluded",
+      "ipa": "/wɪl həv kənˈkluːdəd/",
+      "examples": [
+        {
+          "en": "By midnight, we will have concluded all our preparations for the Nether expedition.",
+          "ja": "真夜中までに、私たちはネザー遠征のすべての準備を完了しているでしょう。",
+          "ipa": "/baɪ ˈmɪdˌnaɪt | wi wəl həv kənˈkluːdəd ɔl ˈaʊɚ ˌprɛpəˈreɪʃənz fɔɹ ðə ˈnɛðɚ ɪkˌspɛdɪʃən/",
+          "linking": [
+            "will have → will は弱形 /wəl/、have も弱形 /həv/ [wəl həv]",
+            "concluded all → 語末子音 /d/ + all の初頭母音 /ɔ/（子音+母音、連結の可能性あり）",
+            "all our → 語末子音 /l/ が our の初頭母音 /aʊ/ に連結 [ˈɔl ˈaʊɚ] オール アワー",
+            "for the → for は弱形 /fɔɹ/ または /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "バイ ミッドナイト、ウィ ウィル ハヴ コンクルーディッド オール アワー プレパレーションズ フォー ザ ネザー イクスペディション"
+        },
+        {
+          "en": "Once they complete the survey, they will have concluded the most extensive analysis ever conducted here.",
+          "ja": "調査が完了したら、彼らはここで行われた最も広範な分析を完了しているでしょう。",
+          "ipa": "/wʌns ðeɪ kəmˈplit ðə ˈsɝːveɪ | ðeɪ wəl həv kənˈkluːdəd ðə ˈmoʊst ɪkˈstɛnsɪv əˈnæləsɪs ˈɛvər kənˈdʌktəd hɪr/",
+          "linking": [
+            "will have → will は弱形 /wəl/、have も弱形 /həv/",
+            "concluded the → 語末子音 /d/ + the の初頭子音 /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the most → the は弱形 /ðə/"
+          ],
+          "kana": "ワンス ゼイ コンプリート ザ サーヴェイ、ゼイ ウィル ハヴ コンクルーディッド ザ モースト イクステンシヴ アナリシス エヴァー コンダクティッド ヒア"
+        }
+      ]
     }
   ]
 }
