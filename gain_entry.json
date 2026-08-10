@@ -282,7 +282,7 @@
             "when the → the は弱形 /ðə/",
             "creeper suddenly → 語末子音 /r/ が suddenly の初頭子音 /s/ に続く（consonant+consonant）"
           ],
-          "kana": "アイ ワズ ゲイニング レソーシズ ウェン ザ クリーパー サドゥンリー イクスプロウディド"
+          "kana": "アイ ワズ ゲイニング レソーシズ ウェン ザ クリーパー スデンリー イクスプロウディド"
         },
         {
           "en": "They were gaining control of the fortress when ghasts attacked from above.",
@@ -431,6 +431,129 @@
             "exploring the → 語末音 /ŋ/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/"
           ],
           "kana": "アイ ハヴ ビン ゲイニング カンフィデンス ワイル イクスプロアリング ザ エンド ディメンション セイフリー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will gain",
+      "ipa": "/wɪl ɡeɪn/",
+      "examples": [
+        {
+          "en": "If you mine diamonds, you will gain valuable resources for crafting.",
+          "ja": "ダイヤモンドを採掘すれば、クラフト用に貴重なリソースを得るでしょう。",
+          "ipa": "/ɪf ju maɪn ˈdaɪmənz | ju wɪl ɡeɪn ˈvæljuəbəl ˈɹɛsɔɹsɪz fɚ ˈkɹæftɪŋ/",
+          "linking": [
+            "you will → /u/ (母音) + /w/（子音） でも連結（連音節）",
+            "will gain → 語末子音 /l/ が gain の初頭子音 /ɡ/ に続く（consonant+consonant）",
+            "gain valuable → 語末子音 /n/ が valuable の初頭子音 /v/ に続く（consonant+consonant）",
+            "valuable resources → 語末子音 /l/ が resources の初頭子音 /ɹ/ に続く（consonant+consonant）",
+            "for は弱形 /fɚ/"
+          ],
+          "kana": "イフ ユー マイン ダイモンズ、ユー ウィル ゲイン ヴァリュアブル レソーシーズ ファー クラフティング"
+        },
+        {
+          "en": "Every player will gain valuable experience by defeating the Enderman.",
+          "ja": "すべてのプレイヤーはエンダーマンを倒して経験値を得るでしょう。",
+          "ipa": "/ˈɛvɹi ˈpleɪɚ wɪl ɡeɪn ˈvæljuəbəl ɪkˈspɪɹiəns baɪ dɪˈfitɪŋ ðə ˈɛndɚmæn/",
+          "linking": [
+            "player will → 語末子音 /r/ が will の初頭子音 /w/ に続く（consonant+consonant）",
+            "will gain → consonant+consonant、連結なし",
+            "gain valuable → consonant+consonant、連結なし",
+            "valuable experience → 語末子音 /l/ が experience の初頭母音 /ɪ/ に連結 [ˈvæljuəbəl ɪkˈspɪɹiəns] ヴァリュアブル イクスピアリアンス",
+            "the は弱形 /ðə/",
+            "defeating the → 語末音 /ŋ/ が the の初頭子音 /ð/ に続く（consonant+consonant）"
+          ],
+          "kana": "エブリー プレイヤー ウィル ゲイン ヴァリュアブル イクスピアリアンス バイ ディフィーティング ザ エンダーマン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be gaining",
+      "ipa": "/wɪl bi ˈɡeɪnɪŋ/",
+      "examples": [
+        {
+          "en": "While you're exploring the cave, you will be gaining more resources with every step.",
+          "ja": "洞窟を探索している間、あなたは毎ステップでより多くのリソースを獲得し続けるでしょう。",
+          "ipa": "/waɪl jɔɹ ɪkˈsploːɹɪŋ ðə keɪv | ju wɪl bi ˈɡeɪnɪŋ moːɹ ˈɹɛsɔɹsɪz wɪð ˈɛvɹi ˈstɛp/",
+          "linking": [
+            "While you're → 縮約形 you are の you're /jɔɹ/",
+            "you're exploring → 語末子音 /r/ が exploring の初頭母音 /ɪ/ に連結 [jɔɹ ɪkˈsploːɹɪŋ] ユアー イクスプロアリング",
+            "exploring the → 語末音 /ŋ/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/",
+            "will be gaining → will /wɪl/, be は弱形 /bi/ または /bə/、gaining は /ˈɡeɪnɪŋ/",
+            "be gaining → /i/ (母音) + /ɡ/（子音）= vowel+consonant",
+            "gaining more → 語末音 /ŋ/ が more の初頭子音 /m/ に続く（consonant+consonant）",
+            "more resources → 語末子音 /r/ が resources の初頭子音 /ɹ/ に続く（consonant+consonant）",
+            "with は弱形 /wɪð/"
+          ],
+          "kana": "ホワイル ユアー イクスプロアリング ザ ケイヴ、ユー ウィル ビー ゲイニング モア レソーシーズ ウィズ エブリー ステップ"
+        },
+        {
+          "en": "The team will be gaining momentum as they build the fortress walls.",
+          "ja": "チームが要塞の壁を建築するにつれて、勢いを増していくでしょう。",
+          "ipa": "/ðə ˈtim wɪl bi ˈɡeɪnɪŋ ˈmoʊməntəm æz ðeɪ bɪld ðə ˈfɔɹtɹəs wɔːlz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "team will → 語末子音 /m/ が will の初頭子音 /w/ に続く（consonant+consonant）",
+            "will be → consonant+consonant",
+            "be gaining → vowel+consonant",
+            "gaining momentum → 語末音 /ŋ/ が momentum の初頭子音 /m/ に続く（consonant+consonant）",
+            "as は弱形 /æz/",
+            "as they → 語末子音 /z/ が they の初頭子音 /ð/ に続く（consonant+consonant）",
+            "they build → 母音+consonant",
+            "build the → 語末子音 /d/ が the の初頭子音 /ð/ に続く（consonant+consonant）。the は弱形 /ðə/",
+            "fortress walls → 語末子音 /s/ が walls の初頭子音 /w/ に続く（consonant+consonant）"
+          ],
+          "kana": "ザ ティーム ウィル ビー ゲイニング モーメンタム アズ ザイ ビルド ザ フォーティス ウォールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have gained",
+      "ipa": "/wɪl əv ˈɡeɪnd/",
+      "examples": [
+        {
+          "en": "By the time you reach level 30, you will have gained enough experience to enchant your tools.",
+          "ja": "レベル30に達するまでに、ツールをエンチャントするのに十分な経験値を獲得しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ɹitʃ ˈlɛvəl ˈθɝti | ju wɪl əv ˈɡeɪnd ɪˈnʌf ɪkˈspɪɹiəns tu ɪnˈtʃænt jɔɹ ˈtulz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "time you → 語末子音 /m/ が you の初頭子音 /j/ に続く（consonant+consonant）",
+            "reach level → 語末音 /tʃ/ が level の初頭子音 /l/ に続く（consonant+consonant）",
+            "you will → 母音+consonant",
+            "will have → 語末子音 /l/ が have の弱形 /əv/ の初頭母音に連結 [wɪl əv] ウィル ハヴ",
+            "have は弱形 /əv/",
+            "have gained → /v/ + /ɡ/（consonant+consonant）",
+            "gained enough → 語末子音 /d/ が enough の初頭母音 /ɪ/ に連結 [ˈɡeɪnd ɪˈnʌf] ゲインド イナフ",
+            "to は弱形 /tu/",
+            "enchant your → 語末子音 /t/ が your の初頭子音 /j/ に続く（consonant+consonant）。your は弱形 /jɔɹ/"
+          ],
+          "kana": "バイ ザ タイム ユー リーチ レベル サーティ、ユー ウィル ハヴ ゲインド イナフ イクスピアリアンス トゥ インチャント ユアー ツールズ"
+        },
+        {
+          "en": "After mining for three hours, the player will have gained a substantial fortune in resources.",
+          "ja": "3時間採掘した後、プレイヤーはリソースに相当な財宝を獲得しているでしょう。",
+          "ipa": "/ˈæftɚ ˈmaɪnɪŋ fɚ θɹi ˈaʊɹz | ðə ˈpleɪɚ wɪl əv ˈɡeɪnd ə səbˈstænʃəl ˈfɔɹtʃən ɪn ˈɹɛsɔɹsɪz/",
+          "linking": [
+            "mining for → 語末音 /ŋ/ が for の初頭子音 /f/ に続く（consonant+consonant）。for は弱形 /fɚ/",
+            "for three → consonant+consonant ではなく /ɚ/ (母音的) + /θ/",
+            "three hours → /i/ (母音) + /ˈaʊɹz/（子音で始まる）= vowel+consonant",
+            "the は弱形 /ðə/",
+            "player will → 語末子音 /r/ が will の初頭子音 /w/ に続く（consonant+consonant）",
+            "will have → 語末子音 /l/ が have の弱形 /əv/ の初頭母音に連結",
+            "have gained → consonant+consonant",
+            "gained a → 語末子音 /d/ が a の弱形 /ə/ に連結 [ˈɡeɪnd ə] ゲインド ア",
+            "a substantial → 母音+consonant",
+            "substantial fortune → 語末子音 /l/ が fortune の初頭子音 /f/ に続く（consonant+consonant）",
+            "fortune in → 語末子音 /n/ が in の初頭母音 /ɪ/ に連結 [ˈfɔɹtʃən ɪn] フォーチュン イン",
+            "in resources → consonant+consonant"
+          ],
+          "kana": "アフター マイニング ファー スリー アワーズ、ザ プレイヤー ウィル ハヴ ゲインド ア サブスタンシャル フォーチュン イン レソーシーズ"
         }
       ]
     }
