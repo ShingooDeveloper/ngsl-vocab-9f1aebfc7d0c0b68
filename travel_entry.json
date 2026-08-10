@@ -300,6 +300,202 @@
           "kana": "アイ ハド ビン トラベリング スルー ザ ケイヴ システム フォー アワーズ ビフォア ザ トーチズ ラン アウト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has traveled",
+      "ipa": "/həz ˈtrævəld/",
+      "examples": [
+        {
+          "en": "I have traveled to the End and the Nether already.",
+          "ja": "私は既にエンドとネザーに移動した。",
+          "ipa": "/aɪ həv ˈtrævəld tu ðə ˈɛnd ænd ðə ˈnɛðər ɔlˈrɛdi/",
+          "linking": [
+            "have は弱形 /həv/。traveled の /t/（子音）に続く（子音+子音）",
+            "traveled の語末 /d/ が to の弱形 /tə/（子音）に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "and の語末 /d/ が the の弱形 /ðə/（子音）に続く（子音+子音）"
+          ],
+          "kana": "アイ ハヴ トラベルド タ ザ エンド アンド ザ ネザー オールレディ"
+        },
+        {
+          "en": "We have traveled over fifty thousand blocks to reach the fortress.",
+          "ja": "私たちは要塞に到達するために5万ブロック以上移動した。",
+          "ipa": "/wi həv ˈtrævəld ˈoʊvər ˈfɪfti ˈθaʊzənd ˈblɑks tu ˈriʃ ðə ˈfɔrtəs/",
+          "linking": [
+            "have は弱形 /həv/。traveled の /t/（子音）に続く（子音+子音）",
+            "traveled の語末 /d/ が over の /ə/（母音）に連結 [ˈtrævəld ˈoʊvər] トラベルド オーヴァー",
+            "to は弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハヴ トラベルド オーヴァー フィフティ サウザンド ブロックス タ リーチ ザ フォーテス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had traveled",
+      "ipa": "/əd ˈtrævəld/",
+      "examples": [
+        {
+          "en": "After three days of mining, they had traveled deeper than any player before.",
+          "ja": "3日間の採掘の後、彼らは以前のプレイヤーより深くまで移動していた。",
+          "ipa": "/ˈæftər ˈθri ˈdeɪz əv ˈmaɪnɪŋ ðeɪ əd ˈtrævəld ˈdipər ðæn ˈɛni ˈpleɪər bɪˈfɔr/",
+          "linking": [
+            "mining の語末 /ŋ/ が they の /ð/（子音）に続く（鼻音+子音）",
+            "had は弱形 /əd/。traveled の /t/（子音）に続く（子音+子音）、/d/ は未開放 [əd̚ ˈtrævəld]",
+            "traveled の語末 /d/ が deeper の /d/（子音）に続く（子音+子音）、/d/ は未開放 [ˈtrævəld̚ ˈdipər]",
+            "deeper の語末 /r/ が than に続く（子音+子音）"
+          ],
+          "kana": "アフター スリー デイズ アヴ マイニング ゼイ ハド トラベルド ディーパー ザン エニー プレイヤー ビフォア"
+        },
+        {
+          "en": "He had traveled through all the dangerous biomes before discovering the stronghold.",
+          "ja": "彼は要塞を見つける前にすべての危険なバイオームを移動していた。",
+          "ipa": "/hi əd ˈtrævəld θɹu ɔl ðə ˈdeɪndʒərəs ˈbaɪoʊmz bɪˈfɔr dɪsˈkʌvərɪŋ ðə ˈstroʊŋhoʊld/",
+          "linking": [
+            "had は弱形 /əd/。traveled の /t/（子音）に続く（子音+子音）、/d/ は未開放 [əd̚ ˈtrævəld]",
+            "traveled の語末 /d/ が through の /θ/（子音）に続く（子音+子音）",
+            "all の語末 /l/ が the の弱形 /ðə/（子音）に続く（子音+子音）",
+            "discovering の語末 /ŋ/ が the の弱形 /ðə/（子音）に続く（鼻音+子音）"
+          ],
+          "kana": "ヒー ハド トラベルド スルー オール ザ デンジャラス バイオームズ ビフォア ディスカヴァリング ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been traveling",
+      "ipa": "/həz bɪn ˈtrævəlɪŋ/",
+      "examples": [
+        {
+          "en": "The player has been traveling since the morning to find the village.",
+          "ja": "プレイヤーは朝から村を見つけるために移動し続けている。",
+          "ipa": "/ðə ˈpleɪər həz bɪn ˈtrævəlɪŋ sɪns ðə ˈmɔrnɪŋ tu ˈfaɪnd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "has は弱形 /həz/。been は弱形 /bɪn/（ビン）に続く（子音+子音）",
+            "been は弱形 /bɪn/、traveling の /t/（子音）に続く（子音+子音）",
+            "traveling の語末 /ŋ/ が since の /s/（子音）に続く（鼻音+子音）",
+            "morning の語末 /ŋ/ が to の弱形 /tə/（母音）に続く（鼻音+母音）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ プレイヤー ハズ ビン トラベリング シンス ザ モーニング タ ファインド ザ ヴィリッジ"
+        },
+        {
+          "en": "We have been traveling across the desert and collecting sand the whole day.",
+          "ja": "私たちは一日中砂漠を移動して砂を集めてきた。",
+          "ipa": "/wi həv bɪn ˈtrævəlɪŋ əˈkrɔs ðə ˈdɛzərt ənd kəˈlɛktɪŋ ˈsænd ðə ˈhoʊl ˈdeɪ/",
+          "linking": [
+            "have は弱形 /həv/。been は弱形 /bɪn/（ビン）に続く（子音+子音）",
+            "been は弱形 /bɪn/、traveling の /t/（子音）に続く（子音+子音）",
+            "traveling の語末 /ŋ/ が across の /ə/（母音）に続く（鼻音+母音）",
+            "across の語末 /s/ が the の弱形 /ðə/（子音）に続く（子音+子音）、/s/ は未開放",
+            "collecting の語末 /ŋ/ が sand の /s/（子音）に続く（鼻音+子音）",
+            "sand の語末 /d/ が the の弱形 /ðə/（子音）に続く（子音+子音）、/d/ は未開放"
+          ],
+          "kana": "ウィ ハヴ ビン トラベリング アクロス ザ デザート アンド コレクティング サンド ザ ホウル デイ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will travel",
+      "ipa": "/wɪl ˈtrævəl/",
+      "examples": [
+        {
+          "en": "I'll travel to the Nether tomorrow to find ancient debris.",
+          "ja": "私は明日、古い遺物を見つけるためにネザーに移動する。",
+          "ipa": "/aɪl ˈtrævəl tu ðə ˈnɛðər təˈmɑroʊ tu faɪnd ˈeɪn.ʃənt dəˈbrɪs/",
+          "linking": [
+            "I'll は /aɪl/ 縮約形（will に相当）",
+            "travel の語末 /l/ が to の弱形 /tə/（母音）に連結 [ˈtrævəl tə] トラベル タ",
+            "Nether の語末 /r/ が tomorrow の弱形 /təˈmɑroʊ/ に連結 [ˈnɛðər təˈmɑroʊ] ネザー タモロー",
+            "to は弱形 /tə/ ター"
+          ],
+          "kana": "アイル トラベル タ ザ ネザー タモロー タ ファインド エインシェント デブリス"
+        },
+        {
+          "en": "They'll travel across the ocean to search for a jungle biome.",
+          "ja": "彼らは海を横断してジャングルバイオームを探すために移動する。",
+          "ipa": "/ðeɪl ˈtrævəl əˈkrɔs ðə ˈoʊʃən tu sɚtʃ fɔr ə ˈdʒʌŋɡəl ˈbaɪoʊm/",
+          "linking": [
+            "They'll は /ðeɪl/ 縮約形（will に相当）",
+            "travel の語末 /l/ が across の /ə/（母音）に連結 [ˈtrævəl əˈkrɔs] トラベル アクロス",
+            "across の語末 /s/ が the の弱形 /ðə/（子音）に続く（子音+子音）、/s/ は未開放 [əˈkrɔs̚ ðə] アクロス ザ",
+            "to は弱形 /tə/ ター。for は弱形 /fər/ ファー。a は弱形 /ə/ ア"
+          ],
+          "kana": "ゼイル トラベル アクロス ザ オウシャン タ サーチ フォア ア ジャングル バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be traveling",
+      "ipa": "/wɪl bi ˈtrævəlɪŋ/",
+      "examples": [
+        {
+          "en": "You'll be traveling through the cave system when the sun sets.",
+          "ja": "太陽が沈む時、あなたは洞窟システムを移動中だろう。",
+          "ipa": "/juːl bi ˈtrævəlɪŋ θɹu ðə ˈkeɪv ˈsɪstəm wɛn ðə ˈsʌn ˈsɛts/",
+          "linking": [
+            "You'll は /juːl/ 縮約形（will に相当）",
+            "be は /bi/、traveling の /t/（子音）に続く（子音+子音）[bi ˈtrævəlɪŋ] ビー トラベリング",
+            "traveling の語末 /ŋ/ が through の /θ/（子音）に続く（鼻音+子音）",
+            "the は弱形 /ðə/ ザ。when は /wɛn/、次の the の弱形 /ðə/（子音）に続く（子音+子音）"
+          ],
+          "kana": "ユール ビー トラベリング スルー ザ ケイヴ システム ウェン ザ サン セッツ"
+        },
+        {
+          "en": "We will be traveling south along the highway we built.",
+          "ja": "私たちは私たちが建設した高速道路に沿って南に移動中だろう。",
+          "ipa": "/wi wɪl bi ˈtrævəlɪŋ ˈsaʊθ əˈlɔŋ ðə ˈhaɪweɪ wi bɪlt/",
+          "linking": [
+            "will は弱形傾向 /wəl/ ウル、be の /b/（子音）に続く（子音+子音）",
+            "be は /bi/、traveling の /t/（子音）に続く（子音+子音）",
+            "traveling の語末 /ŋ/ が south の /s/（子音）に続く（鼻音+子音）",
+            "along の語末 /ŋ/ が the の弱形 /ðə/（子音）に続く（鼻音+子音）。built の語末 /t/ が we の /w/（子音）に続く（子音+子音）、/t/ は未開放 [bɪlt̚ wi] ビルッ ウィ"
+          ],
+          "kana": "ウィ ウィル ビー トラベリング サウス アロング ザ ハイウェイ ウィ ビルト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have traveled",
+      "ipa": "/wɪl həv ˈtrævəld/",
+      "examples": [
+        {
+          "en": "By next week, I will have traveled fifty thousand blocks.",
+          "ja": "来週までに、私は5万ブロック移動しているだろう。",
+          "ipa": "/baɪ ˈnɛkst ˈwik aɪ wɪl həv ˈtrævəld ˈfɪfti ˈθaʊzənd ˈblɑks/",
+          "linking": [
+            "week の語末 /k/ が I の /aɪ/（母音）に連結 [ˈnɛkst ˈwik aɪ] ネクスト ウィック アイ",
+            "will は弱形傾向 /wəl/ ウル。have は弱形 /həv/（ハヴ）に続く（子音+子音）",
+            "have の語末 /v/ が traveled の /t/（子音）に続く（子音+子音）",
+            "traveled の語末 /d/ が fifty の /f/（子音）に続く（子音+子音）、/d/ は未開放 [ˈtrævəld̚ ˈfɪfti] トラベルド フィフティ"
+          ],
+          "kana": "バイ ネクスト ウィーク アイ ウィル ハヴ トラベルド フィフティ サウザンド ブロックス"
+        },
+        {
+          "en": "She will have traveled to every biome by the time we finish this world.",
+          "ja": "私たちがこの世界を終える時までに、彼女はすべてのバイオームに移動しているだろう。",
+          "ipa": "/ʃi wɪl həv ˈtrævəld tu ˈɛvəri ˈbaɪoʊm baɪ ðə ˈtaɪm wi ˈfɪnɪʃ ðɪs ˈwɚld/",
+          "linking": [
+            "She は /ʃi/、will が /wɪl/ に続く（子音+子音）",
+            "will は弱形傾向 /wəl/ ウル。have は弱形 /həv/（ハヴ）に続く（子音+子音）",
+            "have の語末 /v/ が traveled の /t/（子音）に続く（子音+子音）",
+            "traveled の語末 /d/ が to の弱形 /tə/（子音）に続く（子音+子音）、/d/ は未開放 [ˈtrævəld̚ tə] トラベルド ター",
+            "time の語末 /m/ が we の /w/（子音）に続く（子音+子音）。finish の語末 /ʃ/ が this の /ð/（子音）に続く（子音+子音）"
+          ],
+          "kana": "シー ウィル ハヴ トラベルド タ エブリ バイオーム バイ ザ タイム ウィ フィニッシュ ジス ワールド"
+        }
+      ]
     }
   ]
 }
