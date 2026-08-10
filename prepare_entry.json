@@ -355,6 +355,210 @@
           "kana": "ウィ ハド ビン プリペアリング ザ ベイス ファー アワーズ ウェン ウィ リアライズド ウィ ファーガット ザ トーチーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has prepared",
+      "ipa": "/həz prɪˈpɛrd/",
+      "examples": [
+        {
+          "en": "She has prepared all the materials for the castle construction.",
+          "ja": "彼女は城の建設のために全ての材料を準備しました。",
+          "ipa": "/ʃi həz prɪˈpɛrd ɔl ðə məˈtɪriəlz fɚ ðə ˈkæsəl kənˈstrʌkʃən/",
+          "linking": [
+            "prepared の末尾 d が all に連結 [prɪˈpɛrd ɔl] プリペアード オール。",
+            "the は弱形で [ðə]。"
+          ],
+          "kana": "シー ハズ プリペアード オール ザ マテリアルズ ファー ザ キャッスル コンストラクション"
+        },
+        {
+          "en": "We have prepared our gear and supplies for the dangerous journey.",
+          "ja": "私たちは危険な旅のために道具と物資を準備しました。",
+          "ipa": "/wi həv prɪˈpɛrd aʊər ɡɪr ənd səˈplaɪz fɚ ðə ˈdeɪndʒərəs ˈdʒɚni/",
+          "linking": [
+            "prepared の末尾 d が our に連結 [prɪˈpɛrd aʊər] プリペアード アワー。",
+            "and は弱形で [ənd]。"
+          ],
+          "kana": "ウィ ハヴ プリペアード アワー ギア アン サプライズ ファー ザ デインジャラス ジャーニー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had prepared",
+      "ipa": "/həd prɪˈpɛrd/",
+      "examples": [
+        {
+          "en": "They had prepared the mob grinder before the night came.",
+          "ja": "夜が来る前に、彼らはモブトラップを準備していました。",
+          "ipa": "/ðeɪ həd prɪˈpɛrd ðə ˈmɑb ˈɡraɪndər bɪˈfɔr ðə ˈnaɪt ˈkeɪm/",
+          "linking": [
+            "They は [ðeɪ]。had に続く。",
+            "had は弱形で [həd]。prepared に続く。",
+            "prepared の末尾 d が the に連結 [prɪˈpɛrd ðə] プリペアード ザ。",
+            "the は弱形で [ðə]。mob に続く。",
+            "grinder は [ˈɡraɪndər]。before に続く。",
+            "before の r が the に連結 [bɪˈfɔr ðə] ビフォー ザ。",
+            "the は弱形で [ðə]。night に続く。"
+          ],
+          "kana": "ザイ ハド プリペアード ザ モブ グラインダー ビフォー ザ ナイト ケイム"
+        },
+        {
+          "en": "He had prepared enough food for the long journey through the Nether.",
+          "ja": "彼はネザーを通る長い旅のために十分な食料を準備していました。",
+          "ipa": "/hi həd prɪˈpɛrd ɪˈnʌf ˈfuːd fɚ ðə ˈlɔŋ ˈdʒɚni θru ðə ˈnɛðər/",
+          "linking": [
+            "prepared の末尾 d が enough に連結 [prɪˈpɛrd ɪˈnʌf] プリペアード イナフ。",
+            "for は弱形で [fɚ]。",
+            "the は弱形で [ðə]。"
+          ],
+          "kana": "ヒー ハド プリペアード イナフ フード ファー ザ ロング ジャーニー スルー ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been preparing",
+      "ipa": "/həz bɪn prɪˈpɛrɪŋ/",
+      "examples": [
+        {
+          "en": "We have been preparing this base for several weeks.",
+          "ja": "私たちはこの基地を数週間準備し続けています。",
+          "ipa": "/wi həv bɪn prɪˈpɛrɪŋ ðɪs ˈbeɪs fɚ ˈsɛvərəl ˈwiks/",
+          "linking": [
+            "been は弱形で [bɪn]。",
+            "for は弱形で [fɚ]。"
+          ],
+          "kana": "ウィ ハヴ ビン プリペアリング ディス ベイス ファー セヴラル ウィークス"
+        },
+        {
+          "en": "I have been preparing materials since this morning for the mining trip.",
+          "ja": "私は今朝からマイニング旅行のために材料を準備し続けています。",
+          "ipa": "/aɪ həv bɪn prɪˈpɛrɪŋ məˈtɪriəlz sɪns ðɪs ˈmɔrnɪŋ fɚ ðə ˈmaɪnɪŋ ˈtrɪp/",
+          "linking": [
+            "been は弱形で [bɪn]。",
+            "for は弱形で [fɚ]。",
+            "the は弱形で [ðə]。"
+          ],
+          "kana": "アイ ハヴ ビン プリペアリング マテリアルズ シンス ディス モーニング ファー ザ マイニング トリップ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will prepare",
+      "ipa": "/wɪl prɪˈpɛr/",
+      "examples": [
+        {
+          "en": "I will prepare the mining equipment before we start the expedition.",
+          "ja": "遠征を始める前に、私はマイニング機器を準備します。",
+          "ipa": "/aɪ wɪl prɪˈpɛr ðə ˈmaɪnɪŋ ɪˈkwɪpmənts bɪˈfɔr wi ˈstɑrt ðə ɛkˌspɪˈdeɪʃən/",
+          "linking": [
+            "will は弱形で [wɪl]。prepare に続く。",
+            "prepare の末尾 r が the に連結 [prɪˈpɛr ðə] プリペアー ザ。",
+            "the は弱形で [ðə]。mining に続く。",
+            "equipment は [ɪˈkwɪpmənts]。before に続く。",
+            "before の r が we に連結 [bɪˈfɔr wi] ビフォー ウィ。",
+            "start の末尾 t が the に未開放で続く [ˈstɑrt ðə] スターッ ザ。"
+          ],
+          "kana": "アイ ウィル プリペアー ザ マイニング イクイップメンツ ビフォー ウィ スターッ ザ エクスペディション"
+        },
+        {
+          "en": "They will prepare all the supplies for tomorrow's construction project.",
+          "ja": "彼らは明日の建設プロジェクトのためにすべての物資を準備するでしょう。",
+          "ipa": "/ðeɪ wɪl prɪˈpɛr ɔl ðə səˈplaɪz fɚ təˈmɑroʊz kənˈstrʌkʃən ˈprɑdʒɛkt/",
+          "linking": [
+            "will は弱形で [wɪl]。prepare に続く。",
+            "prepare の末尾 r が all に連結 [prɪˈpɛr ɔl] プリペアー オール。",
+            "all の末尾 l が the に連結 [ɔl ðə] オール ザ。",
+            "the は弱形で [ðə]。supplies に続く。",
+            "for は弱形で [fɚ]。tomorrow's に続く。"
+          ],
+          "kana": "ザイ ウィル プリペアー オール ザ サプライズ ファー トゥモロウズ コンストラクション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be preparing",
+      "ipa": "/wɪl bi prɪˈpɛrɪŋ/",
+      "examples": [
+        {
+          "en": "We will be preparing potions while you're gathering resources.",
+          "ja": "あなたがリソースを集めている間に、私たちはポーションを準備しているでしょう。",
+          "ipa": "/wi wɪl bi prɪˈpɛrɪŋ poʊˈʃənz waɪl ˈjʊr ˈɡæðərɪŋ ˈrɛsɚsɪz/",
+          "linking": [
+            "will は弱形で [wɪl]。be に続く。",
+            "be は弱形で [bi]。preparing に続く。",
+            "preparing の末尾 ng に potions が続く。",
+            "while は [waɪl]。you're に続く。",
+            "you're は縮約形で [jɚ]。gathering に続く。",
+            "gathering の末尾 ng に resources が続く。"
+          ],
+          "kana": "ウィ ウィル ビ プリペアリング ポーションズ ワイル ユアー ガザリング レソーシーズ"
+        },
+        {
+          "en": "He will be preparing the arena during the next hour while others rest.",
+          "ja": "次の1時間、他人が休んでいる間に、彼はアリーナを準備しているでしょう。",
+          "ipa": "/hi wɪl bi prɪˈpɛrɪŋ ðə əˈriːnə ˈdʊrɪŋ ðə ˈnɛkst ˈaʊər waɪl ˈʌðərz ˈrɛst/",
+          "linking": [
+            "will は弱形で [wɪl]。be に続く。",
+            "be は弱形で [bi]。preparing に続く。",
+            "preparing の末尾 ng に the が続く。",
+            "the は弱形で [ðə]。arena に続く。",
+            "during は [ˈdʊrɪŋ]。the に続く。",
+            "the は弱形で [ðə]。next に続く。",
+            "while は [waɪl]。others に続く。",
+            "rest の末尾 t は未開放。"
+          ],
+          "kana": "ヒー ウィル ビ プリペアリング ザ アリーナ ジューリング ザ ネクスト アワー ワイル アザーズ レッ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have prepared",
+      "ipa": "/wɪl həv prɪˈpɛrd/",
+      "examples": [
+        {
+          "en": "By sunset, I will have prepared all the tools for tomorrow's mining.",
+          "ja": "日没までに、私は明日のマイニングのためにすべての道具を準備しているでしょう。",
+          "ipa": "/baɪ ˈsʌnˌsɛt | aɪ wɪl həv prɪˈpɛrd ɔl ðə ˈtulz fɚ təˈmɑroʊz ˈmaɪnɪŋ/",
+          "linking": [
+            "By は [baɪ]。sunset に続く。",
+            "will は弱形で [wɪl]。have に続く。",
+            "have は弱形で [həv]。prepared に続く。",
+            "prepared の末尾 d が all に連結 [prɪˈpɛrd ɔl] プリペアード オール。",
+            "all の末尾 l が the に連結 [ɔl ðə] オール ザ。",
+            "the は弱形で [ðə]。tools に続く。",
+            "for は弱形で [fɚ]。"
+          ],
+          "kana": "バイ サンセット、アイ ウィル ハヴ プリペアード オール ザ トゥールズ ファー トゥモロウズ マイニング"
+        },
+        {
+          "en": "They will have prepared the defenses before the raiders arrive in the evening.",
+          "ja": "レイダーが夕方に到着する前に、彼らは防御を準備しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv prɪˈpɛrd ðə dɪˈfɛnsɪz bɪˈfɔr ðə ˈreɪdərz əˈraɪv ɪn ðə ˈiːvnɪŋ/",
+          "linking": [
+            "will は弱形で [wɪl]。have に続く。",
+            "have は弱形で [həv]。prepared に続く。",
+            "prepared の末尾 d が the に連結 [prɪˈpɛrd ðə] プリペアード ザ。",
+            "the は弱形で [ðə]。defenses に続く。",
+            "before の r が the に連結 [bɪˈfɔr ðə] ビフォー ザ。",
+            "the は弱形で [ðə]。raiders に続く。",
+            "arrive は [əˈraɪv]。in に続く。",
+            "in は弱形で [ɪn]。the に続く。",
+            "the は弱形で [ðə]。evening に続く。"
+          ],
+          "kana": "ザイ ウィル ハヴ プリペアード ザ ディフェンシーズ ビフォー ザ レイダーズ アライヴ イン ザ イーヴニング"
+        }
+      ]
     }
   ]
 }
