@@ -144,6 +144,201 @@
           "kana": "ゼイ ハド ビン スピーキング アバウラン アップカミング ア ベンチャー ファー ウィークス"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has spoken",
+      "ipa": "/həz ˈspoʊkən/",
+      "examples": [
+        {
+          "en": "They have spoken to the village elder about trading.",
+          "ja": "彼らは村の長老と交易について話したことがある。",
+          "ipa": "[ðeɪ həv ˈspoʊkən tə ðə ˈvɪlɪdʒ ˈɛldər əˈbaʊt ˈtreɪdɪŋ]",
+          "linking": [
+            "have は機能語で弱形 /həv/ に弱化",
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は機能語で弱形 /ðə/ に弱化",
+            "elder の末尾の /r/ が about の初頭母音 /ə/ に連結。結果は [ˈɛldər ə]"
+          ],
+          "kana": "ゼイ ハヴ スポウクン タ ザ ヴィリッジ エルダー アバウト トレイディング"
+        },
+        {
+          "en": "She has spoken with her teammates for years in this server.",
+          "ja": "彼女はこのサーバーでチームメイトたちと長年話している。",
+          "ipa": "[ʃi həz ˈspoʊkən wɪð ər ˈtimmeɪts fər jɪrz ɪn ðɪs ˈsɚvər]",
+          "linking": [
+            "has は機能語で弱形 /həz/ に弱化",
+            "her は機能語で弱形 /ər/ に弱化",
+            "for は機能語で弱形 /fər/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ],
+          "kana": "シー ハズ スポウクン ウィズ ハー ティームメイツ ファー イヤーズ イン ディス サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had spoken",
+      "ipa": "/hæd ˈspoʊkən/",
+      "examples": [
+        {
+          "en": "Before the base was built, they had spoken about the design for weeks.",
+          "ja": "ベースが建築される前に、彼らはデザインについて何週間も話していた。",
+          "ipa": "[bɪˈfɔr ðə ˈbeɪs wəz bɪlt ðeɪ həd ˈspoʊkən əˈbaʊt ðə dɪˈzaɪn fər wɪks]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化（最初）",
+            "was は機能語で弱形 /wəz/ に弱化",
+            "had は機能語で弱形 /həd/ に弱化",
+            "the は機能語で弱形 /ðə/ に弱化（デザインの前）",
+            "for は機能語で弱形 /fər/ に弱化"
+          ],
+          "kana": "ビフォー ザ ベイス ワズ ビルト ゼイ ハド スポウクン アバウト ザ デザイン ファー ウィークス"
+        },
+        {
+          "en": "After he had spoken with the admin, the rules changed.",
+          "ja": "管理者と話した後に、ルールが変わった。",
+          "ipa": "[ˈæftər i həd ˈspoʊkən wɪð ðə ˈædmɪn ðə rulz tʃeɪndʒd]",
+          "linking": [
+            "After の末尾の /r/ が he の初頭母音 /i/ に連結。結果は [ˈæftər i]",
+            "he は弱形化して /i/ となる場合がある",
+            "had は機能語で弱形 /həd/ に弱化",
+            "the は機能語で弱形 /ðə/ に弱化（admin の前）",
+            "the は機能語で弱形 /ðə/ に弱化（rules の前）"
+          ],
+          "kana": "アフター イ ハド スポウクン ウィズ ザ アドミン ザ ルーズ チェンジド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been speaking",
+      "ipa": "/həz bɪn ˈspiːkɪŋ/",
+      "examples": [
+        {
+          "en": "We have been speaking about building a new village all week.",
+          "ja": "私たちは新しい村を建設することについて、ずっと話し合っている。",
+          "ipa": "[wi həv bɪn ˈspiːkɪŋ əˈbaʊt ˈbɪldɪŋ ə ˈnjuː ˈvɪlɪdʒ ɔl wik]",
+          "linking": [
+            "have は機能語で弱形 /həv/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "speaking の末尾子音 /ŋ/ が about の初頭母音 /ə/ に連結。結果は [ˈspiːkɪŋ ə]",
+            "building の末尾子音 /ŋ/ が a の初頭母音 /ə/ に連結。結果は [ˈbɪldɪŋ ə]",
+            "a は冠詞で弱形 /ə/ に弱化"
+          ],
+          "kana": "ウィ ハヴ ビン スピーキング アバウト ビルディング ア ニュー ヴィリッジ オール ウィーク"
+        },
+        {
+          "en": "He has been speaking with his friends about finding diamonds since yesterday.",
+          "ja": "彼はダイヤを探すことについて、昨日からずっと友人たちと話している。",
+          "ipa": "[hi həz bɪn ˈspiːkɪŋ wɪð hɪz frɛndz əˈbaʊt ˈfaɪndɪŋ ˈdaɪmənz sɪns ˈjɛstɚdeɪ]",
+          "linking": [
+            "has は機能語で弱形 /həz/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "friends の末尾子音 /z/ が about の初頭母音 /ə/ に連結。結果は [frɛndz ə]"
+          ],
+          "kana": "ヒー ハズ ビン スピーキング ウィズ ヒズ フレンズ アバウト ファインディング ダイモンズ シンス イェスターデイ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will speak",
+      "ipa": "/wɪl spik/",
+      "examples": [
+        {
+          "en": "I'll speak with the villager about trading.",
+          "ja": "村人と交易について話します。",
+          "ipa": "[aɪl ˈspiːk wɪð ðə ˈvɪlɪdʒər əˈbaʊt ˈtreɪdɪŋ]",
+          "linking": [
+            "will は I と縮約して I'll /aɪl/ となる",
+            "the は機能語で弱形 /ðə/ に弱化",
+            "villager の末尾子音 /ɚ/ が about の初頭母音 /ə/ に連結。結果は [ˈvɪlɪdʒər ə]"
+          ],
+          "kana": "アイル スピーク ウィズ ザ ヴィリッジャー アバウト トレイディング"
+        },
+        {
+          "en": "They'll speak up at the meeting tomorrow.",
+          "ja": "彼らは明日の会議で意見を述べるでしょう。",
+          "ipa": "[ðeɪl ˈspiːkʌp æt ðə ˈmiːtɪŋ təˈmɑroʊ]",
+          "linking": [
+            "will は they と縮約して they'll /ðeɪl/ となる",
+            "speak の末尾子音 /k/ が up の初頭母音 /ʌ/ に連結。結果は [ˈspiːkʌp]",
+            "the は機能語で弱形 /ðə/ に弱化",
+            "tomorrow は機能語的に弱形 /təˈmɑroʊ/ となる場合がある"
+          ],
+          "kana": "ゼイル スピークアップ アット ザ ミーティング トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be speaking",
+      "ipa": "/wɪl bi ˈspiːkɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be speaking about mining strategies tonight.",
+          "ja": "私たちは今夜、採鉱戦略について話すでしょう。",
+          "ipa": "[wil bi ˈspiːkɪŋ əˈbaʊt ˈmaɪnɪŋ ˈstrætɪdʒiz təˈnaɪt]",
+          "linking": [
+            "will は we と縮約して we'll /wil/ となる",
+            "speaking の末尾子音 /ŋ/ が about の初頭母音 /ə/ に連結。結果は [ˈspiːkɪŋ ə]",
+            "to は機能語で弱形 /tə/ に弱化（tonight の to）"
+          ],
+          "kana": "ウィル ビー スピーキング アバウト マイニング ストラテジーズ トゥナイト"
+        },
+        {
+          "en": "He'll be speaking with us about the treasure map.",
+          "ja": "彼は私たちと宝の地図について話すでしょう。",
+          "ipa": "[hil bi ˈspiːkɪŋ wɪð ʌs əˈbaʊt ðə ˈtrɛʒər mæp]",
+          "linking": [
+            "will は he と縮約して he'll /hil/ となる",
+            "us は機能語で弱形 /əs/ に弱化することもある",
+            "the は機能語で弱形 /ðə/ に弱化"
+          ],
+          "kana": "ヒール ビー スピーキング ウィズ アス アバウト ザ トレジャー マップ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have spoken",
+      "ipa": "/wɪl həv ˈspoʊkən/",
+      "examples": [
+        {
+          "en": "By the end of the session, we'll have spoken to every NPC.",
+          "ja": "セッションが終わるまでに、私たちはすべてのNPCと話し終わっているでしょう。",
+          "ipa": "[baɪ ðə ˈɛnd əv ðə ˈsɛʃən wil həv ˈspoʊkən tə ˈɛvri ˈɛn pi ˈsi]",
+          "linking": [
+            "the は機能語で弱形 /ðə/ に弱化（最初）",
+            "end の末尾子音 /d/ が of の初頭母音 /ə/ に連結。結果は [ˈɛnd əv]",
+            "of は機能語で弱形 /əv/ に弱化",
+            "will は we と縮約して we'll /wil/ となる",
+            "have は機能語で弱形 /həv/ に弱化",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "バイ ザ エンダヴ ザ セッション ウィル ハヴ スポウクン タ エブリ エン ピー シー"
+        },
+        {
+          "en": "She'll have spoken with the admin about the new rules.",
+          "ja": "彼女は管理者と新しいルールについて話し終わっているでしょう。",
+          "ipa": "[ʃil həv ˈspoʊkən wɪð ðə ˈædmɪn əˈbaʊɾ ðə nju rulz]",
+          "linking": [
+            "will は she と縮約して she'll /ʃil/ となる",
+            "have は機能語で弱形 /həv/ に弱化",
+            "the は機能語で弱形 /ðə/ に弱化（admin の前）",
+            "admin の末尾子音 /n/ が about の初頭母音 /ə/ に連結。結果は [ˈædmɪn ə]",
+            "about の末尾子音 /t/ がフラップ化して [ɾ] となり、the の初頭母音 /ə/ に連結。結果は [əˈbaʊɾ ə]",
+            "the は機能語で弱形 /ðə/ に弱化（new の前）"
+          ],
+          "kana": "シール ハヴ スポウクン ウィズ ザ アドミン アバウラ ザ ニュー ルーズ"
+        }
+      ]
     }
   ]
 }
