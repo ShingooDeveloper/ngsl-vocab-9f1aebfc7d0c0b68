@@ -189,6 +189,304 @@
           "kana": "ヒーズ ビーチング ザ ボウト ビコーズ オヴ ラフ ウォラー アン ストロング カレンツ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is beaching",
+      "ipa": "/ɪz ˈbiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is beaching his boat on the sandy shore.",
+          "ja": "スティーブは砂浜にボートを上げています。",
+          "ipa": "/stiːv ɪz ˈbiːtʃɪŋ hɪz boʊt ɑn ðə ˈsændi ʃɔr/",
+          "linking": [
+            "is → 弱形で /ɪz/、beaching の /b/ に続く（子音+子音、連結なし）",
+            "boat の /t/ が on の母音 /ɑ/ に続く（子音+母音、未開放で連結）[boʊt̚ ɑn] ボウ アン",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "スティーヴ イズ ビーチング ヒズ ボウ アン ザ サンディ ショア"
+        },
+        {
+          "en": "We are beaching the raft to repair it.",
+          "ja": "私たちはいかだを修理するために浜に上げています。",
+          "ipa": "/wi ər ˈbiːtʃɪŋ ðə ˈræft tə rɪˈpɛr ɪt/",
+          "linking": [
+            "are → 弱形で /ər/、raft の /t/ が to に続く（子音+子音の弱形 /tə/、未開放）[ær ðə ræft̚ tə] アー ザ ラフ タ",
+            "to → 弱形で /tə/、repair に続く（子音+子音、連結なし）",
+            "repair の /r/ が it に続く（子音+母音、連結）[pɛr ɪt] ペア イット"
+          ],
+          "kana": "ウィ アー ビーチング ザ ラフ トゥ リペア イット"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was beaching",
+      "ipa": "/wəz ˈbiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was beaching the wooden boat when the storm arrived.",
+          "ja": "嵐が到着したとき、私は木製のボートを浜に上げていました。",
+          "ipa": "/aɪ wəz ˈbiːtʃɪŋ ðə ˈwʊdən boʊt wɛn ɪt ˈstɑrtəd ˈreɪnɪŋ/",
+          "linking": [
+            "was → 弱形で /wəz/、beaching の /b/ に続く（子音+子音、連結なし）",
+            "the → 弱形 /ðə/",
+            "when の末尾 /n/ が it の母音 /ɪ/ に続く（子音+母音、連結）[wɛn ɪt] ウェン イット",
+            "it の /t/ が started の /s/ に続く（子音+子音、未開放）[ɪt̚ ˈst] イッ スター"
+          ],
+          "kana": "アイ ワズ ビーチング ザ ウッデン ボウ ウェン イッ スターテッド レイニング"
+        },
+        {
+          "en": "She was beaching her sailboat on the tropical island.",
+          "ja": "彼女は熱帯の島帆船を浜に上げていました。",
+          "ipa": "/ʃi wəz ˈbiːtʃɪŋ hər ˈseɪlˌboʊt ɑn ðə ˈtrɑpɪkəl ˈaɪlənd/",
+          "linking": [
+            "was → 弱形で /wəz/",
+            "sailboat の末尾 /t/ が on の母音 /ɑ/ に続く（子音+母音、未開放で連結）[boʊt̚ ɑn] ボウ オン",
+            "the → 弱形 /ðə/",
+            "tropical の末尾 /l/ が island の母音 /aɪ/ に続く（子音+母音、連結）[kəl ˈaɪ] カル アイ"
+          ],
+          "kana": "シー ワズ ビーチング ハー セイルボウ オン ザ トラピカル アイランド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been beaching",
+      "ipa": "/hæd bɪn ˈbiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "We had been beaching boats all afternoon before the storm arrived.",
+          "ja": "嵐が到着する前、午後中ずっとボートを浜に上げていました。",
+          "ipa": "/wi həd bɪn ˈbiːtʃɪŋ ˈboʊts ɔl ˌæftərˈnun bɪˈfɔr ðə ˈstɔrm əˈraɪvd/",
+          "linking": [
+            "had → 弱形で /həd/、been の /b/ に続く（子音+子音、連結なし）",
+            "been → 弱形で /bɪn/、beaching の /b/ に続く（子音+子音、連結なし）",
+            "boats の末尾 /s/ が all の母音 /ɔ/ に続く（子音+母音、連結）[ˈboʊts ɔl] ボウツ オール",
+            "the → 弱形 /ðə/",
+            "storm の末尾 /m/ が arrived の母音 /ə/ に続く（子音+母音、連結）[ˈstɔrm əˈraɪvd] ストーム アライヴド"
+          ],
+          "kana": "ウィ ハド ビン ビーチング ボウツ オール アフターヌーン ビフォア ザ ストーム アライヴド"
+        },
+        {
+          "en": "They had been beaching the raft for hours to repair it.",
+          "ja": "彼らは修理するために数時間いかだを浜に上げ続けていました。",
+          "ipa": "/ðeɪ həd bɪn ˈbiːtʃɪŋ ðə ˈræft fər ˈaʊrz tə rɪˈpɛr ɪt/",
+          "linking": [
+            "had → 弱形で /həd/、been の /b/ に続く（子音+子音、連結なし）",
+            "been → 弱形で /bɪn/",
+            "the → 弱形 /ðə/",
+            "raft の末尾 /t/ が for の /ə/（弱形）に続く（子音+子音、未開放）[ræft̚ fər] ラフ ファー",
+            "to → 弱形で /tə/、repair の /r/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハド ビン ビーチング ザ ラフ ファー アワーズ タ リペア イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has beached",
+      "ipa": "/həz ˈbiːtʃt/",
+      "examples": [
+        {
+          "en": "I have beached the boat safely at the spawn point.",
+          "ja": "スポーン地点でボートを安全に上げました。",
+          "ipa": "/aɪ həv ˈbiːtʃt ðə ˈboʊt ˈseɪfli ət ðə ˈspoʊn ˈpɔɪnt/",
+          "linking": [
+            "have → 弱形で /həv/、beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の /t/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "safely の /i/ が at に続く（母音+子音、連結なし）。at は弱形 /ət/",
+            "spawn の末尾 /n/ が point の母音 /ɔɪ/ に続く（子音+母音、連結）[spoʊn pɔɪnt] スポウン ポイント"
+          ],
+          "kana": "アイ ハヴ ビーチ ザ ボウト セイフリ ア ザ スポウン ポイント"
+        },
+        {
+          "en": "She has beached her ship to protect it from endermen.",
+          "ja": "彼女はエンダーマンから保護するために船を上げました。",
+          "ipa": "/ʃi həz ˈbiːtʃt hər ˈʃɪp tu prəˈtɛkt ɪt frəm ˈɛndərˌmɛn/",
+          "linking": [
+            "has → 弱形で /həz/、beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の /t/ が her に続く（子音+子音、連結なし）",
+            "ship の末尾 /p/ が to の /tə/（弱形）に続く（子音+子音、未開放）[ʃɪp̚ tə] シップ タ",
+            "protect の末尾 /t/ が it の母音 /ɪ/ に続く（子音+母音、連結）[prəˈtɛkt ɪt] プロテック イット",
+            "from は弱形 /frəm/ で endermen に続く"
+          ],
+          "kana": "シー ハズ ビーチ ハー シップ トゥ プロテック イット フラム エンダーメン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had beached",
+      "ipa": "/həd ˈbiːtʃt/",
+      "examples": [
+        {
+          "en": "We had beached the boat before the water level rose.",
+          "ja": "水位が上昇する前に、ボートを上げていました。",
+          "ipa": "/wi həd ˈbiːtʃt ðə ˈboʊt bɪˈfɔr ðə ˈwɔtər ˈlɛvəl ˈroʊz/",
+          "linking": [
+            "had → 弱形で /həd/、beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の /t/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "boat の末尾 /t/ が before の /b/ に続く（子音+子音、未開放）[boʊt̚ bɪˈfɔr] ボウ ビフォア",
+            "water はフラップT [ˈwɔɾər] ウォラー",
+            "level の末尾 /l/ が rose の母音 /oʊ/ に続く（子音+母音、連結）[ˈlɛvəl ˈroʊz] レベル ローズ"
+          ],
+          "kana": "ウィ ハド ビーチ ザ ボウ ビフォア ザ ウォラー レベル ローズ"
+        },
+        {
+          "en": "They had beached their ships by the time the storm started.",
+          "ja": "嵐が始まる前に、彼らは自分たちの船を上げていました。",
+          "ipa": "/ðeɪ həd ˈbiːtʃt ðɛr ˈʃɪps baɪ ðə ˈtaɪm ðə ˈstɔrm ˈstɑrtəd/",
+          "linking": [
+            "had → 弱形で /həd/、beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の /t/ が their に続く（子音+子音、連結なし）。their は /ðɛr/",
+            "ships の末尾 /s/ が by の母音 /aɪ/ に続く（子音+母音、連結）[ʃɪps baɪ] シップス バイ",
+            "the → 弱形 /ðə/",
+            "time の末尾 /m/ が the に続く（子音+子音、連結なし）",
+            "storm の末尾 /m/ が started の母音 /ɑ/ に続く（子音+母音、連結）[ˈstɔrm ˈstɑr] ストーム スター"
+          ],
+          "kana": "ゼイ ハド ビーチ ゼア シップス バイ ザ タイム ザ ストーム スターテッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been beaching",
+      "ipa": "/həz bɪn ˈbiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "We have been beaching boats all day to create a safe harbor.",
+          "ja": "安全な港を作るために、私たちは一日中ボートを上げています。",
+          "ipa": "/wi həv bɪn ˈbiːtʃɪŋ ˈboʊts ɔl ˈdeɪ tu kriˈeɪt ə ˈseɪf ˈhɑrbər/",
+          "linking": [
+            "have → 弱形で /həv/、been の /b/ に続く（子音+子音、連結なし）",
+            "been → 弱形で /bɪn/、beaching の /b/ に続く（子音+子音、連結なし）",
+            "beaching の末尾 /g/ が boats の /b/ に続く（子音+子音、連結なし）",
+            "boats の末尾 /s/ が all の母音 /ɔ/ に続く（子音+母音、連結）[ˈboʊts ɔl] ボウツ オール",
+            "day の末尾 /eɪ/ が to に続く（母音+子音、連結なし）。to は弱形 /tə/",
+            "create の末尾 /t/ が a の母音 /ə/（弱形）に続く（子音+母音、連結）[kriˈeɪt ə] クリエイト ア"
+          ],
+          "kana": "ウィ ハヴ ビン ビーチング ボウツ オール デイ トゥ クリエイト ア セイフ ハーバー"
+        },
+        {
+          "en": "She has been beaching the raft for several hours in preparation.",
+          "ja": "彼女は準備のために数時間いかだを上げ続けています。",
+          "ipa": "/ʃi həz bɪn ˈbiːtʃɪŋ ðə ˈræft fər ˈsɛvərəl ˈaʊrz ɪn ˌprɛpəˈreɪʃən/",
+          "linking": [
+            "has → 弱形で /həz/、been の /b/ に続く（子音+子音、連結なし）",
+            "been → 弱形で /bɪn/、beaching の /b/ に続く（子音+子音、連結なし）",
+            "beaching の末尾 /g/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "raft の末尾 /t/ が for の /f/ に続く（子音+子音、未開放）[ræft̚ fər] ラフ ファー",
+            "for は弱形 /fər/",
+            "several の末尾 /l/ が hours の母音 /aʊ/ に続く（子音+母音、連結）[ˈsɛvərəl ˈaʊrz] セヴェラル アワーズ"
+          ],
+          "kana": "シー ハズ ビン ビーチング ザ ラフ ファー セヴェラル アワーズ イン プレパレーション"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will beach",
+      "ipa": "/wɪl ˈbiːtʃ/",
+      "examples": [
+        {
+          "en": "I will beach the boat at the new settlement.",
+          "ja": "新しい集落で、ボートを浜に上げます。",
+          "ipa": "/aɪ wɪl ˈbiːtʃ ðə ˈboʊt ət ðə ˈnu ˈsɛtəlmənt/",
+          "linking": [
+            "will の /l/ が beach の /b/ に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/",
+            "boat の末尾 /t/ が at の弱形 /ət/ に続く（子音+子音、未開放）[boʊt̚ ət] ボウ ア",
+            "new の末尾 /u/ が settlement の /s/ に続く（母音+子音、連結なし）"
+          ],
+          "kana": "アイ ウィル ビーチ ザ ボウ ア ザ ニュー セトルメント"
+        },
+        {
+          "en": "They will beach their ships tomorrow to prepare for the raid.",
+          "ja": "明日、彼らは襲撃の準備をするために彼らの船を浜に上げます。",
+          "ipa": "/ðeɪ wɪl ˈbiːtʃ ðɛr ˈʃɪps təˈmɑroʊ tu prɪˈpɛr fɔr ðə ˈreɪd/",
+          "linking": [
+            "will の /l/ が beach の /b/ に続く（子音+子音、連結なし）",
+            "beach の末尾 /tʃ/ が their の /ð/ に続く（子音+子音、連結なし）",
+            "ships の末尾 /s/ が tomorrow の /t/ に続く（子音+子音、未開放）[ˈʃɪps təˈmɑ] シップス トゥモロウ",
+            "to は弱形 /tə/、prepare の /p/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ウィル ビーチ ゼア シップス トゥモロウ トゥ プリペア フォア ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be beaching",
+      "ipa": "/wɪl bi ˈbiːtʃɪŋ/",
+      "examples": [
+        {
+          "en": "We will be beaching our rafts all morning to organize our fleet.",
+          "ja": "私たちは艦隊を組織するために午前中ずっといかだを浜に上げています。",
+          "ipa": "/wi wɪl bi ˈbiːtʃɪŋ ˈaʊər ˈræfts ɔl ˈmɔrnɪŋ tu ˈɔrɡəˌnaɪz ˈaʊər ˈflit/",
+          "linking": [
+            "will の /l/ が be の /b/ に続く（子音+子音、連結なし）",
+            "be の /i/ が beaching の /b/ に続く（母音+子音、連結なし）",
+            "beaching の末尾 /g/ が our の母音 /aʊ/ に続く（子音+母音、連結）[ˈbiːtʃɪŋ ˈaʊər] ビーチング アワー",
+            "rafts の末尾 /s/ が all の母音 /ɔ/ に続く（子音+母音、連結）[ˈræfts ɔl] ラフツ オール"
+          ],
+          "kana": "ウィ ウィル ビー ビーチング アワー ラフツ オール モーニング トゥ オーガナイズ アワー フリート"
+        },
+        {
+          "en": "She will be beaching the wooden boat when the full moon rises.",
+          "ja": "満月が昇るとき、彼女は木製のボートを浜に上げています。",
+          "ipa": "/ʃi wɪl bi ˈbiːtʃɪŋ ðə ˈwʊdən boʊt wɛn ðə ˈfʊl ˈmun ˈraɪzɪz/",
+          "linking": [
+            "will の /l/ が be の /b/ に続く（子音+子音、連結なし）",
+            "be の /i/ が beaching の /b/ に続く（母音+子音、連結なし）",
+            "beaching の末尾 /g/ が the の弱形 /ðə/ に続く（子音+子音、連結なし）",
+            "wooden の末尾 /n/ が boat の母音 /oʊ/ に続く（子音+母音、連結）[ˈwʊdən boʊt] ウッデン ボウト"
+          ],
+          "kana": "シー ウィル ビー ビーチング ザ ウッデン ボウ ウェン ザ フル ムーン ライズズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have beached",
+      "ipa": "/wɪl həv ˈbiːtʃt/",
+      "examples": [
+        {
+          "en": "By sunset, we will have beached all the boats safely.",
+          "ja": "日没までに、私たちはすべてのボートを安全に浜に上げています。",
+          "ipa": "/baɪ ˈsʌnˌsɛt | wi wɪl həv ˈbiːtʃt ɔl ðə ˈboʊts ˈseɪfli/",
+          "linking": [
+            "sunset の末尾 /t/ が we の母音 /i/ に続く（子音+母音、未開放で連結なし）",
+            "will の /l/ が have の弱形 /həv/ に続く（子音+子音、連結なし）",
+            "have の末尾 /v/ が beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の末尾 /t/ が all の母音 /ɔ/ に続く（子音+母音、連結）[ˈbiːtʃt ɔl] ビーチ オール"
+          ],
+          "kana": "バイ サンセット、ウィ ウィル ハヴ ビーチ オール ザ ボウツ セイフリ"
+        },
+        {
+          "en": "He will have beached the ship before the storm arrives.",
+          "ja": "彼は嵐が到着する前に船を浜に上げています。",
+          "ipa": "/hi wɪl həv ˈbiːtʃt ðə ˈʃɪp bɪˈfɔr ðə ˈstɔrm əˈraɪvz/",
+          "linking": [
+            "will の /l/ が have の弱形 /həv/ に続く（子音+子音、連結なし）",
+            "have の末尾 /v/ が beached の /b/ に続く（子音+子音、連結なし）",
+            "beached の末尾 /t/ が the の弱形 /ðə/ に続く（子音+子音、連結なし）",
+            "ship の末尾 /p/ が before の /b/ に続く（子音+子音、未開放）[ˈʃɪp̚ bɪˈfɔr] シップ ビフォア"
+          ],
+          "kana": "ヒー ウィル ハヴ ビーチ ザ シップ ビフォア ザ ストーム アライズ"
+        }
+      ]
     }
+  ]
+}
   ]
 }
