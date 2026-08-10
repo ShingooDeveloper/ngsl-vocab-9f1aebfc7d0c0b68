@@ -339,6 +339,69 @@
           "kana": "アイ ハヴ ビン サポウズィング ダ テレイン ジェネレイション（未開放）フォローズ サム カインダヴ パターン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will suppose",
+      "ipa": "/wɪl səˈpoʊz/",
+      "examples": [
+        {
+          "en": "I will suppose this ore vein contains valuable diamonds worth mining.",
+          "ja": "この鉱石層は採掘する価値のあるダイヤモンドを含むと思うだろう。",
+          "ipa": "/aɪ wɪl səˈpoʊz ðɪs ˈɔːr veɪn kənˈteɪnz ˈvæljuəbl ˈdaɪməndz wɜːrθ ˈmaɪnɪŋ/",
+          "linking": [
+            "will suppose → will /wɪl/ が suppose /səˈpoʊz/ の母音に連結 [wɪl səˈpoʊz] ウィル サポウズ",
+            "ore vein → vein の語末 /n/ が子音 /k/ の前で未開放 [ˈɔːr veɪn̚ kənˈteɪnz] オア ヴェイン（未開放）コンテインズ",
+            "contains valuable → contains の語末 /z/ が valuable の母音に連結 [kənˈteɪnz ˈvæljuəbl] コンテインズ ヴァルジュアブル"
+          ],
+          "kana": "アイ ウィル サポウズ ディス オア ヴェイン（未開放）コンテインズ ヴァルジュアブル ダイマンズ ワース マイニング"
+        },
+        {
+          "en": "They will suppose the Nether fortress is guarded by powerful mobs.",
+          "ja": "彼らはネザー要塞が強力なモブに守られていると思うだろう。",
+          "ipa": "/ðeɪ wɪl səˈpoʊz ðə ˈnɛðɚ ˈfɔːrtrɪs ɪz ˈɡɑːrdɪd baɪ ˈpaʊərfəl ˈmɑːbz/",
+          "linking": [
+            "will suppose → will /wɪl/ と suppose /səˈpoʊz/ が連結 [wɪl səˈpoʊz] ウィル サポウズ",
+            "suppose the → suppose の語末 /z/ が弱形 the /ðə/ に連結 [səˈpoʊz ðə] サポウズ ザ",
+            "fortress is → fortress の語末 /s/ が is の弱形 /ɪz/ に連結 [ˈfɔːrtrɪs‿ɪz] フォートリスイズ",
+            "by powerful → powerful の語末 /l/ が mobs に続く（子音+子音）"
+          ],
+          "kana": "ザイ ウィル サポウズ ザ ネザー フォートリスイズ ガーディド バイ パワァフル モブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have supposed",
+      "ipa": "/wɪl həv səˈpoʊzd/",
+      "examples": [
+        {
+          "en": "By the time you explore the entire cave system, you will have supposed many theories about the ore distribution.",
+          "ja": "洞窟全体を探索し終わるまでに、鉱石分布についていろいろな理論を推測しているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ɪkˈsplɔːr ðə ɪnˈtaɪɚ ˈkeɪv ˈsɪstəm | ju wɪl həv səˈpoʊzd ˈmɛni ˈθɪəriz əˈbaʊt ðə ˈɔːr ˌdɪstrɪˈbjuːʃən/",
+          "linking": [
+            "by the → by /baɪ/ が弱形 the /ðə/ に連結 [baɪ ðə] バイ ザ",
+            "the entire → the は弱形 /ðə/。entire の母音に連結 [ðə ɪnˈtaɪɚ] ザ イナイア",
+            "will have supposed → will /wɪl/ は弱形になり have /həv/ に連結。supposed /səˈpoʊzd/ [wɪl həv səˈpoʊzd] ウィル ハヴ サポウズド",
+            "theories about → about の語末 /t/ が the に未開放で続く（子音+母音で通常は連結するが、aboutの語末が未開放）[əˈbaʊt̚ ðə] アバウト ザ"
+          ],
+          "kana": "バイ ザ タイム ユー エクスプロア ザ イナイア ケイヴ システム、ユー ウィル ハヴ サポウズド メニー スィアリーズ アバウト ザ オア ディストリビューション"
+        },
+        {
+          "en": "We will have supposed the treasure must be somewhere beyond this wall before we break through it.",
+          "ja": "この壁を突き破る前に、宝物はこの壁の向こうのどこかにあるはずだと思っているだろう。",
+          "ipa": "/wi wɪl həv səˈpoʊzd ðə ˈtrɛʒɚ məst bi ˈsʌmwɛr bɪˈjɑːnd ðɪs wɔːl | bɪˈfɔːr wi breɪk θruː ɪt/",
+          "linking": [
+            "will have supposed → will /wɪl/ と have /həv/ が弱形で連結 [wɪl həv] ウィル ハヴ。supposed /səˈpoʊzd/",
+            "suppose the → supposed の語末 /d/ が弱形 the /ðə/ に連結 [səˈpoʊzd ðə] サポウズド ザ",
+            "treasure must → treasure の語末 /ɚ/ が must に連結 [ˈtrɛʒɚ məst] トレジャー マスト",
+            "beyond this → beyond の語末 /d/ が this に続く（子音+子音）。this は弱形 /ðɪs/"
+          ],
+          "kana": "ウィ ウィル ハヴ サポウズド ザ トレジャー マスト ビー サムウェア ビヨンド ディス ウォール、ビフォア ウィ ブレイク スルー イット"
+        }
+      ]
     }
   ],
   "rank": 609
