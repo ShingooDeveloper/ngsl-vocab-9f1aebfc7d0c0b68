@@ -165,6 +165,200 @@
           "kana": "ゼイ ハド ビン ミシング クルーシャル サプライズ スィンス ザ レイド スターティッド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has missed",
+      "ipa": "/həz ˈmɪst/",
+      "examples": [
+        {
+          "en": "I have missed spotting the entrance to the secret base multiple times.",
+          "ja": "シークレットベースの入り口を見逃すのを何度も繰り返してしまった。",
+          "ipa": "[aɪ həv ˈmɪst ˈspɑtɪŋ ðə ˈɛntrəns tə ðə ˈsɪkrət beɪs ˈmʌltɪpəl taɪmz]",
+          "linking": [
+            "have missed → have は弱形 /həv/。missed の初頭子音 /m/ に先行（子音+子音）。連結なし",
+            "the entrance → the は弱形 /ðə/。entrance の初頭に連結 [ðə ˈɛntrəns] ザ エントランス",
+            "to the → to は弱形 /tə/。the は /ðə/。連結 [tə ðə] タザ",
+            "the secret → the は弱形 /ðə/。secret に連結 [ðə ˈsɪkrət] ザ シークレット",
+            "times → 末尾 /z/ が multiple の初頭に先行。子音+子音で連結なし"
+          ],
+          "kana": "アイ ハヴ ミスト スポッティング ザ エントランス タザ シークレット ベース マルティプル タイムズ"
+        },
+        {
+          "en": "She has missed the optimal spawn timing for gathering diamonds this session.",
+          "ja": "このセッションでダイヤモンドを集めるのに最適なスポーン時間を逃してしまった。",
+          "ipa": "[ʃi həz ˈmɪst ðə ˈɑptɪməl spɔn ˈtaɪmɪŋ fər ˈɡæðərɪŋ ˈdaɪəməndz ðɪs ˈsɛʃən]",
+          "linking": [
+            "has missed → has は弱形 /həz/。missed の初頭に先行。連結なし",
+            "the optimal → the は弱形 /ðə/。optimal に連結 [ðə ˈɑptɪməl] ザ オプティマル",
+            "for gathering → for は弱形 /fər/。gathering に連結 [fər ˈɡæðərɪŋ] ファー ギャザリング",
+            "diamonds this → diamonds 末尾 /z/ が this 初頭 /ð/ に先行。子音+子音で連結なし"
+          ],
+          "kana": "シ ハズ ミスト ザ オプティマル スポーン タイミング ファー ギャザリング ダイアモンズ ディス セッション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had missed",
+      "ipa": "/həd ˈmɪst/",
+      "examples": [
+        {
+          "en": "They had missed the warning signs before the cave system collapsed.",
+          "ja": "洞窟システムが崩壊する前に、彼らは警告の兆候を見逃していた。",
+          "ipa": "[ðeɪ həd ˈmɪst ðə ˈwɔrnɪŋ saɪnz bɪˈfɔr ðə keɪv ˈsɪstəm kəˈlæpst]",
+          "linking": [
+            "had missed → had は弱形 /həd/。missed の初頭に先行。連結なし",
+            "the warning → the は弱形 /ðə/。warning に連結 [ðə ˈwɔrnɪŋ] ザ ウォーニング",
+            "warning signs → warning 末尾 /ŋ/ が signs 初頭 /s/ に先行。子音+子音で連結なし",
+            "before the → before 末尾 /r/ が the 初頭 /ð/ に先行。子音+子音で連結なし。the は弱形 /ðə/",
+            "the cave → the は弱形 /ðə/。cave に連結 [ðə keɪv] ザ ケイブ"
+          ],
+          "kana": "ゼイ ハド ミスト ザ ウォーニング サインズ ビフォー ザ ケイブ システム コラプスト"
+        },
+        {
+          "en": "By the time we found our teammate, he had missed several critical mob spawns.",
+          "ja": "仲間を見つけた時には、彼は重要なモブスポーンをいくつも見逃していた。",
+          "ipa": "[baɪ ðə ˈtaɪm wi ˈfaʊnd ˌaʊər ˈtimˌmeɪt | hi həd ˈmɪst ˈsɛvərəl ˈkrɪtɪkəl mɑb spɔnz]",
+          "linking": [
+            "by the → by の末尾 /aɪ/ が the の初頭 /ð/ に先行。子音なし連結なし。the は弱形 /ðə/",
+            "had missed → had は弱形 /həd/。missed に先行。連結なし",
+            "several critical → several 末尾 /l/ が critical 初頭 /k/ に先行。子音+子音で連結なし",
+            "mob spawns → mob 末尾 /b/ が spawns 初頭 /s/ に先行。子音+子音で連結なし"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド アワー ティームメイト、ヒー ハド ミスト セヴァラル クリティカル モブ スポーンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been missing",
+      "ipa": "/həz bɪn ˈmɪsɪŋ/",
+      "examples": [
+        {
+          "en": "I have been missing valuable ores because I haven't checked the deeper mining levels.",
+          "ja": "深いマイニングレベルを確認していなかったから、貴重なオアーを見逃し続けている。",
+          "ipa": "[aɪ həz bɪn ˈmɪsɪŋ ˈvæljəbəl ˈɔrz bɪˈkɑz aɪ ˈhævənt ˈtʃɛkt ðə ˈdipər ˈmaɪnɪŋ ˈlɛvəlz]",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/。連続した弱形 [həz bɪn] ハズ ビン",
+            "been missing → been の末尾 /n/ が missing の初頭 /m/ に先行。子音+子音で連結なし",
+            "because I → because の末尾 /z/ が I の初頭母音 /aɪ/ に連結 [bɪˈkɑzaɪ] ビコーザイ",
+            "the deeper → the は弱形 /ðə/。deeper に連結 [ðə ˈdipər] ザ ディーパー"
+          ],
+          "kana": "アイ ハズ ビン ミシング ヴァリュアブル オアーズ ビコーザイ アイ ハヴント チェクト ザ ディーパー マイニング レヴァルズ"
+        },
+        {
+          "en": "We have been missing crucial building materials throughout the entire construction phase.",
+          "ja": "建設全体を通じて、重要な建築材料を見逃し続けている。",
+          "ipa": "[wi həz bɪn ˈmɪsɪŋ ˈkruːʃəl ˈbɪldɪŋ məˈtɪriəlz θruːˈaʊt ðə ɪnˈtaɪər kənˈstrʌkʃən ˈfeɪz]",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/。[həz bɪn] ハズ ビン",
+            "building materials → building の末尾 /ŋ/ が materials の初頭 /m/ に先行。子音+子音で連結なし",
+            "the entire → the は弱形 /ðə/。entire に連結 [ðə ɪnˈtaɪər] ザ エンタイア",
+            "the entire → entire の末尾 /r/ が construction の初頭 /k/ に先行。子音+子音で連結なし"
+          ],
+          "kana": "ウィ ハズ ビン ミシング クルーシャル ビルディング マテリアルズ スルーアウト ザ エンタイア コンストラクション フェーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will miss",
+      "ipa": "/wɪl mɪs/",
+      "examples": [
+        {
+          "en": "I will miss the diamond vein if I don't look carefully.",
+          "ja": "気をつけて見ていなければ、ダイヤモンド鉱脈を見逃すだろう。",
+          "ipa": "[aɪ wɪl mɪs ðə ˈdaɪəmənd veɪn ɪf aɪ ˈdoʊnt ˈlʊk ˈkɛrfəli]",
+          "linking": [
+            "I will → I の末尾 /aɪ/ が will の初頭 /w/ に連結 [aɪ wɪl] アイ ウィル",
+            "the diamond → the は弱形 /ðə/。diamond の初頭に連結 [ðə ˈdaɪəmənd] ザ ダイアモンド",
+            "if I → if の末尾 /f/ が I の初頭 /aɪ/ に先行。子音先行で連結なし",
+            "look carefully → look の末尾 /k/ が carefully の初頭 /k/ に先行。同じ子音で重なり傾向"
+          ],
+          "kana": "アイ ウィル ミス ザ ダイアモンド ベイン、イフ アイ ドント ルック ケアフリー"
+        },
+        {
+          "en": "You will miss the optimal spawn timing if you're not paying attention.",
+          "ja": "注意を払っていなければ、最適なスポーン時間を逃すだろう。",
+          "ipa": "[ju wɪl mɪs ðə ˈɑptɪməl spɔn ˈtaɪmɪŋ ɪf jɔr nɑt ˈpeɪɪŋ əˈtɛnʃən]",
+          "linking": [
+            "you will → you の末尾 /u/ が will の初頭 /w/ に連結 [ju wɪl] ユ ウィル",
+            "the optimal → the は弱形 /ðə/。optimal の初頭に連結 [ðə ˈɑptɪməl] ザ オプティマル",
+            "if you're → if の末尾 /f/ が you're の初頭に先行。子音先行で連結なし",
+            "you're not → you're /jɔr/ と not /nɑt/。子音+子音で連結なし"
+          ],
+          "kana": "ユ ウィル ミス ザ オプティマル スポーン タイミング、イフ ユアー ノット ペイイング アテンション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be missing",
+      "ipa": "/wɪl bi ˈmɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We will be missing crucial redstone components while we gather wood.",
+          "ja": "木を集めている間、重要なレッドストーンコンポーネントが足りなくなるだろう。",
+          "ipa": "[wi wɪl bi ˈmɪsɪŋ ˈkruːʃəl ˈrɛdˌstoʊn kəmˈpoʊnənts ˈwaɪl wi ˈɡæðər ˈwʊd]",
+          "linking": [
+            "will be → will は弱形 /wəl/。be の初頭 /b/ に先行。子音+子音で連結なし",
+            "be missing → be の末尾 /i/ が missing の初頭に先行。連結なし",
+            "while we → while の末尾 /l/ が we の初頭に先行。子音+子音で連結なし",
+            "we gather → we の末尾が gather の初頭に先行。連結なし"
+          ],
+          "kana": "ウィ ウィル ビー ミシング クルーシャル レッドストーン コンポーネンツ、ホワイル ウィ ギャザー ウッド"
+        },
+        {
+          "en": "They will be missing the rare ore spawns if they don't check the Y-level.",
+          "ja": "Y座標を確認しなければ、レアなオアースポーンを見逃し続けるだろう。",
+          "ipa": "[ðeɪ wɪl bi ˈmɪsɪŋ ðə reɪr ɔr spɔnz ɪf ðeɪ ˈdoʊnt tʃɛk ðə ˈwaɪ ˈlɛvəl]",
+          "linking": [
+            "they will → they の末尾 /j/ が will の初頭に先行。子音+子音で連結なし",
+            "will be → will は弱形 /wəl/。be の初頭に先行。連結なし",
+            "be missing → be の末尾 /i/ が missing の初頭に先行。連結なし",
+            "the rare → the は弱形 /ðə/。rare の初頭に連結 [ðə reɪr] ザ レアー"
+          ],
+          "kana": "ゼイ ウィル ビー ミシング ザ レアー オアー スポーンズ、イフ ゼイ ドント チェック ザ ワイ レヴル"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have missed",
+      "ipa": "/wɪl həv mɪst/",
+      "examples": [
+        {
+          "en": "I will have missed the entire event by the time the server resets tomorrow.",
+          "ja": "明日、サーバーがリセットする時までに、私はイベント全体を見逃してしまっているだろう。",
+          "ipa": "[aɪ wɪl həv mɪst ðə ɪnˈtaɪər ɪˈvɛnt baɪ ðə ˈtaɪm ðə ˈsɝvər ˈrɛsɛts təˈmɑroʊ]",
+          "linking": [
+            "I will → I の末尾 /aɪ/ が will の初頭 /w/ に連結 [aɪ wɪl] アイ ウィル",
+            "will have → will は弱形 /wəl/。have の初頭に先行。子音+子音で連結なし",
+            "have missed → have は弱形 /həv/。missed の初頭に先行。連結なし",
+            "the entire → the は弱形 /ðə/。entire の初頭に連結 [ðə ɪnˈtaɪər] ザ エンタイア"
+          ],
+          "kana": "アイ ウィル ハヴ ミスト ザ エンタイア イベント、バイ ザ タイム ザ サーバー リセッツ トゥモロー"
+        },
+        {
+          "en": "He will have missed several critical spawns by the time he rejoins the group.",
+          "ja": "グループに戻る時までに、彼はいくつかの重要なスポーンを見逃してしまっているだろう。",
+          "ipa": "[hi wɪl həv mɪst ˈsɛvərəl ˈkrɪtɪkəl spɔnz baɪ ðə ˈtaɪm hi rɪˈdʒɔɪnz ðə ɡrup]",
+          "linking": [
+            "he will → he の末尾 /i/ が will の初頭 /w/ に連結 [hi wɪl] ヒー ウィル",
+            "will have → will は弱形 /wəl/。have の初頭に先行。子音+子音で連結なし",
+            "have missed → have は弱形 /həv/。missed の初頭に先行。連結なし",
+            "the time → the は弱形 /ðə/。time の初頭に連結 [ðə ˈtaɪm] ザ タイム"
+          ],
+          "kana": "ヒー ウィル ハヴ ミスト セヴァラル クリティカル スポーンズ、バイ ザ タイム ヒー リジョインズ ザ グループ"
+        }
+      ]
     }
   ]
 }
