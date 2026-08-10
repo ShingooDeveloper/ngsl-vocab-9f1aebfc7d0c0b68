@@ -324,6 +324,7 @@
           "kana": "ザ レッドストーン ハド ビン ショーティング フォー アワーズ ビフォア ウィー ディスカヴァード ザ プロブレム",
           "linking": [
             "the は弱形 /ðə/ (2回)",
+            "redstone had: redstone の末尾 /n/ が had の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
             "had は弱形 /həd/",
             "been は弱形 /bɪn/",
             "for は弱形 /fər/",
@@ -337,9 +338,10 @@
           "kana": "バイ ザ タイム ウィー チェクト ザ システム ハド ビン ショーティング ザ エンタイアー ネットワーク",
           "linking": [
             "the は弱形 /ðə/ (2回)",
+            "checked the: checked の末尾 /t/ が the の初頭 /ð/ に先立つため未開放（子音+子音のため連結なし）",
+            "system had: system の末尾 /m/ が had の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
             "had は弱形 /həd/",
-            "been は弱形 /bɪn/",
-            "entire は /ənˈtaɪr/"
+            "been は弱形 /bɪn/"
           ]
         }
       ]
@@ -369,9 +371,8 @@
           "ipa": "/jɔːr ˈrɛdˌstoʊn ˌkɑnˈtræpʃən həz ˈʃɔːrtəd əˈɡɛn/",
           "kana": "ユアー レッドストーン コントラプション ハズ ショーテッド アゲン",
           "linking": [
-            "your: /jɔːr/",
-            "has は弱形 /həz/",
-            "again: /əˈɡɛn/"
+            "contraption has: contraption の末尾 /n/ が has の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
+            "has は弱形 /həz/"
           ]
         }
       ]
@@ -385,7 +386,7 @@
         {
           "en": "The system had shorted before we could fix the problem.",
           "ja": "問題を修正する前に、システムがショートしてしまいました。",
-          "ipa": "/ðə ˈsɪstəm həd ˈʃɔːrtəd bɪˈfɔr wiː ˈkʊd fɪks ðə ˈprɑbləm/",
+          "ipa": "/ðə ˈsɪstəm həd ˈʃɔːrtəd bɪˈfɔr wiː kəd fɪks ðə ˈprɑbləm/",
           "kana": "ザ システム ハド ショーテッド ビフォア ウィー クッド フィックス ザ プロブレム",
           "linking": [
             "the は弱形 /ðə/",
@@ -400,11 +401,10 @@
           "ipa": "/baɪ ðæt ˈtaɪm ðə ˈmɛkənɪzəm həd ˈʃɔːrtəd ðə ənˈtaɪr ˈsɝːkɪt/",
           "kana": "バイ ザット タイム ザ メカニズム ハド ショーテッド ザ エンタイアー サーキット",
           "linking": [
-            "by: /baɪ/",
-            "that は /ðæt/（強形）",
+            "that time: that の末尾 /t/ が time の初頭 /t/ に先立つため未開放（同一子音のため連結なし）",
+            "mechanism had: mechanism の末尾 /m/ が had の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
             "the は弱形 /ðə/（2回）",
-            "had は弱形 /həd/",
-            "entire は /ənˈtaɪr/"
+            "had は弱形 /həd/"
           ]
         }
       ]
@@ -422,10 +422,10 @@
           "kana": "ザ ワイアー ハズ ビン ショーティング ザ サーキット フォー セバラル ミニッツ",
           "linking": [
             "the は弱形 /ðə/",
-            "wire has: wire の末尾 /r/ が has の初頭 /h/ に先立つため未開放。has は弱形 /həz/",
+            "wire has: wire の末尾 /r/ が has の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
+            "has は弱形 /həz/",
             "been は弱形 /bɪn/",
-            "for は弱形 /fər/",
-            "several: /ˈsɛvərəl/"
+            "for は弱形 /fər/"
           ]
         },
         {
@@ -435,9 +435,109 @@
           "kana": "ザ ダメージド パート ハズ ビン ショーティング ザ レッドストーン システム オール デイ",
           "linking": [
             "the は弱形 /ðə/（2回）",
+            "part has: part の末尾 /t/ が has の初頭 /h/ に先立つため未開放（子音+子音のため連結なし）",
             "has は弱形 /həz/",
-            "been は弱形 /bɪn/",
-            "all: /ɔl/"
+            "been は弱形 /bɪn/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will short",
+      "ipa": "/wɪl ʃɔːrt/",
+      "examples": [
+        {
+          "en": "That wire will short the entire circuit.",
+          "ja": "その配線は全体の回路をショートさせるでしょう。",
+          "ipa": "/ðæt ˈwaɪr wɪl ˈʃɔːrt ðə ənˈtaɪr ˈsɝːkɪt/",
+          "kana": "ザット ワイアー ウィル ショート ザ エンタイアー サーキット",
+          "linking": [
+            "that の末尾 /t/ が wire の初頭 /w/ に先立つ。子音なので連結なし",
+            "wire will: wire の末尾 /r/ が will の初頭 /w/ に先立つ。子音なので連結なし",
+            "will は弱形 /wɪl/（縮約形 'll でも使用可）",
+            "the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "I'll rebuild the redstone machine so it won't short this time.",
+          "ja": "今度はショートしないように、レッドストーンマシンを再構築します。",
+          "ipa": "/aɪl rɪˈbɪld ðə ˈrɛdˌstoʊn məˈʃiːn soʊ ɪt ˈwoʊnt ˈʃɔːrt ðɪs ˈtaɪm/",
+          "kana": "アイル リビルド ザ レッドストーン マシーン ソー イット ウォント ショート ディス タイム",
+          "linking": [
+            "I'll: \"I will\" の縮約形 /aɪl/",
+            "rebuild の末尾 /d/ が the の初頭 /ð/ に先立つ。子音なので連結なし",
+            "the は弱形 /ðə/",
+            "won't: \"will not\" の縮約形 /woʊnt/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be shorting",
+      "ipa": "/wɪl bi ˈʃɔːrtɪŋ/",
+      "examples": [
+        {
+          "en": "This broken mechanism will be shorting the power system unless we repair it soon.",
+          "ja": "この壊れたメカニズムは、すぐに修理しない限り、電力システムをショートさせ続けるでしょう。",
+          "ipa": "/ðɪs ˈbroʊkən ˈmɛkənɪzəm wɪl bi ˈʃɔːrtɪŋ ðə ˈpaʊər ˈsɪstəm ənˈlɛs wiː rɪˈpɛr ɪt suːn/",
+          "kana": "ディス ブロークン メカニズム ウィル ビー ショーティング ザ パワー システム アンレス ウィー リペアリット スーン",
+          "linking": [
+            "this の末尾 /s/ が broken の初頭 /b/ に先立つ。子音なので連結なし",
+            "mechanism will: mechanism の末尾 /m/ が will の初頭 /w/ に先立つ。子音なので連結なし",
+            "will は弱形 /wɪl/（縮約形 'll でも使用可）",
+            "be の弱形 /bi/",
+            "the は弱形 /ðə/",
+            "repair it: repair の末尾 /r/ が it の初頭 /ɪ/ に連結 [rɪˈpɛrɪt] リペアリット"
+          ]
+        },
+        {
+          "en": "They'll be shorting the trap circuit to disable it during the battle.",
+          "ja": "彼らは戦闘中にトラップ回路を無効にするためにショートさせ続けるでしょう。",
+          "ipa": "/ðeɪl bi ˈʃɔːrtɪŋ ðə ˈtræp ˈsɝːkɪt tə dɪsˈeɪbəl ɪt ˈdɝːɪŋ ðə ˈbætəl/",
+          "kana": "ゼイル ビー ショーティング ザ トラップ サーキット タ ディセイブル イット ジュアリング ザ バットル",
+          "linking": [
+            "They'll: \"They will\" の縮約形 /ðeɪl/",
+            "be の弱形 /bi/",
+            "the は弱形 /ðə/（2回）",
+            "to は弱形 /tə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have shorted",
+      "ipa": "/wɪl həv ˈʃɔːrtəd/",
+      "examples": [
+        {
+          "en": "By next week, the system will have shorted if we don't replace those wires.",
+          "ja": "もし配線を交換しなければ、来週までにシステムがショートしてしまっているでしょう。",
+          "ipa": "/baɪ ˈnɛkst wiːk ðə ˈsɪstəm wɪl həv ˈʃɔːrtəd ɪf wiː doʊnt rɪˈpleɪs ðoʊz ˈwaɪrz/",
+          "kana": "バイ ネックスト ウィーク ザ システム ウィル ハブ ショーテッド イフ ウィー ドウント リプレイス ゾウズ ワイアーズ",
+          "linking": [
+            "week の末尾 /k/ が the の初頭 /ð/ に先立つ。子音なので連結なし",
+            "system will: system の末尾 /m/ が will の初頭 /w/ に先立つ。子音なので連結なし",
+            "will は弱形 /wɪl/",
+            "have の弱形 /həv/",
+            "the は弱形 /ðə/",
+            "don't: \"do not\" の縮約形 /doʊnt/"
+          ]
+        },
+        {
+          "en": "The old equipment will have shorted by the time we complete the new base.",
+          "ja": "新しい基地を完成させるまでに、古い装置はショートしてしまっているでしょう。",
+          "ipa": "/ðə ˈoʊld ɪˈkwɪpmənt wɪl həv ˈʃɔːrtəd baɪ ðə ˈtaɪm wiː kəmˈpliːt ðə ˈnuː ˈbeɪs/",
+          "kana": "ザ オールド イクウィップメント ウィル ハブ ショーテッド バイ ザ タイム ウィー コンプリート ザ ニュー ベイス",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "equipment will: equipment の末尾 /t/ が will の初頭 /w/ に先立つ。子音なので連結なし",
+            "will は弱形 /wɪl/",
+            "have の弱形 /həv/"
           ]
         }
       ]
