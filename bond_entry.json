@@ -193,13 +193,317 @@
       ]
     }
   ],
+  "progressive_forms": {
+    "forms": [
+      {
+        "type": "present_progressive",
+        "label": "現在進行形（am/is/are + -ing）",
+        "text": "is bonding",
+        "ipa": "/ɪz ˈbɑndɪŋ/",
+        "examples": [
+          {
+            "en": "These blocks are bonding together inside the furnace.",
+            "ja": "これらのブロックは炉の中で一緒に結合しています。",
+            "ipa": "/ðiz ˈblɑks ɑɚ ˈbɑndɪŋ təˈɡɛðɚ ɪnˈsaɪd ðə ˈfɝnɪs/",
+            "linking": [
+              "are は弱形 /ɑɚ/",
+              "bonding の語末 /ŋ/ が together の /t/（子音）に続く",
+              "together の to は弱形 /tə/",
+              "the は弱形 /ðə/"
+            ],
+            "kana": "ディーズ ブロックス アー ボンディング タゥゲザー インサイド ザ ファーニス"
+          },
+          {
+            "en": "I am bonding my tools to make them stronger.",
+            "ja": "私は道具をより強くするために結合しています。",
+            "ipa": "/aɪ əm ˈbɑndɪŋ maɪ ˈtulz tu ˈmeɪk ðəm ˈstrɔŋɡɚ/",
+            "linking": [
+              "am は弱形 /əm/",
+              "bonding の語末 /ŋ/ が my の /m/（子音）に続く（連結なし）",
+              "tools の語末 /z/ が to の /t/（子音）に続く",
+              "to は弱形 /tə/",
+              "them は弱形 /ðəm/"
+            ],
+            "kana": "アイ アム ボンディング マイ トゥールズ タ メイク ザム ストロンガー"
+          }
+        ]
+      },
+      {
+        "type": "past_progressive",
+        "label": "過去進行形（was/were + -ing）",
+        "text": "was bonding",
+        "ipa": "/wəz ˈbɑndɪŋ/",
+        "examples": [
+          {
+            "en": "The materials were bonding when the explosion happened.",
+            "ja": "爆発が起きたとき、材料は結合していました。",
+            "ipa": "/ðə ˌmætəˈrɪəlz wɚ ˈbɑndɪŋ ˈwɛn ðə ɪkˈsploʊʒən ˈhæpənd/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "were は弱形 /wɚ/",
+              "bonding の語末 /ŋ/ が when の /w/（子音）に続く（連結なし）",
+              "explosion の語末 /n/ が happened の /h/（子音）に続く"
+            ],
+            "kana": "ザ マテリアルズ ワー ボンディング ウェン ザ イクスプロウジョン ハペンド"
+          },
+          {
+            "en": "We were bonding with our teammates throughout the dangerous quest.",
+            "ja": "私たちは危険なクエスト全体を通じてチームメイトと結びついていました。",
+            "ipa": "/wi wɚ ˈbɑndɪŋ wɪð ˈaʊɚ ˈtimˌmeɪts θɹuˈaʊt ðə ˈdeɪndʒərəs ˈkwɛst/",
+            "linking": [
+              "were は弱形 /wɚ/",
+              "bonding の語末 /ŋ/ が with の /w/（子音）に続く（連結なし）",
+              "our は弱形 /ɑɚ/",
+              "the は弱形 /ðə/"
+            ],
+            "kana": "ウィ ワー ボンディング ウィズ アワー ティームメイツ スループート ザ デンジャラス クエスト"
+          }
+        ]
+      },
+      {
+        "type": "past_perfect_progressive",
+        "label": "過去完了進行形（had been + -ing）",
+        "text": "had been bonding",
+        "ipa": "/həd bɪn ˈbɑndɪŋ/",
+        "examples": [
+          {
+            "en": "The resources had been bonding for hours before we finally retrieved them.",
+            "ja": "私たちが最後にそれらを取り出すまで、リソースは何時間も結合していました。",
+            "ipa": "/ðə ˈrɛsɚsɪz həd bɪn ˈbɑndɪŋ fɔɚ ˈaʊɚz bɪˈfɔɚ wi ˈfaɪnəli rɪˈtrivd ðɛm/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "had は弱形 /həd/",
+              "been は弱形 /bɪn/",
+              "bonding の語末 /ŋ/ が for の /f/（子音）に続く（連結なし）",
+              "for は弱形 /fɔɚ/",
+              "finally の /i/ が retrieved の /r/（子音）に続く",
+              "them は弱形 /ðɛm/"
+            ],
+            "kana": "ザ リソーシーズ ハド ビン ボンディング フォー アワーズ ビフォー ウィ ファイナリー リトリーヴド ゼム"
+          },
+          {
+            "en": "I had been bonding my tools when the Creeper attacked.",
+            "ja": "クリーパーが攻撃したとき、私は道具を結合していました。",
+            "ipa": "/aɪ həd bɪn ˈbɑndɪŋ maɪ ˈtulz ˈwɛn ðə ˈkripɚ əˈtækt/",
+            "linking": [
+              "had は弱形 /həd/",
+              "been は弱形 /bɪn/",
+              "bonding の語末 /ŋ/ が my の /m/（子音）に続く（連結なし）",
+              "the は弱形 /ðə/",
+              "Creeper の語末 /ɚ/ が attacked の /ə/（母音）に連結 [ˈkripɚ əˈtækt] クリーパー アタクト"
+            ],
+            "kana": "アイ ハド ビン ボンディング マイ トゥールズ ウェン ザ クリーパー アタクト"
+          }
+        ]
+      }
+    ]
+  },
+  "perfect_forms": {
+    "forms": [
+      {
+        "type": "present_perfect",
+        "label": "現在完了形（has/have + 過去分詞）",
+        "text": "has bonded",
+        "ipa": "/həz ˈbɑndɪd/",
+        "examples": [
+          {
+            "en": "We have bonded after fighting the Ender dragon together.",
+            "ja": "私たちはエンダードラゴンと一緒に戦った後、絆を深めました。",
+            "ipa": "/wi həv ˈbɑndɪd ˈæftɚ ˈfaɪtɪŋ ðə ˈɛndɚ ˈdræɡən təˈɡɛðɚ/",
+            "linking": [
+              "have は弱形 /həv/",
+              "bonded の語末子音 /d/ が after の /æ/（母音）に続くため tap [ɾ] になり連結 [ˈbɑndɪɾæftɚ] ボンディラフター",
+              "the は弱形 /ðə/（2回）",
+              "together の to は弱形 /tə/"
+            ],
+            "kana": "ウィ ハヴ ボンディラフター ファイティング ザ エンダー ドラゴン タゥゲザー"
+          },
+          {
+            "en": "The materials have bonded perfectly to create unbreakable tools.",
+            "ja": "材料は完璧に結合して、壊れない道具を作ることができました。",
+            "ipa": "/ðə ˌmætəˈrɪəlz həv ˈbɑndɪd ˈpɚfɪktli tu kriˈeɪt ˌʌnˈbreɪkəbəl ˈtulz/",
+            "linking": [
+              "the は弱形 /ðə/",
+              "have は弱形 /həv/",
+              "bonded の語末子音 /d/ が perfectly の /p/（子音）に続く",
+              "to は弱形 /tə/"
+            ],
+            "kana": "ザ マテリアルズ ハヴ ボンディッド パーフェクトリー タ クリエイト アンブレイカバル ツールズ"
+          }
+        ]
+      },
+      {
+        "type": "past_perfect",
+        "label": "過去完了形（had + 過去分詞）",
+        "text": "had bonded",
+        "ipa": "/həd ˈbɑndɪd/",
+        "examples": [
+          {
+            "en": "The resources had bonded completely before the explosion destroyed them.",
+            "ja": "爆発がそれらを破壊する前に、リソースは完全に結合していました。",
+            "ipa": "/ðə ˈrɛsɚsɪz həd ˈbɑndɪd kəmˈplitli bɪˈfɔɚ ðə ɪkˈsploʊʒən dɪˈstrɔɪd ðɛm/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "had は弱形 /həd/",
+              "bonded の語末子音 /d/ が completely の /k/（子音）に続く",
+              "them は弱形 /ðɛm/"
+            ],
+            "kana": "ザ リソーシーズ ハド ボンディッド コンプリートリー ビフォア ザ イクスプロウジョン ディストロイド ゼム"
+          },
+          {
+            "en": "We had bonded as teammates long before we ever faced the Ender dragon.",
+            "ja": "私たちがエンダードラゴンに直面するずっと前に、チームメイトとして絆を深めていました。",
+            "ipa": "/wi həd ˈbɑndɪɾəz ˈtimˌmeɪts ˈlɔŋ bɪˈfɔɚ wi ˈɛvɚ ˈfeɪst ðə ˈɛndɚ ˈdræɡən/",
+            "linking": [
+              "had は弱形 /həd/",
+              "bonded の語末子音 /d/ が as の /ə/（母音・弱形）に続くため tap [ɾ] になり連結 [ˈbɑndɪɾəz] ボンディラズ",
+              "the は弱形 /ðə/"
+            ],
+            "kana": "ウィ ハド ボンディラズ ティームメイツ ロング ビフォア ウィ エヴァー フェイスド ザ エンダー ドラゴン"
+          }
+        ]
+      },
+      {
+        "type": "present_perfect_progressive",
+        "label": "現在完了進行形（has/have been + -ing）",
+        "text": "has been bonding",
+        "ipa": "/həz bɪn ˈbɑndɪŋ/",
+        "examples": [
+          {
+            "en": "The materials have been bonding in the furnace for several minutes now.",
+            "ja": "材料は今、炉の中で数分間結合し続けています。",
+            "ipa": "/ðə ˌmætəˈrɪəlz həv bɪn ˈbɑndɪŋ ɪn ðə ˈfɝnɪs fɔɚ ˈsɛvərəl ˈmɪnɪts ˈnaʊ/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "have は弱形 /həv/",
+              "been は弱形 /bɪn/",
+              "for は弱形 /fɔɚ/"
+            ],
+            "kana": "ザ マテリアルズ ハヴ ビン ボンディング イン ザ ファーニス フォー セヴァラル ミニッツ ナウ"
+          },
+          {
+            "en": "Our team has been bonding over weeks of intense survival experiences.",
+            "ja": "私たちのチームは数週間の激しいサバイバル経験の中で結びつき続けています。",
+            "ipa": "/ˈaʊɚ ˈtim həz bɪn ˈbɑndɪŋ ˈoʊvɚ ˈwɪkzəv ɪnˈtɛns sɚˈvaɪvəl ɪkˈspɪriənsɪz/",
+            "linking": [
+              "has は弱形 /həz/",
+              "been は弱形 /bɪn/",
+              "weeks の語末 /z/ が of の /ə/（母音・弱形）に連結 [ˈwiks əv] ウィークザヴ",
+              "of は弱形 /əv/"
+            ],
+            "kana": "アワー ティーム ハズ ビン ボンディング オーヴァー ウィークザヴ インテンス サーヴァイヴァル イクスペリアンシーズ"
+          }
+        ]
+      }
+    ]
+  },
+  "future_forms": {
+    "forms": [
+      {
+        "type": "future",
+        "label": "単純未来形（will + 原形）",
+        "text": "will bond",
+        "ipa": "/wɪl ˈbɑnd/",
+        "examples": [
+          {
+            "en": "The materials will bond together in the furnace.",
+            "ja": "材料は炉の中で一緒に結合するでしょう。",
+            "ipa": "/ðə ˌmætəˈrɪəlz wɪl ˈbɑnd təˈɡɛðɚ ɪn ðə ˈfɝnɪs/",
+            "linking": [
+              "the は弱形 /ðə/",
+              "materials の語末 /z/ が will の /w/（子音）に続く",
+              "together の to は弱形 /tə/"
+            ],
+            "kana": "ザ マテリアルズ ウィル ボンド タゥゲザー イン ザ ファーニス"
+          },
+          {
+            "en": "We'll bond as a team after completing this challenging quest together.",
+            "ja": "私たちはこの難しいクエストをクリアしたら、チームとして結びつくでしょう。",
+            "ipa": "/wil ˈbɑnd əz ə ˈtim ˈæftɚ kəmˈpliːtɪŋ ðɪs ˈtʃælɪndʒɪŋ ˈkwɛst təˈɡɛðɚ/",
+            "linking": [
+              "we'll の 'll は /l/",
+              "bond の語末 /d/ が as の /æ/（母音）に続くため tap [ɾ] になり連結 [ˈbɑndɪɾəz] ボンディラズ",
+              "as の語末 /z/ が a の /ə/（弱形）に連結",
+              "completing の語末 /ŋ/ が this の /ð/（子音）に続く",
+              "together の to は弱形 /tə/"
+            ],
+            "kana": "ウィール ボンディラズ ア ティーム アフター コンプリーティング ディス チャレンジング クエスト タゥゲザー"
+          }
+        ]
+      },
+      {
+        "type": "future_progressive",
+        "label": "未来進行形（will be + -ing）",
+        "text": "will be bonding",
+        "ipa": "/wɪl bi ˈbɑndɪŋ/",
+        "examples": [
+          {
+            "en": "The resources will be bonding in the furnace for several hours.",
+            "ja": "リソースは炉の中で数時間、結合し続けるでしょう。",
+            "ipa": "/ðə ˈrɛsɚsɪz wɪl bi ˈbɑndɪŋ ɪn ðə ˈfɝnɪs fɔɚ ˈsɛvərəl ˈaʊɚz/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "be は弱形 /bɪ/",
+              "for は弱形 /fɚ/"
+            ],
+            "kana": "ザ リソーシーズ ウィル ビー ボンディング イン ザ ファーニス フォー セヴァラル アワーズ"
+          },
+          {
+            "en": "You'll be bonding with fellow adventurers over your shared mining experiences.",
+            "ja": "あなたは共有の採掘経験を通じて、冒険者の仲間と結びついていくでしょう。",
+            "ipa": "/jul bi ˈbɑndɪŋ wɪð ˈfɛloʊ ədˈvɛntʃɚɚz ˈoʊvɚ jɔɚ ˈʃɛɹd ˈmaɪnɪŋ ɪkˈspɪriənsɪz/",
+            "linking": [
+              "you'll の 'll は /l/",
+              "be は弱形 /bɪ/",
+              "fellow の語末 /oʊ/ が adventurers の /ə/（弱形）に連結 [ˈfɛloʊ ədˈvɛntʃɚɚz] フェロー アドヴェンチャラーズ",
+              "over の語末 /ɚ/ が your の /j/（子音）に続く",
+              "shared の語末 /d/ が mining の /m/（子音）に続く"
+            ],
+            "kana": "ユール ビー ボンディング ウィズ フェロー アドヴェンチャラーズ オーヴァー ユア シェアード マイニング イクスペリアンシーズ"
+          }
+        ]
+      },
+      {
+        "type": "future_perfect",
+        "label": "未来完了形（will have + 過去分詞）",
+        "text": "will have bonded",
+        "ipa": "/wɪl həv ˈbɑndɪd/",
+        "examples": [
+          {
+            "en": "By the time we reach the End, we will have bonded into an unbeatable team.",
+            "ja": "エンド次元に到達する時までに、私たちは倒せないチームに結合しているでしょう。",
+            "ipa": "/baɪ ðə ˈtaɪm wi ˈritʃ ðə ˈɛnd wi wɪl həv ˈbɑndɪd ˈɪntu ən ˌʌnbɪˈtæbəl ˈtim/",
+            "linking": [
+              "by の語末 /aɪ/ が the の /ð/（子音）に続く",
+              "the は弱形 /ðə/（2回）",
+              "have は弱形 /həv/",
+              "bonded の語末 /d/ が into の /ɪ/（母音）に続くため tap [ɾ] になり連結 [ˈbɑndɪɾɪntu] ボンディリントゥ",
+              "into の to は弱形 /tə/"
+            ],
+            "kana": "バイ ザ タイム ウィ リーチ ザ エンド ウィ ウィル ハヴ ボンディリントゥ アン アンビータバル ティーム"
+          },
+          {
+            "en": "The materials will have bonded completely before the next mining session begins.",
+            "ja": "次の採掘セッションが始まる前に、材料は完全に結合し終わっているでしょう。",
+            "ipa": "/ðə ˌmætəˈrɪəlz wɪl həv ˈbɑndɪd kəmˈpliːtli bɪˈfɔɚ ðə ˈnɛkst ˈmaɪnɪŋ ˈsɛʃən bɪˈɡɪnz/",
+            "linking": [
+              "the は弱形 /ðə/（2回）",
+              "have は弱形 /həv/",
+              "bonded の語末 /d/ が completely の /k/（子音）に続く"
+            ],
+            "kana": "ザ マテリアルズ ウィル ハヴ ボンディッド コンプリートリー ビフォア ザ ネクスト マイニング セッション ビギンズ"
+          }
+        ]
+      }
+    ]
+  },
   "idioms": [
     {
       "idiom": "bond over",
       "ja": "~を通じて結びつく、~で親友になる",
       "example": "We bonded over mining deep caves and discovering rare treasures.",
       "example_ja": "深い洞窟を採掘して珍しい宝物を発見することで結びつきました。",
-      "ipa": "/wi ˈbɑndɪd ˈoʊvɚ ˈmaɪnɪŋ ˈdip ˈkeɪvz ənd dɪsˈkʌvərɪŋ ˈrɛɚ ˈtrɛʒɚz/",
+      "ipa": "/wi ˈbɑndɪɾoʊvɚ ˈmaɪnɪŋ ˈdip ˈkeɪvz ənd dɪsˈkʌvərɪŋ ˈrɛɚ ˈtrɛʒɚz/",
       "linking": [
         "bonded の語末子音 /d/ が over の /oʊ/ に続くため tap [ɾ] になり連結 [ˈbɑndɪɾoʊvɚ] ボンディロヴァー",
         "and の弱形 /ənd/ または /ən/"
