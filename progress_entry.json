@@ -133,7 +133,7 @@
           "ipa": "/wi prəˈɡrɛst fɑr θruː ðə əˈbændənd ˈmaɪn ˈdʊrɪŋ ˈaʊɚ ɪkˈspɪdɪʃən/",
           "linking": [
             "progressed far → /t/ + /f/ (consonant+consonant、連結なし)",
-            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/",
             "during our → /ŋ/ + /aʊ/ が連結 [ˈdʊrɪŋ ˈaʊɚ] デュアリング アワー"
           ],
           "kana": "ウィ プログレスト ファー スルー ザ アバンダンド マイン デュアリング アワー エクスペディション"
@@ -233,7 +233,7 @@
           "linking": [
             "We're → we + are contraction → /wir/",
             "progressing through → /ŋ/ + /θ/ (consonant+consonant、連結なし)",
-            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/"
           ],
           "kana": "ウィアー プログレシング スルー ザ ケイヴ システム ベリー イフェクティヴリー"
         }
@@ -262,7 +262,7 @@
           "ipa": "/wi wər prəˈɡrɛsɪŋ θruː ðə ˈmaɪn wɛn wi ɪnˈkaʊntərd ə ˈzoʊmbi/",
           "linking": [
             "were progressing → /r/ + /p/ (consonant+consonant、連結なし)、were は弱形 /wər/",
-            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/",
             "a zombie → a は弱形 /ə/、/ə/ + /z/ (vowel+consonant、連結なし)"
           ],
           "kana": "ウィ ワー プログレシング スルー ザ マイン ウェン ウィ インカウンタード ア ゾンビ"
@@ -345,7 +345,7 @@
             "By the → /aɪ/ + /ð/ (vowel+consonant、連結なし)、the は弱形 /ðə/",
             "the time → the は弱形 /ðə/、/ə/ + /t/ が連結 [ðə ˈtaɪm] ザ タイム",
             "had progressed → had は弱形 /həd/、/d/ + /p/ (consonant+consonant、連結なし)",
-            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/"
           ],
           "kana": "バイ ザ タイム ザ ストーム エンデド、ウィ ハド プログレスト ハーフウェイ スルー ザ ケイヴ システム"
         },
@@ -356,7 +356,7 @@
           "linking": [
             "She had → /i/ + /h/ (vowel+consonant、連結なし)、had は弱形 /həd/",
             "had progressed → /d/ + /p/ (consonant+consonant、連結なし)",
-            "faster than → /r/ + /ð/ (consonant+consonant、連結なし)",
+            "faster than → faster は /ˈfæstər/ で最後が /ə/（非-rhotic）。than は /ðæn/。連結なし。",
             "anyone expected → /n/ + /ɪ/ が連結 [ˈɛniˌwʌn ɪkˈspɛktɪd] エニワン イクスペクティド"
           ],
           "kana": "シー ハド プログレスト ファスター ザン エニワン イクスペクティド ビフォー ザ サーバー リセット アキャード"
@@ -377,7 +377,7 @@
             "have been → have は弱形 /həv/、been は弱形 /bɪn/、/v/ + /b/ (consonant+consonant、連結なし)",
             "been progressing → /n/ + /p/ (consonant+consonant、連結なし)",
             "progressing steadily → /ŋ/ + /s/ (consonant+consonant、連結なし)",
-            "through the → /θ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/",
             "for weeks → /r/ + /w/ (consonant+consonant、連結なし)"
           ],
           "kana": "ウィ ハヴ ビン プログレシング ステディリー スルー ザ ネザー フォーティス フォー ウィークス"
@@ -394,6 +394,107 @@
             "without any → /t/ + /ɛ/ が連結 [wɪðˈaʊt ˈɛni] ウィザウト エニー"
           ],
           "kana": "ザ コンストラクション プロジェクト ハズ ビン プログレシング リマーカブリー ウェル ウィザウト エニー セットバックス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will progress",
+      "ipa": "/wɪl ˈprɑɡrɛs/",
+      "examples": [
+        {
+          "en": "We will progress through the nether much faster once we find obsidian.",
+          "ja": "黒曜石を見つけたら、私たちはネザーをより速く進むだろう。",
+          "ipa": "/wi wɪl ˈprɑɡrɛs θruː ðə ˈnɛðər mʌtʃ ˈfæstər wʌns wi faɪnd ˌɑbˈsɪdiən/",
+          "linking": [
+            "will progress → /l/ + /p/ (consonant+consonant、連結なし)",
+            "through the → /uː/ + /ð/（母音+子音、通常の流れ）。the は弱形 /ðə/",
+            "the nether → the は弱形 /ðə/、/ə/ + /n/ が連結 [ðə ˈnɛðər] ザ ネザー",
+            "much faster → /tʃ/ + /f/ (consonant+consonant、連結なし)",
+            "find obsidian → /d/ + /ɑ/ が連結 [faɪnd ˌɑbˈsɪdiən] ファインド オブシディアン"
+          ],
+          "kana": "ウィ ウィル プログレス スルー ザ ネザー マッチ ファスター ワンス ウィ ファインド ノブシディアン"
+        },
+        {
+          "en": "The construction will progress smoothly if everyone contributes their materials.",
+          "ja": "みんなが材料を提供すれば、建設はスムーズに進むだろう。",
+          "ipa": "/ðə kənˈstrʌkʃən wɪl prəˈɡrɛs ˈsmuːðli ɪf ˈɛvriˌwʌn kənˈtrɪbjuːts ðɛər məˈtɪriəlz/",
+          "linking": [
+            "the construction → the は弱形 /ðə/、/ə/ + /k/ が連結 [ðə kənˈstrʌkʃən] ザ コンストラクション",
+            "will progress → /l/ + /p/ (consonant+consonant、連結なし)",
+            "progress smoothly → /s/ + /s/ (consonant+consonant、連結なし)",
+            "if everyone → /f/ + /ɛ/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ザ コンストラクション ウィル プログレス スムーズリー イフ エブリワン コントリビューツ ゼア マテリアルズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be progressing",
+      "ipa": "/wɪl bi prəˈɡrɛsɪŋ/",
+      "examples": [
+        {
+          "en": "While you're mining, we will be progressing with the farm construction.",
+          "ja": "君が採掘している間に、私たちは農場建設を進めるだろう。",
+          "ipa": "/waɪl jʊr ˈmaɪnɪŋ | wi wɪl bi prəˈɡrɛsɪŋ wɪð ðə ˈfɑːrm kənˈstrʌkʃən/",
+          "linking": [
+            "While you're → /l/ + /j/ (consonant+consonant、連結なし)、you're は /jʊr/",
+            "you're mining → /r/ + /m/ (consonant+consonant、連結なし)",
+            "will be progressing → /l/ + /b/ (consonant+consonant、連結なし)、be は /bi/、/ŋ/ + /w/ (consonant+consonant、連結なし)",
+            "with the → with は /wɪð/、the は弱形 /ðə/、/ð/ + /ð/ (consonant+consonant、連結なし)",
+            "the farm → the は弱形 /ðə/、/ə/ + /f/ が連結 [ðə ˈfɑːrm] ザ ファーム"
+          ],
+          "kana": "ワイル ユアー マイニング、ウィ ウィル ビー プログレシング ウィズ ザ ファーム コンストラクション"
+        },
+        {
+          "en": "Tomorrow at this time, we will be progressing toward the stronghold.",
+          "ja": "明日のこの時間に、私たちは要塞に向かって進んでいるだろう。",
+          "ipa": "/təˈmɑːroʊ æt ðɪs ˈtaɪm | wi wɪl bi prəˈɡrɛsɪŋ təˈwɔːrd ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "at this → /t/ + /ð/ (consonant+consonant、連結なし)",
+            "will be progressing → /l/ + /b/ (consonant+consonant、連結なし)、/ŋ/ + /t/ (consonant+consonant、連結なし)",
+            "progressing toward → toward は /təˈwɔːrd/、/ŋ/ + /t/ (consonant+consonant、連結なし)",
+            "toward the → /d/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "the stronghold → the は弱形 /ðə/、/ə/ + /s/ が連結 [ðə ˈstrɔŋˌhoʊld] ザ ストロングホウルド"
+          ],
+          "kana": "タマロウ アット ディス タイム、ウィ ウィル ビー プログレシング タワード ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have progressed",
+      "ipa": "/wɪl həv prəˈɡrɛst/",
+      "examples": [
+        {
+          "en": "By next week, we will have progressed far enough to reach the final fortress.",
+          "ja": "来週までに、私たちは最終的な要塞に到達するほど十分に進んでいるだろう。",
+          "ipa": "/baɪ ˈnɛkst ˈwiːk | wi wɪl həv prəˈɡrɛst fɑːr ɪˈnʌf tu ˈriːtʃ ðə ˈfaɪnəl ˈfɔːrtɪs/",
+          "linking": [
+            "will have progressed → have は弱形 /həv/、/v/ + /p/ (consonant+consonant、連結なし)",
+            "progressed far → /t/ + /f/ (consonant+consonant、連結なし)",
+            "far enough → /r/ + /ɪ/ が連結 [fɑːr ɪˈnʌf] ファー イナフ",
+            "to reach → to は弱形 /tə/、/tə/ + /r/ が連結 [tə ˈriːtʃ] タ リーチ",
+            "the final → the は弱形 /ðə/、/ə/ + /f/ が連結 [ðə ˈfaɪnəl] ザ ファイナル"
+          ],
+          "kana": "バイ ネクスト ウィーク、ウィ ウィル ハヴ プログレスト ファー イナフ タ リーチ ザ ファイナル フォーティス"
+        },
+        {
+          "en": "After the redstone challenge, they will have progressed significantly in their skills.",
+          "ja": "レッドストーンチャレンジの後、彼らはスキルの大幅な進歩を遂行しているだろう。",
+          "ipa": "/ˈæftər ðə ˈrɛdˌstoʊn ˈtʃælɪndʒ | ðeɪ wɪl həv prəˈɡrɛst sɪɡˈnɪfɪkəntli ɪn ðɛər ˈskɪlz/",
+          "linking": [
+            "After the → /r/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/、after は /ˈæftər/",
+            "the redstone → the は弱形 /ðə/、/ə/ + /r/ が連結 [ðə ˈrɛdˌstoʊn] ザ レッドストウン",
+            "will have progressed → /l/ + /h/ (consonant+consonant、連結なし)、have は弱形 /həv/、/v/ + /p/ (consonant+consonant、連結なし)",
+            "progressed significantly → /t/ + /s/ (consonant+consonant、連結なし)",
+            "in their → /n/ + /ð/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "アフター ザ レッドストウン チャレンジ、ゼイ ウィル ハヴ プログレスト シグニフィカントリー イン ゼア スキルズ"
         }
       ]
     }
