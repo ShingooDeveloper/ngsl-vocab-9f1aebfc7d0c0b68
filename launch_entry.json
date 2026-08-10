@@ -260,6 +260,288 @@
           "kana": "ザ リーセント ロンチズ オブ ニュー フィーチャーズ ハブ メイド ザ ゲイム マッチ モアー インターエスティング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is launching",
+      "ipa": "/ɪz ˈlɔːntʃɪŋ/",
+      "examples": [
+        {
+          "en": "The rocket is launching from the platform right now.",
+          "ja": "ロケットが今、プラットフォームから打ち上がっています。",
+          "ipa": "/ðə ˈrɑːkɪt ɪz ˈlɔːntʃɪŋ ˈfrəm ðə ˈplætfɔːrm raɪt ˈnaʊ/",
+          "linking": [
+            "is 弱形 /ɪz/。rocket と組み合わせられる",
+            "from 弱形 /frəm/。the の直前で使われる",
+            "the 弱形 /ðə/（platform の前で×1、platform の後で×1）"
+          ],
+          "kana": "ザ ラーキット イズ ローンチング フラム ザ プラットフォーム ライト ナウ"
+        },
+        {
+          "en": "We are launching our new Minecraft server right now.",
+          "ja": "私たちは今、新しいマインクラフトサーバーを立ち上げています。",
+          "ipa": "/wi ər ˈlɔːntʃɪŋ ˈaʊər ˈnjuː ˈmaɪnkræft ˈsɝːvər raɪt ˈnaʊ/",
+          "linking": [
+            "are 弱形 /ər/。we の後で使われる",
+            "our /ˈaʊər/。launching の直前。弱形化は低い"
+          ],
+          "kana": "ウィ アー ローンチング アワー ニュー マインクラフト サーバー ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was launching",
+      "ipa": "/wəz ˈlɔːntʃɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper was launching attacks when we spotted it.",
+          "ja": "クリーパーが攻撃を仕掛けていた時、私たちはそれを見つけました。",
+          "ipa": "/ðə ˈkriːpər wəz ˈlɔːntʃɪŋ əˈtæks wɛn wi ˈspɑːtɪd ɪt/",
+          "linking": [
+            "the 弱形 /ðə/。creeper に連結",
+            "was 弱形 /wəz/。launching の直前",
+            "attacks が when と続く（子音+子音なので連結なし）"
+          ],
+          "kana": "ザ クリーパー ワズ ローンチング アタックス ウェン ウィ スポッティド イット"
+        },
+        {
+          "en": "While we were defending the base, they were launching raids from multiple angles.",
+          "ja": "私たちが基地を防御していた間、彼らは複数の角度から攻撃を仕掛けていました。",
+          "ipa": "/waɪl wi wər dɪˈfɛndɪŋ ðə ˈbeɪs | ðeɪ wər ˈlɔːntʃɪŋ ˈreɪdz ˈfrəm ˈmʌltɪpl ˈæŋɡəlz/",
+          "linking": [
+            "were 弱形 /wər/（×2：we の後と they の後）",
+            "the 弱形 /ðə/（base の前）",
+            "from 弱形 /frəm/"
+          ],
+          "kana": "ワイル ウィ ワー ディフェンディング ザ ベース、ゼイ ワー ローンチング レイズ フラム マルチプル エングルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been launching",
+      "ipa": "/həd bɪn ˈlɔːntʃɪŋ/",
+      "examples": [
+        {
+          "en": "We had been launching fireworks all night before the massive explosion happened.",
+          "ja": "大きな爆発が起こる前、私たちは一晩中花火を打ち上げていました。",
+          "ipa": "/wi həd bɪn ˈlɔːntʃɪŋ ˈfaɪərwɜːrks ˈɔːl ˈnaɪt bɪˈfɔːr ðə ˈmæsɪv ɪkˈsploʊʒən ˈhæpənd/",
+          "linking": [
+            "had 弱形 /həd/。been の直前",
+            "been 弱形 /bɪn/。launching の直前",
+            "the 弱形 /ðə/。massive に連結"
+          ],
+          "kana": "ウィ ハド ビン ローンチング ファイアワークス オール ナイト ビフォー ザ マッシブ イクスプローション ハップンド"
+        },
+        {
+          "en": "By the time the admin arrived, the players had been launching massive raids for hours.",
+          "ja": "管理者が到着した時までに、プレイヤーたちは何時間も大規模な襲撃を仕掛けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn əˈraɪvd | ðə ˈpleɪərz həd bɪn ˈlɔːntʃɪŋ ˈmæsɪv ˈreɪdz ˈfɔːr ˈaʊərz/",
+          "linking": [
+            "the 弱形 /ðə/（×3：time の前、admin の前、players の前）",
+            "had 弱形 /həd/",
+            "been 弱形 /bɪn/"
+          ],
+          "kana": "バイ ザ タイム ザ アドミン アライブド、ザ プレイヤーズ ハド ビン ローンチング マッシブ レイズ フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has launched",
+      "ipa": "/həz ˈlɔːntʃt/",
+      "examples": [
+        {
+          "en": "We have launched our Minecraft server and it's running smoothly.",
+          "ja": "我々はマインクラフトサーバーを立ち上げており、スムーズに動作しています。",
+          "ipa": "/wi həv ˈlɔːntʃt ˈaʊər ˈmaɪnkræft ˈsɝːvər ənd ɪts ˈrʌnɪŋ ˈsmuːðli/",
+          "linking": [
+            "have は弱形 /həv/ で末尾は /v/（子音）。launched は /ˈlɔːntʃt/ で先頭は /l/（子音）。子音+子音なので連結なし [həv ˈlɔːntʃt] ハブ ロンチド",
+            "launched の d が our に連結 [ˈlɔːntʃt ˈaʊər] ロンチド アワー",
+            "and は弱形 /ənd/ または /ən/。it's に続く"
+          ],
+          "kana": "ウィ ハブ ロンチド アワー マインクラフト サーバー アンド イッツ ラニング スムーズリー"
+        },
+        {
+          "en": "I have launched several arrows at the creeper since the battle started.",
+          "ja": "戦闘が始まった以来、クリーパーに向かっていくつかの矢を発射しています。",
+          "ipa": "/aɪ həv ˈlɔːntʃt ˈsɛvərəl ˈæroʊz æt ðə ˈkriːpər sɪns ðə ˈbætəl ˈstɑːrtɪd/",
+          "linking": [
+            "have は弱形 /həv/ で末尾は /v/（子音）。launched は /ˈlɔːntʃt/ で先頭は /l/（子音）。子音+子音なので連結なし [həv ˈlɔːntʃt] ハブ ロンチド",
+            "launched と several は子音+子音なので連結なし [ˈlɔːntʃt ˈsɛvərəl] ロンチド セブラル",
+            "at と the は子音+子音なので連結なし。the は弱形 /ðə/ [æt ðə] アット ザ",
+            "since は /sɪns/。末尾の /s/ と the の /ð/ は子音+子音なので連結なし。the は弱形 /ðə/ [sɪns ðə] シンス ザ"
+          ],
+          "kana": "アイ ハブ ロンチド セブラル アローズ アット ザ クリーパー シンス ザ バトル スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had launched",
+      "ipa": "/həd ˈlɔːntʃt/",
+      "examples": [
+        {
+          "en": "By the time the raid began, we had already launched our defensive strategy.",
+          "ja": "襲撃が始まるまでに、我々はすでに防御戦略を立ち上げていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd bɪˈɡæn | wi həd ˈɔːlrɛdi ˈlɔːntʃt ˈaʊər dɪˈfɛnsɪv ˈstrætədʒi/",
+          "linking": [
+            "the は弱形 /ðə/ で末尾は /ə/。time は /ˈtaɪm/ で先頭は /t/。母音+子音なので連結なし [ðə ˈtaɪm] ザ タイム",
+            "the は弱形 /ðə/ で末尾は /ə/。raid は /ˈreɪd/ で先頭は /r/。母音+子音なので連結なし [ðə ˈreɪd] ザ レイド",
+            "had の d が already に連結（子音+母音）[həd ˈɔːlrɛdi] ハド オールレディ",
+            "launched の d が our に連結 [ˈlɔːntʃt ˈaʊər] ロンチド アワー"
+          ],
+          "kana": "バイ ザ タイム ザ レイド ビガン、ウィ ハド オールレディ ロンチド アワー ディフェンシヴ ストラテジー"
+        },
+        {
+          "en": "The Ender Dragon had launched its devastating beam attack before we could flee.",
+          "ja": "エンダードラゴンが破壊的なビーム攻撃を発射してから、我々は逃げることができました。",
+          "ipa": "/ðə ˈɛndər ˈdræɡən həd ˈlɔːntʃt ɪts ˌdɛvəˈsteɪtɪŋ ˈbim əˈtæk bɪˈfɔːr wi ˈkʊd ˈfli/",
+          "linking": [
+            "the は弱形 /ðə/ で末尾は /ə/。Ender は /ˈɛndər/ で先頭は /ɛ/。母音+子音なので連結なし [ðə ˈɛndər ˈdræɡən] ザ エンダー ドラゴン",
+            "had は弱形 /həd/ で末尾は /d/（子音）。launched は /ˈlɔːntʃt/ で先頭は /l/（子音）。子音+子音なので連結なし [həd ˈlɔːntʃt] ハド ロンチド",
+            "its は弱形 /ɪts/ で末尾は /s/（子音）。devastating は /ˌdɛvəˈsteɪtɪŋ/ で先頭は /d/（子音）。子音+子音なので連結なし",
+            "before の r が we に続く（子音+子音なので連結なし）[bɪˈfɔːr wi] ビフォー ウィ"
+          ],
+          "kana": "ザ エンダー ドラゴン ハド ロンチド イッツ デヴァステイティング ビーム アタック ビフォー ウィ クッド フリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been launching",
+      "ipa": "/həz bɪn ˈlɔːntʃɪŋ/",
+      "examples": [
+        {
+          "en": "We have been launching attacks on the enemy base all day long.",
+          "ja": "我々は一日中、敵の基地への攻撃を仕掛けています。",
+          "ipa": "/wi həv bɪn ˈlɔːntʃɪŋ əˈtæks ɑn ðə ˈɛnəmi ˈbeɪs ˈɔːl ˈdeɪ ˈlɔŋ/",
+          "linking": [
+            "have の /v/ と been の /b/ は子音+子音なので連結なし [həv bɪn] ハブ ビン",
+            "been は弱形 /bɪn/。launching と連結（子音+母音）[bɪn ˈlɔːntʃɪŋ] ビン ローンチング",
+            "on の n が the に続く（子音+子音なので連結なし）。the は弱形 /ðə/ [ɑn ðə] オン ザ",
+            "all の l が day に続く（子音+子音なので連結なし）"
+          ],
+          "kana": "ウィ ハブ ビン ローンチング アタックス オン ザ エネミー ベース オール デイ ロング"
+        },
+        {
+          "en": "I have been launching fireworks since the festival started an hour ago.",
+          "ja": "祭りが1時間前に始まった以来、花火を打ち上げています。",
+          "ipa": "/aɪ həv bɪn ˈlɔːntʃɪŋ ˈfaɪərwɜːrks sɪns ðə ˈfɛstɪvəl ˈstɑːrtɪd ən ˈaʊər əˈɡoʊ/",
+          "linking": [
+            "have の /v/ と been の /b/ は子音+子音なので連結なし [həv bɪn] ハブ ビン",
+            "been は弱形 /bɪn/。launching と連結（子音+母音）[bɪn ˈlɔːntʃɪŋ] ビン ローンチング",
+            "since は /sɪns/。末尾の /s/ と the の /ð/ は子音+子音なので連結なし。the は弱形 /ðə/ [sɪns ðə] シンス ザ",
+            "an は弱形 /ən/。hour と連結 [ən ˈaʊər] アン アワー"
+          ],
+          "kana": "アイ ハブ ビン ローンチング ファイアワークス シンス ザ フェスティバル スターティド アン アワー アゴー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will launch",
+      "ipa": "/wɪl ˈlɔːntʃ/",
+      "examples": [
+        {
+          "en": "We will launch a new update to the server next week.",
+          "ja": "私たちは来週、サーバーに新しいアップデートをリリースします。",
+          "ipa": "/wi wɪl ˈlɔːntʃ ə ˈnu ˈʌpdeɪt tu ðə ˈsɝːvər ˈnɛkst ˈwik/",
+          "linking": [
+            "will は弱形 /wəl/。launch に続く（子音+子音なので連結なし） [wɪl ˈlɔːntʃ] ウィル ロンチ",
+            "a は弱形 /ə/。new と連結 [ə ˈnu] ア ニュー",
+            "to は弱形 /tə/。the に続く（弱形）",
+            "the は弱形 /ðə/。server と連結 [ðə ˈsɝːvər] ザ サーバー"
+          ],
+          "kana": "ウィ ウィル ロンチ ア ニュー アップデイト トゥ ザ サーバー ネクスト ウィーク"
+        },
+        {
+          "en": "The team will launch fireworks at the victory celebration tomorrow night.",
+          "ja": "チームは明日の夜、勝利の祝いで花火を打ち上げます。",
+          "ipa": "/ðə ˈtim wɪl ˈlɔːntʃ ˈfaɪərwɜːrks æt ðə ˈvɪktəri ˌsɛləˈbreɪʃən təˈmɑːroʊ ˈnaɪt/",
+          "linking": [
+            "the は弱形 /ðə/。team と連結 [ðə ˈtim] ザ ティーム",
+            "will は弱形 /wəl/。fireworks に続く（子音+子音なので連結なし） [wɪl ˈfaɪərwɜːrks] ウィル ファイアワークス",
+            "at は /æt/。the に続く（子音+子音なので連結なし）",
+            "the は弱形 /ðə/。victory と連結 [ðə ˈvɪktəri] ザ ビクトリー"
+          ],
+          "kana": "ザ ティーム ウィル ロンチ ファイアワークス アット ザ ビクトリー セレブレイション トゥモロー ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be launching",
+      "ipa": "/wɪl bi ˈlɔːntʃɪŋ/",
+      "examples": [
+        {
+          "en": "They will be launching raids on the enemy fortress while we prepare our defenses.",
+          "ja": "私たちが防御を準備している間、彼らは敵の要塞への襲撃を仕掛けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈlɔːntʃɪŋ ˈreɪdz ɑn ðɪ ˈɛnəmi ˈfɔːrtrəs waɪl wi prɪˈpɛr ˈaʊər dɪˈfɛnsɪz/",
+          "linking": [
+            "will は弱形 /wəl/。be に続く（子音+子音なので連結なし） [wɪl bi] ウィル ビー",
+            "be は弱形 /bi/。launching に続く（子音+母音なので連結） [bi ˈlɔːntʃɪŋ] ビ ローンチング",
+            "on の n が the に続く（子音+子音）。the は弱形 /ðɪ/ [ɑn ðɪ] オン ディ",
+            "while の /l/ と we の /w/ は子音+子音なので連結なし"
+          ],
+          "kana": "ゼイ ウィル ビ ローンチング レイズ オン ディ エネミー フォートレス ワイル ウィ プリペア アワー ディフェンセズ"
+        },
+        {
+          "en": "I will be launching fireworks all night long at the celebration.",
+          "ja": "私は祝いで一晩中花火を打ち上げるでしょう。",
+          "ipa": "/aɪ wɪl bi ˈlɔːntʃɪŋ ˈfaɪərwɜːrks ˈɔːl ˈnaɪt ˈlɔŋ æt ðə ˌsɛləˈbreɪʃən/",
+          "linking": [
+            "will は弱形 /wəl/。be に続く（子音+子音） [wɪl bi] ウィル ビー",
+            "be は弱形 /bi/。launching と連結 [bi ˈlɔːntʃɪŋ] ビ ローンチング",
+            "all の l が night に続く（子音+子音なので連結なし）",
+            "the は弱形 /ðə/。celebration と連結 [ðə ˌsɛləˈbreɪʃən] ザ セレブレイション"
+          ],
+          "kana": "アイ ウィル ビ ローンチング ファイアワークス オール ナイト ロング アット ザ セレブレイション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have launched",
+      "ipa": "/wɪl həv ˈlɔːntʃt/",
+      "examples": [
+        {
+          "en": "By the end of the month, we will have launched three new game modes for all players.",
+          "ja": "月の終わりまでに、私たちはすべてのプレイヤーのための3つの新しいゲームモードを立ち上げているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ | wi wɪl həv ˈlɔːntʃt ˈθri ˈnu ˈɡeɪm ˈmoʊdz ˈfɔːr ˈɔːl ˈpleɪərz/",
+          "linking": [
+            "the は弱形 /ðə/。end と連結 [ðə ˈɛnd] ザ エンド",
+            "of は弱形 /əv/。the に連結 [əv ðə] オブ ザ",
+            "the は弱形 /ðə/。month と連結 [ðə ˈmʌnθ] ザ マンス",
+            "have は弱形 /həv/。末尾の /v/ と launched の /l/ は子音+子音なので連結なし [həv ˈlɔːntʃt] ハブ ロンチド",
+            "for は弱形 /fɔːr/ または /fɚ/。all と続く（子音+子音）"
+          ],
+          "kana": "バイ ザ エンド オブ ザ マンス、ウィ ウィル ハブ ロンチド スリー ニュー ゲイム モーズ フォー オール プレイヤーズ"
+        },
+        {
+          "en": "The admin will have launched the server maintenance by the time everyone wakes up.",
+          "ja": "管理者は誰もが目覚めるまでにサーバーメンテナンスを開始しているでしょう。",
+          "ipa": "/ðə ˈædmɪn wɪl həv ˈlɔːntʃt ðə ˈsɝːvər ˌmeɪntənəns baɪ ðə ˈtaɪm ˈɛvriwʌn ˈweɪks ˈʌp/",
+          "linking": [
+            "the は弱形 /ðə/。admin と連結 [ðə ˈædmɪn] ザ アドミン",
+            "will は弱形 /wəl/。have に続く（子音+子音なので連結なし） [wɪl həv] ウィル ハブ",
+            "have は弱形 /həv/。launched に続く（子音+子音なので連結なし） [həv ˈlɔːntʃt] ハブ ロンチド",
+            "the は弱形 /ðə/。server と連結 [ðə ˈsɝːvər] ザ サーバー",
+            "by は /baɪ/。the に続く（子音+子音）。the は弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ウィル ハブ ロンチド ザ サーバー メイントナンス バイ ザ タイム エブリワン ウェイクス アップ"
+        }
+      ]
     }
   ]
 }
