@@ -191,6 +191,96 @@
           "kana": "セラブレイティング ア・チーヴメンツ イズ ア ウェイ トゥ ビルド コミュニティー スピリット イン マルチプレイアー サーバーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will celebrate",
+      "ipa": "/wɪl ˈsɛl.ə.breɪt/",
+      "examples": [
+        {
+          "en": "Players will celebrate as soon as the end portal activates.",
+          "ja": "エンドポータルが起動したらすぐ、プレイヤーたちは祝うでしょう。",
+          "ipa": "/ˈpleɪ.ərz wɪl ˈsɛl.ə.breɪt əz ˈsun əz ðə ˈɛnd ˈpɔr.təl ˈæk.tɪ.veɪts/",
+          "linking": [
+            "will celebrate → will /l/ が子音 /s/ に続く",
+            "as soon → as の末尾 /z/ が子音 /s/ に続く",
+            "portal activates → portal /l/ が母音 /æ/ に連結 [ˈpɔr.təl ˈæk.tɪ.veɪts]"
+          ],
+          "kana": "プレイアーズ ウィル セラブレイト アズ スーン アズ ザ エンド ポーラル アクティベイツ"
+        },
+        {
+          "en": "After mining diamonds all day, I will celebrate with my friends at the base.",
+          "ja": "一日中ダイヤモンドを採掘した後、基地で友達と祝うでしょう。",
+          "ipa": "/ˈæf.tər ˈmaɪ.nɪŋ ˈdaɪ.ə.məndz ɔl ˈdeɪ | aɪ wɪl ˈsɛl.ə.breɪt wɪð maɪ ˈfrɛndz ət ðə ˈbeɪs/",
+          "linking": [
+            "will celebrate → will /l/ が子音 /s/ に続く",
+            "celebrate with → celebrate /t/ が子音 /w/ に続く",
+            "at the → at の末尾が未開放、the は弱形 [æt̚ ðə]"
+          ],
+          "kana": "アフター マイニング ダイアモンズ オール デイ、アイ ウィル セラブレイト ウィズ マイ フレンズ アッ ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be celebrating",
+      "ipa": "/wɪl bi ˈsɛl.ə.breɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "Players will be celebrating their victory for the rest of the month.",
+          "ja": "プレイヤーたちはその月の残りの間、勝利を祝い続けるでしょう。",
+          "ipa": "/ˈpleɪ.ərz wɪl bi ˈsɛl.ə.breɪ.tɪŋ ðɛr ˈvɪk.tə.ri fər ðə ˈrɛst əv ðə ˈmʌnθ/",
+          "linking": [
+            "will be celebrating → will /l/ が子音 /b/ に続く",
+            "celebrating their → celebrating の末尾 /ŋ/ が子音 /ð/ に続く",
+            "for the → for は弱形 /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "プレイアーズ ウィル ビー セラブレイティング ゼア ヴィクトリー ファー ザ レスト アヴ ザ マンス"
+        },
+        {
+          "en": "We will be celebrating the new update with building contests all throughout next week.",
+          "ja": "私たちは来週ずっと建築コンテストで新しいアップデートを祝い続けるでしょう。",
+          "ipa": "/wi wɪl bi ˈsɛl.ə.breɪ.tɪŋ ðə ˈnu ʌpˈdeɪt wɪð ˈbɪl.dɪŋ ˈkɑn.tɛsts ɔl θruˈaʊt ˈnɛkst ˈwik/",
+          "linking": [
+            "will be celebrating → will /l/ + be /b/ (連結なし)、celebrating の末尾 /ŋ/ が次へ続く",
+            "celebrating the → celebrating /ŋ/ + the /ð/ (連結なし)、the は弱形",
+            "with building → with は弱形、building /b/ に続く"
+          ],
+          "kana": "ウィ ウィル ビー セラブレイティング ザ ニュー アップデイト ウィズ ビルディング コンテスツ オール スルーアウト ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have celebrated",
+      "ipa": "/wɪl həv ˈsɛl.ə.breɪ.tɪd/",
+      "examples": [
+        {
+          "en": "By the time summer arrives, everyone will have celebrated their personal achievements.",
+          "ja": "夏が到来する頃には、全員が個人的な成果を祝い終わっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈsʌm.ər əˈraɪvz | ˈɛv.ri.wʌn wɪl həv ˈsɛl.ə.breɪ.tɪd ðɛr ˌpɝ.soʊn.əl əˈtʃiv.mənts/",
+          "linking": [
+            "by the → by の末尾、the は弱形 /ðə/",
+            "will have celebrated → will /l/ + have /h/ (連結なし)、have は弱形 /həv/",
+            "celebrated their → celebrated /d/ が子音 /ð/ に続く [ˈsɛl.ə.breɪ.tɪd̚ ðɛr]"
+          ],
+          "kana": "バイ ザ タイム サマー ア・ライブズ、エヴリワン ウィル ハヴ セラブレイティッド ゼア パーソナル ア・チーヴメンツ"
+        },
+        {
+          "en": "They will have celebrated completing the monument project long before winter maintenance.",
+          "ja": "冬のメンテナンス前に、彼らはモニュメントプロジェクトの完成を祝い終わっているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈsɛl.ə.breɪ.tɪd kəmˈplit.ɪŋ ðə ˈmɑn.jə.wɛnt ˈprɑ.dʒɛkt lɔŋ bɪˈfɔr ˈwɪn.tər ˈmeɪn.tə.nəns/",
+          "linking": [
+            "will have celebrated → will /l/ + have /h/ (連結なし)、have は弱形 /həv/",
+            "completing the → completing /ŋ/ + the /ð/ (連結なし)、the は弱形",
+            "monument project → monument /t/ が子音 /p/ に続く"
+          ],
+          "kana": "ザイ ウィル ハヴ セラブレイティッド コムプリーティング ザ モニュメント プロジェクト ロング ビフォア ウィンター メインテナンス"
+        }
+      ]
     }
   ]
 }
