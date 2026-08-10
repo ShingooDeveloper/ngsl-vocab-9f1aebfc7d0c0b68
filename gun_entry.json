@@ -258,7 +258,7 @@
           "ja": "深い地下のダイヤモンドブロックを探し当てるのに時間がかかります。",
           "ipa": "/ˈɡʌnɪŋ ˈfɔːr ðə ˈdaɪəmənd ˈblɑːks ˈdiːp ˌʌndərˈɡraʊnd ˈteɪks ˈtaɪm/",
           "linking": [
-            "gunning は /ˈɡʌnɪŋ/。for は弱形 /fə/ で連結 [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
+            "gunning は /ˈɡʌnɪŋ/。for は弱形 /fə/ で続く [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
             "for は弱形 /fə/。the に連結 [ˈfɔːr ðə] フォー ザ",
             "the の /ð/ が diamond に連結 [ðə ˈdaɪəmənd] ザ ダイアモンド",
             "diamond は /ˈdaɪəmənd/。blocks に続く",
@@ -273,7 +273,7 @@
           "ipa": "/ðeɪ ɑr ˈɡʌnɪŋ ˈdaʊn ˈweɪvz əv ˈmɑːbz əˈtækɪŋ ˈfrɑm ðə ˈpɔːrtəl/",
           "linking": [
             "they は /ðeɪ/。are に続く [ðeɪ ɑr] ゼイ アー",
-            "are は弱形 /ər/ で gunning に連結 [ɑr ˈɡʌnɪŋ] アー ガンニング",
+            "are は弱形 /ər/。gunning に続く [ɑr ˈɡʌnɪŋ] アー ガンニング",
             "gunning の /ŋ/ が down に続く（子音+子音、連結なし）",
             "waves の /z/ が of に連結。of は弱形 /əv/ [ˈweɪvz əv] ウェイズ オブ",
             "of の /v/ が mobs に連結 [əv ˈmɑːbz] オブ モブズ",
@@ -282,6 +282,338 @@
             "the の /ð/ が portal に連結 [ðə ˈpɔːrtəl] ザ ポータル"
           ],
           "kana": "ゼイ アー ガンニング ダウン ウェイズ オブ モブズ アタッキング フラム ザ ポータル"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is gunning",
+      "ipa": "/ɪz ˈɡʌnɪŋ/",
+      "examples": [
+        {
+          "en": "The sniper is gunning for the enemy base on the hilltop.",
+          "ja": "スナイパーは丘の上の敵基地を狙っています。",
+          "ipa": "/ðə ˈsnaɪpər ɪz ˈɡʌnɪŋ ˈfɔːr ðə ˈɛnəmi ˈbeɪs ɑn ðə ˈhɪltɑp/",
+          "linking": [
+            "the は弱形 /ðə/。sniper に連結 [ðə ˈsnaɪpər] ザ スナイパー",
+            "sniper の /r/ が is に続く（子音+子音、連結なし）。is は弱形 /ɪz/ [ˈsnaɪpər ɪz] スナイパー イズ",
+            "is の /z/ が gunning に続く（子音+子音、連結なし）。gunning の /ŋ/ が for に続く（子音+子音、連結なし）。for は弱形 /fər/ [ɪz ˈɡʌnɪŋ ˈfɔːr] イズ ガンニング フォー",
+            "for は弱形 /fər/。the に続く（子音+子音、連結なし）。[ˈfɔːr ðə] フォー ザ",
+            "the の /ð/ が enemy に連結 [ðə ˈɛnəmi] ザ エネミー",
+            "base の /s/ が on に続く（子音+子音、連結なし）。on は /ɑn/ [ˈbeɪs ɑn] ベース オン"
+          ],
+          "kana": "ザ スナイパー イズ ガンニング フォー ザ エネミー ベース オン ザ ヒルトップ"
+        },
+        {
+          "en": "Players are gunning down creepers near our settlement right now.",
+          "ja": "プレイヤーたちは今、私たちの集落の近くでクリーパーを銃撃で倒しています。",
+          "ipa": "/ˈpleɪərz ɑr ˈɡʌnɪŋ ˈdaʊn ˈkriːpərz ˈnɪr ˈaʊər ˈsɛtəlmənt ˈraɪt ˈnaʊ/",
+          "linking": [
+            "players は /ˈpleɪərz/。are に続く",
+            "are は弱形 /ər/。gunning に続く（子音+子音、連結なし）[ɑr ˈɡʌnɪŋ] アー ガンニング",
+            "gunning の /ŋ/ が down に続く（子音+子音、連結なし）",
+            "down は /ˈdaʊn/。creepers に続く",
+            "creepers の /z/ が near に続く（子音+子音、連結なし）。near は /ˈnɪr/ [ˈkriːpərz ˈnɪr] クリーパーズ ニアー",
+            "near の /r/ が our に連結 [ˈnɪr ˈaʊər] ニアー アワー",
+            "our は /ˈaʊər/。settlement に続く",
+            "settlement の /t/ が right に未開放で続く [t ˈraɪt] トゥ ライト"
+          ],
+          "kana": "プレイヤーズ アー ガンニング ダウン クリーパーズ ニアー アワー セットルメント ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was gunning",
+      "ipa": "/wəz ˈɡʌnɪŋ/",
+      "examples": [
+        {
+          "en": "We were gunning for the dragon egg when the server crashed.",
+          "ja": "サーバーがクラッシュした時、私たちはドラゴンの卵を狙っていました。",
+          "ipa": "/wi wər ˈɡʌnɪŋ ˈfɔːr ðə ˈdræɡən ˈɛɡ wɛn ðə ˈsɪstəm ˈkræʃt/",
+          "linking": [
+            "we は /wi/。were に続く [wi wər] ウィ ワー",
+            "were は弱形 /wər/。gunning に続く（子音+子音、連結なし）",
+            "gunning の /ŋ/ が for に続く（子音+子音、連結なし）。for は弱形 /fər/ [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
+            "for は弱形 /fər/。the に続く（子音+子音、連結なし）。[ˈfɔːr ðə] フォー ザ",
+            "the の /ð/ が dragon に連結 [ðə ˈdræɡən] ザ ドラゴン",
+            "egg は /ˈɛɡ/。when に続く",
+            "when は /wɛn/。the に続く",
+            "the は弱形 /ðə/。system に続く（子音+子音、連結なし）[ðə ˈsɪstəm] ザ システム"
+          ],
+          "kana": "ウィ ワー ガンニング フォー ザ ドラゴン エッグ ウェン ザ システム クラッシュド"
+        },
+        {
+          "en": "The defense tower was gunning at mobs during the nighttime raid.",
+          "ja": "防御タワーは夜間襲撃中、モブに銃撃を浴びせていました。",
+          "ipa": "/ðə dɪˈfɛns ˈtaʊər wəz ˈɡʌnɪŋ æt ˈmɑːbz ˈdʊrɪŋ ðə ˈnaɪtˌtaɪm ˈreɪd/",
+          "linking": [
+            "the は弱形 /ðə/。defense に連結 [ðə dɪˈfɛns] ザ ディフェンス",
+            "defense は /dɪˈfɛns/。tower に続く",
+            "tower の /r/ が was に続く（子音+子音、連結なし）。was は弱形 /wəz/ [ˈtaʊər wəz] タワー ワズ",
+            "was の /z/ が gunning に続く（子音+子音、連結なし）[wəz ˈɡʌnɪŋ] ワズ ガンニング",
+            "gunning の /ŋ/ が at に続く（子音+子音、連結なし）",
+            "at の /t/ が mobs に未開放で続く [æt ˈmɑːbz] アット モブズ",
+            "mobs の /z/ が during に続く（子音+子音、連結なし）[ˈmɑːbz ˈdʊrɪŋ] モブズ デューリング",
+            "the は弱形 /ðə/。nighttime に続く（子音+子音、連結なし）[ðə ˈnaɪtˌtaɪm] ザ ナイトタイム"
+          ],
+          "kana": "ザ ディフェンス タワー ワズ ガンニング アット モブズ デューリング ザ ナイトタイム レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been gunning",
+      "ipa": "/həd ˈbɪn ˈɡʌnɪŋ/",
+      "examples": [
+        {
+          "en": "By the time reinforcements arrived, we had been gunning for the stronghold for hours.",
+          "ja": "援軍が到着した時までに、私たちは何時間も要塞を狙い続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˌrɪnˈfɔːrsməns əˈraɪvd | wi həd ˈbɪn ˈɡʌnɪŋ ˈfɔːr ðə ˈstrɔːŋhoʊld ˈfɔːr ˈaʊərz/",
+          "linking": [
+            "by は /baɪ/。the に続く",
+            "the は弱形 /ðə/。time に続く（子音+子音、連結なし）[ðə ˈtaɪm] ザ タイム",
+            "we は /wi/。had に続く [wi həd] ウィ ハド",
+            "had は弱形 /həd/。been に続く [həd ˈbɪn] ハド ビン",
+            "been は弱形 /bɪn/。gunning に続く [ˈbɪn ˈɡʌnɪŋ] ビン ガンニング",
+            "gunning の /ŋ/ が for に続く（子音+子音、連結なし）。for は弱形 /fər/ [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
+            "for は弱形 /fər/。the に続く（子音+子音、連結なし）。[ˈfɔːr ðə] フォー ザ",
+            "the の /ð/ が stronghold に連結 [ðə ˈstrɔːŋhoʊld] ザ ストロングホールド",
+            "for は弱形 /fər/。hours に続く [ˈfɔːr ˈaʊərz] フォー アワーズ"
+          ],
+          "kana": "バイ ザ タイム リンフォースメンツ アライヴド、ウィ ハド ビン ガンニング フォー ザ ストロングホールド フォー アワーズ"
+        },
+        {
+          "en": "They had been gunning down the wither for ten minutes straight when victory came.",
+          "ja": "10分間ずっとウィザーを銃撃で倒し続けていた時、勝利が訪れました。",
+          "ipa": "/ðeɪ həd ˈbɪn ˈɡʌnɪŋ ˈdaʊn ðə ˈwɪðər ˈfɔːr ˈtɛn ˈmɪnɪts ˈstreɪt wɛn ˈvɪktəri ˈkeɪm/",
+          "linking": [
+            "they は /ðeɪ/。had に続く [ðeɪ həd] ゼイ ハド",
+            "had は弱形 /həd/。been に続く [həd ˈbɪn] ハド ビン",
+            "been は弱形 /bɪn/。gunning に続く [ˈbɪn ˈɡʌnɪŋ] ビン ガンニング",
+            "gunning の /ŋ/ が down に続く（子音+子音、連結なし）",
+            "down は /ˈdaʊn/。the に続く",
+            "the は弱形 /ðə/。wither に続く（子音+子音、連結なし）[ðə ˈwɪðər] ザ ウィザー",
+            "wither は /ˈwɪðər/。for に続く",
+            "for は弱形 /fər/。ten に続く [ˈfɔːr ˈtɛn] フォー テン",
+            "straight の /t/ が when に未開放で続く [ˈstreɪt wɛn] ストレイト ウェン"
+          ],
+          "kana": "ゼイ ハド ビン ガンニング ダウン ザ ウィザー フォー テン ミニッツ ストレイト ウェン ビクトリー ケイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has gunned",
+      "ipa": "/həz ɡʌnd/",
+      "examples": [
+        {
+          "en": "Our team has gunned down countless mobs.",
+          "ja": "私たちのチームは無数のモブを銃撃で倒しました。",
+          "ipa": "/ˈaʊər ˈtiːm həz ɡʌnd ˈdaʊn ˈkaʊntləs ˈmɑːbz/",
+          "linking": [
+            "has は助動詞で弱形 /həz/ [həz ɡʌnd] ハズ ガンド",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン"
+          ],
+          "kana": "アワー ティーム ハズ ガンド ダウン カウントレス モブズ"
+        },
+        {
+          "en": "I have gunned down the dragon and returned safely.",
+          "ja": "私はドラゴンを銃撃で倒して無事に戻ってきました。",
+          "ipa": "/aɪ həv ɡʌnd ˈdaʊn ðə ˈdræɡən ənd rɪˈtɝːnd ˈseɪfli/",
+          "linking": [
+            "I は /aɪ/。have に続く。have は弱形 /həv/ [aɪ ˈhæv] アイ ハヴ",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン",
+            "dragon の /n/ が and に連結 [ˈdræɡən ənd] ドラゴン アンド"
+          ],
+          "kana": "アイ ハヴ ガンド ダウン ザ ドラゴン アンド リターンド セイフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had gunned",
+      "ipa": "/həd ɡʌnd/",
+      "examples": [
+        {
+          "en": "The team had gunned down all the enemies before the fortress fell.",
+          "ja": "要塞が落ちる前に、チームはすべての敵を銃撃で倒していました。",
+          "ipa": "/ðə ˈtiːm həd ɡʌnd ˈdaʊn ˈɔːl ðə ˈɛnəmiz bɪˈfɔːr ðə ˈfɔːrtres ˈfɛl/",
+          "linking": [
+            "the は弱形 /ðə/。team に連結 [ðə ˈtiːm] ザ ティーム",
+            "had は弱形 /həd/ [həd ɡʌnd] ハド ガンド",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン",
+            "before の /r/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [bɪˈfɔːr ðə] ビフォー ザ"
+          ],
+          "kana": "ザ ティーム ハド ガンド ダウン オール ザ エネミーズ ビフォー ザ フォートレス フェル"
+        },
+        {
+          "en": "We had gunned down the boss before the respawn timer reset.",
+          "ja": "リスポーンタイマーがリセットされる前に、私たちはボスを銃撃で倒していました。",
+          "ipa": "/wi həd ɡʌnd ˈdaʊn ðə ˈbɔːs bɪˈfɔːr ðə rɪˈspoʊn ˈtaɪmər ˈrɛsɛt/",
+          "linking": [
+            "we は /wi/。had に続く [wi həd] ウィ ハド",
+            "had は弱形 /həd/ [həd ɡʌnd] ハド ガンド",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン"
+          ],
+          "kana": "ウィ ハド ガンド ダウン ザ ボス ビフォー ザ リースポーン タイマー リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been gunning",
+      "ipa": "/həz ˈbɪn ˈɡʌnɪŋ/",
+      "examples": [
+        {
+          "en": "The sniper has been gunning down mobs all night long.",
+          "ja": "スナイパーは夜通しずっとモブを銃撃で倒し続けています。",
+          "ipa": "/ðə ˈsnaɪpər həz ˈbɪn ˈɡʌnɪŋ ˈdaʊn ˈmɑːbz ˈɔːl ˈnaɪt ˈlɔːŋ/",
+          "linking": [
+            "the は弱形 /ðə/。sniper に連結 [ðə ˈsnaɪpər] ザ スナイパー",
+            "has は弱形 /həz/ [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/ [bɪn ˈɡʌnɪŋ] ビン ガンニング"
+          ],
+          "kana": "ザ スナイパー ハズ ビン ガンニング ダウン モブズ オール ナイト ロング"
+        },
+        {
+          "en": "Players have been gunning for resources since the server reset.",
+          "ja": "プレイヤーたちはサーバーがリセットされてからずっとリソースを探し続けています。",
+          "ipa": "/ˈpleɪərz həv ˈbɪn ˈɡʌnɪŋ ˈfɔːr ˈrɛsɔːrsɪz sɪns ðə ˈsɝːvər ˈrɛsɛt/",
+          "linking": [
+            "have は弱形 /həv/ [ˈhæv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/ [bɪn ˈɡʌnɪŋ] ビン ガンニング",
+            "for は弱形 /fər/ [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
+            "the は弱形 /ðə/。server に続く [ðə ˈsɝːvər] ザ サーバー"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン ガンニング フォー リソーシーズ シンス ザ サーバー リセット"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will gun",
+      "ipa": "/wəl ɡʌn/",
+      "examples": [
+        {
+          "en": "I will gun down the creepers that spawn near our base.",
+          "ja": "私たちの基地の近くでスポーンするクリーパーを銃撃で倒します。",
+          "ipa": "/aɪ wəl ɡʌn ˈdaʊn ðə ˈkriːpərz ðæt ˈspoʊn ˈnɪr ˈaʊər ˈbeɪs/",
+          "linking": [
+            "I は /aɪ/。will に続く。will は弱形 /wəl/ [aɪ wəl] アイル",
+            "will の /l/ が gun に続く（子音+子音、連結なし）",
+            "gun の /n/ が down に連結 [ɡʌn ˈdaʊn] ガン ダウン",
+            "the は弱形 /ðə/。creepers に連結 [ðə ˈkriːpərz] ザ クリーパーズ",
+            "that は /ðæt/。spawn に続く",
+            "spawn の /n/ が near に続く（子音+子音、連結なし）。near は /ˈnɪr/ [ˈspoʊn ˈnɪr] スポーン ニアー",
+            "near の /r/ が our に連結 [ˈnɪr ˈaʊər] ニアー アワー"
+          ],
+          "kana": "アイル ガン ダウン ザ クリーパーズ ザット スポーン ニアー アワー ベース"
+        },
+        {
+          "en": "The defense tower will gun at any hostile mobs approaching the perimeter.",
+          "ja": "防御タワーは周囲に近づいてくる敵対的なモブを銃撃します。",
+          "ipa": "/ðə dɪˈfɛns ˈtaʊər wəl ɡʌn æt ˈɛni ˈhɑːstaɪl ˈmɑːbz əˈproʊtʃɪŋ ðə pərˈɪmətər/",
+          "linking": [
+            "the は弱形 /ðə/。defense に連結 [ðə dɪˈfɛns] ザ ディフェンス",
+            "tower の /r/ が will に続く（子音+子音、連結なし）。will は弱形 /wəl/ [ˈtaʊər wəl] タワー ウル",
+            "will の /l/ が gun に続く（子音+子音、連結なし）",
+            "gun の /n/ が at に連結 [ɡʌn æt] ガン アット",
+            "any は /ˈɛni/。hostile に続く",
+            "mobs の /z/ が approaching に続く（子音+母音）が連結 [ˈmɑːbz əˈproʊtʃɪŋ] モブズ アプローチング",
+            "approaching の /ŋ/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [əˈproʊtʃɪŋ ðə] アプローチング ザ"
+          ],
+          "kana": "ザ ディフェンス タワー ウル ガン アット エニー ホースタイル モブズ アプローチング ザ パリメター"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be gunning",
+      "ipa": "/wəl bi ˈɡʌnɪŋ/",
+      "examples": [
+        {
+          "en": "We will be gunning for resources in the deep mine all day tomorrow.",
+          "ja": "明日一日中、私たちは深い鉱山でリソースを探し続けるでしょう。",
+          "ipa": "/wi wəl bi ˈɡʌnɪŋ ˈfɔːr ˈrɛsɔːrsɪz ɪn ðə ˈdiːp ˈmaɪn ˈɔːl ˈdeɪ təˈmɑːroʊ/",
+          "linking": [
+            "we は /wi/。will に続く。will は弱形 /wəl/ [wi wəl] ウィ ウル",
+            "will の /l/ が be に続く（子音+子音、連結なし）。be は弱形 /bi/ [wəl bi] ウル ビー",
+            "be の /i/ が gunning に続く（子音+子音、連結なし） [bi ˈɡʌnɪŋ] ビー ガンニング",
+            "gunning の /ŋ/ が for に続く（子音+子音、連結なし）。for は弱形 /fər/ [ˈɡʌnɪŋ ˈfɔːr] ガンニング フォー",
+            "for の /r/ が resources に連結 [ˈfɔːr ˈrɛsɔːrsɪz] フォー リソーシーズ",
+            "in は /ɪn/。the に続く [ɪn ðə] イン ザ",
+            "the の /ð/ が deep に連結 [ðə ˈdiːp] ザ ディープ",
+            "mine の /n/ が all に続く（子音+子音、連結なし）[ˈmaɪn ˈɔːl] マイン オール"
+          ],
+          "kana": "ウィ ウル ビー ガンニング フォー リソーシーズ イン ザ ディープ マイン オール デイ トゥモロー"
+        },
+        {
+          "en": "They will be gunning down waves of mobs during the nighttime raid.",
+          "ja": "夜間の襲撃中、彼らはモブの波を銃撃で倒し続けるでしょう。",
+          "ipa": "/ðeɪ wəl bi ˈɡʌnɪŋ ˈdaʊn ˈweɪvz əv ˈmɑːbz ˈdʊrɪŋ ðə ˈnaɪtˌtaɪm ˈreɪd/",
+          "linking": [
+            "they は /ðeɪ/。will に続く。will は弱形 /wəl/ [ðeɪ wəl] ゼイ ウル",
+            "will の /l/ が be に続く（子音+子音、連結なし）。be は弱形 /bi/ [wəl bi] ウル ビー",
+            "be の /i/ が gunning に続く（子音+子音、連結なし） [bi ˈɡʌnɪŋ] ビー ガンニング",
+            "gunning の /ŋ/ が down に続く（子音+子音、連結なし）",
+            "down は /ˈdaʊn/。waves に続く",
+            "waves の /z/ が of に連結。of は弱形 /əv/ [ˈweɪvz əv] ウェイズ オブ",
+            "of の /v/ が mobs に連結 [əv ˈmɑːbz] オブ モブズ",
+            "mobs の /z/ が during に続く（子音+子音、連結なし）[ˈmɑːbz ˈdʊrɪŋ] モブズ デューリング",
+            "the は弱形 /ðə/。nighttime に続く（子音+子音、連結なし）[ðə ˈnaɪtˌtaɪm] ザ ナイトタイム"
+          ],
+          "kana": "ゼイ ウル ビー ガンニング ダウン ウェイズ オブ モブズ デューリング ザ ナイトタイム レイド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have gunned",
+      "ipa": "/wəl əv ɡʌnd/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I will have gunned down all the enemies.",
+          "ja": "あなたが到着するまでに、私はすべての敵を銃撃で倒してしまっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju əˈraɪv | aɪ wəl əv ɡʌnd ˈdaʊn ˈɔːl ðə ˈɛnəmiz/",
+          "linking": [
+            "by は /baɪ/。the に続く",
+            "the は弱形 /ðə/。time に続く（子音+子音、連結なし）[ðə ˈtaɪm] ザ タイム",
+            "you は /ju/。arrive に続く [ju əˈraɪv] ユー アライヴ",
+            "I は /aɪ/。will に続く。will は弱形 /wəl/ [aɪ wəl] アイル",
+            "will の /l/ が have に続く（子音+子音、連結なし）。have は弱形 /əv/ [wəl əv] ウル アヴ",
+            "have の /v/ が gunned に連結 [əv ɡʌnd] アヴ ガンド",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン",
+            "all の /l/ が the に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈɔːl ðə] オール ザ",
+            "the の /ð/ が enemies に連結 [ðə ˈɛnəmiz] ザ エネミーズ"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ、アイル アヴ ガンド ダウン オール ザ エネミーズ"
+        },
+        {
+          "en": "The team will have gunned down the boss before the night ends.",
+          "ja": "夜が終わる前に、チームはボスを銃撃で倒し終えているでしょう。",
+          "ipa": "/ðə ˈtiːm wəl əv ɡʌnd ˈdaʊn ðə ˈbɔːs bɪˈfɔːr ðə ˈnaɪt ˈɛndz/",
+          "linking": [
+            "the は弱形 /ðə/。team に連結 [ðə ˈtiːm] ザ ティーム",
+            "team は /ˈtiːm/。will に続く",
+            "will は弱形 /wəl/。have に続く（子音+子音、連結なし）。have は弱形 /əv/ [wəl əv] ウル アヴ",
+            "have の /v/ が gunned に連結 [əv ɡʌnd] アヴ ガンド",
+            "gunned の /d/ が down に連結 [ɡʌnd ˈdaʊn] ガンド ダウン",
+            "the は弱形 /ðə/。boss に連結 [ðə ˈbɔːs] ザ ボス",
+            "boss の /s/ が before に続く（子音+子音、連結なし）[ˈbɔːs bɪˈfɔːr] ボス ビフォー",
+            "before は /bɪˈfɔːr/。the に続く",
+            "the は弱形 /ðə/。night に続く（子音+子音、連結なし）[ðə ˈnaɪt] ザ ナイト"
+          ],
+          "kana": "ザ ティーム ウル アヴ ガンド ダウン ザ ボス ビフォー ザ ナイト エンズ"
         }
       ]
     }
