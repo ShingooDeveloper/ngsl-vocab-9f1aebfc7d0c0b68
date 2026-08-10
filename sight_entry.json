@@ -234,6 +234,295 @@
           "kana": "ワイル サイティング ニュー バイオームズ、ザ エクスプローラー リコーディッド ディテイルド マップス オブ エブリー テレイン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is sighting",
+      "ipa": "/ɪz ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The lookout is sighting a mob horde approaching from the north.",
+          "ja": "見張り役が北から近づくモブの群れを見つけている。",
+          "ipa": "/ðə ˈlʊkaʊt ɪz ˈsaɪtɪŋ ə ˈmoʊb ˈhɔːrd əˈproʊtʃɪŋ frɑm ðə ˈnɔːrθ/",
+          "linking": [
+            "lookout is → t が母音に続く。is は弱形 /ɪz/ [ˈlʊkaʊt ɪz ˈsaɪtɪŋ] ルックアウト イズ サイティング",
+            "is sighting → z と s が続く（子音+子音、連結なし）",
+            "sighting a → ŋ と ə が続く（子音+母音）。a は弱形 /ə/ [ˈsaɪtɪŋ ə] サイティング ア",
+            "from the → m と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ザ ルックアウト イズ サイティング ア モウブ ホード アプローチング フラム ザ ノース"
+        },
+        {
+          "en": "We are sighting better resources in the new mining tunnel.",
+          "ja": "私たちは新しい採掘トンネルでより良いリソースが見えている。",
+          "ipa": "/wi ɑr ˈsaɪtɪŋ ˈbɛɾər rɪˈsɔːrsɪz ɪn ðə ˈnu ˈmaɪnɪŋ ˈtʌnəl/",
+          "linking": [
+            "we are → i と ɑ が続く（母音+母音、連結なし）。are は弱形 /ɑr/ [wi ɑr ˈsaɪtɪŋ] ウィ アー サイティング",
+            "are sighting → r と s が続く（子音+子音、連結なし）",
+            "sighting better → ŋ と b が続く（子音+子音、連結なし）",
+            "in the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー サイティング ベラー リソーシズ イン ザ ニュー マイニング タンネル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sighting",
+      "ipa": "/wəz ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was sighting a Stronghold when the Wither attacked.",
+          "ja": "ウィザーが攻撃してきたとき、要塞を見つけようとしていた。",
+          "ipa": "/aɪ wəz ˈsaɪtɪŋ ə ˈstrɔːŋˌhoʊld ˈwɛn ðə ˈwɪðər əˈtækt/",
+          "linking": [
+            "was sighting → z と s が続く（子音+子音、連結なし）。was は弱形 /wəz/ [wəz ˈsaɪtɪŋ] ワズ サイティング",
+            "sighting a → ŋ と ə が続く（子音+母音）。a は弱形 /ə/ [ˈsaɪtɪŋ ə] サイティング ア",
+            "when the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the Wither → the は弱形 /ðə/、子音で続く [ðə ˈwɪðər] ザ ウィザー"
+          ],
+          "kana": "アイ ワズ サイティング ア ストロングホールド ウェン ザ ウィザー アタックド"
+        },
+        {
+          "en": "They were sighting new terrain from the highest tower.",
+          "ja": "彼らは最も高い塔から新しい地形が見えていた。",
+          "ipa": "/ðeɪ wər ˈsaɪtɪŋ ˈnu təˈreɪn frɑm ðə ˈhaɪəst ˈtaʊər/",
+          "linking": [
+            "were sighting → r と s が続く（子音+子音、連結なし）。were は弱形 /wər/ [wər ˈsaɪtɪŋ] ワー サイティング",
+            "sighting new → ŋ と n が続く（子音+子音、連結なし）",
+            "from the → m と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "highest tower → t が未開放で t に連接（1つに聞こえる）[ˈhaɪəst̚ ˈtaʊər] ハイエスト タウアー"
+          ],
+          "kana": "ゼイ ワー サイティング ニュー テレイン フラム ザ ハイエスト タウアー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sighting",
+      "ipa": "/həd bɪn ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "They had been sighting the fortress for hours before finally reaching it.",
+          "ja": "彼らはついに到達するまで、何時間も要塞を見張り続けていた。",
+          "ipa": "/ðeɪ həd bɪn ˈsaɪtɪŋ ðə ˈfɔːrtəs fɔr ˈaʊərz bɪˈfɔr ˈfaɪnəli ˈritʃɪŋ ɪt/",
+          "linking": [
+            "had been → d と b が続く（子音+子音、連結なし）。had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn ˈsaɪtɪŋ] ハド ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting the → ŋ と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "for hours → r と aʊ が続く（子音+母音）。for は弱形 /fɔr/ [fɔr ˈaʊərz] ファー アウアーズ"
+          ],
+          "kana": "ゼイ ハド ビン サイティング ザ フォーテス ファー アウアーズ ビフォー ファイナリー リーチング イット"
+        },
+        {
+          "en": "By the time we arrived, the scout had been sighting hostile mobs all day.",
+          "ja": "私たちが到着するまでに、偵察兵は一日中敵対的なモブを見張り続けていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ˈskaʊt həd bɪn ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈɔːl ˈdeɪ/",
+          "linking": [
+            "the time → the は弱形 /ðə/、子音で続く [ðə ˈtaɪm] ザ タイム",
+            "we arrived → i と ə が続く（母音+母音）。arrived の d は未開放 [wi əˈraɪvd̚] ウィ アライヴド",
+            "the scout → the は弱形 /ðə/、子音で続く [ðə ˈskaʊt] ザ スカウト",
+            "had been → d と b が続く（子音+子音、連結なし）。had は弱形 /həd/、been は弱形 /bɪn/"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ザ スカウト ハド ビン サイティング ホスタイル モウブズ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sighted",
+      "ipa": "/həz ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "I have sighted a village in the distance!",
+          "ja": "遠くに村を見つけた！",
+          "ipa": "/aɪ həv ˈsaɪtɪd ə ˈvɪlɪdʒ ɪn ðə ˈdɪstəns/",
+          "linking": [
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted a → d が a に連結。a は弱形 /ə/ [ˈsaɪtɪd ə] サイティッド ア",
+            "in the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the distance → the は弱形 /ðə/、子音で続く"
+          ],
+          "kana": "アイ ハヴ サイティッド ア ビリッジ イン ザ ディスタンス"
+        },
+        {
+          "en": "She has sighted the stronghold entrance finally!",
+          "ja": "彼女がようやく要塞入口を見つけた！",
+          "ipa": "/ʃi həz ˈsaɪtɪd ðə ˈstrɔːŋˌhoʊld ˈɛntrəns ˈfaɪnəli/",
+          "linking": [
+            "has sighted → z と s が続く（子音+子音、連結なし）。has は弱形 /həz/ [həz ˈsaɪtɪd] ハズ サイティッド",
+            "sighted the → d が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "stronghold entrance → d と e が続く（子音+母音）",
+            "entrance finally → s と f が続く（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ サイティッド ザ ストロングホールド エントランス ファイナリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sighted",
+      "ipa": "/həd ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By the time we arrived, we had sighted three villages.",
+          "ja": "到着するまでに、私たちは3つの村を見つけていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | wi həd ˈsaɪtɪd ˈθri ˈvɪlɪdʒɪz/",
+          "linking": [
+            "the time → the は弱形 /ðə/、子音で続く [ðə ˈtaɪm] ザ タイム",
+            "we arrived → i と ə が続く（母音+母音、連結なし）。arrived の d は未開放 [wi əˈraɪvd̚] ウィ アライヴド",
+            "we had → i と h が続く（母音+子音）",
+            "had sighted → d と s が続く（子音+子音、連結なし）。had は弱形 /həd/ [həd ˈsaɪtɪd] ハド サイティッド",
+            "sighted three → d と θ が続く（子音+子音、連結なし）"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ウィ ハド サイティッド スリー ビリッジズ"
+        },
+        {
+          "en": "They had sighted the Ender Dragon before nightfall.",
+          "ja": "日没前にエンダードラゴンを見つけていた。",
+          "ipa": "/ðeɪ həd ˈsaɪtɪd ðə ˈɛndər ˈdræɡən bɪˈfɔr ˈnaɪtˌfɔːl/",
+          "linking": [
+            "had sighted → d と s が続く（子音+子音、連結なし）。had は弱形 /həd/ [həd ˈsaɪtɪd] ハド サイティッド",
+            "sighted the → d が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "Ender Dragon → r と d が続く（子音+子音、連結なし）",
+            "before nightfall → r と n が続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハド サイティッド ザ エンダー ドラゴン ビフォー ナイトフォール"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sighting",
+      "ipa": "/həz bɪn ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He has been sighting every structure he finds on the map.",
+          "ja": "彼は見つけた構造物すべてを地図に記録している。",
+          "ipa": "/hi həz bɪn ˈsaɪtɪŋ ˈɛvri ˈstrʌktʃər hi ˈfaɪndz ɑn ðə ˈmæp/",
+          "linking": [
+            "has been → z と b が続く（子音+子音、連結なし）。has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn ˈsaɪtɪŋ] ハズ ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting every → ŋ と e が続く（子音+母音）",
+            "on the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ ビン サイティング エブリー ストラクチャー ヒー ファインズ オン ザ マップ"
+        },
+        {
+          "en": "They have been sighting hostile mobs all night long.",
+          "ja": "彼らは夜通しモブを目撃し続けている。",
+          "ipa": "/ðeɪ həv bɪn ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈɔːl ˈnaɪt ˈlɔːŋ/",
+          "linking": [
+            "have been → v と b が続く（子音+子音、連結なし）。have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn ˈsaɪtɪŋ] ハヴ ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting hostile → ŋ と h が続く（子音+子音、連結なし）",
+            "all night → l が ˈn に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハヴ ビン サイティング ホスタイル モウブズ オール ナイト ロング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will sight",
+      "ipa": "/wɪl ˈsaɪt/",
+      "examples": [
+        {
+          "en": "We will sight the stronghold once we reach the nether portal.",
+          "ja": "ネザーポータルに到達すれば、要塞が見えるだろう。",
+          "ipa": "/wi wɪl ˈsaɪt ðə ˈstrɔːŋˌhoʊld ˈwʌns wi ˈritʃ ðə ˈnɛðər ˈpoʊrtəl/",
+          "linking": [
+            "will sight → l と s が続く（子音+子音、連結なし）",
+            "sight the → t が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪt ðə] サイト ザ",
+            "once we → s と w が続く（子音+子音、連結なし）",
+            "reach the → ʃ と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル サイト ザ ストロングホールド ワンス ウィ リーチ ザ ネザー ポータル"
+        },
+        {
+          "en": "You will sight new terrain once you climb that mountain.",
+          "ja": "その山を登れば、新しい地形が見えるだろう。",
+          "ipa": "/ju wɪl ˈsaɪt ˈnu təˈreɪn ˈwʌns ju ˈklaɪm ðæt ˈmaʊntən/",
+          "linking": [
+            "will sight → l と s が続く（子音+子音、連結なし）",
+            "sight new → t と n が続く（子音+子音、連結なし）",
+            "you climb → u と k が続く（子音+子音、連結なし）",
+            "that mountain → t と m が続く（子音+子音、連結なし）"
+          ],
+          "kana": "ユー ウィル サイト ニュー テレイン ワンス ユー クライム ザット マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be sighting",
+      "ipa": "/wɪl bi ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow I will be sighting every block carefully for diamonds.",
+          "ja": "明日、私はダイヤモンドを探すために各ブロックを注意深く探査するだろう。",
+          "ipa": "/təˈmɑroʊ aɪ wɪl bi ˈsaɪtɪŋ ˈɛvri ˈblɑk ˈkɛrfəli fɔr ˈdaɪəmənz/",
+          "linking": [
+            "will be → l と b が続く（子音+子音、連結なし）",
+            "be sighting → i と s が続く（子音+子音、連結なし）",
+            "sighting every → ŋ と e が続く（子音+母音）",
+            "for diamonds → r と d が続く（子音+子音、連結なし）。for は弱形 /fɔr/"
+          ],
+          "kana": "トゥモロー アイ ウィル ビー サイティング エブリー ブロック ケアフリー ファー ダイアモンズ"
+        },
+        {
+          "en": "The team will be sighting hostile mobs when they enter the dark cave.",
+          "ja": "チームが暗い洞窟に入るとき、彼らは敵対的なモブを見つけるだろう。",
+          "ipa": "/ðə ˈtim wɪl bi ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈwɛn ðeɪ ˈɛntər ðə ˈdɑrk ˈkeɪv/",
+          "linking": [
+            "will be → l と b が続く（子音+子音、連結なし）",
+            "be sighting → i と s が続く（子音+子音、連結なし）",
+            "sighting hostile → ŋ と h が続く（子音+子音、連結なし）",
+            "when they → n と ð が続く（子音+子音、連結なし）",
+            "the dark → the は弱形 /ðə/、子音で続く [ðə ˈdɑrk] ザ ダーク"
+          ],
+          "kana": "ザ ティーム ウィル ビー サイティング ホスタイル モウブズ ウェン ゼイ エンター ザ ダーク ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have sighted",
+      "ipa": "/wɪl həv ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have sighted the End portal.",
+          "ja": "明日までに、私たちはエンドポータルを見つけているだろう。",
+          "ipa": "/baɪ təˈmɑroʊ wi wɪl həv ˈsaɪtɪd ðə ˈɛnd ˈpoʊrtəl/",
+          "linking": [
+            "will have → l と h が続く（子音+子音、連結なし）",
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted the → d と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ"
+          ],
+          "kana": "バイ トゥモロー ウィ ウィル ハヴ サイティッド ザ エンド ポータル"
+        },
+        {
+          "en": "They will have sighted at least three villages by sunset.",
+          "ja": "日没までに、彼らは少なくとも3つの村を見つけているだろう。",
+          "ipa": "/ðeɪ wɪl həv ˈsaɪtɪd ət ˈlist ˈθri ˈvɪlɪdʒɪz baɪ ˈsʌnˌsɛt/",
+          "linking": [
+            "will have → l と h が続く（子音+子音、連結なし）",
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted at → d と æ が続く（子音+母音）",
+            "at least → t と l が続く（子音+子音、連結なし）。at は /ət/ [ət ˈlist] アット リースト"
+          ],
+          "kana": "ゼイ ウィル ハヴ サイティッド アット リースト スリー ビリッジズ バイ サンセット"
+        }
+      ]
     }
   ]
 }
