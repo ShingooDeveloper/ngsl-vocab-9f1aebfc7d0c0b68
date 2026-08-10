@@ -329,6 +329,184 @@
           "kana": "シー ハド ビン ストラクチャリング ハー ストーリッジ システム ファ ウィークス ウェン シー ファイナリー オーガナイズド エブリシング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has structured",
+      "ipa": "/həz ˈstrʌk.tʃɚd/",
+      "examples": [
+        {
+          "en": "We have structured our entire base using a modular design system.",
+          "ja": "私たちはモジュール設計システムを使ってベース全体を構成しました。",
+          "ipa": "[wiː həv ˈstrʌk.tʃɚd ˈaʊɚ ənˈtaɪɚ ˈbeɪs ˈjuː.zɪŋ ə ˈmɑ.dʒə.lɚ dɪˈzaɪn ˈsɪs.təm]",
+          "linking": [
+            "have は機能語で弱形 /həv/。末尾 /v/ が structured の /s/ に続く（子音+子音）",
+            "our entire → our は弱形 /ɑɚ/、末尾 /ɚ/ が entire の /ɪ/ に連結 [ˈɑɚ ənˈtaɪɚ] アワー エンタイアー",
+            "a modular → a は弱形 /ə/ で modular に連結"
+          ],
+          "kana": "ウィー ハヴ ストラクチャード アワー エンタイアー ベイス ユージング ア モジュラー ディザイン システム"
+        },
+        {
+          "en": "They have structured the redstone circuits to minimize lag and improve performance.",
+          "ja": "彼らはラグを最小化し、パフォーマンスを改善するためにレッドストーン回路を構成しました。",
+          "ipa": "[ðeɪ həv ˈstrʌk.tʃɚd ðə ˈrɛd.stoʊn ˈsɜr.kɪts tə ˈmɪn.ə.maɪz ˈlæg]",
+          "linking": [
+            "have は弱形 /həv/。末尾 /v/ が structured の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/（2回）",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ザイ ハヴ ストラクチャード ザ レッドストーン サーキッツ タ ミニマイズ ラグ アン イムプルーヴ パフォーマンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had structured",
+      "ipa": "/həd ˈstrʌk.tʃɚd/",
+      "examples": [
+        {
+          "en": "Before the update, I had structured my base with outdated block types and designs.",
+          "ja": "アップデート前に、古いブロック種類とデザインでベースを構成していました。",
+          "ipa": "[bɪˈfoɹ ðə ˈʌp.deɪt | aɪ həd ˈstrʌk.tʃɚd maɪ ˈbeɪs wɪð ˈaʊt.deɪ.tɪd ˈblɑk ˈtaɪps]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/。末尾 /d/ が structured の /s/ に続く（子音+子音）",
+            "with は /wɪð/"
+          ],
+          "kana": "ビフォア ザ アップデイト、アイ ハド ストラクチャード マイ ベイス ウィズ アウトデイティド ブロック タイプス アン ディザインズ"
+        },
+        {
+          "en": "She had structured the mob farm exactly right before the server reset erased everything.",
+          "ja": "サーバーリセットがすべてを消す直前に、彼女はモブファームを完璧に構成していました。",
+          "ipa": "[ʃi həd ˈstrʌk.tʃɚd ðə ˈmoʊb ˈfɑɹm ɪɡˈzækt.li ˈɹaɪt bɪˈfoɹ ðə ˈsɜr.vɚ ˈrɪ.sɛt ɪˈreɪst]",
+          "linking": [
+            "had は弱形 /həd/。末尾 /d/ が structured の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/（2回）",
+            "right before → right の末尾 /t/ が before の /b/ に続く（子音+子音）"
+          ],
+          "kana": "シー ハド ストラクチャード ザ モウブ ファーム イグザクトリー ライト ビフォア ザ サーバー リセット イレイスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been structuring",
+      "ipa": "/həz bɪn ˈstrʌk.tʃɚr.ɪŋ/",
+      "examples": [
+        {
+          "en": "I have been structuring this mega base for the entire season with my friend.",
+          "ja": "私は友人と一緒にこのシーズン全体を通してメガベースを構成しています。",
+          "ipa": "[aɪ həv bɪn ˈstrʌk.tʃɚr.ɪŋ ðɪs ˈmeɪ.ɡə ˈbeɪs fɚ ðə ənˈtaɪɚ ˈsiː.zən]",
+          "linking": [
+            "have は弱形 /həv/。末尾 /v/ が been の /b/ に続く（子音+子音）",
+            "been は弱形 /bɪn/。末尾 /n/ が structuring の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン ストラクチャリング ディス メイガ ベイス ファ ザ エンタイアー シーズン"
+        },
+        {
+          "en": "We have been structuring the underground city with hundreds of different rooms and corridors.",
+          "ja": "私たちは数百の異なる部屋と廊下を備えた地下都市を構成しています。",
+          "ipa": "[wiː həv bɪn ˈstrʌk.tʃɚr.ɪŋ ðə ˌʌn.dɚˈɡraʊnd ˈsɪt.i wɪð ˈhʌn.dɹədz əv ˈdɪf.ɚ.ənt]",
+          "linking": [
+            "have は弱形 /həv/。末尾 /v/ が been の /b/ に続く（子音+子音）",
+            "been は弱形 /bɪn/。末尾 /n/ が structuring の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/。末尾 /v/ が different の /d/ に続く（子音+子音）"
+          ],
+          "kana": "ウィー ハヴ ビン ストラクチャリング ザ アンダーグラウンド シティー ウィズ ハンドレッズ オヴ ディファレント ルームズ アン コリドーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will structure",
+      "ipa": "/wɪl ˈstrʌk.tʃɚ/",
+      "examples": [
+        {
+          "en": "I will structure my base with a central hub and multiple wings.",
+          "ja": "中央ハブと複数の翼を備えたベースを構成します。",
+          "ipa": "[aɪ wɪl ˈstrʌk.tʃɚ maɪ ˈbeɪs wɪð ə ˈsɛn.trəl ˈhʌb ənd ˈmʌl.tə.pəl ˈwɪŋz]",
+          "linking": [
+            "with a → with の末尾 /ð/ が a の /ə/ に連結 [wɪðə] ウィザ",
+            "and multiple → and は弱形 /ənd/、末尾 /n/ + /m/ は子音+子音で連結なし"
+          ],
+          "kana": "アイ ウィル ストラクチャー マイ ベイス ウィザ セントラル ハブ アン マルティプル ウィングズ"
+        },
+        {
+          "en": "The players will structure the community project with everyone's input.",
+          "ja": "プレイヤーたちはみんなの入力でコミュニティプロジェクトを構成します。",
+          "ipa": "[ðə ˈpleɪ.ɚz wɪl ˈstrʌk.tʃɚ ðə kəˈmjuː.nə.ti ˈprɑ.dʒɛkt wɪð ˌɛv.ɹi.wʌnz ˈɪn.pʊt]",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "with everyone's → with の末尾 /ð/ が everyone's の初頭 /ɛ/ に連結 [wɪðˈɛv.ɹi.wʌnz] ウィズ エブリワンズ"
+          ],
+          "kana": "ザ プレイアーズ ウィル ストラクチャー ザ コミュニティー プロジェクト ウィズ エブリワンズ インプット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be structuring",
+      "ipa": "/wɪl bi ˈstrʌk.tʃɚr.ɪŋ/",
+      "examples": [
+        {
+          "en": "Next week, I will be structuring a new underwater base.",
+          "ja": "来週、新しい水中ベースを構成しているでしょう。",
+          "ipa": "[nɛkst ˈwiːk | aɪ wɪl bi ˈstrʌk.tʃɚr.ɪŋ ə ˈnjuː ˌʌn.dɚˈwɔ.tɚ ˈbeɪs]",
+          "linking": [
+            "a new → a は弱形 /ə/ で new の初頭 /n/ に続く（子音+子音で連結なし）",
+            "underwater base → underwater の末尾 /ɚ/ が base の初頭 /b/ に連結 [ˌʌn.dɚˈwɔ.tɚ ˈbeɪs] アンダーウォーター ベイス"
+          ],
+          "kana": "ネクスト ウィーク、アイ ウィル ビー ストラクチャリング ア ニュー アンダーウォーター ベイス"
+        },
+        {
+          "en": "They'll be structuring the large monument while we gather resources.",
+          "ja": "私たちがリソースを集めている間、彼らは大きなモニュメントを構成しているでしょう。",
+          "ipa": "[ðeɪl bi ˈstrʌk.tʃɚr.ɪŋ ðə ˈlɑɹdʒ ˈmɑn.jə.mənt waɪl wi ˈɡæð.ɚ ˈɹɛ.sɚsɪz]",
+          "linking": [
+            "They'll → they will の縮約で /ðeɪl/",
+            "the は弱形 /ðə/",
+            "monument while → 末尾 /t/ + /w/ は子音+子音で連結なし"
+          ],
+          "kana": "ザイル ビー ストラクチャリング ザ ラージ モニュメント ホワイル ウィー ギャザー リソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have structured",
+      "ipa": "/wɪl həv ˈstrʌk.tʃɚd/",
+      "examples": [
+        {
+          "en": "By the end of the season, we will have structured the entire mega base.",
+          "ja": "シーズンの終わりまでに、メガベース全体を構成し終わっているでしょう。",
+          "ipa": "[baɪ ðə ˈɛnd əv ðə ˈsiː.zən | wi wɪl həv ˈstrʌk.tʃɚd ðə ənˈtaɪɚ ˈmeɪ.ɡə ˈbeɪs]",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "end of → end の末尾 /d/ が of の /ə/ に連結 [ˈɛnd əv] エンド オブ",
+            "have structured → have は弱形 /həv/、末尾 /v/ + /s/ は子音+子音で連結なし"
+          ],
+          "kana": "バイ ザ エンド オブ ザ シーズン、ウィー ウィル ハヴ ストラクチャード ザ エンタイアー メイガ ベイス"
+        },
+        {
+          "en": "He will have structured all the redstone circuits by the time the update arrives.",
+          "ja": "アップデートが到着するまでに、すべてのレッドストーン回路を構成し終わっているでしょう。",
+          "ipa": "[hi wɪl həv ˈstrʌk.tʃɚd ɔl ðə ˈrɛd.stoʊn ˈsɜr.kɪts baɪ ðə ˈtaɪm ðə əpˈdeɪt əˈraɪvz]",
+          "linking": [
+            "structured all → structured の末尾 /d/ が all の /ɔ/ に連結 [ˈstrʌk.tʃɚd ɔl] ストラクチャード オール",
+            "the は弱形 /ðə/（2回）",
+            "update arrives → update の末尾 /t/ が arrives の初頭 /ə/ に連結 [əpˈdeɪ.tə ˈraɪvz] アップデイタ ライブズ"
+          ],
+          "kana": "ヒー ウィル ハヴ ストラクチャード オール ザ レッドストーン サーキッツ バイ ザ タイム ザ アップデイト アライブズ"
+        }
+      ]
     }
   ]
 }
