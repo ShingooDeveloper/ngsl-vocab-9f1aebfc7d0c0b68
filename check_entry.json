@@ -366,6 +366,217 @@
           "kana": "シー ハド ビン チェッキング フォー ケイヴ エントランシズ ウェン シー ディスカヴァード ザ マッシヴ アンダーグラウンド テンプル"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has checked",
+      "ipa": "/hæz tʃɛkt/",
+      "examples": [
+        {
+          "en": "I have checked the cave thoroughly and found diamonds near the bottom.",
+          "ja": "洞窟を念入りに確認してダイヤモンドが底の近くで見つかりました。",
+          "ipa": "/aɪ hæv tʃɛkt ðə ˈkeɪv ˈθɝoʊli ənd ˈfaʊnd ˈdaɪməndz nɪr ðə ˈbɑtəm/",
+          "linking": [
+            "have は弱形 /həv/ で checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "checked の末子音 /t/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "and の末子音 /nd/ が found の初子音 /f/ に続く（子音+子音）。and は弱形 /ənd/。",
+            "near の末子音 /r/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。"
+          ],
+          "kana": "アイ ハヴ チェクト ザ ケイヴ スロウリー アンド ファウンド ダイアマンズ ニアー ザ ボトム"
+        },
+        {
+          "en": "She has checked the redstone connections three times to ensure the door works correctly.",
+          "ja": "ドアが正しく機能するようにレッドストーン接続を3回確認しました。",
+          "ipa": "/ʃi hæz tʃɛkt ðə ˈrɛdˌstoʊn kəˈnɛkʃənz ˈθri ˈtaɪmz tə ɪnˈʃʊr ðə ˈdɔr ˈwɝks ˈkɛrɪktli/",
+          "linking": [
+            "has は弱形 /həz/ で checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "checked の末子音 /t/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "connections の末子音 /z/ が three の初子音 /θ/ に続く（子音+子音）。",
+            "times の末子音 /z/ が to の初母音 /ə/ に連結 [ˈtaɪmz tə] タイムズ ター。to は弱形 /tə/。",
+            "ensure の末子音 /r/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。"
+          ],
+          "kana": "シー ハズ チェクト ザ レッドストーン コネクションズ スリー タイムズ ター インシュアー ザ ドア ワークス コレクトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had checked",
+      "ipa": "/həd tʃɛkt/",
+      "examples": [
+        {
+          "en": "Before the storm hit, I had checked all the doors and windows to keep the mobs out.",
+          "ja": "嵐が襲来する前に、モブを排除するためにすべてのドアと窓を確認していました。",
+          "ipa": "/bɪˈfɔr ðə ˈstɔrm hɪt | aɪ həd tʃɛkt ɔl ðə ˈdɔrz ənd ˈwɪndoʊz tə ˈkip ðə ˈmɑbz ˈaʊt/",
+          "linking": [
+            "before の末子音 /r/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "had は弱形 /həd/ で checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "checked の末子音 /t/ が all の初母音 /ɔ/ に連結 [tʃɛkt ɔl] チェクト オール。",
+            "all の末子音 /l/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "doors の末子音 /z/ が and の初子音 /ə/ に連結、and は弱形 /ənd/ [ˈdɔrz ənd] ドーズ アンド。",
+            "to は弱形 /tə/ で keep の初子音 /k/ に続く（子音+子音）。"
+          ],
+          "kana": "ビフォア ザ ストーム ヒット、アイ ハド チェクト オール ザ ドーズ アンド ウィンドウズ ター キープ ザ モブズ アウト"
+        },
+        {
+          "en": "By the time we arrived at the base, they had checked every storage chest and counted all the resources.",
+          "ja": "拠点に到着したときに、彼らはすべてのストレージチェストを確認し、すべてのリソースを数えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ət ðə ˈbeɪs | ðeɪ həd tʃɛkt ˈɛvəri ˈstɔrɪdʒ ˈtʃɛst ənd ˈkaʊntɪd ɔl ðə ˈrɛsɚsɪz/",
+          "linking": [
+            "By の末子音 /aɪ/ (母音)が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "time の末子音 /m/ が we の初子音 /w/ に続く（子音+子音）。",
+            "arrived の末子音 /d/ が at の初子音 /æ/ に続く（子音+子音）。at は /æt/。",
+            "at の末子音 /t/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "base の末子音 /s/ が they の初子音 /ð/ に続く（子音+子音）。",
+            "had は弱形 /həd/ で checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "chest の末子音 /t/ が and の初子音 /ə/ に連結、and は弱形 /ənd/ [ˈtʃɛst ənd] チェスト アンド。",
+            "all の末子音 /l/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド アット ザ ベイス、ザイ ハド チェクト エヴァリー ストレッジ チェスト アンド カウンティッド オール ザ リソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been checking",
+      "ipa": "/hæz bɪn ˈtʃɛkɪŋ/",
+      "examples": [
+        {
+          "en": "I have been checking the perimeter all morning for any signs of hostile mobs.",
+          "ja": "朝からずっと敵対的なモブの兆候がないか周囲をチェックしています。",
+          "ipa": "/aɪ hæv bɪn ˈtʃɛkɪŋ ðə pəˈrɪmətər ɔl ˈmɔrnɪŋ fər ˈɛni ˈsaɪnz əv ˈhɑstəl ˈmɑbz/",
+          "linking": [
+            "have は弱形 /həv/ で been の初子音 /b/ に続く（子音+子音）。",
+            "been は弱形 /bɪn/ で checking の初子音 /tʃ/ に続く（子音+子音）。",
+            "checking の末子音 /ŋ/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "morning の末子音 /ŋ/ が for の初子音 /f/ に続く（子音+子音）。",
+            "for の末子音 /r/ が any の初母音 /ɛ/ に連結 [fɔr ˈɛni] フォー エニー。",
+            "signs の末子音 /z/ が of の初子音 /ə/ に連結 [ˈsaɪnz əv] サインズ アヴ。of は弱形 /əv/。"
+          ],
+          "kana": "アイ ハヴ ビン チェッキング ザ パリメター オール モーニング フォー エニー サインズ アヴ ホースタル モブズ"
+        },
+        {
+          "en": "They have been checking the cave system for hours and have found several passages we didn't know about.",
+          "ja": "彼らは数時間洞窟システムをチェックしており、知らなかった複数の通路を見つけました。",
+          "ipa": "/ðeɪ hæv bɪn ˈtʃɛkɪŋ ðə ˈkeɪv ˈsɪstəm fər ˈaʊərz ənd hæv ˈfaʊnd ˈsɛvərəl ˈpæsɪdʒɪz wi ˈdɪdn̩t ˈnoʊ əˈbaʊt/",
+          "linking": [
+            "have は弱形 /həv/ で been の初子音 /b/ に続く（子音+子音）。",
+            "been は弱形 /bɪn/ で checking の初子音 /tʃ/ に続く（子音+子音）。",
+            "checking の末子音 /ŋ/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "system の末子音 /m/ が for の初子音 /f/ に続く（子音+子音）。",
+            "hours の末子音 /z/ が and の初子音 /ə/ に連結、and は弱形 /ənd/ [ˈaʊərz ənd] アワーズ アンド。",
+            "have は強形 /hæv/ で found の初子音 /f/ に続く（子音+子音）。",
+            "passages の末子音 /ɪz/ が we の初子音 /w/ に続く（子音+子音）。",
+            "didn't の末子音 /t/ は未開放 [ˈdɪdn̩t̚]。know の初子音 /n/ は母音開始。"
+          ],
+          "kana": "ザイ ハヴ ビン チェッキング ザ ケイヴ システム フォー アワーズ アンド ハヴ ファウンド セヴァラル パッセジズ ウィー ディドゥント ノー アバウト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will check",
+      "ipa": "/wɪl tʃɛk/",
+      "examples": [
+        {
+          "en": "I will check our supply storage after the mining expedition to restock everything.",
+          "ja": "採掘遠征の後に補給品の保管場所を確認して、すべてを再補給します。",
+          "ipa": "/aɪ wɪl ˈtʃɛk ˈaʊər səˈplaɪ ˈstɔrɪdʒ ˈæftər ðə ˈmaɪnɪŋ ɪkˈspɛdɪʃən tə rɪˈstɑk ˈɛvriˌθɪŋ/",
+          "linking": [
+            "check の末子音 /k/ が our の初母音 /aʊ/ に連結 [ˈtʃɛk aʊər] チェック アワー",
+            "storage の末子音 /dʒ/ が after の初母音 /æ/ に連結 [ˈstɔrɪdʒ ˈæftər] ストレッジ アフター",
+            "the は弱形 /ðə/。mining は /m/ で子音開始。"
+          ],
+          "kana": "アイ ウィル チェック アワー サプライ ストレッジ アフター ザ マイニング エクスペディション ター リストック エブリシング"
+        },
+        {
+          "en": "We'll check the cave entrance while the rain continues outside the base.",
+          "ja": "雨が基地の外で続く間に洞窟入口を確認します。",
+          "ipa": "/wil tʃɛk ðə ˈkeɪv ˈɛntrəns waɪl ðə ˈreɪn kənˈtɪnjuz ˌaʊtˈsaɪd ðə ˈbeɪs/",
+          "linking": [
+            "We'll の末子音 /l/ が check の初子音 /tʃ/ に続く（子音+子音）。We'll は /wil/。",
+            "check の末子音 /k/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "entrance の末子音 /s/ が while の初子音 /w/ に続く（子音+子音）。",
+            "rain の末子音 /n/ が continues の初母音 /k/ に続く（子音+子音）。"
+          ],
+          "kana": "ウィル チェック ザ ケイヴ エントランス ホワイル ザ レイン コンティニューズ アウトサイド ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be checking",
+      "ipa": "/wɪl bi ˈtʃɛkɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow at noon, I will be checking all the enchanting tables while you're gathering resources.",
+          "ja": "明日の正午に、あなたがリソースを集めている間に、すべてのエンチャントテーブルをチェックしています。",
+          "ipa": "/təˈmɑroʊ ət ˈnun | aɪ wɪl bi ˈtʃɛkɪŋ ɔl ðə ɪnˈtʃɑntɪŋ ˈteɪbəlz waɪl jɚ ˈɡæðərɪŋ ˈrɛsɚsɪz/",
+          "linking": [
+            "tomorrow の末子音 /oʊ/ (母音)。at は /æt/ で子音開始。noon は /n/ で子音開始。",
+            "noon の末子音 /n/ が I の初母音 /aɪ/ に連結 [ˈnun aɪ] ヌーン アイ",
+            "will の末子音 /l/ が be の初子音 /b/ に続く（子音+子音）。",
+            "checking の末子音 /ŋ/ が all の初母音 /ɔ/ に連結 [ˈtʃɛkɪŋ ɔl] チェッキング オール",
+            "all の末子音 /l/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。"
+          ],
+          "kana": "ターモロー アット ヌーン、アイ ウィル ビー チェッキング オール ザ インチャンティング テーブルズ ホワイル ユアー ギャザリング リソーシズ"
+        },
+        {
+          "en": "While you're mining for diamonds, they will be checking the redstone systems for functionality.",
+          "ja": "あなたがダイヤモンドを採掘している間に、彼らはレッドストーンシステムの機能性をチェックしています。",
+          "ipa": "/waɪl jɚ ˈmaɪnɪŋ fɔr ˈdaɪməndz | ðeɪ wɪl bi ˈtʃɛkɪŋ ðə ˈrɛdˌstoʊn ˈsɪstəmz fɔr ˌfʌŋkʃəˈnælɪti/",
+          "linking": [
+            "while の末子音 /l/ が you're の初子音 /j/ に続く（子音+子音）。",
+            "mining の末子音 /ŋ/ が for の初子音 /f/ に続く（子音+子音）。",
+            "for の末子音 /r/ が diamonds の初母音 /d/ に連結 [fɔr ˈdaɪməndz] フォー ダイアマンズ",
+            "will の末子音 /l/ が be の初子音 /b/ に続く（子音+子音）。",
+            "checking の末子音 /ŋ/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。"
+          ],
+          "kana": "ホワイル ユアー マイニング フォー ダイアマンズ、ザイ ウィル ビー チェッキング ザ レッドストーン システムズ フォー ファンクショナリティー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have checked",
+      "ipa": "/wɪl həv tʃɛkt/",
+      "examples": [
+        {
+          "en": "By tomorrow evening, I will have checked every storage chest and counted all the resources.",
+          "ja": "明日の夜までに、すべてのストレージチェストを確認してすべてのリソースを数えているはずです。",
+          "ipa": "/baɪ təˈmɑroʊ ˈivnɪŋ | aɪ wɪl həv tʃɛkt ˈɛvəri ˈstɔrɪdʒ ˈtʃɛst ənd ˈkaʊntɪd ɔl ðə ˈrɛsɚsɪz/",
+          "linking": [
+            "By の末子音 /aɪ/ (母音)。tomorrow は /t/ で子音開始。",
+            "tomorrow の末子音 /oʊ/ (母音)。evening は /ɛ/ で母音開始（母音+母音）。",
+            "will の末子音 /l/ が have の初子音 /h/ に続く（子音+子音）。have は弱形 /həv/。",
+            "have の末子音 /v/ が checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "checked の末子音 /t/ が every の初母音 /ɛ/ に連結 [tʃɛkt ˈɛvəri] チェクト エヴァリー",
+            "chest の末子音 /t/ が and の初子音 /ə/ に続く（子音+子音）。and は弱形 /ənd/。"
+          ],
+          "kana": "バイ ターモロー イブニング、アイ ウィル ハヴ チェクト エヴァリー ストレッジ チェスト アンド カウンティッド オール ザ リソーシズ"
+        },
+        {
+          "en": "Once the new players arrive at the spawn, we will have checked all equipment and prepared the base.",
+          "ja": "新しいプレイヤーがスポーンに到着したら、すべての装備を確認してベースを準備しているはずです。",
+          "ipa": "/ʌns ðə ˈnu ˈpleɪərz əˈraɪv ət ðə ˈspoʊn | wi wɪl həv tʃɛkt ɔl ɪˈkwɪpmənt ənd prɪˈpɛrd ðə ˈbeɪs/",
+          "linking": [
+            "Once の末子音 /s/ が the の初子音 /ð/ に続く（子音+子音）。the は弱形 /ðə/。",
+            "players の末子音 /z/ が arrive の初母音 /ə/ に連結 [ˈpleɪərz əˈraɪv] プレイアーズ アライヴ",
+            "spawn の末子音 /n/ が we の初子音 /w/ に続く（子音+子音）。",
+            "will の末子音 /l/ が have の初子音 /h/ に続く（子音+子音）。have は弱形 /həv/。",
+            "have の末子音 /v/ が checked の初子音 /tʃ/ に続く（子音+子音）。",
+            "checked の末子音 /t/ が all の初母音 /ɔ/ に連結 [tʃɛkt ɔl] チェクト オール",
+            "equipment の末子音 /t/ が and の初子音 /ə/ に続く（子音+子音）。and は弱形 /ənd/。"
+          ],
+          "kana": "ワンス ザ ニュー プレイアーズ アライヴ アット ザ スポーン、ウィー ウィル ハヴ チェクト オール イクイップメント アンド プリペアード ザ ベイス"
+        }
+      ]
     }
   ]
 }
