@@ -194,6 +194,291 @@
           "kana": "ワイル セレクティング ブロックス、ヒー ノーティスト ア ヒデン ケイヴ システム ニアバイ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is selecting",
+      "ipa": "/ɪz sɪˈlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "She is selecting materials for her new house right now.",
+          "ja": "彼女は今、新しい家のための材料を選択しています。",
+          "ipa": "/ʃi ɪz sɪˈlɛktɪŋ məˈtɪriəlz fɔr hər ˈnu ˈhaʊs ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is は弱形 /ɪz/。selecting に連結 [ɪz sɪˈlɛktɪŋ] イズ セレクティング",
+            "for は弱形 /fər/。her に続く。her は弱く /hər/ [fɔr hər] ファー ハー",
+            "house の s が right に未開放で続く [ˈhaʊs̚ ˈraɪt] ハウッ ライト"
+          ],
+          "kana": "シー イズ セレクティング マテリアルズ ファー ハー ニュー ハウッ ライト ナウ"
+        },
+        {
+          "en": "The players are selecting their enchantments for the battle.",
+          "ja": "プレイヤーたちは戦いのために彼らのエンチャントを選択しています。",
+          "ipa": "/ðə ˈpleɪərz ɑr sɪˈlɛktɪŋ ðɛr ɪnˈtʃæntmənts fɔr ðə ˈbætəl/",
+          "linking": [
+            "the は弱形 /ðə/。players に続く [ðə ˈpleɪərz] ザ プレイヤーズ",
+            "are は弱形 /ɑr/。selecting に続く [ɑr sɪˈlɛktɪŋ] アー セレクティング",
+            "for は弱形 /fər/。the に続く。the は弱形 /ðə/ [fɔr ðə] ファー ザ"
+          ],
+          "kana": "ザ プレイヤーズ アー セレクティング ザー エンチャントメンツ ファー ザ バトル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was selecting",
+      "ipa": "/wəz sɪˈlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "I was selecting diamonds when the creeper exploded.",
+          "ja": "クリーパーが爆発したとき、私はダイヤモンドを選択していました。",
+          "ipa": "/aɪ wəz sɪˈlɛktɪŋ ˈdaɪmənz wɛn ðə ˈkriːpər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was は弱形 /wəz/。selecting に続く [wəz sɪˈlɛktɪŋ] ワズ セレクティング",
+            "when の n が the に連結 [wɛn ðə] ウェン ザ",
+            "the は弱形 /ðə/。creeper に続く [ðə ˈkriːpər] ザ クリーパー"
+          ],
+          "kana": "アイ ワズ セレクティング ダイモンズ ウェン ザ クリーパー エクスプロウディド"
+        },
+        {
+          "en": "While they were selecting blocks, a zombie appeared nearby.",
+          "ja": "彼らがブロックを選択している間に、ゾンビが近くに現れました。",
+          "ipa": "/waɪl ðeɪ wər sɪˈlɛktɪŋ ˈblɑks ə ˈzoʊbi əˈpɪrd ˈnɪrbaɪ/",
+          "linking": [
+            "were は弱形 /wər/。selecting に続く [wər sɪˈlɛktɪŋ] ワー セレクティング",
+            "blocks の s が a に未開放で続く。a は弱形 /ə/ [ˈblɑks̚ ə] ブロックッ ア",
+            "appeared の d が nearby に連結 [əˈpɪrd ˈnɪrbaɪ] アピアード ニアバイ"
+          ],
+          "kana": "ワイル ザイ ワー セレクティング ブロックッ ア ゾンビ アピアード ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been selecting",
+      "ipa": "/həd bɪn sɪˈlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "By the time he died, he had been selecting resources for two hours.",
+          "ja": "彼が死んだ時までに、彼は2時間リソースを選択していました。",
+          "ipa": "/baɪ ðə ˈtaɪm hi ˈdaɪd hi həd bɪn sɪˈlɛktɪŋ ˈrɪsɔrsəz fɔr ˈtu ˈaʊərz/",
+          "linking": [
+            "by の y が the に連結 [baɪ ðə] バイ ザ",
+            "the は弱形 /ðə/。time に続く [ðə ˈtaɪm] ザ タイム",
+            "died の d が he に連結 [ˈdaɪd hi] ダイディ ヒー",
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン"
+          ],
+          "kana": "バイ ザ タイム ヒー ダイディ ヒー ハド ビン セレクティング リソーシズ ファー トゥー アワーズ"
+        },
+        {
+          "en": "The team had been selecting the perfect location when night fell.",
+          "ja": "チームが夜間に落ちたとき、彼らは完璧な場所を選択していました。",
+          "ipa": "/ðə ˈtim həd bɪn sɪˈlɛktɪŋ ðə ˈpɝːfɪkt loʊˈkeɪʃən wɛn ˈnaɪt ˈfɛl/",
+          "linking": [
+            "the は弱形 /ðə/。team に続く [ðə ˈtim] ザ ティーム",
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "the は弱形 /ðə/。perfect に続く [ðə ˈpɝːfɪkt] ザ パーフェクト",
+            "when の n が night に連結 [wɛn ˈnaɪt] ウェン ナイト"
+          ],
+          "kana": "ザ ティーム ハド ビン セレクティング ザ パーフェクト ロウケイション ウェン ナイト フェル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has selected",
+      "ipa": "/həz sɪˈlɛktɪd/",
+      "examples": [
+        {
+          "en": "She has selected the best materials for the castle.",
+          "ja": "彼女は城の最高の材料を選択しました。",
+          "ipa": "/ʃi həz sɪˈlɛktɪd ðə bɛst məˈtɪriəlz fɔr ðə ˈkæsəl/",
+          "linking": [
+            "has は弱形 /həz/。selected に連結 [həz sɪˈlɛktɪd] ハズ セレクティド",
+            "the は弱形 /ðə/。best に連結 [ðə bɛst] ザ ベスト",
+            "for は弱形 /fər/。the に続く。the は弱形 /ðə/ [fɔr ðə] ファー ザ"
+          ],
+          "kana": "シー ハズ セレクティド ザ ベスト マテリアルズ ファー ザ キャッスル"
+        },
+        {
+          "en": "They have selected five different enchantments already.",
+          "ja": "彼らはすでに5つの異なるエンチャントを選択しています。",
+          "ipa": "/ðeɪ həv sɪˈlɛktɪd ˈfaɪv ˈdɪfərənt ɪnˈtʃæntmənts ɔlˈrɛdi/",
+          "linking": [
+            "have は弱形 /həv/。selected に連結 [həv sɪˈlɛktɪd] ハヴ セレクティド",
+            "already は /ɔlˈrɛdi/。文末で自然に続く。"
+          ],
+          "kana": "ザイ ハヴ セレクティド ファイヴ ディファレント エンチャントメンツ オールレディ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had selected",
+      "ipa": "/həd sɪˈlɛktɪd/",
+      "examples": [
+        {
+          "en": "By the time the battle started, he had selected all his weapons.",
+          "ja": "戦いが始まるまでに、彼はすべての武器を選択していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbætəl ˈstɑrtəd hi həd sɪˈlɛktɪd ɔl hɪz ˈwɛpənz/",
+          "linking": [
+            "by の y が the に連結 [baɪ ðə] バイ ザ",
+            "the は弱形 /ðə/。time に続く [ðə ˈtaɪm] ザ タイム",
+            "battle の l が started に連結 [ˈbætəl ˈstɑrtəd] バトル スターティド",
+            "had は弱形 /həd/。selected に続く [həd sɪˈlɛktɪd] ハド セレクティド",
+            "all の l が his に連結 [ɔl hɪz] オール ヒズ"
+          ],
+          "kana": "バイ ザ タイム ザ バトル スターティド ヒー ハド セレクティド オール ヒズ ウェポンズ"
+        },
+        {
+          "en": "The builders had selected the perfect spot before we arrived.",
+          "ja": "私たちが到着する前に、建築者たちは完璧な場所を選択していました。",
+          "ipa": "/ðə ˈbɪldərz həd sɪˈlɛktɪd ðə ˈpɝːfɪkt ˈspɑt bɪˈfɔr wi əˈraɪvd/",
+          "linking": [
+            "the は弱形 /ðə/。builders に続く [ðə ˈbɪldərz] ザ ビルダーズ",
+            "had は弱形 /həd/。selected に続く [həd sɪˈlɛktɪd] ハド セレクティド",
+            "the は弱形 /ðə/。perfect に続く [ðə ˈpɝːfɪkt] ザ パーフェクト",
+            "before の r が we に連結 [bɪˈfɔr wi] ビフォー ウィー"
+          ],
+          "kana": "ザ ビルダーズ ハド セレクティド ザ パーフェクト スポット ビフォー ウィー アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been selecting",
+      "ipa": "/həz bɪn sɪˈlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "She has been selecting blocks for her new house all morning.",
+          "ja": "彼女は朝中ずっと新しい家のためにブロックを選択しています。",
+          "ipa": "/ʃi həz bɪn sɪˈlɛktɪŋ ˈblɑks fɔr hər ˈnu ˈhaʊs ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "has は弱形 /həz/。been に連結 [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。selecting に続く [bɪn sɪˈlɛktɪŋ] ビン セレクティング",
+            "for は弱形 /fər/。her に続く [fɔr hər] ファー ハー",
+            "house の s が all に未開放で続く [ˈhaʊs̚ ɔl] ハウッ オール"
+          ],
+          "kana": "シー ハズ ビン セレクティング ブロックス ファー ハー ニュー ハウッ オール モーニング"
+        },
+        {
+          "en": "They have been selecting resources since sunrise.",
+          "ja": "彼らは日の出からずっとリソースを選択しています。",
+          "ipa": "/ðeɪ həv bɪn sɪˈlɛktɪŋ ˈrɪsɔrsəz sɪns ˈsʌnˌraɪz/",
+          "linking": [
+            "have は弱形 /həv/。been に連結 [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/。selecting に続く [bɪn sɪˈlɛktɪŋ] ビン セレクティング",
+            "resources の z が since に連結 [ˈrɪsɔrsəz sɪns] リソーシズ シンス"
+          ],
+          "kana": "ザイ ハヴ ビン セレクティング リソーシズ シンス サンライズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will select",
+      "ipa": "/wɪl sɪˈlɛkt/",
+      "examples": [
+        {
+          "en": "I will select oak wood for the new building.",
+          "ja": "私は新しい建造物にオークの木を選択するでしょう。",
+          "ipa": "/aɪ wɪl sɪˈlɛkt ˈoʊk ˈwʊd fɔr ðə ˈnu ˈbɪldɪŋ/",
+          "linking": [
+            "will は [wɪl]。select に続く [wɪl sɪˈlɛkt] ウィル セレクト",
+            "select の t が oak に未開放で続く [sɪˈlɛk̚ ˈoʊk] セレッ オーク",
+            "for は弱形 /fər/。the に続く。the は弱形 /ðə/ [fɔrðə] ファー ザ"
+          ],
+          "kana": "アイ ウィル セレッ オーク ウッド ファー ザ ニュー ビルディング"
+        },
+        {
+          "en": "Next week, they will select which players can join the server.",
+          "ja": "来週、彼らはどのプレイヤーがサーバーに参加できるかを選択するでしょう。",
+          "ipa": "/ˈnɛkst ˈwik ðeɪ wɪl sɪˈlɛkt wɪtʃ ˈpleɪərz kæn ˈdʒɔɪn ðə ˈsɜrvər/",
+          "linking": [
+            "week の k が they に未開放で続く [ˈwik̚ ðeɪ] ウィッ ザイ",
+            "will は [wɪl]。select に続く [wɪl sɪˈlɛkt] ウィル セレクト",
+            "select の t が which に未開放で続く [sɪˈlɛk̚ wɪtʃ] セレッ ウィッチ",
+            "can は弱形 /kən/。join に続く。"
+          ],
+          "kana": "ネクスト ウィッ ザイ ウィル セレッ ウィッチ プレイヤーズ キャン ジョイン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be selecting",
+      "ipa": "/wɪl bi sɪˈlɛktɪŋ/",
+      "examples": [
+        {
+          "en": "This time tomorrow, she will be selecting materials for the grand hall.",
+          "ja": "明日のこの時間、彼女は大ホールの材料を選択していることになるでしょう。",
+          "ipa": "/ðɪs ˈtaɪm təˈmɑroʊ ʃi wɪl bi sɪˈlɛktɪŋ məˈtɪriəlz fɔr ðə ˈɡrænd ˈhɔl/",
+          "linking": [
+            "time の m が tomorrow に連結 [ˈtaɪm təˈmɑroʊ] タイム トゥモロー",
+            "tomorrow の oʊ が she に続く [təˈmɑroʊ ʃi] トゥモロー シー",
+            "will は [wɪl]。be に続く [wɪl bi] ウィル ビー",
+            "be は [bi]。selecting に続く [bi sɪˈlɛktɪŋ] ビー セレクティング",
+            "for は弱形 /fər/。the に続く。the は弱形 /ðə/ [fɔrðə] ファー ザ"
+          ],
+          "kana": "ディス タイム トゥモロー シー ウィル ビー セレクティング マテリアルズ ファー ザ グラング ホール"
+        },
+        {
+          "en": "While you're building, I will be selecting the best enchantments.",
+          "ja": "あなたが建設している間、私は最高のエンチャントを選択していることになるでしょう。",
+          "ipa": "/waɪl jɔr ˈbɪldɪŋ aɪ wɪl bi sɪˈlɛktɪŋ ðə bɛst ɪnˈtʃæntmənts/",
+          "linking": [
+            "while は [waɪl]。you're に続く [waɪl jɔr] ワイル ユア",
+            "you're の r が building に連結 [jɔr ˈbɪldɪŋ] ユア ビルディング",
+            "will は [wɪl]。be に続く [wɪl bi] ウィル ビー",
+            "the は弱形 /ðə/。best に続く [ðə bɛst] ザ ベスト"
+          ],
+          "kana": "ワイル ユア ビルディング アイ ウィル ビー セレクティング ザ ベスト エンチャントメンツ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have selected",
+      "ipa": "/wɪl həv sɪˈlɛktɪd/",
+      "examples": [
+        {
+          "en": "By Friday, the team will have selected all the necessary resources.",
+          "ja": "金曜日までに、チームは必要なすべてのリソースを選択していることになるでしょう。",
+          "ipa": "/baɪ ˈfraɪdeɪ ðə ˈtim wɪl həv sɪˈlɛktɪd ɔl ðə ˈnɛsəsɛri ˈrɪsɔrsəz/",
+          "linking": [
+            "by の y が Friday に連結 [baɪ ˈfraɪdeɪ] バイ フライデイ",
+            "Friday の語尾が the に続く [ˈfraɪdeɪ ðə] フライデイ ザ",
+            "the は弱形 /ðə/。team に続く [ðə ˈtim] ザ ティーム",
+            "will は [wɪl]。have に続く [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/。selected に続く [həv sɪˈlɛktɪd] ハヴ セレクティド",
+            "all の l が the に連結 [ɔl ðə] オール ザ"
+          ],
+          "kana": "バイ フライデイ ザ ティーム ウィル ハヴ セレクティド オール ザ ネセセリ リソーシズ"
+        },
+        {
+          "en": "He'll have selected his final enchantments before the battle begins.",
+          "ja": "戦いが始まる前に、彼は最終的なエンチャントを選択していることになるでしょう。",
+          "ipa": "/hil həv sɪˈlɛktɪd hɪz ˈfaɪnəl ɪnˈtʃæntmənts bɪˈfɔr ðə ˈbætəl bɪˈɡɪnz/",
+          "linking": [
+            "He'll は縮約形 /hil/。have に続く [hil həv] ヒール ハヴ",
+            "have は弱形 /həv/。selected に続く [həv sɪˈlɛktɪd] ハヴ セレクティド",
+            "selected の d が his に続く [sɪˈlɛktɪd hɪz] セレクティド ヒズ",
+            "his は /hɪz/。final に続く [hɪz ˈfaɪnəl] ヒズ ファイナル",
+            "before の r が the に連結 [bɪˈfɔr ðə] ビフォー ザ",
+            "battle の l が begins に連結 [ˈbætəl bɪˈɡɪnz] バトル ビギンズ"
+          ],
+          "kana": "ヒール ハヴ セレクティド ヒズ ファイナル エンチャントメンツ ビフォー ザ バトル ビギンズ"
+        }
+      ]
     }
   ]
 }
