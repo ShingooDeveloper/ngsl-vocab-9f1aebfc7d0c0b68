@@ -161,6 +161,92 @@
           "kana": "ビフォー オーバーカミング ザ ファイナル ボス、ウィ プリペア アワー ベスト イクイップメント"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will overcome",
+      "ipa": "/wɪl ˌoʊvɚˈkʌm/",
+      "examples": [
+        {
+          "en": "You'll overcome the Ender Dragon tomorrow.",
+          "ja": "明日、あなたはエンダードラゴンを乗り越えるでしょう。",
+          "ipa": "[juːl ˌoʊvɚˈkʌm ðə ˈɛndɚ ˈdrægən təˈmɑroʊ]",
+          "linking": [
+            "You will → you'll に縮約 /juːl/",
+            "overcome the → 語末子音 /m/ が母音 /ə/ に連結 [ˌoʊvɚˈkʌm ðə] オーバーカム ザ"
+          ],
+          "kana": "ユール オーバーカム ザ エンダー ドラゴン トゥモロー"
+        },
+        {
+          "en": "They'll overcome any challenge together.",
+          "ja": "彼らはどんな課題でも一緒に乗り越えるでしょう。",
+          "ipa": "[ðeɪl ˌoʊvɚˈkʌm ˈɛni ˈtʃælɪndʒ təˈɡɛðɚ]",
+          "linking": [
+            "They will → they'll に縮約 /ðeɪl/",
+            "overcome any → 語末子音 /m/ が母音 /ɛ/ に連結"
+          ],
+          "kana": "ゼイル オーバーカム エニ チャレンジ トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be overcoming",
+      "ipa": "/wɪl bi ˌoʊvɚˈkʌmɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be overcoming difficult challenges in the new dungeon.",
+          "ja": "私たちは新しいダンジョンで難しい課題を乗り越えているところでしょう。",
+          "ipa": "[wil bi ˌoʊvɚˈkʌmɪŋ ˈdɪfɪkəlt ˈtʃælɪndʒəz ɪn ðə ˈnjuː ˈdʌndʒən]",
+          "linking": [
+            "We will → we'll に縮約。be と連結 [wil bi] ウィル ビー",
+            "in the → in の /n/ が the に続く。the は弱形 /ðə/ [ɪn ðə] イン ザ"
+          ],
+          "kana": "ウィル ビー オーバーカミング ディフィカルト チャレンジズ イン ザ ニュー ダンジョン"
+        },
+        {
+          "en": "By next Friday, she'll be overcoming her fear of Creepers.",
+          "ja": "来週の金曜日までに、彼女はクリーパーへの恐怖を克服しているところでしょう。",
+          "ipa": "[baɪ ˈnɛkst ˈfraɪdeɪ ʃil bi ˌoʊvɚˈkʌmɪŋ hɚ fɪr əv ˈkriːpɚz]",
+          "linking": [
+            "she will → she'll に縮約 /ʃil/",
+            "of Creepers → of は弱形 /əv/。Creepers に連結 [əv ˈkriːpɚz] アヴ クリーパーズ"
+          ],
+          "kana": "バイ ネクスト フライデイ、シール ビー オーバーカミング ハー フィアー アヴ クリーパーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have overcome",
+      "ipa": "/wɪl həv ˌoʊvɚˈkʌm/",
+      "examples": [
+        {
+          "en": "By tomorrow, I'll have overcome the three hardest bosses.",
+          "ja": "明日までに、私は3体の最も難しいボスを乗り越えているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ aɪl həv ˌoʊvɚˈkʌm ðə ˈθriː ˈhɑrdɪst ˈbɑːsɪz]",
+          "linking": [
+            "I will → I'll に縮約 /aɪl/",
+            "will have → will の縮約 + have の弱形 /həv/ [aɪl həv] アイル ハヴ",
+            "the three → the は弱形 /ðə/。three に続く [ðə ˈθriː] ザ スリー"
+          ],
+          "kana": "バイ トゥモロー、アイル ハヴ オーバーカム ザ スリー ハーディスト ボシーズ"
+        },
+        {
+          "en": "By next season, our team will have overcome every obstacle on the server.",
+          "ja": "来シーズンまでに、私たちのチームはサーバー上のあらゆる障害を乗り越えているでしょう。",
+          "ipa": "[baɪ ˈnɛkst ˈsiːzən ˈaʊɚ ˈtiːm wɪl həv ˌoʊvɚˈkʌm ˈɛvri ˈɑbstəkəl ɑn ðə ˈsɝːvɚ]",
+          "linking": [
+            "team will → team の /m/ が will に続く [ˈtiːm wɪl] ティーム ウィル",
+            "will have → have は弱形 /həv/",
+            "on the → on の /n/ が the に続く。the は弱形 /ðə/ [ɑn ðə] アン ザ"
+          ],
+          "kana": "バイ ネクスト シーズン、アワー ティーム ウィル ハヴ オーバーカム エブリー アブスタクル アン ザ サーバー"
+        }
+      ]
     }
   ],
   "idioms": [
