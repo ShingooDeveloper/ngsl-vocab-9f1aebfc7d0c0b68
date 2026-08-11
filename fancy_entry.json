@@ -290,6 +290,79 @@
           "kana": "ウィザウト ファンシイング サッチ ア リスキー ミッション、ウィ ウッダント アブ サーヴァイヴド ザ アンブッシュ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（動詞）",
+      "text": "will fancy",
+      "ipa": "/wɪl ˈfænsi/",
+      "examples": [
+        {
+          "en": "I'll fancy the new enchanted pickaxe we just found in the deep caves.",
+          "ja": "私たちが深い洞窟で見つけたばかりの新しい魔法のつるはしを気に入るだろう。",
+          "ipa": "/aɪl ˈfænsi ðə ˈnuː ɪnˈtʃæntɪd ˈpɪkˌæks wi dʒəst ˈfaʊnd ɪn ðə ˈdiːp ˈkeɪvz/",
+          "linking": [
+            "I'll は /aɪl/。fancy に続く",
+            "fancy の語末 /i/ が the に続く。the は弱形 /ðə/ で連結 [ˈfænsi ðə] ファンシー ザ",
+            "the は /ðə/。new に連結 [ðə ˈnuː] ザ ニュー",
+            "pickaxe は /ˈpɪkˌæks/。we は /wi/（子音+子音、連結なし）",
+            "in は /ɪn/。the は弱形 /ðə/（子音+子音、連結なし）[ɪn ðə] イン ザ",
+            "the は /ðə/。deep に連結 [ðə ˈdiːp] ザ ディープ"
+          ],
+          "kana": "アイル ファンシー ザ ニュー インチャンティド ピックアックス ウィ ジャスト ファウンド イン ザ ディープ ケイブズ"
+        },
+        {
+          "en": "They'll fancy building a castle with the new purple stone blocks.",
+          "ja": "彼らは新しい紫色のストーンブロックで城を建てることを望むだろう。",
+          "ipa": "/ðeɪl ˈfænsi ˈbɪldɪŋ ə ˈkæsəl wɪð ðə ˈnuː ˈpɝːpəl ˈstoʊn ˈblɑːks/",
+          "linking": [
+            "They'll は /ðeɪl/。fancy に続く",
+            "building は /ˈbɪldɪŋ/。a は /ə/ で連結 [ˈbɪldɪŋ ə] ビルディング ア",
+            "a は /ə/。castle に連結 [ə ˈkæsəl] ア キャスル",
+            "with は /wɪð/。the に続く",
+            "the は /ðə/。new に連結 [ðə ˈnuː] ザ ニュー",
+            "purple は /ˈpɝːpəl/。stone に続く"
+          ],
+          "kana": "ゼイル ファンシー ビルディング ア キャスル ウィズ ザ ニュー パープル ストーン ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（動詞）",
+      "text": "will have fancied",
+      "ipa": "/wɪl əv ˈfænsiːd/",
+      "examples": [
+        {
+          "en": "By the end of the month, she will have fancied every rare biome in the game.",
+          "ja": "月末までに、彼女はゲーム内のすべてのレアバイオームを気に入っているだろう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ | ʃi wɪl əv ˈfænsiːd ˈɛveri ˈrɛər baɪˈoʊm ɪn ðə ˈɡeɪm/",
+          "linking": [
+            "by は /baɪ/。the は弱形 /ðə/ で連結 [baɪ ðə] バイ ザ",
+            "the は /ðə/。end に連結 [ðə ˈɛnd] ザ エンド",
+            "of は弱形 /əv/。the に連結 [əv ðə] オブ ザ",
+            "the は /ðə/。month に連結 [ðə ˈmʌnθ] ザ マンス",
+            "will have は will は /wɪl/、have は弱形 /əv/ で連結 [wɪl əv ˈfænsiːd] ウィル オブ ファンシード",
+            "the は /ðə/。game に連結 [ðə ˈɡeɪm] ザ ゲーム"
+          ],
+          "kana": "バイ ザ エンド オブ ザ マンス、シー ウィル オブ ファンシード エブリー レアー バイオーム イン ザ ゲーム"
+        },
+        {
+          "en": "They will have fancied all the enchanted tools by the time we explore the Nether.",
+          "ja": "私たちがネザーを探検するまでに、彼らはすべての魔法の道具を気に入っているだろう。",
+          "ipa": "/ðeɪ wɪl əv ˈfænsiːd ˈɔːl ðə ɪnˈtʃæntɪd ˈtuːlz baɪ ðə ˈtaɪm wi ɪkˈsplɔːr ðə ˈnɛðər/",
+          "linking": [
+            "they は /ðeɪ/。will に続く",
+            "will have は will は /wɪl/、have は弱形 /əv/ で連結 [wɪl əv] ウィル オブ",
+            "all は /ɔːl/。the に続く",
+            "the は /ðə/。enchanted に連結 [ðə ɪnˈtʃæntɪd] ザ インチャンティド",
+            "by は /baɪ/。the に続く",
+            "the は /ðə/。time に連結 [ðə ˈtaɪm] ザ タイム",
+            "the は /ðə/。Nether に連結 [ðə ˈnɛðər] ザ ネザー"
+          ],
+          "kana": "ゼイ ウィル オブ ファンシード オール ザ インチャンティド ツールズ バイ ザ タイム ウィー エクスプロアー ザ ネザー"
+        }
+      ]
     }
   ]
 }
