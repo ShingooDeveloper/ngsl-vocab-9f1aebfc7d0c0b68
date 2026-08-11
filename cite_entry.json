@@ -233,6 +233,100 @@
           "kana": "サイティング エヴリー ソース イン ザ チュートリアル ヘルプス アザー プレイアーズ ラーン ファースター"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will cite",
+      "ipa": "/wɪl ˈsaɪt/",
+      "examples": [
+        {
+          "en": "I will cite the wiki for crafting recipes.",
+          "ja": "クラフティングレシピについてウィキを引用します。",
+          "ipa": "/aɪ wɪl ˈsaɪt ðə ˈwɪki fɔr ˈkræftɪŋ ˈrɛsɪpiz/",
+          "linking": [
+            "I will → 会話体では I'll の縮約形 /aɪl/ アイル",
+            "cite the → cite の語末子音 /t/ が the の初頭子音 /ð/ に子音+子音で自然に続く",
+            "for crafting → for は機能語で弱形 /fər/ or /fɚ/ ファー"
+          ],
+          "kana": "アイル サイト ザ ウィキ ファー クラフティング レシピズ"
+        },
+        {
+          "en": "They will cite recent updates to support their argument.",
+          "ja": "彼らは彼らの主張を支持するために最近のアップデートを引用するでしょう。",
+          "ipa": "/ðeɪ wɪl ˈsaɪt ˈrisənt ˈʌpˌdeɪts tə səˈpɔrt ðɛr ˈɑrɡjəmənt/",
+          "linking": [
+            "They will → 会話体では They'll の縮約形 /ðeɪl/ ザイル",
+            "cite recent → cite の語末子音 /t/ が recent に開放されず連結 [ˈsaɪt̚ ˈrisənt] サイト リーセント",
+            "to support → to は機能語で弱形 /tə/ タ"
+          ],
+          "kana": "ザイル サイト リーセント アップデイツ タ サポート ザー アーギュメント"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be citing",
+      "ipa": "/wɪl bi ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "They will be citing ancient ruins when we explore the desert.",
+          "ja": "私たちが砂漠を探索するとき、彼らは古代の遺跡を引用しているでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈsaɪtɪŋ ˈeɪnʃənt ˈruːɪnz wɛn wi ɪkˈsplɔr ðə ˈdɛzərt/",
+          "linking": [
+            "They will be → 会話体では They'll be /ðeɪl bi/、be は弱形 /bə/ に弱化することもある",
+            "be citing → be が弱形なら /bə ˈsaɪtɪŋ/ バ サイティング",
+            "citing ancient → citing の語末鼻音 /ŋ/ が ancient の初頭母音 /ɛ/ に連結 [ˈsaɪtɪŋ ˈɛnʃənt] サイティング エンシェント",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイル ビー サイティング エンシェント ルーインズ ウェン ウィー エクスプロア ザ デザート"
+        },
+        {
+          "en": "She will be citing redstone logic when I join the server.",
+          "ja": "私がサーバーに参加するとき、彼女はレッドストーンロジックを引用しているでしょう。",
+          "ipa": "/ʃi wɪl bi ˈsaɪtɪŋ ˈrɛdˌstoʊn ˈlɑdʒɪk wɛn aɪ dʒɔɪn ðə ˈsɚvər/",
+          "linking": [
+            "She will be → 会話体では She'll be /ʃil bi/、be は弱形 /bə/ に弱化することもある",
+            "be citing → be が弱形なら /bə ˈsaɪtɪŋ/ バ サイティング",
+            "citing redstone → 子音+子音で自然に続く",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ウィル ビー サイティング レッドストーン ロジック ウェン アイ ジョイン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have cited",
+      "ipa": "/wɪl əv ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By next update, I will have cited all the major changes.",
+          "ja": "次のアップデートまでに、私は全ての主要な変更を引用しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈʌpˌdeɪt aɪ wɪl əv ˈsaɪtɪd ɔl ðə ˈmeɪdʒər ˈtʃeɪndʒɪz/",
+          "linking": [
+            "I will have → 会話体では I'll have /aɪl əv/ アイル ハヴ（have の弱形 /əv/）",
+            "have cited → have の弱形 /əv/ が cited の初頭子音 /s/ に子音+子音で続く [əv ˈsaɪtɪd] アヴ サイティド",
+            "cited all → cited の語末子音 /d/ が all の初頭母音 /ɔ/ に連結 [ˈsaɪtɪd ɔl] サイティド オール",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ネクスト アップデイト アイル ハヴ サイティド オール ザ メイジャー チェンジィズ"
+        },
+        {
+          "en": "We will have cited every source by the end of the week.",
+          "ja": "週の終わりまでに、私たちは全てのソースを引用しているでしょう。",
+          "ipa": "/wi wɪl əv ˈsaɪtɪd ˈɛvri soʊrs baɪ ðə ɛnd əv ðə ˈwik/",
+          "linking": [
+            "We will have → 会話体では We'll have /wil əv/ ウィル ハヴ（have の弱形 /əv/）",
+            "have cited → /əv ˈsaɪtɪd/ アヴ サイティド",
+            "cited every → cited の語末子音 /d/ が every の初頭母音 /ɛ/ に連結 [ˈsaɪtɪd ˈɛvəri] サイティド エヴリー",
+            "of the → 子音+子音で自然に続く（of の弱形 /əv/ アヴ、the の弱形 /ðə/ ザ）"
+          ],
+          "kana": "ウィ ウィル ハヴ サイティド エヴリー ソース バイ ザ エンド アヴ ザ ウィーク"
+        }
+      ]
     }
   ]
 }
