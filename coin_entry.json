@@ -217,6 +217,94 @@
           "kana": "バイ コーニング ターモズ トゥゲザー ザ コミュニティ クリエイツ シェアード ヴォキャビュラリー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will coin",
+      "ipa": "/wɪl ˈkoʊn/",
+      "examples": [
+        {
+          "en": "Players will coin new terms for mob farm variations.",
+          "ja": "プレイヤーはモブファーム変種のための新しい用語を造語するでしょう。",
+          "ipa": "/ˈpleɪərz wɪl ˈkoʊn ˈnjuː ˈtɝmz fɔr moʊb fɑrm ˌvɛriˈeɪʃənz/",
+          "linking": [
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "プレイヤーズ ウィル コイン ニュー ターモズ フォー モウブ ファーム ヴェリエーションズ"
+        },
+        {
+          "en": "In the future, builders will coin phrases for new architecture styles.",
+          "ja": "将来、建築者は新しい建築スタイルのためにフレーズを造語するでしょう。",
+          "ipa": "/ɪn ðə ˈfjuːtʃər ˈbɪldərz wɪl ˈkoʊn ˈfreɪzəz fɔr ˈnjuː ɑrˈkɪtɛktʃər ˈstaɪlz/",
+          "linking": [
+            "In は機能語で弱形 /ɪn/、the も弱形 /ðə/",
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "イン ザ フューチャー ビルダーズ ウィル コイン フレイズズ フォー ニュー アーキテクチャー スタイルズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be coining",
+      "ipa": "/wɪl bi ˈkoʊnɪŋ/",
+      "examples": [
+        {
+          "en": "The developers will be coining new terms for each update.",
+          "ja": "開発者は各アップデートのための新しい用語を造語し続けるでしょう。",
+          "ipa": "/ðə dɪˈvɛləpərz wɪl bi ˈkoʊnɪŋ ˈnjuː ˈtɝmz fɔr itʃ ˈʌpdeɪt/",
+          "linking": [
+            "The は弱形 /ðə/",
+            "be は弱形 /bi/",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ザ ディベラパーズ ウィル ビー コーニング ニュー ターモズ フォー イッチ アップデイト"
+        },
+        {
+          "en": "While exploring, players will be coining names for discoveries.",
+          "ja": "探索している間、プレイヤーは発見のための名前を造語し続けるでしょう。",
+          "ipa": "/waɪl ɪkˈsplɔrɪŋ ˈpleɪərz wɪl bi ˈkoʊnɪŋ neɪmz fɔr dɪˈskʌvərɪz/",
+          "linking": [
+            "While の末尾子音 /l/ が exploring の初頭母音 /ɪ/ に連結 [ˈwaɪlɪk]→ワイル",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ワイル イクスプロリング プレイヤーズ ウィル ビー コーニング ネイムズ フォー ディスカバリーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have coined",
+      "ipa": "/wɪl həv ˈkɔɪnd/",
+      "examples": [
+        {
+          "en": "By next season, the community will have coined dozens of new terms.",
+          "ja": "来シーズンまでに、コミュニティは数十個の新しい用語を造語しているでしょう。",
+          "ipa": "/baɪ nɛks̚t ˈsizən ðə kəˈmjunəti wɪl həv ˈkɔɪnd ˈdʌzənz əv ˈnjuː ˈtɝmz/",
+          "linking": [
+            "by は弱形 /baɪ/",
+            "next の末尾子音 /t/ は未開放",
+            "the は弱形 /ðə/",
+            "have は弱形 /həv/",
+            "coined の末尾 /d/ は未開放、of は弱形 /əv/"
+          ],
+          "kana": "バイ ネクス シーズン ザ コミュニティ ウィル ハヴ コインド ダズンズ アヴ ニュー ターモズ"
+        },
+        {
+          "en": "They will have coined a proper name for this biome by exploration's end.",
+          "ja": "彼らは探検の終わりまでにこのバイオームのための適切な名前を造語しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈkɔɪndə ˈprɑpər neɪm fɔr ðɪs ˈbaɪoʊm baɪ ɪkˌsplɔˈreɪʃənz ɛnd/",
+          "linking": [
+            "have は弱形 /həv/",
+            "coined の末尾 /d/ が a の初頭母音 /ə/ に連結 [ˈkɔɪndə]",
+            "for は弱形 /fɔr/"
+          ],
+          "kana": "ゼイ ウィル ハヴ コインダ プロッパー ネイム フォー ディス バイオーム バイ イクスプロレーションズ エンド"
+        }
+      ]
     }
   ]
 }
