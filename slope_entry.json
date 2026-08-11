@@ -293,6 +293,101 @@
           "kana": "ウィ ハヴ ビン スロウピング ザ ランドスケイプ ファー ウィークス タ プリペア ファー ザ ストーム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will slope",
+      "ipa": "/wɪl sloʊp/",
+      "examples": [
+        {
+          "en": "I will slope the roof of my house tomorrow to improve its appearance.",
+          "ja": "明日、家の屋根を傾けて外観を改善するつもりです。",
+          "ipa": "/aɪ wɪl sloʊp ðə ˈruf əv maɪ ˈhaʊs təˈmɑːroʊ tu ɪmˈpruːv ɪts əˈpɪrəns/",
+          "linking": [
+            "will の末尾 /l/ が slope の初頭子音 /s/。no linking",
+            "slope の末尾 /p/ が the の初頭子音 /ð/。no linking、the は弱形 /ðə/",
+            "roof の末尾 /f/ が of の初頭母音 /ə/ に連結 [ˈruf əv] ルーフ オヴ。of は弱形 /əv/"
+          ],
+          "kana": "アイ ウィル スロウプ ザ ルーフ オヴ マイ ハウス トゥモロウ トゥ インプルーヴ イッツ アピアランス"
+        },
+        {
+          "en": "The terrain will slope downward to help water drain properly.",
+          "ja": "地形は水がしっかり流れるように下に傾くでしょう。",
+          "ipa": "/ðə ˈtɛreɪn wɪl sloʊp ˈdaʊnwərd tu hɛlp ˈwɔːtɚ ˈdreɪn ˈproʊpɚli/",
+          "linking": [
+            "terrain の末尾 /n/ が will の初頭子音 /w/。no linking",
+            "will の末尾 /l/ が slope の初頭子音 /s/。no linking",
+            "slope の末尾 /p/ が downward の初頭子音 /d/。no linking、downward の /d/ は未開放",
+            "water の末尾 /r/ が drain の初頭子音 /d/。water の /t/ がフラップ化 [ˈwɔːɾɚ ˈdreɪn] ウォーラー ドレイン"
+          ],
+          "kana": "ザ テレイン ウィル スロウプ ダウンワード トゥ ヘルプ ウォーラー ドレイン プロパーリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be sloping",
+      "ipa": "/wɪl bi ˈsloʊpɪŋ/",
+      "examples": [
+        {
+          "en": "While you're gathering supplies, I'll be sloping the edges of the tower.",
+          "ja": "あなたが物資を集めている間、私はタワーの端を傾けているでしょう。",
+          "ipa": "/waɪl jɔɹ ˈɡæðɚɪŋ səˈplaɪz aɪl bi ˈsloʊpɪŋ ðə ˈɛdʒəz əv ðə ˈtaʊɚ/",
+          "linking": [
+            "you're の末尾 /ɹ/ が gathering の初頭子音 /ɡ/。no linking",
+            "supplies の末尾 /z/ が I'll の初頭母音 /aɪ/ に連結 [səˈplaɪz aɪl] サプライズ アイル",
+            "I'll は /aɪl/ の縮約。be の末尾 /i/ が sloping の初頭子音 /s/。no linking",
+            "sloping の末尾 /ŋ/ が the の初頭子音 /ð/。no linking、the は弱形 /ðə/"
+          ],
+          "kana": "ワイル ユア ギャザリング サプライズ アイル ビー スロウピング ザ エッジーズ アヴ ザ タワー"
+        },
+        {
+          "en": "The landscape will be sloping gradually over the next week.",
+          "ja": "景観は来週にかけて徐々に傾いていくでしょう。",
+          "ipa": "/ðə ˈlændskeɪp wɪl bi ˈsloʊpɪŋ ˈɡrædʒuəli ˈoʊvɚ ðə ˈnɛkst ˈwiːk/",
+          "linking": [
+            "landscape の末尾 /p/ が will の初頭子音 /w/。no linking",
+            "will の末尾 /l/ が be の初頭子音 /b/。no linking",
+            "be の末尾 /i/ が sloping の初頭子音 /s/。no linking",
+            "gradually の末尾 /i/ が over の初頭母音 /ə/ に連結 [ˈɡrædʒuəli ˈoʊvɚ] グラジュアリー オーバー"
+          ],
+          "kana": "ザ ランドスケイプ ウィル ビー スロウピング グラジュアリー オーバー ザ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have sloped",
+      "ipa": "/wɪl həv sloʊpt/",
+      "examples": [
+        {
+          "en": "By the time the storm arrives, we will have sloped the entire base structure.",
+          "ja": "嵐が到来するまでに、私たちは基地全体を傾け終わっているでしょう。",
+          "ipa": "/baɪ ðə taɪm ðə ˈstɔɹm əˈraɪvz wi wɪl həv sloʊpt ðə ɪnˈtaɪɚ ˈbeɪs ˈstrʌktʃɚ/",
+          "linking": [
+            "time の末尾 /m/ が the の初頭子音 /ð/。/m/ は未開放で接続。the は弱形 /ðə/",
+            "storm の末尾 /m/ が arrives の初頭母音 /ə/ に連結 [ˈstɔɹm əˈraɪvz] ストーム ア ライヴズ",
+            "will の末尾 /l/ が have の初頭子音 /h/。no linking、have は弱形 /həv/",
+            "sloped の末尾 /t/ が the の初頭子音 /ð/。未開放で接続。the は弱形 /ðə/ [sloʊp̚t̚ ðə] スロウップ ザ"
+          ],
+          "kana": "バイ ザ タイム ザ ストーム ア ライヴズ ウィ ウィル ハヴ スロウップ ザ インタイア ベース ストラクチャー"
+        },
+        {
+          "en": "They will have sloped all the edges by midnight to finish the project on time.",
+          "ja": "彼らは時間通りプロジェクトを終わらせるために、真夜中までに全ての端を傾け終わっているでしょう。",
+          "ipa": "/ðeɪ wɪl həv sloʊpt ɔːl ðə ˈɛdʒəz baɪ ˈmɪdˌnaɪt tu ˈfɪnɪʃ ðə ˈprɑdʒɛkt ɑn ˈtaɪm/",
+          "linking": [
+            "will の末尾 /l/ が have の初頭子音 /h/。no linking、have は弱形 /həv/",
+            "sloped の末尾 /t/ が all の初頭子音 /ɔ/。未開放で接続。all の /l/ は二重 [sloʊp̚t̚ ɔːl] スロウップ オール",
+            "edges の末尾 /z/ が by の初頭子音 /b/。no linking",
+            "project の末尾 /t/ が on の初頭母音 /ɑ/ に連結。on は弱形 /ɑn/ [ˈprɑdʒɛkt̚ ɑn] プロジェクト オン"
+          ],
+          "kana": "ザイ ウィル ハヴ スロウップ オール ザ エッジーズ バイ ミッドナイト トゥ フィニッシュ ザ プロジェクト オン タイム"
+        }
+      ]
     }
   ],
   "idioms": [
