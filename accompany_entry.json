@@ -201,6 +201,101 @@
           "kana": "ワイラカンパニング ザグループ スルー ア ストーム ウォッチファー ライトニング"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will accompany",
+      "ipa": "/wɪl əˈkʌmpəni/",
+      "examples": [
+        {
+          "en": "I will accompany you to the end of this quest.",
+          "ja": "このクエストの終わりまであなたに付き添うつもりです。",
+          "ipa": "/aɪ wɪl əˈkʌmpəni juː tə ðə ɛnd əv ðɪs kwɛst/",
+          "linking": [
+            "will の末尾子音 /l/ が accompany の初頭母音 /ə/ に連結 [wɪləˈkʌmpəni] ウィルアカンパニ",
+            "to は機能語で弱形 /tə/、the は /ðə/ で連結 [təðə] タザ",
+            "end の末尾 /d/ が of の初頭（弱形 /əv/）に連結 [ɛndəv] エンダヴ"
+          ],
+          "kana": "アイ ウィラカンパニ ユー タザ エンダヴ ディス クエスト"
+        },
+        {
+          "en": "They will accompany us to explore the new biome.",
+          "ja": "彼らは新しいバイオームを探検するために私たちに付き添うつもりです。",
+          "ipa": "/ðeɪ wɪl əˈkʌmpəni ʌs tə ɪkˈsploʊr ðə njuː baɪˈoʊm/",
+          "linking": [
+            "will の末尾子音 /l/ が accompany の初頭母音 /ə/ に連結 [wɪləˈkʌmpəni] ウィルアカンパニ",
+            "to は機能語で弱形 /tə/、explore の初頭 /ɪ/ に連結 [təɪkˈsploʊr] タイクスプロア",
+            "the は弱形 /ðə/、new に連結 [ðənjuː] ザニュー"
+          ],
+          "kana": "ザエイ ウィラカンパニ アス タイクスプロア ザニュー バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be accompanying",
+      "ipa": "/wɪl bi əˈkʌmpənɪŋ/",
+      "examples": [
+        {
+          "en": "We will be accompanying the builder during the construction phase.",
+          "ja": "建築段階中、私たちは建築者に付き添うつもりです。",
+          "ipa": "/wi wɪl bi əˈkʌmpənɪŋ ðə ˈbɪldər ˈdʊrɪŋ ðə kənˈstɹʌkʃən feɪz/",
+          "linking": [
+            "will の末尾子音 /l/ が be の初頭 /b/ に連結 [wɪlbi] ウィルビ",
+            "be の末尾 /i/ が accompanying の初頭 /ə/ に連結 [biəˈkʌmpənɪŋ] ビアカンパニング",
+            "the は弱形 /ðə/、builder に連結 [ðəˈbɪldər] ザビルダー",
+            "during の末尾 /ŋ/ が the の初頭 /ð/ では連結せず。the は弱形 /ðə/ で [ˈdʊrɪŋðə] ジュアリングザ"
+          ],
+          "kana": "ウィー ウィルビアカンパニング ザビルダー ジュアリングザ コンストラクション フェイズ"
+        },
+        {
+          "en": "She will be accompanying them when they venture deeper into the caves tomorrow.",
+          "ja": "明日、彼らが洞窟の奥深くへ冒険に行くとき、彼女は彼らに付き添うつもりです。",
+          "ipa": "/ʃi wɪl bi əˈkʌmpənɪŋ ðɛm wɛn ðeɪ ˈvɛntʃər ˈdipər ˈɪntu ðə ˈkeɪvz təˈmɑroʊ/",
+          "linking": [
+            "will の末尾子音 /l/ が be の初頭 /b/ に連結 [wɪlbi] ウィルビ",
+            "be の末尾 /i/ が accompanying の初頭 /ə/ に連結 [biəˈkʌmpənɪŋ] ビアカンパニング",
+            "into の末尾 /u/ が the の初頭 /ð/ に連結し、the は弱形 /ðə/ で [ˈɪntuðə] イントゥザ",
+            "caves の末尾 /z/ が tomorrow の to の初頭 /t/ に連結 [keɪvztə] ケイブズタ"
+          ],
+          "kana": "シー ウィルビアカンパニング ザム ウェン ザエイ ベンチャー ディーパー イントゥザ ケイブズ タモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have accompanied",
+      "ipa": "/wɪl həv əˈkʌmpənid/",
+      "examples": [
+        {
+          "en": "By next week, I will have accompanied this expedition through five difficult dungeons.",
+          "ja": "来週までに、この遠征隊を5つの難しいダンジョンを通じて同伴したことになります。",
+          "ipa": "/baɪ ˈnɛkst wik aɪ wɪl həv əˈkʌmpənid ðɪs ɛkˈspɪdɪʃən θruː faɪv ˈdɪfɪkəlt ˈdʌndʒənz/",
+          "linking": [
+            "will の末尾子音 /l/ が have の初頭 /h/ に連結 [wɪlhæv] ウィルハヴ",
+            "have の末尾 /v/ が accompanied の初頭 /ə/ に連結 [həvəˈkʌmpənid] ハヴアカンパニド",
+            "through の末尾 /uː/ が five の初頭 /f/ に続く [θruːfaɪv] スルーファイヴ",
+            "difficult の末尾 /t/ が dungeons の初頭 /d/ に連結。difficult の /t/ は未開放気味 [ˈdɪfɪkəltdˈʌndʒənz] ディフィカッドラッジュンズ"
+          ],
+          "kana": "バイ ネクスト ウィーク アイ ウィルハヴアカンパニド ディス イクスピディション スルーファイヴ ディフィカッドラッジュンズ"
+        },
+        {
+          "en": "They will have accompanied us for over a month by the time we reach the final boss.",
+          "ja": "最終ボスに到達するまでに、彼らは1ヶ月以上の間、私たちに付き添ったことになります。",
+          "ipa": "/ðeɪ wɪl həv əˈkʌmpənid ʌs fɔr ˈoʊvər ə ˈmʌnθ baɪ ðə ˈtaɪm wi ˈritʃ ðə ˈfaɪnəl ˈbɑs/",
+          "linking": [
+            "will の末尾子音 /l/ が have の初頭 /h/ に連結 [wɪlhæv] ウィルハヴ",
+            "have の末尾 /v/ が accompanied の初頭 /ə/ に連結 [həvəˈkʌmpənid] ハヴアカンパニド",
+            "for は機能語で弱形 /fɔr/。over の初頭 /oʊ/ との間に連結は起きない",
+            "month の末尾 /θ/ が by の初頭 /b/ では連結せず。by は弱形 /baɪ/ で、the は /ðə/ に連結 [baɪðə] バイザ",
+            "reach の末尾 /tʃ/ が the の初頭 /ð/ に連結 [ˈritʃðə] リッチザ"
+          ],
+          "kana": "ザエイ ウィルハヴアカンパニド アス フォー オーバー ア マンス バイザ タイム ウィー リッチザ ファイナル ボス"
+        }
+      ]
     }
   ]
 }
