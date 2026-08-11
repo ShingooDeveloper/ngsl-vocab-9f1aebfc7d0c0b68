@@ -176,5 +176,95 @@
         }
       ]
     }
+  ],
+  {
+    "type": "future",
+    "label": "単純未来形",
+    "text": "will educate",
+    "ipa": "/wɪl ˈɛdʒəkeɪt/",
+    "examples": [
+      {
+        "en": "I will educate the villagers about the new farm.",
+        "ja": "村人たちに新しい農場について教えます。",
+        "ipa": "[aɪl ˈɛdʒəkeɪt ðə ˈvɪlɪdʒərz əˈbaʊt ðə nju fɑːrm]",
+        "linking": [
+          "I will → I'll の縮約 [aɪl]",
+          "villagers about → villagers の語末 /z/ が about の弱形 /ə/ に連結 [ˈvɪlɪdʒərz əˈbaʊt] ヴィリッジャーズ アバウト",
+          "about the → about の語末 /t/ が未開放で the へ繋がる [əˈbaʊt̚ ðə] アバウッ ザ"
+        ],
+        "kana": "アイル エジュケイト ザ ヴィリッジャーズ アバウト ザ ニュー ファーム"
+      },
+      {
+        "en": "They will educate newer players on how to build a castle.",
+        "ja": "彼らは新しいプレイヤーに城の建築方法を教えるでしょう。",
+        "ipa": "[ðeɪl ˈɛdʒəkeɪt ˈnuːər ˈpleɪərz ɑn haʊ tə bɪld ə ˈkæsəl]",
+        "linking": [
+          "They will → They'll の縮約 [ðeɪl]",
+          "to build → to は弱形 /tə/、build の /b/ に連結 [tə bɪld] タ ビルド",
+          "a castle → a は弱形 /ə/、castle の /k/ に連結 [ə ˈkæsəl] ア キャスル"
+        ],
+        "kana": "ザイル エジュケイト ニューアー プレイアーズ オン ハウ タ ビルド ア キャスル"
+      }
+    ]
+  },
+  {
+    "type": "future_progressive",
+    "label": "未来進行形",
+    "text": "will be educating",
+    "ipa": "/wɪl bi ˈɛdʒəkeɪtɪŋ/",
+    "examples": [
+      {
+        "en": "I will be educating my friend about redstone mechanics tomorrow.",
+        "ja": "明日、私は友人にレッドストーン機構について教えています（予定）。",
+        "ipa": "[aɪl bi ˈɛdʒəkeɪtɪŋ maɪ frɛnd əˈbaʊt ˈrɛdstoʊn məˈkænɪks təˈmɑːroʊ]",
+        "linking": [
+          "I will → I'll の縮約 [aɪl]",
+          "friend about → friend の語末 /d/ が未開放で about へ繋がる [frɛnd̚ əˈbaʊt] フレンッ アバウト",
+          "about redstone → about の語末 /t/ が未開放で redstone へ繋がる [əˈbaʊt̚ ˈrɛdstoʊn] アバウッ レッドストーン"
+        ],
+        "kana": "アイル ビー エジュケイティング マイ フレンド アバウト レッドストーン マカニクス トゥモロー"
+      },
+      {
+        "en": "She will be educating the server members during the livestream.",
+        "ja": "ライブストリーム中に、彼女はサーバーメンバーに教えています（予定）。",
+        "ipa": "[ʃil bi ˈɛdʒəkeɪtɪŋ ðə ˈsɝːvər ˈmɛmbərz ˈdʊrɪŋ ðə ˈlaɪvˌstrim]",
+        "linking": [
+          "She will → She'll の縮約 [ʃil]",
+          "the server → the は弱形 /ðə/、server の /s/ に連結 [ðə ˈsɝːvər] ザ サーヴァー"
+        ],
+        "kana": "シル ビー エジュケイティング ザ サーヴァー メンバーズ ジュアリング ザ ライブストリーム"
+      }
+    ]
+  },
+  {
+    "type": "future_perfect",
+    "label": "未来完了形",
+    "text": "will have educated",
+    "ipa": "/wɪl hæv ˈɛdʒəkeɪtɪd/",
+    "examples": [
+      {
+        "en": "By next week, I will have educated myself on all the new blocks.",
+        "ja": "来週までに、新しいブロック全てについて自分を教育してしまいます。",
+        "ipa": "[baɪ nɛkst wik aɪl hæv ˈɛdʒəkeɪtɪd maɪˈsɛlf ɑn ɔl ðə nju blɑks]",
+        "linking": [
+          "I will → I'll の縮約 [aɪl]",
+          "have educated → have の /v/ が educated の /ɛ/ に連結 [hæv ˈɛdʒəkeɪtɪd] ハヴ エジュケイティド",
+          "myself on → myself の語末 /f/ が on の /ɑ/ に連結 [maɪˈsɛlf ɑn] マイセルフ オン"
+        ],
+        "kana": "バイ ネクスト ウィーク アイル ハヴ エジュケイティド マイセルフ オン オール ザ ニュー ブロックス"
+      },
+      {
+        "en": "The server owner will have educated all players about the new rules before the season starts.",
+        "ja": "シーズン開始前に、サーバー管理者は全プレイヤーに新しいルールについて教えてしまいます。",
+        "ipa": "[ðə ˈsɝːvər ˈoʊnər wɪl hæv ˈɛdʒəkeɪtɪd ɔl ˈpleɪərz əˈbaʊt ðə nju rulz bɪˈfɔːr ðə ˈsiːzən stɑːrts]",
+        "linking": [
+          "The → 弱形 /ðə/",
+          "have educated → have の /v/ が educated の /ɛ/ に連結 [hæv ˈɛdʒəkeɪtɪd] ハヴ エジュケイティド",
+          "about the → about の語末 /t/ が未開放で the へ繋がる [əˈbaʊt̚ ðə] アバウッ ザ"
+        ],
+        "kana": "ザ サーヴァー オウナー ウィル ハヴ エジュケイティド オール プレイアーズ アバウト ザ ニュー ルールズ ビフォア ザ シーズン スターツ"
+      }
+    ]
+  }
   ]
 }
