@@ -194,6 +194,92 @@
           "kana": "マルチポル スキャンザヴ ディス エリア ショウ プラマシング リザルツ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will scan",
+      "ipa": "/wɪl skæn/",
+      "examples": [
+        {
+          "en": "I will scan the ocean floor tomorrow.",
+          "ja": "私は明日、海底をスキャンします。",
+          "ipa": "/aɪ wɪl skæn ðə ˈoʊʃən ˈflɔr təˈmɑroʊ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "アイ ウィル スキャン ザ オウシャン フロア タモロウ"
+        },
+        {
+          "en": "The system will scan for hidden structures.",
+          "ja": "システムは隠された構造物を探すようにスキャンします。",
+          "ipa": "/ðə ˈsɪstəm wɪl skæn fɔr ˈhɪdən ˈstrʌktʃərz/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ に弱化",
+            "for は機能語で弱形 /fɔr/ に弱化"
+          ],
+          "kana": "ザ システム ウィル スキャン フォア ヒドン ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be scanning",
+      "ipa": "/wɪl bi ˈskænɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be scanning the jungle all evening.",
+          "ja": "私は夜間ずっとジャングルをスキャンしています。",
+          "ipa": "/aɪl bi ˈskænɪŋ ðə ˈdʒʌŋɡəl ɔl ˈivnɪŋ/",
+          "linking": [
+            "I'll = I will の縮約形。末尾の /l/ が be の /b/ に続く子音で自然に続く",
+            "be は弱形 /bi/ に弱化（助動詞）",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイル ビー スキャニング ザ ジャングル オール イブニング"
+        },
+        {
+          "en": "They will be scanning for ancient ruins.",
+          "ja": "彼らは古代遺跡を探してスキャンしています。",
+          "ipa": "/ðeɪ wɪl bi ˈskænɪŋ fɔr ˈeɪnʃənt ˈruːɪnz/",
+          "linking": [
+            "will be → 子音で自然に続く",
+            "be は弱形 /bi/ に弱化（助動詞）",
+            "for は機能語で弱形 /fɔr/ に弱化"
+          ],
+          "kana": "ゼイ ウィル ビー スキャニング ファー エインシャント ルーインズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have scanned",
+      "ipa": "/wɪl həv skænd/",
+      "examples": [
+        {
+          "en": "I will have scanned the entire map by dawn.",
+          "ja": "夜明けまでに、私はマップ全体をスキャンしている。",
+          "ipa": "/aɪ wɪl həv skænd ðə ɪnˈtaɪər mæp baɪ dɔn/",
+          "linking": [
+            "have は弱形 /həv/ に弱化（助動詞）",
+            "the は冠詞で弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイ ウィル ハヴ スキャンド ザ インタイア マップ バイ ドーン"
+        },
+        {
+          "en": "She will have scanned three biomes by then.",
+          "ja": "その時までに、彼女は3つのバイオームをスキャンしている。",
+          "ipa": "/ʃi wɪl həv skænd θri baɪˈoʊmz baɪ ðɛn/",
+          "linking": [
+            "have は弱形 /həv/ に弱化（助動詞）",
+            "scanned three → 子音で自然に続く"
+          ],
+          "kana": "シー ウィル ハヴ スキャンド スリー バイオームズ バイ ザン"
+        }
+      ]
     }
   ]
 }
