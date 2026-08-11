@@ -179,6 +179,108 @@
           "kana": "ヒー ワズ クリティサイジング ザ レッドストウン タイミング ホェン ウィ ディスカバード ア バグ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will criticize",
+      "ipa": "/wɪl ˈkrɪtɪsaɪz/",
+      "examples": [
+        {
+          "en": "I will criticize your redstone contraption if it doesn't work properly.",
+          "ja": "もし正常に機能しなければ、私はあなたのレッドストーン装置を批判するだろう。",
+          "ipa": "/aɪ wɪl ˈkrɪtɪsaɪz jɔr ˈrɛdˌstoʊn kənˈtræpʃən | ɪf ɪt ˈdʌzənt wɝk ˈpɹoʊpɚli/",
+          "linking": [
+            "I will → will は /l/ で終わり、criticize の /k/ に続く（子音+子音）。実際には I'll に縮約されることが多い [aɪl ˈkrɪtɪsaɪz] アイル クリティサイズ",
+            "your redstone → /r/ が母音に連結 [jɔr ˈrɛd] ユア レッド",
+            "if it → /f/ + /ɪ/ が連結 [ɪf‿ɪt] イフ イット（it の /t/ は未開放）",
+            "doesn't work → doesn't の /t/ は未開放、work に続く"
+          ],
+          "kana": "アイル クリティサイズ ユア レッドストウン コントラプション、イフ イット ダズント ワーク プロパリー"
+        },
+        {
+          "en": "She will criticize the farm design, but she respects the builder's effort.",
+          "ja": "彼女は農場の設計を批判するだろうが、彼女はビルダーの努力を尊重する。",
+          "ipa": "/ʃi wɪl ˈkrɪtɪsaɪz ðə ˈfɑːrm dɪˈzaɪn | ˌbət ʃi rɪˈspɛkts ðə ˈbɪldɚz ˈɛfɚt/",
+          "linking": [
+            "She will → will は /l/ で終わり、criticize の /k/ に続く。She'll に縮約 [ʃɪl ˈkrɪtɪsaɪz] シュル クリティサイズ",
+            "criticize the → /z/ + /ð/（子音+子音）。the は弱形 /ðə/ ザ",
+            "but she → but の /t/ は未開放、she の /ʃ/ に続く [bʌt‿ʃi] バット シー",
+            "respects the → /s/ が続く、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シュル クリティサイズ ザ ファーム ディザイン、バット シー リスペクツ ザ ビルダーズ エフォート"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be criticizing",
+      "ipa": "/wɪl bi ˈkrɪtɪsaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "They will be criticizing the mining strategy during the entire tournament.",
+          "ja": "彼らはトーナメント全体を通じて採掘戦略を批判し続けるだろう。",
+          "ipa": "/ðeɪ wɪl bi ˈkrɪtɪsaɪzɪŋ ðə ˈmaɪnɪŋ ˈstrætɪdʒi | ˈdʊrɪŋ ðə ɪnˈtaɪɚ ˈtɔːrnəmənt/",
+          "linking": [
+            "They will → they'll に縮約 [ðeɪl bi] ゼイル ビー（will の /l/ が be の /b/ に続く）",
+            "be criticizing → /bi/ + /k/（子音+子音）",
+            "criticizing the → /ŋ/ + /ð/（子音+子音）。the は弱形 /ðə/ ザ",
+            "mining strategy → mining の /ŋ/ が strategy の /s/ に続く（子音+子音）"
+          ],
+          "kana": "ゼイル ビー クリティサイジング ザ マイニング ストラテジー、デュリング ジ インタイア トーナメント"
+        },
+        {
+          "en": "We will be criticizing every block decision throughout the entire building project.",
+          "ja": "建築プロジェクト全体を通じて、私たちはすべてのブロック決定を批判し続けるだろう。",
+          "ipa": "/wi wɪl bi ˈkrɪtɪsaɪzɪŋ ˈɛvri blɑːk dɪˈsɪʒən | θruːˈaʊt ðə ɪnˈtaɪɚ ˈbɪldɪŋ ˈprɑːdʒɛkt/",
+          "linking": [
+            "We will → we'll に縮約 [wil bi] ウィル ビー（will の /l/ が be の /b/ に続く）",
+            "be criticizing → /bi/ + /k/（子音+子音）",
+            "criticizing every → /ŋ/ + /ɛ/ が連結 [ˈkrɪtɪsaɪzɪŋ‿ɛ] クリティサイジング エブリ",
+            "throughout the → through は /θruː/、the は弱形 /ðə/ ザ",
+            "entire building → /r/ + /b/（子音+子音）"
+          ],
+          "kana": "ウィル ビー クリティサイジング エブリ ブラック ディシジョン、スルーアウト ジ インタイア ビルディング プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have criticized",
+      "ipa": "/wɪl həv ˈkrɪtɪsaɪzd/",
+      "examples": [
+        {
+          "en": "By the end of the week, I will have criticized the entire base design.",
+          "ja": "週末までに、私はベース全体の設計を批判し終わるだろう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə wik | aɪ wɪl həv ˈkrɪtɪsaɪzd ðə ɪnˈtaɪɚ ˈbeɪs dɪˈzaɪn/",
+          "linking": [
+            "By the → by は /baɪ/、the は弱形 /ðə/ ザ",
+            "end of → end の /d/ が of の /ə/ に連結 [ɛnd‿əv] エンド アヴ（of は弱形 /əv/）",
+            "I will → I'll に縮約 [aɪl həv] アイル ハヴ（will の /l/ が have の /h/ に続く）",
+            "will have → have は弱形 /həv/ に弱化",
+            "have criticized → /v/ + /k/（子音+子音）",
+            "the entire → the は弱形 /ðə/ ザ、entire は /ɪn‿taɪr/ （the の /ə/ が entire の初頭に続く場合、弱く繋がる）"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ ウィーク、アイル ハヴ クリティサイズド ザ インタイア ベイス ディザイン"
+        },
+        {
+          "en": "Once the review is complete, he will have criticized every aspect comprehensively.",
+          "ja": "レビューが完了したら、彼はすべての側面を包括的に批判し終わるだろう。",
+          "ipa": "/wʌns ðə rɪˈvjuː ɪz kəmˈplit | hi wɪl həv ˈkrɪtɪsaɪzd ˈɛvri ˈæspɛkt | ˌkɑːmprɪˈhɛnsɪvli/",
+          "linking": [
+            "Once the → once の /s/ が the の /ð/ に続く（子音+子音）。the は弱形 /ðə/ ザ",
+            "review is → review の /u/ が is の /ɪ/ に続く（両母音）。is は弱形 /ɪz/",
+            "He will → He'll に縮約 [hɪl həv] ヒル ハヴ（will の /l/ が have の /h/ に続く）",
+            "will have → have は弱形 /həv/",
+            "have criticized → /v/ + /k/（子音+子音）",
+            "criticized every → /d/ + /ɛ/ が連結 [ˈkrɪtɪsaɪzd‿ɛ] クリティサイズド エブリ",
+            "aspect comprehensively → aspect の末尾が /t/（未開放）、comprehensively の /k/ に続く"
+          ],
+          "kana": "ワンス ザ リビュー イズ コンプリート、ヒル ハヴ クリティサイズド エブリ アスペクト、コンプリヘンシブリー"
+        }
+      ]
     }
   ]
 }
