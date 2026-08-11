@@ -187,5 +187,91 @@
       ]
     }
   ],
+  "future_forms": [
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will trigger",
+      "ipa": "/wɪl ˈtrɪɡɚ/",
+      "examples": [
+        {
+          "en": "When the pressure plate is activated, it will trigger the piston.",
+          "ja": "感圧板が起動されると、ピストンが起動される。",
+          "ipa": "[wɛn ðə ˈprɛʃɚ pleɪt ɪz ˈæktɪˌveɪtɪd ɪt wɪl ˈtrɪɡɚ ðə ˈpɪstən]",
+          "linking": [
+            "plate is → plate の語末 /t/ が母音 /ɪ/ に連結",
+            "is activated → is の語末 /z/ が母音 /æ/ に連結"
+          ],
+          "kana": "ウェン ザ プレッシャー プレイティザクティベイティッド イット ウィル トリガー ザ ピスタン"
+        },
+        {
+          "en": "We will trigger all the mechanisms after sunset.",
+          "ja": "日没後、私たちはすべてのメカニズムを起動させます。",
+          "ipa": "[wi wɪl ˈtrɪɡɚ ɔl ðə ˈmɛkənɪzmz ˈæftɚ ˈsʌnˌsɛt]",
+          "linking": [
+            "mechanisms after → z が母音 /æ/ に連結",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル トリガー オール ザ メカニザフター サンセット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be triggering",
+      "ipa": "/wɪl bi ˈtrɪɡɚɪŋ/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I'll be triggering the TNT launchers.",
+          "ja": "あなたが到着するころには、私はTNT発射装置を起動させているでしょう。",
+          "ipa": "[baɪ ðə taɪm juː əˈraɪvaɪl bi ˈtrɪɡɚɪŋ ðə ˌtiːɛnˈtiː ˈlɔntʃɚz]",
+          "linking": [
+            "arrive I'll → 語末 /v/ が母音 /aɪ/ に連結",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴァイル ビー トリガーリング ザ ティーエヌティー ローンチャーズ"
+        },
+        {
+          "en": "They will be triggering the trap mechanisms all night.",
+          "ja": "彼らは一晩中、トラップメカニズムを起動させ続けるでしょう。",
+          "ipa": "[ðeɪ wɪl bi ˈtrɪɡɚɪŋ ðə ˈtræp ˈmɛkənɪzmz ɔl naɪt]",
+          "linking": [
+            "mechanisms all → z が母音 /ɔ/ に連結",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザイ ウィル ビー トリガーリング ザ トラップ メカニゾール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have triggered",
+      "ipa": "/wɪl həv ˈtrɪɡɚd/",
+      "examples": [
+        {
+          "en": "By tomorrow evening, we will have triggered at least three major traps.",
+          "ja": "明日の夕方までに、私たちは少なくとも3つの主要なトラップを起動させているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ ˈivnɪŋ wi wɪl həv ˈtrɪɡɚd æt liːst θri ˈmeɪdʒɚ ˈtræps]",
+          "linking": [
+            "triggered at → d が母音 /æ/ に連結",
+            "have → 弱形 /həv/"
+          ],
+          "kana": "バイ トゥモロー イーブニング ウィ ウィル ハヴ トリガーダット リースト スリー メイジャー トラップス"
+        },
+        {
+          "en": "It will have triggered the redstone circuits by the time you finish building the farm.",
+          "ja": "農場の建造を終えるころには、それはレッドストーン回路を起動させてしまうでしょう。",
+          "ipa": "[ɪt wɪl həv ˈtrɪɡɚd ðə ˈrɛdˌstoʊn ˈsɝkəts baɪ ðə taɪm juː ˈfɪnɪʃ ˈbɪldɪŋ ðə fɑrm]",
+          "linking": [
+            "have → 弱形 /həv/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "イット ウィル ハヴ トリガード ザ レッドストーン サーキッツ バイ ザ タイム ユー フィニッシュ ビルディング ザ ファーム"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }
