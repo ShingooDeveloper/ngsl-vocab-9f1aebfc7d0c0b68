@@ -355,6 +355,91 @@
           "kana": "プレイヤーズ ハヴ ビン ユナイティング ゼア フォーシーズ タ プリペア ファー ザ バース ファイト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will unite",
+      "ipa": "/wɪl juˈnaɪt/",
+      "examples": [
+        {
+          "en": "The alliance will unite all villages by next month.",
+          "ja": "同盟はすべての村を来月までに結集させるでしょう。",
+          "ipa": "[ðə əˈlaɪəns wɪl juˈnaɪt ɔl ˈvɪlɪdʒɪz baɪ nɛkst mʌnθ]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ アライアンス ウィル ユナイト オール ヴィリッジーズ バイ ネクスト マンス"
+        },
+        {
+          "en": "We'll unite our resources and build the greatest structure ever.",
+          "ja": "私たちはリソースを結集させ、史上最高の構造物を建設するでしょう。",
+          "ipa": "[wil juˈnaɪt ˈaʊər rɪˈsɔrsɪz ən bɪld ðə ˈɡreɪtəst ˈstrʌktʃər ˈɛvər]",
+          "linking": [
+            "and は弱形 /ən/ に弱化"
+          ],
+          "kana": "ウィル ユナイト アワー リソーシーズ アン ビルド ザ グレイテスト ストラクチャー エヴァー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be uniting",
+      "ipa": "/wɪl bi juˈnaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow, the teams will be uniting to prepare for the final battle.",
+          "ja": "明日、チームがファイナルバトルに備えるために団結しているでしょう。",
+          "ipa": "[təˈmɑroʊ ðə timz wɪl bɪ juˈnaɪtɪŋ tə prɪˈpɛr fər ðə ˈfaɪnəl ˈbæɾəl]",
+          "linking": [
+            "be は弱形 /bɪ/",
+            "to は弱形 /tə/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "タモロウ ザ ティームズ ウィル ビ ユナイティング タ プリペア ファー ザ ファイナル バラル"
+        },
+        {
+          "en": "By next week, players will be uniting their efforts across all servers.",
+          "ja": "来週までに、プレイヤーたちがすべてのサーバー全体で努力を結集させているでしょう。",
+          "ipa": "[baɪ nɛkst wik ˈpleɪərz wɪl bɪ juˈnaɪtɪŋ ðɛr ˈɛfərts əˈkrɔs ɔl ˈsɜrvərz]",
+          "linking": [
+            "be は弱形 /bɪ/",
+            "their の末尾 /r/ が efforts の初頭 /ɛ/ に連結",
+            "across の末尾 /s/ が all の初頭 /ɔ/ に連結"
+          ],
+          "kana": "バイ ネクスト ウィーク プレイヤーズ ウィル ビ ユナイティング ゼア エファーツ アクロス オール サーヴァーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have united",
+      "ipa": "/wɪl həv juˈnaɪtɪd/",
+      "examples": [
+        {
+          "en": "By the end of this season, we will have united all the factions.",
+          "ja": "このシーズンの終わりまでに、私たちはすべての派閥を団結させているでしょう。",
+          "ipa": "[baɪ ðə ɛnd əv ðɪs ˈsizən wi wɪl həv juˈnaɪtɪd ɔl ðə ˈfækʃənz]",
+          "linking": [
+            "end の末尾 /d/ が of の弱形初頭 /ə/ に連結 [ˈɛndə]",
+            "of は弱形 /əv/"
+          ],
+          "kana": "バイ ザ エンド アヴ ディス シーズン ウィ ウィル ハヴ ユナイティド オール ザ ファクションズ"
+        },
+        {
+          "en": "They will have united their bases into one mega-structure by summer's end.",
+          "ja": "夏の終わりまでに、彼らは彼らの基地を1つのメガストラクチャーに統合しているでしょう。",
+          "ipa": "[ðeɪ wɪl həv juˈnaɪtɪd ðɛr ˈbeɪsɪz ɪnˈtu wʌn ˈmɛɡə ˈstrʌktʃər baɪ ˈsʌmərz ɛnd]",
+          "linking": [
+            "have は弱形 /həv/",
+            "bases の末尾 /z/ が into の初頭 /ɪ/ に連結",
+            "summer's の末尾 /z/ が end の初頭 /ɛ/ に連結"
+          ],
+          "kana": "ザイ ウィル ハヴ ユナイティド ゼア ベイシーズ イント ワン メガ ストラクチャー バイ サマーズ エンド"
+        }
+      ]
     }
   ]
 }
