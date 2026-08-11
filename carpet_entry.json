@@ -181,6 +181,68 @@
           "kana": "カーペティング ザ マンション トゥック オール デイ イェスターデイ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will carpet",
+      "ipa": "/wɪl ˈkɑrpət/",
+      "examples": [
+        {
+          "en": "I'll carpet the spawn area with a red design tomorrow.",
+          "ja": "明日、スポーン地点を赤いデザインでカーペット敷きします。",
+          "ipa": "/aɪl ˈkɑrpət ðə ˈspɔn ˈɛriə wɪðə ˈɹɛd dɪˈzaɪn təˈmɑɹoʊ/",
+          "linking": [
+            "I'll の縮約形 /aɪl/",
+            "the は弱形 /ðə/",
+            "with + a → /ð/ が弱形 /ə/ に連結: [wɪðə] ウィザ",
+            "tomorrow は弱形で /təˈmɑɹoʊ/"
+          ],
+          "kana": "アイル カーペット ザ スポーン エリア ウィザ レッド デザイン トゥモロー"
+        },
+        {
+          "en": "We'll carpet the whole base by next week with different patterns.",
+          "ja": "来週までに、私たちはベース全体を異なるパターンでカーペット敷きします。",
+          "ipa": "/wil ˈkɑrpət ðə ˈhoʊl ˈbeɪs baɪ ˈnɛkst ˈwik wɪð ˈdɪfɚənt ˈpætɚnz/",
+          "linking": [
+            "We'll の縮約形 /wil/",
+            "the は弱形 /ðə/",
+            "with は機能語で /wɪð/"
+          ],
+          "kana": "ウィル カーペット ザ ホール ベース バイ ネクスト ウィーク ウィズ ディファレント パターンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have carpeted",
+      "ipa": "/wɪl həv ˈkɑrpɪtɪd/",
+      "examples": [
+        {
+          "en": "By the time you log in, I'll have carpeted the entire arena.",
+          "ja": "あなたがログインするまでに、私はアリーナ全体をカーペット敷きしておきます。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ˈlɑg ɪn aɪl həv ˈkɑrpɪtɪd ðə ɪnˈtaɪɚ əˈɹinə/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "time + you → /m/ の後に母音で連続（音声流が自然）",
+            "in + I'll → /n/ が母音 /aɪ/ に先行し連結 [ɪnaɪl] イナイル",
+            "I'll have → I'll の縮約 /aɪl/ と have の弱形 /həv/"
+          ],
+          "kana": "バイ ザ タイム ユー ラグ イナイル ハヴ カーペティド ザ インタイア アリーナ"
+        },
+        {
+          "en": "They will have carpeted the whole server by the end of the month.",
+          "ja": "月末までに、彼らはサーバー全体をカーペット敷きしているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈkɑrpɪtɪd ðə ˈhoʊl ˈsɝvɚ baɪ ðə ˈɛnd əv ðə ˈmʌnθ/",
+          "linking": [
+            "will have → will の弱形 /wəl/ と have の弱形 /əv/",
+            "the は弱形 /ðə/",
+            "of の弱形 /əv/"
+          ],
+          "kana": "ザイ ウル ハヴ カーペティド ザ ホール サーバー バイ ザ エンド アヴ ザ マンス"
+        }
+      ]
     }
   ]
 }
