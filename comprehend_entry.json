@@ -271,6 +271,96 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（is + -ing）",
+      "text": "is comprehending",
+      "ipa": "/ɪz kəmˈprɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I am comprehending the circuit logic as the instructor explains it step by step.",
+          "ja": "講師がステップバイステップで説明してくれながら、私は回路ロジックを理解しています。",
+          "ipa": "/aɪ əm kəmˈprɛndɪŋ ðə ˈsɝːkɪt ˈlɑːdʒɪk æz ði ɪnˈstrʌktɚ ɪkˈspleɪnz ɪt stɛp baɪ stɛp/",
+          "kana": "アイ アム カムプレンディング ザ サーキット ロジック アズ ザ インストラクター イクスプレインズ イット ステップ バイ ステップ",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the → 弱形 /ðə/",
+            "explains の /z/ が it に連結 [ɪkˈspleɪnz ɪt] イクスプレインズ イット"
+          ]
+        },
+        {
+          "en": "We are comprehending how the farm automation works by watching the water flow mechanics.",
+          "ja": "水の流れのメカニクスを観察することで、農場オートメーションがどのように機能するかを理解しています。",
+          "ipa": "/wi ɑːr kəmˈprɛndɪŋ haʊ ðə ˈfɑːrm ˌɔːtəˈmeɪʃən wɝːks baɪ ˈwɑːtʃɪŋ ðə ˈwɔːtɚ floʊ ˈmɛkænɪks/",
+          "kana": "ウィー アー カムプレンディング ハウ ザ ファーム オートメーション ワークス バイ ウォッチング ザ ウォーター フロウ メカニクス",
+          "linking": [
+            "are → 弱形 /ɚ/",
+            "the → 弱形 /ðə/",
+            "the → 弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was comprehending",
+      "ipa": "/wəz kəmˈprɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I was comprehending the redstone system when the server lagged and disconnected me.",
+          "ja": "レッドストーンシステムを理解している最中に、サーバーがラグして私が切断されてしまいました。",
+          "ipa": "/aɪ wəz kəmˈprɛndɪŋ ðə ˈrɛdˌstoʊn ˈsɪstəm wɛn ðə ˈsɝːvɚ læɡd ənd dɪsˌkənˈɛktɪd mi/",
+          "kana": "アイ ワズ カムプレンディング ザ レッドストーン システム ウェン ザ サーバー ラーグド アン ディスコネクティド ミー",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the → 弱形 /ðə/",
+            "lagged の /d/ が and に続く（子音+子音）[læɡd ənd] ラーグド アン"
+          ]
+        },
+        {
+          "en": "They were comprehending the mob spawner mechanics while studying the tutorial video.",
+          "ja": "チュートリアルビデオを見ながら、彼らはモブスポナーのメカニクスを理解していました。",
+          "ipa": "/ðeɪ wɚ kəmˈprɛndɪŋ ðə məb ˈspoʊnɚ məˈkænɪks waɪl ˈstʌdiɪŋ ðə ˈtjuːtɔːriəl ˈvɪdioʊ/",
+          "kana": "ザイ ワー カムプレンディング ザ モブ スポーナー メカニクス ホワイル スタディング ザ チュートリアル ビデオ",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "the → 弱形 /ðə/",
+            "while → /waɪl/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been comprehending",
+      "ipa": "/həd bɪn kəmˈprɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I had been comprehending the crafting recipes for hours before I finally mastered the advanced techniques.",
+          "ja": "高度な技術をついにマスターする前に、私は数時間クラフトレシピを理解していました。",
+          "ipa": "/aɪ həd bɪn kəmˈprɛndɪŋ ðə ˈkræftɪŋ ˈrɛsɪpiz fɔːr ˈaʊɚz bɪˈfɔːr aɪ ˈfaɪnəli ˈmæstɚd ði ədˈvænst ˈtɛkˌniːks/",
+          "kana": "アイ ハド ビン カムプレンディング ザ クラフティング レシピーズ ファー アワーズ ビフォア アイ ファイナリー マスタード ザ ァドヴァンスト テクニークス",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "She had been comprehending the command block syntax when she discovered a useful shortcut.",
+          "ja": "便利なショートカットを発見したとき、彼女はコマンドブロックの構文を理解していました。",
+          "ipa": "/ʃi həd bɪn kəmˈprɛndɪŋ ðə kəˈmænd blɑːk ˈsɪntæks wɛn ʃi dɪsˈkʌvɚd ə ˈjuːsfəl ˈʃɔːrtkət/",
+          "kana": "シー ハド ビン カムプレンディング ザ コマンド ブロック シンタックス ウェン シー ディスカバード ア ユースフル ショートカット",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has comprehended",
