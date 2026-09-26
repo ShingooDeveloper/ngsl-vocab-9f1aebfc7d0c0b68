@@ -217,6 +217,102 @@
       ]
     },
     {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will clue",
+      "ipa": "/wɪl ˈkluː/",
+      "examples": [
+        {
+          "en": "I will clue you in on the location of the hidden temple.",
+          "ja": "隠された神殿の場所についてのヒントをあなたに与えます。",
+          "ipa": "/aɪ wɪl ˈkluː ju ɪn ɑn ðə loʊˈkeɪʃən əv ðə ˈhɪdən ˈtɛmpəl/",
+          "linking": [
+            "will → 不変化 /wɪl/",
+            "you in → in は /ɪn/",
+            "on the → the は弱形 /ðə/",
+            "of the → of は弱形 /əv/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ウィル クルー ユー イン オン ダ ロウケイション アヴ ダ ヒデン テンプル"
+        },
+        {
+          "en": "The ancient tablet will clue us about the secret passage.",
+          "ja": "古い石板が、秘密の通路についてのヒントを私たちに与えます。",
+          "ipa": "/ðə ˈeɪʃənt ˈtæblət wɪl ˈkluː əs əˈbaʊt ðə ˈsikrət ˈpæsɪdʒ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "will → 不変化 /wɪl/",
+            "us → 弱形 /əs/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ダ エイシェント タブレット ウィル クルー アズ ァバウト ダ シークリット パッサージ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be cluing",
+      "ipa": "/wɪl bi ˈkluːɪŋ/",
+      "examples": [
+        {
+          "en": "We will be cluing them in on every treasure location in this cavern.",
+          "ja": "この洞窟のあらゆる宝物の場所について、彼らにヒントを与え続けます。",
+          "ipa": "/wi wɪl bi ˈkluːɪŋ ðɛm ɪn ɑn ˈɛvri ˈtrɛʒər loʊˈkeɪʃən ɪn ðɪs kəˈvɝn/",
+          "linking": [
+            "will be → will /wɪl/、be は弱形 /bə/",
+            "them in → them /ðɛm/、in は /ɪn/",
+            "on every → on /ɑn/",
+            "in this → this は /ðɪs/"
+          ],
+          "kana": "ウィ ウィル ビー クルーイング デム イン オン エブリー トレジャー ロウケーション イン ディス ケイバーン"
+        },
+        {
+          "en": "By tomorrow, he'll be cluing the builders on where to place the foundation.",
+          "ja": "明日までに、彼は建築者たちに基礎をどこに配置するかについてのヒントを与えています。",
+          "ipa": "/baɪ təˈmɑroʊ, hil bi ˈkluːɪŋ ðə ˈbɪldərz ɑn wɛr tu pleɪs ðə faʊnˈdeɪʃən/",
+          "linking": [
+            "by tomorrow → by /baɪ/、tomorrow は /təˈmɑroʊ/",
+            "he'll → 縮約形 /hil/",
+            "be cluing → be は弱形 /bə/ or /bi/",
+            "the builders → the は弱形 /ðə/"
+          ],
+          "kana": "バイ トゥモロー、ヒール ビー クルーイング ダ ビルダーズ オン ウェア トゥ プレイス ダ ファウンデーション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have clued",
+      "ipa": "/wɪl həv ˈkluːd/",
+      "examples": [
+        {
+          "en": "By the end of today, I will have clued you in on every secret location in this world.",
+          "ja": "今日の終わりまでに、この世界のあらゆるシークレット場所についてのヒントをあなたに与えます。",
+          "ipa": "/baɪ ðə ˈɛnd əv təˈdeɪ, aɪ wɪl həv ˈkluːd ju ɪn ɑn ˈɛvri ˈsikrət loʊˈkeɪʃən ɪn ðɪs wɝld/",
+          "linking": [
+            "by the end of today → the は弱形 /ðə/、of は弱形 /əv/",
+            "will have → will /wɪl/、have は弱形 /həv/",
+            "you in → you /ju/",
+            "in this → this は /ðɪs/"
+          ],
+          "kana": "バイ ダ エンド アヴ タデイ、アイ ウィル ハヴ クルード ユー イン オン エブリー シークリット ロウケーション イン ディス ワールド"
+        },
+        {
+          "en": "They will have clued us about the redstone mechanism before the storm arrives.",
+          "ja": "嵐が到着する前に、彼らはレッドストーンメカニズムについてのヒントを私たちに与えているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈkluːd əs əˈbaʊt ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm bɪˈfɔr ðə ˈstɔrm əˈraɪvz/",
+          "linking": [
+            "will have → will /wɪl/、have は弱形 /həv/",
+            "us about → us は弱形 /əs/",
+            "the redstone → the は弱形 /ðə/",
+            "before the → before /bɪˈfɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ウィル ハヴ クルード アズ ァバウト ダ レッドストウン メカニズム ビフォア ダ ストーム アライヴス"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has clued",
