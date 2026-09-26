@@ -231,6 +231,187 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has snacked",
+      "ipa": "həz ˈsnækt",
+      "examples": [
+        {
+          "en": "I have snacked on apples to restore my hunger during mining.",
+          "ja": "採掘中に空腹を回復させるために、りんごを食べました。",
+          "ipa": "[aɪ həv ˈsnækt ɑn ˈæpəlz tu rɪˈstɔr maɪ ˈhʌŋɡər ˈdʊrɪŋ ˈmaɪnɪŋ]",
+          "kana": "アイ ハヴ スナックト オン アップルズ タ・リストア マイ ハンガー ドゥーリング マイニング",
+          "linking": [
+            "have snacked on → have は弱形 /həv/、snacked /ˈsnækt/ の語末子音 /t/ は off-glide、on は弱形 /ɑn/。d が次の a に連結し [ˈsnækt ɑn] スナックト・オン",
+            "apples to → s が母音に続く。to は弱形 /tə/",
+            "restore my → r が m に連結 [rɪˈstɔr] リストア"
+          ]
+        },
+        {
+          "en": "He has snacked before entering the dark cave.",
+          "ja": "暗い洞窟に入る前に、彼はスナックを食べました。",
+          "ipa": "[hi həz ˈsnækt bɪˈfɔr ˈɛntərɪŋ ðə ˈdɑrk ˈkeɪv]",
+          "kana": "ヒー ハズ スナックト ビフォア エンタリング ザ ダーク ケイヴ",
+          "linking": [
+            "has snacked before → has は弱形 /həz/、snacked /ˈsnækt/ の d が母音 /ɪ/ に連結し [ˈsnækt bɪˈfɔr] スナック・トビフォア",
+            "the dark → the は弱形 /ðə/",
+            "dark cave → k が母音に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had snacked",
+      "ipa": "həd ˈsnækt",
+      "examples": [
+        {
+          "en": "We had snacked before discovering the stronghold entrance.",
+          "ja": "要塞の入口を発見する前に、私たちはスナックを食べていました。",
+          "ipa": "[wi həd ˈsnækt bɪˈfɔr dɪˈskʌvərɪŋ ðə ˈstrɔŋhoʊld ˈɛntrəns]",
+          "kana": "ウィ ハド スナックト ビフォア ディスカヴァリング ザ ストロングホールド エンターンス",
+          "linking": [
+            "had snacked before → had は弱形 /həd/、snacked /ˈsnækt/ の d が母音に連結し [həd ˈsnækt bɪ] ハド・スナック・トビフォア",
+            "the stronghold → the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "They had snacked underground before the cave collapsed.",
+          "ja": "洞窟が崩壊する前に、彼らは地下でスナックを食べていました。",
+          "ipa": "[ðeɪ həd ˈsnækt ˌʌndərˈɡraʊnd bɪˈfɔr ðə ˈkeɪv kəˈlæps]",
+          "kana": "ザイ ハド スナックト アンダーグラウンド ビフォア ザ ケイヴ カラップス",
+          "linking": [
+            "had snacked underground → had は弱形 /həd/、snacked /ˈsnækt/ の d が ʌ に連結し [həd ˈsnækt ʌ] ハド・スナック・トアンダー",
+            "before the → r が ð に連結、the は弱形 /ðə/",
+            "the cave → 弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been snacking",
+      "ipa": "həz bɪn ˈsnækɪŋ",
+      "examples": [
+        {
+          "en": "I have been snacking on bread while building the tower.",
+          "ja": "塔を建築しながら、ずっとパンを食べ続けています。",
+          "ipa": "[aɪ həv bɪn ˈsnækɪŋ ɑn ˈbrɛd waɪl ˈbɪldɪŋ ðə ˈtaʊɚ]",
+          "kana": "アイ ハヴ ビン スナッキング オン ブレッド ホワイル ビルディング ザ タウアー",
+          "linking": [
+            "have been snacking on → have は弱形 /həv/、been も弱形 /bɪn/、snacking /ˈsnækɪŋ/ の語末鼻音 /ŋ/ が母音 /ɑ/ に連結し [ˈsnækɪŋɑn] スナッキング・オン",
+            "on bread → 語末 n が b に続く",
+            "while building → l が b に連結",
+            "the tower → the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The players have been snacking since they started mining.",
+          "ja": "プレイヤーたちは採掘を始めて以来、ずっとスナックを食べています。",
+          "ipa": "[ðə ˈpleɪɚz həv bɪn ˈsnækɪŋ ˈsɪns ðeɪ ˈstɑrtəd ˈmaɪnɪŋ]",
+          "kana": "ザ プレイアーズ ハヴ ビン スナッキング シンス ザイ スターティド マイニング",
+          "linking": [
+            "the players → the は弱形 /ðə/、players の r が次に続く",
+            "have been snacking → have は弱形 /həv/、been も弱形 /bɪn/、snacking /ˈsnækɪŋ/",
+            "since they → s が ð に続く",
+            "started mining → d が m に連結 [ˈstɑrtəd] スターティド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is snacking",
+      "ipa": "ɪz ˈsnækɪŋ",
+      "examples": [
+        {
+          "en": "She is snacking on golden apples to heal wounds from the Wither attack.",
+          "ja": "彼女はウィザー攻撃からの傷を治すために金のリンゴをつまんでいます。",
+          "ipa": "[ʃi ɪz ˈsnækɪŋ ɑn ˈɡoʊldən ˈæpəlz tə ˈhil ˈwaʊndz frəm ðə ˈwɪðər əˈtæk]",
+          "kana": "シー イズ スナッキング オン ゴールデン アップルズ タ ヒール ワウンズ フラム ザ ウィザー アタック",
+          "linking": [
+            "is → 助動詞は弱形 /ɪz/ に弱化",
+            "snacking on → 語末子音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋ ɑn] スナッキング・オン",
+            "from the → m が ð に続き、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "We are snacking on bread while digging down for diamonds.",
+          "ja": "私たちはダイヤモンドを掘り下げながら、パンをつまんでいます。",
+          "ipa": "[wi ɑr ˈsnækɪŋ ɑn ˈbrɛd waɪl ˈdɪɡɪŋ ˈdaʊn fɔr ˈdaɪməndz]",
+          "kana": "ウィ アー スナッキング オン ブレッド ホワイル ディギング ダウン フォー ダイモンズ",
+          "linking": [
+            "are → r が母音 /ɪ/ に続く連結 [ɑr] アー",
+            "snacking on → 語末子音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋ ɑn]",
+            "for diamonds → r が ɑ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was snacking",
+      "ipa": "wəz ˈsnækɪŋ",
+      "examples": [
+        {
+          "en": "I was snacking on apples when a creeper suddenly exploded.",
+          "ja": "リンゴをつまんでいた時に、クリーパーが突然爆発しました。",
+          "ipa": "[aɪ wəz ˈsnækɪŋ ɑn ˈæpəlz wɛn ə ˈkripər səˈdɛnli ɪkˈsploʊdəd]",
+          "kana": "アイ ワズ スナッキング オン アップルズ ウェン ア クリーパー サディンリー イクスプローディド",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/ に弱化",
+            "snacking on → 語末子音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋ ɑn]",
+            "a creeper → a は弱形 /ə/"
+          ]
+        },
+        {
+          "en": "He was snacking on carrots while we escaped from the Nether.",
+          "ja": "私たちがネザーから逃げている間、彼はニンジンをつまんでいました。",
+          "ipa": "[hi wəz ˈsnækɪŋ ɑn ˈkærəts waɪl wi ɪˈskeɪpt frəm ðə ˈnɛðər]",
+          "kana": "ヒー ワズ スナッキング オン キャロット ホワイル ウィ イスケイプト フラム ザ ネザー",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/ に弱化",
+            "snacking on → 語末子音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋ ɑn]",
+            "from the → m が ð に続き、the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been snacking",
+      "ipa": "həd bɪn ˈsnækɪŋ",
+      "examples": [
+        {
+          "en": "We had been snacking for an hour before we found the hidden stronghold.",
+          "ja": "隠された要塞を見つける前に、1時間スナックを食べていました。",
+          "ipa": "[wi həd bɪn ˈsnækɪŋ fɔr ən ˈaʊər bɪˈfɔr wi ˈfaʊnd ðə ˈhɪdən ˈstrɔŋhoʊld]",
+          "kana": "ウィ ハド ビン スナッキング フォー ラン アワー ビフォア ウィ ファウンド ザ ヒデン ストロングホールド",
+          "linking": [
+            "had → 助動詞は弱形 /həd/ に弱化",
+            "been → 助動詞は弱形 /bɪn/ に弱化 [bɪn]",
+            "for an → r が /ə/ に連結 [fɔr ən] フォー・ラン"
+          ]
+        },
+        {
+          "en": "They had been snacking on fish when the endermen started attacking.",
+          "ja": "エンドマンが攻撃を始めた時、彼らは魚をつまんでいました。",
+          "ipa": "[ðeɪ həd bɪn ˈsnækɪŋ ɑn ˈfɪʃ wɛn ðə ˈɛndɚmɛn ˈstɑrtəd əˈtækɪŋ]",
+          "kana": "ザイ ハド ビン スナッキング オン フィッシュ ウェン ザ エンダーメン スターティド アタッキング",
+          "linking": [
+            "had → 助動詞は弱形 /həd/ に弱化",
+            "been → 助動詞は弱形 /bɪn/ に弱化",
+            "snacking on → 語末子音 /ŋ/ が母音 /ɑ/ に連結"
+          ]
+        }
+      ]
     }
   ]
 }
