@@ -300,6 +300,72 @@
           "kana": "ウィ ハド ビン クウィティング エヴリ ナイト アンティル ウィ ファウンド ア サーヴァー ウィ ラヴド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will quit",
+      "ipa": "/wɪl ˈkwɪt/",
+      "examples": [
+        {
+          "en": "I'll quit if I can't find any diamonds.",
+          "ja": "ダイヤが見つからなかったら、やめるつもりです。",
+          "ipa": "[aɪl ˈkwɪtɪf aɪ kænt faɪnd ˈɛni ˈdaɪəmənz]",
+          "linking": ["quit の語末子音 /t/ が if の母音 /ɪ/ に連結 [ˈkwɪtɪf] クウィティフ"],
+          "kana": "アイル クウィティフ アイ キャント ファインド エニー ダイアモンズ"
+        },
+        {
+          "en": "We'll quit exploring after we get enough supplies.",
+          "ja": "十分なアイテムを手に入れたら、探検をやめるつもりです。",
+          "ipa": "[wil ˈkwɪtɪkˈsplɔrɪŋ ˈæftɚ wi ɡɛt ɪˈnʌf səˈplaɪz]",
+          "linking": ["quit の語末子音 /t/ が exploring の母音 /ɪ/ に連結 [ˈkwɪtɪkˈsplɔrɪŋ] クウィティクスプローリング"],
+          "kana": "ウィル クウィティクスプローリング アフター ウィ ゲット イナフ サプライズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be quitting",
+      "ipa": "/wɪl bi ˈkwɪtɪŋ/",
+      "examples": [
+        {
+          "en": "They'll be quitting the server when the world resets.",
+          "ja": "ワールドがリセットされるとき、彼らはサーバーをやめるつもりです。",
+          "ipa": "[ðeɪl bi ˈkwɪtɪŋ ðə ˈsɝvɚ wɛn ðə wɝld riˈsɛts]",
+          "linking": ["the は弱形 /ðə/ で「ザ」（2箇所）"],
+          "kana": "ザイル ビー クウィティング ザ サーヴァー ウェン ザ ワールド リセッツ"
+        },
+        {
+          "en": "We'll be quitting the multiplayer server next summer.",
+          "ja": "来年の夏までに、私たちはマルチプレイヤーサーバーをやめるつもりです。",
+          "ipa": "[wil bi ˈkwɪtɪŋ ðə ˈmʌltiˌpleɪɚ ˈsɝvɚ ˈnɛkst ˈsʌmɚ]",
+          "linking": ["the は弱形 /ðə/ で「ザ」"],
+          "kana": "ウィル ビー クウィティング ザ マルチプレイヤー サーヴァー ネクスト サマー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have quit",
+      "ipa": "/wɪl həv ˈkwɪt/",
+      "examples": [
+        {
+          "en": "I will have quit the server by the end of the month.",
+          "ja": "今月の終わりまでに、私はサーバーをやめているでしょう。",
+          "ipa": "[aɪ wɪl həv ˈkwɪt ðə ˈsɝvɚ baɪ ðə ɛnd əv ðə mʌnθ]",
+          "linking": ["will have は /wɪl həv/", "have は弱形 /həv/", "the と of は弱形で「ザ」「アヴ」"],
+          "kana": "アイ ウィル ハヴ クウィット ザ サーヴァー バイ ザ エンド アヴ ザ マンス"
+        },
+        {
+          "en": "They will have quit the mining operation before the update.",
+          "ja": "アップデートの前に、彼らはマイニング事業をやめているでしょう。",
+          "ipa": "[ðeɪ wɪl həv ˈkwɪt ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən bɪˈfɔr ðə ʌpˈdeɪt]",
+          "linking": ["will have は /wɪl həv/", "have は弱形 /həv/", "the は弱形で「ザ」（2箇所）"],
+          "kana": "ザイ ウィル ハヴ クウィット ザ マイニング オペレーション ビフォー ザ アップデート"
+        }
+      ]
     }
   ]
 }
