@@ -181,6 +181,95 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has reproduced",
+      "ipa": "/həz ˌriːprəˈduːst/",
+      "examples": [
+        {
+          "en": "A slime has reproduced three times since I started the farm.",
+          "ja": "スライムは私が農場を始めて以来3回繁殖した。",
+          "ipa": "/ə slaɪm həz ˌriːprəˈduːst ˈθriː taɪmz sɪns aɪ ˈstɑɹtɪd ðə fɑɹm/",
+          "linking": [
+            "has は弱形 /həz/ [həz]「ハズ」",
+            "since I: /s/ が母音 /aɪ/ に連結 [sɪnsaɪ]「シンサイ」",
+            "the は弱形 /ðə/ [ðə]「ザ」"
+          ],
+          "kana": "ア スライム ハズ リープロデュースト スリー タイムズ シンサイ スターティッド ザ ファーム"
+        },
+        {
+          "en": "We have reproduced the exact conditions multiple times to ensure consistency.",
+          "ja": "一貫性を確保するために、正確な条件を何度も再現した。",
+          "ipa": "/wi həv ˌriːprəˈduːst ðə ɪɡˈzækt kənˈdɪʃənz ˈmʌltɪpəl taɪmz tə ɪnˈʃʊɹ kənˈsɪstənsi/",
+          "linking": [
+            "have は弱形 /həv/ [həv]「ハヴ」",
+            "the は弱形 /ðə/ [ðə]「ザ」（複数回）",
+            "to は弱形 /tə/ [tə]「タ」"
+          ],
+          "kana": "ウィ ハヴ リープロデュースト ザ イグザクト コンディションズ マルチプル タイムズ タ インシュアー コンシステンシー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had reproduced",
+      "ipa": "/həd ˌriːprəˈduːst/",
+      "examples": [
+        {
+          "en": "By the time I arrived at the farm, the slimes had already reproduced dozens of times.",
+          "ja": "農場に到着するまでに、スライムはすでに何十回も繁殖していた。",
+          "ipa": "/baɪ ðə taɪm aɪ əˈraɪvd æt ðə fɑɹm ðə slaɪmz həd ɔlˈrɛdi ˌriːprəˈduːst ˈdʌzənz əv taɪmz/",
+          "linking": [
+            "had は弱形 /həd/ [həd]「ハド」",
+            "the は弱形 /ðə/ [ðə]「ザ」（複数回）",
+            "of は弱形 /əv/ [əv]「アヴ」"
+          ],
+          "kana": "バイ ザ タイム アイ アライヴド アット ザ ファーム ザ スライムズ ハド オールレディー リープロデュースト ダズンズ アヴ タイムズ"
+        },
+        {
+          "en": "The mechanism had reproduced the pattern exactly before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、そのメカニズムはすでにパターンを正確に再現していた。",
+          "ipa": "/ðə ˈmɛkənɪzəm həd ˌriːprəˈduːst ðə ˈpætɚn ɪɡˈzæktli bɪˈfɔɹ ðə ˈsɝvɚ kræʃt/",
+          "linking": [
+            "had は弱形 /həd/ [həd]「ハド」",
+            "the は弱形 /ðə/ [ðə]「ザ」（複数回）"
+          ],
+          "kana": "ザ メカニズム ハド リープロデュースト ザ パターン イグザクトリー ビフォー ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been reproducing",
+      "ipa": "/həz bɪn ˌriːprəˈduːsɪŋ/",
+      "examples": [
+        {
+          "en": "The slime farm has been reproducing slimes continuously for the past hour.",
+          "ja": "スライム農場は過去1時間、継続的にスライムを増殖させている。",
+          "ipa": "/ðə slaɪm fɑɹm həz bɪn ˌriːprəˈduːsɪŋ slaɪmz kənˈtɪnjuəsli fɔɹ ðə pæst ˈaʊɚ/",
+          "linking": [
+            "has been: /z/ から /b/ への子音クラスター、been は弱形 /bɪn/ [bɪn]「ビン」",
+            "the は弱形 /ðə/ [ðə]「ザ」（複数回）",
+            "for は弱形 /fɚ/ [fɚ]「ファー」"
+          ],
+          "kana": "ザ スライム ファーム ハズ ビン リープロデューシン スライムズ コンティニュアスリー ファー ザ パスト アワー"
+        },
+        {
+          "en": "These mobs have been reproducing since we set up the spawner.",
+          "ja": "これらのモブはスポーナーをセットアップして以来、ずっと繁殖しています。",
+          "ipa": "/ðiːz mɑbz həv bɪn ˌriːprəˈduːsɪŋ sɪns wi sɛt ʌp ðə ˈspoʊnɚ/",
+          "linking": [
+            "have been: /v/ から /b/ への子音クラスター、been は弱形 /bɪn/",
+            "set up: /t/ が母音に挟まれてフラップ化し連結 [sɛɾʌp]「セラップ」",
+            "the は弱形 /ðə/ [ðə]「ザ」"
+          ],
+          "kana": "ディーズ マブズ ハヴ ビン リープロデューシン シンス ウィ セラップ ザ スポウナー"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（is/are Ving）",
       "text": "is reproducing",
