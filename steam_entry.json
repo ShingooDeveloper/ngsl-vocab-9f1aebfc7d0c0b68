@@ -198,6 +198,97 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has steamed",
+      "ipa": "/həz ˈstiːmd/",
+      "examples": [
+        {
+          "en": "We have steamed the carrots in the cauldron.",
+          "ja": "私たちは大釜でニンジンを蒸した。",
+          "ipa": "/wiː həv ˈstiːmd ðə ˈkæɹəts ɪn ðə ˈkɔːldrən/",
+          "linking": [
+            "have steamed - /v/ が /s/ に連結 [həv ˈstiːmd]",
+            "steamed the - /d/ が /ðə/ に連結、the 弱形 /ðə/",
+            "in the - /n/ が /ðə/ に連結、the 弱形 /ðə/"
+          ],
+          "kana": "ウィー・ハヴ・スティームド・ザ・キャラッツ・イン・ザ・コールドレン"
+        },
+        {
+          "en": "I have steamed potatoes and carrots for storage.",
+          "ja": "保管のためにジャガイモとニンジンを蒸した。",
+          "ipa": "/aɪ həv ˈstiːmd pəˈteɪtoʊz ənd ˈkæɹəts ˈfɔɹ ˈstɔɹɪdʒ/",
+          "linking": [
+            "have steamed - /v/ が /s/ に連結",
+            "steamed potatoes - /d/ が /p/ に連結",
+            "potatoes and - /z/ が /ə/ に連結",
+            "for storage - /ɹ/ が /s/ に連結"
+          ],
+          "kana": "アイ・ハヴ・スティームド・ポテイトーズ・アンド・キャラッツ・フォー・ストレッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had steamed",
+      "ipa": "/həd ˈstiːmd/",
+      "examples": [
+        {
+          "en": "We had steamed the carrots before the raid started.",
+          "ja": "レイドが始まる前に、私たちはニンジンを蒸していた。",
+          "ipa": "/wiː həd ˈstiːmd ðə ˈkæɹəts bɪˈfɔɹ ðə ˈɹeɪd ˈstɑɹtɪd/",
+          "linking": [
+            "had steamed - /d/ が /s/ に連結",
+            "steamed the - /d/ が /ðə/ に連結、the 弱形",
+            "before the - /ɹ/ が /ðə/ に連結、the 弱形"
+          ],
+          "kana": "ウィー・ハド・スティームド・ザ・キャラッツ・ビフォー・ザ・レイド・スターティド"
+        },
+        {
+          "en": "She had steamed the fish before leaving the farm.",
+          "ja": "農場を離れる前に、彼女は魚を蒸していた。",
+          "ipa": "/ʃiː həd ˈstiːmd ðə ˈfɪʃ bɪˈfɔɹ ˈlivɪŋ ðə ˈfɑɹm/",
+          "linking": [
+            "had steamed - /d/ が /s/ に連結",
+            "steamed the - /d/ が /ðə/ に連結、the 弱形",
+            "before leaving - /ɹ/ が /l/ に連結"
+          ],
+          "kana": "シー・ハド・スティームド・ザ・フィッシュ・ビフォー・リービング・ザ・ファーム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been steaming",
+      "ipa": "/həz ˈbɪn ˈstiːmɪŋ/",
+      "examples": [
+        {
+          "en": "The cauldron has been steaming for hours since we started cooking.",
+          "ja": "料理を始めてから、大釜は何時間も湯気を立てています。",
+          "ipa": "/ðə ˈkɔːldrən həz bɪn ˈstiːmɪŋ ˈfɔɹ ˈaʊɚz sɪns wiː ˈstɑɹtɪd ˈkʊkɪŋ/",
+          "linking": [
+            "has been - /z/ が /b/ に連結",
+            "been steaming - /n/ が /s/ に連結、been 弱形 /bɪn/",
+            "for hours - /ɹ/ が /aʊ/ に連結"
+          ],
+          "kana": "ザ・コールドレン・ハズ・ビン・スティーミング・フォー・アワーズ・シンス・ウィ・スターティド・クッキング"
+        },
+        {
+          "en": "We have been steaming vegetables all morning for the feast.",
+          "ja": "宴会のために私たちは朝ずっと野菜を蒸しています。",
+          "ipa": "/wiː həv bɪn ˈstiːmɪŋ ˈvɛdʒtəbəlz ɔːl ˈmɔɹnɪŋ ˈfɔɹ ðə ˈfiːst/",
+          "linking": [
+            "have been - /v/ が /b/ に連結",
+            "been steaming - /n/ が /s/ に連結、been 弱形 /bɪn/",
+            "for the - /ɹ/ が /ðə/ に連結、the 弱形"
+          ],
+          "kana": "ウィー・ハヴ・ビン・スティーミング・ベジタブルズ・オール・モーニング・フォー・ザ・フィースト"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is steaming",
