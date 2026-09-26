@@ -56,5 +56,35 @@
       ],
       "kana": "ザ ビューロー アヴ レッドストーン エンジニアリング マネージズ オール オートメイティッド システムズ オン ザ サーヴァー"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "bureaus",
+      "ipa": "/bjuˈroʊz/",
+      "examples": [
+        {
+          "en": "The construction bureaus automated all the farm systems.",
+          "ja": "建設局はすべての農場システムを自動化した。",
+          "ipa": "/ðə kən.ˈstrʌk.ʃən bjuˈroʊz ˈɔ.tə.meɪ.təd ɔl ðə ˈfɑɹm ˈsɪs.təmz/",
+          "linking": [
+            "bureaus automated → bureaus の末尾 /z/ が automated の初頭 /ɔ/ に繋がる [bjuˈroʊz ˈɔ.tə.meɪ.təd]",
+            "the farm → the は弱形 /ðə/、farm の初頭 /f/ に連結 [ðə ˈfɑɹm]"
+          ],
+          "kana": "ザ コンストラクション ビューローズ オートメイティド オール ザ ファーム システムズ"
+        },
+        {
+          "en": "Multiple bureaus organized expeditions to find rare materials.",
+          "ja": "複数の局は遠征を組織し、稀少な材料を見つけた。",
+          "ipa": "/ˈmʌl.tɪ.pəl bjuˈroʊz ˈɔɹ.ɡən.aɪzd ˌɛk.spəˈdɪ.ʃənz tə ˈfaɪnd ˈɹɛɹ məˈtɪɹ.i.əlz/",
+          "linking": [
+            "bureaus organized → bureaus の末尾 /z/ が organized の初頭 /ɔ/ に繋がる [bjuˈroʊz ˈɔɹ.ɡən.aɪzd]",
+            "to find → to は弱形 /tə/、find の初頭 /f/ に連結 [tə ˈfaɪnd]"
+          ],
+          "kana": "マルティプル ビューローズ オーガナイズド エクスペディション ズ タ ファインド レア マテリアルズ"
+        }
+      ]
+    }
   ]
 }
