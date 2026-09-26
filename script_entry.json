@@ -326,6 +326,99 @@
       ]
     },
     {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will script",
+      "ipa": "/wɪl ˈskɹɪpt/",
+      "examples": [
+        {
+          "en": "I'll script a trap mechanism for the end farm that catches all mobs automatically.",
+          "ja": "終末の地のファームのためにトラップメカニズムをスクリプト化します。すべてのモブを自動的にキャッチします。",
+          "ipa": "/aɪl ˈskɹɪpt ə ˈtræp ˈmɛkənɪzəm fɔɹ ðə ɛnd fɑɹm ðæt ˈkætʃəz ɔl moʊbz ˌɔtəˈmætɪkli/",
+          "linking": [
+            "I'll の語末 /l/ が script の /s/ に連結 [aɪl ˈskɹɪpt]「アイル スクリプト」",
+            "a は弱形 /ə/ [ア]；for は弱形 /fɔɹ/ [フォア]、the は弱形 /ðə/ [ザ]",
+            "mobs の /z/ が automatically の /ɔ/ に連結 [moʊbz ˌɔ-]「モウブズ オートマティカリー」"
+          ],
+          "kana": "アイル スクリプト ア トラップ メカニズム フォア ザ エンド ファーム ザット キャッチャーズ オール モウブズ オートマティカリー"
+        },
+        {
+          "en": "She'll script all the dialogue and quest markers for our multiplayer adventure before next week.",
+          "ja": "彼女は来週までに、マルチプレイヤーアドベンチャーのすべてのダイアログとクエストマーカーをスクリプト化します。",
+          "ipa": "/ʃil ˈskɹɪpt ɔl ðə ˈdaɪəˌlɑg ənd ˈkwɛst ˈmɑɹkɚz fɔɹ ˈaʊɚ ˌmʌltɪˈpleɪɚ ədˈvɛntʃɚ bɪˈfɔɹ ˈnɛkst wik/",
+          "linking": [
+            "She'll の語末 /l/ が script の /s/ に連結 [ʃil ˈskɹɪpt]「シール スクリプト」",
+            "the は弱形 /ðə/ [ザ]；and は弱形 /ən/ [ア ンド]",
+            "for は弱形 /fɔɹ/ [フォア]、our は弱化 /ˈaʊɚ/ [アワー]"
+          ],
+          "kana": "シール スクリプト オール ザ ダイアログ ア ンド クエスト マーカーズ フォア アワー マルチプレイア ア ベンチャー ビフォア ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be scripting",
+      "ipa": "/wɪl bi ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "While you're mining ores, I'll be scripting the automated sorting system all afternoon.",
+          "ja": "あなたが鉱石を採掘している間、私は午後中、自動仕分けシステムをスクリプト化し続けます。",
+          "ipa": "/waɪl jɚ ˈmaɪnɪŋ ˈɔɹz aɪl bi ˈskɹɪptɪŋ ðə ˌɔtəˈmeɪtəd ˈsɔɹtɪŋ ˈsɪstəm ɔl ˌæftɚˈnun/",
+          "linking": [
+            "while の /l/ が you're の /j/ に続く（子音+子音）で未開放 [waɪl jɚ]「ワイル ユア」",
+            "I'll の語末 /l/ が be の /b/ に連結しない（子音+子音で未開放）[aɪl bi]「アイル ビー」",
+            "be の /i/ が scripting の /s/ に連結 [bi ˈskɹɪp-]「ビー スクリプティング」",
+            "the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ワイル ユア マイニング オアーズ アイル ビー スクリプティング ザ オートメイティッド ソーティング システム オール アフターヌーン"
+        },
+        {
+          "en": "They'll be scripting the custom enchantment commands when the developers release the new API.",
+          "ja": "開発者が新しいAPIをリリースするとき、彼らはカスタムエンチャントコマンドをスクリプト化し続けます。",
+          "ipa": "/ðeɪl bi ˈskɹɪptɪŋ ðə ˈkʌstəm ɪnˈtʃæntmənt kəˈmændz wɛn ðə dɪˈvɛləpərz riˈlis ðə ˈnu ˌeɪ pi ˈeɪ/",
+          "linking": [
+            "They'll の語末 /l/ が be の /b/ に連結しない（子音+子音で未開放）[ðeɪl bi]「ゼイル ビー」",
+            "be の /i/ が scripting の /s/ に連結 [bi ˈskɹɪp-]「ビー スクリプティング」",
+            "the は弱形 /ðə/ [ザ]（2回）；when の /n/ が the の /ð/ に続く（鼻音+子音）"
+          ],
+          "kana": "ゼイル ビー スクリプティング ザ カスタム イン チャント メント コマンズ ウェン ザ ディベロパーズ リリース ザ ニュー エイ ピー エイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have scripted",
+      "ipa": "/wɪl həv ˈskɹɪptəd/",
+      "examples": [
+        {
+          "en": "By the time you finish building, we will have scripted every command block for the entire arena system.",
+          "ja": "あなたが建設を終えるまでに、私たちはアリーナシステム全体のすべてのコマンドブロックをスクリプト化し終わっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ˈfɪnɪʃ ˈbɪldɪŋ wi wɪl həv ˈskɹɪptəd ˈɛvri kəˈmænd blɑk fɔɹ ðə ɪnˈtaɪɚ əˈɹinə ˈsɪstəm/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "will の語末 /l/ が have の /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の /v/ が scripted の /s/ に連結 [həv ˈskɹɪp-]「ハヴ スクリプティッド」",
+            "for は弱形 /fɔɹ/ [フォア]、the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "バイ ザ タイム ユー フィニッシュ ビルディング ウィ ウィル ハヴ スクリプティッド エブリ コマンド ブラック フォア ザ インタイア ア リーナ システム"
+        },
+        {
+          "en": "Once the server restarts, he will have scripted over two hundred automated farming routines.",
+          "ja": "サーバーが再起動したら、彼は200以上の自動農業ルーチンをスクリプト化し終わっているでしょう。",
+          "ipa": "/ˈwʌns ðə ˈsɝvɚ riˈstɑɹts hi wɪl həv ˈskɹɪptəd ˈoʊvɚ tu ˈhʌndɹəd ˌɔtəˈmeɪtəd ˈfɑɹmɪŋ ˈɹuˌtinz/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "will の語末 /l/ が have の /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の /v/ が scripted の /s/ に連結 [həv ˈskɹɪp-]「ハヴ スクリプティッド」",
+            "hundred の /d/ が automated の /ɔ/ に連結（子音から母音へ）[ˈhʌndɹəd ˌɔ-]「ハンドレッド オートメイティッド」"
+          ],
+          "kana": "ワンス ザ サーバー リースターツ ヒー ウィル ハヴ スクリプティッド オウヴァー トゥー ハンドレッド オートメイティッド ファーミング ルーティーンズ"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has scripted",
