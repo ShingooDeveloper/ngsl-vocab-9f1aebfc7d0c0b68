@@ -328,6 +328,102 @@
           "kana": "ダ プレイアーズ ハヴ ビン ファティーギング クイックリー ドゥー タ ダ ナンスタップ マイニング エン ビルディング タスクス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is fatiguing",
+      "ipa": "/ɪz fəˈtɪɡɪŋ/",
+      "examples": [
+        {
+          "en": "The constant jumping is fatiguing the team.",
+          "ja": "絶え間ないジャンプはチームを疲れさせています。",
+          "ipa": "/ðə ˈkɑnstənt ˈdʒʌmpɪŋ ɪz fəˈtɪɡɪŋ ðə ˈtim/",
+          "linking": [
+            "the は弱形 /ðə/。constant に続く",
+            "jumping の末尾 /ŋ/ が is の初頭 /ɪ/ に連結 [ˈdʒʌmpɪŋ‿ɪz]（鼻音+母音）",
+            "is は助動詞で弱形 /ɪz/ に弱化",
+            "fatiguing の末尾 /ŋ/ が the の初頭 /ð/ に続く（鼻音+子音）"
+          ],
+          "kana": "ダ コンスタント ジャンピング イズ ファティーギング ダ ティーム"
+        },
+        {
+          "en": "This difficult cave exploration is fatiguing Steve significantly.",
+          "ja": "この困難な洞窟探査はスティーブを著しく疲れさせています。",
+          "ipa": "/ðɪs ˈdɪfɪkəlt keɪv ˌɛkspləˈreɪʃən ɪz fəˈtɪɡɪŋ stiv sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "difficult の末尾 /t/ が cave の初頭 /k/ に続く（子音+子音）",
+            "cave の末尾 /v/ が exploration の初頭 /ɛ/ に連結 [keɪv‿ɛkspləˈreɪʃən]",
+            "exploration の末尾 /n/ が is の初頭 /ɪ/ に連結 [ˌɛkspləˈreɪʃən‿ɪz]",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "ディス ディフィカルト ケイヴ エクスプローレーション イズ ファティーギング スティーブ シグニフィカントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was fatiguing",
+      "ipa": "/wəz fəˈtɪɡɪŋ/",
+      "examples": [
+        {
+          "en": "The long mining session was fatiguing the players yesterday.",
+          "ja": "昨日の長い採掘セッションはプレイヤーを疲れさせていました。",
+          "ipa": "/ðə lɔŋ ˈmaɪnɪŋ ˈsɛʃən wəz fəˈtɪɡɪŋ ðə ˈpleɪərz ˈjɛstərdeɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "mining の末尾 /ŋ/ が session の初頭 /s/ に続く（鼻音+子音）",
+            "session の末尾 /n/ が was の初頭 /w/ に続く（子音+子音）",
+            "was は弱形 /wəz/ に弱化"
+          ],
+          "kana": "ダ ロング マイニング セッション ワズ ファティーギング ダ プレイアーズ イエスターデイ"
+        },
+        {
+          "en": "Building the massive redstone contraption was fatiguing Alex and the team.",
+          "ja": "大規模なレッドストーン装置の建築はアレックスとチームを疲れさせていました。",
+          "ipa": "/ˈbɪldɪŋ ðə ˈmæsɪv ˈrɛdˌstoʊn kənˈtræpʃən wəz fəˈtɪɡɪŋ ˈælɛks ənd ðə ˈtim/",
+          "linking": [
+            "Building の末尾 /ŋ/ が the の初頭 /ð/ に続く（鼻音+子音）",
+            "the は弱形 /ðə/",
+            "contraption の末尾 /n/ が was の初頭 /w/ に続く（子音+子音）",
+            "was は弱形 /wəz/、and は弱形 /ənd/"
+          ],
+          "kana": "ビルディング ダ マッシヴ レッドストーン コントラプション ワズ ファティーギング アレックス エン ダ ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been fatiguing",
+      "ipa": "/həd bɪn fəˈtɪɡɪŋ/",
+      "examples": [
+        {
+          "en": "The endless mob battles had been fatiguing the warriors for hours.",
+          "ja": "終わりのないモブとの戦闘は何時間もの間戦士たちを疲れさせ続けていました。",
+          "ipa": "/ðə ˈɛndləs ˈmɑb ˈbætəlz həd bɪn fəˈtɪɡɪŋ ðə ˈwɔriərz fər ˈaʊərz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "endless の末尾 /s/ が mob の初頭 /m/ に続く（子音+子音）",
+            "battles の末尾 /z/ が had の初頭 /h/ に続く（子音+子音）",
+            "had は助動詞で弱形 /həd/、been は弱形 /bɪn/"
+          ],
+          "kana": "ダ エンドレス モブ バットルズ ハド ビン ファティーギング ダ ウォリアーズ ファー アワーズ"
+        },
+        {
+          "en": "Working on the mega base had been fatiguing everyone before they finally took a break.",
+          "ja": "メガベースでの作業は最後に休憩を取るまで皆を疲れさせ続けていました。",
+          "ipa": "/ˈwɜrkɪŋ ɑn ðə ˈmeɪɡə beɪs həd bɪn fəˈtɪɡɪŋ ˈɛvriˌwʌn bɪˈfɔr ðeɪ ˈfaɪnəli tʊk ə ˈbreɪk/",
+          "linking": [
+            "Working の末尾 /ŋ/ が on の初頭 /ɑ/ に連結 [ˈwɜrkɪŋ‿ɑn]",
+            "on は弱形 /ɑn/、the は弱形 /ðə/",
+            "base の末尾 /s/ が had の初頭 /h/ に続く（子音+子音）",
+            "had は弱形 /həd/、been は弱形 /bɪn/、before は /bɪˈfɔr/"
+          ],
+          "kana": "ワーキング アン ダ メイガ ベイス ハド ビン ファティーギング エヴリワン ビフォア ゼイ ファイナリー トゥック ア ブレイク"
+        }
+      ]
     }
   ],
   "tags": [
