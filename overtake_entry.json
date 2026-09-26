@@ -189,13 +189,13 @@
         {
           "en": "I am overtaking the Ender Dragon in the arena.",
           "ja": "アリーナでエンダードラゴンを追い越している。",
-          "ipa": "/aɪ æm ˌoʊvərˈteɪkɪŋ ðə ˈɛndər ˈdreɪɡən ɪn ðə əˈrinə/",
+          "ipa": "/aɪ əm ˌoʊvərˈteɪkɪŋ ðə ˈɛndər ˈdreɪɡən ɪn ðə əˈrinə/",
           "linking": [
-            "am overtaking：語末子音 /m/ が母音 /oʊ/ に連結 [æ ˌmoʊvərˈteɪkɪŋ]",
+            "am overtaking：am は弱形 /əm/（アム）、語末子音 /m/ が母音 /oʊ/ に連結 [əm ˌoʊvərˈteɪkɪŋ]",
             "overtaking the：語末 /ŋ/ が子音 /ð/ 前で未開放、the は弱形 /ðə/（ザ）",
             "in the：語末 /n/ が子音 /ð/ 前で未開放 [ɪn̚]"
           ],
-          "kana": "アイ エ モーヴァーテイキング ザ エンダー ドレイゴン イッ ザ アリーナ"
+          "kana": "アイ アム オーヴァーテイキング ザ エンダー ドレイゴン イン ザ アリーナ"
         },
         {
           "en": "The speed runner is overtaking everyone on the track.",
@@ -263,6 +263,95 @@
             "been overtaking：been は弱形 /bɪn/（ビン）、語末子音 /n/ が母音 /oʊ/ に連結"
           ],
           "kana": "ゼイ ハド ビン オーヴァーテイキング コンペティターズ ウェン ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will overtake",
+      "ipa": "/wɪl ˌoʊvərˈteɪk/",
+      "examples": [
+        {
+          "en": "I'll overtake you on the next lap.",
+          "ja": "次のラップであなたを追い越します。",
+          "ipa": "/aɪl ˌoʊvərˈteɪk ju ɑn ðə ˈnɛkst læp/",
+          "linking": [
+            "I'll overtake you：I'll は /aɪl/（アイル）、語末子音 /k/ が母音 /ju/ に連結 [ˈteɪkju] テイキュー",
+            "on the：語末 /n/ が子音 /ð/ 前で未開放 [ɑn̚]、the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "アイル オーヴァーテイキュー ユー アン ザ ネクスト ラップ"
+        },
+        {
+          "en": "She will overtake all rivals before sunset.",
+          "ja": "彼女は日没前にすべてのライバルを追い越すでしょう。",
+          "ipa": "/ʃi wɪl ˌoʊvərˈteɪk ɔl ˈraɪvəlz bɪˈfɔr ˈsʌnˌsɛt/",
+          "linking": [
+            "will overtake：will は弱形 /wəl/（ウェル）、語末 /l/ が母音 /oʊ/ に連結 [wəl ˈoʊ]",
+            "overtake all：語末子音 /k/ が母音 /ɔ/ に連結 [ˈteɪkɔl] テイコール",
+            "before sunset：語末 /r/ が母音 /s/ に r-linking で連結"
+          ],
+          "kana": "シー ウェル オーヴァーテイコール オール ライヴァルズ ビフォー サンセット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be overtaking",
+      "ipa": "/wɪl bi ˌoʊvərˈteɪkɪŋ/",
+      "examples": [
+        {
+          "en": "You'll be overtaking mobs throughout the mining expedition.",
+          "ja": "採掘遠征全体でモブを追い越し続けるでしょう。",
+          "ipa": "/jul bi ˌoʊvərˈteɪkɪŋ ˈmoʊbz θruˈaʊt ðə ˈmaɪnɪŋ ˌɛkspəˈdɪʃən/",
+          "linking": [
+            "You'll be overtaking：you'll は /jəl/（ユル）、語末 /l/ が母音 /bi/ に連結 [jəl bi ˈoʊ]",
+            "overtaking mobs：語末 /ŋ/ が子音 /m/ 前で未開放 [ˈteɪkɪŋ̚]",
+            "the mining：the は弱形 /ðə/（ザ）、語末 /ŋ/ が子音 /ɛ/ 前で未開放 [ˈmaɪnɪŋ̚]"
+          ],
+          "kana": "ユル ビー オーヴァーテイキング モウブズ スルーアウト ザ マイニング エクスペディション"
+        },
+        {
+          "en": "He will be overtaking enemies as we advance toward the portal.",
+          "ja": "我々がポータルに向かって進むにつれて、彼は敵を追い越し続けるでしょう。",
+          "ipa": "/hi wɪl bi ˌoʊvərˈteɪkɪŋ ˈɛnəmiz æz wi ədˈvæns təˈwɔrd ðə ˈpɔrtəl/",
+          "linking": [
+            "will be overtaking：will は弱形 /wəl/、be は弱形 /bi/ → /bə/、/l/ が /b/ に未開放で続く",
+            "overtaking enemies：語末 /ŋ/ が子音 /ɛ/ 前で未開放 [ˈteɪkɪŋ̚]",
+            "the portal：the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "ヒー ウェル バ オーヴァーテイキング エネミーズ アズ ウィー アドヴァンス タワード ザ ポータル"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have overtaken",
+      "ipa": "/wɪl həv ˌoʊvərˈteɪkən/",
+      "examples": [
+        {
+          "en": "We'll have overtaken the wither boss by the time you respawn.",
+          "ja": "あなたが復活するまでに、ウィザーボスを追い越しているでしょう。",
+          "ipa": "/wil həv ˌoʊvərˈteɪkən ðə ˈwɪðər ˈbɑs baɪ ðə ˈtaɪm ju rɪˈspɔn/",
+          "linking": [
+            "We'll have：we'll は /wil/（ウィル）、have は弱形 /həv/（ハヴ）",
+            "have overtaken：語末 /v/ が母音 /oʊ/ に連結 [həv ˈoʊ]",
+            "the wither：the は弱形 /ðə/（ザ）、by the time の the も弱形"
+          ],
+          "kana": "ウィル ハヴ オーヴァーテイクン ザ ウィザー ボス バイ ザ タイム ユー リスポーン"
+        },
+        {
+          "en": "They will have overtaken all challenges before the server reset.",
+          "ja": "サーバーリセット前に、すべてのチャレンジを克服しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˌoʊvərˈteɪkən ɔl ˈtʃælɪndʒɪz bɪˈfɔr ðə ˈsɜrvər ˈrisɛt/",
+          "linking": [
+            "will have overtaken：will は弱形 /wəl/、have は弱形 /əv/、/l/ が /ə/ に連結 [wəl əv ˈoʊ]",
+            "have overtaken all：overtaken の語末 /n/ が子音 /ɔ/ 前で未開放 [ˈteɪkən̚]",
+            "the server：the は弱形 /ðə/（ザ）"
+          ],
+          "kana": "ゼイ ウェル アヴ オーヴァーテイクン オール チャレンジズ ビフォー ザ サーヴァー リセット"
         }
       ]
     }
