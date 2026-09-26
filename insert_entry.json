@@ -1,0 +1,75 @@
+{
+  "word": "insert",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɪnˈsɝt/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "insert(?:s|ed|ing)?|Insert",
+  "meanings": [
+    "【動詞】何かを別のもの内に入れる、挿入する（to put or place something into something else）",
+    "【動詞】テキストやデータを文書やシステムに入力する、挿入する（to add text or data into a document or system）",
+    "【名詞】挿入されたもの、パネル；印刷物に組み込まれた付録（something that is inserted, particularly extra material in printed matter or displays）"
+  ],
+  "examples": [
+    {
+      "en": "Insert a redstone component into the mechanism to make it work properly.",
+      "ja": "そのメカニズムを正常に機能させるために、レッドストーンコンポーネントを挿入してください。",
+      "ipa": "/ɪnˈsɝɾə ˈrɛdˌstoʊn kəmˈpoʊnənt ˈɪntuː ðə ˈmɛkənɪzəm tu meɪk ɪt ˈwɝk ˈproʊpɚli/",
+      "linking": [
+        "Insert の末尾 /t/ が母音 /ə/ に連結し、フラップT化して [ɪnˈsɝɾə]",
+        "to は機能語で弱形 /tə/ に弱化して [tu] → [tə]"
+      ],
+      "kana": "インサーラ レッドストーン コンポーネント イントゥー ザ メカニズム タ メイク イット ワーク プロパーリー"
+    },
+    {
+      "en": "I inserted the diamond block into the wall for better decoration.",
+      "ja": "より良い装飾のために、ダイヤモンドブロックを壁に挿入しました。",
+      "ipa": "/aɪ ɪnˈsɝtɪd ðə ˈdaɪmənd blɑk ˈɪntuː ðə wɔl fɚ ˈbɛtɚ ˌdɛkəˈreɪʃən/",
+      "linking": [
+        "inserted の末尾 /d/ は次の子音 /ð/ の前で未開放 [d̚]",
+        "for は機能語で弱形 /fɚ/ に弱化"
+      ],
+      "kana": "アイ インサーティド ザ ダイモンド ブラック イントゥー ザ ウォール ファー ベター デコレーション"
+    },
+    {
+      "en": "This decorative stone insert makes your building entrance look more elegant.",
+      "ja": "この装飾的な石のインサートは、建物の入口をより優雅に見せます。",
+      "ipa": "/ðɪs ˈdɛkərəˌtɪv stoʊn ˈɪnsɝt meɪks jɚ ˈbɪldɪŋ ˈɛntrəns lʊk moʊɹ ˈɛlɪɡənt/",
+      "linking": [
+        "stone の末尾 /n/ が insert の /ɪ/ に連結して自然な流れ [stoʊn ˈɪnsɝt]",
+        "your は弱形 /jɚ/、more の末尾 /r/ が mother noun に連結"
+      ],
+      "kana": "ディス デコラティヴ ストーン インサート メイクス ユア ビルディング エントランス ルック モア エレガント"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "insert a block",
+      "ja": "ブロックを挿入する",
+      "example": "Insert a diamond ore block into the wall to mark the location of the richest mine.",
+      "example_ja": "最も豊富な鉱山の位置を示すために、ダイヤモンド鉱石ブロックを壁に挿入しましょう。",
+      "ipa": "/ɪnˈsɝɾə ˈdaɪmənd ɔr blɑk ˈɪntuː ðə wɔl tu mɑrk ðə loʊˈkeɪʃən əv ðə ˈrɪtʃəst maɪn/",
+      "linking": [
+        "insert a の連結：末尾 /t/ が /ə/ に連結、フラップT化 [ɪnˈsɝɾə]",
+        "ore と block の語末 /r/ と子音の間は分離"
+      ],
+      "kana": "インサーラ ダイモンド オア ブラック イントゥー ザ ウォール トゥ マーク ザ ロケーション アヴ ザ リッチェスト マイン"
+    },
+    {
+      "idiom": "insert the key",
+      "ja": "鍵を挿入する",
+      "example": "Insert the key into the lock to open the secret door mechanism.",
+      "example_ja": "秘密のドアメカニズムを開けるために、鍵をロックに挿入してください。",
+      "ipa": "/ɪnˈsɝɾə ðə kiː ˈɪntuː ðə lɑk tu ˈoʊpən ðə ˈsikrət dɔr ˈmɛkənɪzəm/",
+      "linking": [
+        "insert の末尾 /t/ が the の /ð/ の前で未開放 [ɪnˈsɝt̚ ðə]",
+        "key と into の間、key の末尾 /iː/ と into の /ɪ/ は分離"
+      ],
+      "kana": "インサート ザ キー イントゥー ザ ロック トゥ オウプン ザ シークレット ドア メカニズム"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ]
+}
