@@ -235,6 +235,97 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is slimming",
+      "ipa": "/ɪz ˈslɪmɪŋ/",
+      "examples": [
+        {
+          "en": "My team is slimming down the base to improve FPS.",
+          "ja": "チームがベースをスリムにしてFPSを改善しています。",
+          "ipa": "/maɪ ˈtim ɪz ˈslɪmɪŋ daʊn ðə ˈbeɪs tə ɪmˈpruːv ˈɛfˌpiˈɛs/",
+          "linking": [
+            "team is - team の末子音 /m/ が is の初頭 /ɪ/ に連結、is は弱形 /ɪz/",
+            "the - 機能語、弱形 /ðə/",
+            "to - 機能語、弱形 /tə/"
+          ],
+          "kana": "マイ ティーム イズ スリミング ダウン ザ ベース タ インプルーヴ エフピーエス"
+        },
+        {
+          "en": "The builder is slimming the tower walls to save blocks.",
+          "ja": "ビルダーはブロックを節約するためにタワーの壁をスリムにしています。",
+          "ipa": "/ðə ˈbɪldər ɪz ˈslɪmɪŋ ðə ˈtaʊər wɔlz tu ˈseɪv ˈblɑks/",
+          "linking": [
+            "The - 機能語、弱形 /ðə/",
+            "is - 弱形 /ɪz/",
+            "the tower - the は弱形 /ðə/",
+            "to - 機能語、弱形 /tə/"
+          ],
+          "kana": "ザ ビルダー イズ スリミング ザ タワー ウォールズ タ セイヴ ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was slimming",
+      "ipa": "/wəz ˈslɪmɪŋ/",
+      "examples": [
+        {
+          "en": "We were slimming the tower when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、私たちはタワーをスリムにしていました。",
+          "ipa": "/wi wər ˈslɪmɪŋ ðə ˈtaʊər wɛn ðə ˈsɝvər ˈkræʃt/",
+          "linking": [
+            "We were - we は /wi/、were は弱形 /wər/",
+            "the tower - the は弱形 /ðə/",
+            "when the - when は /wɛn/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ワー スリミング ザ タワー ホェン ザ サーバー クラッシュド"
+        },
+        {
+          "en": "I was slimming down the structure during the update.",
+          "ja": "アップデート中、私は構造をスリムにしていました。",
+          "ipa": "/aɪ wəz ˈslɪmɪŋ daʊn ðə ˈstrʌktʃər ˈdʊrɪŋ ðə ʌpˈdeɪt/",
+          "linking": [
+            "was - 弱形 /wəz/",
+            "the structure - the は弱形 /ðə/",
+            "during - /ˈdʊrɪŋ/"
+          ],
+          "kana": "アイ ワズ スリミング ダウン ザ ストラクチャー ドゥーリング ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been slimming",
+      "ipa": "/həd bɪn ˈslɪmɪŋ/",
+      "examples": [
+        {
+          "en": "She had been slimming the design for hours before showing it.",
+          "ja": "彼女は見せる前に何時間もデザインをスリムにしていました。",
+          "ipa": "/ʃi həd bɪn ˈslɪmɪŋ ðə dɪˈzaɪn fər ˈaʊərz bɪˈfɔr ˈʃoʊɪŋ ɪt/",
+          "linking": [
+            "had - 弱形 /həd/",
+            "the - 機能語、弱形 /ðə/",
+            "for - 機能語、弱形 /fər/"
+          ],
+          "kana": "シー ハド ビン スリミング ザ デザイン ファー アワーズ ビフォー ショーイング イット"
+        },
+        {
+          "en": "They had been slimming the pathway when they found diamonds.",
+          "ja": "彼らがダイヤを見つけたとき、彼らは通路をスリムにしていました。",
+          "ipa": "/ðeɪ həd bɪn ˈslɪmɪŋ ðə ˈpæθˌweɪ wɛn ðeɪ ˈfaʊnd ˈdaɪməndz/",
+          "linking": [
+            "had - 弱形 /həd/",
+            "the - 機能語、弱形 /ðə/",
+            "when they - when は /wɛn/、they は /ðeɪ/ で始まる"
+          ],
+          "kana": "ゼイ ハド ビン スリミング ザ パスウェイ ホェン ゼイ ファウンド ダイモンズ"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形",
       "text": "has slimmed",
