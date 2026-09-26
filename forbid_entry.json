@@ -228,6 +228,93 @@
                                    ]
                   },
                   {
+                      "type":  "present_perfect",
+                      "label":  "現在完了形",
+                      "text":  "has forbidden",
+                      "ipa":  "/həz fərˈbɪdən/",
+                      "examples":  [
+                                       {
+                                           "en":  "We have forbidden anyone from using hacks on our server.",
+                                           "ja":  "我々はサーバー上でハック使用を誰にも禁止しています。",
+                                           "ipa":  "[wi həv fərˈbɪdən ˈɛniˌwʌn frəm ˈjuːzɪŋ ˈhæks ɑn ˈaʊɚ ˈsɝvər]",
+                                           "linking":  [
+                                                           "have は弱形 /həv/ ハヴ",
+                                                           "from は弱形 /frəm/ フラム"
+                                                       ],
+                                           "kana":  "ウィ ハヴ ファービドゥン エニワン フラム ユージング ハックス アン アワー サーバー"
+                                       },
+                                       {
+                                           "en":  "Survivors have forbidden others from exploring the deep dark biome.",
+                                           "ja":  "生き残りたちは他のプレイヤーが深い暗い生物群系を探索することを禁止しています。",
+                                           "ipa":  "[sərˈvaɪvərz həv fərˈbɪdən ˈʌðərz frəm ɪkˈsplɔrɪŋ ðə ˈdip ˈdɑrk ˈbaɪˌoʊm]",
+                                           "linking":  [
+                                                           "have は弱形 /həv/ ハヴ",
+                                                           "others from → from は弱形 /frəm/ フラム",
+                                                           "the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "サーバイバーズ ハヴ ファービドゥン アザーズ フラム イクスプローリング ザ ディープ ダーク バイオーム"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "past_perfect",
+                      "label":  "過去完了形",
+                      "text":  "had forbidden",
+                      "ipa":  "/həd fərˈbɪdən/",
+                      "examples":  [
+                                       {
+                                           "en":  "The owner had forbidden PvP before the tournament began.",
+                                           "ja":  "トーナメント開始前に、オーナーはPvPを禁止していました。",
+                                           "ipa":  "[ðə ˈoʊnər həd fərˈbɪdən ˈpiːviːˈpi bɪˈfɔr ðə ˈtɔrnəmənt bɪˈɡæn]",
+                                           "linking":  [
+                                                           "the owner → the は弱形 /ðə/ ザ",
+                                                           "had は弱形 /həd/ ハド",
+                                                           "before the → the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ザ オウナー ハド ファービドゥン ピーヴィーピー ビフォア ザ トーナメント ビガン"
+                                       },
+                                       {
+                                           "en":  "They discovered that admins had forbidden access to the treasure vault.",
+                                           "ja":  "彼らは管理者がトレジャーボルトへのアクセスを禁止していたことを発見しました。",
+                                           "ipa":  "[ðeɪ dɪˈskʌvərd ðæt ˈæd.mɪnz həd fərˈbɪdən ˈæksɛs tə ðə ˈtɛʒər ˈvɔlt]",
+                                           "linking":  [
+                                                           "had は弱形 /həd/ ハド",
+                                                           "access to → to は弱形 /tə/ タ",
+                                                           "the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ザイ ディスカバード ザット アドミンズ ハド ファービドゥン アクセス タ ザ トレジャー ボルト"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "present_perfect_progressive",
+                      "label":  "現在完了進行形",
+                      "text":  "has been forbidding",
+                      "ipa":  "/həz bɪn fərˈbɪdɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "The server has been forbidding modified resource packs all season.",
+                                           "ja":  "サーバーはシーズン中ずっと修正されたリソースパックを禁止し続けています。",
+                                           "ipa":  "[ðə ˈsɝvər həz bɪn fərˈbɪdɪŋ ˈmɑd.ə.faɪd ˈrɛ.sɚs ˈpæks ɔl ˈsiːzən]",
+                                           "linking":  [
+                                                           "the は弱形 /ðə/ ザ",
+                                                           "has been → has /həz/ 弱形、been /bɪn/ 弱形"
+                                                       ],
+                                           "kana":  "ザ サーバー ハズ ビン ファービディング モディファイド レソース パックス オール シーズン"
+                                       },
+                                       {
+                                           "en":  "Admins have been forbidding flying mode in survival worlds since the update.",
+                                           "ja":  "アップデート以来、管理者たちはサバイバルワールドでフライングモードを禁止し続けています。",
+                                           "ipa":  "[ˈæd.mɪnz həv bɪn fərˈbɪdɪŋ ˈflaɪŋ ˈmoʊd ɪn sərˈvaɪvəl ˈwɝldz sɪns ðə ˈʌpˌdeɪt]",
+                                           "linking":  [
+                                                           "have been → have /həv/ 弱形、been /bɪn/ 弱形",
+                                                           "the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "アドミンズ ハヴ ビン ファービディング フライング モード イン サーバイバル ワールドゥズ シンス ザ アップデイト"
+                                       }
+                                   ]
+                  },
+                  {
                       "type":  "past_perfect_progressive",
                       "label":  "過去完了進行形（had been + -ing）",
                       "text":  "had been forbidding",
@@ -257,6 +344,99 @@
                                                            "until は /ənˈtɪl/"
                                                        ],
                                            "kana":  "ザ アドミン ハド ビン ファービディング ベッドロック ブレイキング アンティル ザ プレイヤー アーンド ランク"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "future",
+                      "label":  "単純未来形（will + 動詞原形）",
+                      "text":  "will forbid",
+                      "ipa":  "/wɪl fərˈbɪd/",
+                      "examples":  [
+                                       {
+                                           "en":  "I will forbid flying on the server next week.",
+                                           "ja":  "来週、私はサーバーで飛行を禁止します。",
+                                           "ipa":  "[aɪl fərˈbɪd ˈflaɪɪŋ ɑn ðə ˈsɝvər ˈnɛkst wik]",
+                                           "linking":  [
+                                                           "I will → I'll /aɪl/ に縮約",
+                                                           "on the → on /ɑn/、the は弱形 /ðə/ ザ",
+                                                           "next week → next /ˈnɛkst/ の語末子音 /t/ が week の母音 /w/ に未開放で続く"
+                                                       ],
+                                           "kana":  "アイル ファービド フライング アン ザ サーバー ネクスト ウィック"
+                                       },
+                                       {
+                                           "en":  "The admins will forbid all PvP during the event.",
+                                           "ja":  "管理者たちはイベント中にすべてのPvPを禁止します。",
+                                           "ipa":  "[ðə ˈæd.mɪnz wɪl fərˈbɪd ɔl ˈpi.vi.ˈpi ˈdʊrɪŋ ðə ɪˈvɛnt]",
+                                           "linking":  [
+                                                           "The admins → The は弱形 /ðə/ ザ",
+                                                           "all PvP → all は /ɔl/",
+                                                           "during the → during /ˈdʊrɪŋ/、the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ザ アドミンズ ウィル ファービド オール ピーヴィーピー ドゥーリング ザ イベント"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "future_progressive",
+                      "label":  "未来進行形（will be + -ing）",
+                      "text":  "will be forbidding",
+                      "ipa":  "/wɪl bi fərˈbɪdɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "We will be forbidding new players from accessing the vault.",
+                                           "ja":  "私たちは新しいプレイヤーがボルトにアクセスすることを禁止し続けるでしょう。",
+                                           "ipa":  "[wil bi fərˈbɪdɪŋ ˈnu ˈpleɪərz frəm ˈæksɛsɪŋ ðə ˈvɔlt]",
+                                           "linking":  [
+                                                           "We will → We'll /wil/ に縮約",
+                                                           "will be → will の語末 /l/ が be の母音 /i/ に連結 [ˈwɪlbi] ウィルビー",
+                                                           "from → 弱形 /frəm/ フラム、accessing の母音に連結",
+                                                           "the → 弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ウィル ビー ファービディング ニュー プレイヤーズ フラム アクセシング ザ ボルト"
+                                       },
+                                       {
+                                           "en":  "You'll be forbidding anyone from breaking the spawn protection.",
+                                           "ja":  "あなたは誰もがスポーン保護を壊すことを禁止し続けるでしょう。",
+                                           "ipa":  "[juːl bi fərˈbɪdɪŋ ˈɛn.i.ˌwʌn frəm ˈbreɪkɪŋ ðə ˈspoʊn prəˈtɛkʃən]",
+                                           "linking":  [
+                                                           "You'll be → You'll /juːl/、be /bi/ に続く",
+                                                           "from → 弱形 /frəm/ フラム、breaking の母音に連結",
+                                                           "the spawn → the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ユール ビー ファービディング エニワン フラム ブレイキング ザ スポウン プロテクション"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "future_perfect",
+                      "label":  "未来完了形（will have + 過去分詞）",
+                      "text":  "will have forbidden",
+                      "ipa":  "/wɪl həv fərˈbɪdən/",
+                      "examples":  [
+                                       {
+                                           "en":  "By tomorrow, I will have forbidden all TNT explosions in the protected zone.",
+                                           "ja":  "明日までに、私は保護されたゾーンですべてのTNT爆発を禁止しているでしょう。",
+                                           "ipa":  "[baɪ təˈmɑroʊ aɪl əv fərˈbɪdən ɔl ˌti ɛn ˈti ɪkˈsploʊʒənz ɪn ðə prəˈtɛktəd zoʊn]",
+                                           "linking":  [
+                                                           "By tomorrow → By /baɪ/、tomorrow は弱形 /təˈmɑroʊ/",
+                                                           "I will → I'll /aɪl/ に縮約",
+                                                           "will have → will の語末 /l/ が have に続き、have は弱形 /əv/ [aɪləv] アイラヴ",
+                                                           "the protected → the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "バイ トゥモロー アイル アブ ファービドゥン オール ティエンティー イクスプロージョンズ イン ザ プロテクティド ゾーン"
+                                       },
+                                       {
+                                           "en":  "They will have forbidden hacking by the time the tournament starts.",
+                                           "ja":  "トーナメントが始まるまでに、彼らはハッキングを禁止しているでしょう。",
+                                           "ipa":  "[ðeɪl əv fərˈbɪdən ˈhækɪŋ baɪ ðə ˈtaɪm ðə ˈtʊrnəmənt ˈstɑrts]",
+                                           "linking":  [
+                                                           "They will → They'll /ðeɪl/ に縮約",
+                                                           "will have → will の語末 /l/ が have に続き、have は弱形 /əv/ [ðeɪləv] ザイラヴ",
+                                                           "by the time → by /baɪ/、the は弱形 /ðə/ ザ、time /taɪm/",
+                                                           "the tournament → the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ザイル アブ ファービドゥン ハッキング バイ ザ タイム ザ ターナメント スターツ"
                                        }
                                    ]
                   }
