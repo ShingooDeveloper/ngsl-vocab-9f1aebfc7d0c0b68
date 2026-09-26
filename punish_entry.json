@@ -180,6 +180,213 @@
           "kana": "パニシング チーターズ イズ イセンシャル トゥー メインテイニング ア フェア ゲイミング インヴァイロンメント"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has punished",
+      "ipa": "/həz ˈpʌn.ɪʃt/",
+      "examples": [
+        {
+          "en": "The admin has punished every griefer caught on this server.",
+          "ja": "管理者はこのサーバーで見つかったすべてのグリーファーを罰している。",
+          "ipa": "/ðə ˈæd.mɪn həz ˈpʌn.ɪʃt ˈɛv.ri ˈɡriː.fɚ ˈkɑt ɑn ðɪs ˈsɝː.vɚ/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「admin has」で /n/ が未開放で次の /h/ に連接 [ˈæd.mɪn̚ həz]",
+            "「punished every」で /t/ が未開放で母音 /ɛ/ に連接 [ˈpʌn.ɪʃt̚ ˈɛv.ri]"
+          ],
+          "kana": "ザ アドミン ハズ パニシット エブリー グリーファー コット オン ディス サーバー"
+        },
+        {
+          "en": "I have never punished a player without proper evidence.",
+          "ja": "私は適切な証拠なしにプレイヤーを罰したことはない。",
+          "ipa": "/aɪ həv ˈnɛv.ɚ ˈpʌn.ɪʃt ə ˈpleɪ.ɚ wɪðˈaʊt ˈprɑp.ɚ ˈɛv.ɪ.dəns/",
+          "linking": [
+            "「have never」で /v/ が /n/ に連接",
+            "「punished a」で /t/ が未開放で弱形 /ə/ に連接 [ˈpʌn.ɪʃt̚ə]",
+            "「a player」で弱形 /ə/"
+          ],
+          "kana": "アイ ハヴ ネバー パニシッター プレイヤー ウィザウト プロパー エビデンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had punished",
+      "ipa": "/həd ˈpʌn.ɪʃt/",
+      "examples": [
+        {
+          "en": "Before the mods arrived, the team had punished all the rule-breakers.",
+          "ja": "モデレーターが到着する前に、チームはすべてのルール違反者を罰していた。",
+          "ipa": "/bɪˈfɔr ðə ˈmɑdz əˈraɪvd | ðə ˈtim həd ˈpʌn.ɪʃt ɔl ðə ˈrul ˈbreɪ.kɚz/",
+          "linking": [
+            "「the mods」で the は弱形 /ðə/",
+            "「mods arrived」で /z/ が母音 /ə/ に連結 [ˈmɑdz əˈraɪvd]",
+            "「team had」で /m/ が未開放で /h/ に連接 [ˈtim̚ həd]",
+            "「punished all」で /t/ が未開放で母音 /ɔ/ に連接 [ˈpʌn.ɪʃt̚ ɔl]"
+          ],
+          "kana": "ビフォア ザ モッズ ァライブド。ザ ティーム ハド パニシット オール ザ ルール ブレイカーズ"
+        },
+        {
+          "en": "The Warden had punished explorers, so few dared to enter the deep dark.",
+          "ja": "ウォーデンは探検者を罰していたので、ディープダークに入る勇気のある者はほとんどいなかった。",
+          "ipa": "/ðə ˈwɔr.dən həd ˈpʌn.ɪʃt ɪkˈsplɔr.ɚz | soʊ ˈfju ˈdɛrd tu ˈɛn.tɚ ðə ˈdip ˈdɑrk/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「Warden had」で /n/ が未開放で /h/ に連接 [ˈwɔr.dən̚ həd]",
+            "「had punished」で /d/ と /p/ は両子音、連結なし",
+            "「punished explorers」で /t/ が未開放で母音 /ɪ/ に連接 [ˈpʌn.ɪʃt̚ ɪkˈsplɔr.ɚz]",
+            "「to enter」で to は弱形 /tə/"
+          ],
+          "kana": "ザ ワーデン ハド パニシット イクスプローラーズ。ソウ フュー デアド タ エンター ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been punishing",
+      "ipa": "/həz bɪn ˈpʌn.ɪ.ʃɪŋ/",
+      "examples": [
+        {
+          "en": "The moderators have been punishing cheaters all week to maintain server integrity.",
+          "ja": "モデレーターは1週間ずっと不正行為者を罰してサーバーの完全性を保っている。",
+          "ipa": "/ðə ˈmɑd.ə.reɪ.tɚz həv bɪn ˈpʌn.ɪ.ʃɪŋ ˈtʃiː.tɚz ɔl ˈwik tu meɪnˈteɪn ˈsɝː.vɚ ɪnˈtɛɡ.rə.ti/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「moderators have」で /z/ が母音 /ə/ に連結 [ˈmɑd.ə.reɪ.tɚz həv]",
+            "「have been」で /v/ と /b/ は両子音、連結なし [həv bɪn]",
+            "「been punishing」で /n/ と /p/ は両子音、連結なし [bɪn ˈpʌn.ɪ.ʃɪŋ]",
+            "「punishing cheaters」で /ŋ/ と /tʃ/ は両子音、連結なし [ˈpʌn.ɪ.ʃɪŋ ˈtʃiː.tɚz]"
+          ],
+          "kana": "ザ モダレイターズ ハヴ ビン パニシング チーターズ オール ウィーク トゥ メインテイン サーバー インテグリティ"
+        },
+        {
+          "en": "I have been punishing myself mentally for losing that legendary diamond armor.",
+          "ja": "その伝説的なダイヤモンドアーマーを失ったことで、精神的に自分を罰し続けている。",
+          "ipa": "/aɪ həv bɪn ˈpʌn.ɪ.ʃɪŋ maɪˈsɛlf ˈmɛn.tə.li fɔr ˈluː.zɪŋ ðæt ˈlɛ.dʒən.ɛr.i ˈdaɪ.mənd ˈɑr.mɚ/",
+          "linking": [
+            "「have been」で /v/ と /b/ は両子音、連結なし [həv bɪn]",
+            "「been punishing」で /n/ と /p/ は両子音、連結なし [bɪn ˈpʌn.ɪ.ʃɪŋ]",
+            "「punishing myself」で /ŋ/ と /m/ は両子音、連結なし [ˈpʌn.ɪ.ʃɪŋ maɪˈsɛlf]",
+            "「for losing」で /r/ が母音 /l/ に連結 [fɔr ˈluː.zɪŋ]",
+            "「losing that」で /ŋ/ と /ð/ は両子音、連結なし [ˈluː.zɪŋ ðæt]"
+          ],
+          "kana": "アイ ハヴ ビン パニシング マイセルフ メンタリー フォア ルーズィング ザット レジェンダリー ダイモンド アーマー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is punishing",
+      "ipa": "ɪz ˈpʌn.ɪ.ʃɪŋ",
+      "examples": [
+        {
+          "en": "The admin is punishing the griefing player right now in the spawn zone.",
+          "ja": "管理者はスポーン地点で今、荒らしたプレイヤーを罰しています。",
+          "ipa": "[ðə ˈæd.mɪn ɪz ˈpʌn.ɪ.ʃɪŋ ðə ˈɡriː.fɪŋ ˈpleɪ.ɚ ˈraɪt ˈnaʊ ɪn ðə ˈspoʊn ˈzoʊn]",
+          "kana": "ザ アドミン イズ パニシング ザ グリーフィング プレイヤー ライッ ナウ イン ザ スポウン ゾウン",
+          "linking": [
+            "the → 弱形 /ðə/ ザ",
+            "admin is → admin の語末 /n/ が is に先立つ、is は弱形 /ɪz/ [ˈæd.mɪn ɪz] アドミン イズ",
+            "is punishing → is の語末 /z/ が punishing の初頭 /ə/ に連結 [ɪz ˈpʌn.ɪ.ʃɪŋ]",
+            "the griefing → the は弱形 /ðə/ ザ、griefing に先立つ",
+            "right now → right の語末 /t/ は未開放で now に先立つ [ˈraɪt̚ ˈnaʊ] ライッ ナウ"
+          ]
+        },
+        {
+          "en": "We are punishing the rule-breakers to protect our community from disruption.",
+          "ja": "私たちは混乱からコミュニティを保護するためにルール違反者を罰しています。",
+          "ipa": "[wi ɑr ˈpʌn.ɪ.ʃɪŋ ðə ˈrul ˈbreɪ.kɚz tu prəˈtɛkt ɑr kəˈmju.nə.ti frəm dɪsˈrʌp.ʃən]",
+          "kana": "ウィ アー パニシング ザ ルール ブレイカーズ トゥー プロテクト アワー コミュニティ フラム ディスラプション",
+          "linking": [
+            "are → 弱形 /ɑr/ アー、punishing の初頭 /ə/ に連結",
+            "the rule → the は弱形 /ðə/ ザ",
+            "to → 弱形 /tə/ タ",
+            "from → 弱形 /frəm/ フラム、disruption に先立つ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was punishing",
+      "ipa": "wəz ˈpʌn.ɪ.ʃɪŋ",
+      "examples": [
+        {
+          "en": "The server admin was punishing the hacker when the connection suddenly dropped.",
+          "ja": "接続が突然切れたとき、サーバー管理者はハッカーを罰していました。",
+          "ipa": "[ðə ˈsɝː.vɚ ˈæd.mɪn wəz ˈpʌn.ɪ.ʃɪŋ ðə ˈhæ.kɚ wɛn ðə kəˈnɛk.ʃən ˈsʌd.ən.li ˈdrɑpt]",
+          "kana": "ザ サーバー アドミン ワズ パニシング ザ ハッカー ウェン ザ コネクション サドゥンリー ドロップト",
+          "linking": [
+            "the server → the は弱形 /ðə/ ザ",
+            "server admin → server の語末 /r/ が admin に先立つ",
+            "was → 弱形 /wəz/ ワズ",
+            "was punishing → was の語末 /z/ が punishing の初頭 /ə/ に連結 [wəz ˈpʌn.ɪ.ʃɪŋ]",
+            "the hacker → the は弱形 /ðə/ ザ",
+            "when the → /n/ と /ð/ 連接、the は弱形 /ðə/ ザ",
+            "connection の語末 /n/ が suddenly に先立つ"
+          ]
+        },
+        {
+          "en": "They were punishing the griefers when the power unexpectedly went out.",
+          "ja": "電源が予期せず切れたとき、彼らは荒らしたプレイヤーを罰していました。",
+          "ipa": "[ðeɪ wɚ ˈpʌn.ɪ.ʃɪŋ ðə ˈɡriː.fɚz wɛn ðə ˈpaʊ.ɚ ʌn.ɪkˈspɛk.təd.li wɛnt ˈaʊt]",
+          "kana": "ゼイ ワー パニシング ザ グリーファーズ ウェン ザ パウアー アンイクスペクティドリー ウェント アウト",
+          "linking": [
+            "were → 弱形 /wɚ/ ワー",
+            "were punishing → were の語末 /r/ が punishing の初頭 /ə/ に連結 [wɚ ˈpʌn.ɪ.ʃɪŋ]",
+            "the grifers → the は弱形 /ðə/ ザ",
+            "when the → /n/ が /ðə/ に先立つ、the は弱形 /ðə/ ザ",
+            "the power → the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been punishing",
+      "ipa": "həd bɪn ˈpʌn.ɪ.ʃɪŋ",
+      "examples": [
+        {
+          "en": "The admins had been punishing disruptive players for hours before they decided to implement a new system.",
+          "ja": "管理者は新しいシステムを実装することを決める前に、破壊的なプレイヤーを何時間も罰していました。",
+          "ipa": "[ðə ˈæd.mɪnz həd bɪn ˈpʌn.ɪ.ʃɪŋ dɪsˈrʌp.tɪv ˈpleɪ.ɚz fɚ ˈaʊ.ɚz bɪˈfɔr ðeɪ dɪˈsaɪ.dəd tu ɪmˈplɪ.mənt ə ˈnu ˈsɪs.təm]",
+          "kana": "ザ アドミンズ ハド ビン パニシング ディスラプティブ プレイアーズ ファー アワーズ ビフォア ゼイ ディサイデッド トゥー インプリメント ア ニュー システム",
+          "linking": [
+            "the admins → the は弱形 /ðə/ ザ",
+            "admins had → admins の語末 /z/ が had に先立つ",
+            "had → 弱形 /həd/ ハド",
+            "been → 弱形 /bɪn/ ビン",
+            "been punishing → been の語末 /n/ が punishing の初頭 /ə/ に連結 [bɪn ˈpʌn.ɪ.ʃɪŋ]",
+            "for → 弱形 /fɚ/ ファー",
+            "before the → before の語末 /r/ が the に連結、the は弱形 /ðə/ ザ",
+            "to implement → to は弱形 /tə/ タ"
+          ]
+        },
+        {
+          "en": "By the time we arrived, the mods had been punishing hackers all day at the spawn point.",
+          "ja": "私たちが到着した時までに、モデレーターはスポーン地点で一日中ハッカーを罰していました。",
+          "ipa": "[baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ˈmɑdz həd bɪn ˈpʌn.ɪ.ʃɪŋ ˈhæ.kɚz ˈɔl ˈdeɪ æt ðə ˈspoʊn pɔɪnt]",
+          "kana": "バイ ザ タイム ウィ アライビド、ザ モッズ ハド ビン パニシング ハッカーズ オール デイ アッ ザ スポウン ポイント",
+          "linking": [
+            "by the → by の語末が the に先立つ、the は弱形 /ðə/ ザ",
+            "the time → the は弱形 /ðə/ ザ",
+            "we arrived → we の語末 /i/ が arrived に先立つ",
+            "the mods → the は弱形 /ðə/ ザ",
+            "mods had → mods の語末 /z/ が had に先立つ",
+            "had → 弱形 /həd/ ハド",
+            "been → 弱形 /bɪn/ ビン",
+            "been punishing → been の語末 /n/ が punishing の初頭 /ə/ に連結 [bɪn ˈpʌn.ɪ.ʃɪŋ]",
+            "at the → at の語末 /t/ が the に先立つ、the は弱形 /ðə/ ザ"
+          ]
+        }
+      ]
     }
   ]
 }
