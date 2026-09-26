@@ -1,0 +1,279 @@
+{
+  "word": "infer",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɪnˈfɝ/",
+  "rank": 1900,
+  "level": "B1",
+  "hi": "infer(?:s|red|ring)?",
+  "meanings": [
+    "【動詞】（事実や証拠から）推測する、推論する（conclude from available information）",
+    "【動詞】ほのめかす、言外に示唆する（suggest indirectly）"
+  ],
+  "examples": [
+    {
+      "en": "From the redstone circuit behavior, we infer how the mechanism works.",
+      "ja": "レッドストーン回路の動作から、その機構がどのように機能するかを推測する。",
+      "ipa": "/frɑm ðə ˈrɛdˌstoʊn ˈsɝkɪt bɪˈheɪvjər, wi ɪnˈfɝ haʊ ðə ˈmɛkənɪzəm wɝks/",
+      "linking": [
+        "the は弱形 /ðə/ ザ",
+        "we infer → infer の初頭 /ɪ/ は母音なので we の語末音と連結しない"
+      ],
+      "kana": "フロム ザ レッドストーン サーキット ビヘイビアー ウィ インファー ハウ ザ メカニズム ワークス"
+    },
+    {
+      "en": "Can you infer what mob spawned from these hostile signals?",
+      "ja": "これらの敵性シグナルから、どのモブが出現したかを推測できますか？",
+      "ipa": "/kæn juː ɪnˈfɝ wɑt moʊb sˈpoʊnd frɑm ðiz ˈhoʊstaɪl ˈsɪɡnəlz/",
+      "linking": [
+        "you infer → you の語末 /uː/ が infer の /ɪ/ に連結",
+        "from は機能語で弱形 /frəm/ フロム",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "キャン ユー インファー ワット モブ スポーンド フロム ディーズ ホステイル シグナルズ"
+    },
+    {
+      "en": "I inferred from the broken blocks that a creeper had attacked.",
+      "ja": "壊れたブロックから、クリーパーが攻撃したことを推測した。",
+      "ipa": "/aɪ ɪnˈfɝd frɑm ðə ˈbroʊkən blɑks ðæt ə ˈkripər hæd əˈtækt/",
+      "linking": [
+        "from は機能語で弱形 /frəm/ フロム",
+        "the は弱形 /ðə/ ザ",
+        "that は機能語で弱形 /ðæt/ ザット"
+      ],
+      "kana": "アイ インファード フロム ザ ブロウクン ブロックス ザット ア クリーパー ハッド アタクト"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "infer from",
+      "ja": "（…から）推測する、推論する",
+      "example": "We inferred from the mining patterns that diamonds were nearby.",
+      "example_ja": "採掘パターンから、ダイヤモンドが近くにあると推測した。",
+      "ipa": "/wi ɪnˈfɝd frɑm ðə ˈmaɪnɪŋ ˈpætərnz ðæt ˈdaɪəˌmɑndz wər ˈnɪrbaɪ/",
+      "linking": [
+        "from は機能語で弱形 /frəm/ フロム",
+        "the は弱形 /ðə/ ザ",
+        "that は機能語で弱形 /ðæt/ ザット"
+      ],
+      "kana": "ウィ インファード フロム ザ マイニング パターンズ ザット ダイアモンズ ワー ニアーバイ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "infers",
+      "ipa": "/ɪnˈfɝz/",
+      "examples": [
+        {
+          "en": "From the redstone signals, she infers what the mechanism does.",
+          "ja": "レッドストーン信号から、彼女は機構が何をするかを推測する。",
+          "ipa": "/frɑm ðə ˈrɛdˌstoʊn ˈsɪɡnəlz, ʃi ɪnˈfɝz wɑt ðə ˈmɛkənɪzəm dʌz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "infers what → infers の /z/ が what の /w/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "フロム ザ レッドストーン シグナルズ シー インファーズ ワット ザ メカニズム ダズ"
+        },
+        {
+          "en": "The player infers that the mob behavior changes at night.",
+          "ja": "プレイヤーは、モブの行動が夜に変わることを推測する。",
+          "ipa": "/ðə ˈpleɪər ɪnˈfɝz ðæt ðə ˈmoʊb bɪˈheɪvjər ˈtʃeɪndʒɪz æt naɪt/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "infers that → infers の /z/ が that の /ð/ に続く（未開放）",
+            "that は機能語で弱形 /ðæt/ ザット",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ プレイアー インファーズ ザット ザ モブ ビヘイビアー チェンジズ アット ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "inferred",
+      "ipa": "/ɪnˈfɝd/",
+      "examples": [
+        {
+          "en": "I inferred from the map that diamonds were hidden underground.",
+          "ja": "地図から、ダイヤモンドが地下に隠されていると推測した。",
+          "ipa": "/aɪ ɪnˈfɝd frɑm ðə mæp ðæt ˈdaɪəˌmɑndz wər ˈhɪdən ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "inferred from → inferred の /d/ が from の /f/ に続く（子音+子音で連結なし）",
+            "from は機能語で弱形 /frəm/ フロム",
+            "the は弱形 /ðə/ ザ",
+            "that は機能語で弱形 /ðæt/ ザット"
+          ],
+          "kana": "アイ インファード フロム ザ マップ ザット ダイアモンズ ワー ヒデン アンダーグラウンド"
+        },
+        {
+          "en": "We inferred that the boss was defeated by the destroyed structures.",
+          "ja": "破壊された構造物から、ボスが倒されたことを推測した。",
+          "ipa": "/wi ɪnˈfɝd ðæt ðə bɔs wəz dɪˈfitəd baɪ ðə dɪˈstrojd ˈstrʌktʃərz/",
+          "linking": [
+            "inferred that → inferred の /d/ が that の /ð/ に連結（未開放）",
+            "that は機能語で弱形 /ðæt/ ザット",
+            "the は弱形 /ðə/ ザ",
+            "was は弱形 /wəz/ ウァズ"
+          ],
+          "kana": "ウィ インファード ザット ザ ボス ワズ ディフィーテッド バイ ザ ディストロイド ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "inferred",
+      "ipa": "/ɪnˈfɝd/",
+      "examples": [
+        {
+          "en": "The inferred pattern suggests the redstone circuit works this way.",
+          "ja": "推測されたパターンは、レッドストーン回路がこのように機能することを示唆している。",
+          "ipa": "/ðə ɪnˈfɝd ˈpætərn səɡˈdʒɛsts ðə ˈrɛdˌstoʊn ˈsɝkɪt wɝks ðɪs ˈweɪ/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "inferred pattern → inferred の /d/ が pattern の /p/ に続く（子音+子音で連結なし）",
+            "suggests the → suggests の /z/ が the の /ð/ に続く（未開放またはリンク）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ インファード パターン サジェスツ ザ レッドストーン サーキット ワークス ディス ウェイ"
+        },
+        {
+          "en": "Based on inferred clues, the treasure room must be north.",
+          "ja": "推測された手がかりに基づいて、財宝の部屋は北にあるに違いない。",
+          "ipa": "/ˈbeɪst ɑn ɪnˈfɝd ˈkluːz, ðə ˈtrɛʒər rum məst bi ˈnɔrθ/",
+          "linking": [
+            "Based on → based の /d/ が on の /ɑ/ に連結しフラップ化 [ɾ]",
+            "inferred clues → inferred の /d/ が clues の /k/ に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/ ザ",
+            "must は弱形の可能性 /məst/"
+          ],
+          "kana": "ベイスド オン インファード クルーズ ザ トレジャー ルーム マスト ビー ノース"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "inferring",
+      "ipa": "/ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "By inferring from the footprints, we tracked the creeper.",
+          "ja": "足跡から推測することで、クリーパーを追跡した。",
+          "ipa": "/baɪ ɪnˈfɝɪŋ frɑm ðə ˈfʊtˌprɪnts, wi trækt ðə ˈkripər/",
+          "linking": [
+            "inferring from → inferring の /ŋ/ が from の /f/ に続く（子音+子音で連結なし）",
+            "from は機能語で弱形 /frəm/ フロム",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ インファーリング フロム ザ フットプリンツ ウィ トラクト ザ クリーパー"
+        },
+        {
+          "en": "We are inferring the mob spawner location from hostile spawns.",
+          "ja": "敵性スポーンからモブスポーナーの位置を推測している。",
+          "ipa": "/wi ɑr ɪnˈfɝɪŋ ðə ˈmoʊb ˈspoːnər ˌloʊˈkeɪʃən frɑm ˈhoʊstaɪl spoːnz/",
+          "linking": [
+            "are → 弱形で /ɑr/ アー",
+            "inferring the → inferring の /ŋ/ が the の /ð/ に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/ ザ",
+            "from は機能語で弱形 /frəm/"
+          ],
+          "kana": "ウィ アー インファーリング ザ モブ スポーナー ロケーション フロム ホステイル スポーンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is inferring",
+      "ipa": "/ɪz ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "I'm inferring the witch's location from the potion effects.",
+          "ja": "ポーション効果から魔女の位置を推測しています。",
+          "ipa": "/aɪm ɪnˈfɝɪŋ ðə ˈwɪtʃɪz ˌloʊˈkeɪʃən frɑm ðə ˈpoʊʃən ɪˈfɛkts/",
+          "linking": [
+            "I'm inferring → I'm の語末 /m/ が inferring の /ɪ/ に連結 [aɪm ɪnˈfɝɪŋ]",
+            "the witch's → the は弱形 /ðə/ ザ",
+            "from the → from は弱形 /frəm/ フロム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイム インファーリング ザ ウィッチズ ロケーション フロム ザ ポーション エフェクツ"
+        },
+        {
+          "en": "The players are inferring how the redstone circuit works from observation.",
+          "ja": "プレイヤーたちは観察からレッドストーン回路がどのように機能するかを推測しています。",
+          "ipa": "/ðə ˈpleɪərz ɑr ɪnˈfɝɪŋ haʊ ðə ˈrɛdˌstoʊn ˈsɝkɪt wɝks frɑm ˌɑbzərˈveɪʃən/",
+          "linking": [
+            "are inferring → are の語末 /r/ が inferring の /ɪ/ に連結 [ɑr ɪnˈfɝɪŋ]",
+            "the redstone → the は弱形 /ðə/ ザ",
+            "from observation → from は弱形 /frəm/ フロム"
+          ],
+          "kana": "ザ プレイアーズ アー インファーリング ハウ ザ レッドストーン サーキット ワークス フロム オブザベーション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was inferring",
+      "ipa": "/wəz ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "We were inferring the mob's behavior from its movement patterns.",
+          "ja": "その動きのパターンからモブの行動を推測していました。",
+          "ipa": "/wi wɚ ɪnˈfɝɪŋ ðə ˈmoʊbz bɪˈheɪvjər frɑm ɪts ˈmuvmənt ˈpætərnz/",
+          "linking": [
+            "were inferring → were の語末 /r/ が inferring の /ɪ/ に連結 [wɚ ɪnˈfɝɪŋ]",
+            "the mob's → the は弱形 /ðə/ ザ",
+            "from its → from は弱形 /frəm/ フロム"
+          ],
+          "kana": "ウィ ワー インファーリング ザ モブズ ビヘイビアー フロム イッツ ムーブメント パターンズ"
+        },
+        {
+          "en": "She was inferring the creeper's spawn location when it suddenly exploded.",
+          "ja": "クリーパーの出現位置を推測していたとき、それが突然爆発しました。",
+          "ipa": "/ʃi wəz ɪnˈfɝɪŋ ðə ˈkripərz spoʊn ˌloʊˈkeɪʃən wɛn ɪt ˈsʌdənli ɪkˈsploʊdəd/",
+          "linking": [
+            "was inferring → was は弱形 /wəz/ ワズ [wəz ɪnˈfɝɪŋ]",
+            "the creeper's → the は弱形 /ðə/ ザ",
+            "when it → /n/ が母音 /ɪ/ に連結 [wɛn ɪt]"
+          ],
+          "kana": "シー ワズ インファーリング ザ クリーパーズ スポーン ロケーション ウェン イット サドンリー イクスプロウデッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been inferring",
+      "ipa": "/həd bɪn ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we opened the treasure room, they had been inferring the location from ancient maps.",
+          "ja": "宝物の部屋を開けたときまでに、彼らは古い地図から位置を推測していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈoʊpənd ðə ˈtrɛʒər rum, ðeɪ həd bɪn ɪnˈfɝɪŋ ðə ˌloʊˈkeɪʃən frɑm ˈeɪʃənt mæps/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "the treasure → the は弱形 /ðə/ ザ",
+            "from ancient → from は弱形 /frəm/ フロム"
+          ],
+          "kana": "バイ ザ タイム ウィ オープンド ザ トレジャー ルーム ザェイ ハド ビン インファーリング ザ ロケーション フロム エイシャント マップス"
+        },
+        {
+          "en": "The miners had been inferring the diamond vein's location for hours before striking it.",
+          "ja": "採掘者たちはそれに到達する前に何時間もダイヤモンド鉱脈の位置を推測していました。",
+          "ipa": "/ðə ˈmaɪnərz həd bɪn ɪnˈfɝɪŋ ðə ˈdaɪəˌmɑnd veɪnz ˌloʊˈkeɪʃən fɔr ˈaʊɚz bɪˈfoɹ ˈstraɪkɪŋ ɪt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "the diamond → the は弱形 /ðə/ ザ",
+            "for hours → for は弱形 /fɚ/、/r/ が母音に連結 [fɔr ˈaʊɚz] フォー アワーズ"
+          ],
+          "kana": "ザ マイナーズ ハド ビン インファーリング ザ ダイアモンド ベイン ロケーション フォー アワーズ ビフォー ストライキング イット"
+        }
+      ]
+    }
+  ]
+}
