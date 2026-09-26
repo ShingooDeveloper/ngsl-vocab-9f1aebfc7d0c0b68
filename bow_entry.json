@@ -213,6 +213,97 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is bowing",
+      "ipa": "/ɪz ˈbaʊ.ɪŋ/",
+      "examples": [
+        {
+          "en": "He is bowing respectfully in front of the enchantment altar.",
+          "ja": "彼はエンチャント祭壇の前で敬意をもっておじぎしている。",
+          "ipa": "[hi ɪz ˈbaʊ.ɪŋ rɪˈspɛk.tfəl.i ɪn ˈfrʌnt əv ðə ɪnˈtʃænt.mənt ˈɔl.tɚ]",
+          "kana": "ヒー イズ バウイング リスペクトフリー イン フラント アヴ ザ インチャントメント オルター",
+          "linking": [
+            "is：弱形 /ɪz/",
+            "front of：語末子音 /t/ が母音 /ə/ に連結 [ˈfrʌn.tə] + of は弱形 /əv/ で /v/ が /æ/ に連結",
+            "the：弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The branches are bowing down under the weight of fresh snow.",
+          "ja": "枝は新しい雪の重みでしなっている。",
+          "ipa": "[ðə ˈbræn.tʃɪz ɑr ˈbaʊ.ɪŋ ˈdaʊn ˈʌn.dɚ ðə weɪt əv frɛʃ snoʊ]",
+          "kana": "ザ ブランチーズ アー バウイング ダウン アンダー ザ ウェイト アヴ フレッシュ スノウ",
+          "linking": [
+            "the：弱形 /ðə/",
+            "are：弱形 /ɑr/ で /r/ が次の /ə/ に連結する可能性",
+            "under の /r/ が次の /ð/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was bowing",
+      "ipa": "/wəz ˈbaʊ.ɪŋ/",
+      "examples": [
+        {
+          "en": "I was bowing respectfully when the Ender Dragon suddenly appeared overhead.",
+          "ja": "エンダードラゴンが突然頭上に現れたとき、敬意をもっておじぎしていた。",
+          "ipa": "[aɪ wəz ˈbaʊ.ɪŋ rɪˈspɛk.tfəl.i wɛn ðə ˈɛn.dɚ ˈdræ.ɡən ˈsʌd.ən.li əˈpɪrd ˌoʊ.vɚˈhɛd]",
+          "kana": "アイ ワズ バウイング リスペクトフリー ウェン ザ エンダー ドラゴン サデンリー アピアド オーヴァーヘッド",
+          "linking": [
+            "was：弱形 /wəz/ で /z/ が /ə/ に連結 [wəz əˈbjuːzɪŋ]",
+            "the：弱形 /ðə/",
+            "Dragon の /n/ が suddenly の /ə/ に連結される可能性"
+          ]
+        },
+        {
+          "en": "The old oak tree was bowing dangerously in the violent windstorm.",
+          "ja": "古いオークの木は激しい暴風雨の中で危険にしなっていた。",
+          "ipa": "[ðə oʊld ˈoʊk tri wəz ˈbaʊ.ɪŋ ˈdeɪn.dʒə.rəs.li ɪn ðə ˈvaɪə.lənt ˈwɪnd.stɔrm]",
+          "kana": "ザ オウルド オウク トリー ワズ バウイング デインジャラスリー イン ザ ヴァイオレント ウィンドストーム",
+          "linking": [
+            "was：弱形 /wəz/",
+            "the：弱形 /ðə/",
+            "in の /n/ が the の /ðə/ に連結 [ɪn ðə] イン ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been bowing",
+      "ipa": "/həd bɪn ˈbaʊ.ɪŋ/",
+      "examples": [
+        {
+          "en": "The structure had been bowing under the enormous load for hours before it finally broke apart.",
+          "ja": "その構造物は巨大な負荷の下でずっとしなっていたが、何時間もしてからついに壊れた。",
+          "ipa": "[ðə ˈstrʌk.tʃɚ həd bɪn ˈbaʊ.ɪŋ ˈʌn.dɚ ðə ɪˈnɔr.məs ˈloʊd fɚ ˈaʊrz bɪˈfɔr ɪt ˈfaɪn.ə.li ˈbroʊk əˈpɑrt]",
+          "kana": "ザ ストラクチャー ハド ビン バウイング アンダー ザ イノーマス ロード ファー アワーズ ビフォア イット ファイナリー ブロウク アパート",
+          "linking": [
+            "had：弱形 /həd/",
+            "been：弱形 /bɪn/ で /n/ が /ə/ に連結 [bɪn əˈbaʊ.ɪŋ] ビン バウイング",
+            "the：弱形 /ðə/",
+            "for：弱形 /fɚ/"
+          ]
+        },
+        {
+          "en": "She had been bowing gracefully for ten minutes before the ceremony concluded.",
+          "ja": "式典が終わる前に、彼女は優雅におじぎを10分間していた。",
+          "ipa": "[ʃi həd bɪn ˈbaʊ.ɪŋ ˈɡreɪs.fəl.i fɚ tɛn ˈmɪn.ɪts bɪˈfɔr ðə səˈrɛm.ə.ni kənˈkluː.dɪd]",
+          "kana": "シー ハド ビン バウイング グレイスフリー ファー テン ミニッツ ビフォア ザ セレモニー コンクルーディド",
+          "linking": [
+            "had：弱形 /həd/",
+            "been：弱形 /bɪn/ で /n/ が /ə/ に連結 [bɪn əˈbaʊ.ɪŋ] ビン バウイング",
+            "before の /r/ が the の /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ"
+          ]
+        }
+      ]
     }
   ]
 }
