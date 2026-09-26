@@ -63,6 +63,96 @@
   ],
   "forms": [
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has merited",
+      "ipa": "/həz ˈmerɪtɪd/",
+      "examples": [
+        {
+          "en": "Your contraption design has merited praise from experienced engineers.",
+          "ja": "あなたの装置のデザインは経験豊富なエンジニアから称賛を得ています。",
+          "ipa": "/jɔr kənˈtræpʃən dɪˈzaɪn həz ˈmerɪt̚ preɪz frəm ɪkˈspɪriənst ˈɛndʒɪnɪrz/",
+          "kana": "ユア コントラプション ディザイン ハズ メリッ プレイズ フラム イクスピアウェンスト エンジニアーズ",
+          "linking": [
+            "has → 助動詞は弱形 /həz/ に弱化",
+            "merited /d/ + praise /p/ → /d/ が未開放で /p/ へ [ˈmerɪt̚ preɪz] メリッ プレイズ",
+            "from → 機能語は弱形 /frəm/ に弱化"
+          ]
+        },
+        {
+          "en": "This resource farm has merited server-wide recognition for its efficiency.",
+          "ja": "このリソース農場は効率性のためにサーバー全体の認識を得ています。",
+          "ipa": "/ðɪs ˈrɛsɔrs fɑrm həz ˈmerɪɾɛndlɪs ˈsɜrvər-waɪd ˌrɛkəɡˈnɪʃən fər ɪts ɪˈfɪʃənsi/",
+          "kana": "ディス リソース ファーム ハズ メリレンドリス サーバーワイド レコグニション ファー イッツ イフィシェンシー",
+          "linking": [
+            "has → 助動詞は弱形 /həz/ に弱化",
+            "merited /d/ + endless /ɛ/ → /d/ がフラップ化し /ɛ/ に連結 [ˈmerɪɾɛnd] メリレン",
+            "for → 機能語は弱形 /fər/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had merited",
+      "ipa": "/həd ˈmerɪtɪd/",
+      "examples": [
+        {
+          "en": "By then, the player had merited multiple achievements through dedication.",
+          "ja": "その時点で、そのプレイヤーは献身を通じて複数の成就に値するものを得ていました。",
+          "ipa": "/baɪ ðɛn ðə ˈpleɪər həd ˈmerɪt̚ ˈmʌltɪpəl əˈtʃiːvmənts θruː ˌdɛdɪˈkeɪʃən/",
+          "kana": "バイ ザン ザ プレイアー ハド メリッ マルティポ アチーブメンツ スルー デディケーション",
+          "linking": [
+            "had → 助動詞は弱形 /həd/ に弱化",
+            "merited /d/ + multiple /m/ → /d/ が未開放で /m/ へ [ˈmerɪt̚ ˈmʌ] メリッ マル",
+            "through → 機能語は弱形 /θru/ に弱化"
+          ]
+        },
+        {
+          "en": "The build had merited administrative protection before the griefing incident.",
+          "ja": "そのビルドは荒らしの事件が起こる前に管理者からの保護に値していました。",
+          "ipa": "/ðə bɪld həd ˈmerɪtɪd ədˈmɪnɪstɹətɪv pɹəˈtɛkʃən bɪˈfɔr ðə ˈɡriːfɪŋ ˈɪnsɪdənt/",
+          "kana": "ザ ビルド ハド メリティド アドミニストレイティヴ プロテクション ビフォア ザ グリーフィング インシデント",
+          "linking": [
+            "had → 助動詞は弱形 /həd/ に弱化",
+            "merited /d/ + administrative /ə/ → /d/ がフラップ化し /ə/ に連結 [ˈmerɪɾədˈmɪ] メリラドミ",
+            "before → 自然な連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been meriting",
+      "ipa": "/həz bɪn ˈmerɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Your consistent efforts have been meriting steady praise from veterans.",
+          "ja": "あなたの継続的な努力は古参プレイヤーから継続的な称賛を得続けています。",
+          "ipa": "/jɔr kənˈsɪstənt ˈɛfərts həv bɪn ˈmerɪtɪŋ ˈstɛdi preɪz frəm ˈvɛtərənz/",
+          "kana": "ユア コンシステント エフォーツ ハヴ ビン メリティング ステディ プレイズ フラム ベテランズ",
+          "linking": [
+            "have → 助動詞は弱形 /həv/ に弱化",
+            "been → 助動詞は弱形 /bɪn/ に弱化",
+            "steady → /i/ が弱化し /ɪ/ に [ˈstɛdi] ステディ"
+          ]
+        },
+        {
+          "en": "The innovative mining system has been meriting attention from builders worldwide.",
+          "ja": "その革新的な採掘システムは世界中のビルダーから継続的に注目を得続けています。",
+          "ipa": "/ðə ˈɪnəˌveɪtɪv ˈmaɪnɪŋ ˈsɪstəm həz bɪn ˈmerɪtɪŋ əˈtɛnʃən frəm ˈbɪldərz ˈwɜrldˌwaɪd/",
+          "kana": "ザ イノベイティヴ マイニング システム ハズ ビン メリティング アテンション フラム ビルダーズ ワールドワイド",
+          "linking": [
+            "has → 助動詞は弱形 /həz/ に弱化",
+            "been → 助動詞は弱形 /bɪn/ に弱化",
+            "from → 機能語は弱形 /frəm/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 原形）",
       "text": "will merit",

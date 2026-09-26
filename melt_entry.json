@@ -215,6 +215,102 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is melting",
+      "ipa": "/ɪz ˈmɛltɪŋ/",
+      "examples": [
+        {
+          "en": "The snow is melting quickly near the torches.",
+          "ja": "松明の近くで雪が素早く溶けています。",
+          "ipa": "/ðə ˈsnoʊ ɪz ˈmɛltɪŋ ˈkwɪkli ˈnɪr ðə ˈtɔːrʃəz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "snow の末尾 /w/ が is の /ɪ/ に連結（子音+母音）[ˈsnoʊ ɪz] スノウ イズ",
+            "is は弱形 /ɪz/。melting の末尾 /ŋ/ が quickly の /k/ に続く（子音+子音、連結なし）",
+            "near の末尾 /r/ が the の /ð/ に連結（子音+母音）[ˈnɪr ðə] ニア ザ"
+          ],
+          "kana": "ザ スノウ イズ メルティング クウィックリー ニア ザ トーチェズ"
+        },
+        {
+          "en": "The furnace is melting ore inside the mountain base.",
+          "ja": "かまどは山の基地の中で鉱石を溶かしています。",
+          "ipa": "/ðə ˈfɝnɪs ɪz ˈmɛltɪŋ ˈɔr ɪnˈsaɪd ðə ˈmaʊntən ˈbeɪs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "furnace の末尾 /s/ が is の /ɪ/ に連結（子音+母音）[ˈfɝnɪs ɪz] ファーニス イズ",
+            "is は弱形 /ɪz/。melting の末尾 /ŋ/ が ore の /ɔ/ に連結（子音+母音）[ˈmɛltɪŋ ˈɔr] メルティング オア",
+            "mountain の末尾 /n/ が base の /b/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ファーニス イズ メルティング オア インサイド ザ マウンテン ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was melting",
+      "ipa": "/wəz ˈmɛltɪŋ/",
+      "examples": [
+        {
+          "en": "The ice was melting when I placed the furnace nearby.",
+          "ja": "かまどをその近くに置いたとき、氷が溶けていました。",
+          "ipa": "/ðə ˈaɪs wəz ˈmɛltɪŋ wɛn aɪ ˈpleɪst ðə ˈfɝnɪs ˈnɪrbaɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "ice の末尾 /s/ が was の /w/ に続く（子音+子音、連結なし）。was は弱形 /wəz/",
+            "melting の末尾 /ŋ/ が when の /w/ に続く（子音+子音、連結なし）",
+            "placed の末尾 /t/ は未開放。the は弱形 /ðə/ [ˈpleɪst̚ ðə] プレイスト ザ"
+          ],
+          "kana": "ザ アイス ワズ メルティング ホェン アイ プレイスト ザ ファーニス ニアバイ"
+        },
+        {
+          "en": "The ice blocks were melting during the heatwave last summer.",
+          "ja": "前の夏の熱波の間、氷ブロックが溶けていました。",
+          "ipa": "/ðə ˈaɪs ˈblɑks wɚ ˈmɛltɪŋ ˈdʊrɪŋ ðə ˈhiːtweɪv ˈlæst ˈsʌmər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "blocks の末尾 /s/ が were の /w/ に続く（子音+子音、連結なし）。were は弱形 /wɚ/",
+            "melting の末尾 /ŋ/ が during の /d/ に続く（子音+子音、連結なし）",
+            "last の末尾 /t/ は未開放。summer は /ˈsʌmər/ [ˈlæst̚ ˈsʌmər] ラスト サマー"
+          ],
+          "kana": "ザ アイス ブラックス ワー メルティング ドゥーリング ザ ヒートウェイブ ラスト サマー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been melting",
+      "ipa": "/həd ˈbɪn ˈmɛltɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace had been melting ore for hours when it finally broke.",
+          "ja": "かまどが壊れる直前まで、何時間もの間鉱石を溶かしていました。",
+          "ipa": "/ðə ˈfɝnɪs həd ˈbɪn ˈmɛltɪŋ ˈɔr fər ˈaʊərz wɛn ɪt ˈfaɪnəli ˈbroʊk/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "furnace の末尾 /s/ が had の /h/ に続く（子音+子音、連結なし）。had は弱形 /həd/、been も弱形 /bɪn/",
+            "melting の末尾 /ŋ/ が ore の /ɔ/ に連結（子音+母音）[ˈmɛltɪŋ ˈɔr] メルティング オア",
+            "it の末尾 /t/ は未開放。finally は /ˈfaɪnəli/ [ɪt̚ ˈfaɪnəli] イット ファイナリー"
+          ],
+          "kana": "ザ ファーニス ハド ビン メルティング オア フォー アワーズ ホェン イット ファイナリー ブロウク"
+        },
+        {
+          "en": "The ice had been melting since morning before the sun went down.",
+          "ja": "太陽が沈む前まで、朝から氷が溶けていました。",
+          "ipa": "/ðə ˈaɪs həd ˈbɪn ˈmɛltɪŋ sɪns ˈmɔːrnɪŋ bɪˈfɔr ðə ˈsʌn ˈwɛnt ˈdaʊn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "ice の末尾 /s/ が had の /h/ に続く（子音+子音、連結なし）。had は弱形 /həd/、been も弱形 /bɪn/",
+            "melting の末尾 /ŋ/ が since の /s/ に続く（子音+子音、連結なし）",
+            "before の末尾 /r/ が the の /ð/ に連結（子音+母音）[bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "ザ アイス ハド ビン メルティング シンス モーニング ビフォア ザ サン ウェント ダウン"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 原形）",
       "text": "will melt",
