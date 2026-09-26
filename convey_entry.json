@@ -264,6 +264,102 @@
           "kana": "アイ ハヴ ビン コンベイイング ステイタス アップデイツ タ ザ ティーム ファー ザ パスト スリー アワーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will convey",
+      "ipa": "/wɪl kənˈveɪ/",
+      "examples": [
+        {
+          "en": "I will convey the important strategy to the team leader before the raid starts.",
+          "ja": "レイド開始前にチームリーダーに重要な戦略を伝えます。",
+          "ipa": "/aɪ wɪl kənˈveɪ ðə ɪmˈpɔɹtənt ˈstɹæɾəˌdʒi tu ðə ˈtim ˈlidɚ bɪˈfɔɹ ðə ˈreɪd ˈstɑɹts/",
+          "linking": [
+            "will は機能語で弱形 /wəl/",
+            "the は冠詞で弱形 /ðə/",
+            "to は弱形 /tə/",
+            "strategy の末子音 /i/ が to に続く（母音+子音）"
+          ],
+          "kana": "アイ ウル コンヴェイ ザ インポーラント ストラダジー タ ザ ティーム リーダー ビフォア ザ レイド スターツ"
+        },
+        {
+          "en": "The admin will convey all the new server rules to everyone before the tournament starts.",
+          "ja": "トーナメント開始前に、管理者は新しいサーバールールをすべての人に伝えます。",
+          "ipa": "/ðə ˈædmɪn wɪl kənˈveɪ ɔl ðə ˈnu ˈsɝvɚ ˈrulz tu ˈɛvriˌwʌn bɪˈfɔɹ ðə ˈtɔɹnəmənt ˈstɑɹts/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "will は機能語で弱形 /wəl/",
+            "the は冠詞で弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ アドミン ウル コンヴェイ オール ザ ニュー サーヴァー ルールズ トゥ エブリワン ビフォア ザ トーナメント スターツ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be conveying",
+      "ipa": "/wɪl bi kənˈveɪɪŋ/",
+      "examples": [
+        {
+          "en": "She will be conveying the map coordinates while we travel through the cave system.",
+          "ja": "洞窟システムを通って移動する間、彼女は地図座標を伝え続けます。",
+          "ipa": "/ʃi wɪl bi kənˈveɪɪŋ ðə mæp koʊˈɔɹdənɪts waɪl wi ˈtɹævəl θruː ðə ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "will は機能語で弱形 /wəl/",
+            "the は冠詞で弱形 /ðə/",
+            "while の末子音 /l/ が we に続く（子音+母音で連結）[waɪl wi] ホワイル ウィー",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "シー ウル ビー コンヴェイイング ザ マップ コーディネイツ ホワイル ウィー トラヴェル スルー ザ ケイヴ システム"
+        },
+        {
+          "en": "We will be conveying crucial tactical information to the base defenders during the entire battle.",
+          "ja": "戦闘全体を通じて、基地防御者に重要な戦術情報を伝え続けます。",
+          "ipa": "/wi wɪl bi kənˈveɪɪŋ ˈkruːʃəl tækˈtɪkəl ˌɪnfərˈmeɪʃən tu ðə ˈbeɪs dɪˈfɛndərz ˈdʊrɪŋ ðə ənˈtaɪr ˈbæɾəl/",
+          "linking": [
+            "will は機能語で弱形 /wəl/",
+            "to は弱形 /tə/",
+            "the は冠詞で弱形 /ðə/",
+            "entire の末子音 /r/ が battle に続く（子音+子音）"
+          ],
+          "kana": "ウィー ウル ビー コンヴェイイング クルーシャル タクティカル インファメーション トゥ ザ ベイス ディフェンダーズ ドゥアリング ザ エンタイアー バラル"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have conveyed",
+      "ipa": "/wɪl həv kənˈveɪd/",
+      "examples": [
+        {
+          "en": "By the time the tournament concludes, the coach will have conveyed all the winning strategies to the team.",
+          "ja": "トーナメントが終わるまでに、コーチはすべての勝利戦略をチームに伝えます。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈtɔɹnəmənt kənˈkludz ðə ˈkoʊtʃ wɪl həv kənˈveɪd ɔl ðə ˈwɪnɪŋ ˈstɹæɾəˌdʒiz tu ðə ˈtim/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "have は弱形 /həv/",
+            "the は冠詞で弱形 /ðə/",
+            "strategies の末子音 /z/ が to に続く（子音+子音）"
+          ],
+          "kana": "バイ ザ タイム ザ トーナメント コンクルーズ ザ コーチ ウル ハヴ コンベイド オール ザ ウィニング ストラディーズ トゥ ザ ティーム"
+        },
+        {
+          "en": "The scout will have conveyed the entire map layout before the night falls and darkness covers the forest.",
+          "ja": "夜が落ち、暗闇が森を覆う前に、スカウトはマップ全体のレイアウトを伝えます。",
+          "ipa": "/ðə ˈskaʊt wɪl həv kənˈveɪd ðə ənˈtaɪr mæp ˈleɪaʊt bɪˈfɔɹ ðə ˈnaɪt fɔlz ænd ˈdɑɹknəs ˈkʌvərz ðə ˈfɔɹɛst/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/",
+            "have は弱形 /həv/",
+            "the は冠詞で弱形 /ðə/",
+            "darkness の末子音 /s/ が covers に続く（子音+子音）"
+          ],
+          "kana": "ザ スカウト ウル ハヴ コンベイド ザ エンタイアー マップ レイアウト ビフォア ザ ナイト フォールズ アンド ダークネス カヴァーズ ザ フォレスト"
+        }
+      ]
     }
   ],
   "tags": [
