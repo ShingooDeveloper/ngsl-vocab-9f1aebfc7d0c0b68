@@ -71,7 +71,7 @@
           "ja": "どんなダメージでもハード難易度モードであなたのヘルスポイントが急速に減少します。",
           "ipa": "[ˈɛni ˈdæmɪdʒ dɪˈmɪnɪʃəz jɚ ˈhɛlθ pɔɪnts ˈræpɪdli ɪn ˈhɑrd dɪˈfɪkəlti ˈmoʊd]",
           "linking": [
-            "any の末尾 /i/ が damage の /d/ の前で子音+子音なので連結しない",
+            "any の末尾 /i/ が damage の /d/ の前で母音+子音なので連結しない",
             "your の末尾 /ɚ/ が health の /h/ の前で子音+子音なので連結しない",
             "hard の末尾 /d/ が difficulty の /d/ の前で子音+子音なので連結しない"
           ],
@@ -202,6 +202,37 @@
       ]
     },
     {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been diminishing",
+      "ipa": "/həz bɪn dɪˈmɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Our supplies have been diminishing at an alarming rate since we started exploring.",
+          "ja": "私たちが探索を始めてから、供給物が驚くほどの速度で減少し続けています。",
+          "ipa": "[ˈaʊɚ səˈplaɪz həv bɪn dɪˈmɪnɪʃɪŋ ət ən əˈlɑrmɪŋ reɪt sɪns wi ˈstɑrtəd ɪkˈsplɔrɪŋ]",
+          "linking": [
+            "have は弱形 /həv/ に弱化 [həv] ハヴ",
+            "been は弱形 /bɪn/ に弱化 [bɪn] ビン",
+            "diminishing の末尾 /ŋ/ が at の /ə/ に流れ込み連結 [dɪˈmɪnɪʃɪŋət] ディミニシングアット"
+          ],
+          "kana": "アワー サプライズ ハヴ ビン ディミニシングアット ン アラーミング レイト シンス ウィー スターティド エクスプロアリング"
+        },
+        {
+          "en": "The water level has been diminishing as the lava spreads from the volcano.",
+          "ja": "火山からの溶岩が広がるにつれて、水位は減少し続けています。",
+          "ipa": "[ðə ˈwɑtɚ ˈlɛvəl həz bɪn dɪˈmɪnɪʃɪŋ əz ðə ˈlavə sprɛdz frəm ðə vɑlˈkeɪnoʊ]",
+          "linking": [
+            "The は弱形 /ðə/ に弱化 [ðə] ザ",
+            "has は弱形 /həz/ に弱化 [həz] ハズ",
+            "been は弱形 /bɪn/ に弱化 [bɪn] ビン",
+            "diminishing の末尾 /ŋ/ が as の /ə/ に流れ込み連結 [dɪˈmɪnɪʃɪŋəz] ディミニシングアズ"
+          ],
+          "kana": "ザ ワーター レベル ハズ ビン ディミニシングアズ ザ ラーヴァ スプレッズ フラム ザ ボルケーノ"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形",
       "text": "will diminish",
@@ -244,7 +275,7 @@
           "linking": [
             "by は /baɪ/、the は弱形 /ðə/ に弱化 [ðə] ザ",
             "reach の末尾 /tʃ/ が the の /ð/ の前で子音+子音なので連結しない",
-            "our の末尾 /ɚ/ が oxygen の /ɑ/ の前で子音+子音なので連結しない",
+            "our の末尾 /ɚ/ が oxygen の /ɑ/ の前で子音+母音なので連結可能",
             "will は弱形 /wəl/、have は弱形 /həv/ に弱化"
           ],
           "kana": "バイ ザ タイム ウィー リーチ ザ サーフィス アワー アクスィジェン サプライ ワル ハヴ ディミニシュト シグニフィカントリー"
@@ -259,6 +290,128 @@
             "will は弱形 /wəl/、have は弱形 /həv/ に弱化"
           ],
           "kana": "ザ イフェクティヴネス アヴ ザ レジスタンス ポウション ワル ハヴ ディミニシュト ロング ビフォー ドーン アライヴズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be diminishing",
+      "ipa": "/wɪl bi dɪˈmɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Your armor durability will be diminishing as you take more and more damage from the mobs.",
+          "ja": "モブからより多くのダメージを受けると、あなたの防具の耐久性が減少し続けるでしょう。",
+          "ipa": "[jɚ ˈɑrmɚ ˌdurəˈbɪləti wəl bi dɪˈmɪnɪʃɪŋ əz juː ˈteɪk mɔr ənd mɔr ˈdæmɪdʒ frəm ðə ˈmɑbz]",
+          "linking": [
+            "will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "diminishing の末尾 /ŋ/ は as の /ə/ に連結 [dɪˈmɪnɪʃɪŋəz] ディミニシングアズ",
+            "more の末尾 /ɔr/ が and の /ə/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ユアー アーマー ジュラビリティ ワル ビー ディミニシングアズ ユー テイク モア アンド モア ダメッジ フラム ザ モブズ"
+        },
+        {
+          "en": "Our tools will be diminishing over time if we don't repair them during this long expedition.",
+          "ja": "この長い遠征中に修理しなければ、私たちのツールは時間がたつにつれて減少するでしょう。",
+          "ipa": "[ˈaʊɚ ˈtulz wəl bi dɪˈmɪnɪʃɪŋ ˈoʊvɚ ˈtaɪm ɪf wi doʊn̚t rɪˈpɛr ðəm ˈdurɪŋ ðɪs ˈlɔŋ ɪkˈspɪˈdɪʃən]",
+          "linking": [
+            "will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "diminishing の末尾 /ŋ/ は over の /oʊ/ に連結 [dɪˈmɪnɪʃɪŋoʊvɚ] ディミニシングオーヴァー",
+            "don't の末尾 /t/ は repair の /r/ の前で未開放 [doʊn̚t rɪˈpɛr]"
+          ],
+          "kana": "アワー トゥールズ ワル ビー ディミニシングオーヴァー タイム イフ ウィー ドウント リペア ゼム ジュアリング ディス ロング エクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is diminishing",
+      "ipa": "/ɪz dɪˈmɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The coal supply is diminishing rapidly as we burn it in furnaces.",
+          "ja": "かまどで石炭を燃やしているので、石炭の供給が急速に減少しています。",
+          "ipa": "[ðə ˈkoʊl səˈplaɪ ɪz dɪˈmɪnɪʃɪŋ ˈræpɪdli əz wi ˈbɝːn ɪt ɪn ˈfɝːneɪsɪz]",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "is は弱形 /ɪz/ [ɪz] イズ",
+            "diminishing の末尾 /ŋ/ は as の /æ/ に連結 [dɪˈmɪnɪʃɪŋæz] ディミニシングアズ"
+          ],
+          "kana": "ザ コウル サプライ イズ ディミニシングアズ ラピドリー ウィー バーン イット イン ファーネーセス"
+        },
+        {
+          "en": "Your hunger bar is diminishing, so you need to cook and eat something right now.",
+          "ja": "あなたの空腹度が減少しているので、今すぐ何か調理して食べる必要があります。",
+          "ipa": "[jɚ ˈhʌŋɡɚ bɑɹ ɪz dɪˈmɪnɪʃɪŋ soʊ juː niːd tu kʊk ənd iːt ˈsʌmθɪŋ ˈraɪt naʊ]",
+          "linking": [
+            "your の末尾 /ɚ/ が hunger の /h/ の前で子音+子音なので連結しない",
+            "is は弱形 /ɪz/ [ɪz] イズ",
+            "diminishing の末尾 /ŋ/ は so の /s/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ユアー ハンガー バー イズ ディミニシング ソウ ユー ニード トゥ クック アンド イート サムシング ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was diminishing",
+      "ipa": "/wəz dɪˈmɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The visibility was diminishing when we realized we were deep inside the cave.",
+          "ja": "私たちが洞窟の深い奥にいることに気づいたとき、視界が減少していました。",
+          "ipa": "[ðə vɪˈzɪbɪləti wəz dɪˈmɪnɪʃɪŋ wɛn wi riːˈælɪzd wi wɚ dip ɪnˈsaɪd ðə keɪv]",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "was は弱形 /wəz/ [wəz] ワズ",
+            "diminishing の末尾 /ŋ/ は when の /w/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ザ ヴィジビリティ ワズ ディミニシング ウェン ウィー リーアライズド ウィー ワー ディープ インサイド ザ ケイヴ"
+        },
+        {
+          "en": "While we were fighting the dragon, the potion effect was diminishing faster than expected.",
+          "ja": "ドラゴンと戦っている間、ポーション効果は予想より速く減少していました。",
+          "ipa": "[waɪl wi wɚ ˈfaɪtɪŋ ðə ˈdræɡən ðə ˈpoʊʃən ɪˈfɛkt wəz dɪˈmɪnɪʃɪŋ ˈfæstɚ ðæn ɪkˈspɛktɪd]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "was は弱形 /wəz/ [wəz] ワズ",
+            "diminishing の末尾 /ŋ/ は faster の /f/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ワイル ウィー ワー ファイティング ザ ドラゴン ザ ポウション イフェクト ワズ ディミニシング ファスター ザン イクスペクティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been diminishing",
+      "ipa": "/həd bɪn dɪˈmɪnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The ore deposit had been diminishing for weeks before we discovered this new mining area.",
+          "ja": "このような新しい採掘地を発見する前に、鉱床は数週間減少していました。",
+          "ipa": "[ðə ˈɔr dɪˈpoʊzɪt həd bɪn dɪˈmɪnɪʃɪŋ fɔr wiks bɪˈfɔr wi dɪˈskʌvɚd ðɪs ˈnuː ˈmaɪnɪŋ ˈɛriə]",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "had は弱形 /həd/ に弱化 [həd] ハド",
+            "been は弱形 /bɪn/ に弱化 [bɪn] ビン",
+            "diminishing の末尾 /ŋ/ は for の /f/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ザ オア ディポウズィット ハド ビン ディミニシング ファー ウィークス ビフォー ウィー ディスカヴァード ディス ニュー マイニング エリア"
+        },
+        {
+          "en": "We realized our food supplies had been diminishing too quickly because of the long journey.",
+          "ja": "長い旅のために、私たちの食料供給があまりに急速に減少していたことに気づきました。",
+          "ipa": "[wi riːˈælɪzd ˈaʊɚ ˈfuːd səˈplaɪz həd bɪn dɪˈmɪnɪʃɪŋ tu ˈkwɪkli bɪˈkɔz əv ðə ˈlɔŋ ˈdʒɝːni]",
+          "linking": [
+            "our の末尾 /ɚ/ が food の /f/ の前で子音+子音なので連結しない",
+            "had は弱形 /həd/ [həd] ハド",
+            "been は弱形 /bɪn/ [bɪn] ビン",
+            "diminishing の末尾 /ŋ/ は too の /t/ の前で子音+子音なので連結しない"
+          ],
+          "kana": "ウィー リーアライズド アワー フード サプライズ ハド ビン ディミニシング トゥー クウィックリー ビコーズ アヴ ザ ロング ジャーニー"
         }
       ]
     }
