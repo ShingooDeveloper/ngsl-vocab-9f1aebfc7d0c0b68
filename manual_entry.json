@@ -76,5 +76,37 @@
       "kana": "マイニング ダイモンズ リクワイアズ マニュアル レイバー アンド ケアフル プラニング"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "manuals",
+      "ipa": "/ˈmænjuəlz/",
+      "examples": [
+        {
+          "en": "Follow all the manuals in your crafting guide.",
+          "ja": "クラフティングガイドの中のマニュアル全てに従ってください。",
+          "ipa": "/ˈfɑloʊ ˈɔl ðə ˈmænjuəlz ɪn jɔr ˈkræftɪŋ ˈɡaɪd/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。",
+            "manuals 末尾子音 /z/ が in の初頭母音 /ɪ/ に連結 [ˈmænjuəlz ɪn...]。"
+          ],
+          "kana": "フォロー オール ザ マニュアルズ イン ヨア クラフティング ガイド"
+        },
+        {
+          "en": "Read these manuals to understand all the mining techniques.",
+          "ja": "これらのマニュアルを読んで、採掘技術をすべて理解してください。",
+          "ipa": "/ˈrɛd ðiz ˈmænjuəlz tə ˌʌndɚˈstænd ˈɔl ðə ˈmaɪnɪŋ tɛkˈniks/",
+          "linking": [
+            "to は機能語で弱形 /tə/。",
+            "the は冠詞で弱形 /ðə/。"
+          ],
+          "kana": "レッド ディーズ マニュアルズ タ アンダースタンド オール ザ マイニング テクニックス"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
 }
