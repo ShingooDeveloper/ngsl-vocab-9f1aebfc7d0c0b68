@@ -194,6 +194,191 @@
           "kana": "アン オーヴァーウェルミング フォース アヴ エンダーメン サラウンディド アス コンプリートリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has overwhelmed",
+      "ipa": "/həz ˌoʊvɚˈwɛlmd/",
+      "examples": [
+        {
+          "en": "The endermen have overwhelmed our defenses around the fortress.",
+          "ja": "エンダーマンが要塞周辺の防御を圧倒してしまいました。",
+          "ipa": "/ðə ˈɛndərˌmɛn həv ˌoʊvɚˈwɛlmd ˈaʊər dɪˈfɛnsɪz əˈraʊnd ðə ˈfɔrtrɪs/",
+          "linking": [
+            "have は弱形 /həv/ の末尾 /v/ が overwhelmed の /ə/ に連結 [həv ˌoʊvɚˈwɛlmd] ハヴ オーヴァーウェルムド",
+            "defenses の末尾 /z/ が around の /ə/ に連結 [dɪˈfɛnsɪz əˈraʊnd] ディフェンシーズ ァラウンド",
+            "around の末尾 /d/ が the の /ð/(弱形)に連結 [əˈraʊnd ðə] ァラウンド ザ"
+          ],
+          "kana": "ザ エンダーメン ハヴ オーヴァーウェルムド アワー ディフェンシーズ ァラウンド ザ フォートレス"
+        },
+        {
+          "en": "Creepers have overwhelmed many players who didn't prepare weapons properly.",
+          "ja": "クリーパーは武器をちゃんと準備しなかった多くのプレイヤーを圧倒してしまいました。",
+          "ipa": "/ˈkriːpərz həv ˌoʊvɚˈwɛlmd ˈmɛni ˈpleɪɚz ˈhuː ˈdɪdənt prɪˈpɛr ˈwɛpənz ˈproʊpərli/",
+          "linking": [
+            "have は弱形 /həv/ の末尾 /v/ が overwhelmed の /ə/ に連結 [həv ˌoʊvɚˈwɛlmd] ハヴ オーヴァーウェルムド",
+            "overwhelmed の末尾 /d/ が many の /m/(子音)に続く場合、/d/ は未開放 [ˌoʊvɚˈwɛlm̚d]",
+            "didn't の末尾 /t/ が prepare の /p/(子音)に続く場合、/t/ は未開放 [ˈdɪdənt̚ prɪˈpɛr]",
+            "prepare の末尾 /r/ が weapons の /w/(子音)に続く（子音+子音）"
+          ],
+          "kana": "クリーパーズ ハヴ オーヴァーウェルムド メニー プレイアーズ フー ディドゥント プリペア ウェポンズ プロパーリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had overwhelmed",
+      "ipa": "/həd ˌoʊvɚˈwɛlmd/",
+      "examples": [
+        {
+          "en": "After the mob waves had overwhelmed us, we decided to retreat to our base.",
+          "ja": "モブの群れが私たちを圧倒した後、私たちは基地に撤退することにしました。",
+          "ipa": "/ˈæftər ðə ˈmoʊb weɪvz həd ˌoʊvɚˈwɛlmd əs | wi dɪˈsaɪdɪd tə rɪˈtriːt tu ˈaʊər ˈbeɪs/",
+          "linking": [
+            "waves の末尾 /z/ が had の /h/(子音)に続く場合（子音+子音）。had は弱形 /həd/",
+            "had の末尾 /d/ が overwhelmed の /ə/ に連結 [həd ˌoʊvɚˈwɛlmd] ハド オーヴァーウェルムド",
+            "overwhelmed の末尾 /d/ が us の /ə/(弱形)に連結 [ˌoʊvɚˈwɛlmd əs]",
+            "to は機能語の弱形 /tə/。retreat に続く [tə rɪˈtriːt] タ リトリート"
+          ],
+          "kana": "アフター ザ モウブ ウェイブズ ハド オーヴァーウェルムド アス、ウィ ディサイディド タ リトリート トゥ アワー ベイス"
+        },
+        {
+          "en": "The Wither had overwhelmed our entire team before we could get better gear.",
+          "ja": "ウィザーがより良い装備を手に入れる前に私たちのチーム全体を圧倒してしまいました。",
+          "ipa": "/ðə ˈwɪðər həd ˌoʊvɚˈwɛlmd ˈaʊər ɪnˈtaɪər ˈtim bɪˈfɔr wi ˈkʊd ɡɛt ˈbɛtər ˈɡɪr/",
+          "linking": [
+            "Wither の末尾 /r/ が had の /h/(子音)に続く（子音+子音）。had は弱形 /həd/",
+            "had の末尾 /d/ が overwhelmed の /ə/ に連結 [həd ˌoʊvɚˈwɛlmd] ハド オーヴァーウェルムド",
+            "team の末尾 /m/ が before の /b/(子音)に続く（子音+子音）。before は弱形で /bɪˈfɔr/",
+            "before の /r/ が we の /w/(子音)に続く（子音+子音）"
+          ],
+          "kana": "ザ ウィザー ハド オーヴァーウェルムド アワー インタイアー ティーム ビフォー ウィ クッド ゲット ベッター ギア"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been overwhelming",
+      "ipa": "/həz bɪn ˌoʊvɚˈwɛlmɪŋ/",
+      "examples": [
+        {
+          "en": "The constant stream of hostile mobs has been overwhelming our defenses all night.",
+          "ja": "敵対的モブの絶え間ない流れが一晩中、私たちの防御を圧倒し続けています。",
+          "ipa": "/ðə ˈkɑnstənt ˈstrim əv ˈhoʊstəl moʊbz həz bɪn ˌoʊvɚˈwɛlmɪŋ ˈaʊər dɪˈfɛnsɪz ɔːl ˈnaɪt/",
+          "linking": [
+            "has は弱形 /həz/ の末尾 /z/ が been の /b/(子音)に続く場合（子音+子音）。been の弱形は /bɪn/",
+            "been の末尾 /n/ が overwhelming の /ə/ に連結 [bɪn ˌoʊvɚˈwɛlmɪŋ] ビン オーヴァーウェルミング",
+            "overwhelming の末尾 /ŋ/ が our の /aʊ/(母音)に続く場合（連結なし）",
+            "defenses の末尾 /z/ が all の /ɔ/ に連結 [dɪˈfɛnsɪz ɔːl]"
+          ],
+          "kana": "ザ コンスタント ストリーム アヴ ホウスタル モウブズ ハズ ビン オーヴァーウェルミング アワー ディフェンシーズ オール ナイト"
+        },
+        {
+          "en": "The sheer number of endermen has been overwhelming players in the End dimension.",
+          "ja": "エンド次元のエンダーマンの絶対的な数がプレイヤーを圧倒し続けています。",
+          "ipa": "/ðə ʃɪr ˈnʌmbər əv ˈɛndərˌmɛn həz bɪn ˌoʊvɚˈwɛlmɪŋ ˈpleɪɚz ɪn ðə ˈɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "number の末尾 /r/ が of の /ə/(弱形 /əv/)に連結 [ˈnʌmbər əv] ナンバー アヴ",
+            "has は弱形 /həz/ の末尾 /z/ が been の /b/(子音)に続く場合（子音+子音）。been の弱形は /bɪn/",
+            "been の末尾 /n/ が overwhelming の /ə/ に連結 [bɪn ˌoʊvɚˈwɛlmɪŋ] ビン オーヴァーウェルミング",
+            "overwhelming の末尾 /ŋ/ が players の /p/(子音)に続く（連結なし）"
+          ],
+          "kana": "ザ シア ナンバー アヴ エンダーメン ハズ ビン オーヴァーウェルミング プレイアーズ イン ザ エンド ディメンション"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is overwhelming",
+      "ipa": "/ɪz ˌoʊvɚˈwɛlmɪŋ/",
+      "examples": [
+        {
+          "en": "The Ender Dragon is overwhelming our defenses with powerful attacks.",
+          "ja": "エンダードラゴンは強力な攻撃で私たちの防御を圧倒しています。",
+          "ipa": "/ðə ˈɛndər ˈdræɡən ɪz ˌoʊvɚˈwɛlmɪŋ ˈaʊər dɪˈfɛnsɪz wɪð ˈpaʊərfəl əˈtæks/",
+          "linking": [
+            "Dragon is → Dragon の語末 /n/ が is の弱形 /ɪz/ に連結 [ˈdræɡən ɪz] ドラゴン イズ",
+            "is overwhelming → is の末尾 /z/ が overwhelming の /ə/ に連結 [ɪz ˌoʊvɚˈwɛlmɪŋ] イズ オーヴァーウェルミング",
+            "our defenses → our の末尾 /r/ が defenses の /d/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ エンダー ドラゴン イズ オーヴァーウェルミング アワー ディフェンシーズ ウィズ パワーフル アタックス"
+        },
+        {
+          "en": "We are overwhelming the zombie horde as we fight through the caves.",
+          "ja": "洞窟を通して戦いながら、ゾンビの群れを圧倒しています。",
+          "ipa": "/wi ɑr ˌoʊvɚˈwɛlmɪŋ ðə ˈzɑmbi ˈhɔrd æz wi faɪt θɹuː ðə ˈkeɪvz/",
+          "linking": [
+            "are overwhelming → are の末尾 /r/ が overwhelming の /ə/ に連結 [ɑr ˌoʊvɚˈwɛlmɪŋ] アー オーヴァーウェルミング",
+            "through the → through /θɹuː/ + the の弱形 /ðə/ [θɹuː ðə] スルー ザ",
+            "zombie horde → zombie の末尾 /i/ が horde の /h/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "ウィ アー オーヴァーウェルミング ザ ザームビー ホード アズ ウィ ファイト スルー ザ ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was overwhelming",
+      "ipa": "/wəz ˌoʊvɚˈwɛlmɪŋ/",
+      "examples": [
+        {
+          "en": "The swarm was overwhelming us when we finally escaped to higher ground.",
+          "ja": "群れが私たちを圧倒していた時、ついに高い場所に逃げました。",
+          "ipa": "/ðə ˈswɔrm wəz ˌoʊvɚˈwɛlmɪŋ əs wɛn wi ˈfaɪnəli ɪˈskeɪpt tu ˈhaɪər ɡraʊnd/",
+          "linking": [
+            "swarm was → swarm の末尾 /m/ が was の弱形 /wəz/ に連結 [ˈswɔrm wəz] スウォーム ワズ",
+            "was overwhelming → was の末尾 /z/ が overwhelming の /ə/ に連結 [wəz ˌoʊvɚˈwɛlmɪŋ] ワズ オーヴァーウェルミング",
+            "when we → when /wɛn/ + we /wi/ [wɛn wi] ウェン ウィ"
+          ],
+          "kana": "ザ スウォーム ワズ オーヴァーウェルミング アス ウェン ウィ ファイナリー イスケイプト トゥ ハイアー グラウンド"
+        },
+        {
+          "en": "While she was overwhelming the mob spawner defenses, a Wither appeared.",
+          "ja": "彼女がモブスポーナーの防御を圧倒していた間に、ウィザーが現れました。",
+          "ipa": "/waɪl ʃi wəz ˌoʊvɚˈwɛlmɪŋ ðə mɑb ˈspoʊnər dɪˈfɛnsɪz ə ˈwɪðər əˈpɪrd/",
+          "linking": [
+            "she was → she /ʃi/ + was の弱形 /wəz/ [ʃi wəz] シー ワズ",
+            "was overwhelming → [wəz ˌoʊvɚˈwɛlmɪŋ] ワズ オーヴァーウェルミング",
+            "spawner defenses → spawner の末尾 /r/ が defenses の /d/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ホワイル シー ワズ オーヴァーウェルミング ザ マブ スポーナー ディフェンシーズ ア ウィザー アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been overwhelming",
+      "ipa": "/həd bɪn ˌoʊvɚˈwɛlmɪŋ/",
+      "examples": [
+        {
+          "en": "The creepers had been overwhelming our base for days before we built better walls.",
+          "ja": "クリーパーが数日間私たちのベースを圧倒していて、私たちはより良い壁を建てました。",
+          "ipa": "/ðə ˈkripərz həd bɪn ˌoʊvɚˈwɛlmɪŋ ˈaʊər ˈbeɪs fɔr ˈdeɪz bɪˈfɔr wi bɪlt ˈbɛtər ˈwɔlz/",
+          "linking": [
+            "had been → had の弱形 /həd/ の末尾 /d/ が been の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "been overwhelming → been の末尾 /n/ が overwhelming の /ə/ に連結 [bɪn ˌoʊvɚˈwɛlmɪŋ] ビン オーヴァーウェルミング",
+            "before we → before /bɪˈfɔr/ + we /wi/ [bɪˈfɔr wi] ビフォー ウィ"
+          ],
+          "kana": "ザ クリーパーズ ハド ビン オーヴァーウェルミング アワー ベイス フォー デイズ ビフォー ウィ ビルト ベター ウォールズ"
+        },
+        {
+          "en": "They had been overwhelming our forces all week when reinforcements finally arrived.",
+          "ja": "彼らが1週間中ずっと私たちの軍勢を圧倒していた時、ついに援軍が到着しました。",
+          "ipa": "/ðeɪ həd bɪn ˌoʊvɚˈwɛlmɪŋ ˈaʊər ˈfɔrsɪz ɔːl ˈwik wɛn ˌrɛnfɔrsˈmɛnts ˈfaɪnəli əˈraɪvd/",
+          "linking": [
+            "had been → [həd bɪn] ハド ビン",
+            "been overwhelming → [bɪn ˌoʊvɚˈwɛlmɪŋ] ビン オーヴァーウェルミング",
+            "when reinforcements → when /wɛn/ + reinforcements は弱形が無いので /rɛn-/ [wɛn ˌrɛnfɔrsˈmɛnts] ウェン レンフォースメンツ"
+          ],
+          "kana": "ザイ ハド ビン オーヴァーウェルミング アワー フォーシーズ オール ウィーク ウェン レンフォースメンツ ファイナリー アライヴド"
+        }
+      ]
     }
   ],
   "tags": [
