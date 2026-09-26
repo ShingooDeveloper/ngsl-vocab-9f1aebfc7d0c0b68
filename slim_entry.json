@@ -416,6 +416,92 @@
           "kana": "シー ハズ ビン スリミング ハー タワー デザイン タ メイク イット パーフェクト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will slim",
+      "ipa": "/wɪl slɪm/",
+      "examples": [
+        {
+          "en": "I will slim the farm area to save resources.",
+          "ja": "リソースを節約するために農場エリアをスリムにします。",
+          "ipa": "/aɪ wɪl ˈslɪm ðə ˈfɑrm ˈɛriə tə ˈseɪv ˈrɛsərsɪz/",
+          "linking": [
+            "farm area - farm の末子音 /m/ が area の初頭母音 /ɛ/ に連結 [ˈfɑrmiə]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "アイ ウィル スリム ザ ファーム エリア タ セイヴ レソーシーズ"
+        },
+        {
+          "en": "They will slim the entire structure after the next update.",
+          "ja": "次のアップデート後、構造全体をスリムにします。",
+          "ipa": "/ðeɪ wɪl ˈslɪm ðə ɪnˈtaɪr ˈstrʌktʃər ˈæftər ðə ˈnɛkst ʌpˈdeɪt/",
+          "linking": [
+            "the entire - the は弱形 /ðə/、entire は初頭母音 /ɪ/ で始まる。/ə/ が /ɪ/ に連結",
+            "the next - the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ウィル スリム ディ エンタイア ストラクチャー アフター ザ ネクスト アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be slimming",
+      "ipa": "/wɪl bi ˈslɪmɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be slimming the farm area all week.",
+          "ja": "1週間、農場エリアをスリムにしています。",
+          "ipa": "/aɪl bi ˈslɪmɪŋ ðə ˈfɑrm ˈɛriə ɔl wik/",
+          "linking": [
+            "I'll be - I will の縮約 /aɪl/、be は /b/ で始まる",
+            "farm area - farm の末子音 /m/ が area の初頭母音 /ɛ/ に連結 [ˈfɑrmiə]"
+          ],
+          "kana": "アイル ビー スリミング ザ ファーム エリア オール ウィーク"
+        },
+        {
+          "en": "We will be slimming the entire base throughout the season.",
+          "ja": "シーズン全体を通して、ベース全体をスリムにしています。",
+          "ipa": "/wi wɪl bi ˈslɪmɪŋ ðə ɪnˈtaɪr ˈbeɪs θruːˈaʊt ðə ˈsiːzən/",
+          "linking": [
+            "the entire - the は弱形 /ðə/、entire は初頭母音 /ɪ/ で始まる。/ə/ が /ɪ/ に連結",
+            "the season - the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル ビー スリミング ザ エンタイア ベース スルーアウト ザ シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have slimmed",
+      "ipa": "/wɪl həv ˈslɪmd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have slimmed the entire build.",
+          "ja": "明日までに、すべてのビルドをスリムにしているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪ wɪl həv ˈslɪmd ðə ɪnˈtaɪr ˈbɪld/",
+          "linking": [
+            "by tomorrow - by は /baɪ/、tomorrow は /t/ で始まる",
+            "will have - have は弱形 /əv/、have の初頭音が弱化",
+            "the entire - the は弱形 /ðə/、entire は初頭母音 /ɪ/ で始まる。/ə/ が /ɪ/ に連結"
+          ],
+          "kana": "バイ タモロー アイ ウィル ハヴ スリムド ザ エンタイア ビルド"
+        },
+        {
+          "en": "They will have slimmed the structure after the big event.",
+          "ja": "大きなイベント後、構造がスリムになっているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈslɪmd ðə ˈstrʌktʃər ˈæftər ðə ˈbɪɡ ɪˈvɛnt/",
+          "linking": [
+            "will have - have は弱形 /əv/",
+            "the structure - the は弱形 /ðə/",
+            "big event - big の末子音 /ɡ/ が event の初頭母音 /ɪ/ に連結 [bɪɡɪ-]"
+          ],
+          "kana": "ゼイ ウィル ハヴ スリムド ザ ストラクチャー アフター ザ ビギ イベント"
+        }
+      ]
     }
   ]
 }
