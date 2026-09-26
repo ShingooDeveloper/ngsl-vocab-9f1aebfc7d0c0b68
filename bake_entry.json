@@ -349,6 +349,92 @@
           "kana": "アイ ハヴ ビン ベイキング サンド タ クリエイト イナフ グラース フォー アワー プロジェクト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will bake",
+      "ipa": "/wɪl beɪk/",
+      "examples": [
+        {
+          "en": "I'll bake clay blocks tomorrow.",
+          "ja": "明日、粘土ブロックを焼きます。",
+          "ipa": "/aɪl beɪk ˈkleɪ ˈblɑks təˈmɑroʊ/",
+          "linking": [
+            "I'll: will の縮約形で /aɪl/",
+            "bake clay: 語末子音 /k/ が語頭の /k/ の前で未開放 [ˈbeɪk̚ ˈkleɪ]",
+            "to: 機能語で弱形 /tə/"
+          ],
+          "kana": "アイル ベイク クレイ ブラックス タマロウ"
+        },
+        {
+          "en": "She'll bake sand in the furnace.",
+          "ja": "彼女はかまどで砂を焼きます。",
+          "ipa": "/ʃəl beɪk ˈsænd ɪn ðə ˈfɝnɪs/",
+          "linking": [
+            "she'll: will の縮約形で /ʃəl/",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "シャル ベイク サンド イン ザ ファーニス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be baking",
+      "ipa": "/wɪl bi ˈbeɪkɪŋ/",
+      "examples": [
+        {
+          "en": "We will be baking clay when you arrive.",
+          "ja": "あなたが到着する時、私たちは粘土を焼いています。",
+          "ipa": "/wi wɪl bi ˈbeɪkɪŋ ˈkleɪ wɛn ju əˈraɪv/",
+          "linking": [
+            "will: 自然な会話では弱形 /wəl/ に弱化",
+            "be: 助動詞で /bi/"
+          ],
+          "kana": "ウィ ウィル ビー ベイキング クレイ ウェン ユー アライヴ"
+        },
+        {
+          "en": "They'll be baking sand in the furnace all day.",
+          "ja": "彼らは一日中、かまどで砂を焼き続けます。",
+          "ipa": "/ðeɪl bi ˈbeɪkɪŋ ˈsænd ɪn ðə ˈfɝnɪs ɔl ˈdeɪ/",
+          "linking": [
+            "they'll: will の縮約形で /ðeɪl/",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "ザイル ビー ベイキング サンド イン ザ ファーニス オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have baked",
+      "ipa": "/wɪl həv beɪkt/",
+      "examples": [
+        {
+          "en": "I will have baked all the clay by sunset.",
+          "ja": "日没までに、私はすべての粘土を焼き終わっているでしょう。",
+          "ipa": "/aɪ wɪl həv ˈbeɪkt ɔl ðə ˈkleɪ baɪ ˈsʌnˌsɛt/",
+          "linking": [
+            "will have: have は機能語で弱形 /həv/",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "アイ ウィル ハヴ ベイクト オール ザ クレイ バイ サンセット"
+        },
+        {
+          "en": "He'll have baked enough sand for the windows by then.",
+          "ja": "その時までに、彼は窓用に十分な砂を焼き終わっているでしょう。",
+          "ipa": "/hil həv ˈbeɪkt əˈnʌf ˈsænd fɔr ðə ˈwɪndoʊz baɪ ˈðɛn/",
+          "linking": [
+            "he'll: will の縮約形で /hil/",
+            "have: 機能語で弱形 /həv/",
+            "the: 弱形 /ðə/"
+          ],
+          "kana": "ヒル ハヴ ベイクト アナフ サンド フォー ザ ウィンドウズ バイ ゼン"
+        }
+      ]
     }
   ]
 }
