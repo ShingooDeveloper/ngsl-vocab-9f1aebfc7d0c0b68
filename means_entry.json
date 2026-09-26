@@ -81,5 +81,130 @@
       ],
       "kana": "バイ オール ミーンズ、カム ヘルプ アス マイン ファー ダイモンズ イン ディス ケイヴ"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "means",
+      "ipa": "/miːnz/",
+      "examples": [
+        {
+          "en": "Stone means building material.",
+          "ja": "石は建築材料を意味します。",
+          "ipa": "/stoʊn miːnz ˈbɪldɪŋ məˈtɪriəl/",
+          "linking": [
+            "stone の /n/ が means に続く [stoʊn miːnz] ストーン ミーンズ",
+            "means の /z/ が building に続く（子音+子音）[miːnz ˈbɪldɪŋ] ミーンズ ビルディング",
+            "building の /ŋ/ が material に連結 [ˈbɪldɪŋ məˈtɪriəl] ビルディング マテリアル"
+          ],
+          "kana": "ストーン ミーンズ ビルディング マテリアル"
+        },
+        {
+          "en": "Finding a bed means safety at night.",
+          "ja": "ベッドを見つけることは、夜間の安全を意味します。",
+          "ipa": "/ˈfaɪndɪŋ ə bɛd miːnz ˈseɪfti æt naɪt/",
+          "linking": [
+            "finding の /ŋ/ が a に連結 [ˈfaɪndɪŋ ə] ファインディング ア",
+            "bed の /d/ が means に連結 [bɛd miːnz] ベッド ミーンズ",
+            "means の /z/ が safety に続く（子音+子音）[miːnz ˈseɪfti] ミーンズ セイフティ"
+          ],
+          "kana": "ファインディング ア ベッド ミーンズ セイフティ アット ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "meant",
+      "ipa": "/mɛnt/",
+      "examples": [
+        {
+          "en": "The creeper explosion meant we lost our house.",
+          "ja": "クリーパーの爆発は、私たちの家を失ったことを意味しました。",
+          "ipa": "/ðə ˈkriːpɚ ɪkˈsploʊʒən mɛnt wi lɔst ɑr haʊs/",
+          "linking": [
+            "the → 弱形 /ðə/ [ðə ˈkriːpɚ] ザ クリーパー",
+            "explosion の /n/ が meant に続く [ɪkˈsploʊʒən mɛnt] エクスプロージョン メント",
+            "meant の /t/ が we に未開放で続く [mɛnt wi] メント ウィー"
+          ],
+          "kana": "ザ クリーパー イクスプロージョン メント ウィー ロスト アワ ハウス"
+        },
+        {
+          "en": "Falling into lava meant instant death.",
+          "ja": "溶岩に落ちることは即死を意味しました。",
+          "ipa": "/ˈfɔlɪŋ ˈɪntu ˈlɑvə mɛnt ˈɪnstənt dɛθ/",
+          "linking": [
+            "falling の /ŋ/ が into に続く [ˈfɔlɪŋ ˈɪntu] フォーリング イントゥー",
+            "lava の /ə/ が meant に続く [ˈlɑvə mɛnt] ラバ メント",
+            "meant の /t/ が instant に未開放で続く [mɛnt ˈɪnstənt] メント インスタント"
+          ],
+          "kana": "フォーリング イントゥー ラバ メント インスタント デス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "meant",
+      "ipa": "/mɛnt/",
+      "examples": [
+        {
+          "en": "The long journey has meant we've discovered new biomes.",
+          "ja": "長い旅は、新しいバイオームを発見したことを意味しました。",
+          "ipa": "/ðə ˈlɔŋ ˈdʒɝni hæz mɛnt wiv dɪˈskʌvɚd ˈnjuː baɪˈoʊmz/",
+          "linking": [
+            "the → 弱形 /ðə/ [ðə ˈlɔŋ] ザ ロング",
+            "journey の /i/ が has に続く [ˈdʒɝni hæz] ジャーニー ハズ",
+            "has の /z/ が meant に続く [hæz mɛnt] ハズ メント"
+          ],
+          "kana": "ザ ロング ジャーニー ハズ メント ウィヴ ディスカヴァード ニュー バイオームズ"
+        },
+        {
+          "en": "All the mining work has meant serious progress toward victory.",
+          "ja": "すべての採掘作業は、勝利に向けた深刻な進歩を意味しました。",
+          "ipa": "/ɔl ðə ˈmaɪnɪŋ wɝk hæz mɛnt ˈsɪriəs ˈprɑɡrɛs təˈwɔrd ˈvɪktɔri/",
+          "linking": [
+            "the → 弱形 /ðə/ [ɔl ðə] オール ザ",
+            "mining の /ŋ/ が work に続く [ˈmaɪnɪŋ wɝk] マイニング ワーク",
+            "work の /k/ が has に続く（未開放）[wɝk hæz] ワーク ハズ"
+          ],
+          "kana": "オール ザ マイニング ワーク ハズ メント シリアス プログレス トゥワード ビクトリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "meaning",
+      "ipa": "/ˈmiːnɪŋ/",
+      "examples": [
+        {
+          "en": "Building a shelter means safety, meaning less stress from mobs.",
+          "ja": "避難所を建てることは安全を意味し、つまりモブからのストレスが少ないことを意味します。",
+          "ipa": "/ˈbɪldɪŋ ə ˈʃɛltɚ miːnz ˈseɪfti ˈmiːnɪŋ lɛs strɛs frəm mɑbz/",
+          "linking": [
+            "building の /ŋ/ が a に連結 [ˈbɪldɪŋ ə] ビルディング ア",
+            "shelter の /r/ が means に続く [ˈʃɛltɚ miːnz] シェルター ミーンズ",
+            "safety の /i/ が meaning に続く [ˈseɪfti ˈmiːnɪŋ] セイフティ ミーニング"
+          ],
+          "kana": "ビルディング ア シェルター ミーンズ セイフティ ミーニング レス ストレス フラム モブズ"
+        },
+        {
+          "en": "Collecting resources means finding ore, meaning better equipment.",
+          "ja": "リソースを集めることは鉱石を見つけることを意味し、つまりより良い装備を意味します。",
+          "ipa": "/kəˈlɛktɪŋ ˈrɛsɚsɪz miːnz ˈfaɪndɪŋ ˈɔr ˈmiːnɪŋ ˈbɛtɚ ɪˈkwɪpmənt/",
+          "linking": [
+            "collecting の /ŋ/ が resources に続く [kəˈlɛktɪŋ ˈrɛsɚsɪz] コレクティング レソーシーズ",
+            "ore の /r/ が meaning に続く [ˈɔr ˈmiːnɪŋ] オア ミーニング",
+            "meaning の /ŋ/ が better に続く [ˈmiːnɪŋ ˈbɛtɚ] ミーニング ベタ"
+          ],
+          "kana": "コレクティング レソーシーズ ミーンズ ファインディング オア ミーニング ベタ イクウィップメント"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
   ]
 }
