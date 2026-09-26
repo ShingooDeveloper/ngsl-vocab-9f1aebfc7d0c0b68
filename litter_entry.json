@@ -198,6 +198,174 @@
           "kana": "ストップ リッラーリング ザ チェスツ ウィズ ジャンク アイテムズ エン オーガナイズ ゼム プロパーリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has littered",
+      "ipa": "/həz ˈlɪɾərd/",
+      "examples": [
+        {
+          "en": "I have littered blocks all over the mine after excavating deep ore veins.",
+          "ja": "深くの鉱脈を採掘した後、鉱山全体にブロックを散らかしました。",
+          "ipa": "/aɪ həv ˈlɪɾərd blɑks ˈɔl ˈoʊvər ðə maɪn ˈæftər ˌɛksəˈveɪtɪŋ ˈdip ɔr veɪnz/",
+          "linking": [
+            "have は助動詞で弱形 /həv/、littered の /d/ が blocks の /b/ に未開放で先行 [həv ˈlɪɾərd̚ blɑks]",
+            "over の /r/ が the の /ð/ (弱形) に連結 [ˈoʊvər ðə] オウヴァー ザ"
+          ],
+          "kana": "アイ ハヴ リッラード ブロックス オール オウヴァー ザ マイン アフター エクスカヴェイティング ディープ オア ヴェインズ"
+        },
+        {
+          "en": "They have littered the desert biome with temporary scaffolding and supply chests.",
+          "ja": "彼らはデザート バイオームに一時的な足場と供給用チェストを散らかしました。",
+          "ipa": "/ðeɪ həv ˈlɪɾərd ðə ˈdɛzərt baɪˈoʊm wɪð ˈtɛmpərˌɛri ˈskæfəldɪŋ ənd səˈplaɪ tʃɛsts/",
+          "linking": [
+            "have は助動詞で弱形 /həv/、littered の /d/ が the の /ð/ (弱形) に未開放で連接 [həv ˈlɪɾərd̚ ðə]",
+            "and は機能語で弱形 /ənd/"
+          ],
+          "kana": "ゼイ ハヴ リッラード ザ デザート バイオウム ウィズ テンポラリー スキャフォルディング エン サプライ チェスツ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had littered",
+      "ipa": "/həd ˈlɪɾərd/",
+      "examples": [
+        {
+          "en": "By the time we found the treasure room, creepers had littered debris everywhere.",
+          "ja": "宝の部屋を見つけた時までに、クリーパーが破片をあちこちに散らかしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈtrɛʒər rum ˈkripərz həd ˈlɪɾərd dəˈbri ɪvˈriˌwɛr/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、littered の /d/ が debris の /d/ に未開放で先行 [həd ˈlɪɾərd̚ dəˈbri]",
+            "time の末尾 /m/ が we の /w/ に子音+子音で続く（未開放）"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド ザ トレジャー ルーム クリーパーズ ハド リッラード デブリー エヴリウェア"
+        },
+        {
+          "en": "She realized the explosion had littered the garden with stone and dirt blocks.",
+          "ja": "爆発が庭に石ブロックと土ブロックを散らかしていたことに彼女は気づきました。",
+          "ipa": "/ʃi ˌriəˈlaɪzd ði ɪkˈsploʊʒən həd ˈlɪɾərd ðə ˈɡɑrdən wɪð stoʊn ənd ˈdɜrt blɑks/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、littered の /d/ が the の /ð/ (弱形) に未開放で連接 [həd ˈlɪɾərd̚ ðə]",
+            "explosion の末尾 /n/ が had の /h/ に子音+子音で続く"
+          ],
+          "kana": "シー リアライズド ディ イクスプロウジョン ハド リッラード ザ ガーデン ウィズ ストウン エン ダート ブロックス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been littering",
+      "ipa": "/həz bɪn ˈlɪɾərɪŋ/",
+      "examples": [
+        {
+          "en": "We have been littering the cave with torches to light up every passage.",
+          "ja": "すべての通路を照らすために、洞窟にたいまつを散らかし続けています。",
+          "ipa": "/wi həv bɪn ˈlɪɾərɪŋ ðə ˈkeɪv wɪð ˈtɔrʃɪz tu ˈlaɪt ʌp ˈɛvri ˈpæsɪdʒ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/、been は弱形 /bɪn/、littering の /ŋ/ が the の /ð/ に子音+子音で続く（未開放）",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ビン リッラーリング ザ ケイヴ ウィズ トーチィズ トゥ ライト アップ エヴリー パッシッジ"
+        },
+        {
+          "en": "He has been littering the ocean biome with kelp farms and decorative structures all week.",
+          "ja": "彼はこの1週間、海バイオームにコンブファームと装飾的な構造物を散らかし続けています。",
+          "ipa": "/hi həz bɪn ˈlɪɾərɪŋ ðə ˈoʊʃən baɪˈoʊm wɪð kɛlp fɑrmz ənd ˈdɛkərətɪv ˈstrʌktʃərz ˈɔl wik/",
+          "linking": [
+            "has は助動詞で弱形 /həz/、been は弱形 /bɪn/、littering の /ŋ/ が the の /ð/ に子音+子音で続く（未開放）",
+            "the は冠詞で弱形 /ðə/",
+            "all の末尾 /l/ が week の /w/ に子音+子音で続く"
+          ],
+          "kana": "ヒー ハズ ビン リッラーリング ザ オウシャン バイオウム ウィズ ケルプ ファームズ エン デコラティヴ ストラクチャーズ オール ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is littering",
+      "ipa": "/ɪz ˈlɪɾərɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs are littering the ground with drops everywhere in the battle arena.",
+          "ja": "戦闘アリーナでモブが地面にドロップをあちこちに散らかしています。",
+          "ipa": "/ðə moʊbz ɑr ˈlɪɾərɪŋ ðə ɡraʊnd wɪð drɑps ɪvˈriˌwɛr ɪn ðə ˈbætəl əˈrinə/",
+          "linking": [
+            "are は助動詞で弱形 /ɑr/、littering の /ŋ/ が the の /ð/ (弱形) に子音+子音で続く（未開放）[ɑr ˈlɪɾərɪŋ ðə] アー リッラーリング ザ",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ モウブズ アー リッラーリング ザ グラウンド ウィズ ドロップス エヴリウェア イン ザ バッタル アリーナ"
+        },
+        {
+          "en": "I am littering blocks everywhere while building this massive structure.",
+          "ja": "この巨大な構造物を建設している間、ブロックをあちこちに散らかしています。",
+          "ipa": "/aɪ əm ˈlɪɾərɪŋ blɑks ɪvˈriˌwɛr waɪl ˈbɪldɪŋ ðɪs ˈmæsɪv ˈstrʌktʃər/",
+          "linking": [
+            "am は助動詞で弱形 /əm/、littering の /ŋ/ が blocks の /b/ に子音+子音で続く（未開放）[əm ˈlɪɾərɪŋ blɑks] アム リッラーリング ブロックス",
+            "everywhere の /r/ が while の /w/ に子音+子音で続く"
+          ],
+          "kana": "アイ アム リッラーリング ブロックス エヴリウェア ホワイル ビルディング ディス マッシヴ ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was littering",
+      "ipa": "/wəz ˈlɪɾərɪŋ/",
+      "examples": [
+        {
+          "en": "The explosion was littering debris across the entire landscape during our mining expedition.",
+          "ja": "採鉱遠征中、爆発が風景全体に破片を散乱させていました。",
+          "ipa": "/ðə ɪkˈsploʊʒən wəz ˈlɪɾərɪŋ dəˈbri əˈkrɔs ðə ɪnˈtaɪr ˈlændskeɪp ˈdʊrɪŋ ˈaʊər ˈmaɪnɪŋ ɛkˈspɪˈdiʃən/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/、littering の /ŋ/ が debris の /d/ に子音+子音で続く（未開放）[wəz ˈlɪɾərɪŋ dəˈbri] ワズ リッラーリング デブリー",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ イクスプロウジョン ワズ リッラーリング デブリー アクロス ザ インタイア ランドスケイプ ドゥーリング アワー マイニング エクスペディション"
+        },
+        {
+          "en": "While we were gathering resources, TNT was littering blocks and fire everywhere.",
+          "ja": "資源を集めている間、TNTがあちこちにブロックと火を散らかしていました。",
+          "ipa": "/waɪl wi wər ˈɡæðərɪŋ ˈrɛsərsɪz ti ɛn ti wəz ˈlɪɾərɪŋ blɑks ənd ˈfaɪər ɪvˈriˌwɛr/",
+          "linking": [
+            "were は助動詞で弱形 /wər/、was は弱形 /wəz/"
+          ],
+          "kana": "ホワイル ウィ ワー ギャザリング レソーシーズ ティ エン ティ ワズ リッラーリング ブロックス エン ファイア エヴリウェア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been littering",
+      "ipa": "/həd bɪn ˈlɪɾərɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper had been littering debris for hours when we finally defeated it with a sword.",
+          "ja": "クリーパーがついに剣で倒されるまで、何時間も破片を散らかしていました。",
+          "ipa": "/ðə ˈkripər həd bɪn ˈlɪɾərɪŋ dəˈbri fər ˈaʊərz wɛn wi ˈfaɪnəli dɪˈfitəd ɪt wɪð ə sɔrd/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、been は弱形 /bɪn/、littering の /ŋ/ が debris の /d/ に子音+子音で続く（未開放）[həd bɪn ˈlɪɾərɪŋ dəˈbri] ハド ビン リッラーリング デブリー",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "ザ クリーパー ハド ビン リッラーリング デブリー ファー アワーズ ウェン ウィ ファイナリー ディフィーティド イット ウィズ ア ソード"
+        },
+        {
+          "en": "By the time the builders arrived, explosions had been littering the construction site with rubble.",
+          "ja": "ビルダーが到着するまでに、爆発が建設現場を瓦礫で散らかしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbɪldərz əˈraɪvd ɪkˈsploʊʒənz həd bɪn ˈlɪɾərɪŋ ðə kənˈstrʌkʃən ˈsaɪt wɪð ˈrʌbəl/",
+          "linking": [
+            "had は助動詞で弱形 /həd/、been は弱形 /bɪn/、littering の /ŋ/ が the の /ð/ (弱形) に子音+子音で続く（未開放）[həd bɪn ˈlɪɾərɪŋ ðə] ハド ビン リッラーリング ザ",
+            "the は冠詞で弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ ビルダーズ アライヴド イクスプロウジョンズ ハド ビン リッラーリング ザ コンストラクション サイト ウィズ ラバル"
+        }
+      ]
     }
   ],
   "idioms": [
