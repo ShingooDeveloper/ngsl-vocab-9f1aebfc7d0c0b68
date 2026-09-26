@@ -1,0 +1,514 @@
+{
+  "word": "drift",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/drɪft/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "drift(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】ゆっくり流されるように、または意図せず移動する（水や空気の中で）",
+    "【動詞】（方向・話題などが）しだいに変わる、ずれていく",
+    "【名詞】雪や砂が風に吹き寄せられた吹き溜まり",
+    "【名詞】話や文章の要点・大意（…get the drift のような用法）",
+    "【動詞】（くつろぎながら）ぶらぶら歩く、徘徊する"
+  ],
+  "examples": [
+    {
+      "en": "The boat drifts slowly downstream while I fish by the river.",
+      "ja": "川の側で釣りをしている間、ボートがゆっくり下流に漂っている。",
+      "ipa": "/ðə ˈboʊt drɪfts ˈsloʊli ˈdaʊnstrim waɪl aɪ ˈfɪʃ baɪ ðə ˈrɪvɚ/",
+      "linking": [
+        "The の弱形 [ðə]（子音+母音の境界）",
+        "drifts の語末 /ts/ が /s/ で始まる slow につながる際、両子音で unreleased stop [t̚s]",
+        "while の語末 /l/ が母音 /aɪ/ に連結"
+      ],
+      "kana": "ザ ボート ドリフツ スロウリー ダウンストリーム ワイル アイ フィッシュ バイ ザ リバー"
+    },
+    {
+      "en": "I drifted off course while exploring the nether and got lost.",
+      "ja": "ネザー探索中にコースを外れてしまい、迷子になった。",
+      "ipa": "/aɪ ˈdrɪfɾəd ˈɔf ˈkɔɹs waɪl ɪkˈsplɔɹɪŋ ðə ˈnɛðɚ ənd ɡɑt ˈlɔst/",
+      "linking": [
+        "drifted の /t/ が次の /ə/ に挟まれてフラップ化 [ˈdrɪf.ɾəd] ドリフラッド",
+        "off の語末 /f/ が子音 /k/ に続くため未開放 [f̚]",
+        "and の弱形 /ən/ で前語の語末に連結"
+      ],
+      "kana": "アイ ドリフラッド オフ コース ワイル イクスプローリング ザ ネザー アン ゴット ロスト"
+    },
+    {
+      "en": "Team members slowly drift apart after the server gets shut down.",
+      "ja": "サーバーが閉鎖されると、チームメンバーがしだいに離れていく。",
+      "ipa": "/ˈtim ˈmɛmbɚz ˈsloʊli drɪft əˈpɑɹt ˈæftɚ ðə ˈsɚvɚ ɡɛts ʃʌt ˈdaʊn/",
+      "linking": [
+        "team の語末 /m/ が母音 /ɛ/ に連結 [ˈtiːm]",
+        "drift の語末 /t/ が母音 /ə/ に連結するも、apart の /p/ が続くため unreleased [t̚]",
+        "the の弱形 [ðə]、gets の語末 /ts/ が /ʃ/ の子音に続く未開放"
+      ],
+      "kana": "ティーム メンバーズ スロウリー ドリフト アパート アフター ザ サーバー ゲッツ シャッ ダウン"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "drift off",
+      "ja": "眠りに落ちる、寝てしまう",
+      "example": "I drifted off during a long mining session at night.",
+      "example_ja": "夜の長い採掘セッション中に寝てしまった。",
+      "ipa": "/aɪ ˈdrɪfɾəd ˈɔf ˈdɪɹɪŋ ə ˈlɔŋ ˈmaɪnɪŋ ˈsɛʃən ət naɪt/",
+      "linking": [
+        "drifted の /t/ が /ə/ に挟まれてフラップ化 [ˈdrɪf.ɾəd]",
+        "off の語末 /f/ が子音 /d/ に続く未開放 [f̚]",
+        "during の /ɡ/ が弱形の /ə/ に連結、session の /n/ が /ə/ に連結"
+      ],
+      "kana": "アイ ドリフラッド オフ ジューリング ア ロング マイニング セッション アット ナイト"
+    },
+    {
+      "idiom": "get the drift",
+      "ja": "大意をつかむ、意味するところを理解する",
+      "example": "I got the drift of your redstone contraption plan.",
+      "example_ja": "君のレッドストーン装置計画の要点はわかった。",
+      "ipa": "/aɪ ˈɡɑt ðə ˈdrɪft əv jɔɹ ˈrɛdˌstoʊn kənˈtræpʃən ˈplæn/",
+      "linking": [
+        "got の語末 /t/ が子音 /ð/ に続く未開放 [t̚]。the は弱形 [ðə]",
+        "of の弱形 /əv/ で got の語末に連結",
+        "your の /ɹ/ が母音に続く連結"
+      ],
+      "kana": "アイ ゴット ザ ドリフト アヴ ユアー レッドストーン コントラプション プラン"
+    },
+    {
+      "idiom": "drift apart",
+      "ja": "（人間関係が）次第に離れていく、疎遠になる",
+      "example": "Teammates drift apart when the server closes permanently.",
+      "example_ja": "サーバーが永遠に閉鎖されるとき、プレイヤーたちは次第に離れていく。",
+      "ipa": "/ˈtiːmˌmeɪts drɪft əˈpɑɹt wɛn ðə ˈsɝvɚ ˈkloʊzɪz ˌpɝˈmænəntli/",
+      "linking": [
+        "teammates の /s/ が母音 /d/ に続く連結不可、unreleased [s̚]",
+        "drift の語末 /t/ が母音 /ə/ に連結するが apart の /p/ で unreleased",
+        "closes の /z/ が /p/ に続く未開放 [z̚]、permanently で /n/ が弱形に連結"
+      ],
+      "kana": "ティームメイツ ドリフト アパート ウェン ザ サーバー クロージーズ パーマネントリー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "drifts",
+      "ipa": "/drɪfts/",
+      "examples": [
+        {
+          "en": "Snow drifts settle across the biome during a blizzard.",
+          "ja": "ブリザード中、雪の吹き溜まりがバイオームに広がって堆積する。",
+          "ipa": "/snoʊ drɪfts ˈsɛtəl əˈkrɔs ðə ˈbaɪoʊm ˈdʊɹɪŋ ə ˈblɪzɚd/",
+          "linking": [
+            "drifts の /ts/ が /s/ で始まる settle に続く際、両子音で unreleased [t̚s]",
+            "the は弱形 [ðə]（子音+母音の境界）",
+            "during の /ŋ/ が弱形 /ə/ に連結"
+          ],
+          "kana": "スノウ ドリフツ セットル アクロス ザ バイオーム ジューリング ア ブリザード"
+        },
+        {
+          "en": "My boat drifts slowly downstream toward the ocean biome.",
+          "ja": "ボートがゆっくり下流に漂い、海バイオームに向かう。",
+          "ipa": "/maɪ boʊt drɪfts ˈsloʊli ˈdaʊnstrim təˈwɔɹd ðə ˌoʊʃən ˈbaɪoʊm/",
+          "linking": [
+            "boat の /t/ が子音 /d/ に続く unreleased [t̚]",
+            "drifts の /ts/ が /s/ で始まる slowly に続く unreleased [t̚s]",
+            "the は弱形 [ðə]"
+          ],
+          "kana": "マイ ボット ドリフツ スロウリー ダウンストリーム トワード ザ オーシャン バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "drifted",
+      "ipa": "/ˈdrɪfɾəd/",
+      "examples": [
+        {
+          "en": "I drifted off course while exploring the nether caves.",
+          "ja": "ネザーの洞窟を探索中にコースを外れて漂った。",
+          "ipa": "/aɪ ˈdrɪfɾəd ɔf ˈkɔɹs waɪl ɪkˈsplɔɹɪŋ ðə ˈnɛðɚ ˈkeɪvz/",
+          "linking": [
+            "drifted の /t/ が /ə/ に挟まれてフラップ化 [ˈdrɪf.ɾəd]",
+            "off の語末 /f/ が子音 /k/ に続く未開放 [f̚]",
+            "while の語末 /l/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "アイ ドリフラッド オフ コース ワイル イクスプローリング ザ ネザー ケイブズ"
+        },
+        {
+          "en": "My raft drifted into deep water and floated away.",
+          "ja": "いかだが深い水に漂い込んで、流されてしまった。",
+          "ipa": "/maɪ ɹæft ˈdrɪfɾəd ˈɪntu dip ˈwɔɾɚ ənd ˈfloʊɾəd əˈweɪ/",
+          "linking": [
+            "raft の /t/ が子音 /d/ に続く unreleased [t̚]",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]",
+            "and は弱形 [ən]、floated の /d/ に連結"
+          ],
+          "kana": "マイ ラフト ドリフラッド イントゥ ディープ ウォーラー アン フロウラッド アウェイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "drifted",
+      "ipa": "/ˈdrɪfɾəd/",
+      "examples": [
+        {
+          "en": "Having drifted too far, I couldn't find my spawn point.",
+          "ja": "漂いすぎて、スポーンポイントが見つからなくなった。",
+          "ipa": "/ˈheɪvɪŋ ˈdrɪfɾəd tu fɑɹ aɪ ˈkʊdənt ˈfaɪnd maɪ spoʊn ˈpɔɪnt/",
+          "linking": [
+            "having の語末 /ŋ/ が母音 /ə/ に前接",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]",
+            "find の語末 /d/ が /m/ に続く未開放 [d̚]"
+          ],
+          "kana": "ヘイヴィング ドリフラッド トゥ ファー アイ クッデント ファインド マイ スポーン ポイント"
+        },
+        {
+          "en": "The supplies had drifted downstream and were swept away.",
+          "ja": "補給物資は下流に漂い、流されてしまった。",
+          "ipa": "/ðə səˈplaɪz həd ˈdrɪfɾəd ˈdaʊnstrim ənd wɚ swept əˈweɪ/",
+          "linking": [
+            "the は弱形 [ðə]",
+            "had は弱形 [həd]、drifted の /d/ に連結",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]"
+          ],
+          "kana": "ザ サプライズ ハッド ドリフラッド ダウンストリーム アン ワー スウェップ アウェイ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "drifting",
+      "ipa": "/ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "I'm drifting in the sky after jumping off the tall cliff.",
+          "ja": "高い崖から飛び降りた後、空を漂っている。",
+          "ipa": "/aɪm ˈdrɪftɪŋ ɪn ðə skaɪ ˈæftɚ ˈdʒʌmpɪŋ ɔf ðə tɔl klɪf/",
+          "linking": [
+            "I'm の /m/ が母音 /ə/ に連結される [aɪm]",
+            "the は弱形 [ðə]（子音+母音の境界）",
+            "after の /ɚ/ は r-colored schwa"
+          ],
+          "kana": "アイム ドリフティング イン ザ スカイ アフター ジャンピング オフ ザ トール クリフ"
+        },
+        {
+          "en": "The raft is drifting through the mangrove swamp very slowly.",
+          "ja": "いかだがマングローブ沼を非常にゆっくり漂っている。",
+          "ipa": "/ðə ɹæft ɪz ˈdrɪftɪŋ θɹu ðə ˈmæŋɡroʊv swɑmp ˈvɛɹi ˈsloʊli/",
+          "linking": [
+            "the は弱形 [ðə]",
+            "is は弱形 [ɪz]、drifting の /d/ に連結",
+            "through の /u/ が次の /ð/ に前接"
+          ],
+          "kana": "ザ ラフト イズ ドリフティング スルー ザ マングローブ スワンプ ヴェリー スロウリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is drifting",
+      "ipa": "/ɪz ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "The boat is drifting slowly downstream.",
+          "ja": "ボートがゆっくり下流に漂っている。",
+          "ipa": "/ðə ˈboʊt ɪz ˈdrɪftɪŋ ˈsloʊli ˈdaʊnstrim/",
+          "linking": [
+            "the は弱形 [ðə]",
+            "boat の末子音 /t/ が is の初音 /ɪ/ に連結 [ˈboʊtɪz]",
+            "is は弱形 [ɪz]、drifting の /d/ に連結"
+          ],
+          "kana": "ザ ボート イズ ドリフティング スロウリー ダウンストリーム"
+        },
+        {
+          "en": "The raft is drifting toward the island while I gather resources.",
+          "ja": "私が資源を集めている間、いかだが島に向かって漂っている。",
+          "ipa": "/ðə ˈræft ɪz ˈdrɪftɪŋ təˈwɔrd ðə ˈaɪlənd waɪl aɪ ˈɡæðər ˈrɛsɔrsɪz/",
+          "linking": [
+            "raft の末子音 /t/ が is の初音 /ɪ/ に連結 [ˈræftɪz]",
+            "is は弱形 [ɪz]、drifting の /d/ に連結",
+            "island の末子音 /d/ が while の初音 /w/ に未開放で続く [ˈaɪlənd̚ waɪl]"
+          ],
+          "kana": "ザ ラフト イズ ドリフティング トゥワード ザ アイランド ワイル アイ ギャザー レソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was drifting",
+      "ipa": "/wəz ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "The boat was drifting downstream when I spotted the village.",
+          "ja": "ボートが下流に漂っている時に、村を発見した。",
+          "ipa": "/ðə ˈboʊt wəz ˈdrɪftɪŋ ˈdaʊnstrim wɛn aɪ ˈspɑtəd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "the は弱形 [ðə]",
+            "boat の末子音 /t/ が was の初音 /w/ に未開放で続く [ˈboʊt̚ wəz]",
+            "was は弱形 [wəz]、drifting の /d/ に連結"
+          ],
+          "kana": "ザ ボット ワズ ドリフティング ダウンストリーム ウェン アイ スパッティド ザ ビリッジ"
+        },
+        {
+          "en": "The raft was drifting away when I noticed the current had changed.",
+          "ja": "流れが変わったのに気づいた時、いかだが流されていた。",
+          "ipa": "/ðə ˈræft wəz ˈdrɪftɪŋ əˈweɪ wɛn aɪ ˈnoʊtɪst ðə ˈkɚənt həd ˈtʃeɪndʒd/",
+          "linking": [
+            "raft の末子音 /t/ が was の初音 /w/ に未開放で続く [ˈræft̚ wəz]",
+            "was は弱形 [wəz]、drifting の /d/ に連結",
+            "had は弱形 [həd]"
+          ],
+          "kana": "ザ ラフット ワズ ドリフティング アウェイ ウェン アイ ノーティスト ザ カレント ハド チェンジド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been drifting",
+      "ipa": "/həd bɪn ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "After we had been drifting for an hour, we finally spotted the shore.",
+          "ja": "1時間漂った後、ようやく岸を発見した。",
+          "ipa": "/ˈæftər wi həd bɪn ˈdrɪftɪŋ fɔr ən ˈaʊər wi ˈfaɪnəli ˈspɑtəd ðə ˈʃɔr/",
+          "linking": [
+            "had は弱形 [həd]、been は弱形 [bɪn]",
+            "drifting の末子音 /ŋ/ が for の初音 /f/ に連結しない（子音+子音で未開放）、for は弱形 [fɔr]",
+            "hour の末子音 /r/ が we の初音 /w/ に未開放で続く [ˈaʊər̚ wi]"
+          ],
+          "kana": "アフター ウィー ハド ビン ドリフティング フォー ァン アワー ウィー ファイナリー スパッティド ザ シォア"
+        },
+        {
+          "en": "The supplies had been drifting downstream for days before we found them.",
+          "ja": "補給物資は数日間下流に漂い続けた後、ついに見つけた。",
+          "ipa": "/ðə səˈplaɪz həd bɪn ˈdrɪftɪŋ ˈdaʊnstrim fɔr ˈdeɪz bɪˈfɔr wi ˈfaʊnd ðəm/",
+          "linking": [
+            "supplies の末子音 /z/ が had の初音 /h/ に未開放で続く [səˈplaɪz̚ həd]",
+            "had は弱形 [həd]、been は弱形 [bɪn]",
+            "before の末子音 /r/ が we の初音 /w/ に未開放で続く [bɪˈfɔr̚ wi]"
+          ],
+          "kana": "ザ サプライズ ハド ビン ドリフティング ダウンストリーム フォー デイズ ビフォア ウィー ファウンド ザム"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "drifts",
+      "ipa": "/drɪfts/",
+      "examples": [
+        {
+          "en": "Snow drifts blocked the path to my base.",
+          "ja": "雪の吹き溜まりが私のベースへの道をふさいだ。",
+          "ipa": "/snoʊ drɪfts blɑkt ðə pæθ tu maɪ beɪs/",
+          "linking": [
+            "drifts の /ts/ が /b/ で始まる blocked に続く、両子音で unreleased [t̚b]",
+            "the は弱形 [ðə]",
+            "to は弱形 [tə]、my の /m/ に連結"
+          ],
+          "kana": "スノウ ドリフツ ブロクト ザ パス トゥ マイ ベイス"
+        },
+        {
+          "en": "Multiple sand drifts formed near the desert temple.",
+          "ja": "砂漠の寺院の近くに複数の砂の吹き溜まりが形成された。",
+          "ipa": "/ˈmʌltəpəl sænd drɪfts fɔɹmd nɪɹ ðə ˈdɛzɚt ˈtɛmpəl/",
+          "linking": [
+            "sand の /d/ が /d/ で始まる drifts に続く unreleased [d̚]",
+            "drifts の /ts/ が /f/ で始まる formed に続く unreleased [t̚f]",
+            "the は弱形 [ðə]"
+          ],
+          "kana": "マルティプル サンド ドリフツ フォームド ニアー ザ デザート テンプル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has drifted",
+      "ipa": "/həz ˈdrɪfɾəd/",
+      "examples": [
+        {
+          "en": "The supplies have drifted away from the shore into deep water.",
+          "ja": "補給物資は岸から漂い流れ、深い水へと流れていった。",
+          "ipa": "/ðə səˈplaɪz həv ˈdrɪfɾəd əˈweɪ frəm ðə ʃɔɹ ˈɪntu dip ˈwɔɾɚ/",
+          "linking": [
+            "the は弱形 [ðə]（子音+母音の境界）",
+            "have は弱形 [həv]、drifted の /d/ に連結",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]"
+          ],
+          "kana": "ザ サプライズ ハヴ ドリフラッド アウェイ フラム ザ ショア イントゥ ディープ ウォーラー"
+        },
+        {
+          "en": "I have drifted so far from my base that I'm completely lost.",
+          "ja": "自分のベースからあまりに遠く漂ってしまい、完全に迷ってしまった。",
+          "ipa": "/aɪ həv ˈdrɪfɾəd soʊ fɑɹ frəm maɪ beɪs ðæt aɪm kəmˈplit li ˈlɔst/",
+          "linking": [
+            "have は弱形 [həv]、drifted の /d/ に連結",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]",
+            "I'm の /m/ が /k/ に続く未開放 [m̚]"
+          ],
+          "kana": "アイ ハヴ ドリフラッド ソー ファー フラム マイ ベイス ザッ アイム コンプリートリー ロスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had drifted",
+      "ipa": "/həd ˈdrɪfɾəd/",
+      "examples": [
+        {
+          "en": "By the time the rescue team arrived, the boat had drifted far offshore.",
+          "ja": "救援チームが到着する頃には、ボートはすでに遠く沖に漂いていた。",
+          "ipa": "/baɪ ðə taɪm ðə ˈrɛskju tim əˈɹaɪvd ðə boʊt həd ˈdrɪfɾəd fɑɹ ˈɔfʃɔɹ/",
+          "linking": [
+            "the は弱形 [ðə]（子音+母音の境界）",
+            "had は弱形 [həd]、drifted の /d/ に連結",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]"
+          ],
+          "kana": "バイ ザ タイム ザ レスキュー ティーム アライヴド ザ ボート ハッド ドリフラッド ファー オフショア"
+        },
+        {
+          "en": "The player had drifted so far that they couldn't recognize any landmarks.",
+          "ja": "プレイヤーはあまりに遠く漂いすぎて、どんなランドマークも認識できなくなっていた。",
+          "ipa": "/ðə ˈpleɪɚ həd ˈdrɪfɾəd soʊ fɑɹ ðæt ðeɪ ˈkʊdənt ˈrɛkəɡnaɪz ˈɛni ˈlændmɑrks/",
+          "linking": [
+            "had は弱形 [həd]、drifted の /d/ に連結",
+            "drifted の /t/ がフラップ化 [ˈdrɪf.ɾəd]",
+            "any は /ɛ/ で始まり、前語 so の /oʊ/ から離れているが自然な分離"
+          ],
+          "kana": "ザ プレイヤー ハッド ドリフラッド ソー ファー ザッ ザェ クッデント レコグナイズ エニー ランドマークス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been drifting",
+      "ipa": "/həz bɪn ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "The raft has been drifting downstream all afternoon in the current.",
+          "ja": "いかだが一日中、流れの中を下流に漂い続けている。",
+          "ipa": "/ðə ɹæft həz bɪn ˈdrɪftɪŋ ˈdaʊnstrim ɔl ˌæftɚˈnun ɪn ðə ˈkɚənt/",
+          "linking": [
+            "the は弱形 [ðə]（子音+母音の境界）",
+            "has は弱形 [həz]、been の /b/ に連結",
+            "been は弱形 [bɪn]、drifting の /d/ に連結"
+          ],
+          "kana": "ザ ラフト ハズ ビン ドリフティング ダウンストリーム オール アフターヌーン イン ザ カレント"
+        },
+        {
+          "en": "Our team has been drifting apart since the server problems started last month.",
+          "ja": "先月からサーバーの問題が始まってからというもの、我々のチームはだんだん離れていっている。",
+          "ipa": "/ˈaʊɚ tim həz bɪn ˈdrɪftɪŋ əˈpɑɹt sɪns ðə ˈsɚvɚ ˈprɑbləmz ˈstɑɹɾəd læst mʌnθ/",
+          "linking": [
+            "has は弱形 [həz]、been の /b/ に連結",
+            "been は弱形 [bɪn]、drifting の /d/ に連結",
+            "started の /d/ がフラップ化 [ˈstɑɹ.ɾəd]"
+          ],
+          "kana": "アワー ティーム ハズ ビン ドリフティング アパート シンス ザ サーバー プロブレムズ スターラッド ラスト マンス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will drift",
+      "ipa": "/wɪl drɪft/",
+      "examples": [
+        {
+          "en": "I'll drift into the ocean if I keep going in that direction.",
+          "ja": "この方向に進み続けると、大洋に漂い込むでしょう。",
+          "ipa": "/aɪl drɪft ˈɪntu ðə ˈoʊʃən ɪf aɪ kip ˈɡoʊɪŋ ɪn ðæt dəˈrɛkʃən/",
+          "linking": [
+            "I'll は I + will の縮約。will は弱形 /əl/ に弱化 [aɪl]",
+            "drift の末尾 /t/ が into の母音 /ɪ/ に連結",
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "アイル ドリフト イントゥ ザ オーシャン イフ アイ キープ ゴウイング イン ザット ダレクション"
+        },
+        {
+          "en": "The supplies will drift away if we don't tie them to the raft.",
+          "ja": "いかだに結び付けなければ、補給物資は流れ去ります。",
+          "ipa": "/ðə səˈplaɪz wɪl drɪft əˈweɪ ɪf wi ˈdoʊnt taɪ ðɛm tə ðə ræft/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "don't の末尾 /t/ が tie の母音 /aɪ/ に連結",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ザ サプライズ ウィル ドリフト アウェイ イフ ウィー ドント タイ ザエム タ ザ ラフト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be drifting",
+      "ipa": "/wɪl bi ˈdrɪftɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be drifting downstream while you finish building the bridge.",
+          "ja": "あなたが橋を完成させている間、私たちは下流に漂うでしょう。",
+          "ipa": "/wɪl bi ˈdrɪftɪŋ ˈdaʊnstrim waɪl ju ˈfɪnɪʃ ˈbɪldɪŋ ðə ˈbrɪdʒ/",
+          "linking": [
+            "We'll は we + will の縮約。will は弱形に弱化 [wɪl]",
+            "be は弱形 [bi]（助動詞）",
+            "the は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ウィル ビー ドリフティング ダウンストリーム ワイル ユー フィニッシュ ビルディング ザ ブリッジ"
+        },
+        {
+          "en": "The logs will be drifting toward the waterfall as we watch from the shore.",
+          "ja": "私たちが岸から見ている間、丸太は滝に向かって漂うでしょう。",
+          "ipa": "/ðə ˈlɑɡz wɪl bi ˈdrɪftɪŋ təˈwɔrd ðə ˈwɔtɚˌfɔl æz wi wɑtʃ frəm ðə ˈʃɔr/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化（3回）",
+            "will は弱形に弱化 [wɪl]、be は弱形 [bi]（助動詞）",
+            "from は弱形 /frəm/ に弱化"
+          ],
+          "kana": "ザ ログス ウィル ビー ドリフティング トゥワード ザ ウォターフォール アズ ウィー ウォッチ フラム ザ ショアー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have drifted",
+      "ipa": "/wɪl həv ˈdrɪfɾəd/",
+      "examples": [
+        {
+          "en": "By the time dawn breaks, I will have drifted far away from our starting point.",
+          "ja": "夜明けまでに、私は出発地点からかなり遠く漂っているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈdɔn ˈbreɪks aɪ wɪl həv ˈdrɪfɾəd fɑr əˈweɪ frəm ˈaʊr ˈstɑrtɪŋ pɔɪnt/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "will は弱形に弱化 [wɪl]、have は弱形 /əv/ に弱化",
+            "from は弱形 /frəm/ に弱化"
+          ],
+          "kana": "バイ ザ タイム ドーン ブレイクス アイ ウィル ハヴ ドリフラッド ファー アウェイ フラム アワー スターティング ポイント"
+        },
+        {
+          "en": "All the supplies will have drifted away by evening if we don't anchor them properly.",
+          "ja": "もし私たちが適切に固定しなければ、補給物資は夕方までに流されてしまっているでしょう。",
+          "ipa": "/ɔl ðə səˈplaɪz wɪl həv ˈdrɪfɾəd əˈweɪ baɪ ˈivnɪŋ ɪf wi doʊnt ˈæŋkɚ ðɛm ˈprɑpɚli/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "will は弱形に弱化 [wɪl]、have は弱形 /əv/ に弱化",
+            "don't の末尾 /t/ が anchor の母音 /æ/ に連結"
+          ],
+          "kana": "オール ザ サプライズ ウィル ハヴ ドリフラッド アウェイ バイ イブニング イフ ウィー ドント アンカー ザエム プロパーリー"
+        }
+      ]
+    }
+  ]
+}
