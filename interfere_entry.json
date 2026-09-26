@@ -73,5 +73,97 @@
       ],
       "kana": "ドウンッ インターフィア イン マイ ビルディング プロジェクト"
     }
+  ],
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has interfered",
+      "ipa": "/həz ɪntɚˈfɪrd/",
+      "examples": [
+        {
+          "en": "This repeater has interfered with timing.",
+          "ja": "このリピーターがタイミングに支障をきたしました。",
+          "ipa": "[ðɪs rɪˈpitɚ həz ɪntɚˈfɪrd wɪð ˈtaɪmɪŋ]",
+          "linking": [
+            "「this」は弱形 /ðɪs/",
+            "「has」は弱形 /həz/",
+            "「with」は弱形 /wɪð/"
+          ],
+          "kana": "ディス リピーラー ハズ インターフィアド ウィズ タイミング"
+        },
+        {
+          "en": "Water and lava have interfered before.",
+          "ja": "水と溶岩が以前干渉したことがあります。",
+          "ipa": "[ˈwɔɾɚ ənd̚ ˈlɑvə həv ɪntɚˈfɪrd bɪˈfɔr]",
+          "linking": [
+            "「water」の /t/ が弱化してフラップ化 [ˈwɔɾɚ]",
+            "「and」の /d̚/ は未開放",
+            "「have」は弱形 /həv/"
+          ],
+          "kana": "ウォーラー アンド ラーヴァ ハヴ インターフィアド ビフォア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had interfered",
+      "ipa": "/həd ɪntɚˈfɪrd/",
+      "examples": [
+        {
+          "en": "The lag had interfered with everything.",
+          "ja": "ラグはすべてに支障をきたしていました。",
+          "ipa": "[ðə læg həd ɪntɚˈfɪrd wɪð ˈɛvriˌθɪŋ]",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「had」は弱形 /həd/",
+            "「with」は弱形 /wɪð/"
+          ],
+          "kana": "ザ ラグ ハド インターフィアド ウィズ エブリシング"
+        },
+        {
+          "en": "The creeper explosion had interfered with our plans.",
+          "ja": "クリーパー爆発が私たちの計画に干渉していました。",
+          "ipa": "[ðə ˈkripɚ ɪkˈsploʊʒən həd ɪntɚˈfɪrd wɪð ˈaʊɚ ˈplænz]",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「creeper」の /r/ が次の /ɪ/ に連結 [ˈkripɚ ɪkˈsploʊʒən]",
+            "「had」は弱形 /həd/"
+          ],
+          "kana": "ザ クリーパー イクスプロウジャン ハド インターフィアド ウィズ アワー プラエンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been interfering",
+      "ipa": "/həz bɪn ɪntɚˈfɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The storm has been interfering with visibility.",
+          "ja": "嵐が視認性に支障をきたし続けています。",
+          "ipa": "[ðə stɔrm həz bɪn ɪntɚˈfɪrɪŋ wɪð vɪˈzɪbɪlədi]",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「has」は弱形 /həz/",
+            "「been」は弱形 /bɪn/"
+          ],
+          "kana": "ザ ストアム ハズ ビン インターフィアリング ウィズ ビジビリティ"
+        },
+        {
+          "en": "Mobs have been interfering since sunset.",
+          "ja": "モブは日没以来ずっと干渉し続けています。",
+          "ipa": "[moʊbz həv bɪn ɪntɚˈfɪrɪŋ sɪns ˈsʌnˌsɛt]",
+          "linking": [
+            "「mobs」の /z/ が語末で[moʊbz]",
+            "「have」は弱形 /həv/",
+            "「been」は弱形 /bɪn/"
+          ],
+          "kana": "モウズ ハヴ ビン インターフィアリング シンス サンセット"
+        }
+      ]
+    }
   ]
 }
