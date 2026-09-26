@@ -309,6 +309,101 @@
           "kana": "ザ ディフィカルティー モディファイア ハズ ビン インパクティング モンスター スポーン レイツ スルーアウト ザ セッション"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is impacting",
+      "ipa": "/ɪz ˈɪmpæktɪŋ/",
+      "examples": [
+        {
+          "en": "The meteor is impacting the landscape right now.",
+          "ja": "隕石が今、風景に衝突しています。",
+          "ipa": "/ðə ˈmɛtioʊr ɪz ˈɪmpæktɪŋ ðə ˈlændˌskeɪp ˈraɪt ˈnaʊ/",
+          "linking": [
+            "meteor is → 語末子音 /r/ が母音 /ɪ/ に連結 [ˈmɛtioʊɹ ɪz] メティオー イズ",
+            "is impacting → /z/ が /ɪ/ に連結 [ɪz ˈɪmpæktɪŋ] イズ インパクティング",
+            "the landscape → the は弱形 /ðə/"
+          ],
+          "kana": "ザ メティオー イズ インパクティング ザ ランドスケイプ ライト ナウ"
+        },
+        {
+          "en": "Our building design is impacting how players navigate the server.",
+          "ja": "私たちの建築設計がプレイヤーがサーバーをどのようにナビゲートするかに影響を与えています。",
+          "ipa": "/ˈaʊɚ ˈbɪldɪŋ dɪˈzaɪn ɪz ˈɪmpæktɪŋ ˈhaʊ ˈpleɪɚz ˈnævɪɡeɪt ðə ˈsɝvɚ/",
+          "linking": [
+            "building design → /ŋ/ が /d/ に後続（子音+子音）",
+            "design is → /n/ が /ɪ/ に連結 [dɪˈzaɪn ɪz] ディザイン イズ",
+            "is impacting → /z/ が /ɪ/ に連結 [ɪz ˈɪmpæktɪŋ] イズ インパクティング",
+            "the server → the は弱形 /ðə/"
+          ],
+          "kana": "アワー ビルディング ディザイン イズ インパクティング ハウ プレイヤーズ ナビゲイト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was impacting",
+      "ipa": "/wəz ˈɪmpæktɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper was impacting our base when we logged in.",
+          "ja": "私たちがログインしたとき、クリーパーが私たちのベースに衝撃を与えていました。",
+          "ipa": "/ðə ˈkripɚ wəz ˈɪmpæktɪŋ ˈaʊɚ ˈbeɪs ˈwɛn wi ˈlɑɡd ɪn/",
+          "linking": [
+            "creeper was → 語末子音 /r/ が母音 /ə/ に連結 [ˈkripɚ wəz] クリーパー ワズ",
+            "was impacting → /z/ が /ɪ/ に連結 [wəz ˈɪmpæktɪŋ] ワズ インパクティング",
+            "our base → /r/ が /b/ に後続（子音+子音）",
+            "when we → /n/ が /w/ に後続（子音+子音）"
+          ],
+          "kana": "ザ クリーパー ワズ インパクティング アワー ベイス ホェン ウィー ログド イン"
+        },
+        {
+          "en": "While we mined, the lava was impacting the tunnel walls.",
+          "ja": "採掘中、溶岩がトンネルの壁に衝撃を与えていました。",
+          "ipa": "/ˈwaɪl wi ˈmaɪnd ðə ˈlɑvə wəz ˈɪmpæktɪŋ ðə ˈtʌnəl ˈwɔlz/",
+          "linking": [
+            "mined the → /d/ が /ð/ に後続（子音+子音）、the は弱形 /ðə/",
+            "lava was → /ə/ + /w/ → 母音+子音で連結なし、was は弱形 /wəz/",
+            "was impacting → /z/ が /ɪ/ に連結 [wəz ˈɪmpæktɪŋ] ワズ インパクティング",
+            "impacting the → /ŋ/ が /ð/ に後続（子音+子音）、the は弱形 /ðə/"
+          ],
+          "kana": "ワイル ウィー マインド ザ ラヴァ ワズ インパクティング ザ タンネル ウォーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been impacting",
+      "ipa": "/həd bɪn ˈɪmpæktɪŋ/",
+      "examples": [
+        {
+          "en": "The falling debris had been impacting the structure for hours before it collapsed.",
+          "ja": "構造が崩壊する前に、落下する瓦礫が構造に数時間衝撃を与えていました。",
+          "ipa": "/ðə ˈfɔlɪŋ ˈdɛbris həd bɪn ˈɪmpæktɪŋ ðə ˈstrʌktʃɚ fər ˈaʊɚz bɪˈfoʊr ɪt kəˈlæpst/",
+          "linking": [
+            "falling debris → /ŋ/ が /d/ に後続（子音+子音）",
+            "debris had → /s/ が /h/ に後続（子音+子音）、had は弱形 /həd/",
+            "been impacting → /n/ が /ɪ/ に連結 [bɪn ˈɪmpæktɪŋ] ビン インパクティング",
+            "before it → /r/ が /ɪ/ に連結 [bɪˈfoʊr ɪt] ビフォア イット"
+          ],
+          "kana": "ザ フォリング デブリー ハド ビン インパクティング ザ ストラクチャー フォア アワーズ ビフォア イット コラプスト"
+        },
+        {
+          "en": "By the time we arrived, the asteroid had been impacting the landscape for days.",
+          "ja": "私たちが到着した時点で、小惑星は数日間風景に衝撃を与えていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈæstərɔɪd həd bɪn ˈɪmpæktɪŋ ðə ˈlændˌskeɪp fər ˈdeɪz/",
+          "linking": [
+            "time we → /m/ が /w/ に後続（子音+子音）",
+            "arrived the → /d/ が /ð/ に後続（子音+子音）、the は弱形 /ðə/",
+            "had been → /d/ が /b/ に後続（子音+子音）、had と been は弱形 /həd/ /bɪn/",
+            "been impacting → /n/ が /ɪ/ に連結 [bɪn ˈɪmpæktɪŋ] ビン インパクティング"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド ザ アステロイド ハド ビン インパクティング ザ ランドスケイプ フォア デイズ"
+        }
+      ]
     }
   ]
 }
