@@ -1,0 +1,227 @@
+{
+  "word": "dictate",
+  "pos": "動詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ˈdɪk.teɪt/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "dict(?:ate[sd]?|ated|ating)",
+  "meanings": [
+    "【動詞】…に命じる、…に指示を出す（…をしろと言う）",
+    "【動詞】…を口述する、話しながら相手に書き取らせる",
+    "【動詞】…を支配する、決定する（…の行方を決める）",
+    "【名詞】指令、命令"
+  ],
+  "examples": [
+    {
+      "en": "The terrain dictates where we must build our base.",
+      "ja": "地形がベースをどこに建てるかを決めている。",
+      "ipa": "/ðə tɛˈreɪn ˈdɪkteɪts wɛɚ wi məs̚ bɪld ə beɪs/",
+      "linking": [
+        "terrain - 第2音節が主ストレス、初音節 /tə/ に続く /t/ は連結点ではなく音節の区切り",
+        "must build - /t/ が未開放で /b/ の手前で詰まる /məs̚ bɪld/",
+        "build our - 語末子音 /d/ が弱形 /ə/ に連結 [bɪld ə] ビルダ"
+      ],
+      "kana": "ザ テレイン ディクテイツ ウェア ウィ マッビルダ ベイス"
+    },
+    {
+      "en": "The server admin dictates the rules for all players.",
+      "ja": "サーバー管理者がすべてのプレイヤー向けルールを指示する。",
+      "ipa": "/ðə ˈsɚvɚ ˈædmɪn ˈdɪkteɪts ðə ˈrulz fɚ ɔl ˈpleɪɚz/",
+      "linking": [
+        "the - 弱形 /ðə/ で、子音の前なので音節化しない",
+        "rules for - 語末 /z/ が次の弱形 /f/ に自然に流れる（語末 /z/ + 子音 /f/ だが、for は弱形 /fɚ/）",
+        "for all - 弱形 /fɚ/ が /ɔ/ に連なる、連結ではなく自然な流れ"
+      ],
+      "kana": "ザ サーヴァー アドミン ディクテイツ ザ ルーズ フォー オール プレイアーズ"
+    },
+    {
+      "en": "I'll dictate the building plan while you gather materials.",
+      "ja": "君が材料を集めている間に、建築計画を口述するよ。",
+      "ipa": "/aɪl ˈdɪkteɪt ðə ˈbɪldɪŋ ˈplæn waɪl ju ˈɡæðɚ məˈtɪɹiəlz/",
+      "linking": [
+        "I'll - /l/ で終わるが、次は /d/ で始まる子音のため連結しない /aɪl ˈdɪkteɪt/",
+        "dictate the - /t/ が弱形 /ðə/ の /ð/ に移行、子音-子音",
+        "you gather - /u/ が /ɡ/ に流れる、you は弱形で /ju/ から /jə/ に弱化することもあり"
+      ],
+      "kana": "アイル ディクテイト ザ ビルディング プラン ワイル ユー ギャザー マテリアルズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "dictate terms",
+      "ja": "条件を押し付ける、主導権を握る（相手の行動を支配する）",
+      "example": "The stronger faction dictates terms to the weaker one about trading resources.",
+      "example_ja": "強いファクションが弱いファクションに資源の取引条件を押し付ける。",
+      "ipa": "/ðə ˈstɹɑŋɡɚ ˈfækʃən ˈdɪkteɪts tɚmz tu ðə ˈwikɚ wʌn əˈbaʊt ˈtɹeɪdɪŋ ˈɹɛsɚsɪz/",
+      "linking": [
+        "stronger faction - /ɚ/ で終わる r-colored schwa、次の子音 /f/ に自然に流れる",
+        "dictates terms - /ts/ クラスター後の /tɚ/ に流れる、ターツ → 「タームズ」",
+        "terms to - 語末 /z/ が弱形 /tu/ の /t/ に流れ、連結というより自然な子音連接 [tɚmz tu] タームズ トゥ"
+      ],
+      "kana": "ザ ストロンガー ファクション ディクテイツ タームズ トゥ ザ ウィーカー ワン アバウト トレイディング リソーシズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "dictates",
+      "ipa": "/ˈdɪk.teɪts/",
+      "examples": [
+        {
+          "en": "The server admin dictates the building rules for the entire community.",
+          "ja": "サーバー管理者はコミュニティ全体のための建築ルールを指示する。",
+          "ipa": "/ðə ˈsɜrvɚ ˈædmɪn ˈdɪkteɪts ðə ˈbɪldɪŋ ˈrulz fɔr ðə ənˈtaɪɚ kəˈmjuːnəti/",
+          "kana": "ザ サーヴァー アドミン ディクテイツ ザ ビルディング ルールズ フォー ザ エンタイア コミュニティ",
+          "linking": [
+            "server admin — 語末 /ɚ/ が母音 /æ/ に流れ連結気味に発音される",
+            "admin dictates — 語末 /n/ が未開放で次の /d/ に先行し [ˈædmɪn̚ ˈdɪkteɪts]",
+            "dictates the — 語末 /ts/ が弱形 /ðə/ の /ð/ に先行",
+            "building rules — 語末 /ŋ/ が母音 /ɹ/ に連結 [ˈbɪldɪŋ ˈrulz] ビルディング ルールズ"
+          ]
+        },
+        {
+          "en": "The terrain dictates where we can safely build our base.",
+          "ja": "地形が、私たちが安全にベースを建てることができる場所を決定する。",
+          "ipa": "/ðə tɛˈreɪn ˈdɪkteɪts wɛɚ wi kæn ˈseɪfli bɪld ɑɚ ˈbeɪs/",
+          "kana": "ザ テレイン ディクテイツ ウェア ウィ キャン セイフリー ビルド アウア ベイス",
+          "linking": [
+            "terrain dictates — 語末 /n/ が未開放で /d/ に先行 [tɛˈreɪn̚ ˈdɪkteɪts]",
+            "dictates where — 語末 /ts/ が母音 /ɛ/ に連結し滑らかに発音される",
+            "we can — 母音 /i/ が子音 /k/ に連結 [wi kæn] ウィ キャン",
+            "can safely — 語末 /n/ が子音 /s/ に先行し未開放で発音される"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "dictated",
+      "ipa": "/ˈdɪk.teɪ.təd/",
+      "examples": [
+        {
+          "en": "The admin dictated new server rules before the season started.",
+          "ja": "管理者はシーズンが始まる前に新しいサーバールールを口述した。",
+          "ipa": "/ðə ˈædmɪn ˈdɪkteɪtəd nju ˈsɜrvɚ ˈrulz bɪˈfɔr ðə ˈsizən ˈstɑrtəd/",
+          "kana": "ザ アドミン ディクテイテッド ニュー サーヴァー ルールズ ビフォア ザ シーズン スターティド",
+          "linking": [
+            "admin dictated — 語末 /n/ が未開放で /d/ に先行 [ˈædmɪn̚ ˈdɪkteɪtəd]",
+            "dictated new — 語末 /d/ が母音 /n/ に連結 [ˈdɪkteɪtəd nju] ディクテイテッド ニュー",
+            "server rules — 語末 /r/ が母音 /r/ に流れて滑らかに発音される",
+            "the season — 弱形 /ðə/ が母音 /s/ に先行 [ðə ˈsizən] ザ シーズン"
+          ]
+        },
+        {
+          "en": "The mountain's location dictated our building strategy for the base.",
+          "ja": "その山の位置が、ベースのための私たちの建築戦略を決定していた。",
+          "ipa": "/ðə ˈmaʊntənz loʊˈkeɪʃən ˈdɪkteɪtəd ɑɚ ˈbɪldɪŋ stræˈtɛdʒi fɔr ðə ˈbeɪs/",
+          "kana": "ザ マウンテンズ ロケーション ディクテイテッド アウア ビルディング ストラテジー フォア ザ ベイス",
+          "linking": [
+            "mountain's location — 語末 /z/ が母音 /l/ に連結 [ˈmaʊntənz loʊˈkeɪʃən] マウンテンズ ロケーション",
+            "location dictated — 語末 /n/ が未開放で /d/ に先行 [loʊˈkeɪʃən̚ ˈdɪkteɪtəd]",
+            "dictated our — 語末 /d/ が母音 /aʊ/ に連結 [ˈdɪkteɪtəd ɑɚ] ディクテイテッド アウア",
+            "for the — 語末 /ɔr/ が弱形 /ðə/ に先行し the は /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "dictated",
+      "ipa": "/ˈdɪk.teɪ.təd/",
+      "examples": [
+        {
+          "en": "As dictated by the server rules, griefing was strictly prohibited.",
+          "ja": "サーバールールで指定されているように、グリーフィングは厳密に禁止されていました。",
+          "ipa": "/æz ˈdɪkteɪtəd baɪ ðə ˈsɜrvɚ ˈrulz ˈɡrifɪŋ wəz ˈstrɪktli ˌprəˈhɪbətəd/",
+          "kana": "アズ ディクテイテッド バイ ザ サーヴァー ルールズ グリーフィング ワズ ストリクトリー プロヒビティッド",
+          "linking": [
+            "As dictated — 語末 /z/ が /d/ に連結し滑らかに [æz ˈdɪkteɪtəd] アズ ディクテイテッド",
+            "dictated by — 語末 /d/ が母音 /b/ に連結 [ˈdɪkteɪtəd baɪ] ディクテイテッド バイ",
+            "by the — 母音 /aɪ/ が次の子音に続き、the は弱形 /ðə/",
+            "server rules — 語末 /ɚ/ から /r/ への流れが滑らか"
+          ]
+        },
+        {
+          "en": "Following the path dictated by the cave system, we explored the depths.",
+          "ja": "洞窟システムで指定されている道をたどって、私たちは深部を探索しました。",
+          "ipa": "/ˈfɑloʊɪŋ ðə pæθ ˈdɪkteɪtəd baɪ ðə ˈkeɪv ˈsɪstəm wi ɪkˈsplɔrd ðə ˈdɛpθs/",
+          "kana": "ファロウイング ザ パス ディクテイテッド バイ ザ ケイブ システム ウィ イクスプロアド ザ デプス",
+          "linking": [
+            "path dictated — 語末 /θ/ が未開放で /d/ に先行 [pæθ̚ ˈdɪkteɪtəd] パス ディクテイテッド",
+            "dictated by — 語末 /d/ が母音 /b/ に連結 [ˈdɪkteɪtəd baɪ]",
+            "the cave — 弱形 /ðə/ が母音 /k/ に先行 [ðə ˈkeɪv] ザ ケイブ",
+            "cave system — 語末 /v/ が子音 /s/ に先行し滑らかに発音される"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "dictating",
+      "ipa": "/ˈdɪk.teɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "By dictating clear rules upfront, we prevent conflicts and ensure smooth gameplay.",
+          "ja": "最初から明確なルールを指示することで、紛争を防ぎ、スムーズなゲームプレイを確保します。",
+          "ipa": "/baɪ ˈdɪkteɪtɪŋ ˈklɪr ˈrulz ˈʌpˌfrʌnt wi prɪˈvɛnt ˈkɑnflɪkts ənd ənˈʃɔr smuːð ˈɡeɪmˌpleɪ/",
+          "kana": "バイ ディクテイティング クリア ルールズ アップ フラント ウィ プリヴェント コンフリクツ アンド イン シュア スムース ゲイムプレイ",
+          "linking": [
+            "By dictating — 母音 /aɪ/ が子音 /d/ に連結 [baɪ ˈdɪkteɪtɪŋ] バイ ディクテイティング",
+            "dictating clear — 語末 /ŋ/ が母音 /k/ に連結 [ˈdɪkteɪtɪŋ ˈklɪr] ディクテイティング クリア",
+            "clear rules — 語末 /r/ が母音 /r/ に流れ滑らかに発音される",
+            "upfront we — 語末 /t/ が子音 /w/ に先行し未開放で発音 [ˈʌpˌfrʌnt̚ wi]"
+          ]
+        },
+        {
+          "en": "The redstone engineer dictating the contraption design made sure every detail was perfect.",
+          "ja": "装置デザインを指示するレッドストーンエンジニアは、すべての詳細が完璧であることを確認しました。",
+          "ipa": "/ðə ˈrɛdstoʊn ˌɛndʒɪˈnɪr ˈdɪkteɪtɪŋ ðə kənˈtræpʃən dɪˈzaɪn meɪd ʃɔr ˈɛvəri dɪˈteɪl wəz ˈpɝfɪkt/",
+          "kana": "ザ レッドストウン エンジニア ディクテイティング ザ コントラプション デザイン メード シュア エブリ ディテイル ワズ パーフェクト",
+          "linking": [
+            "engineer dictating — 語末 /r/ が子音 /d/ に先行し、/d/ の開始点へ流れる",
+            "dictating the — 語末 /ŋ/ が弱形 /ðə/ の /ð/ に先行 [ˈdɪkteɪtɪŋ ðə]",
+            "the contraption — 弱形 /ðə/ が母音 /k/ に先行 [ðə kənˈtræpʃən]",
+            "contraption design — 語末 /n/ が未開放で /d/ に先行 [kənˈtræpʃən̚ dɪˈzaɪn]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "dictates",
+      "ipa": "/ˈdɪk.teɪts/",
+      "examples": [
+        {
+          "en": "The server's dictates about PvP were strict and non-negotiable for all players.",
+          "ja": "PvPに関するサーバーの指令は、すべてのプレイヤーにとって厳密で交渉の余地がなかった。",
+          "ipa": "/ðə ˈsɜrvɚz ˈdɪkteɪts əˈbaʊt ˈpiːviːˈpiː wɚ ˈstrɪkt ənd ˌnɑnniˈɡoʊʃəbəl fɔr ɔl ˈpleɪɚz/",
+          "kana": "ザ サーヴァーズ ディクテイツ アバウト ピーヴィーピー ワー ストリクト アンド ノン ニゴシアブル フォア オール プレイアーズ",
+          "linking": [
+            "server's dictates — 語末 /z/ が子音 /d/ に先行し、/d/ は未開放で発音 [ˈsɜrvɚz̚ ˈdɪkteɪts]",
+            "dictates about — 語末 /ts/ が母音 /ə/ に連結 [ˈdɪkteɪts əˈbaʊt] ディクテイツ アバウト",
+            "about PvP — 語末 /t/ が子音 /p/ に先行し未開放で発音される",
+            "all players — 語末 /l/ が母音 /p/ に続き滑らかに流れる [ɔl ˈpleɪɚz] オール プレイアーズ"
+          ]
+        },
+        {
+          "en": "We must follow all the builder's dictates regarding construction materials and dimensions.",
+          "ja": "建築材料とサイズに関する、ビルダーのすべての指令に従う必要があります。",
+          "ipa": "/wi məs̚t ˈfɑloʊ ɔl ðə ˈbɪldɚz ˈdɪkteɪts rɪˈɡɑrdɪŋ kənˈstrʌkʃən məˈtɪriəlz ənd daɪˈmɛnʃənz/",
+          "kana": "ウィ マスト フォロウ オール ザ ビルダーズ ディクテイツ リガーディング コンストラクション マテリアルズ アンド ダイメンションズ",
+          "linking": [
+            "must follow — 語末 /t/ が子音 /f/ に先行し未開放で発音 [məs̚t ˈfɑloʊ] マスト フォロウ",
+            "follow all — 語末 /oʊ/ が母音 /ɔ/ に連結し滑らかに [ˈfɑloʊ ɔl] フォロウ オール",
+            "builder's dictates — 語末 /z/ が子音 /d/ に先行し未開放で発音される",
+            "dictates regarding — 語末 /ts/ が子音 /r/ に先行し、/r/ への流れが滑らか"
+          ]
+        }
+      ]
+    }
+  ]
+}
