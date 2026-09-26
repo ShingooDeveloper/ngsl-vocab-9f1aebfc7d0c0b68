@@ -76,6 +76,35 @@
       ]
     },
     {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "misunderstood",
+      "ipa": "/ˌmɪsənˈdɝstʊd/",
+      "examples": [
+        {
+          "en": "I have misunderstood the enchantment effects on weapons.",
+          "ja": "武器のエンチャント効果を誤解していた。",
+          "ipa": "/aɪ ˈhæv ˌmɪsənˈdɝstʊd ðə ɛnˈtʃɑntmənt ɪˈfɛkts ɑn ˈwɛpənz/",
+          "linking": [
+            "have は機能語で弱形 /əv/ に弱化する傾向",
+            "the は子音の前で弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ミスアンダースット ザ エンチャントメント イフェクツ アン ウェポンズ"
+        },
+        {
+          "en": "The coordinates had been misunderstood by the entire team.",
+          "ja": "座標がチーム全体に誤解されていた。",
+          "ipa": "/ðə koʊˈɔrdənəts hæd bɪn ˌmɪsənˈdɝstʊd baɪ ðə ɪnˈtaɪər ˈtim/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had の語末 /d/ は次の /b/ の前で未開放 [hæd̚]",
+            "entire の初頭は /ɪ/ で、by との境界は明確"
+          ],
+          "kana": "ザ コーディネイツ ハッド ビン ミスアンダースット バイ ザ エンタイアー ティーム"
+        }
+      ]
+    },
+    {
       "type": "present_participle",
       "label": "現在分詞・動名詞",
       "text": "misunderstanding",
@@ -129,6 +158,98 @@
             "misunderstands の /z/ と basic の /b/ は子音+子音で連結なし"
           ],
           "kana": "ディス プレイヤー ミスアンダースタンズ ベイシック サーヴァイバル ストラテジーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has misunderstood",
+      "ipa": "/həz ˌmɪsənˈdɝstʊd/",
+      "examples": [
+        {
+          "en": "I have misunderstood the redstone repeater delay this entire time.",
+          "ja": "レッドストーンリピーターのディレイを、ずっと誤解していた。",
+          "ipa": "/aɪ ˈhæv ˌmɪsənˈdɝstʊd ðə ˈrɛdstoʊn rɪˈpiːtər dɪˈleɪ ðɪs ənˈtaɪər ˈtaɪm/",
+          "linking": [
+            "have は機能語で弱形 /həv/ に弱化",
+            "the は子音の前で弱形 /ðə/",
+            "entire の初頭 /ɛ/ と the の語末の連結は明確"
+          ],
+          "kana": "アイ ハヴ ミスアンダースット ザ レッドストーン リピーター ディレイ ディス エンタイアー タイム"
+        },
+        {
+          "en": "We have misunderstood how enchantment levels affect damage.",
+          "ja": "エンチャントレベルがダメージにどう影響するか、誤解していた。",
+          "ipa": "/wi ˈhæv ˌmɪsənˈdɝstʊd haʊ ɛnˈtʃɑntmənt ˈlɛvəlz əˈfɛkt ˈdæmɪdʒ/",
+          "linking": [
+            "have は弱形 /həv/ に弱化",
+            "levels の語末 /z/ が affect の初頭 /ə/ に連結 [ˈlɛvəlz əˈfɛkt]",
+            "how の /aʊ/ は独立した元音"
+          ],
+          "kana": "ウィ ハヴ ミスアンダースット ハウ エンチャントメント レベルズ アフェクト ダメージ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had misunderstood",
+      "ipa": "/hæd ˌmɪsənˈdɝstʊd/",
+      "examples": [
+        {
+          "en": "By the time we found the stronghold, we had misunderstood the portal frame requirements.",
+          "ja": "要塞を見つけた時点で、ポータルフレームの要件を誤解していたことに気づいた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈstrɑŋhoʊld wi hæd ˌmɪsənˈdɝstʊd ðə ˈpoʊrtəl freɪm rɪˈkwaɪrməts/",
+          "linking": [
+            "by の語末 /aɪ/ と the の初頭 /ð/ は子音で始まるため連結なし",
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/ に弱化、次の /m/ の前で語末 /d/ は未開放 [hæd̚]"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド ザ ストロングホウルド ウィ ハッド ミスアンダースット ザ ポータル フレイム リクワイアメンツ"
+        },
+        {
+          "en": "She realized she had misunderstood the coordinates before mining down to the ore.",
+          "ja": "鉱石まで掘り下げる前に、座標を誤解していたことに気づいた。",
+          "ipa": "/ʃi rɪˈælaɪzd ʃi hæd ˌmɪsənˈdɝstʊd ðə koʊˈɔrdənəts bɪˈfɔr ˈmaɪnɪŋ ˈdaʊn tu ðə ˈɔr/",
+          "linking": [
+            "she had の /i/ /hæd/ は子音+子音で分かれる",
+            "had は弱形 /həd/、misunderstood の /m/ の前で未開放",
+            "the は弱形 /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "シー リアライズド シー ハッド ミスアンダースット ザ コーディネイツ ビフォア マイニング ダウン タ ザ オア"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been misunderstanding",
+      "ipa": "/həz bɪn ˌmɪsənˈdɝstændɪŋ/",
+      "examples": [
+        {
+          "en": "I have been misunderstanding how the mob spawning algorithm works.",
+          "ja": "モブのスポーンアルゴリズムがどう働くか、ずっと誤解し続けていた。",
+          "ipa": "/aɪ ˈhæv bɪn ˌmɪsənˈdɝstændɪŋ haʊ ðə ˈmoʊb ˈspɑːnɪŋ ˌælɡəˈrɪðəm wɝks/",
+          "linking": [
+            "have は弱形 /həv/、been の初頭 /b/ の前で [həv bɪn]",
+            "been は機能語で弱形 /bɪn/、次の /m/ に続く",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン ミスアンダースタンディング ハウ ザ モウブ スポーニング アルゴリザム ワークス"
+        },
+        {
+          "en": "Players have been misunderstanding the nether fortress coordinate system all along.",
+          "ja": "プレイヤーはずっとネザー要塞の座標システムを誤解し続けていた。",
+          "ipa": "/ˈpleɪərz ˈhæv bɪn ˌmɪsənˈdɝstændɪŋ ðə ˈnɛðər ˈfɔrtəs koʊˈɔrdənət ˈsɪstəm ɔl əˈlɔŋ/",
+          "linking": [
+            "have は弱形 /həv/、been に続く [həv bɪn]",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/",
+            "all の語末 /l/ と along の初頭 /ə/ は子音+母音で連結 [ɔːl əˈlɔŋ]"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン ミスアンダースタンディング ザ ネザー フォートレス コーディネイト システム オール アロング"
         }
       ]
     }
