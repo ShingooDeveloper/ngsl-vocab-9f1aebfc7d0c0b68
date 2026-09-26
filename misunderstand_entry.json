@@ -252,6 +252,67 @@
           "kana": "プレイヤーズ ハヴ ビン ミスアンダースタンディング ザ ネザー フォートレス コーディネイト システム オール アロング"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will misunderstand",
+      "ipa": "/wɪl ˌmɪsənˈdɝstænd/",
+      "examples": [
+        {
+          "en": "I'll misunderstand the nether coordinates and end up in the wrong dimension.",
+          "ja": "ネザーの座標を誤解して、間違ったディメンションに行ってしまうだろう。",
+          "ipa": "/aɪl ˌmɪsənˈdɝstænd ðə ˈnɛðər koʊˈɔrdənəts ənd ˈɛnd ʌp ɪn ðə ˈrɔŋ dɪˈmɛnʃən/",
+          "linking": [
+            "I'll の縮約形 (I will)。will の /w/ が弱化され、I /aɪ/ と合わさって /aɪl/ [アイル]",
+            "misunderstand の語末 /d/ は次の子音 /ð/ (the) の前で未開放 [ˌmɪsənˈdɝstæn̚d̚]",
+            "the は子音の前で弱形 /ðə/ [ザ]",
+            "and は弱形 /ən/ に弱化"
+          ],
+          "kana": "アイル ミスアンダースタンド ザ ネザー コーディネイツ エン エンド アップ イン ザ ロング ディメンション"
+        },
+        {
+          "en": "They will misunderstand the difficulty settings without proper explanation.",
+          "ja": "彼らは適切な説明なしに、難易度設定を誤解するだろう。",
+          "ipa": "/ðeɪ wɪl ˌmɪsənˈdɝstænd ðə ˈdɪfɪkəlti ˈsɛtɪŋz wɪðˈaʊt ˈproʊpər ɪkˈsplæneɪʃən/",
+          "linking": [
+            "will は機能語で弱形傾向。次の子音の前で /wəl/ [ウル] または /wɪl/ に軽く発音される",
+            "the は子音の前で弱形 /ðə/ [ザ]",
+            "without の /t/ と proper の /p/ は子音+子音で連結なし"
+          ],
+          "kana": "ザェイ ウィル ミスアンダースタンド ザ ディフィカルティ セッティングズ ウィザウト プロパー イクスプラネイション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have misunderstood",
+      "ipa": "/wɪl ˈhæv ˌmɪsənˈdɝstʊd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have misunderstood the redstone logic completely.",
+          "ja": "明日までに、レッドストーン回路をすっかり誤解していることだろう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪ wɪl ˈhæv ˌmɪsənˈdɝstʊd ðə ˈrɛdstoʊn ˈlɑdʒɪk kəmˈplitli/",
+          "linking": [
+            "will は弱形化。/wɪl/ → /wəl/ [ウル] に軽く発音される傾向",
+            "have は機能語で弱形 /ˈhæv/ → /əv/ または /ə/ [ハヴ] または [ア]",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "バイ タモロウ アイ ウィル ハヴ ミスアンダースット ザ レッドストーン ロジック カムプリートリー"
+        },
+        {
+          "en": "She will have misunderstood the meeting point by the time she arrives at the location.",
+          "ja": "彼女が到着するまでに、待ち合わせ地点を誤解していることだろう。",
+          "ipa": "/ʃi wɪl ˈhæv ˌmɪsənˈdɝstʊd ðə ˈmitɪŋ pɔɪnt baɪ ðə ˈtaɪm ʃi əˈraɪvz æt ðə loʊˈkeɪʃən/",
+          "linking": [
+            "will は弱形 /wəl/ に軽く発音される",
+            "have は弱形 /əv/ または /ə/ に弱化",
+            "the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "シー ウィル ハヴ ミスアンダースット ザ ミーティング ポイント バイ ザ タイム シー ア ライブズ エット ザ ロウ ケイション"
+        }
+      ]
     }
   ],
   "idioms": [
