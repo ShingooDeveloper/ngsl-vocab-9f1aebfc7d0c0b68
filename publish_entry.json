@@ -252,6 +252,96 @@
           "kana": "ザ ディベラパー ハド ビン パブリッシング アップデイツ エヴリ ウィック アンティル ザ プラジェクト エンデッド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has published",
+      "ipa": "/həz ˈpʌblɪʃt/",
+      "examples": [
+        {
+          "en": "We have published the new map design to the community.",
+          "ja": "私たちはコミュニティ向けに新しいマップデザインを公開しました。",
+          "ipa": "/wi həv ˈpʌblɪʃt ðə nu mæp dɪˈzaɪn tu ðə kəˈmjunəti/",
+          "linking": [
+            "have /həv/ は弱形に弱化",
+            "published の語末 /t/ が the の /ð/ に続く時、未開放 [pʌblɪʃt̚]",
+            "to は機能語なので弱形 /tə/ に弱化"
+          ],
+          "kana": "ウィ ハヴ パブリッシュド ザ ニュー マップ ディザイン タ ザ コミュニティ"
+        },
+        {
+          "en": "The developers have published three resource packs this week.",
+          "ja": "開発者たちは今週、3つのリソースパックを公開しました。",
+          "ipa": "/ðə dɪˈvɛləpɚz həv ˈpʌblɪʃt θri ˈrɛsɚs pæks ðɪs wik/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "have /həv/ は弱形に弱化",
+            "published の語末 /t/ が three の /θ/ に続く時、未開放 [pʌblɪʃt̚]"
+          ],
+          "kana": "ザ ディベラパーズ ハヴ パブリッシュド スリー レソース パックス ディス ウィック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had published",
+      "ipa": "/həd ˈpʌblɪʃt/",
+      "examples": [
+        {
+          "en": "By the time the server restarted, we had published all the new rules.",
+          "ja": "サーバーが再起動するまでに、私たちは新しいルールをすべて公開していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈsɝvɚ rɪˈstɑrtəd, wi həd ˈpʌblɪʃt ɔl ðə nu rulz/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化（複数回）",
+            "had は弱形 /həd/ に弱化",
+            "published の語末 /t/ が all の /ɔ/ に連結 [ˈpʌblɪʃtɔl]"
+          ],
+          "kana": "バイ ザ タイム ザ サーヴァー リスターティド ウィ ハド パブリッシュド オール ザ ニュー ルールズ"
+        },
+        {
+          "en": "Before the patch was released, the admins had published the changelog.",
+          "ja": "パッチがリリースされる前に、管理者たちは変更ログを公開していました。",
+          "ipa": "/bɪˈfɔr ðə pætʃ wəz rɪˈlist, ðə ˈædmɪnz həd ˈpʌblɪʃt ðə ˈtʃeɪndʒˌlɔg/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化（複数回）",
+            "was は弱形 /wəz/ に弱化",
+            "had は弱形 /həd/ に弱化"
+          ],
+          "kana": "ビフォー ザ パッチ ワズ リリースト ザ アドミンズ ハド パブリッシュド ザ チェンジログ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been publishing",
+      "ipa": "/həz bɪn ˈpʌblɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The developer has been publishing updates to the server every week.",
+          "ja": "開発者は毎週、サーバーにアップデートを公開し続けています。",
+          "ipa": "/ðə dɪˈvɛləpɚ həz bɪn ˈpʌblɪʃɪŋ ˈʌpdeɪts tu ðə ˈsɝvɚ ˈɛvri wik/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "has は弱形 /həz/ に弱化",
+            "been は弱形 /bɪn/ に弱化"
+          ],
+          "kana": "ザ ディベラパー ハズ ビン パブリッシング アップデイツ タ ザ サーヴァー エヴリ ウィック"
+        },
+        {
+          "en": "Players have been publishing their custom maps to the community for months.",
+          "ja": "プレイヤーたちは数ヶ月間、カスタムマップをコミュニティに公開し続けています。",
+          "ipa": "/ˈpleɪɚz həv bɪn ˈpʌblɪʃɪŋ ðɛr ˈkʌstəm mæps tu ðə kəˈmjunəti fɚ mʌnθz/",
+          "linking": [
+            "have は弱形 /həv/ に弱化",
+            "been は弱形 /bɪn/ に弱化",
+            "to は機能語なので弱形 /tə/ に弱化"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン パブリッシング ゼア カスタム マップス タ ザ コミュニティ ファー マンスズ"
+        }
+      ]
     }
   ],
   "idioms": []
