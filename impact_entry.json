@@ -404,6 +404,113 @@
           "kana": "バイ ザ タイム ウィー アライヴド ザ アステロイド ハド ビン インパクティング ザ ランドスケイプ フォア デイズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will impact",
+      "ipa": "/wɪl ˈɪmpækt/",
+      "examples": [
+        {
+          "en": "The next update will impact how we play the game significantly.",
+          "ja": "次のアップデートはゲームをプレイする方法に大きな影響を与えるでしょう。",
+          "ipa": "/ðə ˈnɛkst ˈʌpˌdeɪt wɪl ˈɪmpækt haʊ wi pleɪ ðə ɡeɪm sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "next update → /t/ が /ʌ/ に連結 [ˈnɛkst ˈʌpˌdeɪt] ネクスト アップデイト",
+            "update will → /t/ が /w/ に後続（子音+子音）",
+            "will impact → /l/ が /ɪ/ に連結 [wɪl ˈɪmpækt] ウィル インパクト",
+            "impact how → /t/ が /h/ に後続（子音+子音）"
+          ],
+          "kana": "ザ ネクスト アップデイト ウィル インパクト ハウ ウィー プレイ ザ ゲイム シグニフィカントリー"
+        },
+        {
+          "en": "Your building choices will impact the server's visual appearance.",
+          "ja": "あなたの建築の選択はサーバーの視覚的外観に影響を与えるでしょう。",
+          "ipa": "/jɔɚ ˈbɪldɪŋ ˈtʃɔɪsɪz wɪl ˈɪmpækt ðə ˈsɝvɚz ˈvɪʒuəl əˈpɪrəns/",
+          "linking": [
+            "your building → /r/ が /b/ に後続（子音+子音）",
+            "building choices → /ŋ/ が /tʃ/ に後続（子音+子音）",
+            "choices will → /z/ が /w/ に後続（子音+子音）",
+            "will impact → /l/ が /ɪ/ に連結 [wɪl ˈɪmpækt] ウィル インパクト",
+            "the server's → the は弱形 /ðə/"
+          ],
+          "kana": "ユァー ビルディング チョイシズ ウィル インパクト ザ サーバーズ ビジュアル アピアランス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be impacting",
+      "ipa": "/wɪl bi ˈɪmpæktɪŋ/",
+      "examples": [
+        {
+          "en": "The asteroid will be impacting the surface when we arrive at the scene.",
+          "ja": "私たちがシーンに到着するときに、小惑星は表面に衝撃を与えるでしょう。",
+          "ipa": "/ðə ˈæstərɔɪd wɪl bi ˈɪmpæktɪŋ ðə ˈsɝfɪs wɛn wi əˈraɪv æt ðə sin/",
+          "linking": [
+            "asteroid will → /d/ が /w/ に後続（子音+子音）",
+            "will be → /l/ が /b/ に後続（子音+子音）",
+            "be impacting → /i/ が /ɪ/ に連結 [bi ˈɪmpæktɪŋ] ビー インパクティング",
+            "the surface → the は弱形 /ðə/、/ə/ + /s/ 子音+子音で連結なし",
+            "when we → /n/ が /w/ に後続（子音+子音）",
+            "arrive at → /v/ が /æ/ に連結 [əˈraɪv æt] アライヴ アット"
+          ],
+          "kana": "ザ アステロイド ウィル ビー インパクティング ザ サーフィス ホェン ウィー アライヴ アット ザ シーン"
+        },
+        {
+          "en": "The new system will be impacting server performance during the test phase.",
+          "ja": "新しいシステムはテストフェーズ中にサーバーパフォーマンスに影響を与えるでしょう。",
+          "ipa": "/ðə nju ˈsɪstəm wɪl bi ˈɪmpæktɪŋ ˈsɝvɚ pərˈfɔrməns ˈdɪrɪŋ ðə ˈtɛst feɪz/",
+          "linking": [
+            "new system → /w/ が /s/ に後続（子音+子音）",
+            "system will → /m/ が /w/ に後続（子音+子音）",
+            "will be → /l/ が /b/ に後続（子音+子音）",
+            "be impacting → /i/ が /ɪ/ に連結 [bi ˈɪmpæktɪŋ] ビー インパクティング",
+            "impacting server → /ŋ/ が /s/ に後続（子音+子音）",
+            "the test → the は弱形 /ðə/"
+          ],
+          "kana": "ザ ニュー システム ウィル ビー インパクティング サーバー パフォーマンス ジュアリング ザ テスト フェイズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have impacted",
+      "ipa": "/wɪl həv ˈɪmpæktɪd/",
+      "examples": [
+        {
+          "en": "By next week, the changes will have impacted every player on the server.",
+          "ja": "来週までに、その変更はサーバー上のすべてのプレイヤーに影響を与えるでしょう。",
+          "ipa": "/baɪ ˈnɛkst wik ðə ˈtʃeɪndʒɪz wɪl həv ˈɪmpæktɪd ˈɛvri ˈpleɪɚ ɑn ðə ˈsɝvɚ/",
+          "linking": [
+            "next week → /t/ が /w/ に後続（子音+子音）",
+            "week the → /k/ が /ð/ に後続（子音+子音）、the は弱形 /ðə/",
+            "changes will → /z/ が /w/ に後続（子音+子音）",
+            "will have → /l/ が /h/ に後続（子音+子音）、have は弱形 /həv/",
+            "have impacted → /v/ が /ɪ/ に連結 [həv ˈɪmpæktɪd] ハヴ インパクティド",
+            "impacted every → /d/ が /ɛ/ に連結 [ˈɪmpæktɪd ˈɛvri] インパクティド エブリー",
+            "every player → /i/ が /p/ に後続（子音+子音）",
+            "player on → /r/ が /ɑ/ に後続（子音+子音）"
+          ],
+          "kana": "バイ ネクスト ウィーク ザ チェンジズ ウィル ハヴ インパクティド エブリー プレイヤー オン ザ サーバー"
+        },
+        {
+          "en": "They'll have impacted the gaming experience by the time they finish the update.",
+          "ja": "彼らがアップデートを終了するまでに、ゲーム体験に影響を与えるでしょう。",
+          "ipa": "/ðeɪl həv ˈɪmpæktɪd ðə ˈɡeɪmɪŋ ɪkˈspɪriəns baɪ ðə taɪm ðeɪ ˈfɪnɪʃ ðə ˈʌpˌdeɪt/",
+          "linking": [
+            "They'll have → they'll は縮約形 /ðeɪl/、/l/ が /h/ に後続（子音+子音）、have は弱形 /həv/",
+            "have impacted → /v/ が /ɪ/ に連結 [həv ˈɪmpæktɪd] ハヴ インパクティド",
+            "the gaming → the は弱形 /ðə/、/ə/ + /ɡ/ 子音+子音で連結なし",
+            "gaming experience → /ŋ/ が /ɪ/ に連結 [ˈɡeɪmɪŋ ɪkˈspɪriəns] ゲイミング エクスピリアンス",
+            "by the → /aɪ/ + /ð/、the は弱形 /ðə/",
+            "the time → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイル ハヴ インパクティド ザ ゲイミング エクスピリアンス バイ ザ タイム ゼイ フィニッシュ ザ アップデイト"
+        }
+      ]
     }
   ]
 }
