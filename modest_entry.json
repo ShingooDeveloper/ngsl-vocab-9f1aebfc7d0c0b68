@@ -45,6 +45,68 @@
       "kana": "ディスパイ(ッ) モダス ツールズ ヒー ビルト アン アメイズィング キャッスル"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more modest",
+      "ipa": "/ˈmɔɹ ˈmɑdəst/",
+      "examples": [
+        {
+          "en": "This base is more modest than hers.",
+          "ja": "このベースは彼女のより質素だ。",
+          "ipa": "[ðɪs ˈbeɪs ɪz ˈmɔɹ ˈmɑdəs̚t ðæn hɚz]",
+          "linking": [
+            "base の /s/ が is の /ɪ/ に連結 [ˈbeɪs ɪz] ベイシズ",
+            "is の /z/ が more の /m/ に続く（子音+子音）、is は弱形 /ɪz/",
+            "modest の /st/ の t は than の /ð/ の前で未開放 [ˈmɑdəs̚t ðæn] モダス ザン"
+          ],
+          "kana": "ディス ベイシズ モア マダス ザン ハーズ"
+        },
+        {
+          "en": "A more modest shelter needs fewer materials.",
+          "ja": "より質素なシェルターはより少ない資材で済む。",
+          "ipa": "[ə ˈmɔɹ ˈmɑdəs̚t ˈʃɛltɚ ˈnidz ˈfjuɚ məˈtɪɹiəlz]",
+          "linking": [
+            "a は弱形 /ə/ に弱化 [ə] ア",
+            "modest の /st/ の t は shelter の /ʃ/ の前で未開放 [ˈmɑdəs̚t ˈʃɛltɚ] マダス シェルター",
+            "shelter の語末 /ɚ/ がr-colored schwaで、needs の /n/ に続く（子音+子音）"
+          ],
+          "kana": "ア モア マダス シェルター ニーズ フューアー マテリアルズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most modest",
+      "ipa": "/ˈmoʊst ˈmɑdəst/",
+      "examples": [
+        {
+          "en": "His design is the most modest on the server.",
+          "ja": "彼のデザインはサーバー上で最も質素だ。",
+          "ipa": "[hɪz dɪˈzaɪn ɪz ðə ˈmoʊst ˈmɑdəst ɑn ðə ˈsɝvɚ]",
+          "linking": [
+            "His の /z/ が design の /d/ に続く（子音+子音）",
+            "design の語末 /n/ が is の /ɪ/ に連結 [dɪˈzaɪn ɪz] ディザイン イズ",
+            "is は弱形 /ɪz/ に弱化、the も弱形 /ðə/（ザ）[ɪz ðə] イズ ザ"
+          ],
+          "kana": "ヒズ ディザイン イズ ザ モウスト マダスト オン ザ サーバー"
+        },
+        {
+          "en": "The most modest house still provides full protection.",
+          "ja": "最も質素な家でも、完全な保護を提供する。",
+          "ipa": "[ðə ˈmoʊst ˈmɑdəst ˈhaʊs stɪl prəˈvaɪdz fʊl prəˈtɛkʃən]",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "modest の /st/ の t は house の /h/ の前で未開放 [ˈmɑdəst ˈhaʊs] マダス ハウス",
+            "house の /s/ が still の /s/ で連続（子音+子音）[ˈhaʊs stɪl] ハウス スティル"
+          ],
+          "kana": "ザ モウスト マダスト ハウス スティル プロヴァイズ フル プロテクション"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "be modest about",
@@ -59,5 +121,8 @@
       ],
       "kana": "シー イズ モダス ア バウ(ッ) ハー ビルディング スキルズ"
     }
+  ],
+  "tags": [
+    "Target 1400"
   ]
 }
