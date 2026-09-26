@@ -256,6 +256,100 @@
           "kana": "バイ ザ タイム ウィ ァライヴド ザ ウォーター ハド ビン アクセレレイティング アス ダウンストリーム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will accelerate",
+      "ipa": "/wɪl ækˈsɛl.ə.reɪt/",
+      "examples": [
+        {
+          "en": "I'll accelerate the minecart on the next slope.",
+          "ja": "次の斜面でマイニングカートを加速させます。",
+          "ipa": "/aɪl ækˈsɛl.ə.reɪt ðə ˈmɪnkɑrt ɑn ðə ˈnɛkst sloʊp/",
+          "linking": [
+            "I'll の末尾 /l/ が accelerate の /æ/ に連結 [aɪl ækˈsɛl-]「アイル アクセレレイト」",
+            "accelerate の末尾 /t/ が the に連結、the の弱形 /ðə/ で未開放 [ækˈsɛl.ə.reɪt̚ ðə]「アクセレレイト ザ」",
+            "next の末尾 /t/ が slope の /s/ に続く（子音+子音）で未開放 [ˈnɛks̚t sloʊp]「ネクスト スロープ」"
+          ],
+          "kana": "アイル アクセレレイト ザ ミンカート オン ザ ネクスト スロープ"
+        },
+        {
+          "en": "They'll accelerate the redstone signal through the circuit.",
+          "ja": "彼らはレッドストーン信号を回路を通じて加速させます。",
+          "ipa": "/ðeɪl ækˈsɛl.ə.reɪt ðə ˈrɛdstoʊn ˈsɪɡnəl θruː ðə ˈsɝkət/",
+          "linking": [
+            "They'll の末尾 /l/ が accelerate の /æ/ に連結 [ðeɪl ækˈsɛl-]「ゼイル アクセレレイト」",
+            "accelerate の末尾 /t/ が the に連結、the の弱形 /ðə/ で未開放 [ækˈsɛl.ə.reɪt̚ ðə]「アクセレレイト ザ」",
+            "through は /θruː/；the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ゼイル アクセレレイト ザ レッドストウン シグナル スルー ザ サーキット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be accelerating",
+      "ipa": "/wɪl bi ækˈsɛl.ə.reɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The cart will be accelerating down the track really fast!",
+          "ja": "カートはトラックを本当に速く加速して進みます！",
+          "ipa": "/ðə ˈkɑrt wɪl bi ækˈsɛl.ə.reɪtɪŋ daʊn ðə ˈtræk ˈrɪli fæst/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "will の末尾 /l/ が be の /b/ に連結しない（子音+子音で未開放）[wɪl bi]「ウィル ビー」",
+            "be の末尾 /i/ が accelerating の /æ/ に連結 [bi ækˈsɛl-]「ビー アクセレレイティング」",
+            "accelerating の末尾 /ŋ/ が down の /d/ に続く（鼻音+子音で未開放）[ɪŋ daʊn]「イング ダウン」"
+          ],
+          "kana": "ザ カート ウィル ビー アクセレレイティング ダウン ザ トラック リリー ファースト"
+        },
+        {
+          "en": "We'll be accelerating the water flow to wash the items away.",
+          "ja": "アイテムを流すために水の流れを加速させ続けます。",
+          "ipa": "/wil bi ækˈsɛl.ə.reɪtɪŋ ðə ˈwɔtər floʊ tu wɑʃ ðə ˈaɪtəmz əˈweɪ/",
+          "linking": [
+            "will の末尾 /l/ が be の /b/ に連結しない（子音+子音で未開放）[wɪl bi]「ウィル ビー」",
+            "be の末尾 /i/ が accelerating の /æ/ に連結 [bi ækˈsɛl-]「ビー アクセレレイティング」",
+            "accelerating の末尾 /ŋ/ が the の /ð/ に続く（鼻音+子音で未開放）[ɪŋ ðə]「イング ザ」",
+            "to は弱形 /tə/ [タ]；the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ウィル ビー アクセレレイティング ザ ウォーター フロー タ ウォッシュ ザ アイテムズ アウェイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have accelerated",
+      "ipa": "/wɪl həv ækˈsɛl.ə.reɪtəd/",
+      "examples": [
+        {
+          "en": "By next hour, we will have accelerated the entire project.",
+          "ja": "次の1時間までに、私たちはプロジェクト全体を加速させてしまっているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈaʊər wi wɪl həv ækˈsɛl.ə.reɪtəd ðə ɪnˈtaɪr ˈprɑdʒɛkt/",
+          "linking": [
+            "by は /baɪ/；next の末尾 /t/ が hour の /aʊ/ に連結 [ˈnɛks̚t ˈaʊ-]「ネクスト アウアー」",
+            "will の末尾 /l/ が have の /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の末尾 /v/ が accelerated の /æ/ に連結 [həv ækˈsɛl-]「ハヴ アクセレレイティッド」",
+            "the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "バイ ネクスト アウアー ウィ ウィル ハヴ アクセレレイティッド ザ インタイアー プロジェクト"
+        },
+        {
+          "en": "She will have accelerated all the mining carts by the end of the day.",
+          "ja": "彼女は1日の終わりまでにすべてのマイニングカートを加速させてしまっているでしょう。",
+          "ipa": "/ʃi wɪl həv ækˈsɛl.ə.reɪtəd ɔl ðə ˈmaɪnɪŋ ˈkɑrts baɪ ði ɛnd əv ðə ˈdeɪ/",
+          "linking": [
+            "will の末尾 /l/ が have の /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の末尾 /v/ が accelerated の /æ/ に連結 [həv ækˈsɛl-]「ハヴ アクセレレイティッド」",
+            "the は弱形 /ðə/ [ザ]；by は /baɪ/；the は母音の前で弱形 /ði/ [ジ]",
+            "end の末尾 /d/ が of の /ə/ に連結 [ɛnd əv]「エンド アヴ」"
+          ],
+          "kana": "シー ウィル ハヴ アクセレレイティッド オール ザ マイニング カーツ バイ ジ エンド アヴ ザ デイ"
+        }
+      ]
     }
   ],
   "idioms": [
