@@ -1,0 +1,472 @@
+{
+  "word": "confess",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/kənˈfɛs/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "confess(?:ed|es|ing)?",
+  "meanings": [
+    "【動詞】（秘密や罪を）白状する、告白する、打ち明ける",
+    "【動詞】（過ちや悪いことを）認める、否定できない事実を認める",
+    "【動詞】（宗教的に）懺悔する、罪の告白をする"
+  ],
+  "examples": [
+    {
+      "en": "I confess I used creative mode to build this castle.",
+      "ja": "正直に言うと、この城を作るのにクリエイティブモードを使いました。",
+      "ipa": "[aɪ kənˈfɛsaɪ ˈjuːzd ˈkriːeɪtɪv moʊd tə bɪld ðɪs ˈkæsl̩]",
+      "linking": [
+        "confess I → 語末子音 /s/ が母音 /aɪ/ に連結 [kənˈfɛsaɪ] カンフェサイ",
+        "to → 機能語は弱形 /tə/ に弱化 [tə] タ",
+        "this castle → castle は /l/ が音節的で [ˈkæsl̩] キャッスル（最後のルは弱い音節）"
+      ],
+      "kana": "アイ カンフェサイ ユーズド クリエイティヴ モード タ ビルド ディス キャッスル"
+    },
+    {
+      "en": "He confessed to stealing my diamonds yesterday.",
+      "ja": "彼は昨日、私のダイヤモンドを盗んだことを認めた。",
+      "ipa": "[hi kənˈfɛst tu ˈstilɪŋ maɪ ˈdaɪəˌmoʊndz ˈjɛstərˌdeɪ]",
+      "linking": [
+        "confessed to → confessed /t/ と to /t/ が連続し、/t/ は未開放気味で続く [kənˈfɛst̚ tu] カンフェスト トゥ",
+        "my diamonds → my /aɪ/ が diamonds の /d/ に自然に流れる [maɪ ˈdaɪə] マイ ダイア",
+        "yesterday → /ˈjɛs/ の /z/ は /t/ と /ɚ/ に挟まれフラップ化しやすい環境 [ˈjɛstɚˌdeɪ] イェスターデイ"
+      ],
+      "kana": "ヒ カンフェスト トゥ スティーリング マイ ダイアモンズ イェスターデイ"
+    },
+    {
+      "en": "She confesses everything to the moderator when caught.",
+      "ja": "彼女は見つかると、モデレーターに全て認める。",
+      "ipa": "[ʃi kənˈfɛsɪzˈɛvrɪθɪŋ tu ðə ˈmɑdərˌeɪtər wɛn kɔt]",
+      "linking": [
+        "confesses everything → 語末子音 /z/ が母音 /ɛ/ に連結 [kənˈfɛsɪzɛvrɪθɪŋ] カンフェシズ エヴリスィング",
+        "the moderator → the は弱形 /ðə/ で /m/ に連結 [ðə ˈmɑ] ザ マ（the は/ðə/で弱化）",
+        "when caught → when /ɛn/ 弱形時に /w/ の前で [wɛn kɔt] ウェン コット"
+      ],
+      "kana": "シ カンフェシズ エヴリスィング トゥ ザ マダレイター ウェン コット"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "confess to",
+      "ja": "（…を）認める、（…について）白状する",
+      "example": "I confess to griefing your redstone farm.",
+      "example_ja": "あなたのレッドストーン農場を壊したことを認めます。",
+      "ipa": "[aɪ kənˈfɛst tu ˈɡrifɪŋ jɔr ˈrɛdˌstoʊn fɑrm]",
+      "linking": [
+        "confess to → confess /s/ は to の /t/ とは異なるため、明確に分離 [kənˈfɛs tu] カンフェス トゥ",
+        "your redstone → your /jɔr/ が redstone /r/ に自然に繋がる [jɔr ˈrɛd] ヨア レッド"
+      ],
+      "kana": "アイ カンフェス トゥ グリーフィング ヨア レッドストウン ファーム"
+    },
+    {
+      "idiom": "confess one's sins",
+      "ja": "自分の罪・過ちを白状する、許しを求める",
+      "example": "After destroying the village, he confessed his sins by rebuilding it.",
+      "example_ja": "村を破壊した後、彼はそれを再建することで自分の過ちを認めた。",
+      "ipa": "[ˈæftər dɪsˈtɔɪɪŋ ðə ˈvɪlɪdʒ hi kənˈfɛst hɪz sɪnz baɪ riːbɪlˈdɪŋ ɪt]",
+      "linking": [
+        "the village → the /ðə/ は弱形で /v/ に連結 [ðə ˈvɪl] ザ ヴィル",
+        "his sins → his /z/ と sins /s/ は両方摩擦音で連結なし [hɪz sɪnz] ヒズ シンズ"
+      ],
+      "kana": "アフター ディストロイイング ザ ヴィリッジ ヒ カンフェスト ヒズ シンズ バイ リービルディング イット"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "confesses",
+      "ipa": "/kənˈfɛsɪz/",
+      "examples": [
+        {
+          "en": "She confesses everything to the moderator when caught.",
+          "ja": "彼女は見つかると、モデレーターに全て告白する。",
+          "ipa": "[ʃi kənˈfɛsɪzˈɛvrɪθɪŋ tu ðə ˈmɑdərˌeɪtər wɛn kɔt]",
+          "linking": [
+            "confesses everything → 語末子音 /z/ が母音 /ɛ/ に連結 [kənˈfɛsɪzɛvrɪθɪŋ]",
+            "to → 機能語は弱形 /tə/ に弱化",
+            "the moderator → the は弱形 /ðə/、moderator の /m/ に連結"
+          ],
+          "kana": "シ カンフェシズ エヴリスィング トゥ ザ マダレイター ウェン コット"
+        },
+        {
+          "en": "He always confesses to griefing if you ask him.",
+          "ja": "彼はいつも、グリーフィングをしたことを認める（聞かれたら）。",
+          "ipa": "[hi ˈɔlweɪz kənˈfɛsɪz tu ˈɡrifɪŋ ɪf ju æsk hɪm]",
+          "linking": [
+            "confesses to → 語末子音 /z/ と to の /t/ は異なる音素、明確に分離",
+            "to → 機能語は弱形 /tə/ に弱化",
+            "you ask → you /u/ が ask /æ/ と接近、自然に流れる"
+          ],
+          "kana": "ヒ オルウェイズ カンフェシズ トゥ グリーフィング イフ ユー アスク ヒム"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "confessed",
+      "ipa": "/kənˈfɛst/",
+      "examples": [
+        {
+          "en": "He confessed to destroying the nether portal.",
+          "ja": "彼はネザーポータルを破壊したことを認めた。",
+          "ipa": "[hi kənˈfɛst tu dɪsˈtɔɪɪŋ ðə ˈnɛðə ˈpoʊrtəl]",
+          "linking": [
+            "confessed to → confessed /t/ と to /t/ が連続、先の /t/ は未開放気味で続く [kənˈfɛst̚ tu]",
+            "the nether → the は弱形 /ðə/、nether の /n/ に連結",
+            "nether portal → portal の /l/ が音節的で [ˈpoʊrtəl̩]"
+          ],
+          "kana": "ヒ カンフェスト トゥ ディストロイング ザ ネッザー ポータル"
+        },
+        {
+          "en": "She confessed that she used commands.",
+          "ja": "彼女はコマンドを使ったことを認めた。",
+          "ipa": "[ʃi kənˈfɛst ðæt ʃi ˈjuːzd kəˈmændz]",
+          "linking": [
+            "confessed that → confessed /t/ と that /ð/ は異なる音素で分離 [kənˈfɛst ðæt]",
+            "that she → /t/ と /ʃ/ は接近するが音素的には分離",
+            "used commands → used /zd/ クラスター、commands の /k/ と分離"
+          ],
+          "kana": "シ カンフェスト ザット シ ユーズド コマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "confessed",
+      "ipa": "/kənˈfɛst/",
+      "examples": [
+        {
+          "en": "Having confessed his crimes, he rebuilt the village.",
+          "ja": "自分の罪を認めた後、彼は村を再建した。",
+          "ipa": "[ˈhævɪŋ kənˈfɛst hɪz kraɪmz hi riːbɪlt ðə ˈvɪlɪdʒ]",
+          "linking": [
+            "Having confessed → /ŋ/ と /k/ は異なり分離 [ˈhævɪŋ kənˈfɛst]",
+            "his crimes → his /z/ と crimes /k/ は異なり分離",
+            "the village → the は弱形 /ðə/、village の /v/ に連結"
+          ],
+          "kana": "ハヴィング カンフェスト ヒズ クライムズ ヒ リービルト ザ ヴィリッジ"
+        },
+        {
+          "en": "Once confessed, the player got banned from the server.",
+          "ja": "一度認めたら、そのプレイヤーはサーバーからバンされた。",
+          "ipa": "[wʌns kənˈfɛst ðə ˈpleɪər ɡɑt bænd frəm ðə ˈsɝvər]",
+          "linking": [
+            "Once confessed → once /s/ と confessed /k/ は異なり分離 [wʌns kənˈfɛst]",
+            "the player → the は弱形 /ðə/、player の /p/ に連結",
+            "from the → from の /m/ が the の母音に連結 [frəm ðə]"
+          ],
+          "kana": "ワンス カンフェスト ザ プレイヤー ガット バンド フラム ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "confessing",
+      "ipa": "/kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "Stop confessing your mistakes if you haven't been caught.",
+          "ja": "見つからなければ自分の間違いを認めるのをやめよ。",
+          "ipa": "[stɑp kənˈfɛsɪŋ jɔr mɪsˈteɪks ɪf ju ˈhævənt bɪn kɔt]",
+          "linking": [
+            "confessing your → confessing の /ŋ/ が your /j/ に自然に流れる [kənˈfɛsɪŋ jɔr]",
+            "your mistakes → your の /r/ が mistakes に流れるように聞こえる",
+            "haven't been → have /v/ と been /b/ の接近、haven't は弱化"
+          ],
+          "kana": "ストップ カンフェシング ユア ミステイクス イフ ユー ハヴント ビン コット"
+        },
+        {
+          "en": "He's confessing to stealing diamonds again.",
+          "ja": "彼はまたダイヤモンドを盗んだことを認めている。",
+          "ipa": "[hiz kənˈfɛsɪŋ tu ˈstilɪŋ ˈdaɪəˌmoʊndz əˈɡɛn]",
+          "linking": [
+            "He's confessing → He's /z/ と confessing /k/ は異なり分離 [hiz kənˈfɛsɪŋ]",
+            "confessing to → confessing の /ŋ/ が to /t/ に接近 [kənˈfɛsɪŋ tu]、to は弱形 /tə/",
+            "diamonds again → diamonds /z/ が again /ə/（弱形）に連結 [ˈdaɪəˌmoʊndz əˈɡɛn]"
+          ],
+          "kana": "ヒズ カンフェシング トゥ スティーリング ダイアモンズ アゲン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has confessed",
+      "ipa": "/həz kənˈfɛst/",
+      "examples": [
+        {
+          "en": "The player has confessed to griefing the spawn area.",
+          "ja": "そのプレイヤーはスポーンエリアを壊したことを告白した。",
+          "ipa": "[ðə ˈpleɪər həz kənˈfɛst tu ˈɡrifɪŋ ðə spoʊn ˈɛriə]",
+          "linking": [
+            "has confessed → has /əz/ (弱形) が confessed /k/ に連結 [həz kənˈfɛst] ハズ カンフェスト",
+            "confessed to → confessed /t/ と to /tə/ (弱形) が連続、先の /t/ は未開放 [kənˈfɛst̚ tə] カンフェスト タ",
+            "the spawn → the /ðə/ (弱形) が spawn /sp/ に連結 [ðə spoʊn] ザ スポウン"
+          ],
+          "kana": "ザ プレイヤー ハズ カンフェスト トゥ グリーフィング ザ スポウン エリア"
+        },
+        {
+          "en": "They have confessed all their crimes to the admin.",
+          "ja": "彼らはすべての犯罪をアドミンに告白した。",
+          "ipa": "[ðeɪ həv kənˈfɛst ɔl ðɛr kraɪmz tu ðə ˈædmɪn]",
+          "linking": [
+            "have confessed → have /əv/ (弱形) が confessed /k/ に連結 [həv kənˈfɛst] ハヴ カンフェスト",
+            "all their → all /l/ が their /ð/ に連結 [ɔl ðɛr] オル ザー",
+            "to the → to /tə/ (弱形) が the /ðə/ (弱形) に連続 [tə ðə] タ ザ"
+          ],
+          "kana": "ザイ ハヴ カンフェスト オール ザー クライムズ トゥ ザ アドミン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had confessed",
+      "ipa": "/həd kənˈfɛst/",
+      "examples": [
+        {
+          "en": "Before he got banned, he had confessed to using cheats.",
+          "ja": "バンされる前に、彼はチートを使ったことを認めていた。",
+          "ipa": "[bɪˈfɔr hi ɡɑt bænd hi həd kənˈfɛst tu ˈjuːzɪŋ tʃits]",
+          "linking": [
+            "had confessed → had /əd/ (弱形) が confessed /k/ に連結 [həd kənˈfɛst] ハド カンフェスト",
+            "confessed to → confessed /t/ と to /tə/ (弱形) の連続、先の /t/ は未開放気味 [kənˈfɛst̚ tə] カンフェスト タ",
+            "using cheats → using /ŋ/ が cheats /tʃ/ に接近、連結なし [ˈjuːzɪŋ tʃits] ユージング チーツ"
+          ],
+          "kana": "ビフォア ヒ ガット バンド ヒ ハド カンフェスト トゥ ユージング チーツ"
+        },
+        {
+          "en": "She had confessed everything before the server rollback happened.",
+          "ja": "サーバーロールバックが起こる前に、彼女はすべてを告白していた。",
+          "ipa": "[ʃi həd kənˈfɛst ˈɛvrɪθɪŋ bɪˈfɔr ðə ˈsɝvər ˈroʊlˌbæk ˈhæpənd]",
+          "linking": [
+            "had confessed → had /əd/ (弱形) が confessed /k/ に連結 [həd kənˈfɛst] ハド カンフェスト",
+            "confessed everything → confessed /t/ が everything /ɛ/ に連結 [kənˈfɛst ˈɛvrɪ] カンフェスト エヴリ",
+            "the server → the /ðə/ (弱形) が server /s/ に連結 [ðə ˈsɝ] ザ サーバー"
+          ],
+          "kana": "シ ハド カンフェスト エヴリスィング ビフォア ザ サーバー ロールバック ハプンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been confessing",
+      "ipa": "/həz bɪn kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "He has been confessing his mistakes all afternoon.",
+          "ja": "彼は午後ずっと自分の間違いを認めている。",
+          "ipa": "[hi həz bɪn kənˈfɛsɪŋ hɪz mɪsˈteɪks ɔl ˌæftərˈnuːn]",
+          "linking": [
+            "has been → has /əz/ (弱形) と been /ɪn/ (弱形) が連続 [həz bɪn] ハズ ビン",
+            "been confessing → been /n/ が confessing /k/ に連結 [bɪn kənˈfɛsɪŋ] ビン カンフェシング",
+            "confessing his → confessing /ŋ/ が his /h/ に接近、自然に流れる [kənˈfɛsɪŋ hɪz] カンフェシング ヒズ"
+          ],
+          "kana": "ヒ ハズ ビン カンフェシング ヒズ ミステイクス オール アフターヌーン"
+        },
+        {
+          "en": "They have been confessing to different griefs over the past hour.",
+          "ja": "彼らはこの1時間、様々な破壊行為を認め続けている。",
+          "ipa": "[ðeɪ həv bɪn kənˈfɛsɪŋ tu ˈdɪfərənt ˈɡrifs ˈoʊvər ðə pæst ˈaʊər]",
+          "linking": [
+            "have been → have /əv/ (弱形) と been /ɪn/ (弱形) が連続 [həv bɪn] ハヴ ビン",
+            "been confessing → been /n/ が confessing /k/ に連結 [bɪn kənˈfɛsɪŋ] ビン カンフェシング",
+            "the past → the /ðə/ (弱形) が past /p/ に連結 [ðə pæst] ザ パスト"
+          ],
+          "kana": "ザイ ハヴ ビン カンフェシング トゥ ディファレント グリーフス オーヴァー ザ パスト アワー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is confessing",
+      "ipa": "/ɪz kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "He is confessing to griefing the spawn area right now.",
+          "ja": "彼は今、スポーンエリアを壊したことを告白している。",
+          "ipa": "[hi ɪz kənˈfɛsɪŋ tu ˈɡrifɪŋ ðə spoʊn ˈɛriə ˈraɪt naʊ]",
+          "linking": [
+            "is confessing → is /ɪz/ (弱形) が confessing /k/ に連結 [ɪz kənˈfɛsɪŋ] イズ カンフェシング",
+            "confessing to → confessing /ŋ/ が to /t/ に接近、to は弱形 /tə/ [kənˈfɛsɪŋ tə] カンフェシング タ",
+            "the spawn → the /ðə/ (弱形) が spawn /sp/ に連結 [ðə spoʊn] ザ スポウン"
+          ],
+          "kana": "ヒ イズ カンフェシング トゥ グリーフィング ザ スポウン エリア ライト ナウ"
+        },
+        {
+          "en": "The player is confessing her secret building location to the moderator.",
+          "ja": "そのプレイヤーはモデレーターに秘密の建造物の位置を告白している。",
+          "ipa": "[ðə ˈpleɪər ɪz kənˈfɛsɪŋ hɚ ˈsikrət ˈbɪldɪŋ loʊˈkeɪʃən tu ðə ˈmɑdərˌeɪtər]",
+          "linking": [
+            "player is → player /r/ が is /ɪ/ に連結 [ˈpleɪɚ ɪz] プレイアー イズ",
+            "is confessing → is /ɪz/ (弱形) が confessing /k/ に連結 [ɪz kənˈfɛsɪŋ] イズ カンフェシング",
+            "confessing her → confessing /ŋ/ が her /h/ に接近 [kənˈfɛsɪŋ hɚ] カンフェシング ハー、to は弱形 /tə/"
+          ],
+          "kana": "ザ プレイアー イズ カンフェシング ハー シークレット ビルディング ロケーション トゥ ザ マダレイター"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was confessing",
+      "ipa": "/wəz kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "She was confessing when the admin suddenly appeared.",
+          "ja": "管理者が突然現れた時、彼女は告白していた。",
+          "ipa": "[ʃi wəz kənˈfɛsɪŋ wɛn ðə ˈædmɪn ˈsʌdənli əˈpɪrd]",
+          "linking": [
+            "was confessing → was /wəz/ (弱形) が confessing /k/ に連結 [wəz kənˈfɛsɪŋ] ワズ カンフェシング",
+            "the admin → the /ðə/ (弱形) が admin /ə/ に連結し、dmin の /d/ は未開放 [ðə ˈæd̚] ザ アドミン",
+            "suddenly appeared → suddenly /li/ が appeared /ə/ に接近 [ˈsʌdənli əˈpɪrd] サドンリー アピアード"
+          ],
+          "kana": "シ ワズ カンフェシング ウェン ザ アドミン サドンリー アピアード"
+        },
+        {
+          "en": "They were confessing their crimes to each other for hours.",
+          "ja": "彼らは何時間も互いに自分たちの罪を認め続けていた。",
+          "ipa": "[ðeɪ wɚ kənˈfɛsɪŋ ðɛr kraɪmz tu itʃ ˈʌðɚ fɚ ˈaʊərz]",
+          "linking": [
+            "were confessing → were /wɚ/ (弱形) が confessing /k/ に連結 [wɚ kənˈfɛsɪŋ] ワー カンフェシング",
+            "confessing their → confessing /ŋ/ が their /ð/ に接近 [kənˈfɛsɪŋ ðɛr] カンフェシング ザェア",
+            "to each → to /tə/ (弱形) が each /iːtʃ/ に連結 [tə itʃ] タ イーチ、for は弱形 /fɚ/"
+          ],
+          "kana": "ザイ ワー カンフェシング ザェア クライムズ トゥ イーチ アザー ファー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been confessing",
+      "ipa": "/həd bɪn kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "He had been confessing to his friend for ten minutes before anyone noticed.",
+          "ja": "誰かが気づく前に、彼は友人に10分間告白し続けていた。",
+          "ipa": "[hi həd bɪn kənˈfɛsɪŋ tu hɪz frɛnd fɚ ˈtɛn ˈmɪnəts bɪˈfɔr ˈɛniˌwʌn ˈnoʊtɪst]",
+          "linking": [
+            "had been → had /əd/ (弱形) が been /b/ に連結 [həd bɪn] ハド ビン",
+            "been confessing → been /n/ が confessing /k/ に連結（鼻音継続） [bɪn kənˈfɛsɪŋ] ビン カンフェシング",
+            "confessing to → confessing /ŋ/ が to /t/ に接近、to は弱形 /tə/ [kənˈfɛsɪŋ tə] カンフェシング タ、before は弱形 /bɪˈfɔr/"
+          ],
+          "kana": "ヒ ハド ビン カンフェシング トゥ ヒズ フレンド ファー テン ミナッツ ビフォア エニワン ノウティスト"
+        },
+        {
+          "en": "By the time the server admin arrived, the players had been confessing their violations for hours.",
+          "ja": "サーバー管理者が到着した時までに、プレイヤーたちは彼らの違反行為を何時間も認め続けていた。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈsɝvər ˈædmɪn əˈraɪvd ðə ˈpleɪərz həd bɪn kənˈfɛsɪŋ ðɛr viːəˈleɪʃənz fɚ ˈaʊərz]",
+          "linking": [
+            "by the → by /baɪ/ が the /ðə/ (弱形) に接近 [baɪ ðə] バイ ザ",
+            "time の語末 /m/ が the に未開放で連続 [ˈtaɪm̚ ðə] タイム ザ",
+            "server admin → admin の /n/ が次の /ə/ に未開放 [ˈsɝvɚ ˈæd̚mɪn]",
+            "had been → had /əd/ (弱形) が been /b/ に連結 [həd bɪn] ハド ビン、been の /n/ が confessing /k/ に連結 [bɪn kənˈfɛsɪŋ]",
+            "confessing their → confessing /ŋ/ が their /ð/ に接近 [kənˈfɛsɪŋ ðɛr] カンフェシング ザェア"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー アドミン アライヴド ザ プレイアーズ ハド ビン カンフェシング ザェア ヴィオレーションズ ファー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will confess",
+      "ipa": "/wɪl kənˈfɛs/",
+      "examples": [
+        {
+          "en": "I'll confess to using duplication glitches next week.",
+          "ja": "来週、複製バグを使用したことを認めます。",
+          "ipa": "[aɪl kənˈfɛs tu ˈjuːzɪŋ ˌdupləˈkeɪʃən ˈɡlɪtʃɪz ˈnɛks wik]",
+          "linking": [
+            "I'll confess → I'll /l/ が confess /k/ に連結 [aɪl kənˈfɛs] アイル カンフェス",
+            "confess to → confess は /s/ で終わり、to は弱形 /tə/ に弱化 [kənˈfɛs tə] カンフェス タ",
+            "next week → next の /t/ が week の /w/ に未開放で接近 [ˈnɛks wik] ネクス ウィーク"
+          ],
+          "kana": "アイル カンフェス トゥ ユージング デュプリケイション グリッチズ ネクス ウィーク"
+        },
+        {
+          "en": "He will confess his griefing to the admin tomorrow.",
+          "ja": "彼は明日、グリーフィングを管理者に認めるでしょう。",
+          "ipa": "[hi wɪl kənˈfɛs hɪz ˈɡrifɪŋ tu ðə ˈædmɪn təˈmɑroʊ]",
+          "linking": [
+            "will confess → will は弱形 /wəl/ に弱化、/l/ が confess /k/ に連結 [wəl kənˈfɛs] ウル カンフェス",
+            "confess to → confess の /s/ が to の弱形 /tə/ と分離 [kənˈfɛs tə] カンフェス タ",
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ に弱化し連続 [tə ðə] タ ザ"
+          ],
+          "kana": "ヒ ウル カンフェス ヒズ グリーフィング タ ザ アドミン トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be confessing",
+      "ipa": "/wɪl bi kənˈfɛsɪŋ/",
+      "examples": [
+        {
+          "en": "By tonight, she will be confessing her secret base coordinates to the team.",
+          "ja": "今夜までに、彼女は秘密の基地座標をチームに告白しているでしょう。",
+          "ipa": "[baɪ təˈnaɪt ʃi wɪl bi kənˈfɛsɪŋ hɚ ˈsikrət beɪs ˈkoʊˌɔrdənɪts tu ðə tim]",
+          "linking": [
+            "will be → will は弱形 /wəl/、/l/ が be /b/ に連結、be も弱形 /bi/ [wəl bi] ウル ビー",
+            "be confessing → be /i/ が confessing /k/ に連結 [bi kənˈfɛsɪŋ] ビー カンフェシング",
+            "to the → to は弱形 /tə/ が the /ðə/ (弱形) に連続 [tə ðə] タ ザ"
+          ],
+          "kana": "バイ トゥナイト シ ウル ビー カンフェシング ハー シークレット ベイス コーディネイツ トゥ ザ ティーム"
+        },
+        {
+          "en": "They'll be confessing their crimes when the server investigation happens.",
+          "ja": "サーバー調査が起こるとき、彼らは自分たちの犯罪を認めているでしょう。",
+          "ipa": "[ðeɪl bi kənˈfɛsɪŋ ðɛr kraɪmz wɛn ðə ˈsɝvər ɪnˌvɛstəˈɡeɪʃən ˈhæpənz]",
+          "linking": [
+            "They'll be → They'll /l/ が be /b/ に連結、be も弱形 /bi/ [ðeɪl bi] ザイル ビー",
+            "be confessing → be /i/ が confessing /k/ に連結 [bi kənˈfɛsɪŋ] ビー カンフェシング",
+            "the server → the /ðə/ (弱形) が server /s/ に連結 [ðə ˈsɝ] ザ サーバー"
+          ],
+          "kana": "ザイル ビー カンフェシング ザェア クライムズ ウェン ザ サーバー インヴェスティゲイション ハプンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have confessed",
+      "ipa": "/wɪl həv kənˈfɛst/",
+      "examples": [
+        {
+          "en": "By the end of the month, I'll have confessed all my base locations.",
+          "ja": "月末までに、私は自分のベース位置をすべて告白しているでしょう。",
+          "ipa": "[baɪ ðə ˈɛnd əv ðə mʌnθ aɪl həv kənˈfɛst ɔl maɪ beɪs loʊˈkeɪʃənz]",
+          "linking": [
+            "I'll have → I'll /l/ が have /h/ に連結、have は弱形 /həv/ [aɪl həv] アイル ハヴ",
+            "have confessed → have /v/ が confessed /k/ に連結 [həv kənˈfɛst] ハヴ カンフェスト",
+            "of the → of は弱形 /əv/ が the /ðə/ (弱形) に連続 [əv ðə] アヴ ザ"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス アイル ハヴ カンフェスト オール マイ ベイス ロケーションズ"
+        },
+        {
+          "en": "They will have confessed everything before the ban vote happens.",
+          "ja": "バン投票が起こる前に、彼らはすべてを認めているでしょう。",
+          "ipa": "[ðeɪ wɪl həv kənˈfɛst ˈɛvrɪθɪŋ bɪˈfɔr ðə bæn voʊt ˈhæpənz]",
+          "linking": [
+            "will have → will は弱形 /wəl/、/l/ が have /h/ に連結、have も弱形 /həv/ [wəl həv] ウル ハヴ",
+            "have confessed → have /v/ が confessed /k/ に連結 [həv kənˈfɛst] ハヴ カンフェスト",
+            "the ban → the /ðə/ (弱形) が ban /b/ に連結 [ðə bæn] ザ バン"
+          ],
+          "kana": "ザイ ウル ハヴ カンフェスト エヴリスィング ビフォア ザ バン ボウト ハプンズ"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
+}
