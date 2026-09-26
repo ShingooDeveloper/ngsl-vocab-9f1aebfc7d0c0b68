@@ -204,6 +204,198 @@
           "kana": "ハビング ビン フラストレイティド バイ カウントレス アップデイツ メニー プレイヤーズ クウィット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is frustrating",
+      "ipa": "/ɪz ˈfrʌstreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The server lag is frustrating my attempts to build a massive castle.",
+          "ja": "サーバーラグは巨大な城を建築する私の試みをイライラさせています。",
+          "ipa": "/ðə ˈsɝːvər læɡ ɪz ˈfrʌstreɪtɪŋ maɪ əˈtɛmpts tu ˈbɪld ə ˈmæsɪv ˈkæsəl/",
+          "linking": [
+            "the は弱形 /ðə/。server に続く [ðə ˈsɝːvər] ザ サーバー",
+            "is は弱形 /ɪz/。frustrating に続く [ɪz ˈfrʌstreɪtɪŋ] イズ フラストレイティング",
+            "attempts の末尾 /s/ が to に続く（子音+子音）[əˈtɛmpts tə] アテンプツ タ",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ザ サーバー ラグ イズ フラストレイティング マイ アテンプツ タ ビルド ア マシヴ キャッセル"
+        },
+        {
+          "en": "Creepers are frustrating us by constantly destroying our redstone contraptions.",
+          "ja": "クリーパーは私たちのレッドストーン装置を絶えず破壊することで私たちをイライラさせています。",
+          "ipa": "/ˈkripərz ɑr ˈfrʌstreɪtɪŋ əs baɪ ˈkɑnstəntli dɪˈstrɔɪɪŋ ˈaʊər ˈrɛdˌstoʊn kənˈtræpʃənz/",
+          "linking": [
+            "Creepers の末尾 /z/ が are に連結 [ˈkripərz ɑr] クリーパーズ アー",
+            "are は弱形 /ɑr/。frustrating に続く [ɑr ˈfrʌstreɪtɪŋ] アー フラストレイティング",
+            "constantly の末尾 /li/ が destroying に続く（同じ音環境）[ˈkɑnstəntli dɪˈstrɔɪɪŋ] コンスタントリー ディストロイング",
+            "our の末尾 /r/ が redstone に連結 [ˈaʊər ˈrɛdˌstoʊn] アワー レッドストーン"
+          ],
+          "kana": "クリーパーズ アー フラストレイティング アス バイ コンスタントリー ディストロイング アワー レッドストーン コントラプションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was frustrating",
+      "ipa": "/wəz ˈfrʌstreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was frustrating my opponent with constant ambushes during the intense PvP battle.",
+          "ja": "激しいPvP戦の間、私は継続的な奇襲で相手をイライラさせていました。",
+          "ipa": "/aɪ wəz ˈfrʌstreɪtɪŋ maɪ əˈpoʊnənt wɪð ˈkɑnstənt ˈæmˌbʊʃɪz ˈdʊrɪŋ ðə ɪnˈtɛns ˈpiːviːˈpiː ˈbætəl/",
+          "linking": [
+            "was は弱形 /wəz/。frustrating に続く [wəz ˈfrʌstreɪtɪŋ] ワズ フラストレイティング",
+            "opponent の末尾 /t/ が with に未開放で続く [əˈpoʊnənt̚ wɪð] オポーネント ウィズ",
+            "ambushes の末尾 /z/ が during に続く（子音+子音）[ˈæmˌbʊʃɪz ˈdʊrɪŋ] アンブッシーズ デュリング",
+            "the は弱形 /ðə/。intense に続く [ðə ɪnˈtɛns] ザ インテンス"
+          ],
+          "kana": "アイ ワズ フラストレイティング マイ オポーネント ウィズ コンスタント アンブッシーズ デュリング ザ インテンス ピーブイピー バトル"
+        },
+        {
+          "en": "We were frustrating the mob farm spawn rates by mining near it all night.",
+          "ja": "私たちは一晩中モブファームの近くで採掘することでスポーン率をイライラさせていました。",
+          "ipa": "/wi wər ˈfrʌstreɪtɪŋ ðə ˈmoʊb ˈfɑrm ˈspoʊn reɪts baɪ ˈmaɪnɪŋ nɪr ɪt ɔːl ˈnaɪt/",
+          "linking": [
+            "were は弱形 /wər/。frustrating に続く [wər ˈfrʌstreɪtɪŋ] ワー フラストレイティング",
+            "the は弱形 /ðə/。mob に続く [ðə ˈmoʊb] ザ モウブ",
+            "it の末尾 /t/ が all に未開放で続く [ɪt̚ ɔːl] イット オール"
+          ],
+          "kana": "ウィー ワー フラストレイティング ザ モウブ ファーム スポウン レイツ バイ マイニング ニア イット オール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been frustrating",
+      "ipa": "/həd bɪn ˈfrʌstreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The persistent server lag had been frustrating players for weeks before the developers finally fixed it.",
+          "ja": "開発者がついに修正する前に、継続的なサーバーラグは数週間プレイヤーをイライラさせていました。",
+          "ipa": "/ðə pɚˈsɪstənt ˈsɝːvər læɡ həd bɪn ˈfrʌstreɪtɪŋ ˈpleɪərz fɔr wiks bɪˈfɔr ðə dɪˈvɛləpərz ˈfaɪnəli ˈfɪkst ɪt/",
+          "linking": [
+            "the は弱形 /ðə/。persistent に続く [ðə pɚˈsɪstənt] ザ パーシスタント",
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が frustrating に未開放で続く [bɪn̚ ˈfrʌstreɪtɪŋ] ビン フラストレイティング",
+            "for は弱形 /fɔr/。weeks に続く [fɔr wiks] フォー ウィークス"
+          ],
+          "kana": "ザ パーシスタント サーバー ラグ ハド ビン フラストレイティング プレイヤーズ フォー ウィークス ビフォア ザ ディベロッパーズ ファイナリー フィックスト イット"
+        },
+        {
+          "en": "We had been frustrating our enemies with clever tactics for the entire battle before they finally surrendered.",
+          "ja": "彼らがついに降伏する前に、私たちは戦闘全体を通じて巧妙な戦術で敵をイライラさせていました。",
+          "ipa": "/wi həd bɪn ˈfrʌstreɪtɪŋ ˈaʊɚ ˈɛnəmiz wɪð ˈklɛvɚ ˈtæktɪks fɔr ðə ɪnˈtaɪɚ ˈbætəl bɪˈfɔr ðeɪ ˈfaɪnəli sɚˈrɛndɚd/",
+          "linking": [
+            "had は弱形 /həd/。been に続く [həd bɪn] ハド ビン",
+            "been の末尾 /n/ が frustrating に未開放で続く [bɪn̚ ˈfrʌstreɪtɪŋ] ビン フラストレイティング",
+            "our の末尾 /ɚ/ が enemies に連結 [ˈaʊɚ ˈɛnəmiz] アワー エネミーズ",
+            "for は弱形 /fɔr/。the に続く [fɔr ðə] フォー ザ"
+          ],
+          "kana": "ウィー ハド ビン フラストレイティング アワー エネミーズ ウィズ クレヴァー タクティックス フォー ザ エンタイアー バトル ビフォア ザ ファイナリー サレンダード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has frustrated",
+      "ipa": "/həz ˈfrʌstreɪtɪd/",
+      "examples": [
+        {
+          "en": "Creeper explosions have frustrated my mining operations for days.",
+          "ja": "クリーパーの爆発は数日間、私の採掘作業をイライラさせています。",
+          "ipa": "/ˈkripər ɪkˈsploʊʒənz həv ˈfrʌstreɪtɪd maɪ ˈmaɪnɪŋ ɑpəˈreɪʃənz fɔr deɪz/",
+          "linking": [
+            "Creeper の /r/ が explosions に連結 [ˈkripər ɪkˈsploʊʒənz] クリーパー イクスプロージョンズ",
+            "explosions の /z/ が have に連結 [ɪkˈsploʊʒənz həv] イクスプロージョンズ ハヴ。have は弱形 /həv/",
+            "frustrated の /d/ が my に未開放で続く [ˈfrʌstreɪtɪd̚ maɪ] フラストレイティド マイ",
+            "operations の /z/ が for に連結 [ɑpəˈreɪʃənz fɔr] オペレーションズ フォー。for は弱形 /fɔr/"
+          ],
+          "kana": "クリーパー イクスプロージョンズ ハヴ フラストレイティド マイ マイニング オペレーションズ フォー デイズ"
+        },
+        {
+          "en": "Server crashes have frustrated the entire community all month.",
+          "ja": "サーバーのクラッシュは1ヶ月間、コミュニティ全体をイライラさせています。",
+          "ipa": "/ˈsɝːvər ˈkræʃɪz həv ˈfrʌstreɪtɪd ðə ɪnˈtaɪər kəˈmjuːnɪti ɔːl mʌnθ/",
+          "linking": [
+            "Server の /r/ が crashes に連結 [ˈsɝːvər ˈkræʃɪz] サーバー クラッシーズ",
+            "crashes の /z/ が have に連結 [ˈkræʃɪz həv] クラッシーズ ハヴ。have は弱形 /həv/",
+            "the → 弱形 /ðə/",
+            "entire の /r/ が community に連結 [ɪnˈtaɪər kəˈmjuːnɪti] インタイアー コミュニティ"
+          ],
+          "kana": "サーバー クラッシーズ ハヴ フラストレイティド ザ インタイアー コミュニティ オール マンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had frustrated",
+      "ipa": "/həd ˈfrʌstreɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the patch, the lag had frustrated our entire community.",
+          "ja": "パッチ前は、ラグはコミュニティ全体をイライラさせていました。",
+          "ipa": "/bɪˈfɔr ðə pætʃ ðə læɡ həd ˈfrʌstreɪtɪd ˈaʊər ɪnˈtaɪər kəˈmjuːnɪti/",
+          "linking": [
+            "Before の /r/ が the に連結 [bɪˈfɔr ðə] ビフォー ザ。the は弱形 /ðə/",
+            "patch の /tʃ/ が lag に続く（子音+子音）[pætʃ læɡ] パッチ ラグ",
+            "lag の /ɡ/ が had に続く（子音+子音）[læɡ həd] ラグ ハド。had は弱形 /həd/",
+            "entire の /r/ が community に連結 [ɪnˈtaɪər kəˈmjuːnɪti] インタイアー コミュニティ"
+          ],
+          "kana": "ビフォー ザ パッチ ザ ラグ ハド フラストレイティド アワー インタイアー コミュニティ"
+        },
+        {
+          "en": "By the time we respawned, the creeper explosions had frustrated our building progress.",
+          "ja": "私たちがリスポーンするまでに、クリーパーの爆発は私たちの建築進捗をイライラさせてしまいました。",
+          "ipa": "/baɪ ðə taɪm wi rɪˈspɔnd ðə ˈkripər ɪkˈsploʊʒənz həd ˈfrʌstreɪtɪd ˈaʊər ˈbɪldɪŋ ˈproɡrɛs/",
+          "linking": [
+            "by の /aɪ/ が the に続く（母音+子音）[baɪ ðə] バイ ザ。the は弱形 /ðə/",
+            "time の /m/ が we に続く（子音+子音）[taɪm wi] タイム ウィー",
+            "respawned の /d/ が the に未開放で続く [rɪˈspɔnd̚ ðə] リスポーンド ザ。the は弱形 /ðə/",
+            "explosions の /z/ が had に連結 [ɪkˈsploʊʒənz həd] イクスプロージョンズ ハド。had は弱形 /həd/",
+            "building の /ŋ/ が progress に続く（同じ音環境）[ˈbɪldɪŋ ˈproɡrɛs] ビルディング プログレス"
+          ],
+          "kana": "バイ ザ タイム ウィー リスポーンド ザ クリーパー イクスプロージョンズ ハド フラストレイティド アワー ビルディング プログレス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been frustrating",
+      "ipa": "/həz bɪn ˈfrʌstreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Mob spawners have been frustrating our excavation work all week.",
+          "ja": "モブスポーナーは1週間、私たちの採掘作業をイライラさせ続けています。",
+          "ipa": "/məb ˈspoʊnərz həv bɪn ˈfrʌstreɪtɪŋ ˈaʊər ˌɛkskəˈveɪʃən wɝk ɔːl wik/",
+          "linking": [
+            "Mob の /b/ が spawners に続く（子音+子音）[məb ˈspoʊnərz] モブ スポーナーズ",
+            "spawners の /z/ が have に連結 [ˈspoʊnərz həv] スポーナーズ ハヴ。have は弱形 /həv/",
+            "have been → have の弱形 /həv/ が been の弱形 /bɪn/ に続く [həv bɪn] ハヴ ビン",
+            "been の /n/ が frustrating に未開放で続く [bɪn̚ ˈfrʌstreɪtɪŋ] ビン フラストレイティング"
+          ],
+          "kana": "モブ スポーナーズ ハヴ ビン フラストレイティング アワー エクスカベーション ワーク オール ウィーク"
+        },
+        {
+          "en": "These resource glitches have been frustrating players since the update.",
+          "ja": "これらのリソースバグはアップデート以来、プレイヤーをイライラさせ続けています。",
+          "ipa": "/ðiz ˈrɛsɚs ɡlɪtʃɪz həv bɪn ˈfrʌstreɪtɪŋ ˈpleɪərz sɪns ðə ˈʌpˌdeɪt/",
+          "linking": [
+            "These の /z/ が resource に連結 [ðiz ˈrɛsɚs] ディーズ レソース",
+            "resource の /s/ が glitches に続く（子音+子音）[ˈrɛsɚs ɡlɪtʃɪz] レソース グリッチーズ",
+            "glitches の /z/ が have に連結 [ɡlɪtʃɪz həv] グリッチーズ ハヴ。have は弱形 /həv/",
+            "have been → have の弱形 /həv/ が been の弱形 /bɪn/ に続く [həv bɪn] ハヴ ビン"
+          ],
+          "kana": "ディーズ レソース グリッチーズ ハヴ ビン フラストレイティング プレイヤーズ シンス ザ アップデイト"
+        }
+      ]
     }
   ],
   "tags": [
