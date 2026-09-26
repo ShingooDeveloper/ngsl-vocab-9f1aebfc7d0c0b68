@@ -277,6 +277,102 @@
       ]
     },
     {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will inherit",
+      "ipa": "/wɪl ɪnˈhɛrɪt/",
+      "examples": [
+        {
+          "en": "I will inherit the admin role from our founder when he retires next year.",
+          "ja": "創設者が来年引退するとき、私は彼から管理者の役割を引き継ぎます。",
+          "ipa": "/aɪ wɪl ɪnˈhɛrɪt ðə ˈædmɪn roʊl frəm ˈaʊər ˈfaʊndər wɛn hi rɪˈtaɪərz ˈnɛkst ˈyɪər/",
+          "linking": [
+            "will inherit — will弱形/wɪl/がinherit/ɪ/に連結 [wɪl ɪnˈhɛrɪt]",
+            "the admin — the弱形/ðə/がadmin/æ/に先行（子音+子音）[ðə ˈædmɪn]",
+            "from our — from弱形/frəm/がour/ˈaʊ/に先行。鼻音+母音で流暢に接続 [frəm ˈaʊər]",
+            "when he — when/n/がhe弱形/hi/に連結 [wɛn hi]"
+          ],
+          "kana": "アイ ウィル インヘリット ザ アドミン ロウル フラム アワー ファウンダー ホェン ヒー リタイヤーズ ネクスト イアー"
+        },
+        {
+          "en": "They will inherit the vault's contents when the current leader steps down.",
+          "ja": "現在のリーダーが退職するとき、彼らはボールトの内容物を引き継ぎます。",
+          "ipa": "/ðeɪ wɪl ɪnˈhɛrɪt ðə ˈvɔːlts ˈkɑːntɛnts wɛn ðə ˈkɚənt ˈlidər stɛpz ˈdaʊn/",
+          "linking": [
+            "will inherit — will弱形/wɪl/がinherit/ɪ/に連結 [wɪl ɪnˈhɛrɪt]",
+            "the vault's — the弱形/ðə/がvault's/v/に先行 [ðə ˈvɔːlts]",
+            "when the — when/n/がthe弱形/ðə/に続く（子音+子音）[wɛn ðə]",
+            "steps down — 語末/ps/がdown/d/に子音+子音で続く [stɛpz ˈdaʊn]"
+          ],
+          "kana": "ゼイ ウィル インヘリット ザ ヴォールツ コンテンツ ホェン ザ カレント リーダー ステップズ ダウン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be inheriting",
+      "ipa": "/wɪl bi ɪnˈhɛrɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She will be inheriting the enchanted armor collection gradually as the items are transferred.",
+          "ja": "アイテムが転送されるにつれて、彼女は段階的に魔法のアーマーコレクションを引き継ぎます。",
+          "ipa": "/ʃi wɪl bi ɪnˈhɛrɪtɪŋ ðə ɪnˈtʃɑːntɪd ˈɑːrmər kəˈlɛkʃən ˈɡrædʒuəli əz ðə ˈaɪtəmz ɑːr ˈtrænsfɝd/",
+          "linking": [
+            "will be — will弱形/wɪl/がbe/b/に先行（子音+子音）[wɪl bi]",
+            "be inheriting — be弱形/bi/がinheriting/ɪ/に連結 [bi ɪnˈhɛrɪtɪŋ]",
+            "the enchanted — the弱形/ðə/がenchanted/ɪ/に先行 [ðə ɪnˈtʃɑːntɪd]",
+            "are transferred — 語末/r/がtransferred/t/に子音+子音で続く [ɑːr ˈtrænsfɝd]"
+          ],
+          "kana": "シー ウィル ビー インヘリティング ザ インチャンティド アーマー コレクション グラジュアリー アズ ザ アイテムズ アー トランスファード"
+        },
+        {
+          "en": "They'll be inheriting responsibility for the community projects over the next few weeks.",
+          "ja": "彼らは次の数週間で、コミュニティプロジェクトの責任を段階的に引き継ぎます。",
+          "ipa": "/ðeɪl bi ɪnˈhɛrɪtɪŋ rɪˈspɑːnsəbɪləti fɚ ðə kəˈmjuːnɪti ˈprɑːdʒɛkts ˈoʊvər ðə ˈnɛkst ˈfju ˈwikz/",
+          "linking": [
+            "They'll be — they弱形/ðeɪ/とwill弱形/wɪl/で'll contraction。be/b/に先行（子音+子音）[ðeɪl bi]",
+            "be inheriting — be弱形/bi/がinheriting/ɪ/に連結 [bi ɪnˈhɛrɪtɪŋ]",
+            "for the — for弱形/fɚ/がthe弱形/ðə/に続く（子音+子音）[fɚ ðə]",
+            "the community — the弱形/ðə/がcommunity/k/に先行（子音+子音）[ðə kəˈmjuːnɪti]"
+          ],
+          "kana": "ゼイル ビー インヘリティング レスポンサビリティ ファー ザ コミュニティ プロジェクツ オウバー ザ ネクスト フュー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have inherited",
+      "ipa": "/wɪl həv ɪnˈhɛrɪtɪd/",
+      "examples": [
+        {
+          "en": "By next season, he will have inherited all the building techniques from the original architect.",
+          "ja": "来シーズンまでに、彼は元の建築家からすべての建築技法を引き継いでいるでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈsiːzən | hi wɪl həv ɪnˈhɛrɪtɪd ˈɔl ðə ˈbɪldɪŋ tɛkˈnikz frəm ðə əˈrɪdʒənəl ˈɑːrkɪtɛkt/",
+          "linking": [
+            "will have — will弱形/wɪl/がhave弱形/həv/に先行（子音+子音）[wɪl həv]",
+            "have inherited — have弱形/həv/がinherited/ɪ/に連結 [həv ɪnˈhɛrɪtɪd]",
+            "inherited all — 語末/d/がall/ɔ/に連結 [ɪnˈhɛrɪtɪd ˈɔl]",
+            "from the — from弱形/frəm/がthe弱形/ðə/に続く [frəm ðə]"
+          ],
+          "kana": "バイ ネクスト シーズン、ヒー ウィル ハヴ インヘリティド オール ザ ビルディング テクニークス フラム ザ オリジナル アーキテクト"
+        },
+        {
+          "en": "We'll have inherited the server's full resources and player database by our anniversary date.",
+          "ja": "私たちは記念日までに、サーバーの全リソースとプレイヤーデータベースを引き継いでいるでしょう。",
+          "ipa": "/wil həv ɪnˈhɛrɪtɪd ðə ˈsɝːvərz ˈfʊl ˈrɛsɚsɪz ənd ˈpleɪər ˈdeɪtəˌbeɪs baɪ ˈaʊər ˌænɪˈvɝːsəri ˈdeɪt/",
+          "linking": [
+            "We'll have — we弱形/wi/とwill弱形/wɪl/で'll contraction。have弱形/həv/に子音+子音で先行 [wil həv]",
+            "have inherited — have弱形/həv/がinherited/ɪ/に連結 [həv ɪnˈhɛrɪtɪd]",
+            "the server's — the弱形/ðə/がserver's/s/に先行（子音+子音）[ðə ˈsɝːvərz]",
+            "by our — by/b/がour/ˈaʊ/に先行（子音+子音）[baɪ ˈaʊər]"
+          ],
+          "kana": "ウィル ハヴ インヘリティド ザ サーバーズ フル リソーシーズ アン プレイヤー データベース バイ アワー アニバーサリー デイト"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形",
       "text": "has inherited",
