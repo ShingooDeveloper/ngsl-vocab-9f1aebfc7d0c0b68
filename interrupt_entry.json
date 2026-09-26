@@ -230,6 +230,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（動詞）",
+      "text": "is interrupting",
+      "ipa": "/ɪz ˌɪn.tə.ˈɹʌp.tɪŋ/",
+      "examples": [
+        {
+          "en": "A creeper is interrupting my peaceful mining right now.",
+          "ja": "クリーパーが今私の平和な採掘を邪魔しています。",
+          "ipa": "/ə ˈkɹiː.pɚ ɪz ˌɪn.tə.ˈɹʌp.tɪŋ maɪ ˈpiːs.fəl ˈmaɪ.nɪŋ ˈɹaɪt ˈnaʊ/",
+          "kana": "ア クリーパー イズ インタラプティング マイ ピースフル マイニング ライト ナウ",
+          "linking": [
+            "a → 弱形 /ə/ [ə ˈkɹiː] ア クリーパー",
+            "is → 弱形 /ɪz/ に弱化 [ɪz ˌɪn] イズ インタラプティング",
+            "my → 弱形 /maɪ/ [maɪ ˈpiːs] マイ ピースフル"
+          ]
+        },
+        {
+          "en": "You're interrupting our redstone door project.",
+          "ja": "あなたはレッドストーンドアのプロジェクトを邪魔しています。",
+          "ipa": "/jɔr ˌɪn.tə.ˈɹʌp.tɪŋ ˈaʊr ˈɹɛd.stoʊn ˈdɔr ˈprɑ.dʒɛkt/",
+          "kana": "ユアー インタラプティング アワー レッドストウン ドア プロジェクト",
+          "linking": [
+            "you're → 弱形 /jɔr/ [jɔr ˌɪn] ユアー インタラプティング",
+            "our → 弱形 /ˈaʊr/ [ˈaʊr ˈɹɛd] アワー レッドストウン",
+            "project → 末尾の /t/ が文末で未開放 [ˈdʒɛkt̚] プロジェクト"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（動詞）",
+      "text": "was interrupting",
+      "ipa": "/wəz ˌɪn.tə.ˈɹʌp.tɪŋ/",
+      "examples": [
+        {
+          "en": "A skeleton was interrupting us during the combat.",
+          "ja": "スケルトンが戦闘中に私たちを邪魔していました。",
+          "ipa": "/ə ˈskɛl.ɪ.tən wəz ˌɪn.tə.ˈɹʌp.tɪŋ ʌs ˈdʊɹ.ɪŋ ðə ˈkɑm.bæt/",
+          "kana": "ア スケリトン ワズ インタラプティング アズ ジュアリング ザ コンバット",
+          "linking": [
+            "a → 弱形 /ə/ [ə ˈskɛl] ア スケリトン",
+            "was → 弱形 /wəz/ [wəz ˌɪn] ワズ インタラプティング",
+            "us の /z/ が during に続く [ʌz ˈdʊɹ] アズ ジュアリング"
+          ]
+        },
+        {
+          "en": "I was interrupting the Ender Dragon when the fortress collapsed.",
+          "ja": "砦が崩壊したとき、エンダードラゴンを邪魔していました。",
+          "ipa": "/aɪ wəz ˌɪn.tə.ˈɹʌp.tɪŋ ðə ˈɛn.dɚ ˈdɹæɡ.ən wɛn ðə ˈfɔɹ.tɹɪs kəˈlæpst/",
+          "kana": "アイ ワズ インタラプティング ザ エンダー ドラゴン ウェン ザ フォートレス コラプスト",
+          "linking": [
+            "was → 弱形 /wəz/ [wəz ˌɪn] ワズ インタラプティング",
+            "the → 弱形 /ðə/ [ðə ˈɛn] ザ エンダー",
+            "dragon の /n/ が when に続く（子音+子音） [ˈæɡ.ən wɛn] ドラゴン ウェン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（動詞）",
+      "text": "had been interrupting",
+      "ipa": "/həd bɪn ˌɪn.tə.ˈɹʌp.tɪŋ/",
+      "examples": [
+        {
+          "en": "We had been interrupting the ritual for too long before we realized the danger.",
+          "ja": "危険に気付く前に、私たちは儀式を邪魔していました。",
+          "ipa": "/wi həd bɪn ˌɪn.tə.ˈɹʌp.tɪŋ ðə ˈɹɪ.tʃu.əl fɔr tu ˈlɔŋ bɪˈfɔr wi rɪˈæl.aɪzd ðə ˈdeɪn.dʒɚ/",
+          "kana": "ウィー ハド ビン インタラプティング ザ リチュアル フォア トゥー ロング ビフォア ウィー リアライズド ザ デンジャー",
+          "linking": [
+            "had → 弱形 /həd/ [həd bɪn] ハド ビン",
+            "been → 弱形 /bɪn/ に弱化 [bɪn ˌɪn] ビン インタラプティング",
+            "the → 弱形 /ðə/ [ðə ˈɹɪ] ザ リチュアル"
+          ]
+        },
+        {
+          "en": "The mobs had been interrupting our escape route all evening long.",
+          "ja": "モブたちは夜中ずっと私たちの逃げ道を邪魔していました。",
+          "ipa": "/ðə ˈmoʊbz həd bɪn ˌɪn.tə.ˈɹʌp.tɪŋ ˈaʊr ɪˈskeɪp ˈɹaʊt ɔl ˈiːv.nɪŋ ˈlɔŋ/",
+          "kana": "ザ モウブズ ハド ビン インタラプティング アワー エスケイプ ラウト オール イーブニング ロング",
+          "linking": [
+            "the → 弱形 /ðə/ [ðə ˈmoʊbz] ザ モウブズ",
+            "had → 弱形 /həd/ [həd bɪn] ハド ビン",
+            "our → 弱形 /ˈaʊr/ [ˈaʊr ɪˈskeɪp] アワー エスケイプ"
+          ]
+        }
+      ]
     }
   ],
   "tags": [
