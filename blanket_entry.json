@@ -395,6 +395,96 @@
           "kana": "ザ アッシュ ハド ビン ブラングキティング ザ エリア ビフォア ウィ ディスカバード ザ ストラクチャー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will blanket",
+      "ipa": "/wɪl ˈblæŋkɪt/",
+      "examples": [
+        {
+          "en": "Snow will blanket the entire biome by morning.",
+          "ja": "朝までに、雪がバイオーム全体を覆うでしょう。",
+          "ipa": "/snoʊ wɪl ˈblæŋkɪt ðə ənˈtaɪɚ ˈbaɪoʊm baɪ ˈmɔɹnɪŋ/",
+          "linking": [
+            "will blanket → willは主語と縮約（Snow 'll可）。willの語末 /l/ と blanketの /b/ の前で明確 [wɪl ˈblæŋkɪt]→「ウィル ブラングキット」",
+            "blanket the → 語末 /t/ が弱形theの /ə/ に連結、flappingで [ˈblæŋkɪɾə]→「ブラングキラ」",
+            "by morning → byは /baɪ/、morningは /ˈmɔɹnɪŋ/ [baɪ ˈmɔɹnɪŋ]→「バイ モーニング」"
+          ],
+          "kana": "スノウ ウィル ブラングキット ザ エンタイア バイオーム バイ モーニング"
+        },
+        {
+          "en": "Ash will blanket the sky when the volcano erupts.",
+          "ja": "火山が噴火するとき、灰が空を覆うでしょう。",
+          "ipa": "/æʃ wɪl ˈblæŋkɪt ðə skaɪ wɛn ðə vɑlˈkeɪnoʊ ɪˈɹʌpts/",
+          "linking": [
+            "Ash will → ashの語末 /ʃ/ と willの /w/ の前で明確 [æʃ wɪl]→「アッシュ ウィル」",
+            "will blanket → willの語末 /l/ と blanketの /b/ の前で明確 [wɪl ˈblæŋkɪt]→「ウィル ブラングキット」",
+            "the volcano → theは弱形 /ðə/ [ðə vɑlˈkeɪnoʊ]→「ザ ボルケーノ」"
+          ],
+          "kana": "アッシュ ウィル ブラングキット ザ スカイ ウェン ザ ボルケーノ イラプツ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be blanketing",
+      "ipa": "/wɪl bi ˈblæŋkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Snow will be blanketing the landscape when we return from the cave.",
+          "ja": "洞窟から戻るとき、雪が景観を覆っているだろう。",
+          "ipa": "/snoʊ wɪl bi ˈblæŋkɪtɪŋ ðə ˈlændˌskeɪp wɛn wi rɪˈtɚn frəm ðə ˈkeɪv/",
+          "linking": [
+            "will be → willは主語と縮約（Snow 'll可）。willの語末 /l/ と beの /b/ の前で明確 [wɪl bi]→「ウィル ビー」",
+            "be blanketing → beの語末 /i/ と blanketingの /b/ の前で境界が明確 [bi ˈblæŋkɪtɪŋ]→「ビー ブラングキティング」",
+            "from the → fromは弱形 /frəm/、theは弱形 /ðə/ [frəm ðə]→「フラム ザ」"
+          ],
+          "kana": "スノウ ウィル ビー ブラングキティング ザ ランドスケイプ ウェン ウィ リターン フラム ザ ケイブ"
+        },
+        {
+          "en": "Ash will be blanketing the End dimension as we battle the dragon.",
+          "ja": "ドラゴンと戦うとき、灰がエンド次元を覆っているだろう。",
+          "ipa": "/æʃ wɪl bi ˈblæŋkɪtɪŋ ðə ɛnd dɪˈmɛnʃən əz wi ˈbætəl ðə ˈdɹæɡən/",
+          "linking": [
+            "Ash will → ashの語末 /ʃ/ と willの /w/ の前で明確 [æʃ wɪl]→「アッシュ ウィル」",
+            "will be → willの語末 /l/ と beの /b/ の前で明確 [wɪl bi]→「ウィル ビー」",
+            "be blanketing → beの語末 /i/ と blanketingの /b/ の前で明確 [bi ˈblæŋkɪtɪŋ]→「ビー ブラングキティング」"
+          ],
+          "kana": "アッシュ ウィル ビー ブラングキティング ザ エンド ディメンション アズ ウィ バトル ザ ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have blanketed",
+      "ipa": "/wɪl həv ˈblæŋkɪtəd/",
+      "examples": [
+        {
+          "en": "Snow will have blanketed the entire field by the time we wake up at dawn.",
+          "ja": "夜明けに目覚めるまでに、雪がフィールド全体を覆っているだろう。",
+          "ipa": "/snoʊ wɪl həv ˈblæŋkɪtəd ðə ənˈtaɪɚ ˈfiːld baɪ ðə ˈtaɪm wi ˈweɪk ʌp æt dɔn/",
+          "linking": [
+            "will have → willは主語と縮約（Snow 'll可）。willの語末 /l/ と haveの /h/ の前で明確。have は弱形 /həv/ [wɪl həv]→「ウィル ハヴ」",
+            "have blanketed → haveの語末 /v/ と blanketedの /b/ の前で明確 [həv ˈblæŋkɪtəd]→「ハヴ ブラングキラッド」",
+            "by the time → theは弱形 /ðə/ [baɪ ðə ˈtaɪm]→「バイ ザ タイム」"
+          ],
+          "kana": "スノウ ウィル ハヴ ブラングキラッド ザ エンタイア フィールド バイ ザ タイム ウィ ウェイク アップ アッ ドーン"
+        },
+        {
+          "en": "Ash will have blanketed the entire biome by sunset if the volcano keeps erupting.",
+          "ja": "火山が噴き続ければ、日没までに灰がバイオーム全体を覆っているだろう。",
+          "ipa": "/æʃ wɪl həv ˈblæŋkɪtəd ðə ənˈtaɪɚ ˈbaɪoʊm baɪ ˈsʌnˌsɛt ɪf ðə vɑlˈkeɪnoʊ ˈkiːps ɪˈɹʌptɪŋ/",
+          "linking": [
+            "Ash will → ashの語末 /ʃ/ と willの /w/ の前で明確 [æʃ wɪl]→「アッシュ ウィル」",
+            "will have → willの語末 /l/ と haveの /h/ の前で明確。have は弱形 /həv/ [wɪl həv]→「ウィル ハヴ」",
+            "have blanketed → haveの語末 /v/ と blanketedの /b/ の前で明確 [həv ˈblæŋkɪtəd]→「ハヴ ブラングキラッド」"
+          ],
+          "kana": "アッシュ ウィル ハヴ ブラングキラッド ザ エンタイア バイオーム バイ サンセット イフ ザ ボルケーノ キープス イラプティング"
+        }
+      ]
     }
   ]
 }
