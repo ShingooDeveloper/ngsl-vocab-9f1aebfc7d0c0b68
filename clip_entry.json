@@ -215,6 +215,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has clipped",
+      "ipa": "/həz ˈklɪpt/",
+      "examples": [
+        {
+          "en": "I have clipped the vines from around the ancient ruins.",
+          "ja": "私は古代遺跡の周りからツタを切り取った。",
+          "ipa": "/aɪ həv ˈklɪpt ðə vaɪnz frəm əˈɹaʊnd ðə ˈeɪnʃənt ˈɹuːɪnz/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "clipped の /t/ が次の /ðə/ に続く",
+            "from は弱形 /frəm/ フラム"
+          ],
+          "kana": "アイ ハヴ クリップ ザ ヴァインズ フラム アラウンド ザ エインシェント ルーインズ"
+        },
+        {
+          "en": "He has clipped away the branches blocking the cave entrance.",
+          "ja": "彼は洞窟の入り口をふさいでいた枝を切り取った。",
+          "ipa": "/hi həz ˈklɪpt əˈweɪ ðə ˈbɹæntʃɪz ˈblɑkɪŋ ðə keɪv ˈɛntɹəns/",
+          "linking": [
+            "has は助動詞で弱形 /həz/",
+            "clipped away → /t/ が /ə/ に連結",
+            "the は子音前で弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー ハズ クリップ アウェイ ザ ブランチーズ ブロッキング ザ ケイヴ エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had clipped",
+      "ipa": "/həd ˈklɪpt/",
+      "examples": [
+        {
+          "en": "I had clipped the wires before the redstone circuit overheated.",
+          "ja": "レッドストーン回路が過熱する前に、私はワイヤーを切っていた。",
+          "ipa": "/aɪ həd ˈklɪpt ðə ˈwaɪɚz bɪˈfoɹ ðə ˈɹɛdˌstoʊn ˈsɚkɪt ˌoʊvɚˈhɛtɪd/",
+          "linking": [
+            "had は助動詞で弱形 /həd/",
+            "clipped の /t/ が次の /ðə/ に続く",
+            "before は弱形 /bɪˈfoɹ/"
+          ],
+          "kana": "アイ ハド クリップ ザ ワイアーズ ビフォー ザ レッドストウン サーキット オウバーヘッティド"
+        },
+        {
+          "en": "They had clipped the ivy covering the dungeon entrance before the creepers arrived.",
+          "ja": "クリーパーが到着する前に、彼らは地下牢の入り口を覆っていたツタを切っていた。",
+          "ipa": "/ðeɪ həd ˈklɪpt ðə ˈaɪvi ˈkʌvɚɪŋ ðə ˈdʌndʒən ˈɛntɹəns bɪˈfoɹ ðə ˈkɹipɚz əˈɹaɪvd/",
+          "linking": [
+            "had は助動詞で弱形 /həd/",
+            "clipped の /t/ が次の /ðə/ に続く",
+            "covering の /ŋ/ が /ðə/ に続く"
+          ],
+          "kana": "ゼイ ハド クリップ ザ アイビー カヴァリング ザ ダンジョン エントランス ビフォー ザ クリーパーズ アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been clipping",
+      "ipa": "/həz bɪn ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "He has been clipping vines all morning to clear this path.",
+          "ja": "彼は一午前中このパスを片付けるためにツタを切り続けている。",
+          "ipa": "/hi həz bɪn ˈklɪpɪŋ vaɪnz ɔl ˈmɔɹnɪŋ tə klɪɹ ðɪs pæθ/",
+          "linking": [
+            "has、been は助動詞で弱形 /həz/、/bɪn/",
+            "clipping vines → /ŋ/ が /v/ に続く",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ヒー ハズ ビン クリッピング ヴァインズ オール モーニング タ クリア ディス パス"
+        },
+        {
+          "en": "She has been clipping away at the obsidian walls for hours.",
+          "ja": "彼女は数時間、黒曜石の壁を切り続けている。",
+          "ipa": "/ʃi həz bɪn ˈklɪpɪŋ əˈweɪ æt ðə ɑbˈsɪdiən wɔlz fɚ ˈaʊɚz/",
+          "linking": [
+            "has、been は助動詞で弱形 /həz/、/bɪn/",
+            "clipping away → /ŋ/ が /ə/ に連結",
+            "for は弱形 /fɚ/ ファ"
+          ],
+          "kana": "シー ハズ ビン クリッピング アウェイ アッ ザ アプシディアン ウォールズ ファ アワーズ"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is clipping",
@@ -226,8 +316,8 @@
           "ipa": "/ʃi ɪz ˈklɪpɪŋ ðə vaɪnz ɔf ðə eɪnʃənt ˈtɛmpəl blɑks ɹaɪt naʊ/",
           "linking": [
             "is は助動詞で弱形 /ɪz/ イズ",
-            "clipping の /ŋ/ が /ðə/ に連結",
-            "ancient の /t/ が /ˈt/ に続く"
+            "vines off → 語末 /z/ が /ɔ/ に連結",
+            "ancient temple → /t/ が未開放で次の /t/ に続く"
           ],
           "kana": "シー イズ クリッピング ザ ヴァインズ オフ ザ エインシェント テンパル ブラックス ライト ナウ"
         },

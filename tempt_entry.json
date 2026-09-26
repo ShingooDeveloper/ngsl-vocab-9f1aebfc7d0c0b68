@@ -284,6 +284,96 @@
           "kana": "ザ グロウイング オア イズ テンプティング ァズ トゥー テイク トゥー メニー ウンネセサリー リスクス"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has tempted",
+      "ipa": "/həz ˈtɛmptəd/",
+      "examples": [
+        {
+          "en": "The hidden treasure has tempted many players to dig recklessly into deep caves.",
+          "ja": "その隠された宝は、多くのプレイヤーを無謀にも深い洞窟に掘り下げるよう誘惑してきた。",
+          "ipa": "/ðə ˈhɪdən ˈtrɛʒər həz ˈtɛmptəd ˈmɛni ˈpleɪərz tu ˈdɪɡ ˈrɛkləsli ˈɪntu ˈdip ˈkeɪvz/",
+          "linking": [
+            "treasure の末子音 /r/ が has の初音 /h/ に未開放で続く [ˈtrɛʒər̚ həz] トレジャー ハズ",
+            "has は助動詞で弱形 /həz/",
+            "players の末子音 /z/ が to の初音 /t/ に未開放で続く [ˈpleɪərz̚ tu]"
+          ],
+          "kana": "ザ ヒデン トレジャー ハズ テンプティド メニー プレイヤーズ トゥー ディグ レックレスリー イントゥー ディープ ケイヴズ"
+        },
+        {
+          "en": "We have tempted the Wither twice now, and each time it nearly destroyed our base.",
+          "ja": "これまでにウィザーを2回誘惑してきたが、その度に基地がほぼ破壊されかけた。",
+          "ipa": "/wi həv ˈtɛmptəd ðə ˈwɪðər ˈtwaɪs ˈnaʊ ənd ˈiːtʃ ˈtaɪm ɪt ˈnɪrli dɪˈstrɔɪd ɑr ˈbeɪs/",
+          "linking": [
+            "We は代名詞で通常形 /wi/、have は助動詞で弱形 /həv/",
+            "wither の末子音 /r/ が twice の初音 /t/ に未開放で続く [ˈwɪðər̚ ˈtwaɪs]",
+            "time の末子音 /m/ が it の初音 /ɪ/ に未開放で続く [ˈtaɪm̚ ɪt]"
+          ],
+          "kana": "ウィー ハヴ テンプティド ザ ウィザー トワイス ナウ アンド イーチ タイム イット ニアリー デストロイド アー ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had tempted",
+      "ipa": "/həd ˈtɛmptəd/",
+      "examples": [
+        {
+          "en": "Before the expert arrived, the glowing diamonds had tempted the novice into the lava pit.",
+          "ja": "専門家が到着する前に、光るダイヤモンドはその初心者を溶岩ピットに誘惑していた。",
+          "ipa": "/bɪˈfɔr ðə ˈɛkspərt əˈraɪvd ðə ˈɡloʊɪŋ ˈdaɪməndz həd ˈtɛmptəd ðə ˈnoʊvəs ˈɪntu ðə ˈlɑvə ˈpɪt/",
+          "linking": [
+            "diamonds の末子音 /z/ が had の初音 /h/ に未開放で続く [ˈdaɪməndz̚ həd] ダイモンズ ハド",
+            "had は助動詞で弱形 /həd/",
+            "novice の末子音 /s/ が into の初音 /ɪ/ に未開放で続く [ˈnoʊvəs̚ ˈɪntu]"
+          ],
+          "kana": "ビフォア ザ エクスパート ァライヴド ザ グロウイング ダイモンズ ハド テンプティド ザ ノービス イントゥー ザ ラーバ ピット"
+        },
+        {
+          "en": "The mysterious end portal had tempted our entire group for weeks before anyone dared enter.",
+          "ja": "その不可思議なエンドポータルは、誰かが入る勇気を出すまで、チーム全体を数週間誘惑し続けていた。",
+          "ipa": "/ðə mɪˈstɪriəs ˈɛnd ˈpɔrtəl həd ˈtɛmptəd ɑr ənˈtaɪr ˈɡrup fər ˈwiks bɪˈfɔr ˈɛniˌwən ˈdɛrd ˈɛntər/",
+          "linking": [
+            "portal の末子音 /l/ が had の初音 /h/ に連結 [ˈpɔrtəl həd] ポーテル ハド",
+            "had は助動詞で弱形 /həd/",
+            "weeks の末子音 /s/ が before の初音 /b/ に未開放で続く [ˈwiks̚ bɪˈfɔr]"
+          ],
+          "kana": "ザ ミステリアス エンド ポーテル ハド テンプティド アー エンタイア グループ ファー ウィークス ビフォア エニワン デアド エンター"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been tempting",
+      "ipa": "/həz bɪn ˈtɛmptɪŋ/",
+      "examples": [
+        {
+          "en": "That cave system has been tempting us to explore it all week, but it might have creepers.",
+          "ja": "その洞窟システムは1週間中、私たちを探索するよう誘惑し続けているが、クリーパーがいるかもしれない。",
+          "ipa": "/ðæt ˈkeɪv ˈsɪstəm həz bɪn ˈtɛmptɪŋ əs tu ɪkˈsplɔr ɪt ɔl ˈwik bət ɪt ˈmaɪt həv ˈkripərz/",
+          "linking": [
+            "system の末子音 /m/ が has の初音 /h/ に未開放で続く [ˈsɪstəm̚ həz]",
+            "has は助動詞で弱形 /həz/、been は弱形 /bɪn/",
+            "tempting の末子音 /ŋ/ が us の初音 /ə/（弱形）に未開放で続く [ˈtɛmptɪŋ əs]"
+          ],
+          "kana": "ザット ケイヴ システィム ハズ ビン テンプティング ァス トゥー エクスプロア イット オール ウィーク バット イット マイト ハヴ クリーパーズ"
+        },
+        {
+          "en": "The enchanted diamond armor has been tempting him to challenge the dragon for days.",
+          "ja": "そのエンチャント済みダイヤモンドアーマーは、ここ数日間、彼にドラゴンに挑戦するよう誘惑し続けている。",
+          "ipa": "/ðə ɪnˈtʃæntəd ˈdaɪmənd ˈɑrmər həz bɪn ˈtɛmptɪŋ ɪm tu tʃəˈlɛndʒ ðə ˈdræɡən fər ˈdeɪz/",
+          "linking": [
+            "armor の末子音 /r/ が has の初音 /h/ に未開放で続く [ˈɑrmər̚ həz]",
+            "has は助動詞で弱形 /həz/、been は弱形 /bɪn/",
+            "days の末子音 /z/ が文末で最終的に弱化"
+          ],
+          "kana": "ザ インチャンテッド ダイモンド アーマー ハズ ビン テンプティング イム トゥー チャレンジ ザ ドラゴン ファー デイズ"
+        }
+      ]
     }
   ]
 }
