@@ -280,6 +280,187 @@
           "kana": "エネミー モーブズ アヴ ビン インベイディング ザ ビリッジ スループット ディス シーズン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is invading",
+      "ipa": "/ɪz ɪnˈveɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither is invading our base at this very moment.",
+          "ja": "ウィザーが今この瞬間、私たちの基地に侵攻しています。",
+          "ipa": "/ðə ˈwɪðər ɪz ɪnˈveɪdɪŋ ˈaʊər ˈbeɪs æt ðɪs ˈvɛri ˈmoʊmənt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "Wither の末子音 /r/ が is の初子音 /ɪ/ に連結。流音が母音に連なる [ˈwɪðər ɪz ɪnˈveɪdɪŋ]",
+            "is は弱形 /ɪz/ に弱化し、invading の初子音 /ɪ/ に続く"
+          ],
+          "kana": "ザ ウィザー イズ インベイディング アワー ベイス アット ディス ベリー モウメント"
+        },
+        {
+          "en": "Zombie hordes are invading the village while we're preparing defenses.",
+          "ja": "ゾンビの群れが防御の準備をしている間、村に侵攻しています。",
+          "ipa": "/ˈzɑmbi ˈhɔrdz ɑr ɪnˈveɪdɪŋ ðə ˈvɪlɪdʒ waɪl wirz prɪˈpɛrɪŋ dɪˈfɛnsɪz/",
+          "linking": [
+            "hordes の末子音 /z/ が are の初母音 /ɑ/ に連結。摩擦音が母音に連なる [ˈhɔrdz ɑr]",
+            "are は弱形 /ɑr/ に弱化し、invading の初子音に続く",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゾンビー ホーディーズ アー インベイディング ザ ビリッジ ホワイル ウィアーズ プリペアリング ディフェンシーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was invading",
+      "ipa": "/wəz ɪnˈveɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The dragon was invading the End portal when we teleported away.",
+          "ja": "ドラゴンがエンドポータルを侵攻していた時、私たちはテレポートしました。",
+          "ipa": "/ðə ˈdræɡən wəz ɪnˈveɪdɪŋ ðə ˈɛnd ˈpɔrtəl wɛn wi ˈtɛləˌpɔrtɪd əˈweɪ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was は弱形 /wəz/ に弱化し、invading の初子音 /ɪ/ に続く。摩擦音から破裂音への移行 [wəz ɪnˈveɪdɪŋ] ワズ インベイディング"
+          ],
+          "kana": "ザ ドラゴン ワズ インベイディング ザ エンド ポータル ウェン ウィ テレポーティド アウェイ"
+        },
+        {
+          "en": "Creepers were invading our farm while we were underground mining.",
+          "ja": "クリーパーが私たちが地下採掘をしている間、ファームに侵攻していました。",
+          "ipa": "/ˈkripərz wɚ ɪnˈveɪdɪŋ ˈaʊər ˈfɑrm waɪl wi wɚ ˌʌndərˈɡraʊnd ˈmaɪnɪŋ/",
+          "linking": [
+            "Creepers の末子音 /z/ が were の初母音 /ɚ/ に連結 [ˈkripərz wɚ] クリーパーズ ワー",
+            "were は弱形 /wɚ/ に弱化し、invading の初子音に続く",
+            "while の末子音 /l/ が we の初母音 /wi/ に連結 [waɪl wi]"
+          ],
+          "kana": "クリーパーズ ワー インベイディング アワー ファーム ホワイル ウィ ワー アンダーグラウンド マイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been invading",
+      "ipa": "/həd bɪn ɪnˈveɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs had been invading the fortress for hours before we could stop them.",
+          "ja": "モブが何時間も砦に侵攻し続けていた後、やっと止められました。",
+          "ipa": "/ðə ˈmoʊbz həd bɪn ɪnˈveɪdɪŋ ðə ˈfɔrtəs fɔr ˈaʊərz bɪˈfɔr wi kʊd stɑp ðɛm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/ に弱化し、been の初子音 /b/ に続く。破裂音から破裂音への移行 [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/ に弱化し、invading の初子音に続く"
+          ],
+          "kana": "ザ モウブズ ハド ビン インベイディング ザ フォートッス フォー アワーズ ビフォア ウィ クッド ストップ ゼム"
+        },
+        {
+          "en": "By the time we reached the base, the Wither had been invading all morning.",
+          "ja": "基地に到着した時、ウィザーは朝中侵攻し続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ritʃt ðə ˈbeɪs ðə ˈwɪðər həd bɪn ɪnˈveɪdɪŋ ˈɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ × 2（time と base の前）",
+            "had は弱形 /həd/ に弱化し、been の初子音 /b/ に続く [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/ に弱化し、invading の初子音に続く"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチト ザ ベイス ザ ウィザー ハド ビン インベイディング オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will invade",
+      "ipa": "/wɪl ɪnˈveɪd/",
+      "examples": [
+        {
+          "en": "Hostile mobs will invade our base if we don't upgrade the defenses.",
+          "ja": "防御をアップグレードしないと、敵対的なモブが私たちの基地に侵攻します。",
+          "ipa": "/ˈhɑstəl ˈmɑbz wəl ɪnˈveɪd ˈaʊər ˈbeɪs ɪf wi ˈdoʊnt ˈʌpɡreɪd ðə dɪˈfɛnsɪz/",
+          "linking": [
+            "Mobs の末子音 /z/ が will (弱形 /wəl/) の初母音 /ə/ に連結 [ˈmɑbz wəl] モーブズ ウル",
+            "base の末子音 /s/ が if の初子音 /ɪ/ に続く（子音+子音、未開放 [ˈbeɪs̚ ɪf]）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ハースタル モーブズ ウル インベイド アワー ベイス イフ ウィ ドーント アップグレード ザ ディフェンシーズ"
+        },
+        {
+          "en": "They'll invade the village at sunset tomorrow.",
+          "ja": "彼らは明日の夕方、村に侵攻するでしょう。",
+          "ipa": "/ðeɪ əl ɪnˈveɪd ðə ˈvɪlɪdʒ æt ˈsʌnˌsɛt təˈmɑroʊ/",
+          "linking": [
+            "They'll は they + will の縮約。will は弱形 /əl/ に弱化し invade に続く [ðeɪ əl ɪnˈveɪd] ザイ ウル インベイド",
+            "the は弱形 /ðə/",
+            "sunset の to は弱形 /tə/"
+          ],
+          "kana": "ザイ ウル インベイド ザ ビリッジ アット サンセット タマロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be invading",
+      "ipa": "/wɪl bi ɪnˈveɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither will be invading our area while we're gathering supplies.",
+          "ja": "私たちが物資を集めている間、ウィザーが私たちのエリアに侵攻するでしょう。",
+          "ipa": "/ðə ˈwɪðər wɪl bi ɪnˈveɪdɪŋ ˈaʊər ˈɛriə waɪl wirz ˈɡæðərɪŋ səˈplaɪz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "Wither の末子音 /r/ が will の初子音 /w/ に続く（子音+子音、未開放 [ˈwɪðər wɪl]）",
+            "will は弱形 /wəl/ に弱化。be は /bi/ のまま。will と be は子音+子音で続く",
+            "we're は we + are の縮約。are は弱形 /ɚ/"
+          ],
+          "kana": "ザ ウィザー ウィル ビー インベイディング アワー エリア ホワイル ウィアーズ ギャザリング サプライズ"
+        },
+        {
+          "en": "Creepers will be invading the mining tunnels all night long.",
+          "ja": "クリーパーは一晩中、マイニング坑道に侵攻し続けるでしょう。",
+          "ipa": "/ˈkɹipərz wɪl bi ɪnˈveɪdɪŋ ðə ˈmaɪnɪŋ ˈtʌnəlz ˈɔl ˈnaɪt ˈlɔŋ/",
+          "linking": [
+            "Creepers の末子音 /z/ が will の初子音 /w/ に続く（子音+子音、未開放 [ˈkɹipərz wɪl]）",
+            "the は弱形 /ðə/",
+            "all の末子音 /l/ が night の初母音 /n/ に... wait、/n/ は子音なので連結しない。all /ɔl/ で詰まる [ˈɔl̚ ˈnaɪt]"
+          ],
+          "kana": "クリーパーズ ウィル ビー インベイディング ザ マイニング タンネルズ オール ナイト ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have invaded",
+      "ipa": "/wɪl həv ɪnˈveɪdɪd/",
+      "examples": [
+        {
+          "en": "By next week, the mobs will have invaded every corner of our settlement.",
+          "ja": "来週までに、モブは私たちの定住地のすべての隅に侵攻しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈwik ðə ˈmɑbz wɪl həv ɪnˈveɪdɪd ˈɛvri ˈkɔrnər əv ˈaʊər ˈsɛtəlmənt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "Mobs の末子音 /z/ が will の初子音 /w/ に続く（子音+子音、未開放 [ˈmɑbz wɪl]）",
+            "will は弱形 /wəl/ に弱化。have は弱形 /həv/ に弱化し、invaded の初子音に続く",
+            "of の末子音 /v/ が our の初母音 /aʊ/ に連結 [əv ˈaʊər] アヴ アワー"
+          ],
+          "kana": "バイ ネクスト ウィーク ザ モーブズ ウィル ハヴ インベイディド エブリ コーナー アヴ アワー セトルメント"
+        },
+        {
+          "en": "When we return from the Nether, the dragon will have invaded the main building.",
+          "ja": "ネザーから戻ったとき、ドラゴンは主要な建造物に侵攻しているでしょう。",
+          "ipa": "/wɛn wi rɪˈtɜrn ˈfrɑm ðə ˈnɛðər ðə ˈdræɡən wɪl həv ɪnˈveɪdɪd ðə ˈmeɪn ˈbɪldɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ × 3（Nether と dragon と main の前）",
+            "dragon の末子音 /n/ が will の初子音 /w/ に続く（子音+子音 [ˈdræɡən wɪl]）",
+            "will は弱形 /wəl/ に弱化。have は弱形 /həv/ に弱化し、invaded の初子音に続く"
+          ],
+          "kana": "ウェン ウィ リターン フロム ザ ネザー ザ ドラゴン ウィル ハヴ インベイディド ザ メイン ビルディング"
+        }
+      ]
     }
   ]
 }
