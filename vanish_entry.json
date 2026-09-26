@@ -55,5 +55,123 @@
       ],
       "kana": "ザ エンダーマン ヴァニシュト イントゥ シンエア"
     }
+  ],
+  "tags": [
+    "Target 1400"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "vanishes",
+      "ipa": "/ˈvænɪʃɪz/",
+      "examples": [
+        {
+          "en": "The zombie vanishes when it burns in sunlight.",
+          "ja": "ゾンビが日光に焼かれると消えてしまう。",
+          "ipa": "[ðə ˈzɑmbi ˈvænɪʃɪz wɛn ɪt̚ ˈbɜrnz ɪn ˈsʌnlaɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "it の語末 /t/ は未開放で詰まる（burns の /b/ の前で）"
+          ],
+          "kana": "ザ ザーンビ ヴァニシズ ウェン イッ バーンズ イン サンライト"
+        },
+        {
+          "en": "The creeper vanishes when you hit it.",
+          "ja": "クリーパーはあなたがそれを叩くと消える。",
+          "ipa": "[ðə ˈkripər ˈvænɪʃɪz wɛn jə ˈhɪt̚ ɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "you は弱形 /jə/",
+            "hit の語末 /t/ は未開放で詰まる"
+          ],
+          "kana": "ザ クリーパー ヴァニシズ ウェン ヤ ヒッ イット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "vanished",
+      "ipa": "/ˈvænɪʃt/",
+      "examples": [
+        {
+          "en": "The enderman vanished before I could hit it.",
+          "ja": "私が叩く前にエンダーマンが消えた。",
+          "ipa": "[ðə ˈɛndɚmæn ˈvænɪʃt bɪˈfɔr aɪ kəd ˈhɪt̚ ɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "could は弱形 /kəd/"
+          ],
+          "kana": "ザ エンダーマン ヴァニシュト ビフォア アイ クッド ヒッ イット"
+        },
+        {
+          "en": "My diamond vanished in the lava flow.",
+          "ja": "私のダイヤはマグマの流れで消えた。",
+          "ipa": "[maɪ ˈdaɪmənd ˈvænɪʃt ɪn ðə ˈlɑvə ˈfloʊ]",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "マイ ダイマンド ヴァニシュト イン ザ ラーヴァ フロー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "vanished",
+      "ipa": "/ˈvænɪʃt/",
+      "examples": [
+        {
+          "en": "The block that vanished was made of sand.",
+          "ja": "消えたそのブロックは砂でできていた。",
+          "ipa": "[ðə ˈblɑk ðət ˈvænɪʃt wəz ˈmeɪd əv ˈsænd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "that は弱形 /ðət/",
+            "was は弱形 /wəz/",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ザ ブロック ザット ヴァニシュト ワズ メイド アヴ サンド"
+        },
+        {
+          "en": "Items have vanished after sitting in the desert.",
+          "ja": "砂漠に置かれたアイテムは消えてしまった。",
+          "ipa": "[ˈaɪtəmz hæv ˈvænɪʃt ˈæftər ˈsɪtɪŋ ɪn ðə ˈdɛzərt]",
+          "linking": [
+            "after の語末 /r/ が初頭の /s/ に連結しない（子音+子音）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイテムズ ハーヴ ヴァニシュト アフター シッティング イン ザ デザート"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "vanishing",
+      "ipa": "/ˈvænɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Watch the potion effect vanishing slowly.",
+          "ja": "ポーション効果がゆっくり消えるのを見ている。",
+          "ipa": "[ˈwɑtʃ ðə poʊˈʃən ɪˈfɛkt ˈvænɪʃɪŋ ˈsloʊli]",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウォッチ ザ ポーション イフェクト ヴァニシング スロウリ"
+        },
+        {
+          "en": "The mobs vanishing under my farm is a big problem.",
+          "ja": "私のファームの下で消えるモブは大きな問題だ。",
+          "ipa": "[ðə ˈmɑbz ˈvænɪʃɪŋ ˈʌndər maɪ ˈfɑrm ɪz ə ˈbɪg ˈprɑbləm]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "a は弱形 /ə/"
+          ],
+          "kana": "ザ モーブズ ヴァニシング アンダー マイ ファーム イズ ア ビッグ プロブラム"
+        }
+      ]
+    }
   ]
 }
