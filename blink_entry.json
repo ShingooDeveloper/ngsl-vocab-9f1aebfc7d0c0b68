@@ -455,6 +455,41 @@
       ]
     },
     {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be blinking",
+      "ipa": "/wɪl bi ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The beacon will be blinking throughout the night to guide us home.",
+          "ja": "ビーコンは帰路を照らすために、夜通し点滅し続けるでしょう。",
+          "ipa": "[ðə ˈbiːkən wɪl bi ˈblɪŋkɪŋ θruːˈaʊt ðə naɪt tə ɡaɪd əs hoʊm]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "be の末尾 /i/ が blinking の /ˈ/ に続く（母音+子音で連結なし）",
+            "throughout の末尾 /t/ が the に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "to の末尾 /tə/（弱形）が guide に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ビーコン ウィル ビー ブリンキング スルーアウト ザ ナイト タ ガイド アス ホーム"
+        },
+        {
+          "en": "They'll be blinking the warning signal while we escape the lava.",
+          "ja": "私たちが溶岩から逃げている間、警告信号が点滅しているでしょう。",
+          "ipa": "[ðeɪl bi ˈblɪŋkɪŋ ðə ˈwɔrnɪŋ ˈsɪɡnəl waɪl wi ɪˈskeɪp ðə ˈlɑvə]",
+          "linking": [
+            "They'll は /ðeɪl/（they will の縮約）",
+            "be の末尾 /i/ が blinking に続く（母音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "while の末尾 /l/ が we に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼイル ビー ブリンキング ザ ウォーニング シグナル ワイル ウィー イスケイプ ザ ラーヴァ"
+        }
+      ]
+    },
+    {
       "type": "future_perfect",
       "label": "未来完了形",
       "text": "will have blinked",
