@@ -240,6 +240,99 @@
           "kana": "ザ グリーファーズ ハヴ ビン ブリーイング ニュー プレイヤーズ シンス ザ サーバー オウペンド"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bullying",
+      "ipa": "/ɪz ˈbʊliɪŋ/",
+      "examples": [
+        {
+          "en": "He is bullying a new player to steal his diamonds right now.",
+          "ja": "彼は今、新しいプレイヤーのダイヤを奪うためにそのプレイヤーをいじめています。",
+          "ipa": "/hi ɪz ˈbʊliɪŋ ə ˌnu ˈpleɪər tə stil hɪz ˈdaɪəməndz ˈraɪt naʊ/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "bullying+a: /ŋ/ が /ə/ に連結 [ˈbʊliɪŋ ə]",
+            "to は弱形 /tə/",
+            "his は弱形 /hɪz/"
+          ],
+          "kana": "ヒー イズ ブリーイング ア ニュー プレイヤー タ スティール ヒズ ダイモンズ ライト ナウ"
+        },
+        {
+          "en": "Players are bullying each other constantly in the arena today.",
+          "ja": "プレイヤーたちは今日、競技場で絶えず互いをいじめています。",
+          "ipa": "/ˈpleɪərz ɑr ˈbʊliɪŋ ˈitʃ ˈʌðər ˈkɑnstəntli ɪn ðə əˈriːnə təˈdeɪ/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "bullying+each: /ŋ/ が /i/ に連結 [ˈbʊliɪŋ ˈitʃ]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ アー ブリーイング イーチ アザー コンスタントリー イン ザ アリーナ トゥデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bullying",
+      "ipa": "/wəz ˈbʊliɪŋ/",
+      "examples": [
+        {
+          "en": "She was bullying weaker players when the admin suddenly teleported in.",
+          "ja": "管理者が突然テレポートしてきたとき、彼女は弱いプレイヤーをいじめていました。",
+          "ipa": "/ʃi wəz ˈbʊliɪŋ ˈwikər ˈpleɪərz wɛn ðə ˈædmɪn ˈsʌdənli ˈtɛləpɔːrtɪd ɪn/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "bullying+weaker: /ŋ/ が /w/ (半母音) に連結 [ˈbʊliɪŋ ˈwikər]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー ワズ ブリーイング ウィーカー プレイヤーズ ウェン ザ アドミン サッデンリー テレポーティド イン"
+        },
+        {
+          "en": "They were bullying everyone online until the server shut down for maintenance.",
+          "ja": "サーバーがメンテナンスのためにシャットダウンするまで、彼らはオンラインのすべてのプレイヤーをいじめていました。",
+          "ipa": "/ðeɪ wɚ ˈbʊliɪŋ ˈɛvriˌwʌn ˈɑnlaɪn ənˈtɪl ðə ˈsɝvər ʃʌt ˈdaʊn fər ˈmeɪntənəns/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "bullying+everyone: /ŋ/ が /ɛ/ に連結 [ˈbʊliɪŋ ˈɛvriˌwʌn]",
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザイ ワー ブリーイング エブリワン オンライン アンティル ザ サーバー シャット ダウン ファー メインテナンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bullying",
+      "ipa": "/hæd bɪn ˈbʊliɪŋ/",
+      "examples": [
+        {
+          "en": "The griefers had been bullying players for weeks before the admin finally banned them.",
+          "ja": "グリーファーたちは管理者が最終的に彼らをバンするまで、数週間プレイヤーをいじめていました。",
+          "ipa": "/ðə ˈɡrifərz həd bɪn ˈbʊliɪŋ ˈpleɪərz fər wiːks bɪˈfɔr ðə ˈædmɪn ˈfaɪnəli bænd ðɛm/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/、bullying に続く [bɪn ˈbʊliɪŋ]",
+            "for は弱形 /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ グリーファーズ ハッド ビン ブリーイング プレイヤーズ ファー ウィークス ビフォア ザ アドミン ファイナリー バンド ゼム"
+        },
+        {
+          "en": "I discovered he had been bullying new players the entire time we were teammates.",
+          "ja": "彼がチームメイトの間中新しいプレイヤーをいじめていたことを発見しました。",
+          "ipa": "/aɪ dɪˈskʌvərd hi həd bɪn ˈbʊliɪŋ ˌnu ˈpleɪərz ðə ənˈtaɪɚ ˈtaɪm wi wɚ ˈtimmeɪts/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/、bullying に続く [bɪn ˈbʊliɪŋ]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ディスカバード ヒー ハッド ビン ブリーイング ニュー プレイヤーズ ザ エンタイアー タイム ウィー ワー ティームメイツ"
+        }
+      ]
     }
   ],
   "idioms": [

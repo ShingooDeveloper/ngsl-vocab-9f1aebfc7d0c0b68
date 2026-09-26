@@ -234,6 +234,102 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has spanned",
+      "ipa": "/həz ˈspænd/",
+      "examples": [
+        {
+          "en": "The redstone bridge has spanned a massive ravine since we first arrived.",
+          "ja": "レッドストーン橋は、我々が最初に到着して以来、巨大な渓谷に架かっています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈbrɪdʒ həz ˈspænd ə ˈmæsɪv ˈræviːn sɪns wi ˈfɜrst əˈraɪvd/",
+          "linking": [
+            "has → 弱形 /həz/",
+            "spanned a → 語末子音 /d/ が母音 /ə/ に連結 [ˈspændə] スパンダ",
+            "ravine since → /n/ が /s/ に続く（consonant+consonant）",
+            "first arrived → 語末子音 /t/ が母音 /ə/ に連結 [ˈfɜrst əˈraɪvd] ファースト アライ​ヴド"
+          ],
+          "kana": "ザ レッドストウン ブリッジ ハズ スパンダ マッシヴ ラビーン シンス ウィー ファースト アライ​ヴド"
+        },
+        {
+          "en": "Our mining tunnels have spanned across canyons deep beneath the surface.",
+          "ja": "私たちの採掘トンネルは、地表下の深い峡谷にまたがっています。",
+          "ipa": "/ˈaʊər ˈmaɪnɪŋ ˈtʌnəlz həv spænd əˈkrɔs ˈkænyənz ˈdip bɪˈniːθ ðə ˈsɜrfɪs/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "spanned across → 語末子音 /d/ が母音 /ə/ に連結 [spændəˈkrɔs] スパンダクロス",
+            "deep beneath → /p/ が /b/ に続く（consonant+consonant）",
+            "the surface → the は弱形 /ðə/"
+          ],
+          "kana": "アウアー マイニング タネルズ ハヴ スパンダクロス キャニオンズ ディープ ビニース ザ サーフィス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had spanned",
+      "ipa": "/həd spænd/",
+      "examples": [
+        {
+          "en": "Before the cave collapsed, our tunnel had spanned the underground expanse for weeks.",
+          "ja": "洞窟が崩壊する前に、私たちのトンネルは数週間の間、地下の広大な領域に及んでいました。",
+          "ipa": "/bɪˈfɔr ðə ˈkeɪv kəˈlæpst | ˈaʊər ˈtʌnəl həd spænd ðə ˌʌndərˈɡraʊnd ɪkˈspæns fɔr ˈwikz/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "spanned the → 語末子音 /d/ が母音 /ə/ に連結。the は弱形 /ðə/ [spændə] スパンダ",
+            "underground expanse → /d/ が /ɪ/ に続く（consonant+vowel）",
+            "for weeks → /r/ が /w/ に続く（consonant+consonant）"
+          ],
+          "kana": "ビフォア ザ ケイヴ コラプスト アウアー タネル ハド スパンダ アンダーグラウンド エクスパンス フォア ウィークス"
+        },
+        {
+          "en": "By the time winter came, the old redstone tunnel had spanned the cavern network.",
+          "ja": "冬が来る頃には、古いレッドストーン・トンネルは洞窟ネットワークに及んでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm ˈwɪntər ˈkeɪm | ðə ˈoʊld ˈrɛdˌstoʊn ˈtʌnəl həd spænd ðə ˈkævɚn ˈnɛtˌwɜrk/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "spanned the → 語末子音 /d/ が母音 /ə/ に連結。the は弱形 /ðə/ [spændə] スパンダ",
+            "cavern network → /n/ が /n/ に続く（consonant+consonant）",
+            "the cavern → the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ウィンター ケイム ザ オウルド レッドストウン タネル ハド スパンダ キャヴァーン ネットワーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been spanning",
+      "ipa": "/həz bɪn ˈspænɪŋ/",
+      "examples": [
+        {
+          "en": "The stone platform has been spanning the deep chasm all afternoon.",
+          "ja": "石のプラットフォームは午後ずっと深い裂け目に及んでいます。",
+          "ipa": "/ðə ˈstoʊn ˈplætˌfɔrm həz bɪn ˈspænɪŋ ðə ˈdip ˈkæzəm ˈɔl ˌæftərˈnun/",
+          "linking": [
+            "has → 弱形 /həz/",
+            "been → 弱形 /bɪn/",
+            "spanning the → 語末子音 /ŋ/ が母音 /ə/ に連結。the は弱形 /ðə/ [ˈspænɪŋðə] スパニングザ",
+            "all afternoon → 語末子音 /l/ が母音 /æ/ に連結 [ɔlˌæftərˈnun] オーラフターヌーン"
+          ],
+          "kana": "ザ ストウン プラットフォーム ハズ ビン スパニングザ ディープ キャズム オーラフターヌーン"
+        },
+        {
+          "en": "Our builders have been spanning the ocean with wooden platforms for three days straight.",
+          "ja": "私たちのビルダーたちは3日間ぶっ通しで、木製のプラットフォームで海を横切り続けています。",
+          "ipa": "/ˈaʊər ˈbɪldərz həv bɪn ˈspænɪŋ ðə ˈoʊʃən wɪð ˈwʊdən ˈplætˌfɔrmz fɔr ˈθri ˈdeɪz ˈstreɪt/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "been → 弱形 /bɪn/",
+            "spanning the → 語末子音 /ŋ/ が母音 /ə/ に連結。the は弱形 /ðə/ [ˈspænɪŋðə] スパニングザ",
+            "for three → /r/ が /θ/ に続く（consonant+consonant）"
+          ],
+          "kana": "アウアー ビルダーズ ハヴ ビン スパニングザ オウシャン ウィズ ウッデン プラットフォームズ フォア スリー デイズ ストレイト"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（is/are + -ing）",
       "text": "is spanning",
