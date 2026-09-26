@@ -391,6 +391,38 @@
       ]
     },
     {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been blinking",
+      "ipa": "/həz bɪn ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The beacon has been blinking red since we activated the full pyramid.",
+          "ja": "完全なピラミッドを起動してから、ビーコンが赤で点滅し続けています。",
+          "ipa": "[ðə ˈbiːkən həz bɪn ˈblɪŋkɪŋ rɛd sɪns wi ˈæktɪˌveɪtəd ðə fʊl ˈpɪrəˌmɪd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "been の末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング",
+            "we は弱形 /wi/"
+          ],
+          "kana": "ザ ビーコン ハズ ビン ブリンキング レッド シンス ウィー アクティベイテッド ザ フル ピラミッド"
+        },
+        {
+          "en": "The creeper's eyes have been blinking faster as it gets closer.",
+          "ja": "クリーパーの目はより近くなるにつれて、より速く点滅し続けています。",
+          "ipa": "[ðə ˈkriːpərz aɪz həv bɪn ˈblɪŋkɪŋ ˈfæstər əz ɪt ɡɛts ˈkloʊsər]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "creeper's の末尾 /z/ が eyes に連結 [ˈkriːpərz aɪz] クリーパーズ アイズ",
+            "have は弱形 /həv/、been は弱形 /bɪn/",
+            "been の末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング"
+          ],
+          "kana": "ザ クリーパーズ アイズ ハヴ ビン ブリンキング ファスター アズ イット ゲッツ クローサー"
+        }
+      ]
+    },
+    {
       "type": "past_perfect",
       "label": "過去完了形",
       "text": "had blinked",
