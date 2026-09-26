@@ -166,6 +166,99 @@
                                            "kana":  "ザイ アー ファービディング アクセス タ ザ ネザー ディメンション ウィザウット プロパー イクウィップメント"
                                        }
                                    ]
+                  },
+                  {
+                      "type":  "present_progressive",
+                      "label":  "現在進行形（am/is/are + -ing）",
+                      "text":  "is forbidding",
+                      "ipa":  "/ɪz fərˈbɪdɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "The server is forbidding new accounts from mining diamonds.",
+                                           "ja":  "サーバーは新規アカウントがダイヤモンドを採掘することを禁止中です。",
+                                           "ipa":  "[ðə ˈsɝvər ɪz fərˈbɪdɪŋ ˈnu əˈkaʊnts frəm ˈmaɪnɪŋ ˈdaɪmənz]",
+                                           "linking":  [
+                                                           "the は弱形 /ðə/ ザ",
+                                                           "is は弱形 /ɪz/ イズ、forbidding に続く",
+                                                           "from は弱形 /frəm/ フラム"
+                                                       ],
+                                           "kana":  "ザ サーバー イズ ファービディング ニュー アカウンツ フラム マイニング ダイモンズ"
+                                       },
+                                       {
+                                           "en":  "She is forbidding players from building in the protected zone.",
+                                           "ja":  "彼女は保護されたゾーンでプレイヤーが建築することを禁止中です。",
+                                           "ipa":  "[ʃi ɪz fərˈbɪdɪŋ ˈpleɪərz frəm ˈbɪldɪŋ ɪn ðə prəˈtɛktəd zoʊn]",
+                                           "linking":  [
+                                                           "is は弱形 /ɪz/ イズ、forbidding に続く",
+                                                           "from は弱形 /frəm/ フラム",
+                                                           "the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "シー イズ ファービディング プレイヤーズ フラム ビルディング イン ザ プロテクテッド ゾーン"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "past_progressive",
+                      "label":  "過去進行形（was/were + -ing）",
+                      "text":  "was forbidding",
+                      "ipa":  "/wəz fərˈbɪdɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "The owner was forbidding griefing while we played on the server.",
+                                           "ja":  "私たちがサーバーでプレイしている間、オーナーはグリーフィングを禁止していました。",
+                                           "ipa":  "[ðə ˈoʊnər wəz fərˈbɪdɪŋ ˈɡriːfɪŋ waɪl wi pleɪd ɑn ðə ˈsɝvər]",
+                                           "linking":  [
+                                                           "the は弱形 /ðə/ ザ",
+                                                           "was は弱形 /wəz/ ワズ、forbidding に続く",
+                                                           "on は /ɑn/"
+                                                       ],
+                                           "kana":  "ザ オウナー ワズ ファービディング グリーフィング ワイル ウィー プレイド アン ザ サーバー"
+                                       },
+                                       {
+                                           "en":  "They were forbidding TNT explosions during the building event.",
+                                           "ja":  "ビルディングイベント中、彼らはTNT爆発を禁止していました。",
+                                           "ipa":  "[ðeɪ wɝ fərˈbɪdɪŋ ˈti.ɛn.ˈti ɪkˈsploʊʒənz ˈdʊrɪŋ ðə ˈbɪldɪŋ ɪˈvɛnt]",
+                                           "linking":  [
+                                                           "were は弱形 /wɝ/ ウァー、forbidding に続く",
+                                                           "during は強形 /ˈdʊrɪŋ/",
+                                                           "the は弱形 /ðə/ ザ"
+                                                       ],
+                                           "kana":  "ザイ ウァー ファービディング ティエンティー イクスプロージョンズ ドゥーリング ザ ビルディング イベント"
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "past_perfect_progressive",
+                      "label":  "過去完了進行形（had been + -ing）",
+                      "text":  "had been forbidding",
+                      "ipa":  "/həd bɪn fərˈbɪdɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "Before the update, the server had been forbidding mods for months.",
+                                           "ja":  "アップデート前に、そのサーバーは数ヶ月間モッドを禁止していました。",
+                                           "ipa":  "[bɪˈfɔr ðə ˈʌpdeɪt ðə ˈsɝvər həd bɪn fərˈbɪdɪŋ ˈmɑdz fɔr ˈmʌnθz]",
+                                           "linking":  [
+                                                           "before は /bɪˈfɔr/",
+                                                           "the は弱形 /ðə/ ザ",
+                                                           "had は弱形 /həd/ ハド",
+                                                           "been は弱形 /bɪn/ ビン、forbidding に続く",
+                                                           "for は弱形 /fər/ ファー"
+                                                       ],
+                                           "kana":  "ビフォー ザ アップデイト ザ サーバー ハド ビン ファービディング マッドゥズ ファー マンスズ"
+                                       },
+                                       {
+                                           "en":  "The admin had been forbidding bedrock breaking until the player earned rank.",
+                                           "ja":  "プレイヤーがランクを獲得するまで、管理者はベッドロック破壊を禁止し続けていました。",
+                                           "ipa":  "[ðə ˈæd.mɪn həd bɪn fərˈbɪdɪŋ ˈbɛd.rɑk ˈbreɪkɪŋ ənˈtɪl ðə ˈpleɪər ˈɜrnəd ˈræŋk]",
+                                           "linking":  [
+                                                           "the は弱形 /ðə/ ザ",
+                                                           "had は弱形 /həd/ ハド",
+                                                           "been は弱形 /bɪn/ ビン、forbidding に続く",
+                                                           "until は /ənˈtɪl/"
+                                                       ],
+                                           "kana":  "ザ アドミン ハド ビン ファービディング ベッドロック ブレイキング アンティル ザ プレイヤー アーンド ランク"
+                                       }
+                                   ]
                   }
               ]
 }
