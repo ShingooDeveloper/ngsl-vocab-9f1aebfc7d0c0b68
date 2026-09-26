@@ -66,5 +66,97 @@
       ],
       "kana": "ウィー サロウ フォー エブリー ピクセル アヴ アワー ベイス ザット ワズ ディストロイド バイ ザ ラバ"
     }
+  ],
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sorrowed",
+      "ipa": "/həz ˈsɑroʊd/",
+      "examples": [
+        {
+          "en": "I have sorrowed ever since the creeper explosion destroyed my main base.",
+          "ja": "クリーパー爆発が私のメインベースを破壊して以来、ずっと悲しんでいます。",
+          "ipa": "/aɪ həv ˈsɑroʊd ˈɛvər sɪns ðə ˈkriːpər ɪkˈsploʊʒən dɪsˈstrɔɪd maɪ ˈmeɪn ˈbeɪs/",
+          "linking": [
+            "have → 弱形 /həv/（助動詞）",
+            "sorrowed ever → 語末子音 /d/ が母音 /ɛ/ に連結",
+            "the (1st) → 弱形 /ðə/ で creeper に続く"
+          ],
+          "kana": "アイ ハヴ サロウド エブル シンス ザ クリーパー イクスプロウジャン ディストロイド マイ メイン ベイス"
+        },
+        {
+          "en": "The builders have sorrowed deeply about their destroyed farm for weeks.",
+          "ja": "ビルダーたちは破壊された農場について数週間深く悲しんでいます。",
+          "ipa": "/ðə ˈbɪldərz həv ˈsɑroʊd ˈdiplɪ əˈbaʊt ðɛr dɪsˈstrɔɪd ˈfɑrm fɔr wiks/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "have → 弱形 /həv/（助動詞）",
+            "sorrowed about → 語末子音 /d/ が母音 /ə/ に連結"
+          ],
+          "kana": "ザ ビルダーズ ハヴ サロウド ディープリー アバウト ゼア ディストロイド ファーム フォー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sorrowed",
+      "ipa": "/həd ˈsɑroʊd/",
+      "examples": [
+        {
+          "en": "By the time the server restarted, I had sorrowed for hours over my lost diamonds.",
+          "ja": "サーバーが再起動される時には、失ったダイヤモンドについて何時間も悲しんでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɜːrvər rɪˈstɑɹtəd aɪ həd ˈsɑroʊd fɔr ˈaʊərz ˈoʊvər maɪ ˈlɔst ˈdaɪəməndz/",
+          "linking": [
+            "the (1st) → 弱形 /ðə/",
+            "had → 弱形 /həd/（助動詞）",
+            "restarted over → 語末子音 /d/ が母音 /o/ に連結"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー リスターティッド アイ ハド サロウド フォー アワーズ オーバー マイ ロスト ダイモンズ"
+        },
+        {
+          "en": "She had sorrowed deeply over her ruined castle before finding new inspiration.",
+          "ja": "彼女は新しいインスピレーションを見つける前に、破壊された城について深く悲しんでいました。",
+          "ipa": "/ʃi həd ˈsɑroʊd ˈdiplɪ ˈoʊvər hər ˈruːɪnd ˈkæsəl bɪˈfɔr ˈfaɪndɪŋ ˈnu ˌɪnspɪˈreɪʃən/",
+          "linking": [
+            "had → 弱形 /həd/（助動詞）",
+            "deeply over → 語末子音 /i/ から母音 /o/ へ（自然な連結）",
+            "castle before → 語末子音 /l/ が母音 /b/ に連結"
+          ],
+          "kana": "シー ハド サロウド ディープリー オーバー ハー ルーインド キャスル ビフォア ファインディング ニュー インスピレーション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sorrowing",
+      "ipa": "/həz bɪn ˈsɑroʊɪŋ/",
+      "examples": [
+        {
+          "en": "We have been sorrowing about the diamond loss since the cave collapse yesterday.",
+          "ja": "昨日の洞窟崩落からずっと、ダイヤ損失について悲しんでいます。",
+          "ipa": "/wi həv bɪn ˈsɑroʊɪŋ əˈbaʊt ðə ˈdaɪmənd lɔs sɪns ðə ˈkeɪv kəˈlæps ˈjɛstərdeɪ/",
+          "linking": [
+            "have → 弱形 /həv/、been → 弱形 /bɪn/（助動詞）",
+            "sorrowing about → 語末は /ŋ/、about は母音 /ə/ で始まる",
+            "the (1st) → 弱形 /ðə/"
+          ],
+          "kana": "ウィー ハヴ ビン サロウイング アバウト ザ ダイモンド ロス シンス ザ ケイブ コラップス イェスターデイ"
+        },
+        {
+          "en": "The player has been sorrowing over his destroyed base for the entire weekend.",
+          "ja": "プレイヤーは週末中ずっと破壊されたベースについて悲しんでいます。",
+          "ipa": "/ðə ˈpleɪər həz bɪn ˈsɑroʊɪŋ ˈoʊvər hɪz dɪsˈstrɔɪd ˈbeɪs fɔr ðə ɪnˈtaɪər ˈwikˌɛnd/",
+          "linking": [
+            "The → 弱形 /ðə/",
+            "has → 弱形 /həz/、been → 弱形 /bɪn/（助動詞）",
+            "player has → 語末子音 /r/ が母音 /ə/ に連結"
+          ],
+          "kana": "ザ プレイヤー ハズ ビン サロウイング オーバー ヒズ ディストロイド ベイス フォー ザ エンタイアー ウィークエンド"
+        }
+      ]
+    }
   ]
 }
