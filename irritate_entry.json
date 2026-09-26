@@ -203,6 +203,102 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is irritating",
+      "ipa": "/ɪz ˈɪrɪˌteɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is irritating me by constantly breaking down the door to our base.",
+          "ja": "ゾンビが私たちの基地のドアを絶えず破壊して私をいらいらさせています。",
+          "ipa": "[ðə ˈzoʊmbi ɪz ˈɪrɪˌteɪtɪŋ mi baɪ ˈkɑnstəntli ˈbreɪkɪŋ daʊn ðə ˈdɔr tu ˈaʊər beɪs]",
+          "linking": [
+            "the → 弱形 /ðə/ が zombie の /z/ に続く [ðə ˈzoʊmbi] ザ ゾンビ",
+            "is → 弱形 /ɪz/ が irritating の /ɪ/ に連結 [ɪz ˈɪrɪˌteɪtɪŋ] イズ イリテイティング",
+            "breaking の /ŋ/ が down の /d/ に続く（鼻音+子音）[ˈbreɪkɪŋ daʊn] ブレイキング ダウン",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "ザ ゾンビ イズ イリテイティング ミー バイ コンスタントリー ブレイキング ダウン ザ ドア トゥー アワー ベース"
+        },
+        {
+          "en": "Creepers are irritating us constantly while we're trying to build our house peacefully.",
+          "ja": "私たちが平和に家を建てようとしている間、クリーパーは絶えず私たちをいらいらさせています。",
+          "ipa": "[ˈkripərz ɑr ˈɪrɪˌteɪtɪŋ ʌs ˈkɑnstəntli waɪl wir ˈtraɪɪŋ tə ˈbɪld ˈaʊər haʊs ˈpisəfəli]",
+          "linking": [
+            "Creepers の /z/ が are の /ɑ/ に続く（子音+母音で連結傾向）[ˈkripərz ɑr] クリーパーズ アー",
+            "are → /ɑr/、/r/ が irritating の /ɪ/ に連結 [ɑr ˈɪrɪˌteɪtɪŋ] アー イリテイティング",
+            "to → 弱形 /tə/ が build の /b/ に続く [tə ˈbɪld] タ ビルド",
+            "our の /r/ が house の /h/ に続く（子音+子音）[ˈaʊər haʊs] アワー ハウス"
+          ],
+          "kana": "クリーパーズ アー イリテイティング アス コンスタントリー ワイル ウィア トライイング タ ビルド アワー ハウス ピースフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was irritating",
+      "ipa": "/wəz ˈɪrɪˌteɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The lag spike was irritating everyone during our intense raid on the Nether fortress.",
+          "ja": "私たちのネザー要塞への激しい襲撃の際に、ラグスパイクは全員をいらいらさせていました。",
+          "ipa": "[ðə læɡ spaɪk wəz ˈɪrɪˌteɪtɪŋ ˈɛvriˌwʌn ˈdʊrɪŋ ˈaʊər ɪnˈtɛns reɪd ɑn ðə ˈnɛðər ˈfɔːrɪs]",
+          "linking": [
+            "the → 弱形 /ðə/ が lag の /l/ に続く [ðə læɡ] ザ ラグ",
+            "spike の /k/ が was の /w/ に続く（子音+子音）[spaɪk wəz] スパイク ワズ",
+            "was → 弱形 /wəz/ が irritating の /ɪ/ に連結 [wəz ˈɪrɪˌteɪtɪŋ] ワズ イリテイティング",
+            "on の /n/ が the の /ðə/ に連結 [ɑn ðə] オン ザ"
+          ],
+          "kana": "ザ ラグ スパイク ワズ イリテイティング エヴリワン デュリング アワー インテンス レイド オン ザ ネザー フォーティス"
+        },
+        {
+          "en": "I was irritating my teammates by repeatedly failing at the parkour section throughout the whole game.",
+          "ja": "ゲーム全体を通じてパルクール部分で何度も失敗することで、チームメイトをいらいらさせていました。",
+          "ipa": "[aɪ wəz ˈɪrɪˌteɪtɪŋ maɪ ˈtimmeɪts baɪ rɪˈpitɪdli ˈfeɪlɪŋ æt ðə ˈpɑrˌkaʊr ˈsɛkʃən θruːˈaʊt ðə hoʊl ɡeɪm]",
+          "linking": [
+            "was → 弱形 /wəz/ が irritating の /ɪ/ に連結 [wəz ˈɪrɪˌteɪtɪŋ] ワズ イリテイティング",
+            "by → 弱形 /baɪ/ が repeatedly の /r/ に続く（子音+子音）[baɪ rɪˈpitɪdli] バイ リピーティッドリー",
+            "at → /æt/、the の /ðə/ に続く（子音+子音。t は未開放）[æt ðə] アッ ザ",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ イリテイティング マイ ティームメイツ バイ リピーティッドリー フェイリング アッ ザ パークアー セクション スルーアウト ザ ホール ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been irritating",
+      "ipa": "/həd bɪn ˈɪrɪˌteɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The unstable server had been irritating the players for weeks before the developers released the hotfix.",
+          "ja": "不安定なサーバーは開発者がホットフィックスをリリースする前に、数週間プレイヤーたちをいらいらさせていました。",
+          "ipa": "[ðə ʌnˈsteɪbəl ˈsɝvɚ həd bɪn ˈɪrɪˌteɪtɪŋ ðə ˈpleɪərz fɚ wiks bɪˈfɔːr ðə dɪˈvɛləpərz rɪˈlist ðə ˈhɑtˌfɪks]",
+          "linking": [
+            "server の末尾 /r/ が had の /h/ に子音+子音で続く [ˈsɝvɚ həd] サーバー ハド。had は弱形 /həd/",
+            "had → 弱形 /həd/",
+            "been の末尾 /n/ が irritating の /ɪ/ に連結（語末子音が母音に連なる）[bɪn ˈɪrɪˌteɪtɪŋ] ビン イリテイティング。been は弱形 /bɪn/",
+            "for → 弱形 /fɚ/"
+          ],
+          "kana": "ザ アンステイブル サーバー ハド ビン イリテイティング ザ プレイアーズ ファー ウィークス ビフォア ザ ディベラパーズ リリース ザ ホットフィックス"
+        },
+        {
+          "en": "The zombie pigmen had been irritating the adventurers for hours before they finally managed to escape the Nether.",
+          "ja": "ゾンビピッグマンはネザーから脱出に成功するまで、何時間も冒険者たちをいらいらさせていました。",
+          "ipa": "[ðə ˈzoʊmbi ˈpɪɡmən həd bɪn ˈɪrɪˌteɪtɪŋ ðə ˌædˈvɛntʃərərz fɚ ˈaʊərz bɪˈfɔːr ðeɪ ˈfaɪnəli ˈmænɪdʒd tu ɪˈskeɪp ðə ˈnɛðər]",
+          "linking": [
+            "pigmen の末尾 /n/ が had の /h/ に子音+子音で続く [ˈpɪɡmən həd] ピッグメン ハド。had は弱形 /həd/",
+            "had → 弱形 /həd/",
+            "been の末尾 /n/ が irritating の /ɪ/ に連結 [bɪn ˈɪrɪˌteɪtɪŋ] ビン イリテイティング。been は弱形 /bɪn/",
+            "for → 弱形 /fɚ/、escape の末尾 /p/ が the の /ð/ に続く（未開放）[ɪˈskeɪp̚ ðə] エスケイプ ザ"
+          ],
+          "kana": "ザ ゾンビ ピッグメン ハド ビン イリテイティング ザ アドヴェンチャラーズ ファー アワーズ ビフォア ザイ ファイナリー マネイジド トゥー エスケイプ ザ ネザー"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has irritated",
