@@ -231,6 +231,37 @@
       ]
     },
     {
+      "type": "plural",
+      "label": "複数形",
+      "text": "shallows",
+      "ipa": "/ˈʃæloʊz/",
+      "examples": [
+        {
+          "en": "The shallows near our base are great for farming fish and turtles.",
+          "ja": "私たちの拠点の近くの浅瀬は、魚とカメを養殖するのに最適です。",
+          "ipa": "/ðə ˈʃæloʊz nɪr aʊr beɪs ɑr ɡreɪt fɔr ˈfɑːrmɪŋ fɪʃ ənd ˈtɝtəlz/",
+          "kana": "ザ シャローズ ニア アワー ベイス アー グレイト フォア ファーミング フィッシュ アンド タートルズ",
+          "linking": [
+            "near の /r/ が our に続く（子音+母音で連結傾向）[nɪr aʊr] ニア アワー",
+            "our の /r/ が base に続く（子音+子音）",
+            "for → 弱形 /fɚ/ が farming に続く（子音+子音）"
+          ]
+        },
+        {
+          "en": "You'll find more creatures spawning in the shallows than in the open ocean.",
+          "ja": "開けた海よりも、浅瀬でより多くの生物がスポーンするのがわかるでしょう。",
+          "ipa": "/juːl faɪnd mɔr ˈkriːtʃɚz ˈspɔːnɪŋ ɪn ðə ˈʃæloʊz ðæn ɪn ðə ˈoʊpən ˈoʊʃən/",
+          "kana": "ユール ファインド モア クリーチャーズ スポーニング イン ザ シャローズ ザン イン ザ オウペン オウシャン",
+          "linking": [
+            "You'll → /juːl/（you will の縮約）",
+            "find の /d/ が more に続く（子音+子音）",
+            "in の弱形 /ɪn/ が the に続く。the は弱形 /ðə/ [ɪn ðə] イン ザ",
+            "shallows の /z/ が than に続く（子音+子音）[ˈʃæloʊz ðæn] シャローズ ザン"
+          ]
+        }
+      ]
+    },
+    {
       "type": "adverb",
       "label": "副詞形",
       "text": "shallowly",
@@ -250,5 +281,8 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Target 1400"
   ]
 }
