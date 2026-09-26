@@ -287,6 +287,90 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has blanked",
+      "ipa": "/həz ˈblæŋkt/",
+      "examples": [
+        {
+          "en": "He has blanked out the sky on this map.",
+          "ja": "彼がこのマップ上で空を削除しました。",
+          "ipa": "/hi həz ˈblæŋkt aʊt ðə skaɪ ɑn ðɪs mæp/",
+          "kana": "ヒー ハズ ブラングクト アウト ザ スカイ オン ディス マップ",
+          "linking": [
+            "has blanked — 弱形 /həz/、/z/ が /b/ に流れ込む [həz ˈblæŋkt]",
+            "blanked out — /t/ が未開放で /aʊ/ 前 [ˈblæŋkt̚ aʊt]"
+          ]
+        },
+        {
+          "en": "They have blanked several areas before the server update.",
+          "ja": "サーバーアップデート前に、彼らが複数の領域を削除しました。",
+          "ipa": "/ðeɪ həv ˈblæŋkt ˈsɛv.ɚəl ˈɛɹ.i.əz bɪˈfɔr ðə ˈsɜr.vɚ ˈʌp.deɪt/",
+          "kana": "ザイ ハヴ ブラングクト セヴラル エリアズ ビフォア ザ サーバー アップデイト",
+          "linking": [
+            "have blanked — 弱形 /həv/、/v/ が /b/ に連結 [həv ˈblæŋkt]",
+            "blanked several — /t/ が未開放で /s/ 前 [ˈblæŋkt̚ ˈsɛv.ɚəl]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had blanked",
+      "ipa": "/həd ˈblæŋkt/",
+      "examples": [
+        {
+          "en": "They had blanked that region before the raid started.",
+          "ja": "襲撃が始まる前に、彼らがその地域を削除していました。",
+          "ipa": "/ðeɪ həd ˈblæŋkt ðæt ˈɹɪ.dʒən bɪˈfɔr ðə ˈɹeɪd ˈstɑr.tɪd/",
+          "kana": "ザイ ハド ブラングクト ザッ リージョン ビフォア ザ レイド スターティッド",
+          "linking": [
+            "had blanked — 弱形 /həd/、/d/ が未開放で /b/ 前 [həd ˈblæŋkt]",
+            "That region — /t/ が未開放で /ɹ/ 前 [ðæt̚ ˈɹɪ.dʒən]"
+          ]
+        },
+        {
+          "en": "She had blanked the whitelist because she forgot the password.",
+          "ja": "パスワードを忘れたので、彼女はホワイトリストを削除していました。",
+          "ipa": "/ʃi həd ˈblæŋkt ðə ˈwaɪt.lɪst bɪˈkɔz ʃi fɚˈɡɑt ðə ˈpæs.wɚd/",
+          "kana": "シー ハド ブラングクト ザ ワイトリスト ビコーズ シー ファーゴット ザ パスワード",
+          "linking": [
+            "had blanked — 弱形 /həd/、/d/ が未開放で /b/ 前 [həd ˈblæŋkt]",
+            "blanked the — /t/ が未開放、the は弱形 /ðə/ [ˈblæŋkt̚ ðə]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been blanking",
+      "ipa": "/həz bɪn ˈblæŋkɪŋ/",
+      "examples": [
+        {
+          "en": "He has been blanking out the terrain all morning.",
+          "ja": "彼は朝中、地形を削除しています。",
+          "ipa": "/hi həz bɪn ˈblæŋkɪŋ aʊt ðə təˈɹeɪn ɔl ˈmɔɹ.nɪŋ/",
+          "kana": "ヒー ハズ ビン ブラングキング アウト ザ テレイン オール モーニング",
+          "linking": [
+            "has been — 弱形 /həz/ と /bɪn/ [həz bɪn]",
+            "all morning — /l/ が未開放で /m/ 前 [ɔl̚ ˈmɔɹ.nɪŋ]"
+          ]
+        },
+        {
+          "en": "Players have been blanking chunks of the world for their new builds.",
+          "ja": "プレイヤーたちは新しい建築のためにワールドのチャンクを削除しています。",
+          "ipa": "/ˈpleɪ.ɚz həv bɪn ˈblæŋkɪŋ tʃʌŋks əv ðə wɜrld fɔr ðɛɚ ˈnu bɪldz/",
+          "kana": "プレイヤーズ ハヴ ビン ブラングキング チャングクス アヴ ザ ワールド ファー ゼア ニュー ビルズ",
+          "linking": [
+            "have been — 弱形 /həv/ と /bɪn/ [həv bɪn]",
+            "blanking chunks — /ŋ/ が未開放で /tʃ/ 前 [ˈblæŋkɪŋ̚ tʃʌŋks]"
+          ]
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is blanking",
