@@ -324,6 +324,118 @@
           "kana": "ザ ウォール ハド ビン エンデュアリング コンスタント クリーパー イクスプロージョンズ ファー アワーズ ビフォア イット ファイナリー コラプスト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will endure",
+      "ipa": "/wɪl ɪnˈdʊr/",
+      "examples": [
+        {
+          "en": "I'll endure the treacherous lava lakes of the Nether to find rare resources.",
+          "ja": "珍しいリソースを見つけるために、ネザーの危険な溶岩湖に耐えるつもりです。",
+          "ipa": "/aɪl ɪnˈdʊr ðə ˈtrɛtʃərəs ˈlɑvə leɪks əv ðə ˈnɛðər tu ˈfaɪnd rɛr ˈrɛsɚsɪz/",
+          "linking": [
+            "I'll → 縮約形 /aɪl/ に弱化（will の弱い発音）",
+            "endure → 語末子音 /r/ が the の弱形 /ðə/ に連結 [ɪnˈdʊr ðə] エンデュア ザ",
+            "the → 弱形 /ðə/",
+            "of → 弱形 /əv/",
+            "the → 弱形 /ðə/",
+            "to → 機能語で弱形 /tə/ [tu ˈfaɪnd] タ ファインド"
+          ],
+          "kana": "アイル エンデュア ザ トレッチャラス ラーヴァ レイクス アヴ ザ ネザー タ ファインド レア レソーシーズ"
+        },
+        {
+          "en": "The ancient stone fortress will endure the destructive creeper explosions forever.",
+          "ja": "古い石の要塞は破壊的なクリーパー爆発に永遠に耐えるだろう。",
+          "ipa": "/ðə ˈeɪnʃənt stoʊn ˈfɔːrtrɪs wɪl ɪnˈdʊr ðə dɪˈstrʌktɪv ˈkriːpər ɪkˈsploʊʒənz fərˈɛvər/",
+          "linking": [
+            "ancient → /t/ が stone の /s/ に続く（子音+子音で連結なし）[ˈeɪnʃənt stoʊn]",
+            "will → 弱形 /wɪl/",
+            "endure → 語末子音 /r/ が the の弱形 /ðə/ に連結 [ɪnˈdʊr ðə] エンデュア ザ",
+            "the → 弱形 /ðə/",
+            "forever → /r/ が /f/ に続く（子音+子音で連結なし）[fərˈɛvər]"
+          ],
+          "kana": "ザ エインシャント ストウン フォートレス ウィル エンデュア ザ ディストラクティヴ クリーパー イクスプロージョンズ フォーレヴァー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be enduring",
+      "ipa": "/wɪl bi ɪnˈdʊrɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow, players will be enduring intense mob battles in the dark caverns.",
+          "ja": "明日、プレイヤーたちは暗い洞窟で激しいモブとの戦闘に耐えるだろう。",
+          "ipa": "/təˈmɑroʊ | ˈpleɪərz wɪl bi ɪnˈdʊrɪŋ ɪnˈtɛns məb ˈbætəlz ɪn ðə dɑːrk ˈkævərnz/",
+          "linking": [
+            "Tomorrow → /oʊ/ で終わり、次は /p/ [təˈmɑroʊ ˈpleɪərz]",
+            "will → 弱形 /wɪl/",
+            "be → 弱形 /bi/（しばしば /bə/）",
+            "enduring → 語末の /ŋ/ が intense の /ɪ/ に軽く接続 [ɪnˈdʊrɪŋ ɪnˈtɛns] エンデュアリング インテンス",
+            "the → 弱形 /ðə/",
+            "dark → /k/ が /k/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "タモロウ プレイヤーズ ウィル ビー エンデュアリング インテンス モブ バットルズ イン ザ ダーク キャバーンズ"
+        },
+        {
+          "en": "We'll be enduring the freezing cold while building our winter shelter on the snowy mountain.",
+          "ja": "雪の山で冬のシェルターを建てている間、凍りついた寒さに耐えるだろう。",
+          "ipa": "/wil bi ɪnˈdʊrɪŋ ðə ˈfriːzɪŋ koʊld ˈwaɪl ˈbɪldɪŋ ɑr ˈwɪntər ˈʃɛltər ɑn ðə ˈsnoʊi ˈmaʊntn̩/",
+          "linking": [
+            "We'll → 縮約形 /wil/（will の弱形）",
+            "be → 弱形 /bi/",
+            "enduring → 語末の /ŋ/ が the の /ð/ に続く（子音+子音で連結なし）[ɪnˈdʊrɪŋ ðə]",
+            "the → 弱形 /ðə/",
+            "our → 語末の /r/ が winter の /w/ に続く（子音+子音で連結なし）",
+            "mountain → /n/ で終わり、通常は /ən/ で弱く発音される [ˈmaʊntn̩]"
+          ],
+          "kana": "ウィル ビー エンデュアリング ザ フリージング コウルド ワイル ビルディング アワー ウィンター シェルター オン ザ スノウイ マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have endured",
+      "ipa": "/wɪl həv ɪnˈdʊrd/",
+      "examples": [
+        {
+          "en": "By the end of the quest, we will have endured countless trials and defeated many bosses.",
+          "ja": "クエストの終わりまでに、私たちは数え切れないほどの試練に耐えて、多くのボスを倒しているだろう。",
+          "ipa": "/baɪ ðɪ ɛnd əv ðə kwɛst | wi wɪl həv ɪnˈdʊrd ˈkaʊntləs ˈtraɪəlz ənd dɪˈfitɪd ˈmɛni ˈbɑsɪz/",
+          "linking": [
+            "By → 語末の /aɪ/ で次の /ð/ に続く（母音+子音）",
+            "the → 弱形 /ðə/ [ðɪ]",
+            "end → /d/ が of の弱形 /əv/ に続く（子音+母音で連結傾向）[ɛnd əv]",
+            "of → 弱形 /əv/",
+            "the → 弱形 /ðə/",
+            "will → 弱形 /wɪl/",
+            "have → 弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "and → 弱形 /ənd/ または /ən/ [ənd dɪˈfitɪd] アンド ディフィーティド"
+          ],
+          "kana": "バイ ディ エンド アヴ ザ クエスト ウィル ハヴ エンデュアード カウントレス トライアルズ アンド ディフィーティド メニー ボシーズ"
+        },
+        {
+          "en": "By sunrise, the stone walls will have endured the entire night of relentless mob attacks.",
+          "ja": "日の出までに、石の壁は絶え間ないモブ攻撃の一晩全体に耐えているだろう。",
+          "ipa": "/baɪ ˈsɑnraɪz | ðə stoʊn wɔlz wɪl həv ɪnˈdʊrd ðə ənˈtaɪər naɪt əv rɪˈlɛntləs məb əˈtæks/",
+          "linking": [
+            "By → 語末の /aɪ/ で次の /s/ に続く（母音+子音）[baɪ ˈsɑnraɪz]",
+            "sunrise → /z/ で終わり、次は /ð/ に続く（子音+子音で連結なし）",
+            "the → 弱形 /ðə/",
+            "walls → /z/ が will の /w/ に続く（子音+子音で連結なし）[wɔlz wɪl]",
+            "will → 弱形 /wɪl/",
+            "have → 弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "endured → 語末の /d/ が the の /ð/ に続く（子音+子音で連結なし）",
+            "the → 弱形 /ðə/",
+            "of → 弱形 /əv/"
+          ],
+          "kana": "バイ サンライズ ザ ストウン ウォルズ ウィル ハヴ エンデュアード ザ エンタイア ナイト アヴ リレントレス モブ アタックス"
+        }
+      ]
     }
   ]
 }
