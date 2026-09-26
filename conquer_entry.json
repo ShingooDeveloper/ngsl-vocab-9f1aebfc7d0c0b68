@@ -74,5 +74,125 @@
       "kana": "ウィ プラン ター コンカー ニュー テリトリー バイ ビルディング セトルメンツ アクロス オール アンイクスプロアド バイオームズ"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "conquers",
+      "ipa": "/ˈkɑŋkɚz/",
+      "examples": [
+        {
+          "en": "He conquers the Nether fortress with powerful enchanted weapons.",
+          "ja": "彼は強力なエンチャント武器でネザーの砦を征服する。",
+          "ipa": "/hi ˈkɑŋkɚz ðə ˈnɛðɚ ˈfɔɹtɪs wɪð ˈpaʊərfəl ɪnˈtʃæntɪd ˈwɛpənz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "with の語末 /θ/ が powerful の /p/ に続く（consonant+consonant）"
+          ],
+          "kana": "ヒー コンカーズ ザ ネザー フォーティス ウィズ パワーフル エンチャンティド ウェポンズ"
+        },
+        {
+          "en": "Every player conquers new biomes and discovers amazing structures.",
+          "ja": "すべてのプレイヤーが新しいバイオームを征服し、素晴らしい構造物を発見する。",
+          "ipa": "/ˈɛvri ˈpleɪər ˈkɑŋkɚz nu baɪˈoʊmz ənd dɪˈskʌvərz əˈmeɪzɪŋ ˈstrʌktʃərz/",
+          "linking": [
+            "player の語末 /ɚ/ が conquers の /k/ に続く（consonant+consonant）",
+            "new の語末 /u/ が biomes の /b/ に続く（vowel+consonant）",
+            "and は弱形 /ənd/"
+          ],
+          "kana": "エヴリー プレイアー コンカーズ ニュー バイオームズ アンド ディスカバーズ アメイジング ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "conquered",
+      "ipa": "/ˈkɑŋkɚd/",
+      "examples": [
+        {
+          "en": "We conquered the stronghold and found the Eye of Ender inside.",
+          "ja": "私たちは要塞を征服し、中にエンダーアイを見つけた。",
+          "ipa": "/wi ˈkɑŋkɚd ðə ˈstrɔŋˌhoʊld ənd ˈfaʊnd ði ˈaɪ əv ˈɛndər ɪnˈsaɪd/",
+          "linking": [
+            "conquered の語末 /d/ が the の母音 /ə/ に連結（弱形）[ˈkɑŋkɚd ðə] コンカード ザ",
+            "Eye の語末 /aɪ/ が of の初頭 /ə/ に続く（vowel+consonant）",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ウィ コンカード ザ ストロングホールド アンド ファウンド ジ アイ アヴ エンダー インサイド"
+        },
+        {
+          "en": "They conquered the entire End dimension and defeated the Ender dragon.",
+          "ja": "彼らはエンド次元全体を征服し、エンダードラゴンを倒した。",
+          "ipa": "/ðeɪ ˈkɑŋkɚd ðɪ ɪnˈtaɪər ˈɛnd dɪˈmɛnʃən ənd dɪˈfitɪd ðə ˈɛndər ˈdræɡən/",
+          "linking": [
+            "conquered の語末 /d/ が the の弱形 /ðɪ/ に先行 [ˈkɑŋkɚd ðɪ]",
+            "and は弱形 /ənd/",
+            "defeated の語末 /d/ が the の弱形に先行"
+          ],
+          "kana": "ゼイ コンカード ジ インタイアー エンド ディメンション アンド ディフィーティド ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "conquered",
+      "ipa": "/ˈkɑŋkɚd/",
+      "examples": [
+        {
+          "en": "Having conquered the fortress, our team became legendary heroes.",
+          "ja": "砦を征服した後、私たちのチームは伝説の英雄となった。",
+          "ipa": "/ˈhævɪŋ ˈkɑŋkɚd ðə ˈfɔɹtɪs | ˈaʊɚ ˈtiːm bɪˈkeɪm ˈlɛdʒənˌɛri ˈhɪroʊz/",
+          "linking": [
+            "Having の語末 /ŋ/ が conquered の初頭 /k/ に続く（consonant+consonant）",
+            "conquered の語末 /d/ が the の弱形 /ðə/ に連結 [ˈkɑŋkɚd ðə] コンカード ザ",
+            "team の語末 /m/ が became の初頭に先行"
+          ],
+          "kana": "ハービング コンカード ザ フォーティス、アワー ティーム ビケイム レジェンデリー ヒロウズ"
+        },
+        {
+          "en": "The fortress conquered by us now serves as our main stronghold base.",
+          "ja": "私たちが征服した砦は、今私たちの主要な要塞基地として機能している。",
+          "ipa": "/ðə ˈfɔɹtɪs ˈkɑŋkɚd baɪ ˈʌs naʊ ˈsɜrvz æz ˈaʊɚ ˈmeɪn ˈstrɔŋˌhoʊld ˈbeɪs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "our の語末 /ɚ/ が main の /m/ に続く（consonant+consonant）",
+            "serves の語末 /z/ が as の初頭の /æ/ に連結 [ˈsɜrvzæz] サーヴズエズ"
+          ],
+          "kana": "ザ フォーティス コンカード バイ アス ナウ サーヴズエズ アワー メイン ストロングホールド ベイス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "conquering",
+      "ipa": "/ˈkɑŋkɚɪŋ/",
+      "examples": [
+        {
+          "en": "Conquering all biomes requires excellent planning and cooperation.",
+          "ja": "すべてのバイオームを征服するには、優れた計画と協力が必要です。",
+          "ipa": "/ˈkɑŋkɚɪŋ ɔl baɪˈoʊmz rɪˈkwaɪərz ˈɛksələnt ˈplænɪŋ ənd koʊˌɑpəˈreɪʃən/",
+          "linking": [
+            "Conquering の語末 /ŋ/ が all の初頭 /ɔ/ に連結 [ˈkɑŋkɚɪŋ ɔl] コンカリング オール",
+            "and は弱形 /ənd/",
+            "cooperation の最後"
+          ],
+          "kana": "コンカリング オール バイオームズ リクワイアーズ エクセラント プラニング アンド コーオパレーション"
+        },
+        {
+          "en": "He is conquering new territory by exploring and building settlements everywhere.",
+          "ja": "彼は探索と入植地建設によって新しい領土を征服している。",
+          "ipa": "/hi ɪz ˈkɑŋkɚɪŋ nu ˈtɛrətɔri baɪ ɪkˈsplɔrɪŋ ənd ˈbɪldɪŋ ˈsɛtəlmənts ˈɛvriˌwɛr/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "by の語末 /aɪ/ が exploring の /ɪ/ に続く（vowel+consonant）",
+            "and は弱形 /ənd/"
+          ],
+          "kana": "ヒー イズ コンカリング ニュー テリトリー バイ イクスプロアリング アンド ビルディング セトルメンツ エヴリウェア"
+        }
+      ]
+    }
+  ]
 }
