@@ -231,6 +231,102 @@
           "kana": "ディフレント イスティームズ イグジスト アマング ビルダーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has esteemed",
+      "ipa": "/həz ɪˈstimd/",
+      "examples": [
+        {
+          "en": "The community has esteemed this architect's work for years.",
+          "ja": "コミュニティはこの建築家の仕事を長年にわたり高く評価してきました。",
+          "ipa": "/ðə kəˈmjunəti həz ɪˈstimd ðɪs ˈɑrkɪˌtɛkts wɝk fɔr jɪrz/",
+          "linking": [
+            "the は弱形 /ðə/ で community に先行 [ðə kəˈmjunəti] ザ コミュニティ",
+            "has は弱形 /həz/ で esteemed に続く [həz ɪˈstimd] ハズ イスティームド",
+            "esteemed の語末子音 /d/ が this の語頭子音 /ð/ に未開放で続く [ɪˈstimd̚ ðɪs] イスティームド ディス",
+            "for は弱形 /fɔr/ で years に先行 [fɔr jɪrz] フォー イヤーズ"
+          ],
+          "kana": "ザ コミュニティ ハズ イスティームド ディス アーキテクツ ワーク フォー イヤーズ"
+        },
+        {
+          "en": "Great players have esteemed the craftsmanship of professional builders.",
+          "ja": "優れたプレイヤーたちはプロの建築者の職人技を高く評価してきました。",
+          "ipa": "/ɡreɪt ˈpleɪɚz həv ɪˈstimd ðə ˈkræftsmənʃɪp əv prəˈfɛʃənəl ˈbɪldɚz/",
+          "linking": [
+            "great の語末 /t/ が players の /p/ に未開放で続く [ɡreɪt̚ ˈpleɪɚz] グレイッ プレイヤーズ",
+            "players の語末子音 /z/ が have に続く。have は弱形 /həv/ [ˈpleɪɚz həv] プレイヤーズ ハヴ",
+            "have の /v/ が esteemed の /ɪ/ に連結 [həv ɪˈstimd] ハヴ イスティームド",
+            "esteemed の語末子音 /d/ が the に続き未開放。the は弱形 /ðə/ [ɪˈstimd̚ ðə] イスティームド ザ"
+          ],
+          "kana": "グレイッ プレイヤーズ ハヴ イスティームド ザ クラフツマンシップ アヴ プロフェッショナル ビルダーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had esteemed",
+      "ipa": "/həd ɪˈstimd/",
+      "examples": [
+        {
+          "en": "Before the server reset, everyone had esteemed the legendary fortress as the greatest achievement.",
+          "ja": "サーバーリセット前に、皆が伝説の要塞を最大の成果として高く評価していました。",
+          "ipa": "/bɪˈfɔr ðə ˈsɝvɚ ˈrɛsɛt, ˈɛvriwʌn həd ɪˈstimd ðə ˈlɛdʒənˌdɛri ˈfɔrtəs æz ðə ˈɡreɪtəst əˈtʃivmənt/",
+          "linking": [
+            "before の語末子音 /r/ が the に続く（r-linking）。the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォー ザ",
+            "server の語末 /ɚ/ が reset の初頭に r-連結 [ˈsɝvɚ ˈrɛsɛt] サーバー リセット",
+            "everyone の語末子音 /n/ が had に続く（子音+子音）。had は弱形 /həd/ [ˈɛvriwʌn həd] エブリワン ハド",
+            "esteemed の語末子音 /d/ が the に続き未開放。the は弱形 /ðə/ [ɪˈstimd̚ ðə] イスティームド ザ"
+          ],
+          "kana": "ビフォー ザ サーバー リセット エブリワン ハド イスティームド ザ レジェンダリー フォートレス アズ ザ グレイテスト アチーヴメント"
+        },
+        {
+          "en": "The miners had esteemed traditional mining methods until new techniques proved faster.",
+          "ja": "採掘者たちは新しい技術がより速いことが証明されるまで、伝統的な採掘方法を高く評価していました。",
+          "ipa": "/ðə ˈmaɪnɚz həd ɪˈstimd trəˈdɪʃənəl ˈmaɪnɪŋ ˈmɛθədz ənˈtɪl ˈnu tɛkˈnikz pruvd ˈfæstɚ/",
+          "linking": [
+            "the は弱形 /ðə/ で miners に先行 [ðə ˈmaɪnɚz] ザ マイナーズ",
+            "miners の語末子音 /z/ が had に続く。had は弱形 /həd/ [ˈmaɪnɚz həd] マイナーズ ハド",
+            "had の /d/ が esteemed の /ɪ/ に連結 [həd ɪˈstimd] ハド イスティームド",
+            "esteemed の語末子音 /d/ が traditional の /t/ に未開放で続く [ɪˈstimd̚ trəˈdɪʃənəl] イスティームド トラディショナル"
+          ],
+          "kana": "ザ マイナーズ ハド イスティームド トラディショナル マイニング メサッズ アンティル ニュー テクニークス プルーヴド ファスター"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been esteeming",
+      "ipa": "/həz bɪn ɪˈstimɪŋ/",
+      "examples": [
+        {
+          "en": "Players have been esteeming innovative building techniques in recent updates.",
+          "ja": "プレイヤーたちは最近のアップデートで革新的な建築技法を高く評価してきました。",
+          "ipa": "/ˈpleɪɚz həv bɪn ɪˈstimɪŋ ɪˈnɑvətɪv ˈbɪldɪŋ tɛkˈnikz ɪn ˈrisənt ˈʌpˌdeɪts/",
+          "linking": [
+            "players の語末子音 /z/ が have に続く。have は弱形 /həv/ [ˈpleɪɚz həv] プレイヤーズ ハヴ",
+            "have の /v/ が been に続く。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been の /n/ が esteeming に続く（子音+子音）[bɪn ɪˈstimɪŋ] ビン イスティーミング",
+            "in は弱形 /ɪn/ で recent に先行 [ɪn ˈrisənt] イン リーセント"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン イスティーミング イノベイティヴ ビルディング テクニークス イン リーセント アップデイツ"
+        },
+        {
+          "en": "The community has been esteeming the master builders' contributions to server development.",
+          "ja": "コミュニティはマスタービルダーたちのサーバー開発への貢献を高く評価し続けています。",
+          "ipa": "/ðə kəˈmjunəti həz bɪn ɪˈstimɪŋ ðə ˈmæstɚ ˈbɪldɚz kɑnˌtrɪˈbjuʃənz tu ˈsɝvɚ dɪˈvɛləpmənt/",
+          "linking": [
+            "the は弱形 /ðə/ で community に先行 [ðə kəˈmjunəti] ザ コミュニティ",
+            "community の語末 /i/ が has に続く。has は弱形 /həz/ [kəˈmjunəti həz] コミュニティ ハズ",
+            "has の /z/ が been に続く。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been の /n/ が esteeming に続き未開放 [bɪn̚ ɪˈstimɪŋ] ビン イスティーミング"
+          ],
+          "kana": "ザ コミュニティ ハズ ビン イスティーミング ザ マスター ビルダーズ コントリビューションズ トゥ サーバー ディヴェロップメント"
+        }
+      ]
     }
   ]
 }
