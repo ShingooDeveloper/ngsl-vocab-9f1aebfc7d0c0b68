@@ -444,6 +444,98 @@
           "kana": "バイ ザ タイム ウィ ァライヴド ザ ドラゴン ハド ビン ハンブリング インベーダーズ オール イーブニング"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "未来形（will + 動詞原形）",
+      "text": "will humble",
+      "ipa": "/wɪl ˈhʌmbəl/",
+      "examples": [
+        {
+          "en": "I'll humble any player who enters this trap.",
+          "ja": "このトラップに入るどんなプレイヤーも謙虚にさせます。",
+          "ipa": "/aɪl ˈhʌmbəl ˈɛni ˈpleɪɚ huː ˈɛntɚz ðɪs ˈtræp/",
+          "linking": [
+            "I'll = /aɪl/ (I will の縮約、/l/ が発音される) → 「アイル」。/l/ と humble の /h/ は子音-子音で未開放、連結なし",
+            "humble の語末子音 /l/ が any の初頭母音 /ɛ/ に連結 [ˈhʌmbəlɛni]、「ハンボレニー」"
+          ],
+          "kana": "アイル ハンボレニー プレイヤー フー エンターズ ディス トラップ"
+        },
+        {
+          "en": "They will humble anyone foolish enough to challenge them.",
+          "ja": "彼らに挑むほど愚かな誰もが謙虚にされるでしょう。",
+          "ipa": "/ðeɪ wɪl ˈhʌmbəl ˈɛniˌwʌn ˈfuːlɪʃ ɪˈnʌf tə ˈtʃælɪndʒ ðɛm/",
+          "linking": [
+            "They will = /ðeɪ wɪl/ → 「ザイ ウィル」",
+            "humble の語末子音 /l/ が anyone の初頭母音 /ɛ/ に連結 [ˈhʌmbəlɛniˌwʌn] → 「ハンボレニワン」",
+            "to は機能語で弱形 /tə/ に弱化、「タ」"
+          ],
+          "kana": "ザイ ウィル ハンボレニワン フーリッシュ イナフ タ チャレンジ ザム"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be humbling",
+      "ipa": "/wɪl bi ˈhʌmblɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper traps will be humbling visitors for weeks.",
+          "ja": "クリーパー トラップは数週間、訪問者を謙虚にし続けるでしょう。",
+          "ipa": "/ðə ˈkɹiːpɚ ˈtræps wɪl bi ˈhʌmblɪŋ ˈvɪzɪtɚz fɔɹ wiːks/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/ → 「ザ」",
+            "will be = /wɪl bi/ → 「ウィル ビー」。be は助動詞で弱いが /bi/ と発音される",
+            "humbling の語末鼻音 /ŋ/ が visitors の初頭母音 /ɪ/ に連結 [ˈhʌmblɪŋɪ] → 「ハンブリング ビジターズ」"
+          ],
+          "kana": "ザ クリーパー トラップス ウィル ビー ハンブリング ビジターズ フォア ウィークス"
+        },
+        {
+          "en": "She'll be humbling her opponents in the PvP arena next week.",
+          "ja": "来週、彼女はPvPアリーナで彼女の相手を謙虚にし続けるでしょう。",
+          "ipa": "/ʃiːl bi ˈhʌmblɪŋ hɚ əˈpoʊnənts ɪn ðə ˈpiːviːˈpiː əˈɹiːnə nɛkst wiːk/",
+          "linking": [
+            "She'll = /ʃiːl/ (she will の縮約) → 「シール」",
+            "be = /bi/ → 「ビー」。/l/ と be の /b/ は子音-子音で未開放、連結なし",
+            "humbling の語末鼻音 /ŋ/ が opponents の初頭母音 /ə/ に連結 [ˈhʌmblɪŋə] → 「ハンブリングア」",
+            "her は /hɚ/ で r-色彩音 → 「ハー」"
+          ],
+          "kana": "シール ビー ハンブリングア ハー アポウネンツ イン ザ ピー ブイ ピー アリーナ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have humbled",
+      "ipa": "/wɪl əv ˈhʌmbəld/",
+      "examples": [
+        {
+          "en": "I'll have humbled five players by the time the boss arrives.",
+          "ja": "ボスが到着するまでに、5人のプレイヤーを謙虚にさせているでしょう。",
+          "ipa": "/aɪl əv ˈhʌmbəld faɪv ˈpleɪɚz baɪ ðə taɪm ðə bɑs əˈɹaɪvz/",
+          "linking": [
+            "I'll = /aɪl/ (I will) → 「アイル」。/l/ と have の /h/ は子音-子音で未開放",
+            "have = /əv/ で弱形 → 「ハヴ」。会話では /v/ は次の音へ連結することもある",
+            "humbled の語末 /d/ が five の初頭子音 /f/ の前で未開放。子音-子音、連結なし",
+            "the は冠詞で弱形 /ðə/ → 「ザ」"
+          ],
+          "kana": "アイル ハヴ ハンボルド ファイブ プレイヤーズ バイ ザ タイム ザ ボス アライブズ"
+        },
+        {
+          "en": "They will have humbled the Warden before nightfall.",
+          "ja": "夜までに、彼らはウォーデンを謙虚にさせているでしょう。",
+          "ipa": "/ðeɪ wɪl əv ˈhʌmbəld ðə ˈwɔɹdən bɪˈfoɹ ˈnaɪtˌfɔl/",
+          "linking": [
+            "They will = /ðeɪ wɪl/ → 「ザイ ウィル」",
+            "have = /əv/ で弱形 → 「ハヴ」。/v/ と humbled の /h/ は子音-子音で未開放",
+            "humbled の語末 /d/ が the の初頭子音 /ð/ の前で未開放。子音-子音、連結なし",
+            "the は冠詞で弱形 /ðə/ → 「ザ」"
+          ],
+          "kana": "ザイ ウィル ハヴ ハンボルド ザ ウォーデン ビフォア ナイトフォール"
+        }
+      ]
     }
   ]
 }
