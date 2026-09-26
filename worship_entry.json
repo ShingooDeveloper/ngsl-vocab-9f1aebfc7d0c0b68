@@ -51,6 +51,200 @@
       "kana": "スピードランナーズ フー ワーシップ アフィシェンシー ウィル オールウェイズ シーク ザ ファステスト パス スルー ザ ネザー"
     }
   ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is worshiping",
+      "ipa": "/ɪz ˈwɝʃɪpɪŋ/",
+      "examples": [
+        {
+          "en": "Players are worshiping the efficiency of diamond pickaxes right now.",
+          "ja": "プレイヤーたちは今、ダイヤモンドのつるはしの効率を崇拝しています。",
+          "ipa": "/ˈpleɪərz ɑr ˈwɝʃɪpɪŋ ðə əˈfɪʃənsi əv ˈdaɪmənd ˈpɪkˌæksɪz ˈɹaɪt ˈnaʊ/",
+          "linking": [
+            "are は弱形 /ɑr/ で worshiping の /w/ に続く [ɑr ˈwɝʃɪpɪŋ] アー ワーシッピング",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "right の語末子音 /t/ が now に続き未開放 [ˈɹaɪt̚ ˈnaʊ] ライト ナウ"
+          ],
+          "kana": "プレイヤーズ アー ワーシッピング ザ エフィシェンシー アヴ ダイモンド ピックアクシーズ ライト ナウ"
+        },
+        {
+          "en": "The architects are worshiping perfect symmetry in their latest project.",
+          "ja": "建築家たちは彼らの最新プロジェクトで完全な対称性を崇拝しています。",
+          "ipa": "/ðə ˈɑrkɪˌtɛkts ɑr ˈwɝʃɪpɪŋ ˈpɝfɪkt ˈsɪməstri ɪn ðɛr ˈleɪtəst ˈprɑdʒɛkt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "architects の語末子音 /s/ が are に続く。are は弱形 /ɑr/ [ˈɑrkɪˌtɛkts ɑr] アーキテクツ アー",
+            "are の /r/ が worshiping に続く（r-linking）",
+            "in の語末子音 /n/ が their の初頭 /ð/ に未開放 [ɪn̚ ðɛr] イン ゼア"
+          ],
+          "kana": "ザ アーキテクツ アー ワーシッピング パーフェクト シメトリー イン ゼア レイテスト プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was worshiping",
+      "ipa": "/wəz ˈwɝʃɪpɪŋ/",
+      "examples": [
+        {
+          "en": "Before the patch, speedrunners were worshiping the old glitch mechanics.",
+          "ja": "パッチの前に、スピードランナーたちは古いグリッチ仕様を崇拝していました。",
+          "ipa": "/bɪˈfɔr ðə pætʃ ˈspiːdˌrʌnərz wɚ ˈwɝʃɪpɪŋ ðə oʊld ɡlɪtʃ məˈkænɪks/",
+          "linking": [
+            "before の語末子音 /r/ が the に連結（r-linking）。the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォア ザ",
+            "patch の語末子音 /tʃ/ が speedrunners の初頭に未開放 [pætʃ̚ ˈspiːdˌrʌnərz] パッチ スピードランナーズ",
+            "speedrunners の語末子音 /z/ が were に続く。were は弱形 /wɚ/ [ˈspiːdˌrʌnərz wɚ] スピードランナーズ ワー",
+            "were の /r/ が worshiping に連結（r-linking）[wɚ ˈwɝʃɪpɪŋ] ワー ワーシッピング"
+          ],
+          "kana": "ビフォア ザ パッチ スピードランナーズ ワー ワーシッピング ザ オールド グリッチ マカニクス"
+        },
+        {
+          "en": "She was worshiping the traditional mining methods before exploring deeper caves.",
+          "ja": "彼女はより深い洞窟を探索する前に、伝統的な採掘方法を崇拝していました。",
+          "ipa": "/ʃi wəz ˈwɝʃɪpɪŋ ðə trəˈdɪʃənəl ˈmaɪnɪŋ ˈmɛθədz bɪˈfɔr ɪkˈsplɔɹɪŋ ˈdipər ˈkeɪvz/",
+          "linking": [
+            "was は弱形 /wəz/ で worshiping の /w/ に続く [wəz ˈwɝʃɪpɪŋ] ワズ ワーシッピング",
+            "the は弱形 /ðə/",
+            "methods の語末子音 /z/ が before に続く（子音+子音）",
+            "before の語末子音 /r/ が exploring に連結（r-linking）[bɪˈfɔr ɪkˈsplɔɹɪŋ] ビフォア イクスプロアリング"
+          ],
+          "kana": "シー ワズ ワーシッピング ザ トラディショナル マイニング メッソッズ ビフォア イクスプロアリング ディーパー ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been worshiping",
+      "ipa": "/həd bɪn ˈwɝʃɪpɪŋ/",
+      "examples": [
+        {
+          "en": "I had been worshiping the Ender Dragon's dominance for weeks before finding the stronghold.",
+          "ja": "要塞を見つける前に、エンダードラゴンの優位性を数週間崇拝していました。",
+          "ipa": "/aɪ həd bɪn ˈwɝʃɪpɪŋ ðə ˈɛndər ˈdræɡənz ˈdɑmənəns fɔr wiks bɪˈfɔr ˈfaɪndɪŋ ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "had は弱形 /həd/ で been の /b/ に続く [həd bɪn] ハド ビン",
+            "been は弱形 /bɪn/ で worshiping の /w/ に連結（r-linking 相当）[bɪn ˈwɝʃɪpɪŋ] ビン ワーシッピング",
+            "the は弱形 /ðə/",
+            "Dragon's の語末子音 /z/ が dominance に続く（子音+子音）"
+          ],
+          "kana": "アイ ハド ビン ワーシッピング ザ エンダー ドラゴンズ ドミナンス フォア ウィークス ビフォア ファインディング ザ ストロングホールド"
+        },
+        {
+          "en": "By the time the update came, builders had been worshiping medieval architecture for months.",
+          "ja": "アップデートが来た時点で、建築家たちは数ヶ月間中世建築を崇拝していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈʌpdeɪt keɪm ˈbɪldərz həd bɪn ˈwɝʃɪpɪŋ ˌmɛdiˈivəl ˈɑrkɪˌtɛkʃər fɔr ˈmʌnθz/",
+          "linking": [
+            "by の語末 /aɪ/ が the に続く（i-linking）",
+            "the は弱形 /ðə/",
+            "time の語末子音 /m/ が the に続き未開放 [taɪm̚ ðə] タイム ザ",
+            "builders の語末子音 /z/ が had に続く。had は弱形 /həd/ [ˈbɪldərz həd] ビルダーズ ハド"
+          ],
+          "kana": "バイ ザ タイム ザ アップデイト ケイム ビルダーズ ハド ビン ワーシッピング メディーヴァル アーキテクチャー フォア マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has worshiped",
+      "ipa": "/həz ˈwɝʃɪpt/",
+      "examples": [
+        {
+          "en": "The speedrunner has worshiped the efficiency of diamond tools.",
+          "ja": "スピードランナーはダイヤモンド道具の効率を崇拝してきました。",
+          "ipa": "/ðə ˈspiːdˌrʌnɚ həz ˈwɝʃɪpt ðə əˈfɪʃənsi əv ˈdaɪmənd tulz/",
+          "linking": [
+            "the は弱形 /ðə/ で speedrunner に先行 [ðə ˈspiːdˌrʌnɚ] ザ スピードランナー",
+            "speedrunner の語末子音 /r/ が has に続く (r-linking)。has は弱形 /həz/ [ˈspiːdˌrʌnɚ həz] ハズ",
+            "has の /z/ が worshiped に続く [həz ˈwɝʃɪpt] ハズ ワーシップト",
+            "worshiped の語末子音 /t/ が the に続き未開放。the は弱形 /ðə/ [ˈwɝʃɪpt̚ ðə] ワーシップト ザ"
+          ],
+          "kana": "ザ スピードランナー ハズ ワーシップト ザ エフィシェンシー アヴ ダイモンド ツールズ"
+        },
+        {
+          "en": "Builders have worshiped perfect symmetry for ages.",
+          "ja": "建築家たちは長年にわたり完全な対称性を崇拝してきました。",
+          "ipa": "/ˈbɪldɚz həv ˈwɝʃɪpt ˈpɝfɪkt ˈsɪməstri fɚ ˈeɪdʒəz/",
+          "linking": [
+            "builders の語末子音 /z/ が have に続く。have は弱形 /həv/ [ˈbɪldɚz həv] ビルダーズ ハヴ",
+            "have の /v/ が worshiped に続く [həv ˈwɝʃɪpt] ハヴ ワーシップト",
+            "worshiped の語末子音 /t/ が perfect に続き未開放 [ˈwɝʃɪpt̚ ˈpɝfɪkt] ワーシップト パーフェクト",
+            "for は弱形 /fɚ/ で ages に先行 [fɚ ˈeɪdʒəz] ファー エイジェズ"
+          ],
+          "kana": "ビルダーズ ハヴ ワーシップト パーフェクト シメトリー ファー エイジェズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had worshiped",
+      "ipa": "/həd ˈwɝʃɪpt/",
+      "examples": [
+        {
+          "en": "Players had worshiped the Ender Dragon before finding the stronghold.",
+          "ja": "プレイヤーたちは要塞を発見する前に、エンダードラゴンを崇拝していました。",
+          "ipa": "/ˈpleɪɚz həd ˈwɝʃɪpt ðə ˈɛndər ˈdræɡən bɪˈfɔr ˈfaɪndɪŋ ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "players の語末子音 /z/ が had に続く。had は弱形 /həd/ [ˈpleɪɚz həd] プレイヤーズ ハド",
+            "had の /d/ が worshiped に続く [həd ˈwɝʃɪpt] ハド ワーシップト",
+            "worshiped の語末子音 /t/ が the に続き未開放。the は弱形 /ðə/ [ˈwɝʃɪpt̚ ðə] ワーシップト ザ",
+            "before の語末子音 /r/ が finding に続く (r-linking) [bɪˈfɔr ˈfaɪndɪŋ] ビフォー ファインディング"
+          ],
+          "kana": "プレイヤーズ ハド ワーシップト ザ エンダー ドラゴン ビフォー ファインディング ザ ストロングホールド"
+        },
+        {
+          "en": "Miners had worshiped traditional techniques until redstone engineering changed everything.",
+          "ja": "採掘者たちはレッドストーン工学がすべてを変えるまで、伝統的なテクニックを崇拝していました。",
+          "ipa": "/ˈmaɪnɚz həd ˈwɝʃɪpt trəˈdɪʃənəl tɛkˈnikz ənˈtɪl ˈrɛdˌstoʊn ˌɛndʒɪˈnɪɹɪŋ ˈtʃeɪndʒd ˈɛvriˌθɪŋ/",
+          "linking": [
+            "miners の語末子音 /z/ が had に続く。had は弱形 /həd/ [ˈmaɪnɚz həd] マイナーズ ハド",
+            "had の /d/ が worshiped に続く [həd ˈwɝʃɪpt] ハド ワーシップト",
+            "worshiped の語末子音 /t/ が traditional に続き未開放 [ˈwɝʃɪpt̚ trəˈdɪʃənəl] ワーシップト トラディショナル",
+            "until の語末子音 /l/ が redstone に続く（子音+子音）[ənˈtɪl ˈrɛdˌstoʊn] アンティル レッドストーン"
+          ],
+          "kana": "マイナーズ ハド ワーシップト トラディショナル テクニークス アンティル レッドストーン エンジニアリング チェンジド エブリシング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been worshiping",
+      "ipa": "/həz bɪn ˈwɝʃɪpɪŋ/",
+      "examples": [
+        {
+          "en": "Players have been worshiping speedrun techniques throughout this season.",
+          "ja": "プレイヤーたちはこのシーズン中、スピードラン技法を崇拝し続けています。",
+          "ipa": "/ˈpleɪɚz həv bɪn ˈwɝʃɪpɪŋ ˈspiːdˌrʌn tɛkˈnikz θruːˈaʊt ðɪs ˈsizən/",
+          "linking": [
+            "players の語末子音 /z/ が have に続く。have は弱形 /həv/ [ˈpleɪɚz həv] プレイヤーズ ハヴ",
+            "have の /v/ が been に続く。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been の /n/ が worshiping に続き未開放 [bɪn̚ ˈwɝʃɪpɪŋ] ビン ワーシッピング",
+            "throughout の語末子音 /t/ が this に続き未開放。this の /ð/ が続く [θruːˈaʊt̚ ðɪs] スルーアウット ディス"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン ワーシッピング スピードラン テクニークス スルーアウット ディス シーズン"
+        },
+        {
+          "en": "The community has been worshiping innovation in architecture for many updates.",
+          "ja": "コミュニティは多くのアップデートにわたり、建築における革新を崇拝し続けています。",
+          "ipa": "/ðə kəˈmjunəti həz bɪn ˈwɝʃɪpɪŋ ɪˈnɑvəʃən ɪn ˈɑrkɪˌtɛkʃɚ fɔr ˈmɛni ˈʌpˌdeɪts/",
+          "linking": [
+            "the は弱形 /ðə/ で community に先行 [ðə kəˈmjunəti] ザ コミュニティ",
+            "community の語末 /i/ が has に続く。has は弱形 /həz/ [kəˈmjunəti həz] コミュニティ ハズ",
+            "has の /z/ が been に続く。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been の /n/ が worshiping に続き未開放 [bɪn̚ ˈwɝʃɪpɪŋ] ビン ワーシッピング"
+          ],
+          "kana": "ザ コミュニティ ハズ ビン ワーシッピング イノヴェイション イン アーキテクチャー フォー メニー アップデイツ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "worship at the altar of",
