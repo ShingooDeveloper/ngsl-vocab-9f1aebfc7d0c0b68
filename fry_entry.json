@@ -302,6 +302,186 @@
           "kana": "ヒー ハド ビン フライイング ベリアス インベディエンツ ウェン ザ サーバー シャット ダウン アンイクスペクティッドリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has fried",
+      "ipa": "/həz ˈfraɪd/",
+      "examples": [
+        {
+          "en": "She has fried fish in the furnace for the whole team.",
+          "ja": "彼女はチーム全体のために炉で魚を揚げました。",
+          "ipa": "[ʃi həz ˈfraɪd ˈfɪʃ ɪn ðə ˈfɝːnəs fɚ ðə ˈhoʊl ˈtim]",
+          "linking": [
+            "has fried → has は弱形 /həz/ ハズ。fried に続く",
+            "in the → /n/ が弱形 /ðə/ に続く。the は /ðə/ ザ",
+            "for the → 語末 /r/ は r-colored /fɚ/。the は /ðə/ ザ"
+          ],
+          "kana": "シー ハズ フライド フィッシュ イン ザ ファーネス ファー ザ ホウル ティーム"
+        },
+        {
+          "en": "They have fried potatoes since the morning raid.",
+          "ja": "彼らは朝のレイド以来、ジャガイモを揚げています。",
+          "ipa": "[ðeɪ həv ˈfraɪd pəˈteɪtoʊz sɪns ðə ˈmɔrnɪŋ ˈreɪd]",
+          "linking": [
+            "have fried → have は弱形 /həv/ ハヴ。fried に続く",
+            "potatoes の /t/ がフラップ化 [pəˈteɪɾoʊz] ポテイロウズ。since に続く",
+            "the は弱形 /ðə/ ザ。morning に続く"
+          ],
+          "kana": "ゼイ ハヴ フライド ポテイロウズ シンス ザ モーニング レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had fried",
+      "ipa": "/həd ˈfraɪd/",
+      "examples": [
+        {
+          "en": "I had fried all the fish before the sun set.",
+          "ja": "太陽が沈む前に、すべての魚を揚げていました。",
+          "ipa": "[aɪ həd ˈfraɪd ɔl ðə ˈfɪʃ bɪˈfɔr ðə ˈsʌn ˈsɛt]",
+          "linking": [
+            "had fried → had は弱形 /həd/ ハド。fried に続く",
+            "all the → 語末 /l/ が弱形 /ðə/ に連結 [ɔl ðə]。the は /ðə/ ザ",
+            "before the → 語末 /r/ は r-colored /bɪˈfɔr/。the は /ðə/ ザ"
+          ],
+          "kana": "アイ ハド フライド オール ザ フィッシュ ビフォー ザ サン セット"
+        },
+        {
+          "en": "We had fried several items by the time the raid ended.",
+          "ja": "レイドが終わるまでに、いくつかのアイテムを揚げていました。",
+          "ipa": "[wi həd ˈfraɪd ˈsɛvrəl ˈaɪtəmz baɪ ðə ˈtaɪm ðə ˈreɪd ˈɛndɪd]",
+          "linking": [
+            "had fried → had は弱形 /həd/ ハド。fried に続く",
+            "by the → /aɪ/ が弱形 /ðə/ に続く。the は /ðə/ ザ",
+            "time の語末 /m/ が the の初頭 /ðə/ に続く"
+          ],
+          "kana": "ウィ ハド フライド セブラル アイテムズ バイ ザ タイム ザ レイド エンディド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been frying",
+      "ipa": "/həz bɪn ˈfraɪɪŋ/",
+      "examples": [
+        {
+          "en": "She has been frying fish since we arrived at the base.",
+          "ja": "彼女は私たちが基地に到着してから魚を揚げ続けています。",
+          "ipa": "[ʃi həz bɪn ˈfraɪɪŋ ˈfɪʃ sɪns wi əˈraɪvd æt ðə ˈbeɪs]",
+          "linking": [
+            "has been → has は弱形 /həz/ ハズ。been は弱形 /bɪn/ ビン",
+            "since we → 語末 /s/ が /w/ に続く",
+            "arrived at → 語末 /d/ が未開放で /æ/ に続く [əˈraɪvd̚ æt]。the は /ðə/ ザ"
+          ],
+          "kana": "シー ハズ ビン フライイング フィッシュ シンス ウィ アライブド アッ ザ ベイス"
+        },
+        {
+          "en": "They have been frying food for new players all day.",
+          "ja": "彼らは一日中新しいプレイヤーのために食料を揚げ続けています。",
+          "ipa": "[ðeɪ həv bɪn ˈfraɪɪŋ ˈfuːd fɚ ˈnuː ˈpleɪərz ɔl ˈdeɪ]",
+          "linking": [
+            "have been → have は弱形 /həv/ ハヴ。been は弱形 /bɪn/ ビン",
+            "for は弱形 /fɚ/ ファー。new に続く",
+            "new players → /n/ が /p/ に続く。all に続く"
+          ],
+          "kana": "ゼイ ハヴ ビン フライイング フード ファー ニュー プレイヤーズ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will fry",
+      "ipa": "/wɪl fraɪ/",
+      "examples": [
+        {
+          "en": "I'll fry fish at the furnace tomorrow.",
+          "ja": "明日、炉で魚を揚げます。",
+          "ipa": "[aɪl ˈfraɪ ˈfɪʃ æt ðə ˈfɝːnəs təˈmɑɹoʊ]",
+          "linking": [
+            "I'll fry → 語末 /l/ が /f/ に続く。I'll は /aɪl/ アイル",
+            "at the → 語末 /t/ が未開放で /ðə/ に続く。the は弱形 /ðə/ ザ",
+            "furnace tomorrow → 語末 /s/ が弱形 /tə/ に続く。tomorrow は /təˈmɑɹoʊ/"
+          ],
+          "kana": "アイル フライ フィッシュ アッ ザ ファーネス トゥモロー"
+        },
+        {
+          "en": "They'll fry potatoes after mining diamonds.",
+          "ja": "彼らはダイヤを採掘した後、ジャガイモを揚げます。",
+          "ipa": "[ðɛl ˈfraɪ pəˈteɪtoʊz ˈæftɚ ˈmaɪnɪŋ ˈdaɪməndz]",
+          "linking": [
+            "They'll fry → 語末 /l/ が /f/ に続く。They'll は /ðɛl/ ゼル",
+            "fry potatoes → 語末 /aɪ/ が /p/ に続く。diphthong から consonant へ",
+            "after の /t/ がフラップ化 [ˈæftɚ] アフター"
+          ],
+          "kana": "ゼル フライ ポテイトウズ アフター マイニング ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be frying",
+      "ipa": "/wɪl bi ˈfraɪɪŋ/",
+      "examples": [
+        {
+          "en": "She'll be frying items while I'm building the farm.",
+          "ja": "私が農場を建てている間に、彼女はアイテムを揚げます。",
+          "ipa": "[ʃil bɪ ˈfraɪɪŋ ˈaɪtəmz waɪl aɪm ˈbɪldɪŋ ðə ˈfɑɹm]",
+          "linking": [
+            "She'll be → 語末 /l/ が弱形 /bɪ/ に続く。She'll は /ʃil/ シル、be は弱形 /bɪ/",
+            "frying items → 語末 /ŋ/ が /aɪ/ に続く。frying は /ˈfraɪɪŋ/ フライイング",
+            "while building → 語末 /l/ が /b/ に続く。while は /waɪl/ ホワイル"
+          ],
+          "kana": "シル ビー フライイング アイテムズ ホワイル アイム ビルディング ザ ファーム"
+        },
+        {
+          "en": "We'll be frying food when you return from the village.",
+          "ja": "あなたが村から戻ってきたとき、私たちは食料を揚げています。",
+          "ipa": "[wil bɪ ˈfraɪɪŋ ˈfuːd wɛn jə rɪˈtɝn fɹəm ðə ˈvɪlɪdʒ]",
+          "linking": [
+            "We'll be → 語末 /l/ が弱形 /bɪ/ に続く。We'll は /wil/ ウィル、be は弱形 /bɪ/",
+            "when you → 語末 /n/ が弱形 /jə/ に続く。you は /jə/ ヤ",
+            "from the → 弱形 /fɹəm/ が弱形 /ðə/ に続く。from は /fɹəm/ フラム、the は /ðə/ ザ"
+          ],
+          "kana": "ウィル ビー フライイング フード ウェン ヤ リターン フラム ザ ビレッジ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have fried",
+      "ipa": "/wɪl hæv ˈfraɪd/",
+      "examples": [
+        {
+          "en": "I'll have fried the fish by the time the sun sets.",
+          "ja": "太陽が沈むまでに、魚を揚げ終わります。",
+          "ipa": "[aɪl əv ˈfraɪd ðə ˈfɪʃ baɪ ðə ˈtaɪm ðə ˈsʌn ˈsɛts]",
+          "linking": [
+            "I'll have → 語末 /l/ が弱形 /əv/ に続く。I'll は /aɪl/ アイル、have は弱形 /əv/ アヴ",
+            "have fried → 弱形 /əv/ が /f/ に続く。fried は /fraɪd/ フライド",
+            "the sun → 弱形 /ðə/ ザ。sun は /sʌn/ サン"
+          ],
+          "kana": "アイル アヴ フライド ザ フィッシュ バイ ザ タイム ザ サン セッツ"
+        },
+        {
+          "en": "He'll have fried all the raw meat before the raid starts.",
+          "ja": "レイドが始まる前に、生肉をすべて揚げ終わります。",
+          "ipa": "[hil əv ˈfraɪd ɔl ðə ˈrɔ ˈmit bɪˈfɔr ðə ˈreɪd ˈstɑrts]",
+          "linking": [
+            "He'll have → 語末 /l/ が弱形 /əv/ に続く。He'll は /hil/ ヒル、have は弱形 /əv/ アヴ",
+            "all the → 語末 /l/ が弱形 /ðə/ に連結。all は /ɔl/ オール、the は /ðə/ ザ",
+            "before the → 語末 /r/ は r-colored。before は /bɪˈfɔr/ ビフォー。the は /ðə/ ザ"
+          ],
+          "kana": "ヒル アヴ フライド オール ザ ロー ミート ビフォー ザ レイド スターツ"
+        }
+      ]
     }
   ]
 }
