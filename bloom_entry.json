@@ -317,6 +317,94 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will bloom",
+      "ipa": "/wɪl ˈbluːm/",
+      "examples": [
+        {
+          "en": "Those rare flowers will bloom near my mountain base.",
+          "ja": "あの珍しい花が私の山の基地の近くで咲くでしょう。",
+          "ipa": "/ðoʊz ˈrɛr ˈflaʊərz wɪl ˈbluːm nɪr maɪ ˈmaʊntən ˈbeɪs/",
+          "linking": [
+            "will bloom → will は弱形 /wəl/ に弱化、/l/ が bloom の初頭 /b/ に先立つ [wəl ˈbluːm] ウル ブルーム",
+            "near my → near の語末 /r/ が my の初頭母音に先立つ [nɪr maɪ] ニア マイ"
+          ],
+          "kana": "ドーズ レア フラウアーズ ウル ブルーム ニア マイ マウンテン ベース"
+        },
+        {
+          "en": "They'll bloom very beautifully throughout the entire garden next spring.",
+          "ja": "それらは来春庭全体で非常に美しく咲くでしょう。",
+          "ipa": "/ðeɪl ˈbluːm ˈvɛri ˈbjuːtɪfəli θruːˈaʊt ðə ɪnˈtaɪər ˈɡɑrdən ˈnɛkst ˈsprɪŋ/",
+          "linking": [
+            "They'll = they will の縮約 /ðeɪl/、bloom に続く",
+            "the entire → the は弱形 /ðə/ ザ、entire に先立つ"
+          ],
+          "kana": "ザイル ブルーム ヴェリ ビューティフリ スルーアウト ザ イン タイアー ガーデン ネクスト スプリング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be blooming",
+      "ipa": "/wɪl bi ˈbluːmɪŋ/",
+      "examples": [
+        {
+          "en": "The flowers will be blooming beautifully when you arrive at my base.",
+          "ja": "あなたが私の基地に到着するとき、花は美しく咲いている途中です。",
+          "ipa": "/ðə ˈflaʊərz wɪl bi ˈbluːmɪŋ ˈbjuːtɪfəli wɛn ju əˈraɪv æt maɪ ˈbeɪs/",
+          "linking": [
+            "will be → will 弱形 /wəl/、be も弱形 /bi/、合わせて [wəl bi] ウル ビ",
+            "when you → when 語末 /n/ が you の初頭 /j/ に先立つ",
+            "arrive at → arrive 語末 /v/ が at の初頭 /æ/ に連結 [əˈraɪv æt]"
+          ],
+          "kana": "ザ フラウアーズ ウル ビ ブルーミング ビューティフリ ホェン ユー アライ アッ マイ ベース"
+        },
+        {
+          "en": "All the flowers will be blooming when we meet here tomorrow.",
+          "ja": "明日ここで会う時、すべての花が咲いている途中です。",
+          "ipa": "/ɔl ðə ˈflaʊərz wɪl bi ˈbluːmɪŋ wɛn wi ˈmit hɪr təˈmɑroʊ/",
+          "linking": [
+            "will be → will 弱形 /wəl/、be 弱形 /bi/ で続く [wəl bi]",
+            "the flowers → the は弱形 /ðə/ ザ",
+            "to tomorrow → to は弱形 /tə/、tomorrow に先立つ"
+          ],
+          "kana": "オール ザ フラウアーズ ウル ビ ブルーミング ホェン ウィ ミート ヒア タモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have bloomed",
+      "ipa": "/wɪl əv ˈbluːmd/",
+      "examples": [
+        {
+          "en": "By summer, all the rare flowers will have bloomed in this garden.",
+          "ja": "夏までに、このすべての珍しい花は咲いているでしょう。",
+          "ipa": "/baɪ ˈsʌmər | ɔl ðə ˈrɛr ˈflaʊərz wɪl əv ˈbluːmd ɪn ðɪs ˈɡɑrdən/",
+          "linking": [
+            "by summer → by 語末 /aɪ/ が summer の初頭 /s/ に先立つ",
+            "will have → will 弱形 /wəl/、have も弱形 /əv/ アブ",
+            "the rare → the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ サマー、オール ザ レア フラウアーズ ウル アブ ブルームド イン ディス ガーデン"
+        },
+        {
+          "en": "Every flower will have bloomed before autumn arrives in the world.",
+          "ja": "世界に秋が訪れる前に、すべての花が咲いているでしょう。",
+          "ipa": "/ˈɛvri ˈflaʊər wɪl əv ˈbluːmd bɪˈfɔr ˈɔtəm əˈraɪvz ɪn ðə ˈwɝld/",
+          "linking": [
+            "will have → will 弱形 /wəl/、have 弱形 /əv/ で続く [wəl əv] ウル アブ",
+            "before autumn → before 語末 /r/ が autumn の初頭 /ɔ/ に連結 [bɪˈfɔr ˈɔtəm]",
+            "the world → the は弱形 /ðə/ ザ"
+          ],
+          "kana": "エヴリ フラウアー ウル アブ ブルームド ビフォア オータム アライブズ イン ザ ワールド"
+        }
+      ]
     }
   ]
 }
