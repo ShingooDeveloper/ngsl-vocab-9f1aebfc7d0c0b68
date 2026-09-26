@@ -228,6 +228,102 @@
           "kana": "プレイヤーズ アー エンデュアリング インテンス モブ アタックス イン ディ アリーナ ライッ ナウ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is enduring",
+      "ipa": "/ɪz ɪnˈdʊrɪŋ/",
+      "examples": [
+        {
+          "en": "Players are enduring brutal conditions in the Nether with minimal resources.",
+          "ja": "プレイヤーたちは最小限のリソースでネザーの過酷な状況に耐えている。",
+          "ipa": "/ˈpleɪərz ɑr ɪnˈdʊrɪŋ ˈbruːtəl kənˈdɪʃənz ɪn ðə ˈnɛðər wɪð ˈmɪnəməl ˈrɛsɚsɪz/",
+          "linking": [
+            "Players → /z/ が are の /ɑ/ に連結 [ˈpleɪərz ɑr] プレイヤーズ アー",
+            "are → 弱形 /ɚ/ に弱化（連続形では通常弱い）",
+            "conditions → /z/ が in の /ɪ/ に連結 [kənˈdɪʃənz ɪn] コンディションズ イン",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ アー エンデュアリング ブルータル コンディションズ イン ザ ネザー ウィズ ミニマル レソーシーズ"
+        },
+        {
+          "en": "I am enduring constant mob attacks while defending the base from invaders.",
+          "ja": "侵略者からベースを守りながら、絶え間ないモブ攻撃に耐えている。",
+          "ipa": "/aɪ æm ɪnˈdʊrɪŋ ˈkɑnstənt məb əˈtæks ˈwaɪl dɪˈfɛndɪŋ ðə beɪs frəm ɪnˈveɪdərz/",
+          "linking": [
+            "am → 弱形 /əm/ に弱化（平叙文では通常弱い）",
+            "mob → /b/ が attacks の /ə/ に連結 [məb əˈtæks] モブ アタックス",
+            "the → 弱形 /ðə/",
+            "from → 弱形 /frəm/"
+          ],
+          "kana": "アイ アム エンデュアリング コンスタント モブ アタックス ワイル ディフェンディング ザ ベイス フラム インベイダーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was enduring",
+      "ipa": "/wəz ɪnˈdʊrɪŋ/",
+      "examples": [
+        {
+          "en": "The miners were enduring extreme heat when they discovered the rare ore deposits.",
+          "ja": "鉱夫たちが希少鉱石鉱床を発見したとき、極端な熱に耐えていた。",
+          "ipa": "/ðə ˈmaɪnərz wər ɪnˈdʊrɪŋ ɪkˈstrim hit ˈwɛn ðeɪ dɪˈskʌvərd ðə ˈrɛr ˈɔːr dɪˈpɑːzɪts/",
+          "linking": [
+            "miners → /z/ が were の /w/ に続く（子音+子音で連結なし）[ˈmaɪnərz wər] マイナーズ ワー",
+            "were → 弱形 /wər/ に弱化",
+            "enduring → 語末の /ŋ/ が extreme の /ɪ/ に軽く接続 [ɪnˈdʊrɪŋ ɪkˈstrim]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ マイナーズ ワー エンデュアリング イクストリーム ヒート ウェン ザイ ディスカバード ザ レア オア ディポジッツ"
+        },
+        {
+          "en": "I was enduring the freezing cold outside the shelter throughout the night.",
+          "ja": "夜中ずっとシェルターの外の凍りような寒さに耐えていた。",
+          "ipa": "/aɪ wəz ɪnˈdʊrɪŋ ðə ˈfriːzɪŋ koʊld aʊtˈsaɪd ðə ˈʃɛltər ˈθruːaʊt ðə naɪt/",
+          "linking": [
+            "was → 弱形 /wəz/ に弱化",
+            "the → 弱形 /ðə/（複数回）",
+            "freezing → /ŋ/ が cold の /k/ に続く（子音+子音で連結なし）[ˈfriːzɪŋ koʊld]",
+            "throughout → /t/ が /ð/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "アイ ワズ エンデュアリング ザ フリージング コウルド アウトサイド ザ シェルター スルーアウト ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been enduring",
+      "ipa": "/həd bɪn ɪnˈdʊrɪŋ/",
+      "examples": [
+        {
+          "en": "Before finding the fortress, players had been enduring days of searching through the wasteland.",
+          "ja": "要塞を見つける前に、プレイヤーたちは荒れ地を何日も探索し続けていた。",
+          "ipa": "/bɪˈfɔr ˈfaɪndɪŋ ðə ˈfɔːrtrəs ˈpleɪərz həd bɪn ɪnˈdʊrɪŋ deɪz əv ˈsɜːrtʃɪŋ θruː ðə ˈweɪstlənd/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "enduring → 語末の /ŋ/ が days の /d/ に続く（子音+子音で連結なし）",
+            "through → /θ/ が /ð/ に続く（子音+子音で連結なし）[θruː ðə]"
+          ],
+          "kana": "ビフォア ファインディング ザ フォートレス プレイヤーズ ハド ビン エンデュアリング デイズ アヴ サーチング スルー ザ ウェイストランド"
+        },
+        {
+          "en": "The wall had been enduring constant creeper explosions for hours before it finally collapsed.",
+          "ja": "壁は最終的に崩壊する前に、何時間もの絶え間ないクリーパー爆発に耐え続けていた。",
+          "ipa": "/ðə wɔl həd bɪn ɪnˈdʊrɪŋ ˈkɑnstənt ˈkriːpər ɪkˈsploʊʒənz fɔr ˈaʊərz bɪˈfɔr ɪt ˈfaɪnəli kəˈlæpst/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "enduring → 語末の /ŋ/ が constant の /k/ に続く（子音+子音で連結なし）",
+            "before → /r/ が /ɪ/ に連結 [bɪˈfɔr ɪt] ビフォア イット"
+          ],
+          "kana": "ザ ウォール ハド ビン エンデュアリング コンスタント クリーパー イクスプロージョンズ ファー アワーズ ビフォア イット ファイナリー コラプスト"
+        }
+      ]
     }
   ]
 }
