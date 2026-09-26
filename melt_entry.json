@@ -279,6 +279,100 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has melted",
+      "ipa": "/həz ˈmɛltɪd/",
+      "examples": [
+        {
+          "en": "This furnace has melted over 500 iron ore since we built the smelter.",
+          "ja": "このかまどは我々がかまどを建てて以来、500以上の鉄鉱石を溶かしています。",
+          "ipa": "/ðɪs ˈfɝnɪs həz ˈmɛltɪd ˈoʊvɚ ˈfaɪv ˈhʌndɹəd ˈaɪɚn ˈɔɚ sɪns wi ˈbɪlt ðə ˈsmɛltɚ/",
+          "linking": [
+            "has は弱形 /həz/",
+            "melted の末尾 /d/ が over の /oʊ/ に連結（子音+母音）",
+            "hundred の末尾 /d/ が iron の /aɪ/ に連結（子音+母音）",
+            "iron の末尾 /n/ が ore の /ɔ/ に連結（子音+母音）"
+          ],
+          "kana": "ディス ファーニス ハズ メルリド オウバー ファイブ ハンドレド アイアン オア シンス ウィ ビルト ザ スメルター"
+        },
+        {
+          "en": "The lava has melted the entire wooden structure we just placed.",
+          "ja": "溶岩は我々が置いたばかりの木造構造全体を溶かしてしまった。",
+          "ipa": "/ðə ˈlɑːvə həz ˈmɛltɪd ðə ɪnˈtaɪɚ ˈwʊdən ˈstrʌktʃɚ wi ˈdʒʌst ˈpleɪst/",
+          "linking": [
+            "the は弱形 /ðə/。lava に連結 [ðə ˈlɑːvə] ザ ラーバ",
+            "has は弱形 /həz/",
+            "just の末尾子音 /t/ は未開放。placed の /p/ の前で詰まる [ˈdʒʌs ˈt̚pleɪst]"
+          ],
+          "kana": "ザ ラーバ ハズ メルリド ザ インタイア ウッデン ストラクチャー ウィ ジャスト プレイスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had melted",
+      "ipa": "/həd ˈmɛltɪd/",
+      "examples": [
+        {
+          "en": "Before we arrived at the farm, the snow had melted completely.",
+          "ja": "我々が農場に到着する前に、雪は完全に溶けていました。",
+          "ipa": "/bɪˈfɔɚ wi əˈraɪvd æt ðə ˈfɑrm ðə ˈsnoʊ həd ˈmɛltɪd kəmˈpliːtli/",
+          "linking": [
+            "arrived の末尾 /d/ が at の /æ/ に連結（子音+母音）",
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ビフォア ウィ ア ライヴド アット ザ ファーム ザ スノウ ハド メルリド コンプリートリー"
+        },
+        {
+          "en": "The copper ore had melted inside the furnace when we checked it.",
+          "ja": "我々がそれをチェックした時、銅鉱石はかまどの中で溶けていました。",
+          "ipa": "/ðə ˈkɑpɚ ˈɔɚ həd ˈmɛltɪd ɪnˈsaɪd ðə ˈfɝnɪs wɛn wi ˈtʃɛkt ɪt/",
+          "linking": [
+            "copper の末尾 /r/ が ore の /ɔ/ に連結（子音+母音）",
+            "had は弱形 /həd/",
+            "melted の末尾 /d/ が inside の /ɪ/ に連結（子音+母音）",
+            "checked の末尾 /t/ が it の /ɪ/ に連結（子音+母音）"
+          ],
+          "kana": "ザ カッパー オア ハド メルリド インサイド ザ ファーニス ホェン ウィ チェクト イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been melting",
+      "ipa": "/həz bɪn ˈmɛltɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace has been melting ore continuously for the last hour.",
+          "ja": "かまどは過去1時間連続して鉱石を溶かし続けています。",
+          "ipa": "/ðə ˈfɝnɪs həz bɪn ˈmɛltɪŋ ˈɔɚ kənˈtɪnjuəsli ˈfɚ ðə ˈlæst ˈaʊɚ/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "for は弱形 /fɚ/",
+            "last の末尾 /t/ が hour の /aʊ/ に連結（子音+母音）"
+          ],
+          "kana": "ザ ファーニス ハズ ビン メルティング オア コンティニュアスリー フォー ザ ラスト アウアー"
+        },
+        {
+          "en": "The snow has been melting since we placed all those torches around.",
+          "ja": "我々がその周りにすべての松明を置いて以来、雪が溶け続けています。",
+          "ipa": "/ðə ˈsnoʊ həz bɪn ˈmɛltɪŋ sɪns wi ˈpleɪst ˈɔːl ðoʊz ˈtɔːrʃɪz əˈraʊnd/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "placed の末尾 /t/ が all の /ɔ/ に連結（子音+母音）",
+            "torches の末尾 /z/ が around の /ə/ に連結（子音+母音）"
+          ],
+          "kana": "ザ スノウ ハズ ビン メルティング シンス ウィ プレイスト オール ザウズ トーチェズ ア ラウンド"
+        }
+      ]
+    },
+    {
       "type": "past_perfect_progressive",
       "label": "過去完了進行形（had been + -ing）",
       "text": "had been melting",
