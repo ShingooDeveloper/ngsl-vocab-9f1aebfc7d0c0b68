@@ -1,0 +1,230 @@
+{
+  "word": "place",
+  "pos": "動詞・名詞 (verb/noun)",
+  "ipa_us": "/pleɪs/",
+  "ipa_uk": "/pleɪs/",
+  "meanings": [
+    "【動詞】（物を）ある場所に置く、配置する（Place the vase carefully on the shelf. その花瓶を棚に慎重に置いて。）",
+    "【動詞】（注文・電話などを）出す、行う（She placed a call to the office. 彼女は事務所に電話をかけた。）",
+    "【動詞】（人を）配属する、就職させる（The agency placed him in a new job. その代理店は彼を新しい仕事に就かせた。）",
+    "【名詞】場所、地点（Is there a good place to eat near the station? 駅の近くにどこかいい食事処はある?）",
+    "【名詞】（競争・順序上の）順位、着順（She finished in first place in the marathon. 彼女はそのマラソンで1位になった。）"
+  ],
+  "pos_all": "動詞・名詞",
+  "rank": 113,
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has placed",
+      "ipa": "/həz pleɪst/",
+      "examples": [
+        {
+          "en": "I have placed torches around the entire perimeter of my base to prevent mob spawning.",
+          "ja": "基地全体の周囲にモブが湧くのを防ぐために松明を置いた。",
+          "ipa": "/aɪ həv pleɪst ˈtɔːrtʃɪz əˈraʊn ðə ɪnˈtaɪɚ pəˈrɪmətɚ əv maɪ ˈbeɪs tə prɪˈvɛnt ˈmɑb ˈspɔːnɪŋ/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "placed torches → placed の末尾子音 /t/ と torches の /t/ は両子音のため、placed の /t/ は未開放 [pleɪst̚]",
+            "around the → around の末尾 /d/ が the の /ð/ と接するため脱落し、[əˈraʊn ðə] と発音",
+            "perimeter of → of は弱形 /əv/",
+            "to prevent → to は弱形 /tə/"
+          ],
+          "kana": "アイ ハヴ プレイスト トーチェズ アラウン ダ インタイアー パリミター アヴ マイ ベース タ プリベント モブ スポーニング"
+        },
+        {
+          "en": "Steve has placed a water bucket next to the lava to prevent it from spreading into the farm.",
+          "ja": "ラヴァが農場に広がるのを防ぐために、スティーブが水バケツを置いた。",
+          "ipa": "/ˈstɪv həz pleɪst ə ˈwɔɾɚ ˈbʌkɪt ˈnɛkst tu ðə ˈlɑːvə tə prɪˈvɛnt ɪt frəm ˈsprɛdɪŋ ˈɪntu ðə ˈfɑːrm/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "placed a → placed の末尾子音 /t/ が a の弱形 /ə/ に連結 [pleɪstə]",
+            "water bucket → water の /t/ が bucket の /ʌ/ に先行し、母音+/t/+母音のパターンでフラップ化して [ɾ] になる [ˈwɔɾɚ ˈbʌkɪt]",
+            "to prevent → to は弱形 /tə/"
+          ],
+          "kana": "スティーヴ ハズ プレイスタ ウォーラー バケット ネクスト トゥ ダ ラーヴァ トゥ プリベント イット フラム スプレディング インチュ ダ ファーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had placed",
+      "ipa": "/həd pleɪst/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the admin had placed all the spawn eggs in the arena for the tournament.",
+          "ja": "私たちが到着した時点で、管理者はトーナメント用にアリーナにすべてのスポーン卵を置いていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ˈædmɪn həd pleɪst ɔːl ðə ˈspoʊn ˈɛɡz ɪn ðə əˈrinə fɔːr ðə ˈtɔːrnəmənt/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "placed all → placed の末尾子音 /t/ が all の /ɔ/ に連結 [pleɪstɔːl]",
+            "in the → in の末尾 /n/ が the の /ð/ に先行し、[ɪn ðə] と発音",
+            "for the → for の末尾 /ɚ/ が the の /ð/ と接し、[fɚ ðə] と発音"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ダ アドミン ハド プレイスト オール ザ スポウン エッグズ インザ アリーナ ファー ダ トーナメント"
+        },
+        {
+          "en": "I realized I had placed my chest in the wrong room and had to move all my items.",
+          "ja": "私はチェストを間違った部屋に置いたことに気づき、すべてのアイテムを移さなければならなかった。",
+          "ipa": "/aɪ ˈriːəˌlaɪzd aɪ həd pleɪst̚ maɪ ˈtʃɛst ɪn ðə ˈrɔːŋ ˈrum ənd həd tu ˈmuːv ɔːl maɪ ˈaɪɾəmz/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "placed my → placed の末尾 /t/ と my の /m/ は両子音なので、placed の /t/ は未開放 [pleɪst̚ maɪ]",
+            "in the → in の末尾 /n/ が the の /ð/ に先行し、[ɪn ðə] と発音",
+            "had to → had は弱形 /həd/、to は弱形 /tə/",
+            "move all → move の末尾 /v/ が all の /ɔ/ に連結 [ˈmuːv ɔːl]"
+          ],
+          "kana": "アイ リーアライズド アイ ハド プレイスト マイ チェスト インザ ロング ルーム アン ハド トゥ ムーヴ オール マイ アイラムズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been placing",
+      "ipa": "/həz bɪn ˈpleɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We have been placing blocks for the last three hours to build this massive castle.",
+          "ja": "この巨大な城を建設するために、最後の3時間ブロックを置き続けている。",
+          "ipa": "/wi həv bɪn ˈpleɪsɪŋ ˈblɑks fɔːr ðə læst ˈθriː ˈaʊɚz tə ˈbɪld ðɪs məˈsɪv ˈkæsəl/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "been placing → been は弱形 /bɪn/、/n/ と /p/ は両子音なので linking なし",
+            "placing blocks → /ŋ/ と /b/ は両子音なので linking なし",
+            "for the → for の末尾 /ɚ/ が the の /ð/ と接し、[fɚ ðə] と発音",
+            "to build → to は弱形 /tə/"
+          ],
+          "kana": "ウィ ハヴ ビン プレイシング ブロックス ファー ダ ラスト スリー アワーズ トゥ ビルド ディス マッシヴ キャスル"
+        },
+        {
+          "en": "The builder has been placing decorative elements all morning to make the base look amazing.",
+          "ja": "ビルダーは基地を素晴らしく見せるために朝中装飾要素を置き続けている。",
+          "ipa": "/ðə ˈbɪldɚ həz bɪn ˈpleɪsɪŋ ˌdɛkərətɪv ˈɛləmənts ɔːl ˈmɔːrnɪŋ tə ˈmeɪk ðə ˈbeɪs ˈlʊk əˈmeɪzɪŋ/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "been placing → been は弱形 /bɪn/、/n/ と /p/ は両子音なので linking なし",
+            "all morning → /l/ と /m/ は両子音なので linking なし",
+            "to make the base → to は弱形 /tə/、the は弱形 /ðə/、/k/ と /ð/ は両子音なので linking なし"
+          ],
+          "kana": "ダ ビルダー ハズ ビン プレイシング デコラティヴ エレメンツ オール モーニング トゥ メイク ダ ベース ルック アメイジング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will place",
+      "ipa": "/wɪl pleɪs/",
+      "examples": [
+        {
+          "en": "I will place the enchanting table in the library tomorrow.",
+          "ja": "明日、図書館にエンチャント台を置く。",
+          "ipa": "/aɪ wɪl pleɪs ðə ɪnˈtʃɑːntɪŋ ˈteɪbəl ɪn ðə ˈlaɪbˌrɛri təˈmɑːroʊ/",
+          "linking": [
+            "will place → will は弱形 /wəl/ に弱化し、place の /p/ に先行 [wəl pleɪs]",
+            "place the → place の末尾 /s/ と the の /ð/ は両子音なので linking なし [pleɪs ðə]",
+            "in the → in の末尾 /n/ が the の /ð/ に先行 [ɪn ðə]、the は弱形 /ðə/",
+            "to tomorrow → to は弱形 /tə/、/ə/ と /t/ は異なる音のため自然に離れる"
+          ],
+          "kana": "アイ ウル プレイス ダ インチャンティング テーブル イン ダ ライブレリー トゥモロウ"
+        },
+        {
+          "en": "They'll place the redstone components carefully to avoid circuit interference.",
+          "ja": "彼らは回路の干渉を避けるために、レッドストーン部品を慎重に置く。",
+          "ipa": "/ðeɪ wɪl pleɪs ðə ˈrɛdˌstoʊn kəmˈpoʊnənts ˈkɛrfəli tu əˈvɔɪd ˈsɜːrkət ɪnˈtɛrfərəns/",
+          "linking": [
+            "They'll → they の末尾 /eɪ/ と will が縮約され /ðeɪl/ となり、place の /p/ に先行 [ðeɪl pleɪs]",
+            "place the → place の末尾 /s/ と the の /ð/ は両子音なので linking なし [pleɪs ðə]",
+            "redstone components → /n/ と /k/ は両子音なので linking なし",
+            "to avoid → to は弱形 /tə/"
+          ],
+          "kana": "ゼイ ウル プレイス ダ レッストーン コンポーネンツ ケアフリー トゥ アヴォイド サーキット インターフィアランス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be placing",
+      "ipa": "/wɪl bi ˈpleɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We will be placing blocks all day to complete the structure.",
+          "ja": "構造を完成させるために一日中ブロックを置く。",
+          "ipa": "/wi wɪl bi ˈpleɪsɪŋ ˈblɑks ɔːl ˈdeɪ tu kəmˈpliːt ðə ˈstrʌktʃər/",
+          "linking": [
+            "will be → will の弱形 /wəl/ + be の弱形 /bə/ に弱化し連結 [wəl bə]",
+            "placing blocks → placing の末尾 /ŋ/ と blocks の /b/ は両子音なので linking なし",
+            "all day → all の末尾 /l/ と day の /d/ は両子音なので linking なし [ɔːl deɪ]",
+            "to complete → to は弱形 /tə/"
+          ],
+          "kana": "ウィ ウル ビ プレイシング ブロックス オール デイ トゥ コンプリート ダ ストラクチャー"
+        },
+        {
+          "en": "She'll be placing the final decorations while we prepare the grand opening.",
+          "ja": "私たちが盛大なオープニングの準備をしている間に、彼女は最終的な装飾を置く。",
+          "ipa": "/ʃi wɪl bi ˈpleɪsɪŋ ðə ˈfaɪnəl ˌdɛkəˈreɪʃənz ˈwaɪl wi prɪˈpɛr ðə ɡrænd ˈoʊpənɪŋ/",
+          "linking": [
+            "She'll → she の末尾 /i/ と will が縮約され /ʃɪl/ となり、be の /b/ に先行 [ʃɪl bi]",
+            "be placing → be の弱形 /bə/ と placing の /p/ は両子音なので linking なし [bə ˈpleɪsɪŋ]",
+            "the final → the は弱形 /ðə/、末尾の /ə/ は母音で final の /f/ は子音なので linking なし [ðə ˈfaɪnəl]",
+            "while we → while の末尾 /l/ と we の頭 /w/ は両子音なので linking なし [ˈwaɪl wi]",
+            "the grand → the は弱形 /ðə/、末尾の /ə/ は母音で grand の /g/ は子音なので linking なし [ðə ɡrænd]"
+          ],
+          "kana": "シー ウル ビ プレイシング ダ ファイナル デコレイションズ ワイル ウィ プリペア ダ グランド オープニング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have placed",
+      "ipa": "/wɪl həv pleɪst/",
+      "examples": [
+        {
+          "en": "By the end of the day, I will have placed all the foundation blocks for the new farm.",
+          "ja": "その日の終わりまでに、新しい農場のすべての基礎ブロックを置く。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈdeɪ | aɪ wɪl həv pleɪst ɔːl ðə faʊnˈdeɪʃən ˈblɑks fɔːr ðə ˈnu ˈfɑːrm/",
+          "linking": [
+            "By the → by の末尾 /aɪ/ は母音で、the の頭 /ð/ は子音なので linking なし。by は /baɪ/、the は弱形 /ðə/ [baɪ ðə]",
+            "end of → end の末尾 /d/ が of の弱形 /əv/ に連結 [ˈɛndəv]",
+            "of the → of は弱形 /əv/、末尾の /v/ と the の /ð/ は両子音なので linking なし [əv ðə]",
+            "will have → will の弱形 /wəl/ + have の弱形 /əv/ が連結 [wəl əv]",
+            "placed all → placed の末尾 /t/ が all の /ɔ/ に連結し、/t/ はフラップ [ɾ] に変わる"
+          ],
+          "kana": "バイ ダ エンド アヴ ダ デイ、アイ ウル ハヴ プレイスト オール ダ ファウンデーション ブロックス ファー ダ ニュー ファーム"
+        },
+        {
+          "en": "They will have placed every nether brick before the server restart.",
+          "ja": "サーバー再起動の前に、彼らはすべてのネザーブリックを置く。",
+          "ipa": "/ðeɪ wɪl həv pleɪst ˈɛvri ˈnɛðɚ ˈbrɪk bɪˈfɔːr ðə ˈsɜːrvɚ rɪˈstɑːrt/",
+          "linking": [
+            "will have → will の弱形 /wəl/ + have の弱形 /əv/ が連結 [wəl əv]",
+            "placed every → placed の末尾 /t/ が every の /ɛ/ に連結し、/t/ はフラップ [ɾ] に変わる",
+            "nether brick → nether の末尾 /ðɚ/ と brick の頭 /b/ は両子音なので linking なし",
+            "before the → before の末尾 /ɔːr/ と the の /ð/ は両子音なので linking なし [bɪˈfɔːr ðə]"
+          ],
+          "kana": "ゼイ ウル ハヴ プレイスト エブリ ネザー ブリック ビフォア ダ サーバー リスタート"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "in place of",
+      "ja": "〜の代わりに",
+      "example": "You can use dirt in place of gravel for paths.",
+      "example_ja": "パスを作るときは砂利の代わりにダートを使うことができます。",
+      "ipa": "[ju kən juz dɝɾɪn pleɪs əv ˈɡrævəl fɚ pæθz]",
+      "linking": [
+        "can → 機能語のweak form、母音が schwa に弱化。[kən] カン",
+        "dirt in → /t/ が母音に挟まれフラップ化し連結。[dɝɾɪn] ダーリン",
+        "of → 前置詞 of の弱形 /əv/。[əv] アヴ",
+        "for → 機能語 for の弱形、アメリカ英語。[fɚ] ファー"
+      ],
+      "kana": "ユー / カン / ユーズ / ダーリン / プレイス / アヴ / グラヴェル / ファー / パスズ"
+    }
+  ]
+}
