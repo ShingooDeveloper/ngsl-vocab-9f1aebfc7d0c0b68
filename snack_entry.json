@@ -412,6 +412,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will snack",
+      "ipa": "wɪl ˈsnæk",
+      "examples": [
+        {
+          "en": "I'll snack on golden apples before the Nether raid.",
+          "ja": "ネザー襲撃の前に、金のリンゴをつまみます。",
+          "ipa": "[aɪl ˈsnækɑn ˈɡoʊldən ˈæpəlz bɪˈfɔɹ ðə ˈnɛðɚ ˈreɪd]",
+          "kana": "アイル スナッコン ゴールデン アップルズ ビフォア ザ ネザー レイド",
+          "linking": [
+            "I'll snack → I will の縮約で /aɪl/、snack に連続 [aɪl ˈsnæk] アイル スナック",
+            "snack on → 語末子音 /k/ が母音 /ɑ/ に連結 [ˈsnækɑn] スナッコン",
+            "the → 弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "We'll snack on bread and cheese during the mining session.",
+          "ja": "マイニング セッション中にパンとチーズをつまみます。",
+          "ipa": "[wiːl ˈsnækɑn ˈbrɛd ən ˈtʃiz ˈdʊrɪŋ ðə ˈmaɪnɪŋ ˈsɛʃən]",
+          "kana": "ウィール スナッコン ブレッド エン チーズ ドゥーリング ザ マイニング セッション",
+          "linking": [
+            "We'll snack → we will の縮約で /wiːl/、snack に連続 [wiːl ˈsnæk] ウィール スナック",
+            "snack on → 語末子音 /k/ が母音 /ɑ/ に連結 [ˈsnækɑn] スナッコン",
+            "and → 弱形 /ən/ で cheese の子音に先行 [ən ˈtʃiz] エン チーズ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be snacking",
+      "ipa": "wɪl bi ˈsnækɪŋ",
+      "examples": [
+        {
+          "en": "I'll be snacking on apples while mining for diamonds.",
+          "ja": "ダイヤモンドを採掘しながら、リンゴをつまんでいるでしょう。",
+          "ipa": "[aɪl biː ˈsnækɪŋɑn ˈæpəlz waɪl ˈmaɪnɪŋ fɚ ˈdaɪməndz]",
+          "kana": "アイル ビー スナッキング・アン アップルズ ホワイル マイニング フォー ダイモンズ",
+          "linking": [
+            "I'll be → I will の縮約で /aɪl/、be は /biː/ [aɪl biː] アイル ビー",
+            "snacking on → 語末鼻音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋɑn] スナッキング・アン",
+            "for diamonds → r-coloring で /fɚ/ に弱化"
+          ]
+        },
+        {
+          "en": "She'll be snacking on bread while building the shelter.",
+          "ja": "避難所を建築しながら、パンをつまんでいるでしょう。",
+          "ipa": "[ʃiːl biː ˈsnækɪŋɑn ˈbrɛd waɪl ˈbɪldɪŋ ðə ˈʃɛltər]",
+          "kana": "シール ビー スナッキング・アン ブレッド ホワイル ビルディング ザ シェルター",
+          "linking": [
+            "She'll be → she will の縮約で /ʃiːl/、be は /biː/ [ʃiːl biː] シール ビー",
+            "snacking on → 語末鼻音 /ŋ/ が母音 /ɑ/ に連結 [ˈsnækɪŋɑn] スナッキング・アン",
+            "the → 弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have snacked",
+      "ipa": "wɪl hæv ˈsnækt",
+      "examples": [
+        {
+          "en": "I will have snacked before the raid begins.",
+          "ja": "襲撃が始まる前に、スナックを食べているでしょう。",
+          "ipa": "[aɪ wɪl hæv ˈsnækt bɪˈfɔɹ ðə ˈreɪd bɪˈɡɪnz]",
+          "kana": "アイ ウィル ハヴ スナックト ビフォア ザ レイド ビギンズ",
+          "linking": [
+            "I will → 標準形 /aɪ wɪl/ [aɪ wɪl] アイ ウィル",
+            "before the → before の r-coloring で /bɪˈfɔɹ/、the は弱形 /ðə/ [bɪˈfɔɹ ðə] ビフォア ザ",
+            "raid begins → d が b に続く連結 [ˈreɪd bɪ] レイド ビギンズ"
+          ]
+        },
+        {
+          "en": "They'll have snacked on fish before exploring the deep dark.",
+          "ja": "深いダークを探検する前に、魚をつまんでいるでしょう。",
+          "ipa": "[ðɛɹl hæv ˈsnæktɑn ˈfɪʃ bɪˈfɔɹ ɪkˈsplɔrɪŋ ðə ˈdip ˈdɑrk]",
+          "kana": "ザイル ハヴ スナックト・アン フィッシュ ビフォア イクスプローリング ザ ディープ ダーク",
+          "linking": [
+            "They'll have → they will の縮約で /ðɛɹl/、have は /hæv/ [ðɛɹl hæv] ザイル ハヴ",
+            "snacked on → 語末子音 /t/ が母音 /ɑ/ に連結 [ˈsnæktɑn] スナックト・アン",
+            "before → r-coloring で /bɪˈfɔɹ/"
+          ]
+        }
+      ]
     }
   ]
 }
