@@ -63,6 +63,338 @@
       "kana": "ディッ ユー ウォッチ ザ ビデオ クリップ アヴ ザット エピック マイニング セッション"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "clips",
+      "ipa": "/klɪps/",
+      "examples": [
+        {
+          "en": "I saved several clips from my latest speedrun attempts.",
+          "ja": "私は最近のスピードラン試行からいくつかのクリップを保存した。",
+          "ipa": "/aɪ ˈseɪvd ˈsɛvɹəl klɪps frəm maɪ ˈleɪtəst ˈspiːdɹʌn əˈtɛmpts/",
+          "linking": [
+            "saved の /d/ は次の /s/ に続く（同一語境）",
+            "several の /l/ が /k/ に連なる",
+            "from は弱形 /frəm/ フラム"
+          ],
+          "kana": "アイ セイヴド セヴラル クリップス フラム マイ レイタスト スピードラン アテムプツ"
+        },
+        {
+          "en": "These video clips show different strategies for defeating the Ender Dragon.",
+          "ja": "これらのビデオクリップはエンダードラゴンを倒すための異なる戦略を示しています。",
+          "ipa": "/ðiz ˈvɪdioʊ klɪps ʃoʊ ˈdɪfɹənt ˈstɹætədʒiz fɔɹ dɪˈfiːtɪŋ ðə ˈɛndɚ ˈdɹægən/",
+          "linking": [
+            "These は子音前で /ðiz/ ディーズ",
+            "clips show → /s/ が /ʃ/ に続く",
+            "for は弱形 /fɚ/ ファ"
+          ],
+          "kana": "ディーズ ビデオ クリップス ショウ ディフレント ストラタジーズ ファ ディフィーティング ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "clips",
+      "ipa": "/klɪps/",
+      "examples": [
+        {
+          "en": "The shears clip away the vine blocks covering the ancient temple.",
+          "ja": "はさみがツタブロックを切り取り、古代寺院を露出させる。",
+          "ipa": "/ðə ʃɪɹz klɪps əˈweɪ ðə vaɪn blɑks ˈkʌvɚɪŋ ðə eɪnʃənt ˈtɛmpəl/",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "clips away → /s/ が /ə/ に連結",
+            "covering の /ŋ/ が /ðə/ に続く"
+          ],
+          "kana": "ザ シアーズ クリップス アウェイ ザ ヴァイン ブラックス カヴァリング ザ エインシェント テンパル"
+        },
+        {
+          "en": "She clips the ivy off the stone pillars to reveal the hidden entrance.",
+          "ja": "彼女は石の柱からツタを切り取り、隠された入り口を明かす。",
+          "ipa": "/ʃi klɪps ðə ˈaɪvi ɔf ðə ˈstoʊn ˈpɪləɹz tə ɹɪˈvil ðə ˈhɪdən ˈɛntɹəns/",
+          "linking": [
+            "clips the → /s/ が /ðə/ に連結",
+            "the は子音前で弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "シー クリップス ザ アイビー アフ ザ ストウン ピラーズ タ リビール ザ ヒデン エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "clipped",
+      "ipa": "/klɪpt/",
+      "examples": [
+        {
+          "en": "I clipped the vines and found a hidden passage beneath the leaves.",
+          "ja": "私はツタを切り取り、葉の下に隠された通路を見つけた。",
+          "ipa": "/aɪ ˈklɪpt ðə vaɪnz ænd faʊnd ə ˈhɪdən ˈpæsɪdʒ bɪˈnɪθ ðə livz/",
+          "linking": [
+            "clipped の /t/ が次の /ð/ に続く（未開放音）",
+            "vines and → /z/ が /æ/ に連結",
+            "and は弱形 /ænd/ またはん「エン」"
+          ],
+          "kana": "アイ クリップ ザ ヴァインズ エン ファウンド ア ヒデン パセッジ ビニース ザ リーブズ"
+        },
+        {
+          "en": "He clipped the string quickly before the TNT could fall off the edge.",
+          "ja": "彼はTNTが落ちる前に素早く紐を切った。",
+          "ipa": "/hi ˈklɪpt ðə stɹɪŋ ˈkwɪkli bɪˈfoɹ ðə tiːɛnˈti kʊd fɔl ɔf ðə ɛdʒ/",
+          "linking": [
+            "clipped the → /t/ が次の /ðə/ に続く",
+            "the は子音前で弱形 /ðə/ ザ",
+            "before は弱形で /bɪˈfoɹ/ ビフォー"
+          ],
+          "kana": "ヒー クリップ ザ ストリング クイックリー ビフォー ザ ティーエンティー クッド フォール オフ ザ エッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "clipped",
+      "ipa": "/klɪpt/",
+      "examples": [
+        {
+          "en": "The vines were clipped away to reveal the dungeon entrance.",
+          "ja": "ツタは切り取られ、地下牢の入り口が明らかになった。",
+          "ipa": "/ðə vaɪnz wɚ ˈklɪpt əˈweɪ tə ɹɪˈvil ðə ˈdʌndʒən ˈɛntɹəns/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー",
+            "clipped away → /t/ が /ə/ に連結",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ザ ヴァインズ ワー クリップ アウェイ タ リビール ザ ダンジョン エントランス"
+        },
+        {
+          "en": "Having clipped the wires, the redstone circuit finally worked correctly.",
+          "ja": "ワイヤーを切った後、レッドストーン回路は最終的に正しく機能した。",
+          "ipa": "/ˈhævɪŋ ˈklɪpt ðə ˈwaɪɚz ðə ˈɹɛdˌstoʊn ˈsɚkɪt ˈfaɪnəli ˈwɝkt ˈkɔɹɪktli/",
+          "linking": [
+            "Having は /ɪŋ/ が /ˈk/ に続く",
+            "clipped the → /t/ が弱形 /ðə/ に連結",
+            "finally の /ɪ/ がフラップ化 /ˈfaɪnəli/"
+          ],
+          "kana": "ハヴィング クリップ ザ ワイアーズ ザ レッドストウン サーキット ファイナリー ワークト コレクリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "clipping",
+      "ipa": "/ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "Clipping the ivy off the stone blocks took longer than expected.",
+          "ja": "石ブロックからツタをクリップで切り取ることは予想より長くかかった。",
+          "ipa": "/ˈklɪpɪŋ ðə ˈaɪvi ɔf ðə ˈstoʊn blɑks ˈtʊk ˈlɔŋɚ ðæn ɪkˈspɛktəd/",
+          "linking": [
+            "Clipping の /ŋ/ が /ðə/ に続く",
+            "the は子音前で弱形 /ðə/ ザ",
+            "than は弱形 /ðæn/ ザン"
+          ],
+          "kana": "クリッピング ザ アイビー アフ ザ ストウン ブラックス トゥック ロンガー ザン イクスペクテッド"
+        },
+        {
+          "en": "I'm clipping away at the vines to clear this passage faster.",
+          "ja": "私はこの通路をもっと速く片付けるためにツタを切り取っている。",
+          "ipa": "/aɪm ˈklɪpɪŋ əˈweɪ æt ðə vaɪnz tə klɪɹ ðɪs ˈpæsɪdʒ ˈfæstɚ/",
+          "linking": [
+            "I'm → 母音 /m/ が /ˈk/ に続く",
+            "clipping away → /ŋ/ が /ə/ に連結",
+            "to は弱形 /tə/ タ、clear の /ɹ/ に連結"
+          ],
+          "kana": "アイム クリッピング アウェイ アッ ザ ヴァインズ タ クリア ディス パセッジ ファスター"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is clipping",
+      "ipa": "/ɪz ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "She is clipping the vines off the ancient temple blocks right now.",
+          "ja": "彼女は今、古代寺院のブロックからツタを切り取っている。",
+          "ipa": "/ʃi ɪz ˈklɪpɪŋ ðə vaɪnz ɔf ðə eɪnʃənt ˈtɛmpəl blɑks ɹaɪt naʊ/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/ イズ",
+            "clipping の /ŋ/ が /ðə/ に連結",
+            "ancient の /t/ が /ˈt/ に続く"
+          ],
+          "kana": "シー イズ クリッピング ザ ヴァインズ オフ ザ エインシェント テンパル ブラックス ライト ナウ"
+        },
+        {
+          "en": "We are clipping away at the ivy around the entrance to clear our path.",
+          "ja": "私たちは入り口の周りのツタを切り取って、道を開いている。",
+          "ipa": "/wi ɑɹ ˈklɪpɪŋ əˈweɪ æt ðə ˈaɪvi əˈɹaʊnd ðə ˈɛntɹəns tə klɪɹ ɑɹ pæθ/",
+          "linking": [
+            "are は助動詞で弱形 /ɑɹ/ アー",
+            "clipping away → /ŋ/ が /ə/ に連結",
+            "at the → /t/ が /ðə/ に続く（未開放）"
+          ],
+          "kana": "ウィー アー クリッピング アウェイ アッ ザ アイビー アラウンド ザ エントランス タ クリア アワー パス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was clipping",
+      "ipa": "/wəz ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "He was clipping the fence when the creeper explosion happened.",
+          "ja": "彼が柵を切り取っているとき、クリーパーが爆発した。",
+          "ipa": "/hi wəz ˈklɪpɪŋ ðə fɛns wɛn ðə ˈkɹipɚ ɪkˈsploʊʒən ˈhæpənd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/ ワズ",
+            "clipping の /ŋ/ が /ðə/ に連結",
+            "when の /n/ が /ðə/ に続く"
+          ],
+          "kana": "ヒー ワズ クリッピング ザ フェンス ウェン ザ クリーパー イクスプロージョン ハプンド"
+        },
+        {
+          "en": "They were clipping away at the vines for nearly an hour yesterday.",
+          "ja": "彼らは昨日、ほぼ1時間ツタを切り取っていた。",
+          "ipa": "/ðeɪ wɚ ˈklɪpɪŋ əˈweɪ æt ðə vaɪnz fɔɹ ˈnɪɹli ən aʊɚ ˈjɛstɚdeɪ/",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/ ワー",
+            "clipping away → /ŋ/ が /ə/ に連結",
+            "at the → /t/ が /ðə/ に続く（未開放）"
+          ],
+          "kana": "ザイ ワー クリッピング アウェイ アッ ザ ヴァインズ ファ ニアリー ウン アワー イェスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been clipping",
+      "ipa": "/həd bɪn ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "She had been clipping the ivy for an hour when we arrived at the temple.",
+          "ja": "寺院に到着したとき、彼女は1時間もツタを切り取っていた。",
+          "ipa": "/ʃi həd bɪn ˈklɪpɪŋ ðə ˈaɪvi fɔɹ ən aʊɚ wɛn wi əˈɹaɪvd æt ðə ˈtɛmpəl/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "clipping の /ŋ/ が /ðə/ に続く"
+          ],
+          "kana": "シー ハド ビン クリッピング ザ アイビー ファ ウン アワー ウェン ウィー アライvド アッ ザ テンパル"
+        },
+        {
+          "en": "They had been clipping away at the passage for hours before finishing the excavation.",
+          "ja": "発掘を終える前に、彼らは何時間も通路を切り取っていた。",
+          "ipa": "/ðeɪ həd bɪn ˈklɪpɪŋ əˈweɪ æt ðə ˈpæsɪdʒ fɔɹ ˈaʊɚz bɪˈfɔɹ ˈfɪnɪʃɪŋ ðə ɛkˈskeɪveɪʃən/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "clipping away → /ŋ/ が /ə/ に連結"
+          ],
+          "kana": "ザイ ハド ビン クリッピング アウェイ アッ ザ パセッジ ファ アワーズ ビフォー フィニシング ザ エクスケイヴェイション"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will clip",
+      "ipa": "/wɪl klɪp/",
+      "examples": [
+        {
+          "en": "I'll clip the ivy before we explore the dark cave system.",
+          "ja": "暗い洞窟システムを探索する前に、私はツタを切り取るだろう。",
+          "ipa": "/aɪl klɪp ðə ˈaɪvi bɪˈfoɹ wi ɪkˈsploɹ ðə dɑɹk keɪv ˈsɪstəm/",
+          "linking": [
+            "I'll clips → 縮約形で語末 /l/ が /k/ に連結",
+            "the は子音前で弱形 /ðə/ ザ",
+            "before は弱形 /bɪˈfoɹ/ ビフォー"
+          ],
+          "kana": "アイル クリップ ザ アイビー ビフォー ウィー イクスプロア ザ ダーク ケイヴ システム"
+        },
+        {
+          "en": "They'll clip away at the passage to find the stronghold entrance.",
+          "ja": "彼らは砦の入り口を見つけるために通路を切り取るだろう。",
+          "ipa": "/ðeɪl klɪp əˈweɪ æt ðə ˈpæsɪdʒ tə faɪnd ðə ˈstɹɔŋˌhoʊld ˈɛntɹəns/",
+          "linking": [
+            "They'll clips → 縮約形で語末 /l/ が /k/ に連結",
+            "clip away → /p/ が弱形 /ə/ に連結",
+            "at the → /t/ が /ðə/ に続く（未開放）"
+          ],
+          "kana": "ザイル クリップ アウェイ アッ ザ パセッジ タ ファインド ザ ストロングホウルド エントランス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be clipping",
+      "ipa": "/wɪl bi ˈklɪpɪŋ/",
+      "examples": [
+        {
+          "en": "She will be clipping the vines while we mine for diamonds.",
+          "ja": "私たちがダイヤモンドを採掘している間に、彼女はツタを切り取るだろう。",
+          "ipa": "/ʃi wɪl bi ˈklɪpɪŋ ðə vaɪnz waɪl wi maɪn fɔɹ ˈdaɪməndz/",
+          "linking": [
+            "will be → /l/ が /b/ に連結し、be は弱形 /bi/ ビ",
+            "clipping の /ŋ/ が /ðə/ に連結",
+            "for は弱形 /fɔɹ/ ファ"
+          ],
+          "kana": "シー ウィル ビ クリッピング ザ ヴァインズ ワイル ウィー マイン ファ ダイモンズ"
+        },
+        {
+          "en": "We'll be clipping away at the stone blocks to clear the pathway.",
+          "ja": "私たちは通路をきれいにするために石ブロックを切り取り続けるだろう。",
+          "ipa": "/wil bi ˈklɪpɪŋ əˈweɪ æt ðə stoʊn blɑks tə klɪɹ ðə ˈpæθˌweɪ/",
+          "linking": [
+            "We'll be → /l/ が /b/ に連結し、be は弱形 /bi/ ビ",
+            "clipping away → /ŋ/ が /ə/ に連結",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ウィル ビ クリッピング アウェイ アッ ザ ストウン ブラックス タ クリア ザ パスウェイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have clipped",
+      "ipa": "/wɪl həv ˈklɪpt/",
+      "examples": [
+        {
+          "en": "By sunset, I'll have clipped all the ivy from the temple entrance.",
+          "ja": "日没までに、私は寺院の入り口からすべてのツタを切り取っているだろう。",
+          "ipa": "/baɪ ˈsʌnˌsɛt aɪl həv ˈklɪpt ɔl ðə ˈaɪvi frəm ðə ˈtɛmpəl ˈɛntɹəns/",
+          "linking": [
+            "I'll have → /l/ が /h/ に連結し、have は弱形 /həv/ ハヴ",
+            "clipped all → /t/ が /ɔ/ に連結",
+            "from は弱形 /frəm/ フラム"
+          ],
+          "kana": "バイ サンセット アイル ハヴ クリップ オール ザ アイビー フラム ザ テンパル エントランス"
+        },
+        {
+          "en": "They will have clipped away the passage before we arrive at the stronghold.",
+          "ja": "私たちが砦に到着する前に、彼らは通路を切り取り終わっているだろう。",
+          "ipa": "/ðeɪ wɪl həv ˈklɪpt əˈweɪ ðə ˈpæsɪdʒ bɪˈfoɹ wi əˈɹaɪv æt ðə ˈstɹɔŋˌhoʊld/",
+          "linking": [
+            "will have → /l/ が /h/ に続き、have は弱形 /həv/ ハヴ",
+            "clipped away → /t/ が /ə/ に連結",
+            "before は弱形 /bɪˈfoɹ/ ビフォー"
+          ],
+          "kana": "ザイ ウィル ハヴ クリップ アウェイ ザ パセッジ ビフォー ウィー アライヴ アッ ザ ストロングホウルド"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Target 1900"
   ]
