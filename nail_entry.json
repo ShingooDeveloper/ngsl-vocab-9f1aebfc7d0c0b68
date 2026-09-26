@@ -294,6 +294,94 @@
           "kana": "ザイ ハド ビン ネイリング エヴリシング ダウン オール モーニング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has nailed",
+      "ipa": "/həz ˈneɪld/",
+      "examples": [
+        {
+          "en": "I have nailed the wooden supports together.",
+          "ja": "私は木製のサポートを一緒に釘で留めました。",
+          "ipa": "/aɪ həv ˈneɪld ðə ˈwʊdən səˈpɔrts təˈɡɛðɚ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。"
+          ],
+          "kana": "アイ ハヴ ネイルド ザ ウッデン サポーツ トゥゲザー"
+        },
+        {
+          "en": "He has nailed down all the roof beams before the storm.",
+          "ja": "彼は嵐の前にすべての屋根の梁を釘で留めました。",
+          "ipa": "/hi həz ˈneɪld ˈdaʊn ɔl ðə ˈruf ˈbimz bɪˈfɔr ðə ˈstɔrm/",
+          "linking": [
+            "has は助動詞で弱形 /həz/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（2回）。"
+          ],
+          "kana": "ヒー ハズ ネイルド ダウン オール ザ ルーフ ビームズ ビフォー ザ ストーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had nailed",
+      "ipa": "/həd ˈneɪld/",
+      "examples": [
+        {
+          "en": "They had nailed the fence posts before they started building the wall.",
+          "ja": "彼らは壁を建て始める前にフェンスの支柱を釘で留めていました。",
+          "ipa": "/ðeɪ həd ˈneɪld ðə ˈfɛns ˈpoʊsts bɪˈfɔr ðeɪ ˈstɑrtəd ˈbɪldɪŋ ðə ˈwɔl/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（2回）。"
+          ],
+          "kana": "ザイ ハド ネイルド ザ フェンス ポウスツ ビフォー ザイ スタートゥド ビルディング ザ ウォール"
+        },
+        {
+          "en": "After we had nailed the wooden frame, we added the roof.",
+          "ja": "私たちが木の枠を釘で留めた後、屋根を追加しました。",
+          "ipa": "/ˈæftɚ wi həd ˈneɪld ðə ˈwʊdən ˈfreɪm wi ˈædəd ðə ˈruf/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（2回）。"
+          ],
+          "kana": "アフター ウィー ハド ネイルド ザ ウッデン フレイム ウィー アデッド ザ ルーフ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been nailing",
+      "ipa": "/həz bɪn ˈneɪlɪŋ/",
+      "examples": [
+        {
+          "en": "We have been nailing the planks all morning to complete the structure.",
+          "ja": "私たちは構造を完成させるために朝中ずっと板を釘で留めています。",
+          "ipa": "/wi həv bɪn ˈneɪlɪŋ ðə ˈplæŋks ɔl ˈmɔrnɪŋ tə kəmˈplit ðə ˈstrʌktʃɚ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化（2回）。",
+            "to は前置詞で弱形 /tə/ に弱化。"
+          ],
+          "kana": "ウィー ハヴ ビン ネイリング ザ プランクス オール モーニング タ カムプリート ザ ストラクチャー"
+        },
+        {
+          "en": "She has been nailing decorative wood pieces to make the mansion look beautiful.",
+          "ja": "彼女は館を美しく見えるようにするために装飾的な木片を釘で留めています。",
+          "ipa": "/ʃi həz bɪn ˈneɪlɪŋ ˈdɛkərətɪv ˈwʊd ˈpisəz tə ˈmeɪk ðə ˈmænʃən ˈlʊk ˈbjuːtɪfəl/",
+          "linking": [
+            "has は助動詞で弱形 /həz/ に弱化。",
+            "been は弱形 /bɪn/ に弱化。",
+            "the は冠詞で弱形 /ðə/ に弱化。",
+            "to は前置詞で弱形 /tə/ に弱化。"
+          ],
+          "kana": "シー ハズ ビン ネイリング デコレイティヴ ウッド ピーセズ タ メイク ザ マンション ルック ビューティフル"
+        }
+      ]
     }
   ]
 }
