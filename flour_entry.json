@@ -268,6 +268,96 @@
           "kana": "ゼイ ハヴ ビン フラウリング ザ プレペレーション エリア フォア アワーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will flour",
+      "ipa": "/wɪl ˈflaʊɚ/",
+      "examples": [
+        {
+          "en": "I will flour the baking surface before starting the recipe.",
+          "ja": "レシピを始める前にベーキング表面に小麦粉をふりかけます。",
+          "ipa": "/aɪl ˈflaʊɚ ðə ˈbeɪkɪŋ ˈsɚfɪs bɪˈfɔɹ ˈstɑrtɪŋ ðə rəˈsɛpi/",
+          "linking": [
+            "「I'll flour」で will は縮約 /l/ となり /aɪl/ [アイル]",
+            "「flour the」で /ɚ/ が /ðə/ に連結 [ˈflaʊɚ ðə]",
+            "「before starting」で before は弱形 /bɪˈfɔɹ/"
+          ],
+          "kana": "アイル フラウァー ザ ベイキング サーフィス ビフォア スターティング ザ レセピー"
+        },
+        {
+          "en": "They will flour every baking pan for the cake batch.",
+          "ja": "彼らはケーキのバッチのために各ベーキングパンに小麦粉をふりかけます。",
+          "ipa": "/ðeɪ wəl ˈflaʊɚ ˈɛvri ˈbeɪkɪŋ ˈpæn fɔr ðə ˈkeɪk bætʃ/",
+          "linking": [
+            "「they will」で will は弱形 /wəl/ [ウル]",
+            "「flour every」で /ɚ/ が /ɛ/ に連結 [ˈflaʊɚ ˈɛvri]",
+            "「for the」で /r/ が /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "ザイ ウル フラウァー エブリー ベイキング パン フォア ザ ケイク バッチ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be flouring",
+      "ipa": "/wɪl bi ˈflaʊrɪŋ/",
+      "examples": [
+        {
+          "en": "You will be flouring the work table when I arrive at the kitchen.",
+          "ja": "私がキッチンに到着したときに、あなたは作業テーブルに小麦粉をふりかけています。",
+          "ipa": "/jul bi ˈflaʊrɪŋ ðə ˈwɚk ˈteɪbəl wɛn aɪ əˈraɪv æt ðə ˈkɪtʃən/",
+          "linking": [
+            "「you'll be」で you + will = you'll /jul/、be は /bi/",
+            "「work table」で /k/ と /t/ は異なる子音（連結なし）",
+            "「at the」で /t/ が未開放で /ðə/ に連接 [æt̚ ðə]"
+          ],
+          "kana": "ユル ビー フラウリング ザ ワーク テイブル ウェン アイ アライヴ アッ ザ キッチン"
+        },
+        {
+          "en": "She will be flouring the baking pans all afternoon for the event.",
+          "ja": "彼女はイベントのために午後中ずっとベーキングパンに小麦粉をふりかけています。",
+          "ipa": "/ʃi wəl bi ˈflaʊrɪŋ ðə ˈbeɪkɪŋ ˈpænz ɔl ˌæftərˈnun fɔr ðə ɪˈvɛnt/",
+          "linking": [
+            "「she will」で will は弱形 /wəl/ [ウル]",
+            "「pans all」で /z/ が /ɔ/ に連結 [ˈpænz ɔl]",
+            "「for the」で /r/ が /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "シー ウル ビー フラウリング ザ ベイキング パンズ オール アフターヌーン フォア ザ イベント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have floured",
+      "ipa": "/wɪl həv ˈflaʊɚd/",
+      "examples": [
+        {
+          "en": "By the time you get the ingredients ready, I will have floured all the pans.",
+          "ja": "材料の用意ができるまでに、私はすべてのパンに小麦粉をふりかけてしまいます。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ɡɛt ðə ˈɪnɡridiənts ˈrɛdi aɪl həv ˈflaʊɚd ɔl ðə ˈpænz/",
+          "linking": [
+            "「I'll have」で will は縮約 /l/、have は弱形 /həv/ [アイル ハヴ]",
+            "「have floured」で /v/ が /ə/ に連結 [həv ˈflaʊɚd]",
+            "「all the」で /l/ が /ðə/ に連結 [ɔl ðə]"
+          ],
+          "kana": "バイ ザ タイム ユー ゲット ザ イングレディエンツ レディー アイル ハヴ フラウァード オール ザ パンズ"
+        },
+        {
+          "en": "We will have floured all the workstations before you bring the crops to the kitchen.",
+          "ja": "あなたが作物をキッチンに持ってくる前に、私たちはすべてのワークステーションに小麦粉をふりかけています。",
+          "ipa": "/wi wəl həv ˈflaʊɚd ɔl ðə ˈwɚkˌsteɪʃənz bɪˈfɔr ju brɪŋ ðə ˈkɹɑps tu ðə ˈkɪtʃən/",
+          "linking": [
+            "「we will」で will は弱形 /wəl/ [ウル]",
+            "「will have」で have は弱形 /həv/",
+            "「floured all」で /d/ が /ɔ/ に連結 [ˈflaʊɚd ɔl]"
+          ],
+          "kana": "ウィー ウル ハヴ フラウァード オール ザ ワークステイションズ ビフォア ユー ブリング ザ クラップス トゥ ザ キッチン"
+        }
+      ]
     }
   ]
 }
