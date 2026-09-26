@@ -356,6 +356,93 @@
           "kana": "プレイヤーズ ハヴ ビン アンカバーリング ヒデン シークレッツ イン ザ ダーク キャバーンズ シンス イェスタデイ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will uncover",
+      "ipa": "/wɪl ʌnˈkʌvɚ/",
+      "examples": [
+        {
+          "en": "I'll uncover the hidden loot before sunset.",
+          "ja": "日没前に隠された戦利品を発見するだろう。",
+          "ipa": "/aɪl ʌnˈkʌvɚ ðə ˈhɪdən ˈlut bɪˈfɔr ˈsʌnˌsɛt/",
+          "linking": [
+            "I'll uncover → I'll の語末 /l/ が uncover の初頭 /ʌ/ に連結。I'll は I will の縮約形 /aɪl/",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル アンカバー ザ ヒデン ルート ビフォア サンセット"
+        },
+        {
+          "en": "She will uncover rare treasures by mining the deepest caves.",
+          "ja": "彼女は最も深い洞窟を採掘することで、希少な宝物を発見するだろう。",
+          "ipa": "/ʃi wɪl ʌnˈkʌvɚ ˈrɛr ˈtrɛʒərz baɪ ˈmaɪnɪŋ ðə ˈdipəst ˈkeɪvz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "mining deepest → mining の語末 /ŋ/ と deepest の初頭 /d/ は連結なし（鼻音+子音）"
+          ],
+          "kana": "シー ウィル アンカバー レアー トレジャーズ バイ マイニング ザ ディープスト ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be uncovering",
+      "ipa": "/wɪl bi ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be uncovering ancient ruins while exploring the caverns tomorrow.",
+          "ja": "明日、洞窟を探索しながら、古代遺跡を発見し続けるだろう。",
+          "ipa": "/wɪl bi ʌnˈkʌvərɪŋ ˈeɪnʃənt ˈruɪnz waɪl ɪkˈsplɔrɪŋ ðə kəˈvɚnz təˈmɑroʊ/",
+          "linking": [
+            "we'll be → we'll の /l/ が be の /b/ に続く（子音+子音。we'll は弱形 /wəl/ ウル、be は弱形 /bɪ/ ビ）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル ビー アンカバーリング エイシャント ルーインズ ホワイル イクスプローリング ザ カヴァーンズ トゥモロウ"
+        },
+        {
+          "en": "They will be uncovering hidden chambers deep in the mountain by next week.",
+          "ja": "彼らは来週までに、山の奥深くにある隠された部屋を発見し続けているだろう。",
+          "ipa": "/ðeɪ wɪl bi ʌnˈkʌvərɪŋ ˈhɪdən ˈtʃeɪmbərz dip ɪn ðə ˈmaʊntən baɪ ˈnɛkst ˈwik/",
+          "linking": [
+            "will be → will の弱形 /əl/ ウル（connected speech）、be は弱形 /bɪ/ ビ",
+            "the は弱形 /ðə/ ザ",
+            "deep in → deep の語末 /p/ が in の初頭 /ɪ/ に連結 [dɪpɪn]"
+          ],
+          "kana": "ゼイ ウィル ビー アンカバーリング ヒデン チェンバーズ ディープ イン ザ マウンテン バイ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have uncovered",
+      "ipa": "/wɪl həv ʌnˈkʌvɚd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I'll have uncovered all the secret passages in the fortress.",
+          "ja": "明日までに、城塞内のすべての秘密の通路を発見しているだろう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪl həv ʌnˈkʌvɚd ɔl ðə sɪˈkrit ˈpæsɪdʒɪz ɪn ðə ˈfɔrtəs/",
+          "linking": [
+            "I'll have → I'll の /l/ が have の初頭 /h/ に続く（子音+子音。I'll は /aɪl/、have は弱形 /həv/ ハヴ）",
+            "the は弱形 /ðə/ ザ",
+            "all the → all の語末 /l/ が the の初頭 /ð/ に連結"
+          ],
+          "kana": "バイ トゥモロウ アイル ハヴ アンカバード オール ザ シークリット パッセージズ イン ザ フォーテス"
+        },
+        {
+          "en": "We will have uncovered the ancient artifact before the other team finds it.",
+          "ja": "他のチームがそれを見つける前に、我々は古代の芸術品を発見しているだろう。",
+          "ipa": "/wi wɪl həv ʌnˈkʌvɚd ðə ˈeɪnʃənt ˈɑrtəˌfækt bɪˈfɔr ðə ˈʌðər ˈtim ˈfaɪndz ɪt/",
+          "linking": [
+            "will have → will は弱形 /əl/ ウル、have も弱形 /əv/ アヴ",
+            "the は弱形 /ðə/ ザ",
+            "team finds → team の /m/ が finds の初頭 /f/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ウィ ウィル ハヴ アンカバード ザ エイシャント アーティファクト ビフォア ザ アザー ティーム ファインズ イット"
+        }
+      ]
     }
   ]
 }
