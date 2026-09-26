@@ -287,6 +287,99 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is blanking",
+      "ipa": "/ɪz ˈblæŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The server admin is blanking the spawn chunks to save memory.",
+          "ja": "サーバー管理者は今、メモリを節約するためにスポーン領域を削除しています。",
+          "ipa": "/ðə ˈsɜr.vər ˈæd.mɪn ɪz ˈblæŋkɪŋ ðə ˈspɔn tʃʌŋks tə seɪv ˈmɛm.ə.ri/",
+          "kana": "ザ サーバー アドミン イズ ブラングキング ザ スポン チャングクス タ セイヴ メモリー",
+          "linking": [
+            "is blanking — /z/ が /b/ に連結、is は弱形 /ɪz/ [ɪz ˈblæŋkɪŋ]",
+            "blanking the — /ŋ/ と /ð/ 隣接、the は弱形 /ðə/ [ˈblæŋkɪŋ ðə]",
+            "to save — to は弱形 /tə/、/ə/ が /s/ に連結 [tə seɪv]"
+          ]
+        },
+        {
+          "en": "We are blanking the old base to make room for a new build.",
+          "ja": "新しい建築のためにスペースを作るために、古い基地を削除しています。",
+          "ipa": "/wi ɑr ˈblæŋkɪŋ ðə oʊld beɪs tə meɪk rum fɚ ə nu bɪld/",
+          "kana": "ウィ アー ブラングキング ザ オウルド ベイス タ メイク ルーム ファー ア ニュー ビルド",
+          "linking": [
+            "are blanking — /r/ が /b/ に連結、are は弱形 /ɑr/ [ɑr ˈblæŋkɪŋ]",
+            "blanking the — /ŋ/ と /ð/ 隣接、the は弱形 /ðə/ [ˈblæŋkɪŋ ðə]",
+            "for a — for は弱形 /fər/ → /fə/、a は弱形 /ə/ [fə ə]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was blanking",
+      "ipa": "/wəz ˈblæŋkɪŋ/",
+      "examples": [
+        {
+          "en": "He was blanking the terrain when the server suddenly crashed.",
+          "ja": "サーバーが突然クラッシュした時、彼は地形を削除していました。",
+          "ipa": "/hi wəz ˈblæŋkɪŋ ðə təˈreɪn wɛn ðə ˈsɜr.vər ˈsʌd.ən.li kræʃt/",
+          "kana": "ヒー ワズ ブラングキング ザ テレイン ウェン ザ サーバー サドゥンリー クラッシュド",
+          "linking": [
+            "was blanking — /z/ が /b/ に連結、was は弱形 /wəz/ [wəz ˈblæŋkɪŋ]",
+            "blanking the — /ŋ/ と /ð/ 隣接、the は弱形 /ðə/ [ˈblæŋkɪŋ ðə]",
+            "when the — /n/ が未開放、the は弱形 /ðə/ [wɛn̚ ðə]",
+            "suddenly crashed — /i/ と /k/ 隣接 [ˈsʌd.ən.li kræʃt]"
+          ]
+        },
+        {
+          "en": "They were blanking the damaged biome for restoration.",
+          "ja": "復旧のために、破損したバイオームを削除していました。",
+          "ipa": "/ðeɪ wər ˈblæŋkɪŋ ðə ˈdæm.ɪdʒd baɪˈoʊm fɚ ˌrɛs.təˈreɪʃən/",
+          "kana": "ゼイ ワー ブラングキング ザ ダメッジド バイオーム ファー レスターレイション",
+          "linking": [
+            "were blanking — /r/ が /b/ に連結、were は弱形 /wər/ [wər ˈblæŋkɪŋ]",
+            "blanking the — /ŋ/ と /ð/ 隣接、the は弱形 /ðə/ [ˈblæŋkɪŋ ðə]",
+            "damaged biome — /d/ が未開放 [ˈdæm.ɪdʒd̚ baɪˈoʊm]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been blanking",
+      "ipa": "/həd bɪn ˈblæŋkɪŋ/",
+      "examples": [
+        {
+          "en": "By the time they reached the Nether portal, they had been blanking the area for hours.",
+          "ja": "ネザーポータルに到達するまでに、彼らは何時間もの間、領域を削除し続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðeɪ ritʃt ðə ˈnɛðɚ ˈpɔr.təl | ðeɪ həd bɪn ˈblæŋkɪŋ ðə ˈɛr.i.ə fɚ ˈaʊərz/",
+          "kana": "バイ ザ タイム ゼイ リーチト ザ ネザー ポーターゥル、ゼイ ハド ビン ブラングキング ザ エリア ファー アワーズ",
+          "linking": [
+            "they had — /eɪ/ が /h/ に連結 [ðeɪ həd]",
+            "had been — /d/ が未開放、been は弱形 /bɪn/ [həd̚ bɪn]",
+            "been blanking — /n/ が /b/ に連結 [bɪn ˈblæŋkɪŋ]",
+            "for hours — for は弱形 /fər/ → /fə/、/ə/ が /aʊ/ に連結 [fə ˈaʊərz]"
+          ]
+        },
+        {
+          "en": "Once we had been blanking those chunks, the server performance improved dramatically.",
+          "ja": "それらのチャンクの削除を完了すると、サーバーのパフォーマンスが劇的に向上しました。",
+          "ipa": "/wʌns wi həd bɪn ˈblæŋkɪŋ ðoʊz tʃʌŋks | ðə ˈsɜr.vər pərˈfɔr.məns ɪmˈpruːvd ˌdræˈmæt.ɪ.kəl.i/",
+          "kana": "ワンス ウィ ハド ビン ブラングキング ゾウズ チャングクス、ザ サーバー パフォーマンス インプルーヴド ドラマティカリー",
+          "linking": [
+            "Once we — /s/ が未開放 [wʌns̚ wi]",
+            "we had — /i/ が /h/ に連結 [wi həd]",
+            "had been — /d/ が未開放、been は弱形 /bɪn/ [həd̚ bɪn]",
+            "been blanking — /n/ が /b/ に連結 [bɪn ˈblæŋkɪŋ]"
+          ]
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形",
       "text": "will blank",
