@@ -261,6 +261,95 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will deprive",
+      "ipa": "/wɪl dɪˈpraɪv/",
+      "examples": [
+        {
+          "en": "Withers will deprive nearby players of all protection.",
+          "ja": "ウィザーは近くのプレイヤーをすべての保護から奪う。",
+          "ipa": "/ˈwɪðərz wɪl dɪˈpraɪv ˈnɪərbi ˈpleɪərz əv ɔl prəˈtɛkʃən/",
+          "linking": [
+            "Withers will: Withers の末子音 /z/ が will の初頭 /w/ に続く（子音+子音）",
+            "will deprive: will の末子音 /l/ が deprive の初頭 /d/ に続く（子音+子音）。will は弱形 /wəl/"
+          ],
+          "kana": "ウィザーズ ウィル ディプライヴ ニアバイ プレイヤーズ アヴ オール プロテクション"
+        },
+        {
+          "en": "I will deprive the skeleton of its bow before it fires.",
+          "ja": "弓が発射される前に、スケルトンからその弓を奪う。",
+          "ipa": "/aɪ wɪl dɪˈpraɪv ðə ˈskɛlɪtən əv ɪts boʊ bɪˈfɔɹ ɪt̚ ˈfaɪərz/",
+          "linking": [
+            "will deprive: will の末子音 /l/ が deprive の初頭 /d/ に続く（子音+子音）",
+            "deprive the: deprive の末子音 /v/ が the の初頭 /ð/ に続く（子音+子音）。the は弱形 /ðə/",
+            "it fires: it の末子音 /t/ が fires の初頭 /f/ に続く（子音+子音）。it は未開放 /ɪt̚/"
+          ],
+          "kana": "アイ ウィル ディプライヴ ザ スケリトン アヴ イッツ ボウ ビフォー イッ ファイアーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be depriving",
+      "ipa": "/wɪl bi dɪˈpraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The mob will be depriving us of our items when we respawn.",
+          "ja": "モブが私たちがリスポーンするときに、私たちのアイテムを奪う。",
+          "ipa": "/ðə ˈmɑb wɪl bi dɪˈpraɪvɪŋ əs əv ˈaʊɚ ˈaɪtəmz wɛn wi ɹɪˈspɑn/",
+          "linking": [
+            "The mob: the は弱形 /ðə/、mob の初頭 /m/ に続く（子音+子音）",
+            "will be: will の末子音 /l/ が be の初頭 /b/ に続く（子音+子音）。will は弱形 /wəl/",
+            "of our: of の末子音 /v/ が our の初頭 /aʊ/ に連結傾向 [əv ˈaʊɚ] アヴ アワー。of は弱形 /əv/"
+          ],
+          "kana": "ザ モブ ウィル ビー ディプライヴィング アス アヴ アワー アイテムズ ウェン ウィー リスポーン"
+        },
+        {
+          "en": "We'll be depriving the raid captain of his victory.",
+          "ja": "私たちはレイド隊長から彼の勝利を奪う。",
+          "ipa": "/wil bi dɪˈpraɪvɪŋ ðə ˈɹeɪd ˈkæptən əv hɪz ˈvɪktəɹi/",
+          "linking": [
+            "We'll be: we + will の縮約 /wil/、be の初頭 /b/ に続く（子音+子音）",
+            "depriving the: depriving の末子音 /ŋ/ が the の初頭 /ð/ に続く（子音+子音）。the は弱形 /ðə/",
+            "of his: of の末子音 /v/ が his の初頭 /h/ に続く（子音+子音）。of は弱形 /əv/、his は弱形 /ɪz/"
+          ],
+          "kana": "ウィル ビー ディプライヴィング ザ レイド キャプテン アヴ ヒズ ヴィクトリー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have deprived",
+      "ipa": "/wɪl əv dɪˈpraɪvd/",
+      "examples": [
+        {
+          "en": "By the time you reach the nether fortress, the blazes will have deprived you of most of your health.",
+          "ja": "ネザー要塞に到達するまでに、ブレイズはあなたのヘルスのほとんどを奪っているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ɹitʃ ðə ˈnɛðɚ ˈfɔɹtɹɪs ðə ˈbɹeɪzɪz wɪl əv dɪˈpraɪvd ju əv moʊst əv jɔɹ ˈhɛlθ/",
+          "linking": [
+            "time you: time の末子音 /m/ が you の初頭 /j/ に連結傾向 [taɪm jə] タイム ユー。you は弱形 /jə/",
+            "will have: will の末子音 /l/ が have の初頭 /h/ に続く（子音+子音）。will は弱形 /wəl/、have は弱形 /əv/",
+            "deprived you: deprived の末子音 /d/ が you の初頭 /j/ に連結傾向 [dɪˈpraɪvd jə] ディプライヴド ユー。you は弱形 /jə/"
+          ],
+          "kana": "バイ ザ タイム ユー リーチ ザ ネザー フォートレス ザ ブレイジズ ウィル アヴ ディプライヴド ユ アヴ モウスト アヴ ユアー ヘルス"
+        },
+        {
+          "en": "He will have deprived the dragon of its final health point by then.",
+          "ja": "その時までに、彼はドラゴンの最終的なヘルスポイントを奪っているだろう。",
+          "ipa": "/hi wɪl əv dɪˈpraɪvd ðə ˈdɹæɡən əv ɪts ˈfaɪnəl ˈhɛlθ pɔɪnt baɪ ðɛn/",
+          "linking": [
+            "will have: will の末子音 /l/ が have の初頭 /h/ に続く（子音+子音）。will は弱形 /wəl/、have は弱形 /əv/",
+            "of its: of の末子音 /v/ が its の初頭 /ɪ/ に連結傾向 [əv ɪts] アヴ イッツ。of は弱形 /əv/",
+            "final health: final の末子音 /l/ が health の初頭 /h/ に連結傾向。[ˈfaɪnəl ˈhɛlθ] ファイナル ヘルス"
+          ],
+          "kana": "ヒー ウィル アヴ ディプライヴド ザ ドラゴン アヴ イッツ ファイナル ヘルス ポイント バイ ザン"
+        }
+      ]
     }
   ]
 }
