@@ -164,6 +164,110 @@
           "kana": "モウズ ハヴ ビン インターフィアリング シンス サンセット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is interfering",
+      "ipa": "/ɪz ɪntɚˈfɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is interfering with my redstone mechanism.",
+          "ja": "ゾンビが私のレッドストーン機構に邪魔をしています。",
+          "ipa": "/ðə ˈzoʊmbi ɪz ɪntɚˈfɪrɪŋ wɪð maɪ ˈɹɛd̚ˌstoʊn məˈkænɪzəm/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「zombie」の末尾 /i/ が「is」の初頭 /ɪ/ に連結 [ˈzoʊmbi ɪz] ゾンビー イズ",
+            "「is」の末尾 /z/ が「interfering」の初頭 /ɪ/ に連結 [ɪz ɪntɚˈfɪrɪŋ] イズ インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「redstone」の末尾の /n/ が「mechanism」に続く（子音+子音）"
+          ],
+          "kana": "ザ ゾンビー イズ インターフィアリング ウィズ マイ レッドストーン メカニズム"
+        },
+        {
+          "en": "Lag is interfering with our gameplay right now.",
+          "ja": "ラグが今、私たちのゲームプレイに支障をきたしています。",
+          "ipa": "/læg ɪz ɪntɚˈfɪrɪŋ wɪð ˈaʊɚ ˈɡeɪmˌpleɪ ˈraɪt ˈnaʊ/",
+          "linking": [
+            "「lag」の末尾 /g/ が「is」に続く（子音+子音）",
+            "「is」の末尾 /z/ が「interfering」の初頭 /ɪ/ に連結 [ɪz ɪntɚˈfɪrɪŋ] イズ インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「our」の末尾 /r/ が「gameplay」に連結 [ˈaʊɚ ˈɡeɪmˌpleɪ] アワー ゲイムプレイ"
+          ],
+          "kana": "ラグ イズ インターフィアリング ウィズ アワー ゲイムプレイ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was interfering",
+      "ipa": "/wəz ɪntɚˈfɪrɪŋ/",
+      "examples": [
+        {
+          "en": "I was interfering with the wiring when the power went out.",
+          "ja": "電源が切れたとき、私は配線に邪魔をしていました。",
+          "ipa": "/aɪ wəz ɪntɚˈfɪrɪŋ wɪð ðə ˈwaɪɚɪŋ wɛn ðə ˈpaʊɚ wɛnt ˈaʊt/",
+          "linking": [
+            "「I」/aɪ/ と「was」の弱形 /wəz/ [aɪ wəz] アイ ワズ",
+            "「was」の末尾 /z/ が「interfering」の初頭 /ɪ/ に連結 [wəz ɪntɚˈfɪrɪŋ] ワズ インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「the」は弱形 /ðə/ ザ",
+            "「when」の末尾 /n/ が「the」に未開放で続く [wɛn̚ ðə] ウェン ザ",
+            "「power」の末尾 /ɚ/ が「went」に連結 [ˈpaʊɚ wɛnt] パワー ウェント"
+          ],
+          "kana": "アイ ワズ インターフィアリング ウィズ ザ ワイアリング ウェン ザ パワー ウェント アウト"
+        },
+        {
+          "en": "The creeper was interfering with our construction work.",
+          "ja": "クリーパーが私たちの建設作業に邪魔をしていました。",
+          "ipa": "/ðə ˈkripɚ wəz ɪntɚˈfɪrɪŋ wɪð ˈaʊɚ kənˈstrʌkʃən wɝk/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「creeper」の末尾 /ɚ/ が「was」に連結 [ˈkripɚ wəz] クリーパー ワズ",
+            "「was」の末尾 /z/ が「interfering」の初頭 /ɪ/ に連結 [wəz ɪntɚˈfɪrɪŋ] ワズ インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「our」の末尾 /r/ が「construction」に連結 [ˈaʊɚ kənˈstrʌkʃən] アワー コンストラクション"
+          ],
+          "kana": "ザ クリーパー ワズ インターフィアリング ウィズ アワー コンストラクション ワーク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been interfering",
+      "ipa": "/həd bɪn ɪntɚˈfɪrɪŋ/",
+      "examples": [
+        {
+          "en": "Before we fixed it, the glitch had been interfering with player movement for hours.",
+          "ja": "それを修正する前に、バグは数時間プレイヤーの動きに邪魔をしていました。",
+          "ipa": "/bɪˈfɔːr wi ˈfɪkst ɪt | ðə ɡlɪtʃ həd bɪn ɪntɚˈfɪrɪŋ wɪð ˈpleɪɚ ˈmuːvmənt fɔːr ˈaʊɚz/",
+          "linking": [
+            "「had」は弱形 /həd/ ハド",
+            "「had」の末尾 /d/ が「been」の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "「been」の末尾 /n/ が「interfering」の初頭 /ɪ/ に連結 [bɪn ɪntɚˈfɪrɪŋ] ビン インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「player」の末尾 /r/ が「movement」に連結 [ˈpleɪɚ ˈmuːvmənt] プレイアー ムーブメント",
+            "「for」は弱形 /fɔːr/ フォー"
+          ],
+          "kana": "ビフォア ウィー フィクスト イット、ザ グリッチ ハド ビン インターフィアリング ウィズ プレイアー ムーブメント フォー アワーズ"
+        },
+        {
+          "en": "The faulty code had been interfering with server performance all week.",
+          "ja": "不具合のあるコードは一週間ずっとサーバーのパフォーマンスに邪魔をしていました。",
+          "ipa": "/ðə ˈfɔːlti ˈkoʊd həd bɪn ɪntɚˈfɪrɪŋ wɪð ˈsɝvɚ pɚˈfɔːrməns ɔːl ˈwik/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「code」の末尾 /d/ が「had」に連結 [ˈkoʊd həd] コウド ハド",
+            "「had」の末尾 /d/ が「been」の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "「been」の末尾 /n/ が「interfering」の初頭 /ɪ/ に連結 [bɪn ɪntɚˈfɪrɪŋ] ビン インターフィアリング",
+            "「with」は弱形 /wɪð/ ウィズ",
+            "「server」の末尾 /ɚ/ が「performance」に連結 [ˈsɝvɚ pɚˈfɔːrməns] サーバー パフォーマンス"
+          ],
+          "kana": "ザ フォルティー コウド ハド ビン インターフィアリング ウィズ サーバー パフォーマンス オール ウィーク"
+        }
+      ]
     }
   ]
 }
