@@ -255,6 +255,107 @@
       ]
     }
   ],
+  "perfectForms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has boiled",
+      "ipa": "/həz ˈbɔɪld/",
+      "examples": [
+        {
+          "en": "The water has boiled for too long and the cauldron might be damaged.",
+          "ja": "水が長時間沸騰しており、釜が傷む可能性があります。",
+          "ipa": "/ðə ˈwɔɾɚ həz ˈbɔɪld fɚ tuː lɔŋ ənd ðə ˈkɔːldrən maɪt bi ˈdæmɪdʒd/",
+          "kana": "ザ ウォーラー ハズ ボイルド ファー トゥー ロング アン ザ コールドラン マイト ビ ダメイジド",
+          "linking": [
+            "the: 機能語は弱形 /ðə/ → ザ",
+            "water: /t/ がフラップ化して [ɾ] に変化 → ウォーラー",
+            "has: 助動詞は弱形 /həz/ → ハズ",
+            "for: 機能語は弱形 /fɚ/ → ファー",
+            "and the: /n/ が /ðə/ に接続、the は弱形 → アン ザ"
+          ]
+        },
+        {
+          "en": "We have boiled water to prepare for the brewing stand.",
+          "ja": "我々は醸造台に備えるために水を沸騰させました。",
+          "ipa": "/wi həv ˈbɔɪld ˈwɔɾɚ tə prɪˈpɛɚ fɚ ðə ˈbruːɪŋ ˈstænd/",
+          "kana": "ウィ ハヴ ボイルド ウォーラー タ プリペアー ファー ザ ブルーイング スタンド",
+          "linking": [
+            "have: 助動詞は弱形 /həv/ → ハヴ",
+            "water: /t/ フラップ化 [ɾ] 母音に挟まれ → ウォーラー",
+            "to: 機能語は弱形 /tə/ → タ",
+            "for: 弱形 /fɚ/ → ファー",
+            "the: 弱形 /ðə/ → ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had boiled",
+      "ipa": "/həd ˈbɔɪld/",
+      "examples": [
+        {
+          "en": "The water had boiled before we added the brewing ingredients.",
+          "ja": "我々が醸造材料を加える前に、水は沸騰していました。",
+          "ipa": "/ðə ˈwɔɾɚ həd ˈbɔɪld bɪˈfɔɚ wi ˈædɪd ðə ˈbruːɪŋ ɪnˈɡreɪdiənts/",
+          "kana": "ザ ウォーラー ハッド ボイルド ビフォー ウィ アデッド ザ ブルーイング インレイディエンツ",
+          "linking": [
+            "the: 機能語は弱形 /ðə/ → ザ",
+            "water: /t/ フラップ化 [ɾ] → ウォーラー",
+            "had: 助動詞は弱形 /həd/ → ハッド",
+            "before we: 語末 /r/ が次の /w/ に連結 → ビフォー"
+          ]
+        },
+        {
+          "en": "The cauldron had boiled over when the lava flowed down.",
+          "ja": "溶岩が流れ落ちてきたとき、釜からこぼれるほど沸騰していました。",
+          "ipa": "/ðə ˈkɔːldrən həd ˈbɔɪld ˈoʊvɚ wɛn ðə ˈlɑːvə ˈfloʊd daʊn/",
+          "kana": "ザ コールドラン ハッド ボイルド オウバー ウェン ザ ラーバ フロード ダウン",
+          "linking": [
+            "the: 機能語は弱形 /ðə/ → ザ",
+            "had: 助動詞は弱形 /həd/ → ハッド",
+            "over when: 語末 /r/ が /w/ に連結 → オウバー",
+            "the lava: 弱形 /ðə/ が続く → ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been boiling",
+      "ipa": "/həz bɪn ˈbɔɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The water has been boiling in the cauldron for hours.",
+          "ja": "水が何時間も釜の中で沸騰し続けています。",
+          "ipa": "/ðə ˈwɔɾɚ həz bɪn ˈbɔɪlɪŋ ɪn ðə ˈkɔːldrən fɚ ˈaʊɚz/",
+          "kana": "ザ ウォーラー ハズ ビン ボイリング イン ザ コールドラン ファー アワーズ",
+          "linking": [
+            "the: 機能語は弱形 /ðə/ → ザ",
+            "water: /t/ フラップ化 [ɾ] → ウォーラー",
+            "has: 弱形 /həz/ → ハズ",
+            "been: 弱形 /bɪn/ → ビン",
+            "in the: 語末 /n/ が /ðə/ に連結、the は弱形 → インザ"
+          ]
+        },
+        {
+          "en": "We have been boiling potions since the morning for the big raid.",
+          "ja": "我々は大きな襲撃に備えて朝からずっとポーションを沸騰させ続けています。",
+          "ipa": "/wi həv bɪn ˈbɔɪlɪŋ ˈpoʊʃənz sɪns ðə ˈmɔːrnɪŋ fɚ ðə bɪɡ ˈreɪd/",
+          "kana": "ウィ ハヴ ビン ボイリング ポーションズ シンス ザ モーニング ファー ザ ビッグ レイド",
+          "linking": [
+            "have: 弱形 /həv/ → ハヴ",
+            "been: 弱形 /bɪn/ → ビン",
+            "since the: /s/ と /ðə/ が接続、the は弱形 → シンス ザ",
+            "for the: /r/ が /ðə/ に連結、the は弱形 → ファー ザ"
+          ]
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "boil down to",
