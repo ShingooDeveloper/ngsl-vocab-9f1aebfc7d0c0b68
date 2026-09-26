@@ -234,6 +234,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has shied",
+      "ipa": "/həz ˈʃaɪd/",
+      "examples": [
+        {
+          "en": "The horse has shied away from creeper explosions.",
+          "ja": "馬はクリーパーの爆発から身をひいています。",
+          "ipa": "[ðə ˈhɔrs həz ˈʃaɪd əˈweɪ frəm ˈkripər ɪkˈsploʊʒənz]",
+          "kana": "ザ ホース ハズ シャイド アウェイ フラム クリーパー イクスプロウジョンズ",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "shied の語末 /d/ が away の初頭母音 /ə/ に連結"
+          ]
+        },
+        {
+          "en": "I have shied from entering the Nether portal.",
+          "ja": "私はネザーポータルに入ることから身をひいています。",
+          "ipa": "[aɪ hæv ˈʃaɪd frəm ˈɛntərɪŋ ðə ˈnɛðər ˈpɔɹtəl]",
+          "kana": "アイ ハヴ シャイド フラム エンタリング ザ ネザー ポータル",
+          "linking": [
+            "have は弱形 /həv/",
+            "shied の語末 /d/ が entering の初頭母音 /ɛ/ に連結",
+            "the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had shied",
+      "ipa": "/həd ˈʃaɪd/",
+      "examples": [
+        {
+          "en": "The horse had shied before I could saddle it.",
+          "ja": "馬は私が鞍をつける前に身をひいていました。",
+          "ipa": "[ðə ˈhɔrs həd ˈʃaɪd bɪˈfɔr aɪ kʊd ˈsædəl ɪt]",
+          "kana": "ザ ホース ハド シャイド ビフォア アイ クッド サドル イット",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/"
+          ]
+        },
+        {
+          "en": "They had shied away before we even saw them.",
+          "ja": "私たちが彼らを見る前に、彼らは身をひいていました。",
+          "ipa": "[ðeɪ həd ˈʃaɪd əˈweɪ bɪˈfɔr wi ˈivən sɔ ðɛm]",
+          "kana": "ゼイ ハド シャイド アウェイ ビフォア ウィー イーヴン ソー ザム",
+          "linking": [
+            "had は弱形 /həd/",
+            "shied の語末 /d/ が away の初頭母音 /ə/ に連結",
+            "before の語末 /r/ が we の初頭母音 /w/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been shying",
+      "ipa": "/həz bɪn ˈʃaɪɪŋ/",
+      "examples": [
+        {
+          "en": "This horse has been shying at every little sound.",
+          "ja": "この馬は小さな音に対して身をひきながらいます。",
+          "ipa": "[ðɪs ˈhɔrs həz bɪn ˈʃaɪɪŋ æt ˈɛvəri ˈlɪtəl ˈsaʊnd]",
+          "kana": "ディス ホース ハズ ビン シャイイング アット エヴリ リトル サウンド",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "shying の語末 /ŋ/ が at の初頭母音 /æ/ に連結"
+          ]
+        },
+        {
+          "en": "The enderman has been shying away from our base.",
+          "ja": "エンダーマンは私たちの基地から身をひき続けています。",
+          "ipa": "[ðə ˈɛndɚmæn həz bɪn ˈʃaɪɪŋ əˈweɪ frəm aʊɚ ˈbeɪs]",
+          "kana": "ザ エンダーマン ハズ ビン シャイイング アウェイ フラム アワー ベイス",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "shying の語末 /ŋ/ が away の初頭母音 /ə/ に連結"
+          ]
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is shying",
