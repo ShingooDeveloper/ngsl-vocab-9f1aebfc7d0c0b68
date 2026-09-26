@@ -222,6 +222,102 @@
           "kana": "ディファレント ポーリッシーズ リクワイアー ディファレント アプリケーション テクニックス アン ドライング タイムズ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is polishing",
+      "ipa": "/ɪz ˈpɑːlɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "He is polishing the redstone ore blocks to make them glow brightly.",
+          "ja": "彼はレッドストーン鉱石ブロックを磨いて、それを明るく光らせようとしています。",
+          "ipa": "/hi ɪz ˈpɑːlɪʃɪŋ ðə ˈrɛdˌstoʊn ˈɔːr ˈblɑːks tu meɪk ðəm ˈɡloʊ ˈbraɪtli/",
+          "linking": [
+            "is [ɪz] が polishing の /p/ に続く（子音+子音）[ɪz ˈpɑːlɪʃɪŋ] イズ ポーリッシング",
+            "the は弱形 /ðə/ [ðə ˈrɛdˌstoʊn] ザ レッドストウン",
+            "to は弱形 /tə/ [tə meɪk] タ メイク",
+            "them の /m/ が glow の /ɡ/ に続く（子音+子音）[ðəm ˈɡloʊ] ザム グロウ"
+          ],
+          "kana": "ヒー イズ ポーリッシング ザ レッドストウン オア ブロックス トゥ メイク ザム グロウ ブライトリー"
+        },
+        {
+          "en": "They are polishing armor pieces for their new market stand in the village.",
+          "ja": "彼らは村の新しい市場用アーマーピースを磨いています。",
+          "ipa": "/ðeɪ ɑːr ˈpɑːlɪʃɪŋ ˈɑːrmər ˈpiːsɪz fər ðeɪr ˈnjuː ˈmɑːrkət ˈstænd ɪn ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "are は弱形 /ər/ で polishing に続く（子音+子音）[ɑːr ˈpɑːlɪʃɪŋ] アー ポーリッシング",
+            "for は弱形 /fər/ [fər ðeɪr] ファー ゼア",
+            "their の語末 /r/ が new に連結 [ðeɪr ˈnjuː] ゼア ニュー",
+            "in の /n/ が the に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "ゼイ アー ポーリッシング アーマー ピーシーズ ファー ゼア ニュー マーケット スタンド イン ザ ビレッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was polishing",
+      "ipa": "/wəz ˈpɑːlɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "He was polishing his pickaxe when a creeper suddenly exploded nearby.",
+          "ja": "彼がピッケルを磨いていたとき、クリーパーが突然近くで爆発しました。",
+          "ipa": "/hi wəz ˈpɑːlɪʃɪŋ hɪz ˈpɪkˌæks wɛn ə ˈkripər ˈsʌdənli ɪkˈsploʊdəd ˈnɪrˌbaɪ/",
+          "linking": [
+            "he から was 弱形 /wəz/ に続く [hi wəz] ヒー ワズ",
+            "was /wəz/ が polishing の /p/ に続く（子音+子音）[wəz ˈpɑːlɪʃɪŋ] ワズ ポーリッシング",
+            "polishing の /ŋ/ が his の /h/ に続く（同じ音環境）[ˈpɑːlɪʃɪŋ hɪz] ポーリッシング ヒズ",
+            "a は弱形 /ə/ [ə ˈkripər] ア クリーパー"
+          ],
+          "kana": "ヒー ワズ ポーリッシング ヒズ ピックアックス ウェン ア クリーパー サッダンリー イクスプロウディド ニアバイ"
+        },
+        {
+          "en": "She was polishing decorations when her friend invited her to play a mini-game.",
+          "ja": "彼女が装飾品を磨いていたとき、友人がミニゲームに誘いました。",
+          "ipa": "/ʃi wəz ˈpɑːlɪʃɪŋ ˌdɛkəˈreɪʃənz wɛn hər ˈfrɛnd ɪnˈvaɪtəd hər tu ˈpleɪ ə ˈmɪniˌɡeɪm/",
+          "linking": [
+            "she から was 弱形 /wəz/ に続く [ʃi wəz] シー ワズ",
+            "was /wəz/ が polishing に続く（子音+子音）[wəz ˈpɑːlɪʃɪŋ] ワズ ポーリッシング",
+            "when の /n/ が her に未開放で続く [wɛn̚ hər] ウェン ハー",
+            "to は弱形 /tə/ [tu ˈpleɪ] タ プレイ"
+          ],
+          "kana": "シー ワズ ポーリッシング デコレーションズ ウェン ハー フレンド インバイティド ハー タ プレイ ア ミニゲイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been polishing",
+      "ipa": "/həd ˈbɪn ˈpɑːlɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "He had been polishing his armor all morning before the PvP tournament started.",
+          "ja": "PvP大会が始まる前に、彼は一日中アーマーを磨いていました。",
+          "ipa": "/hi həd ˈbɪn ˈpɑːlɪʃɪŋ hɪz ˈɑːrmər ɔːl ˈmɔːrnɪŋ bɪˈfɔːr ðə ˌpiːviːˈpi ˈtɔːrnəmənt ˈstɑːrtəd/",
+          "linking": [
+            "he から had 弱形 /həd/ に続く [hi həd] ヒー ハド",
+            "had /həd/ が been に続く（子音+子音）[həd ˈbɪn] ハド ビン",
+            "been /bɪn/ が polishing に続く（子音+子音）[ˈbɪn ˈpɑːlɪʃɪŋ] ビン ポーリッシング",
+            "before の /r/ が the に連結 [bɪˈfɔːr ðə] ビフォア ザ"
+          ],
+          "kana": "ヒー ハド ビン ポーリッシング ヒズ アーマー オール モーニング ビフォア ザ ピーブィーピー トーナメント スターティド"
+        },
+        {
+          "en": "They had been polishing netherite blocks for hours when the server crashed unexpectedly.",
+          "ja": "サーバーが予期せず落ちるまで、彼らは何時間もネザライトブロックを磨いていました。",
+          "ipa": "/ðeɪ həd ˈbɪn ˈpɑːlɪʃɪŋ ˈnɛðəraɪt ˈblɑːks fər ˈaʊərz wɛn ðə ˈsɝːvər ˈkræʃt ˌʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "they から had 弱形 /həd/ に続く [ðeɪ həd] ゼイ ハド",
+            "had /həd/ が been に続く（子音+子音）[həd ˈbɪn] ハド ビン",
+            "been /bɪn/ が polishing に続く（子音+子音）[ˈbɪn ˈpɑːlɪʃɪŋ] ビン ポーリッシング",
+            "for は弱形 /fər/、hours の /z/ が when に続く（子音+子音）[fər ˈaʊərz wɛn] ファー アワーズ ウェン"
+          ],
+          "kana": "ゼイ ハド ビン ポーリッシング ネザライト ブロックス ファー アワーズ ウェン ザ サーバー クラッシュト アンエクスペクティドリー"
+        }
+      ]
     }
   ],
   "tags": [
