@@ -186,16 +186,15 @@
       "ipa": "/həz stɑːrvd/",
       "examples": [
         {
-          "en": "I have starved for days in this cave without finding any food.",
-          "ja": "私はこの洞窟で食べ物を見つけられないまま数日間飢えています。",
-          "ipa": "/aɪ həv stɑːrvd fər ˈdeɪz ɪn ðɪs keɪv wɪˈðaʊt ˈfaɪndɪŋ ˈɛni ˈfuːd/",
+          "en": "I have starved in this cave without finding any food.",
+          "ja": "私はこの洞窟で食べ物を見つけられないまま飢えています。",
+          "ipa": "/aɪ həv stɑːrvd ɪn ðɪs keɪv wɪˈðaʊt ˈfaɪndɪŋ əni ˈfuːd/",
           "linking": [
             "have は弱形 /həv/（「ハヴ」）で starved に続く [həv stɑːrvd] ハヴ スターヴド",
-            "for は弱形 /fər/（「ファー」）に弱化 [fər ˈdeɪz] ファー デイズ",
             "without の語末子音 /t/ が finding に続き未開放 [wɪˈðaʊt̚ ˈfaɪndɪŋ] ウィザウッ ファインディング",
-            "any は弱形 /əni/ で food に先行 [ˈɛni ˈfuːd] エニー フード"
+            "any は弱形 /əni/ で food に先行 [əni ˈfuːd] エニ フード"
           ],
-          "kana": "アイ ハヴ スターヴド ファー デイズ イン ディス ケイヴ ウィザウッ ファインディング エニー フード"
+          "kana": "アイ ハヴ スターヴド イン ディス ケイヴ ウィザウッ ファインディング エニ フード"
         },
         {
           "en": "The farm animals have starved since we lost our food supplies in the lava.",
@@ -230,16 +229,16 @@
           "kana": "バイ ザ タイム ウィー ファウンド ザ ヴィリジ ザ ヴィリジャーズ リアライズド ゼイ ハド スターヴド フラム ネグレクト"
         },
         {
-          "en": "After the accident in the Nether, the team had starved for hours without noticing the hunger bar.",
-          "ja": "ネザーでの事故の後、チームは飢え棒に気づかないまま数時間飢えていました。",
-          "ipa": "/ˈæftər ðə ˈæksɪdənt ɪn ðə ˈnɛðər ðə ˈtim həd stɑːrvd fɔr ˈaʊərz wɪˈðaʊt ˈnoʊtɪsɪŋ ðə ˈhʌŋɡər ˈbɑr/",
+          "en": "After the accident in the Nether, the team had starved without noticing the hunger bar.",
+          "ja": "ネザーでの事故の後、チームは飢え棒に気づかないまま飢えていました。",
+          "ipa": "/ˈæftər ðə ˈæksɪdənt ɪn ðə ˈnɛðər ðə ˈtim həd stɑːrvd wɪˈðaʊt ˈnoʊtɪsɪŋ ðə ˈhʌŋɡər ˈbɑr/",
           "linking": [
             "the は弱形 /ðə/（「ザ」）で Nether に先行 [ðə ˈnɛðər] ザ ネザー",
             "had は弱形 /həd/（「ハド」）で starved に続く [həd stɑːrvd] ハド スターヴド",
-            "for は弱形 /fɔr/（「フォー」）に弱化。hours は /ˈaʊərz/ [fɔr ˈaʊərz] フォー アワーズ",
+            "without の語末子音 /t/ が noticing に続き未開放 [wɪˈðaʊt̚ ˈnoʊtɪsɪŋ] ウィザウッ ノーティシング",
             "the は弱形 /ðə/（「ザ」）で hunger に先行 [ðə ˈhʌŋɡər] ザ ハンガー"
           ],
-          "kana": "アフター ザ アクシデント イン ザ ネザー ザ ティーム ハド スターヴド フォー アワーズ ウィザウッ ノーティシング ザ ハンガー バー"
+          "kana": "アフター ザ アクシデント イン ザ ネザー ザ ティーム ハド スターヴド ウィザウッ ノーティシング ザ ハンガー バー"
         }
       ]
     },
@@ -272,6 +271,179 @@
             "without の語末 /t/ が enough に続き未開放。enough は弱形 /ɪˈnʌf/ [wɪˈðaʊt̚ ɪˈnʌf] ウィザウッ イナフ"
           ],
           "kana": "ウィー ハヴ ビン スターヴィング エバー シンス ウィー エンタード ディス ディープ ケイヴ ウィザウッ イナフ プロヴィジョンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is starving",
+      "ipa": "/ɪz ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is starving in the dark cave without any food.",
+          "ja": "その暗い洞窟のゾンビが食べ物なく飢えています。",
+          "ipa": "/ðə ˈzoʊmbi ɪz ˈstɑːrvɪŋ ɪn ðə ˈdɑrk keɪv wɪˈðaʊt əni ˈfuːd/",
+          "linking": [
+            "the は弱形 /ðə/、is は弱形 /ɪz/ で starving に続く。/z/ が st に未開放で連接 [ðə ˈzoʊmbi ɪz ˈstɑːrvɪŋ]",
+            "in は弱形 /ɪn/ で the の弱形 /ðə/ に連結 [ɪn ðə]",
+            "without の語末 /t/ が any に続き未開放 [wɪˈðaʊt̚ əni]"
+          ],
+          "kana": "ザ ゾンビ イズ スターヴィング イン ザ ダーク ケイヴ ウィザウッ エニ フード"
+        },
+        {
+          "en": "The animals are starving in the sealed room because I forgot to feed them.",
+          "ja": "閉じ込められた部屋の動物たちが飢えているのは、私が餌やりを忘れたからです。",
+          "ipa": "/ðə ˈænɪməlz ɑr ˈstɑːrvɪŋ ɪn ðə ˈsild ˈruːm bɪˈkɑz aɪ fərˈɡɑt tə ˈfid ðəm/",
+          "linking": [
+            "the は弱形 /ðə/、are は /ɑr/ で starving に続く [ðə ˈænɪməlz ɑr ˈstɑːrvɪŋ]",
+            "in は弱形 /ɪn/ で the の弱形 /ðə/ に連結 [ɪn ðə]",
+            "to は弱形 /tə/ で feed に先行 [tə ˈfid]"
+          ],
+          "kana": "ザ アニマルズ アー スターヴィング イン ザ シールド ルーム ビコーズ アイ ファーゴット タ フィード ザム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was starving",
+      "ipa": "/wəz ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "The mob was starving when we found it trapped in the dark.",
+          "ja": "我々がそれを暗がりで見つけた時、モブが飢えていました。",
+          "ipa": "/ðə ˈmoʊb wəz ˈstɑːrvɪŋ ˈwɛn wi ˈfaʊnd ɪt̚ ˈtræpt ɪn ðə ˈdɑrk/",
+          "linking": [
+            "the は弱形 /ðə/、was は弱形 /wəz/ で starving に続く。/z/ が st に未開放で連接 [ðə ˈmoʊb wəz ˈstɑːrvɪŋ]",
+            "found の /d/ が it の /ɪ/ に連結 [ˈfaʊnd ɪt̚]",
+            "in は弱形 /ɪn/ で the の弱形 /ðə/ に連結 [ɪn ðə]"
+          ],
+          "kana": "ザ モブ ワズ スターヴィング ウェン ウィー ファウンド イッ トラップト イン ザ ダーク"
+        },
+        {
+          "en": "While I was building my house, the animals were starving outside.",
+          "ja": "私が家を建築中に、動物たちが外で飢えていました。",
+          "ipa": "/ˈwaɪl aɪ wəz ˈbɪldɪŋ maɪ ˈhaʊs ðə ˈænɪməlz wɚ ˈstɑːrvɪŋ ˈaʊtˌsaɪd/",
+          "linking": [
+            "was は弱形 /wəz/ で building に続く。/z/ が b に未開放で連接 [wəz ˈbɪldɪŋ]",
+            "the は弱形 /ðə/、were は /wɚ/ で starving に続く [ðə ˈænɪməlz wɚ ˈstɑːrvɪŋ]"
+          ],
+          "kana": "ワイル アイ ワズ ビルディング マイ ハウス ザ アニマルズ ワー スターヴィング アウトサイド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been starving",
+      "ipa": "/həd bɪn ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "The villagers had been starving for days before we found the food supplies.",
+          "ja": "食料を見つける前に、村人たちは何日も飢えていました。",
+          "ipa": "/ðə ˈvɪlɪdʒərz həd bɪn ˈstɑːrvɪŋ fər ˈdeɪz bɪˈfɔr wi ˈfaʊnd ðə ˈfuːd səˈplaɪz/",
+          "linking": [
+            "the は弱形 /ðə/、had は弱形 /həd/、been は弱形 /bɪn/ で starving に続く。/n/ が st に未開放で連接 [ðə ˈvɪlɪdʒərz həd bɪn ˈstɑːrvɪŋ]",
+            "for は弱形 /fər/ で days に先行 [fər ˈdeɪz]",
+            "found の /d/ が the の弱形 /ðə/ に連結 [ˈfaʊnd ðə]"
+          ],
+          "kana": "ザ ヴィリジャーズ ハド ビン スターヴィング ファー デイズ ビフォア ウィー ファウンド ザ フード サプライズ"
+        },
+        {
+          "en": "The trapped wolves had been starving in the pit since we blocked the exit.",
+          "ja": "ピットに閉じ込められたオオカミたちは、出口を塞いでからずっと飢えていました。",
+          "ipa": "/ðə ˈtræpt ˈwʊlvz həd bɪn ˈstɑːrvɪŋ ɪn ðə ˈpɪt sɪns wi ˈbloʊkt ðə ˈɛɡˌzɪt/",
+          "linking": [
+            "the は弱形 /ðə/、had は弱形 /həd/、been は弱形 /bɪn/ で starving に続く。/n/ が st に未開放で連接 [ðə ˈtræpt ˈwʊlvz həd bɪn ˈstɑːrvɪŋ]",
+            "in は弱形 /ɪn/ で the の弱形 /ðə/ に連結 [ɪn ðə]",
+            "pit の語末 /t/ が since に続き未開放 [ˈpɪt̚ sɪns]"
+          ],
+          "kana": "ザ トラップド ウルブズ ハド ビン スターヴィング イン ザ ピッ シンス ウィー ブロウクト ザ エグジット"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will starve",
+      "ipa": "/wɪl stɑːrv/",
+      "examples": [
+        {
+          "en": "If you don't find food, you'll starve by morning.",
+          "ja": "食べ物を見つけなければ、朝までに飢え死にします。",
+          "ipa": "/ɪf ju doʊnt ˈfaɪnd ˈfuːd juːl stɑːrv baɪ ˈmɔːrnɪŋ/",
+          "linking": [
+            "food you'll → food の語末 /d/ が you'll の /j/ に連結 [ˈfuːd juːl]",
+            "you'll starve → you'll の語末 /l/ が st に未開放で連接 [juːl̚ stɑːrv]"
+          ],
+          "kana": "イフ ユー ドウント ファインド フード ユール スターヴ バイ モーニング"
+        },
+        {
+          "en": "The villagers will starve if we don't provide wheat soon.",
+          "ja": "小麦をすぐに提供しなければ、村人たちは飢え死にします。",
+          "ipa": "/ðə ˈvɪlɪdʒərz wɪl stɑːrv ɪf wi doʊnt prəˈvaɪd ˈhwiːt ˈsuːn/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で villagers に先行 [ðə ˈvɪlɪdʒərz] ザ ヴィリジャーズ",
+            "will starve → will の語末 /l/ が st に未開放で連接 [wɪl̚ stɑːrv]"
+          ],
+          "kana": "ザ ヴィリジャーズ ウィル スターヴ イフ ウィー ドウント プロヴァイド フウィート スーン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be starving",
+      "ipa": "/wɪl bi ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be starving soon unless we find any food in this cave.",
+          "ja": "この洞窟で食べ物を見つけなければ、すぐに飢えることになります。",
+          "ipa": "/wil bi ˈstɑːrvɪŋ ˈsuːn ənˈlɛs wi ˈfaɪnd ˈɛni ˈfuːd ɪn ðɪs ˈkeɪv/",
+          "linking": [
+            "we'll be starving → we'll の語末 /l/ が be に未開放で連接 [wɪl̚ bɪ]、be は弱形 /bi/",
+            "any food → any は弱形 /əni/、/i/ が /f/ に未開放で続く [ˈɛni ˈfuːd]"
+          ],
+          "kana": "ウィル ビー スターヴィング スーン アンレス ウィー ファインド エニー フード イン ディス ケイヴ"
+        },
+        {
+          "en": "The animals will be starving in desperation after losing their food supply.",
+          "ja": "食料の供給を失った後、動物たちは絶望的に飢えることになります。",
+          "ipa": "/ðə ˈænɪməlz wɪl bi ˈstɑːrvɪŋ ɪn dɪˈspɛrəʃən ˈæftər ˈluːzɪŋ ðɛər ˈfuːd səˈplaɪ/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で animals に先行 [ðə ˈænɪməlz] ザ アニマルズ",
+            "will be starving → will の語末 /l/ が be に未開放で連接 [wɪl̚ bi]、be は弱形 /bi/"
+          ],
+          "kana": "ザ アニマルズ ウィル ビー スターヴィング イン ディスペレイション アフター ルーズィング ゼア フード サプライ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have starved",
+      "ipa": "/wɪl həv stɑːrvd/",
+      "examples": [
+        {
+          "en": "By tomorrow, the sheep will have starved if we forget to feed them.",
+          "ja": "もし私たちが彼らに食べ物をあげるのを忘れたら、明日までに羊は飢え死にしています。",
+          "ipa": "/baɪ təˈmɑːroʊ ðə ˈʃip wɪl həv stɑːrvd ɪf wi fərˈɡɛt tə ˈfid ðəm/",
+          "linking": [
+            "will have starved → will の語末 /l/ が have に未開放で連接 [wɪl̚ həv]、have は弱形 /həv/",
+            "the sheep → the は弱形 /ðə/（「ザ」）で sheep に先行 [ðə ˈʃip] ザ シープ"
+          ],
+          "kana": "バイ タモウロウ ザ シープ ウィル ハヴ スターヴド イフ ウィー ファーゲット タ フィード ザム"
+        },
+        {
+          "en": "They'll have starved by the time the rescue party arrives at our base.",
+          "ja": "救援隊が私たちの基地に到着する頃には、彼らは飢え死にしています。",
+          "ipa": "/ðeɪl həv stɑːrvd baɪ ðə ˈtaɪm ðə ˈrɛskjuː ˈpɑrti əˈraɪvz æt ˈaʊər ˈbeɪs/",
+          "linking": [
+            "they'll have starved → they'll の語末 /l/ が have に未開放で連接 [ðeɪl̚ həv]、have は弱形 /həv/",
+            "the time → the は弱形 /ðə/（「ザ」）で time に先行 [ðə ˈtaɪm] ザ タイム"
+          ],
+          "kana": "ゼイル ハヴ スターヴド バイ ザ タイム ザ レスキュー パーティー アライヴズ アット アワー ベイス"
         }
       ]
     }
