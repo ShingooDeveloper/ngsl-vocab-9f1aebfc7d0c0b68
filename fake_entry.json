@@ -265,6 +265,102 @@
       ]
     },
     {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will fake",
+      "ipa": "/wɪl ˈfeɪk/",
+      "examples": [
+        {
+          "en": "I'll fake my health bar so the witch thinks I'm weak.",
+          "ja": "ウィッチが私が弱いと思うようにヘルスバーを装います。",
+          "ipa": "/aɪl ˈfeɪk maɪ ˈhɛlθ bɑr soʊ ðə ˈwɪtʃ ˈθɪŋks aɪm wik/",
+          "linking": [
+            "I'll は I + will の縮約。will は弱形 /əl/ に弱化 [aɪl] アイル",
+            "fake の末尾 /k/ が my の /m/ に続く（子音+子音）で未開放 [ˈfeɪk̚ maɪ] フェイク マイ",
+            "the は弱形 /ðə/ に弱化 ザ",
+            "witch の末尾 /tʃ/ が thinks の /θ/ に続く（子音+子音）"
+          ],
+          "kana": "アイル フェイク マイ ヘルス バー ソウ ザ ウィッチ シングクス アイム ウィーク"
+        },
+        {
+          "en": "They'll fake their equipment status to avoid the creepers.",
+          "ja": "クリーパーを避けるために彼らは装備ステータスを装います。",
+          "ipa": "/ðeɪl ˈfeɪk ðɛr ɪˈkwɪpmənt ˈstætəs tu əˈvɔɪd ðə ˈkripɚz/",
+          "linking": [
+            "They'll は they + will の縮約。will は弱形 /əl/ に弱化 [ðeɪl] ザイル",
+            "fake の末尾 /k/ が their の /ð/ に続く（子音+子音）で未開放 [ˈfeɪk̚ ðɛr] フェイク ザイア",
+            "to は弱形 /tə/ に弱化",
+            "the は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "ザイル フェイク ザイア イクウィップメント スタータス タ ァボイド ザ クリーパーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be faking",
+      "ipa": "/wɪl bi ˈfeɪkɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be faking our position when the rival team attacks.",
+          "ja": "ライバルチームが攻撃してくるとき、私たちは位置を装います。",
+          "ipa": "/wil bi ˈfeɪkɪŋ ˈaʊr pəˈzɪʃən wɛn ðə ˈraɪvəl tim əˈtæks/",
+          "linking": [
+            "We'll は we + will の縮約。will は弱形 /əl/ に弱化 [wil] ウィル",
+            "be の末尾 /i/ が faking の /f/ に続く（母音+子音）[bi ˈfeɪkɪŋ] ビー フェイキング",
+            "when の末尾 /n/ が the の /ð/ に続く",
+            "the は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "ウィル ビー フェイキング アワー ポジション ウェン ザ ライバル ティーム ァタックス"
+        },
+        {
+          "en": "He'll be faking illness to avoid mining duty in the nether.",
+          "ja": "彼はネザーの採掘作業を避けるために病気を装います。",
+          "ipa": "/hil bi ˈfeɪkɪŋ ˈɪlnəs tu əˈvɔɪd ˈmaɪnɪŋ ˈduti ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "He'll は he + will の縮約。will は弱形 /əl/ に弱化 [hil] ヒル",
+            "be の末尾 /i/ が faking の /f/ に続く [bi ˈfeɪkɪŋ] ビー フェイキング",
+            "mining の末尾 /ŋ/ が duty の /d/ に続く（鼻音+子音） [ˈmaɪnɪŋ ˈduti] マイニング デューティー",
+            "the は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "ヒル ビー フェイキング イルネス タ ァボイド マイニング デューティー イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have faked",
+      "ipa": "/wɪl həv ˈfeɪkt/",
+      "examples": [
+        {
+          "en": "She'll have faked her coordinates by the time you arrive at spawn.",
+          "ja": "あなたがスポーンに到着するまでに、彼女は自分の座標を偽っているでしょう。",
+          "ipa": "/ʃil həv ˈfeɪkt hɚ koʊˈɔrdənɪts baɪ ðə ˈtaɪm ju əˈraɪv ət ˈspɔn/",
+          "linking": [
+            "She'll は she + will の縮約。will は弱形 /əl/ に弱化 [ʃil] シル",
+            "have は弱形 /əv/ に弱化。will have で will の末尾 /l/ が have の /ə/ に連結",
+            "faked の末尾 /t/ が her の /h/ に続く（子音+子音）で未開放 [ˈfeɪkt̚ hɚ] フェイクト ハー",
+            "the は弱形 /ðə/ に弱化 ザ"
+          ],
+          "kana": "シル ハヴ フェイクト ハー コーディネッツ バイ ザ タイム ジュー ァライヴ アット スポーン"
+        },
+        {
+          "en": "By next weekend, they'll have faked several cargo shipments to the outpost.",
+          "ja": "来週末までに、彼らはアウトポストへのいくつかの荷物輸送を装ったことになるでしょう。",
+          "ipa": "/baɪ nɛkst ˈwikɛnd ðeɪl həv ˈfeɪkt ˈsɛvərəl ˈkɑrɡoʊ ˈʃɪpməns tu ðə ˈaʊtpoʊst/",
+          "linking": [
+            "weekend の末尾 /d/ が they の /ð/ に続く（子音+子音）で未開放 [ˈwikɛnd̚ ðeɪl] ウィークエンド ザイル",
+            "They'll は they + will の縮約。will は弱形 /əl/ に弱化 [ðeɪl] ザイル",
+            "have は弱形 /əv/ に弱化",
+            "faked の末尾 /t/ が several の /s/ に続く（子音+子音）で未開放 [ˈfeɪkt̚ ˈsɛvərəl] フェイクト セベラル"
+          ],
+          "kana": "バイ ネクスト ウィークエンド ザイル ハヴ フェイクト セベラル カーゴウ シップメンツ タ ザ アウトポースト"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is faking",
