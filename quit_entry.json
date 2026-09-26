@@ -188,6 +188,98 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has quit",
+      "ipa": "/həz ˈkwɪt/",
+      "examples": [
+        {
+          "en": "I have quit this server three times after losing my base to creepers.",
+          "ja": "クリーパーに基地を失った後、このサーバーを3回やめた。",
+          "ipa": "[aɪ həv ˈkwɪt ðɪs ˈsɝvɚ θɹi taɪmz ˈæftɚ ˈloʊzɪŋ maɪ ˈbeɪs tə ˈkɹipɚz]",
+          "linking": [
+            "have quit → have は弱形 /həv/、/v/ + /ˈk/ 子音+子音で連結なし",
+            "after losing → /r/ + /l/ 子音+子音で連結なし",
+            "to creepers → to は弱形 /tə/"
+          ],
+          "kana": "アイ ハヴ クウィット ディス サーバー スリー タイムズ アフター ロウジング マイ ベイス タ クリーパーズ"
+        },
+        {
+          "en": "The admins have quit the realm and moved to a new world.",
+          "ja": "管理者たちがレルムをやめて、新しいワールドに引っ越した。",
+          "ipa": "[ðə ˈædmɪnz həv ˈkwɪt ðə ˈrɛlm ənd ˈmuvd tə ə ˈnu ˈwɝld]",
+          "linking": [
+            "admins have → /z/ + /h/ 子音+子音で連結なし、have は弱形 /həv/",
+            "have quit → /v/ + /ˈk/ 子音+子音で連結なし",
+            "to a → to は弱形 /tə/"
+          ],
+          "kana": "ザ アドミンズ ハヴ クウィット ザ レルム アン ムーヴド タ ア ニュー ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had quit",
+      "ipa": "/həd ˈkwɪt/",
+      "examples": [
+        {
+          "en": "Before the server reset, I had quit and rejoined three times.",
+          "ja": "サーバーがリセットされる前に、私は3回やめて復帰していた。",
+          "ipa": "[bɪˈfɔr ðə ˈsɝvɚ ˈrɛsɛt | aɪ həd ˈkwɪt ənd rɪˈdʒɔɪnd θɹi taɪmz]",
+          "linking": [
+            "before the → /r/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "had quit → had は弱形 /həd/、/d/ + /ˈk/ 子音+子音で連結なし",
+            "and rejoined → /d/ + /r/ 子音+子音で連結なし"
+          ],
+          "kana": "ビフォア ザ サーバー リセット、アイ ハド クウィット アン リジョインド スリー タイムズ"
+        },
+        {
+          "en": "They had quit the game before the lag became unbearable.",
+          "ja": "ラグが耐えられなくなる前に、彼らはゲームをやめていた。",
+          "ipa": "[ðeɪ həd ˈkwɪt ðə ɡeɪm bɪˈfɔr ðə læɡ bɪˈkeɪm ʌnˈbɛrəbəl]",
+          "linking": [
+            "had quit → had は弱形 /həd/、/d/ + /ˈk/ 子音+子音で連結なし",
+            "quit the → /t/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/",
+            "before the → /r/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド クウィット ザ ゲイム ビフォア ザ ラッグ ビケイム アンベアラブル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been quitting",
+      "ipa": "/həz bɪn ˈkwɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been quitting and rejoining all morning trying to fix the lag.",
+          "ja": "朝からずっとやめては復帰を繰り返してラグを直そうとしています。",
+          "ipa": "[aɪ həv bɪn ˈkwɪtɪŋ ənd rɪˈdʒɔɪnɪŋ ɔl ˈmɔrnɪŋ ˈtraɪɪŋ tə ˈfɪks ðə læɡ]",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/",
+            "been quitting → /n/ + /ˈk/ 子音+子音で連結なし",
+            "to fix → to は弱形 /tə/",
+            "fix the → /ks/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン クウィティング アン リジョイニング オール モーニング トライング タ フィックス ザ ラッグ"
+        },
+        {
+          "en": "The players have been quitting since the last update broke everything.",
+          "ja": "最後のアップデートがすべてを壊してから、プレイヤーたちはずっとやめ続けている。",
+          "ipa": "[ðə ˈpleɪɚz həv bɪn ˈkwɪtɪŋ sɪns ðə læst ˈʌpˌdeɪt ˈbroʊk ˈɛvriθɪŋ]",
+          "linking": [
+            "players have → /z/ + /h/ 子音+子音で連結なし、have は弱形 /həv/",
+            "have been → /v/ + /b/ 子音+子音で連結なし、been は弱形 /bɪn/",
+            "been quitting → /n/ + /ˈk/ 子音+子音で連結なし",
+            "since the → /s/ + /ð/ 子音+子音で連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ ビン クウィティング シンス ザ ラスト アップデート ブロウク エブリシング"
+        }
+      ]
+    },
+    {
       "type": "past_perfect_progressive",
       "label": "過去完了進行形",
       "text": "had been quitting",
