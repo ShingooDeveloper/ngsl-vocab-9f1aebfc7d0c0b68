@@ -280,6 +280,102 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is prevailing",
+      "ipa": "/ɪz prɪˈveɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Peace is prevailing throughout the server as players cooperate.",
+          "ja": "プレイヤーが協力しているため、サーバー全体で平和が優勢です。",
+          "ipa": "/pis ɪz prɪˈveɪlɪŋ θruˈaʊt ðə ˈsɝːvər əz ˈpleɪərz koʊˈɑpəreɪt/",
+          "linking": [
+            "Peace の /s/ が is に続く（子音+子音）。is は弱形 /ɪz/ [pis ɪz] ピース イズ",
+            "is の弱形 /ɪz/ が prevailing に続く（子音+子音）[ɪz prɪˈveɪlɪŋ] イズ プリヴェイリング",
+            "prevailing の /ŋ/ が throughout に未開放で続く [prɪˈveɪlɪŋ̚ θruˈaʊt] プリヴェイリング スルーアウト",
+            "the は弱形 /ðə/ が server に続く（子音+子音）[ðə ˈsɝːvər] ザ サーバー"
+          ],
+          "kana": "ピース イズ プリヴェイリング スルーアウト ザ サーバー ァズ プレイヤーズ コウオペレイト"
+        },
+        {
+          "en": "Our strategy is prevailing as we defend the castle from raiders.",
+          "ja": "レイダーから城を守る際、私たちの戦略が優勢です。",
+          "ipa": "/ˈaʊər ˈstrætədʒi ɪz prɪˈveɪlɪŋ əz wi dɪˈfɛnd ðə ˈkæsəl frəm ˈreɪdərz/",
+          "linking": [
+            "our の /r/ が strategy に続く（子音+子音）[ˈaʊər ˈstrætədʒi] アワー ストラテジー",
+            "strategy の /i/ が is に続く。is は弱形 /ɪz/ [ˈstrætədʒi ɪz] ストラテジー イズ",
+            "is の弱形 /ɪz/ が prevailing に続く（子音+子音）[ɪz prɪˈveɪlɪŋ] イズ プリヴェイリング",
+            "prevailing の /ŋ/ が as に未開放で続く [prɪˈveɪlɪŋ̚ əz] プリヴェイリング ァズ"
+          ],
+          "kana": "アワー ストラテジー イズ プリヴェイリング ァズ ウィ ディフェンド ザ キャッセル フラム レイダーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was prevailing",
+      "ipa": "/wəz prɪˈveɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Our team was prevailing against the dragon when the power failed.",
+          "ja": "電力が途絶えたとき、私たちのチームはドラゴンに勝利していました。",
+          "ipa": "/ˈaʊər tim wəz prɪˈveɪlɪŋ əˈɡɛnst ðə ˈdræɡən wɛn ðə ˈpaʊər ˈfeɪld/",
+          "linking": [
+            "our の /r/ が team に続く（子音+子音）[ˈaʊər tim] アワー ティーム",
+            "team の /m/ が was に続く（子音+子音）。was は弱形 /wəz/ [tim wəz] ティーム ワズ",
+            "was の弱形 /wəz/ が prevailing に続く（子音+子音）[wəz prɪˈveɪlɪŋ] ワズ プリヴェイリング",
+            "prevailing の /ŋ/ が against に未開放で続く [prɪˈveɪlɪŋ̚ əˈɡɛnst] プリヴェイリング ァゲンスト"
+          ],
+          "kana": "アワー ティーム ワズ プリヴェイリング ァゲンスト ザ ドラゴン ウェン ザ パウアー フェイルド"
+        },
+        {
+          "en": "Peace was prevailing throughout the server while the truce held strong.",
+          "ja": "休戦が強く保たれている間、サーバー全体で平和が優勢でした。",
+          "ipa": "/pis wəz prɪˈveɪlɪŋ θruˈaʊt ðə ˈsɝːvər waɪl ðə trus hɛld strɔŋ/",
+          "linking": [
+            "Peace の /s/ が was に続く（子音+子音）。was は弱形 /wəz/ [pis wəz] ピース ワズ",
+            "was の弱形 /wəz/ が prevailing に続く（子音+子音）[wəz prɪˈveɪlɪŋ] ワズ プリヴェイリング",
+            "prevailing の /ŋ/ が throughout に未開放で続く [prɪˈveɪlɪŋ̚ θruˈaʊt] プリヴェイリング スルーアウト",
+            "the は弱形 /ðə/ が server に続く（子音+子音）[ðə ˈsɝːvər] ザ サーバー"
+          ],
+          "kana": "ピース ワズ プリヴェイリング スルーアウト ザ サーバー ワイル ザ トルース ヘルド ストロング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been prevailing",
+      "ipa": "/həd bɪn prɪˈveɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The fair rules had been prevailing for years before the new admin arrived.",
+          "ja": "新しい管理者が到着する前に、公正なルールが数年間優勢でした。",
+          "ipa": "/ðə fɛr rulz həd bɪn prɪˈveɪlɪŋ fɔr jɪrz bɪˈfɔr ðə nu ˈædmɪn əˈraɪvd/",
+          "linking": [
+            "the は弱形 /ðə/ が fair に続く（子音+子音）[ðə fɛr] ザ フェア",
+            "fair の /r/ が rules に続く（子音+子音）[fɛr rulz] フェア ルールズ",
+            "rules の /z/ が had に続く（子音+子音）。had は弱形 /həd/ [rulz həd] ルールズ ハド",
+            "had の弱形 /həd/ が been に続く（子音+子音）。been も弱形 /bɪn/ [həd bɪn] ハド ビン"
+          ],
+          "kana": "ザ フェア ルールズ ハド ビン プリヴェイリング フォー イヤーズ ビフォア ザ ヌー アドミン ァライヴド"
+        },
+        {
+          "en": "Order had been prevailing in our kingdom until chaos broke loose.",
+          "ja": "混沌が解き放たれるまで、私たちの王国では秩序が優勢でした。",
+          "ipa": "/ˈɔrdər həd bɪn prɪˈveɪlɪŋ ɪn ˈaʊər ˈkɪŋdəm ənˈtɪl ˈkeɪɑs broʊk lus/",
+          "linking": [
+            "Order の /r/ が had に続く（子音+子音）。had は弱形 /həd/ [ˈɔrdər həd] オーダー ハド",
+            "had の弱形 /həd/ が been に続く（子音+子音）。been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been の /n/ が prevailing に未開放で続く [bɪn̚ prɪˈveɪlɪŋ] ビン プリヴェイリング",
+            "prevailing の /ŋ/ が in に未開放で続く [prɪˈveɪlɪŋ̚ ɪn] プリヴェイリング イン"
+          ],
+          "kana": "オーダー ハド ビン プリヴェイリング イン アワー キングダム ァンティル ケイオス ブロウク ルース"
+        }
+      ]
+    },
+    {
       "type": "present_perfect_progressive",
       "label": "現在完了進行形（has/have been + -ing）",
       "text": "has been prevailing",
