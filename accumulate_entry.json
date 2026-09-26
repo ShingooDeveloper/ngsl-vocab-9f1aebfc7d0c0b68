@@ -65,5 +65,99 @@
       ],
       "kana": "プレイヤーズ シュッド アキューミュレイト リソーシーズ アーリー イン ザ ゲイム タ プリペア フォア チャレンジズ ァヘッド"
     }
+  ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is accumulating",
+      "ipa": "/ɪz əˈkjuːmjəleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The player is accumulating diamonds in the diamond mine right now.",
+          "ja": "プレイヤーは今、ダイヤモンド鉱山でダイヤモンドを蓄積しています。",
+          "ipa": "/ðə ˈpleɪər ɪz əˈkjuːmjəleɪtɪŋ ˈdaɪəməndz ɪn ðə ˈdaɪəmənd ˈmaɪn ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is → 助動詞（弱形 /ɪz/）",
+            "accumulating の /ŋ/ は語末で未開放、詰まる音に",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ プレイアー イズ ァキューミュレイティング ダイマンズ イン ザ ダイマンド マイン ライト ナウ"
+        },
+        {
+          "en": "Resources are accumulating faster as we upgrade the mining machines.",
+          "ja": "私たちがマイニング機械をアップグレードするにつれて、資源がより速く蓄積しています。",
+          "ipa": "/ˈrɛsɚsɪz ɑr əˈkjuːmjəleɪtɪŋ ˈfæstər əz wi ˈʌpɡreɪd ðə ˈmaɪnɪŋ məˈʃinz/",
+          "linking": [
+            "are → 助動詞（弱形 /ɑr/）",
+            "faster の /r/ が as に続く [ˈfæstər əz] ファスタァ アズ",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "リソーシーズ ァー ァキューミュレイティング ファスタァ アズ ウィ ァップグレイド ザ マイニング マシーンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was accumulating",
+      "ipa": "/wəz əˈkjuːmjəleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was accumulating wood blocks when a creeper suddenly appeared.",
+          "ja": "クリーパーが突然現れたとき、私は木のブロックを蓄積していました。",
+          "ipa": "/aɪ wəz əˈkjuːmjəleɪtɪŋ ˈwʊd ˈblɑks ˈwɛn ə ˈkripər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was → 助動詞（弱形 /wəz/）",
+            "wood の /d/ が blocks に続く（子音+子音、未開放傾向）[ˈwʊd ˈblɑks]",
+            "a → 弱形 /ə/"
+          ],
+          "kana": "アイ ワズ ァキューミュレイティング ウッド ブロックス ウェン ア クリーパー サドゥンリー ァピアード"
+        },
+        {
+          "en": "They were accumulating iron ore for two hours before nightfall.",
+          "ja": "彼らは日暮れの前に2時間鉄鉱石を蓄積していました。",
+          "ipa": "/ðeɪ wɚ əˈkjuːmjəleɪtɪŋ ˈaɪərn ˈɔr fɔr tu ˈaʊərz bɪˈfɔr ˈnaɪtˌfɔl/",
+          "linking": [
+            "were → 助動詞（弱形 /wɚ/）",
+            "ore の /r/ が for に続く [ˈɔr fɔr] オア フォア",
+            "before の /r/ が nightfall に続く（子音+子音）"
+          ],
+          "kana": "ザイ ワー ァキューミュレイティング アイアン オア フォア ツー アワーズ ビフォア ナイトフォール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been accumulating",
+      "ipa": "/həd bɪn əˈkjuːmjəleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we built the storage room, we had been accumulating materials for months.",
+          "ja": "ストレージルームを建設するまでに、私たちは数か月間材料を蓄積していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈbɪlt ðə ˈstɔrɪdʒ ˈrum wi həd bɪn əˈkjuːmjəleɪtɪŋ məˈtɪriəlz fɔr ˈmʌnθz/",
+          "linking": [
+            "had → 助動詞（弱形 /həd/）",
+            "been → 助動詞（弱形 /bɪn/）",
+            "the → 弱形 /ðə/（複数回）",
+            "materials の /z/ が for に続く [məˈtɪriəlz fɔr] マテリアルズ フォア"
+          ],
+          "kana": "バイ ザ タイム ウィ ビルト ザ ストレッジ ルーム ウィ ハド ビン ァキューミュレイティング マテリアルズ フォア マンスズ"
+        },
+        {
+          "en": "The redstone circuits had been accumulating power for several minutes before the mechanism activated.",
+          "ja": "メカニズムが起動する前に、レッドストーン回路は数分間エネルギーを蓄積していました。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɚkɪts həd bɪn əˈkjuːmjəleɪtɪŋ ˈpaʊər fɔr ˈsɛvrəl ˈmɪnɪts bɪˈfɔr ðə ˈmɛkənɪzəm ˈæktɪveɪtɪd/",
+          "linking": [
+            "had → 助動詞（弱形 /həd/）",
+            "been → 助動詞（弱形 /bɪn/）",
+            "power の /r/ が for に続く [ˈpaʊər fɔr] パワー フォア",
+            "before の /r/ が the に続く（子音+弱形）[bɪˈfɔr ðə]"
+          ],
+          "kana": "ザ レッドストウン サーキッツ ハド ビン ァキューミュレイティング パワー フォア セヴラル ミニッツ ビフォア ザ メカニズム アクティヴェイティド"
+        }
+      ]
+    }
   ]
 }
