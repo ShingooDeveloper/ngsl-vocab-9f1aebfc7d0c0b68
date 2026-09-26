@@ -43,5 +43,217 @@
       "kana": "プレイヤーズ フー ヴィオレイラ イッ ゲット バンド"
     }
   ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "violates",
+      "ipa": "/ˈvɪəleɪts/",
+      "examples": [
+        {
+          "en": "Using X-ray mode violates the server anti-cheat rules.",
+          "ja": "X線モードの使用はサーバーのアンチチート規約に違反します。",
+          "ipa": "/ˈjuːzɪŋ ˈɛks reɪ moʊd ˈvɪəleɪts ðə ˈsɜrvər ˈænti tʃit rulz/",
+          "linking": [
+            "violates の末尾 /s/ が the の /ð/ (弱形)に連結し、s→z化 [ˈvɪəleɪtzðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ユージング エックス レイ モード ヴィオレイズ ザ サーバー アンティ チート ルールズ"
+        },
+        {
+          "en": "Griefing another player's base violates the protection policy.",
+          "ja": "他のプレイヤーの基地をグリーフすることはプロテクション規約に違反します。",
+          "ipa": "/ˈɡriːfɪŋ əˈnʌðər ˈpleɪərz beɪs ˈvɪəleɪts ðə prəˈtɛkʃən ˈpɑləsi/",
+          "linking": [
+            "violates の末尾 /s/ が the の /ð/ (弱形)に連結し、s→z化 [ˈvɪəleɪtzðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "グリーフィング アナザー プレイヤーズ ベイス ヴィオレイズ ザ プロテクション ポリシー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "violated",
+      "ipa": "/ˈvɪəleɪtɪd/",
+      "examples": [
+        {
+          "en": "He violated a rule and got banned for three days.",
+          "ja": "彼はルールに違反して、3日間バンされました。",
+          "ipa": "/hi ˈvɪəleɪtɪd ə rul ənd ɡɑt bænd fɔr θri deɪz/",
+          "linking": [
+            "violated の末尾 /d/ が a の /ə/ (弱形)に連結 [ˈvɪəleɪdə]",
+            "a は弱形 /ə/",
+            "got の末尾 /t/ が banned の /b/ に未開放で連接 [ɡɑt̚ bænd]"
+          ],
+          "kana": "ヒー ヴィオレイディド ア ルール アンド ゴット バンド フォー スリー デイズ"
+        },
+        {
+          "en": "The admin team violated the server reset schedule last week.",
+          "ja": "管理者チームは先週のサーバーリセットスケジュールに違反しました。",
+          "ipa": "/ðə ˈædmɪn tim ˈvɪəleɪtɪd ðə ˈsɜrvər ˈriːsɛt ˈskɛdʒul læst wik/",
+          "linking": [
+            "team の末尾 /m/ が violated の /v/ に続く（子音+子音）",
+            "violated の末尾 /d/ が the の /ð/ に連結 [ˈvɪəleɪdðə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ティーム ヴィオレイティド ザ サーバー リーセット スケジュール ラスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "violated",
+      "ipa": "/ˈvɪəleɪtɪd/",
+      "examples": [
+        {
+          "en": "The violated protection settings were restored by the admin team.",
+          "ja": "違反されたプロテクション設定は管理者チームによって復元されました。",
+          "ipa": "/ðə ˈvɪəleɪtɪd prəˈtɛkʃən ˈsɛtɪŋz wɚ rɪˈstɔrd baɪ ðə ˈædmɪn tim/",
+          "linking": [
+            "violated の末尾 /d/ が protection の /p/ に続く（子音+子音）",
+            "settings の末尾 /z/ が were の /w/ に続く（子音+子音）",
+            "restored の末尾 /d/ が by に続く。by は機能語で弱形 /baɪ/ [d baɪ]"
+          ],
+          "kana": "ザ ヴィオレイティド プロテクション セッティングズ ワー リストアド バイ ザ アドミン ティーム"
+        },
+        {
+          "en": "Having violated the server agreement, the player was permanently removed.",
+          "ja": "サーバー契約に違反したため、そのプレイヤーは永久に削除されました。",
+          "ipa": "/ˈhævɪŋ ˈvɪəleɪtɪd ðə ˈsɜrvər əˈɡriːmənt ðə ˈpleɪər wəz ˈpɜrmənəntli rɪˈmuvd/",
+          "linking": [
+            "Having の /ŋ/ が violated の /v/ に続く（子音+子音）",
+            "violated の末尾 /d/ が the の /ð/ に連結 [ˈvɪəleɪdðə]",
+            "the は弱形 /ðə/",
+            "was の /z/ が permanently の /p/ に続く（子音+子音）、was は弱形 /wəz/"
+          ],
+          "kana": "ハービング ヴィオレイティド ザ サーバー アグリーメント ザ プレイヤー ウァズ パーマネントリー リムーヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "violating",
+      "ipa": "/ˈvɪəleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Violating the height limit in the spawn area results in immediate punishment.",
+          "ja": "スポーン地域の高さ制限に違反すると、即座に罰せられます。",
+          "ipa": "/ˈvɪəleɪtɪŋ ðə haɪt ˈlɪmɪt ɪn ðə spoʊn ˈɛriə rɪˈzʌlts ɪn ɪˈmiːdiət ˈpʌnɪʃmənt/",
+          "linking": [
+            "Violating の末尾 /ŋ/ が the の /ð/ に子音同士で続く [ˈvɪəleɪtɪŋ ðə]",
+            "the は弱形 /ðə/",
+            "limit の末尾 /t/ が in に続く。in は弱形 /ɪn/ [t ɪn]",
+            "area の末尾 /ə/ が results の /r/ に連結"
+          ],
+          "kana": "ヴィオレイティング ザ ハイト リミット イン ザ スポーン エリア リザルツ イン イミーディエット パニッシュメント"
+        },
+        {
+          "en": "Any player caught violating the anti-griefing rules will face instant removal.",
+          "ja": "アンチグリーフィング規約に違反しているプレイヤーは即座に削除されます。",
+          "ipa": "/ˈɛni ˈpleɪər kɔt ˈvɪəleɪtɪŋ ðə ˈænti ˈɡriːfɪŋ rulz wɪl feɪs ˈɪnstənt rɪˈmuvəl/",
+          "linking": [
+            "caught の末尾 /t/ が violating の /v/ に未開放で連接 [kɔt̚ ˈvɪəleɪtɪŋ]",
+            "violating の末尾 /ŋ/ が the の /ð/ に子音同士で続く [ˈvɪəleɪtɪŋ ðə]",
+            "the は弱形 /ðə/",
+            "will は助動詞で弱形 /wɪl/ に弱化"
+          ],
+          "kana": "エニー プレイヤー コート ヴィオレイティング ザ アンティ グリーフィング ルールズ ウィル フェイス インスタント リムーバル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has violated",
+      "ipa": "/həz ˈvɪəleɪtɪd/",
+      "examples": [
+        {
+          "en": "The player has violated the rules multiple times this season.",
+          "ja": "このシーズン、そのプレイヤーは複数回ルールに違反しています。",
+          "ipa": "/ðə ˈpleɪər həz ˈvɪəleɪtɪd ðə rulz ˈmʌltəpəl taɪmz ðɪs ˈsiːzən/",
+          "linking": [
+            "has は弱形 /həz/",
+            "violated の末尾 /d/ が the の /ð/ (弱形)に未開放で連接 [ˈvɪəleɪtɪd̚ ðə]"
+          ],
+          "kana": "ザ プレイヤー ハズ ヴィオレイティド ザ ルールズ マルティプル タイムズ ディス シーズン"
+        },
+        {
+          "en": "We have violated the server protection agreement and must pay compensation.",
+          "ja": "私たちはサーバー保護契約に違反したため、賠償金を支払う必要があります。",
+          "ipa": "/wi həv ˈvɪəleɪtɪd ðə ˈsɜrvər prəˈtɛkʃən əˈɡriːmənt ənd məst peɪ ˌkɑmpənˈseɪʃən/",
+          "linking": [
+            "have は弱形 /həv/",
+            "violated の末尾 /d/ が the の /ð/ (弱形)に未開放で連接 [ˈvɪəleɪtɪd̚ ðə]",
+            "agreement の末尾 /t/ が and の /ə/ (弱形)に未開放で連接"
+          ],
+          "kana": "ウィ ハヴ ヴィオレイティド ザ サーバー プロテクション アグリーメント アンド マスト ペイ カンペンセイション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had violated",
+      "ipa": "/həd ˈvɪəleɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the admin arrived, the griefer had violated multiple bases.",
+          "ja": "管理者が到着する前に、グリーファーは複数の基地に違反していました。",
+          "ipa": "/bɪˈfɔr ðə ˈædmɪn əˈraɪvd ðə ˈɡriːfər həd ˈvɪəleɪtɪd ˈmʌltəpəl ˈbeɪsɪz/",
+          "linking": [
+            "had は弱形 /həd/",
+            "violated の末尾 /d/ が multiple の /m/ に未開放で連接 [ˈvɪəleɪtɪd̚ ˈmʌltəpəl]"
+          ],
+          "kana": "ビフォー ザ アドミン アライヴド ザ グリーファー ハド ヴィオレイティド マルティプル ベイシーズ"
+        },
+        {
+          "en": "The players had violated the spawn protection when they started building.",
+          "ja": "プレイヤーが建物を作り始めたときに、スポーン保護に違反していました。",
+          "ipa": "/ðə ˈpleɪərz həd ˈvɪəleɪtɪd ðə spɔn prəˈtɛkʃən wɛn ðeɪ ˈstɑrtɪd ˈbɪldɪŋ/",
+          "linking": [
+            "had は弱形 /həd/",
+            "violated の末尾 /d/ が the の /ð/ (弱形)に未開放で連接 [ˈvɪəleɪtɪd̚ ðə]",
+            "started の末尾 /d/ が building の /b/ に未開放で連接 [ˈstɑrtɪd̚ ˈbɪldɪŋ]"
+          ],
+          "kana": "ザ プレイヤーズ ハド ヴィオレイティド ザ スポーン プロテクション ウェン ザイ スターティド ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been violating",
+      "ipa": "/həz bɪn ˈvɪəleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The hacker has been violating the anti-cheat rules all week.",
+          "ja": "ハッカーは1週間ずっとアンチチート規約に違反し続けています。",
+          "ipa": "/ðə ˈhækər həz bɪn ˈvɪəleɪtɪŋ ðə ˈænti tʃit rulz ɔl wik/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "violating の末尾 /ŋ/ が the の /ð/ (弱形)に子音同士で続く"
+          ],
+          "kana": "ザ ハッカー ハズ ビン ヴィオレイティング ザ アンティ チート ルールズ オール ウィーク"
+        },
+        {
+          "en": "They have been violating the server terms of service since yesterday.",
+          "ja": "昨日からずっと、彼らはサーバー利用規約に違反し続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈvɪəleɪtɪŋ ðə ˈsɜrvər tɜrmz əv ˈsɜrvɪs sɪns ˈjɛstərdeɪ/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "violating の末尾 /ŋ/ が the の /ð/ (弱形)に子音同士で続く",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ザイ ハヴ ビン ヴィオレイティング ザ サーバー タームズ アヴ サービス シンス イェスタディ"
+        }
+      ]
+    }
+  ],
   "idioms": []
 }
