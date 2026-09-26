@@ -1,0 +1,361 @@
+{
+  "word": "uncover",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ʌnˈkʌvɚ/",
+  "rank": 1900,
+  "level": "B1",
+  "hi": "uncover(?:ed|ing|s)?",
+  "meanings": [
+    "【動詞】覆いを取る、露出させる（remove a cover from something）",
+    "【動詞】（隠れたものを）見つけ出す、明らかにする（discover or reveal something hidden）",
+    "【動詞】（秘密や真実を）暴露する、明かす（bring to light a secret or truth）"
+  ],
+  "examples": [
+    {
+      "en": "I uncovered a hidden dungeon beneath the village.",
+      "ja": "村の下に隠された地下牢を発見した。",
+      "ipa": "/aɪ ʌnˈkʌvɚd ə ˈhɪdən ˈdʌndʒən bɪˈnɛθ ðə ˈvɪlɪdʒ/",
+      "linking": [
+        "uncovered a → uncovered の /d/ が a の初頭母音 /ə/ に連結。米語では /d/ はフラップ化 [ɾ]。結果は [ʌnˈkʌvɚɾə] アンカバラ",
+        "the は定冠詞で弱形 /ðə/ ザ"
+      ],
+      "kana": "アイ アンカバラ ヒデン ダンジャン ビネス ザ ヴィリッジ"
+    },
+    {
+      "en": "We uncovered valuable resources while mining deep underground.",
+      "ja": "地下深く採掘中に、貴重なリソースを発見した。",
+      "ipa": "/wi ʌnˈkʌvɚd ˈvæljuəbəl ˈrɛsɔrsɪz waɪl ˈmaɪnɪŋ dip ˌʌndɚˈɡraʊnd/",
+      "linking": [
+        "while は連結なし",
+        "deep underground → deep の /p/ と underground の /ʌ/ は連結なし"
+      ],
+      "kana": "ウィ アンカバード ヴァリュアブル リソースィズ ホワイル マイニング ディープ アンダーグラウンド"
+    },
+    {
+      "en": "The team uncovered an ancient temple after removing blocks.",
+      "ja": "ブロックを取り除いた後、チームは古い寺院を発見した。",
+      "ipa": "/ðə ˈtim ʌnˈkʌvɚd ən eɪnˈʃənt ˈtɛmpəl ˈæftər rɪˈmuvɪŋ ˈblɑks/",
+      "linking": [
+        "The は弱形 /ðə/ ザ",
+        "an は弱形 /ən/ アン",
+        "ancient の /ə/ はシュワ音"
+      ],
+      "kana": "ザ ティーム アンカバード アン エイシャント テンプル アフター リムーヴィング ブラックス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "uncover the truth",
+      "ja": "真実を明かす、真実を暴露する",
+      "example": "We uncovered the truth about the hidden loot.",
+      "example_ja": "隠された戦利品についての真実を明かした。",
+      "ipa": "/wi ʌnˈkʌvɚd ðə ˈtruth əˈbaʊt ðə ˈhɪdən ˈlut/",
+      "linking": [
+        "uncovered the → uncovered の /d/ が the の /ð/ に連結（未開放またはリンク）",
+        "the は弱形 /ðə/ ザ"
+      ],
+      "kana": "ウィ アンカバード ザ トゥルース ア バウト ザ ヒデン ルート"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "uncovers",
+      "ipa": "/ʌnˈkʌvɚz/",
+      "examples": [
+        {
+          "en": "He uncovers hidden ores while mining with his pickaxe.",
+          "ja": "彼はつるはしで採掘しながら、隠された鉱石を発見する。",
+          "ipa": "/hi ʌnˈkʌvɚz ˈhɪdən ˈɔrz waɪl ˈmaɪnɪŋ wɪð hɪz ˈpɪkˌæks/",
+          "linking": [
+            "He uncovers → He は短い代名詞で自然な流れ",
+            "ores while → ores の /z/ が while の /w/ に続く（子音+子音で連結なし）",
+            "with his → with の語末子音 /ð/ が his の初頭 /h/ に連結 [wɪðɪz]"
+          ],
+          "kana": "ヒー アンカバーズ ヒデン オーズ ホワイル マイニング ウィズ ヒズ ピックアックス"
+        },
+        {
+          "en": "This player uncovers every secret cave during exploration.",
+          "ja": "このプレイヤーは探検中にすべての隠された洞窟を発見する。",
+          "ipa": "/ðɪs ˈpleɪər ʌnˈkʌvɚz ˈɛvri sɪˈkrit ˈkeɪv ˈdʊrɪŋ ˌɛksploʊˈreɪʃən/",
+          "linking": [
+            "player uncovers → 特に連結なし",
+            "secret cave → secret の /t/ は未開放で続く [sɪˈkrit̚ ˈkeɪv]"
+          ],
+          "kana": "ディス プレイヤー アンカバーズ エブリー シークレット ケイブ ジューリング エクスプロレーション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "uncovered",
+      "ipa": "/ʌnˈkʌvɚd/",
+      "examples": [
+        {
+          "en": "We uncovered a massive underground base beneath the sand.",
+          "ja": "砂の下に巨大な地下基地を発見した。",
+          "ipa": "/wi ʌnˈkʌvɚd ə ˈmæsɪv ˌʌndɚɡraʊnd ˈbeɪs bɪˈnɛθ ðə ˈsænd/",
+          "linking": [
+            "uncovered a → uncovered の /d/ が a の初頭 /ə/ に連結。フラップ化 [ɾ]。[ʌnˈkʌvɚɾə]",
+            "the sand → the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ アンカバラ マッシブ アンダーグラウンド ベイス ビネス ザ サンド"
+        },
+        {
+          "en": "I uncovered the fact that mob spawners were protecting the treasure.",
+          "ja": "モブスポーナーが財宝を守っていたという事実を発見した。",
+          "ipa": "/aɪ ʌnˈkʌvɚd ðə ˈfækt ðət ˈmoʊb ˈspoʊnərz wər prəˈtɛktɪŋ ðə ˈtrɛʒər/",
+          "linking": [
+            "uncovered the → uncovered の /d/ が the の /ə/ に連結。フラップ化 [ɾ]。[ʌnˈkʌvɚɾə]",
+            "the は弱形 /ðə/ ザ",
+            "that は機能語で弱形 /ðət/ ダット",
+            "were は弱形 /wɚ/ ワー"
+          ],
+          "kana": "アイ アンカバラ ザ ファクト ザット モウブ スポウナーズ ワー プロテクティング ザ トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "uncovered",
+      "ipa": "/ʌnˈkʌvɚd/",
+      "examples": [
+        {
+          "en": "The uncovered treasure room held rare enchantments.",
+          "ja": "発見された財宝の部屋には、レアなエンチャントが含まれていた。",
+          "ipa": "/ðə ʌnˈkʌvɚd ˈtrɛʒər rum ˈhɛld ˈrɛr ɪnˈtʃæntmənts/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "held rare → held の /d/ が rare の /r/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ アンカバード トレジャー ルーム ヘルド レアー インチャントメンツ"
+        },
+        {
+          "en": "These uncovered artifacts reveal ancient civilizations in the world.",
+          "ja": "これらの発見されたアーティファクトは、世界の古代文明を明らかにしている。",
+          "ipa": "/ðiz ʌnˈkʌvɚd ˈɑrtɪˌfækts rɪˈvil ˈeɪnʃənt səˌvɪləˈzeɪʃənz ɪn ðə ˈwɝld/",
+          "linking": [
+            "These は /ðiz/ ディーズ",
+            "in the → in の語末 /n/ が the の初頭 /ð/ に連結 [ɪnðə]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ディーズ アンカバード アーティファクツ リビール エイシャント シビライゼーションズ イン ザ ワールド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "uncovering",
+      "ipa": "/ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "While uncovering blocks, we discovered an underground lake.",
+          "ja": "ブロックを掘り進めながら、地下の湖を発見した。",
+          "ipa": "/waɪl ʌnˈkʌvərɪŋ ˈblɑks, wi dɪsˈkʌvərd ən ˌʌndɚɡraʊnd ˈleɪk/",
+          "linking": [
+            "uncovering blocks → uncovering の /ŋ/ と blocks の /b/ は連結なし",
+            "an underground → an は弱形 /ən/ アン、underground の初頭 /ʌ/ に続く"
+          ],
+          "kana": "ホワイル アンカバーリング ブラックス ウィ ディスカバード アン アンダーグラウンド レイク"
+        },
+        {
+          "en": "Uncovering secrets is essential for completing the adventure map.",
+          "ja": "秘密を明かすことは、アドベンチャーマップをクリアするために必須です。",
+          "ipa": "/ʌnˈkʌvərɪŋ sɪˈkrɪts ɪz əˈsɛnʃəl fɔr kəmˈpliːtɪŋ ðə ˈædˌvɛntʃər mæp/",
+          "linking": [
+            "Uncovering secrets → uncovering の /ŋ/ は秘密の /s/ に続く（子音+子音で連結なし）",
+            "is は弱形 /ɪz/ イズ",
+            "for は機能語で弱形 /fɔr/ フォア",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アンカバーリング シークリッツ イズ エッセンシャル フォア コンプリーティング ザ アドベンチャー マップ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is uncovering",
+      "ipa": "/ɪz ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "She is uncovering a hidden corridor by removing sand blocks.",
+          "ja": "彼女は砂ブロックを取り除いて、隠された廊下を発見しつつある。",
+          "ipa": "/ʃi ɪz ʌnˈkʌvərɪŋ ə ˈhɪdən ˈkɔrɪˌdɔr baɪ rɪˈmuvɪŋ ˈsænd ˈblɑks/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/ イズ",
+            "uncovering a → uncovering の語末 /ŋ/ と a の初頭 /ə/ は連結なし",
+            "hidden corridor → hidden の /n/ が corridor の初頭 /k/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "シー イズ アンカバーリング ア ヒデン コリドー バイ リムーヴィング サンド ブラックス"
+        },
+        {
+          "en": "The players are uncovering valuable diamonds deep underground.",
+          "ja": "プレイヤーたちは地下深くで貴重なダイヤモンドを発見しつつある。",
+          "ipa": "/ðə ˈpleɪərz ɑr ʌnˈkʌvərɪŋ ˈvæljuəbəl ˈdaɪməndz dip ˌʌndɚɡraʊnd/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "are は助動詞で弱形 /ɑr/",
+            "uncovering valuable → uncovering の語末 /ŋ/ と valuable の初頭 /v/ は連結なし"
+          ],
+          "kana": "ザ プレイアーズ アー アンカバーリング ヴァリュアブル ダイマンズ ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was uncovering",
+      "ipa": "/wəz ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "I was uncovering a secret chamber when the creeper exploded.",
+          "ja": "私がクリーパーが爆発したとき、秘密の部屋を発見していた。",
+          "ipa": "/aɪ wəz ʌnˈkʌvərɪŋ ə sɪˈkrit ˈtʃeɪmbɚ wɛn ðə ˈkriːpɚ ɪkˈsploʊdɪd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/ ワズ",
+            "uncovering a → uncovering の語末 /ŋ/ と a の初頭 /ə/ は連結なし",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ワズ アンカバーリング ア シークリット チェンバー ウェン ザ クリーパー イクスプロウディッド"
+        },
+        {
+          "en": "They were uncovering ancient ruins before the storm arrived.",
+          "ja": "嵐がやってくる前に、彼らは古代遺跡を発見していた。",
+          "ipa": "/ðeɪ wɚ ʌnˈkʌvərɪŋ ˈeɪnʃənt ˈruɪnz bɪˈfɔr ðə ˈstɔrm əˈraɪvd/",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/ ワー",
+            "uncovering ancient → uncovering の語末 /ŋ/ と ancient の初頭 /eɪ/ は連結なし",
+            "before the → before の語末 /r/ が the の初頭 /ð/ に続く（r-coloring による連結効果）"
+          ],
+          "kana": "ゼイ ワー アンカバーリング エイシャント ルーインズ ビフォア ザ ストーム アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been uncovering",
+      "ipa": "/həd bɪn ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "She had been uncovering treasures for hours before finding the loot.",
+          "ja": "戦利品を見つける前に、数時間もの間、彼女は宝物を発見していた。",
+          "ipa": "/ʃi həd bɪn ʌnˈkʌvərɪŋ ˈtrɛʒərz fɔr ˈaʊərz bɪˈfɔr ˈfaɪndɪŋ ðə ˈlut/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド、been も弱形 /bɪn/ ビン",
+            "uncovering treasures → uncovering の語末 /ŋ/ と treasures の初頭 /t/ は連結なし（子音+子音）",
+            "for は機能語で弱形 /fɔr/ フォア、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ハド ビン アンカバーリング トレジャーズ フォア アワーズ ビフォア ファインディング ザ ルート"
+        },
+        {
+          "en": "We had been uncovering the secret path when the mobs attacked.",
+          "ja": "モブが攻撃してきたとき、私たちは秘密のパスを発見していた。",
+          "ipa": "/wi həd bɪn ʌnˈkʌvərɪŋ ðə sɪˈkrit ˈpæθ wɛn ðə ˈmɑbz əˈtækt/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド、been も弱形 /bɪn/ ビン",
+            "uncovering the → uncovering の語末 /ŋ/ と the の初頭 /ð/ は連結なし（鼻音+子音）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハド ビン アンカバーリング ザ シークリット パス ウェン ザ モブズ アタクト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has uncovered",
+      "ipa": "/həz ʌnˈkʌvɚd/",
+      "examples": [
+        {
+          "en": "She has uncovered the hidden dragon egg chamber after weeks of exploration.",
+          "ja": "数週間の探検の後、彼女は隠されたドラゴンの卵室を発見した。",
+          "ipa": "/ʃi həz ʌnˈkʌvɚd ðə ˈhɪdən ˈdræɡən ˈɛɡ ˈtʃeɪmbɚ ˈæftər wiks əv ˌɛksploʊˈreɪʃən/",
+          "linking": [
+            "has → 弱形 /həz/（助動詞）",
+            "uncovered the → 語末子音 /d/ が母音 /ə/ に連結（the は弱形 /ðə/）",
+            "after → /r/ が次の音に連結（連続した音のため）"
+          ],
+          "kana": "シー ハズ アンカバード ザ ヒデン ドラゴン エッグ チェンバー アフター ウィークス アヴ エクスプロレーション"
+        },
+        {
+          "en": "The miners have uncovered rare emerald veins deep beneath the stone layers.",
+          "ja": "鉱夫たちは石層の深さの下にある稀な翡翠の鉱脈を発見した。",
+          "ipa": "/ðə ˈmaɪnɚz həv ʌnˈkʌvɚd ˈrɛr ˈɛmərəld ˈveɪnz dip bɪˈnɛθ ðə ˈstoʊn ˈleɪərz/",
+          "linking": [
+            "have → 弱形 /həv/（助動詞）",
+            "miners have → 語末子音 /z/ が母音 /ə/ に連結",
+            "the (1st, 2nd) → 弱形 /ðə/"
+          ],
+          "kana": "ザ マイナーズ ハヴ アンカバード レアー エメラルド ベインズ ディープ ビネス ザ ストーン レイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had uncovered",
+      "ipa": "/həd ʌnˈkʌvɚd/",
+      "examples": [
+        {
+          "en": "Before the creeper exploded, the team had uncovered all the secret rooms in the structure.",
+          "ja": "クリーパーが爆発する前に、チームは構造内のすべての秘密の部屋を発見していた。",
+          "ipa": "/bɪˈfɔr ðə ˈkripɚ ɪkˈsploʊdɪd ðə tim həd ʌnˈkʌvɚd ɔːl ðə ˈsiːkrət rumz ɪn ðə ˈstrʌktʃɚ/",
+          "linking": [
+            "had → 弱形 /həd/（助動詞）",
+            "team had → 語末子音 /m/ が母音 /ə/ に連結",
+            "the (1st, 2nd, 3rd) → 弱形 /ðə/"
+          ],
+          "kana": "ビフォア ザ クリーパー イクスプロウディド ザ ティーム ハド アンカバード オール ザ シークレット ルームズ イン ザ ストラクチャー"
+        },
+        {
+          "en": "They had uncovered ancient artifacts long before the cave collapse occurred.",
+          "ja": "洞窟の崩壊が起こるずっと前に、彼らは古代の工芸品を発見していた。",
+          "ipa": "/ðeɪ həd ʌnˈkʌvɚd ˈeɪnʃənt ˈɑrtəˌfækts lɔŋ bɪˈfɔr ðə ˈkeɪv kəˈlæps əˈkɝd/",
+          "linking": [
+            "had → 弱形 /həd/（助動詞）",
+            "uncovered ancient → 語末子音 /d/ が母音 /eɪ/ に連結",
+            "the (2nd) → 弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド アンカバード エイシャント アーティファクツ ロング ビフォア ザ ケイブ カラプス アカード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been uncovering",
+      "ipa": "/həz bɪn ʌnˈkʌvərɪŋ/",
+      "examples": [
+        {
+          "en": "The excavation crew has been uncovering treasures and artifacts all week long.",
+          "ja": "採掘チームは１週間ずっと宝物と工芸品を発見し続けている。",
+          "ipa": "/ðə ˌɛkskəˈveɪʃən kru həz bɪn ʌnˈkʌvərɪŋ ˈtrɛʒərz ənd ˈɑrtəˌfækts ɔːl wik lɔŋ/",
+          "linking": [
+            "has → 弱形 /həz/、been → 弱形 /bɪn/（助動詞）",
+            "treasures and → 語末子音 /z/ が母音 /æ/ に連結",
+            "The → 弱形 /ðə/"
+          ],
+          "kana": "ザ エクスカベーション クルー ハズ ビン アンカバーリング トレジャーズ アンド アーティファクツ オール ウィーク ロング"
+        },
+        {
+          "en": "Players have been uncovering hidden secrets in the dark caverns since yesterday.",
+          "ja": "プレイヤーたちは昨日からずっと暗い洞窟で隠された秘密を発見し続けている。",
+          "ipa": "/ˈpleɪɚz həv bɪn ʌnˈkʌvərɪŋ ˈhɪdən ˈsiːkrəts ɪn ðə ˈdɑrk ˈkævərnz sɪns ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "have → 弱形 /həv/、been → 弱形 /bɪn/（助動詞）",
+            "Players have → 語末子音 /z/ が母音 /ə/ に連結",
+            "the (dark) → 弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン アンカバーリング ヒデン シークレッツ イン ザ ダーク キャバーンズ シンス イェスタデイ"
+        }
+      ]
+    }
+  ]
+}
