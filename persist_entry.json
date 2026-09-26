@@ -114,5 +114,141 @@
       ],
       "kana": "ザ マイナーズ パーシスト イン ザ フェース アヴ コンスタント クリーパー アタックス"
     }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "persists",
+      "ipa": "/pərˈsɪsts/",
+      "examples": [
+        {
+          "en": "The rain persists in the forest biome, making it harder to gather resources.",
+          "ja": "森バイオームで雨が降り続けるため、リソース集めがさらに難しくなります。",
+          "ipa": "/ðə ˈreɪn pərˈsɪsts ɪn ðə ˈfɔrəst baɪˈoʊm | ˈmeɪkɪŋ ɪt ˈhɑrdər tu ˈɡæðər ˈrɛsɔrsəz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "rain の /n/ が persists に続く（子音+子音）",
+            "persists の /s/ が in に続く（子音+子音）",
+            "in は弱形 /ɪn/、the は弱形 /ðə/ [ɪn ðə]"
+          ],
+          "kana": "ザ レイン パーシスツ イン ザ フォレスト バイオーム、メイキング イット ハーダー トゥ ギャザー リソーシズ"
+        },
+        {
+          "en": "This creeper problem persists despite all our efforts to protect the base.",
+          "ja": "基地を保護するための努力にもかかわらず、このクリーパー問題は続いています。",
+          "ipa": "/ðɪs ˈkriːpər ˈprɑbləm pərˈsɪsts dɪsˈpaɪt ɔl ˈaʊər ˈɛfərts tu prəˈtɛkt ðə ˈbeɪs/",
+          "linking": [
+            "problem の /m/ が persists に続く（子音+子音）",
+            "persists の /s/ が despite に続く（子音+子音）",
+            "to は弱形 /tə/",
+            "protect の /t/ が the に続く。the は弱形 /ðə/ [prəˈtɛk̚ ðə] プロテック ザ"
+          ],
+          "kana": "ディス クリーパー プラブルム パーシスツ ディスパイト オール アワー エファーツ トゥ プロテック ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "persisted",
+      "ipa": "/pərˈsɪstəd/",
+      "examples": [
+        {
+          "en": "The storm persisted through the entire night, blocking our exploration plans.",
+          "ja": "嵐が一晩中続いたため、探索計画が妨げられました。",
+          "ipa": "/ðə ˈstɔrm pərˈsɪstəd θruː ðə ɪnˈtaɪr naɪt | ˈblɑkɪŋ ˈaʊər ɪkˈsplɔˈreɪʃən ˈplænz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "storm の /m/ が persisted に続く（子音+子音）",
+            "persisted の /d/ が through に続く（子音+子音）",
+            "through の /u/ が the に続く（母音+子音）。the は弱形 /ðə/ [θruː ðə]"
+          ],
+          "kana": "ザ ストーム パーシステッド スルー ザ イン タイア ナイト、ブロッキング アワー イクスプロレーション プランズ"
+        },
+        {
+          "en": "The glitch persisted until we updated the Minecraft version.",
+          "ja": "Minecraftバージョンをアップデートするまで、不具合は続いていました。",
+          "ipa": "/ðə ɡlɪtʃ pərˈsɪstəd ənˈtɪl wi ˈʌpˌdeɪtəd ðə ˈmaɪnˌkræft ˈvɝʒən/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "until は /ənˈtɪl/、we に続く",
+            "until の /l/ が we に続く（子音+母音で連結）[ənˈtɪl wi]",
+            "updated の /ɪd/ が the に続く。the は弱形 /ðə/。update の /t/ はフラップ化 [ˈʌpˌdeɪɾəd ðə]"
+          ],
+          "kana": "ザ グリッチ パーシステッド アンティル ウィー アップデイテッド ザ マインクラフト ヴァージョン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "persisted",
+      "ipa": "/pərˈsɪstəd/",
+      "examples": [
+        {
+          "en": "The challenges that persisted in the cave were overcome through teamwork.",
+          "ja": "洞窟に残っていた課題はチームワークで克服されました。",
+          "ipa": "/ðə ˈtʃælɪndʒɪz ðæt pərˈsɪstəd ɪn ðə ˈkeɪv wər ˈoʊvərˌkoʊm θruː ˈtimˌwɝk/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "that の /t/ が persisted に続く（子音+子音）",
+            "persisted の /d/ が in に続く（子音+子音）",
+            "in は弱形 /ɪn/、the は弱形 /ðə/ [ɪn ðə]",
+            "cave の /v/ が were に続く（子音+母音で連結）"
+          ],
+          "kana": "ザ チャレンジズ ザット パーシステッド イン ザ ケイブ ワー オーバーコーム スルー ティームワーク"
+        },
+        {
+          "en": "Problems that had persisted for months were finally resolved after the patch.",
+          "ja": "数ヶ月間続いていた問題はついにパッチ後に解決されました。",
+          "ipa": "/ˈprɑbləmz ðæt həd pərˈsɪstəd fər ˈmʌnθz wər ˈfaɪnəli rɪˈzɑlvd ˈæftər ðə ˈpætʃ/",
+          "linking": [
+            "that の /t/ が had に続く（子音+子音）",
+            "had は弱形 /əd/。had の /d/ が persisted に続く（子音+子音）",
+            "persisted の /d/ が for に続く。for は弱形 /fər/。/fər/ は [pərˈsɪstəd fər]",
+            "for は弱形 /fər/、months は /mʌnθz/"
+          ],
+          "kana": "プラブルムズ ザット ハド パーシステッド ファー マンスズ ワー ファイナリー リゾルブド アフター ザ パッチ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "persisting",
+      "ipa": "/pərˈsɪstɪŋ/",
+      "examples": [
+        {
+          "en": "We are persisting in our search for ancient debris deep in the nether.",
+          "ja": "私たちはネザーの深部で古代の遺骨の探索を続けています。",
+          "ipa": "/wi ɑr pərˈsɪstɪŋ ɪn ˈaʊər ˈsɝtʃ fər ˈeɪnʃənt dɪˈbriː dip ɪn ðə ˈnɛðər/",
+          "linking": [
+            "are は弱形 /ər/",
+            "persisting の /ŋ/ が in に続く（子音+子音）",
+            "in は弱形 /ɪn/、our は /ˈaʊər/。/ɪn ˈaʊər/",
+            "search の /tʃ/ が for に続く。for は弱形 /fər/。tʃ は無声音なので連結なし [ˈsɝtʃ fər]",
+            "for は弱形 /fər/、deep の /d/ に続く"
+          ],
+          "kana": "ウィー アー パーシスティング イン アワー サーチ ファー エイシェント デブリー ディープ イン ザ ネザー"
+        },
+        {
+          "en": "By persisting through this cave system, we will unlock incredible rewards.",
+          "ja": "この洞窟システムを通り抜けることで、素晴らしい報酬がロック解除されます。",
+          "ipa": "/baɪ pərˈsɪstɪŋ θruː ðɪs ˈkeɪv ˈsɪstəm | wi wɪl ˈʌnˌlɑk ɪnˈkrɛdəbəl rɪˈwɔrdz/",
+          "linking": [
+            "by は弱形 /baɪ/、persisting の /p/ に続く（子音+子音）",
+            "persisting の /ŋ/ が through に続く（子音+子音）",
+            "through の /u/ が this に続く（母音+子音）",
+            "this の /s/ が cave に続く（子音+子音）。cave の /v/ が system に続く（子音+子音）",
+            "will は弱形 /wɪl/"
+          ],
+          "kana": "バイ パーシスティング スルー ディス ケイブ システム、ウィー ウィル アンロック インクレディブル リワーズ"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
   ]
 }
