@@ -1,0 +1,190 @@
+{
+  "word": "shrink",
+  "rank": 0,
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ʃrɪŋk/",
+  "level": "B1",
+  "hi": "shrink(?:s|ing)?|shrunk",
+  "meanings": [
+    "【動詞】(物が) 小さくなる、縮む",
+    "【動詞】(衣類など)洗濯で縮む",
+    "【動詞】(数量が) 減る、縮小する",
+    "【動詞】(恐怖や不快感から) ひるむ、避ける（shrink from...）"
+  ],
+  "examples": [
+    {
+      "en": "If you take a block away, your base shrinks.",
+      "ja": "ブロックを取り外すと、ベースが小さくなる。",
+      "ipa": "/ɪf ju ˈteɪkə ˈblɑk əˈweɪ jɚ ˈbeɪs ʃrɪŋks/",
+      "linking": [
+        "「take a」語末子音 /k/ が母音 /ə/ に連結 [ˈteɪkə] テイカ",
+        "「a block」弱形 a /ə/ が b に連なり [ə ˈblɑk] ア ブロック",
+        "「base shrinks」/s ʃ/ で子音+子音、/s/ は未開放 [ˈbeɪs̚ ʃr...]"
+      ],
+      "kana": "イッフ ユー テイカ ブロック アウェイ ユア ベース シュリンクス"
+    },
+    {
+      "en": "Your health shrinks fast when you get hit by lava.",
+      "ja": "あなたのヘルスは、溶岩に当たると素早く減る。",
+      "ipa": "/jɚ ˈhɛlθ ʃrɪŋks ˈfæst wɛn ju ˈɡɛt̚ hɪt̚ baɪ ˈlɑvə/",
+      "linking": [
+        "「get hit」/t h/ - /t/ は未開放で /h/ に接続 [ɡɛt̚ hɪt̚] ゲッ ヒッ",
+        "「hit by」/t b/ - /t/ は未開放で /b/ に接続 [hɪt̚ b] ヒッ バイ",
+        "「by lava」二重母音 /aɪ/ と母音 /ə/ が /j/ で連なり [baɪ ˈlɑvə] バイ ラーバ"
+      ],
+      "kana": "ユア ヘルス シュリンクス ファースト ウェン ユー ゲッ ヒッ バイ ラーバ"
+    },
+    {
+      "en": "When you dig out a lot of ore, your durability shrinks.",
+      "ja": "大量の鉱石を掘ると、道具の耐久性が減る。",
+      "ipa": "/wɛn ju dɪɡ ˈaʊt̚ə ˈlɑɾəv ˈɔr jɚ dəˈrɑbɪləti ʃrɪŋks/",
+      "linking": [
+        "「out a」/t ə/ - /t/ は未開放で /ə/ に接続 [ˈaʊt̚ə] アウッア",
+        "「lot of」/t əv/ - /t/ が母音に挟まれフラップ化 [ˈlɑɾəv] ラーラヴ。of は弱形 /əv/",
+        "「when you」/n j/ - /n/ と /j/ が滑らかに連なり [wɛn ju] ウェン ユー"
+      ],
+      "kana": "ウェン ユー ディッグ アウッア ラーラヴ オア ユア ジューラビリティー シュリンクス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "shrink from",
+      "ja": "...することを避ける、...することを躊躇する",
+      "example": "Don't shrink from gathering ore deep underground.",
+      "example_ja": "深い地下で鉱石を採掘することを躊躇するな。",
+      "ipa": "/ˈdoʊnt̚ ʃrɪŋk̚ frəm ˈɡæðərɪŋ ˈɔr ˈdip ˌʌndɚˈɡraʊnd/",
+      "linking": [
+        "「shrink from」/k fr/ - /k/ は未開放で /fr/ に接続 [ʃrɪŋk̚ frəm] シュリンク フラム",
+        "「from」機能語で弱形 /frəm/ となり「フラム」",
+        "「deep underground」/p ʌ/ - /p/ は未開放で次の母音に向かう [ˈdip̚ ˌʌ...]"
+      ],
+      "kana": "ドウント シュリンク フラム ギャザリング オア ディープ アンダーグラウンド"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "shrinks",
+      "ipa": "/ʃrɪŋks/",
+      "examples": [
+        {
+          "en": "Your health bar shrinks fast when you touch lava.",
+          "ja": "溶岩に触れると、あなたのヘルスバーが素早く減ります。",
+          "ipa": "/jɚ ˈhɛlθ ˈbɑr ʃrɪŋks ˈfæst wɛn ju ˈtʌtʃ ˈlɑvə/",
+          "linking": [
+            "bar shrinks → 語末の /r/ が /ʃ/ に連結 [ˈbɑr ʃrɪŋks] バー シュリンクス",
+            "when you → /n j/ が滑らかに連なり [wɛn ju] ウェン ユー",
+            "touch lava → lava は弱形で /ˈlɑvə/ [ˈtʌtʃ ˈlɑvə]"
+          ],
+          "kana": "ユア ヘルス バー シュリンクス ファースト ウェン ユー タッチ ラーバ"
+        },
+        {
+          "en": "The supply shrinks when the team gathers fewer resources.",
+          "ja": "チームが集める資源が少なくなると、供給が減ります。",
+          "ipa": "/ðə səˈplaɪ ʃrɪŋks wɛn ðə ˈtim ˈɡæðɚz ˈfjuːɚ ˈrɛsɚsɪz/",
+          "linking": [
+            "The supply → the は弱形 /ðə/。supply の /s/ に先行 [ðə səˈplaɪ] ザ サプライ",
+            "supply shrinks → /aɪ ʃ/ が連結 [səˈplaɪ ʃrɪŋks] サプライ シュリンクス",
+            "the team → the は弱形 /ðə/。team の /t/ に先行 [ðə ˈtim] ザ ティーム"
+          ],
+          "kana": "ザ サプライ シュリンクス ウェン ザ ティーム ギャザーズ フューワー レソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "shrank",
+      "ipa": "/ʃræŋk/",
+      "examples": [
+        {
+          "en": "My inventory shrank after I used many blocks for the house.",
+          "ja": "ブロックを家に多く使った後、在庫が減りました。",
+          "ipa": "/maɪ ɪnˈvɛntəɹi ʃræŋk ˈæftɚ aɪ ˈjuːzd̚ ˈmɛni ˈblɑks fɔr ðə ˈhaʊs/",
+          "linking": [
+            "inventory shrank → /i ʃ/ が連結 [ɪnˈvɛntəɹi ʃræŋk] インベンタリー シュラング",
+            "used many → used の末尾 /d/ が many の /m/ に未開放で連接 [ˈjuːzd̚ ˈmɛni]",
+            "for the → for は弱形 /fɔr/、the も弱形 /ðə/ [fɔr ðə] フォー ザ"
+          ],
+          "kana": "マイ インベンタリー シュラング アフター アイ ユーズド メニー ブロックス フォア ザ ハウス"
+        },
+        {
+          "en": "The wood supply shrank during the mining expedition.",
+          "ja": "採掘遠征中に木材供給が減りました。",
+          "ipa": "/ðə ˈwʊd səˈplaɪ ʃræŋk ˈdɚrɪŋ ðə ˈmaɪnɪŋ ˌɛksˈpɪdɪʃən/",
+          "linking": [
+            "The wood → the は弱形 /ðə/。wood の /w/ に先行 [ðə ˈwʊd] ザ ウッド",
+            "wood supply → /d s/ で /d/ は未開放 [ˈwʊd̚ səˈplaɪ] ウッド サプライ",
+            "shrank during → /k ˈd/ で /k/ は未開放 [ʃræŋk̚ ˈdɚrɪŋ] シュラング ジューリング"
+          ],
+          "kana": "ザ ウッド サプライ シュラング ジューリング ザ マイニング エクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "shrunk",
+      "ipa": "/ʃrʌŋk/",
+      "examples": [
+        {
+          "en": "The wood resources have shrunk because we built a large castle.",
+          "ja": "大きな城を建築したため、木材資源が減ってしまいました。",
+          "ipa": "/ðə ˈwʊd ˈrɛsɚsɪz hæv ʃrʌŋk bɪˈkɑz wi ˈbɪlt ə ˈlɑrdʒ ˈkæsəl/",
+          "linking": [
+            "have shrunk → have は弱形 /hæv/。shrunk の /ʃ/ に先行 [hæv ʃrʌŋk] ハヴ シュラング",
+            "shrunk because → /k b/ で /k/ は未開放 [ʃrʌŋk̚ bɪˈkɑz] シュラング ビコーズ",
+            "large castle → /dʒ ˈk/ で子音同士 [ˈlɑrdʒ ˈkæsəl]"
+          ],
+          "kana": "ザ ウッド レソーシーズ ハヴ シュラング ビコーズ ウィ ビルト ア ラージ キャッスル"
+        },
+        {
+          "en": "My durability has shrunk from constant mining without rest.",
+          "ja": "絶え間ない採掘のため、私のツールの耐久性が落ちてしまいました。",
+          "ipa": "/maɪ ˌdɚəˈbɪləɾi hæz ʃrʌŋk frəm ˈkɑnstənt ˈmaɪnɪŋ wɪˈðaʊt̚ ˈrɛst/",
+          "linking": [
+            "has shrunk → has は弱形 /hæz/。shrunk の /ʃ/ に先行 [hæz ʃrʌŋk] ハズ シュラング",
+            "shrunk from → /k fr/ で /k/ は未開放で /fr/ に向かう [ʃrʌŋk̚ frəm] シュラング フラム",
+            "without rest → without の /t/ は未開放で /r/ に向かう [wɪˈðaʊt̚ ˈrɛst]"
+          ],
+          "kana": "マイ デューラビリティ ハズ シュラング フラム コンスタント マイニング ウィザウト レスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "shrinking",
+      "ipa": "/ˈʃrɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "Your hunger bar is shrinking as you travel through the desert.",
+          "ja": "砂漠を旅するにつれて、あなたのハンガーバーが減り続けています。",
+          "ipa": "/jɔr ˈhʌŋɡɚ ˈbɑr ɪz ˈʃrɪŋkɪŋ æz ju ˈtrævəl θɹu ðə ˈdɛzərt/",
+          "linking": [
+            "is shrinking → is は弱形 /ɪz/。shrinking の /ʃ/ に先行 [ɪz ˈʃrɪŋkɪŋ] イズ シュリンキング",
+            "through the → through は /θɹu/、the は弱形 /ðə/ [θɹu ðə] スルー ザ",
+            "the desert → the は弱形 /ðə/。desert の /d/ に先行 [ðə ˈdɛzərt] ザ デザート"
+          ],
+          "kana": "ユア ハンガー バー イズ シュリンキング アズ ユー トラベル スルー ザ デザート"
+        },
+        {
+          "en": "The supplies are shrinking because everyone is eating and crafting.",
+          "ja": "みんなが食べたり作ったりしているため、資源が減り続けています。",
+          "ipa": "/ðə səˈplaɪz ɑr ˈʃrɪŋkɪŋ bɪˈkɑz ˈɛvriˌwʌn ɪz ˈitɪŋ ənd ˈkræftɪŋ/",
+          "linking": [
+            "The supplies → the は弱形 /ðə/。supplies の /s/ に先行 [ðə səˈplaɪz] ザ サプライズ",
+            "are shrinking → are の /r/ が shrinking の /ʃ/ に連結 [ɑr ˈʃrɪŋkɪŋ] アー シュリンキング",
+            "and crafting → and は弱形 /ənd/ または /ən/ [ənd ˈkræftɪŋ] アン クラフティング"
+          ],
+          "kana": "ザ サプライズ アー シュリンキング ビコーズ エヴリワン イズ イーティング アン クラフティング"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
+}
