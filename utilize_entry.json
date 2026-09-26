@@ -78,7 +78,7 @@
           "ipa": "/ə ˈsmɑrt ˈpleɪər ˈjuːtɪlaɪzɪz ˈrɛdˌstoʊn tə kriˈeɪt ˈpaʊərfl ˈtræps/",
           "linking": [
             "player の語末 /r/ が utilizes の初頭 /j/ に連結 [ˈpleɪər ˈjuːtɪlaɪzɪz]",
-            "redstone の語末 /n/ が to の弱形 /tə/ に連結 [ˈrɛdˌstoʊn tə]",
+            "to は機能語で弱形 /tə/ に弱化",
             "create の語末 /t/ が powerful の初頭 /p/ の前で未開放 [kriˈeɪt̚ ˈpaʊərfl]"
           ],
           "kana": "ア スマート プレイヤー ユーティライズィズ レッドストーン タ クリエイト パワーフル トラップス"
@@ -88,12 +88,11 @@
           "ja": "このファームは自動的にアイテムを集めるために水の流れのメカニズムを活用する。",
           "ipa": "/ðɪs ˈfɑrm ˈjuːtɪlaɪzɪz ˈwɔtər ˈfloʊ miˈkænɪks tə kəˈlɛkt ˈaɪtəmz əˈtɑmətɪkli/",
           "linking": [
-            "farm の語末 /m/ が utilizes の初頭 /j/ に連結 [ˈfɑrm ˈjuːtɪlaɪzɪz]",
             "to は機能語で弱形 /tə/ に弱化",
-            "collect の語末 /t/ が items の初頭 /aɪ/ に未開放で接続 [kəˈlɛk̚t ˈaɪtəmz]",
+            "collect の語末 /t/ が items の初頭 /aɪ/ に続く（通常は開放またはフラップ化 [kəˈlɛkt̚ ˈaɪtəmz]）",
             "items の語末 /z/ が automatically の初頭 /ə/ に連結 [ˈaɪtəmz əˈtɑmətɪkli]"
           ],
-          "kana": "ディス ファーム ユーティライズィズ ウォーター フロー ミキャニクス タ カレクト アイテムズ アトマティカリー"
+          "kana": "ディス ファーム ユーティライズィズ ウォーター フロー ミキャニクス タ カレクト アイテムズ オタマティカリー"
         }
       ]
     },
@@ -110,10 +109,10 @@
           "linking": [
             "utilized の語末 /d/ が a の弱形 /ə/ に連結 [ˈjuːtɪlaɪzd ə]",
             "to は機能語で弱形 /tə/ に弱化",
-            "reach の語末 /tʃ/ が the の弱形 /ðə/ の前で未開放。the は弱形 /ðə/（「ザ」）",
+            "reach の語末 /tʃ/ から the の弱形 /ðə/ へ自然に続く。the は弱形 /ðə/（「ザ」）",
             "of は機能語で弱形 /əv/（「アヴ」）に弱化"
           ],
-          "kana": "アイ ユーティライズド ア グリッチ タ リーチ ザ タップ アヴ ザ マウンテン クウィックリー"
+          "kana": "アイ ユーティライズド ア グリッチ タ リーチ ザ タップ アヴ ザ マウンテン クウィクリー"
         },
         {
           "en": "We utilized all available resources to defeat the dragon.",
@@ -173,7 +172,7 @@
           "linking": [
             "a は機能語で弱形 /ə/（「ア」）に弱化",
             "and は機能語で弱形 /ənd/ または /ən/（「アン」）に弱化",
-            "building の語末 /ŋ/ が a の弱形 /ə/ に... 子音+子音なので連結なし"
+            "building の語末 /ŋ/ が a の弱形 /ə/ に自然に続く"
           ],
           "kana": "ビルディング ア ベイス バイ ユーティライジング ナチュラル テレイン フィーチャーズ セイブズ タイム アン エフォート"
         },
@@ -185,9 +184,105 @@
             "circuits の語末 /s/ が efficiently の初頭 /ɪ/ に連結 [ˈsɜrkɪts ɪˈfɪʃəntli]",
             "can は機能語で弱形 /kən/（「カン」）に弱化",
             "automate の語末 /t/ が complex の初頭 /k/ の前で未開放 [əˈtɑmeɪt̚]",
-            "mining の語末 /ŋ/ が operations の初頭 /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑpəˈreɪʃənz]"
+            "mining の語末 /ŋ/ が operations の初頭 /ɑ/ に自然に続く [ˈmaɪnɪŋ ˌɑpəˈreɪʃənz]"
           ],
           "kana": "バイ ユーティライジング レッドストーン サーキッツ イフィシェントリー ユー カン オートメイト コンプレックス マイニング オペレイションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has utilized",
+      "ipa": "/həz ˈjuːtɪlaɪzd/",
+      "examples": [
+        {
+          "en": "We have utilized every block in the quarry to build this magnificent structure.",
+          "ja": "私たちはこの素晴らしい構造を構築するために採石場のあらゆるブロックを活用してきた。",
+          "ipa": "/wi həv ˈjuːtɪlaɪzd ˈɛvri ˈblɑk ɪn ðə ˈkwɔri tə ˈbɪld ðɪs məɡˈnɪfɪsənt ˈstrʌktʃər/",
+          "linking": [
+            "have は弱形 /həv/（「ハヴ」）に弱化",
+            "utilized の語末 /d/ が every の初頭 /ɛ/ に連結 [ˈjuːtɪlaɪzd ˈɛvri]",
+            "in は機能語で弱形 /ɪn/（「イン」）に弱化",
+            "the は機能語で弱形 /ðə/（「ザ」）に弱化"
+          ],
+          "kana": "ウィー ハヴ ユーティライズド エブリー ブロック イン ザ クウォーリー タ ビルド ディス マグニフィセント ストラクチャー"
+        },
+        {
+          "en": "She has utilized the cave system to create an underground base.",
+          "ja": "彼女は洞窟システムを活用して地下ベースを作成した。",
+          "ipa": "/ʃi həz ˈjuːtɪlaɪzd ðə ˈkeɪv ˈsɪstəm tə kriˈeɪt ən ˌʌndərˈɡraʊnd ˈbeɪs/",
+          "linking": [
+            "has は弱形 /həz/（「ハズ」）に弱化",
+            "utilized の語末 /d/ が the の弱形 /ðə/ に連結 [ˈjuːtɪlaɪzd ðə]",
+            "the は機能語で弱形 /ðə/（「ザ」）に弱化",
+            "an は機能語で弱形 /ən/（「アン」）に弱化"
+          ],
+          "kana": "シー ハズ ユーティライズド ザ ケイブ システム タ クリエイト アン アンダーグラウンド ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had utilized",
+      "ipa": "/həd ˈjuːtɪlaɪzd/",
+      "examples": [
+        {
+          "en": "By the time we found diamonds, we had utilized tons of resources.",
+          "ja": "ダイヤモンドを見つけるまでに、私たちは大量のリソースを活用していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ˈdaɪməndz wi həd ˈjuːtɪlaɪzd ˈtɑnz əv ˈrɛsɔrsɪz/",
+          "linking": [
+            "the は機能語で弱形 /ðə/（「ザ」）に弱化",
+            "had は弱形 /həd/（「ハド」）に弱化",
+            "utilized の語末 /d/ が tons の初頭 /t/ に自然に続く（開放またはフラップ化） [ˈjuːtɪlaɪzd ˈtɑnz]",
+            "of は機能語で弱形 /əv/（「アヴ」）に弱化"
+          ],
+          "kana": "バイ ザ タイム ウィー ファウンド ダイモンズ ウィー ハド ユーティライズド タンズ アヴ レソースィズ"
+        },
+        {
+          "en": "The builders had utilized all available materials before the server reset.",
+          "ja": "ビルダーたちはサーバーがリセットされる前にすべての利用可能な材料を活用していた。",
+          "ipa": "/ðə ˈbɪldərz həd ˈjuːtɪlaɪzd ˈɔl əˈveɪləbl məˈtɪriəlz bɪˈfɔr ðə ˈsɜrvər rɪˈsɛt/",
+          "linking": [
+            "The は機能語で弱形 /ðə/（「ザ」）に弱化",
+            "had は弱形 /həd/（「ハド」）に弱化",
+            "utilized の語末 /d/ が all の初頭 /ɔ/ に連結 [ˈjuːtɪlaɪzd ˈɔl]",
+            "before の語末 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə]"
+          ],
+          "kana": "ザ ビルダーズ ハド ユーティライズド オール アヴェイラブル マティリアルズ ビフォー ザ サーヴァー リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been utilizing",
+      "ipa": "/həz bɪn ˈjuːtɪlaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "We have been utilizing this mining technique for weeks now.",
+          "ja": "私たちは数週間前からこの採掘技術を活用しています。",
+          "ipa": "/wi həv bɪn ˈjuːtɪlaɪzɪŋ ðɪs ˈmaɪnɪŋ tekˈnik fɔr ˈwiks ˈnaʊ/",
+          "linking": [
+            "have は弱形 /həv/（「ハヴ」）に弱化",
+            "been は弱形 /bɪn/（「ビン」）に弱化",
+            "mining の語末 /ŋ/ が technique の初頭 /t/ の前で自然に続く [ˈmaɪnɪŋ tekˈnik]",
+            "for は機能語で弱形 /fɔr/（「フォー」）に弱化"
+          ],
+          "kana": "ウィー ハヴ ビン ユーティライジング ディス マイニング テクニーク フォー ウィークス ナウ"
+        },
+        {
+          "en": "The team has been utilizing redstone more creatively since the update.",
+          "ja": "チームはアップデート以来、レッドストーンをより創造的に活用してきました。",
+          "ipa": "/ðə ˈtim həz bɪn ˈjuːtɪlaɪzɪŋ ˈrɛdˌstoʊn ˈmɔr kriˈeɪtɪvli sɪns ðə əpˈdeɪt/",
+          "linking": [
+            "The は機能語で弱形 /ðə/（「ザ」）に弱化",
+            "has は弱形 /həz/（「ハズ」）に弱化",
+            "been は弱形 /bɪn/（「ビン」）に弱化",
+            "since の語末 /s/ が the の弱形 /ðə/ に連結 [sɪns ðə]"
+          ],
+          "kana": "ザ ティーム ハズ ビン ユーティライジング レッドストーン モー クリエイティヴリー シンス ザ アップデイト"
         }
       ]
     }
