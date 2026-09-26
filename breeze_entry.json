@@ -211,6 +211,95 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has breezed",
+      "ipa": "/həz ˈbriːzd/",
+      "examples": [
+        {
+          "en": "I have breezed past each obstacle in the cave.",
+          "ja": "私は洞窟のそれぞれの障害物をスムーズに通り抜けた。",
+          "ipa": "/aɪ həv ˈbriːzd ˈpæst ˈiːtʃ ˈɑbstəkəl ɪn ðə ˈkeɪv/",
+          "linking": [
+            "have breezed: 語末 /v/ が子音 /b/ に続くため連結ではない",
+            "past each: 語末 /t/ が母音 /iː/ に連結 [pæsティːtʃ] パスティーチ",
+            "obstacle in: 語末 /l/ が母音 /ɪ/ に連結 [stəkəlɪn] ストゥカルイン"
+          ],
+          "kana": "アイ ハヴ ブリーズド パスティーチ アブスタクルイン ザ ケイヴ"
+        },
+        {
+          "en": "Players have breezed through ancient ruins and found treasures.",
+          "ja": "プレイヤーは古い遺跡をスムーズに通り抜けて宝物を見つけた。",
+          "ipa": "/ˈpleɪərz həv ˈbriːzd θruː ˈeɪʃənt ˈruːɪnz ənd ˈfaʊnd ˈtrɛʒərz/",
+          "linking": [
+            "through ancient: 語末 /θ/ が母音 /eɪ/ に連結 [θruːeɪʃənt] スルーエイシャント",
+            "ruins and: 語末 /z/ が母音 /ə/ に連結 [ˈruːɪnzənd] ルーインザンド"
+          ],
+          "kana": "プレイヤーズ ハヴ ブリーズド スルーエイシャント ルーインザンド ファウンド トレジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had breezed",
+      "ipa": "/həd ˈbriːzd/",
+      "examples": [
+        {
+          "en": "By noon, the team had breezed past all enemies easily.",
+          "ja": "正午までに、チームはすべての敵をスムーズに通り抜けていた。",
+          "ipa": "/baɪ ˈnun ðə ˈtim həd ˈbriːzd ˈpæst ɔl ˈɛnəmiz ˈiziːli/",
+          "linking": [
+            "had breezed: 語末 /d/ が子音 /b/ に続くため連結ではない",
+            "past all: 語末 /t/ が母音 /ɔ/ に連結 [pæstɔl] パストォル",
+            "all enemies: 語末 /l/ が母音 /ɛ/ に連結 [ɔlˈɛnəmiz] オーレネミーズ"
+          ],
+          "kana": "バイ ヌーン ザ ティーム ハド ブリーズド パストォル オーレネミーズ イージリー"
+        },
+        {
+          "en": "He had breezed through ancient ruins and found diamonds.",
+          "ja": "彼は古い遺跡をスムーズに通り抜けてダイヤモンドを見つけていた。",
+          "ipa": "/hi həd ˈbriːzd θruː ˈeɪʃənt ˈruːɪnz ənd ˈfaʊnd ˈdaɪəmɑndz/",
+          "linking": [
+            "had breezed: 語末 /d/ が子音 /b/ に続くため連結ではない",
+            "through ancient: 語末 /θ/ が母音 /eɪ/ に連結 [θruːeɪʃənt] スルーエイシャント",
+            "ruins and: 語末 /z/ が母音 /ə/ に連結 [ˈruːɪnzənd] ルーインザンド"
+          ],
+          "kana": "ヒー ハド ブリーズド スルーエイシャント ルーインザンド ファウンド ダイアモンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been breezing",
+      "ipa": "/həz bɪn ˈbriːzɪŋ/",
+      "examples": [
+        {
+          "en": "She has been breezing around each island all afternoon.",
+          "ja": "彼女は午後ずっと各島をスムーズに移動している。",
+          "ipa": "/ʃi həz bɪn ˈbriːzɪŋ əˈraʊnd ˈiːtʃ ˈaɪlənd ɔl ˌæftərˈnun/",
+          "linking": [
+            "been breezing: 語末 /n/ が子音 /b/ に続くため連結ではない",
+            "breezing around: 語末 /ŋ/ が母音 /ə/ に連結 [ˈbriːzɪŋəˈraʊnd] ブリージングアラウンド",
+            "around each: 語末 /d/ が母音 /iː/ に連結 [ˈraʊndˈiːtʃ] ラウンドイーチ"
+          ],
+          "kana": "シー ハズ ビン ブリージングアラウンド ラウンドイーチ アイランド オール アフターヌーン"
+        },
+        {
+          "en": "They have been breezing past obstacles and enjoying survival mode.",
+          "ja": "彼らは障害物をスムーズに通り抜けてサバイバルモードを楽しんでいる。",
+          "ipa": "/ðeɪ həv bɪn ˈbriːzɪŋ ˈpæst ˈɑbstəkəlz ənd ɪnˈdʒɔɪɪŋ sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "been breezing: 語末 /n/ が子音 /b/ に続くため連結ではない",
+            "obstacles and: 語末 /z/ が母音 /ə/ に連結 [stəkəlzənd] ストゥカルザンド",
+            "and enjoying: 語末 /d/ が母音 /ɪ/ に連結 [əndɪnˈdʒɔɪɪŋ] アンドエンジョイング"
+          ],
+          "kana": "ザイ ハヴ ビン ブリージング パスト ストゥカルザンド アンドエンジョイング サーバイバル モード"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is breezing",
