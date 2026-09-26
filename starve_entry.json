@@ -178,6 +178,102 @@
           "kana": "ストップ スターヴィング ザ アニモルズ イン ユア ファーム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has starved",
+      "ipa": "/həz stɑːrvd/",
+      "examples": [
+        {
+          "en": "I have starved for days in this cave without finding any food.",
+          "ja": "私はこの洞窟で食べ物を見つけられないまま数日間飢えています。",
+          "ipa": "/aɪ həv stɑːrvd fər ˈdeɪz ɪn ðɪs keɪv wɪˈðaʊt ˈfaɪndɪŋ ˈɛni ˈfuːd/",
+          "linking": [
+            "have は弱形 /həv/（「ハヴ」）で starved に続く [həv stɑːrvd] ハヴ スターヴド",
+            "for は弱形 /fər/（「ファー」）に弱化 [fər ˈdeɪz] ファー デイズ",
+            "without の語末子音 /t/ が finding に続き未開放 [wɪˈðaʊt̚ ˈfaɪndɪŋ] ウィザウッ ファインディング",
+            "any は弱形 /əni/ で food に先行 [ˈɛni ˈfuːd] エニー フード"
+          ],
+          "kana": "アイ ハヴ スターヴド ファー デイズ イン ディス ケイヴ ウィザウッ ファインディング エニー フード"
+        },
+        {
+          "en": "The farm animals have starved since we lost our food supplies in the lava.",
+          "ja": "溶岩の中で食料が失われたので、農場の動物たちは飢えています。",
+          "ipa": "/ðə ˈfɑrm ˈænɪməlz həv stɑːrvd sɪns wi ˈlɑst ˈaʊər ˈfuːd səˈplaɪz ɪn ðə ˈlɑvə/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で farm に先行 [ðə ˈfɑrm] ザ ファーム",
+            "have は弱形 /həv/（「ハヴ」）で starved に続く [həv stɑːrvd] ハヴ スターヴド",
+            "food の語末 /d/ が supplies の初頭 /s/ に続く（子音+子音）[ˈfuːd səˈplaɪz] フード サプライズ",
+            "in は弱形 /ɪn/（「イン」）で the に続く [ɪn ðə] イン ザ"
+          ],
+          "kana": "ザ ファーム アニマルズ ハヴ スターヴド シンス ウィー ロスト アワー フード サプライズ イン ザ ラバ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had starved",
+      "ipa": "/həd stɑːrvd/",
+      "examples": [
+        {
+          "en": "By the time we found the village, the villagers realized they had starved from neglect.",
+          "ja": "私たちが村を見つけた時には、村人たちはネグレクトから飢えていたことに気づきました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈvɪlɪdʒ ðə ˈvɪlɪdʒərz riːˈælaɪzd ðeɪ həd stɑːrvd frəm nɪˈɡlɛkt/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で time に先行 [ðə ˈtaɪm] ザ タイム",
+            "had は弱形 /həd/（「ハド」）で starved に続く [həd stɑːrvd] ハド スターヴド",
+            "from は弱形 /frəm/（「フラム」）で neglect に続く（子音+子音）[frəm nɪˈɡlɛkt] フラム ネグレクト",
+            "they は /ðeɪ/ で had に先行 [ðeɪ həd] ゼイ ハド"
+          ],
+          "kana": "バイ ザ タイム ウィー ファウンド ザ ヴィリジ ザ ヴィリジャーズ リアライズド ゼイ ハド スターヴド フラム ネグレクト"
+        },
+        {
+          "en": "After the accident in the Nether, the team had starved for hours without noticing the hunger bar.",
+          "ja": "ネザーでの事故の後、チームは飢え棒に気づかないまま数時間飢えていました。",
+          "ipa": "/ˈæftər ðə ˈæksɪdənt ɪn ðə ˈnɛðər ðə ˈtim həd stɑːrvd fɔr ˈaʊərz wɪˈðaʊt ˈnoʊtɪsɪŋ ðə ˈhʌŋɡər ˈbɑr/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で Nether に先行 [ðə ˈnɛðər] ザ ネザー",
+            "had は弱形 /həd/（「ハド」）で starved に続く [həd stɑːrvd] ハド スターヴド",
+            "for は弱形 /fɔr/（「フォー」）に弱化。hours は /ˈaʊərz/ [fɔr ˈaʊərz] フォー アワーズ",
+            "the は弱形 /ðə/（「ザ」）で hunger に先行 [ðə ˈhʌŋɡər] ザ ハンガー"
+          ],
+          "kana": "アフター ザ アクシデント イン ザ ネザー ザ ティーム ハド スターヴド フォー アワーズ ウィザウッ ノーティシング ザ ハンガー バー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been starving",
+      "ipa": "/həz bɪn ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "The wolf has been starving in the dark pit ever since we trapped it there.",
+          "ja": "その暗いピットでオオカミを閉じ込めたので、オオカミは飢えています。",
+          "ipa": "/ðə ˈwʊlf həz bɪn ˈstɑːrvɪŋ ɪn ðə ˈdɑrk pɪt ˈɛvər sɪns wi ˈtræpt ɪt ðɛr/",
+          "linking": [
+            "the は弱形 /ðə/（「ザ」）で wolf に先行 [ðə ˈwʊlf] ザ ウルフ",
+            "has は弱形 /həz/（「ハズ」）で been に続く。been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been の /n/ が starving に続く（子音+子音）[bɪn ˈstɑːrvɪŋ] ビン スターヴィング",
+            "the は弱形 /ðə/（「ザ」）で dark に先行 [ðə ˈdɑrk] ザ ダーク"
+          ],
+          "kana": "ザ ウルフ ハズ ビン スターヴィング イン ザ ダーク ピット エバー シンス ウィー トラップド イット ゼア"
+        },
+        {
+          "en": "We have been starving ever since we entered this deep cave without enough provisions.",
+          "ja": "十分な食料がないままこの深い洞窟に入ったので、私たちは飢えてきました。",
+          "ipa": "/wi həv bɪn ˈstɑːrvɪŋ ˈɛvər sɪns wi ɛnˈtərd ðɪs dip keɪv wɪˈðaʊt ɪˈnʌf prəˈvɪʒənz/",
+          "linking": [
+            "have は弱形 /həv/（「ハヴ」）で been に続く。been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been の /n/ が starving に続く（子音+子音）[bɪn ˈstɑːrvɪŋ] ビン スターヴィング",
+            "deep の /p/ が cave の /k/ に続く（子音+子音）[dip keɪv] ディープ ケイヴ",
+            "without の語末 /t/ が enough に続き未開放。enough は弱形 /ɪˈnʌf/ [wɪˈðaʊt̚ ɪˈnʌf] ウィザウッ イナフ"
+          ],
+          "kana": "ウィー ハヴ ビン スターヴィング エバー シンス ウィー エンタード ディス ディープ ケイヴ ウィザウッ イナフ プロヴィジョンズ"
+        }
+      ]
     }
   ]
 }
