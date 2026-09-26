@@ -1,0 +1,228 @@
+{
+  "word": "stray",
+  "pos": "動詞・名詞・形容詞",
+  "pos_all": "動詞・名詞・形容詞",
+  "ipa_us": "/streɪ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "[Ss]tray(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】迷ってさまよう、道を外れる",
+    "【動詞】意図せずに…に向かう、…に至る",
+    "【名詞】迷った動物、野良動物",
+    "【形容詞】迷った、本来の場所を離れた",
+    "【形容詞】散り散りの、ばらばらの"
+  ],
+  "examples": [
+    {
+      "en": "I strayed away from my base.",
+      "ipa": "/aɪ ˈstreɪdəˈweɪ frəm maɪ ˈbeɪs/",
+      "linking": [
+        "strayed away - 語末 /d/ が母音 /ə/ に連結 [ˈstreɪdəˈweɪ]",
+        "from - 機能語は弱形で発音 /frəm/",
+        "my base - 標準的な語の境界で発音"
+      ],
+      "kana": "アイ ストレイダウェイ フラム マイ ベイス"
+    },
+    {
+      "en": "A stray zombie appeared.",
+      "ipa": "/ə ˈstreɪ ˈzɑmbi əˈpɪrd/",
+      "linking": [
+        "a - 冠詞は弱形で /ə/（標準は /eɪ/）",
+        "appeared - 過去形で語末 /d/ 含む",
+        "zombie appeared - 自然な母音境界で発音"
+      ],
+      "kana": "ア ストレイ ゾンビ アピアード"
+    },
+    {
+      "en": "Stray animals avoid water.",
+      "ipa": "/ˈstreɪ ˈænɪməlz əˈvɔɪd ˈwɔɾɚ/",
+      "linking": [
+        "water - tが母音に挟まれフラップ化 [ˈwɔɾɚ]（set of の例のように）",
+        "animals - /z/ で終わり次の単語と接続",
+        "avoid - 語末 /d/ で次の単語につながる"
+      ],
+      "kana": "ストレイ アニマルズ アヴォイド ウォーラー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "stray from",
+      "ja": "…から外れる、逸脱する",
+      "example": "Don't stray from the main path.",
+      "example_ja": "メインパスから外れないで。",
+      "ipa": "/ˈdoʊnt ˈstreɪ frəm ðə ˈmeɪn ˈpæθ/",
+      "linking": [
+        "Don't stray - /t/ が次の /s/ に未開放で先行 [ˈdoʊn̚t̚ ˈstreɪ]",
+        "stray from - 特に連結なし（/eɪ/ 後に子音 /f/）",
+        "the main - /ə/ 弱形から /m/ へ"
+      ],
+      "kana": "ドウント ストレイ フラム ザ メイン パス"
+    },
+    {
+      "idiom": "a stray mob",
+      "ja": "予期しない敵、野良モブ",
+      "example": "A stray creeper exploded near my base.",
+      "example_ja": "基地の近くで野良クリーパーが爆発した。",
+      "ipa": "/ə ˈstreɪ ˈkripɚ ɪkˈsploʊdəd ˈnɪr maɪ ˈbeɪs/",
+      "linking": [
+        "a stray - 冠詞 /ə/ 弱形で無声化",
+        "exploded near - 語末 /d/ が子音 /n/ に未開放で連接 [ɪkˈsploʊd̚ˈnɪr]",
+        "near my - 子音 /r/ と /m/ で特に連結なし"
+      ],
+      "kana": "ア ストレイ クリーパー イクスプロウデッド ニアー マイ ベイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "strays",
+      "ipa": "/streɪz/",
+      "examples": [
+        {
+          "en": "The zombie strays from the dark forest.",
+          "ja": "ゾンビが暗い森からさまよい出ている。",
+          "ipa": "[ðə ˈzɑmbi ˈstreɪz frəm ðə ˈdɑrk ˈfɔɹɪst]",
+          "linking": [
+            "the zombie - 冠詞 /ðə/ は弱形で無声化 [ðə ˈzɑmbi]→「ザ ゾンビ」",
+            "strays from - 語末 /z/ が子音 /f/ に先行（連結しない）[ˈstreɪz frəm]→「ストレイズ フラム」",
+            "dark forest - 語末 /k/ が子音 /f/ に先行し未開放 [ˈdɑrk̚ ˈfɔɹɪst]→「ダーク フォリスト」"
+          ],
+          "kana": "ザ ゾンビ ストレイズ フラム ザ ダーク フォリスト"
+        },
+        {
+          "en": "My pet chicken strays too far from the coop.",
+          "ja": "ペットのニワトリがニワトリ舎からあまりにも遠くに迷い出ている。",
+          "ipa": "[maɪ ˈpɛt ˈtʃɪkən ˈstreɪz tu ˈfɑɹ frəm ðə ˈkup]",
+          "linking": [
+            "pet chicken - 語末 /t/ が子音 /tʃ/ に先行し未開放 [ˈpɛt̚ ˈtʃɪkən]→「ペット チキン」",
+            "chicken strays - 語末 /n/ が子音 /s/ に先行し未開放 [ˈtʃɪkən̚ ˈstreɪz]→「チキン ストレイズ」",
+            "far from - 語末 /ɹ/ が母音 /f/ へ連結（連結しない）[ˈfɑɹ frəm]→「ファー フラム」"
+          ],
+          "kana": "マイ ペット チキン ストレイズ トゥー ファー フラム ザ クープ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "strayed",
+      "ipa": "/streɪd/",
+      "examples": [
+        {
+          "en": "I strayed into a dangerous cave.",
+          "ja": "私は危険な洞窟に迷い込んだ。",
+          "ipa": "[aɪ ˈstreɪd ˈɪntu ə ˈdeɪndʒərəs ˈkeɪv]",
+          "linking": [
+            "strayed into - 語末 /d/ が母音 /ɪ/ に連結 [ˈstreɪd ˈɪntu]→「ストレイド イントゥ」",
+            "into a - 機能語 /ɪntu/ は弱形で /ɪntə/、冠詞 /ə/ 弱形 [ˈɪntə ə]→「イントゥ ア」",
+            "a dangerous - 冠詞 /ə/ は弱形 [ə ˈdeɪndʒərəs]→「ア デインジャラス」"
+          ],
+          "kana": "アイ ストレイド イントゥ ア デインジャラス ケイヴ"
+        },
+        {
+          "en": "My friend strayed away during the raid.",
+          "ja": "友達がレイド中に迷い出てしまった。",
+          "ipa": "[maɪ ˈfrɛnd ˈstreɪd əˈweɪ ˈdʊrɪŋ ðə ˈreɪd]",
+          "linking": [
+            "strayed away - 語末 /d/ が母音 /ə/ に連結 [ˈstreɪdə ˈweɪ]→「ストレイダ ウェイ」",
+            "during the - 機能語 /ðə/ は弱形で /ðə/、子音接続 [ˈdʊrɪŋ ðə]→「ジューリング ザ」",
+            "the raid - 冠詞 /ðə/ は弱形、語末 /d/ で未開放 [ðə ˈreɪd̚]→「ザ レイド」"
+          ],
+          "kana": "マイ フレンド ストレイダ ウェイ ジューリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "strayed",
+      "ipa": "/streɪd/",
+      "examples": [
+        {
+          "en": "The strayed sheep was found near the farm.",
+          "ja": "迷い出たヒツジが農場の近くで見つかった。",
+          "ipa": "[ðə ˈstreɪd ʃip wəz ˈfaʊnd nɪɹ ðə ˈfɑɹm]",
+          "linking": [
+            "the strayed - 冠詞 /ðə/ は弱形 [ðə ˈstreɪd]→「ザ ストレイド」",
+            "strayed sheep - 語末 /d/ が子音 /ʃ/ に先行し未開放 [ˈstreɪd̚ ʃip]→「ストレイド シープ」",
+            "found near - 語末 /d/ が子音 /n/ に先行し未開放、near の /r/ は半母音的 [ˈfaʊn̚d ˈnɪɹ]→「ファウンド ニアー」"
+          ],
+          "kana": "ザ ストレイド シープ ワズ ファウンド ニアー ザ ファーム"
+        },
+        {
+          "en": "We rescued the strayed villager from the desert.",
+          "ja": "砂漠から迷い出た村人を救った。",
+          "ipa": "[wi ˈrɛskjud ðə ˈstreɪd ˈvɪlɪdʒɚ frəm ðə ˈdɛzɚt]",
+          "linking": [
+            "rescued the - 語末 /d/ が子音に先行し未開放 [ˈrɛskjud̚ ðə]→「レスキュード ザ」",
+            "the strayed - 冠詞 /ðə/ は弱形 [ðə ˈstreɪd]→「ザ ストレイド」",
+            "from the - from は弱形 /frəm/、冠詞 /ðə/ 弱形 [frəm ðə]→「フラム ザ」"
+          ],
+          "kana": "ウィー レスキュード ザ ストレイド ヴィレッジャー フラム ザ デザート"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "straying",
+      "ipa": "/ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "Straying from base camp is risky in the Nether.",
+          "ja": "ネザーではベースキャンプから迷い出ることは危険だ。",
+          "ipa": "[ˈstreɪɪŋ frəm ˈbeɪs kæmp ɪz ˈrɪski ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "straying from - 語末鼻音 /ŋ/ が子音 /f/ に先行（連結しない）[ˈstreɪɪŋ frəm]→「ストレイイング フラム」",
+            "base camp - 語末 /s/ が子音 /k/ に先行し未開放 [ˈbeɪs k̚æmp]→「ベイス キャンプ」",
+            "is risky - 語末 /z/ が子音 /r/ に先行（連結しない）[ɪz ˈrɪski]→「イズ リスキー」"
+          ],
+          "kana": "ストレイイング フラム ベイス キャンプ イズ リスキー イン ザ ネザー"
+        },
+        {
+          "en": "I saw hostile mobs straying into our protected area.",
+          "ja": "敵対的なモブが保護されたエリアに迷い込むのが見えた。",
+          "ipa": "[aɪ ˈsɔ ˈhɑstəl ˈmɑbz ˈstreɪɪŋ ˈɪntu ˈaʊɹ prəˈtɛktəd ˈɛriə]",
+          "linking": [
+            "mobs straying - 語末 /z/ が子音 /s/ に先行し未開放 [ˈmɑbz̚ ˈstreɪɪŋ]→「モブズ ストレイイング」",
+            "into our - 機能語 /ɪntu/ は弱形で /ɪntə/、/aʊɹ/ は連結 [ˈɪntə ˈaʊɹ]→「イントゥ アワー」",
+            "our protected - 語末 /ɹ/ が母音 /p/ に先行（連結しない）[ˈaʊɹ prəˈtɛktəd]→「アワー プロテクティド」"
+          ],
+          "kana": "アイ ソー ホスタル モブズ ストレイイング イントゥ アワー プロテクティド エアリア"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "strays",
+      "ipa": "/streɪz/",
+      "examples": [
+        {
+          "en": "Stray animals tend to gather near food sources.",
+          "ja": "野良動物は食料源の近くに集まりやすい。",
+          "ipa": "[ˈstreɪ ˈænɪməlz ˈtɛnd tu ˈɡæðɚ nɪɹ ˈfud ˈsɔɹsɪz]",
+          "linking": [
+            "animals tend - 語末 /z/ が子音 /t/ に先行し未開放 [ˈænɪməlz̚ ˈtɛnd]→「アニマルズ テンド」",
+            "to gather - 機能語 /tu/ は弱形で /tə/ [tə ˈɡæðɚ]→「タ ギャザー」",
+            "near food - 語末 /r/ が母音 /f/ へ連結（連結しない）[nɪɹ ˈfud]→「ニアー フード」"
+          ],
+          "kana": "ストレイ アニマルズ テンド タ ギャザー ニアー フード ソーシズ"
+        },
+        {
+          "en": "The strays in our world need protection from mobs.",
+          "ja": "私たちの世界の野良動物たちはモブから保護が必要だ。",
+          "ipa": "[ðə ˈstreɪz ɪn ˈaʊɹ ˈwɜɹld niːd prəˈtɛkʃən frəm ˈmɑbz]",
+          "linking": [
+            "the strays - 冠詞 /ðə/ は弱形 [ðə ˈstreɪz]→「ザ ストレイズ」",
+            "strays in - 語末 /z/ が母音 /ɪ/ に連結 [ˈstreɪz ɪn]→「ストレイズ イン」",
+            "from mobs - from は弱形 /frəm/、語末 /m/ が子音に先行し未開放 [frəm ˈmɑbz̚]→「フラム モブズ」"
+          ],
+          "kana": "ザ ストレイズ イン アワー ワールド ニード プロテクション フラム モブズ"
+        }
+      ]
+    }
+  ]
+}
