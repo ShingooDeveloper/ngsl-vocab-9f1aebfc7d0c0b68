@@ -27,8 +27,7 @@
       "ja": "このポーションをこぼさないでください。そうしないと怒って再スポーンします。",
       "ipa": "/doʊnt ˈspɪl ðɪs ˈpoʊʃən ɔr aɪl riˈspɔn ˈæŋɡri/",
       "linking": [
-        "or の /r/ が I'll に連結 [ɔr aɪl] オア アイル",
-        "respawn の /n/ が angry に続く（子音+子音）"
+        "or の /r/ が I'll に連結 [ɔr aɪl] オア アイル"
       ],
       "kana": "ドウント スピル ディス ポーション オア アイル リスポーン アングリー"
     },
@@ -37,7 +36,6 @@
       "ja": "走ってジャンプすると、バケットが水をこぼします。",
       "ipa": "/ðə ˈbʌkɪt ˈspɪlz wɛn ju ˈrʌn ənd dʒʌmp/",
       "linking": [
-        "when の /n/ が you に未開放で続く [wɛn̚ ju] ウェン ユー",
         "and → 弱形 /ənd/"
       ],
       "kana": "ザ バケット スピルズ ウェン ユー ラン アン ジャンプ"
@@ -55,6 +53,211 @@
         "beans の /z/ が about に連結 [ˈbinz əˈbaʊt] ビンズ ァバウト"
       ],
       "kana": "ドウント スピル ザ ビンズ ァバウト アワー シークリット ベース"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "spills",
+      "ipa": "/spɪlz/",
+      "examples": [
+        {
+          "en": "The water bucket spills all over the stone floor.",
+          "ipa": "[ðə ˈwɔːtər ˈbʌkɪt ˈspɪlz ˈɔːl ˈoʊvər ðə ˈstoʊn ˈflɔːr]",
+          "linking": "the は弱形 /ðə/ ザ（最初と3番目）",
+          "kana": "ザ ウォーラ バケット スピルズ オール オーバー ザ ストーン フロア",
+          "ja": "水のバケットが石の床にこぼれる。"
+        },
+        {
+          "en": "Lava spills from the volcano whenever it rains.",
+          "ipa": "[ˈlɑːvə ˈspɪlz frəm ðə vɑlˈkeɪnoʊ ˈwɛnɛvər ɪt ˈreɪnz]",
+          "linking": "from は弱形 /frəm/ フラム。the は弱形 /ðə/ ザ。whenever の /r/ が it に連結 [ˈwɛnɛvər ɪt] ウェンエバー イット",
+          "kana": "ラーバ スピルズ フラム ザ バルケイノー ウェンエバー イット レインズ",
+          "ja": "雨が降るたびに火山から溶岩がこぼれる。"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "spilled",
+      "ipa": "/spɪld/",
+      "examples": [
+        {
+          "en": "I spilled water on the redstone wiring by accident.",
+          "ipa": "[aɪ ˈspɪld ˈwɔːtər ɑn ðə ˈrɛdˌstoʊn ˈwaɪrɪŋ baɪ ˈæksɪdənt]",
+          "linking": "water の /r/ が on に連結 [ˈwɔːtər ɑn] ウォーラ アン。the は弱形 /ðə/ ザ",
+          "kana": "アイ スピルド ウォーラ アン ザ レッドストーン ワイアリング バイ アクシデント",
+          "ja": "偶然、レッドストーン配線の上に水をこぼしてしまった。"
+        },
+        {
+          "en": "The bucket spilled its contents everywhere across the floor.",
+          "ipa": "[ðə ˈbʌkɪt ˈspɪld ɪts ˈkɑntɛnts ˈɛvrɪwɛr əˈkrɔːs ðə ˈflɔːr]",
+          "linking": "the は弱形 /ðə/ ザ（最初と最後）。spilled の /d/ が its に連結 [ˈspɪld ɪts] スピルド イツ",
+          "kana": "ザ バケット スピルド イツ コンテンツ エブリウェア アクロス ザ フロア",
+          "ja": "バケットが中身を床全体にこぼしてしまった。"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "spilled",
+      "ipa": "/spɪld/",
+      "examples": [
+        {
+          "en": "The spilled milk has ruined our entire wheat farm.",
+          "ipa": "[ðə ˈspɪld mɪlk həz ˈruːɪnd ɑɚ ənˈtaɪər ˈwiːt ˈfɑːrm]",
+          "linking": "the は弱形 /ðə/ ザ。has は弱形 /həz/。our の /r/ が entire に連結 [ɑɚ ənˈtaɪər]",
+          "kana": "ザ スピルド ミルク ハズ ルーインド アワー エンタイアー ウィート ファーム",
+          "ja": "こぼれたミルクが私たちの小麦農場全体を台無しにしてしまった。"
+        },
+        {
+          "en": "Once the water is spilled, it flows downward like a waterfall.",
+          "ipa": "[wʌns ðə ˈwɔːtər ɪz ˈspɪld ɪt ˈfloʊz ˈdaʊnwərd ˈlaɪk ə ˈwɔːtərˌfɔːl]",
+          "linking": "the は弱形 /ðə/ ザ。water の /r/ が is に連結 [ˈwɔːtər ɪz] ウォーラ イズ。like の /k/ が a に連結 [ˈlaɪk ə] ライク ア。a は弱形 /ə/",
+          "kana": "ワンス ザ ウォーラ イズ スピルド イット フローズ ダウンワード ライク ア ウォーターフォール",
+          "ja": "一度水がこぼれたら、それは滝のように下へ流れ落ちる。"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "spilling",
+      "ipa": "/ˈspɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Watch out! The lava is spilling down the mountainside!",
+          "ipa": "[wɑːtʃ aʊt ðə ˈlɑːvə ɪz ˈspɪlɪŋ ˈdaʊn ðə ˈmaʊntənˌsaɪd]",
+          "linking": "the は弱形 /ðə/ ザ（最初と3番目）",
+          "kana": "ウォッチ アウト ザ ラーバ イズ スピリング ダウン ザ マウンテンサイド",
+          "ja": "注意して！溶岩が山の斜面を流れ落ちています！"
+        },
+        {
+          "en": "The water is spilling everywhere from the broken container.",
+          "ipa": "[ðə ˈwɔːtər ɪz ˈspɪlɪŋ ˈɛvrɪwɛr frəm ðə ˈbroʊkən kənˈteɪnər]",
+          "linking": "the は弱形 /ðə/ ザ（最初と2番目）。water の /r/ が is に連結 [ˈwɔːtər ɪz] ウォーラ イズ。from は弱形 /frəm/ フラム",
+          "kana": "ザ ウォーラ イズ スピリング エブリウェア フラム ザ ブロークン コンテイナー",
+          "ja": "壊れた容器から水があちこちに流れ出ている。"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "spills",
+      "ipa": "/spɪlz/",
+      "examples": [
+        {
+          "en": "Multiple water spills have flooded the building area.",
+          "ipa": "[ˈmʌltɪpəl ˈwɔːtər ˈspɪlz hæv ˈflaʊdɪd ðə ˈbɪldɪŋ ˈɛriə]",
+          "linking": "have は弱形 /həv/。the は弱形 /ðə/ ザ",
+          "kana": "マルティパル ウォーラ スピルズ ハヴ フラウディド ザ ビルディング エリア",
+          "ja": "複数の水のこぼれが建築エリアを浸水させている。"
+        },
+        {
+          "en": "The lava spills in this area make mining very dangerous.",
+          "ipa": "[ðə ˈlɑːvə ˈspɪlz ɪn ðɪs ˈɛriə ˈmeɪk ˈmaɪnɪŋ ˈvɛri ˈdeɪndʒərəs]",
+          "linking": "the は弱形 /ðə/ ザ（最初と3番目）",
+          "kana": "ザ ラーバ スピルズ イン ディス エリア メイク マイニング ベリー デンジャラス",
+          "ja": "この地域の溶岩のこぼれは採掘を非常に危険にしている。"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has spilled",
+      "ipa": "/həz ˈspɪld/",
+      "examples": [
+        {
+          "en": "I have spilled water in the main base.",
+          "ipa": "[aɪ həv ˈspɪld ˈwɔːtər ɪn ðə ˈmeɪn ˈbeɪs]",
+          "linking": [
+            "have → 助動詞弱形 /həv/ ハヴ",
+            "water の /r/ が in に連結 [ˈwɔːtər ɪn] ウォーラ イン",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ スピルド ウォーラ イン ザ メイン ベース",
+          "ja": "私は主要な基地に水をこぼしてしまった。"
+        },
+        {
+          "en": "The bucket has spilled everywhere on the floor.",
+          "ipa": "[ðə ˈbʌkɪt həz ˈspɪld ˈɛvrɪwɛr ɑn ðə ˈflɔːr]",
+          "linking": [
+            "the は弱形 /ðə/ ザ（最初と最後）",
+            "has → 助動詞弱形 /həz/ ハズ",
+            "on は弱形 /ɑn/ オン"
+          ],
+          "kana": "ザ バケット ハズ スピルド エブリウェア オン ザ フロア",
+          "ja": "バケットは床全体にこぼれてしまった。"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had spilled",
+      "ipa": "/həd ˈspɪld/",
+      "examples": [
+        {
+          "en": "Before the fire started, the water had spilled across the floor.",
+          "ipa": "[bɪˈfɔr ðə ˈfaɪər ˈstɑːrtɪd ðə ˈwɔːtər həd ˈspɪld əˈkrɑːs ðə ˈflɔːr]",
+          "linking": [
+            "the は弱形 /ðə/ ザ（複数回出現）",
+            "had → 助動詞弱形 /həd/ ハド",
+            "water の /r/ が had に連結 [ˈwɔːtər həd] ウォーラ ハド",
+            "across の /s/ が the に連結 [əˈkrɑːs ðə] アクロス ザ"
+          ],
+          "kana": "ビフォア ザ ファイアー スターティド ザ ウォーラ ハド スピルド アクロス ザ フロア",
+          "ja": "火災が始まる前に、水は床全体に流れ出していた。"
+        },
+        {
+          "en": "The bucket had spilled its contents before we could stop it.",
+          "ipa": "[ðə ˈbʌkɪt həd ˈspɪld ɪts ˈkɑntɛnts bɪˈfɔr wi kʊd ˈstɑp ɪt]",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had → 助動詞弱形 /həd/ ハド",
+            "spilled の /d/ が its に連結 [ˈspɪld ɪts] スピルド イツ",
+            "could は弱形 /kʊd/ クッド"
+          ],
+          "kana": "ザ バケット ハド スピルド イツ コンテンツ ビフォア ウィー クッド ストップ イット",
+          "ja": "バケットは私たちが止める前に中身をこぼしていた。"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been spilling",
+      "ipa": "/həz bɪn ˈspɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The lava has been spilling down the mountainside all day.",
+          "ipa": "[ðə ˈlɑːvə həz bɪn ˈspɪlɪŋ ˈdaʊn ðə ˈmaʊntənˌsaɪd ɔːl ˈdeɪ]",
+          "linking": [
+            "the は弱形 /ðə/ ザ（最初と3番目）",
+            "has → 助動詞弱形 /həz/ ハズ",
+            "been → 助動詞弱形 /bɪn/ ビン"
+          ],
+          "kana": "ザ ラーバ ハズ ビン スピリング ダウン ザ マウンテンサイド オール デイ",
+          "ja": "溶岩は一日中山腹を流れ落ちている。"
+        },
+        {
+          "en": "Water has been spilling from the broken pipe constantly.",
+          "ipa": "[ˈwɔːtər həz bɪn ˈspɪlɪŋ frəm ðə ˈbroʊkən ˈpaɪp ˈkɑnstəntli]",
+          "linking": [
+            "has → 助動詞弱形 /həz/ ハズ",
+            "been → 助動詞弱形 /bɪn/ ビン",
+            "from は弱形 /frəm/ フラム",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウォーター ハズ ビン スピリング フラム ザ ブロークン パイプ コンスタントリー",
+          "ja": "壊れたパイプから水が絶え間なく流れ出ている。"
+        }
+      ]
     }
   ]
 }

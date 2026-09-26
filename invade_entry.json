@@ -158,8 +158,7 @@
           "ipa": "[ˈbeɪsɪz ðæt hæv bɪn ɪnˈveɪdɪd ˈɔfən ɡɛt ˈribɪlt]",
           "linking": [
             "that の語末 /t/ は未開放で詰まる [ðæt̚]",
-            "been は弱形 /bɪn/",
-            "often は弱形 /ˈɔfən/"
+            "been は弱形 /bɪn/"
           ],
           "kana": "ベイシーズ ザット ハーヴ ビン インベイディド オフン ゲット リビルト"
         }
@@ -190,6 +189,95 @@
             "all の語末 /l/ が our の初母音 /aʊ/ に連結 [ˈɔːl ˈaʊər] オール アワー"
           ],
           "kana": "ザ モーブズ インベイディング アワー ファーム ディストロイド オール アワー クラップス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has invaded",
+      "ipa": "/hæz ɪnˈveɪdɪd/",
+      "examples": [
+        {
+          "en": "Hostile mobs have invaded the foundation of our base.",
+          "ja": "敵対的なモブが私たちの基地の基礎に侵入しました。",
+          "ipa": "[ˈhɑstəl ˈmɑbz əv ɪnˈveɪdɪd ðə ˌfaʊnˈdeɪʃən əv ˈaʊr ˈbeɪs]",
+          "linking": [
+            "mobs の末子音 /z/ が have (弱形 /əv/) の初母音 /ə/ に連結 [ˈmɑbz əv] モーブズ アヴ",
+            "invaded の末子音 /d/ が the の初子音 /ð/ に続く（子音+子音、未開放 [ɪnˈveɪd̚ ðə]）",
+            "of の末子音 /v/ が our の初母音 /aʊ/ に連結 [əv ˈaʊər] アヴ アワー"
+          ],
+          "kana": "ハースタル モーブズ アヴ インベイディド ザ ファウンデイション アヴ アワー ベイス"
+        },
+        {
+          "en": "Creepers have invaded the mining chamber.",
+          "ja": "クリーパーがマイニングチェンバーに侵入しました。",
+          "ipa": "[ˈkɹipərz əv ɪnˈveɪdɪd ðə ˈmaɪnɪŋ ˈtʃeɪmbər]",
+          "linking": [
+            "Creepers の末子音 /z/ が have (弱形 /əv/) の初母音 /ə/ に連結 [ˈkɹipərz əv] クリーパーズ アヴ",
+            "invaded の末子音 /d/ が the の初子音 /ð/ に続く（子音+子音、未開放 [ɪnˈveɪd̚ ðə]）"
+          ],
+          "kana": "クリーパーズ アヴ インベイディド ザ マイニング チェイムバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had invaded",
+      "ipa": "/hæd ɪnˈveɪdɪd/",
+      "examples": [
+        {
+          "en": "The mobs had invaded the base before we could defend it.",
+          "ja": "モブたちは私たちが防御できる前に基地に侵入していました。",
+          "ipa": "[ðə ˈmɑbz əd ɪnˈveɪdɪd ðə ˈbeɪs bɪˈfɔr wi kʊd dɪˈfɛnd ɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "mobs の末子音 /z/ が had (弱形 /əd/) の初母音 /ə/ に連結 [ˈmɑbz əd] モーブズ アド",
+            "invaded の末子音 /d/ が the の初子音 /ð/ に続く（子音+子音、未開放 [ɪnˈveɪd̚ ðə]）"
+          ],
+          "kana": "ザ モーブズ アド インベイディド ザ ベイス ビフォア ウィ クッド ディフェンド イット"
+        },
+        {
+          "en": "By the time we arrived, the dragons had invaded our settlement.",
+          "ja": "私たちが到着するまでに、ドラゴンは私たちの集落に侵入していました。",
+          "ipa": "[baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈdræɡənz əd ɪnˈveɪdɪd ˈaʊər ˈsɛtəlmənt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "dragons の末子音 /z/ が had (弱形 /əd/) の初母音 /ə/ に連結 [ˈdræɡənz əd] ドラゴンズ アド",
+            "invaded の末子音 /d/ が our の初母音 /aʊ/ に連結 [ɪnˈveɪdɪd ˈaʊər] インベイディド アワー"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド ザ ドラゴンズ アド インベイディド アワー セトルメント"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been invading",
+      "ipa": "/hæz bɪn ɪnˈveɪdɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither has been invading our base all night.",
+          "ja": "ウィザーは一晩中私たちの基地に侵攻し続けています。",
+          "ipa": "[ðə ˈwɪðər əz bɪn ɪnˈveɪdɪŋ ˈaʊr ˈbeɪs ˈɔl ˈnaɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "Wither の末子音 /r/ が has (弱形 /əz/) の初母音 /ə/ に連結 [ˈwɪðər əz] ウィザー アズ",
+            "been (弱形 /bɪn/) が invading の初子音に続く"
+          ],
+          "kana": "ザ ウィザー アズ ビン インベイディング アワー ベイス オール ナイト"
+        },
+        {
+          "en": "Enemy mobs have been invading the village throughout this season.",
+          "ja": "敵対的なモブはこのシーズンを通じて村に侵攻し続けています。",
+          "ipa": "[ˈɛnəmi ˈmɑbz əv bɪn ɪnˈveɪdɪŋ ðə ˈvɪlɪdʒ ˈθruːaʊt ðɪs ˈsizən]",
+          "linking": [
+            "mobs の末子音 /z/ が have (弱形 /əv/) の初母音 /ə/ に連結 [ˈmɑbz əv] モーブズ アヴ",
+            "been (弱形 /bɪn/) が invading の初子音に続く",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "エネミー モーブズ アヴ ビン インベイディング ザ ビリッジ スループット ディス シーズン"
         }
       ]
     }
