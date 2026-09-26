@@ -122,5 +122,39 @@
       ],
       "kana": "ディスパイト ザ チャレンジズ、ザ ティーム メインテインド ア ポジティヴ アウトルック スルーアウト ザ クエスト"
     }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "outlooks",
+      "ipa": "/ˈaʊtˌlʊks/",
+      "examples": [
+        {
+          "en": "The outlooks from hilltops show the landscape's beauty in each biome.",
+          "ja": "丘の頂上からの眺めは、各バイオームの風景の美しさを示しています。",
+          "ipa": "/ðə ˈaʊtˌlʊks frəm ˈhɪlˌtɑps ˈʃoʊ ðə ˈlændˌskeɪpz ˈbjuːti ɪn itʃ ˈbaɪˌoʊm/",
+          "linking": [
+            "the outlooks: the は弱形 /ðə/ で outlooks の /ɑ/ に連結 [ðə ˈaʊtˌlʊks] ザ アウトルックス",
+            "outlooks from: 語末子音群 /ks/ が from の /f/ に続く（子音+子音）[ˈaʊtˌlʊks frəm] アウトルックス フラム。from は弱形 /frəm/",
+            "beauty in: 語末音 /i/ が in の /ɪ/ に続く（母音+母音）[ˈbjuːti ɪn] ビューティー イン",
+            "in each: /n/ が each の /i/ に未開放で続く [ɪn itʃ] イン イーチ"
+          ],
+          "kana": "ザ アウトルックス フラム ヒルトップス ショウ ザ ランドスケープス ビューティー イン イーチ バイオーム"
+        },
+        {
+          "en": "The team members discussed their outlooks on how to build the perfect base.",
+          "ja": "チームメンバーは、完璧な基地を建築する方法に関する彼ら自身の見通しについて議論しました。",
+          "ipa": "/ðə tim ˈmɛmbərz dɪˈskʌst ðɛr ˈaʊtˌlʊks ɑn haʊ tu bɪld ðə ˈpɝfɪkt ˈbeɪs/",
+          "linking": [
+            "discussed their: 語末子音 /t/ が their の /ð/ に未開放で続く [dɪˈskʌst̚ ðɛr] ディスカスト ゼア",
+            "their outlooks: 語末子音 /r/ が outlooks の /ɑ/ に連結 [ðɛr ˈaʊtˌlʊks] ゼア アウトルックス",
+            "outlooks on: 語末子音群 /ks/ が on の /ɑ/ に連結 [ˈaʊtˌlʊks ɑn] アウトルックス オン",
+            "to build: to は弱形 /tu/ で build の /b/ に未開放で続く [tu bɪld] トゥ ビルド"
+          ],
+          "kana": "ザ ティーム メンバーズ ディスカスト ゼア アウトルックス オン ハウ トゥ ビルド ザ パーフェクト ベース"
+        }
+      ]
+    }
   ]
 }
