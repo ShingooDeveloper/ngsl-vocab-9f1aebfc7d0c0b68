@@ -262,6 +262,91 @@
           "kana": "ザ アドミンズ ハヴ ビン オベイング ストリクト プロートコール スタンダーズ スルーアウト ディス シーズン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will obey",
+      "ipa": "/wɪl əˈbeɪ/",
+      "examples": [
+        {
+          "en": "I'll obey the mining regulations when I join the new server.",
+          "ja": "新しいサーバーに参加するときに、採掘規則に従うつもりです。",
+          "ipa": "/aɪl əˈbeɪ ðə ˈmaɪnɪŋ ˌrɛɡjəˈleɪʃənz wɛn aɪ dʒɔɪn ðə ˈnu ˈsɚvər/",
+          "linking": [
+            "I'll obey → I'll の語末子音 /l/ が obey の初頭母音 /ə/ に連結 [aɪl əˈbeɪ] アイル オベイ",
+            "the mining → the は機能語で弱形 /ðə/、mining に続く [ðə ˈmaɪnɪŋ] ザ マイニング"
+          ],
+          "kana": "アイル オベイ ザ マイニング レギュレーションズ ウェン アイ ジョイン ザ ニュー サーバー"
+        },
+        {
+          "en": "Every player will obey the server admins without question.",
+          "ja": "すべてのプレイヤーはサーバー管理者に疑問なく従うでしょう。",
+          "ipa": "/ˈɛvɚi ˈpleɪər wɪl əˈbeɪ ðə ˈsɚvər ˈædmɪnz wɪðˈaʊt ˈkwɛʃən/",
+          "linking": [
+            "will obey → will の語末子音 /l/ が obey の初頭母音 /ə/ に連結 [wɪl əˈbeɪ] ウィル オベイ",
+            "admins without → admins の語末 /z/ が without の初頭子音 /w/ に先行（両方子音で連接）[ˈædmɪnz wɪðˈaʊt] アドミンズ ウィザウト"
+          ],
+          "kana": "エブリ プレイヤー ウィル オベイ ザ サーバー アドミンズ ウィザウト クエッション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be obeying",
+      "ipa": "/wɪl bi əˈbeɪɪŋ/",
+      "examples": [
+        {
+          "en": "You'll be obeying the speed limits carefully in the racing zone.",
+          "ja": "レーシングゾーンで、あなたは速度制限に慎重に従い続けるでしょう。",
+          "ipa": "/juːl bi əˈbeɪɪŋ ðə ˈspid ˈlɪmɪts ˈkeɚfəli ɪn ðə ˈreɪsɪŋ zoʊn/",
+          "linking": [
+            "You'll be obeying → You'll の語末子音 /l/ が be の初頭子音 /b/ に先行、be の弱形 /bɪ/。be obeying は /bi əˈbeɪɪŋ/ [juːl bi əˈbeɪɪŋ] ユール ビー オベイング",
+            "in the → in の弱形に the の弱形 /ðə/ が続く [ɪn ðə] イン ザ"
+          ],
+          "kana": "ユール ビー オベイング ザ スピード リミッツ ケアフリー イン ザ レーシング ゾーン"
+        },
+        {
+          "en": "They'll be obeying the new patrol rules all through the night.",
+          "ja": "彼らは夜中ずっと新しいパトロール規則に従い続けるでしょう。",
+          "ipa": "/ðɛɹl bi əˈbeɪɪŋ ðə ˈnu pəˈtɹoʊl ˈrulz ɔl θɹu ðə ˈnaɪt/",
+          "linking": [
+            "They'll be → They'll の語末子音 /l/ が be の初頭子音 /b/ に先行 [ðɛɹl bi] ザイル ビー",
+            "patrol rules → patrol の語末 /l/ が rules の初頭子音 /r/ に先行（両方子音で連接）[pəˈtɹoʊl ˈrulz] パトロール ルーズ"
+          ],
+          "kana": "ザイル ビー オベイング ザ ニュー パトロール ルーズ オール スルー ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have obeyed",
+      "ipa": "/wɪl həv əˈbeɪd/",
+      "examples": [
+        {
+          "en": "By the end of the month, we'll have obeyed all safety protocols perfectly.",
+          "ja": "月末までに、私たちはすべての安全プロトコルに完全に従ったことになるでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ | wɪl həv əˈbeɪd ɔl ˈseɪfti ˈproʊtəˌkɔlz ˈpɚfɪktli/",
+          "linking": [
+            "we'll have → we'll の語末子音 /l/ が have の初頭子音 /h/ に先行、have の弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "have obeyed → have の語末子音 /v/ が obeyed の初頭母音 /ə/ に連結 [həv əˈbeɪd] ハヴ オベイド"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス、ウィル ハヴ オベイド オール セーフティ プロートコルズ パーフェクトリー"
+        },
+        {
+          "en": "The commanders will have obeyed the headquarters' orders before dawn arrives.",
+          "ja": "司令官たちは夜明けが来る前に本部の命令に従ったことになるでしょう。",
+          "ipa": "/ðə kəˈmændɚz wɪl həv əˈbeɪd ðə ˈhɛdˌkwɔɹtɚz ˈɔɹdɚz bɪˈfɔr ˈdɔn əˈɹaɪvz/",
+          "linking": [
+            "will have → will の語末子音 /l/ が have の初頭子音 /h/ に先行、have の弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "have obeyed → have の語末子音 /v/ が obeyed の初頭母音 /ə/ に連結 [həv əˈbeɪd] ハヴ オベイド",
+            "obeyed the → obeyed の語末子音 /d/ が the の初頭子音 /ð/ に先行し未開放 [əˈbeɪd̚ ðə] オベイド・ザ"
+          ],
+          "kana": "ザ コマンダーズ ウィル ハヴ オベイド ザ ヘッドクォーターズ オーダーズ ビフォー ドーン アライブズ"
+        }
+      ]
     }
   ],
   "tags": [
