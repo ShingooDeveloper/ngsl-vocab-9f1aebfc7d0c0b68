@@ -1,0 +1,183 @@
+{
+  "word": "starve",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/stɑːrv/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "starv(?:e[sd]?|ing)",
+  "meanings": [
+    "【動詞】飢えて死ぬ、食べ物がなくて苦しむ（die or suffer from hunger）",
+    "【動詞】〜に食べ物を与えない、飢えさせる（deprive someone of food）",
+    "【動詞】非常に欲しい、渇望する、飢えている（crave something intensely）"
+  ],
+  "examples": [
+    {
+      "en": "Without food, you'll starve and lose all your items.",
+      "ja": "食べ物なしでは、飢え死にしてすべてのアイテムを失います。",
+      "ipa": "/wɪˈðaʊt ˈfuːd juːl stɑːrv ənd luːz ɔːl jɔːr ˈaɪtəmz/",
+      "linking": [
+        "food you'll → d が弱形 /juːl/ に連結 [wɪˈðaʊt ˈfuːd juːl]",
+        "starve and → v が弱形 /ənd/ に連結 [stɑːrv ənd]",
+        "lose all → z が /ɔːl/ に連結 [luːz ɔːl]"
+      ],
+      "kana": "ウィザウト フード ユール スターヴ アンド ルーズ オール ユア アイテムズ"
+    },
+    {
+      "en": "If you starve in the Nether, you respawn at your bed.",
+      "ja": "ネザーで飢え死にすると、ベッドでリスポーンします。",
+      "ipa": "/ɪf ju stɑːrv ɪn ðə ˈnɛðər ju rɪˈspoʊn æt jɔːr ˈbɛd/",
+      "linking": [
+        "you starve → 語末 /ju/ が st に連接して [ju stɑːrv]。starve の st は a に連結",
+        "in the → n が弱形 /ðə/ に連結 [ɪn ðə]",
+        "at your → t が /jɔːr/ に連結 [æt jɔːr]"
+      ],
+      "kana": "イフ ユー スターヴ イン ザ ネザー ユー リスポーン アッ ユア ベッド"
+    },
+    {
+      "en": "The zombie is starving because I trapped it without food.",
+      "ja": "食べ物を与えずに閉じ込めたので、ゾンビが飢えています。",
+      "ipa": "/ðə ˈzoʊmbi ɪz ˈstɑːrvɪŋ bɪˈkɔz aɪ træpt ɪt wɪðaʊt ˈfuːd/",
+      "linking": [
+        "is starving → z が st に未開放で連接 [ɪz stɑːrv]。starving の g は弱い [ɪŋ]",
+        "because I → z が /aɪ/ に連結 [bɪˈkɔz aɪ]",
+        "it without → t が弱形 /wɪðaʊt/ に未開放で連接 [ɪt wɪðaʊt]"
+      ],
+      "kana": "ザ ゾンビ イズ スターヴィング ビコーズ アイ トラップト イット ウィザウト フード"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "starve for",
+      "ja": "〜を非常に欲しい、渇望する",
+      "example": "After mining all day, I'm starving for some crafted bread.",
+      "example_ja": "一日中採掘した後、私はクラフトしたパンを非常に欲しい。",
+      "ipa": "/ˈæftər ˈmaɪnɪŋ ɔːl ˈdeɪ aɪm ˈstɑːrvɪŋ fər səm ˈkræftəd ˈbrɛd/",
+      "linking": [
+        "all day → ll が /d/ に未開放で連接 [ɔːl deɪ]。day は弱形 /deɪ/",
+        "starving for → g が弱形 /fər/ に連結 [ˈstɑːrvɪŋ fər]",
+        "some crafted → m が /k/ に未開放で連接 [səm kræftəd]"
+      ],
+      "kana": "アフター マイニング オール デイ アイム スターヴィング ファー サム クラフテッド ブレッド"
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "starves",
+      "ipa": "/stɑːrvz/",
+      "examples": [
+        {
+          "en": "The villager starves if you don't give him food.",
+          "ja": "ビレッジャーに食べ物をあげないと飢え死にします。",
+          "ipa": "/ðə ˈvɪlɪdʒər stɑːrvz ɪf ju doʊnt ɡɪv ɪm ˈfuːd/",
+          "linking": [
+            "starves if → /z/ が母音 /ɪ/ に連結 [stɑːrvz ɪf]",
+            "give him → /v/ が弱形 /ɪm/ に連結 [ɡɪv ɪm]"
+          ],
+          "kana": "ザ ヴィリジャー スターヴズ イフ ユー ドウント ギヴ イム フード"
+        },
+        {
+          "en": "A zombie starves slowly in daylight.",
+          "ja": "ゾンビは日中ゆっくり飢えていきます。",
+          "ipa": "/ə ˈzoʊmbi stɑːrvz ˈsloʊli ɪn ˈdeɪlaɪt/",
+          "linking": [
+            "A zombie → a は弱形 /ə/",
+            "zombie starves → 特に連結なし"
+          ],
+          "kana": "ア ゾンビ スターヴズ スロウリー イン デイライト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "starved",
+      "ipa": "/stɑːrvd/",
+      "examples": [
+        {
+          "en": "I starved my cat overnight to make a saddle.",
+          "ja": "サドルを作るために、ネコを一晩飢えさせました。",
+          "ipa": "/aɪ stɑːrvd maɪ ˈkæt ˈoʊvərnaɪt tə ˈmeɪk ə ˈsædəl/",
+          "linking": [
+            "starved my → /d/ が母音 /aɪ/ に連結 [stɑːrvd maɪ]",
+            "make a → /k/ が弱形 /ə/ に連結 [ˈmeɪk ə]"
+          ],
+          "kana": "アイ スターヴド マイ キャット オーバーナイト タ メイク ア サドル"
+        },
+        {
+          "en": "She starved after exploring the ocean temple for too long.",
+          "ja": "海の神殿の探索に長時間費やしたため、飢え死にしました。",
+          "ipa": "/ʃi stɑːrvd ˈæftər ɪkˈsploʊrɪŋ ði ˈoʊʃən ˈtɛmpəl fər ˈtuː ˈlɔŋ/",
+          "linking": [
+            "starved after → /d/ が弱形 /ə/ に連結 [stɑːrvd ˈæftər]",
+            "the ocean → the は弱形 /ðə/"
+          ],
+          "kana": "シー スターヴド アフター エクスプロアリング ザ オウシャン テンプル ファー トゥー ロング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "starved",
+      "ipa": "/stɑːrvd/",
+      "examples": [
+        {
+          "en": "A starved animal in Minecraft looks thin.",
+          "ja": "マインクラフトの飢えた動物は痩せて見えます。",
+          "ipa": "/ə stɑːrvd ˈænɪməl ɪn ˈmaɪnˌkræft ˈlʊks θɪn/",
+          "linking": [
+            "a starved → a は弱形 /ə/",
+            "starved animal → /d/ が弱形 /ə/ に連結 [stɑːrvd ˈænɪməl]"
+          ],
+          "kana": "ア スターヴド アニモル イン マインクラフト ルークス シン"
+        },
+        {
+          "en": "The starved skeleton in the dungeon attacked me.",
+          "ja": "ダンジョンの飢えたスケルトンが私を攻撃しました。",
+          "ipa": "/ðə stɑːrvd ˈskɛlɪtən ɪn ðə ˈdʌndʒən əˈtækt mi/",
+          "linking": [
+            "a starved → a は弱形 /ə/",
+            "dungeon attacked → /n/ が弱形 /ə/ に連結 [ˈdʌndʒən əˈtækt]"
+          ],
+          "kana": "ザ スターヴド スケリトン イン ザ ダンジョン アタック ミー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "starving",
+      "ipa": "/ˈstɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "The wolf is starving and will attack you.",
+          "ja": "オオカミが飢えていて、あなたを攻撃するでしょう。",
+          "ipa": "/ðə ˈwʊlf ɪz ˈstɑːrvɪŋ ənd wɪl əˈtæk ju/",
+          "linking": [
+            "is starving → /z/ が st に未開放で連接 [ɪz stɑːrvɪŋ]",
+            "and will → and は弱形 /ənd/、/d/ が w に連結 [ənd wɪl]",
+            "attack you → /k/ が /j/ に連結 [əˈtæk ju]"
+          ],
+          "kana": "ザ ウルフ イズ スターヴィング アンド ウィル アタック ユー"
+        },
+        {
+          "en": "Stop starving the animals in your farm.",
+          "ja": "あなたのファームの動物を飢えさせるのをやめてください。",
+          "ipa": "/ˈstɑp ˈstɑːrvɪŋ ðə ˈænɪməlz ɪn jɔːr ˈfɑrm/",
+          "linking": [
+            "Stop starving → stop の語末 /p/ は未開放で続く [ˈstɑp̚ ˈstɑːrvɪŋ]",
+            "starving the → the は弱形 /ðə/",
+            "in your → /n/ が /j/ に連結 [ɪn jɔːr]"
+          ],
+          "kana": "ストップ スターヴィング ザ アニモルズ イン ユア ファーム"
+        }
+      ]
+    }
+  ]
+}
