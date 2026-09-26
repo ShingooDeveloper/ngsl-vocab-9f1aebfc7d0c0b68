@@ -374,6 +374,96 @@
           "kana": "ザ インチャンテッド ダイモンド アーマー ハズ ビン テンプティング イム トゥー チャレンジ ザ ドラゴン ファー デイズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will tempt",
+      "ipa": "/wɪl ˈtɛmpt/",
+      "examples": [
+        {
+          "en": "The new treasure will tempt many players to explore the deepest caves.",
+          "ja": "その新しい宝は多くのプレイヤーを最も深い洞窟を探索するように誘惑するでしょう。",
+          "ipa": "/ðə ˈnjuː ˈtrɛʒər wɪl ˈtɛmpt ˈmɛni ˈpleɪərz tu ɪkˈsplɔr ðə ˈdipəst ˈkeɪvz/",
+          "linking": [
+            "tempt の末子音 /t/ が many の初音 /m/ に未開放で続く [ˈtɛmpt̚ ˈmɛni]",
+            "players の末子音 /z/ が to の初音 /t/ に未開放で続く [ˈpleɪərz̚ tu]",
+            "to は機能語で弱形 /tu/"
+          ],
+          "kana": "ザ ニュー トレジャー ウィル テンプト メニー プレイャーズ トゥー エクスプロア ザ ディーペスト ケイヴズ"
+        },
+        {
+          "en": "We will tempt fate by attempting solo raids without proper backup equipment.",
+          "ja": "私たちは適切なバックアップ装備なしでソロレイドを試みることで運命を試すでしょう。",
+          "ipa": "/wi wɪl ˈtɛmpt ˈfeɪt baɪ əˈtɛmptɪŋ ˈsoʊloʊ ˈreɪdz ˈwɪðaʊt ˈprɑpər ˈbækʌp ɪˈkwɪpmənt/",
+          "linking": [
+            "will の末子音 /l/ が tempt の初音 /t/ に未開放で続く [wɪl̚ ˈtɛmpt]",
+            "tempt の末子音 /t/ が fate の初音 /f/ に未開放で続く [ˈtɛmpt̚ ˈfeɪt]",
+            "raids の末子音 /z/ が without の初音 /w/ に未開放で続く [ˈreɪdz̚ ˈwɪðaʊt]"
+          ],
+          "kana": "ウィー ウィル テンプト フェイト バイ ァテンプティング ソロー レイズ ウィザウト プロパー バックアップ イクウィップメント"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be tempting",
+      "ipa": "/wɪl bi ˈtɛmptɪŋ/",
+      "examples": [
+        {
+          "en": "Players will be tempting the Ender Dragon all season long.",
+          "ja": "プレイヤーたちはシーズン中ずっとエンダードラゴンを誘惑し続けるでしょう。",
+          "ipa": "/ˈpleɪərz wɪl bi ˈtɛmptɪŋ ðə ˈɛndər ˈdræɡən ɔl ˈsizən ˈlɔŋ/",
+          "linking": [
+            "players の末子音 /z/ が will の初音 /w/ に未開放で続く [ˈpleɪərz̚ wɪl]",
+            "will は弱形 /wəl/ へ弱化し be に続く",
+            "tempting の末子音 /ŋ/ が the の初音 /ð/ に未開放で続く [ˈtɛmptɪŋ ðə]"
+          ],
+          "kana": "プレイャーズ ウィル ビー テンプティング ザ エンダー ドラゴン オール シーズン ロング"
+        },
+        {
+          "en": "Those enchanted artifacts will be tempting every player in the realm.",
+          "ja": "それらのエンチャント済みの工芸品はレルムのすべてのプレイヤーを誘惑し続けるでしょう。",
+          "ipa": "/ðoʊz ɪnˈtʃæntəd ˈɑrtəfækts wɪl bi ˈtɛmptɪŋ ˈɛvri ˈpleɪər ɪn ðə ˈrɛlm/",
+          "linking": [
+            "artifacts の末子音 /s/ が will の初音 /w/ に未開放で続く [ˈfækts̚ wɪl]",
+            "will は弱形 /wəl/ へ弱化し be に続く",
+            "tempting の末子音 /ŋ/ が every の初音 /ɛ/ に連結 [ˈtɛmptɪŋ ˈɛvri]"
+          ],
+          "kana": "ドーズ インチャンテッド アーティファクツ ウィル ビー テンプティング エブリー プレイャー イン ザ レルム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have tempted",
+      "ipa": "/wɪl həv ˈtɛmptəd/",
+      "examples": [
+        {
+          "en": "By spring, that hidden vault will have tempted us many times over.",
+          "ja": "春までに、その隠れた金庫は私たちを何度も誘惑しているでしょう。",
+          "ipa": "/baɪ ˈsprɪŋ ðæt ˈhɪdən ˈvɔlt wɪl həv ˈtɛmptəd əs ˈmɛni ˈtaɪmz ˈoʊvər/",
+          "linking": [
+            "vault の末子音 /t/ が will の初音 /w/ に未開放で続く [vɔlt̚ wɪl]",
+            "have は弱形 /həv/ に弱化",
+            "tempted の末子音 /d/ が us の初音 /ə/ に未開放で続く [ˈtɛmptəd̚ əs]"
+          ],
+          "kana": "バイ スプリング ザット ヒデン ボルト ウィル ハヴ テンプティド ァス メニー タイムズ オーバー"
+        },
+        {
+          "en": "Those enchanted treasures will have tempted every explorer by the end of the season.",
+          "ja": "それらのエンチャント済みの宝はシーズンの終わりまでにすべての探検家を誘惑しているでしょう。",
+          "ipa": "/ðoʊz ɪnˈtʃæntəd ˈtrɛʒərz wɪl həv ˈtɛmptəd ˈɛvri ɪkˈsplɔrər baɪ ðə ˈɛnd əv ðə ˈsizən/",
+          "linking": [
+            "treasures の末子音 /z/ が will の初音 /w/ に未開放で続く [ˈtrɛʒərz̚ wɪl]",
+            "have は弱形 /həv/ に弱化",
+            "tempted の末子音 /d/ が every の初音 /ɛ/ に連結 [ˈtɛmptəd ˈɛvri]"
+          ],
+          "kana": "ドーズ インチャンテッド トレジャーズ ウィル ハヴ テンプティド エブリー エクスプロラー バイ ザ エンド アヴ ザ シーズン"
+        }
+      ]
     }
   ]
 }
