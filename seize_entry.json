@@ -261,6 +261,92 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is seizing",
+      "ipa": "/ɪz ˈsiːzɪŋ/",
+      "examples": [
+        {
+          "en": "He is seizing the diamonds right now!",
+          "ja": "彼は今、ダイアモンドをつかんでいるところだ！",
+          "ipa": "[hi ɪz ˈsiːzɪŋ ðə ˈdaɪəˌmɑndz ˈɹaɪt ˈnaʊ]",
+          "kana": "ヒ イズ シーズイング ザ ダイアモンズ ライト ナウ",
+          "linking": [
+            "is seizing → 'is' 弱形 /ɪz/ [ɪz ˈsiːzɪŋ] イズ シーズイング",
+            "the diamonds → 'the' 弱形 /ðə/ [ðə ˈdaɪ…] ザ"
+          ]
+        },
+        {
+          "en": "You are seizing ore blocks as the creeper approaches!",
+          "ja": "クリーパーが近づいているのに、鉱石ブロックをつかんでいる！",
+          "ipa": "[ju ɑɹ ˈsiːzɪŋ ˈɔɹ blɑks æz ðə ˈkripɚ əˈproʊtʃɪz]",
+          "kana": "ユー アー シーズイング オア ブロックス アズ ザ クリーパー アプローチーズ",
+          "linking": [
+            "'are' 弱形可能 /ə/ （この文では /ɑɹ/）",
+            "'the' 弱形 /ðə/ [ðə ˈkripɚ] ザ クリーパー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was seizing",
+      "ipa": "/wəz ˈsiːzɪŋ/",
+      "examples": [
+        {
+          "en": "I was seizing the iron when the enderman attacked!",
+          "ja": "エンダーマンが攻撃した時、私は鉄をつかんでいた！",
+          "ipa": "[aɪ wəz ˈsiːzɪŋ ðə ˈaɪɚn wɛn ðə ˈɛndɚˌmæn əˈtækt]",
+          "kana": "アイ ワズ シーズイング ザ アイアン ウェン ザ エンダーマン アタック",
+          "linking": [
+            "was seizing → 'was' 弱形 /wəz/ [wəz ˈsiːzɪŋ] ワズ シーズイング",
+            "the iron → 'the' 弱形 /ðə/ [ðə ˈaɪɚn] ザ アイアン",
+            "when the → 'the' 弱形 /ðə/ [wɛn ðə] ウェン ザ"
+          ]
+        },
+        {
+          "en": "They were seizing all the loot before the TNT exploded!",
+          "ja": "TNTが爆発する前に、彼らはすべてのアイテムをつかんでいた！",
+          "ipa": "[ðeɪ wɚ ˈsiːzɪŋ ɔl ðə ˈluːt bɪˈfɔɹ ðə ˌti ɛn ˈti ɪkˈsploʊdɪd]",
+          "kana": "ザエイ ワー シーズイング オール ザ ルート ビフォー ザ ティー エン ティー イクスプローディッド",
+          "linking": [
+            "'were' 弱形 /wɚ/ [wɚ ˈsiːzɪŋ] ワー シーズイング",
+            "'the' は2回、弱形 /ðə/ で [ðə ˈluːt] ザ ルート、[ðə ˌti ɛn ˈti] ザ ティー エン ティー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been seizing",
+      "ipa": "/həd bɪn ˈsiːzɪŋ/",
+      "examples": [
+        {
+          "en": "I had been seizing ore for ten minutes when I ran out of space!",
+          "ja": "スペースがなくなった時、私はすでに10分間鉱石をつかんでいた！",
+          "ipa": "[aɪ həd bɪn ˈsiːzɪŋ ˈɔɹ fɚ ˈtɛn ˈmɪnɪts wɛn aɪ ˈɹæn ˈaʊt əv ˈspeɪs]",
+          "kana": "アイ ハッド ビン シーズイング オア ファー テン ミニッツ ウェン アイ ラン アウト ア スペイス",
+          "linking": [
+            "had been → 'had' 弱形 /həd/、'been' 弱形 /bɪn/ で [həd bɪn] ハッド ビン",
+            "for ten → 'for' 弱形 /fɚ/ [fɚ ˈtɛn] ファー テン",
+            "out of → 'of' 弱形 /əv/ [ˈaʊt əv] アウト ア"
+          ]
+        },
+        {
+          "en": "She had been seizing diamonds all morning when the server crashed!",
+          "ja": "サーバーがクラッシュした時、彼女は朝からずっとダイアモンドをつかんでいた！",
+          "ipa": "[ʃi həd bɪn ˈsiːzɪŋ ˈdaɪəˌmɑndz ɔl ˈmɔɹnɪŋ wɛn ðə ˈsɝvɚ kræʃt]",
+          "kana": "シー ハッド ビン シーズイング ダイアモンズ オール モーニング ウェン ザ サーヴァー クラッシュド",
+          "linking": [
+            "had been → 'had' 弱形 /həd/、'been' 弱形 /bɪn/ で [həd bɪn] ハッド ビン",
+            "the server → 'the' 弱形 /ðə/ [ðə ˈsɝvɚ] ザ サーヴァー"
+          ]
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形",
       "text": "will seize",
