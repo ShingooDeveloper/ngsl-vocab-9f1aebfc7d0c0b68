@@ -184,6 +184,96 @@
           "kana": "ザ ホワイト フラッグ ショーズ マルチプル サレンダーズ タ ザ モブ"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is surrendering",
+      "ipa": "/ɪz sərˈɛndɚrɪŋ/",
+      "examples": [
+        {
+          "en": "The dragon is surrendering everything to us now.",
+          "ja": "ドラゴンは今すべてを私たちに明け渡している。",
+          "ipa": "/ðə ˈdræɡən ɪz sərˈɛndɚrɪŋ ˈɛvriθɪŋ tu əs naʊ/",
+          "linking": [
+            "is → 助動詞は弱形 /ɪz/",
+            "dragon is → dragon の語末 /n/ が is の /ɪ/ に続く [ɡən ɪz] ガン イズ",
+            "to us → to は弱形 /tə/ に弱化し [tə əs] タ ウス"
+          ],
+          "kana": "ザ ドラゴン イズ サレンダーリング エブリシング タ ウス ナウ"
+        },
+        {
+          "en": "We are surrendering our armor to the raiders.",
+          "ja": "私たちはレイダーに鎧を明け渡しています。",
+          "ipa": "/wi ɑr sərˈɛndɚrɪŋ ˈaʊɚ ˈɑrmɚ tu ðə ˈreɪdɚz/",
+          "linking": [
+            "are → 助動詞は弱形 /ɑr/",
+            "surrendering our → our の語末 /ɚ/ が armor の /ɑ/ に連結 [ˈaʊɚ ˈɑrmɚ] アワー アーマー",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "ウィ アー サレンダーリング アワー アーマー タ ザ レイダーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was surrendering",
+      "ipa": "/wəz sərˈɛndɚrɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper was surrendering ground to the player.",
+          "ja": "クリーパーはプレイヤーに地面を明け渡していた。",
+          "ipa": "/ðə ˈkripɚ wəz sərˈɛndɚrɪŋ ɡraʊnd tu ðə ˈpleɪɚ/",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/",
+            "creeper was → creeper の語末 /ɚ/ が was の /w/ に続く [ˈkripɚ wəz] クリーパー ワズ",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "ザ クリーパー ワズ サレンダーリング グラウンド タ ザ プレイヤー"
+        },
+        {
+          "en": "I was surrendering my resources when you arrived.",
+          "ja": "君が到着したとき、私はリソースを手放していた。",
+          "ipa": "/aɪ wəz sərˈɛndɚrɪŋ maɪ ˈrɛsɚsɪz wɛn ju əˈraɪvd/",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/",
+            "my resources → my の語末 /aɪ/ が resources の /r/ に連結 [maɪ ˈrɛsɚsɪz] マイ リソーシーズ",
+            "when you → when の語末 /n/ が you の /j/ に続く [wɛn ju] ウェン ユー"
+          ],
+          "kana": "アイ ワズ サレンダーリング マイ リソーシーズ ウェン ユー アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been surrendering",
+      "ipa": "/həd bɪn sərˈɛndɚrɪŋ/",
+      "examples": [
+        {
+          "en": "By the time reinforcements arrived, the team had been surrendering territory for minutes.",
+          "ja": "援軍が到着するまでに、チームは数分間領土を明け渡していた。",
+          "ipa": "/baɪ ðə taɪm ˌrɛɪnˈfɔrsmənt əˈraɪvd ðə ˈtim həd bɪn sərˈɛndɚrɪŋ ˈtɛrɪtɔri fɔr ˈmɪnɪts/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "the team → the は弱形 /ðə/ [ðə ˈtim] ザ ティーム",
+            "for minutes → for は弱形 /fɚ/ [fɚ ˈmɪnɪts] ファー ミニッツ"
+          ],
+          "kana": "バイ ザ タイム レインフォースメント アライヴド ザ ティーム ハド ビン サレンダーリング テリトリー ファー ミニッツ"
+        },
+        {
+          "en": "She had been surrendering her position until the Wither attacked.",
+          "ja": "ウィザーが攻撃するまで、彼女は自分のポジションを明け渡していた。",
+          "ipa": "/ʃi həd bɪn sərˈɛndɚrɪŋ hɚ pəˈzɪʃən ənˈtɪl ðə ˈwɪðɚ əˈtækt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "until the → until の語末 /l/ が the の /ð/ に続く [ənˈtɪl ðə] アンティル ザ",
+            "the Wither → the は弱形 /ðə/ [ðə ˈwɪðɚ] ザ ウィザー"
+          ],
+          "kana": "シー ハド ビン サレンダーリング ハー ポジション アンティル ザ ウィザー アタック"
+        }
+      ]
     }
   ],
   "idioms": [
