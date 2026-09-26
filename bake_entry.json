@@ -256,6 +256,99 @@
           "kana": "ウィ ハド ビン ベイキング サンド フォーア ロング タイム ビフォー ウィ ハド アナフ グラース"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has baked",
+      "ipa": "/həz beɪkt/",
+      "examples": [
+        {
+          "en": "The furnace has baked all the clay we need.",
+          "ja": "かまどは私たちが必要とするすべての粘土を焼きました。",
+          "ipa": "/ðə ˈfɝ.nɪs həz ˈbeɪkt ɔl ðə ˈkleɪ wi ˈniːd/",
+          "linking": [
+            "「the furnace」で the は弱形 /ðə/",
+            "「has baked」で has は弱形 /həz/、/z/ が /b/ 前で未開放 [həz ˈbeɪkt̚]",
+            "「the clay」で the は弱形 /ðə/"
+          ],
+          "kana": "ザ ファーニス ハズ ベイクト オール ザ クレイ ウィ ニード"
+        },
+        {
+          "en": "I have baked sand to make glass for the windows.",
+          "ja": "窓用のガラスを作るために砂を焼きました。",
+          "ipa": "/aɪ həv ˈbeɪkt ˈsænd tu ˈmeɪk ˈɡlæs fɔr ðə ˈwɪn.doʊz/",
+          "linking": [
+            "「have baked」で have は弱形 /həv/",
+            "「to make」で to は弱形 /tə/",
+            "「for the」で for は弱形 /fɚ/、/r/ が /ðə/ に連結 [fɚ ðə]"
+          ],
+          "kana": "アイ ハヴ ベイクト サンド タ メイク グラース フォー ザ ウィンドウズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had baked",
+      "ipa": "/həd beɪkt/",
+      "examples": [
+        {
+          "en": "Before we finished the building, we had baked enough clay.",
+          "ja": "建物を完成させる前に、私たちは十分な粘土を焼いていました。",
+          "ipa": "/bɪˈfɔr wi ˈfɪn.ɪʃt ðə ˈbɪl.dɪŋ wi həd ˈbeɪkt ɪˈnʌf ˈkleɪ/",
+          "linking": [
+            "「Before we」で /r/ が /w/ に連結 [bɪˈfɔr wi]",
+            "「had baked」で had は弱形 /həd/、/d/ が /b/ 前で未開放 [həd ˈbeɪkt̚]",
+            "「baked enough」で /d/ が /ɪ/ に連結 [ˈbeɪkd ɪˈnʌf]"
+          ],
+          "kana": "ビフォー ウィ フィニシュト ザ ビルディング ウィ ハド ベイクト イナフ クレイ"
+        },
+        {
+          "en": "The furnace had baked sand into glass before the storm came.",
+          "ja": "嵐が来る前に、かまどは砂をガラスに焼いていました。",
+          "ipa": "/ðə ˈfɝ.nɪs həd ˈbeɪkt ˈsænd ˌɪn.tə ˈɡlæs bɪˈfɔr ðə ˈstɔrm ˈkeɪm/",
+          "linking": [
+            "「the furnace」で the は弱形 /ðə/",
+            "「had baked」で had は弱形 /həd/、/d/ が /b/ 前で未開放 [həd ˈbeɪkt̚]",
+            "「into」の to は弱形 /tə/",
+            "「Before the」で /r/ が /ðə/ に連結 [bɪˈfɔr ðə]"
+          ],
+          "kana": "ザ ファーニス ハド ベイクト サンド インタ グラース ビフォー ザ ストーム ケイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been baking",
+      "ipa": "/həz bɪn ˈbeɪ.kɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace has been baking clay all morning.",
+          "ja": "かまどは朝ずっと粘土を焼いています。",
+          "ipa": "/ðə ˈfɝ.nɪs həz bɪn ˈbeɪ.kɪŋ ˈkleɪ ɔl ˈmɔr.nɪŋ/",
+          "linking": [
+            "「the furnace」で the は弱形 /ðə/",
+            "「has been」で has は弱形 /həz/、been は弱形 /bɪn/",
+            "「been baking」で /n/ が /b/ に連結 [bɪn ˈbeɪ.kɪŋ]",
+            "「all morning」で /l/ が /m/ に連結 [ɔl ˈmɔr.nɪŋ]"
+          ],
+          "kana": "ザ ファーニス ハズ ビン ベイキング クレイ オール モーニング"
+        },
+        {
+          "en": "I have been baking sand to create enough glass for our project.",
+          "ja": "私たちのプロジェクト用に十分なガラスを作るために、砂を焼いています。",
+          "ipa": "/aɪ həv bɪn ˈbeɪ.kɪŋ ˈsænd tu kriˈeɪt ɪˈnʌf ˈɡlæs fɔr ˈaʊr ˈprɑ.dʒɛkt/",
+          "linking": [
+            "「have been」で have は弱形 /həv/、been は弱形 /bɪn/",
+            "「been baking」で /n/ が /b/ に連結 [bɪn ˈbeɪ.kɪŋ]",
+            "「to create」で to は弱形 /tə/",
+            "「for our」で for は弱形 /fɚ/、/r/ が /aʊr/ に連結 [fɚ ˈaʊr]"
+          ],
+          "kana": "アイ ハヴ ビン ベイキング サンド タ クリエイト イナフ グラース フォー アワー プロジェクト"
+        }
+      ]
     }
   ]
 }
