@@ -244,6 +244,102 @@
           "kana": "シー ハド ビン プラナウンシング ザ サモニング インカンテイション ファー アワーズ ビフォア ザ マジック サークル リスポンディド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has pronounced",
+      "ipa": "/həz prəˈnaʊnst/",
+      "examples": [
+        {
+          "en": "The enchanter has pronounced the sacred incantation correctly.",
+          "ja": "エンチャンターは神聖な呪文を正しく発音しました。",
+          "ipa": "/ðə ɪnˈtʃæntər həz prəˈnaʊnst ðə ˈseɪkrɪd ɪŋkænˈteɪʃən ˈkɛrɪktli/",
+          "linking": [
+            "the enchanter - /ðə/ 弱形が /ɪ/ に連結 [ðə ɪnˈtʃæntər]",
+            "has pronounced - has 弱形 /həz/、/z/ と /p/ は子音+子音で分離 [həz prəˈnaʊnst]",
+            "pronounced the - 語末の /t/ が /ðə/ に連結、the 弱形 /ðə/ [ˈnaʊns ðə]"
+          ],
+          "kana": "ザ インチャンター ハズ プラナウンスト ザ セイクリッド インカンテイション コレクトリー"
+        },
+        {
+          "en": "We have pronounced all the command words together in unison.",
+          "ja": "私たちはすべてのコマンド単語をユニゾンで一緒に発音しました。",
+          "ipa": "/wiː həv prəˈnaʊnst ɔːl ðə kəˈmænd wɝdz təˈɡɛðər ɪn ˈjuːnɪsən/",
+          "linking": [
+            "we have - /iː/ が /h/ に連結 [wiː həv]",
+            "have pronounced - /v/ が /p/ に子音+子音で分離 [həv prəˈnaʊnst]",
+            "pronounced all - 語末の /t/ が /ɔ/ に連結 [ˈnaʊns ɔl]",
+            "the command - /ðə/ 弱形が /k/ に連結 [ðə kəˈmænd]"
+          ],
+          "kana": "ウィー ハヴ プラナウンストオール ザ コマンド ワーズ タゲザー イン ユニソン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had pronounced",
+      "ipa": "/həd prəˈnaʊnst/",
+      "examples": [
+        {
+          "en": "The wizard had pronounced the spell before the enemy arrived.",
+          "ja": "敵が到着する前にウィザードが呪文を発音していました。",
+          "ipa": "/ðə ˈwɪzərd həd prəˈnaʊnst ðə spɛl bɪˈfɔr ðə ˈɛnəmi əˈraɪvd/",
+          "linking": [
+            "the wizard - /ðə/ 弱形が /w/ に連結 [ðə ˈwɪzərd]",
+            "had pronounced - /d/ が /p/ に子音+子音で分離、had 弱形 /həd/ [həd prəˈnaʊnst]",
+            "pronounced the - 語末の /t/ が /ðə/ に連結、the 弱形 [ˈnaʊns ðə]",
+            "before the - /ɹ/ が /ðə/ に連結、the 弱形 [bɪˈfɔr ðə]"
+          ],
+          "kana": "ザ ウィザード ハド プラナウンスト ザ スペル ビフォア ザ エネミー アライヴド"
+        },
+        {
+          "en": "She had pronounced the blessing over the enchantment table before the ritual.",
+          "ja": "儀式の前にエンチャントテーブルの上で祝福を発音していました。",
+          "ipa": "/ʃiː həd prəˈnaʊnst ðə ˈblɛsɪŋ ˈoʊvər ðə ɪnˈtʃæntmənt ˈteɪbəl bɪˈfɔr ðə ˈrɪtʃuəl/",
+          "linking": [
+            "she had - /iː/ が /h/ に連結 [ʃiː həd]",
+            "had pronounced - /d/ が /p/ に子音+子音で分離 [həd prəˈnaʊnst]",
+            "pronounced the - 語末の /t/ が /ðə/ に連結、the 弱形 [ˈnaʊns ðə]",
+            "over the - /r/ が /ðə/ に連結、the 弱形 [ˈoʊvər ðə]"
+          ],
+          "kana": "シー ハド プラナウンスト ザ ブレッシング オーバー ザ インチャントメント テーブル ビフォア ザ リチュアル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been pronouncing",
+      "ipa": "/həz bɪn prəˈnaʊnsɪŋ/",
+      "examples": [
+        {
+          "en": "The wizard has been pronouncing enchantments all afternoon long.",
+          "ja": "ウィザードは午後中ずっと呪文を発音し続けています。",
+          "ipa": "/ðə ˈwɪzərd həz bɪn prəˈnaʊnsɪŋ ɪnˈtʃæntmənts ɔːl ˌæftərˈnuːn ˈlɔŋ/",
+          "linking": [
+            "the wizard - /ðə/ 弱形が /w/ に連結 [ðə ˈwɪzərd]",
+            "has been - /z/ が /b/ に子音+子音で分離、been 弱形 /bɪn/ [həz bɪn]",
+            "been pronouncing - /n/ が /p/ に子音+子音で分離 [bɪn prəˈnaʊnsɪŋ]",
+            "all afternoon - /l/ が /æ/ に連結 [ɔːl ˌæftərˈnuːn]"
+          ],
+          "kana": "ザ ウィザード ハズ ビン プラナウンシング インチャントメンツ オール アフターヌーン ロング"
+        },
+        {
+          "en": "We have been pronouncing the ancient spell for hours now.",
+          "ja": "私たちは数時間ずっと古い呪文を発音し続けています。",
+          "ipa": "/wiː həv bɪn prəˈnaʊnsɪŋ ðə ˈeɪnʃənt spɛl fɔr ˈaʊərz ˈnaʊ/",
+          "linking": [
+            "we have - /iː/ が /h/ に連結 [wiː həv]",
+            "have been - /v/ が /b/ に子音+子音で分離、been 弱形 /bɪn/ [həv bɪn]",
+            "been pronouncing - /n/ が /p/ に子音+子音で分離 [bɪn prəˈnaʊnsɪŋ]",
+            "the ancient - /ðə/ 弱形が /e/ に連結 [ðə ˈeɪnʃənt]",
+            "for hours - /r/ が /aʊ/ に連結、for は弱形 /fər/ [fər ˈaʊərz]"
+          ],
+          "kana": "ウィー ハヴ ビン プラナウンシング ザ エインシェント スペル フォー アワーズ ナウ"
+        }
+      ]
     }
   ]
 }
