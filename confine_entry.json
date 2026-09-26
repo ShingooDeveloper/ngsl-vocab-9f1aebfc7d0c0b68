@@ -410,6 +410,101 @@
           "kana": "ザ フォーティス ハド ビン カンファイニング オール プレイアーズ トゥ ザ セントラル プラザ ファー シキュアリティ パーパセズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will confine",
+      "ipa": "/wɪl kənˈfaɪn/",
+      "examples": [
+        {
+          "en": "We will confine the creepers to a secure chamber overnight.",
+          "ja": "我々は夜間、クリーパーを安全な部屋に閉じ込めます。",
+          "ipa": "/wi wɪl kənˈfaɪn ðə ˈkɹipɚz tə ə sɪˈkjʊɹ ˈtʃeɪmbɚ ˌoʊvɚˈnaɪt/",
+          "linking": [
+            "will confine → 語末 /l/ が confine の /k/ に未開放 [wɪl̚ kənˈfaɪn] ウィル カンファイン",
+            "the creepers → the は弱形 /ðə/",
+            "to a → to は弱形 /tə/、a は弱形 /ə/",
+            "chamber overnight → 語末 /r/ が母音に連結"
+          ],
+          "kana": "ウィ ウィル カンファイン ザ クリーパーズ トゥ ア セキュアー チェイムバー オーヴァーナイト"
+        },
+        {
+          "en": "They will confine all players to the spawn zone during server maintenance.",
+          "ja": "サーバーメンテナンス中、すべてのプレイヤーをスポーンゾーンに限定します。",
+          "ipa": "/ðeɪ wɪl kənˈfaɪn ɔl ˈpleɪɚz tə ðə ˈspɔn zoʊn ˈdʊrɪŋ ˈsɝvɚ ˈmɛntənəns/",
+          "linking": [
+            "will confine → 語末 /l/ が confine の /k/ に未開放 [wɪl̚ kənˈfaɪn]",
+            "confine all → 語末 /n/ が母音 /ɔ/ に連結 [kənˈfaɪn ɔl] カンファイン オール",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ウィル カンファイン オール プレイアーズ トゥ ザ スポーン ゾーン デューリング サーヴァー メインテナンス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be confining",
+      "ipa": "/wɪl bi kənˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I will be confining the mobs to the arena while you prepare the weapons.",
+          "ja": "あなたが武器を準備している間、私はモブをアリーナに限定し続けます。",
+          "ipa": "/aɪ wɪl bi kənˈfaɪnɪŋ ðə moʊbz tə ðə əˈriːnə hwaɪl jʊ prɪˈpɛr ðə ˈwɛpənz/",
+          "linking": [
+            "will be → 語末 /l/ が be の /b/ に未開放 [wɪl̚ bi] ウィル ビー",
+            "be confining → 母音 /i/ から consonant /k/ への移行",
+            "the arena → the は弱形 /ðə/",
+            "the weapons → the は弱形 /ðə/"
+          ],
+          "kana": "アイ ウィル ビー カンファイニング ザ モウブズ トゥ ザ アリーナ ホワイル ユー プリペア ザ ウェポンズ"
+        },
+        {
+          "en": "The barrier system will be confining all players to designated zones throughout the event.",
+          "ja": "バリアシステムがイベント中ずっとすべてのプレイヤーを指定ゾーンに限定し続けます。",
+          "ipa": "/ðə ˈbæriɚ ˈsɪstəm wɪl bi kənˈfaɪnɪŋ ɔl ˈpleɪɚz tə ˈdɛzɪɡˌneɪtɪd zoʊnz θruˈaʊt ðə ɪˈvɛnt/",
+          "linking": [
+            "will be → 語末 /l/ が be の /b/ に未開放 [wɪl̚ bi]",
+            "be confining → 母音 /i/ から consonant /k/ への移行",
+            "confining all → 語末 /ŋ/ が母音 /ɔ/ に連結 [kənˈfaɪnɪŋ ɔl] カンファイニング オール",
+            "to designated → to は弱形 /tə/"
+          ],
+          "kana": "ザ バリアー システム ウィル ビー カンファイニング オール プレイアーズ トゥ デジグネイティド ゾーンズ スルーアウト ザ イベント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have confined",
+      "ipa": "/wɪl həv kənˈfaɪnd/",
+      "examples": [
+        {
+          "en": "We will have confined all our mining operations to the deep layers before the update drops.",
+          "ja": "アップデートが落ちる前に、すべての採掘作業を深層に限定することになります。",
+          "ipa": "/wi wɪl həv kənˈfaɪnd ɔl ˈaʊɚ ˈmaɪnɪŋ ˌɑpəˈreɪʃənz tə ðə dip ˈleɪɚz bɪˈfɔr ðə ˈʌpˌdeɪt drɑps/",
+          "linking": [
+            "will have → 語末 /l/ が have の /h/ に未開放 [wɪl̚ həv] ウィル ハヴ",
+            "have confined → 語末 /v/ が confined の /k/ に未開放 [həv̚ kənˈfaɪnd] ハヴ カンファインド",
+            "confined all → 語末 /d/ が母音 /ɔ/ に連結 [kənˈfaɪnd ɔl] カンファインド オール",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル ハヴ カンファインド オール アワー マイニング オペレーションズ トゥ ザ ディープ レイアーズ ビフォア ザ アップデイト ドラップス"
+        },
+        {
+          "en": "She will have confined her redstone laboratory to the underground chamber by then.",
+          "ja": "彼女は地下室にレッドストーン研究室全体を限定することになります。",
+          "ipa": "/ʃi wɪl həv kənˈfaɪnd hɚ ˈɹɛdˌstoʊn ˈlæbəˌtɔri tə ðə ˈʌndɚˌɡraʊnd ˈtʃeɪmbɚ baɪ ðɛn/",
+          "linking": [
+            "will have → 語末 /l/ が have の /h/ に未開放 [wɪl̚ həv]",
+            "have confined → 語末 /v/ が confined の /k/ に未開放 [həv̚ kənˈfaɪnd]",
+            "confined her → 語末 /d/ が her の /h/ に未開放 [kənˈfaɪnd hɚ]",
+            "her redstone → 語末 /r/ が redstone の /ɹ/ に連結"
+          ],
+          "kana": "シー ウィル ハヴ カンファインド ハー レッドストーン ラボラトリー トゥ ザ アンダーグラウンド チェイムバー バイ ザン"
+        }
+      ]
     }
   ],
   "tags": [
