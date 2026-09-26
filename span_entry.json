@@ -232,6 +232,97 @@
           "kana": "バイ スパニング マルティプル レイアーズ アヴ スキャフォルディング ユー リーチザ トーリスト クリフス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is spanning",
+      "ipa": "/ɪz ˈspænɪŋ/",
+      "examples": [
+        {
+          "en": "The massive stone bridge is spanning across the ravine right now.",
+          "ja": "巨大な石造りの橋が今、渓谷を横切っています。",
+          "ipa": "/ðə ˈmæsɪv ˈstoʊn ˈbrɪdʒ ɪz ˈspænɪŋ əˈkrɔs ðə ˈræviːn ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is spanning → is は弱形 /ɪz/, /z/ が /s/ に連結 [ɪzˈspænɪŋ] イズスパニング",
+            "spanning across → 語末子音 /ŋ/ が母音 /ə/ に連結 [ˈspænɪŋəˈkrɔs] スパニングアクロス",
+            "across the → /s/ が /ð/ に続く（consonant+consonant）"
+          ],
+          "kana": "ザ マッシブ ストウン ブリッジ イズスパニング アクロス ザ ラビーン ライト ナウ"
+        },
+        {
+          "en": "My redstone tunnel is spanning three biomes and it looks amazing.",
+          "ja": "私のレッドストーン坑道は3つのバイオームにわたっていて、見た目が素晴らしいです。",
+          "ipa": "/maɪ ˈrɛdˌstoʊn ˈtʌnəl ɪz ˈspænɪŋ θri baɪˈoʊmz ænd ɪt ˈlʊks əˈmeɪzɪŋ/",
+          "linking": [
+            "tunnel is → 語末子音 /l/ が母音 /ɪ/ に続く（consonant+vowel）",
+            "is spanning → is は弱形 /ɪz/, /z/ が /s/ に連結 [ɪzˈspænɪŋ] イズスパニング",
+            "and it → 語末子音 /d/ が母音 /ɪ/ に連結 [ænˈdɪt] アンディット"
+          ],
+          "kana": "マイ レッドストウン タネル イズスパニング スリー バイオウムズ アンディット ルックス アメイジング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was spanning",
+      "ipa": "/wəz ˈspænɪŋ/",
+      "examples": [
+        {
+          "en": "The wooden walkway was spanning the chasm when the update hit.",
+          "ja": "アップデートが当たった時、木製の歩道が深い裂け目を横切っていました。",
+          "ipa": "/ðə ˈwʊdən ˈwɔkˌweɪ wəz ˈspænɪŋ ðə ˈkæzəm wɛn ðɪ ˈʌpˌdeɪt ˈhɪt/",
+          "linking": [
+            "walkway was → /i/ が /w/ に続く（consonant+consonant）",
+            "was spanning → was は弱形 /wəz/, /z/ が /s/ に連結 [wəzˈspænɪŋ] ワズスパニング",
+            "the chasm → the は弱形 /ðə/, /ə/ が /k/ に続く（consonant+consonant）"
+          ],
+          "kana": "ザ ウッデン ウォークウェイ ワズスパニング ザ キャズム ウェン ザ アップデイト ヒット"
+        },
+        {
+          "en": "They were spanning multiple sections while I was mining below.",
+          "ja": "私が下で採鉱していた間、彼らは複数のセクションを広げていました。",
+          "ipa": "/ðeɪ wər ˈspænɪŋ ˈmʌltɪpəl ˈsɛkʃənz waɪl aɪ wəz ˈmaɪnɪŋ bɪˈloʊ/",
+          "linking": [
+            "were spanning → were は弱形 /wər/, /r/ が /s/ に連結 [wərˈspænɪŋ] ウアースパニング",
+            "multiple sections → /l/ が /s/ に続く（consonant+consonant）",
+            "mining below → /ŋ/ が /b/ に続く（consonant+consonant）"
+          ],
+          "kana": "ゼイ ウアースパニング マルティプル セクションズ ワイル アイ ワズ マイニング ビロウ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been spanning",
+      "ipa": "/həd bɪn ˈspænɪŋ/",
+      "examples": [
+        {
+          "en": "The tunnel network had been spanning underground for weeks before anyone noticed.",
+          "ja": "誰かが気づく前に、トンネルネットワークは地下に何週間も広がっていました。",
+          "ipa": "/ðə ˈtʌnəl ˈnɛtˌwɜrk həd bɪn ˈspænɪŋ ˈʌndərˌɡraʊnd fər ˈwiks bɪˈfɔr ˈɛniˌwʌn ˈnoʊtɪst/",
+          "linking": [
+            "network had → /k/ が /h/ に未開放で続く [ˈnɛtˌwɜrk̚ həd]",
+            "had been → had は弱形 /həd/, /d/ が /b/ に続く（consonant+consonant）",
+            "been spanning → been は弱形 /bɪn/, /n/ が /s/ に連結 [bɪnˈspænɪŋ] ビンスパニング"
+          ],
+          "kana": "ザ タネル ネットワーク ハドゥ ビンスパニング アンダーグラウンド フォア ウィークス ビフォア エニワン ノウティスト"
+        },
+        {
+          "en": "The bridge had been spanning the valley for months, and it was still strong.",
+          "ja": "その橋は何ヶ月も谷を横切っていて、まだ堅牢でした。",
+          "ipa": "/ðə ˈbrɪdʒ həd bɪn ˈspænɪŋ ðə ˈvæli fər ˈmʌnθz | ənd ɪt wəz ˈstɪl ˈstrɔŋ/",
+          "linking": [
+            "bridge had → /dʒ/ が /h/ に未開放で続く [ˈbrɪdʒ̚ həd]",
+            "had been → had は弱形 /həd/, /d/ が /b/ に続く（consonant+consonant）",
+            "been spanning → been は弱形 /bɪn/, /n/ が /s/ に連結 [bɪnˈspænɪŋ] ビンスパニング",
+            "still strong → /l/ が /s/ に続く（consonant+consonant）"
+          ],
+          "kana": "ザ ブリッジ ハドゥ ビンスパニング ザ ヴァレー フォア マンスズ エンディット ワズ スティル ストロング"
+        }
+      ]
     }
   ]
 }
