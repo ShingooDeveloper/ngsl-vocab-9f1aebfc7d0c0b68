@@ -368,6 +368,102 @@
           "kana": "バイ ザ タイム ザ アドミン アライブド、プレイヤーズ ハド ビン ポウストポウニング ザ レイド スタート オール モーニング"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will postpone",
+      "ipa": "/wɪl ˌpoʊstˈpoʊn/",
+      "examples": [
+        {
+          "en": "I'll postpone the raid until we get better equipment.",
+          "ja": "より良い装備を入手するまで、レイドを延期します。",
+          "ipa": "/aɪl ˌpoʊstˈpoʊn ðə reɪd ənˈtɪl wi ɡɛt ˈbɛtɚ ɪˈkwɪpmənt/",
+          "linking": [
+            "I'll → 縮約形 /aɪl/ (I will)、postpone に続く",
+            "postpone の語末子音 /n/ が the に未開放で続く [ˌpoʊstˈpoʊn̚ ðə] ポウストポウン ザ",
+            "until は /ənˈtɪl/、we は弱形 /wi/ に続く",
+            "get の語末 /t/ が better に未開放で続く [ɡɛt̚ ˈbɛtɚ] ゲット ベター"
+          ],
+          "kana": "アイル ポウストポウン ザ レイド ァンティル ウィ ゲット ベター イクウィップメント"
+        },
+        {
+          "en": "The admin will postpone the server event if too many players are offline.",
+          "ja": "プレイヤーが多すぎてオフラインの場合、管理者がサーバーイベントを延期します。",
+          "ipa": "/ðə ˈædmɪn wɪl ˌpoʊstˈpoʊn ðə ˈsɝvɚ ɪˈvɛnt ɪf tu ˈmɛni ˈpleɪɚz ɑr ˈɔflaɪn/",
+          "linking": [
+            "The は弱形 /ðə/、admin に続く",
+            "will → 弱形 /wɪl/、postpone に続く",
+            "postpone の語末子音 /n/ が the に未開放で続く [ˌpoʊstˈpoʊn̚ ðə] ポウストポウン ザ",
+            "players の語末 /z/ が are に子音+子音で続く [ˈpleɪɚz ɑr] プレイヤーズ アー"
+          ],
+          "kana": "ザ アドミン ウィル ポウストポウン ザ サーバー イベント イフ トゥー メニー プレイヤーズ アー オフライン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be postponing",
+      "ipa": "/wɪl bi ˌpoʊstˈpoʊnɪŋ/",
+      "examples": [
+        {
+          "en": "She'll be postponing the construction project because she's gathering resources.",
+          "ja": "資源を集めているため、彼女は建設プロジェクトを延期しているでしょう。",
+          "ipa": "/ʃil bi ˌpoʊstˈpoʊnɪŋ ðə kənˈstrʌkʃən ˈprɑdʒɛkt bɪˈkɔz ʃiz ˈɡæðərɪŋ ˈrɛsɔrsəz/",
+          "linking": [
+            "She'll → 縮約形 /ʃil/ (she will)、be に続く",
+            "be は /bi/、postponing に続く",
+            "postponing の語末 /ŋ/ が the に未開放で続く [ˌpoʊstˈpoʊnɪŋ̚ ðə] ポウストポウニング ザ",
+            "because の語末 /z/ が she に子音+子音で続く [bɪˈkɔz ʃiz] ビコーズ シーズ"
+          ],
+          "kana": "シル ビー ポウストポウニング ザ コンストラクション プロジェクト ビコーズ シーズ ギャザリング レソーシーズ"
+        },
+        {
+          "en": "They'll be postponing the nether expedition when I join the server next week.",
+          "ja": "来週私がサーバーに参加したとき、彼らはネザー遠征を延期しているでしょう。",
+          "ipa": "/ðeɪl bi ˌpoʊstˈpoʊnɪŋ ðə ˈnɛðɚ ˌɛkspəˈdɪʃən wɛn aɪ dʒɔɪn ðə ˈsɝvɚ nɛkst wik/",
+          "linking": [
+            "They'll → 縮約形 /ðeɪl/ (they will)、be に続く",
+            "be は /bi/、postponing に続く",
+            "postponing の語末 /ŋ/ が the に未開放で続く [ˌpoʊstˈpoʊnɪŋ̚ ðə] ポウストポウニング ザ",
+            "when の語末 /n/ が I に子音+母音で連結 [wɛn aɪ] ウェン アイ"
+          ],
+          "kana": "ゼイル ビー ポウストポウニング ザ ネザー エクスペディション ウェン アイ ジョイン ザ サーバー ネクスト ウィック"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have postponed",
+      "ipa": "/wɪl əv ˌpoʊstˈpoʊnd/",
+      "examples": [
+        {
+          "en": "By next month, we will have postponed the final raid three times.",
+          "ja": "来月までに、最終レイドを3回延期していることになります。",
+          "ipa": "/baɪ nɛkst mʌnθ | wi wɪl əv ˌpoʊstˈpoʊnd ðə ˈfaɪnəl reɪd ˈθri taɪmz/",
+          "linking": [
+            "next → /nɛkst/、month → /mʌnθ/ に子音+子音で続く [nɛkst mʌnθ] ネクスト マンス",
+            "We は弱形 /wi/、will に続く",
+            "will は /wɪl/、have は弱形 /əv/ に続く [wɪl əv] ウィル アヴ",
+            "postponed の語末子音 /d/ が the に未開放で続く [ˌpoʊstˈpoʊnd̚ ðə] ポウストポウンド ザ"
+          ],
+          "kana": "バイ ネクスト マンス、ウィ ウィル アヴ ポウストポウンド ザ ファイナル レイド スリー タイムズ"
+        },
+        {
+          "en": "He will have postponed the base expansion project by the time the new update releases.",
+          "ja": "新しいアップデートがリリースされるまでに、彼は基地拡張プロジェクトを延期していることになります。",
+          "ipa": "/hi wɪl əv ˌpoʊstˈpoʊnd ðə ˈbeɪs ɪkˈspænʃən ˈprɑdʒɛkt baɪ ðə taɪm ðə ˈnjuː ˈʌpˌdeɪt rɪˈlisɪz/",
+          "linking": [
+            "He は弱形 /hi/、will に続く",
+            "will は /wɪl/、have は弱形 /əv/ に続く [wɪl əv] ウィル アヴ",
+            "postponed の語末子音 /d/ が the に未開放で続く [ˌpoʊstˈpoʊnd̚ ðə] ポウストポウンド ザ",
+            "by → /baɪ/、the は弱形 /ðə/ に続く [baɪ ðə] バイ ザ"
+          ],
+          "kana": "ヒ ウィル アヴ ポウストポウンド ザ ベース イクスパンション プロジェクト バイ ザ タイム ザ ニュー アップデイト リリーシズ"
+        }
+      ]
     }
   ],
   "tags": [
