@@ -210,6 +210,206 @@
           "kana": "ウィ アー カンファイニング アワー エクスパンション プランズ トゥ ザ イースターン サイド オブ ザ コンティネント"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has confined",
+      "ipa": "/həz kənˈfaɪnd/",
+      "examples": [
+        {
+          "en": "He has confined his experiments to the creative mode laboratory for weeks.",
+          "ja": "彼は数週間にわたってクリエイティブモードの研究室に実験を限定してきた。",
+          "ipa": "[hi həz̚ kənˈfaɪnd hɪz ɪkˈspɛɹɪmənts tu ðə kriˈeɪtɪv ˈmoʊd ˌlæbəˈɹætoʊri fɚ ˈwiːks]",
+          "linking": [
+            "has の語末 /z/ が confined の /k/ に未開放 [həz̚ kənˈfaɪnd]",
+            "confined his → 語末 /d/ が his の /h/ に未開放 [kənˈfaɪnd hɪz]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/",
+            "laboratory の r はフラップ化 [ˌlæbəˈɹætoʊri]"
+          ],
+          "kana": "ヒ ハズ カンファインド ヒズ イクスペリメンツ トゥ ザ クリエイティヴ モード ラボラトリー ファー ウィークス"
+        },
+        {
+          "en": "Players have confined their builds within the claimed territory to prevent conflicts.",
+          "ja": "プレイヤーたちは紛争を防ぐために彼らの建造物を領土内に限定してきた。",
+          "ipa": "[ˈpleɪɚz həv̚ kənˈfaɪnd ðɛɹ ˈbɪldz wɪðɪn ðə ˈkleɪmd ˈtɛɹətɔri tu prɪˈvɛnt ˈkɑnflɪkts]",
+          "linking": [
+            "Players の語末 /z/ が have の /h/ に未開放 [ˈpleɪɚz̚ həv]",
+            "have の語末 /v/ が confined の /k/ に未開放 [həv̚ kənˈfaɪnd]",
+            "confined their → 語末 /d/ が their の /ð/ に未開放 [kənˈfaɪnd ðɛɹ]",
+            "within its → within は弱形 /wɪðɪn/、its は弱形 /ɪts/",
+            "to prevent → to は弱形 /tə/"
+          ],
+          "kana": "プレイアーズ ハヴ カンファインド ザェア ビルズ ウィジン ザ クレイムド テリトリー トゥ プリヴェント コンフリクツ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had confined",
+      "ipa": "/həd kənˈfaɪnd/",
+      "examples": [
+        {
+          "en": "By the time the raid started, they had confined their valuable items to a secure vault.",
+          "ja": "レイドが始まるまでに、彼らは貴重なアイテムをセキュアなボルトに限定して置いていた。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈreɪd ˈstɑɹtɪd ðeɪ həd̚ kənˈfaɪnd ðɛɹ ˈvæljuəbəl ˈaɪtəmz tu ə sɪˈkjʊɹ ˈvɔlt]",
+          "linking": [
+            "by the → by の語末 /i/ が the の /ð/ に未開放 [baɪ̚ ðə]",
+            "time の語末 /m/ が they の /ð/ に未開放 [ˈtaɪm̚ ðeɪ]",
+            "had の語末 /d/ が confined の /k/ に未開放 [həd̚ kənˈfaɪnd]",
+            "to a → to は弱形 /tə/、a は弱形 /ə/"
+          ],
+          "kana": "バイ ザ タイム ザ レイド スターティッド ザイ ハド カンファインド ザェア ヴァリュアブル アイテムズ トゥ ア シキュアー ヴォルト"
+        },
+        {
+          "en": "After the server reset, we discovered that the admin had confined the old world to an archive.",
+          "ja": "サーバーリセット後、管理者が旧ワールドをアーカイブに限定していたことを発見した。",
+          "ipa": "[ˈæftɚ ðə ˈsɝvɚ ˈɹiːsɛt wi dɪsˈkʌvɚd ðæt ðə ˈædmɪn həd̚ kənˈfaɪnd ðə oʊld ˈwɝld tu ən ˈɑɹˌkaɪv]",
+          "linking": [
+            "After の r はフラップ化 [ˈæftɚ]",
+            "the admin → the は弱形 /ðə/、admin の d は /ðə/ に未開放 [ðə ˈædmɪn]",
+            "admin had → 語末 /n/ が had の /h/ に未開放 [ˈædmɪn̚ həd]",
+            "had の語末 /d/ が confined の /k/ に未開放 [həd̚ kənˈfaɪnd]",
+            "to an → to は弱形 /tə/、an は弱形 /ən/"
+          ],
+          "kana": "アフター ザ サーヴァー リーセット ウィ ディスカヴァード ザット ザ アドミン ハド カンファインド ザ オウルド ワールド トゥ アン アーカイヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been confining",
+      "ipa": "/həz bɪn kənˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "She has been confining her construction to the perimeter walls for the entire project.",
+          "ja": "彼女はプロジェクト全体を通じて建設をペリメーター壁に限定し続けている。",
+          "ipa": "[ʃi həz̚ bɪn kənˈfaɪnɪŋ hɚ kənˈstɹʌkʃən tu ðə pəˈɹɪmətɚ ˈwɔlz fɚ ðə ɪnˈtaɪɚ ˈpɹɑdʒɛkt]",
+          "linking": [
+            "has の語末 /z/ が been の /b/ に未開放 [həz̚ bɪn]",
+            "been の語末 /n/ が confining の /k/ に未開放（鼻音）[bɪn kənˈfaɪnɪŋ]",
+            "confining her → 語末 /ŋ/ が her の /h/ に未開放（鼻音）[kənˈfaɪnɪŋ hɚ]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/",
+            "perimeter の r はフラップ化 [pəˈɹɪmətɚ]"
+          ],
+          "kana": "シ ハズ ビン カンファイニング ハー コンストラクション トゥ ザ パリメター ウォールズ ファー ザ インタイアー プラジェクト"
+        },
+        {
+          "en": "The server rules have been confining player interactions to the designated zones since the update.",
+          "ja": "アップデート以来、サーバールールはプレイヤーの相互作用を指定ゾーンに限定し続けている。",
+          "ipa": "[ðə ˈsɝvɚ ˈɹulz həv bɪn kənˈfaɪnɪŋ ˈpleɪɚ ɪnˌtɛɹˈækʃənz tu ðə ˈdɛzɪɡˌneɪtɪd ˈzoʊnz sɪns ðə ˈʌpˌdeɪt]",
+          "linking": [
+            "rules の語末 /z/ が have の /h/ に未開放 [ˈɹulz̚ həv]",
+            "have の語末 /v/ が been の /b/ に未開放 [həv bɪn]",
+            "been の語末 /n/ が confining の /k/ に未開放（鼻音）[bɪn kənˈfaɪnɪŋ]",
+            "confining player → 語末 /ŋ/ が player の /p/ に未開放（鼻音）[kənˈfaɪnɪŋ ˈpleɪɚ]",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/",
+            "since the → since の s が未開放で続く"
+          ],
+          "kana": "ザ サーヴァー ルールズ ハヴ ビン カンファイニング プレイアー インタラクションズ トゥ ザ デジグネイティド ゾーンズ シンス ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is confining",
+      "ipa": "/ɪz kənˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The stone walls are confining the mobs within the arena so they can't escape.",
+          "ja": "石の壁がアリーナ内のモブを閉じ込めているので、逃げられません。",
+          "ipa": "/ðə ˈstoʊn wɔlz ɑr kənˈfaɪnɪŋ ðə moʊbz wɪðɪn ðə əˈriːnə soʊ ðeɪ kænt ɪˈskeɪp/",
+          "linking": [
+            "walls are → 語末 /z/ が母音 /ɑ/ に連結 [wɔlz ɑr] ウォールズ アー",
+            "are confining → 語末 /r/ が母音 /k/ に連結 [ɑr kənˈfaɪnɪŋ] アー カンファイニング",
+            "within the → within は弱形 /wɪðɪn/、the は弱形 /ðə/",
+            "can't は /kænt/"
+          ],
+          "kana": "ザ ストウン ウォールズ アー カンファイニング ザ モウブズ ウィジン ザ アリーナ ソウ ザイ キャント イスケイプ"
+        },
+        {
+          "en": "I am confining my base construction to this small island for better defense.",
+          "ja": "より良い防御のために、基地の建設をこの小さな島に限定しています。",
+          "ipa": "/aɪ əm kənˈfaɪnɪŋ maɪ ˈbeɪs kənˈstɹʌkʃən tu ðɪs smɔl ˈaɪlənd fɚ ˈbɛtɚ dɪˈfɛns/",
+          "linking": [
+            "am confining → 語末 /m/ が confining の /k/ に鼻音連結 [əm kənˈfaɪnɪŋ] アム カンファイニング",
+            "confining my → 語末 /ŋ/ が my の /m/ に鼻音連結 [kənˈfaɪnɪŋ maɪ] カンファイニング マイ",
+            "to this → to は弱形 /tə/",
+            "for better → for は弱形 /fɚ/"
+          ],
+          "kana": "アイ アム カンファイニング マイ ベイス コンストラクション トゥ ディス スモール アイランド ファー ベター ディフェンス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was confining",
+      "ipa": "/wəz kənˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We were confining the creepers with barriers while building the fortress entrance.",
+          "ja": "要塞の入り口を建設している間、クリーパーを障壁で閉じ込めていました。",
+          "ipa": "/wi wɚ kənˈfaɪnɪŋ ðə ˈkɹipɚz wɪð ˈbæɹiɚz waɪl ˈbɪldɪŋ ðə ˈfɔːɹtɚs ˈɛntɹəns/",
+          "linking": [
+            "were confining → 語末 /r/ が confining の /k/ に連結 [wɚ kənˈfaɪnɪŋ] ワー カンファイニング",
+            "confining the → 語末 /ŋ/ が the の /ð/ に続く、the は弱形 /ðə/",
+            "with barriers → with は弱形 /wɪð/",
+            "while building → 語末 /l/ が building の /b/ に続く"
+          ],
+          "kana": "ウィ ワー カンファイニング ザ クリーパーズ ウィズ バリアーズ ホワイル ビルディング ザ フォーティス エントランス"
+        },
+        {
+          "en": "The emergency redstone trap was confining the Ender Dragon to the central platform.",
+          "ja": "緊急レッドストーン罠がエンダードラゴンを中央プラットフォームに閉じ込めていました。",
+          "ipa": "/ðə ɪˈmɝdʒənsi ˈɹɛdˌstoʊn ˈtɹæp wəz kənˈfaɪnɪŋ ðə ˈɛndɚ ˈdɹæɡən tu ðə ˈsɛntɹəl ˈplætˌfɔɹm/",
+          "linking": [
+            "emergency の r はフラップ化 [ɪˈmɝdʒənsi]",
+            "trap was → 語末 /p/ が was の /w/ に続く（consonant+consonant、連結なし）",
+            "was confining → 語末 /z/ が confining の /k/ に未開放 [wəz̚ kənˈfaɪnɪŋ] ワズ カンファイニング",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ イマージェンシー レッドストーン トラップ ワズ カンファイニング ザ エンダー ドラゴン トゥ ザ セントラル プラットフォーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been confining",
+      "ipa": "/həd bɪn kənˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We had been confining our mining operations to the safe zone before the expansion began.",
+          "ja": "拡張が始まる前に、採掘作業を安全ゾーンに限定し続けていました。",
+          "ipa": "/wi həd bɪn kənˈfaɪnɪŋ ˈaʊɚ ˈmaɪnɪŋ ˌɑpəˈɹeɪʃənz tu ðə ˈseɪf zoʊn bɪˈfɔɹ ðə ɪkˈspænʃən bɪˈɡæn/",
+          "linking": [
+            "had been → 語末 /d/ が been の /b/ に未開放 [həd̚ bɪn] ハド ビン",
+            "been confining → 語末 /n/ が confining の /k/ に鼻音連結 [bɪn kənˈfaɪnɪŋ] ビン カンファイニング",
+            "confining our → 語末 /ŋ/ が our の /aʊ/ に鼻音連結 [kənˈfaɪnɪŋ aʊɚ] カンファイニング アワー",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/",
+            "before の r はフラップ化 [bɪˈfɔɹ]"
+          ],
+          "kana": "ウィ ハド ビン カンファイニング アワー マイニング オペレーションズ トゥ ザ セイフ ゾーン ビフォア ザ エクスパンション ビギャン"
+        },
+        {
+          "en": "The fortress had been confining all players to the central plaza for security purposes.",
+          "ja": "セキュリティの目的で、要塞がすべてのプレイヤーを中央広場に閉じ込め続けていました。",
+          "ipa": "/ðə ˈfɔːɹtɚs həd bɪn kənˈfaɪnɪŋ ɔl ˈpleɪɚz tu ðə ˈsɛntɹəl ˈplæzə fɚ sɪˈkjʊɹəti ˈpɝpəsɪz/",
+          "linking": [
+            "fortress の r はフラップ化 [ˈfɔːɹtɚs]",
+            "fortress had → 語末 /s/ が had の /h/ に未開放 [ˈfɔːɹtɚs̚ həd]",
+            "had been → 語末 /d/ が been の /b/ に未開放 [həd̚ bɪn] ハド ビン",
+            "been confining → 語末 /n/ が confining の /k/ に鼻音連結 [bɪn kənˈfaɪnɪŋ] ビン カンファイニング",
+            "confining all → 語末 /ŋ/ が all の /ɔ/ に鼻音連結 [kənˈfaɪnɪŋ ɔl] カンファイニング オール",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ フォーティス ハド ビン カンファイニング オール プレイアーズ トゥ ザ セントラル プラザ ファー シキュアリティ パーパセズ"
+        }
+      ]
     }
   ],
   "tags": [
