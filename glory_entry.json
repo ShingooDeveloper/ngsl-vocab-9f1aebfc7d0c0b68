@@ -211,6 +211,103 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is glorying",
+      "ipa": "/ɪz ˈɡlɔriɪŋ/",
+      "examples": [
+        {
+          "en": "She is glorying in her newly completed redstone computer that finally works perfectly.",
+          "ja": "彼女は完成したばかりの彼女のレッドストーンコンピューターが完璧に機能することに浸っている。",
+          "ipa": "[ʃi ɪz̚ ˈɡlɔriɪŋ̚ ɪn hɚ ˈnuli kəmˈpliːtɪd ˈɹɛdˌstoʊn kəmˈpjuːtɚ ðæt̚ ˈfaɪnəli ˈwɝks ˈpɝfɪktli]",
+          "linking": [
+            "is は機能語で弱形 /ɪz/",
+            "is の語末 /z/ が glorying の /ɡ/ に未開放 [ɪz̚ ˈɡlɔriɪŋ]",
+            "glorying の語末 /ŋ/ が in の /ɪ/ に未開放（鼻音）",
+            "that の語末 /t/ が finally の /f/ に未開放 [ðæt̚ ˈfaɪnəli]"
+          ],
+          "kana": "シ イズ グロー リーイング イン ハー ニューリー コムプリーティッド レッド ストーン コムピューター ザッ ファイナリー ワークス パーフェクトリー"
+        },
+        {
+          "en": "Players are glorying over their successful conquest of the Nether fortress this season.",
+          "ja": "プレイヤーたちは今シーズンのネザーの砦への成功した征服に浸っている。",
+          "ipa": "[ˈpleɪɚz ɑɹ̚ ˈɡlɔriɪŋ̚ ˈoʊvɚ ðɛɹ səkˈsɛsfəl ˈkɑŋkwɛst əv ðə ˈnɛðɚ ˈfɔɹtɪs ðɪs ˈsiːzən]",
+          "linking": [
+            "Players の語末 /z/ が are の /ɑ/ に連結 [ˈpleɪɚz ɑɹ]",
+            "are の語末 /ɹ/ が glorying の /ɡ/ に未開放 [ɑɹ̚ ˈɡlɔriɪŋ]",
+            "glorying の語末 /ŋ/ が over の /oʊ/ に未開放（鼻音）",
+            "of は弱形 /əv/"
+          ],
+          "kana": "プレイアーズ アール グロー リーイング オー ヴァー ザェア サクセスフル コング クウェスト アヴ ザ ネザー フォー ティス ディス シーズン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was glorying",
+      "ipa": "/wəz ˈɡlɔriɪŋ/",
+      "examples": [
+        {
+          "en": "He was glorying in his victory when a creeper suddenly appeared and ruined everything.",
+          "ja": "彼は彼の勝利に浸っていたときに、クリーパーが突然現れて全てを台無しにした。",
+          "ipa": "[hi wəz̚ ˈɡlɔriɪŋ̚ ɪn hɪz ˈvɪktəri wɛn̚ ə ˈkɹiːpɚ ˈsʌdənli əˈpɪɹd ən ˈɹuːɪnd ˈɛvrɪθɪŋ]",
+          "linking": [
+            "was は機能語で弱形 /wəz/",
+            "was の語末 /z/ が glorying の /ɡ/ に未開放 [wəz̚ ˈɡlɔriɪŋ]",
+            "glorying の語末 /ŋ/ が in の /ɪ/ に未開放（鼻音）",
+            "when の語末 /n/ が a の /ə/ に未開放 [wɛn̚ ə]"
+          ],
+          "kana": "ヒ ワズ グロー リーイング イン ヒズ ヴィクトリー ウェン ア クリーパー サドゥンリー ア ピアード アン ルーインド エヴリシング"
+        },
+        {
+          "en": "The team was glorying over their hard-won achievement when the server crashed.",
+          "ja": "チームは彼らの困難を極めた成就に浸っていたときに、サーバーがクラッシュした。",
+          "ipa": "[ðə ˈtim wəz̚ ˈɡlɔriɪŋ̚ ˈoʊvɚ ðɛɹ ˈhɑɹd ˈwʌn əˈtʃiːvmənt wɛn̚ ðə ˈsɝvɚ kræʃt]",
+          "linking": [
+            "The は弱形 /ðə/",
+            "was は機能語で弱形 /wəz/",
+            "was の語末 /z/ が glorying の /ɡ/ に未開放 [wəz̚ ˈɡlɔriɪŋ]",
+            "glorying の語末 /ŋ/ が over の /oʊ/ に未開放（鼻音）",
+            "when の語末 /n/ が the の /ðə/ に未開放 [wɛn̚ ðə]"
+          ],
+          "kana": "ザ ティーム ワズ グロー リーイング オー ヴァー ザェア ハード ワン ア チーヴメント ウェン ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been glorying",
+      "ipa": "/həd bɪn ˈɡlɔriɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the raid ended, they had been glorying in their success for over an hour.",
+          "ja": "レイドが終わるまでに、彼らは1時間以上にわたって彼らの成功に浸っていた。",
+          "ipa": "[baɪ ðə ˈtaɪm̚ ðə ˈreɪd ˈɛndɪd̚ ðeɪ həd̚ bɪn ˈɡlɔriɪŋ̚ ɪn ðɛɹ səkˈsɛs fɚ ˈoʊvɚ ən ˈaʊɚ]",
+          "linking": [
+            "time の語末 /m/ が the の /ðə/ に未開放 [ˈtaɪm̚ ðə]",
+            "ended の語末 /d/ が they の /ð/ に未開放 [ˈɛndɪd̚ ðeɪ]",
+            "had は機能語で弱形 /həd/、語末 /d/ が been の /b/ に未開放 [həd̚ bɪn]",
+            "been は弱形 /bɪn/、語末 /n/ が glorying の /ɡ/ に未開放（鼻音）"
+          ],
+          "kana": "バイ ザ タイム ザ レイド エンディッド ザイ ハド ビン グロー リーイング イン ザェア サクセス ファー オー ヴァー アン アワー"
+        },
+        {
+          "en": "She had been glorying in her masterpiece for weeks before she decided to move on to a new project.",
+          "ja": "彼女が新しいプロジェクトに移行することを決める前に、彼女は数週間にわたって彼女の傑作に浸っていた。",
+          "ipa": "[ʃi həd̚ bɪn ˈɡlɔriɪŋ̚ ɪn hɚ ˈmæstɚˌpis fɚ ˈwiːks bɪˈfɔɹ ʃi dɪˈsaɪdɪd tə muːv ɑn tə ə ˈnu ˈprɑdʒɛkt]",
+          "linking": [
+            "She の語末 /i/ が had の /h/ に未開放 [ʃi̚ həd]",
+            "had は機能語で弱形 /həd/、語末 /d/ が been の /b/ に未開放 [həd̚ bɪn]",
+            "been は弱形 /bɪn/、語末 /n/ が glorying の /ɡ/ に未開放（鼻音）",
+            "masterpiece の r はフラップ化 [ˈmæstɚˌpis]、for は弱形 /fɚ/"
+          ],
+          "kana": "シ ハド ビン グロー リーイング イン ハー マスターピース ファー ウィークス ビ フォア シ ディ サイディッド タ ムーヴ アン タ ア ニュー プラジェクト"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has gloried",
