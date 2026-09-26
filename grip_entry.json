@@ -80,6 +80,98 @@
   ],
   "forms": [
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is gripping",
+      "ipa": "/ɪz ˈɡrɪpɪŋ/",
+      "examples": [
+        {
+          "en": "The player is gripping the sword tightly during the battle.",
+          "ja": "プレイヤーは戦闘中、剣をしっかり握っています。",
+          "ipa": "/ðə ˈpleɪər ɪz ˈɡrɪpɪŋ ðə ˈsɔːrd ˈtaɪtli ˈdʊrɪŋ ðə ˈbætəl/",
+          "linking": [
+            "The (1st) → 弱形 /ðə/",
+            "is → 弱形 /ɪz/（助動詞）",
+            "battle → 語中の /t/ が母音に挟まれフラップ化 [ˈbæɾəl]"
+          ],
+          "kana": "ザ プレイアー イズ グリッピング ザ ソード タイットリー デューリング ザ バーラル"
+        },
+        {
+          "en": "She is gripping the rope as she climbs up the tower.",
+          "ja": "彼女は塔を登りながら、ロープをしっかり握っています。",
+          "ipa": "/ʃi ɪz ˈɡrɪpɪŋ ðə ˈroʊp æz ʃi ˈklaɪmz ʌp ðə ˈtaʊər/",
+          "linking": [
+            "is → 弱形 /ɪz/（助動詞）",
+            "the (1st) → 弱形 /ðə/",
+            "the (2nd) → 弱形 /ðə/"
+          ],
+          "kana": "シー イズ グリッピング ザ ロープ アズ シー クライムス アップ ザ タウアー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was gripping",
+      "ipa": "/wəz ˈɡrɪpɪŋ/",
+      "examples": [
+        {
+          "en": "I was gripping the ladder when the creeper appeared nearby.",
+          "ja": "クリーパーが近くに現れたとき、私ははしごをしっかり握っていました。",
+          "ipa": "/aɪ wəz ˈɡrɪpɪŋ ðə ˈlædər wɛn ðə ˈkriːpər əˈpɪrd ˈnaɪrbaɪ/",
+          "linking": [
+            "was → 弱形 /wəz/（助動詞）",
+            "the (1st) → 弱形 /ðə/",
+            "ladder → 語中の /d/ が母音に挟まれフラップ化 [ˈlæɾər]"
+          ],
+          "kana": "アイ ワズ グリッピング ザ ラーラー ウェン ザ クリーパー ア-ピアード ナイアーバイ"
+        },
+        {
+          "en": "They were gripping their swords while defending the village from mobs.",
+          "ja": "彼らはモブから村を守るために、剣をしっかり握っていました。",
+          "ipa": "/ðeɪ wɚ ˈɡrɪpɪŋ ðɛr ˈsɔːrdz ˈwaɪl dɪˈfɛndɪŋ ðə ˈvɪlɪdʒ frəm ˈmoʊbz/",
+          "linking": [
+            "were → 弱形 /wɚ/（助動詞）",
+            "the → 弱形 /ðə/",
+            "from → 弱形 /frəm/"
+          ],
+          "kana": "ザイ ワー グリッピング ゼア ソードス ワイル ディ-フェンディング ザ ビリッジ フラム モウブス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been gripping",
+      "ipa": "/həd bɪn ˈɡrɪpɪŋ/",
+      "examples": [
+        {
+          "en": "He had been gripping the pickaxe for hours before finding the diamonds.",
+          "ja": "ダイヤモンドを見つける前に、彼は数時間つるはしをしっかり握っていました。",
+          "ipa": "/hi həd bɪn ˈɡrɪpɪŋ ðə ˈpɪkæks fɚ ˈaʊərz bɪˈfɔːr ˈfaɪndɪŋ ðə ˈdaɪməndz/",
+          "linking": [
+            "had → 弱形 /həd/（助動詞）",
+            "been → 弱形 /bɪn/",
+            "the (1st) → 弱形 /ðə/",
+            "the (2nd) → 弱形 /ðə/"
+          ],
+          "kana": "ヒー ハド ビン グリッピング ザ ピックアックス ファー アウアーズ ビ-フォアー ファインディング ザ ダイマンドス"
+        },
+        {
+          "en": "They had been gripping their weapons throughout the entire battle.",
+          "ja": "彼らは戦闘全体を通して、武器をしっかり握っていました。",
+          "ipa": "/ðeɪ həd bɪn ˈɡrɪpɪŋ ðɛr ˈwɛpənz θruːˈaʊt ðə ənˈtaɪər ˈbætəl/",
+          "linking": [
+            "had → 弱形 /həd/（助動詞）",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/",
+            "battle → 語中の /t/ が母音に挟まれフラップ化 [ˈbæɾəl]"
+          ],
+          "kana": "ザイ ハド ビン グリッピング ゼア ウェパンズ スルーアウト ザ エン-タイアー バーラル"
+        }
+      ]
+    },
+    {
       "type": "plural",
       "label": "複数形",
       "text": "grips",
@@ -304,6 +396,99 @@
             "for → 機能語は弱形 /fər/ に弱化"
           ],
           "kana": "アイ ハヴ ビン グリッピング ディス ロープ ファー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will grip",
+      "ipa": "/wɪl ɡrɪp/",
+      "examples": [
+        {
+          "en": "I'll grip the sword when the battle starts.",
+          "ja": "戦闘が始まるとき、私は剣を握ります。",
+          "ipa": "/aɪl ɡrɪp ðə ˈsɔrd wɛn ðə ˈbætəl ˈstɑrts/",
+          "linking": [
+            "I'll → will の縮約 /aɪl/",
+            "the → 機能語は弱形 /ðə/ に弱化（複数出現）",
+            "battle → 語中の /t/ が母音に挟まれフラップ化 [ˈbæɾəl] バーラル"
+          ],
+          "kana": "アイル グリップ ザ ソード ウェン ザ バーラル スターツ"
+        },
+        {
+          "en": "You'll grip the rope to climb the tower.",
+          "ja": "塔に登るためにロープを握ります。",
+          "ipa": "/juːl ɡrɪp ðə ˈroʊp tə ˈklaɪm ðə ˈtaʊər/",
+          "linking": [
+            "You'll → will の縮約 /juːl/",
+            "rope to → 語末子音 /p/ が弱形 /ə/ に連結 [ˈroʊpə] ロープア",
+            "to → 機能語は弱形 /tə/ に弱化",
+            "the → 機能語は弱形 /ðə/ に弱化"
+          ],
+          "kana": "ユール グリップ ザ ロープア クライム ザ タウアー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be gripping",
+      "ipa": "/wɪl bi ˈɡrɪpɪŋ/",
+      "examples": [
+        {
+          "en": "The player will be gripping the pickaxe when mining starts.",
+          "ja": "採掘が始まるとき、プレイヤーはツルハシを握っています。",
+          "ipa": "/ðə ˈpleɪər wɪl bə ˈɡrɪpɪŋ ðə ˈpɪkæks wɛn ˈmaɪnɪŋ ˈstɑrts/",
+          "linking": [
+            "the → 機能語は弱形 /ðə/ に弱化",
+            "will be → will /wɪl/ + be の弱形 /bə/",
+            "the pickaxe → 機能語 /ðə/ は弱化。pickaxe は /ˈpɪkæks/"
+          ],
+          "kana": "ザ プレイアー ウィル バ グリッピング ザ ピックアックス ウェン マイニング スターツ"
+        },
+        {
+          "en": "I'll be gripping the sword until the creeper appears.",
+          "ja": "クリーパーが現れるまで、私は剣を握っています。",
+          "ipa": "/aɪl bə ˈɡrɪpɪŋ ðə ˈsɔrd ənˈtɪl ðə ˈkripər əˈpɪrz/",
+          "linking": [
+            "I'll → will の縮約 /aɪl/",
+            "be → 助動詞は弱形 /bə/ に弱化",
+            "the → 機能語は弱形 /ðə/ に弱化（複数出現）",
+            "until → 弱形は /ənˈtɪl/ で機能語の /ə/ が先行"
+          ],
+          "kana": "アイル バ グリッピング ザ ソード アン-ティル ザ クリーパー ア-ピアーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have gripped",
+      "ipa": "/wɪl həv ɡrɪpt/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I'll have gripped the rope and reached the top.",
+          "ja": "あなたが到着する時間までに、私はロープを握ってすでに頂上に到達しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm juː əˈraɪv aɪl əv ɡrɪpt ðə ˈroʊp ənd ˈritʃt ðə ˈtɑp/",
+          "linking": [
+            "I'll have → will の縮約 /aɪl/ + have の弱形 /əv/",
+            "the → 機能語は弱形 /ðə/ に弱化（複数出現）",
+            "rope and → 語末子音 /p/ が弱形 /ə/ に連結 [ˈroʊpənd] ロープアンド"
+          ],
+          "kana": "バイ ザ タイム ユー ア-ライヴ アイル アヴ グリップット ザ ロープアンド リーチット ザ タップ"
+        },
+        {
+          "en": "They'll have gripped the shield before the enderman attacks.",
+          "ja": "エンダーマンが攻撃する前に、彼らは盾を握っているでしょう。",
+          "ipa": "/ðeɪl əv ɡrɪpt ðə ˈʃild bɪˈfɔr ðə ˈɛndərmən əˈtæks/",
+          "linking": [
+            "They'll → will の縮約 /ðeɪl/",
+            "have → 助動詞は弱形 /əv/ に弱化",
+            "the → 機能語は弱形 /ðə/ に弱化（複数出現）",
+            "enderman → 語末子音 /n/ が母音 /ə/ に連結 [ˈɛndərmən] エンダー-マン"
+          ],
+          "kana": "ザイル アヴ グリップット ザ シールド ビ-フォアー ザ エンダー-マン ア-タックス"
         }
       ]
     }
