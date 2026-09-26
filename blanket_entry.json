@@ -214,6 +214,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has blanketed",
+      "ipa": "/həz ˈblæŋkɪtəd/",
+      "examples": [
+        {
+          "en": "Snow has blanketed the entire landscape before we finished building the cabin.",
+          "ja": "私たちが小屋の建設を終える前に、雪が風景全体を覆ってしまいました。",
+          "ipa": "/snoʊ həz ˈblæŋkɪtəd ðə ənˈtaɪɚ ˈlændˌskeɪp bɪˈfɔɹ wi ˈfɪnɪʃt ˈbɪldɪŋ ðə ˈkæbən/",
+          "linking": [
+            "has blanketed → 語末 /z/ が /b/ の前で子音-子音。hasは弱形 /həz/ [həz ˈblæŋkɪtəd]→「ハズ ブラングキラッド」",
+            "blanketed the → 語末 /d/ が弱形theの /ə/ に連結、flappingで [ˈblæŋkɪɾəd ðə]→「ブラングキラッド ザ」",
+            "the entire → theは弱形 /ðə/ [ðə ənˈtaɪɚ]→「ザ エンタイア」"
+          ],
+          "kana": "スノウ ハズ ブラングキラッド ザ エンタイア ランドスケイプ ビフォア ウィ フィニッシュト ビルディング ザ キャビン"
+        },
+        {
+          "en": "We have blanketed the cliff face with white concrete for extra protection from mobs.",
+          "ja": "モブからの追加の保護のため、私たちは白いコンクリートで崖の面を覆いました。",
+          "ipa": "/wi həv ˈblæŋkɪtəd ðə ˈklɪf feɪs wɪð waɪt ˈkɑnkɹiːt fɚ ˈɛkstrə prəˈtɛkʃən fɹəm moʊbz/",
+          "linking": [
+            "have blanketed → 語末 /v/ が /b/ の前で子音-子音。haveは弱形 /həv/ [həv ˈblæŋkɪtəd]→「ハヴ ブラングキラッド」",
+            "blanketed the → 語末 /d/ が弱形theの /ə/ に連結、flappingで [ˈblæŋkɪɾəd ðə]→「ブラングキラッド ザ」",
+            "for protection → forは弱形 /fɚ/ [fɚ prəˈtɛkʃən]→「ファー プロテクション」"
+          ],
+          "kana": "ウィ ハヴ ブラングキラッド ザ クリフ フェイス ウィズ ホワイト コンクリート ファー エクストラ プロテクション フラム モウブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had blanketed",
+      "ipa": "/həd ˈblæŋkɪtəd/",
+      "examples": [
+        {
+          "en": "The snow had blanketed the valley before we arrived at the snowy biome.",
+          "ja": "雪のバイオームに到着する前に、雪が谷を覆ってしまっていました。",
+          "ipa": "/ðə snoʊ həd ˈblæŋkɪtəd ðə ˈvæli bɪˈfɔɹ wi əˈraɪvd æt ðə ˈsnoʊi ˈbaɪoʊm/",
+          "linking": [
+            "had blanketed → 語末 /d/ が /b/ の前で子音-子音。hadは弱形 /həd/ [həd ˈblæŋkɪtəd]→「ハド ブラングキラッド」",
+            "blanketed the → 語末 /d/ が弱形theの /ə/ に連結、flappingで [ˈblæŋkɪɾəd ðə]→「ブラングキラッド ザ」",
+            "at the → 語末 /t/ が未開放となり [æt̚ ðə]→「アッ ザ」"
+          ],
+          "kana": "ザ スノウ ハド ブラングキラッド ザ バレイ ビフォア ウィ アライヴド アッ ザ スノウイー バイオーム"
+        },
+        {
+          "en": "By the time they discovered the dragon's lair, ash had blanketed the entire End dimension.",
+          "ja": "彼らがドラゴンの巣を発見する時点で、灰がエンドディメンション全体を覆ってしまっていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðeɪ dɪˈskʌvɚd ðə ˈdɹæɡənz lɛɹ æʃ həd ˈblæŋkɪtəd ðə ənˈtaɪɚ ˈɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "had blanketed → 語末 /d/ が /b/ の前で子音-子音。hadは弱形 /həd/ [həd ˈblæŋkɪtəd]→「ハド ブラングキラッド」",
+            "blanketed the → 語末 /d/ が弱形theの /ə/ に連結、flappingで [ˈblæŋkɪɾəd ðə]→「ブラングキラッド ザ」",
+            "the entire → theは弱形 /ðə/ [ðə ənˈtaɪɚ]→「ザ エンタイア」"
+          ],
+          "kana": "バイ ザ タイム ザイ ディスカヴァード ザ ドラゴンズ レアー アッシュ ハド ブラングキラッド ザ エンタイア エンド ディメンション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been blanketing",
+      "ipa": "/həz bɪn ˈblæŋkɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Snow has been blanketing the landscape throughout the entire night in the frozen biome.",
+          "ja": "凍った生物群系で、雪は一晩中、景観全体を覆い続けています。",
+          "ipa": "/snoʊ həz bɪn ˈblæŋkɪtɪŋ ðə ˈlændˌskeɪp θɹuːˈaʊt ðə ənˈtaɪɚ ˈnaɪt ɪn ðə ˈfroʊzən ˈbaɪoʊm/",
+          "linking": [
+            "has been → 語末 /z/ が /b/ の前で子音-子音。hasは弱形 /həz/ [həz bɪn]→「ハズ ビン」",
+            "been blanketing → 語末 /n/ が /b/ の前で子音-子音。beenは弱形 /bɪn/ [bɪn ˈblæŋkɪtɪŋ]→「ビン ブラングキティング」",
+            "the entire → theは弱形 /ðə/ [ðə ənˈtaɪɚ]→「ザ エンタイア」"
+          ],
+          "kana": "スノウ ハズ ビン ブラングキティング ザ ランドスケイプ スルーアウト ザ エンタイア ナイト イン ザ フローゼン バイオーム"
+        },
+        {
+          "en": "Darkness has been blanketing the Nether for hours since we entered the dimension.",
+          "ja": "私たちがディメンションに入ってから数時間、暗闇がネザーを覆い続けています。",
+          "ipa": "/ˈdɑɹknəs həz bɪn ˈblæŋkɪtɪŋ ðə ˈnɛðɚ fɚ ˈaʊɚz sɪns wi ˈɛntɚd ðə dɪˈmɛnʃən/",
+          "linking": [
+            "has been → 語末 /z/ が /b/ の前で子音-子音。hasは弱形 /həz/ [həz bɪn]→「ハズ ビン」",
+            "been blanketing → 語末 /n/ が /b/ の前で子音-子音。beenは弱形 /bɪn/ [bɪn ˈblæŋkɪtɪŋ]→「ビン ブラングキティング」",
+            "the Nether → theは弱形 /ðə/ [ðə ˈnɛðɚ]→「ザ ネザー」"
+          ],
+          "kana": "ダークネス ハズ ビン ブラングキティング ザ ネザー ファー アワーズ シンス ウィ エンタード ザ ディメンション"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is blanketing",
