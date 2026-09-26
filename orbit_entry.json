@@ -224,6 +224,107 @@
           "kana": "ザ ステーション イズ オービティング アース アット トレメンダス スピード、コンプリーティング ワン ロウテーション デイリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has orbited",
+      "ipa": "/hæz ˈɔrbɪtɪd/",
+      "examples": [
+        {
+          "en": "Mobs have orbited our base ever since sunset yesterday.",
+          "ja": "モブは昨日の日没以来、ずっと私たちの基地の周りを周回しています。",
+          "ipa": "/moʊbz həv ˈɔrbɪtɪd ˈaʊər beɪs ˈɛvər sɪns ˈsʌnˌsɛt ˈjɛstərˌdeɪ/",
+          "linking": [
+            "mobs の末尾 /z/ が have の /h/ に連結傾向（s→z化のまま、子音+子音）[moʊbz həv] モウブズ ハヴ。have は弱形 /həv/",
+            "have → 弱形 /həv/",
+            "orbited の末尾 /d/ が our の /aʊ/ に連結（語末子音が母音に連なる）[ˈɔrbɪtɪd ˈaʊər] オービティド アワー",
+            "base の末尾 /s/ が ever の /ɛ/ に連結（s→z化） [beɪs ˈɛvər] ベース エバー"
+          ],
+          "kana": "モウブズ ハヴ オービティド アワー ベース エバー シンス サンセット イェスタディー"
+        },
+        {
+          "en": "The dragon has orbited above the arena for several hours, searching for prey.",
+          "ja": "ドラゴンは数時間の間、競技場の上を周回しており、獲物を探しています。",
+          "ipa": "/ðə ˈdræɡən həz ˈɔrbɪtɪd əˈbʌv ðə əˈrinə fɔr ˈsɛvərəl ˈaʊərz | ˈsɝtʃɪŋ fɔr preɪ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "dragon の末尾 /n/ が has の /h/ に連結（語末子音が母音に連なる）[ˈdræɡən həz] ドラゴン ハズ。has は弱形 /həz/",
+            "has → 弱形 /həz/",
+            "orbited の末尾 /d/ が above の /ə/ に連結（語末子音が母音に連なる）[ˈɔrbɪtɪd əˈbʌv] オービティド ァバブ",
+            "the → 弱形 /ðə/",
+            "for → 弱形 /fɚ/"
+          ],
+          "kana": "ザ ドラゴン ハズ オービティド ァバブ ザ ァリーナ ファー セバラル アワーズ、サーチング ファー プレイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had orbited",
+      "ipa": "/hæd ˈɔrbɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the armor came off, the Wither had orbited the player for an entire battle.",
+          "ja": "鎧が外される前に、ウィザーはプレイヤーのために1つの戦闘全体の周りを周回していました。",
+          "ipa": "/bɪˈfɔr ðə ˈɑrmər keɪm ɔf | ðə ˈwɪðər həd ˈɔrbɪtɪd ðə ˈpleɪər fɔr ən ɪnˈtaɪɚ ˈbætəl/",
+          "linking": [
+            "before の末尾 /r/ が the の /ð/ に子音+子音で続く [bɪˈfɔr ðə] ビフォー ザ。the は弱形 /ðə/",
+            "the → 弱形 /ðə/",
+            "armor の末尾 /r/ が came の /k/ に連結（語末子音が母音に連なる）[ˈɑrmər keɪm] アーマー ケイム",
+            "came の末尾 /m/ が off の /ɑ/ に連結（語末子音が母音に連なる）[keɪm ɔf] ケイム アウフ",
+            "wither の末尾 /r/ が had の /h/ に連結（語末子音が母音に連なる）[ˈwɪðər həd] ウィザー ハド。had は弱形 /həd/"
+          ],
+          "kana": "ビフォー ザ アーマー ケイム アウフ、ザ ウィザー ハド オービティド ザ プレイヤー ファー ァン エンタイヤー バトル"
+        },
+        {
+          "en": "By the time we arrived, the satellite had already orbited over two thousand times.",
+          "ja": "私たちが到着した時点で、衛星はすでに2000回以上周回していました。",
+          "ipa": "/baɪ ðə taɪm wi əˈraɪvd | ðə ˈsætəlˌaɪt həd ɔlˈrɛdi ˈɔrbɪtɪd ˈoʊvər tu ˈθaʊzənd taɪmz/",
+          "linking": [
+            "by の末尾 /aɪ/ が the の /ð/ に母音+子音で続く [baɪ ðə] バイ ザ。the は弱形 /ðə/",
+            "the → 弱形 /ðə/",
+            "time の末尾 /m/ が we の /w/ に連結（語末子音が母音に連なる）[taɪm wi] タイム ウィー",
+            "satellite の末尾 /t/ が had の /h/ に未開放で連接 [ˈsætəlˌaɪt̚ həd] サテライト ハド。had は弱形 /həd/",
+            "orbited の末尾 /d/ が over の /oʊ/ に連結（語末子音が母音に連なる）[ˈɔrbɪtɪd ˈoʊvər] オービティド オウバー"
+          ],
+          "kana": "バイ ザ タイム ウィー ァライヴド、ザ サテライト ハド オールレディ オービティド オウバー トゥー サウザンド タイムズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been orbiting",
+      "ipa": "/hæz bɪn ˈɔrbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Those asteroids have been orbiting that region for millions of years, never colliding.",
+          "ja": "それらの小惑星は数百万年の間その領域を周回しており、決して衝突していません。",
+          "ipa": "/ðoʊz ˈæstəˌroɪdz həv bɪn ˈɔrbɪtɪŋ ðæt ˈridʒən fɔr ˈmɪljənz əv jɪrz | ˈnɛvər kəˈlaɪdɪŋ/",
+          "linking": [
+            "those の末尾 /z/ が asteroids の /ə/ に連結（語末子音が母音に連なる、s→z化）[ðoʊz ˈæstəˌroɪdz] ゾウズ アステロイズ",
+            "asteroids の末尾 /z/ が have の /h/ に子音+子音で続く [ˈæstəˌroɪdz həv] アステロイズ ハヴ。have は弱形 /həv/",
+            "have → 弱形 /həv/",
+            "been の末尾 /n/ が orbiting の /ɔ/ に連結（語末子音が母音に連なる）[bɪn ˈɔrbɪtɪŋ] ビン オービティング。been は弱形 /bɪn/"
+          ],
+          "kana": "ゾウズ アステロイズ ハヴ ビン オービティング ザット リージュン ファー ミリュンズ アヴ イヤーズ、ネバー コライディング"
+        },
+        {
+          "en": "The space station has been orbiting Earth continuously since its launch last month.",
+          "ja": "宇宙ステーションは先月の打ち上げ以来、地球を継続的に周回しています。",
+          "ipa": "/ðə ˈspeɪs ˈsteɪʃən həz bɪn ˈɔrbɪtɪŋ ɝθ kənˈtɪnjuəsli sɪns ɪts lɔntʃ læst mʌnθ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "station の末尾 /n/ が has の /h/ に連結（語末子音が母音に連なる）[ˈsteɪʃən həz] ステーション ハズ。has は弱形 /həz/",
+            "has → 弱形 /həz/",
+            "been の末尾 /n/ が orbiting の /ɔ/ に連結（語末子音が母音に連なる）[bɪn ˈɔrbɪtɪŋ] ビン オービティング。been は弱形 /bɪn/",
+            "since の末尾 /s/ が its の /ɪ/ に連結（s→z化） [sɪns ɪts] シンス イッツ"
+          ],
+          "kana": "ザ スペース ステーション ハズ ビン オービティング アース コンティニュアスリー シンス イッツ ローンチ ラスト マンス"
+        }
+      ]
     }
   ],
   "idioms": [],
