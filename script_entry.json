@@ -1,0 +1,425 @@
+{
+  "word": "script",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈskɹɪpt/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "script(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】舞台や映画の台本、脚本、スクリプト（a written text of a play, film, or broadcast）",
+    "【名詞】コンピュータのプログラム、スクリプト（a computer program or a sequence of commands）",
+    "【名詞】手書き、筆記体の文字（handwriting or a style of writing）",
+    "【動詞】(舞台や映画の)脚本を書く、スクリプトを作成する（to write a script for something）"
+  ],
+  "examples": [
+    {
+      "en": "The admin wrote a script to automate the daily server restart.",
+      "ja": "管理者は日次サーバー再起動を自動化するスクリプトを書きました。",
+      "ipa": "/ðə ˈædmɪn ˈɹoʊt ə ˈskɹɪpt tu ˌɔtəˈmeɪt ðə ˈdeɪli ˈsɝvɚ riˈstɑɹt/",
+      "linking": [
+        "the は弱形 /ðə/ ザ",
+        "to は弱形 /tə/ タ",
+        "daily の /ɪ/ が server の /s/ に連接"
+      ],
+      "kana": "ザ アドミン ロウト ア スクリプト タ オートメイト ザ デイリー サーバー リースターㇳ"
+    },
+    {
+      "en": "I memorized the shop script so I could trade without reading.",
+      "ja": "私は読まずにトレードできるようにショップスクリプトを暗記しました。",
+      "ipa": "/aɪ ˈmɛməˌɹaɪzd ðə ʃɑp ˈskɹɪpt soʊ aɪ ˈkʊd ˈtɹeɪd wɪðˈaʊt ˈɹɛdɪŋ/",
+      "linking": [
+        "the は弱形 /ðə/ ザ",
+        "script は /ˈskɹɪpt/ スクリプト",
+        "without は語末 /t/ が未開放"
+      ],
+      "kana": "アイ メモライズド ザ ショップ スクリプト ソウ アイ クッド トレイド ウィザウト レディング"
+    },
+    {
+      "en": "Everyone followed the survival script: gather wood, build shelter, hunt mobs.",
+      "ja": "みんなは生存スクリプトに従いました：木を集める、シェルターを建てる、モブを狩る。",
+      "ipa": "/ˈɛvriˌwʌn ˈfɑloʊd ðə sɚˈvaɪvəl ˈskɹɪpt ˈɡæðɚ ˈwʊd ˈbɪld ˈʃɛltɚ ˈhʌnt mɑbz/",
+      "linking": [
+        "the は弱形 /ðə/ ザ",
+        "survival の /l/ が script の /s/ に連接（子音+子音）",
+        "wood の /d/ と build の /b/ の間で未開放"
+      ],
+      "kana": "エブリワン ファロウド ザ サーバイヴァル スクリプト ギャザー ウッド ビルド シェルター ハント モブズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "follow the script",
+      "ja": "脚本の通りに進める、予定通りに進める",
+      "example": "The event didn't follow the script when the Warden appeared early.",
+      "example_ja": "ワーデンが早期に現れたとき、イベントは脚本通りに進みませんでした。",
+      "ipa": "/ðə iˈvɛnt ˈdɪdn̚t ˈfɑloʊ ðə ˈskɹɪpt wɛn ðə ˈwɔɹdn əˈpɪrd ˈɝli/",
+      "linking": [
+        "the は弱形 /ðə/ ザ",
+        "didn't の /t/ は未開放、follow の /f/ に連接しない",
+        "early は /ˈɝli/ アーリー"
+      ],
+      "kana": "ザ イベント ディドゥント ファロウ ザ スクリプト ウェン ザ ウォーデン ア ピアード アーリー"
+    },
+    {
+      "idiom": "stick to the script",
+      "ja": "脚本に従う、計画通りに進める",
+      "example": "We need to stick to the script if we want to win this PvP tournament.",
+      "example_ja": "このPvPトーナメントに勝ちたいなら、脚本に従う必要があります。",
+      "ipa": "/wi ˈniːd tə ˈstɪk tu ðə ˈskɹɪpt ɪf wi ˈwɑnt tu ˈwɪn ðɪs pi vi pi ˈtɝnəmənt/",
+      "linking": [
+        "to は弱形 /tə/ タ",
+        "the は弱形 /ðə/ ザ",
+        "to は弱形 /tə/ タ、want の /w/ に連接しない"
+      ],
+      "kana": "ウィ ニード タ スティック タ ザ スクリプト イフ ウィ ウォント タ ウィン ディス ピー ヴィー ピー ターナメント"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "scripts",
+      "ipa": "/ˈskɹɪpts/",
+      "examples": [
+        {
+          "en": "All the server scripts failed after the update was installed.",
+          "ja": "アップデートがインストールされた後、すべてのサーバースクリプトが失敗しました。",
+          "ipa": "/ɔl ðə ˈsɝvɚ ˈskɹɪpts feɪld ˈæftɚ ðə ˈʌpdeɪt wəz ɪnˈstɔld/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "server の /ɚ/ が scripts の /s/ に連接（r-coloring後、子音+子音）",
+            "was は弱形 /wəz/ ワズ"
+          ],
+          "kana": "オール ザ サーバー スクリプツ フェイルド アフター ザ アップデイト ワズ インストールド"
+        },
+        {
+          "en": "These modding scripts help us create custom items and creatures easily.",
+          "ja": "これらのモッディングスクリプトは、カスタムアイテムと生物を簡単に作成するのに役立ちます。",
+          "ipa": "/ðiz ˈmɑdɪŋ ˈskɹɪpts hɛlp əs kriˈeɪt ˈkʌstəm ˈaɪtəmz ənd ˈkritʃɚz ˈizəli/",
+          "linking": [
+            "modding の /ŋ/ が scripts の /s/ に連接（鼻音+無声子音）",
+            "us は弱形 /əs/ アス",
+            "easily は /ˈizəli/ イージリー"
+          ],
+          "kana": "ディーズ マッディング スクリプツ ヘルプ アス クリエイト カスタム アイテムズ アンド クリーチャーズ イージリー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "scripts",
+      "ipa": "/ˈskɹɪpts/",
+      "examples": [
+        {
+          "en": "He scripts every command block sequence before building the redstone machine.",
+          "ja": "彼はレッドストーンマシンを構築する前に、すべてのコマンドブロックシーケンスをスクリプト化します。",
+          "ipa": "/hi ˈskɹɪpts ˈɛvri kəˈmænd blɑk siˈkwɛns bɪˈfɔɹ ˈbɪldɪŋ ðə ˈrɛdˌstoʊn məˈʃin/",
+          "linking": [
+            "every は /ˈɛvri/ エブリー",
+            "command の /d/ が block の /b/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー スクリプツ エブリー コマンド ブラック シーケンス ビフォア ビルディング ザ レッド ストウン マシーン"
+        },
+        {
+          "en": "She scripts all our farm automation so we can focus on exploring.",
+          "ja": "彼女はすべてのファーム自動化をスクリプト化するので、探検に集中できます。",
+          "ipa": "/ʃi ˈskɹɪpts ɔl ˈaʊɚ fɑɹm ˌɔtəˈmeɪʃən soʊ wi kən ˈfoʊkəs ɑn ɪkˈsplɔɹɪŋ/",
+          "linking": [
+            "all は弱形後 /ɔl/ オール",
+            "our は弱化 /ˈaʊɚ/ アワー",
+            "so は /soʊ/ ソウ、we は弱形 /wi/ ウィー"
+          ],
+          "kana": "シー スクリプツ オール アワー ファーム オートメイション ソウ ウィ カン フォウカス ァン イクスプローリング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "scripted",
+      "ipa": "/ˈskɹɪptəd/",
+      "examples": [
+        {
+          "en": "I scripted the entire raid sequence so our team could replicate it perfectly.",
+          "ja": "私はレイド全体をスクリプト化したので、チームは完璧に複製できました。",
+          "ipa": "/aɪ ˈskɹɪptəd ðə ɪnˈtaɪɚ reɪd siˈkwɛns soʊ ˈaʊɚ tim kʊd ˈrɛpləˌkeɪt ɪt ˈpɝfəktli/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "raid の /d/ が sequence の /s/ に連接（弱形後も子音+子音）",
+            "our は弱化 /ˈaʊɚ/ アワー"
+          ],
+          "kana": "アイ スクリプティッド ザ インタイア レイド シーケンス ソウ アワー ティーム クッド レプリケイト イット パーフェクトリー"
+        },
+        {
+          "en": "They scripted all the dialogue for the multiplayer story mode adventure.",
+          "ja": "彼らはマルチプレイヤーストーリーモードアドベンチャーのすべてのダイアログをスクリプト化しました。",
+          "ipa": "/ðeɪ ˈskɹɪptəd ɔl ðə ˈdaɪəlɑg fɔɹ ðə ˌmʌltɪˈpleɪɚ ˈstɔɹi moʊd ədˈvɛntʃɚ/",
+          "linking": [
+            "all は弱形 /ɔl/ オール",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔɹ/ フォア"
+          ],
+          "kana": "ゼイ スクリプティッド オール ザ ダイアログ フォア ザ マルチプレイア ストーリー モウド ア ベンチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "scripted",
+      "ipa": "/ˈskɹɪptəd/",
+      "examples": [
+        {
+          "en": "The scripted event was interrupted when the server crashed unexpectedly.",
+          "ja": "サーバーが予期せず落ちたとき、スクリプト化されたイベントは中断されました。",
+          "ipa": "/ðə ˈskɹɪptəd ɪˈvɛnt wəz ˌɪntəˈɹʌptəd wɛn ðə ˈsɝvɚ kɹæʃt ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "was は弱形 /wəz/ ワズ",
+            "when の /n/ が the の /ð/ に続く（鼻音+有声摩擦音、連結なし）"
+          ],
+          "kana": "ザ スクリプティッド イベント ワズ インタラプティッド ウェン ザ サーバー クラッシュト ア ニ エク スペクティッドリー"
+        },
+        {
+          "en": "A well-scripted puzzle map requires months of planning and testing.",
+          "ja": "よくスクリプト化されたパズルマップは、数か月の計画とテストが必要です。",
+          "ipa": "/ə wɛl ˈskɹɪptəd ˈpʌzəl mæp rɪˈkwaɪɚz ˈmʌnθz əv ˈplænɪŋ ənd ˈtɛstɪŋ/",
+          "linking": [
+            "well の /l/ が scripted の /s/ に続く（子音+子音）",
+            "of は弱形 /əv/ アヴ",
+            "and は弱形 /ən/ アン"
+          ],
+          "kana": "ア ウェル スクリプティッド パズル マップ リクワイアーズ マンス ア ヴ プラニング ア ンド テスティング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "scripting",
+      "ipa": "/ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "I enjoy scripting complex redstone systems that automate my mining operations.",
+          "ja": "私は採掘操作を自動化する複雑なレッドストーンシステムをスクリプト化することを楽しんでいます。",
+          "ipa": "/aɪ ɛnˈdʒɔɪ ˈskɹɪptɪŋ ˈkɑmplɛks ˈrɛdˌstoʊn ˈsɪstəmz ðæt ˌɔtəˈmeɪt maɪ ˈmaɪnɪŋ ˌɑpəˈɹeɪʃənz/",
+          "linking": [
+            "enjoy は /ɛnˈdʒɔɪ/ エンジョイ",
+            "systems の /z/ が that の /ð/ に続く（子音+子音）",
+            "my は弱化 /maɪ/ マイ"
+          ],
+          "kana": "アイ エンジョイ スクリプティング コンプレックス レッドストウン システムズ ザット オートメイト マイ マイニング オペレイションズ"
+        },
+        {
+          "en": "By scripting commands, you can create impossible structures that break normal rules.",
+          "ja": "コマンドをスクリプト化することで、通常のルールを破る不可能な構造を作成できます。",
+          "ipa": "/baɪ ˈskɹɪptɪŋ kəˈmændz ju kən kriˈeɪt ɪmˈpɑsəbəl ˈstrʌktʃɚz ðæt ˈbreɪk ˈnɔɹməl ˈɹulz/",
+          "linking": [
+            "by は弱形 /baɪ/ バイ",
+            "you は弱形 /ju/ ユー",
+            "normal の /l/ が rules の /ɹ/ に続く（子音+子音）"
+          ],
+          "kana": "バイ スクリプティング コマンズ ユー カン クリエイト インポッサブル ストラクチャーズ ザット ブレイク ノーマル ルーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is scripting",
+      "ipa": "/ɪz ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "My brother is scripting a new mob spawner trap for the end farm.",
+          "ja": "私の兄は終末の地のファームのための新しいモブスポーナー罠をスクリプト化しています。",
+          "ipa": "/maɪ ˈbrʌðɚ ɪz ˈskɹɪptɪŋ ə ˈnu moʊb ˈspoʊnɚ træp fɔɹ ðə ɛnd fɑɹm/",
+          "linking": [
+            "my は弱形 /maɪ/ マイ",
+            "is は弱形 /ɪz/ イズ",
+            "a は弱形 /ə/ ア",
+            "for は弱形 /fɔɹ/ フォア、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "マイ ブラザー イズ スクリプティング ア ニュー モウブ スポウナー トラップ フォア ザ エンド ファーム"
+        },
+        {
+          "en": "While you're mining, I'm scripting the command blocks for our adventure map.",
+          "ja": "あなたが採掘している間、私は私たちのアドベンチャーマップのコマンドブロックをスクリプト化しています。",
+          "ipa": "/waɪl jɚ ˈmaɪnɪŋ aɪm ˈskɹɪptɪŋ ðə kəˈmænd blɑks fɔɹ ˈaʊɚ ədˈvɛntʃɚ mæp/",
+          "linking": [
+            "your は弱形 /jɚ/ ユア",
+            "I'm は /aɪm/ アイム",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔɹ/ フォア、our は弱化 /ˈaʊɚ/ アワー"
+          ],
+          "kana": "ワイル ユア マイニング アイム スクリプティング ザ コマンド ブラックス フォア アワー ア ベンチャー マップ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was scripting",
+      "ipa": "/wəz ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "While the server was scripting the arena events, we prepared our gear and supplies.",
+          "ja": "サーバーがアリーナイベントをスクリプト化している間、私たちは装備と物資を準備していました。",
+          "ipa": "/waɪl ðə ˈsɝvɚ wəz ˈskɹɪptɪŋ ðə əˈɹinə ɪˈvɛnts wi prɪˈpɛɹd ˈaʊɚ ɡɪɚ ənd səˈplaɪz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "was は弱形 /wəz/ ワズ",
+            "the は弱形 /ðə/ ザ",
+            "we は弱形 /wi/ ウィ、and は弱形 /ən/ ア ン"
+          ],
+          "kana": "ワイル ザ サーバー ワズ スクリプティング ザ ア リーナ イベンツ ウィ プリペアード アワー ギア ア ン サプライズ"
+        },
+        {
+          "en": "They were scripting new quests when the power outage happened yesterday.",
+          "ja": "昨日、停電が起きたときに、彼らは新しいクエストをスクリプト化していました。",
+          "ipa": "/ðeɪ wɚ ˈskɹɪptɪŋ ˈnu ˈkwɛsts wɛn ðə ˈpaʊɚ ˈaʊtɪdʒ ˈhæpənd ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "were は弱形 /wɚ/ ウァー",
+            "new は /ˈnu/ ニュー",
+            "when の /n/ と the の /ð/ の間で未開放",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ゼイ ウァー スクリプティング ニュー クエスツ ウェン ザ パワー アウテッジ ハペンド イェスタデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been scripting",
+      "ipa": "/həd bɪn ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "We had been scripting the command sequences for hours when the server finally restarted.",
+          "ja": "サーバーがついに再起動するまで、私たちは何時間もコマンドシーケンスをスクリプト化していました。",
+          "ipa": "/wi həd bɪn ˈskɹɪptɪŋ ðə kəˈmænd siˈkwɛnsəz fɔɹ ˈaʊɚz wɛn ðə ˈsɝvɚ ˈfaɪnəli riˈstɑɹtəd/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔɹ/ フォア、when の /n/ と the の /ð/（子音+子音）"
+          ],
+          "kana": "ウィ ハド ビン スクリプティング ザ コマンド シーケンシーズ フォア アワーズ ウェン ザ サーバー ファイナリー リースターティッド"
+        },
+        {
+          "en": "She had been scripting automated builds when she discovered a much faster shortcut method.",
+          "ja": "より高速なショートカット方法を発見したとき、彼女は自動ビルドをスクリプト化していました。",
+          "ipa": "/ʃi həd bɪn ˈskɹɪptɪŋ ˌɔtəˈmeɪtəd bɪldz wɛn ʃi dɪˈskʌvɚd ə ˈmʌtʃ ˈfæstɚ ˈʃɔɹtkʌt ˈmɛθəd/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "when の /n/ と she の /ʃ/（子音+子音）",
+            "a は弱形 /ə/ ア、much は /ˈmʌtʃ/ マッチ"
+          ],
+          "kana": "シー ハド ビン スクリプティング オートメイティッド ビルズ ウェン シー ディスカバード ア マッチ ファスター ショートカット メソッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has scripted",
+      "ipa": "/həz ˈskɹɪptəd/",
+      "examples": [
+        {
+          "en": "She has scripted the entire redstone farm automation system for the base.",
+          "ja": "彼女はベースのためにレッドストーン農場自動化システム全体をスクリプト化しました。",
+          "ipa": "/ʃi həz ˈskɹɪptəd ðə ɪnˈtaɪɚ ˈrɛdˌstoʊn fɑɹm ˌɔtəˈmeɪʃən ˈsɪstəm fɔɹ ðə ˈbeɪs/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "entire の /t/ が redstone の /ɹ/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔɹ/ フォア"
+          ],
+          "kana": "シー ハズ スクリプティッド ザ インタイア レッドストウン ファーム オートメイション システム フォア ザ ベース"
+        },
+        {
+          "en": "They have scripted all the quest events and dialogue for our multiplayer server.",
+          "ja": "彼らはマルチプレイヤーサーバーのすべてのクエストイベントとダイアログをスクリプト化しました。",
+          "ipa": "/ðeɪ həv ˈskɹɪptəd ɔl ðə ˈkwɛst ɪˈvɛnts ənd ˈdaɪəlɑg fɔɹ ˈaʊɚ ˈmʌltɪˈpleɪɚ ˈsɝvɚ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "all は弱形後 /ɔl/ オール",
+            "the は弱形 /ðə/ ザ",
+            "and は弱形 /ən/ アン",
+            "for は弱形 /fɔɹ/ フォア"
+          ],
+          "kana": "ゼイ ハヴ スクリプティッド オール ザ クエスト イベンツ ア ン ダイアログ フォア アワー マルチプレイア サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had scripted",
+      "ipa": "/həd ˈskɹɪptəd/",
+      "examples": [
+        {
+          "en": "We had scripted the entire escape room before the first players logged in.",
+          "ja": "最初のプレイヤーがログインする前に、私たちは脱出ルーム全体をスクリプト化していました。",
+          "ipa": "/wi həd ˈskɹɪptəd ðə ɪnˈtaɪɚ ɪˈskeɪp ˈrum bɪˈfɔɹ ðə ˈfɝst ˈpleɪɚz ˈlɑɡd ɪn/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ",
+            "entire の /t/ が escape の /ə/ に連結 [ɪnˈtaɪɚ ɪˈskeɪp]",
+            "in は弱形 /ɪn/ イン"
+          ],
+          "kana": "ウィ ハド スクリプティッド ザ インタイア イスケイプ ルーム ビフォア ザ ファースト プレイアーズ ロッグド イン"
+        },
+        {
+          "en": "She had scripted the boss battle mechanics before the realm opened to everyone.",
+          "ja": "レルムが全員に開放される前に、彼女はボス戦のメカニクスをスクリプト化していました。",
+          "ipa": "/ʃi həd ˈskɹɪptəd ðə ˈbɑs ˈbætəl məˈkænɪks bɪˈfɔɹ ðə ˈɹɛlm ˈoʊpənd tu ˈɛvriˌwʌn/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ（2回目）",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "シー ハド スクリプティッド ザ ボス バトル メカニクス ビフォア ザ レルム オウペンド タ エブリワン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been scripting",
+      "ipa": "/həz bɪn ˈskɹɪptɪŋ/",
+      "examples": [
+        {
+          "en": "I have been scripting the command sequences all week to prepare for the tournament.",
+          "ja": "トーナメントに備えるために、私は1週間中コマンドシーケンスをスクリプト化しています。",
+          "ipa": "/aɪ həv bɪn ˈskɹɪptɪŋ ðə kəˈmænd siˈkwɛnsəz ɔl ˈwik tu prɪˈpɛɹ fɔɹ ðə ˈtɝnəmənt/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ、for は弱形 /fɔɹ/ フォア"
+          ],
+          "kana": "アイ ハヴ ビン スクリプティング ザ コマンド シーケンシーズ オール ウィーク タ プリペア フォア ザ ターナメント"
+        },
+        {
+          "en": "We have been scripting the maze puzzles and traps for our adventure map for months.",
+          "ja": "私たちはアドベンチャーマップのメイズパズルとトラップを数ヶ月間スクリプト化しています。",
+          "ipa": "/wi həv bɪn ˈskɹɪptɪŋ ðə ˈmeɪz ˈpʌzəlz ənd ˈtræps fɔɹ ˈaʊɚ ədˈvɛntʃɚ mæp fɔɹ ˈmʌnθz/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "and は弱形 /ən/ アン、for は弱形 /fɔɹ/ フォア（2回目）"
+          ],
+          "kana": "ウィ ハヴ ビン スクリプティング ザ メイズ パズルズ ア ン トラップス フォア アワー ア ベンチャー マップ フォア マンス"
+        }
+      ]
+    }
+  ]
+}
