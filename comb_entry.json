@@ -188,6 +188,93 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is combing",
+      "ipa": "/ɪz ˈkoʊmɪŋ/",
+      "examples": [
+        {
+          "en": "She is combing all areas for treasure.",
+          "ja": "彼女は宝物を求めて全ての領域を探索しています。",
+          "ipa": "/ʃi ɪz ˈkoʊmɪŋ ɔl ˈɛriəz fɔr ˈtrɛʒɚ/",
+          "linking": [
+            "\"is\" は弱形 /ɪz/ → イズ",
+            "\"all areas\" - 語末の /l/ が母音 /ɛ/ に連結 [ɔlˈɛriəz] オールエリアズ",
+            "\"for\" は弱形 /fɔr/ → フォー"
+          ],
+          "kana": "シー イズ コーミング オールエリアズ フォー トレジャー"
+        },
+        {
+          "en": "The miners are combing all entrances to the stronghold.",
+          "ja": "採掘者たちは要塞への全ての入口を調べています。",
+          "ipa": "/ðə ˈmaɪnɚz ɑr ˈkoʊmɪŋ ɔl ˈɛntrənsɪz tu ðə ˈstrɔŋhoʊld/",
+          "linking": [
+            "\"the\" は弱形 /ðə/ → ザ",
+            "\"all entrances\" - 語末の /l/ が母音 /ɛ/ に連結 [ɔlˈɛntrənsɪz] オールエントランシーズ"
+          ],
+          "kana": "ザ マイナーズ アー コーミング オールエントランシーズ トゥ ザ ストロングホールド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was combing",
+      "ipa": "/wəz ˈkoʊmɪŋ/",
+      "examples": [
+        {
+          "en": "I was combing all areas and found diamonds.",
+          "ja": "私は全ての領域を探索していて、ダイヤモンドを見つけました。",
+          "ipa": "/aɪ wəz ˈkoʊmɪŋ ɔl ˈɛriəz ənd ˈfaʊnd ˈdaɪməndz/",
+          "linking": [
+            "\"was\" は弱形 /wəz/ → ワズ",
+            "\"all areas\" - 語末の /l/ が母音 /ɛ/ に連結 [ɔlˈɛriəz] オールエリアズ",
+            "\"and\" は弱形 /ən/ → エン"
+          ],
+          "kana": "アイ ワズ コーミング オールエリアズ エン ファウンド ダイモンズ"
+        },
+        {
+          "en": "We were combing all abandoned chambers.",
+          "ja": "私たちは全ての放棄された部屋を探索していました。",
+          "ipa": "/wi wɚ ˈkoʊmɪŋ ɔl əˈbændənd ˈtʃeɪmbɚz/",
+          "linking": [
+            "\"were\" は弱形 /wɚ/ → ワー",
+            "\"all abandoned\" - 語末の /l/ が母音 /ə/ に連結 [ɔləˈbændənd] オールアバンダンド"
+          ],
+          "kana": "ウィー ワー コーミング オールアバンダンド チェイム バーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been combing",
+      "ipa": "/həd bɪn ˈkoʊmɪŋ/",
+      "examples": [
+        {
+          "en": "I had been combing the caves for hours before finding diamonds.",
+          "ja": "ダイヤモンドを見つける前に、何時間も洞窟を探索していました。",
+          "ipa": "/aɪ həd bɪn ˈkoʊmɪŋ ðə ˈkeɪvz fɔr ˈaʊɚz bɪˈfɔr ˈfaɪndɪŋ ˈdaɪməndz/",
+          "linking": [
+            "\"had\" は弱形 /həd/ → ハド",
+            "\"been\" は弱形 /bɪn/ → ビン",
+            "\"the\" は弱形 /ðə/ → ザ"
+          ],
+          "kana": "アイ ハド ビン コーミング ザ ケイブズ フォー アワーズ ビフォア ファインディング ダイモンズ"
+        },
+        {
+          "en": "We had been combing all areas for valuable drops.",
+          "ja": "貴重なドロップを求めて、全ての領域を長時間探索していました。",
+          "ipa": "/wi həd bɪn ˈkoʊmɪŋ ɔl ˈɛriəz fɔr ˈvæljuəbəl ˈdrɑps/",
+          "linking": [
+            "\"had\" は弱形 /həd/ → ハド",
+            "\"all areas\" - 語末の /l/ が母音 /ɛ/ に連結 [ɔlˈɛriəz] オールエリアズ"
+          ],
+          "kana": "ウィー ハド ビン コーミング オールエリアズ フォー バリュアブル ドロップス"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has combed",
