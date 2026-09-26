@@ -367,6 +367,96 @@
           "kana": "バイ ザ タイム ウィー フィニシト ザ モウブズ ハド ビン ディストラクティング アス オール デイ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will distract",
+      "ipa": "/wɪl dɪˈstrækt/",
+      "examples": [
+        {
+          "en": "I'll distract that skeleton so you can mine diamonds safely.",
+          "ja": "あのスケルトンを気をそらすので、あなたは安全にダイヤを採掘できます。",
+          "ipa": "/aɪl dɪˈstrækt ðæt ˈskɛlətən soʊ ju kən ˈmaɪn ˈdaɪməndz ˈseɪfli/",
+          "linking": [
+            "I'll: 縮約形 /aɪl/。「アイル」",
+            "distract that: 語末の /t/ が /ð/ に続く。無声と有声の子音が語境界で明確 [dɪˈstrækt ðæt]",
+            "can: 機能語として弱形 /kən/ に弱化。「カン」"
+          ],
+          "kana": "アイル ディストラクト ザット スケレトン ソー ユー カン マイン ダイマンズ セイフリー"
+        },
+        {
+          "en": "We'll distract the mobs while they attack our fortress.",
+          "ja": "モブが私たちの要塞を攻撃している間、気をそらさせます。",
+          "ipa": "/wil dɪˈstrækt ðə moʊbz waɪl ðeɪ əˈtæk ˈaʊr ˈfɔrtəs/",
+          "linking": [
+            "We'll: 縮約形 /wil/。「ウィル」",
+            "distract the: 語末の /t/ が /ð/ に続く。無声と有声の子音が語境界で明確 [dɪˈstrækt ðə]",
+            "while: 語末の /l/ が /ð/ に続く。流音から有声子音への移行 [waɪl ðeɪ]"
+          ],
+          "kana": "ウィル ディストラクト ザ モウブズ ホワイル ゼイ アタック アワー フォートッス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be distracting",
+      "ipa": "/wɪl bi dɪˈstræktɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper will be distracting me while I'm mining.",
+          "ja": "クリーパーは私が採掘している間、気をそらし続けます。",
+          "ipa": "/ðə ˈkrɪpər wɪl bi dɪˈstræktɪŋ mi waɪl aɪm ˈmaɪnɪŋ/",
+          "linking": [
+            "will be: /l/ が /b/ に続く。流音から破裂音への連接 [wɪl bi]",
+            "while I'm: 語末の /l/ が /aɪ/ に連結。流暢に接続 [waɪl aɪm]",
+            "the: 弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ クリーパー ウィル ビー ディストラクティング ミー ホワイル アイム マイニング"
+        },
+        {
+          "en": "You'll be distracting the endermen while we escape.",
+          "ja": "あなたはエンダーメンを気をそらしながら、私たちは逃げます。",
+          "ipa": "/jʊl bi dɪˈstræktɪŋ ðə ˈɛndərˌmɛn waɪl wi ɪsˈkeɪp/",
+          "linking": [
+            "You'll: 縮約形 /jʊl/。「ユール」",
+            "the: 弱形 /ðə/ ザ",
+            "while: 語末の /l/ が /w/ に続く。流音から半母音への連接 [waɪl wi]"
+          ],
+          "kana": "ユール ビー ディストラクティング ザ エンダーメン ホワイル ウィー イスケイプ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have distracted",
+      "ipa": "/wɪl həv dɪˈstræktəd/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have distracted the dragon three times.",
+          "ja": "明日までに、私たちはドラゴンを3回気をそらしているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ wi wɪl həv dɪˈstræktəd ðə ˈdræɡən ˈθri taɪmz/",
+          "linking": [
+            "will have: /l/ が /h/ に続く。流音から無声音への連接 [wɪl həv]",
+            "have distracted: /v/ が /d/ に続く。摩擦音から破裂音への移行 [həv dɪˈstræktəd]",
+            "the: 弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ トゥモロウ ウィー ウィル ハブ ディストラクテッド ザ ドラゴン スリー タイムズ"
+        },
+        {
+          "en": "They will have distracted many mobs by the end of the day.",
+          "ja": "その日の終わりまでに、彼らは多くのモブを気をそらしているでしょう。",
+          "ipa": "/ðeɪ wɪl həv dɪˈstræktəd ˈmɛni moʊbz baɪ ðə ɛnd əv ðə deɪ/",
+          "linking": [
+            "will have: /l/ が /h/ に続く。流音から無声音への連接 [wɪl həv]",
+            "have distracted: /v/ が /d/ に続く。摩擦音から破裂音への移行 [həv dɪˈstræktəd]",
+            "end of: /d/ が /ə/ に続く。破裂音が弱形 /əv/ に連なる [ɛnd əv]"
+          ],
+          "kana": "ゼイ ウィル ハブ ディストラクテッド メニー モウブズ バイ ザ エンド アヴ ザ デイ"
+        }
+      ]
     }
   ],
   "tags": [
