@@ -73,5 +73,194 @@
       "kana": "ザ エンダー ドラゴンズ ファイナル ァタック ディプライヴド アス アヴ ヴィクトリー アフター アワーズ オヴ バトル"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is depriving",
+      "ipa": "/ɪz dɪˈpraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither is depriving you of regeneration.",
+          "ja": "ウィザーはあなたから再生を奪っています。",
+          "ipa": "/ðə ˈwɪðər ɪz dɪˈpraɪvɪŋ ju əv ˌrɛdʒənəˈreɪʃən/",
+          "linking": [
+            "The Wither is: the は弱形 /ðə/、is は弱形 /ɪz/",
+            "is depriving you: depriving の末子音 /ŋ/ が you の初頭 /j/ に連結 [dɪˈpraɪvɪŋ jə] ディプライヴィング ユ。you は弱形 /jə/",
+            "of regeneration: of は弱形 /əv/"
+          ],
+          "kana": "ザ ウィザー イズ ディプライヴィング ユ アヴ レジェネレイション"
+        },
+        {
+          "en": "Lava is depriving our house of protection.",
+          "ja": "溶岩は私たちの家から保護を奪っています。",
+          "ipa": "/ˈlɑvə ɪz dɪˈpraɪvɪŋ ˈaʊər ˈhaʊs əv prəˈtɛkʃən/",
+          "linking": [
+            "Lava is depriving: is は弱形 /ɪz/、depriving の初頭 /d/ に続く",
+            "depriving our: depriving の末子音 /ŋ/ が our の初頭 /aʊ/ に続く（子音+母音で連結傾向）[dɪˈpraɪvɪŋ ˈaʊər]",
+            "of protection: of は弱形 /əv/"
+          ],
+          "kana": "ラヴァ イズ ディプライヴィング アワー ハウス アヴ プロテクション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was depriving",
+      "ipa": "/wəz dɪˈpraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The raid was depriving us of supplies.",
+          "ja": "レイドは私たちから物資を奪っていました。",
+          "ipa": "/ðə ˈreɪd wəz dɪˈpraɪvɪŋ əs əv səˈplaɪz/",
+          "linking": [
+            "The raid: the は弱形 /ðə/",
+            "raid was depriving: was は弱形 /wəz/",
+            "depriving us: depriving の末子音 /ŋ/ が us の初頭 /ə/ に続く（子音+母音）",
+            "of supplies: of は弱形 /əv/"
+          ],
+          "kana": "ザ レイド ワズ ディプライヴィング アス アヴ サプライズ"
+        },
+        {
+          "en": "Creepers were depriving players of their progress.",
+          "ja": "クリーパーはプレイヤーから進捗を奪っていました。",
+          "ipa": "/ˈkriːpərz wər dɪˈpraɪvɪŋ ˈpleɪərz əv ðɛr ˈprɑɡrɛs/",
+          "linking": [
+            "Creepers were: creepers の末子音 /z/ が were の初頭 /w/ に続く（子音+子音）、were は弱形 /wər/",
+            "were depriving players: depriving の末子音 /ŋ/ が players の初頭 /p/ に続く（子音+子音）",
+            "of their: of は弱形 /əv/、their の初頭 /ð/ に続く"
+          ],
+          "kana": "クリーパーズ ワー ディプライヴィング プレイヤーズ アヴ ゼア プログレス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been depriving",
+      "ipa": "/həd bɪn dɪˈpraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The curse had been depriving the realm of peace.",
+          "ja": "呪いはずっとこの領域から平和を奪っていました。",
+          "ipa": "/ðə ˈkɝs həd bɪn dɪˈpraɪvɪŋ ðə ˈrɛlm əv ˈpiːs/",
+          "linking": [
+            "The curse: the は弱形 /ðə/",
+            "curse had been: curse の末子音 /s/ が had の初頭 /h/ に続く（子音+子音）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been depriving the: been の末子音 /n/ が depriving の初頭 /d/ に続く（子音+子音）、depriving の末子音 /ŋ/ が the の初頭 /ð/ に続く",
+            "of peace: of は弱形 /əv/"
+          ],
+          "kana": "ザ カース ハド ビン ディプライヴィング ザ レルム アヴ ピース"
+        },
+        {
+          "en": "Hostile mobs had been depriving adventurers of safety.",
+          "ja": "敵対的なモブは冒険者から安全を奪い続けていました。",
+          "ipa": "/ˈhɑstaɪl ˈmɑbz həd bɪn dɪˈpraɪvɪŋ ˌædvənˈtʃʊrərz əv ˈseɪfti/",
+          "linking": [
+            "Hostile mobs: hostile の末子音 /l/ が mobs の初頭 /m/ に続く（子音+子音）",
+            "mobs had been: mobs の末子音 /z/ が had の初頭 /h/ に続く（子音+子音）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been depriving adventurers: been の末子音 /n/ が depriving の初頭 /d/ に続く、depriving の末子音 /ŋ/ が adventurers の初頭 /æ/ に続く（子音+母音で連結傾向）",
+            "of safety: of は弱形 /əv/"
+          ],
+          "kana": "ハスタイル モブズ ハド ビン ディプライヴィング アドベンチャラーズ アヴ セイフティ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has deprived",
+      "ipa": "/həz dɪˈpraɪvd/",
+      "examples": [
+        {
+          "en": "Hostile mobs have deprived all of our emeralds from this mine.",
+          "ja": "敵のモブはこの鉱山から私たちのすべてのエメラルドを奪った。",
+          "ipa": "/ˈhɑsˌtaɪl ˈmoʊbz həv dɪˈpraɪvd ɔl əv aʊər ˈɛmərəldz frəm ðɪs ˈmaɪn/",
+          "kana": "ハスタイル モウブズ ハヴ ディプライヴド オール アヴ アワー エメラルズ フラム ディス マイン",
+          "linking": [
+            "have deprived: have の末子音 /v/ が deprived の初頭 /d/ に続く（子音+子音）、have は弱形 /həv/",
+            "all of: all の末子音 /l/ が of の初頭 /ə/ に連結 [ɔl əv] オール アヴ。of は弱形 /əv/",
+            "from this: from /m/ + this /ð/ (子音+子音)、from は弱形 /frəm/"
+          ]
+        },
+        {
+          "en": "The wither has deprived you of your health completely.",
+          "ja": "ウィザーはあなたのヘルスを完全に奪った。",
+          "ipa": "/ðə ˈwɪðər həz dɪˈpraɪvd jə əv jɚ ˈhɛlθ kəmˈpliːtli/",
+          "kana": "ザ ウィザー ハズ ディプライヴド ユ アヴ ユア ヘルス コムプリートリー",
+          "linking": [
+            "the: 弱形 /ðə/",
+            "has deprived: has の末子音 /z/ が deprived の初頭 /d/ に続く（子音+子音）、has は弱形 /həz/",
+            "deprived you: deprived の末子音 /d/ が you の初頭 /j/ に連結 [dɪˈpraɪvd jə] ディプライヴド ユ。you は弱形 /jə/",
+            "of your: of /əv/ + your /jɚ/ (弱形)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had deprived",
+      "ipa": "/həd dɪˈpraɪvd/",
+      "examples": [
+        {
+          "en": "Before the Ender Dragon attacked, the Wither had already deprived me of health.",
+          "ja": "エンダードラゴンが攻撃する前に、ウィザーは既に私のヘルスを奪っていた。",
+          "ipa": "/bɪˈfɔr ðə ˈɛndər ˈdræɡən əˈtækt ðə ˈwɪðər həd ɔlˈrɛdi dɪˈpraɪvd mi əv ˈhɛlθ/",
+          "kana": "ビフォー ザ エンダー ドラゴン ァタクト ザ ウィザー ハド オルレディ ディプライヴド ミー アヴ ヘルス",
+          "linking": [
+            "before the: before の末子音 /r/ が the の初頭 /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "had already: had の末子音 /d/ が already の初頭 /ɔ/ に連結 [həd ɔlˈrɛdi] ハド オルレディ。had は弱形 /həd/",
+            "deprived me: deprived /d/ + me /m/ (子音+子音)",
+            "of health: of は弱形 /əv/"
+          ]
+        },
+        {
+          "en": "The hostile mobs had deprived our base of all defenses before we could rebuild.",
+          "ja": "敵のモブはリビルドする前に、私たちの基地のすべての防御を奪っていた。",
+          "ipa": "/ðə ˈhɑsˌtaɪl ˈmoʊbz həd dɪˈpraɪvd aʊər ˈbeɪs əv ɔl dɪˈfɛnsɪz bɪˈfɔr wi kʊd rɪˈbɪld/",
+          "kana": "ザ ハスタイル モウブズ ハド ディプライヴド アワー ベイス アヴ オール ディフェンシーズ ビフォー ウィー クッド リビルド",
+          "linking": [
+            "the: 弱形 /ðə/",
+            "had deprived: had の末子音 /d/ が deprived の初頭 /d/ に続く（子音+子音）、had は弱形 /həd/",
+            "of all: of の末子音 /v/ が all の初頭 /ɔ/ に連結 [əv ɔl] アヴ オール。of は弱形 /əv/",
+            "before we: before の末子音 /r/ が we の初頭 /w/ に続く（子音+子音）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been depriving",
+      "ipa": "/həz bɪn dɪˈpraɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The wither has been depriving everyone of health since the raid started.",
+          "ja": "ウィザーは襲撃が始まって以来、皆のヘルスを奪い続けている。",
+          "ipa": "/ðə ˈwɪðər həz bɪn dɪˈpraɪvɪŋ ˈɛvriˌwən əv ˈhɛlθ sɪns ðə ˈreɪd ˈstɑrtəd/",
+          "kana": "ザ ウィザー ハズ ビン ディプライヴィング エヴリワン アヴ ヘルス シンス ザ レイド スターテド",
+          "linking": [
+            "the: 弱形 /ðə/",
+            "has been: has の末子音 /z/ が been の初頭 /b/ に続く（子音+子音）、has と been は弱形 /həz/ /bɪn/",
+            "been depriving: been /n/ + depriving /d/ (子音+子音)",
+            "of health: of は弱形 /əv/"
+          ]
+        },
+        {
+          "en": "Creepers have been depriving the village of safe shelter all night long.",
+          "ja": "クリーパーは夜中ずっと村に安全なシェルターを奪い続けている。",
+          "ipa": "/ˈkriːpərz həv bɪn dɪˈpraɪvɪŋ ðə ˈvɪlɪdʒ əv ˈseɪf ˈʃɛltər ɔl ˈnaɪt ˈlɔŋ/",
+          "kana": "クリーパーズ ハヴ ビン ディプライヴィング ザ ヴィリッジ アヴ セイフ シェルター オール ナイト ロング",
+          "linking": [
+            "have been: have の末子音 /v/ が been の初頭 /b/ に続く（子音+子音）、have と been は弱形 /həv/ /bɪn/",
+            "been depriving: been /n/ + depriving /d/ (子音+子音)",
+            "of safe: of の末子音 /v/ が safe の初頭 /s/ に続く（子音+子音）、of は弱形 /əv/",
+            "all night: all の末子音 /l/ が night の初頭 /n/ に続く（子音+子音）"
+          ]
+        }
+      ]
+    }
+  ]
 }
