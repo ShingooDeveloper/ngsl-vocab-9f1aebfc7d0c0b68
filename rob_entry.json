@@ -315,6 +315,38 @@
       ]
     },
     {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be robbing",
+      "ipa": "/wɪl bi ˈrɑbɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be robbing the merchant's vault when everyone logs off.",
+          "ja": "誰もがログオフする時に、私たちは商人の金庫を盗んでいるでしょう。",
+          "ipa": "/wil bi ˈrɑbɪŋ ðə ˈmɝtʃənts ˈvɔlt ˈwɛn ˈɛvriˌwʌn ˈlɑgz ˈɔf/",
+          "linking": [
+            "we'll = we + will の縮約形 /wil/",
+            "the は弱形で /ðə/",
+            "when は /wɛn/"
+          ],
+          "kana": "ウィル ビー ラビング ザ マーチャンツ ボルト ウェン エブリワンズ ラグズ オフ"
+        },
+        {
+          "en": "They'll be robbing our base while we're away from the server.",
+          "ja": "私たちがサーバーから離れている間に、彼らは私たちのベースを盗んでいるでしょう。",
+          "ipa": "/ðeɪl bi ˈrɑbɪŋ ˈaʊɚ ˈbeɪs ˈwaɪl ˈwɪr əˈweɪ frəm ðə ˈsɝvɚ/",
+          "linking": [
+            "they'll = they + will の縮約形 /ðeɪl/",
+            "the は弱形で /ðə/（×2）",
+            "while は /waɪl/",
+            "we're = we + are の縮約形 /wɪr/",
+            "from は弱形で /frəm/"
+          ],
+          "kana": "ザイル ビー ラビング アワー ベース ワイル ウィアー アウェイ フラム ザ サーバー"
+        }
+      ]
+    },
+    {
       "type": "future_perfect",
       "label": "未来完了形（will have + 過去分詞）",
       "text": "will have robbed",
@@ -328,6 +360,18 @@
             "will have → will の弱形 /wəl/ と have の弱形 /həv/"
           ],
           "kana": "バイ ネクスト ウィーク ザイ ウル ハヴ ロブド エブリ チェスト イン ザ ベース"
+        },
+        {
+          "en": "She will have robbed a fortune by the time the server resets.",
+          "ja": "サーバーがリセットされるまでに、彼女は大金を盗んでしまっているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈrɑbd ə ˈfɔrtʃən baɪ ðə ˈtaɪm ðə ˈsɝvɚ ˈrɛsɛts/",
+          "linking": [
+            "will have → will の弱形 /wəl/ と have の弱形 /həv/",
+            "robbed + a → /d/ が母音 /ə/ に連結 [ˈrɑbd ə] ロブド ア",
+            "by は /baɪ/",
+            "the は弱形で /ðə/（×2）"
+          ],
+          "kana": "シー ウル ハヴ ロブド ア フォーチュン バイ ザ タイム ザ サーバー リセッツ"
         }
       ]
     },
