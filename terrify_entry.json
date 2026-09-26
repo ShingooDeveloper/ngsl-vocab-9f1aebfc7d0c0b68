@@ -78,6 +78,102 @@
   ],
   "forms": [
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is terrifying",
+      "ipa": "/ɪz ˈtɛrɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The warden's footsteps are terrifying everyone right now.",
+          "ja": "ウォーデンの足音が今、皆を恐ろしくさせている。",
+          "ipa": "[ðə ˈwɔɹdənz ˈfʊtstɛps ɚ ˈtɛrɪfaɪɪŋ ˈɛvriwən ɹaɪt naʊ]",
+          "linking": [
+            "The は定冠詞の弱形 /ðə/ ザ",
+            "warden's footsteps - /z/ が /f/ に続く（子音+子音、未開放）[ˈwɔɹdənz ˈfʊtstɛps] ウォーデンズ フットステップス",
+            "are terrifying - are の語末 /ɹ/ が terrifying の初頭 /t/ に未開放で続く。are は弱形 /ɚ/ [ɚ ˈtɛrɪfaɪɪŋ] アー テリファイイング",
+            "everyone right - /n/ が /r/ に続く（子音+子音）[ˈɛvriwən ˈɹaɪt] エヴリワン ライト"
+          ],
+          "kana": "ザ ウォーデンズ フットステップス アー テリファイイング エヴリワン ライト ナウ"
+        },
+        {
+          "en": "A creeper is terrifying me because I'm low on health!",
+          "ja": "クリーパーが私を恐ろしくさせている。ヘルスが低いから！",
+          "ipa": "[ə ˈkriːpɚ ɪz ˈtɛrɪfaɪɪŋ mi bɪˈkɔz aɪm loʊ ɑn ˈhɛlθ]",
+          "linking": [
+            "A は弱形 /ə/ ア",
+            "is terrifying - /z/ が /t/ に続く（子音+子音、未開放）。is は弱形 /ɪz/ [ɪz ˈtɛrɪfaɪɪŋ] イズ テリファイイング",
+            "terrifying me - /ŋ/ が /m/ に連結。me は /mi/ [ˈtɛrɪfaɪɪŋ mi] テリファイイング ミー",
+            "because I'm - because の語末 /z/ が I'm の初頭 /aɪ/ に連結 [bɪˈkɔz aɪm] ビコーズ アイム"
+          ],
+          "kana": "ア クリーパー イズ テリファイイング ミー ビコーズ アイム ロウ オン ヘルス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was terrifying",
+      "ipa": "/wəz ˈtɛrɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "A ghast was terrifying us while we fought in the nether.",
+          "ja": "私たちがネザーで戦っている間、ガストが私たちを恐ろしくさせていた。",
+          "ipa": "[ə ɡæst wəz ˈtɛrɪfaɪɪŋ əs waɪl wi fɔt ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "A は弱形 /ə/ ア",
+            "ghast was - /t/ が /w/ に続く（子音+子音、未開放）[ɡæst wəz] ガースト ワズ",
+            "was terrifying - /z/ が /t/ に続く（子音+子音、未開放）。was は弱形 /wəz/ [wəz ˈtɛrɪfaɪɪŋ] ワズ テリファイイング",
+            "terrifying us - /ŋ/ が /ə/ に連結。us は弱形 /əs/ [ˈtɛrɪfaɪɪŋ əs] テリファイイング ス"
+          ],
+          "kana": "ア ガースト ワズ テリファイイング ス ワイル ウィー フォート イン ザ ネザー"
+        },
+        {
+          "en": "The mobs were terrifying everyone when the raid started.",
+          "ja": "レイドが始まった時、モブたちが皆を恐ろしくさせていた。",
+          "ipa": "[ðə mɑbz wɚ ˈtɛrɪfaɪɪŋ ˈɛvriwən wɛn ðə ˈreɪd ˈstɑɹtəd]",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "were terrifying - /ɹ/ が /t/ に続く（子音+子音、未開放）。were は弱形 /wɚ/ [wɚ ˈtɛrɪfaɪɪŋ] ワー テリファイイング",
+            "terrifying everyone - /ŋ/ が /ɛ/ に連結 [ˈtɛrɪfaɪɪŋ ˈɛvriwən] テリファイイング エヴリワン",
+            "when the - /n/ が /ð/ に続く（子音+子音、未開放）。the は弱形 /ðə/ [wɛn ðə] ウェン ザ"
+          ],
+          "kana": "ザ モブズ ワー テリファイイング エヴリワン ウェン ザ レイド スターティッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been terrifying",
+      "ipa": "/həd bɪn ˈtɛrɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The endermen had been terrifying us for an hour before we found a safe cave.",
+          "ja": "安全な洞窟を見つける前に、エンドマンが1時間以上私たちを恐ろしくさせていた。",
+          "ipa": "[ðə ˈɛndɚmən həd bɪn ˈtɛrɪfaɪɪŋ əs fɔɹ ən ˈaʊɚ bɪˈfoɹ wi ˈfaʊnd ə ˈseɪf ˈkeɪv]",
+          "linking": [
+            "The は弱形 /ðə/ ザ；endermen の語末 /n/ が had の /h/ に続く（鼻音+子音、未開放）",
+            "had been - /d/ が /b/ に続く（子音+子音、未開放）。had は弱形 /həd/ [həd bɪn] ハド ビン",
+            "been terrifying - /n/ が /t/ に続く（子音+子音、未開放）。been は弱形 /bɪn/ [bɪn ˈtɛrɪfaɪɪŋ] ビン テリファイイング",
+            "terrifying us - /ŋ/ が /ə/ に連結。us は弱形 /əs/ [ˈtɛrɪfaɪɪŋ əs] テリファイイング ス"
+          ],
+          "kana": "ザ エンダーメン ハド ビン テリファイイング ス フォア アン アワー ビフォア ウィ ファウンド ア セーフ ケーブ"
+        },
+        {
+          "en": "The warden had been terrifying us ever since we entered the deep dark.",
+          "ja": "深いダークに入ってからずっと、ウォーデンが私たちを恐ろしくさせていた。",
+          "ipa": "[ðə ˈwɔɹdən həd bɪn ˈtɛrɪfaɪɪŋ əs ˈɛvɚ sɪns wi ˈɛntɚd ðə ˈdip dɑɹk]",
+          "linking": [
+            "The は弱形 /ðə/ ザ；warden の語末 /n/ が had の /h/ に続く（鼻音+子音、未開放）",
+            "had been - /d/ が /b/ に続く（子音+子音、未開放）。had は弱形 /həd/ [həd bɪn] ハド ビン",
+            "been terrifying - /n/ が /t/ に続く（子音+子音、未開放）。been は弱形 /bɪn/ [bɪn ˈtɛrɪfaɪɪŋ] ビン テリファイイング",
+            "terrifying us - /ŋ/ が /ə/ に連結。us は弱形 /əs/ [ˈtɛrɪfaɪɪŋ əs] テリファイイング ス"
+          ],
+          "kana": "ザ ウォーデン ハド ビン テリファイイング ス エヴァー シンス ウィ エンタード ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
       "type": "3rd person singular",
       "label": "三人称単数形",
       "text": "terrifies",
@@ -134,6 +230,36 @@
             "away from - /weɪ/ が /f/ に続く（子音+子音）"
           ],
           "kana": "ア テリファイド マブ ラン アウェイ フラム ザ プレイヤーズ ソード"
+        }
+      ]
+    },
+    {
+      "type": "past participle",
+      "label": "過去分詞形",
+      "text": "terrified",
+      "ipa": "/ˈtɛrɪfaɪd/",
+      "examples": [
+        {
+          "en": "Terrified players fled the cave after encountering the warden.",
+          "ja": "恐怖に襲われたプレイヤーたちはウォーデンに遭遇した後、洞窟から逃げました。",
+          "ipa": "[ˈtɛrɪfaɪd ˈpleɪɚz flɛd ðə ˈkeɪv ˈæftɚ ɪnˈkaʊntɚɪŋ ðə ˈwɔɹdən]",
+          "linking": [
+            "Terrified players - /d/ が /p/ に続く（子音+子音、未開放）",
+            "fled the - /d/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/",
+            "after encountering - /ɹ/ が /ɪ/ に連結 [ˈæftɚ ɪnˈkaʊntɚɪŋ] アフター エンカウンタリング"
+          ],
+          "kana": "テリファイド プレイヤーズ フレッ ザ ケーブ アフター エンカウンタリング ザ ウォーデン"
+        },
+        {
+          "en": "The terrified livestock ran in panic when a creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、恐怖に襲われた家畜はパニックで逃げました。",
+          "ipa": "[ðə ˈtɛrɪfaɪd ˈlɪvstɑk ɹæn ɪn ˈpænɪk wɛn ə ˈkriːpɚ ɪkˈsploʊdəd ˈnɪɚbaɪ]",
+          "linking": [
+            "terrified livestock - /d/ が /l/ に続く（子音+子音、未開放）",
+            "livestock ran - /k/ が /r/ に続く（子音+子音）",
+            "The は弱形 /ðə/ ザ、a は弱形 /ə/ ア"
+          ],
+          "kana": "ザ テリファイド リヴストック ラン イン パニック ウェン ア クリーパー エクスプロードゥド ニアバイ"
         }
       ]
     },
