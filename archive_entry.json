@@ -1,0 +1,474 @@
+{
+  "word": "archive",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈɑrkaɪv/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "archive(?:s|d|ing)?",
+  "meanings": [
+    "【名詞】保存された文書や記録を集めたもの、アーカイブ（例：digital archive - デジタルアーカイブ）",
+    "【名詞】文書や記録を保管する建物や部屋、保存庫",
+    "【動詞】文書などを保存する、アーカイブに保管する、記録を保存する（例：archive files - ファイルを保存する）"
+  ],
+  "examples": [
+    {
+      "en": "Let's archive every build on this server.",
+      "ja": "このサーバー上のすべての建造物をアーカイブしよう。",
+      "ipa": "/lɛts ˈɑrkaɪvˈɛvəri ˈbɪɾɑn ðɪs ˈsɚvɚ/",
+      "linking": [
+        "「archive every」で archive の語末 /v/ が every の母音 /ɛ/ に連結 [ˈɑrkaɪvˈɛvəri]（アーカイヴエヴリ）",
+        "「build on」で build の語末 /d/ が母音の前でフラップ化し [ɾ] となり「on」の母音に連結 [ˈbɪɾɑn]（ビラン）"
+      ],
+      "kana": "レッツ アーカイヴエヴリ ビラン ディス サーバー"
+    },
+    {
+      "en": "I need to archive all our old world saves to free up space.",
+      "ja": "古いワールドセーブをすべてアーカイブして、スペースを空ける必要がある。",
+      "ipa": "/aɪ ˈniːd̚tə ˈɑrkaɪvˈɔl ˈaʊr oʊld wɚld seɪvz tə ˈfɹiː ʌp speɪs/",
+      "linking": [
+        "「need to」で need の語末 /d/ が未開放で to の子音 /t/ に続く（1つの音に聞こえる）[ˈniːd̚tə]（ニッター）",
+        "「archive all」で archive の語末 /v/ が all の母音 /ɔ/ に連結 [ˈɑrkaɪvˈɔl]（アーカイヴォール）",
+        "「to」は機能語で弱形 /tə/ に弱化（タ）"
+      ],
+      "kana": "アイ ニッター アーカイヴォール アワー オウルド ワールド セイブズ タ フリー アップ スペイス"
+    },
+    {
+      "en": "The archive contains backups of every base we've ever built.",
+      "ja": "このアーカイブには、すべてのプレイヤー拠点と構造物のバックアップが含まれています。",
+      "ipa": "/ðə ˈɑrkaɪv kənˈteɪnz ˈbækəps əvˈɛvəri ˈbeɪs wɪvˈɛvɚ ˈbɪlt/",
+      "linking": [
+        "「The」は弱形 /ðə/（ザ）",
+        "「of every」で of の語末 /v/ が every の母音 /ɛ/ に連結 [əvˈɛvəri]（アヴエヴリ）",
+        "「we've ever」で we've の語末 /v/ が ever の母音 /ɛ/ に連結 [wɪvˈɛvɚ]（ウィヴエヴァー）"
+      ],
+      "kana": "ザ アーカイヴ コンテインズ バックアップス アヴエヴリ ベイス ウィヴエヴァー ビルト"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "archive the world",
+      "ja": "ワールドをバックアップ・保存する（マイクラプレイヤーが使う表現）",
+      "example": "Before we start over, let's archive the world.",
+      "example_ja": "もう一度始める前に、ワールドをアーカイブしよう。",
+      "ipa": "/bɪˈfoʊr wi stɑɾ ˈoʊvɚ lɛts ˈɑrkaɪv ðə wɚld/",
+      "linking": [
+        "「start over」で start の語末 /t/ が母音の前でフラップ化 [ɾ]（スター オーバー）",
+        "「The」は弱形 /ðə/（ザ）"
+      ],
+      "kana": "ビフォー ウィ スター オーバー レッツ アーカイヴ ザ ワールド"
+    }
+  ],
+  "tags": ["Target 1900"],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "archives",
+      "ipa": "/ˈɑrkaɪvz/",
+      "examples": [
+        {
+          "en": "The server maintains multiple archives of every world version we've created.",
+          "ja": "そのサーバーは、私たちが作成したすべてのワールドバージョンの複数のアーカイブを保管している。",
+          "ipa": "/ðə ˈsɜrvər meɪnˈteɪnz ˈmʌltɪpəl ˈɑrkaɪvz əv ˈɛvəri wɚld ˈvɜrʒən wɪv kɹiˈeɪtɪd/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "of every - /v/ が /ɛ/ に連結 [əv ˈɛvəri] アヴ エヴェリ"
+          ],
+          "kana": "ザ サーバー メインテインズ マルティプル アーカイブズ アヴ エヴェリ ワールド ヴァージョン ウィヴ クリエイティッド"
+        },
+        {
+          "en": "We need to back up our archives because the storage is running out of space.",
+          "ja": "ストレージ容量が足りなくなってきているので、私たちはアーカイブをバックアップする必要がある。",
+          "ipa": "/wi ˈniːd tə bæk ʌp aʊr ˈɑrkaɪvz bɪˈkəz ðə ˈstoɹɪdʒ ˈkəpeɪsɪti ɪz ˈɹʌnɪŋ aʊt əv speɪs/",
+          "linking": [
+            "need to - /d/ が未開放で /t/ に続く [ˈniːd̚tə] ニッター",
+            "back up - /k/ が /ʌ/ に連結 [bæk ʌp] バック アップ",
+            "our archives - /r/ が /ɑ/ に連結 [aʊr ˈɑrkaɪvz] アワー アーカイブズ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ニッター バック アップ アワー アーカイブズ ビコズ ザ ストレッジ キャパシティ イズ ラニング アウト アヴ スペイス"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "archives",
+      "ipa": "/ɑrˈkaɪvz/",
+      "examples": [
+        {
+          "en": "The server administrator archives all major builds before updating the world.",
+          "ja": "サーバー管理者はワールドを更新する前に、すべての主要な建造物をアーカイブする。",
+          "ipa": "/ðə ˈsɜrvər ədˈmɪnɪˌstreɪtər ɑrˈkaɪvz ɔl ˈmeɪdʒər bɪldz bɪˈfoɹ ʌpˈdeɪtɪŋ ðə wɚld/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "administrator archives - /r/ が /ɑ/ に連結 [ˈstreɪtər ɑrˈkaɪvz] ストレイター アーカイブズ",
+            "before updating - /r/ が /ʌ/ に連結 [bɪˈfoɹ ʌpˈdeɪtɪŋ] ビフォア アップデイティング"
+          ],
+          "kana": "ザ サーバー アドミニストレイター アーカイブズ オール メイジャー ビルズ ビフォア アップデイティング ザ ワールド"
+        },
+        {
+          "en": "My system automatically archives world data every week to prevent loss.",
+          "ja": "私のシステムは、損失を防ぐために毎週自動的にワールドデータをアーカイブする。",
+          "ipa": "/maɪ ˈsɪstəm ˌɔtəˈmætɪkli ɑrˈkaɪvz wɚld ˈdeɪtə ˈɛvəri wik tu prɪˈvɛnt lɑs/",
+          "linking": [
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "マイ システム オタマティックリ アーカイブズ ワールド デイタ エヴェリ ウィック トゥ プリヴェント ロス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "archived",
+      "ipa": "/ɑrˈkaɪvd/",
+      "examples": [
+        {
+          "en": "We archived the entire server yesterday before the major reset happened.",
+          "ja": "大規模なリセットが起きる前に、昨日サーバー全体をアーカイブした。",
+          "ipa": "/wi ɑrˈkaɪvd ðə ɪnˈtaɪr ˈsɜrvər ˈjɛstərˌdeɪ bɪˈfoɹ ðə ˈmeɪdʒər ˈɹɛsɛt ˈhæpənd/",
+          "linking": [
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ アーカイヴド ザ インタイア サーバー イェスターデイ ビフォア ザ メイジャー リセット ハペンド"
+        },
+        {
+          "en": "After we archived all the old bases, we had enough space for new construction projects.",
+          "ja": "古いすべての拠点をアーカイブした後、新しい建設プロジェクトのための十分なスペースができた。",
+          "ipa": "/ˈæftər wi ɑrˈkaɪvd ɔl ðə oʊld ˈbeɪsɪz wi hæd ɪˈnʌf speɪs fɔr nu kənˈstɹʌkʃən ˈprɑdʒɛkts/",
+          "linking": [
+            "archived all - /d/ が /ɔ/ に連結 [ɑrˈkaɪvd ɔl] アーカイヴド オール",
+            "the は弱形 /ðə/ ザ",
+            "had enough - /d/ が /ɪ/ に連結 [hæd ɪˈnʌf] ハッド イナフ"
+          ],
+          "kana": "アフター ウィ アーカイヴド オール ザ オウルド ベイシズ ウィ ハッド イナフ スペイス フォア ニュー コンストラクション プロジェクツ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "archived",
+      "ipa": "/ɑrˈkaɪvd/",
+      "examples": [
+        {
+          "en": "Having archived all our builds, we could finally start the new creative season.",
+          "ja": "すべての建造物をアーカイブしたので、ついに新しい創造シーズンを始めることができた。",
+          "ipa": "/ˈhæviŋ ɑrˈkaɪvd ɔl aʊr bɪldz wi ˈkʊd ˈfaɪnəli stɑɹt ðə nu kriˈeɪtɪv ˈsizən/",
+          "linking": [
+            "Having archived - /ŋ/ が /ɑ/ に連結 [ˈhæviŋ ɑrˈkaɪvd] ハヴィング アーカイヴド",
+            "archived all - /d/ が /ɔ/ に連結 [ɑrˈkaɪvd ɔl] アーカイヴド オール",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ハヴィング アーカイヴド オール アワー ビルズ ウィ クッド ファイナリー スターット ザ ニュー クリエイティヴ シーズン"
+        },
+        {
+          "en": "Once the data has been archived, the old server can be safely removed from storage.",
+          "ja": "データがアーカイブされたら、古いサーバーはストレージから安全に削除できる。",
+          "ipa": "/wʌns ðə ˈdeɪtə həz bɪn ɑrˈkaɪvd ðə oʊld ˈsɜrvər kən bi ˈseɪfli rɪˈmuvd frəm ˈstoɹɪdʒ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "been archived - /n/ が /ɑ/ に連結 [bɪn ɑrˈkaɪvd] ビン アーカイヴド"
+          ],
+          "kana": "ワンス ザ デイタ ハズ ビン アーカイヴド ザ オウルド サーバー キャン ビー セイフリー リムーヴド フラム ストレッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "archiving",
+      "ipa": "/ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "Archiving the entire world took four hours because of the file sizes.",
+          "ja": "ファイルサイズが原因で、ワールド全体のアーカイブに4時間かかった。",
+          "ipa": "/ɑrˈkaɪvɪŋ ðə ɪnˈtaɪr wɚld tʊk fɔr ˈaʊərz bɪˈkəz əv ðə faɪl ˈsaɪzɪz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アーカイビング ザ インタイア ワールド トゥック フォア アワーズ ビコズ アヴ ザ ファイル サイジズ"
+        },
+        {
+          "en": "While archiving our server, we discovered we had kept backups of every single world reset.",
+          "ja": "サーバーをアーカイブしている間に、すべてのワールドリセットのバックアップを保管していたことに気づいた。",
+          "ipa": "/waɪl ɑrˈkaɪvɪŋ aʊr ˈsɜrvər wi dɪˈskʌvərd wi hæd kɛpt ˈbækəps əv ˈɛvəri ˈsɪŋɡəl wɚld ˈɹɪsɛt/",
+          "linking": [
+            "While archiving - /l/ が /ɑ/ に連結 [waɪl ɑrˈkaɪvɪŋ] ホワイル アーカイビング",
+            "archiving our - /ŋ/ が /aʊ/ に連結 [ɑrˈkaɪvɪŋ aʊr] アーカイビング アワー"
+          ],
+          "kana": "ホワイル アーカイビング アワー サーバー ウィ ディスカヴァード ウィ ハッド キェプト バックアップス アヴ エヴェリ シングル ワールド リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is archiving",
+      "ipa": "/ɪz ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "We're archiving our entire world because we need space.",
+          "ja": "スペースが必要だから、ワールド全体をアーカイブしているんだ。",
+          "ipa": "/wɪr ɑrˈkaɪvɪŋ aʊr ɪnˈtaɪr wɚld bɪˈkəz wi nid speɪs/",
+          "linking": [
+            "「We're archiving」で we're の語末 /r/ が archiving の母音 /ɑ/ に連結 [wɪr ɑrˈkaɪvɪŋ]（ウィア アーカイビング）",
+            "「archiving our」で archiving の語末 /ŋ/ が our の母音 /aʊ/ に連結 [ɑrˈkaɪvɪŋ aʊr]（アーカイビング アワー）"
+          ],
+          "kana": "ウィア アーカイビング アワー インタイア ワールド ビコーズ ウィ ニード スペイス"
+        },
+        {
+          "en": "She's archiving all the old bases to make room for the new season.",
+          "ja": "新しいシーズンのために、すべての古い拠点をアーカイブしているんだ。",
+          "ipa": "/ʃiz ɑrˈkaɪvɪŋ ɔl ðə oʊld ˈbeɪsɪz tə meɪk rum fɔr ðə nu ˈsizən/",
+          "linking": [
+            "「She's archiving」で she's の語末 /z/ が archiving の母音 /ɑ/ に連結 [ʃiz ɑrˈkaɪvɪŋ]（シーズ アーカイビング）",
+            "「archiving all」で archiving の語末 /ŋ/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvɪŋ ɔl]（アーカイビング オール）",
+            "「the」は機能語で弱形 /ðə/ ザ"
+          ],
+          "kana": "シーズ アーカイビング オール ザ オウルド ベイシズ タ メイク ルーム フォア ザ ニュー シーズン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was archiving",
+      "ipa": "/wəz ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "I was archiving all the old worlds when the backup completed.",
+          "ja": "バックアップが完了した時、すべての古いワールドをアーカイブしていた。",
+          "ipa": "/aɪ wəz ɑrˈkaɪvɪŋ ɔl ðə oʊld wɚldz wɛn ðə ˈbækʌp kəmˈpletəd/",
+          "linking": [
+            "「was archiving」で was の語末 /z/ が archiving の母音 /ɑ/ に連結 [wəz ɑrˈkaɪvɪŋ]（ワズ アーカイビング）",
+            "「archiving all」で archiving の語末 /ŋ/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvɪŋ ɔl]（アーカイビング オール）"
+          ],
+          "kana": "アイ ワズ アーカイビング オール ザ オウルド ワールズ ウェン ザ バックアップ コンプレティッド"
+        },
+        {
+          "en": "We were archiving our saves before the server migration happened.",
+          "ja": "サーバーマイグレーションが起きる前に、セーブデータをアーカイブしていた。",
+          "ipa": "/wi wɚ ɑrˈkaɪvɪŋ aʊr seɪvz bɪˈfoɹ ðə ˈsɜrvər maɪˈɡreɪʃən ˈhæpənd/",
+          "linking": [
+            "「were archiving」で were の語末 /r/ が archiving の母音 /ɑ/ に連結 [wɚ ɑrˈkaɪvɪŋ]（ウェア アーカイビング）",
+            "「archiving our」で archiving の語末 /ŋ/ が our の母音 /aʊ/ に連結 [ɑrˈkaɪvɪŋ aʊr]（アーカイビング アワー）"
+          ],
+          "kana": "ウィ ウェア アーカイビング アワー セイブズ ビフォア ザ サーバー マイグレイション ハペンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been archiving",
+      "ipa": "/hæd bɪn ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the update dropped, we had been archiving data for three days.",
+          "ja": "アップデートが来た時点で、3日間データをアーカイブしていた。",
+          "ipa": "/baɪ ðə taɪm ðə ʌpˈdeɪt drɑpt wi həd bɪn ɑrˈkaɪvɪŋ ˈdeɪtə fɚ θri deɪz/",
+          "linking": [
+            "「had been」で had の語末 /d/ が been の母音 /ɪ/ に連結 [həd bɪn]（ハッド ビン）",
+            "「been archiving」で been の語末 /n/ が archiving の母音 /ɑ/ に連結 [bɪn ɑrˈkaɪvɪŋ]（ビン アーカイビング）"
+          ],
+          "kana": "バイ ザ タイム ザ アップデイト ドロップト ウィ ハッド ビン アーカイビング デイタ フォア スリー デイズ"
+        },
+        {
+          "en": "She had been archiving everything for weeks, so the world was preserved.",
+          "ja": "彼女は何週間もずっとアーカイブしていたから、ワールドは保存されていた。",
+          "ipa": "/ʃi həd bɪn ɑrˈkaɪvɪŋ ˈɛvriθɪŋ fɚ wiks soʊ ðə wɚld wəz prɪˈzɜrvd/",
+          "linking": [
+            "「had been」で had の語末 /d/ が been の母音 /ɪ/ に連結 [həd bɪn]（ハッド ビン）",
+            "「been archiving」で been の語末 /n/ が archiving の母音 /ɑ/ に連結 [bɪn ɑrˈkaɪvɪŋ]（ビン アーカイビング）",
+            "「archiving everything」で archiving の語末 /ŋ/ が everything の母音 /ɛ/ に連結 [ɑrˈkaɪvɪŋ ˈɛvriθɪŋ]（アーカイビング エヴリシング）"
+          ],
+          "kana": "シー ハッド ビン アーカイビング エヴリシング フォア ウィークス ソウ ザ ワールド ワズ プリザーヴド"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will archive",
+      "ipa": "/wɪl ˈɑrkaɪv/",
+      "examples": [
+        {
+          "en": "We will archive this server before the update rolls out.",
+          "ja": "このサーバーをアップデート前にアーカイブします。",
+          "ipa": "/wi wɪl ˈɑrkaɪv ðɪs ˈsɜrvər bɪˈfoɹ ðə ʌpˈdeɪt roʊlz aʊt/",
+          "linking": [
+            "「will archive」で will の語末 /l/ が archive の母音 /ɑ/ に連結 [wɪl ˈɑrkaɪv]（ウィル アーカイヴ）",
+            "「archive this」で archive の語末 /v/ が this の /ð/ に連結 [ˈɑrkaɪv ðɪs]（アーカイヴ ディス）",
+            "「before the」で before の語末 /r/ が the の弱形母音に連結 [foɹ ðə]（フォア ザ）"
+          ],
+          "kana": "ウィ ウィル アーカイヴ ディス サーバー ビフォア ザ アップデイット ロウルズ アウット"
+        },
+        {
+          "en": "I'll archive all our completed builds tomorrow morning.",
+          "ja": "明日の朝、完成した建築物をすべてアーカイブします。",
+          "ipa": "/aɪl ˈɑrkaɪv ɔl aʊr kəmˈpletəd bɪldz təˈmɑɹoʊ ˈmɔɹnɪŋ/",
+          "linking": [
+            "「I'll archive」で I'll の語末 /l/ が archive の母音 /ɑ/ に連結 [aɪl ˈɑrkaɪv]（アイル アーカイヴ）",
+            "「archive all」で archive の語末 /v/ が all の母音 /ɔ/ に連結 [ˈɑrkaɪv ɔl]（アーカイヴ オール）",
+            "「our completed」で our の語末 /r/ が completed の弱形母音に連結 [aʊr kəmˈpletəd]（アワー コンプレティッド）"
+          ],
+          "kana": "アイル アーカイヴ オール アワー コンプレティッド ビルズ トゥモロー モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be archiving",
+      "ipa": "/wɪl bi ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The backup system will be archiving our world files all night long.",
+          "ja": "バックアップシステムが夜中ずっとワールドファイルをアーカイブします。",
+          "ipa": "/ðə ˈbækəp ˈsɪstəm wɪl bi ɑrˈkaɪvɪŋ aʊr wɚld faɪlz ɔl naɪt lɔŋ/",
+          "linking": [
+            "「archiving our」で archiving の語末 /ŋ/ が our の母音 /aʊ/ に連結 [ɑrˈkaɪvɪŋ aʊr]（アーカイビング アワー）",
+            "「the」は弱形 /ðə/（ザ）"
+          ],
+          "kana": "ザ バックアップ システム ウィル ビー アーカイビング アワー ワールド ファイルズ オール ナイト ロング"
+        },
+        {
+          "en": "While we start building, they'll be archiving all our old saves.",
+          "ja": "私たちが建築を始める間に、彼らはすべての古いセーブをアーカイブしています。",
+          "ipa": "/waɪl wi stɑɹt ˈbɪldɪŋ ðeɪl bi ɑrˈkaɪvɪŋ ɔl aʊr oʊld seɪvz/",
+          "linking": [
+            "「While we」で While の語末 /l/ が we の母音 /i/ に連結 [waɪl wi]（ホワイル ウィー）",
+            "「archiving all」で archiving の語末 /ŋ/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvɪŋ ɔl]（アーカイビング オール）",
+            "「all our」で all の語末 /l/ が our の母音に連結 [ɔl aʊr]（オール アワー）"
+          ],
+          "kana": "ホワイル ウィ スター ビルディング ゼイル ビー アーカイビング オール アワー オウルド セイブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have archived",
+      "ipa": "/wɪl həv ˈɑrkaɪvd/",
+      "examples": [
+        {
+          "en": "By Friday, we will have archived every single creative world we've ever built.",
+          "ja": "金曜日までに、作った創造モードのワールドをすべてアーカイブ完了しているはずです。",
+          "ipa": "/baɪ ˈfɹaɪdeɪ wi wɪl həv ˈɑrkaɪvd ˈɛvəri ˈsɪŋɡəl kriˈeɪtɪv wɚld wɪv ˈɛvər bɪlt/",
+          "linking": [
+            "「will have」で will の語末 /l/ が have の /h/ に続く [wɪl həv]（ウィル ハヴ）。have は弱形 /həv/",
+            "「have archived」で have の語末 /v/ が archived の母音 /ɑ/ に連結 [həv ˈɑrkaɪvd]（ハヴ アーカイヴド）",
+            "「archived every」で archived の語末 /d/ が every の母音 /ɛ/ に連結 [ˈɑrkaɪvd ˈɛvəri]（アーカイヴド エヴェリ）",
+            "「we've ever」で we've の語末 /v/ が ever の母音 /ɛ/ に連結 [wɪv ˈɛvər]（ウィヴ エヴァー）"
+          ],
+          "kana": "バイ フライデイ ウィ ウィル ハヴ アーカイヴド エヴェリ シングル クリエイティヴ ワールド ウィヴ エヴァー ビルト"
+        },
+        {
+          "en": "Once we have archived all the data, the new server will be ready to launch.",
+          "ja": "すべてのデータをアーカイブしたら、新しいサーバーが起動準備できます。",
+          "ipa": "/wʌns wi həv ˈɑrkaɪvd ɔl ðə ˈdeɪtə ðə nu ˈsɜrvər wɪl bi ˈrɛdi tə ˈlɔnʧ/",
+          "linking": [
+            "「have archived」で have の語末 /v/ が archived の母音 /ɑ/ に連結 [həv ˈɑrkaɪvd]（ハヴ アーカイヴド）",
+            "「archived all」で archived の語末 /d/ が all の母音 /ɔ/ に連結 [ˈɑrkaɪvd ɔl]（アーカイヴド オール）",
+            "「the」は弱形 /ðə/（ザ）",
+            "「to」は弱形 /tə/（タ）"
+          ],
+          "kana": "ワンス ウィ ハヴ アーカイヴド オール ザ デイタ ザ ニュー サーバー ウィル ビー レディ タ ロンチ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has archived",
+      "ipa": "/həz ɑrˈkaɪvd/",
+      "examples": [
+        {
+          "en": "The admin has archived all the previous server versions to free up storage space.",
+          "ja": "管理者はストレージ容量を解放するために、以前のすべてのサーバーバージョンをアーカイブした。",
+          "ipa": "/ðə ˈædmɪn həz ɑrˈkaɪvd ɔl ðə ˈpɹɪviəs ˈsɜrvər ˈvɜrʒənz tə ˈfɹiː ʌp ˈstoɹɪdʒ speɪs/",
+          "linking": [
+            "「has」は機能語で弱形 /həz/ に弱化（ハズ）",
+            "「archived all」で archived の語末 /d/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvd ɔl]（アーカイヴド オール）",
+            "「to」は機能語で弱形 /tə/ に弱化（タ）"
+          ],
+          "kana": "ザ アドミン ハズ アーカイヴド オール ザ プリヴィアス サーバー バージョンズ タ フリー アップ ストレッジ スペイス"
+        },
+        {
+          "en": "We've already archived the entire world, so we can now delete the old backup.",
+          "ja": "ワールド全体をアーカイブしたから、古いバックアップを削除できる。",
+          "ipa": "/wɪv ɔlˈɹɛdi ɑrˈkaɪvd ðə ɪnˈtaɪr wɚld soʊ wi kən naʊ dɪˈlit ðə oʊld ˈbækʌp/",
+          "linking": [
+            "「We've already」で We've の語末 /v/ が already の母音 /ɔ/ に連結 [wɪv ɔlˈɹɛdi]（ウィヴ オールレディ）",
+            "「archived the」で archived の語末 /d/ が the の母音 /ə/ に連結 [ɑrˈkaɪvd ðə]（アーカイヴド ザ）",
+            "「can」は機能語で弱形 /kən/ に弱化（カン）"
+          ],
+          "kana": "ウィヴ オールレディ アーカイヴド ザ インタイア ワールド ソウ ウィ カン ナウ ディリート ザ オウルド バックアップ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had archived",
+      "ipa": "/həd ɑrˈkaɪvd/",
+      "examples": [
+        {
+          "en": "Once we had archived everything, the server reset process was finally complete.",
+          "ja": "すべてをアーカイブしたら、サーバーリセットプロセスはついに完了した。",
+          "ipa": "/wʌns wi həd ɑrˈkaɪvd ˈɛvriθɪŋ ðə ˈsɜrvər ˈɹɛsɛt ˈprɑˌsɛs wəz ˈfaɪnəli kəmˈplit/",
+          "linking": [
+            "「had archived」で had の語末 /d/ が archived の母音 /ɑ/ に連結 [həd ɑrˈkaɪvd]（ハッド アーカイヴド）",
+            "「archived everything」で archived の語末 /d/ が everything の母音 /ɛ/ に連結 [ɑrˈkaɪvd ˈɛvriθɪŋ]（アーカイヴド エヴリシング）",
+            "「was」は弱形 /wəz/（ワズ）"
+          ],
+          "kana": "ワンス ウィ ハッド アーカイヴド エヴリシング ザ サーバー リセット プロセス ワズ ファイナリー コンプリート"
+        },
+        {
+          "en": "By the time the server crashed, he had already archived all the important builds.",
+          "ja": "サーバーがクラッシュした時点で、彼はすでにすべての重要な建造物をアーカイブしていた。",
+          "ipa": "/baɪ ðə taɪm ðə ˈsɜrvər kɹæʃt hi həd ɔlˈɹɛdi ɑrˈkaɪvd ɔl ðə ɪmˈpoɹtənt bɪldz/",
+          "linking": [
+            "「had already」で had の語末 /d/ が already の母音 /ɔ/ に連結 [həd ɔlˈɹɛdi]（ハッド オールレディ）",
+            "「archived all」で archived の語末 /d/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvd ɔl]（アーカイヴド オール）",
+            "「the」は機能語で弱形 /ðə/ に弱化（ザ）"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー クラッシュト ヒー ハッド オールレディ アーカイヴド オール ザ インポータント ビルズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been archiving",
+      "ipa": "/həz bɪn ɑrˈkaɪvɪŋ/",
+      "examples": [
+        {
+          "en": "The system has been archiving all world data continuously for the past three hours.",
+          "ja": "システムは過去3時間、ワールドデータを継続的にアーカイブしている。",
+          "ipa": "/ðə ˈsɪstəm həz bɪn ɑrˈkaɪvɪŋ ɔl wɚld ˈdeɪtə kənˈtɪnjuəsli fɔr ðə pæst θɹiː ˈaʊərz/",
+          "linking": [
+            "「has been」で has の語末 /z/ が been の母音 /ɪ/ に連結 [həz bɪn]（ハズ ビン）",
+            "「been archiving」で been の語末 /n/ が archiving の母音 /ɑ/ に連結 [bɪn ɑrˈkaɪvɪŋ]（ビン アーカイビング）",
+            "「archiving all」で archiving の語末 /ŋ/ が all の母音 /ɔ/ に連結 [ɑrˈkaɪvɪŋ ɔl]（アーカイビング オール）"
+          ],
+          "kana": "ザ システム ハズ ビン アーカイビング オール ワールド デイタ コンティニュアスリー フォア ザ パースト スリー アワーズ"
+        },
+        {
+          "en": "We've been archiving our server files all week, and we're almost finished with the backup.",
+          "ja": "1週間ずっとサーバーファイルをアーカイブしていて、バックアップがもうすぐ終わる。",
+          "ipa": "/wɪv bɪn ɑrˈkaɪvɪŋ aʊr ˈsɜrvər faɪlz ɔl wik ən wɪr ˈɔlmoʊst ˈfɪnɪʃt wɪð ðə ˈbækʌp/",
+          "linking": [
+            "「We've been」で We've の語末 /v/ が been の母音 /ɪ/ に連結 [wɪv bɪn]（ウィヴ ビン）",
+            "「been archiving」で been の語末 /n/ が archiving の母音 /ɑ/ に連結 [bɪn ɑrˈkaɪvɪŋ]（ビン アーカイビング）",
+            "「archiving our」で archiving の語末 /ŋ/ が our の母音 /aʊ/ に連結 [ɑrˈkaɪvɪŋ aʊr]（アーカイビング アワー）"
+          ],
+          "kana": "ウィヴ ビン アーカイビング アワー サーバー ファイルズ オール ウィック アン ウィア オールモースト フィニシュト ウィズ ザ バックアップ"
+        }
+      ]
+    }
+  ]
+}
