@@ -406,6 +406,96 @@
           "kana": "ウィ ハヴ ビン フォージング トゥールズ シンス ウィ スターティッド アウア ベイス イクスパンション"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will forge",
+      "ipa": "/wɪl ˈfɔɹdʒ/",
+      "examples": [
+        {
+          "en": "I'll forge a diamond sword after finding enough ore in the deep caves.",
+          "ja": "深い洞窟で十分なリソースを見つけた後、ダイヤモンドの剣を作ります。",
+          "ipa": "/aɪl ˈfɔɹdʒ ə ˈdaɪ.mənd ˈsɔrd ˈæf.tɚ ˈfaɪn.ɪŋ ɪˈnʌf ˈɔɹ ɪn ðə ˈdip ˈkeɪvz/",
+          "linking": [
+            "「I'll forge」—will の縮約形 I'll [aɪl]；forge の /f/ へ（子音-子音）[aɪl ˈfɔɹdʒ]→アイル フォージ",
+            "「forge a」—語末子音 /dʒ/ が弱形 /ə/ に連結 [ˈfɔɹdʒ ə]→フォージア",
+            "「enough ore」—語末 /f/ が母音 /ɔ/ に連結 [ɪˈnʌf ˈɔɹ]→イナフ オア"
+          ],
+          "kana": "アイル フォージ ア ダイモンド ソード アフター ファインディング イナフ オア イン ザ ディープ ケイヴズ"
+        },
+        {
+          "en": "The blacksmith will forge protective equipment before the raid begins tomorrow.",
+          "ja": "鍛冶屋は明日レイドが始まる前に、防御装備を作ります。",
+          "ipa": "/ðə ˈblæk.smɪθ wɪl ˈfɔɹdʒ prəˈtɛk.tɪv ɪˈkwɪp.mənt bɪˈfɔr ðə ˈreɪd bɪˈɡɪnz təˈmɑ.roʊ/",
+          "linking": [
+            "「the blacksmith」—弱形 /ðə/ と子音 /b/ 連接 [ðə ˈblæk.smɪθ]→ザ ブラックスミス",
+            "「will forge」—will /wɪl/、/l/ が子音 /f/ に後続（子音-子音）[wɪl ˈfɔɹdʒ]→ウィル フォージ",
+            "「the raid」—弱形 /ðə/ と子音 /r/ 連接 [ðə ˈreɪd]→ザ レイド"
+          ],
+          "kana": "ザ ブラックスミス ウィル フォージ プロテクティヴ イクウィップメント ビフォア ザ レイド ビギンズ トゥモーロウ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be forging",
+      "ipa": "/wɪl bi ˈfɔɹdʒɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be forging legendary weapons when the supply merchants finally arrive at our base.",
+          "ja": "サプライ商人が私たちの基地に最終的に到着するとき、私たちは伝説的な武器を作成中でしょう。",
+          "ipa": "/wɪl bi ˈfɔɹdʒɪŋ ˈlɛdʒənˌɛri ˈwɛp.ənz wɛn ðə səˈplaɪ ˈmɝtʃənts ˈfaɪ.nə.li əˈraɪv æt aʊɚ ˈbeɪs/",
+          "linking": [
+            "「We'll be forging」—will の縮約形 we'll [wɪl]；be は弱形 /bə/ またはより普通に /bi/、forging の /f/ へ（子音-子音）[wɪl bi ˈfɔɹdʒɪŋ]→ウィル ビー フォージング",
+            "「the supply」—弱形 /ðə/ と子音 /s/ 連接 [ðə səˈplaɪ]→ザ サプライ",
+            "「our base」—語末 /ɚ/ が母音 /b/ に連結 [aʊɚ ˈbeɪs]→アワー ベイス"
+          ],
+          "kana": "ウィル ビー フォージング レジェンダリー ウェポンズ ウェン ザ サプライ マーチャンツ ファイナリー ア ライヴ アット アワー ベイス"
+        },
+        {
+          "en": "The players will be forging tools continuously throughout the peaceful afternoon ahead.",
+          "ja": "プレイヤーたちは平和な午後を通じて一日中ツールを作成中でしょう。",
+          "ipa": "/ðə ˈpleɪ.ɚz wɪl bi ˈfɔɹdʒɪŋ ˈtulz kənˈtɪnuəsli θɹuˈaʊt ðə ˈpis.fəl ˌæf.tərˈnun əˈhɛd/",
+          "linking": [
+            "「the players」—弱形 /ðə/ と子音 /p/ 連接 [ðə ˈpleɪ.ɚz]→ザ プレイヤーズ",
+            "「will be forging」—will /wɪl/、/l/ が /b/ に後続（子音-子音）。be は弱形 /bə/ [wɪl bi ˈfɔɹdʒɪŋ]→ウィル ビー フォージング",
+            "「the peaceful」—弱形 /ðə/ と子音 /p/ 連接 [ðə ˈpis.fəl]→ザ ピースフル"
+          ],
+          "kana": "ザ プレイヤーズ ウィル ビー フォージング トゥールズ コンティニュアスリー スルーアウト ザ ピースフル アフターヌーン ア ヘッド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have forged",
+      "ipa": "/wɪl ˈhæv ˈfɔɹdʒd/",
+      "examples": [
+        {
+          "en": "I will have forged a complete set of diamond tools by the time the speedrun timer stops.",
+          "ja": "スピードラン計時器が止まる時までに、完全なダイヤモンドツールセットを作成してしまいます。",
+          "ipa": "/aɪ wɪl ˈhæv ˈfɔɹdʒd ə kəmˈplit sɛt əv ˈdaɪ.mənd ˈtulz baɪ ðə ˈtaɪm ðə ˈspidˌrʌn ˈtaɪ.mɚ stɑps/",
+          "linking": [
+            "「will have」—will は /wɪl/、/l/ が /h/ に後続（子音-子音）。have は弱形 /həv/ [wɪl ˈhæv]→ウィル ハヴ",
+            "「have forged」—have の語末 /v/ が母音 /ə/ に連結 [ˈhæv ˈfɔɹdʒd]→ハヴ フォージド",
+            "「the time」—弱形 /ðə/ と子音 /t/ 連接 [ðə ˈtaɪm]→ザ タイム"
+          ],
+          "kana": "アイ ウィル ハヴ フォージド ア コンプリート セット アブ ダイモンド トゥールズ バイ ザ タイム ザ スピードラン タイマー ストップス"
+        },
+        {
+          "en": "By the end of the day, we will have forged enough armor and weapons for the entire guild.",
+          "ja": "その日の終わりまでに、私たちはギルド全体のための十分な防具と武器を作成してしまいます。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈdeɪ | wɪ wɪl ˈhæv ˈfɔɹdʒd ɪˈnʌf ˈɑɹ.mɚ ənd ˈwɛp.ənz fɚ ðə ɪnˈtaɪɚ ɡɪld/",
+          "linking": [
+            "「will have」—will /wɪl/、/l/ が /h/ に後続（子音-子音）。have は弱形 /həv/ [wɪl ˈhæv]→ウィル ハヴ",
+            "「have forged」—have の /v/ が母音 /ə/ に連結 [ˈhæv ˈfɔɹdʒd]→ハヴ フォージド",
+            "「the end」—弱形 /ðə/ と子音 /ɛ/ 連接 [ðə ˈɛnd]→ザ エンド"
+          ],
+          "kana": "バイ ザ エンド アブ ザ デイ、ウィ ウィル ハヴ フォージド イナフ アーマー アンド ウェポンズ フォー ザ インタイアー ギルド"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
