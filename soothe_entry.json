@@ -243,6 +243,111 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will soothe",
+      "ipa": "/wɪl suːð/",
+      "examples": [
+        {
+          "en": "The new music update will soothe players who find exploring caves stressful.",
+          "ja": "新しい音楽アップデートは洞窟探索がストレスフルだと感じるプレイヤーを癒すだろう。",
+          "ipa": "/ðə ˈnjuː ˈmjuːzɪk ˈʌpˌdeɪt wɪl suːð ˈpleɪərz huː ˈfaɪnd ɪkˈsplɔːrɪŋ ˈkeɪvz ˈstrɛsfəl/",
+          "kana": "ザ ニュー ミュージック アップデイト ウィル スーズ プレイヤーズ フー ファインド イクスプローリング ケイブズ ストレスフル",
+          "linking": [
+            "the は弱形 /ðə/",
+            "update の語末 /t/ が will の初頭 /w/ に続く（未開放 [ˈʌpˌdeɪt̚ wɪl]）",
+            "find の語末 /d/ が exploring の初頭 /ɪ/ に連結 [ˈfaɪnd ɪkˈsplɔːrɪŋ]",
+            "exploring の語末 /ŋ/ が caves の初頭 /k/ に続く（子音+子音で連結なし）"
+          ]
+        },
+        {
+          "en": "I'll soothe my anxiety with some peaceful building tomorrow.",
+          "ja": "明日は平和なビルディングで私の不安を癒すだろう。",
+          "ipa": "/aɪl suːð maɪ æŋˈzaɪəti wɪð səm ˈpiːsfəl ˈbɪldɪŋ təˈmɑːroʊ/",
+          "kana": "アイル スーズ マイ アングザイアティ ウィズ サム ピースフル ビルディング トゥモロウ",
+          "linking": [
+            "I'll は I /aɪ/ と will /wɪl/ の縮約 [aɪl]",
+            "with は /wɪð/ で有声音",
+            "some は弱形 /səm/",
+            "peaceful の語末 /l/ が building の初頭 /b/ に続く（子音+子音で連結なし）",
+            "building の語末 /ŋ/ が tomorrow の初頭 /t/ に続く（子音+子音で連結なし）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be soothing",
+      "ipa": "/wɪl bi ˈsuːðɪŋ/",
+      "examples": [
+        {
+          "en": "While we're waiting for the server restart, building will be soothing everyone's stress.",
+          "ja": "サーバー再起動を待つ間、ビルディングは皆のストレスを癒し続けているだろう。",
+          "ipa": "/ˈwaɪl wɪr ˈweɪtɪŋ fər ðə ˈsɜrvər rɪˈstɑːrt ˈbɪldɪŋ wɪl bi ˈsuːðɪŋ ˈɛvriˌwʌnz strɛs/",
+          "kana": "ワイル ウィアー ウェイティング ファー ザ サーヴァー リスターット ビルディング ウィル ビ スーディング エブリワンズ ストレス",
+          "linking": [
+            "while の語末 /l/ が we're の初頭 /w/ に続く（子音+子音で連結なし）",
+            "we're は we /wi/ と are の弱形 /ɑr/ の縮約 [wɪr]",
+            "for は弱形 /fər/",
+            "restart の語末 /t/ が building の初頭 /b/ に続く（未開放）",
+            "building の語末 /ŋ/ が will の初頭 /w/ に続く（子音+子音で連結なし）"
+          ]
+        },
+        {
+          "en": "They'll be soothing the anxious community with creative tools next week.",
+          "ja": "来週、彼らはクリエイティブツールで不安なコミュニティを癒し続けているだろう。",
+          "ipa": "/ðeɪl bi ˈsuːðɪŋ ðə ˈæŋʃəs kəˈmjuːnəti wɪð kriˈeɪtɪv ˈtuːlz ˈnɛkst ˈwiːk/",
+          "kana": "ゼイル ビ スーディング ザ アングシャス コミュニティ ウィズ クリエイティブ ツールズ ネクスト ウィーク",
+          "linking": [
+            "They'll は they /ðeɪ/ と will /wɪl/ の縮約 [ðeɪl]",
+            "be は弱形 /bi/",
+            "the は弱形 /ðə/",
+            "creative の語末 /v/ が tools の初頭 /t/ に続く（子音+子音で連結なし）",
+            "next の語末 /t/ が week の初頭 /w/ に続く（未開放）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have soothed",
+      "ipa": "/wɪl həv ˈsuːðd/",
+      "examples": [
+        {
+          "en": "By the end of this update cycle, the developers will have soothed all player concerns.",
+          "ja": "このアップデートサイクルの終わりまでに、開発者はプレイヤーの全ての懸念を癒しているだろう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs ˈʌpˌdeɪt ˈsaɪkəl ðə dɪˈvɛləpərz wɪl həv ˈsuːðd ɔːl ˈpleɪər kənˈsɜrnz/",
+          "kana": "バイ ザ エンド ア ディス アップデイト サイクル ザ ディベラパーズ ウィル ハヴ スーザド オール プレイヤー コンサーンズ",
+          "linking": [
+            "by の語末 /aɪ/ は /baɪ/",
+            "the (1st) は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "end の語末 /d/ が of の初頭 /ə/ に連結 [ˈɛnd əv]",
+            "this は /ðɪs/",
+            "cycle の語末 /l/ が the の初頭 /ð/ に続く（子音+子音で連結なし）",
+            "the (2nd) は弱形 /ðə/",
+            "have は弱形 /həv/"
+          ]
+        },
+        {
+          "en": "We will have soothed every anxious villager before reaching the endgame.",
+          "ja": "エンドゲームに到達する前に、私たちはすべての不安なヴィレッジャーを癒しているだろう。",
+          "ipa": "/wi wɪl həv ˈsuːðd ˈɛvri ˈæŋʃəs ˈvɪlɪdʒər bɪˈfɔr ˈriːtʃɪŋ ðə ˈɛndˌɡeɪm/",
+          "kana": "ウィ ウィル ハヴ スーザド エブリ アングシャス ヴィレッジャー ビフォー リーチング ザ エンドゲイム",
+          "linking": [
+            "will は /wɪl/",
+            "have は弱形 /həv/",
+            "every の語末 /i/ が anxious の初頭 /ˈæ/ に連結（スムーズに続く）",
+            "anxious の語末 /s/ が villager の初頭 /v/ に続く（子音+子音で連結なし）",
+            "before の語末 /r/ が reaching の初頭 /r/ に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ]
+        }
+      ]
     }
   ]
 }
