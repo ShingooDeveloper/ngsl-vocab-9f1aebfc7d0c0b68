@@ -270,6 +270,96 @@
           "kana": "ザ プレイヤーズ ハド ビン モーニング ザー ロセズ フォー アワーズ ウェン ザ ファウンド ザ トレジャー ヴォルト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has mourned",
+      "ipa": "/həz ˈmɔrnd/",
+      "examples": [
+        {
+          "en": "She has mourned the loss of her enchanted pickaxe for days.",
+          "ja": "彼女は何日も彼女の魔法のツルハシの喪失を悼んでいます。",
+          "ipa": "/ʃi həz ˈmɔrnd ðə lɔs əv hɚ ɛnˈtʃæntəd ˈpɪkæks fər ˈdeɪz/",
+          "linking": [
+            "has は弱形 /həz/ → [həz ˈmɔr] ハズ モーンド",
+            "「loss of」で語末子音 /s/ が母音 /ə/ に連結 → [lɔs əv] ロス アブ",
+            "「the」は弱形 /ðə/ ザ、「for」は弱形 /fər/ フォー"
+          ],
+          "kana": "シー ハズ モーンド ザ ロス アブ ハー エンチャンティド ピックアックス フォー デイズ"
+        },
+        {
+          "en": "We have mourned our fallen comrades since the Wither destroyed everything.",
+          "ja": "ウィザーがすべてを破壊して以来、私たちは倒れた仲間を悼んでいます。",
+          "ipa": "/wi həv ˈmɔrnd aʊɚ ˈfɔlən ˈkɑmredz sɪns ðə ˈwɪðər dɪˈstrɔɪd ˈɛvriθɪŋ/",
+          "linking": [
+            "have は弱形 /həv/ → [həv ˈmɔr] ハヴ モーンド",
+            "「mourned our」で語末子音 /d/ が母音 /aʊ/ に連結 → [ˈmɔrnd aʊɚ] モーンド アワー",
+            "「the Wither」で the は弱形 /ðə/ → [ðə ˈwɪðər] ザ ウィザー"
+          ],
+          "kana": "ウィ ハヴ モーンド アワー フォーレン コムラッズ シンス ザ ウィザー ディストロイド エブリシング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had mourned",
+      "ipa": "/həd ˈmɔrnd/",
+      "examples": [
+        {
+          "en": "We had mourned our base for hours before the rescue team finally arrived.",
+          "ja": "救出チームが最終的に到着する前に、私たちは何時間も基地を悼んでいました。",
+          "ipa": "/wi həd ˈmɔrnd aʊɚ ˈbeɪs fər ˈaʊɚz bɪˈfɔr ðə ˈrɛskju tim ˈfaɪnəli əˈraɪvd/",
+          "linking": [
+            "had は弱形 /həd/ → [həd ˈmɔr] ハド モーンド",
+            "「mourned our」で語末子音 /d/ が母音 /aʊ/ に連結 → [ˈmɔrnd aʊɚ] モーンド アワー",
+            "「the rescue」で the は弱形 /ðə/ → [ðə ˈrɛskju] ザ レスキュー"
+          ],
+          "kana": "ウィ ハド モーンド アワー ベイス フォー アワーズ ビフォー ザ レスキュー ティーム ファイナリー アライブド"
+        },
+        {
+          "en": "The miners had mourned their fallen companion before discovering the diamond mine.",
+          "ja": "ダイヤモンド鉱山を発見する前に、鉱夫たちは倒れた仲間を悼んでいました。",
+          "ipa": "/ðə ˈmaɪnərz həd ˈmɔrnd ðɛr ˈfɔlən kəˈpænjən bɪˈfɔr dɪˈskʌvərɪŋ ðə ˈdaɪmənd ˈmaɪn/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "「mourned their」で語末子音 /d/ が子音 /ð/ に続く（子音+子音）分かれる",
+            "「the diamond」で the は弱形 /ðə/ → [ðə ˈdaɪ] ザ ダイモンド"
+          ],
+          "kana": "ザ マイナーズ ハド モーンド ザー フォーレン コンパニオン ビフォー ディスカバリング ザ ダイモンド マイン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been mourning",
+      "ipa": "/həz bɪn ˈmɔrnɪŋ/",
+      "examples": [
+        {
+          "en": "He has been mourning the loss of his entire collection since the server crashed.",
+          "ja": "サーバーがクラッシュして以来、彼はコレクション全体の喪失を悼んでいます。",
+          "ipa": "/hi həz bɪn ˈmɔrnɪŋ ðə lɔs əv hɪz ɛnˈtaɪər kəˈlɛkʃən sɪns ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン",
+            "「loss of」で語末子音 /s/ が母音 /ə/ に連結 → [lɔs əv] ロス アブ",
+            "「the server」で the は弱形 /ðə/ → [ðə ˈsɝvər] ザ サーバー"
+          ],
+          "kana": "ヒー ハズ ビン モーニング ザ ロス アブ ヒズ エンタイアー コレクション シンス ザ サーバー クラッシュト"
+        },
+        {
+          "en": "The builders have been mourning the destruction of their fortress for weeks.",
+          "ja": "ビルダーたちは彼らの要塞の破壊を何週間も悼んでいます。",
+          "ipa": "/ðə ˈbɪldərz həv bɪn ˈmɔrnɪŋ ðə dɪˈstrʌkʃən əv ðɛr ˈfɔɹtrəs fər ˈwiks/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン",
+            "「mourning the」で語末 /ŋ/ が子音 /ð/ に続く（子音+子音）分かれる、the は弱形 /ðə/ ザ",
+            "「of」は弱形 /əv/ オブ、「for」は弱形 /fər/ フォー"
+          ],
+          "kana": "ザ ビルダーズ ハヴ ビン モーニング ザ ディストラクション アブ ザー フォートレス フォー ウィークス"
+        }
+      ]
     }
   ],
   "tags": [
