@@ -289,6 +289,186 @@
           "kana": "シー ハド ビン マニプュレイティング ザ エンチャントメント アルゴリズム ファー ウィークス ビフォア ファインディング ザ パーフェクト コンビネイション"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has manipulated",
+      "ipa": "/hæz ˌmænɪpjəˈleɪtəd/",
+      "examples": [
+        {
+          "en": "I have manipulated the hopper timings to auto-sort all items.",
+          "ja": "私はホッパーのタイミングを操作して、すべてのアイテムを自動分別しました。",
+          "ipa": "/aɪ həv ˌmænɪpjəˈleɪtəd ðə ˈhɑpɚ ˈtaɪmɪŋz tu ˌɔtoʊˈsɔɹt ɔl ˈaɪtəmz/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "アイ ハヴ マニプュレイティッド ザ ハッパー タイミングズ タ オートソート オール アイテムズ"
+        },
+        {
+          "en": "We have manipulated every villager in this town to get the lowest prices.",
+          "ja": "私たちはこの町のすべての村人を操作して最安値を取得しました。",
+          "ipa": "/wi həv ˌmænɪpjəˈleɪtəd ˈɛvri ˈvɪlɪdʒɚ ɪn ðɪs taʊn tu ɡɛt ðə ˈloʊəst ˈpɹaɪsɪz/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ウィ ハヴ マニプュレイティッド エブリ ビリッジャー イン ディス タウン タ ゲット ザ ロウエスト プライシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had manipulated",
+      "ipa": "/həd ˌmænɪpjəˈleɪtəd/",
+      "examples": [
+        {
+          "en": "We had manipulated the spawn rates before the update reset the world.",
+          "ja": "更新がワールドをリセットする前に、私たちはスポーン率を操作していました。",
+          "ipa": "/wi həd ˌmænɪpjəˈleɪtəd ðə spoʊn ˈɹeɪts bɪˈfoɹ ðə ˈʌpˌdeɪt riˈsɛt ðə wɝld/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ（2箇所）",
+            "before は /bɪˈfoɹ/ ビフォア"
+          ],
+          "kana": "ウィ ハド マニプュレイティッド ザ スポウン レイツ ビフォア ザ アップデイト リセット ザ ワールド"
+        },
+        {
+          "en": "She had manipulated the enchantment system for weeks before discovering a much simpler method.",
+          "ja": "彼女は、もっとシンプルな方法を発見する数週間前に、エンチャント システムを操作していました。",
+          "ipa": "/ʃi həd ˌmænɪpjəˈleɪtəd ðə ɪnˈtʃæntmənt ˈsɪstəm fɚ wiːks bɪˈfoɹ ˌdɪsˈkʌvɚɪŋ ə ˈmʌtʃ ˈsɪmpləɹ ˈmɛðəd/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "シー ハド マニプュレイティッド ザ エンチャントメント システム ファー ウィークス ビフォア ディスカヴァリング ア マッチ シンプラー メザッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been manipulating",
+      "ipa": "/hæz bɪn ˌmænɪpjəˈleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been manipulating the redstone circuit all day trying to get it to work.",
+          "ja": "私は一日中レッドストーン回路を操作して、それが機能するようにしようとしています。",
+          "ipa": "/aɪ həv bɪn ˌmænɪpjəˈleɪtɪŋ ðə ˈrɛdˌstoʊn ˈsɝkɪt ɔl ˈdeɪ ˈtɹaɪɪŋ tu ɡɛt ɪt tu wɝk/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ（2箇所）、it の語末 /t/ は未開放"
+          ],
+          "kana": "アイ ハヴ ビン マニプュレイティング ザ レッドストウン サーキット オール デイ トライング タ ゲット イッ タ ワーク"
+        },
+        {
+          "en": "The admin has been manipulating the NBT data to create custom mobs all night.",
+          "ja": "管理者は一晩中、カスタムモブを作成するためにNBTデータを操作しています。",
+          "ipa": "/ðə ˈædmɪn hæz bɪn ˌmænɪpjəˈleɪtɪŋ ðə ɛn bi ti ˈdeɪtə tu kriˈeɪt ˈkʌstəm moʊbz ɔl naɪt/",
+          "linking": [
+            "has は /hæz/ ハズ、been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ（2箇所）",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ザ アドミン ハズ ビン マニプュレイティング ザ エンビーティー デイタ タ クリエイト カスタム モウブズ オール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will manipulate",
+      "ipa": "/wɪl ˌmænɪpjəˈleɪt/",
+      "examples": [
+        {
+          "en": "I'll manipulate the hopper timing to create an efficient sorting system.",
+          "ja": "私はホッパーのタイミングを操作して、効率的な分別システムを作成します。",
+          "ipa": "/aɪl ˌmænɪpjəˈleɪt ðə ˈhɑpɚ ˈtaɪmɪŋ tu kriˈeɪt ən ɪˈfɪʃənt ˈsɔɹtɪŋ ˈsɪstəm/",
+          "linking": [
+            "I'll は I will の縮約形 /aɪl/ アイル",
+            "the は弱形 /ðə/ ザ、to は弱形 /tə/ タ",
+            "an は弱形 /ən/ アン"
+          ],
+          "kana": "アイル マニプュレイト ザ ハッパー タイミング タ クリエイト アン イフィシェント ソーティング システム"
+        },
+        {
+          "en": "They'll manipulate the enchantment rates to guarantee power level 5 books.",
+          "ja": "彼らはエンチャントの確率を操作して、パワーレベル5の本を保証します。",
+          "ipa": "/ðeɪl ˌmænɪpjəˈleɪt ðə ɪnˈtʃæntmənt ˈreɪts tu ɡæɹənˈti ˈpaʊɚ ˈlɛvəl ˈfaɪv bʊks/",
+          "linking": [
+            "They'll は they will の縮約形 /ðeɪl/ ゼイル",
+            "the は弱形 /ðə/ ザ、to は弱形 /tə/ タ",
+            "guarantee の語末 /i/ から power の /p/ へは子音-子音で連結なし"
+          ],
+          "kana": "ゼイル マニプュレイト ザ エンチャントメント レイツ タ ガランティー パワー レベル ファイヴ ブックス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be manipulating",
+      "ipa": "/wɪl bi ˌmænɪpjəˈleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be manipulating the TNT launcher while you're mining for diamonds.",
+          "ja": "あなたがダイヤモンドを採掘している間、私はTNTランチャーを操作しています。",
+          "ipa": "/aɪl bi ˌmænɪpjəˈleɪtɪŋ ðə ti ɛn ti ˈlɔntʃɚ ˈwaɪl juɚ ˈmaɪnɪŋ fɚ ˈdaɪəmənds/",
+          "linking": [
+            "I'll be /aɪl bi/ アイル ビー。I'll の語末 /l/ と be の /b/ は子音-子音",
+            "the は弱形 /ðə/ ザ",
+            "you're は /jɔɹ/ または /juɚ/ ユア、while の /l/ に続く"
+          ],
+          "kana": "アイル ビー マニプュレイティング ザ ティエンティー ロンチャー ワイル ユアー マイニング ファー ダイアモンズ"
+        },
+        {
+          "en": "We'll be manipulating the spawner mechanics all night to perfect the design.",
+          "ja": "私たちは一晩中スポーナーの仕組みを操作してデザインを完璧にします。",
+          "ipa": "/wil bi ˌmænɪpjəˈleɪtɪŋ ðə ˈspoʊnɚ məˈkænɪks ɔl ˈnaɪt tu ˈpɝfɪkt ðə dɪˈzaɪn/",
+          "linking": [
+            "We'll be /wil bi/ ウィル ビー。will の語末 /l/ と be の /b/ は子音-子音",
+            "the は弱形 /ðə/ ザ（2箇所）",
+            "perfect の語末 /t/ は未開放で the の /ð/ に続く [pɚˈfɛk̚t ðə]"
+          ],
+          "kana": "ウィル ビー マニプュレイティング ザ スポーナー メキャニクス オール ナイト タ パーフェック ザ ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have manipulated",
+      "ipa": "/wɪl həv ˌmænɪpjəˈleɪtəd/",
+      "examples": [
+        {
+          "en": "By tomorrow I will have manipulated all the redstone circuits in the base.",
+          "ja": "明日までに、私はベース内のすべてのレッドストーン回路を操作しているでしょう。",
+          "ipa": "/baɪ təˈmɑɹoʊ aɪ wɪl həv ˌmænɪpjəˈleɪtəd ɔl ðə ˈrɛdˌstoʊn ˈsɝkɪts ɪn ðə beɪs/",
+          "linking": [
+            "will have /wɪl həv/ ウィル ハヴ。will の語末 /l/ が have の /h/ に続く子音-子音、have は弱形で /həv/",
+            "the は弱形 /ðə/ ザ",
+            "circuits の語末 /ts/ と in の /ɪ/ は子音-母音だが語境界で連結なし"
+          ],
+          "kana": "バイ トゥマロウ アイ ウィル ハヴ マニプュレイティッド オール ザ レッドストウン サーキッツ イン ザ ベイス"
+        },
+        {
+          "en": "She will have manipulated every aspect of the trading system before we return.",
+          "ja": "私たちが戻る前に、彼女は取引システムのあらゆる側面を操作しているでしょう。",
+          "ipa": "/ʃi wɪl həv ˌmænɪpjəˈleɪtəd ˈɛvri ˈæspɛkt əv ðə ˈtɹeɪdɪŋ ˈsɪstəm bɪˈfoɹ wi rɪˈtɝn/",
+          "linking": [
+            "will have /wɪl həv/ ウィル ハヴ",
+            "aspect の語末 /t/ は未開放で of の /əv/ に続く [ˈæspɛk̚t əv] アスペック アヴ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ウィル ハヴ マニプュレイティッド エブリ アスペック アヴ ザ トレーディング システム ビフォア ウィ リターン"
+        }
+      ]
     }
   ]
 }
