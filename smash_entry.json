@@ -1,0 +1,305 @@
+{
+  "word": "smash",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/smæʃ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "smash(?:es|ed|ing)?|Smash",
+  "meanings": [
+    "【動詞】何かを激しく破壊する、砕く（to break something violently or crush it）",
+    "【動詞】何かに激しく衝突させる、ぶつかる（to hit or collide into something forcefully）",
+    "【名詞】大ヒット、大成功（a smash hit; something hugely successful and popular）"
+  ],
+  "examples": [
+    {
+      "en": "Smash the stone blocks to gather resources quickly.",
+      "ja": "石のブロックを砕いてリソースを素早く集めてください。",
+      "ipa": "/smæʃ ðə ˈstoʊn blɑks tə ˈɡæðɚ ˈrɛsɚsɪz ˈkwɪkli/",
+      "linking": [
+        "the は機能語で弱形 /ðə/",
+        "to は機能語で弱形 /tə/"
+      ],
+      "kana": "スマッシュ ザ ストーン ブラックス タ ギャザー リソーシーズ クイックリー"
+    },
+    {
+      "en": "We smashed through the wall to reach the treasure room.",
+      "ja": "私たちは壁を壊して宝物の部屋に到達しました。",
+      "ipa": "/wi smæʃt θru ðə wɔl tə ˈriːtʃ ðə ˈtrɛʒɚ rum/",
+      "linking": [
+        "smashed の末尾 /t/ は次の /θ/ の前で未開放 [t̚]",
+        "the は機能語で弱形 /ðə/"
+      ],
+      "kana": "ウィ スマッシュト スルー ザ ウォール タ リーチ ザ トレジャー ルーム"
+    },
+    {
+      "en": "That dragon attack was a smash hit against our best defenses.",
+      "ja": "そのドラゴンの攻撃は私たちの最高の防御に対して大ヒットでした。",
+      "ipa": "/ðæt ˈdræɡən əˈtæk wəz ə smæʃ hɪt əˈɡɛnst ˌaʊɚ bɛst dɪˈfɛnsɪz/",
+      "linking": [
+        "a は弱形 /ə/",
+        "against の末尾 /t/ が our の /aʊ/ に連結してフラップ化 [əˈɡɛnsɹaʊɚ]"
+      ],
+      "kana": "ザット ドラゴン アタック ワズ ア スマッシュ ヒット アゲインス ラウアー ベスト ディフェンシーズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "smash hit",
+      "ja": "大ヒット、大成功作",
+      "example": "Our new server theme design was a smash hit with the community.",
+      "example_ja": "私たちの新しいサーバーテーマデザインはコミュニティの大ヒットでした。",
+      "ipa": "/ˈaʊɚ ˈnjuː ˈsɝvɚ ˈθim dɪˈzaɪn wəz ə smæʃ hɪt wɪð ðə kəˈmjuːnəti/",
+      "linking": [
+        "a は弱形 /ə/",
+        "with の末尾 /ð/ と the の弱形 /ðə/"
+      ],
+      "kana": "アワー ニュー サーバー シーム ディザイン ワズ ア スマッシュ ヒット ウィズ ザ コミューニティー"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "smashes",
+      "ipa": "/smæʃɪz/",
+      "examples": [
+        {
+          "en": "She smashes ore blocks to gather resources quickly.",
+          "ja": "彼女はリソースを素早く集めるために鉱石ブロックを砕きます。",
+          "ipa": "[ʃi ˈsmæʃɪz ɔɹ blɑks tə ˈɡæðɚ ˈrɛsɚsɪz ˈkwɪkli]",
+          "linking": [
+            "「smashes ore」で smashes の語末 /z/ が母音 /ɔ/ に連結 [ˈsmæʃɪz ɔɹ]→「スマッシズ オア」",
+            "「to gather」で to は機能語として弱形 /tə/ [tə ˈɡæðɚ]→「タ ギャザー」",
+            "「the resources」の直前「resources quickly」で resources の語末 /z/ が子音 /k/ に先行し未開放 [ˈrɛsɚsɪz̚ ˈkwɪkli]→「レソーシーズ クイックリー」"
+          ],
+          "kana": "シー スマッシズ オア ブラックス タ ギャザー リソーシーズ クイックリー"
+        },
+        {
+          "en": "The creeper smashes through our stone walls during raids.",
+          "ja": "クリーパーはレイド中に我々の石の壁をぶち壊します。",
+          "ipa": "[ðə ˈkripɚ ˈsmæʃɪz θru ˈaʊɹ stoʊn wɔlz ˈdʊɹɪŋ ˈreɪdz]",
+          "linking": [
+            "「the creeper」で the は機能語として弱形 /ðə/ [ðə ˈkripɚ]→「ザ クリーパー」",
+            "「creeper smashes」で creeper の語末 /r/ が子音 /s/ に先行し未開放 [ˈkripɚ̚ ˈsmæʃɪz]→「クリーパー スマッシズ」",
+            "「our stone」で our の語末 /r/ が母音 /s/ に連結 [ˈaʊɹ stoʊn]→「アワー ストウン」"
+          ],
+          "kana": "ザ クリーパー スマッシズ スルー アワー ストウン ウォールズ ドゥーリング レイズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "smashed",
+      "ipa": "/smæʃt/",
+      "examples": [
+        {
+          "en": "I smashed through the obsidian barrier to escape.",
+          "ja": "逃げるために黒曜石のバリアをぶち壊しました。",
+          "ipa": "[aɪ ˈsmæʃt θru ðə ɑbˈsɪdiən ˈbæɹiɚ tu ɪˈskeɪp]",
+          "linking": [
+            "「smashed through」で smashed の語末 /t/ が子音 /θ/ に先行し未開放 [ˈsmæʃt̚ θru]→「スマッシュト スルー」",
+            "「the obsidian」で the は機能語として弱形 /ðə/ [ðə ɑbˈsɪdiən]→「ザ オブシディアン」",
+            "「to escape」で to は機能語として弱形 /tə/ [tə ɪˈskeɪp]→「タ イスケイプ」"
+          ],
+          "kana": "アイ スマッシュト スルー ザ オブシディアン バリアー トゥー イスケイプ"
+        },
+        {
+          "en": "The explosion smashed our base defenses apart.",
+          "ja": "爆発は私たちの基地の防御をぶち壊しました。",
+          "ipa": "[ðə ɪkˈsploʊʒən ˈsmæʃt ˈaʊɹ ˈbeɪs dɪˈfɛnsɪz əˈpɑɹt]",
+          "linking": [
+            "「the explosion」で the は機能語として弱形 /ðə/ [ðə ɪkˈsploʊʒən]→「ザ イクスプロウジョン」",
+            "「explosion smashed」で explosion の語末 /n/ が子音 /s/ に先行し未開放 [ɪkˈsploʊʒən̚ ˈsmæʃt]→「イクスプロウジョン スマッシュト」",
+            "「our base」で our の語末 /r/ が母音 /b/ に連結 [ˈaʊɹ ˈbeɪs]→「アワー ベイス」"
+          ],
+          "kana": "ザ イクスプロウジョン スマッシュト アワー ベイス ディフェンシーズ アパート"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "smashed",
+      "ipa": "/smæʃt/",
+      "examples": [
+        {
+          "en": "The smashed blocks released valuable materials for crafting.",
+          "ja": "砕かれたブロックはクラフトのための貴重な材料を放出しました。",
+          "ipa": "[ðə ˈsmæʃt blɑks rɪˈlist ˈvæljuəbəl məˈtɪɹiəlz fɔɹ ˈkræftɪŋ]",
+          "linking": [
+            "「the smashed」で the は機能語として弱形 /ðə/ [ðə ˈsmæʃt]→「ザ スマッシュト」",
+            "「smashed blocks」で smashed の語末 /t/ が子音 /b/ に先行し未開放 [ˈsmæʃt̚ blɑks]→「スマッシュト ブラックス」",
+            "「for crafting」で for は機能語として弱形 /fɔɹ/ [fɔɹ ˈkræftɪŋ]→「ファー クラフティング」"
+          ],
+          "kana": "ザ スマッシュト ブラックス リリースト ヴァリュアブル マテリアルズ ファー クラフティング"
+        },
+        {
+          "en": "We collected the smashed stone from our mining operation.",
+          "ja": "採掘作業から砕かれた石を集めました。",
+          "ipa": "[wi kəˈlɛktəd ðə ˈsmæʃt stoʊn frəm ˈaʊɹ ˈmaɪnɪŋ ˌɑpəˈreɪʃən]",
+          "linking": [
+            "「collected the」で collected の語末 /d/ が子音に先行し未開放 [kəˈlɛktəd̚ ðə]→「コレクティド ザ」、the は弱形 /ðə/",
+            "「the smashed」で the 弱形 /ðə/、smashed に連結 [ðə ˈsmæʃt]→「ザ スマッシュト」",
+            "「from our」で from は機能語として弱形 /frəm/ [frəm ˈaʊɹ]→「フラム アワー」"
+          ],
+          "kana": "ウィー コレクティド ザ スマッシュト ストウン フラム アワー マイニング オペレーション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "smashing",
+      "ipa": "/ˈsmæʃɪŋ/",
+      "examples": [
+        {
+          "en": "The warden is smashing through stone walls in the deep dark.",
+          "ja": "ウォーデンがディープダークで石の壁をぶち壊しています。",
+          "ipa": "[ðə ˈwɔɹdən ɪz ˈsmæʃɪŋ θru stoʊn wɔlz ɪn ðə ˈdip ˈdɑɹk]",
+          "linking": [
+            "「warden is」で warden の語末 /n/ が母音 /ɪ/ に連結 [ˈwɔɹdən ɪz]→「ワーデン イズ」",
+            "「is smashing」で is 弱形 /ɪz/、smashing に連結 [ɪz ˈsmæʃɪŋ]→「イズ スマッシング」",
+            "「smashing through」で smashing の語末 /ŋ/ が子音 /θ/ に先行し未開放 [ˈsmæʃɪŋ̚ θru]→「スマッシング スルー」"
+          ],
+          "kana": "ザ ワーデン イズ スマッシング スルー ストウン ウォールズ イン ザ ディープ ダーク"
+        },
+        {
+          "en": "By smashing ore quickly, you can gather resources more efficiently.",
+          "ja": "鉱石を素早く砕くことで、より効率的にリソースを集めることができます。",
+          "ipa": "[baɪ ˈsmæʃɪŋ ɔɹ ˈkwɪkli ju kæn ˈɡæðɚ ˈrɛsɚsɪz mɔɹ ɪˈfɪʃəntli]",
+          "linking": [
+            "「By smashing」で By の語末母音 /aɪ/ が smashing に連結 [baɪ ˈsmæʃɪŋ]→「バイ スマッシング」",
+            "「smashing ore」で smashing の語末 /ŋ/ が子音 /ɔ/ に先行し未開放 [ˈsmæʃɪŋ̚ ɔɹ]→「スマッシング オア」",
+            "「more efficiently」で more は /mɔɹ/、語末 /r/ が母音 /ɪ/ に連結 [mɔɹ ɪˈfɪʃəntli]→「モア イフィシェントリー」"
+          ],
+          "kana": "バイ スマッシング オア クイックリー ユー キャン ギャザー リソーシーズ モア イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "smashes",
+      "ipa": "/smæʃɪz/",
+      "examples": [
+        {
+          "en": "Each of the warden's smashes deals massive damage to structures.",
+          "ja": "ウォーデンの各スマッシュは構造物に莫大なダメージを与えます。",
+          "ipa": "[itʃ əv ðə ˈwɔɹdənz ˈsmæʃɪz dilz ˈmæsɪv ˈdæmɪdʒ tu ˈstrʌktʃɚz]",
+          "linking": [
+            "「Each of」で Each の語末 /tʃ/ が子音 /ə/ に先行し未開放、of は弱形 /əv/ [itʃ̚ əv]→「イーチ アヴ」",
+            "「warden's smashes」で warden's の語末 /z/ が子音 /s/ に先行し未開放 [ˈwɔɹdənz̚ ˈsmæʃɪz]→「ワーデンズ スマッシーズ」",
+            "「deals massive」で deals の語末 /z/ が母音 /m/ に連結 [dilz ˈmæsɪv]→「ディールズ マッシブ」"
+          ],
+          "kana": "イーチ アヴ ザ ワーデンズ スマッシーズ ディールズ マッシブ ダメッジ トゥー ストラクチャーズ"
+        },
+        {
+          "en": "Multiple smashes from the mob destroyed our carefully crafted walls.",
+          "ja": "そのモブからの複数のスマッシュは、私たちが注意深く作った壁を破壊しました。",
+          "ipa": "[ˈmʌltɪpəl ˈsmæʃɪz frəm ðə ˈmɑb dɪˈstrɔɪd ˈaʊɹ ˈkɛɹfəli ˈkræftɪd wɔlz]",
+          "linking": [
+            "「Multiple smashes」で Multiple の語末 /l/ が子音 /s/ に先行し未開放 [ˈmʌltɪpəl̚ ˈsmæʃɪz]→「マルティプル スマッシーズ」",
+            "「from the」で from は弱形 /frəm/、the は弱形 /ðə/ [frəm ðə]→「フラム ザ」",
+            "「our carefully」で our の語末 /r/ が母音 /k/ に連結 [ˈaʊɹ ˈkɛɹfəli]→「アワー ケアフリー」"
+          ],
+          "kana": "マルティプル スマッシーズ フラム ザ モブ ディストロイド アワー ケアフリー クラフティド ウォールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is smashing",
+      "ipa": "/ɪz ˈsmæʃɪŋ/",
+      "examples": [
+        {
+          "en": "The warden is smashing through our walls to reach us.",
+          "ja": "ウォーデンが私たちに到達するために私たちの壁をぶち壊しています。",
+          "ipa": "/ðə ˈwɔɹdən ɪz ˈsmæʃɪŋ θru ˈaʊɚ wɔlz tə ˈriːtʃ ʌs/",
+          "linking": [
+            "warden末の /n/ が is の /ɪ/ に連結。鼻音が流れ込む [ˈwɔɹdən ɪz] ワーデン イズ",
+            "is末の /z/ が smashing の初頭 /ɪ/ に連結 [ɪz ˈsmæʃɪŋ] イズ スマッシング",
+            "through末の /u/ が our の /ɑ/ に連結 [θru ˈaʊɚ] スルー アワー"
+          ],
+          "kana": "ザ ワーデン イズ スマッシング スルー アワー ウォールズ トゥ リーチ アス"
+        },
+        {
+          "en": "We are smashing the ore deposits to gather diamonds efficiently.",
+          "ja": "私たちは効率的にダイヤモンドを集めるために、鉱石堆積物をぶち壊しています。",
+          "ipa": "/wi ɑɹ ˈsmæʃɪŋ ðə ɔɹ dɪˈpɑzɪts tə ˈɡæðɚ ˈdaɪmənds ɪˈfɪʃəntli/",
+          "linking": [
+            "we末の /i/ と are の /ɑɹ/ は分離",
+            "are末の /ɹ/ が smashing の /ɪ/ に r-linking で連結 [ɑɹ ˈsmæʃɪŋ] アー スマッシング",
+            "the は機能語として弱形 /ðə/ [ðə ɔɹ] ザ オア"
+          ],
+          "kana": "ウィ アー スマッシング ザ オア ディポジッツ タ ギャザー ダイモンズ イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was smashing",
+      "ipa": "/wəz ˈsmæʃɪŋ/",
+      "examples": [
+        {
+          "en": "The mob was smashing our defenses when we activated the trap.",
+          "ja": "モブがトラップを起動したときに私たちの防御をぶち壊していました。",
+          "ipa": "/ðə ˈmɑb wəz ˈsmæʃɪŋ ˈaʊɚ dɪˈfɛnsɪz wɛn wi ˌæktɪˈveɪɾɪd ðə træp/",
+          "linking": [
+            "was末の /z/ が smashing の初頭 /ɪ/ に連結 [wəz ˈsmæʃɪŋ] ワズ スマッシング",
+            "smashing末の /ŋ/ と our の /ɑ/ は分離（鼻音+母音）",
+            "the の弱形 /ðə/ [ðə træp] ザ トラップ"
+          ],
+          "kana": "ザ モブ ワズ スマッシング アワー ディフェンシーズ ウェン ウィ アクティヴェイダッド ザ トラップ"
+        },
+        {
+          "en": "She was smashing through the cave wall when she discovered the diamond ore.",
+          "ja": "彼女はダイヤモンド鉱石を発見したときに洞窟の壁をぶち壊していました。",
+          "ipa": "/ʃi wəz ˈsmæʃɪŋ θru ðə keɪv wɔl wɛn ʃi dɪsˈkʌvɚd ðə ˈdaɪmənd ɔɹ/",
+          "linking": [
+            "was末の /z/ が smashing の初頭 /ɪ/ に連結 [wəz ˈsmæʃɪŋ] ワズ スマッシング",
+            "smashing末の /ŋ/ が子音 /θ/ に先行し未開放 [ˈsmæʃɪŋ̚ θru] スマッシング スルー",
+            "the は弱形 /ðə/ [ðə keɪv] ザ ケイヴ"
+          ],
+          "kana": "シー ワズ スマッシング スルー ザ ケイヴ ウォール ウェン シー ディスカバード ザ ダイモンド オア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been smashing",
+      "ipa": "/həd bɪn ˈsmæʃɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper had been smashing blocks for minutes before we defeated it.",
+          "ja": "私たちがそれを倒す前に、クリーパーは数分間ブロックをぶち壊していました。",
+          "ipa": "/ðə ˈkripɚ həd bɪn ˈsmæʃɪŋ blɑks fɚ ˈmɪnɪts bɪˈfoɹ wi dɪˈfitɪd ɪt/",
+          "linking": [
+            "had の弱形 /həd/ が been の /b/ の前で未開放 [həd̚ bɪn] ハド ビン",
+            "been の弱形 /bɪn/ が smashing の /ɪ/ に連結 [bɪn ˈsmæʃɪŋ] ビン スマッシング",
+            "before末の /ɚ/ が we の /w/ に r-linking で連結 [bɪˈfoɹ wi] ビフォア ウィ"
+          ],
+          "kana": "ザ クリーパー ハド ビン スマッシング ブラックス ファー ミニッツ ビフォア ウィ ディフィテッド イット"
+        },
+        {
+          "en": "Players had been smashing ore continuously when the server crashed.",
+          "ja": "サーバーがクラッシュしたときに、プレイヤーたちは継続的に鉱石をぶち壊していました。",
+          "ipa": "/ˈpleɪɚz həd bɪn ˈsmæʃɪŋ ɔɹ ˌkɑntɪˈnjuːəsli wɛn ðə ˈsɝːvɚ kræʃt/",
+          "linking": [
+            "had の弱形 /həd/ が been の /b/ の前で未開放 [həd̚ bɪn] ハド ビン",
+            "been の弱形 /bɪn/ が smashing の /ɪ/ に連結 [bɪn ˈsmæʃɪŋ] ビン スマッシング",
+            "continuously末の /li/ と when の /w/ は分離"
+          ],
+          "kana": "プレイヤーズ ハド ビン スマッシング オア コンティニューアスリー ウェン ザ サーヴァー クラッシュト"
+        }
+      ]
+    }
+  ]
+}
