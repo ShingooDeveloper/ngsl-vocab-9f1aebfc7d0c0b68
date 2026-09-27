@@ -301,6 +301,192 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has offset",
+      "ipa": "/hæz ˈɑf.sɛt/",
+      "examples": [
+        {
+          "en": "The bright torches have offset the deep darkness in the mining tunnels perfectly.",
+          "ja": "明るいトーチが採掘トンネルの深い暗さを完璧にオフセットしました。",
+          "ipa": "/ðə braɪt ˈtɔɹtʃɪz həv ˈɑf.sɛt ðə ˈdip ˈdɑɹknəs ɪn ðə ˈmaɪnɪŋ ˈtʌnəlz ˈpɝfɪktli/",
+          "kana": "ザ ブライト トーチーズ ハヴ アフセット ザ ディープ ダークネス イン ザ マイニング タンネルズ パーフェクトリー",
+          "linking": [
+            "「torches have」で torches の語末子音 /z/ が have の弱形 /həv/ に連結 [ˈtɔɹtʃɪz həv]",
+            "「have offset」で have の語末子音 /v/ が offset の母音 /ɑ/ に連結 [həv ˈɑf.sɛt]",
+            "「darkness in」で darkness の語末子音 /s/ が in の母音 /ɪ/ に連結 [ˈdɑɹknəs ɪn]",
+            "「the」は弱形 /ðə/「ザ」に弱化（複数出現）"
+          ]
+        },
+        {
+          "en": "They have offset the terrible mining losses by finding an enormous diamond cache underground.",
+          "ja": "彼らは地下の膨大なダイヤモンドキャッシュを発見することでひどい採掘損失をオフセットしました。",
+          "ipa": "/ðeɪ həv ˈɑf.sɛt ðə ˈtɛɹəbəl ˈmaɪnɪŋ ˈlɔsɪz baɪ ˈfaɪndɪŋ ən ɪˈnɔɹməs ˈdaɪmənd kæʃ ˌʌndɚˈɡraʊnd/",
+          "kana": "ゼイ ハヴ アフセット ザ テラブル マイニング ロッシーズ バイ ファインディング アン イノーマス ダイモンド キャッシュ アンダーグラウンド",
+          "linking": [
+            "「they have」で they の語末 /i/ が have の弱形 /həv/ に滑らかに繋がる [ðeɪ həv]",
+            "「have offset」で have の語末子音 /v/ が offset の母音 /ɑ/ に連結 [həv ˈɑf.sɛt]",
+            "「finding an」で finding の語末 /ŋ/ が an の弱形 /ən/ に連結 [ˈfaɪndɪŋ ən ɪˈnɔɹməs]",
+            "「the」は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had offset",
+      "ipa": "/əd ˈɑf.sɛt/",
+      "examples": [
+        {
+          "en": "By the time the sun rose, the torches had offset most of the cave darkness we were worried about.",
+          "ja": "太陽が昇る時には、トーチが私たちが心配していた洞窟の暗さのほとんどをオフセットしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsʌn ˈɹoʊz ðə ˈtɔɹtʃɪz əd ˈɑf.sɛt ˈmoʊst əv ðə keɪv ˈdɑɹknəs wi wɚ ˈwʌɹid əˈbaʊt/",
+          "kana": "バイ ザ タイム ザ サン ローズ ザ トーチーズ アド アフセット モース ラヴ ザ ケイヴ ダークネス ウィー ワー ワーライド アバウト",
+          "linking": [
+            "「torches had」で torches の語末子音 /z/ が had の弱形 /əd/ に連結 [ˈtɔɹtʃɪz əd]",
+            "「had offset」で had の弱形 /əd/ が offset の母音 /ɑ/ に連結 [əd ˈɑf.sɛt]",
+            "「most of」で most の語末子音 /st/ が of の弱形 /əv/ に連結し、of も弱化 [ˈmoʊst əv]",
+            "「the」は弱形 /ðə/「ザ」に弱化（複数出現）"
+          ]
+        },
+        {
+          "en": "The builders had offset the tower foundation before the storm arrived and destroyed our plans.",
+          "ja": "嵐が到着して計画を破壊する前に、ビルダーはタワーの基礎をオフセットしていました。",
+          "ipa": "/ðə ˈbɪldɚz əd ˈɑf.sɛt ðə ˈtaʊɚ faʊnˈdeɪʃən bɪˈfɔɹ ðə ˈstɔɹm əˈɹaɪvd ənd dɪsˈtɹɔɪd aʊɚ plænz/",
+          "kana": "ザ ビルダーズ アド アフセット ザ タウアー ファウンデーション ビフォー ザ ストーム アライヴド アンド ディストロイド アウアー プランズ",
+          "linking": [
+            "「builders had」で builders の語末子音 /z/ が had の弱形 /əd/ に連結 [ˈbɪldɚz əd]",
+            "「had offset」で had の弱形 /əd/ が offset の母音 /ɑ/ に連結 [əd ˈɑf.sɛt]",
+            "「foundation before」で foundation の語末子音 /n/ が before の子音 /b/ に続き、滑らかに [faʊnˈdeɪʃən bɪˈfɔɹ]",
+            "「and destroyed」で and の弱形 /ənd/ または /ən/ が destroyed に繋がり、destroyed の語末 /d/ が our の母音に連結 [ənd dɪsˈtɹɔɪd]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been offsetting",
+      "ipa": "/əz bɪn ˌɑf.sɛtɪŋ/",
+      "examples": [
+        {
+          "en": "The glowstone has been offsetting the darkness in the deep cavern system for many hours now.",
+          "ja": "グロウストーンが深い洞窟システムの暗さを何時間もオフセットしています。",
+          "ipa": "/ðə ˈɡloʊˌstoʊn əz bɪn ˌɑf.sɛtɪŋ ðə ˈdɑɹknəs ɪn ðə ˈdip ˈkævɚn ˈsɪstəm fɚ ˈmɛni ˈaʊɚz naʊ/",
+          "kana": "ザ グロウストーン アズ ビン オフセティング ザ ダークネス イン ザ ディープ キャバーン システム ファー メニー アワーズ ナウ",
+          "linking": [
+            "「glowstone has」で glowstone の語末子音 /n/ が has の弱形 /əz/ に連結し、さらに been の弱形 /bɪn/ に繋がる [ˈɡloʊˌstoʊn əz bɪn ˌɑf.sɛtɪŋ]",
+            "「been offsetting」で been の語末 /n/ が offsetting の母音 /ɑ/ に連結 [bɪn ˌɑf.sɛtɪŋ]",
+            "「system for」で system の語末 /m/ が for の弱形 /fɚ/ に連結し、for も弱化 [ˈsɪstəm fɚ]",
+            "「the」は弱形 /ðə/「ザ」に弱化（複数出現）、「many」の語中 /n/ は自然な音 /ˈmɛni/「メニー」"
+          ]
+        },
+        {
+          "en": "We have been offsetting the creeper damage by maintaining constant repairs on our defensive perimeter wall.",
+          "ja": "私たちは防御周囲壁に継続的な修復を行うことでクリーパーのダメージをオフセットしています。",
+          "ipa": "/wi həv bɪn ˌɑf.sɛtɪŋ ðə ˈkɹipɚ ˈdæmɪdʒ baɪ meɪnˈteɪnɪŋ ˈkɑnstənt rɪˈpɛɹz ɑn ˌaʊɚ dɪˈfɛnsɪv pəˈrɪmətɚ wɔl/",
+          "kana": "ウィー ハヴ ビン オフセティング ザ クリーパー ダメッジ バイ メインテイニング コンスタント リペアーズ アン アウアー ディフェンシヴ パーリミラー ウォール",
+          "linking": [
+            "「we have」で we の語末母音 /i/ が have の弱形 /həv/ に滑らかに続き、have の語末 /v/ が been の母音 /ɪ/ に連結 [wi həv bɪn]",
+            "「been offsetting」で been の語末 /n/ が offsetting の母音 /ɑ/ に連結 [bɪn ˌɑf.sɛtɪŋ]",
+            "「maintaining constant」で maintaining の語末 /ŋ/ が constant の子音 /k/ に続き、constant の語末 /t/ が repairs の母音 /ɪ/ に連結するため、constant の /t/ は未開放 [meɪnˈteɪnɪŋ ˈkɑnstənt rɪˈpɛɹz]",
+            "「on our」で on の語末 /n/ が our の母音 /aʊ/ に連結し、our の語末 /ɚ/ が defensive の子音 /d/ に続く [ɑn ˌaʊɚ dɪˈfɛnsɪv]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will offset",
+      "ipa": "/wɪl ˈɑf.sɛt/",
+      "examples": [
+        {
+          "en": "I will offset the mansion foundation from the mountain by placing it further east.",
+          "ja": "私はマンション基礎を山から東に配置することでずらします。",
+          "ipa": "/aɪ wɪl ˈɑf.sɛt ðə mænˈʃən faʊnˈdeɪʃən frəm ðə ˈmaʊntən baɪ ˈpleɪsɪŋ ɪt ˈfɝðɚ ist/",
+          "kana": "アイ ウル アフセット ザ マンション ファウンデーション フラム ザ マウンテン バイ プレイシング イット ファーザー イースト",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し offset の母音 /ɑ/ に連結 [wəl ˈɑf.sɛt] ウル アフセット",
+            "foundation の語末 /n/ が from の弱形 /frəm/ に連結し、from も弱化 [faʊnˈdeɪʃən frəm]",
+            "the は弱形 /ðə/「ザ」に弱化（複数出現）、placing の語末 /ŋ/ が it の母音 /ɪ/ に連結"
+          ]
+        },
+        {
+          "en": "The decorative columns will offset the massive weight of the upper floors.",
+          "ja": "装飾的な列が上階の大きな重さをオフセットするでしょう。",
+          "ipa": "/ðə ˌdɛkɚəˈtɪv ˈkɑləmz wɪl ˈɑf.sɛt ðə ˈmæsɪv weɪt əv ðə ˈʌpɚ ˈflɔrz/",
+          "kana": "ザ デコラティヴ カラムズ ウル アフセット ザ マッシヴ ウェイト ラヴ ザ アッパー フローズ",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し offset の母音に連結 [wəl ˈɑf.sɛt] ウル アフセット",
+            "columns の語末 /z/ が will の子音 /w/ に続き、子音+子音で弱形へ [ˈkɑləmz wɪl]",
+            "the は弱形 /ðə/「ザ」に弱化（複数出現）、of は弱形 /əv/「ラヴ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be offsetting",
+      "ipa": "/wɪl bi ˌɑf.sɛtɪŋ/",
+      "examples": [
+        {
+          "en": "The team will be offsetting the water channels throughout the farm construction.",
+          "ja": "チームは農場建設全体を通じて水路をオフセットしているでしょう。",
+          "ipa": "/ðə tim wɪl bi ˌɑf.sɛtɪŋ ðə ˈwɔɾɚ ˈtʃænəlz θɹuːˌaʊt ðə fɑɹm kənˈstrʌkʃən/",
+          "kana": "ザ ティーム ウィッ ビ オフセティング ザ ウォーラー チャンネルズ スルーアウッ ザ ファーム コンストラクション",
+          "linking": [
+            "will の /l/ が be の /b/ に未開放で連接し1つに聞こえる [wɪl̚ bi ˌɑf.sɛtɪŋ] ウィッ ビ オフセティング",
+            "water の語中 /t/ が母音に挟まれてフラップ化 [ˈwɔɾɚ]「ウォーラー」に変化",
+            "the は弱形 /ðə/「ザ」に弱化（複数出現）、throughout の語末 /t/ が farm の子音に未開放で続く"
+          ]
+        },
+        {
+          "en": "We will be offsetting the beam positions while the structure foundation sets.",
+          "ja": "構造基礎が設置される間、ビーム位置をオフセットしているでしょう。",
+          "ipa": "/wi wɪl bi ˌɑf.sɛtɪŋ ðə bim pəˈzɪʃənz waɪl ðə ˈstrʌktʃɚ faʊnˈdeɪʃən sɛts/",
+          "kana": "ウィー ウィッ ビ オフセティング ザ ビーム ポジションズ ワイル ザ ストラクチャー ファウンデーション セッツ",
+          "linking": [
+            "will の /l/ が be の /b/ に未開放で連接 [wɪl̚ bi ˌɑf.sɛtɪŋ] ウィッ ビ オフセティング",
+            "positions の語末 /z/ が while の /w/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/「ザ」に弱化（複数出現）、foundation の語末 /n/ が sets の子音 /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have offset",
+      "ipa": "/wɪl həv ˈɑf.sɛt/",
+      "examples": [
+        {
+          "en": "By next season, we will have offset all the structural imbalances in the main tower.",
+          "ja": "来シーズンまでに、主塔のすべての構造的不均衡をオフセットしているでしょう。",
+          "ipa": "/baɪ nɛkst ˈsizən wi wɪl həv ˈɑf.sɛt ɔl ðə ˈstrʌktʃɚəl ˌɪmˈbælənsɪz ɪn ðə meɪn ˈtaʊɚ/",
+          "kana": "バイ ネクスト シーズン ウィ ウィル ハヴ アフセット オール ザ ストラクチャラル イムバランシーズ イン ザ メイン タウアー",
+          "linking": [
+            "will は弱形 /wəl/ が have の /h/ に子音+子音で続く、have は弱形 /həv/「ハヴ」に弱化 [wəl həv ˈɑf.sɛt]",
+            "offset の語末 /t/ が all の母音 /ɔ/ に連結 [ˈɑf.sɛt ɔl] アフセット オール",
+            "the は弱形 /ðə/「ザ」に弱化（複数出現）、imbalances の語末 /z/ が in の母音 /ɪ/ に連結"
+          ]
+        },
+        {
+          "en": "By installing these support beams, I'll have offset the roof load evenly across all pillars.",
+          "ja": "これらのサポートビームをインストールすることで、屋根荷重をすべての柱に均等にオフセットしているでしょう。",
+          "ipa": "/baɪ ɪnˈstɔlɪŋ ðiz səˈpɔɹt bimz aɪl həv ˈɑf.sɛt ðə ruf loʊd ˈivənli əˈkɹɔs ɔl ˈpɪlɚz/",
+          "kana": "バイ インストーリング ジーズ サポート ビームズ アイル ハヴ アフセット ザ ルーフ ロード イーブンリー ア クロース オール ピラーズ",
+          "linking": [
+            "I'll は縮約形で /aɪl/「アイル」、have は弱形 /həv/「ハヴ」に弱化 [aɪl həv ˈɑf.sɛt]",
+            "beams の語末 /z/ が I'll の /aɪl/ に連結し、I'll の語末 /l/ が have の /h/ に子音+子音で続く",
+            "the は弱形 /ðə/「ザ」に弱化、across の /ə/ は unstressed [əˈkɹɔs]、all の語末 /l/ が pillars の母音に連結"
+          ]
+        }
+      ]
     }
   ]
 }

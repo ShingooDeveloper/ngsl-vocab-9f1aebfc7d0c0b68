@@ -309,6 +309,96 @@
           "kana": "ザ・アドミンズ・ハドビン・エグザイリング・グリーファーズ・ビフォーザ・リセット・ハプンド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has exiled",
+      "ipa": "/əz ˈɛɡzaɪld/",
+      "examples": [
+        {
+          "en": "We have exiled the griefer who destroyed our build.",
+          "ja": "建築を破壊した建築破壊者を追放した。",
+          "ipa": "/wɪ əv ˈɛɡzaɪld ðə ˈɡɹivɚ hu dɪˈstɹɔɪd ˈaʊɚ ˈbɪld/",
+          "linking": [
+            "「we」は弱形 /wɪ/",
+            "「have」は機能語で弱形 /əv/、「exiled」の /ɛ/ に連結 [əvˈɛɡzaɪld] ハヴェグザイルド",
+            "「destroyed」の語末 /d/ が「our」の /aʊ/ に連結 [stɹɔɪd ˈaʊɚ] ストロイダウアー"
+          ],
+          "kana": "ウィ・ハヴェグザイルド・ザ・グリーヴァー・フー・ディストロイダウアー・ビルド"
+        },
+        {
+          "en": "I have exiled the hacker who ruined our realm.",
+          "ja": "我々の領地を台無しにしたハッカーを追放した。",
+          "ipa": "/aɪ əv ˈɛɡzaɪld ðə ˈhækɚ hu ˈɹuɪnd ˈaʊɚ ˈɹɛlm/",
+          "linking": [
+            "「have」は機能語で弱形 /əv/、「exiled」の /ɛ/ に連結 [əvˈɛɡzaɪld] ハヴェグザイルド",
+            "「the」は弱形 /ðə/",
+            "「ruined」の語末 /d/ が「our」の /aʊ/ に連結 [ˈɹuɪnd ˈaʊɚ] ルインダウアー"
+          ],
+          "kana": "アイ・ハヴェグザイルド・ザ・ハッカー・フー・ルインダウアー・レルム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had exiled",
+      "ipa": "/əd ˈɛɡzaɪld/",
+      "examples": [
+        {
+          "en": "Before the update, we had exiled the hacker.",
+          "ja": "アップデート前に、我々はハッカーを追放していた。",
+          "ipa": "/bɪˈfɔɹ ðə ˈʌpˌdeɪt wɪ əd ˈɛɡzaɪld ðə ˈhækɚ/",
+          "linking": [
+            "「before」の語末 /ɚ/ が「the」の弱形 /ðə/ に連結 [bɪˈfɔɹ ðə] ビフォーザ",
+            "「had」は弱形 /əd/、「exiled」の /ɛ/ に連結 [əd̚ ˈɛɡzaɪld] ハドエグザイルド",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "ビフォーザ・アップデイト・ウィ・ハドエグザイルド・ザ・ハッカー"
+        },
+        {
+          "en": "They had exiled us before we could rebuild the base.",
+          "ja": "彼らはベースを再建する前に我々を追放していた。",
+          "ipa": "/ðeɪ əd ˈɛɡzaɪld əz bɪˈfɔɹ wɪ ˈkʊd ɹɪˈbɪld ðə ˈbeɪs/",
+          "linking": [
+            "「had」は弱形 /əd/、「exiled」の /ɛ/ に連結 [əd̚ ˈɛɡzaɪld] ハドエグザイルド",
+            "「exiled」の語末 /d/ が「us」の /ə/ に連結 [dəz] ドアズ",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "ゼイ・ハドエグザイルド・アズ・ビフォー・ウィ・クッド・リビルド・ザ・ベイス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been exiling",
+      "ipa": "/əz bɪn ˈɛɡzaɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been exiling hackers all week.",
+          "ja": "管理者は1週間ずっとハッカーを追放し続けている。",
+          "ipa": "/ðə ˈæd.mɪn əz bɪn ˈɛɡzaɪlɪŋ ˈhækɚz ˈɔl ˈwik/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「has」は弱形 /əz/、「been」の /b/ に先行（子音+子音、未開放）[əz̚bɪn]",
+            "「been」は弱形 /bɪn/、「exiling」の /ɛ/ に連結 [bɪn ˈɛɡzaɪlɪŋ] ビンエグザイリング"
+          ],
+          "kana": "ザ・アドミン・ハズビンエグザイリング・ハッカーズ・オール・ウィーク"
+        },
+        {
+          "en": "We have been exiling rule-breakers since yesterday.",
+          "ja": "昨日からずっとルール破りを追放し続けている。",
+          "ipa": "/wɪ əv bɪn ˈɛɡzaɪlɪŋ ˈɹul ˈbreɪkɚz sɪns ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "「we」は弱形 /wɪ/",
+            "「have」は機能語で弱形 /əv/、「been」の /b/ に先行（子音+子音、未開放）[əv̚bɪn]",
+            "「been」は弱形 /bɪn/、「exiling」の /ɛ/ に連結 [bɪn ˈɛɡzaɪlɪŋ] ビンエグザイリング"
+          ],
+          "kana": "ウィ・ハヴビンエグザイリング・ルール・ブレイカーズ・シンス・イェスタデイ"
+        }
+      ]
     }
   ]
 }
