@@ -396,6 +396,96 @@
           "kana": "プレイヤーズ ハヴ ビン ディスコーシング オン ザ サーバー アップデーツ シンス ザ アナウンスメント"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will discourse",
+      "ipa": "/wɪl dɪsˈkɔrs/",
+      "examples": [
+        {
+          "en": "I will discourse on the best mining strategies when everyone arrives at the gathering point.",
+          "ja": "みんなが集合地点に到達したら、最良の採掘戦略について論じます。",
+          "ipa": "/aɪ wɪl dɪsˈkɔrs ɑn ðə bɛst ˈmaɪ.nɪŋ ˈstrætə.dʒiz wɛn ˈɛv.ri.wʌn əˈraɪvz æt ðə ˈɡæð.ɚ.ɪŋ pɔɪnt/",
+          "linking": [
+            "will末の /l/ が discourse の /d/ に連結 [wɪl dɪsˈkɔrs] ウィル ディスコース",
+            "discourse on末の /s/ が母音 /ɑ/ に連結 [dɪsˈkɔrsɑn] ディスコースオン",
+            "everyone末の /n/ が母音 /ə/ に連結 [ˈɛv.ri.wʌnəˈraɪvz] エヴリワン ァライヴズ"
+          ],
+          "kana": "アイ ウィル ディスコース オン ザ ベスト マイニング ストラレジーズ ウェン エヴリワン ァライヴズ アット ザ ガザリング ポイント"
+        },
+        {
+          "en": "The experienced players will discourse about redstone techniques before the construction starts.",
+          "ja": "工事が始まる前に、経験豊富なプレイヤーたちはレッドストーン技術について論じます。",
+          "ipa": "/ðə ɪkˈspɪr.iənst ˈpleɪ.ɚz wɪl dɪsˈkɔrs əˈbaʊt ˈrɛd.stoʊn tɛkˈnikz bɪˈfɔr ðə kənˈstrʌk.ʃən stɑrts/",
+          "linking": [
+            "will末の /l/ が discourse の /d/ に連結 [wɪl dɪsˈkɔrs] ウィル ディスコース",
+            "discourse about末の /s/ が弱形 /ə/ に連結 [dɪsˈkɔrsəˈbaʊt] ディスコース アバウト",
+            "before末の /r/ が the の /ð/ に連結 [bɪˈfɔrðə] ビフォア ザ"
+          ],
+          "kana": "ザ イクスペリアンスト プレイヤーズ ウィル ディスコース アバウト レッドストーン テクニークス ビフォア ザ コンストラクション スターツ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be discoursing",
+      "ipa": "/wɪl bi dɪsˈkɔr.sɪŋ/",
+      "examples": [
+        {
+          "en": "While you're gathering resources, we will be discoursing about the optimal base layout.",
+          "ja": "あなたがリソースを集めている間に、私たちは最適なベースレイアウトについて論じています。",
+          "ipa": "/waɪl jɔr ˈɡæð.ɚ.ɪŋ ˈrɛ.sɚ.sɪz wi wɪl bi dɪsˈkɔr.sɪŋ əˈbaʊt ðə ˈɑp.tə.məl ˈbeɪs ˈleɪ.aʊt/",
+          "linking": [
+            "while末の /l/ が you're の /j/ に連結 [waɪl jɔr] ワイル ユォー",
+            "be末の /i/ が discoursing の /d/ に連結 [bi dɪsˈkɔr.sɪŋ] ビー ディスコーシング",
+            "discoursing about末の /ŋ/ が弱形 /ə/ に連結 [dɪsˈkɔr.sɪŋəˈbaʊt] ディスコーシング アバウト"
+          ],
+          "kana": "ワイル ユォー ガザリング レソーシズ ウィ ウィル ビー ディスコーシング アバウト ザ オプティマル ベース レイアウト"
+        },
+        {
+          "en": "Tomorrow morning, the admins will be discoursing on the new server policies with all moderators.",
+          "ja": "明日の朝、管理者たちはすべてのモデレーターと新しいサーバーポリシーについて論じています。",
+          "ipa": "/təˈmɑr.oʊ ˈmɔr.nɪŋ ðə ˈæd.mɪnz wɪl bi dɪsˈkɔr.sɪŋ ɑn ðə nju ˈsɜr.vɚ ˈpɑl.ə.siz wɪð ɔl ˈmɑd.ə.reɪ.tɚz/",
+          "linking": [
+            "be末の /i/ が discoursing の /d/ に連結 [bi dɪsˈkɔr.sɪŋ] ビー ディスコーシング",
+            "discoursing on末の /ŋ/ が母音 /ɑ/ に連結 [dɪsˈkɔr.sɪŋɑn] ディスコーシング オン",
+            "with末の /ð/ が母音 /ɔ/ に連結 [wɪðɔl] ウィズ オール"
+          ],
+          "kana": "トゥモロウ モーニング ザ アドミンズ ウィル ビー ディスコーシング オン ザ ニュー サーバー ポリシーズ ウィズ オール モデレーターズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have discoursed",
+      "ipa": "/wɪl həv dɪsˈkɔrst/",
+      "examples": [
+        {
+          "en": "By the time the update launches, they will have discoursed about all the new features extensively.",
+          "ja": "アップデートが発表されるまでに、彼らはすべての新機能について広く論じていることになります。",
+          "ipa": "/baɪ ðə taɪm ðə ˈʌp.deɪt ˈlɔn.tʃɪz ðeɪ wɪl həv dɪsˈkɔrst əˈbaʊt ɔl ðə nju ˈfi.tʃɚz ɪkˈstɛn.sɪv.li/",
+          "linking": [
+            "the は弱形 /ðə/「ザ」",
+            "have は弱形 /həv/ → /əv/。will have は /wɪl əv/ に弱化 [wɪl həv] ウィル ハヴ",
+            "discoursed about末の /d/ が弱形 /ə/ に連結 [dɪsˈkɔrstəˈbaʊt] ディスコースト アバウト"
+          ],
+          "kana": "バイ ザ タイム ザ アップデイト ロンチーズ ゼイ ウィル ハヴ ディスコースト アバウト オール ザ ニュー フィーチャーズ イクステンシブリー"
+        },
+        {
+          "en": "By next week, our server community will have discoursed on optimal farm designs for the new season.",
+          "ja": "来週までに、私たちのサーバーコミュニティは新しいシーズンの最適なファーム設計について論じていることになります。",
+          "ipa": "/baɪ nɛkst wik ˈaʊɚ ˈsɜr.vɚ kəˈmjuː.nə.ti wɪl həv dɪsˈkɔrst ɑn ˈɑp.tə.məl fɑrm dɪˈzaɪnz fɔr ðə nju ˈsi.zən/",
+          "linking": [
+            "have は弱形 /həv/ → /əv/。will have は /wɪl əv/ [wɪl həv] ウィル ハヴ",
+            "discoursed on末の /d/ が母音 /ɑ/ に連結 [dɪsˈkɔrstɑn] ディスコースト オン",
+            "for は弱形 /fər/ [fɚ] ファー"
+          ],
+          "kana": "バイ ネクスト ウィーク アワー サーバー コミューニティ ウィル ハヴ ディスコースト オン オプティマル ファーム ディザインズ ファー ザ ニュー シーズン"
+        }
+      ]
     }
   ],
   "hi": "discourse(?:s|ed|ing)?"
