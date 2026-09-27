@@ -195,6 +195,99 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is contemplating",
+      "ipa": "/ɪz ˌkɑntəmˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She is contemplating whether to expand her base or build a completely new settlement.",
+          "ja": "彼女は基地を拡張するか、まったく新しい入植地を建築するかを考えています。",
+          "ipa": "/ʃi ɪz ˌkɑntəmˈpleɪtɪŋ ˈweðər tu ɪkˈspænd hɚ ˈbeɪs ɔr ˈbɪld ə kəmˈpliːtli ˈnu ˈsɛtəlmənt/",
+          "linking": [
+            "is の /z/ が contemplate の /ə/ に連結 [ɪz ˌkɑntəmˈpleɪtɪŋ] イズ コンテムプレイティング",
+            "to expand：to は機能語の弱形 /tə/ で expand の /ɪ/ に子音+子音で続く [tə ɪkˈspænd] タ イクスパンド",
+            "her base：base の /s/ が or の /ɔ/ に子音+子音で続く",
+            "a completely：a は弱形 /ə/ で completely の /k/ に子音+子音で続く"
+          ],
+          "kana": "シー イズ コンテムプレイティング ウェザー タ イクスパンド ハー ベイス オアー ビルド ア コンプリートリー ニュー セットルメント"
+        },
+        {
+          "en": "We are contemplating the best location for our mining operation in this new chunk.",
+          "ja": "私たちはこの新しいチャンクで採掘作業のための最良の場所を考えています。",
+          "ipa": "/wi ɑr ˌkɑntəmˈpleɪtɪŋ ðə bɛst loʊˈkeɪʃən fɔr aʊɚ ˈmaɪnɪŋ ˌɑpəˈreɪʃən ɪn ˈðɪs ˈnu tʃʌŋk/",
+          "linking": [
+            "are の /r/ が contemplate の /ə/ に連結 [ɑr ˌkɑntəmˈpleɪtɪŋ] アー コンテムプレイティング",
+            "the は弱形 /ðə/ で consonant /b/ の前 [ðə bɛst] ザ ベスト",
+            "this は /ðɪs/ で /n/ が new の /n/ に子音+子音で続く [ˈðɪs ˈnu] ディス ニュー"
+          ],
+          "kana": "ウィー アー コンテムプレイティング ザ ベスト ロケイション フォー アワー マイニング オペレーション イン ディス ニュー チャンク"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was contemplating",
+      "ipa": "/wəz ˌkɑntəmˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He was contemplating the best design for his fortress when a creeper destroyed it suddenly.",
+          "ja": "彼が要塞の最良の設計について考えていたとき、クリーパーが突然それを破壊しました。",
+          "ipa": "/hi wəz ˌkɑntəmˈpleɪtɪŋ ðə bɛst dɪˈzaɪn fɔr hɪz ˈfɔrtrəs wɛn ə ˈkriːpər dɪˈstrɔɪd ɪt ˈsʌdənli/",
+          "linking": [
+            "was の弱形 /wəz/ の /z/ が contemplate の /ə/ に連結 [wəz ˌkɑntəmˈpleɪtɪŋ] ワズ コンテムプレイティング",
+            "the は弱形 /ðə/ で consonant /b/ の前 [ðə bɛst] ザ ベスト",
+            "a creeper：a は弱形 /ə/ で creeper の /k/ に子音+子音で続く"
+          ],
+          "kana": "ヒー ワズ コンテムプレイティング ザ ベスト ディザイン フォー ヒズ フォートレス ウェン ア クリーパー ディストロイド イット サドゥンリー"
+        },
+        {
+          "en": "They were contemplating the expansion into the Nether when the server maintenance began unexpectedly.",
+          "ja": "サーバーメンテナンスが予期せず始まったとき、彼らはネザーへの拡張について考えていました。",
+          "ipa": "/ðeɪ wɚ ˌkɑntəmˈpleɪtɪŋ ðə ɪkˈspænʃən ˈɪntu ðə ˈnɛðər wɛn ðə ˈsɝvɚ ˈmeɪntənəns bɪˈɡæn ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "were の /r/ が contemplate の /ə/ に連結 [wɚ ˌkɑntəmˈpleɪtɪŋ] ウェア コンテムプレイティング",
+            "the は弱形 /ðə/ で consonant /ɪ/ の前 [ðə ɪkˈspænʃən] ザ イクスパンション",
+            "into the：into の /u/ が the の /ðə/ に、the は弱形で consonant /n/ の前 [ˈɪntu ðə ˈnɛðər] イントゥ ザ ネザー"
+          ],
+          "kana": "ゼイ ウェア コンテムプレイティング ザ イクスパンション イントゥ ザ ネザー ウェン ザ サーバー メインテナンス ビガン アンイクスペクティドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been contemplating",
+      "ipa": "/hæd bɪn ˌkɑntəmˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been contemplating the fortress design for several weeks before finally starting construction.",
+          "ja": "私たちは建設を最終的に開始する前に、数週間要塞の設計を考えていました。",
+          "ipa": "/wi hæd bɪn ˌkɑntəmˈpleɪtɪŋ ðə ˈfɔrtrəs dɪˈzaɪn fɔr ˈsɛvərəl wiks bɪˈfɔr ˈfaɪnəli ˈstɑrtɪŋ kənˈstrʌkʃən/",
+          "linking": [
+            "had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接し1つに聞こえる [həd̚ bɪn] ハド ビン",
+            "been の /n/ が contemplate の /ə/ に連結 [bɪn ˌkɑntəmˈpleɪtɪŋ] ビン コンテムプレイティング",
+            "the は弱形 /ðə/ で consonant /f/ の前 [ðə ˈfɔrtrəs] ザ フォートレス",
+            "finally の /i/ が starting の /s/ に子音+子音で続く"
+          ],
+          "kana": "ウィー ハド ビン コンテムプレイティング ザ フォートレス ディザイン フォー セヴラル ウィークス ビフォア ファイナリー スターティング コンストラクション"
+        },
+        {
+          "en": "She had been contemplating whether to join her friends' realm when she finally received the invitation message.",
+          "ja": "彼女が招待メッセージをついに受け取ったとき、彼女は友人のレルムに参加するかどうかを考えていました。",
+          "ipa": "/ʃi hæd bɪn ˌkɑntəmˈpleɪtɪŋ ˈweðər tu dʒɔɪn hɚ ˈfrɛndz ˈrɛlm wɛn ʃi ˈfaɪnəli rɪˈsivd ðə ɪnvɪˈteɪʃən ˈmɛsɪdʒ/",
+          "linking": [
+            "had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接し1つに聞こえる [həd̚ bɪn] ハド ビン",
+            "been の /n/ が contemplate の /ə/ に連結 [bɪn ˌkɑntəmˈpleɪtɪŋ] ビン コンテムプレイティング",
+            "to は機能語の弱形 /tə/ で join の /dʒ/ に子音+子音で続く [tə dʒɔɪn] タ ジョイン",
+            "realm の /m/ が when の /w/ に子音+子音で続く"
+          ],
+          "kana": "シー ハド ビン コンテムプレイティング ウェザー タ ジョイン ハー フレンズ レルム ウェン シー ファイナリー リシーヴド ザ インビテイション メッセージ"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has contemplated",
