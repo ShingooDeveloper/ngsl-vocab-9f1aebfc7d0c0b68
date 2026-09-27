@@ -196,6 +196,99 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has erupted",
+      "ipa": "/həz ɪˈrʌptɪd/",
+      "examples": [
+        {
+          "en": "The volcano has erupted three times since we started building here.",
+          "ja": "火山は私たちがここで建設を始めて以来、3回噴火しています。",
+          "ipa": "/ðə ˈvɑːlkeɪnoʊ həz ɪˈrʌɾɪd θri taɪmz sɪns wi ˈstɑrtɪd ˈbɪldɪŋ hɪr/",
+          "linking": [
+            "「has erupted」で has の弱形 /həz/「ハズ」、erupted 内で /t/ がフラップ化：[ɪˈrʌɾɪd]「イラップティド」",
+            "「since we」で /s/ が /w/ に続く（子音+子音、連結なし）",
+            "「started building」で /d/ が /b/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ヴォルケイノウ ハズ イラップティド スリー タイムズ シンス ウィー スターティド ビルディング ヒア"
+        },
+        {
+          "en": "Chaos has erupted on the server after the griefing incident.",
+          "ja": "グリーフィング事件によってサーバーで混乱が勃発しました。",
+          "ipa": "/ˈkeɪɑs həz ɪˈrʌɾɪd ɑn ðə ˈsɜrvər ˈæftər ðə ˈɡriːfɪŋ ˈɪnsɪdənt/",
+          "linking": [
+            "「has erupted」で has の弱形 /həz/「ハズ」、erupted 内で /t/ がフラップ化：[ɪˈrʌɾɪd]「イラップティド」",
+            "「erupted on」で erupted の語末子音 /d/ が母音 /ɑ/ に連結「イラップティダン」",
+            "「the」は弱形 /ðə/「ザ」"
+          ],
+          "kana": "ケイオス ハズ イラップティダン ザ サーバー アフター ザ グリーフィング インシデント"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had erupted",
+      "ipa": "/həd ɪˈrʌptɪd/",
+      "examples": [
+        {
+          "en": "Before we arrived, the volcano had erupted and destroyed our mining base.",
+          "ja": "私たちが到着する前に、火山が噴火して私たちの採掘ベースを破壊しました。",
+          "ipa": "/bɪˈfɔr wi əˈɹaɪvd ðə ˈvɑːlkeɪnoʊ həd ɪˈrʌɾɪd ænd dɪsˈtɹɔɪd aʊr ˈmaɪnɪŋ ˈbeɪs/",
+          "linking": [
+            "「before we」で /r/ が /w/ に続く（子音+子音、連結なし）",
+            "「had erupted」で had の弱形 /həd/「ハド」、erupted 内で /t/ がフラップ化：[ɪˈrʌɾɪd]「イラップティド」",
+            "「erupted and」で erupted の語末子音 /d/ が母音 /æ/ に連結「イラップティダンド」",
+            "「mining base」で /ŋ/ が /b/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ビフォア ウィ アライヴド ザ ヴォルケイノウ ハド イラップティダンド ディストロイド アワー マイニング ベース"
+        },
+        {
+          "en": "The lava flow had erupted from below when we broke through the wall.",
+          "ja": "溶岩が下から噴出してしまい、私たちが壁を突き破ったときに通路をふさぎました。",
+          "ipa": "/ðə ˈlɑːvə floʊ həd ɪˈrʌɾɪd frəm bɪˈloʊ wɛn wi broʊk θruː ðə wɔl/",
+          "linking": [
+            "「the」は弱形 /ðə/「ザ」",
+            "「had erupted」で had の弱形 /həd/「ハド」、erupted 内で /t/ がフラップ化：[ɪˈrʌɾɪd]「イラップティド」",
+            "「from below」で from の弱形 /frəm/「フラム」、/m/ が /b/ に続く（子音+子音、連結なし）",
+            "「when we」で /n/ が /w/ に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ラーヴァ フロー ハド イラップティド フラム ビロー ウェン ウィ ブローク スルー ザ ウォール"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been erupting",
+      "ipa": "/həz bɪn ɪˈrʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The volcano has been erupting constantly, so we need to evacuate.",
+          "ja": "火山が絶えず噴火し続けているため、避難する必要があります。",
+          "ipa": "/ðə ˈvɑːlkeɪnoʊ həz bɪn ɪˈrʌptɪŋ ˈkɑnstəntli soʊ wi nid tu ɪˈvækjueɪt/",
+          "linking": [
+            "「has been」で has の弱形 /həz/「ハズ」、been の弱形 /bɪn/「ビン」",
+            "「been erupting」で been の語末 /n/ が母音 /ɪ/ に連結「ビニラプティング」",
+            "「need to」で need の /d/ が to の /t/ に続く（子音+子音）、to の弱形 /tə/「タ」"
+          ],
+          "kana": "ザ ヴォルケイノウ ハズ ビニラプティング コンスタントリー ソー ウィ ニード タ エヴァキュエイト"
+        },
+        {
+          "en": "Conflict has been erupting constantly on the server due to raids.",
+          "ja": "レイドのせいで、サーバーでは紛争が絶えず勃発し続けています。",
+          "ipa": "/kənˈflɪkt həz bɪn ɪˈrʌptɪŋ ˈkɑnstəntli ɑn ðə ˈsɜrvər ˈduː tu reɪdz/",
+          "linking": [
+            "「has been」で has の弱形 /həz/「ハズ」、been の弱形 /bɪn/「ビン」",
+            "「been erupting」で been の語末 /n/ が母音 /ɪ/ に連結「ビニラプティング」",
+            "「on the」で /n/ が /ð/ に続く（子音+子音）、the の弱形 /ðə/「ザ」",
+            "「due to」で due の /u/ が to の /t/ に続く（母音+子音）、to の弱形 /tə/「タ」"
+          ],
+          "kana": "コンフリクト ハズ ビニラプティング コンスタントリー オン ザ サーバー デュー タ レイズ"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is erupting",
