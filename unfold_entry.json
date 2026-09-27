@@ -300,6 +300,96 @@
           "kana": "シー リアライズド ザット ザ プロット ハド ビン アンフォールディン ビハインド ザ シーンズ オール アロング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has unfolded",
+      "ipa": "/həz ʌnˈfoʊldəd/",
+      "examples": [
+        {
+          "en": "We have finally unfolded the secret blueprints for the ultimate redstone machine.",
+          "ja": "究極のレッドストーン装置の秘密の青写真をついに広げました。",
+          "ipa": "/wi həv ˈfaɪnəli ʌnˈfoʊldəd ðə ˈsikɹət ˈbluːˌpɹɪnts fɔɹ ðə ʌlˈtɪmɪt ˈɹɛdsˌtoʊn məˈʃin/",
+          "linking": [
+            "助動詞 have が弱形 /həv/ に弱化",
+            "語末 /d/ が母音 /ðə/ に連結。unfolded the: [ʌnˈfoʊldəd ðə] アンフォールデッド ザ",
+            "機能語 the が弱形 /ðə/ に弱化。for the で [fɔɹ ðə] フォア ザ"
+          ],
+          "kana": "ウィ ハヴ ファイナリー アンフォールデッド ザ シークレット ブループリンツ フォア ザ アルティミット レッドストウン マシーン"
+        },
+        {
+          "en": "He has unfolded all the details about where our new mining expedition should begin.",
+          "ja": "彼は、新しい採鉱遠征がどこから始まるべきかについてすべての詳細を明かしました。",
+          "ipa": "/hi həz ʌnˈfoʊldəd ɔl ðə ˈditeɪlz əˈbaʊt wɛɹ ˈaʊɚ nu ˈmaɪnɪŋ ɛkˌspɪˈdɪʃən ˈʃʊd bɪˈɡɪn/",
+          "linking": [
+            "助動詞 has が弱形 /həz/ に弱化",
+            "語末 /d/ が母音 /ɔl/ に連結。unfolded all: [ʌnˈfoʊldəd ɔl] アンフォールデッド オール",
+            "機能語 the が弱形 /ðə/ に弱化。about: [əˈbaʊt] アバウト"
+          ],
+          "kana": "ヒー ハズ アンフォールデッド オール ザ ディテイルズ アバウト ウェア アワー ニュー マイニング エクスピディション シュッド ビギン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had unfolded",
+      "ipa": "/həd ʌnˈfoʊldəd/",
+      "examples": [
+        {
+          "en": "By the time the boss fight started, we had already unfolded all the emergency escape routes.",
+          "ja": "ボス戦が始まるまでに、私たちはすべての緊急脱出ルートをすでに明確にしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈbɔs faɪt ˈstɑɹtəd wi həd ɔlˈɹɛdi ʌnˈfoʊldəd ɔl ðə ɪˈmɝdʒənsi ɪˈskeɪp ˈɹaʊts/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。3回出現",
+            "助動詞 had が弱形 /həd/ に弱化",
+            "語末 /d/ が母音 /ɔl/ に連結。unfolded all: [ʌnˈfoʊldəd ɔl] アンフォールデッド オール"
+          ],
+          "kana": "バイ ザ タイム ザ ボス ファイト スターティッド ウィー ハド オールレディー アンフォールデッド オール ザ イマージェンシー イスケイプ ラウツ"
+        },
+        {
+          "en": "After the Ender Dragon's defeat, the entire storyline had unfolded before our very eyes.",
+          "ja": "エンダードラゴンの敗北の後、全体的なストーリーラインが私たちの目の前に完全に展開していました。",
+          "ipa": "/ˈæftɚ ðə ˈɛndɚ ˈdɹæɡənz dɪˈfit ðə ɪnˈtaɪɚ ˈstɔɹilaɪn həd ʌnˈfoʊldəd bɪˈfɔɹ ˈaʊɚ ˈvɛɹi ˈaɪz/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。2回出現",
+            "語末 /z/ が母音に連結。dragon's defeat で [ˈdɹæɡənz dɪ] ドラゴンズ ディ",
+            "助動詞 had が弱形 /həd/ に弱化、語末 /d/ が子音に接する。had unfolded で未開放 [həd̚ ʌn] ハド アン"
+          ],
+          "kana": "アフター ザ エンダー ドラゴンズ ディフィート ザ インタイアー ストーリーライン ハド アンフォールデッド ビフォア アワー ベリー アイズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been unfolding",
+      "ipa": "/həz bɪn ʌnˈfoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "I have been unfolding this massive treasure map for ten minutes and still can't see the whole thing.",
+          "ja": "この巨大な財宝地図を10分間ずっと広げていますが、それでもまだ全体が見えません。",
+          "ipa": "/aɪ həv bɪn ʌnˈfoʊldɪŋ ðɪs ˈmæsɪv ˈtɛʒɚ mæp fɔɹ ˈtɛn ˈmɪnɪts ænd ˈstɪl ˈkænt ˈsi ðə ˈhoʊl ˈθɪŋ/",
+          "linking": [
+            "助動詞 have が弱形 /həv/ に弱化、been も弱形 /bɪn/ に弱化。have been: [həv̚ bɪn] ハヴ ビン",
+            "語末 /ŋ/ が子音 /ð/ に接する。unfolding this で未開放 [ʌnˈfoʊldɪŋ̚ ðɪs] アンフォールディン ディス",
+            "機能語 the が弱形 /ðə/ に弱化。can't: [kænt] キャント"
+          ],
+          "kana": "アイ ハヴ ビン アンフォールディン ディス マッシヴ トレジャー マップ フォア テン ミニッツ アンド スティル キャント シー ザ ホウル シング"
+        },
+        {
+          "en": "The builders have been unfolding their incredible castle design for several weeks now.",
+          "ja": "ビルダーたちは、彼らの素晴らしい城のデザインをここ数週間ずっと進めています。",
+          "ipa": "/ðə ˈbɪldɚz həv bɪn ʌnˈfoʊldɪŋ ðɛɹ ɪnˈkɹɛdəbəl ˈkæsəl dɪˈzaɪn fɔɹ ˈsɛvɚəl ˈwiks ˈnaʊ/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化",
+            "助動詞 have が弱形 /həv/ に弱化、been も弱形 /bɪn/ に弱化。have been: [həv̚ bɪn] ハヴ ビン",
+            "語末 /ŋ/ が子音 /ð/ に接する。unfolding their で未開放 [ʌnˈfoʊldɪŋ̚ ðɛɹ] アンフォールディン ザイア"
+          ],
+          "kana": "ザ ビルダーズ ハヴ ビン アンフォールディン ザイア インクレディブル キャッスル ディザイン フォア セヴラル ウィークス ナウ"
+        }
+      ]
     }
   ]
 }
