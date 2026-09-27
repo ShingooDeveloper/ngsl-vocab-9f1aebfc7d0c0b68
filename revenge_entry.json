@@ -154,6 +154,102 @@
           "kana": "ザ ウォリアー ハズ ビン リヴェンジング ザ ディストロイド ストラクチャーズ フォア ウィークス ナウ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will revenge",
+      "ipa": "/wɪl rɪˈvɛndʒ/",
+      "examples": [
+        {
+          "en": "I will revenge my fallen comrade by defeating the Wither boss.",
+          "ja": "Wither ボスを倒して、落ちた仲間に復讐するつもりだ。",
+          "ipa": "/aɪl rɪˈvɛndʒ maɪ ˈfɔːlən ˈkɑmreɪd baɪ dɪˈfiːtɪŋ ðə ˈwɪðər bɔs/",
+          "linking": [
+            "I will → I'll /aɪl/ - 縮約形で will の弱形が I に統合される",
+            "revenge my - revenge の語末破擾音 /dʒ/ が my の /m/ に先行（子音+子音、未開放）",
+            "by defeating - /aɪ/ が /d/ に先行（子音+子音）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル リヴェンジ マイ フォーレン コムレイド バイ ディフィーティング ザ ウィザー ボス"
+        },
+        {
+          "en": "They will revenge their destroyed base before the end of the season.",
+          "ja": "シーズン終了前に、彼らは破壊されたベースに復讐するつもりだ。",
+          "ipa": "/ðeɪl rɪˈvɛndʒ ðɛr dɪˈstrɔɪd ˈbeɪs bɪˈfɔr ðə ˈɛnd əv ðə ˈsizən/",
+          "linking": [
+            "They will → they'll /ðeɪl/ - 縮約形で will の弱形が they に統合される",
+            "revenge their - revenge の語末破擾音 /dʒ/ が their の /ð/ に先行（子音+子音）",
+            "destroyed base - /d/ が /b/ に先行（子音+子音、未開放）",
+            "of は弱形 /əv/ アヴ"
+          ],
+          "kana": "ザイル リヴェンジ ザイア ディストロイド ベース ビフォア ザ エンド アヴ ザ シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be revenging",
+      "ipa": "/wɪl bi rɪˈvɛndʒɪŋ/",
+      "examples": [
+        {
+          "en": "We will be revenging the griefed structures while the sun is still up.",
+          "ja": "太陽がまだ上がっている間、私たちはグリーフされた構造物に復讐しているでしょう。",
+          "ipa": "/wil bi rɪˈvɛndʒɪŋ ðə ˈɡrift ˈstrʌktʃərz waɪl ðə sʌn ɪz ˈstɪl ʌp/",
+          "linking": [
+            "We will → we'll /wil/ - 縮約形で will の弱形が we に統合される",
+            "be revenging - /bi/ が /r/ に続く（子音+子音）",
+            "while the - /l/ が /ð/ に先行（子音+子音）、the は弱形 /ðə/ ザ",
+            "sun is - /n/ が /ɪz/ に連結"
+          ],
+          "kana": "ウィル ビ リヴェンジング ザ グリフト ストラクチャーズ ホワイル ザ サン イズ スティル アップ"
+        },
+        {
+          "en": "She will be revenging all the destroyed items for the next hour.",
+          "ja": "彼女は次の1時間、破壊されたすべてのアイテムに復讐しているでしょう。",
+          "ipa": "/ʃil bi rɪˈvɛndʒɪŋ ɔl ðə dɪˈstrɔɪd ˈaɪtəmz fɔr ðə ˈnɛkst ˈaʊər/",
+          "linking": [
+            "She will → she'll /ʃil/ - 縮約形で will の弱形が she に統合される",
+            "be revenging - /bi/ が /r/ に続く（子音+子音）",
+            "all the - /l/ が /ð/ に先行（子音+子音）、the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔr/ フォア"
+          ],
+          "kana": "シル ビ リヴェンジング オール ザ ディストロイド アイテムズ フォア ザ ネクスト アワー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have revenged",
+      "ipa": "/wɪl həv rɪˈvɛndʒd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have revenged every mob that killed me.",
+          "ja": "明日までに、私は私を殺したすべてのモブに復讐しているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪl həv rɪˈvɛndʒd ˈɛvri mɑb ðæt kɪld mi/",
+          "linking": [
+            "by tomorrow - /baɪ/ が /t/ に先行（子音+子音）",
+            "I will → I'll /aɪl/ - 縮約形、have は弱形 /həv/ ハヴ",
+            "every mob - /ri/ が /m/ に先行（子音+子音）",
+            "that killed - /t/ が /k/ に未開放で連接"
+          ],
+          "kana": "バイ トゥモロー アイル ハヴ リヴェンジド エブリー マブ ザッ キルド ミー"
+        },
+        {
+          "en": "The team will have revenged their base by the time new players join tomorrow.",
+          "ja": "明日新しいプレイヤーが参加するまでに、チームは彼らのベースに復讐しているでしょう。",
+          "ipa": "/ðə tim wɪl həv rɪˈvɛndʒd ðɛr ˈbeɪs baɪ ðə taɪm ˈnuː ˈpleɪərz dʒɔɪn təˈmɑroʊ/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "will have - will の弱形に弱化、have は弱形 /həv/ ハヴ",
+            "their base - /r/ が /b/ に先行（子音+子音、未開放）",
+            "by the - /aɪ/ が /ð/ に先行（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ティーム ウィル ハヴ リヴェンジド ザイア ベース バイ ザ タイム ニュー プレイアーズ ジョイン トゥモロー"
+        }
+      ]
     }
   ]
 }
