@@ -178,6 +178,117 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is entailing",
+      "ipa": "/ɪz ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was entailing",
+      "ipa": "/wəz ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been entailing",
+      "ipa": "/ˈhæd bɪn ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has entailed",
+      "ipa": "/həz ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "Finding that cave system has entailed mapping out all the tunnels carefully.",
+          "ja": "あの洞窟システムを見つけることは、すべてのトンネルを注意深くマッピングすることを必要としています。",
+          "ipa": "/ˈfaɪndɪŋ ðæt ˈkeɪv ˈsɪstəm həz ɪnˈteɪld ˈmæpɪŋ aʊt ɔl ðə ˈtʌnəlz ˈkɛɹfəli/",
+          "kana": "ファインディング ザット ケイブ シスタム ハズ インテイルド マッピング アウト オール ザ タンネルズ ケアフリー",
+          "linking": [
+            "「system has」: system の語末 /m/ が has の /h/ に続き、子音+子音で未開放。has は弱形 /həz/「ハズ」に続く [ˈsɪstəm həz]「シスタム ハズ」",
+            "「has entailed」: has が entailed の /ɪ/ に連結 [həz ɪnˈteɪld]「ハズ インテイルド」",
+            "「out all」: out の語末 /t/ は未開放、all の /ɔ/ に続く [aʊt̚ ɔl]「アウト オール」"
+          ]
+        },
+        {
+          "en": "Building our base has entailed collecting enormous quantities of stone blocks.",
+          "ja": "私たちのベース建築には、膨大な量の石ブロックを集めることが必要でした。",
+          "ipa": "/ˈbɪldɪŋ ˈaʊɚ ˈbeɪs həz ɪnˈteɪld kəˈlɛktɪŋ ɪˈnɔrmɪs ˈkwɑntətiz əv ˈstoʊn ˈblɑks/",
+          "kana": "ビルディング アウア ベイス ハズ インテイルド コレクティング イノーマス クワンティティーズ アヴ ストーン ブロックス",
+          "linking": [
+            "「base has」: base の語末 /s/ と has の /h/ が続き、子音+子音。has は弱形 /həz/ [ˈbeɪs həz]「ベイス ハズ」",
+            "「has entailed」: has が entailed の /ɪ/ に連結 [həz ɪnˈteɪld]「ハズ インテイルド」",
+            "「of stone」: of は弱形 /əv/「アヴ」、stone の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had entailed",
+      "ipa": "/həd ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "The resource gathering expedition had entailed traveling far from the spawn point.",
+          "ja": "資源採集遠征には、スポーンポイントからはるか遠くまで移動することが必要でした。",
+          "ipa": "/ðə ˈrɛsɚs ˈɡæðərɪŋ ɛkˈspɛdɪʃən həd ɪnˈteɪld ˈtrævəlɪŋ ˈfɑr frəm ðə ˈspoʊn ˈpɔɪnt/",
+          "kana": "ザ レソース ガザリング エクスペディション ハド インテイルド トラベリング ファー フラム ザ スポーン ポイント",
+          "linking": [
+            "「gathering had」: gathering の語末 /ŋ/ が had の /h/ に続き、子音+子音で未開放。had は弱形 /həd/ [ˈɡæðərɪŋ həd]「ガザリング ハド」",
+            "「had entailed」: had が entailed の /ɪ/ に連結 [həd ɪnˈteɪld]「ハド インテイルド」",
+            "「from the」: from は弱形 /frəm/「フラム」、the は弱形 /ðə/「ザ」に続く"
+          ]
+        },
+        {
+          "en": "Preparing for the boss fight had entailed gathering healing potions and strong armor.",
+          "ja": "ボス戦の準備には、回復ポーションと強力な防具を集めることが必要でした。",
+          "ipa": "/prɪˈpɛɹɪŋ ˈfɔr ðə ˈbɔs ˈfaɪt həd ɪnˈteɪld ˈɡæðərɪŋ ˈhilɪŋ poʊˈʃənz ənd ˈstrɔŋ ˈɑrmɚ/",
+          "kana": "プリペアリング フォー ザ ボス ファイト ハド インテイルド ガザリング ヒーリング ポーションズ アンド ストロング アーマー",
+          "linking": [
+            "「fight had」: fight の語末 /t/ は未開放で次の had /h/ に続く [faɪt̚ həd]「ファイト ハド」。had は弱形 /həd/",
+            "「had entailed」: had が entailed の /ɪ/ に連結 [həd ɪnˈteɪld]「ハド インテイルド」",
+            "「and strong」: and は弱形 [ən]「アンド」、strong の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been entailing",
+      "ipa": "/həz bɪn ɪnˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Expanding the base has been entailing constant resource runs and careful planning.",
+          "ja": "ベースの拡張には、継続的なリソース収集と慎重な計画が必要です。",
+          "ipa": "/ɪkˈspændɪŋ ðə ˈbeɪs həz bɪn ɪnˈteɪlɪŋ ˈkɑnstənt ˈrɛsɚs ˈrʌnz ənd ˈkɛɹfəl ˈplænɪŋ/",
+          "kana": "エクスパンディング ザ ベイス ハズ ビン インテイリング コンスタント レソース ランズ アンド ケアフル プラニング",
+          "linking": [
+            "「base has」: base の語末 /s/ が has の /h/ に続き、子音+子音。has は弱形 /həz/、been は弱形 /bɪn/ [ˈbeɪs həz bɪn]「ベイス ハズ ビン」",
+            "「has been entailing」: has が been を経由して entailing の /ɪ/ に続く [həz bɪn ɪnˈteɪlɪŋ]「ハズ ビン インテイリング」",
+            "「and careful」: and は弱形 [ən]「アンド」、careful の /k/ に続く"
+          ]
+        },
+        {
+          "en": "Our redstone project has been entailing detailed testing and troubleshooting daily.",
+          "ja": "私たちのレッドストーンプロジェクトには、毎日の詳細なテストとトラブルシューティングが必要です。",
+          "ipa": "/ˈaʊɚ ˈrɛdˌstoʊn ˈprɑdʒɛkt həz bɪn ɪnˈteɪlɪŋ dɪˈteɪld ˈtɛstɪŋ ənd ˈtrʌbəlˌʃutɪŋ ˈdeɪli/",
+          "kana": "アウア レッドストーン プロジェクト ハズ ビン インテイリング ディテイルド テスティング アンド トラブルシューティング デイリー",
+          "linking": [
+            "「project has」: project の語末 /t/ は未開放、has の /h/ に続く [ˈprɑdʒɛkt̚ həz]「プロジェクト ハズ」。has は弱形 /həz/、been は弱形 /bɪn/",
+            "「has been entailing」: been が entailing の /ɪ/ に連結 [bɪn ɪnˈteɪlɪŋ]「ビン インテイリング」",
+            "「and troubleshooting」: and は弱形 [ən]「アンド」、troubleshooting に続く"
+          ]
+        }
+      ]
     }
   ]
 }

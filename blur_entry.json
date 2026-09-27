@@ -424,6 +424,103 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will blur",
+      "ipa": "/wɪl blɝ/",
+      "examples": [
+        {
+          "en": "I'll blur the background to focus on the main structure.",
+          "ja": "背景をぼやかしてメインの建造物に焦点を当てます。",
+          "ipa": "/aɪl ˈblɝ ðə ˈbækɡraʊnd tə ˈfoʊkəs ən ðə ˈmeɪn ˈstrʌktʃɚ/",
+          "linking": [
+            "「I'll blur」で I'll の語末 /l/ が blur の子音 /b/ に先行、未開放「アイル ブラー」",
+            "「blur the」で blur の語末 /r/ が the の弱形 /ðə/ に連結「ブラー ザ」",
+            "「background to」で background の語末 /d/ が to の弱形 /ə/ に連結「バックグラウンダ」",
+            "「on the」で on は弱形 /ən/、the は弱形 /ðə/「オン ザ」"
+          ],
+          "kana": "アイル ブラー ザ バックグラウンド トゥー フォーカス オン ザ メイン ストラクチャー"
+        },
+        {
+          "en": "The rain effect will blur everyone's vision during the fighting sequence.",
+          "ja": "雨のエフェクトは戦闘中に全員の視界をぼやかします。",
+          "ipa": "/ðə ˈreɪn ɪˈfɛkt wɪl ˈblɝ ˈɛvriˌwʌnz ˈvɪʒən ˈdʊɹɪŋ ðə ˈfaɪtɪŋ ˈsikwəns/",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/「ザ」",
+            "「rain effect」で rain の語末 /n/ が effect に先行「レイン イフェクト」",
+            "「effect will」で effect の語末 /t/ が will に先行、未開放「イフェクト ウィル」",
+            "「will blur」で will の語末 /l/ が blur に先行、未開放「ウィル ブラー」",
+            "「during the」で during の語末 /ŋ/ が the に先行「ドゥーリング ザ」"
+          ],
+          "kana": "ザ レイン イフェクト ウィル ブラー エブリワンズ ビジョン ドゥーリング ザ ファイティング シークウェンス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be blurring",
+      "ipa": "/wɪl bi ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "While I'm in the nether, particles will be blurring my view constantly.",
+          "ja": "ネザーにいる間、パーティクルが常に私の視界をぼやかし続けます。",
+          "ipa": "/waɪl aɪm ɪn ðə ˈnɛðɚ ˈpɑɹtɪkəlz wɪl bi ˈblɝɪŋ maɪ vju ˈkɑnstəntli/",
+          "linking": [
+            "「While I'm」で While の語末 /l/ が I'm に連結「ワイル アイム」",
+            "「in the」で in は弱形 /ɪn/、the は弱形 /ðə/「イン ザ」",
+            "「particles will」で particles の語末 /z/ が will に先行、未開放「パーティクルズ ウィル」",
+            "「will be」で will の語末 /l/ が be に先行、未開放「ウィル ビー」"
+          ],
+          "kana": "ワイル アイム イン ザ ネザー パーティクルズ ウィル ビー ブラーリング マイ ビュー コンスタントリー"
+        },
+        {
+          "en": "They'll be blurring the line between game modes as they expand the server rules.",
+          "ja": "サーバールールを拡張する際、彼らはゲームモード間の線をぼやかし続けます。",
+          "ipa": "/ðeɪl bi ˈblɝɪŋ ðə laɪn bɪˈtwin ɡeɪm moʊdz əz ðeɪ ɪkˈspænd ðə ˈsɝvɚ rulz/",
+          "linking": [
+            "「They'll be」で They'll は縮約 /ðeɪl/、語末 /l/ が be に先行、未開放「ザイル ビー」",
+            "「the」は定冠詞の弱形 /ðə/「ザ」",
+            "「between game」で between の語末 /n/ が game に先行「ビトゥウィーン ゲイム」",
+            "「as they」で as の語末 /z/ が they に連結「アズ ザイ」"
+          ],
+          "kana": "ザイル ビー ブラーリング ザ ライン ビトゥウィーン ゲイム モウズ アズ ザイ エクスパンド ザ サーバー ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have blurred",
+      "ipa": "/wɪl həv blɝd/",
+      "examples": [
+        {
+          "en": "By next season, the developers will have blurred the distinction between creative and survival.",
+          "ja": "来シーズンまでに、開発者はクリエイティブとサバイバルの区別をぼやかしてしまうでしょう。",
+          "ipa": "/baɪ nɛkst ˈsizən ðə dɪˈvɛləpɚz wɪl həv ˈblɝd ðə dɪsˈtɪŋkʃən bɪˈtwin kriˈeɪtɪv ənd sɚˈvaɪvəl/",
+          "linking": [
+            "「next season」で next の語末 /t/ が season に先行「ネクスト シーズン」",
+            "「the」は定冠詞の弱形 /ðə/「ザ」",
+            "「developers will」で developers の語末 /z/ が will に先行、未開放「ディベロパーズ ウィル」",
+            "「will have」で will の語末 /l/ が have の弱形 /əv/ に連結「ウィル ハヴ」"
+          ],
+          "kana": "バイ ネクスト シーズン ザ ディベロパーズ ウィル ハヴ ブラード ザ ディスティングクション ビトゥウィーン クリエイティヴ エン サーバイバル"
+        },
+        {
+          "en": "I'll have blurred all the high-contrast textures once I finish tweaking the resource pack.",
+          "ja": "リソースパックの調整が終わったら、すべての高コントラストテクスチャをぼやかしてしまうでしょう。",
+          "ipa": "/aɪl həv ˈblɝd ɔl ðə ˈhaɪ ˈkɑntræst ˈtɛkstʃɚz wʌns aɪ ˈfɪnɪʃ ˈtwiːkɪŋ ðə ˈɹɛsɚs pæk/",
+          "linking": [
+            "「I'll have」で I'll の語末 /l/ が have の弱形 /əv/ に連結「アイル ハヴ」",
+            "「the」は定冠詞の弱形 /ðə/「ザ」",
+            "「textures once」で textures の語末 /z/ が once に先行、未開放「テクスチャーズ ワンス」",
+            "「tweaking the」で tweaking の語末 /ŋ/ が the に先行「トゥイーキング ザ」"
+          ],
+          "kana": "アイル ハヴ ブラード オール ザ ハイ コントラスト テクスチャーズ ワンス アイ フィニッシュ トゥイーキング ザ リソース パック"
+        }
+      ]
     }
   ]
 }
