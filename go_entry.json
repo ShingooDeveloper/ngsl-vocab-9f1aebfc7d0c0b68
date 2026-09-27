@@ -1,198 +1,134 @@
 {
   "word": "go",
-  "pos": "動詞・名詞",
-  "pos_all": "動詞・名詞",
+  "pos": "動詞",
+  "pos_all": "動詞",
   "ipa_us": "/ɡoʊ/",
-  "rank": 1,
+  "rank": 0,
   "level": "A1",
-  "hi": "go(?:es|ing)?|went|gone",
+  "hi": "go(?:es|ing|ing)?",
   "meanings": [
-    "【動詞】ある場所から別の場所へ移動する、行く（to move from one place to another）",
-    "【動詞】出発する、旅に出る、去る（to depart, leave, or set out on a journey）",
-    "【動詞】機能する、動作する、うまくいく（to function, operate, or proceed in a certain way）",
-    "【名詞】試み、ターン、競争（an attempt, turn, or competitive challenge）"
+    "【動詞】ある場所から別の場所へ移動する、行く（move or travel toward a particular place）",
+    "【動詞】（特定の方向や目的地に向かって）進む、出かける（proceed or move in a specified direction）",
+    "【動詞】立ち去る、出発する（depart or leave）"
   ],
   "examples": [
     {
-      "en": "I go to the nether every day to mine for ancient debris.",
-      "ja": "毎日ネザーに行って古代の破片を採掘します。",
-      "ipa": "/aɪ ɡoʊ tə ðə ˈnɛðər ˈɛvri deɪ tə maɪn fɔr ˈeɪnʃənt dɪˈbris/",
+      "en": "Every morning, I go mining for valuable resources.",
+      "ja": "毎朝、貴重なリソースを採掘するために行きます。",
+      "ipa": "/ˈɛvəri ˈmɔrnɪŋ aɪ ɡoʊ ˈmaɪnɪŋ fɔr ˈvæljəbəl ˈrɛsərsɪz/",
       "linking": [
-        "to は機能語で弱形 /tə/。the の初頭に連結 [tə ðə] タ ザ",
-        "ancient debris → ancient の語末 /t/ が debris の初頭母音に連結 [ˈeɪnʃənt dɪˈbris] エインシャント ディブリーズ"
+        "every morning → every の語末 /i/ が morning の /m/ に続き、明確な子音連結はない [ˈɛvəri ˈmɔrnɪŋ]",
+        "go mining → go の語末 /oʊ/ が mining の /m/ に続く [ɡoʊ ˈmaɪnɪŋ]",
+        "for valuable → for は機能語弱形 /fər/、語末 /r/ が valuable の初頭母音 /v/ に先行 [ˈvæljəbəl]"
       ],
-      "kana": "アイ ゴウ タ ザ ネザー エヴリ デイ タ マイン フォー エインシャント ディブリーズ"
-    },
-    {
-      "en": "Steve goes to the village to trade with villagers.",
-      "ja": "スティーブは村に行ってvillagerと取引します。",
-      "ipa": "/stiv ɡoʊz tə ðə ˈvɪlɪdʒ tə treɪd wɪð ˈvɪlɪdʒərz/",
-      "linking": [
-        "to は弱形 /tə/。the に連結 [tə ðə] タ ザ",
-        "trade with → trade の末尾 /d/ が with の初頭母音 /w/ に先行し未開放 [ˈtreɪd̚ wɪð] トレイド・ウィズ"
-      ],
-      "kana": "スティーヴ ゴウズ タ ザ ヴィリッジ タ トレイド ウィズ ヴィリッジャーズ"
+      "kana": "エヴァリ モーニング アイ ゴウ マイニング フォー ヴァリュアブル リソーシーズ"
     }
   ],
   "idioms": [
     {
-      "idiom": "go mining",
-      "ja": "採掘に行く",
-      "example": "Let's go mining for diamonds in the deep caverns.",
-      "example_ja": "深い洞窟でダイヤモンド採掘に行きましょう。",
-      "ipa": "/lɛts ɡoʊ ˈmaɪnɪŋ fɔr ˈdaɪməndz ɪn ðə ˈdip ˈkævərnz/",
+      "idiom": "go home",
+      "ja": "帰る",
+      "example": "It's time to go home and save our game.",
+      "example_ja": "ゲームを保存するために家に帰る時間です。",
+      "ipa": "/ɪts ˈtaɪm tə ˈɡoʊ ˈhoʊm ənd ˈseɪv ɑr ˈɡeɪm/",
       "linking": [
-        "for は弱形 /fɔr/ で diamonds に先行",
-        "in the → in の末尾が the の初頭に連結。both weak forms [ɪn ðə]"
+        "It's time → it's の末尾 /t/ が次の /t/ の前で未開放 [ɪt̚s ˈtaɪm]",
+        "to は機能語で弱形 /tə/、time との間に連結なし",
+        "home and → home の語末子音 /m/ が and の弱形 /ənd/ の /ə/ に連結 [hoʊm ənd]",
+        "save our → save の語末子音 /v/ が our の母音 /ɑ/ に連結 [seɪv ɑr]"
       ],
-      "kana": "レッツ ゴウ マイニング フォー ダイモンズ イン ザ ディープ キャヴァーンズ"
+      "kana": "イッツ タイム タ ゴウ ホウムアン セイヴアー ゲイム"
+    },
+    {
+      "idiom": "go to bed",
+      "ja": "寝る",
+      "example": "After your shift, go to bed right away.",
+      "example_ja": "仕事の後、すぐに寝てください。",
+      "ipa": "/ˈæftər jɔr ʃɪft ɡoʊ tə bɛd raɪt əˈweɪ/",
+      "linking": [
+        "shift go → shift の語末子音 /t/ が go の初頭子音 /ɡ/ に直続。/t/ は未開放 [ʃɪft̚ ɡoʊ] シフッ ゴウ",
+        "go to bed → go の語末母音 /oʊ/ が to の初頭子音 /t/ に先行。to は機能語で弱形 /tə/ に弱化 [ɡoʊ tə bɛd] ゴウ タ ベッド",
+        "bed right → bed の語末子音 /d/ が right の初頭子音 /r/ に直続。/d/ は未開放 [bɛd̚ raɪt] ベッ ライト"
+      ],
+      "kana": "アフター ユアー シフッ ゴウ タ ベッド ライト アウェイ"
+    },
+    {
+      "idiom": "go on (doing)",
+      "ja": "～し続ける",
+      "example": "I go on exploring the deep caverns.",
+      "example_ja": "深い洞窟を探索し続けています。",
+      "ipa": "/aɪ ɡoʊ ɑn ɪkˈsplɔrɪŋ ðə ˈdip ˈkævɚnz/",
+      "linking": [
+        "on exploring → on の語末子音 /n/ が exploring の初頭母音 /ɪ/ に連結 [ɑnɪkˈsplɔrɪŋ] ワニックスプローリング",
+        "the → 機能語弱形 /ðə/ ザ"
+      ],
+      "kana": "アイ ゴウ ワニックスプローリング ザ ディープ キャヴァーンズ"
+    },
+    {
+      "idiom": "go into 〜",
+      "ja": "～に入る、～の中へ進む",
+      "example": "We should go into the cave to get some ore.",
+      "example_ja": "私たちは鉱石を取るために洞窟に入るべきです。",
+      "ipa": "/wiː ˈʃʊd ɡoʊ ˈɪntə ðə ˈkeɪv tə ˈɡɛt səm ˈɔɹ/",
+      "linking": [
+        "should go → should の語末子音 /d/ は次の子音 /ɡ/ の前で未開放 [ˈʃʊd̚ ɡoʊ] シュッゴウ",
+        "cave to → cave の語末子音 /v/ が母音 /ə/ に連結 [keɪvə] ケイヴァ",
+        "some ore → some の語末子音 /m/ が母音 /ɔ/ に連結 [səmˈɔɹ] サモー"
+      ],
+      "kana": "ウィー シュッゴウ イント ザ ケイヴァ タ ゲット サモー"
+    },
+    {
+      "idiom": "go 〜ing",
+      "ja": "～しに行く（例：go fishing = 釣りに行く、go mining = 採掘に行く）",
+      "example": "Let's go explore the deep caves!",
+      "example_ja": "深い洞窟を探索しに行きましょう!",
+      "ipa": "/lɛts ɡoʊ ɛkˈsplɔr ðə ˈdip keɪvz/",
+      "linking": [
+        "Let's go → let's /lɛts/ の語末 /ts/ が go の初頭子音 /ɡ/（子音+子音）に続き、/ts/ は未開放傾向 [lɛts ɡoʊ] レッツ ゴー",
+        "explore the → explore の語末 /r/ が the の初頭 /ð/（子音+子音）に続く [ɛkˈsplɔr ðə] エクスプロア ザ",
+        "the は機能語で弱形 /ðə/。deep caves との連結 [ðə ˈdip ˈkeɪvz] ザ ディープ ケイヴズ"
+      ],
+      "kana": "レッツ ゴー エクスプロア ザ ディープ ケイヴズ"
+    },
+    {
+      "idiom": "go up (〜)",
+      "ja": "上がる",
+      "example": "Make it go up and grab ore.",
+      "example_ja": "上げて鉱石を掴もう。",
+      "ipa": "/ˈmeɪk ɪt ˈɡoʊ ʌp ənd ˈɡræb ɔr/",
+      "linking": [
+        "make の語末子音 /k/ が it の初頭母音 /ɪ/ に連結 [ˈmeɪkɪt] メイキット",
+        "up の語末子音 /p/ が and の弱形初頭母音 /ə/ に連結 [ʌpənd] アパンド",
+        "grab の語末子音 /b/ が ore の初頭母音 /ɔ/ に連結 [ɡræbɔr] グラボー"
+      ],
+      "kana": "メイキット ゴウ アパンド グラボー"
+    },
+    {
+      "idiom": "go back (to 〜)",
+      "ja": "戻る",
+      "example": "Let's go back to base before the mobs spawn.",
+      "example_ja": "モブがスポーンする前にベースに戻ろう。",
+      "ipa": "/lɛts ɡoʊ ˈbæk tə ˈbeɪs bɪˈfɔr ðə ˈmoʊbz ˈspoʊn/",
+      "linking": [
+        "Let's go → let's の語末子音群 /ts/ が go の初頭子音 /ɡ/ に直続（子音+子音）。/ts/ は未開放傾向 [lɛts̚ ɡoʊ]",
+        "back to → back の語末子音 /k/ が to の初頭子音 /t/ に直続（子音+子音）。/k/ は未開放。to は機能語で弱形 /tə/ [bæk̚ tə]",
+        "the mobs → the は機能語で弱形 /ðə/ [ðə ˈmoʊbz]"
+      ],
+      "kana": "レッツ ゴウ バック タ ベイス ビフォー ザ モウブズ スポウン"
+    },
+    {
+      "idiom": "go through 〜",
+      "ja": "〜を経験する、通り抜ける",
+      "example": "We have to go through the deep cave system to find diamonds.",
+      "example_ja": "深い洞窟システムを通り抜けてダイヤモンドを見つける必要があります。",
+      "ipa": "/wi hæv tə ɡoʊ θruː ðə ˈdip ˈkeɪv ˈsɪstəm tə ˈfaɪnd ˈdaɪmənds/",
+      "linking": [
+        "have to → have の語末子音 /v/ が to の初頭母音 /ə/ に連結 [hævə] ハヴァ",
+        "through the → through /θruː/ の後、the は機能語で弱形 /ðə/ [θruː ðə] スルー ザ",
+        "system to → system の語末子音 /m/ が to の初頭母音 /ə/ に連結 [ˈsɪstəmə] シスタマ"
+      ],
+      "kana": "ウィ ハヴァ ゴウ スルー ザ ディープ ケイヴ シスタマ ファインド ダイモンズ"
     }
   ],
-  "forms": [
-    {
-      "type": "3rd_person_singular",
-      "label": "三人称単数現在形",
-      "text": "goes",
-      "ipa": "/ɡoʊz/",
-      "examples": [
-        {
-          "en": "She goes underground to explore new caves.",
-          "ja": "彼女は地下に行って新しい洞窟を探索します。",
-          "ipa": "[ʃi ɡoʊz ˈʌndərˌɡraʊnd tə ɪkˈsplɔr ˈnu keɪvz]",
-          "linking": [
-            "to は弱形 /tə/。explore に先行 [tə ɪkˈsplɔr] タ エクスプロー",
-            "caves は複数形で /z/ で終わる"
-          ],
-          "kana": "シ ゴウズ アンダーグラウンド タ イクスプロー ニュー キーヴズ"
-        }
-      ]
-    },
-    {
-      "type": "past_tense",
-      "label": "過去形",
-      "text": "went",
-      "ipa": "/wɛnt/",
-      "examples": [
-        {
-          "en": "I went to the end last week.",
-          "ja": "先週エンドに行きました。",
-          "ipa": "[aɪ wɛnt tə ði ˈɛnd læst ˈwik]",
-          "linking": [
-            "to は弱形 /tə/。the に先行し連結 [tə ðə] タ ザ"
-          ],
-          "kana": "アイ ウェント タ ザ エンド ラスト ウィーク"
-        }
-      ]
-    },
-    {
-      "type": "past_participle",
-      "label": "過去分詞",
-      "text": "gone",
-      "ipa": "/ɡɔn/",
-      "examples": [
-        {
-          "en": "They have gone to build their new base.",
-          "ja": "彼らは新しい基地を建てるために行きました。",
-          "ipa": "[ðeɪ həv ɡɔn tə ˈbɪld ðɛr ˈnu beɪs]",
-          "linking": [
-            "have は弱形 /həv/ で gone に先行",
-            "to は弱形 /tə/。build に先行 [tə ˈbɪld] タ ビルド"
-          ],
-          "kana": "ゼイ ハヴ ゴーン タ ビルド ザー ニュー ベイス"
-        }
-      ]
-    },
-    {
-      "type": "present_participle",
-      "label": "現在分詞・動名詞",
-      "text": "going",
-      "ipa": "/ˈɡoʊɪŋ/",
-      "examples": [
-        {
-          "en": "I'm going to the nether soon.",
-          "ja": "すぐにネザーに行くつもりです。",
-          "ipa": "[aɪm ˈɡoʊɪŋ tə ðə ˈnɛðər ˈsun]",
-          "linking": [
-            "I'm → 縮約形 /aɪm/。m が going に先行 [aɪm̚ ˈɡoʊɪŋ] アイム・ゴウイング",
-            "to は弱形 /tə/。the に連結 [tə ðə] タ ザ"
-          ],
-          "kana": "アイム ゴウイング タ ザ ネザー スーン"
-        }
-      ]
-    },
-    {
-      "type": "present_progressive",
-      "label": "現在進行形",
-      "text": "is going",
-      "ipa": "/ɪz ˈɡoʊɪŋ/",
-      "examples": [
-        {
-          "en": "Steve is going to the cave right now with his pickaxe.",
-          "ja": "スティーブは今、つるはしを持って洞窟に行っています。",
-          "ipa": "[stiv ɪz ˈɡoʊɪŋ tə ðə keɪv ˈraɪt ˈnaʊ wɪð hɪz ˈpɪkˌæks]",
-          "linking": [],
-          "kana": "スティーヴ イズ ゴウイング タ ザ キーヴ ライト ナウ ウィズ ヒズ ピックアックス"
-        },
-        {
-          "en": "They are going deeper into the ravine to look for ore.",
-          "ja": "彼らは鉱石を探すために、深い渓谷をさらに進んでいます。",
-          "ipa": "[ðeɪ ɑr ˈɡoʊɪŋ ˈdipər ˈɪntu ðə rəˈvin tə lʊk fɔr ˈɔr]",
-          "linking": [
-            "into の末尾 /u/ が the の初頭 /ð/ に連結 [ˈɪntu ðə]"
-          ],
-          "kana": "ゼイ アー ゴウイング ディーパー イントゥ ザ ラヴィーン タ ルック フォー オー"
-        }
-      ]
-    },
-    {
-      "type": "past_progressive",
-      "label": "過去進行形",
-      "text": "was going",
-      "ipa": "/wəz ˈɡoʊɪŋ/",
-      "examples": [
-        {
-          "en": "I was going home when a creeper appeared behind me.",
-          "ja": "家に帰っていた時、クリーパーが後ろに現れました。",
-          "ipa": "[aɪ wəz ˈɡoʊɪŋ hoʊm wɛn ə ˈkripər əˈpɪrd bɪˈhaɪnd mi]",
-          "linking": [
-            "when の末尾 /n/ が a の初頭 /ə/ に連結 [wɛn ə]"
-          ],
-          "kana": "アイ ワズ ゴウイング ホウム ウェン ア クリーパー アピアード ビハインド ミー"
-        },
-        {
-          "en": "We were going to build a castle when it started raining.",
-          "ja": "お城を建てるつもりでしたが、雨が降り始めました。",
-          "ipa": "[wi wər ˈɡoʊɪŋ tə ˈbɪld ə ˈkæsəl wɛn ɪt ˈstɑɾəd ˈreɪnɪŋ]",
-          "linking": [
-            "when の末尾 /n/ が it の初頭 /ɪ/ に連結 [wɛn ɪt]"
-          ],
-          "kana": "ウィ ワー ゴウイング タ ビルド ア キャッスル ウェン イット スタード レイニング"
-        }
-      ]
-    },
-    {
-      "type": "past_perfect_progressive",
-      "label": "過去完了進行形",
-      "text": "had been going",
-      "ipa": "/həd bɪn ˈɡoʊɪŋ/",
-      "examples": [
-        {
-          "en": "I had been going to that cave for weeks before I found diamonds.",
-          "ja": "ダイヤモンドを見つける前に、数週間その洞窟に行き続けていました。",
-          "ipa": "[aɪ həd bɪn ˈɡoʊɪŋ tə ðæt keɪv fɔr wiks bɪˈfɔr aɪ faʊnd ˈdaɪməndz]",
-          "linking": [
-            "before の末尾 /r/ が I の初頭 /aɪ/ に連結 [bɪˈfɔr aɪ]"
-          ],
-          "kana": "アイ ハド ビン ゴウイング タ ザット キーヴ フォー ウィークス ビフォー アイ ファウンド ダイモンズ"
-        },
-        {
-          "en": "They had been going deeper and deeper when they discovered the fortress.",
-          "ja": "彼らが要塞を発見する時には、どんどん深く進み続けていました。",
-          "ipa": "[ðeɪ həd bɪn ˈɡoʊɪŋ ˈdipər ənd ˈdipər wɛn ðeɪ dɪsˈkʌvərd ðə ˈfɔrtrəs]",
-          "linking": [],
-          "kana": "ゼイ ハド ビン ゴウイング ディーパー アン ディーパー ウェン ザイ ディスカバード ザ フォートレス"
-        }
-      ]
-    }
-  ]
+  "forms": []
 }
