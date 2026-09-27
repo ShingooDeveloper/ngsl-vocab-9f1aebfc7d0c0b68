@@ -303,6 +303,99 @@
           "kana": "アイ ハド ビン ディスコーシングアバウト シニア プレイヤーズ アバウト エンドゲーム ストラレジーズ ウェン ユー ジョイント ザ サーバー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has discoursed",
+      "ipa": "/həz dɪsˈkɔrst/",
+      "examples": [
+        {
+          "en": "The expert has discoursed extensively on building strategies with countless players.",
+          "ja": "専門家は無数のプレイヤーと建築戦略について広く論じてきた。",
+          "ipa": "/ðə ˈɛks.pɝt həz dɪsˈkɔrst ɪkˈstɛn.sɪv.li ɑn ˈbɪl.dɪŋ ˈstrætə.dʒiz wɪð ˈkaʊnt.ləs ˈpleɪ.ɚz/",
+          "linking": [
+            "「the」は弱形 /ðə/「ザ」",
+            "「has discoursed」で has は弱形 /həz/「ハズ」、語末子音 /z/ が次の /d/ に続く（子音+子音）",
+            "「extensively on」で /li/ が /ɑ/ に連結 [ˌɪkˈstɛn.sɪv.li ɑn]「イクステンシブリー オン」",
+            "「with」の /ð/ が /k/ に続く（子音+子音）"
+          ],
+          "kana": "ザ エキスパート ハズ ディスコースト イクステンシブリー オン ビルディング ストラレジーズ ウィズ カウントレス プレイヤーズ"
+        },
+        {
+          "en": "Our server community has discoursed about rule changes for weeks now.",
+          "ja": "私たちのサーバーコミュニティはルール変更について何週間も論じてきた。",
+          "ipa": "/ˈaʊɚ ˈsɜr.vɚ kəˈmjuː.nə.ti həz dɪsˈkɔrst əˈbaʊt rul ˈtʃeɪn.dʒəz fɔr wiks naʊ/",
+          "linking": [
+            "「has discoursed」で has は弱形 /həz/「ハズ」、語末 /z/ が /d/ に続く（子音+子音）",
+            "「discoursed about」で /d/ が弱形 /ə/ に連結 [dɪsˈkɔrstəˈbaʊt]「ディスコースト アバウト」",
+            "「for」は弱形 /fər/「ファー」"
+          ],
+          "kana": "アワー サーバー コミューニティ ハズ ディスコースト アバウト ルール チェインジーズ ファー ウィークス ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had discoursed",
+      "ipa": "/həd dɪsˈkɔrst/",
+      "examples": [
+        {
+          "en": "By the time new players arrived, the veterans had discoursed about optimal mining routes.",
+          "ja": "新しいプレイヤーが到着した時までに、ベテランは最適な採掘ルートについて論じていた。",
+          "ipa": "/baɪ ðə taɪm nju ˈpleɪ.ɚz əˈraɪvd ðə ˈvɛt.ɚənz həd dɪsˈkɔrst əˈbaʊt ˈɑp.tə.məl ˈmaɪ.nɪŋ ruts/",
+          "linking": [
+            "「the」は弱形 /ðə/「ザ」（2回）",
+            "「had discoursed」で had は弱形 /həd/「ハド」、語末 /d/ が次の /d/ に続く（子音+子音）",
+            "「discoursed about」で /d/ が弱形 /ə/ に連結 [dɪsˈkɔrstəˈbaʊt]「ディスコースト アバウト」"
+          ],
+          "kana": "バイ ザ タイム ニュー プレイヤーズ ァライヴド ザ ベテランズ ハド ディスコースト アバウト オプティマル マイニング ルーツ"
+        },
+        {
+          "en": "They had discoursed for hours before deciding on the base layout.",
+          "ja": "ベースのレイアウトを決める前に、彼らは何時間も論じていた。",
+          "ipa": "/ðeɪ həd dɪsˈkɔrst fɔr ˈaʊ.ɚz bɪˈfɔr dɪˈsaɪ.dɪŋ ɑn ðə ˈbeɪs ˈleɪ.aʊt/",
+          "linking": [
+            "「had discoursed」で had は弱形 /həd/「ハド」、語末 /d/ が /d/ に続く（子音+子音）",
+            "「for」は弱形 /fər/「ファー」、hours へ連結 [fɔrˈaʊ.ɚz]「ファー アワーズ」",
+            "「on the」で /n/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "ゼイ ハド ディスコースト ファー アワーズ ビフォア ディサイディング オン ザ ベース レイアウト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been discoursing",
+      "ipa": "/həz bɪn dɪsˈkɔr.sɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been discoursing with moderators about new features all morning.",
+          "ja": "管理者はモデレーターと朝中新しい機能について論じている。",
+          "ipa": "/ðə ˈæd.mɪn həz bɪn dɪsˈkɔr.sɪŋ wɪð ˈmɑd.ə.reɪ.tɚz əˈbaʊt nju ˈfi.tʃɚz ɔl ˈmɔr.nɪŋ/",
+          "linking": [
+            "「the」は弱形 /ðə/「ザ」",
+            "「has been」で has は弱形 /həz/「ハズ」、been は弱形 /bɪn/「ビン」、語末 /z/ が /b/ に続く（子音+子音）",
+            "「been discoursing」で /n/ が /d/ に続く（子音+子音）",
+            "「discoursing with」で /ŋ/ が /w/ に続く（子音+子音）"
+          ],
+          "kana": "ザ アドミン ハズ ビン ディスコーシング ウィズ モデレーターズ アバウト ニュー フィーチャーズ オール モーニング"
+        },
+        {
+          "en": "Players have been discoursing on the server updates since the announcement.",
+          "ja": "プレイヤーたちは発表以来、サーバーアップデートについて論じ続けている。",
+          "ipa": "/ˈpleɪ.ɚz həv bɪn dɪsˈkɔr.sɪŋ ɑn ðə ˈsɜr.vɚ ˈʌp.deɪts sɪns ðə əˈnaʊns.mənt/",
+          "linking": [
+            "「have been」で have は弱形 /həv/「ハヴ」、been は弱形 /bɪn/「ビン」、語末 /v/ が /b/ に続く（子音+子音）",
+            "「been discoursing」で /n/ が /d/ に続く（子音+子音）",
+            "「discoursing on」で /ŋ/ が /ɑ/ に連結 [dɪsˈkɔr.sɪŋɑn]「ディスコーシング オン」",
+            "「on the」で /n/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン ディスコーシング オン ザ サーバー アップデーツ シンス ザ アナウンスメント"
+        }
+      ]
     }
   ],
   "hi": "discourse(?:s|ed|ing)?"
