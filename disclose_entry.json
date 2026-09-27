@@ -285,6 +285,197 @@
           "kana": "シー ハド ビン ディスクロウジン ザ ダンジョン ロケーションズ フア アワーズ ビフォア ザ アドミン ファウンド アウト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has disclosed",
+      "ipa": "/həz dɪsˈkloʊzd/",
+      "examples": [
+        {
+          "en": "The admin has disclosed the treasure chest location to the team.",
+          "ja": "管理者はチームに宝箱の場所を明かしました。",
+          "ipa": "/ðə ˈædmɪn həz dɪsˈkloʊzd ðə ˈtrɛʒər ˈtʃɛst loʊˈkeɪʃən tə ðə ˈtim/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "disclosed the → 語末子音 /d/ が the の /ə/ に連結 [dɪsˈkloʊzdə]",
+            "to the → to が弱形 /tə/、the が弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ハズ ディスクロウズド ザ トレジャー チェスト ロケーション タ ザ ティーム"
+        },
+        {
+          "en": "I have disclosed my spawn point to my friends in the survival world.",
+          "ja": "私はサバイバルワールドで友人にスポーン地点を明かしました。",
+          "ipa": "/aɪ həv dɪsˈkloʊzd maɪ spɔn ˈpɔɪnt tə maɪ ˈfrɛndz ɪn ðə sərˈvaɪvəl ˈwɝld/",
+          "linking": [
+            "have は弱形 /həv/",
+            "disclosed my → 語末子音 /d/ が my の /m/ に続く（consonant+consonant）",
+            "to my → to が弱形 /tə/",
+            "in the → the が弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ディスクロウズド マイ スポーン ポイント タ マイ フレンズ イン ザ サーバイバル ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had disclosed",
+      "ipa": "/həd dɪsˈkloʊzd/",
+      "examples": [
+        {
+          "en": "We had disclosed the base entrance before the raid happened.",
+          "ja": "レイドが起きる前に、私たちは基地の入り口を明かしていました。",
+          "ipa": "/wi həd dɪsˈkloʊzd ðə ˈbeɪs ˈɛntrəns bɪˈfɔr ðə ˈreɪd ˈhæpənd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "disclosed the → 語末子音 /d/ が the の /ə/ に連結 [dɪsˈkloʊzdə]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ディスクロウズド ザ ベイス エントランス ビフォア ザ レイド ハペンド"
+        },
+        {
+          "en": "She had disclosed all the coordinates by the end of the day.",
+          "ja": "日中に、彼女はすべての座標を明かしていました。",
+          "ipa": "/ʃi həd dɪsˈkloʊzd ɔl ðə koʊˈɔrdənɪts baɪ ðə ˈɛnd əv ðə ˈdeɪ/",
+          "linking": [
+            "had は弱形 /həd/",
+            "all the → /l/ + /ð/（consonant+consonant）",
+            "the は弱形 /ðə/ (2回)",
+            "of は弱形 /əv/"
+          ],
+          "kana": "シー ハド ディスクロウズド オール ザ コーディネッツ バイ ザ エンド アヴ ザ デイ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been disclosing",
+      "ipa": "/həz bɪn dɪsˈkloʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The developer has been disclosing new features throughout the month.",
+          "ja": "開発者は月間を通じて新機能を明かしています。",
+          "ipa": "/ðə dɪˈvɛləpər həz bɪn dɪsˈkloʊzɪŋ ˈnu ˈfitʃərz θruːˈaʊt ðə ˈmʌnθ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/ (2回目)"
+          ],
+          "kana": "ザ デベラパー ハズ ビン ディスクロウジン ニュー フィチャーズ スルーアウト ザ マンス"
+        },
+        {
+          "en": "Players have been disclosing their farming locations since the last update.",
+          "ja": "プレイヤーは最後のアップデート以来、彼らの農場の場所を明かしています。",
+          "ipa": "/ˈpleɪərz həv bɪn dɪsˈkloʊzɪŋ ðɛr ˈfɑrmɪŋ loʊˈkeɪʃənz sɪns ðə ˈlæst ˈʌpdeɪt/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "their は /ðɛr/。farming に連結する r。",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン ディスクロウジン ゼア ファーミング ロケーションズ シンス ザ ラスト アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will disclose",
+      "ipa": "/wɪl dɪsˈkloʊz/",
+      "examples": [
+        {
+          "en": "The admin will disclose the secret base location at the tournament.",
+          "ja": "管理者はトーナメントで秘密の基地の場所を明かすでしょう。",
+          "ipa": "/ðə ˈædmɪn wɪl dɪsˈkloʊz ðə ˈsikrɪt ˈbeɪs loʊˈkeɪʃən æt ðə ˈtʊrnəmənt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "disclose the → 語末子音 /z/ が the の /ð/ に続く（consonant+consonant）",
+            "the は弱形 /ðə/ (2回目)"
+          ],
+          "kana": "ザ アドミン ウィル ディスクロウズ ザ シークレット ベイス ロケーション アット ザ ターナメント"
+        },
+        {
+          "en": "We'll disclose our enchantment recipes to the new players tomorrow.",
+          "ja": "明日、私たちは新しいプレイヤーに私たちのエンチャントレシピを明かすでしょう。",
+          "ipa": "/wil dɪsˈkloʊz ˈaʊər ɪnˈtʃɑntmənt ˈrɛsəpiz tə ðə ˈnu ˈpleɪərz təˈmɑroʊ/",
+          "linking": [
+            "we'll = will の縮約形 /wɪl/→/wəl/→/wil/ (先行する we と融合)",
+            "disclose our → 語末子音 /z/ が our の /aʊ/ に続く（consonant+vowel）[dɪsˈkloʊzaʊr]",
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィル ディスクロウズ アワー インチャンメント レセピーズ タ ザ ニュー プレイヤーズ トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be disclosing",
+      "ipa": "/wɪl bi dɪsˈkloʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The developer will be disclosing new features throughout next week.",
+          "ja": "開発者は来週を通じて新機能を明かし続けるでしょう。",
+          "ipa": "/ðə dɪˈvɛləpər wɪl bi dɪsˈkloʊzɪŋ ˈnu ˈfitʃərz θruːˈaʊt ˈnɛkst ˈwik/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "be は弱形 /bi/ または /bə/",
+            "the は弱形 /ðə/ (2回目)"
+          ],
+          "kana": "ザ デベラパー ウィル ビ ディスクロウジン ニュー フィチャーズ スルーアウト ネクスト ウィーク"
+        },
+        {
+          "en": "They'll be disclosing secret passages while we construct our fortress.",
+          "ja": "私たちが要塞を建設している間、彼らは秘密の通路を明かし続けるでしょう。",
+          "ipa": "/ðeɪl bi dɪsˈkloʊzɪŋ ˈsikrɪt ˈpæsɪdʒɪz ˈwaɪl wi kənˈstrʌkt ˈaʊər ˈfɔrtəs/",
+          "linking": [
+            "they'll = will の縮約形 /ðeɪl/",
+            "be は弱形 /bə/",
+            "while we → 語末子音 /l/ が we の /w/ に続く（consonant+consonant）",
+            "our は /aʊr/。fortress に連結する r。"
+          ],
+          "kana": "ゼイル ビ ディスクロウジン シークレット パッセジーズ ホワイル ウィ コンストラクト アワー フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have disclosed",
+      "ipa": "/wɪl həv dɪsˈkloʊzd/",
+      "examples": [
+        {
+          "en": "By the end of the event, the admin will have disclosed all the hidden treasures.",
+          "ja": "イベントの終わりまでに、管理者はすべての隠れた宝物を明かしているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ɪˈvɛnt | ðə ˈædmɪn wɪl həv dɪsˈkloʊzd ɔl ðə ˈhɪdən ˈtrɛʒərz/",
+          "linking": [
+            "by the → 語末子音 /b/ が the の /ð/ に続く（consonant+consonant）",
+            "the は弱形 /ðə/",
+            "of は弱形 /əv/",
+            "will は弱形 /wɪl/、have は弱形 /həv/"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ イベント、ザ アドミン ウィル ハヴ ディスクロウズド オール ザ ヒデン トレジャーズ"
+        },
+        {
+          "en": "I'll have disclosed my spawn point before you join the server.",
+          "ja": "あなたがサーバーに参加する前に、私はスポーン地点を明かしているでしょう。",
+          "ipa": "/aɪl həv dɪsˈkloʊzd maɪ spɔn ˈpɔɪnt bɪˈfɔr ju dʒɔɪn ðə ˈsɝvɚ/",
+          "linking": [
+            "I'll = will の縮約形 /aɪl/",
+            "have は弱形 /həv/ または /əv/",
+            "disclosed my → 語末子音 /d/ が my の /m/ に続く（consonant+consonant）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイル ハヴ ディスクロウズド マイ スポーン ポイント ビフォア ユー ジョイン ザ サーバー"
+        }
+      ]
     }
   ]
 }
