@@ -1,0 +1,383 @@
+{
+  "word": "inhibit",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɪnˈhɪbɪt/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "inhibit(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】（…を）妨げる、阻止する（to prevent something from happening or someone from doing something）",
+    "【動詞】抑制する、抑える（to hold back one's natural behavior or emotions）",
+    "【動詞】（化学・生物学）阻害する、機能を低下させる（to slow down or prevent a chemical or biological process）",
+    "【動詞】（法律用語）禁止する、制限する（to officially prevent or forbid）"
+  ],
+  "examples": [
+    {
+      "en": "I build barriers to inhibit mobs in my base.",
+      "ja": "敵対的なモブを止めるためにベースに障壁を建築する。",
+      "ipa": "/aɪ ˈbɪld ˈbæɹiɚz tə ɪnˈhɪbɪt ˈmoʊbz ɪn maɪ ˈbeɪs/",
+      "linking": [
+        "build barriers - build の /d/ が barriers の /b/ に続く（子音+子音、未開放）ビルド バリアーズ",
+        "to - 機能語で弱形 /tə/ に弱化 タ",
+        "in my - in の /n/ が my の /m/ に続く（子音+子音）イン マイ"
+      ],
+      "kana": "アイ ビルド バリアーズ タ イニヒビット モウブズ イン マイ ベイス"
+    },
+    {
+      "en": "Water gates inhibit the current from flowing downward.",
+      "ja": "水のゲートが下方への流れを効果的に止めている。",
+      "ipa": "/ˈwɔɹɚ ˈɡeɪts ɪnˈhɪbɪt ðə ˈkɚənt frəm ˈfloʊɪŋ ˈdaʊnwɚd/",
+      "linking": [
+        "inhibit the - inhibit の /t/ が the の /ð/ の前で未開放 [ɪnˈhɪbɪt̚ ðə]、the は弱形 /ðə/",
+        "from flowing - from の /m/ が flowing の /f/ に続く（子音+子音）フラム フロウイング",
+        "water gates - water の末尾ローティック /r/ が gates の /g/ の前で弱化 ウォーター ゲイツ"
+      ],
+      "kana": "ウォーター ゲイツ イニヒビット ザ カレント フラム フロウイング ダウンワード"
+    },
+    {
+      "en": "Bedrock inhibits any attempt to dig further downward.",
+      "ja": "ベドロックは下方へのさらなる掘削の試みを妨げている。",
+      "ipa": "/ˈbɛdˌrɑk ɪnˈhɪbɪts ˈɛni əˈtɛmpt tu dɪɡ ˈfɝðɚ ˈdaʊnwɚd/",
+      "linking": [
+        "bedrock inhibits - bedrock の /k/ が inhibits の /ɪ/ に連結 ベドロック イニヒビッツ",
+        "to dig - to は弱形 /tu/ (または /tə/) トゥ ディグ",
+        "further downward - further の末尾ローティック /r/ が downward の /d/ の前で分離 ファーザー ダウンワード"
+      ],
+      "kana": "ベドロック イニヒビッツ エニー アテンプト トゥ ディグ ファーザー ダウンワード"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "inhibit water flow",
+      "ja": "水の流れを止める",
+      "example": "I'll use a gate design to inhibit the water flow in my irrigation system.",
+      "example_ja": "灌漑システムの水の流れを止めるためにゲートデザインを使用します。",
+      "ipa": "/aɪl ˈjuz ə ˈɡeɪt dɪˈzaɪn tu ɪnˈhɪbɪt ðə ˈwɔɹɚ ˈfloʊ ɪn maɪ ˌɪrɪˈɡeɪʃən ˈsɪstəm/",
+      "linking": [
+        "I'll use a - use の /z/ が a の弱形 /ə/ に連結 ユーザ ア",
+        "gate design - gate の /t/ が design の /d/ の前で未開放（子音+子音）ゲート ディザイン",
+        "to inhibit - to は弱形 /tu/、inhibit の /ɪ/ に連結 トゥ イニヒビット"
+      ],
+      "kana": "アイル ユーザ ゲート ディザイン トゥ イニヒビット ザ ウォーター フロウ イン マイ イリゲーション システム"
+    },
+    {
+      "idiom": "inhibit mob movement",
+      "ja": "モブの移動を阻止する",
+      "example": "High walls effectively inhibit hostile mob movement around your base.",
+      "example_ja": "高い壁はあなたのベースの周囲のモブの動きを効果的に阻止しています。",
+      "ipa": "/ˈhaɪ ˈwɔlz ɪˈfɛktɪvli ɪnˈhɪbɪt ˈhɑstəl ˈmoʊb ˈmuːvmənt əˈraʊnd jɚ ˈbeɪs/",
+      "linking": [
+        "walls effectively - walls の /z/ が effectively の /ɪ/ に続く（子音+子音、連結しない）ウォルズ エフェクティブリ",
+        "inhibit hostile - inhibit の /t/ が hostile の /h/ の前で未開放 イニヒビット ホスタル",
+        "around your - around の /d/ が your の /j/ に続く（子音+子音）アラウンド ユアー"
+      ],
+      "kana": "ハイ ウォルズ イフェクティヴリ イニヒビット ホスタル モウブ ムーブメント アラウンド ユアー ベイス"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "inhibits",
+      "ipa": "/ɪnˈhɪbɪts/",
+      "examples": [
+        {
+          "en": "Water effectively inhibits fire spread on wooden structures.",
+          "ja": "水は木造建造物の火の拡散を効果的に抑制します。",
+          "ipa": "/ˈwɔɾɚ ɪˈfɛktɪvli ɪnˈhɪbɪts ˈfaɪɚ spɹɛd ɑn ˈwʊdən ˈstrʌktʃɚz/",
+          "kana": "ウォーラー イフェクティブリ イニヒビッツ ファイアー スプレッド オン ウッダン ストラクチャーズ",
+          "linking": [
+            "「water」の語末ローティック /ɚ/ の /t/ がflap化：[ˈwɔɾɚ] ウォーラー（/ɔ/ と /ɚ/ に挟まれた /t/ が /ɾ/ に変わる）",
+            "「inhibits fire」で inhibits の語末 /ts/ が子音 /f/ に続くため、/t/ は未開放停止となる：[ɪnˈhɪbɪt̚s] イニヒビッツ",
+            "「spread on」で spread の語末子音 /d/ が母音 /ɑ/ に続き、flap化：[spɹɛɾɑn] スプレッド オン（/ɛ/ と /ɑ/ に挟まれた /d/ が /ɾ/ に変わり、二重フラップ化）"
+          ]
+        },
+        {
+          "en": "Barriers inhibit a lot of hostile mobs approaching our base.",
+          "ja": "柵はわれわれのベースに近づく多くの敵対的なモブを抑制しています。",
+          "ipa": "/ˈbæɹiɚz ɪnˈhɪbɪt ə ˈlɑɾəv ˈhɑstəl ˈmoʊbz əˈproʊtʃɪŋ ˈaʊɹ ˈbeɪs/",
+          "kana": "バリアーズ イニヒビット ア ロッラヴ ホスタル モウブズ アプローチング アワー ベイス",
+          "linking": [
+            "「inhibit a」で inhibit の語末子音 /t/ が母音 /ə/ に続き、flap化：[ɪnˈhɪbɪɾə] イニヒビラ",
+            "「lot of」で lot の語末子音 /t/ が弱形 /əv/ の /ə/ に続き、flap化：[ˈlɑɾəv] ロッラヴ。また of は機能語として弱形 /əv/「ヴ」に弱化",
+            "「approaching our」で approaching の語末 /ŋ/ が母音 /aʊ/ に連結して滑らかに発音される：[əˈproʊtʃɪŋ ˈaʊɹ] アプローチング アワー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "inhibited",
+      "ipa": "/ɪnˈhɪbɪtəd/",
+      "examples": [
+        {
+          "en": "The wall I built inhibited mob movement and prevented a devastating raid on our village.",
+          "ja": "私が建設した壁はモブの移動を抑制し、村への破壊的な襲撃を防ぎました。",
+          "ipa": "/ðə ˈwɔl aɪ ˈbɪlt ɪnˈhɪbɪtəd moʊb ˈmuːvmənt ænd prɪˈvɛntəd ə dɛvəˈsteɪtɪŋ ˈreɪd ɑn ˈaʊɹ ˈvɪlɪdʒ/",
+          "kana": "ザ ウォール アイ ビルト イニヒビテッド モウブ ムーブメント アンド プリベンテッド ア デヴァステイティング レイド オン アワー ビレッジ",
+          "linking": [
+            "「the wall」で the は弱形 /ðə/「ザ」に弱化し、wall の /ɔ/ に続く",
+            "「built inhibited」で built の語末子音 /t/ が母音 /ɪ/ に連結、未開放となる：[bɪlt̚ ɪn...] ビルト イニヒビテッド",
+            "「and prevented」で and は弱形 /ənd/「アンド」に弱化。prevented の /p/ に続く"
+          ]
+        },
+        {
+          "en": "Fire resistance potions inhibited all damage when I fell into lava while mining diamonds.",
+          "ja": "ダイヤモンド採掘中に溶岩に落ちたとき、耐火ポーション効果がすべてのダメージを抑制しました。",
+          "ipa": "/ˈfaɪɚ rɪˈzɪstəns ˈpoʊʃənz ɪnˈhɪbɪtəd ɔl ˈdæmɪdʒ wɛn aɪ ˈfɛl ˈɪntu ˈlɑvə waɪl ˈmaɪnɪŋ ˈdaɪmənz/",
+          "kana": "ファイアー リジスタンス ポーションズ イニヒビテッド オール ダメッジ ウェン アイ フェル イントゥ ラーバ ワイル マイニング ダイモンズ",
+          "linking": [
+            "「potions inhibited」で potions の語末 /z/ が母音 /ɪ/ に連結：[ˈpoʊʃənz ɪnˈhɪbɪtəd] ポーションズ イニヒビテッド",
+            "「fell into」で fell の語末 /l/ が母音 /ɪ/ に続き、into の /tu/ は弱形 /tə/ に弱化：[fɛl ˈɪntu] フェル イントゥ",
+            "「mining diamonds」で mining の語末 /ŋ/ が母音 /d/ に連結：[ˈmaɪnɪŋ ˈdaɪmənz] マイニング ダイモンズ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "inhibited",
+      "ipa": "/ɪnˈhɪbɪtəd/",
+      "examples": [
+        {
+          "en": "Having inhibited all mob spawning with torches, we explored the cave system safely.",
+          "ja": "松明ですべてのモブのスポーンを抑制したことで、洞窟システムを安全に探索しました。",
+          "ipa": "/ˈhævɪŋ ɪnˈhɪbɪtəd ɔl moʊb ˈspɔnɪŋ wɪð ˈtɔɹtʃɪz wi ɪkˈsplɔɹd ðə ˈkeɪv ˈsɪstəm ˈseɪfli/",
+          "kana": "ハービング イニヒビテッド オール モウブ スポーニング ウィス トーチズ ウィー エクスプロード ザ ケイヴ システム セイフリー",
+          "linking": [
+            "「Having inhibited」で Having の語末 /ŋ/ が母音 /ɪ/ に連結：[ˈhævɪŋ ɪnˈhɪbɪtəd] ハービング イニヒビテッド",
+            "「inhibited all」で inhibited の語末 /d/ が母音 /ɔ/ に連結：[ɪnˈhɪbɪtəd ɔl] イニヒビテッド オール",
+            "「with torches」で with は弱形 /wɪð/「ウィス」に弱化し、torches の /t/ に続く"
+          ]
+        },
+        {
+          "en": "With fire spread inhibited by water, the wooden house survived the lava flow.",
+          "ja": "水で火の拡散が抑制されたことで、木製の家は溶岩流から生き残りました。",
+          "ipa": "/wɪð ˈfaɪɚ spɹɛd ɪnˈhɪbɪtəd baɪ ˈwɔɾɚ ðə ˈwʊdən ˈhaʊs sɚˈvaɪvd ðə ˈlɑvə ˈfloʊ/",
+          "kana": "ウィス ファイアー スプレッド イニヒビテッド バイ ウォーラー ザ ウッダン ハウス サーヴァイヴド ザ ラーバ フロウ",
+          "linking": [
+            "「spread inhibited」で spread の語末 /d/ が母音 /ɪ/ に続く、未開放となる：[spɹɛd ɪnˈhɪbɪtəd] スプレッド イニヒビテッド",
+            "「by water」で by の /aɪ/ が water の /w/ に続く「バイ」。water は flap T化：[ˈwɔɾɚ] ウォーラー",
+            "「the wooden」で the は弱形 /ðə/「ザ」に弱化。wooden は /ˈwʊdən/「ウッダン」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "inhibiting",
+      "ipa": "/ɪnˈhɪbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Inhibiting mob spawning with strategic light placement is the most effective defensive strategy in Minecraft.",
+          "ja": "戦略的な光の配置でモブのスポーンを抑制することは、マインクラフトにおける最も効果的な防御戦略です。",
+          "ipa": "/ɪnˈhɪbɪtɪŋ moʊb ˈspɔnɪŋ wɪð stɹəˈtidʒɪk ˈlaɪt ˈpleɪsmənt ɪz ðə ˈmoʊst ɪˈfɛktɪv dɪˈfɛnsɪv stɹætədʒi ɪn mɪnˈkræft/",
+          "kana": "イニヒビティング モウブ スポーニング ウィス ストラティジック ライト プレイスメント イズ ザ モウスト イフェクティヴ ディフェンシヴ ストラテジー イン マインクラフト",
+          "linking": [
+            "「Inhibiting mob」で Inhibiting の語末 /ŋ/ が母音 /m/ に連結：[ɪnˈhɪbɪtɪŋ moʊb] イニヒビティング モウブ",
+            "「with strategic」で with は弱形 /wɪð/「ウィス」に弱化。strategic の /s/ に続く",
+            "「the most」で the は弱形 /ðə/「ザ」に弱化し、most の /m/ に続く"
+          ]
+        },
+        {
+          "en": "By inhibiting all hostile mob pathfinding with protective walls, we completely eliminated the threat to our farm.",
+          "ja": "保護壁で敵対的なモブの経路探索を抑制することで、農場への脅威を完全に排除しました。",
+          "ipa": "/baɪ ɪnˈhɪbɪtɪŋ ɔl ˈhɑstəl moʊb ˈpæθˌfaɪndɪŋ wɪð prəˈtɛktɪv ˈwɔlz wi kəmˈplit li ɪˈlɪmɪneɪtəd ðə ˈθɹɛt tu ˈaʊɹ ˈfɑɹm/",
+          "kana": "バイ イニヒビティング オール ホスタル モウブ パスファインディング ウィス プロテクティヴ ウォルズ ウィー コンプリートリー イリミネイテッド ザ スレット トゥ アワー ファーム",
+          "linking": [
+            "「By inhibiting」で By の /aɪ/ が inhibiting の /ɪ/ に続く：[baɪ ɪnˈhɪbɪtɪŋ] バイ イニヒビティング",
+            "「inhibiting all」で inhibiting の語末 /ŋ/ が母音 /ɔ/ に連結：[ɪnˈhɪbɪtɪŋ ɔl] イニヒビティング オール",
+            "「to our」で to は弱形 /tə/「トゥ」に弱化し、our の /ˈaʊɹ/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is inhibiting",
+      "ipa": "/ɪz ɪnˈhɪbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Water is inhibiting the spread of fire to my wooden house.",
+          "ja": "水が木造の家への火の広がりを抑制しています。",
+          "ipa": "/ˈwɔɾɚ ɪz ɪnˈhɪbɪtɪŋ ðə spɹɛd əv ˈfaɪɚ tu maɪ ˈwʊdən ˈhaʊs/",
+          "kana": "ウォーラー イズ イニヒビティング ザ スプレッド アヴ ファイアー トゥ マイ ウッダン ハウス",
+          "linking": [
+            "water: /ˈwɔtɚ/ で /t/ が母音に挟まれているため flap化して /ɾ/ になり /ˈwɔɾɚ/。is は弱形 /ɪz/",
+            "inhibiting の語末 /ŋ/ (velar nasal) が the の /ð/ に続く；the は弱形 /ðə/",
+            "spread の語末 /d/ が of の /ə/ に連結；of は弱形 /əv/"
+          ]
+        },
+        {
+          "en": "The barrier is inhibiting mob movement around our base right now.",
+          "ja": "この障壁は現在、私たちのベースの周りのモブの動きを抑制しています。",
+          "ipa": "/ðə ˈbæɹiɚ ɪz ɪnˈhɪbɪtɪŋ moʊb ˈmuːvmənt əˈɹaʊnd ˈaʊɚ ˈbeɪs ˈɹaɪt ˈnaʊ/",
+          "kana": "ザ バリアー イズ イニヒビティング モウブ ムーブメント アラウンド アワー ベイス ライト ナウ",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/；barrier は /ˈbæɹiɚ/ で語末が r-colored schwa /ɚ/",
+            "inhibiting の語末 /ŋ/ (velar nasal) が mob の /m/ (nasal) に続く",
+            "around の語末 /d/ が our の /aʊɚ/ に連結；our は弱形"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was inhibiting",
+      "ipa": "/wəz ɪnˈhɪbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Water was inhibiting the fire while I searched for a bucket.",
+          "ja": "バケットを探している間、水が火を抑制していました。",
+          "ipa": "/ˈwɔɾɚ wəz ɪnˈhɪbɪtɪŋ ðə ˈfaɪɚ waɪl aɪ ˈsɝtʃt fɚ ə ˈbʌkɪt/",
+          "kana": "ウォーラー ワズ イニヒビティング ザ ファイアー ワイル アイ サーチド ファー ア バケット",
+          "linking": [
+            "water: /ˈwɔtɚ/ で /t/ が母音に挟まれているため flap化して /ɾ/ になり /ˈwɔɾɚ/。was は弱形 /wəz/",
+            "inhibiting の語末 /ŋ/ (velar nasal) が the の /ð/ に続く；the は弱形 /ðə/",
+            "for は弱形 /fɚ/；a は弱形 /ə/ で語は隣接"
+          ]
+        },
+        {
+          "en": "The wall was inhibiting mob spawning when the raid began.",
+          "ja": "襲撃が始まったとき、壁はモブのスポーンを抑制していました。",
+          "ipa": "/ðə ˈwɔl wəz ɪnˈhɪbɪtɪŋ moʊb ˈspɔnɪŋ wɛn ðə ˈɹeɪd bɪˈɡæn/",
+          "kana": "ザ ウォール ワズ イニヒビティング モウブ スポーニング ウェン ザ レイド ビガン",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/；wall は /l/ で終わり was の /w/ に続く",
+            "inhibiting の語末 /ŋ/ (velar nasal) が mob の /m/ (nasal) に続く",
+            "when の語末 /n/ が the の /ð/ に続く；the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been inhibiting",
+      "ipa": "/həd bɪn ɪnˈhɪbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The torches had been inhibiting mob spawning for hours before the server crashed.",
+          "ja": "サーバーがクラッシュする前、松明は何時間もモブのスポーンを抑制していました。",
+          "ipa": "/ðə ˈtɔɹtʃɪz həd bɪn ɪnˈhɪbɪtɪŋ moʊb ˈspɔnɪŋ fɚ ˈaʊɹz bɪˈfɔɹ ðə ˈsɝvɚ ˈkɹæʃt/",
+          "kana": "ザ トーチズ ハド ビン イニヒビティング モウブ スポーニング ファー アワーズ ビフォア ザ サーバー クラッシュド",
+          "linking": [
+            "had は弱形 /həd/；been は弱形 /bɪn/；been の語末 /n/ が inhibiting の /ɪ/ に連結",
+            "inhibiting の語末 /ŋ/ (velar nasal) が mob の /m/ (nasal) に続く",
+            "for は弱形 /fɚ/；hours の /aʊɹz/ に続く"
+          ]
+        },
+        {
+          "en": "Water had been inhibiting the lava flow throughout the entire mining operation.",
+          "ja": "採掘作業全体を通じて、水は溶岩の流れを抑制していました。",
+          "ipa": "/ˈwɔɾɚ həd bɪn ɪnˈhɪbɪtɪŋ ðə ˈlɑvə ˈfloʊ θɹuˈaʊt ðə ɪnˈtaɪɚ ˈmaɪnɪŋ ˌɑpəˈɹeɪʃən/",
+          "kana": "ウォーラー ハド ビン イニヒビティング ザ ラーバ フロウ スルーアウト ザ インタイアー マイニング オペレーション",
+          "linking": [
+            "water: /ˈwɔtɚ/ で /t/ が母音に挟まれているため flap化して /ɾ/ になり /ˈwɔɾɚ/。had は弱形 /həd/",
+            "been は弱形 /bɪn/；been の語末 /n/ が inhibiting の /ɪ/ に連結",
+            "inhibiting の語末 /ŋ/ (velar nasal) が the の /ð/ に続く；the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has inhibited",
+      "ipa": "/həz ɪnˈhɪbɪtəd/",
+      "examples": [
+        {
+          "en": "I have inhibited mob spawning with strategic light placement in my base.",
+          "ja": "戦略的な光の配置で、私のベースにおけるモブのスポーンを抑制しました。",
+          "ipa": "/aɪ həv ɪnˈhɪbɪtəd moʊb ˈspɔnɪŋ wɪð stɹəˈtidʒɪk ˈlaɪt ˈpleɪsmənt ɪn maɪ ˈbeɪs/",
+          "kana": "アイ ハヴ イニヒビテッド モウブ スポーニング ウィス ストラティジック ライティング プレイスメント イン マイ ベイス",
+          "linking": [
+            "have は弱形 /həv/；inhibited の /ɪ/ に続く",
+            "light の語末子音 /t/ が placement の /p/ に続く（子音+子音で未開放）[ˈlaɪt̚ ˈpleɪsmənt] ライット プレイスメント",
+            "in の /n/ が my の /m/ に続く（子音+子音）イン マイ"
+          ]
+        },
+        {
+          "en": "Barriers have inhibited countless hostile mobs from destroying our village defenses.",
+          "ja": "障壁は村の防御を破壊しようとする無数の敵対的なモブを抑制してきました。",
+          "ipa": "/ˈbæɹiɚz həv ɪnˈhɪbɪtəd ˈkaʊntləs ˈhɑstəl moʊbz frəm dɪsˈtɹɔɪɪŋ ˈaʊɹ ˈvɪlɪdʒ dɪˈfɛnsɪz/",
+          "kana": "バリアーズ ハヴ イニヒビテッド カウントレス ホスタル モウブズ フラム ディストロイング アワー ビレッジ ディフェンシーズ",
+          "linking": [
+            "have は弱形 /həv/；inhibited の /ɪ/ に続く",
+            "countless の語末 /s/ が hostile の /h/ に続く（子音+子音）カウントレス ホスタル",
+            "from は弱形 /frəm/ に弱化；destroying の /d/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had inhibited",
+      "ipa": "/həd ɪnˈhɪbɪtəd/",
+      "examples": [
+        {
+          "en": "The protective walls had inhibited all mob movement when the massive raid finally arrived at our base.",
+          "ja": "大規模な襲撃が最終的に私たちのベースに到着したとき、防壁はすべてのモブの動きを抑制していました。",
+          "ipa": "/ðə prəˈtɛktɪv ˈwɔlz həd ɪnˈhɪbɪtəd ɔl moʊb ˈmuːvmənt wɛn ðə məˈsɪv ˈɹeɪd ˈfaɪnəli əˈɹaɪvd æt ˈaʊɹ ˈbeɪs/",
+          "kana": "ザ プロテクティヴ ウォルズ ハド イニヒビテッド オール モウブ ムーブメント ウェン ザ マッシヴ レイド ファイナリー アライヴド アッ アワー ベイス",
+          "linking": [
+            "had は弱形 /həd/；the は弱形 /ðə/",
+            "movement の語末子音 /t/ が when の /w/ に続く（子音+子音で未開放）[ˈmuːvmənt̚ wɛn] ムーブメント ウェン",
+            "at の語末 /t/ が our の /ˈaʊɹ/ に続く（未開放）[æt̚ ˈaʊɹ] アッ アワー"
+          ]
+        },
+        {
+          "en": "Fire resistance potions had inhibited all the lava damage before I realized the potion effect was wearing off.",
+          "ja": "耐火ポーションの効果が切れていることに気づく前に、耐火ポーション効果はすべての溶岩ダメージを抑制していました。",
+          "ipa": "/ˈfaɪɚ rɪˈzɪstəns ˈpoʊʃənz həd ɪnˈhɪbɪtəd ɔl ðə ˈlɑvə ˈdæmɪdʒ bɪˈfɔɹ aɪ ˈɹilˌaɪzd ðə ˈpoʊʃən ɪˈfɛkt wəz ˈwɛɹɪŋ ˈɔf/",
+          "kana": "ファイアー リジスタンス ポーションズ ハド イニヒビテッド オール ザ ラーバ ダメッジ ビフォア アイ リアライズド ザ ポーション イフェクト ワズ ウェアリング オフ",
+          "linking": [
+            "had は弱形 /həd/；potions の語末 /z/ が had の /h/ に続く（子音+子音）ポーションズ ハド",
+            "the は弱形 /ðə/；damage の /d/ に続く",
+            "the は弱形 /ðə/；potion の /p/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been inhibiting",
+      "ipa": "/həz bɪn ɪnˈhɪbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The torch array has been inhibiting dangerous mob spawning since the farm was first built.",
+          "ja": "松明の配列は、農場が最初に建設されて以来、危険なモブのスポーンを抑制し続けています。",
+          "ipa": "/ðə ˈtɔɹtʃ əˈɹeɪ həz bɪn ɪnˈhɪbɪtɪŋ ˈdeɪndʒərəs moʊb ˈspɔnɪŋ sɪns ðə ˈfɑɹm wəz ˈfɝst ˈbɪlt/",
+          "kana": "ザ トーチ アレイ ハズ ビン イニヒビティング デンジャラス モウブ スポーニング シンス ザ ファーム ワズ ファースト ビルト",
+          "linking": [
+            "has は弱形 /həz/；been は弱形 /bɪn/；been の語末 /n/ が inhibiting の /ɪ/ に連結 [bɪn ɪnˈhɪbɪtɪŋ] ビン イニヒビティング",
+            "inhibiting の語末 /ŋ/ (velar nasal) が dangerous の /d/ に続く（子音+子音）",
+            "since は /sɪns/；the は弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "Water has been inhibiting lava flow in my redstone farm for several days without any problems.",
+          "ja": "水は、数日間、問題なく私のレッドストーン農場の溶岩流を抑制し続けています。",
+          "ipa": "/ˈwɔɾɚ həz bɪn ɪnˈhɪbɪtɪŋ ˈlɑvə ˈfloʊ ɪn maɪ ˈɹɛdˌstoʊn ˈfɑɹm fɚ ˈsɛvɚəl ˈdeɪz wɪðˈaʊt ˈɛni ˈpɹɑbləmz/",
+          "kana": "ウォーラー ハズ ビン イニヒビティング ラーバ フロウ イン マイ レッドストーン ファーム ファー セヴラル デイズ ウィスアウト エニー プロブレムズ",
+          "linking": [
+            "water: /ˈwɔtɚ/ で /t/ が母音に挟まれているため flap化して /ɾ/ になり /ˈwɔɾɚ/。has は弱形 /həz/",
+            "been は弱形 /bɪn/；been の語末 /n/ が inhibiting の /ɪ/ に連結 [bɪn ɪnˈhɪbɪtɪŋ] ビン イニヒビティング",
+            "for は弱形 /fɚ/；several の /s/ に続く"
+          ]
+        }
+      ]
+    }
+  ]
+}
