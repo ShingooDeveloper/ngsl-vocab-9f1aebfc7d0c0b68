@@ -378,6 +378,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will collaborate",
+      "ipa": "/wɪl koʊˈlæbəreɪt/",
+      "examples": [
+        {
+          "en": "We will collaborate with veteran builders on that megabuild next week.",
+          "ja": "私たちは来週、ベテランビルダーたちとそのメガビルドで協力します。",
+          "ipa": "/wi wɪl koʊˈlæbəreɪt wɪð ˈvɛtɚænz ˈbɪldɚz ɑn ðæt ˈmeɡə bɪld ˈnɛkst wik/",
+          "kana": "ウィー ウィル コウラボレイト ウィス ベテランズ ビルダーズ オン ザット メガ ビルド ネクスト ウィーク",
+          "linking": [
+            "will collaborate で will が弱形 /wɪl/ に弱化し、collaborate の初頭子音 /k/ に続く（子音+子音の未開放）",
+            "with veteran で with は弱形 /wɪð/「ウィス」に弱化",
+            "on that で on が /ɑn/、that の /t/ が未開放停止 [ðæt̚]「ザット」",
+            "megabuild next で megabuild の語末子音 /d/ が next の初頭 /n/ に続く（子音+子音）"
+          ]
+        },
+        {
+          "en": "They'll collaborate with the redstone team to design the new spawning system.",
+          "ja": "彼らはレッドストーンチームと協力して、新しいスポーンシステムを設計します。",
+          "ipa": "/ðeɪ əl koʊˈlæbəreɪt wɪð ðə ˈɹɛdstoʊn tim tu dɪˈzaɪn ðə ˈnu ˈspɔnɪŋ ˈsɪstəm/",
+          "kana": "ザイ アル コウラボレイト ウィス ザ レッドストウン ティーム トゥー ディザイン ザ ニュー スポーニング システム",
+          "linking": [
+            "They'll collaborate で they'll が /ðeɪəl/ で collaborate の初頭 /k/ に続く（子音+子音の未開放）",
+            "with the で with の弱形 /wɪð/「ウィス」、the の弱形 /ðə/「ザ」",
+            "team to で team の語末 /m/ が to に続き、to は弱形 /tə/「トゥー」に弱化",
+            "the new で the は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be collaborating",
+      "ipa": "/wɪl bi ˌkoʊˈlæbəreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The team will be collaborating on the sky fortress while others gather materials.",
+          "ja": "チームがスカイフォートレスで協力している間、他の人たちは材料を集めます。",
+          "ipa": "/ðə tim wɪl bi ˌkoʊˈlæbəreɪtɪŋ ɑn ðə ˈskaɪ ˈfɔɹtɪs waɪl ˈʌðɚz ˈɡæðɚ məˈtɪɹiəlz/",
+          "kana": "ザ ティーム ウィル ビー コウラボレイティング オン ザ スカイ フォーティス ワイル アザーズ ゲザー マテリアルズ",
+          "linking": [
+            "will be collaborating で will が弱形 /wəl/、be は弱形 /bi/「ビー」に弱化し、collaborating の初頭 /k/ に続く（子音+子音）",
+            "be collaborating on で collaborating の語末 /ŋ/ が on の初頭 /ɑ/ に連結 [ˌkoʊˈlæbəreɪtɪŋ ɑn]「コウラボレイティング オン」",
+            "the sky で the は弱形 /ðə/「ザ」に弱化",
+            "while others で while の語末子音 /l/ が others の初頭 /ʌ/ に連結 [waɪl ˈʌðɚz]「ワイル アザーズ」"
+          ]
+        },
+        {
+          "en": "You'll be collaborating closely with players from other servers during the event.",
+          "ja": "イベント中に、あなたは他のサーバーのプレイヤーと密接に協力することになります。",
+          "ipa": "/ju əl bi ˌkoʊˈlæbəreɪtɪŋ ˈkloʊsli wɪð ˈpleɪɚz frəm ˈʌðɚ ˈsɚvɚz ˈdʊɹɪŋ ðə ɪˈvɛnt/",
+          "kana": "ユー アル ビー コウラボレイティング クロウズリー ウィス プレイヤーズ フラム アザー サーヴァーズ ドゥーリング ザ イベント",
+          "linking": [
+            "You'll be で you'll が /juəl/、be は弱形 /bi/「ビー」に弱化",
+            "with players で with は弱形 /wɪð/「ウィス」に弱化",
+            "from other で from は弱形 /frəm/「フラム」が other の初頭 /ʌ/ に連結 [frəm ˈʌðɚ]「フラム アザー」",
+            "during the で during の語末 /ŋ/ が the の初頭 /ð/ に続く（子音+子音）。the は弱形 /ðə/「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have collaborated",
+      "ipa": "/wɪl həv koʊˈlæbəreɪtəd/",
+      "examples": [
+        {
+          "en": "By next month, we will have collaborated on three major projects.",
+          "ja": "来月までに、私たちは3つの主要プロジェクトで協力しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ wi wɪl həv koʊˈlæbəreɪtəd ɑn θɹi ˈmeɪdʒɚ ˈprɑdʒɛkts/",
+          "kana": "バイ ネクスト マンス ウィー ウィル ハヴ コウラボレイテッド オン スリー メイジャー プロジェクツ",
+          "linking": [
+            "will have collaborated で will が弱形 /wəl/、have は弱形 /həv/「ハヴ」に弱化して collaborated に連結 [wɪl həv koʊˈlæbəreɪtəd]「ウィル ハヴ コウラボレイテッド」",
+            "have collaborated on で collaborated の語末子音 /d/ が on の初頭 /ɑ/ に連結「コウラボレイテッド オン」",
+            "on three で on が /ɑn/、three の初頭 /θ/ に続く（子音+子音）",
+            "major projects で major の語末が projects の初頭に続く（子音+子音）"
+          ]
+        },
+        {
+          "en": "She will have collaborated with builders from every faction by the end of the season.",
+          "ja": "シーズン終了までに、彼女はあらゆる派閥のビルダーと協力しているでしょう。",
+          "ipa": "/ʃi wɪl həv koʊˈlæbəreɪtəd wɪð ˈbɪldɚz frəm ˈɛvɹi ˈfækʃən baɪ ðə ˈɛnd əv ðə ˈsizən/",
+          "kana": "シー ウィル ハヴ コウラボレイテッド ウィス ビルダーズ フラム エヴリー ファクション バイ ザ エンド アヴ ザ シーズン",
+          "linking": [
+            "will have で will が弱形、have は弱形 /həv/「ハヴ」に弱化",
+            "have collaborated with で collaborated の語末 /d/ が with の初頭 /w/ に続き未開放 [koʊˈlæbəreɪtəd̚ wɪð]「コウラボレイテッド ウィス」。with は弱形 /wɪð/「ウィス」",
+            "from every で from は弱形 /frəm/「フラム」が every の初頭 /ɛ/ に連結「フラム エヴリー」",
+            "end of で end の語末 /d/ が of の初頭 /ə/ に連結し、of は弱形 /əv/「アヴ」に弱化"
+          ]
+        }
+      ]
     }
   ]
 }
