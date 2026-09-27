@@ -292,6 +292,96 @@
           "kana": "シー ハド ビン リファイニング ザ ファーム ディザイン フォア ウィークス ビフォア ウィ ソー ザ ファイナル リザルト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has refined",
+      "ipa": "/həz rɪˈfaɪnd/",
+      "examples": [
+        {
+          "en": "Our smelter has refined tons of ore to power the entire base.",
+          "ja": "私たちのスメルターはベース全体を動かすために膨大な量の鉱石を精製しました。",
+          "ipa": "/ˈaʊɚ ˈsmɛltɚ həz rɪˈfaɪnd ˈtʌnz əv ɔɹ tə ˈpaʊɚ ðə ɪnˈtaɪɚ beɪs/",
+          "linking": [
+            "has は助動詞で弱形 /həz/ ハズ。",
+            "refined の語末 /d/ が ore の /ɔ/ で未開放し、ore の末尾 /ɹ/ が to の /ə/ に連結 [d̚ ɔɹtə] ッ オア タ。",
+            "entire の語末 /ɚ/ が base の /b/ に続く [ɚ b] エア ベイス。"
+          ],
+          "kana": "アワー スメルター ハズ リファインド トンズ アヴ オア タ パウアー ザ インタイアー ベイス"
+        },
+        {
+          "en": "They have refined their mining operation to maximize efficiency.",
+          "ja": "彼らは効率を最大化するために採掘作業を洗練させました。",
+          "ipa": "/ðeɪ həv rɪˈfaɪnd ðɛɹ ˈmaɪnɪŋ ˌɑpəˈɹeɪʃən tə ˈmæksəˌmaɪz ɪˈfɪʃənsi/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ ハヴ、refined の /r/ に続く（子音+子音で未開放）[həv rɪˈfaɪnd] ハヴ リファインド。",
+            "refined の語末 /d/ が their の /ð/ で未開放 [d̚ ðɛɹ] ッ ゼア。",
+            "to は前置詞で弱形 /tə/ タ、maximize の /m/ に続く（子音+子音）。"
+          ],
+          "kana": "ゼイ ハヴ リファインド ゼア マイニング オペレイション タ マクシマイズ イフィシェンシー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had refined",
+      "ipa": "/həd rɪˈfaɪnd/",
+      "examples": [
+        {
+          "en": "Once they had refined the blueprint, construction proceeded without delays.",
+          "ja": "ひとたび設計図を洗練させたら、建設は遅延なく進みました。",
+          "ipa": "/wʌns ðeɪ həd rɪˈfaɪnd ðə ˈbluːˌprɪnt kənˈstrʌkʃən prəˈsidəd wɪðˈaʊt dɪˈleɪz/",
+          "linking": [
+            "had は弱形 /həd/ ハド、refined の /r/ に続く（子音+子音で未開放）[həd rɪˈfaɪnd] ハド リファインド。",
+            "refined の語末 /d/ が the の /ð/ で未開放 [d̚ ðə] ッ ザ。",
+            "construction の語末 /n/ が proceeded の /p/ で未開放し、proceeded の語末 /d/ が without の /w/ に続く [n̚ prəˈsidəd wɪðˈaʊt] ン プロシーディッド ウィザウト。"
+          ],
+          "kana": "ワンス ゼイ ハド リファインド ザ ブループリント カンストラクション プロシーディッド ウィザウト ディレイズ"
+        },
+        {
+          "en": "Before the wipe, I had refined all the diamonds for my final set of gear.",
+          "ja": "ワイプ前に、最後の装備セット用にすべてのダイヤモンドを精製していました。",
+          "ipa": "/bɪˈfɔɹ ðə ˈwaɪp aɪ həd rɪˈfaɪnd ɔl ðə ˈdaɪəməndz fɔɹ maɪ ˈfaɪnəl sɛt əv ɡɪɹ/",
+          "linking": [
+            "had は弱形 /həd/ ハド、refined の /r/ に続く [həd rɪˈfaɪnd] ハド リファインド。",
+            "refined の語末 /d/ が all の /ɔ/ に連結し、all の語末 /l/ が the の /ð/ で未開放 [d ɔl̚ ðə] ディ オール ザ。",
+            "set の語末 /t/ が of の /ə/ に連結 [sɛt əv] セット アヴ。"
+          ],
+          "kana": "ビフォア ザ ワイプ アイ ハド リファインド オール ザ ダイモンズ フォア マイ ファイナル セット アヴ ギア"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been refining",
+      "ipa": "/həz bɪn rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We have been refining redstone circuits since the server reset yesterday.",
+          "ja": "昨日のサーバーリセット以来、レッドストーン回路を洗練させています。",
+          "ipa": "/wi həv bɪn rɪˈfaɪnɪŋ ˈrɛdˌstoʊn ˈsɝkɪts sɪns ðə ˈsɝvər rɪˈsɛt ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ ハヴ、been の /b/ に続く（子音+子音で未開放）[həv bɪn] ハヴ ビン。",
+            "been は弱形 /bɪn/ ビン、refining の /r/ に続く（子音+子音で未開放）[bɪn̚ rɪˈfaɪnɪŋ] ビン リファイニング。",
+            "reset の語末 /t/ が yesterday の /j/ で未開放 [rɪˈsɛt̚ ˈjɛstɚˌdeɪ] リセット イェスタデイ。"
+          ],
+          "kana": "ウィ ハヴ ビン リファイニング レッドストーン サーキッツ シンス ザ サーバー リセット イェスタデイ"
+        },
+        {
+          "en": "The furnace has been refining ore for several hours and we still need more ingots.",
+          "ja": "炉は数時間鉱石を精製しており、まださらに多くのインゴットが必要です。",
+          "ipa": "/ðə ˈfɝnəs həz bɪn rɪˈfaɪnɪŋ ɔɹ fɔɹ ˈsɛvɚəl ˈaʊɚz ənd wi stɪl nid mɔɹ ˈɪŋɡəts/",
+          "linking": [
+            "has は助動詞で弱形 /həz/ ハズ、been の /b/ に続く（子音+子音で未開放）[həz bɪn] ハズ ビン。",
+            "been は弱形 /bɪn/ ビン、refining の /r/ に続く [bɪn̚ rɪˈfaɪnɪŋ] ビン リファイニング。",
+            "ore の語末 /ɹ/ が for の /fɔ/ に連結 [ɔɹ fɔɹ] オア フォア。"
+          ],
+          "kana": "ザ ファーネス ハズ ビン リファイニング オア フォア セヴァルアルズ アン ウィ スティル ニード モア イングッツ"
+        }
+      ]
     }
   ]
 }

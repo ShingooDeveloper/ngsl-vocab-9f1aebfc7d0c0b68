@@ -292,6 +292,101 @@
           "kana": "シー ハド ビン エンリッチング ハー ビルドズ ウィズ レア マテリアルズ シー コレクティッド オーヴァー マンスズ アヴ エクスプローリング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has enriched",
+      "ipa": "/hæz ɪnˈrɪtʃt/",
+      "examples": [
+        {
+          "en": "I have enriched my base with creative builds and decorative elements over several weeks.",
+          "ja": "数週間かけてクリエイティブなビルと装飾的な要素でベースを豊かにしました。",
+          "ipa": "/aɪ həv ɪnˈrɪtʃt maɪ ˈbeɪs wɪð kriˈeɪtɪv ˈbɪldz ənd ˌdɛkəˈreɪtɪv ˈɛləmənts ˈoʊvɚ ˈsɛvərəl ˈwiks/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ ハヴ",
+            "enriched my - /t/ が /m/ に続く（子音+子音、未開放）",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "アイ ハヴ エンリッチト マイ ベース ウィズ クリエイティヴ ビルドズ アンド デコレイティヴ エレメンツ オーヴァー セヴァラル ウィークス"
+        },
+        {
+          "en": "The garden has enriched our survival experience with fresh crops and natural beauty.",
+          "ja": "その庭はサバイバル体験を新鮮な農作物と自然美で豊かにしました。",
+          "ipa": "/ðə ˈɡɑrdn həz ɪnˈrɪtʃt ˈaʊɚ sərˈvaɪvəl ɪkˈspɪriəns wɪð frɛʃ ˈkrɑps ənd ˈnætʃərəl ˈbjuti/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "has は助動詞で弱形 /həz/ ハズ",
+            "enriched our - /t/ が /a/ に連結 [ɪnˈrɪtʃt ˈaʊɚ] エンリッチト アワー",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "ザ ガーデン ハズ エンリッチト アワー サーヴァイバル エクスピアリエンス ウィズ フレッシュ クロップス アンド ナチュラル ビューティ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had enriched",
+      "ipa": "/hæd ɪnˈrɪtʃt/",
+      "examples": [
+        {
+          "en": "Before the server reset, we had enriched the spawn area with amazing themed decorations and landmarks.",
+          "ja": "サーバーがリセットされる前に、私たちはスポーンエリアを素晴らしいテーマのある装飾とランドマークで豊かにしていました。",
+          "ipa": "/bɪˈfɔr ðə ˈsɜrvər ˈrɛsɛt wi həd ɪnˈrɪtʃt ðə ˈspoʊn ˈɛriə wɪð əˈmeɪzɪŋ ˈθiːmd ˌdɛkəˈreɪʃənz ənd ˈlændmɑrks/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "had は助動詞で弱形 /həd/ ハド",
+            "enriched the - /t/ が /ðə/ に続く（子音+子音、未開放）、the は弱形 /ðə/ ザ",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "ビフォア ザ サーバー リセット ウィー ハド エンリッチト ザ スポウン エリア ウィズ アメイジング シームド デコレイションズ アンド ランドマークス"
+        },
+        {
+          "en": "She had enriched her builds with rare materials she collected during months of cave exploring.",
+          "ja": "彼女は数ヶ月間の洞窟探索中に集めたレアな材料でビルを豊かにしていました。",
+          "ipa": "/ʃi həd ɪnˈrɪtʃt hɚ ˈbɪldz wɪð ˈrɛr məˈtɪriəlz ʃi kəˈlɛktəd ˈdʊrɪŋ ˈmʌnθz əv ˈkeɪv ɪkˈsploʊrɪŋ/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド",
+            "enriched her - /t/ が /h/ に続く（子音+子音）",
+            "of は弱形 /əv/ アヴ"
+          ],
+          "kana": "シー ハド エンリッチト ハー ビルドズ ウィズ レア マテリアルズ シー コレクティッド ジューリング マンスズ アヴ ケイヴ エクスプローリング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been enriching",
+      "ipa": "/hæz bɪn ɪnˈrɪtʃɪŋ/",
+      "examples": [
+        {
+          "en": "I have been enriching my Minecraft world with new architectural styles and innovative building techniques.",
+          "ja": "新しい建築スタイルと革新的な建築技術でマインクラフトの世界を豊かにし続けています。",
+          "ipa": "/aɪ həv bɪn ɪnˈrɪtʃɪŋ maɪ ˈmaɪnkræft ˈwɜrld wɪð nu ɑrˈkɪtɛktʃərəl ˈstaɪlz ənd ɪnəˈvɛtɪv ˈbɪldɪŋ tɛkˈniks/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ ハヴ",
+            "been は助動詞で弱形 /bɪn/ ビン",
+            "enriching my - /ŋ/ が /m/ に続く（子音+子音）",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "アイ ハヴ ビン エンリッチング マイ マインクラフト ワールド ウィズ ニュー アーキテクチャーラル スタイルズ アンド イノベイティヴ ビルディング テクニークス"
+        },
+        {
+          "en": "The server has been enriching the community experience through daily events and collaborative projects.",
+          "ja": "そのサーバーは日々のイベントと協働プロジェクトを通じてコミュニティ体験を豊かにし続けています。",
+          "ipa": "/ðə ˈsɜrvər həz bɪn ɪnˈrɪtʃɪŋ ðə kəˈmjuːnɪti ɪkˈspɪriəns θru ˈdeɪli ɪˈvɛnts ənd ˌkoʊlæbərətɪv ˈprɑdʒɛkts/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "has は助動詞で弱形 /həz/ ハズ",
+            "been は助動詞で弱形 /bɪn/ ビン",
+            "enriching the - /ŋ/ が /ðə/ に続く（子音+子音）、the は弱形 /ðə/ ザ",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "ザ サーバー ハズ ビン エンリッチング ザ コミューニティ エクスピアリエンス スルー デイリー イヴェンツ アンド コラボレイティヴ プロジェクツ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
