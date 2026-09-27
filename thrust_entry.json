@@ -326,6 +326,96 @@
           "kana": "ザ ビルダーズ ハド ビン スラスティング ゼア トゥールズ イントゥ ザ ストウン フォア デイズ ウィザウト レスト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has thrust",
+      "ipa": "/həz ˈθɹʌst/",
+      "examples": [
+        {
+          "en": "The warrior has thrust his sword deep into the dragon's armor.",
+          "ja": "戦士はドラゴンの鎧に剣を深く突き刺した。",
+          "ipa": "/ðə ˈwɔɹ.i.ɚ həz ˈθɹʌst hɪz ˈsɔɹd ˈdip ˈɪn.tuː ðə ˈdɹæ.ɡənz ˈɑɹ.mɚ/",
+          "linking": [
+            "「has thrust」—has は弱形 /həz/、thrust の /θ/ に連結 [həz ˈθɹʌst] ハズ スラスト",
+            "「thrust his」—thrust の語末 /t/ が his の初頭 /h/ に続く",
+            "「the dragon's」—the は弱形 /ðə/、dragon's の /d/ に連結 [ðə ˈdɹæ.ɡənz] ザ ドラゴンズ"
+          ],
+          "kana": "ザ ウォーリアー ハズ スラスト ヒズ ソード ディープ イントゥ ザ ドラゴンズ アーマー"
+        },
+        {
+          "en": "I have thrust my pickaxe through countless stone blocks this entire session.",
+          "ja": "このセッション全体で、無数の石ブロックを通してツルハシを突き刺した。",
+          "ipa": "/aɪ həv ˈθɹʌst maɪ ˈpɪk.æks θɹuː ˈkaʊnt.ləs ˈstoʊn ˈblɑks ðɪs ənˈtaɪɚ ˈsɛʃ.ən/",
+          "linking": [
+            "「have thrust」—have は弱形 /həv/、thrust の /θ/ に連結 [həv ˈθɹʌst] ハヴ スラスト",
+            "「through countless」—through の語末 /uː/ が countless の /k/ に続く [θɹuː ˈkaʊnt.ləs] スルー カウントレス",
+            "「stone blocks」—stone の語末 /n/ が blocks の /b/ に連結 [ˈstoʊn ˈblɑks] ストウン ブラックス"
+          ],
+          "kana": "アイ ハヴ スラスト マイ ピックエックス スルー カウントレス ストウン ブラックス ディス エンタイアー セッション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had thrust",
+      "ipa": "/həd ˈθɹʌst/",
+      "examples": [
+        {
+          "en": "The dragon had thrust several attacks at the castle before I built stronger defenses.",
+          "ja": "より強い防御を構築する前に、ドラゴンは城に対していくつかの攻撃を繰り出していた。",
+          "ipa": "/ðə ˈdɹæ.ɡən həd ˈθɹʌst ˈsɛv.ɚ.əl əˈtæks æt ðə ˈkæs.əl bɪˈfɔr aɪ bɪlt ˈstɹɔŋ.ɚ dɪˈfɛn.səz/",
+          "linking": [
+            "「had thrust」—had は弱形 /həd/、thrust の /θ/ に連結 [həd ˈθɹʌst] ハド スラスト",
+            "「thrust several」—thrust の語末 /t/ が several の /s/ に続く（子音+子音）",
+            "「attacks at」—attacks の語末 /s/ が at の /æ/ に続く [əˈtæks æt] アタックス アット"
+          ],
+          "kana": "ザ ドラゴン ハド スラスト セベラル アタックス アット ザ キャッスル ビフォア アイ ビルト ストロンガー ディフェンシズ"
+        },
+        {
+          "en": "By the time we arrived, they had thrust their weapons through the portal defenses.",
+          "ja": "私たちが到着する頃には、彼らはポータルの防御を通して武器を突き刺していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðeɪ həd ˈθɹʌst ðɛɹ ˈwɛp.ənz θɹuː ðə ˈpɔɹ.təl dɪˈfɛn.səz/",
+          "linking": [
+            "「had thrust」—had は弱形 /həd/、thrust の /θ/ に連結 [həd ˈθɹʌst] ハド スラスト",
+            "「thrust their」—thrust の語末 /t/ が their の初頭 /ð/ に続く [ˈθɹʌst ðɛɹ] スラスト ゼア",
+            "「through the」—through の語末 /uː/ が the の /ðə/ に続く [θɹuː ðə] スルー ザ"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド ゼイ ハド スラスト ゼア ウェポンズ スルー ザ ポータル ディフェンシズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been thrusting",
+      "ipa": "/həz bɪn ˈθɹʌs.tɪŋ/",
+      "examples": [
+        {
+          "en": "The miner has been thrusting his pickaxe into the ground all morning without stopping.",
+          "ja": "採掘者は朝中ツルハシを地面に突き刺し続けている。",
+          "ipa": "/ðə ˈmaɪ.nɚ həz bɪn ˈθɹʌs.tɪŋ hɪz ˈpɪk.æks ˈɪn.tuː ðə ˈɡraʊnd ɔl ˈmɔɹ.nɪŋ wɪðˈaʊt ˈstɑp.ɪŋ/",
+          "linking": [
+            "「has been」—has は弱形 /həz/、been は弱形 /bɪn/ に連結 [həz bɪn] ハズ ビン",
+            "「been thrusting」—been の /n/ が thrusting の /θ/ に連結 [bɪn ˈθɹʌs.tɪŋ] ビン スラスティング",
+            "「into the」—into の to は弱形 /tə/、the も弱形 /ðə/ [ˈɪn.tuː ðə] イントゥ ザ"
+          ],
+          "kana": "ザ マイナー ハズ ビン スラスティング ヒズ ピックエックス イントゥ ザ グラウンド オール モーニング ウィザウト スタッピング"
+        },
+        {
+          "en": "We have been thrusting our swords at the wither boss for the past twenty minutes.",
+          "ja": "過去20分間、ウィザーボスに対して剣を突きつけ続けている。",
+          "ipa": "/wi həv bɪn ˈθɹʌs.tɪŋ ɑɹ ˈsɔɹdz æt ðə ˈwɪð.ɚ ˈbɔs fɔr ðə ˈpæst ˈtwen.ti ˈmɪn.ɪts/",
+          "linking": [
+            "「have been」—have は弱形 /həv/、been は弱形 /bɪn/ に連結 [həv bɪn] ハヴ ビン",
+            "「been thrusting」—been の /n/ が thrusting の /θ/ に連結 [bɪn ˈθɹʌs.tɪŋ] ビン スラスティング",
+            "「at the」—at の語末 /t/ は未開放で the に続く [ætðə] アッザ"
+          ],
+          "kana": "ウィー ハヴ ビン スラスティング アワー ソードズ アッザ ウィザー ボース フォア ザ パスト トゥウェンティー ミニッツ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
