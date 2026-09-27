@@ -405,6 +405,96 @@
           "kana": "ディス インチャントメント ハズ ビン コンプリメンティング アワー マイニング エフォーツ フォー メニー アワーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will complement",
+      "ipa": "/wɪl ˈkɑmpləment/",
+      "examples": [
+        {
+          "en": "I'll complement my armor with the best enchantments available.",
+          "ja": "私は利用可能な最高のエンチャントで私の防具を補うでしょう。",
+          "ipa": "/aɪl ˈkɑmpləment maɪ ˈɑrmɚ wɪð ðə ˈbɛst ɪnˈtʃɑnt.mənt̪s əˈveɪ.lə.bəl/",
+          "linking": [
+            "「I'll complement」—主語 I と will の縮約 /aɪl/、語末 /l/ が complement の /k/ に先行して未開放 [aɪl̚ ˈkɑmpləment]「アイル コンプリメント」",
+            "「with the」—機能語 the は弱形 /ðə/ に弱化「ザ」",
+            "「best enchantments」—語末子音 /t/ が enchantments の /ɪ/ に連結 [ˈbɛst ɪnˈtʃɑnt]「ベスト インチャントメンツ」"
+          ],
+          "kana": "アイル コンプリメント マイ アーマー ウィズ ザ ベスト インチャントメンツ アヴェイラボル"
+        },
+        {
+          "en": "The new diamond pickaxe will complement your mining speed perfectly.",
+          "ja": "新しいダイヤモンドのつるはしはあなたの採掘スピードを完全に補うでしょう。",
+          "ipa": "/ðə ˈnu ˈdaɪ.əmɑnd ˈpɪk.æks wɪl ˈkɑmpləment jɚ ˈmaɪn.ɪŋ ˈspid ˈpɚ.fɪk.tli/",
+          "linking": [
+            "「the new」—冠詞 the は弱形 /ðə/ に弱化「ザ」",
+            "「pickaxe will」—語末子音 /s/ が will の /w/ に先行し /s/ は未開放 [ˈpɪkæks̚ wɪl]「ピッカックス ウィル」",
+            "「mining speed」—語末 /ŋ/ が speed の /s/ に先行して未開放 [ˈmaɪnɪŋ̚ ˈspid]「マイニング スピード」"
+          ],
+          "kana": "ザ ニュー ダイアモンド ピッカックス ウィル コンプリメント ユア マイニング スピード パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be complementing",
+      "ipa": "/wɪl bi ˈkɑmpləmən.tɪŋ/",
+      "examples": [
+        {
+          "en": "While you're exploring, your armor will be complementing your combat skills.",
+          "ja": "あなたが探索している間、あなたの防具はあなたの戦闘スキルを引き立てるでしょう。",
+          "ipa": "/ˈwaɪl jɔr ɪkˈsplɔr.ɪŋ, jɚ ˈɑrmɚ wɪl bi ˈkɑmpləmən.tɪŋ jɚ ˈkɑm.bæt ˈskɪlz/",
+          "linking": [
+            "「While you're」—機能語 you're は弱形 /jɚ/ に縮約「ユア」",
+            "「will be」—機能語の弱形 /wɪl bi/、will の /l/ が be の /b/ に先行して未開放 [wɪl̚ bi]「ウィル ビ」",
+            "「combat skills」—語末子音 /t/ が skills の /s/ に先行して未開放 [ˈkɑmbæt̚ ˈskɪlz]「コンバット スキルズ」"
+          ],
+          "kana": "ワイル ユア イクスプローリング、ユア アーマー ウィル ビ コンプリメンティング ユア コンバット スキルズ"
+        },
+        {
+          "en": "The enchanted tools will be complementing our mining operation throughout the expedition.",
+          "ja": "エンチャントされたツールは遠征全体を通じて私たちの採掘作業を引き立てるでしょう。",
+          "ipa": "/ðə ɪnˈtʃɑnt.əd tulz wɪl bi ˈkɑmpləmən.tɪŋ ˈaʊɚ ˈmaɪn.ɪŋ ˌɑp.əˈreɪ.ʃən θruˈaʊt ðɪ ɛkˈspɛd.ɪ.ʃən/",
+          "linking": [
+            "「enchanted tools」—語末子音 /d/ が tools の /t/ に先行して未開放 [ɪnˈtʃɑntəd̚ ˈtulz]「インチャンティッド トゥルズ」",
+            "「tools will」—語末子音 /z/ が will の /w/ に先行し /z/ は未開放 [ˈtulz̚ wɪl]「トゥルズ ウィル」",
+            "「will be」—機能語の弱形 /wɪl bi/、will の /l/ が be の /b/ に先行して未開放 [wɪl̚ bi]「ウィル ビ」"
+          ],
+          "kana": "ザ インチャンティッド トゥルズ ウィル ビ コンプリメンティング アワー マイニング オペレイション スルーアウト ザ エクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have complemented",
+      "ipa": "/wɪl həv ˈkɑmpləmən.təd/",
+      "examples": [
+        {
+          "en": "By the time we reach the End dimension, these tools will have complemented our entire mining strategy.",
+          "ja": "エンド次元に到達するまでに、これらのツールは私たちの採掘戦略全体を補っているでしょう。",
+          "ipa": "/ˈbaɪ ðə ˈtaɪm wi ˈritʃ ðɪ ˈɛnd dɪˈmɛn.ʃən, ðiːz ˈtulz wɪl həv ˈkɑmpləmən.təd ˈaʊɚ ənˈtaɪɚ ˈmaɪn.ɪŋ ˈstræt.ə.dʒi/",
+          "linking": [
+            "「we reach」—機能語 the は弱形 /ðə/、語末 /i/ が reach の /r/ に連結 [wi ˈritʃ]「ウィ リーチ」",
+            "「tools will」—語末子音 /z/ が will の /w/ に先行し /z/ は未開放 [ˈtulz̚ wɪl]「トゥルズ ウィル」",
+            "「will have」—機能語の弱形 /wɪl həv/、will の /l/ と have の /h/ が子音+子音で未開放、have は弱形 [wɪl̚ həv̚]「ウィル ハヴ」"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチ ザ エンド ディメンション、ディーズ トゥルズ ウィル ハヴ コンプリメンティッド アワー エンタイア マイニング ストラテジー"
+        },
+        {
+          "en": "She will have complemented the team's equipment by the time the raid begins.",
+          "ja": "レイドが始まるまでに、彼女はチームの装備を補い終えているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈkɑmpləmən.təd ðə ˈtimz ɪˈkwɪp.mənt ˈbaɪ ðə ˈtaɪm ðə ˈreɪd bɪˈɡɪnz/",
+          "linking": [
+            "「She will」—語末 /i/ が will の /w/ に連結 [ʃi wɪl]「シー ウィル」",
+            "「will have」—機能語の弱形 /wɪl həv/、will の /l/ と have の /h/ が子音+子音で未開放、have は弱形 [wɪl̚ həv̚]「ウィル ハヴ」",
+            "「have complemented」—have の /v/ が complemented の /k/ に先行して未開放 [həv̚ ˈkɑmpləmən.təd]「ハヴ コンプリメンティッド」"
+          ],
+          "kana": "シー ウィル ハヴ コンプリメンティッド ザ ティームズ イクウィップメント バイ ザ タイム ザ レイド ビギンズ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]

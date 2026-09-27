@@ -393,6 +393,96 @@
           "kana": "アウアー ティーム ハズ ビン レイニング オウバー ザ レッダーボード シンス ザ スタート アヴ ザ シーズン アンド ショウズ ノウ サインズ アヴ スロウイング ダウン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will reign",
+      "ipa": "/wɪl ˈreɪn/",
+      "examples": [
+        {
+          "en": "The new admin will reign over the server with much stricter building rules next month.",
+          "ja": "新しい管理者は来月、かなり厳しい建築ルールでサーバーに君臨します。",
+          "ipa": "/ðə ˈnu ˈædmɪn wɪl ˈreɪn ˈoʊvər ðə ˈsɝvər wɪð ˈmʌtʃ ˈstrɪktər ˈbɪldɪŋ ˈrulz ˈnɛkst ˈmʌnθ/",
+          "linking": [
+            "will reign - will の語末 /l/ が reign の /r/ に続く（子音+子音）[wɪl ˈreɪn]「ウィル レイン」",
+            "reign over - reign の語末 /n/ が over の /oʊ/ に連結[ˈreɪn ˈoʊvər]「レイン オウバー」",
+            "with much - with の語末 /θ/ が much の /m/ に続く（子音+子音）[wɪð ˈmʌtʃ]「ウィズ マッチ」"
+          ],
+          "kana": "ザ ニュー アドミン ウィル レイン オウバー ザ サーバー ウィズ マッチ ストリクター ビルディング ルーズ ネクスト マンス"
+        },
+        {
+          "en": "By next season, we'll reign as champions if we keep improving our PvP skills every day.",
+          "ja": "来シーズンまでに、毎日PvPスキルを上達させれば、私たちはチャンピオンとして君臨します。",
+          "ipa": "/baɪ ˈnɛkst ˈsizən wiːl ˈreɪn æz ˈtʃæmpiənz ɪf wi ˈkip ɪmˈpruːvɪŋ ˈaʊɚ ˈpi ˈvi ˈpi ˈskɪlz ˈɛvəri ˈdeɪ/",
+          "linking": [
+            "we'll reign - we'll の語末 /l/ が reign の /r/ に続く（子音+子音）[wiːl ˈreɪn]「ウィール レイン」",
+            "reign as - reign の語末 /n/ が as の /æ/ に連結[ˈreɪn æz]「レイン アズ」",
+            "as champions - as の語末 /z/ が champions の /tʃ/ に続く（子音+子音）[æz ˈtʃæmpiənz]「アズ チャンピオンズ」"
+          ],
+          "kana": "バイ ネクスト シーズン ウィール レイン アズ チャンピオンズ イフ ウィ キープ インプルーヴィング アウアー ピー ヴィー ピー スキルズ エヴリ デイ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be reigning",
+      "ipa": "/wɪl bi ˈreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "When the new season starts, our team will be reigning over the leaderboard with our superior strategies.",
+          "ja": "新しいシーズンが始まるとき、私たちのチームは優れた戦略でリーダーボードに君臨します。",
+          "ipa": "/wɛn ðə ˈnu ˈsizən ˈstɑrts ˈaʊɚ ˈtim wɪl bi ˈreɪnɪŋ ˈoʊvər ðə ˈlɛdərˌbɔrd wɪð ˈaʊɚ səˈpɪriər ˈstrætɪdʒəz/",
+          "linking": [
+            "will be - will の語末 /l/ が be の /b/ に続く（子音+子音）[wɪl bi]「ウィル ビー」",
+            "be reigning - be の語末 /i/ が reigning の /r/ に連結[bi ˈreɪnɪŋ]「ビー レイニング」",
+            "over the - over の語末 /r/ が the に先行し、the は弱形 /ðə/[ˈoʊvər ðə]「オウバー ザ」"
+          ],
+          "kana": "ウェン ザ ニュー シーズン スターツ アウアー ティーム ウィル ビー レイニング オウバー ザ レラーボード ウィズ アウアー スペリアー ストラテジーズ"
+        },
+        {
+          "en": "The Wither will be reigning in the Nether dimension when you finally decide to challenge it.",
+          "ja": "あなたが最終的にそれに挑戦することを決めるとき、ウィザーはネザー次元に君臨します。",
+          "ipa": "/ðə ˈwɪðər wɪl bi ˈreɪnɪŋ ɪn ðə ˈnɛðər dɪˈmɛnʃən wɛn ju ˈfaɪnəli dɪˈsaɪd tu ˈtʃælɪndʒ ɪt/",
+          "linking": [
+            "will be - will の語末 /l/ が be の /b/ に続く（子音+子音）[wɪl bi]「ウィル ビー」",
+            "be reigning - be の語末 /i/ が reigning の /r/ に連結[bi ˈreɪnɪŋ]「ビー レイニング」",
+            "in the - in の語末 /n/ が the の /ð/ に続く（子音+子音、未開放）[ɪn̚ ðə]「イン ザ」"
+          ],
+          "kana": "ザ ウィザー ウィル ビー レイニング イン ザ ネザー ディメンション ウェン ユー ファイナリ ディサイド トゥ チャレンジ イット"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have reigned",
+      "ipa": "/wɪl həv ˈreɪnd/",
+      "examples": [
+        {
+          "en": "After the tournament ends, the top player will have reigned as champion for one full year.",
+          "ja": "トーナメントが終わった後、トッププレイヤーは1年間チャンピオンとして君臨していることになります。",
+          "ipa": "/ˈæftər ðə ˈtɜrnəmənt ˈɛndz ðə ˈtɑp ˈpleɪər wɪl həv ˈreɪnd æz ˈtʃæmpiən fər ˈwʌn ˈfʊl ˈjɪr/",
+          "linking": [
+            "will have - will の語末 /l/ が have の弱形 /h/ に続く（子音+子音）[wɪl həv]「ウィル ハヴ」",
+            "have reigned - have の語末 /v/ が reigned の /r/ に続く（子音+子音）[həv ˈreɪnd]「ハヴ レインド」",
+            "as champion - as の語末 /z/ が champion の /tʃ/ に続く（子音+子音）[æz ˈtʃæmpiən]「アズ チャンピオン」"
+          ],
+          "kana": "アフター ザ ターナメント エンズ ザ トップ プレイアー ウィル ハヴ レインド アズ チャンピオン ファー ワン フール ヤーア"
+        },
+        {
+          "en": "By the end of next year, the old admin will have reigned over this server for over seven years.",
+          "ja": "来年の終わりまでに、古い管理者はこのサーバーに7年以上君臨していることになります。",
+          "ipa": "/baɪ ðə ˈɛnd əv ˈnɛkst ˈjɪr ðə ˈoʊld ˈædmɪn wɪl həv ˈreɪnd ˈoʊvər ðɪs ˈsɝvər fər ˈoʊvər ˈsɛvən ˈjɪrz/",
+          "linking": [
+            "will have - will の語末 /l/ が have の弱形 /h/ に続く（子音+子音）[wɪl həv]「ウィル ハヴ」",
+            "have reigned - have の語末 /v/ が reigned の /r/ に続く（子音+子音）[həv ˈreɪnd]「ハヴ レインド」",
+            "reigned over - reigned の語末 /d/ が over の /oʊ/ に連結[ˈreɪnd ˈoʊvər]「レインド オウバー」"
+          ],
+          "kana": "バイ ザ エンド アヴ ネクスト ヤーア ザ オウルド アドミン ウィル ハヴ レインド オウバー ディス サーバー ファー オウバー セヴン ヤーズ"
+        }
+      ]
     }
   ]
 }
