@@ -181,6 +181,96 @@
           "kana": "メニー アスパイアリング スピードラナーズ プラクティス ザイアー ストラテジーズ デイリー トゥ シェイヴ オフ プレシャス ミリセカンズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has aspired",
+      "ipa": "/həz əˈspaɪrd/",
+      "examples": [
+        {
+          "en": "I have aspired to perfect my combat skills since joining the server.",
+          "ja": "サーバーに参加したときから、私は戦闘スキルを完璧にすることを志している。",
+          "ipa": "/aɪ həv əˈspaɪrd tu ˈpɜrfɪkt maɪ ˈkɑmbæt skɪlz sɪns ˈdʒɔɪnɪŋ ðə ˈsɝvɚ/",
+          "linking": [
+            "have aspired → have /həv/ は弱形で aspired の /ə/ に先立つ未開放で連結 [həv̚ əˈspaɪɹd] ハヴ アスパイアード",
+            "aspired to → 語末 /d/ が /t/ に続く、to は弱形 /tə/「タ」で [əˈspaɪɹd tə] アスパイアード タ",
+            "since joining → since の語末 /s/ が joining の /dʒ/ に先立つ未開放で、joining の語末 /ŋ/ が the に先立つ未開放 [sɪns̚ dʒɔɪnɪŋ̚ ðə] シンス ジョイニング ザ"
+          ],
+          "kana": "アイ ハヴ アスパイアード トゥ パーフィクト マイ コムバット スキルズ シンス ジョイニング ザ サーバー"
+        },
+        {
+          "en": "She has aspired to collect every type of rare block found in the deep dark.",
+          "ja": "彼女はディープダークで見つかるすべてのレアブロックを収集することを志している。",
+          "ipa": "/ʃi həz əˈspaɪrd tu kəˈlɛkt ˈɛvri ˈtaɪp əv ˈrɛr blɑk faʊnd ɪn ðə ˈdip dɑrk/",
+          "linking": [
+            "has aspired → has /həz/ は弱形で aspired の /ə/ に先立つ未開放で連結 [həz̚ əˈspaɪɹd] ハズ アスパイアード",
+            "aspired to → 語末 /d/ が /t/ に続く、to は弱形 /tə/「タ」で [əˈspaɪɹd tə] アスパイアード タ",
+            "every rare → every の /i/ がフラップ化し rare に続く [ˈɛvɾi ˈrɛr] エヴリー レア"
+          ],
+          "kana": "シー ハズ アスパイアード トゥ コレクト エヴリー タイプ アヴ レア ブロック ファウンド イン ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had aspired",
+      "ipa": "/həd əˈspaɪrd/",
+      "examples": [
+        {
+          "en": "Before the new update, all experienced players had aspired to find ancient cities without difficulty.",
+          "ja": "新しいアップデートの前に、すべての経験豊かなプレイヤーは簡単に古代都市を見つけることを志していた。",
+          "ipa": "/bɪˈfɔr ðə ˈnu əpˈdeɪt ɔl ɪkˈspɪriənst ˈpleɪərz həd əˈspaɪrd tu ˈfaɪnd ˈeɪnʃənt ˈsɪtiz wɪˈðaʊt ˈdɪfɪkəlti/",
+          "linking": [
+            "had aspired → had /həd/ は弱形で aspired の /ə/ に先立つ未開放で連結 [həd̚ əˈspaɪɹd] ハド アスパイアード",
+            "aspired to → 語末 /d/ が /t/ に続く、to は弱形 /tə/「タ」で [əˈspaɪɹd tə] アスパイアード タ",
+            "the new → the は弱形 /ðə/「ザ」で new に続く"
+          ],
+          "kana": "ビフォア ザ ニュー アップデイト オール イクスピアリンスト プレイアーズ ハド アスパイアード トゥ ファインド エンシェント シティーズ ウィザウト ディフィカルティ"
+        },
+        {
+          "en": "They had aspired to build the largest mega base before running out of resources.",
+          "ja": "彼らはリソースが足りなくなる前に、最大規模のメガベースを建設することを志していた。",
+          "ipa": "/ðeɪ həd əˈspaɪrd tu ˈbɪld ðə ˈlɑrdʒəst ˈmɛɡə ˈbeɪs bɪˈfɔr ˈrʌnɪŋ ˈaʊt əv ɹɪˈsɔrsɪz/",
+          "linking": [
+            "had aspired → had /həd/ は弱形で aspired の /ə/ に先立つ未開放で連結 [həd̚ əˈspaɪɹd] ハド アスパイアード",
+            "aspired to → 語末 /d/ が /t/ に続く、to は弱形 /tə/「タ」で [əˈspaɪɹd tə] アスパイアード タ",
+            "the largest → the は弱形 /ðə/「ザ」で largest に続く"
+          ],
+          "kana": "ゼイ ハド アスパイアード トゥ ビルド ザ ラージェスト メガ ベイス ビフォア ラニング アウト アヴ リソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been aspiring",
+      "ipa": "/həz bɪn əˈspaɪrɪŋ/",
+      "examples": [
+        {
+          "en": "He has been aspiring to master every enchantment in the game for the past year.",
+          "ja": "彼はこの1年間、ゲーム内のすべてのエンチャントをマスターすることを志している。",
+          "ipa": "/hi həz bɪn əˈspaɪrɪŋ tu ˈmæstər ˈɛvri ɪnˈtʃæntmənt ɪn ðə ˈɡeɪm fɔr ðə ˈpæst jɪr/",
+          "linking": [
+            "has been → has /həz/ は弱形で been の /b/ に先立つ未開放で連結。been は弱形 /bɪn/ [həz̚ bɪn] ハズ ビン",
+            "been aspiring → been の語末 /n/ が aspiring の /ə/ に先立つ未開放で [bɪn̚ əˈspaɪɹɪŋ] ビン アスパイアリング",
+            "aspiring to → 語末 /ŋ/ が /t/ に先立つ未開放で、to は弱形 /tə/「タ」で [əˈspaɪɹɪŋ̚ tə] アスパイアリング タ"
+          ],
+          "kana": "ヒー ハズ ビン アスパイアリング トゥ マスター エヴリー インチャントメント イン ザ ゲイム フォア ザ パスト イヤー"
+        },
+        {
+          "en": "We have been aspiring to complete the Nether portal maze challenge since yesterday.",
+          "ja": "私たちは昨日からネザーポータルメイズチャレンジを完了することを志している。",
+          "ipa": "/wi həv bɪn əˈspaɪrɪŋ tu kəmˈplit ðə ˈnɛðər ˈpɔrtəl ˈmeɪz ˈtʃælɪndʒ sɪns ˈjɛstɚdeɪ/",
+          "linking": [
+            "have been → have /həv/ は弱形で been の /b/ に先立つ未開放で連結。been は弱形 /bɪn/ [həv̚ bɪn] ハヴ ビン",
+            "been aspiring → been の語末 /n/ が aspiring の /ə/ に先立つ未開放で [bɪn̚ əˈspaɪɹɪŋ] ビン アスパイアリング",
+            "aspiring to → 語末 /ŋ/ が /t/ に先立つ未開放で、to は弱形 /tə/「タ」で [əˈspaɪɹɪŋ̚ tə] アスパイアリング タ"
+          ],
+          "kana": "ウィー ハヴ ビン アスパイアリング トゥ コンプリート ザ ネザー ポータル メイズ チャレンジ シンス イエスタデイ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
