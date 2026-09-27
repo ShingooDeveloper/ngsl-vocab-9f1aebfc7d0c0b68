@@ -284,6 +284,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has aroused",
+      "ipa": "/həz əˈraʊzd/",
+      "examples": [
+        {
+          "en": "The creeper explosion has aroused everyone from their beds during the night.",
+          "ja": "クリーパーの爆発は、夜間ベッドで寝ていたみんなを起こしました。",
+          "ipa": "/ðə ˈkriːpər ɪkˈsploʊʒən həz əˈraʊzd ˈɛvriˌwʌn frəm ðɛr ˈbɛdz ˈdʊrɪŋ ðə ˈnaɪt/",
+          "kana": "ザ クリーパー イクスプロージョン ハズ アラウズド エブリワン フラム ザ ベッズ ジュアリング ザ ナイト",
+          "linking": [
+            "「the creeper」: the は弱形 [ðə]「ザ」、creeper の /k/ に続く",
+            "「explosion has」: explosion の語末 /n/ が has の /h/ に続き、子音+子音 [ɪkˈsploʊʒən həz]「イクスプロージョン ハズ」。has は弱形 /həz/「ハズ」",
+            "「from their」: from は弱形 [frəm]「フラム」、their の /ð/ に続く"
+          ]
+        },
+        {
+          "en": "These mysterious symbols have aroused curiosity and speculation among all the builders on the server.",
+          "ja": "これらの謎めいたシンボルは、サーバー上のすべてのビルダーの好奇心と推測を呼び起こしました。",
+          "ipa": "/ðiːz ˌmɪˈstɪriəs ˈsɪmbəlz həv əˈraʊzd ˌkjuriˈɑsəti ənd ˌspɛkjəˈleɪʃən əˈmʌŋ ˈɔl ðə ˈbɪldɚz ɑn ðə ˈsɝvər/",
+          "kana": "ディーズ ミステリアス シンボルズ ハヴ アラウズド キュリアスティー アンド スペキュレーション アマング オール ザ ビルダーズ オン ザ サーバー",
+          "linking": [
+            "「these mysterious」: these の語末 /z/ が mysterious の /m/ に続き、子音+子音で連結なし",
+            "「symbols have」: symbols の語末 /z/ が have の /h/ に続き、子音+子音。have は弱形 /həv/「ハヴ」[ˈsɪmbəlz həv]「シンボルズ ハヴ」",
+            "「among all」: among は弱形傾向 [əˈmʌŋ]「アマング」、all の /ɔ/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had aroused",
+      "ipa": "/həd əˈraʊzd/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the warden had already aroused the whole cave system to full alert.",
+          "ja": "私たちが到着したときには、ウォーデンがすでに洞窟システム全体を警戒状態に起こしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈwɔrdən həd ˈɔlˌrɛdi əˈraʊzd ðə ˈhoʊl ˈkeɪv ˈsɪstəm tu ˈfʊl əˈlɝt/",
+          "kana": "バイ ザ タイム ウィー アライヴド ザ ウォーデン ハド オールレディ アラウズド ザ ホール ケイブ システム タ フル アラート",
+          "linking": [
+            "「the time」: the は弱形 [ðə]「ザ」、time の /t/ に続く",
+            "「warden had」: warden の語末 /n/ が had の /h/ に続き、子音+子音。had は弱形 /həd/「ハド」[ˈwɔrdən həd]「ウォーデン ハド」",
+            "「to full」: to は弱形 /tə/「タ」、full の /f/ に続く"
+          ]
+        },
+        {
+          "en": "The strange building patterns had aroused suspicion among the server admins long before the griefing was confirmed.",
+          "ja": "奇妙な建築パターンは、グリーフィングが確認されるずっと前に、サーバー管理者の間で疑いを呼び起こしていました。",
+          "ipa": "/ðə ˈstreɪndʒ ˈbɪldɪŋ ˈpætərnz həd əˈraʊzd səˈspɪʃən əˈmʌŋ ðə ˈsɝvər ˈædmɪnz ˈlɔŋ bɪˈfɔr ðə ˈɡriːfɪŋ wəz kənˈfɝmd/",
+          "kana": "ザ ストレインジ ビルディング パターンズ ハド アラウズド サスピション アマング ザ サーバー アドミンズ ロング ビフォー ザ グリーフィング ワズ コンファームド",
+          "linking": [
+            "「patterns had」: patterns の語末 /z/ が had の /h/ に続き、子音+子音。had は弱形 /həd/「ハド」",
+            "「suspicion among」: suspicion の語末 /n/ が among の /ə/ に連結 [səˈspɪʃən əˈmʌŋ]「サスピション アマング」。among は弱形傾向",
+            "「before the」: before の語末 /r/ が the の /ð/ に続き、子音+子音。the は弱形 [ðə]「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been arousing",
+      "ipa": "/həz bɪn əˈraʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The unusual redstone contraption has been arousing curiosity and attracting new players to explore our lab.",
+          "ja": "異常なレッドストーン装置は、好奇心を刺激し続け、新しいプレイヤーをラボの探索に引き付けています。",
+          "ipa": "/ðə ˌʌˈnuːʒuəl ˈrɛdˌstoʊn kənˈtræpʃən həz bɪn əˈraʊzɪŋ ˌkjuriˈɑsəti ənd əˈtræktɪŋ ˈnjuː ˈpleɪɚz tu ɪkˈsplɔr ˈaʊɚ ˈlæb/",
+          "kana": "ザ アニューズュアル レッドストウン コントラプション ハズ ビン アラウジング キュリアスティー アンド アトラクティング ニュー プレイヤーズ タ イクスプロー アワー ラブ",
+          "linking": [
+            "「the unusual」: the は弱形 [ðə]「ザ」、unusual の /ə/ に続く",
+            "「has been」: has は弱形 /həz/「ハズ」、been は弱形 /bɪn/「ビン」 [həz bɪn]「ハズ ビン」",
+            "「to explore」: to は弱形 /tə/「タ」、explore の /ɪ/ に続く"
+          ]
+        },
+        {
+          "en": "The treasure hunt clues have been arousing excitement and driving exploration across the entire server.",
+          "ja": "宝探しの手がかりは、興奮を刺激し続け、サーバー全体での探索を促しています。",
+          "ipa": "/ðə ˈtrɛʒər ˈhʌnt ˈkluːz həv bɪn əˈraʊzɪŋ ɪkˈsaɪtmənt ənd ˈdraɪvɪŋ ɪkˌsplɔˈreɪʃən əˈkrɔs ðə ɪnˈtaɪr ˈsɝvər/",
+          "kana": "ザ トレジャー ハント クルーズ ハヴ ビン アラウジング イクサイトメント アンド ドライビング イクスプローレーション アクロス ザ インタイア サーバー",
+          "linking": [
+            "「the treasure」: the は弱形 [ðə]「ザ」、treasure の /t/ に続く",
+            "「clues have」: clues の語末 /z/ が have の /h/ に続き、子音+子音。have は弱形 /həv/「ハヴ」[ˈkluːz həv]「クルーズ ハヴ」",
+            "「across the」: across の語末 /s/ が the の /ð/ に続き、子音+子音で未開放 [əˈkrɔs̚ ðə]「アクロス ザ」"
+          ]
+        }
+      ]
     }
   ]
 }
