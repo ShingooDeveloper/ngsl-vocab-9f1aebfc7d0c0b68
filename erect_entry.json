@@ -180,6 +180,94 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has erected",
+      "ipa": "/həz ɪˈrɛktəd/",
+      "examples": [
+        {
+          "en": "We have erected a massive fortress at the center of our settlement.",
+          "ja": "私たちはこの集落の中心に巨大な城塞を建てました。",
+          "ipa": "/wi həv ɪˈrɛktəd ə ˈmæsɪv ˈfɔrtəs æt ðə ˈsɛntər əv aʊr ˈsɛtəlmənt/",
+          "linking": [
+            "have の語末 /v/ が erected の /ɪ/ に連結 [həv ɪˈrɛktəd] ハヴ イレクティド",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "of の語末 /v/ が our の /aʊ/ に連結 [əv aʊr] アヴ アウアー"
+          ],
+          "kana": "ウィ ハヴ イレクティド ア マッシブ フォートレス アット ザ センター アヴ アウアー セトルメント"
+        },
+        {
+          "en": "She has erected protective walls around her base to defend against creeper explosions.",
+          "ja": "彼女は彼女のベースの周りに保護壁を建てて、クリーパーの爆発に対抗しています。",
+          "ipa": "/ʃi həz ɪˈrɛktəd prəˈtɛktɪv wɔlz əˈraʊnd hər beɪs tə dɪˈfɛnd əˈɡɛnst ˈkriːpər ɪkˈsploʊʒənz/",
+          "linking": [
+            "has の語末 /z/ が erected の /ɪ/ に連結 [həz ɪˈrɛktəd] ハズ イレクティド",
+            "to は機能語で弱形 /tə/ [tə] タ",
+            "creeper の語末 /r/ が explosions の /ɪ/ に r-linking で連結 [ˈkriːpər ɪkˈsploʊʒənz] クリーパー イクスプロージョンズ"
+          ],
+          "kana": "シー ハズ イレクティド プロテクティヴ ウォールズ アラウンド ハー ベイス タ ディフェンド アゲンスト クリーパー イクスプロージョンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had erected",
+      "ipa": "/həd ɪˈrɛktəd/",
+      "examples": [
+        {
+          "en": "Before the raid started, the team had erected protective barriers around the base.",
+          "ja": "レイドが始まる前に、チームはベースの周りに保護バリアを建てました。",
+          "ipa": "/bɪˈfɔr ðə reɪd ˈstɑrtəd ðə tim həd ɪˈrɛktəd prəˈtɛktɪv ˈbæriərz əˈraʊnd ðə beɪs/",
+          "linking": [
+            "had の語末 /d/ が erected の /ɪ/ に連結 [həd ɪˈrɛktəd] ハド イレクティド",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ビフォア ザ レイド スターティド ザ ティーム ハド イレクティド プロテクティヴ バリアーズ アラウンド ザ ベイス"
+        },
+        {
+          "en": "The new players found that we had already erected most of the defense structures.",
+          "ja": "新しいプレイヤーたちは、私たちがすでに防御構造の大部分を建てたことに気づきました。",
+          "ipa": "/ðə nu ˈpleɪərz faʊnd ðæt wi həd ˈɔlrɛdi ɪˈrɛktəd moʊst əv ðə dɪˈfɛns ˈstrʌktʃərz/",
+          "linking": [
+            "had の語末 /d/ が already の /ɔ/ に連結 [həd ˈɔlrɛdi] ハド オールレディ",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ザ ニュー プレイヤーズ ファウンド ザット ウィ ハド オールレディ イレクティド モウスト アヴ ザ ディフェンス ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been erecting",
+      "ipa": "/həz bɪn ɪˈrɛktɪŋ/",
+      "examples": [
+        {
+          "en": "The construction crew has been erecting a massive trading hub all week.",
+          "ja": "建設クルーは一週間中ずっと巨大な取引ハブを建設しています。",
+          "ipa": "/ðə kənˈstrʌkʃən kru həz bɪn ɪˈrɛktɪŋ ə ˈmæsɪv ˈtreɪdɪŋ hʌb ɔl wik/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "been の語末 /n/ が erecting の /ɪ/ に連結 [bɪn ɪˈrɛktɪŋ] ビン イレクティング",
+            "hub の語末 /b/ が all の /ɔ/ に連結 [hʌb ɔl] ハブ オール"
+          ],
+          "kana": "ザ コンストラクション クルー ハズ ビン イレクティング ア マッシブ トレイディング ハブ オール ウィーク"
+        },
+        {
+          "en": "They have been erecting defensive structures around the perimeter since the last server update.",
+          "ja": "彼らは最後のサーバーアップデート以来、周辺に防御構造を建設しています。",
+          "ipa": "/ðeɪ həv bɪn ɪˈrɛktɪŋ dɪˈfɛnsɪv ˈstrʌktʃərz əˈraʊnd ðə pəˈrɪmətər sɪns ðə læst ˈsɝvər ʌpˈdeɪt/",
+          "linking": [
+            "been の語末 /n/ が erecting の /ɪ/ に連結 [bɪn ɪˈrɛktɪŋ] ビン イレクティング",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "server の語末 /r/ が update の /ʌ/ に r-linking で連結 [ˈsɝvər ʌpˈdeɪt] サーバー アップデイト"
+          ],
+          "kana": "ゼイ ハヴ ビン イレクティング ディフェンシヴ ストラクチャーズ アラウンド ザ パリメター シンス ザ ラスト サーバー アップデイト"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形",
       "text": "will erect",
