@@ -415,6 +415,96 @@
           "kana": "ザ ニュー プレイヤーズ ハヴ ビン スタンボリング スルー ベイシック サーヴァイヴァル タスクス シンス ゼイ ジョインド ザ サーバー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will stumble",
+      "ipa": "/wɪl ˈstʌmbəl/",
+      "examples": [
+        {
+          "en": "I will stumble into danger if I rush toward the void without looking carefully.",
+          "ja": "注意深く見ずに虚空に向かって急いだら、危険につまずくだろう。",
+          "ipa": "[aɪ wəl ˈstʌmbəl ˈɪntu ˈdeɪndʒər ɪf aɪ rʌʃ təˈwɔrd ðə vɔɪd wɪðˈaʊt ˈlʊkɪŋ ˈkɛrfəli]",
+          "linking": [
+            "will stumble：will は弱形 /wəl/、stumble の初頭 /s/ に続く（子音+子音で連結なし）[wəl ˈstʌmbəl]→「ウル スタンボル」",
+            "stumble into：語末子音 /l/ が母音 /ɪ/ に連結 [ˈstʌmbəlɪntu]→「スタンボリント」",
+            "toward the：機能語 toward の語末 /d/ が弱形 the /ðə/ に連結、the は弱形 [təˈwɔrd ðə]→「トワード ザ」"
+          ],
+          "kana": "アイ ウル スタンボル イントゥ デインジャー イフ アイ ラッシュ トワード ザ ボイド ウィザウト ルッキング ケアフリー"
+        },
+        {
+          "en": "They will stumble over the trap blocks if they don't stay alert during the raid.",
+          "ja": "レイド中に警戒心を失ったら、彼らはトラップブロックでつまずくだろう。",
+          "ipa": "[ðeɪ wəl ˈstʌmbəl ˈoʊvər ðə træp blɑks ɪf ðeɪ doʊnt steɪ əˈlɛrt ˈdʊrɪŋ ðə reɪd]",
+          "linking": [
+            "will stumble：will は弱形 /wəl/、stumble の初頭に続く [wəl ˈstʌmbəl]→「ウル スタンボル」",
+            "stumble over：語末子音 /l/ が母音 /oʊ/ に連結 [ˈstʌmbəloʊ]→「スタンボロウ」",
+            "over the：語末音 /r/ がフラップ化 /ɾ/ して母音 /ðə/ に連結、the は弱形 [ˈoʊvəɾðə]→「オーヴァーザ」"
+          ],
+          "kana": "ゼイ ウル スタンボル オーヴァー ザ トラップ ブロックス イフ ゼイ ドント ステイ アラート ジューリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be stumbling",
+      "ipa": "/wɪl bi ˈstʌmbəlɪŋ/",
+      "examples": [
+        {
+          "en": "She will be stumbling through the dark caves all night while searching for diamonds.",
+          "ja": "彼女はダイヤモンドを探すために一晩中暗い洞窟をよろよろ歩き続けるだろう。",
+          "ipa": "[ʃi wɪl bi ˈstʌmbəlɪŋ θruː ðə dɑrk keɪvz ɔl naɪt waɪl ˈsɜrʃɪŋ fɔr ˈdaɪməndz]",
+          "linking": [
+            "will be：will は弱形 /wəl/、be の初頭 /b/ に続く（子音+子音で未開放）[wəl̚ bi]→「ウル ビー」",
+            "stumbling through：語末 /ŋ/ が子音 /θ/ に先行し未開放 [ˈstʌmbəlɪŋ̚ θruː]→「スタンボリング スルー」",
+            "the dark：冠詞 the は弱形 /ðə/ [ðə dɑrk]→「ザ ダーク」"
+          ],
+          "kana": "シー ウル ビー スタンボリング スルー ザ ダーク ケイヴズ オール ナイト ホワイル サーチング フォー ダイモンズ"
+        },
+        {
+          "en": "We will be stumbling around in the lava field until we find our way back to base.",
+          "ja": "私たちはベースに戻る道を見つけるまで、溶岩地帯をよろよろと歩き回るだろう。",
+          "ipa": "[wi wɪl bi ˈstʌmbəlɪŋ əˈraʊnd ɪn ðə ˈlɑvə ˈfild ənˈtɪl wi faɪnd aʊr ˈweɪ bæk tə ˈbeɪs]",
+          "linking": [
+            "will be：will は弱形 /wəl/、be の初頭に続く [wəl̚ bi]→「ウル ビー」",
+            "stumbling around：語末 /ŋ/ が母音 /ə/ に連結 [ˈstʌmbəlɪŋ əˈraʊnd]→「スタンボリング アラウンド」",
+            "in the：子音 /n/ が弱形 the の母音 /ə/ に連結 [ɪn ðə]→「イン ザ」"
+          ],
+          "kana": "ウィ ウル ビー スタンボリング アラウンド イン ザ ラーヴァ フィールド アンティル ウィ ファインド アワー ウェイ バック タ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have stumbled",
+      "ipa": "/wɪl həv ˈstʌmbəld/",
+      "examples": [
+        {
+          "en": "By the time we reach the stronghold, I will have stumbled down at least ten mine shafts.",
+          "ja": "私たちが要塞に到達する時までに、私は少なくとも10個の鉱山坑道につまずき落ちているだろう。",
+          "ipa": "[baɪ ðə taɪm wi riːtʃ ðə ˈstrɑŋˌhoʊld aɪ wɪl həv ˈstʌmbəld daʊn æt liːst tɛn maɪn ʃæfts]",
+          "linking": [
+            "will have：will は弱形 /wəl/、have の弱形 /əv/ [wəl həv]→「ウル ハブ」",
+            "have stumbled：have は弱形 /həv/、stumbled の初頭 /s/ に続く（子音+子音で連結なし）[həv ˈstʌmbəld]→「ハブ スタンボルド」",
+            "stumbled down：語末 /d/ が子音 /d/ に未開放で連接 [ˈstʌmbəl̚ daʊn]→「スタンボルド ダウン」"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチ ザ ストロングホウルド アイ ウル ハブ スタンボルド ダウン アット リースト テン マイン シャフツ"
+        },
+        {
+          "en": "They will have stumbled through countless obstacles before they finally reach the End portal.",
+          "ja": "彼らがついにエンドポータルに到達する前に、数え切れないほどの障害物をよろよろとくぐり抜けているだろう。",
+          "ipa": "[ðeɪ wɪl həv ˈstʌmbəld θruː ˈkaʊntləs ˈɑbstəklɪz bɪˈfɔr ðeɪ ˈfaɪnəli riːtʃ ðə ɛnd ˈpoʊrtəl]",
+          "linking": [
+            "will have：will は弱形 /wəl/、have の弱形 /əv/ [wəl həv]→「ウル ハブ」",
+            "have stumbled：have は弱形 /həv/、stumbled の初頭に続く [həv ˈstʌmbəld]→「ハブ スタンボルド」",
+            "stumbled through：語末 /d/ が子音 /θ/ に先行し未開放 [ˈstʌmbəl̚ θruː]→「スタンボルド スルー」"
+          ],
+          "kana": "ゼイ ウル ハブ スタンボルド スルー カウントレス オプスタクルズ ビフォー ゼイ ファイナリー リーチ ザ エンド ポータル"
+        }
+      ]
     }
   ]
 }

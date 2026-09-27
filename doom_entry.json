@@ -287,6 +287,96 @@
           "kana": "サーヴァー ラッグ ハド ビン ドゥーミング アワー ピーヴィーピー イヴェンツ ファー ウィークス ビフォア ザ ハードウェア アップグレイド ファイナリー ア ライヴド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has doomed",
+      "ipa": "/həz ˈduːmd/",
+      "examples": [
+        {
+          "en": "We have doomed the entire server with our careless redstone setup.",
+          "ja": "我々の不注意なレッドストーンセットアップでサーバー全体を滅亡させてしまった。",
+          "ipa": "/wi həv ˈduːmd ðə ɪnˈtaɪɚ ˈsɝːvɚ wɪð aʊɚ ˈkɛrləs ˈrɛdˌstoʊn ˈsɛtʌp/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、doomed は /ˈduːmd/（/v/ + /d/ で子音+子音のため未開放）",
+            "the は弱形 /ðə/ ザ",
+            "our は弱形 /aʊɚ/ アワー、with は弱形 /wɪð/ ウィズ"
+          ],
+          "kana": "ウィ ハヴ ドゥームド ザ インタイアー サーヴァー ウィズ アワー ケアレス レッドストウン セッタップ"
+        },
+        {
+          "en": "Our lack of preparations has doomed us to certain failure.",
+          "ja": "準備の不足が我々を確実な失敗へと運命づけた。",
+          "ipa": "/aʊɚ ˈlæk əv ˌprɛpəˈreɪʃənz həz ˈduːmd ʌs tə ˈsɝːtən ˈfeɪljɚ/",
+          "linking": [
+            "our は弱形 /aʊɚ/ アワー、of は弱形 /əv/ アヴ（語末子音 /f/ が弱化）",
+            "has は弱形 /həz/ ハズ",
+            "to は弱形 /tə/ トゥ"
+          ],
+          "kana": "アワー ラック アヴ プレパレイションズ ハズ ドゥームド アス トゥ サーティン フェイリャー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had doomed",
+      "ipa": "/həd ˈduːmd/",
+      "examples": [
+        {
+          "en": "By the time we noticed, the griefer had doomed our main base beyond repair.",
+          "ja": "気づいた時には、グリーファーは既に我々のメイン拠点を修復不可能な状態に滅亡させていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈnoʊtɪst ðə ˈɡrifɚ həd ˈduːmd aʊɚ ˈmeɪn ˈbeɪs bɪˈjɑnd rɪˈpɛr/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は弱形 /həd/ ハド、doomed は /ˈduːmd/（/d/ + /d/ で子音+子音のため未開放）",
+            "our は弱形 /aʊɚ/ アワー"
+          ],
+          "kana": "バイ ザ タイム ウィ ノウティスト ザ グリーファー ハド ドゥームド アワー メイン ベース ビヨンド リペア"
+        },
+        {
+          "en": "The first mistake had doomed our entire mining operation before anyone could react.",
+          "ja": "最初の誤りが、誰もが反応する前に、我々のマイニング作業全体を既に滅亡させていた。",
+          "ipa": "/ðə ˈfɝːst mɪsˈteɪk həd ˈduːmd aʊɚ ɪnˈtaɪɚ ˈmaɪnɪŋ ˌɑpəˈreɪʃən bɪˈfɔr ˈɛniˌwʌn kʊd riˈækt/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は弱形 /həd/ ハド、doomed は /ˈduːmd/（/d/ + /d/ で子音+子音のため未開放）",
+            "our は弱形 /aʊɚ/ アワー、could は弱形 /kʊd/ クッド"
+          ],
+          "kana": "ザ ファースト ミステイク ハド ドゥームド アワー インタイアー マイニング オパレイション ビフォア エニワン クッド リアクト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been dooming",
+      "ipa": "/həz bɪn ˈduːmɪŋ/",
+      "examples": [
+        {
+          "en": "The constant Wither attacks have been dooming our progress for days now.",
+          "ja": "ウィザーの絶え間ない攻撃がここ数日間、我々の進捗を滅亡させ続けている。",
+          "ipa": "/ðə ˈkɑnstənt ˈwɪðɚ əˈtæks həv bɪn ˈduːmɪŋ aʊɚ ˈprɑɡrɛs fɚ ˈdeɪz naʊ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ、been は弱形 /bɪn/ ビン",
+            "have は弱形 /həv/ ハヴ、been は /bɪn/（/v/ + /b/ で子音+子音のため未開放）",
+            "our は弱形 /aʊɚ/ アワー、for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "ザ カンスタント ウィザー アタックス ハヴ ビン ドゥーミング アワー プログレス ファー デイズ ナウ"
+        },
+        {
+          "en": "The persistent lag has been dooming our tournament schedule all month.",
+          "ja": "これまでずっと、計画的な遅延が我々のトーナメントスケジュール全体を滅亡させ続けている。",
+          "ipa": "/ðə pɚˈsɪstənt læɡ həz bɪn ˈduːmɪŋ aʊɚ ˈtɚnəmənt ˈskɛdʒuːl ɔl ˈmʌnθ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン（/z/ + /b/ で子音+子音のため未開放）",
+            "our は弱形 /aʊɚ/ アワー"
+          ],
+          "kana": "ザ パーシステント ラッグ ハズ ビン ドゥーミング アワー ターナメント スケジュール オール マンス"
+        }
+      ]
     }
   ],
   "idioms": [
