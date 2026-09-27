@@ -370,6 +370,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will verify",
+      "ipa": "/wɪl ˈvɛrəfaɪ/",
+      "examples": [
+        {
+          "en": "The server admin will verify all base claims before the tournament starts.",
+          "ja": "サーバー管理者はトーナメントが始まる前にすべての基地請求を確認します。",
+          "ipa": "/ðə ˈsɝvɚ ˈædmɪn wɪl ˈvɛrəfaɪ ɔl ˈbeɪs ˈkleɪmz bɪˈfɔr ðə ˈtʊrnəmənt ˈstɑrts/",
+          "kana": "ザ サーバー アドミン ウィル ベリファイ オール ベイス クレイムズ ビフォー ザ ターナメント スターツ",
+          "linking": [
+            "the は弱形 /ðə/、server は /ˈsɝvɚ/ で a に続く",
+            "will は /wɪl/ で verify の /v/ に連結 [wɪl ˈvɛrəfaɪ]「ウィル ベリファイ」",
+            "before the → before の語末 /r/ が the の弱形 /ðə/ に続く「ビフォー ザ」"
+          ]
+        },
+        {
+          "en": "We'll verify the enchantment requirements once everyone joins the server.",
+          "ja": "みんながサーバーに参加したら、私たちはエンチャント要件を確認します。",
+          "ipa": "/wil ˈvɛrəfaɪ ðə ɪnˈtʃæntmənt rɪˈkwaɪɚmənts wʌns ˈɛvriˌwʌn ˈdʒɔɪnz ðə ˈsɝvɚ/",
+          "kana": "ウィル ベリファイ ザ インチャントメント リクワイアメンツ ワンス エブリワン ジョインズ ザ サーバー",
+          "linking": [
+            "we'll = will の縮約形 /wil/（we と融合）、verify の /v/ に続く",
+            "the は弱形 /ðə/（2回）",
+            "once everyone → /s/ が /ɛ/ に続く（consonant+vowel）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be verifying",
+      "ipa": "/wɪl bi ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be verifying the redstone circuit while you prepare the automatic farm.",
+          "ja": "あなたが自動農場を準備している間、私はレッドストーン回路を確認しています。",
+          "ipa": "/aɪl bi ˈvɛrəfaɪɪŋ ðə ˈrɛdstoʊn ˈsɝkɪt ˈwaɪl ju prɪˈpɛr ðə ɔˈtɑmətɪk ˈfɑrm/",
+          "kana": "アイル ビ ベリファイイング ザ レッドストーン サーキット ホワイル ユー プリペア ザ オートマティック ファーム",
+          "linking": [
+            "I'll be = will の縮約形 /aɪl/ + be の弱形 /bə/「アイル ビ」",
+            "the は弱形 /ðə/（2回）",
+            "while you → /l/ が you の /j/ に先行（consonant+consonant）"
+          ]
+        },
+        {
+          "en": "They will be verifying the coordinates throughout the entire tournament.",
+          "ja": "彼らはトーナメント全体を通じて座標を確認し続けます。",
+          "ipa": "/ðeɪ wɪl bi ˈvɛrəfaɪɪŋ ðə koʊˈɔɹdənəts θruːˈaʊt ðə ɪnˈtaɪər ˈtʊrnəmənt/",
+          "kana": "ザイ ウィル ビ ベリファイイング ザ コーディネイツ スルーアウト ザ エンタイアー ターナメント",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bə/「ウィル ビ」",
+            "the は弱形 /ðə/（2回）",
+            "entire は /ɪnˈtaɪər/、tournament は /ˈtʊrnəmənt/（語末 /r/ が続く）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have verified",
+      "ipa": "/wɪl həv ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, she will have verified all the player permissions for the server.",
+          "ja": "明日までに、彼女はサーバーのすべてのプレイヤーパーミッションを確認しているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ | ʃi wɪl həv ˈvɛrəfaɪd ɔl ðə ˈpleɪər pərˈmɪʃənz fɔr ðə ˈsɝvɚ/",
+          "kana": "バイ トゥモロー、シー ウィル ハヴ ベリファイド オール ザ プレイアー パーミッションズ フォー ザ サーバー",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/「ウィル ハヴ」",
+            "all the → /l/ が the の /ð/ に先行（consonant+consonant）",
+            "the は弱形 /ðə/（2回）"
+          ]
+        },
+        {
+          "en": "We will have verified the entire fortress before the raid party arrives.",
+          "ja": "レイド党が到着する前に、私たちはその要塞全体を確認しているでしょう。",
+          "ipa": "/wi wɪl həv ˈvɛrəfaɪd ðə ɪnˈtaɪər ˈfɔrtəs bɪˈfɔr ðə ˈreɪd ˈpɑrti əˈraɪvz/",
+          "kana": "ウィ ウィル ハヴ ベリファイド ザ エンタイアー フォーティス ビフォー ザ レイド パーティ アライブズ",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/「ウィル ハヴ」",
+            "the は弱形 /ðə/（2回）",
+            "before the → before の語末 /r/ が the に続く「ビフォー ザ」"
+          ]
+        }
+      ]
     }
   ]
 }
