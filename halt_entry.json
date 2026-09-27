@@ -328,6 +328,198 @@
           "kana": "ザ バリアー ハド ビン ホルティング ムーブメント ファー トゥ ロング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has halted",
+      "ipa": "/hæz ˈhɔltəd/",
+      "examples": [
+        {
+          "en": "The farm has halted production after we saw the storage overflow warning.",
+          "ja": "ストレージのオーバーフロー警告を見た後、農場は生産を停止しました。",
+          "ipa": "[ðə fɑɹm həz ˈhɔltəd prəˈdʌkʃən ˈæftɚ wi sɔ ðə ˈstɔɹɪdʒ ˌoʊvɚˈfloʊ ˈwɔɹnɪŋ]",
+          "linking": [
+            "the の弱形 /ðə/ [ðə] ザ",
+            "has は弱形 /həz/ [həz] ハズ",
+            "halted の語末 /d/ が production の初頭 /p/ の前で未開放 [ˈhɔltəd̚ prəˈdʌkʃən] ホルティッド プロダクション",
+            "storage の語末 /dʒ/ が overflow の初頭 /oʊ/ に連結 [ˈstɔɹɪdʒ ˌoʊvɚˈfloʊ] ストレージ オーバーフロー"
+          ],
+          "kana": "ザ ファーム ハズ ホルティッド プロダクション アフター ウィ ソー ザ ストレージ オーバーフロー ウォーニング"
+        },
+        {
+          "en": "They have halted their mining expedition to return to base.",
+          "ja": "彼らは採掘遠征を停止して基地に戻ることにしました。",
+          "ipa": "[ðeɪ həv ˈhɔltəd ðɛɹ ˈmaɪnɪŋ ˌɛkspɪˈdɪʃən tə rɪˈtɝn tə beɪs]",
+          "linking": [
+            "have は弱形 /həv/ [həv] ハヴ；halted の語末 /d/ が their の初頭 /ð/ の前で未開放 [ˈhɔltəd̚ ðɛɹ] ホルティッド ザー",
+            "mining の語末 /ŋ/ が expedition の初頭 /ɛ/ に連結 [ˈmaɪnɪŋ ˌɛkspɪˈdɪʃən] マイニング エクスピディション",
+            "expedition の語末 /n/ が to の初頭 /t/ の前で未開放 [ɪˈdɪʃən̚ tə] ディション タ",
+            "to は弱形 /tə/ [tə] タ（2箇所で繰り返し）"
+          ],
+          "kana": "ザイ ハヴ ホルティッド ザー マイニング エクスピディション タ リターン タ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had halted",
+      "ipa": "/hæd ˈhɔltəd/",
+      "examples": [
+        {
+          "en": "By the time we reached the lever, the system had halted automatically.",
+          "ja": "レバーに到達した時には、システムは自動的に停止していました。",
+          "ipa": "[baɪ ðə taɪm wi ˈriːtʃt̚ ðə ˈlɛvɚ ðə ˈsɪstəm həd ˈhɔltəd ˌɔtəˈmætɪkli]",
+          "linking": [
+            "the の弱形 /ðə/ [ðə] ザ（複数箇所）",
+            "reached の語末 /t/ が the の初頭 /ð/ の前で未開放 [ˈriːtʃt̚ ðə] リーチット ザ",
+            "had は弱形 /həd/ [həd] ハド；halted の初頭 /h/ の前で /d/ は未開放 [həd̚ ˈhɔltəd] ハド ホルティッド",
+            "halted の語末 /d/ が automatically の初頭 /ɔ/ に連結 [ˈhɔltəd ˌɔtəˈmætɪkli] ホルティッド オートマティカリー"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチット ザ レバー ザ システム ハド ホルティッド オートマティカリー"
+        },
+        {
+          "en": "The mining cart had halted on the track before we could retrieve it.",
+          "ja": "採掘カートが線路上で停止していたため、私たちはそれを回収することができました。",
+          "ipa": "[ðə ˈmaɪnɪŋ kɑɹt̚ həd ˈhɔltəd ɑn ðə træk bɪˈfɔɹ wi kəd rɪˈtriːv ɪt̚]",
+          "linking": [
+            "the の弱形 /ðə/ [ðə] ザ",
+            "cart の語末 /t/ が had の初頭 /h/ の前で未開放 [kɑɹt̚ həd] カルッ ハド；had は弱形 /həd/",
+            "halted の語末 /d/ が on の初頭 /ɑ/ に連結 [ˈhɔltəd ɑn] ホルティッド オン",
+            "retrieve の語末 /v/ が it の初頭 /ɪ/ に連結し、it の語末 /t/ は未開放 [rɪˈtriːv ɪt̚] リトリーヴ イット"
+          ],
+          "kana": "ザ マイニング カルッ ハド ホルティッド オン ザ トラック ビフォア ウィー コッド リトリーヴ イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been halting",
+      "ipa": "/hæz bɪn ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone signal has been halting intermittently since the memory issue started.",
+          "ja": "メモリー問題が始まってから、レッドストーン信号は間欠的に停止しています。",
+          "ipa": "[ðə ˈrɛdˌstoʊn ˈsɪɡnəl̚ həz bɪn ˈhɔltɪŋ ˌɪntɚˈmɪtəntli sɪns̚ ðə ˈmɛməri ˈɪʃu ˈstɑɹtɪd]",
+          "linking": [
+            "the の弱形 /ðə/ [ðə] ザ",
+            "signal の語末 /l/ が has の初頭 /h/ の前で未開放 [ˈsɪɡnəl̚ həz] シグナル ハズ；has は弱形 /həz/",
+            "been は弱形 /bɪn/ [bɪn] ビン；halting の語末 /ŋ/ が intermittently の初頭 /ɪ/ に連結 [ˈhɔltɪŋ ˌɪntɚˈmɪtəntli] ホルティング インターミッテントリー",
+            "since の語末 /s/ が the の初頭 /ð/ の前で未開放 [sɪns̚ ðə] シンス ザ"
+          ],
+          "kana": "ザ レッドストーン シグナル ハズ ビン ホルティング インターミッテントリー シンス ザ メモリー イシュー スターティッド"
+        },
+        {
+          "en": "We have been halting the water flow periodically to maintain the farm's efficiency.",
+          "ja": "農場の効率を維持するために、水の流れを定期的に停止させています。",
+          "ipa": "[wi həv bɪn ˈhɔltɪŋ ðə ˈwɔtɚ floʊ ˌpɪəriˈɑdɪkli tə meɪnˈteɪn̚ ðə ˈfɑɹmz ɪˈfɪʃənsi]",
+          "linking": [
+            "have は弱形 /həv/ [həv] ハヴ；been は弱形 /bɪn/ [bɪn] ビン",
+            "halting の語末 /ŋ/ が the の初頭 /ð/ の前で未開放 [ˈhɔltɪŋ̚ ðə] ホルティング ザ",
+            "maintain の語末 /n/ が the の初頭 /ð/ の前で未開放 [meɪnˈteɪn̚ ðə] メインテイン ザ",
+            "farm's の語末 /z/ が efficiency の初頭 /ɪ/ に連結 [ˈfɑɹmz ɪˈfɪʃənsi] ファームズ エフィッシェンシー"
+          ],
+          "kana": "ウィ ハヴ ビン ホルティング ザ ウォター フロー ピアリアディカリー タ メインテイン ザ ファームズ エフィッシェンシー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will halt",
+      "ipa": "/wɪl ˈhɔlt/",
+      "examples": [
+        {
+          "en": "The admin will halt the server for maintenance after this event ends.",
+          "ja": "このイベント終了後、管理者がメンテナンスのためサーバーを停止します。",
+          "ipa": "[ðə ˈædmɪn wɪl ˈhɔlt̚ ðə ˈsɝvɚ fər ˈmeɪntənəns ˈæftɚ ðɪs ɪˈvɛnt ˈɛndz]",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "admin の語末 /n/ が will の初頭 /w/ の前で未開放 [ˈædmɪn̚ wɪl] アドミン ウィル",
+            "halt の語末 /t/ が the の初頭 /ð/ に連結 [ˈhɔlt̚ ðə] ホルッ ザ",
+            "event の語末 /t/ が ends の初頭 /ɛ/ に連結 [ɪˈvɛnt̚ ˈɛndz] イヴェント エンズ"
+          ],
+          "kana": "ザ アドミン ウィル ホルッ ザ サーバー ファー メインテナンス アフター ディス イヴェント エンズ"
+        },
+        {
+          "en": "I'll halt the redstone circuit if the temperature sensors spike too high.",
+          "ja": "温度センサーが高すぎる値を示したら、レッドストーン回路を停止させます。",
+          "ipa": "[aɪl ˈhɔlt̚ ðə ˈrɛdˌstoʊn ˈsɝkɪt̚ ɪf ðə ˈtɛmpərətʃɚ ˈsɛnsɚz spaɪk tu ˈhaɪ]",
+          "linking": [
+            "I'll は /aɪl/ [アイル]",
+            "halt の語末 /t/ が the の初頭 /ð/ に連結 [ˈhɔlt̚ ðə] ホルッ ザ",
+            "circuit の語末 /t/ が if の初頭 /ɪ/ に連結 [ˈsɝkɪt̚ ɪf] サーキット イフ",
+            "sensors の語末 /z/ が spike の初頭 /s/ の前で未開放 [ˈsɛnsɚz spaɪk] センサーズ スパイク"
+          ],
+          "kana": "アイル ホルッ ザ レッドストーン サーキット イフ ザ テンパラチャー センサーズ スパイク トゥ ハイ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be halting",
+      "ipa": "/wɪl bi ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The farm will be halting production when you arrive tomorrow.",
+          "ja": "明日到着した時、農場は生産を停止させている最中です。",
+          "ipa": "[ðə fɑɹm wɪl bi ˈhɔltɪŋ prəˈdʌkʃən wɛn ju əˈraɪv təˈmɑroʊ]",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "farm の語末 /m/ が will の初頭 /w/ に連結 [fɑɹm wɪl] ファーム ウィル",
+            "halting の語末 /ŋ/ が production の初頭 /p/ の前で未開放 [ˈhɔltɪŋ̚ prəˈdʌkʃən] ホルティング プロダクション",
+            "when の語末 /n/ が you の初頭 /j/ の前で未開放；you は弱形 /jə/ [ウェン ヤ]"
+          ],
+          "kana": "ザ ファーム ウィル ビー ホルティング プロダクション ウェン ヤ アライブ トゥモロウ"
+        },
+        {
+          "en": "We'll be halting the water flow while repairs are underway.",
+          "ja": "修理中、水流を停止させている状態になります。",
+          "ipa": "[wil bi ˈhɔltɪŋ ðə ˈwɔtɚ floʊ waɪl rɪˈpɛɹz ɚ ˌʌndɚˈweɪ]",
+          "linking": [
+            "We'll は /wil/ [ウィル]",
+            "be は弱形 /bɪ/ [ビー]",
+            "halting の語末 /ŋ/ が the の初頭 /ð/ に連結 [ˈhɔltɪŋ ðə] ホルティング ザ",
+            "water の語末 /ɚ/ が flow の初頭 /f/ に連結 [ˈwɔtɚ floʊ] ウォーター フロー；while の語末 /l/ が repairs の初頭 /r/ に連結 [waɪl rɪˈpɛɹz] ワイル リペアーズ"
+          ],
+          "kana": "ウィル ビー ホルティング ザ ウォーター フロー ワイル リペアーズ ア アンダーウェイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have halted",
+      "ipa": "/wɪl həv ˈhɔltəd/",
+      "examples": [
+        {
+          "en": "By sunrise, the admin will have halted all automated systems for the night maintenance.",
+          "ja": "日の出までに、管理者は夜間メンテナンスのためすべての自動システムを停止させているはずです。",
+          "ipa": "[baɪ ˈsʌnˌraɪz ðə ˈædmɪn wɪl həv ˈhɔltəd ɔl ˈɔtəˌmeɪtɪd ˈsɪstəmz fər ðə ˈnaɪt ˈmeɪntənəns]",
+          "linking": [
+            "by の語末 /aɪ/ が sunrise の初頭 /s/ に連結 [baɪ ˈsʌnˌraɪz] バイ サンライズ；sunrise の語末 /z/ が the の初頭 /ð/ に連結 [ˈsʌnˌraɪz ðə] サンライズ ザ",
+            "admin の語末 /n/ が will の初頭 /w/ の前で未開放 [ˈædmɪn̚ wɪl] アドミン ウィル",
+            "have は弱形 /həv/ [ハヴ]",
+            "halted の語末 /d/ が all の初頭 /ɔ/ に連結 [ˈhɔltəd ɔl] ホルティッド オール"
+          ],
+          "kana": "バイ サンライズ ザ アドミン ウィル ハヴ ホルティッド オール オートメイティッド システムズ ファー ザ ナイト メインテナンス"
+        },
+        {
+          "en": "They will have halted the mining operation before the cave collapse spreads further.",
+          "ja": "洞窟の崩落がさらに広がる前に、採掘操作を停止させているはずです。",
+          "ipa": "[ðeɪ wɪl həv ˈhɔltəd ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən bɪˈfɔɹ ðə keɪv kəˈlæps sprɛdz ˈfɝðɚ]",
+          "linking": [
+            "They の語末 /eɪ/ が will の初頭 /w/ に連結 [ðeɪ wɪl] ザイ ウィル",
+            "have は弱形 /həv/ [ハヴ]",
+            "halted の語末 /d/ が the の初頭 /ð/ に連結 [ˈhɔltəd ðə] ホルティッド ザ",
+            "mining の語末 /ŋ/ が operation の初頭 /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑpəˈreɪʃən] マイニング オペレーション；before の語末 /ɹ/ が the の初頭 /ð/ に連結 [bɪˈfɔɹ ðə] ビフォア ザ"
+          ],
+          "kana": "ザイ ウィル ハヴ ホルティッド ザ マイニング オペレーション ビフォア ザ ケイブ コラップス スプレッズ ファーザー"
+        }
+      ]
     }
   ],
   "tags": [
