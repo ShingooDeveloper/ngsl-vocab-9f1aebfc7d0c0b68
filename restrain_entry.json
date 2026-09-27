@@ -389,6 +389,96 @@
           "kana": "ザイ ハヴ ビン リストレイニング ザ ゾンビ スポーナー アウトプット バイ ブロッキング スポウン エリアーズ ウィス スラブズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will restrain",
+      "ipa": "/wɪl rɪˈstreɪn/",
+      "examples": [
+        {
+          "en": "This reinforced fence will restrain the horses from stampeding toward the nether portal.",
+          "ja": "この強化されたフェンスは、馬がネザーポータル方向に突進するのを抑制するでしょう。",
+          "ipa": "/ðɪs ɹɪnˈfɔrst ˈfɛns wɪl rɪˈstreɪn ðə ˈhɔɹsɪz frəm stænˈpidɪŋ təˈwɔrd ðə ˈnɛðɚ ˈpoʊrtəl/",
+          "kana": "ディス リンフォースド フェンス ウィル リストレイン ザ ホーシーズ フラム スタンピーディング タワード ザ ネザー ポーターレル",
+          "linking": [
+            "reinforced fence - /st/ が /f/ に続く子音+子音で未開放 [ˈfɛns̚]「フェンス」",
+            "will restrain - will は弱形 [wɪl̚]、restrain の /r/ に続く子音+子音のため未開放 [wɪl̚ rɪˈstreɪn]「ウィル リストレイン」",
+            "the horses - the は弱形 /ðə/「ザ」、horses の /h/ に続く"
+          ]
+        },
+        {
+          "en": "We will restrain the water flow with careful block placement during tomorrow's construction work.",
+          "ja": "明日の建築作業中に、私たちは慎重なブロック配置で水の流れを抑制するでしょう。",
+          "ipa": "/wi wɪl rɪˈstreɪn ðə ˈwɔtɚ floʊ wɪð ˈkɛɹfəl blɑk ˈpleɪsmənt ˈdɝɪŋ təˈmɑɹoʊz kənˈstrʌkʃən ˈwɝk/",
+          "kana": "ウィー ウィル リストレイン ザ ウォータ フロウ ウィス ケアフル ブラック プレイスメント ジューリング ターモロウズ コンストラクション ワーク",
+          "linking": [
+            "will restrain - will は弱形 [wɪl̚]、restrain の /r/ に続く子音+子音のため未開放 [wɪl̚ rɪˈstreɪn]「ウィル リストレイン」",
+            "the water - the は弱形 /ðə/「ザ」、water の /w/ に続く",
+            "with careful - with は弱形 /wɪð/「ウィス」、careful の /k/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be restraining",
+      "ipa": "/wɪl bi rɪˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The containment crew will be restraining the wither while we set up the arena barriers.",
+          "ja": "私たちが闘技場のバリアを設定している間、隔離チームはウィザーを抑制し続けるでしょう。",
+          "ipa": "/ðə kənˈteɪnmənt kru wɪl bi rɪˈstreɪnɪŋ ðə ˈwɪðɚ ˈwaɪl wi sɛt ˈʌp ðə əˈrinə ˈbɛɹiɚz/",
+          "kana": "ザ コンテインメント クルー ウィル ビ リストレイニング ザ ウィザー ホワイル ウィー セット アップ ザ アリーナ ベリアーズ",
+          "linking": [
+            "will be - will は弱形 [wɪl̚]、be は弱形 [bi] で子音+子音のため未開放 [wɪl̚ bi]「ウィル ビ」",
+            "be restraining - be は弱形 [bi̚]、restraining の /r/ に続く子音+子音のため未開放 [bi̚ rɪˈstreɪnɪŋ]「ビ リストレイニング」",
+            "the wither - the は弱形 /ðə/「ザ」、wither の /w/ に続く"
+          ]
+        },
+        {
+          "en": "I'll be restraining the lava flow throughout the cave exploration to keep the team safe.",
+          "ja": "チームを安全に保つため、洞窟探索中ずっと溶岩の流れを抑制し続けるでしょう。",
+          "ipa": "/aɪl bi rɪˈstreɪnɪŋ ðə ˈlavə floʊ θruˈaʊt ðə keɪv ˌɛkspləˈreɪʃən tu ˈkip ðə tim ˈseɪf/",
+          "kana": "アイル ビ リストレイニング ザ ラーヴァ フロウ スルーアウト ザ ケイヴ エクスプロレーション トゥー キープ ザ ティーム セイフ",
+          "linking": [
+            "I'll be - I'll (I will) は縮約 /aɪl̚/、be は弱形 [bi] で子音+子音のため未開放 [aɪl̚ bi]「アイル ビ」",
+            "be restraining - be は弱形 [bi̚]、restraining の /r/ に続く子音+子音のため未開放 [bi̚ rɪˈstreɪnɪŋ]「ビ リストレイニング」",
+            "lava flow - lava の語末 /ə/ が flow の /f/ に続く（母音+子音で連結なし）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have restrained",
+      "ipa": "/wɪl həv rɪˈstreɪnd/",
+      "examples": [
+        {
+          "en": "By midnight, we will have restrained all the mobs in the valley to prepare for the next phase.",
+          "ja": "真夜中までに、次のフェーズに向けて準備するために、谷のすべてのモブを抑制してしまっているでしょう。",
+          "ipa": "/baɪ ˈmɪdˌnaɪt wi wɪl həv rɪˈstreɪnd ˈɔl ðə moʊbz ɪn ðə ˈvæli tu prɪˈpɛr fɚ ðə ˈnɛkst feɪz/",
+          "kana": "バイ ミッドナイト ウィー ウィル ハヴ リストレインド オール ザ モウブズ イン ザ ヴァリー トゥー プリペア ファー ザ ネクスト フェーズ",
+          "linking": [
+            "will have - will は弱形 [wɪl̚]、have は弱形 [həv] で子音+子音のため未開放 [wɪl̚ həv]「ウィル ハヴ」",
+            "have restrained - have は弱形 [həv̚]、restrained の /r/ に続く子音+子音のため未開放 [həv̚ rɪˈstreɪnd]「ハヴ リストレインド」",
+            "the mobs - the は弱形 /ðə/「ザ」、mobs の /m/ に続く"
+          ]
+        },
+        {
+          "en": "They will have restrained the creeper swarm by the time the sun sets tomorrow.",
+          "ja": "明日太陽が沈むころには、クリーパーの群れを抑制してしまっているでしょう。",
+          "ipa": "/ðeɪ wɪl həv rɪˈstreɪnd ðə ˈkripɚ swɔrm baɪ ðə ˈtaɪm ðə sʌn sɛts təˈmɑɹoʊ/",
+          "kana": "ザイ ウィル ハヴ リストレインド ザ クリーパー スウォーム バイ ザ タイム ザ サン セッツ ターモロウ",
+          "linking": [
+            "will have - will は弱形 [wɪl̚]、have は弱形 [həv] で子音+子音のため未開放 [wɪl̚ həv]「ウィル ハヴ」",
+            "have restrained - have は弱形 [həv̚]、restrained の /r/ に続く子音+子音のため未開放 [həv̚ rɪˈstreɪnd]「ハヴ リストレインド」",
+            "the creeper - the は弱形 /ðə/「ザ」、creeper の /k/ に続く"
+          ]
+        }
+      ]
     }
   ]
 }
