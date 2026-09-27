@@ -378,6 +378,103 @@
           "kana": "ウィ ハド ビン クラミング リソーシズ イントゥ ザ シェルター オール ウィック ウェン ザ ストーム ヒット"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has crammed",
+      "ipa": "/həz ˈkræmd/",
+      "examples": [
+        {
+          "en": "She has crammed so many items into the storage that we can barely close the chest.",
+          "ja": "彼女はストレージにこんなにたくさんのアイテムを詰め込んだので、チェストをほとんど閉じられません。",
+          "ipa": "/ʃi həz ˈkræmd soʊ ˈmɛni ˈaɪtəmz ˈɪntu ðə ˈstɔrɪdʒ ðæt wi kən ˈbɛrli ˈkloʊz ðə tʃɛst/",
+          "linking": [
+            "has は弱形 /həz/、has の z が crammed の k に続く（子音+子音、連結なし）",
+            "crammed の d が so に連結 [ˈkræmd soʊ] クラムド ソウ",
+            "into の o が the に弱化 [ˈɪntu ðə] インチュ ザ",
+            "barely の r が close に連結 [ˈbɛrli ˈkloʊz] ベアリー クロウズ"
+          ],
+          "kana": "シー ハズ クラムド ソウ メニー アイテムズ イントゥ ザ ストレッジ ザット ウィ カン ベアリー クロウズ ザ チェスト"
+        },
+        {
+          "en": "The players have crammed their base with decorations, making it look incredible.",
+          "ja": "プレイヤーたちはベースを装飾で詰め込んで、それを信じられないほど美しく見せています。",
+          "ipa": "/ðə ˈpleɪərz həv ˈkræmd ðɛr ˈbeɪs wɪð ˌdɛkəˈreɪʃənz ˈmeɪkɪŋ ɪt ˈlʊk ɪnˈkrɛdəbəl/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "players の z が have に連結 [ˈpleɪərz həv] プレイヤーズ ハヴ",
+            "have は弱形 /həv/",
+            "crammed の d が their に連結 [ˈkræmd ðɛr] クラムド ザイヤー",
+            "making の ŋ が it に未開放で続く [ˈmeɪkɪŋ ɪt] メイキング イット、it の t が look に未開放で続く [ɪt ˈlʊk] イット ルック"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ クラムド ザイヤー ベイス ウィズ デコレーションズ メイキング イット ルック インクレディブル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had crammed",
+      "ipa": "/həd ˈkræmd/",
+      "examples": [
+        {
+          "en": "By the time the raid started, we had crammed all our best weapons into the vault.",
+          "ja": "レイドが始まるまでに、私たちは最高の武器すべてを金庫に詰め込んでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd ˈstɑrtɪd | wi həd ˈkræmd ɔːl aʊər ˈbɛst ˈwɛpənz ˈɪntu ðə vɔlt/",
+          "linking": [
+            "by の y が the に連結 [baɪ ðə] バイ ザ",
+            "time の m が the に続く（子音+子音、連結なし）",
+            "the は弱形 /ðə/",
+            "raid の d が started に連結 [ˈreɪd ˈstɑrtɪd] レイド スターティッド、had は弱形 /həd/、d が crammed に未開放で続く [həd ˈkræmd] ハド クラムド"
+          ],
+          "kana": "バイ ザ タイム ザ レイド スターティッド、ウィ ハド クラムド オール アワー ベスト ウェポンズ イントゥ ザ ヴォルト"
+        },
+        {
+          "en": "After they had crammed everything into the chest, the server crashed unexpectedly.",
+          "ja": "彼らがすべてをチェストに詰め込んだ後、サーバーが予期せずクラッシュしました。",
+          "ipa": "/ˈæftər ðeɪ həd ˈkræmd ˈɛvriθɪŋ ˈɪntu ðə tʃɛst | ðə ˈsɝvər kræʃt ˌʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "after の r が they に連結 [ˈæftər ðeɪ] アフター ザイ",
+            "had は弱形 /həd/、d が crammed に未開放で続く [həd ˈkræmd] ハド クラムド",
+            "crammed の d が everything に連結 [ˈkræmd ˈɛvriθɪŋ] クラムド エヴリシング",
+            "into の o が the に弱化 [ˈɪntu ðə] インチュ ザ、server の r が crashed に連結 [ˈsɝvər kræʃt] サーバー クラッシュト"
+          ],
+          "kana": "アフター ザイ ハド クラムド エヴリシング イントゥ ザ チェスト、ザ サーバー クラッシュド アンイクスペクティッドリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been cramming",
+      "ipa": "/həz bɪn ˈkræmɪŋ/",
+      "examples": [
+        {
+          "en": "She has been cramming supplies into the base all afternoon, and she's still going.",
+          "ja": "彼女は午後ずっとベースに物資を詰め込んでいて、まだ続いています。",
+          "ipa": "/ʃi həz bɪn ˈkræmɪŋ səˈplaɪz ˈɪntu ðə ˈbeɪs ɔːl ˌæftərˈnun | ənd ʃiz ˈstɪl ˈɡoʊɪŋ/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/、n が cramming に連結 [bɪn ˈkræmɪŋ] ビン クラミング",
+            "cramming の ŋ が supplies に未開放で続く [ˈkræmɪŋ səˈplaɪz] クラミング サプライズ",
+            "into の o が the に弱化 [ˈɪntu ðə] インチュ ザ、afternoon の n が and に連結 [ˌæftərˈnun ənd] アフターヌーン アンド、still の l が going に連結 [ˈstɪl ˈɡoʊɪŋ] スティル ゴーイング"
+          ],
+          "kana": "シー ハズ ビン クラミング サプライズ イントゥ ザ ベイス オール アフターヌーン、アンド シーズ スティル ゴーイング"
+        },
+        {
+          "en": "We have been cramming resources into the mining facility since early morning.",
+          "ja": "私たちは早朝からマイニング施設にリソースを詰め込んでいます。",
+          "ipa": "/wi həv bɪn ˈkræmɪŋ rɪˈsɔrsəz ˈɪntu ðə ˈmaɪnɪŋ fəˈsɪləti sɪns ˈɜrli ˈmɔrnɪŋ/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/、n が cramming に連結 [bɪn ˈkræmɪŋ] ビン クラミング",
+            "cramming の ŋ が resources に未開放で続く [ˈkræmɪŋ rɪˈsɔrsəz] クラミング リソーシズ",
+            "into の o が the に弱化 [ˈɪntu ðə] インチュ ザ、facility と since は /fəˈsɪləti sɪns/（連結なし）"
+          ],
+          "kana": "ウィ ハヴ ビン クラミング リソーシズ イントゥ ザ マイニング ファシリティー シンス アーリー モーニング"
+        }
+      ]
     }
   ]
 }
