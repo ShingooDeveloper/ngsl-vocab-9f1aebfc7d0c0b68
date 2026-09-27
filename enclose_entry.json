@@ -396,6 +396,102 @@
           "kana": "マイ フレンド ハズ ビン インクロウジング ハー クリエイティヴ モウド マンション ファー ウィークス ナウ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will enclose",
+      "ipa": "/wɪl ɪnˈkloʊz/",
+      "examples": [
+        {
+          "en": "We will enclose the base with reinforced walls next week.",
+          "ja": "来週、強化された壁でベースを囲みます。",
+          "ipa": "/wi wɪl ɪnˈkloʊz ðə beɪs wɪð ɹiɪnˈfɔɹst wɔlz nɛkst wik/",
+          "kana": "ウィー ウィル インクロウズ ザ ベイス ウィズ リインフォースト ウォールズ ネクスト ウィーク",
+          "linking": [
+            "will enclose で will は弱形 /wɪl/ ウィル に弱化、enclose の初頭に続く（子音+子音の未開放）",
+            "enclose the で enclose の語末子音 /z/ が子音 /ð/（摩擦音）に連結 [ɪnˈkloʊz ðə] インクロウズ ザ",
+            "the base で the は弱形 /ðə/ ザ に弱化",
+            "with reinforced で with は弱形 /wɪð/ ウィズ に弱化"
+          ]
+        },
+        {
+          "en": "I'll enclose the treasure vault before the server resets.",
+          "ja": "サーバーがリセットする前に、宝の金庫を囲みます。",
+          "ipa": "/aɪl ɪnˈkloʊz ðə ˈtɹɛʒɚ vɔlt bɪˈfɔɹ ðə ˈsɚvɚ ˈɹɛsɛts/",
+          "kana": "アイル インクロウズ ザ トレジャー ヴォールト ビフォア ザ サーバー リセッツ",
+          "linking": [
+            "I'll enclose で I'll が /aɪl/、enclose の初頭 /ɪ/ に続く（子音+子音の未開放）",
+            "enclose the で enclose の語末子音 /z/ が子音 /ð/（摩擦音）に連結 [ɪnˈkloʊz ðə] インクロウズ ザ",
+            "the treasure で the は弱形 /ðə/ ザ に弱化",
+            "before the で before が /bɪˈfɔɹ/、the は弱形 /ðə/ ザ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be enclosing",
+      "ipa": "/wɪl bi ɪnˈkloʊzɪŋ/",
+      "examples": [
+        {
+          "en": "While you're gathering materials, we will be enclosing the perimeter with stone.",
+          "ja": "あなたが材料を集めている間、私たちは石で周辺を囲みます。",
+          "ipa": "/waɪl jɔɹ ˈɡæðɚɪŋ məˈtɪɹɪəlz wi wɪl bi ɪnˈkloʊzɪŋ ðə pəˈɹɪmɪtɚ wɪð stoʊn/",
+          "kana": "ホワイル ユアー ギャザリング マテリアルズ ウィー ウィル ビー インクロウジング ザ パリメター ウィズ ストウン",
+          "linking": [
+            "will be で will は弱形 /wɪl/ ウィル、be は弱形 /bi/ ビー に弱化して enclosing に続く",
+            "be enclosing で be の語末母音が enclosing の初頭に続く [bi ɪnˈkloʊzɪŋ] ビー インクロウジング",
+            "enclosing the で enclosing の語末 /ŋ/ が子音 /ð/（摩擦音）に連結 [ɪnˈkloʊzɪŋ ðə] インクロウジング ザ",
+            "the perimeter で the は弱形 /ðə/ ザ に弱化"
+          ]
+        },
+        {
+          "en": "They'll be enclosing the nether portal room all afternoon.",
+          "ja": "彼らは午後中、ネザーポータルルームを囲んでいるでしょう。",
+          "ipa": "/ðeɪl bi ɪnˈkloʊzɪŋ ðə ˈnɛðɚ ˈpoɹtəl rum ɔl ˌæftɚˈnun/",
+          "kana": "ザイル ビー インクロウジング ザ ネザー ポーラル ルーム オール アフターヌーン",
+          "linking": [
+            "They'll be で They'll が /ðeɪl/、be は弱形 /bi/ ビー に弱化",
+            "be enclosing で be の語末母音が enclosing の初頭に続く",
+            "enclosing the で enclosing の語末 /ŋ/ が子音 /ð/（摩擦音）に連結 [ɪnˈkloʊzɪŋ ðə] インクロウジング ザ",
+            "the nether で the は弱形 /ðə/ ザ に弱化、nether の初頭に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have enclosed",
+      "ipa": "/wɪl həv ɪnˈkloʊzd/",
+      "examples": [
+        {
+          "en": "By next month, we will have enclosed the entire fortress perimeter.",
+          "ja": "来月までに、私たちは要塞全体の周辺を囲んでいるでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ wi wɪl həv ɪnˈkloʊzd ði ɪnˈtaɪɚ ˈfɔɹtɹɪs pəˈɹɪmɪtɚ/",
+          "kana": "バイ ネクスト マンス ウィー ウィル ハヴ インクロウズド ザ エンタイアー フォートレス パリメター",
+          "linking": [
+            "will have で will は弱形 /wɪl/ ウィル、have は弱形 /həv/ ハヴ に弱化して enclosed に連結",
+            "have enclosed で have の語末子音 /v/ が母音 /ɪ/ に連結 [həv ɪnˈkloʊzd] ハヴ インクロウズド",
+            "enclosed the で enclosed の語末子音 /d/ が子音 /ð/（摩擦音）に連結 [ɪnˈkloʊzd ðə] インクロウズド ザ",
+            "the entire で the は弱形 /ðə/ ザ に弱化、entire の初頭に続く"
+          ]
+        },
+        {
+          "en": "She will have enclosed her creative mode mansion before the new season arrives.",
+          "ja": "新しいシーズンが始まる前に、彼女はクリエイティブモードのマンションを囲んでいるでしょう。",
+          "ipa": "/ʃi wɪl həv ɪnˈkloʊzd hɚ kəˈreɪtɪv moʊd məˈnʃən bɪˈfɔɹ ðə ˈnu ˈsizən əˈraɪvz/",
+          "kana": "シー ウィル ハヴ インクロウズド ハー クリエイティヴ モウド マンション ビフォア ザ ニュー シーズン アライヴズ",
+          "linking": [
+            "She will で She の語末 /i/ が子音に続き、will は弱形 /wɪl/ ウィル に弱化",
+            "will have で will は弱形 /wɪl/ ウィル、have は弱形 /həv/ ハヴ に弱化して enclosed に連結",
+            "have enclosed で have の語末子音 /v/ が母音 /ɪ/ に連結 [həv ɪnˈkloʊzd] ハヴ インクロウズド",
+            "enclosed her で enclosed の語末子音 /d/ が母音 /h/ に連結 [ɪnˈkloʊzd hɚ] インクロウズド ハー"
+          ]
+        }
+      ]
     }
   ]
 }

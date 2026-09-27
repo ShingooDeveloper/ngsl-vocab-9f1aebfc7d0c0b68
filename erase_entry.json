@@ -277,6 +277,195 @@
           "kana": "ザイ ハド ビン イレイシング コラプティッド デイタ ホェン ザ オートマティック バックアップ ワズ トリガード"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has erased",
+      "ipa": "/həz ɪˈreɪst/",
+      "examples": [
+        {
+          "en": "She has completely erased her old castle, so now she's starting fresh with a modern design.",
+          "ja": "彼女は古い城を完全に消去したため、今はモダンなデザインで新たに始めています。",
+          "ipa": "/ʃi həz kəmˈpliːtli ɪˈreɪst hɚ oʊld ˈkæsəl, soʊ naʊ ʃiz ˈstɑrtɪŋ frɛʃ wɪð ə ˈmɑdərn dɪˈzaɪn/",
+          "linking": [
+            "has は弱形 /həz/ ハズ、completely の初頭 /k/ に子音+子音で続く",
+            "erased her → erased の語末 /t/ が her の初頭 /h/ に続く（子音+子音）[ɪˈreɪst hɚ] イレイスト ハー",
+            "with a → with の語末 /ð/ が a の弱形 /ə/ に連結 [wɪð ə] ウィザ"
+          ],
+          "kana": "シー ハズ コンプリートリー イレイスト ハー オウルド キャッスル ソウ ナウ シーズ スターティング フレッシュ ウィザ ア モダーン ディザイン"
+        },
+        {
+          "en": "I have erased all the mistake blocks, so the building looks flawless now.",
+          "ja": "すべての間違ったブロックを消去したため、建物は今完璧に見えます。",
+          "ipa": "/aɪ həv ɪˈreɪst ɔl ðə mɪˈsteɪk blɑks, soʊ ðə ˈbɪldɪŋ lʊks ˈflɔˌlɪs naʊ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、erased の初頭 /ɪ/ に子音+母音で続く [həv ɪˈreɪst] ハヴ イレイスト",
+            "all the → all の語末 /l/ が the の弱形 /ðə/ に続く（子音+子音）[ɔl ðə] オール ザ",
+            "building looks → building の語末 /ŋ/ が looks の初頭 /l/ に続く（子音+子音）"
+          ],
+          "kana": "アイ ハヴ イレイスト オール ザ ミステイク ブロックス ソウ ザ ビルディング ルックス フロウレス ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had erased",
+      "ipa": "/həd ɪˈreɪst/",
+      "examples": [
+        {
+          "en": "By the time the server restarted, he had already erased all the griefed terrain from the previous week.",
+          "ja": "サーバーが再起動されるまでに、彼は前週のグリーフされた地形をすべて消去していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɝvər riːˈstɑrtəd, hi həd ˈɔlrɛdi ɪˈreɪst ɔl ðə ɡrift ˈtɛreɪn frəm ðə ˈprivəs ˈwik/",
+          "linking": [
+            "had already → had は弱形 /həd/ ハド、already の初頭 /ɔ/ に子音+母音で続く [həd ˈɔlrɛdi] ハド オールレディ",
+            "erased all → erased の語末 /t/ が all の初頭 /ɔ/ に連結 [ɪˈreɪst ɔl] イレイスト オール",
+            "all the → all の語末 /l/ が the の弱形 /ðə/ に続く（子音+子音）[ɔl ðə] オール ザ",
+            "from the → from の弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー リースターティッド ヒー ハド オールレディ イレイスト オール ザ グリフト テレイン フラム ザ プリーヴィアス ウィーク"
+        },
+        {
+          "en": "She had erased the old castle before the world backup was created by the system.",
+          "ja": "システムによってワールドバックアップが作成される前に、彼女は古い城を消去していました。",
+          "ipa": "/ʃi həd ɪˈreɪst ðə oʊld ˈkæsəl bɪˈfɔr ðə ˈwɝld ˈbækʌp wəz kriˈeɪtəd baɪ ðə ˈsɪstəm/",
+          "linking": [
+            "had erased → had は弱形 /həd/ ハド、erased の初頭 /ɪ/ に子音+母音で続く [həd ɪˈreɪst] ハド イレイスト",
+            "erased the → erased の語末 /t/ が the の弱形 /ðə/ に続く（子音+子音）[ɪˈreɪst ðə] イレイスト ザ",
+            "before the → before の語末 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "was は弱形 /wəz/ ワズ"
+          ],
+          "kana": "シー ハド イレイスト ザ オウルド キャッスル ビフォア ザ ワールド バックアップ ワズ クリエイティッド バイ ザ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been erasing",
+      "ipa": "/həz bɪn ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We have been erasing this enormous mountain for hours to create space for our new underground city.",
+          "ja": "新しい地下都市を作るために、この巨大な山を何時間も消去し続けています。",
+          "ipa": "/wi həv bɪn ɪˈreɪsɪŋ ðɪs ɪˈnɔrməs ˈmaʊntən fɔr ˈaʊərz tu kriˈeɪt speɪs fɔr ˈaʊr ˈnjuː ˌʌndərˈɡraʊnd ˈsɪti/",
+          "linking": [
+            "have been → have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン [həv bɪn] ハヴ ビン",
+            "been erasing → been の語末 /n/ が erasing の初頭 /ɪ/ に子音+母音で続く [bɪn ɪˈreɪsɪŋ] ビン イレイシング",
+            "this enormous → this の語末 /s/ が enormous の初頭 /ɪ/ に続く（子音+母音）",
+            "for hours → for は弱形 /fɔr/ フォア、hours の初頭 /ˈaʊ/ に連結 [fɔr ˈaʊərz] フォア アワーズ",
+            "for our → for は弱形 /fɔr/ フォア、our の初頭 /ˈaʊ/ に連結 [fɔr ˈaʊr] フォア アワー"
+          ],
+          "kana": "ウィ ハヴ ビン イレイシング ディス イノアマス マウンテン フォア アワーズ トゥ クリエイト スペイス フォア アワー ニュー アンダーグラウンド シティ"
+        },
+        {
+          "en": "He has been erasing corrupted blocks ever since the server maintenance started this morning.",
+          "ja": "今朝サーバーメンテナンスが始まった時以来、彼は破損したブロックを消去し続けています。",
+          "ipa": "/hi həz bɪn ɪˈreɪsɪŋ kəˈrʌptəd blɑks ˈɛvər sɪns ðə ˈsɝvər ˈmeɪntənəns ˈstɑrtəd ðɪs ˈmɔrnɪŋ/",
+          "linking": [
+            "has been → has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン [həz bɪn] ハズ ビン",
+            "been erasing → been の語末 /n/ が erasing の初頭 /ɪ/ に子音+母音で続く [bɪn ɪˈreɪsɪŋ] ビン イレイシング",
+            "corrupted blocks → corrupted の語末 /d/ が blocks の初頭 /b/ に続く（子音+子音）",
+            "since the → the は弱形 /ðə/ ザ、server の初頭 /s/ に続く"
+          ],
+          "kana": "ヒー ハズ ビン イレイシング コラプティッド ブロックス エヴァー シンス ザ サーバー メインテナンス スターティッド ディス モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will erase",
+      "ipa": "/wɪl ɪˈreɪs/",
+      "examples": [
+        {
+          "en": "I will erase these error blocks and rebuild the structure correctly.",
+          "ja": "このエラーブロックを消して、構造物を正しく再構築します。",
+          "ipa": "/aɪ wɪl ɪˈreɪs ðiz ˈɛrər blɑks ənd rɪˈbɪld ðə ˈstrʌktʃər kəˈrɛktli/",
+          "linking": [
+            "will erase → will の語末 /l/ が erase の /ɪ/ に連結 [wɪl ɪˈreɪs] ウィル イレーズ",
+            "error blocks → error の語末 /r/ が blocks の /b/ に続く（子音+子音）",
+            "and rebuild → and は弱形 /ənd/、rebuild の /r/ に続く"
+          ],
+          "kana": "アイ ウィル イレーズ ディーズ エラー ブロックス アンド リビルド ザ ストラクチャー コレクトリー"
+        },
+        {
+          "en": "Once the update finishes, the system will erase all corrupted chunks automatically.",
+          "ja": "アップデートが終わったら、システムは破損したチャンクをすべて自動的に消去します。",
+          "ipa": "/wʌns ðə ˈʌpdeɪt ˈfɪnɪʃɪz, ðə ˈsɪstəm wɪl ɪˈreɪs ɔl kəˈrʌptəd tʃʌŋks ˌɔtəˈmætɪkli/",
+          "linking": [
+            "system will → system の語末 /m/ が will の /w/ に続く（子音+子音）",
+            "will erase → will の語末 /l/ が erase の /ɪ/ に連結 [wɪl ɪˈreɪs] ウィル イレーズ",
+            "all corrupted → all の語末 /l/ が corrupted の /k/ に続く（子音+子音）"
+          ],
+          "kana": "ワンス ザ アップデイト フィニッシーズ ザ システム ウィル イレーズ オール コラプティッド チャングクス オートマティカリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be erasing",
+      "ipa": "/wɪl bi ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be erasing the mountain all morning to make room for our new base.",
+          "ja": "新しいベースのためにスペースを作るために、朝中山を消去しています。",
+          "ipa": "/wil bi ɪˈreɪsɪŋ ðə ˈmaʊntən ɔl ˈmɔrnɪŋ tu meɪk rum fɔr ˈaʊr ˈnju ˈbeɪs/",
+          "linking": [
+            "we'll be → we'll は縮約形 /wil/、be の /b/ に続く（子音+子音）[wil bi] ウィル ビー",
+            "the mountain → the は弱形 /ðə/、mountain の /m/ に続く",
+            "for our → for は弱形 /fɔr/、our の /aʊ/ に連結 [fɔr ˈaʊr] フォア アワー",
+            "to make → to は弱形 /tə/「トゥ」"
+          ],
+          "kana": "ウィル ビー イレイシング ザ マウンテン オール モーニング トゥ メイク ルーム フォア アワー ニュー ベイス"
+        },
+        {
+          "en": "She'll be erasing the griefed area while we prepare the new design together.",
+          "ja": "私たちが一緒に新しいデザインを準備している間に、彼女はグリーフされた領域を消去します。",
+          "ipa": "/ʃil bi ɪˈreɪsɪŋ ðə ɡrift ˈɛriə waɪl wi prɪˈpɛr ðə ˈnju dɪˈzaɪn təˈɡɛðər/",
+          "linking": [
+            "she'll be → she'll は縮約形 /ʃil/、be の /b/ に続く（子音+子音）[ʃil bi] シール ビー",
+            "griefed area → area の語末 /ə/ が次の語に続く（母音+母音では連結なし）",
+            "the new → the は弱形 /ðə/、new の /n/ に続く（子音+子音）",
+            "together は弱形要素あり /təˈɡɛðər/"
+          ],
+          "kana": "シール ビー イレイシング ザ グリフト エリア ホァイル ウィ プリペア ザ ニュー ディザイン トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have erased",
+      "ipa": "/wɪl həv ɪˈreɪst/",
+      "examples": [
+        {
+          "en": "I will have erased all the mistake blocks by the time you log in tomorrow.",
+          "ja": "明日あなたがログインするまでに、すべての間違ったブロックを消去しているでしょう。",
+          "ipa": "/aɪ wɪl həv ɪˈreɪst ɔl ðə mɪˈsteɪk blɑks baɪ ðə ˈtaɪm ju lɑg ɪn təˈmɑroʊ/",
+          "linking": [
+            "will have → will の語末 /l/ が have の弱形 /həv/ に続く [wɪl həv] ウィル ハヴ",
+            "erased all → erased の語末 /t/ が all の /ɔ/ に連結 [ɪˈreɪst ɔl] イレイスト オール",
+            "all the → all の語末 /l/ が the の弱形 /ðə/ に続く [ɔl ðə] オール ザ",
+            "by the → the は弱形 /ðə/ ザ、time の /t/ に続く"
+          ],
+          "kana": "アイ ウィル ハヴ イレイスト オール ザ ミステイク ブロックス バイ ザ タイム ユー ログ イン トゥモロウ"
+        },
+        {
+          "en": "By sunset, they will have erased the entire old world and created the backup.",
+          "ja": "日没までに、彼らは古いワールド全体を消去してバックアップを作成しているでしょう。",
+          "ipa": "/baɪ ˈsʌnset, ðeɪ wɪl həv ɪˈreɪst ðə ɪnˈtaɪr oʊld ˈwɝld ənd kriˈeɪtəd ðə ˈbækʌp/",
+          "linking": [
+            "will have → will の語末 /l/ が have の弱形 /həv/ に続く [wɪl həv] ウィル ハヴ",
+            "erased the → erased の語末 /t/ が the の弱形 /ðə/ に続く [ɪˈreɪst ðə] イレイスト ザ",
+            "the entire → the は弱形 /ðə/、entire の /ɪ/ に続く",
+            "the backup → the は弱形 /ðə/ ザ、backup の /b/ に続く"
+          ],
+          "kana": "バイ サンセット ザイ ウィル ハヴ イレイスト ザ エンタイアー オウルド ワールド アンド クリエイティッド ザ バックアップ"
+        }
+      ]
     }
   ]
 }
