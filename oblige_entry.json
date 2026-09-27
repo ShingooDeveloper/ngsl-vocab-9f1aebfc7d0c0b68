@@ -336,6 +336,94 @@
           "kana": "ヒー ハズ ビナ ブライジング ザ サーヴァー バイ メインテイニング ザ オートメイティド ファーム コンシステントリー ファ マンスズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will oblige",
+      "ipa": "/wɪl əˈblaɪdʒ/",
+      "examples": [
+        {
+          "en": "I'll oblige by building a shop for the community.",
+          "ja": "私はコミュニティのためにショップを建てることで力になります。",
+          "ipa": "[aɪl əˈblaɪdʒ baɪ ˈbɪldɪŋ ə ʃɑp fɚ ðə kəˈmjuːnəti]",
+          "linking": [
+            "I'll oblige → 語末の /l/ が母音 /ə/ に連結 [aɪl əˈblaɪdʒ] アイラ",
+            "for the → for の弱形 /fɚ/ と the の弱形 /ðə/"
+          ],
+          "kana": "アイル ア ブライッジ バイ ビルディング ア ショップ ファ ザ コミュニティ"
+        },
+        {
+          "en": "They'll oblige when the server admins request optimizations.",
+          "ja": "サーバー管理者が最適化をリクエストするときに、彼らは力になるでしょう。",
+          "ipa": "[ðeɪl əˈblaɪdʒ wɛn ðə ˈsɝvɚ ˈædmɪnz rɪˈkwɛst ˌɑptɪməˈzeɪʃən]",
+          "linking": [
+            "They'll oblige → 語末の /l/ が母音 /ə/ に連結 [ðeɪl əˈblaɪdʒ] ザェイラ",
+            "the → 機能語の弱形 /ðə/"
+          ],
+          "kana": "ザェイル ア ブライッジ ウェン ザ サーヴァー アドミンズ リクウェスト オプティマイゼイション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be obliging",
+      "ipa": "/wɪl bi əˈblaɪdʒɪŋ/",
+      "examples": [
+        {
+          "en": "The admin will be obliging players by hosting a treasure hunt this weekend.",
+          "ja": "管理者は今週末、宝探しをホストすることでプレイヤーたちに力になるでしょう。",
+          "ipa": "[ðə ˈædmɪn wɪl bi əˈblaɪdʒɪŋ ˈpleɪɚz baɪ ˈhoʊstɪŋ ə ˈtrɛʒɚ hʌnt ðɪs ˈwikˌɛnd]",
+          "linking": [
+            "be obliging → be の /i/ が母音 /ə/ に連結 [bi əˈblaɪdʒɪŋ] ビア",
+            "obliging players → obliging の語末 /ŋ/ （鼻音）が次の母音に流れる",
+            "the → 機能語の弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ウィル ビア ブライジング プレイヤーズ バイ ホウスティング ア トレジャー ハント ディス ウィークエンド"
+        },
+        {
+          "en": "We'll be obliging the builders by providing unlimited resources during the construction event.",
+          "ja": "私たちは建設イベント中、ビルダーたちに無制限のリソースを提供することで力になるでしょう。",
+          "ipa": "[wi bɪn əˈblaɪdʒɪŋ ðə ˈbɪldɚz baɪ prəˈvaɪdɪŋ ənˈlɪmɪtɪd ˈrɛsɚsɪz ˈduːrɪŋ ðə kənˈstrʌkʃən ɪˈvɛnt]",
+          "linking": [
+            "We'll be → we'll の /l/ が be の /b/ で接続（子音+子音）だが自然な流れ",
+            "be obliging → be の /i/ が母音 /ə/ に連結 [bi əˈblaɪdʒɪŋ] ビア",
+            "during the → during の語末 /ŋ/ + the の /ðə/"
+          ],
+          "kana": "ウィ ビア ブライジング ザ ビルダーズ バイ プロヴァイディング アンリミティド レサーシーズ ドゥーリング ザ コンストラクション イベント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have obliged",
+      "ipa": "/wɪl həv əˈblaɪdʒd/",
+      "examples": [
+        {
+          "en": "By next week, I'll have obliged all the new players with starter materials.",
+          "ja": "来週までに、私は新しいプレイヤーたち全員にスターターマテリアルを提供することで力になっているでしょう。",
+          "ipa": "[baɪ nɛkst wik aɪl həv əˈblaɪdʒd ˈɔl ðə nu ˈpleɪɚz wɪð ˈstɑrtɚ məˈtɪriəlz]",
+          "linking": [
+            "I'll have → I'll の /l/ が have の /h/ で接続（子音+子音）",
+            "have obliged → have の /v/ が母音 /ə/ に連結 [həv əˈblaɪdʒd] ハヴア",
+            "all the → all の /l/ が the の /ð/ で接続"
+          ],
+          "kana": "バイ ネクスト ウィーク アイル ハヴア ブライッジド オール ザ ニュー プレイヤーズ ウィズ スターター マテリアルズ"
+        },
+        {
+          "en": "Once the update drops, the developers will have obliged the community with the requested features.",
+          "ja": "アップデートがドロップされたら、デベロッパーたちはリクエストされた機能をコミュニティに提供することで力になっているでしょう。",
+          "ipa": "[wʌns ðə ˈʌpˌdeɪt drɑps ðə dɪˈvɛləpɚz wɪl həv əˈblaɪdʒd ðə kəˈmjuːnəti wɪð ðə rɪˈkwɛstɪd ˈfiːtʃɚz]",
+          "linking": [
+            "have obliged → have の /v/ が母音 /ə/ に連結 [həv əˈblaɪdʒd] ハヴア",
+            "obliged the → obliged の /d/ が the の /ð/ で接続",
+            "the → 機能語の弱形 /ðə/"
+          ],
+          "kana": "ワンス ザ アップデイト ドラップス ザ ディベロパーズ ウィル ハヴア ブライッジド ザ コミュニティ ウィズ ザ リクウェステッド フィーチャーズ"
+        }
+      ]
     }
   ],
   "idioms": [
