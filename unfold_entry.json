@@ -210,6 +210,96 @@
           "kana": "ワイル アンフォールディン ハー グラッド スキーム ザ ビルダー リアライズド シー ニーディッド モア レッドストウン"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is unfolding",
+      "ipa": "/ɪz ʌnˈfoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "I'm unfolding the treasure map to search for the diamonds.",
+          "ja": "ダイヤモンドを探すために、財宝地図を広げています。",
+          "ipa": "/aɪm ʌnˈfoʊldɪŋ ðə ˈtɛʒɚ mæp tu ˈsɝtʃ fɔɹ ðə ˈdaɪmənz/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。2回出現",
+            "語末 /ŋ/ が母音 /ðə/ に連結。unfolding the: [ʌnˈfoʊldɪŋ ðə] アンフォールディン ザ",
+            "語末 /p/ が母音 /tu/ に連結。map to: [mæp tu] マップ トゥー"
+          ],
+          "kana": "アイム アンフォールディン ザ トレジャー マップ トゥー サーチ フォア ザ ダイモンズ"
+        },
+        {
+          "en": "They are unfolding a complex mining expedition to reach the bedrock.",
+          "ja": "彼らはベッドロックに到達するために複雑な採鉱遠征を展開しています。",
+          "ipa": "/ðeɪ ɑɹ ʌnˈfoʊldɪŋ ə ˈkɑmplɛks ˈmaɪnɪŋ ɛkˌspɪˈdɪʃən tu ˈriːtʃ ðə ˈbɛdɹɑk/",
+          "linking": [
+            "機能語 are が弱形 /ɚ/ に弱化、語末 /ɹ/ が母音 /ʌ/ に連結。they are unfolding: [ðeɪ ɚ ʌn] ザイ ア アン",
+            "語末 /ŋ/ が母音 /ə/ に連結。unfolding a: [ʌnˈfoʊldɪŋ ə] アンフォールディン ア",
+            "語末 /ŋ/ が子音 /ɛ/ に接する。mining expedition で未開放 [ˈmaɪnɪŋ̚ ɛk] マイニン エク"
+          ],
+          "kana": "ザイ アー アンフォールディン ア コンプレックス マイニン エクスピディション トゥー リーチ ザ ベッドロック"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was unfolding",
+      "ipa": "/wəz ʌnˈfoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "I was unfolding the blueprint when a creeper appeared.",
+          "ja": "クリーパーが現れたとき、青写真を広げていました。",
+          "ipa": "/aɪ wəz ʌnˈfoʊldɪŋ ðə ˈbluːˌprɪnt wɛn ə ˈkriːpɚ əˈpɪɹd/",
+          "linking": [
+            "助動詞 was が弱形 /wəz/ に弱化",
+            "語末 /ŋ/ が母音 /ðə/ に連結。unfolding the: [ʌnˈfoʊldɪŋ ðə] アンフォールディン ザ",
+            "語末 /ɹ/ が母音 /ə/ に連結。creeper appeared: [ˈkriːpɚ əˈpɪɹd] クリーパー アピアード"
+          ],
+          "kana": "アイ ワズ アンフォールディン ザ ブループリント ウェン ア クリーパー アピアード"
+        },
+        {
+          "en": "We were unfolding the plans for a secret base when the mining team returned.",
+          "ja": "採鉱チームが戻ってきたとき、私たちは秘密の基地の計画を進めていました。",
+          "ipa": "/wi wɚ ʌnˈfoʊldɪŋ ðə ˈplænz fɔɹ ə ˈsikɹət ˈbeɪs wɛn ðə ˈmaɪnɪŋ ˈtim rɪˈtɝnd/",
+          "linking": [
+            "助動詞 were が弱形 /wɚ/ に弱化、語末 /ɹ/ が母音 /ʌ/ に連結。we were unfolding: [wi wɚ ʌn] ウィー ワー アン",
+            "語末 /ŋ/ が母音 /ðə/ に連結。unfolding the: [ʌnˈfoʊldɪŋ ðə] アンフォールディン ザ",
+            "語末 /ŋ/ が子音に接する。mining team で未開放 [ˈmaɪnɪŋ̚ t] マイニン ティーム"
+          ],
+          "kana": "ウィー ワー アンフォールディン ザ プランズ フォア ア シークレット ベイス ウェン ザ マイニン ティーム リターンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been unfolding",
+      "ipa": "/həd ˈbɪn ʌnˈfoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the dragon battle had been unfolding for hours.",
+          "ja": "私たちが到着するまでに、ドラゴンとの戦いが数時間展開していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈɹaɪvd ðə ˈdɹæɡən ˈbætəl həd ˈbɪn ʌnˈfoʊldɪŋ fɔɹ ˈaʊɹz/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。2回出現",
+            "助動詞 had が弱形 /həd/ に弱化、被助動詞 been も弱形 /bɪn/ に弱化。had been: [həd̚ bɪn] ハド ビン",
+            "語末 /ŋ/ が母音 /fɔɹ/ に連結。unfolding for: [ʌnˈfoʊldɪŋ fɔɹ] アンフォールディン フォア"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド ザ ドラゴン バトル ハド ビン アンフォールディン フォア アワーズ"
+        },
+        {
+          "en": "She realized that the plot had been unfolding behind the scenes all along.",
+          "ja": "彼女は、その計画がずっと背後で展開していたことに気付いた。",
+          "ipa": "/ʃi ɹɪəˈlaɪzd ðæt ðə plɑt həd ˈbɪn ʌnˈfoʊldɪŋ bɪˈhaɪnd ðə ˈsinz ɔl əˈlɔŋ/",
+          "linking": [
+            "機能語 that が弱形 /ðət/ に弱化、機能語 the も弱形 /ðə/ に弱化。2回出現",
+            "助動詞 had が弱形 /həd/ に弱化、被助動詞 been も弱形 /bɪn/ に弱化。had been: [həd̚ bɪn] ハド ビン",
+            "語末 /ŋ/ が子音 /b/ に接する。unfolding behind で未開放 [ʌnˈfoʊldɪŋ̚ b] アンフォールディン ビハインド"
+          ],
+          "kana": "シー リアライズド ザット ザ プロット ハド ビン アンフォールディン ビハインド ザ シーンズ オール アロング"
+        }
+      ]
     }
   ]
 }
