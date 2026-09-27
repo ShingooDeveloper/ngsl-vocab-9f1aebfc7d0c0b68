@@ -198,6 +198,96 @@
           "kana": "プリズューミング ザ サーバー イズ ステイバル、アウアー ベイス シュド ビー プロテクティド"
         }
       ]
+    },
+    {
+      "label": "現在進行形（am/is/are + -ing）",
+      "type": "present_progressive",
+      "text": "is presuming",
+      "ipa": "/ɪz prɪˈzjuːmɪŋ/",
+      "examples": [
+        {
+          "en": "The enderman is presuming you can't see it in the dark.",
+          "ja": "エンダーマンはあなたが暗闇の中でそれを見ることができないと思い込んでいます。",
+          "ipa": "/ðə ˈɛndərmən ɪz prɪˈzjuːmɪŋ ju ˈkænt si ɪt ɪn ðə dɑrk/",
+          "linking": [
+            "enderman の末尾 /n/ が is の初頭 /ɪ/ に連結 [ˈɛndərmən ɪz] エンダーマン イズ、is は弱形 /ɪz/",
+            "can't の末尾 /t̚/ が see の初頭 /s/ と子音+子音で分かれ、t は未開放 [ˈkænt̚ si]",
+            "see の末尾 /i/ が it の初頭 /ɪ/ に後続し、it の末尾 /t̚/ が in に続く [si ɪt ɪn] スィー イット イン"
+          ],
+          "kana": "ザ エンダーマン イズ プリズューミング ユー キャント スィー イット イン ザ ダーク"
+        },
+        {
+          "en": "She is presuming the coordinates on the map are correct.",
+          "ja": "彼女はマップ上の座標が正しいと思い込んでいます。",
+          "ipa": "/ʃi ɪz prɪˈzjuːmɪŋ ðə ˈkoʊˌɔɹdənəts ɑn ðə mæp ɑɹ kəˈrɛkt/",
+          "linking": [
+            "She /i/ 末尾が is の初頭母音 /ɪ/ に接近 [ʃi ɪz] シー イズ、is は弱形 /ɪz/",
+            "presuming の末尾 /ŋ/ が the の初頭 /ð/ と子音+子音で分かれる [prɪˈzjuːmɪŋ ðə]",
+            "map の末尾 /p/ が are の初頭 /ɑ/ に連結 [mæp ɑɹ] マップ アー、are は弱形 /ɑɹ/"
+          ],
+          "kana": "シー イズ プリズューミング ザ コーディネッツ オン ザ マップ アー コレクト"
+        }
+      ]
+    },
+    {
+      "label": "過去進行形（was/were + -ing）",
+      "type": "past_progressive",
+      "text": "was presuming",
+      "ipa": "/wəz prɪˈzjuːmɪŋ/",
+      "examples": [
+        {
+          "en": "I was presuming the mineshaft was stable when it started to collapse.",
+          "ja": "鉱山が崩壊し始めたとき、私はそれが安定していると思い込んでいました。",
+          "ipa": "/aɪ wəz prɪˈzjuːmɪŋ ðə ˈmaɪnˌʃæft wəz ˈsteɪbəl wɛn ɪt ˈstɑɹtəd tu kəˈlæps/",
+          "linking": [
+            "was は弱形 /wəz/ [wəz] ワズ、presuming の /p/ に続く [wəz prɪˈzjuːmɪŋ]",
+            "the は弱形 /ðə/ [ðə] ザ、mineshaft の /m/ に連結 [ðə ˈmaɪn] ザ マイン",
+            "shaft 末尾 /t̚/ が was の初頭 /w/ と子音+子音で分かれ、was も弱形 /wəz/ [ʃæft̚ wəz]"
+          ],
+          "kana": "アイ ワズ プリズューミング ザ マインシャフト ワズ ステイバル ウェン イット スターテッド トゥー コラップス"
+        },
+        {
+          "en": "They were presuming the fortress was abandoned before they found the treasure.",
+          "ja": "彼らが宝を見つける前に、要塞が放棄されていると思い込んでいました。",
+          "ipa": "/ðeɪ wɚ prɪˈzjuːmɪŋ ðə ˈfɔɹtɚs wəz əˈbændənd bɪˈfoɹ ðeɪ faʊnd ðə ˈtɹɛʒɚ/",
+          "linking": [
+            "were は弱形 /wɚ/ [wɚ] ウァー、presuming の /p/ に続く",
+            "fortress の末尾 /s/ が was の初頭 /w/ と子音+子音で分かれ、was も弱形 /wəz/ [ˈfɔɹtɚs wəz]",
+            "the は弱形 /ðə/ が複数出現、treasure の /ɹ/ に連結 [ðə ˈtɹɛʒɚ] ザ トレジャー"
+          ],
+          "kana": "ゼイ ワー プリズューミング ザ フォートレス ワズ アバンダンド ビフォー ゼイ ファウンド ザ トレジャー"
+        }
+      ]
+    },
+    {
+      "label": "過去完了進行形（had been + -ing）",
+      "type": "past_perfect_progressive",
+      "text": "had been presuming",
+      "ipa": "/həd bɪn prɪˈzjuːmɪŋ/",
+      "examples": [
+        {
+          "en": "I had been presuming the cave was safe until I encountered the lava lake.",
+          "ja": "溶岩湖に出くわすまで、その洞窟は安全だと思い込んでいました。",
+          "ipa": "/aɪ həd bɪn prɪˈzjuːmɪŋ ðə keɪv wəz seɪf ənˈtɪl aɪ ɛnˈkaʊntɚd ðə ˈlɑvə leɪk/",
+          "linking": [
+            "had は弱形 /həd/ [həd] ハド、been も弱形 /bɪn/ [bɪn] ビン、両方とも助動詞で弱化",
+            "presuming の末尾 /ŋ/ が the の初頭 /ð/ と子音+子音で分かれる [prɪˈzjuːmɪŋ ðə]",
+            "the は弱形 /ðə/ [ðə] ザ、lava の /l/ に連結 [ðə ˈlɑvə] ザ ラーヴァ"
+          ],
+          "kana": "アイ ハド ビン プリズューミング ザ ケイヴ ワズ セイフ アンティル アイ エンカウンタード ザ ラーヴァ レイク"
+        },
+        {
+          "en": "She had been presuming the redstone circuit would work before testing it.",
+          "ja": "テストする前に、レッドストーン回路が機能するだろうと思い込んでいました。",
+          "ipa": "/ʃi həd bɪn prɪˈzjuːmɪŋ ðə ˈrɛdstoʊn ˈsɜɹkɪt wəd wɜrk bɪˈfoɹ ˈtɛstɪŋ ɪt/",
+          "linking": [
+            "had は弱形 /həd/ [həd] ハド、been も弱形 /bɪn/ [bɪn] ビン",
+            "circuit の末尾 /t̚/ が would の初頭 /w/ と子音+子音で分かれ、t は未開放 [ˈsɜɹkɪt̚ wəd]",
+            "testing の末尾 /ŋ/ が it の初頭 /ɪ/ に連結 [ˈtɛstɪŋ ɪt] テスティング イット"
+          ],
+          "kana": "シー ハド ビン プリズューミング ザ レッドストウン サーキット ウッド ワーク ビフォー テスティング イット"
+        }
+      ]
     }
   ],
   "tags": [
