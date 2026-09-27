@@ -382,6 +382,99 @@
           "kana": "ザ バックアップ システム ハズ ビン ディリーティング オールド スナップショッツ オートマティカリー ファー メインテナンス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will delete",
+      "ipa": "/wɪl dɪˈliːt/",
+      "examples": [
+        {
+          "en": "I will delete all my old builds next week.",
+          "ja": "来週、古い建築物をすべて削除します。",
+          "ipa": "/aɪ wɪl dɪˈliːt ɔl maɪ oʊld ˈbɪldz ˈnɛkst wik/",
+          "linking": [
+            "will の語末 /l/ が delete の初頭子音 /d/ に先行（子音+子音、未開放）",
+            "delete の語末 /t/ が all の初頭母音 /ɔ/ に連結 [dɪˈliːtə ˈdɔl] ディリータ ドール",
+            "next の語末 /t/ が week の初頭子音 /w/ に先行（子音+子音、未開放）"
+          ],
+          "kana": "アイ ウィル ディリータ ドール マイ オールド ビルズ ネクスト ウィーク"
+        },
+        {
+          "en": "The admin will delete griefed structures immediately to protect the server.",
+          "ja": "管理者はサーバーを保護するためにグリーフされた構造物を直ちに削除します。",
+          "ipa": "/ðə ˈædmɪn wɪl dɪˈliːt ˈɡrifəd ˈstrʌktʃərz ɪˈmidɪətli tu prəˈtɛkt ðə ˈsɜrvər/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "will の語末 /l/ が delete の初頭子音 /d/ に先行（子音+子音、未開放）",
+            "delete griefed - /t/ が /ɡ/ に続く（子音+子音、未開放）",
+            "to は機能語で弱形 /tə/ タ、protect の初頭子音 /p/ に未開放で続く"
+          ],
+          "kana": "ザ アドミン ウィル ディリートッ グリフド ストラクチャーズ イミディアトリー タ プロテクト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be deleting",
+      "ipa": "/wɪl bi dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "We will be deleting corrupted files for the next few hours.",
+          "ja": "これからの数時間、破損したファイルを削除し続けます。",
+          "ipa": "/wi wɪl bi dɪˈliːtɪŋ kəˈrʌptəd ˈfaɪlz fɚ ðə ˈnɛkst ˈfju ˈaʊɚz/",
+          "linking": [
+            "will の語末 /l/ が be の初頭子音 /b/ に先行（子音+子音、未開放）",
+            "be は /bi/、deleting の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "for は機能語で弱形 /fɚ/ ファー、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ウィル ビー ディリーティング コラプティッド ファイルズ ファー ザ ネクスト フュー アワーズ"
+        },
+        {
+          "en": "The server will be deleting old player data automatically throughout the night.",
+          "ja": "サーバーは夜間を通じて古いプレイヤーデータを自動的に削除し続けます。",
+          "ipa": "/ðə ˈsɜrvər wɪl bi dɪˈliːtɪŋ oʊld ˈpleɪər ˈdeɪtə ˈɔtəˌmætɪkli θruːˈaʊt ðə naɪt/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "will の語末 /l/ が be の初頭子音 /b/ に先行（子音+子音、未開放）",
+            "be は /bi/、deleting の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ サーバー ウィル ビー ディリーティング オールド プレイアー デイタ オートマティカリー スルーアウト ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have deleted",
+      "ipa": "/wɪl həv dɪˈliːtəd/",
+      "examples": [
+        {
+          "en": "By next month, I will have deleted all the old chest backups.",
+          "ja": "来月までに、古いチェストのバックアップをすべて削除しておきます。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ aɪ wɪl həv dɪˈliːtəd ɔl ðə oʊld tʃɛst ˈbækˌʌps/",
+          "linking": [
+            "will の語末 /l/ が have の初頭子音 /h/ に先行（子音+子音、/h/ は弱化）",
+            "have は弱形 /həv/ ハヴ、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "deleted の語末 /d/ が all の初頭母音 /ɔ/ に連結 [dɪˈliːtə ˈdɔl] ディリータ ドール"
+          ],
+          "kana": "バイ ネクスト マンス アイ ウィル ハヴ ディリータ ドール ザ オールド チェスト バックアップス"
+        },
+        {
+          "en": "They will have deleted all corrupted save files by the time the new patch releases.",
+          "ja": "新しいパッチがリリースされるまでに、破損したセーブファイルをすべて削除しておくでしょう。",
+          "ipa": "/ðeɪ wɪl həv dɪˈliːtəd ɔl kəˈrʌptəd seɪv ˈfaɪlz baɪ ðə taɪm ðə ˈnjuː pætʃ rɪˈliːsɪz/",
+          "linking": [
+            "will の語末 /l/ が have の初頭子音 /h/ に先行（子音+子音、/h/ は弱化）",
+            "have は弱形 /həv/ ハヴ、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "deleted の語末 /d/ が all の初頭母音 /ɔ/ に連結 [dɪˈliːtə ˈdɔl] ディリータ ドール",
+            "by の語末母音 /aɪ/ が the の初頭子音 /ð/ に先行、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイ ウィル ハヴ ディリータ ドール コラプティッド セイヴ ファイルズ バイ ザ タイム ザ ニュー パッチ リリーシーズ"
+        }
+      ]
     }
   ]
 }
