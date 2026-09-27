@@ -283,6 +283,100 @@
           "kana": "ザ セットルメント ハド ビン ポピュレイティング ウィズ ヴィリジャーズ ファー セヴラル ウィークス"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has populated",
+      "ipa": "/həz ˈpɑpjəˌleɪtɪd/",
+      "examples": [
+        {
+          "en": "The village has populated with many villagers.",
+          "ja": "その村は多くの村人が住み着いた。",
+          "ipa": "/ðə ˈvɪlɪdʒ həz ˈpɑpjəˌleɪtɪd wɪð ˈmɛni ˈvɪlɪdʒərz/",
+          "linking": [
+            "The は定冠詞として弱形 /ðə/。village の初頭 /v/ に先行し、/ðə v/ で「ザ」と流れ込む",
+            "has は弱形 /həz/。populated の初頭 /p/ に先行し、/z p/ で「ハズ」と続く",
+            "populated の語末の有声破裂音 /d/ が with の初頭 /w/ に先行し、/d w/ で「ティッウ」のように未開放で続く"
+          ],
+          "kana": "ザ ヴィリジ ハズ ポピュレイティッド ウィズ メニー ヴィリジャーズ"
+        },
+        {
+          "en": "We have populated the desert with temples over the past month.",
+          "ja": "私たちはこの1ヶ月間で砂漠に寺院を配置した。",
+          "ipa": "/wi həv ˈpɑpjəˌleɪtɪd ðə ˈdɛzərt wɪð ˈtɛmpəlz ˈoʊvər ðə ˈpæst ˈmʌnθ/",
+          "linking": [
+            "We の語末の近似音 /w/ が have の初頭 /h/ に連結。/w h/ で「ウィ」のように流れ込む",
+            "have は弱形 /həv/。populated の初頭 /p/ に先行し、/v p/ で「ハヴ」と続く",
+            "populated の語末の有声破裂音 /d/ が the の弱形 /ðə/ に連結。/d ðə/ で「ティッザ」のように流れる",
+            "the は定冠詞として弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハヴ ポピュレイティッド ザ デザート ウィズ テンパルズ オーバー ザ パスト マンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had populated",
+      "ipa": "/əd ˈpɑpjəˌleɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the update, the server had populated those biomes automatically.",
+          "ja": "アップデート前に、そのサーバーはそれらのバイオームを自動的に配置していた。",
+          "ipa": "/bɪˈfɔɹ ðə ˈʌpˌdeɪt ðə ˈsɜɹvər əd ˈpɑpjəˌleɪtɪd ðoʊz ˈbaɪˌoʊmz ɔˌtɑmæˈtɪkli/",
+          "linking": [
+            "Before の語末の摩擦音 /r/ が the の弱形 /ðə/ に連結。/r ðə/ で「ビフォー ザ」のように流れ込む",
+            "the は定冠詞として弱形 /ðə/ ザ",
+            "had は弱形 /əd/。populated の初頭 /p/ に先行し、/d p/ で「ハド」と続く",
+            "populated の語末の有声破裂音 /d/ が those の初頭 /ðoʊ/ に連結。/d ðoʊ/ で「ティッゾーズ」のように流れる"
+          ],
+          "kana": "ビフォー ザ アップデイト ザ サーバー ハド ポピュレイティッド ゾーズ バイオームズ オートマティカリー"
+        },
+        {
+          "en": "They had populated the fortress region with structures before we joined the realm.",
+          "ja": "私たちがレルムに参加する前に、彼らはその要塞地域に構造物を配置していた。",
+          "ipa": "/ðeɪ əd ˈpɑpjəˌleɪtɪd ðə ˈfɔɹtrəs ˈɹidʒən wɪð ˈstrʌktʃərz bɪˈfɔɹ wi ˈdʒɔɪnd ðə ˈɹɛlm/",
+          "linking": [
+            "They の語末の二重母音 /eɪ/ が had の初頭 /h/ に連結。/eɪ h/ で「ゼイ」のように流れ込む",
+            "had は弱形 /əd/。populated の初頭 /p/ に先行し、/d p/ で「ハド」と続く",
+            "populated の語末の有声破裂音 /d/ が the の弱形 /ðə/ に連結。/d ðə/ で「ティッザ」のように流れる",
+            "Before の語末の摩擦音 /r/ が we の初頭 /w/ に連結。/r w/ で「ビフォア ウィ」のように流れる"
+          ],
+          "kana": "ゼイ ハド ポピュレイティッド ザ フォートレス リージョン ウィズ ストラクチャーズ ビフォア ウィ ジョインド ザ レルム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been populating",
+      "ipa": "/həz bɪn ˈpɑpjəˌleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been populating the new world with structures all week.",
+          "ja": "その管理者は1週間中、新しい世界に構造物を配置し続けている。",
+          "ipa": "/ðə ˈædmɪn həz bɪn ˈpɑpjəˌleɪtɪŋ ðə ˈnu ˈwɜɹld wɪð ˈstrʌktʃərz ɔl ˈwik/",
+          "linking": [
+            "The は定冠詞として弱形 /ðə/。admin の初頭 /æ/ に先行し、/ðə æ/ で「ザ」と流れ込む",
+            "has は弱形 /həz/。been の初頭 /b/ に先行し、/z b/ で「ハズ」と続く",
+            "been は弱形 /bɪn/。populating の初頭 /p/ に先行し、/n p/ で「ビン」と続く"
+          ],
+          "kana": "ザ アドミン ハズ ビン ポピュレイティング ザ ニュー ワールド ウィズ ストラクチャーズ オール ウィーク"
+        },
+        {
+          "en": "We have been populating this biome for hours to create a thriving ecosystem.",
+          "ja": "私たちは数時間、このバイオームに生き物を配置して、繁栄したエコシステムを作っている。",
+          "ipa": "/wi həv bɪn ˈpɑpjəˌleɪtɪŋ ðɪs ˈbaɪˌoʊm fər ˈaʊərz tə kriˈeɪt ə ˈθɹaɪvɪŋ ɛˈkoʊˌsɪstəm/",
+          "linking": [
+            "We の語末の近似音 /w/ が have の初頭 /h/ に連結。/w h/ で「ウィ」のように流れ込む",
+            "have は弱形 /həv/。been の初頭 /b/ に先行し、/v b/ で「ハヴ」と続く",
+            "been は弱形 /bɪn/。populating の初頭 /p/ に先行し、/n p/ で「ビン」と続く",
+            "to は機能語として弱形 /tə/。create の初頭 /k/ に先行し、/tə k/ で「タ」のように流れ込む"
+          ],
+          "kana": "ウィ ハヴ ビン ポピュレイティング ディス バイオーム ファー アワーズ タ クリエイト ア スライビング エコシステム"
+        }
+      ]
     }
   ]
 }
