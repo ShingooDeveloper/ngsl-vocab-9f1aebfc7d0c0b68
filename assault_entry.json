@@ -350,6 +350,108 @@
           ]
         }
       ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had assaulted",
+      "ipa": "/həd əˈsɔltəd/",
+      "examples": [
+        {
+          "en": "By the time we arrived at the village, the raiders had assaulted the walls twice.",
+          "ja": "私たちが村に到着するまでに、レイダーは壁を2度襲撃していました。",
+          "ipa": "/baɪ ðə taɪm wi əˈraɪvd æt ðə ˈvɪlɪdʒ ðə ˈreɪdɚz həd əˈsɔltəd ðə ˈwɔlz twaɪs/",
+          "linking": [
+            "the は弱形 /ðə/ で子音 /t/ の前 [ðə taɪm] ザ タイム",
+            "arrived の語末 /d/ が at の /æ/ に連結 [əˈraɪvd æt] アライヴド アット",
+            "the は弱形 /ðə/ で子音 /v/ の前 [ðə ˈvɪlɪdʒ] ザ ビレッジ",
+            "had の弱形 /həd/ の /d/ が assaulted の /ə/ に未開放で連接 [həd̚ əˈsɔltəd] ハド アサルティド",
+            "assaulted の語末 /d/ が the の /ð/ に未開放で連接 [əˈsɔltəd̚ ðə] アサルティッ ザ"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド アット ザ ビレッジ ザ レイダーズ ハド アサルティド ザ ウォールズ トゥワイス"
+        },
+        {
+          "en": "They had assaulted our base three times before we built the diamond reinforcement.",
+          "ja": "私たちがダイヤモンドの補強を構築する前に、彼らは3回拠点を襲撃していました。",
+          "ipa": "/ðeɪ həd əˈsɔltəd ˈaʊɚ ˈbeɪs ˈθri taɪmz bɪˈfɔr wi ˈbɪlt ðə ˈdaɪmənd ˌrɪnˈfɔrsmənt/",
+          "linking": [
+            "had の弱形 /həd/ の /d/ が assaulted の /ə/ に未開放で連接 [həd̚ əˈsɔltəd] ハド アサルティド",
+            "assaulted の語末 /d/ が our の /aʊ/ に連結 [əˈsɔltəd aʊɚ] アサルティド アワー",
+            "base の語末 /s/ が three の /θ/ に子音+子音で続く",
+            "before の語末 /r/ が we の /w/ に子音+子音で続く"
+          ],
+          "kana": "ゼイ ハド アサルティド アワー ベイス スリー タイムズ ビフォアー ウィ ビルト ザ ダイモンド リンフォースメント"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has assaulted",
+      "ipa": "/həz əˈsɔltəd/",
+      "examples": [
+        {
+          "en": "We have assaulted the nether fortress several times this month to collect blaze rods.",
+          "ja": "ブレイズロッドを集めるために、今月はネザー要塞を数回襲撃しました。",
+          "ipa": "/wi həv əˈsɔltəd ðə ˈnɛðɚ ˈfɔɹtɹəs ˈsɛvɚəl taɪmz ðɪs ˈmʌnθ tu kəˈlɛkt ˈbleɪz ˈrɑdz/",
+          "linking": [
+            "have の弱形 /həv/ の /v/ が assaulted の /ə/ に連結 [həv əˈsɔltəd] ハヴ アサルティド",
+            "assaulted の語末 /d/ が the の /ð/ に未開放で連接 [əˈsɔltəd̚ ðə] アサルティッ ザ",
+            "the は弱形 /ðə/ で子音 /n/ の前 [ðə ˈnɛðɚ] ザ ネザー",
+            "fortress の語末 /s/ が several の /s/ に子音+子音で続く",
+            "to は弱形 /tə/ [tə kəˈlɛkt] タ コレクト"
+          ],
+          "kana": "ウィー ハヴ アサルティド ザ ネザー フォーティス セヴラル タイムズ ディス マンス タ コレクト ブレイズ ロッドズ"
+        },
+        {
+          "en": "The zombie has assaulted our base multiple times since dawn broke this morning.",
+          "ja": "ゾンビは今朝夜明けが明けてから、複数回拠点を襲撃しています。",
+          "ipa": "/ðə ˈzɑmbi həz əˈsɔltəd ˈaʊɚ ˈbeɪs ˈmʌltəpəl taɪmz sɪns ˈdɔn ˈbroʊk ðɪs ˈmɔɹnɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ で子音 /z/ の前 [ðə ˈzɑmbi] ザ ゾンビー",
+            "has の弱形 /həz/ の /z/ が assaulted の /ə/ に連結 [həz əˈsɔltəd] ハズ アサルティド",
+            "assaulted の語末 /d/ が our の /aʊ/ に連結 [əˈsɔltəd aʊɚ] アサルティド アワー",
+            "base の語末 /s/ が multiple の /m/ に子音+子音で続く"
+          ],
+          "kana": "ザ ゾンビー ハズ アサルティド アワー ベイス マルティプル タイムズ シンス ドーン ブロウク ディス モーニング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been assaulting",
+      "ipa": "/həz bɪn əˈsɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The creepers have been assaulting our walls all morning long without stopping.",
+          "ja": "クリーパーは朝ずっと立ち止まることなく、私たちの壁を襲撃し続けています。",
+          "ipa": "/ðə ˈkripɚz həv bɪn əˈsɔltɪŋ ˈaʊɚ ˈwɔlz ɔl ˈmɔɹnɪŋ ˈlɔŋ wɪðˈaʊt ˈstɑpɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ で子音 /k/ の前 [ðə ˈkripɚz] ザ クリーパーズ",
+            "creepers の語末 /z/ が have の /h/ に子音+子音で続く",
+            "have の弱形 /həv/ の /v/ が been の /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been の /n/ が assaulting の /ə/ に連結 [bɪn əˈsɔltɪŋ] ビン アサルティング",
+            "assaulting の語末 /ŋ/ が our の /aʊ/ に続き、鼻音+母音で連結なし",
+            "morning の語末 /ŋ/ が long の /l/ に子音+子音で続く"
+          ],
+          "kana": "ザ クリーパーズ ハヴ ビン アサルティング アワー ウォールズ オール モーニング ロング ウィザウト ストピング"
+        },
+        {
+          "en": "The hostile mobs have been assaulting the perimeter for several hours without any rest.",
+          "ja": "敵対的なモブは何時間も休むことなく周囲を襲撃し続けています。",
+          "ipa": "/ðə ˈhoʊstəl ˈmɑbz həv bɪn əˈsɔltɪŋ ðə pəˈrɪmətɚ fɔɹ ˈsɛvɚəl ˈaʊɚz wɪðˈaʊt ˈɛni ˈrɛst/",
+          "linking": [
+            "the は弱形 /ðə/ で子音 /h/ の前 [ðə ˈhoʊstəl] ザ ホウステル",
+            "mobs の語末 /z/ が have の /h/ に子音+子音で続く",
+            "have の弱形 /həv/ の /v/ が been の /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been の /n/ が assaulting の /ə/ に連結 [bɪn əˈsɔltɪŋ] ビン アサルティング",
+            "assaulting の語末 /ŋ/ が the の /ð/ に子音+子音で続く",
+            "the は弱形 /ðə/ で子音 /p/ の前 [ðə pəˈrɪmətɚ] ザ パリミター"
+          ],
+          "kana": "ザ ホウステル モブズ ハヴ ビン アサルティング ザ パリミター フォアー セヴラル アワーズ ウィザウト エニー レスト"
+        }
+      ]
     }
   ]
 }
