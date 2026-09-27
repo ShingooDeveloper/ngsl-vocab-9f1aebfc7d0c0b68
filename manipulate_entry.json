@@ -197,6 +197,98 @@
           "kana": "ストップ マニプュレイティング エブリワン バイ スプレディング フォルス ルーマーズ ア バウト ザ トレジャー ロウケイション"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is manipulating",
+      "ipa": "/ɪz ˌmænɪpjəˈleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm manipulating the redstone repeater timing to create an automated door.",
+          "ja": "レッドストーン反復機のタイミングを操作して、自動ドアを作成しています。",
+          "ipa": "/aɪm ˌmænɪpjəˈleɪtɪŋ ðə ˈrɛdˌstoʊn riˈpitɚ ˈtaɪmɪŋ tu kriˈeɪt̚ ən ɔˈtɑmətəd dɔɹ/",
+          "linking": [
+            "repeater の /ɚ/ から timing の /ˈt/ へは語境界で連結なし",
+            "create の語末 /t/ は未開放で an の /ə/ に続く [kriˈeɪt̚ ən]、「クリエッ アン」",
+            "the は弱形 /ðə/ ザ、to は弱形 /tə/ タ"
+          ],
+          "kana": "アイム マニプュレイティング ザ レッドストウン リピーター タイミング タ クリエッ アン オートメイティッド ドア"
+        },
+        {
+          "en": "The admin is manipulating the NBT data right now to make super powered armor.",
+          "ja": "管理者は今、NBTデータを操作して、超パワフルなアーマーを作成しています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˌmænɪpjəˈleɪtɪŋ ðə ɛn bi ti ˈdeɪtə raɪt̚ naʊ tu meɪk ˈsuːpɚ ˈpaʊərd ˈɑɹmɚ/",
+          "linking": [
+            "is は弱形 /ɪz/ イズ、the は弱形 /ðə/ ザ",
+            "right の語末 /t/ は未開放で now の /n/ に続く [raɪt̚ naʊ]、「ライッ ナウ」",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ザ アドミン イズ マニプュレイティング ザ エンビーティー デイタ ライッ ナウ タ メイク スーパー パワード アーマー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was manipulating",
+      "ipa": "/wəz ˌmænɪpjəˈleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was manipulating the hopper system when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、ホッパーシステムを操作していました。",
+          "ipa": "/aɪ wəz ˌmænɪpjəˈleɪtɪŋ ðə ˈhɑpɚ ˈsɪstəm wɛn ðə ˈsɝvɚ kræʃt/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ、the は弱形 /ðə/ ザ（2箇所）",
+            "server は r-coloring /ˈsɝvɚ/ サーバー",
+            "crashed は /kræʃt/ クラッシュド"
+          ],
+          "kana": "アイ ワズ マニプュレイティング ザ ハッパー システム ウェン ザ サーバー クラッシュド"
+        },
+        {
+          "en": "They were manipulating the villager trades to get the best enchantment books.",
+          "ja": "最高のエンチャント本を取得するために、村人の取引を操作していました。",
+          "ipa": "/ðeɪ wɚ ˌmænɪpjəˈleɪtɪŋ ðə ˈvɪlɪdʒɚ ˈtɹeɪdz tu ɡɛt ðə bɛst ɪnˈtʃæntmənt bʊks/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー、the は弱形 /ðə/ ザ（2箇所）",
+            "to は弱形 /tə/ タ",
+            "best の /t/ と enchantment の /ɪ/ の間は子音-母音で連結できる。実際には語境界なので連結なし"
+          ],
+          "kana": "ゼイ ワー マニプュレイティング ザ ビリッジャー トレイズ タ ゲット ザ ベスト エンチャントメント ブックス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been manipulating",
+      "ipa": "/həd bɪn ˌmænɪpjəˈleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been manipulating the mob spawner settings before we discovered the better farm design.",
+          "ja": "より良いファーム設計を発見する前に、モブスポーナーの設定を操作していました。",
+          "ipa": "/aɪ həd bɪn ˌmænɪpjəˈleɪtɪŋ ðə moʊb ˈspoʊnɚ ˈsɛtɪŋz bɪˈfoɹ wi ˌdɪsˈkʌvɚd ðə ˈbɛɾɚ fɑɹm dɪˈzaɪn/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "better で語中 /t/ が フラップ化 /ɾ/ [ˈbɛɾɚ] ベラー",
+            "we は /wi/ ウィ、discovered の /d/ と the の /ð/ は子音-子音で未開放"
+          ],
+          "kana": "アイ ハド ビン マニプュレイティング ザ モウブ スポーナー セティングス ビフォア ウィ ディスカヴァード ザ ベラー ファーム ディザイン"
+        },
+        {
+          "en": "She had been manipulating the enchantment algorithm for weeks before finding the perfect combination.",
+          "ja": "完璧な組み合わせを見つける前に、何週間もエンチャントアルゴリズムを操作していました。",
+          "ipa": "/ʃi həd bɪn ˌmænɪpjəˈleɪtɪŋ ðə ɪnˈtʃæntmənt ˈælɡəˌrɪðəm fɚ wiːks bɪˈfoɹ ˈfaɪndɪŋ ðə pɚˈfɛkt ˌkɑmbɪˈneɪʃən/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ（2箇所）",
+            "for は弱形 /fɚ/ ファー",
+            "finding の /ŋ/ と the の /ð/ は子音-子音で未開放、連結なし"
+          ],
+          "kana": "シー ハド ビン マニプュレイティング ザ エンチャントメント アルゴリズム ファー ウィークス ビフォア ファインディング ザ パーフェクト コンビネイション"
+        }
+      ]
     }
   ]
 }
