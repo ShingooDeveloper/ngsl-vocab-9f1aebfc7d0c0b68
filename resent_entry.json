@@ -277,9 +277,105 @@
             "had been → had は弱形 /həd/、been は弱形 /bɪn/。had の語末 /d/ が been の /b/ に未開放で連接 [həd̚ bɪn]「ハド ビン」",
             "been resenting → been の語末 /n/ が resenting の /r/ に続く（子音+子音）[bɪn rɪˈzɛntɪŋ]「ビン リゼンティング」",
             "resenting the → resenting の語末 /ŋ/ が the の弱形 /ðə/ に連結 [rɪˈzɛntɪŋ ðə]「リゼンティング ザ」",
-            "before the → before の語末 /ɔr/ が the の /ð/ に続く（母音+子音）"
+            "before the → before の語末 /ɔr/ が the の/ð/ に続く（母音+子音）"
           ],
           "kana": "シー ハド ビン リゼンティング ザ アウトデイティド パニッシュメント システム ビフォア ザ サーヴァー リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has resented",
+      "ipa": "/həz rɪˈzɛntɪd/",
+      "examples": [
+        {
+          "en": "She has resented being treated like a beginner even though she's been playing for years.",
+          "ja": "彼女は数年プレイしているにもかかわらず、初心者のように扱われたことに反感を持ってきました。",
+          "ipa": "/ʃi həz rɪˈzɛntɪd ˈbiiŋ ˈtritɪd ˌlaɪk ə bɪˈɡɪnər ˈivən ðoʊ ʃiz bɪn ˈpleɪɪŋ fɚ ˈjirz/",
+          "linking": [
+            "She has → /i/ が /h/ に続く（母音+子音）",
+            "has resented → has は弱形 /həz/、resented の /r/ に子音+子音で未開放 [həz̚ rɪˈzɛntɪd]「ハズ リゼンティド」",
+            "resented being → resented の語末 /d/ が being の /b/ に未開放で続く [rɪˈzɛntɪd̚ ˈbiiŋ]「リゼンティド ビーイング」",
+            "been playing → been の語末 /n/ が playing の /p/ に連続（子音+子音）で連結なし"
+          ],
+          "kana": "シー ハズ リゼンティド ビーイング トリーティド ライク ア ビギナー イーヴン ドウ シズ ビン プレイング ファー イアーズ"
+        },
+        {
+          "en": "Players have resented the spawn point changes ever since last week's update.",
+          "ja": "プレイヤーたちは先週のアップデート以来、スポーンポイント変更に反感を持っています。",
+          "ipa": "/ˈpleɪərz həv rɪˈzɛntɪd ðə ˈspoʊn ˌpɔɪnt ˈtʃeɪndʒɪz ˈɛvər sɪns læst ˈwiks ʌpˈdeɪt/",
+          "linking": [
+            "Players have → players の語末 /z/ が have の弱形 /həv/ に続く（子音+子音）で連結なし",
+            "have resented → have は弱形 /həv/、resented の /r/ に子音+子音で未開放 [həv̚ rɪˈzɛntɪd]「ハヴ リゼンティド」",
+            "resented the → resented の語末 /d/ が the の弱形 /ðə/ に連結 [rɪˈzɛntɪd ðə]「リゼンティド ザ」",
+            "since last → since の語末 /s/ が last の /l/ に続く（子音+子音）で連結なし"
+          ],
+          "kana": "プレイアーズ ハヴ リゼンティド ザ スポウン ポイント チェインジズ エバー シンス ラスト ウィークス アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had resented",
+      "ipa": "/həd rɪˈzɛntɪd/",
+      "examples": [
+        {
+          "en": "By the time the new admin arrived, players had resented the old policies for months.",
+          "ja": "新しい管理者が到着するまでに、プレイヤーたちはすでに数ヶ月間古いポリシーに反感を持っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈnuː əˈdmɪn əˈraɪvd ˈpleɪərz həd rɪˈzɛntɪd ðə ˈoʊld ˈpɑlɪsiz fɔr ˈmʌnθz/",
+          "linking": [
+            "the time → the は弱形 /ðə/「ザ」、time の /t/ に続く",
+            "the new → the は弱形 /ðə/「ザ」、new の /n/ に続く",
+            "had resented → had は弱形 /həd/、resented の /r/ に子音+子音で未開放 [həd̚ rɪˈzɛntɪd]「ハド リゼンティド」",
+            "resented the → resented の語末 /d/ が the の弱形 /ðə/ に連結 [rɪˈzɛntɪd ðə]「リゼンティド ザ」"
+          ],
+          "kana": "バイ ザ タイム ザ ニュー ア ライヴド プレイアーズ ハド リゼンティド ザ オウルド ポリシーズ フォー マンス"
+        },
+        {
+          "en": "I had resented the unfair PvP rules before they were finally changed last month.",
+          "ja": "先月ついに変更されるまで、私は不公正なPvPルールに反感を持ってきました。",
+          "ipa": "/aɪ həd rɪˈzɛntɪd ðə ʌnˈfɛr ˌpiˈvi ˈpi ˈrulz bɪˈfɔr ðeɪ wɚ ˈfaɪnəli ˈtʃeɪndʒd læst ˈmʌnθ/",
+          "linking": [
+            "had resented → had は弱形 /həd/、resented の /r/ に子音+子音で未開放 [həd̚ rɪˈzɛntɪd]「ハド リゼンティド」",
+            "resented the → resented の語末 /d/ が the の弱形 /ðə/ に連結 [rɪˈzɛntɪd ðə]「リゼンティド ザ」",
+            "were finally → were は弱形 /wɚ/、finally の /f/ に続く（子音+子音）で連結なし",
+            "last month → last の語末 /t/ が month の /m/ に連続（子音+子音）で連結なし"
+          ],
+          "kana": "アイ ハド リゼンティド ザ アンフェア ピー ヴィー ピー ルーレズ ビフォア ゼイ ワー ファイナリー チェインジド ラスト マンス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been resenting",
+      "ipa": "/həz bɪn rɪˈzɛntɪŋ/",
+      "examples": [
+        {
+          "en": "He has been resenting the constant lag issues since the server hardware upgrade.",
+          "ja": "サーバーハードウェアアップグレード以来、彼は継続的なラグの問題に反感を持ってきています。",
+          "ipa": "/hi həz bɪn rɪˈzɛntɪŋ ðə ˈkɑnstənt ˈlæɡ ˈɪʃuz sɪns ðə ˈsɝvər ˈhɑrdˌwɛr ˈʌpˌɡreɪd/",
+          "linking": [
+            "He has → /i/ が /h/ に続く（母音+子音）",
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/で子音+子音のため未開放 [həz̚ bɪn]「ハズ ビン」",
+            "been resenting → been は弱形 /bɪn/、resenting の /r/ に子音+子音で未開放 [bɪn̚ rɪˈzɛntɪŋ]「ビン リゼンティング」",
+            "the server → the は弱形 /ðə/「ザ」、server の /s/ に続く"
+          ],
+          "kana": "ヒー ハズ ビン リゼンティング ザ コンスタント ラグ イッシューズ シンス ザ サーヴァー ハードウェア アップグレイド"
+        },
+        {
+          "en": "Players have been resenting the new restrictions on creative mode all week.",
+          "ja": "プレイヤーたちは一週間中、クリエイティブモードの新しい制限に反感を持ってきています。",
+          "ipa": "/ˈpleɪərz həv bɪn rɪˈzɛntɪŋ ðə ˈnuː rɪˈstrɪkʃənz ɑn kriːˈeɪtɪv ˈmoʊd ɔl ˈwik/",
+          "linking": [
+            "Players have → players の語末 /z/ が have の弱形 /həv/ に続く（子音+子音）で連結なし",
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/で子音+子音のため未開放 [həv̚ bɪn]「ハヴ ビン」",
+            "been resenting → been は弱形 /bɪn/、resenting の /r/ に子音+子音で未開放 [bɪn̚ rɪˈzɛntɪŋ]「ビン リゼンティング」",
+            "creative mode → creative の語末 /v/ が mode の /m/ に連続（子音+子音）で連結なし"
+          ],
+          "kana": "プレイアーズ ハヴ ビン リゼンティング ザ ニュー リストリクションズ オン クリエイティヴ モウド オール ウィーク"
         }
       ]
     }
