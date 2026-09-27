@@ -178,6 +178,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is roaming",
+      "ipa": "/ɪz ˈroʊmɪŋ/",
+      "examples": [
+        {
+          "en": "The mob is roaming around the cave looking for prey.",
+          "ja": "そのモブは洞窟の周りを歩き回り、獲物を探しています。",
+          "ipa": "/ðə moʊb ɪz ˈroʊmɪŋ əˈraʊnd ðə keɪv ˈlʊkɪŋ fɔr preɪ/",
+          "kana": "ザ モウブ イズ ロウミング アラウンド ザ ケイブ ルッキング フォー プレイ",
+          "linking": [
+            "is は機能語（助動詞）で弱形 /ɪz/ イズ",
+            "is roaming → is の語末子音 /z/ が roaming の初頭子音 /r/ に連結 [ɪz ˈroʊmɪŋ] イズ ロウミング",
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "We are roaming the desert searching for a village.",
+          "ja": "私たちは村を探して、砂漠を歩き回っています。",
+          "ipa": "/wi ər ˈroʊmɪŋ ðə ˈdɛzərt ˈsɝtʃɪŋ fɔr ə ˈvɪlɪdʒ/",
+          "kana": "ウィ アー ロウミング ザ デザート サーチング フォー ア ヴィリッジ",
+          "linking": [
+            "are は機能語（助動詞）で弱形 /ər/ アー",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔr/ フォー",
+            "a は弱形 /ə/ ア"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was roaming",
+      "ipa": "/wəz ˈroʊmɪŋ/",
+      "examples": [
+        {
+          "en": "The mob was roaming the forest when we attacked it.",
+          "ja": "私たちがそのモブを攻撃したとき、モブは森を歩き回っていました。",
+          "ipa": "/ðə moʊb wəz ˈroʊmɪŋ ðə ˈfɔrɪst wɛn wi əˈtækt ɪt/",
+          "kana": "ザ モウブ ワズ ロウミング ザ フォレスト ウェン ウィ アタクト イット",
+          "linking": [
+            "was は機能語（助動詞）で弱形 /wəz/ ワズ",
+            "was roaming → was の語末子音 /z/ が roaming の初頭 /r/ に連結 [wəz ˈroʊmɪŋ] ワズ ロウミング",
+            "the は弱形 /ðə/ ザ（2回）"
+          ]
+        },
+        {
+          "en": "I was roaming the plains before I found the village.",
+          "ja": "村を見つける前に、私は平原を歩き回っていました。",
+          "ipa": "/aɪ wəz ˈroʊmɪŋ ðə ˈpleɪnz bɪˈfɔr aɪ ˈfaʊnd ðə ˈvɪlɪdʒ/",
+          "kana": "アイ ワズ ロウミング ザ プレインズ ビフォア アイ ファウンド ザ ヴィリッジ",
+          "linking": [
+            "was は機能語（助動詞）で弱形 /wəz/ ワズ",
+            "the は弱形 /ðə/ ザ（2回）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been roaming",
+      "ipa": "/həd ˈbɪn ˈroʊmɪŋ/",
+      "examples": [
+        {
+          "en": "The mob had been roaming the plains for hours before we defeated it.",
+          "ja": "私たちがそのモブを倒す前に、モブは数時間平原を歩き回っていました。",
+          "ipa": "/ðə moʊb həd ˈbɪn ˈroʊmɪŋ ðə ˈpleɪnz fɔr ˈaʊɚz bɪˈfɔr wi dɪˈfitɪd ɪt/",
+          "kana": "ザ モウブ ハド ビン ロウミング ザ プレインズ フォー アワーズ ビフォア ウィ ディフィティド イット",
+          "linking": [
+            "had は機能語（助動詞）で弱形 /həd/ ハド",
+            "been は機能語（過去分詞）で弱形 /bɪn/ ビン",
+            "had been → had の語末子音 /d/ が been の初頭 /b/ に続き未開放停止 [həd̚ ˈbɪn] ハド ビン",
+            "been roaming → been の語末子音 /n/ が roaming の初頭 /r/ に続き（子音+子音）",
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "We had been roaming the nether for days before finding the fortress.",
+          "ja": "要塞を見つける前に、私たちはネザーを何日も歩き回っていました。",
+          "ipa": "/wi həd ˈbɪn ˈroʊmɪŋ ðə ˈnɛðər fɔr ˈdeɪz bɪˈfɔr ˈfaɪndɪŋ ðə ˈfɔrtrɪs/",
+          "kana": "ウィ ハド ビン ロウミング ザ ネザー フォー デイズ ビフォア ファインディング ザ フォートリス",
+          "linking": [
+            "had は機能語（助動詞）で弱形 /həd/ ハド",
+            "been は機能語（過去分詞）で弱形 /bɪn/ ビン",
+            "had been → had の語末子音 /d/ が been の初頭 /b/ に続き未開放停止 [həd̚ ˈbɪn] ハド ビン",
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        }
+      ]
     }
   ],
   "tags": [
