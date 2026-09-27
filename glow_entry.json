@@ -305,6 +305,96 @@
           "kana": "バイ ザ タイム ザ エンダーマン アライヴド ザ ビーコンズ ハド ビン グロウィング ファー アワーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has glowed",
+      "ipa": "/həz ˈɡloʊd/",
+      "examples": [
+        {
+          "en": "The beacon has glowed continuously since I built the pyramid yesterday.",
+          "ipa": "/ðə ˈbikən həz ˈɡloʊd kənˈtɪnjuəsli sɪns aɪ bɪlt ðə pɪˈræməd ˈjɛstɚdeɪ/",
+          "linking": [
+            "The は子音前で弱形 /ðə/ ザ。beacon の /n/ が has の /h/ に続く（子音+子音）",
+            "has は弱形 /həz/ ハズ、glowed の /ɡ/ に続く（子音+子音）",
+            "continuously の語末 /i/ が since の /s/ に続く（子音+子音）。since の語末 /s/ が I の /aɪ/ に連結 [sɪns aɪ] シンス アイ",
+            "built の語末 /t/ が the の /ð/ に続く（子音+子音）。the は弱形 /ðə/ ザ。pyramid の語末 /d/ が yesterday の /j/ に続く（子音+子音）"
+          ],
+          "kana": "ザ ビーコン ハズ グロウド コンティニュアスリー シンス アイ ビルト ザ ピラミッド イェスターデイ"
+        },
+        {
+          "en": "My enchanted sword has glowed with a magical aura whenever I held it in battle.",
+          "ipa": "/maɪ ɛnˈtʃɑntəd sɔrd həz ˈɡloʊd wɪð ə ˈmædʒɪkəl ˈɔrə ɛnˈɛvɚ aɪ hɛld ɪt̚ ɪn ˈbætəl/",
+          "linking": [
+            "enchanted の /d/ が sword の /s/ に続く（子音+子音）。has は弱形 /həz/ ハズ、glowed の /ɡ/ に続く（子音+子音）",
+            "glowed の語末 /d/ が with の /w/ に続く（子音+子音）。with は /wɪð/ ウィズ、a の /ə/ に連結 [wɪð ə] ウィズ ア。a は弱形 /ə/",
+            "magical の語末 /l/ が aura の /ɔ/ に連結 [ˈmædʒɪkəl ˈɔrə] マジカル オーラ。whenever の語末 /ɚ/ が I の /aɪ/ に続く",
+            "held の語末 /d/ が it の /ɪ/ に連結 [hɛld ɪt̚] ヘルド イッ。it の語末 /t/ は未開放 /t̚/、in の /ɪ/ に続く（未開放+母音）。in は /ɪn/、battle の /b/ に続く（子音+子音）"
+          ],
+          "kana": "マイ エンチャンティッド ソード ハズ グロウド ウィズ ア マジカル オーラ エネヴァー アイ ヘルド イッ イン バトル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had glowed",
+      "ipa": "/həd ˈɡloʊd/",
+      "examples": [
+        {
+          "en": "Before the power outage, the torches had glowed for three days straight without stopping.",
+          "ipa": "/bɪˈfɔr ðə ˈpaʊɚ ˈaʊtɪdʒ ðə ˈtɔrtʃɪz həd ˈɡloʊd fɚ ˈθri deɪz streɪt wɪðˈaʊt̚ ˈstɑpɪŋ/",
+          "linking": [
+            "Before は /bɪˈfɔr/ ビフォー、the は弱形 /ðə/ ザ。outage の語末 /dʒ/ が the の /ð/ に続く（子音+子音）",
+            "torches の語末 /z/ が had の /h/ に続く（子音+子音）。had は弱形 /həd/ ハド、glowed の /ɡ/ に続く（子音+子音）",
+            "glowed の語末 /d/ が for の /f/ に続く（子音+子音）。for は弱形 /fɚ/ ファー。days の語末 /z/ が straight の /s/ に連結 [deɪz streɪt] デイズ ストレイト",
+            "without の語末 /t/ は未開放 /t̚/、stopping の /s/ に続く（未開放+子音）"
+          ],
+          "kana": "ビフォー ザ パウアー アウティッジ ザ トーチェズ ハド グロウド ファー スリー デイズ ストレイト ウィザウッ ストッピング"
+        },
+        {
+          "en": "The Nether portal had glowed purple before the redstone circuit broke.",
+          "ipa": "/ðə ˈnɛðɚ ˈpɔrɾəl həd ˈɡloʊd ˈpɝpəl bɪˈfɔr ðə ˈrɛdˌstoʊn ˈsɝkɪt̚ broʊk/",
+          "linking": [
+            "The は子音前で弱形 /ðə/ ザ。portal の語末 /l/ が had の /h/ に続く（子音+子音）。had は弱形 /həd/ ハド、glowed の /ɡ/ に続く（子音+子音）",
+            "glowed の語末 /d/ が purple の /p/ に続く（子音+子音）。purple は /ˈpɝpəl/ パープル。purple の語末 /l/ が before の /b/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ。redstone の語末 /n/ が circuit の /s/ に続く（子音+子音）",
+            "circuit の語末 /t/ は未開放 /t̚/、broke の /b/ に続く（未開放+子音）"
+          ],
+          "kana": "ザ ネザー ポーラル ハド グロウド パープル ビフォー ザ レッドストウン サーキッ ブロウク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been glowing",
+      "ipa": "/həz ˈbɪn ˈɡloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The lava lamp has been glowing non-stop in my base for over a week.",
+          "ipa": "/ðə ˈlɑvə læmp həz bɪn ˈɡloʊɪŋ ˌnɑnˈstɑp ɪn maɪ beɪs fɚ ˈoʊvɚ ə wik/",
+          "linking": [
+            "The は子音前で弱形 /ðə/ ザ。lamp の語末 /p/ が has の /h/ に続く（子音+子音）。has は弱形 /həz/ ハズ",
+            "been は弱形 /bɪn/ ビン、glowing の /ɡ/ に続く（子音+子音）。glowing の語末 /ŋ/ が non-stop の /n/ に続く（子音+子音）",
+            "in は /ɪn/、my の /m/ に続く（子音+子音）。for は弱形 /fɚ/ ファー、over の /oʊ/ に続く",
+            "a は弱形 /ə/ ア、week の /w/ に続く（子音+子音）"
+          ],
+          "kana": "ザ ラヴァ ランプ ハズ ビン グロウィング ナンストップ イン マイ ベイス ファー オウヴァー ア ウィーク"
+        },
+        {
+          "en": "The glowstone blocks have been glowing brightly throughout the entire cave system.",
+          "ipa": "/ðə ˈɡloʊstoʊn blɑks həv bɪn ˈɡloʊɪŋ ˈbraɪtli θruˈaʊt ðə ɛnˈtaɪɚ keɪv ˈsɪstəm/",
+          "linking": [
+            "The は子音前で弱形 /ðə/ ザ。blocks の語末 /s/ が have の /h/ に続く（子音+子音）。have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン、glowing の /ɡ/ に続く（子音+子音）。glowing の語末 /ŋ/ が brightly の /b/ に続く（子音+子音）",
+            "throughout は /θruˈaʊt/ スルーアウト、the は弱形 /ðə/ ザ。entire の語末 /ɚ/ が cave の /k/ に続く（子音+子音）",
+            "cave の語末 /v/ が system の /s/ に続く（子音+子音）"
+          ],
+          "kana": "ザ グロウストウン ブロックス ハヴ ビン グロウィング ブライトリー スルーアウト ザ エンタイアー ケイブ システム"
+        }
+      ]
     }
   ]
 }
