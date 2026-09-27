@@ -396,6 +396,101 @@
           "kana": "ウィ ハヴ ビン スマッシング オア オール モーニング タ プリペア ファー ザ レイド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will smash",
+      "ipa": "/wɪl smæʃ/",
+      "examples": [
+        {
+          "en": "I will smash this ore block to collect diamonds quickly.",
+          "ja": "ダイヤモンドを素早く集めるためにこの鉱石ブロックを砕きます。",
+          "ipa": "[aɪ wəl smæʃ ðɪs ɔɹ blɑk tə kəˈlɛkt ˈdaɪməndz ˈkwɪkli]",
+          "linking": [
+            "「will smash」で will は /wɪl/ が弱形 /wəl/ に弱化 [wəl smæʃ]→「ウル スマッシュ」",
+            "「this ore」で this の語末 /s/ が ore の初頭 /ɔ/ に先行し未開放 [ðɪs̚ ɔɹ]→「ジス オア」",
+            "「to collect」で to は機能語として弱形 /tə/ [tə kəˈlɛkt]→「タ コレクト」"
+          ],
+          "kana": "アイ ウル スマッシュ ジス オア ブラック タ コレクト ダイモンズ クイックリー"
+        },
+        {
+          "en": "They will smash through the obsidian wall to escape the endermen.",
+          "ja": "エンダーマンから逃げるために黒曜石の壁をぶち壊します。",
+          "ipa": "[ðeɪ wəl smæʃ θru ðə ɑbˈsɪdiən wɔl tə ɪˈskeɪp ðə ˈɛndɚˌmɛn]",
+          "linking": [
+            "「will smash」で will は弱形 /wəl/ [wəl smæʃ]→「ウル スマッシュ」",
+            "「smash through」で smash の語末 /ʃ/ が through の初頭 /θ/ に先行し未開放 [smæʃ̚ θru]→「スマッシュ スルー」",
+            "「the obsidian」で the は弱形 /ðə/ [ðə ɑbˈsɪdiən]→「ザ オブシディアン」",
+            "「to escape」で to は弱形 /tə/ [tə ɪˈskeɪp]→「タ イスケイプ」"
+          ],
+          "kana": "ゼイ ウル スマッシュ スルー ザ オブシディアン ウォール タ イスケイプ ザ エンダーメン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be smashing",
+      "ipa": "/wɪl bi ˈsmæʃɪŋ/",
+      "examples": [
+        {
+          "en": "The warden will be smashing through our walls when nightfall comes.",
+          "ja": "夜が来たときに、ウォーデンが私たちの壁をぶち壊し続けているでしょう。",
+          "ipa": "[ðə ˈwɔɹdən wəl bi ˈsmæʃɪŋ θru ˈaʊɹ wɔlz wɛn ˈnaɪtˌfɔl ˈkʌmz]",
+          "linking": [
+            "「warden will」で warden の語末 /n/ が will の初頭 /w/ に先行し未開放 [ˈwɔɹdən̚ wəl]→「ワーデン ウル」",
+            "「will be」で will は弱形 /wəl/、be 弱形 /bi/ に連結 [wəl bi]→「ウル ビー」",
+            "「be smashing」で be末の /i/ が smashing初頭 /ɪ/ に連結 [bi ˈsmæʃɪŋ]→「ビー スマッシング」",
+            "「smashing through」で smashing の語末 /ŋ/ が through の初頭 /θ/ に先行し未開放 [ˈsmæʃɪŋ̚ θru]→「スマッシング スルー」"
+          ],
+          "kana": "ザ ワーデン ウル ビー スマッシング スルー アワー ウォールズ ウェン ナイトフォール カムズ"
+        },
+        {
+          "en": "We will be smashing ore all day to gather enough resources for the big build.",
+          "ja": "大きなビルドのために十分なリソースを集めるために、私たちは一日中鉱石をぶち壊し続けているでしょう。",
+          "ipa": "[wi wəl bi ˈsmæʃɪŋ ɔɹ ɔl ˈdeɪ tə ˈɡæðɚ ɪˈnʌf ˈrɛsɚsɪz fɔɹ ðə ˈbɪɡ ˈbɪld]",
+          "linking": [
+            "「will be」で will は弱形 /wəl/、be 弱形 /bi/ に連結 [wəl bi]→「ウル ビー」",
+            "「be smashing」で be末の /i/ が smashing初頭 /ɪ/ に連結 [bi ˈsmæʃɪŋ]→「ビー スマッシング」",
+            "「smashing ore」で smashing の語末 /ŋ/ が ore の初頭 /ɔ/ に先行し未開放 [ˈsmæʃɪŋ̚ ɔɹ]→「スマッシング オア」",
+            "「to gather」で to は弱形 /tə/ [tə ˈɡæðɚ]→「タ ギャザー」"
+          ],
+          "kana": "ウィ ウル ビー スマッシング オア オール デイ タ ギャザー イナフ リソーシーズ ファー ザ ビッグ ビルド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have smashed",
+      "ipa": "/wɪl həv smæʃt/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, I will have smashed all the ore in this mine.",
+          "ja": "明日の朝までに、私はこの鉱山のすべての鉱石をぶち壊しているでしょう。",
+          "ipa": "[baɪ təˈmɑɹoʊ ˈmɔɹnɪŋ aɪ wəl əv smæʃt ɔl ðɪ ɔɹ ɪn ðɪs ˈmaɪn]",
+          "linking": [
+            "「By tomorrow」で By末の /aɪ/ が tomorrow初の /t/ に連結 [baɪ təˈmɑɹoʊ]→「バイ トゥモロー」",
+            "「will have」で will は弱形 /wəl/、have は弱形 /əv/ に連結 [wəl əv]→「ウル アヴ」",
+            "「have smashed」で have末の /v/ が smashed初の /s/ に先行（子音-子音接続） [əv smæʃt]→「アヴ スマッシュト」",
+            "「the ore」で the は弱形 /ðɪ/ [ðɪ ɔɹ]→「ジ オア」"
+          ],
+          "kana": "バイ トゥモロー モーニング アイ ウル アヴ スマッシュト オール ジ オア イン ジス マイン"
+        },
+        {
+          "en": "The miners will have smashed through the deep ore layer by sunset.",
+          "ja": "日没までに、採掘者たちは深い鉱石層をぶち壊しているでしょう。",
+          "ipa": "[ðə ˈmaɪnɚz wəl əv smæʃt θru ðə ˈdip ɔɹ ˈleɪɚ baɪ ˈsʌnˌsɛt]",
+          "linking": [
+            "「the miners」で the は弱形 /ðə/ [ðə ˈmaɪnɚz]→「ザ マイナーズ」",
+            "「miners will」で miners末の /z/ が will初の /w/ に先行し未開放 [ˈmaɪnɚz̚ wəl]→「マイナーズ ウル」",
+            "「will have」で will は弱形 /wəl/、have は弱形 /əv/ に連結 [wəl əv]→「ウル アヴ」",
+            "「smashed through」で smashed末の /t/ が through初の /θ/ に先行し未開放 [smæʃt̚ θru]→「スマッシュト スルー」"
+          ],
+          "kana": "ザ マイナーズ ウル アヴ スマッシュト スルー ザ ディープ オア レイアー バイ サンセット"
+        }
+      ]
     }
   ]
 }
