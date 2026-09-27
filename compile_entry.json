@@ -269,6 +269,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has compiled",
+      "ipa": "/həz kəmˈpaɪld/",
+      "examples": [
+        {
+          "en": "I have compiled all the texture data into our main resource file.",
+          "ja": "テクスチャーデータをすべてメインリソースファイルにコンパイルしました。",
+          "ipa": "/aɪ həv kəmˈpaɪld ɔl ðə ˈtɛkstʃɚ ˈdeɪtə ˈɪntə aʊɚ ˈmeɪn ˈrɛsɚs ˈfaɪl/",
+          "kana": "アイ ハヴ コンパイルド オール ザ テクスチャー デイタ イントゥ アワー メイン リソース ファイル",
+          "linking": [
+            "「have compiled」: have は弱形 /həv/「ハヴ」、compiled の /k/ に続く",
+            "「compiled all」: compiled の語末 /d/ が all の母音 /ɔ/ に連結 [kəmˈpaɪldɔl]「コンパイルド オール」",
+            "「the texture」: the は弱形 /ðə/「ザ」、texture の /t/ に続く"
+          ]
+        },
+        {
+          "en": "Our development team has compiled three major mod packs in the past month.",
+          "ja": "私たちの開発チームは過去1ヶ月間に3つのメジャーModパックをコンパイルしました。",
+          "ipa": "/ˈaʊɚ dɪˈvɛləpmənt ˈtim həz kəmˈpaɪld θɹiː ˈmeɪdʒɚ mɑd pæks ɪn ðə ˈpæst ˈmʌnθ/",
+          "kana": "アワー ディベロップメント ティーム ハズ コンパイルド スリー メイジャー モッド パックス イン ザ パスト マンス",
+          "linking": [
+            "「has compiled」: has は弱形 /həz/「ハズ」、compiled の /k/ に続く",
+            "「in the」: in の語末 /n/ が the の弱形 /ðə/ に連結 [ɪnðə]「イン ザ」",
+            "「past month」: past の語末 /t/ が month の /m/ に続き、子音+子音で連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had compiled",
+      "ipa": "/həd kəmˈpaɪld/",
+      "examples": [
+        {
+          "en": "By the time the update arrived, we had compiled all the necessary resource files.",
+          "ja": "アップデートが到着した時までに、私たちは必要なすべてのリソースファイルをコンパイルしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈʌpˌdeɪt əˈraɪvd wi həd kəmˈpaɪld ɔl ðə ˈnɛsəsɛɹi ˈrɛsɚs ˈfaɪlz/",
+          "kana": "バイ ザ タイム ザ アップデイト アライブド ウィ ハド コンパイルド オール ザ ネセッセリ リソース ファイルズ",
+          "linking": [
+            "「by the」: by は /baɪ/、the は弱形 /ðə/「ザ」",
+            "「had compiled」: had は弱形 /həd/「ハド」、compiled の /k/ に続く",
+            "「compiled all」: compiled の語末 /d/ が all の母音 /ɔ/ に連結 [kəmˈpaɪldɔl]「コンパイルド オール」"
+          ]
+        },
+        {
+          "en": "She had compiled all the custom texture files correctly before submitting.",
+          "ja": "彼女は提出する前にカスタムテクスチャーファイルをすべて正しくコンパイルしていました。",
+          "ipa": "/ʃi həd kəmˈpaɪld ɔl ðə ˈkʌstəm ˈtɛkstʃɚ ˈfaɪlz ˈkɑɹɛktli bɪˈfɔɹ səbˈmɪtɪŋ/",
+          "kana": "シー ハド コンパイルド オール ザ カスタム テクスチャー ファイルズ コレクティ ビフォア サブミティング",
+          "linking": [
+            "「had compiled」: had は弱形 /həd/「ハド」、compiled の /k/ に続く",
+            "「compiled all」: compiled の語末 /d/ が all の母音 /ɔ/ に連結 [kəmˈpaɪldɔl]「コンパイルド オール」",
+            "「the custom」: the は弱形 /ðə/「ザ」、custom の /k/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been compiling",
+      "ipa": "/həz bɪn kəmˈpaɪlɪŋ/",
+      "examples": [
+        {
+          "en": "I have been compiling these texture packs all morning long.",
+          "ja": "私は一朝中これらのテクスチャーパックをコンパイルしています。",
+          "ipa": "/aɪ həv bɪn kəmˈpaɪlɪŋ ðiz ˈtɛkstʃɚ pæks ɔl ˈmɔɹnɪŋ ˈlɔŋ/",
+          "kana": "アイ ハヴ ビン コンパイリング ディーズ テクスチャー パックス オール モーニング ロング",
+          "linking": [
+            "「have been」: have は弱形 /həv/「ハヴ」、been は弱形 /bɪn/「ビン」",
+            "「these texture」: these は /ðiz/、texture は /ˈtɛkstʃɚ/ で連結なし",
+            "「morning long」: morning の語末 /ŋ/ が long の /l/ に続き、子音+子音で連結なし"
+          ]
+        },
+        {
+          "en": "The server has been compiling all the shader code for network optimization.",
+          "ja": "サーバーはネットワーク最適化用にすべてのシェーダーコードをコンパイルし続けています。",
+          "ipa": "/ðə ˈsɚvɚ həz bɪn kəmˈpaɪlɪŋ ɔl ðə ˈʃeɪdɚ koʊd fɔɹ ˈnɛtˌwɝk ˌɑptɪməˈzeɪʃən/",
+          "kana": "ザ サーバー ハズ ビン コンパイリング オール ザ シェイダー コード フォア ネットワーク オプティミゼイション",
+          "linking": [
+            "「the server」: the は弱形 /ðə/「ザ」、server の /s/ に続く",
+            "「has been」: has は弱形 /həz/「ハズ」、been は弱形 /bɪn/「ビン」",
+            "「for network」: for は弱形 /fɔɹ/「フォア」、network の /n/ に続く"
+          ]
+        }
+      ]
     }
   ]
 }
