@@ -76,5 +76,367 @@
       ]
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more divine",
+      "ipa": "/mɔɹ dɪˈvaɪn/",
+      "examples": [
+        {
+          "en": "This enchanted sword is more divine than the regular iron one.",
+          "ja": "このエンチャントされた剣は通常の鉄製よりも素晴らしいです。",
+          "ipa": "/ðɪs ɪnˈtʃæntɪd sɔɹd ɪz mɔɹ dɪˈvaɪn ðæn ðə ˈrɛɡjələr ˈaɪɚn wʌn/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "regular の語末 /ər/ と one の初頭 /w/ は子音+子音で特に連結なし"
+          ],
+          "kana": "ディス インチャンテッド ソード イズ モア ディヴァイン ザン ザ レギュラー アイラン ワン"
+        },
+        {
+          "en": "The main temple looks more divine with all the glowing blocks lighting it up.",
+          "ja": "グロウブロックがたくさん輝いている時、メインテンプルはより素晴らしく見えます。",
+          "ipa": "/ðə ˈmeɪn ˈtɛmpəl ˈlʊks mɔɹ dɪˈvaɪn wɪð ɔːl ðə ˈɡloʊɪŋ ˈblɑks ˈlaɪtɪŋ ɪt ʌp/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ザ メイン テンプル ルックス モア ディヴァイン ウィズ オール ザ グロウイング ブロックス ライティング イット アップ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most divine",
+      "ipa": "/ˈmoʊst dɪˈvaɪn/",
+      "examples": [
+        {
+          "en": "The end portal frame is the most divine structure in the entire Minecraft world.",
+          "ja": "エンドポータルフレームはマインクラフト全体で最も神聖な構造物です。",
+          "ipa": "/ðə ˈɛnd ˈpɔɹtəl ˈfreɪm ɪz ðə ˈmoʊst dɪˈvaɪn ˈstrʌktʃɚ ɪn ðə ɪnˈtaɪɚ ˈmaɪnˌkræft wɝld/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "frame の語末 /m/ が is の初頭 /ɪ/ に連結 [ˈfreɪm ɪz]"
+          ],
+          "kana": "ザ エンド ポータル フレイム イズ ザ モウスト ディヴァイン ストラクチャー イン ザ インタイラー マインクラフト ワールド"
+        },
+        {
+          "en": "Bedrock is the most divine and sacred block in all of the game.",
+          "ja": "ベドロックはゲーム全体で最も神聖で聖なるブロックです。",
+          "ipa": "/ˈbɛdɹɑk ɪz ðə ˈmoʊst dɪˈvaɪn ənd ˈseɪkrəd blɑk ɪn ɔːl əv ðə ɡeɪm/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "and は弱形 /ənd/",
+            "all の語末 /l/ が of の初頭 /ə/ に連結 [ˈɔl əv]"
+          ],
+          "kana": "ベドロック イズ ザ モウスト ディヴァイン アンド セイクレッド ブロック イン オール アブ ザ ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "divines",
+      "ipa": "/dɪˈvaɪnz/",
+      "examples": [
+        {
+          "en": "The ancient oracle divines the location of hidden treasures deep underground.",
+          "ja": "古代の神託者は地下深くに隠された宝物の位置を察知します。",
+          "ipa": "/ðə ˈeɪnʃənt ˈɔrəkəl dɪˈvaɪnz ðə loʊˈkeɪʃən əv ˈhɪdən ˈtɹɛʒɚz dip ˈʌndɚɡraʊnd/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ザ エインシャント オラクル ディヴァインズ ザ ロケーション アブ ヒデン トレジャーズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "She divines which chunks contain valuable ores through her magical intuition.",
+          "ja": "彼女は彼女の魔法の直感を通じて、どのチャンクに価値のある鉱石が含まれているか察知します。",
+          "ipa": "/ʃi dɪˈvaɪnz wɪtʃ ˈtʃʌŋks kənˈteɪnz ˈvæljuəbəl ˈɔɹz θɹu hɚ ˈmædʒɪkəl ɪnˈtjuːɪʃən/",
+          "linking": [
+            "chunks の語末 /s/ が contain の初頭 /k/ に続く（子音+子音、未開放）",
+            "through は /θɹuː/"
+          ],
+          "kana": "シー ディヴァインズ ウィッチ チャンクス コンテインズ ヴァリュアブル オアーズ スルー ハー マジカル インチューイション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "divined",
+      "ipa": "/dɪˈvaɪnd/",
+      "examples": [
+        {
+          "en": "I divined that the hidden temple was buried beneath the desert sand.",
+          "ja": "隠された寺院が砂漠の砂の下に埋まっていることを直感で知りました。",
+          "ipa": "/aɪ dɪˈvaɪnd ðæt ðə ˈhɪdən ˈtɛmpəl wəz ˈbɛrid bɪˈniθ ðə ˈdɛzɚt sænd/",
+          "linking": [
+            "divined that で /d/ が /ð/ に続く（子音+子音、未開放）[dɪˈvaɪn̚d]",
+            "the は弱形 /ðə/ (2回)",
+            "was は弱形 /wəz/、the に連結"
+          ],
+          "kana": "アイ ディヴァインド ザット ザ ヒデン テンプル ワズ ベリド ビニース ザ デザート サンド"
+        },
+        {
+          "en": "We divined the correct path through the dangerous cave when supplies ran low.",
+          "ja": "物資が不足したとき、危険な洞窟を通じて正しい道を直感で知ました。",
+          "ipa": "/wi dɪˈvaɪnd ðə kəˈrɛkt pæθ θɹu ðə ˈdeɪndʒərəs ˈkeɪv wɛn səˈplaɪz ræn ˈloʊ/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "ran の語末 /n/ が low の初頭 /l/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ウィ ディヴァインド ザ コレクト パス スルー ザ デインジャラス ケーブ ウェン サプライズ ラン ロウ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "divined",
+      "ipa": "/dɪˈvaɪnd/",
+      "examples": [
+        {
+          "en": "Having divined the treasure's location, we began our excavation work immediately.",
+          "ja": "宝物の場所を察知した後、すぐに発掘作業を開始しました。",
+          "ipa": "/ˈhævɪŋ dɪˈvaɪnd ðə ˈtɹɛʒɚz loʊˈkeɪʃən, wi bɪˈɡæn ˈaʊɚ ˌɛksəˈveɪʃən ˈwɝk ɪˈmidʒɪtli/",
+          "linking": [
+            "having の語末 /ŋ/ が divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ハヴィング ディヴァインド ザ トレジャーズ ロケーション ウィ ビギャン アウアー エクスケイベーション ワーク イミジットリー"
+        },
+        {
+          "en": "The location has been divined by the most skilled mystics in the server.",
+          "ja": "その場所はサーバーで最も熟練した神秘家によって察知されました。",
+          "ipa": "/ðə loʊˈkeɪʃən həz bɪn dɪˈvaɪnd baɪ ðə ˈmoʊst ˈskɪld ˈmɪstɪks ɪn ðə ˈsɝvɚ/",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "has は弱形 /həz/, been に連結"
+          ],
+          "kana": "ザ ロケーション ハズ ビン ディヴァインド バイ ザ モウスト スキルド ミスティックス イン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "divining",
+      "ipa": "/dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We are divining the best location for our new base near the water.",
+          "ja": "私たちは水の近くで新しいベースの最適な場所を察知しています。",
+          "ipa": "/wi ɑɹ dɪˈvaɪnɪŋ ðə bɛst loʊˈkeɪʃən fɔɹ ˈaʊɚ ˈnjuː ˈbeɪs nɪɹ ðə ˈwɔtɚ/",
+          "linking": [
+            "are は弱形 /ɚ/, divining に連結",
+            "the は弱形 /ðə/ (2回)",
+            "for は弱形 /fə/"
+          ],
+          "kana": "ウィ アー ディヴァイニング ザ ベスト ロケーション ファー アウアー ニュー ベイス ニアー ザ ウォーター"
+        },
+        {
+          "en": "Divining for hidden dungeons takes patience and skill in this difficult game.",
+          "ja": "この困難なゲームで隠されたダンジョンを探すことには忍耐力とスキルが必要です。",
+          "ipa": "/dɪˈvaɪnɪŋ fɔɹ ˈhɪdən ˈdʌndʒənz ˈteɪks ˈpeɪʃəns ənd skɪl ɪn ðɪs ˈdɪfɪkəlt ɡeɪm/",
+          "linking": [
+            "for は弱形 /fə/",
+            "and は弱形 /ənd/"
+          ],
+          "kana": "ディヴァイニング ファー ヒデン ダンジョンズ テイクス ペーション アンド スキル イン ディス ディフィカルト ゲイム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is divining",
+      "ipa": "/ɪz dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The mystic is divining the location of the hidden end portal deep within our world.",
+          "ja": "神秘家は私たちの世界の奥深くに隠されたエンドポータルの位置を察知しています。",
+          "ipa": "/ðə ˈmɪstɪk ɪz dɪˈvaɪnɪŋ ðə loʊˈkeɪʃən əv ðə ˈhɪdən ˈɛnd ˈpɔɹtəl dip wɪˈðɪn ˈaʊɚ wɝld/",
+          "linking": [
+            "the は弱形 /ðə/ (3回)",
+            "is は弱形 /ɪz/, divining に連結 [ɪz dɪ]",
+            "of は弱形 /əv/",
+            "hidden の語末 /ən/ が end の初頭 /ɛ/ に連結 [ˈhɪdən ɛnd]"
+          ],
+          "kana": "ザ ミスティック イズ ディヴァイニング ザ ロケーション アブ ザ ヒデン エンド ポータル ディープ ウィディン アウアー ワールド"
+        },
+        {
+          "en": "I'm divining where the diamonds might be in this new cave system.",
+          "ja": "この新しい洞窟システムでダイヤモンドがどこにあるかを察知しています。",
+          "ipa": "/aɪm dɪˈvaɪnɪŋ wɛɹ ðə ˈdaɪməndz maɪt bi ɪn ðɪs ˈnjuː ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "I'm は /aɪm/, 'm (am の弱形) は /əm/",
+            "the は弱形 /ðə/",
+            "new は /njuː/"
+          ],
+          "kana": "アイム ディヴァイニング ウェア ザ ダイモンズ マイト ビー イン ディス ニュー ケーブ システム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was divining",
+      "ipa": "/wəz dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We were divining the best spot for our base when the storm hit.",
+          "ja": "嵐が襲った時、私たちはベースの最適な場所を察知していました。",
+          "ipa": "/wi wɚ dɪˈvaɪnɪŋ ðə bɛst spɑt fɔɹ ˈaʊɚ ˈbeɪs wɛn ðə stɔɹm hɪt/",
+          "linking": [
+            "were は弱形 /wɚ/, divining に連結",
+            "the は弱形 /ðə/",
+            "for は弱形 /fə/",
+            "storm の語末 /m/ が hit の初頭 /h/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ウィ ワー ディヴァイニング ザ ベスト スポット ファー アウアー ベイス ウェン ザ ストーム ヒット"
+        },
+        {
+          "en": "She was divining the treasure location when her magical energy ran out.",
+          "ja": "彼女の魔力が尽きた時、彼女は宝物の位置を察知していました。",
+          "ipa": "/ʃi wəz dɪˈvaɪnɪŋ ðə ˈtɹɛʒɚ loʊˈkeɪʃən wɛn hɚ ˈmædʒɪkəl ˈɛnɚdʒi ræn ˈaʊt/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the は弱形 /ðə/",
+            "ran の語末 /n/ が out の初頭 /aʊ/ に連結 [ræn aʊt]"
+          ],
+          "kana": "シー ワズ ディヴァイニング ザ トレジャー ロケーション ウェン ハー マジカル エナジー ラン アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been divining",
+      "ipa": "/həd bɪn dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "They had been divining for hours before finally discovering the underground fortress.",
+          "ja": "彼らが地下の要塞を発見する前に、何時間も察知していました。",
+          "ipa": "/ðeɪ həd bɪn dɪˈvaɪnɪŋ fɔɹ ˈaʊɚz bɪˈfɔɹ ˈfaɪnəli dɪsˈkʌvɚɪŋ ðə ˈʌndɚɡraʊnd ˈfɔɹtɹəs/",
+          "linking": [
+            "had は弱形 /həd/, been に連結 [ˈhæd bɪn]",
+            "been は弱形 /bɪn/, divining に連結",
+            "for は弱形 /fə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン ディヴァイニング ファー アワーズ ビフォア ファイナリー ディスカバリング ザ アンダーグラウンド フォートレス"
+        },
+        {
+          "en": "I had been divining the correct path when I realized the cave was flooded.",
+          "ja": "洞窟が浸水していることに気づいた時、正しい道を察知していました。",
+          "ipa": "/aɪ həd bɪn dɪˈvaɪnɪŋ ðə kəˈrɛkt pæθ wɛn aɪ ɹɪˈælɪzd ðə ˈkeɪv wəz ˈflʌdəd/",
+          "linking": [
+            "had は弱形 /həd/, been に連結",
+            "been は弱形 /bɪn/, divining に連結",
+            "the は弱形 /ðə/ (2回)",
+            "was は弱形 /wəz/"
+          ],
+          "kana": "アイ ハド ビン ディヴァイニング ザ コレクト パス ウェン アイ リアライズド ザ ケーブ ワズ フラディッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has divined",
+      "ipa": "/həz dɪˈvaɪnd/",
+      "examples": [
+        {
+          "en": "She has divined the exact location of the hidden diamond ore beneath the mountain.",
+          "ja": "彼女は山の下に隠れたダイヤモンド鉱石の正確な位置を察知しました。",
+          "ipa": "/ʃi həz dɪˈvaɪnd ðə ɪɡˈzækt loʊˈkeɪʃən əv ðə ˈhɪdən ˈdaɪmənd ˈɔɹ bɪˈniθ ðə ˈmaʊntən/",
+          "linking": [
+            "has は弱形 /həz/, divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "of は弱形 /əv/",
+            "beneath の語末 /θ/ が the の初頭 /ð/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "シー ハズ ディヴァインド ザ イグザクト ロケーション アブ ザ ヒデン ダイモンド オアー ビニース ザ マウンテン"
+        },
+        {
+          "en": "They have divined that the fortress entrance lies beyond the vast lava lake.",
+          "ja": "彼らは要塞の入口が広大な溶岩湖の向こう側にあることを察知しました。",
+          "ipa": "/ðeɪ həv dɪˈvaɪnd ðæt ðə ˈfɔɹtɹəs ˈɛntrəns laɪz bɪˈjɑnd ðə væst ˈlɑvə ˈleɪk/",
+          "linking": [
+            "have は弱形 /həv/, divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "that の語末 /t/ が the の初頭 /ð/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "vast の語末 /t/ が lava の初頭 /l/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ゼイ ハヴ ディヴァインド ザット ザ フォートレス エントランス ライズ ビヨンド ザ ヴァスト ラーヴァ レイク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had divined",
+      "ipa": "/həd dɪˈvaɪnd/",
+      "examples": [
+        {
+          "en": "By the time we entered the cave, she had already divined where the treasure chamber was.",
+          "ja": "洞窟に入ったときまでに、彼女は既に宝物の部屋がどこにあるかを察知していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈɛntɚd ðə ˈkeɪv, ʃi həd ɔlˈrɛdi dɪˈvaɪnd wɛɹ ðə ˈtɹɛʒɚ ˈtʃeɪmbɚ wəz/",
+          "linking": [
+            "by の語末 /aɪ/ が the の初頭 /ð/ に続く（子音+子音ではなく母音+子音）",
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/, already に連結 [ˈhæd ɔl]",
+            "where の語末 /ɛɹ/ が the の初頭 /ð/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "バイ ザ タイム ウィ エンタード ザ ケーブ、シー ハド オールレディ ディヴァインド ウェア ザ トレジャー チェンバー ワズ"
+        },
+        {
+          "en": "He had divined the correct passage through the maze long before anyone else could find it.",
+          "ja": "彼は他の誰も見つける前にずっと前から迷路の正しい通路を察知していました。",
+          "ipa": "/hi həd dɪˈvaɪnd ðə kəˈrɛkt ˈpæsɪdʒ θɹu ðə meɪz lɔŋ bɪˈfɔɹ ˈɛniˌwʌn ɛls kəd ˈfɪnd ɪt/",
+          "linking": [
+            "had は弱形 /həd/, divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "through の語末 /u/ が the の初頭 /ð/ に続く（母音+子音）",
+            "long の語末 /ŋ/ が before の初頭 /b/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ヒー ハド ディヴァインド ザ コレクト パセッジ スルー ザ メイズ ロング ビフォア エニワン エルス コド ファインド イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been divining",
+      "ipa": "/həz bɪn dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We have been divining the best location for our new base all morning long.",
+          "ja": "朝中ずっと新しいベースの最適な場所を推測し続けています。",
+          "ipa": "/wi həv bɪn dɪˈvaɪnɪŋ ðə bɛst loʊˈkeɪʃən fɔɹ ˈaʊɚ ˈnjuː ˈbeɪs ɔːl ˈmɔɹnɪŋ lɔŋ/",
+          "linking": [
+            "have は弱形 /həv/, been の初頭 /b/ に続く（子音+子音、未開放）",
+            "been は弱形 /bɪn/, divining の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/",
+            "for は弱形 /fə/"
+          ],
+          "kana": "ウィ ハヴ ビン ディヴァイニング ザ ベスト ロケーション ファー アウアー ニュー ベイス オール モーニング ロング"
+        },
+        {
+          "en": "She has been divining the mysterious pattern of mob spawning for the past hour.",
+          "ja": "彼女は過去1時間、モブのスポーン パターンの謎めいた規則性を推測し続けています。",
+          "ipa": "/ʃi həz bɪn dɪˈvaɪnɪŋ ðə mɪsˈtɪɹiəs ˈpætɚn əv mɑb ˈspɔnɪŋ fɔɹ ðə ˈpæst ˈaʊɚ/",
+          "linking": [
+            "has は弱形 /həz/, been の初頭 /b/ に続く（子音+子音、未開放）",
+            "been は弱形 /bɪn/, divining の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "of は弱形 /əv/",
+            "for は弱形 /fə/"
+          ],
+          "kana": "シー ハズ ビン ディヴァイニング ザ ミスティーリアス パターン アブ モブ スポーニング ファー ザ パスト アウアー"
+        }
+      ]
+    }
+  ],
   "tags": ["Target 1900"]
 }
