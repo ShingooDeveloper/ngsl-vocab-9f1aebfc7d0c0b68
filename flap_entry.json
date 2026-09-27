@@ -389,6 +389,102 @@
           "kana": "ウィ ハブ ビン フラッピング アワー イマージェンシー シグナルズ シンス ザ エネミーズ アライブド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will flap",
+      "ipa": "/wɪl flæp/",
+      "examples": [
+        {
+          "en": "We will flap our elytra to escape from the Wither's dark bomb attack.",
+          "ja": "ウィザーの暗い爆弾攻撃から逃げるために、私たちはエリトラをはためかせます。",
+          "ipa": "[wi wɪl flæp ˈaʊɚ ɪˈlɪtrə tə ɪˈskeɪp frəm ðə ˈwɪðɚz dɑrk bɑm əˈtæk]",
+          "linking": [
+            "「will flap」— will は /wɪl/、語末子音 /l/ が /f/ に後続（子音-子音、連結なし）",
+            "「flap our」— 語末子音 /p/ が母音 /aʊ/ に連結 [flæp aʊɚ] フラップ アワー",
+            "「to escape」— 「to」弱形 /tə/「タ」",
+            "弱形「the」/ðə/「ザ」"
+          ],
+          "kana": "ウィー ウィル フラップ アワー イライトラ タ イスケイプ フラム ザ ウィザーズ ダーク ボム アタック"
+        },
+        {
+          "en": "The dragon will flap its wings powerfully as it descends to attack our fortress.",
+          "ja": "ドラゴンはその要塞を攻撃するために降りてくるときに、その翼を力強くはためかせるだろう。",
+          "ipa": "[ðə ˈdræɡən wɪl flæp ɪts ˈwɪŋz ˈpaʊɚfəli æz ɪt dɪˈsɛndz tə əˈtæk ˈaʊɚ ˈfɔɹtɪs]",
+          "linking": [
+            "「the dragon」— 「the」弱形 /ðə/「ザ」",
+            "「will flap」— will /wɪl/、/l/ + /f/ 子音-子音、連結なし",
+            "「as it」— 語末 /z/ が母音 /ɪ/ に連結 [æz ɪt] アズ イット",
+            "「to attack」— 「to」弱形 /tə/「タ」、/t/ + /ə/ 子音-母音"
+          ],
+          "kana": "ザ ドラゴン ウィル フラップ イッツ ウィングズ パワーフリー アズ イット ディセンズ タ アタック アワー フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be flapping",
+      "ipa": "/wɪl bi ˈflæpɪŋ/",
+      "examples": [
+        {
+          "en": "The bat will be flapping around the deepest caves while we collect rare ores.",
+          "ja": "私たちが珍しい鉱石を集めている間に、蝙蝠は最も深い洞窟の周りをはためかせているだろう。",
+          "ipa": "[ðə bæt wɪl bi ˈflæpɪŋ əˈɹaʊnd ðə ˈdipəst ˈkeɪvz waɪl wi kəˈlɛkt ˈrɛr ˈɔrz]",
+          "linking": [
+            "「the bat」— 「the」弱形 /ðə/「ザ」",
+            "「will be」— will /wɪl/、/l/ + /b/ 子音-子音、連結なし",
+            "「flapping around」— /ŋ/ + /ə/ 鼻音-母音、連結なし。「around」の /d/ が「the」/ðə/ に連結しフラップ化 [əˈɹaʊɾə]",
+            "「deepest caves」— 語末 /t/ が子音 /k/ に続く。未開放 /t̚/"
+          ],
+          "kana": "ザ バット ウィル ビー フラッピング アラウンダ ザ ディーペスト ケイヴズ ワイル ウィー コレクト レア オーズ"
+        },
+        {
+          "en": "They will be flapping their signal flags desperately until rescue arrives at the base.",
+          "ja": "救助が基地に到着するまで、彼らは必死でシグナルフラッグをはためかせているだろう。",
+          "ipa": "[ðeɪ wɪl bi ˈflæpɪŋ ðɛr ˈsɪɡnəl flæɡz ˈdɛspərətli ənˈtɪl ˈrɛskjuː əˈraɪvz æt ðə ˈbeɪs]",
+          "linking": [
+            "「will be」— will /wɪl/、/l/ + /b/ 子音-子音、連結なし。be は弱形 /bə/「ビー」",
+            "「be flapping」— 「be」の /ə/ + 「flapping」/f/、母音-子音、連結なし",
+            "「signal flags」— 語末子音 /l/ が子音 /f/ に続く、連結なし",
+            "「until rescue」— 「until」の語末 /l/ が母音 /r/... 実は「rescue」/ˈrɛskjuː/ は /r/ で始まる。/l/ + /r/ 子音クラスタ"
+          ],
+          "kana": "ゼイ ウィル ビー フラッピング ゼア シグナル フラッグズ デスペレイトリー アンティル レスキュー ア ライブズ アット ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have flapped",
+      "ipa": "/wɪl həv ˈflæpt/",
+      "examples": [
+        {
+          "en": "By the time we reach the top of the tower, the dragon will have flapped its wings thousands of times.",
+          "ja": "私たちが塔の頂上に到達するまでに、ドラゴンは何千回も翼をはためかせているだろう。",
+          "ipa": "[baɪ ðə ˈtaɪm wi ˈriːtʃ ðə ˈtɑp əv ðə ˈtaʊɚ ðə ˈdræɡən wɪl həv ˈflæpt ɪts ˈwɪŋz ˈθaʊzəndz əv ˈtaɪmz]",
+          "linking": [
+            "「will have」— will /wɪl/、/l/ + /h/ 子音-子音、連結なし。have は弱形 /həv/「ハヴ」",
+            "「have flapped」— 語末子音 /v/ が母音 /ə/ に連結 [həv ˈflæpt] ハヴ フラップ",
+            "「flapped its」— 語末 /d/ が母音 /ɪ/ に連結 [ˈflæpt ɪts] フラップティッツ",
+            "弱形「the」/ðə/「ザ」（複数回）"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ タップ アブ ザ タワー ザ ドラゴン ウィル ハヴ フラップティッツ ウィングズ ザウザンズ アブ タイムズ"
+        },
+        {
+          "en": "Once we escape this fortress siege, we will have flapped warning banners for hours to signal our allies.",
+          "ja": "この要塞の包囲から逃げたら、私たちの同盟国に合図を送るために、何時間も警告バナーをはためかせているだろう。",
+          "ipa": "[wʌns wi ɪˈskeɪp ðɪs ˈfɔɹtɪs ˈsidʒ | wi wɪl həv ˈflæpt ˈwɔrnɪŋ ˈbænɚz fɔr ˈaʊɚz tə ˈsɪɡnəl ˈaʊɚ ˈælaɪz]",
+          "linking": [
+            "「will have」— will /wɪl/、/l/ + /h/ 子音-子音、連結なし。have は弱形 /həv/「ハヴ」",
+            "「have flapped」— 語末子音 /v/ が母音 /ə/ に連結 [həv ˈflæpt] ハヴ フラップ",
+            "「for hours」— 「for」弱形 /fɔr/「フォア」、/ɹ/ が母音 /aʊ/ に連結 [fɔr ˈaʊɚz] フォア アワーズ",
+            "弱形「the」/ðə/「ザ」（在present の位置にはないが、signal の後に our がある）"
+          ],
+          "kana": "ワンス ウィー イスケイプ ディス フォーティス シージ、ウィー ウィル ハヴ フラップ ウォーニング バナーズ フォア アワーズ タ シグナル アワー アライズ"
+        }
+      ]
     }
   ]
 }

@@ -320,6 +320,102 @@
           "kana": "ビフォア ザ ア ライアンス カ ラプスト アワー ディプロマット ハド ビン ブライビング キー ディシージャン メイカーズ トゥ メインテイン ピース"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has bribed",
+      "ipa": "/həz ˈbraɪbd/",
+      "examples": [
+        {
+          "en": "I have bribed the wandering trader with emeralds to reveal the mansion's location.",
+          "ja": "山小屋の場所を明かすために、私はエメラルドで行商人を買収しました。",
+          "ipa": "[aɪ həv ˈbraɪbd ðə ˈwɑndɚɪŋ ˈtreɪdɚ wɪð ˈɛmərəldz tə rɪˈvil ðə mænˈʃənz loʊˈkeɪʃən]",
+          "linking": [
+            "have bribed：have は弱形 /həv/、bribed は /b/ で開始 [həv ˈbraɪbd]",
+            "bribed the：bribed は語末 /d/、the は弱形 /ðə/ で開始 [ˈbraɪbd ðə]",
+            "wandering trader：wandering は語末 /ŋ/、trader は /t/ で開始、鼻音と stop の境界 [ˈwɑndɚɪŋ ˈtreɪdɚ]",
+            "with emeralds：with は語末 /ð/、emeralds は /ɛ/ で開始 [wɪð ˈɛmərəldz]"
+          ],
+          "kana": "アイ ハブ ブライド ザ ワンダリング トレイダー ウィズ エメラルズ タ リビール ザ マンションズ ロケーション"
+        },
+        {
+          "en": "The corrupt official has bribed away his conscience for years of luxury and comfort.",
+          "ja": "その腐敗した役人は何年も豪華と快適さのために彼の良心を買収してしまいました。",
+          "ipa": "[ðə kəˈɹʌpt əˈfɪʃəl həz ˈbraɪbd əˈweɪ hɪz ˈkɑnʃəns fɚ ˈjɪɹz əv ˈlʌkʃəɹi ænd ˈkʌmfɚt]",
+          "linking": [
+            "The corrupt：the は弱形 /ðə/、corrupt は /k/ で開始 [ðə kəˈɹʌpt]",
+            "official has：official は語末 /əl/、has は弱形 /həz/ で開始 [əˈfɪʃəl həz]",
+            "has bribed：has は弱形 /həz/、bribed は /b/ で開始 [həz ˈbraɪbd]",
+            "bribed away：bribed は語末 /d/、away は /ə/ で開始 [ˈbraɪbd əˈweɪ]"
+          ],
+          "kana": "ザ コラプト ア フィシャル ハズ ブライド ア ウェイ ヒズ コンシャンス ファー イヤーズ アヴ ラックシャリー アン コムファート"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had bribed",
+      "ipa": "/həd ˈbraɪbd/",
+      "examples": [
+        {
+          "en": "Before the investigation started, the merchant had bribed every official in the kingdom.",
+          "ja": "調査が始まる前に、その商人は王国のあらゆる役人を買収していました。",
+          "ipa": "[bɪˈfɔɹ ðə ɪnˌvɛstɪˈɡeɪʃən ˈstɑɹtəd ðə ˈmɚtʃənt həd ˈbraɪbd ˈɛvɹi əˈfɪʃəl ɪn ðə ˈkɪŋdəm]",
+          "linking": [
+            "Before the：before は語末 /ɚ/、the は弱形 /ðə/ で開始 [bɪˈfɔɹ ðə]",
+            "started, the：started は語末 /ɪd/（実質 /əd/）、the は弱形 /ðə/ で開始 [ˈstɑɹtəd ðə]",
+            "had bribed：had は弱形 /həd/、bribed は /b/ で開始 [həd ˈbraɪbd]",
+            "bribed every：bribed は語末 /d/、every は /ɛ/ で開始 [ˈbraɪbd ˈɛvɹi]"
+          ],
+          "kana": "ビフォア ザ インベスティゲーション スターティド ザ マーチャント ハド ブライド エブリ ア フィシャル イン ザ キングダム"
+        },
+        {
+          "en": "By the time we discovered the scheme, someone had bribed the guards to let us through.",
+          "ja": "私たちが計画を発見した時には、誰かが私たちを通すために衛兵を買収していました。",
+          "ipa": "[baɪ ðə ˈtaɪm wi dɪˈskʌvɚd ðə ˈskim ˈsʌmwən həd ˈbraɪbd ðə ˈɡɑɹdz tə ˈlɛt əs θɹu]",
+          "linking": [
+            "By the：by は /baɪ/、the は弱形 /ðə/ で開始 [baɪ ðə]",
+            "the time：time は /t/ で開始 [ðə ˈtaɪm]",
+            "had bribed：had は弱形 /həd/、bribed は /b/ で開始 [həd ˈbraɪbd]",
+            "bribed the：bribed は語末 /d/、the は弱形 /ðə/ で開始 [ˈbraɪbd ðə]"
+          ],
+          "kana": "バイ ザ タイム ウィー ディスカバード ザ スキーム サムワン ハド ブライド ザ ガーズ タ レッ アス スルー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been bribing",
+      "ipa": "/həz bɪn ˈbraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "The faction leader has been bribing council members all season to gain control.",
+          "ja": "派閥の指導者はシーズン中、支配権を得るために議会メンバーを買収し続けています。",
+          "ipa": "[ðə ˈfækʃən ˈlidɚ həz bɪn ˈbraɪbɪŋ ˈkaʊnsəl ˈmɛmbɚz ɔl ˈsizən tə ˈɡeɪn kənˈtɹoʊl]",
+          "linking": [
+            "The faction：the は弱形 /ðə/、faction は /f/ で開始 [ðə ˈfækʃən]",
+            "has been：has は弱形 /həz/、been は弱形 /bɪn/ で開始 [həz bɪn]",
+            "been bribing：been は弱形 /bɪn/、bribing は /b/ で開始 [bɪn ˈbraɪbɪŋ]",
+            "bribing council：bribing は語末 /ŋ/、council は /k/ で開始 [ˈbraɪbɪŋ ˈkaʊnsəl]"
+          ],
+          "kana": "ザ ファクション リーダー ハズ ビン ブライビング カウンスル メンバーズ オール シーズン タ ゲイン コントロール"
+        },
+        {
+          "en": "I have been bribing the wandering trader throughout the season to stock up on rare enchanted items.",
+          "ja": "シーズン中、私は珍しいエンチャントアイテムを集めるために行商人を買収し続けています。",
+          "ipa": "[aɪ həv bɪn ˈbraɪbɪŋ ðə ˈwɑndɚɪŋ ˈtreɪdɚ θɹuːˈaʊt ðə ˈsizən tə ˈstɑk ʌp ɑn ˈreɪɚ ɪnˈtʃɑntəd ˈaɪtəmz]",
+          "linking": [
+            "have been：have は弱形 /həv/、been は弱形 /bɪn/ で開始 [həv bɪn]",
+            "been bribing：been は弱形 /bɪn/、bribing は /b/ で開始 [bɪn ˈbraɪbɪŋ]",
+            "bribing the：bribing は語末 /ŋ/、the は弱形 /ðə/ で開始 [ˈbraɪbɪŋ ðə]",
+            "throughout the：throughout は語末 /t/（未開放）、the は弱形 /ðə/ で開始 [θɹuːˈaʊt̚ ðə]"
+          ],
+          "kana": "アイ ハブ ビン ブライビング ザ ワンダリング トレイダー スルーアウト ザ シーズン タ ストック アップ オン レアー インチャンティド アイテムズ"
+        }
+      ]
     }
   ]
 }
