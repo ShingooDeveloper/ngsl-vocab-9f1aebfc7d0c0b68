@@ -1,0 +1,333 @@
+{
+  "word": "blur",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/blɝ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "blur(?:s|red|ring)?",
+  "meanings": [
+    "【動詞】〜をぼやけさせる、〜をはっきり見えないようにする（to make something unclear or less distinct）",
+    "【動詞】〜がぼやける、不明確になる（to become unclear or less distinct）",
+    "【名詞】ぼやけた画像、不鮮明な物（something that is unclear or out of focus）",
+    "【名詞】視野をぼかす効果、視界を曇らせる状態（an effect that makes vision unclear）"
+  ],
+  "examples": [
+    {
+      "en": "Rain particles blur your vision when you're standing outside.",
+      "ja": "外に立っている時、雨のパーティクルがあなたの視界をぼやかします。",
+      "ipa": "/ˈreɪn ˈpɑɹtɪkəlz blɝ jɚ ˈvɪʒən wɛn juɹ ˈstændɪŋ ˌaʊtˈsaɪd/",
+      "linking": [
+        "「Rain particles」で rain の語末 /n/ が particles に連結「レイン パーティクルズ」",
+        "「particles blur」で particles の語末 /z/ が母音 /b/ に連結「パーティクルズ ブラー」",
+        "「when you're」で when の語末 /n/ が you に連結、you're の弱形「ウェン ユアー」",
+        "「standing outside」で standing の語末 /ŋ/ が母音 /ə/ に連結「スタンディング アウトサイド」"
+      ],
+      "kana": "レイン パーティクルズ ブラー ユア ビジョン ウェン ユアー スタンディング アウトサイド"
+    },
+    {
+      "en": "Water in the nether blurs the blocks around you, making navigation difficult.",
+      "ja": "ネザーの水があなたの周りのブロックをぼやかして、ナビゲーションが難しくなります。",
+      "ipa": "/ˈwɔtɚ ɪn ðə ˈnɛðɚ blɝz ðə blɑks əˈraʊnd ju ˈmeɪkɪŋ ˌnæv.ɪˈɡeɪ.ʃən ˈdɪfɪkəlt/",
+      "linking": [
+        "「Water in」で water の語末 /r/ が in に連結「ウォーター イン」",
+        "「the nether」で the は弱形 /ðə/「ザ」に弱化",
+        "「blurs the」で blurs の語末 /z/ が母音 /ð/ に連結「ブラーズ ザ」"
+      ],
+      "kana": "ウォーター イン ザ ネザー ブラーズ ザ ブロックス アラウンド ユー メイキング ナビゲイション ディフィカルト"
+    },
+    {
+      "en": "The fog effect creates a blur that changes based on your render distance.",
+      "ja": "霧のエフェクトはあなたのレンダー距離に基づいて変わるぼやけを作成します。",
+      "ipa": "/ðə fɑɡ ɪˈfɛkt kriˈeɪts ə blɝ ðæt ˈtʃeɪndʒɪz ˈbeɪsd ɑn jɚ ˈɹɛndɚ ˈdɪstəns/",
+      "linking": [
+        "「The fog」で the は弱形 /ðə/「ザ」に弱化",
+        "「creates a」で creates の語末 /s/ が母音 /ə/ に連結「クリエイツ ア」",
+        "「based on」で based の語末 /d/ が母音 /ɑ/ に連結「ベイスト オン」",
+        "「render distance」で distance の語末 /s/ が子音に先行「レンダー ディスタンス」"
+      ],
+      "kana": "ザ フォッグ イフェクト クリエイツ ア ブラー ザット チェインジーズ ベイスド オン ユア レンダー ディスタンス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "blur the line",
+      "ja": "境界線をぼやかす、区別が曖昧になる",
+      "example": "Creative mode blurs the line between building and survival gameplay.",
+      "example_ja": "クリエイティブモードは建築とサバイバルゲームプレイの境界線をぼやかします。",
+      "ipa": "/kriˈeɪtɪv moʊd blɝz ðə laɪn bɪˈtwin ˈbɪldɪŋ ənd sɚˈvaɪvəl ˈɡeɪmpleɪ/",
+      "linking": [
+        "「mode blurs」で mode の語末 /d/ が母音 /b/ に連結「モウド ブラーズ」",
+        "「blurs the」で blurs の語末 /z/ が母音 /ð/ に連結「ブラーズ ザ」",
+        "「between building」で between の語末 /n/ が子音 /b/ に先行「ビトゥウィーン ビルディング」"
+      ],
+      "kana": "クリエイティヴ モウド ブラーズ ザ ライン ビトゥウィーン ビルディング アンド サーバイバル ゲームプレイ"
+    },
+    {
+      "idiom": "out of focus blur",
+      "ja": "ピントが合っていないぼやけ、焦点が当たっていない状態",
+      "example": "The out of focus blur in the background makes the building appear more detailed.",
+      "example_ja": "背景の焦点外のぼやけは、建物がより詳細に見えるようにします。",
+      "ipa": "/ðə ˌaʊt əv ˈfoʊkəs blɝ ɪn ðə ˈbækɡraʊnd meɪks ðə ˈbɪldɪŋ əˈpɪɹ mɔɹ dɪˈteɪld/",
+      "linking": [
+        "「out of」で out の語末 /t/ が母音 /ə/ に連結「アウト ウブ」",
+        "「blur in」で blur の語末 /r/ が母音 /ɪ/ に連結「ブラー イン」",
+        "「building appear」で building の語末 /ŋ/ が母音 /ə/ に連結「ビルディング アピア」"
+      ],
+      "kana": "ザ アウト アヴ フォウカス ブラー イン ザ バックグラウンド メイクス ザ ビルディング アピア モア ディテイルド"
+    }
+  ],
+  "tags": ["Target 1900"],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "blurs",
+      "ipa": "/blɝz/",
+      "examples": [
+        {
+          "en": "Different types of visual blurs create various effects on the Minecraft screen.",
+          "ja": "様々な視覚的なぼやけのタイプがマインクラフト画面に異なるエフェクトを作り出します。",
+          "ipa": "/ˈdɪfɚənt taɪps əv ˈvɪʒuəl blɝz kriˈeɪt ˈvɛɹiəs ɪˈfɛkts ɑn ðə ˈmaɪnkræft ˈskrin/",
+          "linking": [
+            "「Different types」で different の語末 /t/ が types に連結「ディフレント タイプス」",
+            "「types of」で types の語末 /s/ が弱形 /əv/ に連結「タイプス アヴ」",
+            "「visual blurs」で visual の語末 /l/ が母音 /b/ に連結「ビジュアル ブラーズ」",
+            "「blurs create」で blurs の語末 /z/ が母音 /k/ に連結「ブラーズ クリエイト」"
+          ],
+          "kana": "ディファレント タイプス アヴ ビジュアル ブラーズ クリエイト ヴェリアス イフェクツ オン ザ マインクラフト スクリーン"
+        },
+        {
+          "en": "Motion blurs in first-person view make it harder to see distant objects clearly.",
+          "ja": "一人称視点のモーションぼやけは、遠くの物体をはっきり見えにくくします。",
+          "ipa": "/ˈmoʊʃən blɝz ɪn ˈfɝst ˈpɚsən vju meɪk ɪt ˈhɑɹdɚ tu siː ˈdɪstənt ˈɑbdʒɛkts ˈklɪɹli/",
+          "linking": [
+            "「Motion blurs」で motion の語末 /n/ が mother 音 /b/ に先行「モウション ブラーズ」",
+            "「first-person」で first の語末 /t/ が person に連結「ファースト パーソン」",
+            "「blurs in」で blurs の語末 /z/ が母音 /ɪ/ に連結「ブラーズ イン」",
+            "「objects clearly」で objects の語末 /s/ が母音 /k/ に連結「オブジェクツ クリアリー」"
+          ],
+          "kana": "モウション ブラーズ イン ファースト パーソン ビュー メイク イット ハーダー トゥー シー ディスタント オブジェクツ クリアリー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "blurs",
+      "ipa": "/blɝz/",
+      "examples": [
+        {
+          "en": "Underwater vision blurs everything in your field of view when you stay below water.",
+          "ja": "水中にいるとき、水中の視界があなたの視野内のすべてをぼやかします。",
+          "ipa": "/ˌʌndɚˈwɔtɚ ˈvɪʒən blɝz ˈɛvɹiθɪŋ ɪn jɚ ˈfild əv vju wɛn ju steɪ bɪˈloʊ ˈwɔtɚ/",
+          "linking": [
+            "「underwater vision」で underwater の語末 /r/ が vision に連結「アンダーウォター ビジョン」",
+            "「vision blurs」で vision の語末 /n/ が母音 /b/ に連結「ビジョン ブラーズ」",
+            "「field of」で of は弱形 /əv/「アヴ」に弱化",
+            "「when you」で when の語末 /n/ が you に連結「ウェン ユー」"
+          ],
+          "kana": "アンダーウォーター ビジョン ブラーズ エブリシング イン ユア フィールド アヴ ビュー ウェン ユー ステイ ビロウ ウォーター"
+        },
+        {
+          "en": "The nausea effect blurs your vision and makes movement feel disorienting.",
+          "ja": "吐き気エフェクトはあなたの視界をぼやかして、移動が向きを見失わせるように感じさせます。",
+          "ipa": "/ðə ˈnɔːʒə ɪˈfɛkt blɝz jɚ ˈvɪʒən ənd meɪks ˈmuːvmənt fil ˌdɪsˈɔrɪɛntɪŋ/",
+          "linking": [
+            "「nausea effect」で nausea の語末 /ə/ が effect に連結「ナウジア イフェクト」",
+            "「effect blurs」で effect の語末 /t/ が母音 /b/ に連結「イフェクト ブラーズ」",
+            "「blurs your」で blurs の語末 /z/ が母音 /j/ に連結「ブラーズ ユア」",
+            "「makes movement」で makes の語末 /z/ が母音 /m/ に連結「メイクス ムーヴメント」"
+          ],
+          "kana": "ザ ノーシア イフェクト ブラーズ ユア ビジョン アンド メイクス ムーヴメント フィール ディソーリエンティング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "blurred",
+      "ipa": "/blɝd/",
+      "examples": [
+        {
+          "en": "The explosion blurred the text on the signpost when it went off.",
+          "ja": "爆発が起きた時、爆発があなたの看板のテキストをぼやかしました。",
+          "ipa": "/ðə ɪkˈsploʊʒən blɝd ðə tɛkst ɑn ðə ˈsaɪnpoʊst wɛn ɪt wɛnt ɔf/",
+          "linking": [
+            "「explosion blurred」で explosion の語末 /n/ が母音 /b/ に先行「エクスプロウジョン ブラード」",
+            "「blurred the」で blurred の語末 /d/ が母音 /ð/ に連結「ブラード ザ」",
+            "「text on」で text の語末 /t/ が母音 /ɑ/ に先行「テクスト オン」",
+            "「signpost when」で signpost の語末 /t/ が when に先行「サインポウスト ウェン」"
+          ],
+          "kana": "ザ エクスプロウジョン ブラード ザ テクスト オン ザ サインポウスト ウェン イット ウェント オフ"
+        },
+        {
+          "en": "The water particles blurred my vision as I swam through the cave.",
+          "ja": "洞窟を泳いでいる時、水のパーティクルが私の視界をぼやかしました。",
+          "ipa": "/ðə ˈwɔtɚ ˈpɑɹtɪkəlz blɝd maɪ ˈvɪʒən əz aɪ swæm θɹu ðə keɪv/",
+          "linking": [
+            "「water particles」で water の語末 /r/ が particles に連結「ウォーター パーティクルズ」",
+            "「particles blurred」で particles の語末 /z/ が母音 /b/ に連結「パーティクルズ ブラード」",
+            "「blurred my」で blurred の語末 /d/ が母音 /m/ に連結「ブラード マイ」",
+            "「through the」で through の語末 /θ/ が the に連結「スルー ザ」"
+          ],
+          "kana": "ザ ウォーター パーティクルズ ブラード マイ ビジョン アズ アイ スワム スルー ザ ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "blurred",
+      "ipa": "/blɝd/",
+      "examples": [
+        {
+          "en": "Having blurred the line between game modes, the server allowed both creative and survival play.",
+          "ja": "ゲームモード間の境界線をぼやかしたので、サーバーはクリエイティブとサバイバルの両方のプレイを許可しました。",
+          "ipa": "/ˈhævɪŋ blɝd ðə laɪn bɪˈtwin ɡeɪm moʊdz ðə ˈsɚvɚ əˈlaʊd boʊθ kriˈeɪtɪv ənd sɚˈvaɪvəl pleɪ/",
+          "linking": [
+            "「Having blurred」で Having の語末 /ŋ/ が mother 音 /b/ に先行「ハービング ブラード」",
+            "「blurred the」で blurred の語末 /d/ が母音 /ð/ に連結「ブラード ザ」",
+            "「line between」で line の語末 /n/ が between に連結「ライン ビトゥウィーン」",
+            "「allowed both」で allowed の語末 /d/ が母音 /b/ に連結「アラウド ボウス」"
+          ],
+          "kana": "ハービング ブラード ザ ライン ビトゥウィーン ゲイム モウズ ザ サーヴァー アラウド ボウス クリエイティヴ アンド サーバイバル プレイ"
+        },
+        {
+          "en": "The picture they drew was completely blurred by the motion during the raid battle.",
+          "ja": "彼らが描いた絵は、レイド戦中のモーションで完全にぼやけてしまいました。",
+          "ipa": "/ðə ˈpɪktʃɚ ðeɪ dru wəz kəmˈplit.li blɝd baɪ ðə ˈmoʊʃən ˈdʊɹɪŋ ðə reɪd ˈbætəl/",
+          "linking": [
+            "「picture they」で picture の語末 /r/ が they に連結「ピクチャー ザイ」",
+            "「was completely」で was は弱形 /wəz/「ワズ」に弱化",
+            "「completely blurred」で completely の語末 /i/ が blurred に連結「コンプリートリー ブラード」",
+            "「during the」で during の語末 /ŋ/ が the に先行「ドゥーリング ザ」"
+          ],
+          "kana": "ザ ピクチャー ザイ ドルー ワズ コンプリートリー ブラード バイ ザ モウション ドゥーリング ザ レイド バットル"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "blurring",
+      "ipa": "/ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "The rain is blurring your vision while you are trying to build the house.",
+          "ja": "雨があなたの視界をぼやかしているので、家を建てるのが難しくなっています。",
+          "ipa": "/ðə ˈreɪn ɪz ˈblɝɪŋ jɚ ˈvɪʒən waɪl ju ɑɹ ˈtraɪɪŋ tu bɪld ðə haʊs/",
+          "linking": [
+            "「rain is」で rain の語末 /n/ が is に連結「レイン イズ」",
+            "「is blurring」で is は弱形 /ɪz/「イズ」に弱化、blurring に連結「イズ ブラーリング」",
+            "「blurring your」で blurring の語末 /ŋ/ が母音 /j/ に先行「ブラーリング ユア」",
+            "「to build」で to は弱形 /tə/「トゥー」に弱化"
+          ],
+          "kana": "ザ レイン イズ ブラーリング ユア ビジョン ワイル ユー アー トライイング トゥー ビルド ザ ハウス"
+        },
+        {
+          "en": "Particles are blurring the light from the lanterns in the dark cave.",
+          "ja": "暗い洞窟でパーティクルがランタンからの光をぼやかしています。",
+          "ipa": "/ˈpɑɹtɪkəlz ɑɹ ˈblɝɪŋ ðə laɪt frəm ðə ˈlæntɚnz ɪn ðə dɑɹk keɪv/",
+          "linking": [
+            "「particles are」で particles の語末 /z/ が are に連結「パーティクルズ アー」",
+            "「are blurring」で are は弱形 /ɚ/「アー」に弱化、blurring に連結「アー ブラーリング」",
+            "「blurring the」で blurring の語末 /ŋ/ が the に先行「ブラーリング ザ」",
+            "「from the」で from は弱形 /frəm/「フラム」に弱化"
+          ],
+          "kana": "パーティクルズ アー ブラーリング ザ ライト フラム ザ ランターンズ イン ザ ダーク ケイヴ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is blurring",
+      "ipa": "/ɪz ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "The nether fog is blurring my visibility right now.",
+          "ja": "ネザーの霧が今、私の視界をぼやかしている。",
+          "ipa": "/ðə ˈnɛðɚ fɑɡ ɪz ˈblɝɪŋ maɪ ˌvɪzɪˈbɪləti ˈraɪt ˈnaʊ/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「is」は弱形 /ɪz/ で、「blurring」に連結「イズ ブラーリング」",
+            "「my visibility」で my は弱いストレス、visibility の語末 /i/ は弱い"
+          ],
+          "kana": "ザ ネザー フォッグ イズ ブラーリング マイ ビジビリティー ライト ナウ"
+        },
+        {
+          "en": "Water particles are blurring the underwater landscape as we swim.",
+          "ja": "私たちが泳ぐとき、水のパーティクルが水中の風景をぼやかしている。",
+          "ipa": "/ˈwɔtɚ ˈpɑɹtɪkəlz ɑɹ ˈblɝɪŋ ðə ˌʌndɚˈwɔtɚ ˈlændskeɪp æz wi ˈswɪm/",
+          "linking": [
+            "「water particles」で water の語末 /r/ が particles に連結「ウォーター パーティクルズ」",
+            "「are」は弱形 /ɚ/ で、「blurring」に連結「アー ブラーリング」",
+            "「the」は弱形 /ðə/、「as we」で as の語末 /z/ が we に連結「アズ ウィー」"
+          ],
+          "kana": "ウォーター パーティクルズ アー ブラーリング ザ アンダーウォーター ランドスケイプ アズ ウィー スウィム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was blurring",
+      "ipa": "/wəz ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "While I was building, the rain effect was blurring my vision constantly.",
+          "ja": "私が建築していた時、雨のエフェクトが常に私の視界をぼやかしていた。",
+          "ipa": "/waɪl aɪ wəz ˈbɪldɪŋ ðə ˈreɪn ɪˈfɛkt wəz ˈblɝɪŋ maɪ ˈvɪʒən ˈkɑnstəntli/",
+          "linking": [
+            "「was」は弱形 /wəz/「ワズ」で、「blurring」に連結「ワズ ブラーリング」",
+            "「the」は弱形 /ðə/",
+            "「was building」で was は弱形、building の語末 /ŋ/ は母音に先行「ワズ ビルディング」"
+          ],
+          "kana": "ワイル アイ ワズ ビルディング ザ レイン イフェクト ワズ ブラーリング マイ ビジョン コンスタントリー"
+        },
+        {
+          "en": "They were blurring the line between game modes when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼らはゲームモード間の区別をぼやかしていた。",
+          "ipa": "/ðeɪ wɚ ˈblɝɪŋ ðə laɪn bɪˈtwin ɡeɪm moʊdz wɛn ðə ˈsɚvɚ kræʃt/",
+          "linking": [
+            "「were」は弱形 /wɚ/「ワー」で、「blurring」に連結「ワー ブラーリング」",
+            "「the」は弱形 /ðə/",
+            "「between game」で between の語末 /n/ が game に先行「ビトゥウィーン ゲイム」"
+          ],
+          "kana": "ゼイ ワー ブラーリング ザ ライン ビトゥウィーン ゲイム モウズ ウェン ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been blurring",
+      "ipa": "/həd bɪn ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we arrived at the cave, the fog effect had been blurring our view for minutes.",
+          "ja": "私たちが洞窟に到着した時までに、霧のエフェクトが数分間、私たちの視界をぼやかしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd æt ðə ˈkeɪv ðə fɑɡ ɪˈfɛkt həd bɪn ˈblɝɪŋ aʊr vju fɔr ˈmɪnɪts/",
+          "linking": [
+            "「the」は弱形 /ðə/（3回出現）",
+            "「had」は弱形 /həd/「ハド」、「been」も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "「our view」で our は弱いストレス、view の前の /aʊ/ に連結「アワー ビュー」"
+          ],
+          "kana": "バイ ザ タイム ウィ アライブド アット ザ ケイヴ ザ フォッグ イフェクト ハド ビン ブラーリング アワー ビュー フォ ミニッツ"
+        },
+        {
+          "en": "The particles had been blurring the scenery all evening until we closed the texture pack.",
+          "ja": "テクスチャパックを閉じるまで、パーティクルが一晩中風景をぼやかしていた。",
+          "ipa": "/ðə ˈpɑɹtɪkəlz həd bɪn ˈblɝɪŋ ðə ˈsinəri ɔl ˈivnɪŋ ənˈtɪl wi ˈkloʊzd ðə ˈtɛkstʃɚ pæk/",
+          "linking": [
+            "「the」は弱形 /ðə/（2回出現）",
+            "「had」は弱形 /həd/「ハド」、「been」も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "「until we」で until の語末 /l/ が we に連結「アンティル ウィー」"
+          ],
+          "kana": "ザ パーティクルズ ハド ビン ブラーリング ザ シナリー オール イーヴニング アンティル ウィー クロウズド ザ テクスチャー パック"
+        }
+      ]
+    }
+  ]
+}
