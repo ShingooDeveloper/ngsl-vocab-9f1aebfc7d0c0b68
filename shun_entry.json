@@ -350,6 +350,102 @@
           "kana": "ウィ ハヴ ビン シャニング リスキー バイオームズ トゥー キープ アウア グループ セイフ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will shun",
+      "ipa": "/wɪl ʃʌn/",
+      "examples": [
+        {
+          "en": "I will shun the nether once I have better armor and weapons.",
+          "ja": "【例文】より良い防具と武器を手に入れたら、ネザーを避けるだろう。装備を整えてから危険な場所に挑む戦略。",
+          "ipa": "/aɪl ʃʌn ðə ˈnɛðər wʌns aɪ həv ˈbɛtər ˈɑrmər ənd ˈwɛpənz/",
+          "linking": [
+            "I will：I の /aɪ/ が will の /w/ に連結。I'll と縮約 [aɪl] アイル",
+            "will shun：will の末の /l/ が shun の /ʃ/ に先行。子音-子音のため連結なし [wɪl ʃʌn] ウィル シャン",
+            "shun the：shun の末の /n/ が the の弱形 /ðə/ に連結 [ʃʌn ðə] シャン ザ",
+            "better weapons：weapons の頭音 /w/ が先行し、子音-子音で連結なし"
+          ],
+          "kana": "アイル シャン ザ ネザー ワンス アイ ハヴ ベター アーマー アン ウェポンズ"
+        },
+        {
+          "en": "They will shun any risky mining expeditions near the base this season.",
+          "ja": "【例文】今シーズン、彼らはベース近くの危険な採掘遠征を避けるだろう。チームの安全を優先する戦略。",
+          "ipa": "/ðeɪl ʃʌn ˈɛni ˈrɪski ˈmaɪnɪŋ ˌɛkspɪˈdɪʃənz nɪr ðə ˈbeɪs ðɪs ˈsizən/",
+          "linking": [
+            "They will：They の /eɪ/ が will の /w/ に連結。they'll と縮約 [ðeɪl] ザイル",
+            "will shun：will の末の /l/ が shun の /ʃ/ に先行。子音-子音のため連結なし [wɪl ʃʌn] ウィル シャン",
+            "shun any：shun の末の /n/ が any の弱形 /ˈɛ/ に連結 [ʃʌn ˈɛ] シャン エニー",
+            "near the：near の末の /r/ が the の弱形 /ðə/ に連結 [nɪr ðə] ニア ザ"
+          ],
+          "kana": "ザイル シャン エニー リスキー マイニング エクスペディションズ ニア ザ ベイス ディス シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be shunning",
+      "ipa": "/wɪl bi ˈʃʌnɪŋ/",
+      "examples": [
+        {
+          "en": "The crew will be shunning the dangerous caves while we build our fortress walls.",
+          "ja": "【例文】私たちが要塞の壁を建設している間、クルーは危険な洞窟を避けるだろう。並行した複数のプロジェクト。",
+          "ipa": "/ðə kru wɪl bi ˈʃʌnɪŋ ðə ˈdeɪndʒərəs ˈkeɪvz waɪl wi bɪld ɑɚ ˈfɔɹtɹəs wɔlz/",
+          "linking": [
+            "crew will：crew の末の /u/ が will の /w/ に連結 [kru wɪl] クルー ウィル",
+            "will be：will の末の /l/ が be の弱形 /bi/ に連結 [wɪl bi] ウィル ビー",
+            "be shunning：be の末の /i/ が shunning の /ʃ/ に先行。母音-子音で連結なし [bi ˈʃʌnɪŋ] ビー シャニング",
+            "shunning the：shunning の末の /ŋ/ が the の弱形 /ðə/ に連結 [ˈʃʌnɪŋ ðə] シャニング ザ"
+          ],
+          "kana": "ザ クルー ウィル ビー シャニング ザ デンジャラス ケイブズ ワイル ウィー ビルド アウア フォートレス ウォールズ"
+        },
+        {
+          "en": "We will be shunning the deep dark territories throughout the entire event.",
+          "ja": "【例文】イベント全体を通じて、私たちはディープダークの領域を避け続けるだろう。イベント期間中の安全戦略。",
+          "ipa": "/wi wɪl bi ˈʃʌnɪŋ ðə dip dɑrk ˈtɛɹətɔɹiz θɹuˈaʊt ðə ənˈtaɪɚ ɪˈvɛnt/",
+          "linking": [
+            "We will：We の /i/ が will の /w/ に連結。we'll と縮約 [wil] ウィル",
+            "will be：will の末の /l/ が be の弱形 /bi/ に連結 [wɪl bi] ウィル ビー",
+            "be shunning：be の末の /i/ が shunning の /ʃ/ に先行。母音-子音で連結なし [bi ˈʃʌ] ビー シャニング",
+            "throughout the：throughout の末の /t/ が the の弱形 /ðə/ に未開放 [t̚ðə] スルーアウッ ザ"
+          ],
+          "kana": "ウィー ウィル ビー シャニング ザ ディープ ダーク テリトリーズ スルーアウト ザ エンタイアー イベント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have shunned",
+      "ipa": "/wɪl həv ʃʌnd/",
+      "examples": [
+        {
+          "en": "By the end of the month, we will have shunned all the griefed bases in the region.",
+          "ja": "【例文】月末までに、その地域の荒らされたベースをすべて避けるだろう。グリーフ対策プログラムの完了。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ wi wɪl həv ʃʌnd ɔl ðə ɡriːft ˈbeɪsəz ɪn ðə ˈɹidʒən/",
+          "linking": [
+            "end of：end の末の /d/ が of の弱形 /əv/ に連結 [ɛnd əv] エンド アヴ",
+            "of the：of の弱形 /əv/ が the の弱形 /ðə/ に語間で続く [əv ðə] アヴ ザ",
+            "will have：will の末の /l/ が have の弱形 /həv/ に連結 [wɪl həv] ウィル ハヴ",
+            "have shunned：have の弱形 /həv/ が shunned の /ʃ/ に先行。子音-子音のため連結なし [həv ʃʌnd] ハヴ シャンド"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス ウィー ウィル ハヴ シャンド オール ザ グリーフド ベイシズ イン ザ リージョン"
+        },
+        {
+          "en": "By next season, you will have shunned every dangerous mining route in this sector.",
+          "ja": "【例文】来シーズンまでに、このセクターのすべての危険な採掘ルートを避けるだろう。安全な採掘地図の完成。",
+          "ipa": "/baɪ ˈnɛkst ˈsizən ju wɪl həv ʃʌnd ˈɛvɚi ˈdeɪndʒərəs ˈmaɪnɪŋ ˈɹuːt ɪn ðɪs ˈsɛktər/",
+          "linking": [
+            "next season：season の末の /n/ が次の音に先行。season は /ˈsiz.ən/",
+            "you will：you の末の /u/ が will の /w/ に連結。you'll と縮約 [jul] ユール",
+            "will have：will の末の /l/ が have の弱形 /həv/ に連結 [wɪl həv] ウィル ハヴ",
+            "have shunned：have の弱形 /həv/ が shunned の /ʃ/ に先行。子音-子音で連結なし [həv ʃʌnd] ハヴ シャンド"
+          ],
+          "kana": "バイ ネックス シーズン ユール ウィル ハヴ シャンド エブリー デンジャラス マイニング ルート イン ディス セクター"
+        }
+      ]
     }
   ]
 }
