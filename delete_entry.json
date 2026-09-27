@@ -1,0 +1,292 @@
+{
+  "word": "delete",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/dɪˈliːt/",
+  "rank": 0,
+  "level": "A2",
+  "hi": "(?:delete[ds]?|deleted|deleting)",
+  "meanings": [
+    "【動詞】ファイルやデータを消去する、削除する（…to remove or erase a file, text, or data）",
+    "【動詞】（ゲーム内で）ブロック、アイテム、ワールドを取り除く、破壊する（…to remove or destroy blocks, items, or worlds in-game）",
+    "【動詞】リストやグループから除外する（…to remove from a list or group）",
+    "【動詞】（うっかり、または故意に）消す、なくす（…to accidentally or intentionally erase or remove）"
+  ],
+  "examples": [
+    {
+      "en": "I accidentally deleted my entire survival world.",
+      "ipa": "/aɪ ˌæksɪˈdɛntəli dɪˈliːtəd maɪ ɪnˈtaɪr sɝˈvaɪvəl ˈwɜrld/",
+      "linking": [
+        "deleted は過去形で語末 /d/ で終わる。my /aɪ/ に先行するが consonant-consonant のため直接連結しない",
+        "entire は /ɪnˈtaɪr/ で /r/ で終わる。survival /sɚ/ に先行。r-coloring で [ɪnˈtaɪɚ sɚˈvaɪvəl]「エンタイアー サーヴァイヴァル」"
+      ],
+      "kana": "アイ アクシデンタリー ディリートッド マイ エンタイアー サーヴァイヴァル ワールド"
+    },
+    {
+      "en": "Don't delete important redstone circuits!",
+      "ipa": "/doʊnt dɪˈliːt ɪmˈpɔrtənt ˈrɛdˌstoʊn ˈsɜrkɪts/",
+      "linking": [
+        "delete の語末 /t/ が important の起始音 /ɪ/ に先行し連結。/t/ は母音間のため flap化して [dɪˈliɾɪm...]「ディリーリ インポータント」",
+        "redstone circuits：n が s に先行するが consonant-consonant のため新たなリンキングなし"
+      ],
+      "kana": "ドウント ディリーリ インポータント レッドストウン サーキッツ"
+    },
+    {
+      "en": "The server admin deleted every corrupted chunk from storage.",
+      "ipa": "/ðə ˈsɝvɚ ˈædmɪn dɪˈliːtəd ˈɛvəri kəˈrʌptəd ˈtʃʌŋk frəm ˈstɔrɪdʒ/",
+      "linking": [
+        "server は /r/ で終わり admin /æ/ に先行。r-coloring 傾向で [ˈsɝvɚ ˈædmɪn]「サーヴァー アドミン」",
+        "deleted は /d/ で終わり、every は /ɛ/ で起始。/d/ が /ɛ/ に連結：[dɪˈliːtə ˈdɛvəri]「ディリータ デヴェリー」",
+        "from は機能語で弱形 /frəm/。storage に先行し [frəm ˈstɔrɪdʒ]「フラム ストーリッジ」"
+      ],
+      "kana": "ザ サーヴァー アドミン ディリータ デヴェリー コラプティッド チャンク フラム ストーリッジ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "delete from",
+      "ja": "～から削除する",
+      "example": "I deleted this mod from my installation.",
+      "example_ja": "インストールからこのモッドを削除した。",
+      "ipa": "/aɪ dɪˈliːtəd ðɪs mɑd frəm maɪ ˌɪnstəˈleɪʃən/",
+      "linking": [
+        "deleted の語末 /d/ が this の起始音 /ð/ に先行するが consonant-consonant のため /d/ は unreleased となる [dɪˈliːtəd̚ ðɪs]「ディリートッ ディス」",
+        "from は機能語で弱形 /frəm/。my /aɪ/ に先行し、/m/ 同士の接近で [frəm maɪ]「フラマイ」"
+      ],
+      "kana": "アイ ディリートッ ディス モッド フラマイ インスタレイション"
+    },
+    {
+      "idiom": "accidentally delete",
+      "ja": "うっかり削除する",
+      "example": "I accidentally deleted all my screenshots without backup.",
+      "example_ja": "バックアップなしに全てのスクリーンショットをうっかり削除してしまった。",
+      "ipa": "/aɪ ˌæksɪˈdɛntəli dɪˈliːtəd ɔl maɪ ˈskriːnˌʃɑts wɪˈaʊt ˈbækˌʌp/",
+      "linking": [
+        "deleted は /d/ で終わり all は /ɔ/ で起始。/d/ が /ɔ/ に連結して [dɪˈliːtə ˈdɔl]「ディリータ ドール」",
+        "without は /w/ で起始。backup /b/ に先行するが consonant-consonant のため新たな連結なし"
+      ],
+      "kana": "アイ アクシデンタリー ディリータ ドール マイ スクリーンショッツ ウィダウト バックアップ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "deletes",
+      "ipa": "/dɪˈliːts/",
+      "examples": [
+        {
+          "en": "The admin deletes griefed buildings to keep the server safe.",
+          "ja": "その管理者はサーバーを安全に保つためにグリーフされた建物を削除します。",
+          "ipa": "/ðə ˈædmɪn dɪˈliːts ˈɡrifəd ˈbɪldɪŋz tu kip ðə ˈsɜrvər seɪf/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "admin deletes - /n/ が /d/ に続く（子音+子音、未開放）",
+            "deletes griefed - /ts/ が /ɡ/ に続く（子音+子音）",
+            "to は機能語で弱形 /tə/ タ、keep の /k/ に未開放で続く"
+          ],
+          "kana": "ザ アドミン ディリーツ グリフド ビルディングス タ キープ ザ サーバー セイフ"
+        },
+        {
+          "en": "Each command deletes the selected block in milliseconds.",
+          "ja": "各コマンドは選択されたブロックをミリ秒で削除します。",
+          "ipa": "/iːtʃ kəˈmænd dɪˈliːts ðə sɪˈlɛktəd blɑk ɪn ˌmɪləˈsɛkəndz/",
+          "linking": [
+            "Each command - /tʃ/ が /k/ に続く（子音+子音）",
+            "deletes the - /ts/ が /ð/ に続く（子音+子音、未開放）、the は弱形 /ðə/ ザ",
+            "selected block - /d/ が /b/ に続く（子音+子音、未開放）",
+            "in milliseconds - /n/ が /m/ に続く（子音+子音）"
+          ],
+          "kana": "イーチ コマンド ディリーツ ザ セレクティッド ブラック イン ミリセコンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "deleted",
+      "ipa": "/dɪˈliːtəd/",
+      "examples": [
+        {
+          "en": "I deleted all the redundant redstone wiring from the farm.",
+          "ja": "ファームから冗長なレッドストーン配線をすべて削除しました。",
+          "ipa": "/aɪ dɪˈliːtəd ɔl ðə rɪˈdʌndənt ˈrɛdˌstoʊn ˈwaɪrɪŋ frəm ðə fɑrm/",
+          "linking": [
+            "deleted all - /d/ が /ɔ/ に連結 [dɪˈliːtə ˈdɔl] ディリータ ドール",
+            "all the - /l/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ",
+            "from は機能語で弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ディリータ ドール ザ リダンダント レッドストーン ワイアリング フラム ザ ファーム"
+        },
+        {
+          "en": "Someone deleted my wooden house while I was mining diamonds.",
+          "ja": "私がダイヤモンドを採掘している間、誰かが木製の家を削除しました。",
+          "ipa": "/ˈsʌmwʌn dɪˈliːtəd maɪ ˈwʊdən haʊs waɪl aɪ wəz ˈmaɪnɪŋ ˈdaɪməndz/",
+          "linking": [
+            "deleted my - /d/ が /m/ に続く（子音+子音、未開放）",
+            "wooden house - /n/ が /h/ に続く（子音+子音）",
+            "while I - /l/ が /aɪ/ に連結（l-linking、子音+母音）",
+            "was は弱形 /wəz/ ワズ、mining は /ˈmaɪnɪŋ/（子音+子音）"
+          ],
+          "kana": "サムワン ディリータッド マイ ウッデン ハウス ワイル アイ ワズ マイニング ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞形",
+      "text": "deleted",
+      "ipa": "/dɪˈliːtəd/",
+      "examples": [
+        {
+          "en": "The deleted account data cannot be restored from backup.",
+          "ja": "削除されたアカウントデータはバックアップから復元できません。",
+          "ipa": "/ðə dɪˈliːtəd əˈkaʊnt ˈdeɪtə ˈkænɑt bi rɪˈstɔrd frəm ˈbækˌʌp/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "deleted account - /d/ が /ə/ に連結 [dɪˈliːtə ˈdɔl] ディリータ、未開放で account へ",
+            "cannot は /ˈkænɑt/、be は弱形 /bi/ ビー、restored は /rɪˈstɔrd/",
+            "from は機能語で弱形 /frəm/ フラム"
+          ],
+          "kana": "ザ ディリータ アカウント デイタ キャンノット ビー リストアード フラム バックアップ"
+        },
+        {
+          "en": "Once deleted, the protected items disappear from existence.",
+          "ja": "削除されたら、保護されたアイテムは存在から消えます。",
+          "ipa": "/wʌns dɪˈliːtəd ðə prəˈtɛktəd ˈɪtəmz dɪsəˈpɪr frəm ɪɡˈzɪstəns/",
+          "linking": [
+            "Once deleted - /s/ が /d/ に続く（子音+子音、未開放）",
+            "deleted the - /d/ が /ð/ に続く（子音+子音、未開放）、the は弱形 /ðə/ ザ",
+            "protected items - /d/ が /ɪ/ に連結 [prəˈtɛktə ˈdɪtəmz] プロテクティッド アイテムズ",
+            "from は機能語で弱形 /frəm/ フラム"
+          ],
+          "kana": "ワンス ディリータッド ザ プロテクティッド アイテムズ ディスピアー フラム イグジスタンス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "deleting",
+      "ipa": "/dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm deleting old mob farm structures to make room for a new base.",
+          "ja": "新しいベースを作るためにスペースを空けるために古いモブファーム構造を削除しています。",
+          "ipa": "/aɪm dɪˈliːtɪŋ oʊld moʊb fɑrm ˈstrʌktʃərz tu meɪk rum fər ə nu ˈbeɪs/",
+          "linking": [
+            "I'm は /aɪm/、deleting の /d/ に子音+子音で続く [aɪm dɪˈliːtɪŋ]",
+            "deleting old - /ŋ/ が /oʊ/ に連結（子音+母音）",
+            "old mob - /d/ が /m/ に続く（子音+子音、未開放）",
+            "to は機能語で弱形 /tə/ タ、make の /m/ に未開放で続く",
+            "for は機能語で弱形 /fər/ ファー"
+          ],
+          "kana": "アイム ディリーティング オールド モーブ ファーム ストラクチャーズ タ メイク ルーム ファー ア ニュー ベース"
+        },
+        {
+          "en": "The server is deleting inactive player data daily to save storage space.",
+          "ja": "サーバーはストレージスペースを節約するために毎日非アクティブなプレイヤーデータを削除しています。",
+          "ipa": "/ðə ˈsɜrvər ɪz dɪˈliːtɪŋ ɪnˈæktɪv ˈpleɪər ˈdeɪtə ˈdeɪli tu ˈseɪv ˈstɔrɪdʒ speɪs/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "server is - /r/ が /ɪ/ に連結 [ˈsɜrvər ɪz] サーバー イズ",
+            "is deleting - /z/ が /d/ に続く（子音+子音）",
+            "deleting inactive - /ŋ/ が /ɪ/ に連結 [dɪˈliːtɪŋ ɪnˈæktɪv] ディリーティング インアクティヴ",
+            "to は機能語で弱形 /tə/ タ"
+          ],
+          "kana": "ザ サーバー イズ ディリーティング インアクティヴ プレイアー デイタ デイリー タ セイヴ ストーリッジ スペイス"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is deleting",
+      "ipa": "/ɪz dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm deleting my old data right now.",
+          "ja": "今、古いデータを削除しています。",
+          "ipa": "/aɪm dɪˈliːtɪŋ maɪ oʊld ˈdeɪtə ˈraɪt naʊ/",
+          "linking": [
+            "I'm は /aɪm/、deleting の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "old の語末子音 /d/ が data の初頭母音 /ə/ に連結 [oʊldə]「オールダ」"
+          ],
+          "kana": "アイム ディリーティング マイ オールダ デイタ ライト ナウ"
+        },
+        {
+          "en": "The admin is deleting griefed structures to protect the server.",
+          "ja": "管理者はサーバーを保護するためにグリーフされた建造物を削除しています。",
+          "ipa": "/ðə ˈædmɪn ɪz dɪˈliːtɪŋ ˈɡrifəd ˈstrʌktʃərz tu prəˈtɛkt ðə ˈsɜrvər/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "is は弱形 /ɪz/ イズ、deleting の初頭子音 /d/ に子音+子音で続く",
+            "to は機能語で弱形 /tə/ タ"
+          ],
+          "kana": "ザ アドミン イズ ディリーティング グリフド ストラクチャーズ タ プロテクト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was deleting",
+      "ipa": "/wəz dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "I was deleting old builds when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、古い建造物を削除していました。",
+          "ipa": "/aɪ wəz dɪˈliːtɪŋ oʊld bɪldz wɛn ðə ˈsɜrvər kræʃt/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ、deleting の初頭子音 /d/ に子音+子音で続く",
+            "old の語末子音 /d/ が builds の初頭子音 /b/ に先行（子音+子音、未開放）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ワズ ディリーティング オールド ビルズ ホェン ザ サーバー クラッシュト"
+        },
+        {
+          "en": "We were deleting redundant redstone circuits when the lag started.",
+          "ja": "ラグが始まったとき、冗長なレッドストーン回路を削除していました。",
+          "ipa": "/wi wɚ dɪˈliːtɪŋ rɪˈdʌndənt ˈrɛdˌstoʊn ˈsɜrkɪts wɛn ðə læg ˈstɑɹtəd/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー、deleting の初頭子音 /d/ に子音+子音で続く",
+            "redundant の語末子音 /t/ が redstone の初頭子音 /r/ に先行（子音+子音、未開放）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ワー ディリーティング リダンダント レッドストーン サーキッツ ホェン ザ ラグ スターティッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been deleting",
+      "ipa": "/həd bɪn dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been deleting old chunks before the new update installed.",
+          "ja": "新しいアップデートがインストールされる前に、古いチャンクを削除していました。",
+          "ipa": "/wi həd bɪn dɪˈliːtɪŋ oʊld tʃʌŋks bɪˈfɔr ðə ˈnjuː ˈʌpˌdeɪt ɪnˈstɔld/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、deleting の初頭子音 /d/ に子音+子音で続く",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハド ビン ディリーティング オールド チャンクス ビフォア ザ ニュー アップデイト インストールド"
+        },
+        {
+          "en": "He had been deleting corrupted files for hours when the system froze.",
+          "ja": "システムがフリーズするまで、彼は破損したファイルを何時間も削除していました。",
+          "ipa": "/hi həd bɪn dɪˈliːtɪŋ kəˈrʌptəd ˈfaɪlz fɚ ˈaʊɚz wɛn ðə ˈsɪstəm froʊz/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、deleting の初頭子音 /d/ に子音+子音で続く",
+            "for は機能語で弱形 /fɚ/ ファー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー ハド ビン ディリーティング コラプティッド ファイルズ ファー アワーズ ホェン ザ システム フローズ"
+        }
+      ]
+    }
+  ]
+}
