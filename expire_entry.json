@@ -281,6 +281,102 @@
           "kana": "ザ テンパラリー アクセス コード ハッド ビン イクスパイアリング フォア セヴラル デイズ ビフォア ユー リニュード イット"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has expired",
+      "ipa": "/həz ɪkˈspaɪɚd/",
+      "examples": [
+        {
+          "en": "This mob spawner has expired and no longer produces any hostile mobs.",
+          "ja": "このモブスポーナーの効果が終わっており、もはや敵のモブを生成しません。",
+          "ipa": "/ðɪs ˈmɑb ˈspoʊnɚ həz ɪkˈspaɪɚd ən noʊ ˈlɔŋɚ prəˈdusɪz ˈɛni ˈhɑstəl ˈmɑbz/",
+          "linking": [
+            "「has expired」助動詞 has は弱形 /həz/、語末子音 /z/ が母音 /ɪ/ に連結 [həz ɪkˈspaɪɚd] ハズ イクスパイァード",
+            "「expired and」語末子音 /d/ が弱形 /ən/ に連結 [ɪkˈspaɪɚd ən] イクスパイァード アン",
+            "「no longer」no は母音 /oʊ/ で終わり、longer は子音 /l/ で始まり連結なし [noʊ ˈlɔŋɚ] ノー ロンガー",
+            "「any hostile」any は /i/ で終わり、hostile は子音 /h/ で始まり連結なし [ˈɛni ˈhɑstəl] エニー ホースタル"
+          ],
+          "kana": "ディス マブ スポーナー ハズ イクスパイァード アン ノー ロンガー プロデューシズ エニー ホースタル マブズ"
+        },
+        {
+          "en": "They have expired all the temporary access codes to protect the server.",
+          "ja": "サーバーを保護するため、彼らはすべての一時的なアクセスコードを無効にしました。",
+          "ipa": "/ðeɪ həv ɪkˈspaɪɚd ɔl ðə ˈtɛmpəreri ˈæksɛs ˈkoʊdz tə prəˈtɛkt ðə ˈsɝvɚ/",
+          "linking": [
+            "「have expired」助動詞 have は弱形 /həv/、語末子音 /v/ が母音 /ɪ/ に連結 [həv ɪkˈspaɪɚd] ハヴ イクスパイァード",
+            "「expired all」語末子音 /d/ が母音 /ɔ/ に連結 [ɪkˈspaɪɚd ɔl] イクスパイァード オール",
+            "「all the」語末子音 /l/ が弱形 /ðə/ に連結 [ɔl ðə] オール ザ",
+            "「to protect」前置詞 to は弱形 /tə/、protect は子音 /p/ で始まり連結なし [tə prəˈtɛkt] タ プロテクト"
+          ],
+          "kana": "ゼイ ハヴ イクスパイァード オール ザ テンパラリー アクセス コーズ タ プロテクト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had expired",
+      "ipa": "/ˈhæd ɪkˈspaɪɚd/",
+      "examples": [
+        {
+          "en": "The protection buff had expired before I could defend the base from the dragon.",
+          "ja": "ドラゴンから基地を守る前に、保護バフの効果が期限切れになってしまいました。",
+          "ipa": "/ðə prəˈtɛkʃən ˈbʌf ˈhæd ɪkˈspaɪɚd bɪˈfɔr aɪ ˈkʊd dɪˈfɛnd ðə ˈbeɪs frəm ðə ˈdrægən/",
+          "linking": [
+            "「had expired」語末子音 /d/ が母音 /ɪ/ に連結 [ˈhæd ɪkˈspaɪɚd] ハッド イクスパイァード",
+            "「expired before」語末 /d/ が before の子音 /b/ に続き、before の母音 /ɪ/ へ [ɪkˈspaɪɚd bɪˈfɔr] イクスパイァード ビフォア",
+            "「before I」before の語末 /r/ が I の母音 /aɪ/ に連結 [bɪˈfɔɹ aɪ] ビフォア アイ",
+            "「the dragon」冠詞 the は弱形 /ðə/、母音前での語末子音 /n/ が続く [ðə ˈdrægən] ザ ドラゴン"
+          ],
+          "kana": "ザ プロテクション バッ ハッド イクスパイァード ビフォア アイ クッド ディフェンド ザ ベイス フラム ザ ドラゴン"
+        },
+        {
+          "en": "The respawn anchor had expired, leaving all the players vulnerable to hostile mobs.",
+          "ja": "リスポーン・アンカーの効果が期限切れになっており、すべてのプレイヤーが敵のモブに対して無防備でした。",
+          "ipa": "/ðə rɪˈspɔn ˈæŋkɚ ˈhæd ɪkˈspaɪɚd | ˈlivɪŋ ɔl ðə ˈpleɪɚz ˈvʌlnərəbəl tə ˈhɑstəl ˈmɑbz/",
+          "linking": [
+            "「had expired」語末子音 /d/ が母音 /ɪ/ に連結 [ˈhæd ɪkˈspaɪɚd] ハッド イクスパイァード",
+            "「expired, leaving」expired の語末 /d/ と leaving の /l/ が次の母音に連続 [ɪkˈspaɪɚd ˈlivɪŋ] イクスパイァード リーヴィング",
+            "「leaving all」leaving の語末 /ŋ/ が all の子音 /ɔ/ に先行、all は /ɔl/ [ˈlivɪŋ ɔl] リーヴィング オール",
+            "「all the」語末子音 /l/ が弱形 /ðə/ に連結 [ɔl ðə] オール ザ"
+          ],
+          "kana": "ザ リスポーン アンカー ハッド イクスパイァード リーヴィング オール ザ プレイァーズ バルナラブル タ ホースタル マブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been expiring",
+      "ipa": "/həz bɪn ɪkˈspaɪɚɪŋ/",
+      "examples": [
+        {
+          "en": "The durability on this mining tool has been expiring slowly throughout the expedition.",
+          "ja": "この採掘ツールの耐久度は遠征中ずっと徐々に期限切れになっています。",
+          "ipa": "/ðə ˌdjʊrəˈbɪləti ɑn ðɪs ˈmaɪnɪŋ ˈtul həz bɪn ɪkˈspaɪɚɪŋ ˈsloʊli θruːˈaʊt ðə ɪkˈspɪdɪʃən/",
+          "linking": [
+            "「has been」助動詞 has は弱形 /həz/、語末 /z/ と been の子音 /b/ が子音連続 [həz bɪn] ハズ ビン",
+            "「been expiring」語末子音 /n/ が母音 /ɪ/ に連結 [bɪn ɪkˈspaɪɚɪŋ] ビン イクスパイアリング",
+            "「expiring slowly」expiring は /ŋ/ で終わり、slowly は子音 /s/ で始まり連結なし [ɪkˈspaɪɚɪŋ ˈsloʊli] イクスパイアリング スローリー",
+            "「throughout the」冠詞 the は弱形 /ðə/、前の語末 /t/ が未開放で接続 [θruːˈaʊt ðə] スルーアウト ザ"
+          ],
+          "kana": "ザ デュラビリティー オン ディス マイニング ツール ハズ ビン イクスパイアリング スローリー スルーアウト ザ イクスペディション"
+        },
+        {
+          "en": "Your realm subscription has been expiring gradually since the server restarted.",
+          "ja": "サーバーが再起動してから、あなたのレルム登録が徐々に期限切れになっています。",
+          "ipa": "/jɔɹ ˈrɛlm səbˈskrɪpʃən həz bɪn ɪkˈspaɪɚɪŋ ˈɡrændʒuəli sɪns ðə ˈsɝvɚ rɪˈstɑɹtɪd/",
+          "linking": [
+            "「has been」助動詞 has は弱形 /həz/、語末 /z/ と been の子音 /b/ が子音連続 [həz bɪn] ハズ ビン",
+            "「been expiring」語末子音 /n/ が母音 /ɪ/ に連結 [bɪn ɪkˈspaɪɚɪŋ] ビン イクスパイアリング",
+            "「expiring gradually」expiring は /ŋ/ で終わり、gradually は子音 /ɡ/ で始まり連結なし [ɪkˈspaɪɚɪŋ ˈɡrændʒuəli] イクスパイアリング グラジュアリー",
+            "「since the」冠詞 the は弱形 /ðə/、since は /s/ で終わり連結なし [sɪns ðə] シンス ザ"
+          ],
+          "kana": "ユア レルム サブスクリプション ハズ ビン イクスパイアリング グラジュアリー シンス ザ サーバー リスターティド"
+        }
+      ]
     }
   ]
 }
