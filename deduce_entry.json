@@ -284,6 +284,106 @@
           "kana": "ザ マイナーズ リアライズド ゼイ ハド ビン ディデューシング ザ オー ディストリビューション パターン インコレクトリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has deduced",
+      "ipa": "/hæz dɪˈduːsɪd/",
+      "examples": [
+        {
+          "en": "We have deduced the location of the diamonds from the deepslate blocks around us.",
+          "ja": "周囲のディープスレートブロックからダイアモンドの位置を推測しました。",
+          "ipa": "/wi həv dɪˈduːsɪd ðə loʊˈkeɪʃən əv ðə ˈdaɪməndz frəm ðə ˈdipˌsleɪt blɑks əˈraʊndəs/",
+          "kana": "ウィ ハヴ ディデューシド ザ ロウケイション アヴ ザ ダイモンズ フラム ザ ディープスレイト ブラックス アラウンダス",
+          "linking": [
+            "「have」は弱形 /həv/ ハヴ",
+            "「the」は弱形 /ðə/ ザ（3回）",
+            "「of」は弱形 /əv/ アヴ",
+            "「from」は弱形 /frəm/ フラム",
+            "「around us」—around の語末 /d/ が us の /ə/ に連結 [əˈraʊndəs] アラウンダス"
+          ]
+        },
+        {
+          "en": "He has deduced that the mob spawner must be under the stone blocks.",
+          "ja": "彼はモブスポーナーが石のブロックの下にあるはずと推測しました。",
+          "ipa": "/hi həz dɪˈduːsɪd ðæt ðə ˈmɑb ˈspɑnər məst bi əndər ðə ˈstoʊn blɑks/",
+          "kana": "ヒー ハズ ディデューシド ザット ザ モブ スポーナー マスト ビー アンダー ザ ストーン ブラックス",
+          "linking": [
+            "「has」は弱形 /həz/ ハズ",
+            "「that the」—that の語末 /t/ が the の /ð/ に先行（子音+子音、連結なし）、the は弱形 /ðə/",
+            "「must」は /məst/、「be」は弱形 /bi/",
+            "「under the」—under の語末 /r/ が the の /ð/ に先行（子音+子音、連結なし）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had deduced",
+      "ipa": "/həd dɪˈduːsɪd/",
+      "examples": [
+        {
+          "en": "By the time we built the trap, we had deduced the path the mob would take.",
+          "ja": "トラップを作る時までに、私たちはモブが取る経路を推測していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi bɪlt ðə træp wi həd dɪˈduːsɪd ðə pæθ ðə ˈmɑb wəd ˈteɪk/",
+          "kana": "バイ ザ タイム ウィ ビルト ザ トラップ ウィ ハド ディデューシド ザ パース ザ モブ ウド テイク",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（3回）",
+            "「had」は弱形 /həd/ ハド",
+            "「path the」—path の語末 /θ/ が the の /ð/ に先行（子音+子音、連結なし）",
+            "「would」は弱形 /wəd/ ウド"
+          ]
+        },
+        {
+          "en": "They had deduced that the redstone circuit was broken before I even looked at it.",
+          "ja": "彼らは私が見る前に、そのレッドストーン回路が壊れていることを推測していた。",
+          "ipa": "/ðeɪ həd dɪˈduːsɪd ðæt ðə ˈrɛdˌstoʊn ˈsɝkɪt wəz ˈbroʊkən bɪˈfɔr aɪ ˈivən ˈlʊk̚t æt ɪt/",
+          "kana": "ゼイ ハド ディデューシド ザット ザ レッドストーン サーキット ワズ ブロークン ビフォー アイ イーヴン ルックト アット イット",
+          "linking": [
+            "「had」は弱形 /həd/ ハド",
+            "「that」は /ðæt/ ザット、「the」は弱形 /ðə/ ザ",
+            "「was」は弱形 /wəz/ ワズ",
+            "「looked at」—looked の語末 /t/ が未開放で at に先行 [ˈlʊk̚t æt] ルックト アット",
+            "「before」は /bɪˈfɔr/ ビフォー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been deducing",
+      "ipa": "/hæz bɪn dɪˈduːsɪŋ/",
+      "examples": [
+        {
+          "en": "We have been deducing the structure of this cave system for the past two hours.",
+          "ja": "過去2時間、この洞窟システムの構造を推測し続けている。",
+          "ipa": "/wi həv bɪn dɪˈduːsɪŋ ðə ˈstrʌktʃər əv ðɪs ˈkeɪv ˈsɪstəm fɔr ðə ˈpæst tu ˈaʊərz/",
+          "kana": "ウィ ハヴ ビン ディデューシング ザ ストラクチャー アヴ ディス ケイヴ システム フォー ザ パスト トゥー アワーズ",
+          "linking": [
+            "「have」は弱形 /həv/ ハヴ",
+            "「been」は弱形 /bɪn/ ビン",
+            "「the」は弱形 /ðə/ ザ（2回）",
+            "「of」は弱形 /əv/ アヴ",
+            "「for」は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "They have been deducing the enchantment levels by checking each tool in our inventory.",
+          "ja": "彼らはインベントリの各ツールをチェックすることでエンチャントレベルを推測し続けている。",
+          "ipa": "/ðeɪ həv bɪn dɪˈduːsɪŋ ðə ɛnˈtʃæntmənt ˈlɛvəlz baɪ ˈtʃɛkɪŋ itʃ ˈtul ɪn ˈaʊər ɪnˈvɛntəri/",
+          "kana": "ゼイ ハヴ ビン ディデューシング ザ エンチャントメント レベルズ バイ チェッキング イッチ トゥール イン アワー インヴェントリー",
+          "linking": [
+            "「have」は弱形 /həv/ ハヴ",
+            "「been」は弱形 /bɪn/ ビン",
+            "「the」は弱形 /ðə/ ザ",
+            "「by checking」—by は /baɪ/、checking の語末 /ŋ/ が each の /i/ に先行（子音+母音、連結なし）",
+            "「in」は /ɪn/ イン"
+          ]
+        }
+      ]
     }
   ],
   "tags": [
