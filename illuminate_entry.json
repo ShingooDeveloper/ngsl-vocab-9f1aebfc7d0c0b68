@@ -324,6 +324,90 @@
           "kana": "ザ ティーム ハズ ビン イルーミネイティング ザ イン タイア ケイヴ ネットワーク オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will illuminate",
+      "ipa": "/wɪl ɪˈlʌmɪneɪt/",
+      "examples": [
+        {
+          "en": "I'll illuminate the entire cave system tomorrow.",
+          "ja": "明日、洞窟全体を照らします。",
+          "ipa": "/aɪl ɪˈlʌmɪneɪt ðə ɪnˈtaɪɚ ˈkeɪv ˈsɪstəm təˈmɑroʊ/",
+          "linking": [
+            "「I'll」は「I will」の縮約形 /aɪl/",
+            "「illuminate the」の語末 /t/ は未開放で停止、「the」は弱形 /ðə/"
+          ],
+          "kana": "アイル イルーミネイト ザ イン タイア ケイヴ システム トゥモロウ"
+        },
+        {
+          "en": "They will illuminate the mining tunnels with glowstone.",
+          "ja": "彼らはグロウストーンを使ってマイニングトンネルを照らします。",
+          "ipa": "/ðeɪ wɪl ɪˈlʌmɪneɪt ðə ˈmaɪnɪŋ ˈtʌnəlz wɪð ˈɡloʊˌstoʊn/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「illuminate the」の語末 /t/ は未開放で停止"
+          ],
+          "kana": "ゼイ ウィル イルーミネイト ザ マイニング トゥナルズ ウィズ グロウストーン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be illuminating",
+      "ipa": "/wɪl bi ɪˈlʌmɪˌneɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be illuminating the dark areas all day long.",
+          "ja": "私たちは一日中、暗いエリアを照らし続けます。",
+          "ipa": "/wil bi ɪˈlʌmɪˌneɪtɪŋ ðə ˈdɑrk ˈɛriəz ɔl ˈdeɪ ˈlɔŋ/",
+          "linking": [
+            "「We'll」は「we will」の縮約形 /wil/",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "ウィル ビー イルーミネイティング ザ ダーク エリアズ オール デイ ロング"
+        },
+        {
+          "en": "The team will be illuminating the northern fortress walls.",
+          "ja": "チームは北の要塞の壁を照らし続けます。",
+          "ipa": "/ðə ˈtim wɪl bi ɪˈlʌmɪˌneɪtɪŋ ðə ˈnɔrðɚn ˈfɔrtrəs ˈwɔlz/",
+          "linking": [
+            "「the」は弱形 /ðə/（2回出現）",
+            "「northern fortress」で子音が連続し滑らかに流れる"
+          ],
+          "kana": "ザ ティーム ウィル ビー イルーミネイティング ザ ノーザン フォートレス ウォールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have illuminated",
+      "ipa": "/wɪl həv ɪˈlʌmɪneɪtəd/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, we'll have illuminated the entire base.",
+          "ja": "明日の朝までに、私たちはベース全体を照らし終わっているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ ˈmɔrnɪŋ wil həv ɪˈlʌmɪneɪtəd ðə ɪnˈtaɪɚ ˈbeɪs/",
+          "linking": [
+            "「we'll」は「we will」の縮約形 /wil/、「have」は弱形 /həv/",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "バイ トゥモロウ モーニング ウィル ハヴ イルーミネイタド ザ イン タイア ベイス"
+        },
+        {
+          "en": "By next week, they'll have illuminated all the mining tunnels.",
+          "ja": "来週までに、彼らはすべてのマイニングトンネルを照らし終わっているでしょう。",
+          "ipa": "/baɪ nɛks ˈwik ðeɪl həv ɪˈlʌmɪneɪtəd ɔl ðə ˈmaɪnɪŋ ˈtʌnəlz/",
+          "linking": [
+            "「they'll」は「they will」の縮約形 /ðeɪl/、「have」は弱形 /həv/",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "バイ ネクス ウィーク ゼイル ハヴ イルーミネイタド オール ザ マイニング トゥナルズ"
+        }
+      ]
     }
   ],
   "idioms": [

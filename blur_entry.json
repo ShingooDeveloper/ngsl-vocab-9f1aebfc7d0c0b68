@@ -328,6 +328,102 @@
           "kana": "ザ パーティクルズ ハド ビン ブラーリング ザ シナリー オール イーヴニング アンティル ウィー クロウズド ザ テクスチャー パック"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has blurred",
+      "ipa": "/həz blɝd/",
+      "examples": [
+        {
+          "en": "The fog effect has blurred my vision for the entire mining session.",
+          "ja": "霧のエフェクトはマイニングセッション全体を通じて、私の視界をぼやかしてきた。",
+          "ipa": "/ðə fɑɡ ɪˈfɛkt ˈhæz blɝd maɪ ˈvɪʒən fɔr ðə ənˈtaɪr ˈmaɪnɪŋ ˈsɛʃən/",
+          "kana": "ザ フォッグ イフェクト ハズ ブラード マイ ビジョン フォ ザ エンタイアー マイニング セッション",
+          "linking": [
+            "「the fog」で the は定冠詞の弱形 /ðə/「ザ」",
+            "「effect has」で effect の語末 /t/ が母音 /æ/ に先行（子音が次に続く）、has は助動詞で弱形 /əz/ ハズ",
+            "「has blurred」で has の語末子音 /z/ が子音 /b/ に続き未開放「ハズ ブラード」",
+            "「for the」で for は弱形 /fɚ/「フォ」、the は弱形 /ðə/「ザ」"
+          ]
+        },
+        {
+          "en": "Players have blurred the distinction between game modes on this server all season.",
+          "ja": "プレイヤーたちはこのシーズン全体を通じて、このサーバー上のゲームモード間の区別をぼやかしてきた。",
+          "ipa": "/ˈpleɪɚz ˈhæv blɝd ðə dɪsˈtɪŋkʃən bɪˈtwin ɡeɪm moʊdz ɑn ðɪs ˈsɝvɚ ɔl ˈsiːzən/",
+          "kana": "プレイヤーズ ハヴ ブラード ザ ディスティングクション ビトゥウィーン ゲイム モウズ オン ディス サーバー オール シーズン",
+          "linking": [
+            "「players have」で players の語末子音 /z/ が母音 /æ/ に連結「プレイヤーズ ハヴ」、have は助動詞で弱形 /əv/",
+            "「have blurred」で have の語末子音 /v/ が子音 /b/ に続き未開放「ハヴ ブラード」",
+            "「the distinction」で the は定冠詞の弱形 /ðə/「ザ」",
+            "「on this」で on は弱い、this の語末 /s/ が母音 /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had blurred",
+      "ipa": "/həd blɝd/",
+      "examples": [
+        {
+          "en": "By the time we reached the entrance, the rain had blurred all the directional signs we placed.",
+          "ja": "私たちが入り口に到達した時までに、雨が私たちが置いたすべての方向標識をぼやかしていた。",
+          "ipa": "/baɪ ðə taɪm wi riˈtʃt ðə ˈɛntrəns ðə ˈreɪn ˈhæd blɝd ɔl ðə dɪˈrɛkʃənəl saɪnz wi pleɪst/",
+          "kana": "バイ ザ タイム ウィー リーチト ザ エントランス ザ レイン ハド ブラード オール ザ ディレクショナル サインズ ウィー プレイスト",
+          "linking": [
+            "「the time」で the は定冠詞の弱形 /ðə/「ザ」",
+            "「time we」で time の語末子音 /m/ が母音 /i/ に連結「タイム ウィー」",
+            "「rain had」で rain の語末 /n/ が had の弱形 /əd/ に連結「レイン ハド」",
+            "「all the」で all の語末 /l/ が the の弱形 /ðə/ に連結「オール ザ」"
+          ]
+        },
+        {
+          "en": "The water effects had blurred the underwater ruins before we could explore them properly.",
+          "ja": "水のエフェクトが水中遺跡をぼやかしてしまい、私たちが適切に探索することができなくなっていた。",
+          "ipa": "/ðə ˈwɔtɚ ɪˈfɛkts ˈhæd blɝd ðə ˌʌndɚˈwɔtɚ ˈruːɪnz bɪˈfɔr wi kʊd ɪkˈsplɔr ðɛm ˈpɹɑpɚli/",
+          "kana": "ザ ウォーター イフェクツ ハド ブラード ザ アンダーウォーター ルーインズ ビフォア ウィ クゥド エクスプロア ザム プロパリー",
+          "linking": [
+            "「the water」で the は定冠詞の弱形 /ðə/「ザ」、water の語末 /r/ が effect に連結「ウォーター イフェクツ」",
+            "「effects had」で effects の語末 /s/ が had の弱形 /əd/ に連結「イフェクツ ハド」",
+            "「had blurred」で had の語末子音 /d/ が子音 /b/ に続き未開放「ハド ブラード」",
+            "「before we」で before の語末 /r/ が we に連結「ビフォア ウィ」、could は弱形 /kəd/ クゥド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been blurring",
+      "ipa": "/həz bɪn ˈblɝɪŋ/",
+      "examples": [
+        {
+          "en": "The fog has been blurring our visibility while we construct the defensive wall.",
+          "ja": "防御壁を建築している間、霧が私たちの視界をぼやかし続けている。",
+          "ipa": "/ðə fɑɡ ˈhæz bɪn ˈblɝɪŋ ˈaʊɚ ˌvɪzɪˈbɪləti waɪl wi kənˈstrʌkt ðə dɪˈfɛnsɪv wɔl/",
+          "kana": "ザ フォッグ ハズ ビン ブラーリング アワー ビジビリティ ワイル ウィ コンストラクト ザ ディフェンシヴ ウォール",
+          "linking": [
+            "「the fog」で the は定冠詞の弱形 /ðə/「ザ」",
+            "「fog has」で fog の語末 /g/ が母音 /æ/ に先行（子音で終わる）、has は助動詞で弱形 /əz/ ハズ",
+            "「has been」で has の語末子音 /z/ が子音 /b/ に続き未開放、been は弱形 /bɪn/ ビン「ハズ ビン」",
+            "「while we」で while の語末 /l/ が we に連結「ワイル ウィー」"
+          ]
+        },
+        {
+          "en": "Water particles have been blurring the underwater landscape ever since we entered the ocean monument.",
+          "ja": "海の記念碑に入った時から、水のパーティクルが水中の風景をぼやかし続けている。",
+          "ipa": "/ˈwɔtɚ ˈpɑɹtɪkəlz ˈhæv bɪn ˈblɝɪŋ ðə ˌʌndɚˈwɔtɚ ˈlændskeɪp ˈɛvɚ sɪns wi ˈɛntɚd ðə ˈoʊʃən ˈmɑnjəmənt/",
+          "kana": "ウォーター パーティクルズ ハヴ ビン ブラーリング ザ アンダーウォーター ランドスケイプ エバー シンス ウィ エンタード ザ オウシャン モニュメント",
+          "linking": [
+            "「water particles」で water の語末 /r/ が particles に連結「ウォーター パーティクルズ」",
+            "「particles have」で particles の語末子音 /z/ が母音 /æ/ に連結「パーティクルズ ハヴ」、have は助動詞で弱形 /əv/",
+            "「have been」で have の語末子音 /v/ が子音 /b/ に続き未開放、been は弱形 /bɪn/ ビン「ハヴ ビン」",
+            "「since we」で since の語末 /s/ が we の子音に続く、we の母音 /i/ が entered に連結「シンス ウィ」"
+          ]
+        }
+      ]
     }
   ]
 }
