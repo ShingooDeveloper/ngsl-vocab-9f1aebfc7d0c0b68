@@ -416,6 +416,102 @@
           "kana": "アイ ハブ ビン ブライビング ザ ワンダリング トレイダー スルーアウト ザ シーズン タ ストック アップ オン レアー インチャンティド アイテムズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will bribe",
+      "ipa": "/wɪl ˈbraɪb/",
+      "examples": [
+        {
+          "en": "I will bribe the village merchants to unlock better trading prices and exotic goods.",
+          "ja": "私は村の商人を買収して、より良い取引価格とエキゾチックな商品のロックを解除します。",
+          "ipa": "[aɪ wəl ˈbraɪb ðə ˈvɪlɪdʒ ˈmɚtʃənts tə ənˈlɑk ˈbɛɾɚ ˈtreɪdɪŋ ˈpɹaɪsɪz ænd ɛɡˈzɑtɪk ˈɡʊdz]",
+          "linking": [
+            "I will：I は /aɪ/、will は弱形 /wəl/ で開始、短縮形で I'll [aɪl]",
+            "will bribe：will の弱形 /wəl/ が bribe の /b/ に連結 [wəl ˈbraɪb]",
+            "bribe the：bribe は語末 /b/ で未開放、the は弱形 /ðə/ で開始 [ˈbraɪb̚ ðə]",
+            "better trading：better の中の /t/ は flap 化して /ɾ/、trading は /t/ で開始 [ˈbɛɾɚ ˈtreɪdɪŋ]"
+          ],
+          "kana": "アイル ブライブ ザ ビレッジ マーチャンツ タ アンロック ベラー トレイディング プライシズ アン エグザティック グッズ"
+        },
+        {
+          "en": "They will bribe the warden and guards to secure passage through the fortress.",
+          "ja": "彼らは獄長と衛兵を買収して、フォートレスを通るルートを確保します。",
+          "ipa": "[ðeɪ wəl ˈbraɪb ðə ˈwɔɹdən ænd ˈɡɑɹdz tə sɪˈkjʊɹ ˈpæsɪdʒ θɹuː ðə ˈfɔɹtɹɛs]",
+          "linking": [
+            "They will：They は /ðeɪ/、will は弱形 /wəl/、短縮形で they'll [ðeɪl]",
+            "will bribe：will の弱形 /wəl/ が bribe の /b/ に連結 [wəl ˈbraɪb]",
+            "bribe the：bribe は語末 /b/ で未開放、the は弱形 /ðə/ で開始 [ˈbraɪb̚ ðə]",
+            "and guards：and は弱形 /ən/ または /n/、guards は /ɡ/ で開始 [ən ˈɡɑɹdz]"
+          ],
+          "kana": "ザイル ブライブ ザ ウォーデン アン ガーズ タ シキュア パッセッジ スルー ザ フォートレス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be bribing",
+      "ipa": "/wɪl bi ˈbraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "While you defend the base, we will be bribing the council members to prevent raids.",
+          "ja": "あなたが基地を守っている間、私たちは襲撃を防ぐために議会メンバーを買収します。",
+          "ipa": "[ˈwaɪl ju dɪˈfɛnd ðə ˈbeɪs wi wəl bi ˈbraɪbɪŋ ðə ˈkaʊnsəl ˈmɛmbɚz tə prɪˈvɛnt ˈreɪdz]",
+          "linking": [
+            "While you：while は語末 /l/、you は /ju/ で開始 [waɪl ju]",
+            "defend the：defend は語末 /d/、the は弱形 /ðə/ で開始 [dɪˈfɛnd ðə]",
+            "will be：will は弱形 /wəl/、be は /bi/ で開始 [wəl bi]",
+            "be bribing：be は弱形 /bi/、bribing は /b/ で開始 [bi ˈbraɪbɪŋ]"
+          ],
+          "kana": "ワイル ユー ディフェンド ザ ベイス ウィル ビー ブライビング ザ カウンスル メンバーズ タ プリベント レイズ"
+        },
+        {
+          "en": "She will be bribing the village elder throughout the trading season for exclusive discounts.",
+          "ja": "彼女は取引シーズン中、専門的な割引のために村の長老を買収し続けるでしょう。",
+          "ipa": "[ʃi wəl bi ˈbraɪbɪŋ ðə ˈvɪlɪdʒ ˈɛldɚ θɹuːˈaʊt ðə ˈtreɪdɪŋ ˈsizən fɚ ɪkˈsklusɪv ˈdɪskaʊnts]",
+          "linking": [
+            "She will：She は /ʃi/、will は弱形 /wəl/、短縮形で she'll [ʃil]",
+            "will be：will の弱形 /wəl/ が be の /bi/ に連結 [wəl bi]",
+            "be bribing：be は弱形 /bi/、bribing は /b/ で開始 [bi ˈbraɪbɪŋ]",
+            "throughout the：throughout は語末 /t/（未開放）、the は弱形 /ðə/ で開始 [θɹuːˈaʊt̚ ðə]"
+          ],
+          "kana": "シル ビー ブライビング ザ ビレッジ エルダー スルーアウト ザ トレイディング シーズン ファー イクスクルーシヴ ディスカウンツ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have bribed",
+      "ipa": "/wɪl həv ˈbraɪbd/",
+      "examples": [
+        {
+          "en": "By the end of the month, we will have bribed enough officials to control the entire trade network.",
+          "ja": "月末までに、私たちは貿易ネットワーク全体を制御するために十分な役人を買収しているでしょう。",
+          "ipa": "[baɪ ðə ɛnd əv ðə ˈmʌnθ wi wəl həv ˈbraɪbd ɪˈnʌf əˈfɪʃəlz tə kənˈtɹoʊl ðə ɛnˈtaɪɚ ˈtreɪd ˈnɛtˌwɚk]",
+          "linking": [
+            "By the：by は /baɪ/、the は弱形 /ðə/ で開始 [baɪ ðə]",
+            "of the：of は弱形 /əv/、the は弱形 /ðə/ で開始 [əv ðə]",
+            "will have：will は弱形 /wəl/、have は弱形 /həv/ で開始 [wəl həv]",
+            "have bribed：have の弱形 /həv/ が bribed の /b/ に連結 [həv ˈbraɪbd]"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス ウィル ハヴ ブライド イナフ ア フィシャルズ タ コントロール ザ インタイアー トレイド ネットワーク"
+        },
+        {
+          "en": "He will have bribed his way to complete immunity from server rules by next season.",
+          "ja": "彼は次のシーズンまでに、サーバーのルールから完全な免除に買収の道を進んでいるでしょう。",
+          "ipa": "[hi wəl həv ˈbraɪbd hɪz ˈweɪ tə kəmˈplit ɪˈmjunədi frəm ˈsɚvɚ ˈɹulz baɪ ˈnɛkst ˈsizən]",
+          "linking": [
+            "He will：He は /hi/、will は弱形 /wəl/、短縮形で he'll [hil]",
+            "will have：will の弱形 /wəl/ が have の弱形 /həv/ に連結 [wəl həv]",
+            "have bribed：have は弱形 /həv/、bribed は /b/ で開始 [həv ˈbraɪbd]",
+            "from server：from は弱形 /frəm/、server は /s/ で開始 [frəm ˈsɚvɚ]"
+          ],
+          "kana": "ヒル ハヴ ブライド ヒズ ウェイ タ コムプリート イミューニティー フラム サーバー ルーズ バイ ネクスト シーズン"
+        }
+      ]
     }
   ]
 }
