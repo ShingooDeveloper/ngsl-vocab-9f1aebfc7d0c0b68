@@ -382,6 +382,102 @@
           "kana": "ザ ファーネス ハズ ビン リファイニング オア フォア セヴァルアルズ アン ウィ スティル ニード モア イングッツ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will refine",
+      "ipa": "/wɪl rɪˈfaɪn/",
+      "examples": [
+        {
+          "en": "I'll refine all the ore tomorrow for our new smelter setup.",
+          "ja": "明日、新しいスメルター設定用にすべての鉱石を精製します。",
+          "ipa": "/aɪl rɪˈfaɪn ɔl ðə ɔɹ təˈmɑɹoʊ fɔɹ ˈaʊɚ nu ˈsmɛltɚ ˈsɛtˌʌp/",
+          "linking": [
+            "I'll の語末 /l/ が refine の /r/ に続く（子音+子音で未開放）[aɪl̚ rɪˈfaɪn] アイル リファイン。",
+            "all の語末 /l/ が the の /ð/ に連結、the は弱形 /ðə/ [ɔl ðə] オール ザ。",
+            "ore の語末 /ɹ/ が tomorrow の /t/ に続く（流れず）、tomorrow は弱化 /təˈmɑɹoʊ/ [ɔɹ t] オア タ。",
+            "for は前置詞で /fɔɹ/、our の /aʊ/ に続く [fɔɹ ˈaʊɚ] フォア アワー。"
+          ],
+          "kana": "アイル リファイン オール ザ オア タモロー フォア アワー ニュー スメルター セットアップ"
+        },
+        {
+          "en": "We will refine the materials once we have enough supplies.",
+          "ja": "十分な物資があれば、その素材を精製します。",
+          "ipa": "/wi wɪl rɪˈfaɪn ðə məˈtɪɹiəlz wʌns wi həv ɪˈnʌf səˈplaɪz/",
+          "linking": [
+            "will の語末 /l/ が refine の /r/ に続く（子音+子音で未開放）[wɪl̚ rɪˈfaɪn] ウィル リファイン。",
+            "the は定冠詞で弱形 /ðə/、materials の /m/ に続く（子音+子音で未開放）[ðə m] ザ マ。",
+            "once の語末 /s/ が we の /w/ に続く [s w] スウ。",
+            "have は弱形 /həv/、enough の /ɪ/ に続く（子音+子音で未開放）[həv ɪˈnʌf] ハヴ イナフ。"
+          ],
+          "kana": "ウィ ウィル リファイン ザ マティリアルズ ワンス ウィ ハヴ イナフ サプライズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be refining",
+      "ipa": "/wɪl bi rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be refining diamonds while you're mining for more ore.",
+          "ja": "あなたがもっと鉱石を採掘している間、私たちはダイヤモンドを精製しているでしょう。",
+          "ipa": "/wɪl bi rɪˈfaɪnɪŋ ˈdaɪəˌmɑndz waɪl jɔɹ ˈmaɪnɪŋ fɔɹ mɔɹ ɔɹ/",
+          "linking": [
+            "we'll の語末 /l/ が be の /b/ に続く（子音+子音で未開放）[wɪl̚ bi] ウィル ビー。",
+            "be は弱形で refining の /r/ に続く（未開放）[bi r] ビー リ。",
+            "diamonds の語末 /z/ が while の /w/ に続く [z w] ズ ホワイル。",
+            "for は前置詞で /fɔɹ/、more の /m/ に続く [fɔɹ m] フォア モア。"
+          ],
+          "kana": "ウィル ビー リファイニング ダイモンズ ホワイル ヨア マイニング フォア モア オア"
+        },
+        {
+          "en": "He will be refining the redstone circuits for the next few hours.",
+          "ja": "彼は今後数時間、レッドストーン回路を洗練させるでしょう。",
+          "ipa": "/hi wɪl bi rɪˈfaɪnɪŋ ðə ˈrɛdˌstoʊn ˈsɝkɪts fɔɹ ðə nɛkst fju ˈaʊɚz/",
+          "linking": [
+            "will の語末 /l/ が be の /b/ に続く（子音+子音で未開放）[wɪl̚ bi] ウィル ビー。",
+            "be は弱形で refining の /r/ に続く（未開放）[bi r] ビー リ。",
+            "the は弱形 /ðə/、redstone の /r/ に続く（子音+子音で未開放）[ðə rɛdˌstoʊn] ザ レッドストーン。",
+            "circuits の語末 /s/ が for の /f/ に続く（流れず）[s f] スフ。"
+          ],
+          "kana": "ヒー ウィル ビー リファイニング ザ レッドストーン サーキッツ フォア ザ ネクスト フュー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have refined",
+      "ipa": "/wɪl həv rɪˈfaɪnd/",
+      "examples": [
+        {
+          "en": "By the time you arrive, we'll have refined enough iron for the entire base.",
+          "ja": "あなたが到着する頃までに、私たちはベース全体に必要な鉄を精製しているでしょう。",
+          "ipa": "/baɪ ðə taɪm ju əˈraɪv wɪl həv rɪˈfaɪnd ɪˈnʌf ˈaɪɹən fɔɹ ðə ɪnˈtaɪɚ beɪs/",
+          "linking": [
+            "the は弱形 /ðə/、time の /t/ に続く（子音+子音で未開放）[ðə taɪm] ザ タイム。",
+            "you の語末 /u/ から arrive の /ə/ へ [u ə] ユー アライヴ。",
+            "we'll の語末 /l/ が have の /h/ に続く（未開放）、have は弱形 /həv/ [wɪl̚ həv] ウィル ハヴ。",
+            "refined の語末 /d/ が enough の /ɪ/ に連結 [d ɪ] ディ イナフ。"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ ウィル ハヴ リファインド イナフ アイァレン フォア ザ インタイアー ベイス"
+        },
+        {
+          "en": "They will have refined all the copper ore before the server reset.",
+          "ja": "サーバーリセット前に、彼らはすべての銅鉱石を精製しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv rɪˈfaɪnd ɔl ðə ˈkɑpɚ ɔɹ bɪˈfɔɹ ðə ˈsɝvɚ ˈriːsɛt/",
+          "linking": [
+            "will の語末 /l/ が have の /h/ に続く（未開放）、have は弱形 /həv/ [wɪl̚ həv] ウィル ハヴ。",
+            "refined の語末 /d/ が all の /ɔ/ に連結 [d ɔ] ディ オール。",
+            "all の語末 /l/ が the の /ð/ に連結、the は弱形 [ɔl ðə] オール ザ。",
+            "before の語末 /ɹ/ が the の /ð/ で未開放、server の /s/ に続く [ɹ̚ ðə ˈsɝvɚ] ビフォア ザ サーバー。"
+          ],
+          "kana": "ゼイ ウィル ハヴ リファインド オール ザ カッパー オア ビフォア ザ サーバー リーセット"
+        }
+      ]
     }
   ]
 }
