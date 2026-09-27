@@ -271,6 +271,96 @@
           "kana": "シー ハド ビン ソアーリング オーヴァー ザ ネザー フォートレス ウェン シー ファイナリー ファウンド ハー ウェイ ホーム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has soared",
+      "ipa": "/həz ˈsoːrd/",
+      "examples": [
+        {
+          "en": "The phoenix has soared through the Nether for hours without returning to its nest.",
+          "ja": "フェニックスは何時間もネザーを飛び回り、巣に帰らない。",
+          "ipa": "[ðə ˈfɛnɪks həz ˈsoːɹd θɹuː ðə ˈnɛðɚ fɚ ˈaʊɚz wɪðˈaʊt ɹɪˈtɝnɪŋ tu ɪts ˈnɛst]",
+          "linking": [
+            "has soared → has は弱形 /həz/、/z/ が soared /s/ に連結 [həz ˈsoːɹd] ハズ ソアード",
+            "through the → through /θ/ が the /ð/ に連結 [θɹuː ðə] スルー ザ",
+            "without returning → without /t/ は未開放、/t̚/ が returning /r/ に連結 [wɪðˈaʊt̚ ɹɪˈtɝnɪŋ] ウィザウッ リターニング"
+          ],
+          "kana": "ザ フェニックス ハズ ソアード スルー ザ ネザー フォー アワーズ ウィザウッ リターニング トゥ イッツ ネスト"
+        },
+        {
+          "en": "We have soared to the highest mountain peak in this entire world.",
+          "ja": "この世界全体で最も高い山頂に飛び上がった。",
+          "ipa": "[wi həv ˈsoːɹd tu ðə ˈhaɪəst ˈmaʊntən ˈpiːk ɪn ðɪs ənˈtaɪɚ ˈwɝld]",
+          "linking": [
+            "have soared → have は弱形 /həv/、/v/ が soared /s/ に連結 [həv ˈsoːɹd] ハヴ ソアード",
+            "to the → to は弱形 /tə/、/ə/ が the /ð/ に連結 [tə ðə] タ ザ",
+            "in this → in は弱形 /ɪn/、/n/ が this /ð/ に連結 [ɪn ðɪs] イン ディス"
+          ],
+          "kana": "ウィ ハヴ ソアード トゥ ザ ハイエスト マウンテン ピーク イン ディス エンタイヤー ワールド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had soared",
+      "ipa": "/həd ˈsoːrd/",
+      "examples": [
+        {
+          "en": "By the time the storm arrived, I had soared across the entire sky and gathered all the clouds.",
+          "ja": "嵐が到着するまでに、私は空全体を飛び越えて、すべての雲を集めた。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈstɔɹm əˈɹaɪvd | ˈaɪ həd ˈsoːɹd əˈkɹɔs ðɪ ənˈtaɪɚ ˈskaɪ ænd ˈɡæðɚd ɔːl ðə ˈklaʊdz]",
+          "linking": [
+            "had soared → had は弱形 /həd/、/d/ が soared /s/ に連結 [həd ˈsoːɹd] ハド ソアード",
+            "the entire → the は弱形 /ðə/、/ə/ が entire /ɛ/ に連結 [ðə ənˈtaɪɚ] ザ エンタイヤー",
+            "and gathered → and は弱形 /ən/、/d/ が gathered /g/ に連結 [ænd ˈɡæðɚd] アンド ガザード"
+          ],
+          "kana": "バイ ザ タイム ザ ストーム ァライvド | アイ ハド ソアード ァクロス ディ エンタイヤー スカイ アンド ギャザード オール ザ クラウズ"
+        },
+        {
+          "en": "The dragon had soared over the mountains before it attacked the village on the ground.",
+          "ja": "ドラゴンは山々の上を飛んだ後、地面の村を攻撃した。",
+          "ipa": "[ðə ˈdɹæɡən həd ˈsoːɹd ˈoʊvɚ ðə ˈmaʊntənz bɪˈfɔɹ ɪt əˈtækt ðə ˈvɪlɪdʒ ɑn ðə ˈɡraʊnd]",
+          "linking": [
+            "had soared → had は弱形 /həd/、/d/ が soared /s/ に連結 [həd ˈsoːɹd] ハド ソアード",
+            "over the → over /ɹ/ が the /ð/ に連結 [ˈoʊvɚ ðə] オーヴァー ザ",
+            "on the → on /n/ が the /ð/ に連結 [ɑn ðə] アン ザ"
+          ],
+          "kana": "ザ ドラゴン ハド ソアード オーヴァー ザ マウンテンズ ビフォア イット ァタクト ザ ヴィレッジ アン ザ グラウンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been soaring",
+      "ipa": "/həz bɪn ˈsoːrɪŋ/",
+      "examples": [
+        {
+          "en": "The eagle has been soaring above the ocean for most of the day.",
+          "ja": "鷲は一日の大部分の間、海の上を飛び回っている。",
+          "ipa": "[ðə ˈiɡəl həz bɪn ˈsoːɹɪŋ əˈbʌv ðɪ ˈoʊʃən fɚ ˈmoʊst əv ðə ˈdeɪ]",
+          "linking": [
+            "has been → has は弱形 /həz/、/z/ が been /b/ に連結 [həz bɪn] ハズ ビン",
+            "been soaring → been は弱形 /bɪn/、/n/ が soaring /s/ に連結 [bɪn ˈsoːɹɪŋ] ビン ソアーリング",
+            "of the → of は弱形 /əv/、/v/ が the /ð/ に連結 [əv ðə] アヴ ザ"
+          ],
+          "kana": "ザ イーガル ハズ ビン ソアーリング アバヴ ディ オーシャン ファー モースト アヴ ザ デイ"
+        },
+        {
+          "en": "We have been soaring through the End all morning, trying to escape from the dragon.",
+          "ja": "朝中ずっとエンドを飛び回り、ドラゴンから逃げようとしている。",
+          "ipa": "[wi həv bɪn ˈsoːɹɪŋ θɹuː ðɪ ˈɛnd ɔːl ˈmɔɹnɪŋ | ˈtɹaɪɪŋ tu əˈskeɪp fɹəm ðə ˈdɹæɡən]",
+          "linking": [
+            "have been → have は弱形 /həv/、/v/ が been /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been soaring → been は弱形 /bɪn/、/n/ が soaring /s/ に連結 [bɪn ˈsoːɹɪŋ] ビン ソアーリング",
+            "from the → from は弱形 /frəm/、/m/ が the /ð/ に連結 [frəm ðə] フラム ザ"
+          ],
+          "kana": "ウィ ハヴ ビン ソアーリング スルー ディ エンド オール モーニング | トライイング トゥ ァスケイプ フラム ザ ドラゴン"
+        }
+      ]
     }
   ]
 }
