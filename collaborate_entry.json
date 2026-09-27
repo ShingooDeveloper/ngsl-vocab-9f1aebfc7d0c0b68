@@ -282,6 +282,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has collaborated",
+      "ipa": "/həz koʊˈlæbəreɪtəd/",
+      "examples": [
+        {
+          "en": "Our team has collaborated with builders from five different servers to create this amazing mega base.",
+          "ja": "私たちのチームは5つの異なるサーバーからのビルダーと協力して、この素晴らしいメガベースを作成しました。",
+          "ipa": "/aʊɚ tim həz koʊˈlæbəreɪtəd wɪð ˈbɪldɚz frəm ˈfaɪv ˈdɪfɚənt ˈsɚvɚz tu kriˈeɪt ðɪs əˈmeɪzɪŋ ˈmeɡə ˈbeɪs/",
+          "kana": "アワー ティーム ハズ コウラボレイテッド ウィス ビルダーズ フラム ファイヴ ディファレント サーヴァーズ トゥー クリエイト ディス アメイジング メガ ベース",
+          "linking": [
+            "team has で team の語末 /m/ が has の初頭 /h/ に続き、has の弱形 /həz/「ハズ」に弱化",
+            "has collaborated で has の弱形 /həz/ が collaborated に連結 [həz koʊˈlæbəreɪtəd]「ハズ コウラボレイテッド」",
+            "with builders で with の弱形 /wɪð/「ウィス」に弱化。builders の初頭 /b/ に続く（子音+子音）",
+            "to create で to の弱形 /tə/「トゥー」に弱化"
+          ]
+        },
+        {
+          "en": "She has collaborated on many legendary redstone projects and earned respect throughout the community.",
+          "ja": "彼女は多くの伝説的なレッドストーンプロジェクトで協力し、コミュニティ全体で尊敬を得ました。",
+          "ipa": "/ʃi həz koʊˈlæbəreɪtəd ɑn ˈmɛni ˈlɛdʒənˌdɛɹi ˈɹɛdstoʊn ˈprɑdʒɛkts ænd ˈɚnd rɪˈspɛkt θɹuˈaʊt ðə kəˈmjuːnəti/",
+          "kana": "シー ハズ コウラボレイテッド オン メニ レジェンダリー レッドストウン プロジェクツ アンド アーンド リスペクト スルーアウト ザ コミュニティ",
+          "linking": [
+            "has collaborated で has の弱形 /həz/ が collaborated に連結 [həz koʊˈlæbəreɪtəd]「ハズ コウラボレイテッド」",
+            "collaborated on で collaborated の語末子音 /d/ が母音 /ɑ/ に連結「コウラボレイテッド オン」",
+            "projects and で projects の語末 /s/ が and の初頭 /ən/ に続き、and は弱形「プロジェクツ アンド」",
+            "the community で the は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had collaborated",
+      "ipa": "/həd koʊˈlæbəreɪtəd/",
+      "examples": [
+        {
+          "en": "After they had collaborated on the underground city, everyone realized how powerful teamwork could be.",
+          "ja": "地下都市で協力したあと、皆はチームワークがいかに強力かを実感しました。",
+          "ipa": "/ˈæftɚ ðeɪ həd koʊˈlæbəreɪtəd ɑn ðə ˈʌndɚˈɡraʊnd ˈsɪti ˈɛvriwʌn ˈɹɪəˈlaɪzd haʊ ˈpaʊɚfəl ˈtimwɝk ˈkʊd bi/",
+          "kana": "アフター ザイ ハド コウラボレイテッド オン ザ アンダーグラウンド シティ エヴリワン リアライズド ハウ パワフル ティームワーク クッド ビー",
+          "linking": [
+            "had collaborated で had の弱形 /həd/ が collaborated に連結 [həd koʊˈlæbəreɪtəd]「ハド コウラボレイテッド」",
+            "collaborated on で collaborated の語末子音 /d/ が母音 /ɑ/ に連結「コウラボレイテッド オン」",
+            "the underground で the は弱形 /ðə/「ザ」に弱化。underground の初頭 /ʌ/ に続く（母音+母音）",
+            "could be で could の /d/ が be の初頭 /b/ に続く（子音+子音）。be は弱形 /bi/「ビー」"
+          ]
+        },
+        {
+          "en": "The players had collaborated with the admin team before implementing the new rules for the server.",
+          "ja": "プレイヤーたちはサーバーの新しいルールを実装する前に、管理者チームと協力していました。",
+          "ipa": "/ðə ˈpleɪɚz həd koʊˈlæbəreɪtəd wɪð ðə ˈædmɪn tim bɪˈfɔɹ ɪmˈplɪməntɪŋ ðə ˈnu ˈrulz fɔɹ ðə ˈsɚvɚ/",
+          "kana": "ザ プレイヤーズ ハド コウラボレイテッド ウィス ザ アドミン ティーム ビフォア イムプリメンティング ザ ニュー ルールズ ファー ザ サーバー",
+          "linking": [
+            "had collaborated で had の弱形 /həd/ が collaborated に連結 [həd koʊˈlæbəreɪtəd]「ハド コウラボレイテッド」",
+            "collaborated with で collaborated の語末子音 /d/ が子音 /w/ に続き未開放「コウラボレイテッド ウィス」。with は弱形 /wɪð/「ウィス」",
+            "admin team で admin の語末 /n/ が team の初頭 /t/ に続く（子音+子音）",
+            "for the で for の弱形 /fɔɹ/「ファー」。the は弱形 /ðə/「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been collaborating",
+      "ipa": "/həz ˈbɪn ˌkoʊˈlæbəreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We have been collaborating on this monument for over three months, and it's almost finished now.",
+          "ja": "私たちはこのモニュメントで3ヶ月以上協力してきており、もうほぼ完成しています。",
+          "ipa": "/wi həv ˈbɪn ˌkoʊˈlæbəreɪtɪŋ ɑn ðɪs ˈmɑnjumənt fɔɹ ˈoʊvɚ θɹi ˈmʌnθz ænd ɪts ˈɔlmoʊst ˈfɪnɪʃt ˈnaʊ/",
+          "kana": "ウィー ハヴ ビン コウラボレイティング オン ディス モニュメント ファー オーヴァー スリー マンスズ アンド イツ オールモウスト フィニッシド ナウ",
+          "linking": [
+            "have been で have の弱形 /həv/ が been に連結 [həv ˈbɪn]「ハヴ ビン」",
+            "been collaborating で been の弱形 /bɪn/ が collaborating に連結 [ˈbɪn ˌkoʊˈlæbəreɪtɪŋ]「ビン コウラボレイティング」",
+            "collaborating on で collaborating の語末 /ŋ/ が on の初頭 /ɑ/ に連結「コウラボレイティング オン」",
+            "for over で for の弱形 /fɔɹ/「ファー」。over の初頭 /o/ に続く（母音+母音）"
+          ]
+        },
+        {
+          "en": "The teams have been collaborating with the community managers to plan an epic server event next month.",
+          "ja": "チームたちは来月の壮大なサーバーイベントを計画するために、コミュニティマネージャーと協力してきています。",
+          "ipa": "/ðə timz həv ˈbɪn ˌkoʊˈlæbəreɪtɪŋ wɪð ðə kəˈmjuːnəti ˈmænɪdʒɚz tu ˈplæn ən ˈɛpɪk ˈsɚvɚ ɪˈvɛnt ˈnɛkst ˈmʌnθ/",
+          "kana": "ザ ティームズ ハヴ ビン コウラボレイティング ウィス ザ コミュニティ マネジャーズ トゥー プラン アン エピック サーバー イベント ネクスト マンス",
+          "linking": [
+            "have been で have の弱形 /həv/ が been に連結 [həv ˈbɪn]「ハヴ ビン」",
+            "been collaborating で been の弱形 /bɪn/ が collaborating に連結 [ˈbɪn ˌkoʊˈlæbəreɪtɪŋ]「ビン コウラボレイティング」",
+            "collaborating with で collaborating の語末 /ŋ/ が with の初頭 /w/ に続く（子音+子音）。with は弱形 /wɪð/「ウィス」",
+            "to plan で to の弱形 /tə/「トゥー」に弱化"
+          ]
+        }
+      ]
     }
   ]
 }
