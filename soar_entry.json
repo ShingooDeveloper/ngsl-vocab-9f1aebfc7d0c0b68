@@ -361,6 +361,96 @@
           "kana": "ウィ ハヴ ビン ソアーリング スルー ディ エンド オール モーニング | トライイング トゥ ァスケイプ フラム ザ ドラゴン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will soar",
+      "ipa": "/wɪl ˈsoːr/",
+      "examples": [
+        {
+          "en": "I will soar high above the nether fortress to find the treasure.",
+          "ja": "ネザーの砦の高くまで飛び上がり、宝物を探す。",
+          "ipa": "[aɪ wɪl ˈsoːɹ ˈhaɪ əˈbʌv ðə ˈnɛðɚ ˈfɔɹtrəs tu ˈfaɪnd ðə ˈtɹɛʒɚ]",
+          "linking": [
+            "will soar → will の /l/ が soar /s/ に連結 [wɪl ˈsoːɹ] ウィル ソアー",
+            "above the → above /v/ が the /ð/ に連結 [əˈbʌv ðə] アバヴ ザ",
+            "to find → to は弱形 /tə/ [tə ˈfaɪnd] タ ファインド"
+          ],
+          "kana": "アイ ウィル ソアー ハイ アバヴ ザ ネザー フォートレス タ ファインド ザ トレジャー"
+        },
+        {
+          "en": "The phoenix will soar through the nether all night searching for its nest.",
+          "ja": "フェニックスは一晩中ネザーを飛び回り、巣を探す。",
+          "ipa": "[ðə ˈfɛnɪks wɪl ˈsoːɹ θɹuː ðə ˈnɛðɚ ɔːl ˈnaɪt ˈsɝtʃɪŋ fɚ ɪts ˈnɛst]",
+          "linking": [
+            "will soar → will の /l/ が soar /s/ に連結 [wɪl ˈsoːɹ] ウィル ソアー",
+            "through the → through /θ/ が the /ð/ に連結 [θɹuː ðə] スルー ザ",
+            "for its → for は弱形 /fɚ/、/ɹ/ が its /ɪ/ に連結 [fɚ ɪts] ファー イッツ"
+          ],
+          "kana": "ザ フェニックス ウィル ソアー スルー ザ ネザー オール ナイト サーチング ファー イッツ ネスト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be soaring",
+      "ipa": "/wɪl bi ˈsoːrɪŋ/",
+      "examples": [
+        {
+          "en": "At this time tomorrow, I will be soaring above the ocean with my elytra.",
+          "ja": "明日のこの時間、エリトラで海の上を飛んでいるだろう。",
+          "ipa": "[æt ðɪs ˈtaɪm təˈmɑɹoʊ | aɪ wɪl bi ˈsoːɹɪŋ əˈbʌv ðɪ ˈoʊʃən wɪð maɪ ɛˈlɪtrə]",
+          "linking": [
+            "will be soaring → will の /l/ が be /b/ に連結し、will は弱形で be も弱形、be の /i/ が soaring /s/ に連結 [wɪl bi ˈsoːɹɪŋ] ウィル ビー ソアーリング",
+            "above the → above /v/ が the /ð/ に連結 [əˈbʌv ðɪ] アバヴ ディ",
+            "with my → with /ð/ が my /m/ に連結 [wɪð maɪ] ウィズ マイ"
+          ],
+          "kana": "アット ディス タイム タモロー | アイ ウィル ビー ソアーリング アバヴ ディ オーシャン ウィズ マイ エリトラ"
+        },
+        {
+          "en": "We will be soaring through the End when the dragon appears.",
+          "ja": "ドラゴンが現れるとき、私たちはエンドを飛び回っているだろう。",
+          "ipa": "[wi wɪl bi ˈsoːɹɪŋ θɹuː ðɪ ˈɛnd wɛn ðə ˈdɹæɡən əˈpɪɹz]",
+          "linking": [
+            "will be soaring → will の /l/ が be /b/ に連結し、will は弱形で be も弱形 [wɪl bi ˈsoːɹɪŋ] ウィル ビー ソアーリング",
+            "through the → through /θ/ が the /ð/ に連結 [θɹuː ðɪ] スルー ディ",
+            "the dragon → the は弱形 /ðə/ [ðə ˈdɹæɡən] ザ ドラゴン"
+          ],
+          "kana": "ウィ ウィル ビー ソアーリング スルー ディ エンド ウェン ザ ドラゴン ァピーアーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have soared",
+      "ipa": "/wɪl həv ˈsoːrd/",
+      "examples": [
+        {
+          "en": "By the time the sun sets, I will have soared to the top of the highest mountain.",
+          "ja": "日が沈むまでに、最も高い山の頂上に飛び上がるだろう。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈsʌn ˈsɛts | aɪ wɪl həv ˈsoːɹd tu ðə ˈtɑp əv ðə ˈhaɪəst ˈmaʊntən]",
+          "linking": [
+            "will have → will は弱形 /wəl/、have は弱形 /əv/、/v/ が soared /s/ に連結 [wəl əv ˈsoːɹd] ウル ハヴ ソアード",
+            "to the → to は弱形 /tə/、/ə/ が the /ð/ に連結 [tə ðə] タ ザ",
+            "of the → of は弱形 /əv/、/v/ が the /ð/ に連結 [əv ðə] アヴ ザ"
+          ],
+          "kana": "バイ ザ タイム ザ サン セッツ | アイ ウル ハヴ ソアード トゥ ザ トップ アヴ ザ ハイエスト マウンテン"
+        },
+        {
+          "en": "They will have soared over the entire map before they return home.",
+          "ja": "彼らは家に帰る前にマップ全体を飛び越えているだろう。",
+          "ipa": "[ðeɪ wɪl həv ˈsoːɹd ˈoʊvɚ ðɪ ənˈtaɪɚ ˈmæp bɪˈfɔɹ ðeɪ ɹɪˈtɝn ˈhoʊm]",
+          "linking": [
+            "will have → will は弱形 /wəl/、have は弱形 /əv/ [wəl əv] ウル ハヴ",
+            "over the → over /ɹ/ が the /ð/ に連結 [ˈoʊvɚ ðɪ] オーヴァー ディ",
+            "before they → before の /ɹ/ が they /ð/ に連結 [bɪˈfɔɹ ðeɪ] ビフォア ザ"
+          ],
+          "kana": "ザ ウル ハヴ ソアード オーヴァー ディ エンタイヤー マップ ビフォア ザ リターン ホーム"
+        }
+      ]
     }
   ]
 }
