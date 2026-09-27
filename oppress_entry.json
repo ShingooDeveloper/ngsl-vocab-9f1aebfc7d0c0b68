@@ -299,6 +299,193 @@
           "kana": "バイ ザ タイム ウィ ビルト フォーティフィケイションズ ザ モブズ ハド ビン アプレッシング アウアー ポジション ファー アウアーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has oppressed",
+      "ipa": "/hæz əˈprɛst/",
+      "examples": [
+        {
+          "en": "The Wither has oppressed our realm since we entered the Nether.",
+          "ja": "ウィザーはネザーに入ってから私たちの領域を圧迫し続けています。",
+          "ipa": "/ðə ˈwɪðər hæz əˈprɛst ˈaʊər ˈrɛlm sɪns wi ˈɛntɚd ðə ˈnɛðər/",
+          "linking": [
+            "「The」は弱形 /ðə/「ザ」",
+            "「Wither」の語末 /r/ が has の弱形 /ə/ に連結 [ˈwɪðərəz] ウィザーアズ",
+            "「entered」の語末 /d/ が the の /ð/ に未開放で続く [ˈɛntɚd̚ ðə]"
+          ],
+          "kana": "ザ ウィザー アズ ア プレスト アワー レルム シンス ウィ エンター ド ザ ネザー"
+        },
+        {
+          "en": "Constant hunger has oppressed our team's efforts to expand the base.",
+          "ja": "絶え間ない飢餓が私たちのチームのベース拡張への努力を圧迫しています。",
+          "ipa": "/ˈkɑnstənt ˈhʌŋɡɚ hæz əˈprɛst ˈaʊɚ ˈtimz ˈɛfɚts tə ɪkˈspænd ðə beɪs/",
+          "linking": [
+            "「hunger」の語末 /r/ が has の弱形 /ə/ に連結 [ˈhʌŋɡɚəz] ハンガーアズ",
+            "「has」弱形 /əz/ の /z/ が oppressed の /ə/ に連結",
+            "「expand」の語末 /d/ が the の /ð/ に未開放で続く [ɪkˈspænd̚ ðə]"
+          ],
+          "kana": "コンスタント ハンガー アズ ア プレスト アワー ティームズ エフアーツ タ イクスパンド ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had oppressed",
+      "ipa": "/hæd əˈprɛst/",
+      "examples": [
+        {
+          "en": "By the time we built our fortress, the dragon had oppressed many explorers before us.",
+          "ja": "私たちが要塞を建設するまでに、ドラゴンは私たちの前に多くの探検家を圧迫していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi bɪlt ˈaʊɚ ˈfɔrtəs ðə ˈdræɡən hæd əˈprɛst ˈmɛni ɪkˈsplɔrɚz bɪˈfɔr əs/",
+          "linking": [
+            "「the」は弱形 /ðə/「ザ」",
+            "「had」弱形 /əd/ の /d/ が oppressed の /ə/ に未開放で続く [həd̚ əˈprɛst] ハド ア プレスト",
+            "「before」の語末 /r/ が us の /ə/ に連結 [bɪˈfɔɚəs] ビフォアーアス"
+          ],
+          "kana": "バイ ザ タイム ウィ ビルト アワー フォーティス ザ ドラゴン ハド ア プレスト メニ エクスプロアーズ ビフォアーアス"
+        },
+        {
+          "en": "The tyrannical faction had oppressed the newcomers before peace talks began.",
+          "ja": "独裁的な派閥は平和談判が始まる前に新参者を圧迫していました。",
+          "ipa": "/ðə tɪˈrænɪkəl ˈfækʃən hæd əˈprɛst ðə ˈnuːˌkʌmɚz bɪˈfɔr pis tɔks bɪˈɡæn/",
+          "linking": [
+            "「The」は弱形 /ðə/「ザ」",
+            "「had」弱形の /d/ が oppressed の /ə/ に未開放で続く [həd̚ əˈprɛst]",
+            "「newcomers」の語末 /z/ が before の /b/ に続く（子音+子音）"
+          ],
+          "kana": "ザ タイラニカル ファクション ハド ア プレスト ザ ニューカマーズ ビフォア ピース トークス ビガン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been oppressing",
+      "ipa": "/hæz bɪn əˈprɛsɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither has been oppressing our base since we entered the Nether dimension.",
+          "ja": "ウィザーはネザー次元に入ってから私たちのベースを圧迫し続けています。",
+          "ipa": "/ðə ˈwɪðər hæz bɪn əˈprɛsɪŋ ˈaʊɚ beɪs sɪns wi ˈɛntɚd ðə ˈnɛðər dɪˈmɛnʃən/",
+          "linking": [
+            "「The」は弱形 /ðə/「ザ」",
+            "「Wither」の語末 /r/ が has の弱形 /ə/ に連結 [ˈwɪðərəz] ウィザーアズ",
+            "「been」の /n/ が oppressing の /ə/ に連結 [bɪn əˈprɛsɪŋ] ビン アプレッシング",
+            "「entered」の語末 /d/ が the の /ð/ に未開放で続く [ˈɛntɚd̚ ðə]"
+          ],
+          "kana": "ザ ウィザー アズ ビン ア プレッシング アワー ベイス シンス ウィ エンター ド ザ ネザー ディメンション"
+        },
+        {
+          "en": "Server lag has been oppressing the entire community for weeks now.",
+          "ja": "サーバーラグが数週間ずっと全体のコミュニティを圧迫し続けています。",
+          "ipa": "/ˈsɚvɚ læɡ hæz bɪn əˈprɛsɪŋ ðə ɪnˈtaɪər kəˈmjuːnəti fɚ wiks naʊ/",
+          "linking": [
+            "「has」弱形 /əz/ 、「been」の /n/ が oppressing の /ə/ に連結 [bɪn əˈprɛsɪŋ]",
+            "「the」は弱形 /ðə/「ザ」",
+            "「for」は弱形 /fɚ/「ファー」"
+          ],
+          "kana": "サーバー ラグ ハズ ビン ア プレッシング ザ インタイアー コミューニティ ファー ウィークス ナウ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will oppress",
+      "ipa": "/wəl əˈprɛs/",
+      "examples": [
+        {
+          "en": "We will oppress any faction that dares to challenge our dominance on this server.",
+          "ja": "このサーバーで私たちの支配に挑戦しようとするいかなる派閥も圧迫するでしょう。",
+          "ipa": "/wiː wəl əˈprɛs ˈɛni ˈfækʃən ðæt ˈdɛrz tu ˈtʃæl.ɪndʒ ˈaʊər ˈdɑm.ɪ.nəns ɑn ðɪs ˈsɜr.vər/",
+          "linking": [
+            "「will」は弱形 /wəl/ で、「oppress」の /ə/ に連結 [ləˈprɛs] ウル オプレス と聞こえる。",
+            "「oppress」語末 /s/ が「any」の /ɛ/ に続く。エニー。",
+            "「any」弱形、「faction」に /f/ 続く。",
+            "「on」弱形 /ɑn/、「this」の /ð/ に続く。オン ジス。"
+          ],
+          "kana": "ウィ ウル オプレス エニー ファクション ザット デアーズ トゥ チャレンジ アウアー ドミナンス オン ジス サーバー"
+        },
+        {
+          "en": "The dragon will oppress our mining efforts until we reach the Nether.",
+          "ja": "ネザーに到達するまで、ドラゴンは私たちの採掘の努力を圧迫するでしょう。",
+          "ipa": "/ðə ˈdræɡ.ən wəl əˈprɛs ˈaʊər ˈmaɪn.ɪŋ ˈɛf.ərts ənˈtɪl wiː ˈritʃ ðə ˈnɛðɚ/",
+          "linking": [
+            "「the」弱形 /ðə/、「dragon」の /d/ に続く。ザ ドラゴン。",
+            "「will」弱形 /wəl/、「oppress」の /ə/ に連結 [ləˈprɛs] ウル オプレス。",
+            "「our」語末 /r/ が「mining」の /m/ に連結 [rm]。アウアー マイニング と聞こえる。",
+            "「until」語末 /l/ が「we」の /w/ に続く [lw]。アンティル ウィ。"
+          ],
+          "kana": "ザ ドラゴン ウル オプレス アウアー マイニング エフォーツ アンティル ウィ リーチ ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be oppressing",
+      "ipa": "/wəl bi əˈprɛs.ɪŋ/",
+      "examples": [
+        {
+          "en": "The admin will be oppressing new players with excessive rules throughout the tournament.",
+          "ja": "トーナメント全体を通じて、管理者は過度なルールで新しいプレイヤーを圧迫するでしょう。",
+          "ipa": "/ðə ˈæd.mɪn wəl bi əˈprɛs.ɪŋ ˈnu ˈpleɪ.ərz wɪð ɪkˈsɛs.ɪv ˈrulz ˈθruː.aʊt ðə ˈtɜr.nə.mənt/",
+          "linking": [
+            "「the」弱形 /ðə/、「admin」の /æ/ に連結 [ðæ]。ザアドミン と聞こえる。",
+            "「will」弱形 /wəl/、「be」の /b/ に続く子音+子音で未開放 [l̚b]。ウル ビー と聞こえる。",
+            "「be」弱形 /bi/、「oppressing」の /ə/ に連結 [biəˈprɛs.ɪŋ]。ビー オプレッシング と聞こえる。",
+            "「with」弱形 /wɪð/、「excessive」の /ɪ/ に続く。ウィス イクセッシヴ。"
+          ],
+          "kana": "ザアドミン ウル ビー オプレッシング ニュー プレイアーズ ウィス イクセッシブ ルーズ スルーアウット ザ トゥルナメント"
+        },
+        {
+          "en": "They'll be oppressing the opposing team's advancement through constant raids.",
+          "ja": "彼らは絶え間ないレイドを通じて相手チームの進行を圧迫し続けるでしょう。",
+          "ipa": "/ðeɪl bi əˈprɛs.ɪŋ ðə əˈpoʊz.ɪŋ ˈtimz ədˈvæns.mənt ˈθruː ˈkɑn.stənt ˈreɪdz/",
+          "linking": [
+            "「they'll」/ðeɪl/、「be」の /b/ に続く子音+子音で未開放 [l̚b]。ゼイル ビー と聞こえる。",
+            "「be」弱形 /bi/、「oppressing」の /ə/ に連結 [biəˈprɛs.ɪŋ]。ビー オプレッシング と聞こえる。",
+            "「the」弱形 /ðə/、「opposing」の /ə/ に連結 [ðəəˈpoʊz.ɪŋ]。ザ オポージング と聞こえる。",
+            "「advancement」語末 /t/ が「through」の /θ/ に続く。アドヴァンスメント スルー と聞こえる。"
+          ],
+          "kana": "ゼイル ビー オプレッシング ザ オポージング ティームズ アドヴァンスメント スルー コンスタント レイズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have oppressed",
+      "ipa": "/wəl həv əˈprɛst/",
+      "examples": [
+        {
+          "en": "By the end of this season, we will have oppressed every rival faction completely.",
+          "ja": "このシーズンの終わりまでに、私たちはすべてのライバル派閥を完全に圧迫しているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs ˈsi.zən wiː wəl həv əˈprɛst ˈɛv.ə.ri ˈraɪ.vəl ˈfækʃən kəmˈplit.li/",
+          "linking": [
+            "「will」弱形 /wəl/、「have」は弱形 /həv/ で連結なし（子音+子音 [l̚h]）。ウル ハヴ と聞こえる。",
+            "「have」弱形 /həv/、「oppressed」の /ə/ に連結 [vəˈprɛst]。ハヴ オプレスト と聞こえる。",
+            "「every」弱形 /ˈɛv.ə.ri/、「rival」の /r/ に続く。エヴリー ライヴアル。",
+            "「faction」語末 /n/ が「completely」の /k/ に続く。ファクション コンプリーティリー と聞こえる。"
+          ],
+          "kana": "バイ ザ エンド アヴ ジス シーズン ウィ ウル ハヴ オプレスト エヴリー ライヴアル ファクション コンプリーティリー"
+        },
+        {
+          "en": "He'll have oppressed all smaller clans before the server resets.",
+          "ja": "サーバーがリセットされる前に、彼はすべての小さなクランを圧迫し終わっているでしょう。",
+          "ipa": "/hil həv əˈprɛst ɔːl ˈsmɔ.lər ˈklænz bɪˈfɔːr ðə ˈsɜr.vər ˈri.sɛts/",
+          "linking": [
+            "「he'll」/hil/、「have」弱形 /həv/ で連結なし（子音+子音 [l̚h]）。ヒール ハヴ と聞こえる。",
+            "「have」弱形 /həv/、「oppressed」の /ə/ に連結 [vəˈprɛst]。ハヴ オプレスト と聞こえる。",
+            "「all」語末 /l/ が「smaller」の /s/ に続く。オール スモーラー と聞こえる。",
+            "「before」語末 /r/ が「the」弱形 /ðə/ に連結 [rðə]。ビフォー ザ と聞こえる。"
+          ],
+          "kana": "ヒール ハヴ オプレスト オール スモーラー クランズ ビフォー ザ サーバー リセッツ"
+        }
+      ]
     }
   ]
 }
