@@ -423,6 +423,38 @@
       ]
     },
     {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be surpassing",
+      "ipa": "/wɪl bi sɚˈpæsɪŋ/",
+      "examples": [
+        {
+          "en": "By the end of this season, we'll be surpassing all previous building height records.",
+          "ja": "このシーズンの終わりまでに、私たちはすべての前の建築高記録を超え続けているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs ˈsizən | wil bi sɚˈpæsɪŋ ɔl prɪˈvɪəs ˈbɪldɪŋ ˈhaɪt ˈrɛkərdz/",
+          "linking": [
+            "end of → /d/ が /ə/ に連結 [ˈɛnd əv] エンド オヴ、of は弱形 /əv/",
+            "this season → /s/ が /s/ に続く（子音+子音）",
+            "will be → will は縮約で /wɪl/ → /əl/ またはI'll /aɪl/ で弱化、be は /bi/",
+            "be surpassing → /i/ が /s/ に連結 [bi sɚˈpæsɪŋ] ビー サーパシング"
+          ],
+          "kana": "バイ ザ エンド オヴ ディス シーズン、ウィル ビー サーパシング オール プリーヴィアス ビルディング ハイト レコーズ"
+        },
+        {
+          "en": "They will be surpassing everyone's expectations throughout the entire speedrun tournament.",
+          "ja": "彼らは、スピードラン大会全体を通じてみんなの期待を上回り続けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi sɚˈpæsɪŋ ˈɛvriˌwʌnz ɪkˈspɛkˌteɪʃənz θruˈaʊt ðə ɪnˈtaɪər ˈspɪdˌrʌn ˈtɔrnəmənt/",
+          "linking": [
+            "will be → will は /wɪl/ から /wəl/ に弱化、be は /bi/",
+            "be surpassing → /i/ が /s/ に連結 [bi sɚˈpæsɪŋ] ビー サーパシング",
+            "surpassing everyone's → /ŋ/ が /ɛ/ に連結 [sɚˈpæsɪŋ ˈɛvriˌwʌnz] サーパシング エヴリワンズ",
+            "throughout the → /t/ + /ð/ が続く（子音+子音）、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ウィル ビー サーパシング エヴリワンズ イクスペクテーション スルーアウト ザ インタイアー スピードラン トーナメント"
+        }
+      ]
+    },
+    {
       "type": "future_perfect",
       "label": "未来完了形（will have + 過去分詞）",
       "text": "will have surpassed",
