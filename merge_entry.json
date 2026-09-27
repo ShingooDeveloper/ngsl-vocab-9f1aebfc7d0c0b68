@@ -245,6 +245,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has merged",
+      "ipa": "/həz ˈmɝdʒd/",
+      "examples": [
+        {
+          "en": "Our mining team has merged all the ore deposits into one central storage area.",
+          "ja": "当社の採掘チームは、すべての鉱石堆積物を1つの中央ストレージエリアに統合しました。",
+          "ipa": "/ˈaʊɚ ˈmaɪnɪŋ ˈtiːm həz ˈmɝdʒd ɔːl ðə ˈɔːr dɪˈpoʊzɪts ˈɪntuː wʌn ˈsɛntrəl ˈstɔːrɪdʒ ˈɛɹiə/",
+          "kana": "アウア マイニング ティーム ハズ マージド オール ザ オア ディポーズッツ イントゥー ワン セントラル ストレッジ エリア",
+          "linking": [
+            "「team has」—team の語末 /m/ が has の /h/ に連結、has は弱形 /həz/ [ˈtiːm həz]「ティーム ハズ」",
+            "「has merged」—has は弱形 /həz/ [həz ˈmɝdʒd]「ハズ マージド」",
+            "「merged all」—merged の語末 /d/ が all の /ɔː/ に連結 [ˈmɝdʒdɔːl]「マージド オール」"
+          ]
+        },
+        {
+          "en": "The two redstone systems have merged successfully after the maintenance was complete.",
+          "ja": "2つのレッドストーンシステムは、メンテナンスが完了した後に正常に統合されました。",
+          "ipa": "/ðə tuː ˈrɛdstoʊn ˈsɪstəmz həv ˈmɝdʒd səkˈsɛsfəli ˈæftɚ ðə ˈmeɪntənəns wəz kəmˈpliːt/",
+          "kana": "ザ トゥー レッドストーン システムズ ハヴ マージド サクセスフリー アフター ザ メイントゥナンス ワズ コンプリート",
+          "linking": [
+            "「systems have」—systems の語末 /z/ が have の /h/ に連結、have は弱形 /həv/ [ˈsɪstəmz həv]「システムズ ハヴ」",
+            "「have merged」—have は弱形 /həv/ [həv ˈmɝdʒd]「ハヴ マージド」",
+            "「the maintenance」—機能語 the は弱形 /ðə/、maintenance は /ˈmeɪntənəns/ [ðə ˈmeɪntənəns]「ザ メイントゥナンス」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had merged",
+      "ipa": "/həd ˈmɝdʒd/",
+      "examples": [
+        {
+          "en": "Before we could set up a new farm, we had merged all existing resources into a shared vault.",
+          "ja": "新しいファームをセットアップする前に、私たちはすべての既存のリソースを共有ボルトに統合しました。",
+          "ipa": "/bɪˈfɔːɾ wiː kʊd sɛt ʌp ə njuː fɑːrm wiː həd ˈmɝdʒd ɔːl ɪɡˈzɪstɪŋ rɪˈsɔːrsɪz ˈɪntuː ə ˈʃɛɹd vɔːlt/",
+          "kana": "ビフォー ウィ クド セット アップ ア ニュー ファーム ウィ ハド マージド オール イグジスティング リソーシズ イントゥー ア シェアード ヴォルト",
+          "linking": [
+            "「set up」—set の語末 /t/ が up の /ʌ/ に連結 [sɛt ʌp]「セット アップ」",
+            "「we had」—we の語末 /iː/ が had の /h/ に続き、母音+子音で連結なし。had は弱形 /həd/ [wiː həd]「ウィ ハド」",
+            "「had merged」—had は弱形 /həd/ [həd ˈmɝdʒd]「ハド マージド」"
+          ]
+        },
+        {
+          "en": "The underground base had merged its entire redstone network with the main settlement by the time the server updated.",
+          "ja": "サーバーが更新されるまでに、地下基地はそのすべてのレッドストーンネットワークをメインの居住地と統合しました。",
+          "ipa": "/ðə ˌʌndɚˈɡraʊnd ˈbeɪs həd ˈmɝdʒd ɪts ənˈtaɪɚ ˈrɛdstoʊn ˈnɛtˌwɝk wɪð ðə ˈmeɪn ˈsɛtəlmənt baɪ ðə ˈtaɪm ðə ˈsɝvɚ ˈʌpˌdeɪtɪd/",
+          "kana": "ザ アンダーグラウンド ベース ハド マージド イッツ エンタイア レッドストーン ネットワーク ウィザ ザ メイン セットルメント バイ ザ タイム ザ サーバー アップデイティド",
+          "linking": [
+            "「base had」—base の語末 /s/ が had の /h/ に連結、had は弱形 /həd/ [ˈbeɪs həd]「ベース ハド」",
+            "「had merged」—had は弱形 /həd/ [həd ˈmɝdʒd]「ハド マージド」",
+            "「with the」—語末子音 /ð/ が機能語 the の /ð/ に続き子音+子音で未開放。the は弱形 /ðə/ [wɪð̚ ðə]「ウィザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been merging",
+      "ipa": "/həz bɪn ˈmɝdʒɪŋ/",
+      "examples": [
+        {
+          "en": "The lava flows have been merging with the water system for the past hour.",
+          "ja": "過去1時間、溶岩の流れが水システムと統合し続けています。",
+          "ipa": "/ðə ˈlɑːvə floʊz həv bɪn ˈmɝdʒɪŋ wɪð ðə ˈwɔːɾɚ ˈsɪstəm fɔːɾ ðə ˈpæst ˈaʊɚ/",
+          "kana": "ザ ラーヴァ フロウズ ハヴ ビン マージング ウィザ ザ ウォーラー システム フォー ザ パスト アウア",
+          "linking": [
+            "「flows have」—flows の語末 /z/ が have の /h/ に連結、have は弱形 /həv/ [floʊz həv]「フロウズ ハヴ」",
+            "「have been」—have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn]「ハヴ ビン」",
+            "「been merging」—been の語末 /n/ が merging の /m/ に連結 [bɪn ˈmɝdʒɪŋ]「ビン マージング」"
+          ]
+        },
+        {
+          "en": "Our crew has been merging cave networks all day to create a massive underground complex.",
+          "ja": "当社のクルーは、大規模な地下複合施設を作成するために、洞窟ネットワークを一日中統合し続けています。",
+          "ipa": "/ˈaʊɚ kruː həz bɪn ˈmɝdʒɪŋ keɪv ˈnɛtˌwɝks ɔːl deɪ tə kriˈeɪt ə ˈmæsɪv ˌʌndɚˈɡraʊnd kəmˈplɛks/",
+          "kana": "アウア クルー ハズ ビン マージング ケイヴ ネットワークス オール デイ タ クリエイト ア マッシブ アンダーグラウンド コンプレックス",
+          "linking": [
+            "「crew has」—crew の語末 /uː/ が has の /h/ に続き、母音+子音で連結なし。has は弱形 /həz/ [kruː həz]「クルー ハズ」",
+            "「has been」—has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn]「ハズ ビン」",
+            "「been merging」—been の語末 /n/ が merging の /m/ に連結 [bɪn ˈmɝdʒɪŋ]「ビン マージング」"
+          ]
+        }
+      ]
+    },
+    {
       "type": "past_perfect_progressive",
       "label": "過去完了進行形（had been + -ing）",
       "text": "had been merging",

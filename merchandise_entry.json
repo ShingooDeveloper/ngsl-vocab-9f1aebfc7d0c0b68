@@ -141,6 +141,100 @@
           "kana": "ウィ ディスカヴァード ザット ザ マーチェント ハド ビン マーチェンダイジング カウンターフィット ダイモンドズ スルーアウト ザ インタイア シーズン"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has merchandised",
+      "ipa": "/həz ˌmɝtʃəndaɪzd/",
+      "examples": [
+        {
+          "en": "I have merchandised rare artifacts from the temple.",
+          "ja": "私は寺院からレアな工芸品を販売してきました。",
+          "ipa": "/aɪ həv ˌmɝtʃəndaɪzd ˈreɪr ˈɑɹtɪfækts frəm ðə ˈtɛmpəl/",
+          "linking": [
+            "「have」は弱形 /həv/",
+            "「from the」: from /frəm/（弱形）の /m/ が the /ðə/（弱形）の /ð/ に連結 [frəmðə] フラムザ",
+            "「the」の弱形 /ðə/ が 「temple」の /t/ に連結 [ðətɛmpəl] ザテンプル"
+          ],
+          "kana": "アイ ハヴ マーチェンダイズド レアー アーティファクツ フラムザ テンプル"
+        },
+        {
+          "en": "The trader has merchandised exotic equipment throughout the server.",
+          "ja": "そのトレーダーはサーバー全体でエキゾチック装備を販売しました。",
+          "ipa": "/ðə ˈtreɪdər həz ˌmɝtʃəndaɪzd ɪɡˈzɑtɪk ɪˈkwɪpmənt θruˈaʊt ðə ˈsɚvər/",
+          "linking": [
+            "「the trader」: the /ðə/（弱形）の語末 /ə/ が trader /t/ に連結 [ðətreɪdər] ザトレイダー",
+            "「has」は弱形 /həz/、直前の語末音なし",
+            "「throughout the」: the /ðə/（弱形）が server の /s/ に連結 [θruˈaʊtðəsɚvər] スルーアウトザサーバー"
+          ],
+          "kana": "ザ トレイダー ハズ マーチェンダイズド イグゾティック イクウィップメント スルーアウトザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had merchandised",
+      "ipa": "/həd ˌmɝtʃəndaɪzd/",
+      "examples": [
+        {
+          "en": "By the time the server crashed, they had merchandised all the diamonds.",
+          "ja": "サーバーがクラッシュした時点で、彼らはすべてのダイヤを販売していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɚvər ˈkræʃt ðeɪ həd ˌmɝtʃəndaɪzd ɔl ðə ˈdaɪməndz/",
+          "linking": [
+            "「the time」: the /ðə/（弱形）が time /t/ に連結 [ðətaɪm] ザタイム",
+            "「the server」: the /ðə/（弱形）が server /s/ に連結 [ðəsɚvər] ザサーバー",
+            "「had」は弱形 /həd/",
+            "「all the」: all /ɔl/ の語末 /l/ と the /ðə/（弱形）が続く。ðə の語末音ない [ɔlðə] オルザ"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー クラッシュト ゼイ ハド マーチェンダイズド オル ザ ダイモンドズ"
+        },
+        {
+          "en": "The merchant had merchandised counterfeit items before the inspection team arrived.",
+          "ja": "検査チームが到着する前に、その商人は偽造品を販売していました。",
+          "ipa": "/ðə ˈmɚtʃənt həd ˌmɝtʃəndaɪzd ˌkaʊntərˈfɪt ˈaɪtəmz bɪˈfɔr ðə ɪnˈspɛkʃən ˈtim əˈraɪvd/",
+          "linking": [
+            "「the merchant」: the /ðə/（弱形）の /ə/ が merchant /m/ に連結 [ðəmɚtʃənt] ザマーチェント",
+            "「had」は弱形 /həd/",
+            "「before the」: the /ðə/ が inspection の /ɪ/ に続く（弱いつながり）",
+            "「inspection team」: team の /m/ が arrived の /ə/ に連結 [ˈtimərˈraɪvd] ティマーライブド"
+          ],
+          "kana": "ザ マーチェント ハド マーチェンダイズド カウンターフィット アイタムズ ビフォア ザ インスペクション ティムアライブド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been merchandising",
+      "ipa": "/həz bɪn ˌmɝtʃəndaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "I have been merchandising potions all week in my shop.",
+          "ja": "私は一週間ずっとお店でポーションを販売しています。",
+          "ipa": "/aɪ həv bɪn ˌmɝtʃəndaɪzɪŋ ˈpoʊʃənz ɔl ˈwik ɪn maɪ ʃɑp/",
+          "linking": [
+            "「have」は弱形 /həv/",
+            "「been」は弱形 /bɪn/",
+            "「all week」: all /ɔl/ で終わり week /w/ で始まる。子音+子音で linking なし [ɔl wik] オル ウィーク",
+            "「in my」: in /ɪn/ の /n/ が my /m/ に続く。子音+子音 [ɪn maɪ] イン マイ"
+          ],
+          "kana": "アイ ハヴ ビン マーチェンダイジング ポーションズ オル ウィーク イン マイ ショップ"
+        },
+        {
+          "en": "The trader has been merchandising rare books since the last update.",
+          "ja": "そのトレーダーは前回のアップデート以来ずっとレアな本を販売しています。",
+          "ipa": "/ðə ˈtreɪdər həz bɪn ˌmɝtʃəndaɪzɪŋ ˈreɪr ˈbʊks sɪns ðə ˈlæst ˈʌpˌdeɪt/",
+          "linking": [
+            "「the trader」: the /ðə/（弱形）の /ə/ が trader /t/ に連結 [ðətreɪdər] ザトレイダー",
+            "「has」は弱形 /həz/",
+            "「been」は弱形 /bɪn/",
+            "「since the」: since の語末 /s/ とは別に the /ðə/（弱形）が last の /l/ に続く [sɪnsðəlæst] シンザ ラスト"
+          ],
+          "kana": "ザ トレイダー ハズ ビン マーチェンダイジング レアー ブックス シンザ ラスト アップデイト"
+        }
+      ]
     }
   ]
 }

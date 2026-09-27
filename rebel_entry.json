@@ -332,6 +332,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has rebelled",
+      "ipa": "/həz rɪˈbɛld/",
+      "examples": [
+        {
+          "en": "The new player has rebelled against the server's strict griefing rules.",
+          "ja": "その新しいプレイヤーはサーバーの厳しいグリーフィング禁止ルールに反抗した。",
+          "ipa": "/ðə ˈnu ˈpleɪ.ɚ həz rɪˈbɛld əˈɡɛnst ðə ˈsɚ.vɚz strɪkt ˈɡriː.fɪŋ rulz/",
+          "kana": "ザ ヌー プレイアー ハズ リベルド アゲンスト ザ サーヴァーズ ストリクト グリーフィング ルールズ",
+          "linking": [
+            "「player has」で、語末の /r/ が母音 /ə/ に連結し [ˈpleɪ.ər həz]→「プレイアー ハズ」、has は弱形 /həz/",
+            "「has rebelled」で、弱形の /z/ と子音 /r/ が接続 [həz rɪˈbɛld]→「ハズ リベルド」、自然に流れる",
+            "「rebelled against」で、語末の /d/ が母音 /ə/ に連結し [rɪˈbɛl.də ɡɛnst]→「リベルダ アゲンスト」",
+            "「against the」で、語末の /t/ は子音 /ð/ 前で未開放し [əˈɡɛnst̚ ðə]→「アゲンスッ ザ」、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "They have rebelled after many controversial resource restriction updates.",
+          "ja": "彼らは多くの論争的なリソース制限アップデートの後に反抗した。",
+          "ipa": "/ðeɪ həv rɪˈbɛld ˈæf.tɚ ˈmeɪ.ni kənˈtɹoʊ.vɚ.ʃəl ˈɹɛ.soɹs rɪˈstɹɪk.ʃən ˈʌp.deɪts/",
+          "kana": "ザイ ハヴ リベルド アフター メニ コントロヴァーシャル レソース リストリクション アップデイツ",
+          "linking": [
+            "「They have」で、have は弱形 /həv/ [ðeɪ həv]→「ザイ ハヴ」、/v/ と後続子音 /r/ が接続",
+            "「have rebelled」で、弱形 have の /v/ が子音 /r/ に先行し [həv rɪˈbɛld]→「ハヴ リベルド」",
+            "「rebelled after」で、語末の /d/ が母音 /ə/ に連結し [rɪˈbɛld ˈæf.tɚ]→「リベルド アフター」",
+            "「after many」で、語末の /r/ が母音に連結 [ˈæf.tɚ ˈmeɪ.ni]→「アフター メニ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had rebelled",
+      "ipa": "/həd rɪˈbɛld/",
+      "examples": [
+        {
+          "en": "Before the peace treaty, the faction had rebelled for several months.",
+          "ja": "平和条約の前に、そのファクションは数ヶ月間反抗していました。",
+          "ipa": "/bɪˈfɔɹ ðə ˈpis ˈtɹi.ti ðə ˈfæk.ʃən həd rɪˈbɛld fɔɹ ˈsɛv.ɚəl ˈmʌnθz/",
+          "kana": "ビフォー ザ ピース トリーティ ザ ファクション ハド リベルド フォー セヴァラル マンスズ",
+          "linking": [
+            "「Before the」で、語末の /r/ が母音 /ə/ に連結し [bɪˈfɔɹ ðə]→「ビフォー ザ」、the は弱形 /ðə/",
+            "「faction had」で、語末の /n/ が子音 /h/ 前で未開放し [ˈfæk.ʃən̚ həd]→「ファクション ハド」、had は弱形 /həd/",
+            "「had rebelled」で、弱形 /həd/ と子音 /r/ が接続 [həd rɪˈbɛld]→「ハド リベルド」、自然に流れる",
+            "「for several」で、for は弱形 /fɚ/、語末 /r/ が母音に連結 [fɔɹ ˈsɛv.ɚəl]→「フォー セヴァラル」"
+          ]
+        },
+        {
+          "en": "The rebels had rebelled once before and were now facing harsher penalties.",
+          "ja": "その反抗者たちは以前に一度反抗したことがあり、今ではより厳しいペナルティに直面していた。",
+          "ipa": "/ðə ˈɹɛb.əlz həd rɪˈbɛld wʌns bɪˈfɔɹ ənd wɚ naʊ ˈfeɪ.sɪŋ ˈhɑɹ.ʃɚ ˈpɛn.əl.tiz/",
+          "kana": "ザ レベルズ ハド リベルド ワンス ビフォー アンド ウェアー ナウ フェイシング ハーシャー ペナルティーズ",
+          "linking": [
+            "「rebels had」で、語末の /z/ が母音 /ə/ に連結し [ˈɹɛb.əlz həd]→「レベルズ ハド」、had は弱形 /həd/",
+            "「had rebelled」で、弱形 /həd/ と子音 /r/ が接続 [həd rɪˈbɛld]→「ハド リベルド」",
+            "「before and」で、語末の /r/ が母音に連結、and は弱形 /ənd/ [bɪˈfɔɹ ənd]→「ビフォー アンド」",
+            "「were now」で、were は弱形 /wɚ/、語末 /r/ が母音に連結 [wɚ naʊ]→「ウェアー ナウ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been rebelling",
+      "ipa": "/həz bɪn rɪˈbɛl.ɪŋ/",
+      "examples": [
+        {
+          "en": "The crew has been rebelling against server taxes for over two months.",
+          "ja": "そのクルーは2ヶ月以上サーバー税に反抗し続けています。",
+          "ipa": "/ðə ˈkru həz bɪn rɪˈbɛl.ɪŋ əˈɡɛnst ˈsɚ.vɚ ˈtæk.səz fɔɹ ˈoʊ.vɚ tu ˈmʌnθz/",
+          "kana": "ザ クルー ハズ ビン リベリング アゲンスト サーヴァー タクシーズ フォー オーヴァー トゥー マンスズ",
+          "linking": [
+            "「crew has」で、crew は /u:/ で終わり、has は弱形 /həz/、自然に流れる [ˈkru həz]→「クルー ハズ」",
+            "「has been」で、has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn]→「ハズ ビン」、/z/ と /b/ が接続",
+            "「been rebelling」で、語末の /n/ が母音に連結し [bɪn rɪˈbɛl.ɪŋ]→「ビン リベリング」",
+            "「rebelling against」で、語末の /ŋ/ が母音に連結し [rɪˈbɛl.ɪŋ əˈɡɛnst]→「リベリング アゲンスト」"
+          ]
+        },
+        {
+          "en": "They have been rebelling by secretly hoarding resources and building hidden bases.",
+          "ja": "彼らはこっそりリソースを蓄えたり秘密の基地を建設することで反抗し続けている。",
+          "ipa": "/ðeɪ həv bɪn rɪˈbɛl.ɪŋ baɪ ˈsi.krɪ.tli ˈhɔɹ.dɪŋ ˈɹɛ.soɹ.səz ənd ˈbɪld.ɪŋ ˈhɪd.ən ˈbeɪ.səz/",
+          "kana": "ザイ ハヴ ビン リベリング バイ シークレットリー ホーディング レソーシーズ アンド ビルディング ヒデン ベイシーズ",
+          "linking": [
+            "「They have」で、have は弱形 /həv/ [ðeɪ həv]→「ザイ ハヴ」、/v/ と後続子音が接続",
+            "「have been」で、弱形 have /həv/ と been /bɪn/ [həv bɪn]→「ハヴ ビン」、/v/ と /b/ の子音接続",
+            "「been rebelling」で、語末の /n/ が母音 /r/ に連結し [bɪn rɪˈbɛl.ɪŋ]→「ビン リベリング」",
+            "「rebelling by」で、語末の /ŋ/ が母音 /b/ に先行し未開放 [rɪˈbɛl.ɪŋ̚ baɪ]→「リベリング バイ」"
+          ]
+        }
+      ]
     }
   ]
 }

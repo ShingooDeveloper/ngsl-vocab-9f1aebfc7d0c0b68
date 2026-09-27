@@ -384,6 +384,70 @@
           "kana": "ヒー ハズ ビン プリズューミング ザ レッドストウン ファーム ウィル イヴェンチュアリー プロデュース イナフ パウアー"
         }
       ]
+    },
+    {
+      "label": "単純未来形（will + 原形）",
+      "type": "future",
+      "text": "will presume",
+      "ipa": "/wɪl prɪˈzjuːm/",
+      "examples": [
+        {
+          "en": "I will presume you have enough wood for building the manor.",
+          "ja": "あなたは屋敷を建築するのに十分な木を持っていると思います。",
+          "ipa": "/aɪ wəl prɪˈzjuːmjuː həv ɪˈnʌf wʊd fɔr ˈbɪldɪŋ ðə ˈmænər/",
+          "linking": [
+            "will は助動詞で弱形 /əl/、presume の /p/ と子音+子音で分かれる [wəl prɪˈzjuːm] ウル プリズューム",
+            "presume の末尾 /m/ が you の初頭 /j/ に連結 [prɪˈzjuːmjuː] プリズュームユー",
+            "have は弱形 /həv/ で enough の初頭母音 /ɪ/ に連結 [həv ɪˈnʌf] ハヴ イナフ",
+            "wood の末尾 /d/ が for の初頭 /f/ と子音+子音で分かれ、for は弱形 /fɔr/ [wʊd fɔr] ウッド フォー"
+          ],
+          "kana": "アイ ウル プリズュームユー ハヴ イナフ ウッド フォー ビルディング ザ マナー"
+        },
+        {
+          "en": "They will presume the Nether is dangerous without proper preparation.",
+          "ja": "彼らは適切な準備なしにネザーが危険だと思うでしょう。",
+          "ipa": "/ðeɪ wəl prɪˈzjuːm ðə ˈnɛðɚ ɪz ˈdeɪndʒərəs wɪðˈaʊt ˈpɹɑpɚ ˌprɛpərˈeɪʃən/",
+          "linking": [
+            "will は助動詞で弱形 /əl/、presume の /p/ と子音+子音で分かれる [wəl prɪˈzjuːm] ウル プリズューム",
+            "presume の末尾 /m/ が the の初頭 /ð/ に連結 [prɪˈzjuːm ðə] プリズューム ザ",
+            "nether の末尾 /ɚ/ が is の初頭母音 /ɪ/ に連結 [ˈnɛðɚ ɪz] ネザー イズ",
+            "proper の末尾 /ɚ/ が preparation の初頭 /p/ と子音+子音で分かれ、r音が先行する"
+          ],
+          "kana": "ゼイ ウル プリズューム ザ ネザー イズ デインジャラス ウィザウト プロパー プレパレーション"
+        }
+      ]
+    },
+    {
+      "label": "未来完了形（will have + 過去分詞）",
+      "type": "future_perfect",
+      "text": "will have presumed",
+      "ipa": "/wɪl hæv prɪˈzjuːmd/",
+      "examples": [
+        {
+          "en": "By next week, we will have presumed the fortress is completely secure.",
+          "ja": "来週までに、私たちは要塞が完全に安全だと思い込んでいるでしょう。",
+          "ipa": "/baɪ nɛkst wik | wi wəl hæv prɪˈzjuːmd ðə ˈfɔrtɪs ɪz kəmˈplit sɪˈkjʊr/",
+          "linking": [
+            "will は助動詞で弱形 /əl/、have の /h/ と子音+子音で分かれる [wəl hæv] ウル ハヴ",
+            "have は助動詞で一般的に弱形 /hæv/ [hæv] ハヴ、presumed の /p/ に続く",
+            "presumed の末尾 /d/ が the の初頭 /ð/ に連結 [prɪˈzjuːmd ðə] プリズューム ザ",
+            "fortress の末尾 /s/ が is の初頭母音 /ɪ/ に連結 [ˈfɔrtɪs ɪz] フォーティス イズ"
+          ],
+          "kana": "バイ ネクスト ウィーク、ウィー ウル ハヴ プリズューム ザ フォーティス イズ コンプリート シキュア"
+        },
+        {
+          "en": "She will have presumed the coordinates are correct before we test the portal.",
+          "ja": "ポータルをテストする前に、彼女は座標が正しいと思い込んでいるでしょう。",
+          "ipa": "/ʃi wəl hæv prɪˈzjuːmd ðə ˈkoʊˌɔrdənɪts ɑr kəˈrɛkt bɪˈfoɹ wi tɛst ðə ˈpoʊrtəl/",
+          "linking": [
+            "will は助動詞で弱形 /əl/、have の /h/ と子音+子音で分かれる [wəl hæv] ウル ハヴ",
+            "have は弱形で presumed の /p/ に続く [hæv prɪˈzjuːmd] ハヴ プリズューム",
+            "presumed の末尾 /d/ が the の初頭 /ð/ に連結 [prɪˈzjuːmd ðə] プリズューム ザ",
+            "before の末尾 /r/ が we の初頭 /w/ と子音+子音で分かれ、we の末尾 /i/ が test の初頭 /t/ と母音+子音で分かれる"
+          ],
+          "kana": "シー ウル ハヴ プリズューム ザ コーディネッツ アー コレクト ビフォー ウィー テスト ザ ポーラル"
+        }
+      ]
     }
   ],
   "tags": [

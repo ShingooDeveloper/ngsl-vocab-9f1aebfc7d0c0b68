@@ -257,6 +257,96 @@
           "kana": "シー リアライズド シー ハド ビン チェリッシング ザ フレンドシップ ウィズ ハー ティームメイツ オール ディス タイム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has cherished",
+      "ipa": "/həz ˈtʃɛr.ɪʃt/",
+      "examples": [
+        {
+          "en": "I have cherished this village we built together since day one.",
+          "ja": "私たちが初日から一緒に建てたこの村を大切にしてきました。",
+          "ipa": "/aɪ həv ˈtʃɛr.ɪʃt ðɪs ˈvɪl.ɪdʒ wi bɪlt təˈɡɛð.ɚ sɪns ˈdeɪ wʌn/",
+          "kana": "アイ ハヴ チェリッシュ ディス ビレッジ ウィ ビルト タゲザー シンス デイ ワン",
+          "linking": [
+            "「have cherished」: have は弱形 /həv/ で cherished の /tʃ/ に続く [həv ˈtʃɛr.ɪʃt]「ハヴ チェリッシュ」",
+            "「built together」: built の語末 /t/ は未開放で together の /t/ に連接 [bɪlt̚ təˈɡɛð.ɚ]「ビルト タゲザー」",
+            "「together」: together の /r/ がフラップ化し [təˈɡɛð.ɚ]「タゲザー」"
+          ]
+        },
+        {
+          "en": "They have cherished their most precious items for ages.",
+          "ja": "彼らはずっと彼らの最も貴重なアイテムを大切にしてきました。",
+          "ipa": "/ðeɪ həv ˈtʃɛr.ɪʃt ðɛɚ moʊst ˈprɛʃ.əs ˈaɪ.təmz fɔr ˈeɪ.dʒɪz/",
+          "kana": "ザイ ハヴ チェリッシュ ザイア モースト プレッシャス アイテムズ フォー エイジェズ",
+          "linking": [
+            "「have cherished」: have は弱形 /həv/、cherished は語末子音 /t/ が未開放 [həv ˈtʃɛr.ɪʃt̚]「ハヴ チェリッシュ」",
+            "「their most」: their は /ðɛɚ/、most は語末 /t/ が未開放 [ðɛɚ ˈmoʊst̚]「ザイア モースト」",
+            "「for ages」: for は弱形 /fɚ/ で ages に続く [fɚ ˈeɪ.dʒɪz]「フォー エイジェズ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had cherished",
+      "ipa": "/həd ˈtʃɛr.ɪʃt/",
+      "examples": [
+        {
+          "en": "By the time the server crashed, we had cherished so many moments together.",
+          "ja": "サーバーがクラッシュするまでに、私たちは一緒に非常に多くの瞬間を大切にしていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɜr.vɚ kræʃt wi həd ˈtʃɛr.ɪʃt soʊ ˈmɛn.i ˈmoʊ.mənts təˈɡɛð.ɚ/",
+          "kana": "バイ ザ タイム ザ サーバー クラッシュ ウィ ハド チェリッシュ ソー メニー モーメンツ タゲザー",
+          "linking": [
+            "「the time」: the は弱形 /ðə/ で time の /t/ に続く [ðə ˈtaɪm]「ザ タイム」",
+            "「had cherished」: had は弱形 /həd/、cherished は語末 /t/ が未開放 [həd ˈtʃɛr.ɪʃt̚]「ハド チェリッシュ」",
+            "「together」: together の /r/ がフラップ化 [təˈɡɛð.ɚ]「タゲザー」"
+          ]
+        },
+        {
+          "en": "The player had cherished that legendary build before it was destroyed.",
+          "ja": "プレイヤーは破壊される前に、その伝説的なビルドを大切にしていました。",
+          "ipa": "/ðə ˈpleɪ.ɚ həd ˈtʃɛr.ɪʃt ðæt ˈlɛdʒ.ən.ˌdɛr.i ˈbɪld bɪˈfɔr ɪt wəz dɪsˈtrɔɪd/",
+          "kana": "ザ プレイアー ハド チェリッシュ ザット レジェンダリー ビルド ビフォー イット ワズ ディストロイド",
+          "linking": [
+            "「the player」: the は弱形 /ðə/、player は /r/ がフラップ化 [ðə ˈpleɪ.ɚ]「ザ プレイアー」",
+            "「had cherished」: had は弱形 /həd/ で cherished の /tʃ/ に続く [həd ˈtʃɛr.ɪʃt̚]「ハド チェリッシュ」",
+            "「it was」: it は語末 /t/ が未開放で was の /w/ に続く [ɪt̚ wəz]「イット ワズ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been cherishing",
+      "ipa": "/həz bɪn ˈtʃɛr.ɪ.ʃɪŋ/",
+      "examples": [
+        {
+          "en": "I have been cherishing my diamond collection since I found the first one.",
+          "ja": "最初のダイヤモンドを見つけた時からずっと、ダイヤモンドのコレクションを大切にしてきました。",
+          "ipa": "/aɪ həv bɪn ˈtʃɛr.ɪ.ʃɪŋ maɪ ˈdaɪ.mənd kəˈlɛk.ʃən sɪns aɪ ˈfaʊnd ðə ˈfɜrst wʌn/",
+          "kana": "アイ ハヴ ビン チェリッシング マイ ダイモンド コレクション シンス アイ ファウンド ザ ファースト ワン",
+          "linking": [
+            "「have been」: have は弱形 /həv/ で been に続く。been は弱形 /bɪn/ [həv bɪn]「ハヴ ビン」",
+            "「been cherishing」: been の語末 /n/ は次の /tʃ/ に未開放で連接 [bɪn̚ ˈtʃɛr.ɪ.ʃɪŋ]「ビン チェリッシング」",
+            "「first one」: first は語末 /t/ が未開放で one の /w/ に続く [ˈfɜrst̚ wʌn]「ファースト ワン」"
+          ]
+        },
+        {
+          "en": "We have been cherishing these memories together for the entire journey.",
+          "ja": "私たちはこの旅全体を通じて、これらの思い出を一緒に大切にしてきました。",
+          "ipa": "/wi həv bɪn ˈtʃɛr.ɪ.ʃɪŋ ðiːz ˈmɛm.ə.riz təˈɡɛð.ɚ fɔr ðə ɪnˈtaɪɚ ˈdʒɜr.ni/",
+          "kana": "ウィ ハヴ ビン チェリッシング ディーズ メモリーズ タゲザー フォー ザ インタイアー ジャーニー",
+          "linking": [
+            "「have been」: have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn]「ハヴ ビン」",
+            "「been cherishing」: been の語末 /n/ は未開放で cherishing の /tʃ/ に連接 [bɪn̚ ˈtʃɛr.ɪ.ʃɪŋ]「ビン チェリッシング」",
+            "「together」: together の /r/ がフラップ化し、entire の /r/ も同じくフラップ化 [təˈɡɛð.ɚ]「タゲザー」、[ɪnˈtaɪɚ]「インタイアー」"
+          ]
+        }
+      ]
     }
   ]
 }

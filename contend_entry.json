@@ -389,6 +389,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will contend",
+      "ipa": "/wɪl kənˈtɛnd/",
+      "examples": [
+        {
+          "en": "They will contend for control of the newly discovered diamonds in the deep cave system.",
+          "ja": "彼らは深い洞窟システムで新たに発見されたダイヤモンドの支配権を争うだろう。",
+          "ipa": "/ðeɪ wɪl kənˈtɛnd fɔr kənˈtroʊl əv ðə ˈnuli dɪˈskʌvɚd ˈdaɪməndz ɪn ðə ˈdip keɪv ˈsɪstəm/",
+          "kana": "ザイ ウィル コンテンド フォー コントロール アヴ ザ ニューリー ディスカヴァード ダイモンズ イン ザ ディープ ケイヴ システム",
+          "linking": [
+            "will は /l/ で終わり contend の /k/ に続く [wɪl kənˈtɛnd] ウィル コンテンド",
+            "contend for: 語末子音 /d/ が母音 /f/ に続き未開放 [kənˈtɛnd̚ fɔr] コンテンド フォー",
+            "of the: の弱形 /əv/ と the の弱形 /ðə/ [əv ðə] アヴ ザ",
+            "cave system: 語末 /v/ が /s/ に続く [keɪv ˈsɪstəm] ケイヴ システム"
+          ]
+        },
+        {
+          "en": "We'll contend with hostile mobs while building the mega-base next weekend.",
+          "ja": "来週末、巨大なベースを建築する際に敵対的なモブに対処するだろう。",
+          "ipa": "/wil kənˈtɛnd wɪð ˈhɑstəl ˈmɑbz waɪl ˈbɪldɪŋ ðə ˈmeɡə ˈbeɪs ˈnɛkst ˈwikˌɛnd/",
+          "kana": "ウィル コンテンド ウィズ ハステル マブズ ワイル ビルディング ザ メガ ベイス ネクスト ウィークエンド",
+          "linking": [
+            "We'll は /wil/、語末 /l/ が contend の /k/ に続く [wil kənˈtɛnd] ウィル コンテンド",
+            "contend with: 語末子音 /d/ が母音 /w/ に連結 [kənˈtɛnd wɪð] コンテンド ウィズ",
+            "while は /waɪl/、building の /b/ に続く [waɪl ˈbɪldɪŋ] ワイル ビルディング",
+            "next weekend: 語末 /t/ が母音に続き未開放 [ˈnɛkst̚ ˈwikˌɛnd] ネクスト ウィークエンド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be contending",
+      "ipa": "/wɪl bi kənˈtɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The rival factions will be contending over the same biome resource area throughout the entire season.",
+          "ja": "敵対するファクションはシーズン全体を通じて同じバイオームのリソース領域を争い続けるだろう。",
+          "ipa": "/ðə ˈraɪvəl ˈfækʃənz wɪl bi kənˈtɛndɪŋ ˈoʊvɚ ðə ˈseɪm baɪˈoʊm ˈɹɛsɔrs ˈɛriə θɹuˈaʊt ðə ɪnˈtaɪɚ ˈsizən/",
+          "kana": "ザ ライバル ファクションズ ウィル ビー コンテンディング オウヴァー ザ セイム バイオーム リソース エリア スルーアウト ザ インタイアー シーズン",
+          "linking": [
+            "will は /l/ で終わり be の /b/ に続く [wɪl bi] ウィル ビー",
+            "be は弱形 /bi/、contending に連結 [bi kənˈtɛndɪŋ] ビー コンテンディング",
+            "contending over: 語末 /ŋ/ が母音 /oʊ/ に連結 [kənˈtɛndɪŋ ˈoʊvɚ] コンテンディング オウヴァー",
+            "the は弱形 /ðə/「ザ」で entire に連結 [ðə ɪnˈtaɪɚ] ザ インタイアー"
+          ]
+        },
+        {
+          "en": "I'll be contending with redstone bugs and mob spawning issues while testing the new automated farm.",
+          "ja": "新しい自動農場をテストしている間、レッドストーンのバグとモブスポーニングの問題に対処しているだろう。",
+          "ipa": "/aɪl bi kənˈtɛndɪŋ wɪð ˈɹɛdˌstoʊn bʌɡz ənd ˈmɑb ˈspoʊnɪŋ ˈɪʃuz waɪl ˈtɛstɪŋ ðə ˈnu ɔˈtɑmeɪtɪd ˈfɑrm/",
+          "kana": "アイル ビー コンテンディング ウィズ レッドストーン バグズ アンド マブ スポーニング イシューズ ワイル テスティング ザ ニュー オートメイティッド ファーム",
+          "linking": [
+            "I'll は /aɪl/、be の /b/ に続く [aɪl bi] アイル ビー",
+            "be は弱形 /bi/、contending に連結 [bi kənˈtɛndɪŋ] ビー コンテンディング",
+            "contending with: 語末 /ŋ/ が母音 /w/ に連結 [kənˈtɛndɪŋ wɪð] コンテンディング ウィズ",
+            "and は弱形 /ənd/、mob に連結 [ənd ˈmɑb] アンド マブ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have contended",
+      "ipa": "/wɪl həv kənˈtɛndəd/",
+      "examples": [
+        {
+          "en": "By next month, the teams will have contended for dominance on every major server in the network.",
+          "ja": "来月までに、チームはネットワーク内のすべての主要なサーバーで支配権を争っているだろう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ ðə timz wɪl həv kənˈtɛndəd fɔr ˈdɑmənəns ɑn ˈɛvri ˈmeɪdʒɚ ˈsɜrvɚ ɪn ðə ˈnɛtˌwɝk/",
+          "kana": "バイ ネクスト マンス ザ ティームズ ウィル ハヴ コンテンデッド フォー ドミナンス オン エヴリー メイジャー サーバー イン ザ ネットワーク",
+          "linking": [
+            "will は /l/ で終わり have の /h/ に続く [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、contended に連結 [həv kənˈtɛndəd] ハヴ コンテンデッド",
+            "contended for: 語末 /əd/ が母音 /f/ に続き未開放 [kənˈtɛndəd̚ fɔr] コンテンデッド フォー",
+            "every は /ˈɛvri/、語末 /ri/ が /m/ に続く [ˈɛvri ˈmeɪdʒɚ] エヴリー メイジャー"
+          ]
+        },
+        {
+          "en": "She will have contended with countless challenges and successfully completed the entire quest line by the end of the year.",
+          "ja": "彼女は年末までに無数の課題に対処し、クエストラインをすべて完了しているだろう。",
+          "ipa": "/ʃi wɪl həv kənˈtɛndəd wɪð ˈkaʊntləs ˈtʃælɪndʒɪz ənd səkˈsɛsˌfəli kəmˈplitəd ðə ɪnˈtaɪɚ ˈkwɛst laɪn baɪ ðə ˈɛnd əv ðə ˈjir/",
+          "kana": "シー ウィル ハヴ コンテンデッド ウィズ カウントレス チャレンジズ アンド サクセスフリー コンプリーティッド ザ インタイアー クエスト ライン バイ ザ エンド アヴ ザ イヤー",
+          "linking": [
+            "will は /l/ で終わり have の /h/ に続く [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、contended に連結 [həv kənˈtɛndəd] ハヴ コンテンデッド",
+            "contended with: 語末 /əd/ が母音 /w/ に連結 [kənˈtɛndəd wɪð] コンテンデッド ウィズ",
+            "successfully は /səkˈsɛsˌfəli/、語末が completed に連結 [səkˈsɛsˌfəli kəmˈplitəd] サクセスフリー コンプリーティッド"
+          ]
+        }
+      ]
     }
   ]
 }

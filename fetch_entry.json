@@ -382,6 +382,96 @@
           "kana": "バイ ザ タイム ユー ロッギン ウィー ハッビン フェッチング レソースィーズ オール デイ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will fetch",
+      "ipa": "/wɪl ˈfɛtʃ/",
+      "examples": [
+        {
+          "en": "I'll fetch more obsidian from the Nether for our portal gate.",
+          "ja": "私はネザーからポータルゲート用にもっとオブシディアンを取ってくるよ。",
+          "ipa": "[aɪl ˈfɛtʃ mɔr ɑbˈsɪdiən frəm ðə ˈnɛðər fɔr ˈaʊər ˈpɔrəl ˈɡeɪt]",
+          "linking": [
+            "I'll は I + will の縮約 /aɪl/、fetch の /f/ に連結 [aɪl ˈfɛtʃ]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]",
+            "for our の /r/ が /aʊ/ に連結 [fɔr ˈaʊər]"
+          ],
+          "kana": "アイル フェッチ モア アブシディアン フラム ザ ネザー フォー アワー ポーラル ゲイト"
+        },
+        {
+          "en": "They will fetch supplies and materials for the expansion later.",
+          "ja": "彼らは後で拡張用に物資と材料を取ってくるでしょう。",
+          "ipa": "[ðeɪ wɪl ˈfɛtʃ səˈplaɪz ənd məˈtɪriəlz fɔr ðə ɪkˈspænʃən ˈleɪtɚ]",
+          "linking": [
+            "will の /l/ が fetch の /f/ の前で未開放 [wɪl̚ ˈfɛtʃ]",
+            "and は機能語で弱形 /ənd/ に弱化、materials に連結",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "ザイ ウィル フェッチ サプライズ アンド マテリアルズ フォー ザ イクスパンション レイター"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be fetching",
+      "ipa": "/wɪl bi ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "While you explore the cave, I'll be fetching coal and iron from the mine.",
+          "ja": "あなたが洞窟を探索している間、私は鉱山から石炭と鉄を取ってくるでしょう。",
+          "ipa": "[waɪl ju ɪkˈsplɔr ðə keɪv aɪl bi ˈfɛtʃɪŋ ˈkoʊl ənd ˈaɪrən frəm ðə maɪn]",
+          "linking": [
+            "I'll be の /l/ が be の /b/ に連結 [aɪl bi]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ワイル ユー イクスプロア ザ ケイヴ アイル ビー フェッチング コール アンド アイアン フラム ザ マイン"
+        },
+        {
+          "en": "They will be fetching resources all day while we build the base.",
+          "ja": "私たちが基地を建設する間、彼らは一日中リソースを取ってくるでしょう。",
+          "ipa": "[ðeɪ wɪl bi ˈfɛtʃɪŋ ˈrɛsɚsɪz ɔl ˈdeɪ waɪl wi bɪld ðə ˈbeɪs]",
+          "linking": [
+            "will be の /l/ が be の /b/ に連結 [wɪl bi]",
+            "while we の /l/ が /w/ に連結 [waɪl wi]",
+            "the は冠詞で弱形 /ðə/、base に連結 [ðə ˈbeɪs]"
+          ],
+          "kana": "ザイ ウィル ビー フェッチング レソースィーズ オール デイ ワイル ウィー ビルド ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have fetched",
+      "ipa": "/wɪl əv ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, we will have fetched all the obsidian needed for the Nether portal.",
+          "ja": "明日の朝までに、ネザーポータル用に必要なすべてのオブシディアンを取ってきているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ ˈmɔrnɪŋ wi wɪl əv ˈfɛtʃt ɔl ðə ɑbˈsɪdiən ˈnidəd fɔr ðə ˈnɛðər ˈpɔrəl]",
+          "linking": [
+            "will have の /l/ が未開放、have は弱形 /əv/ に弱化 [wɪl̚ əv]",
+            "all the の /l/ が weak form the /ðə/ に連結 [ɔl ðə]",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "バイ トゥモロー モーニング ウィー ウィラヴ フェッチ オール ザ アブシディアン ニーディド フォー ザ ネザー ポーラル"
+        },
+        {
+          "en": "By the time the hopper fills, it will have fetched hundreds of items from the input.",
+          "ja": "ホッパーが満杯になるまでに、入力スロットから数百個のアイテムを取ってきているでしょう。",
+          "ipa": "[baɪ ðə taɪm ðə ˈhɑpɚ ˈfɪlz ɪt wɪl əv ˈfɛtʃt ˈhʌndrədz əv ˈaɪtəmz frəm ðə ˈɪnpʊt]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、hopper に連結 [ðə ˈhɑpɚ]",
+            "will have の /l/ が未開放、have は弱形 /əv/ に弱化 [wɪl̚ əv]",
+            "hundreds の /z/ が of の弱形 /əv/ に連結 [ˈhʌndrədz əv]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "バイ ザ タイム ザ ハッパー フィルズ イット ウィラヴ フェッチ ハンドレッズ アヴ アイテムズ フラム ザ インプット"
+        }
+      ]
     }
   ]
 }

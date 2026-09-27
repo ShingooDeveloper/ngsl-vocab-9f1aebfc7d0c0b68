@@ -459,6 +459,113 @@
           "kana": "ウィ ハブ ビン ハンティング ディス マンション ファー デイズ サーチング ファー ザ シークリット チェンバー ヒデン ディープ ウィズィン イッツ ウォルズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will haunt",
+      "ipa": "/wɪl hɔːnt/",
+      "examples": [
+        {
+          "en": "A phantom will haunt this dark fortress when the sun sets tonight.",
+          "ja": "ファントムは今夜日が沈むときこの暗い要塞に出没するでしょう。",
+          "ipa": "/ə ˈfæntəm wɪl hɔːnt ðɪs dɑrk ˈfɔrtrəs wɛn ðə sʌn sɛts təˈnaɪt/",
+          "linking": [
+            "a は不定冠詞で弱形 /ə/ に弱化 [ə] ア",
+            "phantom の語末 /m/ が will の初頭 /w/ に続く（子音+子音で連結なし） [ˈfæntəm wɪl] ファントム ウィル。will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "this は /ðɪs/ で、fortress の /f/ に続く（子音+子音で連結なし）",
+            "when の語末 /n/ が the の初頭 /ð/ に続く（子音+子音で連結なし） [wɛn ðə] ウェン ザ",
+            "the は弱形 /ðə/ に弱化 [ðə] ザ。sun の語末 /n/ が sets の初頭 /s/ に続く（子音+子音で連結なし） [sʌn sɛts] サン セッツ"
+          ],
+          "kana": "ア ファントム ワル ハント ディス ダーク フォートリス ウェン ザ サン セッツ トゥナイト"
+        },
+        {
+          "en": "That devastating failure will haunt you for months unless you find redemption.",
+          "ja": "その壊滅的な失敗はあなたが救いを見つけない限り、数ヶ月間あなたを悩ますでしょう。",
+          "ipa": "/ðæt ˈdɛvəsteɪtɪŋ ˈfeɪljər wɪl hɔːnt juː fɔr ˈmʌnθz ənˈlɛs juː faɪnd rɪˈdɛmpʃən/",
+          "linking": [
+            "that は /ðæt/ で読まれる",
+            "devastating の語末 /ŋ/ が failure の初頭 /f/ に続く（子音+子音で連結なし） [ˈdɛvəsteɪtɪŋ ˈfeɪljər] デヴァステイティング フェイリャー",
+            "failure の語末 /r/ が will の初頭 /w/ に r-linking で連結 [ˈfeɪljər wɪl] フェイリャー ウィル。will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "you の語末 /uː/ が for の初頭 /f/ に続く（母音+子音で連結なし） [juː fɔr] ユー ファー",
+            "for は弱形 /fɔr/ に弱化 [fɔr] ファー。months は /ˈmʌnθz/"
+          ],
+          "kana": "ザット デヴァステイティング フェイリャー ワル ハント ユー ファー マンスズ アンレス ユー ファインド リデンプション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be haunting",
+      "ipa": "/wɪl bi ˈhɔːntɪŋ/",
+      "examples": [
+        {
+          "en": "A vengeful spirit will be haunting these ancient ruins throughout the entire night.",
+          "ja": "復讐心に満ちた精霊は夜中ずっとこれらの古い廃墟に出没し続けるでしょう。",
+          "ipa": "/ə ˈvɛndʒfəl ˈspɪrɪt wɪl bi ˈhɔːntɪŋ ðiz ˈeɪnʃənt ˈruːɪnz θruːˈaʊt ðə ɪnˈtaɪr naɪt/",
+          "linking": [
+            "a は不定冠詞で弱形 /ə/ に弱化 [ə] ア",
+            "vengeful の語末 /l/ が spirit の初頭 /s/ に続く（子音+子音で連結なし） [ˈvɛndʒfəl ˈspɪrɪt] ヴェンジフル スピリット",
+            "spirit の語末 /t/ が will の初頭 /w/ に続く（未開放） [ˈspɪrɪt̚ wɪl] スピリット ウィル。will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "be の後の haunting - be は /bi/ で、haunting は /ˈhɔːntɪŋ/ で [bi ˈhɔːntɪŋ] ビー ハンティング。be は助動詞で時に弱化 /bɪ/",
+            "these は /ðiz/ で、ancient は /ˈeɪnʃənt/ で（子音+子音で連結なし）",
+            "entire の語末 /r/ が night の初頭 /n/ に続く（子音+子音で連結なし） [ɪnˈtaɪr naɪt] インタイアー ナイト"
+          ],
+          "kana": "ア ヴェンジフル スピリット ワル ビー ハンティング ディーズ エインシェント ルーインズ スルーアウト ディ インタイアー ナイト"
+        },
+        {
+          "en": "They will be haunting every shadow and corner of this server until the curse is broken.",
+          "ja": "彼らは呪いが破られるまで、このサーバーのあらゆる影と角に出没し続けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈhɔːntɪŋ ˈɛvri ˈʃædoʊ ənd ˈkɔrnər əv ðɪs ˈsɜrvər ənˈtɪl ðə ˈkɜrs ɪz ˈbroʊkən/",
+          "linking": [
+            "they は /ðeɪ/ で読まれる",
+            "they の語末 /eɪ/ が will の初頭 /w/ に続く（母音+子音で連結なし） [ðeɪ wɪl] ザイ ウィル。will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "be の後の haunting - be は弱形 /bɪ/ に弱化、haunting は /ˈhɔːntɪŋ/ [bɪ ˈhɔːntɪŋ] ビー ハンティング",
+            "every の語末 /i/ が shadow の初頭 /ʃ/ に続く（母音+子音で連結なし） [ˈɛvri ˈʃædoʊ] エヴリー シャドウ",
+            "and は弱形 /ənd/ またはナ /ən/ に弱化 [ənd] アンド",
+            "of は弱形 /əv/ に弱化 [əv] アヴ。this は /ðɪs/"
+          ],
+          "kana": "ザイ ワル ビー ハンティング エヴリー シャドウ エンド コーナー アヴ ディス サーバー アンティル ザ カース イズ ブロウケン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have haunted",
+      "ipa": "/wɪl həv ˈhɔːntɪd/",
+      "examples": [
+        {
+          "en": "By next season, that lost expedition will have haunted every serious explorer on this server.",
+          "ja": "来シーズンまでに、その失われた遠征はこのサーバーのすべての真剣な探検家を悩ましているでしょう。",
+          "ipa": "/baɪ nɛkst ˈsizən ðæt lɔst ɪkˈspɪdɪʃən wɪl həv ˈhɔːntɪd ˈɛvri ˈsɪriəs ɪkˈsplɔrər ɑn ðɪs ˈsɜrvər/",
+          "linking": [
+            "by は /baɪ/ で読まれる",
+            "next は /nɛkst/ で、season は /ˈsizən/ で（子音+子音で連結なし）",
+            "that は /ðæt/ で読まれる",
+            "lost は /lɔst/ で、expedition は /ɪkˈspɪdɪʃən/ で（子音+子音で連結なし）",
+            "expedition の語末 /n/ が will の初頭 /w/ に続く（子音+子音で連結なし） [ɪkˈspɪdɪʃən wɪl] エクスペディション ウィル。will は弱形 /wəl/ に弱化 [wəl] ワル",
+            "have は弱形 /həv/ に弱化 [həv] ハブ。every explorer では語末 /i/ と語頭 /ɛ/ で母音+母音 [ˈɛvri ɪkˈsplɔrər] エヴリー エクスプロアー"
+          ],
+          "kana": "バイ ネクスト シーズン ザット ロスト エクスペディション ワル ハブ ハンテッド エヴリー シアリアス エクスプロアー オン ディス サーバー"
+        },
+        {
+          "en": "I will have haunted this mystery for weeks by the time we finally discover the truth.",
+          "ja": "私たちが最終的に真実を発見するまでに、私はこの謎を数週間悩んでいるでしょう。",
+          "ipa": "/aɪ wɪl həv ˈhɔːntɪd ðɪs ˈmɪstəri fɔr wiks baɪ ðə taɪm wi ˈfaɪnəli dɪˈskʌvər ðə truːθ/",
+          "linking": [
+            "I は /aɪ/ で読まれる",
+            "I の語末 /aɪ/ が will の初頭 /w/ に続く（母音+子音で連結なし） [aɪ wɪl] アイ ウィル。I'll の縮約形で /aɪl/ [aɪl] アイル",
+            "have は弱形 /həv/ に弱化 [həv] ハブ。haunted は /ˈhɔːntɪd/",
+            "this は /ðɪs/ で、mystery は /ˈmɪstəri/ で（子音+子音で連結なし）",
+            "mystery の語末 /i/ が for の初頭 /f/ に続く（母音+子音で連結なし） [ˈmɪstəri fɔr] ミスタリー ファー",
+            "for は弱形 /fɔr/ に弱化 [fɔr] ファー。time の語末 /m/ が we の初頭 /w/ に続く（子音+子音で連結なし） [taɪm wi] タイム ウィ",
+            "truth は /truːθ/"
+          ],
+          "kana": "アイル ハブ ハンテッド ディス ミスタリー ファー ウィークス バイ ザ タイム ウィ ファイナリー ディスカヴァー ザ トルーース"
+        }
+      ]
     }
   ]
 }

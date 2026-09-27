@@ -280,6 +280,105 @@
           "kana": "ザ ディベロパーズ リアライズド ゼイ ハド ビン ケイタリング タ コンプレインツ ファー マンスズ ウィザウト リール インプルーヴメンツ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has catered",
+      "ipa": "/həz ˈkeɪtɚd/",
+      "examples": [
+        {
+          "en": "The farm has catered perfectly to all our players' needs so far.",
+          "ja": "このファームはこれまでのところ、私たちのプレイヤーのニーズに完璧に対応してきました。",
+          "ipa": "/ðə ˈfɑːrm həz ˈkeɪtɚd ˈpɝfɪktli tə ˈɔːl ˈaʊɚ ˈpleɪɚz niːdz soʊ ˈfɑr/",
+          "linking": [
+            "「the farm」- the は弱形 /ðə/ [ðə]「ザ」、farm に続く",
+            "「farm has」- farm の語末 /m/ が has の /h/ に続く。子音+子音で連結なし。has は弱形 /həz/ [həz]「ハズ」",
+            "「to」- 機能語で弱形 /tə/ [tə]「タ」",
+            "「all our」- all の語末 /l/ が our の /aʊ/ に r-linking で接続 [ˈɔːl aʊr]「オール アウアー」"
+          ],
+          "kana": "ザ ファーム ハズ ケイタード パーフィクトリー タ オール アウアー プレイヤーズ ニーズ ソー ファー"
+        },
+        {
+          "en": "The arena has catered to both competitive and casual players since the update.",
+          "ja": "そのアリーナはアップデート以来、競争的なプレイヤーとカジュアルなプレイヤーの両方に対応してきました。",
+          "ipa": "/ðə əˈrinə həz ˈkeɪtɚd tə boʊθ kəmˈpɛtɪtɪv ənd ˈkæʒuəl ˈpleɪɚz sɪns ðə ʌpˈdeɪt/",
+          "linking": [
+            "「the arena」- the は弱形 /ðə/ [ðə]「ザ」、arena に続く",
+            "「arena has」- arena の語末 /ə/ が has の /h/ に続く。母音+子音で連結なし。has は弱形 /həz/",
+            "「to」- 弱形 /tə/ [tə]「タ」",
+            "「since the」- since の語末 /s/ が the の /ð/ に続く。子音+子音で連結なし。the は弱形 /ðə/"
+          ],
+          "kana": "ザ アリーナ ハズ ケイタード タ ボウス コンペティティヴ アンド キャジュアル プレイヤーズ シンス ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had catered",
+      "ipa": "/həd ˈkeɪtɚd/",
+      "examples": [
+        {
+          "en": "By the time the patch released, the developers had catered the spawn area to improve new player experience.",
+          "ja": "パッチがリリースされた時までに、開発者たちは新しいプレイヤーの体験を改善するためにスポーン地域を配置していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈpætʃ rɪˈlɪst ðə dɪˈvɛləpɚz həd ˈkeɪtɚd ðə ˈspoʊn ˈɛriə tə ɪmˈpruːv ˈnjuː ˈpleɪɚ ɪkˈspɪriəns/",
+          "linking": [
+            "「the」- 弱形 /ðə/（3回出現）[ðə]「ザ」",
+            "「had catered」- had は弱形 /həd/、catered の /k/ に続く。子音+子音で連結なし",
+            "「to improve」- to は弱形 /tə/、improve に続く。子音+子音で連結なし",
+            "「player experience」- player の語末 /r/ が experience の /ɪ/ に r-linking で接続 [ˈpleɪɚ ɪkˈspɪriəns]「プレイアー イクスペリエンス」"
+          ],
+          "kana": "バイ ザ タイム ザ パッチ リリースト ザ ディベロパーズ ハド ケイタード ザ スポーン エリア タ インプルーヴ ニュー プレイアー イクスペリエンス"
+        },
+        {
+          "en": "The team had catered the redstone contraption before the first players could test it.",
+          "ja": "チームは最初のプレイヤーがテストする前に、レッドストーン装置を配置していました。",
+          "ipa": "/ðə ˈtim həd ˈkeɪtɚd ðə ˈrɛdˌstoʊn kənˈtræpʃən bɪˈfɔr ðə ˈfɝst ˈpleɪɚz kəd ˈtɛst ɪt/",
+          "linking": [
+            "「the team」- the は弱形 /ðə/、team に続く",
+            "「team had」- team の語末 /m/ が had の /h/ に続く。子音+子音で連結なし。had は弱形 /həd/",
+            "「the redstone」- the は弱形 /ðə/、redstone に続く",
+            "「before the」- before の語末 /r/ が the の /ð/ に続く。子音+子音で連結なし。the は弱形 /ðə/",
+            "「could test」- could の語末 /d/ が test の /t/ に続き未開放 [kəd̚ ˈtɛst]「クッ テスト」"
+          ],
+          "kana": "ザ ティーム ハド ケイタード ザ レッドストーン コントラプション ビフォー ザ ファースト プレイヤーズ クッ テスト イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been catering",
+      "ipa": "/həz bɪn ˈkeɪtɚɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been catering the server to all player types for the entire season.",
+          "ja": "そのアドミンはシーズン全体を通じて、すべてのプレイヤータイプに対応するようにサーバーを設定してきました。",
+          "ipa": "/ðə ˈænmɪn həz bɪn ˈkeɪtɚɪŋ ðə ˈsɝvɚ tə ˈɔːl ˈpleɪɚ ˈtaɪps fər ðə ɪnˈtaɪɚ ˈsizən/",
+          "linking": [
+            "「the admin」- the は弱形 /ðə/ [ðə]「ザ」、admin に続く",
+            "「admin has」- admin の語末 /n/ が has の /h/ に続く。子音+子音で連結なし。has は弱形 /həz/",
+            "「has been」- has は弱形 /həz/、been も弱形 /bɪn/",
+            "「to all」- to は弱形 /tə/、all の /ɔ/ に連結 [tə ˈɔːl]「タ オール」",
+            "「for the」- for は弱形 /fər/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ハズ ビン ケイタリング ザ サーバー タ オール プレイアー タイプス ファー ザ エンタイアー シーズン"
+        },
+        {
+          "en": "We've been catering the mountain biome's terrain to ensure every path is both beautiful and efficient to navigate.",
+          "ja": "私たちはマウンテンバイオームの地形をすべてのパスが美しくて、移動効率が良くなるように設定してきました。",
+          "ipa": "/wɪv bɪn ˈkeɪtɚɪŋ ðə ˈmaʊntən baɪˈoʊmz ˈtɛreɪn tə ɪnˈʃɝ ˈɛvri ˈpæθ ɪz boʊθ ˈbjuːtɪfəl ənd ɪˈfɪʃənt tə ˈnævəɡeɪt/",
+          "linking": [
+            "「we've been」- we've は /wɪv/ で、been は弱形 /bɪn/",
+            "「the mountain」- the は弱形 /ðə/、mountain に続く",
+            "「biome's terrain」- biome's の語末 /z/ が terrain の /t/ に続き、子音+子音で連結なし",
+            "「to ensure」- to は弱形 /tə/、ensure に続く。子音+子音で連結なし",
+            "「to navigate」- to は弱形 /tə/、navigate に続く"
+          ],
+          "kana": "ウィヴ ビン ケイタリング ザ マウンテン バイオームズ テレイン タ インシュアー エブリー パス イズ ボウス ビューティフル アンド イフィシェント タ ナビゲイト"
+        }
+      ]
     }
   ],
   "tags": [
