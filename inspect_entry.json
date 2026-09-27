@@ -347,6 +347,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will inspect",
+      "ipa": "/wɪl ɪnˈspɛkt/",
+      "examples": [
+        {
+          "en": "I'll inspect every cave wall to find the best mining spots before we start digging.",
+          "ja": "掘削を開始する前に、最高のマイニングスポットを見つけるために、すべての洞窟の壁を検査します。",
+          "ipa": "/aɪl ɪnˈspɛkt ˈɛvɚi ˈkeɪv wɔl tə ˈfaɪnd ðə ˈbɛst ˈmaɪnɪŋ ˈspɑts bɪˈfɔr wi ˈstɑrt ˈdɪɡɪŋ/",
+          "linking": [
+            "「I'll inspect」で I'll の語末 /l/ が inspect に連結「アイル インスペクト」",
+            "「every cave」で every の語末 /i/ が cave に先行、cave の語末 /l/ が wall に先行「エブリー ケイブ ウォール」",
+            "「to find」で to は弱形 /tə/「トゥ」",
+            "「before we」で before の語末 /r/ が we に連結「ビフォー ウィー」"
+          ],
+          "kana": "アイル インスペクト エブリー ケイブ ウォール トゥ ファインド ザ ベスト マイニング スパッツ ビフォー ウィー スターット ディギング"
+        },
+        {
+          "en": "She will inspect the structural integrity of the underwater base after the water drains.",
+          "ja": "水が排出された後、彼女は水中ベースの構造的完全性を検査します。",
+          "ipa": "/ʃi wɪl ɪnˈspɛkt ðə ˌstrʌkˈtʃɚəl ɪnˈtɛɡɾədi əv ðə ˌʌndɚˈwɔtɚ ˈbeɪs ˈæftɚ ðə ˈwɔtɚ ˈdreɪnz/",
+          "linking": [
+            "「She will」で She の弱形 /ʃi/ が will に続く「シー ウィル」",
+            "「will inspect」で will の語末 /l/ が inspect に先行、未開放「ウィル インスペクト」",
+            "「the」は弱形 /ðə/「ザ」（複数回）",
+            "「structural integrity」で structural の語末 /l/ が integrity に連結「ストラクチャラル インテグリティ」"
+          ],
+          "kana": "シー ウィル インスペクト ザ ストラクチャラル インテグリティ アヴ ザ アンダーウォーター ベイス アフター ザ ウォーター ドレインズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be inspecting",
+      "ipa": "/wɪl bi ɪnˈspɛktɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be inspecting the redstone circuits while you gather the building materials from the quarry.",
+          "ja": "採石場から建築材料を集める間、私はレッドストーン回路を検査します。",
+          "ipa": "/aɪl bi ɪnˈspɛktɪŋ ðə ˈɹɛdˌstoʊn ˈsɝkɪts waɪl ju ˈɡæðɚ ðə ˈbɪldɪŋ məˈtɪɾəlz frəm ðə ˈkwɔri/",
+          "linking": [
+            "「I'll be」で I'll の語末 /l/ が be に先行し未開放「アイル ビー」",
+            "「be inspecting」で be は弱形 /bi/、inspecting に連結「ビー インスペクティング」",
+            "「the」は弱形 /ðə/「ザ」（複数回）",
+            "「materials from」で materials の語末 /z/ が from に先行し未開放。from は弱形 /frəm/「マテリアルズ フラム」"
+          ],
+          "kana": "アイル ビー インスペクティング ザ レッドストーン サーキッツ ワイル ユー ギャザー ザ ビルディング マテリアルズ フラム ザ クウォリー"
+        },
+        {
+          "en": "They'll be inspecting all the defenses on the perimeter while the enemies approach the fortress.",
+          "ja": "敵が要塞に接近する間、彼らは周辺のすべての防御陣地を検査しています。",
+          "ipa": "/ðeɪl bi ɪnˈspɛktɪŋ ɔl ðə dɪˈfɛnsɪz ɑn ðə pəˈɹɪmətɚ waɪl ðə ˈɛnəmiz əˈproʊtʃ ðə ˈfɔɾəs/",
+          "linking": [
+            "「They'll be」で They'll の語末 /l/ が be に先行し未開放「ザイル ビー」",
+            "「be inspecting」で be は弱形 /bi/、inspecting に連結「ビー インスペクティング」",
+            "「the」は弱形 /ðə/「ザ」（複数回）",
+            "「fortress」内の /t/ が母音に挟まれフラップ化[ˈfɔɾəs]「フォーラス」"
+          ],
+          "kana": "ザイル ビー インスペクティング オール ザ ディフェンシズ オン ザ パリメター ワイル ザ エネミーズ アプロウチ ザ フォーラス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have inspected",
+      "ipa": "/wɪl həv ɪnˈspɛktɪd/",
+      "examples": [
+        {
+          "en": "By the time the tournament starts, we will have inspected every building in the competition arena.",
+          "ja": "トーナメントが始まるまでに、私たちは競技アリーナのすべての建築物を検査してしまうでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈtɔɹnəmənt ˈstɑrts wi wɪl həv ɪnˈspɛktɪd ˈɛvɚi ˈbɪldɪŋ ɪn ðə kɑmpɪˈtɪʃən əˈɹinə/",
+          "linking": [
+            "「by the」で by は弱形 /baɪ/、the は弱形 /ðə/「バイ ザ」",
+            "「will have」で will の語末 /l/ が have に先行し未開放、have は弱形 /əv/ ハヴ「ウィル ハヴ」",
+            "「have inspected」で have の語末 /v/ が inspected に先行「ハヴ インスペクティッド」",
+            "「in the」で in の語末 /n/ が the に先行「イン ザ」"
+          ],
+          "kana": "バイ ザ タイム ザ トーナメント スターツ ウィー ウィル ハヴ インスペクティッド エブリー ビルディング イン ザ コンペティション アリーナ"
+        },
+        {
+          "en": "I will have inspected all the nether portals before the server maintenance begins at midnight.",
+          "ja": "サーバーメンテナンスが真夜中に始まる前に、すべてのネザーポータルを検査してしまうでしょう。",
+          "ipa": "/aɪ wɪl həv ɪnˈspɛktɪd ɔl ðə ˈnɛðɚ ˈpoɹtəlz bɪˈfɔɹ ðə ˈsɝvɚ ˈmeɪntənəns bɪˈɡɪnz æt ˈmɪdnaɪt/",
+          "linking": [
+            "「will have」で will の語末 /l/ が have に先行し未開放、have は弱形 /əv/「ウィル ハヴ」",
+            "「have inspected」で have の語末 /v/ が inspected の /ɪ/ に連結「ハヴ インスペクティッド」",
+            "「the」は弱形 /ðə/「ザ」（複数回）",
+            "「portal」内の /t/ が母音に挟まれフラップ化[ˈpoɹɾəl]「ポーラル」"
+          ],
+          "kana": "アイ ウィル ハヴ インスペクティッド オール ザ ネザー ポーラル ビフォー ザ サーヴァー メインテナンス ビギンズ アット ミッドナイト"
+        }
+      ]
     }
   ]
 }
