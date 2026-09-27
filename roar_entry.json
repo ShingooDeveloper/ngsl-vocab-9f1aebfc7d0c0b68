@@ -399,6 +399,100 @@
           "kana": "ザ バース モブハズビンロアーリング コンスタントリ エバー シンス ウィ スターティッド ザ レイド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will roar",
+      "ipa": "/wɪl rɔr/",
+      "examples": [
+        {
+          "en": "We'll roar back at the dragon when it challenges us in the arena.",
+          "ja": "ドラゴンがアリーナで挑んできたら、私たちはそれに吠え返す。",
+          "ipa": "/wɪl rɔr bæk ət ðə ˈdɹæɡən wɛn ɪt ˈtʃælɪndʒəz əs ɪn ðə əˈrinə/",
+          "linking": [
+            "we'll の語末 /l/ が roar の母音 /ɔ/ に連結 [wɪl rɔr] ウィルロア",
+            "back の語末 /k/ が at の母音 /ə/ に連結；at が弱形 /ət/ に弱化 [bæk ət] バッカット",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "challenges の語末 /z/ が us の母音 /ə/ に連結；us が弱形 /əs/ に弱化 [ˈtʃælɪndʒəz əs] チャレンジーズアス"
+          ],
+          "kana": "ウィルロア バッカット ザ ドラゴン ウェン イット チャレンジーズアス イン ザ アレーナ"
+        },
+        {
+          "en": "The Wither will roar the moment we disturb its spawning chamber.",
+          "ja": "ウィザーはスポーン部屋を荒らした瞬間に吠えるだろう。",
+          "ipa": "/ðə ˈwɪðə wɪl rɔr ðə ˈmoʊmənt wi dɪsˈtɚb ɪts ˈspoʊnɪŋ ˈtʃeɪmbə/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "will の語末 /l/ が roar の母音 /ɔ/ に連結 [wɪl rɔr] ウィルロア",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "we が弱形 /wi/ に弱化 [wi] ウィ"
+          ],
+          "kana": "ザ ウィザー ウィルロア ザ モーメント ウィ ディスターブ イッツ スポーニング チェイムバー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be roaring",
+      "ipa": "/wɪl bi rɔrɪŋ/",
+      "examples": [
+        {
+          "en": "When you reach the End, the Ender Dragon will be roaring inside its chamber.",
+          "ja": "エンドに到着するとき、エンダードラゴンはその部屋の中で吠えているだろう。",
+          "ipa": "/wɛn ju riːtʃ ðə ɛnd ðə ˈɛndə ˈdɹæɡən wɪl bi rɔrɪŋ ɪnˈsaɪd ɪts ˈtʃeɪmbə/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "inside の語末 /d/ が its の子音 /ɪ/ に挟まれてフラップ化 [ɪnˈsaɪd ɪts] インサイディッツ"
+          ],
+          "kana": "ウェン ユー リーチ ザ エンド ザ エンダー ドラゴン ウィル ビー ロアーリング インサイディッツ チェイムバー"
+        },
+        {
+          "en": "They'll be roaring loudly throughout the night once the raid starts.",
+          "ja": "襲撃が始まったら、彼らは夜中ずっと大きく吠え続けるだろう。",
+          "ipa": "/ðeɪl bi rɔrɪŋ ˈlaʊdli θɹuːˈaʊt ðə naɪt wʌns ðə reɪd stɑrts/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "raid の語末 /d/ が starts の子音 /s/ に未開放 [reɪd̚ stɑrts] レイドスターツ"
+          ],
+          "kana": "ザイル ビー ロアーリング ラウドリ スルーアウト ザ ナイト ワンス ザ レイドスターツ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have roared",
+      "ipa": "/wɪl həv rɔrd/",
+      "examples": [
+        {
+          "en": "We'll have roared at every single mob in the jungle by the time the sun rises.",
+          "ja": "日が昇るまでに、私たちはジャングルのすべてのモブに吠えているだろう。",
+          "ipa": "/wɪl həv rɔrd ət ˈɛvri ˈsɪŋɡəl mɑb ɪn ðə ˈdʒʌŋɡəl baɪ ðə taɪm ðə sʌn ˈraɪzɪz/",
+          "linking": [
+            "we'll の語末 /l/ が have の母音 /ə/ に連結；have が弱形 /həv/ に弱化；have の語末 /v/ が roared の母音 /ɔ/ に連結 [wɪl həv rɔrd] ウィルハヴロアード",
+            "roared の語末 /d/ が at の母音 /ə/ に連結 [rɔrd æt] ロアダット",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "sun の語末 /n/ が raises の母音 /eɪ/ に連結 [sʌn ˈraɪzɪz] サンレイジーズ"
+          ],
+          "kana": "ウィルハヴロアード アット エバリー シングル モブ イン ザ ジャングル バイ ザ タイム ザ サンレイジーズ"
+        },
+        {
+          "en": "By the time we defeat the Wither, it will have roared a thousand times at our faces.",
+          "ja": "ウィザーを倒すまでに、それは私たちの顔に千回吠えているだろう。",
+          "ipa": "/baɪ ðə taɪm wi dɪˈfit ðə ˈwɪðə ɪt wɪl həv rɔrd ə ˈθaʊzənd taɪmz æt ˈaʊər ˈfeɪsɪz/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "it の /t/ が will の子音 /w/ に未開放 [ɪt̚ wɪl] イットウィル",
+            "will の語末 /l/ が have の母音 /ə/ に連結；have が弱形 /həv/ に弱化；have の語末 /v/ が roared の母音 /ɔ/ に連結 [wɪl həv rɔrd] ウィルハヴロアード",
+            "roared の語末 /d/ が a の母音 /ə/ に連結 [rɔrd ə] ロアダー"
+          ],
+          "kana": "バイ ザ タイム ウィ ディフィット イットウィル ハヴロアード ア サウザンド タイムズ アット アワー フェイシーズ"
+        }
+      ]
     }
   ]
 }
