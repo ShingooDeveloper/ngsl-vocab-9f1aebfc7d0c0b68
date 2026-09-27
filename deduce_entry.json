@@ -384,6 +384,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will deduce",
+      "ipa": "/wɪl dɪˈdus/",
+      "examples": [
+        {
+          "en": "I'll deduce the cave structure from the echoing water sounds.",
+          "ja": "水の反響音から洞窟の構造を推測します。",
+          "ipa": "/aɪl dɪˈdus ðə ˈkeɪv ˈstrʌktʃər frəm ðə ˈɛkoʊɪŋ ˈwɔːtər ˈsaʊndz/",
+          "linking": [
+            "「I'll」は I will の縮約 /aɪl/ アイル",
+            "「the」は弱形 /ðə/ ザ（2回出現）",
+            "「from」は弱形 /frəm/ フラム",
+            "「water sounds」—water の語末 /r/ が sounds の /s/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "アイル ディデュース ザ ケイヴ ストラクチャー フラム ザ エコーイング ウォーター サウンズ"
+        },
+        {
+          "en": "We will deduce the mob spawner's location from the creature calls.",
+          "ja": "生き物の鳴き声からモブスポーナーの位置を推測します。",
+          "ipa": "/wi wɪl dɪˈdus ðə ˈmɑb ˈspɔːnərz loʊˈkeɪʃən frəm ðə ˈkriːtʃər kɔlz/",
+          "linking": [
+            "「will」は弱形 /wəl/ に弱化し deduce の /d/ に連結 [wəl dɪˈdus] ウル ディデュース",
+            "「the」は弱形 /ðə/ ザ（2回出現）",
+            "「from」は弱形 /frəm/ フラム",
+            "「creature calls」—creature の語末 /r/ が calls の /k/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ ウル ディデュース ザ モブ スポーナーズ ローケイション フラム ザ クリーチャー コールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be deducing",
+      "ipa": "/wɪl bi dɪˈduːsɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow, she'll be deducing the redstone signal path while testing the circuit.",
+          "ja": "明日、彼女は回路をテストしながらレッドストーン信号経路を推測しているでしょう。",
+          "ipa": "/təˈmɑroʊ ʃil bi dɪˈduːsɪŋ ðə ˈrɛdˌstoʊn ˈsɪɡnəl pæθ waɪl ˈtɛstɪŋ ðə ˈsɝːkɪt/",
+          "linking": [
+            "「Tomorrow」は /təˈmɑroʊ/ トゥモーロー",
+            "「she'll」は she will の縮約 /ʃil/ シル",
+            "「the」は弱形 /ðə/ ザ（2回出現）",
+            "「signal path」—signal の語末 /l/ が path の /p/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "トゥモーロー シル ビー ディデューシング ザ レッドストーン シグナル パス ワイル テスティング ザ サーキット"
+        },
+        {
+          "en": "The scholars will be deducing the hidden message from the ancient blocks.",
+          "ja": "学者たちは古いブロックから隠されたメッセージを推測しているでしょう。",
+          "ipa": "/ðə ˈskoʊlɚz wɪl bi dɪˈduːsɪŋ ðə ˈhɪdən ˈmɛsɪdʒ frəm ðə ˈeɪnʃənt blɑks/",
+          "linking": [
+            "「The」は弱形 /ðə/ ザ（2回出現）",
+            "「will の /l/ が be の /b/ に未開放で連接 [wɪl̚ bi] ウィッ ビー",
+            "「from」は弱形 /frəm/ フラム",
+            "「message from」—message の語末 /dʒ/ が from の /f/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "ザ スコーラーズ ウィッ ビー ディデューシング ザ ヒドゥン メッセッジ フラム ザ エインシャント ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have deduced",
+      "ipa": "/wɪl hæv dɪˈduːsɪd/",
+      "examples": [
+        {
+          "en": "By the end of the expedition, we will have deduced the entire cave system's layout.",
+          "ja": "遠征の終わりまでに、私たちは洞窟システム全体のレイアウトを推測しているでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə ɪkspəˈdɪʃən wi wɪl hæv dɪˈduːsɪd ðə ɛnˈtaɪər ˈkeɪv ˈsɪstəmz ˈleɪaʊt/",
+          "linking": [
+            "「by」は /baɪ/、「the」は弱形 /ðə/ ザ（2回出現）",
+            "「of」は弱形 /əv/ アヴ",
+            "「will」は弱形 /wəl/、「have」は弱形 /hæv/ に弱化（子音+子音）",
+            "「system's」の語末 /z/ が layout の /l/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ イクスペディション ウィ ウィル ハヴ ディデューシド ザ エンタイア ケイヴ システムズ レイアウト"
+        },
+        {
+          "en": "He'll have deduced the enchantment's true effect by examining the durability changes.",
+          "ja": "彼は耐久性の変化を調べることでエンチャントメントの真の効果を推測しているでしょう。",
+          "ipa": "/hil hæv dɪˈduːsɪd ðə ɛnˈtʃæntmənts ˈtru ɪˈfɛkt baɪ ɪɡˈzæmɪnɪŋ ðə dəˈrɑbɪlədi ˈtʃeɪndʒɪz/",
+          "linking": [
+            "「He'll」は he will の縮約 /hil/ ヒル",
+            "「have」は弱形 /hæv/ に弱化",
+            "「the」は弱形 /ðə/ ザ",
+            "「examining」の語末 /ŋ/ が the の /ð/ に先行（子音+子音、連結なし）"
+          ],
+          "kana": "ヒル ハヴ ディデューシド ザ エンチャントメンツ トゥルー イフェクト バイ イグザミニング ザ デュラビリティ チェンジズ"
+        }
+      ]
     }
   ],
   "tags": [

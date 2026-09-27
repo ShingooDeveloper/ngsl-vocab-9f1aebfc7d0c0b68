@@ -395,6 +395,101 @@
           "kana": "ウィー ハヴ ビン ユーニファイイング アワー ビルディング テクニーク タ クリエイト ア モア コウヒーシブ ワールド エスセティック"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will unify",
+      "ipa": "/wɪl ˈjuːnɪfaɪ/",
+      "examples": [
+        {
+          "en": "I'll unify the spawning system to prevent mob farming exploits.",
+          "ja": "モブ農業の悪用を防ぐために、スポーンシステムを統一します。",
+          "ipa": "/aɪl ˈjuːnɪfaɪ ðə ˈspoʊnɪŋ ˈsɪstəm tu prɪˈvɛnt mob ˈfɑrmɪŋ ɪkˈsploɪts/",
+          "kana": "アイル ユーニファイ ザ スポーニング システム タ プリベント モブ ファーミング イクスプロイツ",
+          "linking": [
+            "「I'll」は will の縮約形 /aɪl/",
+            "「the」は定冠詞の弱形 /ðə/",
+            "「to」は前置詞の弱形 /tə/、prevent に連結"
+          ]
+        },
+        {
+          "en": "They will unify the fortress walls into one solid defensive structure.",
+          "ja": "彼らはフォートレスの壁を1つの堅固な防御構造に統一するでしょう。",
+          "ipa": "/ðeɪ wɪl ˈjuːnɪfaɪ ðə ˈfɔɹtrɪs ˈwɔlz ˌɪntu ˈwʌn ˈsɑlɪd dɪˈfɛnsɪv ˈstrʌktʃɚ/",
+          "kana": "ザイ ウィル ユーニファイ ザ フォートレス ウォールズ イントゥ ワン ソリッド ディフェンシブ ストラクチャー",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/",
+            "「walls」の語末 /z/ が「into」の初頭母音 /ɪ/ に連結 [ˈwɔlz‿ˌɪntu]",
+            "「one」の語末 /n/ が「solid」の初頭 /s/ に続く（連結なし）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be unifying",
+      "ipa": "/wɪl bi ˈjuːnɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be unifying the village construction styles all afternoon.",
+          "ja": "午後中ずっと、村の建築スタイルを統一し続けるつもりです。",
+          "ipa": "/wil bi ˈjuːnɪfaɪɪŋ ðə ˈvɪlɪdʒ kənˈstrʌkʃən ˈstaɪlz ˈɔl ˌæftɚˈnun/",
+          "kana": "ウィル ビー ユーニファイイング ザ ヴィレッジ コンストラクション スタイルズ オール アフターヌーン",
+          "linking": [
+            "「We'll」は will の縮約形 /wil/",
+            "「be」は助動詞で弱形 /bi/",
+            "「the」は定冠詞の弱形 /ðə/",
+            "「construction」の語末 /n/ が「styles」の初頭 /s/ に続く（連結なし）"
+          ]
+        },
+        {
+          "en": "He'll be unifying the redstone circuits while others mine for resources.",
+          "ja": "他の人がリソースを採掘している間、彼はレッドストーン回路を統一し続けるでしょう。",
+          "ipa": "/hil bi ˈjuːnɪfaɪɪŋ ðə ˈɹɛdstoʊn ˈsɜɹkɪts ˈwaɪl ˈʌðɚz ˈmaɪn fɔɹ ˈɹɛsɚsɪz/",
+          "kana": "ヒル ビー ユーニファイイング ザ レッドストウン サーキッツ ワイル アザーズ マイン フォー レソースィーズ",
+          "linking": [
+            "「He'll」は will の縮約形 /hil/",
+            "「be」は弱形 /bi/ で unifying の初頭 /j/ に連結 [bi‿ˈjuː...]",
+            "「the」は定冠詞の弱形 /ðə/",
+            "「circuits」の語末 /s/ が「while」の初頭 /w/ に続く（連結なし）",
+            "「others」の語末 /z/ が「mine」の初頭母音 /m/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have unified",
+      "ipa": "/wɪl həv ˈjuːnɪfaɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have unified all our base entrances under one design aesthetic.",
+          "ja": "明日までに、私たちはすべての基地の入口を1つのデザイン美学の下に統一し終わるでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ wi wɪl həv ˈjuːnɪfaɪd ˈɔl ˈaʊɚ ˈbeɪs ˈɛntrənsɪz ˌʌndɚ ˈwʌn dɪˈzaɪn ɛsˈθɛtɪk/",
+          "kana": "バイ タモロー ウィ ウィル ハブ ユーニファイド オール アワー ベイス エントランシズ アンダー ワン ディザイン エスセティック",
+          "linking": [
+            "「by」と「tomorrow」: /aɪ/ が /t/ に連結 [baɪ təˈmɑroʊ]",
+            "「have」は助動詞で弱形 /həv/ ハブ",
+            "「unified」の語末 /d/ が「all」の初頭 /ɔ/ に連結 [ˈjuːnɪfaɪd‿ɔl]",
+            "「all」の語末 /l/ が「our」の初頭 /aʊ/ に連結 [ɔl‿ˈaʊɚ]"
+          ]
+        },
+        {
+          "en": "The council will have unified all faction structures by the tournament's start.",
+          "ja": "評議会はトーナメント開始までに、すべてのファクション構造を統一し終わるでしょう。",
+          "ipa": "/ðə ˈkaʊnsəl wɪl həv ˈjuːnɪfaɪd ˈɔl ˈfækʃən ˈstrʌktʃɚz baɪ ðə ˈtɔɹnəmənts ˈstɑrt/",
+          "kana": "ザ カウンシル ウィル ハブ ユーニファイド オール ファクション ストラクチャーズ バイ ザ トーナメンツ スターット",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/（複数回）",
+            "「have」は弱形 /həv/",
+            "「all」の語末 /l/ が「faction」の初頭 /f/ に連結 [ɔl‿ˈfækʃən]",
+            "「structures」の語末 /z/ が「by」の初頭 /b/ に連結 [ˈstrʌktʃɚz‿baɪ]"
+          ]
+        }
+      ]
     }
   ]
 }

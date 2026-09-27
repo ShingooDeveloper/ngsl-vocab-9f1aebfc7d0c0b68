@@ -371,6 +371,101 @@
           "kana": "ウォーラー ハズ ビン ペネトレイティング アワー ベイス ファウンデーション ファー ウィークス アンド ウィ アー ラニング アウト アヴ タイム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will penetrate",
+      "ipa": "/wɪl ˌpɛnəˈtreɪt/",
+      "examples": [
+        {
+          "en": "I'll penetrate the mountain wall and mine all the diamonds hidden inside.",
+          "ja": "私は山の壁を貫き、中に隠されているすべてのダイヤモンドを採掘するだろう。",
+          "ipa": "/aɪl ˌpɛnəˈtreɪt ðə ˈmaʊntən ˈwɔl ənd ˈmaɪn ˈɔl ðə ˈdaɪəməndz ˈhɪdən ɪnˈsaɪd/",
+          "linking": [
+            "「I'll penetrate」で I → will の縮約 /aɪl/、/l/ が次の /ə/ に連結 [ˈaɪl ˌpɛnəˈtreɪt]",
+            "「the」弱形 /ðə/ ザ（2回）",
+            "「and」弱形 /ənd/ アンド"
+          ],
+          "kana": "アイル ペネトレイト ザ マウンテン ウォール アンド マイン オール ザ ダイモンズ ヒデン インサイド"
+        },
+        {
+          "en": "They will penetrate the fortress defenses and steal the valuable treasures.",
+          "ja": "彼らは要塞の防御を突き破り、貴重な宝を盗むだろう。",
+          "ipa": "/ðeɪ wɪl ˌpɛnəˈtreɪt ðə ˈfɔɹtrəs dɪˈfɛnsɪz ənd ˈstil ðə ˈvæljəbəl ˈtɹɛʃərz/",
+          "linking": [
+            "「They will」で they → they'll の縮約 /ðeɪl/、/l/ が次の /ə/ に連結",
+            "「the」弱形 /ðə/ ザ（2回）",
+            "「and」弱形 /ənd/ アンド",
+            "「fortress defenses」で語末 /s/ が /d/ に先行（子音同士）"
+          ],
+          "kana": "ザイ ウィル ペネトレイト ザ フォートレス ディフェンシズ アンド スティール ザ ヴァリュアブル トレジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be penetrating",
+      "ipa": "/wɪl bi ˌpɛnəˈtreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be penetrating deeper into the Nether next week when we have better armor.",
+          "ja": "来週、より良い甲冑を持つとき、私たちはネザーの深部に浸透する予定です。",
+          "ipa": "/wil bi ˌpɛnəˈtreɪtɪŋ ˈdipɚ ˈɪntə ðə ˈnɛðɚ ˈnɛkst ˈwik wɛn wi ˈhæv ˈbɛtər ˈɑɹmɚ/",
+          "linking": [
+            "「We'll be」で we'll /wɪl/、be /bi/ に続く。will の /l/ と be の /b/ は子音同士",
+            "「deeper into」で /ɚ/ と /ɪ/ が連結 [ˈdip.ə ˈɪn.tə]",
+            "「the Nether」で「the」弱形 /ðə/ ザ",
+            "「when we」で /n/ と /w/ が子音同士"
+          ],
+          "kana": "ウィル ビー ペネトレイティング ディーパー イントゥ ザ ネザー ネクスト ウィーク ウェン ウィ ハヴ ベター アーマー"
+        },
+        {
+          "en": "The water will be penetrating through our defenses if we don't patch the hole soon.",
+          "ja": "穴をすぐに塞がなければ、水は私たちの防御を貫通し続けるでしょう。",
+          "ipa": "/ðə ˈwɔɾɚ wɪl bi ˌpɛnəˈtreɪtɪŋ ˈθɹu ˈaʊɚ dɪˈfɛnsɪz ɪf wi ˈdoʊnt ˈpætʃ ðə ˈhoʊl ˈsuːn/",
+          "linking": [
+            "「The water」で「The」弱形 /ðə/ ザ、water の語中 /t/ がフラップ化 /ɾ/ → ウォーラー",
+            "「will be」で will /wɪl/, be /bi/ に続く",
+            "「if we」で /f/ と /w/ が子音同士",
+            "「the hole」で「the」弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ウォーラー ウィル ビー ペネトレイティング スルー アワー ディフェンシズ イフ ウィ ドーント パッチ ザ ホール スーン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have penetrated",
+      "ipa": "/wɪl həv ˌpɛnəˈtreɪtəd/",
+      "examples": [
+        {
+          "en": "By morning, the lava will have penetrated all the wooden structures we built.",
+          "ja": "朝までに、溶岩は私たちが建てたすべての木製構造を貫くでしょう。",
+          "ipa": "/baɪ ˈmɔɹnɪŋ ðə ˈlɑvə wɪl həv ˌpɛnəˈtreɪtəd ˈɔl ðə ˈwʊdən ˈstrʌkʃərz wi ˈbɪlt/",
+          "linking": [
+            "「will have」で will /wɪl/, have 弱形 /həv/ ハヴ → penetrated に連結",
+            "「the」弱形 /ðə/ ザ（2回）",
+            "「wooden structures」で語末 /n/ と /s/ が子音同士で特に変化なし",
+            "「built」の語末 /t/ は未開放で次の文末に先行"
+          ],
+          "kana": "バイ モーニング ザ ラヴァ ウィル ハヴ ペネトレイテッド オール ザ ウッドゥン ストラクチャーズ ウィ ビルト"
+        },
+        {
+          "en": "We will have penetrated the bedrock layer and discovered new caves before sunset.",
+          "ja": "日没前に、私たちは岩盤層を貫通し、新しい洞窟を発見しているでしょう。",
+          "ipa": "/wi wɪl həv ˌpɛnəˈtreɪtəd ðə ˈbɛdˌrɑk ˈleɪər ənd dɪsˈkʌvərd ˈnju ˈkeɪvz bɪˈfɔɹ ˈsʌnˌsɛt/",
+          "linking": [
+            "「will have」で will /wɪl/, have 弱形 /həv/ ハヴ",
+            "「the」弱形 /ðə/ ザ",
+            "「and」弱形 /ənd/ アンド",
+            "「before sunset」で /ɔɹ/ と /s/ が子音同士で連続"
+          ],
+          "kana": "ウィ ウィル ハヴ ペネトレイテッド ザ ベドラック レイヤー アンド ディスカヴァード ニュー ケイヴズ ビフォア サンセット"
+        }
+      ]
     }
   ]
 }

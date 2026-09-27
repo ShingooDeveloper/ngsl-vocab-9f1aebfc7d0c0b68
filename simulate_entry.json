@@ -374,6 +374,96 @@
           "kana": "アイ ハヴ ビン シミュレイティング ディファレント ビルディング テクニークス タ ファインド ザ モウスト イフィシェント ディザイン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will simulate",
+      "ipa": "/wɪl ˈsɪmjəˌleɪt/",
+      "examples": [
+        {
+          "en": "I'll simulate the cave-in scenario to test our backup tunnel system.",
+          "ja": "バックアップトンネルシステムをテストするために、洞窟崩落シナリオをシミュレートします。",
+          "ipa": "/aɪl ˈsɪmjəˌleɪt ðə ˈkeɪv ɪn ˌsɛnˈɑːrioʊ tə ˈtɛst ˈaʊɚ ˈbækʌp ˈtʌnəl ˈsɪstəm/",
+          "linking": [
+            "「I'll simulate」で I'll の語末 /l/ が simulate の /s/ に先行、未開放 → [aɪl̚ ˈsɪmjəˌleɪt] アイル シミュレイト",
+            "「simulate the」で simulate の語末 /t/ が the の弱形 /ðə/ に連結 → [ˈsɪmjəˌleɪt ðə] シミュレイト ザ",
+            "「to test」で to は弱形 /tə/ → [tə ˈtɛst] タ テスト"
+          ],
+          "kana": "アイル シミュレイト ザ ケイブ イン シナリオ タ テスト アワー バックアップ トンネル システム"
+        },
+        {
+          "en": "They will simulate the redstone pressure plate mechanism before finalizing the trap design.",
+          "ja": "トラップデザインを最終確定する前に、彼らはレッドストーン感圧プレートメカニズムをシミュレートします。",
+          "ipa": "/ðeɪ wɪl ˈsɪmjəˌleɪt ðə ˈrɛdstoʊn ˈprɛʃər pleɪt ˈmɛkənɪzəm bɪˈfɔr ˌfaɪnəˈlaɪzɪŋ ðə ˈtræp dɪˈzaɪn/",
+          "linking": [
+            "「will simulate」で will の語末 /l/ が simulate の /s/ に先行、未開放 → [wɪl̚ ˈsɪmjəˌleɪt] ウィル シミュレイト",
+            "「the redstone」で the は弱形 /ðə/ → [ðə ˈrɛdstoʊn] ザ レッドストウン",
+            "「before finalizing」で before の語末 /r/ が finalizing の /f/ に先行 → [bɪˈfɔr ˌfaɪnəˈlaɪzɪŋ] ビフォア ファイナライジング"
+          ],
+          "kana": "ゼイ ウィル シミュレイト ザ レッドストウン プレッシャー プレイト メカニズム ビフォア ファイナライジング ザ トラップ ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be simulating",
+      "ipa": "/wɪl bi ˈsɪmjəˌleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "While we're building the farm, the system will be simulating growth cycles automatically.",
+          "ja": "農場を建築している間、システムは自動的に成長サイクルをシミュレートします。",
+          "ipa": "/waɪl wɪr ˈbɪldɪŋ ðə fɑrm ðə ˈsɪstəm wɪl bi ˈsɪmjəˌleɪtɪŋ ɡroʊθ ˈsaɪkəlz ˌɔːtəˈmætɪkli/",
+          "linking": [
+            "「will be」で will の語末 /l/ が be の /b/ に先行、未開放 → [wɪl̚ bi] ウィル ビー",
+            "「be simulating」で be の弱形 /bi/ と simulating の /s/ が先行（未開放）→ [bi ˈsɪmjəˌleɪtɪŋ] ビ シミュレイティング",
+            "「the farm」で the は弱形 /ðə/ → [ðə fɑrm] ザ ファーム"
+          ],
+          "kana": "ワイル ウィア ビルディング ザ ファーム ザ システム ウィル ビ シミュレイティング グロウス サイクルズ オートマティカリー"
+        },
+        {
+          "en": "The server will be simulating weather effects all night to prepare the environment.",
+          "ja": "環境を準備するために、サーバーは夜中ずっと天気エフェクトをシミュレートします。",
+          "ipa": "/ðə ˈsɜːrvər wɪl bi ˈsɪmjəˌleɪtɪŋ ˈwɛðər ɪˈfɛkts ˈɔl naɪt tə prɪˈpɛr ðə ɪnˈvaɪrənmənt/",
+          "linking": [
+            "「will be」で will の語末 /l/ が be の /b/ に先行、未開放 → [wɪl̚ bi] ウィル ビー",
+            "「be simulating」で be の弱形と simulating の /s/ が先行（未開放）→ [bi ˈsɪmjəˌleɪtɪŋ] ビ シミュレイティング",
+            "「to prepare」で to は弱形 /tə/ → [tə prɪˈpɛr] タ プリペア"
+          ],
+          "kana": "ザ サーバー ウィル ビ シミュレイティング ウェザー イフェクツ オール ナイト タ プリペア ザ エンバイアンメント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have simulated",
+      "ipa": "/wɪl həv ˈsɪmjəˌleɪtəd/",
+      "examples": [
+        {
+          "en": "By next week, we will have simulated every possible mining scenario for the new players.",
+          "ja": "来週までに、私たちは新しいプレイヤーのために考えられるあらゆる採掘シナリオをシミュレートしています。",
+          "ipa": "/baɪ nɛkst wiːk wi wɪl həv ˈsɪmjəˌleɪtəd ˈɛvri ˈpɑsəbəl ˈmaɪnɪŋ səˈnæɹioʊ fɔr ðə ˈnu ˈpleɪərz/",
+          "linking": [
+            "「will have」で will の語末 /l/ が have の弱形 /əv/ に連結 → [wɪl həv] ウィル ハヴ",
+            "「have simulated」で have の /v/ が simulated の /s/ に先行、未開放 → [həv ˈsɪmjəˌleɪtəd] ハヴ シミュレイテッド",
+            "「the new」で the は弱形 /ðə/ → [ðə ˈnu] ザ ニュー"
+          ],
+          "kana": "バイ ネクスト ウィーク ウィー ウィル ハヴ シミュレイテッド エブリー パサベル マイニング シナリオ フォア ザ ニュー プレイヤーズ"
+        },
+        {
+          "en": "I'll have simulated the entire wither boss fight before the actual event happens.",
+          "ja": "実際のイベントが起こる前に、私はウィザーボスとの戦いをすべてシミュレートしています。",
+          "ipa": "/aɪl həv ˈsɪmjəˌleɪtəd ði ənˈtaɪr ˈwɪðər bɑs ˈfaɪt bɪˈfɔr ði ˈæktʃuəl ɪˈvɛnt ˈhæpənz/",
+          "linking": [
+            "「I'll have」で I'll の語末 /l/ が have の弱形 /əv/ に連結 → [aɪl həv] アイル ハヴ",
+            "「have simulated」で have の /v/ が simulated の /s/ に先行、未開放 → [həv ˈsɪmjəˌleɪtəd] ハヴ シミュレイテッド",
+            "「the entire」で the は弱形 /ði/ または /ðə/（子音 /ə/ の前）→ [ðɪ ənˈtaɪr] ザ エンタイアー"
+          ],
+          "kana": "アイル ハヴ シミュレイテッド ザ エンタイアー ウィザー ボス ファイト ビフォア ザ アクチュアル イベント ハペンズ"
+        }
+      ]
     }
   ]
 }

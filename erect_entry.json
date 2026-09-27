@@ -178,6 +178,113 @@
           "kana": "ワイル イレクティング ザ ディフェンス ウォールズ ザ ワーカーズ ディスカヴァード エインシェント ルーインズ ビニース ザ ファウンデイション"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will erect",
+      "ipa": "/wɪl ɪˈrɛkt/",
+      "examples": [
+        {
+          "en": "After collecting enough obsidian blocks, we'll erect a protective barrier against Endermen raids.",
+          "ja": "十分なオブシディアンブロックを集めた後、我々はエンダーマンの襲撃に対する保護バリアを建てます。",
+          "ipa": "/ˈæftər kəˈlɛktɪŋ ɪˈnʌf ɑbˈsɪdiən blɑks wil ɪˈrɛkt ə prəˈtɛktɪv ˈbæriər əˈɡɛnst ˈɛndərˌmɛn reɪdz/",
+          "linking": [
+            "after の語末 /r/ が collecting の /k/ に続き、子音+子音で連結なし",
+            "enough の語末 /f/ が obsidian の /ɑ/ に連結 [ɪˈnʌf ɑbˈsɪdiən] イナフ オブシディアン",
+            "we'll は we + will の縮約で /wil/ [wil] ウィル",
+            "barrier の語末 /r/ が against の /ə/ に r-linking で連結 [ˈbæriər əˈɡɛnst] バリアー アゲンスト"
+          ],
+          "kana": "アフター コレクティング イナフ オブシディアン ブロックス ウィル イレクト ア プロテクティヴ バリアー アゲンスト エンダーメン レイドズ"
+        },
+        {
+          "en": "They will erect massive monuments to celebrate the server's first anniversary.",
+          "ja": "彼らはサーバーの最初の周年を祝うために巨大なモニュメントを建てます。",
+          "ipa": "/ðeɪ wɪl ɪˈrɛkt ˈmæsɪv ˈmɑnjəmɛnts tə ˈsɛləˌbreɪt ðə ˈsɝvərz fɝst ˌænɪˈvɝsəri/",
+          "linking": [
+            "they の語末 /ðeɪ/ が will の /w/ に続き、子音+子音で連結なし",
+            "will は /wɪl/ で主語の後に続く",
+            "to は弱形 /tə/ [tə] タ、celebrate の /s/ に続く",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ゼイ ウィル イレクト マッシヴ マニュメンツ タ セレブレイト ザ サーバーズ ファースト アニヴァーサリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be erecting",
+      "ipa": "/wɪl bi ɪˈrɛktɪŋ/",
+      "examples": [
+        {
+          "en": "While I'm mining diamonds, you'll be erecting the framework for the main fortress.",
+          "ja": "私がダイヤモンドを採掘している間に、君はメインの要塞のためのフレームワークを建設するでしょう。",
+          "ipa": "/waɪl aɪm ˈmaɪnɪŋ ˈdaɪəməndz jəl bi ɪˈrɛktɪŋ ðə ˈfreɪmˌwɝk fər ðə ˈmeɪn ˈfɔrtrəs/",
+          "linking": [
+            "while の語末 /l/ が I'm の /aɪ/ に連結 [waɪl aɪm] ワイル アイム",
+            "you'll は you + will の縮約で /jəl/ [jəl] ユル",
+            "be は弱形 /bi/ [bi] ビー",
+            "the は弱形 /ðə/ [ðə] ザ、framework の /f/ に続く",
+            "for は弱形 /fər/ [fər] ファー"
+          ],
+          "kana": "ワイル アイム マイニング ダイアモンズ ユル ビー イレクティング ザ フレームワーク ファー ザ メイン フォートリス"
+        },
+        {
+          "en": "When the foundation is done, the construction crew will be erecting the support pillars all week long.",
+          "ja": "基礎が完成したら、建設クルーは1週間かけてサポート柱を建てます。",
+          "ipa": "/wɛn ðə faʊnˈdeɪʃən ɪz dʌn ðə kənˈstrəkʃən kru wɪl bi ɪˈrɛktɪŋ ðə səˈpɔrt ˈpɪlərz ɔl wik lɔŋ/",
+          "linking": [
+            "when の語末 /n/ が the の /ð/ に続き、子音+子音で連結なし",
+            "the は弱形 /ðə/ [ðə] ザ、foundation の /f/ に続く",
+            "foundation の語末 /n/ が is の /ɪ/ に連結 [faʊnˈdeɪʃən ɪz]",
+            "the は弱形 /ðə/ [ðə] ザ、construction の /k/ に続く",
+            "be は弱形 /bi/ [bi] ビー",
+            "the は弱形 /ðə/ [ðə] ザ、support の /s/ に続く",
+            "pillar の語末 /r/ が all の /ɔ/ に r-linking で連結 [ˈpɪlərz ɔl] ピラーズ オール"
+          ],
+          "kana": "ウェン ザ ファウンデイション イズ ダン ザ コンストラクション クルー ウィル ビー イレクティング ザ サポート ピラーズ オール ウィーク ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have erected",
+      "ipa": "/wɪl həv ɪˈrɛktəd/",
+      "examples": [
+        {
+          "en": "By the time the winter season arrives, we will have erected the entire protective perimeter.",
+          "ja": "冬の季節が到来するまでに、私たちは保護周囲全体を建てます。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈwɪntər ˈsizən əˈraɪvz wi wɪl həv ɪˈrɛktəd ðə ɪnˈtaɪr prəˈtɛktɪv pəˈrɪmətər/",
+          "linking": [
+            "by の語末 /b/ が the の /ð/ に続き、子音+子音で連結なし",
+            "the は弱形 /ðə/ [ðə] ザ、time の /t/ に続く",
+            "time の語末 /m/ が the の /ð/ に続き、子音+子音で連結なし",
+            "the は弱形 /ðə/ [ðə] ザ、winter の /w/ に続く",
+            "season の語末 /n/ が arrives の /ə/ に連結 [ˈsizən əˈraɪvz]",
+            "will have → will の縮約 + have の弱形 /həv/ [həv] ハヴ",
+            "the は弱形 /ðə/ [ðə] ザ、entire の /ɪ/ に続く"
+          ],
+          "kana": "バイ ザ タイム ザ ウィンター シーズン アライブズ ウィ ウィル ハヴ イレクティド ザ インタイア プロテクティヴ パリメター"
+        },
+        {
+          "en": "Once the design is finalized, the architect will have erected all the decorative archways by next month.",
+          "ja": "デザインが確定されたら、建築家は来月までにすべての装飾的なアーチウェイを建てます。",
+          "ipa": "/wʌns ðə dɪˈzaɪn ɪz ˈfaɪnəˌlaɪzd ðə ˈɑrkɪˌtɛkt wɪl həv ɪˈrɛktəd ɔl ðə ˌdɛkərətɪv ˈɑrtʃˌweɪz baɪ nɛkst ˈmʌnθ/",
+          "linking": [
+            "once の語末 /s/ が the の /ð/ に続き、子音+子音で連結なし",
+            "the は弱形 /ðə/ [ðə] ザ、design の /d/ に続く",
+            "design の語末 /n/ が is の /ɪ/ に連結 [dɪˈzaɪn ɪz]",
+            "the は弱形 /ðə/ [ðə] ザ、architect の /ɑ/ に続く",
+            "architect の語末 /t/ が will の /w/ に続き、子音+子音で連結なし",
+            "will have → will + have の弱形 /həv/ [həv] ハヴ",
+            "the は弱形 /ðə/ [ðə] ザ、decorative の /d/ に続く",
+            "all の語末 /l/ が the の /ð/ に続き、子音+子音で連結なし"
+          ],
+          "kana": "ワンス ザ ディザイン イズ ファイナライズド ザ アーキテクト ウィル ハヴ イレクティド オール ザ デコレイティヴ アーチウェイズ バイ ネクスト マンス"
+        }
+      ]
     }
   ]
 }
