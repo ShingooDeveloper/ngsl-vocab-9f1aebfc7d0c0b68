@@ -225,6 +225,98 @@
           "kana": "ホワイル スプレイング ザ フィールドズ ウィ ノウティスト ザ クロップス ビギャン トゥ グロウ ファスター"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has sprayed",
+      "ipa": "/həz spreɪd/",
+      "examples": [
+        {
+          "en": "The dispenser has sprayed water across the arena multiple times during the battle.",
+          "ja": "ディスペンサーは戦闘中、何度もアリーナ全体に水をスプレーした。",
+          "ipa": "/ðə dɪsˈpɛnsɚ həz spreɪd ˈwɔtɚ əˈkɹɔs ðə əˈɹinə ˈmʌltɪpəl ˈtaɪmz ˈdʊɹɪŋ ðə ˈbætəl/",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "has の /z/ が sprayed の /s/ に続く（子音+子音）",
+            "across the → /s/ が弱形 /ðə/ に連結"
+          ],
+          "kana": "ザ ディスペンサー ハズ スプレイド ウォーター アクロス ザ アリーナ マルティプル タイムズ ジュアリング ザ バトル"
+        },
+        {
+          "en": "I have sprayed all the flowers in the garden to help them grow more quickly.",
+          "ja": "庭のすべての花を成長させるために、スプレーをかけた。",
+          "ipa": "/aɪ həv spreɪd ɔl ðə ˈflaʊɚz ɪn ðə ˈɡɑɹdn tu hɛlp ðɛm ɡɹoʊ moɹ ˈkwɪkli/",
+          "linking": [
+            "have の /v/ が sprayed の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "アイ ハヴ スプレイド オール ザ フラウアーズ イン ザ ガーデン トゥ ヘルプ ザ グロウ モア クウィックリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had sprayed",
+      "ipa": "/həd spreɪd/",
+      "examples": [
+        {
+          "en": "After we had sprayed water on the lava, the obsidian formation was complete.",
+          "ja": "溶岩に水をスプレーした後、黒曜石の形成は完全だった。",
+          "ipa": "/ˈæftɚ wi həd spreɪd ˈwɔtɚ ɑn ðə ˈlɑvə ðə ɑbˈsɪdiən fɔɹˈmeɪʃən wəz kəmˈplit/",
+          "linking": [
+            "had の /d/ が sprayed の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "was は弱形 /wəz/ ワズ"
+          ],
+          "kana": "アフター ウィ ハッド スプレイド ウォーター オン ザ ラーヴァ ザ オブシディアン フォーメイション ワズ コンプリート"
+        },
+        {
+          "en": "The builders realized they had sprayed the wrong area with water accidentally.",
+          "ja": "ビルダーたちは誤って間違った場所に水をスプレーしたことに気づいた。",
+          "ipa": "/ðə ˈbɪldɚz ˌɹɪəˈlaɪzd ðeɪ həd spreɪd ðə ˈɹɔŋ ˈɛɹiə wɪð ˈwɔtɚ ˈæksɪdəntli/",
+          "linking": [
+            "had の /d/ が sprayed の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "with は弱形 /wɪð/"
+          ],
+          "kana": "ザ ビルダーズ リアライズド ゼイ ハッド スプレイド ザ ロング エリア ウィズ ウォーター アクシデントリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been spraying",
+      "ipa": "/həz bɪn ˈspreɪɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone dispenser has been spraying water constantly to keep the farm hydrated.",
+          "ja": "レッドストーンディスペンサーは農場を潤すために継続的に水をスプレーしている。",
+          "ipa": "/ðə ˈɹɛdˌstoʊn dɪsˈpɛnsɚ həz bɪn ˈspreɪɪŋ ˈwɔtɚ ˈkɑnstəntli tu kip ðə ˈfɑɹm ˈhaɪdɹeɪtəd/",
+          "linking": [
+            "has の /z/ が been の /b/ に続く（子音+子音）",
+            "been の /n/ が spraying の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ"
+          ],
+          "kana": "ザ レッドストウン ディスペンサー ハズ ビン スプレイング ウォーター コンスタントリー トゥ キープ ザ ファーム ハイドレイティッド"
+        },
+        {
+          "en": "She has been spraying the crops every morning since the farming season started.",
+          "ja": "彼女は農業シーズンが始まった以来、毎朝作物にスプレーをかけている。",
+          "ipa": "/ʃi həz bɪn ˈspreɪɪŋ ðə ˈkɹɑps ˈɛvri ˈmɔɹnɪŋ sɪns ðə ˈfɑɹmɪŋ ˈsizən ˈstɑɹtəd/",
+          "linking": [
+            "has の /z/ が been の /b/ に続く（子音+子音）",
+            "been の /n/ が spraying の /s/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "every の /i/ がフラップ化 /ˈɛvri/"
+          ],
+          "kana": "シー ハズ ビン スプレイング ザ クロップス エヴリー モーニング シンス ザ ファーミング シーズン スターティッド"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
