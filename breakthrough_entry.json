@@ -336,6 +336,192 @@
           "kana": "ゼイ ハド ビン ブレイキング スルー ウォルズ フォア ウィークス ウェン ゼイ ファウンド ザ シークレット ルーム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has broken through",
+      "ipa": "/hæz ˈbroʊkən ˈθruː/",
+      "examples": [
+        {
+          "en": "We have discovered a new mining technique that has broken through previous efficiency barriers.",
+          "ja": "私たちは、以前の効率的な障壁を突き抜けた新しい採掘技術を発見しました。",
+          "ipa": "/wi hæv dɪˈskʌvərd ə ˈnu ˈmaɪnɪŋ tekˈnik ðæt hæz ˈbroʊkən ˈθruː ˈpriːviəs ɪˈfɪʃənsi ˈbæriərz/",
+          "linking": [
+            "have discovered → have は弱形 /həv/、discovered の /d/ に続く（子音+子音で未開放）[hæv dɪˈskʌvərd]「ハヴ ディスカヴァード」",
+            "a new → a は弱形 /ə/、new の /n/ に連結 [ə ˈnu] ア ニュー",
+            "that has → that の /t/ が has の /h/ に先行（子音+子音）、has は弱形 /həz/ [ðæt hæz]「ザット ハズ」",
+            "broken through → broken の /n/ が through の /θ/ に先行（子音+子音で未開放）[ˈbroʊkən ˈθruː]「ブロウケン スルー」"
+          ],
+          "kana": "ウィ ハヴ ディスカヴァード ア ニュー マイニング テクニック ザット ハズ ブロウケン スルー プリビアス イフィシェンシ バリアーズ"
+        },
+        {
+          "en": "The team has broken through to the Nether fortress after months of preparation.",
+          "ja": "チームは数ヶ月の準備の後、ネザー要塞に突き抜けました。",
+          "ipa": "/ðə ˈtim hæz ˈbroʊkən ˈθruː tə ðə ˈnɛðər ˈfɔrtrɪs ˈæftər ˈmʌnθz əv ˌprɛpəˈreɪʃən/",
+          "linking": [
+            "the team → the は弱形 /ðə/、team の /t/ に続く（子音+子音）[ðə ˈtim]「ザ ティーム」",
+            "has broken → has は弱形 /həz/、broken の /b/ に続く（子音+子音）[hæz ˈbroʊkən]「ハズ ブロウケン」",
+            "through to → through の /ː/ が to の /tə/ に連結 [ˈθruː tə]「スルー タ」",
+            "the Nether → the は弱形 /ðə/、Nether の /n/ に続く（子音+子音）[ðə ˈnɛðər]「ザ ネザー」"
+          ],
+          "kana": "ザ ティーム ハズ ブロウケン スルー タ ザ ネザー フォートリス アフター マンスズ アヴ プレペレーション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had broken through",
+      "ipa": "/hæd ˈbroʊkən ˈθruː/",
+      "examples": [
+        {
+          "en": "By the time we reached the cave system, they had broken through the last stone wall.",
+          "ja": "私たちが洞窟システムに到達するまでに、彼らは最後の石の壁を突き抜けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi rɪtʃt ðə keɪv ˈsɪstəm ðeɪ hæd ˈbroʊkən ˈθruː ðə læst stoʊn wɔl/",
+          "linking": [
+            "by the → by の /baɪ/ が the の /ðə/ に先行（子音+子音）、the は弱形 /ðə/",
+            "time we → time の /m/ が we の /w/ に先行（子音+子音で未開放）[ˈtaɪm wi]「タイム ウィー」",
+            "they had → they の /eɪ/ が had の /h/ に続く、had は弱形 /həd/ [ðeɪ hæd]「ゼイ ハド」",
+            "broken through → broken の /n/ が through の /θ/ に先行（子音+子音）[ˈbroʊkən ˈθruː]「ブロウケン スルー」"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチド ザ ケイヴ システム ゼイ ハド ブロウケン スルー ザ ラスト ストーン ウォール"
+        },
+        {
+          "en": "We realized they had broken through to the underground fortress days before.",
+          "ja": "私たちは、彼らが数日前に地下要塞に突き抜けていたことに気付きました。",
+          "ipa": "/wi ˈrɪælaɪzd ðeɪ hæd ˈbroʊkən ˈθruː tə ðə ˈʌndərˌɡraʊnd ˈfɔrtrɪs deɪz bɪˈfɔr/",
+          "linking": [
+            "realized they → realized の /d/ が they の /ð/ に先行（子音+子音）[ˈrɪælaɪzd ðeɪ]「リアライズド ゼイ」",
+            "they had → they の /eɪ/ が had の /h/ に続く、had は弱形 /həd/ [ðeɪ hæd]「ゼイ ハド」",
+            "broken through → broken の /n/ が through の /θ/ に先行（子音+子音）[ˈbroʊkən ˈθruː]「ブロウケン スルー」",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ に連結 [tə ðə]「タ ザ」"
+          ],
+          "kana": "ウィ リアライズド ゼイ ハド ブロウケン スルー タ ザ アンダーグラウンド フォートリス デイズ ビフォア"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been breaking through",
+      "ipa": "/hæz bɪn ˈbreɪkɪŋ ˈθruː/",
+      "examples": [
+        {
+          "en": "We have been breaking through this mountain for weeks to find the hidden dungeon.",
+          "ja": "隠されたダンジョンを見つけるために、私たちは何週間もこの山を突き抜けています。",
+          "ipa": "/wi hæv bɪn ˈbreɪkɪŋ ˈθruː ðɪs ˈmaʊntən fɔr wiks tə faɪnd ðə ˈhɪdən ˈdʌndʒən/",
+          "linking": [
+            "have been → have は弱形 /həv/、been の /b/ に続く（子音+子音）[hæv bɪn]「ハヴ ビン」",
+            "been breaking → been は弱形 /bɪn/、breaking の /b/ に続く（子音+子音）[bɪn ˈbreɪkɪŋ]「ビン ブレイキング」",
+            "breaking through → breaking の /ŋ/ が through の /θ/ に先行（鼻音+子音で未開放）[ɪŋ ˈθruː]「イング スルー」",
+            "for weeks → for は弱形 /fər/、weeks の /w/ に続く（子音+子音）[fər wiks]「ファ ウィークス」"
+          ],
+          "kana": "ウィ ハヴ ビン ブレイキング スルー ディス マウンテン ファ ウィークス タ ファインド ザ ヒデン ダンジョン"
+        },
+        {
+          "en": "The mining crew has been breaking through solid bedrock to establish a new tunnel system.",
+          "ja": "採掘クルーは、新しいトンネルシステムを確立するために、固い基盤岩を突き抜けています。",
+          "ipa": "/ðə ˈmaɪnɪŋ ˈkru hæz bɪn ˈbreɪkɪŋ ˈθruː ˈsɑlɪd ˈbɛdrɑk tə ɪsˈtæblɪʃ ə ˈnu ˈtʌnəl ˈsɪstəm/",
+          "linking": [
+            "the mining → the は弱形 /ðə/、mining の /m/ に続く（子音+子音）[ðə ˈmaɪnɪŋ]「ザ マイニング」",
+            "mining crew → mining の /ŋ/ が crew の /k/ に先行（鼻音+子音で未開放）[ɪŋ ˈkru]「イング クルー」",
+            "crew has → crew の /u/ が has の /h/ に続く、has は弱形 /həz/ [ˈkru hæz]「クルー ハズ」",
+            "breaking through → breaking の /ŋ/ が through の /θ/ に先行（鼻音+子音で未開放）[ɪŋ ˈθruː]「イング スルー」"
+          ],
+          "kana": "ザ マイニング クルー ハズ ビン ブレイキング スルー ソリッド ベドロック タ イスタブリッシュ ア ニュー タンネル システム"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will break through",
+      "ipa": "/wɪl breɪk ˈθruː/",
+      "examples": [
+        {
+          "en": "I will break through to the End portal before the night falls.",
+          "ja": "夜が明ける前に、エンドポータルに突き抜けるだろう。",
+          "ipa": "/aɪ wɪl breɪk ˈθruː tu ðə ˈɛnd ˈpɔɹtəl bɪˈfɔɹ ðə naɪt fɔːlz/",
+          "linking": [
+            "will break → will の /l/ が break /b/ に連結 [wɪl breɪk] ウィル ブレイク",
+            "through to → through /ː/ が to /tə/ に連結、to は弱形 [ˈθruː tə] スルー タ",
+            "the End → the は弱形 /ðə/ [ðə ˈɛnd] ザ エンド"
+          ],
+          "kana": "アイ ウィル ブレイク スルー トゥ ザ エンド ポータル ビフォア ザ ナイト フォールズ"
+        },
+        {
+          "en": "The team will break through the obsidian wall with the new diamond pickaxe.",
+          "ja": "チームは新しいダイヤモンド製つるはしで黒曜石の壁を突き抜けるだろう。",
+          "ipa": "/ðə ˈtim wɪl breɪk ˈθruː ðə əbˈsɪdiən wɔl wɪð ðə ˈnu ˈdaɪmənd ˈpɪkˌæks/",
+          "linking": [
+            "the team → the は弱形 /ðə/、team /t/ に続く（子音+子音で未開放）[ðə ˈtim] ザ ティーム",
+            "will break → will の /l/ が break /b/ に連結 [wɪl breɪk] ウィル ブレイク",
+            "through the → through /ː/ が the /ð/ に連結 [ˈθruː ðə] スルー ザ"
+          ],
+          "kana": "ザ ティーム ウィル ブレイク スルー ザ オブシディアン ウォール ウィズ ザ ニュー ダイモンド ピックアックス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be breaking through",
+      "ipa": "/wɪl bi ˈbreɪkɪŋ ˈθruː/",
+      "examples": [
+        {
+          "en": "When you log in tomorrow, we will be breaking through the mountain to establish a new tunnel.",
+          "ja": "明日ログインするとき、私たちは新しいトンネルを確立するために山を突き抜けているだろう。",
+          "ipa": "/wɛn ju ˈlɑg ɪn təˈmɑɹoʊ | wi wɪl bi ˈbreɪkɪŋ ˈθruː ðə ˈmaʊntən tu ɪsˈtæblɪʃ ə ˈnu ˈtʌnəl/",
+          "linking": [
+            "will be → will の /l/ が be /b/ に連結、両方とも弱形 [wɪl bi] ウィル ビー",
+            "be breaking → be /i/ が breaking /b/ に連結 [bi ˈbreɪkɪŋ] ビー ブレイキング",
+            "through the → through /ː/ が the /ð/ に連結 [ˈθruː ðə] スルー ザ"
+          ],
+          "kana": "ウェン ユー ログ イン トゥモロー | ウィ ウィル ビー ブレイキング スルー ザ マウンテン トゥ イスタブリッシュ ア ニュー タンネル"
+        },
+        {
+          "en": "They will be breaking through bedrock for the next several hours.",
+          "ja": "彼らは次の数時間、基盤岩を突き抜けているだろう。",
+          "ipa": "/ðeɪ wɪl bi ˈbreɪkɪŋ ˈθruː ˈbɛdrɑk fɔr ðə ˈnɛkst ˈsɛvərəl ˈaʊɚz/",
+          "linking": [
+            "will be → will の /l/ が be /b/ に連結 [wɪl bi] ウィル ビー",
+            "be breaking → be /i/ が breaking /b/ に連結 [bi ˈbreɪkɪŋ] ビー ブレイキング",
+            "through bedrock → through /ː/ が bedrock /b/ に連結 [ˈθruː ˈbɛdrɑk] スルー ベドロック"
+          ],
+          "kana": "ザ ウィル ビー ブレイキング スルー ベドロック フォー ザ ネクスト セヴァラル アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have broken through",
+      "ipa": "/wɪl həv ˈbroʊkən ˈθruː/",
+      "examples": [
+        {
+          "en": "By next week, I will have broken through to the diamond level.",
+          "ja": "来週までに、ダイヤモンドレベルに突き抜けているだろう。",
+          "ipa": "/baɪ ˈnɛkst wik | aɪ wɪl həv ˈbroʊkən ˈθruː tu ðə ˈdaɪmənd ˈlɛvəl/",
+          "linking": [
+            "will have → will は弱形 /wəl/、have は弱形 /əv/、/v/ が broken /b/ に連結 [wəl əv ˈbroʊkən] ウル ハヴ ブロウケン",
+            "through to → through /ː/ が to /tə/ に連結、to は弱形 [ˈθruː tə] スルー タ",
+            "the diamond → the は弱形 /ðə/ [ðə ˈdaɪmənd] ザ ダイモンド"
+          ],
+          "kana": "バイ ネクスト ウィーク | アイ ウル ハヴ ブロウケン スルー タ ザ ダイモンド レベル"
+        },
+        {
+          "en": "We will have broken through all the stone barriers by the time the server updates.",
+          "ja": "サーバーが更新されるまでに、すべての石の障壁を突き抜けているだろう。",
+          "ipa": "/wi wɪl həv ˈbroʊkən ˈθruː ɔl ðə stoʊn ˈbæriərz baɪ ðə ˈtaɪm ðə ˈsɚvər ˈʌpdeɪts/",
+          "linking": [
+            "will have → will は弱形 /wəl/、have は弱形 /əv/ [wəl əv] ウル ハヴ",
+            "have broken → have /əv/ が broken /b/ に連結 [həv ˈbroʊkən] ハヴ ブロウケン",
+            "all the → all /l/ が the /ð/ に連結 [ɔl ðə] オール ザ"
+          ],
+          "kana": "ウィ ウル ハヴ ブロウケン スルー オール ザ ストーン バリアーズ バイ ザ タイム ザ サーバー アップデイツ"
+        }
+      ]
     }
   ],
   "tags": [
