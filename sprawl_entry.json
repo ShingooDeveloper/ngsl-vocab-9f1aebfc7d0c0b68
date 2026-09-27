@@ -406,6 +406,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will sprawl",
+      "ipa": "/wɪl ˈsprɔːl/",
+      "examples": [
+        {
+          "en": "The settlement will sprawl across multiple biomes once the infrastructure expands.",
+          "ja": "インフラが拡張されると、入植地は複数のバイオームに広がるでしょう。",
+          "ipa": "/ðə ˈsɛtəlmənt wɪl ˈsprɔːl əˈkrɔːs ˈmʌltəpəl baɪˈoʊmz wʌns ðə ˌɪnfrəˈstrʌktʃər ɪkˈspændz/",
+          "linking": [
+            "settlement will — 語末 /t/ が will の /w/ に続く（子音+子音）未開放で発音",
+            "will sprawl — will の語末 /l/ が sprawl の /s/ に続く（子音+子音）未開放で発音 [wɪl̚ ˈsprɔːl]",
+            "sprawl across — 語末 /l/ が across の弱形に流れ [ˈsprɔːl əˈkrɔːs] スプロール アクロース",
+            "infrastructure expands — 語末 /r/ が expands の /ɛ/ に連結"
+          ],
+          "kana": "ザ セトルメント ウィル スプロール アクロース マルチプル バイオームズ ワンス ザ インフラストラクチャー イクスペンズ"
+        },
+        {
+          "en": "They'll sprawl the mining operations far into the nether to reach rare resources.",
+          "ja": "彼らはレアリソースに到達するために、採掘操業をネザーの遠くまで広げるでしょう。",
+          "ipa": "/ðeɪl ˈsprɔːl ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃənz fɑr ˈɪntu ðə ˈnɛðər tu riːtʃ ˈrɛr ˈrɛsɚsɪz/",
+          "linking": [
+            "They'll sprawl — they'll の語末 /l/ が sprawl の /s/ に続く（子音+子音）未開放で発音 [ðeɪl̚ ˈsprɔːl] ザイル スプロール",
+            "sprawl the — 語末 /l/ が the の弱形 /ðə/ に続く（子音+子音）",
+            "far into — far は弱形 /fɑr/、into の /ɪ/ に連結 [fɑr ˈɪntu] ファー イントゥ",
+            "the nether — the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイル スプロール ザ マイニング オペレイションズ ファー イントゥ ザ ネザー トゥ リーチ レアー レソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be sprawling",
+      "ipa": "/wɪl bi ˈsprɔːlɪŋ/",
+      "examples": [
+        {
+          "en": "While you're defending the main gate, we'll be sprawling the new farming district eastward.",
+          "ja": "あなたがメインゲートを守っている間、私たちは新しい農業地区を東に広げていくでしょう。",
+          "ipa": "/waɪl jɔr dɪˈfɛndɪŋ ðə ˈmeɪn ɡeɪt, wil bi ˈsprɔːlɪŋ ðə ˈnu ˈfɑrmɪŋ ˈdɪstrɪkt ˈistərd/",
+          "linking": [
+            "while you're — while の語末 /l/ が you're の /j/ に続く（子音+子音）",
+            "defending the — defending の語末 /ŋ/ が the の弱形 /ðə/ に続く",
+            "we'll be — we'll の語末 /l/ が be の /b/ に続く（子音+子音）未開放で発音 [wil̚ bi]",
+            "be sprawling — be は弱形 /bi/ ビ、sprawling の /s/ に未開放で接続 [bi̚ ˈsprɔːlɪŋ]"
+          ],
+          "kana": "ワイル ユア ディフェンディング ザ メイン ゲイト ウィル ビー スプローリング ザ ニュー ファーミング ディストリクト イースタード"
+        },
+        {
+          "en": "Construction crews will be sprawling the marketplace all next week to accommodate new shops and trading stalls.",
+          "ja": "建設クルーは来週一週間中ずっと市場を広げて、新しい店舗と取引ストールに対応させるでしょう。",
+          "ipa": "/kənˈstrʌkʃən ˈkruz wɪl bi ˈsprɔːlɪŋ ðə ˈmɑrkɪtˌpleɪs ɔl nɛks ˈwik tu əˈkɑməˌdeɪt ˈnju ʃɑps ənd ˈtreɪdɪŋ stɔlz/",
+          "linking": [
+            "crews will — crews の語末 /z/ が will の /w/ に続く（子音+子音）",
+            "will be — will の語末 /l/ が be の /b/ に続く（子音+子音）未開放で発音 [wɪl̚ bi]",
+            "be sprawling — be は弱形 /bi/ ビ、sprawling の /s/ に未開放で接続 [bi̚ ˈsprɔːlɪŋ]",
+            "trading stalls — trading の語末 /ŋ/ が stalls の /s/ に続く（子音+子音）"
+          ],
+          "kana": "コンストラクション クルーズ ウィル ビー スプローリング ザ マーケットプレイス オール ネクス ウィーク トゥ アコモデイト ニュー ショップス アンド トレイディング ストールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have sprawled",
+      "ipa": "/wɪl əv ˈsprɔːld/",
+      "examples": [
+        {
+          "en": "By the season finale, the base will have sprawled across five distinct biome regions.",
+          "ja": "シーズンフィナーレまでに、ベースは5つの異なるバイオーム地域に広がっているでしょう。",
+          "ipa": "/baɪ ðə ˈsizən fɪˈnæli, ðə ˈbeɪs wɪl əv ˈsprɔːld əˈkrɔːs faɪv dɪˈstɪŋkt baɪˈoʊm ˈridʒənz/",
+          "linking": [
+            "season finale — finale の語末 /i/ が base の /b/ に続く（母音+子音）",
+            "will have — will の語末 /l/ が have の弱形 /əv/ に続く [wɪl əv] ウィル アヴ",
+            "have sprawled — have の弱形 /əv/ の /v/ が sprawled の /s/ に未開放で接続 [əv̚ ˈsprɔːld]",
+            "sprawled across — 語末 /d/ が across の弱形 /ə/ に連結 [ˈsprɔːld əˈkrɔːs] スプローウルド アクロース"
+          ],
+          "kana": "バイ ザ シーズン フィナーレ ザ ベイス ウィル アヴ スプローウルド アクロース ファイヴ ディスティングクト バイオーム リージョンズ"
+        },
+        {
+          "en": "She will have sprawled the entire trading network across the server before the restart happens.",
+          "ja": "再起動が起こる前に、彼女はサーバー全体に取引ネットワーク全体を広げているでしょう。",
+          "ipa": "/ʃi wɪl əv ˈsprɔːld ðə ɪnˈtaɪr ˈtreɪdɪŋ ˈnɛtˌwɝk əˈkrɔːs ðə ˈsɝvər bɪˈfɔr ðə rɪˈstɑrt ˈhæpənz/",
+          "linking": [
+            "she will — she の /i/ が will の /w/ に連結 [ʃi wɪl] シー ウィル",
+            "will have — will の語末 /l/ が have の弱形 /əv/ に続く [wɪl əv] ウィル アヴ",
+            "have sprawled — have の弱形 /əv/ の /v/ が sprawled の /s/ に未開放で接続 [əv̚ ˈsprɔːld]",
+            "trading network — 語末 /ŋ/ が network の /n/ に続く（子音+子音）"
+          ],
+          "kana": "シー ウィル アヴ スプローウルド ザ インタイアー トレイディング ネットワーク アクロース ザ サーバー ビフォア ザ リスターット ハペンズ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
