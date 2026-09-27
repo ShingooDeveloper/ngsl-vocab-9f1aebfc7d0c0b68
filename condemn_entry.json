@@ -281,6 +281,96 @@
           "kana": "サーバー アドミンズ ハド ビン コンデミング エクスプロイツ オール マンス ロング"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is condemning",
+      "ipa": "/ɪz kənˈdɛmɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is condemning those griefing players right now.",
+          "ja": "管理者は今、その荒らしをしているプレイヤーを非難しています。",
+          "ipa": "/ðə ˈædmɪn ɪz kənˈdɛmɪŋ ðoʊz ˈɡriːfɪŋ ˈpleɪɚz ˈraɪt naʊ/",
+          "linking": [
+            "「admin is condemning」で admin の語末子音 /n/ が母音 /ɪ/ に連結し [ˈædmɪn ɪz] アドミン イズ；is は助動詞で弱形 /ɪz/",
+            "「condemning those」で condemning の語末 /ŋ/ が子音 /ð/ に続き未開放気味に接続；those は弱化傾向",
+            "「griefing players」で griefing の語末 /ŋ/ が子音 /p/ に続き未開放気味に接続"
+          ],
+          "kana": "ザ アドミン イズ コンデミング ドウズ グリーフィング プレイヤーズ ライト ナウ"
+        },
+        {
+          "en": "We are condemning all cheaters on this realm.",
+          "ja": "私たちはこのレルムのすべてのチーターを非難しています。",
+          "ipa": "/wiː ɑɹ kənˈdɛmɪŋ ɔl ˈtʃitɚz ɑn ðɪs ˈrɛlm/",
+          "linking": [
+            "「are condemning」で are は弱形 /ɚ/；condemning の /k/ に続く",
+            "「condemning all」で condemning の語末 /ŋ/ が母音 /ɔ/ に連結 [kənˈdɛmɪŋ ɔl] コンデミング オール",
+            "「cheaters on」で cheaters の語末子音 /z/ が母音 /ɑ/ に連結 [ˈtʃitɚz ɑn] チーターズ オン"
+          ],
+          "kana": "ウィー アー コンデミング オール チーターズ オン ディス レルム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was condemning",
+      "ipa": "/wəz kənˈdɛmɪŋ/",
+      "examples": [
+        {
+          "en": "The admin was condemning unfair treatment of new players.",
+          "ja": "管理者は新しいプレイヤーへの不公正な扱いを非難していました。",
+          "ipa": "/ðə ˈædmɪn wəz kənˈdɛmɪŋ ʌnˈfɛɹ ˈtritmənt əv ˈnu ˈpleɪɚz/",
+          "linking": [
+            "「admin was condemning」で admin の語末子音 /n/ が母音 /ə/ に連結 [ˈædmɪn ə]；was は弱形 /wəz/",
+            "「condemning unfair」で condemning の語末 /ŋ/ が母音 /ʌ/ に連結 [kənˈdɛmɪŋ ʌn]",
+            "「treatment of」で treatment の語末 /t/ が母音 /ə/ に連結 [ˈtritmənt əv]；of は弱形 /əv/"
+          ],
+          "kana": "ザ アドミン ワズ コンデミング アンフェアー トリートメント オヴ ニュー プレイヤーズ"
+        },
+        {
+          "en": "I was condemning anyone who abused the system back then.",
+          "ja": "その時、私はシステムを悪用していた誰でも非難していました。",
+          "ipa": "/aɪ wəz kənˈdɛmɪŋ ˈɛniˌwʌn huː əˈbjuzd ðə ˈsɪstəm bæk ðɛn/",
+          "linking": [
+            "「was condemning」で was は弱形 /wəz/；condemning の /k/ に続く",
+            "「condemning anyone」で condemning の語末 /ŋ/ が母音 /ɛ/ に連結 [kənˈdɛmɪŋ ˈɛni] コンデミング エニ",
+            "「abused the」で abused の語末子音 /d/ が子音 /ð/ に続き未開放気味に接続；the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ コンデミング エニワン フー アビューズド ザ システム バック ザン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been condemning",
+      "ipa": "/həd bɪn kənˈdɛmɪŋ/",
+      "examples": [
+        {
+          "en": "They had been condemning the griefing for weeks.",
+          "ja": "彼らは数週間、その荒らし行為を非難していました。",
+          "ipa": "/ðeɪ həd bɪn kənˈdɛmɪŋ ðə ˈɡriːfɪŋ fɚ wiks/",
+          "linking": [
+            "「had been condemning」で had は弱形 /həd/；been も弱形 /bɪn/；condemning の /k/ に続く",
+            "「condemning the」で condemning の語末 /ŋ/ が子音 /ð/ に続き未開放気味に接続；the は弱形 /ðə/",
+            "「griefing for」で griefing の語末 /ŋ/ が子音 /f/ に続き未開放気味に接続；for は弱形 /fɚ/"
+          ],
+          "kana": "ザイ ハド ビン コンデミング ザ グリーフィング ファー ウィークス"
+        },
+        {
+          "en": "Server admins had been condemning exploits all month long.",
+          "ja": "サーバー管理者は1ヶ月間ずっとエクスプロイトを非難していました。",
+          "ipa": "/ˈsɝvɚ ˈædmɪnz həd bɪn kənˈdɛmɪŋ ˌɛkˈsplɔɪts ɔl mʌnθ lɔŋ/",
+          "linking": [
+            "「had been condemning」で had は弱形 /həd/；been も弱形 /bɪn/；condemning の /k/ に続く",
+            "「condemning exploits」で condemning の語末 /ŋ/ が母音 /ɛ/ に連結 [kənˈdɛmɪŋ ˌɛk] コンデミング エク",
+            "「all month」で all の語末子音 /l/ が子音 /m/ に続き未開放気味に接続"
+          ],
+          "kana": "サーバー アドミンズ ハド ビン コンデミング エクスプロイツ オール マンス ロング"
+        }
+      ]
     }
   ]
 }
