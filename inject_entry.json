@@ -373,6 +373,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will inject",
+      "ipa": "/wɪl ɪnˈdʒɛkt/",
+      "examples": [
+        {
+          "en": "We will inject fuel into the power system before the next maintenance window.",
+          "ja": "次のメンテナンスウィンドウの前に、パワーシステムに燃料を注入します。",
+          "ipa": "/wi wɪl ɪnˈdʒɛkt ˈfju.əl ˈɪn.tu ðə ˈpaʊ.ɚ ˈsɪs.təm bɪˈfɔɹ ðə nɛkst meɪnˈtɛ.nəns ˈwɪn.doʊ/",
+          "kana": "ウィ ウィル インジェクト フューエル イナ ザ パワー システム ビフォー ザ ネクスト メインテナンス ウィンドウ",
+          "linking": [
+            "「we will」: we は弱形 /wi/ [wi]「ウィ」、will と自然に流れる [wi wɪl]→「ウィ ウィル」",
+            "「will inject」: will は弱形 /wəl/ [wəl]→「ウル」、inject の /ɪ/ に連接 [wəl ɪnˈdʒɛkt]→「ウル インジェクト」",
+            "「fuel into」: fuel の語末 /əl/ が into の /ɪ/ に連結傾向、into は弱形 /ɪnə/ [ˈfju.əl ˈɪn.tu]→「フューエル イナ」",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu]→「イナ」、the は子音前で弱形 /ðə/ [ðə]→「ザ」"
+          ]
+        },
+        {
+          "en": "The dispenser will inject redstone into the hopper when the lever is activated.",
+          "ja": "レバーが起動されると、ディスペンサーはレッドストーンをホッパーに注入します。",
+          "ipa": "/ðə dɪˈspɛn.sɚ wɪl ɪnˈdʒɛkt ˈrɛd.stoʊn ˈɪn.tu ðə ˈhɑ.pɚ wɛn ðə ˈlɛv.ɚ ɪz ˈæk.tɪ.veɪ.tɪd/",
+          "kana": "ザ ディスペンサー ウィル インジェクト レッドストーン イナ ザ ハッパー ウェン ザ レバー イズ アクティベイティド",
+          "linking": [
+            "「the dispenser」: the は子音前で弱形 /ðə/ [ðə]→「ザ」、dispenser に続く",
+            "「dispenser will」: dispenser の語末 /ɚ/ が will の /w/ に連結 [dɪˈspɛn.sɚ wɪl]→「ディスペンサー ウィル」",
+            "「will inject」: will は弱形 /wəl/ [wəl]→「ウル」、inject の /ɪ/ に連結 [wəl ɪnˈdʒɛkt]→「ウル インジェクト」",
+            "「into the」: into は弱形 /ɪnə/、the は弱形 /ðə/ [ˈɪn.tu ðə]→「イナ ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be injecting",
+      "ipa": "/wɪl bi ɪnˈdʒɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "They will be injecting coolant into the reactor core while the system is running at full capacity.",
+          "ja": "システムが最大容量で稼働している間に、彼らはリアクターコアに冷却液を注入し続けます。",
+          "ipa": "/ðeɪ wɪl bi ɪnˈdʒɛk.tɪŋ ˈku.lænt ˈɪn.tu ðə riˈæk.tɚ ˈkɔɹ waɪl ðə ˈsɪs.təm ɪz ˈɹʌn.ɪŋ æt fʊl kəˈpæs.ə.ti/",
+          "kana": "ザイ ウィル ビー インジェクティング クーラント イナ ザ リアクター コア ワイル ザ システム イズ ラニング アット フル キャパシティ",
+          "linking": [
+            "「They will」: they の /eɪ/ が will の /w/ に先行 [ðeɪ wɪl]→「ザイ ウィル」",
+            "「will be」: will は弱形 /wəl/ [wəl]→「ウル」、be の /b/ に先行 [wəl bi]→「ウル ビー」",
+            "「be injecting」: be は弱形 /bi/ [bi]→「ビー」、injecting の /ɪ/ に連結 [bi ɪnˈdʒɛk.tɪŋ]→「ビー インジェクティング」",
+            "「into the」: into は弱形 /ɪnə/、the は弱形 /ðə/ [ˈɪn.tu ðə]→「イナ ザ」"
+          ]
+        },
+        {
+          "en": "I'll be injecting power into the circuit for the next hour while monitoring the pressure gauge.",
+          "ja": "圧力計を監視しながら、次の1時間、回路に電力を注入し続けます。",
+          "ipa": "/aɪl bi ɪnˈdʒɛk.tɪŋ ˈpaʊ.ɚ ˈɪn.tu ðə ˈsɝ.kɪt fɚ ðə nɛkst ˈaʊ.ɚ waɪl ˈmɑn.ɪ.tɚ.ɪŋ ðə ˈpɹɛʃ.ɚ ˈɡeɪdʒ/",
+          "kana": "アイル ビー インジェクティング パワー イナ ザ サーキット フォー ザ ネクスト アワー ワイル モニタリング ザ プレッシャー ゲイジ",
+          "linking": [
+            "「I'll be」: I'll は縮約形 /aɪl/ [aɪl]→「アイル」、be の /b/ に先行 [aɪl bi]→「アイル ビー」",
+            "「be injecting」: be は弱形 /bi/ [bi]→「ビー」、injecting の /ɪ/ に連結 [bi ɪnˈdʒɛk.tɪŋ]→「ビー インジェクティング」",
+            "「power into」: power の語末 /ɚ/ が into の /ɪ/ に連結傾向、into は弱形 /ɪnə/ [ˈpaʊ.ɚ ˈɪn.tu]→「パワー イナ」",
+            "「for the」: for は弱形 /fɚ/ [fɚ]→「フォー」、the は弱形 /ðə/ [ðə]→「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have injected",
+      "ipa": "/wɪl həv ɪnˈdʒɛktɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, we will have injected all the materials into the system.",
+          "ja": "明朝までに、私たちはシステムにすべての材料を注入し終わっているでしょう。",
+          "ipa": "/baɪ təˈmɑ.roʊ ˈmɔɹ.nɪŋ wi wɪl həv ɪnˈdʒɛk.tɪd ɔl ðə məˈtɪɹ.i.əlz ˈɪn.tu ðə ˈsɪs.təm/",
+          "kana": "バイ タマロー モーニング ウィ ウィル ハヴ インジェクティド オール ザ マティリアルズ イナ ザ システム",
+          "linking": [
+            "「By tomorrow」: by /baɪ/ が tomorrow の /t/ に先行 [baɪ]→「バイ」、tomorrow は /tə/ で弱化傾向",
+            "「we will」: we は弱形 [wi]→「ウィ」、will に続く [wi wɪl]→「ウィ ウィル」",
+            "「will have」: will は弱形 /wəl/ [wəl]→「ウル」、have は弱形 /həv/ [wəl həv]→「ウル ハヴ」",
+            "「have injected」: have は弱形 /həv/ [həv]→「ハヴ」、injected の /ɪ/ に連結 [həv ɪnˈdʒɛk.tɪd]→「ハヴ インジェクティド」"
+          ]
+        },
+        {
+          "en": "Once the engine starts, it will have injected the entire fuel tank within thirty seconds.",
+          "ja": "エンジンが始まると、30秒以内にタンク全体の燃料を注入し終わっているでしょう。",
+          "ipa": "/wʌns ðə ˈɛn.dʒɪn stɑɹts ɪt wɪl həv ɪnˈdʒɛk.tɪd ðə ɪnˈtaɪ.ɚ ˈfju.əl ˈtæŋk wɪθ.ɪn ˈθɝ.ti ˈsɛk.əndz/",
+          "kana": "ワンス ザ エンジン スターツ イット ウィル ハヴ インジェクティド ザ エンタイアー フューエル タンク ウィズィン サーティ セカンズ",
+          "linking": [
+            "「Once the」: once は /wʌns/ [wʌns]→「ワンス」、the は子音前で弱形 /ðə/ [ðə]→「ザ」",
+            "「engine starts」: engine の語末 /n/ が starts の /s/ に先行、子音同士で接近 [ˈɛn.dʒɪn stɑɹts]→「エンジン スターツ」",
+            "「it will」: it の語末 /t/ が will の /w/ に先行 [ɪt̚ wɪl]→「イット ウィル」",
+            "「will have」: will は弱形 /wəl/、have は弱形 /həv/ [wəl həv]→「ウル ハヴ」"
+          ]
+        }
+      ]
     }
   ]
 }
