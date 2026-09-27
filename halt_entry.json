@@ -1,0 +1,336 @@
+{
+  "word": "halt",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/hɔlt/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "halt(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】停止する、中止する（…を停止させる～an operation, a process～）",
+    "【動詞】立ち止まる、歩みを止める（移動が止まる～to stop moving～）",
+    "【名詞】停止、停車点（停止の状態や地点～a stop, a stopping place～）"
+  ],
+  "examples": [
+    {
+      "en": "We need to halt the redstone mechanism before it causes damage.",
+      "ja": "ダメージが起きる前に、レッドストーン装置を停止させる必要があります。",
+      "ipa": "/wiː niːd tə ˈhɔlt ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm bɪˈfɔɹ ɪt ˈkɔzɪz ˈdæmɪdʒ/",
+      "linking": [
+        "弱形 /tə/（to）[tə] タ、語末子音 /t/ が未開放で /ð/ に接続（halt the） [ˈhɔl̪t̚ ðə] ホルッ ザ",
+        "弱形 /ðə/（the）[ðə] ザ",
+        "語末 /ɹ/ が母音 /ɪ/ に連結（before it） [bɪˈfɔɹɪt] ビフォーリッ"
+      ],
+      "kana": "ウィ ニード タ ホルッ ザ レッドストーン メカニズム ビフォーリッ コーズィズ ダメッジ"
+    },
+    {
+      "en": "The mining cart halted when it hit a wall.",
+      "ja": "採掘カートが壁に当たった時に停止しました。",
+      "ipa": "/ðə ˈmaɪnɪŋ kɑɹt ˈhɔltɪd wɛn ɪt hɪt ə wɔl/",
+      "linking": [
+        "弱形 /ðə/（the）[ðə] ザ",
+        "語末子音 /t/ が未開放で接続（cart halted・it hit） [kɑɹt̚ ˈhɔltɪd] [ɪt̚ hɪt̚] カルッ ホルテッド・イッ ヒッ",
+        "弱形 /ə/（a）[ə] ア"
+      ],
+      "kana": "ザ マイニング カルッ ホルテッド ウェン イッ ヒッ ア ウォル"
+    },
+    {
+      "en": "Call a halt to the digging and return to base!",
+      "ja": "採掘をやめて基地に戻ろう！",
+      "ipa": "/kɔl ə ˈhɔlt tə ðə ˈdɪɡɪŋ ənd rɪˈtɝn tə beɪs/",
+      "linking": [
+        "弱形 /ə/（a）と語末子音 /t/ が未開放で /t/ に接続（halt to） [ˈhɔl̪t̚ tə] ホルタ",
+        "弱形 /tə/（to）と /ðə/（the） [tə ðə] タ ザ",
+        "弱形 /ənd/（and）[ənd] アンド"
+      ],
+      "kana": "コール ア ホルタ ザ ディギング アンド リターン タ ベイス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "call a halt",
+      "ja": "停止を命じる、中止を呼びかける",
+      "example": "We called a halt to the mining when supplies ran low.",
+      "example_ja": "物資が不足した時、採掘を中止することを決めました。",
+      "ipa": "/wiː ˈkɔld ə ˈhɔlt tə ðə ˈmaɪnɪŋ wɛn səˈplaɪz ɹæn loʊ/",
+      "linking": [
+        "弱形 /ə/（a）と語末子音 /t/ が未開放で /t/ に接続（halt to） [ˈhɔl̪t̚ tə] ホルタ",
+        "弱形 /ðə/（the）[ðə] ザ",
+        "語末 /z/ が母音 /ɹ/ に連結（supplies ran） [səˈplaɪz ɹæn] サプライズ ラン"
+      ],
+      "kana": "ウィ コールド ア ホルタ ザ マイニング ウェン サプライズ ラン ロウ"
+    },
+    {
+      "idiom": "come to a halt",
+      "ja": "停止する、止まる",
+      "example": "The minecart came to a halt at the junction.",
+      "example_ja": "採掘カートが分岐点で停止しました。",
+      "ipa": "/ðə ˈmaɪnkɑɹt keɪm tə ə ˈhɔlt æt ðə ˈdʒʌŋkʃən/",
+      "linking": [
+        "弱形 /tə/, /ə/（to a） [tə ə] タ ア",
+        "語末子音 /t/ が未開放で /æ/ に接続（halt at） [ˈhɔl̪t̚ æt] ホルッ アット",
+        "弱形 /ðə/（the）[ðə] ザ"
+      ],
+      "kana": "ザ マインカート ケイム タ ア ホルッ アット ザ ジャンクション"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "halts",
+      "ipa": "/hɔlts/",
+      "examples": [
+        {
+          "en": "All emergency halts should be reported to the server administrator immediately.",
+          "ja": "すべての緊急停止は、直ちにサーバー管理者に報告する必要があります。",
+          "ipa": "[ɔl ɪˈmɝdʒənsi ˈhɔlts ʃəd bi rɪˈpɔɹtɪd tu ðə ˈsɝvɚ ˌædmɪnɪsˈtreɪtɚ ɪˈmiːdiətli]",
+          "linking": [
+            "All の語末 /l/ が emergency の初頭 /ɪ/ に連結 [ɔl ɪˈmɝdʒənsi] オール イマージェンシー",
+            "should の弱形 /ʃəd/ シュッド、be の弱形 /bi/ ビー",
+            "reported の語末 /d/ が to の初頭 /t/ の前で未開放 [rɪˈpɔɹtɪd̚ tu] レポーティッド トゥ",
+            "administrator の語末 /ɚ/ が immediately の初頭 /ɪ/ に連結 [ˌædmɪnɪsˈtreɪtɚ ɪˈmiːdiətli] アドミニストレイター イミーディエットリー"
+          ],
+          "kana": "オール イマージェンシー ホルツ シュッド ビー レポーティッド トゥ ザ サーバー アドミニストレイター イミーディエットリー"
+        },
+        {
+          "en": "Unexpected halts in the mining operation indicate a problem with the redstone circuit.",
+          "ja": "採掘操作の予期しない停止は、レッドストーン回路に問題があることを示しています。",
+          "ipa": "[ʌnɪkˈspɛktɪd ˈhɔlts ɪn ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən ˈɪndɪkeɪt ə ˈprɑbləm wɪð ðə ˈrɛdˌstoʊn ˈsɝkɪt]",
+          "linking": [
+            "Unexpected の語末 /d/ が halts の初頭 /h/ の前で未開放 [ʌnɪkˈspɛktɪd̚ ˈhɔlts] アンエクスペクティッド ホルツ",
+            "in の弱形 /ɪn/ イン、the の弱形 /ðə/ ザ"
+          ],
+          "kana": "アンエクスペクティッド ホルツ イン ザ マイニング アペレイション インディケイト ア プロブレム ウィズ ザ レッドストーン サーキット"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "halts",
+      "ipa": "/hɔlts/",
+      "examples": [
+        {
+          "en": "The command block halts all redstone signals when the lever is pulled.",
+          "ja": "レバーが引かれると、コマンドブロックはすべてのレッドストーン信号を停止します。",
+          "ipa": "[ðə kəˈmænd blɑk ˈhɔlts ɔl ˈrɛdˌstoʊn ˈsɪɡnəlz wɛn ðə ˈlevɚ ɪz ˈpʊld]",
+          "linking": [
+            "command の語末 /d/ が block の初頭 /b/ の前で未開放 [kəˈmænd̚ blɑk] コマンド ブラック",
+            "halts の語末 /ts/ が all の初頭 /ɔ/ に連結 [ˈhɔlts ɔl] ホルツ オール",
+            "redstone の語末 /n/ が signals の初頭 /s/ の前で未開放（子音+子音）",
+            "lever の語末 /ɚ/ が is の初頭 /ɪ/ に連結 [ˈlevɚ ɪz] レバー イズ"
+          ],
+          "kana": "ザ コマンド ブラック ホルツ オール レッドストーン シグナルズ ウェン ザ レバー イズ プールド"
+        },
+        {
+          "en": "The farm halts production when the output storage is completely full.",
+          "ja": "出力ストレージが完全にいっぱいになると、農場は生産を停止します。",
+          "ipa": "[ðə fɑɹm ˈhɔlts prəˈdʌkʃən wɛn ðə ˈaʊtˌpʊt ˈstɔɹɪdʒ ɪz kəmˈplitli fʊl]",
+          "linking": [
+            "farm の語末 /m/ が halts の初頭 /h/ の前で未開放 [fɑɹm̚ ˈhɔlts] ファーム ホルツ",
+            "halts の語末 /ts/ が production の初頭 /p/ の前で未開放（子音+子音）",
+            "output の語末 /t/ が storage の初頭 /s/ の前で未開放（子音+子音）",
+            "storage の語末 /dʒ/ が is の初頭 /ɪ/ に... 子音+子音なので通常は分離"
+          ],
+          "kana": "ザ ファーム ホルツ プロダクション ウェン ザ アウトプット ストレージ イズ コンプリートリー フル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "halted",
+      "ipa": "/ˈhɔltəd/",
+      "examples": [
+        {
+          "en": "We halted the entire operation when water flooded the lower mining levels.",
+          "ja": "水が下層の採掘レベルに流れ込んできたとき、私たちは全体の操作を停止しました。",
+          "ipa": "[wi ˈhɔltəd ðə ɪnˈtaɪɚ ˌɑpəˈreɪʃən wɛn ˈwɔtɚ ˈflʌdɪd ðə ˈloʊɚ ˈmaɪnɪŋ ˈlɛvəlz]",
+          "linking": [
+            "We は弱形 /wi/ ウィー",
+            "halted の語末 /d/ が the の初頭 /ð/ の前で未開放 [ˈhɔltəd̚ ðə] ホルティッド ザ",
+            "operation の語末 /n/ が when の初頭 /w/ の前で未開放（子音+子音）オペレーション ウェン",
+            "mining の語末 /ŋ/ が levels の初頭 /l/ の前で未開放（子音+子音）"
+          ],
+          "kana": "ウィー ホルティッド ザ インタイア アペレイション ウェン ウォター フラッディド ザ ロウアー マイニング レベルズ"
+        },
+        {
+          "en": "The automatic door halted mid-opening when the pressure plate activated unexpectedly.",
+          "ja": "圧力プレートが予期せずに起動したとき、自動ドアは半開きで停止しました。",
+          "ipa": "[ðə ˌɔtəˈmætɪk dɔr ˈhɔltəd ˈmɪd ˈoʊpənɪŋ wɛn ðə ˈprɛʃɚ ˈpleɪt ˈæktɪˌveɪtɪd ʌnɪkˈspɛktədli]",
+          "linking": [
+            "automatic の語末 /k/ が door の初頭 /d/ の前で未開放 [ˌɔtəˈmætɪk̚ dɔr] オートマティック ドア",
+            "door の語末 /r/ が halted の初頭 /h/ に連結 [dɔr ˈhɔltəd] ドー ホルティッド",
+            "halted の語末 /d/ が mid の初頭 /m/ の前で未開放 [ˈhɔltəd̚ ˈmɪd] ホルティッド ミッド",
+            "plate の語末 /t/ が activated の初頭 /æ/ の前で未開放（子音+母音だが未開放）[ˈpleɪt̚ ˈæktɪˌveɪtɪd] プレイット アクティベイティッド"
+          ],
+          "kana": "ザ オートマティック ドア ホルティッド ミッド オウペニング ウェン ザ プレッシャー プレイット アクティベイティッド アンエクスペクティッドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "halted",
+      "ipa": "/ˈhɔltəd/",
+      "examples": [
+        {
+          "en": "Having halted the quarry work, the foreman inspected the site for safety issues.",
+          "ja": "採石場の仕事を停止した後、フォアマンは安全上の問題がないか現場を検査しました。",
+          "ipa": "[ˈhævɪŋ ˈhɔltəd ðə ˈkwɔri wɝk ðə ˈfɔɹmən ɪnˈspɛktɪd ðə saɪt fɔr ˈseɪfti ˈɪʃuz]",
+          "linking": [
+            "Having の語末 /ŋ/ が halted の初頭 /h/ の前で未開放（子音+子音）ハヴィング ホルティッド",
+            "halted の語末 /d/ が the の初頭 /ð/ の前で未開放 [ˈhɔltəd̚ ðə] ホルティッド ザ",
+            "quarry の語末 /i/ が work の初頭 /w/ に... 母音+子音なので通常は分離 クオーリー ワーク",
+            "foreman の語末 /n/ が inspected の初頭 /ɪ/ に連結 [ˈfɔɹmən ɪnˈspɛktɪd] フォアメン インスペクティッド"
+          ],
+          "kana": "ハヴィング ホルティッド ザ クオーリー ワーク ザ フォアメン インスペクティッド ザ サイト フォー セイフティ イシューズ"
+        },
+        {
+          "en": "The process had halted before we could save our progress to the cloud storage.",
+          "ja": "クラウドストレージに進捗を保存する前に、プロセスは停止していました。",
+          "ipa": "[ðə ˈprɑsɛs hæd ˈhɔltəd bɪˈfɔr wi kəd seɪv aʊɚ ˈprɑɡrɛs tu ðə ˈklaʊd ˈstɔɹɪdʒ]",
+          "linking": [
+            "process の語末 /s/ が had の初頭 /h/ の前で未開放（子音+子音）プロセス ハッド",
+            "had の語末 /d/ が halted の初頭 /h/ の前で未開放 [hæd̚ ˈhɔltəd] ハッド ホルティッド",
+            "before の語末 /r/ が we の初頭 /w/ の前で未開放（子音+子音）",
+            "could の弱形 /kəd/ カッド"
+          ],
+          "kana": "ザ プロセス ハッド ホルティッド ビフォア ウィー カッド セイブ アワー プログレス トゥ ザ クラウド ストレージ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "halting",
+      "ipa": "/ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "Halting the conveyor belt requires pulling the emergency stop lever with force.",
+          "ja": "コンベアベルトを停止させるには、緊急停止レバーを力強く引く必要があります。",
+          "ipa": "[ˈhɔltɪŋ ðə kənˈveɪɚ bɛlt rɪˈkwaɪɚz ˈpʊlɪŋ ðə ɪˈmɝdʒənsi ˈstɑp ˈlevɚ wɪð fɔrs]",
+          "linking": [
+            "Halting の語末 /ŋ/ が the の初頭 /ð/ の前で未開放 [ˈhɔltɪŋ̚ ðə] ホルティング ザ",
+            "conveyor の語末 /ɚ/ が belt の初頭 /b/ の前で未開放（子音+子音）コンベイアー ベルト",
+            "requires の語末 /z/ が pulling の初頭 /p/ の前で未開放（子音+子音）",
+            "stop の語末 /p/ が lever の初頭 /l/ の前で未開放（子音+子音）ストップ レバー"
+          ],
+          "kana": "ホルティング ザ コンベイアー ベルト リクワイアーズ プーリング ザ イマージェンシー ストップ レバー ウィズ フォース"
+        },
+        {
+          "en": "Without halting the farm's production, we cannot prevent the storage from overflowing.",
+          "ja": "農場の生産を停止することなく、ストレージのオーバーフローを防ぐことはできません。",
+          "ipa": "[wɪðˈaʊt ˈhɔltɪŋ ðə fɑrmz prəˈdʌkʃən wi ˈkænət prɪˈvɛnt ðə ˈstɔɹɪdʒ frəm ˌoʊvɚˈfloʊɪŋ]",
+          "linking": [
+            "Without の語末 /t/ が halting の初頭 /h/ の前で未開放 [wɪðˈaʊt̚ ˈhɔltɪŋ] ウィザウト ホルティング",
+            "halting の語末 /ŋ/ が the の初頭 /ð/ の前で未開放 [ˈhɔltɪŋ̚ ðə] ホルティング ザ",
+            "farm's の語末 /z/ が production の初頭 /p/ の前で未開放（子音+子音）",
+            "from の弱形 /frəm/ フラム、overflowing の語末 /ŋ/ は文末"
+          ],
+          "kana": "ウィザウト ホルティング ザ ファームズ プロダクション ウィー キャンノット プリベント ザ ストレージ フラム オーバーフローイング"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is halting",
+      "ipa": "/ɪz ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone signal is halting abruptly, causing the piston to jam.",
+          "ja": "レッドストーン信号が急に停止しており、ピストンが引っかかっている。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl ɪz ˈhɔltɪŋ əˈbrʌptli ˈkɔzɪŋ ðə ˈpɪstən tu dʒæm/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "signal の語末 /l/ が is の /ɪ/ に連結 [ˈsɪɡnəl ɪz] シグナル イズ；is は弱形 /ɪz/",
+            "halting の語末 /ŋ/ が abruptly の /ə/ に連結 [ˈhɔltɪŋ əˈbrʌptli] ホルティング ァブラプトリー",
+            "piston の語末 /n/ が to の /t/ に連結 [ˈpɪstən tu] ピストン トゥ；to は弱形 /tə/ か /tu/"
+          ],
+          "kana": "ザ レッドストーン シグナル イズ ホルティング ァブラプトリー コーズィング ザ ピストン トゥ ジャム"
+        },
+        {
+          "en": "I'm halting the water flow to prevent the farm from overflowing.",
+          "ja": "農場がオーバーフローするのを防ぐために、水の流れを停止させている。",
+          "ipa": "/aɪm ˈhɔltɪŋ ðə ˈwɔtɚ floʊ tu prɪˈvɛnt ðə fɑɹm frəm ˌoʊvɚˈfloʊɪŋ/",
+          "linking": [
+            "I'm は /aɪm/ [アイム]；am は弱形 /əm/ だが I + am で /aɪm/",
+            "halting の語末 /ŋ/ が the の /ð/ に連結 [ˈhɔltɪŋ ðə] ホルティング ザ",
+            "water の語末 /ɚ/ が flow の /f/ に連結 [ˈwɔtɚ floʊ] ウォーター フロー",
+            "to は弱形 /tə/ [タ]；farm の語末 /m/ が from の /f/ に連結 [fɑɹm frəm] ファーム フラム；from は弱形 /frəm/"
+          ],
+          "kana": "アイム ホルティング ザ ウォーター フロー タ プリベント ザ ファーム フラム オーバーフローイング"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was halting",
+      "ipa": "/wəz ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The conveyor belt was halting when the power went out.",
+          "ja": "電源が切れた時、コンベアベルトが停止しかけていた。",
+          "ipa": "/ðə kənˈveɪɚ bɛlt wəz ˈhɔltɪŋ wɛn ðə ˈpaʊɚ wɛnt aʊt/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "conveyor の語末 /ɚ/ が belt の /b/ に連結 [kənˈveɪɚ bɛlt] コンベイアー ベルト",
+            "belt の語末 /t/ が was の /w/ に連結 [bɛlt̚ wəz] ベルット ワズ；was は弱形 /wəz/",
+            "halting の語末 /ŋ/ が when の /w/ に連結 [ˈhɔltɪŋ wɛn] ホルティング ウェン"
+          ],
+          "kana": "ザ コンベイアー ベルト ワズ ホルティング ウェン ザ パウアー ウェント アウト"
+        },
+        {
+          "en": "We were halting the mining operation due to the cave collapse.",
+          "ja": "洞窟の崩落のため、採掘操作を停止させていた。",
+          "ipa": "/wi wɚ ˈhɔltɪŋ ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃən ˈdu tu ðə keɪv kəˈlæps/",
+          "linking": [
+            "we は /wi/ [ウィ]",
+            "were は弱形 /wɚ/ [ワー]",
+            "halting の語末 /ŋ/ が the の /ð/ に連結 [ˈhɔltɪŋ ðə] ホルティング ザ",
+            "operation の語末 /n/ が due の /d/ に連結 [ˌɑpəˈreɪʃən ˈdu] オペレーション デュー；to は弱形 /tə/ [タ]"
+          ],
+          "kana": "ウィ ワー ホルティング ザ マイニング オペレーション デュー タ ザ ケイブ コラップス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been halting",
+      "ipa": "/həd bɪn ˈhɔltɪŋ/",
+      "examples": [
+        {
+          "en": "The system had been halting repeatedly before we found the problem.",
+          "ja": "私たちが問題を見つける前に、システムは何度も停止していた。",
+          "ipa": "/ðə ˈsɪstəm həd bɪn ˈhɔltɪŋ rɪˈpitɪdli bɪˈfɔr wi faʊnd ðə ˈprɑbləm/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "system の語末 /m/ が had の /h/ に連結 [ˈsɪstəm həd] システム ハド；had は弱形 /həd/",
+            "been は弱形 /bɪn/ [ビン]；halting の語末 /ŋ/ が repeatedly の /r/ に連結 [bɪn ˈhɔltɪŋ rɪˈpitɪdli] ビン ホルティング リピーティッドリー",
+            "before の語末 /r/ が we の /w/ に連結 [bɪˈfɔr wi] ビフォア ウィ"
+          ],
+          "kana": "ザ システム ハド ビン ホルティング リピーティッドリー ビフォア ウィ ファウンド ザ プロブレム"
+        },
+        {
+          "en": "The barrier had been halting movement for too long.",
+          "ja": "バリアは長い間、移動を停止させ続けていた。",
+          "ipa": "/ðə ˈbæɹiɚ həd bɪn ˈhɔltɪŋ ˈmuvmənt fɔr tu lɔŋ/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]",
+            "barrier の語末 /ɚ/ が had の /h/ に連結 [ˈbæɹiɚ həd] バリアー ハド；had は弱形 /həd/",
+            "been は弱形 /bɪn/ [ビン]",
+            "halting の語末 /ŋ/ が movement の /m/ に連結 [ˈhɔltɪŋ ˈmuvmənt] ホルティング ムーブメント；for は弱形 /fər/"
+          ],
+          "kana": "ザ バリアー ハド ビン ホルティング ムーブメント ファー トゥ ロング"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ]
+}
