@@ -1,0 +1,409 @@
+{
+  "word": "quest",
+  "rank": 0,
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/kwɛst/",
+  "level": "B1",
+  "hi": "quest(?:ing|ed|s)?",
+  "meanings": [
+    "【名詞】冒険や探索における特定の目標、または目的地への旅（…adventure）",
+    "【名詞】ゲーム内の特定の任務・ミッション（…a game quest）",
+    "【動詞】~を求める・探す（seek、look for）"
+  ],
+  "examples": [
+    {
+      "en": "You need a new quest to complete.",
+      "ipa": "/ju ˈniːd ə ˈnu ˈkwɛst tə kəmˈplit/",
+      "linking": [
+        "語末子音 /d/ が母音 /ə/ に連結 [ˈniːd ə] ニーダ",
+        "機能語「to」は弱形 /tə/ に弱化、/t/ が /k/ に先行 [kwɛst tə] クエスト（一つの /t/ に聞こえる）",
+        "「complete」の /t/ が母音に挟まれてflap化 [kəmˈpliɾ] コムプリア"
+      ],
+      "kana": "ユー ニーダ ニュー クエスト タ コムプリット"
+    },
+    {
+      "en": "We're on a quest for diamonds and emeralds.",
+      "ipa": "/wir ɑn ə kwɛst fɔr ˈdaɪməndz ən ɛˈmɛrəldz/",
+      "linking": [
+        "弱形 /ə/ が次の子音に先行し、「on a quest」で /ə/ が次の /k/ に連なる [ɑn ə kwɛst] オナ クエスト",
+        "「for」は弱形 /fər/ に弱化し、語末の /ɾ/ が次の母音に連結 [ˈkwɛst fər ˈdaɪ-] クエス ファー ダイ",
+        "機能語「and」は弱形 /ən/ に弱化 [ən ɛˈmɛrəldz] アン エメラルズ"
+      ],
+      "kana": "ウィア オナ クエスト ファー ダイモンズ アン エメラルズ"
+    },
+    {
+      "en": "This quest requires climbing to the surface.",
+      "ipa": "/ðɪs kwɛst rɪˈkwaɪrz ˈklaɪmɪŋ tu ðə ˈsɜrfɪs/",
+      "linking": [
+        "機能語「to」は弱形 /tə/ に弱化し母音に先行 [ˈklaɪmɪŋ tə ðə] クライミング タ ザ",
+        "弱形「the」/ðə/ が次の子音音の前でも語頭 /s/ に先行 [tu ðə ˈsɜr-] タ ザ サー",
+        "「surface」の /ɜr/ が /f/ に先行する子音連結により発音は [ˈsɜrfɪs] サーフィス"
+      ],
+      "kana": "ディス クエスト リクワイアーズ クライミング タ ザ サーフィス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "on a quest",
+      "ja": "冒険の旅をしている、目標を追求している",
+      "example": "We are on a quest to find the legendary ancient city.",
+      "example_ja": "私たちは伝説的な古い都市を探す冒険の旅をしている。",
+      "ipa": "/wi ɑr ɑn ə kwɛst tu faɪnd ðə ˈlɛdʒənˌɛri ˈeɪnʃənt ˈsɪti/",
+      "linking": [
+        "弱形 /ə/ が次の /k/ に連結 [ɑn ə kwɛst] オナ クエスト",
+        "機能語「to」の弱形 /tə/ が母音に連結 [kwɛst tu faɪnd] クエスト タ ファインド",
+        "「the」の弱形 /ðə/ が次の /l/ に先行 [tu ðə ˈlɛ-] ター ザ レジェンドリー"
+      ],
+      "kana": "ウィ アロン ア クエスト ター ファインド ザ レジェンドリー エイシャント シティ"
+    },
+    {
+      "idiom": "quest for",
+      "ja": "~を求める、~を探す",
+      "example": "Our quest for rare enchantments never ends.",
+      "example_ja": "希少なエンチャントを求める私たちの冒険は決して終わらない。",
+      "ipa": "/ˈaʊr kwɛst fɔr ˈrɛr ɛnˈtʃæntmənts ˈnɛvər ˈɛndz/",
+      "linking": [
+        "「for」の弱形 /fər/ が次の /r/ に連結、/ɾ/ で一音化 [kwɛst fər ˈrɛr] クエス ファー レア",
+        "連続する母音 /ə/ + /ɛ/ で弱形 /ən/ の /n/ が語末で [entʃæntmənts] エンチャントメンツ",
+        "語末の /z/ が文末で未開放気味に発音 [ˈɛndz] エンズ"
+      ],
+      "kana": "アワー クエスト フォア レア エンチャントメンツ ネバー エンズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "quests",
+      "ipa": "/kwɛsts/",
+      "examples": [
+        {
+          "en": "The server has many quests available.",
+          "ipa": "/ðə ˈsɜrvər ˈhæz ˈmɛni ˈkwɛsts əˈvɛləbəl/",
+          "linking": [
+            "弱形「the」/ðə/ が次の子音 /s/ に先行 [ðə ˈsɜr-] ザ サーバー",
+            "「has」の /z/ が次の母音に連結 [ˈhæz ˈmɛ-] ハズ メニー",
+            "「available」の語末 /l/ が文末で [əˈvɛləbəl] ア ベイラブル"
+          ],
+          "kana": "ザ サーバー ハズ メニー クエスツ ア ベイラブル"
+        },
+        {
+          "en": "Complete all quests to unlock achievements.",
+          "ipa": "/kəmˈplit ɔl ˈkwɛsts tu ʌnˈlɑk əˈtʃiːvmənts/",
+          "linking": [
+            "「complete」の /t/ が母音に挟まれてflap化 [kəmˈpliɾ] コムプリット",
+            "「all」/ɔl/ が次の /k/ に先行 [ɔl ˈkwɛsts] オール クエスツ",
+            "機能語「to」の弱形 /tə/ が次の /ʌ/ に先行 [ˈkwɛsts tu ʌnˈ] クエスツ タ アンロック"
+          ],
+          "kana": "コムプリット オール クエスツ ター アンロック ア チーブメンツ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "quests",
+      "ipa": "/kwɛsts/",
+      "examples": [
+        {
+          "en": "She quests for diamonds in the deep caves.",
+          "ipa": "/ʃi ˈkwɛsts fɔr ˈdaɪməndz ɪn ðə ˈdip keɪvz/",
+          "linking": [
+            "語末の /i/ が次の /k/ に連結 [ʃi ˈkwɛsts] シー クエスツ",
+            "「for」の弱形 /fər/ が次の /d/ に連結、/ɾ/ で一音化 [ˈkwɛsts fər ˈdaɪ-] クエスツ フォア ダイモンズ",
+            "「the」の弱形 /ðə/ が次の子音 /d/ に先行 [ɪn ðə ˈdip] イン ザ ディープ"
+          ],
+          "kana": "シー クエスツ フォア ダイモンズ イン ザ ディープ ケイブズ"
+        },
+        {
+          "en": "The village elder quests for rare ingredients.",
+          "ipa": "/ðə ˈvɪlɪdʒ ˈɛldər ˈkwɛsts fɔr ˈrɛr ˈɪŋɡriːdiənts/",
+          "linking": [
+            "弱形「the」/ðə/ が次の /v/ に先行 [ðə ˈvɪ-] ザ ヴィリッジ",
+            "「elder」の語末 /ər/ が次の /k/ に連結、flap化 [ˈɛldər ˈkwɛsts] エルダー クエスツ",
+            "「for」の弱形 /fər/ が次の /r/ に連結 [ˈkwɛsts fər ˈrɛr] クエスツ フォア レア"
+          ],
+          "kana": "ザ ヴィリッジ エルダー クエスツ フォア レア イングリーディエンツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "quested",
+      "ipa": "/ˈkwɛstəd/",
+      "examples": [
+        {
+          "en": "We quested through the Nether for two hours.",
+          "ipa": "/wi ˈkwɛstəd θru ðə ˈnɛðər fɔr tu ˈaʊərz/",
+          "linking": [
+            "語末の /i/ が次の /k/ に連結 [wi ˈkwɛstəd] ウィー クエスティッド",
+            "「quested」の /d/ が /θ/ に先行、未開放 [ˈkwɛstəd θru] クエステッド スルー",
+            "「the」の弱形 /ðə/ が次の子音 /n/ に先行 [ðə ˈnɛ-] ザ ネザー"
+          ],
+          "kana": "ウィー クエスティッド スルー ザ ネザー フォー トゥー アワーズ"
+        },
+        {
+          "en": "They quested for the End frame but failed.",
+          "ipa": "/ðeɪ ˈkwɛstəd fɔr ðə ɛnd freɪm bət ˈfeɪld/",
+          "linking": [
+            "語末の /eɪ/ が次の /k/ に連結 [ðeɪ ˈkwɛstəd] ゼイ クエスティッド",
+            "「for」の弱形 /fər/ が次の /ð/ に先行 [ˈkwɛstəd fər ðə] クエスティッド フォー ザ",
+            "「but」/bət/ が次の /f/ に先行、未開放 [bət ˈfeɪld] バッ フェイルド"
+          ],
+          "kana": "ゼイ クエスティッド フォー ザ エンド フレイム バッ フェイルド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "quested",
+      "ipa": "/ˈkwɛstəd/",
+      "examples": [
+        {
+          "en": "Having quested so long, we finally found it.",
+          "ipa": "/ˈhævɪŋ ˈkwɛstəd soʊ lɔŋ wi ˈfaɪnəli ˈfaʊnd ɪt/",
+          "linking": [
+            "「having」の /ŋ/ が次の /k/ に先行、未開放 [ˈhævɪŋ ˈkwɛstəd] ハービング クエスティッド",
+            "「long」の /ŋ/ が次の /w/ に先行 [lɔŋ wi] ロング ウィー",
+            "「found」の /d/ が次の /ɪ/ に連結 [ˈfaʊnd ɪt] ファウンディット"
+          ],
+          "kana": "ハービング クエスティッド ソー ロング ウィー ファイナリー ファウンディット"
+        },
+        {
+          "en": "The players who quested hardest earned top rewards.",
+          "ipa": "/ðə ˈpleɪərz hu ˈkwɛstəd ˈhɑrdəst ˈɜrnd tɑp rɪˈwɔrdz/",
+          "linking": [
+            "弱形「the」/ðə/ が次の /p/ に先行 [ðə ˈpleɪərz] ザ プレイアーズ",
+            "「who」/hu/ が次の /k/ に連結 [hu ˈkwɛstəd] フー クエスティッド",
+            "「top」の /p/ が次の /r/ に先行 [tɑp rɪˈwɔrdz] タップ リワーズ"
+          ],
+          "kana": "ザ プレイアーズ フー クエスティッド ハーダスト アーンド タップ リワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "questing",
+      "ipa": "/ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "We're questing for enchanted books in libraries.",
+          "ipa": "/wir ˈkwɛstɪŋ fɔr ɛnˈtʃæntɪd ˈbʊks ɪn ˈlaɪbrɛriz/",
+          "linking": [
+            "「we're」/wir/ の /r/ が次の /k/ に連結 [wir ˈkwɛstɪŋ] ウィア クエスティング",
+            "「for」の弱形 /fər/ が次の /ɛ/ に先行 [ˈkwɛstɪŋ fər ɛnˈ] クエスティング フォア エンチャンティッド",
+            "「in」の /n/ が次の /l/ に先行 [ɪn ˈlaɪbrɛriz] イン ライブレリーズ"
+          ],
+          "kana": "ウィア クエスティング フォア エンチャンティッド ブックス イン ライブレリーズ"
+        },
+        {
+          "en": "They are questing together to find the stronghold.",
+          "ipa": "/ðeɪ ɑr ˈkwɛstɪŋ təˈɡɛðər tu ˈfaɪnd ðə ˈstrɔŋhoʊld/",
+          "linking": [
+            "「are」/ɑr/ の /r/ が次の /k/ に連結 [ɑr ˈkwɛstɪŋ] アー クエスティング",
+            "「together」/tə-/ の弱形と /ɪŋ/ で /ŋ/ が /t/ に先行、未開放 [ˈkwɛstɪŋ təˈɡɛðər] クエスティング タゲザー",
+            "機能語「to」/tə/ の弱形が次の /f/ に先行 [tu ˈfaɪnd] ター ファインド"
+          ],
+          "kana": "ゼイ アー クエスティング タゲザー ター ファインド ザ ストロングホールド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + ing）",
+      "text": "is questing",
+      "ipa": "/ɪz ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "She is questing for rare diamonds deep underground.",
+          "ja": "彼女は地下深くで希少なダイヤを探す冒険をしている。",
+          "ipa": "/ʃi ɪz ˈkwɛstɪŋ fɔr ˈrɛr ˈdaɪmənz dip ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/、「イズ」",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "questing の語末 /ŋ/ が rare の初頭母音 /r/ に先行（しかし /r/ は半母音なので厳密には先行）[ˈkwɛstɪŋ fər ˈrɛr]、連結効果は限定的"
+          ],
+          "kana": "シー イズ クエスティング ファー レア ダイモンズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "We are questing across all biomes for the perfect base location.",
+          "ja": "私たちはすべてのバイオーム全体で完全な基地の場所を探す冒険をしている。",
+          "ipa": "/wi ɑr ˈkwɛstɪŋ əˈkrɔs ɔl ˈbaɪoʊmz fɔr ðə ˈpɝfɪkt ˈbeɪs ˈloʊˌkeɪʃən/",
+          "linking": [
+            "are は助動詞で弱形 /ɑr/、「アー」",
+            "questing の語末 /ŋ/ が across の初頭母音 /ə/ に連結 [ˈkwɛstɪŋ ə] クエスティング ア",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ウィ アー クエスティング ア クロース オール バイオームズ ファー ザ パーフィクト ベイス ロウケーション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + ing）",
+      "text": "was questing",
+      "ipa": "/wəz ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I was questing for ore when the creeper suddenly appeared.",
+          "ja": "鉱石を探す冒険をしていた時、クリーパーが突然現れた。",
+          "ipa": "/aɪ wəz ˈkwɛstɪŋ fɔr ɔr wɛn ðə ˈkɹiːpər ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was は助動詞で弱形 /wəz/、「ワズ」",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "the は冠詞で弱形 /ðə/、「ザ」",
+            "creeper の語末 r-色彩音 /ɚ/ が appeared の初頭 /ə/ に連結 [ˈkɹiːpər ə] クリーパー ァピアド"
+          ],
+          "kana": "アイ ワズ クエスティング ファー オア ウェン ザ クリーパー サドンリー ァピアド"
+        },
+        {
+          "en": "They were questing together when the dragon started attacking.",
+          "ja": "彼らは一緒に冒険をしていた時、ドラゴンが攻撃を開始した。",
+          "ipa": "/ðeɪ wɚ ˈkwɛstɪŋ təˈɡɛðər wɛn ðə ˈdɹæɡən ˈstɑrtəd əˈtækɪŋ/",
+          "linking": [
+            "were は助動詞で弱形 /wɚ/、「ワー」",
+            "together の語末 /ɚ/ が when の /w/ に先行、子音-子音で未開放 [təˈɡɛðər wɛn]、「タゲザー ウェン」",
+            "the は冠詞で弱形 /ðə/、「ザ」",
+            "started の /d/ が attacking の /ə/ に連結 [ˈstɑrtəd ə] スターティッド ァ"
+          ],
+          "kana": "ゼイ ワー クエスティング タゲザー ウェン ザ ドラゴン スターティッド ァ タッキング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + ing）",
+      "text": "had been questing",
+      "ipa": "/həd bɪn ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "We had been questing for hours before we finally discovered the stronghold.",
+          "ja": "私たちは何時間も冒険をしていて、やっと砦を発見した。",
+          "ipa": "/wi həd bɪn ˈkwɛstɪŋ fɔr ˈaʊərz bɪˈfoɹ wi ˈfaɪnəli dɪˈskʌvərd ðə ˈstrɔŋhoʊld/",
+          "linking": [
+            "had は過去助動詞で弱形 /həd/、「ハド」",
+            "been は補助動詞で弱形 /bɪn/、「ビン」",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ウィ ハド ビン クエスティング ファー アワーズ ビフォア ウィ ファイナリー ディスカバード ザ ストロングホールド"
+        },
+        {
+          "en": "She had been questing across all dimensions when they finally called her back.",
+          "ja": "彼女はすべての次元を横切って冒険をしていて、やっと彼らが彼女を呼び戻した。",
+          "ipa": "/ʃi həd bɪn ˈkwɛstɪŋ əˈkrɔs ɔl dɪˈmɛnʃənz wɛn ðeɪ ˈfaɪnəli kɔld hɚ bæk/",
+          "linking": [
+            "had は過去助動詞で弱形 /həd/、「ハド」",
+            "been は補助動詞で弱形 /bɪn/、「ビン」",
+            "questing の語末鼻音 /ŋ/ が across の初頭母音 /ə/ に連結 [ˈkwɛstɪŋ ə] クエスティング ア",
+            "when の後、called の /d/ が her の /h/ に先行、子音-子音で未開放、「コールド ハー」"
+          ],
+          "kana": "シー ハド ビン クエスティング ア クロース オール ディメンションズ ウェン ゼイ ファイナリー コールド ハー バック"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has quested",
+      "ipa": "/həz ˈkwɛstəd/",
+      "examples": [
+        {
+          "en": "He has quested through lava caves without taking damage.",
+          "ja": "彼は溶岩の洞窟を冒険して、ダメージを受けずにクエストを進めた。",
+          "ipa": "/hi həz ˈkwɛstəd θru ˈlɑvə keɪvz wɪðˈaʊt ˈteɪkɪŋ ˈdæmɪdʒ/",
+          "linking": [
+            "has は助動詞で弱形 /həz/、「ハズ」",
+            "quested の /d/ が through の /θ/ に先行、未開放 [ˈkwɛstəd θru] クエスティッド スルー",
+            "lava の語末 /ə/ が caves の初頭 /k/ に先行 [ˈlɑvə ˈkeɪvz] ラーバ ケイブズ",
+            "without の語末 /t/ が taking の /t/ に先行し、未開放 [wɪðˈaʊt ˈteɪk] ウィザウッ テイキング"
+          ],
+          "kana": "ヒー ハズ クエスティッド スルー ラーバ ケイブズ ウィザウッ テイキング ダメッジ"
+        },
+        {
+          "en": "We have quested for diamonds since we joined the server.",
+          "ja": "私たちはサーバーに参加してからダイヤを求めて冒険している。",
+          "ipa": "/wi həv ˈkwɛstəd fɔr ˈdaɪməndz sɪns wi dʒɔɪnd ðə ˈsɜrvər/",
+          "linking": [
+            "have は助動詞で弱形 /həv/、「ハヴ」",
+            "quested の /d/ が for の /f/ に先行、未開放 [ˈkwɛstəd fɔr] クエスティッド フォア",
+            "since の /s/ が we の /w/ に先行 [sɪns wi] シンス ウィー",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ウィ ハヴ クエスティッド フォア ダイモンズ シンス ウィ ジョインド ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had quested",
+      "ipa": "/həd ˈkwɛstəd/",
+      "examples": [
+        {
+          "en": "By the time we logged in, they had quested across every biome.",
+          "ja": "私たちがログインした時点で、彼らはすべてのバイオームをクエストで探索していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈlɑɡd ɪn ðeɪ həd ˈkwɛstəd əˈkrɔs ˈɛvri ˈbaɪoʊm/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、「ザ」",
+            "logged の /d/ が in の /ɪ/ に連結 [ˈlɑɡd ɪn] ラッギッド イン",
+            "had は過去助動詞で弱形 /həd/、「ハド」",
+            "quested の /d/ が across の /ə/ に連結 [ˈkwɛstəd ə] クエスティッド ア"
+          ],
+          "kana": "バイ ザ タイム ウィ ログディン ゼイ ハド クエスティッド ア クロース エブリ バイオーム"
+        },
+        {
+          "en": "She had quested for enchanted books before the library burned down.",
+          "ja": "彼女は図書館が燃える前に、エンチャント本を求めてクエストしていた。",
+          "ipa": "/ʃi həd ˈkwɛstəd fɔr ɛnˈtʃæntəd ˈbʊks bɪˈfoɹ ðə ˈlaɪbrɛri ˈbɜrnd daʊn/",
+          "linking": [
+            "had は過去助動詞で弱形 /həd/、「ハド」",
+            "quested の /d/ が for の /f/ に先行、未開放 [ˈkwɛstəd fɔr] クエスティッド フォア",
+            "before の語末 /r/ が the の /ð/ に先行 [bɪˈfoɹ ðə] ビフォー ザ",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "シー ハド クエスティッド フォア エンチャンティッド ブックス ビフォー ザ ライブレリー バーンド ダウン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + ing）",
+      "text": "has been questing",
+      "ipa": "/həz bɪn ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I have been questing for the perfect base location all week.",
+          "ja": "私は1週間ずっと完璧な基地の場所を探し求めて冒険をしている。",
+          "ipa": "/aɪ həv bɪn ˈkwɛstɪŋ fɔr ðə ˈpɝfɪkt ˈbeɪs loʊˈkeɪʃən ɔl wik/",
+          "linking": [
+            "have は助動詞で弱形 /həv/、「ハヴ」",
+            "been は補助動詞で弱形 /bɪn/、「ビン」",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "the は冠詞で弱形 /ðə/、「ザ」",
+            "all の /l/ が week の /w/ に先行 [ɔl wik] オール ウィーク"
+          ],
+          "kana": "アイ ハヴ ビン クエスティング ファー ザ パーフィクト ベイス ロウケーション オール ウィーク"
+        },
+        {
+          "en": "He has been questing for rare drops for three days straight.",
+          "ja": "彼は3日間ずっとレアドロップを求めて冒険をしている。",
+          "ipa": "/hi həz bɪn ˈkwɛstɪŋ fɔr ˈrɛr drɑps fɔr θɹi ˈdeɪz streɪt/",
+          "linking": [
+            "has は助動詞で弱形 /həz/、「ハズ」",
+            "been は補助動詞で弱形 /bɪn/、「ビン」",
+            "for は前置詞で弱形 /fər/、「ファー」",
+            "rare の /r/ が drops の /d/ に先行 [ˈrɛr drɑps] レア ドロップス",
+            "for は前置詞で弱形 /fər/、「ファー」"
+          ],
+          "kana": "ヒー ハズ ビン クエスティング ファー レア ドロップス ファー スリー デイズ ストレイト"
+        }
+      ]
+    }
+  ]
+}
