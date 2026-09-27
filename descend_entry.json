@@ -381,6 +381,96 @@
           "kana": "バイ ザ タイム シー アライヴド ザイ ハド ビン ディセンディング イントゥー ザ ラヴィーン ファー オルモウスト トゥエンティ ミニッツ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will descend",
+      "ipa": "/wɪl dɪˈsɛnd/",
+      "examples": [
+        {
+          "en": "I'll descend into the mine shaft to search for diamonds and rare ores.",
+          "ja": "私はダイヤモンドと珍しい鉱石を探すためにマイン・シャフトに下ります。",
+          "ipa": "/aɪl dɪˈsɛnd ˈɪntu ðə ˈmaɪn ʃæft tu ˈsɜːrtʃ fɚ ˈdaɪməndz ənd ˈrɛr ˈɔɹz/",
+          "linking": [
+            "I'll descend - I'll の語末 /l/ が descend の初頭 /d/ に続く（子音+子音）[aɪl dɪˈsɛnd] アイル ディセンド",
+            "descend into - descend の語末 /d/ が into の母音 /ɪ/ に連結 [dɪˈsɛnd ˈɪntu] ディセンド イントゥー",
+            "to search - to の弱形 /tə/ が search の母音に連結、for の弱形 /fɚ/ ファー"
+          ],
+          "kana": "アイル ディセンド イントゥー ザ マイン シャフト タ サーチ ファー ダイモンズ アンド レア オーズ"
+        },
+        {
+          "en": "They will descend rapidly to escape the falling gravel avalanche.",
+          "ja": "彼らは落ちてくる砂利の雪崩から逃げるために急速に下ります。",
+          "ipa": "/ðeɪ wɪl dɪˈsɛnd ˈræpɪdli tu əˈskeɪp ðə ˈfɔlɪŋ ˈɡrævəl ˈævəˌlæntʃ/",
+          "linking": [
+            "will descend - will の /l/ が descend の /d/ に続く（子音+子音）[wɪl dɪˈsɛnd] ウィル ディセンド",
+            "descend rapidly - descend の語末 /d/ が rapidly の初頭 /r/ に続く（子音+子音）",
+            "to escape - to の弱形 /tə/ が escape に連結、falling の語末 /ŋ/ が gravel の /g/ に続く"
+          ],
+          "kana": "ザイ ウィル ディセンド ラピドリー タ エスケイプ ザ フォーリング グラベル アヴァランチ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be descending",
+      "ipa": "/wɪl bi dɪˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be descending through the caverns when the sun sets.",
+          "ja": "太陽が沈むとき、私たちは洞窟を通して下り続けています。",
+          "ipa": "/wɪl bi dɪˈsɛndɪŋ θruː ðə kəˈvɜːrnz wɛn ðə ˈsʌn ˈsɛts/",
+          "linking": [
+            "will be - will の /l/ が be の /b/ に続く（子音+子音）[wɪl bi] ウィル ビー",
+            "be descending - be の /i/ が descending の /d/ に連結 [bi dɪˈsɛndɪŋ] ビー ディセンディング",
+            "descending through - descending の語末 /ŋ/ が through の /θ/ に続く（子音+子音）、caverns は /kəˈvɜːrnz/"
+          ],
+          "kana": "ウィル ビー ディセンディング スルー ザ キャヴァーンズ ウェン ザ サン セッツ"
+        },
+        {
+          "en": "The sand and gravel will be descending slowly into the collection chamber.",
+          "ja": "砂と砂利は収集チャンバーにゆっくりと下り続けることになります。",
+          "ipa": "/ðə ˈsænd ənd ˈɡrævəl wɪl bi dɪˈsɛndɪŋ ˈsloʊli ˈɪntu ðə kəˈlɛkʃən ˈtʃeɪmbɚ/",
+          "linking": [
+            "will be - will の /l/ が be の /b/ に続く（子音+子音）[wɪl bi] ウィル ビー",
+            "be descending - be の /i/ が descending の /d/ に連結 [bi dɪˈsɛndɪŋ] ビー ディセンディング",
+            "descending slowly - descending の語末 /ŋ/ が slowly の /s/ に続く（子音+子音）、into は弱形 /ˈɪntu/"
+          ],
+          "kana": "ザ サンド アンド グラベル ウィル ビー ディセンディング スローリー イントゥー ザ コレクション チェイバー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have descended",
+      "ipa": "/wɪl həv dɪˈsɛndəd/",
+      "examples": [
+        {
+          "en": "By tomorrow afternoon, I will have descended to the bottommost layer of this vast cave system.",
+          "ja": "明日の午後までに、私はこの広大な洞窟システムの最下層まで下りきっているでしょう。",
+          "ipa": "/baɪ təˈmɑɹoʊ ˈæftərnun aɪ wɪl hæv dɪˈsɛndəd tu ðə ˈbɑtəmˌmoʊst ˈleɪɚ əv ðɪs ˈvæst ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "will have - will の /l/ が have の弱形 /hæv/ に続く（子音+子音、未開放）[wɪl̚ hæv] ウィル ハヴ。I'll have では /aɪl̚ hæv/ アイル ハヴ",
+            "have descended - have の弱形 /hæv/ が descended の /d/ に続く（子音+子音、未開放）[hæv̚ dɪˈsɛndəd] ハヴ ディセンディド",
+            "descended to - descended の語末 /d/ が to の初頭に続く（子音+子音）、vast は /væst/"
+          ],
+          "kana": "バイ トゥモロウ アフタヌーン アイル ハヴ ディセンディド タ ザ ボットムモウスト レイアー アヴ ディス ヴァスト ケーブ システム"
+        },
+        {
+          "en": "We will have descended over five hundred blocks deep by the time we reach bedrock.",
+          "ja": "底岩に着くまでに、私たちは500ブロック以上深く下りきっているでしょう。",
+          "ipa": "/wiː wɪl hæv dɪˈsɛndəd ˈoʊvɚ ˈfaɪv ˈhʌndɹəd ˈblɑks ˈdiːp baɪ ðə ˈtaɪm wiː ˈritʃ ˈbɛdˌrɑk/",
+          "linking": [
+            "will have - will の語末 /l/ が have の初頭に続く（子音+子音、未開放）[wɪl̚ hæv] ウィル ハヴ",
+            "have descended - have の弱形 /hæv/ が descended の /d/ に続く（子音+子音、未開放）[hæv̚ dɪˈsɛndəd] ハヴ ディセンディド",
+            "over five - five の語末 /v/ が hundred の初頭に続く（子音+子音）、by は弱形 /baɪ/"
+          ],
+          "kana": "ウィー ウィル ハヴ ディセンディド オウヴァー ファイヴ ハンドレド ブラックス ディープ バイ ザ タイム ウィー リーチ ベッドラック"
+        }
+      ]
     }
   ],
   "tags": [
