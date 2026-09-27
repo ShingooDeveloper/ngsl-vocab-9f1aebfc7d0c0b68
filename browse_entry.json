@@ -283,6 +283,187 @@
           "kana": "シー リアライズド シー ハド ビン ブラウジング ザ ロング チェスト ザ イン タイア タイム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has browsed",
+      "ipa": "/həz ˈbraʊzd/",
+      "examples": [
+        {
+          "en": "He has browsed every shop on the server for rare enchantments.",
+          "ja": "彼はレアなエンチャントを探してサーバー上のすべての店をぶらぶら見ました。",
+          "ipa": "/hi həz ˈbraʊzd ˈɛv.ri ˈʃɑp ɑn ðə ˈsɜr.vɚ fɔr ˈreɪr ɪnˈtʃæn.mənt­z/",
+          "linking": [
+            "「has browsed」では「has」が弱形 /həz/ で browsed に続く",
+            "「browsed every」では語末子音 /d/ が母音 /ɛ/ に連結 [braʊzd ˈɛv.ri] ブラウズド エブリー",
+            "「for rare」では語末子音 /r/ が母音 /ɛ/ に連結 [fɔr ˈreɪr] フォー レアー"
+          ],
+          "kana": "ヒー ハズ ブラウズド エブリー ショップ オン ザ サーバー フォー レアー エンチャンメンツ"
+        },
+        {
+          "en": "I have browsed through all the treasure chests in this mountain cave.",
+          "ja": "この山の洞窟にあるすべての宝物チェストをぶらぶら見て回りました。",
+          "ipa": "/aɪ həv ˈbraʊzd θruː ˈɔl ðə ˈtɹɛʒ.ɚ ˈtʃɛsts ɪn ðɪs ˈmaʊn.tən ˈkeɪv/",
+          "linking": [
+            "「have browsed」では「have」が弱形 /həv/ で browsed に続く",
+            "「through the」では「through」の語末 /uː/ に続く「the」は弱形 /ðə/ → スルーザ",
+            "「chests in」では語末 /s/ が母音 /ɪ/ に連結 [tʃɛs.tɪn] チェスティン"
+          ],
+          "kana": "アイ ハヴ ブラウズド スルー オール ザ トレジャー チェスツ イン ディス マウンテン ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had browsed",
+      "ipa": "/həd ˈbraʊzd/",
+      "examples": [
+        {
+          "en": "By the time I reached the fortress, I had browsed through a hundred caves.",
+          "ja": "要塞に到着した時までに、私は百個の洞窟をぶらぶら見ました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ ˈritʃt ðə ˈfɔr.trɪs aɪ həd ˈbraʊzd θruː ə ˈhʌn.drɪd ˈkeɪvz/",
+          "linking": [
+            "「had browsed」では「had」が弱形 /həd/ で browsed に続く",
+            "「browsed through」では語末 /d/ が未開放で /θ/ に接近 [ˈbraʊzd̚ θ]",
+            "「through a」では「through」の語末 /uː/ が母音 /ə/ に連結 [θruː ə] スルー ア"
+          ],
+          "kana": "バイ ザ タイム アイ リーチト ザ フォートレス アイ ハド ブラウズド スルー ア ハンドレッド ケイブズ"
+        },
+        {
+          "en": "She realized she had browsed the wrong section for hours.",
+          "ja": "彼女は何時間も間違ったセクションをぶらぶら見ていたことに気づきました。",
+          "ipa": "/ʃi ˈriː.əˌlaɪzd ʃi həd ˈbraʊzd ðə ˈrɔŋ ˈsɛk.ʃən fɔr ˈaʊɚz/",
+          "linking": [
+            "「had browsed」では「had」が弱形 /həd/ で browsed に続く",
+            "「browsed the」では語末 /d/ が未開放で /ðə/ に接近 [ˈbraʊzd̚ ðə]",
+            "「for hours」では語末子音 /r/ が母音 /aʊ/ に連結 [fɔr ˈaʊɚz] フォー アワーズ"
+          ],
+          "kana": "シー リアライズド シー ハド ブラウズド ザ ロング セクション フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been browsing",
+      "ipa": "/həz bɪn ˈbraʊ.zɪŋ/",
+      "examples": [
+        {
+          "en": "She has been browsing the marketplace for over an hour now.",
+          "ja": "彼女は今、1時間以上もマーケットプレイスをぶらぶら見ています。",
+          "ipa": "/ʃi həz bɪn ˈbraʊ.zɪŋ ðə ˈmɑr.kɪt.pleɪs fɔr ˈoʊ.vɚ ən ˈaʊɚ ˈnaʊ/",
+          "linking": [
+            "「has been browsing」では「has」が弱形 /həz/、「been」が弱形 /bɪn/ で browsing に続く",
+            "「been browsing」では語末鼻音 /n/ が母音に連結 [bɪn ˈbraʊ.zɪŋ] ビン ブラウジング",
+            "「the marketplace」では「the」が冠詞として弱形 /ðə/",
+            "「over an」では語末子音 /r/ が母音 /ə/ に連結 [ˈoʊ.vɚ ən] オーヴァー アン"
+          ],
+          "kana": "シー ハズ ビン ブラウジング ザ マーケットプレイス フォー オーヴァー アン アワー ナウ"
+        },
+        {
+          "en": "I have been browsing the creative inventory all day for the perfect block.",
+          "ja": "午後中ずっと、完璧なブロックを探してクリエイティブインベントリをぶらぶら見ています。",
+          "ipa": "/aɪ həv bɪn ˈbraʊ.zɪŋ ðə kriˈeɪ.tɪv ˈɪn.vən.tə.ri ˈɔl ˈdeɪ fɔr ðə ˈpɚ.fɪkt ˈblɑk/",
+          "linking": [
+            "「have been browsing」では「have」が弱形 /həv/、「been」が弱形 /bɪn/ で browsing に続く",
+            "「been browsing」では語末鼻音 /n/ が母音に連結 [bɪn ˈbraʊ.zɪŋ] ビン ブラウジング",
+            "「the creative」では「the」が冠詞として弱形 /ðə/",
+            "「for the」では「the」が冠詞として弱形 /ðə/ で perfect に続く"
+          ],
+          "kana": "アイ ハヴ ビン ブラウジング ザ クリエイティブ インベントリー オール デイ フォー ザ パーフェクト ブロック"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will browse",
+      "ipa": "/wɪl ˈbraʊz/",
+      "examples": [
+        {
+          "en": "I'll browse the creative inventory for building blocks.",
+          "ja": "クリエイティブインベントリをぶらぶら見て建築ブロックを探すつもりです。",
+          "ipa": "/aɪl ˈbraʊz ðə kriˈeɪ.tɪv ˈɪn.vən.tə.ri fɔr ˈbɪl.dɪŋ ˈblɑks/",
+          "linking": [
+            "「I'll browse」で「will」が「I」と縮約されて /aɪl/",
+            "「the creative」で「the」は冠詞として弱形 /ðə/"
+          ],
+          "kana": "アイル ブラウズ ザ クリエイティブ インヴェントリー フォー ビルディング ブロックス"
+        },
+        {
+          "en": "They'll browse the marketplace for enchanted items.",
+          "ja": "彼らはエンチャントされたアイテムを探してマーケットプレイスをぶらぶら見ます。",
+          "ipa": "/ðeɪl ˈbraʊz ðə ˈmɑr.kɪt.pleɪs fɔr ɪnˈtʃæn.tɪd ˈaɪ.təmz/",
+          "linking": [
+            "「They'll browse」で「will」が「They」と縮約されて /ðeɪl/",
+            "「the marketplace」で「the」は冠詞として弱形 /ðə/",
+            "「for enchanted」では語末子音 /r/ が母音 /ɪ/ に連結 [fɔrɪnˈtʃæn...]"
+          ],
+          "kana": "ゼイル ブラウズ ザ マーケットプレイス フォーインチャンティッド アイティムズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be browsing",
+      "ipa": "/wɪl bi ˈbraʊ.zɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be browsing the shops when the store closes.",
+          "ja": "店が閉まるとき、私は店をぶらぶら見ているでしょう。",
+          "ipa": "/aɪl bi ˈbraʊ.zɪŋ ðə ˈʃɑps wɛn ðə ˈstɔr ˈkloʊ.zɪz/",
+          "linking": [
+            "「I'll be」で「will」が「I」と縮約されて /aɪl/",
+            "「the」は冠詞として弱形 /ðə/ で「shops」と「store」に前置",
+            "「when the」では「the」は弱形 /ðə/"
+          ],
+          "kana": "アイル ビ ブラウジング ザ ショップス ウェン ザ ストア クロウジズ"
+        },
+        {
+          "en": "You'll be browsing the marketplace for hours.",
+          "ja": "あなたはマーケットプレイスをずっと見て回るでしょう。",
+          "ipa": "/jul bi ˈbraʊ.zɪŋ ðə ˈmɑr.kɪt.pleɪs fɔr ˈaʊɚz/",
+          "linking": [
+            "「You'll be」で「will」が「You」と縮約されて /jul/",
+            "「the marketplace」で「the」は冠詞として弱形 /ðə/",
+            "「for hours」では語末子音 /r/ が母音 /aʊ/ に連結 [fɔrˈaʊɚz]"
+          ],
+          "kana": "ユル ビ ブラウジング ザ マーケットプレイス フォーアワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have browsed",
+      "ipa": "/wɪl əv ˈbraʊzd/",
+      "examples": [
+        {
+          "en": "I'll have browsed all the caves by sunset.",
+          "ja": "日没までに、すべての洞窟をぶらぶら見終わっているでしょう。",
+          "ipa": "/aɪl əv ˈbraʊzd ˈɔl ðə ˈkeɪvz baɪ ˈsʌn.sɛt/",
+          "linking": [
+            "「I'll have」で「will」が「I」と縮約されて /aɪl/、「have」は弱形 /əv/",
+            "「the caves」で「the」は冠詞として弱形 /ðə/",
+            "「browsed all」では語末子音 /d/ が母音 /ɔ/ に連結 [ˈbraʊzd ˈɔl]"
+          ],
+          "kana": "アイル アヴ ブラウズド オール ザ ケイブズ バイ サンセット"
+        },
+        {
+          "en": "We will have browsed through all the shops by evening.",
+          "ja": "夜までに、すべての店をぶらぶら見終わっているでしょう。",
+          "ipa": "/wi ˈwɪl əv ˈbraʊzd θruː ˈɔl ðə ˈʃɑps baɪ ˈiːv.nɪŋ/",
+          "linking": [
+            "「will have」では「have」は弱形 /əv/ で「browsed」の /b/ に先行",
+            "「through all」では「through」の語末 /uː/ に続く「all」の /ɔ/ が接近",
+            "「the shops」では「the」は冠詞として弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル アヴ ブラウズド スルー オール ザ ショップス バイ イーヴニング"
+        }
+      ]
     }
   ]
 }
