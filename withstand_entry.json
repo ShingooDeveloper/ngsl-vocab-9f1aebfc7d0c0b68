@@ -269,6 +269,96 @@
           "kana": "ウィ リアライズド ザ ウォール ハド ビン ウィズスタンディング ガスト アタックス オール モーニング ウィザウト ダメージ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has withstood",
+      "ipa": "/həz wɪðˈstʊd/",
+      "examples": [
+        {
+          "en": "The obsidian structure has withstood countless creeper explosions.",
+          "ja": "黒曜石構造は無数のクリーパー爆発に耐えてきた。",
+          "ipa": "/ðə ɑbˈsɪdiən ˈstrʌktʃər həz wɪðˈstʊd ˈkaʊn̚tləs ˈkɹiːpər ɪkˈsploʊʒənz/",
+          "linking": [
+            "「The」は冠詞の弱形 /ðə/",
+            "「structure has」：語末子音 /r/ が母音 /ə/ に連結 [ˈstrʌktʃər həz]",
+            "「countless creeper」：countless の末尾 /t/ が未開放で、creeper に先行 [ˈkaʊn̚tləs ˈkɹiːpər]"
+          ],
+          "kana": "ザ オプシディアン ストラクチャー ハズ ウィズスツッド カウンレス クリーパー イクスプロウジェンズ"
+        },
+        {
+          "en": "The players have withstood the Wither's relentless attacks.",
+          "ja": "プレイヤーたちはウィザーの絶え間ない攻撃に耐えてきた。",
+          "ipa": "/ðə ˈpleɪərz həv wɪðˈstʊd ðə ˈwɪðərz rɪˈlɛn̚tləs əˈtæks/",
+          "linking": [
+            "「The」は冠詞の弱形 /ðə/",
+            "「players have」：語末子音 /z/ が母音 /ə/ に連結 [ˈpleɪərz həv]",
+            "「Wither's attacks」：語末子音 /z/ が母音 /ə/ に連結 [ˈwɪðərz əˈtæks]"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ ウィズスツッド ザ ウィザーズ レレントレス アタックス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had withstood",
+      "ipa": "/həd wɪðˈstʊd/",
+      "examples": [
+        {
+          "en": "By the time the raid ended, our fortress had withstood every wave.",
+          "ja": "レイドが終わったときには、要塞はすべての波に耐えていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈɹeɪd ˈɛndɪd ˈaʊər ˈfɔɹtrɪs həd wɪðˈstʊd ˈɛvri ˈweɪv/",
+          "linking": [
+            "「the」は冠詞の弱形 /ðə/（2回）",
+            "「had withstood」：had は助動詞の弱形 /həd/",
+            "「fortress had」：語末子音 /s/ が子音に先行するため連結なし"
+          ],
+          "kana": "バイ ザ タイム ザ レイド エンディド アワー フォートリス ハド ウィズスツッド エブリー ウェイブ"
+        },
+        {
+          "en": "The protective walls had withstood the bombardment before they finally collapsed.",
+          "ja": "防御壁は砲撃に耐えていたが、最終的に崩壊した。",
+          "ipa": "/ðə prəˈtɛktɪv wɔːlz həd wɪðˈstʊd ðə ˌbɑmˈbɑɹdmənt bɪˈfɔɹ ðeɪ ˈfaɪnəli kəˈlæpst/",
+          "linking": [
+            "「The」は冠詞の弱形 /ðə/（2回）",
+            "「had withstood」：had は助動詞の弱形 /həd/",
+            "「before they」：before は弱形 /bɪˈfɔɹ/、they に連結"
+          ],
+          "kana": "ザ プロテクティヴ ウォールズ ハド ウィズスツッド ザ ボムバードメント ビフォア ザイ ファイナリー コラプスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been withstanding",
+      "ipa": "/həz bɪn wɪðˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "This base has been withstanding mob attacks every single night.",
+          "ja": "このベースは毎晩モブの攻撃に耐え続けている。",
+          "ipa": "/ðɪs ˈbeɪs həz bɪn wɪðˈstændɪŋ ˈmɑb əˈtæks ˈɛvri ˈsɪŋɡəl ˈnaɪt/",
+          "linking": [
+            "「has been」：has は弱形 /həz/、been は弱形 /bɪn/",
+            "「base has」：語末子音 /s/ が子音に先行するため連結なし",
+            "「mob attacks」：語末子音 /b/ が母音 /ə/ に連結 [ˈmɑb əˈtæks]"
+          ],
+          "kana": "ディス ベイス ハズ ビン ウィズスタンディング モブ アタックス エブリー シンググル ナイト"
+        },
+        {
+          "en": "Our castle walls have been withstanding raids since the server first started.",
+          "ja": "城壁はサーバーが最初に始まって以来、レイドに耐え続けている。",
+          "ipa": "/ˈaʊər ˈkæsəl wɔːlz həv bɪn wɪðˈstændɪŋ ˈɹeɪdz sɪns ðə ˈsɝvər ˈfɝst ˈstɑɹtɪd/",
+          "linking": [
+            "「have been」：have は弱形 /həv/、been は弱形 /bɪn/",
+            "「walls have」：語末子音 /z/ が子音に先行するため連結なし",
+            "「the server」：the は冠詞の弱形 /ðə/"
+          ],
+          "kana": "アワー キャッスル ウォールズ ハヴ ビン ウィズスタンディング レイズ シンス ザ サーバー ファースト スターティド"
+        }
+      ]
     }
   ]
 }
