@@ -399,6 +399,98 @@
           "kana": "ビルダーズ ハヴ ビン ダイバーティング レッドストーン シグナルズ アウェイ フラム ザ アリジナル サーキット フォー テスティング パーパシズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will divert",
+      "ipa": "/wɪl daɪˈvɝt/",
+      "examples": [
+        {
+          "en": "We'll divert all resources away from the excavation site.",
+          "ja": "我々は採掘サイトからすべてのリソースを転用します。",
+          "ipa": "/wil daɪˈvɝt ɔl ˈrɛsɔrzɪz əˈweɪ frəm ðə ˌɛkskaˈveɪʃən saɪt/",
+          "linking": [
+            "will divert — we'll の縮約 /wil/, /l/ が子音 /d/ に続く（子音+子音）",
+            "all resources — 語末 /l/ が母音 /ɛ/ に連結 [ɔl ˈrɛsɔrzɪz] オール リソーシズ",
+            "resources away — 語末 /ɪz/ が母音 /ə/ に連結 [ˈrɛsɔrzɪz əˈweɪ] リソーシズ アウェイ",
+            "from the — 前置詞 from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル ダイバート オール リソーシズ アウェイ フラム ザ エクスカベーション サイト"
+        },
+        {
+          "en": "He'll divert the creeper away from the house before it gets too close.",
+          "ja": "彼は家から遠くなる前に、クリーパーをそらします。",
+          "ipa": "/hil daɪˈvɝt ðə ˈkriːpər əˈweɪ frəm ðə haʊs bɪˈfɔr ɪt ɡɛts tu kloʊs/",
+          "linking": [
+            "will divert — he'll の縮約 /hil/, /l/ が子音 /d/ に続く（子音+子音）",
+            "creeper away — 語末 /ɚ/ が母音 /ə/ に連結 [ˈkriːpər əˈweɪ] クリーパー アウェイ",
+            "from the — 前置詞 from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒール ダイバート ザ クリーパー アウェイ フラム ザ ハウス ビフォア イット ゲッツ トゥ クロウズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be diverting",
+      "ipa": "/wɪl bi daɪˈvɝtɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be diverting water away from the base construction area.",
+          "ja": "我々は基地の建設エリアから水を転用しています。",
+          "ipa": "/wil bi daɪˈvɝtɪŋ ˈwɔtɚ əˈweɪ frəm ðə ˈbeɪs kənˈstrʌkʃən ˈɛriə/",
+          "linking": [
+            "will be — we'll の縮約 /wil/, /l/ が子音 /b/ に続く（子音+子音）",
+            "water away — 語末 /ɚ/ が母音 /ə/ に連結 [ˈwɔtɚ əˈweɪ] ウォーター アウェイ",
+            "construction area — 語末 /n/ が母音 /ɛ/ に連結 [kənˈstrʌkʃən ˈɛriə] コンストラクション エリア",
+            "from the — 前置詞 from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル ビー ダイバーティング ウォーター アウェイ フラム ザ ベース コンストラクション エリア"
+        },
+        {
+          "en": "The player will be diverting hostile mobs into the trap mechanism.",
+          "ja": "プレイヤーはトラップメカニズムに敵対的なモブを転用しています。",
+          "ipa": "/ðə ˈpleɪɚ wɪl bi daɪˈvɝtɪŋ ˈhoʊsˌtaɪl mɑbz ˈɪntu ðə træp ˈmɛkənɪzəm/",
+          "linking": [
+            "will be — 助動詞 will は弱形傾向 /wɪl/, /l/ が子音 /b/ に続く（子音+子音）",
+            "mobs into — 語末 /z/ が母音 /ɪ/ に連結 [mɑbz ˈɪntu] モブズ イントゥ",
+            "the trap — 冠詞 the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ プレイアー ウィル ビー ダイバーティング ホウスタイル モブズ イントゥ ザ トラップ メカニズム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have diverted",
+      "ipa": "/wɪl həv daɪˈvɝtɪd/",
+      "examples": [
+        {
+          "en": "The miners will have diverted all the lava by dawn to protect their tunnels.",
+          "ja": "鉱夫たちは夜明けまでにすべての溶岩を転用して、彼らのトンネルを保護します。",
+          "ipa": "/ðə ˈmaɪnərz wɪl həv daɪˈvɝtɪd ɔl ðə ˈlɑvə baɪ dɔn tu prəˈtɛkt ðɛr ˈtʌnəlz/",
+          "linking": [
+            "will have — will は弱形 /wɪl/ (or縮約 /wəl/), have は弱形 /həv/ (短縮 /əv/)",
+            "diverted all — 語末 /d/ が母音 /ɔ/ に続く（子音+母音）[daɪˈvɝtɪd ɔl] ダイバーティド オール",
+            "the lava — 冠詞 the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ マイナーズ ウィル ハヴ ダイバーティド オール ザ ラーヴァ バイ ドーン トゥ プロテクト ゼア タンネルズ"
+        },
+        {
+          "en": "She'll have diverted the water away from the farm before winter arrives.",
+          "ja": "彼女は冬が到着する前に、農場から水を転用します。",
+          "ipa": "/ʃil həv daɪˈvɝtɪd ðə ˈwɔtɚ əˈweɪ frəm ðə fɑrm bɪˈfɔr ˈwɪntɚ əˈraɪvz/",
+          "linking": [
+            "will have — she'll の縮約 /ʃil/, have は弱形 /həv/ (短縮 /əv/) [ʃil həv daɪˈvɝtɪd] シール ハヴ ダイバーティド",
+            "water away — 語末 /ɚ/ が母音 /ə/ に連結 [ˈwɔtɚ əˈweɪ] ウォーター アウェイ",
+            "winter arrives — 語末 /ɚ/ が母音 /ə/ に連結 [ˈwɪntɚ əˈraɪvz] ウィンター アライズ"
+          ],
+          "kana": "シール ハヴ ダイバーティド ザ ウォーター アウェイ フラム ザ ファーム ビフォア ウィンター アライズ"
+        }
+      ]
     }
   ]
 }

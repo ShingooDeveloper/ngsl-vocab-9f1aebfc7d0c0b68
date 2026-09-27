@@ -363,6 +363,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will merge",
+      "ipa": "/wɪl ˈmɝdʒ/",
+      "examples": [
+        {
+          "en": "We will merge the two water streams to create a larger canal system.",
+          "ja": "私たちは2つの水流を統合して、より大きな運河システムを作ります。",
+          "ipa": "/wiː wɪl ˈmɝdʒ ðə tuː ˈwɔːɾɚ strimz tə kriˈeɪt ə ˈlɑːrdʒɚ kəˈnæl ˈsɪstəm/",
+          "kana": "ウィー ウィル マージ ザ トゥー ウォーラー ストリームズ タ クリエイト ア ラージャー カナル システム",
+          "linking": [
+            "「will merge」—語末子音 /l/ が merge の /m/ に連結 [wɪl ˈmɝdʒ]「ウィル マージ」",
+            "「water」—/t/ が母音に挟まれてフラップ化し /ɾ/ となる [ˈwɔːɾɚ]「ウォーラー」",
+            "「streams to」—語末子音 /z/ が to の弱形 /tə/ に連結 [strimz tə]「ストリームズ タ」"
+          ]
+        },
+        {
+          "en": "They'll merge their redstone farms after the next update.",
+          "ja": "彼らは次のアップデート後にレッドストーンファームを統合します。",
+          "ipa": "/ðeɪl ˈmɝdʒ ðɛɾ ˈrɛdstoʊn fɑːrmz ˈæftɚ ðə ˈnɛkst ˈʌpˌdeɪt/",
+          "kana": "ゼイル マージ ゼア レッドストーン ファームズ アフター ザ ネクスト アップデイト",
+          "linking": [
+            "「They'll」—they と will の縮約で /ðeɪl/「ゼイル」",
+            "「merge their」—/dʒ/ が /ð/ に隣接（子音+子音で未開放）[ˈmɝdʒ ðɛɾ]「マージ ゼア」",
+            "「after the」—機能語 the は子音前で弱形 /ðə/「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be merging",
+      "ipa": "/wɪl bi ˈmɝdʒɪŋ/",
+      "examples": [
+        {
+          "en": "While we're building new tunnels, the mining systems will be merging continuously.",
+          "ja": "新しいトンネルを建設している間、マイニング システムは継続的に統合されます。",
+          "ipa": "/waɪl wɪɹ ˈbɪldɪŋ ˈnjuː ˈtʌnəlz ðə ˈmaɪnɪŋ ˈsɪstəmz wɪl bi ˈmɝdʒɪŋ kənˈtɪnjuːəsli/",
+          "kana": "ワイル ウィア ビルディング ニュー タネルズ ザ マイニング システムズ ウィル ビー マージング コンティニューアスリー",
+          "linking": [
+            "「will be」—will の弱形、be は短形 /bi/ [wɪl bi]「ウィル ビー」",
+            "「building new」—/ŋ/ が new の /n/ に隣接（子音+子音で未開放）[ˈbɪldɪŋ ˈnjuː]「ビルディング ニュー」",
+            "「systems will」—語末子音 /z/ が will の /w/ に隣接、will は弱形 [ˈsɪstəmz wɪl]「システムズ ウィル」"
+          ]
+        },
+        {
+          "en": "At sunset tomorrow, your bases will be merging with the central network.",
+          "ja": "明日の日没時に、あなたのベースは中央ネットワークと統合されます。",
+          "ipa": "/æt ˈsʌnˌsɛt təˈmɑːɹoʊ jɚ ˈbeɪsɪz wɪl bi ˈmɝdʒɪŋ wɪð ðə ˈsɛntrəl ˈnɛtˌwɝk/",
+          "kana": "アット サンセット タゥモーロー ヤー ベイシズ ウィル ビー マージング ウィズ ザ セントラル ネットワーク",
+          "linking": [
+            "「will be」—will の弱形、be は短形 /bi/ [wɪl bi]「ウィル ビー」",
+            "「merging with」—/ŋ/ が with の /w/ に隣接（子音+子音で未開放）[ˈmɝdʒɪŋ wɪð]「マージング ウィズ」",
+            "「with the」—語末子音 /ð/ が the の /ð/ に隣接、the は弱形 /ðə/「ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have merged",
+      "ipa": "/wɪl həv ˈmɝdʒd/",
+      "examples": [
+        {
+          "en": "By the time you arrive, the two factions will have merged all their resources.",
+          "ja": "あなたが到着するまでに、2つの派閥はすべてのリソースを統合しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm juː əˈɹaɪv ðə tuː ˈfækʃənz wɪl həv ˈmɝdʒd ɔːl ðɛɾ ˈrɪˌsɔːɾsɪz/",
+          "kana": "バイ ザ タイム ユー アライヴ ザ トゥー ファクションズ ウィル ハヴ マージド オール ゼア リソーシズ",
+          "linking": [
+            "「will have」—will の弱形、have も弱形 /əv/ になることがある [wɪl həv]「ウィル ハヴ」",
+            "「have merged」—have の語末 /v/ が merged の /m/ に連結 [həv ˈmɝdʒd]「ハヴ マージド」",
+            "「merged all」—語末子音 /d/ が all の /ɔː/ に連結 [ˈmɝdʒd ɔːl]「マージド オール」"
+          ]
+        },
+        {
+          "en": "I will have merged the redstone circuits with the main power system before midnight.",
+          "ja": "真夜中前に、レッドストーン回路をメイン電源システムと統合します。",
+          "ipa": "/aɪ wɪl həv ˈmɝdʒd ðə ˈrɛdstoʊn ˈsɝkɪts wɪð ðə ˈmeɪn ˈpaʊɚ ˈsɪstəm bɪˈfɔːɾ ˈmɪdˌnaɪt/",
+          "kana": "アイ ウィル ハヴ マージド ザ レッドストーン サーキッツ ウィズ ザ メイン パウァー システム ビフォー ミッドナイト",
+          "linking": [
+            "「will have」—will の弱形、have の弱形 /əv/ [wɪl həv]「ウィル ハヴ」",
+            "「have merged」—have の語末 /v/ が merged の /m/ に連結 [həv ˈmɝdʒd]「ハヴ マージド」",
+            "「merged the」—語末子音 /d/ が the の弱形 /ðə/ の /ð/ に隣接（子音+子音で未開放）[ˈmɝdʒd ðə]「マージド ザ」"
+          ]
+        }
+      ]
     }
   ],
   "tags": [
