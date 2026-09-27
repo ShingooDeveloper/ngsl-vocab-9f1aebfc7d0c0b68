@@ -288,6 +288,102 @@
           "kana": "シー ハド ビン スニーズィング フラムザ ダスト ビフォア ザ レイン スターテッド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sneezed",
+      "ipa": "/həz ˈsniːzd/",
+      "examples": [
+        {
+          "en": "The redstone engineer has sneezed three times since we entered the dust trap chamber.",
+          "ja": "レッドストーンエンジニアはダストトラップチャンバーに入った後、3回くしゃみをしています。",
+          "ipa": "/ðə ˈɹɛdstoʊn ˌɛndʒɪˈnɪɚ həz ˈsniːzd ˈθri taɪmz sɪns wi ɛnˈtɚd ðə dʌst træp ˈtʃeɪmbɚ/",
+          "linking": [
+            "the redstone → the は弱形 /ðə/、/ə/ + /r/ が連結 [ðə ˈɹɛdstoʊn] ザ レッドストウン",
+            "has sneezed → has は弱形 /həz/、/z/ + /s/（子音+子音、連結なし）",
+            "since we → since の語末 /s/ が母音 /w/ に連結 [sɪns wi] シンス ウィー",
+            "the dust → the は弱形 /ðə/、/ə/ + /d/ が連結 [ðə dʌst] ザ ダスト"
+          ],
+          "kana": "ザ レッドストウン エンジニアー ハズ スニーズド スリー タイムズ シンス ウィー エンタード ザ ダスト トラップ チェイムバー"
+        },
+        {
+          "en": "Players have sneezed so much from the pollen that their faces are completely covered in dust.",
+          "ja": "プレイヤーは花粉からそんなに多くくしゃみをしたので、彼らの顔は完全にほこりで覆われています。",
+          "ipa": "/ˈpleɪɚz həv ˈsniːzd soʊ mʌtʃ frəm ðə ˈpɑləm ðæt ðɛɹ ˈfeɪsɪz ɑr kəmˈplitli ˈkʌvɚd ɪn dʌst/",
+          "linking": [
+            "have sneezed → have は弱形 /həv/、/v/ + /s/（子音+子音、連結なし）",
+            "from the → from は弱形 /frəm/、/m/ + /ð/ が連結 [frəm ðə] フラムザ、the は弱形 /ðə/",
+            "the pollen → the は弱形 /ðə/、/ə/ + /p/ が連結 [ðə ˈpɑləm] ザ ポレン",
+            "covered in → /d/ + /ɪ/ が連結 [ˈkʌvɚd ɪn] カヴァード イン"
+          ],
+          "kana": "プレイアーズ ハヴ スニーズド ソー マッチ フラムザ ポレン ザット ゼア フェーシーズ アー コンプリートリー カヴァード イン ダスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sneezed",
+      "ipa": "/həd ˈsniːzd/",
+      "examples": [
+        {
+          "en": "Once the scout had sneezed loudly, the hostile mobs detected our entire position within seconds.",
+          "ja": "スカウトが大きくくしゃみをすると、敵対的なモブは数秒以内に私たちの全ポジションを検出しました。",
+          "ipa": "/wʌns ðə ˈskaʊt həd ˈsniːzd ˈlaʊdli ðə ˈhɑstəl ˈmoʊbz dɪˈtɛktɪd ˈaʊɚ ɪnˈtaɪɚ pəˈzɪʃən wɪðɪn ˈsɛkəndz/",
+          "linking": [
+            "the scout → the は弱形 /ðə/、/ə/ + /s/ が連結 [ðə ˈskaʊt] ザ スカウト",
+            "had sneezed → had は弱形 /həd/、/d/ + /s/（子音+子音、連結なし）",
+            "the hostile → the は弱形 /ðə/、/ə/ + /h/（子音+子音、連結なし）",
+            "our entire → /ɚ/ + /ɪ/ が連結 [ˈaʊɚ ɪnˈtaɪɚ] アワー インタイアー"
+          ],
+          "kana": "ワンス ザ スカウト ハド スニーズド ラウドリー、ザ ホスタイル モウブズ ディテクティド アワー インタイアー ポジション ウィズイン セカンズ"
+        },
+        {
+          "en": "We had sneezed from the cave dust for hours before we finally located the underground lake.",
+          "ja": "地下湖を見つける前に、私たちは洞窟のほこりからいくつか時間くしゃみをしていました。",
+          "ipa": "/wi həd ˈsniːzd frəm ðə ˈkeɪv dʌst fɚ ˈaʊɚz bɪˈfɔr wi ˈfaɪnəli ˈloʊkeɪtɪd ðə ˌʌndɚˈɡraʊnd ˈleɪk/",
+          "linking": [
+            "had sneezed → had は弱形 /həd/、/d/ + /s/（子音+子音、連結なし）",
+            "from the → from は弱形 /frəm/、/m/ + /ð/ が連結 [frəm ðə] フラムザ、the は弱形 /ðə/",
+            "the cave → the は弱形 /ðə/、/ə/ + /k/ が連結 [ðə ˈkeɪv] ザ ケイヴ",
+            "for hours → for は弱形 /fɚ/"
+          ],
+          "kana": "ウィー ハド スニーズド フラムザ ケイヴ ダスト ファー アワーズ ビフォア ウィー ファイナリー ロウケイティド ザ アンダーグラウンド レイク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sneezing",
+      "ipa": "/həz bɪn ˈsniːzɪŋ/",
+      "examples": [
+        {
+          "en": "The builder has been sneezing all morning while constructing the tower in the flower meadow.",
+          "ja": "建築者は花の草原にタワーを建設しながら、朝中ずっとくしゃみをし続けています。",
+          "ipa": "/ðə ˈbɪldɚ həz bɪn ˈsniːzɪŋ ɔl ˈmɔrnɪŋ waɪl kənˈstrʌktɪŋ ðə ˈtaʊər ɪn ðə ˈflaʊɚ ˈmɛdoʊ/",
+          "linking": [
+            "the builder → the は弱形 /ðə/、/ə/ + /b/ が連結 [ðə ˈbɪldɚ] ザ ビルダー",
+            "has been → has は弱形 /həz/、/z/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been sneezing → /n/ + /s/（子音+子音、連結なし）",
+            "the flower → the は弱形 /ðə/、/ə/ + /f/ が連結 [ðə ˈflaʊɚ] ザ フラワー"
+          ],
+          "kana": "ザ ビルダー ハズ ビン スニーズィング オール モーニング ホワイル コンストラクティング ザ タウアー イン ザ フラワー メドウ"
+        },
+        {
+          "en": "We have been sneezing constantly since we entered the ancient temple filled with dust and cobwebs.",
+          "ja": "私たちはほこりとくも糸でいっぱいの古代寺院に入った後、絶えずくしゃみをし続けています。",
+          "ipa": "/wi həv bɪn ˈsniːzɪŋ ˈkɑnstəntli sɪns wi ɛnˈtɚd ðɪ ɛˈnʃənt ˈtɛmpəl fɪld wɪð dʌst‿ənd ˈkɑbwɛbz/",
+          "linking": [
+            "have been → have は弱形 /həv/、/v/ + /b/（子音+子音、連結なし）、been は弱形 /bɪn/",
+            "been sneezing → /n/ + /s/（子音+子音、連結なし）",
+            "since we → since の語末 /s/ が母音 /w/ に連結 [sɪns wi] シンス ウィー",
+            "the ancient → the は弱形 /ðə/、/ə/ + /ɛ/ が連結 [ðɪ ˈɛɪnʃənt] ジ エインシェント"
+          ],
+          "kana": "ウィー ハヴ ビン スニーズィング コンスタントリー シンス ウィー エンタード ザ エインシェント テンプル フィルド ウィズ ダスト アンド コブウェブズ"
+        }
+      ]
     }
   ]
 }
