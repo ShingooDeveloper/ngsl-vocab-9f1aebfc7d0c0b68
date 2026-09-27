@@ -368,6 +368,96 @@
           "kana": "シー ハズ ビン プリスクライビング デイリー チャレンジーズ トゥ キープ ザ コミューニティ インゲイジド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will prescribe",
+      "ipa": "/wɪl prɪˈskraɪb/",
+      "examples": [
+        {
+          "en": "The healer will prescribe powerful potions for the boss raid tomorrow.",
+          "ja": "ヒーラーは明日のボス戦に強力なポーションを処方します。",
+          "ipa": "/ðə ˈhilɚ wɪl prɪˈskraɪb ˈpaʊɚfəl poʊʃənz fɔr ðə bɔs reɪd təˈmɑroʊ/",
+          "linking": [
+            "healer の語末 /ɚ/ が will の初頭 /w/ に連結 [ˈhilɚ wɪl] ヒーラー ウィル",
+            "will の /l/ が prescribe の /p/ に未開放で接続 [wɪl̚ prɪˈskraɪb]",
+            "for the の連結：for は弱形 /fɔɹ/、語末 /r/ が the の弱形 /ðə/ に連結 [fɔɹ ðə] フォア ザ"
+          ],
+          "kana": "ザ ヒーラー ウィル プリスクライブ パワフル ポウションズ フォア ザ ボス レイド トゥモーロウ"
+        },
+        {
+          "en": "I'll prescribe strict mining protocols for everyone on the new server.",
+          "ja": "新しいサーバーのすべての人に対して、私は厳しい採掘プロトコルを処方します。",
+          "ipa": "/aɪl prɪˈskraɪb ˈstrɪkt ˈmaɪnɪŋ ˈproʊtəˌkɑlz fɔr ˈɛvriˌwʌn ɑn ðə ˈnu ˈsɝvɚ/",
+          "linking": [
+            "I'll の /l/ が prescribe の /p/ に未開放で接続 [aɪl̚ prɪˈskraɪb]",
+            "protocols の /z/ が for の初頭に先立たれ未開放 [ˈproʊtəˌkɑlz̚ fɔr]",
+            "for everyone の連結：for は弱形 /fɔɹ/、末尾 /r/ が everyone の /ɛ/ に連結 [fɔɹ ˈɛvriˌwʌn]"
+          ],
+          "kana": "アイル プリスクライブ ストリクト マイニング プロトコルズ フォア エヴリワン オン ザ ニュー サーバー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be prescribing",
+      "ipa": "/wɪl bi prɪˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "The admin will be prescribing new building rules throughout the entire week.",
+          "ja": "管理者は一週間中ずっと新しい建築ルールを処方し続けます。",
+          "ipa": "/ðə ˈædmɪn wɪl bi prɪˈskraɪbɪŋ ˈnu ˈbɪldɪŋ ˈrulz θɹuːˈaʊt ðə ɪnˈtaɪɚ ˈwik/",
+          "linking": [
+            "admin の語末 /n/ が will の初頭 /w/ に未開放で接続",
+            "will の /l/ が be の初頭 /b/ に未開放 [wɪl̚ bi]",
+            "be は弱形 /bi/ ビ、その /i/ が prescribing の /p/ に連結 [bi prɪˈskraɪbɪŋ] ビ プリスクライビング"
+          ],
+          "kana": "ザ アドミン ウィル ビー プリスクライビング ニュー ビルディング ルールズ スルーアウト ザ インタイアー ウィーク"
+        },
+        {
+          "en": "He'll be prescribing safety protocols for the new players all month long.",
+          "ja": "彼は一ヶ月間ずっと新しいプレイヤーのための安全プロトコルを処方し続けます。",
+          "ipa": "/hil bi prɪˈskraɪbɪŋ ˈseɪfti ˈproʊtəˌkɑlz fɔr ðə ˈnu ˈpleɪɚz ɔl ˈmʌnθ lɔŋ/",
+          "linking": [
+            "He'll の /l/ が be の初頭 /b/ に未開放で接続 [hil̚ bi]",
+            "be は弱形 /bi/ ビ、その /i/ が prescribing の /p/ に連結 [bi prɪˈskraɪbɪŋ] ビ プリスクライビング",
+            "for the の連結：for は弱形 /fɔɹ/、語末 /r/ が the の弱形 /ðə/ に連結 [fɔɹ ðə] フォア ザ"
+          ],
+          "kana": "ヒール ビー プリスクライビング セイフティー プロトコルズ フォア ザ ニュー プレイヤーズ オール マンス ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have prescribed",
+      "ipa": "/wɪl əv prɪˈskraɪbd/",
+      "examples": [
+        {
+          "en": "By next month, the council will have prescribed all the new building restrictions.",
+          "ja": "来月までに、評議会はすべての新しい建築制限を処方します。",
+          "ipa": "/baɪ nɛks ˈmʌnθ ðə ˈkaʊnsəl wɪl əv prɪˈskraɪbd ɔl ðə ˈnu ˈbɪldɪŋ rɪˈstrɪkʃənz/",
+          "linking": [
+            "next の語末 /t/ が month の /m/ に未開放で接続 [nɛks̚t̚ ˈmʌnθ]",
+            "council の語末 /l/ が will の初頭 /w/ に連結 [ˈkaʊnsəl wɪl]",
+            "will have の弱形：have は弱形 /əv/ アヴ、its /v/ が prescribed の /p/ に未開放で接続 [wɪl əv̚ prɪˈskraɪbd]"
+          ],
+          "kana": "バイ ネクス マンス ザ カウンスル ウィル アヴ プリスクライブド オール ザ ニュー ビルディング リストリクションズ"
+        },
+        {
+          "en": "She will have prescribed daily challenges before the season finale arrives.",
+          "ja": "シーズンフィナーレが到着する前に、彼女は毎日のチャレンジを処方します。",
+          "ipa": "/ʃi wɪl əv prɪˈskraɪbd ˈdeɪli ˈtʃælɪndʒɪz bɪˈfɔr ðə ˈsizən fɪˈnæli əˈraɪvz/",
+          "linking": [
+            "she の /i/ が will の /w/ に連結 [ʃi wɪl] シー ウィル",
+            "will の /l/ が have に未開放で接続、have は弱形 /əv/ [wɪl əv̚]",
+            "have の /v/ が prescribed の /p/ に未開放で接続 [əv̚ prɪˈskraɪbd]"
+          ],
+          "kana": "シー ウィル アヴ プリスクライブド デイリー チャレンジーズ ビフォア ザ シーズン フィナーレ アライヴズ"
+        }
+      ]
     }
   ]
 }
