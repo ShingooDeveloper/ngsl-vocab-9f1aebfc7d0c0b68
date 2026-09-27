@@ -379,6 +379,97 @@
       ]
     }
   ],
+  {
+    "type": "future",
+    "label": "単純未来形（will + 原形）",
+    "text": "will doom",
+    "ipa": "/wəl ˈduːm/",
+    "examples": [
+      {
+        "en": "We will doom ourselves if we don't prepare properly for the End.",
+        "ja": "エンドに向けて適切に準備しなければ、我々は自分たちを滅亡に導く。",
+        "ipa": "/wi wəl ˈduːm ɑrˈsɛlvzɪf wi ˈdoʊnt prɪˈpɛr ˈpraʊpɚli fɚ ðə ˈɛnd/",
+        "kana": "ウィ ウァル ドゥーム アーセルヴズィフ ウィ ドウント プリペア プロパリー ファー ザ エンド",
+        "linking": [
+          "「will」は弱形 /wəl/ ウァル",
+          "「ourselves if」—語末 /z/ が母音 /ɪ/ に連結 [ɑrˈsɛlvzɪf] アーセルヴズィフ",
+          "「for the」—for は弱形 /fɚ/ ファー、the は弱形 /ðə/ ザ"
+        ]
+      },
+      {
+        "en": "They will doom the entire server with that unstable redstone machine.",
+        "ja": "その不安定なレッドストーンマシンで、彼らはサーバー全体を滅亡させるだろう。",
+        "ipa": "/ðeɪ wəl ˈduːm ði ɪnˈtaɪɚ ˈsɝːvɚ wɪð ðæt ʌnˈsteɪbəl ˈrɛdˌstoʊn məˈʃiːn/",
+        "kana": "ザイ ウァル ドゥーム ザ インタイアー サーヴァー ウィズ ザット アンステイブル レッドストウン マシーン",
+        "linking": [
+          "「will」は弱形 /wəl/ ウァル",
+          "「the」が母音 /ɪ/ の前で /ði/ になる [ðiɪnˈtaɪɚ] ザインタイアー",
+          "「with」は弱形 /wɪð/ ウィズ、「that」は /ðæt/ ザット"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "future_progressive",
+    "label": "未来進行形（will be + -ing）",
+    "text": "will be dooming",
+    "ipa": "/wəl bi ˈduːmɪŋ/",
+    "examples": [
+      {
+        "en": "While we're mining, the Wither will be dooming our cave system with constant attacks.",
+        "ja": "採掘している間、ウィザーは絶え間ない攻撃で我々の洞窟システムを滅亡させるだろう。",
+        "ipa": "/waɪl wɪɚ ˈmaɪnɪŋ ðə ˈwɪðɚ wəl bi ˈduːmɪŋ aʊɚ ˈkeɪv ˈsɪstəm wɪð kənˈstænt əˈtæks/",
+        "kana": "ワイル ウィアー マイニング ザ ウィザー ウァル ビー ドゥーミング アワー ケイヴ シスタム ウィズ カンスタント アタックス",
+        "linking": [
+          "「will」は弱形 /wəl/ ウァル",
+          "「we're」=/wɪɚ/、are の弱化した縮約形",
+          "「our」は弱形 /aʊɚ/ アワー"
+        ]
+      },
+      {
+        "en": "If you keep expanding, you'll be dooming the server with lag by tomorrow.",
+        "ja": "拡張し続ければ、明日までにサーバーをラグで滅亡させるだろう。",
+        "ipa": "/ɪf ju kip ɪkˈspændɪŋ jəl bi ˈduːmɪŋ ðə ˈsɝːvɚ wɪðˈlæɡ baɪ təˈmɑɹoʊ/",
+        "kana": "イフ ユー キープ イクスパンディング ユル ビー ドゥーミング ザ サーヴァー ウィズラッグ バイ トゥモロウ",
+        "linking": [
+          "「you'll」=/jəl/、you will の縮約形で will が弱化",
+          "「the」は弱形 /ðə/ ザ",
+          "「with」は弱形 /wɪð/ ウィズ、「lag」の子音 /l/ に先立つ"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "future_perfect",
+    "label": "未来完了形（will have + 過去分詞）",
+    "text": "will have doomed",
+    "ipa": "/wəl həv ˈduːmd/",
+    "examples": [
+      {
+        "en": "If we don't stop the Wither now, it will have doomed our stronghold by the time reinforcements arrive.",
+        "ja": "今ウィザーを止めなければ、援軍が到着する頃には、ウィザーは既に要塞を滅亡させているだろう。",
+        "ipa": "/ɪf wi ˈdoʊnt stɑp ðə ˈwɪðɚ naʊ ɪt wəl həv ˈduːmd aʊɚ ˈstrɔŋˌhoʊld baɪ ðə ˈtaɪm ˌrɪnfɚsˈmənts əˈraɪv/",
+        "kana": "イフ ウィ ドウント ストップ ザ ウィザー ナウ イット ウァル ハヴ ドゥームド アワー ストロングホウルド バイ ザ タイム リンフォースメンツ ア ライヴ",
+        "linking": [
+          "「will」は弱形 /wəl/ ウァル",
+          "「have」は弱形 /həv/ ハヴ、doomed の /d/ に先立つが子音+子音のため未開放的",
+          "「our」と「the」は弱形 /aʊɚ/, /ðə/"
+        ]
+      },
+      {
+        "en": "Once the lava reaches the main chamber, it will have doomed everything we've built.",
+        "ja": "溶岩がメインチャンバーに到達すると、我々が建てたすべてが滅亡してしまう。",
+        "ipa": "/wʌns ðə ˈlɑvə ˈritʃɪz ðə ˈmeɪn ˈtʃeɪmbɚ ɪt wəl həv ˈduːmd ˈɛvrɪθɪŋ wɪv bɪlt/",
+        "kana": "ワンス ザ ラーバ リーチィズ ザ メイン チェイムバー イット ウァル ハヴ ドゥームド エヴリシング ウィヴ ビルト",
+        "linking": [
+          "「will」は弱形 /wəl/ ウァル",
+          "「have」は弱形 /həv/ ハヴ、doomed の /d/ に先立つが未開放的",
+          "「we've」=/wɪv/、we have の縮約形（have が /v/ に弱化）"
+        ]
+      }
+    ]
+  }
+],
   "idioms": [
     {
       "idiom": "doom and gloom",

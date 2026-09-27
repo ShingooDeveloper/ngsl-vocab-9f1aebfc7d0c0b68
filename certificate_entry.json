@@ -412,6 +412,96 @@
           "kana": "ザイ ハド ビン サーティフィケイティング スキルド プレイヤーズ ア クロス ベリアス カテゴリーズ フォー トゥー イアーズ ウェン ザイ ディサイディド トゥー コンソリデイト ザ システム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will certificate",
+      "ipa": "/wɪl ˈsɚtɪfɪkeɪt/",
+      "examples": [
+        {
+          "en": "The server will certificate all players who reach the master level.",
+          "ja": "サーバーはマスターレベルに達したすべてのプレイヤーを認定します。",
+          "ipa": "[ðə ˈsɝvɚ wɪl ˈsɚtɪfɪkeɪt ɔl ˈpleɪɚz hu riːtʃ ðə ˈmæstɚ ˈlɛvəl]",
+          "linking": [
+            "server will: 語末の /r/ が will に連結 [ˈsɝvɚ wɪl]→「サーバー ウィル」",
+            "will certificate: will の語末 /l/ が子音 /s/ に先行し未開放 [wɪl̚ ˈsɚtɪfɪkeɪt]→「ウィル サーティフィケイト」",
+            "certificate all: 語末の /t/ が母音 /ɔ/ に連結 [ˈsɚtɪfɪkeɪt ɔl]→「サーティフィケイト オール」"
+          ],
+          "kana": "ザ サーバー ウィル サーティフィケイト オール プレイヤーズ フー リーチ ザ マスター レベル"
+        },
+        {
+          "en": "They'll certificate the champion at the year-end tournament ceremony.",
+          "ja": "彼らは年末トーナメント式典でチャンピオンを認定します。",
+          "ipa": "[ðeɪl ˈsɚtɪfɪkeɪt ðə ˈtʃæmpiən æt ðə ˈjɪɹ ɛnd ˈtɔrnəmənt ˈsɛɹəˌmoʊni]",
+          "linking": [
+            "They'll certificate: 縮約形 /ðeɪl/ の /l/ が子音 /s/ に先行し未開放 [ðeɪl̚ ˈsɚtɪfɪkeɪt]→「ザイル サーティフィケイト」",
+            "certificate the: 語末の /t/ が子音に先行し未開放 [ˈsɚtɪfɪkeɪt̚ ðə]→「サーティフィケイト ザ」",
+            "at the: 語末の /t/ が子音に先行し未開放、the は弱形 [æt̚ ðə]→「アット ザ」"
+          ],
+          "kana": "ザイル サーティフィケイト ザ チャンピオン アット ザ イヤー エンド トーナメント セレモニー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be certificating",
+      "ipa": "/wɪl bi sɚˈtɪfɪkeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The academy will be certificating new elite builders throughout the entire season.",
+          "ja": "アカデミーはシーズン全体を通じて、新しいエリートビルダーを認定し続けます。",
+          "ipa": "[ðə əˈkædəmi wɪl bi sɚˈtɪfɪkeɪtɪŋ nu iˈlit ˈbɪldɚz θruˈaʊt ðə ənˈtaɪɚ ˈsizən]",
+          "linking": [
+            "academy will: 語末の /i/ が will に連結 [əˈkædəmi wɪl]→「アカデミー ウィル」",
+            "will be: will の語末 /l/ が be の /b/ に先行し未開放 [wɪl̚ bi]→「ウィル ビー」",
+            "certificating new: 語末の /ŋ/ が子音に先行し未開放 [sɚˈtɪfɪkeɪtɪŋ̚ nu]→「サーティフィケイティング ニュー」"
+          ],
+          "kana": "ザ アカデミー ウィル ビー サーティフィケイティング ニュー イーリット ビルダーズ スルーアウト ザ エンタイアー シーズン"
+        },
+        {
+          "en": "We'll be certificating skilled players as they complete each milestone quest.",
+          "ja": "熟練したプレイヤーが各マイルストーンクエストを完了する際、私たちは彼らを認定します。",
+          "ipa": "[wɪl bi sɚˈtɪfɪkeɪtɪŋ ˈskɪld ˈpleɪɚz æz ðeɪ kəmˈpliːt itʃ ˈmaɪlˌstoʊn kwɛst]",
+          "linking": [
+            "We'll be: 縮約形 /wɪl/ の /l/ が be の /b/ に先行し未開放 [wɪl̚ bi]→「ウィル ビー」",
+            "be certificating: be は弱形 /bə/, certificating の /s/ に先行し未開放 [bi sɚˈtɪfɪkeɪtɪŋ]→「ビー サーティフィケイティング」",
+            "certificating skilled: 語末の /ŋ/ が子音に先行し未開放 [sɚˈtɪfɪkeɪtɪŋ̚ ˈskɪld]→「サーティフィケイティング スキルド」"
+          ],
+          "kana": "ウィル ビー サーティフィケイティング スキルド プレイヤーズ アズ ザイ コンプリート イーチ マイルストーン クウェスト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have certificated",
+      "ipa": "/wɪl həv ˈsɚtɪfɪkeɪtəd/",
+      "examples": [
+        {
+          "en": "By next season, the organization will have certificated over a thousand builders.",
+          "ja": "来シーズンまでに、その組織は1000人以上のビルダーを認定しているでしょう。",
+          "ipa": "[baɪ nɛkst ˈsizən ðə ɔɹɡənəˈzeɪʃən wɪl həv ˈsɚtɪfɪkeɪtəd ˈoʊvɚ ə ˈθaʊzənd ˈbɪldɚz]",
+          "linking": [
+            "season the: 語末の /n/ が子音に先行し未開放 [ˈsizən̚ ðə]→「シーズン ザ」",
+            "will have: will は弱形 /əl/, have の /h/ に先行し未開放 [wɪl həv]→「ウィル ハヴ」",
+            "have certificated: have は弱形 /əv/, certificated の /s/ に先行し未開放 [həv ˈsɚtɪfɪkeɪtəd]→「ハヴ サーティフィケイテッド」"
+          ],
+          "kana": "バイ ネクスト シーズン ザ オーガナイゼーション ウィル ハヴ サーティフィケイテッド オーバー ア サウザンド ビルダーズ"
+        },
+        {
+          "en": "By the tournament finale, the judges will have certificated every qualified builder.",
+          "ja": "トーナメントの最終戦までに、審査員はすべての適格なビルダーを認定しているでしょう。",
+          "ipa": "[baɪ ðə ˈtɔrnəmənt fɪˈnæl ðə ˈdʒʌdʒɪz wɪl həv ˈsɚtɪfɪkeɪtəd ˈɛvɹi ˈkwɑləˌfaɪd ˈbɪldɚ]",
+          "linking": [
+            "tournament finale: 語末の /t/ が子音に先行し未開放 [ˈtɔrnəmənt̚ fɪˈnæl]→「トーナメント フィナール」",
+            "will have: will は弱形 /əl/, have の /h/ に先行し未開放 [wɪl həv]→「ウィル ハヴ」",
+            "certificated every: 語末の /d/ が母音に連結 [ˈsɚtɪfɪkeɪtəd ˈɛvɹi]→「サーティフィケイテッド エブリー」"
+          ],
+          "kana": "バイ ザ トーナメント フィナール ザ ジャッジズ ウィル ハヴ サーティフィケイテッド エブリー クウォリファイド ビルダー"
+        }
+      ]
     }
   ]
 }

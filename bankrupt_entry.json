@@ -410,6 +410,66 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will bankrupt",
+      "ipa": "/wɪl ˈbæŋkrʌpt/",
+      "examples": [
+        {
+          "en": "I will bankrupt him if he keeps challenging me in the economy.",
+          "ja": "経済で私に挑戦し続けたら、彼を破産させるだろう。",
+          "ipa": "/aɪ wɪl ˈbæŋkrʌpt hɪm ɪf hi kips ˈtʃæləndʒɪŋ mi ɪn ðə ɪˈkɑnəmi/",
+          "kana": "アイ ウル バンクラプト ヒム イフ ヒー キープス チャレンジング ミー イン ザ イコノミー",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し bankrupt の初頭に続く（子音+子音で連結なし）[wəl ˈbæŋkrʌpt] ウル バンクラプト",
+            "bankrupt の語末 /t/ が him の初頭に続く（未開放）",
+            "in は弱形 /ɪn/、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "They will bankrupt the entire guild by stealing all resources.",
+          "ja": "彼らはすべてのリソースを盗むことでギルド全体を破産させるだろう。",
+          "ipa": "/ðeɪ wɪl ˈbæŋkrʌpt ðə ənˈtaɪr ɡɪld baɪ ˈstilɪŋ ɔːl rɪˈsoʊrsɪz/",
+          "kana": "ゼイ ウル バンクラプト ザ エンタイア ギルド バイ スティーリング オール リソーシーズ",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し bankrupt の初頭に続く（子音+子音で連結なし）[wəl ˈbæŋkrʌpt] ウル バンクラプト",
+            "the は弱形 /ðə/",
+            "stealing の語末 /ŋ/ が all の初頭に連結 [ˈstilɪŋ ɔːl] スティーリング オール"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have bankrupted",
+      "ipa": "/wɪl hæv ˈbæŋkrʌptɪd/",
+      "examples": [
+        {
+          "en": "By next week, I will have bankrupted three competing merchants.",
+          "ja": "来週までに、私は3人の競争商人を破産させているだろう。",
+          "ipa": "/baɪ ˈnɛkst wik aɪ wɪl hæv ˈbæŋkrʌptɪd θri kəmˈpitɪŋ ˈmɝːtʃənts/",
+          "kana": "バイ ネクスト ウィーク アイ ウル ハヴ バンクラプティド スリー コンピーティング マーチャンツ",
+          "linking": [
+            "next の語末 /t/ が week の初頭に続く（未開放）[nɛkst̚ wik] ネクスト ウィーク",
+            "will は弱形 /wəl/、have の初頭に続く（子音+子音で連結なし）、have は弱形 /əv/ [wəl əv] ウル アヴ",
+            "bankrupted の語末 /d/ が three の初頭に続く（未開放）[ˈbæŋkrʌptɪd̚ θri] バンクラプティッ スリー"
+          ]
+        },
+        {
+          "en": "We will have bankrupted the opposition by the time the season ends.",
+          "ja": "シーズン終了までに、私たちは敵を破産させているだろう。",
+          "ipa": "/wi wɪl hæv ˈbæŋkrʌptɪd ðə ˌɑpəˈzɪʃən baɪ ðə ˈtaɪm ðə ˈsiːzən ɛndz/",
+          "kana": "ウィー ウル ハヴ バンクラプティド ザ アポジション バイ ザ タイム ザ シーズン エンズ",
+          "linking": [
+            "will は弱形 /wəl/、have の初頭に続く（子音+子音で連結なし）、have は弱形 /əv/ [wəl əv] ウル アヴ",
+            "bankrupted の語末 /d/ が the の初頭に続く（未開放）、the は弱形 /ðə/ [ˈbæŋkrʌptɪd̚ ðə] バンクラプティッ ザ",
+            "season の語末 /n/ が ends の初頭に続く（子音+子音で連結なし）"
+          ]
+        }
+      ]
     }
   ]
 }

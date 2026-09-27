@@ -287,6 +287,101 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has preoccupied",
+      "ipa": "/həz ˌpriːˈɑk.jə.paɪd/",
+      "examples": [
+        {
+          "en": "Searching for the End portal has preoccupied the exploration team all week long.",
+          "ja": "エンドポータルを探すことは、探検チーム全体を1週間ずっと占めている。",
+          "ipa": "/ˈsɚːtʃɪŋ fɔr ðə ˈɛnd ˈpɔr.təl həz ˌpriːˈɑk.jə.paɪd ðə ˌɛk.splə.ˈreɪ.ʃən ˈtim ɔl ˈwik ˈlɔŋ/",
+          "kana": "サーチング フォー ザ エンド ポータル ハズ プリーアクジャパイド ザ エクスプロレイション ティーム オール ウィーク ロング",
+          "linking": [
+            "「for」は弱形 /fɔr/ フォー、「the」は弱形 /ðə/ ザ",
+            "「has」は弱形 /həz/ ハズ、preoccupied の /p/ に続き、子音+子音で未開放",
+            "「all week」—all の語末 /l/ が week の /w/ に続く（子音+子音）"
+          ]
+        },
+        {
+          "en": "Building elaborate base designs has preoccupied me since I started this creative world.",
+          "ja": "凝ったベースデザインの建築は、このクリエイティブワールドを開始してからずっと私を占めている。",
+          "ipa": "/ˈbɪl.dɪŋ ɪˈlæb.ə.rɪt ˈbeɪs dɪˈzaɪnz həz ˌpriːˈɑk.jə.paɪd mi sɪns aɪ ˈstɑɹ.tɪd ðɪs kɹiˈeɪ.tɪv ˈwɚld/",
+          "kana": "ビルディング イラボレイト ベイス ディザインズ ハズ プリーアクジャパイド ミー シンス アイ スターティド ディス クリエイティブ ワールド",
+          "linking": [
+            "「designs」の語末 /z/ が「has」の /h/ に先行（子音+子音で未開放）",
+            "「has」は弱形 /həz/ ハズ",
+            "「since」は /sɪns/ シンス、「I」は /aɪ/ アイ",
+            "「this」は /ðɪs/ ディス、「creative」の /k/ に続く（子音+子音）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had preoccupied",
+      "ipa": "/həd ˌpriːˈɑk.jə.paɪd/",
+      "examples": [
+        {
+          "en": "By the time the raid started, thoughts of defending our base had preoccupied everyone's mind.",
+          "ja": "レイドが始まるまでに、自分たちのベースを守ることへの思いが全員の心を占めていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd ˈstɑɹ.tɪd ˈθɔts əv dɪˈfɛn.dɪŋ ˈaʊɚ ˈbeɪs həd ˌpriːˈɑk.jə.paɪd ˈɛv.ɹi.wʌnz ˈmaɪnd/",
+          "kana": "バイ ザ タイム ザ レイド スターティド スォーツ アヴ ディフェンディング アワー ベイス ハド プリーアクジャパイド エブリワンズ マインド",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（2回）、「by」は /baɪ/、母音+子音で「the」に続く",
+            "「defending」の語末 /ŋ/ が「our」の /aʊ/ に続く（子音+母音だが連結しない）",
+            "「had」は弱形 /həd/ ハド、preoccupied の /p/ に続き、子音+子音で未開放",
+            "「everyone's」の語末 /z/ が「mind」の /m/ に先行（子音+子音）"
+          ]
+        },
+        {
+          "en": "Before we discovered the hidden treasure, finding valuable ore had preoccupied the miners for weeks.",
+          "ja": "隠された宝を発見する前に、貴重な鉱石を見つけることが鉱夫たちを何週間も占めていた。",
+          "ipa": "/bɪˈfɔr wi dɪsˈkʌv.ɚd ðə ˈhɪd.ən ˈtɛʒ.ɚ ˈfaɪn.dɪŋ ˈvæl.ju.wəl ˈɔr həd ˌpriːˈɑk.jə.paɪd ðə ˈmaɪ.nɚz fɔr ˈwiks/",
+          "kana": "ビフォー ウィ ディスカバード ザ ヒドゥン トレジャー ファインディング ヴァルュアボル オー ハド プリーアクジャパイド ザ マイナーズ フォー ウィークス",
+          "linking": [
+            "「discovered」の語末 /d/ が「the」の /ð/ に続く（子音+子音で未開放）、「the」は弱形 /ðə/",
+            "「finding」の語末 /ŋ/ が「valuable」の /v/ に続く（子音+子音で未開放）",
+            "「had」は弱形 /həd/ ハド、preoccupied の /p/ に続き、子音+子音で未開放",
+            "「for」は弱形 /fɔr/ フォー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been preoccupying",
+      "ipa": "/həz bɪn ˌpriːˈɑk.jə.paɪ.ɪŋ/",
+      "examples": [
+        {
+          "en": "Designing the mega base structure has been preoccupying the builders for the past month.",
+          "ja": "巨大なベース構造の設計が、ここ1ヶ月、ビルダーたちを占め続けている。",
+          "ipa": "/dɪˈzaɪn.ɪŋ ðə ˈmɛ.ɡə ˈbeɪs ˈstrʌk.tʃɚ həz bɪn ˌpriːˈɑk.jə.paɪ.ɪŋ ðə ˈbɪl.dɚz fɔr ðə ˈpæst ˈmʌnθ/",
+          "kana": "ディザイニング ザ メガ ベイス ストラクチャー ハズ ビン プリーアクジャパイイング ザ ビルダーズ フォー ザ パスト マンス",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（2回）",
+            "「has」は弱形 /həz/ ハズ、「been」は弱形 /bɪn/ ビン",
+            "「been」の語末 /n/ が「preoccupying」の /p/ に続き、子音+子音で未開放",
+            "「for」は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "Planning the optimal mining route has been preoccupying the team since yesterday morning.",
+          "ja": "最適な採掘ルートの計画が、昨朝からずっとチームを占め続けている。",
+          "ipa": "/ˈplæn.ɪŋ ðə ˈɑp.tə.məl ˈmaɪn.ɪŋ ˈrut həz bɪn ˌpriːˈɑk.jə.paɪ.ɪŋ ðə ˈtim sɪns ˈjɛs.tɚ.deɪ ˈmɔɹn.ɪŋ/",
+          "kana": "プランニング ザ オプティマル マイニング ルート ハズ ビン プリーアクジャパイイング ザ ティーム シンス イェスターデイ モーニング",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（2回）",
+            "「has」は弱形 /həz/ ハズ、「been」は弱形 /bɪn/ ビン",
+            "「been」の語末 /n/ が「preoccupying」の /p/ に続き、子音+子音で未開放",
+            "「since」は /sɪns/ シンス、「yesterday」の /j/ に続く（子音+子音）"
+          ]
+        }
+      ]
     }
   ],
   "tags": [

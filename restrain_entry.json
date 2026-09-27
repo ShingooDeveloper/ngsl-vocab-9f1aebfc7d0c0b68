@@ -293,6 +293,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has restrained",
+      "ipa": "/hæz rɪˈstreɪnd/",
+      "examples": [
+        {
+          "en": "Barrier blocks have restrained players from accessing creative mode items in survival.",
+          "ja": "バリアブロックは、プレイヤーがサバイバルモードでクリエイティブモードアイテムにアクセスするのを抑制しました。",
+          "ipa": "/ˈbɛɹiər blɑks hæv rɪˈstreɪnd ˈpleɪɚz frəm əˈsɛsɪŋ kriˈeɪtɪv moʊd ˈaɪtəmz ɪn sɚˈvaɪvəl/",
+          "linking": [
+            "barrier の語末 /r/ が blocks の /b/ に続く（子音+子音で連結なし）",
+            "blocks の語末 /z/ が have の /h/ に続く（子音+子音で連結なし）、have は弱形 /həv/",
+            "have の /v/ が restrained の /r/ に続く（子音+子音で連結なし）",
+            "from は弱形 /frəm/ で in は弱形 /ɪn/「イン」"
+          ],
+          "kana": "ベリアー ブラックス ハヴ リストレインド プレイアーズ フラム アクセシング クリエイティヴ モウド アイテムズ イン サーヴァイヴル"
+        },
+        {
+          "en": "We have restrained the water flow with careful block placement to protect the farm.",
+          "ja": "私たちは慎重なブロック配置で水の流れを抑制して、農場を保護しました。",
+          "ipa": "/wi hæv rɪˈstreɪnd ðə ˈwɔtɚ floʊ wɪð ˈkɛɹfəl blɑk ˈpleɪsmənt tu prəˈtɛkt ðə fɑɹm/",
+          "linking": [
+            "have は弱形 /həv/ で restrained の /r/ に続く（子音+子音で連結なし）",
+            "restrained の語末 /d/ が the の弱形 /ðə/ に連結 [rɪˈstreɪnd ðə] リストレインド ザ",
+            "with は弱形 /wɪð/「ウィス」、to は弱形 /tə/「タ」、the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "ウィー ハヴ リストレインド ザ ウォータ フロウ ウィス ケアフル ブラック プレイスメント タ プラテクト ザ ファーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had restrained",
+      "ipa": "/hæd rɪˈstreɪnd/",
+      "examples": [
+        {
+          "en": "She had restrained the lava before it destroyed the wooden house in the settlement.",
+          "ja": "彼女は集落の木製の家を破壊する前に溶岩を抑制していました。",
+          "ipa": "/ʃi hæd rɪˈstreɪnd ðə ˈlavə bɪˈfɔr ɪt dɪˈstrɔɪd ðə ˈwʊdən haʊs ɪn ðə ˈsɛtl̩mənt/",
+          "linking": [
+            "had は弱形 /həd/ で restrained の /r/ に未開放で連接 [həd̚ rɪˈstreɪnd] ハド リストレインド",
+            "restrained の語末 /d/ が the の弱形 /ðə/ に連結 [rɪˈstreɪnd ðə] リストレインド ザ",
+            "before の語末 /r/ が it の /ɪ/ に連結 [bɪˈfɔrɪt] ビフォー イット",
+            "the は弱形 /ðə/「ザ」（2回出現）、in は弱形 /ɪn/「イン」"
+          ],
+          "kana": "シー ハド リストレインド ザ ラーヴァ ビフォー イット ディストロイド ザ ウッデン ハウス イン ザ セットルメント"
+        },
+        {
+          "en": "The builders had restrained the creepers with obsidian walls before the night mob wave came.",
+          "ja": "夜のモブの波が来る前に、ビルダーたちは黒曜石の壁でクリーパーを抑制していました。",
+          "ipa": "/ðə ˈbɪldɚz hæd rɪˈstreɪnd ðə ˈkripɚz wɪð ɑbˈsɪdiən wɔlz bɪˈfɔr ðə naɪt moʊb weɪv keɪm/",
+          "linking": [
+            "the は弱形 /ðə/ で builders の /b/ に続く（子音+子音で連結なし）",
+            "builders の語末 /z/ が had の /h/ に続く（子音+子音で連結なし）、had は弱形 /həd/",
+            "had の /d/ が restrained の /r/ に未開放で連接 [həd̚ rɪˈstreɪnd] ハド リストレインド",
+            "restrained の語末 /d/ が the の弱形 /ðə/ に連結「リストレインド ザ」",
+            "with は弱形 /wɪð/「ウィス」、before の語末 /r/ が the の /ð/ に連結 [bɪˈfɔr ðə] ビフォー ザ"
+          ],
+          "kana": "ザ ビルダーズ ハド リストレインド ザ クリーパーズ ウィス オブシディアン ウォールズ ビフォー ザ ナイト モウブ ウェイヴ ケイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been restraining",
+      "ipa": "/hæz bɪn rɪˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "He has been restraining the wither throughout the battle with healing potions and clever tactics.",
+          "ja": "彼はヒーリングポーションと巧妙な戦術でウィザーとの戦闘中ずっと抑制し続けています。",
+          "ipa": "/hi hæz bɪn rɪˈstreɪnɪŋ ðə ˈwɪðɚ θruˈaʊt ðə ˈbætl̩ wɪð ˈhilɪŋ poʊˈʃənz ənd ˈklevɚ ˈtæktɪks/",
+          "linking": [
+            "has は弱形 /əz/ で been の /b/ に連結 [əz bɪn] アズ ビン",
+            "been の /n/ が restraining の /r/ に連結 [bɪn rɪˈstreɪnɪŋ] ビン リストレイニング",
+            "restraining の語末 /ŋ/ が the の弱形 /ðə/ に続く（子音+子音で連結なし）[rɪˈstreɪnɪŋ ðə] リストレイニング ザ",
+            "with は弱形 /wɪð/「ウィス」、and は弱形 /ənd/ または /ən/「アン」"
+          ],
+          "kana": "ヒー アズ ビン リストレイニング ザ ウィザー スルーアウト ザ バトル ウィス ヒーリング ポウションズ アンド クレバー タクティックス"
+        },
+        {
+          "en": "They have been restraining the zombie spawner output by blocking spawn areas with slabs.",
+          "ja": "彼らはスラブでスポーン領域をブロックしてゾンビスポーナーの出力を抑制し続けています。",
+          "ipa": "/ðeɪ hæv bɪn rɪˈstreɪnɪŋ ðə ˈzɑmbi ˈspɔnɚ ˈaʊtˌpʊt baɪ ˈblɑkɪŋ spoʊn ˈɛriəz wɪð slæbz/",
+          "linking": [
+            "have は弱形 /həv/ で been の /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been の /n/ が restraining の /r/ に連結 [bɪn rɪˈstreɪnɪŋ] ビン リストレイニング",
+            "restraining の語末 /ŋ/ が the の弱形 /ðə/ に続く（子音+子音で連結なし）",
+            "with は弱形 /wɪð/「ウィス」、output の /t/ と by の /b/ は未開放で続く [ˈaʊtˌpʊt̚ baɪ] アウトプッ バイ"
+          ],
+          "kana": "ザイ ハヴ ビン リストレイニング ザ ゾンビ スポーナー アウトプット バイ ブロッキング スポウン エリアーズ ウィス スラブズ"
+        }
+      ]
     }
   ]
 }

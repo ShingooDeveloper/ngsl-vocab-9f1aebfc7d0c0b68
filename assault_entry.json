@@ -452,6 +452,102 @@
           "kana": "ザ ホウステル モブズ ハヴ ビン アサルティング ザ パリミター フォアー セヴラル アワーズ ウィザウト エニー レスト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will assault",
+      "ipa": "/wɪl əˈsɔlt/",
+      "examples": [
+        {
+          "en": "The wither will assault our base at dawn, so we need to prepare defenses now.",
+          "ja": "ウィザーは夜明けに私たちの拠点を襲撃するので、今から防御を準備する必要があります。",
+          "ipa": "[ðə ˈwɪðɚ wɪ ləˈsɔlt ˈaʊɚ ˈbeɪs æt ˈdɔn soʊ wi ˈnid tə prɪˈpɛɚ dɪˈfɛnsɪz ˈnaʊ]",
+          "kana": "ザ ウィザー ウィル アサルト アワー ベイス アット ドーン ソー ウィ ニード タ プリぺアー ディフェンセズ ナウ",
+          "linking": [
+            "The は定冠詞の弱形 [ðə] ザ、wither の /w/ に続く",
+            "will の語末 /l/ が assault の /ə/ に連結 [wɪ ləˈsɔlt]",
+            "assault の語末 /t/ が our の /aʊ/ に未開放で続く [əˈsɔlt̚ ˈaʊɚ]",
+            "to は機能詞の弱形 /tə/ タ"
+          ]
+        },
+        {
+          "en": "We'll assault the nether fortress and claim the blaze rods.",
+          "ja": "ネザー要塞を襲撃して、ブレイズロッドを奪取します。",
+          "ipa": "[wil əˈsɔlt̚ ðə ˈnɛðɚ ˈfɔɹtɹəs ənd ˈkleɪm ðə ˈbleɪz ˈɹɑdz]",
+          "kana": "ウィル アサルト ザ ネザー フォーティス アンド クレイム ザ ブレイズ ロッドズ",
+          "linking": [
+            "We'll は \"we will\" の縮約形 [wil] ウィル",
+            "assault の語末 /t/ が the の /ð/ に未開放で続く [əˈsɔlt̚ ðə]",
+            "the は定冠詞の弱形 [ðə] ザ",
+            "and は接続詞の弱形 [ənd] アンド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be assaulting",
+      "ipa": "/wɪl bi əˈsɔltɪŋ/",
+      "examples": [
+        {
+          "en": "Hostile mobs will be assaulting our wooden walls while we defend from the tower.",
+          "ja": "敵対的なモブが木製の壁を襲撃している間、私たちはタワーから防御します。",
+          "ipa": "[ˈhoʊstəl ˈmɑbz wɪl bi əˈsɔltɪŋ ˈaʊɚ ˈwʊdn̩ ˈwɔlz waɪl wi dɪˈfɛnd frəm ðə ˈtaʊɚ]",
+          "kana": "ホウステル モブズ ウィル ビー アサルティング アワー ウッドン ウォールズ ワイル ウィ ディフェンド フラム ザ タワー",
+          "linking": [
+            "mobs の語末 /z/ が will の /w/ に未開放で続く [ˈmɑbz̚ wɪl]",
+            "will の語末 /l/ が be の /b/ に続き、子音+子音だが連結なし",
+            "be は助動詞の弱形 [bi] ビー",
+            "from は前置詞の弱形 [frəm] フラム"
+          ]
+        },
+        {
+          "en": "They'll be assaulting the stronghold at dawn.",
+          "ja": "彼らは夜明けに要塞を襲撃しているでしょう。",
+          "ipa": "[ðeɪl bi əˈsɔltɪŋ ðə ˈstrɔŋˌhoʊld æt ˈdɔn]",
+          "kana": "ゼイル ビー アサルティング ザ ストロングホウルド アット ドーン",
+          "linking": [
+            "They'll は \"they will\" の縮約形 [ðeɪl] ゼイル",
+            "be は助動詞の弱形 [bi] ビー、assaulting に続く",
+            "assaulting の語末 /ŋ/ が the の /ð/ に続き、子音+子音で連結なし",
+            "the は定冠詞の弱形 [ðə] ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have assaulted",
+      "ipa": "/wɪl həv əˈsɔltəd/",
+      "examples": [
+        {
+          "en": "By nightfall, the wither will have assaulted our base three times.",
+          "ja": "夜間までに、ウィザーは私たちの拠点を3回襲撃するでしょう。",
+          "ipa": "[baɪ ˈnaɪtˌfɔl ðə ˈwɪðɚ wɪl həv əˈsɔltəd ˈaʊɚ ˈbeɪs θɹi ˈtaɪmz]",
+          "kana": "バイ ナイトフォール ザ ウィザー ウィル ハヴ アサルティド アワー ベイス スリー タイムズ",
+          "linking": [
+            "nightfall の語末 /l/ が the の /ð/ に未開放で続く [ˈnaɪtˌfɔl̚ ðə]",
+            "will の語末 /l/ が have の /h/ に続く [wɪl həv]",
+            "have は助動詞の弱形 /həv/ または /əv/ ハヴ",
+            "assaulted の語末 /d/ が our の /aʊ/ に弱く連結"
+          ]
+        },
+        {
+          "en": "They will have assaulted the village by the time reinforcements arrive.",
+          "ja": "援軍が到着するまでに、彼らは村を襲撃するでしょう。",
+          "ipa": "[ðeɪ wɪl həv əˈsɔltəd ðə ˈvɪlɪdʒ baɪ ðə ˈtaɪm ˌriːɪnˈfoɹsmənt əˈraɪv]",
+          "kana": "ゼイ ウィル ハヴ アサルティド ザ ビレッジ バイ ザ タイム リーインフォースメント アライヴ",
+          "linking": [
+            "will の語末 /l/ が have の /h/ に続く [wɪl həv]",
+            "have は助動詞の弱形 [həv] ハヴ",
+            "assaulted の語末 /d/ が the の /ð/ に弱く連結 [əˈsɔltəd ðə]",
+            "the は定冠詞の弱形 [ðə] ザ"
+          ]
+        }
+      ]
     }
   ]
 }

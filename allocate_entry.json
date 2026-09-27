@@ -191,6 +191,102 @@
           "kana": "ザ システムイズ アロケイティング チャンク ローディング プライオリティ トゥニアバイ プレイヤーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has allocated",
+      "ipa": "/həz ˈæl.ə.keɪ.tɪd/",
+      "examples": [
+        {
+          "en": "We have allocated all available resources to the enchanting room project.",
+          "ja": "利用可能なすべてのリソースをエンチャンティングルームプロジェクトに配分しました。",
+          "ipa": "/wiː həv ˈæl.ə.keɪ.tɪd ɔːl əˈveɪ.ləbəl ˈrɪ.sɔːrs.ɪz tu ðə ɪnˈtʃæn.tɪŋ ˈruːm ˈprɑ.dʒɛkt/",
+          "linking": [
+            "have は弱形 /həv/、allocated は /ˈæl.ə.keɪ.tɪd/。/v/ が母音 /æ/ に連結 [væ]。ハヴ アロケイティッド と聞こえる。",
+            "allocated resources — allocated の語末子音 /d/ が resources の /r/ に連結 [drɪ]。アロケイティッド リソーシーズ と聞こえる。",
+            "to the — to は弱形 /tə/、the は弱形 /ðə/ に連結 [tðə]。タ ザ と聞こえる。",
+            "room project — room の語末子音 /m/ が project の /p/ に続く [mp]。ルーム プロジェクト と聞こえる。"
+          ],
+          "kana": "ウィー ハヴ アロケイティッド オール アヴェイラブル リソーシーズ トゥ ザ インチャンティング ルーム プロジェクト"
+        },
+        {
+          "en": "The admin has allocated exactly 64 diamonds for the beacon structure.",
+          "ja": "管理者がビーコン構造のためにちょうど64個のダイヤモンドを配分しました。",
+          "ipa": "/ðə ˈæd.mɪn həz ˈæl.ə.keɪ.tɪd ɪɡˈzæk.tli ˌsɪk.sti ˈfɔːr ˈdaɪ.məndz fɔːr ðə ˈbiː.kən ˈstrʌk.tʃər/",
+          "linking": [
+            "the admin — the は弱形 /ðə/、admin の /æ/ に連結 [ðæ]。ザアドミン と聞こえる。",
+            "admin has — admin の語末子音 /n/ が has の /h/ に続く [nh]。アドミン ハズ と聞こえる。",
+            "has allocated — has は弱形 /həz/、allocated の /æ/ に連結 [zæ]。ハズ アロケイティッド と聞こえる。",
+            "allocated exactly — allocated の語末 /d/ が exactly の /ɪ/ に連結 [dɪ]。アロケイティッド イグザクトリー と聞こえる。"
+          ],
+          "kana": "ザアドミン ハズ アロケイティッド イグザクトリー シクスティー フォー ダイモンズ フォー ザ ビーコン ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had allocated",
+      "ipa": "/həd ˈæl.ə.keɪ.tɪd/",
+      "examples": [
+        {
+          "en": "After we had allocated the materials, construction of the farm began.",
+          "ja": "材料を配分した後、農場の建設が始まりました。",
+          "ipa": "/ˈæf.tər wiː həd ˈæl.ə.keɪ.tɪd ðə məˈtɪr.i.əlz kən.ˈstrʌk.ʃən əv ðə ˈfɑrm bɪˈɡæn/",
+          "linking": [
+            "we had — we /wiː/ と had の弱形 /həd/ がスムーズに続く [wiː həd]。ウィー ハド と聞こえる。",
+            "had allocated — had は弱形 /həd/、allocated の /æ/ に連結 [dæ]。ハド アロケイティッド と聞こえる。",
+            "allocated the — allocated の語末 /d/ が the の /ð/ に続く [dðə]。アロケイティッド ザ と聞こえる。",
+            "of the — of は弱形 /əv/、the の /ð/ に連結 [vðə]。アヴ ザ と聞こえる。"
+          ],
+          "kana": "アフター ウィー ハド アロケイティッド ザ マテリアルズ コンストラクション アヴ ザ ファーム ビガン"
+        },
+        {
+          "en": "The server had allocated bandwidth before the peak player surge happened.",
+          "ja": "ピークプレイヤーサージが発生する前に、サーバーが帯域幅を配分していました。",
+          "ipa": "/ðə ˈsɜː.vər həd ˈæl.ə.keɪ.tɪd ˈbændˌwɪdθ bɪˈfɔːr ðə ˈpiːk ˈpleɪ.ər ˈsɜrdʒ ˈhæp.ənd/",
+          "linking": [
+            "the server — the は弱形 /ðə/、server の /s/ に連結 [ðəs]。ザ サーヴァー と聞こえる。",
+            "server had — server の語末 /r/ が had の /h/ に続く [rh]。サーヴァー ハド と聞こえる。",
+            "had allocated — had は弱形 /həd/、allocated の /æ/ に連結 [dæ]。ハド アロケイティッド と聞こえる。",
+            "before the — before の語末 /r/ が the の /ð/ に連結 [rðə]。ビフォー ザ と聞こえる。"
+          ],
+          "kana": "ザ サーヴァー ハド アロケイティッド バンドウィズ ビフォー ザ ピーク プレイヤー サージ ハプンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been allocating",
+      "ipa": "/həz bɪn ˈæl.ə.keɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "The system has been allocating chunk resources to active players all day.",
+          "ja": "システムが1日中、アクティブなプレイヤーにチャンクリソースを配分し続けています。",
+          "ipa": "/ðə ˈsɪs.təm həz bɪn ˈæl.ə.keɪ.tɪŋ ˈtʃʌŋk ˈrɪ.sɔːrs.ɪz tu ˈæk.tɪv ˈpleɪ.ərz ɔːl ˈdeɪ/",
+          "linking": [
+            "the system — the は弱形 /ðə/、system の /s/ に連結 [ðəs]。ザ システム と聞こえる。",
+            "system has — system の語末 /m/ が has の /h/ に続く [mh]。システム ハズ と聞こえる。",
+            "has been — has は弱形 /həz/、been の /b/ に続く子音+子音で [zb̚]。ハズ ビン と聞こえる。",
+            "been allocating — been は弱形 /bɪn/、allocating の /æ/ に連結 [næ]。ビン アロケイティング と聞こえる。"
+          ],
+          "kana": "ザ システム ハズ ビン アロケイティング チャンク リソーシーズ トゥ アクティブ プレイヤーズ オール デイ"
+        },
+        {
+          "en": "Players have been allocating their time between mining and building constantly.",
+          "ja": "プレイヤーたちが採掘と建築の間で時間を絶えず配分し続けています。",
+          "ipa": "/ˈpleɪ.ərz həv bɪn ˈæl.ə.keɪ.tɪŋ ðer ˈtaɪm bɪˈtwiːn ˈmaɪn.ɪŋ ənd ˈbɪl.dɪŋ ˈkɑn.stənt.li/",
+          "linking": [
+            "players have — players の語末 /z/ が have の /h/ に続く [zh]。プレイヤーズ ハヴ と聞こえる。",
+            "have been — have は弱形 /həv/、been の /b/ に続く子音+子音で [vb̚]。ハヴ ビン と聞こえる。",
+            "been allocating — been は弱形 /bɪn/、allocating の /æ/ に連結 [næ]。ビン アロケイティング と聞こえる。",
+            "and building — and は弱形 /ənd/、building の /b/ に続く [ndb]。アンド ビルディング と聞こえる。"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン アロケイティング ザー タイム ビトウィーン マイニング アンド ビルディング コンスタントリー"
+        }
+      ]
     }
   ]
 }
