@@ -193,6 +193,102 @@
           "kana": "ザイ アー コンテムプレイティング ザ ベスト ラウト スルー ザ ネザー ビフォー イクスプローリング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has contemplated",
+      "ipa": "/həz ˈkɑntəmpleɪtɪd/",
+      "examples": [
+        {
+          "en": "She has contemplated the design and finally built the magnificent castle.",
+          "ja": "彼女はその設計をじっくり考えて、ついに壮大な城を建てた。",
+          "ipa": "/ʃi həz ˌkɑntəmˈpleɪtɪd ðə dɪˈzaɪn ænd ˈfaɪnəli bɪlt ðə ˌmæɡˈnɪfɪsənt ˈkæsəl/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "design の /n/ が /æ/ に連結 [zain‿ænd] ザインアンド",
+            "built の /t/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ハズ コンテムプレイティッド ザ ディザイン アンド ファイナリー ビルト ザ マグニフィッセント キャッスル"
+        },
+        {
+          "en": "We have contemplated the terrain for weeks and selected the perfect base location.",
+          "ja": "私たちは何週間も地形をじっくり考えて、完璧なベース位置を選んだ。",
+          "ipa": "/wi həv ˌkɑntəmˈpleɪtɪd ðə ˈtɛreɪn fɔr wiks ænd sɪˈlɛktɪd ðə ˈpɝfɪkt ˈbeɪs loʊˈkeɪʃən/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "for は機能語で弱形 /fɔr/ フォー",
+            "terrain の /n/ が /f/ に続く（子音+子音）"
+          ],
+          "kana": "ウィ ハヴ コンテムプレイティッド ザ テレイン フォー ウィークス アンド セリェクティッド ザ パーフィクト ベイス ロケイション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had contemplated",
+      "ipa": "/həd ˈkɑntəmpleɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the raid started, they had contemplated the stronghold's weaknesses carefully.",
+          "ja": "レイドが始まる前に、彼らはその砦の弱点をじっくり考えていた。",
+          "ipa": "/bɪˈfɔr ðə ˈreɪd ˈstɑrtɪd, ðeɪ həd ˌkɑntəmˈpleɪtɪd ðə ˈstrɔŋhoʊldz ˈwiknəsɪz ˈkɛrfəli/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "raid の /d/ が /s/ に続く（子音+子音）、started の /ɪd/ は [ɪd] イド",
+            "weaknesses の /z/ が /k/ に続く（子音+子音）"
+          ],
+          "kana": "ビフォー ザ レイド スターティッド ザイ ハド コンテムプレイティッド ザ ストロングホールズ ウィークネシーズ ケアフリー"
+        },
+        {
+          "en": "I had contemplated several mining routes before discovering the richest ore vein.",
+          "ja": "最も豊富な鉱脈を発見する前に、私はいくつかの採掘ルートをじっくり考えていた。",
+          "ipa": "/aɪ həd ˌkɑntəmˈpleɪtɪd ˈsɛvərəl ˈmaɪnɪŋ ˈraʊts bɪˈfɔr dɪˈskʌvərɪŋ ðə ˈrɪtʃəst ˈɔr veɪn/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "several の /l/ が /m/ に続く（子音+子音）",
+            "before の /ɔr/ 末尾が /d/ に続く → /ɔ:r̚/ 未開放",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハド コンテムプレイティッド セヴラル マイニング ラウツ ビフォー ディスカヴァリング ザ リッチェスト オア ベイン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been contemplating",
+      "ipa": "/həz bɪn ˌkɑntəmˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "She has been contemplating this expansion project for the entire season.",
+          "ja": "彼女はこの拡張プロジェクトをシーズン全体をかけてじっくり考え続けている。",
+          "ipa": "/ʃi həz bɪn ˌkɑntəmˈpleɪtɪŋ ðɪs ɪkˈspænʃən ˈprɑdʒɛkt fɔr ðə ɪnˈtaɪər ˈsizən/",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "been は弱形 /bɪn/ ビン",
+            "this は /ðɪs/ ディス",
+            "for は機能語で弱形 /fɔr/ フォー、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ハズ ビン コンテムプレイティング ディス イクスパンション プロジェクト フォー ザ エンタイアー シーズン"
+        },
+        {
+          "en": "I have been contemplating whether to explore the End dimension ever since obtaining the Eyes of Ender.",
+          "ja": "エンダーアイを手に入れてからずっと、エンド次元を探索するかどうかをじっくり考え続けている。",
+          "ipa": "/aɪ həv bɪn ˌkɑntəmˈpleɪtɪŋ ˈweðər tu ɪkˈsplɔr ðə ˈɛnd dɪˈmɛnʃən ˈɛvər sɪns əbˈteɪnɪŋ ðə ˈaɪz əv ˈɛndər/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "to は機能語で弱形 /tə/ で子音 /ɪ/ に先立つ → [tə ɪkˈsplɔr] タイクスプロア",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ ビン コンテムプレイティング ウェザー タ イクスプロア ザ エンド ディメンション エヴァー シンス アブテイニング ザ アイズ アヴ エンダー"
+        }
+      ]
     }
   ],
   "tags": [
