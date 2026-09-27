@@ -410,6 +410,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will hazard",
+      "ipa": "/wɪl ˈhæz.ɚd/",
+      "examples": [
+        {
+          "en": "I'll hazard everything to reach the Nether fortress and collect rare blaze rods before nightfall.",
+          "ja": "夜明け前にネザー要塞に到達してレアなブレイズロッドを集めるために、すべてを危険にさらします。",
+          "ipa": "/aɪl ˈhæz.ɚd ˈɛvrɪˌθɪŋ tu ritʃ ðə ˈnɛðɚ ˈfɔɹtrɪs ənd kəˈlɛkt ˈrɛɹ ˈbleɪz ˈrɑdz bɪˈfɔr ˈnaɪt.fɔl/",
+          "kana": "アイル ハザード エブリシング トゥー リーチ ザ ネザー フォーティス アンド コレクト レアー ブレイズ ロッズ ビフォア ナイトフォール",
+          "linking": [
+            "「I'll hazard」で I'll の語末子音 /l/ が hazard に連結「アイル ハザード」",
+            "「to reach」で to は機能語で弱形 /tə/「トゥー」に弱化",
+            "「the Nether」で the は子音の前で弱形 /ðə/「ザ」に弱化",
+            "「and collect」で and は弱形 /ənd/「アンド」に弱化"
+          ]
+        },
+        {
+          "en": "The dangerous fog will hazard all players equally if they venture into the deep caves without proper equipment.",
+          "ja": "危険な霧がすべてのプレイヤーに等しく危険です。適切な装備がない場合、彼らが深い洞窟に向かうと。",
+          "ipa": "/ðə ˈdeɪndʒɚəs ˈfɔɡ wɪl ˈhæz.ɚd ˈɔl ˈpleɪɚz ˈiːkwəli ɪf ðeɪ ˈvɛntʃɚ ˈɪntu ðə ˈdip ˈkeɪvz wɪðˈaʊt ˈproʊpɚ ɪˈkwɪpmənt/",
+          "kana": "ザ デインジャラス フォッグ ウィル ハザード オール プレイヤーズ イークエリー イフ ゼイ ヴェンチャー インター ザ ディープ ケイヴズ ウィズアウト プロパー イクウィップメント",
+          "linking": [
+            "「dangerous fog」で dangerous の語末子音 /s/ が fog の /f/ に続く（子音+子音で未開放）「デインジャラス フォッグ」",
+            "「fog will」で fog の語末子音 /ɡ/ が will に続く「フォッグ ウィル」",
+            "「will hazard」で will の語末 /l/ が hazard に連結「ウィル ハザード」",
+            "「the deep」で the は子音の前で弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be hazarding",
+      "ipa": "/wɪl bi ˈhæz.ɚdɪŋ/",
+      "examples": [
+        {
+          "en": "The exploding creepers will be hazarding all our carefully constructed buildings throughout the night.",
+          "ja": "爆発するクリーパーは夜間ずっと、私たちが慎重に建設したすべての建物を危険にさらします。",
+          "ipa": "/ðə ɪkˈsploʊdɪŋ ˈkripɚz wɪl bi ˈhæz.ɚdɪŋ ˈɔl aʊɚ ˈkɛɹfəli kənˈstrʌktəd ˈbɪldɪŋz θruːˈaʊt ðə ˈnaɪt/",
+          "kana": "ザ イクスプロウディング クリーパーズ ウィル ビー ハザーディング オール アワー ケアフリー コンストラクティッド ビルディングズ スルーアウト ザ ナイト",
+          "linking": [
+            "「the exploding」で the は子音の前で弱形 /ðə/「ザ」に弱化",
+            "「will be」で will の語末 /l/ と be の /b/ は子音+子音で未開放「ウィル ビー」",
+            "「be hazarding」で be の母音 /i/ が hazarding に連結「ビー ハザーディング」",
+            "「our carefully」で our は弱形 /aʊɚ/「アワー」に弱化"
+          ]
+        },
+        {
+          "en": "I'll be hazarding my best tools and armor while mining deep within the dangerous nether fortress.",
+          "ja": "危険なネザー要塞の深い場所で採掘している間、私の最高のツールと防具を危険にさらします。",
+          "ipa": "/aɪl bi ˈhæz.ɚdɪŋ maɪ bɛst tulz ənd ˈɑɹmɚ ˈwaɪl ˈmaɪnɪŋ ˈdip wɪðˈɪn ðə ˈdeɪndʒɚəs ˈnɛðɚ ˈfɔɹtrɪs/",
+          "kana": "アイル ビー ハザーディング マイ ベスト トゥールズ アンド アーマー ワイル マイニング ディープ ウィズイン ザ デインジャラス ネザー フォーティス",
+          "linking": [
+            "「I'll be」で I'll の語末 /l/ と be の /b/ は子音+子音で未開放「アイル ビー」",
+            "「be hazarding」で be の母音 /i/ が hazarding に連結「ビー ハザーディング」",
+            "「and armor」で and は弱形 /ənd/「アンド」に弱化",
+            "「the dangerous」で the は子音の前で弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have hazarded",
+      "ipa": "/wɪl həv ˈhæz.ɚdəd/",
+      "examples": [
+        {
+          "en": "By the time we defeat the Ender dragon, we will have hazarded everything we own.",
+          "ja": "エンダードラゴンを倒す頃には、私たちが所有しているすべてを危険にさらしているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi dɪˈfit ðə ˈɛndɚ ˈdræɡən wi wɪl həv ˈhæz.ɚdəd ˈɛvrɪˌθɪŋ wi oʊn/",
+          "kana": "バイ ザ タイム ウィ ディフィット ザ エンダー ドラゴン ウィ ウィル ハヴ ハザーディッド エブリシング ウィ オウン",
+          "linking": [
+            "「by the」で by と the は続く「バイ ザ」；the は子音の前で弱形 /ðə/「ザ」",
+            "「we will」で we と will は続く「ウィ ウィル」",
+            "「will have」で will の語末 /l/ と have の /h/ は子音+子音で未開放、have は弱形 /həv/「ウィル ハヴ」",
+            "「have hazarded」で have の語末 /v/ が hazarded に連結「ハヴ ハザーディッド」"
+          ]
+        },
+        {
+          "en": "By midnight, you will have hazarded your best resources if you continue mining without saving progress.",
+          "ja": "真夜中までに、進捗を保存せずに採掘を続けると、最高のリソースを危険にさらしているでしょう。",
+          "ipa": "/baɪ ˈmɪdnaɪt ju wɪl həv ˈhæz.ɚdəd jɔr bɛst ˈrɛsɚsɪz ɪf ju kənˈtɪnju ˈmaɪnɪŋ wɪðˈaʊt ˈseɪvɪŋ ˈproɡrɛs/",
+          "kana": "バイ ミッドナイト ユー ウィル ハヴ ハザーディッド ユア ベスト レソーシーズ イフ ユー コンティニュー マイニング ウィザウト セイビング プログレス",
+          "linking": [
+            "「by midnight」で by と midnight は続く「バイ ミッドナイト」",
+            "「you will」で you と will は続く「ユー ウィル」",
+            "「will have」で will の語末 /l/ と have の /h/ は子音+子音で未開放、have は弱形 /həv/「ウィル ハヴ」",
+            "「have hazarded」で have の語末 /v/ が hazarded に連結「ハヴ ハザーディッド」"
+          ]
+        }
+      ]
     }
   ]
 }

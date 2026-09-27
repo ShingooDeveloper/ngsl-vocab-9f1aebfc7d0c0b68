@@ -280,6 +280,99 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has injected",
+      "ipa": "/həz ɪnˈdʒɛktɪd/",
+      "examples": [
+        {
+          "en": "We have injected the potion into the brewing stand.",
+          "ja": "私たちはポーションを醸造台に注入しました。",
+          "ipa": "/wi həv ɪnˈdʒɛktɪd ðə ˈpoʊ.ʃən ˈɪn.tu ðə ˈbru.ɪŋ ˈstænd/",
+          "kana": "ウィ ハヴ インジェクティド ザ ポーション イナ ザ ブリューイング スタンド",
+          "linking": [
+            "「we have」: we は弱形 [wi]「ウィ」、have は弱形 /həv/ [həv]→「ハヴ」、injected の /ɪ/ に連結傾向",
+            "「the potion」: the は子音前の弱形 /ðə/ [ðə]→「ザ」、potion の /p/ に先行",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "The dispenser has injected all the redstone into the hopper.",
+          "ja": "ディスペンサーはすべてのレッドストーンをホッパーに注入しました。",
+          "ipa": "/ðə dɪˈspɛn.sɚ həz ɪnˈdʒɛk.tɪd ɔːl ðə ˈrɛd.stoʊn ˈɪn.tu ðə ˈhɑ.pɚ/",
+          "kana": "ザ ディスペンサー ハズ インジェクティド オール ザ レッドストーン イナ ザ ハッパー",
+          "linking": [
+            "「the dispenser」: the は子音前の弱形 /ðə/ [ðə]→「ザ」",
+            "「dispenser has」: dispenser の語末 /ɚ/ が has の弱形 /əz/ に連結 [dɪˈspɛn.sɚ həz]→「ディスペンサー ハズ」",
+            "「has injected」: has は弱形 /həz/、injected の /ɪ/ に続く母音連接、into は弱形 /ɪnə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had injected",
+      "ipa": "/həd ɪnˈdʒɛktɪd/",
+      "examples": [
+        {
+          "en": "After we had injected the materials, the machine activated instantly.",
+          "ja": "材料を注入した後、機械は瞬時に起動しました。",
+          "ipa": "/ˈæf.tɚ wi həd ɪnˈdʒɛk.tɪd ðə məˈtɪɹ.i.əlz ðə məˈʃin ˈæk.tɪ.veɪ.tɪd ˈɪn.stən.tli/",
+          "kana": "アフター ウィ ハド インジェクティド ザ マティリアルズ ザ マシーン アクティベイティド インスタントリー",
+          "linking": [
+            "「After we」: after の語末 /r/ が we の /w/ に先行 [ˈæf.tɚ wi]→「アフター ウィ」",
+            "「we had」: we は弱形、had は弱形 /həd/ [wi həd]→「ウィ ハド」、injected に続く",
+            "「had injected」: had は弱形 /həd/、injected の /ɪ/ に連結傾向 [həd ɪn...]→「ハド イン」",
+            "「the materials」: the は子音前の弱形 /ðə/ [ðə]→「ザ」"
+          ]
+        },
+        {
+          "en": "Once they had injected the fuel, the engine started running smoothly.",
+          "ja": "燃料を注入すると、エンジンはスムーズに動作を開始しました。",
+          "ipa": "/wʌns ðeɪ həd ɪnˈdʒɛk.tɪd ðə ˈfju.əl ðə ˈɛn.dʒɪn ˈstɑr.tɪd ˈrʌn.ɪŋ ˈsmuzli/",
+          "kana": "ワンス ザイ ハド インジェクティド ザ フューエル ザ エンジン スターティド ラニング スムーズリー",
+          "linking": [
+            "「they had」: they の /eɪ/ が had の /h/ に先行、had は弱形 /həd/ [ðeɪ həd]→「ザイ ハド」",
+            "「had injected」: had は弱形 /həd/、injected の /ɪ/ に連結傾向 [həd ɪn...]→「ハド イン」",
+            "「injected the」: injected の語末 /d/ が the の /ð/ に先行、the は弱形 [ɪnˈdʒɛk.tɪd ðə]→「インジェクティド ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been injecting",
+      "ipa": "/həz bɪn ɪnˈdʒɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "The pump has been injecting water into the system all day.",
+          "ja": "ポンプは一日中システムに水を注入しています。",
+          "ipa": "/ðə ˈpʌmp həz bɪn ɪnˈdʒɛk.tɪŋ ˈwɑ.tɚ ˈɪn.tu ðə ˈsɪs.təm ɔːl ˈdeɪ/",
+          "kana": "ザ パンプ ハズ ビン インジェクティング ウォーラー イナ ザ システム オール デイ",
+          "linking": [
+            "「the pump」: the は子音前の弱形 /ðə/ [ðə]→「ザ」",
+            "「pump has」: pump の語末 /p/ が has の /ə/ に先行、has は弱形 /həz/ [ˈpʌmp həz]→「パンプ ハズ」",
+            "「has been」: has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn]→「ハズ ビン」、母音で連接",
+            "「water into」: water の /t/ がフラップ化 [ˈwɑ.ɾɚ]→「ウォーラー」、into は弱形 /ɪnə/"
+          ]
+        },
+        {
+          "en": "We have been injecting power into the circuit for hours.",
+          "ja": "私たちは何時間も回路に電力を注入し続けています。",
+          "ipa": "/wi həv bɪn ɪnˈdʒɛk.tɪŋ ˈpaʊ.ɚ ˈɪn.tu ðə ˈsɝ.kɪt fɚ ˈaʊ.ɚz/",
+          "kana": "ウィ ハヴ ビン インジェクティング パワー イナ ザ サーキット フォー アワーズ",
+          "linking": [
+            "「we have」: we は弱形 [wi]「ウィ」、have は弱形 /həv/ [həv]→「ハヴ」、been に続く",
+            "「have been」: have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn]→「ハヴ ビン」、母音で連接",
+            "「been injecting」: been は弱形 /bɪn/、injecting の /ɪ/ に続く [bɪn ɪn...]→「ビン イン」",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は弱形 /ðə/"
+          ]
+        }
+      ]
     }
   ]
 }
