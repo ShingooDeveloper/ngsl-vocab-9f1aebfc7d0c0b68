@@ -337,6 +337,98 @@
           "kana": "ザット プロテクティヴ バリアー ハズ ビン シールディング ザ クロップス フラム クリーパーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will shield",
+      "ipa": "/wɪl ʃild/",
+      "examples": [
+        {
+          "en": "I will shield you from the incoming arrows.",
+          "ja": "私は来ている矢からあなたを守ります。",
+          "ipa": "/aɪ wɪl ʃild ju frəm ðə ɪnˈkʌmɪŋ ˈæroʊz/",
+          "linking": [
+            "I'll shield - I'll の /l/ が shield の /ʃ/ に続く（子音+子音）",
+            "shield you - shield の /d/ が you の /j/ に続く（子音+子音）",
+            "from は弱形 /frəm/ フラム",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル シールド ユー フラム ザ インカミング アローズ"
+        },
+        {
+          "en": "The iron golem will shield the village from danger.",
+          "ja": "アイアンゴーレムは村を危険から守ります。",
+          "ipa": "/ðə ˈaɪərn ˈɡoʊləm wɪl ʃild ðə ˈvɪlɪdʒ frəm ˈdeɪndʒər/",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "iron golem - iron の /n/ が golem の /ɡ/ に続く（子音+子音）",
+            "will shield - will の /l/ が shield の /ʃ/ に続く（子音+子音）",
+            "from は弱形 /frəm/ フラム"
+          ],
+          "kana": "ザ アイアーン ゴーレム ウィル シールド ザ ヴィレッジ フラム デインジャー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be shielding",
+      "ipa": "/wɪl bi ˈʃɪldɪŋ/",
+      "examples": [
+        {
+          "en": "They will be shielding the fortress while we gather resources.",
+          "ja": "彼らはリソースを収集している間、砦を守ります。",
+          "ipa": "/ðeɪ wɪl bi ˈʃɪldɪŋ ðə ˈfɔrtres waɪl wi ˈɡæðər ˈrɛsɚsɪz/",
+          "linking": [
+            "They'll be - They'll の /l/ が be の /b/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "fortress while - fortress の /s/ が while の /w/ に続く（子音+子音）"
+          ],
+          "kana": "ザイル ビー シールディング ザ フォートレス ワイル ウィ ギャザー レソースィズ"
+        },
+        {
+          "en": "She'll be shielding the crops from creeper explosions tomorrow.",
+          "ja": "彼女は明日、クリーパー爆発から農作物を守ります。",
+          "ipa": "/ʃɪl bi ˈʃɪldɪŋ ðə krɑps frəm ˈkripɚ ɪkˈsploʊʒənz təˈmɑroʊ/",
+          "linking": [
+            "She'll be - She'll の /l/ が be の /b/ に続く（子音+子音）",
+            "the は弱形 /ðə/ ザ",
+            "from は弱形 /frəm/ フラム"
+          ],
+          "kana": "シル ビー シールディング ザ クロップス フラム クリーパー エクスプローションズ トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have shielded",
+      "ipa": "/wɪl həv ˈʃɪldɪd/",
+      "examples": [
+        {
+          "en": "By the time the raid ends, we will have shielded everyone.",
+          "ja": "レイドが終わるまでに、私たちはみんなを守ったでしょう。",
+          "ipa": "/baɪ ðə taɪm ðə reɪd ɛndz wil həv ˈʃɪldɪd ˈɛvriˌwʌn/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "we'll have - we'll の /l/ が have の /h/ に続く（子音+子音）",
+            "have は弱形 /həv/ ハヴ"
+          ],
+          "kana": "バイ ザ タイム ザ レイド エンズ ウィル ハヴ シールディッド エヴリワン"
+        },
+        {
+          "en": "The protection barrier will have shielded the spawn point from all damage.",
+          "ja": "保護バリアはスポーンポイントをすべての損傷から守ったでしょう。",
+          "ipa": "/ðə prəˈtɛkʃən ˈbæriər wɪl həv ˈʃɪldɪd ðə ˈspɔn pɔɪnt frəm ɔl ˈdæmɪdʒ/",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "will have - will の /l/ が have の /h/ に続く（子音+子音）",
+            "have は弱形 /həv/ ハヴ、from は弱形 /frəm/ フラム"
+          ],
+          "kana": "ザ プロテクション バリアー ウィル ハヴ シールディッド ザ スポーン ポイント フラム オール ダメイジ"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
