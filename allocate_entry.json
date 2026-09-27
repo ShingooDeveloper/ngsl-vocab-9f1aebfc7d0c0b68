@@ -287,6 +287,102 @@
           "kana": "プレイヤーズ ハヴ ビン アロケイティング ザー タイム ビトウィーン マイニング アンド ビルディング コンスタントリー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will allocate",
+      "ipa": "/wəl ˈæl.ə.keɪt/",
+      "examples": [
+        {
+          "en": "We will allocate diamonds for the enchanting room tomorrow.",
+          "ja": "明日、エンチャンティングルームのためにダイヤモンドを配分します。",
+          "ipa": "/wiː wəl ˈæl.ə.keɪt ˈdaɪ.məndz fɔːr ðə ɪnˈtʃæn.tɪŋ ˈruːm təˈmɑr.oʊ/",
+          "linking": [
+            "will allocate — will は弱形 /wəl/ で、allocate の /æ/ に連結 [læ]。ウル アロケイト と聞こえる。",
+            "allocate diamonds — allocate の語末 /t/ が diamonds の /d/ に続き、未開放 [t̚d]。アロケイット ダイモンズ と聞こえる。",
+            "for the — for の語末 /r/ が the の /ð/ に連結 [rðə]。フォーザ と聞こえる。",
+            "room tomorrow — room の語末 /m/ が tomorrow の /t/ に続く [mt]。ルーム タモロー と聞こえる。"
+          ],
+          "kana": "ウィ ウル アロケイット ダイモンズ フォーザ インチャンティング ルーム タモロー"
+        },
+        {
+          "en": "They'll allocate storage space for each player's inventory next week.",
+          "ja": "彼らは来週、各プレイヤーのインベントリのためにストレージスペースを配分します。",
+          "ipa": "/ðeɪl ˈæl.ə.keɪt ˈstɔr.ɪdʒ ˈspeɪs fɔːr iːtʃ ˈpleɪ.ərz ɪnˈven.tə.ri ˈnɛkst ˈwiːk/",
+          "linking": [
+            "they'll allocate — they'll は /ðeɪl/、allocate の /æ/ に連結 [læ]。ゼイル アロケイト と聞こえる。",
+            "allocate storage — allocate の語末 /t/ が storage の /s/ に続く [ts]。アロケイット ストレージ と聞こえる。",
+            "for each — for の語末 /r/ が each の /iː/ に連結 [riː]。フォーリーチ と聞こえる。",
+            "player's inventory — player's の語末 /z/ が inventory の /ɪ/ に連結 [zɪ]。プレイヤーズ インベントリ と聞こえる。"
+          ],
+          "kana": "ゼイル アロケイット ストレージ スペイス フォーリーチ プレイヤーズ インベントリ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be allocating",
+      "ipa": "/wəl bi ˈæl.ə.keɪ.tɪŋ/",
+      "examples": [
+        {
+          "en": "The system will be allocating chunk resources when the server restarts.",
+          "ja": "サーバーが再起動するとき、システムがチャンクリソースを配分しています。",
+          "ipa": "/ðə ˈsɪs.təm wəl bi ˈæl.ə.keɪ.tɪŋ ˈtʃʌŋk ˈrɪ.sɔːrs.ɪz ˈhwen ðə ˈsɜːr.vər rɪˈstɑrts/",
+          "linking": [
+            "system will — system の語末 /m/ が will の弱形 /wəl/ の /w/ に続く [mw]。システム ウル と聞こえる。",
+            "will be — will の /l/ が be の /b/ に続く子音+子音で [l̚b]。ウル ビー と聞こえる。",
+            "be allocating — be は弱形 /bi/ で、allocating の /æ/ に連結 [biæ]。ビー アロケイティング と聞こえる。",
+            "allocating chunk — allocating の語末 /ŋ/ が chunk の /tʃ/ に続く [ŋtʃ]。アロケイティング チャンク と聞こえる。"
+          ],
+          "kana": "ザ システム ウル ビー アロケイティング チャンク リソーシーズ ホエン ザ サーヴァー リスターツ"
+        },
+        {
+          "en": "We'll be allocating materials throughout the building phase.",
+          "ja": "建築段階全体を通じて、私たちは材料を配分し続けます。",
+          "ipa": "/wiːl bi ˈæl.ə.keɪ.tɪŋ məˈtɪr.i.əlz ˈθruː.aʊt ðə ˈbɪl.dɪŋ ˈfeɪz/",
+          "linking": [
+            "we'll be — we'll は /wiːl/、be の /b/ に続く子音+子音で [l̚b]。ウィール ビー と聞こえる。",
+            "be allocating — be は弱形 /bi/ で、allocating の /æ/ に連結 [biæ]。ビー アロケイティング と聞こえる。",
+            "allocating materials — allocating の語末 /ŋ/ が materials の /m/ に続く [ŋm]。アロケイティング マテリアルズ と聞こえる。",
+            "throughout the — throughout の語末 /t/ が the の /ð/ に続く [t̚ðə]。スルーアウット ザ と聞こえる。"
+          ],
+          "kana": "ウィール ビー アロケイティング マテリアルズ スルーアウット ザ ビルディング フェイズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have allocated",
+      "ipa": "/wəl həv ˈæl.ə.keɪ.tɪd/",
+      "examples": [
+        {
+          "en": "By next week, we will have allocated all the required resources.",
+          "ja": "来週までに、私たちは必要なすべてのリソースを配分しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈwiːk wiː wəl həv ˈæl.ə.keɪ.tɪd ɔːl ðə rɪˈkwaɪərd ˈrɪ.sɔːrs.ɪz/",
+          "linking": [
+            "will have — will の弱形 /əl/ が have の /h/ に続く [əlh]。ウル ハヴ と聞こえる。",
+            "have allocated — have は弱形 /həv/、allocated の /æ/ に連結 [væ]。ハヴ アロケイティッド と聞こえる。",
+            "allocated all — allocated の語末 /d/ が all の /ɔ/ に連結 [dɔ]。アロケイティッド オール と聞こえる。",
+            "the required — the は弱形 /ðə/、required の /r/ に連結 [ðər]。ザ リクワイヤード と聞こえる。"
+          ],
+          "kana": "バイ ネクスト ウィーク ウィ ウル ハヴ アロケイティッド オール ザ リクワイヤード リソーシーズ"
+        },
+        {
+          "en": "They'll have allocated the necessary materials before construction begins.",
+          "ja": "建設が始まる前に、彼らは必要な材料を配分し終わっているでしょう。",
+          "ipa": "/ðeɪl həv ˈæl.ə.keɪ.tɪd ðə ˈnɛs.ə.ser.i məˈtɪr.i.əlz bɪˈfɔːr kən.ˈstrʌk.ʃən bɪˈɡɪnz/",
+          "linking": [
+            "they'll have — they'll は /ðeɪl/、have の /h/ に続く [lh]。ゼイル ハヴ と聞こえる。",
+            "have allocated — have は弱形 /həv/、allocated の /æ/ に連結 [væ]。ハヴ アロケイティッド と聞こえる。",
+            "allocated the — allocated の語末 /d/ が the の /ð/ に続く [d̚ðə]。アロケイティッド ザ と聞こえる。",
+            "before construction — before の語末 /r/ が construction の /k/ に続く [rk]。ビフォー コンストラクション と聞こえる。"
+          ],
+          "kana": "ゼイル ハヴ アロケイティッド ザ ネセセリー マテリアルズ ビフォー コンストラクション ビギンズ"
+        }
+      ]
     }
   ]
 }
