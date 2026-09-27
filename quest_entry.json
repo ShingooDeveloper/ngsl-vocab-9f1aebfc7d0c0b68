@@ -404,6 +404,96 @@
           "kana": "ヒー ハズ ビン クエスティング ファー レア ドロップス ファー スリー デイズ ストレイト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will quest",
+      "ipa": "/wɪl ˈkwɛst/",
+      "examples": [
+        {
+          "en": "They will quest for diamonds once the storm passes.",
+          "ja": "嵐が過ぎたら、彼らはダイヤモンドを求めてクエストするだろう。",
+          "ipa": "/ðeɪ wɪl ˈkwɛst fɔr ˈdaɪməndz wʌns ðə stɔrm ˈpæsɪz/",
+          "linking": [
+            "will の /l/ が quest の /k/ に先行、子音-子音で未開放 [wɪl ˈkwɛst] ウィル クエスト",
+            "quest の /t/ が for の /f/ に先行、未開放 [ˈkwɛst fɔr] クエスト フォア",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ゼイ ウィル クエスト フォア ダイモンズ ワンス ザ ストーム パセス"
+        },
+        {
+          "en": "You will quest through the Nether with us next week.",
+          "ja": "来週、あなたは私たちと一緒にネザーをクエストするだろう。",
+          "ipa": "/ju wɪl ˈkwɛst θru ðə ˈnɛðər wɪð əs nɛks wik/",
+          "linking": [
+            "will の /l/ が quest の /k/ に先行、未開放 [wɪl ˈkwɛst] ウィル クエスト",
+            "quest の /t/ が through の /θ/ に先行、未開放 [ˈkwɛst θru] クエスト スルー",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ユー ウィル クエスト スルー ザ ネザー ウィズ アス ネクス ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be questing",
+      "ipa": "/wɪl bi ˈkwɛstɪŋ/",
+      "examples": [
+        {
+          "en": "We will be questing in the deep caves tonight.",
+          "ja": "今夜、私たちは深い洞窟でクエストしているだろう。",
+          "ipa": "/wi wɪl bi ˈkwɛstɪŋ ɪn ðə dip keɪvz təˈnaɪt/",
+          "linking": [
+            "will の /l/ が be の /b/ に先行、子音-子音で未開放 [wɪl bi] ウィル ビー",
+            "be の /i/ が questing の /k/ に先行 [bi ˈkwɛstɪŋ] ビー クエスティング",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "ウィ ウィル ビー クエスティング イン ザ ディープ ケイブズ トゥナイト"
+        },
+        {
+          "en": "She'll be questing for enchanted books while we're building.",
+          "ja": "私たちが建築している間、彼女はエンチャント本を求めてクエストしているだろう。",
+          "ipa": "/ʃil bi ˈkwɛstɪŋ fɔr ɪnˈtʃæntɪd ˈbʊks waɪl wir ˈbɪldɪŋ/",
+          "linking": [
+            "she'll の /l/ が be の /b/ に先行、縮約形 [ʃil bi] シール ビー",
+            "be の /i/ が questing の /k/ に先行 [bi ˈkwɛstɪŋ] ビー クエスティング",
+            "for は弱形 /fər/、「ファー」"
+          ],
+          "kana": "シール ビー クエスティング ファー インチャンティッド ブックス ホワイル ウィア ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have quested",
+      "ipa": "/wɪl həv ˈkwɛstəd/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have quested across all the biomes.",
+          "ja": "明日までに、私たちはすべてのバイオームをクエストしているだろう。",
+          "ipa": "/baɪ təˈmɑroʊ wi wɪl həv ˈkwɛstəd əˈkrɔs ɔl ðə ˈbaɪoʊmz/",
+          "linking": [
+            "will の /l/ が have の /h/ に先行、未開放 [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、「ハヴ」、quested の /d/ が across の /ə/ に連結 [həv əˈ] ハヴ ア",
+            "the は冠詞で弱形 /ðə/、「ザ」"
+          ],
+          "kana": "バイ トゥモロー ウィ ウィル ハヴ クエスティッド ア クロース オール ザ バイオームズ"
+        },
+        {
+          "en": "He will have quested for rare drops by the end of the month.",
+          "ja": "月末までに、彼はレアドロップを求めてクエストしているだろう。",
+          "ipa": "/hi wɪl həv ˈkwɛstəd fɔr ˈrɛr drɑps baɪ ðə ɛnd əv ðə ˈmʌnθ/",
+          "linking": [
+            "will の /l/ が have の /h/ に先行、未開放 [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、「ハヴ」、quested の /d/ が for の /f/ に先行 [ˈkwɛstəd fɔr] クエスティッド フォア",
+            "of は弱形 /əv/、「ア」"
+          ],
+          "kana": "ヒー ウィル ハヴ クエスティッド フォア レア ドロップス バイ ザ エンド ア ザ マンス"
+        }
+      ]
     }
   ]
 }
