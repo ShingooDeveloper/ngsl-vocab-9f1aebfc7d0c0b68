@@ -492,6 +492,34 @@
       ]
     }
   ],
+  "idioms": [
+    {
+      "idiom": "at last",
+      "ja": "ついに、やっと",
+      "example": "At last, we found diamonds in the deep cave!",
+      "example_ja": "ついに、深い洞窟でダイヤモンドを見つけました！",
+      "ipa": "/æt ˈlæst | wi ˈfaʊnd ˈdaɪəməndz ɪn ðə ˈdip ˈkeɪv/",
+      "linking": [
+        "at の語末子音 /t/ が last の初頭 /l/（子音+子音）に続き未開放傾向 [æt̚ ˈlæst] アット ラスト",
+        "in の語末子音 /n/ が the の初頭 /ð/ に続く（子音+子音なので連結なし）",
+        "the は弱形 /ðə/、deep に連結 [ðə ˈdip] ザ ディープ"
+      ],
+      "kana": "アット ラスト、ウィ ファウンド ダイアマンズ イン ザ ディープ ケイヴ"
+    },
+    {
+      "idiom": "last year",
+      "ja": "去年、昨年",
+      "example": "Last year we found diamonds inside a dark cave.",
+      "example_ja": "去年、暗い洞窟の中でダイヤモンドを見つけました。",
+      "ipa": "/ˈlæst ˈjɪr | wi ˈfaʊnd ˈdaɪməndz ɪnˈsaɪd ə ˈdɑrk ˈkeɪv/",
+      "linking": [
+        "last の語末子音 /t/ が year の初頭 /j/（子音+子音）に続き、未開放傾向 [ˈlæst̚ ˈjɪr] ラスト イヤー",
+        "inside の語末子音 /d/ が a の初頭 /ə/（母音）に連結 [ɪnˈsaɪd ə] インサイド ア",
+        "不定冠詞 a は弱形 /ə/ [ə ˈdɑrk] ア ダーク"
+      ],
+      "kana": "ラスト イヤー、ウィ ファウンド ダイモンズ インサイド ア ダーク ケイヴ"
+    }
+  ],
   "tags": [
     "Target 1400"
   ]
