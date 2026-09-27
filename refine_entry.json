@@ -1,0 +1,297 @@
+{
+  "word": "refine",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/rɪˈfaɪn/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "refin(?:e[sd]?|ing)",
+  "meanings": [
+    "【動詞】（不純物を取り除いて）精製する、純化する（鉱石から有用な素材を取り出す）",
+    "【動詞】（段階的に）改善する、洗練させる（方法やデザインをより良くする）",
+    "【動詞】（金属・石油などを）精錬する（原料から精製品を生産する）"
+  ],
+  "examples": [
+    {
+      "en": "We're refining iron ore in the furnace to get pure iron.",
+      "ja": "純粋な鉄を得るために、かまどで鉄鉱石を精錬しています。",
+      "ipa": "/wɪɹ rɪˈfaɪnɪŋ ˈaɪɹən ɔɹ ɪn ðə ˈfɝnəs tə ɡɛt pjʊɹ ˈaɪɹən/",
+      "linking": [
+        "we're の語末 /ɹ/ が次の音 /ɪ/ に連結 [wɪɹɪ] ウィリ。",
+        "ore の語末 /ɹ/ が母音 /ɪ/ に連結 [ɔɹɪn] オリン。",
+        "to は機能語の弱形 /tə/。",
+        "get の語末 /t/ は未開放で [ɡɛt̚] ゲッ。"
+      ],
+      "kana": "ウィリ リファイニング アイァレン オリン ザ ファーネス タ ゲット ピュア アイァレン"
+    },
+    {
+      "en": "I'm refining my redstone circuits to improve their efficiency.",
+      "ja": "レッドストーン回路の効率を改善するために、それらを洗練させています。",
+      "ipa": "/aɪm rɪˈfaɪnɪŋ maɪ ˈrɛdˌstoʊn ˈsɝkɪts tə ɪmˈpruːv ðɛɹ ɪˈfɪʃənsi/",
+      "linking": [
+        "I'm の語末 /m/ が次の音 /ɪ/ に連結 [aɪm ɪ] アイム リ。",
+        "redstone の語末 /n/ が次の子音 /s/ で未開放 [oʊn̚ s] オン スー。",
+        "improve の語末 /v/ が their の /ð/ に続く [v ð] ヴ ザ。",
+        "efficiency の語末音は短縮 [ɪˈfɪʃənsi] イフィシェンシー。"
+      ],
+      "kana": "アイム リファイニング マイ レッドストーン サーキッツ タ インプルーヴ ゼア イフィシェンシー"
+    },
+    {
+      "en": "Refining diamonds from ore takes time and effort.",
+      "ja": "鉱石からダイヤモンドを精製するには時間と努力が必要です。",
+      "ipa": "/rɪˈfaɪnɪŋ ˈdaɪˌmɑndz frəm ɔɹ teɪks taɪm ənd ˈɛfɚt/",
+      "linking": [
+        "from は機能語の弱形 /frəm/ フラム。",
+        "ore の語末 /ɹ/ が次の子音 /t/ で流れず、takes の /z/ が and の /ən/ に連結 [z ən] ズ アン。",
+        "effort の語末 /t/ は未開放 [ˈɛfɚt̚] エフォート。"
+      ],
+      "kana": "リファイニング ダイモンズ フラム オア テイクス タイム アン エフォート"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "refine one's skill",
+      "ja": "自分のスキルを磨く、技術を改善する",
+      "example": "The blacksmith refined his skill by crafting thousands of weapons.",
+      "example_ja": "その鍛冶屋は何千もの武器をクラフトすることで、スキルを磨きました。",
+      "ipa": "/ðə ˈblækˌsmɪθ rɪˈfaɪnd hɪz skɪl baɪ ˈkɹæftɪŋ ˈθaʊzəndz əv ˈwɛpənz/",
+      "linking": [
+        "the は弱形 /ðə/ ザ。",
+        "refined の語末 /d/ が his の /h/ で未開放 [d̚ h] ディ ヒズ。",
+        "of は弱形 /əv/ アヴ。"
+      ],
+      "kana": "ザ ブラックスミス リファインド ヒズ スキル バイ クラフティング ハウザンズ アヴ ウェパンズ"
+    },
+    {
+      "idiom": "refine a design",
+      "ja": "デザインを改善する、設計を洗練させる",
+      "example": "We refined the farm design until it was perfect.",
+      "example_ja": "完璧になるまで、農場のデザインを改善しました。",
+      "ipa": "/wɪ rɪˈfaɪnd ðə ˈfɑɹm dɪˈzaɪn ənˈtɪl ɪt wəz ˈpɝfɪkt/",
+      "linking": [
+        "the は弱形 /ðə/ ザ。",
+        "design の語末 /n/ が until の /ə/ で未開放と連結 [n̚ ən] ン アン。",
+        "was は弱形 /wəz/ ワズ。"
+      ],
+      "kana": "ウィ リファインド ザ ファーム ディザイン アンティル イット ワズ パーフィクト"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "refines",
+      "ipa": "/rɪˈfaɪnz/",
+      "examples": [
+        {
+          "en": "Our furnace refines ore into usable ingots.",
+          "ja": "私たちの炉は鉱石を使用可能なインゴットに精製します。",
+          "ipa": "/ˈaʊɚ ˈfɝnəs rɪˈfaɪnz ɔɹ ˈɪntə ˈjuːzəbəl ˈɪŋɡəts/",
+          "linking": [
+            "refines の語末 /z/ が ore の /ɔ/ に連結 [z ɔ] ズォア。",
+            "ore の語末 /ɹ/ が into の /ɪ/ に連結し、フラップ化 [ɾɪ] リ。",
+            "into は前置詞で弱化 /ˈɪntə/ インタ。"
+          ],
+          "kana": "アワー ファーネス リファインズ オア インタ ユーザブル イングッツ"
+        },
+        {
+          "en": "She refines materials every day for her mining projects.",
+          "ja": "彼女は毎日採掘プロジェクト用の素材を精製しています。",
+          "ipa": "/ʃi rɪˈfaɪnz məˈtɪɹiəlz ˈɛvɹi ˈdeɪ fɔɹ hɚ ˈmaɪnɪŋ ˈprɑdʒɛkts/",
+          "linking": [
+            "She の語末 /i/ から refines の /r/ へ、ほぼ連続 [ʃi r] シリ。",
+            "for は前置詞で弱化 /fɔɹ/ フォア。",
+            "mining の語末 /ŋ/ が projects の /p/ に続く [ŋ p] ング プ。"
+          ],
+          "kana": "シー リファインズ マティリアルズ エブリー デイ フォア ハー マイニング プロジェクツ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "refined",
+      "ipa": "/rɪˈfaɪnd/",
+      "examples": [
+        {
+          "en": "We refined the redstone circuit design yesterday.",
+          "ja": "私たちは昨日レッドストーン回路の設計を改善しました。",
+          "ipa": "/wi rɪˈfaɪnd ðə ˈrɛdˌstoʊn ˈsɝkɪt dɪˈzaɪn ˈjɛstɚˌdeɪ/",
+          "linking": [
+            "refined の語末 /d/ が the の /ð/ で未開放 [d̚ ð] ッ ザ。",
+            "the は定冠詞で弱化 /ðə/ ザ。",
+            "circuit の語末 /t/ が design の /d/ に続く [t d] ッ ディ。"
+          ],
+          "kana": "ウィ リファインド ザ レッドストーン サーキット ディザイン イェスタデイ"
+        },
+        {
+          "en": "They refined their building techniques over many months.",
+          "ja": "彼らは何ヶ月もかけて建築技術を改善しました。",
+          "ipa": "/ðeɪ rɪˈfaɪnd ðɛɹ ˈbɪldɪŋ tɛkˈnikz ˈoʊvɚ ˈmɛni ˈmʌnθs/",
+          "linking": [
+            "refined の語末 /d/ が their の /ð/ で未開放し、弱形 [d̚ ðɛɹ] ッ ゼア。",
+            "building の語末 /ŋ/ が technique の /t/ に続く [ŋ t] ング テク。",
+            "over は前置詞で弱化 /ˈoʊvɚ/ オウバー。"
+          ],
+          "kana": "ゼイ リファインド ゼア ビルディング テクニークス オウバー メニー マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "refined",
+      "ipa": "/rɪˈfaɪnd/",
+      "examples": [
+        {
+          "en": "The ore has been refined into pure iron ingots.",
+          "ja": "鉱石は純粋な鉄インゴットに精製されています。",
+          "ipa": "/ðə ɔɹ həz bɪn rɪˈfaɪnd ˈɪntə pjʊɹ ˈaɪɹən ˈɪŋɡəts/",
+          "linking": [
+            "ore の語末 /ɹ/ が has の /h/ に続き、弱形で [ɹ̚ həz] オア ハズ。",
+            "been は助動詞で弱化 /bɪn/ ビン。",
+            "refined の語末 /d/ が into の /ɪ/ に連結 [d ɪ] ディ。"
+          ],
+          "kana": "ザ オア ハズ ビン リファインド インタ ピュア アイァレン イングッツ"
+        },
+        {
+          "en": "Once refined, this material becomes very valuable for building.",
+          "ja": "一度精製されると、この素材は建築用に非常に価値があります。",
+          "ipa": "/wʌns rɪˈfaɪnd ðɪs məˈtɪɹiəl bɪˈkʌmz ˈvɛɹi ˈvæljuəbəl fɔɹ ˈbɪldɪŋ/",
+          "linking": [
+            "refined の語末 /d/ が this の /ð/ で未開放 [d̚ ðɪs] ッ ディス。",
+            "becomes の語末 /z/ が very の /v/ に続く [z v] ズ ベリ。",
+            "valuable の語末 /əl/ が for の /f/ に続く [əl f] アル フォア。"
+          ],
+          "kana": "ワンス リファインド ディス マティリアル ビカムズ ベリー ヴァルュアブル フォア ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "refining",
+      "ipa": "/rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We're refining copper ore for our smelter setup.",
+          "ja": "私たちはスメルター設置用に銅鉱石を精製しています。",
+          "ipa": "/wɪɹ rɪˈfaɪnɪŋ ˈkɑpɚ ɔɹ fɔɹ ˈaʊɚ ˈsmɛltɚ ˈsɛtˌʌp/",
+          "linking": [
+            "we're の語末 /ɹ/ が refining の /ɪ/ に連結 [ɹ ɪ] リ。",
+            "ore の語末 /ɹ/ が for の /f/ に続く [ɹ f] オア ファ。",
+            "for は前置詞で弱化 /fɔɹ/ ファ。"
+          ],
+          "kana": "ウィア リファイニング カッパー オア ファ アワー スメルター セットアップ"
+        },
+        {
+          "en": "By refining materials we improve our crafting abilities constantly.",
+          "ja": "素材を精製することで、私たちはクラフト能力を常に改善します。",
+          "ipa": "/baɪ rɪˈfaɪnɪŋ məˈtɪɹiəlz wi ɪmˈpruːv ˈaʊɚ ˈkɹæftɪŋ əˈbɪlɪtiz ˈkɑnstəntli/",
+          "linking": [
+            "by の語末 /aɪ/ が refining の /r/ に続く [aɪ r] バイ リ。",
+            "refining の語末 /ŋ/ が materials の /m/ に続く [ŋ m] ング マ。",
+            "improve の語末 /v/ が our の /ˈaʊ/ に続く [v aʊ] ヴ アワ。"
+          ],
+          "kana": "バイ リファイニング マティリアルズ ウィー インプルーヴ アワー クラフティング アビリティーズ カンスタントリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is refining",
+      "ipa": "/ɪz rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We are refining iron ore in the furnace right now.",
+          "ja": "私たちは今、かまどで鉄鉱石を精製しています。",
+          "ipa": "/wi ɑɹ rɪˈfaɪnɪŋ ˈaɪɹən ɔɹ ɪn ðə ˈfɝnəs ɹaɪt naʊ/",
+          "linking": [
+            "are は弱形 /ɑɹ/ アー。",
+            "ore の末尾 /ɹ/ が in の /ɪ/ に連結 [ɔɹɪn]「オリン」。",
+            "in の末尾 /n/ が the に連結、the の弱形 /ðə/ [ɪn ðə]「イン ザ」。",
+            "right の末尾 /t/ が now の /n/ に連結しない（子音+子音で未開放）[ɹaɪt̚ naʊ]「ライト ナウ」"
+          ],
+          "kana": "ウィ アー リファイニング アイァレン オリン ザ ファーネス ライト ナウ"
+        },
+        {
+          "en": "Alex is refining her techniques for mining diamonds efficiently.",
+          "ja": "アレックスはダイヤモンド採掘の効率的な技術を洗練させています。",
+          "ipa": "/ˈælɪks ɪz rɪˈfaɪnɪŋ hɚ tɛkˈnikz fɔɹ ˈmaɪnɪŋ ˈdaɪməndz ɪˈfɪʃəntli/",
+          "linking": [
+            "is は弱形 /ɪz/ イズ、refining の /r/ に続く。",
+            "her は弱形 /hɚ/ ハー。",
+            "for は前置詞で弱形 /fɔɹ/ フォア。",
+            "efficiently の末尾音 /li/ は子音に続く [ɪˈfɪʃəntli]「イフィシェントリー」"
+          ],
+          "kana": "アレックス イズ リファイニング ハー テクニークス フォア マイニング ダイモンズ イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was refining",
+      "ipa": "/wəz rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I was refining diamonds when a creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、ダイヤモンドを精製していました。",
+          "ipa": "/aɪ wəz rɪˈfaɪnɪŋ ˈdaɪməndz wɛn ə ˈkriːpər ɪkˈsploʊdəd ˈnɪɹbi/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ、refining の /r/ に続く。",
+            "diamonds の末尾 /z/ が when の /w/ に続く [z w] ズ ウェン。",
+            "creeper の末尾 /r/ が exploded の /ɪ/ に連結 [ˈkriːpər ɪkˈsploʊdəd]「クリーパー イクスプロウディッド」。",
+            "nearby の末尾 /i/ は短縮 [ˈnɪɹbi]「ニアバイ」"
+          ],
+          "kana": "アイ ワズ リファイニング ダイモンズ ウェン ア クリーパー イクスプロウディッド ニアバイ"
+        },
+        {
+          "en": "They were refining their redstone design when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼らはレッドストーンの設計を洗練させていました。",
+          "ipa": "/ðeɪ wɚ rɪˈfaɪnɪŋ ðɛɹ ˈrɛdˌstoʊn dɪˈzaɪn wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー、refining の /r/ に続く。",
+            "refining の末尾 /ŋ/ が their の /ð/ に連結しない（鼻音+子音で未開放）[ɪŋ ðɛɹ]「イング ゼア」。",
+            "the は弱形 /ðə/ ザ、server の /s/ に続く（子音+子音で未開放）。",
+            "crashed の末尾 /t/ は未開放 [kræʃt̚]「クラッシュト」"
+          ],
+          "kana": "ゼイ ワー リファイニング ゼア レッドストウン ディザイン ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been refining",
+      "ipa": "/hæd bɪn rɪˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "We had been refining copper ore for hours before finding the perfect ingots.",
+          "ja": "完璧なインゴットを見つける前に、私たちは何時間も銅鉱石を精製していました。",
+          "ipa": "/wi hæd bɪn rɪˈfaɪnɪŋ ˈkɑpɚ ɔɹ fɔɹ ˈaʊɚz bɪˈfɔɹ ˈfaɪndɪŋ ðə ˈpɝfɪkt ˈɪŋɡəts/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の /b/ に続く（未開放）[hæd bɪn]「ハド ビン」。",
+            "been は弱形 /bɪn/ ビン、refining の /r/ に続く（子音+子音で未開放）。",
+            "ore の末尾 /ɹ/ が for に連結 [ɔɹ fɔɹ]「オア フォア」。",
+            "finding の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）、the は弱形 /ðə/ [ɪŋ ðə]「イング ザ」"
+          ],
+          "kana": "ウィ ハド ビン リファイニング カッパー オア フォア アウアーズ ビフォア ファインディング ザ パーフィクト イングッツ"
+        },
+        {
+          "en": "She had been refining the farm design for weeks before we saw the final result.",
+          "ja": "最終的な結果を見る前に、彼女は何週間も農場の設計を洗練させていました。",
+          "ipa": "/ʃi hæd bɪn rɪˈfaɪnɪŋ ðə ˈfɑɹm dɪˈzaɪn fɔɹ wiks bɪˈfɔɹ wi sɔ ðə ˈfaɪnəl rɪˈzʌlt/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の /b/ に続く（未開放）[hæd bɪn]「ハド ビン」。",
+            "been は弱形 /bɪn/ ビン、refining の /ɪ/ に連結 [bɪn ɪˈfaɪnɪŋ]「ビン リファイニング」。",
+            "the は弱形 /ðə/ ザ、farm の /f/ に続く（子音+子音で未開放）。",
+            "weeks の末尾 /s/ が before の /b/ に続く [s b] スビ「ウィークス ビフォア」"
+          ],
+          "kana": "シー ハド ビン リファイニング ザ ファーム ディザイン フォア ウィークス ビフォア ウィ ソー ザ ファイナル リザルト"
+        }
+      ]
+    }
+  ]
+}
