@@ -304,6 +304,102 @@
           "kana": "ゼイ ハッド ビン レンダリング ザ レソース パック テクスチャーズ ファー ウィークス ビフォア リリーシング ザ アップデイト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has rendered",
+      "ipa": "/həz ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "I have rendered this fortress with reinforced stone and dark oak timber, making it look strong and imposing.",
+          "ja": "私はこの要塞を補強された石とダークオークの木材でレンダリングしており、強そうで印象的に見えています。",
+          "ipa": "[aɪ ˈhæv ˈrɛndərd ðɪs ˈfɔɹtɪs wɪð ˌrɪnˈfɔɹst stoʊn ənd dɑɹk ˈoʊk ˈtɪmbɚ ˈmeɪkɪŋ ɪt ˈlʊk ˈstɹɔŋ ənd ɪmˈpoʊzɪŋ]",
+          "linking": [
+            "have rendered - have は弱形 /həv/；rendered /ˈrɛndərd/ へ /v/ が連結 [həv ˈrɛndərd] ハヴ レンダード",
+            "rendered this - rendered の語末 /d/ が this の /ð/ に未開放で接続 [ˈrɛndərd ðɪs] レンダード ディス",
+            "fortress with - fortress の語末 /s/ が with の /w/ に続く；未開放 [ˈfɔɹtɪs wɪð] フォーティス ウィス",
+            "stone and - stone の語末 /n/ が and の /ə/ に続き；and は弱形 /ən/ [stoʊn ənd] ストウン アンド"
+          ],
+          "kana": "アイ ハヴ レンダード ディス フォーティス ウィス リインフォースト ストウン アンド ダーク オウク ティンバー メイキング イット ルック ストロング アンド インポウジング"
+        },
+        {
+          "en": "The designers have rendered every cave system with detailed stalactites and unique geological formations.",
+          "ja": "デザイナーたちは、すべての洞窟システムを詳細なつらら石と独特の地質学的な構造でレンダリングしました。",
+          "ipa": "[ðə dɪˈzaɪnɚz ˈhæv ˈrɛndərd ˈɛvɹi ˈkeɪv ˈsɪstəm wɪð dɪˈteɪld stəˈlæktaɪts ənd juˈnik dʒiːəˈlɑdʒɪkəl fɔɹˈmeɪʃənz]",
+          "linking": [
+            "designers have - designers の語末 /z/ が have へ連結；have は弱形 /həv/ [dɪˈzaɪnɚz həv] ディザイナーズ ハヴ",
+            "have rendered - have は弱形 /həv/；rendered へ /v/ が連結 [həv ˈrɛndərd] ハヴ レンダード",
+            "rendered every - rendered の語末 /d/ が every の /ɛ/ に連結 [ˈrɛndərd ˈɛvɹi] レンダード エヴリ",
+            "with detailed - with の語末 /θ/ が detailed へ続く；未開放で接続 [wɪθ dɪˈteɪld] ウィス ディテイルド"
+          ],
+          "kana": "ザ ディザイナーズ ハヴ レンダード エヴリ ケイヴ システム ウィス ディテイルド スタラクタイツ アンド ユニーク ジオロジカル フォーメイションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had rendered",
+      "ipa": "/həd ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "Before the server crashed, we had rendered the entire coastline with custom beach textures and driftwood.",
+          "ja": "サーバーがクラッシュする前に、私たちはカスタムビーチテクスチャと流木で海岸線全体をレンダリングしていました。",
+          "ipa": "[bɪˈfɔr ðə ˈsɝvɚ kræʃt wi ˈhæd ˈrɛndərd ðə ɪnˈtaɪɚ ˈkoʊstˌlaɪn wɪð ˈkʌstəm ˈbitʃ ˈtɛkstʃɚz ənd ˈdrɪftˌwʊd]",
+          "linking": [
+            "Before the - before の語末 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "had rendered - had の語末 /d/ が rendered へ未開放で接続；rendered は /ˈrɛndərd/ [ˈhæd ˈrɛndərd] ハッド レンダード",
+            "rendered the - rendered の語末 /d/ が the の弱形 /ðə/ に連結 [ˈrɛndərd ðə] レンダード ザ",
+            "with custom - with の語末 /θ/ が custom へ続く；未開放で接続 [wɪθ ˈkʌstəm] ウィス カスタム"
+          ],
+          "kana": "ビフォア ザ サーバー クラッシュド ウィー ハッド レンダード ザ インタイアー コウストライン ウィス カスタム ビーチ テクスチャーズ アンド ドリフトウッド"
+        },
+        {
+          "en": "By the time the patch was released, the team had rendered all the new enchantment effects with stunning visuals.",
+          "ja": "パッチがリリースされるまでに、チームはすべての新しいエンチャント効果を見事なビジュアルでレンダリングしていました。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈpætʃ wəz rɪˈlist ðə ˈtim ˈhæd ˈrɛndərd ˈɔl ðə ˈnu ɪnˈtʃɑntmənt ɪˈfɛkts wɪð ˈstʌndɪŋ ˈvɪʒuəlz]",
+          "linking": [
+            "by the - by の語末 /aɪ/ が the へ続く [baɪ ðə] バイ ザ",
+            "had rendered - had の語末 /d/ が rendered へ未開放で接続 [ˈhæd ˈrɛndərd] ハッド レンダード",
+            "rendered all - rendered の語末 /d/ が all の /ɔ/ に連結 [ˈrɛndərd ˈɔl] レンダード オール",
+            "with stunning - with の語末 /θ/ が stunning へ続く；未開放で接続 [wɪθ ˈstʌndɪŋ] ウィス スタンディング"
+          ],
+          "kana": "バイ ザ タイム ザ パッチ ワズ リリースト ザ ティーム ハッド レンダード オール ザ ニュー インチャントメント イフェクツ ウィス スタンディング ヴィジュアルズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been rendering",
+      "ipa": "/həz bɪn ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "The artist has been rendering intricate details on the main hall's ceiling for three weeks straight.",
+          "ja": "アーティストはメインホールの天井に複雑な詳細をレンダリングしている状態が3週間続いています。",
+          "ipa": "[ðə ˈɑɹtɪst ˈhæz bɪn ˈrɛndərɪŋ ɪnˈtrɪkət dɪˈteɪlz ɑn ðə ˈmeɪn hɔl's ˈsilɪŋ fər ˈθri wiks ˈstɹeɪt]",
+          "linking": [
+            "has been - has は弱形 /həz/；been は弱形 /bɪn/、/z/ が連結 [həz bɪn] ハズ ビン",
+            "been rendering - been の語末 /n/ が rendering へ続く；鼻音連結 [bɪn ˈrɛndərɪŋ] ビン レンダリング",
+            "on the - on の語末 /n/ が the へ続く；the は弱形 /ðə/ [ɑn ðə] オン ザ",
+            "hall's ceiling - hall's の語末 /z/ が ceiling へ続く；未開放で接続 [hɔlz ˈsilɪŋ] ホールズ シーリング"
+          ],
+          "kana": "ザ アーティスト ハズ ビン レンダリング イントリケット ディテイルズ オン ザ メイン ホールズ シーリング ファー スリー ウィークス ストレイト"
+        },
+        {
+          "en": "Our server has been rendering the landscape with seasonal weather effects since the winter update.",
+          "ja": "私たちのサーバーは冬のアップデート以来、季節の天気エフェクトで風景をレンダリングしている状態が続いています。",
+          "ipa": "[ˈaʊɚ ˈsɝvɚ ˈhæz bɪn ˈrɛndərɪŋ ðə ˈlændskeɪp wɪð ˈsiːzənəl ˈwɛðɚ ɪˈfɛkts sɪns ðə ˈwɪntɚ əpˈdeɪt]",
+          "linking": [
+            "has been - has は弱形 /həz/；been は弱形 /bɪn/、/z/ が連結 [həz bɪn] ハズ ビン",
+            "been rendering - been の語末 /n/ が rendering へ続く；鼻音連結 [bɪn ˈrɛndərɪŋ] ビン レンダリング",
+            "rendering the - rendering の語末 /ŋ/ が the へ続く；the は弱形 /ðə/ [ˈrɛndərɪŋ ðə] レンダリング ザ",
+            "since the - since の語末 /s/ が the へ続く；the は弱形 /ðə/ [sɪns ðə] シンス ザ"
+          ],
+          "kana": "アワー サーバー ハズ ビン レンダリング ザ ランドスケイプ ウィス シーズナル ウェザー イフェクツ シンス ザ ウィンター アップデイト"
+        }
+      ]
     }
   ]
 }
