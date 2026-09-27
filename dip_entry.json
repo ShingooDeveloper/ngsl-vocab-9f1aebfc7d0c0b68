@@ -291,6 +291,93 @@
           "kana": "アイ ハド ビン ディッピングアイテムズ ファー スリー アウアーズ ウェン ユー アライド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has dipped",
+      "ipa": "/həz ˈdɪpt/",
+      "examples": [
+        {
+          "en": "I have dipped my pickaxe in the magic pool.",
+          "ja": "私は自分のつるはしを魔法の池に浸しました。",
+          "ipa": "/aɪ həv ˈdɪpt maɪ ˈpɪkæks ɪn ðə ˈmædʒɪk pul/",
+          "linking": [
+            "「have」- 機能語は弱形 /həv/",
+            "「the magic」- 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ディップト マイ ピックアックス イン ザ マジック プール"
+        },
+        {
+          "en": "We have dipped our best tools in the enchanted water.",
+          "ja": "私たちは最高のツールを魔法の水に浸しました。",
+          "ipa": "/wi həv ˈdɪpt ˈaʊɚ ˈbɛst tulz ɪn ðə ɪnˈtʃæntɪd ˈwɔɾɚ/",
+          "linking": [
+            "「have」- 機能語は弱形 /həv/",
+            "「water」- t がフラップ化 /ɾ/ に [ˈwɔɾɚ] ウォーラー",
+            "「the enchanted」- 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ディップト アウア ベスト ツールズ イン ザ エンチャンティド ウォーラー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had dipped",
+      "ipa": "/həd ˈdɪpt/",
+      "examples": [
+        {
+          "en": "We had dipped all the items before the crash.",
+          "ja": "クラッシュする前に、私たちはすべてのアイテムを浸していました。",
+          "ipa": "/wi həd ˈdɪpt ɔl ðə ˈaɪtəmz bɪˈfɔr ðə ˈkræʃ/",
+          "linking": [
+            "「had」- 機能語は弱形 /həd/",
+            "「the items」- 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ディップト オール ザ アイテムズ ビフォア ザ クラッシュ"
+        },
+        {
+          "en": "They had dipped their armor in healing water before logging off.",
+          "ja": "ログオフする前に、彼らはヒーリング水に鎧を浸していました。",
+          "ipa": "/ðeɪ həd ˈdɪpt ðɛr ˈɑrmɚ ɪn ˈhilɪŋ ˈwɔɾɚ bɪˈfɔr ˈlɑɡɪŋ ɔf/",
+          "linking": [
+            "「had」- 機能語は弱形 /həd/",
+            "「water」- t がフラップ化 /ɾ/ に [ˈwɔɾɚ] ウォーラー"
+          ],
+          "kana": "ゼイ ハド ディップト ゼア アーマー イン ヒーリング ウォーラー ビフォア ラギング オフ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been dipping",
+      "ipa": "/həz bɪn ˈdɪpɪŋ/",
+      "examples": [
+        {
+          "en": "She has been dipping swords in the potion all day.",
+          "ja": "彼女は一日中ポーションに剣を浸しています。",
+          "ipa": "/ʃi həz bɪn ˈdɪpɪŋ sɔrdz ɪn ðə ˈpoʊʃən ɔl ˈdeɪ/",
+          "linking": [
+            "「has」- 機能語は弱形 /həz/",
+            "「been」- 機能語は弱形 /bɪn/",
+            "「sword in」- 語末子音 /d/ が母音 /ɪ/ に連結 [sɔɹdɪn] ソアディン"
+          ],
+          "kana": "シー ハズ ビン ディッピング ソアディン ザ ポーション オール デイ"
+        },
+        {
+          "en": "We have been dipping armor in the healing cauldron for hours.",
+          "ja": "私たちは何時間もヒーリング坩堝に鎧を浸しています。",
+          "ipa": "/wi həv bɪn ˈdɪpɪŋ ˈɑrmɚ ɪn ðə ˈhilɪŋ ˈkɔldrən fɚ ˈaʊɚz/",
+          "linking": [
+            "「have」- 機能語は弱形 /həv/",
+            "「been」- 機能語は弱形 /bɪn/",
+            "「the healing」- 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ビン ディッピング アーマー イン ザ ヒーリング カルドロン ファー アウアーズ"
+        }
+      ]
     }
   ]
 }
