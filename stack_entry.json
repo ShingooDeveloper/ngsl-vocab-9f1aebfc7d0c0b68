@@ -300,6 +300,100 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has stacked",
+      "ipa": "/həz ˈstækt/",
+      "examples": [
+        {
+          "en": "I have stacked all the materials needed for the new enchantment room.",
+          "ja": "新しいエンチャント部屋に必要なすべての材料を積み重ねました。",
+          "ipa": "/aɪ həv ˈstækt ɔl ðə məˈtɪɹiəlz ˈniːdɪd fɚ ðə ˈnju ɪnˈtʃæntmənt ˈɹum/",
+          "kana": "アイ ハヴ スタック オール ザ マテリアルズ ニーディッド ファー ザ ニュー インチャントメント ルーム",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "stacked の語末 /t/ が all の /ɔ/ の前で未開放 [ˈstæk̚t]",
+            "the は弱形 /ðə/ ザ に弱化",
+            "for は弱形 /fɚ/ ファー に弱化"
+          ]
+        },
+        {
+          "en": "We have stacked enough resources to complete the mega base expansion.",
+          "ja": "メガベースの拡張を完成させるのに十分なリソースを積み重ねました。",
+          "ipa": "/wi həv ˈstækt ɪˈnʌf ˈɹɛsɚsɪz tu kəmˈplit ðə ˈmeɡə ˈbeɪs ɪkˈspænʃən/",
+          "kana": "ウィー ハヴ スタック イナフ レソーシズ トゥー コンプリート ザ メガ ベース イクスパンション",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "stacked の語末 /t/ が enough の /ɪ/ の前で未開放 [ˈstæk̚t]",
+            "to は弱形 /tu/ トゥー に弱化",
+            "the は弱形 /ðə/ ザ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had stacked",
+      "ipa": "/həd ˈstækt/",
+      "examples": [
+        {
+          "en": "After I had stacked the diamonds carefully, the server crashed unexpectedly.",
+          "ja": "ダイヤモンドを慎重に積み上げた後、サーバーが予期せず崩壊しました。",
+          "ipa": "/ˈæftɚ aɪ həd ˈstækt ðə ˈdaɪmənz ˈkɛɹfəli ðə ˈsɚvɚ ˈkɹæʃt ʌnɪkˈspɛktɪdli/",
+          "kana": "アフター アイ ハド スタック ザ ダイモンズ ケアフリー ザ サーバー クラッシュ アニクスペクティドリー",
+          "linking": [
+            "After の語末 /ɚ/ が I の /aɪ/ に続き滑らかに [ˈæftɚ aɪ] アフター アイ",
+            "had は弱形 /həd/ ハド、stacked の語末 /t/ が the の /ðə/ の前で未開放 [ˈstæk̚t̚]",
+            "the は弱形 /ðə/ ザ に弱化",
+            "server の語末 /ɚ/ が crashed の /k/ に続き、crashed の語末 /t/ は未開放"
+          ]
+        },
+        {
+          "en": "The builders had stacked materials for the fortress before the raid alarm sounded.",
+          "ja": "レイドアラームが鳴る前に、ビルダーたちは城塞のための材料を積み重ねていました。",
+          "ipa": "/ðə ˈbɪldɚz həd ˈstækt məˈtɪɹiəlz fɚ ðə ˈfɔɹtɚɛs bɪˈfɔɹ ðə ˈreɪd əˈlɑɹm ˈsaʊndɪd/",
+          "kana": "ザ ビルダーズ ハド スタック マテリアルズ ファー ザ フォートレス ビフォー ザ レイド アラーム サウンディッド",
+          "linking": [
+            "the は弱形 /ðə/ ザ に弱化",
+            "had は弱形 /həd/ ハド、stacked の語末 /t/ が materials の /m/ の前で未開放 [ˈstæk̚t̚]",
+            "for は弱形 /fɚ/ ファー、before の語末 /ɹ/ が the の弱形 /ðə/ に連結 [bɪˈfɔɹðə] ビフォーザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been stacking",
+      "ipa": "/həz bɪn ˈstæk.ɪŋ/",
+      "examples": [
+        {
+          "en": "I have been stacking cobblestone blocks for the past two hours on this building project.",
+          "ja": "この建築プロジェクトで過去2時間、丸石のブロックを積み重ねています。",
+          "ipa": "/aɪ həv bɪn ˈstæk.ɪŋ ˈkɑbəlˌstoʊn ˈblɑks fɚ ðə ˈpæst tu ˈaʊɚz ɑn ðɪs ˈbɪldɪŋ ˈprɑdʒɛkt/",
+          "kana": "アイ ハヴ ビン スタッキング コバルストウン ブラックス ファー ザ パスト トゥー アワーズ オン ジス ビルディング プロジェクト",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン に弱化",
+            "stacking の語末 /ŋ/ が cobblestone の /k/ に続き滑らかに [ˈstæk.ɪŋ ˈkɑbəl] スタッキング コバル",
+            "for は弱形 /fɚ/ ファー に弱化",
+            "this の語末 /s/ が building の /b/ に続き、building の語末 /ŋ/ が project に続く"
+          ]
+        },
+        {
+          "en": "She has been stacking materials efficiently, and the inventory is almost full now.",
+          "ja": "彼女は効率的に材料を積み重ねており、インベントリはほぼいっぱいになっています。",
+          "ipa": "/ʃi həz bɪn ˈstæk.ɪŋ məˈtɪɹiəlz ɪˈfɪʃəntli ən ðə ɪnˈvɛntɚi ɪz ˈɔlmoʊst ˈfʊl ˈnaʊ/",
+          "kana": "シー ハズ ビン スタッキング マテリアルズ イフィシェントリー エン ザ インベントリー イズ オールモスト フル ナウ",
+          "linking": [
+            "has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン に弱化",
+            "stacking の語末 /ŋ/ が materials の /m/ に連結して滑らかに [ˈstæk.ɪŋ məˈtɪɹiəlz] スタッキング マテリアルズ",
+            "and は弱形 /ən/ エン に弱化、the は弱形 /ðə/ ザ に弱化"
+          ]
+        }
+      ]
     }
   ]
 }
