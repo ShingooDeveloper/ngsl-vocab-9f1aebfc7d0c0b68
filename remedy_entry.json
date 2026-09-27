@@ -374,6 +374,97 @@
           "kana": "ウィ ハヴ ビン レマディング エヴリ イシュー イン アウアー キャッスル オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will remedy",
+      "ipa": "/wɪl ˈɹɛmədi/",
+      "examples": [
+        {
+          "en": "I will remedy the cave flooding by digging a drainage system.",
+          "ja": "排水システムを掘ることで、洞窟の浸水を改善します。",
+          "ipa": "[aɪ wɪl ˈɹɛmədi ðə ˈkeɪv ˈflʌdɪŋ baɪ ˈdɪɡɪŋ ə ˈdɹeɪnɪdʒ ˈsɪstəm]",
+          "linking": [
+            "will の /l/ が remedy /ɹ/ に連結 [wɪl ˈɹɛmədi] ウィル レマディ",
+            "the は弱形 /ðə/",
+            "a は弱形 /ə/"
+          ],
+          "kana": "アイ ウィル レマディ ザ ケイブ フラディング バイ ディギング ア ドレイニッジ システム"
+        },
+        {
+          "en": "We will remedy all the structural damage before the next raid arrives.",
+          "ja": "次の襲撃が到着する前に、すべての構造的損害を改善します。",
+          "ipa": "[wi wɪl ˈɹɛmədi ˈɔl ðə ˈstrʌktʃərəl ˈdæmɪdʒ bɪˈfɔɹ ðə ˈnɛkst ˈreɪd əˈɹaɪvz]",
+          "linking": [
+            "will の /l/ が remedy /ɹ/ に連結 [wɪl ˈɹɛmədi] ウィル レマディ",
+            "all の /l/ が the /ð/ に連結 [ˈɔl ðə] オール ザ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル レマディ オール ザ ストラクチャラル ダメージ ビフォア ザ ネクスト レイド ァライブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be remedying",
+      "ipa": "/wɪl bi ˈɹɛmədiɪŋ/",
+      "examples": [
+        {
+          "en": "They will be remedying the farm efficiency problems all next week.",
+          "ja": "彼らは来週中、農場の効率問題を改善しています。",
+          "ipa": "[ðeɪ wɪl bi ˈɹɛmədiɪŋ ðə ˈfɑɹmz ɪˈfɪʃənsi ˈpɹɑbləmz ˈɔl ˈnɛkst ˈwiːk]",
+          "linking": [
+            "will の /l/ が be /b/ に連結 [wɪl bi] ウィル ビー",
+            "be は弱形 /bi/、/i/ が remedying /ɹ/ に連結 [bi ˈɹɛmədiɪŋ] ビー レマディング",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ウィル ビー レマディング ザ ファームズ イフィシェンシー プロブレムズ オール ネクスト ウィーク"
+        },
+        {
+          "en": "She will be remedying the redstone circuit for the entire evening.",
+          "ja": "彼女は夜間中ずっとレッドストーン回路を改善しています。",
+          "ipa": "[ʃi wɪl bi ˈɹɛmədiɪŋ ðə ˈɹɛdˌstoʊn ˈsɝkɪt fɔɹ ðɪ ənˈtaɪɚ ˈivnɪŋ]",
+          "linking": [
+            "will の /l/ が be /b/ に連結 [wɪl bi] ウィル ビー",
+            "be は弱形 /bi/、/i/ が remedying /ɹ/ に連結 [bi ˈɹɛmədiɪŋ] ビー レマディング",
+            "the は弱形 /ðɪ/"
+          ],
+          "kana": "シー ウィル ビー レマディング ザ レッドストーン サーキット フォー ディ エンタイヤー イブニング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have remedied",
+      "ipa": "/wɪl həv ˈɹɛmədɪd/",
+      "examples": [
+        {
+          "en": "By dawn, we will have remedied every structural issue in our castle.",
+          "ja": "夜明けまでに、私たちはお城のすべての構造的な問題を改善しています。",
+          "ipa": "[baɪ ˈdɔn | wi wɪl həv ˈɹɛmədɪd ˈɛvɹi ˈstrʌktʃərəl ˈɪʃu ɪn ˈaʊɚ ˈkæsəl]",
+          "linking": [
+            "will の /l/ が have /h/ に連結 [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、/v/ が remedied /ɹ/ に連結 [həv ˈɹɛmədɪd] ハヴ レマディド",
+            "in の /n/ が our /aʊ/ に連結 [ɪn ˈaʊɚ] イン アウアー"
+          ],
+          "kana": "バイ ドーン | ウィ ウィル ハヴ レマディド エヴリ ストラクチャラル イシュー イン アウアー キャッスル"
+        },
+        {
+          "en": "He will have remedied all the water damage before moving to the next project.",
+          "ja": "彼は次のプロジェクトに移る前に、すべての水ダメージを改善しています。",
+          "ipa": "[hi wɪl həv ˈɹɛmədɪd ˈɔl ðə ˈwɔɾɚ ˈdæmɪdʒ bɪˈfɔɹ ˈmuːvɪŋ tu ðə ˈnɛkst ˈpɹɑdʒɛkt]",
+          "linking": [
+            "will の /l/ が have /h/ に連結 [wɪl həv] ウィル ハヴ",
+            "have は弱形 /həv/、/v/ が remedied /ɹ/ に連結 [həv ˈɹɛmədɪd] ハヴ レマディド",
+            "all の /l/ が the /ð/ に連結 [ˈɔl ðə] オール ザ",
+            "water の /t/ がフラップT化 [ˈwɔɾɚ] ウォーラー"
+          ],
+          "kana": "ヒー ウィル ハヴ レマディド オール ザ ウォーラー ダメージ ビフォア ムービング トゥ ザ ネクスト プロジェクト"
+        }
+      ]
     }
   ]
 }
