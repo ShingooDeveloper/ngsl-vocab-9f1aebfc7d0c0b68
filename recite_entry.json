@@ -292,6 +292,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will recite",
+      "ipa": "/wəl rɪˈsaɪt/",
+      "examples": [
+        {
+          "en": "I will recite the mining path to everyone tomorrow.",
+          "ja": "明日、すべてのプレイヤーにマイニング経路を暗唱します。",
+          "ipa": "/aɪ wəl rɪˈsaɪt ðə ˈmaɪnɪŋ pæθ tə ˈɛvriˌwʌn təˈmɑroʊ/",
+          "kana": "アイ ウァル リサイト ザ マイニング パス タ エヴリワン タモロー",
+          "linking": [
+            "「will recite」: will が弱形 /wəl/ に弱化、語末の /l/ が次の /r/ に先行し流れ込む [wəl rɪˈsaɪt] ウァル リサイト",
+            "「recite the」: 語末子音 /t/ が弱形 /ðə/ に連結 [rɪˈsaɪt ðə] リサイト ザ",
+            "「path to」: 語末子音 /θ/ が弱形 /tə/ に先行、to は弱形 /tə/",
+            "「to everyone」: 弱形 /tə/ が母音 /ɛ/ に連結 [tə ˈɛvri] タ エブリ"
+          ]
+        },
+        {
+          "en": "The expert will recite the base design rules to new players.",
+          "ja": "その専門家は新しいプレイヤーに基地設計ルールを暗唱します。",
+          "ipa": "/ðə ˈɛkspɜrt wəl rɪˈsaɪt ðə ˈbeɪs dɪˈzaɪn ˈrulz tə ˈnu ˈpleɪərz/",
+          "kana": "ザ エクスパート ウァル リサイト ザ ベース ディザイン ルールズ タ ニュー プレイアーズ",
+          "linking": [
+            "「expert will」: expert の語末 /t/ が未開放で will に先行 [ˈɛkspɜrt̚ wəl]",
+            "「will recite」: will が弱形 /wəl/ に弱化、語末 /l/ が次の /r/ に先行 [wəl rɪˈsaɪt]",
+            "「recite the」: 語末子音 /t/ が弱形 /ðə/ に連結 [rɪˈsaɪt ðə]",
+            "「design rules」: 語末鼻音 /n/ が子音 /r/ に先行し流れ込む [dɪˈzaɪn ˈrulz]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be reciting",
+      "ipa": "/wəl bɪ rɪˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I will be reciting the enchantment spells while you build the base.",
+          "ja": "あなたが基地を建設している間、私はエンチャント呪文を暗唱し続けます。",
+          "ipa": "/aɪ wəl bɪ rɪˈsaɪtɪŋ ðə ɪnˈtʃæntmənt spɛlz waɪl ju bɪld ðə ˈbeɪs/",
+          "kana": "アイ ウァル ビ リサイティング ザ インチャントメント スペルズ ワイル ユー ビルド ザ ベース",
+          "linking": [
+            "「will be」: will が弱形 /wəl/、be が弱形 /bɪ/ に弱化し複合的に流れ込む [wəl bɪ] ウァル ビ",
+            "「be reciting」: be の語末 /i/ が子音 /r/ に先行し reciting に流れ込む [bɪ rɪˈsaɪtɪŋ]",
+            "「reciting the」: 語末鼻音 /ŋ/ が弱形 /ðə/ に先行 [rɪˈsaɪtɪŋ ðə] リサイティング ザ",
+            "「build the」: 語末子音 /d/ が未開放で弱形 /ðə/ に先行 [bɪld̚ ðə] ビルド ザ"
+          ]
+        },
+        {
+          "en": "They will be reciting the enchantment list all afternoon.",
+          "ja": "彼らは午後中ずっとエンチャントリストを暗唱し続けます。",
+          "ipa": "/ðeɪ wəl bɪ rɪˈsaɪtɪŋ ðə ɪnˈtʃæntmənt lɪst ɔl ˈæftərˌnun/",
+          "kana": "ザイ ウァル ビ リサイティング ザ インチャントメント リスト オール アフタヌーン",
+          "linking": [
+            "「will be」: will が弱形 /wəl/、be が弱形 /bɪ/ に弱化して流れ込む",
+            "「be reciting」: be の母音 /i/ が子音 /r/ に連結し reciting に流れ込む",
+            "「reciting the」: 語末鼻音 /ŋ/ が弱形 /ðə/ に先行 [rɪˈsaɪtɪŋ ðə]",
+            "「list all」: 語末 /st/ が母音 /ɔ/ に連結 [lɪst ɔl] リスト オール"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have recited",
+      "ipa": "/wəl həv rɪˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have recited the entire spawn coordinates.",
+          "ja": "明日までに、私はスポーン地点の座標をすべて暗唱してしまいます。",
+          "ipa": "/baɪ təˈmɑroʊ aɪ wəl həv rɪˈsaɪtɪd ðə ɪnˈtaɪər spoʊn ˈkoʊɔrdənəts/",
+          "kana": "バイ タモロー アイ ウァル ハヴ リサイティド ザ インタイアー スポーン コーオーディネッツ",
+          "linking": [
+            "「will have」: will が弱形 /wəl/、have が弱形 /həv/ に弱化し複合的に流れ込む [wəl həv]",
+            "「have recited」: have の語末 /v/ が母音 /r/ に連結 [həv rɪˈsaɪtɪd] ハヴ リサイティド",
+            "「the entire」: 弱形 /ðə/ が母音 /ɪ/ に連結 [ðə ɪnˈtaɪər] ザ インタイアー",
+            "「spawn coordinates」: 語末鼻音 /n/ が子音 /k/ に先行し流れ込む [spoʊn ˈkoʊ...]"
+          ]
+        },
+        {
+          "en": "She will have recited all the mining tips by the end of the season.",
+          "ja": "彼女はシーズン終了までにマイニング技のコツをすべて暗唱してしまいます。",
+          "ipa": "/ʃi wəl həv rɪˈsaɪtɪd ɔl ðə ˈmaɪnɪŋ tɪps baɪ ðə ɛnd əv ðə ˈsizən/",
+          "kana": "シ ウァル ハヴ リサイティド オール ザ マイニング ティップス バイ ザ エンド アヴ ザ シーズン",
+          "linking": [
+            "「will have」: will が弱形 /wəl/、have が弱形 /həv/ に弱化し複合的に流れ込む",
+            "「have recited」: have の語末 /v/ が母音 /r/ に連結 [həv rɪˈsaɪtɪd]",
+            "「the mining」: 弱形 /ðə/ が母音 /m/ に連結 [ðə ˈmaɪnɪŋ] ザ マイニング",
+            "「of the」: of が弱形 /əv/、語末 /v/ が弱形 /ðə/ に先行 [əv ðə] アヴ ザ"
+          ]
+        }
+      ]
     }
   ]
 }
