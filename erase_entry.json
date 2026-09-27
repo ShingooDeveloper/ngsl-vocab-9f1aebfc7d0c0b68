@@ -1,0 +1,282 @@
+{
+  "word": "erase",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɪˈreɪs/",
+  "rank": 0,
+  "level": "A2",
+  "hi": "eras(?:e|es|ed|ing)",
+  "meanings": [
+    "【動詞】消す、消去する、削除する（remove something written or drawn）",
+    "【動詞】（記憶などから）消し去る、忘れる、なくす（remove from memory or eliminate completely）",
+    "【動詞】（データ・ファイルなどを）削除する、消す（remove digital information）"
+  ],
+  "examples": [
+    {
+      "en": "I need to erase this mistake from my building blueprint.",
+      "ja": "建築設計図からこのミスを消す必要があります。",
+      "ipa": "/aɪ nid tu ɪˈreɪs ðɪs mɪˈsteɪk frəm maɪ ˈbɪldɪŋ ˈbluˌprɪnt/",
+      "linking": [
+        "need to → need の語末 /d/ が to の弱形 /tə/ に続く（子音+子音、未開放）[nid tə] ニード トゥ",
+        "to erase → to は弱形 /tə/、erase の /ɪ/ に続く [tə ɪˈreɪs] トゥ イレーズ",
+        "this mistake → this の語末 /s/ が mistake の /m/ に続く（子音+子音）"
+      ],
+      "kana": "アイ ニード トゥ イレーズ ディス ミステイク フラム マイ ビルディング ブループリント"
+    },
+    {
+      "en": "The update will erase all the old world data when you upgrade the version.",
+      "ja": "バージョンアップをすると、古いワールドデータがすべて消されます。",
+      "ipa": "/ðə ˈʌpdeɪt wɪl ɪˈreɪs ɔl ðə oʊld ˈwɝld ˈdeɪtə wɛn ju ˈʌpɡreɪd ðə ˈvɝʒən/",
+      "linking": [
+        "update will → will は弱形 /wəl/ または /wɪl/",
+        "will erase → will の語末 /l/ が erase の /ɪ/ に連結 [wɪl ɪˈreɪs] ウィル イレーズ",
+        "the old → the は弱形 /ðə/「ザ」",
+        "the version → the は弱形 /ðə/「ザ」"
+      ],
+      "kana": "ザ アップデイト ウィル イレーズ オール ザ オウルド ワールド デイタ ホェン ユー アップグレイド ザ ヴァージョン"
+    },
+    {
+      "en": "Don't worry; I can erase these signs and rebuild them more carefully.",
+      "ja": "心配しないで。これらの看板を消して、もっと注意深く再構築できます。",
+      "ipa": "/doʊnt ˈwɝi aɪ kæn ɪˈreɪs ðiz saɪnz ənd rɪˈbɪld ðɛm mɔr ˈkɛrfəli/",
+      "linking": [
+        "can erase → can の弱形 /kən/、erase の /ɪ/ に連結 [kən ɪˈreɪs] カン イレーズ",
+        "these signs → these の語末 /z/ が signs の /s/ に続く（子音+子音）",
+        "signs and → signs の語末 /z/ が and の /æ/ に連結 [saɪnz ənd] サインズ アンド、and は弱形 /ənd/"
+      ],
+      "kana": "ドウント ワーリー アイ キャン イレーズ ディーズ サインズ アンド リビルド ゼム モア ケアフリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "erase from memory",
+      "ja": "記憶から消す、忘れ去る",
+      "example": "Try to erase that embarrassing moment from your memory.",
+      "example_ja": "その恥ずかしい瞬間を記憶から消そうとしてください。",
+      "ipa": "/traɪ tu ɪˈreɪs ðæt ɪmˈbærəsɪŋ ˈmoʊmənt frəm jɔr ˈmɛməri/",
+      "linking": [
+        "to erase → to は弱形 /tə/",
+        "embarrassing moment → moment の語末 /t/ が from の /f/ に続く",
+        "from your → from の語末 /m/ が your の /j/ に続く（子音+半母音）"
+      ],
+      "kana": "トライ トゥ イレーズ ザット イムバラッシング モウメント フラム ユア メモリー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "erases",
+      "ipa": "/ɪˈreɪsɪz/",
+      "examples": [
+        {
+          "en": "This command erases all the blocks in the selected region with one click.",
+          "ja": "このコマンドは1回のクリックで選択された領域のすべてのブロックを消します。",
+          "ipa": "/ðɪs kəˈmænd ɪˈreɪsɪz ɔl ðə blɑks ɪn ðə sɪˈlɛktəd ˈridʒən wɪð wʌn klɪk/",
+          "linking": [
+            "command erases → command の語末 /d/ が erases の /ɪ/ に連結 [kəˈmænd ɪˈreɪsɪz] コマンド イレイシズ",
+            "all the → the は弱形 /ðə/「ザ」",
+            "the blocks → the は子音前で弱形 /ðə/「ザ」",
+            "in the → the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "ディス コマンド イレイシズ オール ザ ブロックス イン ザ シレクティド リージョン ウィズ ワン クリック"
+        },
+        {
+          "en": "Every time he erases his mistakes, the world becomes cleaner and more organized.",
+          "ja": "彼が間違いを消すたびに、ワールドがきれいでより整理されたようになります。",
+          "ipa": "/ˈɛvri taɪm hi ɪˈreɪsɪz hɪz mɪˈsteɪks ðə ˈwɝld bɪˈkʌmz ˈklinər ənd mɔr ˈɔrɡənˌaɪzd/",
+          "linking": [
+            "time he → time の語末 /m/ が he の /h/ に続く（子音+子音）",
+            "he erases → he の語末 /i/ が erases の /ɪ/ に続く（母音+母音）",
+            "the world → the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "エヴリー タイム ヒー イレイシズ ヒズ ミステイクス ザ ワールド ビカムズ クリーナー アンド モア オーガナイズド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "erased",
+      "ipa": "/ɪˈreɪst/",
+      "examples": [
+        {
+          "en": "She erased the entire castle when she decided to build something different.",
+          "ja": "彼女は何か違うものを建築することにしたので、城全体を消した。",
+          "ipa": "/ʃi ɪˈreɪst ðə ɪnˈtaɪr ˈkæsəl wɛn ʃi dɪˈsaɪdɪd tu ˈbɪld ˈsʌmθɪŋ ˈdɪfərənt/",
+          "linking": [
+            "erased the → erased の語末 /t/ が the の弱形 /ðə/ に続く（子音+子音）[ɪˈreɪst ðə] イレイスト ザ",
+            "the entire → the は弱形 /ðə/「ザ」",
+            "decided to → decided の語末 /d/ が to の弱形 /tə/ に続く、to は弱形 /tə/「トゥ」"
+          ],
+          "kana": "シー イレイスト ザ エンタイアー キャッスル ホェン シー ディサイディッド トゥ ビルド サムシング ディファレント"
+        },
+        {
+          "en": "We erased our old base map to make room for a new underground city.",
+          "ja": "新しい地下都市を作るスペースを作るために、古いベースマップを消した。",
+          "ipa": "/wi ɪˈreɪst aʊr oʊld ˈbeɪs mæp tu meɪk rum fɔr ə ˈnuː ˈʌndərˌɡraʊnd ˈsɪti/",
+          "linking": [
+            "We erased → We の /i/ が erased の /ɪ/ に続く（母音+母音、連結なし）",
+            "erased our → erased の語末 /t/ が our の /aʊ/ に連結 [ɪˈreɪst aʊɚ] イレイスト アワー",
+            "our old → our の語末 /r/ が old の /oʊ/ に連結 [aʊr oʊld] アワー オウルド",
+            "to make → to は弱形 /tə/「トゥ」、make の /m/ に連結"
+          ],
+          "kana": "ウィ イレイスト アワー オウルド ベイス マップ トゥ メイク ルーム フォア ア ニュー アンダーグラウンド シティ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "erased",
+      "ipa": "/ɪˈreɪst/",
+      "examples": [
+        {
+          "en": "The erased terrain had been filled with lava and obsidian to prevent griefing.",
+          "ja": "消去された地形は、グリーフィングを防ぐために溶岩と黒曜石で埋められていました。",
+          "ipa": "/ðə ɪˈreɪst təˈreɪn həd bɪn fɪld wɪð ˈlɑvə ənd əbˈsɪdiən tu prɪˈvɛnt ˈɡrifɪŋ/",
+          "linking": [
+            "The erased → The は弱形 /ðə/「ザ」",
+            "terrain had → terrain の語末 /n/ が had の /h/ に続く（子音+子音）",
+            "had been → had は弱形 /həd/、been は /bɪn/",
+            "to prevent → to は弱形 /tə/「トゥ」"
+          ],
+          "kana": "ザ イレイスト テレイン ハド ビン フィルド ウィズ ラーヴァ アンド オブシディアン トゥ プリヴェント グリーフィング"
+        },
+        {
+          "en": "Once the corrupted files were erased, the server performed much better.",
+          "ja": "破損したファイルが消去されると、サーバーのパフォーマンスが大幅に向上しました。",
+          "ipa": "/wʌns ðə kəˈrʌptəd ˈfaɪlz wɝ ɪˈreɪst ðə ˈsɝvər pərˈfɔrmd mʌtʃ ˈbɛtər/",
+          "linking": [
+            "Once the → the は弱形 /ðə/「ザ」",
+            "files were → files の語末 /z/ が were の /w/ に続く（子音+子音）、were は弱形 /wər/",
+            "were erased → were の語末 /r/ が erased の /ɪ/ に連結 [wər ɪˈreɪst] ワー イレイスト",
+            "the server → the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "ワンス ザ コラプティッド ファイルズ ワー イレイスト ザ サーバー パーフォームド マッチ ベター"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "erasing",
+      "ipa": "/ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "Erasing unwanted structures is part of the building process when you change your mind.",
+          "ja": "不要な構造物を消去することは、気が変わったときの建築プロセスの一部です。",
+          "ipa": "/ɪˈreɪsɪŋ ˌʌnˈwɑntəd ˈstrʌktʃərz ɪz pɑrt əv ðə ˈbɪldɪŋ ˈprɑsɛs wɛn ju tʃeɪndʒ jɔr maɪnd/",
+          "linking": [
+            "Erasing unwanted → erasing の語末 /ŋ/ が unwanted の /ʌ/ に続く [ɪˈreɪsɪŋ ˌʌnˈwɑntəd] イレイシング アンワンティッド",
+            "structures is → structures の語末 /z/ が is の /ɪ/ に連結 [ˈstrʌktʃərz ɪz] ストラクチャーズ イズ",
+            "is part → is は弱形 /ɪz/",
+            "of the → of は弱形 /əv/「オヴ」、the は弱形 /ðə/「ザ」"
+          ],
+          "kana": "イレイシング アンワンティッド ストラクチャーズ イズ パート アヴ ザ ビルディング プロセス ホェン ユー チェンジ ユア マインド"
+        },
+        {
+          "en": "By erasing old textures and importing new ones, players can customize their visual experience.",
+          "ja": "古いテクスチャを消去して新しいものをインポートすることにより、プレイヤーは視覚的な体験をカスタマイズできます。",
+          "ipa": "/baɪ ɪˈreɪsɪŋ oʊld ˈtɛkstʃərz ənd ɪmˈpɔɹtɪŋ ˈnjuː wʌnz ˈpleɪərz kæn ˈkʌstəˌmaɪz ðɛr ˈvɪʒuəl ɪkˈspɪriəns/",
+          "linking": [
+            "By erasing → erasing の語末 /ŋ/ が old の /oʊ/ に続く [ɪˈreɪsɪŋ oʊld] イレイシング オウルド",
+            "textures and → textures の語末 /z/ が and の /æ/ に連結、and は弱形 /ənd/",
+            "and importing → and の語末 /d/ が importing の /ɪ/ に連結"
+          ],
+          "kana": "バイ イレイシング オウルド テクスチャーズ アンド インポーティング ニュー ワンズ プレイヤーズ キャン カスタマイズ ゼア ヴィジュアル イクスペリエンス"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is erasing",
+      "ipa": "/ɪz ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "She is erasing the old wooden structure to make room for a new storage building.",
+          "ja": "彼女は新しい倉庫を作るために古い木製構造物を消去しています。",
+          "ipa": "/ʃi ɪz ɪˈreɪsɪŋ ðə oʊld ˈwʊdən ˈstrʌktʃər tu meɪk ˈrum fɔr ə ˈnuː ˈstɔrɪdʒ ˈbɪldɪŋ/",
+          "linking": [
+            "is は弱形 /ɪz/ イズ、erasing の初頭子音 /ɪ/ に続く（子音+母音では連結なし）",
+            "the は弱形 /ðə/ ザ",
+            "to make → to は弱形 /tə/ トゥ、make の /m/ に連結 [tə ˈmeɪk] トゥ メイク"
+          ],
+          "kana": "シー イズ イレイシング ザ オウルド ウッデン ストラクチャー トゥ メイク ルーム フォー ア ニュー ストレッジ ビルディング"
+        },
+        {
+          "en": "I'm erasing these mistake blocks one by one with my pickaxe right now.",
+          "ja": "今、つるはしでこれらの間違ったブロックを1つずつ消しています。",
+          "ipa": "/aɪm ɪˈreɪsɪŋ ðiz mɪˈsteɪk blɑks wʌn baɪ wʌn wɪð maɪ ˈpɪkæks ˈraɪt ˈnaʊ/",
+          "linking": [
+            "I'm → /aɪm/ アイム、erasing の初頭子音 /ɪ/ に子音+母音で続く（m+ɪ で連結なし）",
+            "these は弱形要素あり、mistake の初頭 /m/ に語末 /z/ で続く（連結なし、子音+子音）",
+            "with は語末 /ð/ が my の /m/ に続く（連結なし、子音+子音）"
+          ],
+          "kana": "アイム イレイシング ディーズ ミステイク ブロックス ワン バイ ワン ウィズ マイ ピックアックス ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was erasing",
+      "ipa": "/wəz ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "He was erasing the corrupted terrain when the server suddenly went offline.",
+          "ja": "サーバーが突然オフラインになったとき、彼は破損した地形を消去していました。",
+          "ipa": "/hi wəz ɪˈreɪsɪŋ ðə kəˈrʌptəd təˈreɪn wɛn ðə ˈsɝvər ˈsʌdənli ˈwɛnt ˈɔfˌlaɪn/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ、erasing の初頭子音 /ɪ/ に子音+母音で続く",
+            "the は弱形 /ðə/ ザ",
+            "server の語末 /r/ が suddenly の初頭 /s/ に続く（連結なし、子音+子音）"
+          ],
+          "kana": "ヒー ワズ イレイシング ザ コラプティッド テレイン ホェン ザ サーバー サッデンリー ウェント オフラインゥ"
+        },
+        {
+          "en": "We were erasing the old base map as you arrived at spawn.",
+          "ja": "あなたがスポーン地点に到着したとき、古いベースマップを消去していました。",
+          "ipa": "/wi wɚ ɪˈreɪsɪŋ ðə oʊld ˈbeɪs mæp æz ju əˈraɪvd æt ˈspoʊn/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー、erasing の初頭子音 /ɪ/ に子音+母音で続く",
+            "the は弱形 /ðə/ ザ",
+            "map は語末 /p/ が as の初頭 /æ/ に続く（連結なし、子音+母音だが、音韻的には連結でなく単に続く）"
+          ],
+          "kana": "ウィ ワー イレイシング ザ オウルド ベイス マップ アズ ユー アライvド アット スポウン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been erasing",
+      "ipa": "/həd bɪn ɪˈreɪsɪŋ/",
+      "examples": [
+        {
+          "en": "By the time I joined the server, she had been erasing the old world for almost an hour.",
+          "ja": "サーバーに参加したとき、彼女はほぼ1時間古いワールドを消去していました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ ˈdʒoʊnd ðə ˈsɝvər, ʃi həd bɪn ɪˈreɪsɪŋ ðə oʊld ˈwɝld fɔr ˈɔlmoʊst ən ˈaʊər/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、erasing の初頭子音 /ɪ/ に子音+母音で続く",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ザ タイム アイ ジョインド ザ サーバー シー ハド ビン イレイシング ザ オウルド ワールド フォー オールモウスト アン アワー"
+        },
+        {
+          "en": "They had been erasing corrupted data when the automatic backup was triggered.",
+          "ja": "自動バックアップがトリガーされたとき、彼らは破損したデータを消去していました。",
+          "ipa": "/ðeɪ həd bɪn ɪˈreɪsɪŋ kəˈrʌptəd ˈdeɪtə wɛn ðə ˌɔtəˈmætɪk ˈbækʌp wəz ˈtrɪɡərd/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、erasing の初頭子音 /ɪ/ に子音+母音で続く",
+            "the は弱形 /ðə/ ザ、was は弱形 /wəz/ ワズ"
+          ],
+          "kana": "ザイ ハド ビン イレイシング コラプティッド デイタ ホェン ザ オートマティック バックアップ ワズ トリガード"
+        }
+      ]
+    }
+  ]
+}
