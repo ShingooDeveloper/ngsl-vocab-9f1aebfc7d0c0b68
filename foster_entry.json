@@ -199,6 +199,195 @@
           "kana": "ファースタリング エン インクルーシヴ インヴァイランメント アトラクツ タレンティッド ビルダーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has fostered",
+      "ipa": "/hæz ˈfɑstɚd/",
+      "examples": [
+        {
+          "en": "This welcoming server has fostered incredible teamwork among all players.",
+          "ja": "このサーバーはすべてのプレイヤー間で素晴らしいチームワークを育んできました。",
+          "ipa": "/ðɪs ˈwɛlkəmɪŋ ˈsɜrvɚ hæz ˈfɑstɚd ɪnˈkrɛdəbəl ˈtimwɜrk əˈmʌŋ ɔl ˈpleɪɚz/",
+          "linking": [
+            "this の末尾 /s/ が welcoming の /w/ に連結しない（子音+子音）",
+            "welcoming の末尾 /ŋ/ が server に連結しない（鼻音+子音で未開放）",
+            "has は弱形 /həz/ [həz] ハズ",
+            "fostered の末尾 /d/ が incredible の /ɪ/ に連結 [ˈfɑstɚd ɪn] ファースタード イン"
+          ],
+          "kana": "ディス ウェルカミング サーヴァー ハズ ファースタード インクレディバル ティームワーク ア マング オール プレイアーズ"
+        },
+        {
+          "en": "The mining community has fostered strong friendships between members.",
+          "ja": "採掘コミュニティはメンバー間の強い友情を育んできました。",
+          "ipa": "/ðə ˈmaɪnɪŋ kəˈmjuːnɪti hæz ˈfɑstɚd ˈstrɔŋ ˈfrɛndʃɪps bɪˈtwin ˈmɛmbɚz/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "mining の末尾 /ŋ/ が community に連結しない（鼻音+子音で未開放）",
+            "has は弱形 /həz/ [həz] ハズ",
+            "fostered の末尾 /d/ が strong の /s/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "ザ マイニング コミュニティ ハズ ファースタード ストロング フレンドシップス ビトウィン メンバーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had fostered",
+      "ipa": "/hæd ˈfɑstɚd/",
+      "examples": [
+        {
+          "en": "Before the new players arrived, the veterans had fostered a strong community spirit.",
+          "ja": "新しいプレイヤーが到着する前に、ベテランプレイヤーは強いコミュニティ精神を育んでいました。",
+          "ipa": "/bɪˈfɔr ðə ˈnu ˈpleɪɚz əˈraɪvd ðə ˈvɛtərənz hæd ˈfɑstɚd ə ˈstrɔŋ kəˈmjuːnɪti ˈspɪrɪt/",
+          "linking": [
+            "before の末尾 /ɔr/ が the の /ð/ に連結しない（子音+子音）",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "arrived の末尾 /d/ が the に連結 [əˈraɪvd ə] アライヴド ア",
+            "had は弱形 /həd/ [həd] ハド",
+            "fostered の末尾 /d/ が a の /ə/ に連結 [ˈfɑstɚd ə] ファースタード ア"
+          ],
+          "kana": "ビフォアー ザ ニュー プレイアーズ アライヴド ザ ベテランズ ハド ファースタード ア ストロング コミュニティ スピリット"
+        },
+        {
+          "en": "By the time I joined, the builders had fostered exceptional architectural traditions.",
+          "ja": "私が参加した時までに、ビルダーたちは素晴らしい建築伝統を育んでいました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ ˈdʒɔɪnd ðə ˈbɪldɚz hæd ˈfɑstɚd ɪkˈsɛpʃənəl ɑrkɪˈtɛktʃɚəl trəˈdɪʃənz/",
+          "linking": [
+            "by の末尾 /aɪ/ が the に連結しない（母音+子音）",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "time の末尾 /m/ が I に連結しない（子音+子音）",
+            "joined の末尾 /d/ が the に連結 [dʒɔɪnd ə] ジョインド ア",
+            "had は弱形 /həd/ [həd] ハド"
+          ],
+          "kana": "バイ ザ タイム アイ ジョインド ザ ビルダーズ ハド ファースタード イクセプショナル アーキテクチャラル トラディションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been fostering",
+      "ipa": "/hæz bɪn ˈfɑstɚɪŋ/",
+      "examples": [
+        {
+          "en": "Our guild has been fostering leadership skills in new players for months.",
+          "ja": "私たちのギルドは何ヶ月もの間、新しいプレイヤーにリーダーシップスキルを育んできています。",
+          "ipa": "/ˈaʊɚ ɡɪld hæz bɪn ˈfɑstɚɪŋ ˈlɛdɚʃɪp ˈskɪlz ɪn ˈnu ˈpleɪɚz fɚ ˈmʌnθz/",
+          "linking": [
+            "our の末尾 /ɚ/ が guild に連結しない（子音+子音）",
+            "has は弱形 /həz/ [həz] ハズ",
+            "been は弱形 /bɪn/ [bɪn] ビン",
+            "fostering の末尾 /ŋ/ が leadership に連結しない（鼻音+子音で未開放）"
+          ],
+          "kana": "アウアー ギルド ハズ ビン ファースタリング レダーシップ スキルズ イン ニュー プレイアーズ ファー マンスズ"
+        },
+        {
+          "en": "The creative builders have been fostering amazing architectural innovation throughout the realm.",
+          "ja": "クリエイティブなビルダーたちはレルム全体で素晴らしい建築革新を育んできています。",
+          "ipa": "/ðə kriˈeɪtɪv ˈbɪldɚz hæv bɪn ˈfɑstɚɪŋ əˈmeɪzɪŋ ˌɑrkɪˈtɛktʃɚəl ɪnəˈveɪʃən θruˈaʊt ðə ˈrɛlm/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "creative の末尾 /v/ が builders に連結しない（子音+子音）",
+            "have は弱形 /həv/ [həv] ハヴ",
+            "been は弱形 /bɪn/ [bɪn] ビン"
+          ],
+          "kana": "ザ クリエイティヴ ビルダーズ ハヴ ビン ファースタリング アメイジング アーキテクチャラル イナヴェイション スルーアウト ザ レルム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is fostering",
+      "ipa": "/ɪz ˈfɑstɚɪŋ/",
+      "examples": [
+        {
+          "en": "I'm fostering a thriving community of creative builders and adventurers.",
+          "ja": "私は創造的なビルダーと冒険者の繁栄するコミュニティを育成しています。",
+          "ipa": "/aɪm ˈfɑstɚɪŋ ə ˈθraɪvɪŋ kəˈmjuːnɪti əv kriˈeɪtɪv ˈbɪldɚz ənd ədˈvɛntʃɚrz/",
+          "linking": [
+            "「I'm fostering」で「I'm」は /aɪm/、fostering の /f/ に続く [aɪm ˈfɑstɚɪŋ] アイム ファースタリング",
+            "「fostering a」で fostering の末 /ŋ/ が a の /ə/ に続く（未開放）[ˈfɑstɚɪŋ ə] ファースタリング ア",
+            "「of creative」で of の末 /v/ が creative の /k/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "アイム ファースタリング ア スラライビング コミュニティ アヴ クリエイティブ ビルダーズ アンド アドベンチャーズ"
+        },
+        {
+          "en": "The server is fostering cooperation and unity among all players.",
+          "ja": "そのサーバーはすべてのプレイヤー間で協力と団結を育成しています。",
+          "ipa": "/ðə ˈsɜrvɚ ɪz ˈfɑstɚɪŋ ˌkoʊ.əpəˈreɪʃən ənd ˈjuːnɪti əˈmʌŋ ɔl ˈpleɪɚz/",
+          "linking": [
+            "「the server」で「the」は弱形 /ðə/ で server の /s/ に続く [ðə ˈsɜrvɚ] ザ サーバー",
+            "「is fostering」で「is」は弱形 /ɪz/ で fostering の /f/ に続く [ɪz ˈfɑstɚɪŋ] イズ ファースタリング",
+            "「and unity」で「and」は弱形 /ənd/ で unity の /j/ に続く [ənd ˈjuːnɪti] アンド ユニティ"
+          ],
+          "kana": "ザ サーバー イズ ファースタリング コウオペレイション アンド ユニティ アマング オール プレイアーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was fostering",
+      "ipa": "/wəz ˈfɑstɚɪŋ/",
+      "examples": [
+        {
+          "en": "We were fostering this spirit of innovation before the competition started.",
+          "ja": "競技が始まる前に、私たちはこのイノベーションの精神を育成していました。",
+          "ipa": "/wi wɚ ˈfɑstɚɪŋ ðɪs ˈspɪrɪt əv ˌɪnəˈveɪʃən bɪˈfɔr ðə ˌkɑmpəˈtɪʃən ˈstɑrtɪd/",
+          "linking": [
+            "「were fostering」で「were」は弱形 /wɚ/ で fostering の /f/ に続く [wɚ ˈfɑstɚɪŋ] ワー ファースタリング",
+            "「of innovation」で of の末 /v/ が innovation の /ɪ/ に連結 [əv ˌɪnəˈveɪʃən] アヴ イノベイション",
+            "「the competition」で「the」は弱形 /ðə/ で competition の /k/ に続く [ðə ˌkɑmpəˈtɪʃən] ザ コンペティション"
+          ],
+          "kana": "ウィ ワー ファースタリング ディス スピリット アヴ イノベイション ビフォア ザ コンペティション スターティッド"
+        },
+        {
+          "en": "They were fostering relationships between players when the server went offline.",
+          "ja": "サーバーがオフラインになったときに、彼らはプレイヤー間の関係を育成していました。",
+          "ipa": "/ðeɪ wɚ ˈfɑstɚɪŋ rɪˈleɪʃənˌʃɪps bɪˈtwin ˈpleɪɚz wɛn ðə ˈsɜrvɚ wɛnt ɔfˈlaɪn/",
+          "linking": [
+            "「were fostering」で「were」は弱形 /wɚ/ で fostering の /f/ に続く [wɚ ˈfɑstɚɪŋ] ワー ファースタリング",
+            "「fostering relationships」で fostering の末 /ŋ/ + relationships の /r/ で子音+子音（未開放）",
+            "「when the」で「the」は弱形 /ðə/ で server の /s/ に続く [ðə ˈsɜrvɚ] ザ サーバー"
+          ],
+          "kana": "ザイ ワー ファースタリング リレイションシップス ビットウィーン プレイアーズ ウェン ザ サーバー ウェント オフラーン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been fostering",
+      "ipa": "/həd bɪn ˈfɑstɚɪŋ/",
+      "examples": [
+        {
+          "en": "By the end of the season, they had been fostering this community spirit for several months.",
+          "ja": "シーズン終了までに、彼らは数ヶ月間このコミュニティ精神を育成していました。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈsizən ðeɪ həd bɪn ˈfɑstɚɪŋ ðɪs kəˈmjuːnɪti ˈspɪrɪt fɔr ˈsɛvərəl ˈmʌnθz/",
+          "linking": [
+            "「had been」で「had」は弱形 /həd/ で been の /b/ に連結 [həd bɪn] ハド ビン",
+            "「been fostering」で been の末 /n/ が fostering の /f/ に連結しない（子音+子音で未開放）[bɪn ˈfɑstɚɪŋ] ビン ファースタリング",
+            "「the season」で「the」は弱形 /ðə/ で season の /s/ に続く [ðə ˈsizən] ザ シーズン",
+            "「for several」で for の末 /r/ が several の /s/ に連結しない（子音+子音）"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン ザイ ハド ビン ファースタリング ディス コミュニティ スピリット フォア セバラル マンスズ"
+        },
+        {
+          "en": "I realized that I had been fostering negative attitudes toward new members without recognizing it.",
+          "ja": "新しいメンバーに対して無意識に否定的な態度を育成していたことに気づきました。",
+          "ipa": "/aɪ ˈriːəˌlaɪzd ðæt aɪ həd bɪn ˈfɑstɚɪŋ ˈnɛɡətɪv ˈætɪˌtudz təˈwɔrd nu ˈmɛmbɚz wɪˈaʊt ˈrɛkəɡˌnaɪzɪŋ ɪt/",
+          "linking": [
+            "「had been」で「had」は弱形 /həd/ で been の /b/ に連結 [həd bɪn] ハド ビン",
+            "「been fostering」で been の末 /n/ が fostering の /f/ に連結しない（子音+子音で未開放）[bɪn ˈfɑstɚɪŋ] ビン ファースタリング",
+            "「toward new」で to の弱形 /tə/ で new の /n/ に続く [təˈwɔrd] タワード"
+          ],
+          "kana": "アイ リアライズド ザット アイ ハド ビン ファースタリング ネガティブ アティチュード ツワード ニュー メンバーズ ウィザウト レコグナイジング イット"
+        }
+      ]
     }
   ],
   "tags": [
