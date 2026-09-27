@@ -385,6 +385,96 @@
                                            "kana":  "ザ ニューズ アカウント ハズ ビン トゥイーティング アップデイツ アバウト ザ ニュー バイオム シンス イェスタデイ"
                                        }
                                    ]
+                  },
+                  {
+                      "label":  "単純未来形（will + 動詞原形）",
+                      "type":  "future",
+                      "text":  "will tweet",
+                      "ipa":  "/wɪl twit/",
+                      "examples":  [
+                                       {
+                                           "en":  "I will tweet about this incredible diamond discovery as soon as I get back to base.",
+                                           "ja":  "拠点に戻ったら、この素晴らしいダイヤモンドの発見についてすぐツイートします。",
+                                           "ipa":  "[aɪ wɪl twit əˈbaʊt ðɪs ɪnˈkɹɛdəbəl ˈdaɪ.mənd dɪsˈkʌvɚi əz suːn əz aɪ ˈɡɛt ˈbæk tə ˈbeɪs]",
+                                           "linking":  [
+                                                           "「will tweet」で will の語末 /l/ が tweet の初頭 /t/ に続く（子音+子音、連結なし）",
+                                                           "「about this」で about の語末 /t/ が this の初頭 /ð/ に続く（子音+子音、連結なし）",
+                                                           "「get back」で get の語末 /t/ が back の初頭 /b/ に続く（子音+子音、連結なし）"
+                                                       ],
+                                           "kana":  "アイ ウィル トゥイット アバウト ディス インクレディブル ダイマンド ディスカヴァリー アズ スーン アズ アイ ゲット バック トゥ ベイス"
+                                       },
+                                       {
+                                           "en":  "The streamers will tweet all the highlights from the tournament next weekend.",
+                                           "ja":  "ストリーマーたちは来週末のトーナメントのハイライトをすべてツイートするでしょう。",
+                                           "ipa":  "[ðə ˈstɹimɚz wɪl twit ɔːl ðə ˈhaɪˌlaɪts fɹəm ðə ˈtɚnəmənt ˈnɛkst ˈwikˌɛnd]",
+                                           "linking":  [
+                                                           "「streamers will」で streamers の語末 /z/ が will の初頭 /w/ に続く（子音+子音、連結なし）",
+                                                           "「will tweet」で will の語末 /l/ が tweet の初頭 /t/ に続く（子音+子音、連結なし）",
+                                                           "「from the」で from は弱形 /frəm/、the は弱形 /ðə/ に弱化 [frəm ðə] フラム ザ"
+                                                       ],
+                                           "kana":  "ザ ストリーマーズ ウィル トゥイット オール ザ ハイライツ フラム ザ ターナメント ネクスト ウィークエンド"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "未来進行形（will be + -ing）",
+                      "type":  "future_progressive",
+                      "text":  "will be tweeting",
+                      "ipa":  "/wɪl bi ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "We'll be tweeting live updates throughout the entire building process tomorrow.",
+                                           "ja":  "明日は、建築プロセス全体を通じてライブ更新をツイートしています。",
+                                           "ipa":  "[wil bi ˈtwiːtɪŋ ˈlaɪv ˈʌpˌdeɪts θɹuːˈaʊt ði ɪnˈtaɪɚ ˈbɪldɪŋ ˈprɑsɛs təˈmɑɹoʊ]",
+                                           "linking":  [
+                                                           "「We'll」で we と will が縮約 /wil/ ウィル",
+                                                           "「be tweeting」で be の弱形 /bi/ が tweeting の /t/ に続く（母音+子音、連結なし）",
+                                                           "「tweeting updates」で tweeting の語末 /ŋ/ が updates の /ʌ/ に連結 [ˈtwiːtɪŋ ˈʌpˌdeɪts] トゥイーティング アップデイツ"
+                                                       ],
+                                           "kana":  "ウィル ビー トゥイーティング ライヴ アップデイツ スルーアウト ジ エンタイアー ビルディング プロセス トゥモロウ"
+                                       },
+                                       {
+                                           "en":  "During the main event, she will be tweeting screenshots of all the best moments.",
+                                           "ja":  "メインイベント中、彼女は最高の瞬間のスクリーンショットをツイートしています。",
+                                           "ipa":  "[ˈdʊɹɪŋ ðə ˈmeɪn ɪˈvɛnt | ʃi wɪl bi ˈtwiːtɪŋ ˈskɹiːnˌʃɑts əv ɔːl ðə ˈbɛst ˈmoʊmənts]",
+                                           "linking":  [
+                                                           "「During the」で During の語末 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）、the は弱形 /ðə/",
+                                                           "「she will」で she の語末母音 /i/ が will の /w/ に続く（母音+子音、連結なし）",
+                                                           "「tweeting screenshots」で tweeting の語末 /ŋ/ が screenshots の /s/ に続く（子音+子音、連結なし）"
+                                                       ],
+                                           "kana":  "ジュアリング ザ メイン イベント、シー ウィル ビー トゥイーティング スクリーンショッツ アヴ オール ザ ベスト モーメンツ"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "未来完了形（will have + 過去分詞）",
+                      "type":  "future_perfect",
+                      "text":  "will have tweeted",
+                      "ipa":  "/wɪl əv ˈtwiːtəd/",
+                      "examples":  [
+                                       {
+                                           "en":  "By the end of today, we will have tweeted at least ten updates about our progress.",
+                                           "ja":  "今日の終わりまでに、私たちは進捗について少なくとも10件のツイートをしているでしょう。",
+                                           "ipa":  "[baɪ ðə ˈɛnd əv təˈdeɪ | wi wɪl əv ˈtwiːtəd ət ˈlist ˈtɛn ˈʌpˌdeɪts əˈbaʊt ˈaʊɚ ˈprɑɡɹɛs]",
+                                           "linking":  [
+                                                           "「By the」で By の語末 /aɪ/ が the の初頭 /ð/ に続く（母音+子音、連結なし）、the は弱形 /ðə/",
+                                                           "「will have」で will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、連結なし）、have は弱形 /əv/",
+                                                           "「about our」で about の語末 /t/ が our の初頭 /a/ に連結 [əˈbaʊt ˈaʊɚ] アバウト アワー"
+                                                       ],
+                                           "kana":  "バイ ザ エンド アヴ トゥデイ、ウィ ウィル アヴ トゥイーテッド アット リスト テン アップデイツ アバウト アワー プログレス"
+                                       },
+                                       {
+                                           "en":  "The community managers will have tweeted all the patch notes before the new update goes live.",
+                                           "ja":  "新しいアップデートがライブになる前に、コミュニティマネージャーがすべてのパッチノートをツイートしているでしょう。",
+                                           "ipa":  "[ðə kəˈmjuːnəti ˈmænɪdʒɚz wɪl əv ˈtwiːtəd ɔːl ðə ˈpætʃ noʊts bɪˈfɔɹ ðə nu ˈʌpˌdeɪt ˈɡoʊz ˈlaɪv]",
+                                           "linking":  [
+                                                           "「managers will」で managers の語末 /z/ が will の初頭 /w/ に続く（子音+子音、連結なし）",
+                                                           "「will have」で will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、連結なし）、have は弱形 /əv/",
+                                                           "「tweeted all」で tweeted の語末 /d/ が all の初頭 /ɔː/ に連結 [ˈtwiːtəd ɔːl] トゥイーテッド オール"
+                                                       ],
+                                           "kana":  "ザ コミュニティ マネージャーズ ウィル アヴ トゥイーテッド オール ザ パッチ ノウツ ビフォー ザ ニュー アップデイト ゴウズ ライヴ"
+                                       }
+                                   ]
                   }
               ]
 }
