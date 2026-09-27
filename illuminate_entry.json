@@ -239,6 +239,91 @@
           "kana": "ザ マイナーズ リアライズド ゼイ ハド ビン イルーミネイティング ザ ケイヴ インエレクトリー ザ ホール タイム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（have/has + 過去分詞）",
+      "text": "has illuminated",
+      "ipa": "/həz ɪˈlʌmɪneɪtəd/",
+      "examples": [
+        {
+          "en": "We have illuminated all the tunnels in our mining system.",
+          "ja": "私たちはマイニングシステム内のすべてのトンネルを照らしました。",
+          "ipa": "/wi həv ɪˈlʌmɪneɪtəd ɔl ðə ˈtʌnəlz ɪn aʊɚ ˈmaɪnɪŋ ˈsɪstəm/",
+          "linking": [
+            "「have illuminated」の語末 /v/ が母音 /ɪ/ に連結",
+            "「the」は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ イルーミネイタド オール ザ タナルズ イン アワー マイニング システム"
+        },
+        {
+          "en": "The glowstone has illuminated this mining chamber for months.",
+          "ja": "グロウストーンは何ヶ月もこのマイニングチャンバーを照らし続けています。",
+          "ipa": "/ðə ˈɡloʊˌstoʊn həz ɪˈlʌmɪneɪtəd ðɪs ˈmaɪnɪŋ ˈtʃeɪmbɚ fər ˈmʌnθs/",
+          "linking": [
+            "「has illuminated」の語末 /z/ が母音 /ɪ/ に連結",
+            "「for」は弱形 /fər/"
+          ],
+          "kana": "ザ グロウストーン ハズ イルーミネイタド ディス マイニング チェンバー ファー マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had illuminated",
+      "ipa": "/həd ɪˈlʌmɪneɪtəd/",
+      "examples": [
+        {
+          "en": "Before the creeper exploded, we had already illuminated the area.",
+          "ja": "クリーパーが爆発する前に、私たちは既にエリアを照らしていました。",
+          "ipa": "/bɪˈfɔr ðə ˈkripɚ ɪkˈsploʊdəd wi həd ˈɔlrɛdi ɪˈlʌmɪneɪtəd ðə ˈɛriə/",
+          "linking": [
+            "「had illuminated」の語末 /d/ が母音 /ɪ/ に連結",
+            "「the」は弱形 /ðə/（2回出現）"
+          ],
+          "kana": "ビフォー ザ クリーパー イクスプロウデッド ウィ ハド オールレディ イルーミネイタド ザ エリア"
+        },
+        {
+          "en": "The miners realized they had illuminated the cave incorrectly.",
+          "ja": "採掘者たちは、洞窟を間違った方法で照らしていたことに気づきました。",
+          "ipa": "/ðə ˈmaɪnɚz ˈriəˌlaɪzd ðeɪ həd ɪˈlʌmɪneɪtəd ðə ˈkeɪv ɪnˈkɛrəktli/",
+          "linking": [
+            "「had illuminated」の語末 /d/ が母音 /ɪ/ に連結",
+            "「the」は弱形 /ðə/（2回出現）"
+          ],
+          "kana": "ザ マイナーズ リアライズド ゼイ ハド イルーミネイタド ザ ケイヴ インエレクトリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（have/has been + -ing）",
+      "text": "has been illuminating",
+      "ipa": "/həz bɪn ɪˈlʌmɪˌneɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We have been illuminating this base for several days.",
+          "ja": "私たちは何日もこのベースを照らし続けています。",
+          "ipa": "/wi həv bɪn ɪˈlʌmɪˌneɪtɪŋ ðɪs ˈbeɪs fər ˈsɛvərəl ˈdeɪz/",
+          "linking": [
+            "「have」は弱形 /həv/、「been」も弱形 /bɪn/",
+            "「been illuminating」の語末 /n/ が母音 /ɪ/ に連結",
+            "「for」は弱形 /fər/"
+          ],
+          "kana": "ウィ ハヴ ビン イルーミネイティング ディス ベイス ファー セベラル デイズ"
+        },
+        {
+          "en": "The team has been illuminating the entire cave network all week.",
+          "ja": "チームは1週間中、洞窟全体のネットワークを照らし続けています。",
+          "ipa": "/ðə ˈtim həz bɪn ɪˈlʌmɪˌneɪtɪŋ ðə ɪnˈtaɪɚ ˈkeɪv ˈnɛtˌwɝk ɔl ˈwik/",
+          "linking": [
+            "「has」は弱形 /həz/、「been」も弱形 /bɪn/",
+            "「been illuminating」の語末 /n/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ ティーム ハズ ビン イルーミネイティング ザ イン タイア ケイヴ ネットワーク オール ウィーク"
+        }
+      ]
     }
   ],
   "idioms": [
