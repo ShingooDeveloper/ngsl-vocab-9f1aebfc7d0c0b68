@@ -256,6 +256,102 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has descended",
+      "ipa": "/həz dɪˈsɛndəd/",
+      "examples": [
+        {
+          "en": "I have descended into this mine shaft more than twenty times searching for rare ores.",
+          "ja": "私はこのマイン・シャフトに20回以上下りて、珍しい鉱石を探しました。",
+          "ipa": "/aɪ hæv dɪˈsɛndəd ˈɪntu ðɪs ˈmaɪn ʃæft ˈmoɚ ðən ˈtwɛnti ˈtaɪmz ˈsɑɹtʃɪŋ fɚ ˈrɛr ˈɔɹz/",
+          "linking": [
+            "have descended - have の弱形 /həv/ が descended の初頭 /d/ に続く（子音+子音、未開放）[həv̚ dɪˈsɛndəd] ハヴ ディセンディド",
+            "descended into - descended の語末子音 /d/ が into の母音 /ɪ/ に連結 [dɪˈsɛndəd ˈɪntuː] ディセンディド イントゥー",
+            "mine shaft - mine の語末 /n/ が shaft の子音 /ʃ/ に続く（子音+子音）",
+            "searching for - for の弱形 /fər/ ファー"
+          ],
+          "kana": "アイ ハヴ ディセンディド イントゥー ディス マイン シャフト モアー ザン トゥエンティ タイムズ サーチング ファー レア オーズ"
+        },
+        {
+          "en": "We have descended to a depth where lava lakes appear frequently.",
+          "ja": "私たちは溶岩湖が頻繁に現れる深さまで下りてきました。",
+          "ipa": "/wiː hæv dɪˈsɛndəd tu ə ˈdɛpθ wɛɹ ˈlɑvə ˈleɪks əˈpɪr ˈfrikwəntli/",
+          "linking": [
+            "have descended - have の弱形 /həv/ が descended に連結。d が未開放 [həv̚ dɪˈsɛndəd] ハヴ ディセンディド",
+            "descended to - descended の語末 /d/ が to の初頭 /t/ に未開放で続く（1つの t に聞こえる）[dɪˈsɛndəd tu] ディセンディド タ",
+            "to a - to の弱形 /tə/ が a の弱形 /ə/ に接続 [tə ə] タ ア",
+            "lava lakes - lakes の語末 /z/ が appear の初頭 /ə/ に連結"
+          ],
+          "kana": "ウィー ハヴ ディセンディド タ ア デプス ウェアー ラーヴァ レイクス ア ピアー フリクエントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had descended",
+      "ipa": "/həd dɪˈsɛndəd/",
+      "examples": [
+        {
+          "en": "By the time we arrived at the cave entrance, our team had descended all the way to Y-level 10.",
+          "ja": "私たちが洞窟の入り口に到着するまでに、チームはY-level 10まで完全に下りていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wiː əˈraɪvd æt ðə ˈkeɪv ˈɛntrəns aʊɚ ˈtim həd dɪˈsɛndəd ˈɔl ðə ˈweɪ tu ˈwaɪ ˈlɛvəl ˈtɛn/",
+          "linking": [
+            "had descended - had の弱形 /həd/ が descended に連結。d が未開放で続く [həd̚ dɪˈsɛndəd] ハド ディセンディド",
+            "descended all - descended の語末 /d/ が all の母音 /ɔ/ に連結 [dɪˈsɛndəd ˈɔl] ディセンディド オール",
+            "all the - all の語末 /l/ が the の弱形 /ðə/ に続く（子音+子音）[ˈɔl ðə] オール ザ",
+            "the way - way=/weɪ/"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド アット ザ ケーブ エントレンス アワー ティーム ハド ディセンディド オール ザ ウェイ タ ワイ レヴェル テン"
+        },
+        {
+          "en": "After the explorer had descended into the chasm, a massive cave system came into view.",
+          "ja": "探検家が深い裂け目に下った後、巨大な洞窟システムが見えました。",
+          "ipa": "/ˈæftɚ ðə ɪkˈsplɔɹɚ həd dɪˈsɛndəd ˈɪntu ðə ˈkæzəm ə məˈsɪv ˈkeɪv ˈsɪstəm ˈkeɪm ˈɪntu ˈvju/",
+          "linking": [
+            "had descended - had の弱形 /həd/ が descended に連結。d が未開放 [həd̚ dɪˈsɛndəd] ハド ディセンディド",
+            "descended into - descended の語末 /d/ が into の母音 /ɪ/ に連結 [dɪˈsɛndəd ˈɪntuː] ディセンディド イントゥー",
+            "into the - the の弱形 /ðə/ ザ。chasm は /ˈkæzəm/",
+            "a massive - a の弱形 /ə/ が massive の初頭 /m/ に連結 [ə məˈsɪv] ア マッシヴ"
+          ],
+          "kana": "アフター ザ エクスプローラー ハド ディセンディド イントゥー ザ カズム ア マッシヴ ケーブ システム ケイム イントゥー ビュー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been descending",
+      "ipa": "/həz ˈbɪn dɪˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The miner has been descending into this shaft since sunrise without finding any diamonds.",
+          "ja": "その鉱夫は日の出からダイヤモンドを見つけずにこのシャフトに下り続けています。",
+          "ipa": "/ðə ˈmaɪnɚ həz ˈbɪn dɪˈsɛndɪŋ ˈɪntu ðɪs ʃæft sɪns ˈsʌnˌraɪz wɪˈðaʊt ˈfaɪndɪŋ ˈɛni ˈdaɪməndz/",
+          "linking": [
+            "has been - has の弱形 /həz/ が been の弱形 /bɪn/ に続く（z が b 前で未開放）[həz̚ bɪn] ハズ ビン",
+            "been descending - been の弱形 /bɪn/ が descending の初頭 /d/ に連結 [bɪn dɪˈsɛndɪŋ] ビン ディセンディング",
+            "descending into - descending の語末 /ŋ/ が into の初頭 /ɪ/ に連結 [dɪˈsɛndɪŋ ˈɪntuː] ディセンディング イントゥー",
+            "finding any - any は弱形 /ˈɛni/ エニー"
+          ],
+          "kana": "ザ マイナー ハズ ビン ディセンディング イントゥー ディス シャフト シンス サンライズ ウィザウト ファインディング エニー ダイモンズ"
+        },
+        {
+          "en": "We have been descending through different cave systems all week looking for ancient structures.",
+          "ja": "私たちは一週間中、異なる洞窟システムを通して古い構造物を探しながら下り続けています。",
+          "ipa": "/wiː hæv ˈbɪn dɪˈsɛndɪŋ θruː ˈdɪfɚənt ˈkeɪv ˈsɪstəmz ˈɔl ˈwik ˈlʊkɪŋ fɚ ˈeɪʃənt ˈstrʌktʃɚz/",
+          "linking": [
+            "have been - have の弱形 /həv/ が been の弱形 /bɪn/ に続く（v が b 前で未開放）[həv̚ bɪn] ハヴ ビン",
+            "been descending - been の弱形 /bɪn/ が descending に連結 [bɪn dɪˈsɛndɪŋ] ビン ディセンディング",
+            "descending through - descending の語末 /ŋ/ が through の初頭 /θ/ に続く（子音+子音）[dɪˈsɛndɪŋ θruː] ディセンディング スルー",
+            "looking for - for の弱形 /fər/ ファー"
+          ],
+          "kana": "ウィー ハヴ ビン ディセンディング スルー ディファレント ケーブ システムズ オール ウィーク ルッキング ファー エイシャント ストラクチャーズ"
+        }
+      ]
+    },
+    {
       "type": "past_perfect_progressive",
       "label": "過去完了進行形（had been + -ing）",
       "text": "had been descending",
