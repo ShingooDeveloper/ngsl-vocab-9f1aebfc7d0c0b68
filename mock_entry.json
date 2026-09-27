@@ -369,6 +369,96 @@
           "kana": "ザイ ハヴ ビン マッキング ザ サーヴァー ルーズ シンス ザ アップデイット ウェント ライヴ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will mock",
+      "ipa": "/wɪl mɑk/",
+      "examples": [
+        {
+          "en": "He will mock anyone who falls into lava during the tournament.",
+          "ja": "彼はトーナメント中に溶岩に落ちた誰もを馬鹿にするだろう。",
+          "ipa": "[hiː wɪl ˈmɑk ˈɛniˌwʌn hu fɔlz ˈɪntu ˈlɑvə ˈdʊrɪŋ ðə ˈtɝnəmənt]",
+          "kana": "ヒー ウィル マック エニワン フー フォールズ イントゥ ラヴァ ジューリング ザ ターナメント",
+          "linking": [
+            "will は /wɪl/、mock に先行。主語後に縮約可能（he'll /hiːl/）: [wɪl ˈmɑk] ウィル マック",
+            "anyone の /n/ が who の /h/ に未開放で連接: [ˈwʌn̚ hu] ワン フー",
+            "the は弱形 /ðə/、tournament に連結: [ðə ˈtɝnə...] ザ ターナメント"
+          ]
+        },
+        {
+          "en": "They will mock our base design if we don't improve it before the deadline.",
+          "ja": "期限前に改善しなければ、彼らは私たちのベース設計を馬鹿にするだろう。",
+          "ipa": "[ðeɪ wɪl ˈmɑk ˈaʊər beɪs dɪˈzaɪn ɪf wi doʊnt ɪmˈpruːv ɪt bɪˈfɔr ðə ˈdɛdˌlaɪn]",
+          "kana": "ザイ ウィル マック アワー ベイス ディザイン イフ ウィ ドゥント イムプルーヴ イット ビフォー ザ デッドラインゥ",
+          "linking": [
+            "will は /wɪl/、mock に先行。縮約可能（they'll /ðeɪl/）: [wɪl ˈmɑk] ウィル マック",
+            "our は /ˈaʊər/、base の /b/ に先行（子音同士で自然に連続）",
+            "before の語末 /r/ が the の弱形 /ðə/ に連結: [bɪˈfɔr ðə] ビフォー ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be mocking",
+      "ipa": "/wɪl bi ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "She will be mocking our strategy while we're preparing for the raid.",
+          "ja": "私たちがレイドの準備をしている間、彼女は私たちの戦略を馬鹿にしているだろう。",
+          "ipa": "[ʃiː wɪl bi ˈmɑkɪŋ ˈaʊər ˈstrætədʒi ˈwaɪl wɪr prɪˈpɛrɪŋ fər ðə reɪd]",
+          "kana": "シー ウィル ビー マッキング アワー ストラテジー ホワイル ウィアー プリペアリング ファー ザ レイド",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bi/: [wɪl bi] ウィル ビー",
+            "be は /bi/、mocking に先行: [bi ˈmɑkɪŋ] ビー マッキング",
+            "for は弱形 /fər/、raid に連結: [fər ðə] ファー ザ"
+          ]
+        },
+        {
+          "en": "Everyone will be mocking the server lag when the event actually starts.",
+          "ja": "イベントが実際に始まるとき、皆がサーバーラグを馬鹿にしているだろう。",
+          "ipa": "[ˈɛvɹiˌwʌn wɪl bi ˈmɑkɪŋ ðə ˈsɝvər læg wɛn ðə ɪˈvɛnt ˈæktʃuəli stɑrts]",
+          "kana": "エヴリワン ウィル ビー マッキング ザ サーバー ラグ ウェン ザ イヴェント アクチュアリー スターツ",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bi/: [wɪl bi] ウィル ビー",
+            "be は /bi/、mocking に先行: [bi ˈmɑkɪŋ] ビー マッキング",
+            "the は弱形 /ðə/、server と event に連結（2回）: [ðə ˈsɝvər]「ザ サーバー」、[ðə ɪˈvɛnt]「ザ イヴェント」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have mocked",
+      "ipa": "/wɪl həv mɑkt/",
+      "examples": [
+        {
+          "en": "By the time you finish building, they will have mocked your design a thousand times.",
+          "ja": "お前が建築を終わるまでに、彼らはお前の設計を千回馬鹿にしているだろう。",
+          "ipa": "[baɪ ðə ˈtaɪm ju ˈfɪnɪʃ ˈbɪldɪŋ | ðeɪ wɪl həv ˈmɑkt jɔr dɪˈzaɪn ə ˈθaʊzənd taɪmz]",
+          "kana": "バイ ザ タイム ユー フィニッシュ ビルディング | ザイ ウィル ハヴ マークトゥ ユア ディザイン ア サウザンド タイムズ",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/: [wɪl həv] ウィル ハヴ",
+            "have の /v/ が mocked の /m/ に未開放で連接: [həv ˈmɑkt] ハヴ マークトゥ",
+            "your の /r/ が design の /d/ に先行（子音同士で自然な結合）"
+          ]
+        },
+        {
+          "en": "He will have mocked every mistake by the end of the tournament.",
+          "ja": "トーナメント終了までに、彼はあらゆるミスを馬鹿にしているだろう。",
+          "ipa": "[hiː wɪl həv ˈmɑkt ˈɛvɹi mɪˈsteɪk baɪ ðə ɛnd əv ðə ˈtɝnəmənt]",
+          "kana": "ヒー ウィル ハヴ マークトゥ エヴリ ミステイク バイ ザ エンド アヴ ザ ターナメント",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/: [wɪl həv] ウィル ハヴ",
+            "have の /v/ が mocked の /m/ に未開放で連接: [həv ˈmɑkt] ハヴ マークトゥ",
+            "the は弱形 /ðə/、end に連結。of は弱形 /əv/: [ðə ɛnd əv] ザ エンド アヴ"
+          ]
+        }
+      ]
     }
   ]
 }
