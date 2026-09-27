@@ -292,6 +292,96 @@
           "kana": "ザ ボンズ ハド ビン ディゾルビング ファー ウィークス ビフォア ザ アライアンス ファイナリー コラップスト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has dissolved",
+      "ipa": "/həz dɪˈzɑlvd/",
+      "examples": [
+        {
+          "en": "The sugar has dissolved in my water bucket.",
+          "ja": "砂糖は私の水バケットに溶けました。",
+          "ipa": "/ðə ˈʃʊɡər həz dɪˈzɑlvd ɪn maɪ ˈwɔtər ˈbʌkɪt/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "sugar has - /ɡər/ が /h/ に続く（子音+子音、未開放）、has は弱形 /həz/ ハズ",
+            "in my - /n/ が /m/ に続く（子音+子音）"
+          ],
+          "kana": "ザ シュガー ハズ ディゾルブド イン マイ ウォーター バケット"
+        },
+        {
+          "en": "The mining team has dissolved after the conflict.",
+          "ja": "紛争後、マイニングチームは解散しました。",
+          "ipa": "/ðə ˈmaɪnɪŋ tim həz dɪˈzɑlvd ˈæftər ðə ˈkɑnflɪkt/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "team has - /m/ が /h/ に続く（子音+子音、未開放）、has は弱形 /həz/ ハズ",
+            "after the - /r/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ マイニング ティム ハズ ディゾルブド アフター ザ コンフリクト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had dissolved",
+      "ipa": "/həd dɪˈzɑlvd/",
+      "examples": [
+        {
+          "en": "The potion ingredients had dissolved before I could stop the reaction.",
+          "ja": "反応を止める前に、ポーション材料は既に溶けていました。",
+          "ipa": "/ðə ˈpoʊʃən ˈɪŋɡridiənts həd dɪˈzɑlvd bɪˈfɔr aɪ kʊd stɑp ðə riˈækʃən/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "ingredients had - /z/ が /h/ に続く（子音+子音、未開放）、had は弱形 /həd/ ハド",
+            "before は /bɪˈfɔr/、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ポーション イングレディエンツ ハド ディゾルブド ビフォア アイ クド スタップ ザ リアクション"
+        },
+        {
+          "en": "The guild had dissolved years before the new players discovered the ruins.",
+          "ja": "新しいプレイヤーが遺跡を発見する数年前に、ギルドは既に解散していました。",
+          "ipa": "/ðə ɡɪld həd dɪˈzɑlvd jɪrz bɪˈfɔr ðə nu ˈpleɪərz dɪsˈkʌvərd ðə ˈruːɪnz/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ（2箇所）",
+            "had は弱形 /həd/ ハド、years の語末 /z/ が before の /b/ に続く（子音+子音、未開放）",
+            "discovered の /d/ が the の /ð/ に続く（子音+子音）"
+          ],
+          "kana": "ザ ギルド ハド ディゾルブド イアーズ ビフォア ザ ニュー プレイヤーズ ディスカバード ザ ルーインズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been dissolving",
+      "ipa": "/həz bɪn dɪˈzɑlvɪŋ/",
+      "examples": [
+        {
+          "en": "The ice block has been dissolving since the sun rose.",
+          "ja": "太陽が昇ってから、氷ブロックずっと溶けています。",
+          "ipa": "/ðə ˈaɪs blɑk həz bɪn dɪˈzɑlvɪŋ sɪns ðə sʌn roʊz/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ アイス ブラック ハズ ビン ディゾルビング シンス ザ サン ローズ"
+        },
+        {
+          "en": "The team bonds have been dissolving throughout the entire season.",
+          "ja": "チームの絆はシーズン全体にわたって壊れ続けています。",
+          "ipa": "/ðə tim bɑndz həv bɪn dɪˈzɑlvɪŋ θruˈaʊt ðə ənˈtaɪər ˈsizən/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "bonds have - /z/ が /h/ に続く（子音+子音、未開放）、have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ティム ボンズ ハヴ ビン ディゾルビング スルーアウト ザ エンタイア シーズン"
+        }
+      ]
     }
   ],
   "tags": [
