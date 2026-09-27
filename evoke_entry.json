@@ -287,6 +287,96 @@
           "kana": "ザ グロウイング ポータル ハド ビン イヴォーキング アワー キュリアシティ エヴァー シンス ウィー ディスカヴァード イット"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has evoked",
+      "ipa": "/həz ɪˈvoʊkt/",
+      "examples": [
+        {
+          "en": "This ancient structure has evoked memories of our first base.",
+          "ja": "この古代の構造は、私たちの最初の拠点の思い出を呼び起こしている。",
+          "ipa": "/ðɪs ˈeɪnʃənt ˈstrʌkʃər həz ɪˈvoʊkt ˈmɛməriz əv ˈaʊər ˈfɜrst ˈbeɪs/",
+          "linking": [
+            "structure has: 語末子音 /r/ が弱形 /ə/ に連結 [ˈstrʌkʃər həz] ストラクシャー ハズ",
+            "has evoked: 語末音 /z/ が母音 /ɪ/ に連結 [həz ɪˈvoʊkt] ハズ イヴォークト",
+            "of は弱形 /əv/"
+          ],
+          "kana": "ディス エインシャント ストラクシャー ハズ イヴォークト メモリーズ アヴ アワー ファースト ベイス"
+        },
+        {
+          "en": "These glowing crystals have evoked wonder in every player.",
+          "ja": "これらの光る結晶は、すべてのプレイヤーに驚異を呼び起こしている。",
+          "ipa": "/ðiːz ˈɡloʊɪŋ ˈkrɪstəlz həv ɪˈvoʊkt ˈwʌndər ɪn ˈɛvəri ˈpleɪər/",
+          "linking": [
+            "crystals have: 語末音 /z/ が弱形 /ə/ に連結 [ˈkrɪstəlz həv] クリスタルズ ハヴ",
+            "have evoked: 語末音 /v/ が母音 /ɪ/ に連結 [həv ɪˈvoʊkt] ハヴ イヴォークト",
+            "in は /ɪn/ [ɪn] イン"
+          ],
+          "kana": "ディーズ グロウイング クリスタルズ ハヴ イヴォークト ワンダー イン エヴァリィ プレイアー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had evoked",
+      "ipa": "/həd ɪˈvoʊkt/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the mysterious artifacts had evoked deep emotions.",
+          "ja": "私たちが到着する時点で、謎の遺物は深い感情を呼び起こしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˌmɪˈstɪriəs ˈɑːrtɪfækts həd ɪˈvoʊkt ˈdiːp ɪˈmoʊʃənz/",
+          "linking": [
+            "time we: 語末音 /m/ が母音 /i/ に連結 [ˈtaɪm wi] タイム ウィー",
+            "artifacts had: 語末音 /s/ が弱形 /ə/ に連結 [ˈɑːrtɪfækts həd] アーティファクツ ハド",
+            "had evoked: 語末子音 /d/ が母音 /ɪ/ に連結 [həd ɪˈvoʊkt] ハド イヴォークト"
+          ],
+          "kana": "バイ ザ タイム ウィー アライヴド ザ ミスティアーリアス アーティファクツ ハド イヴォークト ディープ イモウションズ"
+        },
+        {
+          "en": "The hidden fortress had evoked nostalgia before we discovered the real treasure.",
+          "ja": "隠された砦は、私たちが本当の宝を発見する前に郷愁を呼び起こしていた。",
+          "ipa": "/ðə ˈhɪdn̩ ˈfɔːrtəs həd ɪˈvoʊkt nɑˈstældʒə bɪˈfɔːr wi dɪˈskʌvərd ðə ˈriːəl ˈtɛʒər/",
+          "linking": [
+            "fortress had: 語末子音 /s/ が弱形 /ə/ に連結 [ˈfɔːrtəs həd] フォートアス ハド",
+            "had evoked: 語末子音 /d/ が母音 /ɪ/ に連結 [həd ɪˈvoʊkt] ハド イヴォークト",
+            "before は /bɪˈfɔːr/ [bɪˈfɔːɚ] ビフォー"
+          ],
+          "kana": "ザ ヒドゥン フォートアス ハド イヴォークト ノスタルジャ ビフォー ウィー ディスカヴァード ザ リアル トレジャー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been evoking",
+      "ipa": "/həz bɪn ɪˈvoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The glowing portal has been evoking curiosity all week long.",
+          "ja": "その光るポータルは一週間ずっと好奇心を呼び起こしている。",
+          "ipa": "/ðə ˈɡloʊɪŋ ˈpoʊrtəl həz bɪn ɪˈvoʊkɪŋ ˌkjʊriˈɑsɪti ɔːl ˈwiːk ˈlɔːŋ/",
+          "linking": [
+            "portal has: 語末子音 /l/ が弱形 /ə/ に連結 [ˈpoʊrtəl həz] ポータル ハズ",
+            "has been: 語末音 /z/ が母音 /ɪ/ に連結 [həz bɪn] ハズ ビン",
+            "been evoking: 語末鼻音 /n/ が母音 /ɪ/ に連結 [bɪn ɪˈvoʊkɪŋ] ビン イヴォーキング"
+          ],
+          "kana": "ザ グロウイング ポータル ハズ ビン イヴォーキング キュリアシティ オール ウィーク ロング"
+        },
+        {
+          "en": "These ancient structures have been evoking strong emotions since our arrival.",
+          "ja": "これらの古代の構造は、私たちの到着以来、強い感情を呼び起こしている。",
+          "ipa": "/ðiːz ˈeɪnʃənt ˈstrʌkʃərz həv bɪn ɪˈvoʊkɪŋ ˈstrɔŋ ɪˈmoʊʃənz ˈsɪns ˈaʊər əˈraɪvəl/",
+          "linking": [
+            "structures have: 語末音 /z/ が弱形 /ə/ に連結 [ˈstrʌkʃərz həv] ストラクシャーズ ハヴ",
+            "have been: 語末音 /v/ が母音 /ɪ/ に連結 [həv bɪn] ハヴ ビン",
+            "been evoking: 語末鼻音 /n/ が母音 /ɪ/ に連結 [bɪn ɪˈvoʊkɪŋ] ビン イヴォーキング"
+          ],
+          "kana": "ディーズ エインシャント ストラクシャーズ ハヴ ビン イヴォーキング ストロング イモウションズ シンス アワー アライヴアル"
+        }
+      ]
     }
   ]
 }
