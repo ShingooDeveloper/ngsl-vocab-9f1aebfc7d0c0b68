@@ -52,9 +52,11 @@
       "example_ja": "木がなくなったので、もう建築できません。",
       "ipa": "/wi ræn aʊt əv wʊd | soʊ wi kænt bɪld ɛniˌmoʊr/",
       "linking": [
-        "out of → out の /t/ はフラップ化 [ɾ] して of に連結。of は弱形 /əv/。[aʊɾəv] アウラヴ"
+        "out of → out の /t/ はフラップ化 [ɾ] して of に連結。of は弱形 /əv/。[aʊɾəv]",
+        "can't build → can't の /t/ は未開放で build の /b/ に先行。[kæn̚t̚ bɪld]",
+        "build anymore → build の /d/ が anymore の初頭 /ɛ/ に連結"
       ],
-      "kana": "ウィ ラン アウラヴ ウッド、ソウ ウィ キャント ビルド エニモー"
+      "kana": "ウィ ラン アウラヴ ウッド、ソウ ウィ キャンッビルド エニモー"
     },
     {
       "idiom": "out of the way",
@@ -79,6 +81,20 @@
         "out and out → 最初の out の /t/ は未開放。and は弱形 /ənd/。最後の out は [aʊt]"
       ],
       "kana": "ディス ベイス イズ アウト アンド アウト アメイジング"
+    },
+    {
+      "idiom": "be out",
+      "ja": "外出している、留守だ",
+      "example": "My friend will be out mining diamonds in the nether.",
+      "example_ja": "私の友人はネザーでダイヤを採掘するために外出しています。",
+      "ipa": "/maɪ frɛnd wəl bi aʊt ˈmaɪnɪŋ ˈdaɪmənds ɪn ðə ˈnɛðər/",
+      "linking": [
+        "friend will → friend の /d/ が will の /w/ に先行。will は弱形 /wəl/ [frɛnd wəl] フレンド ワル",
+        "will be → will の語末子音 /l/ が be の母音 /i/ に連結 [wəl bi] ワル ビー",
+        "out mining → out の語末子音 /t/ がフラップ化 [ɾ] して mining の母音 /aɪ/ に連結 [aʊɾ ˈmaɪnɪŋ] アウラ マイニング",
+        "the nether → the は弱形 /ðə/、nether の語頭 /n/ に連結 [ðə ˈnɛðər] ザ ネザー"
+      ],
+      "kana": "マイ フレンド ワル ビー アウラ マイニング ダイモンズ イン ザ ネザー"
     }
   ],
   "forms": [
