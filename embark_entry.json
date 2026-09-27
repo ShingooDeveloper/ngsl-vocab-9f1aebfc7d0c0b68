@@ -274,6 +274,186 @@
           "kana": "ウィ ハド ビン イムバーキング オン セヴァラル マイニング イクスペディションズ ファー ウィークス ビフォア ディスカヴァリング ザ アンダーグラウンド フォートレス"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has embarked",
+      "ipa": "/həz ɪmˈbɑrkt/",
+      "examples": [
+        {
+          "en": "We have embarked on a mission to map every biome in this realm and discover all hidden structures.",
+          "ja": "この領域のすべてのバイオームを地図に記載し、すべての隠された構造を発見するためのミッションに乗り出しました。",
+          "ipa": "/wi həv ɪmˈbɑrkt ɑn ə ˈmɪʃən tu ˈmæp ˈɛvri ˈbaɪˌoʊm ɪn ðɪs ˈrilm ənd dɪˈskʌvɚ ɔl ˈhɪdən ˈstrʌktʃɚz/",
+          "linking": [
+            "have は弱形 /həv/ で embarked の /ɪ/ に連結 [həv ɪm] ハヴ イムバーク",
+            "embarked on - 語末 /t/ が母音 /ɑ/ に連結 [bɑrkt ɑn] バークトオン",
+            "this realm - this は指示詞の弱形 /ðɪs/、and は弱形 /ənd/"
+          ],
+          "kana": "ウィー ハヴ イムバークトオン ア ミッション タ マップ エブリー バイオーム イン ディス リーム アンド ディスカヴァー オール ヒドゥン ストラクチャーズ"
+        },
+        {
+          "en": "The team has embarked on building a massive castle that will be the largest structure on the server.",
+          "ja": "チームはサーバー上で最大の構造になる大規模な城を構築するために乗り出しました。",
+          "ipa": "/ðə ˈtiːm həz ɪmˈbɑrkt ɑn ˈbɪldɪŋ ə ˈmæsɪv ˈkæsəl ðæt wɪl bi ðə ˈlɑrdʒəst ˈstrʌktʃɚ ɑn ðə ˈsɝvɚ/",
+          "linking": [
+            "the は弱形 /ðə/ で team の /t/ に先行 [ðə ˈtiːm] ザ ティーム",
+            "has は弱形 /həz/ で embarked の /ɪ/ に連結 [həz ɪm] ハズ イムバーク",
+            "embarked on - 語末 /t/ が /ɑ/ に連結 [bɑrkt ɑn] バークトオン"
+          ],
+          "kana": "ザ ティーム ハズ イムバークトオン ビルディング ア マッシヴ キャセル ザット ウィル ビー ザ ラージェスト ストラクチャー オン ザ サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had embarked",
+      "ipa": "/həd ɪmˈbɑrkt/",
+      "examples": [
+        {
+          "en": "Once they had embarked on the dangerous nether expedition, there was no turning back to safety.",
+          "ja": "ひとたび彼らが危険なネザー遠征に乗り出すと、安全に戻る道はありませんでした。",
+          "ipa": "/ˈwʌns ðeɪ həd ɪmˈbɑrkt ɑn ðə ˈdeɪndʒərəs ˈnɛðɚ ɪkˈspɛdɪʃən ðɛɚ wəz ˈnoʊ ˈtɝnɪŋ ˈbæk tu ˈseɪfti/",
+          "linking": [
+            "had は弱形 /həd/ で未開放、embarked の /ɪ/ に先行 [həd̚ ɪm] ハド イムバーク",
+            "embarked on - 語末 /t/ が母音 /ɑ/ に連結 [bɑrkt ɑn] バークトオン",
+            "dangerous nether - the は弱形 /ðə/、to は弱形 /tə/"
+          ],
+          "kana": "ワンス ゼイ ハド イムバークトオン ザ デインジャラス ネザー イクスペディション ゼア ワズ ノー ターニング バック トゥ セイフティー"
+        },
+        {
+          "en": "By the time the rescue team arrived, they had already embarked on exploring the deep caves to find survivors.",
+          "ja": "救助チームが到着するまでに、彼らはすでに生存者を見つけるために深い洞窟の探索に乗り出していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈrɛskjuː ˈtiːm əˈraɪvd ðeɪ əd ˈɔlrɛdi ɪmˈbɑrkt ɑn ɪkˈsplɔrɪŋ ðə ˈdip ˈkeɪvz tu ˈfaɪnd sərˈvaɪvɚz/",
+          "linking": [
+            "had は弱形 /əd/ で未開放、embarked の /ɪ/ に先行し、already の /ɔ/ に続く [əd̚ ˈɔl] アド オール",
+            "embarked on - /t/ が /ɑ/ に連結 [bɑrkt ɑn] バークトオン",
+            "to は弱形 /tə/ で find の /f/ に先行 [tə ˈfaɪnd] タ ファインド"
+          ],
+          "kana": "バイ ザ タイム ザ レスキュー ティーム アライヴド ゼイ ハド オールレディ イムバークトオン イクスプローリング ザ ディープ ケイヴズ タ ファインド サヴァイヴァーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been embarking",
+      "ipa": "/həz bɪn ɪmˈbɑrkɪŋ/",
+      "examples": [
+        {
+          "en": "The mining team have been embarking on daily supply expeditions to keep the base fully stocked with resources.",
+          "ja": "採掘チームは基地を完全に物資で満杯に保つために、毎日の補給遠征に乗り出し続けています。",
+          "ipa": "/ðə ˈmaɪnɪŋ ˈtiːm həv bɪn ɪmˈbɑrkɪŋ ɑn ˈdeɪli səˈplaɪ ɪkˈspɛdɪʃənz tu ˈkip ðə ˈbeɪs ˈfʊli ˈstɑkt wɪð ˈrizɔrsɪz/",
+          "linking": [
+            "have は弱形 /həv/ で been の /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/ で embarking の /ɪ/ に連結 [bɪn ɪm] ビン イムバーキング",
+            "embarking on - /ŋ/ が /ɑ/ に続く、to は弱形 /tə/"
+          ],
+          "kana": "ザ マイニング ティーム ハヴ ビン イムバーキング オン デイリー サプライ イクスペディションズ タ キープ ザ ベイス フリー スタクト ウィズ リーサーシーズ"
+        },
+        {
+          "en": "She has been embarking on different building projects every week to master new construction techniques in Minecraft.",
+          "ja": "彼女はマインクラフトの新しい建設技術をマスターするために、毎週異なる建設プロジェクトに乗り出し続けています。",
+          "ipa": "/ʃi həz bɪn ɪmˈbɑrkɪŋ ɑn ˈdɪfɚənt ˈbɪldɪŋ ˈprɑdʒɛkts ˈɛvri ˈwik tu ˈmæstɚ ˈnu kənˈstrʌkʃən tɛkˈniks ɪn ˈmaɪnˌkræft/",
+          "linking": [
+            "has は弱形 /həz/ で been の /b/ に連結、/z/ が子音に先行 [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/ で embarking の /ɪ/ に連結 [bɪn ɪm] ビン イムバーキング",
+            "embarking on - /ŋ/ が /ɑ/ に続く、to は弱形 /tə/"
+          ],
+          "kana": "シー ハズ ビン イムバーキング オン ディファレント ビルディング プロジェクツ エブリー ウィーク タ マスター ニュー コンストラクション テクニークス イン マインクラフト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will embark",
+      "ipa": "/wɪl ɪmˈbɑrk/",
+      "examples": [
+        {
+          "en": "I will embark on an amazing adventure to explore the newly discovered jungle biome.",
+          "ja": "新しく発見されたジャングルバイオームを探検するために、素晴らしい冒険に乗り出します。",
+          "ipa": "/aɪ wɪl ɪmˈbɑrk ɑn ən əˈmeɪzɪŋ ədˈvɛntʃɚ tə ɪkˈsplɔr ðə ˈnjuli dɪˈskʌvɚd ˈdʒʌŋɡəl ˈbaɪˌoʊm/",
+          "linking": [
+            "「will embark」で will の /l/ が embark の /ɪ/ に連結 [wɪl ɪm]→「ウィル イムバーク」",
+            "「embark on」で embark の語末子音 /k/ が on の /ɑ/ に連結 [bɑrk ɑn]→「バーク オン」",
+            "「on an」で on の /n/ が an の弱形 /ən/ に連結 [ɑn ən]→「オン アン」"
+          ],
+          "kana": "アイ ウィル イムバーク オン アン アメイジング アドベンチャー タ イクスプロア ザ ニューリー ディスカヴァード ジャングル バイオーム"
+        },
+        {
+          "en": "The captain will embark the final supplies before the voyage begins at first light.",
+          "ja": "船長は初光の前に最終的な物資を船に乗せるでしょう。",
+          "ipa": "/ðə ˈkæptɪn wəl ɪmˈbɑrk ðə ˈfaɪnəl səˈplaɪz bɪˈfɔr ðə ˈvɔɪdʒ bɪˈɡɪnz æt ˈfɚst ˈlaɪt/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「will」は弱形 /wəl/ で embark の /ɪ/ に先行 [wəl ɪm]→「ウル イムバーク」",
+            "「embark the」で embark の語末子音 /k/ が the の弱形 /ðə/ に連結 [bɑrk ðə]→「バーク ザ」"
+          ],
+          "kana": "ザ キャプティン ウル イムバーク ザ ファイナル サプライズ ビフォア ザ ボイッジ ビギンズ アット ファースト ライト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be embarking",
+      "ipa": "/wɪl bi ɪmˈbɑrkɪŋ/",
+      "examples": [
+        {
+          "en": "We will be embarking on our greatest mining expedition when the sun rises tomorrow.",
+          "ja": "明日、太陽が昇るとき、私たちは最大のマイニング遠征に乗り出しているでしょう。",
+          "ipa": "/wi wɪl bi ɪmˈbɑrkɪŋ ɑn ˈaʊɚ ˈɡreɪtəst ˈmaɪnɪŋ ɪkˈspɛdɪʃən wɛn ðə ˈsʌn ˈraɪzɪz təˈmɑroʊ/",
+          "linking": [
+            "「will be」で will の /l/ が be に先行、be は弱形 /bɪ/ で embarking の /ɪ/ に連結 [wɪl bɪ ɪm]→「ウィル ビ イムバーキング」",
+            "「embarking on」で embarking の語末 /ŋ/ と on の /ɑ/ が続く [ˈbɑrkɪŋ ɑn]→「バーキング オン」",
+            "「on our」で on の /n/ が our の /ɑ/ に連結 [ɑn ˈaʊ]→「オン アワー」"
+          ],
+          "kana": "ウィ ウィル ビ イムバーキング オン アワー グレイテスト マイニング イクスペディション ウェン ザ サン ライズズ トゥモロー"
+        },
+        {
+          "en": "The team will be embarking supplies and crew at the dock when you arrive this afternoon.",
+          "ja": "あなたが今日の午後に到着するとき、チームは桟橋で物資と乗組員を船に乗せているでしょう。",
+          "ipa": "/ðə ˈtiːm wɪl bi ɪmˈbɑrkɪŋ səˈplaɪz ənd ˈkru æt ðə ˈdɑk wɛn ju əˈraɪv ðɪs ˌæftərˈnun/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「will be embarking」で will の /l/ が be に先行、be は弱形 /bɪ/ で embarking の /ɪ/ に連結 [wɪl bɪ ɪm]→「ウィル ビ イムバーキング」",
+            "「and crew」で and の弱形 /ənd/ が crew の /k/ に先行"
+          ],
+          "kana": "ザ ティーム ウィル ビ イムバーキング サプライズ アンド クルー アット ザ ドック ウェン ユー アライヴ ディス アフタヌーン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have embarked",
+      "ipa": "/wɪl hæv ɪmˈbɑrkt/",
+      "examples": [
+        {
+          "en": "By the end of this month, I will have embarked on at least five major expeditions across different biomes.",
+          "ja": "今月末までに、私は異なるバイオーム全体で少なくとも5つの主要な遠征に乗り出しているでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðɪs ˈmʌnθ aɪ wɪl həv ɪmˈbɑrkt ɑn æt ˈlist ˈfaɪv ˈmeɪdʒɚ ɪkˈspɛdɪʃənz əˈkrɑs ˈdɪfɚənt ˈbaɪˌoʊmz/",
+          "linking": [
+            "「will have」で will の /l/ が have に先行、have は弱形 /həv/ に弱化 [wɪl həv]→「ウィル ハヴ」",
+            "「have embarked」で have の弱形 /v/ が embarked の /ɪ/ に連結 [həv ɪm]→「ハヴ イムバーク」",
+            "「embarked on」で embarked の語末 /t/ が on の /ɑ/ に連結 [bɑrkt ɑn]→「バークト オン」"
+          ],
+          "kana": "バイ ザ エンド アヴ ディス マンス アイ ウィル ハヴ イムバークト オン アット リースト ファイヴ メイジャー イクスペディションズ アクロス ディファレント バイオームズ"
+        },
+        {
+          "en": "By sunrise tomorrow, the crew will have embarked all the cargo and prepared the ship for departure.",
+          "ja": "明日の日の出までに、乗組員はすべての貨物を船に乗せ、出発のために船を準備しているでしょう。",
+          "ipa": "/baɪ ˈsʌnˌraɪz təˈmɑroʊ ðə ˈkru wɪl həv ɪmˈbɑrkt ˌɔl ðə ˈkɑrɡoʊ ənd prɪˈpɛɚd ðə ˈʃɪp fɚ dɪˈpɑrtʃɚ/",
+          "linking": [
+            "「will have」で will の /l/ が have に先行、have は弱形 /həv/ に弱化 [wɪl həv]→「ウィル ハヴ」",
+            "「have embarked」で have の弱形 /v/ が embarked の /ɪ/ に連結 [həv ɪm]→「ハヴ イムバーク」",
+            "「embarked all」で embarked の語末 /t/ が all の /ɔ/ に連結 [bɑrkt ɔl]→「バークト オール」"
+          ],
+          "kana": "バイ サンライズ トゥモロー ザ クルー ウィル ハヴ イムバークト オール ザ カーゴー アンド プリペアード ザ シップ フォア ディパーチャー"
+        }
+      ]
     }
   ]
 }
