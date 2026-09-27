@@ -378,6 +378,102 @@
           "kana": "プレイアーズ ハヴ ビン リゼンティング ザ ニュー リストリクションズ オン クリエイティヴ モウド オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will resent",
+      "ipa": "/wɪl rɪˈzɛnt/",
+      "examples": [
+        {
+          "en": "I will resent it if they nerf my favorite pickaxe in the next update.",
+          "ja": "次のアップデートで好きなツルハシがナーフされたら、私は反感を持つだろう。",
+          "ipa": "/aɪl rɪˈzɛnt ɪt ɪf ðeɪ nɛrf maɪ ˈfeɪvərɪt ˈpɪkˌæks ɪn ðə ˈnɛkst ʌpˈdeɪt/",
+          "linking": [
+            "I will → 縮約形 I'll /aɪl/、resent の /r/ に続く（子音+子音）",
+            "resent it → resent の語末 /t/ が it の /ɪ/ に連結 [rɪˈzɛnt ɪt]「リゼント イット」",
+            "in the → in の語末 /n/ が the の弱形 /ðə/ に続く [ɪn ðə]「イン ザ」",
+            "the next → the は弱形 /ðə/「ザ」、next に続く"
+          ],
+          "kana": "アイル リゼント イット イフ ゼイ ネルフ マイ フェイヴァリット ピックアックス イン ザ ネクスト アップデイト"
+        },
+        {
+          "en": "They'll resent the spawn point changes when they see how far it is from their base.",
+          "ja": "スポーン地点の変更がどれだけ彼らの基地から離れているかを見るとき、彼らは反感を持つだろう。",
+          "ipa": "/ðeɪl rɪˈzɛnt ðə ˈspoʊn ˈpɔɪnt ˈtʃeɪndʒɪz wɛn ðeɪ ˈsi haʊ ˈfɑr ɪt ɪz frəm ðɛr ˈbeɪs/",
+          "linking": [
+            "They'll resent → They の縮約形 /ðeɪl/、resent の /r/ に続く（子音+子音）",
+            "resent the → resent の語末 /t/ が the の弱形 /ðə/ に連結 [rɪˈzɛnt ðə]「リゼント ザ」",
+            "when they → when の語末 /n/ が they の /ð/ に続く（子音+子音）で連結なし",
+            "from their → from は弱形 /frəm/、their の /ð/ に続く"
+          ],
+          "kana": "ゼイル リゼント ザ スポウン ポイント チェインジズ ウェン ゼイ シー ハウ ファー イット イズ フラム ゼア ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be resenting",
+      "ipa": "/wɪl bi rɪˈzɛntɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be resenting the new crafting changes all week long.",
+          "ja": "新しいクラフト変更に対して、私は一週間中反感を抱き続けるだろう。",
+          "ipa": "/aɪl bi rɪˈzɛntɪŋ ðə ˈnuː ˈkræftɪŋ ˈtʃeɪndʒɪz ɔl ˈwik ˈlɔŋ/",
+          "linking": [
+            "I'll be → I の縮約形 /aɪl/、be の /b/ に子音+子音で未開放 [aɪl̚ bi]「アイル ビー」",
+            "be resenting → be の語末 /i/ が resenting の /r/ に続く（母音+子音）[bi rɪˈzɛntɪŋ]「ビー リゼンティング」",
+            "resenting the → resenting の語末 /ŋ/ が the の弱形 /ðə/ に連結 [rɪˈzɛntɪŋ ðə]「リゼンティング ザ」",
+            "all week → all の語末 /l/ が week の /w/ に続く（子音+子音）で連結なし"
+          ],
+          "kana": "アイル ビー リゼンティング ザ ニュー クラフティング チェインジズ オール ウィーク ロング"
+        },
+        {
+          "en": "Players will be resenting the lag spikes for the rest of the season.",
+          "ja": "プレイヤーたちはシーズンの残り期間中、ラグスパイクに反感を抱き続けるだろう。",
+          "ipa": "/ˈpleɪərz wɪl bi rɪˈzɛntɪŋ ðə ˈlæɡ spaɪks fɚ ðə ˈrɛst əv ðə ˈsizən/",
+          "linking": [
+            "Players will → players の語末 /z/ が will の /w/ に続く（子音+子音）で連結なし。will は弱形 /wɪl/",
+            "will be → will の語末 /l/ が be の /b/ に子音+子音で未開放 [wɪl̚ bi]「ウィル ビー」",
+            "be resenting → be の語末 /i/ が resenting の /r/ に続く（母音+子音）[bi rɪˈzɛntɪŋ]「ビー リゼンティング」",
+            "of the → of は弱形 /əv/、the も弱形 /ðə/"
+          ],
+          "kana": "プレイアーズ ウィル ビー リゼンティング ザ ラグ スパイクス ファー ザ レスト アヴ ザ シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have resented",
+      "ipa": "/wɪl həv rɪˈzɛntɪd/",
+      "examples": [
+        {
+          "en": "By the time the admin responds, I'll have resented this unfair ban for days.",
+          "ja": "管理者が対応する頃までに、私はこの不公正なバンに対して数日間反感を持ってきているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn rɪˈspɑndz aɪl həv rɪˈzɛntɪd ðɪs ʌnˈfɛr ˈbæn fɚ ˈdeɪz/",
+          "linking": [
+            "the time → the は弱形 /ðə/「ザ」、time の /t/ に続く",
+            "the admin → the は弱形 /ðə/「ザ」、admin の /æ/ に続く（母音+子音）",
+            "I'll have → I の縮約形 /aɪl/、have は弱形 /həv/ で子音+子音の未開放 [aɪl̚ həv]「アイル ハヴ」",
+            "have resented → have は弱形 /həv/、resented の /r/ に子音+子音で未開放 [həv̚ rɪˈzɛntɪd]「ハヴ リゼンティド」"
+          ],
+          "kana": "バイ ザ タイム ザ アドミン リスパンズ アイル ハヴ リゼンティド ディス アンフェア バン ファー デイズ"
+        },
+        {
+          "en": "Everyone will have resented the broken game mechanics long before the developers fix the issues.",
+          "ja": "開発者が問題を修正するずっと前に、誰もがその壊れたゲームメカニクスに反感を持ってきているだろう。",
+          "ipa": "/ˈɛvriˌwʌn wɪl həv rɪˈzɛntɪd ðə ˈbroʊkən ˈɡeɪm məˈkænɪks ˈlɔŋ bɪˈfɔr ðə dɪˈvɛləpərz fɪks ðə ˈɪʃuz/",
+          "linking": [
+            "Everyone will → everyone の語末 /n/ が will の /w/ に続く（子音+子音）で連結なし",
+            "will have → will の語末 /l/ が have の弱形 /həv/ に子音+子音で未開放 [wɪl̚ həv]「ウィル ハヴ」",
+            "have resented → have は弱形 /həv/、resented の /r/ に子音+子音で未開放 [həv̚ rɪˈzɛntɪd]「ハヴ リゼンティド」",
+            "before the → before の語末 /ɔr/ が the の弱形 /ðə/ に続く（母音+子音）"
+          ],
+          "kana": "エブリワン ウィル ハヴ リゼンティド ザ ブロウクン ゲイム マカニックス ロング ビフォア ザ ディベラパーズ フィックス ザ イッシューズ"
+        }
+      ]
     }
   ]
 }
