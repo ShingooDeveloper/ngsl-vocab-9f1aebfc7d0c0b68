@@ -302,6 +302,102 @@
           "kana": "ザ ガーディアン ハド ビン アウェイクニング スロウリー ウェン ウィー ディスカバード ザ テンプル"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has awakened",
+      "ipa": "/həz əˈweɪkənd/",
+      "examples": [
+        {
+          "en": "The guardian has awakened in the deep water temple.",
+          "ja": "ガーディアンは深いオーシャンテンプルで目覚めました。",
+          "ipa": "/ðə ˈɡɑrdiən həz əˈweɪkənd ɪn ðə ˈdip ˈwɔtər ˈtɛmpəl/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "guardian has - /n/ が /h/ に続く（子音+子音）、has は弱形 /həz/",
+            "awakened in - /d/ が /ɪ/ に連結 [əˈweɪkənd ɪn] アウェイクンド イン、in は弱形 /ɪn/",
+            "the は弱形 /ðə/ ザ、water temple - /r/ が /t/ に続く（子音+子音）"
+          ],
+          "kana": "ザ ガーディアン ハズ アウェイクンド イン ザ ディープ ウォーター テンプル"
+        },
+        {
+          "en": "We have awakened before sunrise to mine diamonds in the deep caves.",
+          "ja": "私たちは深いケーブでダイヤモンドを採掘するために、日の出前に目覚めました。",
+          "ipa": "/wi həv əˈweɪkənd bɪˈfɔr ˈsʌnˌɹaɪz tu maɪn ˈdaɪməndz ɪn ðə ˈdip keɪvz/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "awakened before - /d/ が /b/ に続く（子音+子音）",
+            "sunrise to - /z/ が /t/ に続く（子音+子音）、to は弱形 /tə/",
+            "deep caves - /p/ が /k/ に続く（子音+子音）"
+          ],
+          "kana": "ウィー ハヴ アウェイクンド ビフォア サンライズ タ マイン ダイモンズ イン ザ ディープ ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had awakened",
+      "ipa": "/həd əˈweɪkənd/",
+      "examples": [
+        {
+          "en": "The player had awakened just before the Ender Dragon destroyed the sanctuary.",
+          "ja": "プレイヤーはエンダードラゴンが聖域を破壊する直前に目覚めていました。",
+          "ipa": "/ðə ˈpleɪər həd əˈweɪkənd dʒʌst bɪˈfɔr ðə ˈɛndər ˈdɹæɡən dɪˈstɹɔɪd ðə ˈsæŋkˌtʃuːˌɛri/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "had は助動詞で弱形 /həd/ ハド",
+            "awakened just - /d/ が /dʒ/ に続く（子音+子音）",
+            "before the - /r/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ プレイアー ハド アウェイクンド ジャスト ビフォア ザ エンダー ドラゴン ディストロイド ザ サンクチュアリ"
+        },
+        {
+          "en": "They had awakened from their sleep when the warning bell rang in the village.",
+          "ja": "警鐘が村で鳴ったとき、彼らは睡眠から目覚めていました。",
+          "ipa": "/ðeɪ həd əˈweɪkənd frəm ðɛr slip wɛn ðə ˈwɔrnɪŋ bɛl ɹæŋ ɪn ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "had は助動詞で弱形 /həd/ ハド",
+            "awakened from - /d/ が /f/ に続く（子音+子音）、from は弱形 /frəm/",
+            "the は弱形 /ðə/ ザ、warning bell - /ŋ/ が /b/ に続く（子音+子音）",
+            "rang in - /ŋ/ が /ɪ/ に連結 [ɹæŋ ɪn] ラング イン、in は弱形 /ɪn/"
+          ],
+          "kana": "ゼイ ハド アウェイクンド フラム ゼア スリープ ウェン ザ ウォーニング ベル ラング イン ザ ヴィリジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been awakening",
+      "ipa": "/həz bɪn əˈweɪkənɪŋ/",
+      "examples": [
+        {
+          "en": "The guardian has been awakening slowly since we entered the ocean temple.",
+          "ja": "私たちがオーシャンテンプルに入ってから、ガーディアンはゆっくりと目覚めていました。",
+          "ipa": "/ðə ˈɡɑrdiən həz bɪn əˈweɪkənɪŋ ˈsloʊli sɪns wi ˈɛntərd ðə ˈoʊʃən ˈtɛmpəl/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン",
+            "awakening slowly - /ŋ/ が /s/ に続く（子音+子音）",
+            "since we - /s/ が /w/ に続く（子音+子音）、entered the - /d/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ガーディアン ハズ ビン アウェイクニング スロウリー シンス ウィー エンタード ザ オーシャン テンプル"
+        },
+        {
+          "en": "I have been awakening from nightmares about creeper explosions all week.",
+          "ja": "私は一週間中、クリーパー爆発についての悪夢から目覚めていました。",
+          "ipa": "/aɪ həv bɪn əˈweɪkənɪŋ frəm ˈnaɪtˌmɛrz əˈbaʊt ˈkɹipər ɪkˈsploʊʒənz ɔl wik/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン",
+            "awakening from - /ŋ/ が /f/ に続く（子音+子音）、from は弱形 /frəm/",
+            "nightmares about - /z/ が /ə/ に連結 [ˈnaɪtˌmɛrz əˈbaʊt] ナイトメアーズ アバウト",
+            "creeper explosions - /r/ が /ɪ/ に続く（子音+子音）"
+          ],
+          "kana": "アイ ハヴ ビン アウェイクニング フラム ナイトメアーズ アバウト クリーパー イクスプロージャンズ オール ウィーク"
+        }
+      ]
     }
   ],
   "tags": [
