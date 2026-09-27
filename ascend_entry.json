@@ -290,6 +290,193 @@
           "kana": "バイ ザ タイム ウィ リーチッド ザ サミット ウィ ハッド ビン アセンディング フォー ニアリー スリー アウアーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has ascended",
+      "ipa": "/həz əˈsɛndəd/",
+      "examples": [
+        {
+          "en": "The builder has ascended to the very top of the tallest tower.",
+          "ja": "ビルダーは最も背の高いタワーの頂上に到達しました。",
+          "ipa": "/ðə ˈbɪldɚ həz əˈsɛndəd tu ðə ˈvɛɹi ˈtɑp əv ðə ˈtɔləst ˈtaʊɚ/",
+          "linking": [
+            "「has ascended」で has は弱形 /həz/、/z/ が /ə/ に連結 [həz əˈsɛndəd] ハズ アセンデッド",
+            "「ascended to」で /d/ が /t/ に続き、子音+子音で未開放",
+            "「the tower」で the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビルダー ハズ アセンデッド トゥ ザ ベリー タップ アヴ ザ トーレスト タウアー"
+        },
+        {
+          "en": "We have ascended the highest mountain in the Nether to collect ancient blocks.",
+          "ja": "私たちは古代のブロックを集めるためにネザーの最も高い山に上昇しました。",
+          "ipa": "/wi həv əˈsɛndəd ðə ˈhaɪəst ˈmaʊntən ɪn ðə ˈnɛðɚ tə kəˈlɛkt ˈænʃənt ˈblɑks/",
+          "linking": [
+            "「have ascended」で have は弱形 /həv/、/v/ が /ə/ に連結 [həv əˈsɛndəd] ハヴ アセンデッド",
+            "「ascended the」で /d/ が /ð/ に続き、子音+子音で未開放",
+            "「the mountain」で the は弱形 /ðə/",
+            "「collect ancient」で /t/ が /æ/ に連結"
+          ],
+          "kana": "ウィ ハヴ アセンデッド ザ ハイエスト マウンテン イン ザ ネザー トゥ コレクト エンシェント ブラックス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had ascended",
+      "ipa": "/həd əˈsɛndəd/",
+      "examples": [
+        {
+          "en": "Before the creeper attacked, the player had ascended to the safe cave.",
+          "ja": "クリーパーが攻撃する前に、プレイヤーはすでに安全な洞窟に上昇していました。",
+          "ipa": "/bɪˈfɔɹ ðə ˈkripɚ əˈtækt ðə ˈpleɪɚ həd əˈsɛndəd tu ðə ˈseɪf ˈkeɪv/",
+          "linking": [
+            "「the creeper」で the は弱形 /ðə/",
+            "「had ascended」で had は弱形 /həd/、/d/ が /ə/ に連結 [həd əˈsɛndəd] ハッド アセンデッド",
+            "「ascended to」で /d/ が /t/ に続き、子音+子音で未開放"
+          ],
+          "kana": "ビフォア ザ クリーパー アタックド ザ プレイアー ハッド アセンデッド トゥ ザ セイフ ケイヴ"
+        },
+        {
+          "en": "After the miners had ascended the cave system, they found diamonds.",
+          "ja": "鉱夫が洞窟システムに上昇した後、彼らはダイヤモンドを見つけました。",
+          "ipa": "/ˈæftɚ ðə ˈmaɪnɚz həd əˈsɛndəd ðə ˈkeɪv ˈsɪstəm ðeɪ ˈfaʊnd ˈdaɪəməndz/",
+          "linking": [
+            "「the miners」で the は弱形 /ðə/",
+            "「had ascended」で had は弱形 /həd/、/d/ が /ə/ に連結 [həd əˈsɛndəd] ハッド アセンデッド",
+            "「ascended the」で /d/ が /ð/ に続き、子音+子音で未開放"
+          ],
+          "kana": "アフター ザ マイナーズ ハッド アセンデッド ザ ケイヴ システム ゼイ ファウンド ダイアモンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been ascending",
+      "ipa": "/həz bɪn əˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The explorer has been ascending the mountain since sunrise.",
+          "ja": "探検家は日の出以来、山を登り続けています。",
+          "ipa": "/ðə ɪkˈsplɔɹɚ həz bɪn əˈsɛndɪŋ ðə ˈmaʊntən sɪns ˈsʌnˌraɪz/",
+          "linking": [
+            "「has been」で has は弱形 /həz/、been は弱形 /bɪn/",
+            "「been ascending」で /n/ が /ə/ に連結 [bɪn əˈsɛndɪŋ] ビン アセンディング",
+            "「ascending the」で /ŋ/ が /ð/ に続き、子音+子音で未開放"
+          ],
+          "kana": "ザ エクスプローラー ハズ ビン アセンディング ザ マウンテン シンス サンライズ"
+        },
+        {
+          "en": "I have been ascending through the dimensional portal system all morning.",
+          "ja": "私は朝ずっと次元ポータルシステムを登り続けています。",
+          "ipa": "/aɪ həv bɪn əˈsɛndɪŋ θɹu ðə ˌdɪmɛnʃənəl ˈpɔɹtəl ˈsɪstəm ˈɔl ˈmɔɹnɪŋ/",
+          "linking": [
+            "「have been」で have は弱形 /həv/、been は弱形 /bɪn/",
+            "「been ascending」で /n/ が /ə/ に連結 [bɪn əˈsɛndɪŋ] ビン アセンディング",
+            "「ascending through」で /ŋ/ が /θ/ に続き、子音+子音で未開放"
+          ],
+          "kana": "アイ ハヴ ビン アセンディング スルー ザ ディメンショナル ポータル システム オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will ascend",
+      "ipa": "/wəl əˈsɛnd/",
+      "examples": [
+        {
+          "en": "I will ascend the mountain to find the rare biome.",
+          "ja": "私はレアバイオームを見つけるために山を登ります。",
+          "ipa": "/aɪ wəl əˈsɛnd ðə ˈmaʊntən tə ˈfaɪnd ðə ˈrɛɹ baɪˈoʊm/",
+          "linking": [
+            "「will ascend」— will は弱形 /wəl/ で、ascend の /ə/ に連結 [wəl əˈsɛnd] ウル アセンド と聞こえる。",
+            "「the mountain」— the は弱形 /ðə/、mountain は /ˈmaʊn.tən/。ザ マウンテン と聞こえる。",
+            "「to find」— to は弱形 /tə/ で、find の /f/ に続く [tə ˈfaɪnd] タ ファインド と聞こえる。",
+            "「the rare」— the は弱形 /ðə/、rare は /rɛɹ/ で /r/ に連結 [ðə ˈrɛɹ] ザ レア と聞こえる。"
+          ],
+          "kana": "アイ ウル アセンド ザ マウンテン トゥ ファインド ザ レア バイオウム"
+        },
+        {
+          "en": "They will ascend using water columns and scaffolding.",
+          "ja": "彼らは水柱とスキャフォルディングを使用して登ります。",
+          "ipa": "/ðeɪ wəl əˈsɛnd ˈjuːzɪŋ ˈwɔɾɚ ˈkɑləmz ənd ˈskæfəldɪŋ/",
+          "linking": [
+            "「will ascend」— will は弱形 /wəl/ で、ascend の /ə/ に連結 [wəl əˈsɛnd] ウル アセンド と聞こえる。",
+            "「water columns」— water は /ˈwɔɾ.ər/ でフラップ T を持つ [ˈwɔɾɚ]。ウォーラー カラムズ と聞こえる。",
+            "「and scaffolding」— and は弱形 /ənd/ または /ən/ で、scaffolding の /s/ に続く [nd]。アンド スキャフォルディング と聞こえる。",
+            "「columns and」— columns の語末 /z/ が and の /ə/ に続き [zənd] カラムズ アンド と聞こえる。"
+          ],
+          "kana": "ぜぃ ウル アセンド ユージング ウォーラー カラムズ アンド スキャフォルディング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be ascending",
+      "ipa": "/wəl bi əˈsɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The expedition will be ascending the cliff tomorrow morning.",
+          "ja": "遠征隊は明日の朝、崖を登るでしょう。",
+          "ipa": "/ðə ˌɛkspiˈdɪʃən wəl bi əˈsɛndɪŋ ðə ˈklɪf təˈmɑroʊ ˈmɔːrnɪŋ/",
+          "linking": [
+            "「the expedition」— the は弱形 /ðə/、expedition の /ɛ/ に連結 [ðə ˌɛk]。ザ エクスペディション と聞こえる。",
+            "「will be」— will の弱形 /wəl/ は子音で終わり、be の /b/ に続く未開放 [l̚b]。ウル ビー と聞こえる。",
+            "「be ascending」— be は /bi/ で、ascending の /ə/ に連結 [bi əˈsɛndɪŋ] ビー アセンディング と聞こえる。",
+            "「ascending the」— ascending の /ŋ/ は子音で、the の /ð/ に続く未開放 [ŋ̚ðə]。アセンディング ザ と聞こえる。"
+          ],
+          "kana": "ザ エクスペディション ウル ビー アセンディング ザ クリフ トゥモロー モーニング"
+        },
+        {
+          "en": "We'll be ascending and exploring the caverns for hours.",
+          "ja": "私たちは数時間、洞窟を登ったり探索したりするでしょう。",
+          "ipa": "/wiːl bi əˈsɛndɪŋ ənd ɪkˈsplɔːrɪŋ ðə kəˈvɜrnz fɔːr ˈaʊɚz/",
+          "linking": [
+            "「we'll be」— we'll は /wiːl/（will の縮約）で子音で終わり、be の /b/ に続く未開放 [l̚b]。ウィール ビー と聞こえる。",
+            "「be ascending」— be は /bi/ で、ascending の /ə/ に連結 [bi əˈsɛndɪŋ] ビー アセンディング と聞こえる。",
+            "「ascending and」— ascending の /ŋ/ が and に続き、and は弱形 /ənd/ または /ən/ で未開放 [ŋ̚d]。アセンディング アンド と聞こえる。",
+            "「for hours」— for の語末 /ɔːr/ は /r/ で、hours の /aʊ/ に連結 [r ˈaʊɚz] フォーアウアーズ と聞こえる。"
+          ],
+          "kana": "ウィール ビー アセンディング アンド エクスプローリング ザ ケバーンズ フォーアウアーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have ascended",
+      "ipa": "/wəl həv əˈsɛndəd/",
+      "examples": [
+        {
+          "en": "By sunset, they will have ascended to the sky realm.",
+          "ja": "日没までに、彼らはスカイレルムに到達するでしょう。",
+          "ipa": "/baɪ ˈsʌnset ðeɪ wəl həv əˈsɛndəd tu ðə ˈskaɪ ˈrɛlm/",
+          "linking": [
+            "「sunset they」— sunset の /t/ が they の /ð/ に続く未開放 [t̚ðeɪ] サンセット ぜぃ と聞こえる。",
+            "「will have」— will の弱形 /wəl/ は子音で終わり、have の弱形 /həv/ の /h/ に続く未開放 [l̚h]。ウル ハヴ と聞こえる。",
+            "「have ascended」— have の語末 /v/ が ascended の /ə/ に連結 [v əˈsɛndəd] ハヴ アセンデッド と聞こえる。",
+            "「to the」— to は弱形 /tə/ で、the は弱形 /ðə/ に続く [tə ðə] トゥ ザ と聞こえる。"
+          ],
+          "kana": "バイ サンセット ぜぃ ウル ハヴ アセンデッド トゥ ザ スカイ レルム"
+        },
+        {
+          "en": "The builders will have ascended all the materials to the top by noon.",
+          "ja": "大工たちは正午までに、すべての材料をトップまで運び上げるでしょう。",
+          "ipa": "/ðə ˈbɪldɚz wəl həv əˈsɛndəd ɔːl ðə məˈtɪɹiəlz tu ðə ˈtɑp baɪ ˈnuːn/",
+          "linking": [
+            "「the builders」— the は弱形 /ðə/、builders は /ˈbɪl.dɚz/。ザ ビルダーズ と聞こえる。",
+            "「builders will」— builders の語末 /z/ が will の /w/ に続く [zw] ビルダーズ ウル と聞こえる。",
+            "「will have」— will の弱形 /wəl/ は子音で終わり、have の弱形 /həv/ の /h/ に続く未開放 [l̚h]。ウル ハヴ と聞こえる。",
+            "「have ascended」— have の語末 /v/ が ascended の /ə/ に連結 [v əˈsɛndəd] ハヴ アセンデッド と聞こえる。"
+          ],
+          "kana": "ザ ビルダーズ ウル ハヴ アセンデッド オール ザ マテリアルズ トゥ ザ トップ バイ ヌーン"
+        }
+      ]
     }
   ]
 }
