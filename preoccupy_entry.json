@@ -382,6 +382,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will preoccupy",
+      "ipa": "/wɪl ˌpriːˈɑk.jə.paɪ/",
+      "examples": [
+        {
+          "en": "The search for ancient ruins will preoccupy our exploration team for weeks.",
+          "ja": "古代遺跡の探索は、私たちの探検チームを何週間も占めるだろう。",
+          "ipa": "/ðə ˈsɝtʃ fɔr ˈeɪn.ʃənt ˈru.ɪnz wɪl ˌpriːˈɑk.jə.paɪ ˈaʊɚ ˌɛk.splə.ˈreɪ.ʃən ˈtim fɔr ˈwiks/",
+          "kana": "ザ サーチ ファー エインシャント ルーインズ ウィル プリーアクジャパイ アワー エクスプロレイション ティーム ファー ウィークス",
+          "linking": [
+            "「for ancient」—「for」の語末子音 /r/ が「ancient」の母音 /eɪ/ に連結 [fɔr eɪn]「ファー エイン」",
+            "「our exploration」—「our」の語末子音 /r/ が「exploration」の母音 /ɛ/ に連結 [aʊr ɛk]「アワー エク」",
+            "弱形「for」/fər/ ファー、「will」は縮約形 'll が常用される"
+          ]
+        },
+        {
+          "en": "I'll preoccupy myself with building a massive underground city.",
+          "ja": "私は巨大な地下都市を建築することに自分を占めさせるだろう。",
+          "ipa": "/aɪl ˌpriːˈɑk.jə.paɪ maɪˈsɛlf wɪð ˈbɪl.dɪŋ ə ˈmæs.ɪv ˈʌn.dɚ.ɡraʊnd ˈsɪt.i/",
+          "kana": "アイル プリーアクジャパイ マイセルフ ウィズ ビルディング ア マッシブ アンダーグラウンド シティ",
+          "linking": [
+            "「I'll preoccupy」—縮約形 I'll /aɪl/、preoccupyの /p/ に続く（子音+子音で未開放）",
+            "「with building」—with の語末子音 /ð/ が building の子音 /b/ に続く（子音+子音で未開放）",
+            "「massive underground」—massive の語末子音 /v/ が underground の母音 /ʌ/ に連結 [mæsɪv ʌn]「マッシブ アン」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be preoccupying",
+      "ipa": "/wɪl bi ˌpriːˈɑk.jə.paɪ.ɪŋ/",
+      "examples": [
+        {
+          "en": "Next month, we'll be preoccupying ourselves with constructing the mega base.",
+          "ja": "来月、私たちは巨大なベースの建築に自分たちを占めさせ続けるだろう。",
+          "ipa": "/nɛkst ˈmʌnθ wil bi ˌpriːˈɑk.jə.paɪ.ɪŋ aʊɚˈsɛlvz wɪð kənˈstrʌk.tɪŋ ðə ˈmɛ.ɡə ˈbeɪs/",
+          "kana": "ネクスト マンス ウィル ビー プリーアクジャパイイング アワーセルブズ ウィズ コンストラクティング ザ メガ ベイス",
+          "linking": [
+            "「we'll be」—縮約形 we'll /wil/、be の /b/ に続く（子音+子音で未開放）",
+            "「with constructing」—with の語末子音 /ð/ が constructing の子音 /k/ に続く（未開放）",
+            "弱形「the」/ðə/ ザ"
+          ]
+        },
+        {
+          "en": "While you're mining, I'll be preoccupying myself with organizing our inventory system.",
+          "ja": "あなたが採掘している間、私は私たちのインベントリシステムを整理することに自分を占めさせるだろう。",
+          "ipa": "/waɪl jɔr ˈmaɪn.ɪŋ aɪl bi ˌpriːˈɑk.jə.paɪ.ɪŋ maɪˈsɛlf wɪð ˈɔr.ɡə.naɪz.ɪŋ ˈaʊɚ ˈɪn.vɛn.tə.ri ˈsɪs.təm/",
+          "kana": "ホワイル ユアー マイニング アイル ビー プリーアクジャパイイング マイセルフ ウィズ オーガナイジング アワー インベントリー システム",
+          "linking": [
+            "「I'll be」—縮約形 I'll /aɪl/、be の /b/ に続く（子音+子音で未開放）",
+            "「with organizing」—with の語末子音 /ð/ が organizing の母音 /ɔ/ に連結 [wɪð ɔr]「ウィズ オー」",
+            "「our inventory」—our の語末子音 /r/ が inventory の母音 /ɪ/ に連結 [ˈaʊɚ ɪn]「アワー イン」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have preoccupied",
+      "ipa": "/wɪl həv ˌpriːˈɑk.jə.paɪd/",
+      "examples": [
+        {
+          "en": "By the time you join, this redstone project will have preoccupied me for days.",
+          "ja": "あなたが参加する頃には、このレッドストーンプロジェクトは何日も私を占めているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ˈdʒɔɪn ðɪs ˈrɛd.stoʊn ˈprɑ.dʒɛkt wɪl həv ˌpriːˈɑk.jə.paɪd mi fɔr ˈdeɪz/",
+          "kana": "バイ ザ タイム ユー ジョイン ディス レッドストーン プロジェクト ウィル ハヴ プリーアクジャパイド ミー ファー デイズ",
+          "linking": [
+            "「will have」—will の語末子音 /l/ が have の子音 /h/ に続く（子音+子音で未開放）",
+            "「have preoccupied」—have は弱形 /əv/ に弱化、preoccupied の /p/ に続く（子音+子音で未開放）",
+            "弱形「the」/ðə/ ザ、「for」/fər/ ファー"
+          ]
+        },
+        {
+          "en": "The complicated dungeon exploration will have preoccupied the entire team by next week.",
+          "ja": "複雑なダンジョン探索は、来週までにチーム全体を占めているだろう。",
+          "ipa": "/ðə ˈkɑm.plɪ.keɪ.tɪd ˈdʌn.dʒən ˌɛk.splə.ˈreɪ.ʃən wɪl həv ˌpriːˈɑk.jə.paɪd ðə ɪnˈtaɪr ˈtim baɪ ˈnɛkst ˈwik/",
+          "kana": "ザ コンプリケイティド ダンジョン エクスプロレイション ウィル ハヴ プリーアクジャパイド ザ インタイアー ティーム バイ ネクスト ウィーク",
+          "linking": [
+            "「will have」—will の語末子音 /l/ が have の子音 /h/ に続く（子音+子音で未開放）",
+            "「have preoccupied」—have は弱形 /əv/ に弱化、preoccupied の /p/ に続く（子音+子音で未開放）",
+            "弱形「the」/ðə/ ザ（2回）"
+          ]
+        }
+      ]
     }
   ],
   "tags": [
