@@ -1,0 +1,273 @@
+{
+  "word": "worsen",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˈwɝsən/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "worsen(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】悪化する、より悪くなる（状態・状況が）",
+    "【動詞】…を悪くする、…を悪化させる",
+    "より困難になる、一層深刻になる"
+  ],
+  "examples": [
+    {
+      "en": "Don't add more mobs or your hunger will worsen quickly.",
+      "ja": "さらにモブを追加しないで。さもなければ君の飢餓はすぐに悪化するだろう。",
+      "ipa": "/ˈdoʊnt ˈæd mɔr moʊbz ɔr jɔr ˈhʌŋɡər wɪl ˈwɝsən ˈkwɪkli/",
+      "linking": [
+        "don't /doʊnt/ の語末 /t/ が add /æd/ の母音 /æ/ に連結 [doʊnæd ˈmɔr] ドウナド モア",
+        "more /mɔr/ の語末 /r/ が mobs /moʊbz/ の母音に先行するが、mobs 自体が /m/ で始まるため自然な連続 [mɔr moʊbz] モア モウブズ",
+        "hunger /ˈhʌŋɡər/ の語末 /r/ が will /wɪl/ の子音に先行、will の語末 /l/ は unreleased [ˈhʌŋɡər wɪl̚] ハンガー ウィル"
+      ],
+      "kana": "ドウナド モア モウブズ オア ユアー ハンガー ウィル ワースン クウィックリー"
+    },
+    {
+      "en": "Mining without proper armor will worsen your durability problem.",
+      "ja": "適切な防具がないまま採掘すると、耐久性の問題が悪化するだろう。",
+      "ipa": "/ˈmaɪnɪŋ wɪðˈaʊt ˈprɑpər ˈɑrmər wɪl ˈwɝsən jɔr ˌduːrəˈbɪlɪti ˈprɑbləm/",
+      "linking": [
+        "mining /ˈmaɪnɪŋ/ の語末鼻音 /ŋ/ が without /wɪðˈaʊt/ の子音に先行 [maɪníŋ wɪðˈaʊt] マイニング ウィザウト",
+        "without の語末 /t/ が proper /ˈprɑpər/ の母音 /ɑ/ に連結 [wɪðaʊd̚ ˈprɑpər] ウィザウト プロパー",
+        "worsen /ˈwɝsən/ の語末 /n/ が your /jɔr/ の子音に先行 [ˈwɝsən jɔr] ワースン ユアー"
+      ],
+      "kana": "マイニング ウィザウト プロパー アーマー ウィル ワースン ユアー デュアラビリティー プロブレム"
+    },
+    {
+      "en": "If this poison effect worsens, you must drink milk immediately.",
+      "ja": "このポイズン効果が悪化したら、すぐにミルクを飲まなければならない。",
+      "ipa": "/ɪf ðɪs ˈpɔɪzən əˈfɛkt ˈwɝsənz, ju mʌst ˈdrɪŋk mɪlk ɪˈmiːdʒətli/",
+      "linking": [
+        "if /ɪf/ の語末 /f/ が this /ðɪs/ の子音に先行、コンテキストでの連続 [ɪf ðɪs] イフ ディス",
+        "poison /ˈpɔɪzən/ の語末 /n/ が effect /əˈfɛkt/ の母音に連結 [ˈpɔɪzən əˈfɛkt] ポイズン エフェクト",
+        "worsens /ˈwɝsənz/ の /z/ が you /ju/ の子音に先行、you は弱形 /jə/ [ˈwɝsənz ju] ワースンズ ユー"
+      ],
+      "kana": "イフ ディス ポイズン エフェクト ワースンズ、ユー マスト ドリング ミルク イミーディットリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "worsen the situation",
+      "ja": "状況を悪化させる",
+      "example": "Adding creepers will only worsen the situation.",
+      "example_ja": "クリーパーを追加するだけで状況を悪化させるだけだ。",
+      "ipa": "/ˈædɪŋ ˈkripərz wɪl ˈoʊnli ˈwɝsən ðə ˌsɪtʃuˈeɪʃən/",
+      "linking": [
+        "creepers /ˈkripərz/ の語末 /z/ が will /wɪl/ の子音に先行 [ˈkripərz wɪl] クリーパーズ ウィル",
+        "the /ðə/ の弱形が situation /ˌsɪtʃuˈeɪʃən/ の母音に連結 [ðə ˌsɪtʃu] ザ シチュ"
+      ],
+      "kana": "アディング クリーパーズ ウィル オウンリー ワースン ザ シチュエーション"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "worsens",
+      "ipa": "/ˈwɝsənz/",
+      "examples": [
+        {
+          "en": "The lack of food only worsens your health and movement speed.",
+          "ja": "食べ物がないだけで、あなたの健康と移動速度を悪化させるだけです。",
+          "ipa": "/ðə ˈlæk əv ˈfud ˈoʊnli ˈwɝsənz jɔr ˈhɛlθ ənd ˈmuːvmənt spid/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "of は弱形 /əv/ アヴ、your は /jɔr/ ユアー",
+            "movement は /ˈmuːvmənt/ ムーヴメント、speed は /spid/ スピード"
+          ],
+          "kana": "ザ ラック アヴ フード オウンリー ワースンズ ユアー ヘルス アンド ムーヴメント スピード"
+        },
+        {
+          "en": "Mining without proper lighting worsens visibility dramatically in caves.",
+          "ja": "適切な明かりなしで採掘すると、洞窟の視認性が大幅に悪化します。",
+          "ipa": "/ˈmaɪnɪŋ wɪðˈaʊt ˈprɑpər ˈlaɪtɪŋ ˈwɝsənz ˌvɪzəˈbɪləti drəˈmætɪkli ɪn ˈkeɪvz/",
+          "linking": [
+            "Mining は /ˈmaɪnɪŋ/ マイニング、without は /wɪðˈaʊt/ ウィザウト",
+            "lighting は /ˈlaɪtɪŋ/ ライティング、visibility は /ˌvɪzəˈbɪləti/ ビジビリティー",
+            "in は /ɪn/ イン、caves は /ˈkeɪvz/ ケーブズ"
+          ],
+          "kana": "マイニング ウィザウト プロパー ライティング ワースンズ ビジビリティー ドラマティックリー イン ケーブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "worsened",
+      "ipa": "/ˈwɝsənd/",
+      "examples": [
+        {
+          "en": "The situation worsened when we ran out of food and supplies.",
+          "ja": "食べ物と物資が尽きたとき、状況が悪化しました。",
+          "ipa": "/ðə ˌsɪtʃuˈeɪʃən ˈwɝsənd wɛn wi ræn aʊt əv ˈfud ənd səˈplaɪz/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "we は弱形 /wi/ ウィー、ran は /ræn/ ラン",
+            "of は弱形 /əv/ アヴ、and は弱形 /ənd/ アン"
+          ],
+          "kana": "ザ シチュエーション ワースンド ウェン ウィ ラン アウト アヴ フード アン サプライズ"
+        },
+        {
+          "en": "Our armor durability worsened dramatically after the creeper explosion.",
+          "ja": "クリーパーの爆発の後、私たちの防具の耐久性が急激に悪化しました。",
+          "ipa": "/aʊɚ ˈɑrmər ˌduːrəˈbɪlədi ˈwɝsənd drəˈmætɪkli ˈæftər ðə ˈkripər ɪkˈsploʊʒən/",
+          "linking": [
+            "Our は /aʊɚ/ アウアー、armor は /ˈɑrmər/ アーマー",
+            "after は /ˈæftər/ アフター、creeper は /ˈkripər/ クリーパー",
+            "explosion は /ɪkˈsploʊʒən/ エクスプロウジャン"
+          ],
+          "kana": "アウアー アーマー デュアラビリティー ワースンド ドラマティックリー アフター ザ クリーパー エクスプロウジャン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "worsened",
+      "ipa": "/ˈwɝsənd/",
+      "examples": [
+        {
+          "en": "The worsened durability on our tools forced us to return to base immediately.",
+          "ja": "私たちのツールの悪化した耐久性により、すぐにベースに戻らざるを得ません。",
+          "ipa": "/ðə ˈwɝsənd ˌduːrəˈbɪlədi ɑn aʊɚ tulz ˈfɔrst əs tu rɪˈtɝn tu ˈbeɪs ɪˈmiːdʒətli/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "our は弱化 /aʊɚ/ アウアー、to は弱形 /tə/ タ",
+            "return は /rɪˈtɝn/ リターン、base は /ˈbeɪs/ ベイス"
+          ],
+          "kana": "ザ ワースンド デュアラビリティー ハン アウアー ツールズ フォースト アス タ リターン タ ベイス イミーディットリー"
+        },
+        {
+          "en": "Facing the worsened conditions, we decided to retreat to the shelter.",
+          "ja": "悪化した状況に直面して、私たちはシェルターに撤退することにしました。",
+          "ipa": "/ˈfeɪsɪŋ ðə ˈwɝsənd kənˈdɪʃənz wi dɪˈsaɪdəd tu rɪˈtrit tu ðə ˈʃɛltər/",
+          "linking": [
+            "Facing は /ˈfeɪsɪŋ/ フェイシング、the は弱形 /ðə/ ザ",
+            "we は弱形 /wi/ ウィー、decided は /dɪˈsaɪdəd/ ディサイディッド",
+            "to は弱形 /tə/ タ（2回）、shelter は /ˈʃɛltər/ シェルター"
+          ],
+          "kana": "フェイシング ザ ワースンド コンディションズ ウィー ディサイディッド タ リトリート タ ザ シェルター"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "worsening",
+      "ipa": "/ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The worsening hunger made it impossible to focus on building anything.",
+          "ja": "悪化し続ける飢えにより、何かを構築することに焦点を当てることが不可能になりました。",
+          "ipa": "/ðə ˈwɝsənɪŋ ˈhʌŋɡər meɪd ɪt ɪmˈpɑsəbəl tu ˈfoʊkəs ɑn ˈbɪldɪŋ ˈɛniθɪŋ/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "to は弱形 /tə/ タ、focus は /ˈfoʊkəs/ フォーカス",
+            "anything は /ˈɛniθɪŋ/ エニシング"
+          ],
+          "kana": "ザ ワースニング ハンガー メイド イット インポッサブル タ フォーカス オン ビルディング エニシング"
+        },
+        {
+          "en": "The worsening conditions in the deep caves forced everyone to abandon the mission.",
+          "ja": "深い洞窟の悪化し続ける状態により、全員がミッションを放棄せざるを得ません。",
+          "ipa": "/ðə ˈwɝsənɪŋ kənˈdɪʃənz ɪn ðə dip ˈkeɪvz ˈfɔrst ˈɛvriwən tu əˈbændən ðə ˈmɪʃən/",
+          "linking": [
+            "The は弱形 /ðə/ ザ（2回）",
+            "conditions は /kənˈdɪʃənz/ コンディションズ、caves は /ˈkeɪvz/ ケーブズ",
+            "everyone は /ˈɛvriwən/ エブリワン、abandon は /əˈbændən/ アバンドン"
+          ],
+          "kana": "ザ ワースニング コンディションズ イン ザ ディープ ケーブズ フォースト エブリワン タ アバンドン ザ ミッション"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is worsening",
+      "ipa": "/ɪz ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The hunger effect is worsening, and I need to eat something immediately!",
+          "ja": "飢餓エフェクトが悪化しており、すぐに何か食べる必要があります！",
+          "ipa": "/ðə ˈhʌŋɡər əˈfɛkt ɪz ˈwɝsənɪŋ ənd aɪ nid tə iːt ˈsʌmθɪŋ ɪˈmiːdʒətli/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、effect の /t/ が is に連結 [əˈfɛkt ɪz ˈwɝsənɪŋ] エフェクト イズ ワースニング",
+            "worsening and - 語末の /ŋ/ が and の弱形 /ənd/ に連結 [ˈwɝsənɪŋ ənd] ワースニング アンド",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "ザ ハンガー エフェクト イズ ワースニング アンド アイ ニード タ イート サムシング イミーディットリー"
+        },
+        {
+          "en": "Our armor durability is worsening with each creeper explosion.",
+          "ja": "私たちの防具の耐久性はクリーパーの爆発のたびに悪化しています。",
+          "ipa": "/ˈaʊɚ ˈɑrmər ˌduːrəˈbɪlədi ɪz ˈwɝsənɪŋ wɪð iːtʃ ˈkripər ɪkˈsploʊʒən/",
+          "linking": [
+            "is は助動詞で弱形 /ɪz/ [ɪz ˈwɝsənɪŋ] イズ ワースニング",
+            "worsening with - 語末の /ŋ/ が with の弱形 /wɪð/ に連結、with の /ð/ が each の母音 /iː/ に連結 [ˈwɝsənɪŋ wɪð iːtʃ] ワースニング ウィズ イーチ"
+          ],
+          "kana": "アウアー アーマー デュアラビリティー イズ ワースニング ウィズ イーチ クリーパー イクスプロウジャン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was worsening",
+      "ipa": "/wəz ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The situation was worsening while we were trying to escape the lava.",
+          "ja": "私たちが溶岩から脱出しようとしている間、状況は悪化していました。",
+          "ipa": "/ðə ˌsɪtʃuˈeɪʃən wəz ˈwɝsənɪŋ waɪl wi wɚ ˈtraɪɪŋ tə ɪˈskeɪp ðə ˈlɑvə/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、situation の /n/ が was の弱形 /wəz/ に先行 [ˌsɪtʃuˈeɪʃən wəz ˈwɝsənɪŋ] シチュエーション ワズ ワースニング",
+            "we は弱形 /wi/、were は /wɚ/ ウェア、trying の /ŋ/ が to に連結 [wɚ ˈtraɪɪŋ tə] ワー トライング タ",
+            "the は定冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ シチュエーション ワズ ワースニング ワイル ウィー ワー トライング タ イスケイプ ザ ラバ"
+        },
+        {
+          "en": "Our food supply was worsening throughout the mining expedition.",
+          "ja": "私たちの食料供給は鉱業遠征全体を通じて悪化していました。",
+          "ipa": "/ˈaʊɚ ˈfud səˈplaɪ wəz ˈwɝsənɪŋ θruːˈaʊt ðə ˈmaɪnɪŋ ˌɛkspəˈdɪʃən/",
+          "linking": [
+            "supply の /i/ が was の弱形 /wəz/ に先行 [səˈplaɪ wəz ˈwɝsənɪŋ] サプライ ワズ ワースニング",
+            "the は定冠詞で弱形 /ðə/"
+          ],
+          "kana": "アウアー フード サプライ ワズ ワースニング スルーアウト ザ マイニング エクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been worsening",
+      "ipa": "/həd bɪn ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The lag had been worsening for hours before the server finally crashed.",
+          "ja": "サーバーが最終的にクラッシュする前に、ラグは何時間も悪化していました。",
+          "ipa": "/ðə læɡ həd bɪn ˈwɝsənɪŋ fɔr ˈaʊərz bɪˈfɔr ðə ˈsɝvɚ ˈfaɪnəli kræʃt/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、lag の /ɡ/ が had の弱形 /həd/ に連結 [læɡ həd bɪn ˈwɝsənɪŋ] ラッグ ハド ビン ワースニング",
+            "been は弱形 /bɪn/、worsening の /ɪ/ に連結 [bɪn ˈwɝsənɪŋ] ビン ワースニング",
+            "the は定冠詞で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ザ ラッグ ハド ビン ワースニング フォア アワーズ ビフォア ザ サーバー ファイナリー クラッシュド"
+        },
+        {
+          "en": "The cave darkness had been worsening our morale until we found diamonds.",
+          "ja": "洞窟の暗さは私たちの士気を悪化させ続けていました、ダイヤモンドを見つけるまで。",
+          "ipa": "/ðə ˈkeɪv ˈdɑrknəs həd bɪn ˈwɝsənɪŋ ˈaʊɚ ˌmoʊˈræl ənˈtɪl wi faʊnd ˈdaɪəmɑndz/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、darkness の /s/ が had の弱形 /həd/ に連結 [ˈdɑrknəs həd bɪn ˈwɝsənɪŋ] ダークネス ハド ビン ワースニング",
+            "our は /ˈaʊɚ/ アウアー、until は /ənˈtɪl/ アンティル",
+            "we は弱形 /wi/"
+          ],
+          "kana": "ザ ケイヴ ダークネス ハド ビン ワースニング アウアー モウラル アンティル ウィー ファウンド ダイアモンズ"
+        }
+      ]
+    }
+  ]
+}
