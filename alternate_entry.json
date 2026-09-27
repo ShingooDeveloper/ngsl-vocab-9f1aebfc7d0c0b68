@@ -320,6 +320,197 @@
           "kana": "ザ シグナル ハド ビン オールターネイティング アンプリディクタブリー アンティル ウィ フィクスト ザ リピーター カンフィギュレーション"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has alternated",
+      "ipa": "/həz ˈɔːltɚneɪtɪd/",
+      "examples": [
+        {
+          "en": "The day-night cycle has alternated smoothly since we set up the server.",
+          "ja": "サーバーをセットアップしてから、昼夜のサイクルがスムーズに交互に切り替わっています。",
+          "ipa": "/ðə ˈdeɪ naɪt ˈsaɪkəl həz ˈɔːltɚneɪtɪd ˈsmuðli sɪns wiː sɛt ʌp ðə ˈsɚvɚ/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化",
+            "day night → day の語末 /t/ が night の /n/ に続く（未開放）",
+            "has alternated → has は弱形 /həz/、alternated の /ɔː/ に連結 [ˈɔːltɚneɪtɪd]"
+          ],
+          "kana": "ザ デイ ナイト サイクル ハズ オールターネイティド スムーズリー シンス ウィ セット アップ ザ サーバー"
+        },
+        {
+          "en": "We have alternated between different building styles to create variety in the base.",
+          "ja": "ベース内の多様性を生み出すために、異なる建築スタイルを交互に使ってきました。",
+          "ipa": "/wiː hæv ˈɔːltɚneɪtɪd bɪˈtwiːn ˈdɪfərənt ˈbɪldɪŋ ˈstaɪlz tu kriˈeɪt vəˈraɪəti ɪn ðə ˈbeɪs/",
+          "linking": [
+            "have alternated → have は弱形 /həv/、alternated に連結",
+            "to create → to は弱形 /tə/、create の /k/ に続く（子音+子音）",
+            "in the → in の語末 /n/ が the の弱形 /ðə/ に連結"
+          ],
+          "kana": "ウィ ハヴ オールターネイティド ビトウィーン ディファレント ビルディング スタイルズ タ クリエイト ヴァライエティ イン ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had alternated",
+      "ipa": "/həd ˈɔːltɚneɪtɪd/",
+      "examples": [
+        {
+          "en": "Before we discovered the secret passage, the redstone signal had alternated for months.",
+          "ja": "秘密の通路を発見する前に、レッドストーン信号は何か月も交互に切り替わっていました。",
+          "ipa": "/bɪˈfɔr wiː dɪsˈkʌvərd ðə ˈsikrət ˈpæsɪdʒ ðə ˈrɛdˌstoʊn ˈsɪɡnəl həd ˈɔːltɚneɪtɪd fər ˈmʌnθz/",
+          "linking": [
+            "Before we → Before の語末 /r/ が we の /w/ に連結（r-linking） [bɪˈfɔɚ wiː]",
+            "had alternated → had は弱形 /həd/、alternated に連結",
+            "for months → for は弱形 /fər/、months の /m/ に続く"
+          ],
+          "kana": "ビフォア ウィ ディスカヴァード ザ シークリット パセッジ ザ レッドストーン シグナル ハド オールターネイティド ファー マンスズ"
+        },
+        {
+          "en": "They had alternated shifts all week until the new player joined our team.",
+          "ja": "新しいプレイヤーが私たちのチームに参加するまで、彼らは一週間シフトを交互に行っていました。",
+          "ipa": "/ðeɪ həd ˈɔːltɚneɪtɪd ʃɪfts ɔl wik ənˈtɪl ðə ˈnu ˈpleɪɚ dʒɔɪnd ˈaʊɚ ˈtim/",
+          "linking": [
+            "had alternated → had は弱形 /həd/、alternated に連結",
+            "shifts all → shifts の語末 /s/ が all の母音 /ɔ/ に連結 [ʃɪfts ɔl]",
+            "until the → until の語末 /l/ が the の /ð/ に続く（子音+子音）"
+          ],
+          "kana": "ザイ ハド オールターネイティド シフツ オール ウィーク アンティル ザ ニュー プレイアー ジョインド アワー ティーム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been alternating",
+      "ipa": "/həz bɪn ˈɔːltɚneɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone door has been alternating between open and closed for the past hour.",
+          "ja": "過去1時間、レッドストーンドアがオープンとクローズの間で交互に切り替わり続けています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈdɔr həz bɪn ˈɔːltɚneɪtɪŋ bɪˈtwiːn ˈoʊpən ənd ˈkloʊzd fər ðə ˈpæst ˈaʊɚ/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化（最初と最後で2回）",
+            "door has → door の語末 /r/ が has の /h/ に連結（r-linking） [ˈdɔr həz]",
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/、alternating に連結"
+          ],
+          "kana": "ザ レッドストーン ドア ハズ ビン オールターネイティング ビトウィーン オウペン アン クローズド ファー ザ パースト アワー"
+        },
+        {
+          "en": "We have been alternating between mining and building since this morning to maximize efficiency.",
+          "ja": "効率を最大化するため、今朝から採掘と建築を交互に行い続けています。",
+          "ipa": "/wiː hæv bɪn ˈɔːltɚneɪtɪŋ bɪˈtwiːn ˈmaɪnɪŋ ənd ˈbɪldɪŋ sɪns ðɪs ˈmɔrnɪŋ tu ˈmæksəˌmaɪz ɪˈfɪʃənsi/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/",
+            "building since → building の語末 /ŋ/ が since の /s/ に続く（子音+子音）",
+            "to maximize → to は弱形 /tə/、maximize の /m/ に続く"
+          ],
+          "kana": "ウィ ハヴ ビン オールターネイティング ビトウィーン マイニング アン ビルディング シンス ジス モーニング トゥ マクシマイズ イフィシェンシー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will alternate",
+      "ipa": "/wɪl ˈɔːltɚneɪt/",
+      "examples": [
+        {
+          "en": "The redstone signal will alternate between on and off every second during the test.",
+          "ja": "テスト中、レッドストーン信号は毎秒オンとオフの間で交互に切り替わるでしょう。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈsɪɡnəl wɪl ˈɔːltɚneɪt bɪˈtwiːn ˈɔn ənd ˈɔf ˈɛvri ˈsɛkənd ˈdʊrɪŋ ðə ˈtɛst/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "signal will → signal の語末 /l/ が will の /w/ に続く（子音+子音）[ˈsɪɡnəl wɪl] シグナル ウィル",
+            "will alternate → will の /l/ が alternate の /ɔː/ に連結 [wɪl ˈɔːltɚneɪt] ウィル オールターネイト",
+            "and は弱形 /ən/、during the → during の語末 /ŋ/ が the の弱形 /ðə/ に続く"
+          ],
+          "kana": "ザ レッドストーン シグナル ウィル オールターネイト ビトウィーン オン アン オフ エブリー セカンド ジューリング ザ テスト"
+        },
+        {
+          "en": "Tomorrow we will alternate between mining diamonds and building defenses for our base.",
+          "ja": "明日、私たちはベース用のダイヤモンド採掘と防御の建設を交互に行うでしょう。",
+          "ipa": "/təˈmɑroʊ wiː wɪl ˈɔːltɚneɪt bɪˈtwiːn ˈmaɪnɪŋ ˈdaɪmənds ənd ˈbɪldɪŋ dɪˈfɛnsɪz fɔr ˈaʊɚ ˈbeɪs/",
+          "linking": [
+            "Tomorrow we → Tomorrow の語末 /oʊ/ が we の /w/ に続く（母音+子音）",
+            "we will → we は /wi/、will に連結（r-linking ではなく自然な流れ）",
+            "will alternate → will の /l/ が alternate の /ɔː/ に連結 [wɪl ˈɔːltɚneɪt] ウィル オールターネイト",
+            "between mining → between の語末 /n/ が mining の /m/ に続く（子音+子音）[bɪˈtwiːn ˈmaɪnɪŋ] ビトウィーン マイニング",
+            "mining diamonds → mining の語末 /ŋ/ が diamonds の /d/ に続く、and は弱形 /ən/"
+          ],
+          "kana": "トゥモロー ウィ ウィル オールターネイト ビトウィーン マイニング ダイモンズ アン ビルディング ディフェンシズ ファー アワー ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be alternating",
+      "ipa": "/wɪl bi ˈɔːltɚneɪtɪŋ/",
+      "examples": [
+        {
+          "en": "During the livestream, the redstone mechanism will be alternating the powered rails for the minecart.",
+          "ja": "ライブストリーム中、レッドストーンメカニズムはミネカートのパワーレールを交互に切り替え続けるでしょう。",
+          "ipa": "/ˈdʊrɪŋ ðə ˈlaɪvˌstrim ðə ˈrɛdˌstoʊn ˈmɛkənɪzəm wɪl bi ˈɔːltɚneɪtɪŋ ðə ˈpaʊdərd ˈreɪlz fɔr ðə ˈmaɪnˌkɑrt/",
+          "linking": [
+            "During the → During の語末 /ŋ/ が the の弱形 /ðə/ に続く（子音+子音）[ˈdʊrɪŋ ðə] ジューリング ザ",
+            "the redstone → the は弱形 /ðə/ [ðə ˈrɛdˌstoʊn] ザ レッドストーン",
+            "mechanism will → mechanism の語末 /m/ が will の /w/ に続く（子音+子音）[ˈmɛkənɪzəm wɪl] メカニズム ウィル",
+            "will be alternating → will の /l/ が be の /b/ に連結、be も弱形で alternating に連結 [wɪl bi ˈɔːltɚneɪtɪŋ] ウィル ビー オールターネイティング",
+            "the powered → the は弱形 /ðə/ [ðə ˈpaʊdərd] ザ パウダード",
+            "for the → for は弱形 /fɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "ジューリング ザ ライブストリーム ザ レッドストーン メカニズム ウィル ビー オールターネイティング ザ パウダード レイルズ ファー ザ マインカート"
+        },
+        {
+          "en": "The water and lava will be alternating flows to create an infinite block generator.",
+          "ja": "水と溶岩が無限ブロックジェネレーターを作成するために、交互に流れ続けるでしょう。",
+          "ipa": "/ðə ˈwɔtɚ ənd ˈlɑvə wɪl bi ˈɔːltɚneɪtɪŋ ˈfloʊz tu kriˈeɪt ən ɪnˈfɪnət ˈblɑk ˈdʒɛnəreɪtɚ/",
+          "linking": [
+            "the は弱形 /ðə/（3回）",
+            "water and → water の語末 /r/ が and の弱形 /ən/ に連結（r-linking） [ˈwɔtɚ ən] ウォーター アン",
+            "lava will → lava の語末 /ə/ が will の /w/ に続く（母音+子音）[ˈlɑvə wɪl] ラーヴァ ウィル",
+            "will be alternating → will の /l/ が be の /b/ に連結、be も弱形で alternating に連結 [wɪl bi ˈɔːltɚneɪtɪŋ] ウィル ビー オールターネイティング",
+            "to create → to は弱形 /tə/、create の /k/ に続く（子音+子音）[tə kriˈeɪt] タ クリエイト"
+          ],
+          "kana": "ザ ウォーター アン ラーヴァ ウィル ビー オールターネイティング フローズ タ クリエイト アン インフィニット ブロック ジェネレイター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have alternated",
+      "ipa": "/wɪl həv ˈɔːltɚneɪtɪd/",
+      "examples": [
+        {
+          "en": "By the end of this tournament, every player will have alternated through the boss fight at least once.",
+          "ja": "このトーナメントの終わりまでに、すべてのプレイヤーがボス戦を少なくとも1回は交代で行っているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs ˈtɔːrnəmənt ˈɛvri ˈpleɪɚ wɪl həv ˈɔːltɚneɪtɪd θru ðə ˈbɔs ˈfaɪt æt ˈlist ˈwʌns/",
+          "linking": [
+            "By the → By の /b/ が the の弱形 /ðə/ に続く（子音+子音）[baɪ ðə] バイ ザ",
+            "of this → of は弱形 /əv/、/v/ が this の /ð/ に未開放で続く [əv ðɪs] アヴ ディス",
+            "will have → will の弱形 /wəl/、have も弱形 /əv/、連結 [wəl əv] ウル ハヴ",
+            "have alternated → have の弱形 /əv/、/v/ が alternated の /ɔː/ に連結 [əv ˈɔːltɚneɪtɪd] ハヴ オールターネイティド",
+            "through the → through の /θ/ が the の弱形 /ðə/ に続く（子音+子音）[θru ðə] スルー ザ"
+          ],
+          "kana": "バイ ザ エンド アヴ ディス トーナメント エブリー プレイアー ウル ハヴ オールターネイティド スルー ザ ボス ファイト アット リースト ワンス"
+        },
+        {
+          "en": "After this season ends, the teams will have alternated leadership positions twice.",
+          "ja": "このシーズンが終わった後、チームはリーダーシップポジションを2回交代しているでしょう。",
+          "ipa": "/ˈæftɚ ðɪs ˈsizən ˈɛndz ðə ˈtimz wɪl həv ˈɔːltɚneɪtɪd ˈlɛdɚˌʃɪp pəˈzɪʃənz ˈtwaɪs/",
+          "linking": [
+            "After this → After の語末 /r/ が this の /ð/ に続く（子音+子音）[ˈæftɚ ðɪs] アフター ディス",
+            "ends the → ends の語末 /z/ が the の弱形 /ðə/ に連結 [ˈɛndz ðə] エンズ ザ",
+            "will have → will の弱形 /wəl/、have も弱形 /əv/、連結 [wəl əv] ウル ハヴ",
+            "have alternated → have の弱形 /əv/、/v/ が alternated の /ɔː/ に連結、leadership の語末 /p/ が positions の /p/ に続く（子音+子音） [əv ˈɔːltɚneɪtɪd ˈlɛdɚʃɪp pəˈzɪʃənz] ハヴ オールターネイティド レダーシップ ポジションズ"
+          ],
+          "kana": "アフター ディス シーズン エンズ ザ ティームズ ウル ハヴ オールターネイティド レダーシップ ポジションズ トゥワイス"
+        }
+      ]
     }
   ]
 }
