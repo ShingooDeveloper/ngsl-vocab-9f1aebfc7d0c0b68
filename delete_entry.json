@@ -287,6 +287,101 @@
           "kana": "ヒー ハド ビン ディリーティング コラプティッド ファイルズ ファー アワーズ ホェン ザ システム フローズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has deleted",
+      "ipa": "/həz dɪˈliːtəd/",
+      "examples": [
+        {
+          "en": "I have deleted all corrupted world files from the backup storage.",
+          "ja": "バックアップストレージから破損したワールドファイルをすべて削除しました。",
+          "ipa": "/aɪ həv dɪˈliːtəd ɔl kəˈrʌptəd ˈwɜrld ˈfaɪlz frəm ðə ˈbækˌʌp ˈstɔrɪdʒ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "deleted の語末 /d/ が all の初頭母音 /ɔ/ に連結 [dɪˈliːtə ˈdɔl] ディリータ ドール",
+            "from は機能語で弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ ディリータ ドール コラプティッド ワールド ファイルズ フラム ザ バックアップ ストーリッジ"
+        },
+        {
+          "en": "The admin has deleted every griefed structure this morning to protect the server.",
+          "ja": "管理者は今朝、サーバーを保護するためにグリーフされたすべての構造物を削除しました。",
+          "ipa": "/ðə ˈædmɪn həz dɪˈliːtəd ˈɛvəri ˈɡrifəd ˈstrʌktʃər ðɪs ˈmɔrnɪŋ tu prəˈtɛkt ðə ˈsɜrvər/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "has は弱形 /həz/ ハズ、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "to は機能語で弱形 /tə/ タ、protect の初頭子音 /p/ に未開放で続く",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ アドミン ハズ ディリータ エヴェリ グリフド ストラクチャー ディス モーニング タ プロテクト ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had deleted",
+      "ipa": "/həd dɪˈliːtəd/",
+      "examples": [
+        {
+          "en": "The team had deleted all broken redstone machines before the new members joined the server.",
+          "ja": "新しいメンバーがサーバーに参加する前に、チームはすべての壊れたレッドストーン機械を削除していました。",
+          "ipa": "/ðə tim həd dɪˈliːtəd ɔl ˈbroʊkən ˈrɛdˌstoʊn məˈʃinz bɪˈfɔr ðə ˈnjuː ˈmɛmbɚz dʒɔɪnd ðə ˈsɜrvər/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "had は弱形 /həd/ ハド、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "all の語末 /l/ が broken の初頭子音 /b/ に先行（子音+子音、未開放）",
+            "before は /bɪˈfɔr/、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ティム ハド ディリータ ドール ブロウケン レッドストーン マシーンズ ビフォア ザ ニュー メンバーズ ジョインド ザ サーバー"
+        },
+        {
+          "en": "She had deleted her old survival world by the time she started a new creative project.",
+          "ja": "彼女は新しいクリエイティブプロジェクトを開始するまでに、古いサバイバルワールドを削除していました。",
+          "ipa": "/ʃi həd dɪˈliːtəd hɚ oʊld sɝˈvaɪvəl ˈwɜrld baɪ ðə taɪm ʃi ˈstɑrtəd ə ˈnjuː kriːeɪˈtɪv ˈprɑdʒɛkt/",
+          "linking": [
+            "had は弱形 /həd/ ハド、deleted の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "old の語末 /d/ が survival の初頭子音 /s/ に先行（子音+子音、未開放）",
+            "by の語末 /aɪ/ が the の初頭子音 /ð/ に先行（子音+子音）、the は弱形 /ðə/ ザ",
+            "a は弱形 /ə/ ア"
+          ],
+          "kana": "シー ハド ディリータ ハー オールド サーヴァイヴァル ワールド バイ ザ タイム シー スターティッド ア ニュー クリエイティヴ プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been deleting",
+      "ipa": "/həz bɪn dɪˈliːtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been deleting my old mod installations to free up storage this week.",
+          "ja": "今週、ストレージを解放するために古いモッドインストールを削除しています。",
+          "ipa": "/aɪ həv bɪn dɪˈliːtɪŋ maɪ oʊld mɑd ˌɪnstəˈleɪʃənz tu ˈfri ʌp ˈstɔrɪdʒ ðɪs wik/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ、been の初頭子音 /b/ に子音+子音で続く（未開放）",
+            "been は弱形 /bɪn/ ビン、deleting の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "old の語末 /d/ が mod の初頭子音 /m/ に先行（子音+子音、未開放）",
+            "to は機能語で弱形 /tə/ タ"
+          ],
+          "kana": "アイ ハヴ ビン ディリーティング マイ オールド モッド インスタレイションズ タ フリー アップ ストーリッジ ディス ウィーク"
+        },
+        {
+          "en": "The backup system has been deleting old snapshots automatically for maintenance.",
+          "ja": "バックアップシステムはメンテナンスのために古いスナップショットを自動的に削除しています。",
+          "ipa": "/ðə ˈbækˌʌp ˈsɪstəm həz bɪn dɪˈliːtɪŋ oʊld ˈsnæpˌʃɑts ˈɔtəˌmætɪkli fɚ ˈmeɪntənəns/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "has は弱形 /həz/ ハズ、been の初頭子音 /b/ に子音+子音で続く（未開放）",
+            "been は弱形 /bɪn/ ビン、deleting の初頭子音 /d/ に子音+子音で続く（未開放）",
+            "for は機能語で弱形 /fɚ/ ファー"
+          ],
+          "kana": "ザ バックアップ システム ハズ ビン ディリーティング オールド スナップショッツ オートマティカリー ファー メインテナンス"
+        }
+      ]
     }
   ]
 }
