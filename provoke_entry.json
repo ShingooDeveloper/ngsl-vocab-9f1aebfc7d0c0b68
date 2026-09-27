@@ -213,6 +213,99 @@
           "kana": "ウィー ハヴ プロボクト ザ ウォーデン ファー トゥー メニー タイムズ ディス ウィーク"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has provoked",
+      "ipa": "/həz prəˈvoʊkt/",
+      "examples": [
+        {
+          "en": "I have provoked the warden too many times in the deep dark!",
+          "ja": "深いダークで私はウォーデンを何度も怒らせてしまいました！",
+          "ipa": "[aɪ həv prəˈvoʊkt ðə ˈwɔɹdən tu ˈmeɪni ˈtaɪmz ɪn ðə ˈdip dɑɹk]",
+          "linking": [
+            "have provoked では、助動詞 have は弱形 /həv/ ハヴ、語末 /v/ が子音 /p/ に続く（未開放）[həv̚ prəˈvoʊkt]",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "provoked the では、provoked の語末 /t/ が the の弱形 /ðə/ に連結 [prəˈvoʊkt ə] プロボクタ",
+            "in the では、in は /ɪn/ イン、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ プロボクタ ザ ウォーデン トゥー メニー タイムズ イン ザ ディープ ダーク"
+        },
+        {
+          "en": "She has provoked the wither skeleton so many times this session!",
+          "ja": "彼女はこのセッションでウィザースケルトンを何度も怒らせてしまいました！",
+          "ipa": "[ʃi həz prəˈvoʊkt ðə ˈwɪðɚ ˈskɛlətn soʊ ˈmeɪni ˈtaɪmz ðɪs ˈsɛʃən]",
+          "linking": [
+            "has provoked では、助動詞 has は弱形 /həz/ ハズ、語末 /z/ が子音 /p/ に続く（未開放）[həz̚ prəˈvoʊkt]",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "provoked the では、provoked の語末 /t/ が the の弱形 /ðə/ に連結 [prəˈvoʊkt ə] プロボクタ",
+            "this は /ðɪs/ ディス"
+          ],
+          "kana": "シー ハズ プロボクタ ザ ウィザー スケルトン ソー メニー タイムズ ディス セッション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had provoked",
+      "ipa": "/həd prəˈvoʊkt/",
+      "examples": [
+        {
+          "en": "Before we entered the fortress, the team had provoked all the ghasts.",
+          "ja": "私たちが要塞に入る前に、チームは全てのガストを怒らせていました。",
+          "ipa": "[bɪˈfoɹ wi ˈɛntɚd ðə ˈfɔɹtɚs | ðə tim həd prəˈvoʊkt ɔl ðə ɡæsts]",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "had provoked では、had は弱形 /həd/ ハド、語末 /d/ が母音 /ɔ/ に連結 [həd ɔl]",
+            "provoked all では、provoked の語末 /t/ が all の初頭 /ɔ/ に連結 [prəˈvoʊkt ɔl] プロボクト オール"
+          ],
+          "kana": "ビフォア ウィ エンタード ザ フォーテス、ザ ティーム ハド プロボクト オール ザ ガース"
+        },
+        {
+          "en": "By the time we arrived, they had provoked the withers in the nether.",
+          "ja": "私たちが到着した時には、彼らはネザーのウィザーを怒らせていました。",
+          "ipa": "[baɪ ðə ˈtaɪm wi əˈraɪvd | ðeɪ həd prəˈvoʊkt ðə ˈwɪðɚz ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ、複数回",
+            "had provoked では、had は弱形 /həd/ ハド、語末 /d/ が子音 /ð/ に続く（未開放）[həd̚ prəˈvoʊkt]",
+            "provoked the では、provoked の語末 /t/ が the の弱形 /ðə/ に連結 [prəˈvoʊkt ə] プロボクタ"
+          ],
+          "kana": "バイ ザ タイム ウィ アライブド、ザイ ハド プロボクタ ザ ウィザーズ イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been provoking",
+      "ipa": "/həz bɪn ˈprəˈvoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The creative player has been provoking mobs for the experience farm all morning.",
+          "ja": "そのクリエイティブプレイヤーは朝ずっと経験値ファーム用にモブを怒らせてきた。",
+          "ipa": "[ðə kriˈeɪtɪv ˈpleɪɚ həz bɪn ˈprəˈvoʊkɪŋ ˈmɑbz fɔɹ ðɪ ɪkˈspɪɹɪəns fɑɹm ɔl ˈmɔɹnɪŋ]",
+          "linking": [
+            "the は子音前で弱形 /ðə/ ザ",
+            "has been では、has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン、been の語末 /n/ が子音 /p/ に続く（未開放）[bɪn̚ ˈprəˈvoʊkɪŋ]",
+            "mobs for では、mobs の語末 /z/ が for の初頭 /f/ に続く（子音+子音、未開放）[ˈmɑbz̚]",
+            "morning は /ˈmɔɹnɪŋ/ モーニング"
+          ],
+          "kana": "ザ クリエイティブ プレイヤー ハズ ビン プロボーキング モブズ フォア ザ イクスピアリエンス ファーム オール モーニング"
+        },
+        {
+          "en": "I have been provoking the warden since we entered the deep dark tunnel!",
+          "ja": "深いダークトンネルに入った時からウォーデンを怒らせ続けてしまいました！",
+          "ipa": "[aɪ həv bɪn ˈprəˈvoʊkɪŋ ðə ˈwɔɹdən sɪns wi ˈɛntɚd ðə ˈdip dɑɹk ˈtʌnəl]",
+          "linking": [
+            "have been では、have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン、been の語末 /n/ が子音 /p/ に続く（未開放）[bɪn̚ ˈprəˈvoʊkɪŋ]",
+            "the は定冠詞で弱形 /ðə/ ザ、複数回",
+            "warden since では、warden の語末 /n/ が since の初頭 /s/ に続く（子音+子音、未開放）[ˈwɔɹdən̚ sɪns]"
+          ],
+          "kana": "アイ ハヴ ビン プロボーキング ザ ウォーデン シンス ウィ エンタード ザ ディープ ダーク タンネル"
+        }
+      ]
     }
   ],
   "tags": [
