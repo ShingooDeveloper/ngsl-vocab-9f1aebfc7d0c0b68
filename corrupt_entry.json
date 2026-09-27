@@ -338,6 +338,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has corrupted",
+      "ipa": "/həz kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "Someone has corrupted the admin panel with a malicious plugin.",
+          "ja": "【例文】誰かが悪質なプラグインで管理者パネルを破損させました。サーバー管理者による不正や外部からの攻撃の痕跡。",
+          "ipa": "/ˈsʌmˌwʌn həz kərˈʌptɪd ðə ˈædmɪn ˈpænəl wɪð ə məˈlɪʃəs ˈplʌɡɪn/",
+          "kana": "サムワン ハズ コラプティッド ザ アドミン パネル ウィザ ア マリシャス プラギン",
+          "linking": [
+            "「has corrupted」: has は弱形 [həz]「ハズ」、corrupted の /k/ に連続（子音+子音）で未開放 [həz̚ kərˈʌptɪd]「ハズ コラプティッド」",
+            "「the admin」: the は弱形 [ðə]「ザ」、admin の /æ/ に続く",
+            "「with a」: with の語末 /ð/ が a の弱形 /ə/ に連結 [wɪð ə]「ウィザ ア」"
+          ]
+        },
+        {
+          "en": "All player data has corrupted since the server crash.",
+          "ja": "【例文】サーバークラッシュ以来、すべてのプレイヤーデータが破損しています。サーバー管理者にとって最悪のシナリオの1つ。",
+          "ipa": "/ˈɔl ˈpleɪɚ ˈdeɪɾə həz kərˈʌptɪd sɪns ðə ˈsɝvɚ kræʃ/",
+          "kana": "オール プレイアー デイラ ハズ コラプティッド シンス ザ サーヴァー クラッシュ",
+          "linking": [
+            "「player data」: player の語末 /r/ が data の /d/ に連続（子音+子音）で連結なし [ˈpleɪɚ ˈdeɪ]。data の /t/ は母音+/t/+母音でフラップ化 [ˈdeɪɾə]「デイラ」",
+            "「has corrupted」: has は弱形 [həz]「ハズ」、corrupted の /k/ に連続（子音+子音）で未開放 [həz̚ kərˈʌptɪd]「ハズ コラプティッド」",
+            "「the server」: the は弱形 [ðə]「ザ」、server の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had corrupted",
+      "ipa": "/həd kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "Before the update arrived, hackers had corrupted the admin account.",
+          "ja": "【例文】アップデートが到着する前に、ハッカーはすでに管理者アカウントを破損させていました。セキュリティ侵害の時系列。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpˌdeɪt əˈraɪvd ˈhækɚz həd kərˈʌptɪd ðə ˈædmɪn əˈkaʊnt/",
+          "kana": "ビフォア ザ アップデイト ア ライヴド ハッカーズ ハド コラプティッド ザ アドミン ア カウント",
+          "linking": [
+            "「Before the」: before の語末 /r/ が the の弱形 /ð/ に連結 [bɪˈfɔr ðə]「ビフォア ザ」",
+            "「had corrupted」: had は弱形 [həd]「ハド」、corrupted の /k/ に連続（子音+子音）で未開放 [həd̚ kərˈʌptɪd]「ハド コラプティッド」",
+            "「the admin」: the は弱形 [ðə]「ザ」、admin の /æ/ に続く"
+          ]
+        },
+        {
+          "en": "I realized my save data had corrupted when I loaded the world.",
+          "ja": "【例文】ワールドをロードしたときに、セーブデータが既に破損していたことに気づきました。ワールドロード時のトラブル。",
+          "ipa": "/aɪ rɪˈælaɪzd maɪ ˈseɪv ˈdeɪɾə həd kərˈʌptɪd wɛn aɪ ˈloʊdɪd ðə ˈwɝld/",
+          "kana": "アイ リ アライズド マイ セイブ デイラ ハド コラプティッド ウェン アイ ロウディッド ザ ワールド",
+          "linking": [
+            "「realized my」: realized の語末 /d/ が my の /m/ に連続（子音+子音）で連結なし。realized は [rɪˈælaɪzd]「リアライズド」",
+            "「had corrupted」: had は弱形 [həd]「ハド」、corrupted の /k/ に連続（子音+子音）で未開放 [həd̚ kərˈʌptɪd]「ハド コラプティッド」",
+            "「loaded the」: loaded の語末 /d/ が未開放。the は弱形 [ðə]「ザ」に続く [ˈloʊdɪd̚ ðə]「ロウディッド ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been corrupting",
+      "ipa": "/həz bɪn kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The memory leak has been corrupting our database for days.",
+          "ja": "【例文】メモリリークがここ数日間、私たちのデータベースを破損させ続けています。継続的なバグの影響。",
+          "ipa": "/ðə ˈmɛməɹi ˈlik həz bɪn kərˈʌptɪŋ ɑɚ ˈdeɪtəˌbeɪs fɔr ˈdeɪz/",
+          "kana": "ザ メモリー リック ハズ ビン コラプティング アウアー デイターベース フォー デイズ",
+          "linking": [
+            "「has been」: has は弱形 [həz]「ハズ」、been は弱形 [bɪn]「ビン」で子音+子音のため未開放 [həz̚ bɪn]「ハズ ビン」",
+            "「been corrupting」: been は弱形 /bɪn/、corrupting の /k/ に連続（子音+子音）で未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
+            "「our database」: our の語末 /r/ が database の /d/ に連結 [ɑɚ ˈdeɪ]「アウアー デイターベース」"
+          ]
+        },
+        {
+          "en": "That malicious player has been corrupting the world with console commands.",
+          "ja": "【例文】その悪意あるプレイヤーがコンソールコマンドでワールドを破損させ続けています。グリーフィング行為の継続。",
+          "ipa": "/ðæt məˈlɪʃəs ˈpleɪər həz bɪn kərˈʌptɪŋ ðə ˈwɝld wɪð ˈkɑnsˌoʊl kəˈmændz/",
+          "kana": "ザット マリシャス プレイアー ハズ ビン コラプティング ザ ワールド ウィザ コンソウル コマンズ",
+          "linking": [
+            "「player has」: player の語末 /r/ が has の /h/ に連結 [ˈpleɪər həz]「プレイアー ハズ」、has は弱形 /həz/",
+            "「has been」: has は弱形 /həz/、been は弱形 /bɪn/ で子音+子音のため未開放 [həz̚ bɪn]「ハズ ビン」",
+            "「with console」: with の語末 /ð/ が console の /k/ に連続（子音+子音）で連結なし"
+          ]
+        }
+      ]
     }
   ]
 }
