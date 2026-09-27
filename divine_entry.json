@@ -436,6 +436,102 @@
           "kana": "シー ハズ ビン ディヴァイニング ザ ミスティーリアス パターン アブ モブ スポーニング ファー ザ パスト アウアー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will divine",
+      "ipa": "/wɪl dɪˈvaɪn/",
+      "examples": [
+        {
+          "en": "I'll divine the location of the hidden fortress before sunset tomorrow.",
+          "ja": "明日の日没前に隠された要塞の位置を直感で知ります。",
+          "ipa": "/aɪl dɪˈvaɪn ðə loʊˈkeɪʃən əv ðə ˈhɪdən ˈfɔɹtɹəs bɪˈfɔɹ ˈsʌnsɛt ˈtɑməroʊ/",
+          "linking": [
+            "I'll の語末 /l/ が divine の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "of は弱形 /əv/",
+            "sunset の語末 /t/ が tomorrow の初頭 /t/ に続く（子音+子音、未開放で1つの t に聞こえる）"
+          ],
+          "kana": "アイル ディヴァイン ザ ロケーション アブ ザ ヒデン フォートレス ビフォア サンセット タマロー"
+        },
+        {
+          "en": "We will divine which caves contain the most valuable ores by morning.",
+          "ja": "朝までに、最も価値のある鉱石を含む洞窟がどれかを直感で知ります。",
+          "ipa": "/wi wɪl dɪˈvaɪn wɪtʃ ˈkeɪvz kənˈteɪn ðə ˈmoʊst ˈvæljuəbəl ˈɔɹz baɪ ˈmɔɹnɪŋ/",
+          "linking": [
+            "will の語末 /l/ が divine の初頭 /d/ に続く（子音+子音、未開放）",
+            "caves の語末 /z/ が contain の初頭 /k/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/",
+            "by の語末 /aɪ/ が morning の初頭 /m/ に続く（母音+子音）"
+          ],
+          "kana": "ウィ ウィル ディヴァイン ウィッチ ケーブズ コンテイン ザ モウスト ヴァリュアブル オアーズ バイ モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be divining",
+      "ipa": "/wɪl bi dɪˈvaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The oracle will be divining the treasure's hiding spot while we prepare the mining equipment.",
+          "ja": "私たちが採掘装置を準備している間、神託者は宝物の隠れ場所を察知しています。",
+          "ipa": "/ðə ˈɔɹəkəl wɪl bi dɪˈvaɪnɪŋ ðə ˈtɹɛʒɚz ˈhaɪdɪŋ spɑt waɪl wi prɪˈpɛɹ ðə ˈmaɪnɪŋ ɪˈkwɪpmənt/",
+          "linking": [
+            "will の語末 /l/ が be の初頭 /b/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "spot の語末 /t/ が while の初頭 /w/ に続く（子音+子音、未開放）",
+            "prepare の語末 /ɛɹ/ が the の初頭 /ð/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ザ オラクル ウィル ビー ディヴァイニング ザ トレジャーズ ハイディング スポット ホワイル ウィ プリペア ザ マイニング イクイップメント"
+        },
+        {
+          "en": "They will be divining for hidden dungeons in the next few hours when the moon is brightest.",
+          "ja": "月が最も明るい時に、次の数時間で隠されたダンジョンを察知しています。",
+          "ipa": "/ðeɪ wɪl bi dɪˈvaɪnɪŋ fɔɹ ˈhɪdən ˈdʌndʒənz ɪn ðə ˈnɛkst ˈfju ˈaʊɚz wɛn ðə ˈmun ɪz ˈbraɪtɪst/",
+          "linking": [
+            "will の語末 /l/ が be の初頭 /b/ に続く（子音+子音、未開放）",
+            "for は弱形 /fə/",
+            "the は弱形 /ðə/ (2回)",
+            "hours の語末 /z/ が when の初頭 /w/ に続く（子音+子音、未開放）"
+          ],
+          "kana": "ゼイ ウィル ビー ディヴァイニング ファー ヒデン ダンジョンズ イン ザ ネクスト フュー アワーズ ウェン ザ ムーン イズ ブライティスト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have divined",
+      "ipa": "/wɪl həv dɪˈvaɪnd/",
+      "examples": [
+        {
+          "en": "By the time the sun rises, we will have divined every secret of this biome.",
+          "ja": "太陽が昇るまでに、このバイオームのすべての秘密を直感で知ります。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə sʌn ˈɹɪzəz, wi wɪl həv dɪˈvaɪnd ˈɛvəri ˈsikrət əv ðɪs ˈbaɪoʊm/",
+          "linking": [
+            "will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、未開放）",
+            "have は弱形 /həv/, divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (2回)",
+            "of は弱形 /əv/"
+          ],
+          "kana": "バイ ザ タイム ザ サン ライズズ、ウィ ウィル ハヴ ディヴァインド エブリー シークレット アブ ディス バイオーム"
+        },
+        {
+          "en": "He will have divined the exact location of the End portal by the end of this week.",
+          "ja": "今週末までに、エンドポータルの正確な位置を直感で知ります。",
+          "ipa": "/hi wɪl həv dɪˈvaɪnd ðə ɪɡˈzækt loʊˈkeɪʃən əv ðə ɛnd ˈpɔɹtəl baɪ ðə ɛnd əv ðɪs ˈwik/",
+          "linking": [
+            "will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、未開放）",
+            "have は弱形 /həv/, divined の初頭 /d/ に続く（子音+子音、未開放）",
+            "the は弱形 /ðə/ (3回)",
+            "of は弱形 /əv/ (2回)"
+          ],
+          "kana": "ヒー ウィル ハヴ ディヴァインド ザ イグザクト ロケーション アブ ザ エンド ポータル バイ ザ エンド アブ ディス ウィーク"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
