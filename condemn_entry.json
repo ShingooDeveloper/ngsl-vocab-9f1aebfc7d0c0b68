@@ -371,6 +371,102 @@
           "kana": "サーバー アドミンズ ハド ビン コンデミング エクスプロイツ オール マンス ロング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has condemned",
+      "ipa": "/həz kənˈdɛmd/",
+      "examples": [
+        {
+          "en": "The server has condemned players who used exploits.",
+          "ja": "そのサーバーはエクスプロイトを使用したプレイヤーを非難しました。",
+          "ipa": "/ðə ˈsɝvɚ həz kənˈdɛmd ˈpleɪɚz hu ˈjuzd ɪkˈsplɔɪts/",
+          "linking": [
+            "「server has」で server の語末子音 /r/ が母音 /ə/ に連結し [ˈsɝvɚ ə]；has は弱形 /həz/",
+            "「has condemned」で has の語末子音 /z/ が子音 /k/ に続き自然に接続",
+            "「players who」で players の語末子音 /z/ が母音 /u/ に連結 [ˈpleɪɚz u] プレイヤーズ フー",
+            "「used exploits」で used の語末子音 /d/ が母音 /ɪ/ に連結 [ˈjuzd ɪ] ユーズド イク"
+          ],
+          "kana": "ザ サーバー ハズ コンデムド プレイヤーズ フー ユーズド イクスプロイツ"
+        },
+        {
+          "en": "They have condemned anyone cheating for weeks.",
+          "ja": "彼らは数週間、チートしている誰でも非難しました。",
+          "ipa": "/ðeɪ həv kənˈdɛmd ˈɛniˌwʌn ˈtʃitɪŋ fɚ wiks/",
+          "linking": [
+            "「have condemned」で have は弱形 /həv/；condemned の /k/ に続く",
+            "「condemned anyone」で condemned の語末子音 /d/ が母音 /ɛ/ に連結 [kənˈdɛmdɛ] コンデムデ",
+            "「anyone cheating」で anyone の語末 /n/ が子音 /tʃ/ に続き未開放気味に接続",
+            "「cheating for」で cheating の語末 /ŋ/ が子音 /f/ に続き未開放気味；for は弱形 /fɚ/"
+          ],
+          "kana": "ザイ ハヴ コンデムデニワン チーティング ファー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had condemned",
+      "ipa": "/həd kənˈdɛmd/",
+      "examples": [
+        {
+          "en": "The admin had condemned the exploit before the patch dropped.",
+          "ja": "管理者はパッチがリリースされる前に、そのエクスプロイトを非難していました。",
+          "ipa": "/ðə ˈædmɪn həd kənˈdɛmd ðə ɪkˈsplɔɪt bɪˈfɔɹ ðə pætʃ ˈdrɑpt/",
+          "linking": [
+            "「admin had」で admin の語末子音 /n/ が母音 /ə/ に連結 [ˈædmɪn ə] アドミン ア；had は弱形 /həd/",
+            "「had condemned」で had の語末 /d/ が子音 /k/ に続き自然に接続",
+            "「condemned the」で condemned の語末子音 /d/ が子音 /ð/ に続き未開放気味に接続；the は弱形 /ðə/",
+            "「before the」で the は弱形 /ðə/；patch の語末子音 /tʃ/ が子音 /d/ に続き未開放気味"
+          ],
+          "kana": "ザ アドミン ハド コンデムド ザ イクスプロイト ビフォア ザ パッチ ドロップト"
+        },
+        {
+          "en": "We had condemned cheaters multiple times by then.",
+          "ja": "私たちはその時までに、チーターたちを何度も非難していました。",
+          "ipa": "/wiː həd kənˈdɛmd ˈtʃitɚz ˈmʌltɪpəl taɪmz baɪ ðɛn/",
+          "linking": [
+            "「had condemned」で had は弱形 /həd/；condemned の /k/ に続く",
+            "「condemned cheaters」で condemned の語末子音 /d/ が子音 /tʃ/ に続き未開放気味に接続",
+            "「cheaters multiple」で cheaters の語末子音 /z/ が母音 /ʌ/ に連結 [ˈtʃitɚz ʌ] チーターズ マ",
+            "「times by」で times の語末子音 /z/ が母音 /aɪ/ に連結 [ˈtaɪmz aɪ] タイムズ バイ"
+          ],
+          "kana": "ウィー ハド コンデムド チーターズ マルティプル タイムズ バイ ザン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been condemning",
+      "ipa": "/həz bɪn kənˈdɛmɪŋ/",
+      "examples": [
+        {
+          "en": "The community has been condemning griefing for months.",
+          "ja": "コミュニティは数ヶ月間、荒らし行為を非難し続けています。",
+          "ipa": "/ðə kəˈmjuːnəti həz bɪn kənˈdɛmɪŋ ˈɡriːfɪŋ fɚ ˈmʌnθz/",
+          "linking": [
+            "「community has」で community の語末 /i/ が母音 /æ/ に連結；has は弱形 /həz/",
+            "「has been」で has の語末子音 /z/ が子音 /b/ に続き自然に接続；been は弱形 /bɪn/",
+            "「been condemning」で been の語末 /n/ が子音 /k/ に続き未開放気味に接続",
+            "「condemning griefing」で condemning の語末 /ŋ/ が子音 /ɡ/ に続き未開放気味；griefing の語末 /ŋ/ が子音 /f/ に続き未開放気味；for は弱形 /fɚ/"
+          ],
+          "kana": "ザ コミュニティ ハズ ビン コンデミング グリーフィング ファー マンスズ"
+        },
+        {
+          "en": "Admins have been condemning hackers all season.",
+          "ja": "管理者たちはシーズン中ずっと、ハッカーたちを非難し続けています。",
+          "ipa": "/ˈædmɪnz həv bɪn kənˈdɛmɪŋ ˈhækɚz ɔl ˈsizən/",
+          "linking": [
+            "「admins have」で admins の語末子音 /z/ が母音 /æ/ に連結 [ˈædmɪnz æ] アドミンズ ハ；have は弱形 /həv/",
+            "「have been」で have の語末子音 /v/ が子音 /b/ に続き自然に接続；been は弱形 /bɪn/",
+            "「been condemning」で been の語末 /n/ が子音 /k/ に続き未開放気味に接続",
+            "「condemning hackers」で condemning の語末 /ŋ/ が子音 /h/ に続き未開放気味；hackers の語末子音 /z/ が母音 /ɔ/ に連結 [ˈhækɚz ɔl] ハッカーズ オール"
+          ],
+          "kana": "アドミンズ ハヴ ビン コンデミング ハッカーズ オール シーズン"
+        }
+      ]
     }
   ]
 }
