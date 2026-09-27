@@ -214,6 +214,192 @@
           "kana": "プレイヤーズ アー スレディング ケアフリー ビットウィーン ザ アブスタクルズ イン ザ チャレンジ コース"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is threading",
+      "ipa": "/ɪz ˈθrɛd.ɪŋ/",
+      "examples": [
+        {
+          "en": "The player is threading the rope through the frame very carefully.",
+          "ja": "プレイヤーはロープをフレームに非常に慎重に通しています。",
+          "ipa": "/ðə ˈpleɪ.ɚ ɪz ˈθrɛd.ɪŋ ðə roʊp θru ðə freɪm ˈvɛr.i ˈkɛr.fə.li/",
+          "linking": [
+            "「is threading」: is の弱形 /ɪz/ の /z/ が threading の /ɪ/ に連結 [ɪz ˈθrɛd.ɪŋ] イズ スレディング",
+            "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ",
+            "「rope through」: rope の語末 /p/ が through の /θ/ に未開放で続く [roʊp̚ θru] ロープ スルー"
+          ],
+          "kana": "ザ プレイヤー イズ スレディング ザ ロープ スルー ザ フレイム ヴェリー ケアフリー"
+        },
+        {
+          "en": "We are threading our way through the narrow passages in the redstone vault.",
+          "ja": "私たちはレッドストーン金庫の狭い通路を巧みに通っています。",
+          "ipa": "/wiː ɑr ˈθrɛd.ɪŋ aʊ.ɚ weɪ θru ðə ˈnæ.roʊ ˈpæs.ɪ.dʒəz ɪn ðə ˈrɛd.stoʊn vɔlt/",
+          "linking": [
+            "「are threading」: are の語末 /r/ が threading の /ɪ/ に連結 [ɑr ˈθrɛd.ɪŋ] アー スレディング",
+            "「threading our」: threading の語末 /ŋ/ が our の /aʊ/ に未開放で続く [ˈθrɛd.ɪŋ aʊ.ɚ] スレディング アワー",
+            "「way through」: way の語末 /weɪ/ が through の /θ/ に未開放で続く [weɪ θru] ウェイ スルー"
+          ],
+          "kana": "ウィー アー スレディング アワー ウェイ スルー ザ ナロー パッシジェズ イン ザ レッドストーン ヴォルト"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was threading",
+      "ipa": "/wəz ˈθrɛd.ɪŋ/",
+      "examples": [
+        {
+          "en": "I was threading the rope when the creeper explosion destroyed the contraption.",
+          "ja": "クリーパーの爆発で装置が破壊されたとき、私はロープを通していました。",
+          "ipa": "/aɪ wəz ˈθrɛd.ɪŋ ðə roʊp wɛn ðə ˈkriː.pɚ ɪkˈsploʊ.ʒən dɪˈstrɔɪd ðə kənˈtræp.ʃən/",
+          "linking": [
+            "「was threading」: was の弱形 /wəz/ の /z/ が threading の /ɪ/ に連結 [wəz ˈθrɛd.ɪŋ] ワズ スレディング",
+            "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ",
+            "「the rope」: the の弱形 /ðə/ が rope の /r/ に連結 [ðə roʊp] ザ ロープ"
+          ],
+          "kana": "アイ ワズ スレディング ザ ロープ ウェン ザ クリーパー イクスプロージョン ディストロイド ザ コントラプション"
+        },
+        {
+          "en": "We were threading carefully between the hostile mobs when the portal closed.",
+          "ja": "ポータルが閉じたとき、私たちは敵対的なモブの間を慎重に通っていました。",
+          "ipa": "/wiː wɚ ˈθrɛd.ɪŋ ˈkɛr.fə.li bɪˈtwin ðə hoʊsˈtɑɪl moʊbz wɛn ðə ˈpoʊr.təl kloʊzd/",
+          "linking": [
+            "「were threading」: were の語末 /r/ が threading の /ɪ/ に連結 [wɚ ˈθrɛd.ɪŋ] ワー スレディング",
+            "「threading carefully」: threading の語末 /ŋ/ が carefully の /k/ に未開放で続く [ˈθrɛd.ɪŋ ˈkɛr.fə.li] スレディング ケアフリー",
+            "「between the」: between の語末 /n/ が the の /ð/ に未開放で続く [bɪˈtwin ðə] ビットウィーン ザ"
+          ],
+          "kana": "ウィー ワー スレディング ケアフリー ビットウィーン ザ ホウスタイル モウズ ウェン ザ ポーラル クロウズド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been threading",
+      "ipa": "/həd bɪn ˈθrɛd.ɪŋ/",
+      "examples": [
+        {
+          "en": "I had been threading the rope for ten minutes before I finally found the correct passage.",
+          "ja": "正しい通路をついに見つけるまでの間、私は10分間ロープを通していました。",
+          "ipa": "/aɪ həd bɪn ˈθrɛd.ɪŋ ðə roʊp fɔr tɛn ˈmɪn.ɪts bɪˈfɔr aɪ ˈfaɪ.nə.li faʊnd ðə kəˈrɛkt ˈpæs.ɪdʒ/",
+          "linking": [
+            "「had been」: had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接 [həd̚ bɪn] ハッ ビン",
+            "「been threading」: been の語末 /n/ が threading の /ɪ/ に連結 [bɪn ˈθrɛd.ɪŋ] ビン スレディング",
+            "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ"
+          ],
+          "kana": "アイ ハッ ビン スレディング ザ ロープ フォー テン ミニッツ ビフォア アイ ファイナリー ファウンド ザ コレクト パッセッジ"
+        },
+        {
+          "en": "They had been threading through the cave network for hours when the water level suddenly rose.",
+          "ja": "水位が突然上昇したとき、彼らは何時間も洞窟ネットワークを通っていました。",
+          "ipa": "/ðeɪ həd bɪn ˈθrɛd.ɪŋ θru ðə keɪv ˈnɛt.wɝk fɔr ˈaʊ.ərz wɛn ðə ˈwɔ.tɚ ˈlɛv.əl ˈsʌd.ən.li roʊz/",
+          "linking": [
+            "「had been」: had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接 [həd̚ bɪn] ハッ ビン",
+            "「been threading」: been の語末 /n/ が threading の /ɪ/ に連結 [bɪn ˈθrɛd.ɪŋ] ビン スレディング",
+            "「threading through」: threading の語末 /ŋ/ が through の /θ/ に未開放で続く [ˈθrɛd.ɪŋ θru] スレディング スルー"
+          ],
+          "kana": "ゼイ ハッ ビン スレディング スルー ザ ケイヴ ネットワーク フォー アワーズ ウェン ザ ウォーラー レヴァル サッデンリー ロウズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will thread",
+      "ipa": "/wɪl θrɛd/",
+      "examples": [
+        {
+          "en": "I'll thread this rope through all the pulleys in the redstone elevator.",
+          "ja": "レッドストーンエレベータの全てのプーリーを通してこのロープを通します。",
+          "ipa": "/aɪl θrɛd ðɪs roʊp θruː ɔl ðə ˈpʊliz ɪn ðə ˈrɛdstoʊn ˈɛləˌveɪtər/",
+          "linking": [
+            "I'll の /l/ 未開放（thread の /θ/ に続く） [aɪl̚ θrɛd] アイル スレッド",
+            "thread の /d/ 未開放（this の /ð/ に続く） [θrɛd̚ ðɪs] スレッド ディス",
+            "rope の /p/ 未開放（through の /θ/ に続く） [roʊp̚ θruː] ロープ スルー",
+            "all の /l/ 未開放（the の /ð/ に続く） [ɔl̚ ðə] オール ザ"
+          ],
+          "kana": "アイル スレッド ディス ロープ スルー オール ザ プーリーズ イン ザ レッドストーン エレベーター"
+        },
+        {
+          "en": "We'll thread multiple paths through the circuit to maximize efficiency.",
+          "ja": "効率を最大化するため、回路を通して複数のパスを通します。",
+          "ipa": "/wil θrɛd ˈmʌltɪpəl pæðz θruː ðə ˈsɝkɪt tə ˈmæksəˌmaɪz ɪˈfɪʃənsi/",
+          "linking": [
+            "We'll の /l/ 未開放（thread の /θ/ に続く） [wil̚ θrɛd] ウィル スレッド",
+            "thread の /d/ 未開放（multiple の /m/ に続く） [θrɛd̚ ˈmʌltɪpəl] スレッド マルチプル",
+            "through の弱形 /θru/ と the の弱形 /ðə/ → スルー ザ",
+            "to は弱形 /tə/ に弱化 [tə ˈmæksə] ター マクシマイズ"
+          ],
+          "kana": "ウィル スレッド マルチプル パズ スルー ザ サーキット ター マクシマイズ イフィシンシー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be threading",
+      "ipa": "/wɪl bi ˈθrɛdɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be threading the cables while you set up the redstone switches.",
+          "ja": "ケーブルを通している間に、レッドストーンスイッチをセットアップしてください。",
+          "ipa": "/aɪl bi ˈθrɛdɪŋ ðə ˈkeɪbəlz waɪl ju ˈsɛt ʌp ðə ˈrɛdstoʊn ˈswɪtʃɪz/",
+          "linking": [
+            "I'll の /l/ 未開放（be の /b/ に続く） [aɪl̚ bi] アイル ビー",
+            "be は弱形 /bə/ に弱化し threading の /θ/ に続く → ビー スレディング",
+            "threading の /ŋ/ 未開放（the の /ð/ に続く） [ˈθrɛdɪŋ̚ ðə] スレディング ザ",
+            "while の /l/ 未開放（you の /j/ に続く） [waɪl̚ ju] ホワイル ユー"
+          ],
+          "kana": "アイル ビー スレディング ザ ケイブルズ ホワイル ユー セッ アップ ザ レッドストーン スウィッチイズ"
+        },
+        {
+          "en": "They'll be threading the redstone wire through the tunnel network all afternoon.",
+          "ja": "彼らは午後中、レッドストーンワイアーをトンネルネットワークを通して通し続けます。",
+          "ipa": "/ðɛl bi ˈθrɛdɪŋ ðə ˈrɛdstoʊn ˈwaɪər θruː ðə ˈtʌnəl ˈnɛtˌwɝk ɔl ˈæftərˌnun/",
+          "linking": [
+            "They'll の /l/ 未開放（be の /b/ に続く） [ðɛl̚ bi] ザイル ビー",
+            "be は弱形 /bə/ に弱化し threading の /θ/ に続く → ビー スレディング",
+            "threading の /ŋ/ 未開放（the の /ð/ に続く） [ˈθrɛdɪŋ̚ ðə] スレディング ザ",
+            "through の弱形 /θru/ から the の弱形 /ðə/ へ → スルー ザ"
+          ],
+          "kana": "ザイル ビー スレディング ザ レッドストーン ワイアー スルー ザ トンネル ネットワーク オール アフターヌーン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have threaded",
+      "ipa": "/wɪl həv ˈθrɛdɪd/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I'll have threaded all the cables through the machine.",
+          "ja": "あなたが到着した時には、私はすべてのケーブルを機械に通し終わっています。",
+          "ipa": "/baɪ ðə ˈtaɪm ju əˈraɪv aɪl həv ˈθrɛdɪd ɔl ðə ˈkeɪbəlz θruː ðə məˈʃin/",
+          "linking": [
+            "arrive の /v/ 未開放（I'll の /aɪl/ に続く） [əˈraɪv̚ aɪl] アライヴ アイル",
+            "I'll の /l/ 未開放（have の /h/ に続く） [aɪl̚ həv] アイル ハヴ",
+            "have は弱形 /həv/ に弱化 → ハヴ",
+            "threaded の /d/ が all の /ɔ/ に連結 [ˈθrɛdɪd ɔl] スレディッド オール"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ アイル ハヴ スレディッド オール ザ ケイブルズ スルー ザ マシーン"
+        },
+        {
+          "en": "She'll have threaded the entire network by tomorrow afternoon.",
+          "ja": "彼女は明日の午後までに、ネットワーク全体を通し終わっています。",
+          "ipa": "/ʃil həv ˈθrɛdɪd ðə ɪnˈtaɪər ˈnɛtˌwɝk baɪ təˈmɑroʊ ˈæftərˌnun/",
+          "linking": [
+            "She'll の /l/ 未開放（have の /h/ に続く） [ʃil̚ həv] シール ハヴ",
+            "have は弱形 /həv/ に弱化 → ハヴ",
+            "threaded の /d/ 未開放（the の /ð/ に続く） [ˈθrɛdɪd̚ ðə] スレディッド ザ",
+            "entire の /r/ から network の /n/ へ r-linking [ɪnˈtaɪər ˈnɛtˌwɝk] インタイアー ネットワーク"
+          ],
+          "kana": "シール ハヴ スレディッド ザ インタイアー ネットワーク バイ トゥモロー アフターヌーン"
+        }
+      ]
     }
   ]
 }
