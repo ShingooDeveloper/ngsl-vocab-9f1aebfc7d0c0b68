@@ -197,19 +197,19 @@
             "is は弱形 /ɪz/「イズ」で、mocking に連結「イズ マッキング」",
             "my redstone で my は弱いストレス、redstone の語頭に連結「マイ レッドストーン」",
             "contraption right で contraption の語末 /n/ が right に先行「コントラプション ライト」",
-            "the は弱形 /ðə/、chat の /tʃ/ に未開放「ザ チャット」"
+            "the は弱形 /ðə/、chat に連結「ザ チャット」"
           ],
           "kana": "ヒー イズ マッキング マイ レッドストーン コントラプション ライト ナウ イン ザ チャット"
         },
         {
           "en": "They are mocking the building style of our entire team.",
           "ja": "彼らは私たちのチーム全体の建築スタイルを馬鹿にしている。",
-          "ipa": "/ðeɪ ɑɹ ˈmɑkɪŋ ðə ˈbɪldɪŋ staɪl əv ˈaʊɚ ɪnˈtaɪɚ tim/",
+          "ipa": "/ðeɪ ɚ ˈmɑkɪŋ ðə ˈbɪldɪŋ staɪl əv ˈaʊɚ ɪnˈtaɪɚ tim/",
           "linking": [
             "are は弱形 /ɚ/「アー」で、mocking に連結「アー マッキング」",
             "the は弱形 /ðə/、building に連結「ザ ビルディング」",
             "building style で building の語末 /ŋ/ が style に先行「ビルディング スタイル」",
-            "of は弱形 /əv/「アヴ」に弱化「アヴ」"
+            "of は弱形 /əv/「アヴ」"
           ],
           "kana": "ザイ アー マッキング ザ ビルディング スタイル アヴ アワー エンタイア ティーム"
         }
@@ -274,9 +274,99 @@
             "had は弱形 /həd/「ハド」、been も弱形 /bɪn/「ビン」で連結「ハド ビン」",
             "had been が mocking に連結「ハド ビン マッキング」",
             "the は弱形 /ðə/、farm に連結「ザ ファーム」",
-            "was は弱形 /wəz/「ワズ」「ワズ」"
+            "was は弱形 /wəz/「ワズ」"
           ],
           "kana": "ザ プレイヤーズ ハド ビン マッキング ザ ファーム ディザイン アンティル ザイ ソー ハウ イフィシェント イット リーリー ワズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has mocked",
+      "ipa": "/həz ˈmɑkt/",
+      "examples": [
+        {
+          "en": "He has mocked me for dying to fall damage twice already.",
+          "ja": "彼は既に私がフォールダメージで2回死んだことを馬鹿にしている。",
+          "ipa": "[hiː həz ˈmɑkt mi fɔɹ ˈdaɪɪŋ tə fɔl ˈdæmɪdʒ twaɪs ɔlˈrɛdi]",
+          "linking": [
+            "has は機能詞で弱形 /həz/「ハズ」。mocked に連結: [həz ˈmɑkt] ハズ マークトゥ",
+            "mocked の語末 /t/ が me の /m/ に未開放で連接: [ˈmɑkt̚ mi] マークトゥ ミー",
+            "to は機能詞で弱形 /tə/「タ」。fall に連結: [tə fɔl] タ フォール"
+          ],
+          "kana": "ヒー ハズ マークトゥ ミー フォー ダイイング タ フォール ダメージ トゥワイス オールレディ"
+        },
+        {
+          "en": "Players have mocked our base design for weeks without offering real criticism.",
+          "ja": "プレイヤーたちは何週間も我々のベース設計を馬鹿にしてきたが、本当の批評は何もない。",
+          "ipa": "[ˈpleɪɚz həv ˈmɑkt aʊɚ beɪs dɪˈzaɪn fɔɹ wiks wɪðˈaʊt ˈɔfɚɪŋ ˈril ˈkrɪtɪˌsɪzəm]",
+          "linking": [
+            "have は機能詞で弱形 /həv/「ハヴ」。mocked に連結: [həv ˈmɑkt] ハヴ マークトゥ",
+            "mocked の語末 /t/ が our の /aʊ/ に未開放で連接: [ˈmɑkt̚ aʊ...] マークトゥ アワー",
+            "for の語末 /r/ が weeks の /w/ に続く（子音同士）: [fɔɹ wiks] フォー ウィークス"
+          ],
+          "kana": "プレイヤーズ ハヴ マークトゥ アワー ベイス ディザイン フォー ウィークス ウィザウト オファリング リール クリティシズム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had mocked",
+      "ipa": "/həd ˈmɑkt/",
+      "examples": [
+        {
+          "en": "Before the tournament, they had mocked every strategy we proposed.",
+          "ja": "トーナメント前に、彼らは私たちが提案したあらゆる戦略を馬鹿にしていた。",
+          "ipa": "[bɪˈfɔɹ ðə ˈtɝnəmənt ðeɪ həd ˈmɑkt ˈɛvɹi ˈstrætədʒi wi prəˈpoʊzd]",
+          "linking": [
+            "the は弱形 /ðə/「ザ」。tournament に連結: [ðə ˈtɝnə...] ザ ターナメント",
+            "had は弱形 /həd/「ハド」。mocked に連結: [həd ˈmɑkt] ハド マークトゥ",
+            "mocked の語末 /t/ が every の /ɛ/ に連結: [ˈmɑkt ɛ...] マークト エ"
+          ],
+          "kana": "ビフォー ザ ターナメント ザイ ハド マークト エヴリ ストラテジー ウィ プロポーズド"
+        },
+        {
+          "en": "He had mocked the new player's equipment so badly that he never returned.",
+          "ja": "彼は新しいプレイヤーの装備をそんなに馬鹿にしたので、彼は二度と戻ってこなかった。",
+          "ipa": "[hiː həd ˈmɑkt ðə ˈnu ˈpleɪɚz ɪˈkwɪpmənt soʊ ˈbædli ðæt hiː ˈnɛvɚ rɪˈtɝnd]",
+          "linking": [
+            "had は弱形 /həd/「ハド」。mocked に連結: [həd ˈmɑkt] ハド マークトゥ",
+            "the は弱形 /ðə/「ザ」。new に連結: [ðə ˈnu] ザ ニュー",
+            "player's の語末 /z/ が equipment の /ɪ/ に連結: [ˈpleɪɚz ɪˈkwɪp...]"
+          ],
+          "kana": "ヒー ハド マークト ザ ニュー プレイヤーズ イクウィップメント ソー バッドリー ザット ヒー ネヴァー リターンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been mocking",
+      "ipa": "/həz bɪn ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "She has been mocking the redstone expert's build all afternoon.",
+          "ja": "彼女は午後中ずっとレッドストーン専門家のビルドを馬鹿にしている。",
+          "ipa": "[ʃiː həz bɪn ˈmɑkɪŋ ðə ˈrɛdˌstoʊn ˈɛkspɚts bɪld ɔl ˈæftɚˌnun]",
+          "linking": [
+            "has は機能詞で弱形 /həz/「ハズ」、been も弱形 /bɪn/「ビン」。mocking に連結: [həz bɪn ˈmɑkɪŋ]",
+            "the は弱形 /ðə/「ザ」。redstone に連結: [ðə ˈrɛd...] ザ レッドストーン",
+            "expert's の語末 /s/ が build の /b/ に続く（子音同士）: [ˈɛkspɚts bɪld] エクスパーツ ビルド"
+          ],
+          "kana": "シー ハズ ビン マッキング ザ レッドストーン エクスパーツ ビルド オール アフターヌーン"
+        },
+        {
+          "en": "They have been mocking the server rules since the update went live.",
+          "ja": "彼らはアップデートが公開されて以来、ずっとサーバールールを馬鹿にしている。",
+          "ipa": "[ðeɪ həv bɪn ˈmɑkɪŋ ðə ˈsɝvɚ rulz sɪns ðə ˈʌpdeɪt wɛnt laɪv]",
+          "linking": [
+            "have は機能詞で弱形 /həv/「ハヴ」、been も弱形 /bɪn/「ビン」。mocking に連結: [həv bɪn ˈmɑkɪŋ]",
+            "the は弱形 /ðə/「ザ」。server と update に連結: [ðə ˈsɝvɚ] ザ サーヴァー、[ðə ˈʌpdeɪt] ザ アップデイト",
+            "update の語末 /t/ が went の /w/ に未開放で連接: [ˈʌpdeɪt̚ wɛnt] アップデイット ウェント"
+          ],
+          "kana": "ザイ ハヴ ビン マッキング ザ サーヴァー ルーズ シンス ザ アップデイット ウェント ライヴ"
         }
       ]
     }
