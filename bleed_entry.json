@@ -321,6 +321,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has bled",
+      "ipa": "/hæz blɛd/",
+      "examples": [
+        {
+          "en": "I have bled out and lost all my drops in that creeper trap!",
+          "ja": "私はそのクリーパーの罠で出血死してすべてのドロップを失いました!",
+          "ipa": "/aɪ hæv blɛd aʊt ænd ˈlɑst ɔl maɪ drɑps ɪn ðæt ˈkripɚ træp/",
+          "linking": [
+            "bled out において、語末子音 /d/ が母音 /aʊ/ に連結 [ˈblɛd aʊt]",
+            "out and において、語末子音 /t/ が弱形 /ən/ に連結 [aʊt ən]",
+            "all my において、語末子音 /l/ が母音 /aɪ/ に連結 [ɔl maɪ]"
+          ],
+          "kana": "アイ ハヴ ブレドアウト アンド ロスト オール マイ ドロップス イン ザッ クリーパー トラップ"
+        },
+        {
+          "en": "We have bled through our supplies while mining all the way down to the bedrock.",
+          "ja": "私たちはベッドロックまで採掘中にすべての物資を使い果たしました。",
+          "ipa": "/wi hæv blɛd θru aʊɚ səˈplaɪz ˈwaɪl ˈmaɪnɪŋ ɔl ðə weɪ daʊn tu ðə ˈbɛdˌrɑk/",
+          "linking": [
+            "down the において、down の語末子音 /n/ が母音 /ð/ に連結 [daʊn ðə]",
+            "to the において、to の弱形 /tə/、the は弱形 /ðə/ [tə ðə]",
+            "the bedrock において、the の弱形 /ðə/、bedrock の /b/ に続く [ðə ˈbɛdˌrɑk]"
+          ],
+          "kana": "ウィ ハヴ ブレド スルー アワー サプライズ ホワイル マイニング オール ザ ウェイ ダウン ター ザ ベドロック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had bled",
+      "ipa": "/hæd blɛd/",
+      "examples": [
+        {
+          "en": "By the time I reached safety, I had bled out completely from the wither's attacks.",
+          "ja": "安全な場所に到達した時までに、私はウィザーの攻撃から完全に出血死していました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ ˈritʃt ˈseɪfti aɪ hæd blɛd aʊt kəmˈplitli frɑm ðə ˈwɪðɚz əˈtæks/",
+          "linking": [
+            "bled out において、語末子音 /d/ が母音 /aʊ/ に連結 [ˈblɛd aʊt]",
+            "from the において、from の語末子音 /m/ が子音 /ð/ に続くため未連結 [ˈfrɑm ðə]",
+            "wither's attacks において、wither's の語末 /z/ が母音に先行 [ˈwɪðɚz əˈtæks]"
+          ],
+          "kana": "バイ ザ タイム アイ リーチト セイフティ アイ ハド ブレドアウト コンプリートリー フラム ザ ウィザーズ アタックス"
+        },
+        {
+          "en": "The wall had bled water for days before anyone noticed and patched the hole.",
+          "ja": "壁は数日間水を漏らしていて、誰かが気づいて穴をふさぐまで続いていました。",
+          "ipa": "/ðə wɔl hæd blɛd ˈwɔtɚ fɔr deɪz bɪˈfɔr ˈɛniˌwən ˈnoʊtɪst ænd pætʃt ðə hoʊl/",
+          "linking": [
+            "had bled において、had の弱形 /həd/、bled の /b/ に続く [ˈhæd ˈblɛd]",
+            "bled water において、bled の /d/ が母音 /ɔ/ に連結 [ˈblɛd ˈwɔtɚ]",
+            "patched the において、patched の /t/ が未開放、the は弱形 /ðə/ [pætʃt̚ ðə]"
+          ],
+          "kana": "ザ ウォール ハド ブレド ウォーター フォー デイズ ビフォア エニワン ノウティスト アンド パッチド ザ ホール"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been bleeding",
+      "ipa": "/hæz bɪn ˈblidɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie has been bleeding ever since I hit it with my sword.",
+          "ja": "ゾンビは私が剣で殴ってからずっと出血しています。",
+          "ipa": "/ðə ˈzɑmbi hæz bɪn ˈblidɪŋ ˈɛvɚ sɪns aɪ hɪt ɪt wɪð maɪ sɔrd/",
+          "linking": [
+            "has been において、has の弱形 /həz/、been の弱形 /bɪn/ が続く [ˈhæz bɪn]",
+            "been bleeding において、been の弱形 /bɪn/ が母音 /b/ に連結 [bɪn ˈblidɪŋ]",
+            "hit it において、hit の語末子音 /t/ が母音 /ɪ/ に連結 [ˈhɪt ɪt]"
+          ],
+          "kana": "ザ ゾンビ ハズ ビン ブリーディング エバー シンス アイ ヒッティット ウィズ マイ ソード"
+        },
+        {
+          "en": "Your armor durability has been bleeding away the whole time we've been exploring the Nether.",
+          "ja": "私たちがネザーを探索している間中、あなたの防具の耐久性が消耗し続けています。",
+          "ipa": "/jɔr ˈɑɹmɚ ˌdʊɹəˈbɪləti hæz bɪn ˈblidɪŋ əˈweɪ ðə hoʊl taɪm wɪv bɪn ɪkˈsplɔɹɪŋ ðə ˈnɛðɚ/",
+          "linking": [
+            "been bleeding において、been の弱形 /bɪn/ が母音 /b/ に連結 [bɪn ˈblidɪŋ]",
+            "bleeding away において、bleeding の /ŋ/ が母音 /ə/ に先行 [ˈblidɪŋ əˈweɪ]",
+            "exploring the において、exploring の語末 /ŋ/ が母音に先行、the は弱形 /ðə/ [ɪkˈsplɔɹɪŋ ðə]"
+          ],
+          "kana": "ユア アーマー ジュラビリティ ハズ ビン ブリーディング アウェイ ザ ホール タイム ウィヴ ビン イクスプロアリング ザ ネザー"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 動詞原形）",
       "text": "will bleed",
