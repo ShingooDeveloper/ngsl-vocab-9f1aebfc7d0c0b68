@@ -316,6 +316,96 @@
           "kana": "ザ ブラックスミス ハッド ビン フォージング イクウィップメント コンティニュアスリー ファー アワーズ ビフォア ディサイディング トゥ レスト"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has forged",
+      "ipa": "/ˈhæz ˈfɔɹdʒd/",
+      "examples": [
+        {
+          "en": "She has forged stronger tools since discovering the diamond deposit.",
+          "ja": "彼女はダイヤモンド鉱床を発見してから、より強い道具を作ってきました。",
+          "ipa": "/ʃi ˈhæz ˈfɔɹdʒd ˈstrɔŋ.ɚ ˈtulz sɪns dɪsˈkʌv.ɚɪŋ ðə ˈdaɪ.mənd dɪˈpɑz.ɪt/",
+          "linking": [
+            "「She has」—has は弱形 /həz/；she の語末 /i/ と連接 [ʃi həz]→シー ハズ",
+            "「has forged」—has は弱形 /həz/；forged の /f/ へ（子音+子音）[həz ˈfɔɹdʒd]→ハズ フォージド",
+            "「discovering the」—discovering 語末 /ŋ/ が弱形 the /ðə/ の子音に先行；/ðə/→ザ [dɪsˈkʌv.ɚɪŋ ðə]→ディスカヴァリング ザ"
+          ],
+          "kana": "シー ハズ フォージド ストロンガー トゥールズ シンス ディスカヴァリング ザ ダイモンド ディポジット"
+        },
+        {
+          "en": "The players have forged an alliance after weeks of cooperation.",
+          "ja": "プレイヤーたちは数週間の協力の後、同盟を作ってきました。",
+          "ipa": "/ðə ˈpleɪ.ɚz ˈhæv ˈfɔɹdʒd ən əˈlaɪ.əns ˈæf.tɚ ˈwiks əv koʊˌæp.ɚˈeɪ.ʃən/",
+          "linking": [
+            "「The players」—弱形 /ðə/ と子音 /p/；players 語末 /z/ が母音に挟まれフラップ化の可能性 [ðə ˈpleɪ.ɚz]→ザ プレイヤーズ",
+            "「have forged」—have は弱形 /həv/；forged の /f/ へ（子音+子音）[ˈhæv ˈfɔɹdʒd]→ハヴ フォージド",
+            "「an alliance」—弱形 /ən/；alliance の /æ/ へ連結 [ən əˈlaɪ.əns]→アン アライアンス"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ フォージド アン アライアンス アフター ウィークス アヴ コウオペレイション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had forged",
+      "ipa": "/ˈhæd ˈfɔɹdʒd/",
+      "examples": [
+        {
+          "en": "We had forged protective armor before the zombie siege began.",
+          "ja": "ゾンビの包囲が始まる前に、私たちは防御用の鎧を作ってしまいました。",
+          "ipa": "/wɪ ˈhæd ˈfɔɹdʒd prəˈtɛk.tɪv ˈɑɹ.mɚ bɪˈfɔr ðə ˈzoʊ.bi sɪˈdʒ bɪˈɡæn/",
+          "linking": [
+            "「We had」—had は弱形；語末 /d/ は未開放 [wɪ ˈhæd̚]→ウィ ハッ",
+            "「had forged」—had の未開放 /d̚/ から forged の /f/ へ；/d/ はリリースされず [ˈhæd̚ ˈfɔɹdʒd]→ハッ フォージド",
+            "「before the」—before /bɪˈfɔr/；the は弱形 /ðə/ [bɪˈfɔr ðə]→ビフォア ザ"
+          ],
+          "kana": "ウィ ハッ フォージド プロテクティヴ アーマー ビフォア ザ ゾービー シージ ビガン"
+        },
+        {
+          "en": "They had forged several iron tools before the mining expedition departed.",
+          "ja": "採掘遠征が出発する前に、彼らは数本の鉄製の道具を作ってしまいました。",
+          "ipa": "/ðeɪ ˈhæd ˈfɔɹdʒd ˈsɛv.ɚ.əl ˈaɪ.ɚn ˈtulz bɪˈfɔr ðə ˈmaɪn.ɪŋ ɪkˈspɪ.dɪ.ʃən dɪˈpɑɹ.tɪd/",
+          "linking": [
+            "「had forged」—had は弱形；語末 /d/ は未開放；forged の /f/ へ [ˈhæd̚ ˈfɔɹdʒd]→ハッ フォージド",
+            "「iron tools」—iron 語末 /n/；tools 初頭 /t/（子音+子音）[ˈaɪ.ɚn ˈtulz]→アイアーン トゥールズ",
+            "「before the」—before /bɪˈfɔr/；the は弱形 /ðə/ [bɪˈfɔr ðə]→ビフォア ザ"
+          ],
+          "kana": "ザイ ハッ フォージド セヴラル アイアーン トゥールズ ビフォア ザ マイニング イクスペディション ディパーティッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been forging",
+      "ipa": "/ˈhæz bɪn ˈfɔɹdʒɪŋ/",
+      "examples": [
+        {
+          "en": "The blacksmith has been forging legendary weapons all afternoon.",
+          "ja": "鍛冶屋は午後ずっと伝説の武器をハンマーで作り続けています。",
+          "ipa": "/ðə ˈblæk.smɪθ ˈhæz bɪn ˈfɔɹdʒɪŋ ˈlɛdʒənˌɛri ˈwɛp.ənz ˈɔl ˌæf.tərˈnun/",
+          "linking": [
+            "「blacksmith has」—blacksmith 語末 /θ/ は未開放；has は弱形 /həz/ [ˈblæk.smɪθ̚ həz]→ブラックスミス ハズ",
+            "「has been」—has は弱形 /həz/；been は弱形 /bɪn/ [həz bɪn]→ハズ ビン",
+            "「been forging」—been は弱形 /bɪn/；forging の /f/ へ（子音+子音）[bɪn ˈfɔɹdʒɪŋ]→ビン フォージング"
+          ],
+          "kana": "ザ ブラックスミス ハズ ビン フォージング レジェンダリー ウェポンズ オール アフターヌーン"
+        },
+        {
+          "en": "We have been forging tools since we started our base expansion.",
+          "ja": "私たちは基地の拡張を始めてからずっと道具をハンマーで作り続けています。",
+          "ipa": "/wɪ ˈhæv bɪn ˈfɔɹdʒɪŋ ˈtulz sɪns wɪ ˈstɑɹ.tɪd aʊɚ ˈbeɪs ɪkˈspæn.ʃən/",
+          "linking": [
+            "「We have」—have は弱形 /həv/；we の語末 /i/ と連接 [wɪ ˈhæv]→ウィ ハヴ",
+            "「have been」—have は弱形 /həv/；been は弱形 /bɪn/ [ˈhæv bɪn]→ハヴ ビン",
+            "「been forging」—been は弱形 /bɪn/；forging の /f/ へ（子音+子音）[bɪn ˈfɔɹdʒɪŋ]→ビン フォージング"
+          ],
+          "kana": "ウィ ハヴ ビン フォージング トゥールズ シンス ウィ スターティッド アウア ベイス イクスパンション"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
