@@ -74,7 +74,37 @@
       "kana": "イッツ ア シェアード センタメント ザット ビルディング ウィズ フレンズ イズ モア ファン ザン ソーロー ビルディング"
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "sentiments",
+      "ipa": "/ˈsentəmənts/",
+      "examples": [
+        {
+          "en": "Different sentiments about PvP divide the server community.",
+          "ja": "PvPについての異なった感情がサーバーコミュニティを分裂させています。",
+          "ipa": "/ˈdɪfərənt ˈsentəmənts əˈbaʊt ˌpiːviːˈpiː dɪˈvaɪd ðə ˈsɜrvər kəˈmjuːnəti/",
+          "linking": [
+            "「sentiments about」で、語末クラスタ /ts/ と「about」の弱形 /ə/",
+            "「the server」で、「the」は弱形 /ðə/ ザ"
+          ],
+          "kana": "ディファレント センタメンツ アバウト ピーヴィーピー ディヴァイド ザ サーヴァー コミュニティ"
+        },
+        {
+          "en": "Many server members shared their positive sentiments about the new cave system.",
+          "ja": "多くのサーバーメンバーが新しい洞窟システムについて肯定的な感情を共有しました。",
+          "ipa": "/ˈmeɪni ˈsɜrvər ˈmɛmbərz ʃɛrd ðɛr ˈpɑzətɪv ˈsentəmənts əˈbaʊt ðə nju ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "「shared their」で、子音+子音 /d/ + /ð/、連結なし",
+            "「sentiments about」で、「about」の弱形 /ə/",
+            "「the new」で、「the」は弱形 /ðə/ ザ"
+          ],
+          "kana": "メイニ サーヴァー メンバーズ シェアード ザェアー ポジティブ センタメンツ アバウト ザ ニュー ケイヴ システム"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Target 1900"
   ]

@@ -49,7 +49,36 @@
       "kana": "ザ コントラヴァーシー オーバー ザ ニュー クラフティング レシピーズ ラステッド ファー ウィークス アン ザ コミュニティー フォーラムズ"
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "controversies",
+      "ipa": "/ˈkɑn.trə.ˈvɝ.siz/",
+      "examples": [
+        {
+          "en": "Controversies about different farming methods sparked intense debates in the community.",
+          "ja": "異なる農業方法についての論争はコミュニティで激しい議論を引き起こしました。",
+          "ipa": "/ˈkɑn.trə.ˈvɝ.siz əˈbaʊt ˈdɪf.ə.ɚnt ˈfɑr.mɪŋ ˈmɛθ.əndz ˈspɑrkt ɪnˈtɛns dɪˈbeɪts ɪn ðə kəˈmjuː.nə.ti/",
+          "linking": [
+            "controversies の末尾 /z/ が about の初頭 /ə/ に連結",
+            "sparked の /t/ が母音 /ɪ/ に連結してフラップ化 [ɾ]",
+            "debates の末尾 /s/ が in の初頭 /ɪ/ に連結"
+          ],
+          "kana": "コントラヴァーシーズ アバウト ディファレント ファーミング メサッズ スパーキ インテンス ディベイツ イン ザ コミュニティー"
+        },
+        {
+          "en": "The controversies surrounding diamond nerfs lasted for months on the forums.",
+          "ja": "ダイアモンド削弱についての論争はフォーラム上で数か月間続きました。",
+          "ipa": "/ðə ˈkɑn.trə.ˈvɝ.siz səˈraʊn.dɪŋ ˈdaɪ.mənd ˈnɝfz ˈlæs.təd fɚ ˈmʌnθz ɑn ðə ˈfɔr.əmz/",
+          "linking": [
+            "months の末尾 /z/ が on の初頭 /ɑ/ に連結"
+          ],
+          "kana": "ザ コントラヴァーシーズ サラウンディング ダイアモンド ナーフズ ラステッド ファー マンツ アン ザ フォーラムズ"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "spark controversy",

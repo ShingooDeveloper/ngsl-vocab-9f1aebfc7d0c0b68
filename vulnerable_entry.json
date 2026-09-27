@@ -43,7 +43,64 @@
       "kana": "ザ フォートレス ディフェンシズ アー ヴァルネラブル アンド ウィル クラムブル アンダー アタック"
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more vulnerable",
+      "ipa": "/ˈmɔr ˈvʌlnərəbl/",
+      "examples": [
+        {
+          "en": "My base is more vulnerable to creeper explosions.",
+          "ja": "私の拠点はクリーパー爆発に対してより脆弱だ。",
+          "ipa": "/maɪ ˈbeɪs ɪz ˈmɔr ˈvʌlnərəbl tə ˈkripər ɪkˈsploʊʒənz/",
+          "linking": [
+            "is /ɪz/ が more /mɔr/ に隣接するが、z-m は子音・子音で連結なし",
+            "to は機能語として弱形 /tə/ で発音される"
+          ],
+          "kana": "マイ ベース イズ モア ヴァルネラブル トゥ クリーパー イクスプロージョンズ"
+        },
+        {
+          "en": "After losing my armor, I am more vulnerable in the darkness.",
+          "ja": "防具を失った後、私は暗闇でより脆弱だ。",
+          "ipa": "/ˈæftɚ ˈluzɪn maɪ ˈɑrmɚ aɪ əm ˈmɔr ˈvʌlnərəbl ɪn ðə ˈdɑrknəs/",
+          "linking": [
+            "am は弱形で /əm/ となり、I /aɪ/ から続く",
+            "the は弱形 /ðə/ で、darkness に続く"
+          ],
+          "kana": "アフター ルージン マイ アーマー アイ アム モア ヴァルネラブル イン ザ ダークネス"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most vulnerable",
+      "ipa": "/ˈmoʊst ˈvʌlnərəbl/",
+      "examples": [
+        {
+          "en": "The cave entrance is the most vulnerable place in our world.",
+          "ja": "洞窟の入り口は私たちの世界で最も脆弱な場所だ。",
+          "ipa": "/ðə ˈkeɪv ˈɛntrəns ɪz ðə ˈmoʊst ˈvʌlnərəbl ˈpleɪs ɪn ˈaʊɚ wɝld/",
+          "linking": [
+            "the は弱形 /ðə/ で、cave に続く（子音・子音で連結なし）",
+            "in の /n/ が our /ˈaʊɚ/ の初頭母音に連結される"
+          ],
+          "kana": "ザ ケイブ エントランス イズ ザ モウスト ヴァルネラブル プレイス イン アワー ワールド"
+        },
+        {
+          "en": "During a hostile mob attack, I felt the most vulnerable.",
+          "ja": "敵対的なモブ攻撃中、私は最も無防備を感じた。",
+          "ipa": "/ˈdjʊrɪŋ ə ˈhɑstəl ˈmɑb əˈtæk aɪ ˈfɛlt ðə ˈmoʊst ˈvʌlnərəbl/",
+          "linking": [
+            "a は機能語として弱形 /ə/ で、hostile に続く",
+            "the は弱形 /ðə/ で、vulnerable に続く（子音・子音で連結なし）"
+          ],
+          "kana": "ジュアリング ア ハースタル モブ アタック アイ フェルト ザ モウスト ヴァルネラブル"
+        }
+      ]
+    }
+  ],
   "idioms": [
     {
       "idiom": "vulnerable to",

@@ -38,7 +38,7 @@
       "ja": "レッドストーンリピーターはプレイヤーがレバーをアクティベートするたびに信号を放出します。",
       "ipa": "[ˈrɛdˌstoʊn rɪˈpitɚz ɪˈmɪt ə ˈsɪɡnəl ˈɛvri taɪm ðə ˈlɛvɚ ɪz ˈæktɪˌveɪtəd baɪ ə ˈpleɪɚ]",
       "linking": [
-        "a の弱形 /ə/ ア、every の初頭 /ɛ/ に連結 [ə ˈɛvri] ア エヴリ",
+        "a の弱形 /ə/ ア、every の初頭 /ɛ/ が続く（母音同士） [ə ˈɛvri] ア エヴリ",
         "the は弱形 /ðə/ ザ、is の弱形 /ɪz/ イズ",
         "by a では a の弱形 /ə/ ア"
       ],
@@ -371,6 +371,96 @@
             "for は弱形 /fɚ/ ファー、without は /wɪðˈaʊt/ ウィザウト"
           ],
           "kana": "ザウズ ビーコンズ ハヴ ビン イミッティング シグナルズ ファー デイズ ウィザウト スタッピング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will emit",
+      "ipa": "/wɪl ɪˈmɪt/",
+      "examples": [
+        {
+          "en": "Beacons will emit powerful light when activated at dawn.",
+          "ja": "ビーコンは夜明けにアクティベートされると強力な光を放出します。",
+          "ipa": "[ˈbikənz wɪl ɪˈmɪt ˈpaʊɚfəl laɪt wɛn ˈæktɪˌveɪtɪd æt dɔn]",
+          "linking": [
+            "will emit で /l/ が /ɪ/ に連結 [wɪl ɪˈmɪt] ウィル イミット",
+            "when activated で /n/ が /æ/ に連結 [wɛn ˈæktɪˌveɪtɪd] ウェン アクティベイティッド",
+            "at dawn では /t/ が /d/ に続く（子音+子音、未開放） [æt dɔn] アット ドーン"
+          ],
+          "kana": "ビーコンズ ウィル イミット パウアフル ライト ウェン アクティベイティッド アット ドーン"
+        },
+        {
+          "en": "The repeater will emit a redstone signal when powered by the circuit.",
+          "ja": "リピーターは回路に電力が供給されるとレッドストーン信号を放出します。",
+          "ipa": "[ðə rɪˈpitɚ wɪl ɪˈmɪt ə ˈrɛdˌstoʊn ˈsɪɡnəl wɛn ˈpaʊɚd baɪ ðə ˈsɝkɪt]",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "will emit で /l/ が /ɪ/ に連結 [wɪl ɪˈmɪt] ウィル イミット",
+            "a redstone で a は弱形 /ə/ ア、/r/ に連結 [ə ˈrɛdˌstoʊn] ア レッドストウン、by ðə では by は /baɪ/ バイ、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ リピーター ウィル イミット ア レッド ストウン シグナル ウェン パウアード バイ ザ サーキット"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be emitting",
+      "ipa": "/wɪl bi ɪˈmɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace will be emitting smoke while we craft new tools at the workbench.",
+          "ja": "作業台で新しい道具を作成している間、かまどは煙を放出し続けるでしょう。",
+          "ipa": "[ðə ˈfɝnɪs wɪl bi ɪˈmɪtɪŋ smoʊk waɪl wi kræft nu tulz æt ðə ˈwɝkˌbɛntʃ]",
+          "linking": [
+            "the は弱形 /ðə/ ザ、furnace の語末 /s/ に will の語末 /l/ が続く（子音+子音）",
+            "will be で /l/ が /b/ に続く、be は弱形 /bi/ ビ。be の語末 /i/ が emitting の初頭 /ɪ/ に続く [bi ɪˈmɪtɪŋ] ビ イミッティング",
+            "while we で /l/ が /w/ に続く（子音+子音）、we は /wi/ ウィー"
+          ],
+          "kana": "ザ ファーニス ウィル ビ イミッティング スモウク ワイル ウィー クラフト ニュー トゥールズ アット ザ ワークベンチ"
+        },
+        {
+          "en": "Glowstone will be emitting light throughout the entire night in our underground base.",
+          "ja": "グロウストーンは地下の基地で一晩中光を放出し続けるでしょう。",
+          "ipa": "[ˈɡloʊˌstoʊn wɪl bi ɪˈmɪtɪŋ laɪt θɹuˈaʊt ðə ənˈtaɪɚ naɪt ɪn aʊɚ ˈʌndɚˌɡɹaʊnd beɪs]",
+          "linking": [
+            "glowstone の語末 /n/ に will の語末 /l/ が続く（子音+子音）",
+            "will be で /l/ が /b/ に続く、be は弱形 /bi/ ビ、be の /i/ が emitting の /ɪ/ に続く [bi ɪˈmɪtɪŋ] ビ イミッティング",
+            "throughout は /θɹuˈaʊt/ スルーアウト、the entire では the は弱形 /ðə/ ザ、entire の /ɪ/ に連結 [ðə ənˈtaɪɚ] ザ インタイアー"
+          ],
+          "kana": "グロウ ストウン ウィル ビ イミッティング ライト スルーアウト ザ インタイアー ナイト イン アワー アンダーグラウンド ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have emitted",
+      "ipa": "/wɪl həv ɪˈmɪtɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, the torches will have emitted enough light for the entire tunnel.",
+          "ja": "明日までに、松明はトンネル全体に十分な光を放出しているでしょう。",
+          "ipa": "[baɪ təˈmɑɹoʊ ðə ˈtɔɹtʃɪz wɪl həv ɪˈmɪtɪd ɪˈnʌf laɪt fɚ ðə ˈɛntaɪɚ ˈtʌnəl]",
+          "linking": [
+            "the torches では the は弱形 /ðə/ ザ、torches の語末 /z/ に will の語末 /l/ が続く（子音+子音）",
+            "will have で /l/ が /h/ に続く（子音+子音、未開放）、have は弱形 /həv/ ハヴ。have の /v/ が emitted の /ɪ/ に連結 [həv ɪˈmɪtɪd] ハヴ イミッティッド",
+            "for the では for は弱形 /fɚ/ ファー、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ トゥモロウ ザ トーチィズ ウィル ハヴ イミッティッド イナフ ライト ファー ザ エンタイアー タンネル"
+        },
+        {
+          "en": "When you return to the base, the beacon will have emitted countless signals overhead.",
+          "ja": "基地に戻ったとき、ビーコンは頭上に数えきれないほどの信号を放出しているでしょう。",
+          "ipa": "[wɛn ju rɪˈtɝn tu ðə beɪs ðə ˈbikən wɪl həv ɪˈmɪtɪd ˈkaʊntləs ˈsɪɡnəlz ˈoʊvɚˌhɛd]",
+          "linking": [
+            "when you では /n/ が /j/ に続く（子音+子音）、you は /ju/ ユー",
+            "the base では the は弱形 /ðə/ ザ、to は弱形 /tə/ トゥ",
+            "will have で /l/ が /h/ に続く（子音+子音、未開放）、have は弱形 /həv/ ハヴ。have の /v/ が emitted の /ɪ/ に連結 [həv ɪˈmɪtɪd] ハヴ イミッティッド"
+          ],
+          "kana": "ウェン ユー リターン トゥ ザ ベイス ザ ビーコン ウィル ハヴ イミッティッド カウントレス シグナルズ オウバーヘッド"
         }
       ]
     }

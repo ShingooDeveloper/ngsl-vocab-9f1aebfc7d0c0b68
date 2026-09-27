@@ -345,6 +345,101 @@
           "kana": "ザ ウィザー ハズ ビン フリーイン フラム アワー アロウズ シンス ウィ トリガード イット"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will flee",
+      "ipa": "/wɪl fliː/",
+      "examples": [
+        {
+          "en": "The creeper will flee when we approach it.",
+          "ja": "クリーパーが私たちに近づくと、逃げる。",
+          "ipa": "/ðə ˈkriːpɚ wɪl fliː wɛn wi əˈproʊtʃ ɪt/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化",
+            "will が不安定形 /wɪl/ で発音。creeper will [ˈkriːpɚ wɪl] クリーパー ウィル",
+            "語末 /tʃ/ が母音 /ɪ/ に連結。approach it [əˈproʊtʃ ɪt] アプロウチ イット"
+          ],
+          "kana": "ザ クリーパー ウィル フリー ウェン ウィ アプロウチ イット"
+        },
+        {
+          "en": "We will flee to safety before the Wither arrives.",
+          "ja": "ウィザーが到達する前に、私たちは安全な場所に逃げるだろう。",
+          "ipa": "/wi wɪl fliː tu ˈseɪfti bɪˈfɔɹ ðə ˈwɪðɚ əˈraɪvz/",
+          "linking": [
+            "will が不安定形 /wɪl/ で発音。we will [wi wɪl] ウィ ウィル",
+            "機能語 to が弱形 /tu/ から /tə/ に弱化",
+            "機能語 the が弱形 /ðə/ に弱化",
+            "語末 /ɹ/ が母音 /ð/ に連結。before the [bɪˈfɔɹ ðə] ビフォー ザ"
+          ],
+          "kana": "ウィ ウィル フリー タ セイフティ ビフォー ザ ウィザー アライブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be fleeing",
+      "ipa": "/wɪl bi ˈfliːɪŋ/",
+      "examples": [
+        {
+          "en": "When dawn breaks, the hostile mobs will be fleeing underground.",
+          "ja": "夜明けになると、敵対的なモブたちは地下に逃げて行くだろう。",
+          "ipa": "/wɛn dɔn breɪks ðə ˈhoʊstaɪl moʊbz wɪl bi ˈfliːɪŋ ˌʌndɚˈɡraʊnd/",
+          "linking": [
+            "will が不安定形 /wɪl/ で発音。mobs will [moʊbz wɪl] モウブズ ウィル",
+            "be が弱形 /bi/ に弱化。will be [wɪl bi] ウィル ビー",
+            "機能語 the が弱形 /ðə/ に弱化",
+            "語末 /ŋ/ が母音 /ʌ/ に連結。fleeing underground [ˈfliːɪŋ ˌʌndɚˈɡraʊnd] フリーイング アンダーグラウンド"
+          ],
+          "kana": "ウェン ドーン ブレイクス ザ ホウスタイル モウブズ ウィル ビー フリーイング アンダーグラウンド"
+        },
+        {
+          "en": "If lava flows here, we'll be fleeing toward the water.",
+          "ja": "もし溶岩がここに流れ込んだら、私たちは水のほうに逃げることになるだろう。",
+          "ipa": "/ɪf ˈlɑvə floʊz hɪɚ wil bi ˈfliːɪŋ ˈtoʊwɚd ðə ˈwɔtɚ/",
+          "linking": [
+            "we'll = /wil/ （we will の縮約）。lava flows: /z/ + /h/ 子音連接。flows here [floʊz hɪɚ] フロウズ ヒアー",
+            "be が弱形 /bi/ に弱化。we'll be [wil bi] ウィル ビー",
+            "機能語 the が弱形 /ðə/ に弱化",
+            "語末 /ŋ/ が子音 /t/ に接する。fleeing toward: 子音連接で fleeing の /ŋ/ 未開放 [ˈfliːɪŋ̚ ˈtoʊwɚd] フリーイン トウワード"
+          ],
+          "kana": "イフ ラーバ フロウズ ヒアー ウィル ビー フリーイン トウワード ザ ウォーター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have fled",
+      "ipa": "/wɪl həv flɛd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have fled far from this location.",
+          "ja": "明日までに、私はこの場所から遠く逃げ去っているだろう。",
+          "ipa": "/baɪ təˈmɑɹoʊ aɪ wɪl həv flɛd fɑɹ frəm ðɪs ˈloʊˌkeɪʃən/",
+          "linking": [
+            "will が不安定形 /wɪl/ で発音。I will [aɪ wɪl] アイ ウィル",
+            "have が弱形 /həv/ に弱化。will have [wɪl həv] ウィル ハヴ",
+            "語末 /d/ が子音 /f/ に接する。fled from: 子音連接で fled の /d/ 未開放 [flɛd̚ frəm] フレッド フラム",
+            "機能語 from が弱形 /frəm/ に弱化"
+          ],
+          "kana": "バイ トゥモロウ アイ ウィル ハヴ フレッド ファー フラム ディス ロウケイション"
+        },
+        {
+          "en": "They will have fled before the explosion reaches them.",
+          "ja": "爆発が彼らに到達する前に、彼らは逃げ去っているだろう。",
+          "ipa": "/ðeɪ wɪl həv flɛd bɪˈfɔɹ ðə ɪkˈsploʊʒən ˈritʃəz ðɛm/",
+          "linking": [
+            "will が不安定形 /wɪl/ で発音。they will [ðeɪ wɪl] ザイ ウィル",
+            "have が弱形 /həv/ に弱化。will have [wɪl həv] ウィル ハヴ",
+            "語末 /d/ が子音 /b/ に接する。fled before: 子音連接で fled の /d/ 未開放 [flɛd̚ bɪˈfɔɹ] フレッド ビフォー",
+            "機能語 the が弱形 /ðə/ に弱化。reaches の語末 /z/ が母音 /ð/ に連結"
+          ],
+          "kana": "ザイ ウィル ハヴ フレッド ビフォー ザ イクスプロウジョン リーチェズ ザム"
+        }
+      ]
     }
   ]
 }

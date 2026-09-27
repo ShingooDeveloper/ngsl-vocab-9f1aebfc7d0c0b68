@@ -457,13 +457,103 @@
           "linking": [
             "had は弱形 /həd/ に弱化",
             "been は弱形 /bɪn/ に弱化",
-            "faking の末尾 /ŋ/ が our の /aʊ/ に続く（鼻音+子音）[ˈfeɪkɪŋ aʊr]",
+            "faking の末尾 /ŋ/ が our の /aʊ/ に続く（鼻音+母音）[ˈfeɪkɪŋ aʊr]",
             "in は弱形 /ɪn/",
             "the は弱形 /ðə/ ザ",
             "since の末尾 /s/ が last の /l/ に続く（子音+子音）",
             "last の末尾 /t/ が season の /s/ に続く（子音+子音）"
           ],
           "kana": "ウィ ハド ビン フェイキング アワー コーディネッツ イン ザ レッドストーン ラボラトリー シンス ラスト シーズン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has faked",
+      "ipa": "/həz ˈfeɪkt/",
+      "examples": [
+        {
+          "en": "I have faked the map coordinates to trick the raiders.",
+          "ja": "レイダーをだますために地図座標を装いました。",
+          "ipa": "/aɪ həv ˈfeɪkt ðə ˈmæp koʊˈɔrdənɛts tu ˈtrɪk ðə ˈreɪdərz/",
+          "linking": [
+            "have は弱形 /həv/ に弱化 [ハヴ]",
+            "faked の末尾 /t/ が the の /ð/ に続く（子音+子音）[ˈfeɪkt ðə] フェイクト ザ",
+            "to は弱形 /tə/ に弱化（機能語）"
+          ],
+          "kana": "アイ ハヴ フェイクト ザ マップ コーディネッツ タ トリック ザ レイダーズ"
+        },
+        {
+          "en": "They have faked their ranks to access the exclusive vault.",
+          "ja": "彼らは排他的なボルトにアクセスするために彼らのランクを装っています。",
+          "ipa": "/ðeɪ həv ˈfeɪkt ðɛr ˈræŋks tu ˈæksɛs ðə ɪkˈsklusɪv ˈvɔlt/",
+          "linking": [
+            "they は /ðeɪ/、have は弱形 /həv/ に弱化 [ザイ ハヴ]",
+            "faked の末尾 /t/ が their の /ð/ に続く（子音+子音）[ˈfeɪkt ðɛr] フェイクト ザル",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ザイ ハヴ フェイクト ザル ランクス タ アクセス ザ イクスクルーシブ ボルト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had faked",
+      "ipa": "/həd ˈfeɪkt/",
+      "examples": [
+        {
+          "en": "After he had faked his health status, the server discovered the lie.",
+          "ja": "彼が健康状態を装った後、サーバーは嘘を発見しました。",
+          "ipa": "/ˈæftər hi həd ˈfeɪkt hɪz ˈhɛlθ ˈsteɪtəs ðə ˈsɚvɚ dɪsˈkʌvərd ðə ˈlaɪ/",
+          "linking": [
+            "had は弱形 /həd/ に弱化 [ハド]",
+            "faked の末尾 /t/ が his の /h/ に続く（子音+子音）[ˈfeɪkt hɪz] フェイクト ヒズ",
+            "discovered の /d/ が the の /ð/ に続く（子音+子音）[dɪsˈkʌvərd ðə]"
+          ],
+          "kana": "アフター ヒー ハド フェイクト ヒズ ヘルス ステイタス ザ サーバー ディスカバード ザ ライ"
+        },
+        {
+          "en": "She had faked building progress before the leader inspected the base.",
+          "ja": "リーダーがベースを検査する前に、彼女は建設進捗を装っていました。",
+          "ipa": "/ʃi həd ˈfeɪkt ˈbɪldɪŋ ˈprɑɡrɛs bɪˈfɔr ðə ˈlidər ɪnˈspɛktɪd ðə ˈbeɪs/",
+          "linking": [
+            "had は弱形 /həd/ に弱化 [ハド]",
+            "faked の末尾 /t/ が building の /b/ に続く（子音+子音）[ˈfeɪkt ˈbɪldɪŋ] フェイクト ビルディング",
+            "before の末尾 /r/ と leader の /l/ が続く（子音+子音）[bɪˈfɔr ðə ˈlidər]"
+          ],
+          "kana": "シー ハド フェイクト ビルディング プログレス ビフォア ザ リーダー インスペクティド ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been faking",
+      "ipa": "/həz bɪn ˈfeɪkɪŋ/",
+      "examples": [
+        {
+          "en": "He has been faking his skill level during the tournament.",
+          "ja": "トーナメント中、彼は自分のスキルレベルを装い続けています。",
+          "ipa": "/hi həz bɪn ˈfeɪkɪŋ hɪz ˈskɪl ˈlɛvəl ˈdʊrɪŋ ðə ˈtɚnəmənt/",
+          "linking": [
+            "has は弱形 /həz/ に弱化 [ハズ]、been は弱形 /bɪn/ に弱化 [ビン]",
+            "faking の末尾 /ŋ/ が his の /h/ に続く（鼻音+子音）[ˈfeɪkɪŋ hɪz] フェイキング ヒズ",
+            "the は弱形 /ðə/ に弱化 [ザ]"
+          ],
+          "kana": "ヒー ハズ ビン フェイキング ヒズ スキル レベル デューリング ザ トーナメント"
+        },
+        {
+          "en": "The raiders have been faking friendliness to infiltrate our community.",
+          "ja": "レイダーはコミュニティに潜入するために友好を装い続けています。",
+          "ipa": "/ðə ˈreɪdərz həv bɪn ˈfeɪkɪŋ ˈfrɛndlinəs tu ɪnˈfɪltreɪt ˈaʊər kəˈmjunəti/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 [ザ]、have は弱形 /həv/ に弱化 [ハヴ]、been は弱形 /bɪn/ に弱化 [ビン]",
+            "faking の末尾 /ŋ/ が friendliness の /f/ に続く（鼻音+子音）[ˈfeɪkɪŋ ˈfrɛndlinəs] フェイキング フレンドリネス",
+            "to は弱形 /tə/ に弱化"
+          ],
+          "kana": "ザ レイダーズ ハヴ ビン フェイキング フレンドリネス タ インフィルトレイト アワー コミュニティ"
         }
       ]
     }

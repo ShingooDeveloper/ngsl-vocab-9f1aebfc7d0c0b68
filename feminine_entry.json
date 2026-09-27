@@ -74,5 +74,71 @@
       "kana": "シー ディザインド ザ キャスル ウィズ ア フェミニン スタイル ユージング ソフト カラーズ アン カーブド ウォールズ"
     }
   ],
-  "tags": ["Target 1900"]
+  "tags": ["Target 1900"],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more feminine",
+      "ipa": "/moʊr ˈfɛmənɪn/",
+      "examples": [
+        {
+          "en": "This design is more feminine with soft pastel colors and curved archways.",
+          "ja": "このデザインは淡いパステル色と曲線的なアーチ型で、もっと女性らしいです。",
+          "ipa": "[ðɪs dɪˈzaɪn ɪz moʊr ˈfɛmənɪn wɪð ˈsɔft pæˈstɛl ˈkʌlɚz ənd ˈkɝrvd ˈɑrtʃweɪz]",
+          "linking": [
+            "design is - design の語末 /n/ が is の頭の /ɪ/ に連結 [dɪˈzaɪn ɪz] ディザイン イズ",
+            "is more - is の語末 /z/ が more の子音 /m/ に続く（子音+子音、未開放）イズ モー",
+            "more feminine - more の語末 /r/ が feminine の子音 /f/ に続く（r+子音）モー フェミニン",
+            "and curved - and の弱形 /ən/ が curved の子音 /k/ に続く アン カーブド"
+          ],
+          "kana": "ディス ディザイン イズ モー フェミニン ウィズ ソフト パステル カラーズ アン カーブド アーチウェイズ"
+        },
+        {
+          "en": "Her new character is much more feminine with a pink dress and longer hair.",
+          "ja": "彼女の新しいキャラクターはピンクのドレスと長い髪でもっと女性らしいです。",
+          "ipa": "[hɚ ˈnu ˈkɛɹəktɚ ɪz mʌtʃ moʊr ˈfɛmənɪn wɪð ə ˈpɪŋk ˈdɹɛs ənd ˈlɔŋɡɚ ˈhɛɹ]",
+          "linking": [
+            "character is - character の語末 /r/ が is の頭の /ɪ/ に連結 [ˈkɛɹəktɚ ɪz] キャラクター イズ",
+            "much more - much の語末 /tʃ/ が more の子音 /m/ に続く（子音+子音、未開放）マッチ モー",
+            "more feminine - more の語末 /r/ が feminine の子音 /f/ に続く モー フェミニン",
+            "with a - with の語末 /θ/ が a の弱形 /ə/ に連結 [wɪðə] ウィザ"
+          ],
+          "kana": "ハー ニュー キャラクター イズ マッチ モー フェミニン ウィザ ピンク ドレス アン ロンガー ヘア"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most feminine",
+      "ipa": "/moʊst ˈfɛmənɪn/",
+      "examples": [
+        {
+          "en": "That's the most feminine castle we've built, with elegant towers and delicate details.",
+          "ja": "それは我々が作った最も女性らしいお城です。優雅な塔と繊細なディテールを備えています。",
+          "ipa": "[ðæts ðə ˈmoʊst ˈfɛmənɪn ˈkæsəl wiv ˈbɪlt wɪð ˈɛləɡənt ˈtaʊɚz ənd ˈdɛlɪkət ˈditeɪlz]",
+          "linking": [
+            "the most - the の弱形 /ðə/ が most の子音 /m/ に続く（子音+子音）ザ モウスト",
+            "most feminine - most の語末 /t/ が feminine の子音 /f/ に続く（子音+子音、未開放）モウスト フェミニン",
+            "elegant towers - elegant の語末 /t/ が towers の子音 /t/ に続く（子音+子音、未開放）エレガント タワーズ",
+            "and delicate - and の弱形 /ən/ が delicate の子音 /d/ に続く アン デリケット"
+          ],
+          "kana": "ザッツ ザ モウスト フェミニン キャスル ウィヴ ビルト ウィズ エレガント タワーズ アン デリケット ディテイルズ"
+        },
+        {
+          "en": "This is the most feminine design choice with flowers, soft colors, and round shapes.",
+          "ja": "これは花や柔らかい色と丸い形で、最も女性らしいデザインの選択です。",
+          "ipa": "[ðɪs ɪz ðə ˈmoʊst ˈfɛmənɪn dɪˈzaɪn ˈtʃɔɪs wɪð ˈflaʊɚz ˈsɔft ˈkʌlɚz ənd ˈɹaʊnd ˈʃeɪpz]",
+          "linking": [
+            "is the - is の語末 /z/ が the の弱形 /ðə/ に連結 [ɪz ðə] イズ ザ",
+            "the most - the の弱形 /ðə/ が most の子音 /m/ に続く ザ モウスト",
+            "most feminine - most の語末 /t/ が feminine の子音 /f/ に続く（子音+子音、未開放）モウスト フェミニン",
+            "and round - and の弱形 /ən/ が round の子音 /r/ に続く アン ラウンド"
+          ],
+          "kana": "ディス イズ ザ モウスト フェミニン ディザイン チョイス ウィズ フラウアーズ ソフト カラーズ アン ラウンド シェイプス"
+        }
+      ]
+    }
+  ]
 }

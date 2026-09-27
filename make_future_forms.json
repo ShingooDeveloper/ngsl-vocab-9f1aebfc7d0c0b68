@@ -1,0 +1,98 @@
+[
+  {
+    "type": "future",
+    "label": "単純未来形（will + 動詞原形）",
+    "text": "will make",
+    "ipa": "/wɪl ˈmeɪk/",
+    "examples": [
+      {
+        "en": "I'll make a crafting table and some chests for storing valuable resources.",
+        "ja": "貴重なリソースを保存するために、クラフトテーブルといくつかのチェストを作ります。",
+        "ipa": "/aɪl ˈmeɪk ə ˈkræftɪŋ ˈteɪbəl ənd səm ˈtʃɛsts fɚ ˈstɔrɪŋ ˈvæljəbəl ˈrɛsɚsɪz/",
+        "linking": [
+          "I'll make → /l/ + /m/ (子音+子音、連結なし)、I'll は縮約形 /aɪl/、make は /ˈmeɪk/",
+          "a crafting → a は弱形 /ə/、/ə/ + /k/ (母音+子音、連結なし)",
+          "and some → and は弱形 /ənd/、/d/ + /s/ (子音+子音、連結なし)",
+          "for storing → for は弱形 /fɔr/、/r/ + /s/ (子音+子音、連結なし)"
+        ],
+        "kana": "アイル メイク ア クラフティング テイブル アンド サム チェスツ ファー ストーリング ヴァリュアブル リソーシーズ"
+      },
+      {
+        "en": "We'll make an underground farm to produce food for the whole server community.",
+        "ja": "サーバー全体のコミュニティのための食料を生産するために、地下農場を作ります。",
+        "ipa": "/wil ˈmeɪk ən ˌʌndɚˈɡraʊnd ˈfɑːrm tu prəˈdjuːs ˈfuːd fɚ ðə ˈhoʊl ˈsɝːvɚ kəˈmjuːnɪti/",
+        "linking": [
+          "We'll make → We'll は縮約形 /wil/、/l/ + /m/ (子音+子音、連結なし)",
+          "an underground → an は弱形 /ən/、/n/ + /ʌ/ (子音+母音、連結なし)、underground の /d/ が /f/ に続く",
+          "to produce → to は弱形 /tə/、/tə/ + /p/ (子音+子音、連結なし)",
+          "for the → for は弱形 /fɚ/、the は弱形 /ðə/"
+        ],
+        "kana": "ウィル メイク アン アンダーグラウンド ファーム トゥ プロジュース フード ファー ダ ホウル サーバー コミュニティ"
+      }
+    ]
+  },
+  {
+    "type": "future_progressive",
+    "label": "未来進行形（will be + -ing）",
+    "text": "will be making",
+    "ipa": "/wɪl bi ˈmeɪkɪŋ/",
+    "examples": [
+      {
+        "en": "At this time tomorrow, Steve will be making the final adjustments to the redstone door.",
+        "ja": "明日のこの時間に、スティーブはレッドストーンドアの最終調整を行っているでしょう。",
+        "ipa": "/æt ðɪs ˈtaɪm təˈmɑːroʊ | ˈstɪv wɪl bi ˈmeɪkɪŋ ðə ˈfaɪnəl əˈdʒʌstmənts tu ðə ˈrɛdˌstoʊn ˈdɔːr/",
+        "linking": [
+          "At this → /t/ + /ð/ (子音+子音、連結なし)、this は /ðɪs/",
+          "time tomorrow → /m/ + /t/ (子音+子音、連結なし)、tomorrow は /təˈmɑːroʊ/",
+          "will be → will は /wɪl/、/l/ + /b/ (子音+子音、連結なし)、be は弱形 /bi/",
+          "the final → the は弱形 /ðə/、/ə/ + /f/ (母音+子音、連結なし)、final は /ˈfaɪnəl/"
+        ],
+        "kana": "アット ディス タイム トゥモロウ、スティーヴ ウィル ビ メイキング ダ ファイナル アジャストメンツ トゥ ダ レッドストーン ドアー"
+      },
+      {
+        "en": "They'll be making enchanted weapons while the mobs are spawning outside the fortress walls.",
+        "ja": "モブが要塞の壁の外にスポーンしている間に、彼らはエンチャント済み武器を作るでしょう。",
+        "ipa": "/ðeɪl bi ˈmeɪkɪŋ ɛnˈtʃɑːntɪd ˈwɛpənz waɪl ðə ˈmoʊbz ɑːr ˈspoːnɪŋ ˌaʊtˈsaɪd ðə ˈfɔːrtrəs wɔːlz/",
+        "linking": [
+          "They'll be → They'll は縮約形 /ðeɪl/、/l/ + /b/ (子音+子音、連結なし)、be は弱形 /bi/",
+          "the mobs → the は弱形 /ðə/、/ə/ + /m/ (母音+子音、連結なし)、mobs は /ˈmoʊbz/",
+          "outside the → /d/ + /ð/ (子音+子音、連結なし)、the は弱形 /ðə/",
+          "fortress walls → /s/ + /w/ (子音+子音、連結なし)"
+        ],
+        "kana": "ゼイル ビ メイキング エンチャンティド ウェポンズ ワイル ダ モブズ アー スポーニング アウトサイド ダ フォートレス ウォールズ"
+      }
+    ]
+  },
+  {
+    "type": "future_perfect",
+    "label": "未来完了形（will have + 過去分詞）",
+    "text": "will have made",
+    "ipa": "/wɪl həv ˈmeɪd/",
+    "examples": [
+      {
+        "en": "By the end of next week, we will have made enough torches to light up the entire cave system.",
+        "ja": "来週の終わりまでに、私たちはケーブシステム全体を照らすのに十分な松明を作るでしょう。",
+        "ipa": "/baɪ ðə ɛnd əv ˈnɛkst ˈwiːk | wi wɪl həv ˈmeɪd ɪˈnʌf ˈtɔːrtʃɪz tu ˈlaɪt ʌp ðə ənˈtaɪɚ ˈkeɪv ˈsɪstəm/",
+        "linking": [
+          "By the → the は弱形 /ðə/、/ə/ + /ɛ/ (母音+母音、連結なし)",
+          "of next → of は弱形 /əv/、/v/ + /n/ (子音+子音、連結なし)",
+          "will have → will は弱化 /wɪl/、/l/ + /h/ (子音+子音、連結なし)、have は弱形 /həv/",
+          "to light → to は弱形 /tə/、/tə/ + /l/ (子音+子音、連結なし)"
+        ],
+        "kana": "バイ ダ エンド アヴ ネクスト ウィーク、ウィ ウィル ハヴ メイド イナフ トーチーズ トゥ ライト アップ ダ エンタイア ケイヴ システム"
+      },
+      {
+        "en": "He'll have made a complete diamond armor set before the server's next major update.",
+        "ja": "サーバーの次の大きなアップデートの前に、彼は完全なダイヤアーマーセットを作るでしょう。",
+        "ipa": "/hil həv ˈmeɪd ə kəmˈpliːt ˈdaɪəmənd ˈɑːrmɚ ˈsɛt bɪˈfɔːr ðə ˈsɝːvɚz ˈnɛkst ˈmeɪdʒɚ ʌpˈdeɪt/",
+        "linking": [
+          "He'll have → He'll は縮約形 /hil/、/l/ + /h/ (子音+子音、連結なし)、have は弱形 /həv/",
+          "a complete → a は弱形 /ə/、/ə/ + /k/ (母音+子音、連結なし)",
+          "before the → before は /bɪˈfɔːr/、/r/ が /ð/ に続く（未開放傾向）、the は弱形 /ðə/",
+          "server's next → /z/ + /n/ (子音+子音、連結なし)"
+        ],
+        "kana": "ヒル ハヴ メイド ア コンプリート ダイアマンド アーマー セット ビフォア ダ サーバーズ ネクスト メイジャー アップデイト"
+      }
+    ]
+  }
+]

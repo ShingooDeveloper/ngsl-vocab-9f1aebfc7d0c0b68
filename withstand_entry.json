@@ -359,6 +359,90 @@
           "kana": "アワー キャッスル ウォールズ ハヴ ビン ウィズスタンディング レイズ シンス ザ サーバー ファースト スターティド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will withstand",
+      "ipa": "/wɪl wɪðˈstænd/",
+      "examples": [
+        {
+          "en": "This obsidian base will withstand any explosion.",
+          "ja": "この黒曜石のベースはどんな爆発にも耐えます。",
+          "ipa": "/ðɪs ɑbˈsɪdiən ˈbeɪs wəl wɪðˈstændɛni ɪkˈsploʊʒən/",
+          "linking": [
+            "「will」：機能詞の弱形 /wəl/",
+            "「withstand any」：語末子音 /d/ が母音 /ɛ/ に連結 [wɪðˈstændɛni]"
+          ],
+          "kana": "ディス オプシディアン ベイス ウル ウィズスタンデニー イクスプロウジェン"
+        },
+        {
+          "en": "Players will withstand the Wither's most powerful attacks.",
+          "ja": "プレイヤーたちはウィザーの最も強力な攻撃に耐えます。",
+          "ipa": "/ˈpleɪərz wəl wɪðˈstænd̚ ðə ˈwɪðərz ˈmoʊs̚t ˈpaʊərfəl əˈtæks/",
+          "linking": [
+            "「will」：機能詞の弱形 /wəl/",
+            "「withstand the」：語末子音 /d/ が未開放で次の有声音 /ð/ に先行 [wɪðˈstænd̚ ðə]、the は冠詞の弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ ウル ウィズスタンド ザ ウィザーズ モウスト パワーフル アタックス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be withstanding",
+      "ipa": "/wɪl bi wɪðˈstændɪŋ/",
+      "examples": [
+        {
+          "en": "This wall will be withstanding creeper explosions all night.",
+          "ja": "この壁は夜中ずっとクリーパーの爆発に耐え続けるでしょう。",
+          "ipa": "/ðɪs wɔl wəl bi wɪðˈstændɪŋ ˈkɹiːpər ɪkˈsploʊʒənz ˈɔl ˈnaɪt/",
+          "linking": [
+            "「will」：機能詞の弱形 /wəl/",
+            "「be」：助動詞の弱形 /bi/"
+          ],
+          "kana": "ディス ウォール ウル ビ ウィズスタンディング クリーパー イクスプロウジェンズ オール ナイト"
+        },
+        {
+          "en": "We'll be withstanding the raid while our allies defend the perimeter.",
+          "ja": "私たちの同盟国が周囲を守っている間、私たちはレイドに耐え続けます。",
+          "ipa": "/wil bi wɪðˈstændɪŋ ðə ˈɹeɪd waɪl ˈaʊɚ ˈælaɪz dɪˈfɛnd ðə pəˈrɪmətər/",
+          "linking": [
+            "「we'll」：will の縮約形 /wil/",
+            "「the」：冠詞の弱形 /ðə/"
+          ],
+          "kana": "ウィル ビ ウィズスタンディング ザ レイド ワイル アワー アライズ ディフェンド ザ パリミター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have withstood",
+      "ipa": "/wɪl hæv wɪðˈstʊd/",
+      "examples": [
+        {
+          "en": "By tomorrow, obsidian will have withstood countless explosions.",
+          "ja": "明日までに、黒曜石は無数の爆発に耐えています。",
+          "ipa": "/baɪ təˈmɑɹoʊ ɑbˈsɪdiən wəl əv wɪðˈstʊd ˈkaʊn̚tləs ɪkˈsploʊʒənz/",
+          "linking": [
+            "「will have」：will は弱形 /wəl/、have も弱形 /əv/",
+            "「countless explosions」：countless の語末 /t/ が未開放で、explosions に先行"
+          ],
+          "kana": "バイ トゥモロウ オプシディアン ウル アヴ ウィズスツッド カウンレス イクスプロウジェンズ"
+        },
+        {
+          "en": "The fortress will have withstood the raid long before you arrive.",
+          "ja": "要塞はあなたが到着するずっと前にレイドに耐えている。",
+          "ipa": "/ðə ˈfɔɹtrɪs wəl əv wɪðˈstʊd ðə ˈɹeɪd lɔŋ bɪˈfɔɹ ju əˈɹaɪv/",
+          "linking": [
+            "「will have」：will は弱形 /wəl/、have も弱形 /əv/",
+            "「the」：冠詞の弱形 /ðə/"
+          ],
+          "kana": "ザ フォートリス ウル アヴ ウィズスツッド ザ レイド ロング ビフォア ユー アライヴ"
+        }
+      ]
     }
   ]
 }

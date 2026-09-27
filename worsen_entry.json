@@ -268,6 +268,188 @@
           "kana": "ザ ケイヴ ダークネス ハド ビン ワースニング アウアー モウラル アンティル ウィー ファウンド ダイアモンズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has worsened",
+      "ipa": "/həz ˈwɝsənd/",
+      "examples": [
+        {
+          "en": "Your hunger has worsened since we stopped to mine those diamonds.",
+          "ja": "あなたの飢えはあれらのダイヤモンドを採掘するために止まって以来、悪化しました。",
+          "ipa": "/jɔr ˈhʌŋɡər həz ˈwɝsənd sɪns wi stɑpt tə maɪn ðoʊz ˈdaɪəmɑndz/",
+          "linking": [
+            "hunger の /r/ が has の弱形 /həz/ に連結 [ˈhʌŋɡər həz ˈwɝsənd] ハンガー ハズ ワースンド",
+            "since は /sɪns/ シンス、stopped の /t/ が to の弱形 /tə/ に未開放 [stɑpt tə] ストップ タ",
+            "those は /ðoʊz/ ドウズ、diamonds は /ˈdaɪəmɑndz/ ダイアモンズ"
+          ],
+          "kana": "ユアー ハンガー ハズ ワースンド シンス ウィー スタップ タ マイン ドウズ ダイアモンズ"
+        },
+        {
+          "en": "The situation has worsened significantly after that creeper explosion.",
+          "ja": "あのクリーパー爆発の後、状況は大幅に悪化しました。",
+          "ipa": "/ðə ˌsɪtʃuˈeɪʃən həz ˈwɝsənd sɪɡˈnɪfɪkəntli ˈæftər ðæt ˈkripər ɪkˈsploʊʒən/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、situation の /n/ が has の弱形 /həz/ に連結 [ˌsɪtʃuˈeɪʃən həz ˈwɝsənd] シチュエーション ハズ ワースンド",
+            "after は /ˈæftər/ アフター、that は /ðæt/ ザット",
+            "creeper の /r/ が explosion の弱形に先行 [ˈkripər ɪkˈsploʊʒən] クリーパー イクスプロウジャン"
+          ],
+          "kana": "ザ シチュエーション ハズ ワースンド シグニフィカントリー アフター ザット クリーパー イクスプロウジャン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had worsened",
+      "ipa": "/həd ˈwɝsənd/",
+      "examples": [
+        {
+          "en": "The armor durability had worsened by the time we escaped the lava.",
+          "ja": "私たちが溶岩から逃げた時までに、防具の耐久性は悪化していました。",
+          "ipa": "/ðə ˈɑrmər ˌduːrəˈbɪlədi həd ˈwɝsənd baɪ ðə taɪm wi ɪˈskeɪpt ðə ˈlɑvə/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、durability の /i/ が had の弱形 /həd/ に連結 [ˌduːrəˈbɪlədi həd ˈwɝsənd] デュアラビリティー ハド ワースンド",
+            "time の /m/ が we の弱形 /wi/ に先行、time の /m/ がwの先行子音に連結 [taɪm wi] タイム ウィー",
+            "the は定冠詞で弱形 /ðə/"
+          ],
+          "kana": "ザ アーマー デュアラビリティー ハド ワースンド バイ ザ タイム ウィー イスケイプト ザ ラバ"
+        },
+        {
+          "en": "The cave conditions had worsened drastically before we realized we were lost.",
+          "ja": "私たちが迷ったことに気付く前に、洞窟の状況は急激に悪化していました。",
+          "ipa": "/ðə ˈkeɪv kənˈdɪʃənz həd ˈwɝsənd ˈdræstɪkli bɪˈfɔr wi rɪˈælɪzd wi wɚ lɔst/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、conditions の /z/ が had の弱形 /həd/ に連結 [kənˈdɪʃənz həd ˈwɝsənd] コンディションズ ハド ワースンド",
+            "before は /bɪˈfɔr/ ビフォア、realized の /d/ が we の弱形 /wi/ に先行 [rɪˈælɪzd wi] リアライズド ウィー",
+            "were は /wɚ/ ウェア"
+          ],
+          "kana": "ザ ケイヴ コンディションズ ハド ワースンド ドラスティックリー ビフォア ウィー リアライズド ウィー ワー ロスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been worsening",
+      "ipa": "/həz bɪn ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The server lag has been worsening ever since the last update.",
+          "ja": "最後の更新以来、サーバーラグはずっと悪化し続けています。",
+          "ipa": "/ðə ˈsɝvɚ læɡ həz bɪn ˈwɝsənɪŋ ˈɛvər sɪns ðə læst ˈʌpdeɪt/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、lag の /ɡ/ が has の弱形 /həz/ に連結 [læɡ həz bɪn ˈwɝsənɪŋ] ラッグ ハズ ビン ワースニング",
+            "been は弱形 /bɪn/、worsening の /ɪ/ に連結 [bɪn ˈwɝsənɪŋ] ビン ワースニング",
+            "since は /sɪns/ シンス、last は /læst/ ラスト"
+          ],
+          "kana": "ザ サーバー ラッグ ハズ ビン ワースニング エヴァー シンス ザ ラスト アップデイト"
+        },
+        {
+          "en": "The darkness has been worsening as we dig deeper into the cave system.",
+          "ja": "洞窟システムの奥深くに掘り進むにつれ、暗さはずっと悪化し続けています。",
+          "ipa": "/ðə ˈdɑrknəs həz bɪn ˈwɝsənɪŋ æz wi dɪɡ ˈdipər ˈɪntu ðə ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ [ザ]、darkness の /s/ が has の弱形 /həz/ に連結 [ˈdɑrknəs həz bɪn ˈwɝsənɪŋ] ダークネス ハズ ビン ワースニング",
+            "been は弱形 /bɪn/、worsening の /ɪ/ に連結 [bɪn ˈwɝsənɪŋ] ビン ワースニング",
+            "dig の /ɡ/ が deeper の /d/ に先行、deeper は /ˈdipər/ ディーパー [dɪɡ ˈdipər] ディッグ ディーパー",
+            "into は /ˈɪntu/ インツー、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ダークネス ハズ ビン ワースニング アズ ウィー ディッグ ディーパー インツー ザ ケイヴ システム"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will worsen",
+      "ipa": "/wɪl ˈwɝsən/",
+      "examples": [
+        {
+          "en": "If we don't repair our tools, the durability will worsen rapidly.",
+          "ja": "我々が道具を修理しなければ、耐久性は急速に悪化するだろう。",
+          "ipa": "/ɪf wi ˈdoʊnt rɪˈpɛr aʊɚ tulz ðə ˌduːrəˈbɪlədi wɪl ˈwɝsən ˈræpɪdli/",
+          "linking": [
+            "if /ɪf/ の語末 /f/ が we /wi/ の母音に連結 [ɪf wi] イフ ウィー",
+            "don't /ˈdoʊnt/ の語末 /t/ が repair /rɪˈpɛr/ の母音に未開放で連結 [doʊn̚t rɪˈpɛr] ドウント リペア",
+            "repair の語末 /r/ が our /aʊɚ/ の母音に連結 [rɪˈpɛr aʊɚ] リペア アウアー",
+            "the は定冠詞で弱形 /ðə/、will は縮約 I'll/you'll/we'll に含まれることが多い"
+          ],
+          "kana": "イフ ウィー ドウント リペア アウアー ツールズ ザ デュアラビリティー ウィル ワースン ラピッドリー"
+        },
+        {
+          "en": "They'll say the situation will worsen without immediate action.",
+          "ja": "彼らは状況は即座の行動なしに悪化するだろうと言うでしょう。",
+          "ipa": "/ðeɪl ˈseɪ ðə ˌsɪtʃuˈeɪʃən wɪl ˈwɝsən wɪðˈaʊt ɪˈmiːdʒət ˈækʃən/",
+          "linking": [
+            "They /ðeɪ/ が'll /əl/ に縮約 [ðeɪl ˈseɪ] ゼイル セイ",
+            "the は定冠詞で弱形 /ðə/、situation /ˌsɪtʃuˈeɪʃən/ の母音に連結 [ðə ˌsɪtʃu] ザ シチュ",
+            "without /wɪðˈaʊt/ の語末 /t/ が immediate /ɪˈmiːdʒət/ の母音に未開放で [wɪðaʊn̚t ɪˈmiːdʒət] ウィザウト イミーディット"
+          ],
+          "kana": "ゼイル セイ ザ シチュエーション ウィル ワースン ウィザウト イミーディット アクション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be worsening",
+      "ipa": "/wɪl bi ˈwɝsənɪŋ/",
+      "examples": [
+        {
+          "en": "The server lag will be worsening during peak hours tomorrow.",
+          "ja": "明日のピーク時間中、サーバーラグが悪化し続けるだろう。",
+          "ipa": "/ðə ˈsɝvɚ læɡ wɪl bi ˈwɝsənɪŋ ˈduːrɪŋ pik ˈaʊɚz təˈˈmɑroʊ/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/、lag /læɡ/ の語末 /ɡ/ が will の弱形に先行 [ðə ˈsɝvɚ læɡ wɪl] ザ サーバー ラッグ ウィル",
+            "be は弱形 /bi/ が worsening /ˈwɝsənɪŋ/ に連結 [bi ˈwɝsənɪŋ] ビ ワースニング",
+            "during /ˈduːrɪŋ/ の語末鼻音 /ŋ/ が peak /pik/ の子音に先行 [ˈduːrɪŋ pik] デュアリング ピーク"
+          ],
+          "kana": "ザ サーバー ラッグ ウィル ビ ワースニング デュアリング ピーク アウアーズ トゥモウロー"
+        },
+        {
+          "en": "Our food supply will be worsening as we spend more days underground.",
+          "ja": "地下で過ごす日数が増えるにつれ、私たちの食料供給が悪化し続けるだろう。",
+          "ipa": "/aʊɚ ˈfud səˈplaɪ wɪl bi ˈwɝsənɪŋ æz wi spɛnd mɔr deɪz ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "our /aʊɚ/ の語末 /r/ が food /fud/ の子音に先行、food の /d/ が supply の弱形に先行 [aʊɚ ˈfud səˈplaɪ] アウアー フード サプライ",
+            "will /wɪl/ は縮約形 we'll に含まれる、be /bi/ が worsening に連結 [wɪl bi ˈwɝsənɪŋ] ウィル ビ ワースニング",
+            "spend /spɛnd/ の語末 /d/ が more /mɔr/ の母音に連結 [spɛnd mɔr] スペンド モア"
+          ],
+          "kana": "アウアー フード サプライ ウィル ビ ワースニング アズ ウィー スペンド モア デイズ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have worsened",
+      "ipa": "/wɪl həv ˈwɝsənd/",
+      "examples": [
+        {
+          "en": "By the time we reach the base, our armor will have worsened significantly.",
+          "ja": "我々がベースに到達するまでに、私たちの防具は大幅に悪化しているだろう。",
+          "ipa": "/baɪ ðə taɪm wi ritʃ ðə ˈbeɪs aʊɚ ˈɑrmər wɪl həv ˈwɝsənd sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "By /baɪ/ の語末 /i/ が the /ðə/ に先行、the は弱形 [baɪ ðə] バイ ザ",
+            "reach /ritʃ/ の語末 /tʃ/ が the /ðə/ に連結 [ritʃ ðə] リーチ ザ",
+            "have は弱形 /həv/、worsened /ˈwɝsənd/ の /d/ に先行 [həv ˈwɝsənd] ハヴ ワースンド"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ ベイス アウアー アーマー ウィル ハヴ ワースンド シグニフィカントリー"
+        },
+        {
+          "en": "After the battle with the dragon, the situation will have worsened considerably.",
+          "ja": "ドラゴンとの戦闘の後、状況はかなり悪化しているだろう。",
+          "ipa": "/ˈæftər ðə ˈbætəl wɪð ðə ˈdræɡən ðə ˌsɪtʃuˈeɪʃən wɪl həv ˈwɝsənd kənˈsɪdərəbli/",
+          "linking": [
+            "After /ˈæftər/ の語末 /r/ が the /ðə/ に先行、the は弱形 [ˈæftər ðə] アフター ザ",
+            "the の /ə/ が dragon /ˈdræɡən/ に連結 [ðə ˈdræɡən] ザ ドラゴン",
+            "have は弱形 /həv/、worsened の /d/ に先行 [wɪl həv ˈwɝsənd] ウィル ハヴ ワースンド"
+          ],
+          "kana": "アフター ザ バットル ウィズ ザ ドラゴン ザ シチュエーション ウィル ハヴ ワースンド コンシデラブリー"
+        }
+      ]
     }
   ]
 }

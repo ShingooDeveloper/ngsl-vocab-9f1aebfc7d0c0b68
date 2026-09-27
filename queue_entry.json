@@ -402,6 +402,96 @@
           "kana": "ザ マイナーズ ハド ビン キューイング アッ ザ マイン エントランス ウェン ザ クリーパーズ イクスプロウデッド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will queue",
+      "ipa": "/wɪl ˈkjuː/",
+      "examples": [
+        {
+          "en": "I'll queue up at the arena when the tournament starts.",
+          "ja": "トーナメントが始まるとき、私はアリーナで列に並びます。",
+          "ipa": "/aɪl ˈkjuː ʌp æt̚ ðə əˈɹiːnə wɛn ðə ˈtɜɹnəmənt ˈstɑɹts/",
+          "linking": [
+            "「I'll」: will の縮約形 /aɪl/。[aɪl] アイル",
+            "「at the」: 語末子音 /t/ が未開放で次の /ð/ に先行 [æt̚ ðə]。the は弱形 /ðə/",
+            "「tournament starts」: 語末子音 /t/ が未開放 [ˈtɜɹnəmən̚t ˈstɑɹts]"
+          ],
+          "kana": "アイル キュー アップ アッ ザ アリーナ ウェン ザ ターナメント スターツ"
+        },
+        {
+          "en": "They will queue at the spawn point when the server resets.",
+          "ja": "サーバーがリセットされるとき、彼らはスポーンポイントで列に並びます。",
+          "ipa": "/ðeɪ wəl ˈkjuː æt̚ ðə ˈspɔːn pɔɪnt wɛn ðə ˈsɜɹvər rɪˈsɛts/",
+          "linking": [
+            "「will」は機能詞で弱形 /wəl/。[ðeɪ wəl] ザェイ ウル",
+            "「at the」: /t/ 未開放 [æt̚ ðə]。the は弱形 /ðə/",
+            "「point when」: 語末子音 /t/ が未開放で次の子音に先行 [pɔɪn̚t wɛn]"
+          ],
+          "kana": "ザェイ ウル キュー アッ ザ スポーン ポイント ウェン ザ サーバー リセッツ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be queuing",
+      "ipa": "/wɪl bi ˈkjuːɪŋ/",
+      "examples": [
+        {
+          "en": "He'll be queuing at the mob farm all afternoon.",
+          "ja": "彼は午後中ずっと、モブファームで列に並んでいるでしょう。",
+          "ipa": "/hiːl bi ˈkjuːɪŋ æt̚ ðə ˈmɑb ˈfɑɹm ɔːl ˌæftərˈnuːn/",
+          "linking": [
+            "「he'll be」: he'll /hiːl/、be /bi/。[hiːl bi] ヒール ビー",
+            "「queuing at」: 語末 /ŋ/ + 次の子音 /æ/ = 分離 [ˈkjuːɪŋ æt̚]",
+            "「at the」: /t/ 未開放 [æt̚ ðə]。the は弱形 /ðə/"
+          ],
+          "kana": "ヒール ビー キューイング アッ ザ マブ ファーム オール アフターヌーン"
+        },
+        {
+          "en": "We'll be queuing for crafting supplies by tonight.",
+          "ja": "私たちは今夜までに、クラフト用品のために列に並んでいるでしょう。",
+          "ipa": "/wiːl bi ˈkjuːɪŋ fɔɹ ˈkɹæftɪŋ səˈplaɪz baɪ təˈnaɪt/",
+          "linking": [
+            "「we'll be」: we'll /wiːl/。[wiːl bi] ウィル ビー",
+            "「queuing for」: 語末 /ŋ/ と子音 /f/ = 分離。for は強形 /fɔɹ/ [ˈkjuːɪŋ fɔɹ]",
+            "「supplies by」: 語末 /z/ と子音 /b/ = 分離。自然な流れで [səˈplaɪz baɪ]"
+          ],
+          "kana": "ウィル ビー キューイング フォー クラフティング サプライズ バイ トゥナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have queued",
+      "ipa": "/wɪl hæv ˈkjuːd/",
+      "examples": [
+        {
+          "en": "I will have queued for hours by the time the event starts.",
+          "ja": "イベントが始まるころには、私は何時間も列に並んでいるでしょう。",
+          "ipa": "/aɪ wɪl hæv ˈkjuːd fɔɹ ˈaʊɹz baɪ ðə ˈtaɪm ðə ɪˈvɛnt ˈstɑɹts/",
+          "linking": [
+            "「will have」: /wɪl hæv/。[wɪl hæv] ウィル ハヴ",
+            "「for hours」: 語末 /r/ が母音 /ˈaʊ/ に連結 [fɔɹ ˈaʊɹz] フォー アワーズ",
+            "「event starts」: 語末子音 /t/ が未開放で次の子音に先行 [ɪˈvɛn̚t ˈstɑɹts]"
+          ],
+          "kana": "アイ ウィル ハヴ キュード フォー アワーズ バイ ザ タイム ザ イベント スターツ"
+        },
+        {
+          "en": "By tomorrow, they will have queued at least once for the tournament.",
+          "ja": "明日までに、彼らはトーナメントのために少なくとも1回は列に並んでいるでしょう。",
+          "ipa": "/baɪ təˈmɑːɹoʊ, ðeɪ wəl əv ˈkjuːd æt̚ ˈliːst wʌns fɔɹ ðə ˈtɜɹnəmənt/",
+          "linking": [
+            "「will have」: will は弱形 /wəl/、have は弱形 /əv/ [wəl əv] ウル アヴ",
+            "「at least」: 語末子音 /t/ が未開放で次の /l/ に先行 [æt̚ ˈliːst]",
+            "「for the」: 語末 /r/ が母音に連結 [fɔɹ ðə] フォー ザ"
+          ],
+          "kana": "バイ トゥモロー ザェイ ウル アヴ キュード アッ リースト ワンス フォー ザ ターナメント"
+        }
+      ]
     }
   ]
 }

@@ -390,6 +390,96 @@
           "kana": "ザ ビルダーズ ハヴ ビン アンフォールディン ザイア インクレディブル キャッスル ディザイン フォア セヴラル ウィークス ナウ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will unfold",
+      "ipa": "/wɪl ʌnˈfoʊld/",
+      "examples": [
+        {
+          "en": "I'll unfold the treasure map once we secure a safe location near the village.",
+          "ja": "村の近くで安全な場所を確保したら、財宝地図を広げます。",
+          "ipa": "/aɪl ʌnˈfoʊld ðə ˈtɛʒɚ mæp ˈwʌns wi sɪˈkjʊɹ ə ˈseɪf loʊˈkeɪʃən ˈnɪɚ ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "「I will」が「I'll」に縮約 /aɪl/",
+            "機能語 the が弱形 /ðə/ に弱化。2回出現",
+            "語末 /ɹ/ が母音 /ə/ に連結。secure a で [sɪˈkjʊɹ ə] セキュア ア"
+          ],
+          "kana": "アイル アンフォールド ザ トレジャー マップ ワンス ウィー セキュア ア セイフ ロウケイション ニアー ザ ヴィリッジ"
+        },
+        {
+          "en": "The mystery will unfold completely when we explore all the hidden chambers in the ancient fortress.",
+          "ja": "古代の要塞のすべての隠されたチャンバーを探索するとき、謎は完全に展開します。",
+          "ipa": "/ðə ˈmɪstɚi wɪl ʌnˈfoʊld kəmˈplitli wɛn wi ɪkˈsplɔɹ ɔl ðə ˈhɪdən ˈtʃæmbɚz ɪn ðə eɪnʃənt ˈfɔɹtɪs/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。3回出現",
+            "will /wɪl/ は標準形。when we で自然な流れ",
+            "語末 /l/ が母音 /ə/ に連結。all the で [ɔl ðə] オール ザ"
+          ],
+          "kana": "ザ ミストリー ウィル アンフォールド コンプリートリー ウェン ウィー エクスプロア オール ザ ヒッデン チェイムバーズ イン ザ エイシェント フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be unfolding",
+      "ipa": "/wɪl bi ʌnˈfoʊldɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be unfolding the building blueprints while everyone gathers the construction materials.",
+          "ja": "みんなが建設材料を集めている間、建設ブループリントを広げています。",
+          "ipa": "/aɪl bi ʌnˈfoʊldɪŋ ðə ˈbɪldɪŋ ˈbluːˌprɪnts waɪl ˈɛvriˌwʌn ˈɡæðɚz ðə kənˈstɹʌkʃən məˈtɪɹiəlz/",
+          "linking": [
+            "「I will」が「I'll」に縮約 /aɪl/",
+            "will be の自然な流れ。be は /bi/",
+            "語末 /ŋ/ が母音 /ðə/ に連結。unfolding the で [ʌnˈfoʊldɪŋ ðə] アンフォールディン ザ"
+          ],
+          "kana": "アイル ビー アンフォールディン ザ ビルディング ブループリンツ ワイル エヴリワン ガザーズ ザ コンストラクション マティアリアルズ"
+        },
+        {
+          "en": "The builders will be unfolding their incredible castle design when the new server season begins.",
+          "ja": "新しいサーバーシーズンが始まるとき、ビルダーたちは素晴らしい城のデザインを展開しています。",
+          "ipa": "/ðə ˈbɪldɚz wɪl bi ʌnˈfoʊldɪŋ̚ ðɛɹ ɪnˈkɹɛdəbəl ˈkæsəl dɪˈzaɪn wɛn ðə ˈnu ˈsɝvɚ ˈsizən bɪˈɡɪnz/",
+          "linking": [
+            "機能語 the が弱形 /ðə/ に弱化。2回出現",
+            "will be の自然な流れ。語末 /ŋ/ が子音 /ð/ に接する。unfolding their で未開放 [ʌnˈfoʊldɪŋ̚ ðɛɹ] アンフォールディン ザイア",
+            "語末 /n/ が子音 /b/ に接する。season begins で未開放 [ˈsizən̚ b] シーズン ビギンズ"
+          ],
+          "kana": "ザ ビルダーズ ウィル ビー アンフォールディン ザイア インクレディブル キャッスル ディザイン ウェン ザ ニュー サーバー シーズン ビギンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have unfolded",
+      "ipa": "/wɪl həv ʌnˈfoʊldəd/",
+      "examples": [
+        {
+          "en": "By the end of the week, we'll have unfolded every secret room in the underground base.",
+          "ja": "週末までに、地下基地のすべての秘密の部屋を明かし終わっているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈwik wil həv ʌnˈfoʊldəd ˈɛvri ˈsikɹət ˈrum ɪn ðə ˌʌndɚˈɡraʊnd ˈbeɪs/",
+          "linking": [
+            "「we will」が「we'll」に縮約 /wil/。have は弱形 /həv/",
+            "機能語 the が弱形 /ðə/ に弱化。2回出現。of も弱形 /əv/",
+            "語末 /d/ が母音 /ˈɛvri/ に連結。unfolded every で [ʌnˈfoʊldəd ˈɛvri] アンフォールデッド エヴリー"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ ウィーク ウィル ハヴ アンフォールデッド エヴリー シークレット ルーム イン ザ アンダーグラウンド ベイス"
+        },
+        {
+          "en": "By sunrise tomorrow, she will have unfolded the entire mining operation's complete blueprint and strategy.",
+          "ja": "明日の日出までに、彼女は採鉱事業全体の完全なブループリントと戦略を完全に明かし終わっているでしょう。",
+          "ipa": "/baɪ ˈsʌnˌɹaɪz təˈmɑɹoʊ ʃi wɪl həv ʌnˈfoʊldəd ðə ɪnˈtaɪɚ ˈmaɪnɪŋ ˌɑpəˈreɪʃənz kəmˈplit ˈbluːˌprɪnt ænd stɹəˈtɛdʒi/",
+          "linking": [
+            "will have の自然な流れ。have は弱形 /həv/",
+            "機能語 the が弱形 /ðə/ に弱化。sunrise → tomorrow では語末 /z/ が /t/ に連結",
+            "語末 /d/ が母音 /ðə/ に連結。unfolded the で [ʌnˈfoʊldəd ðə] アンフォールデッド ザ"
+          ],
+          "kana": "バイ サンライズ トゥモロウ シー ウィル ハヴ アンフォールデッド ザ インタイアー マイニング オペレイションズ コンプリート ブループリント アンド ストラテジー"
+        }
+      ]
     }
   ]
 }

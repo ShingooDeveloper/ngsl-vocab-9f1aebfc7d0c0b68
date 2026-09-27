@@ -274,6 +274,194 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has roamed",
+      "ipa": "/həz ˈroʊmd/",
+      "examples": [
+        {
+          "en": "She has roamed the desert for hours searching for diamonds.",
+          "ja": "彼女は何時間もダイヤモンドを探して砂漠を歩き回っています。",
+          "ipa": "/ʃi həz ˈroʊmd ðə ˈdɛzərt fɔr ˈaʊɚz ˈsɝtʃɪŋ fɔr ˈdaɪməndz/",
+          "kana": "シー ハズ ロウムド ザ デザート フォー アワーズ サーチング フォー ダイモンズ",
+          "linking": [
+            "has は機能語（助動詞）で弱形 /həz/ ハズ",
+            "has roamed → has の語末子音 /z/ が roamed の初頭 /r/ に連結 [həz ˈroʊmd] ハズ ロウムド",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "They have roamed across multiple biomes to find the best location for their base.",
+          "ja": "彼らは彼らのベースに最適な場所を見つけるために、複数のバイオームを歩き回りました。",
+          "ipa": "/ðeɪ həv ˈroʊmd əˈkrɔs ˈmʌltɪpəl ˈbaɪoʊmz tə ˈfaɪnd ðə ˈbɛst loʊˈkeɪʃən fɔr ðɛr ˈbeɪs/",
+          "kana": "ザイ ハヴ ロウムド アクロス マルティプル バイオームズ タ ファインド ザ ベスト ロケイション フォー ザイア ベイス",
+          "linking": [
+            "have は機能語（助動詞）で弱形 /həv/ ハヴ",
+            "to は機能語で弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had roamed",
+      "ipa": "/həd ˈroʊmd/",
+      "examples": [
+        {
+          "en": "After the mobs had roamed the forest all night, we could finally build our shelter.",
+          "ja": "モブが一晩中森を歩き回った後、やっと私たちは避難所を建設できました。",
+          "ipa": "/ˈæftər ðə moʊbz həd ˈroʊmd ðə ˈfɔrɪst ɔl ˈnaɪt wi ˈkʊd ˈfaɪn.əl.i ˈbɪld ˈaʊər ˈʃɛltər/",
+          "kana": "アフター ザ モウブズ ハド ロウムド ザ フォレスト オール ナイト ウィ クッド ファイナリー ビルド アワー シェルター",
+          "linking": [
+            "had は機能語（助動詞）で弱形 /həd/ ハド",
+            "had roamed → had の語末子音 /d/ が roamed の初頭 /r/ に続き未開放停止 [həd̚ ˈroʊmd] ハド ロウムド",
+            "the は弱形 /ðə/ ザ（2回）"
+          ]
+        },
+        {
+          "en": "By the time we arrived, the traders had roamed through the village already.",
+          "ja": "私たちが到着した時点で、商人たちはすでに村を歩き回っていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈtreɪdərz həd ˈroʊmd θru ðə ˈvɪlɪdʒ ɔlˈrɛdi/",
+          "kana": "バイ ザ タイム ウィ アライブド ザ トレイダーズ ハド ロウムド スルー ザ ヴィリッジ オールレディ",
+          "linking": [
+            "had は機能語（助動詞）で弱形 /həd/ ハド",
+            "the は弱形 /ðə/ ザ（3回）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been roaming",
+      "ipa": "/həz ˈbɪn ˈroʊmɪŋ/",
+      "examples": [
+        {
+          "en": "The wandering trader has been roaming through the villages all week.",
+          "ja": "放浪する商人は1週間中、村を通じて歩き回っています。",
+          "ipa": "/ðə ˈwɑndərɪŋ ˈtreɪdər həz ˈbɪn ˈroʊmɪŋ θru ðə ˈvɪlɪdʒəz ɔl ˈwik/",
+          "kana": "ザ ワンダーリング トレイダー ハズ ビン ロウミング スルー ザ ヴィリッジーズ オール ウィーク",
+          "linking": [
+            "has は機能語（助動詞）で弱形 /həz/ ハズ",
+            "has been → has の語末子音 /z/ が been の初頭 /b/ に連結 [həz ˈbɪn] ハズ ビン",
+            "been は機能語（過去分詞）で弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ（2回）"
+          ]
+        },
+        {
+          "en": "I have been roaming the mountains trying to find a ravine with exposed ore.",
+          "ja": "私は露出したオアを持つ渓谷を見つけようとして山々を歩き回っています。",
+          "ipa": "/aɪ həv ˈbɪn ˈroʊmɪŋ ðə ˈmaʊntənz ˈtraɪɪŋ tə ˈfaɪnd ə ræˈvin wɪð ɪkˈspoʊzd ˈɔr/",
+          "kana": "アイ ハヴ ビン ロウミング ザ マウンテンズ トライイング タ ファインド ア ラヴィーン ウィズ イクスポウzド オア",
+          "linking": [
+            "have は機能語（助動詞）で弱形 /həv/ ハヴ",
+            "the は弱形 /ðə/ ザ",
+            "to は機能語で弱形 /tə/ タ",
+            "a は弱形 /ə/ ア"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will roam",
+      "ipa": "/wɪl roʊm/",
+      "examples": [
+        {
+          "en": "We'll roam the mountains tomorrow searching for rare ore deposits.",
+          "ja": "明日、私たちはレアなオア鉱床を探して山々を歩き回ります。",
+          "ipa": "/wil roʊm ðə ˈmaʊntənz təˈmɑroʊ ˈsɝtʃɪŋ fɔr ˈrɛr ˈɔr dɪˈpɑzɪts/",
+          "kana": "ウィル ロウム ザ マウンテンズ トゥモロウ サーチング フォー レアー オア ディポジッツ",
+          "linking": [
+            "will は機能語で縮約形 I'll/we'll/you'll 等に使われる。we'll = /wil/ ウィル",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "The mobs will roam around the plains at nightfall.",
+          "ja": "モブは夜間に平原の周りを歩き回ります。",
+          "ipa": "/ðə moʊbz wɪl roʊm əˈraʊnd ðə ˈpleɪnz æt ˈnaɪtˌfɔl/",
+          "kana": "ザ モウブズ ウィル ロウム アラウンド ザ プレインズ アット ナイットフォール",
+          "linking": [
+            "will は基本形 /wɪl/ ウィル（縮約されない場合）",
+            "the は弱形 /ðə/ ザ（2回）",
+            "will roam → will の語末子音 /l/ が roam の初頭 /r/ に連結 [wɪl roʊm] ウィル ロウム"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be roaming",
+      "ipa": "/wɪl bi ˈroʊmɪŋ/",
+      "examples": [
+        {
+          "en": "While we build the base, they'll be roaming the desert looking for villages.",
+          "ja": "私たちがベースを建設している間に、彼らは村を探して砂漠を歩き回ります。",
+          "ipa": "/waɪl wi ˈbɪld ðə ˈbeɪs ðeɪl bi ˈroʊmɪŋ ðə ˈdɛzərt ˈlʊkɪŋ fɔr ˈvɪlɪdʒəz/",
+          "kana": "ワイル ウィ ビルド ザ ベイス ザイル ビー ロウミング ザ デザート ルッキング フォー ヴィリッジーズ",
+          "linking": [
+            "the は弱形 /ðə/ ザ（2回）",
+            "they'll = /ðeɪl/ ザイル（will の縮約）",
+            "be は機能語（助動詞）で弱形 /bi/ ビー",
+            "for は弱形 /fɔr/ フォー"
+          ]
+        },
+        {
+          "en": "I'll be roaming the nether for hours hunting for blazes.",
+          "ja": "私は何時間もブレイズを狩ってネザーを歩き回ります。",
+          "ipa": "/aɪl bi ˈroʊmɪŋ ðə ˈnɛðər fɔr ˈaʊɚz ˈhʌntɪŋ fɔr ˈbleɪzɪz/",
+          "kana": "アイル ビー ロウミング ザ ネザー フォー アワーズ ハンティング フォー ブレイジーズ",
+          "linking": [
+            "I'll = /aɪl/ アイル（will の縮約）",
+            "be は機能語（助動詞）で弱形 /bi/ ビー",
+            "the は弱形 /ðə/ ザ",
+            "for は弱形 /fɔr/ フォー（2回）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have roamed",
+      "ipa": "/wɪl həv roʊmd/",
+      "examples": [
+        {
+          "en": "By next week, we'll have roamed every single biome on the server.",
+          "ja": "来週までに、私たちはサーバー上のすべてのバイオームを歩き回ったことになります。",
+          "ipa": "/baɪ ˈnɛkst ˈwik wil həv ˈroʊmd ˈɛvri ˈsɪŋɡəl ˈbaɪoʊm ɑn ðə ˈsɝvər/",
+          "kana": "バイ ネクスト ウィーク ウィル ハヴ ロウムド エブリー シングル バイオーム オン ザ サーバー",
+          "linking": [
+            "will は基本形 /wɪl/ ウィル。will have では will が有音 /l/ が保持される",
+            "have は機能語（助動詞）で弱形 /həv/ ハヴ",
+            "will have → will の語末 /l/ が have の初頭 /h/ に続くが接続なし（子音+子音）",
+            "the は弱形 /ðə/ ザ"
+          ]
+        },
+        {
+          "en": "He will have roamed through the jungle for days by the time he finds a temple.",
+          "ja": "彼が寺院を見つけるまでに、何日もジャングルを歩き回ったことになります。",
+          "ipa": "/hi wɪl həv ˈroʊmd θru ðə ˈdʒʌŋɡəl fɔr ˈdeɪz baɪ ðə ˈtaɪm hi ˈfaɪndz ə ˈtɛmpəl/",
+          "kana": "ヒー ウィル ハヴ ロウムド スルー ザ ジャングル フォー デイズ バイ ザ タイム ヒー ファインズ ア テンプル",
+          "linking": [
+            "will は基本形 /wɪl/ ウィル",
+            "have は機能語で弱形 /həv/ ハヴ",
+            "the は弱形 /ðə/ ザ（2回）",
+            "for は弱形 /fɔr/ フォー",
+            "a は弱形 /ə/ ア"
+          ]
+        }
+      ]
     }
   ],
   "tags": [

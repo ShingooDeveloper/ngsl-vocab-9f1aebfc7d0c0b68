@@ -76,5 +76,37 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "commodities",
+      "ipa": "/kəˈmɑdətiz/",
+      "examples": [
+        {
+          "en": "Diamonds and emeralds are the most valuable commodities on our server.",
+          "ja": "ダイヤと翡翠は私たちのサーバーで最も価値のある商品です。",
+          "ipa": "/ˈdaɪmənz ænd ˈɛmɛrəldz ɑr ðə ˈmoʊst ˈvæljəbəl kəˈmɑdətiz ɑn ˈaʊər ˈsɜrvər/",
+          "linking": [
+            "and emeralds - and の語末子音 /d/ が emeralds の母音 /ɛ/ に連結 [ændˈɛmɛrəldz] アンド エメラルズ",
+            "are the - are の語末子音 /r/ が the の弱形母音 /ə/ に連結 [ɑrðə] アー ザ",
+            "on our - on の語末子音 /n/ が our の母音 /aʊ/ に連結 [ɑnˈaʊr] オン アワー"
+          ],
+          "kana": "ダイモンズ アンド エメラルズ アー ザ モウスト バリュアブル カモディティーズ オン アワー サーバー"
+        },
+        {
+          "en": "Rare commodities like emeralds are essential for expanding our trading empire.",
+          "ja": "エメラルドのようなレアな商品は、私たちの取引帝国を拡大するために重要です。",
+          "ipa": "/ˈrɛr kəˈmɑdətiz ˈlaɪk ˈɛmɛrəldz ɑr ɪˈsɛnʃəl ˈfɔr ɪkˈspændɪŋ ˈaʊər ˈtreɪdɪŋ ˈɛmpaɪr/",
+          "linking": [
+            "like emeralds - like の語末子音 /k/ が emeralds の母音 /ɛ/ に連結 [ˈlaɪkˈɛmɛrəldz] ライク エメラルズ",
+            "are essential - are の語末子音 /r/ が essential の母音 /ɪ/ に連結 [ɑr ɪˈsɛnʃəl] アー イセンシャル",
+            "for expanding - for の弱形 /fə/ が expanding の母音 /ɪ/ に連結 [fə ɪkˈspændɪŋ] ファー イクスパンディング"
+          ],
+          "kana": "レアー カモディティーズ ライク エメラルズ アー イセンシャル ファー イクスパンディング アワー トレイディング エムパイアー"
+        }
+      ]
+    }
   ]
 }

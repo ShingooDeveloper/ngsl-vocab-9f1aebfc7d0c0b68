@@ -267,7 +267,7 @@
             "nurtured の末尾 /d/ が extensive の初頭 /ɪ/ に連結 [ˈnɝtʃɚd ɪkˈstɛnsɪv]「ナーチャード エクステンシヴ」",
             "had は弱形 /həd/ ハッド、miners の /m/ に続く（子音+子音で未開放）"
           ],
-          "kana": "バイ ザ タイム ザ レイド スターティッド マイナーズ ハッド ナーチャード エクステンシヴ タンネル システムズ"
+          "kana": "バイ ザ タイム ザ レイド スターテッド マイナーズ ハッド ナーチャード エクステンシヴ タンネル システムズ"
         }
       ]
     },
@@ -391,6 +391,102 @@
             "long before - long の語末 /ŋ/ が before の初頭 /b/ へ、鼻音+子音で続く"
           ],
           "kana": "シー ハド ビン ナーチャーリング ハー インチャンティング コレクション ロング ビフォア ビカミング ア レジェンデリー プレイヤー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will nurture",
+      "ipa": "/wɪl ˈnɝtʃɚ/",
+      "examples": [
+        {
+          "en": "I'll nurture these saplings until they become large oak trees in our forest.",
+          "ja": "これらの苗木が私たちの森で大きなオークの木になるまで育てます。",
+          "ipa": "[aɪl ˈnɝtʃɚ ðiz ˈsæplɪŋz ənˈtɪl ðeɪ bɪˈkʌm ˈlɑɹdʒ oʊk triz ɪn ˈaʊɚ ˈfɔrɪst]",
+          "linking": [
+            "I'll の末尾 /l/ が nurture の初頭 /n/ に連結しない（子音+子音で未開放）[aɪl ˈnɝtʃɚ]「アイル ナーチャー」",
+            "nurture の末尾 /ɚ/ が these の初頭 /ð/ に連結しない（rhotic + 子音で未開放）",
+            "saplings の末尾 /z/ が until の初頭 /ə/ に連結 [ˈsæplɪŋz ənˈtɪl]「サプリングズ アンティル」",
+            "until の末尾 /l/ が they の初頭 /ð/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "アイル ナーチャー ディーズ サプリングズ アンティル ゼイ ビカム ラージ オウク トリーズ イン アワー フォレスト"
+        },
+        {
+          "en": "She will nurture the baby animals in our breeding pen with great dedication.",
+          "ja": "彼女は大きな奉献を持って、私たちの育成ペンで赤ちゃん動物を育てるでしょう。",
+          "ipa": "[ʃi wɪl ˈnɝtʃɚ ðə ˈbeɪbi ˈænɪməlz ɪn ˈaʊɚ ˈbriːdɪŋ pɛn wɪð ɡreɪt ˌdɛdɪˈkeɪʃən]",
+          "linking": [
+            "will の末尾 /l/ が nurture の初頭 /n/ に連結しない（子音+子音で未開放）[wɪl ˈnɝtʃɚ]「ウィル ナーチャー」",
+            "nurture の末尾 /ɚ/ が the の初頭 /ð/ に連結しない（rhotic + 子音で未開放）、the は弱形 /ðə/ [ðə]「ザ」",
+            "animals の末尾 /z/ が in の初頭 /ɪ/ に連結 [ˈænɪməlz ɪn]「アニマルズ イン」",
+            "pen の末尾 /n/ が with の初頭 /w/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "シー ウィル ナーチャー ザ ベイビー アニマルズ イン アワー ブリーディング ペン ウィズ グレイト デディケーション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be nurturing",
+      "ipa": "/wɪl bi ˈnɝtʃɚɪŋ/",
+      "examples": [
+        {
+          "en": "While you mine deeper, I'll be nurturing our crops and breeding animals on the farm.",
+          "ja": "あなたがより深く採掘している間に、私は農場で作物と動物を育てるでしょう。",
+          "ipa": "[waɪl juː maɪn ˈdipɚ aɪl bi ˈnɝtʃɚɪŋ ˈaʊɚ krɑps ənd ˈbriːdɪŋ ˈænɪməlz ɑn ðə fɑɹm]",
+          "linking": [
+            "will の末尾 /l/ が be の初頭 /b/ に連結しない（子音+子音で未開放）[wɪl bi]「ウィル ビー」",
+            "be の末尾 /i/ が nurturing の初頭 /n/ に連結 [bi ˈnɝtʃɚɪŋ]「ビー ナーチャリング」",
+            "nurturing の末尾 /ŋ/ が our の初頭 /aʊ/ に連結しない（鼻音+母音で未開放）",
+            "on の末尾 /n/ が the の初頭 /ð/ に連結、the は弱形 /ðə/ [ɑn ðə]「オン ザ」"
+          ],
+          "kana": "ホワイル ユー マイン ディーパー アイル ビー ナーチャリング アワー クロップス アンド ブリーディング アニマルズ オン ザ ファーム"
+        },
+        {
+          "en": "They will be nurturing the villagers' trading relationships while we complete the trading hall.",
+          "ja": "私たちが取引ホールを完成させている間に、彼らは村人との取引関係を育てるでしょう。",
+          "ipa": "[ðeɪ wɪl bi ˈnɝtʃɚɪŋ ðə ˈvɪlɪdʒərz ˈtreɪdɪŋ rɪˈleɪʃənʃɪps waɪl wi kəmˈplit ðə ˈtreɪdɪŋ hɔl]",
+          "linking": [
+            "will の末尾 /l/ が be の初頭 /b/ に連結しない（子音+子音で未開放）",
+            "be の末尾 /i/ が nurturing の初頭 /n/ に連結 [bi ˈnɝtʃɚɪŋ]「ビー ナーチャリング」",
+            "nurturing の末尾 /ŋ/ が the の初頭 /ð/ に連結しない（鼻音+子音で未開放）、the は弱形 /ðə/ [ðə]「ザ」",
+            "while の末尾 /l/ が we の初頭 /w/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "ゼイ ウィル ビー ナーチャリング ザ ヴィレッジャーズ トレイディング リレーションシップス ワイル ウィー コンプリート ザ トレイディング ホール"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have nurtured",
+      "ipa": "/wɪl həv ˈnɝtʃɚd/",
+      "examples": [
+        {
+          "en": "By next season, I will have nurtured a whole grove of mature trees from tiny saplings.",
+          "ja": "来シーズンまでに、小さな苗木から成熟した木の小さな森全体を育てているでしょう。",
+          "ipa": "[baɪ ˈnɛkst ˈsizən aɪ wɪl həv ˈnɝtʃɚd ə hoʊl ɡroʊv əv məˈtʃʊr triz frəm ˈtaɪni ˈsæplɪŋz]",
+          "linking": [
+            "by の末尾 /aɪ/ が next の初頭 /n/ に連結しない（子音+子音で未開放）",
+            "will の末尾 /l/ が have の初頭 /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の末尾 /v/ が nurtured の初頭 /n/ に連結しない（子音+子音で未開放）[həv ˈnɝtʃɚd]「ハヴ ナーチャード」",
+            "of は弱形 /əv/ アヴ、from も弱形 /frəm/ フラム"
+          ],
+          "kana": "バイ ネクスト シーズン アイ ウィル ハヴ ナーチャード ア ホウル グロウヴ アヴ マチュアー トリーズ フラム タイニー サプリングズ"
+        },
+        {
+          "en": "He will have nurtured dozens of horses by the time the final raid approaches our base.",
+          "ja": "最終的なレイドが私たちのベースに接近するまでに、彼は数十頭の馬を育てているでしょう。",
+          "ipa": "[hi wɪl həv ˈnɝtʃɚd ˈdʌzənz əv ˈhɔrsɪz baɪ ðə ˈtaɪm ðə ˈfaɪnəl ˈreɪd əˈproʊtʃɪz ˈaʊɚ ˈbeɪs]",
+          "linking": [
+            "will の末尾 /l/ が have の初頭 /h/ に連結しない（子音+子音で未開放）、have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "have の末尾 /v/ が nurtured の初頭 /n/ に連結しない（子音+子音で未開放）[həv ˈnɝtʃɚd]「ハヴ ナーチャード」",
+            "nurtured の末尾 /d/ が dozens の初頭 /d/ に連結しない（子音+子音で未開放）",
+            "of は弱形 /əv/ アヴ、the は弱形 /ðə/ [ðə]「ザ」"
+          ],
+          "kana": "ヒー ウィル ハヴ ナーチャード ダズンズ アヴ ホーシーズ バイ ザ タイム ザ ファイナル レイド アプロウチーズ アワー ベース"
         }
       ]
     }

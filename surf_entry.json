@@ -347,6 +347,96 @@
           "kana": "シー ハズ ビン サーフィング ダウン ザ ラーヴァ フロウ オール モーニング アンド ファウンド セベラル ヴァリュアブル レソースィズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will surf",
+      "ipa": "/wɪl sɝf/",
+      "examples": [
+        {
+          "en": "I'll surf down the river to escape the dragon quickly.",
+          "ja": "素早くドラゴンから逃げるため、川をサーフィンして下ります。",
+          "ipa": "/aɪl sɝf daʊn ðə ˈɹɪvɚ tu ɪˈskeɪp ðə ˈdɹægən ˈkwɪkli/",
+          "linking": [
+            "I'll の縮約形 (I will)。will の /w/ が弱化され、I /aɪ/ と合わさって /aɪl/ [アイル] となる",
+            "the river - the は子音の前で弱形 /ðə/ [ザ]",
+            "to escape - to は機能語で弱形 /tə/ に弱化 [タ]"
+          ],
+          "kana": "アイル サーフ ダウン ザ リヴァー タ イスケイプ ザ ドラゴン クウィックリー"
+        },
+        {
+          "en": "They will surf across the lava ocean to find the Nether fortress.",
+          "ja": "彼らはネザーの砦を見つけるため、溶岩海を渡ってサーフィンします。",
+          "ipa": "/ðeɪ wɪl sɝf əˈkɹɑːs ðə ˈlɑːvə ˈoʊʃən tu ˈfaɪnd ðə ˈnɛðɚ ˈfɔːɹtɹɛs/",
+          "linking": [
+            "they will - will は縮約形 (they'll)。/ðeɪ/ の後で /ðeɪl/ [ザイル] となる",
+            "the lava - the は弱形 /ðə/ で、lava に続く [ザ ラーヴァ]",
+            "to find - to は弱形 /tə/ [タ]"
+          ],
+          "kana": "ザイル サーフ アクロース ザ ラーヴァ オーシャン タ ファインド ザ ネザー フォートレス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be surfing",
+      "ipa": "/wɪl bi ˈsɝfɪŋ/",
+      "examples": [
+        {
+          "en": "We will be surfing down the water current when the storm begins.",
+          "ja": "ストームが始まるときに、私たちは水流をサーフィンして下ります。",
+          "ipa": "/wi wɪl bi ˈsɝfɪŋ daʊn ðə ˈwɔːtɚ ˈkɝənt wɛn ðə ˈstɔːɹm bɪˈɡɪnz/",
+          "linking": [
+            "will be - will は /wɪl/ で be に続く。be は /bi/ [ウィル ビー]",
+            "the current - the は弱形 /ðə/ [ザ]",
+            "when the - when は /wɛn/、the は弱形 /ðə/ [ウェン ザ]"
+          ],
+          "kana": "ウィ ウィル ビー サーフィング ダウン ザ ウォーター カレント ウェン ザ ストーム ビギンズ"
+        },
+        {
+          "en": "You'll be surfing on the flowing lava while we build the shelter.",
+          "ja": "私たちが避難所を建設している間、あなたは流れる溶岩でサーフィンします。",
+          "ipa": "/jul bi ˈsɝfɪŋ ɑn ðə ˈfloʊɪŋ ˈlɑːvə waɪl wi ˈbɪld ðə ˈʃɛltər/",
+          "linking": [
+            "you'll の縮約形 (you will)。/juːl/ [ユール] となる",
+            "the flowing - the は弱形 /ðə/ [ザ]",
+            "the shelter - the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ユール ビー サーフィング オン ザ フロウイング ラーヴァ ホワイル ウィ ビルド ザ シェルター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have surfed",
+      "ipa": "/wɪl ˈhæv sɝft/",
+      "examples": [
+        {
+          "en": "By dawn, I will have surfed all the way to the ocean monument.",
+          "ja": "夜明けまでに、私はオーシャンモニュメントまでずっとサーフィンしていることになります。",
+          "ipa": "/baɪ ˈdɔːn aɪ wɪl ˈhæv sɝft ɔːl ðə ˈweɪ tu ðə ˈoʊʃən ˈmɑnjəmɛnt/",
+          "linking": [
+            "will have - will は /wɪl/、have は機能語で弱形 /ˈhæv/ → /əv/ に弱化。/wɪl əv/ [ウィル ハヴ]",
+            "the way - the は弱形 /ðə/ [ザ]",
+            "to the - to は弱形 /tə/、the は弱形 /ðə/ [タ ザ]"
+          ],
+          "kana": "バイ ドーン アイ ウィル ハヴ サーフド オール ザ ウェイ タ ザ オーシャン モニュメント"
+        },
+        {
+          "en": "She will have surfed through the entire water channel before sunset.",
+          "ja": "日没前に、彼女は水路全体をサーフィンして通ったことになります。",
+          "ipa": "/ʃi wɪl ˈhæv sɝft θɹuː ðə ɛnˈtaɪər ˈwɔːtɚ ˈtʃænəl bɪˈfɔr ˈsʌnˌsɛt/",
+          "linking": [
+            "will have - will は /wɪl/、have は弱形 /əv/ に弱化 [ウィル ハヴ]",
+            "the entire - the は弱形 /ðə/ [ザ]",
+            "before sunset - before は /bɪˈfɔr/、sunset に続く [フォア]"
+          ],
+          "kana": "シー ウィル ハヴ サーフド スルー ザ エンタイアー ウォーター チャネル ビフォア サンセット"
+        }
+      ]
     }
   ]
 }

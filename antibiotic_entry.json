@@ -81,7 +81,40 @@
       "kana": "アイ ブリューデン アンティバイアーティック ポーション タ キュアー ザ ポイズン イフェクト フラム マイ ワウンド"
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "antibiotics",
+      "ipa": "/ˌæntibaɪˈɑtɪks/",
+      "examples": [
+        {
+          "en": "These antibiotics eliminate poison effects when we drink them quickly.",
+          "ja": "これらの抗生物質は、私たちがすぐに飲むと、毒エフェクトを排除します。",
+          "ipa": "[ðiz ˌæntibaɪˈɑtɪks ɪˈlɪməneɪt ˈpɔɪzən ɪˈfɛkts wɛn wi drɪŋk ðɛm ˈkwɪkli]",
+          "linking": [
+            "These antibiotics - these の語末 /z/ が antibiotics の初頭 /æ/ に連結 [ðiz æntibaɪˈɑtɪks] ディーズ アンティバイアーティックス",
+            "antibiotics eliminate - /s/ が /ɪ/ に連結 [ˌæntibaɪˈɑtɪks ɪˈlɪməneɪt] アンティバイアーティックス イリミネイト",
+            "poison effects - /n/ が /ɪ/ に連結 [ˈpɔɪzən ɪˈfɛkts] ポイズン イフェクツ",
+            "we は代名詞の弱形 /wi/ ウィー"
+          ],
+          "kana": "ディーズ アンティバイアーティックス イリミネイト ポイズン イフェクツ ウェン ウィー ドリング ザム クイックリー"
+        },
+        {
+          "en": "Rare antibiotics were stored in iron chests hidden deep in our base.",
+          "ja": "希少な抗生物質は、私たちの基地の奥深くに隠された鉄チェストに保存されました。",
+          "ipa": "[ˈrɛɚ ˌæntibaɪˈɑtɪks wɚ ˈstɔɹd ɪn ˈaɪɚn tʃɛsts ˈhɪdn dip ɪn aʊɚ ˈbeɪs]",
+          "linking": [
+            "Rare antibiotics - /ɹ/ が /æ/ に連結 [ˈrɛɚ æntibaɪˈɑtɪks] レアー アンティバイアーティックス",
+            "antibiotics were - /s/ が /w/ に... 子音+子音なので連結なし",
+            "hidden deep - /n/ が /d/ に... 子音+子音なので連結なし",
+            "deep in - /p/ が /ɪ/ に連結 [dip ɪn] ディープ イン"
+          ],
+          "kana": "レアー アンティバイアーティックス ワー ストアード イン アイアン チェスツ ヒドン ディープ イン アワー ベイス"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Target 1900"
   ]

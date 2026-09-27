@@ -77,5 +77,36 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "horrors",
+      "ipa": "/ˈhɔrərz/",
+      "examples": [
+        {
+          "en": "The horrors I've experienced in deep caves include sudden lava lakes and unexpected deep shafts.",
+          "ja": "深い洞窟で経験した恐怖には、突然の溶岩湖と予期しない竪坑が含まれます。",
+          "ipa": "/ðə ˈhɔrərz aɪv ɪkˈspɪriənst ɪn ˈdip keɪvz ɪnˈkluːd ˈsʌdən ˈlɑvə ˈleɪks ənd ʌnɪkˈspɛktəd ˈdip ˈʃæfts/",
+          "linking": [
+            "horrors の /z/ が I've の /aɪ/ に連結 [ˈhɔrərz aɪv] ホラーズ アイヴ",
+            "and は弱形 /ənd/ アンド"
+          ],
+          "kana": "ザ ホラーズ アイヴ イクスピアリエンスト イン ディープ ケイヴズ インクルード サドゥン ラヴァ レイクス アンド アニクスペクティド ディープ シャフツ"
+        },
+        {
+          "en": "Survivors often mention the horrors of losing all their items after a single creeper explosion.",
+          "ja": "生存者はクリーパー爆発で全ての道具を失うことの恐怖についてよく語ります。",
+          "ipa": "/sərˈvaɪvərz ˈɔftən ˈmɛnʃən ðə ˈhɔrərz əv ˈluːzɪŋ ɔl ðɛr ˈaɪtəmz ˈæftər ə ˈsɪŋɡəl ˈkriːpər ɪkˈsploʊʒən/",
+          "linking": [
+            "horrors の /z/ が of に連結 [ˈhɔrərz əv] ホラーズ アヴ",
+            "of は弱形 /əv/ アヴ",
+            "a は弱形 /ə/ ア"
+          ],
+          "kana": "サーバイヴァーズ オフテン メンション ザ ホラーズ アヴ ルーズィング オール ザ アイテムズ アフター ア シングル クリーパー イクスプロージョン"
+        }
+      ]
+    }
   ]
 }

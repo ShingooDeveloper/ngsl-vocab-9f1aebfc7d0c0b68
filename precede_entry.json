@@ -175,10 +175,10 @@
           "ipa": "[ðə ɪˈvɛnts prɪˈsiːdɪŋ ˈaʊɚ əˈraɪvəl ɪnˈkludəd ˈdeɪndʒərəs ɪnˈkaʊntərz wɪð ˈsɛvərəl ˈmɑbz]",
           "linking": [
             "the events → the は弱形 /ðə/。[ðə ɪˈvɛnts] ザ イベンツ",
-            "preceding our → our は弱形 /ɚ/。preceding の /ŋ/ から連結 [ˈɚ] ワー（r-colored）",
+            "preceding our → our は /ˈaʊɚ/。preceding の /ŋ/ が our の /aʊ/ に連結 [prɪˈsiːdɪŋ ˈaʊɚ] プリシーディング アワー",
             "several mobs → /l/ が /m/ に接近。mobs は /z/ で終わる"
           ],
-          "kana": "ザ イベンツ プリシーディング アワー ラライヴァル インクルーディッド デインジャラス インカウンターズ ウィズ セヴァラル モブズ"
+          "kana": "ザ イベンツ プリシーディング アワー アライヴァル インクルーディッド デインジャラス インカウンターズ ウィズ セヴァラル モブズ"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "ipa": "[ðə ˈhɔrs wəz prɪˈsiːdɪŋ ˈaʊɚ ɡrup wɛn ðə ˈstɔrm bɪˈɡæn]",
           "linking": [
             "was は助動詞で弱形 /wəz/。preceding の /p/ に接近 [wəz prɪˈsiːdɪŋ] ワズ プリシーディング",
-            "our group → our は弱形 /ɚ/。group の /g/ に連結 [ˈaʊɚ ɡrup] アワー グループ",
+            "our group → our は /ˈaʊɚ/。group の /g/ に連結 [ˈaʊɚ ɡrup] アワー グループ",
             "when the → /n/ が /ð/ に連結。the は弱形 /ðə/ [wɛn ðə] ウェン ザ"
           ],
           "kana": "ザ ホース ワズ プリシーディング アワー グループ ウェン ザ ストーム ビガン"
@@ -269,6 +269,188 @@
             "all day → /l/ が /d/ に接近（未開放）。[ɔl d̚eɪ] オール デイ"
           ],
           "kana": "ザイ ハド ビン プリシーディング ザ エクスペディション オール デイ ビフォア ナイト フェル アンイクスペクティドリー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will precede",
+      "ipa": "/wɪl prɪˈsiːd/",
+      "examples": [
+        {
+          "en": "We will precede the main expedition by an hour on the mountain trail.",
+          "ja": "山道でメイン遠征隊を1時間先行するでしょう。",
+          "ipa": "[wi wəl prɪˈsiːd ðə ˈmeɪn ˌɛkspɪˈdɪʃən baɪ ən ˈaʊɚ ɑn ðə ˈmaʊntən ˈtreɪl]",
+          "linking": [
+            "will precede → will は弱形 /wəl/ で /p/ に接近（未開放）。[wəl p̚] ウル（プ）",
+            "the main → the は弱形 /ðə/。[ðə ˈmeɪn] ザ メイン",
+            "an hour → an は /n/ で終わり、hour の /aʊ/ に連結 [ən ˈaʊɚ] ァン アワー"
+          ],
+          "kana": "ウィ ウル プリシード ザ メイン エクスペディション バイ ァン アワー オン ザ マウンテン トレイル"
+        },
+        {
+          "en": "The scout will precede our group through the jungle biome to check for dangers.",
+          "ja": "スカウトはジャングルバイオームを通して私たちのグループの前を行き、危険をチェックするでしょう。",
+          "ipa": "[ðə ˈskaʊt wəl prɪˈsiːd ˈaʊɚ ɡrup θru ðə ˈdʒʌŋɡəl baɪˈoʊm tu ˈtʃɛk fər ˈdeɪndʒərz]",
+          "linking": [
+            "will precede → will は弱形 /wəl/ で /p/ に接近（未開放）。[wəl p̚] ウル（プ）",
+            "our group → our は /ˈaʊɚ/。group の /g/ に連結 [ˈaʊɚ ɡrup] アワー グループ",
+            "to check → to は弱形 /tə/ で check に接近 [tə ˈtʃɛk] タ チェック"
+          ],
+          "kana": "ザ スカウト ウル プリシード アワー グループ スルー ザ ジャングル バイオーム タ チェック ファー デインジャーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be preceding",
+      "ipa": "/wɪl bi prɪˈsiːdɪŋ/",
+      "examples": [
+        {
+          "en": "At sunset, the horse will be preceding our caravan through the desert.",
+          "ja": "日没時に、馬は砂漠を通してキャラバンの前を行っているでしょう。",
+          "ipa": "[æt ˈsʌnˌsɛt ðə ˈhɔrs wəl bi prɪˈsiːdɪŋ ˈaʊɚ ˌkærəˈvæn θru ðə ˈdɛzɚt]",
+          "linking": [
+            "will be → will は弱形 /wəl/。be は弱形 /bi/ [wəl bi] ウル ビ",
+            "preceding our → preceding の末尾 /ŋ/ が our の /aʊ/ に連結 [prɪˈsiːdɪŋ ˈaʊɚ] プリシーディング アワー",
+            "the desert → the は弱形 /ðə/。[ðə ˈdɛzɚt] ザ デザート"
+          ],
+          "kana": "アット サンセット ザ ホース ウル ビ プリシーディング アワー キャラヴァン スルー ザ デザート"
+        },
+        {
+          "en": "They will be preceding the main force while we gather supplies at the base.",
+          "ja": "私たちがベースで補給物資を集める間、彼らはメインフォースの前を行っているでしょう。",
+          "ipa": "[ðeɪ wəl bi prɪˈsiːdɪŋ ðə ˈmeɪn ˈfɔrs waɪl wi ˈɡæðɚ səˈplaɪz æt ðə ˈbeɪs]",
+          "linking": [
+            "will be → will は弱形 /wəl/。be は弱形 /bi/ [wəl bi] ウル ビ",
+            "preceding the → preceding の末尾 /ŋ/ が the の /ð/ に接近 [prɪˈsiːdɪŋ ðə] プリシーディング ザ",
+            "at the → at は /æt/ で未開放。the は弱形 /ðə/ [æt̚ ðə] アッ ザ"
+          ],
+          "kana": "ザイ ウル ビ プリシーディング ザ メイン フォース ワイル ウィ ギャザー サプライズ アッ ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have preceded",
+      "ipa": "/wɪl həv prɪˈsɛdɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, we will have preceded our allies all the way to the stronghold.",
+          "ja": "明日の朝までに、私たちは同盟国より先にストロングホールドまで到達しているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ ˈmɔrnɪŋ wi wəl həv prɪˈsɛdɪd ˈaʊɚ ˈælaɪz ɔl ðə ˈweɪ tu ðə ˈstrɔŋhoʊld]",
+          "linking": [
+            "will have → will は弱形 /wəl/。have は弱形 /həv/ [wəl həv] ウル ハヴ",
+            "have preceded → /v/ が /p/ に接近（未開放）。[həv p̚] ハヴ（プ）",
+            "all the → /l/ が /ð/ に連結。the は弱形 /ðə/ [ɔl ðə] オール ザ"
+          ],
+          "kana": "バイ トゥモロー モーニング ウィ ウル ハヴ プリセディッド アワー アライズ オール ザ ウェイ トゥー ザ ストロングホールド"
+        },
+        {
+          "en": "Before they arrive, I will have preceded the group through the nether portal.",
+          "ja": "彼らが到着する前に、私はネザーポータルを通してグループの前を行き終わっているでしょう。",
+          "ipa": "[bɪˈfɔr ðeɪ əˈraɪv aɪ wəl həv prɪˈsɛdɪd ðə ɡrup θru ðə ˈnɛðɚ ˈpɔrtəl]",
+          "linking": [
+            "will have → will は弱形 /wəl/。have は弱形 /həv/ [wəl həv] ウル ハヴ",
+            "have preceded → /v/ が /p/ に接近（未開放）。[həv p̚] ハヴ（プ）",
+            "through the → through の /u/ が the の /ð/ に接近。the は弱形 /ðə/ [θru ðə] スルー ザ"
+          ],
+          "kana": "ビフォア ザイ ァライヴ アイ ウル ハヴ プリセディッド ザ グループ スルー ザ ネザー ポータル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has preceded",
+      "ipa": "/həz prɪˈsɛdɪd/",
+      "examples": [
+        {
+          "en": "The mining shaft has preceded our discovery of the underground lake.",
+          "ja": "鉱山シャフトは、私たちの地下湖への発見に先行していました。",
+          "ipa": "/ðə ˈmaɪnɪŋ ˈʃæft həz prɪˈsɛdɪd ˈaʊɚ dɪˈskʌvəri əv ðə ˌʌndɚˈɡraʊnd ˈleɪk/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "has は助動詞弱形 /həz/ ハズ",
+            "of the は /əv ðə/ アヴ ザ（of は弱形、the も弱形）"
+          ],
+          "kana": "ザ マイニング シャフト ハズ プリセディッド アワー ディスカヴァリー アヴ ザ アンダーグラウンド レイク"
+        },
+        {
+          "en": "All the preparation work has preceded the opening of the server to new players.",
+          "ja": "すべての準備作業は、新しいプレイヤーへのサーバーオープンに先行していました。",
+          "ipa": "/ɔl ðə ˌprɛpəˈreɪʃən ˈwɝk həz prɪˈsɛdɪd ðə ˈoʊpənɪŋ əv ðə ˈsɝvɚ tu ˈnu ˈpleɪɚz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ（2回目も弱形）",
+            "has は助動詞弱形 /həz/ ハズ",
+            "of は前置詞弱形 /əv/ アヴ、to も弱形 /tə/ タ"
+          ],
+          "kana": "オール ザ プレパレーション ワーク ハズ プリセディッド ザ オープニング アヴ ザ サーバー タ ニュー プレイアーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had preceded",
+      "ipa": "/həd prɪˈsɛdɪd/",
+      "examples": [
+        {
+          "en": "The initial excavation had preceded the breakthrough into the stronghold.",
+          "ja": "最初の発掘は、要塞への突破に先行していました。",
+          "ipa": "/ðə ɪˈnɪʃəl ɛkˌskəˈveɪʃən həd prɪˈsɛdɪd ðə ˈbreɪkˌθru ˈɪntu ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は過去助動詞弱形 /həd/ ハド",
+            "into は前置詞 /ˈɪntu/ イント、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ イニシャル エクスカヴェーション ハド プリセディッド ザ ブレイクスルー イント ザ ストロングホールド"
+        },
+        {
+          "en": "Multiple supply runs had preceded the final assault on the ender dragon.",
+          "ja": "複数の補給実行は、エンダードラゴンへの最終攻撃に先行していました。",
+          "ipa": "/ˈmʌltɪpəl səˈplaɪ ˈɹʌnz həd prɪˈsɛdɪd ðə ˈfaɪnəl əˈsɔlt ɑn ðə ˈɛndɚ ˈdɹæɡən/",
+          "linking": [
+            "had は過去助動詞弱形 /həd/ ハド",
+            "on the は /ɑn ðə/ オン ザ、the は弱形 /ðə/",
+            "ender dragon は2つの単語、語末音 /r/ と語頭音 /d/ は異なる子音"
+          ],
+          "kana": "マルチプル サプライ ランズ ハド プリセディッド ザ ファイナル アソルト オン ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been preceding",
+      "ipa": "/həz bɪn prɪˈsiːdɪŋ/",
+      "examples": [
+        {
+          "en": "The navigation guide has been preceding players through the complex puzzle dungeon for hours.",
+          "ja": "ナビゲーションガイドは、複雑なパズルダンジョンを通じてプレイヤーの前を何時間も行っています。",
+          "ipa": "/ðə ˌnævɪˈɡeɪʃən ɡaɪd həz bɪn prɪˈsiːdɪŋ ˈpleɪɚz θru ðə ˈkɑmplɛks ˈpʌzəl ˈdʌndʒən fɔr ˈaʊɚz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "has は助動詞弱形 /həz/ ハズ、been は補助動詞弱形 /bɪn/ ビン",
+            "through the は /θru ðə/ スルー ザ、the は弱形 /ðə/",
+            "for は前置詞弱形 /fɔr/ フォア"
+          ],
+          "kana": "ザ ナヴィゲーション ガイド ハズ ビン プリシーディング プレイアーズ スルー ザ コンプレックス パズル ダンジョン フォア アワーズ"
+        },
+        {
+          "en": "A protective barrier has been preceding the expansion team into hostile territories.",
+          "ja": "保護バリアは、敵対的な領土への拡張チームの前を行っています。",
+          "ipa": "/ə prəˈtɛktɪv ˈbæɹiɚ həz bɪn prɪˈsiːdɪŋ ðə ɪkˈspænʃən ˈtim ˈɪntu ˈhɑstəl ˈtɛɹɪˌtɔriz/",
+          "linking": [
+            "a は弱形 /ə/ ア",
+            "has は助動詞弱形 /həz/ ハズ、been は補助動詞弱形 /bɪn/ ビン",
+            "preceding の /ŋ/ が the の /ð/ に接近（鼻音+子音）",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ア プロテクティヴ バリア ハズ ビン プリシーディング ザ イクスパンション ティーム イント ホスタル テリトリーズ"
         }
       ]
     }

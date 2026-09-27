@@ -409,6 +409,96 @@
           "kana": "ウィー ハヴ ビン コンヴィクティング グリーフィング オフェンダーズ コンシステントリー シンス ザ ニュー モデレーション ポリシー ビガン ディス マンス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will convict",
+      "ipa": "/wɪl kənˈvɪkt/",
+      "examples": [
+        {
+          "en": "The new system will convict cheaters more efficiently than before.",
+          "ja": "新しいシステムは以前より効率的に不正行為者を有罪にするでしょう。",
+          "ipa": "/ðə ˈnuː ˈsɪstəm wɪl kənˈvɪkt ˈtʃitɚz ˈmoɹ ɪˈfɪʃəntli ðən bɪˈfɔɹ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ。new の /n/ に続く",
+            "will の語末 /l/ が convict の /k/ の前で未開放 [wɪl̚ kənˈvɪkt]",
+            "than は弱形 /ðən/ ザン"
+          ],
+          "kana": "ザ ニュー システム ウィル コンヴィクト チーターズ モア イフィシェントリー ザン ビフォア"
+        },
+        {
+          "en": "We'll convict the griefing suspect once we gather all the evidence.",
+          "ja": "私たちはすべての証拠を集めたら、グリーフの容疑者を有罪にするでしょう。",
+          "ipa": "/wil kənˈvɪkt ðə ˈɡrifɪŋ ˈsʌspɛkt ˈwʌns wi ˈɡæðɚ ɔl ðə ˈɛvɪdəns/",
+          "linking": [
+            "We'll は「We will」の縮約 /wil/ ウィル。語末 /l/ が convict の /k/ の前で未開放 [wil̚ kənˈvɪkt]",
+            "the は弱形 /ðə/ ザ。griefing の /ɡ/ に続く",
+            "all の語末 /l/ が the の /ð/ に連結 [ˈɔl ðə] オール ザ"
+          ],
+          "kana": "ウィル コンヴィクト ザ グリーフィング サスペクト ワンス ウィー ギャザー オール ザ エビデンス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be convicting",
+      "ipa": "/wɪl bi kənˈvɪktɪŋ/",
+      "examples": [
+        {
+          "en": "While you're building, the mods will be convicting violators in the background.",
+          "ja": "あなたが建造している間、モデレーターは背景で違反者を有罪にしているでしょう。",
+          "ipa": "/ˈwaɪl jɚ ˈbɪldɪŋ ðə mɑdz wɪl bi kənˈvɪktɪŋ ˈvaɪəleɪtɚz ɪn ðə ˈbækɡraʊnd/",
+          "linking": [
+            "you're は「you are」の縮約 /jɚ/ ユアー",
+            "the は弱形 /ðə/ ザ。mods の /m/ に続く",
+            "will の語末 /l/ が be の /b/ の前で未開放 [wɪl̚ bi]"
+          ],
+          "kana": "ワイル ユアー ビルディング ザ モッズ ウィル ビー コンヴィクティング ヴァイオレイターズ イン ザ バックグラウンド"
+        },
+        {
+          "en": "We'll be convicting rule-breakers all afternoon tomorrow.",
+          "ja": "私たちは明日の午後中ずっとルール破りを有罪にしているでしょう。",
+          "ipa": "/wil bi kənˈvɪktɪŋ ˈrul ˌbreɪkɚz ɔl ˌæftɚˈnun təˈmɑɹoʊ/",
+          "linking": [
+            "We'll は「We will」の縮約 /wil/ ウィル。語末 /l/ が be の /b/ の前で未開放 [wil̚ bi]",
+            "rule の語末 /l/ が breakers の初頭 /b/ に続く（子音+子音）",
+            "all の語末 /l/ が afternoon の /æ/ に連結 [ˈɔl ˌæftɚˈnun] オール アフターヌーン"
+          ],
+          "kana": "ウィル ビー コンヴィクティング ルール ブレーカーズ オール アフターヌーン トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have convicted",
+      "ipa": "/wɪl həv kənˈvɪktɪd/",
+      "examples": [
+        {
+          "en": "By the end of the month, they will have convicted at least fifty griefers.",
+          "ja": "月末までに、彼らは少なくとも50人のグリーファーを有罪にしているでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə mʌnθ ðeɪ wɪl həv kənˈvɪktɪd æt ˈlist ˈfɪfti ˈɡrifɚz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "end の語末 /d/ が of の /ə/ に連結 [ɛn(d)əv] エンド アヴ。of は弱形 /əv/",
+            "will have → will の /l/ が have の /h/ の前で未開放 [wɪl̚ həv]"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス ザイ ウィル ハヴ コンヴィクティッド アット リスト フィフティ グリーファーズ"
+        },
+        {
+          "en": "Once she reviews all the evidence, the judge will have convicted the hacker by tomorrow.",
+          "ja": "彼女がすべての証拠をレビューしたら、判事は明日までにハッカーを有罪にしているでしょう。",
+          "ipa": "/wʌns ʃi rɪˈvjuːz ɔl ðə ˈɛvɪdəns ðə dʒʌdʒ wɪl həv kənˈvɪktɪd ðə ˈhækɚ baɪ təˈmɑɹoʊ/",
+          "linking": [
+            "reviews の語末 /z/ が all の /ɔ/ に連結 [rɪˈvjuːz ɔl] レビューズ オール",
+            "the は弱形 /ðə/ ザ",
+            "will have → will の /l/ が have の /h/ の前で未開放 [wɪl̚ həv]"
+          ],
+          "kana": "ワンス シー レビューズ オール ザ エビデンス ザ ジャッジ ウィル ハヴ コンヴィクティッド ザ ハッカー バイ トゥモロー"
+        }
+      ]
     }
   ]
 }

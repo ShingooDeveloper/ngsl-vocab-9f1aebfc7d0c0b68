@@ -70,5 +70,35 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "semesters",
+      "ipa": "/səˈmɛstərz/",
+      "examples": [
+        {
+          "en": "Over the past few semesters, our team has explored each biome thoroughly.",
+          "ja": "過去数学期にわたって、私たちのチームは各バイオームを徹底的に探索してきました。",
+          "ipa": "/ˈoʊvər ðə ˈpæst ˈfju səˈmɛstərz ˈaʊr ˈtim hæz ɪkˈsplɔrd ˈitʃ baɪˈoʊm ˈθɝoʊli/",
+          "linking": [
+            "over の語末 /r/ が the の /ð/ へ連結し滑らかに繋がる [ˈoʊvər ðə]「オーヴァー ザ」",
+            "explored の語末 /d/ が each の母音 /ɪ/ に連結する [ɪkˈsplɔrd ˈitʃ]「イクスプロード イーチ」"
+          ],
+          "kana": "オーヴァー ザ パスト フュー セメスターズ アワー ティーム ハズ イクスプロード イーチ バイオーム スュローリー"
+        },
+        {
+          "en": "By the end of these three semesters, our mining operations will expand significantly.",
+          "ja": "この3学期の終わりまでに、採掘事業は大幅に拡大するでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðiz ˈθri səˈmɛstərz ˈaʊr ˈmaɪnɪŋ ˌɑpəˈreɪʃənz wɪl ɪkˈspænd sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "of は弱形 /əv/ で these の /ð/ へ連結する [əv ðiz]「オヴ ディーズ」",
+            "semesters の語末 /z/ が our の母音 /aʊ/ に連結し滑らかに繋がる [səˈmɛstərz ˈaʊr]「セメスターズ アワー」"
+          ],
+          "kana": "バイ ザ エンド オヴ ディーズ スリー セメスターズ アワー マイニング オペレイションズ ウィル イクスパンド シグニフィキャントリー"
+        }
+      ]
+    }
   ]
 }

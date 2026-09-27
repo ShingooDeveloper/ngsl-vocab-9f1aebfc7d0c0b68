@@ -26,7 +26,6 @@
       "ja": "これらの敵性シグナルから、どのモブが出現したかを推測できますか？",
       "ipa": "/kæn juː ɪnˈfɝ wɑt moʊb sˈpoʊnd frɑm ðiz ˈhoʊstaɪl ˈsɪɡnəlz/",
       "linking": [
-        "you infer → you の語末 /uː/ が infer の /ɪ/ に連結",
         "from は機能語で弱形 /frəm/ フロム",
         "the は弱形 /ðə/"
       ],
@@ -186,6 +185,99 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has inferred",
+      "ipa": "/həz ɪnˈfɝd/",
+      "examples": [
+        {
+          "en": "I have inferred that diamonds spawn at y-level 16.",
+          "ja": "ダイヤモンドはy座標16でスポーンすることを推測した。",
+          "ipa": "/aɪ həv ɪnˈfɝd ðæt ˈdaɪəˌmɑndz speɪn æt waɪ ˈlɛvəl ˌsɪkˈstin/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "inferred that → inferred の /d/ が that の /ð/ に未開放で続く [ɪnˈfɝd̚ðæt]",
+            "that は機能語で弱形 /ðæt/ ザット"
+          ],
+          "kana": "アイ ハヴ インファーザット ダイアモンズ スペイン アット ワイ レベル シックスティーン"
+        },
+        {
+          "en": "We have inferred the fortress is beneath this mountain.",
+          "ja": "この山の下に砦があることを推測した。",
+          "ipa": "/wi həv ɪnˈfɝd ðə ˈfɔrtrəs ɪz bɪˈniːθ ðɪs ˈmaʊntən/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "inferred the → inferred の /d/ が the の /ð/ に未開放で続く [ɪnˈfɝðə] インファーザ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハヴ インファーザ フォートレス イズ ビニーズ ディス マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had inferred",
+      "ipa": "/həd ɪnˈfɝd/",
+      "examples": [
+        {
+          "en": "We had inferred the treasure location before nightfall.",
+          "ja": "日没前に、財宝の位置を推測していた。",
+          "ipa": "/wi həd ɪnˈfɝd ðə ˈtrɛʒər ˌloʊˈkeɪʃən bɪˈfɔr ˈnaɪtˌfɔl/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "inferred the → inferred の /d/ が the の /ð/ に未開放で続く [ɪnˈfɝðə] インファーザ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハド インファーザ トレジャー ロウケイション ビフォー ナイトフォール"
+        },
+        {
+          "en": "She had inferred from past patterns that endermen spawn near the portal.",
+          "ja": "彼女は過去のパターンから、エンダーマンがポータル近くにスポーンすると推測していた。",
+          "ipa": "/ʃi həd ɪnˈfɝd frəm pæst ˈpætərnz ðæt ˈɛndərˌmɛn speɪn nɪr ðə ˈpɔɾəl/",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "inferred from → inferred の /d/ が from の /f/ に続く（子音+子音で連結なし）",
+            "from は機能語で弱形 /frəm/ フロム",
+            "that は機能語で弱形 /ðæt/ ザット"
+          ],
+          "kana": "シー ハド インファード フロム パスト パターンズ ザット エンダーメン スペイン ニアー ザ ポーラル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been inferring",
+      "ipa": "/həz bɪn ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "I have been inferring the structure of the dungeon from the blocks.",
+          "ja": "ブロックからダンジョンの構造を推測し続けている。",
+          "ipa": "/aɪ həv bɪn ɪnˈfɝɪŋ ðə ˈstrʌktʃər əv ðə ˈdʌndʒən frəm ðə blɑks/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "inferring the → inferring の /ŋ/ が the の /ð/ に続く（子音+子音で連結なし）",
+            "from は機能語で弱形 /frəm/ フロム"
+          ],
+          "kana": "アイ ハヴ ビン インファーリング ザ ストラクチャー アヴ ザ ダンジョン フロム ザ ブロックス"
+        },
+        {
+          "en": "They have been inferring mob behavior patterns all morning.",
+          "ja": "彼らは朝ずっとモブの行動パターンを推測し続けている。",
+          "ipa": "/ðeɪ həv bɪn ɪnˈfɝɪŋ ˈmoʊb bɪˈheɪvjər ˈpætərnz ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "mob behavior → mob の /b/ が behavior の /b/ に続く（同一子音で音節分離）",
+            "all morning → all は機能語で弱形 /ɔl/ オール"
+          ],
+          "kana": "ゼイ ハヴ ビン インファーリング モブ ビヘイビアー パターンズ オール モーニング"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is inferring",
@@ -194,7 +286,7 @@
         {
           "en": "I'm inferring the witch's location from the potion effects.",
           "ja": "ポーション効果から魔女の位置を推測しています。",
-          "ipa": "/aɪm ɪnˈfɝɪŋ ðə ˈwɪtʃɪz ˌloʊˈkeɪʃən frɑm ðə ˈpoʊʃən ɪˈfɛkts/",
+          "ipa": "/aɪm ɪnˈfɝɪŋ ðə ˈwɪtʃɪz ˌloʊˈkeɪʃən frəm ðə ˈpoʊʃən ɪˈfɛkts/",
           "linking": [
             "I'm inferring → I'm の語末 /m/ が inferring の /ɪ/ に連結 [aɪm ɪnˈfɝɪŋ]",
             "the witch's → the は弱形 /ðə/ ザ",
@@ -205,7 +297,7 @@
         {
           "en": "The players are inferring how the redstone circuit works from observation.",
           "ja": "プレイヤーたちは観察からレッドストーン回路がどのように機能するかを推測しています。",
-          "ipa": "/ðə ˈpleɪərz ɑr ɪnˈfɝɪŋ haʊ ðə ˈrɛdˌstoʊn ˈsɝkɪt wɝks frɑm ˌɑbzərˈveɪʃən/",
+          "ipa": "/ðə ˈpleɪərz ɑr ɪnˈfɝɪŋ haʊ ðə ˈrɛdˌstoʊn ˈsɝkɪt wɝks frəm ˌɑbzərˈveɪʃən/",
           "linking": [
             "are inferring → are の語末 /r/ が inferring の /ɪ/ に連結 [ɑr ɪnˈfɝɪŋ]",
             "the redstone → the は弱形 /ðə/ ザ",
@@ -224,7 +316,7 @@
         {
           "en": "We were inferring the mob's behavior from its movement patterns.",
           "ja": "その動きのパターンからモブの行動を推測していました。",
-          "ipa": "/wi wɚ ɪnˈfɝɪŋ ðə ˈmoʊbz bɪˈheɪvjər frɑm ɪts ˈmuvmənt ˈpætərnz/",
+          "ipa": "/wi wɚ ɪnˈfɝɪŋ ðə ˈmoʊbz bɪˈheɪvjər frəm ɪts ˈmuvmənt ˈpætərnz/",
           "linking": [
             "were inferring → were の語末 /r/ が inferring の /ɪ/ に連結 [wɚ ɪnˈfɝɪŋ]",
             "the mob's → the は弱形 /ðə/ ザ",
@@ -254,24 +346,114 @@
         {
           "en": "By the time we opened the treasure room, they had been inferring the location from ancient maps.",
           "ja": "宝物の部屋を開けたときまでに、彼らは古い地図から位置を推測していました。",
-          "ipa": "/baɪ ðə ˈtaɪm wi ˈoʊpənd ðə ˈtrɛʒər rum, ðeɪ həd bɪn ɪnˈfɝɪŋ ðə ˌloʊˈkeɪʃən frɑm ˈeɪʃənt mæps/",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈoʊpənd ðə ˈtrɛʒər rum, ðeɪ həd bɪn ɪnˈfɝɪŋ ðə ˌloʊˈkeɪʃən frəm ˈeɪʃənt mæps/",
           "linking": [
             "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
             "the treasure → the は弱形 /ðə/ ザ",
             "from ancient → from は弱形 /frəm/ フロム"
           ],
-          "kana": "バイ ザ タイム ウィ オープンド ザ トレジャー ルーム ザェイ ハド ビン インファーリング ザ ロケーション フロム エイシャント マップス"
+          "kana": "バイ ザ タイム ウィ オープンド ザ トレジャー ルーム ザエイ ハド ビン インファーリング ザ ロケーション フロム エイシャント マップス"
         },
         {
           "en": "The miners had been inferring the diamond vein's location for hours before striking it.",
           "ja": "採掘者たちはそれに到達する前に何時間もダイヤモンド鉱脈の位置を推測していました。",
-          "ipa": "/ðə ˈmaɪnərz həd bɪn ɪnˈfɝɪŋ ðə ˈdaɪəˌmɑnd veɪnz ˌloʊˈkeɪʃən fɔr ˈaʊɚz bɪˈfoɹ ˈstraɪkɪŋ ɪt/",
+          "ipa": "/ðə ˈmaɪnərz həd bɪn ɪnˈfɝɪŋ ðə ˈdaɪəˌmɑnd veɪnz ˌloʊˈkeɪʃən fɔr ˈaʊɚz bɪˈfɔr ˈstraɪkɪŋ ɪt/",
           "linking": [
             "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
             "the diamond → the は弱形 /ðə/ ザ",
             "for hours → for は弱形 /fɚ/、/r/ が母音に連結 [fɔr ˈaʊɚz] フォー アワーズ"
           ],
-          "kana": "ザ マイナーズ ハド ビン インファーリング ザ ダイアモンド ベイン ロケーション フォー アワーズ ビフォー ストライキング イット"
+          "kana": "ザ マイナーズ ハド ビン インファーリング ザ ダイアモンド ベインズ ロケーション フォー アワーズ ビフォー ストライキング イット"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will infer",
+      "ipa": "/wɪl ɪnˈfɝ/",
+      "examples": [
+        {
+          "en": "I'll infer the dungeon structure from these stone patterns.",
+          "ja": "これらの石のパターンからダンジョンの構造を推測します。",
+          "ipa": "/aɪl ɪnˈfɝ ðə ˈdʌndʒən ˈstrʌktʃər frɑm ðiz stoʊn ˈpætərnz/",
+          "linking": [
+            "I'll の末尾 /l/ が infer の /ɪ/ に連結 [aɪl ɪnˈfɝ]「アイル インファー」",
+            "infer の末尾 /r/ が the の /ð/ に連結しない（子音+子音で未開放）",
+            "the は弱形 /ðə/ ザ、from は機能語で弱形 /frəm/ フロム"
+          ],
+          "kana": "アイル インファー ザ ダンジャン ストラクチャー フロム ディーズ ストウン パターンズ"
+        },
+        {
+          "en": "We will infer the treasure's location from these ancient clues.",
+          "ja": "これらの古い手がかりから宝物の位置を推測します。",
+          "ipa": "/wi wɪl ɪnˈfɝ ðə ˈtrɛʒərz loʊˈkeɪʃən frɑm ðiz ˈeɪʃənt kluːz/",
+          "linking": [
+            "will の末尾 /l/ が infer の /ɪ/ に連結 [wɪl ɪnˈfɝ]「ウィル インファー」",
+            "infer の末尾 /r/ が the の /ð/ に連結しない（子音+子音で未開放）",
+            "the は弱形 /ðə/ ザ、from は機能語で弱形 /frəm/ フロム"
+          ],
+          "kana": "ウィ ウィル インファー ザ トレジャーズ ロケーション フロム ディーズ エイシャント クルーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be inferring",
+      "ipa": "/wɪl bi ɪnˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow I'll be inferring the redstone pattern from the circuit behavior.",
+          "ja": "明日、私はレッドストーン回路の動作からそのパターンを推測しているでしょう。",
+          "ipa": "/təˈmɑroʊ aɪl bi ɪnˈfɝɪŋ ðə ˈrɛdˌstoʊn ˈpætərn frɑm ðə ˈsɝkət bɪˈheɪvjər/",
+          "linking": [
+            "I'll be の /l/ と /b/ が続く（未開放で連結なし）[aɪl bi]「アイル ビー」",
+            "be の末尾 /i/ が inferring の /ɪ/ に連結 [bi ɪnˈfɝɪŋ]「ビー インファーリング」",
+            "inferring の末尾 /ŋ/ が from に連結しない（鼻音+子音で未開放）、from は弱形 /frəm/ フロム"
+          ],
+          "kana": "トゥモーロウ アイル ビー インファーリング ザ レッドストウン パターン フロム ザ サーキット ビヘイビアー"
+        },
+        {
+          "en": "They will be inferring the mob spawner location while we explore.",
+          "ja": "私たちが探索している間、彼らはモブスポーナーの位置を推測しているでしょう。",
+          "ipa": "/ðeɪ wɪl bi ɪnˈfɝɪŋ ðə ˈmoʊb ˈspoʊnər loʊˈkeɪʃən waɪl wi ɪkˈsploɹ/",
+          "linking": [
+            "will の末尾 /l/ が be の /b/ に連結しない（子音+子音で未開放）[wɪl bi]「ウィル ビー」",
+            "be の末尾 /i/ が inferring の /ɪ/ に連結 [bi ɪnˈfɝɪŋ]「ビー インファーリング」",
+            "inferring の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイ ウィル ビー インファーリング ザ モブ スポーナー ロケーション ホワイル ウィ エクスプロア"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have inferred",
+      "ipa": "/wɪl həv ɪnˈfɝd/",
+      "examples": [
+        {
+          "en": "By then, we'll have inferred all the puzzle clues.",
+          "ja": "その時までに、私たちはすべてのパズルの手がかりを推測しているでしょう。",
+          "ipa": "/baɪ ðɛn, wil həv ɪnˈfɝd ɔl ðə ˈpʌzəl kluːz/",
+          "linking": [
+            "we'll have の /l/ と /h/ が続く（will の縮約形）、have は弱形 /həv/ [wil həv]「ウィル ハヴ」",
+            "have の末尾 /v/ が inferred の /ɪ/ に連結 [həv ɪnˈfɝd]「ハヴ インファード」",
+            "all の末尾 /l/ が the の /ð/ に連結しない（子音+子音で未開放）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ザン ウィル ハヴ インファード オール ザ パズル クルーズ"
+        },
+        {
+          "en": "He'll have inferred the treasure room's location before nightfall.",
+          "ja": "彼は日暮れまでに宝物の部屋の位置を推測しているでしょう。",
+          "ipa": "/hil həv ɪnˈfɝd ðə ˈtrɛʒər rum loʊˈkeɪʃən bɪˈfɔr ˈnaɪtˌfɔl/",
+          "linking": [
+            "He'll have の /l/ と /h/ が続く（will の縮約形）、have は弱形 /həv/ [hil həv]「ヒル ハヴ」",
+            "have の末尾 /v/ が inferred の /ɪ/ に連結 [həv ɪnˈfɝd]「ハヴ インファード」",
+            "the は弱形 /ðə/ ザ、room の末尾 /m/ が location の /l/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "ヒル ハヴ インファード ザ トレジャー ルーム ロケーション ビフォア ナイトフォール"
         }
       ]
     }

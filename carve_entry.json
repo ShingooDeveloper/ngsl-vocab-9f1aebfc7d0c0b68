@@ -180,6 +180,174 @@
           "kana": "カーヴィング イントリケット パターンズ インタ ザ ウォール テイクス タイム"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has carved",
+      "ipa": "/həz ˈkɑːrvd/",
+      "examples": [
+        {
+          "en": "I have carved a detailed ice castle by the frozen lake.",
+          "ja": "私は凍った湖のそばに細部まで彫ったアイスの城を作った。",
+          "ipa": "/aɪ həv ˈkɑːrvd ə dɪˈteɪld̩ ˈaɪs ˈkæsl̩ baɪ ðə ˈfroʊzən leɪk/",
+          "linking": [
+            "have carved: have は弱形 /həv/、carved へ連結 [həv ˈkɑːrvd] ハヴ カーヴド",
+            "by the: 語末子音 /b/ が弱形母音 /ə/ に連結 [baɪ ðə] バイ ザ"
+          ],
+          "kana": "アイ ハヴ カーヴド ア ディテイルド アイス キャッスル バイ ザ フロウズン レイク"
+        },
+        {
+          "en": "The builders have carved out an enormous underground fortress.",
+          "ja": "ビルダーたちは莫大な地下の要塞を彫り抜いた。",
+          "ipa": "/ðə ˈbɪldɚz həv ˈkɑːrvd aʊt ən ɪˈnɔːrməs ˌʌndɚˈɡraʊnd ˈfɔːrtɪs/",
+          "linking": [
+            "have carved: have は弱形 /həv/、carved へ連結 [həv ˈkɑːrvd] ハヴ カーヴド",
+            "carved out: 語末子音 /d/ が母音 /aʊ/ に連結 [ˈkɑːrvd aʊt] カーヴド アウト"
+          ],
+          "kana": "ザ ビルダーズ ハヴ カーヴド アウト エン イノーマス アンダーグラウンド フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had carved",
+      "ipa": "/həd ˈkɑːrvd/",
+      "examples": [
+        {
+          "en": "Before the server reset, we had already carved a massive tunnel system.",
+          "ja": "サーバーリセット前に、私たちはすでに巨大なトンネルシステムを彫り抜いていた。",
+          "ipa": "/bɪˈfɔːr ðə ˈsɝːvɚ ˈrisɛt wi həd ɔːlˈrɛdi ˈkɑːrvd ə ˈmæsɪv ˈtʌnl̩ ˈsɪstəm/",
+          "linking": [
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ",
+            "we had: we の /i/ が had へ、had は弱形 /həd/ [wi həd] ウィ ハド"
+          ],
+          "kana": "ビフォー ザ サーバー リセット ウィ ハド オーレディ カーヴド ア マッシヴ トゥネル システム"
+        },
+        {
+          "en": "The intricate pathways that the miners had carved were still visible.",
+          "ja": "鉱夫たちが彫った複雑な通路はまだ見えていた。",
+          "ipa": "/ðə ɪnˈtrɪkət ˈpæðweɪz ðæt ðə ˈmaɪnɚz həd ˈkɑːrvd wɚ stɪl ˈvɪzəbl̩/",
+          "linking": [
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ",
+            "miners had: miners の語末 /z/ が had へ、had は弱形 /həd/ [ˈmaɪnɚz həd] マイナーズ ハド"
+          ],
+          "kana": "ザ イントリケット パスウェイズ ザット ザ マイナーズ ハド カーヴド ワー スティル ビジブル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been carving",
+      "ipa": "/həz bɪn ˈkɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "I have been carving this mountain tunnel since sunrise.",
+          "ja": "私は日の出からこの山のトンネルを彫り続けている。",
+          "ipa": "/aɪ həv bɪn ˈkɑːrvɪŋ ðɪs ˈmaʊntən ˈtʌnl̩ sɪns ˈsʌnraɪz/",
+          "linking": [
+            "have been: have は弱形 /həv/、been も弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "since sunrise: since の /s/ が /ˈs/ に続く[sɪns ˈsʌn] シンス サンライズ"
+          ],
+          "kana": "アイ ハヴ ビン カーヴィング ディス マウンテン トゥネル シンス サンライズ"
+        },
+        {
+          "en": "The sculpture team has been carving the monument walls all week.",
+          "ja": "彫刻チームは1週間、モニュメントの壁を彫り続けている。",
+          "ipa": "/ðə ˈskʌlptʃɚ tim həz bɪn ˈkɑːrvɪŋ ðə ˈmɑːnjəmənt wɔːlz ɔːl wik/",
+          "linking": [
+            "has been: has は弱形 /həz/、been も弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ザ スカルプチャー ティーム ハズ ビン カーヴィング ザ モニュメント ウォールズ オール ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "未来形（will + 動詞原形）",
+      "text": "will carve",
+      "ipa": "/wɪl kɑːrv/",
+      "examples": [
+        {
+          "en": "I'll carve a detailed tunnel through the mountain.",
+          "ja": "私は山を通して詳細なトンネルを彫り抜きます。",
+          "ipa": "/aɪl kɑːrv ə dɪˈteɪld̩ ˈtʌnl̩ θruː ðə ˈmaʊntən/",
+          "linking": [
+            "carve a: 語末子音 /v/ が弱形母音 /ə/ に連結 [kɑːrvə] カーヴァ",
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "アイル カーヴァ ディテイルド トゥネル スルー ザ マウンテン"
+        },
+        {
+          "en": "The miners will carve intricate patterns into the stone.",
+          "ja": "鉱夫たちは石に複雑なパターンを彫ります。",
+          "ipa": "/ðə ˈmaɪnɚz wɪl kɑːrv ɪnˈtrɪkət ˈpætɚnz ˈɪntu ðə stoʊn/",
+          "linking": [
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ",
+            "carve intricate: 語末子音 /v/ が母音 /ɪ/ に連結 [kɑːrv ɪn] カーヴ イン"
+          ],
+          "kana": "ザ マイナーズ ウィル カーヴ イントリケット パターンズ インタ ザ ストウン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be carving",
+      "ipa": "/wɪl bi ˈkɑːrvɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be carving the monument tomorrow morning.",
+          "ja": "明日の朝、私たちはモニュメントを彫り続けます。",
+          "ipa": "/wɪl bi ˈkɑːrvɪŋ ðə ˈmɑːnjəmənt təˈmɑːroʊ ˈmɔːrnɪŋ/",
+          "linking": [
+            "will be: 助動詞 will と be の連続 [wɪl bi] ウィル ビ",
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ウィル ビ カーヴィング ザ モニュメント トゥモロウ モーニング"
+        },
+        {
+          "en": "She will be carving ice blocks when you arrive.",
+          "ja": "あなたが到着したとき、彼女はアイスブロックを彫り続けているでしょう。",
+          "ipa": "/ʃi wɪl bi ˈkɑːrvɪŋ ˈaɪs blɑks wɛn ju əˈraɪv/",
+          "linking": [
+            "will be: 助動詞 will と be の連続 [wɪl bi] ウィル ビ",
+            "you: 機能語 you は弱形 /jə/ [jə] ヤ"
+          ],
+          "kana": "シ ウィル ビ カーヴィング アイス ブロックス ウェン ヤ アライヴ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have carved",
+      "ipa": "/wɪl həv ˈkɑːrvd/",
+      "examples": [
+        {
+          "en": "By sunrise, I will have carved the entire mine entrance.",
+          "ja": "日の出までに、私は鉱山の入口全体を彫り抜いているでしょう。",
+          "ipa": "/baɪ ˈsʌnraɪz aɪ wɪl həv ˈkɑːrvd ðə ənˈtaɪɚ ˈmaɪn ˈɛntrəns/",
+          "linking": [
+            "will have: 助動詞 will と have へ連結、have は弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "バイ サンライズ アイ ウィル ハヴ カーヴド ザ エンタイアー マイン エントランス"
+        },
+        {
+          "en": "They will have carved all the decoration blocks before the celebration starts.",
+          "ja": "パーティーが始まる前に、彼らはすべての装飾ブロックを彫り抜き終わっているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈkɑːrvd ɔːl ðə ˌdɛkəˈreɪʃən blɑks bɪˈfɔːr ðə ˌsɛləˈbreɪʃən stɑːrts/",
+          "linking": [
+            "will have: 助動詞 will と have へ連結、have は弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "the: 機能語 the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ゼイ ウィル ハヴ カーヴド オール ザ デコレーション ブロックス ビフォー ザ セレブレーション スターツ"
+        }
+      ]
     }
   ]
 }

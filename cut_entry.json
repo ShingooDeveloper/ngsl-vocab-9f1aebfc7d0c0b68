@@ -1,0 +1,564 @@
+{
+  "word": "cut",
+  "pos": "動詞・名詞 (verb/noun)",
+  "ipa_us": "/kʌt/",
+  "ipa_uk": "/kʌt/",
+  "meanings": [
+    "【動詞】～を切る、切り取る（to divide something with a sharp tool）",
+    "【動詞】～を減らす、削減する（to reduce an amount）",
+    "【動詞】（映画・写真で）～をカットする、削除する（to remove or eliminate）",
+    "【名詞】切り傷、切り口（a wound made by cutting）",
+    "【名詞】（肉の）切り身（a piece of meat）",
+    "【名詞】削減、カット（a reduction in amount）"
+  ],
+  "examples": [
+    {
+      "en": "I used a sharp knife to cut the wood into smaller pieces for the campfire.",
+      "ja": "キャンプファイヤーのために、鋭いナイフで木を小さな断片に切りました。",
+      "grammar": "過去形＋不定詞：目的を表すto不定詞を使用。",
+      "ipa": "/aɪ juːzd ə ʃɑrp naɪf tu kʌt ðə wʊd ˈɪntu ˈsmɔlər ˈpisɪz fɔr ðə ˈkæmpˌfaɪər/",
+      "linking": [
+        "used の語末 /d/ が a の弱形 /ə/ に連結 [juːzd ə] ユーズド ア",
+        "the → 弱形 /ðə/ ザ",
+        "into の語末が smaller の母音に続く",
+        "for → 弱形 /fɔr/"
+      ],
+      "kana": "アイ ユーズド ア シャープ ナイフ タ カット ザ ウッド イント スモーラー ピーシーズ ファー ザ キャンプファイアー"
+    },
+    {
+      "en": "The creeper cut through our defenses and destroyed the base.",
+      "ja": "クリーパーは防御を破ったベースを爆破しました。",
+      "grammar": "過去形＋接続詞and：過去の連続した動作を接続詞で繋ぐ。",
+      "ipa": "/ðə ˈkriːpər kʌt θru aʊr dɪˈfɛnsɪz ənd dɪˈstrɔɪd ðə ˈbeɪs/",
+      "linking": [
+        "the → 弱形 /ðə/",
+        "defenses の語末 /z/ が and に続く（子音+子音）",
+        "and → 弱形 /ənd/",
+        "destroyed の語末 /d/ が the の弱形 /ðə/ に連結 [dɪˈstrɔɪd ðə] ディストロイド ザ"
+      ],
+      "kana": "ダ クリーパー カット スルー アワー ディフェンシーズ アン ディストロイド ザ ベイス"
+    },
+    {
+      "en": "The deep cut on my hand was bandaged immediately after the accident.",
+      "ja": "事故後すぐに、手の深い切り傷は包帯で処置されました。",
+      "grammar": "過去受動形＋副詞：過去の出来事が受け身で表現される。",
+      "ipa": "/ðə ˈdip kʌt ɑn maɪ hænd wəz ˈbændɪdʒd ɪˈmiːdətli ˈæftər ðə ˈæksɪdənt/",
+      "linking": [
+        "the → 弱形 /ðə/",
+        "was → 弱形 /wəz/",
+        "after → 弱形 /ˈæftər/",
+        "the → 弱形 /ðə/（2度目）"
+      ],
+      "kana": "ダ ディープ カット オン マイ ハンド ワズ バンディッジド イミーディエットリー アフター ザ アクシデント"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Cut down those oak trees to gather wood for building.",
+      "ja": "建築用の木を集めるために、そのオークの木を切り倒してください。",
+      "grammar": "命令形＋不定詞：指示や指令を直接的に表現。",
+      "ipa": "/kʌt daʊn ðoʊz oʊk triz tu ˈɡæðər wʊd fɔr ˈbɪldɪŋ/",
+      "linking": [
+        "down の語末 /n/ が those の語頭 /ð/（子音）に続く",
+        "those → 弱形なし（通常は弱化しない）",
+        "gather の語末 /r/ が wood の語頭 /w/（子音）に続く",
+        "for → 弱形 /fɔr/"
+      ],
+      "kana": "カット ダウン ゾウズ オウク トリーズ タ ギャザー ウッド ファー ビルディング"
+    },
+    {
+      "en": "They cut the stone blocks to size for the castle walls.",
+      "ja": "城の壁用に、石ブロックをサイズに合わせて切りました。",
+      "grammar": "過去形＋不定詞：過去の目的のある動作を表現。",
+      "ipa": "/ðeɪ kʌt ðə stoʊn blɑks tu saɪz fɔr ðə ˈkæsəl wɔlz/",
+      "linking": [
+        "the → 弱形 /ðə/",
+        "to は /tu/（非縮約）",
+        "for → 弱形 /fɔr/",
+        "the → 弱形 /ðə/（2度目）"
+      ],
+      "kana": "ゼイ カット ザ ストウン ブラックス タ サイズ ファー ザ キャッスル ウォールズ"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "I used a sharp knife to cut the wood into smaller pieces for the campfire.",
+      "swapped_word": "chop",
+      "result": "I used a sharp knife to chop the wood into smaller pieces for the campfire.",
+      "ja": "キャンプファイヤーのために、鋭いナイフで木を小さな断片に細かく切りました。",
+      "note": "chop（叩き切る）はより力強い動作で、通常は大きな動きを含む。cut はより精密で細かい作業に使われることが多い。"
+    },
+    {
+      "base": "The deep cut on my hand was bandaged immediately after the accident.",
+      "swapped_word": "wound",
+      "result": "The deep wound on my hand was bandaged immediately after the accident.",
+      "ja": "事故後すぐに、手の深い傷は包帯で処置されました。",
+      "note": "wound（傷）は cut より一般的で医学的な用語。cut はより特定的に切り傷を指すことが多い。"
+    }
+  ],
+  "collocations": [
+    "cut down（～を切り倒す）",
+    "cut off（～を切り離す）",
+    "cut out（～を切り出す）",
+    "a clean cut（きれいな切り傷）",
+    "make a cut（切り傷をつける）",
+    "cutting edge（最先端）"
+  ],
+  "idioms": [
+    {
+      "idiom": "cut off",
+      "ja": "〜を切り取る・切り離す",
+      "example": "You need to cut off the vines to clear the path.",
+      "example_ja": "道を進むためにつるを切り落とす必要があります。",
+      "ipa": "[juː ˈniːdə ˈkʌɾɔf ðə ˈvaɪnzə ˈklɪr ðə ˈpæθ]",
+      "linking": [
+        "need to → 語末 /d/ が母音 /ə/ に連結 [ˈniːdə] ニーダ。to は弱形 /tə/",
+        "cut off → 語末 /t/ が母音 /ɔ/ に挟まれフラップ化し連結 [ˈkʌɾɔf] カロフ",
+        "vines to → 語末 /z/ が母音 /ə/ に連結 [ˈvaɪnzə] ヴァインザ。to は弱形 /tə/"
+      ],
+      "kana": "ユー ニーダ カロフ ザ ヴァインザ クリア ザ パス"
+    }
+  ],
+  "pos_all": "動詞・名詞",
+  "rank": 503,
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "cuts",
+      "ipa": "/kʌts/",
+      "examples": [
+        {
+          "en": "The diamond pickaxe cuts through stone blocks much faster than a wooden one.",
+          "ja": "ダイヤモンドのピッケルは、木製よりもはるかに速く石ブロックを切ります。",
+          "ipa": "/ðə ˈdaɪəmənd ˈpɪkæks kʌts θru stoʊn blɑks mʌtʃ ˈfæstər ðæn ə ˈwʊdən wʌn/",
+          "kana": "ザ ダイアマンド ピックアックス カッツ スルー ストウン ブラックス マッチ ファスター ザン ア ウッディン ワン",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "cuts の語末 /ts/ が through の /θ/（子音）に続く",
+            "much → /mʌtʃ/",
+            "than の語末 /n/ が a の弱形 /ə/ に連結 [ðæn ə] ザン ア",
+            "a は弱形 /ə/ ア"
+          ]
+        },
+        {
+          "en": "She cuts the vines with her sword while exploring the jungle.",
+          "ja": "彼女はジャングルを探索しながら、剣でつるを切ります。",
+          "ipa": "/ʃi kʌts ðə vaɪnz wɪð hɚ sɔrd waɪl ɪkˈsplɔrɪŋ ðə ˈdʒʌŋɡəl/",
+          "kana": "シー カッツ ザ ヴァインズ ウィズ ハー ソード ワイル イクスプローリング ザ ジャングル",
+          "linking": [
+            "cuts の語末 /ts/ が the の弱形 /ðə/（子音+子音）に続く",
+            "the は弱形 /ðə/",
+            "with は /wɪð/",
+            "while → /waɪl/",
+            "the は弱形 /ðə/（2度目）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "cut",
+      "ipa": "/kʌt/",
+      "examples": [
+        {
+          "en": "We cut down all the trees in the forest yesterday to build our new base.",
+          "ja": "新しいベースを建てるために、昨日、森のすべての木を切り倒しました。",
+          "ipa": "/wi kʌt daʊn ɔl ðə triz ɪn ðə ˈfɔrɪst ˈjɛstərdeɪ tu bɪld aʊr nu ˈbeɪs/",
+          "kana": "ウィ カット ダウン オール ザ トリーズ イン ザ フォレスト イエスターディ タ ビルド アワー ニュー ベイス",
+          "linking": [
+            "cut の語末 /t/ が down の /d/（子音）に未開放で続く [kʌt̚ daʊn] カッ ダウン",
+            "the は弱形 /ðə/",
+            "in の語末が the に続く",
+            "to は弱形 /tu/ タ",
+            "new → /nu/"
+          ]
+        },
+        {
+          "en": "The sharp blade cut through the mob's armor and defeated it instantly.",
+          "ja": "鋭い刃がモブの鎧を貫いて、それを瞬時に倒しました。",
+          "ipa": "/ðə ʃɑrp bleɪd kʌt θru ðə məbz ˈɑrmər ənd dɪˈfitɪd ɪt ˈɪnstəntli/",
+          "kana": "ザ シャープ ブレイド カット スルー ザ モッブズ アーマー アン ディフィーティド イット インスタントリー",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "cut の語末 /t/ が through の /θ/（子音）に未開放で続く",
+            "through の /ɪ/ が the の語頭に続く",
+            "the は弱形 /ðə/",
+            "mob's の語末 /z/ が armor の /ɑ/（母音）に連結 [məbz ˈɑrmər] モッブズ アーマー",
+            "and は弱形 /ənd/ アン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "cut",
+      "ipa": "/kʌt/",
+      "examples": [
+        {
+          "en": "The logs have been cut into planks for the construction project.",
+          "ja": "建設プロジェクトのために、丸太は板に切られています。",
+          "ipa": "/ðə lɔɡz həv bɪn kʌt ˈɪntu ˈplæŋks fɔr ðə kənˈstrʌkʃən ˈprɑdʒɛkt/",
+          "kana": "ザ ログズ ハヴ ビン カット イント プランクス ファー ザ カンストラクション プロジェクト",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/ ビン",
+            "cut の語末 /t/ が into の /ɪ/（母音）に連結 [kʌt ˈɪntu] カット イント",
+            "for は弱形 /fɔr/"
+          ]
+        },
+        {
+          "en": "The vines had been cut away when we finally reached the hidden temple.",
+          "ja": "私たちがついに隠された寺院に到達したとき、つるはすでに切られていました。",
+          "ipa": "/ðə vaɪnz həd bɪn kʌt əˈweɪ wɛn wi ˈfaɪnəli ˈritʃt ðə ˈhɪdən ˈtɛmpəl/",
+          "kana": "ザ ヴァインズ ハド ビン カット ア ウェイ ウェン ウィ ファイナリー リーチト ザ ヒドゥン テンプル",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "cut の語末 /t/ が away の /ə/（母音）に連結 [kʌt əˈweɪ] カット ア ウェイ",
+            "the は弱形 /ðə/（2度出現）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "cutting",
+      "ipa": "/ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "Cutting trees efficiently requires using the right tool for each type of wood.",
+          "ja": "木を効率的に切るには、木の種類ごとに適切な道具を使う必要があります。",
+          "ipa": "/ˈkʌtɪŋ triz ɪˈfɪʃəntli rɪˈkwaɪərz ˈjuzɪŋ ðə raɪt tuːl fɔr itʃ taɪp əv wʊd/",
+          "kana": "カッティング トリーズ イフィシェントリー リクワイアーズ ユージング ザ ライト ツール ファー イーチ タイプ アヴ ウッド",
+          "linking": [
+            "cutting の語末 /ŋ/ が trees の /t/（子音）に続く",
+            "right は /raɪt/",
+            "tool の語末 /l/ が for の弱形 /fɔr/ に連結 [tuːl fɔr] トゥール ファー",
+            "for は弱形 /fɔr/",
+            "of は弱形 /əv/ アヴ"
+          ]
+        },
+        {
+          "en": "By cutting stone carefully, the builders created precise architectural details.",
+          "ja": "石を注意深く切ることで、建築者は正確な建築的詳細を作成しました。",
+          "ipa": "/baɪ ˈkʌtɪŋ stoʊn ˈkɛrfəli | ðə ˈbɪldərz kriˈeɪtəd prɪˈsaɪs ɑrkɪˈtɛktʃərəl ˈditeɪlz/",
+          "kana": "バイ カッティング ストウン ケアフリー、ザ ビルダーズ クリエイティド プリサイス アーキテクチュラル ディテイルズ",
+          "linking": [
+            "cutting の語末 /ŋ/ が stone の /s/（子音）に続く",
+            "builders の語末 /z/ が created の /k/（子音）に続く",
+            "the は弱形 /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is cutting",
+      "ipa": "/ɪz ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is cutting through the forest with his diamond axe right now.",
+          "ja": "スティーブは今、ダイヤのオノで森を切り進めています。",
+          "ipa": "/ˈstiv ɪz ˈkʌtɪŋ θru ðə ˈfɔrɪst wɪð hɪz ˈdaɪəmənd ˈæks raɪt naʊ/",
+          "kana": "スティーヴ イズ カッティング スルー ザ フォレスト ウィズ ヒズ ダイアマンド アックス ライト ナウ",
+          "linking": [
+            "is は弱形 /ɪz/ イズ",
+            "cutting の語末 /ŋ/ が through の /θ/（子音）に続く",
+            "the は弱形 /ðə/",
+            "with は /wɪð/"
+          ]
+        },
+        {
+          "en": "I am cutting the leaves to make a path through the dense vegetation.",
+          "ja": "密集した植生を通って道を作るために、葉を切っています。",
+          "ipa": "/aɪ æm ˈkʌtɪŋ ðə livz tu meɪk ə pæθ θru ðə ˈdɛns ˌvɛdʒɪˈteɪʃən/",
+          "kana": "アイ アム カッティング ザ リーブズ タ メイク ア パス スルー ザ デンス ヴェジテーション",
+          "linking": [
+            "am の語末 /m/ が cutting の /k/（子音）に続く",
+            "cutting の語末 /ŋ/ が the の /ð/（子音）に続く",
+            "the は弱形 /ðə/",
+            "to は弱形 /tu/ タ",
+            "make の語末 /k/ が a の弱形 /ə/ に連結 [meɪk ə] メイカ",
+            "a は弱形 /ə/ ア"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was cutting",
+      "ipa": "/wəz ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "I was cutting wood when the creeper suddenly appeared behind me.",
+          "ja": "クリーパーが突然私の後ろに現れたとき、木を切っていました。",
+          "ipa": "/aɪ wəz ˈkʌtɪŋ wʊd wɛn ðə ˈkriːpər ˈsʌdənli əˈpɪrd bɪˈhaɪnd mi/",
+          "kana": "アイ ワズ カッティング ウッド ウェン ダ クリーパー サドゥンリー ァピアード ビハインド ミー",
+          "linking": [
+            "was は弱形 /wəz/ ワズ",
+            "cutting の語末 /ŋ/ が wood の /w/（子音）に続く",
+            "the は弱形 /ðə/",
+            "appeared の語末 /d/ が behind の /b/（子音）に未開放で続く"
+          ]
+        },
+        {
+          "en": "They were cutting stone blocks when the enderman started attacking.",
+          "ja": "エンダーマンが攻撃を始めたとき、彼らは石ブロックを切っていました。",
+          "ipa": "/ðeɪ wɚ ˈkʌtɪŋ stoʊn blɑks wɛn ðə ˈɛndɚˌmæn ˈstɑːrtɪd əˈtækɪŋ/",
+          "kana": "ゼイ ワー カッティング ストウン ブラックス ウェン ザ エンダーマン スターティド ァタッキング",
+          "linking": [
+            "were は弱形 /wɚ/ ワー",
+            "cutting の語末 /ŋ/ が stone の /s/（子音）に続く",
+            "the は弱形 /ðə/",
+            "started の語末 /d/ が attacking の /ə/（母音）に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been cutting",
+      "ipa": "/həd bɪn ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "She had been cutting lumber for hours before the storm forced everyone to take shelter.",
+          "ja": "嵐が誰もが避難を余儀なくされる前に、彼女は数時間材木を切っていました。",
+          "ipa": "/ʃi həd bɪn ˈkʌtɪŋ ˈlʌmbər fɔr ˈaʊərz bɪˈfɔr ðə stɔrm fɔrst ˈɛvriwʌn tu ˈteɪk ˈʃɛltər/",
+          "kana": "シー ハド ビン カッティング ランバー ファー アワーズ ビフォー ザ ストーム ファースト エブリワン タ テイク シェルター",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "cutting の語末 /ŋ/ が lumber の /l/（子音）に続く",
+            "for は弱形 /fɔr/ ファー",
+            "before は /bɪˈfɔr/、the は弱形 /ðə/",
+            "to は弱形 /tu/ タ"
+          ]
+        },
+        {
+          "en": "The miners had been cutting deep into the mountain when they discovered the rare ore.",
+          "ja": "採掘者が希少な鉱石を発見したとき、彼らは山の奥深くを採掘していました。",
+          "ipa": "/ðə ˈmaɪnərz həd bɪn ˈkʌtɪŋ ˈdip ˈɪntu ðə ˈmaʊntən wɛn ðeɪ dɪˈskʌvərd ðə ˈrɛr ɔr/",
+          "kana": "ザ マイナーズ ハド ビン カッティング ディープ イント ザ マウンテン ウェン ゼイ ディスカバード ザ レア オア",
+          "linking": [
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "cutting の語末 /ŋ/ が deep の /d/（子音）に続く",
+            "into の語末が the に続く、the は弱形 /ðə/ ザ",
+            "discovered の語末 /d/ が the の語頭 /ð/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has cut",
+      "ipa": "/həz kʌt/",
+      "examples": [
+        {
+          "en": "He has cut down enough trees to build a complete wooden house.",
+          "ja": "彼は完全な木造の家を建てるのに十分な木を切り倒しました。",
+          "ipa": "/hi həz kʌt daʊn ɪˈnʌf triz tu bɪld ə kəmˈplit ˈwʊdən haʊs/",
+          "kana": "ヒー ハズ カット ダウン イナフ トリーズ タ ビルド ア コンプリート ウッディン ハウス",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "cut の語末 /t/ が down の /d/（子音）に未開放で続く",
+            "to は弱形 /tu/ タ",
+            "a は弱形 /ə/ ア"
+          ]
+        },
+        {
+          "en": "We have cut through several caves and found multiple mining sites.",
+          "ja": "私たちはいくつかの洞窟を切り進み、複数の鉱山を見つけました。",
+          "ipa": "/wi həv kʌt θru ˈsɛvərəl keɪvz ənd faʊnd ˈmʌltɪpəl ˈmaɪnɪŋ ˈsaɪts/",
+          "kana": "ウィ ハヴ カット スルー セベラル ケイヴズ アン ファウンド マルティプル マイニング サイツ",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "cut の語末 /t/ が through の /θ/（子音）に未開放で続く",
+            "and は弱形 /ənd/ アン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had cut",
+      "ipa": "/həd kʌt/",
+      "examples": [
+        {
+          "en": "By the time the nighttime arrived, we had cut enough wood for the shelter.",
+          "ja": "夜間が到着するまでに、私たちはシェルターのために十分な木を切りました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈnaɪtˌtaɪm əˈraɪvd | wi həd kʌt ɪˈnʌf wʊd fɔr ðə ˈʃɛltər/",
+          "kana": "バイ ザ タイム ザ ナイトタイム ァライvド、ウィ ハド カット イナフ ウッド ファー ザ シェルター",
+          "linking": [
+            "the は弱形 /ðə/（2度出現）",
+            "had は弱形 /həd/ ハド",
+            "cut の語末 /t/ が enough の /ɪ/（母音）に連結 [kʌt ɪˈnʌf] カット イナフ",
+            "for は弱形 /fɔr/"
+          ]
+        },
+        {
+          "en": "The forest had been cut down before the new players arrived in the realm.",
+          "ja": "新しいプレイヤーが領域に到着する前に、森は切り倒されていました。",
+          "ipa": "/ðə ˈfɔrɪst həd bɪn kʌt daʊn bɪˈfɔr ðə nu ˈpleɪərz əˈraɪvd ɪn ðə ˈrilm/",
+          "kana": "ザ フォレスト ハド ビン カット ダウン ビフォー ザ ニュー プレイヤーズ ァライvド イン ザ レルム",
+          "linking": [
+            "the は弱形 /ðə/（2度出現）",
+            "had は弱形 /həd/ ハド",
+            "been は弱形 /bɪn/ ビン",
+            "cut の語末 /t/ が down の /d/（子音）に未開放で続く",
+            "in は弱形 /ɪn/ イン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been cutting",
+      "ipa": "/həz bɪn ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "He has been cutting trees in this forest all morning without stopping.",
+          "ja": "彼は一朝中、この森の木を切り続けています。",
+          "ipa": "/hi həz bɪn ˈkʌtɪŋ triz ɪn ðɪs ˈfɔrɪst ɔl ˈmɔrnɪŋ wɪˈaʊt ˈstɑpɪŋ/",
+          "kana": "ヒー ハズ ビン カッティング トリーズ イン ディス フォレスト オール モーニング ウィザウト ストッピング",
+          "linking": [
+            "has は弱形 /həz/ ハズ",
+            "been は弱形 /bɪn/ ビン",
+            "cutting の語末 /ŋ/ が trees の /t/（子音）に続く",
+            "in は /ɪn/ イン",
+            "all → /ɔl/"
+          ]
+        },
+        {
+          "en": "They have been cutting stone blocks since this morning for the castle walls.",
+          "ja": "彼らは城の壁のために、今朝からずっと石ブロックを切り続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈkʌtɪŋ stoʊn blɑks sɪns ðɪs ˈmɔrnɪŋ fɔr ðə ˈkæsəl wɔlz/",
+          "kana": "ゼイ ハヴ ビン カッティング ストウン ブラックス シンス ディス モーニング ファー ザ キャッスル ウォールズ",
+          "linking": [
+            "have は弱形 /həv/ ハヴ",
+            "been は弱形 /bɪn/ ビン",
+            "cutting の語末 /ŋ/ が stone の /s/（子音）に続く",
+            "for は弱形 /fɔr/ ファー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will cut",
+      "ipa": "/wɪl kʌt/",
+      "examples": [
+        {
+          "en": "I will cut down those trees tomorrow to gather wood for the new base.",
+          "ja": "明日、新しいベースのために木を集めるためにそれらの木を切り倒します。",
+          "ipa": "/aɪ wɪl kʌt daʊn ðoʊz triz təˈmɑroʊ tu ˈɡæðər wʊd fɔr ðə nu ˈbeɪs/",
+          "linking": [
+            "will → 主語と縮約されることが多い（I'll /aɪl/）。非縮約の場合 /wɪl/",
+            "cut の語末 /t/ が down の /d/（子音）に未開放で続く [kʌt̚ daʊn] カッ ダウン",
+            "to は弱形 /tu/ タ",
+            "for は弱形 /fɔr/ ファー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ウィル カット ダウン ゾウズ トリーズ トゥモロウ タ ギャザー ウッド ファー ザ ニュー ベイス"
+        },
+        {
+          "en": "We'll cut through the mountain using TNT to find the diamond layer quickly.",
+          "ja": "TNTを使ってダイヤの層を素早く見つけるために、山を切り進みます。",
+          "ipa": "/wil kʌt θru ðə ˈmaʊntən ˈjuzɪŋ tiːɛnˈti tu faɪnd ðə ˈdaɪəmənd ˈleɪər ˈkwɪkli/",
+          "linking": [
+            "we'll → /wil/ ウィル",
+            "cut の語末 /t/ が through の /θ/（子音）に未開放で続く",
+            "through の語末が the の弱形 /ðə/ に続く",
+            "the は弱形 /ðə/ ザ",
+            "to は弱形 /tu/ タ",
+            "the は弱形 /ðə/ ザ（2度目）"
+          ],
+          "kana": "ウィル カット スルー ザ マウンテン ユージング ティーエヌティー タ ファインド ザ ダイアマンド レイヤー クイックリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be cutting",
+      "ipa": "/wɪl bi ˈkʌtɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow at noon, she will be cutting stone blocks for the castle foundation.",
+          "ja": "明日正午に、城の基礎のために石ブロックを切っています。",
+          "ipa": "/təˈmɑroʊ æt nun | ʃi wɪl bi ˈkʌtɪŋ stoʊn blɑks fɔr ðə ˈkæsəl faʊnˈdeɪʃən/",
+          "linking": [
+            "at の語末 /t/ が noon の /n/（子音）に未開放で続く [æt̚ nun] アッ ヌーン",
+            "she will be → will は非縮約 /wɪl/、be は弱形 /bi/ ビー",
+            "be の語末 /i/ が cutting の /k/（子音）に続く",
+            "cutting の語末 /ŋ/ が stone の /s/（子音）に続く",
+            "for は弱形 /fɔr/ ファー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "トゥモロウ アッ ヌーン、シー ウィル ビー カッティング ストウン ブラックス ファー ザ キャッスル ファウンデーション"
+        },
+        {
+          "en": "While you're defending the base, they'll be cutting wood in the forest nearby.",
+          "ja": "あなたがベースを守っている間、彼らは近くの森で木を切っているでしょう。",
+          "ipa": "/waɪl jɔr dɪˈfɛndɪŋ ðə ˈbeɪs | ðeɪl bi ˈkʌtɪŋ wʊd ɪn ðə ˈfɔrɪst ˈnɪərbaɪ/",
+          "linking": [
+            "while の語末 /l/ が you're の /j/（子音）に連結 [waɪl jɔr] ワイル ユア",
+            "the は弱形 /ðə/ ザ",
+            "they'll → /ðeɪl/ ゼイル",
+            "be の語末 /i/ が cutting の /k/（子音）に続く",
+            "cutting の語末 /ŋ/ が wood の /w/（子音）に続く",
+            "in は /ɪn/ イン",
+            "the は弱形 /ðə/ ザ（2度目）"
+          ],
+          "kana": "ワイル ユア ディフェンディング ザ ベイス、ゼイル ビー カッティング ウッド イン ザ フォレスト ニアバイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have cut",
+      "ipa": "/wɪl həv kʌt/",
+      "examples": [
+        {
+          "en": "By sunset, we will have cut enough wood to build the entire structure.",
+          "ja": "日没までに、私たちは構造全体を建てるのに十分な木を切ります。",
+          "ipa": "/baɪ ˈsʌnˌsɛt | wi wɪl həv kʌt ɪˈnʌf wʊd tu bɪld ðə ɪnˈtaɪər ˈstrʌktʃər/",
+          "linking": [
+            "we will have → will の非縮約 /wɪl/、have は弱形 /həv/ ハヴ",
+            "have の語末 /v/ が cut の /k/（子音）に続く",
+            "cut の語末 /t/ が enough の /ɪ/（母音）に連結 [kʌt ɪˈnʌf] カット イナフ",
+            "to は弱形 /tu/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ サンセット、ウィ ウィル ハヴ カット イナフ ウッド タ ビルド ザ インタイアー ストラクチャー"
+        },
+        {
+          "en": "Before the next season update, they'll have cut through the entire canyon system.",
+          "ja": "次のシーズンアップデート前に、彼らはキャニオンシステム全体を切り抜くでしょう。",
+          "ipa": "/bɪˈfɔr ðə ˈnɛkst ˈsizən ˈʌpˌdeɪt | ðeɪl həv kʌt θru ðə ɪnˈtaɪər ˈkænjən ˈsɪstəm/",
+          "linking": [
+            "before の /r/ が the の弱形 /ðə/ に続く [bɪˈfɔr ðə] ビフォー ザ",
+            "the は弱形 /ðə/ ザ（2度目）",
+            "they'll have → /ðeɪl həv/ ゼイル ハヴ",
+            "have の語末 /v/ が cut の /k/（子音）に続く",
+            "cut の語末 /t/ が through の /θ/（子音）に未開放で続く",
+            "entire の /r/ が canyon の /k/（子音）に続く"
+          ],
+          "kana": "ビフォー ザ ネクスト シーズン アップデイト、ゼイル ハヴ カット スルー ザ インタイアー キャニオン システム"
+        }
+      ]
+    }
+  ]
+}

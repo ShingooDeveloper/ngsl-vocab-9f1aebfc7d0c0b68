@@ -77,5 +77,39 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "scenarios",
+      "ipa": "/səˈnæroʊz/",
+      "examples": [
+        {
+          "en": "Several scenarios emerged from the dangerous Nether biome.",
+          "ja": "ネザーの危険なバイオームから、いくつかのシナリオが出現しました。",
+          "ipa": "/ˈsɛvərəl səˈnæroʊz ɪˈmɜːrdʒd frəm ðə ˈdeɪndʒərəs ˈneðər baɪˈoʊm/",
+          "linking": [
+            "scenarios emerged - 語末子音 /z/ が母音 /ɪ/ に連結 [səˈnæroʊzɪˈmɜːrdʒd] サナーロウズィマージド",
+            "from the - from は弱形 /frəm/、the は弱形 /ðə/ に弱化",
+            "the dangerous - 'the' 弱形 /ðə/ と dangerous の子音 /d/ は子音+子音（未開放）",
+            "dangerous Nether - /s/ + /n/ は子音+子音、連結なし"
+          ],
+          "kana": "セヴラル サナーロウズィマージド フラム ザ デンジャラス ネザー バイオーム"
+        },
+        {
+          "en": "Most scenarios involve exploring unknown territory and fighting dangerous mobs.",
+          "ja": "ほとんどのシナリオは、未知の領域の探索と危険なモブとの戦いを伴っています。",
+          "ipa": "/moʊst səˈnæroʊz ɪnˈvɑːlv ɪkˈsplɔːrɪŋ ʌnˈnoʊn ˈtɛrətɔːri ənd ˈfaɪtɪŋ ˈdeɪndʒərəs mɑːbz/",
+          "linking": [
+            "scenarios involve - 語末子音 /z/ が母音 /ɪ/ に連結 [səˈnæroʊzɪnˈvɑːlv] サナーロウズィンボルヴ",
+            "involve exploring - 語末子音 /v/ が母音 /ɪ/ に連結 [ɪnˈvɑːlvɪkˈsplɔːrɪŋ] インボルヴィクスプローリング",
+            "and fighting - 'and' は弱形 /ənd/ に弱化、fighting の子音 /f/ に未開放",
+            "territory and - /i/ + /ə/ 母音+母音、弱形と弱化のみ"
+          ],
+          "kana": "モースト サナーロウズィンボルヴィクスプローリング アンノウン テリトリー アンド ファイティング デンジャラス マーブズ"
+        }
+      ]
+    }
   ]
 }

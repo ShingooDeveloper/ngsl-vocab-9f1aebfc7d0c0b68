@@ -1,0 +1,72 @@
+{
+  "word": "and",
+  "pos": "接続詞・機能語",
+  "pos_all": "接続詞・機能語",
+  "ipa_us": "/ənd/ または /ænd/",
+  "rank": 1,
+  "level": "A1",
+  "hi": "and",
+  "meanings": [
+    "【接続詞】～と、～および、そして（used to connect words, phrases, or clauses）",
+    "【機能語】（列挙で）…と…と…（in lists or series）",
+    "【機能語】（因果で）そうすると、それで、その結果（expressing consequence）",
+    "【マインクラフト】アイテムの組み合わせ（木と石、ダイヤモンドとエメラルド等）、連続したアクション、資源の複数獲得を表現する基本接続詞（fundamental connector for combining materials, actions, and resource gathering）"
+  ],
+  "examples": [
+    {
+      "en": "I found iron and copper in the mines.",
+      "ja": "私は鉱山で鉄と銅を見つけました。",
+      "ipa": "/aɪ ˈfaʊnd ˈaɪərn ənd ˈkɑpər ɪn ðə ˈmaɪnz/",
+      "linking": [
+        "found の末子音 /d/ が iron の初母音 /aɪ/ に連結。",
+        "and は弱形 /ənd/ で、末子音 /d/ が copper の初母音 /ɑ/ に連結。"
+      ],
+      "kana": "アイ ファウンド アイアーン アン コッパー イン ザ マインズ"
+    },
+    {
+      "en": "You need wood and stone for the crafting table.",
+      "ja": "クラフティングテーブルには木と石が必要です。",
+      "ipa": "/ju ˈniːd ˈwʊd ənd ˈstoʊn fɔr ðə ˈkræftɪŋ ˈteɪbəl/",
+      "linking": [
+        "need の末子音 /d/ が wood の初子音 /w/ に続く（子音+子音）。",
+        "and は弱形 /ənd/ で、末子音 /d/ が stone の初母音 /s/... 待って、stone は /st/ で母音ではない。実は /s/ は子音。連結なし。"
+      ],
+      "kana": "ユー ニード ウッド エン ストーン フォー ザ クラフティング テイブル"
+    },
+    {
+      "en": "The Ender Dragon is powerful and requires careful preparation.",
+      "ja": "エンダードラゴンは強力で、慎重な準備が必要です。",
+      "ipa": "/ðə ˈɛndər ˈdræɡən ɪz ˈpaʊərfəl ənd rɪˈkwaɪərz ˈkeərfəl ˌprɛpəˈreɪʃən/",
+      "linking": [
+        "and は弱形 /ənd/ で、末子音 /d/ が requires の初母音 /ɪ/ に連結。"
+      ],
+      "kana": "ザ エンダー ドラゴン イズ パワーフル エン リクワイアーズ ケアフル プレッパレイション"
+    },
+    {
+      "en": "I planted seeds and built a farm.",
+      "ja": "種を植えて、農場を建設しました。",
+      "ipa": "/aɪ ˈplæntɪd ˈsidz ənd ˈbɪlt ə ˈfɑrm/",
+      "linking": [
+        "and は弱形 /ənd/ で、末子音 /d/ が built の初子音 /b/ に続く（子音+子音）。but a の場合は、末子音 /d/ が a の初母音 /ə/ に連結。",
+        "a は弱形 /ə/。"
+      ],
+      "kana": "アイ プラント シーズ エン ビルト ア ファーム"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "and so on",
+      "ja": "など、等（その他も同様）",
+      "example": "Skeletons, zombies, and so on appear at night.",
+      "example_ja": "スケルトンやゾンビーなど、さまざまなモンスターが夜に出現します。",
+      "ipa": "/ˈskɛlɪtənz ˈzɑmbiz ænd ˈsoʊ ɑn əˈpɪɹ æt ˈnaɪt/",
+      "linking": [
+        "zombies末尾の /z/ が and の初頭母音 /æ/ に連結。",
+        "on末尾の /n/ が appear の初頭母音 /ə/ に連結。",
+        "appear末尾の /ɹ/ が at の初頭母音 /æ/ に連結。"
+      ],
+      "kana": "スケレトンズ ゾンビーズ アンド ソー オン アピア アット ナイト"
+    }
+  ],
+  "forms": []
+}

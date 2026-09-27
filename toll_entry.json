@@ -1,0 +1,536 @@
+{
+  "word": "toll",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/toʊl/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "toll(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】道路や橋を利用するために支払う料金（a fee paid to use a road or bridge）",
+    "【名詞】鐘の音、特に葬式や警告の時に鳴らされる鐘の音（the sound of a bell, especially when rung for a funeral or warning）",
+    "【動詞】(鐘を)鳴らす、(鐘が)鳴る（to ring a bell, or to make a bell ring）",
+    "【動詞】(何かが)悪い影響を与える、(…に)打撃を与える（to have a bad effect on something）"
+  ],
+  "examples": [
+    {
+      "en": "Players must pay a small toll of five emeralds to use the main highway.",
+      "ja": "プレイヤーは主要な高速道路を利用するために5つのエメラルドの小さな通行料金を支払う必要があります。",
+      "ipa": "/ˈpleɪɚz məst peɪ ə ˈsmɔl ˈtoʊl əv ˈfaɪv ˈɛmɚəldz tə ˈjuːz ðə ˈmeɪn ˈhaɪˌweɪ/",
+      "linking": [
+        "must は /məst/。pay に続く [məst peɪ] マスト ペイ",
+        "a は弱形 /ə/。small に連結 [ə ˈsmɔl] ア スモール",
+        "toll の末尾 /l/ が of の初頭 /ə/ に連結 [ˈtoʊl əv] トール アヴ",
+        "main は /meɪn/。highway に続く [ˈmeɪn ˈhaɪˌweɪ] メイン ハイウェイ"
+      ],
+      "kana": "プレイアーズ マスト ペイ ア スモール トール アヴ ファイヴ エメラルズ トゥ ユーズ ザ メイン ハイウェイ"
+    },
+    {
+      "en": "The bell tolls every night to signal the end of the day.",
+      "ja": "その鐘は毎晩、一日の終わりを示すために鳴ります。",
+      "ipa": "/ðə ˈbɛl ˈtoʊlz ˈɛvɚi ˈnaɪt tə ˈsɪɡnəl ðə ˈɛnd əv ðə ˈdeɪ/",
+      "linking": [
+        "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+        "bell の末尾 /l/ が tolls の初頭 /t/ に続く（子音+子音で未開放）",
+        "every は /ˈɛvɚi/。night に続く [ˈɛvɚi ˈnaɪt] エヴリ ナイト",
+        "the は弱形 /ðə/。day に連結 [ðə ˈdeɪ] ザ デイ"
+      ],
+      "kana": "ザ ベル トールズ エヴリ ナイト トゥ シグナル ザ エンド アヴ ザ デイ"
+    },
+    {
+      "en": "The constant mining has taken its toll on our server's performance.",
+      "ja": "絶え間ない採掘はサーバーのパフォーマンスに悪影響を与えています。",
+      "ipa": "/ðə ˈkɑnstənt ˈmaɪnɪŋ hæz ˈteɪkən ɪts ˈtoʊl ɑn ˈaʊɚ ˈsɜrvɚz pɚˈfɔɹməns/",
+      "linking": [
+        "the は弱形 /ðə/。constant に連結 [ðə ˈkɑnstənt] ザ コンスタント",
+        "has は弱形 /əz/ に弱化 [hæz ˈteɪkən] ハズ テイクン",
+        "its は /ɪts/。toll に続く [ɪts ˈtoʊl] イッツ トール",
+        "server の末尾 /ɚ/ が performance の初頭 /p/ に先行（未開放）"
+      ],
+      "kana": "ザ コンスタント マイニング ハズ テイクン イッツ トール オン アワー サーヴァーズ パフォーマンス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "take a toll on",
+      "ja": "…に悪影響を与える、…にダメージを与える",
+      "example": "The constant battles take a toll on our player retention rates.",
+      "example_ja": "絶え間ない戦闘は、プレイヤーの維持率に悪影響を与えます。",
+      "ipa": "/ðə ˈkɑnstənt ˈbætəlz ˈteɪk ə ˈtoʊl ɑn ˈaʊɚ ˈpleɪɚ rɪˈtɛnʃən ˈreɪts/",
+      "linking": [
+        "the は弱形 /ðə/。constant に連結 [ðə ˈkɑnstənt] ザ コンスタント",
+        "battles の末尾 /z/ が take の初頭 /t/ に先行（子音+子音で未開放）",
+        "a は弱形 /ə/。toll に連結 [ə ˈtoʊl] ア トール",
+        "player の末尾 /r/ が retention に r-linking で連結 [ˈpleɪɚ rɪˈtɛnʃən]"
+      ],
+      "kana": "ザ コンスタント バトルズ テイク ア トール オン アワー プレイアー リテンション レイツ"
+    },
+    {
+      "idiom": "toll bell",
+      "ja": "通行料金用の鐘、または葬式用の鐘",
+      "example": "The toll bell rings whenever someone passes through the checkpoint.",
+      "example_ja": "誰かがチェックポイントを通過するたびに、通行料金の鐘が鳴ります。",
+      "ipa": "/ðə ˈtoʊl ˈbɛl ˈɹɪŋz ˈwɛnɛvɚ ˈsʌmwən ˈpæsəz θruː ðə ˈtʃɛkˌpoʊnt/",
+      "linking": [
+        "the は弱形 /ðə/。toll に連結 [ðə ˈtoʊl] ザ トール",
+        "bell の末尾 /l/ が rings の初頭 /ɹ/ に続く（子音+子音）[ˈbɛl ˈɹɪŋz] ベル リングズ",
+        "whenever は /wɛnˈɛvɚ/。someone に続く [wɛnˈɛvɚ ˈsʌmwən] ウェネバー サムワン",
+        "through は /θruː/。the は弱形 /ðə/ [θruː ðə] スルー ザ"
+      ],
+      "kana": "ザ トール ベル リングズ ウェネバー サムワン パセズ スルー ザ チェックポイント"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "tolls",
+      "ipa": "/toʊlz/",
+      "examples": [
+        {
+          "en": "The tolls for all three bridges are collected automatically by the system.",
+          "ja": "3つすべての橋の通行料金は、システムによって自動的に徴収されます。",
+          "ipa": "/ðə ˈtoʊlz fɚ ˈɔl ˈθriː ˈbrɪdʒəz ɑr kəˈlɛktəd ˌɔtəˈmætɪkli baɪ ðə ˈsɪstəm/",
+          "linking": [
+            "the は弱形 /ðə/。tolls に連結 [ðə ˈtoʊlz] ザ トールズ",
+            "tolls の末尾 /z/ が for に連結しない（子音+子音で未開放）",
+            "for は弱形 /fɚ/。all に続く [fɚ ˈɔl] ファー オール",
+            "three は /ˈθriː/。bridges に続く [ˈθriː ˈbrɪdʒəz] スリー ブリジーズ"
+          ],
+          "kana": "ザ トールズ ファー オール スリー ブリジーズ アー コレクテッド オートゥマティッカリー バイ ザ システム"
+        },
+        {
+          "en": "Tolls from mining operations add up to significant earnings each week.",
+          "ja": "採掘事業からの通行料金は、毎週かなりの収益に合計されます。",
+          "ipa": "/ˈtoʊlz frəm ˈmaɪnɪŋ ˌɑpəˈɹeɪʃənz ˈæd ʌp tə sɪɡˈnɪfɪkənt ˈɝnɪŋz iːtʃ ˈwiːk/",
+          "linking": [
+            "tolls の末尾 /z/ が from に連結しない（子音+子音で未開放）",
+            "from は弱形 /frəm/。mining に続く [frəm ˈmaɪnɪŋ] フラム マイニング",
+            "operations の末尾 /z/ が add に続く（子音+子音で未開放）[ˈɹeɪʃənz ˈæd] レイションズ アド",
+            "each は /iːtʃ/。week に続く [iːtʃ ˈwiːk] イーチ ウィーク"
+          ],
+          "kana": "トールズ フラム マイニング オパレイションズ アド アップ トゥ シグニフィカント アーニングズ イーチ ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "tolls",
+      "ipa": "/toʊlz/",
+      "examples": [
+        {
+          "en": "The ancient bell tolls once every hour to mark the passage of time.",
+          "ja": "その古い鐘は、時間の経過を記すために1時間に1回鳴ります。",
+          "ipa": "/ðə ˈeɪnʃənt ˈbɛl ˈtoʊlz ˈwʌns ˈɛvɚi ˈaʊɚ tə ˈmɑrk ðə ˈpæsɪdʒ əv ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/。ancient に連結 [ðə ˈeɪnʃənt] ザ エインシェント",
+            "bell の末尾 /l/ が tolls の初頭 /t/ に続く（子音+子音で未開放）[ˈbɛl ˈtoʊlz] ベル トールズ",
+            "mark の末尾 /k/ が the に連結しない（子音+子音で未開放）",
+            "time の末尾 /m/ が後に続かない（文末）"
+          ],
+          "kana": "ザ エインシェント ベル トールズ ワンス エヴリ アワー トゥ マーク ザ パセッジ アヴ タイム"
+        },
+        {
+          "en": "When a player wins, the bell tolls to celebrate their achievement.",
+          "ja": "プレイヤーが勝つと、その成果を祝うために鐘が鳴ります。",
+          "ipa": "/wɛn ə ˈpleɪɚ ˈwɪnz | ðə ˈbɛl ˈtoʊlz tə ˈsɛləˌbreɪt ðɛɹ əˈtʃiːvmənt/",
+          "linking": [
+            "when は /wɛn/。a は弱形 /ə/ [wɛn ə] ウェン ア",
+            "wins の末尾 /z/ が the に続く（子音+子音で未開放）[ˈwɪnz ðə] ウィンズ ザ",
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が tolls に続く（未開放）[ˈbɛl ˈtoʊlz]"
+          ],
+          "kana": "ウェン ア プレイアー ウィンズ | ザ ベル トールズ トゥ セレブレイト ザェア アチーヴメント"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "tolled",
+      "ipa": "/toʊld/",
+      "examples": [
+        {
+          "en": "The funeral bell tolled for thirty minutes to honor the fallen player.",
+          "ja": "葬儀の鐘は、倒れたプレイヤーを敬意を表して30分間鳴りました。",
+          "ipa": "/ðə ˈfjuːnərəl ˈbɛl ˈtoʊld fɚ ˈθɝdi ˈmɪnəts tə ˈɑnɚ ðə ˈfɔlən ˈpleɪɚ/",
+          "linking": [
+            "the は弱形 /ðə/。funeral に連結 [ðə ˈfjuːnərəl] ザ フューナラル",
+            "bell の末尾 /l/ が tolled の初頭 /t/ に続く（子音+子音で未開放）",
+            "for は弱形 /fɚ/。thirty に続く [fɚ ˈθɝdi] ファー サーティ",
+            "honor の末尾 /r/ が the に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "ザ フューナラル ベル トールド ファー サーティ ミナッツ トゥ オナー ザ フォーレン プレイアー"
+        },
+        {
+          "en": "The bell tolled loudly when we defeated the final boss yesterday.",
+          "ja": "昨日、私たちが最終ボスを倒したとき、鐘は大声で鳴りました。",
+          "ipa": "/ðə ˈbɛl ˈtoʊld ˈlaʊdli wɛn wiː dɪˈfiːtəd ðə ˈfaɪnəl ˈbɑs ˈjɛstɚdeɪ/",
+          "linking": [
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が tolled の初頭 /t/ に続く（子音+子音で未開放）",
+            "when は /wɛn/。we に続く [wɛn wiː] ウェン ウィ",
+            "defeated の末尾 /d/ が the に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "ザ ベル トールド ラウドリー ウェン ウィ ディフィーテッド ザ ファイナル ボス イェスタラデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "tolled",
+      "ipa": "/toʊld/",
+      "examples": [
+        {
+          "en": "Having tolled for three hours, the bell finally stopped ringing.",
+          "ja": "3時間鳴った後、その鐘はついに鳴るのを止めました。",
+          "ipa": "/ˈhævɪŋ ˈtoʊld fɚ ˈθriː ˈaʊɚz | ðə ˈbɛl ˈfaɪnəli ˈstɑpt ˈrɪŋɪŋ/",
+          "linking": [
+            "having の末尾 /ŋ/ が tolled に連結しない（鼻音+子音で未開放）",
+            "tolled の末尾 /d/ が for に連結しない（子音+子音で未開放）",
+            "for は弱形 /fɚ/。three に続く [fɚ ˈθriː] ファー スリー",
+            "stopped は /stɑpt/。ringing に続く [ˈstɑpt ˈrɪŋɪŋ]"
+          ],
+          "kana": "ハーヴィング トールド ファー スリー アワーズ | ザ ベル ファイナリー ストップト リギング"
+        },
+        {
+          "en": "After the bell had tolled, all players gathered in the plaza.",
+          "ja": "鐘が鳴った後、すべてのプレイヤーが広場に集まりました。",
+          "ipa": "/ˈæftɚ ðə ˈbɛl hæd ˈtoʊld | ˈɔl ˈpleɪɚz ˈɡæðɚd ɪn ðə ˈplæzə/",
+          "linking": [
+            "after の末尾 /ɚ/ が the に連結しない（子音+子音で未開放）",
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が had に続く（子音+子音で未開放）[ˈbɛl hæd] ベル ハッド",
+            "all は /ɔl/。players に続く [ˈɔl ˈpleɪɚz] オール プレイアーズ"
+          ],
+          "kana": "アフター ザ ベル ハッド トールド | オール プレイアーズ ガザード イン ザ プラザ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "tolling",
+      "ipa": "/ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "Tolling the bells signals that a special event is about to start.",
+          "ja": "鐘を鳴らすことは、特別なイベントが始まろうとしていることを示しています。",
+          "ipa": "/ˈtoʊlɪŋ ðə ˈbɛlz ˈsɪɡnəlz ðæt ə ˈspɛʃəl ɪˈvɛnt ɪz əˈbaʊt tə ˈstɑrt/",
+          "linking": [
+            "tolling の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）",
+            "the は弱形 /ðə/。bells に連結 [ðə ˈbɛlz] ザ ベルズ",
+            "bells の末尾 /z/ が signals に連結しない（子音+子音で未開放）",
+            "about は /əˈbaʊt/。to は弱形 /tə/。start に続く [tə ˈstɑrt]"
+          ],
+          "kana": "トーリング ザ ベルズ シグナルズ ザット ア スペシャル イベント イズ アバウト タ スターット"
+        },
+        {
+          "en": "The tower is currently tolling to warn everyone of the approaching storm.",
+          "ja": "その塔は現在、接近する嵐を警告するために鐘を鳴らしています。",
+          "ipa": "/ðə ˈtaʊɚ ɪz ˈkɝəntli ˈtoʊlɪŋ tə ˈwɔrn ˈɛvɚiwən əv ði əˈproʊtʃɪŋ ˈstɔrm/",
+          "linking": [
+            "the は弱形 /ðə/。tower に連結 [ðə ˈtaʊɚ] ザ タワー",
+            "tower の末尾 /r/ が is に r-linking で連結 [ˈtaʊɚ ɪz] タワー イズ",
+            "tolling の末尾 /ŋ/ が to に連結しない（鼻音+子音で未開放）",
+            "of は弱形 /əv/。the は弱形 /ði/（母音の前）"
+          ],
+          "kana": "ザ タワー イズ カレントリー トーリング トゥ ウォーン エヴリワン アヴ ジ アプローチング ストーム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is tolling",
+      "ipa": "/ɪz ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "The bell is tolling to mark the start of the tournament.",
+          "ja": "その鐘はトーナメントの開始を示すために鳴っています。",
+          "ipa": "/ðə ˈbɛl ɪz ˈtoʊlɪŋ tə ˈmɑrk ðə ˈstɑrt əv ðə ˈtɔrnəmənt/",
+          "linking": [
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が is に連結 [ˈbɛl ɪz] ベル イズ",
+            "is は弱形 /ɪz/。tolling に続く [ɪz ˈtoʊlɪŋ] イズ トーリング",
+            "mark の末尾 /k/ が the に続く（子音+子音で未開放）"
+          ],
+          "kana": "ザ ベル イズ トーリング トゥ マーク ザ スターット アヴ ザ トーナメント"
+        },
+        {
+          "en": "They are tolling the bells as the sun rises over the castle.",
+          "ja": "城の上に太陽が昇る中、彼らは鐘を鳴らしています。",
+          "ipa": "/ðeɪ ɑr ˈtoʊlɪŋ ðə ˈbɛlz æz ðə ˈsʌn ˈraɪzəz ˈoʊvɚ ðə ˈkæsəl/",
+          "linking": [
+            "they は /ðeɪ/。are は /ɑr/ [ðeɪ ɑr] ザェイ アー",
+            "are の末尾 /r/ が tolling の初頭 /t/ に先行（子音+子音で未開放）[ɑr ˈtoʊlɪŋ]",
+            "the は弱形 /ðə/。bells に連結 [ðə ˈbɛlz] ザ ベルズ",
+            "sun の末尾 /n/ が rises に続く（子音+子音で未開放）"
+          ],
+          "kana": "ザェイ アー トーリング ザ ベルズ アズ ザ サン ライズズ オーヴァー ザ キャッスル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was tolling",
+      "ipa": "/wəz ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "The bell was tolling when we broke through the castle gates.",
+          "ja": "城の門を突破したとき、鐘が鳴っていました。",
+          "ipa": "/ðə ˈbɛl wəz ˈtoʊlɪŋ wɛn wiː ˈbroʊk θruː ðə ˈkæsəl ˈɡeɪts/",
+          "linking": [
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が was に続く（子音+子音で未開放）。was は弱形 /wəz/ [ˈbɛl wəz]",
+            "was の末尾 /z/ が tolling に続く（子音+子音で未開放）[wəz ˈtoʊlɪŋ] ワズ トーリング",
+            "through は /θruː/。the は弱形 /ðə/。連結 [θruː ðə] スルー ザ"
+          ],
+          "kana": "ザ ベル ワズ トーリング ウェン ウィ ブロック スルー ザ キャッスル ゲイツ"
+        },
+        {
+          "en": "They were tolling the bells throughout the night during the siege.",
+          "ja": "包囲中の夜通し、彼らは鐘を鳴らし続けていました。",
+          "ipa": "/ðeɪ wɚ ˈtoʊlɪŋ ðə ˈbɛlz ˈθruːaʊt ðə ˈnaɪt ˈdʊrɪŋ ðə ˈsiːdʒ/",
+          "linking": [
+            "they は /ðeɪ/。were は弱形 /wɚ/ [ðeɪ wɚ] ザェイ ワー",
+            "were の末尾 /r/ が tolling に続く（子音+子音で未開放）[wɚ ˈtoʊlɪŋ] ワー トーリング",
+            "tolling の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）",
+            "night の末尾 /t/ が during に続く（子音+子音で未開放）"
+          ],
+          "kana": "ザェイ ワー トーリング ザ ベルズ スルーアウト ザ ナイト ドゥリング ザ シージ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been tolling",
+      "ipa": "/həd bɪn ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "The bell had been tolling for hours before we finally reached the summit.",
+          "ja": "頂上に到達する前に、鐘は何時間も鳴り続けていました。",
+          "ipa": "/ðə ˈbɛl həd bɪn ˈtoʊlɪŋ fɚ ˈaʊɚz bɪˈfɔr wiː ˈfaɪnəli ˈritʃt ðə ˈsʌmɪt/",
+          "linking": [
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が had に続く（子音+子音で未開放）。had は弱形 /həd/ [ˈbɛl həd]",
+            "had の末尾 /d/ が been に続く（子音+子音で未開放）。been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "tolling の末尾 /ŋ/ が for に連結しない（鼻音+子音で未開放）"
+          ],
+          "kana": "ザ ベル ハド ビン トーリング ファー アワーズ ビフォア ウィ ファイナリー リッチト ザ サミット"
+        },
+        {
+          "en": "The warning bells had been tolling all day to signal the approaching dragon.",
+          "ja": "近づいているドラゴンを警告するために、警報ベルが一日中鳴り続けていました。",
+          "ipa": "/ðə ˈwɔrnɪŋ ˈbɛlz həd bɪn ˈtoʊlɪŋ ˈɔl ˈdeɪ tə ˈsɪɡnəl ðiː əˈproʊtʃɪŋ ˈdræɡən/",
+          "linking": [
+            "the は弱形 /ðə/。warning に連結 [ðə ˈwɔrnɪŋ] ザ ウォーニング",
+            "warning の末尾 /ŋ/ が bells に連結しない（鼻音+子音で未開放）",
+            "bells の末尾 /z/ が had に続く（子音+子音で未開放）。had は弱形 /həd/",
+            "been は弱形 /bɪn/。tolling に続く [bɪn ˈtoʊlɪŋ] ビン トーリング"
+          ],
+          "kana": "ザ ウォーニング ベルズ ハド ビン トーリング オール デイ トゥ シグナル ジー アプローチング ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has tolled",
+      "ipa": "/həz ˈtoʊld/",
+      "examples": [
+        {
+          "en": "The bell has tolled three times to signal the resource shortage on the server.",
+          "ja": "サーバーのリソース不足を知らせるために、鐘が3回鳴りました。",
+          "ipa": "/ðə ˈbɛl həz ˈtoʊld ˈθriː ˈtaɪmz tə ˈsɪɡnəl ðə rɪˈsɔrs ˈʃɔrtɪdʒ ɑn ðə ˈsɜrvɚ/",
+          "linking": [
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が has に連結 [ˈbɛl həz] ベル ハズ",
+            "has は弱形 /həz/。tolled に続く [həz ˈtoʊld] ハズ トールド",
+            "shortage の末尾 /dʒ/ が on に続く（子音+子音で未開放）"
+          ],
+          "kana": "ザ ベル ハズ トールド スリー タイムズ トゥ シグナル ザ リソース ショートウィッジ オン ザ サーバー"
+        },
+        {
+          "en": "We have tolled the emergency bells to evacuate all players from the burning forest.",
+          "ja": "燃える森のすべてのプレイヤーを避難させるために、緊急ベルを鳴らしました。",
+          "ipa": "/wiː həv ˈtoʊld ðɪ ɪˈmɝdʒənsi ˈbɛlz tə ɪˈvækjueɪt ˈɔl ˈpleɪɚz frəm ðə ˈbɝnɪŋ ˈfɔrəst/",
+          "linking": [
+            "we は /wiː/。have は弱形 /həv/。連結 [wiː həv] ウィ ハヴ",
+            "have の末尾 /v/ が tolled に続く（子音+子音で未開放）。tolled は /ˈtoʊld/",
+            "emergency の末尾 /i/ が bells に続く（母音+子音で未開放）",
+            "from は弱形 /frəm/。burning に続く [frəm ˈbɝnɪŋ] フラム バーニング"
+          ],
+          "kana": "ウィ ハヴ トールド ディ イマージェンシー ベルズ トゥ イバックューエイト オール プレイアーズ フラム ザ バーニング フォレスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had tolled",
+      "ipa": "/həd ˈtoʊld/",
+      "examples": [
+        {
+          "en": "After the alarm bell had tolled for hours, everyone finally gathered in the enchanting room.",
+          "ja": "警報ベルが何時間も鳴った後、みんなは魔法の部屋に集まりました。",
+          "ipa": "/ˈæftɚ ðɪ əˈlɑrm ˈbɛl həd ˈtoʊld fɚ ˈaʊɚz | ˈɛvriwən ˈfaɪnəli ˈɡæðɚd ɪn ðɪ ɪnˈtʃɑntɪŋ ˈrum/",
+          "linking": [
+            "after の末尾 /r/ が the に先行（子音+子音で未開放）",
+            "bell の末尾 /l/ が had に連結 [ˈbɛl həd] ベル ハド",
+            "had は弱形 /həd/。tolled に続く [həd ˈtoʊld] ハド トールド",
+            "for は弱形 /fɚ/。hours に続く [fɚ ˈaʊɚz] ファー アワーズ"
+          ],
+          "kana": "アフター ジ アラーム ベル ハド トールド ファー アワーズ | エヴリワン ファイナリー ガザード イン ジ インチャンティング ルーム"
+        },
+        {
+          "en": "The warning bell had tolled all night before the dragon raid commenced.",
+          "ja": "ドラゴン襲撃が始まる前に、警告ベルが夜通し鳴っていました。",
+          "ipa": "/ðə ˈwɔrnɪŋ ˈbɛl həd ˈtoʊld ˈɔl ˈnaɪt bɪˈfɔr ðə ˈdræɡən ˈreɪd kəˈmɛnst/",
+          "linking": [
+            "the は弱形 /ðə/。warning に連結 [ðə ˈwɔrnɪŋ] ザ ウォーニング",
+            "warning の末尾 /ŋ/ が bell に続く（鼻音+子音で未開放）。bell は /ˈbɛl/",
+            "bell の末尾 /l/ が had に連結 [ˈbɛl həd] ベル ハド",
+            "all は /ɔl/。night に続く [ˈɔl ˈnaɪt] オール ナイト"
+          ],
+          "kana": "ザ ウォーニング ベル ハド トールド オール ナイト ビフォア ザ ドラゴン レイド カメンスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been tolling",
+      "ipa": "/həz bɪn ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "The celebration bell has been tolling since morning to mark the successful server migration.",
+          "ja": "サーバーの移行成功を記念して、祝い鐘が朝から鳴り続けています。",
+          "ipa": "/ðə ˌsɛləˈbreɪʃən ˈbɛl həz bɪn ˈtoʊlɪŋ sɪns ˈmɔrnɪŋ tə ˈmɑrk ðə səkˈsɛsfəl ˈsɜrvɚ maɪˈɡreɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/。celebration に連結 [ðə ˌsɛləˈbreɪʃən] ザ セレブレーション",
+            "bell の末尾 /l/ が has に連結 [ˈbɛl həz] ベル ハズ",
+            "has は弱形 /həz/。been に続く [həz bɪn] ハズ ビン",
+            "been は弱形 /bɪn/。tolling に続く [bɪn ˈtoʊlɪŋ] ビン トーリング"
+          ],
+          "kana": "ザ セレブレーション ベル ハズ ビン トーリング シンス モーニング トゥ マーク ザ サクセスフル サーバー マイグレーション"
+        },
+        {
+          "en": "They have been tolling the warning bells throughout the tournament to maintain player focus.",
+          "ja": "プレイヤーの集中力を保つために、トーナメント中ずっと警告ベルを鳴らし続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈtoʊlɪŋ ðə ˈwɔrnɪŋ ˈbɛlz θruːˈaʊt ðə ˈtɔrnəmənt tə meɪnˈteɪn ˈpleɪɚ ˈfoʊkəs/",
+          "linking": [
+            "they は /ðeɪ/。have は弱形 /həv/。連結 [ðeɪ həv] ザェイ ハヴ",
+            "have の末尾 /v/ が been に続く（子音+子音で未開放）。been は弱形 /bɪn/",
+            "been は弱形 /bɪn/。tolling に続く [bɪn ˈtoʊlɪŋ] ビン トーリング",
+            "warning の末尾 /ŋ/ が bells に続く（鼻音+子音で未開放）"
+          ],
+          "kana": "ザェイ ハヴ ビン トーリング ザ ウォーニング ベルズ スルーアウト ザ トーナメント トゥ メインテイン プレイアー フォーカス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will toll",
+      "ipa": "/wɪl ˈtoʊl/",
+      "examples": [
+        {
+          "en": "I'll toll the bell to signal the start of the next tournament.",
+          "ja": "次のトーナメントの開始を示すために、私は鐘を鳴らします。",
+          "ipa": "/aɪl ˈtoʊl ðə ˈbɛl tə ˈsɪɡnəl ðə ˈstɑrt əv ðə ˈnɛkst ˈtɔrnəmənt/",
+          "linking": [
+            "I'll /aɪl/ (I will の縮約形)。toll に続く [aɪl ˈtoʊl] アイル トール",
+            "the は弱形 /ðə/。bell に連結 [ðə ˈbɛl] ザ ベル",
+            "bell の末尾 /l/ が to に続く（子音+子音で未開放）[ˈbɛl tə] ベル トゥ",
+            "the は弱形 /ðə/。next に連結 [ðə ˈnɛkst] ザ ネクスト"
+          ],
+          "kana": "アイル トール ザ ベル トゥ シグナル ザ スターット アヴ ザ ネクスト トーナメント"
+        },
+        {
+          "en": "They'll toll the ancient bells to warn the server of the approaching dragon raid.",
+          "ja": "接近するドラゴン襲撃を警告するために、彼らは古い鐘を鳴らします。",
+          "ipa": "/ðeɪl ˈtoʊl ðɪ ˈeɪnʃənt ˈbɛlz tə ˈwɔrn ðə ˈsɜrvɚ əv ðɪ əˈproʊtʃɪŋ ˈdræɡən ˈreɪd/",
+          "linking": [
+            "they'll /ðeɪl/ (they will の縮約形)。toll に続く（子音+子音で未開放）[ðeɪl ˈtoʊl] ザェイル トール",
+            "the は弱形 /ðɪ/（母音の前）。ancient に連結 [ðɪ ˈeɪnʃənt] ジ エインシェント",
+            "bell の末尾 /z/ が to に続く（子音+子音で未開放）[ˈbɛlz tə] ベルズ トゥ",
+            "server の末尾 /r/ が of に r-linking で連結 [ˈsɜrvɚ əv] サーバー アヴ"
+          ],
+          "kana": "ザェイル トール ジ エインシェント ベルズ トゥ ウォーン ザ サーバー アヴ ジ アプローチング ドラゴン レイド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be tolling",
+      "ipa": "/wɪl bi ˈtoʊlɪŋ/",
+      "examples": [
+        {
+          "en": "You'll be tolling the bells during the entire ceremony to maintain the sacred atmosphere.",
+          "ja": "聖なる雰囲気を保つために、式典全体中、あなたは鐘を鳴らし続けます。",
+          "ipa": "/juːl bi ˈtoʊlɪŋ ðə ˈbɛlz ˈdʊrɪŋ ðə ɪnˈtaɪɚ səˈrɛməni tə meɪnˈteɪn ðə ˈseɪkrəd ˈætməsˌfɪr/",
+          "linking": [
+            "you'll /juːl/ (you will の縮約形)。be に続く（子音+母音で連結）[juːl bi] ユール ビー",
+            "be は弱形 /bi/。tolling に続く [bi ˈtoʊlɪŋ] ビー トーリング",
+            "the は弱形 /ðə/。bells に連結 [ðə ˈbɛlz] ザ ベルズ",
+            "bell の末尾 /z/ が during に続く（子音+子音で未開放）[ˈbɛlz ˈdʊrɪŋ] ベルズ ドゥリング"
+          ],
+          "kana": "ユール ビー トーリング ザ ベルズ ドゥリング ジ インタイアー セレモニー トゥ メインテイン ザ セイクレッド アトモスフィアー"
+        },
+        {
+          "en": "It'll be tolling continuously to protect our base from the hostile mobs arriving tonight.",
+          "ja": "今夜到着する敵対的なモブから基地を保護するために、鐘は継続的に鳴り続けます。",
+          "ipa": "/ɪtəl bi ˈtoʊlɪŋ ˌkɑntɪnuːəsli tə prəˈtɛkt ˈaʊɚ ˈbeɪs frəm ðə ˈhɑsˌtaɪl ˈmɑbz əˈraɪvɪŋ təˈnaɪt/",
+          "linking": [
+            "it'll /ɪtəl/ (it will の縮約形)。be に続く（子音+母音で連結）[ɪtəl bi] イタル ビー",
+            "be は弱形 /bi/。tolling に続く [bi ˈtoʊlɪŋ] ビー トーリング",
+            "to は弱形 /tə/。protect に続く [tə prəˈtɛkt] タ プロテクト",
+            "base の末尾 /s/ が from に続く（子音+子音で未開放）[ˈbeɪs frəm] ベイス フラム"
+          ],
+          "kana": "イタル ビー トーリング コンティニュアスリー タ プロテクト アワー ベイス フラム ザ ホスタイル モブズ アライヴィング タナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have tolled",
+      "ipa": "/wɪl həv ˈtoʊld/",
+      "examples": [
+        {
+          "en": "We'll have tolled the celebration bells exactly ten times before the tournament ends next week.",
+          "ja": "来週トーナメントが終わる前に、祝い鐘を正確に10回鳴らしているでしょう。",
+          "ipa": "/wil həv ˈtoʊld ðə ˌsɛləˈbreɪʃən ˈbɛlz ɪɡˈzæktli ˈtɛn ˈtaɪmz bɪˈfɔr ðə ˈtɔrnəmənt ˈɛndz nɛkst ˈwiːk/",
+          "linking": [
+            "we'll /wil/ (we will の縮約形)。have は弱形 /həv/ [wil həv] ウィル ハヴ",
+            "have の末尾 /v/ が tolled に続く（子音+子音で未開放）[həv ˈtoʊld] ハヴ トールド",
+            "the は弱形 /ðə/。celebration に連結 [ðə ˌsɛləˈbreɪʃən] ザ セレブレーション",
+            "tolled の末尾 /d/ が before に続く（子音+子音で未開放）[ˈtoʊld bɪˈfɔr] トールド ビフォア"
+          ],
+          "kana": "ウィル ハヴ トールド ザ セレブレーション ベルズ イグザックリー テン タイムズ ビフォア ザ トーナメント エンズ ネクスト ウィーク"
+        },
+        {
+          "en": "By the time you arrive at the summit, they'll have tolled the victory bells to signal the successful mining achievement.",
+          "ja": "あなたが頂上に到着する時までに、彼らは採掘成功を示すために勝利の鐘を鳴らし終えているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm juː əˈraɪv æt ðə ˈsʌmɪt | ðeɪl həv ˈtoʊld ðə ˈvɪktɚi ˈbɛlz tə ˈsɪɡnəl ðə səkˈsɛsfəl ˈmaɪnɪŋ əˈtʃiːvmənt/",
+          "linking": [
+            "time の末尾 /m/ が you に続く（子音+子音で未開放）[ˈtaɪm juː] タイム ユー",
+            "at の末尾 /t/ が the に続く（子音+子音で未開放）[æt ðə] アット ザ",
+            "they'll /ðeɪl/ (they will の縮約形)。have は弱形 /həv/ [ðeɪl həv] ザェイル ハヴ",
+            "have の末尾 /v/ が tolled に続く（子音+子音で未開放）[həv ˈtoʊld] ハヴ トールド"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ アット ザ サミット | ザェイル ハヴ トールド ザ ヴィクトリー ベルズ トゥ シグナル ザ サクセスフル マイニング アチーヴメント"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ]
+}

@@ -289,6 +289,188 @@
           "kana": "ザ ポイズン カース ハド ビン インペアリング ヒズ ソーズ イフェクティヴネス スルーアウト ザ エンタイアー バトル"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has impaired",
+      "ipa": "/həz ɪmˈpɛɹd/",
+      "examples": [
+        {
+          "en": "Hunger has impaired your health regeneration throughout the entire battle.",
+          "ja": "戦い全体を通して、飢餓があなたの体力再生能力を損なっています。",
+          "ipa": "/ˈhʌŋɡɚ həz ɪmˈpɛɹd jɔɹ ˈhɛlθ ˌrɛdʒənəˈreɪʃən θruːˈaʊt ðɪ ɪnˈtaɪɚ ˈbætəl/",
+          "linking": [
+            "hunger has: 語末子音 /r/ が弱形 /həz/ に連結 [ˈhʌŋɡɚ həz] ハンガー ハズ",
+            "has impaired: 語末子音 /z/ が母音 /ɪ/ に連結 [həz ɪmˈpɛɹd] ハズ インペアド",
+            "impaired your: 語末子音 /d/ が /j/ に連結 [ɪmˈpɛɹd jɔɹ]"
+          ],
+          "kana": "ハンガー ハズ インペアド ユア ヘルス リジェネレイション スルーアウト ザ エンタイアー バトル"
+        },
+        {
+          "en": "The server lags have impaired our multiplayer gaming experience.",
+          "ja": "サーバーラグが私たちのマルチプレイゲーム体験を損なっています。",
+          "ipa": "/ðə ˈsɝːvɚ ˈlæɡz həv ɪmˈpɛɹd ˈaʊɹ ˌmʌltiˈpleɪɚ ˈɡeɪmɪŋ ɪkˈspɪriəns/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "lags have: 語末 /z/ が弱形 /həv/ に先行、have は弱形 /həv/ ハヴ",
+            "have impaired: 語末子音 /v/ が母音 /ɪ/ に連結 [həv ɪmˈpɛɹd] ハヴ インペアド"
+          ],
+          "kana": "ザ サーバー ラッグズ ハヴ インペアド アワー マルティプレイアー ゲイミング エクスペリエンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had impaired",
+      "ipa": "/həd ɪmˈpɛɹd/",
+      "examples": [
+        {
+          "en": "The poison had impaired my vision before I found the antidote.",
+          "ja": "解毒剤を見つける前に、毒がすでに私の視界を損なっていました。",
+          "ipa": "/ðə ˈpɔɪzən həd ɪmˈpɛɹd maɪ ˈvɪʒən bɪˈfɔːr aɪ ˈfaʊnd ðɪ ˈæntɪˌdoʊt/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "poison had: 語末 /n/ が弱形 /həd/ に未開放で先行 [ˈpɔɪzən̚ həd]、had は弱形 /həd/ ハド",
+            "had impaired: 語末子音 /d/ が母音 /ɪ/ に連結 [həd ɪmˈpɛɹd] ハド インペアド"
+          ],
+          "kana": "ザ ポイズン ハド インペアド マイ ヴィジョン ビフォア アイ ファウンド ザ アンチドート"
+        },
+        {
+          "en": "The server crash had impaired the fortress we had been building.",
+          "ja": "私たちが建設していた要塞が、サーバークラッシュで既に損なわれていました。",
+          "ipa": "/ðə ˈsɝːvɚ ˈkræʃ həd ɪmˈpɛɹd ðə ˈfɔːrtrəs wi həd bɪn ˈbɪldɪŋ/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "crash had: 語末 /ʃ/ が弱形 /həd/ に先行（子音+子音）、had は弱形 /həd/ ハド",
+            "had impaired: 語末子音 /d/ が母音 /ɪ/ に連結 [həd ɪmˈpɛɹd] ハド インペアド"
+          ],
+          "kana": "ザ サーバー クラッシュ ハド インペアド ザ フォートレス ウィー ハド ビン ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been impairing",
+      "ipa": "/həz bɪn ɪmˈpɛɹɪŋ/",
+      "examples": [
+        {
+          "en": "Lag has been impairing our coordination since the tournament started.",
+          "ja": "トーナメントが始まってから、ラグが私たちの調整能力を損ない続けています。",
+          "ipa": "/ˈlæɡ həz bɪn ɪmˈpɛɹɪŋ ˈaʊɹ ˌkoʊɹdɪˈneɪʃən sɪns ðə ˈtɔːrnəmənt ˈstɑrtɪd/",
+          "linking": [
+            "lag has: 語末 /ɡ/ が弱形 /həz/ に先行 [ˈlæɡ həz]、has は弱形 /həz/ ハズ",
+            "has been: 語末子音 /z/ が /b/ に先行（子音+子音）、been は弱形 /bɪn/ ビン",
+            "been impairing: 語末 /n/ が母音 /ɪ/ に未開放で先行 [bɪn̚ ɪmˈpɛɹɪŋ]"
+          ],
+          "kana": "ラッグ ハズ ビン インペアリング アワー コーディネイション シンス ザ トーナメント スターティド"
+        },
+        {
+          "en": "The poison curse has been impairing my combat ability during the entire skirmish.",
+          "ja": "戦闘全体を通して、毒の呪いが私の戦闘能力を損ない続けています。",
+          "ipa": "/ðə ˈpɔɪzən ˈkɝːs həz bɪn ɪmˈpɛɹɪŋ maɪ ˈkɑmbæt əˈbɪlədi ˈdʊrɪŋ ðɪ ɪnˈtaɪɚ ˈskɝːmɪʃ/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "curse has: 語末 /s/ が弱形 /həz/ に先行（子音+子音）、has は弱形 /həz/ ハズ",
+            "has been: 語末子音 /z/ が /b/ に先行、been は弱形 /bɪn/ ビン",
+            "been impairing: 語末 /n/ が母音 /ɪ/ に未開放で先行 [bɪn̚ ɪmˈpɛɹɪŋ]"
+          ],
+          "kana": "ザ ポイズン カース ハズ ビン インペアリング マイ コンバット アビリティ デュアリング ザ エンタイアー スキャーミッシュ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will impair",
+      "ipa": "/wɪl ɪmˈpɛɹ/",
+      "examples": [
+        {
+          "en": "You'll impair your own healing if you stay in the poison cloud.",
+          "ja": "毒の雲に留まっていると、あなた自身の治癒能力を損なうでしょう。",
+          "ipa": "/juːl ɪmˈpɛɹ jɔɹ oʊn ˈhiːlɪŋ ɪf ju ˈsteɪ ɪn ðə ˈpɔɪzən ˈklaʊd/",
+          "linking": [
+            "You'll: 縮約形 /juːl/ ユール",
+            "impair your: 語末子音 /r/ が /j/ に連結 [ɪmˈpɛɹ jɔɹ] インペア ユア",
+            "the: 弱形 /ðə/ ザ"
+          ],
+          "kana": "ユール インペア ユア オウン ヒーリング イフ ユー ステイ イン ザ ポイズン クラウド"
+        },
+        {
+          "en": "We'll impair our armor's durability if we keep fighting without rest.",
+          "ja": "休まずに戦闘を続けていると、私たちの鎧の耐久性を損なうでしょう。",
+          "ipa": "/wiːl ɪmˈpɛɹ ˈaʊɹ ˈɑːrmɚz djʊˈræbɪlədi ɪf wi kip ˈfaɪtɪŋ wɪðˈaʊt ˈrɛst/",
+          "linking": [
+            "We'll: 縮約形 /wiːl/ ウィール",
+            "impair our: 語末子音 /r/ が /aʊ/ に連結 [ɪmˈpɛɹ ˈaʊɹ] インペア アワー",
+            "without: /wɪðˈaʊt/ ウィザウト"
+          ],
+          "kana": "ウィール インペア アワー アーマーズ デュアラビリティ イフ ウィー キープ ファイティング ウィザウト レスト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be impairing",
+      "ipa": "/wɪl bi ɪmˈpɛɹɪŋ/",
+      "examples": [
+        {
+          "en": "The lag will be impairing our coordination during the tournament.",
+          "ja": "トーナメント中、ラグが私たちの連携を損ない続けるでしょう。",
+          "ipa": "/ðə ˈlæɡ wɪl bi ɪmˈpɛɹɪŋ ˈaʊɹ ˌkoʊɹdɪˈneɪʃən ˈdʊrɪŋ ðə ˈtɔːrnəmənt/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "lag will: 語末 /ɡ/ が /w/ に流れ込む [ˈlæɡ wɪl] ラッグ ウィル",
+            "impairing our: 語末子音 /ŋ/ が /aʊ/ に連結 [ɪmˈpɛɹɪŋ ˈaʊɹ] インペアリング アワー"
+          ],
+          "kana": "ザ ラッグ ウィル ビー インペアリング アワー コーディネイション デュアリング ザ トーナメント"
+        },
+        {
+          "en": "The poison effect will be impairing your vision as we navigate the Nether.",
+          "ja": "ネザーを移動する間、毒の効果があなたの視界を損ない続けるでしょう。",
+          "ipa": "/ðə ˈpɔɪzən ɪˈfɛkt wɪl bi ɪmˈpɛɹɪŋ jɔɹ ˈvɪʒən æz wi ˈnævɪɡeɪt ðə ˈnɛðɚ/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "effect will: 語末 /t/ が /w/ に未開放で先行 [ɪˈfɛkt̚ wɪl] イフェクト ウィル",
+            "impairing your: 語末子音 /ŋ/ が /j/ に連結 [ɪmˈpɛɹɪŋ jɔɹ] インペアリング ユア"
+          ],
+          "kana": "ザ ポイズン イフェクト ウィル ビー インペアリング ユア ヴィジョン アズ ウィー ナヴィゲイト ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have impaired",
+      "ipa": "/wɪl həv ɪmˈpɛɹd/",
+      "examples": [
+        {
+          "en": "By the time we reach the top, hunger will have impaired our health regeneration.",
+          "ja": "頂上に到達する頃には、飢餓がすでに私たちの体力再生能力を損なっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈriːtʃ ðə ˈtɑp ˈhʌŋɡɚ wɪl həv ɪmˈpɛɹd ˈaʊɹ ˈhɛlθ ˌrɛdʒənəˈreɪʃən/",
+          "linking": [
+            "by the: 語末 /b/ が弱形 /ðə/ に先行、the は /ðə/ ザ",
+            "hunger will: 語末 /r/ が /w/ に連結 [ˈhʌŋɡɚ wɪl] ハンガー ウィル",
+            "will have: will の語末 /l/ が /h/ に先行（子音+子音）、have は弱形 /həv/ ハヴ、語末子音 /v/ が /ɪ/ に連結 [wɪl həv ɪmˈpɛɹd] ウィル ハヴ インペアド"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ トップ ハンガー ウィル ハヴ インペアド アワー ヘルス リジェネレイション"
+        },
+        {
+          "en": "The server crash will have impaired all our progress before the backup activates.",
+          "ja": "バックアップが起動する前に、サーバークラッシュがすでに私たちの全進捗を損なっているでしょう。",
+          "ipa": "/ðə ˈsɝːvɚ ˈkræʃ wɪl həv ɪmˈpɛɹd ɔːl ˈaʊɹ ˈprɑɡrɛs bɪˈfɔːr ðə ˈbækʌp ˈæktɪˌveɪts/",
+          "linking": [
+            "the: 弱形 /ðə/ ザ",
+            "crash will: 語末 /ʃ/ が /w/ に先行（子音+子音）、will は /wɪl/ ウィル",
+            "will have: will の語末 /l/ が /h/ に先行、have は弱形 /həv/、語末子音 /v/ が /ɪ/ に連結 [wɪl həv ɪmˈpɛɹd]",
+            "all our: 語末子音 /l/ が /aʊ/ に連結 [ɔːl ˈaʊɹ] オール アワー"
+          ],
+          "kana": "ザ サーバー クラッシュ ウィル ハヴ インペアド オール アワー プログレス ビフォア ザ バックアップ アクティベイツ"
+        }
+      ]
     }
   ]
 }

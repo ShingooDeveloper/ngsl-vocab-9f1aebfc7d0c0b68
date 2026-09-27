@@ -301,6 +301,196 @@
           "kana": "ザ ハスタイル モーブズ ハド ビン クローリング アフター アス オール ナイト ロング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has crawled",
+      "ipa": "/həz ˈkrɔld/",
+      "examples": [
+        {
+          "en": "We have crawled through dozens of caves searching for diamonds.",
+          "ja": "私たちはダイヤモンドを探してたくさんの洞窟を這い進みました。",
+          "ipa": "[wi həv ˈkrɔld θɹuː ˈdʌzənz əv ˈkeɪvz ˈsɜrtʃɪŋ fɚ ˈdaɪmənds]",
+          "linking": [
+            "have crawled - have は弱形 /həv/ ハヴ、/v/ が /k/ に続く（子音+子音）[həv ˈkrɔld] ハヴ クロールド",
+            "crawled through - /d/ が /θ/ に続く（子音+子音、未開放）[ˈkrɔld̚ θɹuː] クロールド スルー",
+            "of caves - of は弱形 /əv/ アヴ、/v/ が /k/ に続く（子音+子音）",
+            "for diamonds - for は弱形 /fɚ/ フォー、/r/ が /d/ に続く（子音+子音）"
+          ],
+          "kana": "ウィー ハヴ クロールド スルー ダズンズ アヴ ケーブズ サーチング フォー ダイマンズ"
+        },
+        {
+          "en": "The spider has crawled across this dungeon floor for hours.",
+          "ja": "クモはこのダンジョンの床を数時間も這い進んでいます。",
+          "ipa": "[ðə ˈspaɪdɚ həz ˈkrɔld əˈkrɔs ðɪs ˈdʌndʒən ˈflɔr fɚ ˈaʊərz]",
+          "linking": [
+            "The spider - the は弱形 /ðə/ ザ、/ð/ が /s/ に続く（子音+子音）",
+            "spider has - /r/ が /h/ に続く（子音+子音）、has は弱形 /həz/ ハズ [ˈspaɪdɚ həz] スパイダー ハズ",
+            "has crawled - /z/ が /k/ に続く（子音+子音）[həz ˈkrɔld] ハズ クロールド",
+            "crawled across - /d/ が /ə/ に連結 [ˈkrɔld əˈkrɔs] クロールド アクロス"
+          ],
+          "kana": "ザ スパイダー ハズ クロールド アクロス ディス ダンジョン フロア フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had crawled",
+      "ipa": "/həd ˈkrɔld/",
+      "examples": [
+        {
+          "en": "Before we found the exit, we had crawled through tight spaces for what felt like forever.",
+          "ja": "出口を見つける前に、私たちは永遠のように感じた狭い場所を這い進んでいました。",
+          "ipa": "[bɪˈfɔr wi ˈfaʊnd ðə ˈɛgzɪt wi həd ˈkrɔld θɹuː ˈtaɪt ˈspeɪsɪz fɚ wət ˈfɛlt ˈlaɪk fərˈɛvər]",
+          "linking": [
+            "Before we - before の語末 /r/ が we の初頭 /w/ に続く（子音+子音）[bɪˈfɔr wi] ビフォア ウィー",
+            "found the - /d/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ",
+            "had crawled - had は弱形 /həd/ ハド、/d/ が /k/ に続く（子音+子音、未開放）[həd̚ ˈkrɔld] ハド クロールド",
+            "crawled through - /d/ が /θ/ に続く（子音+子音、未開放）[ˈkrɔld̚ θɹuː] クロールド スルー"
+          ],
+          "kana": "ビフォア ウィー ファウンド ザ イグジット ウィー ハド クロールド スルー タイト スペーシズ フォー ワット フェルト ライク フォーエバー"
+        },
+        {
+          "en": "The hostile mobs had crawled through the narrow tunnel long before we arrived.",
+          "ja": "敵モブは私たちが到着するずっと前から狭いトンネルを這い進んでいました。",
+          "ipa": "[ðə ˈhɑstaɪl moʊbz həd ˈkrɔld θɹuː ðə ˈnæroʊ ˈtʌnəl lɔŋ bɪˈfɔr wi əˈraɪvd]",
+          "linking": [
+            "The hostile - the は弱形 /ðə/ ザ、/ð/ が /h/ に続く（子音+子音）",
+            "had crawled - had は弱形 /həd/ ハド、/d/ が /k/ に続く（子音+子音、未開放）[həd̚ ˈkrɔld] ハド クロールド",
+            "crawled through - /d/ が /θ/ に続く（子音+子音、未開放）[ˈkrɔld̚ θɹuː] クロールド スルー",
+            "the narrow - the は弱形 /ðə/ ザ、/ð/ が /n/ に続く（子音+子音）"
+          ],
+          "kana": "ザ ハスタイル モーブズ ハド クロールド スルー ザ ナロー タンネル ロング ビフォア ウィー アライブド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been crawling",
+      "ipa": "/həz bɪn ˈkrɔlɪŋ/",
+      "examples": [
+        {
+          "en": "I have been crawling through the mineshaft since early this morning.",
+          "ja": "私は今朝の早い時間から鉱山坑道を這い進んでいます。",
+          "ipa": "[aɪ həv bɪn ˈkrɔlɪŋ θɹuː ðə ˈmaɪnʃæft sɪns ˈɝli ðɪs ˈmɔrnɪŋ]",
+          "linking": [
+            "have been - have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン、/v/ が /b/ に続く（子音+子音）[həv bɪn] ハヴ ビン",
+            "been crawling - /n/ が /k/ に続く（子音+子音）[bɪn ˈkrɔlɪŋ] ビン クローリング",
+            "crawling through - /ŋ/ が /θ/ に続く（子音+子音）[ˈkrɔlɪŋ θɹuː] クローリング スルー",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ ビン クローリング スルー ザ マインシャフト シンス アーリー ディス モーニング"
+        },
+        {
+          "en": "The creepers have been crawling around our base all night long.",
+          "ja": "クリーパーは一晩中私たちの基地の周りを這い回っています。",
+          "ipa": "[ðə ˈkripərz həv bɪn ˈkrɔlɪŋ əˈraʊnd ˈaʊɚ ˈbeɪs ɔl ˈnaɪt lɔŋ]",
+          "linking": [
+            "The creepers - the は弱形 /ðə/ ザ、/ð/ が /k/ に続く（子音+子音）",
+            "have been - have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン、/v/ が /b/ に続く（子音+子音）[həv bɪn] ハヴ ビン",
+            "been crawling - /n/ が /k/ に続く（子音+子音）[bɪn ˈkrɔlɪŋ] ビン クローリング",
+            "crawling around - /ŋ/ が /ə/ に連結 [ˈkrɔlɪŋ əˈraʊnd] クローリング アラウンド"
+          ],
+          "kana": "ザ クリーパーズ ハヴ ビン クローリング アラウンド アワー ベース オール ナイト ロング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will crawl",
+      "ipa": "/wɪl ˈkrɔl/",
+      "examples": [
+        {
+          "en": "I'll crawl under the lava fall to reach the secret chamber.",
+          "ja": "私は溶岩の滝の下を這って秘密の部屋に到達します。",
+          "ipa": "[aɪl ˈkrɔl ˈʌndɚ ðə ˈlɑvə fɔl tə ˈritʃ ðə ˈsɪkrət ˈtʃeɪmbɚ]",
+          "linking": [
+            "I'll crawl - I'll の /l/ が crawl の初頭 /k/ に続く（子音+子音）[aɪl ˈkrɔl] アイル クロール",
+            "crawl under - crawl の語末 /l/ が under の初頭 /ʌ/ に連結 [ˈkrɔl ˈʌndɚ] クロール アンダー",
+            "lava fall - lava の語末 /v/ が fall の初頭 /f/ に続く（子音+子音）",
+            "fall to - fall の語末 /l/ が to の初頭 /t/ に続く（子音+子音、未開放）[fɔl̚ tə] フォール タ"
+          ],
+          "kana": "アイル クロール アンダー ザ ラヴァ フォール タ リーチ ザ シークレット チェインバー"
+        },
+        {
+          "en": "They'll crawl through the cave system at dawn.",
+          "ja": "彼らは夜明けに洞窟システムを這い進みます。",
+          "ipa": "[ðeɪl ˈkrɔl θɹuː ðə ˈkeɪv ˈsɪstəm æt̚ ˈdɔn]",
+          "linking": [
+            "They'll crawl - They'll の語末 /l/ が crawl の初頭 /k/ に続く（子音+子音）[ðeɪl ˈkrɔl] ゼイル クロール",
+            "crawl through - crawl の語末 /l/ が through の初頭 /θ/ に続く（子音+子音）[ˈkrɔl θɹuː] クロール スルー",
+            "the cave - the は弱形 /ðə/ ザ、/ð/ が /k/ に続く（子音+子音）",
+            "at dawn - at の /t/ は未開放 /æt̚/ アッ"
+          ],
+          "kana": "ゼイル クロール スルー ザ ケーブ システム アッ ドーン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be crawling",
+      "ipa": "/wɪl bi ˈkrɔlɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be crawling through tight spaces when night falls.",
+          "ja": "夜が明けるとき、私たちは狭い隙間を這い進んでいるでしょう。",
+          "ipa": "[wəl bi ˈkrɔlɪŋ θɹuː ˈtaɪt ˈspeɪsɪz wɛn ˈnaɪt fɔlz]",
+          "linking": [
+            "We'll be crawling - We'll は弱形で /wəl/ ウル、/l/ が /b/ に続く（子音+子音）、be と crawling の間では /i/ が /k/ に続く（母音+子音）",
+            "crawling through - /ŋ/ が /θ/ に続く（子音+子音）[ˈkrɔlɪŋ θɹuː] クローリング スルー",
+            "when night - when の語末 /n/ が night の初頭 /n/ に続く（子音+子音）",
+            "night falls - night の語末 /t/ が falls の初頭 /f/ に続く（子音+子音）"
+          ],
+          "kana": "ウル ビー クローリング スルー タイト スペーシズ ウェン ナイト フォールズ"
+        },
+        {
+          "en": "The spiders will be crawling across the ceiling while we work.",
+          "ja": "クモは私たちが働いている間、天井を横切って這い回っているでしょう。",
+          "ipa": "[ðə ˈspaɪdɚz wɪl bi ˈkrɔlɪŋ əˈkrɔs ðə ˈsilɪŋ waɪl wi ˈwɝk]",
+          "linking": [
+            "The spiders - the は弱形 /ðə/ ザ、/ð/ が /s/ に続く（子音+子音）",
+            "will be - will は弱形で /wɪl/ ウィル、/l/ が /b/ に続く（子音+子音）",
+            "crawling across - /ŋ/ が /ə/ に連結 [ˈkrɔlɪŋ əˈkrɔs] クローリング アクロス"
+          ],
+          "kana": "ザ スパイダーズ ウィル ビー クローリング アクロス ザ シーリング ワイル ウィー ワーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have crawled",
+      "ipa": "/wɪl həv ˈkrɔld/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have crawled through all the unexplored tunnels.",
+          "ja": "明日までに、私たちはすべての未踏のトンネルを這い進んだことになっているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ wi wəl həv ˈkrɔld θɹuː ɔl ðə ʌnɪkˈsplɔrd ˈtʌnəlz]",
+          "linking": [
+            "By tomorrow - /b/ が /t/ に続く（子音+子音）",
+            "will have - will は弱形で /wəl/ ウル、have は弱形で /əv/ アヴ、/l/ が /h/ に続く（子音+子音）",
+            "have crawled - /v/ が /k/ に続く（子音+子音）、have は弱形で /həv/ ハヴ",
+            "crawled through - /d/ が /θ/ に続く（子音+子音、未開放）[ˈkrɔld̚ θɹuː] クロールド スルー"
+          ],
+          "kana": "バイ タマロー ウィー ウル ハヴ クロールド スルー オール ザ アンイクスプロード タンネルズ"
+        },
+        {
+          "en": "He'll have crawled the entire mineshaft by the time we return.",
+          "ja": "私たちが戻る時までに、彼は鉱山坑道全体を這い進んでいるでしょう。",
+          "ipa": "[hil həv ˈkrɔld ðə ɪnˈtaɪɚ ˈmaɪnʃæft baɪ ðə ˈtaɪm wi rɪˈtɝn]",
+          "linking": [
+            "He'll have - He'll の語末 /l/ が have の初頭 /h/ に続く（子音+子音）[hil həv] ヒル ハヴ、have は弱形で /həv/ ハヴ",
+            "have crawled - /v/ が /k/ に続く（子音+子音）",
+            "time we - time の語末 /m/ が we の初頭 /w/ に続く（子音+子音）"
+          ],
+          "kana": "ヒル ハヴ クロールド ザ インタイア マインシャフト バイ ザ タイム ウィー リターン"
+        }
+      ]
     }
   ]
 }

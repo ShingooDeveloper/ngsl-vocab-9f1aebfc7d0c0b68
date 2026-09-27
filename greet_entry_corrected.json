@@ -1,0 +1,251 @@
+{
+  "word": "greet",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɡriːt/",
+  "rank": 2610,
+  "level": "A2",
+  "hi": "greet(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】誰かに挨拶する；迎え入れる（to say hello to someone or welcome them）",
+    "【動詞】特定の方法で対応する；反応を示す（to react to something in a particular way）",
+    "【名詞】挨拶の言葉；返礼（a word or gesture used to greet someone）"
+  ],
+  "examples": [
+    {
+      "en": "I greet new players when they join our server.",
+      "ja": "新しいプレイヤーがサーバーに参加したとき、私は彼らに挨拶します。",
+      "ipa": "/aɪ ɡriːt ˈnjuː ˈpleɪərz wɛn ðeɪ dʒɔɪn ˈaʊər ˈsɝvər/",
+      "linking": [
+        "greet の末尾子音 /t/ が new の初頭母音 /nj/ に連結。結果は [ɡriːtnjuː] グリートニュー",
+        "join の末尾子音 /n/ が our の初頭母音 /aʊ/ に連結。結果は [dʒɔɪnaʊər] ジョイナワー"
+      ],
+      "kana": "アイ グリートニュー プレイヤーズ ウェン ザイ ジョイナワー サーバー"
+    },
+    {
+      "en": "The server greeted us with a lightning storm.",
+      "ja": "サーバーは雷嵐で私たちを迎えました。",
+      "ipa": "/ðə ˈsɝvər ɡriːɾəd ʌs wɪð ə ˈlaɪtnɪŋ ˈstɔrm/",
+      "linking": [
+        "greeted の /t/ が语中で母音に挟まれ、フラップ化して /ɾ/ に変わる。/ɾəd ʌs/ で末尾 /d/ が /ʌ/ に連結 [ɡriːɾədəs] グリーラダス",
+        "with の末尾子音 /ð/ が a の弱形 /ə/ に連結。a は弱形で [wɪðə] ウィザ"
+      ],
+      "kana": "ザ サーバー グリーラダス ウィザ ア ライトニング ストーム"
+    },
+    {
+      "en": "We greeted the new players at spawn with gifts.",
+      "ja": "我々はスポーン地点で新しいプレイヤーたちにギフトを渡して挨拶しました。",
+      "ipa": "/wi ɡriːɾəd ðə ˈnjuː ˈpleɪərz æt spɔn wɪð ɡɪfts/",
+      "linking": [
+        "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が the の弱形 /ðə/ に連結 [ɡriːɾəðə] グリーラディ",
+        "at の末尾子音 /t/ が子音 /sp/ に続くため未開放。結果は [æt̚] アッ"
+      ],
+      "kana": "ウィ グリーラディ ニュー プレイヤーズ アッ スポーン ウィズ ギフツ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "greet warmly",
+      "ja": "温かく迎える",
+      "example": "We greeted our teammates warmly at the spawn point.",
+      "example_ja": "スポーン地点で我々はチームメイトたちを温かく迎えました。",
+      "ipa": "/wi ɡriːɾəd ˈaʊər ˈtimˌmeɪts ˈwɔrmli æt ðə ˈspaʊn pɔɪnt/",
+      "linking": [
+        "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が our の /aʊ/ に連結 [ɡriːɾədaʊər] グリーラダワー",
+        "the は冠詞で弱形 /ðə/。spawn に連結 [ðə ˈspaʊn] ザスポーン"
+      ],
+      "kana": "ウィ グリーラダワー ティームメイツ ウォームリー アット ザスポーン ポイント"
+    }
+  ],
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has greeted",
+      "ipa": "/həz ˈɡriːɾəd/",
+      "examples": [
+        {
+          "en": "She has greeted all the new players at the spawn point this session.",
+          "ja": "彼女はこのセッションでスポーン地点にいる全ての新しいプレイヤーに挨拶しました。",
+          "ipa": "/ʃi həz ˈɡriːɾəd ɔl ðə ˈnjuː ˈpleɪərz æt ðə ˈspaʊn pɔɪnt ðɪs ˈsɛʃən/",
+          "linking": [
+            "has は弱形 /həz/ に弱化",
+            "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が all に連結 [ˈɡriːɾədɔl] グリーラドオール",
+            "at the → at の末尾 /t/ が子音 /ð/ に続くため未開放 [æt̚ ðə] アッ ザ",
+            "the は弱形 /ðə/（子音の前）"
+          ],
+          "kana": "シー ハズ グリーラドオール ザ ニュー プレイヤーズ アッ ザ スポーン ポイント ディス セッション"
+        },
+        {
+          "en": "We have greeted visitors from three different servers.",
+          "ja": "私たちは3つの異なるサーバーからの訪問者たちに挨拶しました。",
+          "ipa": "/wi həv ˈɡriːɾəd ˈvɪzɪtərz frəm ˈθriː ˈdɪfərənt ˈsɝvərz/",
+          "linking": [
+            "have は弱形 /həv/ に弱化",
+            "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が visitors に連結 [ˈɡriːɾədˈvɪzɪtərz] グリーラドビジターズ",
+            "from は弱形 /frəm/ に弱化"
+          ],
+          "kana": "ウィ ハヴ グリーラドビジターズ フラム スリー ディファレント サーバーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had greeted",
+      "ipa": "/həd ˈɡriːɾəd/",
+      "examples": [
+        {
+          "en": "Before the admin logged in, I had greeted every player.",
+          "ja": "管理者がログインする前に、私は全てのプレイヤーに挨拶していました。",
+          "ipa": "/bɪˈfɔr ðə ˈædˌmɪn ˈlɔɡd ɪn aɪ həd ˈɡriːɾəd ˈɛvri ˈpleɪər/",
+          "linking": [
+            "the は弱形 /ðə/（子音の前）",
+            "logged の末尾 /d/ が in に連結 [ˈlɔɡdɪn] ロッギン",
+            "had は弱形 /həd/ に弱化",
+            "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が every に連結 [ˈɡriːɾədˈɛvri] グリーラドエブリー"
+          ],
+          "kana": "ビフォア ザ アドミン ロッギン アイ ハド グリーラドエブリー プレイヤー"
+        },
+        {
+          "en": "They had greeted the delegation before the tournament started.",
+          "ja": "トーナメント開始前に、彼らは訪問団に挨拶していました。",
+          "ipa": "/ðeɪ həd ˈɡriːɾəd ðə ˌdɛlɪˈɡeɪʃən bɪˈfɔr ðə ˈtɔrnəˌmɛnt ˈstɑrtɪd/",
+          "linking": [
+            "had は弱形 /həd/ に弱化",
+            "greeted の /t/ がフラップ化して /ɾ/。末尾 /d/ が the に連結。the は弱形 /ðə/ [ˈɡriːɾəðə] グリーラディ",
+            "before の /r/ が the の /ð/ に連結 [bɪˈfɔrðə] ビフォアザ",
+            "the は弱形 /ðə/（子音の前）"
+          ],
+          "kana": "ザイ ハド グリーラディ デレゲイション ビフォアザ トーナメント スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been greeting",
+      "ipa": "/həz bɪn ˈɡriːtɪŋ/",
+      "examples": [
+        {
+          "en": "She has been greeting players at the main hub for the past hour.",
+          "ja": "彼女は過去1時間、メインハブでプレイヤーに挨拶し続けています。",
+          "ipa": "/ʃi həz bɪn ˈɡriːtɪŋ ˈpleɪərz æt ðə ˈmeɪn ˈhʌb fər ðə ˈpæst ˈaʊər/",
+          "linking": [
+            "has は弱形 /həz/、been は弱形 /bɪn/ に弱化",
+            "has been → has の /z/ が been に連結 [həz bɪn] ハズ ビン",
+            "been の /n/ が greeting に連結 [bɪn ˈɡriːtɪŋ]",
+            "at the → at の末尾 /t/ が子音 /ð/ に続くため未開放 [æt̚ ðə] アッ ザ",
+            "for は弱形 /fər/ に弱化"
+          ],
+          "kana": "シー ハズ ビン グリーティング プレイヤーズ アッ ザ メイン ハブ ファー ザ パスト アワー"
+        },
+        {
+          "en": "We have been greeting new community members since the recruitment event started.",
+          "ja": "リクルートメントイベント開始以来、私たちは新しいコミュニティメンバーに挨拶し続けています。",
+          "ipa": "/wi həv bɪn ˈɡriːtɪŋ ˈnjuː kəˈmjuːnəti ˈmɛmbərz sɪns ðə rɪˈkrutmənt ɪˈvɛnt ˈstɑrtɪd/",
+          "linking": [
+            "have は弱形 /həv/、been は弱形 /bɪn/ に弱化",
+            "have been → have の /v/ が been に連結 [həv bɪn] ハヴ ビン",
+            "been の /n/ が greeting に連結 [bɪn ˈɡriːtɪŋ]",
+            "the は弱形 /ðə/（子音の前）"
+          ],
+          "kana": "ウィ ハヴ ビン グリーティング ニュー コミュニティー メンバーズ シンス ザ リクルートメント イベント スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is greeting",
+      "ipa": "/ɪz ˈɡriːtɪŋ/",
+      "examples": [
+        {
+          "en": "She is greeting the new player at spawn.",
+          "ja": "彼女はスポーン地点で新しいプレイヤーを迎えています。",
+          "ipa": "/ʃi ɪz ˈɡriːtɪŋ ðə njuː ˈpleɪər æt spɔn/",
+          "linking": [
+            "is greeting → is は弱形 /ɪz/ に弱化",
+            "greeting the → greeting の /ŋ/ が the に連結。the は弱形 /ðə/（子音の前）",
+            "at spawn → at の末尾 /t/ が子音 /sp/ に続くため未開放 [æt̚ spɔn]"
+          ],
+          "kana": "シー イズ グリーティング ザ ニュー プレイヤー アッ スポーン"
+        },
+        {
+          "en": "We are greeting teammates as they enter the server.",
+          "ja": "私たちはチームメイトがサーバーに入ってくるときに迎えています。",
+          "ipa": "/wi ɑr ˈɡriːtɪŋ ˈtimˌmeɪts æz ðeɪ ˈɛntər ðə ˈsɝvər/",
+          "linking": [
+            "are greeting → are は弱形 /ɑr/ に弱化",
+            "greeting teammates → greeting の /ŋ/ が teammates に連結 [ˈɡriːtɪŋ ˈtimˌmeɪts]",
+            "the server → the は弱形 /ðə/（子音の前）"
+          ],
+          "kana": "ウィ アー グリーティング ティームメイツ アズ ザイ エンター ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was greeting",
+      "ipa": "/wəz ˈɡriːtɪŋ/",
+      "examples": [
+        {
+          "en": "I was greeting the merchant when the cave collapsed.",
+          "ja": "洞窟が崩壊したとき、私は商人に挨拶していました。",
+          "ipa": "/aɪ wəz ˈɡriːtɪŋ ðə ˈmɝtʃənt wɛn ðə ˈkeɪv kəˈlæpst/",
+          "linking": [
+            "was greeting → was は弱形 /wəz/ に弱化",
+            "greeting the → greeting の /ŋ/ が the に連結。the は弱形 /ðə/（子音の前）",
+            "when the → when の /n/ と cave の /k/ は子音+子音で未開放。the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ グリーティング ザ マーチャント ウェン ザ ケイヴ コラプスト"
+        },
+        {
+          "en": "They were greeting visitors at the hub when the server lagged.",
+          "ja": "サーバーが遅延したとき、彼らはハブで訪問者を迎えていました。",
+          "ipa": "/ðeɪ wɝ ˈɡriːtɪŋ ˈvɪzɪtərz æt ðə ˈhʌb wɛn ðə ˈsɝvər ˈlæɡd/",
+          "linking": [
+            "were greeting → were は弱形 /wɝ/ に弱化",
+            "greeting visitors → greeting の /ŋ/ が visitors に連結 [ˈɡriːtɪŋ ˈvɪzɪtərz]",
+            "at the → at の末尾 /t/ が子音 /ð/ に続くため未開放 [æt̚ ðə]",
+            "when the → when の /n/ が /ð/ に続き、the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ワー グリーティング ビジターズ アッ ザ ハブ ウェン ザ サーバー ラッグド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been greeting",
+      "ipa": "/həd bɪn ˈɡriːtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been greeting players for hours before the admin announced the event.",
+          "ja": "管理者がイベントを発表する前に、数時間プレイヤーに挨拶し続けていました。",
+          "ipa": "/aɪ həd bɪn ˈɡriːtɪŋ ˈpleɪərz fər ˈaʊərz bɪˈfɔr ðə ˈædˌmɪn əˈnaʊnst ðə ɪˈvɛnt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been greeting → been の /n/ が greeting に連結 [bɪn ˈɡriːtɪŋ]",
+            "for hours → for は弱形 /fər/",
+            "announced the → announced の末尾 /t/ が子音 /ð/ に続き未開放。the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハド ビン グリーティング プレイヤーズ ファー アワーズ ビフォア ザ アドミン アナウンスド ザ イベント"
+        },
+        {
+          "en": "We had been greeting new arrivals all day before taking a break.",
+          "ja": "休憩を取る前に、一日中新しく到着した人たちを迎えていました。",
+          "ipa": "/wi həd bɪn ˈɡriːtɪŋ njuː əˈraɪvəlz ɔl ˈdeɪ bɪˈfɔr ˈteɪkɪŋ ə ˈbreɪk/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "been greeting → been の /n/ が greeting に連結 [bɪn ˈɡriːtɪŋ]",
+            "all day → all の /l/ が day に連結 [ɔl ˈdeɪ]",
+            "taking a → taking の /ŋ/ が a の弱形 /ə/ に連結 [ˈteɪkɪŋ ə]"
+          ],
+          "kana": "ウィ ハド ビン グリーティング ニュー アライバルズ オール デイ ビフォア テイキング ア ブレイク"
+        }
+      ]
+    }
+  ]
+}

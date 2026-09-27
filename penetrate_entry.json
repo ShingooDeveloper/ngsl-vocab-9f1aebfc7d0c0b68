@@ -29,9 +29,8 @@
       "ja": "ダムが壊れるとき、水は石のブロックをゆっくり浸透する。",
       "ipa": "/ˈwɔɾɚ ˈsloʊli pɛnəˈtreɪts ðə ˈstoʊn blɑks wɛn ðə ˈdæm ˈbɹeɪks/",
       "linking": [
-        "「water」の語末 /t/ がフラップ化 /ɾ/ → [ˈwɔ.ɾɚ] ウォーラー",
-        "「the」は弱形 /ðə/（2回）",
-        "「penetrates the」で語末 /t/ が未開放で次の /ð/ に先行"
+        "「water」の語中 /t/ がフラップ化 /ɾ/ → [ˈwɔ.ɾɚ] ウォーラー",
+        "「the」は弱形 /ðə/（2回）"
       ],
       "kana": "ウォーラー スロウリー ペネトレイツ ザ ストウン ブラックス ウェン ザ ダム ブレイクス"
     },
@@ -98,9 +97,8 @@
           "ja": "日光は水を透過して、水中の植物がより良く成長するのを助ける。",
           "ipa": "/ˈsʌnlaɪt ˌpɛnəˈtreɪts ðə ˈwɔɾɚ ənd ˈhɛlps ˌʌndərˈwɔɾɚ ˈplænts ˈɡroʊ ˈbɛtər/",
           "linking": [
-            "「water」の語末 /r/ がフラップ化して /ɾ/ → [ˈwɔɾɚ] ウォーラー",
-            "「and」は機能語で弱形 /ənd/",
-            "「water and」で /ɔɾɚ/ が /ənd/ に続く"
+            "「water」の語中 /t/ がフラップ化 /ɾ/ → [ˈwɔɾɚ] ウォーラー",
+            "「and」は機能語で弱形 /ənd/"
           ],
           "kana": "サンライト ペネトレイツ ザ ウォーラー アンド ヘルプス アンダーウォーラー プランツ グロウ ベター"
         }
@@ -118,7 +116,7 @@
           "ipa": "/ðə ˈdaɪəmənd ˈɛɹoʊ ˌpɛnəˈtreɪtəd ðə ˈaɪɚn ˈɑɹmɚ ənd dɪˈfitəd ðə ˈɛnəmi/",
           "linking": [
             "「the」は弱形 /ðə/ ザ（複数回）",
-            "「armor and」で語末 /ɔɹ/ が /ənd/ に続く"
+            "「armor」の語末 /ɚ/ が「and」の母音 /ə/ に連結"
           ],
           "kana": "ザ ダイモンド エロー ペネトレイテッド ザ アイアン アーマー アンド ディフィテッド ザ エネミー"
         },
@@ -129,7 +127,7 @@
           "linking": [
             "「water」の /t/ がフラップ化 /ɾ/。結果 [ˈwɔɾɚ] ウォーラー",
             "「the」は弱形 /ðə/",
-            "「several」の final /l/ が weak form of「seasons」の /z/ に連結"
+            "「several」の語末 /l/ が「seasons」の /z/ に先行（子音同士）"
           ],
           "kana": "ウォーラー スロウリー ペネトレイテッド ザ ウッドゥン ベイス ファウンデーション オウバー セベラル シーズンズ"
         }
@@ -157,7 +155,7 @@
           "ipa": "/ðɪs ˈkeɪv əd bɪn ˌpɛnəˈtreɪtəd baɪ ɪkˈsplɔrərz ˈsikɪŋ ˈeɪntʃənt ˈtrɛʃɚ/",
           "linking": [
             "「had been」で had は弱形 /əd/ アッド、been は /bɪn/",
-            "「seekers」は /z/ で終わり、次の母音に連結"
+            "「explorers」の語末 /z/ が「seeking」の /s/ に先行（子音同士）"
           ],
           "kana": "ディス ケイヴ アッド ビン ペネトレイテッド バイ イクスプローラーズ シーキング エイント・シェント トレジャー"
         }
@@ -186,10 +184,100 @@
           "ipa": "/ˌpɛnəˈtreɪtɪŋ ˈdip ˈɪntə ðə ˈnɛðɚ rɪˈkwaɪərz prəˈtɛktɪv ˈɑɹmɚ əˈɡɛnst ˈfaɪər/",
           "linking": [
             "「into the」で into の /tə/ が弱形に弱化、the /ðə/ に続く",
-            "「requires」の /z/ が母音に連結",
-            "「armor against」で /ɔɹ/ が /ə/ に連結"
+            "「requires」の語末 /z/ が「protective」の /p/ に先行（子音同士）",
+            "「armor」の語末 /ɚ/ が「against」の母音 /ə/ に連結"
           ],
           "kana": "ペネトレイティング ディープ イントゥ ザ ネザー リクワイアーズ プロテクティブ アーマー アゲンスト ファイアー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is penetrating",
+      "ipa": "/ɪz ˌpɛnəˈtreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The diamond drill is penetrating through the bedrock layer much faster now.",
+          "ja": "ダイヤモンドドリルは今、岩盤層をはるかに速く貫通している。",
+          "ipa": "/ðə ˈdaɪəmənd ˈdrɪl ɪz ˌpɛnəˈtreɪtɪŋ ˈθɹu ðə ˈbɛdˌrɑk ˈleɪər ˈmʌtʃ ˈfæstər ˈnaʊ/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「is penetrating」で is は弱形 /ɪz/、penetrating の /ə/ に連なる",
+            "「through」の語末 /u/ が「the」の母音 /ə/ に連続（両母音）"
+          ],
+          "kana": "ザ ダイモンド ドリル イズ ペネトレイティング スルー ザ ベドラック レイヤー マッチ ファスター ナウ"
+        },
+        {
+          "en": "Water is penetrating into every crack of our underground base as the flood continues.",
+          "ja": "洪水が続く中、水が私たちの地下基地のあらゆる亀裂に浸透している。",
+          "ipa": "/ˈwɔɾɚ ɪz ˌpɛnəˈtreɪtɪŋ ˈɪntə ˈɛvri ˈkɹæk əv ˌɑɹ ˌʌndɚˈɡraʊnd ˈbeɪs əz ðə ˈflʌd kənˈtɪnjuːz/",
+          "linking": [
+            "「water」の /t/ がフラップ化 /ɾ/ → [ˈwɔɾɚ] ウォーラー",
+            "「is penetrating」で is 弱形 /ɪz/、penetrating に連結",
+            "「into」の /tu/ が弱形 /tə/ に弱化"
+          ],
+          "kana": "ウォーラー イズ ペネトレイティング イントゥ エブリ クラック アヴ アワー アンダーグラウンド ベイス アズ ザ フラッド コンティニューズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was penetrating",
+      "ipa": "/wəz ˌpɛnəˈtreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The lava was penetrating through the cave wall when I managed to block it off.",
+          "ja": "私がそれをブロックで塞ぐことに成功したとき、溶岩は洞窟の壁を貫通していた。",
+          "ipa": "/ðə ˈlɑvə wəz ˌpɛnəˈtreɪtɪŋ ˈθɹu ðə ˈkeɪv ˈwɔl ˈwɛn aɪ ˈmænɪdʒd tə ˈblɑk ɪt ˈɔf/",
+          "linking": [
+            "「was penetrating」で was は弱形 /wəz/ ワズ → penetrating に連結",
+            "「the」弱形 /ðə/ ザ（複数回）",
+            "「to block」で to は弱形 /tə/ タ"
+          ],
+          "kana": "ザ ラヴァ ワズ ペネトレイティング スルー ザ ケイヴ ウォール ウェン アイ マネージド トゥ ブラック イット オフ"
+        },
+        {
+          "en": "They were penetrating deeper into the Nether fortress when the Wither appeared.",
+          "ja": "ウィザーが現れたとき、彼らはネザー要塞の深部に浸透していた。",
+          "ipa": "/ðeɪ wɚ ˌpɛnəˈtreɪtɪŋ ˈdipɚ ˈɪntə ðə ˈnɛðɚ ˈfɔɹtrəs ˈwɛn ðə ˈwɪðər əˈpɪɹd/",
+          "linking": [
+            "「were penetrating」で were は弱形 /wɚ/ ワー → penetrating に連結",
+            "「into the」で into /tə/ が弱形、the /ðə/ に続く",
+            "「Wither appeared」で語末 /ðɚ/ と /ə/ が連結 [ˈwɪðərəˈpɪɹd]"
+          ],
+          "kana": "ザイ ワー ペネトレイティング ディーパー イントゥ ザ ネザー フォートレス ウェン ザ ウィザー アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been penetrating",
+      "ipa": "/həd bɪn ˌpɛnəˈtreɪtɪŋ/",
+      "examples": [
+        {
+          "en": "By the time we found the leak, water had been penetrating our base for at least a week.",
+          "ja": "漏れを発見したとき、水は少なくとも1週間、私たちの基地に浸透していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaʊnd ðə ˈlik ˈwɔɾɚ əd bɪn ˌpɛnəˈtreɪtɪŋ ˈaʊɚ ˈbeɪs fɚ ət ˈlist ə ˈwik/",
+          "linking": [
+            "「had been penetrating」で had 弱形 /əd/ アッド、been 弱形 /bɪn/ ビン",
+            "「water」の /t/ がフラップ化 /ɾ/、ウォーラー → /əd/ に連結 [ˈwɔɾərəd]",
+            "「the」弱形 /ðə/ ザ（複数回）、「at」は弱形で語末 /t/ が未開放"
+          ],
+          "kana": "バイ ザ タイム ウィ ファウンド ザ リーク ウォーラー アッド ビン ペネトレイティング アワー ベイス ファー アッ リース ア ウィーク"
+        },
+        {
+          "en": "The Wither's attacks had been penetrating our diamond armor before we switched to netherite gear.",
+          "ja": "ネザライト装備に切り替える前に、ウィザーの攻撃は私たちのダイヤモンド甲冑を貫通していた。",
+          "ipa": "/ðə ˈwɪðɚz əˈtæks əd bɪn ˌpɛnəˈtreɪtɪŋ ˈaʊɚ ˈdaɪəmənd ˈɑɹmɚ bɪˈfɔɹ wi ˈswɪtʃt tə ˈnɛðəɹaɪt ˈɡiɹ/",
+          "linking": [
+            "「had been penetrating」で had 弱形 /əd/ アッド、been 弱形 /bɪn/ ビン",
+            "「attacks」の語末 /s/ が「had」の /ə/ に先行（子音と母音で連結効果）",
+            "「before」の /ɔɹ/ が「we」の /w/ に先行（子音同士）"
+          ],
+          "kana": "ザ ウィザーズ アタックス アッド ビン ペネトレイティング アワー ダイモンド アーマー ビフォア ウィ スウィッチド トゥ ネザライト ギアー"
         }
       ]
     }

@@ -297,6 +297,102 @@
           "kana": "ザ ウィッチーズ ハド ビン インハビティング ザット エイシェント デザート テンプル シンス ザ サーバー スターティド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has inhabited",
+      "ipa": "/həz ɪnˈhæbɪtɪd/",
+      "examples": [
+        {
+          "en": "Spiders have inhabited the dark cave system for months.",
+          "ja": "クモは何ヶ月間、暗い洞窟システムに棲息しています。",
+          "ipa": "/ˈspaɪdərz həv ɪnˈhæbɪtɪd ðə ˈdɑrk keɪv ˈsɪstəm fɚ ˈmʌnθz/",
+          "linking": [
+            "spiders の末尾有声摩擦音 /z/ が have の初頭子音 /h/ に続く（子音+子音）",
+            "have の弱形 /həv/ が inhabited の /ɪ/ に連結 [həv ɪnˈhæbɪtɪd] ハヴ インハビティド",
+            "inhabited の語末 /d/ は the の初頭 /ð/ の前で未開放。the は弱形 /ðə/ ザ",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "スパイダーズ ハヴ インハビティド ザ ダーク ケイヴ システム ファー マンスズ"
+        },
+        {
+          "en": "We have inhabited this mountain biome since the server started.",
+          "ja": "私たちはサーバー開始以来、この山のバイオームに棲息しています。",
+          "ipa": "/wi həv ɪnˈhæbɪtɪd ðɪs ˈmaʊntən ˈbaɪoʊm sɪns ðə ˈsɝvɚ ˈstɑɹtɪd/",
+          "linking": [
+            "have の弱形 /həv/ が inhabited の /ɪ/ に連結 [həv ɪnˈhæbɪtɪd] ハヴ インハビティド",
+            "inhabited の語末 /d/ は this の初頭 /ð/ の前で未開放",
+            "the は弱形 /ðə/ ザ",
+            "server の語末 /ɚ/ が started の初頭 /s/ に続く（子音+子音）"
+          ],
+          "kana": "ウィー ハヴ インハビティド ディス マウンテン バイオーム シンス ザ サーバー スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had inhabited",
+      "ipa": "/həd ɪnˈhæbɪtɪd/",
+      "examples": [
+        {
+          "en": "Zombies had inhabited that area all night before we defeated them all.",
+          "ja": "ゾンビたちは、私たちが全滅させる前に夜通しその地域に棲息していました。",
+          "ipa": "/ˈzɑmbiz həd ɪnˈhæbɪtɪd ðæt ˈɛɹiə ɔl ˈnaɪt bɪˈfɔɹ wi dɪˈfiːtɪd ðɛm ɔl/",
+          "linking": [
+            "zombies の末尾有声摩擦音 /z/ が had の初頭子音 /h/ に続く（子音+子音）",
+            "had の弱形 /həd/ が inhabited の /ɪ/ に連結 [həd ɪnˈhæbɪtɪd] ハド インハビティド",
+            "inhabited の語末 /d/ は that の初頭 /ð/ の前で未開放。that は /ðæt/",
+            "before は /bɪˈfɔɹ/。defeated の語末 /d/ は them の初頭 /ð/ の前で未開放"
+          ],
+          "kana": "ザンビーズ ハド インハビティド ザット エリア オール ナイト ビフォア ウィー ディフィーティド ゼム オール"
+        },
+        {
+          "en": "Witches had inhabited the desert temple for weeks before we discovered it.",
+          "ja": "魔女たちは、私たちがそれを発見する前に何週間も砂漠の寺院に棲息していました。",
+          "ipa": "/ˈwɪtʃɪz həd ɪnˈhæbɪtɪd ðə ˈdɛzəɹt ˈtɛmpəl fɔɹ ˈwiks bɪˈfɔɹ wi dɪsˈkʌvɚd ɪt/",
+          "linking": [
+            "witches の末尾有声摩擦音 /z/ が had の初頭子音 /h/ に続く（子音+子音）",
+            "had の弱形 /həd/ が inhabited の /ɪ/ に連結 [həd ɪnˈhæbɪtɪd] ハド インハビティド",
+            "inhabited の語末 /d/ は the の初頭 /ð/ の前で未開放。the は弱形 /ðə/ ザ",
+            "for は機能語で弱形 /fɔɹ/ に弱化。discovered の /d/ は it の /ɪ/ に続く（子音+母音）"
+          ],
+          "kana": "ウィッチーズ ハド インハビティド ザ デザート テンプル フォー ウィークス ビフォア ウィー ディスカバード イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been inhabiting",
+      "ipa": "/həz ˈbɪn ɪnˈhæbɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Players have been inhabiting the new base for several days now.",
+          "ja": "プレイヤーたちはここ数日間、新しい基地に棲息し続けています。",
+          "ipa": "/ˈpleɪərz həv ˈbɪn ɪnˈhæbɪtɪŋ ðə ˈnu ˈbeɪs fɔɹ ˈsɛvɚəl ˈdeɪz ˈnaʊ/",
+          "linking": [
+            "players の末尾有声摩擦音 /z/ が have の初頭子音 /h/ に続く（子音+子音）",
+            "have の弱形 /həv/ が been の弱形 /bɪn/ に続く。been の /n/ が inhabiting の /ɪ/ に連結 [bɪn ɪnˈhæbɪtɪŋ] ビン インハビティング",
+            "inhabiting の語末 /ŋ/ が the の初頭 /ð/ に続く（子音+子音）。the は弱形 /ðə/ ザ",
+            "for は機能語で弱形 /fɔɹ/。several の初頭 /s/ との間に非連結"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン インハビティング ザ ニュー ベイス フォー セヴラル デイズ ナウ"
+        },
+        {
+          "en": "Mobs have been inhabiting that fortress since we stopped maintaining it.",
+          "ja": "モブたちは、私たちがその保守を止めてからその要塞に棲息し続けています。",
+          "ipa": "/ˈmoʊbz həv ˈbɪn ɪnˈhæbɪtɪŋ ðæt ˈfɔɹtɪs sɪns wi ˈstɑpt meɪnˈteɪnɪŋ ɪt/",
+          "linking": [
+            "mobs の末尾有声摩擦音 /z/ が have の初頭子音 /h/ に続く（子音+子音）",
+            "have の弱形 /həv/ が been の弱形 /bɪn/ に続く。been の /n/ が inhabiting の /ɪ/ に連結 [bɪn ɪnˈhæbɪtɪŋ] ビン インハビティング",
+            "inhabiting の語末 /ŋ/ が that の初頭 /ð/ に続く（子音+子音）",
+            "stopped の語末 /t/ は maintaining の初頭 /m/ の前で未開放"
+          ],
+          "kana": "モウブズ ハヴ ビン インハビティング ザット フォーティス シンス ウィー スタップ メインテイニング イット"
+        }
+      ]
     }
   ]
 }

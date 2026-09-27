@@ -431,6 +431,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will defect",
+      "ipa": "/wɪl dɪˈfɛkt/",
+      "examples": [
+        {
+          "en": "I will defect if the server continues to enforce these unfair rules.",
+          "ja": "サーバーがこれらの不正なルールを実装し続けるなら、私は背きます。",
+          "ipa": "/aɪ wɪl dɪˈfɛkt ɪf ðə ˈsɝvɚ kənˈtɪnjuz tə ɛnˈfɔrs ðiz ənˈfɛr rulz/",
+          "kana": "アイ ウィル ディフェクト イフ ザ サーバー コンティニューズ タ エンフォース ジーズ アンフェア ルールズ",
+          "linking": [
+            "will は主語 I と縮約されることが多い、I'll /aɪl/ アイル",
+            "defect if - /t/ が /ɪ/ に連結 [dɪˈfɛktɪf] ディフェクティフ",
+            "the は定冠詞で弱形 /ðə/「ザ」に弱化",
+            "to は機能語で弱形 /tə/「タ」に弱化"
+          ]
+        },
+        {
+          "en": "If the admins don't listen to our complaints, most of us will defect to other servers.",
+          "ja": "管理者が私たちの不満に耳を傾けないなら、私たちのほとんどは他のサーバーに背きます。",
+          "ipa": "/ɪf ðə ˈædmɪnz ˈdoʊnt ˈlɪsən tu ˈaʊɚ kəmˈpleɪnts moʊst əv əs wɪl dɪˈfekt tu ˈʌðɚ ˈsɝvɚz/",
+          "kana": "イフ ザ アドミンズ ドウント リスン トゥー アワー コンプレインツ モースト アヴ アス ウィル ディフェクト トゥー アザー サーバーズ",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/「ザ」に弱化",
+            "don't の語末 /t/ が listen の子音 /l/ に続き未開放",
+            "to は弱形 /tə/「タ」、our は /aʊr/ アワー",
+            "most of us - most の語末 /t/ が of の子音 /v/ に続き未開放、of は弱形 /əv/「アヴ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be defecting",
+      "ipa": "/wɪl bi dɪˈfɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "While we defend the base, the treasurer will be defecting with half of our stored diamonds.",
+          "ja": "私たちが基地を守っている間、会計担当者は保管されたダイヤモンドの半分を持って背いています。",
+          "ipa": "/waɪl wi dɪˈfɛnd ðə beɪs ðə ˈtrɛʒərɚ wɪl bi dɪˈfɛk.tɪŋ wɪð hæf əv ˈaʊɚ ˈstɔɹd ˈdaɪməndz/",
+          "kana": "ワイル ウィー ディフェンド ザ ベース ザ トレジャラー ウィル ビー ディフェクティング ウィズ ハーフ アヴ アワー ストアード ダイヤモンズ",
+          "linking": [
+            "we の母音 /i/ が defend の子音 /d/ に先行（語別わり）",
+            "the は定冠詞で弱形 /ðə/「ザ」に弱化",
+            "treasurer の語末 /ɚ/ が will の子音 /w/ に先行（音の隙間）、will の /l/ が be の母音 /i/ に連結「ウィル ビー」",
+            "with は /wɪð/、of は弱形 /əv/「アヴ」に弱化"
+          ]
+        },
+        {
+          "en": "They'll be defecting to the rival faction throughout the season if our faction keeps losing battles.",
+          "ja": "私たちの陣営が戦闘に負け続けるなら、彼らはシーズン中ずっとライバル陣営に背いていることになります。",
+          "ipa": "/ðeɪl bi dɪˈfɛk.tɪŋ tu ðə ˈɹaɪvəl ˈfækʃən θruˈaʊt ðə ˈsiːzən ɪf ˈaʊɚ ˈfækʃən kips ˈluzɪŋ ˈbætəlz/",
+          "kana": "ゼイル ビー ディフェクティング トゥー ザ ライバル ファクション スルーアウト ザ シーズン イフ アワー ファクション キープス ルージング バトルズ",
+          "linking": [
+            "they'll - they は /ðeɪ/、will は縮約で /l/ だけ残る /ðeɪl/ ゼイル",
+            "will be - /l/ が /b/ に続き未開放",
+            "be defecting - be の語末 /i/ が defecting の子音 /d/ に続く",
+            "to は弱形 /tə/ or /tu/、the は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have defected",
+      "ipa": "/wɪl hæv dɪˈfɛk.təd/",
+      "examples": [
+        {
+          "en": "By the time you finish rebuilding the castle, the head engineer will have defected.",
+          "ja": "あなたが城の再建を完了するまでに、主任エンジニアは背いているでしょう。",
+          "ipa": "/baɪ ðə taɪm ju ˈfɪnɪʃ riˈbɪldɪŋ ðə ˈkæsəl ðə hɛd ˈɛndʒɪˌnɪr wɪl hæv dɪˈfɛk.təd/",
+          "kana": "バイ ザ タイム ユー フィニッシュ リビルディング ザ キャッスル ザ ヘッド エンジニアー ウィル ハヴ ディフェクテッド",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/「ザ」に弱化",
+            "time you - time の語末 /m/ が you の母音 /u/ に連結「タイム ユー」",
+            "will have - will の /l/ が have の子音 /h/ に先行（子音+子音）、have は弱形 /hæv/ ハヴ",
+            "have defected - have の語末 /v/ が defected の子音 /d/ に続き未開放"
+          ]
+        },
+        {
+          "en": "Before the new season starts, all the disloyal members will have defected to competing servers.",
+          "ja": "新しいシーズンが始まる前に、すべての不忠なメンバーは競争するサーバーに背いているでしょう。",
+          "ipa": "/bɪˈfɔɹ ðə nu ˈsizən stɑɹts ɔl ðə dɪsˈlɔɪəl ˈmɛmbɚz wɪl hæv dɪˈfɛk.təd tu kəmˈpitɪŋ ˈsɝvɚz/",
+          "kana": "ビフォア ザ ニュー シーズン スターツ オール ザ ディスロイアル メンバーズ ウィル ハヴ ディフェクテッド トゥー コンピーティング サーバーズ",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/「ザ」に弱化",
+            "starts all - starts の語末 /ts/ が all の子音 /l/ に続き未開放",
+            "will have - will の /l/ が have の子音 /h/ に先行（子音+子音）、have は弱形 /hæv/ ハヴ",
+            "have defected to - have の語末 /v/ が defected の子音 /d/ に続き未開放、to は弱形 /tə/ トゥー"
+          ]
+        }
+      ]
     }
   ]
 }

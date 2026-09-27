@@ -329,19 +329,19 @@
         {
           "en": "By the time the admin fixed the system, water had leaked throughout the entire base.",
           "ja": "管理者がシステムを修理するまでに、水は全基地中に漏れていた。",
-          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn ˈfɪkst ðə ˈsɪstəm ˈwɔːtər həd ˈliːkt θruːˈaʊt ðə ɪnˈtaɪr ˈbeɪs/",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn ˈfɪkst ðə ˈsɪstəm ˈwɔɾɚ həd ˈliːkt θruːˈaʊt ðə ɪnˈtaɪr ˈbeɪs/",
           "kana": "バイ ザ タイム ザ アドミン フィクスト ザ システム ウォーラ ハド リークト スルーアウト ザ インタイア ベース",
           "linking": [
             "「by the」で by の /aɪ/ が the の /ð/ に連結。the は弱形 /ðə/「バイ ザ」",
             "「the admin」で the は弱形 /ðə/「ザ」に弱化",
-            "「water had」で water の語末 /r/ が had の /h/ に連結。had は弱形 /həd/「ウォーラ ハド」",
+            "「water had」で water の語末 /ɚ/ が had の /h/ に連結。had は弱形 /həd/「ウォーラ ハド」",
             "「had leaked」で had は弱形 /həd/。leaked の語末 /t/ が throughout の /θ/ に未開放で連接「ハド リークト スルーアウト」"
           ]
         },
         {
           "en": "The coordinates had leaked to rival clans before we could secure our defenses.",
           "ja": "防御を固める前に、座標はライバル氏族に漏れていた。",
-          "ipa": "/ðə ˌkoʊˈɔːrdənəts həd ˈliːkt tu ˈraɪvəl ˈklænz bɪˈfɔr wi ˈkʊd sɪˈkjʊr aʊr dɪˈfɛnsɪz/",
+          "ipa": "/ðə ˌkoʊˈɔːrdənəts həd ˈliːkt tə ˈraɪvəl ˈklænz bɪˈfɔr wi ˈkʊd sɪˈkjʊr aʊr dɪˈfɛnsɪz/",
           "kana": "ザ コーオーディネイツ ハド リークト トゥー ライバル クランズ ビフォア ウィ クッド シキュア アワー ディフェンセズ",
           "linking": [
             "「the coordinates」で the は弱形 /ðə/「ザ」に弱化",
@@ -414,6 +414,88 @@
             "「that the」で that の /t/ が the の /ð/ に未開放で連接。the は弱形 /ðə/「ザット ザ」",
             "「pipe had」で pipe の語末 /p/ が had の /h/ に未開放で連接。had は弱形 /həd/「パイプ ハド」",
             "「had been」で had /həd/ と been /bɪn/ は弱形の連続「ハド ビン」。been の語末 /n/ が leaking の /l/ に連結「ビン リーキング」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will leak",
+      "ipa": "/wɪl ˈliːk/",
+      "examples": [
+        {
+          "en": "Those pipes will leak if we don't install proper support blocks underneath them.",
+          "ja": "下に適切なサポートブロックを設置しなければ、それらのパイプは漏れるでしょう。",
+          "ipa": "/ðoʊz ˈpaɪpz wɪl ˈliːk ɪf wi ˈdoʊnt ɪnˈstɔl ˈpropər səˈpɔːrt blɑks ˈʌndərˌniːθ ðɛm/",
+          "kana": "ドーズ パイプズ ウィル リーク イフ ウィ ドーント インストール プロパー サポート ブロックス アンダーニース ザム",
+          "linking": [
+            "「leak if」で leak の語末 /k/ が if の /ɪ/ に連結「リーク イフ」",
+            "「don't install」で don't の /t/ が install の /ɪ/ に連結「ドーント インストール」"
+          ]
+        },
+        {
+          "en": "The secret base coordinates will leak to rival clans unless we're extremely careful about who we trust.",
+          "ja": "誰を信じるかについてとても慎重にしなければ、秘密基地の座標がライバル氏族に漏れるでしょう。",
+          "ipa": "/ðə ˈsiːkrət ˈbeɪs ˌkoʊˈɔːrdənəts wɪl ˈliːk tə ˈraɪvəl ˈklænz ənˈlɛs wɪr ɪkˈstrimli ˈkɛrfəl əˈbaʊt ˈhuː wi ˈtrʌst/",
+          "kana": "ザ シークリット ベース コーオーディネイツ ウィル リーク トゥー ライバル クランズ アンレス ウィア イクストリームリー ケアフル アバウト フー ウィ トラスト",
+          "linking": [
+            "「leak to」で leak の語末 /k/ が to の /t/ に連結「リーク トゥー」。to は弱形 /tə/「トゥー」",
+            "「we're extremely」で we're /wɪr/ の /r/ が extremely の /ɪ/ に連結「ウィア イクストリームリー」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be leaking",
+      "ipa": "/wɪl bi ˈliːkɪŋ/",
+      "examples": [
+        {
+          "en": "While we're building the outer wall, water will be leaking from that cracked pipe constantly.",
+          "ja": "外壁を建てている間、壊れたパイプから水が継続的に漏れ続けるでしょう。",
+          "ipa": "/waɪl wɪr ˈbɪldɪŋ ðə ˈaʊtər ˈwɔːl ˈwɔɾɚ wɪl bi ˈliːkɪŋ frəm ðæt ˈkrækt ˈpaɪp ˈkɑnstəntli/",
+          "kana": "ワイル ウィア ビルディング ザ アウター ウォール ウォーラ ウィル ビー リーキング フラム ザット クラックト パイプ カンスタントリー",
+          "linking": [
+            "「we're building」で we're /wɪr/ の /r/ が building の /b/ に連結「ウィア ビルディング」"
+          ]
+        },
+        {
+          "en": "By next week, the system will be leaking from multiple points if we don't repair it before the event.",
+          "ja": "イベント前に修理しなければ、来週までにシステムは複数の場所から漏れ続けるでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈwik ðə ˈsɪstəm wɪl bi ˈliːkɪŋ frəm ˈmʌltəpəl ˈpɔɪnts ɪf wi ˈdoʊnt rɪˈpɛr ɪt bɪˈfɔr ðə ɪˈvɛnt/",
+          "kana": "バイ ネクスト ウィック ザ システム ウィル ビー リーキング フラム マルティプル ポインツ イフ ウィ ドーント リペア イット ビフォア ザ イベント",
+          "linking": [
+            "「by next」で by の /aɪ/ が next の /n/ に連結「バイ ネクスト」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have leaked",
+      "ipa": "/wɪl hæv ˈliːkt/",
+      "examples": [
+        {
+          "en": "By the time the admin gets back online, water will have leaked throughout the entire base structure.",
+          "ja": "管理者がオンラインに戻る頃には、水は基地全体に漏れてしまっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn ˈɡɛts ˈbæk ˈɑnlaɪn ˈwɔɾɚ wɪl hæv ˈliːkt θruːˈaʊt ðə ɪnˈtaɪr ˈbeɪs ˈstrʌktʃər/",
+          "kana": "バイ ザ タイム ザ アドミン ゲッツ バック オンライン ウォーラ ウィル ハブ リークト スルーアウト ザ インタイア ベース ストラクチャー",
+          "linking": [
+            "「by the」で by の /aɪ/ が the の /ð/ に連結。the は弱形 /ðə/「バイ ザ」"
+          ]
+        },
+        {
+          "en": "The secret base coordinates will have leaked to at least three rival teams before anyone realizes the security breach.",
+          "ja": "誰かが セキュリティ侵害に気づく前に、秘密基地の座標は少なくとも3つのライバルチームに漏れてしまっているでしょう。",
+          "ipa": "/ðə ˈsiːkrət ˈbeɪs ˌkoʊˈɔːrdənəts wɪl hæv ˈliːkt tə æt ˈlist ˈθri ˈraɪvəl ˈtimz bɪˈfɔr ˈɛniˌwʌn ˌriːəˈlaɪzɪz ðə sɪˈkjʊrəti ˈbriːtʃ/",
+          "kana": "ザ シークリット ベース コーオーディネイツ ウィル ハブ リークト トゥー アット リースト スリー ライバル ティームズ ビフォア エニワン リーアライズィズ ザ シキュアリティ ブリーチ",
+          "linking": [
+            "「have leaked」で have の語末 /v/ が leaked の /l/ に連結「ハブ リークト」。leaked の /t/ が to の /t/ に続く「リークト トゥー」",
+            "「to at」で to は弱形 /tə/「トゥー」",
+            "「before anyone」で before の /r/ が anyone の /ɛ/ に連結「ビフォア エニワン」"
           ]
         }
       ]

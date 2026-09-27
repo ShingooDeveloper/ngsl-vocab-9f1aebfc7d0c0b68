@@ -1,0 +1,132 @@
+===== "CONTRARY" ENTRY - CORRECTIONS SUMMARY =====
+
+OVERALL APPROACH:
+Following the instruction "過剰主張を消す（正しい点だけ残す。結果1点でも可）"
+- Remove linking descriptions that describe normal juncture (consonant/vowel boundaries)
+- Keep only meaningful phonetic phenomena: reduction (weak forms), unreleased consonants
+- Fix incorrect vowel/consonant classifications
+
+===== COMPARATIVE SECTION =====
+
+Example 1: "Your mining strategy is more contrary to the official rules than mine."
+
+REMOVED:
+❌ "strategy の /i/ が is に続く（母音+子音）"
+   ERROR: strategy ends /i/ (vowel), is starts /ɪ/ (vowel) = VOWEL+VOWEL, not vowel+consonant
+
+❌ "more の /r/ が contrary に連結 [ˈmoʊr kənˈtrɛri]"
+   ERROR: contrary starts /k/ (consonant), not vowel. Final /r/ in American English is realized but NOT linked to consonant when followed by consonant
+
+❌ "contrary の /i/ が to に続く（母音+子音）"
+   REASON: Normal boundary juncture, not a phonetic phenomenon per instruction to remove excessive claims
+
+KEPT:
+✓ "to は機能語で弱形 /tə/"
+   CORRECT: Functional word reduction is meaningful phonetic phenomenon
+✓ "the は弱形 /ðə/"
+   CORRECT: Weak form reduction
+
+Example 2: "This redstone mechanism is more contrary to expected behavior than the previous one."
+
+REMOVED:
+❌ "mechanism の /m/ が is に続く（子音+子音）"
+   ERROR: mechanism ends /m/ (consonant), is starts /ɪ/ (vowel) = CONSONANT+VOWEL, not consonant+consonant
+
+❌ "more の /r/ が contrary に連結"
+   ERROR: Same issue as Example 1
+
+❌ "previous の /s/ が wən に続く（子音+子音）"
+   REASON: Normal boundary, not meaningful phonetic phenomenon
+
+KEPT:
+✓ Weak form reductions only
+
+===== SUPERLATIVE SECTION =====
+
+Example 1: "That building style is the most contrary to our server's medieval theme."
+
+REMOVED:
+❌ "is の /z/ が the に続く。the は弱形 /ðə/" (simplified)
+   ERROR: Description is awkward. is /z/, the /ð/ = consonant+consonant. Reduced to just note the weak form.
+
+❌ "contrary の /i/ が to に続く（母音+子音）"
+   REASON: Normal boundary
+
+❌ "server's の /z/ が medieval に続く（子音+子音）"
+   REASON: Normal boundary
+
+KEPT:
+✓ "most の /t/ が contrary に未開放で続く（子音+子音）[ˈmoʊst̚ kənˈtrɛri]"
+   CORRECT: Unreleased /t̚/ notation is accurate phonetic phenomenon
+✓ "the は弱形 /ðə/"
+   CORRECT: Weak form reduction
+
+Example 2: "His gameplay philosophy is the most contrary to what most players expect."
+
+REMOVED:
+❌ "philosophy の /i/ が is に続く（母音+子音）"
+   ERROR: philosophy ends /i/ (vowel), is starts /ɪ/ (vowel) = VOWEL+VOWEL, not vowel+consonant
+
+❌ Other normal boundary descriptions
+
+KEPT:
+✓ Unreleased /t̚/ notation
+✓ Weak form reductions (the, to)
+
+===== PLURAL SECTION =====
+
+Example 1: "The two servers represented contraries in their approach to gameplay rules."
+
+REMOVED:
+❌ "their の /r/ が approach に続く（子音+子音）"
+   ERROR: their ends /r/, approach starts /ə/ = CONSONANT+VOWEL, not consonant+consonant
+
+MODIFIED:
+⚠ Simplified linking descriptions to focus on functional word reductions
+
+Example 2: "These mining techniques are contraries—one maximizes efficiency while the other prioritizes safety."
+
+REMOVED:
+❌ "techniques の /z/ が are に続く。are は弱形 /ɑr/" (simplified)
+   REASON: Not meaningful boundary description
+
+❌ "one の /n/ が maximizes に続く（子音+子音）"
+   REASON: Normal boundary
+
+❌ "while の /l/ が the に続く。the は弱形 /ðə/" (simplified)
+   ERROR: while ends /l/, the starts /ð/ = consonant+consonant (awkwardly described)
+
+❌ "prioritizes の /z/ が safety に続く（子音+子音）"
+   REASON: Normal boundary
+
+KEPT/ADDED:
+✓ "are は弱形 /ɑr/"
+   CORRECT: Functional word reduction
+✓ "the は弱形 /ðə/"
+   CORRECT: Functional word reduction
+
+KANA FIX:
+✓ Changed "プライオリタイズ" to "プライオリティズ" 
+   REASON: Better matches the IPA /praɪˈɑrətaɪz/ with ティ reflecting /tə/
+
+===== SUMMARY OF PRINCIPLES APPLIED =====
+
+1. LINKING PRINCIPLE: Only phonetic phenomena that involve actual sound changes
+   - ✓ KEEP: Weak form reductions (to, the, are, etc.)
+   - ✓ KEEP: Unreleased consonants [t̚]
+   - ❌ REMOVE: Simple descriptions of adjacent consonant/vowel classes without sound change
+   - ❌ REMOVE: Normal juncture descriptions
+
+2. VOWEL/CONSONANT CLASSIFICATION: Fixed all errors
+   - Vowel sounds: /i/, /ɪ/, /ə/, /ɑ/, /aɪ/, /oʊ/, etc.
+   - Consonant sounds: /z/, /d/, /m/, /k/, /t/, /r/, /n/, /l/, /w/, etc.
+
+3. KANA ACCURACY: Matched to IPA transcription
+   - Avoided つづり字読み (spelling-based reading)
+   - Reflected reduced/weak forms
+   - Fixed "プライオリティズ" for better IPA fidelity
+
+4. BREVITY: Per instruction "結果1点でも可"
+   - Plural Example 1 reduced linking to single statement
+   - Focused on most important phenomena only
+

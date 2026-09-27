@@ -1,0 +1,25 @@
+【検証対象】present_perfect, past_perfect, present_perfect_progressive
+
+【誤りポイント】
+
+1. **present_perfect 例1（line 297）**
+   現: "We have cried together when the whole base burned down in lava."
+   問題: 「when + 過去具体時点」と「have cried（経験）」が矛盾。
+   正しくは時間副詞が必要：「every time」「many times」など
+   
+2. **日本語訳の不正確**
+   - 例1.1: "泣きました" は単純過去。完了形は「泣きました」でなく「泣いてきました」「泣いたことがあります」
+   - 例1.2: 同様に単純過去で訳されている
+
+3. **linking の過剰説明**
+   - 子音+子音は「連結」ではなく「続く」
+   - 母音+子音、または語末がない場合は「連結」説明不要
+   - 正しい連結例だけ残す（結果1点でも可）
+
+4. **past_perfect 例1 の時系列**
+   現: "After the Wither boss appeared, we had cried out in fear."
+   問題: After節で時点を指定しつつ過去完了を使うと曖昧。
+   正: "When the Wither boss appeared, we had already cried out."
+       または "By the time...had cried"で時系列を明確化
+
+【修正内容】

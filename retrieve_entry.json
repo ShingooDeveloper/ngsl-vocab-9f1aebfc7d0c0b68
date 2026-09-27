@@ -1,0 +1,358 @@
+{
+  "word": "retrieve",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/rɪˈtriːv/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "retriev(?:e[sd]?|ing)",
+  "meanings": [
+    "【動詞】失ったものや必要なものを取り戻す、回収する（…get back something lost or needed）",
+    "【動詞】データやファイルを検索する、抽出する（…search and get data or information）",
+    "【動詞】困難な状況から立ち直る、挽回する（…recover or make good from a bad situation）"
+  ],
+  "examples": [
+    {
+      "en": "I need to retrieve my items from where I died.",
+      "ja": "死んだ場所から自分のアイテムを取り戻す必要があります。",
+      "ipa": "/aɪ ˈniːd tə rɪˈtriːv maɪ ˈɪtəmz frəm wɛɹ aɪ ˈdaɪd/",
+      "linking": [
+        "need to で、語末子音 /d/ が弱形 /tə/ に連結 [ˈniːdə] ニーダ",
+        "from は機能語の弱形 /frəm/ フラム"
+      ],
+      "kana": "アイ ニーダ リトリーヴ マイ イテムズ フラム ウェア アイ ダイド"
+    },
+    {
+      "en": "The admin retrieved the player's lost diamonds from lava.",
+      "ja": "管理者がプレイヤーの失ったダイヤを溶岩から取り戻しました。",
+      "ipa": "/ðə ˈædmɪn rɪˈtriːvd ðə ˈpleɪərz ˈlɑst ˈdaɪmənds frəm ˈlɑvə/",
+      "linking": [
+        "The：弱形 /ðə/ に弱化 ザ（文中・文頭とも）",
+        "from は弱形 /frəm/ フラム"
+      ],
+      "kana": "ザ アドミン リトリーヴド ザ プレイヤーズ ロスト ダイモンズ フラム ラーバ"
+    },
+    {
+      "en": "Can you retrieve the backup if the server crashes?",
+      "ja": "サーバーがクラッシュしたら、バックアップを復元できますか？",
+      "ipa": "/kən juː rɪˈtriːv ðə ˈbækʌp ɪf ðə ˈsɝvɚ ˈkræʃɪz/",
+      "linking": [
+        "Can：文中なので弱形 /kən/ にしばしば弱化 カン",
+        "the：弱形 /ðə/ ザ（2回）"
+      ],
+      "kana": "カン ユー リトリーヴ ザ バックアップ イフ ザ サーバー クラッシズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "retrieve from",
+      "ja": "～から取り戻す、抽出する",
+      "example": "I retrieved my enchanted gear from the item frame.",
+      "example_ja": "アイテムフレームからエンチャントされた装備を取り出しました。",
+      "ipa": "/aɪ rɪˈtriːvd maɪ ɪnˈtʃɑntɪd ɡɪɹ frəm ðə ˈaɪtəm ˈfreɪm/",
+      "linking": [
+        "from the：from は弱形 /frəm/ フラム、the も弱形 /ðə/ ザ"
+      ],
+      "kana": "アイ リトリーヴド マイ インチャンティド ギア フラム ザ アイテム フレイム"
+    },
+    {
+      "idiom": "retrieve a backup",
+      "ja": "バックアップを復元する",
+      "example": "We retrieved a backup world to undo the griefing.",
+      "example_ja": "グリーフの被害を元に戻すために、バックアップワールドを復元しました。",
+      "ipa": "/wiː rɪˈtriːvd ə ˈbækʌp ˈwɝld tə ʌnˈduː ðə ˈɡrifiŋ/",
+      "linking": [
+        "a：弱形 /ə/ に弱化 ア",
+        "to：弱形 /tə/ タ"
+      ],
+      "kana": "ウィー リトリーヴド ア バックアップ ワールド タ アンドゥー ザ グリーフィング"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "retrieves",
+      "ipa": "/rɪˈtriːvz/",
+      "examples": [
+        {
+          "en": "He retrieves his tools from the crafting table every day.",
+          "ja": "彼は毎日、作業台からツールを取り出します。",
+          "ipa": "/hi rɪˈtriːvz hɪz tulz frəm ðə ˈkræftɪŋ ˈteɪbəl ˈɛvri ˈdeɪ/",
+          "linking": [
+            "from the - from は弱形 /frəm/ フラム、the も弱形 /ðə/ ザ",
+            "retrieves his - retrieves の末尾 /z/ が his の /h/ に続く"
+          ],
+          "kana": "ヒー リトリーヴズ ヒズ トゥールズ フラム ザ クラフティング テイブル エブリ デイ"
+        },
+        {
+          "en": "The admin retrieves the backup when the server crashes.",
+          "ja": "サーバーがクラッシュしたときに、管理者がバックアップを復元します。",
+          "ipa": "/ðə ˈædmɪn rɪˈtriːvz ðə ˈbækʌp wɛn ðə ˈsɝvər ˈkræʃɪz/",
+          "linking": [
+            "the admin, the backup, the server - the は弱形 /ðə/ ザ（複数回）",
+            "when the - when /wɛn/ と the /ðə/ が続く"
+          ],
+          "kana": "ザ アドミン リトリーヴズ ザ バックアップ ホェン ザ サーバー クラッシズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "retrieved",
+      "ipa": "/rɪˈtriːvd/",
+      "examples": [
+        {
+          "en": "I retrieved my diamonds from the lava pit after I died.",
+          "ja": "死んだ後、溶岩ピットからダイヤモンドを回収しました。",
+          "ipa": "/aɪ rɪˈtriːvd maɪ ˈdaɪməndz frəm ðə ˈlɑvə pɪt ˈæftər aɪ ˈdaɪd/",
+          "linking": [
+            "from the - from は弱形 /frəm/ フラム、the も弱形 /ðə/ ザ",
+            "pit after - pit の語末 /t/ は未開放、after に続く"
+          ],
+          "kana": "アイ リトリーヴド マイ ダイモンズ フラム ザ ラヴァ ピット アフター アイ ダイド"
+        },
+        {
+          "en": "The server retrieved all player data from the corrupted backup file successfully.",
+          "ja": "サーバーは破損したバックアップファイルからすべてのプレイヤーデータを正常に復元しました。",
+          "ipa": "/ðə ˈsɝvər rɪˈtriːvd ɔl ˈpleɪər ˈdeɪtə frəm ðə kəˈrʌptɪd ˈbækʌp ˈfaɪl səkˈsɛsfəli/",
+          "linking": [
+            "the server, the corrupted - the は弱形 /ðə/ ザ（複数回）",
+            "from the - from /frəm/ と the /ðə/ はいずれも弱形"
+          ],
+          "kana": "ザ サーバー リトリーヴド オール プレイヤー データー フラム ザ コラプティド バックアップ ファイル サクセスフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "retrieved",
+      "ipa": "/rɪˈtriːvd/",
+      "examples": [
+        {
+          "en": "We have retrieved all the enchanted books from the fortress.",
+          "ja": "要塞からエンチャント本をすべて回収しました。",
+          "ipa": "/wi əv rɪˈtriːvd ɔl ðə ɪnˈtʃɑntɪd ˈbʊks frəm ðə ˈfɔɹtɪs/",
+          "linking": [
+            "have retrieved - have は弱形 /əv/ に弱化",
+            "the enchanted, the fortress - the は弱形 /ðə/ ザ（複数回）"
+          ],
+          "kana": "ウィ アヴ リトリーヴド オール ザ インチャンティド ブック フラム ザ フォーティス"
+        },
+        {
+          "en": "The data has been retrieved from the cloud storage successfully.",
+          "ja": "クラウドストレージからデータが正常に復元されました。",
+          "ipa": "/ðə ˈdeɪtə hæz bɪn rɪˈtriːvd frəm ðə ˈklaʊd ˈstɔɹɪdʒ səkˈsɛsfəli/",
+          "linking": [
+            "has been - has は /hæz/、been は /bɪn/",
+            "the data, the cloud - the は弱形 /ðə/ ザ（複数回）"
+          ],
+          "kana": "ザ データー ハズ ビン リトリーヴド フラム ザ クラウド ストレッジ サクセスフリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "retrieving",
+      "ipa": "/rɪˈtriːvɪŋ/",
+      "examples": [
+        {
+          "en": "I am retrieving the supplies from the chest before the raid starts.",
+          "ja": "レイド開始前に、チェストから補給品を取り出しています。",
+          "ipa": "/aɪ æm rɪˈtriːvɪŋ ðə səˈplaɪz frəm ðə tʃɛst bɪˈfɔɹ ðə ˈreɪd stɑrts/",
+          "linking": [
+            "the supplies, the chest, the raid - the は弱形 /ðə/ ザ（複数回）",
+            "before the - before /bɪˈfɔɹ/ と the /ðə/ が続く"
+          ],
+          "kana": "アイ アム リトリーヴィング ザ サプライズ フラム ザ チェスト ビフォア ザ レイド スターツ"
+        },
+        {
+          "en": "We are retrieving our lost inventory items before leaving the nether.",
+          "ja": "ネザーから出る前に、失ったインベントリアイテムを回収しています。",
+          "ipa": "/wi ɑɹ rɪˈtriːvɪŋ ˈaʊɹ ˈlɔst ɪnˈvɛntəri ˈaɪtəmz bɪˈfɔɹ ˈliːvɪŋ ðə ˈnɛðər/",
+          "linking": [
+            "are retrieving - are は弱形 /ɚ/ に弱化し、retrieving に続く",
+            "the nether - the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ アー リトリーヴィング アワー ロスト インベントリー アイテムズ ビフォア リービング ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has retrieved",
+      "ipa": "/həz rɪˈtriːvd/",
+      "examples": [
+        {
+          "en": "The player has retrieved all the resources from the spawn chest.",
+          "ja": "プレイヤーはスポーンチェストからすべてのリソースを回収しました。",
+          "ipa": "/ðə ˈpleɪər həz rɪˈtriːvd ɔl ðə rɪˈsɔɹsɪz frəm ðə ˈspoʊn tʃɛst/",
+          "linking": [
+            "the player, the spawn - the は弱形 /ðə/ ザ（複数回）",
+            "has retrieved - has は弱形 /həz/ ハズ、retrieved は過去分詞 /rɪˈtriːvd/"
+          ],
+          "kana": "ザ プレイヤー ハズ リトリーヴド オール ザ リソースィズ フラム ザ スポーン チェスト"
+        },
+        {
+          "en": "We have retrieved enough diamonds to make enchantment tables.",
+          "ja": "エンチャントテーブルを作るのに十分なダイヤモンドを回収しました。",
+          "ipa": "/wi həv rɪˈtriːvd ɪˈnʌf ˈdaɪməndz tə ˈmeɪk ɪnˈtʃɑntmənt ˈteɪbəlz/",
+          "linking": [
+            "have retrieved - have は弱形 /həv/ ハヴ、retrieved は過去分詞 /rɪˈtriːvd/",
+            "to make - to は機能語の弱形 /tə/ タ、make に続く"
+          ],
+          "kana": "ウィ ハヴ リトリーヴド イナフ ダイモンズ タ メイク インチャントメント テイブルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had retrieved",
+      "ipa": "/həd rɪˈtriːvd/",
+      "examples": [
+        {
+          "en": "By the time the admin arrived, the player had retrieved most of his lost equipment.",
+          "ja": "管理者が到着するまでに、プレイヤーはほとんどの失った装備を回収していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈædmɪn əˈraɪvd ðə ˈpleɪər həd rɪˈtriːvd ˈmoʊst əv hɪz ˈlɑst ɪˈkwɪpmənt/",
+          "linking": [
+            "by the time - by /baɪ/ と the /ðə/ が続く、time /taɪm/ の語末 /m/ は未開放",
+            "the admin, the player - the は弱形 /ðə/ ザ（複数回）",
+            "had retrieved - had は弱形 /həd/ ハド、retrieved は過去分詞 /rɪˈtriːvd/",
+            "most of - of は機能語の弱形 /əv/ に弱化"
+          ],
+          "kana": "バイ ザ タイ(m未開放) ザ アドミン アライブド ザ プレイヤー ハド リトリーヴド モースト アヴ ヒズ ロスト イクウィップメント"
+        },
+        {
+          "en": "The server had retrieved all backups before the system crashed.",
+          "ja": "システムがクラッシュする前に、サーバーはすべてのバックアップを復元していました。",
+          "ipa": "/ðə ˈsɝvər həd rɪˈtriːvd ɔl ˈbækʌps bɪˈfɔɹ ðə ˈsɪstəm ˈkræʃt/",
+          "linking": [
+            "the server, the system - the は弱形 /ðə/ ザ（複数回）",
+            "had retrieved - had は弱形 /həd/ ハド、retrieved は過去分詞 /rɪˈtriːvd/",
+            "before the - before /bɪˈfɔɹ/ と the /ðə/ が続く"
+          ],
+          "kana": "ザ サーバー ハド リトリーヴド オール バックアップス ビフォア ザ システム クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been retrieving",
+      "ipa": "/həz bɪn rɪˈtriːvɪŋ/",
+      "examples": [
+        {
+          "en": "I have been retrieving materials from the mining tunnel all morning.",
+          "ja": "朝からずっと、採掘坑道からマテリアルを回収しています。",
+          "ipa": "/aɪ həv bɪn rɪˈtriːvɪŋ məˈtɪɹiəlz frəm ðə ˈmaɪnɪŋ ˈtʌnəl ɔl ˈmɔɹnɪŋ/",
+          "linking": [
+            "have been - have は弱形 /həv/ ハヴ、been は弱形 /bɪn/ ビン",
+            "from the - from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ ビン リトリーヴィング マテリアルズ フラム ザ マイニング タネル オール モーニング"
+        },
+        {
+          "en": "The admin has been retrieving corrupted files from the server database for hours.",
+          "ja": "管理者は数時間、サーバーデータベースから破損したファイルを復元し続けています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn rɪˈtriːvɪŋ kəˈrʌptɪd ˈfaɪlz frəm ðə ˈsɝvər ˈdeɪtəbɛs fɚ ˈaʊɹz/",
+          "linking": [
+            "the admin, the server - the は弱形 /ðə/ ザ（複数回）",
+            "has been - has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン",
+            "from the - from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ アドミン ハズ ビン リトリーヴィング コラプティド ファイルズ フラム ザ サーバー データベース フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will retrieve",
+      "ipa": "/wɪl rɪˈtriːv/",
+      "examples": [
+        {
+          "en": "I'll retrieve the materials from the mine tomorrow.",
+          "ja": "明日、鉱山からマテリアルを取り出します。",
+          "ipa": "/aɪl rɪˈtriːv ðə məˈtɪɹiəlz frəm ðə maɪn tuˈmɑɹoʊ/",
+          "linking": [
+            "I'll: I will が縮約 /aɪl/ アイル",
+            "from the, the materials, the mine - the は弱形 /ðə/ ザ（複数回）、from は弱形 /frəm/ フラム"
+          ],
+          "kana": "アイル リトリーヴ ザ マテリアルズ フラム ザ マイン トゥモーロー"
+        },
+        {
+          "en": "We'll retrieve the backup if the server crashes.",
+          "ja": "サーバーがクラッシュしたら、バックアップを復元します。",
+          "ipa": "/wil rɪˈtriːv ðə ˈbækʌp ɪf ðə ˈsɝvər ˈkræʃɪz/",
+          "linking": [
+            "We'll: We will が縮約 /wil/ ウィル",
+            "the backup, the server - the は弱形 /ðə/ ザ（複数回）"
+          ],
+          "kana": "ウィル リトリーヴ ザ バックアップ イフ ザ サーバー クラッシズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + 現在分詞）",
+      "text": "will be retrieving",
+      "ipa": "/wɪl bi rɪˈtriːvɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be retrieving supplies from the chest when you arrive.",
+          "ja": "あなたが到着する時、チェストから補給品を取り出しているところです。",
+          "ipa": "/aɪl bi rɪˈtriːvɪŋ səˈplaɪz frəm ðə tʃɛst wɛn juː əˈraɪv/",
+          "linking": [
+            "I'll: I will が縮約 /aɪl/ アイル",
+            "be: 弱形 /bi/ に弱化",
+            "from the, the chest - from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル ビ リトリーヴィング サプライズ フラム ザ チェスト ホェン ユー アライヴ"
+        },
+        {
+          "en": "The admin will be retrieving server data all night.",
+          "ja": "管理者は一晩中、サーバーデータを復元し続けるでしょう。",
+          "ipa": "/ðə ˈædmɪn wɪl bi rɪˈtriːvɪŋ ˈsɝvər ˈdeɪtə ɔl naɪt/",
+          "linking": [
+            "the admin, the server - the は弱形 /ðə/ ザ（複数回）",
+            "will be - will /wɪl/ と be の弱形 /bi/ が続く [wɪl bi]"
+          ],
+          "kana": "ザ アドミン ウィル ビ リトリーヴィング サーバー データ オール ナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have retrieved",
+      "ipa": "/wɪl həv rɪˈtriːvd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I'll have retrieved all the diamonds from the pit.",
+          "ja": "明日までに、ピットからすべてのダイヤモンドを取り出しているでしょう。",
+          "ipa": "/baɪ tuˈmɑɹoʊ aɪl əv rɪˈtriːvd ɔl ðə ˈdaɪməndz frəm ðə pɪt/",
+          "linking": [
+            "I'll have: I will have が縮約 /aɪl əv/ アイル アヴ",
+            "from the, the diamonds - from は弱形 /frəm/ フラム、the は弱形 /ðə/ ザ（複数回）"
+          ],
+          "kana": "バイ トゥモーロー アイル アヴ リトリーヴド オール ザ ダイモンズ フラム ザ ピット"
+        },
+        {
+          "en": "We'll have retrieved enough wood by the time the storm ends.",
+          "ja": "嵐が終わるまでに、十分な木材を取り出しているでしょう。",
+          "ipa": "/wil əv rɪˈtriːvd ɪˈnʌf ˈwʊd baɪ ðə ˈtaɪm ðə ˈstɔɹm ɛndz/",
+          "linking": [
+            "will have - will /wil/ と have の弱形 /əv/ が続く [wil əv]",
+            "by the time, the storm - the は弱形 /ðə/ ザ（複数回）"
+          ],
+          "kana": "ウィル アヴ リトリーヴド イナフ ウッド バイ ザ タイム ザ ストーム エンズ"
+        }
+      ]
+    }
+  ]
+}

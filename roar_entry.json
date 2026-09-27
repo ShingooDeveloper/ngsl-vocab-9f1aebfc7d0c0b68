@@ -303,6 +303,102 @@
           "kana": "ビフォー ザ レイド スターティッド ザ モブズ ハドビンロアーリング イン ザ ダークネス"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has roared",
+      "ipa": "/həz rɔrd/",
+      "examples": [
+        {
+          "en": "The dragon has roared multiple times during the entire battle.",
+          "ja": "ドラゴンは戦闘全体で何度も吠えている。",
+          "ipa": "/ðə ˈdɹæɡənhəz rɔrd ˈmʌltɪpl taɪmz ˈdʊrɪŋ ðə ɪnˈtaɪr ˈbætəl/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "dragon の語末 /n/ が has の母音 /ə/ に連結；has が弱形 /həz/ に弱化 [ˈdɹæɡənhəz] ドラゴンハズ",
+            "has の語末 /z/ が roared の母音 /ɔ/ に連結 [həz rɔrd] ハズロアード",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ"
+          ],
+          "kana": "ザ ドラゴンハズロアード マルティポル タイムズ ドゥーリング ザ インタイアー バットル"
+        },
+        {
+          "en": "They have roared at us throughout the entire raid without stopping.",
+          "ja": "彼らは襲撃全体を通して私たちに吠え続けている。",
+          "ipa": "/ðeɪ həv rɔrd æt əs θɹuːˈaʊt ðə ɪnˈtaɪr reɪd wɪˈθaʊt ˈstɑpɪŋ/",
+          "linking": [
+            "have が弱形 /həv/ に弱化 [həv] ハヴ",
+            "have の語末 /v/ が roared の母音 /ɔ/ に連結 [həv rɔrd] ハヴロアード",
+            "at が弱形 /ət/ に弱化；us が弱形 /əs/ に弱化 [ət əs] アタス",
+            "the が弱形 /ðə/ に弱化；without の語末 /t/ が stopping の母音 /s/ に挟まれてフラップ化なし(子音+子音) [ðə] ザ [wɪˈðaʊt ˈstɑpɪŋ] ウィザウト スタッピング"
+          ],
+          "kana": "ザイ ハヴロアード アタス スルーアウト ザ インタイアー レイド ウィザウト スタッピング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had roared",
+      "ipa": "/həd rɔrd/",
+      "examples": [
+        {
+          "en": "The Ender Dragon had roared before we even entered the End dimension.",
+          "ja": "エンダードラゴンは私たちがエンドに入る前に吠えていた。",
+          "ipa": "/ðə ˈɛndə ˈdɹæɡənhəd rɔrd bɪˈfɔr wi ˈivən ˈɛntərd ðə ɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "Dragon の語末 /n/ が had の母音 /ə/ に連結；had が弱形 /həd/ に弱化 [ˈdɹæɡənhəd] ドラゴンハド",
+            "had の語末 /d/ が roared の母音 /ɔ/ に連結 [həd rɔrd] ハドロアード",
+            "we が弱形 /wi/ に弱化 [wi] ウィ"
+          ],
+          "kana": "ザ エンダー ドラゴンハドロアード ビフォー ウィ イーブン エンタード ザ エンド ディメンション"
+        },
+        {
+          "en": "Once the creature had roared, all the players knew something terrible was coming.",
+          "ja": "その生き物が吠えた瞬間、すべてのプレイヤーは何か恐ろしいことが起こることを知った。",
+          "ipa": "/wʌns ðə ˈkritʃəhəd rɔrd ɔl ðə ˈpleɪəz njuː ˈsʌmθɪŋ ˈtɛrəbəl wəz ˈkʌmɪŋ/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "creature の語末 /ə/ が had の母音 /ə/ に連結；had が弱形 /həd/ に弱化 [ˈkritʃəhəd] クリーチャーハド",
+            "had の語末 /d/ が roared の母音 /ɔ/ に連結 [həd rɔrd] ハドロアード",
+            "the が弱形 /ðə/ に弱化 [ðə] ザ"
+          ],
+          "kana": "ワンス ザ クリーチャーハドロアード オール ザ プレイアーズ ニュー サムシング テラブル ワズ カミング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been roaring",
+      "ipa": "/həz bɪn rɔrɪŋ/",
+      "examples": [
+        {
+          "en": "The Wither has been roaring loudly for the past minute without pause.",
+          "ja": "ウィザーは過去1分間ずっと大きく吠え続けている。",
+          "ipa": "/ðə ˈwɪðəhəz bɪn rɔrɪŋ ˈlaʊdli fɚ ðə pæst ˈmɪnɪt wɪˈðaʊt pɔz/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "Wither の語末 /ə/ が has の母音 /ə/ に連結；has が弱形 /həz/ に弱化 [ˈwɪðəhəz] ウィザーハズ",
+            "has の語末 /z/ が been の母音 /ɪ/ に連結；been が弱形 /bɪn/ に弱化；been の語末 /n/ が roaring の母音 /ɔ/ に連結 [həz bɪn rɔrɪŋ] ハズビンロアーリング",
+            "for が弱形 /fɚ/ に弱化 [fɚ] ファー"
+          ],
+          "kana": "ザ ウィザーハズビンロアーリング ラウドリ ファー ザ パスト ミニット ウィザウト ポーズ"
+        },
+        {
+          "en": "The boss mob has been roaring constantly ever since we started the raid.",
+          "ja": "襲撃を始めて以来、ボスモブはずっと吠え続けている。",
+          "ipa": "/ðə bɑs mɑb həz bɪn rɔrɪŋ ˈkɑnstəntli ˈɛvə sɪns wi ˈstɑɹtɪd ðə reɪd/",
+          "linking": [
+            "the が弱形 /ðə/ に弱化 [ðə] ザ",
+            "mob の語末 /b/ が has の母音 /ə/ に連結 [mɑb həz] モブハズ",
+            "has の語末 /z/ が been の母音 /ɪ/ に連結；been が弱形 /bɪn/ に弱化；been の語末 /n/ が roaring の母音 /ɔ/ に連結 [həz bɪn rɔrɪŋ] ハズビンロアーリング",
+            "we が弱形 /wi/ に弱化 [wi] ウィ"
+          ],
+          "kana": "ザ バース モブハズビンロアーリング コンスタントリ エバー シンス ウィ スターティッド ザ レイド"
+        }
+      ]
     }
   ]
 }

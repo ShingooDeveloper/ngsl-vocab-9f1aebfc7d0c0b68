@@ -21,7 +21,7 @@
         "the は子音の前で弱形 /ðə/ [ザ]",
         "and は機能語で弱形 /ənd/ または /ən/ に弱化"
       ],
-      "kana": "アイ ミスアンダースット ザ クラフティング レシピ エン ウェイステッド マイ マテリアルズ"
+      "kana": "アイ ミスンダースット ザ クラフティング レシピ エン ウェイステッド マイ マテリアルズ"
     },
     {
       "en": "Players often misunderstand how mob spawning mechanics work.",
@@ -32,7 +32,7 @@
         "the（句内にある場合）は弱形 /ðə/",
         "misunderstand の子音末と how の /h/ が続く"
       ],
-      "kana": "プレイヤーズ オーフン ミスアンダースタンド ハウ モウブ スポーニング メカニクス ワーク"
+      "kana": "プレイヤーズ オーフン ミスンダースタンド ハウ モウブ スポーニング メカニクス ワーク"
     },
     {
       "en": "Don't misunderstand the difficulty settings!",
@@ -42,7 +42,7 @@
         "Don't の語末 /t/ は次の /m/（misunderstand）の前で未開放 [doʊn̚t]",
         "the は子音の前で弱形 /ðə/ [ザ]"
       ],
-      "kana": "ドウン'ト ミスアンダースタンド ザ ディフィカルティ セッティングズ"
+      "kana": "ドウン'ト ミスンダースタンド ザ ディフィカルティ セッティングズ"
     }
   ],
   "forms": [
@@ -61,7 +61,7 @@
             "and は弱形 /ən/ または /ənd/ に弱化",
             "to は機能語で弱形 /tə/ に弱化"
           ],
-          "kana": "ウィ ミスアンダースット ザ マップ エン ウェント タ ザ ロング コーディネイツ"
+          "kana": "ウィ ミスンダースット ザ マップ エン ウェント タ ザ ロング コーディネイツ"
         },
         {
           "en": "She misunderstood my building instructions and built it wrong.",
@@ -71,7 +71,7 @@
             "building の語末 /ŋ/ と instructions の初頭 /ɪ/ は子音+母音で連結するが、/ŋ/ は鼻音でもあり異なる音",
             "and は弱形に弱化"
           ],
-          "kana": "シー ミスアンダースット マイ ビルディング インストラクションズ エン ビルト イット ロング"
+          "kana": "シー ミスンダースット マイ ビルディング インストラクションズ エン ビルト イット ロング"
         }
       ]
     },
@@ -89,7 +89,7 @@
             "have は機能語で弱形 /əv/ に弱化する傾向",
             "the は子音の前で弱形 /ðə/"
           ],
-          "kana": "アイ ハヴ ミスアンダースット ザ エンチャントメント イフェクツ アン ウェポンズ"
+          "kana": "アイ ハヴ ミスンダースット ザ エンチャントメント イフェクツ アン ウェポンズ"
         },
         {
           "en": "The coordinates had been misunderstood by the entire team.",
@@ -100,7 +100,35 @@
             "had の語末 /d/ は次の /b/ の前で未開放 [hæd̚]",
             "entire の初頭は /ɪ/ で、by との境界は明確"
           ],
-          "kana": "ザ コーディネイツ ハッド ビン ミスアンダースット バイ ザ エンタイアー ティーム"
+          "kana": "ザ コーディネイツ ハッド ビン ミスンダースット バイ ザ エンタイアー ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was misunderstanding",
+      "ipa": "/wəz ˌmɪsənˈdɝstændɪŋ/",
+      "examples": [
+        {
+          "en": "I was misunderstanding the enchantment mechanics.",
+          "ja": "エンチャントメカニクスを誤解していた。",
+          "ipa": "/aɪ wəz ˌmɪsənˈdɝstændɪŋ ðə ɛnˈtʃɑntmənt məˈkænɪks/",
+          "linking": [
+            "was は弱形 /wəz/ に弱化",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "アイ ワズ ミスンダースタンディング ザ エンチャントメント メカニクス"
+        },
+        {
+          "en": "We were misunderstanding how the crafting system works.",
+          "ja": "私たちはクラフトシステムの仕組みを誤解していた。",
+          "ipa": "/wi wər ˌmɪsənˈdɝstændɪŋ ˈhaʊ ðə ˈkræftɪŋ ˈsɪstəm ˈwɝks/",
+          "linking": [
+            "were は子音の後で弱形 /wər/ [ワー]、または /wɚ/",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ウィ ワー ミスンダースタンディング ハウ ザ クラフティング システム ワークス"
         }
       ]
     },
@@ -118,7 +146,7 @@
             "the は弱形 /ðə/ [ザ]",
             "to は機能語で弱形 /tə/ に弱化"
           ],
-          "kana": "ミスアンダースタンディング ザ レッドストーン ロジック コーズド ザ マシーン タ フェイル"
+          "kana": "ミスンダースタンディング ザ レッドストーン ロジック コーズド ザ マシーン タ フェイル"
         },
         {
           "en": "We are misunderstanding each other about the server rules.",
@@ -131,7 +159,35 @@
             "the は弱形 /ðə/",
             "server の語末 /r/ と rules の /r/ は両方とも rhotic"
           ],
-          "kana": "ウィ アー ミスアンダースタンディング イーチ アダー ア バウト ザ サーバー ルールズ"
+          "kana": "ウィ アー ミスンダースタンディング イーチ アダー ア バウト ザ サーバー ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is misunderstanding",
+      "ipa": "/ɪz ˌmɪsənˈdɝstændɪŋ/",
+      "examples": [
+        {
+          "en": "I am misunderstanding the damage reduction formula.",
+          "ja": "ダメージ軽減式を誤解している。",
+          "ipa": "/aɪ əm ˌmɪsənˈdɝstændɪŋ ðə ˈdæmɪdʒ rɪˈdʌkʃən ˈfɔrmjələ/",
+          "linking": [
+            "am は機能語で弱形 /əm/ に弱化",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "アイ アム ミスンダースタンディング ザ ダメッジ リダクション フォーミュラ"
+        },
+        {
+          "en": "They are misunderstanding the mob behavior patterns.",
+          "ja": "彼らはモブの行動パターンを誤解している。",
+          "ipa": "/ðeɪ ɑr ˌmɪsənˈdɝstændɪŋ ðə ˈmoʊb bɪˈheɪvjər ˈpætərnz/",
+          "linking": [
+            "are は弱形 /ɑr/ または /ɚ/ に弱化",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ゼイ アー ミスンダースタンディング ザ モウブ ビヘイビア パターンズ"
         }
       ]
     },
@@ -148,7 +204,7 @@
           "linking": [
             "He の /i/ と misunderstands の /ɪ/ は元音が異なるが、語境界で明確"
           ],
-          "kana": "ヒー ミスアンダースタンズ ザ ゲイム メカニクス エブリ タイム"
+          "kana": "ヒー ミスンダースタンズ ザ ゲイム メカニクス エブリ タイム"
         },
         {
           "en": "This player misunderstands basic survival strategies.",
@@ -157,7 +213,7 @@
           "linking": [
             "misunderstands の /z/ と basic の /b/ は子音+子音で連結なし"
           ],
-          "kana": "ディス プレイヤー ミスアンダースタンズ ベイシック サーヴァイバル ストラテジーズ"
+          "kana": "ディス プレイヤー ミスンダースタンズ ベイシック サーヴァイバル ストラテジーズ"
         }
       ]
     },
@@ -176,7 +232,7 @@
             "the は子音の前で弱形 /ðə/",
             "entire の初頭 /ɛ/ と the の語末の連結は明確"
           ],
-          "kana": "アイ ハヴ ミスアンダースット ザ レッドストーン リピーター ディレイ ディス エンタイアー タイム"
+          "kana": "アイ ハヴ ミスンダースット ザ レッドストーン リピーター ディレイ ディス エンタイアー タイム"
         },
         {
           "en": "We have misunderstood how enchantment levels affect damage.",
@@ -187,7 +243,7 @@
             "levels の語末 /z/ が affect の初頭 /ə/ に連結 [ˈlɛvəlz əˈfɛkt]",
             "how の /aʊ/ は独立した元音"
           ],
-          "kana": "ウィ ハヴ ミスアンダースット ハウ エンチャントメント レベルズ アフェクト ダメージ"
+          "kana": "ウィ ハヴ ミスンダースット ハウ エンチャントメント レベルズ アフェクト ダメージ"
         }
       ]
     },
@@ -206,7 +262,7 @@
             "the は弱形 /ðə/",
             "had は弱形 /həd/ に弱化、次の /m/ の前で語末 /d/ は未開放 [hæd̚]"
           ],
-          "kana": "バイ ザ タイム ウィ ファウンド ザ ストロングホウルド ウィ ハッド ミスアンダースット ザ ポータル フレイム リクワイアメンツ"
+          "kana": "バイ ザ タイム ウィ ファウンド ザ ストロングホウルド ウィ ハッド ミスンダースット ザ ポータル フレイム リクワイアメンツ"
         },
         {
           "en": "She realized she had misunderstood the coordinates before mining down to the ore.",
@@ -218,7 +274,37 @@
             "the は弱形 /ðə/",
             "to は機能語で弱形 /tə/"
           ],
-          "kana": "シー リアライズド シー ハッド ミスアンダースット ザ コーディネイツ ビフォア マイニング ダウン タ ザ オア"
+          "kana": "シー リアライズド シー ハッド ミスンダースット ザ コーディネイツ ビフォア マイニング ダウン タ ザ オア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been misunderstanding",
+      "ipa": "/həd bɪn ˌmɪsənˈdɝstændɪŋ/",
+      "examples": [
+        {
+          "en": "I had been misunderstanding the game mechanics all along.",
+          "ja": "ずっとゲームメカニクスを誤解していた。",
+          "ipa": "/aɪ həd bɪn ˌmɪsənˈdɝstændɪŋ ðə ˈɡeɪm məˈkænɪks ɔl əˈlɔŋ/",
+          "linking": [
+            "had は弱形 /həd/ に弱化",
+            "had の語末 /d/ は次の /b/ の前で未開放 [həd̚]",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "アイ ハッド ビン ミスンダースタンディング ザ ゲイム メカニクス オール アロング"
+        },
+        {
+          "en": "They had been misunderstanding the difficulty settings the whole time.",
+          "ja": "彼らは難易度設定を終始誤解していた。",
+          "ipa": "/ðeɪ həd bɪn ˌmɪsənˈdɝstændɪŋ ðə ˈdɪfɪkəlti ˈsɛtɪŋz ðə ˈhoʊl ˈtaɪm/",
+          "linking": [
+            "had は弱形 /həd/ に弱化",
+            "had の語末 /d/ は次の /b/ の前で未開放 [həd̚]",
+            "the は子音の前で弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ゼイ ハッド ビン ミスンダースタンディング ザ ディフィカルティ セッティングズ ザ ホウル タイム"
         }
       ]
     },
@@ -237,7 +323,7 @@
             "been は機能語で弱形 /bɪn/、次の /m/ に続く",
             "the は弱形 /ðə/"
           ],
-          "kana": "アイ ハヴ ビン ミスアンダースタンディング ハウ ザ モウブ スポーニング アルゴリザム ワークス"
+          "kana": "アイ ハヴ ビン ミスンダースタンディング ハウ ザ モウブ スポーニング アルゴリザム ワークス"
         },
         {
           "en": "Players have been misunderstanding the nether fortress coordinate system all along.",
@@ -249,7 +335,7 @@
             "the は弱形 /ðə/",
             "all の語末 /l/ と along の初頭 /ə/ は子音+母音で連結 [ɔːl əˈlɔŋ]"
           ],
-          "kana": "プレイヤーズ ハヴ ビン ミスアンダースタンディング ザ ネザー フォートレス コーディネイト システム オール アロング"
+          "kana": "プレイヤーズ ハヴ ビン ミスンダースタンディング ザ ネザー フォートレス コーディネイト システム オール アロング"
         }
       ]
     },
@@ -269,18 +355,18 @@
             "the は子音の前で弱形 /ðə/ [ザ]",
             "and は弱形 /ən/ に弱化"
           ],
-          "kana": "アイル ミスアンダースタンド ザ ネザー コーディネイツ エン エンド アップ イン ザ ロング ディメンション"
+          "kana": "アイル ミスンダースタンド ザ ネザー コーディネイツ エン エンド アップ イン ザ ロング ディメンション"
         },
         {
           "en": "They will misunderstand the difficulty settings without proper explanation.",
           "ja": "彼らは適切な説明なしに、難易度設定を誤解するだろう。",
-          "ipa": "/ðeɪ wɪl ˌmɪsənˈdɝstænd ðə ˈdɪfɪkəlti ˈsɛtɪŋz wɪðˈaʊt ˈproʊpər ɪkˈsplæneɪʃən/",
+          "ipa": "/ðeɪ wɪl ˌmɪsənˈdɝstænd ðə ˈdɪfɪkəlti ˈsɛtɪŋz wɪðˈaʊt ˈproʊpər ˌɛkspləˈneɪʃən/",
           "linking": [
             "will は機能語で弱形傾向。次の子音の前で /wəl/ [ウル] または /wɪl/ に軽く発音される",
             "the は子音の前で弱形 /ðə/ [ザ]",
             "without の /t/ と proper の /p/ は子音+子音で連結なし"
           ],
-          "kana": "ザェイ ウィル ミスアンダースタンド ザ ディフィカルティ セッティングズ ウィザウト プロパー イクスプラネイション"
+          "kana": "ザェイ ウィル ミスンダースタンド ザ ディフィカルティ セッティングズ ウィザウト プロパー エクスプレネイション"
         }
       ]
     },
@@ -299,7 +385,7 @@
             "have は機能語で弱形 /ˈhæv/ → /əv/ または /ə/ [ハヴ] または [ア]",
             "the は子音の前で弱形 /ðə/ [ザ]"
           ],
-          "kana": "バイ タモロウ アイ ウィル ハヴ ミスアンダースット ザ レッドストーン ロジック カムプリートリー"
+          "kana": "バイ タモロウ アイ ウィル ハヴ ミスンダースット ザ レッドストーン ロジック カムプリートリー"
         },
         {
           "en": "She will have misunderstood the meeting point by the time she arrives at the location.",
@@ -310,7 +396,7 @@
             "have は弱形 /əv/ または /ə/ に弱化",
             "the は弱形 /ðə/ [ザ]"
           ],
-          "kana": "シー ウィル ハヴ ミスアンダースット ザ ミーティング ポイント バイ ザ タイム シー ア ライブズ エット ザ ロウ ケイション"
+          "kana": "シー ウィル ハヴ ミスンダースット ザ ミーティング ポイント バイ ザ タイム シー ア ライズ エット ザ ロウ ケイション"
         }
       ]
     }
@@ -326,7 +412,7 @@
         "Don't の語末 /t/ は次の /m/ の前で未開放 [doʊn̚t]",
         "my の /aɪ/ と redstone の /ɹ/ は子音で始まるため連結なし"
       ],
-      "kana": "ドウン'ト ミスアンダースタンド マイ レッドストーン ディザイン イツ モア イフィシェント ザン イット ルックス"
+      "kana": "ドウン'ト ミスンダースタンド マイ レッドストーン ディザイン イツ モア イフィシェント ザン イット ルックス"
     }
   ],
   "tags": [

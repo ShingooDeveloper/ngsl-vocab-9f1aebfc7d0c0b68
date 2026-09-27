@@ -263,14 +263,14 @@
         {
           "en": "The new feature was addicting players to exploring deep caves all night.",
           "ja": "その新機能はプレイヤーを一晩中深い洞窟の探検に中毒にしていた。",
-          "ipa": "/ðə ˈnu ˈfitʃər wəz əˈdɪktɪŋ ˈpleɪərz tə ɪkˌsplɔˈrɪŋ ˈdip ˈkeɪvz ɔl ˈnaɪt/",
+          "ipa": "/ðə ˈnu ˈfitʃər wəz əˈdɪktɪŋ ˈpleɪərz tə ɪkˈsplɔrɪŋ ˈdip ˈkeɪvz ɔl ˈnaɪt/",
           "linking": [
             "The は定冠詞で弱形 /ðə/ ザ",
             "feature was: r-linking で feature の末尾 /ər/ が was に繋がる [ˈfitʃər wəz] フィーチャー ワズ",
             "was addicting: /z/ が addicting の初頭 /ə/ に連結 [wəz əˈdɪktɪŋ] ワズ アディクティング",
             "to は機能語で弱形 /tə/ タ"
           ],
-          "kana": "ザ ニュー フィーチャー ワズ アディクティング プレイアーズ タ イクスプロアリング ディープ ケイブズ オール ナイト"
+          "kana": "ザ ニュー フィーチャー ワズ アディクティング プレイアーズ タ イクスプロリング ディープ ケイブズ オール ナイト"
         },
         {
           "en": "We were addicting ourselves to building the most complex redstone computer.",
@@ -307,14 +307,194 @@
         {
           "en": "The mine shaft mechanics had been addicting everyone to digging deeper and deeper.",
           "ja": "鉱山シャフトのメカニクスは皆をより深く掘り続けることに中毒にしていた。",
-          "ipa": "/ðə ˈmaɪn ˈʃæft ˌmɛkænɪks həd bɪn əˈdɪktɪŋ ˈɛvriˌwʌn tə ˈdɪɡɪŋ ˈdipər ənd ˈdipər/",
+          "ipa": "/ðə ˈmaɪn ˈʃæft məˈkænɪks həd bɪn əˈdɪktɪŋ ˈɛvriˌwʌn tə ˈdɪɡɪŋ ˈdipər ənd ˈdipər/",
           "linking": [
             "The は定冠詞で弱形 /ðə/ ザ",
             "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く（未開放） [həd bɪn] ハド ビン",
             "been は弱形 /bɪn/ ビン、addicting の初頭 /ə/ に連結 [bɪn əˈdɪktɪŋ] ビン アディクティング",
             "to は機能語で弱形 /tə/ タ、digging の /d/ に未開放で続く"
           ],
-          "kana": "ザ マイン シャフト メカニックス ハド ビン アディクティング エブリワン タ ディギング ディーパー アン ディーパー"
+          "kana": "ザ マイン シャフト マカニックス ハド ビン アディクティング エブリワン タ ディギング ディーパー アン ディーパー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has addicted",
+      "ipa": "/həz əˈdɪktəd/",
+      "examples": [
+        {
+          "en": "This new update has addicted thousands of players to the new cave biome.",
+          "ja": "この新しいアップデートは何千ものプレイヤーを新しい洞窟バイオームに中毒にした。",
+          "ipa": "/ðɪs ˈnu ˈʌpdeɪt həz əˈdɪktəd ˈθaʊzəndz əv ˈpleɪərz tə ðə ˈnu ˈkeɪv ˈbaɪoʊm/",
+          "linking": [
+            "update has: /t/ が未開放で /h/ に接する。has は弱形 /həz/ [ˈʌpdeɪt həz] アップデイット ハズ",
+            "has addicted: 弱形 has /həz/ の末尾 /z/ が addicted の初頭 /ə/ に連結 [həz əˈdɪktəd] ハズ アディクティッド",
+            "addicted thousands: /d/ と /θ/ の子音同士は未開放で続く [əˈdɪktəd ˈθaʊzəndz] アディクティッド タウザンドズ"
+          ],
+          "kana": "ディス ニュー アップデイット ハズ アディクティッド タウザンドズ アヴ プレイアーズ タ ザ ニュー ケイヴ バイオーム"
+        },
+        {
+          "en": "She has addicted herself to collecting every type of ore.",
+          "ja": "彼女は自分自身をすべての鉱石を集めることに中毒にしてしまった。",
+          "ipa": "/ʃi həz əˈdɪktəd hərˈsɛlf tə kəˈlɛktɪŋ ˈɛvəri ˈtaɪp əv ˈɔr/",
+          "linking": [
+            "has addicted: 弱形 has /həz/ の末尾 /z/ が addicted の初頭 /ə/ に連結 [həz əˈdɪktəd] ハズ アディクティッド",
+            "addicted herself: /d/ が /h/ に接する。子音同士で未開放気味 [əˈdɪktəd hərˈsɛlf] アディクティッド ハーセルフ",
+            "to collecting: to の弱形 /tə/ が collecting の /k/ に接する [tə kəˈlɛktɪŋ] タ コレクティング"
+          ],
+          "kana": "シー ハズ アディクティッド ハーセルフ タ コレクティング エブリー タイプ アヴ オア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had addicted",
+      "ipa": "/həd əˈdɪktəd/",
+      "examples": [
+        {
+          "en": "Before the server shutdown, that feature had addicted everyone to endless mining.",
+          "ja": "サーバーがシャットダウンする前に、その機能は皆を無限採掘に中毒にしていた。",
+          "ipa": "/bɪˈfɔr ðə ˈsɜrvər ˈʃaʊtˌdaʊn ðæt ˈfitʃər həd əˈdɪktəd ˈɛvriˌwʌn tə ˈɛndləs ˈmaɪnɪŋ/",
+          "linking": [
+            "Before the: r-linking で before の末尾 /ər/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "had addicted: 弱形 had /həd/ の末尾 /d/ が addicted の初頭 /ə/ に連結 [həd əˈdɪktəd] ハド アディクティッド",
+            "to endless: to の弱形 /tə/ が endless の初頭 /ɛ/ に連結 [tə ˈɛndləs] タ エンドレス"
+          ],
+          "kana": "ビフォア ザ サーバー シャウトダウン ザット フィーチャー ハド アディクティッド エブリワン タ エンドレス マイニング"
+        },
+        {
+          "en": "He realized he had addicted himself to speedrunning that survival challenge.",
+          "ja": "彼はそのサバイバルチャレンジのスピードランに自分自身を中毒にしてしまったことに気づいた。",
+          "ipa": "/hi rɪˈælaɪzd hi həd əˈdɪktəd hɪmˈsɛlf tə ˈspiːdˌrʌnɪŋ ðæt sərˈvaɪvəl ˈtʃælɪndʒ/",
+          "linking": [
+            "had addicted: 弱形 had /həd/ の末尾 /d/ が addicted の初頭 /ə/ に連結 [həd əˈdɪktəd] ハド アディクティッド",
+            "addicted himself: /d/ が /h/ に接する。子音同士で未開放気味 [əˈdɪktəd hɪmˈsɛlf] アディクティッド ヒムセルフ",
+            "to speedrunning: to の弱形 /tə/ が speedrunning の /s/ に接する [tə ˈspiːdˌrʌnɪŋ] タ スピードランニング"
+          ],
+          "kana": "ヒー リアライズド ヒー ハド アディクティッド ヒムセルフ タ スピードランニング ザット サーヴァイヴァル チャレンジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been addicting",
+      "ipa": "/həz bɪn əˈdɪktɪŋ/",
+      "examples": [
+        {
+          "en": "The new update has been addicting players to deep cave exploration for the past month.",
+          "ja": "新しいアップデートはこの1ヶ月間、プレイヤーを深い洞窟探索に中毒にしてきた。",
+          "ipa": "/ðə ˈnu ˈʌpdeɪt həz bɪn əˈdɪktɪŋ ˈpleɪərz tə ˈdip ˈkeɪv ɛksˌplɔˈreɪʃən fər ðə ˈpæst ˈmʌnθ/",
+          "linking": [
+            "has been: 弱形 has /həz/ の末尾 /z/ と been /bɪn/ は子音同士で分離気味 [həz bɪn] ハズ ビン",
+            "been addicting: 弱形 been /bɪn/ の末尾 /n/ が addicting の初頭 /ə/ に連結 [bɪn əˈdɪktɪŋ] ビン アディクティング",
+            "to deep: to の弱形 /tə/ が deep の /d/ に接する [tə ˈdip] タ ディープ"
+          ],
+          "kana": "ザ ニュー アップデイット ハズ ビン アディクティング プレイアーズ タ ディープ ケイヴ エクスプロレーション ファー ザ パースト マンス"
+        },
+        {
+          "en": "She has been addicting herself to mastering advanced redstone mechanics.",
+          "ja": "彼女は高度なレッドストーン機構をマスターすることに自分自身を中毒にしてきた。",
+          "ipa": "/ʃi həz bɪn əˈdɪktɪŋ hərˈsɛlf tə ˈmæstərɪŋ ədˈvænsɪd ˈrɛdˌstoʊn məˈkænɪks/",
+          "linking": [
+            "has been: 弱形 has /həz/ の末尾 /z/ と been /bɪn/ は子音同士で分離気味 [həz bɪn] ハズ ビン",
+            "been addicting: 弱形 been /bɪn/ の末尾 /n/ が addicting の初頭 /ə/ に連結 [bɪn əˈdɪktɪŋ] ビン アディクティング",
+            "to mastering: to の弱形 /tə/ が mastering の /m/ に連結 [tə ˈmæstərɪŋ] タ マスターリング"
+          ],
+          "kana": "シー ハズ ビン アディクティング ハーセルフ タ マスターリング アドヴァンスト レッドストーン マカニックス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will addict",
+      "ipa": "/wɪl əˈdɪkt/",
+      "examples": [
+        {
+          "en": "I'll addict myself to mining those diamonds forever.",
+          "ja": "私は永遠にあのダイヤモンドの採掘に自分自身を中毒にするだろう。",
+          "ipa": "/aɪl əˈdɪkt maɪˈsɛlf tə ˈmaɪnɪŋ ðoʊz ˈdaɪəmɑndz ˈfɔrɛvər/",
+          "linking": [
+            "I'll addict: /l/ が addict の /ə/ に連結 [aɪl əˈdɪkt] アイル アディクト",
+            "addict myself: /t/ が /m/ に接する。子音同士で未開放 [əˈdɪkt maɪˈsɛlf] アディクト マイセルフ",
+            "to mining: to の弱形 /tə/ が mining の /m/ に連結 [tə ˈmaɪnɪŋ] タ マイニング"
+          ],
+          "kana": "アイル アディクト マイセルフ タ マイニング ゾーズ ダイアモンズ フォレバー"
+        },
+        {
+          "en": "This new update will addict millions to endless building challenges.",
+          "ja": "この新しいアップデートは何百万人を無限の建築チャレンジに中毒にするだろう。",
+          "ipa": "/ðɪs ˈnu ˈʌpdeɪt wɪl əˈdɪkt ˈmɪljənz tə ˈɛndləs ˈbɪldɪŋ ˈtʃælɪndʒɪz/",
+          "linking": [
+            "update will: /t/ が /w/ に接する。子音同士で未開放 [ˈʌpdeɪt wɪl] アップデイット ウィル",
+            "will addict: /l/ が addict の /ə/ に連結 [wɪl əˈdɪkt] ウィル アディクト",
+            "to endless: to の弱形 /tə/ が endless の /ɛ/ に連結 [tə ˈɛndləs] タ エンドレス"
+          ],
+          "kana": "ディス ニュー アップデイット ウィル アディクト ミリオンズ タ エンドレス ビルディング チャレンジーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be addicting",
+      "ipa": "/wɪl bi əˈdɪktɪŋ/",
+      "examples": [
+        {
+          "en": "The new redstone features will be addicting players to automation all month.",
+          "ja": "新しいレッドストーン機能はプレイヤーを一ヶ月中オートメーションに中毒にしているだろう。",
+          "ipa": "/ðə ˈnu ˈrɛdˌstoʊn ˈfitʃərz wɪl bi əˈdɪktɪŋ ˈpleɪərz tə ˌɔtəˈmeɪʃən ɔl ˈmʌnθ/",
+          "linking": [
+            "features will: /z/ が /w/ に接する。子音同士で分離気味 [ˈfitʃərz wɪl] フィーチャーズ ウィル",
+            "will be: /l/ が /b/ に接する。子音同士で /l/ は未開放 [wɪl bi] ウィル ビー",
+            "to automation: to の弱形 /tə/ が automation の /ɔ/ に連結 [tə ˌɔtəˈmeɪʃən] タ オートメーション"
+          ],
+          "kana": "ザ ニュー レッドストーン フィーチャーズ ウィル ビー アディクティング プレイアーズ タ オートメーション オール マンス"
+        },
+        {
+          "en": "You'll be addicting yourself to speedrunning that survival challenge.",
+          "ja": "あなたはそのサバイバルチャレンジのスピードランに自分自身を中毒にしているだろう。",
+          "ipa": "/juːl bi əˈdɪktɪŋ jɚˈsɛlf tə ˈspiːdˌrʌnɪŋ ðæt sərˈvaɪvəl ˈtʃælɪndʒ/",
+          "linking": [
+            "You'll be: /l/ が /b/ に接する。子音同士で /l/ は未開放 [juːl bi] ユール ビー",
+            "be addicting: /b/ の弱い音が addicting の /ə/ に連結気味 [bi əˈdɪktɪŋ] ビー アディクティング",
+            "to speedrunning: to の弱形 /tə/ が speedrunning の /s/ に連結 [tə ˈspiːdˌrʌnɪŋ] タ スピードランニング"
+          ],
+          "kana": "ユール ビー アディクティング ユアセルフ タ スピードランニング ザット サーヴァイヴァル チャレンジ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have addicted",
+      "ipa": "/wɪl həv əˈdɪktəd/",
+      "examples": [
+        {
+          "en": "By the time we finish, we will have addicted everyone to this new game mode.",
+          "ja": "私たちが終わるまでに、私たちはこの新しいゲームモードに皆を中毒にしているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃ wi wɪl həv əˈdɪktəd ˈɛvriwʌn tə ðɪs ˈnu ˈɡeɪm ˈmoʊd/",
+          "linking": [
+            "will have: /l/ が /h/ に接する。子音同士で /l/ は未開放 [wɪl həv] ウィル ハヴ",
+            "have addicted: have の弱形 /həv/ の語末 /v/ が addicted の /ə/ に連結 [həv əˈdɪktəd] ハヴ アディクティッド",
+            "addicted everyone: /d/ が everyone の /ɛ/ に連結 [əˈdɪktəd ˈɛvriwʌn] アディクティッド エブリワン"
+          ],
+          "kana": "バイ ザ タイム ウィ フィニッシュ ウィ ウィル ハヴ アディクティッド エブリワン タ ディス ニュー ゲイム モード"
+        },
+        {
+          "en": "She will have addicted herself to mining diamonds for weeks by next month.",
+          "ja": "彼女は来月までに数週間ダイヤモンド採掘に自分自身を中毒にしているだろう。",
+          "ipa": "/ʃi wɪl həv əˈdɪktəd hərˈsɛlf tə ˈmaɪnɪŋ ˈdaɪəmɑndz fər ˈwiks baɪ ˈnɛkst ˈmʌnθ/",
+          "linking": [
+            "will have: /l/ が /h/ に接する。子音同士で /l/ は未開放 [wɪl həv] ウィル ハヴ",
+            "have addicted: have の弱形 /həv/ の語末 /v/ が addicted の /ə/ に連結 [həv əˈdɪktəd] ハヴ アディクティッド",
+            "addicted herself: /d/ が /h/ に接する。子音同士で未開放気味 [əˈdɪktəd hərˈsɛlf] アディクティッド ハーセルフ"
+          ],
+          "kana": "シー ウィル ハヴ アディクティッド ハーセルフ タ マイニング ダイアモンズ ファー ウィークス バイ ネックスト マンス"
         }
       ]
     }

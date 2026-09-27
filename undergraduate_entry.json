@@ -1,14 +1,14 @@
 {
   "word": "undergraduate",
   "pos": "名詞",
-  "pos_all": "名詞",
+  "pos_all": "名詞・形容詞",
   "ipa_us": "/ˌʌndɚˈɡrædjuət/",
   "rank": 0,
   "level": "B2",
   "hi": "undergraduate",
   "meanings": [
     "【名詞】大学の学部課程に在籍する学生、学部生（a student attending an undergraduate program）",
-    "【名詞】学部課程の、学部生向けの（of or relating to undergraduate studies）"
+    "【形容詞】学部課程の、学部生向けの（relating to undergraduate studies）"
   ],
   "examples": [
     {
@@ -16,30 +16,25 @@
       "ja": "多くの初心者プレイヤーは最初、レッドストーン回路に苦労します。",
       "ipa": "/ˈmɛni ˌʌndɚˈɡrædjuət ˈpleɪɚz ˈstrʌɡəl wɪð ˈrɛdˌstoʊn ˈsɝkɪts æt ˈfɝst/",
       "linking": [
-        "players の /z/ が struggle の初頭 /str/ に続く（子音+子音）",
-        "with は弱形 /wɪð/ でしょ",
-        "at は弱形 /ət/ アット"
+        "at は弱形 /ət/"
       ],
-      "kana": "メニー アンダーグラジュエット プレイヤーズ ストラゴル ウィズ レッドストーン サーキッツ アット ファースト"
+      "kana": "メニー アンダーグラジュエット プレイヤーズ ストラグル ウィズ レッドストーン サーキッツ ア ファースト"
     },
     {
       "en": "As an undergraduate builder, I started with simple wooden structures.",
       "ja": "学部生ビルダーとして、私は単純な木の構造物から始めました。",
       "ipa": "/æz æn ˌʌndɚˈɡrædjuət ˈbɪldɚ aɪ ˈstɑɹtɪd wɪð ˈsɪmpəl ˈwʊdən ˈstrʌktʃɚz/",
       "linking": [
-        "an は弱形 /ən/ アン。undergraduate に続く",
-        "undergraduate の語末 /t/ が builder の初頭 /b/ に続く（子音+子音）",
-        "with は弱形 /wɪð/ ウィズ"
+        "an の弱形が undergraduate /ə/ に連結"
       ],
-      "kana": "アズ アン アンダーグラジュエット ビルダー アイ スターティッド ウィズ シンプル ウッデン ストラクチャーズ"
+      "kana": "アズ ァン アンダーグラジュエット ビルダー アイ スターティド ウィズ シンプル ウッデン ストラクチャーズ"
     },
     {
       "en": "Our undergraduate members learn survival basics before joining the advanced realm.",
       "ja": "私たちの学部生メンバーは高度なレルムに参加する前にサバイバルの基本を学びます。",
       "ipa": "/ˈaʊɚ ˌʌndɚˈɡrædjuət ˈmɛmbɚz ˈlɝn sɚˈvaɪvəl ˈbeɪsɪks bɪˈfɔr dʒɔɪnɪŋ ðə ədˈvænst ˈrɛlm/",
       "linking": [
-        "Our の /ɹ/ が undergraduate の初頭 /ə/ に連結",
-        "members の語末 /z/ が learn の初頭 /l/ に続く（子音+子音）",
+        "Our の /ɹ/ が undergraduate の /ə/ に連結",
         "the は弱形 /ðə/ ザ"
       ],
       "kana": "アワー アンダーグラジュエット メンバーズ ラーン サーバイバル ベイシクス ビフォー ジョイニング ザ アドヴァンスト レルム"
@@ -53,11 +48,40 @@
       "example_ja": "このアンダーグラウンドベースは、ベテランの建築と比べて初級レベルです。",
       "ipa": "/ðɪs ˌʌndɚˈɡraʊnd ˈbeɪs ɪz ˌʌndɚˈɡrædjuət ˈlevəl kəmˈpɛɹd tu ˈvɛtərən ˈbɪldz/",
       "linking": [
-        "This の /s/ が underground の初頭 /ə/ に連結",
-        "is は弱形 /ɪz/ イズ。undergraduate に続く",
-        "compared の語末 /d/ が to の初頭 /t/ に続く（子音+子音）"
+        "This の /s/ が underground /ʌ/ に連結",
+        "is の弱形が undergraduate に続く"
       ],
       "kana": "ディス アンダーグラウンド ベイス イズ アンダーグラジュエット レベル コンペアド トゥ ベテラン ビルズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "undergraduates",
+      "ipa": "/ˌʌndɚˈɡrædjuəts/",
+      "examples": [
+        {
+          "en": "All undergraduates start with basic tools and wooden pickaxes.",
+          "ja": "すべての初心者プレイヤーは基本的な道具と木のつるはしから始めます。",
+          "ipa": "/ɔl ˌʌndɚˈɡrædjuəts stɑɹt wɪð ˈbeɪsɪk ˈtulz ænd ˈwʊdən ˈpɪkˌæksɪz/",
+          "linking": [
+            "All の /l/ が undergraduates /ʌ/ に連結",
+            "and は弱形 /ən/ アン"
+          ],
+          "kana": "オール アンダーグラジュエッツ スタート ウィズ ベイシック トゥールズ アン ウッデン ピックアクシーズ"
+        },
+        {
+          "en": "Many undergraduates explored the massive cave system and found diamonds.",
+          "ja": "多くの初心者プレイヤーは大規模な洞窟システムを探索してダイヤモンドを見つけました。",
+          "ipa": "/ˈmɛni ˌʌndɚˈɡrædjuəts ɪkˈsplɔɹd ðə ˈmæsɪv ˈkeɪv ˈsɪstəm ænd faʊnd ˈdaɪmɑndz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "and は弱形 /ən/ アン"
+          ],
+          "kana": "メニー アンダーグラジュエッツ イクスプロアード ザ マッシヴ ケイブ システム アン ファウンド ダイモンズ"
+        }
+      ]
     }
   ],
   "tags": [

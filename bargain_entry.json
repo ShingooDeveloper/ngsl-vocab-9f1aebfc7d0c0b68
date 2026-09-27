@@ -311,6 +311,180 @@
           "kana": "ヒー ハド ビン バーガニング ホェン ザ ニュー アップデイト ダウンロウディッド オートマティカリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has bargained",
+      "ipa": "/həz ˈbɑɹɡɪnd/",
+      "examples": [
+        {
+          "en": "I have bargained with the librarian for mending books many times.",
+          "ja": "司書と修繕の本について何度も交渉したことがある。",
+          "ipa": "/aɪ həv ˈbɑɹɡɪnd wɪð ðə ˌlaɪˈbreɪriən fɚ ˈmɛndɪŋ ˈbʊks ˈmɛni ˈtaɪmz/",
+          "linking": [
+            "have bargained → have の弱形 /həv/ ハヴ、bargained の初頭子音 /b/ に子音+子音で続く",
+            "with the → with の語末 /ð/ が the の弱形 /ðə/ に連結 [wɪðə] ウィザ",
+            "for mending → 語末 /ɹ/ が mending の初頭 /m/ に続く（連結なし、子音+子音）"
+          ],
+          "kana": "アイ ハヴ バーギンド ウィザ ザ ライブレリアン ファー メンディング ブックス メニー タイムズ"
+        },
+        {
+          "en": "They have bargained successfully for enchanted diamond pickaxes.",
+          "ja": "彼らはエンチャント済みのダイヤピッケルについて成功裏に交渉した。",
+          "ipa": "/ðeɪ həv ˈbɑɹɡɪnd ˌsʌkˈsɛsfəli fɚ ɪnˈtʃæntɪd ˈdaɪəmənd ˈpɪkæksɪz/",
+          "linking": [
+            "have bargained → have の弱形 /həv/ ハヴ、bargained の初頭子音 /b/ に子音+子音で続く",
+            "bargained successfully → bargained の語末 /d/ が successfully の初頭 /s/ に続く（連結なし、子音+子音）",
+            "for enchanted → 語末 /ɹ/ が enchanted の初頭 /ɪ/ に連結 [fɔɹɪn] フォーリン"
+          ],
+          "kana": "ゼイ ハヴ バーギンド サクセスフリー フォーリンチャンティド ダイアモンド ピックアックスィズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had bargained",
+      "ipa": "/həd ˈbɑɹɡɪnd/",
+      "examples": [
+        {
+          "en": "We had bargained for better prices before the new update arrived.",
+          "ja": "新しいアップデートが到着する前に、より良い価格について交渉していた。",
+          "ipa": "/wi həd ˈbɑɹɡɪnd fɚ ˈbɛtər ˈpraɪsɪz bɪˈfɔr ðə ˈnjuː ˈʌpˌdeɪt əˈraɪvd/",
+          "linking": [
+            "had bargained → had の弱形 /həd/ ハド、bargained の初頭子音 /b/ に子音+子音で続く",
+            "for better → 語末 /ɹ/ が better の初頭 /b/ に続く（連結なし、子音+子音）",
+            "the new → the は弱形 /ðə/ ザ、new の初頭 /n/ に続く（連結なし）"
+          ],
+          "kana": "ウィ ハド バーギンド ファー ベター プライシズ ビフォア ザ ニュー アップデイト アライvド"
+        },
+        {
+          "en": "She had bargained with the merchant before I arrived at the village.",
+          "ja": "村に到着する前に、彼女は商人と交渉していた。",
+          "ipa": "/ʃi həd ˈbɑɹɡɪnd wɪð ðə ˈmɝtʃənt bɪˈfɔr aɪ əˈraɪvd æt ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "had bargained → had の弱形 /həd/ ハド、bargained の初頭子音 /b/ に子音+子音で続く",
+            "with the → with の語末 /ð/ が the の弱形 /ðə/ に連結 [wɪðə] ウィザ",
+            "at the → 語末 /t/ が the の弱形 /ðə/ に未開放で続く [æt̚ ðə] アット ザ"
+          ],
+          "kana": "シー ハド バーギンド ウィザ ザ マーチャント ビフォア アイ アライvド アット ザ ビリッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been bargaining",
+      "ipa": "/həz bɪn ˈbɑɹɡənɪŋ/",
+      "examples": [
+        {
+          "en": "I have been bargaining with the librarian for hours today.",
+          "ja": "今日は司書と数時間交渉し続けています。",
+          "ipa": "/aɪ həv bɪn ˈbɑɹɡənɪŋ wɪð ðə ˌlaɪˈbreɪriən fɚ ˈaʊɚz təˈdeɪ/",
+          "linking": [
+            "have been → have の弱形 /həv/ ハヴ、been の初頭子音 /b/ に子音+子音で続く。been も弱形 /bɪn/ ビン",
+            "with the → with の語末 /ð/ が the の弱形 /ðə/ に連結 [wɪðə] ウィザ",
+            "for hours → 語末 /ɹ/ が hours の初頭 /aʊ/ に続く（連結なし、子音+母音だが r が挟まるため特に強調されず）"
+          ],
+          "kana": "アイ ハヴ ビン バーガニング ウィザ ザ ライブレリアン ファー アワーズ トゥデイ"
+        },
+        {
+          "en": "They have been bargaining over the price of emeralds all morning.",
+          "ja": "彼らは朝からずっとエメラルドの価格について交渉し続けている。",
+          "ipa": "/ðeɪ həv bɪn ˈbɑɹɡənɪŋ ˈoʊvər ðə ˈpraɪs əv ˈɛməɹəldz ˈɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "have been → have の弱形 /həv/ ハヴ、been の初頭子音 /b/ に子音+子音で続く。been も弱形 /bɪn/ ビン",
+            "bargaining over → bargaining の語末 /ŋ/ が over の初頭 /o/ に続く（連結なし、鼻音+子音）",
+            "of emeralds → of は弱形 /əv/ アヴ、emeralds の初頭 /ɛ/ に連結 [əvɛ] アヴェ"
+          ],
+          "kana": "ゼイ ハヴ ビン バーガニング オウヴァー ザ プライス アヴェメラルズ オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will bargain",
+      "ipa": "/wɪl ˈbɑɹɡɪn/",
+      "examples": [
+        {
+          "en": "I'll bargain with the merchant for diamond tools.",
+          "ja": "ダイヤモンド道具について商人と交渉します。",
+          "ipa": "/aɪl ˈbɑɹɡɪn wɪð ðə ˈmɝtʃənt fɔr ˈdaɪəmənd ˈtuːlz/",
+          "linking": [
+            "will → I'll に縮約 /aɪl/",
+            "with the → with の語末 /ð/ が the の弱形 /ðə/ に連結 [wɪðə] ウィザ"
+          ],
+          "kana": "アイル バーギン ウィザ マーチャント フォー ダイアモンド ツールズ"
+        },
+        {
+          "en": "We'll bargain for better prices at the trading post tomorrow.",
+          "ja": "明日、取引所でより良い価格について交渉します。",
+          "ipa": "/wil ˈbɑɹɡɪn fɔr ˈbɛtər ˈpraɪsɪz æt ðə ˈtreɪdɪŋ ˈpoʊst təˈmɑroʊ/",
+          "linking": [
+            "will → we'll に縮約 /wil/",
+            "at the → 語末 /t/ が the の弱形 /ðə/ に未開放で続く [æt̚ ðə] アット ザ"
+          ],
+          "kana": "ウィル バーギン フォー ベター プライシズ アット ザ トレイディング ポウスト トゥモロウ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be bargaining",
+      "ipa": "/wɪl bi ˈbɑɹɡənɪŋ/",
+      "examples": [
+        {
+          "en": "She'll be bargaining with the librarian all afternoon.",
+          "ja": "彼女は午後中司書と交渉し続けるでしょう。",
+          "ipa": "/ʃil bi ˈbɑɹɡənɪŋ wɪð ðə ˌlaɪˈbreɪriən ˈɔl ˌæftərˈnun/",
+          "linking": [
+            "will → she'll に縮約 /ʃil/ シール",
+            "with the → with の語末 /ð/ が the の弱形 /ðə/ に連結 [wɪðə] ウィザ"
+          ],
+          "kana": "シール ビー バーガニング ウィザ ザ ライブレリアン オール アフターヌーン"
+        },
+        {
+          "en": "They'll be bargaining for emeralds when the server comes back online.",
+          "ja": "サーバーが復帰するとき、彼らはエメラルドについて交渉し続けるでしょう。",
+          "ipa": "/ðeɪl bi ˈbɑɹɡənɪŋ fɔr ˈɛməɹəldz wɛn ðə ˈsɝvər kəmz bæk ˈɑnˌlaɪn/",
+          "linking": [
+            "will → they'll に縮約 /ðeɪl/",
+            "for emeralds → 語末 /ɹ/ が emeralds の初頭 /ɛ/ に連結 [fɔɹɛ] フォーレ"
+          ],
+          "kana": "ゼイル ビー バーガニング フォーレメラルズ ウェン ザ サーバー カムズ バック オンライン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have bargained",
+      "ipa": "/wɪl əv ˈbɑɹɡɪnd/",
+      "examples": [
+        {
+          "en": "By sunset, we'll have bargained for all the supplies we need.",
+          "ja": "夕方までに、必要なすべての物資について交渉し終わっているでしょう。",
+          "ipa": "/baɪ ˈsʌnˌsɛt, wil əv ˈbɑɹɡɪnd fɔr ɔl ðə səˈplaɪz wi nid/",
+          "linking": [
+            "will → we'll に縮約 /wil/",
+            "have → 弱形 /əv/ アヴ、bargained の初頭 /b/ に子音+子音で続く"
+          ],
+          "kana": "バイ サンセット ウィル アヴ バーギンド フォー オール ザ サプライズ ウィ ニード"
+        },
+        {
+          "en": "She'll have bargained successfully by the time we return from mining.",
+          "ja": "採鉱から戻るまでに、彼女は成功裏に交渉し終わっているでしょう。",
+          "ipa": "/ʃil əv ˈbɑɹɡɪnd ˌsʌkˈsɛsfəli baɪ ðə ˈtaɪm wi rɪˈtɝn frəm ˈmaɪnɪŋ/",
+          "linking": [
+            "will → she'll に縮約 /ʃil/",
+            "have → 弱形 /əv/ アヴ"
+          ],
+          "kana": "シール アヴ バーギンド サクセスフリー バイ ザ タイム ウィ リターン フラム マイニング"
+        }
+      ]
     }
   ]
 }

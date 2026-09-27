@@ -40,7 +40,7 @@
       "ja": "その経験豊富なビルダーは、私のクリエイティブ建築への愛好心を育みました。",
       "ipa": "/ðæt ɪkˈspɪriənst ˈbɪldɚ ˈfɑstɚd maɪ lʌv əv kriˈeɪtɪv ˈbɪldɪŋ/",
       "linking": [
-        "that の末尾 /t/ が experienced の /ɪ/ に連結 [ðæt ɪ] ザッティ",
+        "that の末尾 /t/ が experienced の /ɪ/ に連結、フラップT [ðæɾ ɪ] ザッリ",
         "builder の末尾 /ɚ/ が fostered に連結しない（子音+子音で未開放）",
         "of は弱形 /əv/ [əv] アヴ",
         "creative の末尾 /v/ が building に連結しない（子音+子音）"
@@ -76,6 +76,129 @@
         "on は弱形 /ɑn/ または /ən/ [ən] オン"
       ],
       "kana": "ボーン ミール ファースターズ ラピド グロース イン ウィート アン クラップス オン ユァー ファーム"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "fosters",
+      "ipa": "/ˈfɑstərz/",
+      "examples": [
+        {
+          "en": "The server fosters an amazing experience for all players.",
+          "ja": "そのサーバーはすべてのプレイヤーに素晴らしい体験をもたらします。",
+          "ipa": "/ðə ˈsɜrvɚ ˈfɑstərz ən əˈmeɪzɪŋ ɪkˈspɪriəns fɚ ɔl ˈpleɪɚz/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "fosters の末尾 /z/ が an の /ə/ に連結 [ˈfɑstərz ən] ファースターズ エン",
+            "for は弱形 /fɚ/ [fɚ]"
+          ],
+          "kana": "ザ サーヴァー ファースターズ エン アメイジング イクスピアリエンス ファー オール プレイアーズ"
+        },
+        {
+          "en": "Protecting the realm fosters a sense of duty among members.",
+          "ja": "レルムを守ることはメンバー間に義務感を育みます。",
+          "ipa": "/prəˈtɛktɪŋ ðə ˈrɛlm ˈfɑstərz ə ˈsɛns əv ˈdjuti əˈmʌŋ ˈmɛmbɚz/",
+          "linking": [
+            "protecting の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "realm の末尾 /m/ が fosters に連結しない（子音+子音で未開放）",
+            "fosters の末尾 /z/ が a の /ə/ に連結 [ˈfɑstərz ə] ファースターズ ア"
+          ],
+          "kana": "プロテクティング ザ レルム ファースターズ ア センス アヴ デューティ アマング メンバーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "fostered",
+      "ipa": "/ˈfɑstɚd/",
+      "examples": [
+        {
+          "en": "My mentor fostered an interest in redstone mechanics.",
+          "ja": "私のメンターはレッドストーン機構への興味を育みました。",
+          "ipa": "/maɪ ˈmɛntɚ ˈfɑstɚd ən ˈɪntɚəst ɪn ˈrɛdˌstoʊn məˈkænɪks/",
+          "linking": [
+            "fostered の末尾 /d/ が an の /ən/ に連結 [ˈfɑstɚd ən] ファースタード エン",
+            "in は弱形 /ɪn/ [ɪn]"
+          ],
+          "kana": "マイ メンター ファースタード エン インテレスト イン レッドストーン ミカニクス"
+        },
+        {
+          "en": "The environment fostered a culture of cooperation.",
+          "ja": "その環境は協力の文化を育みました。",
+          "ipa": "/ðə ɪnˈvaɪɹənmənt ˈfɑstɚd ə ˈkʌltʃɚ əv ˌkoʊ.əpəˈreɪʃən/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "environment の末尾 /t/ が fostered に連結しない（子音+子音で未開放）",
+            "fostered の末尾 /d/ が a の /ə/ に連結 [ˈfɑstɚd ə] ファースタード ア",
+            "of は弱形 /əv/ [əv]"
+          ],
+          "kana": "ザ インヴァイランメント ファースタード ア カルチャー アヴ コウパレイション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "fostered",
+      "ipa": "/ˈfɑstɚd/",
+      "examples": [
+        {
+          "en": "A supportive community has fostered amazing player friendships.",
+          "ja": "サポーティヴなコミュニティは素晴らしいプレイヤー間の友情を育んでいます。",
+          "ipa": "/ə səˈpɔrtɪv kəˈmjuːnɪti hæz ˈfɑstɚd əˈmeɪzɪŋ ˈpleɪɚ ˈfrɛndʃɪps/",
+          "linking": [
+            "supportive の末尾 /v/ が community に連結しない（子音+子音）",
+            "fostered の末尾 /d/ が amazing の /ə/ に連結 [ˈfɑstɚd ə] ファースタード ア"
+          ],
+          "kana": "ア サポーティヴ コミュニティ ハズ ファースタード アメイジング プレイアー フレンドシップス"
+        },
+        {
+          "en": "Through their efforts, they had fostered an amazing network.",
+          "ja": "彼らの努力を通じて、彼らは素晴らしいネットワークを構築していました。",
+          "ipa": "/θru ðɛɚ ˈɛfɚts ðeɪ hæd ˈfɑstɚd ən əˈmeɪzɪŋ ˈnɛtwɜrk/",
+          "linking": [
+            "through は /θru/ [θruː] スルー",
+            "their の末尾 /ɚ/ が efforts の /ɛ/ に連結 [ðɛɹɛ] ザイエ",
+            "fostered の末尾 /d/ が an の /ən/ に連結 [ˈfɑstɚd ən] ファースタード エン"
+          ],
+          "kana": "スルー ザイアー エファーツ ザイ ハド ファースタード エン アメイジング ネットワーク"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "fostering",
+      "ipa": "/ˈfɑstɚɪŋ/",
+      "examples": [
+        {
+          "en": "Fostering cooperation among teammates strengthens group survival.",
+          "ja": "チームメイト間の協力を育むことはグループの生存を強化します。",
+          "ipa": "/ˈfɑstɚɪŋ ˌkoʊ.əpəˈreɪʃən əˈmʌŋ ˈtimˌmeɪts ˈstɹɛŋθənz ɡrup sɚˈvaɪvəl/",
+          "linking": [
+            "fostering の末尾 /ŋ/ が cooperation に連結しない（鼻音+子音で未開放）",
+            "cooperation の末尾 /n/ が among に連結しない（鼻音+子音で未開放）",
+            "teammates の末尾 /s/ が strengthens に連結しない（子音+子音）",
+            "group の末尾 /p/ が survival に連結しない（子音+子音）"
+          ],
+          "kana": "ファースタリング コウパレイション アマング ティームメイツ ストレンスンズ グループ サーヴァイヴァル"
+        },
+        {
+          "en": "Fostering an inclusive environment attracts talented builders.",
+          "ja": "包括的な環境を育むことは才能あるビルダーを引き付けます。",
+          "ipa": "/ˈfɑstɚɪŋ ən ɪnˈklusɪv ɪnˈvaɪɹənmənt əˈtræks ˈtælɪntɪd ˈbɪldɚz/",
+          "linking": [
+            "fostering の末尾 /ŋ/ が an に連結しない（鼻音+子音で未開放）",
+            "inclusive の末尾 /v/ が environment に連結しない（子音+子音）",
+            "talented の末尾 /d/ が builders に連結しない（子音+子音）"
+          ],
+          "kana": "ファースタリング エン インクルーシヴ インヴァイランメント アトラクツ タレンティッド ビルダーズ"
+        }
+      ]
     }
   ],
   "tags": [

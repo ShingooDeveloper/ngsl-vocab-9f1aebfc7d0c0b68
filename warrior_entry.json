@@ -61,5 +61,37 @@
       "kana": "ユー ニード ウォリアー スピリット トゥ サーバイブ アン ビルド イン ハードコア モード ウィザウト フィア"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "warriors",
+      "ipa": "/ˈwɔriərz/",
+      "examples": [
+        {
+          "en": "Warriors need tools and armor to fight the Ender Dragon.",
+          "ja": "戦士たちはエンダードラゴンと戦うために道具と防具が必要です。",
+          "ipa": "[ˈwɔriɚz niːd tulz ænd ˈɑɹmɚ tə faɪt ðə ˈɛndɚ ˈdɹæɡən]",
+          "linking": [
+            "tools and - tools の語末 /z/ が and に連結 [tulz ænd] ツールズ アンド",
+            "armor to - armor の語末 /ɚ/ が to の弱形 /ə/ に連結（r-linking）[ˈɑɹmɚ tə] アーマー タ",
+            "fight the - fight の語末 /t/ が子音に先行し未開放 [faɪt ðə] ファイト ザ"
+          ],
+          "kana": "ウォリアーズ ニード ツールズ アンド アーマー タ ファイト ザ エンダー ドラゴン"
+        },
+        {
+          "en": "These warriors protected the village from Creepers and other mobs.",
+          "ja": "これらの戦士たちはクリーパーと他のモブから村を保護しました。",
+          "ipa": "[ðiz ˈwɔriɚz prəˈtɛktɪd ðə ˈvɪlɪdʒ frəm ˈkriːpɚz ænd ˈʌðɚ moʊbz]",
+          "linking": [
+            "these warriors - these の語末 /z/ が warriors の /w/ に続く（z + w、子音+子音）[ðiz ˈwɔriɚz] ディーズ ウォリアーズ",
+            "village from - village の語末 /dʒ/ が from の /f/ に先行し未開放 [ˈvɪlɪdʒ frəm] ビレッジ フラム",
+            "and other - and の語末 /d/ が other の /ʌ/ に連結 [ænd ˈʌðɚ] アンド アザー"
+          ],
+          "kana": "ディーズ ウォリアーズ プロテクティッド ザ ビレッジ フラム クリーパーズ アンド アザー モブズ"
+        }
+      ]
+    }
+  ],
   "tags": ["Target 1900"]
 }

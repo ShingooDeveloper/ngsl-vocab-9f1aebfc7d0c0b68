@@ -2,84 +2,184 @@
   "word": "enroll",
   "pos": "動詞",
   "pos_all": "動詞",
-  "ipa_us": "/ɛnˈɹoʊl/",
+  "ipa_us": "/ɪnˈroʊl/",
   "rank": 0,
   "level": "B1",
-  "hi": "enroll(?:s|ed|ing)?",
+  "hi": "enroll(?:ing|ed|s)?",
   "meanings": [
-    "【動詞】(登録する・入学する) register or sign up for a course, program, school, or educational institution",
-    "【動詞】(会員になる・参加する) become a member of an organization, group, or community",
-    "【動詞】(記録する・登録する) officially record or register someone's name in a list or system"
+    "【動詞】（～に）登録する、加入する（ギルド・プログラム・団体等に）",
+    "【動詞】（学校・コース等に）入学する、学生として記録する",
+    "【動詞】（学生等を）公式に記帳する、名簿に登録する"
   ],
   "examples": [
     {
-      "en": "I want to enroll in the Redstone academy server this season.",
-      "ja": "このシーズンレッドストーン講座アカデミーサーバーに登録したいです。",
-      "ipa": "/aɪ wɑnt tə ɛnˈɹoʊl ɪn ðə ˈɹɛdˌstoʊn əˈkædəmi ˈsɝvɚ ðɪs ˈsiz.ən/",
+      "en": "I want to enroll in the mining guild.",
+      "ja": "採掘ギルドに登録したいです。",
+      "ipa": "/aɪ ˈwɑnt tə ɪnˈroʊl ɪn ðə ˈmaɪnɪŋ ɡɪld/",
       "linking": [
-        "want の末尾 /t/ が to の /t/ に未開放で続く [wɑn̚tə]。to は機能語で弱形 /tə/",
-        "to の弱形 /tə/ が enroll の初頭母音 /ɛ/ に連結 [tɛnˈɹoʊl]",
-        "the は冠詞で弱形 /ðə/。Redstone の /ɹ/ に連結 [ðə ˈɹɛd] ザ レッド",
-        "academy の末尾 /i/ と server の /s/ は子音+子音で連結なし"
+        "to が機能語で弱形 /tə/ に弱化、[tə] タ",
+        "enroll の語末 /l/ が in の母音 /ɪ/ に連結、[ɪnˈroʊlɪn] インロウリン",
+        "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ"
       ],
-      "kana": "アイ ウォント タ エンロウル イン ザ レッドストウン アカデミー サーヴァー ディス シーズン"
+      "kana": "アイ ワント タ インロウリン ザ マイニング ギルド"
     },
     {
-      "en": "Many players enroll daily when the new season begins.",
-      "ja": "新しいシーズンが始まるとき、多くのプレイヤーが毎日登録します。",
-      "ipa": "/ˈmɛni ˈpleɪɚz ɛnˈɹoʊl ˈdeɪli ˈwɛn ðə ˈnjuː ˈsiz.ən bɪˈɡɪnz/",
+      "en": "She enrolled in the server's mining club.",
+      "ja": "彼女はサーバーの採掘クラブに登録しました。",
+      "ipa": "/ʃi ɪnˈroʊld ɪn ðə ˈsɜrvərz ˈmaɪnɪŋ klʌb/",
       "linking": [
-        "daily は /ˈdeɪli/。/i/ と /w/ は子音+子音で連結なし",
-        "the は冠詞で弱形 /ðə/。new の初頭母音 /n/ に連結できず [ðə ˈnjuː] ザ ニュー",
-        "begins の末尾子音 /z/ が consonant /p/ に続く場合は連結なし"
+        "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+        "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+        "server's 末尾 /z/ から mining の子音 /m/ へ、自然な連接"
       ],
-      "kana": "メニー プレイアーズ エンロウル デイリー ウェン ザ ニュー シーズン ビギンズ"
+      "kana": "シー インロウルディン ザ サーバーズ マイニング クラブ"
     },
     {
-      "en": "Once you enroll, your name appears on the server list.",
-      "ja": "登録すると、あなたの名前がサーバーリストに表示されます。",
-      "ipa": "/wʌns ju ɛnˈɹoʊl | jɔr neɪm əˈpɪrz ɑn ðə ˈsɝvɚ lɪst/",
+      "en": "All players enroll in the tutorial before building.",
+      "ja": "すべてのプレイヤーは建築前にチュートリアルに登録します。",
+      "ipa": "/ɔl ˈpleɪərz ɪnˈroʊl ɪn ðə ˈtʃuːtɔriəl bɪˈfɔr ˈbɪldɪŋ/",
       "linking": [
-        "you が /ju/。enroll の初頭 /ɛ/ に連結 [ju ɛnˈɹoʊl] ユー エンロウル",
-        "appears の末尾 /z/ が on の初頭 /ɑ/ に連結 [əˈpɪrz ɑn] アピアーズ オン",
-        "the は冠詞で弱形 /ðə/。server の /s/ は子音なので連結なし [ðə ˈsɝvɚ] ザ サーヴァー",
-        "server の末尾 /r/ が list の初頭 /l/ に子音+子音で連結なし"
+        "players の語末 /z/ が enroll の母音 /ɪ/ に連結、[ˈpleɪərz ɪnˈroʊl] プレイアーズ インロウル",
+        "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+        "before 末尾の /r/ が building の /b/ に続く、子音-子音で連結なし"
       ],
-      "kana": "ワンス ユー エンロウル、ユア ネイム アピアーズ オン ザ サーヴァー リスト"
+      "kana": "オール プレイアーズ インロウル イン ザ チュートリアル ビフォア ビルディング"
     }
   ],
   "idioms": [
     {
       "idiom": "enroll in",
-      "ja": "（～に）登録する、（～に）入学する",
-      "example": "Players can enroll in different competitions depending on their skill level.",
-      "example_ja": "プレイヤーは自分のスキルレベルに応じて、異なる競技に登録することができます。",
-      "ipa": "/ˈpleɪɚz kən ɛnˈɹoʊl ɪn ˈdɪfərənt kəmˈpɪtɪʃ.ənz dɪˈpɛndɪŋ ɑn ðɛr skɪl ˈlɛvəl/",
+      "ja": "～に登録する、～に入学する",
+      "example": "Players must enroll in the faction before mining.",
+      "example_ja": "プレイヤーは採掘前にファクションに登録しなければなりません。",
+      "ipa": "/ˈpleɪərz məst ɪnˈroʊl ɪn ðə ˈfækʃən bɪˈfɔr ˈmaɪnɪŋ/",
       "linking": [
-        "can は機能語で弱形 /kən/。enroll の初頭 /ɛ/ に連結 [kən ɛnˈɹoʊl] カン エンロウル",
-        "in の末尾 /n/ が different の初頭 /d/ に子音+子音で連結なし",
-        "competitions の末尾子音 /z/ が depending の初頭 /d/ に子音+子音で連結なし",
-        "their の末尾 /r/ が skill の初頭 /s/ に子音+子音で連結なし。their は弱形 [ðɛr]"
+        "in の後ろの the が機能語で弱形 /ðə/ に弱化、[ɪn ðə] イン・ザ",
+        "faction 語末 /n/ が before の子音 /b/ に続く、子音-子音で連結なし"
       ],
-      "kana": "プレイアーズ カン エンロウル イン ディファレント コンペティションズ ディペンディング オン ゼア スキル レベル"
-    },
-    {
-      "idiom": "enroll as",
-      "ja": "（～として）登録する、（～として）入学する",
-      "example": "New builders should enroll as beginners to learn the basics of construction.",
-      "example_ja": "新しいビルダーは建設の基本を学ぶため初心者として登録すべきです。",
-      "ipa": "/ˈnjuː ˈbɪldɚz ʃʊd ɛnˈɹoʊl ɛz bɪˈɡɪnɚz tə ˈlɝn ðə ˈbeɪsɪks əv kənˈstrʌkʃən/",
-      "linking": [
-        "builders の末尾 /z/ が should の初頭 /ʃ/ に子音+子音で連結なし",
-        "enroll の末尾 /l/ が as の初頭 /ɛ/ に連結 [ɛnˈɹoʊl ɛz] エンロウル エズ",
-        "the は冠詞で弱形 /ðə/。basics の初頭 /b/ は子音なので連結なし",
-        "of は機能語で弱形 /əv/。construction の初頭 /k/ に子音+子音で連結なし"
-      ],
-      "kana": "ニュー ビルダーズ シュド エンロウル エズ ビギナーズ タ ラーン ザ ベイシックス オブ コンストラクション"
+      "kana": "プレイアーズ マスト インロウル イン ザ ファクション ビフォア マイニング"
     }
   ],
-  "forms": [],
-  "tags": [
-    "Target 1900"
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "enrolls",
+      "ipa": "/ɪnˈroʊlz/",
+      "examples": [
+        {
+          "en": "He enrolls all new players in the server survival mode.",
+          "ja": "彼は新しいプレイヤーすべてをサーバーのサバイバルモードに登録します。",
+          "ipa": "/hi ɪnˈroʊlz ɔl nju ˈpleɪərz ɪn ðə ˈsɜrvər sərˈvaɪvəl moʊd/",
+          "linking": [
+            "enrolls の語末 /z/ が all の母音 /ɔ/ に連結、[ɪnˈroʊlz ɔl] インロウルズ オール",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "server が語末 /r/ から survival の子音 /s/ へ続く、子音-子音で連結なし"
+          ],
+          "kana": "ヒー インロウルズ オール ニュー プレイアーズ イン ザ サーバー サーヴァイヴァル モード"
+        },
+        {
+          "en": "The admin enrolls everyone in the building contest.",
+          "ja": "管理者は全員を建築コンテストに登録します。",
+          "ipa": "/ðə ˈædmɪn ɪnˈroʊlz ˈɛvriwʌn ɪn ðə ˈbɪldɪŋ ˈkɑnˌtɛst/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "enrolls の語末 /z/ が everyone の母音 /ɛ/ に連結、[ɪnˈroʊlz ɛvriwʌn] インロウルズ エブリワン",
+            "in 後ろの the が弱形 /ðə/ に弱化、[ðə] ザ"
+          ],
+          "kana": "ザ アドミン インロウルズ エブリワン イン ザ ビルディング コンテスト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "enrolled",
+      "ipa": "/ɪnˈroʊld/",
+      "examples": [
+        {
+          "en": "I enrolled in the mining expedition yesterday.",
+          "ja": "昨日、採掘遠征に登録しました。",
+          "ipa": "/aɪ ɪnˈroʊld ɪn ðə ˈmaɪnɪŋ ɛkˌspɪˈdɪʃən ˈjɛstərˌdeɪ/",
+          "linking": [
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "expedition の語末 /n/ が yesterday の /j/ に続く、自然な子音-子音"
+          ],
+          "kana": "アイ インロウルディン ザ マイニング エクスペディション イェスタデイ"
+        },
+        {
+          "en": "She enrolled her brother in the PvP tournament.",
+          "ja": "彼女は兄弟をPvPトーナメントに登録しました。",
+          "ipa": "/ʃi ɪnˈroʊld hɜr ˈbrʌðər ɪn ðə ˈpiviˈpi ˈtʊrnəmənt/",
+          "linking": [
+            "enrolled の語末 /d/ が her の母音 /ɜ/ に連結、[ɪnˈroʊldɜr] インロウルダー",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "tournament 末尾の /t/ が無声なので詰まり感あり、未開放 [t̚]"
+          ],
+          "kana": "シー インロウルダー ハー ブラザー イン ザ ピーヴィーピー トーナメント"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "enrolled",
+      "ipa": "/ɪnˈroʊld/",
+      "examples": [
+        {
+          "en": "Once enrolled in the faction, players can access the vault.",
+          "ja": "ファクションに登録されると、プレイヤーはボルトにアクセスできます。",
+          "ipa": "/wʌns ɪnˈroʊld ɪn ðə ˈfækʃən ˈpleɪərz kən ˈæksɛs ðə vɔlt/",
+          "linking": [
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ（twice）",
+            "can が機能語で弱形 /kən/ に弱化、[kən] カン"
+          ],
+          "kana": "ワンス インロウルディン ザ ファクション プレイアーズ カン アクセス ザ ヴォルト"
+        },
+        {
+          "en": "Players already enrolled in the guild can claim rewards.",
+          "ja": "すでにギルドに登録されているプレイヤーは報酬を請求できます。",
+          "ipa": "/ˈpleɪərz ɔlˈrɛdi ɪnˈroʊld ɪn ðə ɡɪld kən kleɪm rɪˈwɔrdz/",
+          "linking": [
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "can が機能語で弱形 /kən/ に弱化、[kən] カン"
+          ],
+          "kana": "プレイアーズ オルレディ インロウルディン ザ ギルド カン クレイム リワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "enrolling",
+      "ipa": "/ɪnˈroʊlɪŋ/",
+      "examples": [
+        {
+          "en": "They are enrolling new members in the redstone club.",
+          "ja": "彼らはレッドストーンクラブに新しいメンバーを登録しています。",
+          "ipa": "/ðeɪ ɑr ɪnˈroʊlɪŋ nju ˈmɛmbərz ɪn ðə ˈrɛdˌstoʊn klʌb/",
+          "linking": [
+            "are が機能語で弱形 /ər/ に弱化、[ər] アー",
+            "enrolling の語末 /ŋ/ は鼻音で、new の子音 /n/ へ連接、自然な流れ",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ"
+          ],
+          "kana": "ザイ アー インロウリング ニュー メンバーズ イン ザ レッドストーン クラブ"
+        },
+        {
+          "en": "I'm enrolling in the architecture course this week.",
+          "ja": "今週、建築コースに登録しています。",
+          "ipa": "/aɪm ɪnˈroʊlɪŋ ɪn ði ɑrˈkɪtɛkʧər kɔrs ðɪs wik/",
+          "linking": [
+            "I'm の m と enrolling の /ɪ/ が連結、[aɪm ɪnˈroʊlɪŋ] アイム インロウリング",
+            "the が弱形 /ðɪ/ に弱化（i の前）、[ðɪ] ディ",
+            "architecture 末尾 /r/ と course の /k/ へ続く、子音-子音で連結なし"
+          ],
+          "kana": "アイム インロウリング イン ディ アーキテクチャー コース ディス ウィーク"
+        }
+      ]
+    }
   ]
 }

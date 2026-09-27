@@ -398,6 +398,102 @@
           "kana": "アイ ハヴ ビン アウェイクニング フラム ナイトメアーズ アバウト クリーパー イクスプロージャンズ オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will awaken",
+      "ipa": "/wɪl əˈweɪkən/",
+      "examples": [
+        {
+          "en": "I will awaken before dawn to gather supplies from the mine.",
+          "ja": "私は夜明け前に鉱山から補給品を集めるために目覚めます。",
+          "ipa": "/aɪ wɪl əˈweɪkən bɪˈfɔr dɔn tu ˈɡæðər səˈplaɪz frəm ðə maɪn/",
+          "linking": [
+            "will awaken - /l/ が /ə/ に続く（子音+子音）",
+            "awaken before - /n/ が /b/ に続く（子音+子音）",
+            "to は弱形 /tə/、supplies from - /z/ が /f/ に続く（子音+子音）、from は弱形 /frəm/",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ウィル アウェイクン ビフォア ドーン タ ギャザー サプライズ フラム ザ マイン"
+        },
+        {
+          "en": "We will awaken and begin our quest to reach the Nether fortress.",
+          "ja": "私たちは目覚めてネザー砦に到達する探求を始めます。",
+          "ipa": "/wi wɪl əˈweɪkən ənd bɪˈɡɪn ˈaʊər kwɛst tu ɹitʃ ðə ˈnɛðər ˈfɔɹtɪs/",
+          "linking": [
+            "will awaken - /l/ が /ə/ に続く（子音+子音）、awaken and - /n/ が /æ/ に続く（子音+子音）、and は弱形 /ənd/",
+            "begin our - /n/ が /ˈaʊ/ に続く（子音+母音、連結）[bɪˈɡɪn ˈaʊər] ビギン アワー",
+            "quest to - /t/ が /t/ に続く（子音+子音、未開放）[kwɛst̚ tu] クウェスト タ",
+            "the は弱形 /ðə/ ザ、fortress の語末 /s/"
+          ],
+          "kana": "ウィー ウィル アウェイクン アンド ビギン アワー クウェスト タ リーチ ザ ネザー フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be awakening",
+      "ipa": "/wɪl bi əˈweɪkənɪŋ/",
+      "examples": [
+        {
+          "en": "The guardian will be awakening as we approach the ocean temple entrance.",
+          "ja": "私たちがオーシャンテンプルの入口に近づくにつれて、ガーディアンが目覚めます。",
+          "ipa": "/ðə ˈɡɑrdiən wɪl bi əˈweɪkənɪŋ æz wi əˈproʊtʃ ðə ˈoʊʃən ˈtɛmpəl ˈɛntrəns/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "will be - /l/ が /b/ に続く（子音+子音）、be は弱形 /bi/",
+            "awakening as - /ŋ/ が /æ/ に続く（子音+子音）",
+            "approach the - /tʃ/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ガーディアン ウィル ビー アウェイクニング アズ ウィー アプローチ ザ オーシャン テンプル エントランス"
+        },
+        {
+          "en": "She will be awakening throughout the night due to the creepers outside.",
+          "ja": "外のクリーパーのために、彼女は夜通し目覚めています。",
+          "ipa": "/ʃi wɪl bi əˈweɪkənɪŋ θruˈaʊt ðə naɪt du tu ðə ˈkɹipərz ˈaʊtˌsaɪd/",
+          "linking": [
+            "will be - /l/ が /b/ に続く（子音+子音）、be は弱形 /bi/",
+            "awakening throughout - /ŋ/ が /θ/ に続く（子音+子音）",
+            "night due - /t/ が /d/ に続く（子音+子音）、to は弱形 /tə/",
+            "the は弱形 /ðə/ ザ、creepers outside - /z/ が /ˈaʊ/ に続く（子音+子音）"
+          ],
+          "kana": "シー ウィル ビー アウェイクニング スルアウト ザ ナイト デュー トゥ ザ クリーパーズ アウトサイド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have awakened",
+      "ipa": "/wɪl həv əˈweɪkənd/",
+      "examples": [
+        {
+          "en": "By sunrise, they will have awakened and collected enough wood.",
+          "ja": "日の出までに、彼らは目覚めて十分な木を集めたことになります。",
+          "ipa": "/baɪ ˈsʌnˌɹaɪz ðeɪ wɪl həv əˈweɪkənd ənd kəˈlɛktɪd ɪˈnʌf wʊd/",
+          "linking": [
+            "will have - /l/ が /h/ に続く（子音+子音）、have は弱形 /həv/ ハヴ",
+            "awakened and - /d/ が /æ/ に連結 [əˈweɪkənd ənd] アウェイクンド アンド、and は弱形 /ənd/",
+            "collected enough - /d/ が /ɪ/ に続く（子音+子音）",
+            "enough wood - /f/ が /w/ に続く（子音+子音）"
+          ],
+          "kana": "バイ サンライズ ゼイ ウィル ハヴ アウェイクンド アンド コレクティド イナフ ウッド"
+        },
+        {
+          "en": "You will have awakened from your respawn point before the next raid arrives.",
+          "ja": "次のレイドが到着する前に、あなたはあなたのリスポーンポイントから目覚めているでしょう。",
+          "ipa": "/ju wɪl həv əˈweɪkənd frəm jɔr rɪˈspoʊn pɔɪnt bɪˈfɔr ðə nɛkst reɪd əˈɹaɪvz/",
+          "linking": [
+            "will have - /l/ が /h/ に続く（子音+子音）、have は弱形 /həv/ ハヴ",
+            "awakened from - /d/ が /f/ に続く（子音+子音）、from は弱形 /frəm/",
+            "respawn point - /n/ が /p/ に続く（子音+子音）",
+            "before the - /r/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ユー ウィル ハヴ アウェイクンド フラム ユア リスポーン ポイント ビフォア ザ ネクスト レイド アライブズ"
+        }
+      ]
     }
   ],
   "tags": [

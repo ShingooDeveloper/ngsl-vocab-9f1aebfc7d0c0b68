@@ -292,6 +292,191 @@
           "kana": "エクスプローリング ザ ネザー イズ テリファイイング バッ ウィー ラヴ ザ チャレンジ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has terrified",
+      "ipa": "/həz ˈtɛrɪfaɪd/",
+      "examples": [
+        {
+          "en": "The dragon's appearance has terrified even the most experienced players.",
+          "ja": "ドラゴンの出現は最も経験豊富なプレイヤーでさえ恐ろしくさせてきた。",
+          "ipa": "/ðə ˈdreɪɡənz əˈpɪrəns həz ˈtɛrɪfaɪd ˈiːvən ðə ˈmoʊst ɪkˈspɪriənst ˈpleɪərz/",
+          "linking": [
+            "appearance の末子音 /s/ が has の初音 /h/ に未開放で続く [əˈpɪrəns̚ həz] アピアランス ハズ",
+            "has は助動詞で弱形 /həz/",
+            "even the - even の末子音 /n/ が the の初音 /ð/ に未開放で続く [ˈiːvən ðə]"
+          ],
+          "kana": "ザ ドレイゴンズ アピアランス ハズ テリファイド イーヴン ザ モウスト エクスペアリンスト プレイヤーズ"
+        },
+        {
+          "en": "Our group has terrified the warden by making too much noise in the deep dark.",
+          "ja": "私たちのグループは深いダークで大きな音を出してウォーデンを恐ろしくさせてきた。",
+          "ipa": "/ɑr ɡrup həz ˈtɛrɪfaɪd ðə ˈwɔɹdən baɪ ˈmeɪkɪŋ tu mʌtʃ ˈnɔɪz ɪn ðə ˈdip ˈdɑrk/",
+          "linking": [
+            "group の末子音 /p/ が has の初音 /h/ に未開放で続く [ɡrup̚ həz] グループ ハズ",
+            "has は助動詞で弱形 /həz/",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "warden の末子音 /n/ が by の初音 /b/ に未開放で続く [ˈwɔɹdən̚ baɪ]"
+          ],
+          "kana": "アー グループ ハズ テリファイド ザ ウォーデン バイ メイキング トゥー マッチ ノイズ イン ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had terrified",
+      "ipa": "/həd ˈtɛrɪfaɪd/",
+      "examples": [
+        {
+          "en": "Before we arrived, the creeper explosion had terrified everyone at the base.",
+          "ja": "到着する前に、クリーパー爆発は基地のすべての人を恐ろしくさせていた。",
+          "ipa": "/bɪˈfɔr wi əˈraɪvd ðə ˈkriːpɚ ɪkˈsploʊʒən həd ˈtɛrɪfaɪd ˈɛvriwən æt ðə ˈbeɪs/",
+          "linking": [
+            "before の末子音 /r/ が we の初音 /w/ に未開放で続く [bɪˈfɔr̚ wi] ビフォア ウィー",
+            "explosion の末子音 /n/ が had の初音 /h/ に未開放で続く [ɪkˈsploʊʒən̚ həd] エクスプロージョン ハド",
+            "had は助動詞で弱形 /həd/",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "ビフォア ウィー ァライヴド ザ クリーパー エクスプロージョン ハド テリファイド エヴリワン アット ザ ベース"
+        },
+        {
+          "en": "The warden's shriek had terrified my friend so much he quit the server.",
+          "ja": "ウォーデンの叫びは友人をそんなに恐ろしくさせていたので、彼はサーバーをやめた。",
+          "ipa": "/ðə ˈwɔɹdənz ʃrik həd ˈtɛrɪfaɪd maɪ ˈfrɛnd soʊ mʌtʃ hi ˈkwɪt ðə ˈsɝvɚ/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "shriek の末子音 /k/ が had の初音 /h/ に未開放で続く [ʃrik̚ həd] シューリーク ハド",
+            "had は助動詞で弱形 /həd/",
+            "much の末子音 /tʃ/ が he の初音 /h/ に未開放で続く [mʌtʃ̚ hi] マッチ ヒー"
+          ],
+          "kana": "ザ ウォーデンズ シューリーク ハド テリファイド マイ フレンド ソウ マッチ ヒー クウィット ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been terrifying",
+      "ipa": "/həz bɪn ˈtɛrɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The warden has been terrifying us all day since we entered the deep dark.",
+          "ja": "ウォーデンは深いダークに入ったときから、ずっと私たちを一日中恐ろしくさせている。",
+          "ipa": "/ðə ˈwɔɹdən həz bɪn ˈtɛrɪfaɪɪŋ əz ɔl ˈdeɪ sɪns wi ˈɛntərd ðə ˈdip ˈdɑrk/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "warden の末子音 /n/ が has の初音 /h/ に未開放で続く [ˈwɔɹdən̚ həz] ウォーデン ハズ",
+            "has は助動詞で弱形 /həz/、been は弱形 /bɪn/",
+            "terrifying の末子音 /ŋ/ が us の初音 /ə/（弱形）に未開放で続く [ˈtɛrɪfaɪɪŋ əz] テリファイイング ァズ"
+          ],
+          "kana": "ザ ウォーデン ハズ ビン テリファイイング ァズ オール デイ シンス ウィー エンタード ザ ディープ ダーク"
+        },
+        {
+          "en": "That creeping darkness has been terrifying everyone in our mining operation.",
+          "ja": "その迫る暗闇は私たちの採掘作業のすべての人を恐ろしくさせ続けている。",
+          "ipa": "/ðæt ˈkripɪŋ ˈdɑɹknəs həz bɪn ˈtɛrɪfaɪɪŋ ˈɛvriwən ɪn ɑr ˈmaɪnɪŋ ˌɑpəˈreɪʃən/",
+          "linking": [
+            "darkness の末子音 /s/ が has の初音 /h/ に未開放で続く [ˈdɑɹknəs̚ həz] ダークネス ハズ",
+            "has は助動詞で弱形 /həz/、been は弱形 /bɪn/",
+            "terrifying の末子音 /ŋ/ が everyone の初音 /ɛ/ に連結 [ˈtɛrɪfaɪɪŋ ˈɛvriwən] テリファイイング エヴリワン",
+            "mining の末子音 /ŋ/ が operation の初音 /ɑ/ に未開放で続く [ˈmaɪnɪŋ̚ ˌɑpəˈreɪʃən]"
+          ],
+          "kana": "ザット クリーピング ダークネス ハズ ビン テリファイイング エヴリワン イン アー マイニング アペレーション"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will terrify",
+      "ipa": "/wɪl ˈtɛrɪfaɪ/",
+      "examples": [
+        {
+          "en": "The warden will terrify us if we make any noise in the deep dark.",
+          "ja": "深いダークで音を立てると、ウォーデンが私たちを恐ろしくさせるでしょう。",
+          "ipa": "/ðə ˈwɔɹdən wɪl ˈtɛrɪfaɪ əs ɪf wi ˈmeɪk ˈɛni ˈnɔɪz ɪn ðə ˈdip ˈdɑɹk/",
+          "linking": [
+            "warden の末子音 /n/ が will の初音 /w/ に未開放で続く [ˈwɔɹdən̚ wɪl] ウォーデン ウィル",
+            "will の末子音 /l/ が terrify の初音 /t/ に未開放で続く [wɪl̚ ˈtɛrɪfaɪ] ウィル テリファイ",
+            "deep の末子音 /p/ が dark の初音 /d/ に未開放で続く [ˈdip̚ ˈdɑɹk] ディープ ダーク"
+          ],
+          "kana": "ザ ウォーデン ウィル テリファイ ァス イフ ウィー メイク エニー ノイズ イン ザ ディープ ダーク"
+        },
+        {
+          "en": "It will terrify me if I lose all my diamonds.",
+          "ja": "すべてのダイヤを失ったら、私を本当に恐ろしくさせるでしょう。",
+          "ipa": "/ɪt wɪl ˈtɛrɪfaɪ mi ɪf aɪ ˈluz ɔl maɪ ˈdaɪməndz/",
+          "linking": [
+            "It の末子音 /t/ が will の初音 /w/ に未開放で続く [ɪt̚ wɪl] イット ウィル",
+            "will の末子音 /l/ が terrify の初音 /t/ に未開放で続く [wɪl̚ ˈtɛrɪfaɪ] ウィル テリファイ",
+            "lose の末子音 /z/ が all の初音 /ɔ/ に未開放で続く [ˈluz̚ ɔl] ルーズ オール"
+          ],
+          "kana": "イット ウィル テリファイ ミー イフ アイ ルーズ オール マイ ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be terrifying",
+      "ipa": "/wɪl bi ˈtɛrɪfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The Ender Dragon will be terrifying our entire server for the next week.",
+          "ja": "エンダードラゴンは来週、私たちのサーバー全体を恐ろしくさせ続けるでしょう。",
+          "ipa": "/ðə ˈɛndɚ ˈdreɪɡən wɪl bi ˈtɛrɪfaɪɪŋ ɑr ənˈtaɪr ˈsɝvɚ fɔr ðə ˈnɛkst ˈwik/",
+          "linking": [
+            "dragon の末子音 /n/ が will の初音 /w/ に未開放で続く [ˈdreɪɡən̚ wɪl] ドラゴン ウィル",
+            "will の末子音 /l/ が be の初音 /b/ に未開放で続く [wɪl̚ bi] ウィル ビー",
+            "terrifying の末子音 /ŋ/ が our の初音 /ɑ/ に未開放で続く [ˈtɛrɪfaɪɪŋ ɑr] テリファイイング アワー"
+          ],
+          "kana": "ザ エンダー ドラゴン ウィル ビー テリファイイング アワー エンタイア サーバー フォア ザ ネクスト ウィーク"
+        },
+        {
+          "en": "That creeper will be terrifying everyone if it gets close to our base.",
+          "ja": "そのクリーパーが基地に近づいたら、皆を恐ろしくさせ続けるでしょう。",
+          "ipa": "/ðæt ˈkripɚ wɪl bi ˈtɛrɪfaɪɪŋ ˈɛvriwən ɪf ɪt ˈɡɛts ˈkloʊs tu ɑr ˈbeɪs/",
+          "linking": [
+            "creeper の末子音 /r/ が will の初音 /w/ に未開放で続く [ˈkripɚ̚ wɪl] クリーパー ウィル",
+            "will の末子音 /l/ が be の初音 /b/ に未開放で続く [wɪl̚ bi] ウィル ビー",
+            "terrifying の末子音 /ŋ/ が everyone の初音 /ɛ/ に連結 [ˈtɛrɪfaɪɪŋ ˈɛvriwən] テリファイイング エヴリワン"
+          ],
+          "kana": "ザット クリーパー ウィル ビー テリファイイング エヴリワン イフ イット ゲッツ クロース トゥー アワー ベース"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have terrified",
+      "ipa": "/wɪl həv ˈtɛrɪfaɪd/",
+      "examples": [
+        {
+          "en": "By the end of this season, that dragon will have terrified more players than any mob in history.",
+          "ja": "このシーズンの終わりまでに、そのドラゴンは歴史上のどのモブよりも多くのプレイヤーを恐ろしくさせているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs ˈsizən ðæt ˈdreɪɡən wɪl həv ˈtɛrɪfaɪd mɔr ˈpleɪɚz ðæn ˈɛni ˈmɑb ɪn ˈhɪstəri/",
+          "linking": [
+            "dragon の末子音 /n/ が will の初音 /w/ に未開放で続く [ˈdreɪɡən̚ wɪl] ドラゴン ウィル",
+            "will の末子音 /l/ が have の初音 /h/ に未開放で続く [wɪl̚ həv] ウィル ハヴ",
+            "have は助動詞で弱形 /həv/ に弱化"
+          ],
+          "kana": "バイ ザ エンド アヴ ディス シーズン ザット ドラゴン ウィル ハヴ テリファイド モア プレイヤーズ ザン エニー モブ イン ヒストリー"
+        },
+        {
+          "en": "Our team will have terrified countless mobs before we finally defeat the warden.",
+          "ja": "私たちのチームがウォーデンをついに倒す前に、無数のモブを恐ろしくさせているでしょう。",
+          "ipa": "/ɑr ˈtim wɪl həv ˈtɛrɪfaɪd ˈkaʊntləs ˈmɑbz bɪˈfɔr wi ˈfaɪnəli dɪˈfit ðə ˈwɔɹdən/",
+          "linking": [
+            "team の末子音 /m/ が will の初音 /w/ に未開放で続く [ˈtim̚ wɪl] ティーム ウィル",
+            "will の末子音 /l/ が have の初音 /h/ に未開放で続く [wɪl̚ həv] ウィル ハヴ",
+            "defeat の末子音 /t/ が the の初音 /ð/ に未開放で続く [dɪˈfit̚ ðə] ディフィット ザ"
+          ],
+          "kana": "アワー ティーム ウィル ハヴ テリファイド カウントレス モブズ ビフォア ウィー ファイナリー ディフィット ザ ウォーデン"
+        }
+      ]
     }
   ],
   "tags": [

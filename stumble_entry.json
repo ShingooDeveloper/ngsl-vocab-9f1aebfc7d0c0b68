@@ -21,7 +21,7 @@
       "linking": [
         "stumbled over：語末子音 /d/ が母音 /oʊ/ に連結 [ˈstʌmbəldoʊ] スタムボルドウ",
         "over a：語末音 /r/ がフラップ化 /ɾ/ して母音 /ə/ に連結 [ˈoʊvəɹə] オーヴァラ",
-        "deep underground：語末子音 /p/ が母音 /ə/ に連結 [dip ʌndərɡraʊnd] ディープアンダーグラウンド"
+        "deep underground：語末子音 /p/ が母音 /ʌ/ に連結 [dip ʌndərɡraʊnd] ディープアンダーグラウンド"
       ],
       "kana": "アイ スタムボルドオーヴァラ モッブ スポーナー ホワイル マイニング ディープアンダーグラウンド"
     },
@@ -89,7 +89,7 @@
           "ipa": "[hi ˈstʌmbəlz ˈoʊvər ˈlus ˈɡrævəl nɪr ðə ˈrævɪn]",
           "linking": [
             "stumbles over - 語末 /z/ が母音 /oʊ/ に連結 [ˈstʌmbəlz ˈoʊvər]→「スタンボルズ オーヴァー」",
-            "over gravel - 語末 /r/ がフラップ化 /ɾ/ して母音 /ɡ/ に先行（ただし /ɡ/ は子音なので連結しない）[ˈoʊvər ˈɡrævəl]→「オーヴァー グラベル」",
+            "over gravel - 語末 /r/ が子音 /ɡ/ に先行し連結しない [ˈoʊvər ˈɡrævəl]→「オーヴァー グラベル」",
             "gravel near - 語末 /l/ が子音 /n/ に先行し未開放 [ˈɡrævəl̚ nɪr]→「グラベル ニアー」"
           ],
           "kana": "ヒ スタンボルズ オーヴァー ルース グラベル ニアー ザ ラビン"
@@ -144,8 +144,8 @@
       "ipa": "/ˈstʌmbəld/",
       "examples": [
         {
-          "en": "The stumbled player was rescued by their teammate immediately.",
-          "ja": "つまずいたプレイヤーはすぐにチームメイトに救出された。",
+          "en": "The stumbling player was rescued by their teammate immediately.",
+          "ja": "つまずいているプレイヤーはすぐにチームメイトに救出された。",
           "ipa": "[ðə ˈstʌmbəld ˈpleɪər wəz ˈrɛskjud baɪ ðɛɚ ˈtimˌmeɪt ɪˈmiːdiətli]",
           "linking": [
             "the stumbled - 冠詞 /ðə/ は弱形 [ðə ˈstʌmbəld]→「ザ スタンボルド」",
@@ -240,7 +240,7 @@
           "linking": [
             "is は弱形 /ɪz/、stumbling の初頭 /s/ に続く（子音+子音で連結なし）",
             "stumbling over - 語末 /ŋ/ が母音 /oʊ/ に連結 [ˈstʌmbəlɪŋ ˈoʊvər]→「スタンボリング オーヴァー」",
-            "near the - 語末 /r/ がフラップ化 /ɾ/ して母音 /ð/ に先行（ただし /ð/ は子音なので連結しない）、the は弱形 /ðə/"
+            "near the - 語末 /r/ が子音 /ð/ に先行し連結しない、the は弱形 /ðə/ [nɪr ðə]→「ニアー ザ」"
           ],
           "kana": "ヒ イズ スタンボリング オーヴァー ザ アンイーヴン テレイン ニアー ザ クリフ エッジ"
         },
@@ -321,6 +321,98 @@
             "until は /ənˈtɪl/、we は /wi/、our は弱形 /ɑɚ/"
           ],
           "kana": "ウィ ハド ビン スタンボリング ブラインドリー イン ザ ラーヴァ フィールド アンティル ウィ リメンバード アワー イスケイプ プラン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has stumbled",
+      "ipa": "/həz ˈstʌmbəld/",
+      "examples": [
+        {
+          "en": "He has stumbled multiple times now, but he keeps pushing forward to the next biome.",
+          "ja": "彼は何度もつまずいているが、次のバイオームへ進み続けている。",
+          "ipa": "[hi həz ˈstʌmbəld ˈmʌltɪpəl taɪmz naʊ bʌt hi kips ˈpʊʃɪŋ ˈfɔrwərd tə ðə ˈnɛkst biˈoʊm]",
+          "linking": [
+            "has は弱形 /həz/、stumbled の初頭 /s/ に続く（子音+子音で連結なし）[həz ˈstʌmbəld]→「ハズ スタンボルド」",
+            "multiple times - 語末 /l/ が子音 /t/ に先行し未開放 [ˈmʌltɪpəl̚ taɪmz]→「マルティプル タイムズ」",
+            "to the - 機能語 to は弱形 /tə/、the の初頭に続く。冠詞 the も弱形 /ðə/ [tə ðə]→「タ ザ」"
+          ],
+          "kana": "ヒ ハズ スタンボルド マルティプル タイムズ ナウ バット ヒ キープス プッシング フォーワード タ ザ ネクスト バイオーム"
+        },
+        {
+          "en": "I have stumbled across a hidden village with rare resources during exploration.",
+          "ja": "探検中に珍しいリソースのある隠れた村を発見した。",
+          "ipa": "[aɪ həv ˈstʌmbəld əˈkrɔs ə ˈhɪdən ˈvɪlɪdʒ wɪð ˈrɛr ˈrɛsɔrsɪz ˈdʊrɪŋ ɛksˌploʊˈreɪʃən]",
+          "linking": [
+            "have は弱形 /həv/、stumbled の初頭に続く [həv ˈstʌmbəld]→「ハヴ スタンボルド」",
+            "stumbled across - 語末子音 /d/ が母音 /ə/ に連結 [ˈstʌmbəldəkrɔs]→「スタンボルダクロス」",
+            "with は /wɪð/、rare の初頭に続く（未開放）、rare /rɛr/ が次の /r/ をフラップ化 /ɾ/"
+          ],
+          "kana": "アイ ハヴ スタンボルダクロス ア ヒデン ビリッジ ウィズ レアー レソーシーズ ジューリング エクスプロレイション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had stumbled",
+      "ipa": "/həd ˈstʌmbəld/",
+      "examples": [
+        {
+          "en": "The player had stumbled once before they finally reached the End portal chamber.",
+          "ja": "プレイヤーはエンドポータル室に到達する前に一度つまずいていた。",
+          "ipa": "[ðə ˈpleɪər həd ˈstʌmbəld wʌns bɪˈfɔr ðeɪ ˈfaɪnəli ˈriːtʃt ðə ɛnd ˈpoʊrtəl ˈtʃeɪmbər]",
+          "linking": [
+            "had は弱形 /həd/、stumbled の初頭に続く（未開放）[hæd̚ ˈstʌmbəld]→「ハド スタンボルド」",
+            "stumbled once - 語末 /d/ が子音 /w/ に先行し未開放 [ˈstʌmbəl̚ wʌns]→「スタンボルド ワンス」",
+            "before は /bɪˈfɔr/、they /ðeɪ/ へ連結"
+          ],
+          "kana": "ザ プレイヤー ハド スタンボルド ワンス ビフォー ゼイ ファイナリー リーチド ザ エンド ポータル チェンバー"
+        },
+        {
+          "en": "By the time we arrived at the farm, the animals had stumbled all over the crops.",
+          "ja": "農場に到着した時までに、動物たちは作物の全体でつまずいていた。",
+          "ipa": "[baɪ ðə taɪm wi əˈraɪvd ət ðə fɑrm ðə ˈænɪməlz həd ˈstʌmbəld ɔl ˈoʊvər ðə krɑps]",
+          "linking": [
+            "had は弱形 /həd/、stumbled の初頭に続く（未開放）[hæd̚ ˈstʌmbəld]→「ハド スタンボルド」",
+            "stumbled all - 語末 /d/ が母音 /ɔl/ に連結 [ˈstʌmbəldɔl]→「スタンボルドール」",
+            "all over - 語末 /l/ が母音 /oʊ/ に連結 [ɔl ˈoʊvər]→「オール オーヴァー」"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド アット ザ ファーム ザ アニマルズ ハド スタンボルド オール オーヴァー ザ クラップス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been stumbling",
+      "ipa": "/həz bɪn ˈstʌmbəlɪŋ/",
+      "examples": [
+        {
+          "en": "He has been stumbling around the Nether all afternoon without finding any useful loot.",
+          "ja": "彼は午後中ネザーをよろよろ歩き回っているが、役立つ戦利品は見つかっていない。",
+          "ipa": "[hi həz bɪn ˈstʌmbəlɪŋ əˈraʊnd ðə ˈnɛðɚ ɔl ˌæftərˈnun wɪðˈaʊt ˈfaɪndɪŋ ˈɛni ˈjuːsfəl lut]",
+          "linking": [
+            "has は弱形 /həz/、been の初頭に続く（未開放）[həz̚ bɪn]→「ハズ ビン」",
+            "been は弱形 /bɪn/",
+            "stumbling around - 語末 /ŋ/ が母音 /ə/ に連結 [ˈstʌmbəlɪŋ əˈraʊnd]→「スタンボリング アラウンド」",
+            "around the - 語末 /d/ が弱形 the /ðə/ に連結 [əˈraʊnd ðə]→「アラウンド ザ」"
+          ],
+          "kana": "ヒ ハズ ビン スタンボリング アラウンド ザ ネザー オール アフターヌーン ウィザウト ファインディング エニー ユースフル ルート"
+        },
+        {
+          "en": "The new players have been stumbling through basic survival tasks since they joined the server.",
+          "ja": "新しいプレイヤーたちはサーバーに参加してからずっと基本的なサバイバルタスクでつまずいている。",
+          "ipa": "[ðə nju ˈpleɪərz həv bɪn ˈstʌmbəlɪŋ θruː ˈbeɪsɪk sərˈvaɪvəl tæsks sɪns ðeɪ ˈdʒɔɪnd ðə ˈsɜrvər]",
+          "linking": [
+            "have は弱形 /həv/、been の初頭に続く（未開放）[həv̚ bɪn]→「ハヴ ビン」",
+            "been は弱形 /bɪn/",
+            "stumbling through - 語末 /ŋ/ が子音 /θ/ に先行し未開放 [ˈstʌmbəlɪŋ̚ θruː]→「スタンボリング スルー」",
+            "since は /sɪns/、they /ðeɪ/ へ連結、joined /dʒɔɪnd/ の語末 /d/ が次へ連結"
+          ],
+          "kana": "ザ ニュー プレイヤーズ ハヴ ビン スタンボリング スルー ベイシック サーヴァイヴァル タスクス シンス ゼイ ジョインド ザ サーバー"
         }
       ]
     }

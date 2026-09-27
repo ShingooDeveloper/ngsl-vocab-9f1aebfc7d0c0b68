@@ -400,6 +400,102 @@
           "kana": "ウィー ハヴ ビン ナヴィゲイティング ァラウンド ディーズ タウアリング マウンテンズ シンス ドーン ブロウク"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will navigate",
+      "ipa": "/wɪl ˈnævɪˌɡeɪt/",
+      "examples": [
+        {
+          "en": "I will navigate through the dense underground caves to locate the diamond ore.",
+          "ja": "ダイヤモンド鉱石を見つけるために、密集した地下洞窟を進みます。",
+          "ipa": "/aɪ wɪl ˈnævɪˌɡeɪt θru ðə ˈdɛns ˌʌndɚˈɡraʊnd keɪvz tu ˈloʊkeɪt ðə ˈdaɪmənd ˈɔːr/",
+          "linking": [
+            "will → 弱形 /wɪl/（縮約形では I'll /aɪl/ になることが多い）",
+            "navigate の /t/ が through に続く（子音+子音）[ˈnævɪˌɡeɪt θru] ナヴィゲイト スルー",
+            "through の /θ/ が the に続く。the は弱形 /ðə/。[θru ðə] スルー ザ",
+            "to は機能語で弱形 /tə/、caves の /z/ が to に続く [keɪvz tə] ケイブズ タ"
+          ],
+          "kana": "アイ ウィル ナヴィゲイト スルー ザ デンス アンダーグラウンド ケイブズ タ ロウケイト ザ ダイモンド オア"
+        },
+        {
+          "en": "We'll navigate carefully around the Enderman colonies to avoid awakening them.",
+          "ja": "エンダーマンのコロニーの周りを慎重に進んで、彼らを起動させないようにします。",
+          "ipa": "/wil ˈnævɪˌɡeɪt ˈkɛrfəli əˈraʊnd ðə ˈɛndɚmæn ˈkɑːləniz tu əˈvɔɪd əˈweɪkənɪŋ ðɛm/",
+          "linking": [
+            "We'll → will の縮約形 /wil/",
+            "navigate の /t/ が carefully に続く（子音+子音）[ˈnævɪˌɡeɪt ˈkɛrfəli] ナヴィゲイト ケアフリー",
+            "around の /d/ が the に続く（子音+子音、未開放）[əˈraʊnd̚ ðə] ァラウンド ザ",
+            "to は弱形 /tə/、colonies の /z/ が to に続く [ˈkɑːləniz tə] コロニーズ タ"
+          ],
+          "kana": "ウィル ナヴィゲイト ケアフリー ァラウンド ザ エンダーマン コロニーズ タ ァヴォイド ァウェイクニング ザム"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be navigating",
+      "ipa": "/wɪl bi ˈnævɪˌɡeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Steve will be navigating through the swamp tomorrow while the rest of us build the base.",
+          "ja": "スティーブは明日、私たちが基地を建設している間、沼を進んでいるでしょう。",
+          "ipa": "/ˈstiːv wɪl bi ˈnævɪˌɡeɪtɪŋ θru ðə swɑːmp təˈmɑːroʊ | waɪl ðə rɛst əv əs bɪld ðə beɪs/",
+          "linking": [
+            "will → 弱形 /wɪl/",
+            "be → 弱形 /bi/",
+            "navigating の /ŋ/ が through に続く（子音+子音、未開放）[ˈnævɪˌɡeɪtɪŋ̚ θru] ナヴィゲイティング スルー",
+            "through の /θ/ が the に続く。the は弱形 /ðə/。[θru ðə] スルー ザ"
+          ],
+          "kana": "スティーヴ ウィル ビー ナヴィゲイティング スルー ザ スワンプ トゥモロウ、ホワイル ザ レスト アヴ アス ビルド ザ ベイス"
+        },
+        {
+          "en": "They will be navigating across the ocean biome for several hours when the storm passes.",
+          "ja": "嵐が過ぎるときに、彼らは数時間の間、海洋バイオームを横断するように進んでいるでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈnævɪˌɡeɪtɪŋ əˈkrɑːs ðə ˈoʊʃən ˈbaɪoʊm fɚ ˈsɛvərəl ˈaʊɚz | wɛn ðə stɔːrm ˈpæsɪz/",
+          "linking": [
+            "will → 弱形 /wɪl/",
+            "be → 弱形 /bi/",
+            "navigating の /ŋ/ が across に続く（子音+子音、未開放）[ˈnævɪˌɡeɪtɪŋ̚ əˈkrɑːs] ナヴィゲイティング ァクロス",
+            "across の /s/ が the に続く（子音+子音）[əˈkrɑːs ðə] ァクロス ザ"
+          ],
+          "kana": "ゼイ ウィル ビー ナヴィゲイティング ァクロス ザ オーシャン バイオーム ファー セブラル アワーズ、ウェン ザ ストォーム パッシーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have navigated",
+      "ipa": "/wɪl həv ˈnævɪˌɡeɪtɪd/",
+      "examples": [
+        {
+          "en": "By the end of this week, I will have navigated through all five Minecraft dimensions.",
+          "ja": "今週末までに、私は5つのマインクラフト次元すべてを進み抜いているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðɪs wik | aɪ wɪl həv ˈnævɪˌɡeɪtɪd θru ɔːl faɪv maɪnˈkræft dɪˈmɛnʃənz/",
+          "linking": [
+            "the → 弱形 /ðə/、of → 弱形 /əv/",
+            "will → /wɪl/、have → 弱形 /həv/（will have の連結で）",
+            "navigated の /d/ が through に続く（子音+子音）[ˈnævɪˌɡeɪtɪd θru] ナヴィゲイティド スルー",
+            "through の /θ/ が the に続く。the は弱形 /ðə/。[θru ðə] スルー ザ"
+          ],
+          "kana": "バイ ザ エンド アヴ ディス ウィーク、アイ ウィル ハヴ ナヴィゲイティド スルー ザ オール ファイヴ マインクラフト ディメンションズ"
+        },
+        {
+          "en": "The team will have navigated every challenging cave system before the server reset.",
+          "ja": "チームはサーバーリセットの前に、すべての困難な洞窟システムを進み抜いているでしょう。",
+          "ipa": "/ðə ˈtiːm wɪl həv ˈnævɪˌɡeɪtɪd ˈɛvri ˈtʃælɪndʒɪŋ keɪv ˈsɪstəm | bɪˈfɔːr ðə ˈsɚːvɚ rɪˈsɛt/",
+          "linking": [
+            "the → 弱形 /ðə/（2回）",
+            "will → /wɪl/、have → 弱形 /həv/",
+            "navigated の /d/ が every に続く（子音+母音で連結）[ˈnævɪˌɡeɪtɪd ˈɛvri] ナヴィゲイティド エブリー",
+            "system の /m/ が before に続く（子音+子音）[ˈsɪstəm bɪˈfɔːr] システム ビフォア"
+          ],
+          "kana": "ザ ティーム ウィル ハヴ ナヴィゲイティド エブリー チャレンジング ケイヴ システム ビフォア ザ サーバー リセット"
+        }
+      ]
     }
   ]
 }

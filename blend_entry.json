@@ -80,5 +80,278 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is blending",
+      "ipa": "/ɪz ˈblɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The painter is blending red and blue dye to create the perfect purple for our banner.",
+          "ja": "ペインターは私たちのバナーのために完璧な紫色を作るために赤と青の染料を混ぜています。",
+          "ipa": "[ðə ˈpeɪntər ɪz ˈblɛndɪŋ rɛd ənd blu daɪ tə kriˈeɪt ðə ˈpɝfɪkt ˈpɝpəl fɔr aʊər ˈbænər]",
+          "kana": "ザ ペインター イズ ブレンディング レッド アンド ブルー ダイ タ クリエイト ザ パーフェクト パープル フォー アワー バナー",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is は弱形 /ɪz/、is の末尾 /z/ が blending に連結 [ɪz ˈblɛndɪŋ] イズ ブレンディング",
+            "and は弱形 /ənd/",
+            "to は弱形 /tə/、for は弱形 /fɔr/"
+          ]
+        },
+        {
+          "en": "We are blending different stone textures to give our castle walls a more natural appearance.",
+          "ja": "私たちは城壁をより自然な外観にするために異なる石のテクスチャーを混ぜています。",
+          "ipa": "[wi ɑr ˈblɛndɪŋ ˈdɪfərənt stoʊn ˈtɛkstʃərz tə ɡɪv aʊər ˈkæsəl wɔlz ə mɔr ˈnætʃərəl əˈpɪrəns]",
+          "kana": "ウィー アー ブレンディング ディファレント ストーン テクスチャーズ タ ギヴ アワー キャッスル ウォールズ ア モア ナチュラル アピアランス",
+          "linking": [
+            "We は弱形 /wi/、are は弱形 /ɑr/、are の末尾 /r/ が blending に続く（子音+子音で連結なし）",
+            "to は弱形 /tə/、a は弱形 /ə/",
+            "our は弱形 /aʊər/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was blending",
+      "ipa": "/wəz ˈblɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I was blending the concrete colors when the creeper exploded nearby.",
+          "ja": "クリーパーが爆発したとき、私はコンクリートの色を混ぜていました。",
+          "ipa": "[aɪ wəz ˈblɛndɪŋ ðə kənˈkriːt ˈkʌlərz wɛn ðə ˈkriːpər ɪkˈsploʊdəd ˈnɛrbaɪ]",
+          "kana": "アイ ワズ ブレンディング ザ コンクリート カラーズ ウェン ザ クリーパー イクスプロウデッド ニアーバイ",
+          "linking": [
+            "was は弱形 /wəz/、was の末尾 /z/ が blending に連結 [wəz ˈblɛndɪŋ] ワズ ブレンディング",
+            "the は弱形 /ðə/",
+            "when の末尾 /n/ が the に連結 [wɛn ðə] ウェン ザ"
+          ]
+        },
+        {
+          "en": "They were blending wood types throughout the night to complete the mansion exterior.",
+          "ja": "彼らは夜通しマンションの外観を完成させるために木の種類を混ぜていました。",
+          "ipa": "[ðeɪ wər ˈblɛndɪŋ wʊd taɪps θruːˈaʊt ðə naɪt tə kəmˈplit ðə mənˈʃən ɪkˈstɪriər]",
+          "kana": "ザイ ワー ブレンディング ウッド タイプス スルーアウト ザ ナイト タ コムプリート ザ マンション エクステリア",
+          "linking": [
+            "they は弱形 /ðeɪ/、were は弱形 /wər/",
+            "throughout の末尾 /t̚/ が the に未開放で続く [θruːˈaʊt̚ ðə] スルーアウッ ザ",
+            "the は弱形 /ðə/、to は弱形 /tə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been blending",
+      "ipa": "/həd bɪn ˈblɛndɪŋ/",
+      "examples": [
+        {
+          "en": "Before the server updated, we had been blending various materials to create a seamless gradient.",
+          "ja": "サーバーが更新される前に、私たちは継ぎ目のないグラデーションを作成するためにさまざまな材料を混ぜていました。",
+          "ipa": "[bɪˈfɔr ðə ˈsɝvər ˈʌpˌdeɪtɪd wi həd bɪn ˈblɛndɪŋ ˈvɛriəs məˈtɪriəlz tə kriˈeɪt ə ˈsimləs ˈɡreɪdʒənt]",
+          "kana": "ビフォア ザ サーヴァー アップデイティド ウィー ハド ビン ブレンディング ヴェリアス マテリアルズ タ クリエイト ア シームレス グレイジェント",
+          "linking": [
+            "before の末尾 /r/ が the に連結 [bɪˈfɔr ðə] ビフォア ザ、the は弱形 /ðə/",
+            "had は弱形 /həd/、been は弱形 /bɪn/、had の末尾 /d/ が been に続く（子音+子音で連結なし）",
+            "to は弱形 /tə/、a は弱形 /ə/"
+          ]
+        },
+        {
+          "en": "They had been blending dyes for hours when they finally discovered the perfect shade of green.",
+          "ja": "彼らが完璧な緑色を発見したとき、彼らは何時間も染料を混ぜていました。",
+          "ipa": "[ðeɪ həd bɪn ˈblɛndɪŋ daɪz fɔr ˈaʊərz wɛn ðeɪ ˈfaɪnəli dɪˈskʌvərd ðə ˈpɝfɪkt ʃeɪd əv ɡrin]",
+          "kana": "ザイ ハド ビン ブレンディング ダイズ フォー アワーズ ウェン ザイ ファイナリー ディスカヴァード ザ パーフェクト シェイド アヴ グリーン",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/、had の末尾 /d/ が been に続く（子音+子音で連結なし）",
+            "of は弱形 /əv/、of の末尾 /v/ が green に続く（子音+子音で連結なし）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will blend",
+      "ipa": "/wɪl blɛnd/",
+      "examples": [
+        {
+          "en": "I'll blend the stone textures to create a natural looking wall.",
+          "ja": "私は自然な見た目の壁を作るために石のテクスチャーを混ぜます。",
+          "ipa": "/aɪl blɛnd ðə stoʊn ˈtɛkstʃərz tə kriˈeɪɾə ˈnætʃərəl ˈlʊkɪŋ wɔl/",
+          "kana": "アイル ブレンド ザ ストーン テクスチャーズ タ クリエイラ ナチュラル ルッキング ウォール",
+          "linking": [
+            "create の末尾 /t/ が a の初頭 /ə/ に挟まれフラップ化 [kriˈeɪɾə] クリエイラ",
+            "the は弱形 /ðə/、to は弱形 /tə/",
+            "a は弱形 /ə/",
+            "looking の末尾 /ŋ/ が wall の初頭 /w/ に連結しない（鼻音+子音で未開放）"
+          ]
+        },
+        {
+          "en": "They will blend different dyes to create vibrant colors.",
+          "ja": "彼らは異なった染料を混ぜて、鮮やかな色を作ります。",
+          "ipa": "/ðeɪ wɪl blɛnd ˈdɪfrənt daɪz tə kriˈeɪt ˈvaɪbrənt ˈkʌlərz/",
+          "kana": "ザイ ウィル ブレンド ディフラント ダイズ タ クリエイト ヴァイブラント カラーズ",
+          "linking": [
+            "blend の末尾 /d/ が different の初頭 /d/ に連結しない（同音の子音で未開放）[blɛnd ˈdɪfrənt] ブレンド ディフラント",
+            "dyes の末尾 /z/ が to の初頭 /t/ に連結しない（子音+子音で未開放）",
+            "to は弱形 /tə/",
+            "create の末尾 /t/ が vibrant の初頭 /v/ に連結しない（子音+子音で未開放）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be blending",
+      "ipa": "/wɪl bi ˈblɛndɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be blending materials for the entire building project.",
+          "ja": "私たちは建設プロジェクト全体を通して材料を混ぜています。",
+          "ipa": "/wil bi ˈblɛndɪŋ məˈtɪriəlz fɔr ðə ɛnˈtaɪr ˈbɪldɪŋ ˈprɑdʒɛkt/",
+          "kana": "ウィル ビー ブレンディング マテリアルズ フォー ザ エンタイアー ビルディング プロジェクト",
+          "linking": [
+            "for は弱形 /fɔr/、the は弱形 /ðə/",
+            "building の末尾 /ŋ/ が project の初頭 /p/ に連結しない（鼻音+子音で未開放）[ˈbɪldɪŋ ˈprɑdʒɛkt] ビルディング プロジェクト"
+          ]
+        },
+        {
+          "en": "They will be blending colored dyes when we arrive at the workshop.",
+          "ja": "ワークショップに着いたとき、彼らは色付きの染料を混ぜているでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈblɛndɪŋ ˈkʌlərd daɪz wɛn wi əˈraɪv æt ðə ˈwɜrkʃɑp/",
+          "kana": "ザイ ウィル ビー ブレンディング カラード ダイズ フェン ウィ アライヴ アット ザ ワークショップ",
+          "linking": [
+            "the は弱形 /ðə/ [ðə ˈkʌlərd] ザ カラード",
+            "when は voiceless /ʍ/ [ʍɛn] フェン",
+            "at は短い [æt] アット"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have blended",
+      "ipa": "/wɪl həv ˈblɛndɪd/",
+      "examples": [
+        {
+          "en": "By next week, we'll have blended all the potions for the adventure.",
+          "ja": "来週までに、冒険のためのすべてのポーションを混ぜ終わっているでしょう。",
+          "ipa": "/baɪ ˈnɛkst wik wɪl həv ˈblɛndɪd ɔl ðə ˈpoʊʃənz fɔr ðə ədˈvɛntʃər/",
+          "kana": "バイ ネクスト ウィーク ウィル ハヴ ブレンディド オール ザ ポーションズ フォー ザ アドベンチャー",
+          "linking": [
+            "will have の have は弱形 /həv/ ハヴ",
+            "for は弱形 /fɔr/、the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "He will have blended several shades of concrete by the time his project is finished.",
+          "ja": "彼のプロジェクトが完成するまでに、彼はコンクリートのいくつかの色合いを混ぜ終わっているでしょう。",
+          "ipa": "/hi wɪl həv ˈblɛndɪd ˈsɛvərəl ʃeɪdz əv ˈkɑnkrit baɪ ðə taɪm hɪz ˈprɑdʒɛkt ɪz ˈfɪnɪʃt/",
+          "kana": "ヒー ウィル ハヴ ブレンディド セヴラル シェイズ アヴ コンクリート バイ ザ タイム ヒズ プロジェクト イズ フィニシット",
+          "linking": [
+            "will have の have は弱形 /həv/ ハヴ",
+            "of は弱形 /əv/ アヴ、the は弱形 /ðə/",
+            "is は弱形 /ɪz/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has blended",
+      "ipa": "/ˈhæz ˈblɛndɪd/",
+      "examples": [
+        {
+          "en": "We have blended several types of stone to create a unique texture.",
+          "ja": "私たちは、ユニークなテクスチャーを作るために複数のタイプの石を混ぜてきました。",
+          "ipa": "/wi həv ˈblɛndɪd ˈsɛvrəl ˈtaɪps əv stoʊn tə kriˈeɪt ə juˈnik ˈtɛkstʃər/",
+          "linking": [
+            "have は弱形 /həv/",
+            "of は弱形 /əv/ [ˈtaɪps əv] タイプス アヴ",
+            "stone to - to は弱形 /tə/ [stoʊn tə] ストーン タ",
+            "create a - create の末尾 /t/ が a の初頭 /ə/ に連結 [kriˈeɪt ə] クリエイタ"
+          ],
+          "kana": "ウィ ハヴ ブレンディド セヴラル タイプス アヴ ストーン タ クリエイタ ユニック テクスチャー"
+        },
+        {
+          "en": "The colors have blended together perfectly over time.",
+          "ja": "色は時間とともに完全に混ざり合ってきました。",
+          "ipa": "/ðə ˈkʌlərz həv ˈblɛndɪd təˈɡɛðər ˈpɚfɪktli ˈoʊvɚ ˈtaɪm/",
+          "linking": [
+            "the は弱形 /ðə/、have は弱形 /həv/",
+            "together の to は弱形 /tə/ [təˈɡɛðər] タゲザー",
+            "perfectly - 中間の /t/ がフラップ化して [ˈpɚfɪɾli] パーフェラリー"
+          ],
+          "kana": "ザ カラーズ ハヴ ブレンディド タゲザー パーフェラリー オーヴァー タイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had blended",
+      "ipa": "/ˈhæd ˈblɛndɪd/",
+      "examples": [
+        {
+          "en": "After we had blended the materials, we applied them to the walls.",
+          "ja": "材料を混ぜた後、私たちはそれらを壁に適用しました。",
+          "ipa": "/ˈæftɚ wi həd ˈblɛndɪd ðə məˈtɪriəlz wi əˈplaɪd ðəm tə ðə wɔlz/",
+          "linking": [
+            "had は弱形 /həd/ [wi həd] ウィ ハド",
+            "the は弱形 /ðə/ [ðə məˈtɪ] ザ マテリアルズ",
+            "to は弱形 /tə/、the は弱形 /ðə/ [tə ðə] タ ザ"
+          ],
+          "kana": "アフター ウィ ハド ブレンディド ザ マテリアルズ ウィ アプライド ザム タ ザ ウォールズ"
+        },
+        {
+          "en": "By the time the redstone activated, the dyes had blended completely.",
+          "ja": "レッドストーンが起動した時までに、染料は完全に混ざっていました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈrɛdstoʊn ˈæktɪveɪtɪd ðə ˈdaɪz həd ˈblɛndɪd kəmˈpliːtli/",
+          "linking": [
+            "the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "time the - time の末尾 /m/ が the の初頭 /ð/ に流れる [taɪm ðə] タイム ザ",
+            "had は弱形 /həd/ [daɪz həd] ダイズ ハド"
+          ],
+          "kana": "バイ ザ タイム ザ レッドストーン アクティベイティド ザ ダイズ ハド ブレンディド コムプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been blending",
+      "ipa": "/ˈhæz bɪn ˈblɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The builder has been blending different block types to create a gradient.",
+          "ja": "ビルダーはグラデーションを作るために異なるブロックタイプを混ぜ続けています。",
+          "ipa": "/ðə ˈbɪldər həz bɪn ˈblɛndɪŋ ˈdɪfərənt blɑk ˈtaɪps tə kriˈeɪt ə ˈɡreɪdiənt/",
+          "linking": [
+            "the は弱形 /ðə/、has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "to は弱形 /tə/ [ˈtaɪps tə] タイプス タ",
+            "create a - create の末尾 /t/ が a の初頭 /ə/ に連結 [kriˈeɪt ə] クリエイタ"
+          ],
+          "kana": "ザ ビルダー ハズ ビン ブレンディング ディフレント ブロック タイプス タ クリエイト ア グレイディアント"
+        },
+        {
+          "en": "They have been blending colors in the artistic section for hours.",
+          "ja": "彼らはアート部分で何時間も色を混ぜ続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈblɛndɪŋ ˈkʌlərz ɪn ðə ɑrˈtɪstɪk ˈsɛkʃən fɔr ˈaʊərz/",
+          "linking": [
+            "have は弱形 /həv/、been は弱形 /bɪn/ [ðeɪ həv bɪn] ゼイ ハヴ ビン",
+            "the は弱形 /ðə/ [ɪn ðə] イン ザ",
+            "for は弱形 /fɔr/ [ˈsɛkʃən fɔr] セクション ファー"
+          ],
+          "kana": "ゼイ ハヴ ビン ブレンディング カラーズ イン ザ アーティスティック セクション ファー アウアーズ"
+        }
+      ]
+    }
   ]
 }

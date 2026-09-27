@@ -197,6 +197,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is restraining",
+      "ipa": "/ɪz rɪˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "He is restraining the creeper with blocks of obsidian.",
+          "ja": "彼はブロック状の黒曜石でクリーパーを抑制している。",
+          "ipa": "/hi ɪz rɪˈstreɪnɪŋ ðə ˈkripər wɪð blɑks əv ɑbˈsɪdiən/",
+          "kana": "ヒー イズ リストレイニング ザ クリーパー ウィズ ブロックス アヴ オブシディアン",
+          "linking": [
+            "助動詞 \"is\" は弱形 /ɪz/「イズ」で restraining に続く",
+            "\"blocks of\" → 語末子音 /s/ が弱形 \"of\" /əv/ の /ə/ に連結 [blɑksəv]「ブロックス アヴ」",
+            "\"the\" は弱形 /ðə/「ザ」、creeper の /k/ に連結 [ðə ˈkripər]",
+            "\"with\" の /ð/ と blocks の /b/ は子音+子音で連結しない"
+          ]
+        },
+        {
+          "en": "We are restraining the mob spawner with a containment structure.",
+          "ja": "私たちはモブスポーナーを隔離構造で抑制している。",
+          "ipa": "/wi ɚ rɪˈstreɪnɪŋ ðə ˈmɑb ˈspɔnɚ wɪð ə kənˈteɪnmənt ˈstrʌktʃɚ/",
+          "kana": "ウィ ア リストレイニング ザ モブ スポーナー ウィザ ア コンテインメント ストラクチャー",
+          "linking": [
+            "助動詞 \"are\" は弱形 /ɚ/「ア」で restraining に続く",
+            "\"the\" は弱形 /ðə/「ザ」、mob の /m/ に連結 [ðə ˈmɑb]",
+            "\"with a\" → with の語末子音 /ð/ が母音 /ə/ に連結 [wɪðə]「ウィザ」",
+            "\"a\" は弱形 /ə/「ア」、containment に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was restraining",
+      "ipa": "/wəz rɪˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "I was restraining the lava flow when the server lagged.",
+          "ja": "サーバーがラグった時、私は溶岩の流れを抑制していた。",
+          "ipa": "/aɪ wəz rɪˈstreɪnɪŋ ðə ˈlavə floʊ wɛn ðə ˈsɝvər læɡd/",
+          "kana": "アイ ワズ リストレイニング ザ ラーヴァ フロウ ウェン ザ サーヴァー ラッグド",
+          "linking": [
+            "助動詞 \"was\" は弱形 /wəz/「ワズ」で restraining に続く",
+            "\"the\" は弱形 /ðə/「ザ」、lava の /l/ に連結 [ðə ˈlavə]",
+            "\"lava\" の語末 /ə/ が flow の /f/ に続く（母音+子音で連結しない）",
+            "\"when\" の /n/ が the の /ð/ に続く子音+子音で連結なし"
+          ]
+        },
+        {
+          "en": "They were restraining the zombie horde with their tower defense.",
+          "ja": "彼らはゾンビの軍団をタワーディフェンスで抑制していた。",
+          "ipa": "/ðeɪ wɚ rɪˈstreɪnɪŋ ðə ˈzɑmbi ˈhɔrd wɪð ðɛɚ ˈtaʊɚ dɪˈfɛns/",
+          "kana": "ザイ ワー リストレイニング ザ ゾンビ ホード ウィズ ザエア タワー ディフェンス",
+          "linking": [
+            "助動詞 \"were\" は弱形 /wɚ/「ワー」で restraining に続く",
+            "\"the\" は弱形 /ðə/「ザ」、zombie の /z/ に連結 [ðə ˈzɑmbi]",
+            "\"their\" の /ɚ/ が tower の /t/ に続く（r色 + 子音で連結なし）",
+            "\"tower\" の語末 /ɚ/ から defense へ続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been restraining",
+      "ipa": "/həd bɪn rɪˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "She had been restraining the wither for ten minutes before it broke through.",
+          "ja": "それが突き抜ける前に、彼女は10分間ウィザーを抑制していた。",
+          "ipa": "/ʃi həd bɪn rɪˈstreɪnɪŋ ðə ˈwɪðɚ fɔr tɛn ˈmɪnɪts bɪˈfɔr ɪt broʊk θru/",
+          "kana": "シー ハド ビン リストレイニング ザ ウィザー フォー テン ミニッツ ビフォー イット ブロウク スルー",
+          "linking": [
+            "助動詞 \"had\" は弱形 /həd/「ハド」、\"been\" も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "\"been\" の /n/ と restraining の /r/ は子音+子音で連結なし",
+            "\"the\" は弱形 /ðə/「ザ」、wither の /w/ に連結 [ðə ˈwɪðɚ]",
+            "\"before\" の語末 /r/ が it の /ɪ/ に連結 [bɪˈfɔrɪt]「ビフォー イット」"
+          ]
+        },
+        {
+          "en": "The mods had been restraining the griefers since the server opened.",
+          "ja": "モッズはサーバーが開いて以来、グリーファーを抑制していた。",
+          "ipa": "/ðə ˈmɑdz həd bɪn rɪˈstreɪnɪŋ ðə ˈɡrifərz sɪns ðə ˈsɝvər ˈoʊpənd/",
+          "kana": "ザ モッズ ハド ビン リストレイニング ザ グリーファーズ シンス ザ サーヴァー オウペンド",
+          "linking": [
+            "助動詞 \"had\" は弱形 /həd/「ハド」、\"been\" も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "\"been restraining\" → 語末 /n/ が /r/ に続く子音+子音で連結なし",
+            "\"the\" は弱形 /ðə/「ザ」（2回出現）、griefers と server の語頭に未開放",
+            "\"griefers\" の語末 /z/ が since の /s/ に続く子音+子音で連結なし"
+          ]
+        }
+      ]
     }
   ]
 }

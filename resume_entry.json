@@ -368,6 +368,98 @@
           "kana": "シー ハズ ビン リズーミング ハー ビルディング プロジェクツ オール アフターヌーン"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will resume",
+      "ipa": "/wɪl rɪˈzum/",
+      "examples": [
+        {
+          "en": "I will resume mining after I collect more resources.",
+          "ja": "もっとリソースを集めた後、マイニングを再開します。",
+          "ipa": "/aɪ wɪl rɪˈzum ˈmaɪnɪŋ ˈæftɚ aɪ kəˈlɛkt mɔr ˈɹɪˌsɔɹsɪz/",
+          "linking": [
+            "mining の語末 /ŋ/ が after の母音 /æ/ に連結 [ˈmaɪnɪŋ æftɚ] マイニング アフター",
+            "collect の語末 /t/ が more の /m/ に接するため未開放で [kəˈlɛkt̚ mɔr] コレクッ モア"
+          ],
+          "kana": "アイ ウィル リズーム マイニング アフター アイ コレクッ モア リソーシズ"
+        },
+        {
+          "en": "They will resume building their fortress next week.",
+          "ja": "彼らは来週、要塞の建築を再開します。",
+          "ipa": "/ðeɪ wɪl rɪˈzum ˈbɪldɪŋ ðɛr ˈfɔɹtɪs ˈnɛkst ˈwik/",
+          "linking": [
+            "will は /wɪl/ ウィル",
+            "building の語末 /ŋ/ が their の /ð/ に自然に続く [ˈbɪldɪŋ ðɛr] ビルディング ゼア",
+            "next の語末 /t/ は未開放で week の /w/ に続く [ˈnɛkst̚ ˈwik] ネクスッ ウィーク"
+          ],
+          "kana": "ゼイ ウィル リズーム ビルディング ゼア フォーティス ネクスッ ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be resuming",
+      "ipa": "/wɪl bi rɪˈzumɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be resuming our farm work when the rain stops.",
+          "ja": "雨が止まったら、私たちは農場作業を再開しているでしょう。",
+          "ipa": "/wil bi rɪˈzumɪŋ ˈaʊɚ ˈfɑɹm ˈwɚk wɛn ðə ˈreɪn ˈstɑps/",
+          "linking": [
+            "we'll は we + will の縮約で /wɪl/ ウィル（or /wəl/）",
+            "resuming の語末 /ŋ/ が our の母音 /aʊ/ に連結 [rɪˈzumɪŋ ˈaʊɚ] リズーミング アワー",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル ビー リズーミング アワー ファーム ワーク ウェン ザ レイン ストップス"
+        },
+        {
+          "en": "He will be resuming construction of the fortress when we arrive.",
+          "ja": "私たちが到着したら、彼は要塞の建築を再開しているでしょう。",
+          "ipa": "/hi wɪl bi rɪˈzumɪŋ kənˈstrʌkʃən əv ðə ˈfɔɹtɪs wɛn wi əˈɹaɪv/",
+          "linking": [
+            "will は /wɪl/ ウィル",
+            "be は弱形 /bɪ/ or /bi/ ビー",
+            "construction の語末 /n/ が of の弱形母音 /ə/ に連結 [kənˈstrʌkʃən əv] コンストラクション アヴ",
+            "of は弱形 /əv/ アヴ、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒー ウィル ビー リズーミング コンストラクション アヴ ザ フォーティス ウェン ウィ アライヴ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have resumed",
+      "ipa": "/wɪl həv rɪˈzumd/",
+      "examples": [
+        {
+          "en": "By next Tuesday, I will have resumed all my mining operations.",
+          "ja": "来週の火曜日までに、私は全てのマイニング作業を再開しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈtuzdeɪ aɪ wɪl həv rɪˈzumd ɔl maɪ ˈmaɪnɪŋ ˌɑpəˈɹeɪʃənz/",
+          "linking": [
+            "next の語末 /t/ が Tuesday の /t/ に接し、未開放で1つの /t/ に聞こえる [ˈnɛkst̚ ˈtuzdeɪ] ネクスッ チューズデイ",
+            "have は弱形 /həv/ ハヴ",
+            "resumed の語末 /d/ が all の母音 /ɔ/ に連結 [rɪˈzumd ɔl] リズューム オール",
+            "mining の語末 /ŋ/ が operations の母音 /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑpəˈɹeɪʃənz] マイニング オペレーションズ"
+          ],
+          "kana": "バイ ネクスッ チューズデイ アイ ウィル ハヴ リズューム オール マイ マイニング オペレーションズ"
+        },
+        {
+          "en": "When you log back in, the server will have resumed all operations.",
+          "ja": "あなたがログインして戻ったとき、サーバーは全ての動作を再開しているでしょう。",
+          "ipa": "/wɛn ju ˈlɑg ˈbæk ˈɪn ðə ˈsɚvɚ wɪl həv rɪˈzumd ɔl ˌɑpəˈɹeɪʃənz/",
+          "linking": [
+            "back の語末 /k/ が in の母音 /ɪ/ に連結 [ˈbæk ɪn] バック イン",
+            "the は弱形 /ðə/ ザ",
+            "have は弱形 /həv/ ハヴ",
+            "resumed の語末 /d/ が all の母音 /ɔ/ に連結 [rɪˈzumd ɔl] リズューム オール"
+          ],
+          "kana": "ウェン ユー ログ バック イン ザ サーバー ウィル ハヴ リズューム オール オペレーションズ"
+        }
+      ]
     }
   ]
 }

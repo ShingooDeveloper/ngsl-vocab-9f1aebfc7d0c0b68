@@ -184,6 +184,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/am/are + -ing）",
+      "text": "is injecting",
+      "ipa": "/ɪz ɪnˈdʒɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "The water pump is injecting liquid into the chamber continuously.",
+          "ja": "水ポンプは継続的にチャンバーに液体を注入しています。",
+          "ipa": "/ðə ˈwɔ.ɾɚ ˈpʌmp ɪz ɪnˈdʒɛk.tɪŋ ˈlɪk.wɪd ˈɪn.tu ðə ˈtʃeɪm.bɚ ˌkɑn.tɪn.ju.əs.li/",
+          "kana": "ザ ウォーラー パンプ イズ インジェクティング リクウィド イナ ザ チェイムバー コンティニュアスリー",
+          "linking": [
+            "「the water」: the は子音前の弱形 /ðə/ [ðə]→「ザ」、water の /t/ がフラップ化 [ˈwɔ.ɾɚ]→「ウォーラー」",
+            "「pump is」: pump の語末 /p/ が is の /ɪ/ に連結 [ˈpʌmp ɪz]→「パンプ イズ」",
+            "「is injecting」: is は機能語で弱形 /ɪz/ [ɪz]→「イズ」、injecting の /ɪ/ に続く",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は子音前弱形"
+          ]
+        },
+        {
+          "en": "A dispenser is injecting redstone dust into the hopper every pulse.",
+          "ja": "ディスペンサーはパルスごとにレッドストーンダストをホッパーに注入しています。",
+          "ipa": "/ə dɪˈspɛn.sɚ ɪz ɪnˈdʒɛk.tɪŋ ˈrɛd.stoʊn ˈdʌst ˈɪn.tu ðə ˈhɑ.pɚ ˈɛv.ɚi ˈpʌls/",
+          "kana": "ア ディスペンサー イズ インジェクティング レッドストーン ダスト イナ ザ ハッパー エブリ パルス",
+          "linking": [
+            "「A dispenser」: a は弱形 /ə/ [ə]→「ア」",
+            "「dispenser is」: dispenser の語末 /ɚ/ が is の /ɪ/ に連結 [dɪˈspɛn.sɚ ɪz]→「ディスペンサー イズ」",
+            "「is injecting」: is は弱形 /ɪz/ [ɪz]→「イズ」、母音連接",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was injecting",
+      "ipa": "/wəz ɪnˈdʒɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "While I was injecting dye into the stream, a creeper suddenly appeared.",
+          "ja": "水流に染料を注入している間に、クリーパーが突然現れました。",
+          "ipa": "/waɪl aɪ wəz ɪnˈdʒɛk.tɪŋ ˈdaɪ ˈɪn.tu ðə ˈstrim ə ˈkri.pɚ ˈsʌd.ən.li əˈpɪrd/",
+          "kana": "ワイル アイ ワズ インジェクティング ダイ イナ ザ ストリーム ア クリーパー サッデンリー アピアード",
+          "linking": [
+            "「I was」: was は機能語で弱形 /wəz/ [aɪ wəz]→「アイ ワズ」",
+            "「was injecting」: was は弱形 /wəz/ [wəz]→「ワズ」、injecting の /ɪ/ に続く母音連接",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は子音前弱形",
+            "「stream a」: stream の語末 /m/ が a の /ə/ に先行、a は弱形 [ˈstrim ə]→「ストリーム ア」"
+          ]
+        },
+        {
+          "en": "The machine was injecting fuel into the tank when it suddenly broke.",
+          "ja": "機械がタンクに燃料を注入していた時、突然壊れてしまいました。",
+          "ipa": "/ðə məˈʃin wəz ɪnˈdʒɛk.tɪŋ ˈfju.əl ˈɪn.tu ðə ˈtæŋk wɛn ɪt ˈsʌd.ən.li ˈbɹoʊk/",
+          "kana": "ザ マシーン ワズ インジェクティング フューエル イナ ザ タンク ウェン イット サッデンリー ブロウク",
+          "linking": [
+            "「the machine」: the は子音前の弱形 /ðə/ [ðə]→「ザ」",
+            "「machine was」: machine の語末 /n/ が was の /w/ に先行 [məˈʃin wəz]→「マシーン ワズ」",
+            "「was injecting」: was は弱形 /wəz/ [wəz]→「ワズ」、母音連接",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は弱形"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been injecting",
+      "ipa": "/həd bɪn ɪnˈdʒɛk.tɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the admin arrived, the contraption had been injecting materials for hours.",
+          "ja": "管理者が到着するまでに、装置は何時間も材料を注入していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðɪ ˈæd.mɪn əˈraɪvd ðə kənˈtræp.ʃən həd bɪn ɪnˈdʒɛk.tɪŋ məˈtɪɹ.i.əlz fɚ ˈaʊɚz/",
+          "kana": "バイ ザ タイム ディ アドミン アライvド ザ コントラプション ハド ビン インジェクティング マティリアルズ フォー アワーズ",
+          "linking": [
+            "「By the」: the は子音前の弱形 /ðə/ [ðə]→「ザ」",
+            "「time the」: time の語末 /m/ が the の /ð/ に先行、the は弱形 [ˈtaɪm̚ ðɪ]→「タイム ディ」",
+            "「had been」: had は弱形 /həd/ [həd]→「ハド」、been は弱形 /bɪn/ [bɪn]→「ビン」、母音で連接",
+            "「for hours」: for は弱形 /fɚ/ [fɚ]→「フォー」、hours の /aʊ/ に続く"
+          ]
+        },
+        {
+          "en": "After they had been injecting power into the network, the redstone system finally activated.",
+          "ja": "彼らがネットワークに電力を注入し続けた後、レッドストーンシステムは最終的に起動しました。",
+          "ipa": "/ˈæf.tɚ ðeɪ həd bɪn ɪnˈdʒɛk.tɪŋ ˈpaʊ.ɚ ˈɪn.tu ðə ˈnɛt.wɝk ðə ˈrɛd.stoʊn ˈsɪs.təm ˈfaɪ.nə.li ˈæk.tɪ.veɪ.tɪd/",
+          "kana": "アフター ザイ ハド ビン インジェクティング パワー イナ ザ ネットワーク ザ レッドストーン システム ファイナリー アクティベイティド",
+          "linking": [
+            "「After they」: after の語末 /r/ が they の /ð/ に先行 [ˈæf.tɚ ðeɪ]→「アフター ザイ」",
+            "「they had」: they の /eɪ/ が had の /h/ に先行、had は弱形 /həd/ [ðeɪ həd]→「ザイ ハド」",
+            "「had been」: had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn]→「ハド ビン」",
+            "「into the」: into は弱形 /ɪnə/ [ˈɪn.tu ðə]→「イナ ザ」、the は弱形 /ðə/"
+          ]
+        }
+      ]
     }
   ]
 }

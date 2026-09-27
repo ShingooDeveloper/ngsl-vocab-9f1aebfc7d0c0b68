@@ -1,175 +1,148 @@
 {
   "word": "disabled",
-  "rank": 0,
-  "pos": "形容詞・動詞",
+  "pos": "形容詞",
   "pos_all": "形容詞・動詞",
   "ipa_us": "/dɪsˈeɪbəld/",
+  "rank": 0,
   "level": "B1",
-  "hi": "disabl(?:e[sd]?|ed|ing)",
+  "hi": "disabl(?:e[sd]?|ing)",
   "meanings": [
-    "【形容詞】unable to perform a normal function; having a physical or mental condition limiting activities（機能が停止された；身体的・精神的な制限により活動ができない）",
-    "【形容詞】(of a device or feature) turned off or made inoperative（デバイスや機能が無効にされた）",
-    "【動詞】to make unable to function; to deprive of power or effectiveness（機能を失わせる；無効にする）",
-    "【動詞】to damage or injure so that normal activity is prevented（けがなどで機能を失わせる）"
+    "【形容詞】機能していない、有効でない（...not working...inactive...）",
+    "【形容詞】身体的・精神的な障害のある（...with a disability...）",
+    "【動詞】機能不全にする、無効にする（...disable...turn off...）"
   ],
   "examples": [
     {
-      "en": "Creative mode is disabled on this survival server.",
-      "ja": "このサバイバルサーバーではクリエイティブモードが無効です。",
-      "ipa": "/kriˈeɪtɪv ˈmoʊd ɪz dɪsˈeɪbəld ɑn ðɪs sərˈvaɪvəl ˈsɜrvər/",
+      "en": "I disabled a spawner in my base.",
+      "ja": "私のベースのスポーナーを無効化しました。",
+      "ipa": "/aɪ dɪsˈeɪbəld ə ˈspɔːnər ɪn maɪ ˈbeɪs/",
+      "kana": "アイ ディセイバルダ スポーナー イン マイ ベイス",
       "linking": [
-        "is は弱形 /ɪz/ で、語末音 /z/ が disabled の /d/ に連結 [ɪz̚ dɪs]",
-        "disabled の語末子音 /d/ が on の母音 /ɑ/ に連結 [əld ɑn]",
-        "on は弱形 /ən/ に弱化"
-      ],
-      "kana": "クリエイティヴ モード イズディスエイブルド アン ディス サーヴァイヴァル サーヴァー"
+        "disabled a: /d/ が weak /ə/ に連結 [dɪsˈeɪbəldə]→「ディセイバルダ」"
+      ]
     },
     {
-      "en": "The admin disabled all teleportation commands.",
-      "ja": "管理者がすべてのテレポートコマンドを無効にしました。",
-      "ipa": "/ðə ˈædmɪn dɪsˈeɪbəld ɔl ˌtɛləˈpɔrˈteɪʃən ˈkɑmænz/",
+      "en": "This circuit is disabled.",
+      "ja": "このサーキットは無効になっています。",
+      "ipa": "/ðɪs ˈsɝːkɪt ɪz dɪsˈeɪbəld/",
+      "kana": "ディス サーキリズ ディセイバルド",
       "linking": [
-        "the は弱形 /ðə/ で、語末音 /ð/ が admin の /æ/ に連結 [ðə ˈædmɪn]",
-        "disabled の語末子音 /d/ が all の母音 /ɔ/ に連結 [əld ɔl]",
-        "commands の語末 /z/ が未開放"
-      ],
-      "kana": "ザ アドミン ディスエイブルド オール テレポーテイション コマンズ"
+        "circuit is: /t/ が /ɪ/ に挟まれてフラップ化し [ˈsɝːkɪɾɪz]→「サーキリズ」"
+      ]
     },
     {
-      "en": "I disabled the fall damage so my items won't drop.",
-      "ja": "アイテムが落ちないよう落下ダメージを無効にしました。",
-      "ipa": "/aɪ dɪsˈeɪbəld ðə fɔl ˈdæmɪdʒ soʊ maɪ ˈaɪtəmz ˈwoʊnt ˈdrɑp/",
+      "en": "We've disabled it now.",
+      "ja": "もう無効にしました。",
+      "ipa": "/wiv dɪsˈeɪbəld ɪt naʊ/",
+      "kana": "ウィヴ ディセイバルディット ナウ",
       "linking": [
-        "disabled の語末子音 /d/ が the の /ð/ に連結し、the は弱形 /ðə/ [əl ðə]",
-        "fall の語末子音 /l/ が damage の /d/ に連結 [fɔl ˈdæmɪdʒ]",
-        "won't の語末 /t/ が drop の /d/ に連接し未開放 [woʊn̚t ˈdrɑp]"
-      ],
-      "kana": "アイ ディスエイブルド ザ フォール ダメッジ ソー マイ アイテムズ ウォン ドラップ"
+        "disabled it: /d/ が /ɪ/ に連結 [dɪsˈeɪbəldɪt]→「ディセイバルディット」；it の /t/ は未開放 [t̚]"
+      ]
     }
   ],
-  "idioms": [
-    {
-      "idiom": "disable by default",
-      "ja": "デフォルトで無効にする",
-      "example": "Mods are disabled by default until the admin approves them.",
-      "example_ja": "管理者が承認するまでモッドはデフォルトで無効です。",
-      "ipa": "/ˈmɑdz ɑr dɪsˈeɪbəld baɪ dɪˈfɔlt əntɪl ði ˈædmɪn əˈpruːvz ðɛm/",
-      "linking": [
-        "are は弱形 /ər/ で、語末音が disabled の /d/ に連結 [ər dɪs]",
-        "default の語末 /t/ が until の母音に連結し、until は弱形 /əntɪl/ [ˈfɔlt ən tɪl]",
-        "approves の語末子音 /z/ が them の /ð/ に連結 [əpruːvz ðɛm]"
-      ],
-      "kana": "モッズ アー ディスエイブルド バイ ディフォルト アンティル ザ アドミン アプルーヴズ ゼム"
-    },
-    {
-      "idiom": "have disabled",
-      "ja": "〜を無効にしてある",
-      "example": "I have disabled PvP so the world stays peaceful.",
-      "example_ja": "ワールドが平和に保たれるようにPvPを無効にしてあります。",
-      "ipa": "/aɪ həv dɪsˈeɪbəld ˈpiːˌviːˈpiː soʊ ðə ˈwɜrld steɪz ˈpiːsfəl/",
-      "linking": [
-        "have は弱形 /həv/ で、語末音 /v/ が disabled の /d/ に連結 [həv dɪs]",
-        "the は弱形 /ðə/ で、語末音が world の /w/ に連結 [ðə ˈwɜrld]",
-        "stays の語末子音 /z/ が peaceful の /p/ に連結 [steɪz ˈpiːsfəl]"
-      ],
-      "kana": "アイ ハヴディスエイブルド ピーヴィーピー ソー ザ ワールド ステイズ ピースフル"
-    },
-    {
-      "idiom": "get disabled",
-      "ja": "無効にされる",
-      "example": "Your account will get disabled if you use hacks.",
-      "example_ja": "ハックを使用するとアカウントが無効にされます。",
-      "ipa": "/jɔr əˈkaʊnt wɪl ɡɛt dɪsˈeɪbəld ɪf juː juːz ˈhæks/",
-      "linking": [
-        "account は /əˈkaʊnt/ で t が未開放となり disabled の /d/ に連接 [n̚t dɪs]",
-        "get は /ɡɛt/ で t が未開放、disabled の /d/ に連接 [ɡɛt̚ dɪs]",
-        "hacks の語末 /s/ が文末で未開放"
-      ],
-      "kana": "ユアー アカウント ウィル ゲット ディスエイブルド イフ ユー ユーズ ハックス"
-    }
-  ],
+  "idioms": [],
   "forms": [
     {
-      "form": "disables",
-      "pos": "動詞・3人称単数現在形",
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "disables",
+      "ipa": "/dɪsˈeɪbəlz/",
       "examples": [
         {
-          "en": "The plugin disables flying in survival mode.",
-          "ja": "プラグインがサバイバルモードで飛行を無効にします。",
-          "ipa": "/ðə ˈplʌɡɪn dɪsˈeɪbəlz ˈflaɪɪŋ ɪn sərˈvaɪvəl ˈmoʊd/",
+          "en": "He disables the spawner.",
+          "ja": "彼はスポーナーを無効化します。",
+          "ipa": "/hi dɪsˈeɪbəlz ðə ˈspɔːnər/",
+          "kana": "ヒー ディセイバルズ ザ スポーナー",
           "linking": [
-            "the は弱形 /ðə/ で、plugin の /p/ に連結 [ðə ˈplʌɡɪn]",
-            "disables の語末子音 /z/ が flying の /f/ に連結 [əlz ˈflaɪɪŋ]",
-            "survival の語末音が mode の /m/ に連結 [əl ˈmoʊd]"
-          ],
-          "kana": "ザ プラギン ディスエイブルズ フライイング イン サーヴァイヴァル モード"
+            "disables the: /z/ が /ð/ に連結"
+          ]
         },
         {
-          "en": "This config disables all redstone machines.",
-          "ja": "このコンフィグはすべてのレッドストーンマシンを無効にします。",
-          "ipa": "/ðɪs ˈkɑnfɪɡ dɪsˈeɪbəlz ɔl ˈrɛdˌstoʊn məˈʃiːnz/",
+          "en": "Steve disables all traps.",
+          "ja": "スティーヴは全てのトラップを無効化します。",
+          "ipa": "/stiv dɪsˈeɪbəlz ɔːl ˈtɹæps/",
+          "kana": "スティーヴ ディセイバルズ オール トレップス",
           "linking": [
-            "config の語末 /ɡ/ が未開放となり disables の /d/ に連接 [ɡ̚ dɪs]",
-            "disables の語末子音 /z/ が all の /ɔ/ に連結 [əlz ɔl]",
-            "machines の語末 /z/ が未開放"
-          ],
-          "kana": "ディス コンフィグ ディスエイブルズ オール レッドストーン マシーンズ"
+            "disables all: /z/ が /ɔː/ に連結 [dɪsˈeɪbəlzɔːl]→「ディセイバルズオール」"
+          ]
         }
       ]
     },
     {
-      "form": "disabled",
-      "pos": "動詞・過去形、形容詞",
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "disabled",
+      "ipa": "/dɪsˈeɪbəld/",
       "examples": [
         {
-          "en": "I disabled the mob spawner by breaking it.",
-          "ja": "モブスポーナーを壊して無効にしました。",
-          "ipa": "/aɪ dɪsˈeɪbəld ðə ˈmɑb ˈspoʊnər baɪ ˈbreɪkɪŋ ɪt/",
+          "en": "We disabled the redstone trap.",
+          "ja": "私たちはレッドストーンのトラップを無効化しました。",
+          "ipa": "/wi dɪsˈeɪbəld ðə ˈɹɛdˌstoʊn ˈtɹæp/",
+          "kana": "ウィ ディセイバルド ザ レッドストーン トラップ",
           "linking": [
-            "disabled の語末子音 /d/ が the の /ð/ に連結し、the は弱形 [əld ðə]",
-            "spawner は /ˈspoʊnər/ で語末 /r/ が by の /b/ に連結 [ər baɪ]",
-            "breaking の語末 /ŋ/ が it の /ɪ/ に連結 [ˈbreɪkɪŋ ɪt]"
-          ],
-          "kana": "アイ ディスエイブルド ザ モブ スポーナー バイ ブレイキング イット"
+            "disabled the: /d/ が /ð/ に連結"
+          ]
         },
         {
-          "en": "Someone disabled our base defenses.",
-          "ja": "誰かが我々の基地防御を無効にしました。",
-          "ipa": "/ˈsʌmˌwʌn dɪsˈeɪbəld ˈaʊər beɪs dɪˈfɛnsɪz/",
+          "en": "Once disabled, the piston door stopped.",
+          "ja": "一度無効化されると、ピストンドアが停止しました。",
+          "ipa": "/ʌns dɪsˈeɪbəld ðə ˈpɪstən ˈdɔːr ˈstɑpt/",
+          "kana": "ワンス ディセイバルド ザ ピスッン ドア ストップド",
           "linking": [
-            "someone の語末 /n/ が未開放となり disabled の /d/ に連接 [wʌn̚ dɪs]",
-            "disabled の語末子音 /d/ が our の /aʊ/ に連結 [əld ˈaʊər]",
-            "base の語末 /s/ が defenses の /d/ に連結 [beɪs dɪˈfɛnsɪz]"
-          ],
-          "kana": "サムワン ディスエイブルド アワー ベイス ディフェンシズ"
+            "disabled the: /d/ が /ð/ に連結"
+          ]
         }
       ]
     },
     {
-      "form": "disabling",
-      "pos": "動詞・現在分詞、動名詞",
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "disabled",
+      "ipa": "/dɪsˈeɪbəld/",
       "examples": [
         {
-          "en": "Disabling this mod will break your save file.",
-          "ja": "このモッドを無効にするとセーブファイルが壊れます。",
-          "ipa": "/dɪsˈeɪbəlɪŋ ðɪs ˈmɑd wɪl ˈbreɪk jɔr ˈseɪv ˈfaɪl/",
+          "en": "The spawner has been disabled.",
+          "ja": "スポーナーは無効化されています。",
+          "ipa": "/ðə ˈspɔːnər hæz bɪn dɪsˈeɪbəld/",
+          "kana": "ザ スポーナー ハズ ビン ディセイバルド",
           "linking": [
-            "disabling の語末 /ŋ/ が this の /ð/ に連結し、this は /ðɪs/ [ɪŋ ðɪs]",
-            "will は /wɪl/ で弱形なし、break の /b/ に連結 [ɪl ˈbreɪk]",
-            "your は弱形 /jɔr/ で、save の /s/ に連結 [jɔr ˈseɪv]"
-          ],
-          "kana": "ディスエイブリング ディス モッド ウィル ブレイク ユアー セイヴ ファイル"
+            "been disabled: /n/ が /d/ に未開放で連接 [bɪn̚ dɪsˈeɪbəld]→「ビン・ディセイバルド」"
+          ]
         },
         {
-          "en": "Disabling fall damage makes building easier.",
-          "ja": "落下ダメージを無効にするとビルディングが簡単になります。",
-          "ipa": "/dɪsˈeɪbəlɪŋ fɔl ˈdæmɪdʒ ˈmeɪks ˈbɪldɪŋ ˈiːziər/",
+          "en": "With the trap disabled, we walked through.",
+          "ja": "トラップが無効化されていて、私たちは歩いて通りました。",
+          "ipa": "/wɪð ðə ˈtɹæp dɪsˈeɪbəld wi ˈwɔːkt θɹu/",
+          "kana": "ウィザ ザ トラップ ディセイバルド ウィ ウォーク スルー",
           "linking": [
-            "disabling の語末 /ŋ/ が fall の /f/ に連結 [ɪŋ fɔl]",
-            "damage は /ˈdæmɪdʒ/ で語末 /ʒ/ が makes の /m/ に連結 [ˈdæmɪdʒ ˈmeɪks]",
-            "building は /ˈbɪldɪŋ/ で語末 /ŋ/ が easier の /iː/ に連結 [ˈbɪldɪŋ ˈiːziər]"
-          ],
-          "kana": "ディスエイブリング フォール ダメッジ メイクス ビルディング イージアー"
+            "trap disabled: /p/ が /d/ に未開放で連接；/d/ が /w/ に連結 [ˈtɹæp̚ dɪsˈeɪbəld wɪ]→「トラップ・ディセイバルドゥイ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（-ing形）",
+      "text": "disabling",
+      "ipa": "/dɪsˈeɪblɪŋ/",
+      "examples": [
+        {
+          "en": "We're disabling the trap now.",
+          "ja": "今、トラップを無効化しています。",
+          "ipa": "/wɪɹ dɪsˈeɪblɪŋ ðə ˈtɹæp naʊ/",
+          "kana": "ウィア ディセイブリン ザ トラップ ナウ",
+          "linking": [
+            "disabling the: /ŋ/ が /ð/ に連結 [dɪsˈeɪblɪŋðə]→「ディセイブリンザ」；the は弱形 /ðə/"
+          ]
+        },
+        {
+          "en": "Disabling the circuit stops the farm.",
+          "ja": "サーキットを無効化することで、ファームが停止します。",
+          "ipa": "/dɪsˈeɪblɪŋ ðə ˈsɝːkɪt ˈstɑps ðə ˈfɑɹm/",
+          "kana": "ディセイブリン ザ サーキリッ ストップス ザ ファーム",
+          "linking": [
+            "disabling the: /ŋ/ が /ð/ に連結；circuit stops: /t/ が母音に続いているためフラップ化"
+          ]
         }
       ]
     }

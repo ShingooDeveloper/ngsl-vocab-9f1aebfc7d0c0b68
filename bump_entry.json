@@ -89,6 +89,102 @@
   ],
   "forms": [
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is bumping",
+      "ipa": "/ɪz ˈbʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "A mob is bumping into the fence while we're mining nearby.",
+          "ja": "採掘中に、モブがフェンスにぶつかっている。",
+          "ipa": "/ə ˈmoʊb ɪz ˈbʌmpɪŋ ˈɪntu ðə ˈfɛns ˈwaɪl wir ˈmaɪnɪŋ ˈnɪrbaɪ/",
+          "linking": [
+            "is bumping - is は弱形 /ɪz/、bumping は /b/ で子音、連結なし [イズ バンピング]",
+            "bumping into - bumping の語末 /ŋ/ が into の母音 /ɪ/ に連結 [ˈbʌmpɪŋɪntu]",
+            "the は弱形 /ðə/、fence は /f/ で子音 [ザ フェンス]",
+            "while we're - while は /ˈwaɪl/、we're は /wir/。語末 /l/ が /w/ に...実は子音+子音で連結なし"
+          ],
+          "kana": "ア モウブ イズ バンピング イントゥ ザ フェンス ワイル ウィア マイニング ニアーバイ"
+        },
+        {
+          "en": "Our minecart is bumping along the rails as we explore.",
+          "ja": "私たちのマインカートがレールに沿ってガタゴト進んでいる。",
+          "ipa": "/ˈaʊɚ ˈmaɪnˌkɑrt ɪz ˈbʌmpɪŋ əˈlɔŋ ðə ˈreɪlz əz wi ɪkˈsplɔr/",
+          "linking": [
+            "is bumping - is は弱形 /ɪz/、bumping は /b/ で子音、連結なし [イズ バンピング]",
+            "bumping along - bumping の語末 /ŋ/ が along の母音 /ə/ に連結 [ˈbʌmpɪŋəlɔŋ]",
+            "the は弱形 /ðə/、rails は /r/ で子音 [ザ レイルズ]",
+            "as は弱形 /əz/、we は /wi/。/z/ + /w/ で子音+子音、連結なし"
+          ],
+          "kana": "アワー マインカート イズ バンピング アロング ザ レイルズ アズ ウィ イクスプロア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was bumping",
+      "ipa": "/wəz ˈbʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The cart was bumping down the track when we encountered a ravine.",
+          "ja": "峡谷に遭遇したとき、カートはトラックを下ってガタゴト進んでいた。",
+          "ipa": "/ðə ˈkɑrt wəz ˈbʌmpɪŋ ˈdaʊn ðə ˈtræk ˈwɛn wi ɪnˈkaʊntərd ə ræˈvin/",
+          "linking": [
+            "was bumping - was は弱形 /wəz/、bumping は /b/ で子音、連結なし [ワズ バンピング]",
+            "bumping down - bumping は /ŋ/、down は /d/。子音+子音で連結なし",
+            "the は弱形 /ðə/、track は /t/ で子音 [ザ トラック]",
+            "when は /wɛn/、we は /wi/。/n/ + /w/ で子音+子音、連結なし"
+          ],
+          "kana": "ザ カート ワズ バンピング ダウン ザ トラック ウェン ウィ インカウンタード ア ラヴィーン"
+        },
+        {
+          "en": "We were bumping around in the dark cave when we found diamonds.",
+          "ja": "暗い洞窟で動き回っていたとき、ダイヤモンドを見つけた。",
+          "ipa": "/wi wɚ ˈbʌmpɪŋ əˈraʊnd ɪn ðə ˈdɑrk ˈkeɪv ˈwɛn wi ˈfaʊnd ˈdaɪmənz/",
+          "linking": [
+            "were bumping - were は弱形 /wɚ/、bumping は /b/ で子音、連結なし [ワー バンピング]",
+            "bumping around - bumping の語末 /ŋ/ が around の母音 /ə/ に連結 [ˈbʌmpɪŋəˈraʊnd]",
+            "the は弱形 /ðə/、dark は /d/ で子音 [ザ ダーク]",
+            "found diamonds - found は語末 /d/、diamonds は /d/。子音+子音で連結なし"
+          ],
+          "kana": "ウィ ワー バンピング アラウンド イン ザ ダーク ケイヴ ウェン ウィ ファウンド ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been bumping",
+      "ipa": "/həd bɪn ˈbʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs had been bumping into walls for hours before we fixed the farm.",
+          "ja": "農場を修理する前の数時間、モブたちは壁にぶつかっていた。",
+          "ipa": "/ðə ˈmoʊbz həd bɪn ˈbʌmpɪŋ ˈɪntu ˈwɔlz fɚ ˈaʊɚz bɪˈfɔr wi ˈfɪkst ðə ˈfɑrm/",
+          "linking": [
+            "had been - had は弱形 /həd/、been は弱形 /bɪn/ [ハド ビン]",
+            "been bumping - been は /bɪn/、bumping は /b/ で子音、連結なし [ビン バンピング]",
+            "bumping into - bumping の語末 /ŋ/ が into の母音 /ɪ/ に連結 [ˈbʌmpɪŋɪntu]",
+            "for hours - for は弱形 /fɚ/、hours は /ˈaʊɚz/。語末 /r/ が母音 /ˈa/ に連結 [ファー アワーズ]"
+          ],
+          "kana": "ザ モウブズ ハド ビン バンピング イントゥ ウォールズ ファー アワーズ ビフォア ウィ フィクスト ザ ファーム"
+        },
+        {
+          "en": "Our cart had been bumping along the rails for a long time before it finally broke.",
+          "ja": "最終的に壊れるまで、カートは長い間レールに沿ってガタゴト進んでいた。",
+          "ipa": "/ˈaʊɚ ˈkɑrt həd bɪn ˈbʌmpɪŋ əˈlɔŋ ðə ˈreɪlz fɚ ə ˈlɔŋ ˈtaɪm bɪˈfɔr ɪt ˈfaɪnəli ˈbroʊk/",
+          "linking": [
+            "had been - had は弱形 /həd/、been は弱形 /bɪn/ [ハド ビン]",
+            "been bumping - been は /bɪn/、bumping は /b/ で子音、連結なし [ビン バンピング]",
+            "bumping along - bumping の語末 /ŋ/ が along の母音 /ə/ に連結 [ˈbʌmpɪŋəlɔŋ]",
+            "for a - for は弱形 /fɚ/、a は弱形 /ə/。語末 /r/ が母音 /ə/ に連結 [ファー ア]"
+          ],
+          "kana": "アワー カート ハド ビン バンピング アロング ザ レイルズ ファー ア ロング タイム ビフォア イット ファイナリー ブロウク"
+        }
+      ]
+    },
+    {
       "type": "past_tense",
       "label": "過去形",
       "text": "bumped",
@@ -231,6 +327,102 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has bumped",
+      "ipa": "/həz ˈbʌmpt/",
+      "examples": [
+        {
+          "en": "I have bumped into the same creeper at least three times today.",
+          "ja": "今日、同じクリーパーに少なくとも3回ぶつかった。",
+          "ipa": "/aɪ əv ˈbʌmɾɪntə ðæt ˈseɪm ˈkripɚ ət ˈlist ˈθri ˈtaɪmz təˈdeɪ/",
+          "linking": [
+            "have は弱形 /əv/（助動詞）",
+            "bumped into → 語末子音 /t/ が母音 /ɪ/ に連結し、フラップ化 [ɾ]",
+            "the は弱形 /ðə/、same は /s/ で子音 [ðæt ˈseɪm]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "アイ アヴ バンプリントゥ ザット セイム クリーパー アット リースト スリー タイムズ タデイ"
+        },
+        {
+          "en": "This minecart has bumped off the rails multiple times in the last hour.",
+          "ja": "このマインカートはこの1時間で何度もレールから落ちた。",
+          "ipa": "/ðɪs ˈmaɪnˌkɑɹt həz ˈbʌmpt ˈɔf ðə ˈreɪlz ˈmʌltɪpəl ˈtaɪmz ɪn ðə ˈlæst ˈaʊɚ/",
+          "linking": [
+            "has は弱形 /həz/（助動詞）",
+            "bumped off → 語末子音 /t/ が母音 /ɔ/ に連結",
+            "the は弱形 /ðə/（rails の前）",
+            "in the → in は /ɪn/、the は弱形 /ðə/、/n/ + /ð/ で子音+子音"
+          ],
+          "kana": "ディス マインカート ハズ バンプト オフ ザ レイルズ マルティプル タイムズ イン ザ ラスト アワー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had bumped",
+      "ipa": "/həd ˈbʌmpt/",
+      "examples": [
+        {
+          "en": "Before I lost my inventory, I had bumped into a Wither boss accidentally.",
+          "ja": "インベントリを失う前に、誤ってウィザーボスにぶつかった。",
+          "ipa": "/bɪˈfoɹ aɪ ˈlɑst maɪ ˈɪnvənˌtɔɹi aɪ əd ˈbʌmɾɪntə ə ˈwɪðɚ ˈbɑs ˌæksɪˈdɛntəli/",
+          "linking": [
+            "had は弱形 /əd/（助動詞）、bumped は /b/ で子音 [əd ˈbʌmpt]",
+            "bumped into → 語末子音 /t/ が母音 /ɪ/ に連結し、フラップ化 [ɾ]",
+            "a は弱形 /ə/、Wither は /ˈwɪðɚ/、/ə/ + /w/ で連結なし"
+          ],
+          "kana": "ビフォア アイ ロスト マイ インベントリー アイ アド バンプリントゥ ア ウィザー ボス アクシデンタリー"
+        },
+        {
+          "en": "We had bumped the furnace over before the creeper even got close.",
+          "ja": "クリーパーが近づく前に、既に炉をぶつけて動かしていた。",
+          "ipa": "/wi əd ˈbʌmpt ðə ˈfɝːnɪs ˈoʊvɚ bɪˈfoɹ ðə ˈkɹiːpɚ ˈiːvən ɡɑt ˈkloʊs/",
+          "linking": [
+            "had は弱形 /əd/（助動詞）",
+            "bumped the → 語末子音 /t/ が子音 /ð/ の前で未開放 [ˈbʌm̚ pðə]",
+            "the は弱形 /ðə/（furnace の前）",
+            "over は /ˈoʊvɚ/、before は /bɪˈfoɹ/、子音+子音で連結なし",
+            "the は弱形 /ðə/（creeper の前）"
+          ],
+          "kana": "ウィ アド バンプト ザ ファーネス オーヴァー ビフォア ザ クリーパー イーヴン ゴット クロース"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been bumping",
+      "ipa": "/həz bɪn ˈbʌmpɪŋ/",
+      "examples": [
+        {
+          "en": "The endermen have been bumping into our structures all night.",
+          "ja": "エンダーマンは夜中ずっと私たちの構造物にぶつかり続けている。",
+          "ipa": "/ðə ˈɛndɚˌmɛn əv bɪn ˈbʌmpɪŋ ˈɪntə ˈaʊɚ ˈstrʌkʧɚz ɔːl naɪt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "have は弱形 /əv/、been は弱形 /bɪn/（助動詞）",
+            "bumping into → /ŋ/ は鼻音で既に母音 /ɪ/ に連なっている、特別な連結なし",
+            "our は /ˈaʊɚ/（r-coloring の /ɚ/）"
+          ],
+          "kana": "ザ エンダーメン アヴ ビン バンピング イントゥ アワー ストラクチャーズ オール ナイト"
+        },
+        {
+          "en": "You have been bumping that redstone repeater around to test it.",
+          "ja": "それをテストするために、そのレッドストーンリピーターをぶつけて動かし続けている。",
+          "ipa": "/ju əv bɪn ˈbʌmpɪŋ ðæt ˈrɛdˌstoʊn ɹɪˈpitɚ əˈɹaʊnd tə ˈtɛst ɪt/",
+          "linking": [
+            "have は弱形 /əv/、been は弱形 /bɪn/（助動詞）",
+            "bumping → /ŋ/ は鼻音、that は /ðæt/、子音+子音で連結なし",
+            "to は弱形 /tə/",
+            "test it → /t/ + /ɪ/ で連結し、フラップ化 [ɾ]"
+          ],
+          "kana": "ユー アヴ ビン バンピング ザット レッドストーン リピーター ァラウンド タ テスリット"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形",
       "text": "will bump",
@@ -239,25 +431,25 @@
         {
           "en": "I will bump into a creeper if I'm not careful in this dark cave.",
           "ja": "この暗い洞窟で気をつけなければクリーパーにぶつかるでしょう。",
-          "ipa": "/aɪ wəl ˈbʌmpɪntu ə ˈkripər ɪf aɪm nɑt ˈkɛrfəl ɪn ðɪs ˈdɑrk ˈkeɪv/",
+          "ipa": "/aɪ wəl ˈbʌmp ˈɪntu ə ˈkripər ɪf aɪm nɑt ˈkɛrfəl ɪn ðɪs ˈdɑrk ˈkeɪv/",
           "linking": [
             "will は弱形 /wəl/ に弱化 [ウル]",
-            "bump into - bump の語末 /p/ が into の母音 /ɪ/ に連結 [バンピントゥ]",
+            "bump into - bump の語末 /p/ が into の母音 /ɪ/ に連結 [バンピント イントゥ]",
             "if I'm - /f/ + /aɪ/ で連結、I'm は /aɪm/"
           ],
-          "kana": "アイ ウル バンピントゥ ア クリーパー イフ アイム ナット ケアフル イン ディス ダーク ケイヴ"
+          "kana": "アイ ウル バンピント イントゥ ア クリーパー イフ アイム ナット ケアフル イン ディス ダーク ケイヴ"
         },
         {
           "en": "They will bump into obstacles when they run too fast down this corridor.",
           "ja": "この廊下を速く走るとき、彼らは障害物にぶつかるでしょう。",
-          "ipa": "/ðeɪ wəl ˈbʌmpɪntu ˈɑbstəkəlz ˈwɛn ðeɪ ˈrʌn tu ˈfæst ˈdaʊn ðɪs ˈkɔrɪdər/",
+          "ipa": "/ðeɪ wəl ˈbʌmp ˈɪntu ˈɑbstəkəlz ˈwɛn ðeɪ ˈrʌn tu ˈfæst ˈdaʊn ðɪs ˈkɔrɪdər/",
           "linking": [
             "will は弱形 /wəl/ [ウル]",
-            "bump into - /p/ + /ɪ/ で連結 [バンピントゥ]",
+            "bump into - /p/ + /ɪ/ で連結 [バンピント イントゥ]",
             "to は弱形 /tə/ [タ]",
             "down this - /n/ + /ð/ で子音+子音"
           ],
-          "kana": "ザイ ウル バンピントゥ オブスタクルズ ウェン ザイ ラン タ ファスト ダウン ディス コリドー"
+          "kana": "ザイ ウル バンピント イントゥ オブスタクルズ ウェン ザイ ラン タ ファスト ダウン ディス コリドー"
         }
       ]
     },

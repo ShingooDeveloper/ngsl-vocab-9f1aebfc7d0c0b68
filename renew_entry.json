@@ -383,6 +383,99 @@
           "kana": "リニューイング ザ スポウン チャングクス イズ イセンシャル フォー メインテイニング ア ステイボル モブ ファーム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will renew",
+      "ipa": "/wɪl rɪˈnjuː/",
+      "examples": [
+        {
+          "en": "I'll renew my enchantments before the next PvP season.",
+          "ja": "次のPvPシーズンの前に、私は魔法を更新します。",
+          "ipa": "/aɪl rɪˈnjuː maɪ ɪnˈtʃæntmənts bɪˈfɔɹ ðə nɛkst ˌpiˈvi ˈpi ˈsizən/",
+          "linking": [
+            "I'll renew - I'll は縮約形 /aɪl/ [アイル]、renew は /rɪˈnjuː/",
+            "before the - before の語末 /ɹ/ が the の /ə/ に連結 [bɪˈfɔɹə] ビフォア",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル リニュー マイ インチャントメンツ ビフォア ザ ネクスト ピーブイピー シーズン"
+        },
+        {
+          "en": "We'll renew our food supplies at the base before heading to the Nether.",
+          "ja": "ネザーに向かう前に、私たちはベースで食料を更新します。",
+          "ipa": "/wil rɪˈnjuː ˈaʊɚ ˈfuːd səˈplaɪz ət ðə ˈbeɪs bɪˈfɔɹ ˈhɛdɪŋ tu ðə ˈnɛðɚ/",
+          "linking": [
+            "We'll renew - we'll は縮約形 /wil/ [ウィル]、renew は /rɪˈnjuː/",
+            "at the - at は /ət/、the は弱形 /ðə/。子音+子音 [アット ザ]",
+            "before heading - before の語末 /ɹ/ が heading の子音 /h/ に続く（子音+子音）",
+            "to は弱形 /tu/ トゥ、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィル リニュー アワー フード サプライズ アット ザ ベイス ビフォア ヘディング トゥ ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be renewing",
+      "ipa": "/wɪl bi rɪˈnjuːɪŋ/",
+      "examples": [
+        {
+          "en": "The admin will be renewing the server protections during the maintenance window.",
+          "ja": "メンテナンス期間中、管理者はサーバー保護を更新しています。",
+          "ipa": "/ðə ˈædmɪn wɪl bi rɪˈnjuːɪŋ ðə ˈsɝvɚ prəˈtɛkʃənz ˈdjʊɹɪŋ ðə ˈmeɪntənəns ˈwɪndoʊ/",
+          "linking": [
+            "the は弱形 /ðə/ [ザ]、admin は /ˈædmɪn/",
+            "will be - will は /wɪl/、be は弱形 /bi/ [ウィル ビー]、renewing は /rɪˈnjuːɪŋ/",
+            "the server - the は弱形 /ðə/ ザ、server の /ɚ/ は r-coloring",
+            "during the - during は /ˈdjʊɹɪŋ/、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ アドミン ウィル ビー リニューイング ザ サーバー プロテクションズ ジュアリング ザ メインテナンス ウィンドウ"
+        },
+        {
+          "en": "They'll be renewing the water systems in the farm tomorrow morning.",
+          "ja": "明日の朝、彼らはファームの水システムを更新しています。",
+          "ipa": "/ðeɪl bi rɪˈnjuːɪŋ ðə ˈwɔtɚ ˈsɪstəmz ɪn ðə fɑɹm təˈmɑɹoʊ ˈmɔɹnɪŋ/",
+          "linking": [
+            "They'll be - they'll は縮約形 /ðeɪl/ [ザイル]、be は弱形 /bi/ ビー",
+            "the water - the は弱形 /ðə/ ザ、water は /ˈwɔtɚ/ ウォーター",
+            "in the farm - in は /ɪn/、the は弱形 /ðə/ ザ。/n/ + /ð/ で子音+子音"
+          ],
+          "kana": "ザイル ビー リニューイング ザ ウォーター システムズ イン ザ ファーム トゥモロー モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have renewed",
+      "ipa": "/wɪl həv rɪˈnjuːd/",
+      "examples": [
+        {
+          "en": "By the time the raid starts, we will have renewed all our equipment.",
+          "ja": "レイドが始まるまでに、私たちはすべての装備を更新してしまいます。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd stɑrts wi wɪl həv rɪˈnjuːd ɔl ˈaʊɚ ɪˈkwɪpmənt/",
+          "linking": [
+            "by the - by は /baɪ/、the は弱形 /ðə/ [バイ ザ]",
+            "will have - will は /wɪl/、have は弱形 /həv/。/l/ + /h/ で子音+子音 [ウィル ハヴ]",
+            "our equipment - our の /ɹ/ が equipment の /ɪ/ に連結 [ˈaʊɚɪkˈwɪpmənt] アワー イクイップメント"
+          ],
+          "kana": "バイ ザ タイム ザ レイド スターツ ウィ ウィル ハヴ リニュード オール アワー イクイップメント"
+        },
+        {
+          "en": "She will have renewed her armor before the new update releases.",
+          "ja": "新しいアップデートがリリースされる前に、彼女は彼女の防具を更新してしまいます。",
+          "ipa": "/ʃi wɪl həv rɪˈnjuːd hɚ ˈɑɹmɚ bɪˈfɔɹ ðə nu ˈʌpdeɪt rɪˈlisɪz/",
+          "linking": [
+            "She will - she は /ʃi/、will は /wɪl/。/i/ + /w/ で母音+子音、自然に続く",
+            "will have renewed - will は /wɪl/、have は弱形 /həv/。/l/ + /h/ で子音+子音 [ウィル ハヴ リニュード]",
+            "her armor - her の語末 /ɚ/ が armor の /ɑ/ に連結 [hɚˈɑɹmɚ] ハー アーマー",
+            "before the - before の語末 /ɹ/ が the の /ə/ に連結 [bɪˈfɔɹə] ビフォア"
+          ],
+          "kana": "シー ウィル ハヴ リニュード ハー アーマー ビフォア ザ ニュー アップデイト リリーシーズ"
+        }
+      ]
     }
   ]
 }

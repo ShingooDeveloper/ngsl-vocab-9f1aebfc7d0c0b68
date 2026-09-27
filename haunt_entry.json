@@ -341,6 +341,124 @@
           "kana": "ザ ゴウスト ハド ビン ハンティング ザット ダーク ロウケイション ファー デイズ ビフォアー ウィ ファイナリー ファウンド ア ソルーション"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has haunted",
+      "ipa": "/həz ˈhɔːntɪd/",
+      "examples": [
+        {
+          "en": "The ancient tomb has haunted this server since the very beginning of our world.",
+          "ja": "古い墓は私たちの世界の始まりからずっとこのサーバーに出没しています。",
+          "ipa": "/ðə ˈeɪnʃənt toʊm həz ˈhɔːntɪd ðɪs ˈsɜrvɚ sɪns ðə ˈvɛri bɪˈɡɪnɪŋ əv ˈaʊɚ wɜrld/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "ancient tomb は子音+子音なので連結なし [ˈeɪnʃənt toʊm] エインシェント トウム",
+            "has は弱形 /həz/ に弱化 [həz] ハズ",
+            "this server の s-s は未開放 [ðɪs ˈsɜrvɚ] ディス サーバー",
+            "very の語末 /i/ が beginning の /b/ に続く（母音+子音で連結なし） [ˈvɛri bɪˈɡɪnɪŋ] ヴェリー ビギニング"
+          ],
+          "kana": "ザ エインシェント トウム ハズ ハンテッド ディス サーバー シンス ザ ヴェリー ビギニング アヴ アワー ワールド"
+        },
+        {
+          "en": "I have haunted this redstone circuit design for weeks, trying to perfect every detail.",
+          "ja": "私はこのレッドストーン回路設計を数週間頭から離さず、すべての細部を完璧にしようとしています。",
+          "ipa": "/aɪ həv ˈhɔːntɪd ðɪs ˈrɛdstoʊn ˈsɜrkɪt dɪˈzaɪn fɔr wiks ˈtraɪɪŋ tu ˈpɜrfɪkt ˈɛvri ˈdiːteɪl/",
+          "linking": [
+            "have は弱形 /həv/ に弱化 [həv] ハブ",
+            "haunted は /ˈhɔːntɪd/ で読まれる",
+            "this redstone の st では未開放 [ðɪs ˈrɛdstoʊn] ディス レッドストウン",
+            "for は弱形 /fɔr/ に弱化 [fɔr] ファー",
+            "trying to は ng と t で子音+子音なので連結なし [ˈtraɪɪŋ tu] トライング トゥ",
+            "to は弱形 /tə/ に弱化 [tə] タ",
+            "every detail は y が [i] で読まれ、detail が続く [ˈɛvri ˈdiːteɪl] エヴリー ディテイル"
+          ],
+          "kana": "アイ ハブ ハンテッド ディス レッドストウン サークット ディザイン ファー ウィークス トライング トゥ パーフェクト エヴリー ディテイル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had haunted",
+      "ipa": "/həd ˈhɔːntɪd/",
+      "examples": [
+        {
+          "en": "Before we found the hidden treasure, that missing fortune had haunted every explorer's dreams.",
+          "ja": "隠された宝を見つける前に、その失われた財宝はすべての探検家の夢を悩ましていました。",
+          "ipa": "/bɪˈfɔr wi faʊnd ðə ˈhɪdən ˈtrɛʒər ðæt ˈmɪsɪŋ ˈfɔrtʃən həd ˈhɔːntɪd ˈɛvri ɪkˈsplɔrərz drimz/",
+          "linking": [
+            "Before は /bɪˈfɔr/ で読まれる",
+            "we found は子音+子音なので連結なし [wi faʊnd] ウィ ファウンド",
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "found は /d/ で終わり、hidden の /h/ に続く（子音+子音で連結なし） [faʊnd ˈhɪdən] ファウンド ヒデン",
+            "treasure は /ˈtrɛʒər/ で読まれる",
+            "that missing は子音+子音なので連結なし [ðæt ˈmɪsɪŋ] ザット ミッシング",
+            "had は弱形 /həd/ に弱化 [həd] ハド",
+            "every explorer は語末 /i/ と語頭 /ɪ/ で母音+母音 [ˈɛvri ɪkˈsplɔrərz] エヴリー エクスプロアーズ"
+          ],
+          "kana": "ビフォアー ウィ ファウンド ザ ヒデン トレジャー ザット ミッシング フォーチュン ハド ハンテッド エヴリー エクスプロアーズ ドリームズ"
+        },
+        {
+          "en": "The loss of her best pickaxe had haunted her for the entire playthrough until we finally recovered it.",
+          "ja": "彼女の最高のツルハシの喪失は、私たちがついにそれを回収するまで、プレイを通じて彼女を悩ましていました。",
+          "ipa": "/ðə lɔs əv hər bɛst ˈpɪkˌæks həd ˈhɔːntɪd hər fɔr ðə ɪnˈtaɪr ˈpleɪθru ənˈtɪl wi ˈfaɪnəli rɪˈkʌvərd ɪt/",
+          "linking": [
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "of は弱形 /əv/ に弱化 [əv] アヴ",
+            "her は弱形 /hər/ に弱化し、best の語末 /t/ と連結なし [hər bɛst] ハー ベスト",
+            "pickaxe は /ˈpɪkˌæks/ で読まれる",
+            "had は弱形 /həd/ に弱化 [həd] ハド",
+            "her は弱形 /hər/ に弱化 [hər] ハー",
+            "for は弱形 /fɔr/ に弱化 [fɔr] ファー",
+            "until は /ənˈtɪl/ で、we の語頭 /w/ と連結なし [ənˈtɪl wi] アンティル ウィ",
+            "finally は /ˈfaɪnəli/ で、recovered は /rɪˈkʌvərd/ で読まれる"
+          ],
+          "kana": "ザ ロス アヴ ハー ベスト ピックアックス ハド ハンテッド ハー ファー ディ インタイアー プレイスルー アンティル ウィ ファイナリー リカヴァード イット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been haunting",
+      "ipa": "/həz bɪn ˈhɔːntɪŋ/",
+      "examples": [
+        {
+          "en": "That failed expedition has been haunting my thoughts ever since we retreated from the deep cave system.",
+          "ja": "その失敗した遠征は、私たちが深い洞窟システムから撤退して以来、ずっと私の思考を悩ましています。",
+          "ipa": "/ðæt feɪld ˌɛkspɪˈdɪʃən həz bɪn ˈhɔːntɪŋ maɪ θɔːts ˈɛvər sɪns wi rɪˈtritɪd frəm ðə dip keɪv ˈsɪstəm/",
+          "linking": [
+            "that は /ðæt/ で読まれる",
+            "failed の語末 /d/ が expedition の /ɛ/ に連結 [feɪld̚ ˌɛkspɪˈdɪʃən] フェイルド エクスペディション",
+            "has は弱形 /həz/ に弱化 [həz] ハズ",
+            "been は弱形 /bɪn/ に弱化 [bɪn] ビン",
+            "haunting は /ˈhɔːntɪŋ/ で、my の /m/ に続き子音+子音で連結なし [ˈhɔːntɪŋ maɪ] ハンティング マイ",
+            "since は /sɪns/ で、we の /w/ に続き子音+子音で連結なし [sɪns wi] シンス ウィ",
+            "from は弱形 /frəm/ に弱化 [frəm] フラム",
+            "the は弱形 /ðə/ に弱化 [ðə] ザ"
+          ],
+          "kana": "ザット フェイルド エクスペディション ハズ ビン ハンティング マイ ソーツ エヴァー シンス ウィ リトリーティド フラム ザ ディープ ケイヴ システム"
+        },
+        {
+          "en": "We have been haunting this mansion for days, searching for the secret chamber hidden deep within its walls.",
+          "ja": "私たちは数日間、この館に出没し続けており、その壁の深くに隠された秘密の部屋を探しています。",
+          "ipa": "/wi həv bɪn ˈhɔːntɪŋ ðɪs məˈnʃən fɔr deɪz ˈsɜːtʃɪŋ fɔr ðə ˈsikrɪt ˈtʃeɪmbər ˈhɪdən dip wɪˈðɪn ɪts wɔlz/",
+          "linking": [
+            "have は弱形 /həv/ に弱化 [həv] ハブ",
+            "been は弱形 /bɪn/ に弱化 [bɪn] ビン",
+            "haunting は /ˈhɔːntɪŋ/ で、this の /ð/ に続き子音+子音で連結なし [ˈhɔːntɪŋ ðɪs] ハンティング ディス",
+            "this は /ðɪs/ で、mansion の /m/ に続き子音+子音で連結なし [ðɪs məˈnʃən] ディス マンション",
+            "for は弱形 /fɔr/ に弱化 [fɔr] ファー",
+            "searching は /ˈsɜːtʃɪŋ/ で、for の /f/ に続き子音+子音で連結なし [ˈsɜːtʃɪŋ fɔr] サーチング ファー",
+            "the は弱形 /ðə/ に弱化 [ðə] ザ",
+            "hidden は /ˈhɪdən/ で、deep の /d/ に続き子音+子音で連結なし [ˈhɪdən dip] ヒデン ディープ",
+            "within は /wɪˈðɪn/ で、its の /ɪ/ に続き母音+母音 [wɪˈðɪn ɪts] ウィズィン イッツ"
+          ],
+          "kana": "ウィ ハブ ビン ハンティング ディス マンション ファー デイズ サーチング ファー ザ シークリット チェンバー ヒデン ディープ ウィズィン イッツ ウォルズ"
+        }
+      ]
     }
   ]
 }

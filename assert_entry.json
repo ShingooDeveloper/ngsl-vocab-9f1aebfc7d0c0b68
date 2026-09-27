@@ -381,6 +381,104 @@
           "kana": "ザ ファクション ハズ ビン アサーティング ドミナンス オウバー ザ インタイアー リージョン フォー ザ パスト マンス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will assert",
+      "ipa": "/wɪl əˈsɝt/",
+      "examples": [
+        {
+          "en": "If anyone claims this base, I will assert my rights immediately.",
+          "ja": "誰かがこのベースを主張したら、私は直ちに自分の権利を主張します。",
+          "ipa": "/ɪf ˈɛniˌwʌn kleɪmz ðɪs ˈbeɪs aɪ wɪl əˈsɝt maɪ ˈraɪts ɪˈmɪdɪətli/",
+          "linking": [
+            "anyone の語末 /n/ が claims の初頭 /k/ に続く（子音+子音、未開放）[ˈɛniˌwʌn kleɪmz] エニワン クレイムズ",
+            "this の語末 /s/ が base の初頭 /b/ に続く（子音+子音、未開放）[ðɪs ˈbeɪs] ディス ベイス",
+            "will の語末 /l/ が assert の初頭 /ə/ に連結 [wɪl əˈsɝt] ウィル アサート",
+            "assert の語末 /t/ が my の初頭 /m/ に未開放で続く [əˈsɝt maɪ] アサート マイ"
+          ],
+          "kana": "イフ エニワン クレイムズ ディス ベイス アイ ウィル アサート マイ ライツ イミディエトリー"
+        },
+        {
+          "en": "The faction leader will assert control over the new territory tomorrow.",
+          "ja": "ファクションのリーダーは明日、新しい領土に対する支配を主張するでしょう。",
+          "ipa": "/ðə ˈfækʃən ˈlidɚ wɪl əˈsɝt kənˈtroʊl ˈoʊvɚ ðə ˈnjuː ˈtɛrətɔːri təˈmɑːroʊ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "leader の語末 /ɚ/ が will の初頭 /w/ に連結 [ˈlidɚ wɪl] リーダー ウィル",
+            "will の語末 /l/ が assert の初頭 /ə/ に連結 [wɪl əˈsɝt] ウィル アサート",
+            "over の語末 /ɚ/ が the の初頭 /ð/ に未開放で続く [ˈoʊvɚ ðə] オウバー ザ"
+          ],
+          "kana": "ザ ファクション リーダー ウィル アサート コントロール オウバー ザ ニュー テリトリー トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be asserting",
+      "ipa": "/wɪl bi əˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "While you're mining diamonds, I'll be asserting our territory claims.",
+          "ja": "あなたがダイヤモンドを採掘している間、私たちの領土の主張をします。",
+          "ipa": "/waɪl jɔr ˈmaɪnɪŋ ˈdaɪəməndz aɪl bi əˈsɝtɪŋ aʊr ˈtɛrətɔːri kleɪmz/",
+          "linking": [
+            "you're の語末 /r/ が mining の初頭 /m/ に続く（子音+子音）[jɔr ˈmaɪnɪŋ] ユアー マイニング",
+            "I'll の語末 /l/ が be の初頭 /b/ に続く（子音+子音）[aɪl bi] アイル ビー",
+            "our の語末 /r/ が territory の初頭 /t/ に続く（子音+子音）[aʊr ˈtɛrətɔːri] アワー テリトリー"
+          ],
+          "kana": "ホワイル ユアー マイニング ダイアモンズ アイル ビー アサーティング アワー テリトリー クレイムズ"
+        },
+        {
+          "en": "They will be asserting their dominance throughout the entire tournament season.",
+          "ja": "彼らはトーナメントシーズン中ずっと、彼らの優位性を主張し続けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi əˈsɝtɪŋ ðɛr ˈdɑmɪnəns θɹuːˈaʊt ðə ənˈtaɪɚ ˈtɔɹnəmənt ˈsiːzən/",
+          "linking": [
+            "they の語末 /eɪ/ が will の初頭 /w/ に開放（別語）",
+            "will の語末 /l/ が be の初頭 /b/ に続く（子音+子音）[wɪl bi] ウィル ビー",
+            "their の語末 /r/ が dominance の初頭 /d/ に続く（子音+子音）[ðɛr ˈdɑmɪnəns] ゼアー ドミナンス",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイ ウィル ビー アサーティング ゼアー ドミナンス スルーアウト ザ エンタイアー トーナメント シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have asserted",
+      "ipa": "/wɪl həv əˈsɝtəd/",
+      "examples": [
+        {
+          "en": "By the end of the season, I will have asserted my position as the best builder.",
+          "ja": "シーズン終了までに、私は最高のビルダーとしての自分のポジションを確立しているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈsiːzən aɪ wɪl həv əˈsɝtəd maɪ pəˈzɪʃən əz ðə ˈbɛst ˈbɪldɚ/",
+          "linking": [
+            "by の語末 /aɪ/ が the の初頭 /ð/ に開放（別語）",
+            "the は弱形 /ðə/ ザ",
+            "end の語末 /d/ が of の初頭 /ə/ に連結、of は弱形 /əv/ [ˈɛnd əv] エンド アヴ",
+            "will の語末 /l/ が have の初頭 /h/ に連結 [wɪl həv] ウィル ハヴ",
+            "have の語末 /v/ が asserted の初頭 /ə/ に連結 [həv əˈsɝtəd] ハヴ アサーティッド",
+            "asserted の語末 /d/ が my の初頭 /m/ に未開放で続く [əˈsɝtəd maɪ] アサーティッド マイ"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン アイ ウィル ハヴ アサーティッド マイ ポジション アズ ザ ベスト ビルダー"
+        },
+        {
+          "en": "The clan will have asserted complete control before the rival faction even arrives.",
+          "ja": "ライバルファクションが到着する前に、クランは完全な支配を確立しているでしょう。",
+          "ipa": "/ðə klæn wɪl həv əˈsɝtəd kəmˈplit kənˈtroʊl bɪˈfɔr ðə ˈraɪvəl ˈfækʃən ˈiːvən əˈraɪvz/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "clan の語末 /n/ が will の初頭 /w/ に連結 [klæn wɪl] クラン ウィル",
+            "will の語末 /l/ が have の初頭 /h/ に連結 [wɪl həv] ウィル ハヴ",
+            "have の語末 /v/ が asserted の初頭 /ə/ に連結 [həv əˈsɝtəd] ハヴ アサーティッド",
+            "before の語末 /r/ が the の初頭 /ð/ に未開放で続く [bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "ザ クラン ウィル ハヴ アサーティッド コンプリート コントロール ビフォア ザ ライバル ファクション イーヴン アライヴズ"
+        }
+      ]
     }
   ]
 }

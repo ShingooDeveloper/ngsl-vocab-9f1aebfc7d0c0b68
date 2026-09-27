@@ -316,6 +316,201 @@
           "kana": "ハステル モーブズ ハド ビン ディスラプティング アワー スリープ スケジュール オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has disrupted",
+      "ipa": "/həz dɪsˈrʌptəd/",
+      "examples": [
+        {
+          "en": "The redstone circuit has disrupted the farm entrance again.",
+          "ja": "レッドストーン回路が農場の入口をまた妨害してしまった。",
+          "ipa": "/ðə ˈrɛd stoʊn ˈsɜɹkɪt həz dɪsˈrʌptəd ðə ˈfɑɹm ˈɛntɹəns əˈɡɛn/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "redstone - /d/ が /s/ に続く（子音+子音）",
+            "has disrupted - /z/ が /d/ に続く（子音+子音）、has は弱形 /həz/ ハズ",
+            "farm entrance - /m/ が /ɛ/ に連結 [ˈfɑɹm ɛntɹəns] ファーム エントランス"
+          ],
+          "kana": "ザ レッド ストウン サーキット ハズ ディスラプテッド ザ ファーム エントランス アゲイン"
+        },
+        {
+          "en": "Griefing has disrupted the server community quite badly.",
+          "ja": "グリーフがサーバーコミュニティをかなり悪く妨害してしまった。",
+          "ipa": "/ˈɡrifɪŋ həz dɪsˈrʌptəd ðə ˈsɜɹvɚ kəˈmjunəti kwɑɪt ˈbædli/",
+          "linking": [
+            "has disrupted - /z/ が /d/ に続く（子音+子音）、has は弱形 /həz/ ハズ",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "quite badly - /t/ が /b/ に続く（子音+子音）"
+          ],
+          "kana": "グリーフィング ハズ ディスラプテッド ザ サーバー コミューニティ クワイト バッドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had disrupted",
+      "ipa": "/həd dɪsˈrʌptəd/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the explosion had disrupted our supplies.",
+          "ja": "私たちが到着した時には、爆発が私たちの物資を乱していた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈɹaɪvd ðə ɪkˈsploʊʒən həd dɪsˈrʌptəd aʊɚ səˈplaɪz/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "time we - /m/ が /w/ に続く（子音+子音）",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "had disrupted - /d/ が /d/ に続く（子音+子音）、had は弱形 /həd/ ハド"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド ザ イクスプロージョン ハド ディスラプテッド アワー サプライズ"
+        },
+        {
+          "en": "The storm had disrupted our communication before the morning came.",
+          "ja": "嵐は朝が来る前に私たちの通信を乱していた。",
+          "ipa": "/ðə ˈstɔɹm həd dɪsˈrʌptəd aʊɚ ˌkɑmjunəˈkeɪʃən bɪˈfɔɹ ðə ˈmɔɹnɪŋ keɪm/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "had disrupted - /d/ が /d/ に続く（子音+子音）、had は弱形 /həd/ ハド",
+            "communication before - /n/ が /b/ に続く（子音+子音）",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ストアーム ハド ディスラプテッド アワー コミューニケーション ビフォア ザ モーニング ケイム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been disrupting",
+      "ipa": "/həz bɪn dɪsˈrʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The lag has been disrupting our gameplay for the last hour.",
+          "ja": "ラグが過去1時間ずっとゲームプレイを妨害し続けている。",
+          "ipa": "/ðə ˈlæɡ həz bɪn dɪsˈrʌptɪŋ aʊɚ ˈɡeɪmˌpleɪ fɚ ðə ˈlæst ˈaʊɚ/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "has been - /z/ が /b/ に続く（子音+子音）、has は弱形 /həz/ ハズ、been は弱形 /bɪn/ ビン",
+            "been disrupting - /n/ が /d/ に続く（子音+子音）",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "ザ ラッグ ハズ ビン ディスラプティング アワー ゲイムプレイ ファー ザ ラスト アワー"
+        },
+        {
+          "en": "Mobs have been disrupting our base repairs all week.",
+          "ja": "モブが一週間ずっと私たちの基地修理を妨害し続けている。",
+          "ipa": "/mɑbz həv bɪn dɪsˈrʌptɪŋ aʊɚ ˈbeɪs rɪˈpɛɹz ɔl ˈwik/",
+          "linking": [
+            "Mobs have - /z/ が /h/ に続く（子音+子音）、have は弱形 /həv/ ハヴ",
+            "been disrupting - /n/ が /d/ に続く（子音+子音）、been は弱形 /bɪn/ ビン",
+            "base repairs - /s/ が /r/ に続く（子音+子音）",
+            "all week - /l/ が /w/ に続く（子音+子音）"
+          ],
+          "kana": "モーブズ ハヴ ビン ディスラプティング アワー ベイス リペアーズ オール ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will disrupt",
+      "ipa": "/wɪl dɪsˈrʌpt/",
+      "examples": [
+        {
+          "en": "We will disrupt the enemy base during the raid tomorrow.",
+          "ja": "明日の襲撃中に敵の基地を妨害するでしょう。",
+          "ipa": "/wi wɪl dɪsˈrʌpt ðə ˈɛnəmi ˈbeɪs ˈdʊrɪŋ ðə ˈreɪd təˈmɑroʊ/",
+          "linking": [
+            "We will - 母音 /i/ が子音 /w/ に続く（連結なし）、will は /wɪl/",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "during the - /ŋ/ が /ð/ に続く（子音+子音）、the は弱形 /ðə/ ザ",
+            "the raid - /ðə ˈreɪd/ ザ レイド"
+          ],
+          "kana": "ウィ ウィル ディスラプト ザ エネミー ベイス デューリング ザ レイド トゥモロウ"
+        },
+        {
+          "en": "If you place TNT there, it will disrupt the entire farm layout.",
+          "ja": "もしあなたがそこにTNTを置いたら、農場全体の配置を妨害するでしょう。",
+          "ipa": "/ɪf ju pleɪs ˈti ɛn ˈti ðɛr ɪt wɪl dɪsˈrʌpt ðɪ ɪnˈtaɪr ˈfɑrm ˈleɪˌaʊt/",
+          "linking": [
+            "If you - /f/ が /j/ に続く（子音+子音）",
+            "place TNT - /s/ が /t/ に続く（子音+子音）",
+            "there it - /r/ が /ɪ/ に連結 [ðɛr ɪt] ゼア イット",
+            "it will - /t/ が /w/ に続く（子音+子音）、will は /wɪl/",
+            "the は定冠詞で弱形 /ðə/ ザ、entire の前では /ðiː/ ディ"
+          ],
+          "kana": "イフ ユー プレイス ティー エヌ ティー ゼア イット ウィル ディスラプト ディ インタイアー ファーム レイアウト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be disrupting",
+      "ipa": "/wɪl bi dɪsˈrʌptɪŋ/",
+      "examples": [
+        {
+          "en": "While we're mining, this redstone signal will be disrupting our communication.",
+          "ja": "採掘している間、このレッドストーン信号が私たちの通信を妨害し続けるでしょう。",
+          "ipa": "/waɪl wɪr ˈmaɪnɪŋ ðɪs ˈrɛdstoʊn ˈsɪɡnəl wɪl bi dɪsˈrʌptɪŋ aʊɚ ˌkɑmjunəˈkeɪʃən/",
+          "linking": [
+            "While we're - /l/ が /w/ に続く（子音+子音）、we're は /wɪr/ ウィア",
+            "we're mining - /r/ が /m/ に続く（子音+子音）",
+            "will be - /l/ が /b/ に続く（子音+子音）、will は /wɪl/、be は弱形 /bi/ ビ",
+            "be disrupting - /bi/ が /d/ に続く（子音+子音）"
+          ],
+          "kana": "ワイル ウィア マイニング ディス レッドストウン シグナル ウィル ビ ディスラプティング アワー コミューニケーション"
+        },
+        {
+          "en": "The creepers will be disrupting our peaceful evening if we don't stop them.",
+          "ja": "もし止めなければ、クリーパーは私たちの平和な夜を妨害し続けるでしょう。",
+          "ipa": "/ðə ˈkripərz wɪl bi dɪsˈrʌptɪŋ aʊɚ ˈpisfəl ˈivnɪŋ ɪf wi doʊnt stɑp ðɛm/",
+          "linking": [
+            "The は定冠詞で弱形 /ðə/ ザ",
+            "creepers will - /z/ が /w/ に続く（子音+子音）",
+            "will be - /l/ が /b/ に続く（子音+子音）、will は /wɪl/、be は弱形 /bi/ ビ",
+            "be disrupting - /bi/ が /d/ に続く（子音+子音）",
+            "evening if - /ŋ/ が /ɪ/ に連結 [ˈivnɪŋ ɪf] イーヴニング イフ"
+          ],
+          "kana": "ザ クリーパーズ ウィル ビ ディスラプティング アワー ピースフル イーヴニング イフ ウィ ドウント ストップ ゼム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have disrupted",
+      "ipa": "/wɪl həv dɪsˈrʌptəd/",
+      "examples": [
+        {
+          "en": "By the time you finish building, the storm will have disrupted our supplies.",
+          "ja": "あなたが建築を終える頃には、嵐が私たちの物資を妨害しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju ˈfɪnɪʃ ˈbɪldɪŋ ðə ˈstɔɹm wɪl həv dɪsˈrʌptəd aʊɚ səˈplaɪz/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "time you - /m/ が /j/ に続く（子音+子音）",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "will have - /l/ が /h/ に続く（子音+子音）、will は /wɪl/、have は弱形 /həv/ ハヴ",
+            "supplies - 末尾の /z/ は有声音"
+          ],
+          "kana": "バイ ザ タイム ユー フィニッシュ ビルディング ザ ストアーム ウィル ハヴ ディスラプテッド アワー サプライズ"
+        },
+        {
+          "en": "They will have disrupted the server peace long before we implement new protections.",
+          "ja": "新しい保護機能を実装する前に、彼らはサーバーの平和を長く妨害しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv dɪsˈrʌptəd ðə ˈsɜrvər pis lɔŋ bɪˈfɔr wi ɪmˈplɛmənt nu prəˈtɛkʃənz/",
+          "linking": [
+            "They will - 母音 /eɪ/ が子音 /w/ に続く（連結なし）、will は /wɪl/",
+            "will have - /l/ が /h/ に続く（子音+子音）、will は /wɪl/、have は弱形 /həv/ ハヴ",
+            "have disrupted - /v/ が /d/ に続く（子音+子音）",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "before we - /r/ が /w/ に続く（子音+子音）"
+          ],
+          "kana": "ゼイ ウィル ハヴ ディスラプテッド ザ サーバー ピース ロング ビフォア ウィ インプレメント ニュー プロテクションズ"
+        }
+      ]
     }
   ],
   "tags": [

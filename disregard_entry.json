@@ -361,6 +361,96 @@
           "kana": "ザ プレイヤーズ ハヴ ビン ディスアガーディング ザ アドミンズ コマンドズ ビルディング ウェアエバー ザイ ウォント オン ザ サーバー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will disregard",
+      "ipa": "/wɪl ˌdɪsərˈɡɑrd/",
+      "examples": [
+        {
+          "en": "I'll disregard those warning signs and keep mining deeper into the cave.",
+          "ja": "警告標識は無視して、洞窟をもっと奥へ掘り続けるよ。",
+          "ipa": "/aɪl ˌdɪsərˈɡɑrd ðoʊz ˈwɔrnɪŋ ˈsaɪnz ənd kip ˈmaɪnɪŋ ˈdipər ˈɪntu ðə keɪv/",
+          "linking": [
+            "「I'll」/l/ が disregard の /d/ と子音隣接し、その後の母音 /ə/ に続く",
+            "「those warning」の those /z/ が warning /w/ に続く子音隣接",
+            "「the cave」の the は子音前で弱形 /ðə/ [ðə keɪv] ザ ケイブ"
+          ],
+          "kana": "アイル ディスアガード ドーズ ウォーニング サインズ アンド キープ マイニング ディーパー イントゥ ザ ケイブ"
+        },
+        {
+          "en": "They'll disregard the server's safety rules and attempt a dangerous redstone contraption.",
+          "ja": "サーバーの安全ルールを無視して、危険なレッドストーン装置に挑戦するだろう。",
+          "ipa": "/ðeɪl ˌdɪsərˈɡɑrd ðə ˈsɝvərz ˈseɪfti rulz ənd əˈtɛmpt ə ˈdeɪndʒərəs ˈrɛdˌstoʊn kənˈtræpʃən/",
+          "linking": [
+            "「they'll」/l/ が disregard の /d/ と子音隣接",
+            "「the server's」の the は子音前で弱形 /ðə/ [ðə ˈsɝ] ザ サーバーズ",
+            "「and attempt」の and の弱形 /ən/ で attempt の母音に連結 [ən əˈtɛmpt] アン アテンプト"
+          ],
+          "kana": "ゼイル ディスアガード ザ サーヴァーズ セイフティ ルーズ アン アテンプト ア デインジャラス レッドストウン コントラプション"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be disregarding",
+      "ipa": "/wɪl bi ˌdɪsərˈɡɑrdɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be disregarding your advice while I explore this dangerous biome alone.",
+          "ja": "この危険なバイオームを一人で探検している間、あなたのアドバイスは無視するつもりです。",
+          "ipa": "/aɪl bi ˌdɪsərˈɡɑrdɪŋ jɚ ədˈvaɪs waɪl aɪ ɪkˈsplɔr ðɪs ˈdeɪndʒərəs baɪˈoʊm əˈloʊn/",
+          "linking": [
+            "「I'll be」の I'll /l/ が be の /b/ と子音隣接",
+            "「be disregarding」の be 末尾 /i/ が disregarding の母音 /ə/ に連結 [bi ˌdɪsər] ビー ディスア",
+            "「this dangerous」の this 末尾 /s/ が dangerous の /d/ と子音隣接 [ðɪs ˈdeɪnd] ディス デインジャラス"
+          ],
+          "kana": "アイル ビー ディスアガーディング ユァー アドヴァイス ワイル アイ エクスプロア ディス デインジャラス バイオーム アローン"
+        },
+        {
+          "en": "The miners will be disregarding the creeper spawner warnings when night falls.",
+          "ja": "夜が降りてきたとき、採掘者たちはクリーパースポーナーの警告を無視し続けるでしょう。",
+          "ipa": "/ðə ˈmaɪnərz wɪl bi ˌdɪsərˈɡɑrdɪŋ ðə ˈkripər ˈspɔnər ˈwɔrnɪŋz wɛn naɪt fɔlz/",
+          "linking": [
+            "「will be」の will /l/ が be の /b/ と子音隣接",
+            "「be disregarding」の be 末尾 /i/ が disregarding の母音 /ə/ に連結 [bi ˌdɪsər] ビー ディスア",
+            "「the creeper」の the は子音前で弱形 /ðə/ [ðə ˈkripər] ザ クリーパー"
+          ],
+          "kana": "ザ マイナーズ ウィル ビー ディスアガーディング ザ クリーパー スポーナー ウォーニングズ ウェン ナイト フォールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have disregarded",
+      "ipa": "/wɪl həv ˌdɪsərˈɡɑrdəd/",
+      "examples": [
+        {
+          "en": "By the end of the server season, I'll have disregarded every single safety protocol.",
+          "ja": "サーバーシーズンの終わりまでに、すべてのセーフティプロトコルを無視してしまうだろう。",
+          "ipa": "/baɪ ði ɛnd əv ðə ˈsɝvər ˈsizən aɪl həv ˌdɪsərˈɡɑrdəd ˈɛvri ˈsɪŋɡəl ˈseɪfti ˈproʊtəkɑl/",
+          "linking": [
+            "「I'll have」の I'll /l/ が have の /h/ と子音隣接、have は弱形 /həv/ [aɪl həv] アイル ハヴ",
+            "「have disregarded」の have 末尾 /v/ が disregarded の母音 /ə/ に連結 [həv ˌdɪsər] ハヴ ディスア",
+            "「the server」の the は子音前で弱形 /ðə/ [ðə ˈsɝvər] ザ サーバー"
+          ],
+          "kana": "バイ ディ エンド アヴ ザ サーバー シーズン アイル ハヴ ディスアガーディド エブリ シングル セイフティ プロートコル"
+        },
+        {
+          "en": "By next week, they will have disregarded months of planning and ruined everything we built.",
+          "ja": "来週までに、彼らは数ヶ月分の計画を無視して、私たちが作ったすべてを台無しにするでしょう。",
+          "ipa": "/baɪ nɛkst wik ðeɪ wɪl həv ˌdɪsərˈɡɑrdəd mʌnθz əv ˈplænɪŋ ənd ˈruːɪnd ˈɛvrɪθɪŋ wi bɪlt/",
+          "linking": [
+            "「will have」の will /l/ が have の /h/ と子音隣接、have は弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "「have disregarded」の have 末尾 /v/ が disregarded の母音 /ə/ に連結 [həv ˌdɪsər] ハヴ ディスア",
+            "「of planning」の of 末尾 /v/ が planning の /p/ と子音隣接 [əv ˈplænɪŋ] アヴ プランニング"
+          ],
+          "kana": "バイ ネクスト ウィーク ゼイ ウィル ハヴ ディスアガーディド マンスズ アヴ プランニング アンド ルーインド エブリシング ウィ ビルト"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]

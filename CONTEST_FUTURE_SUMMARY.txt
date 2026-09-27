@@ -1,0 +1,87 @@
+================================================================================
+NGSL 単語教材「contest」- 未来形セクション追加完了
+================================================================================
+
+【対象単語】
+  word: "contest"
+  品詞: 名詞・動詞（動詞形での実装）
+  ランク: 2459
+
+【追加した未来形3種類】
+
+1. 単純未来形（future）
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   type: "future"
+   label: "単純未来形（will + 原形）"
+   text: "will contest"
+   ipa: "/wɪl kənˈtɛst/"
+   
+   例文1: We will contest the admin's decision to restrict flying on the server.
+   - 主語: we → we'll に縮約可能
+   - マイクラ文脈: 飛行制限に異議を唱える
+   - linking: 3項目（縮約形、未開放、弱形）
+   
+   例文2: I'll contest every claim made by that player in the competition.
+   - 主語: I'll （I will の縮約）
+   - マイクラ文脈: 競争での主張に異議を唱える
+   - linking: 3項目（縮約形、連結、弱形）
+
+2. 未来進行形（future_progressive）
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   type: "future_progressive"
+   label: "未来進行形（will be + -ing）"
+   text: "will be contesting"
+   ipa: "/wɪl bi kənˈtɛs.tɪŋ/"
+   注: contestは動作動詞なので、未来進行形は自然に使える
+   
+   例文1: They will be contesting the new building rules when we vote next.
+   - 主語: they
+   - マイクラ文脈: 新しい建築ルールに異議を唱え続ける
+   - linking: 3項目（弱形、母音連結、未開放）
+   
+   例文2: We'll be contesting their decisions throughout the entire tournament.
+   - 主語: we'll （we will の縮約）
+   - マイクラ文脈: トーナメント全体での継続的異議申し立て
+   - linking: 3項目（縮約形、自然連結、弱形）
+
+3. 未来完了形（future_perfect）
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   type: "future_perfect"
+   label: "未来完了形（will have + 過去分詞）"
+   text: "will have contested"
+   ipa: "/wɪl əv kənˈtɛs.təd/"
+   注: have は弱形 /əv/ に弱化
+   
+   例文1: By the end of this month, we will have contested at least ten rulings.
+   - 時間フレーム: by the end of this month
+   - マイクラ文脈: 複数の判定に異議を唱え終わる
+   - linking: 3項目（弱形、連結、弱形）
+   
+   例文2: She will have contested every builder's claim before the season ends.
+   - 主語: she
+   - 時間フレーム: before the season ends
+   - マイクラ文脈: シーズン終了前に全主張に異議申し立て完了
+   - linking: 3項目（弱形、子音連結なし、弱形）
+
+【特徴】
+✓ 正確な米式IPA記号
+✓ 各例文2つ（主語バリエーション）
+✓ マインクラフト文脈を保持
+✓ linking解説（音声変化の日本語説明、2〜4項目）
+✓ kana（カタカナ発音目安、IPAに忠実）
+✓ 文法的に正確
+
+【補足】
+- contest は動作動詞なため、3種類の未来形すべて自然に使用可能
+- 縮約形（I'll, we'll など）は会話体として自然な表現
+- linking では特に以下を明確化：
+  * will の縮約化と子音連結
+  * have の弱形 /əv/（"アブ"と発音）
+  * 語末子音と初頭音の連結・未開放パターン
+
+================================================================================
+ファイル: C:\Users\hmicr\ngsl-samples\contest_entry.json
+フォーマット: JSON（forms配列に3つの新セクション追加）
+総 forms 数: 8（複数形、3人称単数現在、過去、過去分詞、現在分詞、+ 未来3種）
+検証状態: ✓ 完全なJSON構文
+================================================================================

@@ -307,6 +307,38 @@
       ]
     },
     {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been stereotyping",
+      "ipa": "/həz bɪn ˈstɛriətaɪpɪŋ/",
+      "examples": [
+        {
+          "en": "The tournament has been stereotyping players by their build speed, ignoring their creativity.",
+          "ja": "トーナメントはプレイヤーを彼らの建築速度で型にはめ続けており、彼らの創造性を無視している。",
+          "ipa": "[ðə ˈtɔrnəmənt həz bɪn ˈstɛriətaɪpɪŋ ˈpleɪɚz baɪ ðɛɚ bɪld spid ɪɡˈnɔrɪŋ ðɛɚ kriˌeɪˈtɪvəti]",
+          "linking": [
+            "tournament の末尾 /t/ が has の /h/ に連結しない（子音+子音で未開放 [ˈtɔrnəmən̚t həz]）",
+            "has は弱形 /əz/、been は弱形 /bɪn/ に [həz bɪn] ハズ ビン",
+            "stereotyping の末尾 /ŋ/ が players の /p/ に連結しない（鼻音の後連結なし）",
+            "build の末尾 /d/ が speed の /s/ に連結しない（子音+子音）"
+          ],
+          "kana": "ザ トーナメント ハズ ビン ステレオタイピング プレイアーズ バイ ゼア ビルド スピード イグノーリング ゼア クリエイティビティ"
+        },
+        {
+          "en": "Media channels have been stereotyping hardcore players as toxic for years.",
+          "ja": "メディアチャネルは長年の間、ハードコアプレイヤーを有毒であると型にはめ続けている。",
+          "ipa": "[ˈmidiə ˈtʃænəlz həv bɪn ˈstɛriətaɪpɪŋ ˈhɑrdˌkoʊr ˈpleɪɚz əz ˈtɑksɪk fɚ jɪrz]",
+          "linking": [
+            "channels の末尾 /z/ が have の /h/ に連結しない（子音+子音）",
+            "have は弱形 /həv/、been は弱形 /bɪn/ に [həv bɪn] ハヴ ビン",
+            "stereotyping の末尾 /ŋ/ が hardcore の /h/ に連結しない（鼻音の後連結なし）",
+            "toxic の末尾 /k/ が for の /f/ に連結しない（子音+子音で未開放）"
+          ],
+          "kana": "メディア チャネルズ ハヴ ビン ステレオタイピング ハードコア プレイアーズ アズ タクシック ファー イヤーズ"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is stereotyping",
@@ -399,6 +431,90 @@
             "been は弱形 /bɪn/、stereotyping の /s/ に連結しない（子音+子音）"
           ],
           "kana": "バイ ザ タイム ニュー アップデイツ ア ライヴド ウィ ハド ビン ステレオタイピング サーヴァイヴァル モード インコレクトリー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will stereotype",
+      "ipa": "/wɪl ˈstɛriətaɪp/",
+      "examples": [
+        {
+          "en": "Experienced players will stereotype beginners as weak and unprepared.",
+          "ja": "経験豊富なプレイヤーは初心者を弱くて準備不足として型にはめるでしょう。",
+          "ipa": "[ɪkˈspɪriənst ˈpleɪɚz wɪl ˈstɛriətaɪp ˈbɛɡɪnɚz əz wik ənd ʌnprɪˈpɛrd]",
+          "linking": [
+            "stereotype の末尾 /p/ が beginners の /b/ に連結しない（子音+子音で未開放）[ˈstɛriətaɪp̚ bɪˈɡɪnɚz]",
+            "weak の末尾 /k/ が and の /ə/ に連結しない（子音+子音で未開放 [wik ənd]）ウィーク アンド"
+          ],
+          "kana": "イクスピリエンスト プレイアーズ ウィル ステレオタイプ ベギナーズ アズ ウィーク アン アンプリペアド"
+        },
+        {
+          "en": "We'll stereotype them without even knowing their playstyle.",
+          "ja": "私たちは彼らのプレイスタイルを知らずに、彼らを型にはめてしまうでしょう。",
+          "ipa": "[wiːl ˈstɛriətaɪp ðɛm wɪðˈaʊt ˈiːvən ˈnoʊɪŋ ðɛɚ ˈpleɪˌstaɪl]",
+          "linking": [
+            "stereotype の末尾 /p/ が them の /ð/ に連結しない（子音+子音で未開放）[ˈstɛriətaɪp̚ ðɛm]",
+            "knowing の末尾 /ŋ/ が their の /ð/ に連結しない（鼻音の後連結なし）[ˈnoʊɪŋ ðɛɚ] ノーイング ゼア"
+          ],
+          "kana": "ウィール ステレオタイプ ゼム ウィザウト イーヴン ノーイング ゼア プレイスタイル"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be stereotyping",
+      "ipa": "/wɪl bi ˈstɛriətaɪpɪŋ/",
+      "examples": [
+        {
+          "en": "All day long, spectators will be stereotyping every player based on their clan reputation.",
+          "ja": "一日中、観客はすべてのプレイヤーを彼らのクラン評判に基づいて型にはめるでしょう。",
+          "ipa": "[ɔl ˈdeɪ lɔŋ ˈspɛkteɪtɚz wɪl bi ˈstɛriətaɪpɪŋ ˈɛvri ˈpleɪɚ beɪst ɑn ðɛɚ klæn ˈrɛpjəˌteɪʃən]",
+          "linking": [
+            "stereotyping の末尾 /ŋ/ が every の /ɛ/ に連結しない（鼻音の後連結なし）[ˈstɛriətaɪpɪŋ ˈɛvri] ステレオタイピング エヴリー",
+            "based の末尾 /d/ が on の /ɑn/ に連結 [beɪstd ɑn] ベイスド オン"
+          ],
+          "kana": "オール デイ ロング スペクテイターズ ウィル ビー ステレオタイピング エヴリー プレイヤー ベイスド オン ゼア クラン レピュテーション"
+        },
+        {
+          "en": "The veteran players will be stereotyping builders as less competitive all week long.",
+          "ja": "ベテランプレイヤーは一週間中、ビルダーをより競争的ではないとして型にはめるでしょう。",
+          "ipa": "[ðə ˈvɛtərən ˈpleɪɚz wɪl bi ˈstɛriətaɪpɪŋ ˈbɪldɚz əz lɛs kəmˈpɛtətɪv ɔl wik lɔŋ]",
+          "linking": [
+            "stereotyping の末尾 /ŋ/ が builders の /b/ に連結しない（鼻音の後連結なし）[ˈstɛriətaɪpɪŋ ˈbɪldɚz] ステレオタイピング ビルダーズ",
+            "competitive の末尾 /v/ が all の /ɔl/ に連結しない（子音+子音）[ˌæv ɔl] アヴ オール"
+          ],
+          "kana": "ザ ベテラン プレイアーズ ウィル ビー ステレオタイピング ビルダーズ アズ レス コンペティティヴ オール ウィーク ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have stereotyped",
+      "ipa": "/wɪl həv ˈstɛriətaɪpt/",
+      "examples": [
+        {
+          "en": "By the end of the season, everyone will have stereotyped casual players as unskilled.",
+          "ja": "シーズンの終わりまでに、皆はカジュアルプレイヤーを未熟として型にはめてしまうでしょう。",
+          "ipa": "[baɪ ðə ɛnd əv ðə ˈsiːzən ˈɛvriˌwʌn wɪl həv ˈstɛriətaɪpt ˈkæʒuəl ˈpleɪɚz əz ʌnˈskɪld]",
+          "linking": [
+            "have の弱形 /əv/ で、stereotype の /s/ に連結しない（子音+子音）[wɪl əv ˈstɛriətaɪpt] ウィル アヴ ステレオタイプト",
+            "stereotyped の末尾 /t/ が casual の /k/ に連結しない（未開放で子音+子音）[ˈstɛriətaɪp̚t ˈkæʒuəl]"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン エヴリワン ウィル アヴ ステレオタイプト カジュアル プレイアーズ アズ アンスキルド"
+        },
+        {
+          "en": "You'll have stereotyped everyone in the server before you understand them.",
+          "ja": "彼らを理解する前に、あなたはサーバー内のすべての人を型にはめてしまうでしょう。",
+          "ipa": "[juːl həv ˈstɛriətaɪpt ˈɛvriˌwʌn ɪn ðə ˈsɚvɚ bɪˈfɔr juː ˌʌndɚˈstænd ðɛm]",
+          "linking": [
+            "have の弱形 /əv/ で、stereotype の /s/ に連結しない（子音+子音）[həv ˈstɛriətaɪpt] ハヴ ステレオタイプト",
+            "understand の末尾 /d/ が them の /ð/ に連結 [ˌʌndɚˈstænd ðɛm] アンダースタンド ゼム"
+          ],
+          "kana": "ユール ハヴ ステレオタイプト エヴリワン イン ザ サーヴァー ビフォア ユー アンダースタンド ゼム"
         }
       ]
     }

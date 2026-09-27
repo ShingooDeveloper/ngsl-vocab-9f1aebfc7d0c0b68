@@ -1,0 +1,192 @@
+{
+  "word": "board",
+  "pos": "動詞・名詞",
+  "ipa_us": "/bɔːrd/",
+  "ipa_uk": "/bɔːd/",
+  "meanings": [
+    "【動詞】（乗り物に）乗る、搭乗する（I need to board the airplane in an hour. 1時間で飛行機に乗る必要があります。）",
+    "【動詞】（船に）乗船する（Pirates will board the ship at dawn. 海賊は夜明けに船に乗船するでしょう。）",
+    "【動詞】（板で）塞ぐ、板張りにする（We need to board up the windows before the storm. 嵐の前に窓を板で塞ぐ必要があります。）",
+    "【名詞】板、木の板（The board is made of oak wood. その板はオーク材でできています。）",
+    "【名詞】食卓、食事（Room and board are included in the package. 食事と部屋がパッケージに含まれています。）",
+    "【名詞】委員会、理事会（She was elected to the board. 彼女は委員会に選出されました。）"
+  ],
+  "examples": [
+    {
+      "en": "Passengers must board the flight at least 30 minutes before departure.",
+      "ja": "乗客は出発の少なくとも30分前にフライトに搭乗する必要があります。",
+      "grammar": "助動詞 must + 動詞原形：必須の義務を表す。時間表現で期限を明示。",
+      "ipa": "/ˈpæsɪndʒɚz mʌst bɔːrd ðə ˈflaɪt ət liːst ˈθɜːrti ˈmɪnɪts bɪˈfɔːr dɪˈpɑːrtʃɚ/",
+      "linking": [
+        "must board → must は /məst/ または /mʌst/、board は /bɔːrd/"
+      ],
+      "kana": "パッシンジャーズ マスト ボード ダ フライト ァット リースト サーティー ミニッツ ビフォア ディパーチャー"
+    },
+    {
+      "en": "The ship will board new passengers at the next port of call.",
+      "ja": "その船は次の寄港地で新しい乗客を乗せます。",
+      "grammar": "未来形 will + 動詞原形：確実な未来の予定。at + 場所で乗船地点を指定。",
+      "ipa": "/ðə ʃɪp wɪl bɔːrd ˈnjuː ˈpæsɪndʒɚz æt ðə nɛkst pɔːrt əv kɔːl/",
+      "linking": [
+        "board new → board の /d/ が new の母音 /n/ に連結 [bɔːrd njuː] ボード ニュー",
+        "the next → the は弱形 /ðə/"
+      ],
+      "kana": "ダ シップ ウィル ボード ニュー パッシンジャーズ アット ダ ネクスト ポート アヴ コール"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "We need to board the boat quickly before the endermen attack from the water.",
+      "ja": "エンダーマンが水から攻撃する前に、ボートに早く乗る必要があります。",
+      "grammar": "need to + 動詞原形 + 接続詞before：必要性と時間制限を表現する構文。",
+      "ipa": "/wi niːd tə bɔːrd ðə boʊt ˈkwɪkli bɪˈfɔːr ðə ˈɛndɚmɛn əˈtæk frəm ðə ˈwɔːtɚ/",
+      "linking": [
+        "need to → need は /niːd/、to は弱形 /tə/",
+        "board the → board の /d/ が the の母音 /ðə/ に連結 [bɔːrd ðə] ボード ザ",
+        "the → 弱形 /ðə/",
+        "before the → before は /bɪˈfɔːr/、the は弱形 /ðə/"
+      ],
+      "kana": "ウィ ニード タ ボード ダ ボウト クウィックリー ビフォア ダ エンダーメン ァタック フラム ダ ウォーター"
+    },
+    {
+      "en": "I boarded up all the windows with wooden planks to protect the base from hostile mobs at night.",
+      "ja": "夜間に敵のモブから基地を守るために、木製の板で所有のすべての窓を塞ぎました。",
+      "grammar": "過去形 boarded up + 目的語（all the windows）：実行済みの防御措置を説明。",
+      "ipa": "/aɪ ˈbɔːrdɪd ʌp ɔːl ðə ˈwɪndoʊz wɪð ˈwʊdən ˈplæŋks tu prəˈtɛkt ðə ˈbeɪs frəm ˈhɑːstəl mɑːbz æt naɪt/",
+      "linking": [
+        "boarded up → boarded の /d/ が up の母音 /ʌ/ に連結 [ˈbɔːrdɪd ʌp] ボーディド ゥプ",
+        "all the → all の /l/ が the の母音 /ðə/ に連結 [ɔːl ðə] オール ダ。the は弱形 /ðə/",
+        "from → 弱形 /frəm/"
+      ],
+      "kana": "アイ ボーディド ゥップ オール ダ ウィンドウズ ウィズ ウッデン プラングクス トゥ プロテクト ダ ベイス フラム ホスタル モブズ アット ナイト"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "Passengers must board the flight at least 30 minutes before departure.",
+      "swapped_word": "enter",
+      "result": "Passengers must enter the flight at least 30 minutes before departure.",
+      "ja": "（文法的には不自然）",
+      "note": "enter は「～に入る」という一般的な表現だが、board は特に飛行機や船などの乗り物に「乗り込む」という専門的なニュアンス。aviation context では board が標準的。"
+    },
+    {
+      "base": "I boarded up all the windows with wooden planks to protect the base from hostile mobs at night.",
+      "swapped_word": "cover",
+      "result": "I covered all the windows with wooden planks to protect the base from hostile mobs at night.",
+      "ja": "夜間に敵のモブから基地を守るために、木製の板ですべての窓を覆いました。",
+      "note": "cover は「覆う」という一般的な表現だが、board up は特に「板で塞ぐ」という建築的で保護的なニュアンス。board up がより強く防御の意図を示す。"
+    }
+  ],
+  "collocations": [
+    "board a plane（飛行機に乗る）",
+    "board a ship（船に乗る）",
+    "board the boat（ボートに乗る）",
+    "board up the windows（窓を板で塞ぐ）",
+    "room and board（食事と部屋）",
+    "on board（船上で、乗船中）"
+  ],
+  "pos_all": "動詞・名詞",
+  "rank": 1189,
+  "forms": [
+    {
+      "type": "future",
+      "label": "単純未来形（動詞）",
+      "text": "will board",
+      "ipa": "/wɪl bɔːrd/",
+      "examples": [
+        {
+          "en": "I'll board the boat tomorrow morning to explore the other side of the river.",
+          "ja": "明日の朝、川の反対側を探索するためにボートに乗ります。",
+          "ipa": "/aɪl bɔːrd ðə boʊt təˈmɑːroʊ ˈmɔːrnɪŋ tu ɪkˈsplɔːr ðə ˈʌðɚ saɪd əv ðə ˈrɪvɚ/",
+          "linking": [
+            "I'll → I will の短縮形 /aɪl/",
+            "board the → board の語末 /d/ が the の母音 /ðə/ に連結 [bɔːrd ðə] ボード ザ",
+            "the → 弱形 /ðə/",
+            "to explore → to は弱形 /tə/",
+            "of the → of は弱形 /əv/、the は弱形 /ðə/"
+          ],
+          "kana": "アイル ボード ダ ボウト タモロウ モーニング トゥー イクスプロア ダ アザー サイド アヴ ダ リバー"
+        },
+        {
+          "en": "We will board up the entire structure with wooden planks before the storm arrives tonight.",
+          "ja": "今夜嵐が来る前に、私たちは木製の板で構造全体を塞ぎます。",
+          "ipa": "/wi wɪl bɔːrd ʌp ðə ɪnˈtaɪɚ ˈstrʌktʃɚ wɪð ˈwʊdən ˈplæŋks bɪˈfɔːr ðə stɔːrm əˈraɪvz təˈnaɪt/",
+          "linking": [
+            "will board → will は /wɪl/、board は /bɔːrd/",
+            "board up → board の /d/ が up の母音 /ʌ/ に連結 [bɔːrd ʌp] ボード ゥップ",
+            "the entire → the は弱形 /ðə/",
+            "before the → before は /bɪˈfɔːr/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル ボード ゥップ ダ インタイア ストラクチャー ウィズ ウッデン プランクス ビフォア ダ ストーム ァライヴズ タナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（動詞）",
+      "text": "will be boarding",
+      "ipa": "/wɪl bi ˈbɔːrdɪŋ/",
+      "examples": [
+        {
+          "en": "Players will be boarding the minecart transport system when you arrive at the station tomorrow.",
+          "ja": "明日駅に到着したとき、プレイヤーたちはトロッコ輸送システムに乗っているでしょう。",
+          "ipa": "/ˈpleɪɚz wɪl bi ˈbɔːrdɪŋ ðə ˈmaɪnˌkɑːrt trænzˈpɔːrt ˈsɪstəm wɛn ju əˈraɪv æt ðə ˈsteɪʃən təˈmɑːroʊ/",
+          "linking": [
+            "will be → will は /wɪl/、be は /bi/",
+            "be boarding → be の /i/ が boarding の /b/ に連結",
+            "the minecart → the は弱形 /ðə/",
+            "when you → when は /wɛn/、you は /ju/",
+            "at the → at は /ət/、the は弱形 /ðə/"
+          ],
+          "kana": "プレイヤーズ ウィル ビー ボーディング ダ マインカート トランズポート システム ウェン ユー ァライヴ アット ダ ステイション タモロウ"
+        },
+        {
+          "en": "By next week, you'll be boarding the airship to start your grand adventure across the sky.",
+          "ja": "来週までに、あなたは空全体の壮大な冒険を始めるために飛行船に乗っているでしょう。",
+          "ipa": "/baɪ nɛkst wiːk | juːl bi ˈbɔːrdɪŋ ðə ˈɛrˌʃɪp tu stɑːrt jɚ ɡrænd ədˈvɛntʃɚ əˈkrɑːs ðə skaɪ/",
+          "linking": [
+            "you'll → you will の短縮形 /juːl/",
+            "the airship → the は弱形 /ðə/",
+            "to start → to は弱形 /tə/"
+          ],
+          "kana": "バイ ネクスト ウィーク、ユール ビー ボーディング ダ エアシップ トゥ スタート ユア グランド アドベンチャー ァクロス ダ スカイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（動詞）",
+      "text": "will have boarded",
+      "ipa": "/wɪl həv ˈbɔːrdɪd/",
+      "examples": [
+        {
+          "en": "By the time the ship sets sail, we will have boarded all the necessary supplies and passengers onboard.",
+          "ja": "その船が出航するまでに、私たちは必要なすべての物資と乗客を乗せているでしょう。",
+          "ipa": "/baɪ ðə taɪm ðə ʃɪp sɛts seɪl | wi wɪl həv ˈbɔːrdɪd ɔːl ðə ˈnɛsəˌsɛri səˈplaɪz ənd ˈpæsɪndʒɚz ˈɑːnbɔːrd/",
+          "linking": [
+            "will have → will は /wɪl/、have は弱形 /həv/",
+            "have boarded → have の /v/ が boarded の /b/ に続く（子音+子音で連結なし）",
+            "all the → all の /l/ が the の母音 /ðə/ に連結 [ɔːl ðə] オール ザ。the は弱形 /ðə/",
+            "necessary supplies → necessary は /ˈnɛsəˌsɛri/、supplies は /səˈplaɪz/"
+          ],
+          "kana": "バイ ダ タイム ダ シップ セッツ セイル、ウィ ウィル ハヴ ボーディド オール ダ ネセセリー スプライズ アンド パッシンジャーズ オンボード"
+        },
+        {
+          "en": "They will have boarded the house with reinforced wooden planks by the time the hurricane hits tomorrow afternoon.",
+          "ja": "ハリケーンが明日の午後に襲来するまでに、彼らは強化された木製の板で家を塞いでいるでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈbɔːrdɪd ðə haʊs wɪð ˌriːɪnˈfɔːrst ˈwʊdən ˈplæŋks baɪ ðə taɪm ðə ˈhɚɪˌkeɪn hɪts təˈmɑːroʊ ˈæftɚˌnun/",
+          "linking": [
+            "will have → will は /wɪl/、have は弱形 /həv/",
+            "boarded the → boarded の /d/ が the の母音 /ðə/ に連結 [ˈbɔːrdɪd ðə] ボーディド ザ。the は弱形 /ðə/",
+            "reinforced wooden → reinforced は /ˌriːɪnˈfɔːrst/、wooden は /ˈwʊdən/",
+            "by the → by は /baɪ/、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ウィル ハヴ ボーディド ダ ハウス ウィズ リーインフォースト ウッデン プランクス バイ ダ タイム ダ ハリケーン ヒッツ タモロウ アフタヌーン"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
+}

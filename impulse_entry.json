@@ -334,6 +334,102 @@
           "kana": "ザ レッドストーン パルス ハド ビン インパルシング ザ ドア ウェン ザ シグナル ディスカネクティド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will impulse",
+      "ipa": "/wɪl ˈɪmpəls/",
+      "examples": [
+        {
+          "en": "I'll impulse the lever when we're ready to activate the mechanism.",
+          "ja": "メカニズムを起動する準備ができたら、私はレバーを推し進めます。",
+          "ipa": "[aɪl ˈɪmpəls ðə ˈlevər wɛn wirz ˈrɛdi tu ˈæktɪveɪt ðə ˈmɛkənɪzəm]",
+          "linking": [
+            "I'll （I + will 縮約）= /aɪl/、the の /ðə/ に弱形 /ðə/",
+            "impulse の /s/ が the の /ðə/ に連結 [ˈɪmpəls ðə] インパルス ザ",
+            "lever の語末 /r/ が when の /w/ に続く（r-coloring /ɚ/）[ˈlevər wɛn] レヴァー ウェン",
+            "to は機能語の弱形 /tə/ タ"
+          ],
+          "kana": "アイル インパルス ザ レヴァー ウェン ウィアー レディ タ アクティベイト ザ メカニズム"
+        },
+        {
+          "en": "They'll impulse the piston with a steady redstone signal from the button.",
+          "ja": "彼らはボタンからの安定したレッドストーン信号でピストンを推し進めます。",
+          "ipa": "[ðeɪl ˈɪmpəls ðə ˈpɪstən wɪð ə ˈstɛdi ˈrɛdˌstoʊn ˈsɪɡnəl frəm ðə ˈbʌtən]",
+          "linking": [
+            "They'll （they + will 縮約）= /ðeɪl/、the は弱形 /ðə/ [ðeɪl ðə] ゼイル ザ",
+            "impulse の /s/ が the の /ðə/ に連結 [ˈɪmpəls ðə] インパルス ザ",
+            "with の /ð/ が a の /ə/ に連結（弱形）[wɪð ə] ウィザ",
+            "from は前置詞の弱形 /frəm/ フラム"
+          ],
+          "kana": "ゼイル インパルス ザ ピストン ウィザ ア ステディ レッドストーン シグナル フラム ザ バタン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be impulsing",
+      "ipa": "/wɪl bi ˈɪmpəlsɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone circuit will be impulsing signals throughout the entire night to keep the door mechanism active.",
+          "ja": "レッドストーン回路は一晩中信号を推し進め続けてドア機構をアクティブに保ちます。",
+          "ipa": "[ðə ˈrɛdˌstoʊn ˈsɜːrkɪt wɪl bi ˈɪmpəlsɪŋ ˈsɪɡnəlz θruːˈaʊt ðə ɪnˈtaɪər ˈnaɪt tu kip ðə ˈdɔr ˈmɛkənɪzəm ˈæktɪv]",
+          "linking": [
+            "the は機能語の弱形 /ðə/ [ðə] ザ",
+            "circuit の /t/ が will の /w/ に続く（未開放）[ˈsɜːrkɪt wɪl] サーキット ウィル",
+            "will の /l/ が be の /b/ に続く（子音+子音、連結なし）[wɪl bi] ウィル ビー",
+            "be /i/ が impulsing の /ɪ/ に連結（母音が流れるように）[bi ˈɪmpəlsɪŋ] ビー インパルシング"
+          ],
+          "kana": "ザ レッドストーン サーキット ウィル ビー インパルシング シグナルズ スルーアウト ザ インタイアー ナイト トゥー キープ ザ ドア メカニズム アクティヴ"
+        },
+        {
+          "en": "We'll be impulsing the minecart system continuously while the farm operates in the background.",
+          "ja": "農場がバックグラウンドで動作している間、私たちは鉱山列車システムを継続的に推し進め続けます。",
+          "ipa": "[wiːl bi ˈɪmpəlsɪŋ ðə ˈmaɪnˌkɑrt ˈsɪstəm ˌkɑntɪˈnjuəsli waɪl ðə ˈfɑrm ˈɑpəreɪts ɪn ðə ˈbækˌɡraʊnd]",
+          "linking": [
+            "We'll （we + will 縮約）= /wil/、be の /b/ に続く（子音+子音）[wiːl bi] ウィル ビー",
+            "be /i/ が impulsing の /ɪ/ に流れるように [bi ˈɪmpəlsɪŋ] ビー インパルシング",
+            "impulsing の /ŋ/ が the の /ðə/ に連なり [ˈɪmpəlsɪŋ ðə] インパルシング ザ",
+            "the は機能語の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ウィル ビー インパルシング ザ マインカート システム コンティニュアスリー ワイル ザ ファーム オパレイツ イン ザ バックグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have impulsed",
+      "ipa": "/wɪl həv ˈɪmpəlst/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have impulsed the mechanism thousands of times without any technical failures.",
+          "ja": "明日までに、私たちはメカニズムを技術的障害なしに何千回も推し進めてしまっているだろう。",
+          "ipa": "[baɪ təˈmɑroʊ wiː wɪl həv ˈɪmpəlst ðə ˈmɛkənɪzəm ˈθaʊzəndz əv taɪmz wɪðˈaʊt ˈɛni ˈtɛknɪkəl ˈfeɪljərz]",
+          "linking": [
+            "by の語末 /aɪ/ が tomorrow の /t/ に続く（未開放）[baɪ təˈmɑroʊ] バイ トゥモロー",
+            "will の /l/ が have の /h/ に続く（子音+子音）[wɪl həv] ウィル ハヴ",
+            "have の弱形 /həv/、impulse の /ɪ/ に連結 [həv ˈɪmpəlst] ハヴ インパルスト",
+            "of は前置詞の弱形 /əv/ アヴ"
+          ],
+          "kana": "バイ トゥモロー ウィ ウィル ハヴ インパルスト ザ メカニズム サウザンズ アヴ タイムズ ウィザウト エニー テクニカル フェイリャーズ"
+        },
+        {
+          "en": "She'll have impulsed all the door components by the time the server owner arrives to inspect our work.",
+          "ja": "サーバーオーナーが私たちの仕事を検査しに到着するまでに、彼女はすべてのドアコンポーネントを推し進めてしまっているだろう。",
+          "ipa": "[ʃiːl həv ˈɪmpəlst ɔl ðə ˈdɔr kəmˈpoʊnənts baɪ ðə taɪm ðə ˈsɜːrvər ˈoʊnɚ əˈraɪvz tu ɪnˈspɛkt aʊɚ wɜrk]",
+          "linking": [
+            "She'll （she + will 縮約）= /ʃil/、have の弱形 /həv/ に続く [ʃil həv] シール ハヴ",
+            "have の /v/ が impulsed の /ɪ/ に連結 [həv ˈɪmpəlst] ハヴ インパルスト",
+            "impulsed の /t/ が all の /ɔ/ に未開放で続く [ˈɪmpəlst ɔl] インパルッ オール",
+            "time の /m/ が the の /ðə/ に続く（弱形）[taɪm ðə] タイム ザ"
+          ],
+          "kana": "シール ハヴ インパルスト オール ザ ドア コンポーネンツ バイ ザ タイム ザ サーヴァー オウナー ア ライヴズ トゥー インスペクト アウアー ワーク"
+        }
+      ]
     }
   ],
   "tags": [

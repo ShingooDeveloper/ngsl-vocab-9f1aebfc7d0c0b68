@@ -265,11 +265,11 @@
         {
           "en": "Those mods are corrupting the world save.",
           "ja": "あのModがワールドセーブを破損させています。",
-          "ipa": "/ðoʊz ˈmɑdz ɑɹ kərˈʌptɪŋ ðə ˈwɝld ˈseɪv/",
+          "ipa": "/ðoʊz ˈmɑdz ɚ kərˈʌptɪŋ ðə ˈwɝld ˈseɪv/",
           "kana": "ドウズ マッズ アー コラプティング ザ ワールド セイブ",
           "linking": [
-            "「Those mods」: mods の語末子音 /z/ が are の /ɑ/ に連結するが実際は子音+母音だが、are は弱形で [ɚ]「アー」",
-            "「are corrupting」: are [ɚ] (弱形) が corrupting [k] に連続するが子音+子音のため未開放 [ɚ̚ kərˈʌptɪŋ]「アー コラプティング」",
+            "「Those mods」: mods の語末子音 /z/ が are の母音 /ɚ/ に連結 [ˈmɑdz ɚ]「マッズ アー」、are は弱形 [ɚ]「アー」",
+            "「are corrupting」: are [ɚ] (弱形) が corrupting の /k/ に続く [ɚ kərˈʌptɪŋ]「アー コラプティング」",
             "「the world」: the は弱形 [ðə]「ザ」、world の /w/ に続く"
           ]
         }
@@ -296,11 +296,11 @@
         {
           "en": "We were corrupting the data with that broken plugin.",
           "ja": "あの壊れたプラグインで、私たちはデータを破損させていました。",
-          "ipa": "/wi wɝ kərˈʌptɪŋ ðə ˈdeɪtə wɪð ðæt ˈbroʊkən ˈplʌdʒɪn/",
-          "kana": "ウィ ワー コラプティング ザ デイター ウィザ ザット ブロウカン プラジン",
+          "ipa": "/wi wɚ kərˈʌptɪŋ ðə ˈdeɪɾə wɪð ðæt ˈbroʊkən ˈplʌɡɪn/",
+          "kana": "ウィ ワー コラプティング ザ デイラ ウィザ ザット ブロウカン プラギン",
           "linking": [
-            "「were corrupting」: were は弱形 [wɚ]「ワー」、corrupting の /k/ に続き子音+子音のため未開放 [wɚ̚ kərˈʌptɪŋ]「ワー コラプティング」",
-            "「the data」: the は弱形 [ðə]「ザ」、data の /d/ に続く",
+            "「were corrupting」: were は弱形 [wɚ]「ワー」、corrupting の /k/ に続く [wɚ kərˈʌptɪŋ]「ワー コラプティング」",
+            "「the data」: the は弱形 [ðə]「ザ」、data の /d/ に続く。data の /t/ は母音+/t/+母音の環境でフラップ [ɾ]「デイラ」",
             "「with that」: with の語末子音 /ð/ が that の /ð/ に連続するが子音+子音のため連結なし",
             "「broken plugin」: broken の語末 /n/ が plugin の /p/ に連続するが子音+子音のため連結なし"
           ]
@@ -311,27 +311,27 @@
       "type": "past_perfect_progressive",
       "label": "過去完了進行形（had been + -ing）",
       "text": "had been corrupting",
-      "ipa": "/hæd bɪn kərˈʌptɪŋ/",
+      "ipa": "/həd bɪn kərˈʌptɪŋ/",
       "examples": [
         {
           "en": "The exploit had been corrupting the server for weeks.",
           "ja": "エクスプロイトは数週間サーバーを破損させていました。",
-          "ipa": "/ðə ˈɛksˌplɔɪt hæd bɪn kərˈʌptɪŋ ðə ˈsɝvər fɚ ˈwiks/",
+          "ipa": "/ðə ˈɛksˌplɔɪt həd bɪn kərˈʌptɪŋ ðə ˈsɝvər fɚ ˈwiks/",
           "kana": "ザ エクスプロイット ハド ビン コラプティング ザ サーヴァー ファー ウィークス",
           "linking": [
-            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音のため未開放 [həd̚ bɪn]「ハド ビン」",
+            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音、/d/ は未開放 [həd̚ bɪn]「ハド ビン」",
             "「been corrupting」: been [bɪn] (弱形) が corrupting [k] に続き子音+子音のため未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
             "「the server」: the は弱形 [ðə]「ザ」、server の /s/ に続く",
-            "「for weeks」: for は弱形 [fɚ]「ファー」、weeks の /w/ に続く子音+子音のため連結なし"
+            "「for weeks」: for は弱形 [fɚ]「ファー」、weeks の /w/ に続く"
           ]
         },
         {
           "en": "I had been corrupting my files with unstable mods.",
           "ja": "不安定なModで私はファイルを破損させていました。",
-          "ipa": "/aɪ hæd bɪn kərˈʌptɪŋ maɪ ˈfaɪlz wɪð ʌnˈsteɪbəl ˈmɑdz/",
+          "ipa": "/aɪ həd bɪn kərˈʌptɪŋ maɪ ˈfaɪlz wɪð ʌnˈsteɪbəl ˈmɑdz/",
           "kana": "アイ ハド ビン コラプティング マイ ファイルズ ウィザ アンステイバル マッズ",
           "linking": [
-            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音のため未開放 [həd̚ bɪn]「ハド ビン」",
+            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音、/d/ は未開放 [həd̚ bɪn]「ハド ビン」",
             "「been corrupting」: been [bɪn] (弱形) が corrupting [k] に続き子音+子音のため未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
             "「with unstable」: with の語末子音 /ð/ が unstable の /ʌ/ に連結 [wɪð ʌn...]「ウィザ アンステイバル」",
             "「unstable mods」: unstable の語末 /l/ が mods の /m/ に連続するが子音+子音のため連結なし"

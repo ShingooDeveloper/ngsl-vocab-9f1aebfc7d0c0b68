@@ -61,5 +61,39 @@
       "kana": "イクスプロアリング オール ザ バイオームズ イン ザ オーヴァーワールド ウィザウト ゲッティング ロスト イズノー スモール フィート"
     }
   ],
-  "tags": ["Target 1900"]
+  "tags": ["Target 1900"],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "feats",
+      "ipa": "/fiːts/",
+      "examples": [
+        {
+          "en": "Mining and building massive structures are impressive feats for survival players.",
+          "ja": "採掘と大規模な構造の建設は、サバイバルプレイヤーにとって印象的な大業です。",
+          "ipa": "/ˈmaɪnɪŋ ənd ˈbɪldɪŋ ˈmæsɪv ˈstrʌktʃərz ɑr ɪmˈprɛsɪv fiːts fɔr sərˈvaɪvəl ˈpleɪərz/",
+          "linking": [
+            "and は接続詞で弱形 /ənd/ アン",
+            "structures の語末 /z/ が are の初頭 /ɑ/ に連結する [ˈstrʌktʃərz ɑr] ストラクチャーズ アー",
+            "impressive の語末 /v/ が feats の初頭 /f/ に続く（子音+子音で未開放）",
+            "for は前置詞で弱形 /fə/ または /fɔr/ ファー"
+          ],
+          "kana": "マイニング アン ビルディング マッシヴ ストラクチャーズ アー インプレッシヴ フィーツ ファー サーヴァイヴァル プレイアーズ"
+        },
+        {
+          "en": "The feats of legendary players inspire new builders to create amazing structures.",
+          "ja": "伝説的なプレイヤーの業績は、新しいビルダーたちに素晴らしい構造を作るよう刺激を与えます。",
+          "ipa": "/ðə ˈfiːts əv ˈlɛdʒənˌdɛri ˈpleɪərz ɪnˈspaɪr ˈnu ˈbɪldərz tə kriˈeɪt əˈmeɪzɪŋ ˈstrʌktʃərz/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "feats の語末 /s/ が of の弱形 /əv/ に連結する [ˈfiːts əv] フィーツ アヴ",
+            "legendary の語末 /i/ が players の初頭 /p/ に母音連結",
+            "to は前置詞で弱形 /tə/ タ"
+          ],
+          "kana": "ザ フィーツ アヴ レジェンデリー プレイアーズ インスパイアー ニュー ビルダーズ タ クリエイト アメイジング ストラクチャーズ"
+        }
+      ]
+    }
+  ]
 }

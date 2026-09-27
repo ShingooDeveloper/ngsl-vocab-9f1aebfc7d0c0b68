@@ -74,7 +74,104 @@
       ]
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "sterner",
+      "ipa": "/ˈstɜrnɚ/",
+      "examples": [
+        {
+          "en": "A sterner tone ended all the griefing on our server.",
+          "ja": "より厳しい口調がサーバーのすべての荒らしを終わらせました。",
+          "ipa": "/ə ˈstɜrnɚ toʊn ˈɛndəd ɔl ðə ˈɡriːfɪŋ ɑn ˈaʊr ˈsɜrvɚ/",
+          "linking": [
+            "「a sterner」—不定冠詞「a」の弱形 /ə/ が sterner の初頭 /st/ に先立つ",
+            "「tone ended」—tone の語末子音 /n/ が ended の初頭母音 /ɛ/ に連結",
+            "「ended all」—ended の語末子音 /d/ が all の初頭母音 /ɔ/ に連結 [ˈɛndəd ɔl] エンデッド オール",
+            "「the griefing」—the の弱形 /ðə/ が griefing の初頭 /ɡ/ に先立つ"
+          ],
+          "kana": "ア スターナー トウン エンデッド オール ザ グリーフィング オン アワー サーバー"
+        },
+        {
+          "en": "His sterner approach annoyed everyone and caused problems.",
+          "ja": "彼のより厳しいアプローチはみんなを怒らせて、問題を引き起こしました。",
+          "ipa": "/hɪz ˈstɜrnɚ əˈproʊtʃ əˈnɔɪd ˈɛv.ri.wʌn ənd ˈkɔzd ˈprɑbləmz/",
+          "linking": [
+            "「his sterner」—his の弱形 /hɪz/ が sterner の初頭 /st/ に先立つ（子音+子音）",
+            "「approach annoyed」—approach の語末子音 /tʃ/ が annoyed の初頭母音 /ə/ に連結 [proʊtʃə] プロウチ アノイド",
+            "「annoyed everyone」—annoyed の語末子音 /d/ が everyone の初頭母音 /ɛ/ に連結 [əˈnɔɪdɛ] アノイデ エブリワン",
+            "「and caused」—and の弱形 /ənd/ または /ən/ が caused に先立つ"
+          ],
+          "kana": "ヒズ スターナー プロウチ アノイデ エブリワン アン コーズド プラブリムズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "sternest",
+      "ipa": "/ˈstɜrnɪst/",
+      "examples": [
+        {
+          "en": "The sternest acts against griefing prevent all server problems.",
+          "ja": "荒らしに対する最も厳しい対策がすべてのサーバー問題を防ぎます。",
+          "ipa": "/ðə ˈstɜrnɪst ˈækts əˈɡɛnst ˈɡriːfɪŋ prɪˈvɛnt ɔl ˈsɜrvɚ ˈprɑbləmz/",
+          "linking": [
+            "「the sternest」—the の弱形 /ðə/ が sternest の初頭 /st/ に先立つ",
+            "「sternest acts」—sternest の語末 /t/ が acts の初頭母音 /æ/ に連結 [ˈstɜrnɪstæ] スターニスト アクツ",
+            "「acts against」—acts の語末 /ts/ が against の初頭母音 /ə/ に連結 [ˈæktsə] アクツ アゲンスト",
+            "「prevent all」—prevent の語末子音 /t/ が all の初頭母音 /ɔ/ に連結 [prɪˈvɛnt ɔl] プリヴェント オール"
+          ],
+          "kana": "ザ スターニスト アクツ アゲンスト グリーフィング プリヴェント オール サーヴァー プラブリムズ"
+        },
+        {
+          "en": "Those who show the sternest attitudes usually keep their servers safe.",
+          "ja": "最も厳しい態度を示す者は通常、彼らのサーバーを安全に保ちます。",
+          "ipa": "/ðoʊz hu ʃoʊ ðə ˈstɜrnɪst ˈætɪ.tjuːdz ˈjuʒuəli kip ðɛr ˈsɜrvɚz seɪf/",
+          "linking": [
+            "「the sternest」—the の弱形 /ðə/ が sternest の初頭 /st/ に先立つ",
+            "「sternest attitudes」—sternest の語末 /t/ が attitudes の初頭母音 /æ/ に連結 [ˈstɜrnɪstæ] スターニスト アティチュード",
+            "「attitudes usually」—attitudes の語末 /z/ が usually の初頭 /j/ に続く",
+            "「their servers」—their の語末 /r/ が servers の初頭 /s/ に続く（子音+子音）、複数形 /z/"
+          ],
+          "kana": "ドウズ フー ショウ ザ スターニスト アティチュードズ ユージュアリー キープ ザェア サーヴァーズ セイフ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "sterns",
+      "ipa": "/stɜrnz/",
+      "examples": [
+        {
+          "en": "The sterns are important parts of every ship.",
+          "ja": "船尾はすべての船の重要な部分です。",
+          "ipa": "/ðə stɜrnz ɑr ɪmˈpɔrtənt pɑrts əv ˈɛv.ri ʃɪp/",
+          "linking": [
+            "「the sterns」—the の弱形 /ðə/ が sterns の初頭 /st/ に先立つ",
+            "「sterns are」—sterns の語末 /z/ が are の初頭母音 /ɑ/ に連結 [stɜrnz ɑr] スターンズ アー",
+            "「are important」—are の語末子音 /r/ が important の初頭母音 /ɪ/ に r-連結 [ɑr ɪm] アー イムポーターント",
+            "「parts of」—parts の語末 /ts/ が of の初頭母音 /ə/ に連結 [pɑrts əv] パーツ アヴ"
+          ],
+          "kana": "ザ スターンズ アー イムポーターント パーツ アヴ エブリ シップ"
+        },
+        {
+          "en": "In the harbor, many sterns indicate old ships from long ago.",
+          "ja": "港では、多くの船尾が昔からの古い船を示しています。",
+          "ipa": "/ɪn ðə ˈhɑrbɚ ˈmɛni stɜrnz ˈɪn.dɪˌkeɪt oʊld ʃɪps frəm lɔŋ əˈɡoʊ/",
+          "linking": [
+            "「the harbor」—the の弱形 /ðə/ が harbor の初頭 /h/ に先立つ",
+            "「sterns indicate」—sterns の語末 /z/ が indicate の初頭母音 /ɪ/ に連結 [stɜrnz ˈɪn] スターンズ インディケイト",
+            "「indicate old」—indicate の語末子音 /t/ が old の初頭母音 /oʊ/ に連結（未開放気味） [keɪt oʊld] ケイト オウルド",
+            "「from long」—from の弱形 /frəm/ が long の初頭 /l/ に先立つ（子音+子音）"
+          ],
+          "kana": "イン ザ ハーバー メニー スターンズ インディケイト オウルド シップス フラム ロング アゴウ"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Target 1900"
   ]

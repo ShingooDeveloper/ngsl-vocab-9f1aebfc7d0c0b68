@@ -402,6 +402,102 @@
           "kana": "ディス シークレット メカニズム ハズ ビン イントリーギング エンジニアーズ フォア ザ パースト セバラル ウィークス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will intrigue",
+      "ipa": "/wɪl ɪnˈtriːɡ/",
+      "examples": [
+        {
+          "en": "That architectural design will intrigue players from across the entire server.",
+          "ja": "その建築デザインは、サーバー全体からのプレイヤーを魅惑するでしょう。",
+          "ipa": "/ðæt ɑrˌkɪtɛkʃɚəl dɪˈzaɪn wɪl ɪnˈtriːɡ ˈpleɪɚz frəm əˈkɹɑs ðə ɪnˈtaɪɚ ˈsɝːvɚ/",
+          "linking": [
+            "design の語末 /n/ が will の /w/ に続く（子音+子音）、will は /wəl/ に弱化",
+            "will の /l/ が intrigue の /ɪ/ に連結 [wəl ɪnˈtriːɡ] ウェル イントリーグ",
+            "intrigue の語末 /ɡ/ が players の /p/ に続く（子音+子音）",
+            "from は弱形 /frəm/ で across の /ə/ に連結 [frəm əˈkɹɑs] フラム アクロース"
+          ],
+          "kana": "ザット アーキテクチュラル ディザイン ウェル イントリーグ プレイアーズ フラム アクロース ザ エンタイアー サーバー"
+        },
+        {
+          "en": "I think these hidden passages will intrigue even the most experienced explorers.",
+          "ja": "私はこれらの隠された通路が、最も経験豊かな探検家でさえ魅惑すると思います。",
+          "ipa": "/aɪ ˈθɪŋk ðiz ˈhɪdn̩ ˈpæsɪdʒɪz wɪl ɪnˈtriːɡ ˈivən ðə ˈmoʊst ɪkˈspɪriənst ɪkˈsplɔɹɚz/",
+          "linking": [
+            "think の語末 /k/ が these の /ð/ に未開放で続く [ˈθɪŋk̚ ðiz] シンク ザ",
+            "passages の /z/ が will の /w/ に続く（子音+子音）、will は /wəl/ に弱化",
+            "will の /l/ が intrigue の /ɪ/ に連結 [wəl ɪnˈtriːɡ] ウェル イントリーグ",
+            "most の /t/ が experienced の /ɪ/ に未開放で続く [ˈmoʊst̚ ɪkˈspɪriənst] モウスト イクスピアリエンスド"
+          ],
+          "kana": "アイ シングク ディーズ ヒドン パッセジズ ウェル イントリーグ イーヴン ザ モウスト イクスピアリエンスド イクスプロアラーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be intriguing",
+      "ipa": "/wɪl bi ɪnˈtriːɡɪŋ/",
+      "examples": [
+        {
+          "en": "This mysterious puzzle will be intriguing tournament participants throughout the entire event.",
+          "ja": "このミステリーパズルは、イベント全体を通じてトーナメント参加者を魅惑し続けるでしょう。",
+          "ipa": "/ðɪs ˌmɪsˈtɪriəs ˈpʌzəl wɪl bi ɪnˈtriːɡɪŋ ˈtɔɹnəmənt kəmˈpɛtɪtɚz θɹuːˈaʊt ðə ɪnˈtaɪɚ ɪˈvɛnt/",
+          "linking": [
+            "puzzle の /l/ が will の /w/ に続く（子音+子音）、will は /wəl/ に弱化",
+            "will の /l/ が be の /b/ に続く（子音+子音）、be は /bi/ [wəl bi] ウェル ビー",
+            "be の /i/ が intriguing の /ɪ/ に連続 [bi ɪnˈtriːɡɪŋ] ビー イントリーギング",
+            "intriguing の /ŋ/ が tournament の /t/ に続く（子音+子音）"
+          ],
+          "kana": "ディス ミステリアス パズル ウェル ビー イントリーギング トーナメント コンペティターズ スルーアウト ザ エンタイアー イベント"
+        },
+        {
+          "en": "They'll be intriguing their opponents with clever Redstone traps all season long.",
+          "ja": "彼らはシーズン中ずっと、巧妙なレッドストーン罠で相手を魅惑するでしょう。",
+          "ipa": "/ðeɪl bi ɪnˈtriːɡɪŋ ðɛɹ əˈpoʊnənts wɪð ˈklɛvɚ ˈɹɛdˌstoʊn ˈtɹæps ɔl ˈsiːzən lɔŋ/",
+          "linking": [
+            "They'll は /ðeɪl/ で be の /b/ に連結 [ðeɪl bi] ザイル ビー",
+            "be の /i/ が intriguing の /ɪ/ に連続 [bi ɪnˈtriːɡɪŋ] ビー イントリーギング",
+            "with の /θ/ が clever の /k/ に続く（子音+子音）",
+            "all の /l/ が season の /s/ に続く（子音+子音）"
+          ],
+          "kana": "ザイル ビー イントリーギング ザェア オポーネンツ ウィズ クレバー レッドストーン トラップス オール シーズン ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have intrigued",
+      "ipa": "/wɪl həv ɪnˈtriːɡd/",
+      "examples": [
+        {
+          "en": "By the end of the season, this innovative building design will have intrigued thousands of visitors.",
+          "ja": "シーズン終了までに、この革新的な建築デザインは、数千人の訪問者を魅惑するでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə ˈsiːzən ðɪs ɪˈnɑvətɪv ˈbɪldɪŋ dɪˈzaɪn wɪl həv ɪnˈtriːɡd ˈθaʊzəndz əv ˈvɪzɪtɚz/",
+          "linking": [
+            "by の /i/ が the の /ð/ に連続、the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "design の /n/ が will の /w/ に続く（子音+子音）、will は /wəl/ に弱化",
+            "will の /l/ が have の /h/ に続く（子音+子音）、have は /həv/ [wəl həv] ウェル ハヴ",
+            "intrigued の語末 /d/ が thousands の /θ/ に続く（子音+子音）"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン ディス イノベイティヴ ビルディング ディザイン ウェル ハヴ イントリーグド サウザンズ アヴ ビジターズ"
+        },
+        {
+          "en": "Once we reveal the secret chamber, it will have intrigued everyone on the server.",
+          "ja": "ひとたび秘密の部屋を明かすと、サーバー上のすべての人を魅惑するでしょう。",
+          "ipa": "/wʌns wi rɪˈvil ðə ˈsiːkɹət ˈtʃeɪmbɚ ɪt wɪl həv ɪnˈtriːɡd ˈɛvrɪwʌn ɑn ðə ˈsɝːvɚ/",
+          "linking": [
+            "once の /s/ が we の /w/ に続く（子音+子音）",
+            "chamber の /ɚ/ が it の /ɪ/ に連結 [ˈtʃeɪmbɚ ɪt] チェイムバー イット",
+            "it の /t/ が will の /w/ に未開放で続く [ɪt̚ wɪl] イッ ウィル、will は /wəl/ に弱化",
+            "will の /l/ が have の /h/ に続く（子音+子音）、have は /həv/ [wəl həv] ウェル ハヴ"
+          ],
+          "kana": "ワンス ウィ リビール ザ シークレット チェイムバー イッ ウェル ハヴ イントリーグド エヴリワン オン ザ サーバー"
+        }
+      ]
     }
   ]
 }

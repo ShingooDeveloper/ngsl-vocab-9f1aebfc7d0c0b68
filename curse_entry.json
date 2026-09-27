@@ -1,0 +1,211 @@
+{
+  "word": "curse",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/kɝs/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "curse(?:s|d|ing)?",
+  "meanings": [
+    "【動詞】（人が）不幸や害をこうむることを望む、呪う（to wish bad luck or harm upon someone）",
+    "【動詞】悪態をつく、激しく言う（to swear or speak angrily and offensively）",
+    "【名詞】呪い、負のエンチャント（a spell or magic that causes harm or bad luck）",
+    "【名詞】困難や不運の原因（a source of trouble or repeated bad luck）",
+    "【名詞】悪態、罵倒の言葉（an offensive or rude word）"
+  ],
+  "examples": [
+    {
+      "en": "I curse every creeper in this world!",
+      "ja": "このワールドのすべてのクリーパーを呪うぞ！",
+      "ipa": "[aɪ ˈkɝs ˈɛv.ə.ri ˈkri.pɚ ɪn ðɪs wɝld]",
+      "linking": [
+        "curse every - curse の語末 /s/ が every の初頭 /ɛ/ に連結 [kɝsɛvəri] カース + エブリ → カーセブリ。子音から母音への自然な流れ",
+        "in this - /n/ と /ð/ が続く子音連続。in は /ɪn/ インで、this は /ðɪs/ ディス"
+      ],
+      "kana": "アイ カーセブリ クリーパー イン ディス ワールド"
+    },
+    {
+      "en": "Don't curse at your teammates in chat!",
+      "ja": "チャットでチームメイトに悪態をつくな！",
+      "ipa": "[ˈdoʊnt kɝs æt jɔr ˈtim.meɪts ɪn ˈtʃæt]",
+      "linking": [
+        "curse at - curse の語末 /s/ が at の母音 /æ/ に連結 [kɝsæt] カース + アット → カーサット。子音が後続する母音に流れるように連なる",
+        "at your - at の語末 /t/ が your の初頭 /j/ の前で未開放（開放されない）になり [æt̚jɔr] アッ ユアー。/t/ は詰まる音「ッ」として聞こえる"
+      ],
+      "kana": "ドント カーサット ユア ティームメイツ イン チャット"
+    },
+    {
+      "en": "This curse affects all players on the server!",
+      "ja": "この呪いはサーバー上のすべてのプレイヤーに影響を与える！",
+      "ipa": "[ðɪs kɝs əˈfɛkts ɔl ˈpleɪ.ɚz ɑn ðə ˈsɝ.vɚ]",
+      "linking": [
+        "curse affects - curse の語末 /s/ が affects の初頭の弱形 /ə/ に連結 [kɝsəfɛkts] カース + アフェクツ → カーサフェクツ。affects は機能詞で初頭が弱化した /ə/ となり、curse の /s/ が滑らかに連結",
+        "on the - on の語末 /n/ が the の弱形 /ðə/ に続き自然に流れる [ɑnðə] オン + ザ → オンザ"
+      ],
+      "kana": "ディス カーサフェクツ オール プレイヤーズ オン ザ サーバー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "curse someone out",
+      "ja": "（～を）怒って悪態をつく；激怒して罵る",
+      "example": "He cursed me out after I accidentally destroyed his entire farm!",
+      "example_ja": "私が彼の農場全体を誤って破壊した後、彼は激怒して私に悪態をついた！",
+      "ipa": "[hi ˈkɝst mi ˈaʊt ˈæf.tɚ aɪ ˌæk.sɪ.ˈdɛn.təl.i dɪˈstrɔɪd hɪz ənˈtaɪr ˈfɑrm]",
+      "linking": [
+        "cursed me - cursed の語末 /d/ が me の母音 /i/ に連結 [kɝstmi] カースト + ミー → カーストミー、但し /d/ は弱い発音で流れるように聞こえる",
+        "me out - /i/ と /aʊ/ が連続する二つの母音。自然な流れで [mi aʊt] ミー + アウト → ミーアウト"
+      ],
+      "kana": "ヒー カーストミー アウト アフター アイ アクシデンタリー デストロイド ヒズ エンタイア ファーム"
+    },
+    {
+      "idiom": "curse at someone",
+      "ja": "（～に）罵声を浴びせる；悪態をついて怒る",
+      "example": "Stop cursing at the mobs whenever you die in survival mode!",
+      "example_ja": "サバイバルモードで死ぬたびにモブに悪態をつくのをやめろ！",
+      "ipa": "[ˈstɑp ˈkɝrs.ɪŋ æt ðə ˈmɑbz wɛn.ɛv.ɚ ju ˈdaɪ ɪn sɚˈvaɪ.vəl ˈmoʊd]",
+      "linking": [
+        "cursing at - cursing の語末 /ŋ/ が at の母音 /æ/ に連結 [ˈkɝrs.ɪŋ æt] カーシング + アット → カーシングアット。/ŋ/ は鼻音で母音に続く",
+        "at the - at の語末 /t/ が the の弱形初頭 /ð/ に続き未開放 [æt̚ðə] アッ ザ。/t/ は未開放で「ッ」の音"
+      ],
+      "kana": "ストップ カーシングアット ザ モブズ ウェンエバー ユー ダイ イン サーバイバル モウド"
+    },
+    {
+      "idiom": "be cursed with",
+      "ja": "～を宿命として持つ；～に見舞われている",
+      "example": "We're cursed with terrible luck in finding diamonds this season.",
+      "example_ja": "今シーズンはダイヤを見つける運が悪い。（悪運に見舞われている）",
+      "ipa": "[wɪr ˈkɝst wɪð ˈtɛr.ə.bəl ˈlʌk ɪn ˈfaɪn.dɪŋ ˈdaɪ.məndz ðɪs ˈsi.zən]",
+      "linking": [
+        "be cursed - 弱形 be /bɪ/ がしばしば /bi/ で、cursed /kɝst/ に続く [bɪkɝst] ビー + カースト → ビーカースト",
+        "cursed with - cursed の語末 /d/ が with の初頭 /w/ の前で未開放 [kɝst̚wɪð] カースッ ウィズ。/d/ は詰まった音で、with に続く"
+      ],
+      "kana": "ウィア カースト ウィズ テリブル ラック イン ファインディング ダイマンズ ディス シーズン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd person singular",
+      "label": "三人称単数形",
+      "text": "curses",
+      "ipa": "/ˈkɝsəz/",
+      "examples": [
+        {
+          "en": "The curse curses all who enter the ancient temple.",
+          "ja": "その呪いは古代神殿に入るすべての者を呪う。",
+          "ipa": "[ðə ˈkɝrs ˈkɝsəz ɔl hu ˈɛn.tɚ ði ˈeɪn.ʃənt ˈtɛm.pəl]",
+          "linking": [
+            "curse curses - curse の語末 /s/ が curses の初頭 /k/ に続き未開放 [kɝs kɝrəz] カース + カーシズ → カース キーシズ",
+            "curses all - curses の語末 /z/ が all の初頭 /ɔ/ に連結 [ˈkɝ.səz ɔl] カーシズ + オール → カーシズォール",
+            "all who - /l/ が /w/ に続き子音連続。who は /hu/ フー"
+          ],
+          "kana": "ザ カース カーシズ オール フー エンター ディ エイシェント テンプル"
+        },
+        {
+          "en": "Bad luck curses anyone who breaks the rules of the server.",
+          "ja": "サーバーのルールを破る誰もが悪運に呪われる。",
+          "ipa": "[bæd ˈlʌk ˈkɝsəz ˈɛn.i.wən hu ˈbreɪks ðə ˈrulz əv ðə ˈsɝ.vɚ]",
+          "linking": [
+            "luck curses - /k/ が /k/ に続き1つの音に聞こえる未開放 [ˈlʌk kɝrəz] ラック + カーシズ → ラッ キーシズ",
+            "curses anyone - /z/ が /ɛ/ に連結 [ˈkɝ.səz ɛn.i.wən] カーシズ + エニワン → カーシズェニワン",
+            "of the - /v/ が /ð/ に続き子音連続。of の弱形 /əv/ オヴ、the の弱形 /ðə/ ザ"
+          ],
+          "kana": "バッド ラック カーシズェニワン フー ブレイクス ザ ルーズ アヴ ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past tense",
+      "label": "過去形",
+      "text": "cursed",
+      "ipa": "/ˈkɝsəd/",
+      "examples": [
+        {
+          "en": "I cursed myself for mining straight down and falling into lava.",
+          "ja": "真っ直ぐ採掘してマグマに落ちたことで、自分自身を呪った。",
+          "ipa": "[aɪ ˈkɝsəd maɪˈsɛlf fɔr ˈmaɪn.ɪŋ streɪt ˈdaʊn ənd ˈfɔl.ɪŋ ˈɪn.tu ˈlɑ.və]",
+          "linking": [
+            "cursed myself - /d/ が /m/ に続き未開放 [kɝst̚maɪsɛlf] カースト + マイセルフ → カースト マイセルフ。/d/ は詰まる音",
+            "for mining - /ɹ/ が /m/ に続き子音連続。for は弱形 /fɚ/ ファー",
+            "down and - /n/ が /æ/ に連結 [ˈdaʊn ənd] ダウン + アンド → ダウナンド。and は弱形 /ənd/ かつ連結"
+          ],
+          "kana": "アイ カースト マイセルフ ファー マイニング ストレイト ダウナンド フォーリング イントゥ ラーバ"
+        },
+        {
+          "en": "The ancient witch cursed the players who stole her cauldron.",
+          "ja": "古い魔女は彼女の大釜を盗んだプレイヤーたちを呪った。",
+          "ipa": "[ðə ˈeɪn.ʃənt ˈwɪtʃ ˈkɝsəd ðə ˈpleɪ.ɚz hu ˈstoʊl hɚ ˈkɔl.drən]",
+          "linking": [
+            "witch cursed - /tʃ/ が /k/ に続き子音連続。未開放で [ˈwɪtʃ kɝrst] ウィッチ + カースト → ウィッ キースト",
+            "cursed the - /d/ が /ð/ に続き子音連続。the は弱形 /ðə/ ザ",
+            "players who - /z/ が /w/ に続く。who は /hu/ フー"
+          ],
+          "kana": "ザ エイシェント ウィッチ カースト ザ プレイヤーズ フー ストウル ハー コールドロン"
+        }
+      ]
+    },
+    {
+      "type": "past participle",
+      "label": "過去分詞",
+      "text": "cursed",
+      "ipa": "/ˈkɝsəd/",
+      "examples": [
+        {
+          "en": "The cursed diamond armor was stuck on the player forever.",
+          "ja": "呪われたダイヤモンド防具は永遠にプレイヤーに付いたままだった。",
+          "ipa": "[ðə ˈkɝsəd ˈdaɪmənd ˈɑrmɚ wəz stʌk ɑn ðə ˈpleɪɚ fɚˈɛvɚ]",
+          "linking": [
+            "cursed diamond - cursed の語末 /d/ が diamond の初頭 /d/ に向かい、一つの音に聞こえる未開放 [ˈkɝsəd ˈdaɪmənd] カースド ダイマンド",
+            "was stuck - was は弱形 /wəz/ ウェズ、stuck の初頭 /s/ に向かう子音連続",
+            "on the - on の語末 /n/ が the の初頭 /ð/ に向かい、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ カースド ダイマンド アーマー ワズ スタック オン ザ プレイヤー フォーエバー"
+        },
+        {
+          "en": "Items cursed with Vanishing disappear when you die in the Nether.",
+          "ja": "消失の呪いが掛かったアイテムは、ネザーで死ぬと消えます。",
+          "ipa": "[ˈaɪtəmz ˈkɝsəd wɪð ˈvænɪʃɪŋ dɪsəˈpɪr wɛn ju ˈdaɪ ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "cursed with - cursed の語末 /d/ が with の初頭 /w/ に向かい未開放 [ˈkɝsəd wɪð] カースド ウィズ",
+            "Vanishing disappear - Vanishing の語末 /ŋ/ が disappear の初頭 /d/ に向かう子音連続",
+            "the Nether - the は定冠詞の弱形 /ðə/ ザ"
+          ],
+          "kana": "アイテムズ カースド ウィズ ヴァニッシング ディサピア ウェン ユー ダイ イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present participle",
+      "label": "現在分詞形",
+      "text": "cursing",
+      "ipa": "/ˈkɝsɪŋ/",
+      "examples": [
+        {
+          "en": "Cursing at your teammates never helps when you're losing the game.",
+          "ja": "ゲームに負けているとき、チームメイトに悪態をつくことは決して役に立たない。",
+          "ipa": "[ˈkɝsɪŋ æt jɔr ˈtim.meɪts ˈnɛv.ɚ ˈhɛlps wɛn jɚ ˈluz.ɪŋ ðə ˈɡeɪm]",
+          "linking": [
+            "Cursing at - /ŋ/ が /æ/ に連結 [ˈkɝrs.ɪŋ æt] カーシング + アット → カーシングアット。鼻音 /ŋ/ が母音に流れる",
+            "teammates never - /s/ が /n/ に続き子音連続。never の初頭 /n/ ネバー",
+            "the game - the は弱形 /ðə/ ザ"
+          ],
+          "kana": "カーシングアット ユア ティームメイツ ネバー ヘルプス ウェン ユアー ルージング ザ ゲイム"
+        },
+        {
+          "en": "He was cursing under his breath the entire time we were building.",
+          "ja": "私たちが建築している間中、彼は口の中で悪態をついていた。",
+          "ipa": "[hi wəz ˈkɝsɪŋ ˈʌn.dɚ hɪz ˈbrɛθ ðə ɪnˈtaɪr ˈtaɪm wi wɚ ˈbɪl.dɪŋ]",
+          "linking": [
+            "was cursing - /z/ が /k/ に続く子音連続（was の弱形 /wəz/ ウェズ → 未開放）[wəz kɝrsɪŋ] ワズ + カーシング → ワッ キーシング",
+            "his breath - /z/ が /b/ に続き子音連続。breath は /brɛθ/ ブレス",
+            "the entire - the は弱形 /ðə/ ザ、entire は /ɪnˈtaɪr/ エンタイアー"
+          ],
+          "kana": "ヒー ワズ カーシング アンダー ヒズ ブレス ザ エンタイア タイム ウィー ワー ビルディング"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ]
+}

@@ -225,6 +225,102 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has oriented",
+      "ipa": "/həz ˈɔːɹiəntɪd/",
+      "examples": [
+        {
+          "en": "We have oriented the furnaces to work together efficiently.",
+          "ja": "炉をスムーズに協働するように向きを決めました。",
+          "ipa": "/wi həv ˈɔːɹiəntɪd ðə ˈfɚːnɪsɪz tə ˈwɚːk təˈɡɛðɚ ɪˈfɪʃəntli/",
+          "linking": [
+            "have は機能語で弱形 /həv/ ハヴ",
+            "oriented の語末 /d/ が the の初頭 /ð/ に連結（未開放）",
+            "to は機能語で弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ハヴ オーリエンティド ザ ファーニシズ タ ワーク トゥゲザー イフィシェントリー"
+        },
+        {
+          "en": "She has oriented herself to the desert biome's intense heat.",
+          "ja": "彼女は砂漠バイオームの激しい熱に自分を適応させました。",
+          "ipa": "/ʃi həz ˈɔːɹiəntɪd hɚˈsɛlf tə ðə ˈdɛzɚt ˈbaɪoʊmz ɪnˈtɛns ˈhiːt/",
+          "linking": [
+            "has は機能語で弱形 /həz/ ハズ",
+            "oriented herself → oriented の /d/ が herself の初頭 /h/ に先行（未開放）",
+            "to は機能語で弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "シー ハズ オーリエンティド ハーセルフ タ ザ デザート バイオームズ インテンス ヒート"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had oriented",
+      "ipa": "/hæd ˈɔːɹiəntɪd/",
+      "examples": [
+        {
+          "en": "After we had oriented the portal chamber, we discovered it led to the ancient fortress.",
+          "ja": "ポータルチャンバーの向きを決めた後、それが古代要塞に通じていることを発見しました。",
+          "ipa": "/ˈæftɚ wi həd ˈɔːɹiəntɪd ðə ˈpoʊɹtəl ˈtʃeɪmbɚ, wi dɪˈskʌvɚd ɪt lɛd tə ði ˈeɪʃənt ˈfɔɹtɚs/",
+          "linking": [
+            "had は機能語で弱形 /həd/ ハド",
+            "oriented の語末 /d/ が the の初頭 /ð/ に連結（未開放）",
+            "to は機能語で弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アフター ウィ ハド オーリエンティド ザ ポータル チェイムバー ウィ ディスカバード イット レド タ ザ エーシェント フォートレス"
+        },
+        {
+          "en": "He had oriented all the structures before the new players arrived.",
+          "ja": "新しいプレイヤーが到着する前に、すべての構造物の向きを決めていました。",
+          "ipa": "/hi həd ˈɔːɹiəntɪd ɔl ðə ˈstrɑktʃɚz bɪˈfɔr ðə ˈnuː ˈpleɪɚz əˈraɪvd/",
+          "linking": [
+            "had は機能語で弱形 /həd/ ハド",
+            "oriented all → oriented の /d/ が all の初頭 /ɔ/ に連結",
+            "the は弱形 /ðə/ ザ",
+            "before の /r/ は r-coloring を保つ"
+          ],
+          "kana": "ヒー ハド オーリエンティド オール ザ ストラクチャーズ ビフォア ザ ニュー プレイアーズ アラィvド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been orienting",
+      "ipa": "/həz bɪn ˈɔːɹiəntɪŋ/",
+      "examples": [
+        {
+          "en": "I have been orienting the walls to match the mountain's natural slope.",
+          "ja": "山の自然な傾斜に合わせるために壁の向きを決め続けています。",
+          "ipa": "/aɪ həv bɪn ˈɔːɹiəntɪŋ ðə wɔlz tə ˈmætʃ ðə ˈmaʊntən'z ˈnætʃərəl ˈsloʊp/",
+          "linking": [
+            "have は機能語で弱形 /həv/ ハヴ",
+            "been は機能語で弱形 /bɪn/ ビン",
+            "to は機能語で弱形 /tə/ タ",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ ビン オーリエンティング ザ ウォールズ タ マッチ ザ マウンテンズ ナチュラル スロープ"
+        },
+        {
+          "en": "They have been orienting the redstone circuits since this morning.",
+          "ja": "彼らは今朝からレッドストーン回路の向きを決め続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈɔːɹiəntɪŋ ðə ˈrɛdˌstoʊn ˈsɚːkɪts sɪns ðɪs ˈmɔrnɪŋ/",
+          "linking": [
+            "have は機能語で弱形 /həv/ ハヴ",
+            "been は機能語で弱形 /bɪn/ ビン",
+            "the は弱形 /ðə/ ザ",
+            "since の語末 /s/ は次の /ð/ に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ゼイ ハヴ ビン オーリエンティング ザ レッドストーン サーキッツ シンス ディス モーニング"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is orienting",
@@ -236,15 +332,14 @@
           "ipa": "/ʃi ɪz ˈɔːɹiəntɪŋ ðə ˈfɚːnɪsɪz təˈwɔːɹd ðə prəˈdʌkʃən ˈɛriə/",
           "linking": [
             "is は機能語（助動詞）で弱形 /ɪz/ イズ",
-            "the は弱形 /ðə/ ザ",
-            "to は機能語で弱形 /tə/ タ"
+            "the は弱形 /ðə/ ザ"
           ],
           "kana": "シー イズ オーリエンティング ザ ファーニシズ タワード ザ プロダクション エリア"
         },
         {
           "en": "We are orienting our base for maximum efficiency.",
           "ja": "私たちは最大の効率のために基地を配置中です。",
-          "ipa": "/wi ɑr ˈɔːɹiəntɪŋ ˈaʊr ˈbeɪs fɔr ˈmæksɪməm ɪˈfɪʃənsi/",
+          "ipa": "/wi ɚ ˈɔːɹiəntɪŋ ˈaʊɚ ˈbeɪs fɔr ˈmæksɪməm ɪˈfɪʃənsi/",
           "linking": [
             "are は機能語で弱形 /ɚ/ アー",
             "our は r-coloring で /aʊɚ/ アウアー",
@@ -300,7 +395,7 @@
             "the は弱形 /ðə/ ザ",
             "for は機能語で弱形 /fɔr/ フォア"
           ],
-          "kana": "ウィ ハド ビン オーリエンティング ザ ファーニシズ フォア アウアーズ ビフォア マイニング ビギャン"
+          "kana": "ウィ ハド ビン オーリエンティング ザ ファーニシズ フォア アウアーズ ビフォア マイニング ビガン"
         },
         {
           "en": "She had been orienting herself to the new dimension for weeks.",
@@ -315,6 +410,98 @@
             "for は機能語で弱形 /fɔr/ フォア"
           ],
           "kana": "シー ハド ビン オーリエンティング ハーセルフ タ ザ ニュー ダイメンション フォア ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will orient",
+      "ipa": "/wɪl ˈɔːɹiənt/",
+      "examples": [
+        {
+          "en": "I'll orient the new players to the base layout.",
+          "ja": "新しいプレイヤーを基地のレイアウトに案内するよ。",
+          "ipa": "/aɪl ˈɔːɹiənt ðə ˈnuː ˈpleɪɚz tə ðə ˈbeɪs ˈleɪaʊt/",
+          "linking": [
+            "I'll は will の縮約形 /aɪl/ [アイル]",
+            "the は弱形 /ðə/ [ザ]",
+            "to は機能語で弱形 /tə/ [タ]"
+          ],
+          "kana": "アイル オーリエント ザ ニュー プレイアーズ タ ザ ベイス レイアウト"
+        },
+        {
+          "en": "They will orient the furnaces toward the smelter facility by next week.",
+          "ja": "来週までに、彼らは炉をスメルター施設に向けて配置するでしょう。",
+          "ipa": "/ðeɪ wəl ˈɔːɹiənt ðə ˈfɚːnɪsɪz təˈwɔːɹd ðə ˈsmɛltɚ fəˈsɪləti baɪ ˈnɛkst ˈwik/",
+          "linking": [
+            "will は子音の前で弱形 /wəl/ [ウル]",
+            "the は弱形 /ðə/ [ザ]",
+            "toward の /w/ はオフグライド"
+          ],
+          "kana": "ザイ ウル オーリエント ザ ファーニシズ タワード ザ スメルター ファシリティー バイ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be orienting",
+      "ipa": "/wɪl bi ˈɔːɹiəntɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be orienting the structures all through the night shift.",
+          "ja": "夜のシフト中ずっと、私たちは構造物の向きを決めるだろう。",
+          "ipa": "/wil bi ˈɔːɹiəntɪŋ ðə ˈstrɑktʃərz ɔl θruː ðə ˈnaɪt ˈʃɪft/",
+          "linking": [
+            "We'll は will be の縮約で /wil/ [ウィル]",
+            "be は弱形 /bi/ [ビー]",
+            "the は弱形 /ðə/ [ザ]"
+          ],
+          "kana": "ウィル ビー オーリエンティング ザ ストラクチャーズ オール スルー ザ ナイト シフト"
+        },
+        {
+          "en": "He'll be orienting newcomers while we explore the abandoned fortress.",
+          "ja": "私たちが放棄された要塞を探索している間に、彼は新来者を案内するだろう。",
+          "ipa": "/hil bi ˈɔːɹiəntɪŋ ˈnjuːkəmɚz ˈwaɪl wi ɪkˈsplɔr ðə əˈbændənd ˈfɔːɹtɪs/",
+          "linking": [
+            "He'll は will be の縮約で /hil/ [ヒール]",
+            "be は弱形 /bi/ [ビー]",
+            "the は弱形 /ðə/ [ザ]",
+            "while の /l/ が we の /w/ に続く（子音で始まるので連結なし）"
+          ],
+          "kana": "ヒール ビー オーリエンティング ニューカマーズ ワイル ウィ イクスプロア ザ アバンダンド フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have oriented",
+      "ipa": "/wɪl həv ˈɔːɹiəntɪd/",
+      "examples": [
+        {
+          "en": "By sundown, you will have oriented the entire settlement toward the village.",
+          "ja": "日没までに、あなたはすべての定住地を村に向けて配置しているだろう。",
+          "ipa": "/baɪ ˈsʌndaʊn, juː wəl əv ˈɔːɹiəntɪd ðə ɪnˈtaɪər ˈsɛtəlmənt təˈwɔːɹd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "will は子音の前で弱形 /wəl/ [ウル]",
+            "have は弱形 /əv/ [アヴ] (will have → 've で have /əv/)",
+            "the は弱形 /ðə/ [ザ]",
+            "toward の /w/ はオフグライド"
+          ],
+          "kana": "バイ サンダウン ユー ウル アヴ オーリエンティド ザ インタイアー セトルメント タワード ザ ヴィレッジ"
+        },
+        {
+          "en": "They'll have oriented the base defenses before the raid begins.",
+          "ja": "襲撃が始まる前に、彼らは基地の防御を向けて準備しているだろう。",
+          "ipa": "/ðeɪl əv ˈɔːɹiəntɪd ðə ˈbeɪs dɪˈfɛnsɪz bɪˈfɔr ðə ˈreɪd bɪˈɡɪnz/",
+          "linking": [
+            "They'll have → /ðeɪl əv/ 。will have → 'll have で have は弱形 /əv/ [ザイル アヴ]",
+            "the は弱形 /ðə/ [ザ]",
+            "raid は /ˈreɪd/、begins は /bɪˈɡɪnz/"
+          ],
+          "kana": "ザイル アヴ オーリエンティド ザ ベイス ディフェンシズ ビフォア ザ レイド ビギンズ"
         }
       ]
     }

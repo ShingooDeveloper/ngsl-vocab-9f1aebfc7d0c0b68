@@ -402,6 +402,96 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will tease",
+      "ipa": "/wɪl tiz/",
+      "examples": [
+        {
+          "en": "I'll tease you about that disastrous mining expedition for weeks to come.",
+          "ja": "あの悲劇的な採掘遠征について、今後数週間君をからかい続けるよ。",
+          "ipa": "/aɪl ˈtiz ju əˈbaʊt ðæt ˈdɪzæstɹəs ˈmaɪnɪŋ ɪkˈspɪdɪʃən fɔr wiks tə kʌm/",
+          "kana": "アイル ティーズ ユー アバウッ ザット ディザストラス マイニング エクスペディション フォア ウィークス タ カム",
+          "linking": [
+            "I'll tease — 縮約 I'll /aɪl/ が子音 /t/ に先行 [aɪl ˈtiz] アイル ティーズ",
+            "tease you — 語末 /z/ が母音 /j/ に連結 [ˈtiz ju] ティーズ ユー",
+            "that disastrous — 語末 /t/ が母音に未開放で先行 [ðæt̚ ˈdɪzæstɹəs] ザッ ディザストラス"
+          ]
+        },
+        {
+          "en": "She will tease anyone who dies to a skeleton before they get proper armor.",
+          "ja": "彼女は、ちゃんとした防具を手に入れる前にスケルトンに殺される者なら誰でもからかうでしょう。",
+          "ipa": "/ʃi wɪl ˈtiz ˈɛniˌwʌn hu daɪz tu ə ˈskɛlətən bɪˈfɔr ðeɪ ɡɛt ˈprɑpɚ ˈɑrmɚ/",
+          "kana": "シー ウル ティーズ エニワン フー ダイズ トゥー ア スケレトン ビフォア ゼイ ゲット プロパー アーマー",
+          "linking": [
+            "will tease — will 弱形 /wəl/ が子音 /t/ に先行 [wəl ˈtiz] ウル ティーズ",
+            "tease anyone — 語末 /z/ が母音 /ɛ/ に連結 [ˈtiz ˈɛniˌwʌn] ティーズ エニワン",
+            "a skeleton — 弱形 a /ə/ が子音 /s/ に先行 [ə ˈskɛlətən] ア スケレトン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be teasing",
+      "ipa": "/wɪl bi ˈtizɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be teasing each other about our terrible combat skills while exploring the Nether.",
+          "ja": "ネザーを探索する間、私たちはお互いの悪い戦闘スキルについてからかい合うでしょう。",
+          "ipa": "/wil bi ˈtizɪŋ itʃ ˈʌðɚ əˈbaʊt aʊɚ ˈtɛrəbəl ˈkɑmbæt ˈskɪlz waɪl ɪkˈsplɔrɪŋ ðə ˈnɛðɚ/",
+          "kana": "ウィル ビ ティーズィング イーチ アザー アバウット アワー テラブル コンバット スキルズ ホワイル エクスプロアリング ザ ネザー",
+          "linking": [
+            "We'll be — 縮約 we'll /wil/ が母音 /b/ に連結 [wil bi] ウィル ビー",
+            "be teasing — be /bɪ/ が子音 /t/ に先行 [bɪ ˈtizɪŋ] ビ ティーズィング",
+            "the Nether — 弱形 the /ðə/ が子音 /n/ に先行 [ðə ˈnɛðɚ] ザ ネザー"
+          ]
+        },
+        {
+          "en": "They will be teasing us throughout the entire building competition next month.",
+          "ja": "来月の建築コンペティション全体を通じて、彼らは私たちをからかい続けるでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈtizɪŋ ʌs θruːˈaʊt ðə ɪnˈtaɪɚ ˈbɪldɪŋ kɑmˈpɛtɪʃən nɛkst ˈmʌnθ/",
+          "kana": "ゼイ ウル ビ ティーズィング アス スルーアウト ザ イティアー ビルディング コンペティション ネクスト マンス",
+          "linking": [
+            "will be — will 弱形 /wəl/ が母音 /b/ に連結 [wəl bi] ウル ビー",
+            "be teasing — be /bɪ/ が子音 /t/ に先行 [bɪ ˈtizɪŋ] ビ ティーズィング",
+            "the entire — 弱形 the /ðə/ が母音 /ɪ/ に先行 [ðə ɪnˈtaɪɚ] ザ イティアー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have teased",
+      "ipa": "/wɪl həv ˈtizd/",
+      "examples": [
+        {
+          "en": "By the time you get diamond gear, I will have teased you about your wooden sword a thousand times.",
+          "ja": "君がダイヤ装備を手に入れるまでに、私は木の剣について千回も君をからかってしまうだろう。",
+          "ipa": "/baɪ ðə taɪm ju ɡɛt ˈdaɪmənd ɡɪr aɪ wɪl həv ˈtizd ju əˈbaʊt jɔr ˈwʊdən ˈsɔrd ə ˈθaʊzənd taɪmz/",
+          "kana": "バイ ザ タイム ユー ゲット ダイモンド ギア アイ ウィル ハヴ ティーズド ユー アバウット ユア ウッデン ソード ア サウザンド タイムズ",
+          "linking": [
+            "the time — 弱形 the /ðə/ が子音 /t/ に先行 [ðə taɪm] ザ タイム",
+            "will have — will 弱形 /wəl/ が have /h/ に続き have は弱形 /əv/ [wəl həv] ウル ハヴ",
+            "teased you — 語末 /d/ が母音 /j/ に連結 [ˈtizd ju] ティーズド ユー"
+          ]
+        },
+        {
+          "en": "She will have teased him about his mining mistakes for an entire season by then.",
+          "ja": "その頃までに、彼女は彼の採掘ミスについて一シーズン丸ごとからかい続けているはずだ。",
+          "ipa": "/ʃi wɪl həv ˈtizd hɪm əˈbaʊt hɪz ˈmaɪnɪŋ mɪˈsteɪks fɔr ən ɪnˈtaɪɚ ˈsizən baɪ ðɛn/",
+          "kana": "シー ウィル ハヴ ティーズド ヒム アバウット ヒズ マイニング ミステイクス ファ アン イティアー シーズン バイ ゼン",
+          "linking": [
+            "will have — will 弱形 /wəl/ が have に続き have は弱形 /əv/ [wəl həv] ウル ハヴ",
+            "have teased — have 弱形 /əv/ が子音 /t/ に先行 [həv ˈtizd] ハヴ ティーズド",
+            "for an — for 弱形 /fɚ/ が an /ən/ に続く（子音+子音）[fɔr ən] ファ アン"
+          ]
+        }
+      ]
     }
   ]
 }

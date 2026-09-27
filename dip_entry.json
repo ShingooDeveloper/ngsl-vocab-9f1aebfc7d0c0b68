@@ -378,6 +378,96 @@
           "kana": "ウィ ハヴ ビン ディッピング アーマー イン ザ ヒーリング カルドロン ファー アウアーズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will dip",
+      "ipa": "/wɪl ˈdɪp/",
+      "examples": [
+        {
+          "en": "I'll dip my sword in the enchanting pool before the battle.",
+          "ja": "戦闘の前に、魔法の池に剣を浸します。",
+          "ipa": "/aɪl ˈdɪp maɪ ˈsɔrd ɪn ðə ɛnˈtʃɑntɪŋ ˈpul bɪˈfɔr ðə ˈbætəl/",
+          "linking": [
+            "「I'll」- will は主語と縮約 [aɪl] アイル",
+            "「sword in」- 語末子音 /d/ が母音 /ɪ/ に連結 [sɔɹdɪn] ソアディン",
+            "「the」- 機能語は弱形 /ðə/"
+          ],
+          "kana": "アイル ディップ マイ ソアディン ザ エンチャンティング プール ビフォア ザ バットル"
+        },
+        {
+          "en": "He will dip his pickaxe in the magic water after we finish mining.",
+          "ja": "採掘を終えた後、彼はつるはしを魔法の水に浸します。",
+          "ipa": "/hi wɪl ˈdɪp hɪz ˈpɪkæks ɪn ðə ˈmædʒɪk ˈwɔɾɚ ˈæftɚ wi ˈfɪnɪʃ ˈmaɪnɪŋ/",
+          "linking": [
+            "「will」- 主語に続く場合、助動詞は弱形 /wəl/ に弱化",
+            "「water」- t がフラップ化 /ɾ/ に [ˈwɔɾɚ] ウォーラー",
+            "「the magic」- 機能語 the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ウィル ディップ ヒズ ピックアックス イン ザ マジック ウォーラー アフター ウィ フィニッシュ マイニング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be dipping",
+      "ipa": "/wɪl bi ˈdɪpɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be dipping our armor in the healing cauldron all evening.",
+          "ja": "一晩中、ヒーリング坩堝に鎧を浸します。",
+          "ipa": "/wil bi ˈdɪpɪŋ ˈaʊɚ ˈɑrmɚ ɪn ðə ˈhilɪŋ ˈkɔldrən ɔl ˈivnɪŋ/",
+          "linking": [
+            "「We'll」- will は主語と縮約 [wil] ウィル",
+            "「be」- 機能語は弱形 /bi/",
+            "「dipping armor」- 語末子音 /ŋ/ が母音 /aʊ/ に連結 [ˈdɪpɪŋaʊɚ] ディッピングアウアー"
+          ],
+          "kana": "ウィル ビー ディッピングアウアー アーマー イン ザ ヒーリング カルドロン オール イブニング"
+        },
+        {
+          "en": "They will be dipping items in the enchanted pool while we're building.",
+          "ja": "私たちが建築している間、アイテムをエンチャント池に浸します。",
+          "ipa": "/ðeɪ wɪl bi ˈdɪpɪŋ ˈaɪtəmz ɪn ðə ɛnˈtʃæntɪd ˈpul waɪl wiɹ ˈbɪldɪŋ/",
+          "linking": [
+            "「will」- 主語に続く場合、助動詞は弱形 /wəl/ に弱化",
+            "「be」- 機能語は弱形 /bi/",
+            "「dipping items」- 語末子音 /ŋ/ が母音 /aɪ/ に連結 [ˈdɪpɪŋaɪtəmz] ディッピングアイテムズ"
+          ],
+          "kana": "ゼイ ウィル ビー ディッピングアイテムズ イン ザ エンチャンティド プール ホワイル ウィアー ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have dipped",
+      "ipa": "/wɪl həv ˈdɪpt/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I will have dipped all our weapons in the potion.",
+          "ja": "あなたが到着する頃には、私たちのすべての武器がポーションに浸されています。",
+          "ipa": "/baɪ ðə ˈtaɪm ju əˈraɪv aɪ wɪl həv ˈdɪpt ɔl ˈaʊɚ ˈwɛpənz ɪn ðə ˈpoʊʃən/",
+          "linking": [
+            "「will」- 主語に続く場合、助動詞は弱形 /wəl/ に弱化",
+            "「have」- 機能語（助動詞）は弱形 /həv/",
+            "「the」- 機能語は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ アイ ウィル ハヴ ディップト オール アウアー ウェポンズ イン ザ ポーション"
+        },
+        {
+          "en": "She will have dipped everything in the healing water by the time the server resets.",
+          "ja": "サーバーがリセットされるまでに、彼女はすべてをヒーリング水に浸しているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈdɪpt ˈɛvriθɪŋ ɪn ðə ˈhilɪŋ ˈwɔɾɚ baɪ ðə ˈtaɪm ðə ˈsɚvɚ ˈrisɛts/",
+          "linking": [
+            "「will」- 主語に続く場合、助動詞は弱形 /wəl/ に弱化",
+            "「have」- 機能語（助動詞）は弱形 /həv/",
+            "「water」- t がフラップ化 /ɾ/ に [ˈwɔɾɚ] ウォーラー"
+          ],
+          "kana": "シー ウィル ハヴ ディップト エブリシング イン ザ ヒーリング ウォーラー バイ ザ タイム ザ サーバー リセッツ"
+        }
+      ]
     }
   ]
 }

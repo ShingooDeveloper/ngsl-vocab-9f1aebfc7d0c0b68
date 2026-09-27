@@ -240,6 +240,102 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has milled",
+      "ipa": "/həz ˈmɪld/",
+      "examples": [
+        {
+          "en": "The ore grinder has milled thousands of blocks since this morning.",
+          "ja": "その鉱石グラインダーは今朝からずっと何千ものブロックを粉にしてきました。",
+          "ipa": "/ðə ˈɔr ˈɡɹaɪndɚ həz ˈmɪld ˈθaʊzənz əv ˈblɑks sɪns ðɪs ˈmɔɹnɪŋ/",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。ore に連結 [ðə ˈɔr] ザ オー",
+            "ore の末尾 /r/ と grinder の初頭 /ɡ/ は子音+子音で続く [ˈɔr ˈɡɹaɪndɚ] オー グラインダー",
+            "grinder の末尾 /r/ と has の初頭 /h/ は子音+子音。has は助動詞で弱形 /həz/ に弱化 [ˈɡɹaɪndɚ həz] グラインダー ハズ",
+            "of は弱形 /əv/。blocks に続く [əv ˈblɑks] アヴ ブロックス"
+          ],
+          "kana": "ザ オー グラインダー ハズ サウザンズ アヴ ブロックス シンス ディス モーニング"
+        },
+        {
+          "en": "Players have milled resources enough to craft all the tools we need.",
+          "ja": "プレイヤーたちは、私たちが必要なすべてのツールを作成するのに十分なリソースを粉にしてきました。",
+          "ipa": "/ˈpleɪɚz həv ˈmɪld ɹɪˈsɔɹsɪz ɪˈnʌf tə ˈkræft ɔl ðə ˈtulz wiː ˈniːd/",
+          "linking": [
+            "players の末尾 /z/ が have の初頭 /h/ に先行（子音+子音）。have は助動詞で弱形 /həv/ に弱化 [ˈpleɪɚz həv] プレイアーズ ハヴ",
+            "resources の末尾 /z/ が enough の初頭 /ɪ/ に連結 [ɹɪˈsɔɹsɪz ɪˈnʌf] リソースィズ イナフ",
+            "to は機能語で弱形 /tə/ に弱化 [tə ˈkræft] タ クラフト",
+            "all は /ɔl/。the は弱形 /ðə/。末尾 /l/ と初頭 /ð/ は子音+子音 [ɔl ðə] オール ザ"
+          ],
+          "kana": "プレイアーズ ハヴ リソースィズ イナフ タ クラフト オール ザ トゥールズ ウィ ニード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had milled",
+      "ipa": "/həd ˈmɪld/",
+      "examples": [
+        {
+          "en": "Before the furnace powered up, we had milled all the ore into fine dust.",
+          "ja": "炉が起動する前に、私たちはすべての鉱石を細かい粉に粉にしていました。",
+          "ipa": "/bɪˈfoɹ ðə ˈfɝnɪs ˈpaʊərd ˈʌp | wiː həd ˈmɪld ɔl ðə ˈɔr ˈɪntə ˈfaɪn ˈdʌst/",
+          "linking": [
+            "the は弱形 /ðə/。furnace に連結 [ðə ˈfɝnɪs] ザ ファーニス",
+            "furnace の末尾 /s/ が powered の初頭 /p/ に先行（子音+子音）[ˈfɝnɪs ˈpaʊərd] ファーニス パワアード",
+            "had は助動詞で弱形 /əd/ に弱化 [wiː əd ˈmɪld] ウィ ハッド",
+            "the は弱形 /ðə/。ore に連結 [ðə ˈɔr] ザ オー"
+          ],
+          "kana": "ビフォー ザ ファーニス パワアード アップ ウィ ハッド ミルド オール ザ オー イントゥ ファイン ダスト"
+        },
+        {
+          "en": "The automated system had milled materials into powder before players even noticed.",
+          "ja": "自動化システムは、プレイヤーが気づく前に、材料を粉末に粉にしていました。",
+          "ipa": "/ðə ˈɔtəmeɪtəd ˈsɪstəm həd ˈmɪld məˈtɪɹiəlz ˈɪntə ˈpaʊdɚ bɪˈfoɹ ˈpleɪɚz ˈiːvən ˈnoʊtɪst/",
+          "linking": [
+            "the は弱形 /ðə/。automated に連結 [ðə ˈɔtəmeɪtəd] ザ オートメイティッド",
+            "system の末尾 /m/ と had の初頭 /h/ は子音+子音で未開放 [ˈsɪstəm həd] システム ハッド",
+            "materials の末尾 /z/ が into の初頭 /ɪ/ に連結 [məˈtɪɹiəlz ˈɪntə] マテリアルズ イントゥ",
+            "before は /bɪˈfoɹ/。players に続く [bɪˈfoɹ ˈpleɪɚz] ビフォー プレイアーズ"
+          ],
+          "kana": "ザ オートメイティッド システム ハッド ミルド マテリアルズ イントゥ パウダー ビフォー プレイアーズ イーヴン ノウティスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been milling",
+      "ipa": "/həz bɪn ˈmɪlɪŋ/",
+      "examples": [
+        {
+          "en": "The grinder has been milling stone blocks all day for the building project.",
+          "ja": "そのグラインダーは建築プロジェクト用に、一日中石ブロックを粉にしてきました。",
+          "ipa": "/ðə ˈɡɹaɪndɚ həz bɪn ˈmɪlɪŋ stoʊn ˈblɑks ɔl ˈdeɪ fɚ ðə ˈbɪldɪŋ ˈpɹɑdʒɛkt/",
+          "linking": [
+            "the は弱形 /ðə/。grinder に連結 [ðə ˈɡɹaɪndɚ] ザ グラインダー",
+            "grinder の末尾 /r/ と has の初頭 /h/ は子音+子音。has は助動詞で弱形 /həz/、been は弱形 /bɪn/ [ˈɡɹaɪndɚ həz bɪn] グラインダー ハズ ビン",
+            "been の末尾 /n/ が milling の初頭 /m/ に先行（子音+子音）[bɪn ˈmɪlɪŋ] ビン ミリング",
+            "for は弱形 /fɚ/。the は弱形 /ðə/ [fɚ ðə] ファー ザ"
+          ],
+          "kana": "ザ グラインダー ハズ ビン ミリング ストーン ブロックス オール デイ ファー ザ ビルディング プロジェクト"
+        },
+        {
+          "en": "We have been milling ores for hours trying to meet the production quota.",
+          "ja": "私たちは生産割当量を達成しようとして、何時間も鉱石を粉にしてきました。",
+          "ipa": "/wiː həv bɪn ˈmɪlɪŋ ˈɔrz fɚ ˈaʊɚz ˈtɹaɪɪŋ tə ˈmiːt ðə pɹəˈdʌkʃən ˈkwoʊtə/",
+          "linking": [
+            "have は助動詞で弱形 /həv/ に弱化 [wiː həv] ウィ ハヴ",
+            "have の末尾 /v/ が been の初頭 /b/ に先行（子音+子音）[həv bɪn] ハヴ ビン",
+            "milling は /ˈmɪlɪŋ/。ores に続く [ˈmɪlɪŋ ˈɔrz] ミリング オーズ",
+            "for は弱形 /fɚ/。hours に続く [fɚ ˈaʊɚz] ファー アワーズ"
+          ],
+          "kana": "ウィ ハヴ ビン ミリング オーズ ファー アワーズ トライイング タ ミート ザ プロダクション クォータ"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is milling",
@@ -255,7 +351,7 @@
             "is は弱形 /ɪz/。milling に連結 [ɪz ˈmɪlɪŋ] イズ ミリング",
             "for は弱形 /fɚ/。our に連結 [fɚ ɑɚ] ファー アワー"
           ],
-          "kana": "ザ オートマティック ミル イズ ミリング アイアーン オー コンティニュアスリー ファー アワー プロダクション ライン"
+          "kana": "ザ オートマティック ミル イズ ミリング アイアン オー コンティニュアスリー ファー アワー プロダクション ライン"
         },
         {
           "en": "We are milling grains while the water wheel turns steadily.",
@@ -263,9 +359,8 @@
           "ipa": "/wiː ɑɹ ˈmɪlɪŋ ɡɹeɪnz ˈwaɪl ðə ˈwɔtɚ ˈwiːl ˈtɝnz ˈstɛdɪli/",
           "linking": [
             "we は /wiː/。are は弱形 /ɑɹ/、are の末尾 /r/ が milling の初頭 /m/ に r-linking で連結 [ɑɹ ˈmɪlɪŋ] アー ミリング",
-            "milling の末尾 /ŋ/ が grains に先行 [ˈmɪlɪŋ ɡɹeɪnz] ミリング グレインズ",
             "the は弱形 /ðə/。water に連結 [ðə ˈwɔtɚ] ザ ウォーター",
-            "wheel の末尾 /l/ が turns に連結 [ˈwiːl ˈtɝnz] ウィール ターンズ"
+            "grinder の末尾 /r/ が is の初頭 /ɪ/ に r-linking で連結 [ˈɡɹaɪndɚ ɪz] グラインダー イズ"
           ],
           "kana": "ウィ アー ミリング グレインズ ホワイル ザ ウォーター ウィール ターンズ ステディリー"
         }
@@ -296,9 +391,8 @@
           "ipa": "/ðeɪ wɚ ˈmɪlɪŋ məˈtɪɹiəlz ɪn ðə ˈfæktəɹi ˈɔl θɹuː ðə naɪt/",
           "linking": [
             "they は /ðeɪ/。were は弱形 /wɚ/、末尾 /r/ が milling の初頭 /m/ に r-linking で連結 [wɚ ˈmɪlɪŋ] ワー ミリング",
-            "milling の末尾 /ŋ/ が materials に先行 [ˈmɪlɪŋ məˈtɪɹiəlz] ミリング マテリアルズ",
             "in は /ɪn/。the は弱形 /ðə/ に続く [ɪn ðə] イン ザ",
-            "all の末尾 /l/ が through の初頭 /θ/ に続く [ˈɔl θɹuː] オール スルー"
+            "factory の末尾 /i/ が all の初頭 /ɔ/ に先行 [ˈfæktəɹi ˈɔl] ファクトリー オール"
           ],
           "kana": "ザェイ ワー ミリング マテリアルズ イン ザ ファクトリー オール スルー ザ ナイト"
         }
@@ -313,27 +407,25 @@
         {
           "en": "The grain mill had been milling for three hours before the power shut down unexpectedly.",
           "ja": "穀物製粉所は電力が予期せずシャットダウンする前に3時間粉にしていました。",
-          "ipa": "/ðə ˈɡɹeɪn ˈmɪl ˈhæd bɪn ˈmɪlɪŋ fɚ ˈθɹiː ˈaʊɚz bɪˈfoɹ ðə ˈpaʊɚ ˈʃʌt ˈdaʊn ˌʌnɪkˈspɛktɪdli/",
+          "ipa": "/ðə ˈɡɹeɪn ˈmɪl həd bɪn ˈmɪlɪŋ fɚ ˈθɹiː ˈaʊɚz bɪˈfoɹ ðə ˈpaʊɚ ˈʃʌt ˈdaʊn ˌʌnɪkˈspɛktɪdli/",
           "linking": [
             "the は弱形 /ðə/。grain に連結 [ðə ˈɡɹeɪn] ザ グレイン",
             "grain の末尾 /n/ が mill の初頭 /m/ に続く（子音+子音で未開放）[ˈɡɹeɪn̚ ˈmɪl] グレイン ミル",
-            "mill の末尾 /l/ が had に連結、had は弱形 /həd/ [mɪl ˈhæd] ミル ハッド",
-            "had の末尾 /d/ が been の初頭 /b/ に続く、been は弱形 /bɪn/ [ˈhæd bɪn] ハッド ビン",
-            "been の末尾 /n/ が milling の初頭 /m/ に連結 [bɪn ˈmɪlɪŋ] ビン ミリング",
-            "for は弱形 /fɚ/"
+            "mill の末尾 /l/ が had に連結、had は弱形 /həd/ [mɪl həd] ミル ハッド",
+            "had の末尾 /d/ が been の初頭 /b/ に続く、been は弱形 /bɪn/ [həd bɪn] ハッド ビン",
+            "been の末尾 /n/ が milling の初頭 /m/ に連結 [bɪn ˈmɪlɪŋ] ビン ミリング"
           ],
           "kana": "ザ グレイン ミル ハッド ビン ミリング ファー スリー アワーズ ビフォア ザ パウアー シャット ダウン アンエクスペクティッドリー"
         },
         {
           "en": "By the time we arrived, the automatic system had been milling ore non-stop.",
           "ja": "私たちが到着したとき、自動システムは途切れず鉱石を粉にしていました。",
-          "ipa": "/baɪ ðə ˈtaɪm wiː əˈɹaɪvd | ðə ˌɔtəˈmætɪk ˈsɪstəm ˈhæd bɪn ˈmɪlɪŋ ˈɔr ˌnɑnˈstɑp/",
+          "ipa": "/baɪ ðə ˈtaɪm wiː əˈɹaɪvd | ðə ˌɔtəˈmætɪk ˈsɪstəm həd bɪn ˈmɪlɪŋ ˈɔr ˌnɑnˈstɑp/",
           "linking": [
-            "by の末尾 /aɪ/ が the の初頭 /ð/ に続く（未開放）[baɪ ðə] バイ ザ",
             "time の末尾 /m/ が we の初頭 /w/ に続く [ˈtaɪm wiː] タイム ウィ",
             "the は弱形 /ðə/。automatic に連結 [ðə ˌɔtəˈmætɪk] ザ オートマティック",
-            "system の末尾 /m/ が had の初頭 /h/ に続く、had は弱形 /həd/ [ˈsɪstəm ˈhæd] システム ハッド",
-            "had の末尾 /d/ が been の初頭 /b/ に続く、been は弱形 /bɪn/ [ˈhæd bɪn] ハッド ビン",
+            "system の末尾 /m/ が had の初頭 /h/ に続く、had は弱形 /həd/ [ˈsɪstəm həd] システム ハッド",
+            "had の末尾 /d/ が been の初頭 /b/ に続く、been は弱形 /bɪn/ [həd bɪn] ハッド ビン",
             "been の末尾 /n/ が milling の初頭 /m/ に連結 [bɪn ˈmɪlɪŋ] ビン ミリング"
           ],
           "kana": "バイ ザ タイム ウィ アライヴド ザ オートマティック システム ハッド ビン ミリング オー ノンストップ"
