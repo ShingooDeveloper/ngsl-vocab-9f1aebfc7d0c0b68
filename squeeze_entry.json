@@ -199,6 +199,97 @@
           "kana": "ザ レッドストーン イズ スクイーズィング モア パウアー アウト ラヴ ダ リピーター"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has squeezed",
+      "ipa": "/həz skwiːzd/",
+      "examples": [
+        {
+          "en": "I have squeezed too many blocks into this small storage room.",
+          "ja": "このちいさなストレージルームにブロックを詰め込みすぎてしまった。",
+          "ipa": "[aɪ həv skwiːzd tuː ˈmeɪni blɑks ˈɪntu ðɪs smɔl ˈstɔrɪdʒ rum]",
+          "linking": [
+            "have squeezed では、助動詞 have は弱形 /həv/、語末 /v/ が子音 /s/ に続く（未開放）",
+            "squeezed too では、語末の /d/ が母音 /u/ に連結 [skwiːzduː]",
+            "blocks into では、語末の /s/ が母音 /ɪ/ に連結 [blɑks ɪntu]"
+          ],
+          "kana": "アイ ハヴ スクイーズド トゥー メニー ブラックス イント ゥ ディス スモール ストーリッジ ルーム"
+        },
+        {
+          "en": "The water has squeezed through every tiny crack in the dam.",
+          "ja": "水がダムのあらゆる小さな亀裂から無理に通り抜けてしまった。",
+          "ipa": "[ðə ˈwɔɾɚ həz skwiːzd θɹuː ˈɛvri ˈtaɪni kɹæk ɪn ðə dæm]",
+          "linking": [
+            "the は子音前で弱形 /ðə/",
+            "water では、/t/ がフラップ化 [ˈwɔɾɚ] ウォーラー",
+            "has squeezed では、助動詞 has は弱形 /həz/、語末 /z/ が子音 /s/ に続く（未開放）"
+          ],
+          "kana": "ザ ウォーラー ハズ スクイーズド スルー エブリー タイニー クラック イン ザ ダム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had squeezed",
+      "ipa": "/həd skwiːzd/",
+      "examples": [
+        {
+          "en": "Before the water rose, the warden had squeezed through a hidden tunnel to escape.",
+          "ja": "水が上昇する前に、ウォーデンは隠れたトンネルを通り抜けて逃げていた。",
+          "ipa": "[bɪˈfoɹ ðə ˈwɔɾɚ roʊz | ðə ˈwɔrdən həd skwiːzd θɹuː ə ˈhɪdən ˈtʌnəl tu ɪˈskeɪp]",
+          "linking": [
+            "the は子音前で弱形 /ðə/",
+            "warden had では、語末の /n/ が次の子音に続く（未開放）、had は弱形 /həd/",
+            "had squeezed では、had の /d/ が子音 /s/ に続く（未開放）",
+            "to escape では、機能語 to は弱形 /tə/"
+          ],
+          "kana": "ビフォア ザ ウォーラー ロウズ、ザ ウォーデン ハド スクイーズド スルー ア ヒドゥン タンネル タ イスケイプ"
+        },
+        {
+          "en": "Once we had squeezed all the ores into the furnace, we could start smelting immediately.",
+          "ja": "全ての鉱石を炉に詰め込んだ後、すぐに製錬を開始することができた。",
+          "ipa": "[wʌns wi həd skwiːzd ɔl ðə ˈɔɹz ˈɪntu ðə ˈfɝnəs | wi kʊd stɑɹt ˈsmɛltɪŋ ɪˈmɪdiɪtli]",
+          "linking": [
+            "had squeezed では、had は弱形 /həd/、語末 /d/ が母音 /ɔ/ に連結 [həd ɔl]",
+            "squeezed all では、語末の /d/ が母音 /ɔ/ に連結 [skwiːzd ɔl]",
+            "the は子音前で弱形 /ðə/"
+          ],
+          "kana": "ワンス ウィ ハド スクイーズド オール ザ オーズ イント ゥ ザ ファーネス、ウィ クッド スターt スメルティング イミディアットリー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been squeezing",
+      "ipa": "/həz bɪn ˈskwiːzɪŋ/",
+      "examples": [
+        {
+          "en": "The creative team has been squeezing more details into the main building all week.",
+          "ja": "クリエイティブチームは一週間ずっと、メインの建物により多くの詳細を詰め込んでいる。",
+          "ipa": "[ðə kriˈeɪtɪv tim həz bɪn ˈskwiːzɪŋ moʊɹ ˈditeɪlz ˈɪntu ðə ˈmeɪn ˈbɪldɪŋ ɔl wik]",
+          "linking": [
+            "the は子音前で弱形 /ðə/",
+            "has been では、助動詞 has と been は弱形 /həz bɪn/、been の /n/ が squeezing の /s/ に連結 [bɪn skwiːzɪŋ] ビン スクイーズィング",
+            "building all では、語末の /ŋ/ が母音 /ɔ/ に連結"
+          ],
+          "kana": "ザ クリエイティブ ティーム ハズ ビン スクイーズィング モア ディテイルズ イント ゥ ザ メイン ビルディング オール ウィーク"
+        },
+        {
+          "en": "Water has been squeezing into the redstone mechanism, causing damage to our contraption.",
+          "ja": "水がレッドストーン機構に無理に流れ込み続けており、私たちの装置に被害を与えている。",
+          "ipa": "[ˈwɔɾɚ həz bɪn ˈskwiːzɪŋ ˈɪntu ðə ˈɹɛdˌstoʊn məˈkænɪzəm | ˈkɔzɪŋ ˈdæmɪdʒ tu ˈaʊɚ kənˈtɹæpʃən]",
+          "linking": [
+            "water では、/t/ がフラップ化 [ˈwɔɾɚ] ウォーラー",
+            "has been では、助動詞 has と been は弱形 /həz bɪn/、been の語末 /n/ が母音 /ɪ/ に連結 [bɪn skwiːzɪŋ]",
+            "mechanism では、語末の /m/ が母音に先行、causing は /ŋ/ が母音 /k/ に連結"
+          ],
+          "kana": "ウォーラー ハズ ビン スクイーズィング イント ゥ ザ レッドストーン メカニズム、コーズィング ダメージ トゥ アワー コントラプション"
+        }
+      ]
     }
   ]
 }

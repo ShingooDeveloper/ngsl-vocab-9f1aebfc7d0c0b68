@@ -170,6 +170,171 @@
           "kana": "ザ ビルズ アー ポートレイイング ザ ネザー フォートレス パーフェクトリー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has portrayed",
+      "ipa": "/həz pɔrˈtreɪd/",
+      "examples": [
+        {
+          "en": "We have portrayed our world's history through beautiful pixel art.",
+          "ipa": "/wi həv pɔrˈtreɪd ˈaʊɚ ˈwɝldz ˈhɪstri θɹu ˈbjuːtɪfəl ˈpɪksəl ɑrt/",
+          "linking": [
+            "have が機能語で弱形 /həv/ に弱化、[həv]「ハヴ」",
+            "portrayed の語末 /d/ が our の母音 /ˈaʊ/ に連結、[pɔrˈtreɪd ˈaʊɚ]「ポートレイダワー」",
+            "through の語末 /f/ が beautiful の子音 /b/ に続く、子音-子音で連結なし（未開放）"
+          ],
+          "kana": "ウィ ハヴ ポートレイダワー ワールズ ヒストリー スルー ビューティフル ピクセル アート"
+        },
+        {
+          "en": "Our team has portrayed the End dimension beautifully in a massive structure.",
+          "ipa": "/ˈaʊɚ tim həz pɔrˈtreɪd ðə ˈɛnd dɪˈmɛnʃən ˈbjuːtɪfəli ɪn ə ˈmæsɪv ˈstɹʌktʃɚ/",
+          "linking": [
+            "team の末尾 /m/ が has の子音 /h/ に続く、子音-子音で連結なし（未開放）[tim̚ həz]「ティーム ハズ」",
+            "has が機能語で弱形 /həz/ に弱化、[həz]「ハズ」",
+            "portrayed の語末 /d/ が the の /ð/ に連結しない（子音-子音で未開放）"
+          ],
+          "kana": "アワー ティーム ハズ ポートレイド ザ エンド ディメンション ビューティフリー イン ア マッシヴ ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had portrayed",
+      "ipa": "/həd pɔrˈtreɪd/",
+      "examples": [
+        {
+          "en": "The original builders had portrayed the dragon before we joined the server.",
+          "ipa": "/ðə əˈɹɪdʒənəl ˈbɪldɚz həd pɔrˈtreɪd ðə ˈdɹæɡən bɪˈfɔɹ wi ˈdʒɔɪnd ðə ˈsɚvɚ/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə]「ザ」",
+            "builders の末尾 /z/ が had の子音 /h/ に続く、子音-子音で連結なし（未開放）[ˈbɪldɚz̚ həd]「ビルダーズ ハド」",
+            "had が機能語で弱形 /həd/ に弱化、[həd]「ハド」"
+          ],
+          "kana": "ザ アリジナル ビルダーズ ハド ポートレイド ザ ドレゴン ビフォア ウィ ジョインド ザ サーヴァー"
+        },
+        {
+          "en": "The artists had portrayed the settlement before the server update deleted everything.",
+          "ipa": "/ðə ˈɑɹtɪsts həd pɔrˈtreɪd ðə ˈsɛtəlmənt bɪˈfɔɹ ðə ˈsɚvɚ ˈʌpdeɪt dɪˈlitəd ˈɛvriθɪŋ/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə]「ザ」",
+            "portrayed の語末 /d/ が the の /ð/ に連結しない、子音-子音で未開放 [pɔrˈtreɪd̚ ðə]「ポートレイド ザ」",
+            "had が機能語で弱形 /həd/ に弱化、[həd]「ハド」"
+          ],
+          "kana": "ザ アーティスツ ハド ポートレイド ザ セットルメント ビフォア ザ サーヴァー アップデイト ディリーティッド エヴリシング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been portraying",
+      "ipa": "/həz bɪn pɔrˈtreɪɪŋ/",
+      "examples": [
+        {
+          "en": "Our builders have been portraying the castle story continuously since the server started.",
+          "ipa": "/ˈaʊɚ ˈbɪldɚz həv bɪn pɔrˈtreɪɪŋ ðə ˈkæsəl ˈstɔɹi kənˈtɪnjuəsli sɪns ðə ˈsɚvɚ ˈstɑɹtəd/",
+          "linking": [
+            "builders の末尾 /z/ が have の子音 /h/ に続く、子音-子音で連結なし（未開放）[ˈbɪldɚz̚ həv]「ビルダーズ ハヴ」",
+            "have が機能語で弱形 /həv/、been が機能語で弱形 /bɪn/ で連結 [həv bɪn]「ハヴ ビン」",
+            "castle の末尾 /l/ が story の子音 /s/ に続く、子音-子音で連結なし"
+          ],
+          "kana": "アワー ビルダーズ ハヴ ビン ポートレイイング ザ キャッスル ストーリー コンティニュアスリー シンス ザ サーヴァー スタートッド"
+        },
+        {
+          "en": "She has been portraying different characters in the roleplay scenarios all season.",
+          "ipa": "/ʃi həz bɪn pɔrˈtreɪɪŋ ˈdɪfɹənt ˈkɛɹɪktɚz ɪn ðə ˈroʊlˌpleɪ ˈsɛnɛɹioʊz ɔl ˈsizən/",
+          "linking": [
+            "has が機能語で弱形 /həz/ に弱化、[həz]「ハズ」",
+            "has と been の弱形が連結 [həz bɪn]「ハズ ビン」",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə]「ザ」"
+          ],
+          "kana": "シー ハズ ビン ポートレイイング ディファレント キャラクターズ イン ザ ロールプレイ シナリオズ オール シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will portray",
+      "ipa": "/wɪl pɔrˈtreɪ/",
+      "examples": [
+        {
+          "en": "I'll portray the hero in the next server cinematic.",
+          "ipa": "/aɪl pɔrˈtreɪ ðə ˈhɪroʊ ɪn ðə ˈnɛkst ˈsɜrvər ˌsɪnəˈmætɪk/",
+          "linking": [
+            "語末の /l/ (I'll) が母音 /ɔ/ に連結 [aɪl pɔrˈtreɪ]",
+            "弱形 the /ðə/ が hero に連結 [ðəˈhɪroʊ]"
+          ],
+          "kana": "アイル ポートレイ ザ ヒーロー イン ザ ネクスト サーヴァー シネマティック"
+        },
+        {
+          "en": "They'll portray the monsters of the nether in our build.",
+          "ipa": "/ðeɪl pɔrˈtreɪ ðə ˈmɑnstərz əv ðə ˈnɛðər ɪn ˈaʊr bɪld/",
+          "linking": [
+            "語末の /l/ (They'll) が母音 /ɔ/ に連結 [ðeɪl pɔrˈtreɪ]",
+            "弱形 the /ðə/ が monsters に連結 [ðəˈmɑnstərz]",
+            "弱形 of /əv/ が nether に連結 [əvðə]"
+          ],
+          "kana": "ゼイル ポートレイ ザ マンスターズ アヴ ザ ネザー イン アワー ビルド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be portraying",
+      "ipa": "/wɪl bi pɔrˈtreɪɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be portraying a massive castle raid while streaming.",
+          "ipa": "/wil bi pɔrˈtreɪɪŋ ə məˈsɪv ˈkæsəl ˈreɪd waɪl ˈstrimɪŋ/",
+          "linking": [
+            "語末の /l/ (We'll) が母音 /b/ に連結、be の弱形 /bə/ で [wɪl bə pɔrˈtreɪɪŋ]",
+            "弱形 a /ə/ が massive に連結 [əməˈsɪv]"
+          ],
+          "kana": "ウィル ビー ポートレイイング ア マッシヴ キャッセル レイド ホワイル ストリーミング"
+        },
+        {
+          "en": "She will be portraying the final boss during the tournament.",
+          "ipa": "/ʃi wɪl bi pɔrˈtreɪɪŋ ðə ˈfaɪnəl bɑs ˈdʊrɪŋ ðə ˈtʊrnəmənt/",
+          "linking": [
+            "will be の弱化: /wɪl bi/ → [wəl bə pɔrˈtreɪɪŋ]",
+            "弱形 the /ðə/ が final に連結 [ðəˈfaɪnəl]",
+            "弱形 the /ðə/ が tournament に連結 [ðəˈtʊrnəmənt]"
+          ],
+          "kana": "シー ウィル ビー ポートレイイング ザ ファイナル ボス ジューリング ザ ターナメント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have portrayed",
+      "ipa": "/wɪl həv pɔrˈtreɪd/",
+      "examples": [
+        {
+          "en": "By next week, I'll have portrayed all the biome leaders.",
+          "ipa": "/baɪ ˈnɛkst wik aɪl həv pɔrˈtreɪd ɔl ðə ˈbaɪoʊm ˈlidərz/",
+          "linking": [
+            "語末の /l/ (I'll) が母音 /h/ に連結、have の弱形 /həv/ で [aɪl həv pɔrˈtreɪd]",
+            "弱形 the /ðə/ が biome に連結 [ðəˈbaɪoʊm]"
+          ],
+          "kana": "バイ ネクスト ウィーク アイル ハヴ ポートレイド オール ザ バイオーム リーダーズ"
+        },
+        {
+          "en": "They'll have portrayed the entire history of our server by the end.",
+          "ipa": "/ðeɪl həv pɔrˈtreɪd ðə ɪnˈtaɪər ˈhɪstri əv ˈaʊr ˈsɜrvər baɪ ðə ˈɛnd/",
+          "linking": [
+            "語末の /l/ (They'll) が母音 /h/ に連結、have の弱形 /həv/ で [ðeɪl həv pɔrˈtreɪd]",
+            "弱形 the /ðə/ が entire に連結 [ðəɪnˈtaɪər]",
+            "弱形 of /əv/ が our に連結 [əvˈaʊr]"
+          ],
+          "kana": "ゼイル ハヴ ポートレイド ザ エンタイアー ヒストリー アヴ アワー サーヴァー バイ ザ エンド"
+        }
+      ]
     }
   ]
 }
