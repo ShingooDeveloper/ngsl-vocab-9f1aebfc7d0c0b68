@@ -382,6 +382,95 @@
           "kana": "アイ ハヴ ビン コンテムプレイティング ウェザー タ イクスプロア ザ エンド ディメンション エヴァー シンス アブテイニング ザ アイズ アヴ エンダー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will contemplate",
+      "ipa": "/wɪl ˈkɑntəmpleɪt/",
+      "examples": [
+        {
+          "en": "I will contemplate the terrain carefully before selecting my base location.",
+          "ja": "基地位置を選ぶ前に、私は地形を慎重にじっくり考えるだろう。",
+          "ipa": "/aɪl ˈkɑntəmpleɪt ðə ˈtɛreɪn ˈkɛrfəli bɪˈfɔr sɪˈlɛktɪŋ maɪ ˈbeɪs loʊˈkeɪʃən/",
+          "linking": [
+            "will が I と縮約される → I'll /aɪl/ で contemplate の /ə/ に連結 [aɪl ˈkɑntəmpleɪt] アイル コンテムプレイト",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル コンテムプレイト ザ テレイン ケアフリー ビフォー セリェクティング マイ ベイス ロケイション"
+        },
+        {
+          "en": "They will contemplate the best mining strategy before choosing their target ore vein.",
+          "ja": "彼らは目標となる鉱脈を選ぶ前に、最良な採掘戦略をじっくり考えるだろう。",
+          "ipa": "/ðeɪl ˈkɑntəmpleɪt ðə ˈbɛst ˈmaɪnɪŋ ˈstrætədʒi bɪˈfɔr ˈtʃuzɪŋ ðɛr ˈtɑrgɪt ˈɔr veɪn/",
+          "linking": [
+            "will が they と縮約される → they'll /ðeɪl/ で contemplate の /ə/ に連結 [ðeɪl ˈkɑntəmpleɪt] ザイル コンテムプレイト",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイル コンテムプレイト ザ ベスト マイニング ストラテジー ビフォー チューズィング ゼア ターゲット オア ベイン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be contemplating",
+      "ipa": "/wɪl bi ˌkɑntəmˈpleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "While you gather resources, I will be contemplating the fortress layout and defensive positions.",
+          "ja": "あなたがリソースを集める間に、私は要塞のレイアウトと防御位置をじっくり考え続けているだろう。",
+          "ipa": "/waɪl ju ˈɡæðər ˈrɛsɚsɪz, aɪl bi ˌkɑntəmˈpleɪtɪŋ ðə ˈfɔrtrəs ˈleɪaʊt ænd dɪˈfɛnsɪv pəˈzɪʃənz/",
+          "linking": [
+            "will が I と縮約される → I'll /aɪl/ で be の /b/ に先立つ未開放で [aɪl̚ bi] アイル ビー",
+            "be の語末 /i/ が contemplating の /ə/ に連結 [bi ˌkɑntəmˈpleɪtɪŋ] ビー コンテムプレイティング",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "ワイル ユー ギャザー リソーシーズ アイル ビー コンテムプレイティング ザ フォートレス レイアウト アンド ディフェンシヴ ポジションズ"
+        },
+        {
+          "en": "She will be contemplating whether to expand into the Nether all throughout the next week.",
+          "ja": "彼女は来週ずっと、ネザーに拡張するかどうかをじっくり考え続けているだろう。",
+          "ipa": "/ʃil bi ˌkɑntəmˈpleɪtɪŋ ˈweðər tu ɪkˈspænd ˈɪntu ðə ˈnɛðər ɔl θruˈaʊt ðə ˈnɛkst wik/",
+          "linking": [
+            "will が she と縮約される → she'll /ʃil/ で be の /b/ に先立つ未開放で [ʃil̚ bi] シル ビー",
+            "be の語末 /i/ が contemplating の /ə/ に連結 [bi ˌkɑntəmˈpleɪtɪŋ] ビー コンテムプレイティング",
+            "to は機能語で弱形 /tə/ で子音 /ɪ/ に子音+子音で続く [tə ɪkˈspænd] タ イクスパンド",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "シル ビー コンテムプレイティング ウェザー タ イクスパンド イントゥ ザ ネザー オール スルーアウト ザ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have contemplated",
+      "ipa": "/wɪl həv ˈkɑntəmpleɪtɪd/",
+      "examples": [
+        {
+          "en": "By next month, we will have contemplated every design detail for the castle.",
+          "ja": "来月までに、私たちは城のあらゆる設計の詳細をじっくり考え終わっているだろう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ, wil həv ˈkɑntəmpleɪtɪd ˈɛvəri dɪˈzaɪn ˈditeɪl fɔr ðə ˈkæsəl/",
+          "linking": [
+            "will が we と縮約される → we'll /wil/ で have の /h/ に先立つ未開放で [wil̚ həv] ウィル ハヴ",
+            "have は弱形 /həv/ で contemplated の /ə/ に先立つ未開放で [həv̚ ˈkɑntəmpleɪtɪd] ハヴ コンテムプレイティッド",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ネクスト マンス ウィル ハヴ コンテムプレイティッド エヴリー ディザイン ディテイル フォー ザ キャッスル"
+        },
+        {
+          "en": "He will have contemplated all the architectural options long before announcing the final fortress design.",
+          "ja": "彼は最終的な要塞の設計を発表するずっと前に、すべての建築のオプションをじっくり考え終わっているだろう。",
+          "ipa": "/hil həv ˈkɑntəmpleɪtɪd ɔl ðə ˌɑrkɪˈtɛktʃərəl ˈɔpʃənz lɔŋ bɪˈfɔr əˈnaʊnsɪŋ ðə ˈfaɪnəl ˈfɔrtrəs dɪˈzaɪn/",
+          "linking": [
+            "will が he と縮約される → he'll /hil/ で have の /h/ に先立つ未開放で [hil̚ həv] ヒル ハヴ",
+            "have は弱形 /həv/ で contemplated の /ə/ に先立つ未開放で [həv̚ ˈkɑntəmpleɪtɪd] ハヴ コンテムプレイティッド",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "ヒル ハヴ コンテムプレイティッド オール ザ アーキテクチャラル オプションズ ロング ビフォー アナウンシング ザ ファイナル フォートレス ディザイン"
+        }
+      ]
     }
   ],
   "tags": [
