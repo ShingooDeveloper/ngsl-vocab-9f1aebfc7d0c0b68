@@ -377,6 +377,102 @@
           "kana": "ディーズ エインシャント ストラクシャーズ ハヴ ビン イヴォーキング ストロング イモウションズ シンス アワー アライヴアル"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will evoke",
+      "ipa": "/wɪl ɪˈvoʊk/",
+      "examples": [
+        {
+          "en": "The End portal will evoke fear and wonder in all brave adventurers.",
+          "ja": "エンドポータルはすべての勇敢な冒険家に恐怖と驚きを呼び起こすだろう。",
+          "ipa": "/ðə ˈɛnd ˈpoʊrtəl wəl ɪˈvoʊk ˈfɪr ənd ˈwʌndər ɪn ɔːl ˈbreɪv ˈædvən(t)ʃərz/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "will は弱形 /wəl/ で [wəl] ウル",
+            "will evoke: 語末音 /l/ が母音 /ɪ/ に連結 [wəl ɪˈvoʊk] ウルイヴォーク",
+            "and は弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ザ エンド ポータル ウルイヴォーク フィアー アン ワンダー イン オール ブレイヴ アドベンチャーズ"
+        },
+        {
+          "en": "They'll evoke unforgettable emotions as we rebuild the old fortress.",
+          "ja": "彼らは古い砦を再建する際に、忘れられない感情を呼び起こすだろう。",
+          "ipa": "/ðeɪl ɪˈvoʊk ʌnfərˈɡɛtəbl ɪˈmoʊʃənz æz wi riːˈbɪld ðə ˈoʊld ˈfɔːrtəs/",
+          "linking": [
+            "They'll: 縮約形 /ðeɪl/ [ðeɪl] ザイル（they will の縮約）",
+            "evoke unforgettable: 語末子音 /k/ が母音 /ʌ/ に連結 [ɪˈvoʊk ʌnfərˈɡɛtəbl] イヴォーク アンフォーゲッタブル",
+            "as は弱形 /æz/ [æz] アズ",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ザイル イヴォーク アンフォーゲッタブル イモウションズ アズ ウィー リビルド ザ オウルド フォートアス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be evoking",
+      "ipa": "/wɪl bi ɪˈvoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The monument will be evoking wonder and curiosity in everyone who visits.",
+          "ja": "その記念碑は、訪れるすべての人に驚異と好奇心を呼び起こし続けるだろう。",
+          "ipa": "/ðə ˌmɑːnjəˈmɛnt wəl bi ɪˈvoʊkɪŋ ˈwʌndər ənd kjəˈrɪsɪti ɪn ˈɛvriˌwʌn hu ˈvɪzɪts/",
+          "linking": [
+            "the は弱形 /ðə/ [ðə] ザ",
+            "will は弱形 /wəl/ で [wəl] ウル",
+            "will be: 語末音 /l/ が母音 /ɪ/ に連結 [wəl bi] ウル ビー",
+            "and は弱形 /ənd/ または /ən/"
+          ],
+          "kana": "ザ モニュメント ウル ビー イヴォーキング ワンダー アン キュリアシティ イン エヴリワン フー ヴィジッツ"
+        },
+        {
+          "en": "These glowing structures will be evoking strong emotions throughout the entire expedition.",
+          "ja": "これらの光る構造物は、探検全体を通じて強い感情を呼び起こし続けるだろう。",
+          "ipa": "/ðiːz ˈɡloʊɪŋ ˈstrʌkʃərz wəl bi ɪˈvoʊkɪŋ ˈstrɔŋ ɪˈmoʊʃənz θruːˈaʊt ðiː ɪnˈtaɪər ɪkˈspɪˈdɪʃən/",
+          "linking": [
+            "will は弱形 /wəl/ で [wəl] ウル",
+            "will be: 語末音 /l/ が母音 /ɪ/ に連結 [wəl bi] ウル ビー",
+            "evoking emotions: 語末鼻音 /ŋ/ が母音 /ɪ/ に連結 [ɪˈvoʊkɪŋ ɪˈmoʊʃənz] イヴォーキング イモウションズ",
+            "the は弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ディーズ グロウイング ストラクシャーズ ウル ビー イヴォーキング ストロング イモウションズ スルーアウト ザ インタイアー イクスペディション"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have evoked",
+      "ipa": "/wɪl həv ɪˈvoʊkt/",
+      "examples": [
+        {
+          "en": "By the time we finish, this monument will have evoked deep emotions in all.",
+          "ja": "私たちが完成させるまでに、この記念碑はすべての人に深い感情を呼び起こしているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfɪnɪʃ ðɪs ˌmɑːnjəˈmɛnt wəl əv ɪˈvoʊkt ˈdiːp ɪˈmoʊʃənz ɪn ɔːl/",
+          "linking": [
+            "time we: 語末音 /m/ が母音 /i/ に連結 [ˈtaɪm wi] タイム ウィー",
+            "will は弱形 /wəl/ で [wəl] ウル",
+            "will have: 語末 /l/ が弱形 /ə/ に連結 [wəl əv] ウル アヴ（have の弱形 /əv/）",
+            "have evoked: 弱形 /əv/ が母音 /ɪ/ に連結 [əv ɪˈvoʊkt] アヴ イヴォークト"
+          ],
+          "kana": "バイ ザ タイム ウィー フィニッシュ ディス モニュメント ウルアヴ イヴォークト ディープ イモウションズ イン オール"
+        },
+        {
+          "en": "They'll have evoked unforgettable memories by the end of our adventure.",
+          "ja": "彼らは私たちの冒険の終わりまでに忘れられない思い出を呼び起こしているだろう。",
+          "ipa": "/ðeɪl əv ɪˈvoʊkt ʌnfərˈɡɛtəbl ˈmɛməriz baɪ ðiː ˈɛnd əv ˈaʊər ˈædvən(t)ʃər/",
+          "linking": [
+            "They'll: 縮約形 /ðeɪl/ [ðeɪl] ザイル（they will の縮約）",
+            "have evoked: 弱形 /əv/ が母音 /ɪ/ に連結 [əv ɪˈvoʊkt] アヴ イヴォークト",
+            "by は /baɪ/、 the は弱形 /ðə/ [baɪ ðiː] バイ ザ",
+            "of は弱形 /əv/ [əv] アヴ"
+          ],
+          "kana": "ザイル アヴ イヴォークト アンフォーゲッタブル メモリーズ バイ ザ エンド アヴ アワー アドベンチャー"
+        }
+      ]
     }
   ]
 }
