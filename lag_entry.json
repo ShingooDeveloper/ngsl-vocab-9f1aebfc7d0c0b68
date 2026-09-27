@@ -394,6 +394,98 @@
           "kana": "ザ ワーld ハズ ビン ラギング エヴァー シンス ウィ スターティド ザ メイジャー カンストラクション プロジェクト"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will lag）",
+      "text": "will lag",
+      "ipa": "/wɪl læɡ/",
+      "examples": [
+        {
+          "en": "The server will lag if too many players join at once.",
+          "ja": "一度に多くのプレイヤーが参加するとサーバーがラグります。",
+          "ipa": "[ðə ˈsɝvɚ wɪl læɡ ɪf tu ˈmeɪni ˈpleɪɚz dʒɔɪn æt wʌns]",
+          "kana": "ザ サーバー ウィル ラグ イフ トゥー メニー プレイアーズ ジョイン アット ワンス",
+          "linking": [
+            "「the server」で the は弱形 /ðə/ に弱化（子音前）",
+            "「will lag」で will は弱形 /wəl/ に弱化 [wəl læɡ]",
+            "「join at」で join の語末 /n/ が at の母音 /æ/ に連結 [dʒɔɪn æt]"
+          ]
+        },
+        {
+          "en": "I'll lag the moment I enter that massive redstone machine.",
+          "ja": "その巨大なレッドストーン装置に入った瞬間、僕はラグります。",
+          "ipa": "[aɪl læɡ ðə ˈmoʊmənt aɪ ˈɛntɚ ðæt ˈmæsɪv ˈrɛdˌstoʊn məˈʃin]",
+          "kana": "アイル ラグ ザ モウメント アイ エンター ザット マッシブ レッドストウン マシーン",
+          "linking": [
+            "「I'll」で will は縮約弱形 /aɪl/ に弱化 [aɪl]",
+            "「the moment」で the は弱形 /ðə/、moment の語末 /t/ が未開放で子音に先行 [ðə ˈmoʊmənt̚]",
+            "「that massive」で that は弱形 /ðət/、語末の /t/ が未開放で子音に先行 [ðət̚ ˈmæsɪv]"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be lagging）",
+      "text": "will be lagging",
+      "ipa": "/wɪl bi ˈlæɡɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be lagging when the server undergoes a major update.",
+          "ja": "サーバーが大規模な更新中、私たちはラグります。",
+          "ipa": "[wɪl bi ˈlæɡɪŋ wɛn ðə ˈsɝvɚ ˌʌndɚˈɡoʊz ə ˈmeɪdʒɚ ˈʌpˌdeɪt]",
+          "kana": "ウィル ビー ラギング ウェン ザ サーバー アンダーゴウズ ア メイジャー アップデイト",
+          "linking": [
+            "「we'll be」で will は弱形 /wəl/、be は弱形 /bi/ に弱化 [wəl bi]",
+            "「lagging」の語末 /ŋ/ は未開放で終了 [ˈlæɡɪŋ̚]",
+            "「the server」で the は弱形 /ðə/（子音前）"
+          ]
+        },
+        {
+          "en": "You'll be lagging in the Nether if your render distance is too high.",
+          "ja": "レンダー距離が高すぎるとネザーでラグります。",
+          "ipa": "[jʊl bi ˈlæɡɪŋ ɪn ðə ˈnɛðɚ ɪf jɚ ˈrɛndɚ ˈdɪstəns ɪz tu haɪ]",
+          "kana": "ユル ビー ラギング イン ザ ネザー イフ ユアー レンダー ディスタンス イズ トゥー ハイ",
+          "linking": [
+            "「you'll be」で will は縮約弱形 /jʊl/、be は弱形 /bi/ に弱化 [jʊl bi]",
+            "「lagging」の語末 /ŋ/ は未開放で終了 [ˈlæɡɪŋ̚]",
+            "「the Nether」で the は弱形 /ðə/（子音前）",
+            "「your render」で your は弱形 /jɚ/（機能語）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have lagged）",
+      "text": "will have lagged",
+      "ipa": "/wɪl hæv læɡd/",
+      "examples": [
+        {
+          "en": "By the time we finish this project, we will have lagged countless times.",
+          "ja": "このプロジェクトが終わるまでに、私たちは数え切れないほど何度もラグするでしょう。",
+          "ipa": "[baɪ ðə ˈtaɪm wi ˈfɪnɪʃ ðɪs ˈprɑdʒɛkt wi wɪl hæv læɡd ˈkaʊntləs ˈtaɪmz]",
+          "kana": "バイ ザ タイム ウィ フィニシ ディス プロジェクト ウィ ウィル ハヴ ラグド カウントレス タイムズ",
+          "linking": [
+            "「by the」で the は弱形 /ðə/ に弱化 [ðə]",
+            "「will have」で will は弱形 /wəl/、have は弱形 /həv/ に弱化 [wəl həv]",
+            "「have lagged」で have の語末 /v/ が lagged の母音 /æ/ に連結 [həv læɡd]"
+          ]
+        },
+        {
+          "en": "They will have lagged out of the server before the arena duel even starts.",
+          "ja": "アリーナの決闘が始まる前に、彼らはサーバーからラグアウトしているでしょう。",
+          "ipa": "[ðeɪ wɪl hæv læɡd aʊt əv ðə ˈsɝvɚ bɪˈfɔɹ ðə əˈrinə ˈdjuəl iˈvɛn ˈstɑɹts]",
+          "kana": "ザイ ウィル ハヴ ラグド アウト アヴ ザ サーバー ビフォア ザ アリーナ デュエル イーヴン スターツ",
+          "linking": [
+            "「will have」で will は弱形 /wəl/、have は弱形 /həv/ に弱化 [wəl həv]",
+            "「have lagged」で have の語末 /v/ が lagged の母音 /æ/ に連結 [həv læɡd]",
+            "「lagged out」で lagged の語末 /d/ が out の母音 /aʊ/ に連結 [læɡd aʊt]",
+            "「of the」で of は弱形 /əv/、the も弱形 /ðə/ に弱化 [əv ðə]"
+          ]
+        }
+      ]
     }
   ]
 }
