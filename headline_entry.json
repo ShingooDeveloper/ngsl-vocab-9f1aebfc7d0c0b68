@@ -424,6 +424,96 @@
           "kana": "ザ パッチ ハド ビン ヘッドラインング ザ コミューニティー ディスカッション フォア ウィークス"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will headline",
+      "ipa": "/wɪl ˈhɛdˌlaɪn/",
+      "examples": [
+        {
+          "en": "I will headline the gaming news tomorrow with the server maintenance announcement.",
+          "ja": "私は明日、サーバーメンテナンスアナウンスメントについてゲーミングニュースの見出しになります。",
+          "ipa": "/aɪ wɪl ˈhɛdˌlaɪn ðə ˈɡeɪmɪŋ ˈnuz təˈmɑroʊ wɪð ðə ˈsɜrvər ˌmeɪntənəns əˈnaʊnsmənt/",
+          "linking": [
+            "will の語末 /l/ が headline の /h/ に続く（子音+子音）、will は弱形で /wəl/",
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "maintenance の語末 /s/ が announcement の /ə/ に連結 [ˌmeɪntənəns əˈnaʊnsmənt] メイナナンス アナウンスメント"
+          ],
+          "kana": "アイ ウィル ヘッドライン ザ ゲイミング ニュース トゥモロー ウィズ ザ サーバー メイナナンス アナウンスメント"
+        },
+        {
+          "en": "Server updates will headline the forums next week.",
+          "ja": "サーバーアップデートは来週、フォーラムの見出しになります。",
+          "ipa": "/ˈsɜrvər ˈʌpˌdeɪts wɪl ˈhɛdˌlaɪn ðə ˈfɔɹəmz nɛkst ˈwik/",
+          "linking": [
+            "updates の語末 /z/ が will の /w/ に続く（子音+子音）",
+            "will は弱形で /wəl/ に弱化",
+            "the は定冠詞で弱形 /ðə/ ザ"
+          ],
+          "kana": "サーバー アップデイツ ウィル ヘッドライン ザ フォーラムズ ネクスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be headlining",
+      "ipa": "/wɪl bi ˈhɛdˌlaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The developers will be headlining a livestream to showcase new features.",
+          "ja": "開発者たちは新機能をショーケースするためのライブストリームで見出しになります。",
+          "ipa": "/ðə dɪˈvɛləpɚz wɪl bi ˈhɛdˌlaɪnɪŋ ə ˈlaɪvˌstrim tu ˈʃoʊˌkeɪs nu ˈfitʃɚz/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "developers の語末 /z/ が will の /w/ に続く（子音+子音）",
+            "will be の /l/ が /b/ に続く（子音+子音）、be は弱形 /bi/"
+          ],
+          "kana": "ザ ディベロッパーズ ウィル ビー ヘッドラインング ア ライブストリーム トゥ ショーケース ニュー フィーチャーズ"
+        },
+        {
+          "en": "I'll be headlining tomorrow's gaming news broadcast with exclusive content.",
+          "ja": "私は明日のゲーミングニュースブロードキャストで独占コンテンツを使って見出しになります。",
+          "ipa": "/aɪl bi ˈhɛdˌlaɪnɪŋ ˈtɑməˌroʊz ˈɡeɪmɪŋ ˈnuz ˈbrɔdˌkæst wɪð ɪkˈsklusɪv ˈkɑntɛnt/",
+          "linking": [
+            "I'll は I が will に縮約 /aɪl/ アイル",
+            "be は弱形 /bi/ ビー",
+            "tomorrow's の語末 /z/ が gaming の /ɡ/ に続く（子音+子音）"
+          ],
+          "kana": "アイル ビー ヘッドラインング タモロー ゲイミング ニュース ブロードキャスト ウィズ イクスクルーシブ コンテント"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have headlined",
+      "ipa": "/wɪl həv ˈhɛdˌlaɪnd/",
+      "examples": [
+        {
+          "en": "By next month, the update will have headlined all major gaming news outlets.",
+          "ja": "来月までに、そのアップデートはすべての主要ゲーミングニュースアウトレットの見出しになっているでしょう。",
+          "ipa": "/baɪ nɛkst ˈmʌnθ ðə ˈʌpˌdeɪt wɪl həv ˈhɛdˌlaɪnd ɔl ˈmeɪdʒər ˈɡeɪmɪŋ ˈnuz ˈaʊtˌlɛts/",
+          "linking": [
+            "the は定冠詞で弱形 /ðə/ ザ",
+            "update の語末 /t/ が will の /w/ に続く（子音+子音）、will は弱形 /wəl/",
+            "will have の /l/ が /h/ に続く（子音+子音）、have は弱形 /həv/ ハヴ"
+          ],
+          "kana": "バイ ネクスト マンス ザ アップデイト ウィル ハヴ ヘッドラインド オール メイジャー ゲイミング ニュース アウトレッツ"
+        },
+        {
+          "en": "They will have headlined the server issues by the time we log in.",
+          "ja": "私たちがログインするまでに、彼らはサーバーの問題を見出しにしているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈhɛdˌlaɪnd ðə ˈsɜrvər ˈɪʃuz baɪ ðə ˈtaɪm wi ˈlɑɡ ɪn/",
+          "linking": [
+            "They は /ðeɪ/ ザェイ",
+            "will の /l/ が have の /h/ に続く（子音+子音）、have は弱形 /həv/ ハヴ",
+            "the は定冠詞で弱形 /ðə/ ザ、log の /g/ が in の /ɪ/ に連結 [ˈlɑɡ ɪn] ロギン"
+          ],
+          "kana": "ザェイ ウィル ハヴ ヘッドラインド ザ サーバー イシューズ バイ ザ タイム ウィ ロギン"
+        }
+      ]
     }
   ],
   "tags": ["Target 1900"]
