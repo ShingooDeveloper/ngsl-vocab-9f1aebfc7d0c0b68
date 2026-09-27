@@ -171,6 +171,99 @@
           "kana": "ザ プラミス アヴ レア ルート イズ インデューシング マイナーズ トゥ リスク エクスプロアリング ディープ ケイヴズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has induced",
+      "ipa": "/ˈhæz ɪnˈdust/",
+      "examples": [
+        {
+          "en": "Finding this deep cave system has induced several players to organize an expedition.",
+          "ja": "この深い洞窟システムを発見したことで、数人のプレイヤーが遠征を組織するよう促されました。",
+          "ipa": "/ˈfaɪndɪŋ ðɪs dip ˈkeɪv ˈsɪstəm həz ɪnˈdust ˈsɛvərəl ˈpleɪərz tə ˈɔrɡənaɪz ən ˌɛkspəˈdɪʃən/",
+          "linking": [
+            "cave system では、語末の /v/ が子音 /s/ に続く（未開放）",
+            "has induced では、助動詞 has は弱形 /həz/、語末の /z/ が母音 /ɪ/ に連結 [həz.ɪnˈdust]",
+            "to organize では、機能語 to は弱形 /tə/"
+          ],
+          "kana": "ファインディング ディス ディープ ケイヴ システム ハズ インデュースト セバラル プレイアーズ タ オアガナイズ アン エクスペディション"
+        },
+        {
+          "en": "The promise of emeralds has induced villagers to stay in our trading hall.",
+          "ja": "エメラルドの約束は、村人たちが私たちの交易ホールに留まるよう促しました。",
+          "ipa": "/ðə ˈprɑmɪs əv ˈɛmərəldz həz ɪnˈdust ˈvɪlɪdʒərz tə steɪ ɪn ˈaʊr ˈtreɪdɪŋ hɔl/",
+          "linking": [
+            "the は子音前で弱形 /ðə/",
+            "of emeralds では、語末の /v/ が子音 /ɛ/ に続く（未開放）",
+            "has induced では、助動詞 has は弱形 /həz/、語末の /z/ が次の母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ プラミス アヴ エメラルズ ハズ インデュースト ヴィリジャーズ タ ステイ イン アワー トレイディング ホール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had induced",
+      "ipa": "/ˈhæd ɪnˈdust/",
+      "examples": [
+        {
+          "en": "By the time we arrived, the treasure map had induced everyone to risk exploring dangerous areas.",
+          "ja": "私たちが到着した時までに、そのトレジャーマップはすべてのプレイヤーに危険な地域の探検をさせていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ˈtrɛʒər ˈmæp həd ɪnˈdust ˈɛvriwən tə rɪsk ɪkˈsplɔrɪŋ ˈdeɪndʒərəs ˈɛriəz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "map had では、語末の /p/ が子音 /h/ に未開放で続く [ˈmæp̚ həd]",
+            "had induced では、助動詞 had は弱形 /həd/、語末の /d/ が次の母音 /ɪ/ に連結"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ザ トレジャー マップ ハド インデュースト エブリワン タ リスク エクスプロアリング デインジャラス エリアズ"
+        },
+        {
+          "en": "The stories of legendary artifacts had induced the entire community to participate in the dungeon quest.",
+          "ja": "伝説的なアーティファクトの物語は、コミュニティ全体がダンジョンクエストに参加するよう促していました。",
+          "ipa": "/ðə ˈstɔriz əv ˈlɛdʒənˌdɛri ˈɑrtɪfækts həd ɪnˈdust ðə ɪnˈtaɪr kəˈmjunəti tə pɑrˈtɪsəpeɪt ɪn ðə ˈdʌndʒən kwest/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of legendary では、語末の /v/ が子音 /l/ に続く（未開放）",
+            "had induced では、助動詞 had は弱形 /həd/、語末の /d/ が次の母音 /ɪ/ に連結",
+            "in the では、in の語末が the の /ð/ に続く（子音-子音）"
+          ],
+          "kana": "ザ ストーリーズ アヴ レジェンダリー アーティファクツ ハド インデュースト ザ エンタイア コミューニティ タ パーティシペイト イン ザ ダンジョン クエスト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been inducing",
+      "ipa": "/ˈhæz bɪn ɪnˈdusɪŋ/",
+      "examples": [
+        {
+          "en": "The constant threat of creepers has been inducing players to improve our defensive walls.",
+          "ja": "クリーパーの絶え間ない脅威は、プレイヤーたちに私たちの防守壁を改善させ続けています。",
+          "ipa": "/ðə ˈkɑnstənt θrɛt əv ˈkripərz həz bɪn ɪnˈdusɪŋ ˈpleɪərz tə ɪmˈpruv ˈaʊr dɪˈfɛnsɪv wɔlz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "of creepers では、語末の /v/ が子音 /k/ に続く（未開放）",
+            "has been では、助動詞 has と been は弱形 /həz bɪn/、been の語末 /n/ が次の母音 /ɪ/ に連結 [həz bɪn.ɪnˈdusɪŋ]",
+            "to improve では、機能語 to は弱形 /tə/"
+          ],
+          "kana": "ザ カンスタント スレット アヴ クリーパーズ ハズ ビン インデューシング プレイアーズ タ インプルーヴ アワー ディフェンシブ ウォールズ"
+        },
+        {
+          "en": "The beautiful architecture of the main base has been inducing new members to join our server.",
+          "ja": "メインベースの美しい建築は、新しいメンバーをサーバーに参加させ続けています。",
+          "ipa": "/ðə ˈbjuːtɪfəl ˈɑrkɪˌtɛktʃər əv ðə ˈmeɪn ˈbeɪs həz bɪn ɪnˈdusɪŋ ˈnju ˈmɛmbərz tə dʒɔɪn ˈaʊr ˈsɝvər/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "architecture of では、語末の /r/ が次の母音 /ə/ に連結、of も弱形 [ˈɑrkɪˌtɛktʃər əv]",
+            "has been では、助動詞 has と been は弱形 /həz bɪn/、been の語末 /n/ が次の母音 /ɪ/ に連結",
+            "to join では、機能語 to は弱形 /tə/"
+          ],
+          "kana": "ザ ビューティフル アーキテクチャー アヴ ザ メイン ベイス ハズ ビン インデューシング ニュー メンバーズ タ ジョイン アワー サーバー"
+        }
+      ]
     }
   ]
 }
