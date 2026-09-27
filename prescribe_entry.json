@@ -278,6 +278,96 @@
           "kana": "バイ ザ タイム ウィー アライヴド ザ マスター ハド ビン プリスクライビング チャレンジング クエスツ オール ウィーク"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has prescribed",
+      "ipa": "/həz prɪˈskraɪbd/",
+      "examples": [
+        {
+          "en": "The admin has prescribed strict building codes for all players.",
+          "ja": "管理者がすべてのプレイヤーに厳しい建築コードを処方しました。",
+          "ipa": "/ðə ˈædmɪn həz prɪˈskraɪbd strɪkt ˈbɪldɪŋ ˈkoʊdz fɚ ɔl ˈpleɪɚz/",
+          "linking": [
+            "has prescribed の連結：末尾 /z/ が /p/ に先立たれ未開放 [həz̚ prɪˈskraɪbd]",
+            "strict building の連結：末尾 /t/ が /b/ に先立たれ未開放 [strɪkt̚ ˈbɪldɪŋ]",
+            "for all の連結：for は弱形 /fɚ/、末尾 /r/ が all の母音 /ɔ/ に連結 [fɚ ɔl]"
+          ],
+          "kana": "ザ アドミン ハズ プリスクライブド ストリクト ビルディング コウズ フォー オール プレイヤーズ"
+        },
+        {
+          "en": "She has prescribed the optimal enchantment strategy for survival.",
+          "ja": "彼女はサバイバルに最適なエンチャント戦略を処方しました。",
+          "ipa": "/ʃi həz prɪˈskraɪbd ðə ˈɑptɪməl ɪnˈtʃæntmənt ˈstrætəˌdʒi fɚ sɚˈvaɪvəl/",
+          "linking": [
+            "has prescribed の連結：末尾 /z/ が /p/ に先立たれ未開放 [həz̚ prɪˈskraɪbd]",
+            "enchantment strategy の連結：末尾 /t/ が /s/ に先立たれ未開放 [ɪnˈtʃæntmənt̚ ˈstrætəˌdʒi]",
+            "for survival の連結：for は弱形 /fɚ/、末尾 /r/ が survival の初頭母音 /ə/ に連結 [fɚ sɚˈvaɪvəl]"
+          ],
+          "kana": "シー ハズ プリスクライブド ザ オプティマル インチャントメント ストラテジー フォー サーバイバル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had prescribed",
+      "ipa": "/həd prɪˈskraɪbd/",
+      "examples": [
+        {
+          "en": "Before the update, the admin had prescribed all the original rules.",
+          "ja": "アップデート前に、管理者がすべての元々のルールを処方していました。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpˌdeɪt ðə ˈædmɪn həd prɪˈskraɪbd ɔl ðə əˈrɪdʒənəl rulz/",
+          "linking": [
+            "before the の連結：before は /bɪˈfɔr/、末尾 /r/ が the の初頭 /ð/ に連結 [bɪˈfɔr ðə]",
+            "had prescribed の連結：末尾 /d/ が /p/ に先立たれ未開放 [həd̚ prɪˈskraɪbd]",
+            "all the の連結：all の末尾 /l/ が the の初頭 /ð/ に連結 [ɔl ðə]"
+          ],
+          "kana": "ビフォア ザ アップデイト ザ アドミン ハド プリスクライブド オール ザ オリジナル ルールズ"
+        },
+        {
+          "en": "By the time we arrived, the master had prescribed challenging quests all week.",
+          "ja": "私たちが到着した時までに、マスターは一週間中ずっと難しいクエストを処方していました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd ðə ˈmæstɚ həd prɪˈskraɪbd ˈtʃælɪndʒɪŋ ˈkwɛsts ɔl wik/",
+          "linking": [
+            "arrived the の連結：末尾 /d/ が /ð/ に先立たれ未開放 [əˈraɪvd̚ ðə]",
+            "had prescribed の連結：末尾 /d/ が /p/ に先立たれ未開放 [həd̚ prɪˈskraɪbd]",
+            "quests all の連結：末尾 /s/ が /ɔ/ に連結 [ˈkwɛsts ɔl]"
+          ],
+          "kana": "バイ ザ タイム ウィー アライブド ザ マスター ハド プリスクライブド チャレンジング クエスツ オール ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been prescribing",
+      "ipa": "/həz bɪn prɪˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "The council has been prescribing new regulations since the start of the season.",
+          "ja": "評議会は季節の開始以来、新しい規制を処方してきました。",
+          "ipa": "/ðə ˈkaʊnsəl həz bɪn prɪˈskraɪbɪŋ nuː ˌrɛɡjəˈleɪʃənz sɪns ðə start əv ðə ˈsizən/",
+          "linking": [
+            "has been の連結：末尾 /z/ が /b/ に先立たれ未開放 [həz̚ bɪn]",
+            "been prescribing の連結：末尾 /n/ が /p/ に先立たれ未開放 [bɪn̚ prɪˈskraɪbɪŋ]",
+            "start of の連結：末尾 /t/ が of の弱形初頭母音 /ə/ に連結 [start əv]"
+          ],
+          "kana": "ザ カウンスル ハズ ビン プリスクライビング ニュー レギュレーションズ シンス ザ スタート アヴ ザ シーズン"
+        },
+        {
+          "en": "She has been prescribing daily challenges to keep the community engaged.",
+          "ja": "彼女は毎日のチャレンジを処方することで、コミュニティを関与させ続けています。",
+          "ipa": "/ʃi həz bɪn prɪˈskraɪbɪŋ ˈdeɪli ˈtʃælɪndʒɪz tu kip ðə kəˈmjuːnəti ɪnˈɡeɪdʒd/",
+          "linking": [
+            "has been の連結：末尾 /z/ が /b/ に先立たれ未開放 [həz̚ bɪn]",
+            "been prescribing の連結：末尾 /n/ が /p/ に先立たれ未開放 [bɪn̚ prɪˈskraɪbɪŋ]",
+            "keep the の連結：末尾 /p/ が /ð/ に先立たれ未開放 [kip̚ ðə]"
+          ],
+          "kana": "シー ハズ ビン プリスクライビング デイリー チャレンジーズ トゥ キープ ザ コミューニティ インゲイジド"
+        }
+      ]
     }
   ]
 }
