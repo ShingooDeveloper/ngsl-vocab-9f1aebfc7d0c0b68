@@ -181,6 +181,95 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will displace",
+      "ipa": "/wɪl dɪsˈpleɪs/",
+      "examples": [
+        {
+          "en": "This piston will displace all the adjacent blocks instantly.",
+          "ja": "このピストンは隣接するすべてのブロックを瞬時に移動させます。",
+          "ipa": "/ðɪs ˈpɪstən wəl dɪsˈpleɪs ɔl ðə əˈdʒeɪsənt ˈblɑks ˈɪnstəntli/",
+          "kana": "ディス ピスタン ウル ディスプレイス オル ザ アジェイセント ブラックス インスタントリー",
+          "linking": [
+            "「will displace」で will は弱形 [wəl]「ウル」",
+            "「displace all」で displace の語末子音 /s/ が母音 /ɔ/ に連結 [dɪsˈpleɪs ɔl]「ディスプレイス オル」"
+          ]
+        },
+        {
+          "en": "The water pump will displace tons of liquid from the chamber.",
+          "ja": "水ポンプはチャンバーから大量の液体を移動させます。",
+          "ipa": "/ðə ˈwɔɾɚ pʌmp wəl dɪsˈpleɪs ˈtʌnz əv ˈlɪkwɪd frəm ðə ˈtʃeɪmbɚ/",
+          "kana": "ザ ウォーラー パンプ ウル ディスプレイス タンズ アブ リクウィド フラム ザ チェイムバー",
+          "linking": [
+            "「water pump」で water の /t/ はフラップ化 [ˈwɔɾɚ]「ウォーラー」",
+            "「will displace」で will は弱形 [wəl]「ウル」に弱化",
+            "「displace tons」で displace の語末 /s/ が子音 /t/ に続き、未開放 [dɪsˈpleɪs̚ ˈtʌnz]「ディスプレイス タンズ」、tons の語末 /z/ が of に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be displacing",
+      "ipa": "/wɪl bi dɪsˈpleɪsɪŋ/",
+      "examples": [
+        {
+          "en": "The piston will be displacing blocks while the redstone current flows.",
+          "ja": "レッドストーン電流が流れている間、ピストンはブロックを移動させ続けます。",
+          "ipa": "/ðə ˈpɪstən wəl bi dɪsˈpleɪsɪŋ ˈblɑks waɪl ðə ˈɹɛdstoʊn ˈkɝɛnt floʊz/",
+          "kana": "ザ ピスタン ウル ビー ディスプレイシング ブラックス ワイル ザ レッドストーン カレント フロウズ",
+          "linking": [
+            "「will be」で will は弱形 [wəl]「ウル」、be は [bi:]「ビー」",
+            "「displacing blocks」で displacing の語末 /ŋ/ が子音 /b/ に続き、連結なし [dɪsˈpleɪsɪŋ ˈblɑks]「ディスプレイシング ブラックス」",
+            "「while the」で the は弱形 [ðə]「ザ」"
+          ]
+        },
+        {
+          "en": "They'll be displacing water continuously to maintain the flooded chamber.",
+          "ja": "彼らは水没したチャンバーを維持するために、継続的に水を移動させ続けます。",
+          "ipa": "/ðeɪl bi dɪsˈpleɪsɪŋ ˈwɔɾɚ kənˈtɪnjuəsli tə meɪnˈteɪn ðə ˈflʌdəd ˈtʃeɪmbɚ/",
+          "kana": "ゼイル ビー ディスプレイシング ウォーラー カンティニュアスリー ター メインテイン ザ フラッディド チェイムバー",
+          "linking": [
+            "「they'll be」で they'll は縮約形 [ðeɪl]「ゼイル」、be は [bi:]「ビー」",
+            "「displacing water」で displacing の語末 /ŋ/ が water に続き、water の /t/ はフラップ化 [ˈwɔɾɚ]「ウォーラー」に",
+            "「to maintain」で to は弱形 [tə]「ター」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have displaced",
+      "ipa": "/wɪl həv dɪsˈpleɪst/",
+      "examples": [
+        {
+          "en": "By sunset, we will have displaced all the water from the cavern.",
+          "ja": "日没までに、私たちは洞窟から全ての水を移動させ終えているでしょう。",
+          "ipa": "/baɪ ˈsʌnset wiː wɪl həv dɪsˈpleɪst ɔl ðə ˈwɔɾɚ frəm ðə ˈkævɚn/",
+          "kana": "バイ サンセット ウィー ウィル ハヴ ディスプレイスト オル ザ ウォーラー フラム ザ キャヴァン",
+          "linking": [
+            "「we will have」で we [wiː]、will は標準形 [wɪl]「ウィル」、have は弱形 [həv]「ハヴ」に弱化",
+            "「have displaced」で have の語末 /v/ が displaced の /d/ に続き連結なし",
+            "「displaced all」で displaced の語末 /t/ が母音 /ɔ/ に連結 [dɪsˈpleɪst ɔl]「ディスプレイスト オル」"
+          ]
+        },
+        {
+          "en": "The pump will have displaced thousands of blocks by the time you return.",
+          "ja": "戻ってくる頃には、ポンプは数千個のブロックを移動させ終えているでしょう。",
+          "ipa": "/ðə pʌmp wɪl əv dɪsˈpleɪst ˈθaʊzəndz əv ˈblɑks baɪ ðə ˈtaɪm juː rɪˈtɝn/",
+          "kana": "ザ パンプ ウィル アヴ ディスプレイスト ザウザンズ アブ ブラックス バイ ザ タイム ユー リターン",
+          "linking": [
+            "「will have」で will は標準形 [wɪl]「ウィル」、have は大幅に弱形化 [əv]「アヴ」",
+            "「have displaced」で have の弱形 [əv] が displaced に続く [əv dɪsˈpleɪst]「アヴ ディスプレイスト」",
+            "「thousands of」で thousands の語末 /z/ が of に連結、of は弱形 [əv]「アブ」で [ˈθaʊzəndz əv]「ザウザンズ アブ」"
+          ]
+        }
+      ]
     }
   ]
 }
