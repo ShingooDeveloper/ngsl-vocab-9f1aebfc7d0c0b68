@@ -401,6 +401,102 @@
           "kana": "ロー エフ ピー エス ハズ ビン ヒンダリング マイ マイニング スピード シンス アイ オウプンド トゥー メニー マッドズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will hinder",
+      "ipa": "/wɪl ˈhɪndər/",
+      "examples": [
+        {
+          "en": "They'll hinder our farm construction if we don't set up defenses properly.",
+          "ja": "我々が適切に防御を設定しなければ、彼らは私たちの農場建設を妨げるでしょう。",
+          "ipa": "/ðeɪl ˈhɪndər aʊr fɑrm kənˈstrʌkʃən ɪf wi ˌdoʊnt set ʌp dɪˈfɛnsɪz ˈprɑpərli/",
+          "linking": [
+            "they'll の末尾 /l/ が hinder の /h/ に続く（子音+子音で未開放）[ðeɪl ˈhɪndər] ゼイル ヒンダー",
+            "hinder の末尾 /ɚ/ が our の /aʊ/ に続く（子音+子音で未開放）[ˈhɪndər aʊr] ヒンダー アワー",
+            "if の末尾 /f/ が we の /w/ に続く（子音+子音で未開放）[ɪf wi] イフ ウィ",
+            "don't の末尾 /t/ が set に続く（未開放）[ˌdoʊnt set] ドウント セット"
+          ],
+          "kana": "ゼイル ヒンダー アワー ファーム コンストラクション イフ ウィ ドウント セット アップ ディフェンセズ プラパーリー"
+        },
+        {
+          "en": "I'll hinder the creeper spawn rate by lighting up the area around my base.",
+          "ja": "私は私のベースの周りの地域を照らすことでクリーパーの出現率を妨げるでしょう。",
+          "ipa": "/aɪl ˈhɪndər ðə ˈkripər sˈpoʊn reɪt baɪ ˈlaɪtɪŋ ʌp ðə ˈɛriə əˈraʊnd maɪ beɪs/",
+          "linking": [
+            "I'll の末尾 /l/ が hinder の /h/ に続く（子音+子音で未開放）[aɪl ˈhɪndər] アイル ヒンダー",
+            "hinder の末尾 /ɚ/ が the の /ð/ に続く（子音+子音で未開放）[ˈhɪndər ðə] ヒンダー ザ",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "around の末尾 /d/ が my の /m/ に続く（子音+子音で未開放）[əˈraʊnd maɪ] アラウンド マイ"
+          ],
+          "kana": "アイル ヒンダー ザ クリーパー スポウン レイト バイ ライティング アップ ザ エリア アラウンド マイ ベース"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be hindering",
+      "ipa": "/wɪl bi ˈhɪndərɪŋ/",
+      "examples": [
+        {
+          "en": "She'll be hindering the skeleton spawner by placing torches as we explore.",
+          "ja": "彼女は私たちが探索する際に、懐中電灯を置いてスケルトンスポーナーを妨げるでしょう。",
+          "ipa": "/ʃil bi ˈhɪndərɪŋ ðə ˈskɛlɪtən ˈspɑnər baɪ ˈpleɪsɪŋ ˈtɔrtʃɪz æz wi ɪkˈsplɔr/",
+          "linking": [
+            "she'll の末尾 /l/ が be の /b/ に続く（子音+子音で未開放）[ʃil bi] シール ビー",
+            "be /bi/ が hindering の /h/ に続く（母音+子音で自然に連結）",
+            "hindering の末尾 /ŋ/ が the に連結しない（鼻音+子音で未開放）",
+            "as の末尾 /z/ が we の /w/ に続く（子音+子音で未開放）[æz wi] アズ ウィ"
+          ],
+          "kana": "シール ビー ヒンダリング ザ スケリトン スポナー バイ プレイシング トーチズ アズ ウィ エクスプロア"
+        },
+        {
+          "en": "We'll be hindering server performance if we load too many mods at once.",
+          "ja": "一度に多くのモッドを読み込むと、サーバーのパフォーマンスを妨げるでしょう。",
+          "ipa": "/wil bi ˈhɪndərɪŋ ˈsɝːvər pərˈfɔrməns ɪf wi loʊd tu ˈmɛni mɑdz æt wʌns/",
+          "linking": [
+            "we'll の末尾 /l/ が be の /b/ に続く（子音+子音で未開放）[wil bi] ウィル ビー",
+            "be /bi/ が hindering の /h/ に続く（母音+子音で自然に連結）",
+            "hindering の末尾 /ŋ/ が server に連結しない（鼻音+子音で未開放）",
+            "mods の末尾 /z/ が at の /æ/ に続く（子音+子音で未開放）[mɑdz æt] マッズ アット"
+          ],
+          "kana": "ウィル ビー ヒンダリング サーヴァー パフォーマンス イフ ウィ ロード トゥー メニー マッズ アット ワンス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have hindered",
+      "ipa": "/wɪl həv ˈhɪndərd/",
+      "examples": [
+        {
+          "en": "By tomorrow, the server lag will have hindered our mining progress significantly.",
+          "ja": "明日までに、サーバーラグは私たちのマイニング進捗を大幅に妨げているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ ðə ˈsɝːvər læɡ wɪl həv ˈhɪndərd aʊr ˈmaɪnɪŋ ˈprɑɡrɛs sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "by の末尾 /aɪ/ が tomorrow の /t/ に続く（子音+子音で未開放）[baɪ təˈmɑroʊ] バイ タゥモロウ",
+            "the は弱形 /ðə/ [ðə] ザ",
+            "lag の末尾 /ɡ/ が will の /w/ に続く（子音+子音で未開放）[læɡ wɪl] ラッ ウィル",
+            "will が have の /h/ に続く（子音+子音で未開放）[wɪl həv] ウィル ハヴ"
+          ],
+          "kana": "バイ タゥモロウ ザ サーヴァー ラッ ウィル ハヴ ヒンダード アワー マイニング プログレス シグニフィキャントリー"
+        },
+        {
+          "en": "We'll have hindered the creeper population significantly by the time we finish mining.",
+          "ja": "採鉱を終了するまでに、私たちはクリーパーの個体数を大幅に妨げているでしょう。",
+          "ipa": "/wil həv ˈhɪndərd ðə ˈkripər ˌpɑpjəˈleɪʃən sɪɡˈnɪfɪkəntli baɪ ðə taɪm wi ˈfɪnɪʃ ˈmaɪnɪŋ/",
+          "linking": [
+            "we'll の末尾 /l/ が have の /h/ に続く（子音+子音で未開放）[wil həv] ウィル ハヴ",
+            "have は弱形 /həv/ が hindered の /h/ に続く（子音+子音で未開放）[həv ˈhɪndərd] ハヴ ヒンダード",
+            "hindered の末尾 /d/ が the の /ð/ に続く（未開放）[ˈhɪndərd ðə] ヒンダード ザ",
+            "time の末尾 /m/ が we の /w/ に続く（子音+子音で未開放）[taɪm wi] タイム ウィ"
+          ],
+          "kana": "ウィル ハヴ ヒンダード ザ クリーパー ポピュレイション シグニフィキャントリー バイ ザ タイム ウィ フィニッシュ マイニング"
+        }
+      ]
     }
   ],
   "tags": [
