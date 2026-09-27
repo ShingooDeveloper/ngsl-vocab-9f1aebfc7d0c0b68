@@ -215,6 +215,185 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is lagging）",
+      "text": "is lagging",
+      "ipa": "/ɪz ˈlæɡɪŋ/",
+      "examples": [
+        {
+          "en": "The server is lagging right now.",
+          "ja": "サーバーが今ひどくラグっています。",
+          "ipa": "[ðə ˈsɜɹvɚ ɪz ˈlæɡɪŋ ˈɹaɪt̚ ˈnaʊ]",
+          "linking": [
+            "「the」弱形 /ðə/（子音前の弱母音）",
+            "「is」弱形 /ɪz/（助動詞）",
+            "「right now」— right の語末 /t/ が子音 /n/ に先行し、未開放 [t̚]"
+          ],
+          "kana": "ザ サーバー イズ ラギング ライッ ナウ"
+        },
+        {
+          "en": "All the players are lagging today.",
+          "ja": "全てのプレイヤーが今日ラグっています。",
+          "ipa": "[ɔl ðə ˈpleɪɚz ɚ ˈlæɡɪŋ təˈdeɪ]",
+          "linking": [
+            "「the」弱形 /ðə/（子音前）",
+            "「are」弱形 /ɚ/（助動詞）",
+            "「to」弱形 /tə/（today の接頭音）"
+          ],
+          "kana": "オル ザ プレイアーズ アー ラギング タデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was lagging）",
+      "text": "was lagging",
+      "ipa": "/wəz ˈlæɡɪŋ/",
+      "examples": [
+        {
+          "en": "The world was lagging during that intense battle.",
+          "ja": "その激しい戦闘中、ワールドがラグっていました。",
+          "ipa": "[ðə ˈwɜɹld wəz ˈlæɡɪŋ ˈdʊɹɪŋ̚ ðæt ɪnˈtɛns ˈbætəl]",
+          "linking": [
+            "「was」弱形 /wəz/（助動詞）",
+            "「during」語末音 /ŋ/ が未開放で、次の子音に先行 [ŋ̚]",
+            "「that」弱形 /ðæt/（機能語）"
+          ],
+          "kana": "ザ ワーld ワズ ラギング ドゥーリング ザット インテンス バトル"
+        },
+        {
+          "en": "Players were lagging in the caves all morning.",
+          "ja": "プレイヤーたちは朝中、洞窟の中でラグっていました。",
+          "ipa": "[ˈpleɪɚz wɚ ˈlæɡɪŋ ɪn ðə ˈkeɪvz ɔl ˈmɔɹnɪŋ̚]",
+          "linking": [
+            "「were」弱形 /wɚ/（助動詞）",
+            "「the」弱形 /ðə/（子音前）",
+            "「morning」語末音 /ŋ/ が未開放で終了 [ŋ̚]"
+          ],
+          "kana": "プレイアーズ ワー ラギング イン ザ ケイヴズ オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been lagging）",
+      "text": "had been lagging",
+      "ipa": "/həd bɪn ˈlæɡɪŋ/",
+      "examples": [
+        {
+          "en": "The server had been lagging for hours before we finally noticed the problem.",
+          "ja": "問題に気づくまで、サーバーは何時間もラグり続けていました。",
+          "ipa": "[ðə ˈsɜɹvɚ həd bɪn ˈlæɡɪŋ fɚ ˈaʊɚz bɪˈfɔɹ wi ˈfaɪnəli ˈnoʊtɪst ðə ˈprɑbləm]",
+          "linking": [
+            "「had」弱形 /həd/（助動詞）",
+            "「been」弱形 /bɪn/（助動詞）",
+            "「for」弱形 /fɚ/（機能語）"
+          ],
+          "kana": "ザ サーバー ハド ビン ラギング ファー アワーズ ビフォア ウィ ファイナリー ノウティスト ザ プロブラム"
+        },
+        {
+          "en": "I had been lagging behind everyone in the mining race.",
+          "ja": "採掘レースで、私はずっとみんなから遅れていました。",
+          "ipa": "[aɪ həd bɪn ˈlæɡɪŋ bɪˈhaɪnd ˈɛvɹiˌwʌn ɪn ðə ˈmaɪnɪŋ ˈɹeɪs]",
+          "linking": [
+            "「had」弱形 /həd/（助動詞）",
+            "「been」弱形 /bɪn/（助動詞）",
+            "「the」弱形 /ðə/（子音前）"
+          ],
+          "kana": "アイ ハド ビン ラギング ビハインド エヴリワン イン ザ マイニング レイス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has lagged）",
+      "text": "has lagged",
+      "ipa": "/həz læɡd/",
+      "examples": [
+        {
+          "en": "The server has lagged since we loaded the new chunks.",
+          "ja": "新しいチャンクをロードして以来、サーバーはラグり続けています。",
+          "ipa": "[ðə ˈsɝvɚ həz læɡd sɪns wi ˈloʊdəd ðə nu tʃʌŋks]",
+          "linking": [
+            "「the」弱形 /ðə/（子音前の弱母音）",
+            "「has」弱形 /həz/（助動詞）"
+          ],
+          "kana": "ザ サーバー ハズ ラグド シンス ウィ ロウデッド ザ ヌー チャングクス"
+        },
+        {
+          "en": "I have lagged out three times today during my mining session.",
+          "ja": "今日、私のマイニングセッション中に3回ラグアウトしました。",
+          "ipa": "[aɪ həv læɡd aʊt θri taɪmz təˈdeɪ ˈdʊɹɪŋ maɪ ˈmaɪnɪŋ ˈsɛʃən]",
+          "linking": [
+            "「have」弱形 /həv/（助動詞）",
+            "「lagged out」で lagged の /d/ が out の /aʊ/ に連結 [læɡd aʊt]",
+            "「mining」の語末音 /ŋ/ が未開放で終了 [ˈmaɪnɪŋ̚]"
+          ],
+          "kana": "アイ ハヴ ラグド アウト スリー タイムズ タデイ ドゥーリング マイ マイニング セッション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had lagged）",
+      "text": "had lagged",
+      "ipa": "/həd læɡd/",
+      "examples": [
+        {
+          "en": "The game had lagged for hours before the server crashed.",
+          "ja": "サーバーがクラッシュする前に、ゲームは何時間もラグり続けていました。",
+          "ipa": "[ðə ɡeɪm həd læɡd fɚ ˈaʊɚz bɪˈfɔɹ ðə ˈsɝvɚ kræʃt]",
+          "linking": [
+            "「the」弱形 /ðə/（子音前）",
+            "「had」弱形 /həd/（助動詞）",
+            "「for」弱形 /fɚ/（機能語）"
+          ],
+          "kana": "ザ ゲイム ハド ラグド ファー アワーズ ビフォー ザ サーバー クラッシ"
+        },
+        {
+          "en": "Before I lost my diamonds, the server had lagged repeatedly during the session.",
+          "ja": "ダイヤモンドを失う前に、サーバーはセッション中に何度もラグり続けていました。",
+          "ipa": "[bɪˈfɔɹ aɪ lɔst maɪ ˈdaɪməndz ðə ˈsɝvɚ həd læɡd rɪˈpiːtɪdli ˈdʊɹɪŋ ðə ˈsɛʃən]",
+          "linking": [
+            "「had」弱形 /həd/（助動詞）",
+            "「the」弱形 /ðə/（子音前）",
+            "「during」の語末音 /ŋ/ が未開放で終了 [ˈdʊɹɪŋ̚]"
+          ],
+          "kana": "ビフォー アイ ロスト マイ ダイモンズ ザ サーバー ハド ラグド リピーティドリー ドゥーリング ザ セッション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has been lagging）",
+      "text": "has been lagging",
+      "ipa": "/həz bɪn ˈlæɡɪŋ/",
+      "examples": [
+        {
+          "en": "The server has been lagging continuously for the past hour.",
+          "ja": "サーバーはこの1時間、ずっとラグり続けています。",
+          "ipa": "[ðə ˈsɝvɚ həz bɪn ˈlæɡɪŋ ˈkɑntɪnjuəsli fɚ ðə pæst ˈaʊɚ]",
+          "linking": [
+            "「has」弱形 /həz/（助動詞）",
+            "「been」弱形 /bɪn/（助動詞）",
+            "「for」弱形 /fɚ/（機能語）"
+          ],
+          "kana": "ザ サーバー ハズ ビン ラギング カンティンジュアスリー ファー ザ パスト アワー"
+        },
+        {
+          "en": "The world has been lagging ever since we started the major construction project.",
+          "ja": "大規模な建設プロジェクトを開始して以来、ワールドはずっとラグり続けています。",
+          "ipa": "[ðə wɝld həz bɪn ˈlæɡɪŋ ˈɛvɚ sɪns wi ˈstɑɹtɪd ðə ˈmeɪdʒɚ kənˈstrʌkʃən ˈprɑdʒɛkt]",
+          "linking": [
+            "「has」弱形 /həz/（助動詞）",
+            "「been」弱形 /bɪn/（助動詞）",
+            "「started the」で started の /d/ が the に続き、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ワーld ハズ ビン ラギング エヴァー シンス ウィ スターティド ザ メイジャー カンストラクション プロジェクト"
+        }
+      ]
     }
   ]
 }
