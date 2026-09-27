@@ -314,6 +314,186 @@
           "kana": "シー ハド ビン トランズプランティング セイプリングズ オール モーニング ウェン ハー トゥール ブロウク"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has transplanted",
+      "ipa": "/həz ˈtrænzplæntəd/",
+      "examples": [
+        {
+          "en": "I have transplanted all the saplings to the new biome.",
+          "ja": "新しいバイオームにすべての苗木を植え替えました。",
+          "ipa": "/aɪ ˈhæv ˈtrænzplæntəd ɔːl ðə ˈseɪplɪŋz tu ðə ˌnuː ˈbaɪoʊm/",
+          "linking": [
+            "have の弱形 /həv/ が transplanted に連結。v が t の前で未開放気味 [həv̚ ˈtrænzplæn tɪd] ハヴ トランズプラントゥ",
+            "transplanted の語末 /d/ が all の /ɔ/ に連結 [ˈtrænzplæn tɪd ɔːl] トランズプラントゥ オール",
+            "the の弱形 /ðə/ [ðə] ザ、to の弱形 /tə/ [tə] タ、the の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "アイ ハヴ トランズプラントゥ オール ザ セイプリングズ トゥ ザ ニュー バイオーム"
+        },
+        {
+          "en": "She has transplanted the giant oak tree to create shade for the entire base.",
+          "ja": "彼女はベース全体に日陰を作るために、巨大なオークの木を植え替えました。",
+          "ipa": "/ʃi həz ˈtrænzplæntəd ðə ˈdʒaɪənt ˈoʊk ˈtɹiː tu kriˈeɪt ˈʃeɪd fɔɹ ðə ənˈtaɪɚ ˈbeɪs/",
+          "linking": [
+            "she の /ʃi/ が has に流れ、has の弱形 /həz/ [ʃi həz] シー ハズ",
+            "has の弱形 /həz/ が transplanted に連結。z が t の前で未開放気味 [həz̚ ˈtrænzplæn tɪd] ハズ トランズプラントゥ",
+            "the の弱形 /ðə/ [ðə] ザ、to の弱形 /tə/ [tə] タ、for の弱形 /fɚ/ [fɚ] ファー、the の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "シー ハズ トランズプラントゥ ザ ジャイアント オーク トゥリー タ クリエイト シェイド フォー ザ エンタイアー ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had transplanted",
+      "ipa": "/həd ˈtrænzplæntəd/",
+      "examples": [
+        {
+          "en": "They had transplanted all the crops before the drought began.",
+          "ja": "干ばつが始まる前に、彼らはすべての作物を植え替えていました。",
+          "ipa": "/ðeɪ həd ˈtrænzplæntəd ɔːl ðə ˈkɹɑps bɪˈfɔɹ ðə ˈdraʊt bɪˈɡæn/",
+          "linking": [
+            "had の弱形 /həd/ が transplanted に連結。d が t の前で未開放 [həd̚ ˈtrænzplæn tɪd] ハド トランズプラントゥ",
+            "transplanted の語末 /d/ が all の /ɔ/ に連結 [ˈtrænzplæn tɪd ɔːl] トランズプラントゥ オール",
+            "the の弱形 /ðə/ [ðə] ザ、before の /ɚ/ が drought に流れる [bɪˈfɔɹ ðə ˈdraʊt] ビフォー ザ ドラウト"
+          ],
+          "kana": "ザイ ハド トランズプラントゥ オール ザ クラップス ビフォー ザ ドラウト ビガン"
+        },
+        {
+          "en": "The gardener had transplanted the saplings to new soil before I arrived at the farm.",
+          "ja": "農場に到着する前に、庭師は苗木を新しい土に植え替えていました。",
+          "ipa": "/ðə ˈɡɑɹdənɚ həd ˈtrænzplæntəd ðə ˈseɪplɪŋz tu ˌnuː ˈsoɪl bɪˈfɔɹ aɪ əˈɹaɪvd æt ðə ˈfɑɹm/",
+          "linking": [
+            "the の弱形 /ðə/ [ðə] ザ",
+            "had の弱形 /həd/ が transplanted に連結。d が t の前で未開放 [həd̚ ˈtrænzplæn tɪd] ハド トランズプラントゥ",
+            "the の弱形 /ðə/ [ðə] ザ、to の弱形 /tə/ が new に続く [tə ˌnuː] タ ニュー、before の /ɚ/ が I に流れ、I が arrived に流れる [bɪˈfɔɹ aɪ əˈɹaɪvd] ビフォー アイ エライヴド"
+          ],
+          "kana": "ザ ガーデナー ハド トランズプラントゥ ザ セイプリングズ トゥ ニュー ソイル ビフォー アイ エライヴド アット ザ ファーム"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been transplanting",
+      "ipa": "/həz ˈbɪn ˈtrænzplæntɪŋ/",
+      "examples": [
+        {
+          "en": "I have been transplanting trees since early morning to prepare for the new season.",
+          "ja": "新しいシーズンに向けて準備するために、朝早くから樹木を植え替えています。",
+          "ipa": "/aɪ ˈhæv ˈbɪn ˈtrænzplæntɪŋ ˈtɹiz sɪns ˈɚli ˈmɔɹnɪŋ tu prɪˈpɛɚ fɔɹ ðə ˌnuː ˈsizən/",
+          "linking": [
+            "have の弱形 /həv/ が been に連結。v が b の前で未開放気味 [həv̚ bɪn] ハヴ ビン",
+            "been の弱形 /bɪn/ が transplanting に連結 [bɪn ˈtrænzplæn tɪŋ] ビン トランズプランティング",
+            "transplanting の語末 /ŋ/ が trees に連結 [ˈtrænzplæn tɪŋ ˈtɹiz] トランズプランティング トゥリーズ、since の弱形 /sɪns/ [sɪns] シンス、for の弱形 /fɚ/ [fɚ] ファー、the の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "アイ ハヴ ビン トランズプランティング トゥリーズ シンス アーリー モーニング トゥ プリペアー ファー ザ ニュー シーズン"
+        },
+        {
+          "en": "She has been transplanting saplings in the forest area all week to expand the biome.",
+          "ja": "バイオームを拡張するために、彼女は1週間ずっと森の領域に苗木を植え替えています。",
+          "ipa": "/ʃi həz ˈbɪn ˈtrænzplæntɪŋ ˈseɪplɪŋz ɪn ðə ˈfɔɹɪst ˈɛɹiə ɔːl ˈwik tu ɪkˈspænd ðə ˈbaɪoʊm/",
+          "linking": [
+            "she の /ʃi/ が has に流れ、has の弱形 /həz/ [ʃi həz] シー ハズ",
+            "has の弱形 /həz/ が been に連結。z が b の前で未開放気味 [həz̚ bɪn] ハズ ビン",
+            "been の弱形 /bɪn/ が transplanting に連結 [bɪn ˈtrænzplæn tɪŋ] ビン トランズプランティング、in の /ɪn/ が the に続く [ɪn ðə] イン ザ、the の弱形 /ðə/ [ðə] ザ、all が /ɔːl/ で week に続く [ɔːl ˈwik] オール ウィーク、to の弱形 /tə/ [tə] タ"
+          ],
+          "kana": "シー ハズ ビン トランズプランティング セイプリングズ イン ザ フォレスト エリア オール ウィーク トゥ イクスパンド ザ バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will transplant",
+      "ipa": "/wɪl ˈtrænzplænt/",
+      "examples": [
+        {
+          "en": "I will transplant the saplings before the rainy season starts.",
+          "ja": "雨季が始まる前に、苗木を植え替えます。",
+          "ipa": "/aɪ wɪl ˈtrænzplænt ðə ˈseɪplɪŋz bɪˈfɔɹ ðə ˈreɪni ˈsizən ˈstɑɹts/",
+          "linking": [
+            "I の /aɪ/ が will に流れる [aɪ wɪl] アイ ウィル",
+            "will の語末子音 /l/ が transplant の /t/ に未開放で連接 [wɪl̚ ˈtrænzplænt] ウィル トランズプラント",
+            "transplant の語末子音 /t/ が the の /ðə/（弱形）に連結 [ˈtrænzplæn tə] トランズプラント ザ"
+          ],
+          "kana": "アイ ウィル トランズプラント ザ セイプリングズ ビフォー ザ レイニー シーズン スターツ"
+        },
+        {
+          "en": "They will transplant the giant oak tree to make room for the castle.",
+          "ja": "城のスペースを作るために、彼らは巨大なオークの木を植え替えるでしょう。",
+          "ipa": "/ðeɪ wɪl ˈtrænzplænt ðə ˈdʒaɪənt ˈoʊk ˈtɹiː tu ˈmeɪk ˈɹum fɔɹ ðə ˈkæsəl/",
+          "linking": [
+            "they の /ðeɪ/ が will に流れる [ðeɪ wɪl] ザイ ウィル",
+            "will の語末 /l/ が transplant の /t/ に未開放で連接 [wɪl̚ ˈtrænzplænt] ウィル トランズプラント",
+            "transplant の語末 /t/ が the の /ðə/（弱形）に連結 [ˈtrænzplæn tə] トランズプラント ザ、to の弱形 /tə/ [tə] タ、for の弱形 /fɚ/ [fɚ] ファー"
+          ],
+          "kana": "ザイ ウィル トランズプラント ザ ジャイアント オーク トゥリー タ メイク ルーム ファー ザ キャッセル"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be transplanting",
+      "ipa": "/wɪl bi ˈtrænzplæntɪŋ/",
+      "examples": [
+        {
+          "en": "We will be transplanting trees all day tomorrow to prepare the biome.",
+          "ja": "バイオームを準備するために、明日1日中樹木を植え替えます。",
+          "ipa": "/wi wɪl bi ˈtrænzplæntɪŋ ˈtɹiz ɔːl ˈdeɪ təˈmɑɹoʊ tu prɪˈpɛɚ ðə ˈbaɪoʊm/",
+          "linking": [
+            "we の /wi/ が will に流れる [wi wɪl] ウィー ウィル",
+            "will の語末 /l/ が be の /b/ に未開放で連接 [wɪl̚ bi] ウィル ビー",
+            "be の /bi/ が transplanting に流れ、transplanting の語末 /ŋ/ が trees に連結 [bi ˈtrænzplæn tɪŋ ˈtɹiz] ビー トランズプランティング トゥリーズ、to の弱形 /tə/ [tə] タ、the の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ウィー ウィル ビー トランズプランティング トゥリーズ オール デイ トゥモロー タ プリペアー ザ バイオーム"
+        },
+        {
+          "en": "He will be transplanting crops while we set up the farm.",
+          "ja": "私たちが農場をセットアップしている間、彼は作物を植え替えます。",
+          "ipa": "/hi wɪl bi ˈtrænzplæntɪŋ ˈkɹɑps waɪl wi ˈsɛt ʌp ðə ˈfɑɹm/",
+          "linking": [
+            "he の /hi/ が will に流れる [hi wɪl] ヒー ウィル",
+            "will の語末 /l/ が be に未開放で連接 [wɪl̚ bi] ウィル ビー",
+            "be の /bi/ が transplanting に流れ、transplanting の語末 /ŋ/ が crops に連結 [bi ˈtrænzplæn tɪŋ ˈkɹɑps] ビー トランズプランティング クラップス、while の語末 /l/ が we に未開放で連接 [waɪl̚ wi] ワイル ウィー、the の弱形 /ðə/ [ðə] ザ"
+          ],
+          "kana": "ヒー ウィル ビー トランズプランティング クラップス ワイル ウィー セット アップ ザ ファーム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have transplanted",
+      "ipa": "/wɪl həv ˈtrænzplæntəd/",
+      "examples": [
+        {
+          "en": "By sunset, I will have transplanted all the saplings to the new biome.",
+          "ja": "日没までに、すべての苗木を新しいバイオームに植え替えているでしょう。",
+          "ipa": "/baɪ ˈsʌnsɛt aɪ wɪl həv ˈtrænzplæntəd ɔːl ðə ˈseɪplɪŋz tu ðə ˌnuː ˈbaɪoʊm/",
+          "linking": [
+            "I の /aɪ/ が will に流れる [aɪ wɪl] アイ ウィル",
+            "will の語末 /l/ が have に未開放で連接 [wɪl̚ həv] ウィル ハヴ",
+            "have の /həv/ が transplanted に流れ、transplanted の語末 /d/ が all の /ɔːl/ に連結 [həv ˈtrænzplæn tɪd ɔːl] ハヴ トランズプラントゥ オール、to の弱形 /tə/ [tə] タ、the の弱形 /ðə/ [ðə] ザ（2回）"
+          ],
+          "kana": "バイ サンセット アイ ウィル ハヴ トランズプラントゥ オール ザ セイプリングズ トゥ ザ ニュー バイオーム"
+        },
+        {
+          "en": "She will have transplanted the entire forest by the time we return.",
+          "ja": "私たちが戻るまでに、彼女は森全体を植え替えているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈtrænzplæntəd ðə ənˈtaɪɚ ˈfɔɹəst baɪ ðə ˈtaɪm wi ɹɪˈtɝn/",
+          "linking": [
+            "she の /ʃi/ が will に流れる [ʃi wɪl] シー ウィル",
+            "will の語末 /l/ が have に未開放で連接 [wɪl̚ həv] ウィル ハヴ",
+            "have の /həv/ が transplanted に流れ、transplanted の語末 /d/ が the に連結 [həv ˈtrænzplæn tɪd ðə] ハヴ トランズプラントゥ ザ、the の弱形 /ðə/ [ðə] ザ、by の /baɪ/ が the に流れる [baɪ ðə] バイ ザ、time の語末 /m/ が we に未開放気味で連接 [ˈtaɪm̚ wi] タイム ウィー"
+          ],
+          "kana": "シー ウィル ハヴ トランズプラントゥ ザ エンタイアー フォレスト バイ ザ タイム ウィー リターン"
+        }
+      ]
     }
   ]
 }
