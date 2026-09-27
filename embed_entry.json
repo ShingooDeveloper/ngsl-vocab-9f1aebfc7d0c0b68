@@ -297,6 +297,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will embed",
+      "ipa": "/wɪl ɪmˈbɛd/",
+      "examples": [
+        {
+          "en": "I will embed these diamonds deep into the bedrock layer to protect them safely.",
+          "ja": "これらのダイヤモンドを基岩層に深く埋め込んで安全に保護します。",
+          "ipa": "/aɪl ɪmˈbɛd ðiːz ˈdaɪəmændz ˈdip ˈɪntu ðə ˈbɛdɹɑk ˈleɪər tə prəˈtɛkt ðɛm ˈseɪfli/",
+          "kana": "アイル イムベッド ディーズ ダイアマンズ ディープ インテュー ザ ベッドロック レイヤー トゥ プロテッ ザム セイフリー",
+          "linking": [
+            "I will：I の /aɪ/ が will の /w/ に連結。I'll と縮約 [aɪl] アイル",
+            "will embed：will の末の /l/ が embed の /ɪ/ に連結 [wɪl ɪmˈbɛd] ウィル イムベッド",
+            "into the：into の /u/ が the の弱形 /ðə/ に語間で続く [ˈɪntu ðə] インテュー ザ",
+            "protect them：protect の末 /t/ が them の /ð/ に未開放 [t̚ðɛm] プロテッ ザム"
+          ]
+        },
+        {
+          "en": "They will embed the secret redstone circuits throughout the fortress walls by tomorrow.",
+          "ja": "彼らは明日までに秘密のレッドストーン回路を要塞の壁全体に埋め込みます。",
+          "ipa": "/ðeɪl ɪmˈbɛd ðə ˈsikɹət ˈɹɛdstoʊn ˈsɚkɪts θɹuˈaʊt ðə ˈfɔɹtɹəs wɔlz baɪ təˈmɑɹoʊ/",
+          "kana": "ザイル イムベッド ザ シークレット レッドストウン サーキッツ スルーアウト ザ フォートレス ウォールズ バイ トゥモロー",
+          "linking": [
+            "They will：They の /eɪ/ が will に連結。they'll と縮約 [ðeɪl] ザイル",
+            "will embed：will の末の /l/ が embed の /ɪ/ に連結 [wɪl ɪmˈbɛd] ウィル イムベッド",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [t̚ðə] スルーアウッ ザ",
+            "fortress walls：fortress の末 /s/ が walls の /w/ に語間で続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be embedding",
+      "ipa": "/wɪl bi ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The construction crew will be embedding decorative ore blocks throughout the monument all next week.",
+          "ja": "建設クルーは来週1週間かけて、記念碑全体に装飾的な鉱石ブロックを埋め込んでいくでしょう。",
+          "ipa": "/ðə kənˈstɹʌkʃən kɹu wɪl bi ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɔɹ blɑks θɹuˈaʊt ðə ˈmɑnjumənt ɔl nɛks̬ wik/",
+          "kana": "ザ コンストラクション クルー ウィル ビー イムベディング デコレイティブ オア ブロックス スルーアウト ザ モニュメント オール ネックス ウィーク",
+          "linking": [
+            "crew will：crew の /u/ が will の /w/ に連結 [kɹu wɪl] クルー ウィル",
+            "will be：will の末 /l/ が be の /b/ に未開放 [l̚b] ウィル ビー",
+            "be embedding：be の弱形 /bi/ が embedding の /ɪ/ に連結 [bi ɪmˈbɛdɪŋ] ビー イムベディング",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [t̚ðə] スルーアウッ ザ"
+          ]
+        },
+        {
+          "en": "We'll be embedding treasures in hidden chests during the entire month-long event.",
+          "ja": "1ヶ月間のイベント中、隠れた宝箱に宝物を埋め込んでいくでしょう。",
+          "ipa": "/wil bi ɪmˈbɛdɪŋ ˈtɹɛʒɚz ɪn ˈhɪdən tʃɛsts ˈduːɹɪŋ ðə ɪnˈtaɪɹ ˈmʌnθ lɔŋ ɪˈvɛnt/",
+          "kana": "ウィル ビー イムベディング トレジャーズ イン ヒドゥン チェスツ ドゥーリング ザ エンタイアー マンス ロング イベント",
+          "linking": [
+            "We'll be：We の /i/ が will に連結。we'll と縮約、末の /l/ が be の /b/ に未開放 [wɪl̚bi] ウィル ビー",
+            "be embedding：be の弱形 /bi/ が embedding の /ɪ/ に連結 [bi ɪmˈbɛdɪŋ] ビー イムベディング",
+            "in hidden：in の /n/ が hidden の /h/ に語間で続く",
+            "during the：during の末 /ŋ/ が the の弱形 /ðə/ に連結 [ˈduːɹɪŋ ðə] ドゥーリング ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have embedded",
+      "ipa": "/wɪl həv ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "By the end of the season, we will have embedded dozens of secret passages throughout the entire base.",
+          "ja": "シーズン終了までに、ベース全体に数十の秘密の通路を埋め込んでいるでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə ˈsizən wi wɪl həv ɪmˈbɛdəd ˈdʌzənz əv ˈsikɹət ˈpæsɪdʒəz θɹuˈaʊt ðə ənˈtaɪɹ beɪs/",
+          "kana": "バイ ザ エンド アヴ ザ シーズン ウィ ウィル ハヴ イムベディド ダズンズ アヴ シークレット パッセージズ スルーアウト ザ エンタイアー ベイス",
+          "linking": [
+            "end of：end の末 /d/ が of の弱形 /əv/ に連結 [ɛnd əv] エンド アヴ",
+            "of the：of の弱形 /əv/ が the の弱形 /ðə/ に語間で続く [əv ðə] アヴ ザ",
+            "will have：will の末 /l/ が have の弱形 /həv/ に連結 [wɪl həv] ウィル ハヴ",
+            "have embedded：have の弱形 /həv/ が embedded の /ɪ/ に連結 [həv ɪmˈbɛdəd] ハヴ イムベディド"
+          ]
+        },
+        {
+          "en": "By next month, you will have embedded all the decorative elements in your palace structure.",
+          "ja": "来月までに、宮殿の構造にすべての装飾要素を埋め込んでいるでしょう。",
+          "ipa": "/baɪ nɛks̬ ˈmʌnθ ju wɪl həv ɪmˈbɛdəd ɔl ðə ˈdɛkəreɪtɪv ˈɛləmənts ɪn jɔɹ pəˈlɛs ˈstrʌktʃɚ/",
+          "kana": "バイ ネックス マンス ユー ウィル ハヴ イムベディド オール ザ デコレイティブ エレメンツ イン ユア パレス ストラクチャー",
+          "linking": [
+            "next month：month の末 /θ/ が you の /j/ に語間で続く",
+            "you will：you の末 /u/ が will の /w/ に連結 [ju wɪl] ユー ウィル",
+            "will have：will の末 /l/ が have の弱形 /həv/ に連結 [wɪl həv] ウィル ハヴ",
+            "have embedded：have の弱形 /həv/ が embedded の /ɪ/ に連結 [həv ɪmˈbɛdəd] ハヴ イムベディド"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -299,6 +299,186 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has overlapped",
+      "ipa": "/həz ˌoʊvɚˈlæpt/",
+      "examples": [
+        {
+          "en": "Our base has overlapped with the spawn chunks, causing unexpected mob spawns.",
+          "ja": "私たちのベースはスポーンチャンクと重なり、予期しないモブのスポーンが発生しています。",
+          "ipa": "/ˈaʊɚ ˈbeɪs həz ˌoʊvɚˈlæpt wɪð ðə ˈspoʊn tʃʌŋks ˈkɔzɪŋ ʌnɪkˈspɛktəd moʊb ˈspoʊnz/",
+          "kana": "アワー ベイス ハズ オウバーラップト ウィズ ザ スポーン チャンクス コージング アニクスペクテッド モウブ スポーンズ",
+          "linking": [
+            "has overlapped: has は弱形 /əz/、/z/ が母音 /oʊ/ に連結 [həz ˌoʊvɚˈlæpt] ハズ オウバーラップト",
+            "with the: the は弱形 /ðə/ [wɪð ðə] ウィズ ザ",
+            "spawn chunks: 語末の /ŋ/ が子音 /tʃ/ に続き未開放 [ˈspoʊn̚ tʃʌŋks] スポーン チャンクス"
+          ]
+        },
+        {
+          "en": "The neighboring mining zones have overlapped before; it always causes disputes.",
+          "ja": "隣接する採掘ゾーンは以前重なっています。いつも紛争が発生します。",
+          "ipa": "/ðə ˈneɪbɚɪŋ ˈmaɪnɪŋ zoʊnz həv ˌoʊvɚˈlæpt bɪˈfɔr ɪt ˈɔlwɪz ˈkɔzɪz dɪˈspjuːts/",
+          "kana": "ザ ネイバーリング マイニング ゾーンズ ハヴ オウバーラップト ビフォア イット オールウェイズ コージズ ディスピューツ",
+          "linking": [
+            "zones have: 語末子音 /z/ が弱形 /həv/ の /ə/ に連結 [zoʊnz həv] ゾーンズ ハヴ",
+            "have overlapped: have 弱形 /əv/、/v/ が母音 /oʊ/ に連結 [həv ˌoʊvɚˈlæpt] ハヴ オウバーラップト",
+            "always causes: 語末の /z/ が子音 /k/ に続き未開放 [ˈɔlwɪz ˈkɔzɪz] オールウェイズ コージズ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had overlapped",
+      "ipa": "/həd ˌoʊvɚˈlæpt/",
+      "examples": [
+        {
+          "en": "Before we noticed the problem, the two builds had overlapped for several weeks.",
+          "ja": "問題に気づく前に、2つの建築物は数週間重なっていました。",
+          "ipa": "/bɪˈfɔr wi ˈnoʊtəst ðə ˈprɑbləm ðə tu bɪldz həd ˌoʊvɚˈlæpt fɔr ˈsɛvərəl wiks/",
+          "kana": "ビフォア ウィー ノウティスト ザ プラブラム ザ トゥー ビルズ ハド オウバーラップト フォア セヴラル ウィークス",
+          "linking": [
+            "had overlapped: had 弱形 /əd/、/d/ が母音 /oʊ/ に連結 [həd ˌoʊvɚˈlæpt] ハド オウバーラップト",
+            "the two: the は弱形 /ðə/ [ðə tu] ザ トゥー",
+            "for several: 語末の /r/ が子音 /s/ に続き未開放 [fɔr̚ ˈsɛvərəl] フォア セヴラル"
+          ]
+        },
+        {
+          "en": "The resource zones had overlapped with the protected area, which violated the server rules.",
+          "ja": "リソースゾーンが保護エリアと重なっており、サーバールールに違反していました。",
+          "ipa": "/ðə rɪˈsɔrs zoʊnz həd ˌoʊvɚˈlæpt wɪð ðə prəˈtɛktəd ˈɛriə wɪtʃ ˈvaɪəleɪtəd ðə ˈsɜrvɚ rulz/",
+          "kana": "ザ リソース ゾーンズ ハド オウバーラップト ウィズ ザ プロテクテッド エリア ウィッチ ヴァイオレイテッド ザ サーバー ルールズ",
+          "linking": [
+            "had overlapped: had 弱形 /əd/、/d/ が母音 /oʊ/ に連結 [həd ˌoʊvɚˈlæpt] ハド オウバーラップト",
+            "with the: the は弱形 /ðə/ [wɪð ðə] ウィズ ザ",
+            "protected area: 語末 /d/ が母音 /ɛ/ に連結 [prəˈtɛktəd ˈɛriə] プロテクテッド エリア"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been overlapping",
+      "ipa": "/həz bɪn ˌoʊvɚˈlæpɪŋ/",
+      "examples": [
+        {
+          "en": "The two factions' territories have been overlapping for months, causing ongoing disputes.",
+          "ja": "2つの派閥の領土が数ヶ月間重なっており、継続的な紛争が発生しています。",
+          "ipa": "/ðə tu ˈfækʃənz ˈtɛrətɔriz həv bɪn ˌoʊvɚˈlæpɪŋ fɔr mʌnθz ˈkɔzɪŋ ˌɑnˈɡoʊɪŋ dɪˈspjuːts/",
+          "kana": "ザ トゥー ファクションズ テリトリーズ ハヴ ビン オウバーラッピング フォア マンス コージング オンゴーイング ディスピューツ",
+          "linking": [
+            "have been: have 弱形 /əv/、/v/ が母音 /b/ に連結 [həv bɪn] ハヴ ビン",
+            "been overlapping: been 弱形 /bɪn/、/n/ が母音 /oʊ/ に連結 [bɪn ˌoʊvɚˈlæpɪŋ] ビン オウバーラッピング",
+            "for months: 語末の /r/ が子音 /m/ に続き未開放 [fɔr̚ mʌnθz] フォア マンス"
+          ]
+        },
+        {
+          "en": "The spawn zone has been overlapping with our base since the new update.",
+          "ja": "スポーンゾーンは新しいアップデート以来、私たちのベースと重なっています。",
+          "ipa": "/ðə ˈspoʊn zoʊn həz bɪn ˌoʊvɚˈlæpɪŋ wɪð ˈaʊɚ ˈbeɪs sɪns ðə nu ˈʌpdeɪt/",
+          "kana": "ザ スポーン ゾーン ハズ ビン オウバーラッピング ウィズ アワー ベイス シンス ザ ニュー アップデイト",
+          "linking": [
+            "has been: has 弱形 /əz/、/z/ が母音 /b/ に連結、been 弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been overlapping: been 弱形 /bɪn/、/n/ が母音 /oʊ/ に連結 [bɪn ˌoʊvɚˈlæpɪŋ] ビン オウバーラッピング",
+            "since the: the は弱形 /ðə/ [sɪns ðə] シンス ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will overlap",
+      "ipa": "/wɪl ˌoʊvɚˈlæp/",
+      "examples": [
+        {
+          "en": "I'll overlap my base with the new expansion if the terrain allows it.",
+          "ja": "地形が許すなら、新しい拡張領域と私のベースを重ね合わせます。",
+          "ipa": "/aɪl ˌoʊvɚˈlæp maɪ beɪs wɪð ðə nu ɪkˈspænʃən ɪf ðə təˈreɪn əˈlaʊz ɪt/",
+          "kana": "アイル オウバーラップ マイ ベイス ウィズ ザ ニュー イクスペンション イフ ザ タレイン アロウズ イット",
+          "linking": [
+            "I'll overlap: I'll 縮約形 /aɪl/ の /l/ が母音 /oʊ/ に連結 [aɪl ˌoʊvɚˈlæp] アイル オウバーラップ",
+            "overlap my: 語末子音 /p/ が母音 /m/ に連結 [ˌoʊvɚˈlæp maɪ] オウバーラップ マイ",
+            "with the: the は弱形 /ðə/ [wɪð ðə] ウィズ ザ"
+          ]
+        },
+        {
+          "en": "The team will overlap their storage areas with the central warehouse by next week.",
+          "ja": "チームは来週までに、ストレージ領域を中央倉庫と重ね合わせるでしょう。",
+          "ipa": "/ðə tim wɪl ˌoʊvɚˈlæp ðɛɹ ˈstɔrɪdʒ ˈɛriəz wɪð ðə ˈsɛntrəl ˈwɛɹhaʊs baɪ nɛkst wik/",
+          "kana": "ザ ティーム ウィル オウバーラップ ゼア ストレッジ エリアズ ウィズ ザ セントラル ウェアハウス バイ ネクスト ウィーク",
+          "linking": [
+            "team will: 語末の /m/ が母音 /w/ に連結 [tim wɪl] ティーム ウィル",
+            "will overlap: /l/ が母音 /oʊ/ に連結 [wɪl ˌoʊvɚˈlæp] ウィル オウバーラップ",
+            "with the: the は弱形 /ðə/ [wɪð ðə] ウィズ ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be overlapping",
+      "ipa": "/wɪl bi ˌoʊvɚˈlæpɪŋ/",
+      "examples": [
+        {
+          "en": "Our bases will be overlapping for a while until we finish the redistricting.",
+          "ja": "区分け直しが完了するまで、私たちのベースはしばらく重なった状態になります。",
+          "ipa": "/ˈaʊɚ ˈbeɪsɪz wɪl bi ˌoʊvɚˈlæpɪŋ fɔr ə waɪl ənˈtɪl wi ˈfɪnɪʃ ðə ˌridɪˈstrɪktɪŋ/",
+          "kana": "アワー ベイシズ ウィル ビー オウバーラッピング フォア ア ワイル アンティル ウィー フィニッシュ ザ リディストリクティング",
+          "linking": [
+            "will be: /l/ が母音 /b/ に連結 [wɪl bi] ウィル ビー",
+            "be overlapping: /b/ が母音 /oʊ/ に連結 [bi ˌoʊvɚˈlæpɪŋ] ビー オウバーラッピング",
+            "for a: 語末の /r/ が母音 /ə/ に連結 [fɔr ə] フォア ア"
+          ]
+        },
+        {
+          "en": "We'll be overlapping the spawn chunks with our new build, so there could be issues.",
+          "ja": "新しい建築でスポーンチャンクと重ね合わせることになるので、問題が発生する可能性があります。",
+          "ipa": "/wil bi ˌoʊvɚˈlæpɪŋ ðə ˈspoʊn tʃʌŋks wɪð ˈaʊɚ nu bɪld soʊ ðɛɹ kʊd bi ˈɪʃuːz/",
+          "kana": "ウィル ビー オウバーラッピング ザ スポーン チャンクス ウィズ アワー ニュー ビルド ソー ゼア クッド ビー イシューズ",
+          "linking": [
+            "We'll be: 縮約形 /wil/ の /l/ が母音 /b/ に連結 [wil bi] ウィル ビー",
+            "be overlapping: /b/ が母音 /oʊ/ に連結 [bi ˌoʊvɚˈlæpɪŋ] ビー オウバーラッピング",
+            "the spawn: the は弱形 /ðə/ [ðə ˈspoʊn] ザ スポーン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have overlapped",
+      "ipa": "/wɪl həv ˌoʊvɚˈlæpt/",
+      "examples": [
+        {
+          "en": "By the time construction ends, we will have overlapped at least three different zones.",
+          "ja": "建設が終わるまでに、私たちは少なくとも3つの異なるゾーンを重ね合わせることになります。",
+          "ipa": "/baɪ ðə taɪm kənˈstrʌkʃən ɛndz wi wɪl həv ˌoʊvɚˈlæpt æt list θri ˈdɪfərənt zoʊnz/",
+          "kana": "バイ ザ タイム コンストラクション エンズ ウィー ウィル ハヴ オウバーラップト アット リースト スリー ディフラント ゾーンズ",
+          "linking": [
+            "will have: have 弱形 /əv/、/l/ が /h/ に続く [wɪl həv] ウィル ハヴ",
+            "have overlapped: /v/ が母音 /oʊ/ に連結 [həv ˌoʊvɚˈlæpt] ハヴ オウバーラップト",
+            "at least: 語末 /t/ が子音 /l/ に続き未開放 [æt̚ list] アット リースト"
+          ]
+        },
+        {
+          "en": "If they don't reach an agreement soon, the territories will have overlapped for months.",
+          "ja": "もし彼らが間もなく合意に達しなければ、その領土は数ヶ月間重なったままになるでしょう。",
+          "ipa": "/ɪf ðeɪ doʊnt ritʃ ən əˈɡrimənt sun ðə ˈtɛrətɔriz wɪl həv ˌoʊvɚˈlæpt fɔr mʌnθz/",
+          "kana": "イフ ザイ ドーント リーチ アン ア グリーメント スーン ザ テリトリーズ ウィル ハヴ オウバーラップト フォア マンス",
+          "linking": [
+            "will have: have 弱形 /əv/ [wɪl həv] ウィル ハヴ",
+            "have overlapped: /v/ が母音 /oʊ/ に連結 [həv ˌoʊvɚˈlæpt] ハヴ オウバーラップト",
+            "for months: 語末の /r/ が子音 /m/ に続き未開放 [fɔr̚ mʌnθz] フォア マンス"
+          ]
+        }
+      ]
     }
   ]
 }
