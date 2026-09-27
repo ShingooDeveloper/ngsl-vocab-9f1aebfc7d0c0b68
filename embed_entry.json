@@ -393,6 +393,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is embedding",
+      "ipa": "/ɪz ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The miners are embedding precious ore blocks within the cave wall structure.",
+          "ja": "鉱夫たちはケイブの壁の構造内に貴重な鉱石ブロックを埋め込んでいます。",
+          "ipa": "/ðə ˈmaɪnɚz ɑr ɪmˈbɛdɪŋ ˈprɛʃəs ˈɔr blɑks wɪðˈɪn ðə ˈkeɪv wɔl ˈstrʌktʃɚ/",
+          "kana": "ザ マイナーズ アー イムベディング プレシャス オア ブロックス ウィジン ザ ケイブ ウォール ストラクチャー",
+          "linking": [
+            "miners are：miners の /z/ が are の弱形 /ɑr/ に連結 [ˈmaɪnɚz ɑr] マイナーズ アー",
+            "are embedding：are の /ɑr/ が embedding の /ɪ/ に連結 [ɑr ɪmˈbɛdɪŋ] アー イムベディング",
+            "within the：within の /n/ が the の弱形 /ðə/ に語間 [wɪðˈɪn ðə] ウィジン ザ",
+            "cave wall：wall で終わる"
+          ]
+        },
+        {
+          "en": "She is embedding decorative elements in her fortress while building it.",
+          "ja": "彼女は要塞を建設しながら、装飾要素を埋め込んでいます。",
+          "ipa": "/ʃi ɪz ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɛləmənts ɪn hɚ ˈfɔɹtɹəs waɪl ˈbɪldɪŋ ɪt/",
+          "kana": "シー イズ イムベディング デコレイティブ エレメンツ イン ハー フォートレス ホワイル ビルディング イット",
+          "linking": [
+            "She is：She の /i/ が is の /ɪz/ に連結 [ʃi ɪz] シー イズ",
+            "is embedding：is の /z/ が embedding の /ɪ/ に連結 [ɪz ɪmˈbɛdɪŋ] イズ イムベディング",
+            "in her：in の /n/ が her の /h/ に連結。her は弱形 /hɚ/ [ɪn hɚ] イン ハー",
+            "while building：while の末 /l/ が building の /b/ に未開放 [waɪl̚ ˈbɪldɪŋ] ホワイル ビルディング"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was embedding",
+      "ipa": "/wəz ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The team was embedding treasure chests when they encountered the hostile mob.",
+          "ja": "チームが敵対的なモブに遭遇したとき、宝箱を埋め込んでいました。",
+          "ipa": "/ðə tim wəz ɪmˈbɛdɪŋ ˈtrɛʒɚ tʃɛsts wɛn ðeɪ ɪnˈkaʊntərd ðə ˈhɑstəl mɑb/",
+          "kana": "ザ ティーム ワズ イムベディング トレジャー チェスツ ウェン ザイ インカウンタード ザ ハスタル モブ",
+          "linking": [
+            "team was：team の末 /m/ が was の弱形 /wəz/ に語間で続く [tim wəz] ティーム ワズ",
+            "was embedding：was の /z/ が embedding の /ɪ/ に連結 [wəz ɪmˈbɛdɪŋ] ワズ イムベディング",
+            "when they：when の末 /n/ が they の /ð/ に未開放 [wɛn̚ ðeɪ] ウェン ザイ",
+            "the hostile：the は弱形 /ðə/ [ðə ˈhɑstəl] ザ ハスタル"
+          ]
+        },
+        {
+          "en": "I was embedding decorative ore when the server crashed unexpectedly.",
+          "ja": "サーバーが予期せず落ちた時、装飾用鉱石を埋め込んでいました。",
+          "ipa": "/aɪ wəz ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɔr wɛn ðə ˈsɚvɚ kɹæʃt ʌnɪkˈspɛktɪdli/",
+          "kana": "アイ ワズ イムベディング デコレイティブ オア ウェン ザ サーバー クラッシュト アンイクスペクティドリー",
+          "linking": [
+            "I was：I の /aɪ/ が was の弱形 /wəz/ に連結 [aɪ wəz] アイ ワズ",
+            "was embedding：was の /z/ が embedding の /ɪ/ に連結 [wəz ɪmˈbɛdɪŋ] ワズ イムベディング",
+            "when the：when の末 /n/ が the の弱形 /ðə/ に語間 [wɛn ðə] ウェン ザ",
+            "crashed unexpectedly：unexpectedly で終わる"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been embedding",
+      "ipa": "/həd bɪn ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The architect had been embedding the decorative blocks for hours before the project was complete.",
+          "ja": "プロジェクトが完成する前、建築家は装飾ブロックを数時間埋め込んでいました。",
+          "ipa": "/ðə ɑrˈkɪtɛkt həd bɪn ɪmˈbɛdɪŋ ðə ˈdɛkəreɪtɪv blɑks fɔr ˈaʊɚz bɪˈfɔr ðə ˈprɑdʒɛkt wəz kəmˈplit/",
+          "kana": "ザ アーキテクト ハド ビン イムベディング ザ デコレイティブ ブロックス フォア アワーズ ビフォア ザ プロジェクト ワズ コムプリート",
+          "linking": [
+            "architect had：architect の末 /t/ が had の弱形 /həd/ に未開放 [ɑrˈkɪtɛkt̚ həd] アーキテクト ハド",
+            "had been：had の末 /d/ が been の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "been embedding：been の /n/ が embedding の /ɪ/ に連結 [bɪn ɪmˈbɛdɪŋ] ビン イムベディング",
+            "for hours：hours で後続なし"
+          ]
+        },
+        {
+          "en": "By the time we arrived, they had been embedding secret passages throughout the fortress all day.",
+          "ja": "私たちが到着したときまでに、彼らは1日中要塞全体に秘密の通路を埋め込み続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈɹaɪvd ðeɪ həd bɪn ɪmˈbɛdɪŋ ˈsikɹət ˈpæsɪdʒəz θɹuˈaʊt ðə ˈfɔɹtɹəs ɔl deɪ/",
+          "kana": "バイ ザ タイム ウィ アライvド ザイ ハド ビン イムベディング シークレット パッセージズ スルーアウト ザ フォートレス オール デイ",
+          "linking": [
+            "had been：had の末 /d/ が been の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "been embedding：been の /n/ が embedding の /ɪ/ に連結 [bɪn ɪmˈbɛdɪŋ] ビン イムベディング",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [θɹuˈaʊt̚ ðə] スルーアウト ザ",
+            "fortress all：all で終わる"
+          ]
+        }
+      ]
     }
   ]
 }
