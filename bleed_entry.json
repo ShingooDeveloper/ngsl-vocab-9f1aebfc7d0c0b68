@@ -223,6 +223,199 @@
           "kana": "ザ ブリーズ オン ユア アーマー インディケイト ユー トゥック トゥー マッチ ダメージ イン ザッ バットル"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is bleeding",
+      "ipa": "/ɪz ˈblidɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is still bleeding after I hit it with my sword - I need to finish it off.",
+          "ja": "ゾンビはまだ私の剣で殴った後も出血しています。止めを刺す必要があります。",
+          "ipa": "/ðə ˈzɑmbi ɪz ˈstɪl ˈblidɪŋ ˈæftɚ aɪ hɪt ɪt wɪð maɪ sɔrd aɪ nid tə ˈfɪnɪʃ ɪt ɔf/",
+          "linking": [
+            "The zombie において、the は弱形 /ðə/、zombie の語頭に続く [ðə ˈzɑmbi]",
+            "is still において、is は弱形 /ɪz/、still の /s/ に続く [ɪz ˈstɪl]",
+            "need to において、to は弱形 /tə/、finish の /f/ に続く [ˈniːd tə]",
+            "finish it において、finish の語末 /ʃ/ が母音 /ɪ/ に連結 [ˈfɪnɪʃ ɪt]"
+          ],
+          "kana": "ザ ゾンビ イズ スティル ブリーディング アフター アイ ヒット イット ウィズ マイ ソード アイ ニード ター フィニッシ イット オフ"
+        },
+        {
+          "en": "I'm bleeding from that creeper explosion - quick, drink a healing potion!",
+          "ja": "クリーパーの爆発で出血しています。早く、治癒ポーション飲んで！",
+          "ipa": "/aɪm ˈblidɪŋ frɑm ðæt ˈkripɚ ɪkˈsploʊʒən kwɪk drɪŋk ə ˈhilɪŋ ˈpoʊʃən/",
+          "linking": [
+            "I'm bleeding において、I'm は /aɪm/、bleeding の /b/ に続く [aɪm ˈblidɪŋ]",
+            "from that において、from の語末 /m/ が子音 /ð/ に続くため未連結、that は /ðæt/ [ˈfrɑm ðæt]",
+            "drink a において、drink の語末 /k/ が母音 /ə/ に連結 [ˈdrɪŋk ə]",
+            "a healing において、a の弱形 /ə/、healing の /h/ に続く [ə ˈhilɪŋ]"
+          ],
+          "kana": "アイム ブリーディング フラム ザッ クリーパー エクスプロージョン クウィック ドリング ア ヒーリング ポーション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was bleeding",
+      "ipa": "/wəz ˈblidɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie was still bleeding when I retreated to safety in the cave.",
+          "ja": "ゾンビはまだ出血していた時、私は洞窟の安全な場所に退却しました。",
+          "ipa": "/ðə ˈzɑmbi wəz ˈstɪl ˈblidɪŋ wɛn aɪ rɪˈtritəd tu ˈseɪfti ɪn ðə keɪv/",
+          "linking": [
+            "The zombie において、the は弱形 /ðə/、zombie の語頭に続く [ðə ˈzɑmbi]",
+            "was still において、was は弱形 /wəz/、still の /s/ に続く [wəz ˈstɪl]",
+            "to safety において、to は弱形 /tə/、safety の /s/ に続く [tə ˈseɪfti]",
+            "in the において、the は弱形 /ðə/、cave の /k/ に続く [ɪn ðə ˈkeɪv]"
+          ],
+          "kana": "ザ ゾンビ ワズ スティル ブリーディング ウェン アイ リトリーテッド ター セイフティ イン ザ ケイヴ"
+        },
+        {
+          "en": "My armor was bleeding durability the entire time I was mining deep in the Nether.",
+          "ja": "私の防具の耐久性は、ネザーの深くで採掘している間じゅう消耗していました。",
+          "ipa": "/maɪ ˈɑrmɚ wəz ˈblidɪŋ ˌdʊrəˈbɪləti ðə ənˈtaɪɚ taɪm aɪ wəz ˈmaɪnɪŋ dip ɪn ðə ˈnɛðɚ/",
+          "linking": [
+            "My armor において、armor の /r/ がフラップ化し /w/ に続く [ˈɑɾɚ ˈwəz]",
+            "was bleeding において、was は弱形 /wəz/、bleeding の /b/ に続く [wəz ˈblidɪŋ]",
+            "the entire において、the は弱形 /ðə/、entire の /ə/ に連結 [ðə ənˈtaɪɚ]",
+            "in the Nether において、the は弱形 /ðə/、Nether の /n/ に続く [ɪn ðə ˈnɛðɚ]"
+          ],
+          "kana": "マイ アーマー ワズ ブリーディング ジュラビリティ ザ エンタイア タイム アイ ワズ マイニング ディープ イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been bleeding",
+      "ipa": "/hæd bɪn ˈblidɪŋ/",
+      "examples": [
+        {
+          "en": "The iron golem had been bleeding for so long that it finally collapsed.",
+          "ja": "アイアンゴーレムは長い間ずっと出血していたため、ついに倒れました。",
+          "ipa": "/ðə ˈaɪrən ˈɡoʊləm hæd bɪn ˈblidɪŋ fɔr soʊ lɔŋ ðæt ɪt ˈfaɪnəli kəˈlæpst/",
+          "linking": [
+            "The iron において、the は弱形 /ðə/、iron の /aɪ/ に続く [ðə ˈaɪrən]",
+            "had been において、had は弱形 /hæd/ または /həd/、been は弱形 /bɪn/、bleeding の /b/ に続く [hæd bɪn ˈblidɪŋ]",
+            "for so において、for は弱形 /fɔr/ または /fɚ/、so の /s/ に続く [ˈfɔr soʊ]",
+            "that it において、that の語末 /t/ が未開放 [ðæt̚ ɪt]"
+          ],
+          "kana": "ザ アイアーン ゴーレム ハド ビン ブリーディング フォー ソー ロング ザッ イット ファイナリー カラップスト"
+        },
+        {
+          "en": "My durability had been bleeding away for hours before I finally noticed and repaired my tools.",
+          "ja": "耐久性が数時間ずっと消耗していて、やっと気づいて道具を修理しました。",
+          "ipa": "/maɪ ˌdʊrəˈbɪləti hæd bɪn ˈblidɪŋ əˈweɪ fɔr ˈaʊɚz bɪˈfɔr aɪ ˈfaɪnəli ˈnoʊtɪst ænd rɪˈpɛrd maɪ tulz/",
+          "linking": [
+            "My durability において、durability の /i/ に続く [maɪ ˌdʊrəˈbɪləti]",
+            "had been bleeding において、had は弱形 /həd/、been は弱形 /bɪn/、bleeding の /ŋ/ が母音に先行 [ˈhæd bɪn ˈblidɪŋ]",
+            "bleeding away において、bleeding の語末 /ŋ/ が母音 /ə/ に先行 [ˈblidɪŋ əˈweɪ]",
+            "repaired my tools において、repaired の語末 /d/ が /m/ に続く、my tools の /z/ が連結 [rɪˈpɛrd maɪ ˈtulz]"
+          ],
+          "kana": "マイ ジュラビリティ ハド ビン ブリーディング アウェイ フォー アワーズ ビフォア アイ ファイナリー ノウティスト アン リペアド マイ トゥールズ"
+        }
+      ]
+    }
+  ],
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will bleed",
+      "ipa": "/wɪl ˈblid/",
+      "examples": [
+        {
+          "en": "I'll bleed out if I keep attacking the Warden without armor.",
+          "ja": "防具なしでWarden を攻撃し続けたら、出血死するよ。",
+          "ipa": "/aɪl ˈblid aʊt ɪf aɪ kip əˈtækɪŋ ðə ˈwɔɹdn̩ wɪðˈaʊt ˈɑɹmɚ/",
+          "linking": [
+            "「I'll」(will縮約) /aɪl/ - will は主語に縮約",
+            "「bleed」の語末 /d/ が「out」の /aʊ/ に連結 [ˈblid aʊt] ブリードアウト",
+            "「the」は弱形 /ðə/",
+            "「without」の語末 /t/ は未開放で「armor」の /ɑ/ に先行"
+          ],
+          "kana": "アイル・ブリード・アウト・イフ・アイ・キープ・アタッキング・ザ・ウォーディン・ウィザウット・アーマー"
+        },
+        {
+          "en": "My tools will bleed durability away if we mine the Nether for too long.",
+          "ja": "ネザーで長い時間採掘したら、私の道具は耐久性を失うよ。",
+          "ipa": "/maɪ tulz wɪl ˈblid ˌdʊrəˈbɪləti əˈweɪ ɪf wi ˈmaɪn ðə ˈnɛðɚ fɔr tu lɔŋ/",
+          "linking": [
+            "「will」の語末 /l/ が「bleed」の /b/ に続く子音+子音で未開放 [wɪl̚ ˈblid]",
+            "「bleed」の語末 /d/ が「durability」の /d/ に続く子音+子音で未連結",
+            "「the」は弱形 /ðə/",
+            "「for」は弱形 /fɚ/、「too」の /t/ に先行"
+          ],
+          "kana": "マイ・トゥールズ・ウィル・ブリード・ジュラビリティ・アウェイ・イフ・ウィ・マイン・ザ・ネザー・フォー・トゥー・ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be bleeding",
+      "ipa": "/wɪl bi ˈblidɪŋ/",
+      "examples": [
+        {
+          "en": "You'll be bleeding for hours if that creeper explodes near you.",
+          "ja": "クリーパーが爆発したら、何時間も出血し続けるよ。",
+          "ipa": "/juːl bi ˈblidɪŋ fɔr ˈaʊɹz ɪf ðæt ˈkripɚ ɪkˈsploʊdz nɪr ju/",
+          "linking": [
+            "「You'll」(will縮約) /jʊl/ - will は主語に縮約",
+            "「be」は弱形 [bɪ]、「bleeding」の /b/ に続く子音+子音で未開放 [bi ˈblidɪŋ]",
+            "「for」は弱形 /fɚ/、「hours」の /aʊ/ に先行",
+            "「near」の語末 /r/ がフラップ化し「you」の /j/ に連結 [ˈnɪɚ ˈju] ニアユー"
+          ],
+          "kana": "ユール・ビー・ブリーディング・フォー・アワーズ・イフ・ザット・クリーパー・イクスプロウドズ・ニアユー"
+        },
+        {
+          "en": "We'll be bleeding resources the entire time we're fighting that Wither.",
+          "ja": "あのウィザーとの戦い中ずっとリソースを消耗するよ。",
+          "ipa": "/wɪl bi ˈblidɪŋ ˈrɛsɔɹsɪz ðə ɪnˈtaɪɚ ˈtaɪm wɪɹ ˈfaɪtɪŋ ðæt ˈwɪðɚ/",
+          "linking": [
+            "「We'll」(will縮約) /wɪl/ - will は主語に縮約",
+            "「be」は弱形 [bɪ]、「bleeding」の /b/ に続く子音+子音で未開放 [bi ˈblidɪŋ]",
+            "「the」は弱形 /ðə/、「entire」の /ɪ/ に連結 [ðə ɪn-]",
+            "「we're」は縮約 /wɪɹ/、「that」は /ðæt/"
+          ],
+          "kana": "ウィル・ビー・ブリーディング・レソーシーズ・ザ・エンタイアー・タイム・ウィアー・ファイティング・ザット・ウィザー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have bled",
+      "ipa": "/wɪl əv ˈblɛd/",
+      "examples": [
+        {
+          "en": "By the time we finish this raid, we will have bled through all our potions.",
+          "ja": "このレイドが終わる頃には、全てのポーションを使い切ってるよ。",
+          "ipa": "/baɪ ðə ˈtaɪm wi wɪl əv ˈblɛd θruː ɔl ˈaʊɚ poʊˈʃənz/",
+          "linking": [
+            "「the」は弱形 /ðə/",
+            "「will」は弱形 [wɪl̚]、「have」は弱形 [əv] で子音+子音のため未開放 [wɪl̚ əv] ウィルアヴ",
+            "「have」の語末 /v/ が「bled」の /b/ に続く子音+子音で未連結",
+            "「through」は /θruː/、「all」は /ɔl/"
+          ],
+          "kana": "バイ・ザ・タイム・ウィ・ウィルアヴ・ブレッド・スルー・オール・アワー・ポーション"
+        },
+        {
+          "en": "She will have bled her armor completely by the time she gets to the End.",
+          "ja": "エンドに到達する頃には、彼女のアーマーは完全に消耗しているよ。",
+          "ipa": "/ʃi wɪl əv ˈblɛd hɚ ˈɑɹmɚ kəmˈplitli baɪ ðə ˈtaɪm ʃi ˈɡɛts tu ðə ˈɛnd/",
+          "linking": [
+            "「she」は縮約形 she'll /ʃɪl/ - will は she に縮約",
+            "「will」は弱形 [wɪl̚]、「have」は弱形 [əv] で子音+子音のため未開放 [wɪl̚ əv] ウィルアヴ",
+            "「bled」の語末 /d/ が「her」の /h/ に続く子音+子音で未開放 [ˈblɛd̚ hɚ]",
+            "「to」は弱形 /tə/、「the」は弱形 /ðə/"
+          ],
+          "kana": "シー・ウィルアヴ・ブレッド・ハー・アーマー・コンプリートリー・バイ・ザ・タイム・シー・ゲッツ・ター・ザ・エンド"
+        }
+      ]
     }
   ]
 }
