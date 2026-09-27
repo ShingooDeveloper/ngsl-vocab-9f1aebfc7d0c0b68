@@ -377,6 +377,102 @@
           "kana": "ウィ ハヴ ビン ポピュレイティング ディス バイオーム ファー アワーズ タ クリエイト ア スライビング エコシステム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will populate",
+      "ipa": "/wɪl ˈpɑpjəˌleɪt/",
+      "examples": [
+        {
+          "en": "We will populate the new island with different creatures.",
+          "ja": "私たちは新しい島に様々な生き物を配置するだろう。",
+          "ipa": "/wi wɪl ˈpɑpjəˌleɪt ðə ˈnu ˈaɪlənd wɪð ˈdɪfərənt ˈkɹitʃərz/",
+          "linking": [
+            "will の語末の側音 /l/ が populate の初頭 /p/ に先行。/l p/ で「ウィル ポピュ」と続く",
+            "populate の語末の無声破裂音 /t/ が the の弱形 /ðə/ に先行し、/t/ は未開放のまま摩擦音に続く。/t̚ ðə/ で「ット ザ」のように聞こえる",
+            "the は定冠詞として弱形 /ðə/。new の初頭 /n/ に先行し「ザ ニュー」と続く",
+            "different の語末の無声破裂音 /t/ が creatures の初頭 /k/ に先行し、/t/ は未開放のまま続く。/t̚ k/ で「ント クリー」と詰まった音になる"
+          ],
+          "kana": "ウィ ウィル ポピュレット ザ ニュー アイランド ウィズ ディフレント クリーチャーズ"
+        },
+        {
+          "en": "He'll populate that region over the next month.",
+          "ja": "彼は来月その地域に生き物を配置するだろう。",
+          "ipa": "/hil ˈpɑpjəˌleɪt ðæt ˈɹidʒən ˈoʊvər ðə ˈnɛkst ˈmʌnθ/",
+          "linking": [
+            "He'll は he will の縮約形。populate の初頭 /p/ に先行し、/l p/ で「ヒール ポピュ」と側音が続く",
+            "populate の語末の無声破裂音 /t/ が that の初頭 /ð/ に先行し、/t/ は未開放のまま続く。/t̚ ð/ で「ット ザット」のように詰まって聞こえる",
+            "that の語末の無声摩擦音 /t/ が region の初頭 /ɹ/ に先行。/t ɹ/ で「ザット リージョン」と続く",
+            "over の語末の摩擦音 /r/ が the の弱形 /ðə/ に連結。/r ðə/ で「オーバー ザ」のように流れ込む"
+          ],
+          "kana": "ヒール ポピュレット ザット リージョン オーバー ザ ネクスト マンス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be populating",
+      "ipa": "/wɪl bi ˈpɑpjəˌleɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be populating the deep dark while you're building.",
+          "ja": "あなたが建築している間、私はディープダークに生き物を配置しているだろう。",
+          "ipa": "/aɪl bi ˈpɑpjəˌleɪtɪŋ ðə ˈdip ˈdɑɹk ˈwaɪl ˈjɔɹ ˈbɪldɪŋ/",
+          "linking": [
+            "I'll は I will の縮約形 /aɪl/。be の初頭 /b/ に先行し、/l b/ で「アイル ビー」と側音が続く",
+            "be は /bi/ で populating の初頭 /p/ に先行し、/i p/ で「ビー ポピュ」と続く",
+            "populating の語末の鼻音 /ŋ/ が the の弱形 /ðə/ に先行し、/ŋ ðə/ で「ティング ザ」と続く",
+            "dark の語末の摩擦音 /k/ が while の初頭 /w/ に先行。/k w/ で「ダーク ワイル」と続く"
+          ],
+          "kana": "アイル ビー ポピュレイティング ザ ディープ ダーク ワイル ユアー ビルディング"
+        },
+        {
+          "en": "They will be populating the nether with structures tomorrow.",
+          "ja": "彼らは明日、ネザーに構造物を配置しているだろう。",
+          "ipa": "/ðeɪ wɪl bi ˈpɑpjəˌleɪtɪŋ ðə ˈnɛðər wɪð ˈstrʌktʃərz təˈmɑɹoʊ/",
+          "linking": [
+            "They の語末の二重母音 /eɪ/ が will の初頭 /w/ に滑らかに続く。/eɪ w/ で「ゼイ ウィル」と流れ込む",
+            "will の語末の側音 /l/ が be の初頭 /b/ に先行。/l b/ で「ウィル ビー」と続く",
+            "be は /bi/ で populating の初頭 /p/ に先行し、/i p/ で「ビー ポピュ」と続く",
+            "the は定冠詞として弱形 /ðə/。nether の初頭 /n/ に先行し「ザ ネザー」と続く"
+          ],
+          "kana": "ゼイ ウィル ビー ポピュレイティング ザ ネザー ウィズ ストラクチャーズ トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have populated",
+      "ipa": "/wɪl əv ˈpɑpjəˌleɪtɪd/",
+      "examples": [
+        {
+          "en": "We will have populated the entire realm by next week.",
+          "ja": "私たちは来週までに全レルムに生き物を配置し終えているだろう。",
+          "ipa": "/wi wɪl əv ˈpɑpjəˌleɪtɪd ðə ɪnˈtaɪɹ ˈɹɛlm baɪ ˈnɛkst ˈwik/",
+          "linking": [
+            "will の語末の側音 /l/ が have の弱形 /əv/ に先行。/l əv/ で「ウィル ハヴ」と続く",
+            "have は弱形 /əv/ で populated の初頭 /p/ に先行し、/v p/ で「ハヴ ポピュ」と続く",
+            "populated の語末の有声破裂音 /d/ が the の弱形 /ðə/ に先行し、/d/ は未開放のまま続く。/d̚ ðə/ で「ティッザ」のように聞こえる",
+            "entire の語末の側音 /r/ が realm の初頭 /ɹ/ に先行。/r ɹ/ で「インタイアー レルム」と続く"
+          ],
+          "kana": "ウィ ウィル ハヴ ポピュレイティッド ザ インタイアー レルム バイ ネクスト ウィーク"
+        },
+        {
+          "en": "She'll have populated five biomes by the time the event starts.",
+          "ja": "彼女はイベント開始までに5つのバイオームに生き物を配置し終えているだろう。",
+          "ipa": "/ʃil əv ˈpɑpjəˌleɪtɪd ˈfaɪv ˈbaɪˌoʊmz baɪ ðə ˈtaɪm ðə ɪˈvɛnt ˈstɑɹts/",
+          "linking": [
+            "She'll は she will の縮約形 /ʃil/。have の弱形 /əv/ に先行し、/l əv/ で「シール ハヴ」と側音が続く",
+            "have は弱形 /əv/ で populated の初頭 /p/ に先行し、/v p/ で「ハヴ ポピュ」と続く",
+            "populated の語末の有声破裂音 /d/ が five の初頭 /f/ に先行。/d f/ で「ティッファイブ」のように詰まった音になる",
+            "the は定冠詞として弱形 /ðə/。time の初頭 /t/ に先行し「ザ タイム」と続く"
+          ],
+          "kana": "シール ハヴ ポピュレイティッド ファイブ バイオームズ バイ ザ タイム ザ イベント スターツ"
+        }
+      ]
     }
   ]
 }
