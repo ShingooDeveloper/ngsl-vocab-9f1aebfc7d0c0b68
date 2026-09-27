@@ -260,6 +260,97 @@
           ]
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has shunned",
+      "ipa": "/həz ʃʌnd/",
+      "examples": [
+        {
+          "en": "A smart miner has shunned the nether for safety.",
+          "ja": "【例文】優秀な採掘者は、安全のためにネザーを避けている。最初から危険を避けるプレイスタイル。",
+          "ipa": "/ə smɑrt ˈmaɪnər həz ʃʌnd ðə ˈnɛðər fɔr ˈseɪfti/",
+          "linking": [
+            "miner has: 語末の /r/ が母音 /ə/ に連結 [ˈmaɪnər həz] マイナー ハズ、has は弱形 /həz/",
+            "has shunned: 子音-子音のため連結なし [həz ʃʌnd] ハズ シャンド",
+            "shunned the: 語末 /d/ が未開放で [ʃʌnd̚ ðə] シャンッ ザ、the は弱形 /ðə/"
+          ],
+          "kana": "ア スマート マイナー ハズ シャンド ザ ネザー フォー セイフティ"
+        },
+        {
+          "en": "Players have shunned that griefed base for months.",
+          "ja": "【例文】プレイヤーたちは、その荒らされたベースを何か月も避けている。グリーフィングの被害を受けた建築物の回避。",
+          "ipa": "/ˈpleɪərz həv ʃʌnd ðæt ɡriːft ˈbeɪs fɔr ˈmʌnθz/",
+          "linking": [
+            "Players have: 語末子音 /z/ が母音 /ə/ に連結 [ˈpleɪərz həv] プレイアーズ ハヴ、have は弱形 /həv/",
+            "have shunned: 子音-子音のため連結なし [həv ʃʌnd] ハヴ シャンド",
+            "shunned that: 語末 /d/ が未開放で [ʃʌnd̚ ðæt] シャンッ ザット"
+          ],
+          "kana": "プレイアーズ ハヴ シャンド ザット グリーフド ベイス フォー マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had shunned",
+      "ipa": "/həd ʃʌnd/",
+      "examples": [
+        {
+          "en": "I had shunned dangerous caves before joining the server.",
+          "ja": "【例文】サーバーに参加する前に、危険な洞窟は避けていた。マルチプレイ参加前の準備や経験の強調。",
+          "ipa": "/aɪ həd ʃʌnd ˈdeɪndʒərəs ˈkeɪvz bɪˈfɔr ˈdʒɔɪnɪŋ ðə ˈsɚvər/",
+          "linking": [
+            "had shunned: had は弱形 /həd/、子音-子音のため連結なし [həd ʃʌnd] ハド シャンド",
+            "shunned dangerous: 語末子音 /d/ が母音 /ə/ に連結 [ʃʌnd ˈdeɪ] シャンド デンジャラス",
+            "before joining: 語末 /r/ が母音に連結 [bɪˈfɔr ˈdʒɔɪ] ビフォー ジョイニング"
+          ],
+          "kana": "アイ ハド シャンド デンジャラス ケイブズ ビフォー ジョイニング ザ サーバー"
+        },
+        {
+          "en": "By that point, players had shunned the nether for survival.",
+          "ja": "【例文】その時点で、プレイヤーたちは生存のためにネザーを避けていた。長期的なサバイバル戦略の決定。",
+          "ipa": "/baɪ ðæt pɔɪnt ˈpleɪərz həd ʃʌnd ðə ˈnɛðər fɔr sərˈvaɪvəl/",
+          "linking": [
+            "players had: 語末子音 /z/ が母音 /ə/ に連結 [ˈpleɪərz həd] プレイアーズ ハド、had は弱形 /həd/",
+            "had shunned: 子音-子音のため連結なし [həd ʃʌnd] ハド シャンド",
+            "shunned the: 語末 /d/ が未開放で [ʃʌnd̚ ðə] シャンッ ザ、the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザット ポイント プレイアーズ ハド シャンド ザ ネザー フォー サーバイバル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been shunning",
+      "ipa": "/həz bɪn ˈʃʌnɪŋ/",
+      "examples": [
+        {
+          "en": "That player has been shunning multiplayer servers since the griefing.",
+          "ja": "【例文】そのプレイヤーは、グリーフィング以来ずっとマルチプレイサーバーを避けている。トラウマ的な経験からの継続的な回避行動。",
+          "ipa": "/ðæt ˈpleɪər həz bɪn ˈʃʌnɪŋ ˌmʌltiˈpleɪər ˈsɚvərz sɪns ðə ˈɡriːfɪŋ/",
+          "linking": [
+            "player has: 語末 /r/ が母音 /ə/ に連結 [ˈpleɪər həz] プレイアー ハズ、has は弱形 /həz/",
+            "has been: has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been shunning: been は弱形 /bɪn/、語末 /n/ が母音に連結 [bɪn ˈʃʌ] ビン シャニング"
+          ],
+          "kana": "ザット プレイアー ハズ ビン シャニング マルチプレイアー サーバーズ シンス ザ グリーフィング"
+        },
+        {
+          "en": "We have been shunning risky biomes to keep our group safe.",
+          "ja": "【例文】私たちは、グループの安全を守るために危険なバイオームを避け続けている。チームの生存戦略の一部。",
+          "ipa": "/wi həv bɪn ˈʃʌnɪŋ ˈrɪski ˈbaɪoʊmz tu kip ɑɚ ɡrup seɪf/",
+          "linking": [
+            "have been: have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been shunning: been は弱形 /bɪn/、語末 /n/ が母音に連結 [bɪn ˈʃʌ] ビン シャニング",
+            "shunning risky: 語末 /ŋ/ が母音に連結 [ˈʃʌnɪŋ ˈrɪ] シャニング リスキー"
+          ],
+          "kana": "ウィ ハヴ ビン シャニング リスキー バイオームズ トゥー キープ アウア グループ セイフ"
+        }
+      ]
     }
   ]
 }
+
