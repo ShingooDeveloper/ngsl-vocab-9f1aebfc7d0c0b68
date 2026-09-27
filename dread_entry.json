@@ -427,6 +427,102 @@
           "kana": "ザイ ハヴ ビン ドレディング ザ ファイナル レイド フォー ザ ラスト スリー スィーズンズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will dread",
+      "ipa": "/wɪl ˈdrɛd/",
+      "examples": [
+        {
+          "en": "We'll dread the night when the raid happens.",
+          "ja": "私たちは襲撃が起こる夜を恐れるだろう。",
+          "ipa": "/wɪl ˈdrɛd ðə ˈnaɪt wɛn ðə ˈreɪd ˈhæpənz/",
+          "linking": [
+            "We'll dread: 語末子音 /l/ が次の子音 /d/ に続き両者聞こえる [wɪl ˈdrɛd] ウィル ドレッド",
+            "dread the: 語末子音 /d/ が弱形 /ðə/ に連結 [ˈdrɛd ðə] ドレッド ザ",
+            "the night: 弱形 /ðə/ が子音 /n/ に連結 [ðə ˈnaɪt] ザ ナイト",
+            "the raid: 弱形 /ðə/ が子音 /r/ に連結 [ðə ˈreɪd] ザ レイド"
+          ],
+          "kana": "ウィル ドレッド ザ ナイト ウェン ザ レイド ハペンズ"
+        },
+        {
+          "en": "I'll dread the moment when we activate the Wither boss.",
+          "ja": "私たちがウィザーボスを起動するその瞬間を恐れるだろう。",
+          "ipa": "/aɪl ˈdrɛd ðə ˈmoʊmənt wɛn wi ˈæktɪveɪt ðə ˈwɪðɚ ˈbɑːs/",
+          "linking": [
+            "I'll dread: 語末子音 /l/ が次の子音 /d/ に続き両者聞こえる [aɪl ˈdrɛd] アイル ドレッド",
+            "dread the: 語末子音 /d/ が弱形 /ðə/ に連結 [ˈdrɛd ðə] ドレッド ザ",
+            "the moment: 弱形 /ðə/ が母音 /m/ に連結 [ðə ˈmoʊmənt] ザ モーメント",
+            "the Wither: 弱形 /ðə/ が子音 /w/ に連結 [ðə ˈwɪðɚ] ザ ウィザー"
+          ],
+          "kana": "アイル ドレッド ザ モーメント ウェン ウィー アクティヴェイト ザ ウィザー ボス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be dreading",
+      "ipa": "/wɪl bi ˈdrɛdɪŋ/",
+      "examples": [
+        {
+          "en": "They'll be dreading the cave collapse that we're planning to trigger.",
+          "ja": "彼らはトリガーを計画している洞窟の崩壊を恐れるだろう。",
+          "ipa": "/ðeɪl bi ˈdrɛdɪŋ ðə ˈkeɪv kəˈlæps ðæt wɪr ˈplænɪŋ tə ˈtrɪɡɚ/",
+          "linking": [
+            "They'll be: 語末子音 /l/ が母音 /b/ に連結 [ðeɪl bi] ザイル ビー",
+            "be dreading: 母音 /i/ が子音 /d/ に続き、/ŋ/ が弱形 /ðə/ に連なる [bi ˈdrɛdɪŋ ðə] ビー ドレディング ザ",
+            "the cave: 弱形 /ðə/ が子音 /k/ に連結 [ðə ˈkeɪv] ザ ケイヴ",
+            "we're planning: 語末 /r/ が母音 /p/ に連結 [wɪr ˈplænɪŋ] ウィアー プラニング"
+          ],
+          "kana": "ザイル ビー ドレディング ザ ケイヴ コラプス ザット ウィアー プラニング タ トリガー"
+        },
+        {
+          "en": "He'll be dreading every footstep he hears while trapped in darkness.",
+          "ja": "彼は暗闇に閉じ込められながら聞こえるあらゆる足音を恐れるだろう。",
+          "ipa": "/hɪl bi ˈdrɛdɪŋ ˈɛvɚi ˈfʊtstɛp hi hɪrz waɪl træpt ɪn ˈdɑːrknes/",
+          "linking": [
+            "He'll be: 語末子音 /l/ が母音 /b/ に連結 [hɪl bi] ヒル ビー",
+            "be dreading: 母音 /i/ が子音 /d/ に続き、/ŋ/ が母音 /ɛ/ に連なる [bi ˈdrɛdɪŋ ˈɛvɚi] ビー ドレディング エヴリ",
+            "while trapped: 語末 /l/ が子音 /t/ に続き両者聞こえる [waɪl træpt] ホワイル トラプト",
+            "in darkness: 語末 /n/ が母音 /d/ に連結 [ɪn ˈdɑːrknes] インダークネス"
+          ],
+          "kana": "ヒル ビー ドレディング エヴリ フットステップ ヒー ヒアーズ ホワイル トラプト インダークネス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have dreaded",
+      "ipa": "/wɪl həv ˈdrɛdəd/",
+      "examples": [
+        {
+          "en": "By the time we find the stronghold, we will have dreaded the possibility for weeks.",
+          "ja": "要塞を見つけるまでに、私たちは数週間その可能性を恐れているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaɪnd ðə ˈstrɔːŋhoʊld wɪl əv ˈdrɛdəd ðə ˌpɑːsəˈbɪləti fɚ ˈwiːks/",
+          "linking": [
+            "the time: 弱形 /ðə/ が子音 /t/ に連結 [ðə ˈtaɪm] ザ タイム",
+            "will have dreaded: will /wɪl/ が弱形で、have /hæv/ が弱形 /əv/ に弱化し、/d/ が子音 /d/ に連結 [wɪl əv ˈdrɛdəd] ウィル アヴ ドレッディド",
+            "dreaded the: 過去分詞の /əd/ が弱形 /ðə/ に連結 [ˈdrɛdəd ðə] ドレッディド ザ",
+            "for weeks: 語末 /r/ が母音 /w/ に連結 [fɚ ˈwiːks] フォー ウィークス"
+          ],
+          "kana": "バイ ザ タイム ウィー ファインド ザ ストロングホールド ウィル アヴ ドレッディド ザ ポシビリティ フォー ウィークス"
+        },
+        {
+          "en": "She will have dreaded facing the dragon by the time the final battle comes.",
+          "ja": "最終戦が来るまでに、彼女はドラゴンと対面することを恐れているだろう。",
+          "ipa": "/ʃi wɪl əv ˈdrɛdəd ˈfeɪsɪŋ ðə ˈdræɡən baɪ ðə ˈtaɪm ðə ˈfaɪnəl ˈbætəl ˈkʌmz/",
+          "linking": [
+            "will have dreaded: will /wɪl/ が弱形、have /hæv/ が弱形 /əv/ に弱化し、/əd/ が子音 /f/ に続き分離 [wɪl əv ˈdrɛdəd ˈfeɪsɪŋ] ウィル アヴ ドレッディド フェイシング",
+            "the dragon: 弱形 /ðə/ が子音 /d/ に連結 [ðə ˈdræɡən] ザ ドラゴン",
+            "the time: 弱形 /ðə/ が子音 /t/ に連結 [ðə ˈtaɪm] ザ タイム",
+            "final battle: 語末 /l/ が母音 /b/ に連結 [ˈfaɪnəl ˈbætəl] ファイナル バトル"
+          ],
+          "kana": "シー ウィル アヴ ドレッディド フェイシング ザ ドラゴン バイ ザ タイム ザ ファイナル バトル カムズ"
+        }
+      ]
     }
   ]
 }
