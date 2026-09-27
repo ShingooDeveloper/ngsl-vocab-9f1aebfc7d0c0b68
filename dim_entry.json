@@ -349,6 +349,95 @@
           "kana": "ザ ビーコンズ グロウ ハド ビン ディミング グラジュアリー アンティル ウィ ファイナリー リプレイスト ザ パウワー クリスタルズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has dimmed",
+      "ipa": "/ˈhæz ˈdɪmd/",
+      "examples": [
+        {
+          "en": "The torch light has dimmed, and I haven't placed new ones yet.",
+          "ja": "松火の光は薄暗くなっており、まだ新しいものを配置していません。",
+          "ipa": "/ðə ˈtɔːɹtʃ ˈlaɪt ˈhæz ˈdɪmd ænd aɪ ˈheɪvənt ˈpleɪst ˈnjuː ˈwʌnz ˈjɛt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "light の語末 /t/ が has の /h/ に未開放で続く [laɪt̚ ˈhæz] ライト ハズ、has は弱形 /həz/",
+            "placed の語末 /t/ が new の /n/ に未開放で続く [ˈpleɪst̚ ˈnjuː] プレイスト ニュー"
+          ],
+          "kana": "ザ トーチ ライト ハズ ディムド アンド アイ ヘイヴント プレイスト ニュー ワンズ イェット"
+        },
+        {
+          "en": "The beacon has dimmed because the power source is running out.",
+          "ja": "ビーコンが薄暗くなっているのは、電源が不足しているからです。",
+          "ipa": "/ðə ˈbikən ˈhæz ˈdɪmd bɪˈkɔːz ðə ˈpaʊɚ ˈsoʊɹs ɪz ˈɹʌnɪŋ ˈaʊt/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "has は弱形 /həz/（通常の発話では）、is も弱形 /əz/"
+          ],
+          "kana": "ザ ビーコン ハズ ディムド ビコーズ ザ パウワー ソース イズ ラニング アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had dimmed",
+      "ipa": "/ˈhæd ˈdɪmd/",
+      "examples": [
+        {
+          "en": "The cave lighting had dimmed by the time we built our base inside.",
+          "ja": "私たちが基地内に建設した時までに、洞窟の照明は薄暗くなっていました。",
+          "ipa": "/ðə keɪv ˈlaɪtɪŋ ˈhæd ˈdɪmd baɪ ðə ˈtaɪm wiː ˈbɪlt ˈaʊɚ ˈbeɪs ɪnˈsaɪd/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "had は弱形 /həd/（通常の発話では）",
+            "dimmed の語末 /d/ が by の /b/ に未開放で続く [ˈdɪmd̚ baɪ] ディムド バイ"
+          ],
+          "kana": "ザ ケイブ ライティング ハド ディムド バイ ザ タイム ウィ ビルト アワー ベイス インサイド"
+        },
+        {
+          "en": "The sky had dimmed considerably before we noticed the storm approaching.",
+          "ja": "嵐が近づくことに気づく前に、空は相当暗くなっていました。",
+          "ipa": "/ðə ˈskaɪ ˈhæd ˈdɪmd kənˈsɪdɚəbli bɪˈfoːɹ wiː ˈnoʊtɪst ðə ˈstɔːɹm əˈpɹoʊtʃɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "had は弱形 /həd/、dimmed の語末 /d/ が considerably の /k/ に未開放で続く [ˈdɪmd̚ kənˈsɪdɚəbli] ディムド コンシダラブリー",
+            "before の語末 /r/ が we の /w/ に続く（子音+子音）[bɪˈfoːɹ wiː] ビフォア ウィ"
+          ],
+          "kana": "ザ スカイ ハド ディムド コンシダラブリー ビフォア ウィ ノウティスト ザ ストーム アプローチング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been dimming",
+      "ipa": "/ˈhæz bɪn ˈdɪmɪŋ/",
+      "examples": [
+        {
+          "en": "The light from my torch has been dimming for the last hour as I explore the deep caves.",
+          "ja": "深い洞窟を探索する中で、1時間の間、松火の光は暗くなり続けています。",
+          "ipa": "/ðə ˈlaɪt frəm maɪ ˈtɔːɹtʃ həz bɪn ˈdɪmɪŋ fɚ ðə ˈlæst ˈaʊɚ æz aɪ ɪkˈsploːɹ ðə ˈdiːp ˈkeɪvz/",
+          "linking": [
+            "the は弱形 /ðə/（3回）、from は弱形 /frəm/",
+            "has は弱形 /həz/、been は弱形 /bɪn/、for は弱形 /fɚ/",
+            "torch の /tʃ/ が has の /h/ に続く [ˈtɔːɹtʃ həz] トーチ ハズ"
+          ],
+          "kana": "ザ ライト フラム マイ トーチ ハズ ビン ディミング ファー ザ ラスト アワー アズ アイ イクスプロア ザ ディープ ケイヴズ"
+        },
+        {
+          "en": "The beacon's visibility has been dimming since we started mining near it.",
+          "ja": "私たちがそれの近くで採掘を始めてから、ビーコンの視認性は暗くなり続けています。",
+          "ipa": "/ðə ˈbikənz ˌvɪzəˈbɪləti həz bɪn ˈdɪmɪŋ sɪns wiː ˈstɑːɹtɪd ˈmaɪnɪŋ ˈnɪɚ ɪt/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/、been は弱形 /bɪn/",
+            "dimming の語末 /ŋ/ が since の /s/ に続く [ˈdɪmɪŋ sɪns] ディミング シンス"
+          ],
+          "kana": "ザ ビーコンズ ビジビリティー ハズ ビン ディミング シンス ウィ スターティド マイニング ニア イット"
+        }
+      ]
     }
   ]
 }
