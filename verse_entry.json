@@ -225,6 +225,96 @@
           "kana": "ワイル ヴァーシング ウィズ ザ コミューニティ アイ ディスカヴァード ニュー テクニーク フォー クリエイティヴ ビルディング"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has versed",
+      "ipa": "/həz ˈvɝst/",
+      "examples": [
+        {
+          "en": "She has versed about the dragon battle for hours straight.",
+          "ja": "彼女はドラゴン戦について何時間もずっと詩で表現してきました。",
+          "ipa": "/ʃi həz ˈvɝst əˈbaʊt ðə ˈdɹæɡən ˈbætəl fɔɹ ˈaʊɹz ˈstɹeɪt/",
+          "linking": [
+            "has - 機能語は弱形 /həz/",
+            "versed about - 語末 /t/ が about の /ə/ に連結 [vɝstə] ヴァースタ",
+            "about the - 語末 /t/ が the の /ð/ に先行し、/t/ は未開放、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ ヴァースタ バウト ザ ドラゴン バットル フォー アワーズ ストレイト"
+        },
+        {
+          "en": "The builders have versed about their architectural innovations for weeks.",
+          "ja": "ビルダーたちは数週間、彼らの建築的なイノベーションについて詩で表現してきました。",
+          "ipa": "/ðə ˈbɪldɚz həv ˈvɝst əˈbaʊt ðɛɹ ˌɑɹkɪˈtɛktʃɚəl ɪˈnɑvəˌʃənz fɔɹ ˈwiks/",
+          "linking": [
+            "have - 機能語は弱形 /həv/",
+            "versed about - 語末 /t/ が about の /ə/ に連結 [vɝstə] ヴァースタ",
+            "about their - 語末 /t/ が their の /ð/ に先行し、/t/ は未開放"
+          ],
+          "kana": "ザ ビルダーズ ハヴ ヴァースタ バウト ゼア アーキテクチャル イノベーションズ フォー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had versed",
+      "ipa": "/həd ˈvɝst/",
+      "examples": [
+        {
+          "en": "Before the server update, everyone had versed about the old landmarks.",
+          "ja": "サーバーアップデートの前に、みんなは古いランドマークについて詩で表現してきました。",
+          "ipa": "/bɪˈfɔɹ ðə ˈsɝvɚ ˈəpˌdeɪt ˈɛvɹiˌwən həd ˈvɝst əˈbaʊt ði oʊld ˈlændˌmɑɹks/",
+          "linking": [
+            "had - 機能語は弱形 /həd/",
+            "versed about - 語末 /t/ が about の /ə/ に連結 [vɝstə] ヴァースタ",
+            "old landmarks - 語末 /d/ が landmarks の /l/ に先行し、子音+子音で未開放"
+          ],
+          "kana": "ビフォー ザ サーバー アップデイト エブリワン ハッド ヴァースタ バウト ディ オウルド ランドマークス"
+        },
+        {
+          "en": "We had all versed about the best mining locations before the reset.",
+          "ja": "リセット前に、私たちはすべて最高の採掘場所について詩で表現してきました。",
+          "ipa": "/wi həd ˈɔl ˈvɝst əˈbaʊt ðə ˈbɛst ˈmaɪnɪŋ loʊˈkeɪʃənz bɪˈfɔɹ ðə ˈɹɛsɛt/",
+          "linking": [
+            "had - 機能語は弱形 /həd/",
+            "versed about - 語末 /t/ が about の /ə/ に連結 [vɝstə] ヴァースタ",
+            "best mining - 語末 /t/ が mining の /m/ に先行し、子音+子音で未開放"
+          ],
+          "kana": "ウィ ハッド オール ヴァースタ バウト ザ ベスト マイニング ロケーションズ ビフォー ザ リセット"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been versing",
+      "ipa": "/həz bɪn ˈvɝsɪŋ/",
+      "examples": [
+        {
+          "en": "She has been versing about creative ideas all morning.",
+          "ja": "彼女は午前中ずっと創造的なアイデアについて詩で表現し続けています。",
+          "ipa": "/ʃi həz bɪn ˈvɝsɪŋ əˈbaʊt kɹiˈeɪtɪv aɪˈdiz ˈɔl ˈmɔɹnɪŋ/",
+          "linking": [
+            "has - 機能語は弱形 /həz/",
+            "been - 機能語は弱形 /bɪn/",
+            "versing about - 語末 /ŋ/ が about の /ə/ に連結 [ˈvɝsɪŋə] ヴァーシンガ"
+          ],
+          "kana": "シー ハズ ビン ヴァーシンガ バウト クリエイティヴ アイディーズ オール モーニング"
+        },
+        {
+          "en": "The community has been versing together about redstone designs.",
+          "ja": "コミュニティはレッドストーン設計について一緒に詩で表現し続けています。",
+          "ipa": "/ðə kəˈmjuːnəti həz bɪn ˈvɝsɪŋ təˈɡɛðɚ əˈbaʊt ˈɹɛdˌstoʊn dɪˈzaɪnz/",
+          "linking": [
+            "has - 機能語は弱形 /həz/",
+            "been - 機能語は弱形 /bɪn/",
+            "versing about - 語末 /ŋ/ が about の /ə/ に連結 [ˈvɝsɪŋə] ヴァーシンガ"
+          ],
+          "kana": "ザ コミューニティ ハズ ビン ヴァーシンガ バウト レッドストーン ディザインズ"
+        }
+      ]
     }
   ]
 }
