@@ -298,6 +298,97 @@
           "kana": "ザ ビルダーズ ハッド ビン フラッピング デコレイティブ バナーズ オン ザ タワーズ フォア デイズ ビフォア ザ グランド オウペニング セレマニー"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has flapped",
+      "ipa": "/həz ˈflæpt/",
+      "examples": [
+        {
+          "en": "I have flapped my cape and dodged the creeper blast.",
+          "ja": "ケープをはためかせて、クリーパーの爆発を避けました。",
+          "ipa": "[aɪ həv ˈflæpt maɪ ˈkeɪp ənd ˈdɑdʒd ðə ˈkriːpɚ blæst]",
+          "linking": [
+            "「have flapped」— 「have」弱形 /həv/ + 「flapped」/f/ 子音クラスタ → 連結なし",
+            "「cape and」— 「cape」の語末 /p/ が「and」の弱形 /ən/ に連結 [ˈkeɪpən]",
+            "「the」— 弱形 /ðə/ → ザ"
+          ],
+          "kana": "アイ ハブ フラップ マイ ケイプ アンド ダッジド ザ クリーパー ブラスト"
+        },
+        {
+          "en": "The bat has flapped its wings so much that I can't sleep.",
+          "ja": "こうもりが翼をはためかせすぎて、眠れません。",
+          "ipa": "[ðə bæt həz ˈflæpt ɪts ˈwɪŋz soʊ ˈmətʃ ðæt aɪ ˈkænt ˈslip]",
+          "linking": [
+            "「the」— 弱形 /ðə/ → ザ",
+            "「has flapped」— 「has」弱形 /həz/ + 「flapped」/f/ 子音クラスタ → 連結なし",
+            "「can't」— /t̚/ 未開放"
+          ],
+          "kana": "ザ バット ハズ フラップ イッツ ウィングズ ソー マッチ ザット アイ キャント スリープ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had flapped",
+      "ipa": "/həd ˈflæpt/",
+      "examples": [
+        {
+          "en": "The dragon had flapped its wings before we entered the fortress.",
+          "ja": "私たちが要塞に入る前に、ドラゴンは翼をはためかせていました。",
+          "ipa": "[ðə ˈdræɡən həd ˈflæpt ɪts ˈwɪŋz bɪˈfɔr wi ɛnˈtɚd ðə ˈfɔɹtɪs]",
+          "linking": [
+            "「the」— 弱形 /ðə/ → ザ",
+            "「had flapped」— 「had」弱形 /həd/ + 「flapped」/f/ 子音クラスタ → 連結なし",
+            "「the fortress」— 「the」弱形 /ðə/ → ザ"
+          ],
+          "kana": "ザ ドラゴン ハッド フラップ イッツ ウィングズ ビフォア ウィ エンタード ザ フォーティス"
+        },
+        {
+          "en": "I had flapped my cape several times before I realized the creeper was behind me.",
+          "ja": "クリーパーが私の後ろにいることに気づく前に、私は何度もケープをはためかせていました。",
+          "ipa": "[aɪ həd ˈflæpt maɪ ˈkeɪp ˈsɛvrəl ˈtaɪmz bɪˈfɔr aɪ riˈælaɪzd ðə ˈkriːpɚ wəz bɪˈhaɪnd mi]",
+          "linking": [
+            "「had flapped」— 「had」弱形 /həd/ + 「flapped」/f/ 子音クラスタ → 連結なし",
+            "「cape several」— /p/ + /s/ 子音クラスタ → 連結なし",
+            "「realized the」— 「realized」の /d/ + 「the」の /ð/ 子音クラスタ → 連結なし；「the」弱形 /ðə/ → ザ",
+            "「was behind」— 「was」弱形 /wəz/ + 「behind」/b/ 子音クラスタ → 連結なし"
+          ],
+          "kana": "アイ ハッド フラップ マイ ケイプ セブラル タイムズ ビフォア アイ リアライズド ザ クリーパー ワズ ビハインド ミー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been flapping",
+      "ipa": "/həz bɪn ˈflæpɪŋ/",
+      "examples": [
+        {
+          "en": "The bat has been flapping around my base all night.",
+          "ja": "こうもりが夜中ずっと私の基地の周りをはためかせています。",
+          "ipa": "[ðə bæt həz bɪn ˈflæpɪŋ əˈɹaʊnd maɪ ˈbeɪs ɔl ˈnaɪt]",
+          "linking": [
+            "「the」— 弱形 /ðə/ → ザ",
+            "「has been」— 「has」弱形 /həz/ + 「been」弱形 /bɪn/ /z/ + /b/ 子音クラスタ → 連結なし",
+            "「been flapping」— 「been」弱形 /bɪn/ + 「flapping」/f/ 鼻音+子音 → 連結なし"
+          ],
+          "kana": "ザ バット ハズ ビン フラッピング アラウンド マイ ベイス オール ナイト"
+        },
+        {
+          "en": "We have been flapping our emergency signals since the enemies arrived.",
+          "ja": "敵が到着してから、私たちは緊急信号をはためかせています。",
+          "ipa": "[wi həv bɪn ˈflæpɪŋ ˈaʊɚ ɪˈmɝdʒənsi ˈsɪɡnəlz sɪns ðə ˈɛnəmiz əˈɹaɪvd]",
+          "linking": [
+            "「have been」— 「have」弱形 /həv/ + 「been」弱形 /bɪn/ /v/ + /b/ 子音クラスタ → 連結なし",
+            "「been flapping」— 「been」弱形 /bɪn/ + 「flapping」/f/ 鼻音+子音 → 連結なし",
+            "「the」— 弱形 /ðə/ → ザ"
+          ],
+          "kana": "ウィ ハブ ビン フラッピング アワー イマージェンシー シグナルズ シンス ザ エネミーズ アライブド"
+        }
+      ]
     }
   ]
 }
