@@ -289,6 +289,69 @@
           ]
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will entail",
+      "ipa": "/wɪl ɪnˈteɪl/",
+      "examples": [
+        {
+          "en": "Mining deep caves will entail finding rare diamonds and avoiding hostile mobs.",
+          "ja": "深い洞窟での採掘には、レアなダイヤモンドを見つけ、敵対的なモブを避けることが必要です。",
+          "ipa": "/ˈmaɪnɪŋ ˈdip ˈkeɪvz wɪl ɪnˈteɪl ˈfaɪndɪŋ ˈreɪr ˈdaɪəmənz ənd əˈvɔɪdɪŋ ˈhɑstəl ˈmɑbz/",
+          "kana": "マイニング ディープ ケイブズ ウィル インテイル ファインディング レアー ダイアモンズ アンド アボイディング ホステル モブズ",
+          "linking": [
+            "「caves will」: caves の語末 /z/ が will の /w/ に続き、子音+子音で連結なし",
+            "「will entail」: will の語末 /əl/ が entail の /ɪ/ に連結 [wɪl ɪnˈteɪl]「ウィル インテイル」",
+            "「and avoiding」: and は弱形 /ən/ で avoiding の /ə/ に続く [ən əˈvɔɪdɪŋ]「アンド アボイディング」"
+          ]
+        },
+        {
+          "en": "Preparing for the final boss will entail gathering healing potions and protective equipment.",
+          "ja": "最終ボス戦の準備には、回復ポーションと保護装備を集めることが必要です。",
+          "ipa": "/prɪˈpɛrɪŋ ˈfɔr ðə ˈfaɪnəl ˈbɔs wɪl ɪnˈteɪl ˈɡæðərɪŋ ˈhilɪŋ poʊˈʃənz ənd prəˈtɛktɪv ɪˈkwɪpmənt/",
+          "kana": "プリペアリング フォー ザ ファイナル ボス ウィル インテイル ガザリング ヒーリング ポーションズ アンド プロテクティブ イクウィップメント",
+          "linking": [
+            "「the final」: the は弱形 /ðə/ が final の /f/ に連結 [ðəˈfaɪnəl]「ザ ファイナル」",
+            "「final boss」: final の語末 /əl/ が boss の /b/ に続き、子音+子音で連結なし",
+            "「will entail」: will の語末 /əl/ が entail の /ɪ/ に連結 [wɪl ɪnˈteɪl]「ウィル インテイル」",
+            "「and protective」: and は弱形 /ən/ で protective の /p/ に続く [ən prəˈtɛktɪv]「アンド プロテクティブ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have entailed",
+      "ipa": "/wɪl həv ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "By the completion date, this entire mining project will have entailed exploring countless caverns.",
+          "ja": "完了日までに、このマイニングプロジェクト全体には、無数の大洞穴を探索することが必要になっているだろう。",
+          "ipa": "/baɪ ðə kəmˈpliːʃən ˈdeɪt ðɪs ɪnˈtaɪr ˈmaɪnɪŋ ˈprɑdʒɛkt wɪl həv ɪnˈteɪld ɪkˈsplɔrɪŋ ˈkaʊntləs ˈkævərnz/",
+          "kana": "バイ ザ コムプリーション デイト ディス インタイア マイニング プロジェクト ウィル ハヴ インテイルド エクスプローリング カウントレス キャバーンズ",
+          "linking": [
+            "「the completion」: the は弱形 /ðə/ が completion の /k/ に連結 [ðəkəmˈpliːʃən]「ザ コムプリーション」",
+            "「this entire」: this の語末 /s/ が entire の /ɪ/ に続き、子音+母音だが連結なし [ðɪs ɪnˈtaɪr]「ディス インタイア」",
+            "「will have」: will の語末 /əl/ が have の /h/ に続き、子音+子音で未開放。have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "「have entailed」: have の語末 /v/ が entailed の /ɪ/ に連結 [həv ɪnˈteɪld]「ハヴ インテイルド」"
+          ]
+        },
+        {
+          "en": "She will have entailed gathering tons of stone and resources before constructing her base.",
+          "ja": "彼女がベースを建設する前に、大量の石とリソースを集めることが必要になっているだろう。",
+          "ipa": "/ʃi wɪl həv ɪnˈteɪld ˈɡæðərɪŋ ˈtʌnz əv ˈstoʊn ənd ˈrɛsɚsɪz bɪˈfɔr kənˈstrʌktɪŋ hɚ ˈbeɪs/",
+          "kana": "シー ウィル ハヴ インテイルド ガザリング トンズ アヴ ストウン アンド レサーシズ ビフォー コンストラクティング ハー ベイス",
+          "linking": [
+            "「she will」: she の語末 /i/ が will の /w/ に続き、母音+子音で連結なし [ʃi wɪl]「シー ウィル」",
+            "「will have」: will の語末 /əl/ が have の /h/ に続き、子音+子音。have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "「have entailed」: have の語末 /v/ が entailed の /ɪ/ に連結 [həv ɪnˈteɪld]「ハヴ インテイルド」",
+            "「of stone」: of は弱形 /əv/ で stone の /s/ に続く [əv ˈstoʊn]「アヴ ストウン」"
+          ]
+        }
+      ]
     }
   ]
 }
