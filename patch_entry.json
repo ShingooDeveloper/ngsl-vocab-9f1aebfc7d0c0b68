@@ -214,6 +214,282 @@
           "kana": "ゼア パッチング ザ レッドストーン サーキット ビフォア ザ サーバー リセット"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is patching",
+      "ipa": "/ɪz ˈpætʃɪŋ/",
+      "examples": [
+        {
+          "en": "I'm patching the hole in the wall while waiting for more blocks.",
+          "ja": "ブロックを待っている間、私は壁の穴をパッチしています。",
+          "ipa": "/aɪm ˈpætʃɪŋ ðə ˈhol ɪn ðə ˈwɔl ˈwaɪl ˈweɪtɪŋ fər mɔr blɑks/",
+          "linking": [
+            "「I'm patching」—I'm の語末 /m/ が次の子音に未開放 [aɪm̚ ˈpætʃɪŋ]",
+            "「hole in」—語末子音 /l/ が in の /ɪ/ に連結 [ˈhol ɪn]",
+            "「waiting for」—waiting の語末 /ŋ/ は未開放（次が子音 /f/）、for は弱形 /fər/"
+          ],
+          "kana": "アイム パッチング ザ ホール イン ザ ウォール ワイル ウェイティング フォー モア ブラックス"
+        },
+        {
+          "en": "She is patching the damaged roof before the storm hits.",
+          "ja": "嵐が来る前に、彼女は損傷した屋根をパッチしています。",
+          "ipa": "/ʃi ɪz ˈpætʃɪŋ ðə ˈdæmɪdʒd ˈruf bɪˈfɔr ðə ˈstɔrm hɪts/",
+          "linking": [
+            "「is patching」—is の語末 /z/ は未開放（次が子音 /p/）、is は弱形 /ɪz/",
+            "「patching the」—patching の語末 /ŋ/ は未開放、the は弱形 /ðə/",
+            "「roof before」—roof の語末 /f/ は未開放（次が子音 /b/）"
+          ],
+          "kana": "シー イズ パッチング ザ ダメージド ルーフ ビフォア ザ ストーム ヒッツ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was patching",
+      "ipa": "/wəz ˈpætʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was patching the wall when I heard the creeper sound.",
+          "ja": "クリーパーの音が聞こえたときに、私は壁をパッチしていました。",
+          "ipa": "/aɪ wəz ˈpætʃɪŋ ðə ˈwɔl ˈwɛn aɪ ˈhɝd ðə ˈkripər ˈsaʊnd/",
+          "linking": [
+            "「was patching」—was の語末 /z/ は未開放（次が子音 /p/）、was は弱形 /wəz/",
+            "「the wall」—the は弱形 /ðə/、wall は子音で開始し未開放",
+            "「heard the」—heard の語末 /d/ は未開放（次が子音 /ð/）、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ パッチング ザ ウォール ウェン アイ ハード ザ クリーパー サウンド"
+        },
+        {
+          "en": "They were patching the floor when the water started spreading.",
+          "ja": "水が広がり始めたとき、彼らは床をパッチしていました。",
+          "ipa": "/ðeɪ wər ˈpætʃɪŋ ðə ˈflɔr ˈwɛn ðə ˈwɔtər ˈstɑrtəd ˈsprɛdɪŋ/",
+          "linking": [
+            "「were patching」—were の語末 /r/ は未開放（次が子音 /p/）、were は弱形 /wər/",
+            "「the floor」—the は弱形 /ðə/、floor は子音で開始し未開放",
+            "「the water」—the は弱形 /ðə/、water は子音で開始し未開放"
+          ],
+          "kana": "ゼイ ワー パッチング ザ フロア ウェン ザ ウォーター スターテッド スプレディング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has patched",
+      "ipa": "/həz ˈpætʃt/",
+      "examples": [
+        {
+          "en": "She has patched the wall after the creeper damaged it.",
+          "ja": "クリーパーがそれを壊した後、彼女は壁をパッチしました。",
+          "ipa": "/ʃi həz ˈpætʃt ðə ˈwɔl ˈæftər ðə ˈkripər ˈdæmɪdʒd ɪt/",
+          "linking": [
+            "「has patched」—has は弱形 /həz/、/z/ と patched の /p/ は子音+子音で未開放 [həz ˈpætʃt]",
+            "「patched the」—語末 /t/ が the の弱形 /ðə/ に...子音+子音で未開放 [ˈpætʃt ðə]",
+            "「after the」—語末 /r/ が the の /ə/ に連結 [ˈæftər ðə]、the は弱形"
+          ],
+          "kana": "シー ハズ パッチッ ザ ウォール アフター ザ クリーパー ダメージド イット"
+        },
+        {
+          "en": "We have patched the armor multiple times during our adventures.",
+          "ja": "私たちの冒険中、アーマーを何度もパッチしました。",
+          "ipa": "/wi həv ˈpætʃt ðə ˈɑrmər ˈmʌltɪpəl ˈtaɪmz ˈdʊrɪŋ aʊr ədˈvɛntʃərz/",
+          "linking": [
+            "「have patched」—have は弱形 /həv/、/v/ と patched の /p/ は子音+子音で未開放 [həv ˈpætʃt]",
+            "「patched the」—語末 /t/ が the の弱形 /ðə/ に...子音+子音で未開放 [ˈpætʃt ðə]",
+            "「times during」—語末 /z/ が during の /d/ に...子音+子音で未開放 [ˈtaɪmz ˈdʊrɪŋ]"
+          ],
+          "kana": "ウィ ハヴ パッチッ ザ アーマー マルティプル タイムズ ドゥーリング アワー アドベンチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had patched",
+      "ipa": "/həd ˈpætʃt/",
+      "examples": [
+        {
+          "en": "Before the boss fight started, we had patched all our armor.",
+          "ja": "ボス戦が始まる前に、私たちはすべてのアーマーをパッチしていました。",
+          "ipa": "/bɪˈfɔr ðə ˈbɔs ˈfaɪt ˈstɑrtəd wi həd ˈpætʃt ɔl aʊr ˈɑrmər/",
+          "linking": [
+            "「before the」—語末 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə]、the は弱形",
+            "「had patched」—had は弱形 /həd/、/d/ と patched の /p/ は子音+子音で未開放 [həd ˈpætʃt]",
+            "「patched all」—語末 /t/ が all の /ɔ/ に連結 [ˈpætʃt ɔl]"
+          ],
+          "kana": "ビフォア ザ ボス ファイト スターティド ウィ ハド パッチッ オール アワー アーマー"
+        },
+        {
+          "en": "Once we had patched the hole, no more water leaked inside.",
+          "ja": "穴をパッチした後、もう水は中に漏れませんでした。",
+          "ipa": "/ʌns wi həd ˈpætʃt ðə ˈhol ˌnoʊ ˈmɔr ˈwɔtər ˈliːkt ɪnˈsaɪd/",
+          "linking": [
+            "「had patched」—had は弱形 /həd/、/d/ と patched の /p/ は子音+子音で未開放 [həd ˈpætʃt]",
+            "「patched the」—語末 /t/ が the の弱形 /ðə/ に...子音+子音で未開放 [ˈpætʃt ðə]",
+            "「more water」—語末 /r/ が water の /w/ に...子音+子音で未開放 [ˈmɔr ˈwɔtər]"
+          ],
+          "kana": "ワンス ウィ ハド パッチッ ザ ホール ノー モア ウォーター リーク インサイド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been patching",
+      "ipa": "/həz bɪn ˈpætʃɪŋ/",
+      "examples": [
+        {
+          "en": "He has been patching the redstone circuit for hours now.",
+          "ja": "彼は今、何時間もレッドストーン回路をパッチしています。",
+          "ipa": "/hi həz bɪn ˈpætʃɪŋ ðə ˈrɛdˌston ˈsɝkɪt fɚ ˈaʊərz ˈnaʊ/",
+          "linking": [
+            "「has been」—has は弱形 /həz/、been は弱形 /bɪn/。/z/ と /b/ は子音+子音で未開放 [həz bɪn]",
+            "「been patching」—been の語末 /n/ が patching の /p/ に子音+子音で未開放 [bɪn ˈpætʃɪŋ]",
+            "「patching the」—語末 /ŋ/ が the の弱形 /ðə/ に連結 [ˈpætʃɪŋ ðə]"
+          ],
+          "kana": "ヒー ハズ ビン パッチング ザ レッドストーン サーキット ファー アワーズ ナウ"
+        },
+        {
+          "en": "We have been patching the damaged walls all day after the creeper attack.",
+          "ja": "クリーパー攻撃の後、一日中破壊された壁をパッチしています。",
+          "ipa": "/wi həv bɪn ˈpætʃɪŋ ðə ˈdæmɪdʒd ˈwɔlz ɔl ˈdeɪ ˈæftər ðə ˈkripər əˈtæk/",
+          "linking": [
+            "「have been」—have は弱形 /həv/、been は弱形 /bɪn/。/v/ と /b/ は子音+子音で未開放 [həv bɪn]",
+            "「patching damaged」—語末 /ŋ/ が damaged の /d/ に...子音+子音で未開放 [ˈpætʃɪŋ ˈdæmɪdʒd]",
+            "「after the」—語末 /r/ が the の弱形 /ðə/ に連結 [ˈæftər ðə]"
+          ],
+          "kana": "ウィ ハヴ ビン パッチング ザ ダメージド ウォールズ オール デイ アフター ザ クリーパー アタック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been patching",
+      "ipa": "/həd bɪn ˈpætʃɪŋ/",
+      "examples": [
+        {
+          "en": "We had been patching the wall for hours when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、私たちは数時間壁をパッチしていました。",
+          "ipa": "/wi həd bɪn ˈpætʃɪŋ ðə ˈwɔl fər ˈaʊrz ˈwɛn ðə ˈsɝvər ˈkræʃt/",
+          "linking": [
+            "「had been」—had の語末 /d/ は未開放（次が子音 /b/）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "「been patching」—been の語末 /n/ は未開放（次が子音 /p/）、been は弱形 /bɪn/",
+            "「for hours」—for の語末 /r/ が hours の /aʊ/ に連結 [fɚ ˈaʊrz]、for は弱形 /fər/"
+          ],
+          "kana": "ウィ ハド ビン パッチング ザ ウォール フォー アワーズ ウェン ザ サーバー クラッシュド"
+        },
+        {
+          "en": "They had been patching the arena before the tournament started.",
+          "ja": "トーナメントが始まる前に、彼らはアリーナをパッチしていました。",
+          "ipa": "/ðeɪ həd bɪn ˈpætʃɪŋ ðə əˈrinə bɪˈfɔr ðə ˈtɔrnəmənt ˈstɑrtəd/",
+          "linking": [
+            "「had been」—had の語末 /d/ は未開放（次が子音 /b/）、had は弱形 /həd/、been は弱形 /bɪn/",
+            "「been patching」—been の語末 /n/ は未開放（次が子音 /p/）、been は弱形 /bɪn/",
+            "「before the」—before の語末 /r/ は未開放（次が子音 /ð/）、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン パッチング ザ アリーナ ビフォア ザ トーナメント スターテッド"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（動詞）",
+      "text": "will patch",
+      "ipa": "/wɪl ˈpætʃ/",
+      "examples": [
+        {
+          "en": "I'll patch the hole before we explore the nether.",
+          "ja": "私たちがネザーを探検する前に、私は穴をパッチします。",
+          "ipa": "/aɪl ˈpætʃ ðə ˈhoʊl bɪˈfɔr wi ɪkˈsplɔr ðə ˈnɛðər/",
+          "linking": [
+            "「I'll patch」—I will が /aɪl/ に縮約、patch は /p/ で開始するため子音+子音で未開放",
+            "「patch the」—語末 /tʃ/ が the の /ð/ に未開放、the は弱形 /ðə/",
+            "「the hole」—the は弱形 /ðə/、hole は /h/ で開始するため子音+子音で未開放",
+            "「before we」—語末 /r/ が we の /w/ に未開放"
+          ],
+          "kana": "アイル パッチ ザ ホール ビフォア ウィ イックスプロア ザ ネザー"
+        },
+        {
+          "en": "They will patch the damage after the raid.",
+          "ja": "彼らはレイドの後、ダメージをパッチします。",
+          "ipa": "/ðeɪ wɪl ˈpætʃ ðə ˈdæmɪdʒ ˈæftər ðə ˈreɪd/",
+          "linking": [
+            "「will patch」—語末 /l/ が patch の /p/ に未開放",
+            "「patch the」—語末 /tʃ/ が the の /ð/ に未開放、the は弱形",
+            "「damage after」—語末 /dʒ/ が after の /æ/ に連結 [ˈdæmɪdʒ ˈæftər]",
+            "「after the」—語末 /r/ が the の /ð/ に連結 [ˈæftər ðə]、the は弱形"
+          ],
+          "kana": "ゼイ ウィル パッチ ザ ダメージ アフター ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（動詞）",
+      "text": "will be patching",
+      "ipa": "/wɪl bi ˈpætʃɪŋ/",
+      "examples": [
+        {
+          "en": "She'll be patching the wall while the rest hunt for materials.",
+          "ja": "残りのプレイヤーが材料を狩っている間、彼女は壁をパッチするでしょう。",
+          "ipa": "/ʃil bi ˈpætʃɪŋ ðə ˈwɔl ˈwaɪl ðə ˈɹɛst hʌnt fər məˈtɪriəlz/",
+          "linking": [
+            "「She'll be」—she will が /ʃil/ に縮約、be は /b/ で開始するため子音+子音で未開放",
+            "「be patching」—be は /bi/、patching は /p/ で開始するため子音+子音で未開放",
+            "「patching the」—語末 /ŋ/ が the の /ð/ に未開放、the は弱形",
+            "「the wall」—the は /ðə/、wall は /w/ で開始するため子音+子音で未開放"
+          ],
+          "kana": "シール ビー パッチング ザ ウォール ワイル ザ レスト ハント フォア マテリアルズ"
+        },
+        {
+          "en": "We will be patching the roof when you return.",
+          "ja": "あなたが戻ってくるとき、私たちは屋根をパッチするでしょう。",
+          "ipa": "/wi wɪl bi ˈpætʃɪŋ ðə ˈruf wɛn ju rɪˈtɝn/",
+          "linking": [
+            "「will be」—語末 /l/ が be の /b/ に未開放",
+            "「be patching」—be は /bi/、patching は /p/ で開始するため子音+子音で未開放",
+            "「patching the」—語末 /ŋ/ が the の /ð/ に未開放、the は弱形",
+            "「the roof」—the は /ðə/、roof は /r/ で開始するため子音+子音で未開放"
+          ],
+          "kana": "ウィ ウィル ビー パッチング ザ ルーフ ウェン ユー リターン"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（動詞）",
+      "text": "will have patched",
+      "ipa": "/wɪl həv ˈpætʃt/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have patched all the damaged blocks.",
+          "ja": "明日までに、私はすべての破損したブロックをパッチしているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ aɪ wɪl həv ˈpætʃt ɔl ðə ˈdæmɪdʒd blɑks/",
+          "linking": [
+            "「will have」—語末 /l/ が have の /h/ に未開放、have は弱形 /həv/",
+            "「have patched」—語末 /v/ が patched の /p/ に未開放",
+            "「patched all」—語末 /t/ が all の /ɔ/ に連結 [ˈpætʃtɔl]",
+            "「all the」—語末 /l/ が the の /ð/ に連結 [ɔl ðə]、the は弱形"
+          ],
+          "kana": "バイ トゥモロー アイ ウィル ハヴ パッチター ザ ダメージド ブラックス"
+        },
+        {
+          "en": "They'll have patched the fortress before the storm comes.",
+          "ja": "嵐が来る前に、彼らは要塞をパッチしているでしょう。",
+          "ipa": "/ðeɪl həv ˈpætʃt ðə ˈfɔrtrəs bɪˈfɔr ðə ˈstɔrm kʌmz/",
+          "linking": [
+            "「They'll have」—they will が /ðeɪl/ に縮約、have は /h/ で開始するため子音+子音で未開放、have は弱形",
+            "「have patched」—語末 /v/ が patched の /p/ に未開放",
+            "「patched the」—語末 /t/ が the の /ð/ に未開放、the は弱形",
+            "「before the」—語末 /r/ が the の /ð/ に連結 [bɪˈfɔr ðə]"
+          ],
+          "kana": "ゼイル ハヴ パッチ ザ フォートレス ビフォア ザ ストーム カムズ"
+        }
+      ]
     }
   ]
 }
