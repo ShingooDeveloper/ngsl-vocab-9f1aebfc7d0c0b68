@@ -388,6 +388,66 @@
           "kana": "メンバーズ・ハヴ・ビン・ア・バイディング・バイ・ザ・カ・ミュー・ニティ・スタンダーズ・シンス・ザ・ベリー・スタート"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will abide",
+      "ipa": "/wɪl əˈbaɪd/",
+      "examples": [
+        {
+          "en": "I'll abide by the server rules all season long.",
+          "ja": "私はこのシーズンずっとサーバーのルールに従うだろう。",
+          "ipa": "/aɪl əˈbaɪd baɪ ðə ˈsɜrvər ˈrulz ɔl ˈsizən ˈlɔŋ/",
+          "linking": [
+            "I'll が abide の母音 /ə/ に連結：[aɪl əˈbaɪd] アイル ア バイド",
+            "by the：by の語末 /aɪ/ + the の弱形 /ðə/、連結なし [baɪ ðə] バイ ザ",
+            "the server：the は弱形 /ðə/、server の /s/ との境界 [ðə ˈsɜrvər] ザ サーバー"
+          ],
+          "kana": "アイル ア バイド バイ ザ サーバー ルールズ オール シーズン ロング"
+        },
+        {
+          "en": "They'll abide in our clan's fortress through the winter.",
+          "ja": "彼らは冬の間、我々のクランの砦に滞在するだろう。",
+          "ipa": "/ðeɪl əˈbaɪd ɪn ˈaʊər ˈklænz ˈfɔrtes θru ðə ˈwɪntər/",
+          "linking": [
+            "They'll が abide の母音 /ə/ に連結：[ðeɪl əˈbaɪd] ザイル ア バイド",
+            "in our：/n/ + /aʊ/ の境界、連結なし [ɪn ˈaʊər] イン アワー",
+            "through the：/u/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/ [θru ðə] スルー ザ"
+          ],
+          "kana": "ザイル ア バイド イン アワー クランズ フォーティス スルー ザ ウィンター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have abided",
+      "ipa": "/wɪl əv əˈbaɪdəd/",
+      "examples": [
+        {
+          "en": "By spring, we'll have abided by our mining pact.",
+          "ja": "春までに、我々は採掘協定を守っているだろう。",
+          "ipa": "/baɪ ˈsprɪŋ wɪl əv əˈbaɪdəd baɪ ˈaʊər ˈmaɪnɪŋ ˈpækt/",
+          "linking": [
+            "we'll が have の弱形 /əv/ に連結：[wɪl əv] ウィル アヴ",
+            "have が abided の母音 /ə/ に連結：[əv əˈbaɪdəd] アヴ ア バイディッド",
+            "by our：by の語末 /aɪ/ + our の /aʊ/、連結なし [baɪ ˈaʊər] バイ アワー"
+          ],
+          "kana": "バイ スプリング ウィル アヴ ア バイディッド バイ アワー マイニング パクト"
+        },
+        {
+          "en": "They'll have abided in their fortress by then.",
+          "ja": "その時までに、彼らは砦に滞在しているだろう。",
+          "ipa": "/ðeɪl əv əˈbaɪdəd ɪn ðɛr ˈfɔrtes baɪ ðɛn/",
+          "linking": [
+            "They'll が have の弱形 /əv/ に連結：[ðeɪl əv] ザイル アヴ",
+            "have が abided の母音 /ə/ に連結：[əv əˈbaɪdəd] アヴ ア バイディッド",
+            "in their：/n/ + /ð/（子音+子音、連結なし）、their は /ðɛr/ [ɪn ðɛr] イン ザイアー"
+          ],
+          "kana": "ザイル アヴ ア バイディッド イン ザイアー フォーティス バイ ザン"
+        }
+      ]
     }
   ]
 }
