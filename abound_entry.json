@@ -136,6 +136,96 @@
           "kana": "バイ ザ エンド オブ ディス シーズン ユースフル リソーシーズ ウル ハヴ アバウンディド スルーアウト オール イクスプロアド テリトーリーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has abounded",
+      "ipa": "/həz əˈbaʊndɪd/",
+      "examples": [
+        {
+          "en": "Diamonds have abounded in this cave.",
+          "ja": "このケーブではダイヤモンドがずっと豊富に存在している。",
+          "ipa": "/ˈdaɪmənz həv əˈbaʊndɪd ɪn ðə keɪv/",
+          "linking": [
+            "have の語末 /v/ が abounded の /ə/ に連結 [həv əˈbaʊndɪd]",
+            "abounded の語末 /d/ が in の /ɪ/ に連結 [əˈbaʊndɪd ɪn]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ダイモンズハヴアバウンディディンザケイブ"
+        },
+        {
+          "en": "Mobs have abounded everywhere since nightfall.",
+          "ja": "日没以来、モブがあちこちにあふれている。",
+          "ipa": "/moʊbz həv əˈbaʊndɪd ˈɛvriwɛr sɪns ˈnaɪtfɔl/",
+          "linking": [
+            "have の語末 /v/ が abounded の /ə/ に連結 [həv əˈbaʊndɪd]",
+            "abounded の語末 /d/ が everywhere の /ɛ/ に連結 [əˈbaʊndɪd ˈɛvriwɛr]",
+            "have は弱形 /həv/"
+          ],
+          "kana": "モウブズハヴアバウンディドエブリウェアシンスナイトフォール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had abounded",
+      "ipa": "/həd əˈbaʊndɪd/",
+      "examples": [
+        {
+          "en": "Ores had abounded until the mining started.",
+          "ja": "採掘が始まるまで、鉱石は豊富に存在していた。",
+          "ipa": "/ˈɔrz həd əˈbaʊndɪd əntɪl ðə ˈmaɪnɪŋ ˈstɑrtɪd/",
+          "linking": [
+            "had の語末 /d/ が abounded の /ə/ に連結 [həd əˈbaʊndɪd]",
+            "abounded の語末 /d/ が until の /ə/ に連結 [əˈbaʊndɪd əntɪl]",
+            "had は弱形 /həd/"
+          ],
+          "kana": "オーズハドアバウンディドアンティルザマイニングスタートゥッド"
+        },
+        {
+          "en": "Resources had abounded all along.",
+          "ja": "リソースはずっと豊富に存在していた。",
+          "ipa": "/rɪˈsɔːsɪz həd əˈbaʊndɪd ɔːl əˈlɔŋ/",
+          "linking": [
+            "had の語末 /d/ が abounded の /ə/ に連結 [həd əˈbaʊndɪd]",
+            "abounded の語末 /d/ が all の /ɔ/ に連結 [əˈbaʊndɪd ɔːl]",
+            "had は弱形 /həd/"
+          ],
+          "kana": "リソーシズハドアバウンディドオールアロング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been abounding",
+      "ipa": "/həz bɪn əˈbaʊndɪŋ/",
+      "examples": [
+        {
+          "en": "Ores have been abounding all over this biome.",
+          "ja": "この生物群系では鉱石がずっと豊富に存在し続けている。",
+          "ipa": "/ˈɔrz həv bɪn əˈbaʊndɪŋ ɔːl ˈoʊvər ðɪs ˈbaɪoʊm/",
+          "linking": [
+            "been の語末 /n/ が abounding の /ə/ に連結 [bɪn əˈbaʊndɪŋ]",
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/"
+          ],
+          "kana": "オーズハヴビンアバウンディングオールオウバーディスバイオム"
+        },
+        {
+          "en": "Diamonds have been abounding ever since I arrived.",
+          "ja": "私が到着して以来、ダイヤモンドがずっと豊富に出現し続けている。",
+          "ipa": "/ˈdaɪmənz həv bɪn əˈbaʊndɪŋ ˈɛvər sɪns aɪ əˈraɪvd/",
+          "linking": [
+            "been の語末 /n/ が abounding の /ə/ に連結 [bɪn əˈbaʊndɪŋ]",
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/"
+          ],
+          "kana": "ダイモンズハヴビンアバウンディングエバーシンスアイアライブド"
+        }
+      ]
     }
   ]
 }
