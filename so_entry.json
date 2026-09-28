@@ -37,29 +37,58 @@
   ],
   "idioms": [
     {
-      "idiom": "so ~ that …",
-      "ja": "とても〜なので…",
-      "example": "The cave was so deep that we ran out of torches.",
-      "example_ja": "ケイブが深すぎて、松明がなくなった。",
-      "ipa": "/ðə ˈkeɪv wəz soʊ ˈdip ðæt wi ˈræn ˈaʊɾəv ˈtɔrʃəz/",
+      "idiom": "so 〜 that …",
+      "ja": "とても～なので…",
+      "example": "This mine was so deep that I found diamonds there.",
+      "example_ja": "この鉱山はとても深かったので、そこでダイヤモンドを見つけた。",
+      "ipa": "[ðɪs maɪn wəzoʊ ˈdiːp ðætaɪ ˈfaʊnd ˈdaɪməndz ðɛɚ]",
       "linking": [
-        "was は弱形 /wəz/ ワズ",
-        "out of → out の語末子音 /t/ が母音に挟まれてフラップ化し、of の初頭母音 /ə/ に連結。結果は [ˈaʊɾəv] アウラヴ"
+        "\"that\" の /t/ が \"I\" の母音 /aɪ/ に連結し [ðæ.ˈtaɪ]「ザタイ」と発音される",
+        "\"was\" の /z/ が \"so\" の母音 /oʊ/ に連結し [wə.ˈzoʊ]「ウァゾー」と続く",
+        "\"was\" は弱形 /wəz/「ウァズ」に弱化。機能語の音数低減の特性",
+        "\"deep\" の語末 /p/ は未開放で詰まる音「ディープ」と発音される"
       ],
-      "kana": "ザ ケイブ ワズ ソウ ディープ ザット ウィ ラン アウラヴ トーチェズ"
+      "kana": "ジス マイン ウァゾー ディープ ザタイ ファウンド ダイマンズ ザー"
     },
     {
-      "idiom": "so 〜 that S can't V",
-      "ja": "あまりに～なのでSはVできない",
-      "example": "The cave is so deep that I can't find my way back to the surface.",
-      "example_ja": "その洞窟はあまりに深いので、私は地表への帰路を見つけられない。",
-      "ipa": "[ðə ˈkeɪv ɪz soʊ ˈdiːp ðæt aɪ ˈkænt ˈfaɪnd maɪ ˈweɪ bæk tə ðə ˈsɚfəs]",
+      "idiom": "so ~ that S can't V",
+      "ja": "とても〜なのでSはVできない",
+      "example": "The Redstone puzzle is so hard that I can't solve it.",
+      "example_ja": "レッドストーン・パズルはとても難しいので、私は解くことができません。",
+      "ipa": "[ðə ˈɹɛdˌstoʊn ˈpʌ.zəl ɪz soʊ ˈhɑɹd ðæt aɪ ˈkænt̚ ˈsɑlv ɪt̚]",
       "linking": [
-        "'the cave' → 機能語 'the' は弱形 /ðə/ に弱化。[ðə ˈkeɪv] ザ ケイヴ",
-        "'can't find' → 語末 /t/ が未開放のままで次の /f/ に直続。[kænt̚ ˈfaɪnd] カント ファインド",
-        "'back to the surface' → 'to' /tə/ と 'the' /ðə/ が弱形。[bæk tə ðə ˈsɚfəs] バック タ ザ サーフェス"
+        "puzzle is → puzzle の語末 /l/ が母音 /ɪ/ に連結 [ˈpʌ.zəl ɪz]",
+        "that I → that の語末 /t/ が母音 /aɪ/ に連結 [ðæt aɪ]",
+        "solve it → solve の語末 /v/ が母音 /ɪ/ に連結し、it の /t/ は未開放 [ˈsɑlv ɪt̚]"
       ],
-      "kana": "ザ ケイヴ イズ ソウ ディープ ザット アイ カント ファインド マイ ウェイ バック タ ザ サーフェス"
+      "kana": "ザ レッドストーン パズル イズ ソウ ハード ザット アイ キャント ソルヴ イット"
+    },
+    {
+      "idiom": "～ and so on/forth",
+      "ja": "～など（そのほか）",
+      "example": "You can mine copper, iron, coal, and so on deep in the caves.",
+      "example_ja": "洞窟の深いところでは銅、鉄、石炭など、いろいろな鉱石が採掘できます。",
+      "ipa": "/juː kən ˈmaɪn ˈkɑpɚ ˈaɪɚn ˈkoʊl ən soʊ ˈɑn ˈdiːpɪn ðə ˈkeɪvz/",
+      "linking": [
+        "can は機能語で弱形 /kən/",
+        "deep in → deep の語末子音 /p/ が in の母音 /ɪ/ に連結 [ˈdiːpɪn] ディーピン",
+        "and は弱形 /ən/、the は弱形 /ðə/"
+      ],
+      "kana": "ユー カン マイン コッパー アイアーン コール エン ソウ オン ディーピン ザ ケイヴズ"
+    },
+    {
+      "idiom": "so ～ that …",
+      "ja": "とても～なので…する（結果を表す）",
+      "example": "The cave was so deep that I could find diamonds there.",
+      "example_ja": "その洞窟はとても深かったので、そこでダイヤモンドを見つけることができた。",
+      "ipa": "/ðə ˈkeɪv wəz soʊ ˈdiːp ðæt aɪ ˈkʊd ˈfaɪnd ˈdaɪ.məndz ðɛɚ/",
+      "linking": [
+        "that I → that の語末子音 /t/ が I の母音 /aɪ/ に連結 [ðæt aɪ] ザット アイ",
+        "was は弱形 /wəz/ に弱化 ワズ",
+        "the は弱形 /ðə/ に弱化 ザ",
+        "find diamonds → find の /d/ が diamonds の /d/ に続く（同音の子音は重ねて1つに聞こえる）[faɪnd daɪ] ファインド ダイ"
+      ],
+      "kana": "ザ ケイブ ワズ ソウ ディープ ザット アイ クッ ファインド ダイマンズ ザー"
     }
   ]
 }
