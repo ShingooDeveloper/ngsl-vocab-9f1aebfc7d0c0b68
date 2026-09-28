@@ -143,5 +143,129 @@
       "kana": "ウィー ニード スーティー モア ブラックス タ ゴウ"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "goes",
+      "ipa": "/ɡoʊz/",
+      "examples": [
+        {
+          "en": "The mine goes deeper than expected.",
+          "ja": "鉱山は予想より深く続きます。",
+          "ipa": "/ðə ˈmaɪn ɡoʊz ˈdipər ðæn ɪkˈspɛktəd/",
+          "linking": [
+            "mine goes → mine の語末子音 /n/ が goes の初頭子音 /ɡ/ に直続（子音+子音）。/n/ は未開放傾向 [ˈmaɪn̚ ɡoʊz] マイン ゴゥズ",
+            "goes deeper → goes の語末子音 /z/ が deeper の初頭 /d/ に直続（子音+子音）。/z/ は未開放傾向 [ɡoʊz̚ ˈdipər] ゴゥズ ディーパー",
+            "than expected → than の語末子音 /n/ が expected の初頭母音 /ɪ/ に連結 [ðæn ɪkˈspɛktəd] ザン イクスペクテッド"
+          ],
+          "kana": "ザ マイン ゴゥズ ディーパー ザン イクスペクテッド"
+        },
+        {
+          "en": "Every creeper goes boom when provoked.",
+          "ja": "全てのクリーパーは刺激されると爆発します。",
+          "ipa": "/ˈɛvəri ˈkriːpər ɡoʊz ˈbum wɛn prəˈvoʊkt/",
+          "linking": [
+            "creeper goes → creeper の語末 /r/ が goes の初頭 /ɡ/ に直続（子音+子音）。/r/ は未開放傾向 [ˈkriːpər̚ ɡoʊz] クリーパー ゴゥズ",
+            "goes boom → goes の語末子音 /z/ が boom の初頭子音 /b/ に直続（子音+子音） [ɡoʊz ˈbum] ゴゥズ ブーム",
+            "when provoked → when の語末 /n/ が provoked の初頭 /p/ に直続（子音+子音）。/n/ は未開放傾向 [wɛn̚ prəˈvoʊkt] ウェン プロウボークド"
+          ],
+          "kana": "エヴリ クリーパー ゴゥズ ブーム ウェン プロウボークド"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "went",
+      "ipa": "/wɛnt/",
+      "examples": [
+        {
+          "en": "I went mining for diamonds yesterday.",
+          "ja": "昨日、私はダイヤモンド採掘に行きました。",
+          "ipa": "/aɪ wɛnt ˈmaɪnɪŋ fɔr ˈdaɪməndz ˈjɛstərdeɪ/",
+          "linking": [
+            "I went → I /aɪ/ の語末母音が went /w/ の初頭子音に先行。子音+母音で連結なし [aɪ wɛnt] アイ ウェント",
+            "went mining → went の語末子音 /t/ が mining の初頭子音 /m/ に直続（子音+子音）。/t/ は未開放傾向 [wɛn̚ ˈmaɪnɪŋ] ウェント マイニング",
+            "for diamonds → for は機能語で弱形 /fər/、diamonds の初頭 /d/ に先行 [fər ˈdaɪməndz] フォー ダイモンズ"
+          ],
+          "kana": "アイ ウェント マイニング フォー ダイモンズ イェスタデイ"
+        },
+        {
+          "en": "We went through the portal to the Nether.",
+          "ja": "私たちはネザーへのポータルを通りました。",
+          "ipa": "/wi wɛnt θruː ðə ˈpɔrtəl tə ðə ˈnɛðər/",
+          "linking": [
+            "went through → went の語末子音 /t/ が through の初頭 /θ/ に直続（子音+子音）。/t/ は未開放傾向 [wɛn̚ θruː] ウェント スルー",
+            "the portal → the は子音前で弱形 /ðə/ [ðə ˈpɔrtəl] ザ ポーラル",
+            "portal to → portal の語末 /l/ が to の初頭 /t/ に直続（子音+子音）。to は機能語で弱形 /tə/ [ˈpɔrtəl tə] ポーラル タ",
+            "the Nether → the は子音前で弱形 /ðə/ [ðə ˈnɛðər] ザ ネザー"
+          ],
+          "kana": "ウィ ウェント スルー ザ ポーラル タ ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "gone",
+      "ipa": "/ɡɑn/",
+      "examples": [
+        {
+          "en": "I have gone deep into the cavern.",
+          "ja": "私は洞窟の深くに行きました。",
+          "ipa": "/aɪ ˈhæv ɡɑn ˈdip ˌɪntə ðə kəˈvɜrn/",
+          "linking": [
+            "have gone → have の語末 /v/ が gone の初頭 /ɡ/ に連結。have は弱形傾向 [ˈhæv ɡɑn] ハヴ ゴーン",
+            "gone deep → gone の語末 /n/ が deep の初頭 /d/ に直続（子音+子音）。/n/ は未開放傾向 [ɡɑn̚ ˈdip] ゴーン ディープ",
+            "into the → into の語末が the の初頭に先行。the は弱形 /ðə/ [ɪnˈtuː ðə] イント ザ",
+            "the cavern → the は子音前で弱形 /ðə/ [ðə kəˈvɜrn] ザ キャヴァーン"
+          ],
+          "kana": "アイ ハヴ ゴーン ディープ イント ザ キャヴァーン"
+        },
+        {
+          "en": "The resources are gone from this area.",
+          "ja": "このエリアのリソースはなくなっています。",
+          "ipa": "/ðə ˈrɛsərsɪz ɑr ɡɑn frəm ðɪs ˈɛriə/",
+          "linking": [
+            "are gone → are の語末 /r/ が gone の初頭 /ɡ/ に直続（子音+子音）。/r/ は未開放傾向 [ɑr̚ ɡɑn] アー ゴーン",
+            "from this → from の語末 /m/ が this の初頭 /ð/ に直続（子音+子音） [frəm ðɪs] フロム ジス",
+            "this area → this の語末子音 /s/ が area の初頭 /ɛ/ に連結 [ðɪs ˈɛriə] ジス エリア"
+          ],
+          "kana": "ザ リソーシーズ アー ゴーン フロム ジス エリア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "going",
+      "ipa": "/ˈɡoʊɪŋ/",
+      "examples": [
+        {
+          "en": "I'm going mining right now.",
+          "ja": "私は今すぐ採掘に行きます。",
+          "ipa": "/aɪm ˈɡoʊɪŋ ˈmaɪnɪŋ ˈraɪt ˈnaʊ/",
+          "linking": [
+            "I'm going → I'm /aɪm/ の語末 /m/ が going の初頭 /ɡ/ に直続（子音+子音）。/m/ は未開放傾向 [aɪm̚ ˈɡoʊɪŋ] アイム ゴウイング",
+            "going mining → going の語末 /ŋ/ が mining の初頭 /m/ に直続（子音+子音） [ˈɡoʊɪŋ ˈmaɪnɪŋ] ゴウイング マイニング",
+            "right now → right の語末 /t/ が now の初頭 /n/ に直続（子音+子音）。/t/ は未開放傾向 [ˈraɪt̚ ˈnaʊ] ライト ナウ"
+          ],
+          "kana": "アイム ゴウイング マイニング ライト ナウ"
+        },
+        {
+          "en": "We are going to build a new house.",
+          "ja": "私たちは新しい家を建てるつもりです。",
+          "ipa": "/wi ɑr ˈɡoʊɪŋ tə ˈbɪld ə ˈnu ˈhaʊs/",
+          "linking": [
+            "are going → are の語末 /r/ が going の初頭 /ɡ/ に直続（子音+子音）。/r/ は未開放傾向 [ɑr̚ ˈɡoʊɪŋ] アー ゴウイング",
+            "going to → going の語末 /ŋ/ が to の初頭 /t/ に直続。to は機能語で弱形 /tə/ [ˈɡoʊɪŋ tə] ゴウイング タ",
+            "build a → build の語末 /d/ が a の初頭 /ə/ に連結 [ˈbɪld ə] ビルダ",
+            "a new → a は不定冠詞で弱形 /ə/、new の初頭 /n/ に連結 [ə ˈnu] ア ニュー"
+          ],
+          "kana": "ウィ アー ゴウイング タ ビルダ ニュー ハウス"
+        }
+      ]
+    }
+  ]
 }
