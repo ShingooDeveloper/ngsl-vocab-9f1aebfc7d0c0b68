@@ -1,0 +1,164 @@
+{
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "resists",
+      "ipa": "/rɪˈzɪsts/",
+      "examples": [
+        {
+          "en": "Diamond armor resists fire damage much better than gold.",
+          "ja": "ダイヤモンドアーマーは金よりも火ダメージをはるかに抵抗する。",
+          "ipa": "/ˈdaɪmənd ˈɑrmər rɪˈzɪsts ˈfaɪər ˈdæmɪdʒ ˈmʌtʃ ˈbɛtər ðən ˈɡoʊld/",
+          "linking": [
+            "armor resists → /r/ + /r/ は子音+子音で連結しない",
+            "damage much → /dʒ/ + /m/ は子音+子音で連結しない",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ダイアモンド アーマー リジスツ ファイア ダメッジ マッチ ベター ザン ゴールド"
+        },
+        {
+          "en": "Netherite resists all types of environmental hazards effectively.",
+          "ja": "ネザライトはすべてのタイプの環境的な危険に有効に抵抗する。",
+          "ipa": "/ˈnɛðəraɪt rɪˈzɪsts ˈɔːl ˈtaɪps əv ˌɛnvaɪrənˈmɛntəl ˈhæzərdz ɪˈfɛktɪvli/",
+          "linking": [
+            "resists all → /s/ + /ɔ/ は子音+母音で連結 [rɪˈzɪsts ˈɔːl] リジスツ オール",
+            "of は弱形 /əv/",
+            "hazards effectively → /z/ + /ɪ/ は連結"
+          ],
+          "kana": "ネザーライト リジスツ オール タイプス オブ エンバイロンメンタル ハザーズ イフェクティブリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "resisted",
+      "ipa": "/rɪˈzɪstəd/",
+      "examples": [
+        {
+          "en": "The obsidian fortress resisted the Wither's powerful attack.",
+          "ja": "黒曜石の要塞はウィザーの強力な攻撃に抵抗した。",
+          "ipa": "/ðə ɑbˈsɪdiən ˈfɔrtrɪs rɪˈzɪstəd ðə ˈwɪðərz ˈpaʊərfəl əˈtæk/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "fortress resisted → /s/ + /r/ は子音+子音で連結しない",
+            "resisted the → /d/ + /ð/ は子音+子音で連結しない、the は弱形 /ðə/ [rɪˈzɪstəd ðə] リジステッド ザ",
+            "Wither's attack → /z/ + /ə/ が連結"
+          ],
+          "kana": "ザ オブシディアン フォートレス リジステッド ザ ウィザーズ パワーフル アタック"
+        },
+        {
+          "en": "Our stone base resisted three consecutive creeper explosions without breaking.",
+          "ja": "私たちの石の基地は3つの連続したクリーパー爆発に壊れずに抵抗した。",
+          "ipa": "/ˈaʊər ˈstoʊn ˈbeɪs rɪˈzɪstəd ˈθriː kənˈsɛkjətɪv ˈkriːpər ɪkˈsploʊʒənz wɪðˈaʊt ˈbreɪkɪŋ/",
+          "linking": [
+            "base resisted → /s/ + /r/ は子音+子音で連結しない",
+            "resisted three → /d/ + /θ/ は子音+子音で連結しない",
+            "consecutive creeper → /v/ + /k/ は子音+子音で連結しない",
+            "explosions without → /z/ + /w/ は子音+子音で連結しない",
+            "without breaking → /t/ + /b/ は子音+子音で連結しない"
+          ],
+          "kana": "アワー ストーン ベース リジステッド スリー コンセキューティヴ クリーパー エクスプロージョンズ ウィザウト ブレイキング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "resisted",
+      "ipa": "/rɪˈzɪstəd/",
+      "examples": [
+        {
+          "en": "Having resisted the dragon's flames, the castle still stood strong.",
+          "ja": "ドラゴンの炎に抵抗した後、城はまだ強く立っていた。",
+          "ipa": "/ˈheɪvɪŋ rɪˈzɪstəd ðə ˈdræɡənz ˈfleɪmz | ðə ˈkæsəl ˈstɪl ˈstʊd ˈstrɔŋ/",
+          "linking": [
+            "Having resisted → /ŋ/ + /r/ は子音+子音で連結しない",
+            "resisted the → /d/ + /ð/ は子音+子音で連結しない、the は弱形 /ðə/",
+            "dragon's flames → /z/ + /f/ は子音+子音で連結しない"
+          ],
+          "kana": "ハヴィング リジステッド ザ ドラゴンズ フレイムズ、ザ キャッスル スティル スッド ストロング"
+        },
+        {
+          "en": "The reinforced wall had resisted falling debris for several months.",
+          "ja": "強化された壁は数ヶ月間、落下する瓦礫に抵抗していた。",
+          "ipa": "/ðə ˌriːɪnˈfɔrst ˈwɔl hæd rɪˈzɪstəd ˈfɔːlɪŋ dɪˈbriː fər ˈsɛvrəl ˈmʌnθz/",
+          "linking": [
+            "reinforced wall → /st/ + /w/ は子音+子音で連結しない",
+            "had resisted → /d/ + /r/ は子音+子音で連結しない、had は弱形 /hæd/ [hæd rɪˈzɪstəd] ハッド リジステッド",
+            "falling debris → /ŋ/ + /d/ は子音+子音で連結しない",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザ リエンフォースド ウォール ハッド リジステッド フォーリング デブリー フォー セブラル マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "resisting",
+      "ipa": "/rɪˈzɪstɪŋ/",
+      "examples": [
+        {
+          "en": "Resisting the lava flow requires a strategic water placement system.",
+          "ja": "溶岩流に抵抗することは戦略的な水配置システムが必要です。",
+          "ipa": "/rɪˈzɪstɪŋ ðə ˈlɑːvə ˈfloʊ rɪˈkwaɪərz ə strəˈtiːdʒɪk ˈwɔːtər ˈpleɪsmənt ˈsɪstəm/",
+          "linking": [
+            "Resisting the → /ŋ/ + /ð/ は子音+子音で連結しない、the は弱形 /ðə/",
+            "flow requires → /oʊ/ + /r/ は母音+子音",
+            "a は弱形 /ə/。strategic と連結 [ə strəˈtiːdʒɪk] ア ストラテジック"
+          ],
+          "kana": "リジスティング ザ ラーヴァ フロー リクワイアーズ ア ストラテジック ウォーター プレイスメント システム"
+        },
+        {
+          "en": "The magical shield is resisting all incoming projectiles successfully.",
+          "ja": "魔法的なシールドはすべての入ってくる発射体に成功裏に抵抗している。",
+          "ipa": "/ðə ˈmædʒɪkəl ˈʃild ɪz rɪˈzɪstɪŋ ˈɔːl ɪnˈkʌmɪŋ prəˈdʒɛktaɪlz səkˈsɛsfəli/",
+          "linking": [
+            "the は弱形 /ðə/。magical と連結 [ðə ˈmædʒɪkəl] ザ マジカル",
+            "is は弱形 /ɪz/。resisting と連結 [ɪz rɪˈzɪstɪŋ] イズ リジスティング",
+            "incoming projectiles → /ŋ/ + /p/ は子音+子音で連結しない",
+            "projectiles successfully → /z/ + /s/ は子音+子音で連結しない"
+          ],
+          "kana": "ザ マジカル シールド イズ リジスティング オール インカミング プロジェクタイルズ サクセスフリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "resists",
+      "ipa": "/ˈrizɪsts/",
+      "examples": [
+        {
+          "en": "We're applying protective chemical resists before starting the construction.",
+          "ja": "建設を始める前に、保護用の化学的な抵抗物を塗布しています。",
+          "ipa": "/wɪr əˈplaɪɪŋ prəˈtɛktɪv ˈkɛmɪkəl ˈrizɪsts bɪˈfɔːr ˈstɑːrtɪŋ ðə kənˈstrʌkʃən/",
+          "linking": [
+            "applying protective → /ŋ/ + /p/ は子音+子音で連結しない",
+            "protective resists → /v/ + /r/ は子音+子音で連結しない",
+            "resists before → /s/ + /b/ は子音+子音で連結しない",
+            "before は /bɪˈfɔːr/。starting と連結 [bɪˈfɔːr ˈstɑːrtɪŋ] ビフォア スターティング",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィアー アプライング プロテクティヴ ケミカル リジスツ ビフォア スターティング ザ コンストラクション"
+        },
+        {
+          "en": "Multiple protective resists help safeguard valuable items from environmental damage.",
+          "ja": "複数の保護的な抵抗物は、貴重品を環境的なダメージから守るのに役立ちます。",
+          "ipa": "/ˈmʌltɪpəl prəˈtɛktɪv ˈrizɪsts ˈhɛlp ˈseɪfˌɡɑːrd ˈvæljuəbəl ˈaɪtəmz ˈfrɑm ˌɛnvaɪrənˈmɛntəl ˈdæmɪdʒ/",
+          "linking": [
+            "protective resists → /v/ + /r/ は子音+子音で連結しない",
+            "resists help → /s/ + /h/ は子音+子音で連結しない",
+            "help safeguard → /p/ + /s/ は子音+子音で連結しない",
+            "safeguard valuable → /d/ + /v/ は子音+子音で連結しない",
+            "items from → /z/ + /f/ は子音+子音で連結しない",
+            "from は弱形 /frəm/。environmental と連結"
+          ],
+          "kana": "マルティプル プロテクティヴ リジスツ ヘルプ セイフガード ヴァリュアブル アイテムズ フラム エンバイロンメンタル ダメッジ"
+        }
+      ]
+    }
+  ]
+}
