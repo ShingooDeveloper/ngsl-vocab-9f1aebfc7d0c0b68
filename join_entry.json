@@ -2,6 +2,166 @@
   "word": "join",
   "forms": [
     {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "joins",
+      "ipa": "/dʒɔɪnz/",
+      "examples": [
+        {
+          "en": "Every player joins the server to experience the new Minecraft snapshot features.",
+          "ja": "すべてのプレイヤーは、新しいマインクラフトスナップショット機能を体験するためにサーバーに参加します。",
+          "ipa": "/ˈɛv.ə.ri ˈpleɪ.ɚ dʒɔɪnz ðə ˈsɜr.vɚ tu ɪkˈspɪr.i.əns ðə ˈnu ˈmaɪn.kraft ˈsnæp.ʃɑt ˈfi.tʃɚz/",
+          "linking": [
+            "player の語末 /ɚ/ が joins の /d/ に連結 [ˈpleɪ.ɚ dʒɔɪnz] プレーヤー ジョインズ",
+            "joins の語末 /z/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/ で子音 /s/ の前 [ðə ˈsɜr...] ザ サーバー",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "エブリ プレーヤー ジョインズ ザ サーバー トゥ エクスピリエンス ザ ニュー マインクラフト スナップショット フィーチャーズ"
+        },
+        {
+          "en": "When a new player joins the faction, they receive armor and tools from the storage chest.",
+          "ja": "新しいプレイヤーが派閥に参加すると、ストレージチェストから防具とツールを受け取ります。",
+          "ipa": "/wɛn ə ˈnu ˈpleɪ.ɚ dʒɔɪnz ðə ˈfæk.ʃən ðeɪ rɪˈsiv ˈɑr.mɚ ənd ˈtulz frəm ðə ˈstɔr.ɪdʒ ˈtʃɛst/",
+          "linking": [
+            "joins の語末 /z/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/（2度出現）",
+            "receive の /v/ が armor の /ɑ/ に連結 [rɪˈsiv ˈɑr...]",
+            "from は弱形 /frəm/ または /frəm/"
+          ],
+          "kana": "ウェン ア ニュー プレーヤー ジョインズ ザ ファクション ゼイ リシーヴ アーマー アンド トゥールズ フラム ザ ストレッジ チェスト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "joined",
+      "ipa": "/dʒɔɪnd/",
+      "examples": [
+        {
+          "en": "Last month, I joined my friend's server and helped build a massive castle from scratch.",
+          "ja": "先月、友達のサーバーに参加して、ゼロから巨大な城を建てるのを手伝いました。",
+          "ipa": "/læst mʌnθ aɪ dʒɔɪnd maɪ frɛndz ˈsɜr.vɚ ənd hɛlpt bɪld ə məˈsɪv ˈkæs.əl frəm skrætʃ/",
+          "linking": [
+            "joined の語末 /d/ が my の /m/ に子音+子音で続く（連結なし）",
+            "helped の語末 /t/ が build の /b/ に未開放で続く [hɛlpt̚ bɪld]",
+            "a は弱形 /ə/"
+          ],
+          "kana": "ラスト マンス アイ ジョインド マイ フレンズ サーバー アンド ヘルプト ビルド ア マッシヴ キャッスル フラム スクラッチ"
+        },
+        {
+          "en": "Two experienced miners joined the redstone project and doubled the circuit's efficiency.",
+          "ja": "2人の経験豊かなマイナーがレッドストーンプロジェクトに参加し、回路の効率を2倍にしました。",
+          "ipa": "/tu ɪkˈspɪr.i.ənst ˈmaɪ.nɚz dʒɔɪnd ðə ˈrɛd.stoʊn ˈprɑ.dʒɛkt ənd ˈdʌ.bəld ðə ˈsɜr.kɪts ɪˈfɪʃ.ən.si/",
+          "linking": [
+            "miners の語末 /z/ が joined の /d/ に連結 [ˈmaɪ.nɚz dʒɔɪnd]",
+            "joined の語末 /d/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/（2度出現）",
+            "doubled の語末 /d/ が the の /ð/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "トゥー エクスピリエンスト マイナーズ ジョインド ザ レッドストーン プロジェクト アンド ダブルド ザ サーキッツ イフィシェンシー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞形",
+      "text": "joined",
+      "ipa": "/dʒɔɪnd/",
+      "examples": [
+        {
+          "en": "Once the teams have joined forces, they can tackle even the most dangerous dungeons.",
+          "ja": "チームが力を合わせたら、最も危険なダンジョンに対処することができます。",
+          "ipa": "/wʌns ðə timz həv dʒɔɪnd ˈfɔr.sɪz ðeɪ kæn ˈtæ.kəl ˈi.vən ðə moʊst ˈdeɪn.dʒə.rəs ˈdʌn.dʒənz/",
+          "linking": [
+            "teams の語末 /z/ が have の /h/ に子音+子音で続く（連結なし）",
+            "have は弱形 /həv/、その /v/ が joined の /d/ に連結 [həv dʒɔɪnd]",
+            "the は弱形 /ðə/（2度出現）",
+            "dangerous の語末 /s/ が dungeons の /d/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "ワンス ザ ティームズ ハヴ ジョインド フォーシーズ ゼイ キャン タックル イーブン ザ モウスト デインジャラス ダンジョンズ"
+        },
+        {
+          "en": "Players who have joined the competitive league must maintain strict building standards.",
+          "ja": "競争リーグに参加したプレイヤーは、厳密な建築基準を維持する必要があります。",
+          "ipa": "/ˈpleɪ.ɚz hu həv dʒɔɪnd ðə kəmˈpɛt.ɪ.tɪv liːg məst meɪnˈteɪn ˈstrɪkt ˈbɪl.dɪŋ ˈstæn.dɚdz/",
+          "linking": [
+            "who の語末 /u/ が have の /h/ に子音+子音で続く（連結なし）",
+            "have は弱形 /həv/、その /v/ が joined の /d/ に連結 [həv dʒɔɪnd]",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "プレーヤーズ フー ハヴ ジョインド ザ コンペティティヴ リーグ マスト メインテイン ストリクト ビルディング スタンダーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "joining",
+      "ipa": "/ˈdʒɔɪnɪŋ/",
+      "examples": [
+        {
+          "en": "Joining a multiplayer realm is the best way to collaborate with friends on creative projects.",
+          "ja": "マルチプレイヤーレルムに参加することは、友達とクリエイティブプロジェクトで協力するのに最も良い方法です。",
+          "ipa": "/ˈdʒɔɪnɪŋ ə ˈmʌl.ti.pleɪ.ɚ ˈrɛlm ɪz ðə bɛst weɪ tu koʊˈlæ.bə.reɪt wɪð frɛndz ɑn kriˈeɪ.tɪv ˈprɑ.dʒɛkts/",
+          "linking": [
+            "joining の語末 /ŋ/ が a の /ə/ に子音+母音で続く（連結なし）",
+            "realm の語末 /m/ が is の /ɪ/ に子音+母音で続く（連結なし）",
+            "is の /z/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/",
+            "on は弱形 /ɑn/"
+          ],
+          "kana": "ジョイニング ア マルティプレーヤー レルム イズ ザ ベスト ウェイ トゥ コラボレイト ウィズ フレンズ オン クリエイティヴ プロジェクツ"
+        },
+        {
+          "en": "Players are joining the server daily, increasing the total population to over five thousand members.",
+          "ja": "プレイヤーたちは毎日サーバーに参加し、総人口を5000人以上に増やしています。",
+          "ipa": "/ˈpleɪ.ɚz ɑr ˈdʒɔɪnɪŋ ðə ˈsɜr.vɚ ˈdeɪ.li ɪnˈkriːsɪŋ ðə ˈtoʊ.təl pɑ.pjəˈleɪ.ʃən tu ˈoʊ.vɚ ˈfaɪv ˈθaʊ.zənd ˈmɛm.bɚz/",
+          "linking": [
+            "are の /r/ が joining の /d/ に連結 [ɑr ˈdʒɔɪnɪŋ]",
+            "joining の語末 /ŋ/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the は弱形 /ðə/（2度出現）",
+            "population の語末 /n/ が to の /t/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "プレーヤーズ アー ジョイニング ザ サーバー デイリー インクリージング ザ トータル パピュレーション トゥ オウバー ファイヴ サウザンド メンバーズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "joins",
+      "ipa": "/dʒɔɪnz/",
+      "examples": [
+        {
+          "en": "The structural joins between stone blocks need reinforcement to survive explosions.",
+          "ja": "石ブロック間の構造的な接合部は、爆発に耐えるために補強が必要です。",
+          "ipa": "/ðə ˈstrʌk.tʃə.rəl dʒɔɪnz bɪˈtwiːn stoʊn blɑks niːd ˌrɛn.fɔrsˈmɛnt tu sərˈvaɪv ɪkˈsploʊ.ʒənz/",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /s/ の前",
+            "joins の語末 /z/ が between の /b/ に未開放で続く [dʒɔɪnz̚ bɪ...]",
+            "between の語末 /n/ が stone の /s/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "ザ ストラクチュラル ジョインズ ビトウィーン ストウン ブラックス ニード リインフォースメント トゥ サーヴァイヴ イクスプローションズ"
+        },
+        {
+          "en": "The joins in the castle walls were reinforced with iron bars to ensure maximum durability.",
+          "ja": "城の壁の接合部は、最大限の耐久性を確保するためにアイアンバーで補強されました。",
+          "ipa": "/ðə dʒɔɪnz ɪn ðə ˈkæs.əl wɔlz wɚ ˌrɛn.fɔrsˈmɛn.tɪd wɪð ˈaɪ.ɚn bɑrz tu ɛnˈʃɔr ˈmæk.sə.məm də.ˈrə.bɪl.ə.ti/",
+          "linking": [
+            "The は弱形 /ðə/（2度出現）",
+            "joins の語末 /z/ が in の /ɪ/ に連結 [dʒɔɪnz ɪn]",
+            "walls の語末 /z/ が were の /w/ に子音+子音で続く（連結なし）",
+            "were の /r/ が reinforced の /r/ に子音+子音で続く（連結なし）",
+            "with の /ð/ が iron の /aɪ/ に連結 [wɪð ˈaɪ...]"
+          ],
+          "kana": "ザ ジョインズ イン ザ キャッスル ウォールズ ワー リインフォースド ウィズ アイアン バーズ トゥ エンシュア マクシマム デューラビリティ"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 動詞原形）",
       "text": "will join",
