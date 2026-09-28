@@ -61,5 +61,124 @@
       "kana": "ユー カン ディスペンス ウィズ ウッデン ピックアックシーズ オンス ユー ハヴ ストーン トゥールズ"
     }
   ],
-  "forms": []
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "dispenses",
+      "ipa": "/dɪˈspɛnsɪz/",
+      "examples": [
+        {
+          "en": "A hopper dispenses apples one by one.",
+          "ja": "ホッパーは1つずつリンゴを配布する。",
+          "ipa": "/ə ˈhɑpɚ dɪˈspɛnsɪz ˈæpəlz wʌn baɪ wʌn/",
+          "linking": [
+            "「a」は冠詞で弱形 /ə/ ア",
+            "「dispenses apples」語末子音 /z/ が母音 /æ/ に連結 [dɪˈspɛnsɪzˈæpəlz]"
+          ],
+          "kana": "ア ハパー ディスペンシザプルズ ワン バイ ワン"
+        },
+        {
+          "en": "The dispenser dispenses ores into the chest.",
+          "ja": "ディスペンサーは鉱石をチェストに配布する。",
+          "ipa": "/ðə dɪˈspɛnsər dɪˈspɛnsɪz ˈɔrz ˈɪntu ðə tʃɛst/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ（2回）",
+            "「dispenses ores」語末子音 /z/ が母音 /ɔ/ に連結 [dɪˈspɛnsɪzˈɔrz]"
+          ],
+          "kana": "ザ ディスペンサー ディスペンシゾーズ イントゥ ザ チェスト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "dispensed",
+      "ipa": "/dɪˈspɛnst/",
+      "examples": [
+        {
+          "en": "I dispensed all the diamonds from my inventory.",
+          "ja": "私はインベントリからすべてのダイヤモンドを配布した。",
+          "ipa": "/aɪ dɪˈspɛnst ˈɔl ðə ˈdaɪmənds frəm maɪ ɪnˈvɛntəri/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「from」は機能語で弱形 /frəm/ フラム",
+            "「dispensed all」/d/ が /ɔ/ に続く、子音+母音だが特に強い連結はなし"
+          ],
+          "kana": "アイ ディスペンスト オール ザ ダイモンズ フラム マイ インヴェントリー"
+        },
+        {
+          "en": "The automated system dispensed seeds yesterday.",
+          "ja": "自動システムは昨日種をまいた。",
+          "ipa": "/ðə ˌɔtəˈmætɪd ˈsɪstəm dɪˈspɛnst sidz ˈjɛstərdi/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「automated」は /d/ で終わり、「system」は /s/ で始まるため、子音+子音でリンキングなし"
+          ],
+          "kana": "ザ オートメイティッド システム ディスペンスト シーズ イェスターディ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "dispensed",
+      "ipa": "/dɪˈspɛnst/",
+      "examples": [
+        {
+          "en": "Once dispensed, the items tumbled into the collection system.",
+          "ja": "配布されると、アイテムは収集システムに転がり込む。",
+          "ipa": "/wʌns dɪˈspɛnst, ðə ˈaɪtəmz ˈtʌmbəld ˈɪntu ðə kəˈlɛkʃən ˈsɪstəm/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ（2回）",
+            "「dispensed the」/d/ が /ðə/ に続く、子音+子音でリンキングなし",
+            "「into」は /ɪn/ で始まるため、items の /z/ と連結 [ˈaɪtəmzˈɪntu]"
+          ],
+          "kana": "ワンス ディスペンスト ザ アイテムズイントゥ ザ コレクション システム"
+        },
+        {
+          "en": "The supplies were dispensed evenly to each player.",
+          "ja": "各プレイヤーに備品が均等に配布された。",
+          "ipa": "/ðə səˈplaɪz wər dɪˈspɛnst ˈivənli tu itʃ ˈpleɪər/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「were」は弱形 /wər/ ワー",
+            "「to」は機能語で弱形 /tu/ トゥ（または /tə/ タ）",
+            "「dispensed evenly」/d/ が /ɪ/ に続く、子音+母音だが特に強い連結はなし"
+          ],
+          "kana": "ザ サプライズ ワー ディスペンスト イーブンリー トゥ イーチ プレイャー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "dispensing",
+      "ipa": "/dɪˈspɛnsɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is dispensing apples into the sorting system.",
+          "ja": "ホッパーはソートシステムにリンゴを配布中です。",
+          "ipa": "/ðə ˈhɑpɚ ɪz dɪˈspɛnsɪŋ ˈæpəlz ˈɪntu ðə ˈsɔrtɪŋ ˈsɪstəm/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ（2回）",
+            "「is」は弱形 /ɪz/ イズ",
+            "「dispensing apples」/ŋ/ が /æ/ に続く、子音+母音だが特に強い連結はなし"
+          ],
+          "kana": "ザ ハパー イズ ディスペンシング アプルズ イントゥ ザ ソーティング システム"
+        },
+        {
+          "en": "While dispensing items, the dispenser never jams.",
+          "ja": "アイテムを配布している間、ディスペンサーは詰まることがない。",
+          "ipa": "/waɪl dɪˈspɛnsɪŋ ˈaɪtəmz, ðə dɪˈspɛnsər ˈnɛvər dʒæmz/",
+          "linking": [
+            "「dispensing items」/ŋ/ が /aɪ/ に続く、子音+母音だが特に強い連結はなし",
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「never」は /ɛ/ で終わり、「jams」は /dʒ/ で始まるため、母音+子音でリンキングなし"
+          ],
+          "kana": "ワイル ディスペンシング アイテムズ ザ ディスペンサー ネヴァー ジャムズ"
+        }
+      ]
+    }
+  ]
 }
