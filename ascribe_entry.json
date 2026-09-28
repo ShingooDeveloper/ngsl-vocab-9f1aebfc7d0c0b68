@@ -57,5 +57,99 @@
       ],
       "kana": "サム プレイアーズ アスクライブ ゼア サクセス タ ファインディング ザ パーフェクト シード"
     }
+  ],
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has ascribed",
+      "ipa": "/həz əˈskraɪbd/",
+      "examples": [
+        {
+          "en": "The player has ascribed this glitch to a faulty mod.",
+          "ja": "プレイヤーはこのグリッチを不具合のあるモッドに帰属させている。",
+          "ipa": "[ðə ˈpleɪɚ həz əˈskraɪbd ðɪs ɡlɪtʃ tə ə ˈfɔːlti ˈmɑd]",
+          "linking": [
+            "has は弱形 /həz/",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/",
+            "a は弱形 /ə/"
+          ],
+          "kana": "ザ プレイアー ハズ アスクライブド ディス グリッチ タ ア フォーティ マド"
+        },
+        {
+          "en": "Many builders have ascribed their structural failures to poor planning.",
+          "ja": "多くのビルダーたちは彼らの構造的失敗を不十分な計画に帰属させている。",
+          "ipa": "[ˈmɛni ˈbɪldɚz həv əˈskraɪbd ðɛɚ strəkˈtʃɜːrəl ˈfeɪljɚz tə pʊɹ ˈplænɪŋ]",
+          "linking": [
+            "have は弱形 /həv/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "メニ ビルダーズ ハヴ アスクライブド ゼア ストラクチュアラル フェイリャーズ タ プアー プランニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had ascribed",
+      "ipa": "/həd əˈskraɪbd/",
+      "examples": [
+        {
+          "en": "Before the patch, players had ascribed lag to inadequate server RAM.",
+          "ja": "パッチ前に、プレイヤーたちはラグを不十分なサーバーRAMに帰属させていた。",
+          "ipa": "[bɪˈfɔɹ ðə pætʃ̚ ˈpleɪɚz həd əˈskraɪbd læɡ tə ɪˈnædɪkwət ˈsɚvɚ ˈræm]",
+          "linking": [
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/",
+            "patch の語末 /tʃ/ は未開放 [tʃ̚]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ビフォア ザ パッチ プレイアーズ ハド アスクライブド ラッグ タ インアディクウィット サーバー ラム"
+        },
+        {
+          "en": "Engineers had ascribed the crash to insufficient memory before implementing the fix.",
+          "ja": "エンジニアたちは修正を実装する前に、クラッシュを不十分なメモリに帰属させていた。",
+          "ipa": "[ˈɛndʒɪˌnɪɹz həd əˈskraɪbd ðə kræʃ̚ tə ɪnˈsəfɪʃənt ˈmɛməri bɪˈfɔɹ ɪmpləˈmɛntɪŋ ðə ˈfɪks]",
+          "linking": [
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/",
+            "crash の語末 /ʃ/ は未開放 [ʃ̚]",
+            "to は弱形 /tə/"
+          ],
+          "kana": "エンジニアーズ ハド アスクライブド ザ クラッシュ タ インサフィシャント メモリ ビフォア インプリメンティング ザ フィックス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been ascribing",
+      "ipa": "/həz bɪn əˈskraɪbɪŋ/",
+      "examples": [
+        {
+          "en": "Server admins have been ascribing recent downtimes to database issues.",
+          "ja": "サーバー管理者たちは最近のダウンタイムをデータベースの問題に帰属させ続けている。",
+          "ipa": "[ˈsɚvɚ ˈɛdmɪnz həv bɪn əˈskraɪbɪŋ ˈriːsənt ˈdaʊntaɪmz tə ˈdeɪtəˌbeɪs ˈɪʃuːz]",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "サーバー エドミンズ ハヴ ビン アスクライビング リーセント ダウンタイムズ タ データベース イシューズ"
+        },
+        {
+          "en": "Players have been ascribing all their deaths to hostile mobs.",
+          "ja": "プレイヤーたちはすべての死亡を敵対的なモブに帰し続けている。",
+          "ipa": "[ˈpleɪɚz həv bɪn əˈskraɪbɪŋ ɔːl ðɛɚ dɛθ̚z tə ˈhɑstaɪl ˈmɑbz]",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "プレイアーズ ハヴ ビン アスクライビング オール ゼア デス タ ハスタイル マッブズ"
+        }
+      ]
+    }
   ]
 }
