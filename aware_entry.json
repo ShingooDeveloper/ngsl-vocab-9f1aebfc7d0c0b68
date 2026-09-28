@@ -46,29 +46,28 @@
   ],
   "idioms": [
     {
-      "idiom": "be aware of",
+      "idiom": "be aware of ~",
       "ja": "～に気づいている、～を認識している",
       "example": "You should always be aware of your health bar while mining.",
       "example_ja": "採掘中は常に自分のヘルスバーに気をつけるべきです。",
       "ipa": "/juː ʃʊd ˈɔːlweɪz bi əˈwɛɹ əv jɔːr ˈhɛlθ bɑːr waɪl ˈmaɪnɪŋ/",
       "linking": [
-        "should の末尾 /d/ が always の初頭 /ɔ/ に連結する... いや /d/ + /ɔ/ は子音+母音で可能だが、always は /ˈɔːlweɪz/ で弱化して /ɔːl/ という可能性。",
-        "be の末尾 /i/ が aware の初頭 /ə/ に続く（母音+母音）。",
-        "aware の末尾 /r/ が of の初頭 /ə/ に連結 [əwɛɹəv]。of は弱形 /əv/。",
-        "mining の末尾 /ŋ/ は音節末。"
+        "should の末尾子音 /d/ が always の初頭母音 /ɔː/ に連結し、[ʃʊd ˈɔːlweɪz] → シュッド オールウェイズ",
+        "aware の末尾 /r/ が of の初頭 /ə/ に続き、of は弱形 /əv/ で [əwɛɹəv] → ウェアラヴ",
+        "be /bi/ は機能語で、aware の初頭に続く"
       ],
       "kana": "ユー シュッド オールウェイズ ビー ウェアー アヴ ユア ヘルス バー ホワイル マイニング"
     },
     {
-      "idiom": "be aware that",
+      "idiom": "be aware that ~",
       "ja": "～であることに気づいている、～であることを認識している",
       "example": "Be aware that hostile mobs spawn in the nether.",
       "example_ja": "ネザーに敵対的なモブがスポーンすることを認識してください。",
       "ipa": "/bi əˈwɛɹ ðæt ˈhoʊstaɪl ˈmɑbz ˈspɔːn ɪn ðə ˈnɛðɚ/",
       "linking": [
-        "be の末尾 /i/ が aware の初頭 /ə/ に続く（母音+母音）。",
-        "aware の末尾 /r/ が that の初頭 /ð/ に続く（子音+子音）。",
-        "spawn の末尾 /n/ が in の初頭 /ɪ/ に連結 [ˈspɔːnɪn] スポーニン。"
+        "be の末尾母音 /i/ と aware の初頭弱母音 /ə/ が続く（母音+母音で連結ではなく続く）",
+        "aware の末尾 /r/ が that の初頭 /ð/ に続く（子音+子音なので連結なし）",
+        "spawn の末尾子音 /n/ が in の初頭母音 /ɪ/ に連結し、[ˈspɔːnɪn] → スポーニン"
       ],
       "kana": "ビー ウェアー ザット ホースタイル モブズ スポーン イン ザ ネザー"
     }
