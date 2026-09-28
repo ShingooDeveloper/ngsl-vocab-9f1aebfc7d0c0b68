@@ -193,6 +193,102 @@
           "kana": "ウィー アー ヤーニング タ ディフィート ザ エンダー ドラゴン エン アチーブ アワー グレイテスト ドリーム"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will yearn",
+      "ipa": "/wɪl ˈjɜrn/",
+      "examples": [
+        {
+          "en": "I will yearn to build our dream fortress in the Overworld.",
+          "ja": "私はオーバーワールドに私たちの夢の要塞を建てることを熱望するでしょう。",
+          "ipa": "/aɪ wɪl ˈjɜrn tu ˈbɪld ˈaʊɚ ˈdrim ˈfɔrtrəs ɪn ðə ˈoʊvɚˌwɜrld/",
+          "linking": [
+            "will yearn: will の末尾 /l/ が yearn の初頭 /j/ に連結 [wɪl ˈjɜrn]",
+            "yearn to: yearn の末尾 /n/ が to の弱形 /tə/ に連結 [ˈjɜrn tə] ヤーン タ",
+            "in the: in の末尾 /n/ が the の弱形 /ðə/ に連結 [ɪn ðə] イン ザ",
+            "the Overworld: the は弱形 /ðə/、Overworld に連結 [ðə ˈoʊvɚˌwɜrld] ザ オーバーワールド"
+          ],
+          "kana": "アイ ウィル ヤーン トゥ ビルド アワー ドリーム フォートレス イン ザ オーバーワールド"
+        },
+        {
+          "en": "They will yearn for the emeralds and diamonds hidden deep in the mines.",
+          "ja": "彼らは鉱山の深くに隠されたエメラルドとダイヤモンドを熱望するでしょう。",
+          "ipa": "/ðeɪ wɪl ˈjɜrn fɔr ðɪ ˌɛməˈrɑldz ænd ˈdaɪməndz ˈhɪdən ˈdip ɪn ðə ˈmaɪnz/",
+          "linking": [
+            "will yearn: will の末尾 /l/ が yearn の初頭 /j/ に連結 [wɪl ˈjɜrn]",
+            "for the: for が弱形 /fɚ/、the は弱形 /ðɪ/ に連結 [fɚ ðɪ] ファー ディ",
+            "in the: in の末尾 /n/ が the の弱形 /ðə/ に連結 [ɪn ðə] イン ザ",
+            "diamonds and: diamonds の末尾 /z/ が and の初頭 /æ/ に。and は弱形 /ənd/ [ˈdaɪməndz ənd] ダイモンズ アン"
+          ],
+          "kana": "ザイ ウィル ヤーン ファー ディ エメラルズ エン ダイモンズ ヒドン ディープ イン ザ マインズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be yearning",
+      "ipa": "/wɪl bi ˈjɜrnɪŋ/",
+      "examples": [
+        {
+          "en": "While you battle the Wither, I will be yearning to protect you from harm.",
+          "ja": "あなたがウィザーと戦っている間、私はあなたを傷から守りたいと強く願っているでしょう。",
+          "ipa": "/ˈwaɪl ju ˈbætəl ðə ˈwɪðɚ aɪ wɪl bi ˈjɜrnɪŋ tu prəˈtɛkt ju frəm ˈhɑrm/",
+          "linking": [
+            "will be: will の末尾 /l/ が be の初頭 /b/ に。be は弱形 /bɪ/ [wɪl bɪ] ウィル ビ",
+            "be yearning: be の末尾 /i/ が yearning /j/ に [bi ˈjɜrnɪŋ] ビー ヤーニング",
+            "to protect: to は弱形 /tə/、protect に連結 [tə prəˈtɛkt]",
+            "from harm: from が弱形 /frəm/ または /frʌm/、harm に連結 [frəm ˈhɑrm] フラム ハーム"
+          ],
+          "kana": "ホワイル ユー バットル ザ ウィザー アイ ウィル ビ ヤーニング トゥ プロテクト ユー フラム ハーム"
+        },
+        {
+          "en": "The adventurers will be yearning to reach the End when the sun sets tonight.",
+          "ja": "今夜日が沈むとき、冒険者たちはエンドに到達したいと熱望しているでしょう。",
+          "ipa": "/ðə ˌædvənˈtʃɚɚz wɪl bi ˈjɜrnɪŋ tu ˈritʃ ðiː ˈɛnd wɛn ðə ˈsʌn ˈsɛts təˈnaɪt/",
+          "linking": [
+            "will be: will の末尾 /l/ が be の弱形 /bɪ/ に連結 [wɪl bɪ]",
+            "be yearning: be /bi/ が yearning /j/ に [bi ˈjɜrnɪŋ]",
+            "to reach: to は弱形 /tə/、reach に連結 [tə ˈritʃ]",
+            "the End: the は弱形 /ðiː/、End に連結 [ðiː ˈɛnd] ザィー エンド"
+          ],
+          "kana": "ザ アドベンチャラーズ ウィル ビ ヤーニング トゥ リーチ ザィー エンド ウェン ザ サン セッツ トゥナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have yearned",
+      "ipa": "/wɪl həv ˈjɜrnd/",
+      "examples": [
+        {
+          "en": "By the time we find the stronghold, we will have yearned for it for months.",
+          "ja": "要塞を見つけるまでに、私たちは数ヶ月間それを熱望しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈfaɪnd ðə ˈstrɔŋˌhoʊld wi wɪl həv ˈjɜrnd fɔr ɪt fɔr ˈmʌnθz/",
+          "linking": [
+            "will have: will の末尾 /l/ が have の弱形 /həv/ に連結 [wɪl həv] ウィル ハヴ",
+            "have yearned: have の末尾 /v/ が yearned の初頭 /j/ に連結 [həv ˈjɜrnd] ハヴ ヤーンド",
+            "for it: for が弱形 /fɚ/、it に連結 [fɚ ɪt] ファー イット",
+            "for months: for が弱形 /fɚ/、months に連結 [fɚ ˈmʌnθz] ファー マンスズ"
+          ],
+          "kana": "バイ ザ タイム ウィー ファインド ザ ストロングホールド ウィー ウィル ハヴ ヤーンド フォー イット フォー マンスズ"
+        },
+        {
+          "en": "After we complete the quest, Steve will have yearned and finally achieved his greatest goal.",
+          "ja": "探求を完了した後、スティーブは熱望して、ついに彼の最大の目標を達成しているでしょう。",
+          "ipa": "/ˈæftɚ wi kəmˈplit ðə ˈkwɛst ˈstiv wɪl həv ˈjɜrnd ænd ˈfaɪnəli əˈtʃivd hɪz ˈɡreɪtəst ˈɡoʊl/",
+          "linking": [
+            "will have: will の末尾 /l/ が have の弱形 /həv/ に連結 [wɪl həv]",
+            "have yearned: have の末尾 /v/ が yearned の初頭 /j/ に連結 [həv ˈjɜrnd] ハヴ ヤーンド",
+            "yearned and: yearned の末尾 /d/ が and の初頭 /æ/ に。and は弱形 /ənd/ [ˈjɜrnd ənd] ヤーンド アン",
+            "greatest goal: greatest の末尾 /t/ が goal /g/ に。未開放 /t/ に続く /g/ [ˈɡreɪtəst ˈɡoʊl] グレイテスト ゴール"
+          ],
+          "kana": "アフター ウィー コンプリート ザ クエスト スティーヴ ウィル ハヴ ヤーンド エン ファイナリー アチーブド ヒズ グレイテスト ゴール"
+        }
+      ]
     }
   ]
 }
