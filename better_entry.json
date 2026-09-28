@@ -259,7 +259,97 @@
           "kana": "ザ プレイアーズ ハド ビン ベタリング ゼア マイニング テクニークス オール シーズン ビフォア ザ ワイプ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will better",
+      "ipa": "/wɪl ˈbɛɾə/",
+      "examples": [
+        {
+          "en": "Diamond armor will better your protection against mobs.",
+          "ja": "ダイヤの防具はモブからの防御を改善するでしょう。",
+          "ipa": "/ˈdaɪəmənd ˈɑrmər wɪl ˈbɛɾə jɔr prəˈtɛkʃən əˈɡɛnst ˈmoʊbz/",
+          "linking": [
+            "armor の末尾 /r/ が will の初頭 /w/ に [ˈɑrmər wɪl]",
+            "better の中のt はフラップ化 [ˈbɛɾə]",
+            "the は弱形 /ðə/（against に含まれる）"
+          ],
+          "kana": "ダイアモンド アーマー ウィル ベラー ユォア プロテクション アゲンスト モウブズ"
+        },
+        {
+          "en": "I'll better our mining speed by upgrading to diamond tools.",
+          "ja": "ダイヤの道具にアップグレードすることで、採掘速度を改善します。",
+          "ipa": "/aɪl ˈbɛɾə ˈaʊɚ ˈmaɪnɪŋ ˈspid baɪ əpˈɡreɪdɪŋ tu ˈdaɪəmənd ˈtulz/",
+          "linking": [
+            "better の中のt はフラップ化 [ˈbɛɾə]",
+            "our の末尾 /r/ が mining の初頭 /m/ に続く [ˈaʊɚ ˈmaɪnɪŋ]",
+            "to は弱形 /tu/"
+          ],
+          "kana": "アイル ベラー アワー マイニング スピード バイ アップグレイディング トゥ ダイアモンド トゥールズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be bettering",
+      "ipa": "/wɪl bi ˈbɛɾərɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be bettering our defenses all week long.",
+          "ja": "1週間ずっと防御を改善し続けるでしょう。",
+          "ipa": "/wil bi ˈbɛɾərɪŋ ɑɚ dɪˈfɛnsɪz ɔl ˈwik ˈlɔŋ/",
+          "linking": [
+            "be の末尾 /i/ が bettering の初頭 /b/ に連結 [bi ˈbɛɾərɪŋ]",
+            "our の末尾 /r/ が defenses の初頭 /d/ に [ˈaʊɚ dɪˈfɛnsɪz]",
+            "bettering の末尾 /ŋ/ が all の初頭 /ɔ/ に続く（鼻音+母音）"
+          ],
+          "kana": "ウィル ビー ベラリング アワー ディフェンシズ オール ウィーク ロング"
+        },
+        {
+          "en": "You'll be bettering your skills through practice and experience.",
+          "ja": "練習と経験を通じてスキルを改善し続けるでしょう。",
+          "ipa": "/jʊl bi ˈbɛɾərɪŋ jɔr skɪlz θru ˈpræktɪs ænd ɪkˈspɪriəns/",
+          "linking": [
+            "be の末尾 /i/ が bettering の初頭 /b/ に連結 [bi ˈbɛɾərɪŋ]",
+            "your の末尾 /r/ が skills の初頭 /s/ に [jɔr ˈskɪlz]",
+            "and は弱形 /ənd/ で experience に続く"
+          ],
+          "kana": "ユル ビー ベラリング ユォア スキルズ スルー プラックティス エン イクスピアリエンス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have bettered",
+      "ipa": "/wɪl həv ˈbɛtərd/",
+      "examples": [
+        {
+          "en": "By next month, we will have bettered our base significantly.",
+          "ja": "来月までに、ベースを大幅に改善しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ wi wɪl həv ˈbɛtərd ɑɚ ˈbeɪs sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "have は弱形 /həv/、bettered の /b/ に連結 [həv ˈbɛtərd]",
+            "bettered の中のt はフラップ化 [ˈbɛtərd]",
+            "base の末尾 /s/ が significantly の初頭 /s/ に続く（同子音の繰り返し）"
+          ],
+          "kana": "バイ ネクスト マンス ウィ ウィル ハヴ ベタード アワー ベース シグニフィカントリー"
+        },
+        {
+          "en": "They will have bettered their equipment before facing the final boss.",
+          "ja": "最終ボスに直面する前に、装備を改善しているでしょう。",
+          "ipa": "/ðeɪ wɪl həv ˈbɛtərd ðɛr ɪˈkwɪpmənt bɪˈfɔr ˈfeɪsɪŋ ðə ˈfaɪnəl ˈbɔs/",
+          "linking": [
+            "have は弱形 /həv/、bettered の /b/ に連結 [həv ˈbɛtərd]",
+            "bettered の中のt はフラップ化 [ˈbɛtərd]",
+            "facing の末尾 /ŋ/ が the の初頭 /ð/ に続く（鼻音+子音）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ウィル ハヴ ベタード ザー イクイップメント ビフォア フェイシング ザ ファイナル ボス"
+        }
+      ]
     }
-  ],
-  "forms": []
+  ]
 }
