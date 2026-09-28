@@ -302,6 +302,102 @@
           "kana": "ザ バイオーム ハド ビン ヴァージング オン エンヴァイロンメンタル コラプス ホェン ザ レイン スターティッド トゥ フォール"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has verged",
+      "ipa": "/həz vɝdʒd/",
+      "examples": [
+        {
+          "en": "Our mining operations have verged on exhausting this ore vein.",
+          "ja": "私たちの採鉱活動は、この鉱脈を採尽くす危機に瀕しています。",
+          "ipa": "/ˈaʊɹ ˈmaɪnɪŋ ˌɑpəˈreɪʃənz həv vɝdʒd ɑn ɪɡˈzɔstɪŋ ðɪs ˈɔɹ ˈveɪn/",
+          "linking": [
+            "mining operations → /ŋ/ が operations に [ˈmaɪnɪŋ ˌɑpə] マイニング アペ",
+            "operations have → /nz/ が have に、have は弱形 /həv/ [ˌɑpəˈreɪʃənz həv] オペレーションズ ハヴ",
+            "have verged → /v/ が verged に連結 [həv vɝdʒd] ハヴ ヴァージド",
+            "verged on → /d/ が on に連結 [vɝdʒd ɑn] ヴァージド オン"
+          ],
+          "kana": "アワー マイニング オペレーションズ ハヴ ヴァージド オン イグゾースティング ディス オア ヴェイン"
+        },
+        {
+          "en": "The light levels in this cave system have verged on pure darkness.",
+          "ja": "このケーブシステムの光レベルは完全な暗闇に近づいています。",
+          "ipa": "/ðə ˈlaɪt ˈlɛvəlz ɪn ðɪs ˈkeɪv ˈsɪstəm həv vɝdʒd ɑn ˈpjʊɹ ˈdɑɹknəs/",
+          "linking": [
+            "light levels → /t/ が levels に連結 [ˈlaɪt ˈlɛ] ライト レ",
+            "levels in → /z/ が in に連結 [ˈlɛvəlz ɪn] レヴェルズ イン",
+            "have verged → /v/ が verged に連結 [həv vɝdʒd] ハヴ ヴァージド",
+            "verged on → /d/ が on に連結 [vɝdʒd ɑn] ヴァージド オン"
+          ],
+          "kana": "ザ ライト レヴェルズ イン ディス ケイヴ システム ハヴ ヴァージド オン ピュア ダークネス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had verged",
+      "ipa": "/həd vɝdʒd/",
+      "examples": [
+        {
+          "en": "The terrain had verged on complete unnavigability before we carved pathways.",
+          "ja": "私たちが道を切り開く前に、地形は完全に通行不可能に近かった。",
+          "ipa": "/ðə ˈtɛreɪn həd vɝdʒd ɑn kəmˈplit ˌʌnnəˈvɪɡəbɪlɪti bɪˈfɔɹ wi ˈkɑɹvd ˈpæðweɪz/",
+          "linking": [
+            "terrain had → /n/ が had に、had は弱形 /həd/ [ðə ˈtɛreɪn həd] ザ テレイン ハド",
+            "had verged → /d/ が verged に連結 [həd vɝdʒd] ハド ヴァージド",
+            "verged on → /d/ が on に連結 [vɝdʒd ɑn] ヴァージド オン",
+            "before we → /r/ が we に連結 [bɪˈfɔɹ wi] ビ フォー ウィ"
+          ],
+          "kana": "ザ テレイン ハド ヴァージド オン コンプリート アンナヴィガビリティー ビフォー ウィ カーヴド パスウェイズ"
+        },
+        {
+          "en": "Our supplies had verged on depletion when we discovered the new cache.",
+          "ja": "新しいキャッシュを発見したとき、私たちの物資はまさに底を尽きかけていました。",
+          "ipa": "/ˈaʊɹ səˈplaɪz həd vɝdʒd ɑn dɪˈpliʃən wɛn wi dɪsˈkʌvəɹd ðə ˈnu ˈkæʃ/",
+          "linking": [
+            "supplies had → /z/ が had に、had は弱形 /həd/ [səˈplaɪz həd] サプライズ ハド",
+            "had verged → /d/ が verged に連結 [həd vɝdʒd] ハド ヴァージド",
+            "verged on → /d/ が on に連結 [vɝdʒd ɑn] ヴァージド オン",
+            "when we → /n/ が we に連結 [wɛn wi] ホェン ウィ"
+          ],
+          "kana": "アワー サプライズ ハド ヴァージド オン ディプリーション ホェン ウィ ディスカヴァード ザ ニュー キャッシュ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been verging",
+      "ipa": "/həz bɪn ˈvɝdʒɪŋ/",
+      "examples": [
+        {
+          "en": "The water level has been verging on overflow since we dammed the river.",
+          "ja": "川をせき止めて以来、水位はあふれるギリギリの状態が続いています。",
+          "ipa": "/ðə ˈwɔtər ˈlɛvəl həz bɪn ˈvɝdʒɪŋ ɑn ˈoʊvərˌfloʊ sɪns wi ˈdæmd ðə ˈrɪvər/",
+          "linking": [
+            "water level → /r/ が level に連結 [ˈwɔtər ˈlɛ] ウォーター レ",
+            "level has → /l/ が has に、has は弱形 /həz/ [ˈlɛvəl həz] レヴェル ハズ",
+            "has been → /z/ が been に、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "been verging → /n/ が verging に連結 [bɪn ˈvɝ] ビン ヴァー"
+          ],
+          "kana": "ザ ウォーター レヴェル ハズ ビン ヴァージング オン オーバーフロー シンス ウィ ダムド ザ リヴァー"
+        },
+        {
+          "en": "Our redstone contraptions have been verging toward greater complexity.",
+          "ja": "私たちのレッドストーン装置は、ますます複雑さに向かっています。",
+          "ipa": "/ˈaʊɹ ˈrɛdˌstoʊn kənˈtræpʃənz həv bɪn ˈvɝdʒɪŋ təˈwɔɹd ˈɡreɪtər kəmˈplɛksɪti/",
+          "linking": [
+            "redstone contraptions → /n/ が contraptions に [ˈrɛdˌstoʊn kən] レッドストウン コン",
+            "contraptions have → /nz/ が have に、have は弱形 /həv/ [kənˈtræpʃənz həv] コントラプションズ ハヴ",
+            "have been → /v/ が been に、been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "been verging → /n/ が verging に連結 [bɪn ˈvɝ] ビン ヴァー"
+          ],
+          "kana": "アワー レッドストウン コントラプションズ ハヴ ビン ヴァージング タワード グレーター コンプレクシティー"
+        }
+      ]
     }
   ]
 }
