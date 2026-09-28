@@ -132,6 +132,103 @@
           "kana": "ゼイ ウル ハヴ シンパサイズッ ウィザス バイ ザ タイム ウィ リビルド アワー ベイス アフター ザ レイド"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sympathized",
+      "ipa": "/həz ˈsɪmpəθaɪzd/",
+      "examples": [
+        {
+          "en": "Steve has sympathized with players who lost their base to a creeper explosion.",
+          "ja": "スティーブはクリーパー爆発で拠点を失ったプレイヤーに同情した。",
+          "ipa": "/stiːv həz ˈsɪmpəθaɪzd wɪð ˈpleɪərz hu lɔst ðɛr ˈbeɪs tə ə ˈkriːpər ɪkˈsploʊʒən/",
+          "linking": [
+            "Steve has → /v/ と /h/ が続く (子音+子音)、has は弱形 /həz/ [stiːv həz] スティーヴ ハズ",
+            "has sympathized → /z/ と /s/ が続く (子音+子音、連結なし) [həz ˈsɪmpəθaɪzd] ハズ シンパサイズド",
+            "with players → /ð/ (with) が /p/ (players) に子音+子音で続く（連結なし）[wɪð ˈpleɪərz] ウィズ プレイヤーズ",
+            "to a → /u/ が弱形 /ə/ に連結 [tə ə ˈkriːpər] タ ア クリーパー"
+          ],
+          "kana": "スティーヴ ハズ シンパサイズド ウィズ プレイヤーズ フー ロスト ゼア ベイス タ ア クリーパー エクスプロウジョン"
+        },
+        {
+          "en": "The community has sympathized with newcomers struggling through their first night.",
+          "ja": "コミュニティは最初の夜を生き残ろうと苦労している新しいプレイヤーに同情した。",
+          "ipa": "/ðə kəˈmjuːnəti həz ˈsɪmpəθaɪzd wɪð ˈnjuːˌkəmərz ˈstrʌɡəlɪŋ θru ðɛr ˈfɜrst naɪt/",
+          "linking": [
+            "the が弱形 /ðə/ で community に連結 [ðə kəˈmjuːnəti] ザ コミューニティ",
+            "community has → /i/ と /h/ が続く (子音+子音)、has は弱形 /həz/ [ti həz] ティ ハズ",
+            "has sympathized → /z/ と /s/ が続く (子音+子音、連結なし)",
+            "through の語末 /u/ が the の /ð/ に子音+子音で続く（連結なし）[θru ðɛr] スルー ゼア"
+          ],
+          "kana": "ザ コミューニティ ハズ シンパサイズド ウィズ ニューカマーズ ストラゴリング スルー ゼア ファースト ナイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sympathized",
+      "ipa": "/həd ˈsɪmpəθaɪzd/",
+      "examples": [
+        {
+          "en": "By the time the Ender Dragon appeared, we had sympathized with our team about their earlier setbacks.",
+          "ja": "エンダードラゴンが現れるまでに、私たちはチームの以前の挫折に同情していた。",
+          "ipa": "/baɪ ðə taɪm ðɪ ˈɛndər ˈdræɡən əˈpɪrd wi həd ˈsɪmpəθaɪzd wɪð aʊɚ ˈtim əˈbaʊt ðɛr ˈɜrliər ˈsɛtˌbæks/",
+          "linking": [
+            "the が弱形 /ðə/ で time に連結 [ðə taɪm] ザ タイム",
+            "time の語末 /m/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the が弱形 /ðə/ で Ender に連結 [ðə ˈɛndər] ザ エンダー",
+            "had は弱形 /həd/ で sympathized に連結 [həd ˈsɪmpəθaɪzd] ハド シンパサイズド",
+            "about の語末 /t/ が未開放で their の /ð/ に続く [əˈbaʊt̚ ðɛr] アバウト ゼア"
+          ],
+          "kana": "バイ ザ タイム ザ エンダー ドラゴン アピアード ウィ ハド シンパサイズド ウィズ アワー チーム アバウト ゼア アーリアー セットバックス"
+        },
+        {
+          "en": "They had sympathized with him before the redstone contraption failed completely.",
+          "ja": "レッドストーン装置が完全に失敗する前に、彼らは彼に同情していた。",
+          "ipa": "/ðeɪ həd ˈsɪmpəθaɪzd wɪð hɪm bɪˈfɔr ðə ˈrɛdˌstoʊn kənˈtræpʃən ˈfeɪld kəmˈpliːtli/",
+          "linking": [
+            "had は弱形 /həd/ で sympathized に連結 [həd ˈsɪmpəθaɪzd] ハド シンパサイズド",
+            "sympathized の語末 /d/ が with の /w/ に未開放で続く [ˈsɪmpəθaɪzd̚ wɪð] シンパサイズッ ウィズ",
+            "before の語末 /r/ が the の /ð/ に子音+子音で続く（連結なし）",
+            "the が弱形 /ðə/ で redstone に連結 [ðə ˈrɛdˌstoʊn] ザ レッドストーン"
+          ],
+          "kana": "ゼイ ハド シンパサイズド ウィズ ヒム ビフォア ザ レッドストーン コントラップション フェイルド コンプリーティー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been sympathizing",
+      "ipa": "/həz bɪn ˌsɪmpəθaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "Steve has been sympathizing with his friend about the failed mining operation all week.",
+          "ja": "スティーブは失敗した採掘作業についての友人への同情を一週間続けている。",
+          "ipa": "/stiːv həz bɪn ˌsɪmpəθaɪzɪŋ wɪð hɪz frɛnd əˈbaʊt ðə ˈfeɪld ˈmaɪnɪŋ ˌɑpərˈeɪʃən ɔl wik/",
+          "linking": [
+            "Steve has → /v/ と /h/ が続く (子音+子音)、has は弱形 /həz/ [stiːv həz] スティーヴ ハズ",
+            "has been → /z/ と /b/ が続く (子音+子音、連結なし)、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "with his → /ð/ (with) が /h/ (his) に子音+子音で続く（連結なし）[wɪð hɪz] ウィズ ヒズ",
+            "about the → /t/ が未開放で the の /ð/ に続く、the は弱形 /ðə/ [əˈbaʊt̚ ðə] アバウト ザ"
+          ],
+          "kana": "スティーヴ ハズ ビン シンパサイジング ウィズ ヒズ フレンド アバウト ザ フェイルド マイニング オペレイション オール ウィーク"
+        },
+        {
+          "en": "The players have been sympathizing with each other about the recent mob attacks.",
+          "ja": "プレイヤーたちは最近のモブ攻撃についてお互いに同情を続けている。",
+          "ipa": "/ðə ˈpleɪərz həv bɪn ˌsɪmpəθaɪzɪŋ wɪð iːtʃ ˈʌðər əˈbaʊt ðə rɪˈsɛnt mɑb əˈtæks/",
+          "linking": [
+            "the が弱形 /ðə/ で players に連結 [ðə ˈpleɪərz] ザ プレイヤーズ",
+            "have は弱形 /həv/ で been に連結 [həv bɪn] ハヴ ビン",
+            "been の語末 /n/ が sympathizing の /s/ に子音+子音で続く（連結なし）[bɪn ˌsɪmpəθaɪzɪŋ] ビン シンパサイジング",
+            "each の語末 /tʃ/ が other の /ʌ/ に子音+子音で続く（連結なし）[iːtʃ ˈʌðər] イーチ アザー"
+          ],
+          "kana": "ザ プレイヤーズ ハヴ ビン シンパサイジング ウィズ イーチ アザー アバウト ザ リセント モブ アタックス"
+        }
+      ]
     }
   ]
 }
