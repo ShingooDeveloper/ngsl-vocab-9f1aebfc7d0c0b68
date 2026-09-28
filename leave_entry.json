@@ -92,6 +92,33 @@
       "kana": "アイ オールウェイズ リーヴ トーチィズ ァロング ダ パス タ マーク ダ ウェイ バック タ ダ ベイス"
     }
   ],
+  "idioms": [
+    {
+      "idiom": "leave for 〜",
+      "ja": "〜に向けて出発する",
+      "example": "We're leaving for the desert and searching for ancient temples.",
+      "example_ja": "砂漠に向けて出発して、古い寺院を探しています。",
+      "ipa": "/wɪr ˈliːvɪŋ fɚ ðə ˈdɛzɚt ənd ˈsɝtʃɪŋ fɚ ˈeɪʃənt ˈtɛmpəlz/",
+      "linking": [
+        "for the → for は弱形 /fɚ/, the は弱形 /ðə/",
+        "desert and → desert の語末子音 /t/ が and の母音 /ə/ に連結 [ˈdɛzɚtən] デザートゥエン"
+      ],
+      "kana": "ウィアー リーヴィング ファー ダ デザートゥエン サーチング ファー エイシェント テンプルズ"
+    },
+    {
+      "idiom": "leave A for B",
+      "ja": "BのためにAを保存する、AをBのためにとっておく",
+      "example": "Leave the diamonds for the final boss fight.",
+      "example_ja": "最後のボス戦のためにダイヤをとっておく。",
+      "ipa": "[liːv ðə ˈdaɪməndz fɚ ðə ˈfaɪnəl bɑːs faɪt]",
+      "linking": [
+        "the → 弱形 /ðə/（複数回出現）",
+        "for は機能語で弱形 /fɚ/ に弱化",
+        "for the → for の語末 /r/ が母音 /ə/ に連結 [fɚ ðə] ファ ザ"
+      ],
+      "kana": "リーヴ ザ ダイマンズ ファ ザ ファイナル ボース ファイト"
+    }
+  ],
   "substitutions": [
     {
       "base": "They decided to leave for the coast early tomorrow morning.",

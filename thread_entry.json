@@ -208,10 +208,106 @@
           "ja": "プレイヤーたちはチャレンジコースの障害物の間を慎重に通っています。",
           "ipa": "/ˈpleɪ.ərz ɑr ˈθrɛd.ɪŋ ˈkɛr.fə.li bɪˈtwin ðə əbˈstæk.əlz ɪn ðə ˈtʃæl.ɪndʒ kɔrs/",
           "linking": [
-            "are threading の /r/ r-linking と、/ə/ が /θ/ に続く未開放 [ɑr ˈθrɛd.ɪŋ] アー スレディング",
+            "are threading の /r/ から threading の /θ/ へ続く未開放 [ɑr ˈθrɛd.ɪŋ] アー スレディング",
             "between the の /n/ が /ð/ に続く未開放"
           ],
           "kana": "プレイヤーズ アー スレディング ケアフリー ビットウィーン ザ アブスタクルズ イン ザ チャレンジ コース"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has threaded",
+      "ipa": "/həz ˈθrɛd.ɪd/",
+      "examples": [
+        {
+          "en": "I have threaded the rope through the complex pulley system to secure the elevator.",
+          "ja": "エレベーターを固定するために、ロープを複雑な滑車システムに通しました。",
+          "ipa": "/aɪ həv ˈθrɛd.ɪd ðə roʊp θruː ðə kəmˈplɛks ˈpul.i ˈsɪs.təm tu sɪˈkjur ðə ˈɛl.ə.veɪ.tɚ/",
+          "linking": [
+            "have は弱形 /həv/、直後の threaded の /θ/ 子音に続く [həv ˈθrɛd.ɪd] ハヴ スレディッド",
+            "threaded the の d が /ð/ に未開放で続く [ˈθrɛd.ɪd̚ ðə] スレディッド ザ",
+            "rope through の p が /θ/ に未開放で続く [roʊp̚ θruː] ロープ スルー",
+            "to は弱形 /tə/、system に続く機能語の短縮"
+          ],
+          "kana": "アイ ハヴ スレディッド ザ ロープ スルー ザ コンプレックス プーリー システム トゥ シキュア ザ エレベーター"
+        },
+        {
+          "en": "She has threaded all the decorative strings throughout the entire build today.",
+          "ja": "彼女は今日、ビルド全体に装飾紐を通しました。",
+          "ipa": "/ʃi həz ˈθrɛd.ɪd ɔl ðə ˌdɛk.ə.ˈreɪ.tɪv strɪŋz θruːˈaʊt ðə ɪnˈtaɪər bɪld təˈdeɪ/",
+          "linking": [
+            "has は弱形 /həz/、直後の threaded の /θ/ 子音に続く [həz ˈθrɛd.ɪd] ハズ スレディッド",
+            "threaded all の d が /ɔ/ に連結 [ˈθrɛd.ɪd ɔl] スレディッド オール",
+            "throughout は /θ/ で始まり、the に続く弱形 /ðə/ → スルーアウト ザ",
+            "today の to は弱形 /tə/ から /d/ へ連結で day へ [təˈdeɪ] トゥデイ"
+          ],
+          "kana": "シー ハズ スレディッド オール ザ デコレイティヴ ストリングズ スルーアウト ザ インタイア ビルド トゥデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had threaded",
+      "ipa": "/həd ˈθrɛd.ɪd/",
+      "examples": [
+        {
+          "en": "He had threaded the rope earlier so the redstone contraption would work perfectly.",
+          "ja": "レッドストーン装置が完璧に機能するように、彼は早くロープを通していました。",
+          "ipa": "/hi həd ˈθrɛd.ɪd ðə roʊp ˈɛr.li.ɚ soʊ ðə ˈrɛd.stoʊn kənˈtræp.ʃən wʊd wɝk ˈpɝ.fɪkt.li/",
+          "linking": [
+            "had は弱形 /həd/、直後の threaded の /θ/ 子音に続く [həd ˈθrɛd.ɪd] ハド スレディッド",
+            "threaded the の d が /ð/ に未開放で続く [ˈθrɛd.ɪd̚ ðə] スレディッド ザ",
+            "earlier so の /r/ が /s/ へ、so の /oʊ/ から the へ [ˈɛr.li.ɚ soʊ ðə] アーリア ソー ザ",
+            "so the の the は弱形 /ðə/ で、contraption に続く"
+          ],
+          "kana": "ヒー ハド スレディッド ザ ロープ アーリア ソー ザ レッドストーン コントラプション ウッド ワーク パーフェクトリー"
+        },
+        {
+          "en": "By the time other players arrived, they had threaded all decorations throughout the arena.",
+          "ja": "他のプレイヤーが到着した時には、彼らはすでにアリーナ全体に装飾を通していました。",
+          "ipa": "/baɪ ðə taɪm ˈʌð.ɚ ˈpleɪ.ɚz əˈraɪvd ðeɪ həd ˈθrɛd.ɪd ɔl ˌdɛk.ə.ˈreɪ.ʃənz θruːˈaʊt ðə əˈrin.ə/",
+          "linking": [
+            "had は弱形 /həd/、直後の threaded の /θ/ 子音に続く [həd ˈθrɛd.ɪd] ハド スレディッド",
+            "threaded all の d が /ɔ/ に連結 [ˈθrɛd.ɪd ɔl] スレディッド オール",
+            "all decorations の l が /d/ に続く、decorations の /d/ 子音は短縮 [ɔl ˌdɛk.ə.ˈreɪ.ʃənz] オール デコレーションズ",
+            "throughout arena の /t/ が /ə/ に未開放で続く [θruːˈaʊt ðə əˈrin.ə] スルーアウト ザ アリーナ"
+          ],
+          "kana": "バイ ザ タイム アザー プレイヤーズ アライヴド ザイ ハド スレディッド オール デコレーションズ スルーアウト ザ アリーナ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been threading",
+      "ipa": "/həz bɪn ˈθrɛd.ɪŋ/",
+      "examples": [
+        {
+          "en": "I have been threading this rope for the past hour to complete the pulley system.",
+          "ja": "滑車システムを完成させるために、この1時間ロープを通し続けています。",
+          "ipa": "/aɪ həv bɪn ˈθrɛd.ɪŋ ðɪs roʊp fɔr ðə pæst aʊər tu kəmˈplit ðə ˈpul.i ˈsɪs.təm/",
+          "linking": [
+            "have は弱形 /həv/、been の /b/ に続く [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/、threading の /θ/ 子音に未開放で続く [bɪn̚ ˈθrɛd.ɪŋ] ビン スレディング",
+            "rope for の p が /f/ に未開放で続く [roʊp̚ fɔr] ロープ フォー",
+            "to は弱形 /tə/、complete に続く機能語の短縮"
+          ],
+          "kana": "アイ ハヴ ビン スレディング ディス ロープ フォー ザ パスト アワー トゥ コンプリート ザ プーリー システム"
+        },
+        {
+          "en": "They have been threading their way through the maze since this morning.",
+          "ja": "彼らは今朝からずっと迷路を通り抜けています。",
+          "ipa": "/ðeɪ həv bɪn ˈθrɛd.ɪŋ ðɛr weɪ θruː ðə meɪz sɪns ðɪs ˈmɔr.nɪŋ/",
+          "linking": [
+            "have は弱形 /həv/、been の /b/ に続く [həv bɪn] ハヴ ビン",
+            "been は弱形 /bɪn/、threading の /θ/ 子音に未開放で続く [bɪn̚ ˈθrɛd.ɪŋ] ビン スレディング",
+            "threading their の /ŋ/ が /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðɛr] スレディング ゼア",
+            "way through の /j/ が /θ/ に未開放で続く [weɪ θruː] ウェイ スルー"
+          ],
+          "kana": "ザイ ハヴ ビン スレディング ゼア ウェイ スルー ザ メイズ シンス ディス モーニング"
         }
       ]
     },
@@ -226,7 +322,6 @@
           "ja": "プレイヤーはロープをフレームに非常に慎重に通しています。",
           "ipa": "/ðə ˈpleɪ.ɚ ɪz ˈθrɛd.ɪŋ ðə roʊp θru ðə freɪm ˈvɛr.i ˈkɛr.fə.li/",
           "linking": [
-            "「is threading」: is の弱形 /ɪz/ の /z/ が threading の /ɪ/ に連結 [ɪz ˈθrɛd.ɪŋ] イズ スレディング",
             "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ",
             "「rope through」: rope の語末 /p/ が through の /θ/ に未開放で続く [roʊp̚ θru] ロープ スルー"
           ],
@@ -237,9 +332,7 @@
           "ja": "私たちはレッドストーン金庫の狭い通路を巧みに通っています。",
           "ipa": "/wiː ɑr ˈθrɛd.ɪŋ aʊ.ɚ weɪ θru ðə ˈnæ.roʊ ˈpæs.ɪ.dʒəz ɪn ðə ˈrɛd.stoʊn vɔlt/",
           "linking": [
-            "「are threading」: are の語末 /r/ が threading の /ɪ/ に連結 [ɑr ˈθrɛd.ɪŋ] アー スレディング",
-            "「threading our」: threading の語末 /ŋ/ が our の /aʊ/ に未開放で続く [ˈθrɛd.ɪŋ aʊ.ɚ] スレディング アワー",
-            "「way through」: way の語末 /weɪ/ が through の /θ/ に未開放で続く [weɪ θru] ウェイ スルー"
+            "「threading our」: threading の語末 /ŋ/ が our の /aʊ/ に連結 [ˈθrɛd.ɪŋ aʊ.ɚ] スレディング アワー"
           ],
           "kana": "ウィー アー スレディング アワー ウェイ スルー ザ ナロー パッシジェズ イン ザ レッドストーン ヴォルト"
         }
@@ -256,7 +349,6 @@
           "ja": "クリーパーの爆発で装置が破壊されたとき、私はロープを通していました。",
           "ipa": "/aɪ wəz ˈθrɛd.ɪŋ ðə roʊp wɛn ðə ˈkriː.pɚ ɪkˈsploʊ.ʒən dɪˈstrɔɪd ðə kənˈtræp.ʃən/",
           "linking": [
-            "「was threading」: was の弱形 /wəz/ の /z/ が threading の /ɪ/ に連結 [wəz ˈθrɛd.ɪŋ] ワズ スレディング",
             "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ",
             "「the rope」: the の弱形 /ðə/ が rope の /r/ に連結 [ðə roʊp] ザ ロープ"
           ],
@@ -267,7 +359,6 @@
           "ja": "ポータルが閉じたとき、私たちは敵対的なモブの間を慎重に通っていました。",
           "ipa": "/wiː wɚ ˈθrɛd.ɪŋ ˈkɛr.fə.li bɪˈtwin ðə hoʊsˈtɑɪl moʊbz wɛn ðə ˈpoʊr.təl kloʊzd/",
           "linking": [
-            "「were threading」: were の語末 /r/ が threading の /ɪ/ に連結 [wɚ ˈθrɛd.ɪŋ] ワー スレディング",
             "「threading carefully」: threading の語末 /ŋ/ が carefully の /k/ に未開放で続く [ˈθrɛd.ɪŋ ˈkɛr.fə.li] スレディング ケアフリー",
             "「between the」: between の語末 /n/ が the の /ð/ に未開放で続く [bɪˈtwin ðə] ビットウィーン ザ"
           ],
@@ -287,7 +378,6 @@
           "ipa": "/aɪ həd bɪn ˈθrɛd.ɪŋ ðə roʊp fɔr tɛn ˈmɪn.ɪts bɪˈfɔr aɪ ˈfaɪ.nə.li faʊnd ðə kəˈrɛkt ˈpæs.ɪdʒ/",
           "linking": [
             "「had been」: had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接 [həd̚ bɪn] ハッ ビン",
-            "「been threading」: been の語末 /n/ が threading の /ɪ/ に連結 [bɪn ˈθrɛd.ɪŋ] ビン スレディング",
             "「threading the」: threading の語末 /ŋ/ が the の /ð/ に未開放で続く [ˈθrɛd.ɪŋ ðə] スレディング ザ"
           ],
           "kana": "アイ ハッ ビン スレディング ザ ロープ フォー テン ミニッツ ビフォア アイ ファイナリー ファウンド ザ コレクト パッセッジ"
@@ -298,7 +388,6 @@
           "ipa": "/ðeɪ həd bɪn ˈθrɛd.ɪŋ θru ðə keɪv ˈnɛt.wɝk fɔr ˈaʊ.ərz wɛn ðə ˈwɔ.tɚ ˈlɛv.əl ˈsʌd.ən.li roʊz/",
           "linking": [
             "「had been」: had の弱形 /həd/ の /d/ が been の /b/ に未開放で連接 [həd̚ bɪn] ハッ ビン",
-            "「been threading」: been の語末 /n/ が threading の /ɪ/ に連結 [bɪn ˈθrɛd.ɪŋ] ビン スレディング",
             "「threading through」: threading の語末 /ŋ/ が through の /θ/ に未開放で続く [ˈθrɛd.ɪŋ θru] スレディング スルー"
           ],
           "kana": "ゼイ ハッ ビン スレディング スルー ザ ケイヴ ネットワーク フォー アワーズ ウェン ザ ウォーラー レヴァル サッデンリー ロウズ"

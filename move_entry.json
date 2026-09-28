@@ -347,5 +347,32 @@
         }
       ]
     }
+  ],
+  "idioms": [
+    {
+      "idiom": "move around (〜)",
+      "ja": "〜の周りを動き回る、〜を動き回る",
+      "example": "Mobs move around the farm.",
+      "example_ja": "モブが農場の周りを動き回ります。",
+      "ipa": "[ˈmoʊbz muːvəˈraʊnd ðə ˈfɑːrm]",
+      "linking": [
+        "move around → /v/ が母音 /ə/ に連結 [muːvə] ムーヴァ",
+        "the farm → the /ðə/ は機能語弱形"
+      ],
+      "kana": "モウズ ムーヴァラウンド ザ ファーム"
+    },
+    {
+      "idiom": "be moved (by 〜)",
+      "ja": "感動する",
+      "example": "I was moved by the sunset in the Nether.",
+      "example_ja": "ネザーの夕焼けに感動しました。",
+      "ipa": "/aɪ wəz ˈmuːvd baɪ ðə ˈsʌn.sɛt ɪn ðə ˈnɛðɚ/",
+      "linking": [
+        "was → 弱形 /wəz/ に弱化",
+        "the → 弱形 /ðə/ に弱化（2回出現）",
+        "in the → in の末尾子音 /n/ が the の初頭 /ð/ に続き、連続 [ɪnðə] インザ"
+      ],
+      "kana": "アイ ワズ ムーヴド バイ ザ サンセット インザ ネザー"
+    }
   ]
 }

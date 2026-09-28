@@ -92,16 +92,16 @@
     },
     {
       "idiom": "go up (〜)",
-      "ja": "上がる",
-      "example": "Make it go up and grab ore.",
-      "example_ja": "上げて鉱石を掴もう。",
-      "ipa": "/ˈmeɪk ɪt ˈɡoʊ ʌp ənd ˈɡræb ɔr/",
+      "ja": "上昇する、上がる",
+      "example": "The ore price goes up very fast.",
+      "example_ja": "鉱石の価格が非常に速く上昇します。",
+      "ipa": "/ðə ɔɹ ˈpɹaɪs ɡoʊz ʌp ˈvɛri fæst/",
       "linking": [
-        "make の語末子音 /k/ が it の初頭母音 /ɪ/ に連結 [ˈmeɪkɪt] メイキット",
-        "up の語末子音 /p/ が and の弱形初頭母音 /ə/ に連結 [ʌpənd] アパンド",
-        "grab の語末子音 /b/ が ore の初頭母音 /ɔ/ に連結 [ɡræbɔr] グラボー"
+        "「goes up」→ 語末の子音 /z/ が母音 /ʌ/ に連結 [ɡoʊzʌp] ゴゥズァップ",
+        "「the」→ 機能語は弱形 /ðə/ に弱化",
+        "「up very」→ 語末の子音 /p/ と次の子音 /v/ は子音同士で明確に分かれ、連結しない"
       ],
-      "kana": "メイキット ゴウ アパンド グラボー"
+      "kana": "ザ オア プライス ゴゥズァップ ベリー ファースト"
     },
     {
       "idiom": "go back (to 〜)",
@@ -117,17 +117,30 @@
       "kana": "レッツ ゴウ バック タ ベイス ビフォー ザ モウブズ スポウン"
     },
     {
-      "idiom": "go through 〜",
-      "ja": "〜を経験する、通り抜ける",
-      "example": "We have to go through the deep cave system to find diamonds.",
-      "example_ja": "深い洞窟システムを通り抜けてダイヤモンドを見つける必要があります。",
-      "ipa": "/wi hæv tə ɡoʊ θruː ðə ˈdip ˈkeɪv ˈsɪstəm tə ˈfaɪnd ˈdaɪmənds/",
+      "idiom": "go through ～",
+      "ja": "～を通り抜ける、(困難など)を経験する",
+      "example": "We must go through lava to reach the Nether fortress.",
+      "example_ja": "ネザーの砦にたどり着くために、溶岩を通り抜けなければならない。",
+      "ipa": "[wiː ˈmʌst ɡoʊ θruː ˈlɑːvə tə ˈriːtʃ ðə ˈnɛðər ˈfɔːrəs]",
       "linking": [
-        "have to → have の語末子音 /v/ が to の初頭母音 /ə/ に連結 [hævə] ハヴァ",
-        "through the → through /θruː/ の後、the は機能語で弱形 /ðə/ [θruː ðə] スルー ザ",
-        "system to → system の語末子音 /m/ が to の初頭母音 /ə/ に連結 [ˈsɪstəmə] シスタマ"
+        "must → go: 語末の /t/ が次の /ɡ/ に対して未開放で聞こえる [ˈmʌs ɡoʊ] マス ゴウ",
+        "to → reach: to は機能語で弱形 /tə/ に弱化 [tə ˈriːtʃ] タ リーチ",
+        "the → Nether: the は子音前で弱形 /ðə/ [ðə ˈnɛðər] ザ ネザー"
       ],
-      "kana": "ウィ ハヴァ ゴウ スルー ザ ディープ ケイヴ シスタマ ファインド ダイモンズ"
+      "kana": "ウィー マス ゴウ スルー ラーヴァ タ リーチ ザ ネザー フォーラス"
+    },
+    {
+      "idiom": "～ to go",
+      "ja": "あと～、残りの～",
+      "example": "We need thirty more blocks to go!",
+      "example_ja": "あと30個のブロックが必要です！",
+      "ipa": "[wiː ˈniːd ˈθɜrdi ˈmɔr ˈblɑks tə ɡoʊ]",
+      "linking": [
+        "need thirty → need の語末子音 /d/ が thirty の初頭子音 /θ/ に直続。/d/ は未開放傾向 [ˈniːd̚ ˈθɜrdi]",
+        "blocks to → blocks の語末子音 /s/ が to の初頭子音 /t/ に直続。/s/ は未開放傾向 [ˈblɑks̚ tə]",
+        "to go → to は機能語で弱形 /tə/ に弱化。go の初頭に続く [tə ɡoʊ]"
+      ],
+      "kana": "ウィー ニード スーティー モア ブラックス タ ゴウ"
     }
   ],
   "forms": []

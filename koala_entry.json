@@ -43,5 +43,33 @@
       ]
     }
   ],
-  "idioms": []
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "koalas",
+      "ipa": "/ˈkoʊwɑːləz/",
+      "examples": [
+        {
+          "en": "Take the koalas to the breeding enclosure.",
+          "ipa": "/teɪk ðə ˌkoʊwɑːləz tu ðə ˈbridɪŋ ɪnˈkloʊʒər/",
+          "kana": "テイク ザ コアラズ タ ザ ブリーディング インクロージャー",
+          "linking": [
+            "Take the で語末 /k/ が未開放で弱形 /ðə/ に連なる: [teɪk̚ ðə] テイク ザ",
+            "to で機能語の弱形 /tə/ に弱化: タ"
+          ]
+        },
+        {
+          "en": "The koalas in your zoo need eucalyptus leaves.",
+          "ipa": "/ðə ˌkoʊwɑːləz ɪn jɔr ˈzu ˈnid ˌjuːkəˈlɪptəs ˈlivz/",
+          "kana": "ザ コアラズ イン ユアー ズー ニード ユーカリプタス リーヴズ",
+          "linking": [
+            "The で冠詞の弱形 /ðə/: ザ",
+            "in your で in の /n/ が your の /j/ に連なる: [ɪn jɔr] イン ユアー"
+          ]
+        }
+      ]
+    }
+  ]
 }

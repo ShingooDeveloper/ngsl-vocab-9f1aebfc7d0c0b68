@@ -182,6 +182,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has enrolled",
+      "ipa": "/həz ɪnˈroʊld/",
+      "examples": [
+        {
+          "en": "I have enrolled in the dragon challenge finally.",
+          "ja": "最終的にドラゴンチャレンジに登録しました。",
+          "ipa": "/aɪ həv ɪnˈroʊld ɪn ðə ˈdreɪɡən ˈtʃælɪndʒ ˈfaɪnəli/",
+          "linking": [
+            "have が機能語で弱形 /həv/ に弱化、[həv] ハヴ",
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ"
+          ],
+          "kana": "アイ ハヴ インロウルディン ザ ドラゴン チャレンジ ファイナリ"
+        },
+        {
+          "en": "The team has enrolled in three different competitions this month.",
+          "ja": "チームは今月3つの異なるコンペティションに登録しています。",
+          "ipa": "/ðə tim həz ɪnˈroʊld ɪn θri ˈdɪfərənt kəmˌpɛtɪʃənz ðɪs mʌnθ/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "has が機能語で弱形 /həz/ に弱化、[həz] ハズ",
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン"
+          ],
+          "kana": "ザ ティーム ハズ インロウルディン スリー ディファレント コンペティションズ ディス マンス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had enrolled",
+      "ipa": "/həd ɪnˈroʊld/",
+      "examples": [
+        {
+          "en": "By last night, all players had enrolled in the tournament.",
+          "ja": "昨夜までに、すべてのプレイヤーがトーナメントに登録していました。",
+          "ipa": "/baɪ læst naɪt ɔl ˈpleɪərz həd ɪnˈroʊld ɪn ðə ˈtʊrnəmənt/",
+          "linking": [
+            "had が機能語で弱形 /həd/ に弱化、[həd] ハド",
+            "enrolled の語末 /d/ が in の母音 /ɪ/ に連結、[ɪnˈroʊldɪn] インロウルディン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ"
+          ],
+          "kana": "バイ ラスト ナイト オール プレイアーズ ハド インロウルディン ザ トーナメント"
+        },
+        {
+          "en": "Before the server update, she had enrolled her faction in the alliance.",
+          "ja": "サーバーアップデート前に、彼女はファクションを同盟に登録していました。",
+          "ipa": "/bɪˈfɔr ðə ˈsɜrvər ˈʌpdeɪt ʃi həd ɪnˈroʊld hɜr ˈfækʃən ɪn ðə əˈlaɪəns/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "had が機能語で弱形 /həd/ に弱化、[həd] ハド",
+            "enrolled の語末 /d/ が her の母音 /ɜ/ に連結、[ɪnˈroʊldɜr] インロウルダー"
+          ],
+          "kana": "ビフォア ザ サーバー アップデイト シー ハド インロウルダー ハー ファクション イン ザ アライアンス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been enrolling",
+      "ipa": "/həz bɪn ɪnˈroʊlɪŋ/",
+      "examples": [
+        {
+          "en": "Players have been enrolling in the mining guild all season.",
+          "ja": "プレイヤーはシーズンを通じて採掘ギルドに登録し続けています。",
+          "ipa": "/ˈpleɪərz həv bɪn ɪnˈroʊlɪŋ ɪn ðə ˈmaɪnɪŋ ɡɪld ɔl ˈsizən/",
+          "linking": [
+            "have が機能語で弱形 /həv/ に弱化、[həv] ハヴ",
+            "been が機能語で弱形 /bɪn/ に弱化、[bɪn] ビン",
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ"
+          ],
+          "kana": "プレイアーズ ハヴ ビン インロウリング イン ザ マイニング ギルド オール シーズン"
+        },
+        {
+          "en": "The admin has been enrolling new members in the building contest since dawn.",
+          "ja": "管理者は夜明けからビルディングコンテストに新しいメンバーを登録し続けています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn ɪnˈroʊlɪŋ nju ˈmɛmbərz ɪn ðə ˈbɪldɪŋ ˈkɑnˌtɛst sɪns dɔn/",
+          "linking": [
+            "the が機能語で弱形 /ðə/ に弱化、[ðə] ザ",
+            "has が機能語で弱形 /həz/ に弱化、[həz] ハズ",
+            "been が機能語で弱形 /bɪn/ に弱化、[bɪn] ビン"
+          ],
+          "kana": "ザ アドミン ハズ ビン インロウリング ニュー メンバーズ イン ザ ビルディング コンテスト シンス ドーン"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形",
       "text": "is enrolling",
@@ -193,21 +283,20 @@
           "ipa": "/ðə ˈæd.mɪn ɪz ɪnˈroʊlɪŋ nju ˈpleɪərz ɪn ðə ˈfækʃən ˈsɪstəm/",
           "linking": [
             "「the」は弱形 /ðə/",
-            "「is」の語末 /z/ が「enrolling」の /ɪ/ に連結 [ɪz ɪnˈroʊlɪŋ] イゼンロウリング",
-            "「the」は弱形 /ðə/"
+            "「is」の語末 /z/ が「enrolling」の /ɪ/ に連結 [ɪz ɪnˈroʊlɪŋ] イゼンロウリング"
           ],
           "kana": "ザ・アドミン・イゼンロウリング・ニュー・プレイアーズ・イン・ザ・ファクション・システム"
         },
         {
           "en": "Players are enrolling in the PvP tournament this week.",
           "ja": "プレイヤーは今週、PvPトーナメントに登録しています。",
-          "ipa": "/ˈpleɪərz ɑr ɪnˈroʊlɪŋ ɪn ðə ˈpi viˈpi ˈtʊrnəmənt ðɪs wik/",
+          "ipa": "/ˈpleɪərz ə ɹ ɪnˈroʊlɪŋ ɪn ðə ˈpi viˈpi ˈtʊrnəmənt ðɪs wik/",
           "linking": [
-            "「are」は弱形 /ɑɹ/、「enrolling」の /ɪ/ に続く",
+            "「are」は弱形 /ə ɹ/、「enrolling」の /ɪ/ に連結 [ə ɹ ɪnˈroʊlɪŋ] エア インロウリング",
             "「the」は弱形 /ðə/",
             "「tournament」の語末 /t/ が「this」の /ð/ に続く子音+子音で未開放 [ˈtʊrnəmənt̚ ðɪs]"
           ],
-          "kana": "プレイアーズ・アー・エンロウリング・イン・ザ・ピー・ヴィー・ピー・トーナメント・ディス・ウィーク"
+          "kana": "プレイアーズ・ア・エンロウリング・イン・ザ・ピー・ヴィー・ピー・トーナメント・ディス・ウィーク"
         }
       ]
     },

@@ -35,7 +35,22 @@
       "kana": "シ ハズ フォート フォー アネマル ライツ フォー オウヴァ ア デケイド"
     }
   ],
-  "idioms": [],
+  "idioms": [
+    {
+      "idiom": "fight for 〜",
+      "ja": "〜のために戦う、〜を求めて奮闘する",
+      "example": "Players fight for gold ore deep in underground caves.",
+      "example_ja": "プレイヤーたちは地下の深いケイブで金鉱石を求めて戦う。",
+      "ipa": "/ˈpleɪɚz ˈfaɪt fɔːr ˈɡoʊld ˈɔːr ˈdip ɪn ˈʌndɚˌɡraʊnd ˈkeɪvz/",
+      "linking": [
+        "gold ore → 語末子音 /d/ が ore の初頭母音 /ɔ/ に連結 [ˈɡoʊld‿ˈɔːr] ゴールダー",
+        "deep in → 語末子音 /p/ が in の初頭母音 /ɪ/ に連結 [ˈdip‿ɪn] ディーピン",
+        "fight for → 語末 /t/ が for の初頭子音 /f/ に続く（子音+子音、連結なし）；for は弱形 /fɚ/ ファー",
+        "Players fight → 語末子音 /z/ が fight の初頭子音 /f/ に続く（子音+子音、連結なし）"
+      ],
+      "kana": "プレイヤーズ ファイト ファー ゴールダー ディーピン アンダーグラウンド ケイヴズ"
+    }
+  ],
   "mc_examples": [
     {
       "en": "You need a sword and some armor if you want to fight a zombie safely.",

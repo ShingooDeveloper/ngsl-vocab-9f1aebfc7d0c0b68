@@ -94,6 +94,35 @@
   ],
   "forms": [
     {
+      "type": "plural",
+      "label": "複数形",
+      "text": "compliments",
+      "ipa": "/ˈkɑːmpləmənts/",
+      "examples": [
+        {
+          "en": "The compliments from fellow players really boosted my confidence.",
+          "ja": "他のプレイヤーからの褒め言葉は私の自信を本当に高めました。",
+          "ipa": "[ðə ˈkɑːmpləmənts frəm ˈfɛloʊ ˈpleɪɚz ˈrɪli ˈbuːstɪd maɪ ˈkɑnfɪdəns]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "ザ コンプリメンツ フラム フェロー プレイヤーズ リリー ブースティド マイ コンフィデンス"
+        },
+        {
+          "en": "I received compliments on my armor design from the tournament judges.",
+          "ja": "私はトーナメント審査員からアーマーデザインについて褒め言葉をもらいました。",
+          "ipa": "[aɪ rɪˈsiːvd ˈkɑːmpləmənts ɑn maɪ ˈɑrmɚ dɪˈzaɪn frəm ðə ˈtɝnəmənt ˈdʒʌdʒɪz]",
+          "linking": [
+            "compliments の語末 /s/ が on の初頭 /ɑ/ に連結",
+            "from は弱形 /frəm/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ リシーヴド コンプリメンツ オン マイ アーマー ディザイン フラム ザ ターナメント ジャッジズ"
+        }
+      ]
+    },
+    {
       "type": "3rd_person_singular",
       "label": "三人称単数現在形",
       "text": "compliments",

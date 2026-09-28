@@ -298,7 +298,7 @@
             "「no longer」no は母音 /oʊ/ で終わり、longer は子音 /l/ で始まり連結なし [noʊ ˈlɔŋɚ] ノー ロンガー",
             "「any hostile」any は /i/ で終わり、hostile は子音 /h/ で始まり連結なし [ˈɛni ˈhɑstəl] エニー ホースタル"
           ],
-          "kana": "ディス マブ スポーナー ハズ イクスパイァード アン ノー ロンガー プロデューシズ エニー ホースタル マブズ"
+          "kana": "ディス マブ スポーナー ハズ イクスパイァード アン ノー ロンガー プラデューシズ エニー ハスタル マブズ"
         },
         {
           "en": "They have expired all the temporary access codes to protect the server.",
@@ -310,7 +310,7 @@
             "「all the」語末子音 /l/ が弱形 /ðə/ に連結 [ɔl ðə] オール ザ",
             "「to protect」前置詞 to は弱形 /tə/、protect は子音 /p/ で始まり連結なし [tə prəˈtɛkt] タ プロテクト"
           ],
-          "kana": "ゼイ ハヴ イクスパイァード オール ザ テンパラリー アクセス コーズ タ プロテクト ザ サーバー"
+          "kana": "ゼイ ハヴ イクスパイァード オール ザ テンパラリー アクセス コーズ タ プラテクト ザ サーバー"
         }
       ]
     },
@@ -330,7 +330,7 @@
             "「before I」before の語末 /r/ が I の母音 /aɪ/ に連結 [bɪˈfɔɹ aɪ] ビフォア アイ",
             "「the dragon」冠詞 the は弱形 /ðə/、母音前での語末子音 /n/ が続く [ðə ˈdrægən] ザ ドラゴン"
           ],
-          "kana": "ザ プロテクション バッ ハッド イクスパイァード ビフォア アイ クッド ディフェンド ザ ベイス フラム ザ ドラゴン"
+          "kana": "ザ プラテクション バフ ハッド イクスパイァード ビフォア アイ クド ディフェンド ザ ベイス フラム ザ ドラゴン"
         },
         {
           "en": "The respawn anchor had expired, leaving all the players vulnerable to hostile mobs.",
@@ -338,11 +338,11 @@
           "ipa": "/ðə rɪˈspɔn ˈæŋkɚ ˈhæd ɪkˈspaɪɚd | ˈlivɪŋ ɔl ðə ˈpleɪɚz ˈvʌlnərəbəl tə ˈhɑstəl ˈmɑbz/",
           "linking": [
             "「had expired」語末子音 /d/ が母音 /ɪ/ に連結 [ˈhæd ɪkˈspaɪɚd] ハッド イクスパイァード",
-            "「expired, leaving」expired の語末 /d/ と leaving の /l/ が次の母音に連続 [ɪkˈspaɪɚd ˈlivɪŋ] イクスパイァード リーヴィング",
+            "「expired, leaving」expired の語末子音 /d/ が leaving の母音 /ɪ/ に連結 [ɪkˈspaɪɚd ˈlivɪŋ] イクスパイァード リーヴィング",
             "「leaving all」leaving の語末 /ŋ/ が all の子音 /ɔ/ に先行、all は /ɔl/ [ˈlivɪŋ ɔl] リーヴィング オール",
             "「all the」語末子音 /l/ が弱形 /ðə/ に連結 [ɔl ðə] オール ザ"
           ],
-          "kana": "ザ リスポーン アンカー ハッド イクスパイァード リーヴィング オール ザ プレイァーズ バルナラブル タ ホースタル マブズ"
+          "kana": "ザ リスポーン アンカー ハッド イクスパイァード リーヴィング オール ザ プレイァーズ ヴァルナラブル タ ハスタル マブズ"
         }
       ]
     },
@@ -375,6 +375,102 @@
             "「since the」冠詞 the は弱形 /ðə/、since は /s/ で終わり連結なし [sɪns ðə] シンス ザ"
           ],
           "kana": "ユア レルム サブスクリプション ハズ ビン イクスパイアリング グラジュアリー シンス ザ サーバー リスターティド"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will expire",
+      "ipa": "/wɪl ɪkˈspaɪɚ/",
+      "examples": [
+        {
+          "en": "The effects from this healing potion will expire in just a few seconds.",
+          "ja": "このヒーリングポーション効果は数秒で期限が切れます。",
+          "ipa": "/ðə ɪˈfɛkts frəm ðɪs ˈhilɪŋ ˈpoʊʃən wɪl ɪkˈspaɪɚ ɪn ˈdʒʌst ə ˈfju ˈsɛkəndz/",
+          "linking": [
+            "「will expire」will の語末子音 /l/ が母音 /ɪ/ に連結 [wɪl ɪkˈspaɪɚ] ウィル イクスパイア",
+            "「expire in」expire の語末音 /ɚ/ が母音 /ɪ/ に連結、linking /ɹ/ が形成 [ɪkˈspaɪəɹ ɪn] イクスパイアリン",
+            "「in just」in の語末 /n/ と just の子音 /dʒ/ は子音連続",
+            "「a few」冠詞 a は弱形 /ə/ [ə ˈfju] ア フュー"
+          ],
+          "kana": "ザ イフェクツ フラム ディス ヒーリング ポーション ウィリクスパイアリン ジャスト ア フュー セカンズ"
+        },
+        {
+          "en": "If you don't drink another buff potion, the regeneration effect will expire before we defeat the boss.",
+          "ja": "別のバフポーションを飲まないと、再生効果は我々がボスを倒す前に期限が切れます。",
+          "ipa": "/ɪf ju ˈdoʊnt ˈdɹɪŋk əˈnʌðɚ ˈbʌf ˈpoʊʃən | ðə ˌrɛdʒənəˈreɪʃən ɪˈfɛkt wɪl ɪkˈspaɪɚ bɪˈfɔɹ wi dɪˈfit ðə ˈbɔs/",
+          "linking": [
+            "「will expire」will の語末子音 /l/ が母音 /ɪ/ に連結 [wɪl ɪkˈspaɪɚ] ウィル イクスパイア",
+            "「expire before」expire の語末 /ɚ/ が母音 /b/ に連結、linking /ɹ/ が形成 [ɪkˈspaɪəɹ bɪˈfɔɹ] イクスパイアリン ビフォア",
+            "「before we」before の語末 /ɹ/ が we の母音に連結 [bɪˈfɔɹ wi] ビフォア ウィー",
+            "「the boss」冠詞 the は子音前で弱形 /ðə/ [ðə ˈbɔs] ザ ボース"
+          ],
+          "kana": "イフ ユー ドーント ドリング アナザー バッ ポーション ザ レジェナレーション イフェクト ウィリクスパイアリン ビフォア ウィー ディフィート ザ ボース"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be expiring",
+      "ipa": "/wɪl bi ɪkˈspaɪɚɪŋ/",
+      "examples": [
+        {
+          "en": "We need to grab more resources because my mining efficiency buff will be expiring soon.",
+          "ja": "採掘効率バフがもうすぐ期限切れになるため、もっと資源を集める必要があります。",
+          "ipa": "/wi ˈnid tu ˈɡræb ˈmɔɹ ˈrɛsɚsɪz bɪˈkɔz maɪ ˈmaɪnɪŋ ɪˈfɪʃənsi ˈbʌf wɪl bi ɪkˈspaɪɚɪŋ ˈsun/",
+          "linking": [
+            "「need to」need の語末 /d/ が to の弱形 /tə/ に連結 [ˈnid tə] ニード タ",
+            "「buff will」buff の語末 /f/ と will の子音 /w/ が続く、会話速度では will が弱形化傾向",
+            "「will be」will は急速な会話で /əl/ や /l/ に弱化、be は /bi/ で続く [wɪl bi] ウィル ビー",
+            "「expiring soon」expiring の語末 /ŋ/ が soon の子音 /s/ に先行 [ɪkˈspaɪɚɪŋ ˈsun] イクスパイアリング スーン"
+          ],
+          "kana": "ウィー ニード タ グラブ モア リソーシーズ ビコーズ マイ マイニング イフィシェンシー バッ ウィル ビー イクスパイアリング スーン"
+        },
+        {
+          "en": "By the time we reach the nether portal, your health regeneration buff will be expiring.",
+          "ja": "ネザーゲートに到達するまでに、あなたのヘルスリジェネレーションバフが期限切れになります。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈritʃ ðə ˈnɛðɚ ˈpɔɹtəl | jɔɹ ˈhɛlθ ˌrɛdʒənəˈreɪʃən ˈbʌf wɪl bi ɪkˈspaɪɚɪŋ/",
+          "linking": [
+            "「by the」冠詞 the は弱形 /ðə/；time は子音 /t/ で始まり連結なし",
+            "「reach the」reach の語末 /tʃ/ が the の弱形 /ðə/ に連結 [ˈritʃ ðə] リーチ ザ",
+            "「buff will」buff の語末 /f/ が will の子音に先行、会話速度では both が弱形化",
+            "「will be expiring」will は弱形化傾向、全体として smooth に続く [wɪl bi ɪkˈspaɪɚɪŋ] ウィル ビー イクスパイアリング"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ ネザー ポータル ユア ヘルス レジェナレーション バッ ウィル ビー イクスパイアリング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have expired",
+      "ipa": "/wɪl həv ɪkˈspaɪɚd/",
+      "examples": [
+        {
+          "en": "By the time the dragon finds our base, the protective barrier will have expired.",
+          "ja": "ドラゴンが私たちの基地を見つけるまでに、保護バリアが期限切れになります。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈdrægən ˈfaɪndz ˈaʊɚ ˈbeɪs | ðə prəˈtɛktɪv ˈbæɹɪɚ wɪl həv ɪkˈspaɪɚd/",
+          "linking": [
+            "「will have」will の語末 /l/ が have の弱形 /həv/ の /h/ に先行、会話速度では will が弱形化傾向",
+            "「have expired」have の弱形 /əv/ の語末 /v/ が expired の母音 /ɪ/ に連結 [həv ɪkˈspaɪɚd] ハヴ イクスパイァード",
+            "「the protective」冠詞 the は子音前で弱形 /ðə/；protective は子音 /p/ で始まり連結なし",
+            "「barrier will」barrier の語末 /ɚ/ が will の子音に続く、linking /ɹ/ が形成される [ˈbæɹɪɚ wɪl] バリア ウィル"
+          ],
+          "kana": "バイ ザ タイム ザ ドラゴン ファインズ アワ ベイス ザ プロテクティブ バリア ウィル ハヴ イクスパイァード"
+        },
+        {
+          "en": "After you finish crafting the armor, your temporary access code will have expired.",
+          "ja": "鎧をクラフトし終わった後に、あなたの一時的なアクセスコードが期限切れになります。",
+          "ipa": "/ˈæftɚ ju ˈfɪnɪʃ ˈkræftɪŋ ðə ˈɑɹmɚ | jɔɹ ˈtɛmpəreri ˈæksɛs ˈkoʊd wɪl həv ɪkˈspaɪɚd/",
+          "linking": [
+            "「will have」will の語末 /l/ が have の弱形 /həv/ に先行、rapid speech では will が /əl/ や /l/ に弱化",
+            "「have expired」have の弱形 /əv/ の語末 /v/ が expired の母音 /ɪ/ に連結 [həv ɪkˈspaɪɚd] ハヴ イクスパイァード",
+            "「armor your」armor の語末 /ɚ/ が your の母音に続く、linking /ɹ/ が形成 [ˈɑɹmɚ jɔɹ] アーマー ユア",
+            "「code will」code の語末 /d/ が will の子音に先行、code の /d/ は未開放で接続 [ˈkoʊd wɪl] コード ウィル"
+          ],
+          "kana": "アフター ユー フィニッシュ クラフティング ザ アーマー ユア テンパラリー アクセス コード ウィル ハヴ イクスパイァード"
         }
       ]
     }

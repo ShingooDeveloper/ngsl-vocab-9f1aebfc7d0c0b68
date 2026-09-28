@@ -273,6 +273,178 @@
           "kana": "アンプリディクタブル ラーヴァ フロウズ ハッド ビン プライティング アワー マイニング オペレイションズ フォア デイズ ビフォア ウィー ディスカヴァード ザ シークレット パセージ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has plighted",
+      "ipa": "/ˈhæz ˈplaɪtəd/",
+      "examples": [
+        {
+          "en": "The water breach has plighted our redstone circuit defenses beyond quick repair.",
+          "ja": "水の侵入はレッドストーン回路の防御を急速な修復が不可能なほど危機に陥れてしまった。",
+          "ipa": "/ðə ˈwɔtər ˈbritʃ ˈhæz ˈplaɪtəd ˈaʊɚ ˈrɛdstoʊn ˈsɚkɪt dɪˈfɛnsɪz bɪˈjɑnd ˈkwɪk rɪˈpɛr/",
+          "linking": [
+            "「water breach」— water の /r/ が breach の /b/ に先行（流音+子音） → 連結なし",
+            "「has plighted」— has は弱形 /həz/、/z/ が plighted の /p/ に先行 [ˈhæzˈplaɪtəd] ハズ プライティッド"
+          ],
+          "kana": "ザ ウォーター ブリーチ ハズ プライティッド アワー レッドストウン サーキット ディフェンシズ ビヨンド クイック リペア"
+        },
+        {
+          "en": "Resource scarcity has plighted the settlement's chances of rapid expansion.",
+          "ja": "資源不足は定住地の急速な拡大の可能性を危機に陥れてしまった。",
+          "ipa": "/ˈrɛsɔrs ˈskɛrsɪti ˈhæz ˈplaɪtəd ðə ˈsɛtəlmənts ˈtʃænsɪz əv ˈræpɪd ɪkˈspænʃən/",
+          "linking": [
+            "「scarcity has」— scarcity の /i/ が has の /h/ に先行 [ˈskɛrsɪtiˈhæz]。has は弱形 /həz/ で助動詞",
+            "「has plighted」— has の /z/ が plighted の /p/ に先行 [ˈhæzˈplaɪtəd] ハズ プライティッド"
+          ],
+          "kana": "レソース スケアシティ ハズ プライティッド ザ セットゥルメンツ チャンシズ アヴ ラピッド イクスパンション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had plighted",
+      "ipa": "/ˈhæd ˈplaɪtəd/",
+      "examples": [
+        {
+          "en": "The mineshaft collapse had plighted the team's survival chances long before rescue was possible.",
+          "ja": "救援が可能になるずっと前に、鉱坑の崩落がチームの生存の可能性を危機に陥れていました。",
+          "ipa": "/ðə ˈmaɪnˌʃæft kəˈlæps ˈhæd ˈplaɪtəd ðə timz sərˈvaɪvəl ˈtʃænsɪz lɔŋ bɪˈfɔr ˈrɛskju wəz ˈpɑsəbəl/",
+          "linking": [
+            "「collapse had」— collapse の /s/ が had の /h/ に先行（摩擦音+子音）。had は弱形 /həd/",
+            "「had plighted」— had の /d/ が plighted の /p/ に先行（弱い連結なし、子音+子音）[ˈhæd̚ ˈplaɪtəd] ハッド プライティッド"
+          ],
+          "kana": "ザ マインシャフト コラップス ハッド プライティッド ザ ティームズ サーヴァイヴァル チャンシズ ロング ビフォア レスキュー ワズ パッサブル"
+        },
+        {
+          "en": "The wither's explosive power had plighted the structure's integrity before we retreated to safety.",
+          "ja": "私たちが安全な場所に撤退する前に、ウィザーの爆発的な力が構造の完全性を危機に陥れていました。",
+          "ipa": "/ðə ˈwɪðɚz ɪkˈsploʊsɪv ˈpaʊər ˈhæd ˈplaɪtəd ðə ˈstrʌktʃɚz ɪnˈtɛɡrɪti bɪˈfɔr wi rɪˈtritəd tu ˈseɪfti/",
+          "linking": [
+            "「power had」— power の /r/ が had の /h/ に先行（流音+子音）。had は弱形 /həd/",
+            "「had plighted」— had の /d/ が plighted の /p/ に先行 [ˈhæd̚ ˈplaɪtəd] ハッド プライティッド"
+          ],
+          "kana": "ザ ウィザーズ エクスプロウシヴ パワー ハッド プライティッド ザ ストラクチャーズ インテグリティー ビフォア ウィー リトリーティッド トゥー セイフティー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been plighting",
+      "ipa": "/ˈhæz bɪn ˈplaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The wither boss has been plighting our chances to hold the fortress since the battle began.",
+          "ja": "戦いが始まって以来、ウィザーボスが私たちの要塞を保持する可能性を危機に陥れ続けています。",
+          "ipa": "/ðə ˈwɪðɚ ˈbɔs ˈhæz bɪn ˈplaɪtɪŋ ˈaʊɚ ˈtʃænsɪz tu ˈhoʊld ðə ˈfɔrtərɛs sɪns ðə ˈbætəl bɪˈɡæn/",
+          "linking": [
+            "「boss has」— boss の /s/ が has の /h/ に先行（摩擦音+子音）。has は弱形 /həz/",
+            "「has been」— has の /z/ が been の /b/ に先行 [ˈhæz bɪn] ハズ ビン",
+            "「been plighting」— been の /n/ が plighting の /p/ に先行（鼻音+子音） [bɪn ˈplaɪtɪŋ] ビン プライティング"
+          ],
+          "kana": "ザ ウィザー ボス ハズ ビン プライティング アワー チャンシズ トゥー ホウルド ザ フォーティレス シンス ザ バトル ビガン"
+        },
+        {
+          "en": "Constant creeper attacks have been plighting the village's reconstruction efforts for weeks.",
+          "ja": "ここ数週間、継続的なクリーパーの攻撃がビレッジの復興努力を危機に陥れ続けています。",
+          "ipa": "/ˈkɑnstənt ˈkripɚ əˈtæks ˈhæv bɪn ˈplaɪtɪŋ ðə ˈvɪlɪdʒɪz ˌrɛkənˈstrʌkʃən ˈɛfərts fɔr ˈwiks/",
+          "linking": [
+            "「attacks have」— attacks の /s/ が have の /h/ に先行（摩擦音+子音）。have は弱形 /həv/",
+            "「have been」— have の /v/ が been の /b/ に先行 [ˈhæv bɪn] ハヴ ビン",
+            "「been plighting」— been の /n/ が plighting の /p/ に先行 [bɪn ˈplaɪtɪŋ] ビン プライティング"
+          ],
+          "kana": "コンスタント クリーパー アタックス ハヴ ビン プライティング ザ ヴィリッジズ リコンストラクション エフォーツ フォア ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will plight",
+      "ipa": "/wɪl ˈplaɪt/",
+      "examples": [
+        {
+          "en": "The ore shortage will plight our equipment crafting within weeks.",
+          "ja": "鉱石の不足は、数週間以内に私たちの装備クラフトを危機に陥れるでしょう。",
+          "ipa": "/ðə ˈɔr ˈʃɔrtɪdʒ wɪl ˈplaɪt ˈaʊɚ ɪˈkwɪpmənt ˈkræftɪŋ wɪðˈɪn ˈwiks/",
+          "linking": [
+            "「shortage will plight」— shortage の語末 /dʒ/ が will の /w/ に先行（子音+子音）。will は弱形 /wəl/",
+            "「within weeks」— within の語末 /n/ が未開放で [wɪðˈɪn̚]、weeks の /w/ に接続"
+          ],
+          "kana": "ザ オア ショーティッジ ウィル プライト アワー イクウィップメント クラフティング ウィズィン ウィークス"
+        },
+        {
+          "en": "If the Wither escapes, it will plight our settlement's defenses beyond repair.",
+          "ja": "ウィザーが脱出したら、定住地の防御を修復不可能な危機に陥れるでしょう。",
+          "ipa": "/ɪf ðə ˈwɪðɚ ɪˈskeɪps ɪt wɪl ˈplaɪt ˈaʊɚ ˈsɛtəlmənts dɪˈfɛnsɪz bɪˈjɑnd rɪˈpɛr/",
+          "linking": [
+            "「Wither escapes」— Wither の語末 /r/ が escapes の /ɪ/ に連結 [ˈwɪðɚɪˈskeɪps]",
+            "「will plight」— will は弱形 /wəl/。will の語末 /l/ が plight の /p/ に先行 → 連結なし",
+            "「beyond repair」— beyond の語末 /d/ が repair の /r/ に先行（子音+子音） → 連結なし"
+          ],
+          "kana": "イフ ザ ウィザー イスケイプス イット ウィル プライト アワー セットゥルメンツ ディフェンシズ ビヨンド リペア"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be plighting",
+      "ipa": "/wɪl bi ˈplaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The nether raid will be plighting our defenses throughout the entire night.",
+          "ja": "ネザーレイドは夜通し、私たちの防御を危機に陥れ続けるでしょう。",
+          "ipa": "/ðə ˈnɛðɚ ˈreɪd wɪl bi ˈplaɪtɪŋ ˈaʊɚ dɪˈfɛnsɪz θruˈaʊt ðɪ ɪnˈtaɪɚ naɪt/",
+          "linking": [
+            "「nether raid」— nether の語末 /r/ が raid の /r/ に先行（流音+流音） → 連結なし",
+            "「raid will be plighting」— raid の語末 /d/ が will の /w/ に先行。will は弱形 /wəl/、be は弱形 /bi/"
+          ],
+          "kana": "ザ ネザー レイド ウィル ビー プライティング アワー ディフェンシズ スルーアウト ザ エンタイア ナイト"
+        },
+        {
+          "en": "Successive attacks will be plighting the village's morale as reinforcements arrive too late.",
+          "ja": "増援が遅すぎて到着する間、継続的な攻撃がビレッジの士気を危機に陥れ続けるでしょう。",
+          "ipa": "/səkˈsɛsɪv əˈtæks wɪl bi ˈplaɪtɪŋ ðə ˈvɪlɪdʒɪz məˈræl əz ˌrinˈfɔrsmənts əˈraɪv tu leɪt/",
+          "linking": [
+            "「Successive attacks」— successive の語末 /v/ が attacks の /æ/ に連結 [səkˈsɛsɪvəˈtæks]",
+            "「attacks will be」— attacks の語末 /s/ が will の /w/ に先行。will は弱形 /wəl/、be は弱形 /bi/"
+          ],
+          "kana": "サクセッシヴ アタックス ウィル ビー プライティング ザ ヴィリッジズ モラル アズ リインフォースメンツ アライヴ ツー レイト"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have plighted",
+      "ipa": "/wɪl həv ˈplaɪtəd/",
+      "examples": [
+        {
+          "en": "By the time we reach the fortress, the drought will have plighted our supply reserves irreversibly.",
+          "ja": "要塞に到着するまでに、干ばつは私たちの備蓄を回復不可能に危機に陥れているでしょう。",
+          "ipa": "/baɪ ðə taɪm wi ritʃ ðə ˈfɔrtərɛs ðə ˈdraʊt wɪl ˈhæv ˈplaɪtəd ˈaʊɚ səˈplaɪ rɪˈzɜrvz ɪrɪˈvɜrsəbli/",
+          "linking": [
+            "「time we reach」— time の語末 /m/ が we の /w/ に先行（鼻音+子音） → 連結なし。reach の /ʃ/ が fortress の /f/ に先行 → 連結なし",
+            "「drought will have」— drought の語末 /t/ が未開放で [ˈdraʊt̚]、will は弱形 /wəl/、have は弱形 /həv/",
+            "「have plighted」— have の語末 /v/ が plighted の /p/ に先行 [ˈhæv ˈplaɪtəd] ハヴ プライティッド"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ フォーティレス ザ ドラウト ウィル ハヴ プライティッド アワー サプライ リザーブズ イリリヴァーサブリー"
+        },
+        {
+          "en": "We will have plighted the settlement's future growth if we fail to secure enough diamonds by spring.",
+          "ja": "春までに十分なダイヤモンドを確保しなければ、定住地の将来の成長を危機に陥れているでしょう。",
+          "ipa": "/wi wɪl ˈhæv ˈplaɪtəd ðə ˈsɛtəlmənts ˈfjutʃɚ ɡroʊθ ɪf wi feɪl tu sɪˈkjɚ ɪˈnʌf ˈdaɪəmɑndz baɪ ˈsprɪŋ/",
+          "linking": [
+            "「will have plighted」— will は弱形 /wəl/、have は弱形 /həv/。have の語末 /v/ が plighted の /p/ に先行 [ˈhæv ˈplaɪtəd]",
+            "「settlement's future」— settlement の語末 /t/ が未開放で [ˈsɛtəlmənt̚]、future の /f/ に先行"
+          ],
+          "kana": "ウィー ウィル ハヴ プライティッド ザ セットゥルメンツ フューチャー グロウス イフ ウィー フェイル トゥー シキュアー イナフ ダイアモンズ バイ スプリング"
+        }
+      ]
     }
   ],
   "idioms": [

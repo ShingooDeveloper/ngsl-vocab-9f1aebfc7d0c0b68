@@ -1,22 +1,35 @@
-PHONETIC ANALYSIS FOR "bloom" PERFECT FORMS
-============================================
+CRITICAL ERRORS FOUND:
 
-PRESENT PERFECT:
-- Example 1: "has bloomed" with "flowers" - IPA and kana check OK
-- Example 2: "nether fortress entrance" - ERRORS FOUND
-  * "fortress" IPA: /ˈfɔrts/ is WRONG - should be /ˈfɔr.təs/ (2 syllables with schwa)
-  * "entrance" IPA: /əsˈɛntrəns/ is WRONG - should be /ˈɛn.trəns/ (no leading schwa-s)
-  * Kana "フォートレス" needs fixing to match correct IPA /ˈfɔr.təs/ → "フォーティス"
-  * Kana "エントランス" OK but IPA must be corrected first
+1. FORM TYPE ERROR - 3rd_person_singular with text "is":
+   - "were" is past form (2nd person singular or plural)
+   - "were" never has "3rd_person_singular" form type
+   - This form should be DELETED (不自然・不適切な活用形)
 
-PAST PERFECT:
-- Example 1: "explosion" /ɪkˈsploʊʒən/ starts with /ɪ/ (not /ɛ/)
-  * Kana ERROR: "エクスプロージョン" starts with エ - should be "イクスプロージョン" (start with イ)
-- Example 2: Looks OK
+2. LINKING DESCRIPTION ERRORS - Multiple linguistic inaccuracies:
 
-PRESENT PERFECT PROGRESSIVE:
-- Example 1: Looks OK
-- Example 2: "exotic" /ɛɡˈzɑtɪk/ starts with /ɛ/ (not /ɪ/)
-  * Kana ERROR: "イグゾティック" starts with イ - should be "エグゾティック" (start with エ)
-  * Linking notation ERROR: shows [ˈrɛr ɪɡˈzɑtɪk] but should be [ˈrɛr ɛɡˈzɑtɪk]
-    (the /r/ of "rare" links to the /ɛ/ of "exotic", not /ɪ/)
+   Example 2 (3rd_person_singular): "Diamond ore is very valuable."
+   - Current: "is + very: 語末の /z/ が母音 /ɛ/ に連結 [ɪzɛ]"
+   - ERROR: "very" starts with /v/ (consonant), NOT /ɛ/ (vowel)
+   - FIX: Remove this inaccurate description
+
+   Example 3 (past_tense): "I was mining when the creeper came."
+   - Current: "was + mining: 語末の /z/ が母音 /ɪ/ に連結 [wɑzɪŋ]"
+   - ERROR: "mining" starts with /m/ (consonant), NOT /ɪ/ (vowel)
+   - FIX: Remove - this is consonant+consonant, not true linking
+
+   Example 5 (past_participle): "I have been mining all night."
+   - Current: "mining + all: /ɪŋ/ が /ɔ/ に先行"
+   - FIX: Remove - this is just consonant+vowel continuation, not linking
+
+   Example 8 (present_participle): "We are being attacked by ghasts!"
+   - Current: "being + attacked: /ŋ/ の後、/ə/ に続く"
+   - FIX: Remove - this is not meaningful linking
+
+3. UNCLEAR/VAGUE DESCRIPTIONS:
+   - "very: 弱形で後続の語に連なる" - Too vague, remove
+   - "have + been: ...been に連結" - Awkward phrasing for consonant cluster
+
+ACTIONS REQUIRED:
+✓ Delete entire 3rd_person_singular form
+✓ Remove/fix inaccurate linking descriptions
+✓ Keep linguistically accurate descriptions only

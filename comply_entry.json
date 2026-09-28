@@ -290,6 +290,186 @@
           "kana": "バイ ザ タイム ザ アップデイト リリースト ザ ベイタ テスターズ ハド ビン コンプライイング ウィザ ザ クロウズド ベイタ タームズ ファー マンスズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has complied",
+      "ipa": "/həz kəmˈplaɪd/",
+      "examples": [
+        {
+          "en": "The player has complied with all server regulations and received administrative rewards.",
+          "ja": "プレイヤーはすべてのサーバー規制に従い、管理者の報酬を受け取りました。",
+          "ipa": "/ðə ˈpleɪɚ həz kəmˈplaɪd wɪð ɔːl ˈsɝvɚ ˌrɛɡjəˈleɪʃənz ənd rɪˈsivd ˌædmɪnɪsˈtreɪtɪv rɪˈwɔɹdz/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「has」は弱形 /həz/ ハズ",
+            "「regulations and」で語末 /z/ が「and」弱形 /ən/ に連結 [ˌrɛɡjəˈleɪʃənzən] レギュレーションズアン"
+          ],
+          "kana": "ザ プレイヤー ハズ コンプライド ウィズ オール サーバー レギュレーションズアン リシーヴド アドミニストレイティヴ リワーズ"
+        },
+        {
+          "en": "We have complied with all the rules so far and haven't encountered any issues on the server.",
+          "ja": "私たちはこれまでのところすべてのルールに従い、サーバー上で問題に遭遇していません。",
+          "ipa": "/wi həv kəmˈplaɪd wɪð ɔːl ðə ˈrulz soʊ ˈfɑɹ ənd ˈhævənt ɪnˈkaʊntɚd ˈɛni ˈɪʃuz ɑn ðə ˈsɝvɚ/",
+          "linking": [
+            "「have」は弱形 /həv/ ハヴ",
+            "「all the」- the は弱形 /ðə/ ザ",
+            "「rules and」で語末 /z/ が「and」弱形 /ən/ に連結 [ˈrulzən] ルーズアン"
+          ],
+          "kana": "ウィ ハヴ コンプライド ウィズ オール ザ ルーズアン ソウ ファー アンド ハヴント インカウントアード エニー イシューズ オン ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had complied",
+      "ipa": "/həd kəmˈplaɪd/",
+      "examples": [
+        {
+          "en": "Before the new security update was installed, the builders had complied with the outdated protocols.",
+          "ja": "新しいセキュリティアップデートがインストールされる前に、ビルダーは古いプロトコルに従っていました。",
+          "ipa": "/bɪˈfɔɹ ðə ˈnju sɪˈkjʊɹəti ʌpˈdeɪt wəz ɪnˈstɔld ðə ˈbɪldɚz həd kəmˈplaɪd wɪðə ðə ˈaʊtˌdeɪtəd ˈproʊtəˌkɑlz/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（複数回）",
+            "「had」は弱形 /həd/ ハド",
+            "「with the」- with の語末 /ð/ が the 弱形 /ðə/ に続く [wɪðə]"
+          ],
+          "kana": "ビフォア ザ ニュー シキュリティー アップデイト ワズ インストール ザ ビルダーズ ハド コンプライド ウィザ ザ アウトデイテッド プロトコルズ"
+        },
+        {
+          "en": "Once the server had complied with the stability requirements, players experienced far fewer crashes during peak hours.",
+          "ja": "一度サーバーが安定性要件に従うと、プレイ時間中のクラッシュが大幅に減少しました。",
+          "ipa": "/wʌns ðə ˈsɝvɚ həd kəmˈplaɪd wɪðə ðə stəˈbɪləti rɪˈkwaɪɚmənts ˈpleɪɚz ɪkˈspɪriənst ˈfɑɹ ˈfjuːɚ ˈkræʃəz ˈdʊɹɪŋ ˈpik ˈaʊɚz/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（複数回）",
+            "「had」は弱形 /həd/ ハド",
+            "「experienced」の /d/ が「far」/f/ に先行（子音同士で連結なし）"
+          ],
+          "kana": "ワンス ザ サーバー ハド コンプライド ウィザ ザ ステイビリティー リクワイアメンツ プレイヤーズ イクスピーリエンスト ファー フューアー クラッシーズ ドゥーリング ピーク アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been complying",
+      "ipa": "/həz bɪn kəmˈplaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The server administrator has been complying with the resource conservation protocols and maintaining system stability.",
+          "ja": "サーバー管理者はリソース節約プロトコルに従い続け、システムの安定性を維持しています。",
+          "ipa": "/ðə ˈsɝvɚ ˌædmɪnɪsˈtreɪtɚ həz bɪn kəmˈplaɪɪŋ wɪðə ˈrizɑɹs ˌkɑnsɚˈveɪʃən ˈproʊtəˌkɑlz ənd meɪnˈteɪnɪŋ ˈsɪstəm stəˈbɪləti/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「has been」- has は弱形 /həz/ ハズ、been も弱形 /bɪn/ ビン",
+            "「with」の語末 /ð/ が「the」弱形 /ðə/ に続く [wɪðə]"
+          ],
+          "kana": "ザ サーバー アドミニストレイター ハズ ビン コンプライイング ウィザ リゾース コンサベイション プロトコルズ アンド メインテイニング システム ステイビリティー"
+        },
+        {
+          "en": "Players have been complying with the anti-cheat system and haven't needed to report suspicious behavior in weeks.",
+          "ja": "プレイヤーはアンチチート システムに従い続け、ここ数週間、疑わしい行動を報告する必要がありません。",
+          "ipa": "/ˈpleɪɚz həv bɪn kəmˈplaɪɪŋ wɪðə ðə ˈænti tʃit ˈsɪstəm ənd ˈhævənt ˈnidəd tə rɪˈpɔɹt səˈspɪʃəs bɪˈheɪvjɚ ɪn ˈwiks/",
+          "linking": [
+            "「have been」- have は弱形 /həv/ ハヴ、been も弱形 /bɪn/ ビン",
+            "「with the」- with の語末 /ð/ が the 弱形 /ðə/ に続く [wɪðə]",
+            "「system and」で語末 /m/ が「and」弱形 /ən/ の /ə/ に連結"
+          ],
+          "kana": "プレイヤーズ ハヴ ビン コンプライイング ウィザ ザ アンティ チート システム アンド ハヴント ニーディッド トゥ リポート サスピシャス ビヘイビアー イン ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will comply",
+      "ipa": "/wɪl kəmˈplaɪ/",
+      "examples": [
+        {
+          "en": "Builders will comply with the new rules and complete their structures safely.",
+          "ja": "ビルダーは新しいルールに従い、彼らの構造を安全に完成させるでしょう。",
+          "ipa": "/ˈbɪldɚz wɪl kəmˈplaɪ wɪðə ðə ˈnju ˈrulz ənd kəmˈplit ðɛr ˈstrʌktʃɚz ˈseɪfli/",
+          "linking": [
+            "「with the」- the 弱形 /ðə/ ザ",
+            "「rules and」- rules の語末 /z/ が and 弱形 /ən/ の /ə/ に連結 [ˈrulzən] ルーズアン",
+            "「structures safely」- structures の語末 /z/ が safely /ˈ/ に続く（子音同士で連結なし）"
+          ],
+          "kana": "ビルダーズ ウィル コンプライ ウィザ ザ ニュー ルーズアン コンプリート ゼア ストラクチャーズ セイフリー"
+        },
+        {
+          "en": "We'll comply with all the server updates and report any bugs we discover.",
+          "ja": "私たちはすべてのサーバーアップデートに従い、発見したバグを報告するでしょう。",
+          "ipa": "/wil kəmˈplaɪ wɪðə ˈɔl ðə ˈsɝvɚ ʌpˈdeɪts ənd rɪˈpɔɹt ˈɛni bʌɡz wi dɪsˈkʌvɚ/",
+          "linking": [
+            "「with the」- the 弱形 /ðə/ ザ",
+            "「updates and」- updates の語末 /s/ が and 弱形 /ən/ の /ə/ に連結 [ʌpˈdeɪtsən] アップデイツアン",
+            "「any bugs」- any の語末 /i/ が bugs の /b/ に先行（母音から子音への移行）"
+          ],
+          "kana": "ウィル コンプライ ウィザ オール ザ サーバー アップデイツアン レポート エニー バグズ ウィ ディスカバー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be complying",
+      "ipa": "/wɪl bi kəmˈplaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The player will be complying with the rules while exploring the Nether.",
+          "ja": "プレイヤーはネザーを探索しながらルールに従うでしょう。",
+          "ipa": "/ðə ˈpleɪɚ wɪl bi kəmˈplaɪɪŋ wɪðə ðə ˈrulz waɪl ɪkˈsplɔɹɪŋ ðə ˈnɛðɚ/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（複数回）",
+            "「rules while」- rules の語末 /z/ が while /w/ に続く（子音同士で連結なし）",
+            "「exploring the」- exploring の語末 /ŋ/ が the /ðə/ に続く（子音同士で連結なし）"
+          ],
+          "kana": "ザ プレイヤー ウィル ビー コンプライイング ウィザ ザ ルーズ ワイル イクスプローリング ザ ネザー"
+        },
+        {
+          "en": "They will be complying with anti-grief laws and building responsibly together.",
+          "ja": "彼らはグリーフ対策法に従い、責任を持って一緒に建築するでしょう。",
+          "ipa": "/ðeɪ wɪl bi kəmˈplaɪɪŋ wɪðə ˈænti ɡrif ˈlɔz ən ˈbɪldɪŋ rɪˈspɑnsəbli təˈɡɛðɚ/",
+          "linking": [
+            "「with anti」- with の語末 /ð/ が anti の /ˈæ/ に連結 [wɪðˈænti]",
+            "「laws and」- laws の語末 /z/ が and 弱形 /ən/ の /ə/ に連結 [ˈlɔzən] ローズアン",
+            "「building responsibly」- building の語末 /ŋ/ が responsibly の /r/ に先行（子音同士で連結なし）"
+          ],
+          "kana": "ゼイ ウィル ビー コンプライイング ウィザ アンティ グリーフ ローズアン ビルディング レスポンサブリー トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have complied",
+      "ipa": "/wɪl həv kəmˈplaɪd/",
+      "examples": [
+        {
+          "en": "By the end of the month, all players will have complied with the new anti-cheat policies.",
+          "ja": "月末までに、すべてのプレイヤーは新しいアンチチートポリシーに従っているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈmʌnθ ˈɔl ˈpleɪɚz wɪl həv kəmˈplaɪd wɪðə ðə ˈnju ˈænti tʃit ˈpɑləsiz/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（複数回）",
+            "「end of」- end の語末 /d/ が of 弱形 /əv/ の /ə/ に連結 [ˈɛndəv] エンダヴ",
+            "「with the」- with の語末 /ð/ が the の /ðə/ に続く（子音同士）、the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ザ エンダヴ ザ マンス オール プレイヤーズ ウィル ハヴ コンプライド ウィザ ザ ニュー アンティ チート ポリシーズ"
+        },
+        {
+          "en": "Once the update launches, they will have complied with all the beta testing requirements.",
+          "ja": "アップデートが起動したら、彼らはすべてのベータテスト要件に従っているでしょう。",
+          "ipa": "/wʌns ðə ʌpˈdeɪt ˈlɔntʃɪz ðeɪ wɪl həv kəmˈplaɪd wɪðə ˈɔl ðə ˈbeɪtə ˈtɛstɪŋ rɪˈkwaɪɚmənts/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ（複数回）",
+            "「update launches」- update の語末 /t/ が未開放",
+            "「with all」- with の語末 /ð/ が all の /ɔ/ に連結 [wɪðˈɔl] ウィザ オール"
+          ],
+          "kana": "ワンス ザ アップデイト ローンチーズ ゼイ ウィル ハヴ コンプライド ウィザ オール ザ ベイタ テスティング リクワイアメンツ"
+        }
+      ]
     }
   ]
 }

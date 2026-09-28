@@ -221,6 +221,67 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is furnishing",
+      "ipa": "/ɪz ˈfɜɹnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The builder is furnishing the new castle with grand furniture and decor.",
+          "ja": "建築者は新しい城に豪華な家具と装飾品を装備している。",
+          "ipa": "/ðə ˈbɪldər ɪz ˈfɜɹnɪʃɪŋ ðə ˈnu ˈkæsəl wɪð ˈɡrænd ˈfɝnɪtʃər ənd dɪˈkɔɹ/",
+          "linking": [
+            "「the」は定冠詞で弱形 /ðə/ ザ",
+            "「builder is」で語末 /r/ が母音 /ɪ/ に連結 [ˈbɪldərɪz] ビルダーイズ",
+            "「and」は弱形 /ənd/ アンド"
+          ],
+          "kana": "ザ ビルダーイズ フェルニシング ザ ニュー キャッセル ウィズ グランド ファーニチャー アンド デコー"
+        },
+        {
+          "en": "The team is furnishing their mining base with chests and workbenches.",
+          "ja": "チームは採鉱基地にチェストとワークベンチを装備している。",
+          "ipa": "/ðə ˈtim ɪz ˈfɜɹnɪʃɪŋ ðɛr ˈmaɪnɪŋ ˈbeɪs wɪð ˈtʃɛsts ənd ˈwɝkˌbɛntʃɪz/",
+          "linking": [
+            "「the」は弱形 /ðə/ ザ",
+            "「team is」で語末 /m/ が母音 /ɪ/ に連結 [ˈtimɪz] ティームイズ",
+            "「and」は弱形 /ənd/ アンド"
+          ],
+          "kana": "ザ ティーム イズ フェルニシング ゼア マイニング ベイス ウィズ チェスツ アンド ワークベンチーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was furnishing",
+      "ipa": "/wəz ˈfɜɹnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "While I was furnishing the tower, a creeper attack destroyed the upper section.",
+          "ja": "私が塔を装備している間に、クリーパー攻撃が上部を破壊した。",
+          "ipa": "/waɪl aɪ wəz ˈfɜɹnɪʃɪŋ ðə ˈtaʊər ə ˈkripər əˈtæk dɪˈstrɔɪd ðə ˈʌpər ˈsɛkʃən/",
+          "linking": [
+            "「was」は弱形 /wəz/ ワズ",
+            "「the tower」で the は弱形 /ðə/ ザ",
+            "「a creeper」で a は弱形 /ə/ ア",
+            "「the upper」で the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ワイル アイ ワズ フェルニシング ザ タウアー ア クリーパー アタック ディストロイド ザ アッパー セクション"
+        },
+        {
+          "en": "They were furnishing the underground hall when the server crashed.",
+          "ja": "サーバーがクラッシュしたときに、彼らは地下ホールを装備していた。",
+          "ipa": "/ðeɪ wɚ ˈfɜɹnɪʃɪŋ ðə ˌʌndɚˈɡraʊnd ˈhɔl wɛn ðə ˈsɚvər kræʃt/",
+          "linking": [
+            "「were」は弱形 /wɚ/ ワー",
+            "「the underground」で the は弱形 /ðə/ ザ",
+            "「when the」で語末 /n/ が子音 /ð/ に先行（子音+子音で連結なし）"
+          ],
+          "kana": "ザイ ワー フェルニシング ザ アンダーグラウンド ホール ウェン ザ サーヴァー クラッシュド"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形",
       "text": "has furnished",
@@ -281,6 +342,38 @@
             "「before the players」で「the」は弱形 /ðə/ ザ"
           ],
           "kana": "ザ ビルダーズ ハド フェルニシッド ザ マンション ウィズ レア インチャンティッド アイテムズ ビフォア ザ プレイヤーズ アライヴド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been furnishing",
+      "ipa": "/həd bɪn ˈfɜɹnɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "We had been furnishing supplies to the outpost for weeks before it was abandoned.",
+          "ja": "放棄される前に、数週間の間、前哨基地に補給品を供給し続けていた。",
+          "ipa": "/wi həd bɪn ˈfɜɹnɪʃɪŋ səˈplaɪz tu ðə ˈaʊtˌpoʊst fɔr ˈwiks bɪˈfɔr ɪt wəz əˈbændənd/",
+          "linking": [
+            "「had」は弱形 /həd/ ハド",
+            "「been」は弱形 /bɪn/ ビン",
+            "「to the」で to は弱形 /tə/ タ、the は弱形 /ðə/ ザ",
+            "「for」は弱形 /fɔr/ フォー"
+          ],
+          "kana": "ウィ ハド ビン フェルニシング サプライズ タ ザ アウトポースト フォー ウィークス ビフォア イット ワズ アバンダンド"
+        },
+        {
+          "en": "By the time the raid ended, they had been furnishing defenses for over an hour.",
+          "ja": "レイドが終わるまでに、彼らは1時間以上防御設備を装備し続けていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈreɪd ˈɛndəd ðeɪ həd bɪn ˈfɜɹnɪʃɪŋ dɪˈfɛnsɪz fɔr ˈoʊvɚ ən ˈaʊər/",
+          "linking": [
+            "「by the」で the は弱形 /ðə/ ザ",
+            "「the raid」で the は弱形 /ðə/ ザ",
+            "「had been」で had は弱形 /həd/ ハド、been は弱形 /bɪn/ ビン",
+            "「for」は弱形 /fɔr/ フォー、「over」の初頭 /oʊ/ に続く"
+          ],
+          "kana": "バイ ザ タイム ザ レイド エンデッド ザイ ハド ビン フェルニシング ディフェンシーズ フォー オーヴァー アン アワー"
         }
       ]
     },

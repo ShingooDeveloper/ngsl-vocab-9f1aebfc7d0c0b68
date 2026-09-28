@@ -128,7 +128,7 @@
           "ipa": "[ðə ˈkriːpər ɪkˈsploʊʒən kəmˈpɛld əz tə əˈbændən aʊər ənˈtaɪər ˈbeɪs ɪˈmidiətli]",
           "kana": "ザ クリーパー イクスプロウジャン コンペルド アズ タ アバンダン アワー エンタイアー ベイス イミディットリー",
           "linking": [
-            "creeper の語末 /r/ が explosion の初頭 /ɪ/ に...vowel-consonant boundary, no linking",
+            "creeper の語末 /r/ が explosion の初頭 /ɪ/ に連結 [ˈkriːpər ɪk-] クリーパー イクスプロウジャン",
             "compelled us → compelled の語末 /d/ が us の初頭の母音 /ə/ に連結 [kəmˈpɛld əz] コンペルダズ",
             "to は機能語の弱形 /tə/ に弱化。abandon の初頭 /ə/ へ向かう [tə əˈbændən] タ アバンダン"
           ]
@@ -178,7 +178,7 @@
           "kana": "ザ トレジャー マップ イズ コンペリング ミー タ エクスプロア ザ オーシャンズ ディープスト アンダーウォーター ケイヴズ",
           "linking": [
             "is は弱形 /ɪz/ に弱化し、compelling の初頭 /k/ に向かう [ɪz kəmˈpɛlɪŋ] イズ コンペリング",
-            "compelling me → compelling の語末 /ŋ/ が me の初頭 /m/ に...鼻音+子音で未開放 [kəmˈpɛlɪŋ mi] コンペリング ミー",
+            "compelling me → compelling の語末 /ŋ/ が me の初頭 /m/ に連結。両方とも鼻音で [kəmˈpɛlɪŋ mi] コンペリング ミー",
             "to は機能語の弱形 /tə/ に弱化。explore の初頭 /ɪ/ へ向かう [tə ɪkˈsplɔr] タ エクスプロア"
           ]
         },
@@ -196,6 +196,96 @@
       ]
     },
     {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is compelling",
+      "ipa": "/ɪz kəmˈpɛlɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is compelling a player to gather diamonds continuously.",
+          "ja": "管理者がプレイヤーにダイヤを継続的に集めるよう強制している。",
+          "ipa": "[ðə ˈædmɪn ɪz kəmˈpɛlɪŋ ə ˈpleɪər tə ˈɡæðər ˈdaɪmənz kənˈtɪnjuːəsli]",
+          "kana": "ザ アドミン イズ カムペリング ア プレイア タ ギャザー ダイモンズ コンティニューアスリー",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /æ/ の前 [ðə ˈædmɪn] ザ アドミン",
+            "is の弱形 /ɪz/ が compelling の初頭 /k/ に向かい子音+子音 [ɪz kəmˈpɛlɪŋ] イズ カムペリング",
+            "compelling a: 語末鼻音 /ŋ/ が母音 /ə/ に連結 [kəmˈpɛlɪŋ ə] カムペリング ア"
+          ]
+        },
+        {
+          "en": "Strict server rules are compelling everyone to work much harder.",
+          "ja": "厳しいサーバールールがみんなをもっと努力するよう強制している。",
+          "ipa": "[strɪkt ˈsɝvər rulz ɑr kəmˈpɛlɪŋ ˈɛvriˌwʌn tə wɝk ˈmʌtʃ ˈhɑrdər]",
+          "kana": "ストリクト サーバー ルールズ アー カムペリング エヴリワン タ ワーク マッチ ハーダー",
+          "linking": [
+            "are の弱形 /ɑr/ が compelling の初頭 /k/ に向かい子音+子音 [ɑr kəmˈpɛlɪŋ] アー カムペリング",
+            "to は弱形 /tə/ で work の /w/ に続く（子音+子音）[tə wɝk] タ ワーク",
+            "work の語末 /k/ が harder の /h/ に未開放で続く [wɝk̚ ˈhɑrdər] ワーッ ハーダー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was compelling",
+      "ipa": "/wəz kəmˈpɛlɪŋ/",
+      "examples": [
+        {
+          "en": "Lag spikes were compelling players to abandon the server in frustration.",
+          "ja": "ラグスパイクがプレイヤーをサーバーから去るよう強制していた。",
+          "ipa": "[læg spaɪks wɚ kəmˈpɛlɪŋ ˈpleɪərz tə əˈbændən ðə ˈsɝvər ɪn frəsˈtreɪʃən]",
+          "kana": "ラグ スパイクス ウェア カムペリング プレイャーズ タ アバンダン ザ サーバー イン フラストレーション",
+          "linking": [
+            "were の /r/ が compelling の初頭 /k/ に向かい子音+子音 [wɚ kəmˈpɛlɪŋ] ウェア カムペリング",
+            "to は弱形 /tə/ で abandon の /ə/ に連結 [tə əˈbændən] タ アバンダン",
+            "the は弱形 /ðə/ で server の /s/ の前 [ðə ˈsɝvər] ザ サーバー"
+          ]
+        },
+        {
+          "en": "The Nether's extreme heat was compelling us to find shelter before taking damage.",
+          "ja": "ネザーの極端な熱が私たちにダメージを受ける前に避難場所を探すよう強制していた。",
+          "ipa": "[ðə ˈnɛðərz ɪkˈstrim hit wəz kəmˈpɛlɪŋ əs tə faɪnd ˈʃɛltər bɪˈfɔr ˈteɪkɪŋ ˈdæmɪdʒ]",
+          "kana": "ザ ネザーズ イクストリーム ヒート ワズ カムペリング アス タ ファインド シェルター ビフォア テイキング ダメージ",
+          "linking": [
+            "was の弱形 /wəz/ が compelling の初頭 /k/ に向かい子音+子音 [wəz kəmˈpɛlɪŋ] ワズ カムペリング",
+            "to は弱形 /tə/ で find の /f/ に続く（子音+子音）[tə faɪnd] タ ファインド",
+            "the は弱形 /ðə/ で Nether の /n/ の前 [ðə ˈnɛðər] ザ ネザー"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been compelling",
+      "ipa": "/hæd bɪn kəmˈpɛlɪŋ/",
+      "examples": [
+        {
+          "en": "Hostile mobs had been compelling me to build defenses all night long.",
+          "ja": "敵モブが一晩中ずっと私に防御を構築させるよう強制していた。",
+          "ipa": "[ˈhoʊstaɪl moʊbz hæd bɪn kəmˈpɛlɪŋ mi tə bɪld dɪˈfɛnsɪz ɔl naɪt lɔŋ]",
+          "kana": "ホウスタイル モウズ ハド ビン カムペリング ミー タ ビルド ディフェンシズ オール ナイト ロング",
+          "linking": [
+            "had の弱形 /hæd/ の /d/ が been の /b/ に未開放で連接 [hæd̚ bɪn] ハド ビン",
+            "been の /n/ が compelling の初頭 /k/ に向かい子音+子音で [bɪn kəmˈpɛlɪŋ] ビン カムペリング",
+            "to は弱形 /tə/ で build の /b/ に続く（子音+子音）[tə bɪld] タ ビルド"
+          ]
+        },
+        {
+          "en": "The challenging terrain had been compelling explorers to cooperate more than usual.",
+          "ja": "難しい地形がずっと探検家に普段以上に協力することを強制していた。",
+          "ipa": "[ðə ˈtʃælɪndʒɪŋ tɛˈreɪn hæd bɪn kəmˈpɛlɪŋ ɪkˈsplɔrərz tə koʊˈɑpəreɪt ˈmoʊr ðən ˈjuːʒuəl]",
+          "kana": "ザ チャレンジング テレイン ハド ビン カムペリング イクスプロアーズ タ コウオパレイト モア ザン ユージュアル",
+          "linking": [
+            "the は弱形 /ðə/ で challenging の /tʃ/ の前 [ðə ˈtʃælɪndʒɪŋ] ザ チャレンジング",
+            "had の弱形 /hæd/ の /d/ が been の /b/ に未開放で連接 [hæd̚ bɪn] ハド ビン",
+            "been の /n/ が compelling の /k/ に連結 [bɪn kəmˈpɛlɪŋ] ビン カムペリング"
+          ]
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形",
       "text": "has compelled",
@@ -207,7 +297,7 @@
           "ipa": "[ðə ˈkɑnstənt ˈdeɪndʒər həz kəmˈpɛld əz tə bɪld ˈmʌltɪpəl ˈbeɪsɪz əˈkrɔs ðə mæp]",
           "kana": "ザ コンスタント デンジャー ハズ コンペルド アズ タ ビルド マルティプル ベイシーズ アクロス ザ マップ",
           "linking": [
-            "has compelled → has は弱形 /həz/、compelled の初頭 /k/ に向かう [həz kəmˈpɛld] ハズ コンペルド",
+            "has compelled → has は弱形 /həz/ で compelled の初頭 /k/ に向かい子音+子音で [həz kəmˈpɛld] ハズ コンペルド",
             "compelled us → compelled の語末 /d/ が us の初頭の母音 /ə/ に連結 [kəmˈpɛld əz] コンペルダズ",
             "to は機能語の弱形 /tə/ に弱化 [tə bɪld] タ ビルド"
           ]
@@ -218,8 +308,8 @@
           "ipa": "[maɪ ˈtimmeɪts həv kəmˈpɛld mi tə dʒɔɪn ðɛr ˈfaɪnəl ˈɛnd ɛkˈspɛdɪʃən]",
           "kana": "マイ ティームメイツ ハヴ コンペルド ミー タ ジョイン ゼア ファイナル エンド エクスペディション",
           "linking": [
-            "have compelled → have は弱形 /həv/、compelled の初頭 /k/ に向かう [həv kəmˈpɛld] ハヴ コンペルド",
-            "compelled me → compelled の語末 /d/ が me の初頭 /m/ に...子音+子音で未開放 [kəmˈpɛld mi] コンペルド ミー",
+            "have compelled → have は弱形 /həv/ で compelled の初頭 /k/ に向かい子音+子音で [həv kəmˈpɛld] ハヴ コンペルド",
+            "compelled me → compelled の語末 /d/ が me の初頭 /m/ に向かい子音+子音で compelled が未開放 [kəmˈpɛld̚ mi] コンペルド ミー",
             "to は機能語の弱形 /tə/ に弱化 [tə dʒɔɪn] タ ジョイン"
           ]
         }
@@ -237,7 +327,7 @@
           "ipa": "[ðə ˈɜrlɪər ˈkripər blæst həd kəmˈpɛld ˈɛvriwʌn tə teɪk ˈʃɛltər ɪn ðə stoʊn ˈfɔrtɪs]",
           "kana": "ザ アーリア クリーパー ブラスト ハド コンペルド エブリワン タ テイク シェルター イン ザ ストウン フォーティス",
           "linking": [
-            "had compelled → had は弱形 /həd/、compelled の初頭 /k/ に向かう [həd kəmˈpɛld] ハド コンペルド",
+            "had compelled → had は弱形 /həd/ で /d/ は未開放。compelled の初頭 /k/ に続く子音+子音で [həd̚ kəmˈpɛld] ハド コンペルド",
             "compelled everyone → compelled の語末 /d/ が everyone の初頭の母音 /ɛ/ に連結 [kəmˈpɛld ˈɛvriwʌn] コンペルドエブリワン",
             "to は機能語の弱形 /tə/ に弱化 [tə teɪk] タ テイク"
           ]
@@ -248,8 +338,8 @@
           "ipa": "[baɪ ðə taɪm wi əˈraɪvd ðə ˈwɔrdən ɛnˈkaʊntər həd kəmˈpɛld ðə ˈædmɪn tə ˈrizɛt ðə dɪˈmɛnʃən]",
           "kana": "バイ ザ タイム ウィー アライヴド ザ ワーデン エンカウンター ハド コンペルド ザ アドミン タ リーセット ザ ディメンション",
           "linking": [
-            "had compelled → had は弱形 /həd/、compelled の初頭 /k/ に向かう [həd kəmˈpɛld] ハド コンペルド",
-            "compelled the → compelled の語末 /d/ が the の初頭 /ð/ に連結。the は弱形 /ðə/ [kəmˈpɛld ðə] コンペルドザ",
+            "had compelled → had は弱形 /həd/ で /d/ は未開放。compelled の初頭 /k/ に続く子音+子音で [həd̚ kəmˈpɛld] ハド コンペルド",
+            "compelled the → compelled の語末 /d/ が the の初頭 /ð/ に続く子音+子音で未開放。the は弱形 /ðə/ [kəmˈpɛld̚ ðə] コンペルドザ",
             "to は機能語の弱形 /tə/ に弱化 [tə ˈrizɛt] タ リーセット"
           ]
         }
@@ -267,8 +357,8 @@
           "ipa": "[ðə ɑnˈɡoʊɪŋ θrɛt əv ˈfɔlɪŋ ˈɪntu ðə vɔɪd həz bɪn kəmˈpɛlɪŋ ˈpleɪərz tə ˈkæri ˈwɔtər ˈbækɪts ɛvriˈwɛr]",
           "kana": "ザ オンゴーイング スレット アヴ フォーリング イントゥ ザ ボイド ハズ ビン コンペリング プレイャーズ タ キャリー ウォーラー バケッツ エブリウェア",
           "linking": [
-            "has been → has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
-            "been compelling → been の語末鼻音 /n/ が compelling の初頭 /k/ に続き子音+子音で未開放 [bɪn kəmˈpɛlɪŋ] ビン コンペリング",
+            "has been → has は弱形 /həz/ で been の初頭 /b/ に向かい子音+子音で [həz bɪn] ハズ ビン",
+            "been compelling → been の語末鼻音 /n/ が compelling の初頭 /k/ に向かい子音+子音で been が未開放 [bɪn̚ kəmˈpɛlɪŋ] ビン コンペリング",
             "water → 語幹の /t/ は両側が母音なのでフラップ化し連結 [ˈwɔɾər] ウォーラー"
           ]
         },
@@ -278,9 +368,9 @@
           "ipa": "[ðɪs mɪˈstɪriəs ˈstrʌktʃər həz bɪn kəmˈpɛlɪŋ əs tə ˌɪnˈvɛstɪɡeɪt ɪts ˈsikrəts fər wiks]",
           "kana": "ディス ミステリアス ストラクチャー ハズ ビン コンペリング アス タ インベスティゲイト イツ シークレッツ ファー ウィークス",
           "linking": [
-            "has been → has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
-            "been compelling → been の語末鼻音 /n/ が compelling の初頭 /k/ に続き子音+子音で未開放 [bɪn kəmˈpɛlɪŋ] ビン コンペリング",
-            "compelling us → compelling の語末 /ŋ/ が us の初頭の母音 /ə/ に向かうが鼻音+子音なので未開放 [kəmˈpɛlɪŋ əs] コンペリング アス"
+            "has been → has は弱形 /həz/ で been の初頭 /b/ に向かい子音+子音で [həz bɪn] ハズ ビン",
+            "been compelling → been の語末鼻音 /n/ が compelling の初頭 /k/ に向かい子音+子音で been が未開放 [bɪn̚ kəmˈpɛlɪŋ] ビン コンペリング",
+            "compelling us → compelling の語末 /ŋ/ が us の初頭の母音 /ə/ に連結 [kəmˈpɛlɪŋ əs] コンペリング アス"
           ]
         }
       ]
@@ -294,10 +384,10 @@
         {
           "en": "The wither will compel us to fight with everything we have.",
           "ja": "ウィザーは、私たちにあるすべてで戦うことを強制するでしょう。",
-          "ipa": "[ðə ˈwɪðər wɪl kəmˈpɛl əs tə faɪt wɪð ˈɛvriθɪŋ wi hæv]",
+          "ipa": "[ðə ˈwɪðər wəl kəmˈpɛl əs tə faɪt wɪð ˈɛvriθɪŋ wi əv]",
           "kana": "ザ ウィザー ウル コンペル アス タ ファイト ウィズ エブリシング ウィー ハヴ",
           "linking": [
-            "will compel → will の /l/ が compel の /k/ に続く。will は弱形 /wəl/ に弱化 [wəl kəmˈpɛl] ウル コンペル",
+            "will compel → will は弱形 /wəl/ で compel の初頭 /k/ に向かい子音+子音 [wəl kəmˈpɛl] ウル コンペル",
             "compel us → compel の語末 /l/ が us の初頭 /ə/ に連結 [kəmˈpɛl əs] コンペル アス",
             "to は機能語の弱形 /tə/ に弱化 [tə faɪt] タ ファイト"
           ]
@@ -305,10 +395,10 @@
         {
           "en": "This riddle will compel you to think carefully about every detail.",
           "ja": "このなぞなぞは、あなたにあらゆる詳細について注意深く考えることを強制するでしょう。",
-          "ipa": "[ðɪs ˈrɪdəl wɪl kəmˈpɛl ju tə θɪŋk ˈkɛrfəli əˈbaʊt ˈɛvri ˈditɛl]",
+          "ipa": "[ðɪs ˈrɪdəl wəl kəmˈpɛl ju tə θɪŋk ˈkɛrfəli əˈbaʊt ˈɛvri ˈditɛl]",
           "kana": "ディス リドゥル ウル コンペル ユー タ スィンク ケアフリー アバウト エブリー ディテイル",
           "linking": [
-            "riddle will → riddle の語末 /l/ は未開放で will の初頭 /w/ に続く [ˈrɪdəl̚ wɪl] リドゥル ウィル",
+            "riddle will → riddle の語末 /l/ と will の初頭 /w/ は子音+子音で、riddle が短縮 [ˈrɪdəl̚ wɪl] リドゥル ウィル",
             "will compel → will の /l/ は弱形 /wəl/ に弱化し compel の /k/ に向かう [wəl kəmˈpɛl] ウル コンペル",
             "to は機能語の弱形 /tə/ に弱化 [tə θɪŋk] タ スィンク"
           ]
@@ -324,18 +414,18 @@
         {
           "en": "The boss raid will be compelling us to coordinate perfectly with the team.",
           "ja": "ボスレイドは、私たちにチームと完璧に調整するよう強制し続けるでしょう。",
-          "ipa": "[ðə bɑs reɪd wɪl bi kəmˈpɛlɪŋ əs tə koʊˈɔrdəneɪt ˈpɝfɪktli wɪð ðə tim]",
+          "ipa": "[ðə bɑs reɪd wəl bi kəmˈpɛlɪŋ əs tə koʊˈɔrdəneɪt ˈpɝfɪktli wɪð ðə tim]",
           "kana": "ザ ボス レイド ウル ビー コンペリング アス タ コーディネイト パーフェクトリー ウィズ ザ ティーム",
           "linking": [
-            "will be → will の /l/ が be の /b/ に続く。will は弱形 /wəl/ に弱化 [wəl bi] ウル ビー",
+            "will be → will は弱形 /wəl/ で be の初頭 /b/ に向かい子音+子音 [wəl bi] ウル ビー",
             "be compelling → be の /i/ + compelling の /k/、母音と子音で連結 [bi kəmˈpɛlɪŋ] ビー コンペリング",
-            "compelling us → compelling の語末 /ŋ/ が us の初頭 /ə/ に連結し、鼻音で [kəmˈpɛlɪŋ əs] コンペリング アス"
+            "compelling us → compelling の語末 /ŋ/ が us の初頭の母音 /ə/ に連結 [kəmˈpɛlɪŋ əs] コンペリング アス"
           ]
         },
         {
           "en": "Deep within the nether, the environment will be compelling you to adapt constantly.",
           "ja": "ネザーの深い場所では、環境があなたに常に適応するよう強制し続けるでしょう。",
-          "ipa": "[dip wɪðˈɪn ðə ˈnɛðər ðə ɪnˈvaɪrənmənt̚ wɪl bi kəmˈpɛlɪŋ ju tə əˈdæpt ˈkɑnstəntli]",
+          "ipa": "[dip wɪðˈɪn ðə ˈnɛðər ðə ɪnˈvaɪrənmənt̚ wəl bi kəmˈpɛlɪŋ ju tə əˈdæpt ˈkɑnstəntli]",
           "kana": "ディープ ウィズイン ザ ネザー ザ インバイラメント ウル ビー コンペリング ユー タ アダプト コンスタントリー",
           "linking": [
             "environment will → environment の語末 /t/ は未開放で will の初頭 /w/ に続く [ɪnˈvaɪrənmənt̚ wɪl] インバイラメント ウル",
@@ -354,23 +444,23 @@
         {
           "en": "By the time we escape, the puzzle will have compelled us to solve it dozens of times.",
           "ja": "脱出するまでに、パズルは私たちにそれを何十回も解くことを強制したであろう。",
-          "ipa": "[baɪ ðə taɪm wi ɪˈskeɪp ðə ˈpʌzəl wɪl həv kəmˈpɛld əs tə ˈsɑlv ɪt ˈdʌzənz əv taɪmz]",
+          "ipa": "[baɪ ðə taɪm wi ɪˈskeɪp ðə ˈpʌzəl wəl əv kəmˈpɛld əs tə ˈsɑlv ɪt ˈdʌzənz əv taɪmz]",
           "kana": "バイ ザ タイム ウィー イスケイプ ザ パズル ウル アヴ コンペルド アス タ ソルヴ イット ダズンズ アヴ タイムズ",
           "linking": [
             "will have → will の /l/ が have の /h/ に続く。will は弱形 /wəl/、have は弱形 /əv/ で [wəl əv] ウル アヴ",
-            "have compelled → have の /v/ が compelled の /k/ に続く。子音+子音で未開放 [həv̚ kəmˈpɛld] アヴ コンペルド",
+            "have compelled → have の /v/ が compelled の初頭 /k/ に向かい子音+子音で [əv kəmˈpɛld] アヴ コンペルド",
             "compelled us → compelled の語末 /d/ が us の初頭 /ə/ に連結 [kəmˈpɛld əs] コンペルド アス"
           ]
         },
         {
           "en": "Once we explore the ancient city, the architecture will have compelled me to appreciate the builders' genius.",
           "ja": "古代都市を探索したら、建築は私に建築者の天才性を認識させたであろう。",
-          "ipa": "[wʌns wi ɪkˈsplɔr ðə ˈeɪʃənt ˈsɪti ðə ˌɑrkɪˈtɛktʃər wɪl həv kəmˈpɛld mi tə əˈpriʃieɪt ðə ˈbɪldərz ˈdʒiniəs]",
+          "ipa": "[wʌns wi ɪkˈsplɔr ðə ˈeɪʃənt ˈsɪti ðə ˌɑrkɪˈtɛktʃər wəl əv kəmˈpɛld mi tə əˈpriʃieɪt ðə ˈbɪldərz ˈdʒiniəs]",
           "kana": "ワンス ウィー エクスプロア ザ エンシェント シティ ザ アーキテクチャー ウル アヴ コンペルド ミー タ アプリシエイト ザ ビルダーズ ジーニアス",
           "linking": [
-            "explore the → explore の語末 /r/ が the の初頭 /ð/ に...子音+子音で [ɪkˈsplɔr ðə] エクスプロア ザ",
+            "explore the → explore の語末 /r/ が the の初頭 /ð/ に続く [ɪkˈsplɔr ðə] エクスプロア ザ",
             "will have → will は弱形 /wəl/、have は弱形 /əv/ で [wəl əv] ウル アヴ",
-            "have compelled → have の /v/ が compelled の /k/ に続く。子音+子音で未開放 [həv̚ kəmˈpɛld] アヴ コンペルド"
+            "have compelled → have の /v/ が compelled の /k/ に続く [əv kəmˈpɛld] アヴ コンペルド"
           ]
         }
       ]

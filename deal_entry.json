@@ -70,6 +70,21 @@
     "a big deal（大事件、重要な事柄）",
     "it's no big deal（大したことじゃない、気にするな）"
   ],
+  "idioms": [
+    {
+      "idiom": "deal with ～",
+      "ja": "～を扱う、処理する、対処する",
+      "example": "You have to deal with zombies when mining at night.",
+      "example_ja": "夜間に採掘するときはゾンビに対処しなくてはいけない。",
+      "ipa": "/ju ˈhæftə ˈdil wɪð ˈzɑːmbiz wɛn ˈmaɪnɪŋ‿ət ˈnaɪt/",
+      "linking": [
+        "have to → have の /v/ が無声化して /f/ になり、to は弱形 /tə/。全体で [ˈhæftə] ハフタ",
+        "with zombies → with の /ð/ が zombies の母音に連結 [wɪð‿ˈzɑːmbiz]",
+        "mining at → mining は /ˈmaɪnɪŋ/、at は弱形 /ət/。末尾の /ŋ/ と母音 /ə/ が連結 [ˈmaɪnɪŋ‿ət]"
+      ],
+      "kana": "ユー ハフタ ディール ウィズ・ゾンビーズ ウェン マイニング・アット ナイト"
+    }
+  ],
   "substitutions": [
     {
       "base": "Players have to deal with dangerous mobs when exploring caves at night.",
@@ -360,6 +375,21 @@
           ]
         }
       ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "a great/good deal (of ~)",
+      "ja": "多くの、大量の",
+      "example": "Players can lose a great deal of valuable items when they die in the Nether.",
+      "example_ja": "プレイヤーはネザーで死ぬとき、価値のあるアイテムをたくさん失う可能性があります。",
+      "ipa": "/ˈpleɪərz kæn luːz ə ˈɡreɪt ˈdil əv ˈvæljuəbəl ˈaɪtəmz wɛn ðeɪ ˈdaɪ ɪn ðə ˈnɛðər/",
+      "linking": [
+        "lose a で lose の語末子音 /z/ が a の母音 /ə/ に連結し [luːz‿ə] ルーズ・ア",
+        "deal of で deal の語末子音 /l/ が of の弱形 /əv/ の母音に連結 [ˈdil‿əv] ディール・オヴ、of は弱形 /əv/ に弱化",
+        "in the で in の /n/ が the の弱形 /ðə/ に連結 [ɪn‿ðə] イン・ザ"
+      ],
+      "kana": "プレイヤーズ キャン ルーズ・ア グレイト ディール・オヴ ヴァリュアブル アイテムズ ウェン ゼイ ダイ イン・ザ ネザー"
     }
   ]
 }

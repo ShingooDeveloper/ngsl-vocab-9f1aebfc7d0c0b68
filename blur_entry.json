@@ -333,16 +333,16 @@
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has blurred",
-      "ipa": "/həz blɝd/",
+      "ipa": "/hæz blɝd/",
       "examples": [
         {
           "en": "The fog effect has blurred my vision for the entire mining session.",
           "ja": "霧のエフェクトはマイニングセッション全体を通じて、私の視界をぼやかしてきた。",
-          "ipa": "/ðə fɑɡ ɪˈfɛkt ˈhæz blɝd maɪ ˈvɪʒən fɔr ðə ənˈtaɪr ˈmaɪnɪŋ ˈsɛʃən/",
+          "ipa": "/ðə fɔg ɪˈfɛkt ˈhæz blɝd maɪ ˈvɪʒən fɔr ðə ənˈtaɪr ˈmaɪnɪŋ ˈsɛʃən/",
           "kana": "ザ フォッグ イフェクト ハズ ブラード マイ ビジョン フォ ザ エンタイアー マイニング セッション",
           "linking": [
             "「the fog」で the は定冠詞の弱形 /ðə/「ザ」",
-            "「effect has」で effect の語末 /t/ が母音 /æ/ に先行（子音が次に続く）、has は助動詞で弱形 /əz/ ハズ",
+            "「effect has」で effect の語末子音 /t/ と has の語頭子音 /h/ が隣接し、has は /æz/ ハズ",
             "「has blurred」で has の語末子音 /z/ が子音 /b/ に続き未開放「ハズ ブラード」",
             "「for the」で for は弱形 /fɚ/「フォ」、the は弱形 /ðə/「ザ」"
           ]
@@ -353,10 +353,10 @@
           "ipa": "/ˈpleɪɚz ˈhæv blɝd ðə dɪsˈtɪŋkʃən bɪˈtwin ɡeɪm moʊdz ɑn ðɪs ˈsɝvɚ ɔl ˈsiːzən/",
           "kana": "プレイヤーズ ハヴ ブラード ザ ディスティングクション ビトゥウィーン ゲイム モウズ オン ディス サーバー オール シーズン",
           "linking": [
-            "「players have」で players の語末子音 /z/ が母音 /æ/ に連結「プレイヤーズ ハヴ」、have は助動詞で弱形 /əv/",
+            "「players have」で players の語末子音 /z/ と have の語頭子音 /h/ が隣接「プレイヤーズ ハヴ」、have は助動詞で弱形 /æv/",
             "「have blurred」で have の語末子音 /v/ が子音 /b/ に続き未開放「ハヴ ブラード」",
             "「the distinction」で the は定冠詞の弱形 /ðə/「ザ」",
-            "「on this」で on は弱い、this の語末 /s/ が母音 /s/ に続く"
+            "「on this」で on の語末子音 /n/ と this の語頭子音 /ð/ が隣接「オン ディス」"
           ]
         }
       ]
@@ -365,7 +365,7 @@
       "type": "past_perfect",
       "label": "過去完了形（had + 過去分詞）",
       "text": "had blurred",
-      "ipa": "/həd blɝd/",
+      "ipa": "/hæd blɝd/",
       "examples": [
         {
           "en": "By the time we reached the entrance, the rain had blurred all the directional signs we placed.",
@@ -397,16 +397,16 @@
       "type": "present_perfect_progressive",
       "label": "現在完了進行形（has/have been + -ing）",
       "text": "has been blurring",
-      "ipa": "/həz bɪn ˈblɝɪŋ/",
+      "ipa": "/hæz bɪn ˈblɝɪŋ/",
       "examples": [
         {
           "en": "The fog has been blurring our visibility while we construct the defensive wall.",
           "ja": "防御壁を建築している間、霧が私たちの視界をぼやかし続けている。",
-          "ipa": "/ðə fɑɡ ˈhæz bɪn ˈblɝɪŋ ˈaʊɚ ˌvɪzɪˈbɪləti waɪl wi kənˈstrʌkt ðə dɪˈfɛnsɪv wɔl/",
-          "kana": "ザ フォッグ ハズ ビン ブラーリング アワー ビジビリティ ワイル ウィ コンストラクト ザ ディフェンシヴ ウォール",
+          "ipa": "/ðə fɔg ˈhæz bɪn ˈblɝɪŋ ˈaʊɚ ˌvɪzɪˈbɪləti waɪl wi kənˈstrʌkt ðə dɪˈfɛnsɪv wɔl/",
+          "kana": "ザ フォッグ ハズ ビン ブラーイング アワー ビジビリティ ワイル ウィ コンストラクト ザ ディフェンシヴ ウォール",
           "linking": [
             "「the fog」で the は定冠詞の弱形 /ðə/「ザ」",
-            "「fog has」で fog の語末 /g/ が母音 /æ/ に先行（子音で終わる）、has は助動詞で弱形 /əz/ ハズ",
+            "「fog has」で fog の語末子音 /g/ と has の語頭子音 /h/ が隣接、has は /æz/ ハズ",
             "「has been」で has の語末子音 /z/ が子音 /b/ に続き未開放、been は弱形 /bɪn/ ビン「ハズ ビン」",
             "「while we」で while の語末 /l/ が we に連結「ワイル ウィー」"
           ]
@@ -415,10 +415,10 @@
           "en": "Water particles have been blurring the underwater landscape ever since we entered the ocean monument.",
           "ja": "海の記念碑に入った時から、水のパーティクルが水中の風景をぼやかし続けている。",
           "ipa": "/ˈwɔtɚ ˈpɑɹtɪkəlz ˈhæv bɪn ˈblɝɪŋ ðə ˌʌndɚˈwɔtɚ ˈlændskeɪp ˈɛvɚ sɪns wi ˈɛntɚd ðə ˈoʊʃən ˈmɑnjəmənt/",
-          "kana": "ウォーター パーティクルズ ハヴ ビン ブラーリング ザ アンダーウォーター ランドスケイプ エバー シンス ウィ エンタード ザ オウシャン モニュメント",
+          "kana": "ウォーター パーティクルズ ハヴ ビン ブラーイング ザ アンダーウォーター ランドスケイプ エバー シンス ウィ エンタード ザ オウシャン モニュメント",
           "linking": [
             "「water particles」で water の語末 /r/ が particles に連結「ウォーター パーティクルズ」",
-            "「particles have」で particles の語末子音 /z/ が母音 /æ/ に連結「パーティクルズ ハヴ」、have は助動詞で弱形 /əv/",
+            "「particles have」で particles の語末子音 /z/ と have の語頭子音 /h/ が隣接「パーティクルズ ハヴ」、have は助動詞で弱形 /æv/",
             "「have been」で have の語末子音 /v/ が子音 /b/ に続き未開放、been は弱形 /bɪn/ ビン「ハヴ ビン」",
             "「since we」で since の語末 /s/ が we の子音に続く、we の母音 /i/ が entered に連結「シンス ウィ」"
           ]

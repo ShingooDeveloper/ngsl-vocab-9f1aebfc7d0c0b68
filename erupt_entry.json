@@ -378,6 +378,96 @@
           "kana": "バイ ザ タイム ウィ アライヴド ザ コンフリクト ハド ビン イラプティング スルーアウト ザ サーバー ファー デイズ"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will erupt",
+      "ipa": "/wɪl ɪˈrʌpt/",
+      "examples": [
+        {
+          "en": "The volcano will erupt tomorrow if the server doesn't get a restart.",
+          "ja": "サーバーが再起動されなければ、火山は明日噴火するでしょう。",
+          "ipa": "/ðə ˈvɑːlkeɪnoʊ wɪl ɪˈrʌpt təˈmɑroʊ ɪf ðə ˈsɜrvər ˈdʌzənt ɡɛt ə riˈstɑrt/",
+          "linking": [
+            "「will erupt」で will の語末子音 /l/ が母音 /ɪ/ に連結：[wɪ lɪˈrʌpt]「ウィリラプト」",
+            "「the」は弱形 /ðə/ ザ",
+            "「doesn't」で語末の /t/ が未開放：[ˈdʌzən̚t]「ダズント」"
+          ],
+          "kana": "ザ ヴォルケイノウ ウィリラプト トゥモロー イフ ザ サーバー ダズント ゲット ア リスターション"
+        },
+        {
+          "en": "We'll erupt with celebration when they announce the castle competition winners.",
+          "ja": "城の競技の優勝者が発表されたとき、私たちは祝いで爆発するでしょう。",
+          "ipa": "/wɪl ɪˈrʌpt wɪð ˌsɛləˈbreɪʃən wɛn ðeɪ əˈnaʊns ðə ˈkæsəl ˌkɑmpəˈtɪʃən ˈwɪnərz/",
+          "linking": [
+            "「We'll erupt」で we'll /wɪl/ の /l/ が母音 /ɪ/ に連結：[wɪ lɪˈrʌpt]「ウィリラプト」",
+            "「erupt with」で /t/ が /w/ に続く（子音+子音、連結なし）",
+            "「when they」で /n/ が /ð/ に続く（子音+子音）"
+          ],
+          "kana": "ウィリラプト ウィズ セレブレーション ウェン ゼイ アナウンス ザ キャッスル コンペティション ウィナーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be erupting",
+      "ipa": "/wɪl bi ɪˈrʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The volcano will be erupting when we return to mine near the magma chamber.",
+          "ja": "マグマチェンバーの近くで採掘するために戻るとき、火山は噴火しているでしょう。",
+          "ipa": "/ðə ˈvɑːlkeɪnoʊ wɪl bi ɪˈrʌptɪŋ wɛn wi rɪˈtɜrn tu maɪn nɪr ðə ˈmæɡmə ˈtʃeɪmbər/",
+          "linking": [
+            "「will be」で will の /l/ が /b/ に続く（子音+子音、連結なし）",
+            "「be erupting」で be の弱形 /bɪ/ が erupting の初頭 /ɪ/ に続く（母音+母音）",
+            "「return to」で return の /n/ が /t/ に続く（子音+子音）、to の弱形 /tə/「タ」"
+          ],
+          "kana": "ザ ヴォルケイノウ ウィル ビー イラプティング ウェン ウィ リターン タ マイン ニア ザ マグマ チェンバー"
+        },
+        {
+          "en": "They'll be erupting with joy throughout the entire celebration event tomorrow.",
+          "ja": "明日、彼らはイベント全体を通じて喜びで爆発しているでしょう。",
+          "ipa": "/ðeɪl bi ɪˈrʌptɪŋ wɪð dʒɔɪ θruːˈaʊt ðə ɪnˈtaɪər səˈlɛbəˌreɪʃən ɪˈvɛnt təˈmɑroʊ/",
+          "linking": [
+            "「They'll be」で they'll /ðeɪl/ の /l/ が /b/ に続く（子音+子音、連結なし）",
+            "「be erupting」で be の弱形 /bɪ/ が erupting に続く",
+            "「erupting with」で /ŋ/ が /w/ に続く（子音+子音）"
+          ],
+          "kana": "ゼイル ビー イラプティング ウィズ ジョイ スルーアウト ザ エンタイアー セレブレーション イヴェント トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have erupted",
+      "ipa": "/wɪl həv ɪˈrʌptɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, the volcano will have erupted at least three times on this server.",
+          "ja": "明日までに、この火山はサーバー上で少なくとも3回噴火しているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ ðə ˈvɑːlkeɪnoʊ wɪl həv ɪˈrʌɾɪd æt list θri taɪmz ɑn ðɪs ˈsɜrvər/",
+          "linking": [
+            "「will have」で will の /l/ が /h/ に続く（子音+子音、連結なし）、have の弱形 /həv/「ハヴ」",
+            "「have erupted」で have の /v/ が母音 /ɪ/ に連結：[həv ɪˈrʌɾɪd]「ハヴ イラップティド」",
+            "「erupted」内で /t/ がフラップ化：[ɪˈrʌɾɪd]"
+          ],
+          "kana": "バイ トゥモロー ザ ヴォルケイノウ ウィル ハヴ イラップティド アッ リスト スリー タイムズ オン ディス サーバー"
+        },
+        {
+          "en": "By the time we finish building, conflict will have erupted in at least two rival guilds.",
+          "ja": "私たちが建設を終えるまでに、少なくとも2つのライバルギルドで紛争が勃発しているでしょう。",
+          "ipa": "/baɪ ðə taɪm wi ˈfɪnɪʃ ˈbɪldɪŋ ˈkɑnflɪkt wɪl həv ɪˈrʌɾɪd ɪn æt list tu ˈraɪvəl ˈɡɪldz/",
+          "linking": [
+            "「by the」で by が強勢、the の弱形 /ðə/ ザ",
+            "「will have」で will の /l/ が /h/ に続く（子音+子音）、have の弱形 /həv/「ハヴ」",
+            "「have erupted」で have の /v/ が母音 /ɪ/ に連結し、erupted 内で /t/ がフラップ化"
+          ],
+          "kana": "バイ ザ タイム ウィ フィニッシュ ビルディング コンフリクト ウィル ハヴ イラップティド イン アッ リスト トゥー ライバル ギルズ"
+        }
+      ]
     }
   ],
   "tags": [

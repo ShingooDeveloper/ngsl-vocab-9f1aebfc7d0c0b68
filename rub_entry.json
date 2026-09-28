@@ -320,7 +320,7 @@
             "is rubbing において、is は弱形 /ɪz/、rubbing の /r/ に続く [ɪz ˈrʌbɪŋ]",
             "rubbing the において、rubbing の語末 /ŋ/ が次の子音に先行、the は弱形 /ðə/ に続く [ˈrʌbɪŋ ðə]",
             "check its において、check の語末 /k/ が母音 /ɪ/ に連結 [ˈtʃɛk ɪts]",
-            "before smelting において、before の語末 /r/ が smelting の /s/ に続く、to は弱形 /tə/"
+            "before smelting において、before の語末 /r/ が smelting の /s/ に続く（子音-子音）"
           ],
           "kana": "シー イズ ラビング ザ ダイアモンド オア タ チェック イッツ クウォリティ ビフォア スメルティング"
         },
@@ -359,14 +359,14 @@
         {
           "en": "They were rubbing the emerald ore to remove dust when the admin called them to the meeting.",
           "ja": "管理者が会議に呼んだ時、彼らはエメラルド鉱から塵を取り除くためにこすっていました。",
-          "ipa": "/ðeɪ wɚ ˈrʌbɪŋ ðə ˈɛmərəld ˈɔr tə rɪˈmuːv ˈdʌst wɛn ðə ˈædmɪn kɔld ðɛm tu ðə ˈmitɪŋ/",
+          "ipa": "/ðeɪ wɚ ˈrʌbɪŋ ðə ˈɛmərəld ˈɔr tə rɪˈmuːv ˈdʌst wɛn ðə ˈædmɪn kɔld ðɛm tə ðə ˈmitɪŋ/",
           "linking": [
             "were rubbing において、were は弱形 /wɚ/ または /wɝ/、rubbing の /r/ に続く [wɚ ˈrʌbɪŋ]",
             "rubbing the において、rubbing の語末 /ŋ/ が次の子音に先行、the は弱形 /ðə/ に続く [ˈrʌbɪŋ ðə]",
             "to remove において、to は弱形 /tə/、remove の /r/ に続く [tə rɪˈmuːv]",
             "called them において、called の語末 /d/ が them の /ð/ に続く、them は弱形 /ðɛm/"
           ],
-          "kana": "ザイ ワー ラビング ザ エメラルド オア タ リムーヴ ダスト ウェン ザ アドミン コールド ゼム ツー ザ ミーティング"
+          "kana": "ザイ ワー ラビング ザ エメラルド オア タ リムーヴ ダスト ウェン ザ アドミン コールド ゼム タ ザ ミーティング"
         }
       ]
     },
@@ -399,6 +399,96 @@
             "when the において、when の語末 /n/ が the の /ð/ に続く（子音-子音）"
           ],
           "kana": "シー ハド ビン ラビング ザ ストーン ブロックス スムース フォー ソー ロング ウェン ザ サーバー ファイナリー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will rub",
+      "ipa": "/wɪl rʌb/",
+      "examples": [
+        {
+          "en": "I will rub the emerald ore to make it shine.",
+          "ja": "エメラルド鉱をこすって輝かせます。",
+          "ipa": "/aɪl ˈrʌb ðə ˈɛmərəld ˈɔr tə meɪk ɪt ʃaɪn/",
+          "linking": [
+            "will rub: will は縮約 /l/ で I'll /aɪl/、rub の /r/ に先行",
+            "rub the: rub の語末子音 /b/ が the の弱形 /ðə/ に連結 [ˈrʌb ðə] ラブ ザ",
+            "to make: to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイル ラブ ザ エメラルド オアー タ メイク イット シャイン"
+        },
+        {
+          "en": "They will rub the dirt off the blocks before stacking them.",
+          "ja": "ブロックから土をこすり落とす前に積み重ねます。",
+          "ipa": "/ðeɪl ˈrʌb ðə ˈdɝt ɔf ðə ˈblɑks bɪˈfɔr ˈstækɪŋ ðɛm/",
+          "linking": [
+            "will rub: will は縮約 /l/ で They'll /ðeɪl/、rub の /r/ に先行",
+            "rub the: rub の語末子音 /b/ が the の弱形 /ðə/ に連結",
+            "off the: off の語末子音 /f/ が the の弱形 /ðə/ に連結"
+          ],
+          "kana": "ザイル ラブ ザ ダート オフ ザ ブロックス ビフォア スタッキング ゼム"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be rubbing",
+      "ipa": "/wɪl bi ˈrʌbɪŋ/",
+      "examples": [
+        {
+          "en": "We will be rubbing the stones when you arrive at the quarry.",
+          "ja": "採石場に到着するとき、私たちは石をこすっている最中です。",
+          "ipa": "/wil bi ˈrʌbɪŋ ðə ˈstoʊnz wɛn ju ərˈaɪv æt ðə ˈkwɔri/",
+          "linking": [
+            "will be: will は縮約 /l/ で we'll /wil/、be は /bi/ に続く",
+            "be rubbing: be /bi/ は助動詞で弱形、rubbing に続く",
+            "rubbing the: rubbing の語末 /ŋ/ が the の弱形 /ðə/ に先行"
+          ],
+          "kana": "ウィル ビー ラビング ザ ストーンズ ウェン ユー アライヴ アット ザ クォーリー"
+        },
+        {
+          "en": "He will be rubbing metal tools in the workshop all day.",
+          "ja": "彼は一日中ワークショップで金属工具をこすります。",
+          "ipa": "/hil bi ˈrʌbɪŋ ˈmɛtəl ˈtulz ɪn ðə ˈwɝkˌʃɑp ɔl deɪ/",
+          "linking": [
+            "will be: will は縮約 /l/ で He'll /hil/、be は /bi/ に続く",
+            "be rubbing: be /bi/ は助動詞で弱形、rubbing に続く",
+            "in the: in の語末が the の弱形 /ðə/ に先行"
+          ],
+          "kana": "ヒール ビー ラビング メタル ツールズ イン ザ ワークショップ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have rubbed",
+      "ipa": "/wɪl həv ˈrʌbd/",
+      "examples": [
+        {
+          "en": "By sunset, I will have rubbed all the rough stone blocks smooth.",
+          "ja": "日没までに、ざらざらした石のブロックをすべてなめらかにこすります。",
+          "ipa": "/baɪ ˈsʌnˌsɛt aɪl həv ˈrʌbd ɔl ðə ˈrʌf ˈstoʊn ˈblɑks smuːð/",
+          "linking": [
+            "will have: will は縮約 /l/ で I'll /aɪl/、have は弱形 /həv/",
+            "have rubbed: have /həv/ の語末 /v/ が rubbed の /r/ に先行",
+            "rubbed all: rubbed の語末 /d/ が all の /ɔ/ に連結 [ˈrʌbd ɔl]"
+          ],
+          "kana": "バイ サンセット アイル ハヴ ラブド オール ザ ラフ ストーン ブロックス スムース"
+        },
+        {
+          "en": "They will have rubbed all the diamonds clean by the end of today.",
+          "ja": "彼らは今日の終わりまでにすべてのダイヤモンドをきれいにこすります。",
+          "ipa": "/ðeɪl həv ˈrʌbd ɔl ðə ˈdaɪəmɑndz klin baɪ ðə ˈɛnd əv təˈdeɪ/",
+          "linking": [
+            "will have: will は縮約 /l/ で They'll /ðeɪl/、have は弱形 /həv/",
+            "have rubbed: have /həv/ の語末 /v/ が rubbed の /r/ に先行",
+            "rubbed all: rubbed の語末 /d/ が all の /ɔ/ に連結 [ˈrʌbd ɔl]"
+          ],
+          "kana": "ザイル ハヴ ラブド オール ザ ダイアモンズ クリーン バイ ザ エンド アヴ トゥデイ"
         }
       ]
     }

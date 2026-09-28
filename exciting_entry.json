@@ -88,5 +88,62 @@
       "kana": "アイ ハヴ イグザイティング ニューズ ザ ニュー バイオーム アップデイト イズ リリーシング トゥモロウ"
     }
   ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more exciting",
+      "ipa": "/mɔr ɪɡˈzaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "This new redstone system is more exciting than mining dirt all day.",
+          "ja": "この新しいレッドストーン装置は、一日中土を採掘するより格段に興奮させる。",
+          "ipa": "/ðɪs nju ˈɹɛdstoʊn ˈsɪstəm ɪz mɔr ɪɡˈzaɪtɪŋ ðæn ˈmaɪnɪŋ dɜrt ɔl deɪ/",
+          "linking": [
+            "more exciting → more の語末 /ɹ/ が exciting の /ɪ/ に連結 [mɔr ɪɡˈzaɪtɪŋ] モア イグザイティング"
+          ],
+          "kana": "ディス ニュー レッドストーン システム イズ モア イグザイティング ザン マイニング ダート オール デイ"
+        },
+        {
+          "en": "Fighting the Warden in the deep dark is more exciting than exploring caves!",
+          "ja": "深いダークバイオームのウォーデンとの戦いは、洞窟探検より格段に興奮させる！",
+          "ipa": "/ˈfaɪtɪŋ ðə ˈwɔrdən ɪn ðə ˈdip dɑrk ɪz mɔr ɪɡˈzaɪtɪŋ ðæn ɪkˈsplɔrɪŋ keɪvz/",
+          "linking": [
+            "the Warden → the は子音前で弱形 /ðə/ 「ザ」",
+            "more exciting → more の語末 /ɹ/ が exciting の /ɪ/ に連結 [mɔr ɪɡˈzaɪtɪŋ] モア イグザイティング"
+          ],
+          "kana": "ファイティング ザ ワーデン イン ザ ディープ ダーク イズ モア イグザイティング ザン エクスプロアリング ケイヴズ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most exciting",
+      "ipa": "/ˈmoʊst ɪɡˈzaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Defeating the Ender Dragon is the most exciting achievement in survival mode!",
+          "ja": "サバイバルモードでエンダードラゴンを倒すことが最も興奮させる成果です！",
+          "ipa": "/dɪˈfitɪŋ ðɪ ˈɛndər ˈdɹæɡən ɪz ðə ˈmoʊst ɪɡˈzaɪtɪŋ əˈtʃivmənt ɪn sərˈvaɪvəl moʊd/",
+          "linking": [
+            "the Ender → the は母音前で弱形 /ðɪ/ 「ジ」",
+            "most exciting → most の語末 /t/ が exciting の /ɪ/ に連結 [ˈmoʊst ɪɡˈzaɪtɪŋ] モウスト イグザイティング"
+          ],
+          "kana": "ディフィーティング ジ エンダー ドラゴン イズ ザ モウスト イグザイティング アチーヴメント イン サーヴァイヴァル モウド"
+        },
+        {
+          "en": "Finding your first diamond in the deep caves is the most exciting discovery!",
+          "ja": "深い洞窟で最初のダイヤモンドを見つけることが最も興奮させる発見です！",
+          "ipa": "/ˈfaɪndɪŋ jɔr ˈfɜrst ˈdaɪmənd ɪn ðə ˈdip keɪvz ɪz ðə ˈmoʊst ɪɡˈzaɪtɪŋ dɪsˈkʌvəri/",
+          "linking": [
+            "most exciting → most の語末 /t/ が exciting の /ɪ/ に連結 [ˈmoʊst ɪɡˈzaɪtɪŋ] モウスト イグザイティング",
+            "the deep → the は子音前で弱形 /ðə/ 「ザ」"
+          ],
+          "kana": "ファインディング ユワー ファースト ダイマンド イン ザ ディープ ケイヴズ イズ ザ モウスト イグザイティング ディスカバリー"
+        }
+      ]
+    }
+  ],
   "tags": ["Target 1900"]
 }

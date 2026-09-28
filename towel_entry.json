@@ -79,5 +79,37 @@
       "kana": "アイ ニード タ タウァル オフ ビフォー ヘディング バック タ ベイス"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "towels",
+      "ipa": "/ˈtaʊəlz/",
+      "examples": [
+        {
+          "en": "Grab all those towels from the storage and bring them here!",
+          "ja": "ストレージからすべてのタオルを持ってきてくれ!",
+          "ipa": "/ˈɡræb ˈɔl ðoʊz ˈtaʊəlz frəm ðə ˈstɔrɪdʒ ənd ˈbrɪŋ ðəm ˈhɪr/",
+          "linking": [
+            "Grab all: Grab の語末 /b/ が all の /ɔ/ に先立つ未開放 [ˈɡræb̚ ˈɔl] グラッ オール",
+            "those towels: those の語末 /z/ が towels の /t/ に先立つ未開放 [ðoʊz̚ ˈtaʊəlz] ドウズ タウァルズ",
+            "from the: from の語末 /m/ が the の弱形 /ðə/ に先立つ未開放 [frəm̚ ðə] フラム ザ"
+          ],
+          "kana": "グラッ オール ドウズ タウァルズ フラム ザ ストレッジ アン ブリング ザム ヒアー"
+        },
+        {
+          "en": "We found plenty of towels in the old ruins.",
+          "ja": "古い遺跡にたくさんのタオルが見つかった。",
+          "ipa": "/wi ˈfaʊnd ˈplɛnti əv ˈtaʊəlz ɪn ðə ˈoʊld ˈruːɪnz/",
+          "linking": [
+            "found plenty: found の語末 /d/ が plenty の /p/ に先立つ未開放 [ˈfaʊnd̚ ˈplɛnti] ファウンド プレンティー",
+            "of towels: of の弱形 /əv/ が towels の /t/ に先立つ未開放 [əv̚ ˈtaʊəlz] アヴ タウァルズ",
+            "in the: in の /n/ が the の弱形 /ðə/ に連なる [ɪn ðə] イン ザ"
+          ],
+          "kana": "ウィ ファウンド プレンティー アヴ タウァルズ イン ザ オールド ルーインズ"
+        }
+      ]
+    }
+  ],
   "tags": ["Target 1900"]
 }

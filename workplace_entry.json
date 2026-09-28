@@ -71,5 +71,35 @@
   ],
   "tags": [
     "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "workplaces",
+      "ipa": "/ˈwɜrkpleɪsɪz/",
+      "examples": [
+        {
+          "en": "We organize all of our workplaces for easy access.",
+          "ja": "私たちはすべての職場を簡単にアクセスできるように整理しています。",
+          "ipa": "/wi ˈɔːrɡənaɪz ɔːl əv ɑɚ ˈwɜrkpleɪsɪz fɚ ˈizi ˈæksɛs/",
+          "linking": [
+            "of our — of の弱形 /əv/ が our の /ɑɚ/ に連結 [əvɑɚ] アヴアウア",
+            "for easy — for の弱形 /fɚ/ が easy の /i/ に続く [fɚ ˈizi] ファー イージー"
+          ],
+          "kana": "ウィ オーガナイズ オール アヴアウア ワークプレイシズ ファー イージー アクセス"
+        },
+        {
+          "en": "Set up multiple workplaces at different depths.",
+          "ja": "異なるレベルで複数の職場をセットアップしてください。",
+          "ipa": "/sɛt ʌp ˈmʌltɪpəl ˈwɜrkpleɪsɪz æt ˈdɪfərənt ˈdɛpθs/",
+          "linking": [
+            "set up — set の /t/ が up の /ʌ/ に挟まれフラップ化 [ˈseɾʌp] セラップ",
+            "at different — at の語末 /t/ が different の /d/ に先立つ未開放 [æt̚ ˈdɪfərənt] アッ ディファレント"
+          ],
+          "kana": "セラップ マルティプル ワークプレイシズ アッ ディファレント デプス"
+        }
+      ]
+    }
   ]
 }

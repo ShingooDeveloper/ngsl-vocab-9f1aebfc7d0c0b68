@@ -132,27 +132,27 @@
       "type": "present_participle",
       "label": "現在分詞・動名詞",
       "text": "approximating",
-      "ipa": "/əˈprɑːksɪmeɪtɪŋ/",
+      "ipa": "/əˈprɑːksɪmeɪɾɪŋ/",
       "examples": [
         {
           "en": "I'm approximating the fortress size by counting visible blocks.",
           "ja": "見える ブロック数を数えることで要塞のサイズを見積もっている。",
-          "ipa": "/aɪm əˈprɑːksɪmeɪtɪŋ ðə ˈfɔɹtrɪs saɪz baɪ ˈkaʊntɪŋ ˈvɪzəbəl blɑks/",
+          "ipa": "/aɪm əˈprɑːksɪmeɪɾɪŋ ðə ˈfɔɹtrɪs saɪz baɪ ˈkaʊnɾɪŋ ˈvɪzəbəl blɑks/",
           "linking": [
-            "I'm は /m/ で次に続く、approximating の /ə/ が柔らかく聞こえる",
+            "I'm は /m/ で次に続く、approximating の /ə/ が柔らかく聞こえる。/t/ は母音+/t/+母音の位置でフラップ化 [ˈmeɪɾɪŋ]",
             "the の弱形 /ðə/ と visible の /v/ が連結 [ðə ˈvɪzəbəl]"
           ],
-          "kana": "アイム ア プラクシメイティング ザ フォートリス サイズ バイ カウンティング ビザボル ブラックス"
+          "kana": "アイム ア プラクシメイリング ザ フォートリス サイズ バイ カウンリング ビザボル ブラックス"
         },
         {
           "en": "They are approximating resources needed for the redstone farm.",
           "ja": "彼らはレッドストーン農場に必要なリソースを見積もっている。",
-          "ipa": "/ðeɪ ɑɹ əˈprɑːksɪmeɪtɪŋ rɪˈsɔɹsɪz ˈniːdəd fɔɹ ðə ˈrɛdˌstoʊn fɑɹm/",
+          "ipa": "/ðeɪ ɑɹ əˈprɑːksɪmeɪɾɪŋ rɪˈsɔɹsɪz ˈniːdəd fɔɹ ðə ˈrɛdˌstoʊn fɑɹm/",
           "linking": [
-            "are は弱形 /ɑɹ/ で続く。resources の /z/ が needed の /n/ に先行",
+            "are は弱形 /ɑɹ/ で続く。resources の /z/ が needed の /n/ に先行。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
             "for は弱形 /fɚ/、the は弱形 /ðə/"
           ],
-          "kana": "ゼイ アー ア プラクシメイティング リソーシズ ニーディッド フォー ザ レッドストウン ファーム"
+          "kana": "ゼイ アー ア プラクシメイリング リソーシズ ニーディッド フォー ザ レッドストウン ファーム"
         }
       ]
     },
@@ -209,6 +209,272 @@
             "for は弱形 /fɚ/、the は弱形 /ðə/"
           ],
           "kana": "ザッツ ザ モウスト ア プラクシマット マップ ウィ ハヴ フォー ザ ネザー フォートリス レイアウト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has approximated",
+      "ipa": "/həz əˈprɑːksɪmeɪtəd/",
+      "examples": [
+        {
+          "en": "I have approximated all the routes through the mountain.",
+          "ja": "私は山全体を通るすべてのルートを見積もった。",
+          "ipa": "/aɪ həv əˈprɑːksɪmeɪtəd ɔːl ðə ɹuːts θɹuː ðə ˈmaʊntən/",
+          "linking": [
+            "have の弱形 /həv/ で柔らかく聞こえる",
+            "approximated の /d/ が all の /ɔː/ に連結し [əˈprɑːksɪmeɪtəd ɔːl] を形成",
+            "the は弱形 /ðə/ で2回出現"
+          ],
+          "kana": "アイ ハヴ ア プラクシメイティッド オール ザ ルーツ スルー ザ マウンテン"
+        },
+        {
+          "en": "She has approximated how deep the ocean is at this island.",
+          "ja": "彼女はこの島での海の深さを見積もった。",
+          "ipa": "/ʃiː həz əˈprɑːksɪmeɪtəd haʊ diːp ðə ˈoʊʃən ɪz æt ðɪs ˈaɪlənd/",
+          "linking": [
+            "has の弱形 /həz/ で続く",
+            "is の /z/ が at に続き、at の /t/ は未開放 [æt̚] で詰まる",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ ア プラクシメイティッド ハウ ディープ ザ オウシャン イズ アッ ディス アイランド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had approximated",
+      "ipa": "/həd əˈprɑːksɪmeɪtəd/",
+      "examples": [
+        {
+          "en": "Before we entered the stronghold, I had approximated its exact layout.",
+          "ja": "要塞に入る前に、私はその正確なレイアウトを見積もっていた。",
+          "ipa": "/bɪˈfɔɹ wiː ˈɛntɚd ðə ˈstrɔŋˌhoʊld aɪ həd əˈprɑːksɪmeɪtəd ɪts ɪˈɡzækt ˈleɪaʊt/",
+          "linking": [
+            "had の弱形 /həd/ で流暢に続く",
+            "the は弱形 /ðə/",
+            "its の /ts/ が exact に続く。exact の /t/ は未開放 [ɪˈɡzækt̚]"
+          ],
+          "kana": "ビフォー ウィ エンタード ザ ストロングホウルド アイ ハド ア プラクシメイティッド イッツ イグザクト レイアウト"
+        },
+        {
+          "en": "She had approximated the redstone circuit's power needs, so the farm worked perfectly.",
+          "ja": "彼女がレッドストーン回路の電力需要を見積もっていたので、農場は完璧に機能した。",
+          "ipa": "/ʃiː həd əˈprɑːksɪmeɪtəd ðə ˈrɛdˌstoʊn ˈsɝkɪts ˈpaʊɚ niːdz soʊ ðə fɑɹm wɚkt ˈpɝfɪktli/",
+          "linking": [
+            "had の弱形 /həd/ で流暢に続く",
+            "the は弱形 /ðə/ で2回出現",
+            "circuit's の /ts/ が power に続く"
+          ],
+          "kana": "シー ハド ア プラクシメイティッド ザ レッドストウン サークッツ パウアー ニーズ ソウ ザ ファーム ワークト パーフェクトリ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been approximating",
+      "ipa": "/həz bɪn əˈprɑːksɪmeɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "I have been approximating the biome's size by walking along its borders all morning.",
+          "ja": "私は朝ずっと、その境界に沿って歩くことでバイオームのサイズを見積もり続けている。",
+          "ipa": "/aɪ həv bɪn əˈprɑːksɪmeɪɾɪŋ ðə baɪˈoʊmz saɪz baɪ ˈwɔːkɪŋ əˈlɑŋ ɪts ˈbɔɹdɚz ɔːl ˈmɔɹnɪŋ/",
+          "linking": [
+            "have の弱形 /həv/ で柔らかく聞こえる。been の弱形 /bɪn/ で続く",
+            "biome's の /z/ が size に続く。along の /ŋ/ が its に連結。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "the は弱形 /ðə/、all は高い音から低く"
+          ],
+          "kana": "アイ ハヴ ビン ア プラクシメイリング ザ バイオームズ サイズ バイ ウォーキング ア ロング イッツ ボーダーズ オール モーニング"
+        },
+        {
+          "en": "They have been approximating the total resources needed for the base expansion project.",
+          "ja": "彼らは基地拡張プロジェクトに必要な総リソースを見積もり続けている。",
+          "ipa": "/ðeɪ həv bɪn əˈprɑːksɪmeɪɾɪŋ ðə ˈtoʊɾəl ˈrɪsɔːrsɪz ˈniːdəd fɔɹ ðə ˈbeɪs ɪkˈspænʃən ˈprɑːdʒɛkt/",
+          "linking": [
+            "have の弱形 /həv/、been の弱形 /bɪn/ で流暢に続く",
+            "total の /t/ は母音に挟まれフラップ化し連結 [ˈtoʊɾəl]。approximating の /t/ もフラップ化 [ˈmeɪɾɪŋ]",
+            "for は弱形 /fɚ/、the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハヴ ビン ア プラクシメイリング ザ トーラル リソーシズ ニーディッド フォー ザ ベース イクスパンション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is approximating",
+      "ipa": "/ɪz əˈprɑːksɪmeɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "She's approximating the fortress dimensions from this vantage point.",
+          "ja": "彼女はこの有利な地点から要塞の寸法を見積もっている。",
+          "ipa": "/ʃiz əˈprɑːksɪmeɪɾɪŋ ðə ˈfɔːrtrɪs dɪˈmɛnʃənz frəm ðɪs ˈvæntɪdʒ pɔɪnt/",
+          "linking": [
+            "She's は /ʃiz/ で、is の /z/ が approximating の /ə/ に連結 [ʃiz əˈprɑːksɪmeɪɾɪŋ]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "from this — from の /m/ が this の /ð/ に続く。the は弱形 /ðə/"
+          ],
+          "kana": "シーズ ア プラクシメイリング ザ フォートリス ディメンションズ フラム ディス ヴァンティッジ ポイント"
+        },
+        {
+          "en": "We're approximating how many blocks this redstone farm design will consume.",
+          "ja": "このレッドストーン農場設計がいくつのブロックを消費するかを見積もっている。",
+          "ipa": "/wɪr əˈprɑːksɪmeɪɾɪŋ haʊ ˈmɛni blɑːks ðɪs ˈrɛdˌstoʊn fɑːrm dɪˈzaɪn wɪl kənˈsuːm/",
+          "linking": [
+            "We're は /wɪr/ で、are の /r/ が approximating の /ə/ に連結 [wɪr əˈprɑːksɪmeɪɾɪŋ]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "design の語末 /n/ が will の /w/ に続く [nw]。ディザインウィル と聞こえる"
+          ],
+          "kana": "ウィアー ア プラクシメイリング ハウ メニ ブラックス ディス レッドストウン ファーム ディザイン ウィル コンスューム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was approximating",
+      "ipa": "/wəz əˈprɑːksɪmeɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "He was approximating the cave system's total depth when the wall collapsed.",
+          "ja": "壁が崩壊したとき、彼は洞窟システムの総深度を見積もっていた。",
+          "ipa": "/hi wəz əˈprɑːksɪmeɪɾɪŋ ðə ˈkeɪv ˈsɪstəmz ˈtoʊtəl dɛpθ wɛn ðə wɔːl kəˈlæpst/",
+          "linking": [
+            "was は弱形 /wəz/ で approximating の /ə/ に連結 [wəz əˈprɑːksɪmeɪɾɪŋ]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]。ワズ と聞こえる",
+            "the は弱形 /ðə/。system's の語末 /z/ が total の /t/ に続く [zᵻt̚]。フラップT化せず、詰まった感じ"
+          ],
+          "kana": "ヒー ワズ ア プラクシメイリング ザ ケイブ システムズ トウタル デプス ウェン ザ ウォール コラプスト"
+        },
+        {
+          "en": "They were approximating the resources they'd need before the server maintenance began.",
+          "ja": "サーバーメンテナンスが始まる前に、彼らは必要なリソースを見積もっていた。",
+          "ipa": "/ðeɪ wər əˈprɑːksɪmeɪɾɪŋ ðə ˈrɛsɔːrsɪz ðeɪd niːd bɪˈfɔːr ðə ˈsɜːrvər ˈmeɪntənəns bɪˈɡæn/",
+          "linking": [
+            "were は弱形 /wər/ で approximating の /ə/ に連結 [wər əˈprɑːksɪmeɪɾɪŋ]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "they'd は /ðeɪd/ で、need の /n/ に連結 [deɪdn]。ザイドニード と聞こえる。the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ワー ア プラクシメイリング ザ リソーシーズ ザイドニード ビフォー ザ サーヴァー メイナナンス ビガン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been approximating",
+      "ipa": "/həd bɪn əˈprɑːksɪmeɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "We had been approximating the fortress coordinates for hours before finally finding it.",
+          "ja": "最終的にそれを見つける前に、私たちは要塞の座標を何時間も見積もっていた。",
+          "ipa": "/wiː həd bɪn əˈprɑːksɪmeɪɾɪŋ ðə ˈfɔːrtrɪs ˈkoʊɔːrdənɪts fɔːr ˈaʊərz bɪˈfɔːr ˈfaɪnəli ˈfaɪndɪŋ ɪt/",
+          "linking": [
+            "had は弱形 /həd/ で、been の /b/ に連結 [həd bɪn]。ハドビン と聞こえる",
+            "been の語末 /n/ が approximating の /ə/ に連結 [bɪn əˈprɑːksɪmeɪɾɪŋ]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "finally の語末 /i/ が finding の /f/ に続く [ifaɪ]。ファイナリーファイディング"
+          ],
+          "kana": "ウィ ハドビン ア プラクシメイリング ザ フォートリス コーオーディナーツ フォー アウアーズ ビフォー ファイナリー ファイディング イット"
+        },
+        {
+          "en": "They had been approximating mining yields for days when the ore vein ran out completely.",
+          "ja": "鉱脈が完全に枯渇したとき、彼らは数日間採掘量を見積もっていた。",
+          "ipa": "/ðeɪ həd bɪn əˈprɑːksɪmeɪɾɪŋ ˈmaɪnɪŋ ˈjiːldz fɔːr deɪz wɛn ðə ˈɔːr veɪn ræn aʊt kəmˈpliːtli/",
+          "linking": [
+            "had は弱形 /həd/ で、been の /b/ に連結 [həd bɪn]。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "mining の語末 /ŋ/ が yields の /j/ に続く [ŋɪ]。マイニング イールドス と聞こえる",
+            "ore は /ɔːr/ で vein の /v/ に連結 [ɔːrveɪn]。オアヴェイン"
+          ],
+          "kana": "ゼイ ハドビン ア プラクシメイリング マイニング イールドズ フォー デイズ ウェン ザ オアヴェイン ラン アウト コムプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will approximate",
+      "ipa": "/wɪl əˈprɑːksɪmeɪt/",
+      "examples": [
+        {
+          "en": "I'll approximate the stronghold's location by tracking the endermen carefully.",
+          "ja": "エンダーマンを慎重に追跡することで、ストロングホールドの位置を見積もるだろう。",
+          "ipa": "/aɪl əˈprɑːksɪmeɪt ðə ˈstrɔŋˌhoʊldz loʊˈkeɪʃən baɪ ˈtrækɪŋ ðə ˈɛndɚmɛn ˈkɛɹfəli/",
+          "linking": [
+            "I'll の /l/ が approximate の /ə/ に連結し [aɪl əˈprɑːksɪmeɪt] を形成",
+            "the は弱形 /ðə/ で柔らかく聞こえる",
+            "endermen の語末 /n/ が carefully の /k/ に続く（子音+子音）"
+          ],
+          "kana": "アイル ア プラクシメイト ザ ストロングホウルドズ ロウケーション バイ トラッキング ザ エンダーメン ケアフリー"
+        },
+        {
+          "en": "We'll approximate the cave system's size as we explore deeper passages.",
+          "ja": "より深い通路を探索するときに、洞窟システムのサイズを見積もるだろう。",
+          "ipa": "/wiːl əˈprɑːksɪmeɪt ðə keɪv ˈsɪstəmz saɪz æz wi ɪkˈsplɔɹ ˈdipɚ ˈpæsɪdʒəz/",
+          "linking": [
+            "We'll の /l/ が approximate の /ə/ に連結 [wiːl əˈprɑːksɪmeɪt]",
+            "size の語末 /z/ が as の /æ/ に連結 [saɪz æz]",
+            "the は弱形 /ðə/ で子音 /k/ の前で続く"
+          ],
+          "kana": "ウィール ア プラクシメイト ザ ケイヴ システムズ サイズ アズ ウィー イクスプロア ディーパー パシジズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be approximating",
+      "ipa": "/wɪl bi əˈprɑːksɪmeɪɾɪŋ/",
+      "examples": [
+        {
+          "en": "They'll be approximating the fortress dimensions as they map the corridors methodically.",
+          "ja": "通路を体系的にマッピングしながら、要塞の寸法を見積もり続けるだろう。",
+          "ipa": "/ðeɪl bi əˈprɑːksɪmeɪɾɪŋ ðə ˈfɔɹtrɪs dɪˈmɛnʃənz æz ðeɪ mæp ðə ˈkɔrɪdɚz məˈθɑdɪkli/",
+          "linking": [
+            "They'll の /l/ が be の /b/ に未開放で連接し [ðeɪl̚ bi] を形成。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "the は弱形 /ðə/ で子音の前で柔らかく聞こえる",
+            "corridors の語末 /z/ が methodically の /m/ に続く（子音+子音）"
+          ],
+          "kana": "ザイル ビ ア プラクシメイリング ザ フォートリス ディメンションズ アズ ザイ マップ ザ コリドーズ メサディクリー"
+        },
+        {
+          "en": "He'll be approximating ore positions while I document our mining expedition route.",
+          "ja": "私が採掘遠征ルートをドキュメント化しながら、彼は鉱石の位置を見積もり続けるだろう。",
+          "ipa": "/hiːl bi əˈprɑːksɪmeɪɾɪŋ ˈɔɹ pəˈzɪʃənz waɪl aɪ ˈdɑːkjəmənt aʊɚ ˈmaɪnɪŋ ɪkˈspɪdɪʃən ˈrut/",
+          "linking": [
+            "He'll の /l/ が be の /b/ に未開放で連接し [hiːl̚ bi] を形成。approximating の /t/ はフラップ化 [ˈmeɪɾɪŋ]",
+            "ore の語末 /ɔɹ/ が positions の /p/ に続く（子音+子音）",
+            "while の語末 /l/ が I の /aɪ/ に連結（子音+母音）"
+          ],
+          "kana": "ヒール ビ ア プラクシメイリング オア パジションズ ホワイル アイ ダキュメント アワー マイニング イクスペディション ルート"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have approximated",
+      "ipa": "/wɪl hæv əˈprɑːksɪmeɪtəd/",
+      "examples": [
+        {
+          "en": "By the time we reach the stronghold, we'll have approximated its exact coordinates.",
+          "ja": "ストロングホールドに到達するまでに、その正確な座標を見積もり終えているだろう。",
+          "ipa": "/baɪ ðə taɪm wi riːtʃ ðə ˈstrɔŋˌhoʊld wiːl hæv əˈprɑːksɪmeɪtəd ɪts ɪɡˈzækt koʊˈɔɹdənɪts/",
+          "linking": [
+            "by ðə：by の弱形から the は弱形 /ðə/ で t に続く [baɪ ðə taɪm]",
+            "reach ðə：reach の語末 /tʃ/ が the に未開放で続く [riːtʃ̚ ðə]",
+            "We'll have：縮約形で will は弱形に弱化、have は弱形 /əv/ に弱化 [wiːl əv]"
+          ],
+          "kana": "バイ ザ タイム ウィー リーチ ザ ストロングホウルド ウィール ハヴ ア プラクシメイティッド イッツ イグザクト コーオーディナーツ"
+        },
+        {
+          "en": "She'll have approximated all cave coordinates before the mining season concludes.",
+          "ja": "採掘シーズンが終わる前に、すべての洞窟座標を見積もり終えているだろう。",
+          "ipa": "/ʃiːl hæv əˈprɑːksɪmeɪtəd ɔːl keɪv koʊˈɔɹdənɪts bɪˈfɔɹ ðə ˈmaɪnɪŋ ˈsizən kənˈkludz/",
+          "linking": [
+            "She'll have：縮約形で will は弱形に弱化、have は弱形 /əv/ に弱化 [ʃiːl əv]",
+            "all cave：all の語末 /l/ が cave の /k/ に続き、cave の /v/ が coordinates の /k/ に続く（子音+子音）",
+            "the は弱形 /ðə/ で子音 /m/ の前で続く"
+          ],
+          "kana": "シール ハヴ ア プラクシメイティッド オール ケイヴ コーオーディナーツ ビフォア ザ マイニング シーズン コンクルード"
         }
       ]
     }

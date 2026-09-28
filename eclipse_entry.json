@@ -286,6 +286,183 @@
           "kana": "バイ ザ タイム ザイ アライブド ザット ストラクチャー ハッド ビン イクリプシング ザ エンタイア ワークスペイス フォア アワーズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has eclipsed",
+      "ipa": "/həz ɪˈklɪpst/",
+      "examples": [
+        {
+          "en": "That mountain has eclipsed our beacon light since we moved the farm here.",
+          "ja": "その山は、私たちがここに農場を移動させて以来、ビーコンの光を隠しています。",
+          "ipa": "/ðæt ˈmaʊntən həz ɪˈklɪpst ˈaʊər ˈbikən ˈlaɪt sɪns wi ˈmuːvd ðə ˈfɑrm ˈhɪr/",
+          "linking": [
+            "「mountain has」mountain の語末 /n/ が has の初頭母音 /ə/ に連結、has は弱形 /həz/ [ˈmaʊntənhəz] マウンテンハズ",
+            "「has eclipsed」has は弱形 /həz/、eclipsed の初頭母音 /ɪ/ に /z/ が連結 [həz ɪˈklɪpst] ハズ イクリプスト",
+            "「the farm」the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザット マウンテンハズ イクリプスト アワー ビーコン ライト シンス ウィー ムーヴド ザ ファーム ヒア"
+        },
+        {
+          "en": "We have eclipsed every competing team's building prowess on this server.",
+          "ja": "私たちは、このサーバー上の競争チームの建築能力をすべて上回りました。",
+          "ipa": "/wi həv ɪˈklɪpst ˈɛvəri kəmˈpitɪŋ ˈtim ˈbɪldɪŋ ˈpraʊəs ɑn ðɪs ˈsɝvər/",
+          "linking": [
+            "「we have」we は /wi/、have は弱形 /həv/ [wi həv] ウィ ハヴ",
+            "「have eclipsed」have は弱形 /həv/、eclipsed の初頭母音 /ɪ/ に /v/ が連結 [həv ɪˈklɪpst] ハヴ イクリプスト",
+            "「this server」this は /ðɪs/、server の語末 /ər/ に続く"
+          ],
+          "kana": "ウィ ハヴ イクリプスト エブリー コムピーティング ティーム ビルディング プラウアス オン ディス サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had eclipsed",
+      "ipa": "/hæd ɪˈklɪpst/",
+      "examples": [
+        {
+          "en": "By the time I returned, that massive structure had eclipsed the entire view.",
+          "ja": "私が戻ったときまでに、その巨大な構造物は全体の眺めを隠していました。",
+          "ipa": "/baɪ ðə ˈtaɪm aɪ rɪˈtɝnd | ðæt ˈmæsɪv ˈstrʌktʃər hæd ɪˈklɪpst ðə ənˈtaɪər vju/",
+          "linking": [
+            "「by the」by の語末 /baɪ/ が the の初頭子音に続く；the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "「time I」time の語末 /m/ が I の初頭母音 /aɪ/ に連結 [ˈtaɪm aɪ] タイマイ",
+            "「structure had」structure の語末 /r/ が had の初頭母音 /æ/ に連結、had の語末 /d/ が eclipsed に未開放で接続 [ˈstrʌktʃər hæd] ストラクチャー ハッド",
+            "「the entire」the は弱形 /ðə/ ザ"
+          ],
+          "kana": "バイ ザ タイム タイマイ リターンド ザット マッシブ ストラクチャー ハッド イクリプスト ザ エンタイア ビュー"
+        },
+        {
+          "en": "Their legendary skills had eclipsed ours long before the competition began.",
+          "ja": "彼らの伝説的なスキルは、大会が始まるずっと前に私たちのスキルを上回っていました。",
+          "ipa": "/ðɛr ˈlɛdʒəndɛri ˈskɪlz hæd ɪˈklɪpst ˈaʊərz lɔŋ bɪˈfɔr ðə ˌkɑmpəˈtɪʃən bɪˈɡæn/",
+          "linking": [
+            "「skills had」skills の語末 /z/ が had の初頭母音 /æ/ に連結、had の語末 /d/ が eclipsed に未開放で接続 [skɪlz hæd] スキルズ ハッド",
+            "「had eclipsed」had の語末 /d/ が eclipsed の初頭母音 /ɪ/ に連結 [hæd ɪˈklɪpst] ハッド イクリプスト",
+            "「the competition」the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ゼア レジェンダリー スキルズ ハッド イクリプスト アワーズ ロング ビフォア ザ コンペティション ビガン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been eclipsing",
+      "ipa": "/həz bɪn ɪˈklɪpsɪŋ/",
+      "examples": [
+        {
+          "en": "That tower has been eclipsing the beacon's light for hours now.",
+          "ja": "そのタワーは、ここ数時間、ビーコンの光を隠し続けています。",
+          "ipa": "/ðæt ˈtaʊər həz bɪn ɪˈklɪpsɪŋ ðə ˈbikənz ˈlaɪt fɔr ˈaʊərz ˈnaʊ/",
+          "linking": [
+            "「tower has」tower の語末 /r/ が has の初頭母音 /ə/ に連結、has は弱形 /həz/ [ˈtaʊərəz] タウアハズ",
+            "「has been」has は弱形 /həz/、been は弱形 /bɪn/ で /z/ が連結 [həz bɪn] ハズ ビン",
+            "「been eclipsing」been の語末 /n/ が eclipsing の初頭母音 /ɪ/ に連結 [bɪn ɪˈklɪpsɪŋ] ビン イクリプシング",
+            "「the beacon's」the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザット タウアハズ ビン イクリプシング ザ ビーコンズ ライト フォア アワーズ ナウ"
+        },
+        {
+          "en": "My redstone contraption has been eclipsing their entire building project all week.",
+          "ja": "私のレッドストーン装置は、1週間中彼らの建築プロジェクト全体を上回り続けています。",
+          "ipa": "/maɪ ˈɹɛdˌstoʊn kənˈtræpʃən həz bɪn ɪˈklɪpsɪŋ ðɛr ənˈtaɪər ˈbɪldɪŋ ˈpɹɑdʒɛkt ɔl ˈwik/",
+          "linking": [
+            "「contraption has」contraption の語末 /n/ が has の初頭母音 /ə/ に連結、has は弱形 /həz/ [kənˈtræpʃənhəz] コントラプションハズ",
+            "「has been」has は弱形 /həz/、been は弱形 /bɪn/ で /z/ が連結 [həz bɪn] ハズ ビン",
+            "「been eclipsing」been の語末 /n/ が eclipsing の初頭母音 /ɪ/ に連結 [bɪn ɪˈklɪpsɪŋ] ビン イクリプシング",
+            "「their entire」their の語末 /r/ が entire の初頭母音 /ɛ/ に連結 [ðɛr ɛnˈtaɪər] ゼア エンタイア"
+          ],
+          "kana": "マイ レッドストウン コントラプションハズ ビン イクリプシング ゼア エンタイア ビルディング プロジェクト オール ウィック"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will eclipse",
+      "ipa": "/wɪl ɪˈklɪps/",
+      "examples": [
+        {
+          "en": "That massive structure will eclipse our entire farm if we don't move it soon.",
+          "ja": "その巨大な構造物は、移動しなければ私たちの農場全体を隠すでしょう。",
+          "ipa": "/ðæt ˈmæsɪv ˈstrʌktʃər wɪl ɪˈklɪps ˈaʊər ənˈtaɪər ˈfɑrm ɪf wi ˈdoʊnt ˈmuːv ɪt suːn/",
+          "linking": [
+            "「structure will eclipse」structure の語末 /r/ が will の初頭母音 /ɪ/ に連結、will の語末 /l/ が eclipse の初頭母音に続く [ˈstrʌktʃər wɪl ɪˈklɪps] ストラクチャー ウィル イクリプス",
+            "「our entire」our の語末 /r/ が entire の初頭母音 /ɛ/ に連結 [ˈaʊər ɛnˈtaɪər] アワー エンタイア"
+          ],
+          "kana": "ザット マッシブ ストラクチャー ウィル イクリプス アワー エンタイア ファーム イフ ウィー ドウント ムーヴ イット スーン"
+        },
+        {
+          "en": "By next season, our team's building skills will eclipse theirs completely.",
+          "ja": "来季までに、私たちのチームの建築スキルは彼らのスキルを完全に上回るでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈsiːzən ˈaʊər ˈtim ˈbɪldɪŋ ˈskɪlz wɪl ɪˈklɪps ðɛrz kəmˈplitli/",
+          "linking": [
+            "「skills will」skills の語末 /z/ が will の初頭母音 /ɪ/ に連結 [skɪlz wɪl] スキルズ ウィル",
+            "「will eclipse」will の語末 /l/ が eclipse の初頭母音 /ɪ/ に連結 [wɪl ɪˈklɪps] ウィル イクリプス"
+          ],
+          "kana": "バイ ネクスト シーズン アワー ティーム ビルディング スキルズ ウィル イクリプス ゼアーズ コンプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be eclipsing",
+      "ipa": "/wɪl bi ɪˈklɪpsɪŋ/",
+      "examples": [
+        {
+          "en": "By the end of the week, that new tower will be eclipsing our entire base.",
+          "ja": "週末までに、その新しいタワーは私たちの基地全体を隠し続けるでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈwik ðæt ˈnu ˈtaʊər wɪl bi ɪˈklɪpsɪŋ ˈaʊər ənˈtaɪər ˈbeɪs/",
+          "linking": [
+            "「tower will」tower の語末 /r/ が will の初頭母音 /ɪ/ に連結 [ˈtaʊər wɪl] タウアー ウィル",
+            "「will be eclipsing」will の語末 /l/ が be の初頭母音 /i/ に連結、be は弱形 /bɪ/ で eclipsing の初頭に続く [wɪl bɪ ɪˈklɪpsɪŋ] ウィル ビー イクリプシング"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ ウィーク ザット ニュー タウアー ウィル ビー イクリプシング アワー エンタイア ベース"
+        },
+        {
+          "en": "I'll be eclipsing your redstone skills once this new project is complete.",
+          "ja": "このプロジェクトが完了したら、私があなたのレッドストーン技術を上回るでしょう。",
+          "ipa": "/ˈaɪl bi ɪˈklɪpsɪŋ jɔr ˈɹɛdˌstoʊn ˈskɪlz wəns ðɪs ˈnu ˈpɹɑdʒɛkt ɪz kəmˈplit/",
+          "linking": [
+            "「I'll be」I'll は /aɪl/、be の弱形 /bɪ/ [aɪl bɪ] アイル ビー",
+            "「be eclipsing」be の /bɪ/ が eclipsing の初頭母音 /ɪ/ に続く [bɪ ɪˈklɪpsɪŋ] ビー イクリプシング"
+          ],
+          "kana": "アイル ビー イクリプシング ユア レッドストウン スキルズ ワンス ディス ニュー プロジェクト イズ コンプリート"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have eclipsed",
+      "ipa": "/wɪl hæv ɪˈklɪpst/",
+      "examples": [
+        {
+          "en": "By next month, that enormous mountain will have eclipsed our farm completely.",
+          "ja": "来月までに、その巨大な山は私たちの農場を完全に隠しているでしょう。",
+          "ipa": "/baɪ ˈnɛkst ˈmʌnθ ðæt ɪˈnɔrməs ˈmaʊntən wɪl hæv ɪˈklɪpst ˈaʊər ˈfɑrm kəmˈplitli/",
+          "linking": [
+            "「mountain will」mountain の語末 /n/ が will の初頭母音 /ɪ/ に連結 [ˈmaʊntən wɪl] マウンテン ウィル",
+            "「have eclipsed」have の語末 /v/ が eclipsed の初頭母音 /ɪ/ に連結 [hæv ɪˈklɪpst] ハヴ イクリプスト"
+          ],
+          "kana": "バイ ネクスト マンス ザット イノーマス マウンテン ウィル ハヴ イクリプスト アワー ファーム コンプリートリー"
+        },
+        {
+          "en": "We will have eclipsed their entire team's skill level by the end of this season.",
+          "ja": "このシーズンの終わりまでに、私たちは彼らのチーム全体のスキルレベルを上回っているでしょう。",
+          "ipa": "/wi wɪl hæv ɪˈklɪpst ðɛr ənˈtaɪər ˈtim ˈskɪl ˈlɛvəl baɪ ðə ˈɛnd əv ðɪs ˈsiːzən/",
+          "linking": [
+            "「have eclipsed」have の語末 /v/ が eclipsed の初頭母音 /ɪ/ に連結 [hæv ɪˈklɪpst] ハヴ イクリプスト",
+            "「their entire」their の語末 /r/ が entire の初頭 /ɛ/ に連結 [ðɛr ɛnˈtaɪər] ゼア エンタイア"
+          ],
+          "kana": "ウィ ウィル ハヴ イクリプスト ゼア エンタイア ティーム スキル レベル バイ ザ エンド アヴ ディス シーズン"
+        }
+      ]
     }
   ]
 }

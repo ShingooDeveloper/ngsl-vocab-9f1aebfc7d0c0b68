@@ -278,7 +278,7 @@
       "type": "present_perfect",
       "label": "現在完了形（has/have + 過去分詞）",
       "text": "has nourished",
-      "ipa": "/ˌhəz ˈnɝɪʃt/",
+      "ipa": "/həz ˈnɝɪʃt/",
       "examples": [
         {
           "en": "I have nourished my crops with bone meal every week since I started this farming project.",
@@ -297,7 +297,7 @@
           "ipa": "/ðə tim həz ˈnɝɪʃt ðə ˈlaɪvstɑk θɹuˈaʊt ðə ˌɛntaɪɚ ˈwɪntɚ wɪð ˈkɛɚfəl ˌprɛpəˈreɪʃən ənd ˈplænɪŋ/",
           "kana": "ザ ティーム ハズ ナーリッシュ ザ ライブストック スルーアウト ザ エンタイアー ウィンター ウィズ ケアフル プレパレーション アンド プランニング",
           "linking": [
-            "has nourished: has は弱形 /həz/、末尾 /z/ が nourished の /n/ に連結 → [həz ˈnɝɪʃt]",
+            "has nourished: has は弱形 /həz/、末尾 /z/ が nourished の /n/ に続く（子音クラスタ）→ [həz ˈnɝɪʃt]",
             "nourished the: 語末 /t/ が弱形 the /ðə/ に先行（未開放）→ [ˈnɝɪʃt̚ ðə]",
             "and planning: and は弱形 /ən/ → [ən ˈplænɪŋ]"
           ]
@@ -308,7 +308,7 @@
       "type": "past_perfect",
       "label": "過去完了形（had + 過去分詞）",
       "text": "had nourished",
-      "ipa": "/ˌhəd ˈnɝɪʃt/",
+      "ipa": "/həd ˈnɝɪʃt/",
       "examples": [
         {
           "en": "Once I had nourished the soil with bone meal, the crops started growing much faster than expected.",
@@ -338,7 +338,7 @@
       "type": "present_perfect_progressive",
       "label": "現在完了進行形（has/have been + -ing）",
       "text": "has been nourishing",
-      "ipa": "/ˌhəz bɪn ˈnɝɪʃɪŋ/",
+      "ipa": "/həz bɪn ˈnɝɪʃɪŋ/",
       "examples": [
         {
           "en": "We have been nourishing our crops with compost for the entire growing season since spring.",
@@ -361,6 +361,90 @@
             "been nourishing: been の末尾 /n/ が nourishing の /n/ に続く → [bɪn ˈnɝɪʃɪŋ]",
             "nourishing my: 語末の /ŋ/ が my の /m/ に連結 → [ˈnɝɪʃɪŋ maɪ]"
           ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will nourish",
+      "ipa": "/wɪl ˈnɝɪʃ/",
+      "examples": [
+        {
+          "en": "I will nourish my crops with bone meal tomorrow to help them grow faster.",
+          "ja": "明日、私は作物に骨粉で栄養を与えて、より速く成長させるのを手助けします。",
+          "ipa": "/aɪ wəl ˈnɝɪʃ maɪ krɑps wɪð boʊn mil təˈmɑɹoʊ tə hɛlp ðɛm ɡroʊ ˈfæstɚ/",
+          "linking": [
+            "will は助動詞で弱形 /wəl/",
+            "to は前置詞で弱形 /tə/"
+          ],
+          "kana": "アイ ウル ナーリッシュ マイ クラップス ウィズ ボーン ミール タマーロー タ ヘルプ ザェム グロー ファスター"
+        },
+        {
+          "en": "We will nourish the livestock with hay throughout the winter.",
+          "ja": "冬全体を通して、私たちは干し草で家畜に栄養を与えます。",
+          "ipa": "/wi wəl ˈnɝɪʃ ðə ˈlaɪvstɑk wɪð heɪ θɹuːaʊt ðə ˈwɪntɚ/",
+          "linking": [
+            "will は助動詞で弱形 /wəl/"
+          ],
+          "kana": "ウィー ウル ナーリッシュ ザ ライブストック ウィズ ヘイ スルーアウト ザ ウィンター"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be nourishing",
+      "ipa": "/wɪl bi ˈnɝɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "This time tomorrow, I'll be nourishing the crops in my farm.",
+          "ja": "明日のこの時間、私は自分の農場で作物に栄養を与えているでしょう。",
+          "ipa": "/ðɪs taɪm təˈmɑɹoʊ aɪl bi ˈnɝɪʃɪŋ ðə krɑps ɪn maɪ fɑɹm/",
+          "linking": [
+            "I'll /aɪl/（will の縮約形）",
+            "be /bi/（弱形）"
+          ],
+          "kana": "ディス タイム タマーロー アイル ビー ナーリシング ザ クラップス イン マイ ファーム"
+        },
+        {
+          "en": "They will be nourishing their animals while we explore the caves.",
+          "ja": "私たちが洞窟を探索している間、彼らは彼らの動物に栄養を与えているでしょう。",
+          "ipa": "/ðeɪ wəl bi ˈnɝɪʃɪŋ ðɛɚ ˈænɪməlz waɪl wi ɪkˈsploɹ ðə keɪvz/",
+          "linking": [
+            "will の弱形 /wəl/",
+            "be /bi/（弱形）",
+            "their の /ɚ/ が animals の /æ/ に連結（r-linking）[ðɛɚ ˈænɪməlz]→「ゼア アニマルズ」"
+          ],
+          "kana": "ザイ ウル ビー ナーリシング ゼア アニマルズ ホワイル ウィー エクスプロー ザ ケイブズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have nourished",
+      "ipa": "/wɪl həv ˈnɝɪʃt/",
+      "examples": [
+        {
+          "en": "By the end of the season, we will have nourished our livestock for months.",
+          "ja": "シーズンの終わりまでに、私たちは数ヶ月間家畜に栄養を与えているでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə ˈsizən wi wəl həv ˈnɝɪʃt ˈaʊɚ ˈlaɪvstɑk fɔɹ mʌnθz/",
+          "linking": [
+            "will の弱形 /wəl/；have も弱形 /həv/",
+            "our の末尾 /ɚ/ が livestock の /l/ に連結（r-linking）[ˈaʊɚ ˈlaɪvstɑk]→「アワー ライブストック」"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン ウィー ウル ハヴ ナーリッシュト アワー ライブストック フォー マンズ"
+        },
+        {
+          "en": "She will have nourished the crops sufficiently by harvest time.",
+          "ja": "収穫時までに、彼女は十分に作物に栄養を与えているでしょう。",
+          "ipa": "/ʃi wəl həv ˈnɝɪʃt ðə krɑps səˈfɪʃəntli baɪ ˈhɑɹvɪst taɪm/",
+          "linking": [
+            "will の弱形 /wəl/；have も弱形 /həv/",
+            "nourished の末尾 /t/ が the の弱形 /ðə/ に先行（未開放）[ˈnɝɪʃt̚ ðə]→「ナーリッシュ ザ」"
+          ],
+          "kana": "シー ウル ハヴ ナーリッシュト ザ クラップス サフィシェントリー バイ ハーベスト タイム"
         }
       ]
     }

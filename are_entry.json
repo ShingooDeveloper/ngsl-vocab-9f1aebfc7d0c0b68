@@ -1,0 +1,161 @@
+{
+  "word": "are",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɑr/",
+  "rank": 0,
+  "level": "A1",
+  "hi": "are",
+  "meanings": [
+    "【動詞】～が存在する、～がいる。位置や状態を表す（You are here）",
+    "【動詞】～である。属性や特性を説明する（These blocks are valuable）",
+    "【助動詞】進行形を構成する。～している（They are building）"
+  ],
+  "examples": [
+    {
+      "en": "You are mining diamonds in the cave.",
+      "ja": "あなたは洞窟でダイヤを採掘しています。",
+      "ipa": "[ju ɑr ˈmaɪnɪŋ ˈdaɪməndz ɪn ðə keɪv]",
+      "linking": [
+        "are mining → are の語末 /r/ と mining の語頭 /m/ は両子音のため連結しない",
+        "in the → the は弱形 /ðə/。in の語末 /n/ と the の語頭 /ð/ は子音が隣接"
+      ],
+      "kana": "ユー アー マイニング ダイマンズ イン ザ ケイヴ"
+    },
+    {
+      "en": "We are building a new base.",
+      "ja": "私たちは新しい拠点を建設しています。",
+      "ipa": "[wi ɑr ˈbɪldɪŋ ə ˈnu bɛs]",
+      "linking": [
+        "we are → we の語末 /i/ と are の語頭 /ɑ/ は母音と母音の滑らかな境界。[wiɑr] ウィアー",
+        "a new → a は弱形 /ə/。new の語頭 /n/ に先行する"
+      ],
+      "kana": "ウィ アー ビルディング ア ニュー ベース"
+    },
+    {
+      "en": "These blocks are made of netherite.",
+      "ja": "これらのブロックはネザライトでできています。",
+      "ipa": "[ðiz blɑks ɑr ˈmeɪɾəv ˈnɛðəɹaɪt]",
+      "linking": [
+        "blocks are → blocks の語末 /ks/ と are の語頭 /ɑ/ は両子音のため連結しない",
+        "made of → made の語末 /d/ が of の母音 /ə/ に連結。/d/ はフラップ化して [ɾ]。of は弱形 /əv/"
+      ],
+      "kana": "ディーズ ブラックス アー メイラヴ ネザレイト"
+    }
+  ],
+  "idioms": [],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "is",
+      "ipa": "/ɪz/",
+      "examples": [
+        {
+          "en": "Here is a diamond ore.",
+          "ja": "ここにダイヤモンド鉱石があります。",
+          "ipa": "[hɪr ɪz ə ˈdaɪmənd ɔr]",
+          "linking": [
+            "Here is → Here の語末 /r/ が is の語頭 /ɪ/ に連結 [hɪrɪz] ヒーリズ",
+            "a diamond → a は弱形 /ə/。diamond の語頭 /d/ に先行"
+          ],
+          "kana": "ヒーリズ ア ダイマンド オア"
+        },
+        {
+          "en": "Netherite ore is very rare.",
+          "ja": "ネザライト鉱石はとても珍しいです。",
+          "ipa": "[ˈnɛðəraɪt ɔr ɪz ˈvɛri ˈrɛr]",
+          "linking": [
+            "ore is → ore の語末 /r/ が is の語頭 /ɪ/ に連結 [ɔrɪz] オーリズ",
+            "is very → is の語末 /z/ と very の語頭 /v/ は両子音のため連結しない"
+          ],
+          "kana": "ネザレイト オーリズ ベリー レア"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "was",
+      "ipa": "/wəz/",
+      "examples": [
+        {
+          "en": "That was a dangerous mob attack.",
+          "ja": "それは危険なモブの攻撃でした。",
+          "ipa": "[ðæt wəz ə ˈdeɪndʒərəs mɑb əˈtæk]",
+          "linking": [
+            "That was → That の語末 /t/ は未開放で was /w/ に先行 [ðæt̚ wəz] ザット",
+            "a dangerous → a は弱形 /ə/。dangerous の語頭 /d/ に先行"
+          ],
+          "kana": "ザット ワズ ア デインジャラス マブ ア タック"
+        },
+        {
+          "en": "It was so scary when the creeper appeared.",
+          "ja": "クリーパーが現れた時はとても怖かったです。",
+          "ipa": "[ɪt wəz soʊ ˈskɛri wɛn ðə ˈkripər əˈpɪrd]",
+          "linking": [
+            "It was → It の語末 /t/ は未開放で was /w/ に先行 [ɪt̚ wəz] イット",
+            "the creeper → the は弱形 /ðə/。creeper の語頭 /k/ に先行"
+          ],
+          "kana": "イット ワズ ソー スケアリー ウェン ザ クリーパー ア ピアド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "been",
+      "ipa": "/bɪn/",
+      "examples": [
+        {
+          "en": "I have been mining for hours.",
+          "ja": "私は何時間もマイニングをしています。",
+          "ipa": "[aɪ hæv bɪn ˈmaɪnɪŋ fɔr ˈaʊərz]",
+          "linking": [
+            "have been → have の語末 /v/ と been の語頭 /b/ は両子音のため連結しない",
+            "been mining → been の語末 /n/ と mining の語頭 /m/ は両子音のため連結しない"
+          ],
+          "kana": "アイ ハブ ビン マイニング フォー アワーズ"
+        },
+        {
+          "en": "Diamonds have been found here before.",
+          "ja": "ダイヤモンドはここで以前見つかっています。",
+          "ipa": "[ˈdaɪməndz hæv bɪn faʊnd hɪr bɪˈfɔr]",
+          "linking": [
+            "have been → have の語末 /v/ と been の語頭 /b/ は両子音のため連結しない",
+            "been found → been の語末 /n/ と found の語頭 /f/ は両子音のため連結しない"
+          ],
+          "kana": "ダイマンズ ハブ ビン ファウンド ヒア ビフォア"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞",
+      "text": "being",
+      "ipa": "/ˈbiɪŋ/",
+      "examples": [
+        {
+          "en": "The cave is being explored right now.",
+          "ja": "洞窟は今ちょうど探索されています。",
+          "ipa": "[ðə keɪv ɪz ˈbiɪŋ ɪkˈsplɔrd raɪt naʊ]",
+          "linking": [
+            "cave is → cave の語末 /v/ が is の語頭 /ɪ/ に連結 [ˈkeɪvɪz] ケイビズ",
+            "is being → is の語末 /z/ と being の語頭 /b/ は両子音のため連結しない"
+          ],
+          "kana": "ザ ケイビズ ビーイング イクスプロアド ライト ナウ"
+        },
+        {
+          "en": "The redstone is being built into a circuit.",
+          "ja": "レッドストーンが回路に組み込まれています。",
+          "ipa": "[ðə ˈrɛdstəʊn ɪz ˈbiɪŋ bɪlt ˈɪntu ə ˈsɝkɪt]",
+          "linking": [
+            "redstone is → redstone の語末 /n/ が is の語頭 /ɪ/ に連結 [ˈrɛdstəʊnɪz] レッドストーンリズ",
+            "is being → is の語末 /z/ と being の語頭 /b/ は両子音のため連結しない"
+          ],
+          "kana": "ザ レッドストーンリズ ビーイング ビルト イントゥ ア サーキット"
+        }
+      ]
+    }
+  ]
+}

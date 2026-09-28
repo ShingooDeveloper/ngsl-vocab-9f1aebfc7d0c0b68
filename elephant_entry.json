@@ -74,5 +74,35 @@
       "kana": "アン エレファント ネバー ファゲッツ ウェア ウィー ベアード ザ トレジャー チェスト"
     }
   ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "elephants",
+      "ipa": "/ˈɛləfənts/",
+      "examples": [
+        {
+          "en": "There are three stone elephants guarding our base.",
+          "ja": "私たちのベースを守る石造りの象が3体あります。",
+          "ipa": "/ðɛr ər θri stoʊn ˈɛləfənts ˈɡɑrdɪŋ aʊr beɪs/",
+          "linking": [
+            "are は弱形 /ə/ に弱化",
+            "stone /n/ が elephants /ɛ/ に連結 [stoʊn‿ɛləfənts]"
+          ],
+          "kana": "ゼア ア スリー ストーン エレファンツ ガーディング アワー ベース"
+        },
+        {
+          "en": "Have you seen all the stone elephants we built around the fortress?",
+          "ja": "要塞の周りに建てた石造りの象をすべて見ましたか？",
+          "ipa": "/hæv ju sin ɔl ðə stoʊn ˈɛləfənts wi bɪlt əˈraʊnd ðə ˈfɔrtəs/",
+          "linking": [
+            "stone /n/ が elephants /ɛ/ に連結 [stoʊn‿ɛləfənts]",
+            "built /t/ が around /ə/ に連結 [bɪlt‿əˈraʊnd]"
+          ],
+          "kana": "ハブ ユー シーン オール ザ ストーン エレファンツ ウィ ビルト アラウンド ザ フォートレス"
+        }
+      ]
+    }
+  ],
   "tags": ["Target 1900"]
 }

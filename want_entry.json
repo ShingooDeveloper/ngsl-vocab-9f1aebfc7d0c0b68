@@ -105,6 +105,33 @@
       "kana": "スティーヴ ダズント ウォント ダ クリーパー タ ブロウ アップ ヒズ ベイス"
     }
   ],
+  "idioms": [
+    {
+      "idiom": "want to do",
+      "ja": "～したい（～をしたいと思う）",
+      "example": "Players want to find diamonds in deep caves.",
+      "example_ja": "プレイヤーたちは深い洞窟でダイヤモンドを探したい。",
+      "ipa": "/ˈpleɪɚz wɑnt tə faɪnd ˈdaɪmənz ɪn dip keɪvz/",
+      "linking": [
+        "want to → want の語末子音 /t/ は未開放で、to は機能語弱形 /tə/ として続く [wɑn̪t̚tə] ワント タ",
+        "diamonds in → diamonds の語末子音 /z/ が in の初頭母音 /ɪ/ に連結 [ˈdaɪmənzɪn] ダイモンズイン"
+      ],
+      "kana": "プレイヤーズ ワント タ ファインド ダイモンズイン ディープ ケイヴズ"
+    },
+    {
+      "idiom": "want 〜 to do",
+      "ja": "～に…することを望む、～が…するよう望む",
+      "example": "I want all of you to mine these diamonds together.",
+      "example_ja": "みんなにこれらのダイヤモンドを一緒に採掘してほしい。",
+      "ipa": "/aɪ wɑnt ɔl əv ju tə ˈmaɪn ðiz ˈdaɪməndz təˈɡɛðər/",
+      "linking": [
+        "want の語末 /t/ が all の初頭 /ɔ/ に連結 [wɑn ˈtɔl]",
+        "all の語末 /l/ が of の初頭 /ə/ に連結 [ɔl əv]",
+        "to は機能語で弱形 /tə/。mine に連結 [tə ˈmaɪn]"
+      ],
+      "kana": "アイ ウォント オール アヴ ユー タ マイン ディーズ ダイモンズ トゥゲザー"
+    }
+  ],
   "substitutions": [
     {
       "base": "Everyone wants to be happy and successful in their life.",

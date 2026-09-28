@@ -245,10 +245,9 @@
           "ipa": "/ʃi ɪz ˈflɪ.pɪŋ θruː ðə ˈtʃɛsts tə ˈfaɪnd ˈdaɪ.məndz/",
           "linking": [
             "「is flipping」で is が弱形 /ɪz/",
-            "「through the」では through の語末 /uː/ に続く the は弱形 /ðə/",
-            "「find diamonds」では語末子音 /d/ が母音 /daɪ/ に連結 [ˈfaɪn.daɪ]"
+            "「through the」では through の語末 /uː/ に続く the は弱形 /ðə/"
           ],
-          "kana": "シー イズ フリッピング スルー ザ チェスツ タ ファインダイモンズ"
+          "kana": "シー イズ フリッピング スルー ザ チェスツ タ ファインド ダイモンズ"
         }
       ]
     },
@@ -264,8 +263,7 @@
           "ipa": "/aɪ wəz ˈflɪ.pɪŋ ðə ˈlɛ.vɚ wɛn ðə ˈkri.pɚ səˈdɛn.li ɪkˈsploʊ.dɪd/",
           "linking": [
             "「was flipping」で was が弱形 /wəz/",
-            "「the」は冠詞として弱形 /ðə/（2回）",
-            "「creeper exploded」では語末 /r/ が母音に連結 [ˈkri.pɚ] クリーパー"
+            "「the」は冠詞として弱形 /ðə/（2回）"
           ],
           "kana": "アイ ワズ フリッピング ザ レバー ウェン ザ クリーパー サデンリー エクスプローディッド"
         },
@@ -313,6 +311,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has flipped",
+      "ipa": "/həz ˈflɪpt/",
+      "examples": [
+        {
+          "en": "The team has flipped the master switch to activate all the redstone circuits.",
+          "ja": "チームはすべてのレッドストーン回路をアクティブにするためにマスタースイッチを反転させました。",
+          "ipa": "/ðə ˈtim həz ˈflɪpt ðə ˈmæstɚ swɪtʃ tə ˈæktɪˌveɪt ɔl ðə ˈrɛdstoʊn ˈsɝkɪts/",
+          "kana": "ザ ティーム ハズ フリップト ザ マスター スウィッチ タ アクティベイト オール ザ レッドストウン サーキッツ",
+          "linking": [
+            "has の末 /z/ が flipped の /f/ に続く（子音+子音）[həz ˈflɪpt] ハズ フリップト",
+            "flipped の末 /t/ が the の弱形 /ðə/ に語間で続く [ˈflɪpt ðə] フリップト ザ",
+            "to は弱形 /tə/"
+          ]
+        },
+        {
+          "en": "They have flipped the puzzle switches in the correct order to solve the riddle.",
+          "ja": "彼らはなぞなぞを解くために、正しい順番でパズルスイッチを反転させました。",
+          "ipa": "/ðeɪ həv ˈflɪpt ðə ˈpʌzəl ˈswɪtʃɪz ɪn ðə kəˈrɛkt ˈɔɹdɚ tə ˈsɑlv ðə ˈrɪdəl/",
+          "kana": "ザイ ハヴ フリップト ザ パズル スウィッチィズ イン ザ コレクト オーダー タ ソルヴ ザ リドゥル",
+          "linking": [
+            "have の末 /v/ が flipped の /f/ に続く（子音+子音）[həv ˈflɪpt] ハヴ フリップト",
+            "flipped の末 /t/ が the の弱形 /ðə/ に語間で続く [ˈflɪpt ðə] フリップト ザ",
+            "switches の末 /z/ が in の初頭 /ɪ/ に連結 [ˈswɪtʃɪz ɪn] スウィッチィズ イン"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had flipped",
+      "ipa": "/həd ˈflɪpt/",
+      "examples": [
+        {
+          "en": "Once they had flipped the final lever, the vault door began to open slowly.",
+          "ja": "最後のレバーを反転させた後、金庫のドアはゆっくり開き始めました。",
+          "ipa": "/wʌns ðeɪ həd ˈflɪpt ðə ˈfaɪnəl ˈlɛvɚ ðə vɔlt dɔɹ bɪˈɡæn tə ˈoʊpən ˈsloʊli/",
+          "kana": "ワンス ザイ ハド フリップト ザ ファイナル レバー ザ ヴォールト ドアー ビガン タ オウペン スロウリー",
+          "linking": [
+            "had の末 /d/ が flipped の /f/ に続く（子音+子音）[həd ˈflɪpt] ハド フリップト",
+            "flipped の末 /t/ が the の弱形 /ðə/ に語間で続く [ˈflɪpt ðə] フリップト ザ",
+            "lever の末 /r/ が the の弱形 /ðə/ に連結 [ˈlɛvɚ ðə] レバー ザ"
+          ]
+        },
+        {
+          "en": "The builder realized he had flipped the wrong switch before the trap mechanism activated.",
+          "ja": "ビルダーはトラップメカニズムが起動する前に、間違ったスイッチを反転させていたことに気づきました。",
+          "ipa": "/ðə ˈbɪldɚ riːəˈlaɪzd hi həd ˈflɪpt ðə ˈrɔŋ swɪtʃ bɪˈfɔɹ ðə træp ˈmɛkənɪzəm ˈæktɪˌveɪtəd/",
+          "kana": "ザ ビルダー リアライズド ヒー ハド フリップト ザ ロング スウィッチ ビフォア ザ トラップ メカニズム アクティベイティッド",
+          "linking": [
+            "had の末 /d/ が flipped の /f/ に続く（子音+子音）[həd ˈflɪpt] ハド フリップト",
+            "flipped の末 /t/ が the の弱形 /ðə/ に語間で続く [ˈflɪpt ðə] フリップト ザ",
+            "switch の末 /tʃ/ が before の初頭 /b/ に語間で続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been flipping",
+      "ipa": "/həz bɪn ˈflɪpɪŋ/",
+      "examples": [
+        {
+          "en": "The engineers have been flipping the test switches all morning to calibrate the mechanisms.",
+          "ja": "エンジニアたちはメカニズムを調整するために一晩中テストスイッチを反転させ続けています。",
+          "ipa": "/ðə ˌɛndʒɪˈnɪrz həv bɪn ˈflɪpɪŋ ðə ˈtɛst ˈswɪtʃɪz ɔl ˈmɔɹnɪŋ tə ˈkælɪˌbreɪt ðə ˈmɛkənɪzəmz/",
+          "kana": "ザ エンジニアーズ ハヴ ビン フリッピング ザ テスト スウィッチィズ オール モーニング タ キャリブレイト ザ メカニズムズ",
+          "linking": [
+            "have の末 /v/ が been の弱形 /bɪn/ に連結 [həv bɪn] ハヴ ビン",
+            "been の末 /n/ が flipping の /f/ に続く（子音+子音）[bɪn ˈflɪpɪŋ] ビン フリッピング",
+            "the は弱形 /ðə/ ザ（2回）"
+          ]
+        },
+        {
+          "en": "I have been flipping puzzle switches since the beginning of the competition.",
+          "ja": "競争の始まりからずっとパズルスイッチを反転させ続けています。",
+          "ipa": "/aɪ həv bɪn ˈflɪpɪŋ ˈpʌzəl ˈswɪtʃɪz sɪns ðə bɪˈɡɪnɪŋ əv ðə ˌkɑmpəˈtɪʃən/",
+          "kana": "アイ ハヴ ビン フリッピング パズル スウィッチィズ シンス ザ ビギニング アヴ ザ コンペティション",
+          "linking": [
+            "have の末 /v/ が been の弱形 /bɪn/ に連結 [həv bɪn] ハヴ ビン",
+            "been の末 /n/ が flipping の /f/ に続く（子音+子音）[bɪn ˈflɪpɪŋ] ビン フリッピング",
+            "since の末 /s/ が the の初頭 /ð/ に続く（子音+子音）"
+          ]
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 動詞原形）",
       "text": "will flip",
@@ -336,7 +424,7 @@
           "kana": "ゼイル フリップ ディーズ レバー スウィッチィズ アット ザ セイム タイム タ オウペン ザ ヴォールト ドアー",
           "linking": [
             "「They'll」—they と will の縮約で /ðeɪl/「ゼイル」",
-            "「flip these」—flip の /p/ が these の /ð/ に子音+子音で続く、these は弱化 [ˈflɪp ðiːz]「フリップ ディーズ」",
+            "「flip these」—flip の /p/ が these の /ð/ に子音+子音で続く [ˈflɪp ðiːz]「フリップ ディーズ」",
             "「same time」—same の語末 /m/ が time の /t/ に続く（鼻音+子音で未開放）"
           ]
         }
@@ -356,7 +444,7 @@
           "linking": [
             "「will be」—will の弱形 /wɪl/、be は短形 /bi/ [wɪl bi]「ウィル ビー」",
             "「be flipping」—be の /i/ が flipping の /f/ に連結、ただし /f/ は子音なので重なり気味に発音",
-            "「all night」—all は /ɔːl/ オール、night は /naɪt/ ナイト。語末 /l/ が /n/ に続く（半母音+子音で自然な移行）"
+            "「all night」—all は /ɔːl/ オール、night は /naɪt/ ナイト。語末 /l/ が /n/ に続く（子音+子音で自然な移行）"
           ]
         },
         {
@@ -367,7 +455,7 @@
           "linking": [
             "「I'll」—I と will の縮約で /aɪl/「アイル」",
             "「I'll be」—/l/ が be の /b/ に続く（子音+子音で未開放）[aɪl bi]「アイル ビー」",
-            "「be flipping」—be の短形 /bi/ が flipping の /f/ に続く（半母音後の子音）",
+            "「be flipping」—be の短形 /bi/ が flipping の /f/ に続く（母音から子音への遷移）",
             "「mechanisms to」—mechanisms の語末 /z/ が to の弱形 /tə/ に連結 [ˈmɛkənɪzəmz tə]「メカニズムズ タ」"
           ]
         }
@@ -383,7 +471,7 @@
           "en": "By tomorrow morning, we will have flipped all the mechanism switches to reset the dungeon.",
           "ja": "明日の朝までに、ダンジョンをリセットするためにすべてのメカニズムスイッチを反転させておきます。",
           "ipa": "/baɪ təˈmɑːɹoʊ ˈmɔɹnɪŋ wi wɪl həv ˈflɪpt ɔːl ðə ˈmɛkənɪzəm ˈswɪtʃɪz tə ˈrɛsɛt ðə ˈdʌndʒən/",
-          "kana": "バイ タゥモーロー モーニング ウィ ウィル ハヴ フリップト オール ザ メカニズム スウィッチィズ タ リセット ザ ダンジョン",
+          "kana": "バイ タモーロー モーニング ウィ ウィル ハヴ フリップト オール ザ メカニズム スウィッチィズ タ リセット ザ ダンジョン",
           "linking": [
             "「will have」—will の弱形 /wɪl/、have も弱形 /həv/（または /əv/）[wɪl həv]「ウィル ハヴ」",
             "「have flipped」—have の語末 /v/ が flipped の /f/ に連結 [həv ˈflɪpt]「ハヴ フリップト」",

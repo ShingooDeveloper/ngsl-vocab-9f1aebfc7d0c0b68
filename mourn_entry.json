@@ -282,7 +282,7 @@
           "ja": "彼女は何日も彼女の魔法のツルハシの喪失を悼んでいます。",
           "ipa": "/ʃi həz ˈmɔrnd ðə lɔs əv hɚ ɛnˈtʃæntəd ˈpɪkæks fər ˈdeɪz/",
           "linking": [
-            "has は弱形 /həz/ → [həz ˈmɔr] ハズ モーンド",
+            "has は弱形 /həz/ ハズ",
             "「loss of」で語末子音 /s/ が母音 /ə/ に連結 → [lɔs əv] ロス アブ",
             "「the」は弱形 /ðə/ ザ、「for」は弱形 /fər/ フォー"
           ],
@@ -293,11 +293,11 @@
           "ja": "ウィザーがすべてを破壊して以来、私たちは倒れた仲間を悼んでいます。",
           "ipa": "/wi həv ˈmɔrnd aʊɚ ˈfɔlən ˈkɑmredz sɪns ðə ˈwɪðər dɪˈstrɔɪd ˈɛvriθɪŋ/",
           "linking": [
-            "have は弱形 /həv/ → [həv ˈmɔr] ハヴ モーンド",
+            "have は弱形 /həv/ ハヴ",
             "「mourned our」で語末子音 /d/ が母音 /aʊ/ に連結 → [ˈmɔrnd aʊɚ] モーンド アワー",
             "「the Wither」で the は弱形 /ðə/ → [ðə ˈwɪðər] ザ ウィザー"
           ],
-          "kana": "ウィ ハヴ モーンド アワー フォーレン コムラッズ シンス ザ ウィザー ディストロイド エブリシング"
+          "kana": "ウィ ハヴ モーンド アワー フォーレン コムレッズ シンス ザ ウィザー ディストロイド エブリシング"
         }
       ]
     },
@@ -312,7 +312,7 @@
           "ja": "救出チームが最終的に到着する前に、私たちは何時間も基地を悼んでいました。",
           "ipa": "/wi həd ˈmɔrnd aʊɚ ˈbeɪs fər ˈaʊɚz bɪˈfɔr ðə ˈrɛskju tim ˈfaɪnəli əˈraɪvd/",
           "linking": [
-            "had は弱形 /həd/ → [həd ˈmɔr] ハド モーンド",
+            "had は弱形 /həd/ ハド",
             "「mourned our」で語末子音 /d/ が母音 /aʊ/ に連結 → [ˈmɔrnd aʊɚ] モーンド アワー",
             "「the rescue」で the は弱形 /ðə/ → [ðə ˈrɛskju] ザ レスキュー"
           ],
@@ -321,13 +321,13 @@
         {
           "en": "The miners had mourned their fallen companion before discovering the diamond mine.",
           "ja": "ダイヤモンド鉱山を発見する前に、鉱夫たちは倒れた仲間を悼んでいました。",
-          "ipa": "/ðə ˈmaɪnərz həd ˈmɔrnd ðɛr ˈfɔlən kəˈpænjən bɪˈfɔr dɪˈskʌvərɪŋ ðə ˈdaɪmənd ˈmaɪn/",
+          "ipa": "/ðə ˈmaɪnərz həd ˈmɔrnd ðɛr ˈfɔlən kəmˈpænjən bɪˈfɔr dɪˈskʌvərɪŋ ðə ˈdaɪmənd ˈmaɪn/",
           "linking": [
             "had は弱形 /həd/ ハド",
             "「mourned their」で語末子音 /d/ が子音 /ð/ に続く（子音+子音）分かれる",
             "「the diamond」で the は弱形 /ðə/ → [ðə ˈdaɪ] ザ ダイモンド"
           ],
-          "kana": "ザ マイナーズ ハド モーンド ザー フォーレン コンパニオン ビフォー ディスカバリング ザ ダイモンド マイン"
+          "kana": "ザ マイナーズ ハド モーンド ゼア フォーレン コンパニオン ビフォー ディスカバリング ザ ダイモンド マイン"
         }
       ]
     },
@@ -357,7 +357,103 @@
             "「mourning the」で語末 /ŋ/ が子音 /ð/ に続く（子音+子音）分かれる、the は弱形 /ðə/ ザ",
             "「of」は弱形 /əv/ オブ、「for」は弱形 /fər/ フォー"
           ],
-          "kana": "ザ ビルダーズ ハヴ ビン モーニング ザ ディストラクション アブ ザー フォートレス フォー ウィークス"
+          "kana": "ザ ビルダーズ ハヴ ビン モーニング ザ ディストラクション アブ ゼア フォートレス フォー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will mourn",
+      "ipa": "/wɪl ˈmɔrn/",
+      "examples": [
+        {
+          "en": "I'll mourn the loss of my enchanted sword when I find it missing from the chest.",
+          "ja": "チェストからなくなったのを見つけたとき、私は魔法の剣の喪失を悼みます。",
+          "ipa": "/aɪl ˈmɔrn ðə lɔs əv maɪ ɛnˈtʃæntəd sɔrd wɛn aɪ ˈfaɪnd ɪt ˈmɪsɪŋ frəm ðə ˈtʃɛst/",
+          "linking": [
+            "「I'll」は will縮約 /aɪl/、その末尾 /l/ が mourn の初頭 /m/ と子音+子音で分かれる",
+            "「loss of」で語末子音 /s/ が母音 /ə/ に連結 → [lɔs əv] ロス アブ",
+            "「the loss」で the は弱形 /ðə/ ザ",
+            "「from the」で from弱形 /frəm/ フラム、the弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル モーン ザ ロス アブ マイ エンチャンティド ソード ウェン アイ ファインド イット ミッシング フラム ザ チェスト"
+        },
+        {
+          "en": "The miners will mourn this disaster for weeks if the cave system collapses.",
+          "ja": "洞窟システムが崩壊したら、鉱夫たちはこの災害を何週間も悼むでしょう。",
+          "ipa": "/ðə ˈmaɪnərz wɪl ˈmɔrn ðɪs dɪˈzæstər fər ˈwiks ɪf ðə ˈkeɪv ˈsɪstəm kəˈlæpsɪz/",
+          "linking": [
+            "「the miners」で the は弱形 /ðə/ ザ、miners末尾 /z/ が will初頭 /w/ と子音+子音で分かれる",
+            "「this disaster」で /s/ が /d/ に続く（子音+子音）分かれる",
+            "「for weeks」で for は弱形 /fər/ フォー",
+            "「the cave」で the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ マイナーズ ウィル モーン ディス ディザスター フォー ウィークス イフ ザ ケイヴ システム コラプシズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be mourning",
+      "ipa": "/wɪl bi ˈmɔrnɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be mourning our old fortress while we construct the new one.",
+          "ja": "新しい要塞を建設する間、私たちは古い要塞を悼むでしょう。",
+          "ipa": "/wil bi ˈmɔrnɪŋ aʊɚ oʊld ˈfɔɹtrəs waɪl wi kənˈstrʌkt ðə ˈnu wʌn/",
+          "linking": [
+            "「We'll be」で we'll /wil/ (will縮約)、be /bi/ は通常弱形 /bɪ/ → [wil bɪ] ウィル ビー",
+            "「mourning our」で末尾 /ŋ/ が母音 /aʊ/ に連結 → [ˈmɔrnɪŋ aʊɚ] モーニング アワー",
+            "「the new」で the は弱形 /ðə/ ザ",
+            "「construct the」で /t/ が /ð/ に続く（子音+子音）分かれる"
+          ],
+          "kana": "ウィル ビー モーニング アワー オウルド フォートレス ワイル ウィ コンストラクト ザ ニュー ワン"
+        },
+        {
+          "en": "They will be mourning the fallen players for an entire month after the disaster.",
+          "ja": "災害の後、彼らは倒れたプレイヤーたちを1ヶ月間ずっと悼むでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈmɔrnɪŋ ðə ˈfɔlən ˈpleɪərz fər ən ɛnˈtaɪər ˈmʌnθ ˈæftər ðə dɪˈzæstər/",
+          "linking": [
+            "「will be」で will /wɪl/、be /bi/ 弱形 /bɪ/ → [wɪl bɪ] ウィル ビー",
+            "「mourning the」で末尾 /ŋ/ が子音 /ð/ に続く（子音+子音）分かれる、the は弱形 /ðə/ ザ",
+            "「for an」で for は弱形 /fər/ フォー、an /ən/",
+            "「entire month」で /ə/ が /m/ に続く（子音+子音）分かれる"
+          ],
+          "kana": "ザ ウィル ビー モーニング ザ フォーレン プレイヤーズ フォー アン エンタイアー マンス アフター ザ ディザスター"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have mourned",
+      "ipa": "/wɪl həv ˈmɔrnd/",
+      "examples": [
+        {
+          "en": "By the time rescue arrives, we will have mourned our losses for three full days.",
+          "ja": "救助が到着するまでに、私たちは3日間損失を悼むでしょう。",
+          "ipa": "/baɪ ðə taɪm ˈrɛskju əˈraɪvz | wi wɪl həv ˈmɔrnd aʊɚ ˈlɔsɪz fər ˈθri fʊl ˈdeɪz/",
+          "linking": [
+            "「By the time」で the は弱形 /ðə/ ザ",
+            "「will have」で will /wɪl/、have は弱形 /əv/ → [wɪl əv] ウィル ハヴ",
+            "「mourned our」で末尾 /d/ が母音 /aʊ/ に連結 → [ˈmɔrnd aʊɚ] モーンド アワー",
+            "「for three」で for は弱形 /fər/ フォー"
+          ],
+          "kana": "バイ ザ タイム レスキュー アライブズ、ウィ ウィル ハヴ モーンド アワー ロセズ フォー スリー フル デイズ"
+        },
+        {
+          "en": "She will have mourned her lost armor until she finds something equal in value.",
+          "ja": "彼女は同等の価値のある何かを見つけるまで、失われた鎧を悼むでしょう。",
+          "ipa": "/ʃi wɪl həv ˈmɔrnd hɚ lɔst ˈɑrmər ənˈtɪl ʃi ˈfaɪndz ˈsʌmθɪŋ ˈikwəl ɪn ˈvæljuː/",
+          "linking": [
+            "「will have」で will /wɪl/、have は弱形 /əv/ → [wɪl əv] ウィル ハヴ",
+            "「mourned her」で末尾 /d/ が母音 /hɚ/ に連結 → [ˈmɔrnd ɚ] モーンド ハー",
+            "「until she」で until /ənˈtɪl/、she /ʃi/ と続く",
+            "「finds something」で /z/ が /s/ に続く（子音+子音）分かれる"
+          ],
+          "kana": "シー ウィル ハヴ モーンド ハー ロスト アーマー アンティル シー ファインズ サムシング イクワル イン ヴァリュー"
         }
       ]
     }

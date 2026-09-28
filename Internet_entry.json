@@ -1,61 +1,38 @@
 {
-  "word": "Internet",
+  "word": "internet",
   "pos": "名詞",
   "pos_all": "名詞",
-  "ipa_us": "/ˈɪn.tɚ.nɛt/",
-  "rank": 0,
-  "level": "B1",
-  "hi": "[Ii]nternet(?:'s)?",
+  "ipa_us": "/ˈɪntɚnɛt/",
+  "rank": 246,
+  "level": "A1",
+  "hi": "internet",
   "meanings": [
-    "【名詞】インターネット、世界中のコンピュータを結ぶ通信ネットワーク（…the Internet…）",
-    "【名詞】ネット接続、通信回線（…slow Internet, fast Internet…）"
+    "【名詞】インターネット、ネット、国際情報通信網"
   ],
   "examples": [
     {
-      "en": "I need a fast Internet connection to join the server without lag.",
-      "ja": "ラグなしでサーバーに参加するには、高速インターネット接続が必要です。",
-      "ipa": "/aɪ ˈniːd ə ˈfæst ˈɪn.tɚ.nɛt kəˈnɛk.ʃən tə ˈdʒoʊn ðə ˈsɚ.vɚ wɪðˈaʊt ˈlæɡ/",
-      "kana": "アイ ニーダ ファスト インターネット コネクション タ ジョイン ザ サーバー ウィズアウト ラッグ",
+      "en": "The Internet allows players to share their creations worldwide.",
+      "ja": "インターネットにより、プレイヤーは世界中に彼らの作品を共有できます。",
+      "ipa": "/ðə ˈɪntɚnɛt əˈlaʊz ˈpleɪərz tu ʃɛr ðɛr kriˈeɪʃənz ˈwɝldˌwaɪd/",
       "linking": [
-        "need a → 語末子音 /d/ が母音 /ə/ に連結 [ˈniːdə] ニーダ",
-        "to join → to は弱形 /tə/ に弱化",
-        "the は弱形 /ðə/"
-      ]
-    },
-    {
-      "en": "Our Internet went down during our Minecraft building session yesterday.",
-      "ja": "昨日のマイクラビルディング中にインターネットが切れてしまいました。",
-      "ipa": "/ˈaʊɚ ˈɪn.tɚ.nɛt ˈwɛnt ˈdaʊn ˈdʊr.ɪŋ ˈaʊɚ ˈmaɪn.kɹæft ˈbɪl.dɪŋ ˈsɛʃ.ən ˈjɛs.tɚ.deɪ/",
-      "kana": "アウアー インターネット ウェント ダウン デュアリング アウアー マインクラフト ビルディング セッション イエスタデイ",
-      "linking": [
-        "Our → r-coloring により [ˈaʊɚ] アウアー",
-        "during → r-coloring により [ˈdʊr.ɪŋ] デュアリング"
-      ]
-    },
-    {
-      "en": "Players with faster Internet will have much lower ping and smoother gameplay.",
-      "ja": "より速いインターネット環境のプレイヤーはピングが低くゲームがスムーズです。",
-      "ipa": "/ˈpleɪ.ɚz wɪð ˈfæs.tɚ ˈɪn.tɚ.nɛt wɪl ˈhæv ˈmʌtʃ ˈloʊ.ɚ ˈpɪŋ ənd ˈsmuːð.ɚ ˈɡeɪm.pleɪ/",
-      "kana": "プレイアーズ ウィズ ファスター インターネット ウィル ハッブ マッチ ロウアー ピング アン スムーザー ゲイムプレイ",
-      "linking": [
-        "faster → r-coloring により [ˈfæs.tɚ] ファスター",
-        "and は弱形 /ənd/ アン"
-      ]
+        "the は弱形 /ðə/（冠詞）",
+        "allows の語末 /z/ が players の語初 /p/（子音+子音）に続く"
+      ],
+      "kana": "ザ インターネット アラウズ プレイヤーズ トゥー シェア ザェア クリエーションズ ワールドワイド"
     }
   ],
   "idioms": [
     {
       "idiom": "on the Internet",
-      "ja": "インターネット上で、ネットで",
-      "example": "You can find thousands of Minecraft mods on the Internet.",
-      "example_ja": "インターネット上で何千ものマイクラモッドが見つかります。",
-      "ipa": "/ju ˈkæn ˈfaɪnd ˈθaʊ.zəndz əv ˈmaɪn.kɹæft ˈmɑdz ɑn ðə ˈɪn.tɚ.nɛt/",
-      "kana": "ユー キャン ファインド サウザンズ アヴ マインクラフト モッズ アンザ インターネット",
+      "ja": "インターネット上で",
+      "example": "I found this seed on the Internet.",
+      "example_ja": "ネット上でこのシードを見つけた。",
+      "ipa": "/aɪ ˈfaʊnd ðɪs sid ɑn ðə ˈɪntɚnɛt/",
       "linking": [
-        "thousands of → 語末子音 /z/ が母音 /ə/ に連結、of は弱形 /əv/",
-        "on the → 語末子音 /n/ が母音 /ə/ に連結 [ɑnðə]"
-      ]
+        "語末子音 /d/ (seed) が母音 /ɑ/ (on) に連結 [sidɑn] シーダン",
+        "機能語 \"the\" は弱形 /ðə/（ザ）に弱化"
+      ],
+      "kana": "アイ ファウンド ディス シーダン ザ インターネット"
     }
-  ],
-  "forms": []
+  ]
 }

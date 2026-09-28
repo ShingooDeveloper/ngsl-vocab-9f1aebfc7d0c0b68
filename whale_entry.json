@@ -56,7 +56,36 @@
       "kana": "ザッ ワズ ア ウェイル アヴ ア ビルド"
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "whales",
+      "ipa": "/weɪlz/",
+      "examples": [
+        {
+          "en": "Hundreds of whales live in the deep ocean biome.",
+          "ja": "深い海のバイオームには何百頭ものクジラが生息しています。",
+          "ipa": "/ˈhʌndrədz əv ˈweɪlz ˈlɪv ɪn ðə ˈdip ˈoʊʃən ˈbaɪoʊm/",
+          "linking": [
+            "live in の語末子音 /v/ が /ɪ/ に連結 [ˈlɪvɪn] リヴィン",
+            "the deep の the は弱形 /ðə/ [ðə ˈdip] ザ ディープ"
+          ],
+          "kana": "ハンドレッズ アブ ウェイルズ リヴィン ザ ディープ オウシャン バイオーム"
+        },
+        {
+          "en": "Don't disturb those gentle whales in the water.",
+          "ja": "水の中にいるあの優しいクジラたちを邪魔しないでください。",
+          "ipa": "/ˈdoʊnt dɪˈstɝb ðoʊz ˈdʒɛntəl ˈweɪlz ɪn ðə ˈwɔtər/",
+          "linking": [
+            "don't の t が未開放で disturb の d に連接（1つの d に聞こえる）[ˈdoʊnt̚ dɪˈstɝb] ドウント ディスターブ",
+            "the は弱形 /ðə/ [ðə ˈwɔtər] ザ ウォーター"
+          ],
+          "kana": "ドウント ディスターブ ザウズ ジェンタル ウェイルズ イン ザ ウォーター"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Target 1900"
   ]
