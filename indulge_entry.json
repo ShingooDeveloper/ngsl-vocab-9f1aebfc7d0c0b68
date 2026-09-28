@@ -211,6 +211,102 @@
       ]
     },
     {
+      "type": "future",
+      "label": "単純未来形（will + 原形）",
+      "text": "will indulge",
+      "ipa": "/wɪl ɪnˈdʌldʒ/",
+      "examples": [
+        {
+          "en": "I'll indulge in some peaceful building after mining all day.",
+          "ja": "一日中採掘した後、平和的なビルディングにふけります。",
+          "ipa": "/aɪl ɪnˈdʌldʒ ɪn səm ˈpiːsfəl ˈbɪldɪŋ ˈæftər ˈmaɪnɪŋ ˈɔl ˈdeɪ/",
+          "linking": [
+            "I'll の /l/ が indulge の初頭 /ɪ/ に連結 [aɪl ɪnˈdʌldʒ] アイル インダルジ",
+            "in の /n/ が some の /s/ に先行（子音+子音で連結なし）",
+            "some は弱形 /səm/、peaceful は /ˈpiːsfəl/",
+            "after の語末 /r/ が all の初頭 /ɔ/ に連結 [ˈæftər ɔl] アフター オール"
+          ],
+          "kana": "アイル インダルジ イン サム ピースフル ビルディング アフター マイニング オール デイ"
+        },
+        {
+          "en": "They'll indulge their love of exploring new dimensions when the update drops.",
+          "ja": "アップデートがリリースされるとき、彼らは新しい次元を探索する愛にふけります。",
+          "ipa": "/ðeɪl ɪnˈdʌldʒ ðɛr ˈlʌv əv ɪkˈsplɔrɪŋ ˈnjuː dɪˈmɛnʃənz wɛn ðə ˈʌpˌdeɪt ˈdrɑps/",
+          "linking": [
+            "They'll の /l/ が indulge の初頭 /ɪ/ に連結 [ðeɪl ɪnˈdʌldʒ] ザイル インダルジ",
+            "their は弱形 /ðɛr/、love に連結 [ðɛr ˈlʌv] ゼア ラヴ",
+            "of は弱形 /əv/、exploring に連結 [əv ɪkˈsplɔrɪŋ] アヴ エクスプローリング",
+            "the は弱形 /ðə/ に弱化、update の語末 /t/ が drops の /d/ に先行（子音+子音で未開放）"
+          ],
+          "kana": "ザイル インダルジ ゼア ラヴ アヴ エクスプローリング ニュー ディメンションズ ウェン ザ アップデイト ドラップス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be indulging",
+      "ipa": "/wɪl bi ɪnˈdʌldʒɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be indulging in creative mode all weekend building our dream castle.",
+          "ja": "週末中、私たちは夢の城を建てるためにクリエイティブモードにふけります。",
+          "ipa": "/wil bi ɪnˈdʌldʒɪŋ ɪn kriˈeɪtɪv ˈmoʊd ˈɔl ˈwikɛnd ˈbɪldɪŋ ˈaʊər ˈdrim ˈkæsəl/",
+          "linking": [
+            "We'll の /l/ が be の初頭 /b/ に先行（子音+子音で連結なし）",
+            "be は弱形 /bi/、indulging は /ɪnˈdʌldʒɪŋ/",
+            "in の /n/ が creative の /k/ に先行（子音+子音で連結なし）",
+            "all は /ɔl/、weekend の /w/ に先行（子音+子音で連結なし）、our は弱形 /ɚ/"
+          ],
+          "kana": "ウィル ビー インダルジング イン クリエイティブ モード オール ウィークエンド ビルディング アワー ドリーム キャッスル"
+        },
+        {
+          "en": "He'll be indulging his passion for rare ore collection while we farm resources.",
+          "ja": "私たちがリソースをファームしている間、彼はレアなオア収集への情熱にふけります。",
+          "ipa": "/hil bi ɪnˈdʌldʒɪŋ hɪz ˈpæʃən fɔr ˈrɛr ˈoʊr kəˈlɛkʃən waɪl wi ˈfɑrm rɪˈsɔrsɪz/",
+          "linking": [
+            "He'll の /l/ が be の初頭 /b/ に先行（子音+子音で連結なし）",
+            "his は弱形 /hɪz/、passion に連結 [hɪz ˈpæʃən] ヒズ パッション",
+            "for は弱形 /fɔr/、rare の初頭 /r/ に先行（子音+子音で連結なし）",
+            "while の /l/ が we の /w/ に先行（子音+子音で連結なし）"
+          ],
+          "kana": "ヒル ビー インダルジング ヒズ パッション フォー レアー オア コレクション ワイル ウィー ファーム リソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have indulged",
+      "ipa": "/wɪl əv ɪnˈdʌldʒd/",
+      "examples": [
+        {
+          "en": "By the time the server resets, we'll have indulged in enough gameplay for three months.",
+          "ja": "サーバーがリセットされるまでに、私たちは3ヶ月分のプレイを十分にふけます。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɜrvər ˈrɛsɛts | wɪl əv ɪnˈdʌldʒd ɪn ɪˈnʌf ˈɡeɪmˌpleɪ fɔr ˈθriː ˈmʌnθs/",
+          "linking": [
+            "by の語末 /y/ が the の初頭 /ð/ に先行（子音+子音で連結なし）、the は弱形 /ðə/",
+            "server の語末 /r/ が resets の初頭 /r/ に先行（子音+子音で連結なし）",
+            "will は /wɪl/、have は弱形 /əv/、[wɪl əv] ウィル アヴ",
+            "for は弱形 /fɔr/、three の初頭 /θ/ に先行（子音+子音で連結なし）"
+          ],
+          "kana": "バイ ザ タイム ザ サーバー リセッツ、ウィル アヴ インダルジド イン イナフ ゲームプレイ フォー スリー マンスズ"
+        },
+        {
+          "en": "She'll have indulged her dream of building a monumental structure by next spring.",
+          "ja": "来春までに、彼女は纪念的な構造を建てるという夢にふけります。",
+          "ipa": "/ʃɪl əv ɪnˈdʌldʒd hər ˈdrim əv ˈbɪldɪŋ ə moʊˈnjuːməntəl ˈstrʌkʃər baɪ ˈnɛkst ˈsprɪŋ/",
+          "linking": [
+            "She'll の /l/ が have の初頭 /h/ に先行（子音+子音で連結なし）",
+            "have は弱形 /əv/、indulged の初頭 /ɪ/ に連結 [əv ɪnˈdʌldʒd] アヴ インダルジド",
+            "her は弱形 /hər/、dream に連結 [hər ˈdrim] ハー ドリーム",
+            "of は弱形 /əv/、building に連結 [əv ˈbɪldɪŋ] アヴ ビルディング、next spring の /t/ + /s/ は連結なし"
+          ],
+          "kana": "シル アヴ インダルジド ハー ドリーム アヴ ビルディング ア モニューメンタル ストラクチャー バイ ネクスト スプリング"
+        }
+      ]
+    },
+    {
       "type": "present_perfect",
       "label": "現在完了形",
       "text": "has indulged",
