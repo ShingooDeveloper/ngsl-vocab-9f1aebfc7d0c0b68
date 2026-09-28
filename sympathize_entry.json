@@ -229,6 +229,85 @@
           "kana": "ザ プレイヤーズ ハヴ ビン シンパサイジング ウィズ イーチ アザー アバウト ザ リセント モブ アタックス"
         }
       ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is sympathizing",
+      "ipa": "/ɪz ˌsɪmpəθaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "She is sympathizing with all the victims of the grief.",
+          "ipa": "/ʃi ɪz ˌsɪmpəθaɪzɪŋ wɪð ɑl ðə ˈvɪktɪmz əv ðə ɡrif/",
+          "linking": [
+            "is: 機能語（助動詞）は弱形 /ɪz/",
+            "語末子音 /ð/ (with) が母音 /ɑ/ (all) に連結 [wɪðɑl] ウィドール"
+          ],
+          "kana": "シー イズ シンパサイズィング ウィドール ザ ビクティムズ アヴ ザ グリーフ"
+        },
+        {
+          "en": "I am sympathizing with anyone who loses their base.",
+          "ipa": "/aɪ æm ˌsɪmpəθaɪzɪŋ wɪð ˈɛniˌwʌn huː ˈluːzəz ðɛr beɪs/",
+          "linking": [
+            "am: 機能語（助動詞）は弱形 /əm/",
+            "語末子音 /ð/ (with) が母音 /ɛ/ (anyone) に連結 [wɪðɛ] ウィザ"
+          ],
+          "kana": "アイ アム シンパサイズィング ウィザ エニワン フー ルーゼズ ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sympathizing",
+      "ipa": "/wəz ˌsɪmpəθaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "They were sympathizing with each other when the disaster struck.",
+          "ipa": "/ðeɪ wər ˌsɪmpəθaɪzɪŋ wɪð iːtʃ ˈʌðər wɛn ðə dɪˈzæstər strʌk/",
+          "linking": [
+            "were: 機能語（助動詞）は弱形 /wər/",
+            "語末子音 /ð/ (with) が母音 /i/ (each) に連結 [wɪðiːtʃ] ウィディーチ"
+          ],
+          "kana": "ザイ ワー シンパサイズィング ウィディーチ アザー ウェン ザ ディザスター ストラック"
+        },
+        {
+          "en": "She was sympathizing with us about the lost items.",
+          "ipa": "/ʃi wəz ˌsɪmpəθaɪzɪŋ wɪð ʌs əˈbaʊt ðə lɔst ˈaɪtəmz/",
+          "linking": [
+            "was: 機能語（助動詞）は弱形 /wəz/",
+            "語末子音 /ð/ (with) が母音 /ʌ/ (us) に連結 [wɪðʌs] ウィダス"
+          ],
+          "kana": "シー ワズ シンパサイズィング ウィダス アバウト ザ ロスト アイテムズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sympathizing",
+      "ipa": "/həd bɪn ˌsɪmpəθaɪzɪŋ/",
+      "examples": [
+        {
+          "en": "They had been sympathizing with each other for a long time before the raid.",
+          "ipa": "/ðeɪ həd bɪn ˌsɪmpəθaɪzɪŋ wɪð iːtʃ ˈʌðər fɔr ə lɔŋ taɪm bɪˈfɔr ðə reɪd/",
+          "linking": [
+            "had, been: 機能語（助動詞）は弱形 /həd/, /bɪn/",
+            "語末子音 /ð/ (with) が母音 /i/ (each) に連結 [wɪðiːtʃ] ウィディーチ",
+            "語末子音 /r/ (for) が弱形 /ə/ (a) に連結 [fɔrə] フォーラ"
+          ],
+          "kana": "ザイ ハド ビン シンパサイズィング ウィディーチ アザー フォーラ ロング タイム ビフォー ザ レイド"
+        },
+        {
+          "en": "By the time you arrived, they had been sympathizing about the griefing for hours.",
+          "ipa": "/baɪ ðə taɪm juː əˈraɪvd ðeɪ həd bɪn ˌsɪmpəθaɪzɪŋ əˈbaʊt ðə ˈɡriːfɪŋ fɔr ˈaʊərz/",
+          "linking": [
+            "had, been: 機能語（助動詞）は弱形 /həd/, /bɪn/",
+            "語末子音 /t/ (about) が子音 /ð/ (the) に。未開放となり [əˈbaʊt̚ðə] アバウッ ザ"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴド ザイ ハド ビン シンパサイズィング アバウッ ザ グリーフィング フォー アウアーズ"
+        }
+      ]
     }
   ]
 }
