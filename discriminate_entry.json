@@ -185,6 +185,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has discriminated",
+      "ipa": "/həz ˈdɪskrɪmeɪtɪd/",
+      "examples": [
+        {
+          "en": "Players have discriminated between stone types and ore blocks since the game started.",
+          "ja": "プレイヤーはゲーム開始以来、石と鉱石ブロックを区別してきました。",
+          "ipa": "/ˈpleɪ.ɚz həv ˈdɪskrɪmeɪtɪd bɪˈtwiːn stoʊn taɪps ənd ˈɔr blɑks sɪns ðə ˈɡeɪm ˈstɑr.tɪd/",
+          "linking": [
+            "have は弱形 /həv/、その語末の /v/ が discriminated の /d/ に連結 → [həv ˈdɪsk...]",
+            "stone の /n/ が types の /t/ に子音+子音で続く、and は弱形 /ənd/ → [stoʊn taɪps ənd]",
+            "the は弱形 /ðə/ で子音 /ɡ/ の前 → [ðə ˈɡeɪm] ザ ゲーム"
+          ],
+          "kana": "プレーヤーズ ハヴ ディスクリメイティド ビトウィーン ストウン タイプス アンド オア ブラックス シンス ザ ゲーム スターティド"
+        },
+        {
+          "en": "The sorting system has discriminated items by type accurately for several weeks.",
+          "ja": "ソートシステムは数週間にわたってアイテムをタイプ別に正確に分類してきました。",
+          "ipa": "/ðə ˈsɔr.tɪŋ ˈsɪs.təm hæz ˈdɪskrɪmeɪtɪd ˈaɪ.təmz baɪ ˈtaɪp ˈæk.ɚ.ə.tli fɔr ˈsɛv.ə.rəl ˈwiks/",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /s/ の前 → [ðə ˈsɔr...] ザ ソーティング",
+            "has は弱形 /həz/、その /z/ が discriminated の /d/ に連結 → [həz ˈdɪsk...]",
+            "for は弱形 /fər/ で、その /r/ が several の /s/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "ザ ソーティング システム ハズ ディスクリメイティド アイテムズ バイ タイプ アキュレットリー フォア セヴァラル ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had discriminated",
+      "ipa": "/həd ˈdɪskrɪmeɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the update, experienced miners had discriminated ores by sound and texture alone.",
+          "ja": "アップデート前に、経験豊かなマイナーは音と外観だけで鉱石を識別していました。",
+          "ipa": "/bɪˈfɔr ðə ˈʌp.deɪt ɪkˈspɪ.riənst ˈmaɪ.nɚz həd ˈdɪskrɪmeɪtɪd ˈɔrz baɪ ˈsaʊnd ənd ˈtɛk.tʃɚ əˈloʊn/",
+          "linking": [
+            "had は弱形 /həd/、その /d/ が discriminated の /d/ に未開放で連接 → [həd̚ ˈdɪsk...]",
+            "sound の /d/ が and の /æ/ に未開放で続く → [ˈsaʊnd̚ ənd] サウンド アンド",
+            "and は弱形 /ənd/ で texture の /t/ に未開放で続く → [ənd̚ ˈtɛk...]"
+          ],
+          "kana": "ビフォア ザ アップデイト エクスピリエンスト マイナーズ ハド ディスクリメイティド オアーズ バイ サウンド アンド テクスチャー アローン"
+        },
+        {
+          "en": "Once the hopper system had discriminated all materials correctly, the lag completely disappeared.",
+          "ja": "ホッパーシステムがすべての素材を正しく区別すると、ラグは完全に消えました。",
+          "ipa": "/wʌns ðə ˈhɑ.pɚ ˈsɪs.təm həd ˈdɪskrɪmeɪtɪd ˈɔl məˈtɪr.i.əlz ˈkɑr.ɪk.tli ðə læg kəmˈplit.li dɪsəˈpɪrd/",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /h/ の前 → [ðə ˈhɑ...] ザ ハッパー",
+            "had は弱形 /həd/、その /d/ が discriminated の /d/ に未開放で連接 → [həd̚ ˈdɪsk...]",
+            "completely の /i/ が disappeared の /d/ に連結 → [kəmˈplit.li dɪ...] コンプリートリー ディサピアード"
+          ],
+          "kana": "ワンス ザ ハッパー システム ハド ディスクリメイティド オール マテリアルズ コレクトリー ザ ラグ コンプリートリー ディサピアード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + 現在分詞）",
+      "text": "has been discriminating",
+      "ipa": "/həz bɪn ˌdɪskrɪˈmeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The advanced filter has been discriminating between similar materials for hours without stopping.",
+          "ja": "高度なフィルターは数時間、似た素材を区別し続けています。",
+          "ipa": "/ðə ədˈvænst ˈfɪl.tɚ həz bɪn ˌdɪskrɪˈmeɪtɪŋ bɪˈtwiːn ˈsɪm.ə.lɚ məˈtɪr.i.əlz fɔr ˈaʊɚz wɪðˈaʊt ˈstɑ.pɪŋ/",
+          "linking": [
+            "The は弱形 /ðə/ で子音前 → [ðə ədˈvænst] ザ アドヴァンスト",
+            "has は弱形 /həz/、その /z/ が been の /b/ に連結 → [həz bɪn]",
+            "been は弱形 /bɪn/、その /n/ が discriminating の /d/ に連結 → [bɪn ˌdɪsk...]"
+          ],
+          "kana": "ザ アドヴァンスト フィルター ハズ ビン ディスクリメイティング ビトウィーン シミラー マテリアルズ フォア アワーズ ウィザウト ストッピング"
+        },
+        {
+          "en": "The chest system has been discriminating player inventories all day without making errors.",
+          "ja": "チェストシステムは一日中、プレイヤーのインベントリを区別し続けています。",
+          "ipa": "/ðə ˈtʃɛst ˈsɪs.təm həz bɪn ˌdɪskrɪˈmeɪtɪŋ ˈpleɪ.ɚ ɪnˈvɛn.tə.riz ˈɔl deɪ wɪðˈaʊt ˈmeɪ.kɪŋ ˈɛr.ɚz/",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /t/ の前 → [ðə ˈtʃɛst] ザ チェスト",
+            "has は弱形 /həz/、その /z/ が been の /b/ に連結 → [həz bɪn]",
+            "been は弱形 /bɪn/、その /n/ が discriminating の /d/ に連結 → [bɪn ˌdɪsk...]"
+          ],
+          "kana": "ザ チェスト システム ハズ ビン ディスクリメイティング プレーヤー インヴェントリーズ オール デイ ウィザウト メイキング エラーズ"
+        }
+      ]
+    },
+    {
       "type": "present_progressive",
       "label": "現在進行形（am/is/are + -ing）",
       "text": "is discriminating",
