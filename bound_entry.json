@@ -1,0 +1,109 @@
+{
+  "word": "bound",
+  "pos": "形容詞",
+  "pos_all": "形容詞・動詞・名詞",
+  "ipa_us": "/baʊnd/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "bound(?:s|ed)?",
+  "meanings": [
+    "【形容詞】〜に向かっている、〜へ行く予定（bound for〜）",
+    "【形容詞】絶対に〜する運命にある、必ず〜する（bound to〜）",
+    "【動詞（過去分詞）】縛る、結ぶ；束ねる",
+    "【動詞（現在形 bounds）】跳ぶ、飛び跳ねる",
+    "【名詞】限界、範囲、境界線"
+  ],
+  "examples": [
+    {
+      "en": "We're bound for the Nether.",
+      "ja": "私たちはネザーに向かっています。",
+      "ipa": "/wir ˈbaʊnd ˈfɔɹə ˈnɛðɚ/",
+      "linking": [
+        "for the → 語末子音 /r/ が母音 /ə/ に連結 [fɔɹə]"
+      ],
+      "kana": "ウィアー バウンド フォーラ ネザー"
+    },
+    {
+      "en": "The player bounds away from the zombie horde.",
+      "ja": "プレイヤーはゾンビの群れから飛び跳ねて逃げています。",
+      "ipa": "/ðə ˈpleɪɚ ˈbaʊndzəˈweɪ frəm ðə ˈzɑmbi ˈhɔɹd/",
+      "linking": [
+        "bounds away → 語末子音 /z/ が母音 /ə/ に連結 [ˈbaʊndzəˈweɪ]"
+      ],
+      "kana": "ザ プレイアー バウンズアウェイ フラム ザ ゾンビ ホード"
+    },
+    {
+      "en": "All player actions are bound up in game rules.",
+      "ja": "すべてのプレイヤーの行動はゲームのルールに拘束されています。",
+      "ipa": "/ɔl ˈpleɪɚ ˈækʃənz ɑɹ ˈbaʊndʌpɪn ˈɡeɪm ˈrulz/",
+      "linking": [
+        "bound up → 語末子音 /d/ が母音 /ʌ/ に連結 [ˈbaʊndʌp]",
+        "up in → 語末子音 /p/ が母音 /ɪ/ に連結 [ʌpɪn]"
+      ],
+      "kana": "オール プレイアー アクションズ アー バウンダッピン ゲイム ルールズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "bound for",
+      "ja": "〜に向かっている、〜へ行く予定",
+      "example": "We're bound for the Nether to search for ancient debris.",
+      "example_ja": "古代の瓦礫を探しにネザーに向かっています。",
+      "ipa": "/wir ˈbaʊnd ˈfɔr ðə ˈnɛðɚ tə ˈsɝtʃ ˈfɔr ˌeɪnʃənt dəˈbriː/",
+      "linking": [
+        "for the → 語末子音 /r/ が母音 /ə/ に連結 [fɔɹə]",
+        "to は機能語弱形 /tə/"
+      ],
+      "kana": "ウィアー バウンド フォーラ ネザー タ サーチ フォー エイシャント デブリー"
+    },
+    {
+      "idiom": "bound up",
+      "ja": "〜に巻き込まれた、〜と結びついた",
+      "example": "This redstone circuit is bound up with the main mechanism.",
+      "example_ja": "このレッドストーン回路はメインメカニズムと結びついています。",
+      "ipa": "/ðɪs ˈrɛdˌstoʊn ˈsɝkɪt ɪz ˈbaʊndʌpwɪð ðə ˈmeɪn ˈmɛkənɪzəm/",
+      "linking": [
+        "bound up → 語末子音 /d/ が母音 /ʌ/ に連結 [ˈbaʊndʌp]",
+        "up with → /p/ は子音 /w/ に続き、リエゾンなし。ただし up の母音が with の弱形に連結"
+      ],
+      "kana": "ザ レッドストーン サーキット イズ バウンダップウィズ ザ メイン メッカニズム"
+    },
+    {
+      "idiom": "be bound by",
+      "ja": "〜に制約される、〜に支配される",
+      "example": "Players are bound by the world border in survival mode.",
+      "example_ja": "プレイヤーはサバイバルモードでワールドボーダーに制約されます。",
+      "ipa": "/ˈpleɪɚz ɑɹ ˈbaʊnd baɪ ðə ˈwɝld ˈbɔɹdɚ ɪn sɚˈvaɪvəl ˈmoʊd/",
+      "linking": [
+        "are bound → are は弱形が /ɚ/, bound は /b/ で始まる子音。リエゾンなし",
+        "by the → 語末子音 /b/ は母音 /ə/ に連結 [baɪðə] バイザ"
+      ],
+      "kana": "プレイアーズ アー バウンド バイザ ワールド ボーダー イン サーヴァイヴァル モード"
+    },
+    {
+      "idiom": "bound to",
+      "ja": "（確実に）〜する運命にある",
+      "example": "This farm is bound to produce lots of crops.",
+      "example_ja": "この農場は必ず大量の作物を生産するでしょう。",
+      "ipa": "/ðɪs ˈfɑɹm ɪz ˈbaʊnd tə prəˈdus ˈlɑts əv ˈkrɑps/",
+      "linking": [
+        "bound to → to は機能語弱形 /tə/ でリエゾン [ˈbaʊndə]",
+        "of は機能語弱形 /əv/"
+      ],
+      "kana": "ディス ファーム イズ バウンダ プロデュース ロッツ アヴ クロップス"
+    },
+    {
+      "idiom": "be bound for ～",
+      "ja": "～へ向かっている、～行きである",
+      "example": "I'm bound for the Deep Dark to find ancient cities.",
+      "example_ja": "ディープダークへ向かって古い都市を探しに行こう。",
+      "ipa": "[aɪm ˈbaʊnd fə ðə ˈdip ˈdɑɹk tə ˈfaɪnd ˈeɪʃənt ˈsɪɾiz]",
+      "linking": [
+        "for the → 機能語が弱化：「for」/fə/、「the」/ðə/（通常は /fɔɹ/ と /ðiː/）",
+        "to find → 「to」が機能語で弱形 /tə/（通常は /tu/）",
+        "ancient cities → 「cities」の中で /t/ が母音に挟まれ、フラップ [ɾ] に変わる：[ˈsɪɾiz]"
+      ],
+      "kana": "アイム バウンド ファ ザ ディープ ダーク タ ファインド エイシェント スィリズ"
+    }
+  ]
+}
