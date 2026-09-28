@@ -1,0 +1,558 @@
+{
+  "word": "blink",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/blɪŋk/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "blink(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】目を瞬く、ぱちぱちさせる（to close and open eyes quickly）",
+    "【動詞】一瞬で消える、消え去る、点滅する（to disappear or appear briefly, to flash）",
+    "【名詞】瞬き、瞬くこと、ほんの一瞬（the action of blinking, a brief moment）"
+  ],
+  "examples": [
+    {
+      "en": "The Wither's eyes don't blink during the fight.",
+      "ja": "ウィザーの目は戦闘中に瞬きしません。",
+      "ipa": "[ðə ˈwɪðərz aɪz doʊnt blɪŋk ˈdʊrɪŋ ðə faɪt]",
+      "linking": [
+        "the は弱形 /ðə/",
+        "Wither's の末尾 /z/ が eyes に連結 [ˈwɪðərz aɪz] ウィザーズ アイズ",
+        "during は /ˈdʊrɪŋ/ で特に変化なし"
+      ],
+      "kana": "ザ ウィザーズ アイズ ドント ブリンク ドゥーリング ザ ファイト"
+    },
+    {
+      "en": "I blinked and the creeper exploded my base!",
+      "ja": "瞬きした途端、クリーパーが私のベースを爆発させました！",
+      "ipa": "[aɪ blɪŋkt ənd ðə ˈkriːpər ɪkˈsploʊdəd maɪ beɪs]",
+      "linking": [
+        "blinked の末尾 /t/ が and の初頭 /ə/ に連結 [blɪŋkt ənd] ブリンクト アンド",
+        "and は弱形 /ənd/",
+        "the は弱形 /ðə/",
+        "creeper の末尾 /r/ が exploded に連結 [ˈkriːpər ɪkˈsploʊdəd] クリーパー イクスプロウデッド"
+      ],
+      "kana": "アイ ブリンクト アンド ザ クリーパー イクスプロウデッド マイ ベイス"
+    },
+    {
+      "en": "The beacon light blinks when you place it briefly.",
+      "ja": "ビーコンライトは、短く置くと点滅します。",
+      "ipa": "[ðə ˈbiːkən laɪt blɪŋks wɛn ju pˈleɪs ɪt ˈbriːfli]",
+      "linking": [
+        "the は弱形 /ðə/",
+        "blinks の末尾 /z/ が when に続く（子音+子音で連結なし）",
+        "you は弱形 /ju/",
+        "it は弱形 /ɪt/"
+      ],
+      "kana": "ザ ビーコン ライト ブリンクス ウェン ユー プレイス イット ブリーフリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "in the blink of an eye",
+      "ja": "ほんの一瞬で、瞬く間に",
+      "example": "In the blink of an eye, the creeper destroyed our entire farm!",
+      "example_ja": "瞬く間に、クリーパーが私たちの農場全体を破壊しました！",
+      "ipa": "[ɪn ðə blɪŋk əv ən aɪ ðə ˈkriːpər dɪˈstrɔɪd aʊər ənˈtaɪər fɑrm]",
+      "linking": [
+        "in の末尾 /n/ が the に連結 [ɪn ðə] イン ザ",
+        "the は弱形 /ðə/",
+        "blink の末尾 /k/ が of に連結 [blɪŋk əv] ブリンク アヴ",
+        "of は弱形 /əv/",
+        "an は弱形 /ən/",
+        "eye の末尾 /aɪ/ が the に続く（母音+子音で連結なし）[aɪ ðə] アイ ザ"
+      ],
+      "kana": "イン ザ ブリンク アヴ アン アイ ザ クリーパー ディストロイド アワー エンタイアー ファーム"
+    },
+    {
+      "idiom": "blink and you'll miss it",
+      "ja": "瞬きするとそれを見逃す、あっという間に過ぎ去る",
+      "example": "The Ender Pearl blinks away so fast—blink and you'll miss it!",
+      "example_ja": "エンダーパールはとても速く消えていきます。瞬きすると見逃します！",
+      "ipa": "[ðə ˈɛndər pɝl blɪŋks əˈweɪ soʊ fæst blɪŋk ənd juːl mɪs ɪt]",
+      "linking": [
+        "the は弱形 /ðə/",
+        "Pearl の末尾 /l/ が blinks に続く（子音+子音で連結なし）",
+        "away の末尾 /ə/ が so に続く（母音+子音で連結なし）",
+        "so は弱形 /soʊ/",
+        "fast は /fæst/",
+        "you'll は /juːl/ で特に変化なし",
+        "miss の末尾 /s/ が it に続く（子音+子音で連結なし）"
+      ],
+      "kana": "ザ エンダー パール ブリンクス アウェイ ソー ファスト ブリンク アンド ユール ミス イット"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "blinks",
+      "ipa": "/blɪŋks/",
+      "examples": [
+        {
+          "en": "The redstone lamp blinks when the signal changes.",
+          "ja": "信号が変わるとレッドストーン lamp が点滅します。",
+          "ipa": "[ðə ˈrɛdˌstoʊn læmp blɪŋks wɛn ðə ˈsɪɡnəl ˈtʃeɪndʒɪz]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "lamp の末尾 /p/ が blinks に続く（子音+子音で連結なし）",
+            "blinks の末尾 /z/ が when に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ レッドストーン ランプ ブリンクス ウェン ザ シグナル チェンジズ"
+        },
+        {
+          "en": "Every mob's eye blinks differently when it spots you.",
+          "ja": "あなたを見つけたとき、すべてのモブの目は異なる方法で瞬きします。",
+          "ipa": "[ˈɛvri moʊbz aɪ blɪŋks ˈdɪfərəntli wɛn ɪt spɑts ju]",
+          "linking": [
+            "Every の末尾 /i/ が mob に続く（母音+子音で連結なし）",
+            "mob's の末尾 /z/ が eye に連結 [moʊbz aɪ] モブズ アイ",
+            "eye の末尾 /aɪ/ が blinks に続く（母音+子音で連結なし）",
+            "when の末尾 /n/ が it の /ɪ/ に連結 [wɛnɪt] ウェン イット",
+            "it の末尾 /t̚/ が spots に続く（未開放）"
+          ],
+          "kana": "エブリー モブズ アイ ブリンクス ディファレントリー ウェン イット スポッツ ユー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "blinked",
+      "ipa": "/blɪŋkt/",
+      "examples": [
+        {
+          "en": "I blinked when the TNT exploded.",
+          "ja": "TNTが爆発したとき、私は瞬きました。",
+          "ipa": "[aɪ blɪŋkt wɛn ðə ˈtiːɛnˈtiː ɪkˈsploʊdəd]",
+          "linking": [
+            "I は弱形 /aɪ/",
+            "blinked の末尾 /t/ が when に続く（子音+子音で連結なし。未開放）[blɪŋkt wɛn] ブリンクト ウェン",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ ブリンクト ウェン ザ ティーエヌティー イクスプロウデッド"
+        },
+        {
+          "en": "The guardian blinked at the player approaching the monument.",
+          "ja": "紀念碑に近づくプレイヤーを見て、ガーディアンは瞬きました。",
+          "ipa": "[ðə ˈɡɑrdiən blɪŋkt æt ðə ˈpleɪər əˈproʊtʃɪŋ ðə ˈmɑnjəmənt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "blinked の末尾 /t/ が at の /æ/ に連結（未開放）[blɪŋktæt] ブリンクト アット",
+            "at の末尾 /t̚/ が the に続く（未開放）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ガーディアン ブリンクト アット ザ プレイアー アプローチング ザ モニュメント"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "blinked",
+      "ipa": "/blɪŋkt/",
+      "examples": [
+        {
+          "en": "Once the beacon had blinked three times, the storm arrived.",
+          "ja": "ビーコンが3回点滅した後、嵐がやってきました。",
+          "ipa": "[ˈwʌns ðə ˈbiːkən həd blɪŋkt θriː taɪmz ðə stɔrm əˈraɪvd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "had の末尾 /d/ が blinked に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ワンス ザ ビーコン ハド ブリンクト スリー タイムズ ザ ストーム アライヴド"
+        },
+        {
+          "en": "The beacon blinked and then vanished from our sight.",
+          "ja": "ビーコンが点滅してから、私たちの視界から消えました。",
+          "ipa": "[ðə ˈbiːkən blɪŋkt ənd ðɛn ˈvænɪʃt frəm aʊər saɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "and は弱形 /ənd/",
+            "from の末尾 /m/ が our の /aʊ/ に連結 [frəmaʊ]",
+            "our の末尾 /r/ が sight に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ビーコン ブリンクト アンド ゼン ヴァニシト フラム アワー サイト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "blinking",
+      "ipa": "/ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "Blinking is a sign that the mob has detected you.",
+          "ja": "瞬きはそのモブがあなたを検出した証拠です。",
+          "ipa": "[ˈblɪŋkɪŋ ɪz ə saɪn ðæt ðə moʊb həz dɪˈtɛktəd ju]",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "a は弱形 /ə/",
+            "the は弱形 /ðə/",
+            "detected の末尾 /ɪd/ が you に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ブリンキング イズ ア サイン ザット ザ モブ ハズ ディテクテッド ユー"
+        },
+        {
+          "en": "Watch the redstone circuit blinking in the night.",
+          "ja": "夜間のレッドストーン回路の点滅を見てください。",
+          "ipa": "[wɑtʃ ðə ˈrɛdˌstoʊn ˈsɝkɪt ˈblɪŋkɪŋ ɪn ðə naɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "circuit の末尾 /t̚/ が blinking に続く（未開放）",
+            "in の末尾 /n/ が the に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "ウォッチ ザ レッドストーン サーキット ブリンキング イン ザ ナイト"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "blinks",
+      "ipa": "/blɪŋks/",
+      "examples": [
+        {
+          "en": "In the cavern, three blinks of the redstone lamp signaled the treasure location.",
+          "ja": "洞窟では、レッドストーン lamp の3回の点滅が宝の場所を示していました。",
+          "ipa": "[ɪn ðə kəˈvɝn θriː blɪŋks əv ðə ˈrɛdˌstoʊn læmp ˈsɪɡnəld ðə ˈtrɛʒər loʊˈkeɪʃən]",
+          "linking": [
+            "in の末尾 /n/ が the に連結 [ɪn ðə] イン ザ",
+            "the は弱形 /ðə/",
+            "blinks の末尾 /z/ が of の /ə/ に連結 [blɪŋkzəv]",
+            "of は弱形 /əv/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "イン ザ カヴァーン スリー ブリンクス アヴ ザ レッドストーン ランプ シグナルド ザ トレジャー ロケイション"
+        },
+        {
+          "en": "Several blinks appeared on the radar before the mob disappeared.",
+          "ja": "モブが消える前に、レーダーにいくつかの点滅が現れました。",
+          "ipa": "[ˈsɛvərəl blɪŋks əˈpɪrd ɑn ðə ˈreɪˌdɑr bɪˈfɔr ðə moʊb dɪsəˈpɪrd]",
+          "linking": [
+            "several の末尾 /l/ が blinks に続く（子音+子音で連結なし）",
+            "on の末尾 /n/ が the に連結 [ɑn ðə] オン ザ",
+            "the は弱形 /ðə/",
+            "before の末尾 /r/ が the に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "セブラル ブリンクス アピアド オン ザ レイダー ビフォア ザ モブ ディサピアド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is blinking",
+      "ipa": "/ɪz ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The guardian is blinking its eyes as it approaches us.",
+          "ja": "ガーディアンは私たちに近づくにつれて目を瞬かせています。",
+          "ipa": "[ðə ˈɡɑrdiən ɪz ˈblɪŋkɪŋ ɪts aɪz əz ɪt əˈproʊtʃɪz əs]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is は弱形 /ɪz/",
+            "is の末尾 /z/ が blinking に連結 [ɪz ˈblɪŋkɪŋ] イズ ブリンキング",
+            "as の末尾 /z/ が it に連結 [əz ɪt]",
+            "it の末尾 /t̚/ が approaches に続く（未開放）[ɪt̚ əˈproʊtʃɪz] イット アプローチィズ",
+            "us は弱形 /əs/"
+          ],
+          "kana": "ザ ガーディアン イズ ブリンキング イッツ アイズ アズ イット アプローチィズ アス"
+        },
+        {
+          "en": "The redstone lamp is blinking on and off.",
+          "ja": "レッドストーン lamp はオンとオフで点滅しています。",
+          "ipa": "[ðə ˈrɛdˌstoʊn læmp ɪz ˈblɪŋkɪŋ ɑn ənd ɔf]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is は弱形 /ɪz/",
+            "is の末尾 /z/ が blinking に連結 [ɪz ˈblɪŋkɪŋ] イズ ブリンキング",
+            "on の末尾 /n/ が and に連結 [ɑn ənd] オン アンド",
+            "and は弱形 /ənd/"
+          ],
+          "kana": "ザ レッドストーン ランプ イズ ブリンキング オン アンド オフ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was blinking",
+      "ipa": "/wəz ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The beacon was blinking when we arrived at the base.",
+          "ja": "私たちがベースに到着したとき、ビーコンが点滅していました。",
+          "ipa": "[ðə ˈbiːkən wəz ˈblɪŋkɪŋ wɛn wi əˈraɪvd æt ðə beɪs]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was は弱形 /wəz/",
+            "was の末尾 /z/ が blinking に連結 [wəz ˈblɪŋkɪŋ] ワズ ブリンキング",
+            "we は弱形 /wi/"
+          ],
+          "kana": "ザ ビーコン ワズ ブリンキング ウェン ウィー アライヴド アット ザ ベイス"
+        },
+        {
+          "en": "The Wither was blinking its eyes while we fought it.",
+          "ja": "私たちがそれと戦った間、ウィザーは目を瞬かせていました。",
+          "ipa": "[ðə ˈwɪðər wəz ˈblɪŋkɪŋ ɪts aɪz waɪl wi fɔt ɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was は弱形 /wəz/",
+            "while の末尾 /l/ が we に連結 [waɪl wi]",
+            "we は弱形 /wi/",
+            "fought の末尾 /t̚/ が it に続く（未開放）[fɔt̚ ɪt] フォッ イット"
+          ],
+          "kana": "ザ ウィザー ワズ ブリンキング イッツ アイズ ワイル ウィー フォッ イット"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been blinking",
+      "ipa": "/həd bɪn ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The creeper had been blinking its eyes for seconds before it exploded.",
+          "ja": "クリーパーは爆発する数秒前まで目を瞬かせていました。",
+          "ipa": "[ðə ˈkriːpər həd bɪn ˈblɪŋkɪŋ ɪts aɪz fər ˈsɛkəndz bɪˈfɔr ɪt ɪkˈsploʊdəd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "been末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング",
+            "its は弱形 /ɪts/",
+            "before末尾 /r/ が it に連結 [bɪˈfɔr ɪt] ビフォア イット",
+            "it末尾 /t̚/ が exploded に続く（未開放）"
+          ],
+          "kana": "ザ クリーパー ハド ビン ブリンキング イッツ アイズ フォー セコンズ ビフォア イット イクスプロウデッド"
+        },
+        {
+          "en": "The beacon had been blinking red and green before the redstone circuit malfunctioned.",
+          "ja": "レッドストーン回路に不具合が生じる前まで、ビーコンが赤と緑で点滅していました。",
+          "ipa": "[ðə ˈbiːkən həd bɪn ˈblɪŋkɪŋ rɛd ənd ɡrin bɪˈfɔr ðə ˈrɛdˌstoʊn ˈsɝkɪt ˌmælˈfʌŋkʃənd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "been末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング",
+            "red末尾 /d/ が and に連結 [rɛd ənd] レッド アンド",
+            "and は弱形 /ənd/",
+            "before末尾 /r/ が the に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ビーコン ハド ビン ブリンキング レッド アンド グリーン ビフォア ザ レッドストーン サーキット マルファンクションド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has blinked",
+      "ipa": "/həz blɪŋkt/",
+      "examples": [
+        {
+          "en": "The light has blinked several times since the power came back.",
+          "ja": "電力が戻ってきてから、光は何度も瞬きました。",
+          "ipa": "[ðə laɪt həz blɪŋkt ˈsɛvərəl taɪmz sɪns ðə ˈpaʊər keɪm bæk]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "has の末尾 /z/ が blinked に連結 [həz blɪŋkt] ハズ ブリンクト",
+            "since の末尾 /s/ が the に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "came の末尾 /m/ が back に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ライト ハズ ブリンクト セブラル タイムズ シンス ザ パウア ケイム バック"
+        },
+        {
+          "en": "My eye has blinked away the dust from the mining.",
+          "ja": "採掘からの塵を払い落とすために、私の目が瞬きました。",
+          "ipa": "[maɪ aɪ həz blɪŋkt əˈweɪ ðə dʌst frəm ðə ˈmaɪnɪŋ]",
+          "linking": [
+            "has は弱形 /həz/",
+            "has の末尾 /z/ が blinked に連結 [həz blɪŋkt] ハズ ブリンクト",
+            "away の末尾 /ə/ が the に続く（母音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "from の末尾 /m/ が the に続く（子音+子音で連結なし）"
+          ],
+          "kana": "マイ アイ ハズ ブリンクト アウェイ ザ ダスト フラム ザ マイニング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been blinking",
+      "ipa": "/həz bɪn ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The beacon has been blinking red since we activated the full pyramid.",
+          "ja": "完全なピラミッドを起動してから、ビーコンが赤で点滅し続けています。",
+          "ipa": "[ðə ˈbiːkən həz bɪn ˈblɪŋkɪŋ rɛd sɪns wi ˈæktɪˌveɪtəd ðə fʊl ˈpɪrəˌmɪd]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "been の末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング",
+            "we は弱形 /wi/"
+          ],
+          "kana": "ザ ビーコン ハズ ビン ブリンキング レッド シンス ウィー アクティベイテッド ザ フル ピラミッド"
+        },
+        {
+          "en": "The creeper's eyes have been blinking faster as it gets closer.",
+          "ja": "クリーパーの目はより近くなるにつれて、より速く点滅し続けています。",
+          "ipa": "[ðə ˈkriːpərz aɪz həv bɪn ˈblɪŋkɪŋ ˈfæstər əz ɪt ɡɛts ˈkloʊsər]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "creeper's の末尾 /z/ が eyes に連結 [ˈkriːpərz aɪz] クリーパーズ アイズ",
+            "have は弱形 /həv/、been は弱形 /bɪn/",
+            "been の末尾 /n/ が blinking に連結 [bɪn ˈblɪŋkɪŋ] ビン ブリンキング"
+          ],
+          "kana": "ザ クリーパーズ アイズ ハヴ ビン ブリンキング ファスター アズ イット ゲッツ クローサー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had blinked",
+      "ipa": "/həd blɪŋkt/",
+      "examples": [
+        {
+          "en": "The portal had blinked away before we could step through it.",
+          "ja": "私たちがそこを通ることができる前に、ポータルは消え去りました。",
+          "ipa": "[ðə ˈpoʊrtəl həd blɪŋkt əˈweɪ bɪˈfɔr wi kəd stɛp θruː ɪt]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had は弱形 /həd/",
+            "had の末尾 /d/ が blinked に続く（子音+子音で連結なし）",
+            "away の末尾 /ə/ が before に続く（母音+子音で連結なし）[əˈweɪ bɪˈfɔr] アウェイ ビフォア",
+            "could は弱形 /kəd/"
+          ],
+          "kana": "ザ ポータル ハド ブリンクト アウェイ ビフォア ウィー クッド ステップ スルー イット"
+        },
+        {
+          "en": "The beacon light had blinked three times before the server shut down.",
+          "ja": "サーバーがシャットダウンする前に、ビーコンライトは3回点滅していました。",
+          "ipa": "[ðə ˈbiːkən laɪt həd blɪŋkt θriː taɪmz bɪˈfɔr ðə ˈsɝvər ʃʌt daʊn]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həd/",
+            "had の末尾 /d/ が blinked に続く（子音+子音で連結なし）",
+            "before の末尾 /r/ が the に連結 [bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "ザ ビーコン ライト ハド ブリンクト スリー タイムズ ビフォア ザ サーヴァー シャット ダウン"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will blink",
+      "ipa": "/wɪl blɪŋk/",
+      "examples": [
+        {
+          "en": "The warning light will blink when the mob detector senses danger.",
+          "ja": "モブディテクターが危険を感知すると、警告灯が点滅します。",
+          "ipa": "[ðə ˈwɔrnɪŋ laɪt wɪl blɪŋk wɛn ðə moʊb dɪˈtɛktər ˈsɛnsɪz ˈdeɪndʒər]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "senses の末尾 /z/ が danger に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ウォーニング ライト ウィル ブリンク ウェン ザ モブ ディテクター センシズ デンジャー"
+        },
+        {
+          "en": "Your beacon will blink until you activate the full pyramid.",
+          "ja": "完全なピラミッドを起動するまで、あなたのビーコンが点滅します。",
+          "ipa": "[jɔr ˈbiːkən wɪl blɪŋk ənˈtɪl ju ˈæktɪˌveɪt ðə fʊl ˈpɪrəˌmɪd]",
+          "linking": [
+            "will は弱形 /wɪl/",
+            "beacon の末尾 /n/ が will に続く（子音+子音で連結なし）",
+            "until の末尾 /l/ が you に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ヨア ビーコン ウィル ブリンク アンティル ユー アクティベイト ザ フル ピラミッド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be blinking",
+      "ipa": "/wɪl bi ˈblɪŋkɪŋ/",
+      "examples": [
+        {
+          "en": "The beacon will be blinking throughout the night to guide us home.",
+          "ja": "ビーコンは帰路を照らすために、夜通し点滅し続けるでしょう。",
+          "ipa": "[ðə ˈbiːkən wɪl bi ˈblɪŋkɪŋ θruːˈaʊt ðə naɪt tə ɡaɪd əs hoʊm]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "be の末尾 /i/ が blinking の /ˈ/ に続く（母音+子音で連結なし）",
+            "throughout の末尾 /t/ が the に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "to の末尾 /tə/（弱形）が guide に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ビーコン ウィル ビー ブリンキング スルーアウト ザ ナイト タ ガイド アス ホーム"
+        },
+        {
+          "en": "They'll be blinking the warning signal while we escape the lava.",
+          "ja": "私たちが溶岩から逃げている間、警告信号が点滅しているでしょう。",
+          "ipa": "[ðeɪl bi ˈblɪŋkɪŋ ðə ˈwɔrnɪŋ ˈsɪɡnəl waɪl wi ɪˈskeɪp ðə ˈlɑvə]",
+          "linking": [
+            "They'll は /ðeɪl/（they will の縮約）",
+            "be の末尾 /i/ が blinking に続く（母音+子音で連結なし）",
+            "the は弱形 /ðə/",
+            "while の末尾 /l/ が we に続く（子音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼイル ビー ブリンキング ザ ウォーニング シグナル ワイル ウィー イスケイプ ザ ラーヴァ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have blinked",
+      "ipa": "/wɪl həv blɪŋkt/",
+      "examples": [
+        {
+          "en": "By the time you read this, the portal will have blinked away.",
+          "ja": "このテキストを読む頃には、ポータルはすでに消え去っているでしょう。",
+          "ipa": "[baɪ ðə taɪm ju rɛd ðɪs ðə ˈpoʊrtəl wɪl həv blɪŋkt əˈweɪ]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "have は弱形 /həv/",
+            "away の末尾 /ə/ が the に続く（母音+子音で連結なし）",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ユー レッド ディス ザ ポータル ウィル ハヴ ブリンクト アウェイ"
+        },
+        {
+          "en": "The beacon will have blinked fifty times before we return.",
+          "ja": "私たちが戻ってくるまでに、ビーコンは50回点滅しているでしょう。",
+          "ipa": "[ðə ˈbiːkən wɪl həv blɪŋkt ˈfɪfti taɪmz bɪˈfɔr wi rɪˈtɝn]",
+          "linking": [
+            "the は弱形 /ðə/",
+            "will は弱形 /wɪl/",
+            "have は弱形 /həv/",
+            "before の末尾 /r/ が we に続く（子音+子音で連結なし）"
+          ],
+          "kana": "ザ ビーコン ウィル ハヴ ブリンクト フィフティー タイムズ ビフォア ウィー リターン"
+        }
+      ]
+    }
+  ]
+}

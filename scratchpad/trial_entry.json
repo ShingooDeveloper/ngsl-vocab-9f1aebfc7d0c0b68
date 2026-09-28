@@ -1,0 +1,419 @@
+{
+  "word": "trial",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈtraɪəl/",
+  "rank": 1273,
+  "level": "B1",
+  "hi": "trial(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】試験、テスト、試行、試験的な試み",
+    "【名詞】裁判、公開裁判",
+    "【名詞】苦労、つらい経験",
+    "【動詞】試す、テストする、試行する（ものを試験的に使う）"
+  ],
+  "examples": [
+    {
+      "en": "We went through a difficult trial to find the best route to the nether fortress.",
+      "ja": "ネザー要塞への最良の道を見つけるために、私たちは困難な試行を通った。",
+      "ipa": "/wi ˈwɛnt θruː ə ˈdɪfɪkəlt ˈtraɪəl tu ˈfaɪnd ðə ˈbɛst ˈrut tu ðə ˈnɛðər ˈfɔrtrəs/",
+      "linking": [
+        "through a → 語末 /ð/ が a の /ə/ に連結 [θruː ə] スルー ア",
+        "best route → /t/ が route の /r/ に続く（子音+子音、連結なし）"
+      ],
+      "kana": "ウィ ウェント スルー ア ディフィカルト トライアル トゥ ファインド ザ ベスト ルート トゥー ザ ネザー フォートレス"
+    },
+    {
+      "en": "The trial of survival in the deep dark became our greatest achievement.",
+      "ja": "深い暗闇での生存試験は、私たちの最大の成就となった。",
+      "ipa": "/ðə ˈtraɪəl əv sərˈvaɪvəl ɪn ðə ˈdiːp dɑːrk bɪˈkeɪm aʊər ˈɡreɪtəst əˈtʃivmənt/",
+      "linking": [
+        "trial of → 語末 /l/ が of の /ə/ に連結 [ˈtraɪəl əv] トライアル オヴ、of は弱形 /əv/",
+        "deep dark → /p/ が /d/ に続く未開放。[ˈdiːp̚ dɑːrk] ディープ ダーク",
+        "greatest achievement → 語末 /t/ が achievement の /ə/ に連結 [ˈɡreɪtəst əˈtʃivmənt] グレイテスト アチーヴメント"
+      ],
+      "kana": "ザ トライアル オヴ サーヴァイヴァル イン ザ ディープ ダーク ビケイム アワー グレイテスト アチーヴメント"
+    },
+    {
+      "en": "This trial enchantment setup requires testing multiple combinations of books.",
+      "ja": "このテスト的なエンチャント設定は、複数の本の組み合わせをテストする必要がある。",
+      "ipa": "/ðɪs ˈtraɪəl ɛnˈtʃæntmənt ˈsɛtˌʌp rɪˈkwaɪərz ˈtɛstɪŋ ˈmʌltɪpl̩ ˌkɑmbɪˈneɪʃənz əv ˈbʊks/",
+      "linking": [
+        "trial enchantment → 語末 /l/ が enchantment の /ɛ/ に連結 [ˈtraɪəl ɛnˈtʃæntmənt] トライアル エンチャントメント",
+        "of books → /v/ + /b/（子音+子音、連結なし）"
+      ],
+      "kana": "ディス トライアル エンチャントメント セットアップ リクワイアーズ テスティング マルティプル コンビネーションズ オヴ ブックス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "trial and error",
+      "ja": "試行錯誤",
+      "example": "By trial and error, we finally figured out the correct redstone sequence.",
+      "example_ja": "試行錯誤によって、私たちはついに正しいレッドストーン配列を理解した。",
+      "ipa": "/baɪ ˈtraɪəl ənd ˈɛrər | wi ˈfaɪnəli ˈfɪɡərd aʊt ðə kəˈrɛkt ˈrɛdˌstoʊn sɪˈkwɛns/",
+      "linking": [
+        "trial and → 語末 /l/ が and の /ə/ に連結。and は弱形 /ənd/ [ˈtraɪəl ənd] トライアル アンド",
+        "figured out → 語末 /d/ が out の /aʊ/ に連結 [ˈfɪɡərd aʊt] フィガード アウト"
+      ],
+      "kana": "バイ トライアル アンド エラー、ウィ ファイナリー フィガード アウト ザ コレクト レッドストーン シークエンス"
+    },
+    {
+      "idiom": "on trial",
+      "ja": "裁判中で、試験的に",
+      "example": "The new farm design is on trial to see if it increases crop yield.",
+      "example_ja": "新しい農場設計は、作物の収量を増やすかどうかを確認するために試験的に行われている。",
+      "ipa": "/ðə ˈnu ˈfɑrm dɪˈzaɪn ɪz ɑn ˈtraɪəl tu ˈsi ɪf ɪt ɪnˈkrisəz ˈkrɑp ˈjild/",
+      "linking": [
+        "is on → is は弱形 /ɪz/、on の /ɑ/ に連結 [ɪz ɑn] イズ オン",
+        "to see → to は弱形 /tə/"
+      ],
+      "kana": "ザ ニュー ファーム ディザイン イズ オン トライアル トゥ スィー イフ イット インクリースズ クロップ イールド"
+    },
+    {
+      "idiom": "trial basis",
+      "ja": "試験的な基盤で、暫定的に",
+      "example": "We're using this mining technique on a trial basis for a few weeks.",
+      "example_ja": "私たちはこの採掘技術を数週間試験的に使っている。",
+      "ipa": "/wir ˈjuːzɪŋ ðɪs ˈmaɪnɪŋ tɛkˈnik ɑn ə ˈtraɪəl ˈbeɪsɪs fɔr ə ˈfju ˈwiks/",
+      "linking": [
+        "a trial → a は弱形 /ə/、trial に連結 [ə ˈtraɪəl] ア トライアル",
+        "for a → for は弱形 /fɚ/、a も弱形 /ə/ [fɚ ə] ファー ア"
+      ],
+      "kana": "ウィアー ユージング ディス マイニング テクニック オン ア トライアル ベイシス フォー ア フュー ウィークス"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "We built a trial structure to test if the village would be protected from raid attacks.",
+      "ja": "村が襲撃から保護されるかをテストするために、試験的な構造を建てた。",
+      "ipa": "/wi ˈbɪlt ə ˈtraɪəl ˈstrʌktʃər tu ˈtɛst ɪf ðə ˈvɪlɪdʒ wəd bi prəˈtɛktɪd ˈfɹʌm ˈreɪd əˈtæks/",
+      "linking": [
+        "a trial → a は弱形 /ə/、trial に連結 [ə ˈtraɪəl] ア トライアル",
+        "to test → to は弱形 /tə/"
+      ],
+      "kana": "ウィ ビルト ア トライアル ストラクチャー トゥ テスト イフ ザ ビリッジ ウッド ビー プロテクティド フラム レイド アタックス"
+    },
+    {
+      "en": "Each trial of different enchantments taught us valuable lessons about gear optimization.",
+      "ja": "異なるエンチャントの各試行は、装備最適化について貴重な教訓を教えてくれた。",
+      "ipa": "/itʃ ˈtraɪəl əv ˈdɪfɚənt ɛnˈtʃæntmənts ˈtɔt əs ˈvæljuəbəl ˈlɛsənz əˈbaʊt ɡɪr ˌɑptɪmɪˈzeɪʃən/",
+      "linking": [
+        "trial of → 語末 /l/ が of の /ə/ に連結。of は弱形 /əv/ [ˈtraɪəl əv] トライアル オヴ",
+        "valuable lessons → 語末 /l/ が lessons に続く（子音+子音）。lessons は弱形 /ˈlɛsənz/"
+      ],
+      "kana": "イーチ トライアル オヴ ディファレント エンチャントメンツ トート アス ヴァリュアブル レッスンズ アバウト ギア オプティマイゼーション"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "trials",
+      "ipa": "/ˈtraɪəlz/",
+      "examples": [
+        {
+          "en": "We ran multiple trials to determine which enchantment combination was most effective.",
+          "ja": "どのエンチャント組み合わせが最も効果的かを決定するために、私たちは複数の試行を実行した。",
+          "ipa": "/wi ˈræn ˈmʌltɪpl̩ ˈtraɪəlz tu dɪˈtɝːmɪn ˈwɪtʃ ɛnˈtʃæntmənt ˌkɑmbɪˈneɪʃən wəz ˈmoʊst ɪˈfɛktɪv/",
+          "linking": [
+            "trials to → 語末 /z/ が to の初頭 /t/ に続く（子音+子音、連結なし）。to は弱形 /tə/",
+            "enchantment combination → 語末 /t/ が combination に続く（子音+子音）"
+          ],
+          "kana": "ウィ ラン マルティプル トライアルズ トゥ ディターミン ウィッチ エンチャントメント コンビネーション ワズ モウスト イフェクティヴ"
+        },
+        {
+          "en": "These trials showed that deep slate caves had the richest ore deposits.",
+          "ja": "これらの試行は、深いスレートの洞窟が最も豊かな鉱石堆積を持っていることを示した。",
+          "ipa": "/ðiz ˈtraɪəlz ˈʃoʊd ðæt ˈdiːp sleɪt ˈkeɪvz hæd ðə ˈrɪtʃəst ˈɔr dɪˈpɑzɪts/",
+          "linking": [
+            "trials showed → 語末 /z/ が showed の初頭 /ʃ/ に続く（子音+子音）。[ˈtraɪəlz ˈʃoʊd] トライアルズ ショウド",
+            "deep slate → /p/ が /s/ に続く（子音+子音、連結なし）。未開放 [ˈdiːp̚ sleɪt] ディープ スレイト"
+          ],
+          "kana": "ディーズ トライアルズ ショウド ザット ディープ スレイト ケイブズ ハド ザ リッチェスト オア デポジッツ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "trials",
+      "ipa": "/ˈtraɪəlz/",
+      "examples": [
+        {
+          "en": "She trials different building techniques every week to improve her skills.",
+          "ja": "彼女は毎週、スキルを向上させるために異なる建築技術を試す。",
+          "ipa": "/ʃi ˈtraɪəlz ˈdɪfɚənt ˈbɪldɪŋ tɛkˈniks ˈɛvri ˈwik tu ɪmˈpruːv hɚ ˈskɪlz/",
+          "linking": [
+            "trials different → 語末 /z/ が different の /d/ に続く（子音+子音、連結なし）",
+            "every week → 語末 /i/ が week に続く。every は /ˈɛvri/、語末 /i/ が weak 発音。[ˈɛvri ˈwik] エヴリ ウィーク",
+            "to improve → to は弱形 /tə/"
+          ],
+          "kana": "シー トライアルズ ディファレント ビルディング テクニックス エヴリ ウィーク トゥ インプルーブ ハー スキルズ"
+        },
+        {
+          "en": "The redstone engineer trials new circuits to find a more efficient design.",
+          "ja": "レッドストーン技師は、より効率的な設計を見つけるために新しい回路を試す。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈɛndʒɪnɪr ˈtraɪəlz ˈnu ˈsɝːkɪts tu ˈfaɪnd ə ˈmɔr ɪˈfɪʃənt dɪˈzaɪn/",
+          "linking": [
+            "engineer trials → 語末 /r/ + /t/（子音+子音、連結なし）。[ˈɛndʒɪnɪr ˈtraɪəlz] エンジニア トライアルズ",
+            "new circuits → /ʃ/ + /u/. new は /nu/、circuits の /s/ に続く（子音+子音）"
+          ],
+          "kana": "ザ レッドストーン エンジニア トライアルズ ニュー サーキッツ トゥ ファインド ア モア イフィシェント ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "trialed",
+      "ipa": "/ˈtraɪəld/",
+      "examples": [
+        {
+          "en": "We trialed the new farm design to see if it increased crop yield rates.",
+          "ja": "作物の収量率を増やすかどうかを確認するために、新しい農場設計を試した。",
+          "ipa": "/wi ˈtraɪəld ðə ˈnu ˈfɑrm dɪˈzaɪn tu ˈsi ɪf ɪt ɪnˈkrist ˈkrɑp ˈjild reɪts/",
+          "linking": [
+            "trialed の /d/ が the に連結。the は弱形 /ðə/ [ˈtraɪəld ə] トライアルダ",
+            "to see → to は弱形 /tə/"
+          ],
+          "kana": "ウィ トライアルダ ニュー ファーム ディザイン トゥ スィー イフ イット インクリースト クロップ イールド レイツ"
+        },
+        {
+          "en": "They trialed multiple redstone contraptions before settling on the best one.",
+          "ja": "彼らは最良のものに決定する前に、複数のレッドストーン装置を試した。",
+          "ipa": "/ðeɪ ˈtraɪəld ˈmʌltɪpl̩ ˈrɛdˌstoʊn kənˈtræpʃənz bɪˈfɔr ˈsɛtl̩ɪŋ ɑn ðə ˈbɛst ˈwʌn/",
+          "linking": [
+            "trialed multiple → 語末 /d/ が multiple に続く（子音+子音、連結なし）",
+            "before settling → 語末 /r/ + /s/（子音+子音、連結なし）。[bɪˈfɔr ˈsɛtl̩ɪŋ] ビフォー セットリング"
+          ],
+          "kana": "ゼイ トライアルド マルティプル レッドストーン コントラプションズ ビフォー セットリング オン ザ ベスト ワン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "trialed",
+      "ipa": "/ˈtraɪəld/",
+      "examples": [
+        {
+          "en": "The building strategy we trialed last month proved to be much more efficient.",
+          "ja": "先月試した建築戦略は、はるかに効率的であることが判明した。",
+          "ipa": "/ðə ˈbɪldɪŋ ˈstræɾəɡi wi ˈtraɪəld læst ˈmʌnθ ˈpruːvd tu bi ˈmʌtʃ ˈmɔr ɪˈfɪʃənt/",
+          "linking": [
+            "we trialed → 母音+子音（/i/ + /t/）、特別な連結なし。[wi ˈtraɪəld] ウィ トライアルド",
+            "trialed last → 語末 /d/ + /l/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ビルディング ストラテジー ウィ トライアルド ラスト マンス プルーヴド トゥ ビー マッチ モア イフィシェント"
+        },
+        {
+          "en": "The cave system trialed by our team became the foundation for our massive mining operation.",
+          "ja": "私たちのチームが試した洞窟システムは、大規模な採掘事業の基礎になった。",
+          "ipa": "/ðə ˈkeɪv ˈsɪstəm ˈtraɪəld baɪ ˈaʊər ˈtim bɪˈkeɪm ðə ˈfaʊnˌdeɪʃən fɔr ˈaʊər məˈsɪv ˈmaɪnɪŋ ˌɑpəˈreɪʃən/",
+          "linking": [
+            "trialed by → 語末 /d/ + /b/（子音+子音、連結なし）。[ˈtraɪəld baɪ] トライアルド バイ",
+            "became の /m/ が the に続く（子音+子音）"
+          ],
+          "kana": "ザ ケイブ システム トライアルド バイ アワー ティーム ビケイム ザ ファウンデーション フォー アワー マッシヴ マイニング オペレーション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "trialing",
+      "ipa": "/ˈtraɪəlɪŋ/",
+      "examples": [
+        {
+          "en": "Trialing new enchantment strategies helps us discover optimal gear configurations.",
+          "ja": "新しいエンチャント戦略を試すことは、最適な装備構成を発見するのに役立つ。",
+          "ipa": "/ˈtraɪəlɪŋ ˈnu ɛnˈtʃæntmənt ˈstræɾəɡiz ˈhɛlps əs dɪˈskʌvər ˌɑptɪməl ɡɪr ˌkɑnfɪɡəˈreɪʃən/",
+          "linking": [
+            "enchantment strategies の /t/ がフラップ化 [ˈstræɾəɡiz] ストラテジーズ",
+            "helps us → 語末 /s/ が us に連結 [ˈhɛlps əs] ヘルプス アス、us は弱形 /əs/"
+          ],
+          "kana": "トライアリング ニュー エンチャントメント ストラテジーズ ヘルプス アス ディスカバー オプティマル ギア コンフィギュレーション"
+        },
+        {
+          "en": "While trialing different mob farms, we found that height affects spawn rates significantly.",
+          "ja": "異なるモブファームを試している間に、高さがスポーン率に大きく影響することがわかった。",
+          "ipa": "/waɪl ˈtraɪəlɪŋ ˈdɪfɚənt ˈmɑb ˈfɑrmz | wi ˈfaʊnd ðæt ˈhaɪt əˈfɛkts spoʊn ˈreɪts sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "trialing different → 語末 /ŋ/ + /d/。-ing の /ŋ/ が different に続く（子音+子音、連結なし）",
+            "found that → 語末 /d/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ワイル トライアリング ディファレント モブ ファームズ、ウィ ファウンド ザット ハイト アフェクツ スポウン レイツ シグニフィカントリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is trialing",
+      "ipa": "/ɪz ˈtraɪəlɪŋ/",
+      "examples": [
+        {
+          "en": "He is trialing a new redstone design to see if it improves efficiency.",
+          "ja": "彼は効率を改善するかどうかを確認するために、新しいレッドストーン設計を試しているところだ。",
+          "ipa": "/hi ɪz ˈtraɪəlɪŋ ə ˈnu ˈrɛdˌstoʊn dɪˈzaɪn tu ˈsi ɪf ɪt ɪmˈpruvz ɪˈfɪʃənsi/",
+          "linking": [
+            "is trialing → is は弱形 /ɪz/、trialing に連結 [ɪz ˈtraɪəlɪŋ] イズ トライアリング",
+            "to see → to は弱形 /tə/"
+          ],
+          "kana": "ヒー イズ トライアリング ア ニュー レッドストーン ディザイン トゥ スィー イフ イット インプルーヴズ イフィシェンシー"
+        },
+        {
+          "en": "We are trialing different farm layouts this week to maximize productivity.",
+          "ja": "生産性を最大化するために、私たちは今週異なる農場レイアウトを試している。",
+          "ipa": "/wi ɑr ˈtraɪəlɪŋ ˈdɪfɚənt ˈfɑrm ˈleɪaʊtz ðɪs ˈwik tu ˈmæksɪˌmaɪz ˌproʊdʌkˈtɪvəti/",
+          "linking": [
+            "are trialing → are は弱形 /ɚ/、trialing に連結 [ɑɹ ˈtraɪəlɪŋ] アー トライアリング",
+            "different farm → 語末 /t/ + /f/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィ アー トライアリング ディファレント ファーム レイアウツ ディス ウィーク トゥ マクシマイズ プロダクティビティー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was trialing",
+      "ipa": "/wəz ˈtraɪəlɪŋ/",
+      "examples": [
+        {
+          "en": "She was trialing the enchanting room design when the creepers attacked.",
+          "ja": "クリーパーが襲撃したとき、彼女はエンチャント部屋の設計を試していた。",
+          "ipa": "/ʃi wəz ˈtraɪəlɪŋ ðə ɛnˈtʃæntɪŋ ˈrum dɪˈzaɪn ˈwɛn ðə ˈkripərz əˈtækt/",
+          "linking": [
+            "was trialing → was は弱形 /wəz/、trialing に連結 [wəz ˈtraɪəlɪŋ] ワズ トライアリング",
+            "the enchanting → the は弱形 /ðə/、enchanting に連結 [ðə ɛnˈtʃæntɪŋ] ザ エンチャンティング"
+          ],
+          "kana": "シー ワズ トライアリング ザ エンチャンティング ルーム ディザイン ウェン ザ クリーパーズ アタック"
+        },
+        {
+          "en": "They were trialing multiple cave systems before settling on the most efficient route.",
+          "ja": "最も効率的なルートに決定する前に、彼らは複数の洞窟システムを試していた。",
+          "ipa": "/ðeɪ wɚ ˈtraɪəlɪŋ ˈmʌltɪpl̩ ˈkeɪv ˈsɪstəmz bɪˈfɔr ˈsɛtl̩ɪŋ ɑn ðə ˈmoʊst ɪˈfɪʃənt ˈrut/",
+          "linking": [
+            "were trialing → were は弱形 /wɚ/、trialing に連結 [wɚ ˈtraɪəlɪŋ] ワー トライアリング",
+            "before settling → 語末 /r/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ワー トライアリング マルティプル ケイブ システムズ ビフォー セットリング オン ザ モウスト イフィシェント ルート"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been trialing",
+      "ipa": "/həd ˈbɪn ˈtraɪəlɪŋ/",
+      "examples": [
+        {
+          "en": "The engineer had been trialing redstone contraptions for hours before finally discovering the solution.",
+          "ja": "技師は解決策を発見する前に、数時間レッドストーン装置を試し続けていた。",
+          "ipa": "/ðə ˈɛndʒɪnɪr həd ˈbɪn ˈtraɪəlɪŋ ˈrɛdˌstoʊn kənˈtræpʃənz fɔr ˈaʊərz bɪˈfɔr ˈfaɪnəli dɪˈskʌvərɪŋ ðə səˈluʃən/",
+          "linking": [
+            "had been trialing → had は弱形 /həd/、been の /b/ に連結。been は弱形 /bɪn/、trialing に連結。[həd ˈbɪn ˈtraɪəlɪŋ] ハド ビン トライアリング",
+            "for hours → for は弱形 /fɚ/、hours に連結 [fɚ ˈaʊərz] ファー アワーズ"
+          ],
+          "kana": "ザ エンジニア ハド ビン トライアリング レッドストーン コントラプションズ ファー アワーズ ビフォー ファイナリー ディスカバリング ザ ソリューション"
+        },
+        {
+          "en": "We had been trialing different building materials when we realized obsidian was the most durable.",
+          "ja": "黒曜石が最も耐久性があることに気づいたとき、私たちは異なる建築材料を試し続けていた。",
+          "ipa": "/wi həd ˈbɪn ˈtraɪəlɪŋ ˈdɪfɚənt ˈbɪldɪŋ məˈtɪriəlz ˈwɛn wi riəˈlaɪzd ɑbˈsɪdiən wəz ðə ˈmoʊst ˈdʊrəbəl/",
+          "linking": [
+            "had been trialing → had は弱形 /həd/、been の /b/ に連結。been は弱形 /bɪn/、trialing に連結。[həd ˈbɪn ˈtraɪəlɪŋ] ハド ビン トライアリング",
+            "was the → was は弱形 /wəz/、the に連結 [wəz ðə] ワズ ザ"
+          ],
+          "kana": "ウィ ハド ビン トライアリング ディファレント ビルディング マテリアルズ ウェン ウィ リアライズド オブシディアン ワズ ザ モウスト ドゥーラブル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has trialed",
+      "ipa": "/həz ˈtraɪəld/",
+      "examples": [
+        {
+          "en": "I have trialed this new mining technique for months now.",
+          "ja": "この新しい採掘技法を何ヶ月も試してきた。",
+          "ipa": "/aɪ həv ˈtraɪəld ðɪs ˈnu ˈmaɪnɪŋ tɛkˈniːk fɔr ˈmʌnθz naʊ/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "アイ ハヴ トライアルド ディス ニュー マイニング テクニーク フォー マンズ ナウ"
+        },
+        {
+          "en": "She has trialed redstone circuits for creative building projects.",
+          "ja": "彼女は創造的な建築プロジェクトのためにレッドストーン回路を試してきた。",
+          "ipa": "/ʃi həz ˈtraɪəld ˈrɛdˌstoʊn ˈsɝːkɪts fɔr kriˈeɪtɪv ˈbɪldɪŋ ˈprɑdʒɛkts/",
+          "linking": [
+            "has は助動詞で弱形 /həz/",
+            "for は機能語で弱形 /fɔr/"
+          ],
+          "kana": "シー ハズ トライアルド レッドストーン サーキッツ フォー クリエイティヴ ビルディング プロジェクツ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had trialed",
+      "ipa": "/həd ˈtraɪəld/",
+      "examples": [
+        {
+          "en": "Before the new update, we had trialed several mob farm designs.",
+          "ja": "新しいアップデートの前に、私たちは複数のモブファーム設計を試してきた。",
+          "ipa": "/bɪˈfɔr ðə ˈnu ˈʌpˌdeɪt | wi həd ˈtraɪəld ˈsɛvərəl ˈmoʊb ˈfɑrm dɪˈzaɪnz/",
+          "linking": [
+            "the は機能語で弱形 /ðə/",
+            "had は助動詞で弱形 /həd/"
+          ],
+          "kana": "ビフォア ザ ニュー アップデート、ウィ ハド トライアルド セヴラル モブ ファーム ディザインズ"
+        },
+        {
+          "en": "He had trialed the enchantment system before joining the server.",
+          "ja": "サーバーに参加する前に、彼はエンチャントシステムを試してきた。",
+          "ipa": "/hi həd ˈtraɪəld ðə ɪnˈtʃɑntmənt ˈsɪstəm bɪˈfɔr ˈdʒɔɪnɪŋ ðə ˈsɝːvər/",
+          "linking": [
+            "had は助動詞で弱形 /həd/",
+            "the は機能語で弱形 /ðə/（2か所）"
+          ],
+          "kana": "ヒー ハド トライアルド ザ インチャントメント システム ビフォア ジョイニング ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been trialing",
+      "ipa": "/həz ˈbɪn ˈtraɪəlɪŋ/",
+      "examples": [
+        {
+          "en": "We have been trialing different seed varieties on the experimental farm.",
+          "ja": "実験農場でさまざまな種の品種を試し続けている。",
+          "ipa": "/wi həv ˈbɪn ˈtraɪəlɪŋ ˈdɪfɚənt ˈsid vəˈraɪətiz ɑn ðə ɪkˈspɛrɪmɛntəl ˈfɑrm/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "been も助動詞で弱形 /bɪn/"
+          ],
+          "kana": "ウィ ハヴ ビン トライアリング ディファレント シード ヴァライエティーズ オン ザ イクスペリメンタル ファーム"
+        },
+        {
+          "en": "They have been trialing faster mining techniques throughout the season.",
+          "ja": "シーズン中ずっと、彼らはより速い採掘技法を試し続けている。",
+          "ipa": "/ðeɪ həv ˈbɪn ˈtraɪəlɪŋ ˈfæstər ˈmaɪnɪŋ tɛkˈniːks θruˈaʊt ðə ˈsiːzən/",
+          "linking": [
+            "have は助動詞で弱形 /həv/",
+            "been も助動詞で弱形 /bɪn/"
+          ],
+          "kana": "ザイ ハヴ ビン トライアリング ファスター マイニング テクニークス スルーアウト ザ シーズン"
+        }
+      ]
+    }
+  ]
+}

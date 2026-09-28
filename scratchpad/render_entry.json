@@ -1,0 +1,501 @@
+{
+  "word": "render",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ˈrɛndər/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "render(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】（援助・サービスなど）を与える、提供する（to provide or give something；to furnish）",
+    "【動詞】（音楽・作品など）を演奏する、表現する、上演する（to perform or present a musical or dramatic work）",
+    "【動詞】（言葉や文章）を別の言語や形式に訳す、表現する（to translate or express in another language or form）",
+    "【動詞】コンピュータグラフィックスで画像を生成・表示する；ブロックやテクスチャを画面に描画する（to generate and display an image in computer graphics）",
+    "【動詞】（壁など）に漆喰や塗料を塗る（to coat a surface with plaster or mortar）",
+    "【名詞】壁や建物の表面に塗られた漆喰、左官塗り（a coat of plaster or mortar applied to a surface）"
+  ],
+  "examples": [
+    {
+      "en": "I need to render this scene with better lighting for my custom resource pack.",
+      "ja": "カスタムリソースパック用に、より良い照明でこのシーンをレンダリングする必要があります。",
+      "ipa": "[aɪ ˈniːd tə ˈrɛndər ðɪs ˈsin wɪð ˈbɛtər ˈlaɪtɪŋ fər maɪ ˈkʌstəm rɪˈsɔrs ˌpæk]",
+      "linking": [
+        "need to - need の語末 /d/ が弱形 to /tə/ の母音 /ə/ に連結 [ˈniːdə] ニーダ",
+        "to render - to は弱形 /tə/；render /ˈrɛndər/ へ /r/ が語末から連結 [tə ˈrɛndər] タ レンダー",
+        "render this - render の語末 /ər/ が this の /ð/ に続く（子音+子音、未開放）レンダー ディス",
+        "for my - for は弱形 /fər/；my /maɪ/ へ /r/ が連結 [fər maɪ] ファ マイ"
+      ],
+      "kana": "アイ ニーダ タ レンダー ディス シーン ウィズ ベター ライティング ファ マイ カスタム リソース パック"
+    },
+    {
+      "en": "Increasing the render distance helps us see dangerous mobs approaching from far away.",
+      "ja": "レンダー距離を増やすことで、遠くから近づいてくる危険なモブが見えるようになります。",
+      "ipa": "[ɪnˈkrisɪŋ ðə ˈrɛndər ˈdɪstəns ˈhɛlps əs ˈsi ˈdeɪndʒərəs ˈmɑbz əˈproʊtʃɪŋ frəm ˈfɑr əˈweɪ]",
+      "linking": [
+        "the render - the は弱形 /ðə/；render /ˈrɛndər/ へ自然に流れる [ðə ˈrɛndər] ザ レンダー",
+        "render distance - render の語末 /ər/ が distance /ˈdɪstəns/ の /d/ に続く（子音+子音、未開放）[ˈrɛndər ˈdɪstəns] レンダー ディスタンス",
+        "helps us - helps の語末 /ps/ が us の母音 /ə/ に続く（子音群+母音）ヘルプス アス",
+        "from far - from は弱形 /frəm/；far /fɑr/ へ /m/ が続く（子音+子音）フラム ファー"
+      ],
+      "kana": "インクリーシング ザ レンダー ディスタンス ヘルプス アス シー デンジャラス モブズ アプローチング フラム ファー アウェイ"
+    },
+    {
+      "en": "The senior builders rendered invaluable advice to the newcomers building their first structures.",
+      "ja": "経験豊かなビルダーは、初めて構造物を建築する新人プレイヤーに貴重なアドバイスを提供しました。",
+      "ipa": "[ðə ˈsiniər ˈbɪldərz ˈrɛndərd ɪnˈvæljuəbəl ədˈvaɪs tu ðə ˈnjuˌkʌmərz ˈbɪldɪŋ ðɛr ˈfɝst ˈstrʌktʃərz]",
+      "linking": [
+        "senior builders - senior の語末 /ər/ が builders /ˈbɪldərz/ へ連結；builders の /z/ が rendered へ流れる [ˈsiniər ˈbɪldərz] シニアー ビルダーズ",
+        "rendered invaluable - rendered の語末 /ərd/ が invaluable の /ɪ/ に連結 [ˈrɛndərd ɪnˈvæljuəbəl] レンダード インヴァリュアブル",
+        "advice to - advice の語末 /s/ が to の子音に続く；to は弱形 /tə/ [ədˈvaɪs tə] アドヴァイス タ",
+        "to the newcomers - to は弱形 /tə/；the は弱形 /ðə/ [tə ðə ˈnjuˌkʌmərz] タ ザ ニューカマーズ"
+      ],
+      "kana": "ザ シニアー ビルダーズ レンダード インヴァリュアブル アドヴァイス タ ザ ニューカマーズ ビルディング ゼア ファースト ストラクチャーズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "render assistance",
+      "ja": "援助・支援を提供する",
+      "example": "Experienced players often render assistance to their teammates in difficult raids.",
+      "example_ja": "経験豊かなプレイヤーは、難しいレイド中にチームメイトに援助を提供することが多いです。",
+      "ipa": "[ɪkˈspɪriənst ˈpleɪərz ˈɔfən ˈrɛndər əˈsɪstəns tu ðɛr ˈtimˌmeɪts ɪn ˈdɪfɪkəlt ˈreɪdz]",
+      "linking": [
+        "players often - players /ˈpleɪərz/ の /z/ が often /ˈɔfən/ に連結；often の母音から自然に [ˈpleɪərz ˈɔfən] プレイアーズ オフン",
+        "render assistance - render の語末 /ər/ が assistance /əˈsɪstəns/ の /ə/ に連結 [ˈrɛndər əˈsɪstəns] レンダー アシスタンス",
+        "assistance to - assistance の語末 /s/ が to の子音に続く；to は弱形 /tə/ [əˈsɪstəns tə] アシスタンス タ",
+        "to their - to は弱形 /tə/；their /ðɛr/ へ /r/ が連結 [tə ðɛr] タ ゼア"
+      ],
+      "kana": "イクスピアリエンスト プレイアーズ オフン レンダー アシスタンス タ ゼア ティームメイツ イン ディフィカルト レイドズ"
+    },
+    {
+      "idiom": "render service",
+      "ja": "サービス・役務を提供する",
+      "example": "The admin team renders a valuable service by keeping the server running smoothly.",
+      "example_ja": "管理者チームはサーバーをスムーズに運用することで、貴重なサービスを提供しています。",
+      "ipa": "[ðə ˈædmɪn tim ˈrɛndərz ə ˈvæljuəbəl ˈsɝvɪs baɪ ˈkipɪŋ ðə ˈsɝvər ˈrunɪŋ ˈsmuzli]",
+      "linking": [
+        "admin team - admin の語末 /n/ が team の /t/ に続く（鼻音+子音）アドミン ティーム",
+        "renders a - renders の語末 /z/ が a の弱形 /ə/ に連結 [ˈrɛndərz ə] レンダーズ ア",
+        "by keeping - by /baɪ/ の語末 /j/ が keeping の /k/ に続く（子音+子音）バイ キーピング",
+        "keeping the - keeping の語末 /ŋ/ が the の弱形 /ðə/ に続く（鼻音+子音）キーピング ザ"
+      ],
+      "kana": "ザ アドミン ティーム レンダーズ ア ヴァリュアブル サービス バイ キーピング ザ サーバー ラニング スムーズリー"
+    },
+    {
+      "idiom": "render judgment",
+      "ja": "判定・判決を下す",
+      "example": "The tournament judges had to render judgment on whether the structure met all the competition rules.",
+      "example_ja": "トーナメント審査員は、その構造物が競争のすべてのルールを満たしているかどうかについて判定を下さなければなりませんでした。",
+      "ipa": "[ðə ˈtɔrnəmənt ˈdʒʌdʒɪz ˈhæd tə ˈrɛndər ˈdʒʌdʒmənt ɑn ˈwɛðər ðə ˈstrʌktʃər ˈmɛt ˈɔl ðə ˌkɑmpɪˈtɪʃən ˈrulz]",
+      "linking": [
+        "had to - had の語末 /d/ が to の /t/ に未開放で接続；to は弱形 /tə/ [ˈhæd tə] ハッ タ",
+        "to render - to は弱形 /tə/；render /ˈrɛndər/ へ /r/ が自然に連結 [tə ˈrɛndər] タ レンダー",
+        "render judgment - render の語末 /ər/ が judgment /ˈdʒʌdʒmənt/ の /dʒ/ に続く（子音+子音）[ˈrɛndər ˈdʒʌdʒmənt] レンダー ジャッジメント",
+        "judgment on - judgment の語末 /t/ が on の /ɑ/ に未開放で接続 [ˈdʒʌdʒmənt ɑn] ジャッジメン トン"
+      ],
+      "kana": "ザ トーナメント ジャッジズ ハッ タ レンダー ジャッジメント オン ウェザー ザ ストラクチャー メット オール ザ コンピティション ルールズ"
+    }
+  ],
+  "tags": ["Target 1900"],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "renders",
+      "ipa": "/ˈrɛndərz/",
+      "examples": [
+        {
+          "en": "The server renders terrain chunks dynamically as players explore new regions.",
+          "ja": "サーバーはプレイヤーが新しい地域を探索する際に、地形チャンクを動的にレンダリングしています。",
+          "ipa": "[ðə ˈsɝvɚ ˈrɛndərz ˈtɛɹɪn ˈtʃʌŋks daɪˈnæmɪkli æz ˈpleɪɚz ɪkˈsploʊr nju ˈridʒənz]",
+          "linking": [
+            "「The server」—「the」は弱形 /ðə/；server /ˈsɝvɚ/ へ自然に流れる",
+            "「server renders」—server の語末 /ɚ/ が renders へ連結 [ˈsɝvɚ ˈrɛndərz]"
+          ],
+          "kana": "ザ サーバー レンダーズ テレイン チャンクス ダイナミカリー アズ プレイアーズ エクスプロア ニュー リージョンズ"
+        },
+        {
+          "en": "High render distance renders distant mountains visible from the base, helping players spot landmarks.",
+          "ja": "高いレンダー距離は、遠くの山をベースから見えるようにレンダリングしており、プレイヤーがランドマークを見つけるのに役立ちます。",
+          "ipa": "[ˈhaɪ ˈrɛndɚ ˈdɪstəns ˈrɛndərz ˈdɪstənt ˈmaʊnɪnz ˈvɪzəbəl frəm ðə ˈbeɪs ˈhɛlpɪŋ ˈpleɪɚz spɑt ˈlændmɑɹks]",
+          "linking": [
+            "「High render」—High の語末 /aɪ/ が render へ続く [ˈhaɪ ˈrɛndɚ]",
+            "「from the」—from は弱形 /frəm/；the は弱形 /ðə/ [frəm ðə]"
+          ],
+          "kana": "ハイ レンダー ディスタンス レンダーズ ディスタント マウンテンズ ヴィジブル フラム ザ ベイス ヘルピング プレイアーズ スパット ランドマークス"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "rendered",
+      "ipa": "/ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "The builders rendered the medieval castle walls with stone bricks and dark oak wood.",
+          "ja": "ビルダーたちは石レンガとダークオークの木で中世の城の壁をレンダリング（描画）しました。",
+          "ipa": "[ðə ˈbɪldɚz ˈrɛndərd ðə ˌmiːdiːˈvæl ˈkæsəl wɔlz wɪð stoʊn brɪks ənd dɑɹk ˈoʊk wʊd]",
+          "linking": [
+            "「the medieval」—the は弱形 /ðə/；medieval の /m/ へ [ðə ˌmiːdiːˈvæl]"
+          ],
+          "kana": "ザ ビルダーズ レンダード ザ ミーディーヴァル キャッスル ウォールズ ウィス ストウン ブリックス アンド ダーク オウク ウッド"
+        },
+        {
+          "en": "We rendered assistance to the new players who were struggling with their first survival structure.",
+          "ja": "私たちは、初めてのサバイバル構造物で苦労していた新しいプレイヤーに援助を提供しました。",
+          "ipa": "[wi ˈrɛndərd əˈsɪstəns tu ðə ˈnu ˈpleɪɚz hu wɚ ˈstrʌɡəlɪŋ wɪð ðɛr ˈfɝst sərˈvaɪvəl ˈstrʌktʃɚ]",
+          "linking": [
+            "「We rendered」—We の語末 /i/ が rendered へ流れる [wi ˈrɛndərd]",
+            "「rendered assistance」—rendered の語末 /d/ が assistance の /ə/ に連結 [ˈrɛndərd əˈsɪstəns]",
+            "「to the」—to は弱形 /tə/；the は弱形 /ðə/ [tə ðə]"
+          ],
+          "kana": "ウィー レンダード アシスタンス トゥー ザ ニュー プレイアーズ フー ワー ストラッグリング ウィス ゼア ファースト サーヴァイヴル ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "rendered",
+      "ipa": "/ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "Having rendered countless structures in this world, the master builder became a legend.",
+          "ja": "この世界で無数の構造物をレンダリング（描画）してきたので、マスタービルダーは伝説になりました。",
+          "ipa": "[ˈhævɪŋ ˈrɛndərd ˈkaʊntləs ˈstrʌktʃɚz ɪn ðɪs wɝld ðə ˈmæstɚ ˈbɪldɚ bɪˈkeɪm ə ˈlɛdʒənd]",
+          "linking": [
+            "「the master」—the は弱形 /ðə/；master /m/ へ [ðə ˈmæstɚ]"
+          ],
+          "kana": "ハービング レンダード カウントレス ストラクチャーズ イン ディス ワールド ザ マスター ビルダー ビケイム ア レジェンド"
+        },
+        {
+          "en": "The plaster rendered on the building's exterior remained intact after the harsh storm.",
+          "ja": "建物の外部にレンダリング（塗装）された漆喰は、厳しい嵐の後も無傷のままでした。",
+          "ipa": "[ðə ˈplæstɚ ˈrɛndərd ɑn ðə ˈbɪldɪŋz ɪkˈstɪɹiɚ rɪˈmeɪnd ɪnˈtækt ˈæftɚ ðə hɑɹʃ stɔɹm]",
+          "linking": [
+            "「The plaster」—The は弱形 /ðə/；plaster /p/ へ [ðə ˈplæstɚ]",
+            "「plaster rendered」—plaster の語末 /ɚ/ が rendered へ連結 [ˈplæstɚ ˈrɛndərd]",
+            "「rendered on」—rendered の語末 /d/ が on の /ɑ/ に連結 [ˈrɛndərd ɑn]"
+          ],
+          "kana": "ザ プラスター レンダード オン ザ ビルディングズ エクステリアー リメインド インタクト アフター ザ ハーシュ ストォーム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "rendering",
+      "ipa": "/ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "Rendering high-quality graphics requires a powerful computer and optimized settings.",
+          "ja": "高品質のグラフィックスをレンダリングするには、強力なコンピュータと最適化されたセッティングが必要です。",
+          "ipa": "[ˈrɛndərɪŋ ˈhaɪ ˈkwɑləti ˈɡræfɪks rɪˈkwaɪɚz ə ˈpaʊɚfəl kəmˈpjuːtɚ ənd ˈɑptɪmaɪzd ˈsɛtɪŋz]",
+          "linking": [
+            "「requires a」—requires の語末 /z/ が a の弱形 /ə/ に連結 [rɪˈkwaɪɚz ə]"
+          ],
+          "kana": "レンダリング ハイ クワリティ グラフィックス リクワイアーズ ア パウアフル コンピューター アンド オプティマイズド セッティングス"
+        },
+        {
+          "en": "While rendering the massive resource pack texture, the artist decided to take a break.",
+          "ja": "巨大なリソースパックテクスチャをレンダリング中に、アーティストは休憩することにしました。",
+          "ipa": "[waɪl ˈrɛndərɪŋ ðə ˈmæsɪv rɪˈsɔɹs pæk ˈtɛkstʃɚ ðə ˈɑɹtɪst dɪˈsaɪdəd tu ˈteɪk ə ˈbreɪk]",
+          "linking": [
+            "「rendering the」—rendering の語末 /ŋ/ が the の弱形 /ðə/ に続き [ˈrɛndərɪŋ ðə]",
+            "「to take」—to は弱形 /tə/；take /t/ へ [tə ˈteɪk]"
+          ],
+          "kana": "ワイル レンダリング ザ マッシブ リソース パック テクスチャー ザ アーティスト ディサイデッド トゥー テイク ア ブレイク"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is rendering",
+      "ipa": "/ɪz ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "I think the server is rendering new chunks as we fly forward.",
+          "ja": "サーバーが前に飛び進むにつれて新しいチャンクをレンダリングしていると思います。",
+          "ipa": "[aɪ ˈθɪŋk ðə ˈsɝvɚ ɪz ˈrɛndərɪŋ ˈnu ˈtʃʌŋks æz wi ˈflaɪ ˈfɔɹwɚd]",
+          "linking": [
+            "I think - I の語末 /aɪ/ が think の /θ/ に続く [aɪ ˈθɪŋk] アイ シンク",
+            "think the - think の語末 /k/ が the の弱形 /ðə/ に連結 [ˈθɪŋk ðə] シンク ザ",
+            "is rendering - is は弱形 /ɪz/；rendering へ /z/ が母音に連結 [ɪz ˈrɛndərɪŋ] イズ レンダリング",
+            "as we - as の語末 /z/ が we へ続く；we は /wi/ [æz wi] アズ ウィー"
+          ],
+          "kana": "アイ シンク ザ サーバー イズ レンダリング ニュー チャンクス アズ ウィー フライ フォーワード"
+        },
+        {
+          "en": "She is rendering the castle walls with stone and wood.",
+          "ja": "彼女が石と木で城の壁をレンダリング（描画）しています。",
+          "ipa": "[ʃi ɪz ˈrɛndərɪŋ ðə ˈkæsəl wɔlz wɪð stoʊn ənd wʊd]",
+          "linking": [
+            "She is - She /ʃi/ の語末が is /ɪz/ へ流れる [ʃi ɪz] シー イズ",
+            "is rendering - is は弱形 /ɪz/；rendering へ /z/ が連結 [ɪz ˈrɛndərɪŋ] イズ レンダリング",
+            "the castle - the は弱形 /ðə/；castle の /k/ へ [ðə ˈkæsəl] ザ キャッスル",
+            "with stone - with の語末 /θ/ が stone の /s/ に続く；未開放で接続 [wɪθ stoʊn] ウィス ストウン"
+          ],
+          "kana": "シー イズ レンダリング ザ キャッスル ウォールズ ウィス ストウン アンド ウッド"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was rendering",
+      "ipa": "/wəz ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "The graphics were rendering very slowly because of the high resolution setting.",
+          "ja": "高い解像度設定のため、グラフィックスは非常に遅くレンダリングしていました。",
+          "ipa": "[ðə ˈɡræfɪks wɚ ˈrɛndərɪŋ ˈvɛri ˈsloʊli bɪˈkɔz əv ðə ˈhaɪ ˌrɛzəˈluʃən ˈsɛtɪŋ]",
+          "linking": [
+            "The graphics - the は弱形 /ðə/；graphics の /g/ へ [ðə ˈɡræfɪks] ザ グラフィックス",
+            "graphics were - graphics の語末 /s/ が were へ続く；were は弱形 /wɚ/ [ˈɡræfɪks wɚ] グラフィックス ワー",
+            "were rendering - were は弱形 /wɚ/；rendering へ /w/ が続き、/ɚ/ が連結 [wɚ ˈrɛndərɪŋ] ワー レンダリング",
+            "of the - of は弱形 /əv/；the は弱形 /ðə/ [əv ðə] アヴ ザ"
+          ],
+          "kana": "ザ グラフィックス ワー レンダリング ベリー スロウリー ビコーズ アヴ ザ ハイ レゾリューション セッティング"
+        },
+        {
+          "en": "While the server was rendering, we explored the new biome area.",
+          "ja": "サーバーがレンダリングしている間、私たちは新しいバイオーム地域を探索しました。",
+          "ipa": "[waɪl ðə ˈsɝvɚ wəz ˈrɛndərɪŋ wi ɪkˈsploʊrd ðə ˈnu baɪˈoʊm ˈɛriə]",
+          "linking": [
+            "the server - the は弱形 /ðə/；server の /s/ へ [ðə ˈsɝvɚ] ザ サーバー",
+            "server was - server の語末 /ɚ/ が was へ連結；was は弱形 /wəz/ [ˈsɝvɚ wəz] サーバー ワズ",
+            "was rendering - was は弱形 /wəz/；rendering へ /z/ が連結、/ɚ/ が続く [wəz ˈrɛndərɪŋ] ワズ レンダリング",
+            "the new - the は弱形 /ðə/；new の /n/ へ [ðə ˈnu] ザ ニュー"
+          ],
+          "kana": "ワイル ザ サーバー ワズ レンダリング ウィー エクスプロアード ザ ニュー バイオーム エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been rendering",
+      "ipa": "/ˈhæd bɪn ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "The server had been rendering new terrain features for an hour before it finally loaded.",
+          "ja": "サーバーが1時間新しい地形機能をレンダリングしていた後、ようやく読み込まれました。",
+          "ipa": "[ðə ˈsɝvɚ ˈhæd bɪn ˈrɛndərɪŋ ˈnu ˈtɛɹən ˈfitʃɚz fər ən ˈaʊɚ bɪˈfɔr ɪt ˈfaɪnəli ˈloʊdəd]",
+          "linking": [
+            "The server - the は弱形 /ðə/；server の /s/ へ [ðə ˈsɝvɚ] ザ サーバー",
+            "server had - server の語末 /ɚ/ が had へ連結 [ˈsɝvɚ ˈhæd] サーバー ハッド",
+            "had been - had の語末 /d/ が been へ続く；been は弱形 /bɪn/、未開放で接続 [ˈhæd bɪn] ハッド ビン",
+            "for an - for は弱形 /fər/；an の弱形 /ən/ へ /r/ が連結 [fər ən] ファー アン"
+          ],
+          "kana": "ザ サーバー ハッド ビン レンダリング ニュー テレイン フィーチャーズ ファー アン アワー ビフォア イット ファイナリー ロウディッド"
+        },
+        {
+          "en": "They had been rendering the resource pack textures for weeks before releasing the update.",
+          "ja": "彼らはアップデートをリリースする前に数週間リソースパックのテクスチャをレンダリングしていました。",
+          "ipa": "[ðeɪ ˈhæd bɪn ˈrɛndərɪŋ ðə ˈrɛsɔɹs pæk ˈtɛkstʃɚz fər wiks bɪˈfɔr rɪˈlisɪŋ ðə əpˈdeɪt]",
+          "linking": [
+            "They had - they の語末 /eɪ/ が had へ続く [ðeɪ ˈhæd] ゼイ ハッド",
+            "had been - had の語末 /d/ が been へ続く；been は弱形 /bɪn/、未開放で接続 [ˈhæd bɪn] ハッド ビン",
+            "been rendering - been の語末 /n/ が rendering へ続く；/n/ は鼻音 [bɪn ˈrɛndərɪŋ] ビン レンダリング",
+            "the resource - the は弱形 /ðə/；resource の /r/ へ [ðə ˈrɛsɔɹs] ザ レソース"
+          ],
+          "kana": "ゼイ ハッド ビン レンダリング ザ レソース パック テクスチャーズ ファー ウィークス ビフォア リリーシング ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has rendered",
+      "ipa": "/həz ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "I have rendered this fortress with reinforced stone and dark oak timber, making it look strong and imposing.",
+          "ja": "私はこの要塞を補強された石とダークオークの木材でレンダリングしており、強そうで印象的に見えています。",
+          "ipa": "[aɪ ˈhæv ˈrɛndərd ðɪs ˈfɔɹtɪs wɪð ˌrɪnˈfɔɹst stoʊn ənd dɑɹk ˈoʊk ˈtɪmbɚ ˈmeɪkɪŋ ɪt ˈlʊk ˈstɹɔŋ ənd ɪmˈpoʊzɪŋ]",
+          "linking": [
+            "have rendered - have は弱形 /həv/；rendered /ˈrɛndərd/ へ /v/ が連結 [həv ˈrɛndərd] ハヴ レンダード",
+            "rendered this - rendered の語末 /d/ が this の /ð/ に未開放で接続 [ˈrɛndərd ðɪs] レンダード ディス",
+            "fortress with - fortress の語末 /s/ が with の /w/ に続く；未開放 [ˈfɔɹtɪs wɪð] フォーティス ウィス",
+            "stone and - stone の語末 /n/ が and の /ə/ に続き；and は弱形 /ən/ [stoʊn ənd] ストウン アンド"
+          ],
+          "kana": "アイ ハヴ レンダード ディス フォーティス ウィス リインフォースト ストウン アンド ダーク オウク ティンバー メイキング イット ルック ストロング アンド インポウジング"
+        },
+        {
+          "en": "The designers have rendered every cave system with detailed stalactites and unique geological formations.",
+          "ja": "デザイナーたちは、すべての洞窟システムを詳細なつらら石と独特の地質学的な構造でレンダリングしました。",
+          "ipa": "[ðə dɪˈzaɪnɚz ˈhæv ˈrɛndərd ˈɛvɹi ˈkeɪv ˈsɪstəm wɪð dɪˈteɪld stəˈlæktaɪts ənd juˈnik dʒiːəˈlɑdʒɪkəl fɔɹˈmeɪʃənz]",
+          "linking": [
+            "designers have - designers の語末 /z/ が have へ連結；have は弱形 /həv/ [dɪˈzaɪnɚz həv] ディザイナーズ ハヴ",
+            "have rendered - have は弱形 /həv/；rendered へ /v/ が連結 [həv ˈrɛndərd] ハヴ レンダード",
+            "rendered every - rendered の語末 /d/ が every の /ɛ/ に連結 [ˈrɛndərd ˈɛvɹi] レンダード エヴリ",
+            "with detailed - with の語末 /θ/ が detailed へ続く；未開放で接続 [wɪθ dɪˈteɪld] ウィス ディテイルド"
+          ],
+          "kana": "ザ ディザイナーズ ハヴ レンダード エヴリ ケイヴ システム ウィス ディテイルド スタラクタイツ アンド ユニーク ジオロジカル フォーメイションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had rendered",
+      "ipa": "/həd ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "Before the server crashed, we had rendered the entire coastline with custom beach textures and driftwood.",
+          "ja": "サーバーがクラッシュする前に、私たちはカスタムビーチテクスチャと流木で海岸線全体をレンダリングしていました。",
+          "ipa": "[bɪˈfɔr ðə ˈsɝvɚ kræʃt wi ˈhæd ˈrɛndərd ðə ɪnˈtaɪɚ ˈkoʊstˌlaɪn wɪð ˈkʌstəm ˈbitʃ ˈtɛkstʃɚz ənd ˈdrɪftˌwʊd]",
+          "linking": [
+            "Before the - before の語末 /r/ が the の弱形 /ðə/ に連結 [bɪˈfɔr ðə] ビフォア ザ",
+            "had rendered - had の語末 /d/ が rendered へ未開放で接続；rendered は /ˈrɛndərd/ [ˈhæd ˈrɛndərd] ハッド レンダード",
+            "rendered the - rendered の語末 /d/ が the の弱形 /ðə/ に連結 [ˈrɛndərd ðə] レンダード ザ",
+            "with custom - with の語末 /θ/ が custom へ続く；未開放で接続 [wɪθ ˈkʌstəm] ウィス カスタム"
+          ],
+          "kana": "ビフォア ザ サーバー クラッシュド ウィー ハッド レンダード ザ インタイアー コウストライン ウィス カスタム ビーチ テクスチャーズ アンド ドリフトウッド"
+        },
+        {
+          "en": "By the time the patch was released, the team had rendered all the new enchantment effects with stunning visuals.",
+          "ja": "パッチがリリースされるまでに、チームはすべての新しいエンチャント効果を見事なビジュアルでレンダリングしていました。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈpætʃ wəz rɪˈlist ðə ˈtim ˈhæd ˈrɛndərd ˈɔl ðə ˈnu ɪnˈtʃɑntmənt ɪˈfɛkts wɪð ˈstʌndɪŋ ˈvɪʒuəlz]",
+          "linking": [
+            "by the - by の語末 /aɪ/ が the へ続く [baɪ ðə] バイ ザ",
+            "had rendered - had の語末 /d/ が rendered へ未開放で接続 [ˈhæd ˈrɛndərd] ハッド レンダード",
+            "rendered all - rendered の語末 /d/ が all の /ɔ/ に連結 [ˈrɛndərd ˈɔl] レンダード オール",
+            "with stunning - with の語末 /θ/ が stunning へ続く；未開放で接続 [wɪθ ˈstʌndɪŋ] ウィス スタンディング"
+          ],
+          "kana": "バイ ザ タイム ザ パッチ ワズ リリースト ザ ティーム ハッド レンダード オール ザ ニュー インチャントメント イフェクツ ウィス スタンディング ヴィジュアルズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been rendering",
+      "ipa": "/həz bɪn ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "The artist has been rendering intricate details on the main hall's ceiling for three weeks straight.",
+          "ja": "アーティストはメインホールの天井に複雑な詳細をレンダリングしている状態が3週間続いています。",
+          "ipa": "[ðə ˈɑɹtɪst ˈhæz bɪn ˈrɛndərɪŋ ɪnˈtrɪkət dɪˈteɪlz ɑn ðə ˈmeɪn hɔl's ˈsilɪŋ fər ˈθri wiks ˈstɹeɪt]",
+          "linking": [
+            "has been - has は弱形 /həz/；been は弱形 /bɪn/、/z/ が連結 [həz bɪn] ハズ ビン",
+            "been rendering - been の語末 /n/ が rendering へ続く；鼻音連結 [bɪn ˈrɛndərɪŋ] ビン レンダリング",
+            "on the - on の語末 /n/ が the へ続く；the は弱形 /ðə/ [ɑn ðə] オン ザ",
+            "hall's ceiling - hall's の語末 /z/ が ceiling へ続く；未開放で接続 [hɔlz ˈsilɪŋ] ホールズ シーリング"
+          ],
+          "kana": "ザ アーティスト ハズ ビン レンダリング イントリケット ディテイルズ オン ザ メイン ホールズ シーリング ファー スリー ウィークス ストレイト"
+        },
+        {
+          "en": "Our server has been rendering the landscape with seasonal weather effects since the winter update.",
+          "ja": "私たちのサーバーは冬のアップデート以来、季節の天気エフェクトで風景をレンダリングしている状態が続いています。",
+          "ipa": "[ˈaʊɚ ˈsɝvɚ ˈhæz bɪn ˈrɛndərɪŋ ðə ˈlændskeɪp wɪð ˈsiːzənəl ˈwɛðɚ ɪˈfɛkts sɪns ðə ˈwɪntɚ əpˈdeɪt]",
+          "linking": [
+            "has been - has は弱形 /həz/；been は弱形 /bɪn/、/z/ が連結 [həz bɪn] ハズ ビン",
+            "been rendering - been の語末 /n/ が rendering へ続く；鼻音連結 [bɪn ˈrɛndərɪŋ] ビン レンダリング",
+            "rendering the - rendering の語末 /ŋ/ が the へ続く；the は弱形 /ðə/ [ˈrɛndərɪŋ ðə] レンダリング ザ",
+            "since the - since の語末 /s/ が the へ続く；the は弱形 /ðə/ [sɪns ðə] シンス ザ"
+          ],
+          "kana": "アワー サーバー ハズ ビン レンダリング ザ ランドスケイプ ウィス シーズナル ウェザー イフェクツ シンス ザ ウィンター アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will render",
+      "ipa": "/wɪl ˈrɛndər/",
+      "examples": [
+        {
+          "en": "I will render this castle design in the creative world before we begin the survival challenge.",
+          "ja": "サバイバルチャレンジを始める前に、創作モードでこの城のデザインをレンダリングします。",
+          "ipa": "[aɪ wɪl ˈrɛndər ðɪs ˈkæsəl dɪˈzaɪn ɪn ðə kriːˈeɪtɪv wɝld bɪˈfɔr wi bɪˈɡɪn ðə sɚˈvaɪvəl ˈtʃælɪndʒ]",
+          "linking": [
+            "I will - I の語末 /aɪ/ が will へ続く；will は弱形 /wəl/ [aɪ wəl] アイ ウル",
+            "will render - will の /l/ が render の /r/ へ続く；弱形連結 [wəl ˈrɛndər] ウル レンダー",
+            "render this - render の語末 /ər/ が this へ連結；this の /ð/ [ˈrɛndər ðɪs] レンダー ディス",
+            "creative world - creative の語末 /v/ が world へ続く；未開放で接続 [kriːˈeɪtɪv wɝld] クリエイティヴ ワールド"
+          ],
+          "kana": "アイ ウル レンダー ディス キャッスル ディザイン イン ザ クリエイティヴ ワールド ビフォア ウィー ビギン ザ サーヴァイヴル チャレンジ"
+        },
+        {
+          "en": "They will render the fortress walls with stone bricks and dark oak to make it look imposing.",
+          "ja": "彼らは要塞の壁を石レンガとダークオークでレンダリングして、威圧的に見えるようにします。",
+          "ipa": "[ðeɪ wɪl ˈrɛndər ðə ˈfɔɹtɪs wɔlz wɪð stoʊn brɪks ənd dɑɹk ˈoʊk tu ˈmeɪk ɪt ˈlʊk ɪmˈpoʊzɪŋ]",
+          "linking": [
+            "They will - They の語末 /eɪ/ が will へ続く；will は弱形 /wəl/ [ðeɪ wəl] ゼイ ウル",
+            "will render - will の /l/ が render の /ɛ/ に連結 [wəl ˈrɛndər] ウル レンダー",
+            "render the - render の語末 /ər/ が the の弱形 /ðə/ に連結 [ˈrɛndər ðə] レンダー ザ",
+            "stone bricks - stone の語末 /n/ が bricks へ続く；bricks の /b/ に [stoʊn brɪks] ストウン ブリックス"
+          ],
+          "kana": "ゼイ ウル レンダー ザ フォーティス ウォールズ ウィス ストウン ブリックス アンド ダーク オウク トゥー メイク イット ルック インポウジング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be rendering",
+      "ipa": "/wɪl bi ˈrɛndərɪŋ/",
+      "examples": [
+        {
+          "en": "While the update downloads, the graphics engine will be rendering the new biome terrain in the background.",
+          "ja": "アップデートがダウンロードしている間、グラフィックスエンジンはバックグラウンドで新しいバイオームの地形をレンダリングしています。",
+          "ipa": "[waɪl ðə əpˈdeɪt ˈdaʊnloʊdz ðə ˈɡræfɪks ˈɛndʒən wɪl bi ˈrɛndərɪŋ ðə ˈnu baɪˈoʊm ˈtɛɹən ɪn ðə ˈbækɡraʊnd]",
+          "linking": [
+            "While the - While の語末 /l/ が the の /ð/ に続く；the は弱形 /ðə/ [waɪl ðə] ワイル ザ",
+            "will be - will は弱形 /wəl/；be は弱形 /bi/、/l/ が /b/ に続く [wəl bi] ウル ビー",
+            "be rendering - be の /i/ が rendering へ流れる；rendering の語末 /ŋ/ へ [bi ˈrɛndərɪŋ] ビー レンダリング",
+            "in the - in の語末 /n/ が the へ続く；the は弱形 /ðə/ [ɪn ðə] イン ザ"
+          ],
+          "kana": "ワイル ザ アップデイト ダウンロウズ ザ グラフィックス エンジン ウル ビー レンダリング ザ ニュー バイオーム テレイン イン ザ バックグラウンド"
+        },
+        {
+          "en": "When you join the server tomorrow, she will be rendering custom textures for the new structures.",
+          "ja": "明日サーバーに参加するとき、彼女は新しい構造のためのカスタムテクスチャをレンダリングしている最中です。",
+          "ipa": "[wɛn ju dʒɔɪn ðə ˈsɝvɚ təˈmɑroʊ ʃi wɪl bi ˈrɛndərɪŋ ˈkʌstəm ˈtɛkstʃɚz fər ðə ˈnu ˈstrʌktʃɚz]",
+          "linking": [
+            "you join - you の語末 /u/ が join へ流れる；/j/ が次に続く [ju dʒɔɪn] ユー ジョイン",
+            "will be - will は弱形 /wəl/；be は弱形 /bi/、/l/ が /b/ に続く [wəl bi] ウル ビー",
+            "be rendering - be の /i/ が rendering へ流れる [bi ˈrɛndərɪŋ] ビー レンダリング",
+            "for the - for は弱形 /fər/；the は弱形 /ðə/、/r/ が連結 [fər ðə] ファー ザ"
+          ],
+          "kana": "ウェン ユー ジョイン ザ サーバー トゥモロウ シー ウル ビー レンダリング カスタム テクスチャーズ ファー ザ ニュー ストラクチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have rendered",
+      "ipa": "/wɪl ˈhæv ˈrɛndərd/",
+      "examples": [
+        {
+          "en": "By next Friday, we will have rendered all the custom blocks needed for the mega-base construction.",
+          "ja": "来週の金曜日までに、メガベースの建設に必要なすべてのカスタムブロックをレンダリングし終わります。",
+          "ipa": "[baɪ ˈnɛkst ˈfraɪdeɪ wi wɪl ˈhæv ˈrɛndərd ˈɔl ðə ˈkʌstəm ˈblɑks ˈnidəd fər ðə ˈmeɪɡə ˈbeɪs kənˈstrʌkʃən]",
+          "linking": [
+            "By next - by の語末 /aɪ/ が next へ続く；/ɛ/ に流れる [baɪ ˈnɛkst] バイ ネクスト",
+            "will have - will は弱形 /wəl/；have は弱形 /həv/、/l/ が /h/ に続く [wəl ˈhæv] ウル ハヴ",
+            "have rendered - have の /ə/ が rendered へ連結；rendered は /ˈrɛndərd/ [ˈhæv ˈrɛndərd] ハヴ レンダード",
+            "for the - for は弱形 /fər/；the は弱形 /ðə/、/r/ が連結 [fər ðə] ファー ザ"
+          ],
+          "kana": "バイ ネクスト フライデイ ウィー ウル ハヴ レンダード オール ザ カスタム ブロックス ニーデッド ファー ザ メガ ベイス コンストラクション"
+        },
+        {
+          "en": "The dev team will have rendered every dungeon variation and cave system before the patch launches.",
+          "ja": "パッチがリリースされる前に、開発チームはすべてのダンジョンバリエーションと洞窟システムをレンダリングし終わります。",
+          "ipa": "[ðə ˈdɛv tim wɪl ˈhæv ˈrɛndərd ˈɛvɹi ˈdʌndʒən ˌvæɹiˈeɪʃən ənd ˈkeɪv ˈsɪstəm bɪˈfɔr ðə ˈpætʃ ˈlɔntʃɪz]",
+          "linking": [
+            "dev team - dev の語末 /v/ が team へ続く；/t/ に未開放で接続 [ˈdɛv tim] デヴ ティーム",
+            "will have - will は弱形 /wəl/；have は弱形 /həv/、/l/ が /h/ に続く [wəl ˈhæv] ウル ハヴ",
+            "have rendered - have の /ə/ が rendered へ連結 [ˈhæv ˈrɛndərd] ハヴ レンダード",
+            "before the - before の語末 /r/ が the へ連結；the は弱形 /ðə/ [bɪˈfɔr ðə] ビフォア ザ"
+          ],
+          "kana": "ザ デヴ ティーム ウル ハヴ レンダード エヴリ ダンジョン バリエーション アンド ケイヴ システム ビフォア ザ パッチ ローンチィズ"
+        }
+      ]
+    }
+  ]
+}

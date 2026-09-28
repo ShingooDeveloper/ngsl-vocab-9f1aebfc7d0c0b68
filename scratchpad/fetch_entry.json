@@ -1,0 +1,477 @@
+{
+  "word": "fetch",
+  "pos": "動詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/fetʃ/",
+  "rank": 0,
+  "level": "A2",
+  "hi": "fetch(?:es|ed|ing)?",
+  "meanings": [
+    "【動詞】〜を取ってくる、持ってくる（…to go and get something and bring it back…）",
+    "【動詞】（商品が）〜の値段で売れる、〜の値段がする（…to sell for a particular price…）",
+    "【名詞】取ってくる行為、持ってきた物（…the act of fetching or something fetched…）"
+  ],
+  "examples": [
+    {
+      "en": "Go fetch some wood for the furnace!",
+      "ja": "かまどのために木を取ってきて！",
+      "ipa": "[ɡoʊ ˈfɛtʃ səm wʊd fɔr ðə ˈfɝːnɪs]",
+      "linking": [
+        "some の弱形 /səm/ が /w/ の前で短縮",
+        "furnace の /s/ が弱化し /s/ で終わる一音",
+        "for the の /r/ が母音 /ðə/ に連結し the は弱形 /ðə/"
+      ],
+      "kana": "ゴー フェッチ サム ウッド フォー ザ ファーニス"
+    },
+    {
+      "en": "I fetched iron ore from the mine.",
+      "ja": "私は鉱山から鉄鉱石を取ってきました。",
+      "ipa": "[aɪ ˈfɛtʃt ˈaɪrən ˈɔr frəm ðə maɪn]",
+      "linking": [
+        "fetched の /tʃt/ が複合音で後続の /ˈaɪ/ へ、t が未開放で詰まる音に",
+        "ore の /r/ が語末なので /r/ coloring で /ɔr/",
+        "from the の /m/ が弱形 the /ðə/ に連結 [frəm ðə]"
+      ],
+      "kana": "アイ フェッチ アイアン オア フラム ザ マイン"
+    },
+    {
+      "en": "That enchanted sword fetches a great price.",
+      "ja": "その魔法の剣はいい値段で売れます。",
+      "ipa": "[ðæt ɪnˈtʃɑntɪd sɔrd ˈfɛtʃɪz ə ɡreɪt praɪs]",
+      "linking": [
+        "fetches a の /z/ が弱形 /ə/ に連結 [ˈfɛtʃɪz ə] → [ˈfɛtʃəzə]",
+        "the → great で /ə/ が /ɡ/ に続き弱形",
+        "sword の /d/ が /f/ の前で未開放 [sɔrd̚]"
+      ],
+      "kana": "ザット インチャンティド ソード フェッチーズ ア グレイト プライス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "fetch water",
+      "ja": "水を汲む、水を取ってくる",
+      "example": "We need to fetch water from the river for our base.",
+      "example_ja": "基地のために川から水を取ってくる必要があります。",
+      "ipa": "[wi niːd tə ˈfɛtʃ ˈwɔɾər frəm ðə ˈrɪvər fɔr ˈaʊr beɪs]",
+      "linking": [
+        "need to の /d/ が弱形 to /tə/ に連結",
+        "fetch water の /tʃ/ が /w/ の後ろで、water の t がフラップ化 [ˈwɔɾər]",
+        "river for の /r/ が /f/ に前置詞で弱化"
+      ],
+      "kana": "ウィー ニード タ フェッチ ウォーラー フラム ザ リヴァー フォー アワー ベイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "fetches",
+      "ipa": "/ˈfɛtʃɪz/",
+      "examples": [
+        {
+          "en": "The hopper fetches items from the input slot very quickly.",
+          "ja": "ホッパーは入力スロットからアイテムを素早く取ってきます。",
+          "ipa": "[ðə ˈhɑpɚ ˈfɛtʃɪz ˈaɪtəmz frəm ðə ˈɪnpʊt slɑt ˈvɛri ˈkwɪkli]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。hopper に連結 [ðə ˈhɑpɚ]",
+            "fetches items の /z/ が items の /aɪ/ に連結 [ˈfɛtʃɪz aɪtəmz]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ザ ハッパー フェッチーズ アイテムズ フラム ザ インプット スロット ヴェリ クウィックリ"
+        },
+        {
+          "en": "This command fetches all player data from the server instantly.",
+          "ja": "このコマンドはサーバーからすべてのプレイヤーデータを即座に取ってきます。",
+          "ipa": "[ðɪs ˈkɑmænd ˈfɛtʃɪz ˈɔl ˈpleɪər ˈdeɪtə frəm ðə ˈsɚvər ˈɪnstəntli]",
+          "linking": [
+            "command fetches の /d/ が fetches の /f/ の前で未開放 [ˈkɑmæn̚d ˈfɛtʃɪz]",
+            "fetches all の /z/ が all の /ɔ/ に連結 [ˈfɛtʃɪz ɔl]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ディス コマンド フェッチーズ オール プレイアー デイタ フラム ザ サーヴァー インスタントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "fetched",
+      "ipa": "/ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "I fetched iron ore from the deep cave yesterday.",
+          "ja": "昨日、深い洞窟から鉄鉱石を取ってきました。",
+          "ipa": "[aɪ ˈfɛtʃt ˈaɪrən ˈɔr frəm ðə ˈdip keɪv ˈjɛstərdi]",
+          "linking": [
+            "fetched iron の /tʃt/ が iron の /aɪ/ に続き、/t/ が未開放で詰まる [ˈfɛtʃt̚ ˈaɪrən]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "アイ フェッチ アイアン オー フラム ザ ディープ ケイブ イェスターデイ"
+        },
+        {
+          "en": "We fetched supplies and materials for the expansion project.",
+          "ja": "拡張プロジェクト用に供給品と材料を取ってきました。",
+          "ipa": "[wi ˈfɛtʃt səˈplaɪz ənd məˈtɪriəlz fɔr ðə ɪkˈspænʃən ˈprɑdʒɛkt]",
+          "linking": [
+            "fetched supplies の /t/ が supplies の /s/ の前で未開放 [ˈfɛtʃt̚ səˈplaɪz]",
+            "and は機能語で弱形 /ənd/。materials に連結",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "ウィー フェッチ サプライズ アンド マテリアルズ フォー ザ イクスパンション プロジェクト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "fetched",
+      "ipa": "/ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "The resources fetched from the mine were used for crafting tools.",
+          "ja": "鉱山から取ってきたリソースはツール作成に使われました。",
+          "ipa": "[ðə ˈrɛsɚsɪz ˈfɛtʃt frəm ðə maɪn wɚ ˈjuzd fɔr ˈkræftɪŋ ˈtulz]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/。resources に連結 [ðə ˈrɛsɚsɪz]",
+            "fetched from の /t/ が from の /f/ の前で未開放 [ˈfɛtʃt̚ frəm]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]",
+            "for の /r/ が弱化"
+          ],
+          "kana": "ザ レソースィーズ フェッチ フラム ザ マイン ワー ユースド フォー クラフティング トゥールズ"
+        },
+        {
+          "en": "Having fetched all the materials, we immediately started the construction.",
+          "ja": "すべての材料を取ってきたので、すぐに建設を始めました。",
+          "ipa": "[ˈheɪvɪŋ ˈfɛtʃt ˈɔl ðə məˈtɪriəlz wi ɪˈmɛdʒətli ˈstɑrtɪd ðə kənˈstrʌkʃən]",
+          "linking": [
+            "all the の /l/ が weak form the /ðə/ に連結 [ˈɔl ðə]",
+            "started the の /d/ が weak form the /ðə/ の前で未開放 [ˈstɑrtɪd̚ ðə]"
+          ],
+          "kana": "ヘイヴィング フェッチ オール ザ マテリアルズ ウィー イメディアトリー スターティド ザ コンストラクション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "fetching",
+      "ipa": "/ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "While fetching supplies from the storage, I spotted rare diamonds in the walls.",
+          "ja": "ストレージから供給品を取ってきている間に、壁に珍しいダイヤモンドを見つけました。",
+          "ipa": "[waɪl ˈfɛtʃɪŋ səˈplaɪz frəm ðə ˈstɔrɪdʒ aɪ ˈspɑɾɪd ˈrɛr ˈdaɪmənz ɪn ðə wɔlz]",
+          "linking": [
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]",
+            "in the の /n/ が weak form the /ðə/ に連結 [ɪn ðə]"
+          ],
+          "kana": "ワイル フェッチング サプライズ フラム ザ ストレッジ アイ スポリド レア ダイマンズ イン ザ ウォールズ"
+        },
+        {
+          "en": "Fetching items is the main function of this redstone contraption.",
+          "ja": "アイテムを取ってくることはこのレッドストーン装置の主な機能です。",
+          "ipa": "[ˈfɛtʃɪŋ ˈaɪtəmz ɪz ðə ˈmeɪn ˈfʌŋkʃən əv ðɪs ˈrɛdˌstoʊn kənˈtræpʃən]",
+          "linking": [
+            "fetching が items の /aɪ/ に連結 [ˈfɛtʃɪŋ ˈaɪtəmz]",
+            "is の /z/ が the の弱形 /ðə/ に連結 [ɪz ðə]",
+            "of the の /v/ が weak form the /ðə/ に連結 [əv ðə]"
+          ],
+          "kana": "フェッチング アイテムズ イズ ザ メイン ファンクション アヴ ディス レッドストーン コントラプション"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "fetches",
+      "ipa": "/ˈfɛtʃɪz/",
+      "examples": [
+        {
+          "en": "Multiple fetches from different locations ensure efficiency in our inventory system.",
+          "ja": "異なる場所からの複数回の取得は、私たちのインベントリシステムの効率を保証します。",
+          "ipa": "[ˈmʌltɪpəl ˈfɛtʃɪz frəm ˈdɪfərənt ləˈkeɪʃənz ɛnˈʃɝː ɪˈfɪʃənsi ɪn ˈaʊər ɪnˈvɛntri ˈsɪstəm]",
+          "linking": [
+            "from different の /m/ が /d/ に先行（子音同士、通常の連結ではない）",
+            "locations ensure の /z/ が /ɛ/ に連結 [ləˈkeɪʃənz ɛnˈʃɝː]",
+            "in our の /n/ が /aʊ/ に連結 [ɪn ˈaʊər]"
+          ],
+          "kana": "マルチプル フェッチーズ フラム ディファレント ロケイションズ エンシュア イフィシェンシー イン アワー インヴェントリー システム"
+        },
+        {
+          "en": "These rapid fetches improve the hopper's throughput significantly.",
+          "ja": "これらの高速な取得はホッパーのスループットを大幅に改善します。",
+          "ipa": "[ðiːz ˈræpɪd ˈfɛtʃɪz ɪmˈpruːv ðə ˈhɑpərz ˈθruːpʊt sɪɡˈnɪfɪkəntli]",
+          "linking": [
+            "fetches improve の /z/ が improve の /ɪ/ に連結 [ˈfɛtʃɪz ɪmˈpruːv]",
+            "the は冠詞で弱形 /ðə/。hopper に連結 [ðə ˈhɑpərz]"
+          ],
+          "kana": "ディーズ ラッピド フェッチーズ インプルーブ ザ ハッパーズ スループット シグニフィカントリー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is fetching",
+      "ipa": "/ɪz ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper is fetching items from the chest very efficiently.",
+          "ja": "ホッパーはチェストからアイテムを非常に効率的に取ってきています。",
+          "ipa": "[ðə ˈhɑpɚ ɪz ˈfɛtʃɪŋ ˈaɪtəmz frəm ðə tʃɛst ˈvɛri ɪˈfɪʃəntli]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、hopper に連結 [ðə ˈhɑpɚ]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ザ ハッパー イズ フェッチング アイテムズ フラム ザ チェスト ヴェリ イフィシェントリー"
+        },
+        {
+          "en": "Steve is fetching coal from the deep mine right now.",
+          "ja": "スティーブは今、深い鉱山から石炭を取ってきています。",
+          "ipa": "[ˈstiv ɪz ˈfɛtʃɪŋ ˈkoʊl frəm ðə ˈdip maɪn ˈraɪt naʊ]",
+          "linking": [
+            "is の弱形 /ɪz/、fetching の /f/ に続く（子音同士）",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "スティーヴ イズ フェッチング コール フラム ザ ディープ マイン ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was fetching",
+      "ipa": "/wəz ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was fetching wood when a creeper suddenly appeared.",
+          "ja": "木を取ってきていたとき、クリーパーが突然現れました。",
+          "ipa": "[aɪ wəz ˈfɛtʃɪŋ wʊd wɛn ə ˈkriːpɚ səˈdɛnli əˈpɪrd]",
+          "linking": [
+            "was の弱形 /wəz/、fetching へ続く（子音同士）",
+            "a creeper の弱形 /ə/ が creeper の /k/ に連結 [ə ˈkriːpɚ]"
+          ],
+          "kana": "アイ ワズ フェッチング ウッド ウェン ア クリーパー サドゥンリー アピアード"
+        },
+        {
+          "en": "While the miners were fetching supplies, the sun went down.",
+          "ja": "鉱夫たちが供給品を取ってきている間に、太陽が沈みました。",
+          "ipa": "[waɪl ðə ˈmaɪnərz wɚ ˈfɛtʃɪŋ səˈplaɪz ðə sʌn wɛnt ˈdaʊn]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、miners に連結 [ðə ˈmaɪnərz]",
+            "were の弱形 /wɚ/、fetching へ続く（子音同士）"
+          ],
+          "kana": "ワイル ザ マイナーズ ワー フェッチング サプライズ ザ サン ウェント ダウン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has fetched",
+      "ipa": "/həz ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "I have fetched enough obsidian from the Nether for our portal.",
+          "ja": "私はポータル用にネザーから十分なオブシディアンを持ってきました。",
+          "ipa": "[aɪ həv ˈfɛtʃt ɪˈnʌf ɑbˈsɪdiən frəm ðə ˈnɛðər fɔr ˈaʊər ˈpɔɾəl]",
+          "linking": [
+            "have は機能語で弱形 /həv/ に弱化",
+            "fetched の /t/ が enough に続き、/t/ が未開放で詰まる [ˈfɛtʃt̚ ɪˈnʌf]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "アイ ハヴ フェッチ イナフ オブシディアン フラム ザ ネザー フォー アワー ポーラル"
+        },
+        {
+          "en": "She has fetched all the rare materials from the deep underground caves.",
+          "ja": "彼女は地下深い洞窟からすべてのレアな材料を持ってきました。",
+          "ipa": "[ʃi həz ˈfɛtʃt ɔl ðə ˈrɛr məˈtɪriəlz frəm ðə ˈdip ˈʌndərɡraʊnd ˈkeɪvz]",
+          "linking": [
+            "has は機能語で弱形 /həz/ に弱化",
+            "all the の /l/ が weak form the /ðə/ に連結 [ˈɔl ðə]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "シー ハズ フェッチ オール ザ レア マテリアルズ フラム ザ ディープ アンダーグラウンド ケイヴズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had fetched",
+      "ipa": "/həd ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "By noon, we had fetched enough wood and stone for the foundation.",
+          "ja": "正午までに、基礎用に十分な木と石を持ってきていました。",
+          "ipa": "[baɪ ˈnun wi həd ˈfɛtʃt ɪˈnʌf ˈwʊd ənd ˈstoʊn fɔr ðə faʊnˈdeɪʃən]",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "and は機能語で弱形 /ənd/ に弱化、stone に連結",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "バイ ヌーン ウィー ハド フェッチ イナフ ウッド アンド ストーン フォー ザ ファウンデイション"
+        },
+        {
+          "en": "The miners had fetched hundreds of diamonds before the night creatures attacked.",
+          "ja": "夜間の生物が攻撃する前に、鉱夫たちは何百個のダイヤモンドを持ってきていました。",
+          "ipa": "[ðə ˈmaɪnərz həd ˈfɛtʃt ˈhʌndrədz əv ˈdaɪmənz bɪˈfɔr ðə ˈnaɪt ˈkriːtʃərz əˈtækt]",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "hundreds の /z/ が of の弱形 /əv/ に連結 [ˈhʌndrədz əv]",
+            "before the の /r/ が weak form the /ðə/ に連結 [bɪˈfɔr ðə]"
+          ],
+          "kana": "ザ マイナーズ ハド フェッチ ハンドレッズ アヴ ダイマンズ ビフォー ザ ナイト クリーチャーズ アタクト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been fetching",
+      "ipa": "/həz bɪn ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "He has been fetching supplies for the expansion all morning long.",
+          "ja": "彼は朝中、拡張用に物資を持ってき続けている。",
+          "ipa": "[hi həz bɪn ˈfɛtʃɪŋ səˈplaɪz fɔr ðə ɪkˈspænʃən ɔl ˈmɔrnɪŋ ˈlɔŋ]",
+          "linking": [
+            "has は機能語で弱形 /həz/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "ヒー ハズ ビン フェッチング サプライズ フォー ザ イクスパンション オール モーニング ロング"
+        },
+        {
+          "en": "The hopper has been fetching items from the input chest continuously.",
+          "ja": "ホッパーは入力チェストからアイテムを継続的に取ってき続けている。",
+          "ipa": "[ðə ˈhɑpɚ həz bɪn ˈfɛtʃɪŋ ˈaɪtəmz frəm ðə ˈɪnpʊt ˈtʃɛst kənˈtɪnjuəsli]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、hopper に連結 [ðə ˈhɑpɚ]",
+            "has は機能語で弱形 /həz/ に弱化、been の /b/ に続く",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ザ ハッパー ハズ ビン フェッチング アイテムズ フラム ザ インプット チェスト コンティニューアスリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been fetching",
+      "ipa": "/həd bɪn ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "I had been fetching diamonds for hours before the storm arrived.",
+          "ja": "嵐が到着する前に、私は何時間もダイヤモンドを取ってきていました。",
+          "ipa": "[aɪ həd bɪn ˈfɛtʃɪŋ ˈdaɪmənz fɚ ˈaʊərz bɪˈfɔr ðə ˈstɔrm əˈraɪvd]",
+          "linking": [
+            "had の弱形 /həd/、been の /b/ に未開放で連結 [həd̚ bɪn]",
+            "before the の /r/ が weak form the /ðə/ に連結 [bɪˈfɔr ðə]"
+          ],
+          "kana": "アイ ハッビン フェッチング ダイマンズ ファー アワーズ ビフォー ザ ストーム アライヴド"
+        },
+        {
+          "en": "By the time you logged in, we had been fetching resources all day.",
+          "ja": "あなたがログインしたとき、私たちは一日中リソースを取ってきていました。",
+          "ipa": "[baɪ ðə taɪm ju ˈlɑɡd ɪn wi həd bɪn ˈfɛtʃɪŋ ˈrɛsɚsɪz ɔl ˈdeɪ]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、time に連結 [ðə taɪm]",
+            "had の弱形 /həd/、been の /b/ に未開放で連結 [həd̚ bɪn]"
+          ],
+          "kana": "バイ ザ タイム ユー ロッギン ウィー ハッビン フェッチング レソースィーズ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will fetch",
+      "ipa": "/wɪl ˈfɛtʃ/",
+      "examples": [
+        {
+          "en": "I'll fetch more obsidian from the Nether for our portal gate.",
+          "ja": "私はネザーからポータルゲート用にもっとオブシディアンを取ってくるよ。",
+          "ipa": "[aɪl ˈfɛtʃ mɔr ɑbˈsɪdiən frəm ðə ˈnɛðər fɔr ˈaʊər ˈpɔrəl ˈɡeɪt]",
+          "linking": [
+            "I'll は I + will の縮約 /aɪl/、fetch の /f/ に連結 [aɪl ˈfɛtʃ]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]",
+            "for our の /r/ が /aʊ/ に連結 [fɔr ˈaʊər]"
+          ],
+          "kana": "アイル フェッチ モア アブシディアン フラム ザ ネザー フォー アワー ポーラル ゲイト"
+        },
+        {
+          "en": "They will fetch supplies and materials for the expansion later.",
+          "ja": "彼らは後で拡張用に物資と材料を取ってくるでしょう。",
+          "ipa": "[ðeɪ wɪl ˈfɛtʃ səˈplaɪz ənd məˈtɪriəlz fɔr ðə ɪkˈspænʃən ˈleɪtɚ]",
+          "linking": [
+            "will の /l/ が fetch の /f/ の前で未開放 [wɪl̚ ˈfɛtʃ]",
+            "and は機能語で弱形 /ənd/ に弱化、materials に連結",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "ザイ ウィル フェッチ サプライズ アンド マテリアルズ フォー ザ イクスパンション レイター"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be fetching",
+      "ipa": "/wɪl bi ˈfɛtʃɪŋ/",
+      "examples": [
+        {
+          "en": "While you explore the cave, I'll be fetching coal and iron from the mine.",
+          "ja": "あなたが洞窟を探索している間、私は鉱山から石炭と鉄を取ってくるでしょう。",
+          "ipa": "[waɪl ju ɪkˈsplɔr ðə keɪv aɪl bi ˈfɛtʃɪŋ ˈkoʊl ənd ˈaɪrən frəm ðə maɪn]",
+          "linking": [
+            "I'll be の /l/ が be の /b/ に連結 [aɪl bi]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "ワイル ユー イクスプロア ザ ケイヴ アイル ビー フェッチング コール アンド アイアン フラム ザ マイン"
+        },
+        {
+          "en": "They will be fetching resources all day while we build the base.",
+          "ja": "私たちが基地を建設する間、彼らは一日中リソースを取ってくるでしょう。",
+          "ipa": "[ðeɪ wɪl bi ˈfɛtʃɪŋ ˈrɛsɚsɪz ɔl ˈdeɪ waɪl wi bɪld ðə ˈbeɪs]",
+          "linking": [
+            "will be の /l/ が be の /b/ に連結 [wɪl bi]",
+            "while we の /l/ が /w/ に連結 [waɪl wi]",
+            "the は冠詞で弱形 /ðə/、base に連結 [ðə ˈbeɪs]"
+          ],
+          "kana": "ザイ ウィル ビー フェッチング レソースィーズ オール デイ ワイル ウィー ビルド ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have fetched",
+      "ipa": "/wɪl əv ˈfɛtʃt/",
+      "examples": [
+        {
+          "en": "By tomorrow morning, we will have fetched all the obsidian needed for the Nether portal.",
+          "ja": "明日の朝までに、ネザーポータル用に必要なすべてのオブシディアンを取ってきているでしょう。",
+          "ipa": "[baɪ təˈmɑroʊ ˈmɔrnɪŋ wi wɪl əv ˈfɛtʃt ɔl ðə ɑbˈsɪdiən ˈnidəd fɔr ðə ˈnɛðər ˈpɔrəl]",
+          "linking": [
+            "will have の /l/ が未開放、have は弱形 /əv/ に弱化 [wɪl̚ əv]",
+            "all the の /l/ が weak form the /ðə/ に連結 [ɔl ðə]",
+            "for the の /r/ が weak form the /ðə/ に連結 [fɔr ðə]"
+          ],
+          "kana": "バイ トゥモロー モーニング ウィー ウィラヴ フェッチ オール ザ アブシディアン ニーディド フォー ザ ネザー ポーラル"
+        },
+        {
+          "en": "By the time the hopper fills, it will have fetched hundreds of items from the input.",
+          "ja": "ホッパーが満杯になるまでに、入力スロットから数百個のアイテムを取ってきているでしょう。",
+          "ipa": "[baɪ ðə taɪm ðə ˈhɑpɚ ˈfɪlz ɪt wɪl əv ˈfɛtʃt ˈhʌndrədz əv ˈaɪtəmz frəm ðə ˈɪnpʊt]",
+          "linking": [
+            "the は冠詞で弱形 /ðə/、hopper に連結 [ðə ˈhɑpɚ]",
+            "will have の /l/ が未開放、have は弱形 /əv/ に弱化 [wɪl̚ əv]",
+            "hundreds の /z/ が of の弱形 /əv/ に連結 [ˈhʌndrədz əv]",
+            "from the の /m/ が weak form the /ðə/ に連結 [frəm ðə]"
+          ],
+          "kana": "バイ ザ タイム ザ ハッパー フィルズ イット ウィラヴ フェッチ ハンドレッズ アヴ アイテムズ フラム ザ インプット"
+        }
+      ]
+    }
+  ]
+}

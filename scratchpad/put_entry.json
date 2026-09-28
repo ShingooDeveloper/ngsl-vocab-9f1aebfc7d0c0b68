@@ -1,0 +1,392 @@
+{
+  "word": "put",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/pʊt/",
+  "rank": 138,
+  "level": "A2",
+  "hi": "put(?:s|ting|ted)?",
+  "meanings": [
+    "【動詞】（物を）ある場所に置く、配置する（place something in a location）",
+    "【動詞】（人やものを）ある状態・立場に置く、至らせる（put someone/something in a state or position）",
+    "【動詞】（考えや気持ちを）言葉で表す、述べる（express an idea or feeling in words）",
+    "【動詞】（ゲームで）ボールを打つ、投じる（hit or throw something in a game）",
+    "【名詞】（オプション取引における）売却権、プットオプション（a financial trading option）"
+  ],
+  "examples": [
+    {
+      "en": "Put the keys on the table.",
+      "ja": "鍵をテーブルの上に置いてください。",
+      "ipa": "/pʊt ðə ˈkiːz ɑn ðə ˈteɪbəl/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/。keys に連結。",
+        "on the は /ɑn ðə/ で弱く流れる。"
+      ],
+      "kana": "プット ザ キーズ アン ザ テイブル"
+    },
+    {
+      "en": "If you put your items in a chest, you can find them later.",
+      "ja": "アイテムをチェストに入れておけば、後で見つけられます。",
+      "ipa": "/ɪf ju ˈpʊɾɚ ˈaɪɾəmz ɪn ə ˈtʃɛst | ju kən ˈfaɪnd ðəm ˈleɪɾər/",
+      "linking": [
+        "put your → 語末の t が母音に挟まれてフラップ化し連結 [ˈpʊɾɚ] プラ",
+        "items → 母音間の t がフラップ化 [ˈaɪɾəmz] アイラムズ",
+        "in a → 弱形で [ɪn ə] イナ",
+        "can → 弱形で [kən] クン",
+        "them → 弱形で [ðəm] ダム",
+        "later → 母音間の t がフラップ化 [ˈleɪɾər] レイラー"
+      ],
+      "kana": "イフ ユ プラ アイラムズ イナ チェスト、ユ クン ファインド ダム レイラー"
+    },
+    {
+      "en": "Don't put mobs in your house or they will attack you.",
+      "ja": "モブを家に入れないでください、さもないと攻撃してきます。",
+      "ipa": "/ˈdoʊnt ˈpʊt ˈmoʊbz ɪn jɚ ˈhaʊs | ɔr ðeɪ wəl əˈtæk ju/",
+      "linking": [
+        "put mobs → 語末の t が子音 m の前で未開放 [ˈpʊt̚ ˈmoʊbz]",
+        "in your → [ɪn jɚ] イン ヤー",
+        "or they → [ɔr ðeɪ] アー ゼイ"
+      ],
+      "kana": "ドウント プッ モブズ イン ヤー ハウス、オー ゼイ ウル アタック ユー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "put on",
+      "ja": "（服や靴などを）身につける、着る",
+      "example": "Put on your diamond armor before you fight the Ender dragon.",
+      "example_ja": "エンダードラゴンと戦う前にダイヤモンドの防具を身につけてください。",
+      "ipa": "/ˈpʊt ɑn jɚ ˈdaɪmənd ˈɑrmɚ bɪˈfɔr ju ˈfaɪt ðə ˈɛndər ˈdræɡən/",
+      "linking": [
+        "put on は句動詞で自然に流れる",
+        "your → 弱形で [jɚ]",
+        "before の r が you の初頭に連結 [bɪˈfɔr ju]"
+      ],
+      "kana": "プット アン ヤー ダイモンド アーマー ビフォー ユー ファイト ザ エンダー ドラゴン"
+    },
+    {
+      "idiom": "put away",
+      "ja": "片付ける、しまう",
+      "example": "Put away the tools when you finish building.",
+      "example_ja": "建築が終わったら道具を片付けてください。",
+      "ipa": "/ˈpʊt əˈweɪ ðə ˈtulz wɛn ju ˈfɪnɪʃ ˈbɪldɪŋ/",
+      "linking": [
+        "put away は句動詞で流暢に。away の初頭は [əˈweɪ]",
+        "the は [ðə] ザ"
+      ],
+      "kana": "プット アウェイ ザ トゥールズ ウェン ユー フィニッシュ ビルディング"
+    },
+    {
+      "idiom": "put A in 〜",
+      "ja": "AをBの中に置く",
+      "example": "Put your diamonds in the storage chest before exploring the Nether.",
+      "example_ja": "ネザーを探索する前に、ダイヤモンドをストレージチェストに入れてください。",
+      "ipa": "/ˈpʊt jɚ ˈdaɪmənz ɪn ðə ˈstɔrɪdʒ ˈtʃɛst bɪˈfɔr ɪkˈsplɔrɪŋ ðə ˈnɛðər/",
+      "linking": [
+        "put your → 語末の t が母音に挟まれてフラップ化し連結 [ˈpʊɾɚ] プラ",
+        "in the → the は弱形 /ðə/ で続く [ɪn ðə] イナ ザ",
+        "storage の d が次の consonant に続き、before の f に連結"
+      ],
+      "kana": "プラ ダイモンズ イナ ザ ストレッジ チェスト ビフォー エクスプローリング ザ ネザー"
+    },
+    {
+      "idiom": "put A into B",
+      "ja": "AをBの中に入れる、AをBに挿入する",
+      "example": "Put a stack of diamonds into your inventory to keep them safe.",
+      "example_ja": "ダイヤモンドのスタックをインベントリに入れて、安全に保っておきましょう。",
+      "ipa": "/pʊt ə ˈstæk əv ˈdaɪmənds ˈɪntu jər ɪnˈvɛntəri tə ˈkip ðəm ˈseɪf/",
+      "linking": [
+        "Put a → 語末の t が母音 /ə/ に連結 [pʊtə] プタ",
+        "stack of → 語末の k が弱形 of /əv/ に続く。of は機能語で弱形になり流れる",
+        "diamonds into → 語末の z が母音 /ɪ/ に連結 [ˈdaɪmənds ˈɪntu] ダイモンズ イント",
+        "into your → into 末尾の /u/ と your の初頭 /j/ が続く。your は弱形で [jər] ヤー"
+      ],
+      "kana": "プッタ スタック アヴ ダイモンズ イント ヤー インベントリ タ キープ ダム セイフ"
+    },
+    {
+      "idiom": "put aside ～",
+      "ja": "～を一時的に置く、～を蓄える",
+      "example": "Put aside that ore and keep mining for diamonds!",
+      "example_ja": "その鉱石をひとまず置いて、ダイヤモンドの採掘を続けよう!",
+      "ipa": "/ˈpʊt əˈsaɪd ðæɾ ɔr ən ˈkip ˈmaɪnɪŋ fər ˈdaɪməndz/",
+      "linking": [
+        "put aside — 語末子音 /t/ が未開放で次の /ə/ に先行: [pʊt̚ əˈsaɪd] プッ アサイド",
+        "that ore — 母音に挟まれた /t/ がフラップ化: [ðæɾ ɔr] ザラ オー",
+        "機能語は弱形化：and /ən/, for /fər/"
+      ],
+      "kana": "プッ アサイド ザラ オー アン キープ マイニング ファ ダイマンズ"
+    },
+    {
+      "idiom": "put up with ～",
+      "ja": "～を我慢する、～に耐える",
+      "example": "Experienced players put up with some lag to enjoy multiplayer games in Minecraft.",
+      "example_ja": "経験豊かなプレイヤーはマインクラフトのマルチプレイヤーゲームを楽しむために、ある程度のラグに我慢します。",
+      "ipa": "/ɪkˈspɪriənst ˈpleɪɚz ˈpʊt ˈʌp wɪð səm ˈlæɡ tə ɪnˈdʒɔɪ ˈmʌltɪˌpleɪər ˈɡeɪmz ɪn ˈmaɪnkræft/",
+      "linking": [
+        "put up with → 句動詞で自然に流れ、with の末尾の th が続く [ˈpʊt ˈʌp wɪð]",
+        "with some → with の末尾 th が some の初頭 s に続く（子音+子音）[wɪð səm] ウィズ サム",
+        "to enjoy → to は機能語で弱形 /tə/。enjoy に連結 [tə ɪnˈdʒɔɪ] タ エンジョイ",
+        "in Minecraft → in の末尾 n が Minecraft の初頭に続く（鼻音） [ɪn ˈmaɪnkræft] イン マインクラフト"
+      ],
+      "kana": "イクスピアランスト プレイヤーズ プット アップ ウィズ サム ラゴ タ エンジョイ マルチプレイアー ゲイムズ イン マインクラフト"
+    },
+    {
+      "idiom": "put together ～",
+      "ja": "組み立てる、集める",
+      "example": "We need to put together all these materials for the brewing stand.",
+      "example_ja": "醸造台を作るのに必要な材料をすべて集める必要があります。",
+      "ipa": "/wiː niːd tə pʊt təˈɡɛðɚ ɔl ðiz məˈtɪrəlz fər ðə ˈbruːɪŋ stænd/",
+      "linking": [
+        "need to → 語末子音 /d/ が弱形 /ə/ に連結 [ˈniːdə] ニーダ",
+        "put together → /t/ が母音に挟まれてフラップ化し連結 [pʊɾə] プラ",
+        "for the → 両語が弱形で流れる [fə ðə] ファザ"
+      ],
+      "kana": "ウィ ニーダ プラゲザー オール ジズ マテリアルズ ファ ザ ブルーイング スタンド"
+    },
+    {
+      "idiom": "put off ～",
+      "ja": "～を先延ばしにする、～を後回しにする",
+      "example": "We put off our exploration until we had better gear.",
+      "example_ja": "より良い装備が揃うまで、探検を先延ばしにしました。",
+      "ipa": "/wi pʊt ɔf ˈaʊɚ ɛksplɔˈreɪʃən ənˈtɪl wi hæd ˈbɛtər ɡɪɚ/",
+      "linking": [
+        "put off → put の語末子音 /t/ が off の初頭母音 /ɔ/ に連結 [pʊtɔf] プットオフ",
+        "off our → off の語末子音 /f/ が our の初頭母音 /aʊ/ に連結 [ɔf ˈaʊɚ] オフ アワー",
+        "until we → until は /ənˈtɪl/ で we は弱形 /wi/ で自然に流れる",
+        "better → 中間の /t/ が母音に挟まれてフラップ化 [ˈbɛɾɚ] ベラー"
+      ],
+      "kana": "ウィ プットオフ アワー エクスプロレイション アンティル ウィ ハド ベラー ギアー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "puts",
+      "ipa": "/pʊts/",
+      "examples": [
+        {
+          "en": "She puts a torch on every wall to prevent mob spawning.",
+          "ja": "彼女はモブが湧くのを防ぐために、すべての壁に松明を置きます。",
+          "ipa": "/ʃi ˈpʊts ə ˈtɔrtʃ ɑn ˈɛvri wɔl tə prɪˈvɛnt ˈmoʊb ˈspoːnɪŋ/",
+          "linking": [
+            "She の末尾 s が puts の初頭音に続く（s+p）。",
+            "puts a → 語末の s が a の母音 /ə/ に連結 [ˈpʊtsə] プッツア",
+            "on every → 連結で流れる [ɑn ˈɛvri] オン エヴリ",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "シー プッツア トーチ アン エヴリ ウォール タ プリヴェント モウブ スポーニング"
+        },
+        {
+          "en": "Every player puts their smelter near the furnace for efficiency.",
+          "ja": "効率のために、すべてのプレイヤーは製錬炉を炉の近くに置きます。",
+          "ipa": "/ˈɛvri ˈpleɪər ˈpʊts ðɛr ˈsmɛltər nɪr ðə ˈfɝneɪs fər ɪˈfɪʃənsi/",
+          "linking": [
+            "player の末尾 r が puts の初頭 p に続く（子音+子音だが連結で滑らかに）。",
+            "puts their → 語末の s が their の弱形に連結。their は [ðɛr] で次に続く。",
+            "near の末尾 r が the の初頭に連結 [nɪr ðə] ニアザ",
+            "for は機能語で弱形 /fər/"
+          ],
+          "kana": "エヴリ プレイヤー プッツ ゼア スメルター ニアザ ファーネス ファー イフィシンシー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "put",
+      "ipa": "/pʊt/",
+      "examples": [
+        {
+          "en": "I put a sign on the portal so people could find it easily.",
+          "ja": "人们が簡単に見つけられるように、ポータルに看板を置きました。",
+          "ipa": "/aɪ ˈpʊt ə ˈsaɪn ɑn ðə ˈpoːrɾəl soʊ ˈpipəl ˈkʊd ˈfaɪnd ɪt ˈiːzəli/",
+          "linking": [
+            "put a → 語末の t が a の母音 /ə/ に連結 [ˈpʊtə] プッタ",
+            "on the → /ɑn ðə/ で流れる",
+            "portal の t がフラップ化して r のように聞こえる [ˈpoːrɾəl] ポータル",
+            "could → 弱形で [kʊd] クド",
+            "easily → 母音間の s がフラップ化 [ˈiːzəli] イージリ"
+          ],
+          "kana": "アイ プッタ サイン アン ザ ポーラル ソウ ピーポル クド ファインド イット イージリ"
+        },
+        {
+          "en": "When we put our base in the desert, we didn't expect to find so much sand.",
+          "ja": "砂漠に基地を置いたとき、こんなに砂が多いとは思いませんでした。",
+          "ipa": "/wen wi ˈpʊt ˈaʊər ˈbeɪs ɪn ðə ˈdɛzərt | wi ˈdɪdən ɪkˈspekt tə ˈfaɪnd soʊ ˈmʌtʃ ˈsænd/",
+          "linking": [
+            "put our → 語末の t が our の初頭 /aʊ/ に連結 [ˈpʊtaʊr] プットアワー",
+            "base in → 語末 s が in の母音に連結 [ˈbeɪs ɪn] ベイシン",
+            "in the → [ɪn ðə] イン ザ",
+            "didn't の t は未開放",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウェン ウィ プットアワー ベース イン ザ デザート、ウィ ディドンティ エクスペクト タ ファインド ソウ マッチ サンド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "put",
+      "ipa": "/pʊt/",
+      "examples": [
+        {
+          "en": "After the blocks had been put in place, we realized they were the wrong color.",
+          "ja": "ブロックが所定の位置に置かれた後、それらが間違った色だったことに気づきました。",
+          "ipa": "/ˈæftər ðə ˈblɑks hæd bɪn ˈpʊt ɪn ˈpleɪs | wi ˈriːlaɪzd ðeɪ wər ðə ˈrɔŋ ˈkʌlər/",
+          "linking": [
+            "the は弱形 /ðə/。blocks に続く [ðə ˈblɑks]",
+            "had は弱形で [hæd]、been に連結。been は /bɪn/ で短い。",
+            "put in → 語末の t が in の母音に連結 [ˈpʊt ɪn] プット イン",
+            "they were → they は強い位置では標準形だが、were は弱形 /wər/"
+          ],
+          "kana": "アフター ザ ブロックス ハド ビン プット イン プレイス、ウィ リアライズド ゼイ ワー ザ ラング カラー"
+        },
+        {
+          "en": "I have put all my diamonds in the most secure chest we built.",
+          "ja": "私は作った最も安全なチェストにすべてのダイヤモンドを入れています。",
+          "ipa": "/aɪ hæv ˈpʊt ɔl maɪ ˈdaɪmənds ɪn ðə ˈmoʊst səˈkjʊr ˈtʃɛst wi ˈbɪlt/",
+          "linking": [
+            "have は弱形で [hæv]、put に連結 [hæv ˈpʊt] ハブ プット",
+            "put all → 語末の t が all の母音 /ɔ/ に連結 [ˈpʊtɔl] プットオール",
+            "in the → [ɪn ðə] イン ザ",
+            "most secure → [ˈmoʊst səˈkjʊr] モースト シキュアー",
+            "chest we → 語末の t が we の w に続く（未開放）[ˈtʃɛst wi] チェスト ウィ"
+          ],
+          "kana": "アイ ハヴ プットオール マイ ダイモンズ イン ダ モースト シキュアー チェスト ウィ ビルト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "putting",
+      "ipa": "/ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "Putting torches everywhere is the best way to prevent cave spawning.",
+          "ja": "至る所に松明を置くことが、洞窟での湧き対策の最善方法です。",
+          "ipa": "/ˈpʊtɪŋ ˈtɔːrtʃɪz ˈɛvriˌwɛr ɪz ðə ˈbɛst ˈweɪ tə prɪˈvɛnt ˈkeɪv ˈspoːnɪŋ/",
+          "linking": [
+            "Putting は [ˈpʊtɪŋ] で ng は鼻音。torches に続く。",
+            "putting torches → 語尾の ng と t が続く（g と t は異音）[ˈpʊtɪŋ ˈtɔːrtʃɪz]",
+            "everywhere は [ˈɛvriˌwɛr] で弱くなり、is に続く。",
+            "is は弱形で [ɪz]。the に連結 [ɪz ðə] イズ ザ",
+            "to は弱形で /tə/"
+          ],
+          "kana": "プッティング トーチーズ エヴリホエア イズ ザ ベスト ウェイ タ プリヴェント ケイヴ スポーニング"
+        },
+        {
+          "en": "We were putting together the redstone circuit when the game crashed.",
+          "ja": "ゲームがクラッシュしたときに、私たちはレッドストーン回路を組み立てていました。",
+          "ipa": "/wi wər ˈpʊtɪŋ təˈɡɛðər ðə ˈrɛdˌstoʊn ˈsɜːrkɪt wɛn ðə ˈɡeɪm ˈkræʃt/",
+          "linking": [
+            "we were → were は弱形で [wər]。putting に続く。",
+            "putting together → putting の ng に続く t。together は [təˈɡɛðər] タゲザー",
+            "the は [ðə] ザ。redstone に続く。",
+            "circuit の最後の t は未開放で when に続く [ˈsɜːrkɪt̚ wɛn]",
+            "the → [ðə] ザ"
+          ],
+          "kana": "ウィ ワー プッティング タゲザー ザ レッドストーン サーキット ウェン ザ ゲイム クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is putting",
+      "ipa": "/ɪz ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm putting torches on the cave wall to stop the mob spawner.",
+          "ja": "モブスポーナーを止めるために、洞窟の壁に松明を置いています。",
+          "ipa": "/aɪm ˈpʊtɪŋ ˈtɔːrtʃɪz ɑn ðə ˈkeɪv wɔːl tə ˈstɑp ðə ˈmoʊb ˈspoːnər/",
+          "linking": [
+            "I'm の m が putting に連結 [aɪm ˈpʊtɪŋ] アイム プッティング",
+            "putting torches → ng 音と t が続く連結で流れる [ˈpʊtɪŋ ˈtɔːrtʃɪz]",
+            "on the は弱く [ɑn ðə] で the は /ðə/",
+            "to は機能語で弱形 /tə/"
+          ],
+          "kana": "アイム プッティング トーチーズ アン ザ ケイヴ ウォール タ ストップ ザ モウブ スポーナー"
+        },
+        {
+          "en": "He is putting together an automatic farm system right now.",
+          "ja": "彼は今、自動農場システムを組み立てています。",
+          "ipa": "/hi ɪz ˈpʊtɪŋ təˈɡɛðər ən ɔːˈtɑmætɪk ˈfɑːrm ˈsɪstəm ˈraɪt ˈnaʊ/",
+          "linking": [
+            "is は弱形で [ɪz]。He に続く [hi ɪz] ヒー イズ",
+            "putting together → ng と t が続き、together の t はフラップ化 [ˈpʊtɪŋ ɾəˈɡɛðər] プッティング ラゲザー",
+            "an は弱形 /ən/ で automatic に連結",
+            "right の t は未開放 [ˈraɪt̚ ˈnaʊ] ライット ナウ"
+          ],
+          "kana": "ヒー イズ プッティング ラゲザー アン オータマティック ファーム システム ライット ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was putting",
+      "ipa": "/wəz ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I was putting down the last block when the Creeper appeared.",
+          "ja": "クリーパーが現れたとき、私は最後のブロックを置いていました。",
+          "ipa": "/aɪ wəz ˈpʊtɪŋ ˈdaʊn ðə ˈlæst ˈblɑk wɛn ðə ˈkriːpər əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/。putting に連結 [wəz ˈpʊtɪŋ] ワズ プッティング",
+            "putting down → ng と d が続く流れ。down は /daʊn/",
+            "last の t は次の子音 b の前で未開放 [ˈlæst̚ ˈblɑk] ラース ブロック",
+            "Creeper の r が appeared に連結 [ˈkriːpər əˈpɪrd] クリーパー アピアード"
+          ],
+          "kana": "アイ ワズ プッティング ダウン ザ ラース ブロック ウェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "They were putting redstone dust everywhere to activate the trap.",
+          "ja": "彼らはトラップを作動させるために、至る所にレッドストーンダストを置いていました。",
+          "ipa": "/ðeɪ wər ˈpʊtɪŋ ˈrɛdˌstoʊn ˈdʌst ˈɛvriˌwɛr tə ˈæktɪveɪt ðə ˈtræp/",
+          "linking": [
+            "were は弱形 /wər/。They に続く [ðeɪ wər] ゼイ ワー",
+            "putting redstone → ng と r が続き滑らかに [ˈpʊtɪŋ ˈrɛdˌstoʊn]",
+            "dust の t は未開放で everywhere に続く [ˈdʌst̚ ˈɛvriˌwɛr] ダッ エヴリホエア",
+            "to は弱形 /tə/。the は /ðə/"
+          ],
+          "kana": "ゼイ ワー プッティング レッドストーン ダッ エヴリホエア タ アクティヴェイト ザ トラップ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been putting",
+      "ipa": "/həd bɪn ˈpʊtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been putting resources into the storage system for weeks before the raid.",
+          "ja": "レイド前の数週間、私はリソースをストレージシステムに入れ続けていました。",
+          "ipa": "/aɪ həd bɪn ˈpʊtɪŋ ˈrɛsərsɪz ˈɪntə ðə ˈstɔːrɪdʒ ˈsɪstəm fər ˈwiːks bɪˈfɔr ðə ˈreɪd/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/ で連結 [həd bɪn] ハド ビン",
+            "putting resources → ng と r が続き滑らかに [ˈpʊtɪŋ ˈrɛsərsɪz]",
+            "into the → into は /ˈɪntə/、the は弱形 /ðə/ で連結",
+            "for は弱形 /fər/。weeks に続く。before の r が raid に連結 [bɪˈfɔr ðə ˈreɪd] ビフォー ザ レイド"
+          ],
+          "kana": "アイ ハド ビン プッティング レソーシーズ イント ザ ストレッジ システム ファー ウィークス ビフォー ザ レイド"
+        },
+        {
+          "en": "She had been putting together the contraption when someone destroyed it.",
+          "ja": "誰かがそれを破壊したとき、彼女は装置を組み立て続けていました。",
+          "ipa": "/ʃi həd bɪn ˈpʊtɪŋ təˈɡɛðər ðə kənˈtræpʃən wɛn ˈsʌmwən dɪˈstrɔɪd ɪt/",
+          "linking": [
+            "had は弱形 /həd/、been は弱形 /bɪn/ で連結 [həd bɪn] ハド ビン",
+            "putting together → ng と t が続き、together の t はフラップ化 [ˈpʊtɪŋ ɾəˈɡɛðər] プッティング ラゲザー",
+            "the は /ðə/ で contraption に続く。contraption の最後の n が when に続く",
+            "it は最後の音で /ɪt/"
+          ],
+          "kana": "シー ハド ビン プッティング ラゲザー ザ コントラプション ウェン サムワン ディストロイド イット"
+        }
+      ]
+    }
+  ]
+}

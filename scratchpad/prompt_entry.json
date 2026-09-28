@@ -1,0 +1,226 @@
+{
+  "word": "prompt",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/prɑmpt/",
+  "rank": 2372,
+  "level": "B2",
+  "hi": "prompt|prompts|prompted|prompting",
+  "meanings": [
+    "【動詞】（人に）～するよう促す、促促す（to urge or encourage someone to do something）",
+    "【動詞】コンピュータが質問や入力を求める、プロンプトを表示する（to request input or display a prompt asking for information）",
+    "【名詞】コンピュータやゲームで、入力や応答を求めるメッセージ（a message or signal asking for input or response）",
+    "【名詞】何かをするよう促すもの、動機または理由（something that encourages or causes someone to do something）"
+  ],
+  "examples": [
+    {
+      "en": "The low health bar prompted me to find shelter quickly.",
+      "ja": "低いヘルスバーが、すぐに隠れ場所を探すよう私を促しました。",
+      "ipa": "/ðə ˈloʊ ˈhɛlθ ˌbɑr ˈprɑmptɪd mi tə ˈfaɪnd ˈʃɛltɚ ˈkwɪkli/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/。",
+        "to は機能語で弱形 /tə/。"
+      ],
+      "kana": "ザ ロー ヘルス バー プロンプティド ミー タ ファインド シェルター クイックリー"
+    },
+    {
+      "en": "A prompt appeared asking me to confirm the block placement.",
+      "ja": "ブロック配置を確認するよう求めるプロンプトが表示されました。",
+      "ipa": "/ə ˈprɑmpt əˈpɪrd ˈæskɪŋ mi tə kənˈfɝm ðə blɑk ˈpleɪsmənt/",
+      "linking": [
+        "prompt の末尾子音 /t/ が appeared の初頭母音 /ə/ に連結。[ˈprɑmptə] プロンプタ",
+        "to は機能語で弱形 /tə/。",
+        "the は冠詞で弱形 /ðə/。"
+      ],
+      "kana": "ア プロンプタピアード アスキング ミー タ カンファーム ザ ブロック プレイスメント"
+    },
+    {
+      "en": "I will prompt the player to enter the secret area.",
+      "ja": "プレイヤーに秘密エリアに入るようプロンプトを表示します。",
+      "ipa": "/aɪ wɪl ˈprɑmpt ðə ˈpleɪɚ tə ˈɛntɚ ðə ˈsiːkrət ˈɛriə/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/。",
+        "to は機能語で弱形 /tə/。",
+        "the は冠詞で弱形 /ðə/。",
+        "secret の末尾子音 /t/ が area の初頭母音 /ɛ/ に連結。[ˈsiːkrɛtɛriə] シークレテリア"
+      ],
+      "kana": "アイ ウィル プロンプト ザ プレイヤー タ エンター ザ シークレテリア"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "prompt response",
+      "ja": "迅速な、素早い返答",
+      "example": "I need a prompt response from my teammate to win this mining race.",
+      "example_ja": "この採掘競争に勝つため、チームメイトからすばやい返答が必要です。",
+      "ipa": "/aɪ ˈniːd ə ˈprɑmpt rɪˈspɑns frəm maɪ ˈtimmeɪt tə wɪn ðɪs ˈmaɪnɪŋ ˈreɪs/",
+      "linking": [
+        "need の末尾子音 /d/ が a の初頭母音 /ə/ に連結。[ˈniːdə] ニーダ",
+        "from は機能語で弱形 /frəm/。",
+        "to は機能語で弱形 /tə/。",
+        "this は限定詞で弱形 /ðɪs/。"
+      ],
+      "kana": "アイ ニーダ プロンプト レスポンス フラム マイ ティームメイト タ ウィン ディス マイニング レイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "prompts",
+      "ipa": "/prɑmpts/",
+      "examples": [
+        {
+          "en": "The game prompts you to gather wood first when you spawn.",
+          "ja": "スポーン時に、ゲームは最初に木を集めるよう促します。",
+          "ipa": "/ðə ˈɡeɪm ˈprɑmpts jə tə ˈɡæðər ˈwʊd ˈfɝst wɛn ju ˈspɔn/",
+          "linking": [
+            "the → 冠詞で弱形 /ðə/ に弱化",
+            "to → 機能語 /tə/ に弱化",
+            "gather wood → /r/ が /w/ に連結 [ˈɡæðər ˈwʊd]→「ギャザー・ウッド」",
+            "when you → /n/ が /j/ に連結 [wɛn ju]→「ウェン・ユー」"
+          ],
+          "kana": "ザ ゲイム プランプツ ユ タ ギャザー ウッド ファースト ウェン ユー スポーン"
+        },
+        {
+          "en": "The server prompts all new players to read the building rules.",
+          "ja": "サーバーは、すべての新しいプレイヤーに建築ルールを読むよう促します。",
+          "ipa": "/ðə ˈsɝːvər ˈprɑmpts ˈɔl ˈnu ˈpleɪərz tə ˈrid ðə ˈbɪldɪŋ ˈrulz/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "to → 弱形 /tə/",
+            "read the → /d/ が /ð/ に連結 [ˈrid ðə]→「リード・ザ」"
+          ],
+          "kana": "ザ サーバー プランプツ オール ニュー プレイアーズ タ リード ザ ビルディング ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "prompted",
+      "ipa": "/ˈprɑmptəd/",
+      "examples": [
+        {
+          "en": "A notification prompted me to check my inventory during the battle.",
+          "ja": "戦闘中に、通知が私にインベントリをチェックするよう促しました。",
+          "ipa": "/ə ˌnoʊtɪfɪˈkeɪʃən ˈprɑmptəd mi tə tʃɛk maɪ ɪnˈvɛntəri ˈdʊrɪŋ ðə ˈbætəl/",
+          "linking": [
+            "A notification → 語間で区切られる",
+            "prompted me → /d/ が /m/ に連結 [ˈprɑmptəd mi]→「プランプテッド・ミ」",
+            "to → 弱形 /tə/",
+            "during the → /ŋ/ が /ð/ に先行、the は弱形 /ðə/"
+          ],
+          "kana": "ア ノウティフィケーション プランプテッド ミ タ チェック マイ インベントリー デュアリング ザ バトル"
+        },
+        {
+          "en": "The tutorial prompted me to place blocks and craft basic tools.",
+          "ja": "チュートリアルは、私にブロックを配置し、基本的な道具をクラフトするよう促しました。",
+          "ipa": "/ðə ˈtjuːtɔriəl ˈprɑmptəd mi tə ˈpleɪs ˈblɑks ənd ˈkræft ˈbeɪsɪk ˈtulz/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "prompted me → /d/ が /m/ に連結 [ˈprɑmptəd mi]→「プランプテッド・ミ」",
+            "to → 弱形 /tə/",
+            "and craft → and は弱形 /ənd/ に弱化、/d/ が /k/ に先行"
+          ],
+          "kana": "ザ チュートリアル プランプテッド ミ タ プレイス ブロックス アンド クラフト ベイシック ツールズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "prompted",
+      "ipa": "/ˈprɑmptəd/",
+      "examples": [
+        {
+          "en": "The prompted message tells me I need to find a nearby village.",
+          "ja": "促されたメッセージが、私が近くの村を見つける必要があると伝えています。",
+          "ipa": "/ðə ˈprɑmptəd ˈmɛsɪdʒ ˈtɛlz mi aɪ ˈnid tə ˈfaɪnd ə nɪrˈbaɪ ˈvɪlɪdʒ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "message tells → /dʒ/ が /t/ に先行（子音+子音）",
+            "to → 弱形 /tə/",
+            "find a → /d/ が /ə/ に連結 [ˈfaɪnd ə]→「ファインド・ア」"
+          ],
+          "kana": "ザ プランプテッド メッセッジ テルズ ミー アイ ニード タ ファインド ア ニアバイ ビレッジ"
+        },
+        {
+          "en": "With the prompted instructions, I was able to complete the challenge.",
+          "ja": "促された指示により、私はチャレンジを完了することができました。",
+          "ipa": "/wɪð ðə ˈprɑmptəd ɪnˈstrʌkʃənz aɪ wəz ˈeɪbəl tə kəmˈplit ðə ˈtʃælɪndʒ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "to → 弱形 /tə/",
+            "the challenge → the は弱形、challenge は /ˈtʃælɪndʒ/"
+          ],
+          "kana": "ウィズ ザ プランプテッド インストラクションズ アイ ワズ エイブル タ コンプリート ザ チャレンッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "prompting",
+      "ipa": "/ˈprɑmptɪŋ/",
+      "examples": [
+        {
+          "en": "The system is prompting me to craft a bed for the night.",
+          "ja": "システムが、夜を過ごすためにベッドをクラフトするよう促しています。",
+          "ipa": "/ðə ˈsɪstəm ɪz ˈprɑmptɪŋ mi tə ˈkræft ə ˈbɛd fɔr ðə ˈnaɪt/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "system is → /m/ が /ɪ/ に連結 [ˈsɪstəm ɪz]→「システ・イズ」",
+            "me → 弱形 /mi/",
+            "to → 弱形 /tə/",
+            "for the → for は弱形 /fɔr/ → /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "ザ システ イズ プランプティング ミー タ クラフト ア ベッド フォー ザ ナイト"
+        },
+        {
+          "en": "Prompting players constantly might be annoying, but it helps them learn faster.",
+          "ja": "プレイヤーに絶えず促すことは煩わしいかもしれませんが、彼らがより速く学ぶのに役立ちます。",
+          "ipa": "/ˈprɑmptɪŋ ˈpleɪərz ˈkɑnstəntli ˈmaɪt bi əˈnɔɪɪŋ | bət ɪt ˈhɛlps ðɛm ˈlɝrn ˈfæstər/",
+          "linking": [
+            "players constantly → /z/ が /k/ に先行",
+            "might be → /t/ が /b/ に先行（子音+子音）",
+            "be annoying → /i/ が /ə/ に連結 [bi əˈnɔɪɪŋ]→「ビー・アノイング」",
+            "it helps → /t/ が /h/ に先行"
+          ],
+          "kana": "プランプティング プレイアーズ コンスタントリー マイト ビー アノイング、バット イット ヘルプス ゼム ラーン ファスター"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "prompts",
+      "ipa": "/prɑmpts/",
+      "examples": [
+        {
+          "en": "Pay attention to the prompts on your screen to understand the mechanics.",
+          "ja": "ゲームの仕組みを理解するために、画面上のプロンプトに注意を払ってください。",
+          "ipa": "/ˈpeɪ əˈtɛnʃən tu ðə ˈprɑmpts ɑn jɔr ˈskrin tu ˌʌndərˈstænd ðə məˈkænɪks/",
+          "linking": [
+            "to the → to は弱形 /tə/、the も弱形 /ðə/ [tə ðə]→「タ・ザ」",
+            "prompts on → /s/ が /ɑ/ に連結 [ˈprɑmpts ɑn]→「プランプツ・オン」",
+            "on your → /n/ が /j/ に連結 [ɑn jɔr]→「オン・ユア」"
+          ],
+          "kana": "ペイ アテンション トゥ ザ プランプツ オン ユアー スクリーン トゥー アンダースタンド ザ メカニクス"
+        },
+        {
+          "en": "Those prompts help guide you through the early stages of survival mode.",
+          "ja": "それらのプロンプトは、サバイバルモードの初期段階を通じてあなたをガイドするのに役立ちます。",
+          "ipa": "/ðoʊz ˈprɑmpts ˈhɛlp ˈɡaɪd ju θru ðə ˈɝrli ˈsteɪdʒɪz əv sərˈvaɪvəl ˈmoʊd/",
+          "linking": [
+            "Those prompts → /z/ が /p/ に先行（子音+子音）",
+            "guide you → /d/ が /j/ に連結 [ˈɡaɪd ju]→「ガイド・ユー」",
+            "of survival → of は弱形 /əv/、/v/ が /s/ に先行",
+            "survival mode → /l/ が /m/ に連結 [sərˈvaɪvəl ˈmoʊd]→「サーバイバル・モウド」"
+          ],
+          "kana": "ドウズ プランプツ ヘルプ ガイド ユー スルー ザ アーリー ステイジズ オヴ サーバイバル モウド"
+        }
+      ]
+    }
+  ]
+}

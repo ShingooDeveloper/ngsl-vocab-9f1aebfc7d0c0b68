@@ -1,0 +1,290 @@
+{
+  "word": "attend",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/əˈtɛnd/",
+  "rank": 563,
+  "level": "B1",
+  "hi": "attend(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】（イベント・会議などに）参加する、出席する（to be present at an event or meeting）",
+    "【動詞】（人・患者などの）世話をする、ケアする、対応する（to care for or deal with someone or something）",
+    "【動詞】（…に）注意を払う、気をつける（to pay attention to something）",
+    "【動詞】（…に）付き添う、随伴する（to accompany or go with someone as an assistant）"
+  ],
+  "examples": [
+    {
+      "en": "I attend the farming area every morning to check on the crops.",
+      "ja": "私は毎朝農業エリアに行って、作物をチェックします。",
+      "ipa": "/aɪ əˈtɛnd ðə ˈfɑrmɪŋ ˈɛriə ˈɛvri ˈmɔrnɪŋ tə ˈtʃɛk ɑn ðə krɑps/",
+      "linking": [
+        "attend the → 語末の d が the の初頭 /ð/ に続き、the は弱形 /ðə/",
+        "every morning → /ˈɛvri ˈmɔrnɪŋ/ で流暢に続く",
+        "to check → to は機能語で弱形 /tə/"
+      ],
+      "kana": "アイ アテンド ザ ファーミング エリア エヴリ モーニング タ チェック アン ザ クロップス"
+    },
+    {
+      "en": "You need to attend to your animals or they will leave.",
+      "ja": "あなたは動物の世話をしないと、彼らは去ってしまいます。",
+      "ipa": "/ju ˈniːd tu əˈtɛnd tu jɚ ˈænəməlz ɔr ðeɪ wɪl ˈliːv/",
+      "linking": [
+        "attend to → /əˈtɛnd tu/ で d が t に続く（子音+子音）",
+        "to your → to は弱形 /tə/、your と連結 [tə jɚ] タヤー",
+        "or they → 語末の l が or に続く [ɑr ðeɪ] アー ゼイ"
+      ],
+      "kana": "ユー ニード トゥ アテンド トゥ ヤー アニマルズ オー ゼイ ウィル リーブ"
+    },
+    {
+      "en": "If you attend the server meeting, you will learn about new updates.",
+      "ja": "サーバー会議に出席すると、新しいアップデートについて学べます。",
+      "ipa": "/ɪf ju əˈtɛnd ðə ˈsɜrvər ˈmiːtɪŋ ju wɪl ˈlɜrn əˈbaʊt ˈnjuː ˈʌpˌdeɪts/",
+      "linking": [
+        "attend the → 語末の d が the の初頭に続く",
+        "server meeting → /ˈsɜrvər ˈmiːtɪŋ/ で r が語末、次の m に続く",
+        "about の t がまもなく続く弱形",
+        "learn about → /ˈlɜrn əˈbaʊt/ で n と ə が連結"
+      ],
+      "kana": "イフ ユー アテンド ザ サーヴァー ミーティング ユー ウィル ラーン アバウト ニュー アップデイツ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "attend to",
+      "ja": "世話をする、対応する、気をつける",
+      "example": "The admin must attend to lag issues on the server immediately.",
+      "example_ja": "管理者はサーバーのラグ問題にすぐに対応しなければなりません。",
+      "ipa": "/ðə ˈædmɪn mʌst əˈtɛnd tu ˈlæɡ ˈɪʃuz ɑn ðə ˈsɜrvər ɪˈmiːdɪətli/",
+      "linking": [
+        "attend to は句動詞で自然に流れる [əˈtɛnd tu] アテンド トゥ",
+        "to lag → to は弱形 /tə/、lag は /læɡ/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ザ アドミン マスト アテンド トゥ ラグ イシューズ アン ザ サーヴァー イミーディアトリー"
+    },
+    {
+      "idiom": "attend on",
+      "ja": "随伴する、…に付き添う",
+      "example": "A helper attends on the new players to show them the base.",
+      "example_ja": "ヘルパーは新しいプレイヤーに付き添って、ベースを見せます。",
+      "ipa": "/ə ˈhɛlpər əˈtɛndz ɑn ðə ˈnjuː ˈpleɪərz tu ˈʃoʊ ðɛm ðə ˈbeɪs/",
+      "linking": [
+        "attends on → 語末の z が on の初頭に続く [əˈtɛndz ɑn] アテンズ アン",
+        "on the → /ɑn ðə/ で弱く続く",
+        "show them → /ʃoʊ ðɛm/ で th との組み合わせ"
+      ],
+      "kana": "ア ヘルパー アテンズ アン ザ ニュー プレイアーズ トゥ ショウ ゼム ザ ベース"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "attends",
+      "ipa": "/əˈtɛndz/",
+      "examples": [
+        {
+          "en": "Every player attends the farm to harvest resources.",
+          "ja": "すべてのプレイヤーはリソースを収穫するために農場に行きます。",
+          "ipa": "/ˈɛvri ˈpleɪər əˈtɛndz ðə fɑrm tu ˈhɑrvəst ˈrɛsɚsɪz/",
+          "linking": [
+            "player attends → 語末の r が attends の初頭 ə に連結 [ˈpleɪərəˈtɛndz] プレイアラテンズ",
+            "attends the → 語末の z が the の初頭に続く [əˈtɛndz ðə] アテンズ ザ",
+            "to harvest → to は弱形 /tə/"
+          ],
+          "kana": "エヴリ プレイアラテンズ ザ ファーム トゥ ハーヴェスト レソーシーズ"
+        },
+        {
+          "en": "Steve attends to his livestock before he goes mining.",
+          "ja": "スティーブは鉱業に行く前に彼の家畜の世話をします。",
+          "ipa": "/ˈstiːv əˈtɛndz tu hɪz ˈlaɪvˌstɑk bɪˈfɔr hi ɡoʊz ˈmaɪnɪŋ/",
+          "linking": [
+            "attends to → 語末の z が to の初頭に続く、to は弱形 /tə/",
+            "to his → /tə hɪz/ で連なり、his は弱形 /hɪz/",
+            "before he → /bɪˈfɔr hi/ で r が h に続く"
+          ],
+          "kana": "スティーヴ アテンズ トゥ ヒズ ライブストック ビフォア ヒー ゴウズ マイニング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "attended",
+      "ipa": "/əˈtɛndɪd/",
+      "examples": [
+        {
+          "en": "I attended the meeting yesterday to discuss the new server rules.",
+          "ja": "昨日は新しいサーバー ルールについて議論するために会議に出席しました。",
+          "ipa": "/aɪ əˈtɛndɪd ðə ˈmiːtɪŋ ˈjɛstərˌdeɪ tu dɪˈskʌs ðə ˈnjuː ˈsɜrvər ˈrulz/",
+          "linking": [
+            "attended the → 語末の d が the の初頭 ð に続く [əˈtɛndɪd ðə] アテンディッド ザ",
+            "new server → /ˈnjuː ˈsɜrvər/ で連なり、r が語末で次に続く"
+          ],
+          "kana": "アイ アテンディッド ザ ミーティング イエスタデイ トゥ ディスカス ザ ニュー サーヴァー ルーズ"
+        },
+        {
+          "en": "Last week, Alex attended to the farm during the storm.",
+          "ja": "先週、アレックスは嵐の間、農場の世話をしていました。",
+          "ipa": "/ˈlæst ˈwiːk ˌæˈlɛks əˈtɛndɪd tu ðə fɑrm ˈdʊrɪŋ ðə ˈstɔrm/",
+          "linking": [
+            "attended to → 語末の d が to の初頭に続き、to は弱形 /tə/",
+            "to the → 弱形で /tə ðə/ アテンディッド タ ザ",
+            "during the → /ˈdʊrɪŋ ðə/ で ng と ð が続く"
+          ],
+          "kana": "ラスト ウィーク アレックス アテンディッド タ ザ ファーム ドゥーリング ザ ストーム"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "attended",
+      "ipa": "/əˈtɛndɪd/",
+      "examples": [
+        {
+          "en": "I have attended three server meetings since the update released.",
+          "ja": "アップデートがリリースされてから、3 つのサーバー会議に出席しています。",
+          "ipa": "/aɪ hæv əˈtɛndɪd ˈθri ˈsɜrvər ˈmiːtɪŋz sɪns ðə ˈʌpˌdeɪt rɪˈliːst/",
+          "linking": [
+            "have attended → have は弱形 /hæv/、attended に連結 [hæv əˈtɛndɪd] ハヴ アテンディッド",
+            "three server → /ˈθri ˈsɜrvər/ で r が語末、次に続く",
+            "since the → /sɪns ðə/ で s が ð に続く"
+          ],
+          "kana": "アイ ハヴ アテンディッド スリー サーヴァー ミーティングズ シンス ザ アップデイト リリースト"
+        },
+        {
+          "en": "The farm has been attended regularly to ensure crops thrive.",
+          "ja": "作物が成長するように、農場は定期的に世話されています。",
+          "ipa": "/ðə fɑrm hæz bɪn əˈtɛndɪd ˈrɛɡjələrli tu ɪnˈʃʊr krɑps ˈθraɪv/",
+          "linking": [
+            "has been → /hæz bɪn/ で s が弱い b に続く",
+            "been attended → been は弱形 /bɪn/、attended に連結",
+            "regularly to → /ˈrɛɡjələrli tu/ で r が語末、to は弱形 /tə/"
+          ],
+          "kana": "ザ ファーム ハズ ビン アテンディッド レギュラーリー タ イン シュアー クロップス スライブ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "attending",
+      "ipa": "/əˈtɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I am attending the farm right now to finish planting seeds.",
+          "ja": "今、種を植え終わるために農場に行っています。",
+          "ipa": "/aɪ æm əˈtɛndɪŋ ðə fɑrm ˈraɪt ˈnaʊ tu ˈfɪnɪʃ ˈplæntɪŋ ˈsiːdz/",
+          "linking": [
+            "am attending → /æm əˈtɛndɪŋ/ で m が ə に連結 [æm əˈtɛndɪŋ] アム アテンディング",
+            "attending the → 語末の ng と ð が続く [əˈtɛndɪŋ ðə] アテンディング ザ"
+          ],
+          "kana": "アイ アム アテンディング ザ ファーム ライト ナウ トゥ フィニッシュ プラント シーズ"
+        },
+        {
+          "en": "While attending to my redstone farm, I discovered a cave system.",
+          "ja": "レッドストーン農場の世話をしている間に、洞窟システムを発見しました。",
+          "ipa": "/waɪl əˈtɛndɪŋ tu maɪ ˈrɛdˌstoʊn fɑrm aɪ dɪˈskʌvərd ə ˈkeɪv ˈsɪstəm/",
+          "linking": [
+            "attending to → 語末の ng と t が続く [əˈtɛndɪŋ tu] アテンディング トゥ",
+            "to my → to は弱形 /tə/、my に連結",
+            "discovered a → d が ə に連結 [dɪˈskʌvərd ə] ディスカヴァード ア"
+          ],
+          "kana": "ワイル アテンディング トゥ マイ レッドストーン ファーム アイ ディスカヴァード ア ケイヴ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is attending",
+      "ipa": "/ɪz əˈtɛndɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is attending the farm while I mine for diamonds.",
+          "ja": "スティーブがダイヤモンドを採掘している間に、農場の世話をしています。",
+          "ipa": "/ˈstiːv ɪz əˈtɛndɪŋ ðə fɑrm waɪl aɪ maɪn fɔr ˈdaɪəməndz/",
+          "linking": [
+            "Steve is → 語末の v が is の初頭に続き、is は弱形 /ɪz/ [ˈstiːv ɪz] スティーヴ イズ",
+            "is attending → /ɪz əˈtɛndɪŋ/ で語末 z が ə に連結 [ɪz əˈtɛndɪŋ] イズ アテンディング",
+            "attending the → 語末 ng と ð が続く [əˈtɛndɪŋ ðə] アテンディング ザ",
+            "while I → /waɪl aɪ/ で語末 l が aɪ に連結 [waɪl aɪ] ワイル アイ"
+          ],
+          "kana": "スティーヴ イズ アテンディング ザ ファーム ワイル アイ マイン フォー ダイアモンズ"
+        },
+        {
+          "en": "They are attending to their animals right now.",
+          "ja": "彼らは今、動物の世話をしています。",
+          "ipa": "/ðeɪ ɑr əˈtɛndɪŋ tu ðɛər ˈænəməlz ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are attending → are は弱形 /ɑr/、語末 r が ə に連結 [ɑr əˈtɛndɪŋ] アー アテンディング",
+            "attending to → 語末 ng と t が続く [əˈtɛndɪŋ tu] アテンディング トゥ",
+            "to their → to は弱形 /tə/、語末 r が続く [tə ðɛər] タ ゼア"
+          ],
+          "kana": "ゼイ アー アテンディング トゥ ゼア アニマルズ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was attending",
+      "ipa": "/wəz əˈtɛndɪŋ/",
+      "examples": [
+        {
+          "en": "I was attending the farm when a creeper exploded.",
+          "ja": "クリーパーが爆発したとき、農場の世話をしていました。",
+          "ipa": "/aɪ wəz əˈtɛndɪŋ ðə fɑrm wɛn ə ˈkripər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was attending → was は弱形 /wəz/、語末 z が ə に連結 [wəz əˈtɛndɪŋ] ワズ アテンディング",
+            "attending the → 語末 ng と ð が続く [əˈtɛndɪŋ ðə] アテンディング ザ",
+            "a creeper → 弱形 /ə/ が K に続く [ə ˈkripər] ア クリーパー"
+          ],
+          "kana": "アイ ワズ アテンディング ザ ファーム ウェン ア クリーパー イクスプロウディッド"
+        },
+        {
+          "en": "We were attending to the redstone circuit for hours.",
+          "ja": "私たちは何時間もレッドストーン回路の世話をしていました。",
+          "ipa": "/wi wɚ əˈtɛndɪŋ tu ðə ˈrɛdˌstoʊn ˈsɜrkɪt fɔr ˈaʊərz/",
+          "linking": [
+            "were attending → were は弱形 /wɚ/、語末 r が ə に連結 [wɚ əˈtɛndɪŋ] ウェア アテンディング",
+            "attending to → 語末 ng と t が続く、to は弱形 /tə/ [əˈtɛndɪŋ tə] アテンディング トゥ",
+            "the redstone → /ðə ˈrɛdˌstoʊn/ で弱形 ð と語末が続く"
+          ],
+          "kana": "ウィ ウェア アテンディング トゥ ザ レッドストーン サーキット フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been attending",
+      "ipa": "/hæd bɪn əˈtɛndɪŋ/",
+      "examples": [
+        {
+          "en": "We had been attending to the crops all season when the drought started.",
+          "ja": "干ばつが始まったとき、私たちはずっとシーズン全体を通じて作物の世話をしていました。",
+          "ipa": "/wi hæd bɪn əˈtɛndɪŋ tu ðə krɑps ɔl ˈsizən wɛn ðə ˈdraʊt ˈstɑrtɪd/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/、語末 n が ə に連結 [həd bɪn əˈtɛndɪŋ] ハド ビン アテンディング",
+            "been attending → 語末 ng と t が続く、to は弱形 /tə/ [əˈtɛndɪŋ tə] アテンディング トゥ",
+            "all season → /ɔl ˈsizən/ で語末 l が s に続く"
+          ],
+          "kana": "ウィ ハド ビン アテンディング トゥ ザ クロップス オール シーズン ウェン ザ ドラウト スターティッド"
+        },
+        {
+          "en": "They had been attending the farm continuously since the update.",
+          "ja": "彼らはアップデート以来、ずっと農場の世話をしていました。",
+          "ipa": "/ðeɪ hæd bɪn əˈtɛndɪŋ ðə fɑrm kənˈtɪnjuəsli sɪns ðə ˈʌpˌdeɪt/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/、語末 n が ə に連結 [həd bɪn əˈtɛndɪŋ] ハド ビン アテンディング",
+            "attending the → 語末 ng と ð が続く [əˈtɛndɪŋ ðə] アテンディング ザ",
+            "since the → /sɪns ðə/ で語末 s が ð に続く"
+          ],
+          "kana": "ゼイ ハド ビン アテンディング ザ ファーム クンティニュアスリー シンス ザ アップデイト"
+        }
+      ]
+    }
+  ]
+}

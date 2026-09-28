@@ -1,0 +1,492 @@
+{
+  "word": "wish",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/wɪʃ/",
+  "rank": 1089,
+  "level": "A2",
+  "hi": "wish(?:es|ed|ing)?",
+  "meanings": [
+    "【動詞】（～を）望む、願う。希望する（to want something to happen or be true）",
+    "【動詞】（誰かに）幸運を祈る。〜を望む（to express a hope for someone's success or happiness）",
+    "【名詞】願い、希望。願いごと（a hope or desire for something）"
+  ],
+  "examples": [
+    {
+      "en": "I wish I could build a castle in Minecraft.",
+      "ja": "マインクラフトでお城を建てたいと思う。",
+      "ipa": "/aɪ wɪʃ aɪ kəd ˈbɪld ə ˈkæsəl ɪn maɪnˈkræft/",
+      "linking": [
+        "could → 弱形 /kəd/",
+        "a → 弱形 /ə/"
+      ],
+      "kana": "アイ ウィッシュ アイ クッド ビルド ア キャッスル イン マインクラフト"
+    },
+    {
+      "en": "She wishes she had more diamonds for the enchantment table.",
+      "ja": "彼女はエンチャントテーブルのためにもっとダイアモンドがあったらいいのにと思っている。",
+      "ipa": "/ʃi wɪʃɪz ʃi həd ˈmoʊr ˈdaɪəməndz fɔr ðə ɪnˈtʃæntmənt ˈteɪbəl/",
+      "linking": [
+        "had → 弱形 /həd/",
+        "for → 弱形 /fɔr/",
+        "the → 弱形 /ðə/"
+      ],
+      "kana": "シー ウィッシーズ シー ハッド モア ダイアマンズ ファー ザ インチャントメント テイブル"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "wish for something",
+      "ja": "～を望む、～を願う",
+      "example": "The players wish for better loot drops from the boss.",
+      "example_ja": "プレイヤーたちはボスからのより良いドロップを望んでいます。",
+      "ipa": "/ðə ˈpleɪərz wɪʃ fɔr ˈbɛtər ˈlut drɑps frəm ðə bɔs/",
+      "linking": [
+        "for → 弱形 /fɔr/",
+        "better loot → better の /r/ が loot の /l/ に連結 [ˈbɛtər ˈlut]"
+      ],
+      "kana": "ザ プレイヤーズ ウィッシュ ファー ベッラー ルート ドラップス フラム ザ ボス"
+    },
+    {
+      "idiom": "wish someone well",
+      "ja": "誰かに幸運を祈る",
+      "example": "Everyone wishes the team well before the tournament starts.",
+      "example_ja": "トーナメントが始まる前に、みんなはチームに幸運を祈ります。",
+      "ipa": "/ˈɛvriwʌn ˈwɪʃɪz ðə ˈtim wɛl bɪˈfɔr ðə ˈtɔrnəmɛnt ˈstɑrts/",
+      "linking": [
+        "wishes the → wishes の /z/ が the の /ð/ に続く（子音+子音）",
+        "before the → before の /r/ が the の /ð/ に連結 [bɪˈfɔr ðə]"
+      ],
+      "kana": "エブリワン ウィッシーズ ザ ティーム ウェル ビフォア ザ トーナメント スターツ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "wishes",
+      "ipa": "/ˈwɪʃɪz/",
+      "examples": [
+        {
+          "en": "He wishes he had invested more resources into his redstone contraption.",
+          "ja": "彼はレッドストーン装置にもっとリソースを投資していればよかったと思っている。",
+          "ipa": "/hi wɪʃɪz hi həd ɪnˈvɛstɪd ˈmoʊr ˈrɛsɚsɪz ˈɪntu hɪz ˈrɛdstoʊn kənˈtræpʃən/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "into → 語末/tu/が母音に続く"
+          ],
+          "kana": "ヒー ウィッシーズ ヒー ハッド インベスティド モア リソーシーズ イントゥー ヒズ レッドストウン コントラプション"
+        },
+        {
+          "en": "She wishes for peaceful mining without any hostile mobs interrupting her work.",
+          "ja": "彼女は敵対的なモブに邪魔されない平和な採掘を望んでいる。",
+          "ipa": "/ʃi ˈwɪʃɪz fɔr ˈpiːsfəl ˈmaɪnɪŋ wɪˈðaʊt ˈɛni ˈhɑstəl mɑbz ˌɪntɚˈʌptɪŋ hɚ wɝk/",
+          "linking": [
+            "for → 弱形 /fɔr/",
+            "without → 語末の /t/ が母音/ə/に続く",
+            "her → 弱形 /hɚ/"
+          ],
+          "kana": "シー ウィッシーズ ファー ピースフル マイニング ウィザウト エニー ホスタル モブズ インタラプティング ハー ワーク"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "wished",
+      "ipa": "/wɪʃt/",
+      "examples": [
+        {
+          "en": "After losing all his items, he wished he had been more careful with his inventory.",
+          "ja": "すべてのアイテムを失った後、彼はインベントリーをもっと慎重に扱っていればよかったと思った。",
+          "ipa": "/ˈæftər ˈluːzɪŋ ɔl hɪz ˈaɪtəmz | hi wɪʃt hi həd bɪn ˈmoʊr ˈkɛrfəl wɪð hɪz ɪnˈvɛntəri/",
+          "linking": [
+            "After losing → After の /r/ が losing の /l/ に連結 [ˈæftər ˈluːzɪŋ]"
+          ],
+          "kana": "アフター ルーズィング オール ヒズ アイテムズ、ヒー ウィッシュト ヒー ハッド ビン モア ケアフル ウィズ ヒズ インベントリー"
+        },
+        {
+          "en": "They wished they had explored the End dimension earlier in their adventure.",
+          "ja": "彼らは冒険の早い段階でエンド次元を探検していればよかったと思った。",
+          "ipa": "/ðeɪ wɪʃt ðeɪ həd ɪkˈsˈplɔːrd ðə ˈɛnd dɪˈmɛnʃən ˈɚliər ɪn ðɛr ədˈvɛntʃər/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "the → 弱形 /ðə/",
+            "in → 弱形 /ɪn/"
+          ],
+          "kana": "ゼイ ウィッシュト ゼイ ハッド イクスプロアード ザ エンド ディメンション アーリアー イン ゼア アドベンチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "wished",
+      "ipa": "/wɪʃt/",
+      "examples": [
+        {
+          "en": "Having wished for the best enchantments, the player finally received a mending book from the librarian.",
+          "ja": "最高のエンチャントを望んだ後、プレイヤーはついに図書館員から修繕の本を受け取った。",
+          "ipa": "/ˈhævɪŋ wɪʃt fɔr ðə bɛst ɪnˈtʃæntmənts | ðə ˈpleɪər ˈfaɪnəli rɪˈsiːvd ə ˈmɛndɪŋ bʊk frəm ðə ˌlaɪˈbrɛriən/",
+          "linking": [
+            "having wished → having の /ŋ/ が wished の /w/ に先行（鼻音+子音で連結なし）",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/",
+            "from → 弱形 /frəm/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ハヴィング ウィッシュト ファー ザ ベスト インチャントメンツ、ザ プレイヤー ファイナリー リシーヴド ア メンディング ブック フラム ザ ライブレリアン"
+        },
+        {
+          "en": "Once we had wished for better tools, the blacksmith produced the finest iron equipment in the realm.",
+          "ja": "より良い道具を望んだら、鍛冶屋がレルム内で最高の鉄製装備を製造した。",
+          "ipa": "/wʌns wi həd wɪʃt fɔr ˈbɛtər tulz | ðə ˈblæksmɪθ prəˈdust ðə ˈfaɪnəst ˈaɪrən ɪˈkwɪpmənt ɪn ðə ˈrɛlm/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "for → 弱形 /fɔr/",
+            "better tools → better の /r/ が tools の /t/ に連結 [ˈbɛtər tulz]",
+            "the → 弱形 /ðə/",
+            "in → 弱形 /ɪn/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ワンス ウィ ハッド ウィッシュト ファー ベッラー ツールズ、ザ ブラックスミス プロデュースド ザ ファイネスト アイアーン イクィップメント イン ザ レルム"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "wishing",
+      "ipa": "/ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Without wishing to offend anyone, I think building underground is safer than on the surface.",
+          "ja": "誰も傷つけるつもりはないが、地下に建設する方が表面より安全だと思う。",
+          "ipa": "/wɪˈðaʊt ˈwɪʃɪŋ tu əˈfɛnd ˈɛniwʌn | aɪ θɪŋk ˈbɪldɪŋ ˌʌndɚˈɡraʊnd ɪz ˈseɪfər ðæn ɑn ðə ˈsɝfəs/",
+          "linking": [
+            "to → 弱形 /tə/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ウィザウト ウィッシング トゥー ァフェンド エニワン、アイ シング ビルディング アンダーグラウンド イズ セイファー ザン オン ザ サーフェス"
+        },
+        {
+          "en": "I'm wishing that the next update brings new biomes and more adventure content to explore.",
+          "ja": "次のアップデートで新しいバイオーム と探索するためのより多くのアドベンチャーコンテンツが追加されることを願っています。",
+          "ipa": "/aɪm ˈwɪʃɪŋ ðæt ðə ˈnɛkst ˈʌpdeɪt brɪŋz ˈnuː bɪˈoʊmz ənd ˈmoʊr ədˈvɛntʃər ˈkɑntɛnt tu ɪkˈsplɔr/",
+          "linking": [
+            "I'm → /m/ が /w/ に先行（鼻音+子音）",
+            "the → 弱形 /ðə/",
+            "to → 弱形 /tə/"
+          ],
+          "kana": "アイム ウィッシング ザット ザ ネクスト アップデイト ブリングズ ニュー バイオームズ アン モア ァドベンチャー コンテント トゥー エクスプロア"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is wishing",
+      "ipa": "/ɪz ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "Steve is wishing for diamonds while mining deep in the cave system.",
+          "ja": "スティーブが深い洞窟システムで採掘しながらダイアモンドを望んでいます。",
+          "ipa": "/ˈstiv ɪz ˈwɪʃɪŋ fɔr ˈdaɪəməndz waɪl ˈmaɪnɪŋ dip ɪn ðə keɪv ˈsɪstəm/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "for → 弱形 /fɔr/",
+            "Steve is: /v/ が /ɪ/ に連結 [ˈstivɪz]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "スティーヴ イズ ウィッシング ファー ダイアマンズ ワイル マイニング ディープ イン ザ ケイヴ システム"
+        },
+        {
+          "en": "They are wishing for the perfect weather to build their sky tower without interruptions.",
+          "ja": "彼らは邪魔されずに空の塔を建設するための完璧な天気を望んでいます。",
+          "ipa": "/ðeɪ ɑr ˈwɪʃɪŋ fɔr ðə ˈpɝfɪkt ˈwɛðər tu ˈbɪld ðɛr skaɪ ˈtaʊər wɪˈðaʊt ˌɪntɚˈʌpʃənz/",
+          "linking": [
+            "are → 弱形 /ɑr/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/",
+            "to → 弱形 /tə/",
+            "their → 弱形 /ðɛr/"
+          ],
+          "kana": "ゼイ ァー ウィッシング ファー ザ パーフェクト ウェザー トゥー ビルド ゼア スカイ タワー ウィザウト インタラプションズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was wishing",
+      "ipa": "/wəz ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was wishing for better luck when I suddenly found a rare ore vein in the stone.",
+          "ja": "私がより良い運を望んでいたときに、突然石の中に珍しい鉱石の鉱脈を見つけた。",
+          "ipa": "/aɪ wəz ˈwɪʃɪŋ fɔr ˈbɛtər lʌk wɛn aɪ ˈsʌdənli faʊnd ə ˈrɛr ˈɔr veɪn ɪn ðə stoʊn/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "for → 弱形 /fɔr/",
+            "a → 弱形 /ə/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイ ワズ ウィッシング ファー ベッラー ラック ウェン アイ サドゥンリー ファウンド ア レア オア ベイン イン ザ ストウン"
+        },
+        {
+          "en": "She was wishing she had brought more inventory space when her pickaxe broke.",
+          "ja": "彼女のツルハシが壊れたとき、もっとインベントリースペースを持ってきていればよかったと思っていた。",
+          "ipa": "/ʃi wəz ˈwɪʃɪŋ ʃi həd brɔt ˈmoʊr ɪnˈvɛntəri speɪs wɛn hɚ ˈpɪkˌæks broʊk/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "had → 弱形 /həd/",
+            "her → 弱形 /hɚ/"
+          ],
+          "kana": "シー ワズ ウィッシング シー ハッド ブローット モア インベンタリー スペイス ウェン ハー ピッカックス ブロウク"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been wishing",
+      "ipa": "/həd bɪn ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "They had been wishing for a strong leader long before the server was finally established.",
+          "ja": "サーバーが最終的に確立される前に、彼らは長い間強いリーダーを望んでいました。",
+          "ipa": "/ðeɪ həd bɪn ˈwɪʃɪŋ fɔr ə strɔŋ ˈlidər lɔŋ bɪˈfɔr ðə ˈsɝvər wəz ˈfaɪnəli ɪsˈtæblɪʃt/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fɔr/",
+            "a → 弱形 /ə/",
+            "before the → before の /r/ が the の /ð/ に連結 [bɪˈfɔr ðə]",
+            "was → 弱形 /wəz/"
+          ],
+          "kana": "ゼイ ハッド ビン ウィッシング ファー ア ストロング リーダー ロング ビフォア ザ サーヴァー ワズ ファイナリー イスタブリッシュト"
+        },
+        {
+          "en": "By the time we started building, I had been wishing for the perfect location for weeks.",
+          "ja": "建設を始めるまでに、私は数週間の間、完璧な場所を望んでいました。",
+          "ipa": "/baɪ ðə taɪm wi ˈstɑːrtɪd ˈbɪldɪŋ | aɪ həd bɪn ˈwɪʃɪŋ fɔr ðə ˈpɝfɪkt loʊˈkeɪʃən fɔr wiːks/",
+          "linking": [
+            "by the → by の /y/ が the の /ð/ に連結 [baɪ ðə]",
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "バイ ザ タイム ウィ スターティド ビルディング、アイ ハッド ビン ウィッシング ファー ザ パーフェクト ロウケイション ファー ウィークス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has wished",
+      "ipa": "/həz wɪʃt/",
+      "examples": [
+        {
+          "en": "The admin has wished every player good luck since the server's launch.",
+          "ja": "管理者はサーバー起動以来、すべてのプレイヤーに幸運を祈っています。",
+          "ipa": "/ðə ˈædmɪn həz wɪʃt ˈɛvri ˈpleɪər ɡʊd lʌk sɪns ðə ˈsɝvərz lɔːntʃ/",
+          "linking": [
+            "has → 弱形 /həz/",
+            "every → 弱形 /ˈɛvri/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ アドミン ハズ ウィッシュト エブリー プレイヤー グッド ラック シンス ザ サーヴァーズ ローンチ"
+        },
+        {
+          "en": "We have wished for more challenging dungeons ever since exploring the underground.",
+          "ja": "地下を探検して以来、私たちはより挑戦的なダンジョンを望んでいます。",
+          "ipa": "/wi həv wɪʃt fɔr ˈmoʊr tʃəˈlɛndʒɪŋ ˈdʌndʒənz ˈɛvər sɪns ɪkˈsˈplɔːrɪŋ ðə ˌʌndɚˈɡraʊnd/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ウィッシュト ファー モア チャレンジング ダンジョンズ エバー シンス イクスプロアリング ザ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had wished",
+      "ipa": "/həd wɪʃt/",
+      "examples": [
+        {
+          "en": "Once we had wished for success, the tournament results finally matched our expectations.",
+          "ja": "成功を望んだ後、トーナメントの結果は最終的に私たちの期待と一致しました。",
+          "ipa": "/wʌns wi həd wɪʃt fɔr səkˈsɛs | ðə ˈtɔːrnəmɛnt rɪˈzʌlts ˈfaɪnəli mætʃt aʊr ɪkˈspɛkˈteɪʃənz/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/",
+            "our → 弱形 /aʊr/"
+          ],
+          "kana": "ワンス ウィ ハッド ウィッシュト ファー サクセス、ザ トーナメント リザルツ ファイナリー マッチト アワー イクスペクテイションズ"
+        },
+        {
+          "en": "By the time the update arrived, we had wished for new building blocks for months.",
+          "ja": "アップデートが到着する時点で、私たちは数か月間、新しいビルディングブロックを望んでいました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈʌpdeɪt əˈraɪvd | wi həd wɪʃt fɔr ˈnuː ˈbɪldɪŋ blɑks fɔr mʌnθs/",
+          "linking": [
+            "by the → by の /y/ が the の /ð/ に連結 [baɪ ðə]",
+            "the → 弱形 /ðə/",
+            "had → 弱形 /həd/",
+            "for → 弱形 /fɔr/",
+            "new building → new の末尾/uː/が building の /b/ に続く（子音+子音で連結なし）",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "バイ ザ タイム ザ アップデイト ァライヴド、ウィ ハッド ウィッシュト ファー ニュー ビルディング ブロックス ファー マンスズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been wishing",
+      "ipa": "/həz bɪn ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "The community has been wishing for better server performance improvements for several months now.",
+          "ja": "コミュニティはここ数か月、より良いサーバーパフォーマンスの改善を望んでいます。",
+          "ipa": "/ðə kəˈmjuːnɪti həz bɪn ˈwɪʃɪŋ fɔr ˈbɛtər ˈsɝvər pɚˈfɔrməns ɪmˈpruːvmənts fɔr ˈsɛvərəl mʌnθz naʊ/",
+          "linking": [
+            "has → 弱形 /həz/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ザ コミュニティ ハズ ビン ウィッシング ファー ベッラー サーヴァー パフォーマンス インプルーヴメンツ ファー セベラル マンスズ ナウ"
+        },
+        {
+          "en": "I have been wishing for a peaceful realm free from griefing since the server started.",
+          "ja": "サーバーが開始して以来、グリーフィングのない平和なレルムを望んでいます。",
+          "ipa": "/aɪ həv bɪn ˈwɪʃɪŋ fɔr ə ˈpiːsfəl ˈrɛlm fri frəm ˈɡrifɪŋ sɪns ðə ˈsɝvər ˈstɑːrtɪd/",
+          "linking": [
+            "have → 弱形 /həv/",
+            "been → 弱形 /bɪn/",
+            "for → 弱形 /fɔr/",
+            "a → 弱形 /ə/",
+            "free from → free の /iː/ が from の /f/ に先行（子音+子音で連結なし）",
+            "from → 弱形 /frəm/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン ウィッシング ファー ア ピースフル レルム フリー フラム グリーフィング シンス ザ サーヴァー スターティド"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will wish",
+      "ipa": "/wɪl wɪʃ/",
+      "examples": [
+        {
+          "en": "I will wish for diamonds tomorrow when I start mining at the new location.",
+          "ja": "明日、新しい場所で採掘を始めるときにダイアモンドを望むだろう。",
+          "ipa": "/aɪ wɪl wɪʃ fɔr ˈdaɪəməndz təˈmɑroʊ wɛn aɪ ˈstɑrt ˈmaɪnɪŋ ət ðə ˈnuː loʊˈkeɪʃən/",
+          "linking": [
+            "will → 縮約 /wɪl/（I'll /aɪl/）",
+            "wish for → 語末の /ʃ/ が /f/ に先行（子音+子音で連結なし）",
+            "for → 弱形 /fɔr/",
+            "tomorrow → 弱形 /təˈmɑroʊ/",
+            "at → 弱形 /ət/",
+            "the → 弱形 /ðə/",
+            "new location → new の末尾/uː/が location に続く（子音+母音）"
+          ],
+          "kana": "アイル ウィッシュ ファー ダイアマンズ トゥモロー ウェン アイ スタート マイニング ァット ザ ニュー ロウケイション"
+        },
+        {
+          "en": "You'll wish you had prepared better equipment before entering the Nether.",
+          "ja": "ネザーに入る前に、もっと良い装備を準備していればよかったと思うだろう。",
+          "ipa": "/juːl wɪʃ ju həd prɪˈpɛrd ˈbɛtər ɪˈkwɪpmənt bɪˈfɔr ˈɛntərɪŋ ðə ˈnɛðər/",
+          "linking": [
+            "you'll → 縮約 /juːl/",
+            "had → 弱形 /həd/",
+            "better equipment → better の /r/ が equipment の /ɪ/ に連結 [ˈbɛtər ɪˈkwɪpmənt]",
+            "before → /bɪˈfɔr/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ユール ウィッシュ ユー ハッド プリペアード ベッラー イクィップメント ビフォア エンタリング ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be wishing",
+      "ipa": "/wɪl bi ˈwɪʃɪŋ/",
+      "examples": [
+        {
+          "en": "We will be wishing for good weather while building our sky base next week.",
+          "ja": "来週、空の基地を建設しながら、いい天気を望んでいるだろう。",
+          "ipa": "/wi wɪl bi ˈwɪʃɪŋ fɔr ɡʊd ˈwɛðər waɪl ˈbɪldɪŋ ˈaʊər skaɪ beɪs nɛkst wik/",
+          "linking": [
+            "will → 縮約 /wɪl/（we'll /wil/）",
+            "be → 弱形 /bi/",
+            "for → 弱形 /fɔr/",
+            "our → 弱形 /ˈaʊər/"
+          ],
+          "kana": "ウィル ビー ウィッシング ファー グッド ウェザー ワイル ビルディング アワー スカイ ベイス ネクスト ウィーク"
+        },
+        {
+          "en": "She'll be wishing she had brought more supplies when she reaches the deepest caves.",
+          "ja": "彼女が最も深い洞窟に到達するとき、もっと多くの物資を持ってきていればよかったと思うだろう。",
+          "ipa": "/ʃil bi ˈwɪʃɪŋ ʃi həd brɔt ˈmoʊr səˈplaɪz wɛn ʃi ˈriːtʃɪz ðə ˈdipəst keɪvz/",
+          "linking": [
+            "she'll → 縮約 /ʃil/",
+            "be → 弱形 /bi/",
+            "had → 弱形 /həd/",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "シール ビー ウィッシング シー ハッド ブローット モア サプライズ ウェン シー リーチーズ ザ ディープェスト ケイヴズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have wished",
+      "ipa": "/wɪl həv wɪʃt/",
+      "examples": [
+        {
+          "en": "By the end of the month, they will have wished for victory in every single battle.",
+          "ja": "月末までに、彼らはすべての戦いでの勝利を望んでいるだろう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə mʌnθ | ðeɪ wɪl həv wɪʃt fɔr ˈvɪktəri ɪn ˈɛvri ˈsɪŋɡəl ˈbætəl/",
+          "linking": [
+            "by the → by の /y/ が the の /ð/ に連結 [baɪ ðə]",
+            "of the → of は弱形 /əv/、the は弱形 /ðə/",
+            "will → 縮約 /wɪl/（they'll）",
+            "have → 弱形 /həv/",
+            "for → 弱形 /fɔr/",
+            "in → 弱形 /ɪn/"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ マンス、ゼイ ウィル ハヴ ウィッシュト ファー ビクタリー イン エブリー シングゥル バトゥル"
+        },
+        {
+          "en": "I will have wished for the perfect enchanted sword by the time the final boss battle begins.",
+          "ja": "ファイナルボスとの戦いが始まるまでに、完璧にエンチャントされた剣を望んでいるだろう。",
+          "ipa": "/aɪ wɪl həv wɪʃt fɔr ðə ˈpɝfɪkt ɪnˈtʃæntɪd sɔrd baɪ ðə taɪm ðə ˈfaɪnəl bɔs ˈbætəl bɪˈɡɪnz/",
+          "linking": [
+            "will → 縮約 /wɪl/（I'll）",
+            "have → 弱形 /həv/",
+            "for → 弱形 /fɔr/",
+            "the → 弱形 /ðə/",
+            "by the → by の /y/ が the の /ð/ に連結 [baɪ ðə]",
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "アイル ハヴ ウィッシュト ファー ザ パーフェクト インチャンティド ソード バイ ザ タイム ザ ファイナル ボス バトゥル ビギンズ"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
+}

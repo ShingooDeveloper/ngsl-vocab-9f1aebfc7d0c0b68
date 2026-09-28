@@ -1,0 +1,499 @@
+{
+  "word": "smoke",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/smoʊk/",
+  "rank": 1800,
+  "level": "B1",
+  "hi": "smoke(?:s|d|ing)?",
+  "meanings": [
+    "【動詞】～から煙を出す、～に煙を吹きかける（emit or produce smoke）",
+    "【動詞】（物を）燻す、スモークする（preserve food by exposing to smoke）",
+    "【動詞】煙を吸う、喫煙する（inhale and exhale smoke from a cigarette）",
+    "【名詞】煙、スモーク（visible gases and particles produced by fire）"
+  ],
+  "examples": [
+    {
+      "en": "The campfire smokes gently in the forest clearing.",
+      "ja": "キャンプファイアーは森の空き地でやさしく煙を出しています。",
+      "ipa": "/ðə ˈkæmpˌfaɪr smoʊks ˈdʒɛntli ɪn ðə ˈfɔrɪst ˈklɪrɪŋ/",
+      "linking": [
+        "the campfire - the は弱形 /ðə/"
+      ],
+      "kana": "ザ キャンプファイアー スモークス ジェントリー イン ザ フォレスト クリアリング"
+    },
+    {
+      "en": "I need to smoke the salmon for the kitchen.",
+      "ja": "キッチン用にサーモンを燻す必要があります。",
+      "ipa": "/aɪ niːd tu smoʊk ðə ˈsæmən fɔr ðə ˈkɪtʃən/",
+      "linking": [
+        "need to - to は弱形 /tə/",
+        "the salmon - the は弱形 /ðə/",
+        "for the - for は弱形 /fɚ/、the も弱形 /ðə/"
+      ],
+      "kana": "アイ ニード トゥ スモーク ザ サーミン フォー ザ キッチン"
+    },
+    {
+      "en": "Thick white smoke poured from the explosion.",
+      "ja": "爆発から厚い白い煙が流れ出た。",
+      "ipa": "/θɪk ˈwaɪt smoʊk ˈpɔrd frəm ðɪ ɪkˈsploʊʒən/",
+      "linking": [
+        "white smoke - /t/ + /s/（子音+子音、連結なし）",
+        "from the - from は弱形 /frəm/、the も弱形 /ðɪ/"
+      ],
+      "kana": "スィック ホワイト スモーク ポアド フラム ディ エクスプロージョン"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "The furnace smokes when I place wood inside.",
+      "ja": "中に木を置くとかまどが煙を出します。",
+      "ipa": "/ðə ˈfɝːnɪs smoʊks wen aɪ ˈpleɪs ˈwʊd ɪnˈsaɪd/",
+      "linking": [
+        "the furnace - the は弱形 /ðə/",
+        "when I - /n/ + /aɪ/（子音+母音）が連結 [wen aɪ] ウェン アイ"
+      ],
+      "kana": "ザ ファーネス スモークス ウェン アイ プレイス ウッド インサイド"
+    },
+    {
+      "en": "I smoked out the cave system to find the spawner.",
+      "ja": "スポーナーを見つけるために洞窟システムを燻し出しました。",
+      "ipa": "/aɪ smoʊkt ˈaʊt ðə ˈkeɪv ˈsɪstəm tu ˈfaɪnd ðə ˈspɔːnər/",
+      "linking": [
+        "smoked out - /t/ + /aʊ/（子音+母音）が連結 [smoʊk̚taʊt̚] スモークタウト",
+        "out the - /t/ が the に連結 [aʊt̚ðə] アウトザ",
+        "to find - to は弱形 /tə/"
+      ],
+      "kana": "アイ スモークタウトザ ケイヴ システム トゥ ファインド ザ スポナー"
+    },
+    {
+      "en": "The redstone circuit is smoking and needs repair.",
+      "ja": "レッドストーン回路が煙を出しており、修理が必要です。",
+      "ipa": "/ðə ˈɹɛdˌstoʊn ˈsɝːkɪt ɪz ˈsmoʊkɪŋ ənd ˈniːdz rɪˈpɛr/",
+      "linking": [
+        "the redstone - the は弱形 /ðə/",
+        "is smoking - /z/ が /s/ に続く（子音+子音）",
+        "and needs - and は弱形 /ənd/ or /ən/"
+      ],
+      "kana": "ザ レッドストーン サーキット イズ スモーキング アン ニーズ リペア"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "smokes",
+      "ipa": "/smoʊks/",
+      "examples": [
+        {
+          "en": "The campfire smokes near the base entrance.",
+          "ja": "キャンプファイアーが基地入り口の近くで煙を出している。",
+          "ipa": "[ðə ˈkæmpˌfaɪər smoʊks nɪrðə ˈbeɪs ˈɛntərəns]",
+          "linking": [
+            "near the - 語末子音 /r/ が母音 /ə/ に連結 [nɪrðə] ニアザ",
+            "the base - 弱形 /ðə/ が /b/ に連結 [ðə ˈbeɪs] ザ ベース"
+          ],
+          "kana": "ザ キャンプファイアー スモークス ニアザ ベース エントランス"
+        },
+        {
+          "en": "Every furnace smokes when actively smelting ore.",
+          "ja": "活発に鉱石を製錬しているとき、すべての炉から煙が出ます。",
+          "ipa": "[ˈɛvri ˈfɝːnɪs smoʊks wen ˈæktɪvli ˈsmɛltɪŋ ˈɔr]",
+          "linking": [
+            "furnace smokes - 子音+子音（連結なし）",
+            "when actively - /n/ + /æ/（子音+母音） [wen ˈæktɪvli] ウェン アクティブリー"
+          ],
+          "kana": "エブリー ファーネス スモークス ウェン アクティブリー スメルティング オア"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "smoked",
+      "ipa": "/smoʊkt/",
+      "examples": [
+        {
+          "en": "I smoked the cave entrance to drive out mobs.",
+          "ja": "モブを追い出すために、洞窟入り口を燻しました。",
+          "ipa": "[aɪ smoʊkt ðə ˈkeɪv ˈɛntərəns tu ˈdraɪv aʊt ˈmɑbz]",
+          "linking": [
+            "smoked the - 語末 /t/ が未開放で /ð/ に連接 [smoʊk̚ðə] スモークザ",
+            "the cave - 弱形 /ðə/ が /k/ に連結 [ðə ˈkeɪv] ザ ケイヴ"
+          ],
+          "kana": "アイ スモークザ ケイヴ エントランス トゥ ドライブ アウト モブズ"
+        },
+        {
+          "en": "Yesterday we smoked the spawner room completely.",
+          "ja": "昨日、私たちはスポナー室を完全に燻しました。",
+          "ipa": "[ˈjɛstərdeɪ wi smoʊkt ðə ˈspɔːnər ˈrum kəmˈpliːtli]",
+          "linking": [
+            "smoked the - /t/ が未開放で /ð/ に連接 [smoʊk̚ðə] スモークザ",
+            "the spawner - 弱形 /ðə/ が /s/ に連結 [ðə ˈspɔːnər] ザ スポナー"
+          ],
+          "kana": "イェスターディー ウィー スモークザ スポナー ルーム コンプリートリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "smoked",
+      "ipa": "/smoʊkt/",
+      "examples": [
+        {
+          "en": "The smoked salmon looks delicious in the kitchen.",
+          "ja": "キッチンのスモークサーモンはおいしそうに見えます。",
+          "ipa": "[ðə ˈsmoʊkt ˈsæmən ˈlʊks dɪˈlɪʃəs ɪn ðə ˈkɪtʃən]",
+          "linking": [
+            "smoked salmon - 子音+子音（連結なし）",
+            "in the - /n/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "ザ スモークト サーミン ルックス ディリシャス イン ザ キッチン"
+        },
+        {
+          "en": "Smoked glass blocks are used for decorative purposes.",
+          "ja": "スモークガラスブロックは装飾的な目的で使用されます。",
+          "ipa": "[ˈsmoʊkt ˈɡlæs ˈblɑks ɑr ˈjuːzd fɔr ˌdɛkərəˈtɪv ˈpɝːpəsɪz]",
+          "linking": [
+            "smoked glass - 子音+子音（連結なし）",
+            "are used - /r/ + /ˈj/（子音+子音、連結なし）",
+            "for decorative - for は弱形 /fɚ/"
+          ],
+          "kana": "スモークト グラス ブロックス アー ユースド フォー デコレイティヴ パーパサズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "smoking",
+      "ipa": "/ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I see the furnace smoking from across the base.",
+          "ja": "基地全体から炉が煙を出しているのが見えます。",
+          "ipa": "[aɪ ˈsi ðə ˈfɝːnɪs ˈsmoʊkɪŋ frəm əˈkrɔs ðə ˈbeɪs]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "from across - from は弱形 /frəm/、across は /əˈkrɔs/",
+            "across the - /s/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/"
+          ],
+          "kana": "アイ シー ザ ファーネス スモーキング フラム アクロス ザ ベース"
+        },
+        {
+          "en": "Smoking redstone circuits indicate a power overload.",
+          "ja": "煙を出しているレッドストーン回路は、電源過負�を示しています。",
+          "ipa": "[ˈsmoʊkɪŋ ˈɹɛdˌstoʊn ˈsɝːkɪts ˈɪndɪkeɪt ə ˈpaʊər ˈoʊvərˌloʊd]",
+          "linking": [
+            "smoking redstone - /ŋ/ + /ɹ/（子音+子音、連結なし）",
+            "indicate a - /t/ + /ə/（子音+母音） [ˈɪndɪkeɪt ə] インディケイト ア"
+          ],
+          "kana": "スモーキング レッドストーン サーキッツ インディケイト ア パワー オーバーロード"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is smoking",
+      "ipa": "/ɪz ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace is smoking heavily because of the smelting process.",
+          "ja": "製錬プロセスのため、かまどが大量に煙を出しています。",
+          "ipa": "[ðə ˈfɝːnɪs ɪz ˈsmoʊkɪŋ ˈhɛvəli bɪˈkɔːz əv ðə ˈsmɛltɪŋ ˈprɑːsɛs]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "is smoking - is は弱形 /ɪz/",
+            "because of - 語末子音 /z/ が母音 /ə/ に連結、of は弱形 /əv/ [bɪˈkɔːz əv] ビコーズ アヴ",
+            "the smelting - the は弱形 /ðə/"
+          ],
+          "kana": "ザ ファーネス イズ スモーキング ヘビリー ビコーズ アヴ ザ スメルティング プロセス"
+        },
+        {
+          "en": "They are smoking out the cave to find the spawner.",
+          "ja": "彼らはスポーナーを見つけるために洞窟を燻し出しています。",
+          "ipa": "[ðeɪ ɑr ˈsmoʊkɪŋ ˈaʊt ðə ˈkeɪv tu ˈfaɪnd ðə ˈspɔːnər]",
+          "linking": [
+            "are smoking - are は弱形 /ɚ/ または /ər/",
+            "out the - /t/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "find the - 語末子音 /d/ が母音 /ə/ に連結 [ˈfaɪndə] ファインダ",
+            "to find - to は弱形 /tə/"
+          ],
+          "kana": "ゼイ アー スモーキング アウトザ ケイヴ トゥ ファインダ スポナー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was smoking",
+      "ipa": "/wəz ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace was smoking when I arrived at the base.",
+          "ja": "私が基地に着いたとき、かまどが煙を出していました。",
+          "ipa": "[ðə ˈfɝːnɪs wəz ˈsmoʊkɪŋ wen aɪ əˈraɪvd ət ðə ˈbeɪs]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "was smoking - was は弱形 /wəz/",
+            "when I - 子音 /n/ が母音 /aɪ/ に連結 [wen aɪ] ウェン アイ",
+            "arrived at - 語末子音 /d/ が母音 /ə/ に連結し、at は /ət/、/t/ が未開放 [əˈraɪvdət̚] アライブダッ",
+            "at the - /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [ət̚ðə] アッザ"
+          ],
+          "kana": "ザ ファーネス ワズ スモーキング ウェン アイ アライブダッザ ベース"
+        },
+        {
+          "en": "The redstone circuit was smoking for hours before it stopped.",
+          "ja": "レッドストーン回路は停止する前に何時間も煙を出していました。",
+          "ipa": "[ðə ˈɹɛdˌstoʊn ˈsɝːkɪt wəz ˈsmoʊkɪŋ fɔr ˈaʊərz bɪˈfɔr ɪt ˈstɑpt]",
+          "linking": [
+            "the redstone - the は弱形 /ðə/",
+            "was smoking - was は弱形 /wəz/",
+            "for hours - for は弱形 /fɚ/",
+            "before it - 語末子音 /r/ が母音 /ɪ/ に連結 [bɪˈfɔrɪt] ビフォーリット",
+            "it stopped - /t/ + /s/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ レッドストーン サーキット ワズ スモーキング フォー アワーズ ビフォーリット ストップト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been smoking",
+      "ipa": "/hæd bɪn ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The campfire had been smoking all day when we finally put it out.",
+          "ja": "キャンプファイアは私たちがついに消すまで一日中煙を出していました。",
+          "ipa": "[ðə ˈkæmpˌfaɪər hæd bɪn ˈsmoʊkɪŋ ɔl ˈdeɪ wen wi ˈfaɪnəli pʊt ɪt ˈaʊt]",
+          "linking": [
+            "the campfire - the は弱形 /ðə/",
+            "had been - had は弱形 /həd/、been は弱形 /bɪn/",
+            "been smoking - /n/ + /s/（子音+子音、連結なし）",
+            "when we - /n/ + /w/（子音+子音、連結なし）",
+            "finally put - /i/ + /p/（母音+子音、連結なし）、put it - /t/ が母音 /ɪ/ に連結しフラップ化 [pʊɾɪt] プッリット",
+            "it out - /t/ が未開放で /aʊ/ に連接 [ɪt̚ ˈaʊt] イッタウト"
+          ],
+          "kana": "ザ キャンプファイアー ハド ビン スモーキング オール デイ ウェン ウィー ファイナリー プッリット アウト"
+        },
+        {
+          "en": "The furnace had been smoking for three hours before the fuel ran out.",
+          "ja": "かまどは燃料がなくなる前に3時間煙を出していました。",
+          "ipa": "[ðə ˈfɝːnɪs hæd bɪn ˈsmoʊkɪŋ fɔr ˈθri ˈaʊərz bɪˈfɔr ðə ˈfjuːəl ˈɹæn ˈaʊt]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "had been - had は弱形 /həd/、been は弱形 /bɪn/",
+            "been smoking - /n/ + /s/（子音+子音、連結なし）",
+            "for three - for は弱形 /fɚ/",
+            "before the - /r/ + /ð/（子音+子音、連結なし）、the は弱形 /ðə/",
+            "the fuel - 弱形 /ðə/",
+            "fuel ran - 語末子音 /l/ が子音 /ɹ/ に連接 [ˈfjuːəl ˈɹæn] フューアル ラン"
+          ],
+          "kana": "ザ ファーネス ハド ビン スモーキング フォー スリー アワーズ ビフォー ザ フューアル ラン アウト"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has smoked",
+      "ipa": "/hæz smoʊkt/",
+      "examples": [
+        {
+          "en": "The furnace has smoked out the entire cave system.",
+          "ja": "炉がもう洞窟システム全体を燻し出している。",
+          "ipa": "[ðə ˈfɝːnɪs həz smoʊkt aʊt ðɪ ɪnˈtaɪr keɪv ˈsɪstəm]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "has smoked - has は弱形 /həz/",
+            "smoked out - 語末 /t/ が未開放で次の /aʊ/ に連接 [smoʊk̚t aʊt] スモークアウト",
+            "out the - /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [aʊt̚ðə] アウトザ",
+            "the entire - 弱形 /ðə/ が /ɪ/ に連結 [ðə ɪnˈtaɪr] ザ エンタイアー"
+          ],
+          "kana": "ザ ファーネス ハズ スモークアウトザ エンタイアー ケイヴ システム"
+        },
+        {
+          "en": "We have smoked the spawner room to prevent mob spawning.",
+          "ja": "私たちはスポナー室を燻したので、モブのスポーン防止に成功している。",
+          "ipa": "[wi həv smoʊkt ðə ˈspɔːnər ˈrum tə prɪˈvɛnt ˈmɑb ˈspɔːnɪŋ]",
+          "linking": [
+            "have smoked - have は弱形 /həv/",
+            "smoked the - 語末 /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [smoʊk̚ðə] スモークザ",
+            "the spawner - 弱形 /ðə/、spawner は /ˈspɔːnər/",
+            "to prevent - to は弱形 /tə/",
+            "prevent mob - /t/ + /m/（子音+子音、連結なし）"
+          ],
+          "kana": "ウィー ハヴ スモークザ スポナー ルーム タ プリベント モブ スポーニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had smoked",
+      "ipa": "/hæd smoʊkt/",
+      "examples": [
+        {
+          "en": "The furnace had smoked out the area before we arrived.",
+          "ja": "私たちが到着する前に、炉がその地域を燻し出していた。",
+          "ipa": "[ðə ˈfɝːnɪs hæd smoʊkt aʊt ðə ˈɛriə bɪˈfɔr wi əˈraɪvd]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "had smoked - had は弱形 /həd/",
+            "smoked out - 語末 /t/ が未開放で /aʊ/ に連接 [smoʊk̚t aʊt] スモークアウト",
+            "out the - /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [aʊt̚ðə] アウトザ",
+            "the area - 弱形 /ðə/、area は /ˈɛriə/",
+            "before we - /r/ + /w/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ファーネス ハド スモークアウトザ エリア ビフォー ウィー アライブド"
+        },
+        {
+          "en": "By the time the fire started, someone had smoked all the fish.",
+          "ja": "火が出た時には、誰かがもう全ての魚を燻していた。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈfaɪər ˈstɑːrtəd ˈsʌmwʌn həd smoʊkt ɔl ðə ˈfɪʃ]",
+          "linking": [
+            "by the - /aɪ/ + /ð/（母音+子音、連結なし）、the は弱形 /ðə/",
+            "the time - 弱形 /ðə/",
+            "time the - 語末子音 /m/ が母音 /ə/ に連結 [ˈtaɪm ðə] タイム ザ",
+            "the fire - 弱形 /ðə/",
+            "had smoked - had は弱形 /həd/",
+            "smoked all - 語末 /t/ が未開放で /ɔ/ に連接 [smoʊk̚t ɔl] スモークオール",
+            "all the - 語末子音 /l/ が母音 /ə/ に連結、the は弱形 /ðə/ [ɔl ðə] オール ザ"
+          ],
+          "kana": "バイ ザ タイム ザ ファイアー スターティッド サムワン ハド スモークオール ザ フィッシュ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been smoking",
+      "ipa": "/hæz bɪn ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The redstone circuit has been smoking for an hour.",
+          "ja": "レッドストーン回路が1時間ずっと煙を出し続けている。",
+          "ipa": "[ðə ˈɹɛdˌstoʊn ˈsɝːkɪt həz bɪn ˈsmoʊkɪŋ fɚ ən ˈaʊər]",
+          "linking": [
+            "the redstone - the は弱形 /ðə/",
+            "has been - has は弱形 /həz/、been は弱形 /bɪn/",
+            "been smoking - /n/ + /s/（子音+子音、連結なし）",
+            "for an - for は弱形 /fɚ/、an は /ən/",
+            "an hour - /n/ + /aʊ/（子音+母音）が連結 [ən ˈaʊər] エン アワー"
+          ],
+          "kana": "ザ レッドストーン サーキット ハズ ビン スモーキング フォ エン アワー"
+        },
+        {
+          "en": "The furnace has been smoking nonstop since this morning.",
+          "ja": "炉が今朝からずっと止まらずに煙を出している。",
+          "ipa": "[ðə ˈfɝːnɪs həz bɪn ˈsmoʊkɪŋ ˈnɑnˌstɑp sɪns ˈðɪs ˈmɔːrnɪŋ]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "has been - has は弱形 /həz/、been は弱形 /bɪn/",
+            "been smoking - /n/ + /s/（子音+子音、連結なし）",
+            "nonstop since - /p/ + /s/（子音+子音、連結なし）",
+            "since this - /s/ + /ð/（子音+子音、連結なし）"
+          ],
+          "kana": "ザ ファーネス ハズ ビン スモーキング ノンストップ シンス ディス モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will smoke",
+      "ipa": "/wɪl smoʊk/",
+      "examples": [
+        {
+          "en": "The furnace will smoke as soon as we add fuel.",
+          "ja": "燃料を追加するとすぐに、かまどが煙を出します。",
+          "ipa": "[ðə ˈfɝːnɪs wɪl smoʊk əz ˈsuːn əz wi ˈæd ˈfjuːəl]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "smoke as - 語末子音 /k/ が母音 /ə/ に連結 [smoʊkəz]",
+            "soon as - 語末子音 /n/ が母音 /ə/ に連結 [ˈsuːnəz]"
+          ],
+          "kana": "ザ ファーネス ウィル スモークアズ スーナズ ウィ アッド フューアル"
+        },
+        {
+          "en": "You'll smoke out the cave system to eliminate mobs by tomorrow.",
+          "ja": "明日までに、洞窟システムを燻して、モブを排除します。",
+          "ipa": "[juːl smoʊk aʊt ðə ˈkeɪv ˈsɪstəm tu ɪˈlɪmɪneɪt ˈmɑbz baɪ təˈmɑːroʊ]",
+          "linking": [
+            "you'll smoke - you'll は縮約形 /juːl/",
+            "smoke out - 語末子音 /k/ が母音 /aʊ/ に連結 [smoʊkaʊt]",
+            "out the - 語末 /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [aʊt̚ðə]",
+            "to eliminate - to は弱形 /tə/"
+          ],
+          "kana": "ユール スモークアウトザ ケイヴ システム トゥ イリミネイト モブズ バイ トゥモロー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be smoking",
+      "ipa": "/wɪl bi ˈsmoʊkɪŋ/",
+      "examples": [
+        {
+          "en": "The furnace will be smoking when you arrive at the base.",
+          "ja": "基地に到着したとき、かまどが煙を出し続けているでしょう。",
+          "ipa": "[ðə ˈfɝːnɪs wɪl bi ˈsmoʊkɪŋ wen ju əˈraɪv ət ðə ˈbeɪs]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "will be - will は弱形 /wəl/、be は弱形 /bə/",
+            "arrive at - 語末子音 /v/ が母音 /ə/ に連結 [əˈraɪvət]、at は弱形 /ət/",
+            "at the - /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [ət̚ðə]"
+          ],
+          "kana": "ザ ファーネス ウィル ビー スモーキング ウェン ユー アライヴ アッザ ベース"
+        },
+        {
+          "en": "They'll be smoking out the cave system all night long.",
+          "ja": "彼らは一晩中、洞窟システムを燻し出し続けるでしょう。",
+          "ipa": "[ðeɪl bi ˈsmoʊkɪŋ aʊt ðə ˈkeɪv ˈsɪstəm ɔl ˈnaɪt lɔŋ]",
+          "linking": [
+            "they'll be - they'll は縮約形 /ðeɪl/、be は弱形 /bə/",
+            "smoking out - 語末子音 /ŋ/ が母音 /aʊ/ に連結 [ˈsmoʊkɪŋ aʊt]",
+            "out the - 語末 /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [aʊt̚ðə]"
+          ],
+          "kana": "ゼイル ビー スモーキングアウトザ ケイヴ システム オール ナイト ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have smoked",
+      "ipa": "/wɪl həv smoʊkt/",
+      "examples": [
+        {
+          "en": "The furnace will have smoked out the spawner by sunset.",
+          "ja": "日没までに、炉がスポーナーを燻し出しているでしょう。",
+          "ipa": "[ðə ˈfɝːnɪs wɪl həv smoʊkt aʊt ðə ˈspɔːnər baɪ ˈsʌnset]",
+          "linking": [
+            "the furnace - the は弱形 /ðə/",
+            "will have - will は弱形 /wəl/、have は弱形 /həv/",
+            "smoked out - 語末 /t/ が未開放で /aʊ/ に連接 [smoʊk̚t aʊt]",
+            "out the - 語末 /t/ が未開放で /ð/ に連接、the は弱形 /ðə/ [aʊt̚ðə]"
+          ],
+          "kana": "ザ ファーネス ウィル ハヴ スモークアウトザ スポナー バイ サンセット"
+        },
+        {
+          "en": "I'll have smoked all the salmon before the trading session ends.",
+          "ja": "取引セッションが終わる前に、サーモンをすべて燻しているでしょう。",
+          "ipa": "[aɪl həv smoʊkt ɔl ðə ˈsæmən bɪˈfɔr ðə ˈtreɪdɪŋ ˈsɛʃən ˈɛndz]",
+          "linking": [
+            "I'll have - I'll は縮約形 /aɪl/、have は弱形 /həv/",
+            "smoked all - 語末 /t/ が未開放で /ɔ/ に連接 [smoʊk̚t ɔl]",
+            "all the - 語末 /l/ が母音 /ə/ に連結、the は弱形 /ðə/ [ɔl ðə]",
+            "the salmon - 弱形 /ðə/"
+          ],
+          "kana": "アイル ハヴ スモークオール ザ サーミン ビフォー ザ トレイディング セッション エンズ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "word": "wind",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/wɪnd/ (名詞：風) / /waɪnd/ (動詞：巻く)",
+  "rank": 298,
+  "level": "A1",
+  "hi": "wind(?:s)?|wound|winding",
+  "meanings": [
+    "【名詞】風、空気の流れ（a current of air）",
+    "【名詞】（風などの）圧力、息（breath）",
+    "【動詞】（ロープなどを）巻く、ねじる、巻きつける（coil or wrap）",
+    "【動詞】（時計などを）巻く、ぜんまいを巻く（wind up）",
+    "【動詞】（蛇行して）進む、曲がりくねって進む、蛇行する（twist and turn）"
+  ],
+  "examples": [
+    {
+      "en": "The wind blows strongly across the open plains of the Minecraft world.",
+      "ja": "マインクラフトの世界の開けた平原に、風が強く吹いている。",
+      "ipa": "/ðə wɪnd bloʊz ˈstɹɔŋli əˈkrɔs ðə ˈoʊpən ˈpleɪnz əv ðə ˈmaɪnˌkræft wɝld/",
+      "linking": [
+        "wind blows → 子音+子音で連結なし。wind の末音 /d/ は未開放",
+        "across the → s が ð に連結し、the は弱形 /ðə/"
+      ],
+      "kana": "ザ ウィンド ブローズ ストロングリー ア クロース ザ オープン プレインズ アヴ ザ マインクラフト ワールド"
+    },
+    {
+      "en": "I decided to wind the rope around the wooden pillar to secure it.",
+      "ja": "ロープを木製の柱に巻きつけることにして、それを固定した。",
+      "ipa": "/aɪ dɪˈsaɪdɪd tə waɪnd ðə roʊp əˈraʊnd ðə ˈwʊdən ˈpɪlər tə səˈkjʊr ɪt/",
+      "linking": [
+        "to wind → to は弱形 /tə/ に弱化",
+        "wind the → d が ð に連結し、the は弱形 /ðə/ [waɪnd ðə]",
+        "around the → d が ð に連結し、the は弱形 /ðə/ [əˈraʊnd ðə]"
+      ],
+      "kana": "アイ ディサイディッド タ ワインド ザ ロープ アラウンド ザ ウッデン ピラー タ シキュアー イット"
+    },
+    {
+      "en": "The path winds through the forest biome, leading to the village.",
+      "ja": "そのパスは森バイオームを抜けて蛇行し、村へ向かう。",
+      "ipa": "/ðə pæθ waɪndz θruː ðə ˈfɔrɪst baɪoʊm ˈlidɪŋ tə ðə ˈvɪlɪdʒ/",
+      "linking": [
+        "winds through → 子音+子音で連結なし。through の r が the に連結 [θruː ðə]",
+        "the forest → ə が f に連結 [ðə ˈfɔrɪst]",
+        "to the → to は弱形 /tə/、the は弱形 /ðə/ [tə ðə]"
+      ],
+      "kana": "ザ パス ワインズ スルー ザ フォレスト バイオーム リーディング タ ザ ビリッジ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "blow with the wind",
+      "ja": "風に吹かれるままになる、風の向きに従う",
+      "example": "Don't let the wind blow out all your torches on the mountaintop.",
+      "example_ja": "山頂で風がすべてのトーチを吹き飛ばさないようにしてください。",
+      "ipa": "/doʊnt lɛt ðə wɪnd bloʊ aʊt ɔl jɚ ˈtɔrtʃɪz ɑn ðə ˈmaʊntənˌtɑp/",
+      "linking": [
+        "the wind → ə が w に連結 [ðə wɪnd]",
+        "wind blow → 子音+子音で連結なし",
+        "on the → n が ð に連結し、the は弱形 [ɑn ðə]"
+      ],
+      "kana": "ドント レット ザ ウィンド ブロウ アウト オール ユアー トーチズ オン ザ マウンテントップ"
+    },
+    {
+      "idiom": "wind something up",
+      "ja": "（機械を）巻く、ぜんまいを回す、終わらせる",
+      "example": "We wound up our first day of mining with a full inventory of resources.",
+      "example_ja": "採掘の初日は、リソースでいっぱいのインベントリーで終えた。",
+      "ipa": "/wi waʊnd ʌp ˈaʊər fɝst deɪ əv ˈmaɪnɪŋ wɪð ə ˈfʊl ɪnˈvɛntəri əv ɹɪˈsɔrsɪz/",
+      "linking": [
+        "wound up → d が ʌ に連結 [waʊnd ʌp]",
+        "up our → p が ˈaʊ に連結 [ʌp ˈaʊər]",
+        "with a → 子音+弱形で the は /ə/。with の末音 /ð/ が a の /ə/ に連結 [wɪð ə]"
+      ],
+      "kana": "ウィ ワウンダップ アワー ファースト デイ アヴ マイニング ウィザ フル インベントリー アヴ リソーシズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "winds",
+      "ipa": "/wɪndz/",
+      "examples": [
+        {
+          "en": "The winds blow particles around the desert biome constantly.",
+          "ja": "砂漠バイオームでは、風が粒子を常に吹き流す。",
+          "ipa": "/ðə wɪndz bloʊ ˈpɑrtɪkəlz əˈraʊnd ðə ˈdɛzɚt baɪoʊm ˈkɑnstəntli/",
+          "linking": [
+            "the winds → ə が w に連結 [ðə wɪndz]",
+            "around the → d が ð に連結し、the は弱形 /ðə/ [əˈraʊnd ðə]"
+          ],
+          "kana": "ザ ウィンズ ブロー パーティクルズ アラウンド ザ デザート バイオーム コンスタントリー"
+        },
+        {
+          "en": "Strong winds can extinguish torches placed in open areas.",
+          "ja": "強い風は、開けた場所に置かれたトーチを消すことができる。",
+          "ipa": "/stɹoŋ wɪndz kæn ɪkˈstɪŋɡwɪʃ ˈtɔrtʃɪz pleɪst ɪn ˈoʊpən ˈɛriəz/",
+          "linking": [
+            "can extinguish → n が ɪ に連結 [kæn ɪkˈstɪŋɡwɪʃ]",
+            "in open → n が ˈoʊ に連結 [ɪn ˈoʊpən]"
+          ],
+          "kana": "ストロング ウィンズ キャン イクスティングウィッシュ トーチズ プレイスト イン オープン エリアズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "winds",
+      "ipa": "/waɪndz/",
+      "examples": [
+        {
+          "en": "The river winds through the mountains toward our base.",
+          "ja": "川は山々を抜けて蛇行し、私たちの基地に向かって進む。",
+          "ipa": "/ðə ˈrɪvər waɪndz θruː ðə ˈmaʊntənz təˈwɔrd ˈaʊər ˈbeɪs/",
+          "linking": [
+            "through the → r が ð に連結し、the は弱形 /ðə/ [θruː ðə]",
+            "toward our → d が ˈaʊ に連結 [təˈwɔɹd ˈaʊɚ]"
+          ],
+          "kana": "ザ リバー ワインズ スルー ザ マウンテンズ タワード アワー ベイス"
+        },
+        {
+          "en": "A mysterious path winds around the valley, disappearing into fog.",
+          "ja": "不思議なパスが谷の周りを蛇行し、霧の中に消えていく。",
+          "ipa": "/ə mɪˈstɪriəs pæθ waɪndz əˈraʊnd ðə ˈvæli dɪsəˈpɪrɪŋ ˈɪntu ˈfɑɡ/",
+          "linking": [
+            "around the → d が ð に連結し、the は弱形 /ðə/ [əˈraʊnd ðə]",
+            "disappearing into → ŋ が ɪ に連結 [dɪsəˈpɪrɪŋ ˈɪntu]"
+          ],
+          "kana": "ア ミステリアス パス ワインズ アラウンド ザ バリー、ディサピアリング イントゥ ファッグ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "wound",
+      "ipa": "/waʊnd/",
+      "examples": [
+        {
+          "en": "I wound the rope around the wooden post to secure the boat.",
+          "ja": "ボートを固定するために、ロープを木製の柱に巻きつけた。",
+          "ipa": "/aɪ waʊnd ðə roʊp əˈraʊnd ðə ˈwʊdən poʊst tə səˈkjʊr ðə boʊt/",
+          "linking": [
+            "wound the → d が ð に連結し、the は弱形 /ðə/ [waʊnd ðə]",
+            "rope around → p が ə に連結 [roʊp əˈraʊnd]",
+            "around the → d が ð に連結し、the は弱形 /ðə/ [əˈraʊnd ðə]",
+            "to secure → to は弱形 /tə/ [tə səˈkjʊr]"
+          ],
+          "kana": "アイ ワウンド ザ ロープ アラウンド ザ ウッデン ポースト タ シキュアー ザ ボート"
+        },
+        {
+          "en": "She wound the vines together to create a makeshift fence.",
+          "ja": "彼女は一時的なフェンスを作るために、つるを一緒に巻いた。",
+          "ipa": "/ʃi waʊnd ðə vaɪnz təˈɡɛðər tə kriˈeɪt ə ˈmeɪkˌʃɪft fɛns/",
+          "linking": [
+            "wound the → d が ð に連結し、the は弱形 /ðə/ [waʊnd ðə]",
+            "vines together → z が t に未開放で続く [vaɪnz təˈɡɛðər]",
+            "to create → to は弱形 /tə/ [tə kriˈeɪt]",
+            "a makeshift → a は弱形 /ə/ [ə ˈmeɪkˌʃɪft]"
+          ],
+          "kana": "シー ワウンド ザ バインズ トゥゲザー タ クリエイト ア メイクシフト フェンス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "wound",
+      "ipa": "/waʊnd/",
+      "examples": [
+        {
+          "en": "After the rope had been wound tightly around the anchor, we secured the raft.",
+          "ja": "ロープがアンカーに固く巻きつけられた後、いかだを固定した。",
+          "ipa": "/ˈæftər ðə roʊp hæd bɪn waʊnd ˈtaɪtli əˈraʊnd ðə ˈæŋkər | wi səˈkjʊrd ðə ˈræft/",
+          "linking": [
+            "After the → r が ð に連結し、the は弱形 /ðə/ [ˈæftər ðə]",
+            "been wound → n が w に連結 [bɪn waʊnd]",
+            "wound tightly → d が t に連結 [waʊnd ˈtaɪtli]",
+            "secured the → d が ð に連結し、the は弱形 /ðə/ [səˈkjʊrd ðə]"
+          ],
+          "kana": "アフター ザ ロープ ハド ビン ワウンド タイトリー アラウンド ザ アンカー、ウィ シキュアード ザ ラフト"
+        },
+        {
+          "en": "The path had wound through the cavern system for countless generations.",
+          "ja": "パスは何世代もの間、洞窟システムを通じて蛇行していた。",
+          "ipa": "/ðə pæθ hæd waʊnd θruː ðə ˈkævɚn ˈsɪstəm fər ˈkaʊntləs ˌdʒɛnəˈreɪʃənz/",
+          "linking": [
+            "had wound → d が w に連結 [hæd waʊnd]",
+            "through the → r が ð に連結し、the は弱形 /ðə/ [θruː ðə]",
+            "for countless → r が k に連結 [fər ˈkaʊntləs]"
+          ],
+          "kana": "ザ パス ハド ワウンド スルー ザ キャバーン システム ファー カウントレス ジェネレイションズ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "winding",
+      "ipa": "/ˈwaɪndɪŋ/",
+      "examples": [
+        {
+          "en": "Winding the path through the mountains took several days to complete.",
+          "ja": "山々を通るパスを巻くのに、完了するまでに数日かかった。",
+          "ipa": "/ˈwaɪndɪŋ ðə pæθ θruː ðə ˈmaʊntənz ˈtʊk ˈsɛvərəl ˈdeɪz tə kəmˈpliːt/",
+          "linking": [
+            "Winding the → ŋ が ð に連結し、the は弱形 /ðə/ [ˈwaɪndɪŋ ðə]",
+            "through the → r が ð に連結し、the は弱形 /ðə/ [θruː ðə]",
+            "several days → l が d に連結 [ˈsɛvərəl ˈdeɪz]",
+            "to complete → to は弱形 /tə/ [tə kəmˈpliːt]"
+          ],
+          "kana": "ワインディング ザ パス スルー ザ マウンテンズ トゥック セヴラル デイズ タ コンプリート"
+        },
+        {
+          "en": "We are winding rope around the frame to create support beams for the structure.",
+          "ja": "構造物の支持梁を作るために、ロープを枠に巻きつけている。",
+          "ipa": "/wi ɑr ˈwaɪndɪŋ roʊp əˈraʊnd ðə freɪm tə kriˈeɪt səˈpɔrt bimz fɔr ðə ˈstrʌktʃər/",
+          "linking": [
+            "We are → r が w に連結 [wi ɑr]。are は弱形 /ɑr/",
+            "are winding → r が w に連結 [ɑr ˈwaɪndɪŋ]",
+            "winding rope → ŋ が r に連結 [ˈwaɪndɪŋ roʊp]",
+            "rope around → p が ə に連結 [roʊp əˈraʊnd]",
+            "around the → d が ð に連結し、the は弱形 /ðə/ [əˈraʊnd ðə]",
+            "for the → r が ð に連結し、the は弱形 /ðə/ [fɔr ðə]"
+          ],
+          "kana": "ウィ アー ワインディング ロープ アラウンド ザ フレイム タ クリエイト サポート ビームズ ファー ザ ストラクチャー"
+        }
+      ]
+    }
+  ]
+}

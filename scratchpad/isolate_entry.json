@@ -1,0 +1,336 @@
+{
+  "word": "isolate",
+  "pos": "動詞・形容詞",
+  "pos_all": "動詞・形容詞",
+  "ipa_us": "/ˈɪs.ə.leɪt/",
+  "rank": 2077,
+  "level": "B2",
+  "hi": "isolat(?:e[sd]?|ing)|isolated",
+  "meanings": [
+    "【動詞】分離する、他から切り離す（…separate something from other things）",
+    "【動詞】隔離する、孤立させる（…keep in a separate place apart from others）",
+    "【動詞】特定する、識別する（…identify and deal with one part separately）",
+    "【形容詞】孤立した、単独の（…separated or cut off from others）"
+  ],
+  "examples": [
+    {
+      "en": "I need to isolate this ore from the stone.",
+      "ja": "この鉱石を石から分離する必要があります。",
+      "ipa": "/aɪ ˈniːd tə ˈɪs.ə.leɪt ðɪs ˈɔːr frəm ðə ˈstoʊn/",
+      "linking": [
+        "need to → to は機能語で弱形 /tə/（「ニード・タ」）",
+        "isolate this → isolate の語末 /t/ が this の /ð/ の前で未開放",
+        "this ore → this の語末 /s/ が ore の /ɔː/ に連結（「ディッ・ソア」→「ディソア」）",
+        "from the → from の /m/ と the の /ð/ は子音+子音で未開放"
+      ],
+      "kana": "アイ ニード タ イサレイト ディソア フラム ザ ストーン"
+    },
+    {
+      "en": "The spawner is isolated from our base.",
+      "ja": "スポーナーは私たちの基地から隔離されています。",
+      "ipa": "/ðə ˈspɔːnər ɪz ˈɪs.ə.leɪtɪd frəm ˈaʊər ˈbeɪs/",
+      "linking": [
+        "The は冠詞で弱形 /ðə/。",
+        "is isolated → is の語末 /z/ が isolated の /ɪ/ に連結（[ɪˈzɪs.ə.leɪtɪd]）",
+        "from our → from の /m/ が our の /aʊ/ に連結"
+      ],
+      "kana": "ザ スポナー イザレイティド フラマウア ベイス"
+    },
+    {
+      "en": "We can isolate the ore deposit later.",
+      "ja": "後で鉱床を隔離できます。",
+      "ipa": "/wi kən ˈɪs.ə.leɪt ðə ˈɔːr ˈdɪp.ə.zɪt ˈleɪ.tər/",
+      "linking": [
+        "can は機能語で弱形 /kən/（「キャン」）",
+        "isolate the → isolate の語末 /t/ が the の /ð/ の前で未開放",
+        "ore deposit → ore の /r/ と deposit の /d/ は子音+子音。連結なし"
+      ],
+      "kana": "ウィ キャン イサレイト ザ オア ディポジット レイター"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "isolate A from B",
+      "ja": "AをBから分離・隔離する",
+      "example": "We need to isolate the ore deposit from the spawner.",
+      "example_ja": "我々は鉱床をスポーナーから隔離する必要があります。",
+      "ipa": "/wi ˈniːd tə ˈɪs.ə.leɪt ðə ˈɔːr ˈdɪp.ə.zɪt frəm ðə ˈspɔːnər/",
+      "linking": [
+        "need to → to の弱形 /tə/",
+        "isolate the → isolate の語末 /t/ が the の /ð/ の前で未開放",
+        "from the → from の /m/ と the の /ð/ は子音+子音で未開放"
+      ],
+      "kana": "ウィ ニード タ イサレイト ザ オア ディポジット フラム ザ スポナー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "isolates",
+      "ipa": "/ˈɪs.ə.leɪts/",
+      "examples": [
+        {
+          "en": "The fortress isolates players from nether mobs.",
+          "ja": "砦がプレイヤーをネザーのモブから隔離する",
+          "ipa": "/ðə ˈfɔr.tɪs ˈɪs.ə.leɪts ˈpleɪ.ɚz frəm ˈnɛ.ðɚ mɑbz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "from は弱形 /frəm/"
+          ],
+          "kana": "ザ フォーティス イサレイツ プレイヤーズ フラム ネザー モブズ"
+        },
+        {
+          "en": "A wall isolates the ore mining area.",
+          "ja": "壁が鉱石採掘エリアを隔離する",
+          "ipa": "/ə wɔl ˈɪs.ə.leɪts ðə ˈɔr ˈmaɪ.nɪŋ ˈɛr.i.ə/",
+          "linking": [
+            "a は弱形 /ə/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ア ウォル イサレイツ ザ オア マイニング エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "isolated",
+      "ipa": "/ˈɪs.ə.leɪtɪd/",
+      "examples": [
+        {
+          "en": "We isolated the spawner yesterday.",
+          "ja": "昨日、私たちはスポーナーを隔離した",
+          "ipa": "/wi ˈɪs.ə.leɪtɪd ðə ˈspɔ.nɚ ˈjɛs.tɚ.deɪ/",
+          "linking": [
+            "isolated の /d/ が the の /ð/ の前で未開放",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィ イサレイティド ザ スポナー イェスタデイ"
+        },
+        {
+          "en": "They isolated the cave system from the main base.",
+          "ja": "彼らはメインベースから洞窟システムを隔離した",
+          "ipa": "/ðeɪ ˈɪs.ə.leɪtɪd ðə ˈkeɪv ˈsɪs.təm frəm ðə ˈmeɪn beɪs/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "from は弱形 /frəm/",
+            "isolated と the の間は子音+子音で未開放"
+          ],
+          "kana": "ゼイ イサレイティド ザ ケイヴ システム フラム ザ メイン ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "isolated",
+      "ipa": "/ˈɪs.ə.leɪtɪd/",
+      "examples": [
+        {
+          "en": "The spawner has been isolated by thick walls.",
+          "ja": "スポーナーは厚い壁で隔離されている",
+          "ipa": "/ðə ˈspɔ.nɚ həz bɪn ˈɪs.ə.leɪtɪd baɪ ˈθɪk wɔlz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/"
+          ],
+          "kana": "ザ スポナー ハズ ビン イサレイティド バイ シック ウォルズ"
+        },
+        {
+          "en": "An isolated room prevents mob escape.",
+          "ja": "隔離されたルームがモブの脱出を防ぐ",
+          "ipa": "/ən ˈɪs.ə.leɪtɪd rum prɪˈvɛnts moʊb ɪˈskeɪp/",
+          "linking": [
+            "an は弱形 /ən/"
+          ],
+          "kana": "アン イサレイティド ルーム プリベンツ モウブ イスケイプ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "isolating",
+      "ipa": "/ˈɪs.ə.leɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Isolating the spawner prevents mob overflow.",
+          "ja": "スポーナーを隔離することはモブオーバーフローを防ぐ",
+          "ipa": "/ˈɪs.ə.leɪtɪŋ ðə ˈspɔ.nɚ prɪˈvɛnts moʊb ˈoʊ.vɚ.floʊ/",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイソレイティング ザ スポナー プリベンツ モウブ オーバーフロウ"
+        },
+        {
+          "en": "We're isolating the dark room for mob control.",
+          "ja": "モブ制御のためにダークルームを隔離している",
+          "ipa": "/wɪr ˈɪs.ə.leɪtɪŋ ðə ˈdɑrk rum fɔr moʊb kənˈtroʊl/",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ウィアー イサレイティング ザ ダーク ルーム フォー モウブ コントロール"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more isolated",
+      "ipa": "/mɔr ˈɪs.ə.leɪtɪd/",
+      "examples": [
+        {
+          "en": "A mountain base is more isolated than a plains base.",
+          "ja": "山ベースは平原ベースより隔離されている",
+          "ipa": "/ə ˈmaʊn.tən beɪs ɪz mɔr ˈɪs.ə.leɪtɪd ðən ə pleɪnz beɪs/",
+          "linking": [
+            "a は弱形 /ə/（2回）",
+            "is は弱形 /ɪz/",
+            "than は弱形 /ðən/"
+          ],
+          "kana": "ア マウンテン ベイス イズ モア イサレイティド ザン ア プレインズ ベイス"
+        },
+        {
+          "en": "This cave system is more isolated from the village.",
+          "ja": "この洞窟システムは村からより隔離されている",
+          "ipa": "/ðɪs keɪv ˈsɪs.təm ɪz mɔr ˈɪs.ə.leɪtɪd frəm ðə ˈvɪ.lɪdʒ/",
+          "linking": [
+            "is は弱形 /ɪz/",
+            "from は弱形 /frəm/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ディス ケイヴ システム イズ モア イサレイティド フラム ザ ビリッジ"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most isolated",
+      "ipa": "/ˈmoʊst ˈɪs.ə.leɪtɪd/",
+      "examples": [
+        {
+          "en": "An island base is the most isolated location.",
+          "ja": "島ベースが最も隔離された場所です",
+          "ipa": "/ən ˈaɪ.lənd beɪs ɪz ðə ˈmoʊst ˈɪs.ə.leɪtɪd loʊˈkeɪ.ʃən/",
+          "linking": [
+            "an は弱形 /ən/",
+            "is は弱形 /ɪz/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アン アイランド ベイス イズ ザ モウスト イサレイティド ロケイション"
+        },
+        {
+          "en": "The Nether is the most isolated dimension in Minecraft.",
+          "ja": "ネザーがマインクラフトで最も隔離されたディメンションです",
+          "ipa": "/ðə ˈnɛ.ðɚ ɪz ðə ˈmoʊst ˈɪs.ə.leɪtɪd dɪˈmɛn.ʃən ɪn ˈmaɪn.kræft/",
+          "linking": [
+            "the は弱形 /ðə/（2回）",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "ザ ネザー イズ ザ モウスト イサレイティド ディメンション イン マインクラフト"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will isolate",
+      "ipa": "/wɪl ˈɪs.ə.leɪt/",
+      "examples": [
+        {
+          "en": "I will isolate the spawner with obsidian walls.",
+          "ja": "黒曜石の壁でスポーナーを隔離するつもりです。",
+          "ipa": "/aɪl ˈɪs.ə.leɪt ðə ˈspɔ.nɚ wɪð ɑbˈsɪd.i.ən wɔlz/",
+          "linking": [
+            "I will → I'll に縮約 /aɪl/",
+            "isolate の語末 /t/ が the の /ð/ の前で未開放",
+            "the は機能語で弱形 /ðə/",
+            "with の語末 /ð/ と obsidian の /ɑ/ が連結"
+          ],
+          "kana": "アイル イサレイト ザ スポナー ウィズ アブシディアン ウォルズ"
+        },
+        {
+          "en": "They will isolate the dark room soon.",
+          "ja": "彼らはまもなくダークルームを隔離するだろう。",
+          "ipa": "/ðeɪl ˈɪs.ə.leɪt ðə ˈdɑrk rum suːn/",
+          "linking": [
+            "They will → they'll に縮約 /ðeɪl/",
+            "isolate の語末 /t/ が the の /ð/ の前で未開放",
+            "the は機能語で弱形 /ðə/"
+          ],
+          "kana": "ゼイル イサレイト ザ ダーク ルーム スーン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be isolating",
+      "ipa": "/wɪl bi ˈɪs.ə.leɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We will be isolating the mob grinder while you mine.",
+          "ja": "あなたが採掘している間、私たちはモブグラインダーを隔離しているだろう。",
+          "ipa": "/wil bi ˈɪs.ə.leɪtɪŋ ðə moʊb ˈgraɪn.dɚ waɪl ju maɪn/",
+          "linking": [
+            "We will be → we'll be に縮約 /wil bi/",
+            "be は機能語で弱形 /bi/、isolating の /ɪ/ に連結 [biˈɪs.ə.leɪtɪŋ]",
+            "the は機能語で弱形 /ðə/",
+            "mob の語末 /b/ と grinder の /g/ は子音+子音で未開放"
+          ],
+          "kana": "ウィル ビー イサレイティング ザ モウブ グラインダー ホワイル ユー マイン"
+        },
+        {
+          "en": "She will be isolating the cave system all day long.",
+          "ja": "彼女は一日中洞窟システムを隔離しているだろう。",
+          "ipa": "/ʃil bi ˈɪs.ə.leɪtɪŋ ðə keɪv ˈsɪs.təm ɔl deɪ lɔŋ/",
+          "linking": [
+            "She will be → she'll be に縮約 /ʃil bi/",
+            "be は機能語で弱形 /bi/、isolating の /ɪ/ に連結 [biˈɪs.ə.leɪtɪŋ]",
+            "the は機能語で弱形 /ðə/",
+            "cave の語末 /v/ と system の /s/ は子音+子音で未開放"
+          ],
+          "kana": "シル ビー イサレイティング ザ ケイヴ システム オール デイ ロング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have isolated",
+      "ipa": "/wɪl həv ˈɪs.ə.leɪtɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, I will have isolated the ore deposit.",
+          "ja": "明日までに、私は鉱床を隔離しているだろう。",
+          "ipa": "/baɪ təˈmɑ.roʊ aɪl həv ˈɪs.ə.leɪtɪd ðə ˈɔr dɪˈpɑz.ɪt/",
+          "linking": [
+            "tomorrow の to は機能語で弱形 /tə/",
+            "I will → I'll に縮約 /aɪl/",
+            "have は機能語で弱形 /həv/",
+            "isolated の語末 /d/ が the の /ð/ の前で未開放",
+            "the は機能語で弱形 /ðə/"
+          ],
+          "kana": "バイ タモロウ アイル ハヴ イサレイティド ザ オア ディポジット"
+        },
+        {
+          "en": "They will have isolated all spawners by the end of the week.",
+          "ja": "週末までに、彼らはすべてのスポーナーを隔離しているだろう。",
+          "ipa": "/ðeɪl həv ˈɪs.ə.leɪtɪd ɔl ˈspɔ.nɚz baɪ ðə ɛnd əv ðə wik/",
+          "linking": [
+            "They will have → they'll have に縮約 /ðeɪl həv/",
+            "have は機能語で弱形 /həv/",
+            "isolated の語末 /d/ が all の /ɔ/ に連結 [ˈɪs.ə.leɪtɪd ɔl]",
+            "all の /l/ と spawners の /s/ は子音+子音で未開放",
+            "the は機能語で弱形 /ðə/（2回）",
+            "of は機能語で弱形 /əv/"
+          ],
+          "kana": "ゼイル ハヴ イサレイティド オール スポナーズ バイ ザ エンド アヴ ザ ウィーク"
+        }
+      ]
+    }
+  ]
+}

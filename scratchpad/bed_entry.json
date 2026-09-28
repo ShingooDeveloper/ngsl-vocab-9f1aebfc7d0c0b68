@@ -1,0 +1,365 @@
+{
+  "word": "bed",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/bɛd/",
+  "rank": 445,
+  "level": "A1",
+  "hi": "bed(?:s|ded|ding)?",
+  "meanings": [
+    "【名詞】寝床、ベッド（a piece of furniture for sleeping）",
+    "【名詞】（川や海の）底、河床（the bottom of a river or ocean）",
+    "【名詞】（花や野菜の）苗床、圃場（an area of ground for growing plants）",
+    "【動詞】（～を）ベッドに寝かしつける、寝床に着かせる（to put someone to bed）",
+    "【動詞】地層を形成する、層状に配置する（to arrange in layers）"
+  ],
+  "examples": [
+    {
+      "en": "I have a cozy bed in my house where I can sleep at night.",
+      "ja": "私は夜に寝られる快適なベッドが家にあります。",
+      "ipa": "/aɪ hæv ə ˈkoʊzi ˈbɛd ɪn maɪ ˈhaʊs wɛr aɪ kən ˈslip æt ˈnaɪt/",
+      "linking": [
+        "have a → have は弱形 /hæv/ で a の母音に連結 [hæv ə] ハヴ ア",
+        "bed in → 語末 d が in の母音 /ɪ/ に連結 [ˈbɛd ɪn] ベッド イン",
+        "where の r が aɪ の初頭に連結",
+        "can → 弱形で [kən] クン"
+      ],
+      "kana": "アイ ハヴ ア コウジー ベッド イン マイ ハウス ウェア アイ クン スリープ アッ ナイト"
+    },
+    {
+      "en": "When night falls in Minecraft, you need to find a bed to sleep or mobs will spawn.",
+      "ja": "マインクラフトで夜が来ると、モブが湧くのを防ぐためにベッドを見つけて寝る必要があります。",
+      "ipa": "/wɛn ˈnaɪt ˈfɔlz ɪn maɪnˈkræft | ju ˈniːd tə ˈfaɪnd ə ˈbɛd tə ˈslip ɔr ˈmoʊbz wɪl ˈspoːn/",
+      "linking": [
+        "need to → 語末 d が to の弱形 /tə/ に連結 [ˈniːd tə] ニード タ",
+        "find a → 語末 d が a の弱形 /ə/ に連結 [ˈfaɪnd ə] ファインド ア",
+        "bed to → 語末 d が to の弱形 /tə/ に連結 [ˈbɛd tə] ベッド タ"
+      ],
+      "kana": "ウェン ナイト フォールズ イン マインクラフト、ユー ニード タ ファインド ア ベッド タ スリープ オア モウブズ ウィル スポーン"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "make the bed",
+      "ja": "ベッドを整える（寝具をきちんと整える）",
+      "example": "Make the bed before you go out to mine today.",
+      "example_ja": "今日採掘に行く前にベッドを整えてください。",
+      "ipa": "/ˈmeɪk ðə ˈbɛd bɪˈfɔr ju ɡoʊ aʊt tə ˈmaɪn təˈdeɪ/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "go out → 母音+母音（連結なし）[ɡoʊ aʊt] ゴウ アウト",
+        "out to → to は弱形 /tə/",
+        "to mine → to は弱形 /tə/"
+      ],
+      "kana": "メイク ザ ベッド ビフォー ユー ゴウ アウト タ マイン トゥデイ"
+    },
+    {
+      "idiom": "get out of bed",
+      "ja": "ベッドから起きる",
+      "example": "Get out of bed early to start gathering wood.",
+      "example_ja": "木を集め始めるために早めにベッドから起きてください。",
+      "ipa": "/ˈɡɛt aʊt əv ˈbɛd ˈɜːrli tə ˈstɑrt ˈɡæðərɪŋ ˈwʊd/",
+      "linking": [
+        "out of → of は弱形 /əv/",
+        "of bed → 語末 v が bed の初頭 b に続く [əv ˈbɛd] オヴ ベッド",
+        "to → 弱形で /tə/"
+      ],
+      "kana": "ゲット アウト オヴ ベッド アーリー タ スタート ギャザリング ウッド"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Your bed acts as your spawn point, so always keep it safe.",
+      "ja": "ベッドがスポーン地点として機能するので、常に安全に保ってください。",
+      "ipa": "/jɔr ˈbɛd ˈækts əz jɔr ˈspoːn pɔɪnt | soʊ ˈɔlweɪz ˈkip ɪt ˈseɪf/",
+      "linking": [
+        "Your bed → your は弱形。bed に続く。",
+        "acts as → 語末 s が as の /æ/ に連結 [ˈækts æz] アックツ アズ",
+        "as your → 語末 z が your に連結 [æz jɔr] アズ ヤー",
+        "it safe → 語末 t が safe の /s/ に未開放 [ɪt̚ ˈseɪf] イッ セイフ"
+      ],
+      "kana": "ヤー ベッド アックツ アズ ヤー スポーン ポイント、ソウ オールウェイズ キープ イッ セイフ"
+    },
+    {
+      "en": "If you lose your bed to a creeper explosion, you will respawn at the world spawn.",
+      "ja": "クリーパーの爆発でベッドを失ったら、ワールドスポーンにリスポーンします。",
+      "ipa": "/ɪf ju ˈluːz jɔr ˈbɛd tə ə ˈkriːpər ɪkˈsploʊʒən | ju wɪl ˈriːspoːn æt ðə ˈwɝld ˈspoːn/",
+      "linking": [
+        "lose your → 語末 z が your に連結 [ˈluːz jɔr] ルーズ ヤー",
+        "bed to → 語末 d が to の弱形 /tə/ に連結 [ˈbɛd tə] ベッド タ",
+        "to a → to は弱形 /tə/、a も弱形 /ə/",
+        "will → 弱形で [wɪl] ウィル",
+        "at the → at の末尾 t が未開放 [æt̚ ðə] アッ ザ"
+      ],
+      "kana": "イフ ユー ルーズ ヤー ベッド タ ア クリーパー イクスプロージョン、ユー ウィル リースポーン アッ ザ ワールド スポーン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "beds",
+      "ipa": "/bedz/",
+      "examples": [
+        {
+          "en": "We need beds to set our spawn points safely in the village.",
+          "ja": "村に安全にスポーン地点を設定するためにベッドが必要です。",
+          "ipa": "/wi ˈniːd bedz tə sɛt ˈaʊɚ ˈspoːn pɔɪnts ˈseɪfli ɪn ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "need beds → 語末 d が beds の初頭 b に未開放して続く [ˈniːd̚ bedz] ニード ベッズ",
+            "beds to → 語末 z が to の弱形 /tə/ に連結 [bedz tə] ベッズ タ",
+            "to set → to は弱形 /tə/",
+            "in the → in の末尾 n が the の初頭 ð に続く（consonant+consonant、連結なし）"
+          ],
+          "kana": "ウィ ニード ベッズ タ セット アワー スポーン ポインツ セイフリー イン ザ ビリッジ"
+        },
+        {
+          "en": "The beds in the Nether will explode when you try to sleep there.",
+          "ja": "ネザーのベッドは寝ようとするときに爆発します。",
+          "ipa": "/ðə ˈbɛdz ɪn ðə ˈnɛðər wɪl ɪkˈsploʊd wɛn ju traɪ tə ˈslip ðɛr/",
+          "linking": [
+            "The beds → the は弱形 /ðə/、beds に連結 [ðə ˈbɛdz] ザ ベッズ",
+            "in the → in の末尾 n が the の初頭 ð に続く（consonant+consonant）",
+            "the は弱形 /ðə/",
+            "will → 弱形で [wɪl]、is に続く。explode に続く [ɪkˈsploʊd] イクスプロード",
+            "try to → to は弱形 /tə/ トゥリー タ"
+          ],
+          "kana": "ザ ベッズ イン ザ ネザー ウィル イクスプロード ウェン ユー トライ タ スリープ ゼア"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "beds",
+      "ipa": "/bedz/",
+      "examples": [
+        {
+          "en": "The player beds down every night to reset the spawn location.",
+          "ja": "プレイヤーはスポーン位置をリセットするために毎晩ベッドで寝ます。",
+          "ipa": "/ðə ˈpleɪər bedz ˈdaʊn ˈɛvri ˈnaɪt tə ˈriːsɛt ðə ˈspoːn loʊˈkeɪʃən/",
+          "linking": [
+            "The player → the は弱形 /ðə/、player に続く。",
+            "player beds → 語末 r が beds の初頭 b に未開放 [ˈpleɪər bedz] プレイヤー ベッズ",
+            "beds down → 語末 z が down の初頭 d に続く（子音+子音） [bedz daʊn] ベッズ ダウン",
+            "to → 弱形で /tə/"
+          ],
+          "kana": "ザ プレイヤー ベッズ ダウン エヴリー ナイト タ リーセット ザ スポーン ロウケイション"
+        },
+        {
+          "en": "She beds the foundation blocks in perfect layers for the structure.",
+          "ja": "彼女は構造のために基礎ブロックを完璧な層状に配置します。",
+          "ipa": "/ʃi bedz ðə faʊnˈdeɪʃən blɑks ɪn ˈpɜːrfɪkt ˈleɪərz fər ðə ˈstrʌktʃər/",
+          "linking": [
+            "beds the → 語末 z が the の初頭 ð に続く [bedz ðə] ベッズ ザ",
+            "the は弱形 /ðə/",
+            "foundation の末尾 n が blocks の初頭 b に続く（consonant+consonant）",
+            "perfect → /t/ が層化される [ˈpɜːrfɪkt]",
+            "for the → for は弱形 /fər/、the も弱形 /ðə/"
+          ],
+          "kana": "シー ベッズ ザ ファウンデーション ブロックス イン パーフェクト レイヤーズ ファー ザ ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "bedded",
+      "ipa": "/ˈbɛdɪd/",
+      "examples": [
+        {
+          "en": "I bedded down safely in the underground shelter after mining all day.",
+          "ja": "一日中採掘した後、地下のシェルターで安全に寝床を整えました。",
+          "ipa": "/aɪ ˈbɛdɪd ˈdaʊn ˈseɪfli ɪn ðə ˈʌndərˌɡraʊnd ˈʃɛltər ˈæftər ˈmaɪnɪŋ ɔl ˈdeɪ/",
+          "linking": [
+            "bedded down → 語末 d が down の初頭 d に連接して未開放 [ˈbɛdɪd daʊn] ベッディド ダウン",
+            "in the → in の末尾 n が the の初頭 ð に続く（consonant+consonant）",
+            "the は弱形 /ðə/",
+            "after mining → ing の末尾 ŋ と mining 全体 [ˈæftər ˈmaɪnɪŋ] アフター マイニング"
+          ],
+          "kana": "アイ ベッディド ダウン セイフリー イン ザ アンダーグラウンド シェルター アフター マイニング オール デイ"
+        },
+        {
+          "en": "The team bedded the stone blocks in layers to build a sturdy wall.",
+          "ja": "チームは頑丈な壁を建てるために石ブロックを層状に配置しました。",
+          "ipa": "/ðə ˈtiːm ˈbɛdɪd ðə ˈstoʊn blɑks ɪn ˈleɪərz tə ˈbɪld ə ˈstɝdi ˈwɔl/",
+          "linking": [
+            "The team → the は弱形 /ðə/、team に続く。",
+            "team bedded → 語末 m が bedded に続く（consonant+consonant） [ˈbɛdɪd] ベッディド",
+            "bedded the → 語末 d が the の初頭 ð に続く（consonant+consonant）",
+            "to → 弱形で /tə/"
+          ],
+          "kana": "ザ ティーム ベッディド ザ ストウン ブロックス イン レイヤーズ タ ビルド ア スターディー ウォール"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "bedded",
+      "ipa": "/ˈbɛdɪd/",
+      "examples": [
+        {
+          "en": "The ore was bedded deep in the mountain where no one could easily reach it.",
+          "ja": "鉱石は誰も容易に到達できない山の奥深くに層状に配置されていました。",
+          "ipa": "/ðə ˈɔr wəz ˈbɛdɪd ˈdip ɪn ðə ˈmaʊntən wɛr ˈnoʊ wʌn kəd ˈiːzəli ˈriːtʃ ɪt/",
+          "linking": [
+            "was bedded → was は弱形 /wəz/、bedded に続く（子音+子音）[wəz ˈbɛdɪd] ワズ ベッディド",
+            "bedded deep → 語末 d が deep の初頭 d に未開放 [ˈbɛdɪd diːp] ベッディド ディープ",
+            "in the → in の末尾 n が the の初頭 ð に続く（consonant+consonant）",
+            "could → 弱形で [kəd] クド"
+          ],
+          "kana": "ザ オア ワズ ベッディド ディープ イン ザ マウンテン ウェア ノウ ワン クド イージリー リーチ イット"
+        },
+        {
+          "en": "Having bedded the foundation carefully, the entire building stood perfectly straight.",
+          "ja": "基礎を丁寧に層状に配置したので、建物全体が完璧にまっすぐ立っていました。",
+          "ipa": "/ˈheɪvɪŋ ˈbɛdɪd ðə faʊnˈdeɪʃən ˈkɛrfəli | ðɪ ɪnˈtaɪər ˈbɪldɪŋ ˈstʊd ˈpɜːrfɪktli ˈstreɪt/",
+          "linking": [
+            "bedded the → 語末 d が the の初頭 ð に続く（consonant+consonant）",
+            "the は弱形 /ðə/",
+            "foundation 末尾 n と carefully の c が続く（consonant+consonant）",
+            "stood perfectly → 語末 d が perfectly の p に未開放 [stʊd̚ ˈpɜːrfɪktli] スッ パーフェクトリー"
+          ],
+          "kana": "ハヴィング ベッディド ザ ファウンデーション ケアフリー、ザ エンタイアー ビルディング スッド パーフェクトリー ストレイト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "bedding",
+      "ipa": "/ˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "Bedding the path with gravel takes careful planning and lots of blocks.",
+          "ja": "砂利で小道を層状に配置することは注意深い計画と多くのブロックが必要です。",
+          "ipa": "/ˈbɛdɪŋ ðə ˈpæθ wɪð ˈɡrævəl ˈteɪks ˈkɛrfəl ˈplænɪŋ ənd ˈlɑts əv blɑks/",
+          "linking": [
+            "Bedding the → 語末 ŋ が the に続く（consonant+consonant）、the は弱形 /ðə/ ベッディング ザ",
+            "with gravel → 語末 ð が gravel の初頭 ɡ に続く（consonant+consonant） [wɪð ˈɡrævəl] ウィズ グラヴル",
+            "takes careful → 語末 z が careful に連結 [ˈteɪks ˈkɛrfəl] テイクス ケアフル",
+            "and → 弱形で /ənd/ [ənd] アンド"
+          ],
+          "kana": "ベッディング ザ パス ウィズ グラヴル テイクス ケアフル プランニング アンド ロッツ オヴ ブロックス"
+        },
+        {
+          "en": "We are bedding down for the night after a long day of building.",
+          "ja": "長い一日の建築の後、夜のために寝床を整えています。",
+          "ipa": "/wi ɑr ˈbɛdɪŋ ˈdaʊn fər ðə ˈnaɪt ˈæftər ə ˈlɔŋ ˈdeɪ əv ˈbɪldɪŋ/",
+          "linking": [
+            "are bedding → are は弱形 /ɑr/ で bedding に連結 [ɑr ˈbɛdɪŋ] アー ベッディング",
+            "bedding down → 語末 ŋ が down の初頭 d に続く（consonant+consonant）",
+            "for the → for は弱形 /fər/、the も弱形 /ðə/ [fər ðə] ファー ザ",
+            "of building → of は弱形 /əv/、末尾 v が building に続く"
+          ],
+          "kana": "ウィ アー ベッディング ダウン ファー ザ ナイト アフター ア ロング デイ オヴ ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is bedding",
+      "ipa": "/ɪz ˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "She is bedding down safely in a wooden shelter for the night.",
+          "ja": "彼女は一晩のために木造のシェルターで安全に寝床を整えている。",
+          "ipa": "/ʃi ɪz ˈbɛdɪŋ ˈdaʊn ˈseɪfli ɪn ə ˈwʊdən ˈʃɛltər fər ðə ˈnaɪt/",
+          "linking": [
+            "is bedding → is は弱形 /ɪz/ [ɪz ˈbɛdɪŋ] イズ ベッディング",
+            "in a → in の末尾 n が a の初頭 /ə/ に連結 [ɪn ə] イン ア",
+            "for the → for は弱形 /fər/、the も弱形 /ðə/ [fər ðə] ファー ザ"
+          ],
+          "kana": "シー イズ ベッディング ダウン セイフリー イン ア ウッデン シェルター ファー ザ ナイト"
+        },
+        {
+          "en": "They are bedding the stone blocks in neat rows for the new structure.",
+          "ja": "彼らは新しい構造のために石ブロックをきちんと配置している。",
+          "ipa": "/ðeɪ ɑr ˈbɛdɪŋ ðə ˈstoʊn ˈblɑks ɪn ˈnit ˈroʊz fər ðə ˈnu ˈstrʌktʃər/",
+          "linking": [
+            "are bedding → are は弱形 /ɑr/ [ɑr ˈbɛdɪŋ] アー ベッディング",
+            "bedding the → 語末 ŋ が the に続く、the は弱形 /ðə/",
+            "the stone → the は弱形 /ðə/ [ðə ˈstoʊn] ザ ストウン",
+            "in neat → 語末 n が neat に続く（同じ子音）[ɪn ˈnit̚] イン ニット",
+            "neat rows → 語末 t が rows に未開放 [ˈnit̚ ˈroʊz] ニット ロウズ",
+            "for the → for は弱形 /fər/、the も弱形 /ðə/ [fər ðə] ファー ザ"
+          ],
+          "kana": "ザイ アー ベッディング ザ ストウン ブロックス イン ニット ロウズ ファー ザ ニュー ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was bedding",
+      "ipa": "/wəz ˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "We were bedding down in the underground cave when the storm hit.",
+          "ja": "嵐が当たった時、我々は地下洞窟で寝床を整えていた。",
+          "ipa": "/wi wər ˈbɛdɪŋ ˈdaʊn ɪn ðə ˌʌndərˈɡraʊnd ˈkeɪv wɛn ðə ˈstɔrm ˈhɪt/",
+          "linking": [
+            "were bedding → were は弱形 /wər/ [wər ˈbɛdɪŋ] ワー ベッディング",
+            "the underground → the は弱形 /ðə/ [ðə ˌʌndərˈɡraʊnd̚] ザ アンダーグラウンド",
+            "underground cave → 語末 d が cave に未開放 [ˌʌndərˈɡraʊnd̚ ˈkeɪv] アンダーグラウンド ケイブ",
+            "when the → when は /wɛn/、the は弱形 /ðə/ [wɛn ðə] ウェン ザ",
+            "storm hit → 語末 m が hit に未開放 [ˈstɔrm̚ ˈhɪt] ストーム ヒット"
+          ],
+          "kana": "ウィ ワー ベッディング ダウン イン ザ アンダーグラウンド ケイブ ウェン ザ ストーム ヒット"
+        },
+        {
+          "en": "He was bedding the farm with nutrients when night fell.",
+          "ja": "夜が落ちた時、彼は農場に栄養物を層状に配置していた。",
+          "ipa": "/hi wəz ˈbɛdɪŋ ðə ˈfɑrm wɪð ˈnjuːtriənts wɛn ˈnaɪt ˈfɛl/",
+          "linking": [
+            "was bedding → was は弱形 /wəz/ [wəz ˈbɛdɪŋ] ワズ ベッディング",
+            "bedding the → 語末 ŋ が the に続く、the は弱形 /ðə/",
+            "with nutrients → 語末 ð が nutrients に未開放 [wɪð̚ ˈnjuːtriənts] ウィズ ニュートリエンツ",
+            "when night → when は /wɛn/ [wɛn ˈnaɪt] ウェン ナイト",
+            "night fell → 語末 t が fell に未開放 [ˈnaɪt̚ ˈfɛl] ナイト フェル"
+          ],
+          "kana": "ヒー ワズ ベッディング ザ ファーム ウィズ ニュートリエンツ ウェン ナイト フェル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been bedding",
+      "ipa": "/həd bɪn ˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "She had been bedding down in the safe house for weeks before exploring.",
+          "ja": "探検する前に、彼女は安全な家で何週間も寝床を整えていました。",
+          "ipa": "/ʃi həd bɪn ˈbɛdɪŋ ˈdaʊn ɪn ðə ˈseɪf ˈhaʊs fər ˈwiks bɪˈfɔr ɪkˈsplɔrɪŋ/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been bedding → 語末 n が bedding に未開放 [bɪn ˈbɛdɪŋ] ビン ベッディング",
+            "the safe → the は弱形 /ðə/ [ðə ˈseɪf] ザ セイフ",
+            "for weeks → for は弱形 /fər/ [fər ˈwiks] ファー ウィークス",
+            "before exploring → 語末 r が exploring の /ɪ/ に連結 [bɪˈfɔr ɪkˈsplɔrɪŋ] ビフォア イクスプロアリング"
+          ],
+          "kana": "シー ハド ビン ベッディング ダウン イン ザ セイフ ハウス ファー ウィークス ビフォア イクスプロアリング"
+        },
+        {
+          "en": "They had been bedding the garden with rich soil for days when the rain started.",
+          "ja": "雨が始まった時、彼らは何日も庭を肥沃な土で層状に配置していました。",
+          "ipa": "/ðeɪ həd bɪn ˈbɛdɪŋ ðə ˈɡɑrdən wɪð ˈrɪtʃ ˈsɔɪl fər ˈdeɪz wɛn ðə ˈreɪn ˈstɑrtəd/",
+          "linking": [
+            "had been → had は弱形 /həd/、been も弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been bedding → 語末 n が bedding に未開放 [bɪn ˈbɛdɪŋ] ビン ベッディング",
+            "bedding the → 語末 ŋ が the に続く、the は弱形 /ðə/",
+            "the garden → the は弱形 /ðə/ [ðə ˈɡɑrdən] ザ ガーデン",
+            "with rich → 語末 ð が rich に未開放 [wɪð̚ ˈrɪtʃ] ウィズ リッチ",
+            "for days → for は弱形 /fər/ [fər ˈdeɪz] ファー デイズ",
+            "when the → when は /wɛn/、the は弱形 /ðə/ [wɛn ðə] ウェン ザ",
+            "rain started → 語末 n が started に未開放 [ˈreɪn̚ ˈstɑrtəd] レイン スターティッド"
+          ],
+          "kana": "ザイ ハド ビン ベッディング ザ ガーデン ウィズ リッチ ソイル ファー デイズ ウェン ザ レイン スターティッド"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "hello",
+  "pos": "間投詞・名詞",
+  "pos_all": "間投詞・名詞",
+  "ipa_us": "/həˈloʊ/",
+  "rank": 2795,
+  "level": "A1",
+  "hi": "hello|hellos",
+  "meanings": [
+    "【間投詞】人に会ったときや電話で最初に言うあいさつ（a greeting used when meeting someone or answering a telephone）",
+    "【名詞】あいさつの言葉（a word used as a greeting）",
+    "【間投詞】相手の注意を引くための呼びかけ（an exclamation used to attract someone's attention or to check if someone is there）"
+  ],
+  "examples": [
+    {
+      "en": "Hello! I found a village!",
+      "ja": "やあ！村を見つけた！",
+      "ipa": "/həˈloʊ aɪ ˈfaʊnd ə ˈvɪlɪdʒ/",
+      "linking": [
+        "found の末尾子音 /d/ が a の初頭母音 /ə/ に連結。a は弱形。結果は [ˈfaʊndə] ファウンダ"
+      ],
+      "kana": "ハロウ アイ ファウンダ ヴィリッジ"
+    },
+    {
+      "en": "Say hello to anyone you meet on the server!",
+      "ja": "サーバーで会った誰にでも挨拶しましょう！",
+      "ipa": "/seɪ həˈloʊ tu ˈɛniˌwʌn ju mit ɑn ðə ˈsɜrvər/",
+      "linking": [
+        "to は機能語で弱形 /tə/ に弱化。結果は [tu] タ",
+        "anyone 内で any の末尾音 /i/ が one の初頭音 /w/ に連結。結果は [ˈɛniˈwʌn] エニワン"
+      ],
+      "kana": "セイ ハロウ タ エニワン ユー ミート オン ザ サーヴァー"
+    },
+    {
+      "en": "Hello, is anyone out there?",
+      "ja": "おい、誰かいますか？",
+      "ipa": "/həˈloʊ ɪz ˈɛniˌwʌn aʊt ðɛr/",
+      "linking": [
+        "anyone 内で any の末尾 /i/ が one の初頭 /w/ に連結。結果は [ˈɛniˈwʌn] エニワン"
+      ],
+      "kana": "ハロウ イズ エニワン アウト ゼア"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "hellos",
+      "ipa": "/həˈloʊz/",
+      "examples": [
+        {
+          "en": "Excited hellos rang out from every corner of the server!",
+          "ja": "サーバーのあらゆる隅から興奮した挨拶が鳴り響いた！",
+          "ipa": "[ɪkˈsaɪtɪd həˈloʊz ɹæŋ aʊt frəm ˈɛvɚi ˈkɔɹnɚ əv ðə ˈsɜrvɚ]",
+          "linking": [
+            "from の末尾子音 /m/ が every の初頭母音 /ɛ/ に連結 [frəmˈɛvɚi] フラムエヴリ",
+            "of は前置詞で弱形 /əv/、the も冠詞で弱形 /ðə/"
+          ],
+          "kana": "イクサイティド ハロウズ ラング アウト フラム エヴリ コーナー アヴ ザ サーヴァー"
+        },
+        {
+          "en": "Grateful hellos filled the chat after we defeated the final boss!",
+          "ja": "最終ボスを倒した後、感謝の挨拶がチャットを満たした！",
+          "ipa": "[ˈɡreɪtfəl həˈloʊz fɪld ðə tʃæt ˈæftɚ wi dɪˈfiːtɪd ðə ˈfaɪnəl bɑs]",
+          "linking": [
+            "defeated の末尾子音 /d/ が the の初頭 /ð/ に先行 [dɪˈfiːtəðə] ディフィーティッザ",
+            "the は冠詞で弱形 /ðə/ に弱化し、両方ともフロー [əðə]"
+          ],
+          "kana": "グレイトフル ハロウズ フィルド ザ チャット アフター ウィー ディフィーティド ザ ファイナル ボス"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "say hello to",
+      "ja": "〜に挨拶する、〜に声をかける",
+      "example": "Say hello to the Ender Dragon when you reach the End!",
+      "example_ja": "ジ・エンドに到達したときエンダードラゴンに挨拶しましょう！",
+      "ipa": "/seɪ həˈloʊ tu ðə ˈɛndər ˈdræɡən wɛn ju riːtʃ ðə ˈɛnd/",
+      "linking": [
+        "to は機能語で弱形 /tə/ に弱化",
+        "the は冠詞で弱形 /ðə/ に弱化"
+      ],
+      "kana": "セイ ハロウ タ ザ エンダー ドラゴン ウェン ユー リーチ ザ エンド"
+    },
+    {
+      "idiom": "hello there",
+      "ja": "こんにちは、やあ（友好的で親しみやすいあいさつ）",
+      "example": "Hello there! Did you build this amazing redstone door?",
+      "example_ja": "やあ！この素晴らしいレッドストーンドアを作ったんですか？",
+      "ipa": "/həˈloʊ ðɛr dɪd ju ˈbɪld ðɪs əˈmeɪzɪŋ ˈrɛdˌstoʊn ˈdɔr/",
+      "linking": [
+        "build の末尾子音 /d/ が this の初頭 /ð/ に未開放で接続。結果は [ˈbɪldðɪs] ビルディス"
+      ],
+      "kana": "ハロウ ゼア ディッジュー ビルディス アメイジング レッドストーン ドアー"
+    }
+  ]
+}

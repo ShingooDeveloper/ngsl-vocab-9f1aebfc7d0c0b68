@@ -1,0 +1,433 @@
+{
+  "word": "hook",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/hʊk/",
+  "rank": 2686,
+  "level": "A2",
+  "hi": "hook(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】フック、曲げた金具や道具（ひもやロープなどを引っかけるための構造）",
+    "【名詞】釣り針。釣り竿の先端に付いた魚をかかえる部分（with my fishing rod）",
+    "【動詞】かぎで引っかける、つなぐ。マイクラではレッドストーン装置や道具をつなぐ（hook the mine cart to the rails）",
+    "【動詞】釣る、釣り針で捕らえる。獲物を引っかかせる（hooked a massive fish）"
+  ],
+  "examples": [
+    {
+      "en": "I hooked a massive fish with my fishing rod at the dock.",
+      "ja": "釣り竿でドックで大きな魚を釣った。",
+      "ipa": "/aɪ ˈhʊkt ə məˈsɪv ˈfɪʃ wɪð maɪ ˈfɪʃɪŋ ˈrɑdæt ðə ˈdɑk/",
+      "linking": [
+        "rod at: rod の末尾子音 /d/ が at の初頭母音 /æ/ に連結。[ˈrɑdæ] ラダ",
+        "with my: with の末尾 /ð/ が my の初頭 /maɪ/ に連結。[wɪðmaɪ] ウィズマイ",
+        "the: 冠詞で弱形 /ðə/ に弱化"
+      ],
+      "kana": "アイ フクト ア マシヴ フィッシュ ウィズ マイ フィッシング ラダット ザ ダック"
+    },
+    {
+      "en": "You need to hook the mine cart to the rails before pushing it.",
+      "ja": "鉱山のカートをレールに接続してから押す必要があります。",
+      "ipa": "/juː niːdə ˈhʊk ðə ˈmaɪn kɑrt tə ðə ˈreɪlz bɪˈfɔrpʊʃɪŋ ɪt/",
+      "linking": [
+        "need to: need の末尾子音 /d/ が to の弱形 /tə/ の /ə/ に連結。[niːdə] ニーダ",
+        "before pushing: before の末尾 /r/ が pushing の初頭 /p/ に連結。[fɔrpʊʃɪŋ] ビフォープッシング",
+        "the: 冠詞で弱形 /ðə/ に弱化（2箇所）"
+      ],
+      "kana": "ユー ニーダ フック ザ マイン カート タ ザ レイルズ ビフォープッシング イット"
+    },
+    {
+      "en": "She hung fishing hooks from her tower to decorate the base.",
+      "ja": "彼女はタワーからフィッシング フックをぶら下げてベースを飾った。",
+      "ipa": "/ʃiː ˈhʌŋ ˈfɪʃɪŋ ˈhʊks frɑm hɚ ˈtaʊər tə ˈdɛkəreɪt ðəˈbeɪs/",
+      "linking": [
+        "hung fishing: hung の末尾 /ŋ/ は鼻音で g 音なし。fishing の /f/ との間に明確な境界",
+        "to decorate: to は機能語で弱形 /tə/ に弱化",
+        "the base: the の末尾 /ə/ が base の初頭 /b/ に連結。[ðəˈbeɪs] ザベイス"
+      ],
+      "kana": "シー ハング フィッシング フックス フラム ハー タウワー タ デコレイト ザベイス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "hook up",
+      "ja": "接続する、つなぐ。電気機器やレッドストーン装置などを配線・接続する",
+      "example": "We need to hook up the redstone lamps to the lever.",
+      "example_ja": "レッドストーン ランプをレバーに接続する必要があります。",
+      "ipa": "/wiː niːdə ˈhʊk ʌp ðə ˈrɛdˌstoʊn ˈlæmps tə ðə ˈlɪvər/",
+      "linking": [
+        "need to: need の /d/ が to の弱形 /ə/ に連結。[niːdə] ニーダ",
+        "the: 冠詞で弱形 /ðə/ に弱化（2箇所）"
+      ],
+      "kana": "ウィー ニーダ フック アップ ザ レッドストーン ランプス タ ザ リヴァー"
+    },
+    {
+      "idiom": "by hook or by crook",
+      "ja": "手段を選ばず、どんな手を使ってでも。正々堂々とか不正かを問わずに目的を達成する",
+      "example": "I'll get that diamond ore by hook or by crook!",
+      "example_ja": "あのダイヤモンド鉱石を手段を選ばずに手に入れてやる！",
+      "ipa": "/aɪl ˈɡɛt ðæt ˈdaɪəˌmɑnd ˈɔr baɪ ˈhʊk ɔr baɪ ˈkrʊk/",
+      "linking": [
+        "diamond ore: diamond の末尾 /d/ が ore の初頭母音 /ɔ/ に連結。[ˈdaɪəˌmɑndˈɔr] ダイアモンドオア",
+        "by hook や by crook は文句なく繰り返される定型表現"
+      ],
+      "kana": "アイル ゲット ザット ダイアモンド オア バイ フック オア バイ クルック"
+    },
+    {
+      "idiom": "off the hook",
+      "ja": "責任から逃れる、許される。もう責任を負わなくてよい状態になる",
+      "example": "Now that the creeper destroyed the house, I'm off the hook for the damage.",
+      "example_ja": "クリーパーが家を壊したので、被害の責任から逃れました。",
+      "ipa": "/naʊ ðæt ðə ˈkriːpər dɪˈstrɔɪd ðə ˈhaʊs aɪm ɔf ðə ˈhʊk fɔr ðə ˈdæmɪdʒ/",
+      "linking": [
+        "the creeper: the の弱形 /ðə/ が creeper の初頭 /k/ に先行（弱形） ザ",
+        "off the: off の末尾 /f/ が the の弱形 /ðə/ に続く（子音+弱形の境界）",
+        "for the: for の末尾 /r/ が the の弱形 /ðə/ に続く（r が ə に連結）"
+      ],
+      "kana": "ナウ ザット ザ クリーパー ディストロイド ザ ハウス アイム オフ ザ フック フォア ザ ダメッジ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "hooks",
+      "ipa": "/hʊks/",
+      "examples": [
+        {
+          "en": "I hung fishing hooks on the walls of my base.",
+          "ja": "ベースの壁に釣り針をぶら下げた。",
+          "ipa": "/aɪ ˈhʌŋ ˈfɪʃɪŋ ˈhʊks ɑn ðə ˈwɔlz əv maɪ ˈbeɪs/",
+          "linking": [
+            "hung fishing: hung の末尾 /ŋ/ (鼻音) が fishing の /f/ に先行。明確な境界",
+            "on the: on の末尾 /n/ が the の弱形 /ðə/ に連結 [ɑnðə] オンザ",
+            "of my: of の弱形 /əv/ が my の /m/ に連結 [əvmaɪ] アヴマイ"
+          ],
+          "kana": "アイ ハング フィッシング フックス オン ザ ウォールズ アヴマイ ベイス"
+        },
+        {
+          "en": "The redstone hooks are connected to the main circuit.",
+          "ja": "レッドストーン フックがメイン回路に接続されています。",
+          "ipa": "/ðə ˈrɛdˌstoʊn ˈhʊks ɑr kəˈnɛktəd tə ðə ˈmeɪn ˈsɝːkɪt/",
+          "linking": [
+            "the redstone: the の弱形 /ðə/ が redstone の /r/ に連結 [ðəˈrɛdˌstoʊn] ザレッドストーン",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the main: the の弱形 /ðə/ が main の /m/ に連結 [ðəˈmeɪn] ザメイン"
+          ],
+          "kana": "ザ レッドストーン フックス アー コネクティド タザ メイン サーキット"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "hooks",
+      "ipa": "/hʊks/",
+      "examples": [
+        {
+          "en": "He hooks the minecart to the track every time.",
+          "ja": "彼は毎回、鉱山のカートをレールに接続する。",
+          "ipa": "/hiː ˈhʊks ðə ˈmaɪnˌkɑrt tə ðə ˈtræk ˈɛvri ˈtaɪm/",
+          "linking": [
+            "He hooks: He /hi/ は弱形で hooks の /h/ へ引き継ぎ [hiːhʊks]（実際には He /hɪ/ に弱化）",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the track: the の弱形 /ðə/ が track の /t/ に連結 [ðəˈtræk] ザトラック"
+          ],
+          "kana": "ヒー フックス ザ マインカート タザ トラック エブリー タイム"
+        },
+        {
+          "en": "She hooks fishing lines to the dock posts for storage.",
+          "ja": "彼女は保管用に釣り糸をドックの柱に引っかける。",
+          "ipa": "/ʃiː ˈhʊks ˈfɪʃɪŋ ˈlaɪnz tə ðə ˈdɑk ˈpoʊsts fər ˈstɔrɪdʒ/",
+          "linking": [
+            "She hooks: She /ʃi/ から hooks の /h/ へ [ʃiːhʊks] シーフックス",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "for storage: for の弱形 /fər/ が storage の /s/ に先行。ともに弱く [fərˈstɔrɪdʒ] ファーストレッジ"
+          ],
+          "kana": "シー フックス フィッシング ラインズ タザ ダック ポーストス ファー ストレッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "hooked",
+      "ipa": "/ˈhʊkt/",
+      "examples": [
+        {
+          "en": "I hooked the redstone lamp to the lever yesterday.",
+          "ja": "昨日、レッドストーン ランプをレバーに接続した。",
+          "ipa": "/aɪ ˈhʊkt ðə ˈrɛdˌstoʊn ˈlæmp tə ðə ˈlɪvər ˈjɛstərˌdeɪ/",
+          "linking": [
+            "hooked the: hooked の末尾 /t/ が the の弱形 /ðə/ に連結。/t/ は未開放 [ˈhʊk̚ðə] フックッザ",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the lever: the の弱形 /ðə/ が lever の /l/ に連結 [ðəˈlɪvər] ザリヴァー"
+          ],
+          "kana": "アイ フックト ザ レッドストーン ランプ タザ リヴァー イェスターデイ"
+        },
+        {
+          "en": "They hooked up the entire redstone circuit to the main power line.",
+          "ja": "彼らはレッドストーン回路全体をメイン電源に接続した。",
+          "ipa": "/ðeɪ ˈhʊkt ʌp ðə ənˈtaɪər ˈrɛdˌstoʊn ˈsɝːkɪt tə ðə ˈmeɪn ˈpaʊər ˈlaɪn/",
+          "linking": [
+            "hooked up: hooked の末尾 /t/ が up の /ʌ/ に連結 [ˈhʊktʌp] フックタップ",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the main: the の弱形 /ðə/ が main の /m/ に連結 [ðəˈmeɪn] ザメイン"
+          ],
+          "kana": "ゼイ フックト アップ ザ エンタイアー レッドストーン サーキット タザ メイン パワー ライン"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "hooked",
+      "ipa": "/ˈhʊkt/",
+      "examples": [
+        {
+          "en": "Once hooked to the power source, the door opens automatically.",
+          "ja": "電源に接続されると、ドアが自動で開く。",
+          "ipa": "/wʌns ˈhʊkt tə ðə ˈpaʊər sɔrs ðə ˈdɔr ˈoʊpənz ˌɔdəˈmætɪkli/",
+          "linking": [
+            "hooked to: hooked の末尾 /t/ が to の弱形 /tə/ に連結 [ˈhʊktə] フックタ",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the power: the の弱形 /ðə/ が power の /p/ に連結 [ðəˈpaʊər] ザパウアー"
+          ],
+          "kana": "ワンス フックタ ザ パウアー ソース ザ ドア オーペンズ オードマティカリー"
+        },
+        {
+          "en": "The minecart has been hooked to the rails since we completed the railway.",
+          "ja": "鉱山のカートは線路に接続されており、鉄道が完成してから繋がったままです。",
+          "ipa": "/ðə ˈmaɪnˌkɑrt həz bɪn ˈhʊkt tə ðə ˈreɪlz sɪns wi kəmˈpliːtəd ðə ˈreɪlˌweɪ/",
+          "linking": [
+            "has been: has の弱形 /əz/ から been の /b/ へ。/z/ と /b/ は両子音 [əzbɪn] アズビン",
+            "hooked to: hooked の末尾 /t/ が to の弱形 /tə/ に連結 [ˈhʊktə] フックタ",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ"
+          ],
+          "kana": "ザ マインカート ハズ ビン フックタ ザ レイルズ シンス ウィー コンプリーティド ザ レイルウェイ"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "hooking",
+      "ipa": "/ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "Hooking the cart to the track is an essential part of building railways.",
+          "ja": "カートを線路に接続することは、鉄道建設の重要な部分です。",
+          "ipa": "/ˈhʊkɪŋ ðə kɑrt tə ðə ˈtræk ɪz ən əˈsɛnʃəl ˈpɑrt əv ˈbɪldɪŋ ˈreɪlˌweɪz/",
+          "linking": [
+            "Hooking the: hooking の末尾 /ŋ/ (鼻音) が the の /ðə/ に先行。鼻音+子音なので明確な境界",
+            "to the: to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "part of: part の末尾 /t/ が of の弱形 /əv/ に連結 [ˈpɑrtəv] パートアヴ"
+          ],
+          "kana": "フッキング ザ カート タザ トラック イズ アン エッセンシャル パートアヴ ビルディング レイルウェイズ"
+        },
+        {
+          "en": "I'm hooking up the redstone repeater to delay the signal now.",
+          "ja": "今、レッドストーン リピーターをつないでシグナルを遅延させています。",
+          "ipa": "/aɪm ˈhʊkɪŋ ʌp ðə ˈrɛdˌstoʊn rɪˈpiːtər tə dɪˈleɪ ðə ˈsɪɡnəl ˈnaʊ/",
+          "linking": [
+            "I'm hooking: I'm の /m/ が hooking の /h/ に先行 [aɪmˈhʊkɪŋ] アイムフッキング",
+            "to delay: to の弱形 /tə/ が delay の /d/ に連結 [tədɪˈleɪ] タディレイ",
+            "the signal: the の弱形 /ðə/ が signal の /s/ に先行（子音+子音なので境界）"
+          ],
+          "kana": "アイム フッキング アップ ザ レッドストーン リピーター タディレイ ザ シグナル ナウ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is hooking",
+      "ipa": "/ɪz ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I am hooking the minecart to the track right now.",
+          "ja": "今、マインカートをレールに繋いでいます。",
+          "ipa": "/aɪ əm ˈhʊkɪŋ ðə ˈmaɪnˌkɑrt tə ðə ˈtræk ˈraɪt ˈnaʊ/",
+          "linking": [
+            "am → 弱形 /əm/",
+            "the → 弱形 /ðə/",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ"
+          ],
+          "kana": "アイ アム フッキング ザ マインカート タザ トラック ライト ナウ"
+        },
+        {
+          "en": "She is hooking the redstone lamp to the lever for the auto-door.",
+          "ja": "自動ドア用にレッドストーン ランプをレバーに繋いでいます。",
+          "ipa": "/ʃi ɪz ˈhʊkɪŋ ðə ˈrɛdˌstoʊn ˈlæmp tə ðə ˈlɪvər fɔr ðə ˈɔːtəˌdɔr/",
+          "linking": [
+            "is → 弱形 /ɪz/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ",
+            "for the → for は弱形 /fɔr/、the は弱形 /ðə/"
+          ],
+          "kana": "シー イズ フッキング ザ レッドストーン ランプ タザ リバー ファー ザ オートドア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was hooking",
+      "ipa": "/wəz ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "We were hooking up the entire redstone circuit when the creeper attacked.",
+          "ja": "クリーパーが攻撃してきた時、レッドストーン回路全体を繋いでいました。",
+          "ipa": "/wi wɚ ˈhʊkɪŋ ʌp ðə ɛnˈtaɪər ˈrɛdˌstoʊn ˈsɝːkɪt wɛn ðə ˈkriːpər əˈtækt/",
+          "linking": [
+            "were → 弱形 /wɚ/",
+            "the → 弱形 /ðə/",
+            "the creeper → the は弱形 /ðə/、creeper の /k/ に連結 [ðəˈkriːpər] ザクリーパー"
+          ],
+          "kana": "ウィー ワー フッキング アップ ザ エンタイアー レッドストーン サーキット ウェン ザ クリーパー アタックト"
+        },
+        {
+          "en": "I was hooking the cart to the rails when I found diamonds.",
+          "ja": "レールにカートを繋いでいた時、ダイヤを見つけました。",
+          "ipa": "/aɪ wəz ˈhʊkɪŋ ðə kɑrt tə ðə ˈreɪlz wɛn aɪ faʊnd ˈdaɪəˌmɑndz/",
+          "linking": [
+            "was → 弱形 /wəz/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ"
+          ],
+          "kana": "アイ ワズ フッキング ザ カート タザ レイルズ ウェン アイ ファウンド ダイアマンズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been hooking",
+      "ipa": "/həd bɪn ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "We had been hooking the gates to the redstone system for hours before it finally worked.",
+          "ja": "やっと動くまで、何時間もゲートをレッドストーン システムに繋いでいました。",
+          "ipa": "/wi həd bɪn ˈhʊkɪŋ ðə ˈɡeɪts tə ðə ˈrɛdˌstoʊn ˈsɪstəm fɔr ˈaʊərz bɪˈfɔr ɪt ˈfaɪnəli ˈwɚkt/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/ [təðə] タザ",
+            "for → 弱形 /fɔr/"
+          ],
+          "kana": "ウィー ハド ビン フッキング ザ ゲイツ タザ レッドストーン システム ファー アワーズ ビフォア イット ファイナリー ワーキト"
+        },
+        {
+          "en": "They had been hooking up the decorative lanterns all morning before the party started.",
+          "ja": "パーティーが始まる前、朝中ずっと装飾的なランタンをぶら下げていました。",
+          "ipa": "/ðeɪ həd bɪn ˈhʊkɪŋ ʌp ðə ˈdɛkərətɪv ˈlæntərnz ɔl ˈmɔrnɪŋ bɪˈfɔr ðə ˈpɑrti ˈstɑrtɪd/",
+          "linking": [
+            "had → 弱形 /həd/",
+            "been → 弱形 /bɪn/",
+            "the → 弱形 /ðə/ (2箇所)",
+            "all morning → all の末尾 /l/ が morning の /m/ に連結 [ɔlˈmɔrnɪŋ] オール モーニング"
+          ],
+          "kana": "ゼイ ハド ビン フッキング アップ ザ デコラティヴ ランターンズ オール モーニング ビフォア ザ パーティー スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has hooked",
+      "ipa": "/həz ˈhʊkt/",
+      "examples": [
+        {
+          "en": "She has hooked several fish by the dock today.",
+          "ja": "彼女は今日、ドック近くで何匹か魚を釣った。",
+          "ipa": "/ʃi həz ˈhʊkt ˈsɛvərəl ˈfɪʃ baɪ ðə ˈdɑk təˈdeɪ/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "the dock → the の弱形 /ðə/ が dock の初頭 /d/ に先行 [ðəˈdɑk] ザダック",
+            "to (in today) → to は弱形 /tə/ に弱化"
+          ],
+          "kana": "シー ハズ フック セヴァラル フィッシュ バイ ザ ダック タデイ"
+        },
+        {
+          "en": "We have hooked the minecart to the track.",
+          "ja": "私たちはマインカートをレールに接続した。",
+          "ipa": "/wi həv ˈhʊkt ðə ˈmaɪnˌkɑrt tə ðə ˈtræk/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the track → the の弱形 /ðə/ が track の /t/ に先行 [ðəˈtræk] ザトラック"
+          ],
+          "kana": "ウィー ハヴ フックタ ザ マインカート タザ トラック"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had hooked",
+      "ipa": "/həd ˈhʊkt/",
+      "examples": [
+        {
+          "en": "I had hooked the minecart to the rails before the creeper attacked.",
+          "ja": "クリーパーが攻撃する前に、カートをレールに接続していた。",
+          "ipa": "/aɪ həd ˈhʊkt ðə ˈmaɪnˌkɑrt tə ðə ˈreɪlz bɪˈfɔr ðə ˈkriːpər əˈtækt/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the rails → the の弱形 /ðə/ が rails の /r/ に先行 [ðəˈreɪlz] ザレイルズ",
+            "before → 副詞で弱形傾向 /bɪˈfɔr/",
+            "the creeper → the の弱形 /ðə/ が creeper の /k/ に先行 [ðəˈkriːpər] ザクリーパー"
+          ],
+          "kana": "アイ ハド フックタ ザ マインカート タザ レイルズ ビフォア ザ クリーパー アタックト"
+        },
+        {
+          "en": "She had hooked the fishing lines to the dock posts for storage.",
+          "ja": "彼女は保管用に釣り糸をドックの柱に引っかけていた。",
+          "ipa": "/ʃi həd ˈhʊkt ðə ˈfɪʃɪŋ ˈlaɪnz tə ðə ˈdɑk ˈpoʊsts fər ˈstɔrɪdʒ/",
+          "linking": [
+            "had → 弱形 /həd/ に弱化",
+            "hooked the → hooked の末尾 /t/ が the の弱形 /ðə/ に連結 [ˈhʊktə] フックタ",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "the dock → the の弱形 /ðə/ が dock の /d/ に先行 [ðəˈdɑk] ザダック",
+            "for → 弱形 /fər/ に弱化"
+          ],
+          "kana": "シー ハド フックタ ザ フィッシング ラインズ タザ ダック ポーストス ファー ストレッジ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been hooking",
+      "ipa": "/həz bɪn ˈhʊkɪŋ/",
+      "examples": [
+        {
+          "en": "He has been hooking fish all morning.",
+          "ja": "彼は朝からずっと魚を釣り続けている。",
+          "ipa": "/hi həz bɪn ˈhʊkɪŋ ˈfɪʃ ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "has → 弱形 /həz/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "all morning → all の末尾 /l/ が morning の /m/ に連結 [ɔlˈmɔrnɪŋ] オール モーニング"
+          ],
+          "kana": "ヒー ハズ ビン フッキング フィッシュ オール モーニング"
+        },
+        {
+          "en": "We have been hooking the redstone circuit to the main power for the past hour.",
+          "ja": "私たちは過去1時間、レッドストーン回路をメイン電源に接続し続けている。",
+          "ipa": "/wi həv bɪn ˈhʊkɪŋ ðə ˈrɛdˌstoʊn ˈsɝːkɪt tə ðə ˈmeɪn ˈpaʊər fɔr ðə ˈpæst ˈaʊər/",
+          "linking": [
+            "have → 弱形 /həv/ に弱化",
+            "been → 弱形 /bɪn/ に弱化",
+            "the → 弱形 /ðə/ (2-3箇所)",
+            "to the → to の弱形 /tə/ が the の弱形 /ðə/ に続く [təðə] タザ",
+            "for the → for の末尾 /r/ が the の弱形 /ðə/ に連結 [fɔrðə] ファーザ"
+          ],
+          "kana": "ウィー ハヴ ビン フッキング ザ レッドストーン サーキット タザ メイン パワー ファーザ パスト アワー"
+        }
+      ]
+    }
+  ]
+}

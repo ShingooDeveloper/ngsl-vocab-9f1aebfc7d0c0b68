@@ -1,0 +1,520 @@
+{
+  "word": "plug",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/plʌɡ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "plug(?:s|ged|ging|gers?)?",
+  "meanings": [
+    "【動詞】穴や隙間を栓をする、塞ぐ（plug a hole）",
+    "【動詞】積極的に宣伝する、推奨する（advertise or promote）",
+    "【名詞】栓、プラグ（a stopper or connector device）",
+    "【名詞】電気機器のプラグ、コンセント（an electrical plug or outlet）",
+    "【名詞】宣伝、推奨（a promotional mention）"
+  ],
+  "examples": [
+    {
+      "en": "I need to plug this hole with dirt blocks.",
+      "ja": "私は土ブロックでこの穴を塞ぐ必要があります。",
+      "ipa": "/aɪ ˈniːd tə ˈplʌɡ ðɪs ˈhoʊl wɪð ˈdɜrt ˈblɑks/",
+      "linking": [
+        "「to」は機能語で弱形 /tə/ に弱化される",
+        "「this」と「hole」は子音で境界されるため連結なし"
+      ],
+      "kana": "アイ ニード タ プラグ ディス ホール ウィズ ダート ブラックス"
+    },
+    {
+      "en": "The water is spreading; we need a plug here.",
+      "ja": "水が広がっています。ここに栓が必要です。",
+      "ipa": "/ðə ˈwɔɾɚ ɪz ˈsprɛdɪŋ wi ˈniːd ə ˈplʌɡ ˈhɪr/",
+      "linking": [
+        "「water」で /t/ が母音に挟まれフラップT化し連結：[ˈwɔɾɚ] = ウォラー",
+        "「need a」で語末子音 /d/ が母音 /ə/ に連結：[ˈniːdə] = ニーダ"
+      ],
+      "kana": "ザ ウォラー イズ スプレディング ウィ ニーダ プラグ ヒア"
+    },
+    {
+      "en": "Can you plug that leak before it floods the base?",
+      "ja": "その漏れをふさいでくれない？基地が浸水する前に。",
+      "ipa": "/kæn ju ˈplʌɡ ðæt ˈliːk bɪˈfɔrɪt̚ ˈflʌdz ðə ˈbeɪs/",
+      "linking": [
+        "「before it」で語末子音 /r/ が母音 /ɪ/ に連結：[bɪˈfɔrɪt̚] = ビフォーリット",
+        "「it floods」で /t/ が子音 /f/ の前に未開放となり、小さいつで表記：イッ"
+      ],
+      "kana": "キャン ユー プラグ ザット リーク ビフォーリット フラッズ ザ ベイス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "plug a hole",
+      "ja": "穴をふさぐ、問題を解決する",
+      "example": "We need to plug the hole in our base defenses.",
+      "example_ja": "基地の防御の隙を埋める必要があります。",
+      "ipa": "/wi ˈniːd tə ˈplʌɡ ðə ˈhoʊlɪn ˈaʊr ˈbeɪs dɪˈfɛnsɪz/",
+      "linking": [
+        "「hole in」で語末子音 /l/ が母音 /ɪ/ に連結：[ˈhoʊlɪn] = ホーリン",
+        "「to」は機能語で弱形 /tə/"
+      ],
+      "kana": "ウィ ニード タ プラグ ザ ホーリン アワー ベース ディフェンシズ"
+    },
+    {
+      "idiom": "pull the plug",
+      "ja": "（何かを）中止する、プラグを抜く",
+      "example": "Don't pull the plug on the server during the event!",
+      "example_ja": "イベント中にサーバーを切断しないで！",
+      "ipa": "/ˈdoʊnt ˈpʊl ðə ˈplʌɡ ˈɑn ðə ˈsɜrvɚ ˈdʊrɪŋ ðə ɪˈvɛnt/",
+      "linking": [
+        "「the」は機能語で弱形 /ðə/ に弱化される（文中に複数回）",
+        "「server」は /ɜ/ と /ɚ/ の r-coloring で「サーバー」と発音"
+      ],
+      "kana": "ドウント プル ザ プラグ オン ザ サーバー ドューリング ザ イベント"
+    },
+    {
+      "idiom": "plug away",
+      "ja": "コツコツ働く、地道に続ける",
+      "example": "I'll plug away at mining until I find diamonds.",
+      "example_ja": "ダイヤを見つけるまでコツコツ採掘し続けます。",
+      "ipa": "/ˈaɪl ˈplʌɡ əˈweɪ ət ˈmaɪnɪŋ ənˈtɪlaɪ ˈfaɪnd ˈdaɪmənz/",
+      "linking": [
+        "「away」の /ə/ は弱形で「アウェイ」と弱化",
+        "「until I」で語末子音 /l/ が母音 /aɪ/ に連結：[ənˈtɪlaɪ] = アンティライ"
+      ],
+      "kana": "アイル プラグ アウェイ アット マイニング アンティライ ファインド ダイマンズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "plugs",
+      "ipa": "/plʌɡz/",
+      "examples": [
+        {
+          "en": "We need water plugs to seal this massive leak in our base.",
+          "ja": "我々は基地の大規模な漏れをふさぐために水栓が必要です。",
+          "ipa": "/wi ˈniːd ˈwɔɾɚ plʌɡz tə ˈsil ðɪs ˈmæsɪv ˈlik ɪnaʊɚ ˈbeɪs/",
+          "kana": "ウィ ニード ウォーラー プラグズ タ スィール ディス マッシブ リーク イナワー ベース",
+          "linking": [
+            "「water」で /t/ が母音に挟まれフラップT化 [ˈwɔɾɚ]「ウォーラー」",
+            "「in our」で in の語末子音 /n/ が our の初頭母音 /aʊ/ に連結「イナワー」",
+            "「to」は機能語の弱形 /tə/「タ」"
+          ]
+        },
+        {
+          "en": "These electrical plugs are essential for powering our redstone machines.",
+          "ja": "これらの電気プラグは、レッドストーン機械に電力を供給するために不可欠です。",
+          "ipa": "/ðiz ɪˈlɛktrɪkəl plʌɡz ɑɹ ɪˈsɛnʃəl fɔɹ ˈpaʊɚɪŋ ˈaʊɚ ˈɹɛdstoʊn məˈʃinz/",
+          "kana": "ディーズ イレクトリカル プラグズ アー イセンシャル ファー パウアリング アワー レッドストウン マシーンズ",
+          "linking": [
+            "「These electrical」で these の語末 /z/ が electrical の初頭母音 /ɪ/ に連結「ディーズ イレクトリカル」",
+            "「plugs are」で plugs の語末 /z/ が are の初頭母音 /ɑ/ に連結「プラグズ アー」",
+            "「for」は前置詞の弱形 /fɔɹ/「ファー」",
+            "「powering our」で powering の語末 /ŋ/ が our の初頭母音 /aʊ/ に連結「パウアリング アワー」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "plugs",
+      "ipa": "/plʌɡz/",
+      "examples": [
+        {
+          "en": "She plugs the hole with stone bricks to stop the water.",
+          "ja": "彼女は水を止めるために石レンガで穴を塞ぎます。",
+          "ipa": "/ʃi plʌɡz ðə ˈhoʊl wɪð ˈstoʊn brɪks tə ˈstɑp ðə ˈwɔɾɚ/",
+          "kana": "シー プラグズ ザ ホール ウィス ストウン ブリックス タ ストップ ザ ウォーラー",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「water」で /t/ が母音に挟まれフラップT化 [ˈwɔɾɚ]「ウォーラー」",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        },
+        {
+          "en": "The redstone engineer plugs in the power source to activate the mechanism.",
+          "ja": "レッドストーンエンジニアは、メカニズムを起動するために電源を接続します。",
+          "ipa": "/ðə ˈɹɛdstoʊn ˌɛndʒɪˈnɪɚ plʌɡz ɪn ðə ˈpaʊɚ ˈsɔɹs tə ˈæktɪveɪt ðə ˈmɛkənɪzəm/",
+          "kana": "ザ レッドストウン エンジニアー プラグズ イン ザ パワー ソース タ アクティベイト ザ メカニズム",
+          "linking": [
+            "「redstone engineer」で redstone の語末 /n/ が engineer の初頭母音 /ɛ/ に連結「レッドストウン エンジニアー」",
+            "「plugs in」で plugs の語末 /z/ が in の初頭母音 /ɪ/ に連結「プラグズ イン」",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "plugged",
+      "ipa": "/plʌɡd/",
+      "examples": [
+        {
+          "en": "We plugged the entrance with dirt blocks to keep the mobs out.",
+          "ja": "私たちは土ブロックで入り口を塞いで、モブを閉め出しました。",
+          "ipa": "/wi plʌɡd ðə ˈɛntrəns wɪð ˈdɜrt blɑks tə ˈkip ðə ˈmɑbz ˈaʊt/",
+          "kana": "ウィ プラグド ザ エントランス ウィス ダート ブラックス タ キープ ザ モブズ アウト",
+          "linking": [
+            "「plugged the」で plugged の語末子音 /d/ が the の初頭子音 /ð/ に続き、未開放となる「プラグド ザ」",
+            "「mobs out」で mobs の語末 /z/ が out の初頭母音 /aʊ/ に連結「モブズ アウト」",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        },
+        {
+          "en": "Last night, I plugged the leak before our base flooded.",
+          "ja": "昨晩、私は我々の基地が浸水する前に漏れを塞ぎました。",
+          "ipa": "/læst ˈnaɪt aɪ plʌɡd ðə ˈlik bɪˈfɔɹ ˈaʊɚ ˈbeɪs ˈflʌdəd/",
+          "kana": "ラスト ナイト アイ プラグド ザ リーク ビフォー アワー ベース フラッドッド",
+          "linking": [
+            "「night I」で night の語末 /t/ が I の初頭母音 /aɪ/ に連結「ナイト アイ」",
+            "「plugged the」で plugged の語末 /d/ が the の初頭 /ð/ に続き、未開放「プラグド ザ」",
+            "「before our」で before の語末 /ɚ/ が our の初頭母音 /aʊ/ に連結「ビフォー アワー」",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "plugged",
+      "ipa": "/plʌɡd/",
+      "examples": [
+        {
+          "en": "Having plugged the hole, we were finally safe from the water.",
+          "ja": "穴を塞いだので、私たちはやっと水から安全でした。",
+          "ipa": "/ˈhævɪŋ plʌɡd ðə ˈhoʊl wi wɚ ˈfaɪnəli ˈseɪf frəm ðə ˈwɔɾɚ/",
+          "kana": "ハービング プラグド ザ ホール ウィ ワー ファイナリー セイフ フラム ザ ウォーラー",
+          "linking": [
+            "「Having」で語末 /ŋ/ が plugged に続き「ハービング プラグド」",
+            "「plugged the」で plugged の語末 /d/ が the の初頭子音 /ð/ に続き、未開放「プラグド ザ」",
+            "「from」は前置詞の弱形 /frəm/「フラム」",
+            "「the」は定冠詞の弱形 /ðə/ ザ",
+            "「water」で /t/ が母音に挟まれフラップT化 [ˈwɔɾɚ]「ウォーラー」"
+          ]
+        },
+        {
+          "en": "The gate had been plugged with reinforced blocks to prevent invasions.",
+          "ja": "門は強化ブロックで塞がれ、侵攻を防いでいました。",
+          "ipa": "/ðə ˈɡeɪt hæd bɪn plʌɡd wɪð ɹɪnˈfɔɹst blɑks tə prɪˈvɛnt ɪnˈveɪʒənz/",
+          "kana": "ザ ゲイト ハッド ビン プラグド ウィス リインフォースド ブラックス タ プリベント インベイジョンズ",
+          "linking": [
+            "「The」は定冠詞の弱形 /ðə/ ザ",
+            "「prevent invasions」で prevent の語末 /t/ が invasions の初頭母音 /ɪ/ に連結「プリベント インベイジョンズ」",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "plugging",
+      "ipa": "/ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "Plugging the tunnel opening took longer than expected.",
+          "ja": "トンネルの開口部を塞ぐことは予想より時間がかかりました。",
+          "ipa": "/ˈplʌɡɪŋ ðə ˈtʌnəl ˈoʊpənɪŋ ˈtʊk ˈlɔŋɡɚ ðæn ɪkˈspɛktəd/",
+          "kana": "プラギング ザ タンネル オーペニング トゥック ロンガー ザン イクスペクテッド",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/ ザ",
+            "「tunnel opening」で tunnel の語末 /l/ が opening の初頭母音 /oʊ/ に連結「タンネル オーペニング」",
+            "「than expected」で than の語末 /n/ が expected の初頭母音 /ɪ/ に連結「ザン イクスペクテッド」"
+          ]
+        },
+        {
+          "en": "By plugging in several power supplies, we activated the entire redstone circuit.",
+          "ja": "複数の電源を接続することで、レッドストーン回路全体が起動しました。",
+          "ipa": "/ˌbaɪ ˈplʌɡɪŋ ˈɪn ˈsɛvɚəl ˈpaʊɚ səˈplaɪz wi ˈæktɪveɪtəd ði ənˈtaɪɚ ˈɹɛdstoʊn ˈsɝkɪt/",
+          "kana": "バイ プラギング イン セヴァラル パワー サプライズ ウィ アクティベイティッド ザ エンタイアー レッドストウン サーキット",
+          "linking": [
+            "「plugging in」で plugging の語末 /ŋ/ が in の初頭母音 /ɪ/ に連結「プラギング イン」",
+            "「the」は定冠詞の弱形 /ði/ ジ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is plugging",
+      "ipa": "/ɪz ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "I am plugging the hole with obsidian blocks right now.",
+          "ja": "今、黒曜石のブロックでこの穴を塞いでいます。",
+          "ipa": "/aɪ əm ˈplʌɡɪŋ ðə ˈhoʊl wɪθ ɑbˈsɪdiən ˈblɑks ɹaɪt ˈnaʊ/",
+          "kana": "アイエム プラギング ザ ホール ウィス オブシディアン ブラックス ライト ナウ",
+          "linking": [
+            "「am」は弱形 /əm/ エム。I /aɪ/ に続き、am が弱形で発音される",
+            "「the」は定冠詞の弱形 /ðə/ ザ",
+            "「hole」の語末子音 /l/ が「with」の初頭子音 /w/ に続く"
+          ]
+        },
+        {
+          "en": "We are plugging all the holes in the barn to keep the mobs out.",
+          "ja": "モブを閉め出すために、納屋のすべての穴を塞いでいます。",
+          "ipa": "/wi ɑɹ ˈplʌɡɪŋ ˈɔl ðə ˈhoʊlz ɪn ðə ˈbɑɹn tə ˈkip ðə ˈmɑbz ˈaʊt/",
+          "kana": "ウィ アー プラギング オール ザ ホールズ イン ザ バーン タ キープ ザ モブズ アウト",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「holes」の語末子音 /z/ が「in」の初頭母音 /ɪ/ に連結「ホールズ イン」",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was plugging",
+      "ipa": "/wəz ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "I was plugging the hole when the creeper explosion destroyed our base.",
+          "ja": "穴を塞いでいたとき、クリーパーの爆発が基地を破壊しました。",
+          "ipa": "/aɪ wəz ˈplʌɡɪŋ ðə ˈhoʊl wɛn ðə ˈkripɚ ɪkˈsploʊʒən dɪˈstrɔɪd ˈaʊɚ ˈbeɪs/",
+          "kana": "アイ ワズ プラギング ザ ホール ウェン ザ クリーパー イクスプロージョン ディストロイド アワー ベース",
+          "linking": [
+            "「was」は弱形 /wəz/ ワズ",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「creeper」の語末 /ɚ/ が「explosion」の初頭母音 /ɪ/ に連結「クリーパー イクスプロージョン」"
+          ]
+        },
+        {
+          "en": "They were plugging the dam when the water level finally dropped.",
+          "ja": "彼らがダムを塞いでいたとき、水位がついに下がりました。",
+          "ipa": "/ðeɪ wɚ ˈplʌɡɪŋ ðə ˈdæm wɛn ðə ˈwɔɾɚ ˈlɛvəl ˈfaɪnəli ˈdrɑpt/",
+          "kana": "ザイ ワー プラギング ザ ダム ウェン ザ ウォーラー レベル ファイナリー ドロップド",
+          "linking": [
+            "「were」は弱形 /wɚ/。They /ðeɪ/ に続き、were が弱形で発音される",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「water」の /t/ が母音に挟まれフラップ化し [ˈwɔɾɚ] ウォーラー となる"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been plugging",
+      "ipa": "/ˈhæd bɪn ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "She had been plugging holes for hours when she finally found the main leak.",
+          "ja": "彼女は何時間も穴を塞いでいましたが、ようやく主な漏れを見つけました。",
+          "ipa": "/ʃi həd bɪn ˈplʌɡɪŋ ˈhoʊlz fɔɹ ˈaʊɚz wɛn ʃi ˈfaɪnəli ˈfaʊnd ðə ˈmeɪn ˈlik/",
+          "kana": "シー ハド ビン プラギング ホールズ ファー アワーズ ウェン シー ファイナリー ファウンド ザ メイン リーク",
+          "linking": [
+            "「had」は弱形 /həd/ ハド、been も弱形 /bɪn/ ビン で発音される",
+            "「for」は弱形 /fɔɹ/ ファー",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        },
+        {
+          "en": "They had been plugging the tunnel when reinforcements finally arrived.",
+          "ja": "彼らがトンネルを塞いでいたとき、援軍がようやく到着しました。",
+          "ipa": "/ðeɪ həd bɪn ˈplʌɡɪŋ ðə ˈtʌnəl wɛn ˌɹiɪnˈfɔɹsmənts ˈfaɪnəli əˈɹaɪvd/",
+          "kana": "ザイ ハド ビン プラギング ザ タンネル ウェン リインフォースメンツ ファイナリー アライヴド",
+          "linking": [
+            "「had」は弱形 /həd/ ハド、been も弱形 /bɪn/ ビン で発音される",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has plugged",
+      "ipa": "/həz ˈplʌɡd/",
+      "examples": [
+        {
+          "en": "I have plugged this hole with dirt blocks to stop the water.",
+          "ja": "この穴を土ブロックで塞ぎました。水を止めるために。",
+          "ipa": "/aɪ həv plʌɡd ðɪs ˈhoʊl wɪð ˈdɜrt ˈblɑks tə ˈstɑp ðə ˈwɔɾɚ/",
+          "kana": "アイ ハブ プラグド ディス ホール ウィズ ダート ブラックス タ ストップ ザ ウォーラー",
+          "linking": [
+            "「have」は助動詞で弱形 /həv/ ハブ",
+            "「water」で /t/ が母音に挟まれフラップT化：[ˈwɔɾɚ] ウォーラー",
+            "「to」は前置詞の弱形 /tə/ タ",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        },
+        {
+          "en": "He has plugged the main leak, so our base is finally safe.",
+          "ja": "主な漏れを塞ぎました。だから私たちの基地はようやく安全です。",
+          "ipa": "/hi həz plʌɡd ðə ˈmeɪn ˈlik soʊ ˈaʊɚ ˈbeɪs ɪz ˈfaɪnəli ˈseɪf/",
+          "kana": "ヒー ハズ プラグド ザ メイン リーク ソー アワー ベース イズ ファイナリー セイフ",
+          "linking": [
+            "「has」は助動詞で弱形 /həz/ ハズ",
+            "「the」は定冠詞の弱形 /ðə/ ザ",
+            "「our」は代名詞 /ˈaʊɚ/ アワー。r-coloring を含む"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had plugged",
+      "ipa": "/həd ˈplʌɡd/",
+      "examples": [
+        {
+          "en": "We had plugged the tunnel before the raid started, so our base was secure.",
+          "ja": "襲撃が始まる前にトンネルを塞いでいました。だから基地は安全でした。",
+          "ipa": "/wi həd plʌɡd ðə ˈtʌnəl bɪˈfɔɹ ðə ˈreɪd ˈstɑrtəd soʊ ˈaʊɚ ˈbeɪs wəz səˈkjur/",
+          "kana": "ウィ ハド プラグド ザ タンネル ビフォー ザ レイド スターテッド ソー アワー ベース ワズ セキュアー",
+          "linking": [
+            "「had」は助動詞で弱形 /həd/ ハド",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「before」の語末 /ɹ/ と「the」の初頭子音 /ð/ は両方とも子音で連結なし",
+            "「was」は助動詞で弱形 /wəz/ ワズ"
+          ]
+        },
+        {
+          "en": "They had plugged all the openings when the creepers finally arrived.",
+          "ja": "クリーパーがついに到着したとき、すべての開口部を塞いでいました。",
+          "ipa": "/ðeɪ həd plʌɡd ˈɔl ðə ˈoʊpənɪŋz wɛn ðə ˈkripɚz əˈɹaɪvd/",
+          "kana": "ザイ ハド プラグドール ザ オーペニングズ ウェン ザ クリーパーズ アライヴド",
+          "linking": [
+            "「had」は助動詞で弱形 /həd/ ハド",
+            "「plugged all」で語末子音 /d/ が母音 /ɔ/ に連結：[plʌɡˈdɔl] プラグドール",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「creepers」の語末 /ɚz/ と「arrived」の初頭母音 /ə/ で /z/ が連結「クリーパーズ アライヴド」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been plugging",
+      "ipa": "/həz bɪn ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "I have been plugging holes in the wall all morning long.",
+          "ja": "朝中ずっと壁の穴を塞ぎ続けています。",
+          "ipa": "/aɪ həv bɪn ˈplʌɡɪŋ ˈhoʊlz ɪn ðə ˈwɔl ˈɔl ˈmɔɹnɪŋ ˈlɔŋ/",
+          "kana": "アイ ハブ ビン プラギング ホールズ イン ザ ウォール オール モーニング ロング",
+          "linking": [
+            "「have」は助動詞で弱形 /həv/ ハブ",
+            "「been」は助動詞で弱形 /bɪn/ ビン",
+            "「holes in」で語末子音 /z/ が母音 /ɪ/ に連結：[ˈhoʊlzɪn] ホールズィン",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        },
+        {
+          "en": "She has been plugging the dam for the last hour to prevent flooding.",
+          "ja": "洪水を防ぐために、過去1時間ダムを塞ぎ続けています。",
+          "ipa": "/ʃi həz bɪn ˈplʌɡɪŋ ðə ˈdæm fɔɹ ðə ˈlæst ˈaʊɚ tə prɪˈvɛnt ˈflʌdɪŋ/",
+          "kana": "シー ハズ ビン プラギング ザ ダム ファー ザ ラスト アワー タ プリベント フラッディング",
+          "linking": [
+            "「has」は助動詞で弱形 /həz/ ハズ",
+            "「been」は助動詞で弱形 /bɪn/ ビン",
+            "「for」は前置詞の弱形 /fɔɹ/ ファー",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「to」は前置詞の弱形 /tə/ タ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will plug",
+      "ipa": "/wɪl plʌɡ/",
+      "examples": [
+        {
+          "en": "I'll plug the entrance hole before the raiders arrive.",
+          "ja": "襲撃者が到着する前に、入り口の穴を塞ぎます。",
+          "ipa": "/aɪl plʌɡ ðə ˈɛntrəns ˈhoʊl bɪˈfɔɹ ðə ˈreɪdɚz əˈɹaɪv/",
+          "kana": "アイル プラグ ザ エントランス ホール ビフォー ザ レイダーズ アライブ",
+          "linking": [
+            "「I'll」は will の縮約形 /aɪl/",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「raiders」の語末 /z/ が「arrive」の初頭母音 /ə/ に連結"
+          ]
+        },
+        {
+          "en": "They will plug all the tunnel gaps after mining finishes.",
+          "ja": "採掘が終わった後、彼らはトンネルのすべての隙間を塞ぎます。",
+          "ipa": "/ðeɪ wɪl plʌɡ ˈɔl ðə ˈtʌnəl ˈɡæps ˈæftɚ ˈmaɪnɪŋ ˈfɪnɪʃɪz/",
+          "kana": "ザイ ウィル プラグ オール ザ タンネル ギャップス アフター マイニング フィニシズ",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「gaps」の語末 /z/ が「after」の初頭 /æ/ に連結",
+            "「finishes」の語末 /z/ は文末"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be plugging",
+      "ipa": "/wɪl bi ˈplʌɡɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be plugging that massive crater all day tomorrow.",
+          "ja": "明日一日中、その巨大なクレーターを塞ぎ続けるつもりです。",
+          "ipa": "/wil bi ˈplʌɡɪŋ ðæt ˈmæsɪv ˈkɹeɪtɚ ˈɔl ˈdeɪ təˈmɑɹoʊ/",
+          "kana": "ウィル ビー プラギング ザット マッシヴ クレイター オール デイ タモロー",
+          "linking": [
+            "「We'll」は will の縮約形 /wil/",
+            "「be」は助動詞で弱形 /bi/ ビー",
+            "「crater」の語末 /ɚ/ が「all」の初頭 /ɔ/ に連結"
+          ]
+        },
+        {
+          "en": "While you're mining, I will be plugging holes in the wall.",
+          "ja": "あなたが採掘している間、私は壁の穴を塞ぎ続けます。",
+          "ipa": "/waɪl jɚ ˈmaɪnɪŋ aɪ wɪl bi ˈplʌɡɪŋ ˈhoʊlz ɪn ðə ˈwɔl/",
+          "kana": "ワイル ユアー マイニング アイ ウィル ビー プラギング ホールズ イン ザ ウォール",
+          "linking": [
+            "「you're」で you /ju/ が are に縮約し /jɚ/",
+            "「you're」の語末 /ɚ/ が「mining」の初頭 /m/ に続く（連結なし）",
+            "「holes」の語末 /z/ が「in」の初頭 /ɪ/ に連結",
+            "「the」は定冠詞の弱形 /ðə/ ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have plugged",
+      "ipa": "/wɪl həv ˈplʌɡd/",
+      "examples": [
+        {
+          "en": "By the time the siege begins, we will have plugged every weak point.",
+          "ja": "包囲戦が始まるまでに、我々はすべての弱点を塞ぎ終わります。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsidʒ bɪˈɡɪnz wi wɪl həv plʌɡd ˈɛvɚi ˈwik ˈpɔɪnt/",
+          "kana": "バイ ザ タイム ザ シージ ビギンズ ウィ ウィル ハブ プラグド エブリ ウィーク ポイント",
+          "linking": [
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「siege」の語末 /dʒ/ が「begins」の初頭 /b/ に続く（連結なし）",
+            "「have」は助動詞で弱形 /həv/ ハブ"
+          ]
+        },
+        {
+          "en": "She will have plugged the main leak before the water level rises.",
+          "ja": "水位が上昇する前に、彼女は主な漏れを塞ぎ終わります。",
+          "ipa": "/ʃi wɪl həv plʌɡd ðə ˈmeɪn ˈlik bɪˈfɔɹ ðə ˈwɔɾɚ ˈlɛvəl ˈɹaɪzɪz/",
+          "kana": "シー ウィル ハブ プラグド ザ メイン リーク ビフォー ザ ウォーラー レベル ライズィズ",
+          "linking": [
+            "「have」は助動詞で弱形 /həv/ ハブ",
+            "「the」は定冠詞の弱形 /ðə/ ザ（複数回）",
+            "「water」の /t/ が母音に挟まれフラップ化し連結 [ˈwɔɾɚ]「ウォーラー」",
+            "「level」の語末 /l/ が「rises」の初頭 /ɹ/ に続く（連結なし）"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "word": "thin",
+  "rank": 1695,
+  "pos": "形容詞",
+  "pos_all": "形容詞",
+  "ipa_us": "/θɪn/",
+  "level": "A1",
+  "hi": "thin(?:s|ner)?",
+  "meanings": [
+    "【形容詞】厚さが小さい；薄い（thin layer, thin paper）",
+    "【形容詞】幅・太さが小さい；細い（thin stick, thin rope）",
+    "【形容詞】密度が低い；薄い、疎の（thin air, thin forest）"
+  ],
+  "examples": [
+    {
+      "en": "The stone layer is too thin to mine.",
+      "ja": "石の層は採掘するには薄すぎます。",
+      "ipa": "[ðə ˈstoʊn ˈleɪər ɪz ˈtuː ˈθɪn tə ˈmaɪn]",
+      "kana": "ザストゥーンレイラーイズトゥーシンタマイン",
+      "linking": [
+        "The は機能語で弱形 /ðə/ に弱化。",
+        "to は機能語で弱形 /tə/ に弱化。"
+      ]
+    },
+    {
+      "en": "I used thin sticks to build a bridge.",
+      "ja": "細い棒を使って橋を作りました。",
+      "ipa": "[aɪ ˈjuzd ˈθɪn stɪks tə ˈbɪld ə ˈbrɪdʒ]",
+      "kana": "アイユーズドシンスティクスタビルダブリッジ",
+      "linking": [
+        "to は機能語で弱形 /tə/ に弱化。",
+        "build の末尾子音 /d/ が a の初頭母音 /ə/ に連結。結果は [ˈbɪldə]。"
+      ]
+    },
+    {
+      "en": "The thin armor won't protect you from the Wither.",
+      "ja": "薄いアーマーはウィザーからあなたを守りません。",
+      "ipa": "[ðə ˈθɪn ˈɑrmər ˈwoʊnt prəˈtɛkt juː frəm ðə ˈwɪðər]",
+      "kana": "ザシンアーマーウォントプラテクトユーフラムザウィザー",
+      "linking": [
+        "The は機能語で弱形 /ðə/ に弱化。",
+        "thin の末尾子音 /n/ が armor の初頭母音 /ɑ/ に連結。結果は [ˈθɪnɑrmər] シンアーマー。"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "thinner",
+      "ipa": "/ˈθɪnər/",
+      "examples": [
+        {
+          "en": "A thin stick is thinner than oak wood.",
+          "ja": "細い棒はオーク材より細い。",
+          "ipa": "/ə ˈθɪn ˈstɪk ɪz ˈθɪnər ðəˈnoʊk ˈwʊd/",
+          "linking": [
+            "stick is: stick の語末 /k/ が is の母音 /ɪ/ に連結 [stɪkɪz]「スティキズ」",
+            "than oak: than の語末 /n/ が oak の母音 /oʊ/ に連結 [ðəˈnoʊk]「ザノーク」"
+          ],
+          "kana": "ア シン スティキズ シナー ザノーク ウッド"
+        },
+        {
+          "en": "A half-slab is much thinner than a solid block.",
+          "ja": "ハーフスラブは普通のブロックよりずっと細い。",
+          "ipa": "/ə ˈhæf slæb ɪz ˈmʌtʃ ˈθɪnər ðænə ˈsɑlɪd blɑk/",
+          "linking": [
+            "slab is: slab の語末 /b/ が is の母音 /ɪ/ に連結 [slæbɪz]「スラビズ」",
+            "than a: than の語末 /n/ が a の弱形母音 /ə/ に連結 [ðænə]「ザナ」"
+          ],
+          "kana": "ア ハーフ スラビズ マッチ シナー ザナ ソリッド ブラック"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "thinnest",
+      "ipa": "/ˈθɪnəst/",
+      "examples": [
+        {
+          "en": "Glass is the thinnest transparent block in Minecraft.",
+          "ja": "ガラスはマインクラフト内で最も薄い透明ブロックです。",
+          "ipa": "/ˈglæs ɪz ðə ˈθɪnəst ˌtrænsˈpærənt blɑk ɪn ˈmaɪnkræft/",
+          "linking": [
+            "glass is: glass の語末 /s/ が is の母音 /ɪ/ に連結 [ˈglæsɪz]「グラシズ」",
+            "block in: block の語末 /k/ が in の弱形母音 /ɪ/ に連結 [blɑkɪn]「ブラキン」"
+          ],
+          "kana": "グラシズ ザ シナスト トランスペアレント ブラキン マインクラフト"
+        },
+        {
+          "en": "A half-slab creates the thinnest wall you can build.",
+          "ja": "ハーフスラブはあなたが作ることができる最も薄い壁を作ります。",
+          "ipa": "/ə ˈhæf slæb ˈkreɪts ðə ˈθɪnəst wɔl ju ˈkæn bɪld/",
+          "linking": [
+            "can が弱形 /kən/ に弱化"
+          ],
+          "kana": "ア ハーフ スラブ クレイツ ザ シナスト ウォール ユー カン ビルド"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "out of thin air",
+      "ja": "何もないところから突然",
+      "example": "The creeper appeared out of thin air.",
+      "example_ja": "クリーパーが突然現れました。",
+      "ipa": "[ðə ˈkriːpər əˈpɪrd ˈaʊt əv ˈθɪn ˈɛr]",
+      "kana": "ザクリーパーアピアードアウタヴシンエア",
+      "linking": [
+        "The は機能語で弱形 /ðə/ に弱化。",
+        "out の末尾子音 /t/ が of の初頭母音 /ə/ に連結。結果は [ˈaʊtəv]。of は弱形 /əv/。"
+      ]
+    }
+  ]
+}

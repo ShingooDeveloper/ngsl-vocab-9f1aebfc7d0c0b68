@@ -1,0 +1,79 @@
+{
+  "word": "every",
+  "pos": "限定詞",
+  "pos_all": "限定詞",
+  "ipa_us": "/ˈɛvri/",
+  "rank": 126,
+  "level": "A1",
+  "hi": "every",
+  "meanings": [
+    "【限定詞】全ての、どの～も（すべて、残らず）",
+    "【限定詞】（特定のグループ内の）すべての、各～（各個別のもの）",
+    "【限定詞】定期的に、毎～（等間隔で繰り返す）",
+    "【限定詞】～おき、～ごと（一定間隔で）"
+  ],
+  "examples": [
+    {
+      "en": "Every Minecraft player needs a pickaxe.",
+      "ja": "すべてのマインクラフトプレイヤーはつるはしが必要です。",
+      "ipa": "/ˈɛvri ˈmaɪnkræft ˈpleɪɚ ˈnidz ə ˈpɪkæks/",
+      "linking": [
+        "Minecraft の語末子音 /t/ が player の /p/ に続く場合、/t/ は未開放 [ˈmaɪnkræft̚ ˈpleɪɚ] マインクラフッ プレイヤー",
+        "player の語末子音 /ɚ/ が needs の /n/ に続く（子音+子音）。needs の語末 /z/ が a の /ə/ に連結 [ˈnidz ə] ニーザ"
+      ],
+      "kana": "エヴリ マインクラフッ プレイヤー ニーザ ピッカックス"
+    },
+    {
+      "en": "Check every chest you find.",
+      "ja": "見つけたすべての宝箱を調べてください。",
+      "ipa": "/tʃɛk ˈɛvri tʃɛst ju ˈfaɪnd/",
+      "linking": [
+        "every の語末子音 /i/ が chest の /tʃ/ に続く（母音+子音、特に連結なし）",
+        "chest の語末子音 /t/ が you の /j/ に続く場合、/t/ は未開放 [tʃɛst̚ ju] チェスッ ユー"
+      ],
+      "kana": "チェック エヴリ チェスッ ユー ファインド"
+    },
+    {
+      "en": "I farm crops every day here.",
+      "ja": "ここで毎日作物を育てています。",
+      "ipa": "/aɪ ˈfɑɹm kɹɑps ˈɛvri ˈdeɪ hɪɹ/",
+      "linking": [
+        "farm の語末子音 /m/ が crops の /k/ に続く（子音+子音）",
+        "crops の語末子音 /ps/ が every の /ɛ/ に続く（子音+母音）、特に連結で [kɹɑps ˈɛvri] クラップス エヴリ",
+        "every の語末子音 /i/ が day の /d/ に続く（弱い音）"
+      ],
+      "kana": "アイ ファーム クラップス エヴリ デイ ヒア"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "every single",
+      "ja": "（強調）本当に全ての、一つ一つすべての",
+      "example": "I clear every single block from this area.",
+      "example_ja": "このエリアから本当にすべてのブロックをクリアしています。",
+      "ipa": "/aɪ klɪɹ ˈɛvri ˈsɪŋɡəl blɑk fɹəm ðɪs ˈɛɹiə/",
+      "linking": [
+        "every の語末 /i/ が single の /s/ に続く（弱い連結）",
+        "single の語末子音 /l/ が block の /b/ に続く（子音+子音）",
+        "block の語末子音 /k/ が from の /f/ に続く（子音+子音）、/k/ は未開放 [blɑk̚ fɹəm]",
+        "from は機能語で弱形 /fɹəm/（またはしばしば /frəm/）"
+      ],
+      "kana": "アイ クリア エヴリ シングル ブロック フラム ディス エリア"
+    },
+    {
+      "idiom": "every other",
+      "ja": "一つおき、毎～～ご（1つ置きに、交互に）",
+      "example": "Place torches every other block to light the tunnel.",
+      "example_ja": "トンネルを明るくするため、1ブロックおきに松明を置く。",
+      "ipa": "/pleɪs ˈtɔɹtʃəz ˈɛvri ˈʌðɚ blɑk tu ˈlaɪt ðə ˈtʌnəl/",
+      "linking": [
+        "torches の語末子音 /z/ が every の /ɛ/ に連結 [ˈtɔɹtʃəz ˈɛvri] トーチーズ エヴリ",
+        "every の語末子音 /i/ が other の /ʌ/ に続く（弱い境界）",
+        "other の語末子音 /ɚ/ が block の /b/ に続く（子音+子音）",
+        "block の語末子音 /k/ が to の /ə/（弱形）に連結 [blɑk tə] ブラック タ"
+      ],
+      "kana": "プレイス トーチーズ エヴリ アザー ブラック タ ライト ザ タンネル"
+    }
+  ],
+  "forms": []
+}

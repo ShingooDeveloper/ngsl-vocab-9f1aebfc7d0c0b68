@@ -1,0 +1,291 @@
+{
+  "word": "book",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/bʊk/",
+  "rank": 385,
+  "level": "A1",
+  "hi": "book(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】本、書籍（a set of written, printed, or blank pages fastened along one side）",
+    "【名詞】帳簿、記録（a written record or accounts）",
+    "【動詞】予約する、チケットを買う（to arrange a reservation for）",
+    "【動詞】逮捕する、告発する（to charge with a crime）"
+  ],
+  "examples": [
+    {
+      "en": "I have a book about building strategies.",
+      "ja": "建築戦略についての本を持っています。",
+      "ipa": "/aɪ ˈhæv ə ˈbʊk əˈbaʊt ˈbɪldɪŋ ˈstrætəˌdʒiz/",
+      "linking": [
+        "have の語末 /v/ が a の弱形 /ə/（母音）に連結 [ˈhæv ə] ハヴア",
+        "about の語末 /t/ が building の /b/（子音）に続く → 未開放で /t̚/ に弱化"
+      ],
+      "kana": "アイ ハヴア ブック アバウト ビルディング ストラテジーズ"
+    },
+    {
+      "en": "The book tells you where to find diamonds.",
+      "ja": "その本は、ダイヤモンドをどこで見つけるかを教えます。",
+      "ipa": "/ðə ˈbʊk ˈtɛlz juː ˈwɛr tu ˈfaɪnd ˈdaɪməndz/",
+      "linking": [
+        "The は冠詞で弱形 /ðə/。book の /b/（子音）に続く → [ðə ˈbʊk] ザ ブック",
+        "to は機能語で弱形 /tə/ に弱化"
+      ],
+      "kana": "ザ ブック テルズ ユー ウェア タ ファインド ダイモンズ"
+    },
+    {
+      "en": "I need to book a room in the inn tomorrow.",
+      "ja": "明日、宿屋の部屋を予約する必要があります。",
+      "ipa": "/aɪ ˈniːd tu ˈbʊk ə ˈrum ɪn ðə ˈɪn təˈmɑroʊ/",
+      "linking": [
+        "need の語末 /d/ が to の弱形 /tə/（母音）に連結 [ˈniːdə] ニーダ",
+        "book の語末 /k/ が a の弱形 /ə/（母音）に連結 [ˈbʊkə] ブッカ",
+        "the は冠詞で弱形 /ðə/。inn の /ɪ/（母音）に連結 [ðə ˈɪn] ザ イン",
+        "in the: in の語末 /n/ と the の /ð/ のため特に連結"
+      ],
+      "kana": "アイ ニーダ ブッカ ルーム イン ザ イン タモロー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "books",
+      "ipa": "/bʊks/",
+      "examples": [
+        {
+          "en": "I found three books in the library on the server.",
+          "ja": "サーバーの図書館で本を3冊見つけました。",
+          "ipa": "/aɪ ˈfaʊnd ˈθriː ˈbʊks ɪn ðə ˈlaɪˌbrɛri ɑn ðə ˈsɝvɚ/",
+          "linking": [
+            "found の語末 /d/ が three の弱形初頭 /ð/（子音）に続く → 未開放で /d̚/ に聞こえる [ˈfaʊnd̚ ˈθriː] ファウンスリー",
+            "the は冠詞で弱形 /ðə/。library の /l/（子音）に続く",
+            "on の語末 /n/ が the の弱形 /ðə/（母音）に連結 [ɑn ðə] アンザ"
+          ],
+          "kana": "アイ ファウンスリー ブックス イン ザ ライブレリ アンザ サーヴァー"
+        },
+        {
+          "en": "These books are stored on different shelves.",
+          "ja": "これらの本はさまざまな棚に保管されています。",
+          "ipa": "/ðiːz ˈbʊks ɑr ˈstɔrd ɑn ˈdɪfərənt ˈʃɛlvz/",
+          "linking": [
+            "These は語末 /z/ で、books の /b/（子音）が続く → 連結でなく分離される",
+            "are は弱形 /ɚ/ に弱化して、stored の初頭に略される → [ɑr ˈstɔrd] または [ɑ ˈstɔrd]",
+            "on の語末 /n/ が different の /d/（子音）に続く → 特に連結なし"
+          ],
+          "kana": "ディーズ ブックス アー ストールド アン ディファレント シェルヴズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "books",
+      "ipa": "/bʊks/",
+      "examples": [
+        {
+          "en": "She books a private server slot every week.",
+          "ja": "彼女は毎週プライベートサーバースロットを予約します。",
+          "ipa": "/ʃi ˈbʊks ə prɪˈveɪt ˈsɝvɚ ˈslɑt ˈɛvri ˈwik/",
+          "linking": [
+            "books の語末 /ks/ の /k/ が a の弱形 /ə/（母音）に連結 [ˈbʊkə] ブッカ。/s/ は脱落せず [ˈbʊks ə] → [ˈbʊksə] ブックサ",
+            "private の語末 /t/ が server の /s/（子音）に続く → 未開放で /t̚/ に聞こえる",
+            "every の語末 /i/ が week の /w/（子音）に続く → 特に連結なし（しかし弱化した音になる）"
+          ],
+          "kana": "シー ブックサ プライヴェット サーヴァー スラット エヴリ ウィーク"
+        },
+        {
+          "en": "The admin books all the event slots automatically.",
+          "ja": "管理者はすべてのイベントスロットを自動的に予約します。",
+          "ipa": "/ðə ˈædmɪn ˈbʊks ɔl ðə ɪˈvɛnt ˈslɑts ˌɔtəˈmætɪkli/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。admin の /æ/（母音）に連結 [ðə ˈædmɪn] ザ アドミン",
+            "books の語末 /ks/ が all の /ɔ/（母音）に連結 [ˈbʊks ɔl] → [ˈbʊksɔl] ブックソール",
+            "all の語末 /l/ が the の弱形 /ðə/（母音）に連結 [ɔl ðə] オル ザ",
+            "event の語末 /t/ が slots の /s/（子音）に続く → 未開放で /t̚/ に聞こえる"
+          ],
+          "kana": "ザ アドミン ブックソール オール ザ イヴェント スラッツ オータマティクリ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "booked",
+      "ipa": "/ˈbʊkt/",
+      "examples": [
+        {
+          "en": "I booked a spot for the tournament last week.",
+          "ja": "先週、トーナメントのスポットを予約しました。",
+          "ipa": "/aɪ ˈbʊkt ə ˈspɑt fɔr ðə ˈtɝnəmənt ˈlæst ˈwik/",
+          "linking": [
+            "booked の語末 /kt/ の /k/ が a の弱形 /ə/（母音）に連結 [ˈbʊkət] ブッケット",
+            "a の弱形 /ə/ が spot の /sp/（子音）に続く → 連結されない",
+            "for は機能語で弱形 /fɚ/ に弱化",
+            "the は冠詞で弱形 /ðə/。tournament の /t/（子音）に続く → [ðə ˈtɝnəmənt] ザ ターナメント",
+            "last の語末 /t/ が week の /w/（子音）に続く → 未開放で /t̚/ に聞こえる"
+          ],
+          "kana": "アイ ブッケット ア スパット フォー ザ ターナメント ラスウィーク"
+        },
+        {
+          "en": "They booked the main hall without waiting.",
+          "ja": "彼らは待たずにメインホールを予約しました。",
+          "ipa": "/ðeɪ ˈbʊkt ðə ˈmeɪn ˈhɔl wɪðˈaʊt ˈweɪtɪŋ/",
+          "linking": [
+            "They の語末 /eɪ/ が booked の /b/（子音）に続く → 連結されない（母音が異なる）",
+            "booked の語末 /kt/ の /k/ が the の弱形 /ðə/（母音）に連結 [ˈbʊkəðə] ブッケザ",
+            "the の /ð/ が main の /m/（子音）に続く → 特に連結なし",
+            "without の語末 /t/ が waiting の /w/（子音）に続く → 未開放で /t̚/ に聞こえる"
+          ],
+          "kana": "ゼイ ブッケザ メイン ホール ウィザウト ウェイティング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "booked",
+      "ipa": "/ˈbʊkt/",
+      "examples": [
+        {
+          "en": "The room I booked is very comfortable.",
+          "ja": "予約した部屋はとても快適です。",
+          "ipa": "/ðə ˈrum aɪ ˈbʊkt ɪz ˈvɛri ˈkʌmfərtəbəl/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。room の /r/（子音）に続く → [ðə ˈrum] ザ ルーム",
+            "I の語末 /aɪ/ が booked の /b/（子音）に続く → 連結されない",
+            "booked の語末 /kt/ が is の /ɪ/（母音）に続く → /kt/ は脱落し /d/ の音のみ [ˈbʊkd ɪz] ブッキッド イズ",
+            "is の語末 /z/ が very の /v/（子音）に続く → 特に連結なし"
+          ],
+          "kana": "ザ ルーム アイ ブッキッド イズ ヴェリ カンフォータブル"
+        },
+        {
+          "en": "All slots are booked for this event.",
+          "ja": "このイベントのすべてのスロットが予約済みです。",
+          "ipa": "/ɔl ˈslɑts ɑr ˈbʊkt fɔr ðɪs ɪˈvɛnt/",
+          "linking": [
+            "All の語末 /l/ が slots の /sl/（子音）に連結 [ɔl ˈslɑts] オールスロット",
+            "slots の語末 /ts/ が are の弱形 /ɚ/（母音）に連結 [ˈslɑtsr̩] スロッツァー",
+            "are の弱形 /ɚ/ が booked の /b/（子音）に続く → [ɚ ˈbʊkt] 傍にア ブッケット",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "オール スロッツ アー ブッキット フォー ディス イヴェント"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "booking",
+      "ipa": "/ˈbʊkɪŋ/",
+      "examples": [
+        {
+          "en": "She is booking a new arena space for the battle.",
+          "ja": "彼女は戦闘用に新しいアリーナスペースを予約中です。",
+          "ipa": "/ʃi ɪz ˈbʊkɪŋ ə ˈnu əˈriːnə ˈspeɪs fɔr ðə ˈbætəl/",
+          "linking": [
+            "is の語末 /z/ が booking の /b/（子音）に続く → 特に連結なし、弱形 /ɪz/ のみ",
+            "booking の語末 /ŋ/ が a の弱形 /ə/（母音）に連結 [ˈbʊkɪŋə] ブッキンガ",
+            "new の語末 /u/ が arena の /ə/（母音）に続く → 連結されない（二重母音）",
+            "for は機能語で弱形 /fɚ/ に弱化",
+            "the は冠詞で弱形 /ðə/。battle の /b/（子音）に続く → [ðə ˈbætəl] ザ バトル"
+          ],
+          "kana": "シー イズ ブッキンガ ニュー アリーナ スペース フォー ザ バトル"
+        },
+        {
+          "en": "They are booking all the available slots as we speak.",
+          "ja": "彼らは今、利用可能なすべてのスロットを予約中です。",
+          "ipa": "/ðeɪ ɑr ˈbʊkɪŋ ɔl ðə əˈveɪləbəl ˈslɑts æz wi ˈspik/",
+          "linking": [
+            "are の弱形 /ɚ/ の /r/ が booking の /b/（子音）に連結",
+            "booking の語末 /ŋ/ が all の /ɔ/（母音）に連結 [ˈbʊkɪŋ ɔl] → [ˈbʊkɪŋɔl] ブッキンゴール",
+            "the は冠詞で弱形 /ðə/。available の /ə/（母音）に連結 [ðə əˈveɪləbəl] ザアヴェイラブル",
+            "as の語末 /z/ が we の /w/（子音）に続く → 特に連結なし"
+          ],
+          "kana": "ゼイ アー ブッキンゴール ザアヴェイラブル スロッツ アズ ウィ スピーク"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is booking",
+      "ipa": "/ɪz ˈbʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I am booking a private server slot for tomorrow's mining expedition.",
+          "ja": "明日の採掘遠征用にプライベートサーバースロットを予約中です。",
+          "ipa": "/aɪ əm ˈbʊkɪŋ ə prɪˈveɪt ˈsɝvɚ ˈslɑt fɚ təˈmɑroʊz ˈmaɪnɪŋ ɛkˈspɪdiʃən/",
+          "linking": [
+            "am の弱形 /əm/ の /m/ が booking の /b/（子音）に同化連結",
+            "booking の語末 /ŋ/ が a の弱形 /ə/（母音）に連結 [ˈbʊkɪŋə] ブッキンガ",
+            "private の語末 /t/ が server の /s/（子音）に続く → 未開放で /t̚/ に聞こえる",
+            "for は機能語で弱形 /fɚ/ に弱化"
+          ],
+          "kana": "アイ アム ブッキンガ プリヴェイト サーヴァー スロット ファ タモロー マイニング エクスペディション"
+        },
+        {
+          "en": "She is booking all the contested tournament slots right now.",
+          "ja": "彼女は今、争奪戦のすべてのトーナメントスロットを予約中です。",
+          "ipa": "/ʃi ɪz ˈbʊkɪŋ ɔl ðə kənˈtɛstəd ˈtɝnəmənt ˈslɑts raɪt naʊ/",
+          "linking": [
+            "is の弱形 /ɪz/ の /z/ が booking の /b/（子音）に続く → 特に連結なし",
+            "booking の語末 /ŋ/ が all の /ɔ/（母音）に連結 [ˈbʊkɪŋɔl] ブッキンゴール",
+            "the は冠詞で弱形 /ðə/。contested の /k/（子音）に続く → [ðə kənˈtɛstəd] ザ コンテステッド",
+            "right の語末 /t/ が now の /n/（子音）に続く → 未開放で /t̚/ に聞こえる"
+          ],
+          "kana": "シー イズ ブッキンゴール ザ コンテステッド ターナメント スロッツ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was booking",
+      "ipa": "/wəz ˈbʊkɪŋ/",
+      "examples": [
+        {
+          "en": "I was booking a spot on the survival server when you logged in.",
+          "ja": "あなたがログインしたとき、サバイバルサーバーのスポットを予約中でした。",
+          "ipa": "/aɪ wəz ˈbʊkɪŋ ə ˈspɑt ɑn ðə sərˈvaɪvəl ˈsɝvɚ ˈwɛn ju ˈlɔgd ɪn/",
+          "linking": [
+            "was の弱形 /wəz/ の /z/ が booking の /b/（子音）に続く → 特に連結なし",
+            "booking の語末 /ŋ/ が a の弱形 /ə/（母音）に連結 [ˈbʊkɪŋə] ブッキンガ",
+            "spot の語末 /t/ が on の /ɑ/（母音）に続く → フラップTで [ˈspɑɾɑn] スパラン",
+            "the は冠詞で弱形 /ðə/。survival の /s/（子音）に続く → [ðə sərˈvaɪvəl] ザ サーヴァイヴァル",
+            "when の語末 /n/ が you の /j/（半母音）に続く → 連結される [ˈwɛn ju] ウェンユー"
+          ],
+          "kana": "アイ ワズ ブッキンガ スパラン ザ サーヴァイヴァル サーヴァー ウェンユー ロッギン"
+        },
+        {
+          "en": "They were booking the main hall all afternoon yesterday.",
+          "ja": "昨日、彼らは午後中ずっとメインホールを予約中でした。",
+          "ipa": "/ðeɪ wɚ ˈbʊkɪŋ ðə ˈmeɪn ˈhɔl ɔl ˌæftərˈnun ˈjɛstərˌdeɪ/",
+          "linking": [
+            "were の弱形 /wɚ/ の /r/ が booking の /b/（子音）に連結",
+            "booking の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈbʊkɪŋðə] ブッキンザ",
+            "the の /ð/ が main の /m/（子音）に続く → 特に連結なし",
+            "all の語末 /l/ が afternoon の /æ/（母音）に連結 [ɔl ˌæftərˈnun] オール アフターヌーン"
+          ],
+          "kana": "ゼイ ワー ブッキンザ メイン ホール オール アフターヌーン イェスタデイ"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "book a slot",
+      "ja": "スロット・時間枠を予約する",
+      "example": "I need to book a slot for our mining expedition soon.",
+      "example_ja": "私たちの採掘遠征用にスロットを予約する必要があります。",
+      "ipa": "/aɪ ˈniːd tu ˈbʊk ə ˈslɑt fɔr ˈaʊr ˈmaɪnɪŋ ɛkˈspɪdiʃən ˈsun/",
+      "linking": [
+        "need の語末 /d/ が to の弱形 /tə/（母音）に連結 [ˈniːdə] ニーダ",
+        "book の語末 /k/ が a の弱形 /ə/（母音）に連結 [ˈbʊkə] ブッカ",
+        "for は機能語で弱形 /fɚ/ に弱化",
+        "mining の語末 /ŋ/ が expedition の /ɛ/（母音）に連結 [ˈmaɪnɪŋ ɛkˈspɪdiʃən] マイニング エクスペディション"
+      ],
+      "kana": "アイ ニーダ ブッカ スロット フォー アワー マイニング エクスペディション スーン"
+    }
+  ]
+}

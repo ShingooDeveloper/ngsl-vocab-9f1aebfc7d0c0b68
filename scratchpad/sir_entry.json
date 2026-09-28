@@ -1,0 +1,91 @@
+{
+  "word": "sir",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/sɝ/",
+  "rank": 2135,
+  "level": "A2",
+  "hi": "sir(?:s)?",
+  "meanings": [
+    "【名詞】男性を敬意を持って呼ぶ敬称（……Sir Isaac Newtonは有名な物理学者）",
+    "【名詞】学校や職場で目上の男性への丁寧な呼びかけ（……Yes, sir!）",
+    "【名詞】手紙の冒頭で使う正式な敬語（……Dear Sir, ...）"
+  ],
+  "examples": [
+    {
+      "en": "Sir, can you give me permission to build here?",
+      "ja": "申し訳ありませんが、ここで建築する許可をいただけますか？",
+      "ipa": "/sɝ kæn jə ɡɪv mi pərmɪʃən tə bɪld hɪr/",
+      "linking": [
+        "you が弱形 /jə/ に弱化（通常は /juː/）",
+        "to が弱形 /tə/ に弱化（通常は /tu/）"
+      ],
+      "kana": "サー キャン ヤ ギブ ミー パーミッション タ ビルド ヒア"
+    },
+    {
+      "en": "Yes, sir! I found the diamonds.",
+      "ja": "了解です！ダイヤモンドを見つけました。",
+      "ipa": "/jɛs sɝ aɪ faʊnd ðə daɪməndz/",
+      "linking": [
+        "the が弱形 /ðə/ に弱化（通常は /ðiː/）",
+        "found と the の間で close juncture"
+      ],
+      "kana": "イェス サー アイ ファウンド ザ ダイマンズ"
+    },
+    {
+      "en": "Thank you, sir, for helping with the redstone.",
+      "ja": "レッドストーン回路を手伝ってくれてありがとうございます。",
+      "ipa": "/θæŋk jə sɝ fɚ hɛlpɪŋ wɪð ðə rɛdstoʊn/",
+      "linking": [
+        "you が弱形 /jə/ に弱化（通常は /juː/）",
+        "for が弱形 /fɚ/ に弱化（通常は /fɔr/）",
+        "the が弱形 /ðə/ に弱化（通常は /ðiː/）"
+      ],
+      "kana": "サンク ヤ サー ファ ヘルピング ウィズ ザ レッドストーン"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "Yes, sir!",
+      "ja": "かしこまりました（了解・承知を敬い方で表現）",
+      "example": "Can you gather the wood for the construction? Yes, sir!",
+      "example_ja": "建築用に木を集めてくれる？了解です！",
+      "ipa": "/jɛs sɝ/",
+      "linking": [
+        "yes と sir の間に自然な息継ぎ（2語が独立して発音される）"
+      ],
+      "kana": "イェス サー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sirs",
+      "ipa": "/sɝz/",
+      "examples": [
+        {
+          "en": "Yes, sirs! I will gather supplies for the base.",
+          "ja": "かしこまりました！基地のために物資を集めます。",
+          "ipa": "/jɛs sɝzaɪ wɪl ˈɡæðər səˈplaɪz fɚ ðə ˈbeɪs/",
+          "linking": [
+            "sirs I → 語末 /z/ が I の /aɪ/ に連結 [sɝzaɪ]",
+            "for the → for が弱形 /fɚ/、the も弱形 /ðə/"
+          ],
+          "kana": "イェス サーズアイ ウィル ギャザー サプライズ ファー ザ ベイス"
+        },
+        {
+          "en": "Many sirs visited the great castle before the storm.",
+          "ja": "多くの紳士たちが嵐の前に素晴らしい城を訪れた。",
+          "ipa": "/ˈmɛni sɝz ˈvɪzɪtɪd ðə ɡreɪt ˈkæsəl bɪˈfɔr ðə ˈstɔrm/",
+          "linking": [
+            "sirs visited → 子音+子音で自然に続く（/z/ と /v/）",
+            "the great → the が弱形 /ðə/",
+            "before the → before の語末 /r/ が the の /ðə/ に連結"
+          ],
+          "kana": "メニ サーズ ビジテッド ザ グレイト キャッスル ビフォアザ ストーム"
+        }
+      ]
+    }
+  ]
+}

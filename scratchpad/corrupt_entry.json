@@ -1,0 +1,525 @@
+{
+  "word": "corrupt",
+  "pos": "動詞・形容詞",
+  "pos_all": "動詞・形容詞",
+  "ipa_us": "/kərˈʌpt/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "corrupt(?:ed|s|ing)?",
+  "meanings": [
+    "【動詞】（人を）不正直で腐敗した状態にさせる、堕落させる（corrupt a person through bribery）",
+    "【動詞】（データやファイルなど）を破損させる、損傷させる（corrupt the world data）",
+    "【形容詞】不正直で腐敗した、買収可能な（a corrupt server admin）",
+    "【形容詞】（データやファイルなど）破損した、変質した、使用できない（corrupt save files）",
+    "【形容詞】（テキストなど）誤りや改変を含む、原形を失った（corrupt text）"
+  ],
+  "idioms": [
+    {
+      "idiom": "corrupt to the core",
+      "ja": "根本的に腐敗している、徹底的に悪い",
+      "example": "That server admin is corrupt to the core, accepting bribes to give unfair item spawning privileges.",
+      "example_ja": "あのサーバー管理者は根本的に腐敗していて、不正なアイテム出現特権を与えるために賄賂を受け入れている。",
+      "ipa": "/ðæt ˈsɝvər ˈædmɪn ɪz kərˈʌpt tə ðə ˈkɔr, ækˈsɛptɪŋ ˈbraɪbz tə ˈɡɪv ʌnˈfɛr ˈaɪtəm ˈspoʊnɪŋ ˈprɪvɪlɪdʒɪz/",
+      "linking": [
+        "corrupt to - 語末子音 /t/ が母音 /ə/ に連結 [kərˈʌp.tə] コラプター",
+        "core accepting - 語末 rhotic /ɹ/ が母音 /æ/ に連結、r-linking で [ˈkɔɹæ]",
+        "give unfair - /v/ が母音 /ʌ/ に連結 [ˈɡɪv ʌnˈfɛr]"
+      ],
+      "kana": "ザット・サーヴァー・アドミン・イズ・コラプター・ザ・コアクセプティング・ブライブズ・タ・ギブ・アンフェア・アイテム・スポウニング・プリヴィリジズ"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This world file got corrupt after the server crashed.",
+      "ja": "サーバーがクラッシュ後、このワールドファイルが破損しました。",
+      "ipa": "/ðɪs ˈwɝld ˈfaɪl ˈɡɑt kərˈʌpt ˈæftər ðə ˈsɝvər ˈkræʃt/",
+      "linking": [
+        "corrupt after - 語末子音 /t/ が母音 /æ/ に連結 [kərˈʌptˈæftər] コラプターアフター",
+        "server crashed - 語末 /ɚ/ (r-colored schwa) が子音 /k/ に接する、子音が連接",
+        "the server - function word the の弱形 /ðə/ が子音 /s/ の前に続く"
+      ],
+      "kana": "ジス・ワールド・ファイル・ガット・コラプターアフター・ザ・サーヴァー・クラッシュト"
+    },
+    {
+      "en": "We need a complete backup before the world data gets corrupted.",
+      "ja": "ワールドデータが破損する前に、完全なバックアップが必要です。",
+      "ipa": "/wi ˈniːd ə kəmˈplit ˈbækˌʌp bɪˈfɔr ðə ˈwɝld ˈdeɪtə ˈɡɛts kərˈʌptəd/",
+      "linking": [
+        "need a - 語末子音 /d/ が母音 /ə/ に連結 [ˈniːd.ə] ニーダ",
+        "gets corrupted - /t/ + /k/ 子音が連接、gets の語末 /t/ は未開放",
+        "before the - /ɹ/ + /ð/ 子音が連接、the の弱形 /ðə/"
+      ],
+      "kana": "ウィ・ニーダ・コンプリート・バックアップ・ビフォア・ザ・ワールド・デイター・ゲッツ・コラプティッド"
+    },
+    {
+      "en": "Don't put everything on just one mod; it might corrupt the version.",
+      "ja": "すべてを1つのModだけに入れないでください。バージョンが破損するかもしれません。",
+      "ipa": "/doʊnt ˈpʊt ˈɛvrɪˌθɪŋ ˈɑn ˈdʒʌst ˈwʌn ˈmɑd ɪt ˈmaɪt kərˈʌpt ðə ˈvɝʒən/",
+      "linking": [
+        "put everything - 語末子音 /t/ が母音 /ɛ/ に連結 [ˈpʊt.ɛ.vri.ˌθɪŋ] プッテヴリシング",
+        "just one - /t/ + /w/ 子音が連接、just の語末 /t/ は未開放、one の弱形は /wʌn/ または /wən/",
+        "might corrupt - /t/ + /k/ 子音が連接、might の語末 /t/ は未開放"
+      ],
+      "kana": "ドウント・プッテヴリシング・オン・ジャスト・ワン・マッド・イット・マイト・コラプト・ザ・ヴァージョン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "corrupts",
+      "ipa": "/kərˈʌpts/",
+      "examples": [
+        {
+          "en": "A malicious plugin corrupts every player's inventory on login.",
+          "ja": "悪質なプラグインはログイン時にすべてのプレイヤーのインベントリを破損させます。",
+          "ipa": "/ə məˈlɪʃəs ˈplʌdʒɪn kərˈʌpts ˈɛvri ˈpleɪɚz ɪnˈvɛntəɹi ɑn ˈloʊɡɪn/",
+          "kana": "ア マリシャス プラジン コラプツ エヴリ プレイヤーズ インベントリ オン ロウギン",
+          "linking": [
+            "「a malicious」: a は弱形 [ə]「ア」、malicious の /m/ に続く",
+            "「malicious plugin」: malicious の語末 /s/ が plugin の /p/ に連続するが子音+子音のため連結なし",
+            "「on login」: on の語末 /n/ が login の /l/ に連続するが子音+子音のため連結なし [ɑn ˈloʊɡɪn]「オン ロウギン」"
+          ]
+        },
+        {
+          "en": "An infected chunk corrupts nearby areas when it loads.",
+          "ja": "感染したチャンクがロード時に周辺エリアを破損させます。",
+          "ipa": "/ən ɪnˈfɛktɪd ˈtʃʌŋk kərˈʌpts ˈnɪrˌbaɪ ˈɛriəz ˈwɛn ɪt ˈloʊdz/",
+          "kana": "アン インフェクティッド チャンク コラプツ ニアーバイ エリアズ ウェン イット ロウズ",
+          "linking": [
+            "「an infected」: an は弱形 [ən]「アン」、infected の /ɪ/ に連結 [ən ɪnˈfɛktɪd]「アンインフェクティッド」",
+            "「infected chunk」: infected の語末 /d/ が chunk の /tʃ/ に連続するが子音+子音のため未開放 [ɪnˈfɛktɪd̚ ˈtʃʌŋk]「インフェクティッ チャンク」",
+            "「when it」: when の語末 /n/ が it の /ɪ/ に連結 [ˈwɛn ɪt]「ウェニット」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "corrupted",
+      "ipa": "/kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "That accidental mod update corrupted the entire world.",
+          "ja": "あの偶発的なModアップデートは、ワールド全体を破損させました。",
+          "ipa": "/ðæt ˌæksɪˈdɛntəl ˈmɑd ˈʌpˌdeɪt kərˈʌptɪd ðə ɪnˈtaɪɚ ˈwɝld/",
+          "kana": "ザット アクシデンタル マッド アップデート コラプティッド ザ インタイアー ワールド",
+          "linking": [
+            "「accidental mod」: accidental の語末 /l/ が mod の /m/ に連続するが子音+子音のため連結なし。mod の語末 /d/ は未開放",
+            "「mod update」: mod の語末 /d/ が update の /ʌ/ に連結 [ˈmɑd ˈʌpˌdeɪt]「マド アップデート」",
+            "「entire world」: entire の語末 /ɚ/ が world の /w/ に連続するが別の子音のため連結なし"
+          ]
+        },
+        {
+          "en": "The power outage corrupted my save file yesterday.",
+          "ja": "停電により、昨日の私のセーブファイルが破損しました。",
+          "ipa": "/ðə ˈpaʊɚ ˈaʊtɪdʒ kərˈʌptɪd maɪ ˈseɪv ˈfaɪl ˈjɛstɚˌdeɪ/",
+          "kana": "ザ パウアー アウティッジ コラプティッド マイ セイブ ファイル イェスタデイ",
+          "linking": [
+            "「the power」: the は弱形 [ðə]「ザ」、power の /p/ に続く",
+            "「power outage」: power の語末 /r/ が outage の /aʊ/ に連結 [ˈpaʊɚ ˈaʊtɪdʒ]「パウアー アウティッジ」",
+            "「my save」: my の語末 /aɪ/ が save の /s/ に連続するが母音+子音のため特別な連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "corrupted",
+      "ipa": "/kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "Our world data has been corrupted by a bad plugin update.",
+          "ja": "私たちのワールドデータは、悪いプラグインアップデートにより破損してしまいました。",
+          "ipa": "/ˈaʊɚ ˈwɝld ˈdeɪtə hæz bɪn kərˈʌptɪd baɪ ə ˈbæd ˈplʌdʒɪn ˈʌpˌdeɪt/",
+          "kana": "アウアー ワールド デイター ハズ ビン コラプティッド バイ ア バッド プラジン アップデート",
+          "linking": [
+            "「world data」: world の語末 /d/ が data の /d/ に連続するが子音+子音のため未開放 [ˈwɝld̚ ˈdeɪtə]「ワールド デイター」",
+            "「has been」: has の語末 /z/ が been の /b/ に連続するが子音+子音のため連結なし。been は弱形 [bɪn]「ビン」",
+            "「a bad」: a は弱形 [ə]「ア」、bad の /b/ に続く。bad の語末 /d/ は未開放"
+          ]
+        },
+        {
+          "en": "All the player data has been corrupted since the server crash.",
+          "ja": "サーバークラッシュ以来、すべてのプレイヤーデータが破損しています。",
+          "ipa": "/ˈɔl ðə ˈpleɪɚ ˈdeɪtə hæz bɪn kərˈʌptɪd sɪns ðə ˈsɝvər kræʃ/",
+          "kana": "オール ザ プレイアー デイター ハズ ビン コラプティッド シンス ザ サーヴァー クラッシュ",
+          "linking": [
+            "「the player」: the は弱形 [ðə]「ザ」、player の /p/ に続く",
+            "「player data」: player の語末 /r/ と data の /d/ は子音+子音のため連結なし [ˈpleɪɚ ˈdeɪtə]「プレイアー デイター」",
+            "「been corrupted」: been は弱形 [bɪn]、corrupted の /k/ に続き子音+子音のため未開放 [bɪn̚ kərˈʌptɪd]「ビン コラプティッド」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "corrupting",
+      "ipa": "/kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The memory leak is corrupting our save files in the background.",
+          "ja": "メモリリークはバックグラウンドで私たちのセーブファイルを破損させています。",
+          "ipa": "/ðə ˈmɛməɹi ˈlik ɪz kərˈʌptɪŋ ˈaʊɚ ˈseɪv ˈfaɪlz ɪn ðə ˈbækɡraʊnd/",
+          "kana": "ザ メモリー リック イズ コラプティング アウア セイブ ファイルズ イン ザ バックグラウンド",
+          "linking": [
+            "「memory leak」: memory の語末 /i/ が leak の /l/ に連続するが母音+子音のため特別な連結なし",
+            "「leak is」: leak の語末 /k/ が is の /ɪ/ に連結 [ˈlik ɪz]「リック イズ」、is は弱形 [ɪz]「イズ」",
+            "「in the」: in の語末 /n/ が the の /ð/ に連続するが子音+子音のため未開放。the は弱形 [ðə]「ザ」"
+          ]
+        },
+        {
+          "en": "A virus is corrupting the chunk data as new chunks load.",
+          "ja": "ウイルスが新しいチャンクがロードされるにつれてチャンクデータを破損させています。",
+          "ipa": "/ə ˈvaɪɹəs ɪz kərˈʌptɪŋ ðə ˈtʃʌŋk ˈdeɪtə æz ˈnu ˈtʃʌŋks ˈloʊd/",
+          "kana": "ア ヴァイラス イズ コラプティング ザ チャンク デイター アズ ニュー チャンクス ロウド",
+          "linking": [
+            "「a virus」: a は弱形 [ə]「ア」、virus の /v/ に続く",
+            "「virus is」: virus の語末 /s/ が is の /ɪ/ に連結 [ˈvaɪɹəs ɪz]「ヴァイラス イズ」、is は弱形 [ɪz]「イズ」",
+            "「the chunk」: the は弱形 [ðə]「ザ」、chunk の /tʃ/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "more corrupt",
+      "ipa": "/moʊɹ kərˈʌpt/",
+      "examples": [
+        {
+          "en": "A server admin who takes bribes is more corrupt than one who enforces rules fairly.",
+          "ja": "賄賂を受け取るサーバー管理者は、ルールを公正に強制する管理者よりも腐敗しています。",
+          "ipa": "/ə ˈsɝvər ˈædmɪn hu ˈteɪks ˈbraɪbz ɪz moʊɹ kərˈʌpt ðæn ˈwʌn hu ɪnˈfɔɹsɪz ˈrulz ˈfɛɹli/",
+          "kana": "ア サーヴァー アドミン フー テイクス ブライブズ イズ モアー コラプト ザン ワン フー インフォースィズ ルーズ フェアリー",
+          "linking": [
+            "「admin who」: admin の語末 /n/ が who の /w/ に連続するが子音+子音のため連結なし",
+            "「takes bribes」: takes の語末 /z/ が bribes の /b/ に連続するが子音+子音のため連結なし",
+            "「is more」: is は弱形 [ɪz]、more の /m/ に続く。more の語末 /r/ と corrupt の /k/ は子音+子音のため未開放 [moʊɹ̚ kərˈʌpt]「モアー コラプト」"
+          ]
+        },
+        {
+          "en": "This updated version of the mod is more corrupt than the original.",
+          "ja": "このModの更新版は、オリジナルバージョンより腐敗しています。",
+          "ipa": "/ðɪs ˈʌpˌdeɪtɪd ˈvɝʒən əv ðə ˈmɑd ɪz moʊɹ kərˈʌpt ðæn ðə əˈrɪdʒənəl/",
+          "kana": "ジス アップデイティッド ヴァージョン アヴ ザ マッド イズ モアー コラプト ザン ザ オリジナル",
+          "linking": [
+            "「version of」: version の語末 /n/ が of の /ə/ に連結 [ˈvɝʒən əv]「ヴァージョン アヴ」、of は弱形 [əv]「アヴ」",
+            "「of the」: of は弱形 [əv]、the は弱形 [ðə]「ザ」に続く",
+            "「is more」: is は弱形 [ɪz]、more の /m/ に続く。more の語末 /r/ と corrupt の /k/ は子音+子音のため未開放 [moʊɹ̚ kərˈʌpt]「モアー コラプト」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "most corrupt",
+      "ipa": "/moʊst kərˈʌpt/",
+      "examples": [
+        {
+          "en": "That server admin is the most corrupt player in the entire network.",
+          "ja": "あのサーバー管理者は、ネットワーク全体で最も腐敗しているプレイヤーです。",
+          "ipa": "/ðæt ˈsɝvər ˈædmɪn ɪz ðə moʊst kərˈʌpt ˈpleɪɚ ɪn ðə ɪnˈtaɪɚ ˈnɛtˌwɝk/",
+          "kana": "ザット サーヴァー アドミン イズ ザ モウスト コラプト プレイアー イン ザ インタイアー ネットワーク",
+          "linking": [
+            "「the most」: the は弱形 [ðə]「ザ」、most の /m/ に続く",
+            "「most corrupt」: most の語末 /st/ が corrupt の /k/ に連続するが子音+子音のため未開放 [moʊst̚ kərˈʌpt]「モウスト コラプト」",
+            "「in the」: in の語末 /n/ が the の /ð/ に連続するが子音+子音のため未開放。the は弱形 [ðə]「ザ」"
+          ]
+        },
+        {
+          "en": "Our save file has become the most corrupt it has ever been after seven server crashes.",
+          "ja": "7回のサーバークラッシュ後、私たちのセーブファイルはこれまでで最も破損した状態になっています。",
+          "ipa": "/ˈaʊɚ ˈseɪv ˈfaɪl hæz bɪˈkʌm ðə moʊst kərˈʌpt ɪt hæz ˈɛvɚ bɪn ˈæftər ˈsɛvən ˈsɝvər kræʃɪz/",
+          "kana": "アウアー セイブ ファイル ハズ ビカム ザ モウスト コラプト イット ハズ エヴァー ビン アフター セヴァン サーヴァー クラッシズ",
+          "linking": [
+            "「file has」: file の語末 /l/ が has の /h/ に連続するが子音+子音のため連結なし。has は弱形 [hæz] または [əz]「ハズ」",
+            "「become the」: become の語末 /m/ が the の /ð/ に連続するが子音+子音のため連結なし。the は弱形 [ðə]「ザ」",
+            "「most corrupt」: most の語末 /st/ が corrupt の /k/ に連続するが子音+子音のため未開放 [moʊst̚ kərˈʌpt]「モウスト コラプト」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is corrupting",
+      "ipa": "/ɪz kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The server bug is corrupting our data right now.",
+          "ja": "サーバーバグが今私たちのデータを破損させています。",
+          "ipa": "/ðə ˈsɝvər ˈbʌɡ ɪz kərˈʌptɪŋ ˈaʊɚ ˈdeɪtə ˈraɪt ˈnaʊ/",
+          "kana": "ザ サーヴァー バギズ コラプティング アウアー デイター ライト ナウ",
+          "linking": [
+            "「the server」: the は弱形 [ðə]「ザ」、server の /s/ に続く",
+            "「bug is」: bug の語末子音 /ɡ/ が is の母音 /ɪ/ に連結 [ˈbʌɡ ɪz]「バギズ」、is は弱形 [ɪz]「イズ」",
+            "「is corrupting」: is [ɪz] が corrupting [k] に連続するが子音+子音のため未開放 [ɪz̚ kərˈʌptɪŋ]「イズ コラプティング」",
+            "「right now」: right の語末子音 /t/ が now の /n/ に連続するが子音+子音のため未開放 [ˈraɪt̚ ˈnaʊ]「ライト ナウ」"
+          ]
+        },
+        {
+          "en": "Those mods are corrupting the world save.",
+          "ja": "あのModがワールドセーブを破損させています。",
+          "ipa": "/ðoʊz ˈmɑdz ɚ kərˈʌptɪŋ ðə ˈwɝld ˈseɪv/",
+          "kana": "ドウズ マッズ アー コラプティング ザ ワールド セイブ",
+          "linking": [
+            "「Those mods」: mods の語末子音 /z/ が are の母音 /ɚ/ に連結 [ˈmɑdz ɚ]「マッズ アー」、are は弱形 [ɚ]「アー」",
+            "「are corrupting」: are [ɚ] (弱形) が corrupting の /k/ に続く [ɚ kərˈʌptɪŋ]「アー コラプティング」",
+            "「the world」: the は弱形 [ðə]「ザ」、world の /w/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was corrupting",
+      "ipa": "/wəz kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The glitch was corrupting chunks when we found it.",
+          "ja": "バグが見つかった時、チャンクを破損させていました。",
+          "ipa": "/ðə ˈɡlɪtʃ wəz kərˈʌptɪŋ ˈtʃʌŋks ˈwɛn wi ˈfaʊnd ɪt/",
+          "kana": "ザ グリッチ ワズ コラプティング チャンクス ウェン ウィ ファウンド イット",
+          "linking": [
+            "「the glitch」: the は弱形 [ðə]「ザ」、glitch の /ɡ/ に続く",
+            "「was corrupting」: was は弱形 [wəz]「ワズ」、corrupting の /k/ に続き子音+子音のため未開放 [wəz̚ kərˈʌptɪŋ]「ワズ コラプティング」",
+            "「when we」: when の語末 /n/ が we の /w/ に連続するが子音+子音のため連結なし",
+            "「found it」: found の語末子音 /d/ が it の /ɪ/ に連結 [ˈfaʊnd ɪt]「ファウンディット」"
+          ]
+        },
+        {
+          "en": "We were corrupting the data with that broken plugin.",
+          "ja": "あの壊れたプラグインで、私たちはデータを破損させていました。",
+          "ipa": "/wi wɚ kərˈʌptɪŋ ðə ˈdeɪɾə wɪð ðæt ˈbroʊkən ˈplʌɡɪn/",
+          "kana": "ウィ ワー コラプティング ザ デイラ ウィザ ザット ブロウカン プラギン",
+          "linking": [
+            "「were corrupting」: were は弱形 [wɚ]「ワー」、corrupting の /k/ に続く [wɚ kərˈʌptɪŋ]「ワー コラプティング」",
+            "「the data」: the は弱形 [ðə]「ザ」、data の /d/ に続く。data の /t/ は母音+/t/+母音の環境でフラップ [ɾ]「デイラ」",
+            "「with that」: with の語末子音 /ð/ が that の /ð/ に連続するが子音+子音のため連結なし",
+            "「broken plugin」: broken の語末 /n/ が plugin の /p/ に連続するが子音+子音のため連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been corrupting",
+      "ipa": "/həd bɪn kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The exploit had been corrupting the server for weeks.",
+          "ja": "エクスプロイトは数週間サーバーを破損させていました。",
+          "ipa": "/ðə ˈɛksˌplɔɪt həd bɪn kərˈʌptɪŋ ðə ˈsɝvər fɚ ˈwiks/",
+          "kana": "ザ エクスプロイット ハド ビン コラプティング ザ サーヴァー ファー ウィークス",
+          "linking": [
+            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音、/d/ は未開放 [həd̚ bɪn]「ハド ビン」",
+            "「been corrupting」: been [bɪn] (弱形) が corrupting [k] に続き子音+子音のため未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
+            "「the server」: the は弱形 [ðə]「ザ」、server の /s/ に続く",
+            "「for weeks」: for は弱形 [fɚ]「ファー」、weeks の /w/ に続く"
+          ]
+        },
+        {
+          "en": "I had been corrupting my files with unstable mods.",
+          "ja": "不安定なModで私はファイルを破損させていました。",
+          "ipa": "/aɪ həd bɪn kərˈʌptɪŋ maɪ ˈfaɪlz wɪð ʌnˈsteɪbəl ˈmɑdz/",
+          "kana": "アイ ハド ビン コラプティング マイ ファイルズ ウィザ アンステイバル マッズ",
+          "linking": [
+            "「had been」: had は弱形 [həd]「ハド」、been は弱形 [bɪn]「ビン」で子音+子音、/d/ は未開放 [həd̚ bɪn]「ハド ビン」",
+            "「been corrupting」: been [bɪn] (弱形) が corrupting [k] に続き子音+子音のため未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
+            "「with unstable」: with の語末子音 /ð/ が unstable の /ʌ/ に連結 [wɪð ʌn...]「ウィザ アンステイバル」",
+            "「unstable mods」: unstable の語末 /l/ が mods の /m/ に連続するが子音+子音のため連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has corrupted",
+      "ipa": "/həz kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "Someone has corrupted the admin panel with a malicious plugin.",
+          "ja": "【例文】誰かが悪質なプラグインで管理者パネルを破損させました。サーバー管理者による不正や外部からの攻撃の痕跡。",
+          "ipa": "/ˈsʌmˌwʌn həz kərˈʌptɪd ðə ˈædmɪn ˈpænəl wɪð ə məˈlɪʃəs ˈplʌɡɪn/",
+          "kana": "サムワン ハズ コラプティッド ザ アドミン パネル ウィザ ア マリシャス プラギン",
+          "linking": [
+            "「has corrupted」: has は弱形 [həz]「ハズ」、corrupted の /k/ に連続（子音+子音）で未開放 [həz̚ kərˈʌptɪd]「ハズ コラプティッド」",
+            "「the admin」: the は弱形 [ðə]「ザ」、admin の /æ/ に続く",
+            "「with a」: with の語末 /ð/ が a の弱形 /ə/ に連結 [wɪð ə]「ウィザ ア」"
+          ]
+        },
+        {
+          "en": "All player data has corrupted since the server crash.",
+          "ja": "【例文】サーバークラッシュ以来、すべてのプレイヤーデータが破損しています。サーバー管理者にとって最悪のシナリオの1つ。",
+          "ipa": "/ˈɔl ˈpleɪɚ ˈdeɪɾə həz kərˈʌptɪd sɪns ðə ˈsɝvɚ kræʃ/",
+          "kana": "オール プレイアー デイラ ハズ コラプティッド シンス ザ サーヴァー クラッシュ",
+          "linking": [
+            "「player data」: player の語末 /r/ が data の /d/ に連続（子音+子音）で連結なし [ˈpleɪɚ ˈdeɪ]。data の /t/ は母音+/t/+母音でフラップ化 [ˈdeɪɾə]「デイラ」",
+            "「has corrupted」: has は弱形 [həz]「ハズ」、corrupted の /k/ に連続（子音+子音）で未開放 [həz̚ kərˈʌptɪd]「ハズ コラプティッド」",
+            "「the server」: the は弱形 [ðə]「ザ」、server の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had corrupted",
+      "ipa": "/həd kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "Before the update arrived, hackers had corrupted the admin account.",
+          "ja": "【例文】アップデートが到着する前に、ハッカーはすでに管理者アカウントを破損させていました。セキュリティ侵害の時系列。",
+          "ipa": "/bɪˈfɔr ðə ˈʌpˌdeɪt əˈraɪvd ˈhækɚz həd kərˈʌptɪd ðə ˈædmɪn əˈkaʊnt/",
+          "kana": "ビフォア ザ アップデイト ア ライヴド ハッカーズ ハド コラプティッド ザ アドミン ア カウント",
+          "linking": [
+            "「Before the」: before の語末 /r/ が the の弱形 /ð/ に連結 [bɪˈfɔr ðə]「ビフォア ザ」",
+            "「had corrupted」: had は弱形 [həd]「ハド」、corrupted の /k/ に連続（子音+子音）で未開放 [həd̚ kərˈʌptɪd]「ハド コラプティッド」",
+            "「the admin」: the は弱形 [ðə]「ザ」、admin の /æ/ に続く"
+          ]
+        },
+        {
+          "en": "I realized my save data had corrupted when I loaded the world.",
+          "ja": "【例文】ワールドをロードしたときに、セーブデータが既に破損していたことに気づきました。ワールドロード時のトラブル。",
+          "ipa": "/aɪ rɪˈælaɪzd maɪ ˈseɪv ˈdeɪɾə həd kərˈʌptɪd wɛn aɪ ˈloʊdɪd ðə ˈwɝld/",
+          "kana": "アイ リ アライズド マイ セイブ デイラ ハド コラプティッド ウェン アイ ロウディッド ザ ワールド",
+          "linking": [
+            "「realized my」: realized の語末 /d/ が my の /m/ に連続（子音+子音）で連結なし。realized は [rɪˈælaɪzd]「リアライズド」",
+            "「had corrupted」: had は弱形 [həd]「ハド」、corrupted の /k/ に連続（子音+子音）で未開放 [həd̚ kərˈʌptɪd]「ハド コラプティッド」",
+            "「loaded the」: loaded の語末 /d/ が未開放。the は弱形 [ðə]「ザ」に続く [ˈloʊdɪd̚ ðə]「ロウディッド ザ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been corrupting",
+      "ipa": "/həz bɪn kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The memory leak has been corrupting our database for days.",
+          "ja": "【例文】メモリリークがここ数日間、私たちのデータベースを破損させ続けています。継続的なバグの影響。",
+          "ipa": "/ðə ˈmɛməɹi ˈlik həz bɪn kərˈʌptɪŋ ɑɚ ˈdeɪtəˌbeɪs fɔr ˈdeɪz/",
+          "kana": "ザ メモリー リック ハズ ビン コラプティング アウアー デイターベース フォー デイズ",
+          "linking": [
+            "「has been」: has は弱形 [həz]「ハズ」、been は弱形 [bɪn]「ビン」で子音+子音のため未開放 [həz̚ bɪn]「ハズ ビン」",
+            "「been corrupting」: been は弱形 /bɪn/、corrupting の /k/ に連続（子音+子音）で未開放 [bɪn̚ kərˈʌptɪŋ]「ビン コラプティング」",
+            "「our database」: our の語末 /r/ が database の /d/ に連結 [ɑɚ ˈdeɪ]「アウアー デイターベース」"
+          ]
+        },
+        {
+          "en": "That malicious player has been corrupting the world with console commands.",
+          "ja": "【例文】その悪意あるプレイヤーがコンソールコマンドでワールドを破損させ続けています。グリーフィング行為の継続。",
+          "ipa": "/ðæt məˈlɪʃəs ˈpleɪər həz bɪn kərˈʌptɪŋ ðə ˈwɝld wɪð ˈkɑnsˌoʊl kəˈmændz/",
+          "kana": "ザット マリシャス プレイアー ハズ ビン コラプティング ザ ワールド ウィザ コンソウル コマンズ",
+          "linking": [
+            "「player has」: player の語末 /r/ が has の /h/ に連結 [ˈpleɪər həz]「プレイアー ハズ」、has は弱形 /həz/",
+            "「has been」: has は弱形 /həz/、been は弱形 /bɪn/ で子音+子音のため未開放 [həz̚ bɪn]「ハズ ビン」",
+            "「with console」: with の語末 /ð/ が console の /k/ に連続（子音+子音）で連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will corrupt",
+      "ipa": "/wɪl kərˈʌpt/",
+      "examples": [
+        {
+          "en": "That untested patch will corrupt all the old world files.",
+          "ja": "その未テストのパッチは、すべての古いワールドファイルを破損させてしまいます。",
+          "ipa": "/ðæt ʌnˈtɛstɪd ˈpætʃ wɪl kərˈʌpt ˈɔl ðə oʊld ˈwɝld ˈfaɪlz/",
+          "kana": "ザット アンテスティッド パッチ ウィル コラプト オール ザ オウルド ワールド ファイルズ",
+          "linking": [
+            "「will corrupt」: will は弱形 [wɪl]（または縮約 I'll/you'll/we'll/they'll），corrupt の /k/ に続き子音+子音のため未開放 [wɪl̚ kərˈʌpt]「ウィル コラプト」",
+            "「all the」: all の語末 /l/ が the の /ð/ に連続するが子音+子音のため連結なし。the は弱形 [ðə]「ザ」",
+            "「old world」: old の語末 /d/ が world の /w/ に連続するが子音+子音のため連結なし"
+          ]
+        },
+        {
+          "en": "If we don't back up now, a power outage will corrupt our save.",
+          "ja": "今バックアップしないと、停電が私たちのセーブを破損させてしまいます。",
+          "ipa": "/ɪf wi doʊnt ˈbæk ˈʌp ˈnaʊ ə ˈpaʊɚ ˈaʊtɪdʒ wɪl kərˈʌpt ˈaʊɚ ˈseɪv/",
+          "kana": "イフ ウィ ドウント バック アップ ナウ ア パウアー アウティッジ ウィル コラプト アウアー セイブ",
+          "linking": [
+            "「back up」: back の語末 /k/ が up の /ʌ/ に連結 [ˈbæk ˈʌp]「バック アップ」",
+            "「power outage」: power の語末 /r/ が outage の /aʊ/ に連結 [ˈpaʊɚ ˈaʊtɪdʒ]「パウアー アウティッジ」",
+            "「will corrupt」: will は弱形 [wɪl]、corrupt の /k/ に続き子音+子音のため未開放 [wɪl̚ kərˈʌpt]「ウィル コラプト」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be corrupting",
+      "ipa": "/wɪl bi kərˈʌptɪŋ/",
+      "examples": [
+        {
+          "en": "The memory exploit will be corrupting the server while the event is running.",
+          "ja": "イベント実行中、メモリエクスプロイトはサーバーを破損させ続けるでしょう。",
+          "ipa": "/ðə ˈmɛməɹi ˈɛksˌplɔɪt wɪl bi kərˈʌptɪŋ ðə ˈsɝvər ˈwaɪl ðə ɪˈvɛnt ɪz ˈrʌnɪŋ/",
+          "kana": "ザ メモリー エクスプロイット ウィル ビ コラプティング ザ サーヴァー ホワイル ザ イベント イズ ラニング",
+          "linking": [
+            "「will be」: will は弱形 [wɪl]、be は弱形 [bi] で子音+子音のため未開放 [wɪl̚ bi]「ウィル ビ」",
+            "「be corrupting」: be は弱形 [bi]、corrupting の /k/ に続き子音+子音のため未開放 [bi̚ kərˈʌptɪŋ]「ビ コラプティング」",
+            "「the event」: the は弱形 [ðə]「ザ」、event の /ɛ/ に続く"
+          ]
+        },
+        {
+          "en": "They'll be corrupting the world data with that buggy plugin throughout the night.",
+          "ja": "その不具合のあるプラグインで、彼らは一晩中ワールドデータを破損させ続けるでしょう。",
+          "ipa": "/ðeɪl bi kərˈʌptɪŋ ðə ˈwɝld ˈdeɪtə wɪð ðæt ˈbʌɡi ˈplʌɡɪn θruˈaʊt ðə ˈnaɪt/",
+          "kana": "ゼイル ビ コラプティング ザ ワールド デイター ウィザ ザット バギー プラギン スルーアウト ザ ナイト",
+          "linking": [
+            "「They'll be」: they'll = they + will の縮約で [ðeɪl]「ゼイル」、be は弱形 [bi] で子音+子音のため未開放 [ðeɪl̚ bi]「ゼイル ビ」",
+            "「be corrupting」: be は弱形 [bi]、corrupting の /k/ に続き子音+子音のため未開放 [bi̚ kərˈʌptɪŋ]「ビ コラプティング」",
+            "「with that」: with の語末 /ð/ が that の /ð/ に連続するが子音+子音のため連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have corrupted",
+      "ipa": "/wɪl həv kərˈʌptɪd/",
+      "examples": [
+        {
+          "en": "By the time we load the world, the glitch will have corrupted everything.",
+          "ja": "ワールドをロードするころには、そのグリッチがすべてを破損させてしまっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈloʊd ðə ˈwɝld ðə ˈɡlɪtʃ wɪl həv kərˈʌptɪd ˈɛvrɪˌθɪŋ/",
+          "kana": "バイ ザ タイム ウィ ロウド ザ ワールド ザ グリッチ ウィル ハヴ コラプティッド エヴリシング",
+          "linking": [
+            "「time we」: time の語末 /m/ が we の /w/ に連続するが子音+子音のため連結なし",
+            "「the world」: the は弱形 [ðə]「ザ」、world の /w/ に続く",
+            "「will have」: will は弱形 [wɪl]、have は弱形 [həv] で子音+子音のため未開放 [wɪl̚ həv]「ウィル ハヴ」",
+            "「have corrupted」: have は弱形 [həv]、corrupted の /k/ に続き子音+子音のため未開放 [həv̚ kərˈʌptɪd]「ハヴ コラプティッド」"
+          ]
+        },
+        {
+          "en": "Within a week, the admin database will have corrupted beyond repair.",
+          "ja": "1週間以内に、その管理者データベースは修復不可能なほど破損しているでしょう。",
+          "ipa": "/wɪˈðɪn ə ˈwik ðə ˈædmɪn ˈdeɪtəˌbeɪs wɪl həv kərˈʌptɪd bɪˈjɑnd rɪˈpɛr/",
+          "kana": "ウィジン ア ウィーク ザ アドミン デイターベース ウィル ハヴ コラプティッド ビヨンド リペア",
+          "linking": [
+            "「within a」: within の語末 /n/ が a の弱形 /ə/ に連結 [wɪˈðɪn ə]「ウィジン ア」",
+            "「the admin」: the は弱形 [ðə]「ザ」、admin の /æ/ に続く",
+            "「will have」: will は弱形 [wɪl]、have は弱形 [həv] で子音+子音のため未開放 [wɪl̚ həv]「ウィル ハヴ」",
+            "「have corrupted」: have は弱形 [həv]、corrupted の /k/ に続き子音+子音のため未開放 [həv̚ kərˈʌptɪd]「ハヴ コラプティッド」"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "word": "weight",
+  "pos": "名詞 (noun) / 動詞 (verb)",
+  "ipa_us": "/weɪt/",
+  "ipa_uk": "/weɪt/",
+  "meanings": [
+    "【名詞】重さ、体重、重量（The weight of the package is 5 kilograms. パッケージの重さは5キログラムです。）",
+    "【名詞】重要性、影響力（His opinion carries great weight. 彼の意見は大きな影響力を持っている。）",
+    "【動詞】～を秤にかける、～の重さを測る（Please weight these ingredients carefully. これらの材料の重さを慎重に測ってください。）",
+    "【動詞】～に重さを加える、～を重くする（This will weight down your inventory. これはあなたのインベントリを重くするでしょう。）"
+  ],
+  "examples": [
+    {
+      "en": "The weight of the gold ore makes it difficult to carry a full inventory back to the base.",
+      "ja": "金鉱石の重さのせいで、いっぱいのインベントリを基地に持ち帰るのが難しい。",
+      "grammar": "所有格 + 名詞 + make + 形容詞：「～のために、～が...になる」という因果関係を表す。",
+      "ipa": "/ðə ˈweɪt əv ðə ˈɡoʊld ˈɔːr meɪks ɪt ˈdɪfɪkəlt tə ˈkæri ə fʊl ɪnˈvɛntəri bæk tə ðə ˈbeɪs/",
+      "linking": [
+        "weight of → 語末子音/t/が母音/ə/に挟まれてフラップ化 [ˈweɪɾəv] ウェイラヴ。of は弱形 /əv/",
+        "the gold → the は子音前で /ðə/",
+        "makes it → 語末子音/z/が母音/ɪ/に連結 [ˈmeɪks ɪt] メイクス イット",
+        "to carry → to は弱形 /tə/",
+        "back to → back の語末/k/が母音に挟まれてフラップ化しないが、to は弱形 /tə/"
+      ],
+      "kana": "ダ ウェイラヴ ダ ゴウルド オア メイクス イット ディフィカル タ キャリー ア フル インベントリー バック タ ダ ベイス"
+    },
+    {
+      "en": "Players often debate the weight of different armor sets when preparing for battle.",
+      "ja": "プレイヤーは戦闘に備えるとき、異なる防具セットの重さについてよく議論する。",
+      "grammar": "定冠詞 + 複数名詞：複数の同種のもの全般を指す。often + 現在形で習慣を表す。",
+      "ipa": "/ˈpleɪɚz ˈɔːftən dɪˈbeɪt ðə ˈweɪt əv ˈdɪfərənt ˈɑːrmɚ sɛts wɛn prɪˈpɛrɪŋ fɔːr ˈbætəl/",
+      "linking": [
+        "often debate → often は /ˈɔːftən/、debate は /dɪˈbeɪt/",
+        "weight of → 語末/t/がフラップ化 [ˈweɪɾəv]。of は弱形 /əv/",
+        "different armor → different は /ˈdɪfərənt/、armor は /ˈɑːrmɚ/",
+        "when preparing → when は /wɛn/、preparing は /prɪˈpɛrɪŋ/。n が母音に連結",
+        "for battle → for は弱形 /fɔr/、battle は /ˈbætəl/"
+      ],
+      "kana": "プレイヤーズ オーフテン ディベイト ダ ウェイラヴ ディフルント アーマー セッツ ウェン プリペアリング ファー バッテル"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "The weight of diamond armor is heavier than iron armor, but the protection is worth the extra burden.",
+      "ja": "ダイヤモンド防具の重さは鉄防具よりも重いが、その保護性能は余分な負担に値する。",
+      "grammar": "比較級（heavier）+ than を使った比較。接続詞 but で対比。",
+      "ipa": "/ðə ˈweɪt əv ˈdaɪmənd ˈɑːrmɚ ɪz ˈhɛviɚ ðən ˈaɪrən ˈɑːrmɚ | bət ðə prəˈtɛkʃən ɪz wɜːrθ ðə ˈɛkstrə ˈbɜːrdən/",
+      "linking": [
+        "weight of → 語末/t/がフラップ化 [ˈweɪɾəv]、of は弱形 /əv/",
+        "is heavier → is は弱形 /ɪz/",
+        "heavier than → heavier の語末がフラップ化し /ə/ で終わり、than は弱形 /ðən/",
+        "but the → but は /bət/、the は弱形 /ðə/",
+        "the extra → the は弱形 /ðə/、extra は /ˈɛkstrə/"
+      ],
+      "kana": "ダ ウェイラヴ ダイアマンド アーマー イズ ヘビア ザン アイアーン アーマー、バット ダ プロテクション イズ ワース ダ エクストラ バーデン"
+    },
+    {
+      "en": "Experienced miners carefully weight their tools and resources to maximize efficiency during long expeditions.",
+      "ja": "経験豊富な鉱夫は、長い遠征中に効率を最大化するために、自分の道具と資源の重さを慎重に配分する。",
+      "grammar": "現在形（weight）を使った一般的な行為。to不定詞（to maximize）で目的を表す。",
+      "ipa": "/ɪkˈspɪriənst ˈmaɪnɚz ˈkɛrfəli ˈweɪt ðɛr ˈtulz ənd ˈrɛsɔːrsɪz tə ˌmæksɪˈmaɪz ɪˈfɪʃənsi ˈdʊrɪŋ lɔːŋ ɪkˈspɪˈdɪʃənz/",
+      "linking": [
+        "miners carefully → miners は /ˈmaɪnɚz/、carefully は /ˈkɛrfəli/",
+        "weight their → weight は /weɪt/、their は /ðɛr/",
+        "tools and → tools は /tulz/、and は弱形 /ənd/",
+        "to maximize → to は弱形 /tə/",
+        "during long → during は /ˈdʊrɪŋ/、long は /lɔːŋ/。ng が子音に続く（未開放）"
+      ],
+      "kana": "イクスピアリンスト マイナーズ ケアフリー ウェイト ゼア トゥールズ アン リソーシーズ タ マックシマイズ イフィシャンシー デュリング ロング イクスペディションズ"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "The weight of the gold ore makes it difficult to carry a full inventory back to the base.",
+      "swapped_word": "heaviness",
+      "result": "The heaviness of the gold ore makes it difficult to carry a full inventory back to the base.",
+      "ja": "金鉱石の重さのせいで、いっぱいのインベントリを基地に持ち帰るのが難しい。",
+      "note": "heaviness は weight よりもやや文学的・感情的なニュアンス。weight は客観的な物理量、heaviness は主観的な感じ方を強調する。"
+    },
+    {
+      "base": "Experienced miners carefully weight their tools and resources to maximize efficiency during long expeditions.",
+      "swapped_word": "balance",
+      "result": "Experienced miners carefully balance their tools and resources to maximize efficiency during long expeditions.",
+      "ja": "経験豊富な鉱夫は、長い遠征中に効率を最大化するために、自分の道具と資源のバランスを慎重に取る。",
+      "note": "balance は weight よりも「調整する」というアクティブな行動を強調する。weight は「重さを測る」という測定行為、balance は「釣り合わせる」という調整行為。"
+    }
+  ],
+  "collocations": [
+    "gain weight（太る、体重が増える）",
+    "lose weight（体重が減る、痩せる）",
+    "weight of evidence（証拠の重要性）",
+    "carry weight（重要である、説得力がある）"
+  ],
+  "pos_all": "名詞・動詞",
+  "rank": 596,
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is weighing",
+      "ipa": "/ɪz ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The player is weighing the enchanted iron armor to determine if it's worth keeping in her inventory.",
+          "ja": "プレイヤーはエンチャントされた鉄防具を秤にかけて、インベントリに入れておく価値があるかどうかを判断している。",
+          "ipa": "/ðə ˈpleɪɚ ɪz ˈweɪtɪŋ ðɪ ɛnˈtʃæntɪd ˈaɪrən ˈɑːrmɚ tə dɪˈtɜːrmɪn ɪf ɪts wɜːrθ ˈkipɪŋ ɪn hɚ ɪnˈvɛntəri/",
+          "linking": [
+            "is weighing → is は弱形 /ɪz/、weighing は /ˈweɪtɪŋ/。z が母音に連結",
+            "the enchanted → the は子音前で /ðə/",
+            "iron armor → iron は /ˈaɪrən/、armor は /ˈɑːrmɚ/。n が母音に連結 [ˈaɪrən ˈɑːrmɚ] アイアーン アーマー",
+            "to determine → to は弱形 /tə/",
+            "keeping in → keeping は /ˈkipɪŋ/、in は弱形 /ɪn/。ng が母音に連結 [ˈkipɪŋ ɪn] キーピング イン",
+            "in her → in は弱形 /ɪn/、her は弱形 /ɚ/（文中で弱化）"
+          ],
+          "kana": "ダ プレイヤー イズ ウェイティング ディ イッチャントィド アイアーン アーマー タ ディターミン イフ イッツ ワース キーピング イン ハー インベントリー"
+        },
+        {
+          "en": "We are weighing our options before deciding which mining tool to take into the Nether.",
+          "ja": "ネザーに持ち込む採掘道具を決める前に、私たちはオプションを検討している。",
+          "ipa": "/wi ɑr ˈweɪtɪŋ ˈaʊɚ ˈɑːpʃənz bɪˈfɔːr dɪˈsaɪdɪŋ wɪtʃ ˈmaɪnɪŋ ˈtuːl tə ˈteɪk ˈɪntu ðə ˈnɛðɚ/",
+          "linking": [
+            "are weighing → are は弱形 /ɑr/、weighing は /ˈweɪtɪŋ/。r が次の音に連結",
+            "weighing our → weighing の語末 /ŋ/ が母音 /aʊ/ に連結 [ˈweɪtɪŋ ˈaʊɚ] ウェイティング アワー",
+            "before deciding → before は /bɪˈfɔːr/、deciding は /dɪˈsaɪdɪŋ/。r が母音に連結",
+            "mining tool → mining は /ˈmaɪnɪŋ/、tool は /ˈtuːl/。ng が子音に続き未開放",
+            "to take → to は弱形 /tə/",
+            "into the → into は /ˈɪntu/ または /ˈɪntə/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー ウェイティング アワー オプションズ ビフォア ディサイディング ウィッチ マイニング トゥール タ テイク イントゥ ダ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was weighing",
+      "ipa": "/wəz ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was weighing my inventory when a Creeper suddenly appeared and destroyed everything I had collected.",
+          "ja": "私がインベントリの荷物を調べていたとき、クリーパーが突然現れて、集めたものすべてを破壊した。",
+          "ipa": "/aɪ wəz ˈweɪtɪŋ maɪ ɪnˈvɛntəri wɛn ə ˈkriːpɚ ˈsʌdənli əˈpɪrd ənd dɪˈstrɔɪd ˈɛvrɪθɪŋ aɪ həd kəˈlɛktɪd/",
+          "linking": [
+            "was weighing → was は弱形 /wəz/、weighing は /ˈweɪtɪŋ/。z が母音に連結",
+            "when a → when は /wɛn/、a は弱形 /ə/。n が母音に連結 [wɛn ə]",
+            "suddenly appeared → suddenly は /ˈsʌdənli/、appeared は /əˈpɪrd/。y が母音に連結 [liəˈpɪrd]",
+            "had collected → had は弱形 /həd/、collected は /kəˈlɛktɪd/。d が子音に続き未開放"
+          ],
+          "kana": "アイ ワズ ウェイティング マイ インベントリー ウェン ア クリーパー サドゥンリー ァピアード アン ディストロイド エブリシング アイ ハド カレクティド"
+        },
+        {
+          "en": "They were weighing the risks of the dark cave before they finally decided to explore it together.",
+          "ja": "彼らは暗い洞窟のリスクを検討していましたが、最終的に一緒に探索することを決めました。",
+          "ipa": "/ðeɪ wɚ ˈweɪtɪŋ ðə ˈrɪsks əv ðə dɑːrk keɪv bɪˈfɔːr ðeɪ ˈfaɪnəli dɪˈsaɪdɪd tə ɪkˈsplɔːr ɪt təˈɡɛðɚ/",
+          "linking": [
+            "were weighing → were は弱形 /wɚ/、weighing は /ˈweɪtɪŋ/。r が次の音に連結",
+            "weighing the → weighing の語末 /ŋ/ が子音 /ð/ に続き未開放",
+            "the dark → the は子音前で /ðə/",
+            "before they → before は /bɪˈfɔːr/、they は /ðeɪ/。r が母音に連結 [bɪˈfɔːr ðeɪ]",
+            "finally decided → finally は /ˈfaɪnəli/、decided は /dɪˈsaɪdɪd/",
+            "to explore → to は弱形 /tə/、explore は /ɪkˈsplɔːr/",
+            "together → 語末の r が次の語に連結する場合もあり（英語では同じ音節内）"
+          ],
+          "kana": "ゼイ ワー ウェイティング ダ リスクス アヴ ダ ダーク ケイヴ ビフォア ゼイ ファイナリー ディサイディド タ イクスプロア イット トゥゲザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been weighing",
+      "ipa": "/həd bɪn ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been weighing whether to attack the Dragon when it finally swooped down and the boss fight began.",
+          "ja": "ドラゴンを攻撃すべきかずっと検討していましたが、ついにドラゴンが降りてきてボス戦が始まりました。",
+          "ipa": "/wi həd bɪn ˈweɪtɪŋ ˈwɛðɚ tə əˈtæk ðə ˈdræɡən wɛn ɪt ˈfaɪnəli swuːpt daʊn ənd ðə bɔːs faɪt bɪˈɡæn/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/（強形は /biːn/）",
+            "been weighing → been の語末 /n/ が母音に連結 [bɪn ˈweɪtɪŋ] ビン ウェイティング",
+            "to attack → to は弱形 /tə/",
+            "the Dragon → the は子音前で /ðə/",
+            "when it → when は /wɛn/、it は /ɪt/。n が母音に連結 [wɛn ɪt]",
+            "and the → and は弱形 /ənd/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハド ビン ウェイティング ウェザー タ ァタック ダ ドラゴン ウェン イット ファイナリー スウープト ダウン アン ダ ボース ファイト ビガン"
+        },
+        {
+          "en": "He had been weighing the pros and cons for an hour before he decided to venture deep into the Nether portal.",
+          "ja": "彼はネザーポータルの中に深く進むことを決めるまで、1時間、長所と短所を検討していました。",
+          "ipa": "/hi həd bɪn ˈweɪtɪŋ ðə ˈproʊz ənd ˈkɑːnz fər ən ˈaʊɚ bɪˈfɔːr hi dɪˈsaɪdɪd tə ˈvɛntʃɚ ˈdiːp ˈɪntu ðə ˈnɛðɚ ˈpoʊrtəl/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/",
+            "been weighing → been の語末 /n/ が母音に連結 [bɪn ˈweɪtɪŋ]",
+            "the pros → the は子音前で /ðə/",
+            "and cons → and は弱形 /ənd/",
+            "for an → for は弱形 /fər/ または /fɔr/、an は弱形 /ən/",
+            "before he → before は /bɪˈfɔːr/、he は /hi/。r が母音に連結 [bɪˈfɔːr hi]",
+            "into the → into は /ˈɪntu/ または /ˈɪntə/、the は弱形 /ðə/",
+            "Nether portal → nether は /ˈnɛðɚ/、portal は /ˈpoʊrtəl/。r が次の音に連結"
+          ],
+          "kana": "ヒー ハド ビン ウェイティング ダ プロウズ アン コンズ ファー アン アワー ビフォア ヒー ディサイディド タ ヴェンチャー ディープ イントゥ ダ ネザー ポータル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has weighted",
+      "ipa": "/həz ˈweɪtɪd/",
+      "examples": [
+        {
+          "en": "I have weighted down this redstone piston door to keep it sealed against mobs.",
+          "ja": "モブからの侵入を防ぐために、このレッドストーン活塞扉に重さを加えて塞いである。",
+          "ipa": "/aɪ həv ˈweɪtɪd daʊn ðɪs ˈrɛdˌstoʊn ˈpɪsn̩ dɔːr tə kip ɪt sɪld əˈɡɛnst mɑbz/",
+          "linking": [
+            "have weighted → have は助動詞で弱形 /həv/、weighted の /d/ が次の母音に連結 [həv ˈweɪtɪd]",
+            "weighted down → 語末 /d/ が母音 /aʊ/ に連結 [ˈweɪtɪd daʊn] ウェイティド ダウン",
+            "down this → 語末 /n/ が子音に続き未開放。this は子音初頭で the 扱い",
+            "keep it → 語末 /p/ が母音 /ɪ/ に連結 [kip ɪt] キープ イット",
+            "sealed against → 語末 /d/ が母音に連結 [sɪld əˈɡɛnst]"
+          ],
+          "kana": "アイ ハヴ ウェイティド ダウン ディス レッドストーン ピスン ドア タ キープ イット シールド アゲンスト モブズ"
+        },
+        {
+          "en": "The engineers have weighted the defense structure with reinforced blocks for maximum durability.",
+          "ja": "エンジニアたちは、最大の耐久性のために、強化ブロックで防衛構造に重さを加えている。",
+          "ipa": "/ðə ˌɛndʒɪˈnɪrz həv ˈweɪtɪd ðə dɪˈfɛns ˈstrʌkʃɚ wɪð ˌrɛɪnˈfɔrst blɑks fɚ ˈmæksəməm ˌdʊrəˈbɪləti/",
+          "linking": [
+            "have weighted → have の /v/ が子音に続き未開放。weighted の /d/ は次の母音に連結",
+            "weighted the → /d/ と /ð/ は子音同士で接する",
+            "with reinforced → 語末 /d/ が子音に続き未開放",
+            "for maximum → for は機能語で弱形 /fɚ/",
+            "engineers have → 語末 /z/ が子音に続き未開放（have の /h/）"
+          ],
+          "kana": "ザ エンジニアーズ ハヴ ウェイティド ザ ディフェンス ストラクチャー ウィズ レインフォースト ブロックス ファー マックスィマム ドゥラビリティー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had weighted",
+      "ipa": "/həd ˈweɪtɪd/",
+      "examples": [
+        {
+          "en": "Before the creeper explosion, I had weighted all the walls with obsidian blocks.",
+          "ja": "クリーパーの爆発が起きる前に、私はすべての壁を黒曜石ブロックで重くしてあった。",
+          "ipa": "/bɪˈfɔːr ðə ˈkriːpɚ ɪkˈsploʊʒən aɪ həd ˈweɪtɪd ɔːl ðə wɔːlz wɪð ɑbˈsɪdiən blɑks/",
+          "linking": [
+            "Before the → before は /bɪˈfɔːr/、the は弱形 /ðə/。r が母音に連結 [bɪˈfɔːr ðə]",
+            "had weighted → had は弱形 /həd/、weighted の /d/ が次の母音に連結 [həd ˈweɪtɪd] ハド ウェイティド",
+            "weighted all → 語末 /d/ が母音 /ɔː/ に連結 [ˈweɪtɪd ɔːl] ウェイティド オール",
+            "all the → 語末 /l/ が母音に連結 [ɔːl ðə] オール ザ",
+            "with obsidian → 語末 /d/ が母音に連結 [wɪð ɑbˈsɪdiən]"
+          ],
+          "kana": "ビフォア ザ クリーパー イクスプロージョン アイ ハド ウェイティド オール ザ ウォルズ ウィズ アブシディアン ブロックス"
+        },
+        {
+          "en": "They had weighted their entire base structure before the server raid began.",
+          "ja": "サーバーレイドが始まる前に、彼らはベース全体を重くしてあった。",
+          "ipa": "/ðeɪ həd ˈweɪtɪd ðɛr ɪnˈtaɪɚ ˈbeɪs ˈstrʌkʃɚ bɪˈfɔːr ðə ˈsɜːrvɚ reɪd bɪˈɡæn/",
+          "linking": [
+            "had weighted → had は弱形 /həd/、weighted の /d/ が次の母音に連結 [həd ˈweɪtɪd]",
+            "weighted their → 語末 /d/ が母音に連結 [ˈweɪtɪd ðɛr] ウェイティド ゼア",
+            "their entire → 語末 /r/ が母音に連結 [ðɛr ɪnˈtaɪɚ] ゼア インタイアー",
+            "before the → before の /r/ が母音に連結、the は弱形 [bɪˈfɔːr ðə]",
+            "server raid → 語末 /r/ が母音に連結 [ˈsɜːrvɚ reɪd] サーヴァー レイド"
+          ],
+          "kana": "ゼイ ハド ウェイティド ゼア インタイアー ベイス ストラクチャー ビフォア ザ サーヴァー レイド ビゲン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been weighting",
+      "ipa": "/həz bɪn ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I have been weighting my inventory carefully throughout this long mining expedition.",
+          "ja": "この長い採掘遠征全体を通じて、私はインベントリの内容を慎重に調整し続けている。",
+          "ipa": "/aɪ həv bɪn ˈweɪtɪŋ maɪ ɪnˈvɛntəri ˈkɛrfəli θruːˈaʊt ðɪs lɔːŋ ˈmaɪnɪŋ ɪkˈspɪˈdɪʃən/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/。v が子音に続き未開放 [həv bɪn]",
+            "been weighting → 語末 /n/ が母音 /eɪ/ に連結 [bɪn ˈweɪtɪŋ] ビン ウェイティング",
+            "throughout this → t が子音に続き未開放",
+            "this long → s が子音に続き未開放",
+            "long mining → ng が子音に続き未開放。mining の /ŋ/ が次の /m/ に続く"
+          ],
+          "kana": "アイ ハヴ ビン ウェイティング マイ インベントリー ケアフリー スルーアウト ディス ロング マイニング イクスペディション"
+        },
+        {
+          "en": "We have been weighting different materials all morning to find the perfect resistance.",
+          "ja": "完璧な耐性を見つけるために、私たちは朝中、異なる材料を試し続けている。",
+          "ipa": "/wi həv bɪn ˈweɪtɪŋ ˈdɪfɚənt məˈtɪɾiəlz ɔːl ˈmɔːrnɪŋ tə faɪnd ðə ˈpɜːrfɪkt rɪˈzɪstəns/",
+          "linking": [
+            "have been → have は弱形 /həv/、been は弱形 /bɪn/。v が子音に続き未開放",
+            "been weighting → 語末 /n/ が母音に連結 [bɪn ˈweɪtɪŋ]",
+            "weighting different → ng が子音に続き未開放",
+            "all morning → 語末 /l/ が母音に連結 [ɔːl ˈmɔːrnɪŋ] オール モーニング",
+            "to find → to は弱形 /tə/。the perfect → the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ハヴ ビン ウェイティング ディファレント マテリアルズ オール モーニング タ ファインド ザ パーフェクト リジスタンス"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will weight",
+      "ipa": "/wɪl weɪt/",
+      "examples": [
+        {
+          "en": "The builder will weight the door mechanism with heavy blocks to keep the base entrance sealed.",
+          "ja": "ビルダーがベースの入口を塞ぐために、扉のメカニズムを重いブロックで強化するでしょう。",
+          "ipa": "/ðə ˈbɪldɚ wɪl weɪt ðə ˈdɔːr ˌmɛkəˈnɪzəm wɪð ˈhɛvi blɑks tə kip ðə ˈbeɪs ˈɛntrəns sɪld/",
+          "linking": [
+            "builder will → builder の語末 /r/ が次の音に連結 [ˈbɪldɚ wɪl] ビルダー ウィル",
+            "will weight → will は /wɪl/、weight は /weɪt/",
+            "weight the → weight の /t/ が母音に挟まれてフラップ化 [ˈweɪɾə] ウェイラ。the は弱形 /ðə/",
+            "the door → the は子音前で /ðə/",
+            "heavy blocks → heavy の /i/ が次の子音に続き弱化 [ˈhɛvi blɑks] ヘヴィ ブロックス",
+            "to keep → to は弱形 /tə/、keep は /kip/",
+            "keep the → keep の /p/ が母音に連結 [kip ðə] キープ ザ"
+          ],
+          "kana": "ダ ビルダー ウィル ウェイラ ダ ドア メカニズム ウィズ ヘヴィ ブロックス タ キープ ダ ベイス エントランス シールド"
+        },
+        {
+          "en": "We will weight our equipment carefully before we head into the deep underground.",
+          "ja": "私たちは深い地下に向かう前に、装備の重さを慎重に測定します。",
+          "ipa": "/wi wɪl weɪt ˈaʊɚ ɪˈkwɪpmənt ˈkɛrfəli bɪˈfɔːr wi hɛd ˈɪntu ðə dip ˈʌndɚˌɡraʊnd/",
+          "linking": [
+            "we will → we は /wi/、will は /wɪl/。l が母音に連結 [wi wɪl]",
+            "will weight → will の /l/ が音節境界で弱化、weight は /weɪt/",
+            "weight our → weight の /t/ がフラップ化し母音に連結 [ˈweɪɾ] ウェイラ。our は /ˈaʊɚ/",
+            "our equipment → our の /r/ が母音に連結 [ˈaʊɚ ɪˈkwɪpmənt] アワー イクイップメント",
+            "carefully before → carefully の /i/ が弱化。before は /bɪˈfɔːr/。r が母音に連結 [ˈkɛrfəli bɪˈfɔːr]",
+            "before we → before の /r/ が母音に連結 [bɪˈfɔːr wi] ビフォア ウィ",
+            "into the → into は /ˈɪntu/、the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル ウェイラ アワー イクイップメント ケアフリー ビフォア ウィ ヘド イントゥ ダ ディープ アンダーグラウンド"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be weighing",
+      "ipa": "/wɪl bi ˈweɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I will be weighing different armor combinations while preparing for the hard raid.",
+          "ja": "ハードレイドに備える準備をしながら、異なる防具の組み合わせを検討しているでしょう。",
+          "ipa": "/aɪ wɪl bi ˈweɪtɪŋ ˈdɪfərənt ˈɑːrmɚ ˌkɑːmbɪˈneɪʃənz ˈwaɪl prɪˈpɛrɪŋ fɔːr ðə ˈhɑːrd reɪd/",
+          "linking": [
+            "I will → I は /aɪ/、will は /wɪl/。l が次の音に連結 [aɪ wɪl] アイ ウィル",
+            "will be → will の /l/ が母音に連結、be は /bi/ [wɪl bi] ウィル ビー",
+            "be weighing → be の /i/ が母音に連結 [bi ˈweɪtɪŋ] ビー ウェイティング",
+            "weighing different → weighing の語末 /ŋ/ が子音に続き未開放 [ˈweɪtɪŋ ˈdɪfərənt]",
+            "different armor → different の /r/ が語末で次の語に連結 [ˈdɪfərənt ˈɑːrmɚ] ディファレント アーマー",
+            "armor combinations → armor の /r/ が母音に連結 [ˈɑːrmɚ ˌkɑːmbɪˈneɪʃənz]",
+            "while preparing → while は /waɪl/、preparing は /prɪˈpɛrɪŋ/。l が母音に連結 [waɪl prɪˈpɛrɪŋ] ワイル プリペアリング",
+            "for the → for は弱形 /fɚ/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ウィル ビー ウェイティング ディファレント アーマー コンビネーションズ ワイル プリペアリング ファー ザ ハード レイド"
+        },
+        {
+          "en": "They will be weighing the strategic advantages of different cave systems as they explore.",
+          "ja": "彼らは探索する際に、異なる洞窟システムの戦略的な利点を検討しているでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈweɪtɪŋ ðə strəˈtidʒɪk əd ˈvæntɪdʒɪz əv ˈdɪfərənt keɪv ˈsɪstəmz əz ðeɪ ɪkˈsplɔːr/",
+          "linking": [
+            "They will → They は /ðeɪ/、will は /wɪl/。l が次の音に連結 [ðeɪ wɪl] ゼイ ウィル",
+            "will be → will の /l/ が母音に連結、be は /bi/ [wɪl bi] ウィル ビー",
+            "be weighing → be の /i/ が母音に連結 [bi ˈweɪtɪŋ]",
+            "weighing the → weighing の語末 /ŋ/ が子音に続き未開放 [ˈweɪtɪŋ ðə] ウェイティング ザ",
+            "of different → of は弱形 /əv/、different は /ˈdɪfərənt/。v が母音に連結 [əv ˈdɪfərənt] アヴ ディファレント",
+            "cave systems → cave は /keɪv/、systems は /ˈsɪstəmz/。v が子音に続き未開放",
+            "as they → as は弱形 /əz/、they は /ðeɪ/。z が母音に連結 [əz ðeɪ] アズ ゼイ",
+            "they explore → they は /ðeɪ/、explore は /ɪkˈsplɔːr/"
+          ],
+          "kana": "ゼイ ウィル ビー ウェイティング ザ ストラテジック アドヴァンテジーズ アヴ ディファレント ケイヴ システムズ アズ ゼイ イクスプロア"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have weighted",
+      "ipa": "/wɪl həv ˈweɪtɪd/",
+      "examples": [
+        {
+          "en": "By the time the server resets, they will have weighted every defensive structure in the fortress.",
+          "ja": "サーバーがリセットされるまでに、彼らは要塞のすべての防衛構造を強化済みになっているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈsɜːrvɚ ˈriːsɛts ðeɪ wɪl həv ˈweɪtɪd ˈɛvri dɪˈfɛnsɪv ˈstrʌkʃɚ ɪn ðə ˈfɔːrtrɪs/",
+          "linking": [
+            "By the → By は /baɪ/、the は弱形 /ðə/",
+            "the time → the は子音前で /ðə/、time は /ˈtaɪm/",
+            "server resets → server は /ˈsɜːrvɚ/、resets は /ˈriːsɛts/。r が語末で次の語に連結 [ˈsɜːrvɚ ˈriːsɛts] サーヴァー リーセッツ",
+            "they will → they は /ðeɪ/、will は /wɪl/。l が次の音に連結 [ðeɪ wɪl] ゼイ ウィル",
+            "will have → will は /wɪl/、have は弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "have weighted → have の /v/ が母音に連結、weighted の /d/ が次の母音に連結 [həv ˈweɪtɪd] ハヴ ウェイティド",
+            "every defensive → every は /ˈɛvri/、defensive は /dɪˈfɛnsɪv/。y が母音に連結 [ˈɛvri dɪˈfɛnsɪv] エブリー ディフェンシヴ",
+            "in the → in は /ɪn/、the は弱形 /ðə/。n が母音に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "バイ ダ タイム ダ サーヴァー リーセッツ ゼイ ウィル ハヴ ウェイティド エブリー ディフェンシヴ ストラクチャー イン ダ フォートリス"
+        },
+        {
+          "en": "She will have weighted all the redstone mechanisms before the server maintenance window closes.",
+          "ja": "サーバーメンテナンスウィンドウが終わるまでに、彼女はすべてのレッドストーンメカニズムを強化済みになっているでしょう。",
+          "ipa": "/ʃi wɪl həv ˈweɪtɪd ɔːl ðə ˈrɛdˌstoʊn ˈmɛkəˌnɪzəmz bɪˈfɔːr ðə ˈsɜːrvɚ ˈmeɪntənəns ˈwɪndoʊ ˈkloʊzɪz/",
+          "linking": [
+            "She will → She は /ʃi/、will は /wɪl/",
+            "will have → will の /l/ が弱化、have は弱形 /həv/ [wɪl həv]",
+            "have weighted → have の /v/ が母音に連結、weighted の /d/ が次の母音に連結 [həv ˈweɪtɪd] ハヴ ウェイティド",
+            "weighted all → weighted の /d/ が母音に連結 [ˈweɪtɪd ɔːl] ウェイティド オール",
+            "all the → all の /l/ が母音に連結 [ɔːl ðə] オール ザ",
+            "before the → before は /bɪˈfɔːr/、the は弱形 /ðə/。r が母音に連結 [bɪˈfɔːr ðə]",
+            "the server → the は子音前で /ðə/、server は /ˈsɜːrvɚ/。r が語末で次の語に連結",
+            "maintenance window → maintenance は /ˈmeɪntənəns/、window は /ˈwɪndoʊ/"
+          ],
+          "kana": "シー ウィル ハヴ ウェイティド オール ザ レッドストーン メカニズムズ ビフォア ザ サーヴァー メインテナンス ウィンドウ クローズィズ"
+        }
+      ]
+    }
+  ]
+}

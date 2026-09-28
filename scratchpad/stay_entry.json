@@ -1,0 +1,359 @@
+{
+  "word": "stay",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/steɪ/",
+  "rank": 1517,
+  "level": "A1",
+  "hi": "stay(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】（ある場所に）留まる、止まる、とどまる（to remain in a place）",
+    "【動詞】（ある状態を）保つ、維持する（to continue to be in a particular state or condition）",
+    "【動詞】（誰かの家などに）泊まる、滞在する（to live temporarily in a place）",
+    "【名詞】滞在、逗留（a period of time when you stay in a place）"
+  ],
+  "examples": [
+    {
+      "en": "I always stay away from lava when mining.",
+      "ja": "採掘するときは、常にマグマから離れています。",
+      "ipa": "/aɪ ˈɔlweɪz ˈsteɪ əˈweɪ frəm ˈlɑːvə ˈwɛn ˈmaɪnɪŋ/",
+      "linking": [
+        "stay の語末子音 /eɪ/ が away の初頭 /ə/（母音）に連結 [ˈsteɪəˈweɪ] ステイアウェイ",
+        "from は機能語で弱形 /frəm/ に弱化",
+        "mining の語末子音 /ŋ/ が when の /w/（子音）に直続（前置きなので順序は逆）"
+      ],
+      "kana": "アイ オールウェイズ ステイアウェイ フラム ラーヴァ ウェン マイニング"
+    },
+    {
+      "en": "The water will stay in the bucket indefinitely.",
+      "ja": "水はバケツの中に無期限でとどまります。",
+      "ipa": "/ðə ˈwɔːtər wɪl ˈsteɪ ɪn ðə ˈbʌkɪt ˌɪndɛfɪnɪtli/",
+      "linking": [
+        "The は冠詞で弱形 /ðə/。water の /w/（子音）に直続 [ðə ˈwɔːtər] ザ ウォーター",
+        "stay の語末 /eɪ/ が in の初頭 /ɪ/（母音）に連結 [ˈsteɪɪn] ステイイン",
+        "the は冠詞で弱形 /ðə/。bucket の /b/（子音）に直続 [ðə ˈbʌkɪt] ザ バケット"
+      ],
+      "kana": "ザ ウォーター ウィル ステイイン ザ バケット インデフィニットリ"
+    },
+    {
+      "en": "We should stay together during the raid.",
+      "ja": "レイドの間、一緒にいるべきです。",
+      "ipa": "/wiː ˈʃʊd ˈsteɪ təˈɡɛðɚ ˈdʊɹɪŋ ðə ˈreɪd/",
+      "linking": [
+        "stay の語末 /eɪ/ が together の初頭 /t/（子音）に直続、未開放 [ˈsteɪ̚ təˈɡɛðɚ]",
+        "together の语末 /ə/ が during の初頭 /d/（子音）に直続、未開放 [tə ˈɡɛðɚ̚ ˈdʊɹɪŋ]"
+      ],
+      "kana": "ウィー シュド ステイッ トゥゲザー ドゥーリング ザ レイド"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "stays",
+      "ipa": "/steɪz/",
+      "examples": [
+        {
+          "en": "The water always stays on the ground.",
+          "ja": "水は常に地面にとどまります。",
+          "ipa": "/ðə ˈwɔːtər ˈɔlweɪz ˈsteɪz ɑn ðə ˈɡraʊnd/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。water の /w/（子音）に直続 [ðə ˈwɔːtər] ザ ウォーター",
+            "stays の語末 /z/ が on の初頭 /ɑ/（母音）に連結 [ˈsteɪzɑn] ステイザン",
+            "on の語末 /n/ が the の弱形 /ðə/（母音）に連結 [ɑn ðə] アンザ"
+          ],
+          "kana": "ザ ウォーター オールウェイズ ステイザン ザ グラウンド"
+        },
+        {
+          "en": "The creeper stays visible even in daylight.",
+          "ja": "クリーパーは昼間でも見えたままです。",
+          "ipa": "/ðə ˈkriːpər ˈsteɪz ˈvɪzəbəl ˈiːvən ɪn ˈdeɪlaɪt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。creeper の /kr/（子音）に直続 [ðə ˈkriːpər] ザ クリーパー",
+            "stays の語末 /z/ が visible の初頭 /v/（子音）に直続。/z/ は続く [ˈsteɪz ˈvɪzəbəl] ステイズ ヴィジブル",
+            "in は弱化して /ɪn/ のまま daylight の /d/ に直続 [ɪn ˈdeɪlaɪt] イン デイライト"
+          ],
+          "kana": "ザ クリーパー ステイズ ヴィジブル イーヴン イン デイライト"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "stayed",
+      "ipa": "/steɪd/",
+      "examples": [
+        {
+          "en": "We stayed in the shelter all night during the storm.",
+          "ja": "嵐の間中、避難所に一晩中いました。",
+          "ipa": "/wiː ˈsteɪd ɪn ðə ˈʃɛltər ɔl ˈnaɪt ˈdʊɹɪŋ ðə ˈstɔːrm/",
+          "linking": [
+            "stayed の語末 /d/ が in の初頭 /ɪ/（母音）に連結 [ˈsteɪdɪn] ステイディン",
+            "in の語末 /n/ が the の弱形 /ðə/（母音）に連結 [ɪn ðə] イン ザ",
+            "all の語末 /l/ が night の初頭 /n/（子音）に連結 [ɔl ˈnaɪt] オール ナイト"
+          ],
+          "kana": "ウィー ステイディン ザ シェルター オール ナイト ドゥーリング ザ ストーム"
+        },
+        {
+          "en": "I stayed late to complete the redstone contraption.",
+          "ja": "レッドストーン機械を完成させるために遅くまでいました。",
+          "ipa": "/aɪ ˈsteɪd ˈleɪt tu kəmˈpliːt ðə ˈrɛdˌstoʊn kənˈtræpʃən/",
+          "linking": [
+            "stayed の語末 /d/ が late の初頭 /l/（子音）に直続、/d/ は未開放 [ˈsteɪd̚ ˈleɪt]",
+            "to は機能語で弱形 /tə/ に弱化",
+            "the は冠詞で弱形 /ðə/。redstone の /r/（子音）に直続 [ðə ˈrɛdˌstoʊn] ザ レッドストーン"
+          ],
+          "kana": "アイ ステイ レイト トゥ コムプリート ザ レッドストーン コントラプション"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "stayed",
+      "ipa": "/steɪd/",
+      "examples": [
+        {
+          "en": "Having stayed focused, we mined efficiently all day.",
+          "ja": "集中力を保つことで、一日中効率的に採掘しました。",
+          "ipa": "/ˈhævɪŋ ˈsteɪd ˈfoʊkəst | wi ˈmaɪnd ɪˈfɪʃəntli ɔl ˈdeɪ/",
+          "linking": [
+            "Having の語末 /ŋ/ が stayed の初頭 /s/（子音）に直続、未開放 [ˈhævɪŋ̚ ˈsteɪd]",
+            "stayed の語末 /d/ が focused の初頭 /f/（子音）に直続、未開放 [ˈsteɪd̚ ˈfoʊkəst]",
+            "we の語末 /i/ が mined の初頭 /m/（子音）に連結されない（分けられて発音）"
+          ],
+          "kana": "ハヴィン ステイ フォーカスト、ウィー マインド イフィシェントリ オール デイ"
+        },
+        {
+          "en": "The damage we stayed to observe was significant.",
+          "ja": "観察するために留まったダメージは重大でした。",
+          "ipa": "/ðə ˈdæmɪdʒ wi ˈsteɪd tu əbˈzɝːv wəz ˈsɪɡnɪfɪkənt/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。damage の /d/（子音）に直続 [ðə ˈdæmɪdʒ] ザ ダメージ",
+            "stayed の語末 /d/ が to の初頭 /t/（子音）に直続、未開放 [ˈsteɪd̚ tu]",
+            "to は機能語で弱形 /tə/ に弱化"
+          ],
+          "kana": "ザ ダメージ ウィー ステイ トゥ アブザーヴ ワズ シグニフィカント"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "staying",
+      "ipa": "/ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "Staying alive during a raid is challenging.",
+          "ja": "レイド中に生き残ることは難しいです。",
+          "ipa": "/ˈsteɪɪŋ əˈlaɪv ˈdʊɹɪŋ ə ˈreɪd ɪz ˈtʃælɪndʒɪŋ/",
+          "linking": [
+            "Staying の語末 /ŋ/ が alive の初頭 /ə/（母音）に連結 [ˈsteɪɪŋə] ステイングア",
+            "alive の語末 /v/ が during の初頭 /d/（子音）に直続、未開放 [əˈlaɪv̚ ˈdʊɹɪŋ]",
+            "a は弱形 /ə/ に弱化して raid の初頭に連結 [ə ˈreɪd] ア レイド"
+          ],
+          "kana": "ステイイングア ライブ ドゥーリング ア レイド イズ チャレンジング"
+        },
+        {
+          "en": "I'm staying here until the base is finished.",
+          "ja": "基地が完成するまでここにいます。",
+          "ipa": "/aɪm ˈsteɪɪŋ ˈhɪr ənˈtɪl ðə ˈbeɪs ɪz ˈfɪnɪʃt/",
+          "linking": [
+            "I'm の語末 /m/ が staying の初頭 /s/（子音）に直続、未開放。/m/ は脱落して連結 [aɪm̚ ˈsteɪɪŋ] アイム ステイイング",
+            "staying の語末 /ŋ/ が here の初頭 /h/（子音）に直続。未開放 [ˈsteɪɪŋ̚ ˈhɪr]",
+            "the は冠詞で弱形 /ðə/。base の初頭に連結 [ðə ˈbeɪs] ザ ベース"
+          ],
+          "kana": "アイム ステイイング ヒア アンティル ザ ベース イズ フィニシト"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "stays",
+      "ipa": "/steɪz/",
+      "examples": [
+        {
+          "en": "Our frequent stays at the village helped us master trading.",
+          "ja": "村での頻繁な滞在は、取引をマスターするのに役立ちました。",
+          "ipa": "/ˈaʊɚ ˈfriːkwənt ˈsteɪz æt ðə ˈvɪlɪdʒ ˈhɛlpt əs ˈmæstɚ ˈtreɪdɪŋ/",
+          "linking": [
+            "frequent の語末 /t/ が stays の初頭 /s/（子音）に直続、未開放 [ˈfriːkwənt̚ ˈsteɪz]",
+            "stays の語末 /z/ が at の初頭 /æ/（母音）に連結 [ˈsteɪzæt] ステイザット",
+            "at の語末 /t/ が the の弱形 /ðə/（母音）に連結 [æt ðə] アット ザ",
+            "master の語末 /ɚ/ が trading の初頭 /t/（子音）に直続。未開放 [ˈmæstɚ̚ ˈtreɪdɪŋ]"
+          ],
+          "kana": "アワー フリークウェント ステイザット ザ ヴィレッジ ヘルプト アス マスター トレイディング"
+        },
+        {
+          "en": "The multiple stays at the base made us familiar with every corner.",
+          "ja": "基地での複数回の滞在により、すべての角に精通しました。",
+          "ipa": "/ðə ˈmʌltɪpl̩ ˈsteɪz æt ðə ˈbeɪs ˈmeɪd əs fəˈmɪliɚ wɪð ˈɛvri ˈkɔrnɚ/",
+          "linking": [
+            "The は冠詞で弱形 /ðə/。multiple の /m/（子音）に直続 [ðə ˈmʌltɪpl̩ ˈsteɪz] ザ マルチプル ステイズ",
+            "stays の語末 /z/ が at の初頭 /æ/（母音）に連結 [ˈsteɪzæt] ステイザット",
+            "at の語末 /t/ が the の弱形 /ðə/（母音）に連結 [æt ðə] アット ザ",
+            "base の語末 /s/ が made の初頭 /m/（子音）に直続。未開放 [ˈbeɪs̚ ˈmeɪd]"
+          ],
+          "kana": "ザ マルチプル ステイザット ザ ベース メイド アス ファミリアー ウィズ エブリ コーナー"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is staying",
+      "ipa": "/ɪz ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We are staying inside the base.",
+          "ja": "私たちは基地の中にいます。",
+          "ipa": "/wiː ɑr ˈsteɪɪŋ ɪnˈsaɪd ðə ˈbeɪs/",
+          "linking": [
+            "'are' は弱形 /ɑr/",
+            "'inside the' で 'inside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [ɪnˈsaɪðə] インサイザ"
+          ],
+          "kana": "ウィー アー ステイイング インサイザ ベース"
+        },
+        {
+          "en": "He is staying safe from the mobs.",
+          "ja": "彼はモブから安全にいます。",
+          "ipa": "/hi ɪz ˈsteɪɪŋ ˈseɪf frəm ðə ˈmɑbz/",
+          "linking": [
+            "'is' は弱形 /ɪz/",
+            "'the' は弱形 /ðə/。'mobs' の /m/（子音）に直続"
+          ],
+          "kana": "ヒ イズ ステイイング セイフ フラム ザ モブズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was staying",
+      "ipa": "/wəz ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We were staying beside the campfire.",
+          "ja": "私たちはキャンプファイアのそばにいました。",
+          "ipa": "/wiː wər ˈsteɪɪŋ bɪˈsaɪd ðə ˈkæmpˌfaɪər/",
+          "linking": [
+            "'were' は弱形 /wər/",
+            "'beside the' で 'beside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [bɪˈsaɪðə] ビサイザ"
+          ],
+          "kana": "ウィー ワー ステイイング ビサイザ キャンプファイアー"
+        },
+        {
+          "en": "He was staying quiet during the storm.",
+          "ja": "彼は嵐の間、静かにしていました。",
+          "ipa": "/hi wəz ˈsteɪɪŋ ˈkwaɪət ˈdʊɹɪŋ ðə ˈstɔːrm/",
+          "linking": [
+            "'was' は弱形 /wəz/",
+            "'the' は弱形 /ðə/。'storm' の /s/（子音）に直続"
+          ],
+          "kana": "ヒ ワズ ステイイング クワイエット ドゥーリング ザ ストーム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been staying",
+      "ipa": "/həd bɪn ˈsteɪɪŋ/",
+      "examples": [
+        {
+          "en": "We had been staying together for three days.",
+          "ja": "私たちは3日間一緒にいました。",
+          "ipa": "/wiː həd bɪn ˈsteɪɪŋ təˈɡɛðər fər ˈθriː ˈdeɪz/",
+          "linking": [
+            "'had' は弱形 /həd/。'been' の /b/（子音）に直続、未開放 [həd̚ bɪn]",
+            "'been' は弱形 /bɪn/。'staying' の /s/（子音）に直続、未開放 [bɪn̚ ˈsteɪɪŋ]",
+            "'for' は弱形 /fər/"
+          ],
+          "kana": "ウィー ハド ビン ステイイング タゲザー ファー スリー デイズ"
+        },
+        {
+          "en": "They had been staying inside the fortress before the attack.",
+          "ja": "攻撃の前に、彼らは砦の中にいました。",
+          "ipa": "/ðeɪ həd bɪn ˈsteɪɪŋ ɪnˈsaɪd ðə ˈfɔːrtrəs bɪˈfɔːr ðɪ əˈtæk/",
+          "linking": [
+            "'had' は弱形 /həd/。'been' の /b/（子音）に直続、未開放",
+            "'been' は弱形 /bɪn/。'staying' の /s/（子音）に直続、未開放",
+            "'inside the' で 'inside' 語末 /d/ が 'the' 弱形 /ðə/ に連結 [ɪnˈsaɪðə] インサイザ"
+          ],
+          "kana": "ゼイ ハド ビン ステイイング インサイザ フォートレス ビフォア ザ アタック"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "stay put",
+      "ja": "（その場に）じっとしたままでいる、動かない",
+      "example": "Stay put while I check if it's safe to move.",
+      "example_ja": "動くのが安全かどうか確認している間、ここにいてください。",
+      "ipa": "/ˈsteɪ ˈpʊt waɪl aɪ ˈtʃɛk ɪf ɪts ˈseɪf tu ˈmuːv/",
+      "linking": [
+        "stay の語末 /eɪ/ が put の初頭 /p/（子音）に直続、未開放 [ˈsteɪ̚ ˈpʊt]",
+        "put の語末 /t/ が while の初頭 /w/（子音）に直続、未開放 [ˈpʊt̚ ˈwaɪl]",
+        "to は機能語で弱形 /tə/ に弱化"
+      ],
+      "kana": "ステイ プット ワイル アイ チェック イフ イツ セイフ タ ムーヴ"
+    },
+    {
+      "idiom": "stay in touch",
+      "ja": "（連絡を）保ち続ける、つながったままでいる",
+      "example": "Let's stay in touch when the season ends.",
+      "example_ja": "シーズンが終わったら連絡を保ちましょう。",
+      "ipa": "/ˈsteɪ ɪn ˈtʌtʃ wɛn ðə ˈsiːzən ˈɛndz/",
+      "linking": [
+        "stay の語末 /eɪ/ が in の初頭 /ɪ/（母音）に連結 [ˈsteɪɪn] ステイイン",
+        "in の語末 /n/ が touch の初頭 /t/（子音）に直続、未開放 [ɪn̚ ˈtʌtʃ]",
+        "the は冠詞で弱形 /ðə/。season の初頭に連結 [ðə ˈsiːzən] ザ シーズン"
+      ],
+      "kana": "ステイイン タッチ ウェン ザ シーズン エンズ"
+    },
+    {
+      "idiom": "stay with 〜",
+      "ja": "〜の家に泊まる",
+      "example": "I want to stay with my teammates during the night so we can defend our base together.",
+      "example_ja": "基地を一緒に守れるように、夜間はチームメイトの家に泊まりたい。",
+      "ipa": "/aɪ ˈwɑnt tu ˈsteɪ wɪð maɪ ˈtimˌmeɪts ˈdʊɹɪŋ ðə ˈnaɪt soʊ wi kən dɪˈfɛnd ˈaʊɚ ˈbeɪs təˈɡɛðɚ/",
+      "linking": [
+        "want to → want の語末子音 /t/ が to の初頭 /t/ に直続（未開放）、to は機能語で弱形 /tə/ に弱化 [ˈwɑnt tə]",
+        "stay with → stay の語末 /eɪ/（母音）が with の初頭 /w/（子音）に直続 [ˈsteɪ wɪð] ステイ ウィズ",
+        "during the → during の語末 /ŋ/ が the の弱形 /ðə/（母音）に連結 [ˈdʊɹɪŋ ðə] ドゥーリング ザ",
+        "defend our → defend の語末 /d/（子音）が our の初頭 /aʊ/（母音）に連結 [dɪˈfɛnd ˈaʊɚ] ディフェンド アワー"
+      ],
+      "kana": "アイ ウォント タ ステイ ウィズ マイ ティームメイツ ドゥーリング ザ ナイト ソウ ウィー カン ディフェンド アワー ベース トゥゲザー"
+    },
+    {
+      "idiom": "stay home",
+      "ja": "家にいる",
+      "example": "I need to stay home to craft new tools for tomorrow's mining.",
+      "example_ja": "明日の採掘用に新しいツールを作るために家にいなければならない。",
+      "ipa": "/aɪ ˈniːd tə ˈsteɪ hoʊm tu ˈkræft njuː ˈtuːlz fər təˈmɑroʊz ˈmaɪnɪŋ/",
+      "linking": [
+        "need to → need の語末子音 /d/ が to の初頭 /t/ に直続（未開放）。to は機能語で弱形 /tə/ に弱化 [ˈniːd tə] ニード タ",
+        "stay home → stay の語末 /eɪ/（母音）が home の初頭 /h/（摩擦音）に直続。連結は起きない [ˈsteɪ hoʊm] ステイ ホーム",
+        "to craft → to は機能語で弱形 /tə/、craft の /k/ に直続（未開放） [tə ˈkræft] タ クラフト",
+        "for tomorrow's → for は弱形 /fər/、tomorrow's の /t/ に直続（未開放） [fər təˈmɑroʊz] ファー タマロウズ"
+      ],
+      "kana": "アイ ニード タ ステイ ホーム トゥ クラフト ニュー トゥールズ ファー タマロウズ マイニング"
+    },
+    {
+      "idiom": "stay up",
+      "ja": "起きている、寝ないでいる",
+      "example": "I'll stay up all night mining for diamonds.",
+      "example_ja": "ダイヤモンドを採掘するために一晩中起きています。",
+      "ipa": "/aɪl ˈsteɪ ʌp ɔl ˈnaɪt ˈmaɪnɪŋ fər ˈdaɪəmənds/",
+      "linking": [
+        "I'll stay: I'll の語末子音 /l/ が stay の初頭 /s/（子音）に直続、未開放 [aɪl̚ ˈsteɪ]",
+        "stay up: stay の語末 /eɪ/ が up の初頭 /ʌ/（母音）に連結 [ˈsteɪʌp]",
+        "up all: up の語末子音 /p/ が all の初頭 /ɔ/（母音）に連結 [ʌp ˈɔl]",
+        "for は機能語で弱形 /fər/"
+      ],
+      "kana": "アイル ステイアップ オール ナイト マイニング ファー ダイアモンズ"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "word": "embed",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɪmˈbɛd/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "embed(?:s|ded|ding)?",
+  "meanings": [
+    "【動詞】（物を）～に埋め込む、深く挿入する（例：embed diamonds in stone）",
+    "【動詞】（情報やシステムを）～に組み込む、統合する（例：embed redstone circuits）",
+    "【動詞】（人が）～に深く根づく、定着する（例：embed yourself in the community）"
+  ],
+  "examples": [
+    {
+      "en": "I need to embed these diamonds deeper into the mountainside to protect them.",
+      "ja": "それらのダイヤモンドを山腹にもっと深く埋め込む必要があります。",
+      "ipa": "/aɪ ˈniːdə ɪmˈbɛd ðiːz ˈdaɪəmændz ˈdiːpər ɪnˈtuðə ˈmaʊntənˌsaɪd tə prəˈtɛk̚ðɛm/",
+      "linking": [
+        "need to：語末の /d/ が弱形 to /tə/ に連結 [ˈniːdə] ニーダ",
+        "to embed：弱形 to /tə/ が embed の /ɪ/ に連結 [təɪmˈbɛd] タイムベッド",
+        "into the：into の /u/ と the の /ð/ が語間。the は弱形 /ðə/ [ɪnˈtuðə] インテュー ザ",
+        "protect them：protect 末の /t/ が them の /ð/ に未開放 [t̚ðɛm] プロテッ ザム"
+      ],
+      "kana": "アイ ニーダ イムベッド ディーズ ダイアマンズ ディーパー インテュー ダ マウンテンサイド ター プロテッ ザム"
+    },
+    {
+      "en": "We embedded a hidden treasure chest inside the pyramid structure.",
+      "ja": "ピラミッド構造の内部に隠された宝箱を埋め込みました。",
+      "ipa": "/wi ɪmˈbɛdəd ə ˈhɪdən ˈtrɛʒər tʃɛst ɪnˈsaɪðə ðə ˈpɪrəˌmɪd ˈstrʌktʃər/",
+      "linking": [
+        "We embedded：We の /i/ が embedded の /ɪ/ に語間で続く [wɪmˈbɛdəd] ウィ イムベディド",
+        "a hidden：弱形 a /ə/ が hidden の /h/ に連結 [əˈhɪdən] アヒドゥン",
+        "inside the：inside の末 /d/ が the の弱形 /ðə/ に連結 [saɪðə] サイザ",
+        "pyramid structure：pyramid の末 /d/ と structure の /s/ が語間"
+      ],
+      "kana": "ウィ イムベディド アヒドゥン トレジャー チェスト インサイザ ザ ピラミッド ストラクチャー"
+    },
+    {
+      "en": "Players are embedding custom commands in command blocks to automate the farm.",
+      "ja": "プレイヤーたちはコマンドブロックにカスタムコマンドを埋め込んで農場を自動化しています。",
+      "ipa": "/ˈpleɪərz ər ɛmˈbɛdɪŋ ˈkʌstəm kəˈmændz ɪn kəˈmænd blɑks tu ˌɔtəˌmeɪt ðə fɑrm/",
+      "linking": [
+        "Players are：Players の /z/ が are に語間。are は弱形 /ər/ [ˈpleɪərz ə] プレイヤーズ ア",
+        "are embedding：弱形 are /ə/ が embedding の /ɪ/ に連結 [ərɪmˈbɛdɪŋ] アイムベディング",
+        "in command：in の末 /n/ が command の /k/ に語間で続く",
+        "the farm：the は弱形 /ðə/。farm で文が終わる"
+      ],
+      "kana": "プレイヤーズ ア エムベディング カスタム カマンズ イン カマンド ブロックス トゥ オートメイト ザ ファーム"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "embed itself",
+      "ja": "～に埋まり込む、～に根づく",
+      "example": "The zombie somehow managed to embed itself in the wall.",
+      "example_ja": "ゾンビがどういうわけか壁に埋まり込んでしまいました。",
+      "ipa": "/ðə ˈzoʊmbi ˈsʌmhaʊ ˈmænɪdʒd tu ɪmˈbɛd ɪtˈsɛlf ɪn ðə wɔl/",
+      "linking": [
+        "zombie managed：zombie の末 /i/ が managed の /m/ に語間で続く",
+        "to embed：弱形 to /tə/ が embed の /ɪ/ に連結 [təɪmˈbɛd] タイムベッド",
+        "itself in：itself の末 /f/ が in の /ɪ/ に連結 [fɪn] フィン",
+        "the wall：the は弱形 /ðə/。wall で終わる"
+      ],
+      "kana": "ザ ゾンビ サムハウ マネイジド トゥ イムベッド イッセルフ イン ザ ウォール"
+    },
+    {
+      "idiom": "deeply embedded",
+      "ja": "深く埋め込まれた、深く根づいた",
+      "example": "The diamonds are deeply embedded in the ore vein.",
+      "example_ja": "ダイヤモンドは鉱石の脈に深く埋め込まれています。",
+      "ipa": "/ðə ˈdaɪəmændz ɑr ˈdiːpli ɪmˈbɛdəd ɪn ðə ˈɔr veɪn/",
+      "linking": [
+        "diamonds are：diamonds の末 /z/ が are の /ɑ/ に語間で続く。are は弱形 /ər/ [ˈdaɪəmændz ə] ダイアマンズ ア",
+        "deeply embedded：deeply の末 /i/ が embedded の /ɪ/ に語間で続く [ˈdiːpli ɪmˈbɛdəd] ディープリー イムベディド",
+        "in the：in の末 /n/ が the の弱形 /ðə/ に語間。実質 [ɪn ðə] イン ザ",
+        "ore vein：vein で終わる。末 /n/"
+      ],
+      "kana": "ザ ダイアマンズ ア ディープリー イムベディド イン ザ オア ベイン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "embeds",
+      "ipa": "/ɪmˈbɛdz/",
+      "examples": [
+        {
+          "en": "The command block embeds the redstone signal deep within the stone platform.",
+          "ja": "コマンドブロックはレッドストーン信号を石のプラットフォームの奥深くに埋め込みます。",
+          "ipa": "/ðə ˈkɑmænd blɑk ɪmˈbɛdz ðə ˈɹɛdstoʊn ˈsɪɡnəl ˈdip wɪðˈɪn ðə stoʊn ˈplætfɔɹm/",
+          "kana": "ザ コマンド ブロック イムベッズ ザ レッドストウン シグナル ディープ ウィジン ザ ストウン プラットフォーム",
+          "linking": [
+            "command block：block の /k/ が embeds の /ɪ/ に語間で続く",
+            "embeds the：語末の /z/ が the の弱形 /ðə/ に連結 [ɪmˈbɛdz ðə] イムベッズ ザ",
+            "within the：within の語末 /n/ が the の弱形 /ðə/ に語間 [wɪðˈɪn ðə] ウィジン ザ",
+            "stone platform：語末 /n/ が /p/ に語間で続く"
+          ]
+        },
+        {
+          "en": "Each layer embeds decorative ore blocks within the mountainside safely.",
+          "ja": "各レイヤーは装飾的な鉱石ブロックを山腹内に安全に埋め込みます。",
+          "ipa": "/itʃ ˈleɪɹ ɪmˈbɛdz ˈdɛkəreɪtɪv ˈɔɹ blɑks wɪðˈɪn ðə ˈmaʊntənˌsaɪd ˈseɪfli/",
+          "kana": "イーチ レイヤー イムベッズ デコレイティブ オア ブロックス ウィジン ザ マウンテンサイド セイフリー",
+          "linking": [
+            "layer embeds：layer の /ɹ/ が embeds の /ɪ/ に連結 [ˈleɪɹ ɪmˈbɛdz] レイヤー イムベッズ",
+            "embeds decorative：語末 /z/ が /d/ に語間で続く",
+            "ore blocks：ore の /ɹ/ が blocks の /b/ に語間で続く",
+            "within the：within の語末 /n/ が the の弱形 /ðə/ に語間 [wɪðˈɪn ðə] ウィジン ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "embedded",
+      "ipa": "/ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "The builders embedded valuable diamonds deep inside the pyramid walls.",
+          "ja": "ビルダーたちはピラミッドの壁の奥深くに貴重なダイヤモンドを埋め込みました。",
+          "ipa": "/ðə ˈbɪldɚz ɪmˈbɛdəd ˈvæljuəbəl ˈdaɪəmændz ˈdip ɪnˈsaɪd ðə ˈpɪɹəmɪd wɔlz/",
+          "kana": "ザ ビルダーズ イムベディド ヴァリュアブル ダイアマンズ ディープ インサイド ザ ピラミッド ウォールズ",
+          "linking": [
+            "builders embedded：builders の /z/ が embedded の /ɪ/ に連結 [ˈbɪldɚz ɪmˈbɛdəd] ビルダーズ イムベディド",
+            "embedded valuable：語末 /d/ が /v/ に語間で続く",
+            "inside the：inside の語末 /d/ が the の弱形 /ðə/ に連結 [ɪnˈsaɪd ðə] インサイド ザ",
+            "pyramid walls：pyramid の語末 /d/ が walls の /w/ に語間で続く"
+          ]
+        },
+        {
+          "en": "We embedded secret passages throughout the entire castle structure.",
+          "ja": "私たちは城全体を通して隠された通路を埋め込みました。",
+          "ipa": "/wi ɪmˈbɛdəd ˈsikɹət ˈpæsɪdʒəz θɹuˈaʊt ðə ənˈtaɪɹ ˈkæsəl ˈstrʌktʃɚ/",
+          "kana": "ウィー イムベディド シークレット パッセージズ スルーアウト ザ エンタイアー キャッスル ストラクチャー",
+          "linking": [
+            "We embedded：We の /i/ が embedded の /ɪ/ に語間で続く [wi ɪmˈbɛdəd] ウィー イムベディド",
+            "embedded secret：語末 /d/ が /s/ に語間で続く",
+            "throughout the：throughout の語末 /t/ が the の弱形 /ðə/ に語間 [θɹuˈaʊt ðə] スルーアウト ザ",
+            "the entire：the は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "embedded",
+      "ipa": "/ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "Having embedded the circuits securely, the redstone device began operating without fail.",
+          "ja": "回路をしっかり埋め込んだので、レッドストーン装置は故障なく動作し始めました。",
+          "ipa": "/ˈhævɪŋ ɪmˈbɛdəd ðə ˈsɚkɪts sɪˈkjuɹli ðə ˈɹɛdstoʊn dɪˈvaɪs bɪˈɡæn ˈɑpəreɪtɪŋ wɪðˈaʊt ˈfeɪl/",
+          "kana": "ハービング イムベディド ザ サーキッツ シキュアリー ザ レッドストウン ディバイス ビガン オペレイティング ウィザウト フェイル",
+          "linking": [
+            "Having embedded：Having の /ŋ/ が embedded の /ɪ/ に連結 [ˈhævɪŋ ɪmˈbɛdəd] ハービング イムベディド",
+            "embedded the：語末 /d/ が the の弱形 /ðə/ に連結 [ɪmˈbɛdəd ðə] イムベディド ザ",
+            "securely the：securely の /i/ が the の弱形 /ðə/ に語間",
+            "without fail：without の語末 /t/ が fail の /f/ に語間で続く"
+          ]
+        },
+        {
+          "en": "The hidden structures that they embedded in the bedrock remain untouched after years.",
+          "ja": "彼らが基岩に埋め込んだ隠された構造物は何年経っても変わらないままです。",
+          "ipa": "/ðə ˈhɪdən ˈstrʌktʃɚz ðæt ðeɪ ɪmˈbɛdəd ɪn ðə ˈbɛdɹɑk rɪˈmeɪn ʌnˈtʌtʃt ˈæftɚ jɪɹz/",
+          "kana": "ザ ヒドゥン ストラクチャーズ ザット ザイ イムベディド イン ザ ベッドロック リメイン アンタッチド アフター イヤーズ",
+          "linking": [
+            "structures that：structures の /z/ が that の /ð/ に語間で続く",
+            "that they：that の語末 /t/ が they の /ð/ に未開放 [ðæt̚ ðeɪ] ザット ザイ",
+            "they embedded：they の /eɪ/ が embedded の /ɪ/ に語間で続く [ðeɪ ɪmˈbɛdəd] ザイ イムベディド",
+            "in the：in の /n/ が the の弱形 /ðə/ に語間 [ɪn ðə] イン ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "embedding",
+      "ipa": "/ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "Embedding the redstone circuits requires careful planning and precise timing from the engineer.",
+          "ja": "レッドストーン回路を埋め込むには、エンジニアから慎重な計画と正確なタイミングが必要です。",
+          "ipa": "/ɪmˈbɛdɪŋ ðə ˈɹɛdstoʊn ˈsɚkɪts rɪˈkwaɪɚz ˈkɛɹfəl ˈplænɪŋ ən prɪˈsaɪs ˈtaɪmɪŋ frəm ðə ˌɛndʒɪˈnɪɹ/",
+          "kana": "イムベディング ザ レッドストウン サーキッツ リクワイアーズ ケアフル プラニング アンド プリサイス タイミング フラム ザ エンジニアー",
+          "linking": [
+            "Embedding the：語末 /ŋ/ が the の弱形 /ðə/ に連結 [ɪmˈbɛdɪŋ ðə] イムベディング ザ",
+            "circuits requires：circuits の語末 /s/ が requires の /r/ に語間で続く",
+            "and precise：and は弱形 /ən/「アンド」に弱化",
+            "from the：from は弱形 /frəm/「フラム」に弱化。the は /ðə/「ザ」"
+          ]
+        },
+        {
+          "en": "Players are embedding decorative ore blocks to make their mining tunnels more visually appealing.",
+          "ja": "プレイヤーたちはマイニング坑道をより見た目を良くするために、装飾的な鉱石ブロックを埋め込んでいます。",
+          "ipa": "/ˈpleɪɚz ɑɹ ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɔɹ blɑks tu meɪk ðɛɹ ˈmaɪnɪŋ ˈtʌnəlz mɔɹ ˈvɪʒuəli əˈpilɪŋ/",
+          "kana": "プレイヤーズ アー イムベディング デコレイティブ オア ブロックス トゥー メイク ゼア マイニング タネルズ モア ビジュアリー アピーリング",
+          "linking": [
+            "Players are：Players の /z/ が are の弱形 /ɑɹ/ や /ə/ に連結 [ˈpleɪɚz ɑɹ] プレイヤーズ アー",
+            "are embedding：are の弱形 /ə/ が embedding の /ɪ/ に連結 [ɑɹ ɪmˈbɛdɪŋ] アー イムベディング",
+            "embedding decorative：語末 /ŋ/ が /d/ に語間で続く",
+            "to make：to は弱形 /tə/「トゥー」に弱化。their の弱形 /ðɛɹ/「ゼア」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has embedded",
+      "ipa": "/həz ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "The builder has embedded rare gemstones deep into the cave walls for protection.",
+          "ja": "ビルダーは保護のためにケイブの壁に稀なジェムストーンを深く埋め込みました。",
+          "ipa": "/ðə ˈbɪldər həz ɪmˈbɛdəd ˈrɛr ˈdʒɛmstoʊnz ˈdip ˈɪntu ðə ˈkeɪv wɔlz fɔr prəˈtɛkʃən/",
+          "kana": "ザ ビルダー ハズ イムベディド レア ジェムストウンズ ディープ イントゥ ザ ケイブ ウォールズ フォア プロテクション",
+          "linking": [
+            "has の末 /z/ が embedded の /ɪ/ に連結 [həz ɪm...] ハズ イム...",
+            "deep into：deep の末 /p/ が into の /ɪ/ に連結 [ˈdiːp ˈɪntu] ディープ イントゥ",
+            "the cave：the は弱形 /ðə/。cave は /k/ で始まり語間で続く"
+          ]
+        },
+        {
+          "en": "We have embedded a network of tunnels connecting all the mining operations throughout the complex.",
+          "ja": "私たちは複合体全体のすべてのマイニング操作を接続するトンネルネットワークを埋め込みました。",
+          "ipa": "/wi həv ɪmˈbɛdəd ə ˈnɛtˌwɚk əv ˈtʌnəlz kəˈnɛktɪŋ ɔl ðə ˈmaɪnɪŋ ˌɑpəˈreɪʃənz θɹuˈaʊt ðə kəmˈplɛks/",
+          "kana": "ウィ ハヴ イムベディド ア ネットワーク アヴ タネルズ カネクティング オール ザ マイニング オパレイションズ スルーアウト ザ コムプレックス",
+          "linking": [
+            "have の末 /v/ が embedded の /ɪ/ に連結 [həv ɪm...] ハヴ イム...",
+            "network の末 /k/ が of の弱形 /əv/ に連結 [ˈnɛtˌwɚk əv] ネットワーク アヴ",
+            "mining の末 /ŋ/ が operations の /ɑ/ に連結 [ˈmaɪnɪŋ ˌɑpə...] マイニング オパ..."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had embedded",
+      "ipa": "/həd ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "After the architects had embedded the foundation blocks securely, the fortress construction proceeded without any issues.",
+          "ja": "建築家たちが基礎ブロックを確実に埋め込んだ後、要塞の建設は問題なく進みました。",
+          "ipa": "/ˈæftər ðə ɑrˈkɪtɛkts həd ɪmˈbɛdəd ðə ˌfaʊnˈdeɪʃən blɑks sɪˈkjuɹli ðə ˈfɔɹtɹɪs kənˈstrʌkʃən prəˈsidəd wɪðˈaʊt ˈɛni ˈɪʃuːz/",
+          "kana": "アフター ザ アーキテクツ ハド イムベディド ザ ファウンデイション ブロックス シキュアリー ザ フォートレス コンストラクション プロシーデッド ウィザウト エニー イシューズ",
+          "linking": [
+            "architects の末 /s/ が had の弱形 /əd/ に連結 [ɑrˈkɪtɛkts həd] アーキテクツ ハド",
+            "had の末 /d/ が embedded の /ɪ/ に連結 [həd ɪm...] ハド イム...",
+            "foundation blocks：blocks の末 /s/ が securely の /s/ に語間で続く"
+          ]
+        },
+        {
+          "en": "Once the miners had embedded all the iron ore veins into the central storage, they could finally focus on exploring the deeper caves.",
+          "ja": "鉱夫たちが鉄鉱石脈をすべて中央ストレージに埋め込んだら、彼らはついにより深いケイブを探索することに集中できました。",
+          "ipa": "/wʌns ðə ˈmaɪnɚz həd ɪmˈbɛdəd ɔl ðə ˈaɪɹən ˈɔr veɪnz ˈɪntu ðə ˈsɛntrəl ˈstɔɹɪdʒ ðeɪ ˈkʊd ˈfaɪnəli ˈfoʊkəs ɑn ɪkˈsplɔɹɪŋ ðə ˈdɪpər keɪvz/",
+          "kana": "ワンス ザ マイナーズ ハド イムベディド オール ザ アイアン オア ベインズ イントゥ ザ セントラル ストレイジ ザイ クド ファイナリー フォーカス オン エクスプローリング ザ ディパー ケイブズ",
+          "linking": [
+            "miners の末 /z/ が had の弱形 /əd/ に連結 [ˈmaɪnɚz həd] マイナーズ ハド",
+            "had の末 /d/ が embedded の /ɪ/ に連結 [həd ɪm...] ハド イム...",
+            "ore veins：ore の末 /ɹ/ が veins の /v/ に語間で続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been embedding",
+      "ipa": "/həz bɪn ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The engineering team has been embedding complex redstone mechanisms into the automation system for several weeks now.",
+          "ja": "エンジニアリングチームは数週間、複雑なレッドストーンメカニズムを自動化システムに埋め込み続けています。",
+          "ipa": "/ðə ˌɛndʒɪˈnɪɹɪŋ tim həz bɪn ɪmˈbɛdɪŋ kəmˈplɛks ˈɹɛdstoʊn ˌmɛkəˈnɪzəmz ˈɪntu ðə ˌɔtəˌmeɪʃən ˈsɪstəm fɔr ˈsɛvərəl wiks naʊ/",
+          "kana": "ザ エンジニアリング ティーム ハズ ビン イムベディング コムプレックス レッドストウン メカニズムズ イントゥ ザ オートメイション システム フォア セバラル ウィークス ナウ",
+          "linking": [
+            "has の末 /z/ が been の弱形 /ɪn/ に連結 [həz bɪn] ハズ ビン",
+            "been の末 /n/ が embedding の /ɪ/ に連結 [bɪn ɪm...] ビン イム...",
+            "for several：several の末 /l/ が weeks の /w/ に語間で続く"
+          ]
+        },
+        {
+          "en": "Players have been embedding decorative blocks throughout the mining complex to make it increasingly more visually stunning.",
+          "ja": "プレイヤーたちはマイニング複合体全体にわたり、装飾ブロックを埋め込み続けて、ますます視覚的に素晴らしくしています。",
+          "ipa": "/ˈpleɪɚz həv bɪn ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv blɑks θɹuˈaʊt ðə ˈmaɪnɪŋ kəmˈplɛks tə meɪk ɪt ɪnˈkrisɪŋli mɔr ˈvɪʒuəli ˈstʌnɪŋ/",
+          "kana": "プレイヤーズ ハヴ ビン イムベディング デコレイティブ ブロックス スルーアウト ザ マイニング コムプレックス ト メイク イット インクリーシングリー モア ビジュアリー スタニング",
+          "linking": [
+            "have の末 /v/ が been の弱形 /ɪn/ に連結 [həv bɪn] ハヴ ビン",
+            "been の末 /n/ が embedding の /ɪ/ に連結 [bɪn ɪm...] ビン イム...",
+            "complex to：complex の末 /s/ が to の弱形 /tə/ に語間で続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will embed",
+      "ipa": "/wɪl ɪmˈbɛd/",
+      "examples": [
+        {
+          "en": "I will embed these diamonds deep into the bedrock layer to protect them safely.",
+          "ja": "これらのダイヤモンドを基岩層に深く埋め込んで安全に保護します。",
+          "ipa": "/aɪl ɪmˈbɛd ðiːz ˈdaɪəmændz ˈdip ˈɪntu ðə ˈbɛdɹɑk ˈleɪər tə prəˈtɛkt ðɛm ˈseɪfli/",
+          "kana": "アイル イムベッド ディーズ ダイアマンズ ディープ インテュー ザ ベッドロック レイヤー トゥ プロテッ ザム セイフリー",
+          "linking": [
+            "I will：I の /aɪ/ が will の /w/ に連結。I'll と縮約 [aɪl] アイル",
+            "will embed：will の末の /l/ が embed の /ɪ/ に連結 [wɪl ɪmˈbɛd] ウィル イムベッド",
+            "into the：into の /u/ が the の弱形 /ðə/ に語間で続く [ˈɪntu ðə] インテュー ザ",
+            "protect them：protect の末 /t/ が them の /ð/ に未開放 [t̚ðɛm] プロテッ ザム"
+          ]
+        },
+        {
+          "en": "They will embed the secret redstone circuits throughout the fortress walls by tomorrow.",
+          "ja": "彼らは明日までに秘密のレッドストーン回路を要塞の壁全体に埋め込みます。",
+          "ipa": "/ðeɪl ɪmˈbɛd ðə ˈsikɹət ˈɹɛdstoʊn ˈsɚkɪts θɹuˈaʊt ðə ˈfɔɹtɹəs wɔlz baɪ təˈmɑɹoʊ/",
+          "kana": "ザイル イムベッド ザ シークレット レッドストウン サーキッツ スルーアウト ザ フォートレス ウォールズ バイ トゥモロー",
+          "linking": [
+            "They will：They の /eɪ/ が will に連結。they'll と縮約 [ðeɪl] ザイル",
+            "will embed：will の末の /l/ が embed の /ɪ/ に連結 [wɪl ɪmˈbɛd] ウィル イムベッド",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [t̚ðə] スルーアウッ ザ",
+            "fortress walls：fortress の末 /s/ が walls の /w/ に語間で続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be embedding",
+      "ipa": "/wɪl bi ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The construction crew will be embedding decorative ore blocks throughout the monument all next week.",
+          "ja": "建設クルーは来週1週間かけて、記念碑全体に装飾的な鉱石ブロックを埋め込んでいくでしょう。",
+          "ipa": "/ðə kənˈstɹʌkʃən kɹu wɪl bi ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɔɹ blɑks θɹuˈaʊt ðə ˈmɑnjumənt ɔl nɛks̬ wik/",
+          "kana": "ザ コンストラクション クルー ウィル ビー イムベディング デコレイティブ オア ブロックス スルーアウト ザ モニュメント オール ネックス ウィーク",
+          "linking": [
+            "crew will：crew の /u/ が will の /w/ に連結 [kɹu wɪl] クルー ウィル",
+            "will be：will の末 /l/ が be の /b/ に未開放 [l̚b] ウィル ビー",
+            "be embedding：be の弱形 /bi/ が embedding の /ɪ/ に連結 [bi ɪmˈbɛdɪŋ] ビー イムベディング",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [t̚ðə] スルーアウッ ザ"
+          ]
+        },
+        {
+          "en": "We'll be embedding treasures in hidden chests during the entire month-long event.",
+          "ja": "1ヶ月間のイベント中、隠れた宝箱に宝物を埋め込んでいくでしょう。",
+          "ipa": "/wil bi ɪmˈbɛdɪŋ ˈtɹɛʒɚz ɪn ˈhɪdən tʃɛsts ˈduːɹɪŋ ðə ɪnˈtaɪɹ ˈmʌnθ lɔŋ ɪˈvɛnt/",
+          "kana": "ウィル ビー イムベディング トレジャーズ イン ヒドゥン チェスツ ドゥーリング ザ エンタイアー マンス ロング イベント",
+          "linking": [
+            "We'll be：We の /i/ が will に連結。we'll と縮約、末の /l/ が be の /b/ に未開放 [wɪl̚bi] ウィル ビー",
+            "be embedding：be の弱形 /bi/ が embedding の /ɪ/ に連結 [bi ɪmˈbɛdɪŋ] ビー イムベディング",
+            "in hidden：in の /n/ が hidden の /h/ に語間で続く",
+            "during the：during の末 /ŋ/ が the の弱形 /ðə/ に連結 [ˈduːɹɪŋ ðə] ドゥーリング ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have embedded",
+      "ipa": "/wɪl həv ɪmˈbɛdəd/",
+      "examples": [
+        {
+          "en": "By the end of the season, we will have embedded dozens of secret passages throughout the entire base.",
+          "ja": "シーズン終了までに、ベース全体に数十の秘密の通路を埋め込んでいるでしょう。",
+          "ipa": "/baɪ ðə ɛnd əv ðə ˈsizən wi wɪl həv ɪmˈbɛdəd ˈdʌzənz əv ˈsikɹət ˈpæsɪdʒəz θɹuˈaʊt ðə ənˈtaɪɹ beɪs/",
+          "kana": "バイ ザ エンド アヴ ザ シーズン ウィ ウィル ハヴ イムベディド ダズンズ アヴ シークレット パッセージズ スルーアウト ザ エンタイアー ベイス",
+          "linking": [
+            "end of：end の末 /d/ が of の弱形 /əv/ に連結 [ɛnd əv] エンド アヴ",
+            "of the：of の弱形 /əv/ が the の弱形 /ðə/ に語間で続く [əv ðə] アヴ ザ",
+            "will have：will の末 /l/ が have の弱形 /həv/ に語間で続く [wɪl həv] ウィル ハヴ",
+            "have embedded：have の弱形 /həv/ が embedded の /ɪ/ に連結 [həv ɪmˈbɛdəd] ハヴ イムベディド"
+          ]
+        },
+        {
+          "en": "By next month, you will have embedded all the decorative elements in your palace structure.",
+          "ja": "来月までに、宮殿の構造にすべての装飾要素を埋め込んでいるでしょう。",
+          "ipa": "/baɪ nɛks̬ ˈmʌnθ ju wɪl həv ɪmˈbɛdəd ɔl ðə ˈdɛkəreɪtɪv ˈɛləmənts ɪn jɔɹ pəˈlɛs ˈstrʌktʃɚ/",
+          "kana": "バイ ネックス マンス ユー ウィル ハヴ イムベディド オール ザ デコレイティブ エレメンツ イン ユア パレス ストラクチャー",
+          "linking": [
+            "next month：month の末 /θ/ が you の /j/ に語間で続く",
+            "you will：you の末 /u/ が will の /w/ に連結 [ju wɪl] ユー ウィル",
+            "will have：will の末 /l/ が have の弱形 /həv/ に語間で続く [wɪl həv] ウィル ハヴ",
+            "have embedded：have の弱形 /həv/ が embedded の /ɪ/ に連結 [həv ɪmˈbɛdəd] ハヴ イムベディド"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is embedding",
+      "ipa": "/ɪz ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The miners are embedding precious ore blocks within the cave wall structure.",
+          "ja": "鉱夫たちはケイブの壁の構造内に貴重な鉱石ブロックを埋め込んでいます。",
+          "ipa": "/ðə ˈmaɪnɚz ɑr ɪmˈbɛdɪŋ ˈprɛʃəs ˈɔr blɑks wɪðˈɪn ðə ˈkeɪv wɔl ˈstrʌktʃɚ/",
+          "kana": "ザ マイナーズ アー イムベディング プレシャス オア ブロックス ウィジン ザ ケイブ ウォール ストラクチャー",
+          "linking": [
+            "miners are：miners の /z/ が are の弱形 /ɑr/ に連結 [ˈmaɪnɚz ɑr] マイナーズ アー",
+            "are embedding：are の /ɑr/ が embedding の /ɪ/ に連結 [ɑr ɪmˈbɛdɪŋ] アー イムベディング",
+            "within the：within の /n/ が the の弱形 /ðə/ に語間 [wɪðˈɪn ðə] ウィジン ザ",
+            "cave wall：wall で終わる"
+          ]
+        },
+        {
+          "en": "She is embedding decorative elements in her fortress while building it.",
+          "ja": "彼女は要塞を建設しながら、装飾要素を埋め込んでいます。",
+          "ipa": "/ʃi ɪz ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɛləmənts ɪn hɚ ˈfɔɹtɹəs waɪl ˈbɪldɪŋ ɪt/",
+          "kana": "シー イズ イムベディング デコレイティブ エレメンツ イン ハー フォートレス ホワイル ビルディング イット",
+          "linking": [
+            "She is：She の /i/ が is の /ɪz/ に連結 [ʃi ɪz] シー イズ",
+            "is embedding：is の /z/ が embedding の /ɪ/ に連結 [ɪz ɪmˈbɛdɪŋ] イズ イムベディング",
+            "in her：in の /n/ が her の /h/ に連結。her は弱形 /hɚ/ [ɪn hɚ] イン ハー",
+            "while building：while の末 /l/ が building の /b/ に未開放 [waɪl̚ ˈbɪldɪŋ] ホワイル ビルディング"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was embedding",
+      "ipa": "/wəz ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The team was embedding treasure chests when they encountered the hostile mob.",
+          "ja": "チームが敵対的なモブに遭遇したとき、宝箱を埋め込んでいました。",
+          "ipa": "/ðə tim wəz ɪmˈbɛdɪŋ ˈtrɛʒɚ tʃɛsts wɛn ðeɪ ɪnˈkaʊntərd ðə ˈhɑstəl mɑb/",
+          "kana": "ザ ティーム ワズ イムベディング トレジャー チェスツ ウェン ザイ インカウンタード ザ ハスタル モブ",
+          "linking": [
+            "team was：team の末 /m/ が was の弱形 /wəz/ に語間で続く [tim wəz] ティーム ワズ",
+            "was embedding：was の /z/ が embedding の /ɪ/ に連結 [wəz ɪmˈbɛdɪŋ] ワズ イムベディング",
+            "when they：when の末 /n/ が they の /ð/ に未開放 [wɛn̚ ðeɪ] ウェン ザイ",
+            "the hostile：the は弱形 /ðə/ [ðə ˈhɑstəl] ザ ハスタル"
+          ]
+        },
+        {
+          "en": "I was embedding decorative ore when the server crashed unexpectedly.",
+          "ja": "サーバーが予期せず落ちた時、装飾用鉱石を埋め込んでいました。",
+          "ipa": "/aɪ wəz ɪmˈbɛdɪŋ ˈdɛkəreɪtɪv ˈɔr wɛn ðə ˈsɚvɚ kɹæʃt ʌnɪkˈspɛktɪdli/",
+          "kana": "アイ ワズ イムベディング デコレイティブ オア ウェン ザ サーバー クラッシュト アンイクスペクティドリー",
+          "linking": [
+            "I was：I の /aɪ/ が was の弱形 /wəz/ に連結 [aɪ wəz] アイ ワズ",
+            "was embedding：was の /z/ が embedding の /ɪ/ に連結 [wəz ɪmˈbɛdɪŋ] ワズ イムベディング",
+            "when the：when の末 /n/ が the の弱形 /ðə/ に語間 [wɛn ðə] ウェン ザ",
+            "crashed unexpectedly：unexpectedly で終わる"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been embedding",
+      "ipa": "/həd bɪn ɪmˈbɛdɪŋ/",
+      "examples": [
+        {
+          "en": "The architect had been embedding the decorative blocks for hours before the project was complete.",
+          "ja": "プロジェクトが完成する前、建築家は装飾ブロックを数時間埋め込んでいました。",
+          "ipa": "/ðə ɑrˈkɪtɛkt həd bɪn ɪmˈbɛdɪŋ ðə ˈdɛkəreɪtɪv blɑks fɔr ˈaʊɚz bɪˈfɔr ðə ˈprɑdʒɛkt wəz kəmˈplit/",
+          "kana": "ザ アーキテクト ハド ビン イムベディング ザ デコレイティブ ブロックス フォア アワーズ ビフォア ザ プロジェクト ワズ コムプリート",
+          "linking": [
+            "architect had：architect の末 /t/ が had の弱形 /həd/ に未開放 [ɑrˈkɪtɛkt̚ həd] アーキテクト ハド",
+            "had been：had の末 /d/ が been の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "been embedding：been の /n/ が embedding の /ɪ/ に連結 [bɪn ɪmˈbɛdɪŋ] ビン イムベディング",
+            "for hours：hours で後続なし"
+          ]
+        },
+        {
+          "en": "By the time we arrived, they had been embedding secret passages throughout the fortress all day.",
+          "ja": "私たちが到着したときまでに、彼らは1日中要塞全体に秘密の通路を埋め込み続けていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈɹaɪvd ðeɪ həd bɪn ɪmˈbɛdɪŋ ˈsikɹət ˈpæsɪdʒəz θɹuˈaʊt ðə ˈfɔɹtɹəs ɔl deɪ/",
+          "kana": "バイ ザ タイム ウィ アライvド ザイ ハド ビン イムベディング シークレット パッセージズ スルーアウト ザ フォートレス オール デイ",
+          "linking": [
+            "had been：had の末 /d/ が been の弱形 /bɪn/ に連結 [həd bɪn] ハド ビン",
+            "been embedding：been の /n/ が embedding の /ɪ/ に連結 [bɪn ɪmˈbɛdɪŋ] ビン イムベディング",
+            "throughout the：throughout の末 /t/ が the の弱形 /ðə/ に未開放 [θɹuˈaʊt̚ ðə] スルーアウト ザ",
+            "fortress all：all で終わる"
+          ]
+        }
+      ]
+    }
+  ]
+}

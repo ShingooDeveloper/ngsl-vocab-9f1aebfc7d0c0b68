@@ -1,0 +1,298 @@
+{
+  "word": "arm",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ɑrm/",
+  "rank": 1247,
+  "level": "A2",
+  "hi": "arm(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】腕、腕部（the upper limb of the human body from shoulder to hand）",
+    "【名詞】（機械・武器などの）腕、腕部、支腕（a limb-like projection on a machine or object）",
+    "【動詞】武装する、武器を与える、準備する（to provide with weapons or prepare for conflict）"
+  ],
+  "examples": [
+    {
+      "en": "The player raised his arm to block the creeper's explosion.",
+      "ja": "プレイヤーはクリーパーの爆発を遮るために腕を上げた。",
+      "ipa": "/ðə ˈpleɪər ˈreɪzd hɪz ɑrm tu ˈblɑk ðə ˈkriːpərz ɪkˈsploʊʒən/",
+      "linking": [
+        "his arm → his の /z/ が arm の初頭母音 /ɑ/ に連結 [ðə ˈpleɪər ˈreɪzd hɪz ɑrm] ヒズ アーム",
+        "the creeper's → the は弱形 /ðə/ に弱化"
+      ],
+      "kana": "ザ プレイヤー レイズド ヒズ アーム トゥ ブロック ダ クリーパーズ イクスプロージョン"
+    },
+    {
+      "en": "The zombie's arm moved slowly as it tried to grab the player.",
+      "ja": "ゾンビが腕を伸ばそうとしたとき、その腕はゆっくり動いた。",
+      "ipa": "/ðə ˈzoʊmiz ɑrm ˈmuvd ˈsloʊli əz ɪt ˈtraɪd tu ɡræb ðə ˈpleɪər/",
+      "linking": [
+        "the zombie's → the は弱形 /ðə/",
+        "arm moved → arm の /m/ が moved の初頭 /m/ に先行（連結なし）",
+        "to grab → to は弱形 /tə/"
+      ],
+      "kana": "ザ ゾンビズ アーム ムーヴド スロウリー アズ イット トライド トゥ グラブ ダ プレイヤー"
+    },
+    {
+      "en": "To arm yourself with proper weapons is essential for survival in Minecraft.",
+      "ja": "マインクラフトで生き残るために、適切な武器で武装することが不可欠です。",
+      "ipa": "/tu ɑrm jɚˈsɛlf wɪð ˈpɹɑpɚ ˈwɛpənz ɪz ɪˈsɛnʃəl fər sɚˈvaɪvəl ɪn ˈmaɪnˌkræft/",
+      "linking": [
+        "to arm → to は弱形 /tə/（または強く /tu/）",
+        "is essential → is は弱形 /ɪz/ に弱化"
+      ],
+      "kana": "トゥー アーム ユアセルフ ウィズ プロパー ウェポンズ イズ エッセンシャル ファー サーバイバル イン マインクラフト"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Steve's arm was glowing after he picked up the enchanted sword.",
+      "ja": "スティーブが魔法の剣を拾った後、彼の腕は輝いていた。",
+      "ipa": "/ˈstivz ɑrm wəz ˈɡloʊɪŋ ˈæftər hi ˈpɪkt ʌp ðə ɪnˈtʃæntɪd ˈsɔrd/",
+      "linking": [
+        "Steve's arm → Steve の /z/ が arm の初頭 /ɑ/ に連結",
+        "was glowing → was は弱形 /wəz/"
+      ],
+      "kana": "スティーヴズ アーム ワズ グロウイング アフター ヒー ピックト アップ ジ インチャンティド ソード"
+    },
+    {
+      "en": "The skeleton's long arm reached toward the player standing on the tower.",
+      "ja": "スケルトンの長い腕は、塔の上に立っているプレイヤーの方に伸びていた。",
+      "ipa": "/ðə ˈskɛlətənz lɔŋ ɑrm ˈritʃt təˈwɔrd ðə ˈpleɪər ˈstændɪŋ ɑn ðə ˈtaʊər/",
+      "linking": [
+        "the skeleton's → the は弱形 /ðə/",
+        "arm reached → arm の /m/ が reached の初頭 /r/ に先行（連結なし）",
+        "toward the → toward の /d/ が the の初頭 /ð/ に先行（未開放気味）、the は弱形 /ðə/"
+      ],
+      "kana": "ザ スケリトンズ ロング アーム リーチット トゥワード ザ プレイヤー スタンディング オン ザ タウアー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "arms",
+      "ipa": "/ɑrmz/",
+      "examples": [
+        {
+          "en": "She arms herself with the best equipment before every raid.",
+          "ja": "彼女はレイド前に最高の装備で武装する。",
+          "ipa": "/ʃi ɑrmz hɚˈsɛlf wɪð ðə bɛst ɪˈkwɪpmənt bɪˈfɔr ˈɛvri ˈreɪd/",
+          "linking": [
+            "herself → her は弱形 /hɚ/、self の初頭 /s/ に先行（連結なし）",
+            "the best → the は弱形 /ðə/"
+          ],
+          "kana": "シー アームズ ハーセルフ ウィズ ザ ベスト イクウィップメント ビフォー エヴリー レイド"
+        }
+      ]
+    },
+    {
+      "type": "plural_noun",
+      "label": "複数形（名詞）",
+      "text": "arms",
+      "ipa": "/ɑrmz/",
+      "examples": [
+        {
+          "en": "The armor protects both of my arms from damage.",
+          "ja": "鎧は私の両腕をダメージから守る。",
+          "ipa": "/ðə ˈɑrmər prəˈtɛkts ˈboʊθ əv maɪ ɑrmz frəm ˈdæmɪdʒ/",
+          "linking": [
+            "the armor → the は弱形 /ðə/",
+            "both of → both の /ð/ が of の初頭 /ə/ に先行（未開放気味）、of は弱形 /əv/"
+          ],
+          "kana": "ザ アーマー プロテクツ ボウス アヴ マイ アームズ フラム ダメッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "armed",
+      "ipa": "/ɑrmd/",
+      "examples": [
+        {
+          "en": "He armed himself before entering the Nether.",
+          "ja": "ネザーに入る前に、彼は武装した。",
+          "ipa": "/hi ɑrmd hɪmˈsɛlf bɪˈfɔr ˈɛntərɪŋ ðə ˈnɛðər/",
+          "linking": [
+            "armed himself → armed の /d/ が himself の初頭 /h/ に先行（未開放気味）"
+          ],
+          "kana": "ヒー アームド ヒムセルフ ビフォー エンタリング ダ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "armed",
+      "ipa": "/ɑrmd/",
+      "examples": [
+        {
+          "en": "The armed players defeated the enderman squad easily.",
+          "ja": "武装したプレイヤーたちはエンダーマン分隊を簡単に倒した。",
+          "ipa": "/ðə ɑrmd ˈpleɪərz dɪˈfitɪd ðə ˈɛndərˌmæn skwɑd ˈizi/",
+          "linking": [
+            "the armed → the は弱形 /ðə/"
+          ],
+          "kana": "ザ アームド プレイヤーズ ディフィティド ザ エンダーマン スクウォッド イージー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "arming",
+      "ipa": "/ˈɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "Arming yourself with diamonds is better than using stone.",
+          "ja": "ダイアモンドで武装することは、石を使うより良い。",
+          "ipa": "/ˈɑrmɪŋ jɚˈsɛlf wɪð ˈdaɪəmɑndz ɪz ˈbɛtər ðæn ˈjuzɪŋ stoʊn/",
+          "linking": [
+            "is better → is は弱形 /ɪz/"
+          ],
+          "kana": "アーミング ユアセルフ ウィズ ダイアモンズ イズ ベッター ザン ユージング ストーン"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is arming",
+      "ipa": "/ɪz ˈɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "She is arming her team with enchanted weapons right now.",
+          "ja": "今、彼女はチームを魔法の武器で武装させている。",
+          "ipa": "/ʃi ɪz ˈɑrmɪŋ hɚ ˈtim wɪð ɪnˈtʃæntɪd ˈwɛpənz ˈraɪt naʊ/",
+          "linking": [
+            "is arming → is は弱形 /ɪz/ に弱化",
+            "her team → her は弱形 /hɚ/"
+          ],
+          "kana": "シー イズ アーミング ハー ティーム ウィズ インチャンティド ウェポンズ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was arming",
+      "ipa": "/wəz ˈɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "I was arming myself when the enderman suddenly appeared.",
+          "ja": "エンダーマンが突然現れたとき、私は武装していた。",
+          "ipa": "/aɪ wəz ˈɑrmɪŋ maɪˈsɛlf wɛn ðə ˈɛndərˌmæn ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "was arming → was は弱形 /wəz/ に弱化"
+          ],
+          "kana": "アイ ワズ アーミング マイセルフ ウェン ザ エンダーマン サドゥンリー アピアード"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been arming",
+      "ipa": "/həd bɪn ˈɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "They had been arming for hours when the raid finally began.",
+          "ja": "レイドが最終的に始まる前に、彼らは何時間も武装していた。",
+          "ipa": "/ðeɪ həd bɪn ˈɑrmɪŋ fər ˈaʊərz wɛn ðə ˈreɪd ˈfaɪnəli bɪˈɡæn/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/",
+            "for hours → for は弱形 /fər/"
+          ],
+          "kana": "ゼイ ハド ビン アーミング ファー アワーズ ウェン ザ レイド ファイナリー ビガン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has armed",
+      "ipa": "/həz ˈɑrmd/",
+      "examples": [
+        {
+          "en": "He has armed the entire faction with enchanted gear.",
+          "ja": "彼は派閥全体を魔法の装備で武装させました。",
+          "ipa": "/hi həz ɑrmd ðə ɪnˈtaɪər ˈfækʃən wɪð ɪnˈtʃæntɪd ɡɪr/",
+          "linking": [
+            "has armed → has は弱形 /həz/ に弱化、armed の初頭 /ɑ/ に先行（連結なし）",
+            "the entire → the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ アームド ザ インタイアー ファクション ウィズ インチャンティド ギア"
+        },
+        {
+          "en": "She has armed her players well for the dangerous dungeon.",
+          "ja": "彼女は危険なダンジョンのためにプレイヤーたちを十分に武装させました。",
+          "ipa": "/ʃi həz ɑrmd hɚ ˈpleɪərz wɛl fər ðə ˈdeɪndʒərəs ˈdʌndʒən/",
+          "linking": [
+            "has armed → has は弱形 /həz/ に弱化",
+            "her players → her は弱形 /hɚ/",
+            "the dangerous → the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ アームド ハー プレイヤーズ ウェル ファー ザ デインジャラス ダンジョン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had armed",
+      "ipa": "/həd ˈɑrmd/",
+      "examples": [
+        {
+          "en": "They had armed themselves before the zombie horde attacked.",
+          "ja": "ゾンビの群れが攻撃する前に、彼らは武装していました。",
+          "ipa": "/ðeɪ həd ɑrmd ðɛmˈsɛlvz bɪˈfɔr ðə ˈzoʊmbi ˈhɔrd əˈtækt/",
+          "linking": [
+            "had armed → had は弱形 /həd/ に弱化",
+            "the zombie → the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド アームド ゼムセルヴズ ビフォー ザ ゾンビ ホード アタッキッド"
+        },
+        {
+          "en": "Once we had armed every player, we advanced into the stronghold.",
+          "ja": "すべてのプレイヤーが武装したら、要塞に進みました。",
+          "ipa": "/wʌns wi həd ɑrmd ˈɛvri ˈpleɪər | wi ədˈvænst ˈɪntu ðə ˈstɹɑŋˌhoʊld/",
+          "linking": [
+            "had armed → had は弱形 /həd/ に弱化",
+            "every player → every の末尾 /i/ が player の初頭 /p/ に先行（連結なし）"
+          ],
+          "kana": "ワンス ウィ ハド アームド エヴリー プレイヤー、ウィ アドヴァンスト イントゥ ザ ストロングホウルド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been arming",
+      "ipa": "/həz bɪn ˈɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "She has been arming troops all morning for the server war.",
+          "ja": "彼女はサーバー戦争のために朝ずっと軍隊を武装させている。",
+          "ipa": "/ʃi həz bɪn ˈɑrmɪŋ ˈtruːps ɔl ˈmɔrnɪŋ fər ðə ˈsɜrvər wɔr/",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/",
+            "all morning → all の末尾 /l/ が morning の初頭 /m/ に先行（連結なし）",
+            "for the → for は弱形 /fər/、the は弱形 /ðə/"
+          ],
+          "kana": "シー ハズ ビン アーミング トゥループス オール モーニング ファー ザ サーバー ウォー"
+        },
+        {
+          "en": "He has been arming the guild members since dawn.",
+          "ja": "彼は夜明けからギルドのメンバーを武装させ続けている。",
+          "ipa": "/hi həz bɪn ˈɑrmɪŋ ðə ɡɪld ˈmɛmbərz sɪns dɔn/",
+          "linking": [
+            "has been → has は弱形 /həz/、been は弱形 /bɪn/",
+            "the guild → the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ ビン アーミング ザ ギルド メンバーズ シンス ドーン"
+        }
+      ]
+    }
+  ]
+}

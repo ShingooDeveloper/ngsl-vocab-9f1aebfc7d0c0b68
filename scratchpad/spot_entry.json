@@ -1,0 +1,535 @@
+{
+  "word": "spot",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/spɑːt/",
+  "rank": 1135,
+  "level": "A2",
+  "hi": "spot(?:s|ted|ting)?",
+  "meanings": [
+    "【動詞】～を見つける、気づく、発見する（notice or perceive something）",
+    "【動詞】～に（一点の）汚れ・傷をつける、しみが出来る（mark with a stain or blemish）",
+    "【名詞】小さな印、しみ、斑点（a small mark or blemish on a surface）",
+    "【名詞】場所、地点、箇所（a particular place or location）",
+    "【名詞】（テレビ・ラジオの）短編広告、コマーシャル（a short advertisement on television or radio）"
+  ],
+  "examples": [
+    {
+      "en": "I can spot the ore from my vantage point on top of the hill.",
+      "ja": "丘の上の有利な地点からなら、鉱石が見えます。",
+      "ipa": "/aɪ kæn spɑːt ðə ˈɔːr frəm maɪ ˈvæntɪdʒ pɔɪnt ɑːn tɑːp əv ðə ˈhɪl/",
+      "linking": [
+        "can → 機能語は弱形 /kən/ に弱化",
+        "spot the → 語末子音tと母音ðの前で未開放になり別々に聞こえる [spɑːt̚ ðə] スポット ザ",
+        "from my → m+mの連続だが、my は /maɪ/ なので連結なし",
+        "of the → f が ð に連結、of は弱形 /əv/、the は弱形 /ðə/ [əv ðə] ラヴ ザ"
+      ],
+      "kana": "アイ キャン スポット ザ オア フラム マイ ヴァンティッジ ポイント アン トップ ラヴ ザ ヒル"
+    },
+    {
+      "en": "We spotted several caves while exploring the deep cavern system.",
+      "ja": "深い洞窟システムを探索している間に、いくつかの洞窟を発見しました。",
+      "ipa": "/wi ˈspɑːɾəd ˈsɛvrəl ˈkeɪvz waɪl ɪkˈsplɔːrɪŋ ðə ˈdiːp kəˈvɜːrn ˈsɪstəm/",
+      "linking": [
+        "spotted several → tがフラップ化して母音に続く [ˈspɑːɾəd sɛvrəl] スパラド セヴラル",
+        "caves while → z が w に連結 [ˈkeɪvz waɪl] ケイブズ ワイル",
+        "the deep → ə が d に連結 [ðə ˈdiːp] ザ ディープ",
+        "cavern system → n が s に続く。system は /ˈsɪstəm/"
+      ],
+      "kana": "ウィ スパラド セヴラル ケイブズ ワイル イクスプローリング ザ ディープ カヴァーン システム"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I can spot the difference between iron ore and stone blocks.",
+      "ja": "鉄鉱石と石ブロックの違いを見分けることができます。",
+      "ipa": "/aɪ kæn spɑːt ðə ˈdɪfərəns bɪˈtwin ˈaɪərn ɔːr ænd ˈstoʊn ˈblɑːks/",
+      "linking": [
+        "can → 機能語は弱形 /kən/",
+        "spot the → 語末tが未開放で弱く聞こえ、the は弱形 /ðə/",
+        "difference between → 語末eとbが連結 [ˈdɪfərəns bɪˈtwin] ディファレンス ビトウィーン。between は /bɪˈtwin/",
+        "iron ore → n が o に連結 [ˈaɪərn ɔːr] アイアーン オア"
+      ],
+      "kana": "アイ キャン スポット ザ ディファレンス ビトウィーン アイアーン オア アンド ストーン ブラックス"
+    },
+    {
+      "en": "Spot any creepers approaching the perimeter and alert the others.",
+      "ja": "周囲に近づくクリーパーを見つけて、他の人に知らせてください。",
+      "ipa": "/spɑːt ˈɛni ˈkriːpərz əˈproʊtʃɪŋ ðə pəˈrɪmɪtər ænd əˈlɜːrt ðə ˈʌðɚz/",
+      "linking": [
+        "Spot any → 語末tと母音が連結 [spɑːt ˈɛni] スポット エニー",
+        "creepers approaching → z が a に連結、approaching は /əˈproʊtʃɪŋ/ [ˈkriːpərz əˈproʊtʃɪŋ] クリーパーズ アプローチング",
+        "the perimeter → ə が p に連結 [ðə pəˈrɪmɪtər] ザ パリミター",
+        "and alert → d が a に連結 [ænd əˈlɜːrt] アンド アラート"
+      ],
+      "kana": "スポット エニー クリーパーズ アプローチング ザ パリミター アンド アラート ダ アザーズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "spots",
+      "ipa": "/spɑːts/",
+      "examples": [
+        {
+          "en": "She spots every ore vein from the mining level she works on.",
+          "ja": "彼女は自分が作業している採掘レベルから、すべての鉱脈を見つけます。",
+          "ipa": "/ʃi spɑːts ˈɛvəri ˈɔːr veɪn frəm ðə ˈmaɪnɪŋ ˈlɛvəl ʃi wɜːrks ɑːn/",
+          "linking": [
+            "spots every → 語末tとeが連結 [spɑːts ˈɛvəri] スポッツ エヴリー",
+            "every ore → i が o に連結 [ˈɛvəri ˈɔːr] エヴリー オア",
+            "from the → m が ð に連結、the は弱形 /ðə/ [frəm ðə] フラム ザ",
+            "mining level → i が l に連結 [ˈmaɪnɪŋ ˈlɛvəl] マイニング レヴァル"
+          ],
+          "kana": "シー スポッツ エヴリー オア ベイン フラム ザ マイニング レヴァル シー ワークス アン"
+        },
+        {
+          "en": "The admin spots suspicious activity in the village settlement.",
+          "ja": "管理者は村の集落内の疑わしい行動に気づきます。",
+          "ipa": "/ðə ˈædmɪn spɑːts səˈspɪʃəs ækˈtɪvɪti ɪn ðə ˈvɪlɪdʒ ˈsɛtəlmənt/",
+          "linking": [
+            "spots suspicious → 語末tとsが連結 [spɑːts səˈspɪʃəs] スポッツ サスピシャス",
+            "suspicious activity → s が a に連結 [səˈspɪʃəs ækˈtɪvɪti] サスピシャス アクティヴィティ",
+            "the village → ə が v に連結 [ðə ˈvɪlɪdʒ] ザ ヴィレッジ"
+          ],
+          "kana": "ザ アドミン スポッツ サスピシャス アクティヴィティ イン ザ ヴィレッジ セットルメント"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "spotted",
+      "ipa": "/ˈspɑːɾəd/",
+      "examples": [
+        {
+          "en": "I spotted a hidden structure buried deep underground while digging.",
+          "ja": "掘っている間に、地下深くに埋まった隠れた構造物を見つけました。",
+          "ipa": "/aɪ ˈspɑːɾəd ə ˈhɪdən ˈstrʌktʃər ˈbɛrid ˈdiːp ˌʌndərˈɡraʊnd waɪl ˈdɪɡɪŋ/",
+          "linking": [
+            "spotted a → tがフラップ化して母音に続く [ˈspɑːɾəd ə] スパラド ア",
+            "hidden structure → n が s に続く（子音+子音）。structure は /ˈstrʌktʃər/",
+            "deep underground → p が ʌ に連結 [ˈdiːp ˌʌndərˈɡraʊnd] ディープ アンダーグラウンド",
+            "while digging → l が d に連結 [waɪl ˈdɪɡɪŋ] ワイル ディギング"
+          ],
+          "kana": "アイ スパラド ア ヒドン ストラクチャー ベリード ディープ アンダーグラウンド ワイル ディギング"
+        },
+        {
+          "en": "We spotted danger approaching and quickly escaped the nether portal.",
+          "ja": "危険が近づいているのに気づき、すぐにネザーポータルから逃げました。",
+          "ipa": "/wi ˈspɑːɾəd ˈdeɪndʒər əˈproʊtʃɪŋ ænd ˈkwɪkli ɪˈskeɪpt ðə ˈnɛðər ˈpoʊrtəl/",
+          "linking": [
+            "spotted danger → tがフラップ化 [ˈspɑːɾəd ˈdeɪndʒər] スパラド デインジャー",
+            "danger approaching → r が a に連結 [ˈdeɪndʒər əˈproʊtʃɪŋ] デインジャー アプローチング",
+            "and quickly → d が k に未開放で続く [ænd̚ ˈkwɪkli] アンド クイックリー",
+            "the nether → ə が n に連結 [ðə ˈnɛðər] ザ ネザー"
+          ],
+          "kana": "ウィ スパラド デインジャー アプローチング アンド クイックリー イスケイプト ザ ネザー ポータル"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "spotted",
+      "ipa": "/ˈspɑːɾəd/",
+      "examples": [
+        {
+          "en": "The resource location has been spotted and marked on the map.",
+          "ja": "その資源の場所は発見されて、地図にマークされました。",
+          "ipa": "/ðə ˈrɛsɚs loʊˈkeɪʃən hæz bɪn ˈspɑːɾəd ænd mɑːrkt ɑːn ðə ˈmæp/",
+          "linking": [
+            "has been → z が b に連結 [hæz bɪn] ハズ ビン",
+            "spotted and → tがフラップ化して母音に続き、and に連結 [ˈspɑːɾəd ænd] スパラド アンド",
+            "and marked → d が m に未開放で続く [ænd̚ mɑːrkt] アンド マークト",
+            "the map → ə が m に連結 [ðə ˈmæp] ザ マップ"
+          ],
+          "kana": "ザ レソース ロケイション ハズ ビン スパラド アンド マークト アン ザ マップ"
+        },
+        {
+          "en": "Once a good farming spot has been spotted, we build the system immediately.",
+          "ja": "良い農場のスポットが見つかったら、すぐにシステムを構築します。",
+          "ipa": "/wʌns ə ɡʊd ˈfɑːrmɪŋ spɑːt hæz bɪn ˈspɑːɾəd | wi ˈbɪld ðə ˈsɪstəm ɪˈmiːdiətli/",
+          "linking": [
+            "good farming → d が f に未開放で続く [ɡʊd̚ ˈfɑːrmɪŋ] グッド ファーミング",
+            "farming spot → g が s に続く（子音+子音）。spot は /spɑːt/",
+            "spot has → 語末tが未開放で別々に聞こえ、has に続く [spɑːt̚ hæz] スポット ハズ",
+            "has been → z が b に連結 [hæz bɪn] ハズ ビン",
+            "the system → ə が s に連結 [ðə ˈsɪstəm] ザ システム"
+          ],
+          "kana": "ワンス ア グッド ファーミング スポット ハズ ビン スパラド、ウィ ビルド ザ システム イミーディエットリー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "spotting",
+      "ipa": "/ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "Spotting diamonds early helps ensure a successful mining expedition.",
+          "ja": "ダイヤを早く見つけることは、採掘遠征を成功させるのに役立ちます。",
+          "ipa": "/ˈspɑːɾɪŋ ˈdaɪməndz ˈɜːrli ˈhɛlps ɪnˈʃʊr ə səkˈsɛsfl ˈmaɪnɪŋ ɛkˈspɛdiʃən/",
+          "linking": [
+            "spotting diamonds → g が d に続く（子音+子音）。diamonds は /ˈdaɪməndz/",
+            "diamonds early → z が ɜ に連結し、early は /ˈɜːrli/ [ˈdaɪməndz ˈɜːrli] ダイマンズ アーリー",
+            "early helps → i が h に連結 [ˈɜːrli ˈhɛlps] アーリー ヘルプス",
+            "helps ensure → s が ɪ に連結。ensure は /ɪnˈʃʊr/ [ˈhɛlps ɪnˈʃʊr] ヘルプス インシュアー"
+          ],
+          "kana": "スパリング ダイマンズ アーリー ヘルプス インシュアー ア サクセスフル マイニング エクスペディション"
+        },
+        {
+          "en": "By spotting ore patterns, miners can extract resources much more efficiently.",
+          "ja": "鉱石のパターンを見つけることで、鉱夫はより効率的にリソースを採掘できます。",
+          "ipa": "/baɪ ˈspɑːɾɪŋ ˈɔːr ˈpætərnz ˈmaɪnərz kæn ɪkˈstrækt ˈrɛsɚsɪz ˈmʌtʃ ˈmɔːr ɪˈfɪʃəntli/",
+          "linking": [
+            "spotting ore → g が o に続く [ˈspɑːɾɪŋ ˈɔːr] スパリング オア",
+            "ore patterns → r が p に連結 [ˈɔːr ˈpætərnz] オア パターンズ",
+            "patterns miners → z が m に連結 [ˈpætərnz ˈmaɪnərz] パターンズ マイナーズ",
+            "can extract → n が ɪ に連結、extract は /ɪkˈstrækt/ [kæn ɪkˈstrækt] キャン イクストラクト",
+            "much more → ch が m に続く（子音+子音）。more は /mɔːr/"
+          ],
+          "kana": "バイ スパリング オア パターンズ マイナーズ キャン イクストラクト レソーシズ マッチ モア イフィシェントリー"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "spots",
+      "ipa": "/spɑːts/",
+      "examples": [
+        {
+          "en": "The dark spots on the map indicate caves and dungeons we haven't explored yet.",
+          "ja": "地図上の暗いスポットは、まだ探索していない洞窟とダンジョンを示しています。",
+          "ipa": "/ðə dɑːrk spɑːts ɑːn ðə ˈmæp ˈɪndɪkeɪt ˈkeɪvz ænd ˈdʌndʒənz wi ˈhævənt ɪkˈsplɔːrd jet/",
+          "linking": [
+            "dark spots → k が s に未開放で続く [dɑːrk̚ spɑːts] ダーク スポッツ",
+            "spots on → 語末tとoが連結 [spɑːts ɑːn] スポッツ オン",
+            "the map → ə が m に連結 [ðə ˈmæp] ザ マップ",
+            "caves and → z が æ に連結 [ˈkeɪvz ænd] ケイブズ アンド",
+            "and dungeons → d が d で連続。dungeons は /ˈdʌndʒənz/ [ænd ˈdʌndʒənz] アンド ダンジョンズ"
+          ],
+          "kana": "ザ ダーク スポッツ アン ザ マップ インディケイト ケイブズ アンド ダンジョンズ ウィ ヘイヴント イクスプロード イェット"
+        },
+        {
+          "en": "We've marked several good farming spots near the base for our food production.",
+          "ja": "私たちは食料生産のために、基地の近くにいくつかの良い農場スポットをマークしました。",
+          "ipa": "/wiv mɑːrkt ˈsɛvrəl ɡʊd ˈfɑːrmɪŋ spɑːts nɪr ðə ˈbeɪs fɔːr ˈaʊər ˈfuːd prəˈdʌkʃən/",
+          "linking": [
+            "good farming → d が f に未開放で続く [ɡʊd̚ ˈfɑːrmɪŋ] グッド ファーミング",
+            "farming spots → g が s に続く（子音+子音）[ˈfɑːrmɪŋ spɑːts] ファーミング スポッツ",
+            "spots near → 語末tとnが連結 [spɑːts nɪr] スポッツ ニア",
+            "the base → ə が b に連結 [ðə ˈbeɪs] ザ ベイス",
+            "for our → r が o に連結。for は弱形 /fər/ [fɔːr ˈaʊər] フォア アワー"
+          ],
+          "kana": "ウィーブ マークト セヴラル グッド ファーミング スポッツ ニア ザ ベイス フォア アワー フード プロダクション"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is spotting",
+      "ipa": "/ɪz ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "He is spotting diamond ore in the deepest level of the world.",
+          "ja": "彼はワールドの最深レベルでダイヤモンド鉱石を見つけています。",
+          "ipa": "/hi ɪz ˈspɑːɾɪŋ ˈdaɪmənd ˈɔːr ɪn ðə ˈdiːpəst ˈlɛvəl əv ðə ˈwɜːrld/",
+          "linking": [
+            "is spotting → is は弱形 /ɪz/。z と s は子音同士で続く [ɪz ˈspɑːɾɪŋ] イズ スパリング",
+            "spotting diamond → g が d に続く（子音+子音）[ˈspɑːɾɪŋ ˈdaɪmənd] スパリング ダイマンド",
+            "diamond ore → d が ore に連結 [ˈdaɪmənd ˈɔːr] ダイマンド オア",
+            "in the → n が ð に連結 [ɪn ðə] イン ザ"
+          ],
+          "kana": "ヒー イズ スパリング ダイマンド オア イン ザ ディープエスト レヴァル アヴ ザ ワールド"
+        },
+        {
+          "en": "I am spotting creepers from the watchtower before they get close to the base.",
+          "ja": "クリーパーが基地に近づく前に、見張り台からクリーパーを見つけています。",
+          "ipa": "/aɪ æm ˈspɑːɾɪŋ ˈkriːpərz frəm ðə ˈwɑːtʃtaʊər bɪˈfɔːr ðeɪ ɡɛt ˈkloʊs tə ðə ˈbeɪs/",
+          "linking": [
+            "am spotting → m が s に連結 [æm ˈspɑːɾɪŋ] アム スパリング",
+            "spotting creepers → g が k に続く（子音+子音）[ˈspɑːɾɪŋ ˈkriːpərz] スパリング クリーパーズ",
+            "creepers from → z が f に連結、from は弱形 /frəm/ [ˈkriːpərz frəm] クリーパーズ フラム",
+            "the watchtower → ə が w に連結 [ðə ˈwɑːtʃtaʊər] ザ ウォッチタウアー",
+            "to the → to は弱形 /tə/。ə と ð は子音+子音で続く [tə ðə] タ ザ"
+          ],
+          "kana": "アイ アム スパリング クリーパーズ フラム ザ ウォッチタウアー ビフォア ザイ ゲット クロース タ ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was spotting",
+      "ipa": "/wəz ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "I was spotting hostile mobs when the thunderstorm suddenly appeared above the island.",
+          "ja": "雷嵐が島の上に突然現れた時、敵対的なモブを見つけていました。",
+          "ipa": "/aɪ wəz ˈspɑːɾɪŋ ˈhoʊstəl ˈmɑːbz wɛn ðə ˈθʌndərˌstɔːrm ˈsʌdənli əˈpɪrd əˈbʌv ði ˈaɪlənd/",
+          "linking": [
+            "was spotting → z が s に連結、was は弱形 /wəz/ [wəz ˈspɑːɾɪŋ] ワズ スパリング",
+            "spotting hostile → g が h に続く（子音+子音）[ˈspɑːɾɪŋ ˈhoʊstəl] スパリング ホステル",
+            "hostile mobs → l が m に連結 [ˈhoʊstəl ˈmɑːbz] ホステル マブズ",
+            "the thunderstorm → ə が θ に連結 [ðə ˈθʌndərˌstɔːrm] ザ サンダーストーム",
+            "above the → v が ð に連結。the は弱形 /ðə/ [əˈbʌv ðə] アバヴ ザ"
+          ],
+          "kana": "アイ ワズ スパリング ホステル マブズ ウェン ザ サンダーストーム サドゥンリー アピアド アバヴ ディ アイランド"
+        },
+        {
+          "en": "They were spotting resources in the ravine when we decided to retreat safely.",
+          "ja": "私たちが安全に撤退することにした時、彼らは渓谷の中でリソースを見つけていました。",
+          "ipa": "/ðeɪ wər ˈspɑːɾɪŋ ˈrɛsɚsɪz ɪn ðə ˈrævɪn wɛn wi dɪˈsaɪdɪd tə rɪˈtrit ˈseɪfli/",
+          "linking": [
+            "were spotting → r が s に連結。were は弱形 /wər/ [wər ˈspɑːɾɪŋ] ワー スパリング",
+            "spotting resources → g が r に続く（子音+子音）[ˈspɑːɾɪŋ ˈrɛsɚsɪz] スパリング レソーシズ",
+            "resources in → z が ɪ に連結 [ˈrɛsɚsɪz ɪn] レソーシズ イン",
+            "the ravine → ə が r に連結 [ðə ˈrævɪn] ザ ラヴィーン",
+            "to retreat → to は弱形 /tə/。ə が r に連結 [tə rɪˈtrit] タ リトリート"
+          ],
+          "kana": "ザイ ワー スパリング レソーシズ イン ザ ラヴィーン ウェン ウィ ディサイディド タ リトリート セイフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been spotting",
+      "ipa": "/həd bɪn ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "We had been spotting valuable ores for hours before the server crashed unexpectedly.",
+          "ja": "サーバーが予期せず落ちる前に、何時間も貴重な鉱石を見つけていました。",
+          "ipa": "/wi həd bɪn ˈspɑːɾɪŋ ˈvæljəbəl ˈɔːrz fɔːr ˈaʊərz bɪˈfɔːr ðə ˈsɜːrvər ˈkræʃt ˌʌnɪkˈspɛkɾɪdli/",
+          "linking": [
+            "had been → d が b に続く。子音+子音で別々に聞こえる。had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been spotting → n が s に続く（子音+子音）[bɪn ˈspɑːɾɪŋ] ビン スパリング",
+            "spotting valuable → g が v に続く（子音+子音）[ˈspɑːɾɪŋ ˈvæljəbəl] スパリング ヴァリュアブル",
+            "ores for → z が f に続く、for は強形 /fɔːr/ [ˈɔːrz fɔːr] オアズ フォア",
+            "the server → ə が s に続く [ðə ˈsɜːrvər] ザ サーバー"
+          ],
+          "kana": "ウィ ハド ビン スパリング ヴァリュアブル オアズ フォア アワーズ ビフォア ザ サーバー クラッシュト アニクスペクリドリー"
+        },
+        {
+          "en": "She had been spotting patterns in ore distribution when her teammate called with urgent news.",
+          "ja": "チームメイトが緊急のニュースで電話をくれた時、彼女は鉱石分布のパターンを見つけていました。",
+          "ipa": "/ʃi həd bɪn ˈspɑːɾɪŋ ˈpætərnz ɪn ˈɔːr ˌdɪstrɪˈbjuːʃən wɛn hər ˈtiːmmeɪt ˈkɔːld wɪð ˈɜːrdʒənt ˈnjuːz/",
+          "linking": [
+            "had been → d が b に続く。子音+子音で別々に聞こえる。had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+            "been spotting → n が s に続く（子音+子音）[bɪn ˈspɑːɾɪŋ] ビン スパリング",
+            "spotting patterns → g が p に続く（子音+子音）[ˈspɑːɾɪŋ ˈpætərnz] スパリング パターンズ",
+            "patterns in → z が ɪ に連結 [ˈpætərnz ɪn] パターンズ イン",
+            "her teammate → r が t に続く。teammate は /ˈtiːmmeɪt/ [hər ˈtiːmmeɪt] ハー ティームメイト"
+          ],
+          "kana": "シー ハド ビン スパリング パターンズ イン オア ディストリビューション ウェン ハー ティームメイト コールド ウィズ アージェント ニューズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has spotted",
+      "ipa": "/hæz ˈspɑːɾəd/",
+      "examples": [
+        {
+          "en": "I have spotted many diamond veins on this Y-level during our expedition.",
+          "ja": "このY-レベルでの遠征中に、多くのダイヤモンド鉱脈を見つけました。",
+          "ipa": "/aɪ hæv ˈspɑːɾəd ˈmɛni ˈdaɪmənd veɪnz ɑːn ðɪs ˈwaɪ ˈlɛvəl ˈdʊrɪŋ ˈaʊər ɛkˈspɛdiʃən/",
+          "linking": [
+            "have は弱形 /həv/。spotted many → tがフラップ化して母音に続く [ˈspɑːɾəd ˈmɛni] スパラド メニー",
+            "many diamond → i が d に連結 [ˈmɛni ˈdaɪmənd] メニー ダイマンド",
+            "on this → n が ð に連結 [ɑːn ðɪs] アン ディス"
+          ],
+          "kana": "アイ ハヴ スパラド メニー ダイマンド ベインズ アン ディス ワイ レヴァル ドゥーリング アワー エクスペディション"
+        },
+        {
+          "en": "The miners have spotted a stronghold entrance hidden beneath the mountain.",
+          "ja": "鉱夫たちは山の下に隠された要塞の入口を見つけました。",
+          "ipa": "/ðə ˈmaɪnərz hæv ˈspɑːɾəd ə ˈstrɔːŋhoʊld ˈɛntrəns ˈhɪdən bɪˈniːθ ðə ˈmaʊntən/",
+          "linking": [
+            "miners have → z が h に続く。子音+子音で別々に聞こえる。have は弱形 /həv/ [ˈmaɪnərz həv] マイナーズ ハヴ",
+            "spotted a → tがフラップ化して母音に連結 [ˈspɑːɾəd ə] スパラド ア",
+            "the mountain → ə が m に連結 [ðə ˈmaʊntən] ザ マウンテン"
+          ],
+          "kana": "ザ マイナーズ ハヴ スパラド ア ストロングホールド エントランス ヒドン ビニース ザ マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had spotted",
+      "ipa": "/həd ˈspɑːɾəd/",
+      "examples": [
+        {
+          "en": "By the time we arrived at the base, they had spotted all the ore locations.",
+          "ja": "私たちが基地に到着したときまでに、彼らはすべての鉱石の場所を見つけていました。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd æt ðə ˈbeɪs | ðeɪ həd ˈspɑːɾəd ɔːl ðiː ˈɔːr loʊˈkeɪʃənz/",
+          "linking": [
+            "the time → ə が t に連結 [ðə ˈtaɪm] ザ タイム",
+            "at the → t が ð に続く。子音+子音で別々に聞こえる [æt ðə] アット ザ",
+            "they had → h が d で続く。子音+子音で別々に聞こえる。had は弱形 /həd/ [ðeɪ həd] ザイ ハド",
+            "had spotted → d が s に未開放で続く、had は弱形 /həd/ [həd ˈspɑːɾəd] ハド スパラド",
+            "all the → l が ð に続く [ɔːl ðə] オール ザ"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド アット ザ ベイス | ザイ ハド スパラド オール ザ オア ロケイションズ"
+        },
+        {
+          "en": "She had spotted three caves before the storm began.",
+          "ja": "嵐が始まる前に、彼女は3つの洞窟を見つけていました。",
+          "ipa": "/ʃi həd ˈspɑːɾəd θri keɪvz bɪˈfɔːr ðə ˈstɔːrm bɪˈɡæn/",
+          "linking": [
+            "had spotted → d が s に未開放で続く、had は弱形 /həd/ [həd ˈspɑːɾəd] ハド スパラド",
+            "spotted three → tがフラップ化して θ に続く [ˈspɑːɾəd θri] スパラド スリー",
+            "the storm → ə が s に連結 [ðə ˈstɔːrm] ザ ストーム",
+            "storm began → m が b に連結 [ˈstɔːrm bɪˈɡæn] ストーム ビガン"
+          ],
+          "kana": "シー ハド スパラド スリー ケイブズ ビフォア ザ ストーム ビガン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been spotting",
+      "ipa": "/hæz bɪn ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "We have been spotting resources across all Y-levels since this morning.",
+          "ja": "今朝からすべてのY-レベルでリソースを見つけています。",
+          "ipa": "/wi həv bɪn ˈspɑːɾɪŋ ˈrɛsɚsɪz əˈkrɔːs ɔːl ˈwaɪ ˈlɛvəlz sɪns ðɪs ˈmɔːrnɪŋ/",
+          "linking": [
+            "have been → v が b に続く。子音+子音で別々に聞こえる。have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn] ハヴ ビン",
+            "spotting resources → g が r に続く。子音+子音で別々に聞こえる [ˈspɑːɾɪŋ ˈrɛsɚsɪz] スパリング レソーシズ",
+            "all Y-levels → l が w に続く [ɔːl ˈwaɪ ˈlɛvəlz] オール ワイ レヴァルズ"
+          ],
+          "kana": "ウィ ハヴ ビン スパリング レソーシズ ア クロス オール ワイ レヴァルズ シンス ディス モーニング"
+        },
+        {
+          "en": "He has been spotting useful building materials around the biome for the last hour.",
+          "ja": "彼はこの1時間、バイオーム周辺で有用な建築材料を見つけ続けています。",
+          "ipa": "/hi hæz bɪn ˈspɑːɾɪŋ ˈjuːsfəl ˈbɪldɪŋ məˈtɪriəlz əˈraʊnd ðə baɪˈoʊm fɔːr ðə læst ˈaʊər/",
+          "linking": [
+            "has been → z が b に続く。子音+子音で別々に聞こえる。has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn] ハズ ビン",
+            "spotting useful → g が j に続く。子音+子音で別々に聞こえる [ˈspɑːɾɪŋ ˈjuːsfəl] スパリング ユースフル",
+            "the biome → ə が b に連結 [ðə baɪˈoʊm] ザ バイオーム"
+          ],
+          "kana": "ヒー ハズ ビン スパリング ユースフル ビルディング マテリアルズ ア ラウンド ザ バイオーム フォア ザ ラスト アワー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will spot",
+      "ipa": "/wɪl spɑːt/",
+      "examples": [
+        {
+          "en": "I will spot the diamonds in the Y-level when we reach the mining depth.",
+          "ja": "採掘の深さに到達したら、Y-レベルのダイヤモンドを見つけます。",
+          "ipa": "/aɪ wɪl spɑːt ðə ˈdaɪməndz ɪn ðə ˈwaɪ ˈlɛvəl wɛn wi ritʃ ðə ˈmaɪnɪŋ ˈdɛpθ/",
+          "linking": [
+            "will spot → l が s に未開放で続く [wɪl̚ spɑːt] ウィル スポット",
+            "spot the → 語末tが母音に連結 [spɑːt ðə] スポット ザ",
+            "diamonds in → z が ɪ に連結 [ˈdaɪməndz ɪn] ダイマンズ イン",
+            "the Y-level → ə が w に続く [ðə ˈwaɪ ˈlɛvəl] ザ ワイ レヴァル",
+            "when we → n が w に続く [wɛn wi] ウェン ウィ",
+            "reach the → ch が ð に続く [ritʃ ðə] リーチ ザ"
+          ],
+          "kana": "アイ ウィル スポット ザ ダイマンズ イン ザ ワイ レヴァル ウェン ウィ リーチ ザ マイニング デプス"
+        },
+        {
+          "en": "We'll spot the hidden stronghold entrance once we search this area thoroughly.",
+          "ja": "この領域を徹底的に探索すれば、隠された要塞の入口を見つけることができます。",
+          "ipa": "/wil spɑːt ðə ˈhɪdən ˈstrɔːŋhoʊld ˈɛntrəns wʌns wi sɜːrtʃ ðɪs ˈɛriə ˈθɜːroʊli/",
+          "linking": [
+            "We'll spot → l が s に未開放で続く [wil̚ spɑːt] ウィル スポット",
+            "spot the → 語末tが母音に連結 [spɑːt ðə] スポット ザ",
+            "hidden stronghold → n が s に続く（子音+子音） [ˈhɪdən ˈstrɔːŋhoʊld] ヒドン ストロングホールド",
+            "entrance once → s が w に続く（子音+子音） [ˈɛntrəns wʌns] エントランス ワンス",
+            "we search → i が s に続く [wi sɜːrtʃ] ウィ サーチ",
+            "search this → ch が ð に続く [sɜːrtʃ ðɪs] サーチ ディス"
+          ],
+          "kana": "ウィル スポット ザ ヒドン ストロングホールド エントランス ワンス ウィ サーチ ディス エリア セロゥリー"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be spotting",
+      "ipa": "/wɪl bi ˈspɑːɾɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow at this time, I will be spotting rare ores deep underground.",
+          "ja": "明日のこの時間、私は深い地中で珍しい鉱石を見つけているでしょう。",
+          "ipa": "/təˈmɑːroʊ æt ðɪs ˈtaɪm | aɪ wɪl bi ˈspɑːɾɪŋ ˈrɛr ˈɔːrz ˈdiːp ˌʌndərˈɡraʊnd/",
+          "linking": [
+            "at this → t が ð に未開放で続く [æt̚ ðɪs] アット ディス",
+            "will be → l が b に未開放で続く [wɪl̚ bi] ウィル ビー",
+            "be spotting → i が s に続く（子音+子音） [bi ˈspɑːɾɪŋ] ビー スパリング",
+            "spotting rare → g が r に続く（子音+子音） [ˈspɑːɾɪŋ ˈrɛr] スパリング レア",
+            "deep underground → p が ʌ に連結 [ˈdiːp ˌʌndərˈɡraʊnd] ディープ アンダーグラウンド"
+          ],
+          "kana": "タマロー アット ディス タイム、アイ ウィル ビー スパリング レア オアズ ディープ アンダーグラウンド"
+        },
+        {
+          "en": "They will be spotting potential base locations while flying over the biome.",
+          "ja": "バイオームの上を飛行しながら、彼らは潜在的な基地の場所を見つけているでしょう。",
+          "ipa": "/ðeɪ wɪl bi ˈspɑːɾɪŋ pəˈtɛnʃəl ˈbeɪs loʊˈkeɪʃənz waɪl ˈflaɪɪŋ ˈoʊvər ðə baɪˈoʊm/",
+          "linking": [
+            "will be → l が b に未開放で続く [wɪl̚ bi] ウィル ビー",
+            "be spotting → i が s に続く（子音+子音） [bi ˈspɑːɾɪŋ] ビー スパリング",
+            "spotting potential → g が p に続く（子音+子音） [ˈspɑːɾɪŋ pəˈtɛnʃəl] スパリング ポテンシャル",
+            "base locations → s が l に続く（子音+子音） [ˈbeɪs loʊˈkeɪʃənz] ベイス ロケイションズ",
+            "flying over → g が o に続く [ˈflaɪɪŋ ˈoʊvər] フライング オーバー",
+            "the biome → ə が b に連結 [ðə baɪˈoʊm] ザ バイオーム"
+          ],
+          "kana": "ザイ ウィル ビー スパリング ポテンシャル ベイス ロケイションズ ワイル フライング オーバー ザ バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have spotted",
+      "ipa": "/wɪl həv ˈspɑːɾəd/",
+      "examples": [
+        {
+          "en": "By the end of the week, we will have spotted all the cave systems in the area.",
+          "ja": "週末までに、私たちはこの地域のすべての洞窟システムを見つけ終わっているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈwik | wi wɪl həv ˈspɑːɾəd ɔːl ðə ˈkeɪv ˈsɪstəmz ɪn ði ˈɛriə/",
+          "linking": [
+            "end of → d が ə に連結 [ˈɛnd əv] エンド アヴ",
+            "of the → v が ð に続く（子音+子音）。of は弱形 /əv/、the は弱形 /ðə/ [əv ðə] アヴ ザ",
+            "will have → l が h に未開放で続く [wɪl̚ həv] ウィル ハヴ",
+            "have spotted → v が s に未開放で続く。have は弱形 /həv/ [həv ˈspɑːɾəd] ハヴ スパラド",
+            "spotted all → d が ɔ に連結 [ˈspɑːɾəd ɔːl] スパラド オール",
+            "the cave → ə が k に続く（子音+子音） [ðə ˈkeɪv] ザ ケイブ",
+            "in the → n が ð に続く [ɪn ðə] イン ザ"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ ウィーク、ウィ ウィル ハヴ スパラド オール ザ ケイブ システムズ イン ザ エリア"
+        },
+        {
+          "en": "He will have spotted three different ore types before noon if he continues mining.",
+          "ja": "彼が採掘を続ければ、正午までに3つの異なる鉱石タイプを見つけ終わっているでしょう。",
+          "ipa": "/hi wɪl həv ˈspɑːɾəd θri ˈdɪfərənt ˈɔːr taɪps bɪˈfɔːr ˈnuːn ɪf hi kənˈtɪnjuːz ˈmaɪnɪŋ/",
+          "linking": [
+            "will have → l が h に未開放で続く [wɪl̚ həv] ウィル ハヴ",
+            "have spotted → v が s に未開放で続く。have は弱形 /həv/ [həv ˈspɑːɾəd] ハヴ スパラド",
+            "spotted three → d が θ に続く（子音+子音） [ˈspɑːɾəd θri] スパラド スリー",
+            "ore types → r が t に続く（子音+子音） [ˈɔːr taɪps] オア タイプス",
+            "if he → f が h に続く（子音+子音） [ɪf hi] イフ ヒー",
+            "he continues → i が k に続く（子音+子音） [hi kənˈtɪnjuːz] ヒー コンティニューズ"
+          ],
+          "kana": "ヒー ウィル ハヴ スパラド スリー ディファレント オア タイプス ビフォア ヌーン イフ ヒー コンティニューズ マイニング"
+        }
+      ]
+    }
+  ]
+}

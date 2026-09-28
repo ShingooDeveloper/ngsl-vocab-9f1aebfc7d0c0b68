@@ -1,0 +1,370 @@
+{
+  "word": "time",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/taɪm/",
+  "rank": 16,
+  "level": "A1",
+  "hi": "time(?:s|d)?|timing",
+  "meanings": [
+    "【名詞】時間、時刻、時間帯（a point or period in duration measured by clocks and calendars）",
+    "【名詞】時代、時期（a particular period or instance）",
+    "【動詞】（イベント・プロセスなど）が起こる時間を計測する；タイミングを計る、速度を測る（to measure or record the time taken by a process or action）"
+  ],
+  "examples": [
+    {
+      "en": "I don't have time to build a new base right now.",
+      "ja": "今、新しい拠点を建設する時間がありません。",
+      "ipa": "[aɪ ˈdoʊnt ˈhæv ˈtaɪm tə ˈbɪld ə ˈnu ˈbeɪs ˈraɪt ˈnaʊ]",
+      "linking": [
+        "have の末尾 /v/ が time の初頭母音 /t/ に連結 [ˈhæv ˈtaɪm]→ハヴ タイム",
+        "to は機能語で弱形 /tə/。build の初頭に連結 [tə ˈbɪld]→タ ビルド"
+      ],
+      "kana": "アイ ドウント ハヴ タイム タ ビルド ア ニュー ベース ライト ナウ"
+    },
+    {
+      "en": "What time does the server reset each day?",
+      "ja": "サーバーは毎日何時にリセットされますか？",
+      "ipa": "[wʌt ˈtaɪm ˈdʌz ðə ˈsɝvər ɪˈsɛt itʃ ˈdeɪ]",
+      "linking": [
+        "time の末尾 /m/ が does の初頭 /d/ に接近。",
+        "the は弱形 /ðə/ で server に連結。"
+      ],
+      "kana": "ワット タイム ダズ ザ サーバー リセット イッチ デイ"
+    },
+    {
+      "en": "Let me time how fast you can collect these drops.",
+      "ja": "あなたがこれらのドロップを集めるのがどのくらい速いか計測させてください。",
+      "ipa": "[lɛt mi ˈtaɪm haʊ fæst ju kən kəˈlɛkt ðiz ˈdrɑps]",
+      "linking": [
+        "time の末尾 /m/ が how の初頭 /h/ に接近。",
+        "can は機能語で弱形 /kən/ または /kən/。"
+      ],
+      "kana": "レット ミー タイム ハウ ファース ユー カン コレクト ディーズ ドラップス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is timing",
+      "ipa": "/ɪz ˈtaɪmɪŋ/",
+      "examples": [
+        {
+          "en": "I'm timing the redstone repeater delay to find the perfect pulse.",
+          "ja": "完璧なパルスを見つけるためにレッドストーンリピーターのディレイを計測しています。",
+          "ipa": "[aɪm ˈtaɪmɪŋ ðə ˈrɛdˌstoʊn rɪˈpitər dɪˈleɪ tu faɪnd ðə ˈpɝfɪkt ˈpʌls]",
+          "linking": [
+            "I'm の /m/ が timing の初頭 /t/ に接近。未開放気味 [aɪm̚ ˈtaɪmɪŋ]→アイム・タイミング",
+            "the は弱形 /ðə/ で redstone に連結。",
+            "repeater の末尾 /ɚ/ が delay の初頭母音 /d/ に連結 [ɪˈpitɚ dɪˈleɪ]→リピーター ディレイ",
+            "delay の末尾が to の弱形 /tə/ に連結 [dɪˈleɪ tə]→ディレイ タ",
+            "find + the → find の末尾 /d/ が the の初頭 /ð/ に接近 [faɪnd ðə]→ファインド ザ"
+          ],
+          "kana": "アイム タイミング ザ レッドストーン リピーター ディレイ タ ファインド ザ パーフィクト パルス"
+        },
+        {
+          "en": "They are timing how fast the mob spawner produces creatures.",
+          "ja": "彼らはモブスポーナーがどのくらい速く生物を出すかを計測しています。",
+          "ipa": "[ðeɪ ɑr ˈtaɪmɪŋ haʊ fæst ðə ˈmɑb ˈspɑnər prəˈdus ˈkritʃərz]",
+          "linking": [
+            "are は弱形 /ɑr/。timing の初頭 /t/ に接近 [ɑr ˈtaɪmɪŋ]→アー タイミング",
+            "the は弱形 /ðə/ で mob に連結。",
+            "spawner の末尾 /ɚ/ が produces の初頭母音 /p/ に連結 [ˈspɑnər prəˈdus]→スポーナー プロデューセス",
+            "produces の末尾 /z/ が creatures の初頭 /k/ に接近。"
+          ],
+          "kana": "ゼイ アー タイミング ハウ ファース ザ モブ スポーナー プロデューセス クリーチャーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was timing",
+      "ipa": "/wəz ˈtaɪmɪŋ/",
+      "examples": [
+        {
+          "en": "I was timing the smelter output when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、私はスメルターの出力を計測していました。",
+          "ipa": "[aɪ wəz ˈtaɪmɪŋ ðə ˈsmɛltər ˈaʊtˌpʊt wɛn ðə ˈkripər ɪkˈsploʊdɪd ˈnɪrˌbaɪ]",
+          "linking": [
+            "was は弱形 /wəz/。timing の初頭 /t/ に接近 [wəz ˈtaɪmɪŋ]→ワズ タイミング",
+            "the は弱形 /ðə/ で smelter に連結。",
+            "smelter の末尾 /ɚ/ が output の初頭 /ɑ/ に連結 [ˈsmɛltər ˈaʊtˌpʊt]→スメルター アウトプット",
+            "output の末尾が when に接近。when は /wɛn/ で the は /ðə/。"
+          ],
+          "kana": "アイ ワズ タイミング ザ スメルター アウトプット ウェン ザ クリーパー イクスプローディド ニアバイ"
+        },
+        {
+          "en": "We were timing the farm's production rate before the update.",
+          "ja": "アップデート前に、私たちは農場の生産速度を計測していました。",
+          "ipa": "[wi wɚ ˈtaɪmɪŋ ðə ˈfɑrmz prəˈdʌkʃən ˈreɪt bɪˈfɔr ðə ˈʌpˌdeɪt]",
+          "linking": [
+            "were は弱形 /wɚ/。timing の初頭 /t/ に接近 [wɚ ˈtaɪmɪŋ]→ワー タイミング",
+            "the は弱形 /ðə/。farm's に連結。",
+            "rate の末尾 /t/ が before の初頭 /b/ に接近 [ˈreɪt bɪˈfɔr]→レイト ビフォー",
+            "before の末尾 /r/ が the の初頭 /ð/ に連結。the は弱形。"
+          ],
+          "kana": "ウィ ワー タイミング ザ ファームズ プロダクション レイト ビフォー ザ アップデイト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been timing",
+      "ipa": "/həd bɪn ˈtaɪmɪŋ/",
+      "examples": [
+        {
+          "en": "I had been timing the redstone circuit for hours before I realized the problem.",
+          "ja": "問題に気づくまで何時間もレッドストーン回路を計測していました。",
+          "ipa": "[aɪ həd bɪn ˈtaɪmɪŋ ðə ˈrɛdˌstoʊn ˈsɝkɪt fɔr ˈaʊərz bɪˈfɔr aɪ ˈrɪˌlaɪzd ðə ˈprɑbləm]",
+          "linking": [
+            "had は弱形 /həd/。been の初頭 /b/ に連結 [həd bɪn]→ハッド ビン",
+            "been は弱形 /bɪn/。timing の初頭 /t/ に接近。",
+            "the は弱形 /ðə/。redstone に連結。",
+            "circuit の末尾 /t/ が for の初頭 /f/ に接近。for は弱形 /fɚ/。",
+            "hours の末尾 /z/ が before の初頭 /b/ に接近。before の末尾 /r/ が realized の初頭 /r/ に接近。"
+          ],
+          "kana": "アイ ハッド ビン タイミング ザ レッドストーン サーキット フォー アワーズ ビフォー アイ リアライズド ザ プロブラム"
+        },
+        {
+          "en": "They had been timing the spawn rates all night when the server crashed.",
+          "ja": "サーバーがクラッシュしたとき、彼らは一晩中スポーン率を計測していました。",
+          "ipa": "[ðeɪ həd bɪn ˈtaɪmɪŋ ðə ˈspoʊn ˈreɪts ɔl ˈnaɪt wɛn ðə ˈsɝvər ˈkræʃt]",
+          "linking": [
+            "had は弱形 /həd/。been の初頭 /b/ に連結 [həd bɪn]→ハッド ビン",
+            "been は弱形 /bɪn/。timing の初頭 /t/ に接近。",
+            "the は弱形 /ðə/。spawn に連結。",
+            "spawn の末尾が rates の初頭に接近。rates の末尾 /s/ が all の初頭 /ɔ/ に接近。",
+            "all の末尾 /l/ が night の初頭 /n/ に接近 [ɔl ˈnaɪt]→オール ナイト"
+          ],
+          "kana": "ゼイ ハッド ビン タイミング ザ スポーン レイツ オール ナイト ウェン ザ サーバー クラッシュト"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "for a long time",
+      "ja": "長い間",
+      "example": "I've been mining for a long time.",
+      "example_ja": "ずっと採掘してきました。",
+      "ipa": "[aɪv bɪn ˈmaɪnɪŋ fɚ ə ˈlɔŋ taɪm]",
+      "linking": [
+        "語末子音 /r/ (for の弱形 /fɚ/) が a の /ə/ に連結 [fɚə] フラ",
+        "for・a は弱形で無強調（/fɚ ə/）",
+        "long が相対的に第2ピークとして強調される"
+      ],
+      "kana": "アイヴ ビン マイニング フラ ロング タイム"
+    },
+    {
+      "idiom": "at that time",
+      "ja": "その時に、当時",
+      "example": "At that time, I was mining when a Creeper appeared.",
+      "example_ja": "その時、採掘中にクリーパーが出現した。",
+      "ipa": "[æt̚ ðæt̚ ˈtaɪm aɪ wəz ˈmaɪnɪŋ wɛn ə ˈkripɚ əˈpɪrd]",
+      "linking": [
+        "at that: at の末子音 /t/ が未開放で、that の初子音 /ð/ に先行 [æt̚ ðæt̚]",
+        "that time: that の末子音 /t/ と time の初子音 /t/ が重なり、1つの未開放 /t̚/ に聞こえる [ðæt̚ ˈtaɪm]",
+        "a は機能語で弱形 /ə/",
+        "Creeper appeared: Creeper の末子音 /r/ が appeared の初母音 /ə/ に連結 [ˈkripɚ əˈpɪrd]"
+      ],
+      "kana": "アッ ザッタイム アイ ワズ マイニング ウェン ア クリーパー ア ピアード"
+    },
+    {
+      "idiom": "time to",
+      "ja": "~する時が来た、~する時間だ",
+      "example": "It's time to go mining for diamonds.",
+      "example_ja": "ダイヤモンドを採掘しに行く時間です。",
+      "ipa": "/ɪts ˈtaɪm tu ɡoʊ ˈmaɪnɪŋ fɔr ˈdaɪməndz/",
+      "linking": [
+        "to は弱形 /tə/ または /tu/。go の初頭に連結。",
+        "mining の末尾が for の初頭に接近。for は弱形 /fər/。"
+      ],
+      "kana": "イッツ タイム タ ゴー マイニング ファー ダイマンズ"
+    },
+    {
+      "idiom": "keep time",
+      "ja": "時間を守る、タイミングを保つ、リズムに合わせる",
+      "example": "We need to keep time on our mining schedule.",
+      "example_ja": "採掘スケジュールのタイムキープが必要です。",
+      "ipa": "/wi ˈnid tu ˈkip ˈtaɪm ɑn ˈaʊər ˈmaɪnɪŋ ˈskɛdʒul/",
+      "linking": [
+        "need の末尾 /d/ が to の初頭母音に連結。to は弱形 /tə/。[ˈnid tə]→ニーダ",
+        "our は弱形 /ɑr/ または /ɚ/。"
+      ],
+      "kana": "ウィ ニーダ キープ タイム オン アワー マイニング スケジュール"
+    },
+    {
+      "idiom": "this time",
+      "ja": "今度、今回",
+      "example": "This time, I'll collect more resources before the night falls.",
+      "example_ja": "今度は夜が明ける前に、もっとリソースを集めます。",
+      "ipa": "/ðɪs ˈtaɪm | aɪl kəˈlɛkt mɔɹ ˈrɛsɚsɪz bɪˈfɔɹ ðə ˈnaɪt fɔlz/",
+      "linking": [
+        "「time I'll」で time の末子音 /m/ が I'll の初頭母音 /aɪ/ に連結 [ˈtaɪm aɪl] タイム アイル",
+        "「collect more」で collect の末子音 /t/ が more の初子音 /m/ に先行して未開放 [kəˈlɛkt̚ mɔɹ] コレクト モア",
+        "「before the」で before の末子音 /ɹ/ が the の弱形 /ðə/ に連結 [bɪˈfɔɹðə] ビフォア ザ",
+        "「night falls」で night の末子音 /t/ が falls の初子音 /f/ に先行して未開放 [ˈnaɪt̚ fɔlz] ナイッ フォールズ"
+      ],
+      "kana": "ディス タイム | アイル コレクト モア レソーシズ ビフォア ザナイト フォールズ"
+    },
+    {
+      "idiom": "in time",
+      "ja": "間に合って",
+      "example": "We got the materials in time to build the fortress.",
+      "example_ja": "砦を建設するのに間に合わせて材料を集めました。",
+      "ipa": "/wi ˈɡɑt̚ ðə məˈtɪriəlz ɪn ˈtaɪm tə ˈbɪld ðə ˈfɔrtrəs/",
+      "linking": [
+        "got の末尾 /t/ が未開放で the に接近。the は弱形 /ðə/。[ɡɑt̚ ðə] ゴット ザ",
+        "to は機能語で弱形 /tə/ に弱化。build に接近。[tə ˈbɪld] タ ビルド",
+        "the は弱形 /ðə/。fortress に連結。[ðə ˈfɔrtrəs] ザ フォートレス"
+      ],
+      "kana": "ウィ ゴット ザ マテリアルズ イン タイム タ ビルド ザ フォートレス"
+    },
+    {
+      "idiom": "many times",
+      "ja": "何度も、何回も（繰り返し、複数回）",
+      "example": "I've mined ore many times over there.",
+      "example_ja": "あそこで何度も鉱石を採掘してきました。",
+      "ipa": "/aɪv maɪnd ɔr ˈmɛni taɪmz ˈoʊvər ðɛr/",
+      "linking": [
+        "mined ore → mined の語末 /d/ が ore の母音 /ɔ/ に連結 [maɪnd ɔr]",
+        "times over → times の語末 /z/ が over の母音 /oʊ/ に連結 [taɪmz ˈoʊvər]"
+      ],
+      "kana": "アイヴ マインドオー メニ タイムズオーヴァー ゼア"
+    },
+    {
+      "idiom": "What time 〜?",
+      "ja": "いつ〜ですか、何時に〜ですか",
+      "example": "What time does the Nether portal activate?",
+      "example_ja": "ネザーポータルはいつアクティベートされますか？",
+      "ipa": "[wʌt ˈtaɪm ˈdʌz ðə ˈnɛðər ˈpɔrtəl ˈæktɪveɪt]",
+      "linking": [
+        "What time: what の末子音 /t/ と time の初子音 /t/ が重なり1つに聞こえる [wʌt ˈtaɪm]→ワッタイム",
+        "does the: does の末子音 /z/ が the に接近。the は弱形 /ðə/ で Nether に連結 [ˈdʌz ðə]→ダズ ザ",
+        "portal activate: portal の末子音 /l/ が activate の初母音 /æ/ に連結 [ˈpɔrtəl ˈæktɪveɪt]→ポータル アクティベイト"
+      ],
+      "kana": "ワット タイム ダズ ザ ネザー ポータル アクティベイト"
+    },
+    {
+      "idiom": "all the time",
+      "ja": "いつも、常に（定期的または継続的に起こる）",
+      "example": "We're gathering resources all the time in survival mode.",
+      "example_ja": "サバイバルモードではいつもリソースを集めています。",
+      "ipa": "/wɪr ˈɡæðərɪŋ ˈrɛsɚsɪz ɔl ðə ˈtaɪm ɪn sɚˈvaɪvəl ˈmoʊd/",
+      "linking": [
+        "We're gathering: We're の末尾 /r/ が gathering の初頭母音 /ɡ/ に連結 [wɪr ˈɡæðərɪŋ] ウィアー ギャザリング",
+        "all the: all の末尾子音 /l/ が the の弱形 /ðə/ に連結 [ɔl ðə] オール ザ",
+        "in survival: in の弱形 /ɪn/ が survival の初頭 /s/ に続く（子音+子音）[ɪn sɚˈvaɪvəl] イン サーバイバル"
+      ],
+      "kana": "ウィアー ギャザリング レソーシーズ オール ザ タイム イン サーバイバル モード"
+    },
+    {
+      "idiom": "at the same time",
+      "ja": "同時に",
+      "example": "You must gather resources and defend your base at the same time in survival mode.",
+      "example_ja": "サバイバルモードでは、同時にリソースを集めつつ拠点を防衛しなければならない。",
+      "ipa": "[ju məst ˈɡæðɚ ˈɹɪzɔɹsɪz ənd dɪˈfɛnd jɔɹ ˈbeɪs æt ðə ˈseɪm taɪm ɪn sɚˈvaɪvəl ˈmoʊd]",
+      "linking": [
+        "at: 語末 /t/ は文中で未開放 [æt̚]、the の初子音 /ð/ に先行",
+        "the: 機能語で弱形 /ðə/ に弱化"
+      ],
+      "kana": "ユー マスト ギャザー リザーシズ アンド ディフェンド ユア ベース アッ ザ セイム タイム イン サーバイバル モード"
+    },
+    {
+      "idiom": "(at) any time",
+      "ja": "いつでも、どんな時でも",
+      "example": "I can craft items at any time if I'm in this base.",
+      "example_ja": "このベースにいれば、いつでもアイテムを作製できます。",
+      "ipa": "/aɪ kən ˈkræft ˈaɪtəmz æt ˈɛni taɪm ɪf aɪm ɪn ðɪs ˈbeɪs/",
+      "linking": [
+        "craft の末尾 /t/ が items の初頭 /aɪ/ に連結 [ˈkræft ˈaɪtəmz]→クラフト アイタムズ",
+        "at の末尾 /t/ が any の初頭 /ɛ/ に連結 [æt ˈɛni]→アット エニー",
+        "if の末尾 /f/ が I'm の初頭 /aɪ/ に連結 [ɪf aɪm]→イフ アイム"
+      ],
+      "kana": "アイ カン クラフト アイタムズ アット エニー タイム イフ アイム イン ディス ベース"
+    },
+    {
+      "idiom": "some time",
+      "ja": "いずれ、ある時（ある時点で）",
+      "example": "Some time ago, we started mining for resources.",
+      "example_ja": "ずっと前に、私たちはリソースの採掘を始めました。",
+      "ipa": "/sʌm ˈtaɪm əˈɡoʊ | wi ˈstɑɾəd ˈmaɪnɪŋ fər ˈrɛsɚsɪz/",
+      "linking": [
+        "some の末子音 /m/ が time に続く [sʌm ˈtaɪm]→サムタイム",
+        "time の末子音 /m/ が ago の初母音 /ə/ に連結 [ˈtaɪm əˈɡoʊ]→タイム アゴー",
+        "for は機能語で弱形 /fər/ に弱化し、resources に連結 [fər ˈrɛsɚsɪz]→ファー レソーシズ"
+      ],
+      "kana": "サム タイム ア ゴー | ウィ スターリッド マイニング ファー レソーシズ"
+    },
+    {
+      "idiom": "for some time",
+      "ja": "しばらくの間",
+      "example": "We've been building this castle for some time now.",
+      "example_ja": "私たちはずっとこのお城を建築し続けています。",
+      "ipa": "/wiv bɪn ˈbɪldɪŋ ðɪs ˈkæsəl fə səm taɪm naʊ/",
+      "linking": [
+        "We've been → We've の /v/ と been の /b/。[wiv bɪn] ウィヴ ビン",
+        "been building → 語末子音 /n/ と初頭子音 /b/ が自然に連続 [bɪn ˈbɪldɪŋ] ビン ビルディング",
+        "building this → 語末鼻音 /ŋ/ が this の初頭 /ð/ に先行。this は弱形 /ðɪs/ [ˈbɪldɪŋ ðɪs] ビルディング ディス",
+        "for some time → for は弱形 /fə/。[fə səm taɪm] ファ サム タイム"
+      ],
+      "kana": "ウィヴ ビン ビルディング ディス キャスル ファ サム タイム ナウ"
+    },
+    {
+      "idiom": "have a good time",
+      "ja": "楽しい時間を過ごす",
+      "example": "We had a good time mining for diamonds together in the deep caves.",
+      "example_ja": "私たちは深いケーブで一緒にダイヤを採掘して、楽しい時間を過ごした。",
+      "ipa": "[wiː hæɾə ɡʊɾ ˈtaɪm ˈmaɪnɪŋ fɚ ˈdaɪmənz tə ˈɡɛðɚ ɪn ðə ˈdiːp keɪvz]",
+      "linking": [
+        "had の末尾 /d/ が a の弱形 /ə/ に連結、フラップT化により [hæɾə] ハラ",
+        "good の末尾 /d/ が time の初頭 /t/ に先行。未開放またはフラップ化により [ɡʊɾ]",
+        "to は機能語で弱形 /tə/、gether に連結 [tə ˈɡɛðɚ] タゲザー",
+        "the は弱形 /ðə/、deep に連結 [ðə ˈdiːp] ザディープ"
+      ],
+      "kana": "ウィー ハラ グラ タイム マイニング ファー ダイマンズ タ ゲザー イン ザ ディープ ケイブズ"
+    },
+    {
+      "idiom": "on time",
+      "ja": "時間通りに、予定通りに",
+      "example": "We need to finish this building on time to avoid the mobs.",
+      "example_ja": "モブを避けるために、この建物を時間通りに完成させる必要があります。",
+      "ipa": "/wiː ˈniːdə ˈfɪnɪʃ ðɪs ˈbɪldɪŋ ɑn ˈtaɪm tə əˈvɔɪd ðə ˈmɑbz/",
+      "linking": [
+        "need to → need の語末子音 /d/ が to の弱形 /ə/ に連結 [ˈniːdə] ニーダ",
+        "to は機能語で弱形 /tə/、avoid に先行",
+        "the は機能語で弱形 /ðə/、mobs に先行"
+      ],
+      "kana": "ウィー ニーダ フィニッシュ ディス ビルディング アン タイム タ アボイド ザ マブズ"
+    },
+    {
+      "idiom": "How many times 〜?",
+      "ja": "何回〜ですか",
+      "example": "How many times have you encountered a Creeper?",
+      "example_ja": "Creeper に何回遭遇しましたか？",
+      "ipa": "[ˈhaʊ ˈmɛni ˈtaɪmz həv juː ɪnˈkaʊntəɾə ˈkripər]",
+      "linking": [
+        "have の末子音 /v/ が you の初子音 /j/ に連結 [həv juː]→ハヴ ユー",
+        "encountered の末子音 /d/ が a の母音 /ə/ の前でフラップ化し連結 [ɪnˈkaʊntəɾə]→インカウンタラ",
+        "a は機能語で弱形 /ə/。Creeper に続く [ə ˈkripər]→ア クリーパー"
+      ],
+      "kana": "ハウ メニ タイムズ ハヴ ユー インカウンタラ クリーパー"
+    },
+    {
+      "idiom": "behind the times",
+      "ja": "時代遅れで；進歩に遅れている",
+      "example": "That old mining technique is behind the times.",
+      "example_ja": "その古い採掘技法は時代遅れです。",
+      "ipa": "[ðæt̚ ˈoʊld ˈmaɪnɪŋ tekˈnik ɪz bɪˈhaɪnd ðə ˈtaɪmz]",
+      "linking": [
+        "「old mining」→ old の末子音 /d/ が mining の初頭母音 /m/ に連結 [ˈoʊld ˈmaɪnɪŋ] オールド マイニング",
+        "「technique is」→ technique の末子音 /k/ が is の初頭母音 /ɪ/ に連結 [tekˈnik ɪz] テクニック イズ",
+        "「behind the」→ behind の末子音 /d/ が the の弱形 /ðə/ に連結 [bɪˈhaɪnd ðə] ビハインド ザ"
+      ],
+      "kana": "ザット オールド マイニング テクニック イズ ビハインド ザ タイムズ"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "word": "constrain",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/kənˈstreɪn/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "constrain(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】(人を)無理に〜させる、強制する。意志に反して〜をさせる、無理やり行わせる（force or compel someone to do something against their will）",
+    "【動詞】制限する、拘束する、束縛する。自由な行動を制限する、活動の範囲を狭める（restrict or limit something within certain bounds）",
+    "【動詞】（空間に）押し込む、圧縮する、狭くする。狭い場所に圧力をかけて入れる、圧迫する（compress or squeeze into a narrow or confined space）"
+  ],
+  "examples": [
+    {
+      "en": "Server rules constrain all player activity in the protected zone.",
+      "ja": "サーバーのルールは保護ゾーン内のすべてのプレイヤーの活動を制限する。",
+      "ipa": "/ˈsɝːvɚ rulz kənˈstreɪn ɔl ˈpleɪɚ ækˈtɪvəti ɪn ðə prəˈtɛktɪd zoʊn/",
+      "linking": [
+        "constrain の語末 /n/ が all の /ɔ/ に連結し [kənˈstreɪn ɔl]：コンストレイノール",
+        "player の語末 /r/ が activity の /æ/ に連結し [ˈpleɪɚ ækˈtɪvəti]：プレイアー アクティビティ",
+        "the は弱形 /ðə/：ザ"
+      ],
+      "kana": "サーヴァー ルーズ コンストレイノール プレイアー アクティビティ イン ザ プラテクティド ゾウン"
+    },
+    {
+      "en": "Limited diamonds constrain our building freedom in early survival mode.",
+      "ja": "限られたダイヤモンドは初期のサバイバルモードで私たちの建築の自由を制限する。",
+      "ipa": "/ˈlɪmətəd ˈdaɪmənds kənˈstreɪn aʊɚ ˈbɪldɪŋ ˈfridəm ɪn ˈɝːli sɝˈvaɪvəl moʊd/",
+      "linking": [
+        "limited の /t/ は母音に挟まれてフラップ化 [ˈlɪmɪɾəd]：リミラッ",
+        "constrain の語末 /n/ が our の /aʊ/ に連結し [kənˈstreɪn aʊɚ]：コンストレイナワー",
+        "building の語末 /ŋ/ が freedom の /f/ に続く（子音+子音で別）"
+      ],
+      "kana": "リミラッ ダイマンズ コンストレイナワー ビルディング フリーダム イン アーリー サーヴァイヴァル モウド"
+    },
+    {
+      "en": "Mobs constrained to designated areas perform better with redstone automation.",
+      "ja": "指定された地域に制限されたモブはレッドストーン自動化でより良く機能する。",
+      "ipa": "/moʊbz kənˈstreɪnd tu ˌdɛsɪɡˈneɪtəd ˈɛriəz pərˈfɔːrm ˈbɛtɚ wɪð ˈrɛdˌstoʊn ˌɔːtəˈmeɪʃən/",
+      "linking": [
+        "constrained の語末 /d/ が to の /t/ の前に位置して未開放 [kənˈstreɪnd̚ tu]：コンストレインッ トゥ",
+        "to は弱形 /tə/ または /tu/：タ",
+        "designated の /t/ は母音に挟まれてフラップ化 [ˌdɛsɪɡˈneɪɾəd]：デシグネイラッ",
+        "better の /t/ は母音に挟まれてフラップ化 [ˈbɛɾɚ]：ベラー"
+      ],
+      "kana": "モウブズ コンストレインッ トゥ デシグネイラッ エリアズ パフォーム ベラー ウィズ レッドストウン オーテメイション"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "be constrained by",
+      "ja": "〜に制限される、〜に制約される",
+      "example": "Building height is constrained by world height limits in this version.",
+      "example_ja": "このバージョンでは建築の高さはワールドの高さの制限に制約される。",
+      "ipa": "/ˈbɪldɪŋ haɪt ɪz kənˈstreɪnd baɪ wɝld haɪt ˈlɪmɪts ɪn ðɪs ˈvɝʒən/",
+      "linking": [
+        "height の語末 /t/ が is の /ɪ/ の前に位置して未開放になり [haɪt̚ ɪz]：ハイッ イズ",
+        "limits の /t/ は母音に挟まれてフラップ化 [ˈlɪmɪɾəts]：リミラッス",
+        "the は弱形 /ðə/（出現しない場合も）"
+      ],
+      "kana": "ビルディング ハイッ イズ コンストレインド バイ ワールド ハイッ リミラッス イン ディス ヴァージャン"
+    },
+    {
+      "idiom": "constrain to",
+      "ja": "～に限定する、～に制限する",
+      "example": "Server rules constrain players to the main island, no teleporting out.",
+      "example_ja": "サーバールールはプレイヤーをメイン島に限定し、外へのテレポートを禁止する。",
+      "ipa": "/ˈsɝːvɚ rulz kənˈstreɪn ˈpleɪɚz tu ðə ˈmeɪn ˈaɪlənd noʊ ˈtɛləˌpɔːrtɪŋ aʊt/",
+      "linking": [
+        "players の語末 /z/ が to の /t/ の前に位置して両音が聞こえる [ˈpleɪɚz tu]：プレイアーズ トゥ",
+        "to は弱形 /tə/ または /tu/：タ",
+        "the は弱形 /ðə/：ザ"
+      ],
+      "kana": "サーヴァー ルーズ コンストレイン プレイアーズ トゥ ザ メイン アイランド ノウ テレポーティング アウト"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "constrains",
+      "ipa": "/kənˈstreɪnz/",
+      "examples": [
+        {
+          "en": "Each redstone component constrains the timing of the pulse with precision.",
+          "ja": "各レッドストーン部品は、パルスのタイミングを正確に制限します。",
+          "ipa": "/itʃ ˈrɛdstoʊn kəmˈpoʊnənt kənˈstreɪnz ðə ˈtaɪmɪŋ əv ðə ˈpʌls wɪð prɪˈsɪʒən/",
+          "kana": "イーチ レッドストウン コンポウネント コンストレインズ ザ タイミング アヴ ザ パルス ウィス プリシジョン",
+          "linking": [
+            "constrains の語末子音 /z/ が the の弱形 /ðə/ に連結「コンストレインズ ザ」",
+            "the は弱形 /ðə/「ザ」に弱化",
+            "of は弱形 /əv/「アヴ」に弱化"
+          ]
+        },
+        {
+          "en": "Bedrock constrains players from digging any deeper than Y-level -64 in survival worlds.",
+          "ja": "ベッドロックはサバイバルワールドでY-level -64より深く掘ることからプレイヤーを制限します。",
+          "ipa": "/ˈbɛdɹɑk kənˈstreɪnz ˈpleɪɚz frəm ˈdɪɡɪŋ ˈɛni ˈdipɚ ðæn waɪ ˈlɛvəl ˈneɡətɪv ˈsɪksti-ˈfoʊɹ ɪn sɚˈvaɪvəl wɝldz/",
+          "kana": "ベッドラック コンストレインズ プレイアーズ フラム ディギング エニー ディーパー ザン ワイ レヴル ネガティヴ シクスティーフォー イン サーヴァイヴル ワールズ",
+          "linking": [
+            "constrains の語末子音 /z/ が players の /p/ に続き、子音+子音で連結なし",
+            "from は弱形 /frəm/「フラム」に弱化",
+            "than の語末 /n/ が way の /w/ に続く子音+子音の環境"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "constrained",
+      "ipa": "/kənˈstreɪnd/",
+      "examples": [
+        {
+          "en": "We constrained the water flow with sand blocks to prevent flooding yesterday.",
+          "ja": "私たちは昨日、砂ブロックで水の流れを制限して洪水を防ぎました。",
+          "ipa": "/wi kənˈstreɪnd ðə ˈwɔtɚ floʊ wɪð sænd blɑks tu prɪˈvɛnt ˈflʌdɪŋ ˈjɛstɚdeɪ/",
+          "kana": "ウィー コンストレインド ザ ウォータ フロウ ウィス サンド ブラックス トゥー プリヴェント フラッディング イェスターデイ",
+          "linking": [
+            "constrained の語末子音 /d/ が the の弱形 /ðə/ に連結「コンストレインド ザ」",
+            "the は弱形 /ðə/「ザ」に弱化",
+            "to は弱形 /tə/「トゥー」に弱化"
+          ]
+        },
+        {
+          "en": "The builders constrained the mob spawner to a five-block radius with careful planning.",
+          "ja": "ビルダーたちは慎重な計画でモブスポーナーを5ブロック半径に制限しました。",
+          "ipa": "/ðə ˈbɪldɚz kənˈstreɪnd ðə mɑb ˈspɔnɚ tu ə ˈfaɪv blɑk ˈreɪdiəs wɪð ˈkɛɹfəl ˈplænɪŋ/",
+          "kana": "ザ ビルダーズ コンストレインド ザ マッブ スポーナー トゥー ア ファイヴ ブラック レイディアス ウィス ケアフル プランニング",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "constrained の語末子音 /d/ が the の弱形 /ðə/ に連結「コンストレインド ザ」",
+            "to は弱形 /tə/「トゥー」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "constrained",
+      "ipa": "/kənˈstreɪnd/",
+      "examples": [
+        {
+          "en": "Having constrained the TNT carefully with redstone signals, we avoided massive explosions.",
+          "ja": "レッドストーン信号でTNTを慎重に制限したことで、大規模爆発を回避しました。",
+          "ipa": "/ˈhævɪŋ kənˈstreɪnd ðə ˈtiːˈɛnˈtiː ˈkɛɹfəli wɪð ˈrɛdstoʊn ˈsɪɡnəlz wi əˈvɔɪdəd ˈmæsɪv ɪkˈsploʊʒənz/",
+          "kana": "ハービング コンストレインド ザ ティーエネティー ケアフリ ウィス レッドストウン シグナルズ ウィー アヴォイディド マッシブ イクスプロージョンズ",
+          "linking": [
+            "Having の語末 /ŋ/ が constrained の /k/ に続く子音+子音の環境",
+            "constrained の語末子音 /d/ が the の弱形 /ðə/ に連結「コンストレインド ザ」",
+            "with は弱形 /wɪð/「ウィス」に弱化"
+          ]
+        },
+        {
+          "en": "The spawner area was constrained by a border that kept all players safely inside.",
+          "ja": "スポーナーのエリアはすべてのプレイヤーを安全に内部に保つ境界線で制限されていました。",
+          "ipa": "/ðə ˈspɔnɚ ˈɛriə wəz kənˈstreɪnd baɪ ə ˈbɔɹdɚ ðæt kɛpt ɔl ˈpleɪɚz ˈseɪfli ɪnˈsaɪd/",
+          "kana": "ザ スポーナー エリア ワズ コンストレインド バイ ア ボーダー ザッ キェッ オール プレイアーズ セイフリー インサイド",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "was の /z/ が constrained の /k/ に続く子音+子音で別",
+            "constrained の語末 /d/ が by の /b/ に続く子音+子音の環境で未開放",
+            "kept の /t/ が all の /l/ に続く子音+子音で未開放 [kɛp̚t ɔl]「キェッ オール」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "constraining",
+      "ipa": "/kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "Constraining large amounts of water in a confined space requires careful planning and lots of practice.",
+          "ja": "狭い空間に大量の水を制限することは、慎重な計画と多くの実践が必要です。",
+          "ipa": "/kənˈstreɪnɪŋ ˈlɑɹdʒ əˈmaʊnts əv ˈwɔtɚ ɪn ə kənˈfaɪnd speɪs rɪˈkwaɪɚz ˈkɛɹfəl ˈplænɪŋ ænd ˈlɑts əv ˈpræktɪs/",
+          "kana": "コンストレイニング ラージ アマウンツ アヴ ウォータ イン ア コンファインド スペイス リクワイアーズ ケアフル プランニング アンド ラッツ アヴ プラクティス",
+          "linking": [
+            "constraining の語末 /ŋ/ が large の /l/ に続く子音+子音の環境",
+            "of は弱形 /əv/「アヴ」に弱化（2度目）",
+            "and は弱形 /ən/ または /ən̩d/「アンド」"
+          ]
+        },
+        {
+          "en": "The limited block types available are constraining our creative design options significantly in multiplayer builds.",
+          "ja": "利用可能な限られたブロック種は、マルチプレイヤービルドで私たちの創造的デザインのオプションを大きく制限しています。",
+          "ipa": "/ðə ˈlɪmətəd blɑk taɪps əˈvɛləbəl ɑɹ kənˈstreɪnɪŋ aʊɚ kriˈeɪtɪv dɪˈzaɪn ˈɑpʃənz sɪɡˈnɪfɪkəntli ɪn ˈmʌltɪˌpleɪɚ bɪldz/",
+          "kana": "ザ リミラッド ブラック タイプス アヴェイラバル アー コンストレイニング アワー クリエイティヴ ディザイン オプションズ シグニフィカントリー イン マルチプレイアー ビルズ",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "limited の /t/ は母音に挟まれてフラップ化 [ˈlɪmɪɾəd]「リミラッド」",
+            "are は弱形 /ɑɹ/「アー」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is constraining",
+      "ipa": "/ɪz kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The server rules are constraining all player activity during the tournament.",
+          "ja": "サーバーのルールはトーナメント中にすべてのプレイヤーの活動を制限しています。",
+          "ipa": "/ðə ˈsɝːvɚ rulz ɑɹ kənˈstreɪnɪŋ ɔl ˈpleɪɚ ækˈtɪvəti ˈdʊrɪŋ ðə ˈtɜːrnəmənt/",
+          "kana": "ザ サーヴァー ルーズ アー コンストレイニング オール プレイアー アクティビティ ドゥーリング ザ ターナメント",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "are は弱形 /ɑɹ/「アー」に弱化",
+            "player の語末 /r/ が activity の /æ/ に連結 [ˈpleɪɚ ækˈtɪvəti]「プレイアー アクティビティ」"
+          ]
+        },
+        {
+          "en": "I am constraining my TNT explosions with careful redstone circuits.",
+          "ja": "私は慎重なレッドストーン回路でTNT爆発を制限しています。",
+          "ipa": "/aɪ æm kənˈstreɪnɪŋ maɪ ˈtiːɛnˈtiː ɪkˈsploʊʒənz wɪð ˈkɛɹfəl ˈrɛdstoʊn ˈsɜːrkɪts/",
+          "kana": "アイ アム コンストレイニング マイ ティーエネティー イクスプロージョンズ ウィス ケアフル レッドストウン サーキッツ",
+          "linking": [
+            "am は弱形 /æm/「アム」に弱化",
+            "with は弱形 /wɪð/「ウィス」に弱化",
+            "careful の /l/ の語末が redstone の /r/ に続く子音+子音の環境"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was constraining",
+      "ipa": "/wəz kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "While I was constraining the water flow, the server lagged terribly.",
+          "ja": "私が水の流れを制限している間、サーバーがひどくラグりました。",
+          "ipa": "/waɪl aɪ wəz kənˈstreɪnɪŋ ðə ˈwɔːtɚ floʊ ðə ˈsɝːvɚ læɡd ˈtɛrəbli/",
+          "kana": "ワイル アイ ワズ コンストレイニング ザ ウォーター フロウ ザ サーヴァー ラッグド テラブリー",
+          "linking": [
+            "was は弱形 /wəz/「ワズ」に弱化",
+            "The は弱形 /ðə/「ザ」に弱化（2度出現）",
+            "lagged の /d/ が terribly の /t/ の前で未開放 [læɡd̚ ˈtɛrəbli]「ラッグッ テラブリー」"
+          ]
+        },
+        {
+          "en": "The builders were constraining their resources while mining for emeralds.",
+          "ja": "ビルダーたちはエメラルド採掘中に彼らのリソースを制限していました。",
+          "ipa": "/ðə ˈbɪldɚz wɚ kənˈstreɪnɪŋ ðɛɚ ˈrɛsɚsɪz waɪl ˈmaɪnɪŋ fɔɹ ˈɛmərəldz/",
+          "kana": "ザ ビルダーズ ワー コンストレイニング デア レソーセズ ワイル マイニング フォー エメラルズ",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "were は弱形 /wɚ/「ワー」に弱化",
+            "for は弱形 /fɔɹ/ または /fɚ/「フォー」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been constraining",
+      "ipa": "/həd bɪn kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "After we had been constraining our diamond supply for weeks, we finally found a vein.",
+          "ja": "私たちが数週間ダイヤモンドの供給を制限した後、私たちはついに鉱脈を見つけました。",
+          "ipa": "/ˈæftɚ wi həd bɪn kənˈstreɪnɪŋ aʊɚ ˈdaɪmənd səˈplaɪ fɚ wiks wi ˈfaɪnəli faʊnd ə veɪn/",
+          "kana": "アフター ウィー ハド ビン コンストレイニング アワー ダイモンド サプライ ファー ウィークス ウィー ファイナリー ファウンド ア ヴェイン",
+          "linking": [
+            "had は弱形 /həd/「ハド」に弱化",
+            "been は弱形 /bɪn/「ビン」に弱化",
+            "for は弱形 /fɚ/「ファー」に弱化",
+            "a は弱形 /ə/「ア」に弱化"
+          ]
+        },
+        {
+          "en": "The height limit had been constraining our tower designs until the admin raised the build limit.",
+          "ja": "管理者がビルド制限を上げるまで、高さ制限は私たちの塔のデザインを制限していました。",
+          "ipa": "/ðə haɪt ˈlɪmɪt həd bɪn kənˈstreɪnɪŋ aʊɚ ˈtaʊɚ dɪˈzaɪnz ənˈtɪl ðə ˈædmɪn ˈreɪzd ðə bɪld ˈlɪmɪt/",
+          "kana": "ザ ハイト リミット ハド ビン コンストレイニング アワー タワー ディザインズ アンティル ザ アドミン レイズド ザ ビルド リミット",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化（複数回）",
+            "had は弱形 /həd/「ハド」に弱化",
+            "been は弱形 /bɪn/「ビン」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has constrained",
+      "ipa": "/həz kənˈstreɪnd/",
+      "examples": [
+        {
+          "en": "We have constrained the lava flow to protect our base from danger.",
+          "ja": "私たちは火溶岩の流れを制限して、私たちのベースを危険から保護しました。",
+          "ipa": "/wi həv kənˈstreɪnd ðə ˈlɑvə floʊ tə prəˈtɛkt aʊɚ beɪs frəm ˈdeɪndʒɚ/",
+          "kana": "ウィー ハヴ コンストレインド ザ ラーヴァ フロウ タ プロテクト アワー ベイス フラム デインジャー",
+          "linking": [
+            "have は弱形 /həv/「ハヴ」に弱化",
+            "constrained の語末 /d/ が the の弱形 /ðə/ に連結「コンストレインド ザ」",
+            "the は弱形 /ðə/「ザ」に弱化",
+            "to は弱形 /tə/「タ」に弱化",
+            "from は弱形 /frəm/「フラム」に弱化"
+          ]
+        },
+        {
+          "en": "The server admin has constrained player movement in protected zones.",
+          "ja": "サーバー管理者は保護ゾーン内のプレイヤーの動きを制限しました。",
+          "ipa": "/ðə ˈsɝːvɚ ˈædmɪn həz kənˈstreɪnd ˈpleɪɚ ˈmuːvmənt ɪn prəˈtɛktəd zoʊnz/",
+          "kana": "ザ サーヴァー アドミン ハズ コンストレインド プレイアー ムーヴメント イン プロテクティド ゾウンズ",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "has は弱形 /həz/「ハズ」に弱化",
+            "constrained の語末 /d/ が player の /p/ に続く子音+子音の環境（連結なし）",
+            "in は弱形 /ɪn/「イン」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had constrained",
+      "ipa": "/həd kənˈstreɪnd/",
+      "examples": [
+        {
+          "en": "After we had constrained the redstone signals, the piston door worked perfectly.",
+          "ja": "私たちがレッドストーン信号を制限した後、ピストンドアが完璧に機能しました。",
+          "ipa": "/ˈæftɚ wi həd kənˈstreɪnd ðə ˈrɛdstoʊn ˈsɪɡnəlz ðə ˈpɪstən dɔr wɝkt̚ ˈpɝfɪktli/",
+          "kana": "アフター ウィー ハド コンストレインド ザ レッドストウン シグナルズ ザ ピストン ドアー ワークッ パーフェクトリー",
+          "linking": [
+            "had は弱形 /həd/「ハド」に弱化",
+            "constrained の語末 /d/ が the の弱形 /ðə/ に連結「コンストレインド ザ」",
+            "the は弱形 /ðə/「ザ」に弱化（複数回）",
+            "worked の語末 /t/ が perfectly の /p/ に続く子音+子音で未開放 [wɝkt̚ ˈpɝfɪktli]「ワークッ パーフェクトリー」"
+          ]
+        },
+        {
+          "en": "The height had constrained our building until we found a mod to increase the limit.",
+          "ja": "リミットを上げるモッドを見つけるまで、高さが私たちの建築を制限していました。",
+          "ipa": "/ðə haɪt həd kənˈstreɪnd aʊɚ ˈbɪldɪŋ ənˈtɪl wi faʊnd ə mɑd tə ɪnˈkris ðə ˈlɪmət/",
+          "kana": "ザ ハイト ハド コンストレインド アワー ビルディング アンティル ウィー ファウンド ア マッド タ インクリース ザ リミット",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "had は弱形 /həd/「ハド」に弱化",
+            "constrained の語末 /d/ が our の /aʊ/ に連結「コンストレインド アワー」",
+            "to は弱形 /tə/「タ」に弱化",
+            "the は弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been constraining",
+      "ipa": "/həz bɪn kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The server lag has been constraining our mining speed all week.",
+          "ja": "サーバーラグは1週間ずっと私たちの採掘速度を制限しています。",
+          "ipa": "/ðə ˈsɝːvɚ læɡ həz bɪn kənˈstreɪnɪŋ aʊɚ ˈmaɪnɪŋ ˈspid ɔl wik/",
+          "kana": "ザ サーヴァー ラッグ ハズ ビン コンストレイニング アワー マイニング スピード オール ウィーク",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "has は弱形 /həz/「ハズ」に弱化",
+            "been は弱形 /bɪn/「ビン」に弱化",
+            "our は弱形 /aʊɚ/「アワー」に弱化"
+          ]
+        },
+        {
+          "en": "The limited resources have been constraining our expansion for months now.",
+          "ja": "限定的なリソースは、ここ数ヶ月間、私たちの拡張を制限し続けています。",
+          "ipa": "/ðə ˈlɪmətəd ˈrɛsɚsɪz həv bɪn kənˈstreɪnɪŋ aʊɚ ɪkˈspænʃən fɔr ˈmʌnθz naʊ/",
+          "kana": "ザ リミラッド レソーセズ ハヴ ビン コンストレイニング アワー イクスパンション フォー マンスズ ナウ",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "limited の語末 /t/ は母音に挟まれてフラップ化 [ˈlɪmɪɾəd]「リミラッド」",
+            "have は弱形 /həv/「ハヴ」に弱化",
+            "been は弱形 /bɪn/「ビン」に弱化",
+            "our は弱形 /aʊɚ/「アワー」に弱化",
+            "for は弱形 /fɔr/「フォー」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will constrain",
+      "ipa": "/wɪl kənˈstreɪn/",
+      "examples": [
+        {
+          "en": "We will constrain the lava flow with obsidian blocks tomorrow.",
+          "ja": "私たちは明日、黒曜石ブロックで溶岩の流れを制限します。",
+          "ipa": "/wi wɪl kənˈstreɪn ðə ˈlɑːvə floʊ wɪð ɑbˈsɪdiən blɑks təˈmɑːroʊ/",
+          "kana": "ウィー ウィル コンストレイン ザ ラーヴァ フロウ ウィス アブシディアン ブラックス トゥモロウ",
+          "linking": [
+            "will の縮約 /wɪl/ が we と繋がり we'll /wil/：ウィール",
+            "constrain の語末 /n/ が the の弱形 /ðə/ に連結「コンストレイン ザ」",
+            "with は弱形 /wɪð/「ウィス」に弱化"
+          ]
+        },
+        {
+          "en": "The admin will constrain all player movement during the tournament next week.",
+          "ja": "管理者は来週のトーナメント中にすべてのプレイヤーの動きを制限します。",
+          "ipa": "/ðə ˈædmɪn wɪl kənˈstreɪn ɔl ˈpleɪɚ ˈmuːvmənt ˈdʊrɪŋ ðə ˈtɜːrnəmənt nɛkst wik/",
+          "kana": "ザ アドミン ウィル コンストレイン オール プレイアー ムーヴメント ドゥーリング ザ ターナメント ネクスト ウィーク",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化",
+            "will の語末 /l/ が constrain の /k/ に続く子音+子音の環境",
+            "all の /l/ が player の /p/ に続く子音+子音で別"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be constraining",
+      "ipa": "/wɪl bi kənˈstreɪnɪŋ/",
+      "examples": [
+        {
+          "en": "While we're gathering resources, they will be constraining the mob spawner with barriers.",
+          "ja": "私たちがリソースを集めている間、彼らはバリアでモブスポーナーを制限しているでしょう。",
+          "ipa": "/waɪl wir ˈɡæðɚɪŋ ˈrɛsɚsɪz ðeɪ wɪl bi kənˈstreɪnɪŋ ðə mɑb ˈspɔnɚ wɪð ˈbæriɚz/",
+          "kana": "ワイル ウィアー ギャザーリング レソーセズ ゼイ ウィル ビー コンストレイニング ザ マッブ スポーナー ウィス バリアーズ",
+          "linking": [
+            "we're の語末 /r/ が gathering の /ɡ/ に続く子音+子音で別",
+            "will be が連なり /wɪl bi/：ウィル ビー",
+            "be の語末 /i/ が constraining の /k/ に続き連結なし"
+          ]
+        },
+        {
+          "en": "Tomorrow at noon, he will be constraining the water with sand blocks for the next two hours.",
+          "ja": "明日の正午に、彼は次の2時間砂ブロックで水を制限しているでしょう。",
+          "ipa": "/təˈmɑːroʊ æt nuːn hi wɪl bi kənˈstreɪnɪŋ ðə ˈwɔːtɚ wɪð sænd blɑks fɚ ðə nɛkst tu ˈaʊɚz/",
+          "kana": "トゥモロウ アット ヌーン ヒー ウィル ビー コンストレイニング ザ ウォーター ウィス サンド ブラックス ファー ザ ネクスト トゥー アワーズ",
+          "linking": [
+            "he の語末 /i/ が will の /w/ に続く母音+子音で別",
+            "will be が連なり /wɪl bi/：ウィル ビー",
+            "for は弱形 /fɚ/「ファー」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have constrained",
+      "ipa": "/wɪl həv kənˈstreɪnd/",
+      "examples": [
+        {
+          "en": "By next Friday, we will have constrained all the dangerous mobs in the danger zone.",
+          "ja": "来週の金曜日までに、私たちは危険ゾーン内のすべての危険なモブを制限しているでしょう。",
+          "ipa": "/baɪ nɛkst ˈfraɪdeɪ wi wɪl həv kənˈstreɪnd ɔl ðə ˈdeɪndʒɚəs mɑbz ɪn ðə ˈdeɪndʒɚ zoʊn/",
+          "kana": "バイ ネクスト フライデイ ウィー ウィル ハヴ コンストレインド オール ザ デインジャラス マッブズ イン ザ デインジャー ゾウン",
+          "linking": [
+            "will have が縮約 we'll have /wil həv/：ウィール ハヴ",
+            "have は弱形 /həv/「ハヴ」に弱化",
+            "constrained の語末 /d/ が all の /ɔ/ に連結「コンストレインド オール」"
+          ]
+        },
+        {
+          "en": "After the server update, the developers will have constrained the build height to Y-level 256.",
+          "ja": "サーバーアップデートの後、開発者たちはビルドの高さをY-level 256に制限しているでしょう。",
+          "ipa": "/ˈæftɚ ðə ˈsɝːvɚ ˈʌpdeɪt ðə dɪˈvɛləpɚz wɪl həv kənˈstreɪnd ðə bɪld haɪt tu waɪ ˈlɛvəl ˈtʊ ˈhʌndrəd ˈfɪfti-ˈsɪks/",
+          "kana": "アフター ザ サーヴァー アップデイト ザ ディヴェラパーズ ウィル ハヴ コンストレインド ザ ビルド ハイト トゥ ワイ レヴル トゥー ハンドラッド フィフティー シックス",
+          "linking": [
+            "The は弱形 /ðə/「ザ」に弱化（2回出現）",
+            "will have が連なり /wɪl həv/：ウィル ハヴ",
+            "to は弱形 /tə/「タ」に弱化"
+          ]
+        }
+      ]
+    }
+  ]
+}

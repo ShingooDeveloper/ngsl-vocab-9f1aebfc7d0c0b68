@@ -1,0 +1,309 @@
+{
+  "word": "close",
+  "pos": "動詞・形容詞",
+  "pos_all": "動詞・形容詞",
+  "ipa_us": "動詞 /kloʊz/ 形容詞 /kloʊs/",
+  "rank": 1500,
+  "level": "A2",
+  "hi": "clos(?:e[sd]?|ing|er|est)?",
+  "meanings": [
+    "【動詞】（ドアや窓などを）閉じる、塞ぐ（shut or fasten a door, window, or lid）",
+    "【動詞】（事業や施設などを）閉鎖する、終わる（shut down a business or bring something to an end）",
+    "【形容詞】近い、接近している（not far away from something）",
+    "【形容詞】親密な、密接な（emotionally close in relationship）"
+  ],
+  "examples": [
+    {
+      "en": "Close the door quickly when mobs attack.",
+      "ja": "モブが攻撃するときは素早くドアを閉じてください。",
+      "ipa": "/ˈkloʊz ðə ˈdɔr ˈkwɪkli wɛn ˈmɑbz əˈtæk/",
+      "linking": [
+        "close the: /z/ が /ə/ に連結 [ˈkloʊzə]",
+        "the は弱形 /ðə/",
+        "mobs attack: /z/ が /ə/ に連結 [ˈmɑbzə]"
+      ],
+      "kana": "クロウズ ザ ドアー クイックリ ウェン モブズ アタック"
+    },
+    {
+      "en": "The village is close to the spawn point.",
+      "ja": "その村はスポーンポイントに近いです。",
+      "ipa": "/ðə ˈvɪlɪdʒ ɪz kloʊs tə ðə ˈspoʊn pɔɪnt/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "to は弱形 /tə/",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ザ ヴィリッジ イズ クロウス タ ザ スポーン ポイント"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "be close to 〜",
+      "ja": "〜に近い、〜が間近である",
+      "example": "This spot is close to the portal.",
+      "example_ja": "この場所はポータルに近いです。",
+      "ipa": "/ðɪs spɑt ɪz kloʊs tə ðə ˈpɔrtəl/",
+      "linking": [
+        "spot is → 母音+/t/+母音でフラップ [ɾ]：[spɑɾɪz] スポリズ",
+        "to は機能語で弱形 /tə/ に弱化",
+        "the は冠詞で弱形 /ðə/"
+      ],
+      "kana": "ディス スポリズ クロウス タ ザ ポータル"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "closes",
+      "ipa": "/ˈkloʊzɪz/",
+      "examples": [
+        {
+          "en": "He closes the door when a creeper gets near.",
+          "ja": "彼はクリーパーが近づくとドアを閉じます。",
+          "ipa": "[hi ˈkloʊzɪz ðə ˈdɔr wɛnə ˈkripər ɡɛts nɪr]",
+          "linking": [
+            "when a → /n/ が /ə/ に連結 [wɛnə]ウェナ",
+            "the/a は弱形"
+          ],
+          "kana": "ヒ クロウズィズ ザ ドアー ウェナ クリーパー ゲッツ ニアー"
+        },
+        {
+          "en": "The gate closes automatically at night in the village.",
+          "ja": "ゲートは夜間に村で自動的に閉じます。",
+          "ipa": "[ðə ˈɡeɪt ˈkloʊzɪzɔtəˈmætɪkli æt ˈnaɪtɪn ðə ˈvɪlɪdʒ]",
+          "linking": [
+            "closes automatically → /z/ が /ɔ/ に連結 [zɔ]クロウズォート",
+            "night in → /t/ が /ɪ/ に連結 [tɪ]ナイティン",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザ ゲイト クロウズィズォートマティックリ アッ ナイティン ザ ヴィリッジ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "closed",
+      "ipa": "/kloʊzd/",
+      "examples": [
+        {
+          "en": "I closed the iron door after collecting the ore.",
+          "ja": "鉱石を集めた後、鉄のドアを閉じました。",
+          "ipa": "[aɪ ˈkloʊzd ðə ˈaɪərn ˈdɔr ˈæftər kəˈlɛktɪŋ ðə ɔr]",
+          "linking": [
+            "the は弱形 /ðə/"
+          ],
+          "kana": "アイ クロウズド ザ アイアン ドアー アフター コレクティン ザ オアー"
+        },
+        {
+          "en": "She closed the window when the storm started.",
+          "ja": "嵐が始まったとき、彼女は窓を閉じました。",
+          "ipa": "[ʃi ˈkloʊzd ðə ˈwɪndoʊ wɛn ðə ˈstɔrm ˈstɑrtəd]",
+          "linking": [
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "シー クロウズド ザ ウィンドウ ウェン ザ ストアーム スターテッド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "closed",
+      "ipa": "/kloʊzd/",
+      "examples": [
+        {
+          "en": "The closed gate blocked the zombie from entering.",
+          "ja": "閉じたゲートはゾンビが侵入するのをブロックしました。",
+          "ipa": "[ðə ˈkloʊzd ˈɡeɪt ˈblɑkt ðə ˈzɑmbi ˈfrəmɛntərɪŋ]",
+          "linking": [
+            "from entering → /m/ が /ɛ/ に連結 [mɛ]フラムエ",
+            "the/from は弱形"
+          ],
+          "kana": "ザ クロウズド ゲイト ブラクト ザ ゾンビ フラムエンタリン"
+        },
+        {
+          "en": "A closed door is safer than an open one in the Nether.",
+          "ja": "ネザーでは、開いたドアより閉じたドアの方が安全です。",
+          "ipa": "[ə ˈkloʊzd ˈdɔr ɪz ˈseɪfər ðæn ən ˈoʊpən wʌn ɪn ðə ˈnɛðər]",
+          "linking": [
+            "a は弱形 /ə/",
+            "than は /ðæn/、特に変化なし"
+          ],
+          "kana": "ア クロウズド ドアー イズ セイファー ザン アン オウペン ワン イン ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "closing",
+      "ipa": "/ˈkloʊzɪŋ/",
+      "examples": [
+        {
+          "en": "Closing the door quickly saved us from the mob.",
+          "ja": "素早くドアを閉じることがモブから私たちを救いました。",
+          "ipa": "[ˈkloʊzɪŋ ðə ˈdɔr ˈkwɪkli ˈseɪvdəs frəm ðə ˈmɑb]",
+          "linking": [
+            "saved us → /d/ が /ə/ に連結 [dəs]セイヴダス",
+            "from/the は弱形"
+          ],
+          "kana": "クロウジン ザ ドアー クイックリ セイヴダス フラム ザ モブ"
+        },
+        {
+          "en": "He's closing the entrance to trap the creeper.",
+          "ja": "彼はクリーパーをトラップするために入り口を閉じています。",
+          "ipa": "[hɪz ˈkloʊzɪŋ ðə ˈɛntrəns tə ˈtræp ðə ˈkripər]",
+          "linking": [
+            "to は弱形 /tə/",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ヒズ クロウジン ザ エントランス タ トラップ ザ クリーパー"
+        }
+      ]
+    },
+    {
+      "type": "comparative",
+      "label": "比較級",
+      "text": "closer",
+      "ipa": "/ˈkloʊsər/",
+      "examples": [
+        {
+          "en": "Move closer to the ore deposit.",
+          "ja": "鉱石鉱床に近づいてください。",
+          "ipa": "[muv ˈkloʊsər tə ðə ˈɔr ˌdɪˈpɑzɪt]",
+          "linking": [
+            "to/the は弱形"
+          ],
+          "kana": "ムーヴ クロウサー タ ザ オアー ディポジット"
+        },
+        {
+          "en": "The village is closer than the abandoned mineshaft.",
+          "ja": "その村は廃棄されたマインシャフトよりも近いです。",
+          "ipa": "[ðə ˈvɪlɪdʒ ɪz ˈkloʊsər ðæn ðə əˈbændənd ˈmaɪnˌʃæft]",
+          "linking": [
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ザ ヴィリッジ イズ クロウサー ザン ザ アバンダンド マインシャフト"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級",
+      "text": "closest",
+      "ipa": "/ˈkloʊsɪst/",
+      "examples": [
+        {
+          "en": "The closest spawn point is near the beach.",
+          "ja": "最も近いスポーンポイントはビーチの近くにあります。",
+          "ipa": "[ðə ˈkloʊsɪst spɔn pɔɪtɪz nɪr ðə bitʃ]",
+          "linking": [
+            "point is → /t/ が /ɪ/ に連結 [tɪz]ポイティズ",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ザ クロウシスト スポーン ポイティズ ニアー ザ ビーチ"
+        },
+        {
+          "en": "That's the closest water source I've found.",
+          "ja": "それが私が見つけた最も近い水の源です。",
+          "ipa": "[ðæts ðə ˈkloʊsɪst ˈwɔtər sɔrsaɪv faʊnd]",
+          "linking": [
+            "source I've → /s/ が /aɪ/ に連結 [saɪv]ソースアイヴ",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザッツ ザ クロウシスト ウォーター ソースアイヴ ファウンド"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is closing",
+      "ipa": "[ɪz ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "Steve is closing the farmhouse door before nightfall.",
+          "ja": "スティーブが日暮れ前に農家のドアを閉じています。",
+          "ipa": "[ˈstiv ɪz ˈkloʊzɪŋ ðə ˈfɑrmhaʊs ˈdɔr bɪˈfɔr ˈnaɪtfɔl]",
+          "linking": [
+            "is は弱形 /ɪz/ 助動詞",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "スティーヴ イズ クロウジン ザ ファームハウス ドアー ビフォア ナイトフォル"
+        },
+        {
+          "en": "They're closing the entrance to protect the storage area.",
+          "ja": "彼らは保管エリアを保護するために入り口を閉じています。",
+          "ipa": "[ðeɪr ˈkloʊzɪŋ ðə ˈɛntrəns tə prəˈtɛkt ðə ˈstɔrɪdʒ ˈɛriə]",
+          "linking": [
+            "the は弱形 /ðə/ (2回)",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ゼア クロウジン ザ エントランス タ プロテクト ザ ストレージ エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was closing",
+      "ipa": "[wəz ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "I was closing the gate when I heard the Ender Dragon.",
+          "ja": "エンダードラゴンの声が聞こえたとき、ゲートを閉じていました。",
+          "ipa": "[aɪ wəz ˈkloʊzɪŋ ðə ˈɡeɪt wɛn aɪ ˈhɝd ðə ˈɛndər ˈdræɡən]",
+          "linking": [
+            "was は弱形 /wəz/ 助動詞",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "アイ ワズ クロウジン ザ ゲイト ウェン アイ ハード ザ エンダー ドラゴン"
+        },
+        {
+          "en": "We were closing the bridge when the storm broke out.",
+          "ja": "嵐が突然始まったとき、橋を塞いでいました。",
+          "ipa": "[wi wər ˈkloʊzɪŋ ðə ˈbrɪdʒ wɛn ðə ˈstɔrm broʊk ˈaʊt]",
+          "linking": [
+            "were は弱形 /wər/ 助動詞",
+            "the は弱形 /ðə/ (2回)"
+          ],
+          "kana": "ウィ ワー クロウジン ザ ブリッジ ウェン ザ ストアーム ブロウク アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been closing",
+      "ipa": "[həd bɪn ˈkloʊzɪŋ]",
+      "examples": [
+        {
+          "en": "By the time the zombies arrived, I had been closing the shutters for ten minutes.",
+          "ja": "ゾンビが到着する頃には、10分間シャッターを閉じていました。",
+          "ipa": "[baɪ ðə ˈtaɪm ðə ˈzɑmbiz əˈraɪvd aɪ həd bɪn ˈkloʊzɪŋ ðə ˈʃʌtərz fər ˈtɛn ˈmɪnɪts]",
+          "linking": [
+            "had は弱形 /həd/ 助動詞",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/ (3回)",
+            "for は弱形 /fər/"
+          ],
+          "kana": "バイ ザ タイム ザ ゾンビズ アライブド アイ ハド ビン クロウジン ザ シャターズ ファー テン ミニッツ"
+        },
+        {
+          "en": "They had been closing in on the End Portal structure all afternoon.",
+          "ja": "彼らは午後中ずっとエンドポータル構造物に接近していました。",
+          "ipa": "[ðeɪ həd bɪn ˈkloʊzɪŋ ɪn ɑn ðə ˈɛnd ˈpɔrtəl ˈstrʌktʃər ˈɔl ˌæftərˈnun]",
+          "linking": [
+            "had は弱形 /həd/ 助動詞",
+            "been は弱形 /bɪn/",
+            "in on → /n/ が /ɑ/ に連結 [nɑn]インオン",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ゼイ ハド ビン クロウジン イノン ザ エンド ポータル ストラクチャー オール アフタヌーン"
+        }
+      ]
+    }
+  ]
+}

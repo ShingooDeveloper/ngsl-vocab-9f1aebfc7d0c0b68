@@ -1,0 +1,84 @@
+{
+  "word": "elevator",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/ˈɛləveɪtər/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "elevat(?:or|ors)?",
+  "meanings": [
+    "【名詞】建物内で人や荷物を階と階の間で上下させるための乗り物（エレベーター）",
+    "【名詞】穀物などのかさばる物質を持ち上げて運搬する機械装置",
+    "【名詞】航空機の尾翼に付いた可動式の面で、機体の上下の動きを制御する装置"
+  ],
+  "examples": [
+    {
+      "en": "We built a water elevator to reach the top of our base.",
+      "ja": "ベースの頂上に到達するために、水のエレベーターを作った。",
+      "ipa": "[wiː ˈbɪldə ˈwɔɾə ˈɛləveɪɾə tə ˈriːtʃ ðə ˈtɑp əv aʊɚ ˈbeɪs]",
+      "linking": [
+        "built a: 語末の /d/ が母音 /ə/ に連結し [ˈbɪldə]",
+        "water elevator: water の t が母音間でフラップ化し [ˈwɔɾə]、elevator の末尾 /ɚ/ もフラップ [ɾ] で [ˈɛləveɪɾə]",
+        "to reach: to は機能語で弱形 /tə/ に弱化",
+        "the top: the は弱形 /ðə/、top は /tɑp/"
+      ],
+      "kana": "ウィー ビルダ ウォーラ エレベイラ タ リーチ ザ タープ アヴ アワー ベイス"
+    },
+    {
+      "en": "The redstone elevator moves up three blocks per second.",
+      "ja": "レッドストーンのエレベーターは毎秒3ブロック上昇する。",
+      "ipa": "[ðə ˈrɛdˌstoʊn ˈɛləveɪɾər ˈmuvz ʌp ˈθriː ˈblɑks pɚ ˈsɛkənd]",
+      "linking": [
+        "the redstone: the は弱形 /ðə/、redstone は複合語 /ˈrɛdˌstoʊn/",
+        "elevator moves: elevator の末尾 /ɚ/ がフラップ化 [ˈɛləveɪɾə]、moves は /muvz/",
+        "per second: per は /pɚ/ で r-colored schwa、second の /d/ は弱化"
+      ],
+      "kana": "ザ レッストーン エレベイラ ムーヴズ アップ スリー ブラックス パー セカンド"
+    },
+    {
+      "en": "I used an elevator to escape from the lava.",
+      "ja": "溶岩から逃げるために、エレベーターを使った。",
+      "ipa": "[aɪ ˈjuːzd ən ˈɛləveɪɾə tə ɪˈskeɪp frəm ðə ˈlɑvə]",
+      "linking": [
+        "used an: used は /juːzd/、an は弱形 /ən/ で elevator の /ɛ/ に連結",
+        "an elevator: an の /n/ が elevator の /ɛ/ に連結 [ən ˈɛl...]、elevator の末尾 r がフラップ化 [ˈɛləveɪɾə]",
+        "to escape: to は弱形 /tə/、escape は /ɪˈskeɪp/",
+        "from the lava: from は /frəm/ で弱形 /frəm/、the は /ðə/、lava は /ˈlɑvə/"
+      ],
+      "kana": "アイ ユーズド ァン エレベイラ タ イスケイプ フラム ザ ラーヴァ"
+    }
+  ],
+  "idioms": [],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "elevators",
+      "ipa": "/ˈɛləveɪtərz/",
+      "examples": [
+        {
+          "en": "Water elevators move upward very smoothly.",
+          "ja": "ウォータエレベーターは非常にスムーズに上昇します。",
+          "ipa": "/ˈwɔɾə ˈɛləveɪɾərz ˈmuv ˈʌpwərd ˈvɛri ˈsmuðli/",
+          "linking": [
+            "water の語末 t が母音間でフラップ化し [ˈwɔɾə]、elevators も同様フラップT [ˈɛləveɪɾərz]",
+            "very は /ˈvɛri/ で r-colored、smoothly /ˈsmuðli/ へ続く",
+            "upward の語末 /d/ がスムーズに連結"
+          ],
+          "kana": "ウォーラ エレベイラーズ ムーヴ アップワード ベリー スムーザリー"
+        },
+        {
+          "en": "These elevators connect all mining levels of my base effectively.",
+          "ja": "これらのエレベーターは私のベースのすべての採掘レベルを効果的に接続しています。",
+          "ipa": "/ðiz ˈɛləveɪɾərz kəˈnɛkt ɔl ˈmaɪnɪŋ ˈlɛvəlz əv maɪ ˈbeɪs ɪˈfɛktɪvli/",
+          "linking": [
+            "These elevators: These /ðiz/ に続き elevators /ˈɛləveɪɾərz/ がフラップT",
+            "all mining: all /ɔl/ → mining /ˈmaɪnɪŋ/ へ、mining の語末 /ŋ/ → levels の初頭 /l/ で連続",
+            "of は弱形 /əv/ アヴ、my /maɪ/ に続く"
+          ],
+          "kana": "ディーズ エレベイラーズ コネクト オール マイニング レベルズ アヴ マイ ベイス イフェクティブリー"
+        }
+      ]
+    }
+  ]
+}

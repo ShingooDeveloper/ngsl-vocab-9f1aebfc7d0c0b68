@@ -1,0 +1,464 @@
+{
+  "word": "verify",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˈvɛrəfaɪ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "verify|verified|verifies|verifying",
+  "meanings": [
+    "【動詞】真実であること、正確であることを確認する、検証する（…確かめる）",
+    "【動詞】情報や事実が本当かどうかを調べ、確認する（…検証する）",
+    "【動詞】誰かの身元や資格が本物であることを確認する（…確認する）"
+  ],
+  "examples": [
+    {
+      "en": "I need to verify that the redstone circuit is working correctly.",
+      "ja": "レッドストーン回路が正しく動作しているか確認する必要があります。",
+      "ipa": "/aɪ ˈniːd tə ˈvɛrəfaɪ ðæt ðə ˈrɛdstoʊn ˈsɝkɪt ɪz ˈwɝkɪŋ ˈkɔrɛktli/",
+      "linking": [
+        "need to：語末子音 /d/ が弱形 to /tə/ に連結 [ˈniːdə]",
+        "the redstone：the が弱形 /ðə/ で r に連結 [ðə ˈrɛdstoʊn]"
+      ],
+      "kana": "アイ ニーダ ヴェラファイ ザッ ザ レッストーン サーキット イズ ワーキング コレクトリー"
+    },
+    {
+      "en": "You should verify the block's properties before you place it.",
+      "ja": "ブロックを置く前に、そのプロパティを確認する必要があります。",
+      "ipa": "/ju ʃəd ˈvɛrəfaɪ ðə blɑks ˈprɑpərtiz bɪˈfɔr ju pleɪs ɪt/",
+      "linking": [
+        "the block's：the が弱形 /ðə/ で b に連結 [ðə blɑks]",
+        "before you：語末子音 /r/ が j に連結し、自然な流れ [bɪˈfɔr ju]"
+      ],
+      "kana": "ユー シャド ヴェラファイ ザ ブロックス プロパーティーズ ビフォー ユー プレイス イット"
+    },
+    {
+      "en": "The admin verified the builder's permission to modify the world.",
+      "ja": "管理者がビルダーのワールド変更許可を確認しました。",
+      "ipa": "/ðə ˈædmɪn ˈvɛrəfaɪd ðə ˈbɪldərz pərˈmɪʃən tə ˈmɑdɪfaɪ ðə wɝld/",
+      "linking": [
+        "the admin：the が弱形 /ðə/ で a に連結 [ðə ˈædmɪn]",
+        "the builder's：the が弱形で b に連結 [ðə ˈbɪldərz]",
+        "to modify：弱形 to /tə/ が m に連結 [tə ˈmɑdɪfaɪ]"
+      ],
+      "kana": "ザ アドミン ヴェラファイド ザ ビルダーズ パーミッション タ マドゥファイ ザ ワールド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "verify a password",
+      "ja": "パスワードを確認する",
+      "example": "You need to verify your password to access the server.",
+      "example_ja": "サーバーにアクセスするためにパスワードを確認する必要があります。",
+      "ipa": "/ju ˈniːd tə ˈvɛrəfaɪ jɔr ˈpæswɝd tu ˈækˌsɛs ðə ˈsɝvər/",
+      "linking": [
+        "need to：語末子音 /d/ が弱形 to /tə/ に連結 [ˈniːdə]",
+        "the server：the が弱形 /ðə/ で s に連結 [ðə ˈsɝvər]"
+      ],
+      "kana": "ユー ニーダ ヴェラファイ ユア パスワード トゥ アクセス ザ サーバー"
+    },
+    {
+      "idiom": "verify the facts",
+      "ja": "事実を確認する",
+      "example": "Always verify the facts before building on another player's plot.",
+      "example_ja": "他のプレイヤーのプロット上に建築する前に、事実を確認してください。",
+      "ipa": "/ˈɔlweɪz ˈvɛrəfaɪ ðə ˈfækts bɪˈfɔr ˈbɪldɪŋ ɑn əˈnʌðər ˈpleɪərz plɑt/",
+      "linking": [
+        "the facts：the が弱形 /ðə/ で f に連結 [ðə ˈfækts]",
+        "on another：語末子音 n と a の連結はなし（弱形 on /ən/ または /ɑn/）"
+      ],
+      "kana": "オルウェイズ ヴェラファイ ザ ファクツ ビフォー ビルディング アン アナザー プレイヤーズ プロット"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "verifies",
+      "ipa": "/ˈvɛrəfaɪz/",
+      "examples": [
+        {
+          "en": "The server admin verifies all player builds before they become permanent.",
+          "ja": "サーバー管理者は、すべてのプレイヤーのビルドがパーマネント化する前に検証します。",
+          "ipa": "/ðə ˈsɝvɚ ˈædmɪn ˈvɛrəfaɪz ɔl ˈpleɪɚ bɪldz bɪˈfɔɹ ðeɪ bɪˈkʌm ˈpɛɹmənənt/",
+          "kana": "ザ サーバー エドミン ヴェラファイズ オール プレイアー ビルズ ビフォアー ザイ ビカム パーマナント",
+          "linking": [
+            "「the server」で the が弱形 /ðə/「ザ」に弱化して s に続く",
+            "「admin verifies」で admin の語末子音 /n/ が verifies の母音 /ɛ/ に連結 [ˈædmɪn ˈvɛrəfaɪz]「エドミン ヴェラファイズ」",
+            "「before they」で before の語末 /r/ が they の母音に続く「ビフォアー ザイ」"
+          ]
+        },
+        {
+          "en": "She verifies that the contraption is stable before turning it on.",
+          "ja": "彼女は、それをオンにする前に、その装置が安定していることを確認します。",
+          "ipa": "/ʃi ˈvɛrəfaɪz ðæt ðə kənˈtræpʃən ɪz ˈsteɪbəl bɪˈfɔɹ ˈtɝnɪŋ ɪt ɑn/",
+          "kana": "シー ヴェラファイズ ザット ザ コントラプション イズ ステイブル ビフォアー ターニング イット オン",
+          "linking": [
+            "「She verifies」で She の語末母音 /i/ が verifies の母音に続く「シー ヴェラファイズ」",
+            "「the contraption」で the が弱形 /ðə/「ザ」に弱化",
+            "「before turning」で before の語末 /r/ が turning の /t/ に続く「ビフォアー ターニング」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "verified",
+      "ipa": "/ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "The builder verified the coordinates were correct before placing the beacon.",
+          "ja": "ビルダーはビーコンを置く前に座標が正しいことを確認しました。",
+          "ipa": "/ðə ˈbɪldɚ ˈvɛrəfaɪd ðə koʊˈɔɹdənəts wɚ kəˈrɛkt bɪˈfɔɹ ˈpleɪsɪŋ ðə ˈbikən/",
+          "kana": "ザ ビルダー ヴェラファイド ザ コーディネイツ ワー コレクト ビフォアー プレイシング ザ ビーコン",
+          "linking": [
+            "「the builder」で the が弱形 /ðə/「ザ」に弱化して b に続く",
+            "「builder verified」で builder の語末 /r/ が verified に続く「ビルダー ヴェラファイド」",
+            "「was correct」で was の弱形 /wəz/ または /wɑz/ が続く"
+          ]
+        },
+        {
+          "en": "They verified the enchantments on their tools matched the server requirements.",
+          "ja": "彼らは彼らのツールのエンチャントメントがサーバー要件と一致していることを確認しました。",
+          "ipa": "/ðeɪ ˈvɛrəfaɪd ðə ɪnˈtʃæntmənts ɑn ðɛɹ tulz mætʃt ðə ˈsɝvɚ rɪˈkwaɪɚmənts/",
+          "kana": "ザイ ヴェラファイド ザ インチャントメンツ オン ゼア トゥールズ マッチト ザ サーバー リクワイアメンツ",
+          "linking": [
+            "「They verified」で They の語末母音 /eɪ/ が verified の母音に続く「ザイ ヴェラファイド」",
+            "「the enchantments」で the が弱形 /ðə/「ザ」に弱化",
+            "「on their」で on の弱形と their の弱形 /ðɛɹ/ が続く「オン ゼア」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "verified",
+      "ipa": "/ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "The structure that they verified has survived hundreds of creeper explosions.",
+          "ja": "彼らが検証した構造は、何百ものクリーパー爆発に耐えてきました。",
+          "ipa": "/ðə ˈstrʌktʃɚ ðæt ðeɪ ˈvɛrəfaɪd hæz sɚˈvaɪvd ˈhʌndɚdz əv ˈkripɚ ɪkˈsploʊʒənz/",
+          "kana": "ザ ストラクチャー ザット ザイ ヴェラファイド ハズ サーヴァイベッド ハンドリッズ ァヴ クリーパー イクスプロウジョンズ",
+          "linking": [
+            "「that they」で that の弱形 /ðæt/ が they に続く「ザット ザイ」",
+            "「they verified」で they の母音 /eɪ/ が verified の母音に連結「ザイ ヴェラファイド」",
+            "「has survived」で has の弱形 /hæz/「ハズ」に弱化"
+          ]
+        },
+        {
+          "en": "Once verified, the redstone circuit was never modified again.",
+          "ja": "一度検証されると、レッドストーン回路は二度と変更されませんでした。",
+          "ipa": "/wʌns ˈvɛrəfaɪd ðə ˈrɛdstoʊn ˈsɝkɪt wəz ˈnɛvɚ ˈmɑdɪfaɪd əˈɡɛn/",
+          "kana": "ワンス ヴェラファイド ザ レッドストウン サーキット ワズ ネヴァー モディファイド アゲイン",
+          "linking": [
+            "「Once verified」で Once の語末子音 /s/ が verified の母音 /ɛ/ に連結 [wʌns ˈvɛrəfaɪd]「ワンス ヴェラファイド」",
+            "「the redstone」で the が弱形 /ðə/「ザ」に弱化",
+            "「was never」で was の弱形 /wəz/「ワズ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "verifying",
+      "ipa": "/ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "Before entering the dungeon, players are verifying their equipment and resources.",
+          "ja": "ダンジョンに入る前に、プレイヤーは自分の装備とリソースを確認しています。",
+          "ipa": "/bɪˈfɔɹ ˈɛntɚɪŋ ðə ˈdʌndʒən ˈpleɪɚz ɑɹ ˈvɛrəfaɪɪŋ ðɛɹ ɪˈkwɪpmənt ənd ˈrɛsɚsɪz/",
+          "kana": "ビフォアー エンターリング ザ ダンジョン プレイアーズ アー ヴェラファイイング ゼア イクイップメント アン リソーシーズ",
+          "linking": [
+            "「the dungeon」で the が弱形 /ðə/「ザ」に弱化",
+            "「are verifying」で are の弱形 /ɑɹ/「アー」に弱化して verifying に続く「アー ヴェラファイイング」",
+            "「and resources」で and の弱形 /ənd/ または /n/「アン」に弱化"
+          ]
+        },
+        {
+          "en": "He's verifying the integrity of each block in the castle walls.",
+          "ja": "彼は城壁の各ブロックの完全性を確認しています。",
+          "ipa": "/hiz ˈvɛrəfaɪɪŋ ðə ɪnˈtɛɡrəti əv itʃ blɑk ɪn ðə ˈkæsəl wɔlz/",
+          "kana": "ヒーズ ヴェラファイイング ザ インテグリティ ァヴ イーチ ブロック イン ザ キャッスル ウォールズ",
+          "linking": [
+            "「He's verifying」で He's の /z/ が verifying の /v/ に連結 [hiz ˈvɛrəfaɪɪŋ]「ヒーズ ヴェラファイイング」",
+            "「the integrity」で the が弱形 /ðə/「ザ」に弱化",
+            "「of each」で of の弱形 /əv/「ァヴ」に弱化して each に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is verifying",
+      "ipa": "/ɪz ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The admin is verifying the player's claim about the lost items in the vault.",
+          "ja": "管理者がヴォルト内の紛失したアイテムについてのプレイヤーの請求を確認しています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈvɛrəfaɪɪŋ ðə ˈpleɪərz kleɪm əˈbaʊt ðə lɔst ˈaɪtəmz ɪn ðə vɔlt/",
+          "kana": "ザ アドミン イズ ヴェラファイイング ザ プレイアーズ クレイム ァバウト ザ ロスト アイテムズ イン ザ ヴォルト",
+          "linking": [
+            "the admin：the が弱形 /ðə/「ザ」に弱化、admin の語末 /n/ が is の初頭 /ɪ/ に連結 [ðə ˈædmɪn ɪz] ザ アドミン イズ",
+            "is verifying：is は弱形 /ɪz/「イズ」、verifying の語末 /ŋ/ が未開放で続く",
+            "verifying the：the が弱形 /ðə/「ザ」に弱化"
+          ]
+        },
+        {
+          "en": "I'm verifying all the chests in the storage room to see if anything is missing.",
+          "ja": "ストレージルームのすべてのチェストを確認して、何か不足していないか確認しています。",
+          "ipa": "/aɪm ˈvɛrəfaɪɪŋ ɔl ðə tʃɛsts ɪn ðə ˈstɔɹɪdʒ rum tu siː ɪf ˈɛniθɪŋ ɪz ˈmɪsɪŋ/",
+          "kana": "アイム ヴェラファイイング オール ザ チェスツ イン ザ ストレージ ルーム トゥ シー イフ エニシング イズ ミッシング",
+          "linking": [
+            "I'm verifying：I と am の結合で /aɪm/、verifying の語末 /ŋ/ が未開放で続く [aɪm ˈvɛrəfaɪɪŋ] アイム ヴェラファイイング",
+            "all the chests：the が弱形 /ðə/「ザ」に弱化、chests の語末 /ts/ が in の初頭 /ɪ/ に連結 [ðə tʃɛsts ɪn] ザ チェスツ イン",
+            "is missing：is は弱形 /ɪz/「イズ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was verifying",
+      "ipa": "/wəz ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The builder was verifying the plot boundaries when a creeper exploded nearby.",
+          "ja": "ビルダーがプロットの境界線を確認していた時、クリーパーが近くで爆発しました。",
+          "ipa": "/ðə ˈbɪldər wəz ˈvɛrəfaɪɪŋ ðə plɑt ˈbaʊndəriz wɛn ə ˈkripər ɪkˈsploʊdɪd ˈnɪɹbi/",
+          "kana": "ザ ビルダー ワズ ヴェラファイイング ザ プロット バウンダリーズ ウェン ア クリーパー イクスプロウディッド ニアーバイ",
+          "linking": [
+            "the builder：the が弱形 /ðə/「ザ」に弱化、builder の語末 /r/ が was の初頭 /w/ に連結 [ðə ˈbɪldər wəz] ザ ビルダー ワズ",
+            "was verifying：was は弱形 /wəz/「ワズ」、verifying の語末 /ŋ/ が未開放で続く",
+            "verifying the：the が弱形 /ðə/「ザ」に弱化"
+          ]
+        },
+        {
+          "en": "We were verifying the redstone coordinates when the server restarted unexpectedly.",
+          "ja": "レッドストーン座標を確認していた時、サーバーが予期せず再起動しました。",
+          "ipa": "/wi wɚ ˈvɛrəfaɪɪŋ ðə ˈrɛdˌstoʊn koʊˈɔɹdənəts wɛn ðə ˈsɝvər ˌriːˈstɑɹtɪd ʌnɪkˈspɛktɪdli/",
+          "kana": "ウィ ワー ヴェラファイイング ザ レッドストーン コーディネイツ ウェン ザ サーバー リースターティッド アンエクスペクティッドリー",
+          "linking": [
+            "we were：were は弱形 /wɚ/「ワー」 [wi wɚ]",
+            "were verifying：verifying の語末 /ŋ/ が未開放で続く [wɚ ˈvɛrəfaɪɪŋ] ワー ヴェラファイイング",
+            "verifying the：the が弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been verifying",
+      "ipa": "/həd bɪn ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "I had been verifying the enchantment levels for over an hour before I realized they were incorrect.",
+          "ja": "1時間以上エンチャントレベルを確認していたが、それが正しくないことに気づいた。",
+          "ipa": "/aɪ həd bɪn ˈvɛrəfaɪɪŋ ðə ɪnˈtʃæntmənt ˈlɛvəlz fər ˈoʊvər ən ˈaʊər bɪˈfɔr aɪ rɪˈælaɪzd ðeɪ wɚ ɪnkəˈrɛkt/",
+          "kana": "アイ ハド ビン ヴェラファイイング ザ インチャントメント レベルズ ファー オーバー アン アワー ビフォア アイ リアライズド ザイ ワー インコレクト",
+          "linking": [
+            "had been：had は弱形 /həd/「ハド」、been は弱形 /bɪn/「ビン」で連結 [həd bɪn] ハド ビン",
+            "been verifying：verifying の語末 /ŋ/ が未開放で続く [bɪn ˈvɛrəfaɪɪŋ]",
+            "verifying the：the が弱形 /ðə/「ザ」に弱化"
+          ]
+        },
+        {
+          "en": "They had been verifying the farm's daily output when the redstone circuit suddenly broke.",
+          "ja": "農場の毎日の産出量を確認していた時、レッドストーン回路が突然壊れた。",
+          "ipa": "/ðeɪ həd bɪn ˈvɛrəfaɪɪŋ ðə fɑrmz ˈdeɪli ˈaʊtpʊt wɛn ðə ˈrɛdˌstoʊn ˈsɝkɪt ˈsʌdənli broʊk/",
+          "kana": "ザイ ハド ビン ヴェラファイイング ザ ファームズ デイリー アウトプット ウェン ザ レッドストーン サーキット サッドンリー ブロウク",
+          "linking": [
+            "had been：had は弱形 /həd/「ハド」、been は弱形 /bɪn/「ビン」で連結 [həd bɪn]",
+            "been verifying：verifying の語末 /ŋ/ が未開放で続く [bɪn ˈvɛrəfaɪɪŋ] ビン ヴェラファイイング",
+            "verifying the：the が弱形 /ðə/「ザ」に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has verified",
+      "ipa": "/həz ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "Has anyone verified that the new base is completely griefproof?",
+          "ja": "誰かが新しい基地が完全に荒らし対策されていることを確認しましたか？",
+          "ipa": "/hæz ˈɛniˌwʌn ˈvɛrəfaɪd ðæt ðə nu beɪs ɪz kəmˈplɪɾli ˈɡrifˌpruf/",
+          "kana": "ハズ エニワン ベリファイド ザット ザ ニュー ベース イズ コンプリーリー グリーフプルーフ",
+          "linking": [
+            "has の /z/ が anyone の /ɛ/ に連結",
+            "verified の /d/ と that の /ð/ が連続する",
+            "the の /ə/ が new の /n/ に連結"
+          ]
+        },
+        {
+          "en": "I've verified the redstone circuit works perfectly before connecting it to the farm.",
+          "ja": "農場に接続する前にレッドストーン回路が完璧に動作することを確認しました。",
+          "ipa": "/aɪv ˈvɛrəfaɪd ðə ˈrɛdˌstoʊn ˈsɝkɪt wɝks ˈpɝfɪktli bɪˈfɔr kəˈnɛktɪŋ ɪt tu ðə fɑrm/",
+          "kana": "アイヴ ベリファイド ザ レッドストーン サーキット ワークス パーフェクトリー ビフォアー コネクティング イット トゥ ザ ファーム",
+          "linking": [
+            "I've は I /aɪ/ と have の弱形 /v/ で /aɪv/「アイヴ」",
+            "verified の /d/ と the の /ð/ が連続する",
+            "the の /ə/ が redstone の /r/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had verified",
+      "ipa": "/həd ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "The builder had verified the foundation was solid before the creeper explosion.",
+          "ja": "クリーパー爆発の前に、ビルダーが基礎がしっかりしていることを確認していました。",
+          "ipa": "/ðə ˈbɪldər həd ˈvɛrəfaɪd ðə faʊnˈdeɪʃən wəz ˈsɑlɪd bɪˈfɔr ðə ˈkripər ɪkˈsploʊʒən/",
+          "kana": "ザ ビルダー ハド ベリファイド ザ ファウンデイション ワズ ソリッド ビフォアー ザ クリーパー イクスプロウジョン",
+          "linking": [
+            "had の /d/ が verified の /v/ に先行",
+            "the の /ə/ が foundation の /f/ に連結",
+            "was の /z/ が solid の /s/ に先行"
+          ]
+        },
+        {
+          "en": "They had verified all the enchantments before anyone could trade with the villagers.",
+          "ja": "誰かが村人と取引する前に、彼らはすべてのエンチャントメントを確認していました。",
+          "ipa": "/ðeɪ həd ˈvɛrəfaɪd ɔl ðɪ ɪnˈtʃæntmənts bɪˈfɔr ˈɛniˌwʌn kəd treɪd wɪð ðə ˈvɪlɪdʒərz/",
+          "kana": "ザイ ハド ベリファイド オール ディ インチャントメンツ ビフォアー エニワン クッド トレイド ウィズ ザ ヴィリッジャーズ",
+          "linking": [
+            "had の /d/ が verified の /v/ に先行",
+            "verified の /d/ が all の /ɔ/ に連結 [ˈvɛrəfaɪd ɔl]「ベリファイド オール」",
+            "the が弱形 /ðɪ/「ディ」で enchantments の /ɪ/ に先行"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been verifying",
+      "ipa": "/həz bɪn ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "The admin has been verifying player permissions all morning since the server update.",
+          "ja": "管理者はサーバー更新以来、朝中ずっとプレイヤー権限を確認しています。",
+          "ipa": "/ðə ˈædmɪn həz bɪn ˈvɛrəfaɪɪŋ ˈpleɪər pərˈmɪʃənz ɔl ˈmɔrnɪŋ sɪns ðə ˈsɝvər ʌpˈdeɪt/",
+          "kana": "ザ アドミン ハズ ビン ベリファイイング プレイアー パーミッションズ オール モーニング シンス ザ サーバー アップデイト",
+          "linking": [
+            "has の /z/ が been の /b/ に先行",
+            "been の /n/ が verifying の /v/ に先行"
+          ]
+        },
+        {
+          "en": "She's been verifying the structural integrity of the castle for over an hour.",
+          "ja": "彼女は1時間以上、城の構造的完全性を確認しています。",
+          "ipa": "/ʃiz bɪn ˈvɛrəfaɪɪŋ ðə strʌkˈtʃʊrəl ɪnˈtɛɡrədi əv ðə ˈkæsəl fɔr ˈoʊvər ən ˈaʊər/",
+          "kana": "シーズ ビン ベリファイイング ザ ストラクチュラル インテグリティ ァヴ ザ キャッスル フォー オーバー アン アワー",
+          "linking": [
+            "She's は she /i/ と has の弱形 /z/ で /ʃiz/「シーズ」",
+            "been の /n/ が verifying の /v/ に先行",
+            "the の /ə/ が structural の /s/ に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will verify",
+      "ipa": "/wɪl ˈvɛrəfaɪ/",
+      "examples": [
+        {
+          "en": "The server admin will verify all base claims before the tournament starts.",
+          "ja": "サーバー管理者はトーナメントが始まる前にすべての基地請求を確認します。",
+          "ipa": "/ðə ˈsɝvɚ ˈædmɪn wɪl ˈvɛrəfaɪ ɔl ˈbeɪs ˈkleɪmz bɪˈfɔr ðə ˈtʊrnəmənt ˈstɑrts/",
+          "kana": "ザ サーバー アドミン ウィル ベリファイ オール ベイス クレイムズ ビフォー ザ ターナメント スターツ",
+          "linking": [
+            "the は弱形 /ðə/、server は /ˈsɝvɚ/ で a に続く",
+            "will は /wɪl/ で verify の /v/ に連結 [wɪl ˈvɛrəfaɪ]「ウィル ベリファイ」",
+            "before the → before の語末 /r/ が the の弱形 /ðə/ に続く「ビフォー ザ」"
+          ]
+        },
+        {
+          "en": "We'll verify the enchantment requirements once everyone joins the server.",
+          "ja": "みんながサーバーに参加したら、私たちはエンチャント要件を確認します。",
+          "ipa": "/wil ˈvɛrəfaɪ ðə ɪnˈtʃæntmənt rɪˈkwaɪɚmənts wʌns ˈɛvriˌwʌn ˈdʒɔɪnz ðə ˈsɝvɚ/",
+          "kana": "ウィル ベリファイ ザ インチャントメント リクワイアメンツ ワンス エブリワン ジョインズ ザ サーバー",
+          "linking": [
+            "we'll = will の縮約形 /wil/（we と融合）、verify の /v/ に続く",
+            "the は弱形 /ðə/（2回）",
+            "once everyone → /s/ が /ɛ/ に続く（consonant+vowel）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be verifying",
+      "ipa": "/wɪl bi ˈvɛrəfaɪɪŋ/",
+      "examples": [
+        {
+          "en": "I'll be verifying the redstone circuit while you prepare the automatic farm.",
+          "ja": "あなたが自動農場を準備している間、私はレッドストーン回路を確認しています。",
+          "ipa": "/aɪl bi ˈvɛrəfaɪɪŋ ðə ˈrɛdstoʊn ˈsɝkɪt ˈwaɪl ju prɪˈpɛr ðə ɔˈtɑmətɪk ˈfɑrm/",
+          "kana": "アイル ビ ベリファイイング ザ レッドストーン サーキット ホワイル ユー プリペア ザ オートマティック ファーム",
+          "linking": [
+            "I'll be = will の縮約形 /aɪl/ + be の弱形 /bə/「アイル ビ」",
+            "the は弱形 /ðə/（2回）",
+            "while you → /l/ が you の /j/ に先行（consonant+consonant）"
+          ]
+        },
+        {
+          "en": "They will be verifying the coordinates throughout the entire tournament.",
+          "ja": "彼らはトーナメント全体を通じて座標を確認し続けます。",
+          "ipa": "/ðeɪ wɪl bi ˈvɛrəfaɪɪŋ ðə koʊˈɔɹdənəts θruːˈaʊt ðə ɪnˈtaɪər ˈtʊrnəmənt/",
+          "kana": "ザイ ウィル ビ ベリファイイング ザ コーディネイツ スルーアウト ザ エンタイアー ターナメント",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bə/「ウィル ビ」",
+            "the は弱形 /ðə/（2回）",
+            "entire は /ɪnˈtaɪər/、tournament は /ˈtʊrnəmənt/（語末 /r/ が続く）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have verified",
+      "ipa": "/wɪl həv ˈvɛrəfaɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, she will have verified all the player permissions for the server.",
+          "ja": "明日までに、彼女はサーバーのすべてのプレイヤーパーミッションを確認しているでしょう。",
+          "ipa": "/baɪ təˈmɑroʊ | ʃi wɪl həv ˈvɛrəfaɪd ɔl ðə ˈpleɪər pərˈmɪʃənz fɔr ðə ˈsɝvɚ/",
+          "kana": "バイ トゥモロー、シー ウィル ハヴ ベリファイド オール ザ プレイアー パーミッションズ フォー ザ サーバー",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/「ウィル ハヴ」",
+            "all the → /l/ が the の /ð/ に先行（consonant+consonant）",
+            "the は弱形 /ðə/（2回）"
+          ]
+        },
+        {
+          "en": "We will have verified the entire fortress before the raid party arrives.",
+          "ja": "レイド党が到着する前に、私たちはその要塞全体を確認しているでしょう。",
+          "ipa": "/wi wɪl həv ˈvɛrəfaɪd ðə ɪnˈtaɪər ˈfɔrtəs bɪˈfɔr ðə ˈreɪd ˈpɑrti əˈraɪvz/",
+          "kana": "ウィ ウィル ハヴ ベリファイド ザ エンタイアー フォーティス ビフォー ザ レイド パーティ アライブズ",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/「ウィル ハヴ」",
+            "the は弱形 /ðə/（2回）",
+            "before the → before の語末 /r/ が the に続く「ビフォー ザ」"
+          ]
+        }
+      ]
+    }
+  ]
+}

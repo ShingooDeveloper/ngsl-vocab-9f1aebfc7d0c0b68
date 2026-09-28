@@ -1,0 +1,413 @@
+{
+  "word": "list",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/lɪst/",
+  "rank": 95,
+  "level": "A1",
+  "hi": "list|lists|listed|listing",
+  "meanings": [
+    "【名詞】リスト、一覧、目録、表（a catalog or series of items）",
+    "【名詞】（記録や明細の）リスト、表（a record of names, items, etc.）",
+    "【動詞】（項目を）リストアップする、列挙する（to make a list of）",
+    "【動詞】（物を）記録に載せる、登録する（to include in a list or register）"
+  ],
+  "examples": [
+    {
+      "en": "I made a list of all the materials I need for my build.",
+      "ja": "建築に必要なすべての素材のリストを作りました。",
+      "ipa": "/aɪ ˈmeɪd ə ˈlɪst əv ɔːl ðə məˈtɪriəlz aɪ ˈniːd fər maɪ ˈbɪld/",
+      "linking": [
+        "made a → d が a の母音に連結 [ˈmeɪd ə] メイダ",
+        "list of → /st/ + /ə/ が連結。of は弱形 /əv/ [ˈlɪst əv] リスト オヴ",
+        "all the → /l/ + /ð/ で th が続く（連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+        "need for → /d/ + /f/ で連結せず。for は弱形 /fər/"
+      ],
+      "kana": "アイ メイダ ア リスト オヴ オール ザ マテリアルズ アイ ニード ファー マイ ビルド"
+    },
+    {
+      "en": "The server admin lists all banned players on a notice board.",
+      "ja": "サーバー管理者はすべてのBAN対象プレイヤーを掲示板にリストアップします。",
+      "ipa": "/ðə ˈsɜːrvər ˈædmɪn ˈlɪsts ɔːl ˈbænd ˈpleɪərz ɑn ə ˈnoʊtɪs ˈbɔːrd/",
+      "linking": [
+        "the は弱形 /ðə/。server に続く。",
+        "admin lists → /n/ + /l/ で続く（子音+子音、連結なし）",
+        "lists all → /s/ + /ɔ/ が連結 [ˈlɪsts ɔːl] リッツ オール",
+        "on a → /n/ + /ə/ で連結 [ɑn ə] アナ",
+        "notice board は phrase で [ˈnoʊtɪs ˈbɔːrd]"
+      ],
+      "kana": "ダ サーバー アドミン リッツ オール バンド プレイヤーズ オナ ノウティス ボード"
+    },
+    {
+      "en": "We keep a list of all hidden treasures we've discovered.",
+      "ja": "見つけたすべての隠された宝物のリストを保持しています。",
+      "ipa": "/wi ˈkiːp ə ˈlɪst əv ɔːl ˈhɪdən ˈtrɛʒərz wi həv dɪˈskʌvərd/",
+      "linking": [
+        "keep a → /p/ + /ə/ が連結 [ˈkiːp ə] キープア",
+        "list of → /st/ + /ə/ が連結。of は弱形 /əv/ [ˈlɪst əv] リスト オヴ",
+        "all hidden → /l/ + /h/ で続く（子音+子音）。all は [ɔːl]、hidden は [ˈhɪdən]",
+        "have discovered → have は弱形 /həv/ で discovered に連結 [həv dɪˈskʌvərd] ハヴ ディスカヴァード"
+      ],
+      "kana": "ウィ キープア ア リスト オヴ オール ヒドゥン トレジャーズ ウィ ハヴ ディスカヴァード"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "a wish list",
+      "ja": "ウィッシュリスト、欲しいもののリスト",
+      "example": "My wish list for this game includes a flying mount and new decorative blocks.",
+      "example_ja": "このゲームの私のウィッシュリストには、飛行マウントと新しい装飾ブロックが含まれています。",
+      "ipa": "/maɪ ˈwɪʃ ˈlɪst fər ðɪs ˈɡeɪm ɪnˈkluːdz ə ˈflaɪɪŋ ˈmaʊnt‿ənd ˈnjuː ˌdɛkərəˈtɪv ˈblɑks/",
+      "linking": [
+        "wish list は phrase で自然に流れる [ˈwɪʃ ˈlɪst]",
+        "for は弱形 /fər/",
+        "the は弱形 /ðə/。this の /ð/ に続く。",
+        "includes a → /z/ + /ə/ が連結 [ɪnˈkluːdz ə] インクルーズ ア",
+        "mount and → /t/ + /ə/ で未開放。and は弱形 /ənd/ [ˈmaʊnt‿ənd] マウント アンド",
+        "new decorative → /u/ + /d/ が連結 [ˈnjuː ˌdɛkərəˈtɪv] ニュー デコラティヴ"
+      ],
+      "kana": "マイ ウィッシュ リスト ファー ディス ゲイム インクルーズア ア フライイング マウント アンド ニュー デコラティヴ ブロックス"
+    },
+    {
+      "idiom": "on the list",
+      "ja": "リストに載っている、対象である",
+      "example": "Your base is definitely on the list of amazing builds we've visited.",
+      "example_ja": "あなたの基地は、私たちが訪れた素晴らしい建造物のリストに確実に載っています。",
+      "ipa": "/jɔr ˈbeɪs ɪz ˈdɛfɪnətli ɑn ðə ˈlɪst əv əˈmeɪzɪŋ ˈbɪldz wi həv ˈvɪzɪtɪd/",
+      "linking": [
+        "on the → /n/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɑn ðə] オン ザ",
+        "list of → /st/ + /ə/ が連結。of は弱形 /əv/ [ˈlɪst əv] リスト オヴ",
+        "amazing builds → /ŋ/ + /b/ で続く（連結なし）",
+        "we've visited → have は弱形 /həv/ で've に音が。visited は [ˈvɪzɪtɪd] ヴィジティド"
+      ],
+      "kana": "ヤー ベース イズ デフィニットリー オン ザ リスト オヴ アメイジング ビルズ ウィ ハヴ ヴィジティド"
+    },
+    {
+      "idiom": "list goes on",
+      "ja": "リストが続く、まだまだある",
+      "example": "We have diamonds, emeralds, redstone—and the list goes on!",
+      "example_ja": "ダイヤモンド、エメラルド、レッドストーン、そしてまだまだあります！",
+      "ipa": "/wi ˈhæv ˈdaɪmənds | ˈɛmərəldz | ˈrɛdˌstoʊn | ən ðə ˈlɪst ˈɡoʊz ɑn/",
+      "linking": [
+        "the は弱形 /ðə/。list に続く。",
+        "list goes → /st/ + /ɡ/ で続く（連結なし）。goes は [ˈɡoʊz] ゴウズ",
+        "goes on → /z/ + /ɑ/ が連結 [ˈɡoʊz ɑn] ゴウズ オン"
+      ],
+      "kana": "ウィ ハブ ダイモンズ、エメラルズ、レッドストーン、アンド ザ リスト ゴウズ オン"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Before mining, I always list all the tools I might need: pickaxe, shovel, and axe.",
+      "ja": "採掘する前に、必要になるかもしれないすべての道具をリストアップします：ピッケル、シャベル、斧。",
+      "ipa": "/bɪˈfɔːr ˈmaɪnɪŋ | aɪ ˈɔːlwez ˈlɪst ɔːl ðə ˈtulz aɪ ˈmaɪt ˈniːd | ˈpɪkˌæks | ˈʃʌvəl | ən ˈæks/",
+      "linking": [
+        "before mining → /r/ + /m/ で続く（連結なし）",
+        "always list → /z/ + /l/ で続く（連結なし）",
+        "list all → /st/ + /ɔ/ が連結 [ˈlɪst ɔːl] リスト オール",
+        "all the → /l/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+        "tools I → /z/ + /aɪ/ が連結 [ˈtulz aɪ] トゥールズ アイ",
+        "might need → /t/ + /n/ で未開放"
+      ],
+      "kana": "ビフォー マイニング、アイ オールウェイズ リスト オール ザ トゥールズ アイ マイト ニード、ピッカックス、シャヴル、アンド アックス"
+    },
+    {
+      "en": "She created a list of enchantments that would make her sword stronger.",
+      "ja": "彼女は剣をより強くするエンチャントのリストを作成しました。",
+      "ipa": "/ʃi kriˈeɪtəd ə ˈlɪst əv ɪnˈtʃæntmənts ðæt wəd ˈmeɪk hɚ ˈsɔːrd ˈstrɔŋɡər/",
+      "linking": [
+        "created a → /d/ + /ə/ が連結 [kriˈeɪtəd ə] クリエイティド ア",
+        "list of → /st/ + /ə/ が連結。of は弱形 /əv/ [ˈlɪst əv] リスト オヴ",
+        "would make → would は弱形 /wəd/。make は [ˈmeɪk]",
+        "her sword → /r/ + /s/ で続く（連結なし）。her は弱形 /ɚ/ [hɚ ˈsɔːrd] ハー ソード"
+      ],
+      "kana": "シー クリエイティド ア リスト オヴ インチャントメンツ ザット ウッド メイク ハー ソード ストロンガー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "lists",
+      "ipa": "/lɪsts/",
+      "examples": [
+        {
+          "en": "I keep multiple lists for different projects in my game.",
+          "ja": "ゲーム内の異なるプロジェクトのために複数のリストを保持しています。",
+          "ipa": "/aɪ ˈkiːp ˈmʌltɪpl ˈlɪsts fər ˈdɪfərənt ˈprɑːdʒɛkts ɪn maɪ ˈɡeɪm/",
+          "linking": [
+            "keep multiple → /p/ + /m/ で続く（連結なし）",
+            "multiple lists → /l/ + /l/ で続く（子音+子音、連結なし）",
+            "lists for → /ts/ + /f/ で続く（連結なし）。for は弱形 /fər/",
+            "different projects → /t/ + /p/ で続く（連結なし）",
+            "in my → /n/ + /m/ で続く（連結なし）"
+          ],
+          "kana": "アイ キープ マルティプル リッツ ファー ディフレント プロジェクツ イン マイ ゲイム"
+        },
+        {
+          "en": "The todo lists help us organize our building plans.",
+          "ja": "todoリストは私たちの建築計画を整理するのに役立ちます。",
+          "ipa": "/ðə ˈtuːduː ˈlɪsts ˈhɛlp əs ˈɔːrɡənaɪz ˈaʊɚ ˈbɪldɪŋ ˈplænz/",
+          "linking": [
+            "the は弱形 /ðə/。todo に続く [ðə ˈtuːduː] ダ トゥードゥー",
+            "todo lists → /uː/ + /l/ で続く（連結なし）。lists は [ˈlɪsts]",
+            "lists help → /ts/ + /h/ で続く（連結なし）",
+            "help us → /p/ + /ə/ が連結。us は弱形 /əs/ [ˈhɛlp əs] ヘルパ",
+            "organize our → /z/ + /aʊ/ が連結。our は弱形 /ɚ/ [ˈɔːrɡənaɪz ˈaʊɚ] オーガナイザ アワー"
+          ],
+          "kana": "ダ トゥードゥー リッツ ヘルパ アズ オーガナイザ アワー ビルディング プランズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "lists",
+      "ipa": "/lɪsts/",
+      "examples": [
+        {
+          "en": "He lists every resource in his massive storage facility.",
+          "ja": "彼は巨大なストレージ施設のあらゆるリソースをリストアップします。",
+          "ipa": "/hi ˈlɪsts ˈɛvri rɪˈsɔːrs ɪn hɪz məˈsɪv ˈstɔːrɪdʒ fəˈsɪləti/",
+          "linking": [
+            "He lists → /i/ + /l/ で続く（連結なし）",
+            "lists every → /ts/ + /ɛ/ が連結 [ˈlɪsts ˈɛvri] リッツ エヴリ",
+            "every resource → /i/ + /r/ で続く（連結なし）",
+            "in his → /n/ + /h/ で続く（連結なし）。his は [hɪz]",
+            "storage facility → /dʒ/ + /f/ で続く（連結なし）。facility は [fəˈsɪləti] ファシリティ"
+          ],
+          "kana": "ヒー リッツ エヴリ リソース イン ヒズ マッシヴ ストレッジ ファシリティ"
+        },
+        {
+          "en": "The game lists all your achievements when you press a button.",
+          "ja": "ゲームはボタンを押すとすべてのアチーブメントをリストアップします。",
+          "ipa": "/ðə ˈɡeɪm ˈlɪsts ɔːl jər əˈtʃiːvmənts wɛn ju ˈprɛs ə ˈbʌtən/",
+          "linking": [
+            "the は弱形 /ðə/。game に続く [ðə ˈɡeɪm] ザ ゲイム",
+            "game lists → /m/ + /l/ で続く（連結なし）",
+            "lists all → /ts/ + /ɔ/ が連結 [ˈlɪsts ɔːl] リッツ オール",
+            "your achievements → /r/ + /ə/ が連結。your は弱形 /jɚ/ [jɚ əˈtʃiːvmənts] ヤー アチーヴメンツ",
+            "a button → /ə/ + /b/ で続く（連結なし）"
+          ],
+          "kana": "ザ ゲイム リッツ オール ヤー アチーヴメンツ ウェン ユー プレス ア バトン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "listed",
+      "ipa": "/ˈlɪstəd/",
+      "examples": [
+        {
+          "en": "I listed all the materials needed before I started building.",
+          "ja": "建築を始める前に、必要な素材をすべてリストアップしました。",
+          "ipa": "/aɪ ˈlɪstəd ɔːl ðə məˈtɪriəlz ˈniːdɪd bɪˈfɔːr aɪ ˈstɑːrtɪd ˈbɪldɪŋ/",
+          "linking": [
+            "listed all → /d/ + /ɔ/ が連結 [ˈlɪstəd ɔːl] リステド オール",
+            "all the → /l/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+            "materials needed → /z/ + /n/ で続く（連結なし）",
+            "before I → /r/ + /aɪ/ が連結 [bɪˈfɔːr aɪ] ビフォー アイ"
+          ],
+          "kana": "アイ リステド オール ザ マテリアルズ ニーディド ビフォー アイ スターティド ビルディング"
+        },
+        {
+          "en": "They listed our server as one of the best communities.",
+          "ja": "彼らは私たちのサーバーを最高のコミュニティの1つとしてリストアップしました。",
+          "ipa": "/ðeɪ ˈlɪstəd ˈaʊɚ ˈsɜːrvər əz ˈwʌn əv ðə ˈbɛst kəˈmjuːnətiz/",
+          "linking": [
+            "They listed → /i/ + /l/ で続く（連結なし）",
+            "listed our → /d/ + /aʊ/ が連結。our は弱形 /ɚ/ [ˈlɪstəd ˈaʊɚ] リステド アワー",
+            "server as → /r/ + /ə/ が連結、as は弱形 /əz/ [ˈsɜːrvər əz] サーバー アズ",
+            "of the → /v/ + /ð/ で続く（連結なし）。of は弱形 /əv/、the は弱形 /ðə/ [əv ðə] オヴ ザ",
+            "best communities → /st/ + /k/ で続く（連結なし）。communities は [kəˈmjuːnətiz] コミューニティーズ"
+          ],
+          "kana": "ゼイ リステド アワー サーバー アズ ワン オヴ ザ ベスト コミューニティーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "listed",
+      "ipa": "/ˈlɪstəd/",
+      "examples": [
+        {
+          "en": "Having listed all the items, we were ready to start the expedition.",
+          "ja": "すべてのアイテムをリストアップしたので、遠征を始める準備ができました。",
+          "ipa": "/ˈheɪvɪŋ ˈlɪstəd ɔːl ðə ˈaɪtəmz | wi wər ˈrɛdi tə ˈstɑːrt ðə ɛkˈspɛdɪʃən/",
+          "linking": [
+            "Having listed → /ŋ/ + /l/ で続く（連結なし）",
+            "listed all → /d/ + /ɔ/ が連結 [ˈlɪstəd ɔːl] リステド オール",
+            "all the → /l/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+            "we were → we に続く were は弱形 /wər/ [wi wər] ウィ ワー",
+            "to start → to は弱形 /tə/。start に続く。"
+          ],
+          "kana": "ハヴィング リステド オール ザ アイテムズ、ウィ ワー レディ タ スタート ザ エクスペディション"
+        },
+        {
+          "en": "The achievements listed in the book were proof of our progress.",
+          "ja": "本に記載されたアチーブメントは、私たちの進歩の証明でした。",
+          "ipa": "/ðə əˈtʃiːvmənts ˈlɪstəd ɪn ðə ˈbʊk wər ˈpruːf əv ˈaʊɚ ˈprɑɡrɛs/",
+          "linking": [
+            "the は弱形 /ðə/。achievements に続く [ðə əˈtʃiːvmənts] ザ アチーヴメンツ",
+            "achievements listed → /ts/ + /l/ で続く（連結なし）",
+            "in the → /n/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɪn ðə] イン ザ",
+            "were proof → /r/ + /p/ で続く（連結なし）。were は弱形 /wər/",
+            "of our → /v/ + /aʊ/ が連結。of は弱形 /əv/、our は弱形 /ɚ/ [əv ˈaʊɚ] オヴ アワー"
+          ],
+          "kana": "ザ アチーヴメンツ リステド イン ザ ブック ワー プルーフ オヴ アワー プログレス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "listing",
+      "ipa": "/ˈlɪstɪŋ/",
+      "examples": [
+        {
+          "en": "Listing all the features we want is the first step in planning.",
+          "ja": "欲しいすべての機能をリストアップすることが、計画の最初のステップです。",
+          "ipa": "/ˈlɪstɪŋ ɔːl ðə ˈfitʃərz wi ˈwɑːnt ɪz ðə ˈfɜːrst ˈstɛp ɪn ˈplænɪŋ/",
+          "linking": [
+            "Listing all → /ŋ/ + /ɔ/ が連結 [ˈlɪstɪŋ ɔːl] リスティング オール",
+            "all the → /l/ + /ð/ で続く（連結なし）。the は弱形 /ðə/ [ɔːl ðə] オール ザ",
+            "features we → /z/ + /w/ で続く（連結なし）",
+            "we want → /w/ + /w/ で続く（連結なし）。want は [ˈwɑːnt]",
+            "in planning → /n/ + /p/ で続く（連結なし）"
+          ],
+          "kana": "リスティング オール ザ フィーチャーズ ウィ ウォント イズ ザ ファースト ステップ イン プラニング"
+        },
+        {
+          "en": "I'm listing these rare blocks for trade with other players.",
+          "ja": "これらのレアブロックを他のプレイヤーとの取引のためにリストアップしています。",
+          "ipa": "/aɪm ˈlɪstɪŋ ðiːz ˈrɛr ˈblɑks fər ˈtreɪd wɪð ˈʌðər ˈpleɪərz/",
+          "linking": [
+            "I'm listing → /m/ + /l/ で続く（連結なし）。'm は /m/。listing は [ˈlɪstɪŋ]",
+            "listing these → /ŋ/ + /ð/ で続く（連結なし）",
+            "for trade → /r/ + /t/ で続く（連結なし）。for は弱形 /fər/",
+            "with other → /ð/ + /ʌ/ で続く（連結なし）。with は [wɪð]、other は [ˈʌðər] アザー"
+          ],
+          "kana": "アイム リスティング ディーズ レア ブロックス ファー トレイド ウィズ アザー プレイヤーズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（動詞）",
+      "text": "is listing",
+      "ipa": "/ɪz ˈlɪstɪŋ/",
+      "examples": [
+        {
+          "en": "I am listing all the items in my inventory before we start the adventure.",
+          "ja": "冒険を始める前に、インベントリのすべてのアイテムをリストアップしています。",
+          "ipa": "/aɪ əm ˈlɪstɪŋ ɔːl ðə ˈaɪtəmz ɪn maɪ ɪnˈvɛntəri bɪˈfɔːr wi ˈstɑːrt ðə ədˈvɛntʃər/",
+          "linking": [
+            "am listing → /m/ + /l/ で続く（連結なし）。am は弱形 /əm/",
+            "listing all → /ŋ/ + /ɔ/ が連結 [ˈlɪstɪŋ ɔːl] リスティング オール",
+            "all the → /l/ + /ð/ で続く（連結なし）。the は弱形 /ðə/",
+            "the items → /ə/ + /aɪ/ が連結。[ðə ˈaɪtəmz] ザ アイテムズ",
+            "items in → /z/ + /ɪ/ が連結 [ˈaɪtəmz ɪn] アイテムズ イン",
+            "in my → /n/ + /m/ で続く（連結なし）",
+            "before we → /r/ + /w/ で続く（連結なし）",
+            "start the → /t/ + /ð/ で続く（連結なし）"
+          ],
+          "kana": "アイ アム リスティング オール ザ アイテムズ イン マイ インベントリ ビフォー ウィ スタート ザ アドベンチャー"
+        },
+        {
+          "en": "The admin is listing banned players in the waiting area.",
+          "ja": "管理者は待機エリアでBAN対象プレイヤーをリストアップしています。",
+          "ipa": "/ðə ˈædmɪn ɪz ˈlɪstɪŋ ˈbænd ˈpleɪərz ɪn ðə ˈweɪtɪŋ ˈɛriə/",
+          "linking": [
+            "the は弱形 /ðə/。admin に続く。",
+            "admin is → /n/ + /ɪ/ が連結 [ˈædmɪn ɪz] アドミン イズ",
+            "is listing → /z/ + /l/ で続く（連結なし）",
+            "listing banned → /ŋ/ + /b/ で続く（連結なし）",
+            "players in → /z/ + /ɪ/ が連結 [ˈpleɪərz ɪn] プレイヤーズ イン",
+            "in the → /n/ + /ð/ で続く（連結なし）",
+            "waiting area → /ŋ/ + /ɛ/ が連結 [ˈweɪtɪŋ ˈɛriə] ウェイティング エリア"
+          ],
+          "kana": "ザ アドミン イズ リスティング バンド プレイヤーズ イン ザ ウェイティング エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（動詞）",
+      "text": "was listing",
+      "ipa": "/wəz ˈlɪstɪŋ/",
+      "examples": [
+        {
+          "en": "I was listing the enchantments when the creeper exploded.",
+          "ja": "クリーパーが爆発したとき、エンチャントメントをリストアップしていました。",
+          "ipa": "/aɪ wəz ˈlɪstɪŋ ðə ɪnˈtʃæntmənts wɛn ðə ˈkriːpər ɪkˈsploʊdɪd/",
+          "linking": [
+            "was listing → /z/ + /l/ で続く（連結なし）。was は弱形 /wəz/",
+            "listing the → /ŋ/ + /ð/ で続く（連結なし）",
+            "the enchantments → /ə/ + /ɪ/ が連結。[ðə ɪnˈtʃæntmənts] ザ インチャントメンツ",
+            "when the → /n/ + /ð/ で続く（連結なし）",
+            "creeper exploded → /r/ + /ɪ/ が連結 [ˈkriːpər ɪkˈsploʊdɪd] クリーパー エクスプロウディド"
+          ],
+          "kana": "アイ ワズ リスティング ザ インチャントメンツ ウェン ザ クリーパー エクスプロウディド"
+        },
+        {
+          "en": "We were listing all achievements before the server went down.",
+          "ja": "サーバーがダウンする前に、すべてのアチーブメントをリストアップしていました。",
+          "ipa": "/wi wər ˈlɪstɪŋ ɔːl əˈtʃiːvmənts bɪˈfɔːr ðə ˈsɜːrvər wɛnt ˈdaʊn/",
+          "linking": [
+            "We were → /i/ + /w/ で続く（連結なし）。were は弱形 /wər/",
+            "were listing → /r/ + /l/ で続く（連結なし）",
+            "listing all → /ŋ/ + /ɔ/ が連結 [ˈlɪstɪŋ ɔːl] リスティング オール",
+            "all achievements → /l/ + /ə/ が連結 [ɔːl əˈtʃiːvmənts] オール アチーヴメンツ",
+            "before the → /r/ + /ð/ で続く（連結なし）",
+            "went down → /t/ + /d/ で未開放 [wɛnt̚ ˈdaʊn] ウェント ダウン"
+          ],
+          "kana": "ウィ ワー リスティング オール アチーヴメンツ ビフォー ザ サーバー ウェント ダウン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（動詞）",
+      "text": "had been listing",
+      "ipa": "/həd bɪn ˈlɪstɪŋ/",
+      "examples": [
+        {
+          "en": "We had been listing all our resources before we decided to start the new project.",
+          "ja": "新しいプロジェクトを開始することを決める前に、すべてのリソースをリストアップしていました。",
+          "ipa": "/wi həd bɪn ˈlɪstɪŋ ɔːl ˈaʊɚ rɪˈsɔːrsəz bɪˈfɔːr wi dɪˈsaɪdəd tə ˈstɑːrt ðə ˈnjuː ˈprɑːdʒɛkt/",
+          "linking": [
+            "We had → /i/ + /h/ で続く（連結なし）。had は弱形 /həd/",
+            "had been → /d/ + /b/ で続く（連結なし）。been は弱形 /bɪn/",
+            "been listing → /n/ + /l/ で続く（連結なし）",
+            "listing all → /ŋ/ + /ɔ/ が連結 [ˈlɪstɪŋ ɔːl] リスティング オール",
+            "all our → /l/ + /ˈaʊ/ が連結。our は弱形 /ɚ/ [ɔːl ˈaʊɚ] オール アワー",
+            "before we → /r/ + /w/ で続く（連結なし）",
+            "we decided → /i/ + /d/ が連結 [wi dɪˈsaɪdəd] ウィ ディサイディド",
+            "decided to → /d/ + /t/ で未開放。to は弱形 /tə/ [dɪˈsaɪdəd tə] ディサイディド タ",
+            "start the → /t/ + /ð/ で続く（連結なし）"
+          ],
+          "kana": "ウィ ハド ビン リスティング オール アワー リソーセズ ビフォー ウィ ディサイディド タ スタート ザ ニュー プロジェクト"
+        },
+        {
+          "en": "He had been listing the coordinates for over an hour when he finally found the fortress.",
+          "ja": "彼が要塞をついに見つけたとき、1時間以上座標をリストアップしていました。",
+          "ipa": "/hi həd bɪn ˈlɪstɪŋ ðə koʊˈɔːrdənəts fər ˈoʊvər ən ˈaʊər wɛn hi ˈfaɪnəli ˈfaʊnd ðə ˈfɔːrtrəs/",
+          "linking": [
+            "He had → /i/ + /h/ で続く（連結なし）。had は弱形 /həd/",
+            "had been → /d/ + /b/ で続く（連結なし）。been は弱形 /bɪn/",
+            "been listing → /n/ + /l/ で続く（連結なし）",
+            "listing the → /ŋ/ + /ð/ で続く（連結なし）",
+            "for over → /r/ + /ˈo/ が連結。for は弱形 /fər/ [fər ˈoʊvər] ファー オーバー",
+            "over an → /r/ + /ə/ が連結。an は弱形 /ən/ [ˈoʊvər ən] オーバー アン",
+            "an hour → /n/ + /aʊ/ が連結 [ən ˈaʊər] アン アワー",
+            "when he → /n/ + /h/ で続く（連結なし）",
+            "found the → /d/ + /ð/ で続く（連結なし）"
+          ],
+          "kana": "ヒー ハド ビン リスティング ザ コーオーディネイツ ファー オーバー アン アワー ウェン ヒー ファイナリー ファウンド ザ フォートレス"
+        }
+      ]
+    }
+  ]
+}

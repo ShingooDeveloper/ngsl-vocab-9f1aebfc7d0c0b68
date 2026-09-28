@@ -1,0 +1,244 @@
+{
+  "word": "include",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɪnˈkluːd/",
+  "rank": 1200,
+  "level": "B1",
+  "hi": "includ(?:e[sd]?|ing)",
+  "meanings": [
+    "【動詞】～を含む、～に含められている（…include something）",
+    "【動詞】～を含める、加える（…include something in/with）",
+    "【名詞】（プログラミング）含める、インクルード指示"
+  ],
+  "examples": [
+    {
+      "en": "This biome includes mountains and forests.",
+      "ja": "このバイオームは山と森を含んでいます。",
+      "ipa": "[ðɪs baɪˈoʊm ɪnˈkluːdz ˈmaʊntənz ən ˈfɔrɪsts]",
+      "kana": "ディス バイオーム インクルーズ マウンテンズ アン フォレスツ",
+      "linking": [
+        "and は機能語で弱形 /ən/ に弱化"
+      ]
+    },
+    {
+      "en": "The inventory includes valuable items.",
+      "ja": "インベントリーには価値のあるアイテムが含まれています。",
+      "ipa": "[ðə ɪnˈvɛntɔri ɪnˈkluːdz ˈvæljuəbəl ˈaɪtəmz]",
+      "kana": "ザ インベントリー インクルーズ ヴァリュアブル アイテムズ",
+      "linking": [
+        "The は冠詞で弱形 /ðə/ に弱化"
+      ]
+    },
+    {
+      "en": "Many Minecraft features include redstone mechanics.",
+      "ja": "多くのマインクラフト機能はレッドストーンメカニクスを含みます。",
+      "ipa": "[ˈmɛni ˈmaɪnˌkræft ˈfitʃɚz ɪnˈkluːdz ˈrɛdˌstoʊn məˈkænɪks]",
+      "kana": "メニー マインクラフト フィチャーズ インクルーズ レッドストーン メカニクス",
+      "linking": []
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "include in",
+      "ja": "～に～を含める、加える",
+      "example": "Please include this ore in our collection.",
+      "example_ja": "この鉱石を私たちのコレクションに含めてください。",
+      "ipa": "[pliːz ɪnˈkluːd ðɪs ɔr ɪn ˈaʊɚ kəˈlɛkʃən]",
+      "kana": "プリーズ インクルード ディス オア イン アワー コレクション",
+      "linking": []
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "includes",
+      "ipa": "/ɪnˈkluːdz/",
+      "examples": [
+        {
+          "en": "This biome includes mountains and forests.",
+          "ja": "このバイオームは山と森を含んでいます。",
+          "ipa": "[ðɪs baɪˈoʊm ɪnˈkluːdz ˈmaʊntənz ən ˈfɔrɪsts]",
+          "kana": "ディス バイオーム インクルーズ マウンテンズ アン フォレスツ",
+          "linking": [
+            "and は機能語で弱形 /ən/ に弱化"
+          ]
+        },
+        {
+          "en": "The inventory includes valuable items.",
+          "ja": "インベントリーには価値のあるアイテムが含まれています。",
+          "ipa": "[ðə ɪnˈvɛntɔri ɪnˈkluːdz ˈvæljuəbəl ˈaɪtəmz]",
+          "kana": "ザ インベントリー インクルーズ ヴァリュアブル アイテムズ",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "included",
+      "ipa": "/ɪnˈkluːdɪd/",
+      "examples": [
+        {
+          "en": "I included diamonds in my design.",
+          "ja": "私は私の設計にダイヤモンドを含めました。",
+          "ipa": "[aɪ ɪnˈkluːdɪd ˈdaɪəmɑndz ɪn maɪ dɪˈzaɪn]",
+          "kana": "アイ インクルーディッド ダイアモンズ イン マイ ディザイン",
+          "linking": [
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        },
+        {
+          "en": "The update included new features.",
+          "ja": "アップデートに新しい機能が含まれていました。",
+          "ipa": "[ðə ˈʌpdeɪt ɪnˈkluːdɪd nju ˈfitʃɚz]",
+          "kana": "ザ アップデイト インクルーディッド ニュー フィチャーズ",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "included",
+      "ipa": "/ɪnˈkluːdɪd/",
+      "examples": [
+        {
+          "en": "All items included are essential.",
+          "ja": "含まれているすべてのアイテムは重要です。",
+          "ipa": "[ɔl ˈaɪtəmz ɪnˈkluːdɪd ɑr ɪˈsɛnʃəl]",
+          "kana": "オール アイテムズ インクルーディッド アー イセンシャル",
+          "linking": []
+        },
+        {
+          "en": "The materials included in this recipe are common.",
+          "ja": "このレシピに含まれる材料は一般的です。",
+          "ipa": "[ðə məˈtɪriəlz ɪnˈkluːdɪd ɪn ðɪs ˈrɛsəpi ɑr ˈkɑmən]",
+          "kana": "ザ マテリアルズ インクルーディッド イン ディス レシピ アー カモン",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "including",
+      "ipa": "/ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "Including gold makes this treasure valuable.",
+          "ja": "金を含めることがこの宝を価値あるものにします。",
+          "ipa": "[ɪnˈkluːdɪŋ ˈɡoʊld ˈmeɪks ðɪs ˈtrɛʒɚ ˈvæljuəbəl]",
+          "kana": "インクルーディング ゴールド メイクス ディス トレジャー ヴァリュアブル",
+          "linking": []
+        },
+        {
+          "en": "You can find many ores, including diamonds and emeralds.",
+          "ja": "ダイヤモンドとエメラルドを含む多くの鉱石を見つけることができます。",
+          "ipa": "[ju kən ˈfaɪnd ˈmɛni ɔrz ɪnˈkluːdɪŋ ˈdaɪəmɑndz ən ˈɛmərəldz]",
+          "kana": "ユー カン ファインド メニー オーズ インクルーディング ダイアモンズ アン エメラルズ",
+          "linking": [
+            "can は弱形 /kən/ に弱化",
+            "and は弱形 /ən/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is including",
+      "ipa": "/ɪz ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "I am including all the ores in my collection.",
+          "ja": "私は採掘したすべての鉱石をコレクションに含めています。",
+          "ipa": "[aɪ æm ɪnˈkluːdɪŋ ɔl ðə ɔrz ɪn maɪ kəˈlɛkʃən]",
+          "kana": "アイ アム インクルーディング オール ザ オーズ イン マイ コレクション",
+          "linking": [
+            "The は冠詞で弱形 /ðə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        },
+        {
+          "en": "They are including special blocks in their structure.",
+          "ja": "彼らは構造物に特別なブロックを含めています。",
+          "ipa": "[ðeɪ ɑr ɪnˈkluːdɪŋ ˈspɛʃəl blɑks ɪn ðɛr ˈstrʌkʃɚ]",
+          "kana": "ザイ アー インクルーディング スペシャル ブラックス イン ゼア ストラクチャー",
+          "linking": [
+            "are は弱形 /ə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was including",
+      "ipa": "/wəz ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "He was including rare blocks in his masterpiece.",
+          "ja": "彼は傑作に希少ブロックを含めていました。",
+          "ipa": "[hi wəz ɪnˈkluːdɪŋ rer blɑks ɪn hɪz ˈmeɪstərˌpis]",
+          "kana": "ヒー ワズ インクルーディング レア ブラックス イン ヒズ マスターピース",
+          "linking": [
+            "was は機能語で弱形 /wəz/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化"
+          ]
+        },
+        {
+          "en": "We were including diamonds in the treasure chest.",
+          "ja": "私たちは宝箱にダイヤモンドを含めていました。",
+          "ipa": "[wi wɚ ɪnˈkluːdɪŋ ˈdaɪəmɑndz ɪn ðə ˈtrɛʒɚ ˈtʃɛst]",
+          "kana": "ウィー ワー インクルーディング ダイアモンズ イン ザ トレジャー チェスト",
+          "linking": [
+            "were は弱形 /wə/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been including",
+      "ipa": "/həd bɪn ɪnˈkluːdɪŋ/",
+      "examples": [
+        {
+          "en": "They had been including all materials in the recipe.",
+          "ja": "彼らはレシピにすべての材料を含めていました。",
+          "ipa": "[ðeɪ həd bɪn ɪnˈkluːdɪŋ ɔl məˈtɪriəlz ɪn ðə ˈrɛsəpi]",
+          "kana": "ザイ ハド ビン インクルーディング オール マテリアルズ イン ザ レシピ",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        },
+        {
+          "en": "She had been including new features in the update.",
+          "ja": "彼女はアップデートに新機能を含めていました。",
+          "ipa": "[ʃi həd bɪn ɪnˈkluːdɪŋ nu ˈfitʃɚz ɪn ðə ˈʌpdeɪt]",
+          "kana": "シー ハド ビン インクルーディング ニュー フィチャーズ イン ザ アップデイト",
+          "linking": [
+            "had は機能語で弱形 /həd/ に弱化",
+            "been は機能語で弱形 /bɪn/ に弱化",
+            "in は機能語で弱形 /ɪn/ に弱化",
+            "The は冠詞で弱形 /ðə/ に弱化"
+          ]
+        }
+      ]
+    }
+  ]
+}

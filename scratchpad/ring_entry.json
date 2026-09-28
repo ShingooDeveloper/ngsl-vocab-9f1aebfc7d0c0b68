@@ -1,0 +1,360 @@
+﻿{
+    "word":  "ring",
+    "ipa_us":  "/rɪŋ/",
+    "meanings":  [
+                     "【名詞】指輪、リング、環（a circular band of precious metal worn on the finger）",
+                     "【名詞】円形、円周（a circular shape or line）",
+                     "【名詞】鐘の音、ベルの音（the sound made by a bell or similar object）",
+                     "【動詞】～を鳴らす、ベルを鳴らす（make the sound of a bell）",
+                     "【動詞】～を呼び出す、電話をかける（call someone on the telephone）",
+                     "【動詞】（音が）鳴る、響く（make a loud clear ringing sound）"
+                 ],
+    "hi":  "ring(?:s|ing|ed)?",
+    "idioms":  [
+        {
+            "idiom": "a ring of protection",
+            "ja": "保護のリング、防御の輪",
+            "example": "In Minecraft, a ring of torches around your base provides safety.",
+            "example_ja": "マインクラフトでは、拠点周辺のたいまつのリングが安全を提供します。",
+            "ipa": "/ɪn ˈmaɪnˌkræft | ə rɪŋ əv ˈtɔrtʃəz əˈraʊnd jɚ ˈbeɪs prəˈvaɪdz ˈseɪfti/",
+            "linking": [
+                "ring の g が of に続く [rɪŋ əv] リング ア（ofは弱形）",
+                "of の v が torches に連結 [əv ˈtɔrtʃəz] ア トーチーズ",
+                "torches の z が around に連結 [ˈtɔrtʃəz əˈraʊnd] トーチーズ アラウンド",
+                "around の d が your に続く [əˈraʊnd jɚ] アラウンド ヤー",
+                "provides の z が safety に連結 [prəˈvaɪdz ˈseɪfti] プロバイズ セイフティ"
+            ],
+            "kana": "イン マインクラフト、ア リング ア トーチーズ アラウンド ヤー ベイス プロバイズ セイフティ"
+        },
+        {
+            "idiom": "ring alarm bells",
+            "ja": "警鐘を鳴らす、警告を発する",
+            "example": "When we saw the dark clouds, alarm bells rang in our minds.",
+            "example_ja": "暗い雲を見たとき、私たちの心に警鐘が鳴りました。",
+            "ipa": "/wɛn wi sɔ ðə ˈdɑrk klaʊdz | əˈlɑrm bɛlz ræŋ ɪn ˈaʊər ˈmaɪndz/",
+            "linking": [
+                "we の e が saw に... [wi sɔ] ウィー ソー",
+                "saw の w が the に... [sɔ ðə] ソー ザ",
+                "bells の z が rang に連結 [bɛlz ræŋ] ベルズ ラング",
+                "rang の g が in に続く [ræŋ ɪn] ラング イン",
+                "in の n が our に... [ɪn ˈaʊər] イン アワー"
+            ],
+            "kana": "ウェン ウィー ソー ザ ダーク クラウズ、アラーム ベルズ ラング イン アワー マインズ"
+        }
+    ],
+    "pos":  "名詞・動詞",
+    "level":  "A1",
+    "rank":  192,
+    "pos_all":  "名詞・動詞",
+    "examples":  [
+        {
+            "en": "She wears a gold ring on her finger.",
+            "ja": "彼女は指に金のリングをしています。",
+            "ipa": "/ʃi wɛrz ə ɡoʊld rɪŋ ɑn hɚ ˈfɪŋɡər/",
+            "linking": [
+                "wears の z が a に連結 [wɛrz ə] ウェアズ ア",
+                "ring の g が on に続く [rɪŋ ɑn] リング オン",
+                "on の n が her に... [ɑn hɚ] オン ハー"
+            ],
+            "kana": "シー ウェアズ ア ゴールド リング オン ハー フィンガー"
+        },
+        {
+            "en": "The bell rings every hour at the village center.",
+            "ja": "鐘は村の中心で毎時間鳴ります。",
+            "ipa": "/ðə bɛl rɪŋz ˈɛvri ˈaʊər æt ðə ˈvɪlɪdʒ ˈsɛntər/",
+            "linking": [
+                "bell の l が rings に連結 [bɛl rɪŋz] ベル リングズ",
+                "rings の z が every に連結 [rɪŋz ˈɛvri] リングズ エヴリ",
+                "at の t が the に未開放で続く [æt̚ ðə] アッ ザ"
+            ],
+            "kana": "ザ ベル リングズ エヴリ アワー アッ ザ ビレッジ センター"
+        },
+        {
+            "en": "I heard the bells ring when the celebration started.",
+            "ja": "お祝いが始まったときに、鐘が鳴るのを聞きました。",
+            "ipa": "/aɪ hɚd ðə bɛlz rɪŋ wɛn ðə ˌsɛləˈbreɪʃən ˈstɑrtəd/",
+            "linking": [
+                "bells の z が ring に連結 [bɛlz rɪŋ] ベルズ リング",
+                "ring の g が when に続く [rɪŋ wɛn] リング ウェン",
+                "celebration の n が started に... [ˌsɛləˈbreɪʃən ˈstɑrtəd] セレブレイション スターテッド"
+            ],
+            "kana": "アイ ハード ザ ベルズ リング ウェン ザ セレブレイション スターテッド"
+        }
+    ],
+    "forms":  [
+        {
+            "type": "plural",
+            "label": "複数形（名詞）",
+            "text": "rings",
+            "ipa": "/rɪŋz/",
+            "examples": [
+                {
+                    "en": "The treasure chest contains many precious rings.",
+                    "ja": "宝箱には多くの貴重なリングが含まれています。",
+                    "ipa": "/ðə ˈtrɛʒər tʃɛst kənˈteɪnz ˈmɛni ˈprɛʃəs rɪŋz/",
+                    "linking": [
+                        "treasure の r が chest に連結 [ˈtrɛʒər tʃɛst] トレジャー チェスト",
+                        "chest の t が contains に未開放 [tʃɛst̚ kənˈteɪnz] チェスト コンテインズ",
+                        "contains の z が many に連結 [kənˈteɪnz ˈmɛni] コンテインズ メニー"
+                    ],
+                    "kana": "ザ トレジャー チェスト コンテインズ メニー プレシャス リングズ"
+                },
+                {
+                    "en": "Three alarm rings notify players when someone enters the base.",
+                    "ja": "3つのアラームリングは、誰かが基地に入るとプレイヤーに通知します。",
+                    "ipa": "/ˈθri əˈlɑrm rɪŋz ˈnoʊtɪfaɪ ˈpleɪərz wɛn ˈsʌmwʌn ˈɛntərz ðə ˈbeɪs/",
+                    "linking": [
+                        "alarm の m が rings に続く。rings の z は notify に連結 [əˈlɑrm rɪŋz ˈnoʊtɪfaɪ] アラーム リングズ ノーティファイ",
+                        "players の z が when に連結 [ˈpleɪərz wɛn] プレイヤーズ ウェン",
+                        "enters の z が the に続く。the は弱形 /ðə/ [ˈɛntərz ðə] エンターズ ザ"
+                    ],
+                    "kana": "スリー アラーム リングズ ノーティファイ プレイヤーズ ウェン サムワン エンターズ ザ ベイス"
+                }
+            ]
+        },
+        {
+            "type": "3rd_person_singular",
+            "label": "三人称単数現在形",
+            "text": "rings",
+            "ipa": "/rɪŋz/",
+            "examples": [
+                {
+                    "en": "Every bell rings when the redstone signal activates the mechanism.",
+                    "ja": "レッドストーン信号がメカニズムを有効にすると、すべてのベルが鳴ります。",
+                    "ipa": "/ˈɛvri bɛl rɪŋz wɛn ðə ˈrɛdˌstoʊn ˈsɪɡnəl ˈæktɪveɪts ðə ˈmɛkənɪzəm/",
+                    "linking": [
+                        "bell の l が rings に連結 [bɛl rɪŋz] ベル リングズ",
+                        "rings の z が when に連結 [rɪŋz wɛn] リングズ ウェン",
+                        "activates の z が the に続く。the は弱形 /ðə/ [ˈæktɪveɪts ðə] アクティベイツ ザ"
+                    ],
+                    "kana": "エヴリ ベル リングズ ウェン ザ レッドストーン シグナル アクティベイツ ザ メカニズム"
+                },
+                {
+                    "en": "The bell tower rings with a beautiful tone during sunrise.",
+                    "ja": "日の出の間、ベルタワーは美しい音で鳴ります。",
+                    "ipa": "/ðə bɛl ˈtaʊər rɪŋz wɪð ə ˈbjuːtɪfəl ˈtoʊn ˈdʊrɪŋ ˈsʌnˌraɪz/",
+                    "linking": [
+                        "tower の r が rings に連結 [ˈtaʊər rɪŋz] タワー リングズ",
+                        "rings の z が with に続く。with は /wɪð/ [rɪŋz wɪð] リングズ ウィズ",
+                        "with の ð が a に続く。a は弱形 /ə/ [wɪð ə] ウィザ"
+                    ],
+                    "kana": "ザ ベル タワー リングズ ウィザ ビューティフル トーン デューリング サンライズ"
+                }
+            ]
+        },
+        {
+            "type": "past_tense",
+            "label": "過去形",
+            "text": "rang",
+            "ipa": "/ræŋ/",
+            "examples": [
+                {
+                    "en": "The bell rang loudly when I activated the redstone button.",
+                    "ja": "レッドストーンボタンを有効にしたとき、ベルが大きく鳴りました。",
+                    "ipa": "/ðə bɛl ræŋ ˈlaʊdli wɛn aɪ ˈæktɪveɪtəd ðə ˈrɛdˌstoʊn ˈbʌtən/",
+                    "linking": [
+                        "bell の l が rang に連結 [bɛl ræŋ] ベル ラング",
+                        "rang の g が loudly に続く [ræŋ ˈlaʊdli] ラング ラウドリー",
+                        "when の n が I に続く [wɛn aɪ] ウェン アイ",
+                        "activated の d が the に未開放 [ˈæktɪveɪtəd̚ ðə] アクティベイテッド ザ"
+                    ],
+                    "kana": "ザ ベル ラング ラウドリー ウェン アイ アクティベイテッド ザ レッドストーン バッタン"
+                },
+                {
+                    "en": "All three alarm bells rang at midnight to signal the midnight reset.",
+                    "ja": "3つのアラームベルはすべて真夜中に鳴り、真夜中のリセットを知らせました。",
+                    "ipa": "/ɔl ˈθri əˈlɑrm bɛlz ræŋ æt ˈmɪdˌnaɪt tə ˈsɪɡnəl ðə ˈmɪdˌnaɪt ˈrisɛt/",
+                    "linking": [
+                        "all の l が three に連結 [ɔl ˈθri] オール スリー",
+                        "bells の z が rang に連結 [bɛlz ræŋ] ベルズ ラング",
+                        "rang の g が at に続く [ræŋ æt] ラング アッ",
+                        "at の t が midnight に未開放 [æt̚ ˈmɪdˌnaɪt] アッ ミッドナイト",
+                        "to は弱形 /tə/。signal に続く [tə ˈsɪɡnəl] タ シグナル"
+                    ],
+                    "kana": "オール スリー アラーム ベルズ ラング アッ ミッドナイト タ シグナル ザ ミッドナイト リセット"
+                }
+            ]
+        },
+        {
+            "type": "past_participle",
+            "label": "過去分詞",
+            "text": "rung",
+            "ipa": "/rʌŋ/",
+            "examples": [
+                {
+                    "en": "The ceremonial bells have been rung to celebrate the season.",
+                    "ja": "季節を祝うために、儀式用のベルが鳴りました。",
+                    "ipa": "/ðə səˈrɛməˌnoʊəl bɛlz hæv bɪn rʌŋ tə ˈsɛləˌbreɪt ðə ˈsiːzən/",
+                    "linking": [
+                        "ceremonial の l が bells に連結 [səˈrɛməˌnoʊəl bɛlz] セレモニアル ベルズ",
+                        "bells の z が have に連結 [bɛlz hæv] ベルズ ハブ",
+                        "have の v が been に... [hæv bɪn] ハブ ビン",
+                        "been の n が rung に続く [bɪn rʌŋ] ビン ラング",
+                        "rung の g が to に続く。to は弱形 /tə/ [rʌŋ tə] ラング タ"
+                    ],
+                    "kana": "ザ セレモニアル ベルズ ハブ ビン ラング タ セレブレイト ザ シーズン"
+                },
+                {
+                    "en": "The alarm has been rung three times already this morning.",
+                    "ja": "アラームは今朝すでに3回鳴らされています。",
+                    "ipa": "/ðə əˈlɑrm hæz bɪn rʌŋ ˈθri taɪmz ˈɔlrɛdi ðɪs ˈmɔrnɪŋ/",
+                    "linking": [
+                        "alarm の m が has に... [əˈlɑrm hæz] アラーム ハズ",
+                        "has の z が been に連結 [hæz bɪn] ハズ ビン",
+                        "been の n が rung に続く [bɪn rʌŋ] ビン ラング",
+                        "rung の g が three に続く [rʌŋ ˈθri] ラング スリー",
+                        "times の z が already に連結 [taɪmz ˈɔlrɛdi] タイムズ オールレディ"
+                    ],
+                    "kana": "ザ アラーム ハズ ビン ラング スリー タイムズ オールレディ ディス モーニング"
+                }
+            ]
+        },
+        {
+            "type": "present_participle",
+            "label": "現在分詞・動名詞",
+            "text": "ringing",
+            "ipa": "/ˈrɪŋɪŋ/",
+            "examples": [
+                {
+                    "en": "Ringing the bell constantly signals danger to all nearby players.",
+                    "ja": "ベルを絶えず鳴らすことは、近くのすべてのプレイヤーに危険を知らせます。",
+                    "ipa": "/ˈrɪŋɪŋ ðə bɛl ˈkɑnstəntli ˈsɪɡnəlz ˈdeɪndʒər tə ɔl nɪrˈbaɪ ˈpleɪərz/",
+                    "linking": [
+                        "ringing の g が the に続く [ˈrɪŋɪŋ ðə] リンギング ザ",
+                        "bell の l が constantly に続く [bɛl ˈkɑnstəntli] ベル コンスタントリー",
+                        "signals の z が danger に連結 [ˈsɪɡnəlz ˈdeɪndʒər] シグナルズ デインジャー",
+                        "danger の r が to に連結 [ˈdeɪndʒər tə] デインジャー タ（to は弱形）"
+                    ],
+                    "kana": "リンギング ザ ベル コンスタントリー シグナルズ デインジャー タ オール ニアバイ プレイヤーズ"
+                },
+                {
+                    "en": "The constantly ringing note block in the clock tower was installed last week.",
+                    "ja": "時計塔の絶えず鳴ってるノートブロックは、先週インストールされました。",
+                    "ipa": "/ðə ˈkɑnstəntli ˈrɪŋɪŋ noʊt ˈblɑk ɪn ðə ˈklɑk ˈtaʊər wəz ɪnˈstɔld læst ˈwik/",
+                    "linking": [
+                        "constantly の i が ringing に続く [ˈkɑnstəntli ˈrɪŋɪŋ] コンスタントリー リンギング",
+                        "ringing の g が note に続く [ˈrɪŋɪŋ noʊt] リンギング ノート",
+                        "block の k が in に続く [ˈblɑk ɪn] ブロック イン",
+                        "in の n が the に続く。the は弱形 /ðə/ [ɪn ðə] イン ザ"
+                    ],
+                    "kana": "ザ コンスタントリー リンギング ノート ブロック イン ザ クロック タワー ワズ インストールド ラスト ウィーク"
+                }
+            ]
+        },
+        {
+            "type": "present_progressive",
+            "label": "現在進行形（is/are + -ing）",
+            "text": "is ringing",
+            "ipa": "/ɪz ˈrɪŋɪŋ/",
+            "examples": [
+                {
+                    "en": "The bell tower is ringing loudly during the ceremony.",
+                    "ja": "セレモニーの間、ベルタワーが大きく鳴っています。",
+                    "ipa": "/ðə bɛl ˈtaʊər ɪz ˈrɪŋɪŋ ˈlaʊdli ˈdʊrɪŋ ðə səˈrɛməni/",
+                    "linking": [
+                        "bell の l が tower に連結 [bɛl ˈtaʊər] ベル タワー",
+                        "tower の r が is に連結。is は弱形 /ɪz/ [ˈtaʊər ɪz] タワー イズ",
+                        "is の z が ringing に連結 [ɪz ˈrɪŋɪŋ] イズ リンギング",
+                        "ringing の g が loudly に続く [ˈrɪŋɪŋ ˈlaʊdli] リンギング ラウドリー",
+                        "during の g が the に続く。the は弱形 /ðə/ [ˈdʊrɪŋ ðə] デューリング ザ"
+                    ],
+                    "kana": "ザ ベル タワー イズ リンギング ラウドリー デューリング ザ セレモニー"
+                },
+                {
+                    "en": "The redstone alarm is ringing to notify us of incoming danger.",
+                    "ja": "レッドストーンアラームが鳴っており、迫り来る危険について通知しています。",
+                    "ipa": "/ðə ˈrɛdˌstoʊn əˈlɑrm ɪz ˈrɪŋɪŋ tə ˈnoʊtɪfaɪ əs əv ɪnˈkʌmɪŋ ˈdeɪndʒər/",
+                    "linking": [
+                        "redstone の n が alarm に続く [ˈrɛdˌstoʊn əˈlɑrm] レッドストーン アラーム",
+                        "alarm の m が is に... [əˈlɑrm ɪz] アラーム イズ",
+                        "is は弱形 /ɪz/、ringing に連結 [ɪz ˈrɪŋɪŋ] イズ リンギング",
+                        "ringing の g が to に続く。to は弱形 /tə/ [ˈrɪŋɪŋ tə] リンギング タ",
+                        "notify の i が us に... [ˈnoʊtɪfaɪ əs] ノーティファイ アス",
+                        "us の s が of に... [əs əv] アス ア（of は弱形 /əv/）",
+                        "of の v が incoming に... [əv ɪnˈkʌmɪŋ] ア インカミング"
+                    ],
+                    "kana": "ザ レッドストーン アラーム イズ リンギング タ ノーティファイ アス ア インカミング デインジャー"
+                }
+            ]
+        },
+        {
+            "type": "past_progressive",
+            "label": "過去進行形（was/were + -ing）",
+            "text": "was ringing",
+            "ipa": "/wəz ˈrɪŋɪŋ/",
+            "examples": [
+                {
+                    "en": "The bell was ringing when I walked into the village square.",
+                    "ja": "私が村の広場に歩いて入ったとき、ベルが鳴っていました。",
+                    "ipa": "/ðə bɛl wəz ˈrɪŋɪŋ wɛn aɪ ˈwɔkt ˈɪntu ðə ˈvɪlɪdʒ ˈskwɛr/",
+                    "linking": [
+                        "bell の l が was に... [bɛl wəz] ベル ワズ",
+                        "was は弱形 /wəz/、ringing に連結 [wəz ˈrɪŋɪŋ] ワズ リンギング",
+                        "ringing の g が when に続く [ˈrɪŋɪŋ wɛn] リンギング ウェン",
+                        "when の n が I に続く [wɛn aɪ] ウェン アイ",
+                        "walked の d が into に未開放 [ˈwɔkt̚ ˈɪntu] ウォッ インツー",
+                        "village の j が square に... [ˈvɪlɪdʒ ˈskwɛr] ビレッジ スクウェア"
+                    ],
+                    "kana": "ザ ベル ワズ リンギング ウェン アイ ウォッ インツー ザ ビレッジ スクウェア"
+                },
+                {
+                    "en": "Multiple bells were ringing throughout the night for a festival.",
+                    "ja": "フェスティバルのため、複数のベルが一晩中鳴っていました。",
+                    "ipa": "/ˈmʌltɪpəl bɛlz wər ˈrɪŋɪŋ θruˈaʊt ðə ˈnaɪt fər ə ˈfɛstɪvəl/",
+                    "linking": [
+                        "multiple の l が bells に連結 [ˈmʌltɪpəl bɛlz] マルティプル ベルズ",
+                        "bells の z が were に連結。were は弱形 /wər/ [bɛlz wər] ベルズ ワー",
+                        "were の r が ringing に連結 [wər ˈrɪŋɪŋ] ワー リンギング",
+                        "ringing の g が throughout に続く [ˈrɪŋɪŋ θruˈaʊt] リンギング スルーアウト",
+                        "throughout の t が the に未開放。the は弱形 /ðə/ [θruˈaʊt̚ ðə] スルーアッ ザ",
+                        "night の t が for に未開放。for は弱形 /fər/ [ˈnaɪt̚ fər] ナイッ ファー",
+                        "for の r が a に連結。a は弱形 /ə/ [fər ə] ファー ア"
+                    ],
+                    "kana": "マルティプル ベルズ ワー リンギング スルーアウト ザ ナイッ ファー ア フェスティバル"
+                }
+            ]
+        },
+        {
+            "type": "past_perfect_progressive",
+            "label": "過去完了進行形（had been + -ing）",
+            "text": "had been ringing",
+            "ipa": "/həd bɪn ˈrɪŋɪŋ/",
+            "examples": [
+                {
+                    "en": "The note block had been ringing for hours before I finally stopped it.",
+                    "ja": "ノートブロックは、私がついに止めるまで数時間鳴り続けていました。",
+                    "ipa": "/ðə noʊt ˈblɑk həd bɪn ˈrɪŋɪŋ fər ˈaʊərz bɪˈfɔr aɪ ˈfaɪnəli ˈstɑpt ɪt/",
+                    "linking": [
+                        "note の t が block に未開放 [noʊt̚ ˈblɑk] ノート ブロック",
+                        "block の k が had に続く。had は弱形 /həd/ [ˈblɑk həd] ブロック ハド",
+                        "had の d が been に。been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+                        "been の n が ringing に続く [bɪn ˈrɪŋɪŋ] ビン リンギング",
+                        "ringing の g が for に続く。for は弱形 /fər/ [ˈrɪŋɪŋ fər] リンギング ファー",
+                        "for の r が hours に連結 [fər ˈaʊərz] ファー アワーズ",
+                        "hours の z が before に連結 [ˈaʊərz bɪˈfɔr] アワーズ ビフォー",
+                        "before の r が I に連結 [bɪˈfɔr aɪ] ビフォー アイ",
+                        "stopped の d が it に... [ˈstɑpt ɪt] スタップ イット"
+                    ],
+                    "kana": "ザ ノート ブロック ハド ビン リンギング ファー アワーズ ビフォー アイ ファイナリー スタップ イット"
+                },
+                {
+                    "en": "The alarm had been ringing continuously until the power was cut off.",
+                    "ja": "電力が遮断されるまで、アラームが継続的に鳴り続けていました。",
+                    "ipa": "/ðə əˈlɑrm həd bɪn ˈrɪŋɪŋ ˌkɑntɪnˈjuəsli ənˈtɪl ðə ˈpaʊər wəz kʌt ɔf/",
+                    "linking": [
+                        "alarm の m が had に... [əˈlɑrm həd] アラーム ハド",
+                        "had は弱形 /həd/、been に続く。been は弱形 /bɪn/ [həd bɪn] ハド ビン",
+                        "been の n が ringing に続く [bɪn ˈrɪŋɪŋ] ビン リンギング",
+                        "ringing の g が continuously に続く [ˈrɪŋɪŋ ˌkɑntɪnˈjuəsli] リンギング コンティニュアスリー",
+                        "continuously の i が until に続く [ˌkɑntɪnˈjuəsli ənˈtɪl] コンティニュアスリー アンティル",
+                        "until の l が the に... [ənˈtɪl ðə] アンティル ザ",
+                        "the は弱形 /ðə/、power に続く [ðə ˈpaʊər] ザ パワー",
+                        "power の r が was に連結。was は弱形 /wəz/ [ˈpaʊər wəz] パワー ワズ",
+                        "cut の t が off に未開放 [kʌt̚ ɔf] カッ オフ"
+                    ],
+                    "kana": "ザ アラーム ハド ビン リンギング コンティニュアスリー アンティル ザ パワー ワズ カッ オフ"
+                }
+            ]
+        }
+    ]
+}

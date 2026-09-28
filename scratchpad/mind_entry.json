@@ -1,0 +1,189 @@
+{
+  "word": "mind",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/maɪnd/",
+  "rank": 340,
+  "level": "A1",
+  "hi": "mind(?:s|ed|ing)?",
+  "forms": [
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is minding",
+      "ipa": "[ɪz ˈmaɪndɪŋ]",
+      "examples": [
+        {
+          "en": "She is minding the farm while we go mining.",
+          "ja": "私たちが採掘に行っている間、彼女は農場の世話をしています。",
+          "ipa": "[ʃi ɪz ˈmaɪndɪŋ ðə fɑrm waɪl wi ɡoʊ ˈmaɪnɪŋ]",
+          "linking": [
+            "is → 助動詞は弱形 /ɪz/",
+            "the farm → the は弱形 /ðə/。farm は /fɑrm/"
+          ],
+          "kana": "シ イズ マインディング ザ ファーム ワイル ウィ ゴウ マイニング"
+        },
+        {
+          "en": "I'm minding the furnace so it doesn't overheat.",
+          "ja": "炉が過熱しないように、私は炉を見張っています。",
+          "ipa": "[aɪm ˈmaɪndɪŋ ðə ˈfɝnəs soʊ ɪt ˈdʌzənt ˌoʊvərˈhit]",
+          "linking": [
+            "I'm → I am の弱形で /aɪm/",
+            "the furnace → the は弱形 /ðə/。furnace は /ˈfɝnəs/"
+          ],
+          "kana": "アイム マインディング ザ ファーネス ソウ イット ダズント オーバーヒート"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was minding",
+      "ipa": "[wəz ˈmaɪndɪŋ]",
+      "examples": [
+        {
+          "en": "I was minding the entrance when a creeper appeared.",
+          "ja": "クリーパーが現れたとき、私は入口を見張っていました。",
+          "ipa": "[aɪ wəz ˈmaɪndɪŋ ði ˈɛntərəns wɛn ə ˈkripər əˈpɪrd]",
+          "linking": [
+            "was → 助動詞は弱形 /wəz/",
+            "the entrance → the は母音の前で /ði/",
+            "when a → /n ə/ で when の末尾 /n/ が a の弱形 /ə/ に連結"
+          ],
+          "kana": "アイ ワズ マインディング ジ エントランス ウェン ア クリーパー アピアド"
+        },
+        {
+          "en": "We were minding the crops when the storm came.",
+          "ja": "嵐が来たとき、私たちは作物の世話をしていました。",
+          "ipa": "[wi wɚ ˈmaɪndɪŋ ðə krɑps wɛn ðə ˈstɔrm keɪm]",
+          "linking": [
+            "were → 助動詞は弱形 /wɚ/（r-colored schwa）",
+            "the crops → the は弱形 /ðə/。crops は /krɑps/",
+            "when the → /n ðə/ で when の末尾 /n/ が the の弱形に連結"
+          ],
+          "kana": "ウィ ワー マインディング ザ クロップス ウェン ザ ストーム ケイム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been minding",
+      "ipa": "[həd bɪn ˈmaɪndɪŋ]",
+      "examples": [
+        {
+          "en": "I had been minding the base before I went to the nether.",
+          "ja": "ネザーに行く前に、私はベースの世話をしていました。",
+          "ipa": "[aɪ həd bɪn ˈmaɪndɪŋ ðə beɪs bɪˈfɔr aɪ wɛnt tə ðə ˈnɛðər]",
+          "linking": [
+            "had → 助動詞は弱形 /həd/",
+            "been → 過去分詞は弱形 /bɪn/",
+            "before I → before の末尾 /r/ が I の母音 /aɪ/ に連結"
+          ],
+          "kana": "アイ ハド ビン マインディング ザ ベイス ビフォアー アイ ウェント タ ザ ネザー"
+        },
+        {
+          "en": "She had been minding the animals when the attack started.",
+          "ja": "攻撃が始まったとき、彼女は動物の世話をしていました。",
+          "ipa": "[ʃi həd bɪn ˈmaɪndɪŋ ðə ˈænɪməlz wɛn ðə əˈtæk ˈstɑrtɪd]",
+          "linking": [
+            "had → 助動詞は弱形 /həd/",
+            "been → 過去分詞は弱形 /bɪn/",
+            "when the → /n ðə/ で when の末尾 /n/ が the の弱形に連結"
+          ],
+          "kana": "シ ハド ビン マインディング ザ アニマルズ ウェン ザ アタック スターティド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has minded",
+      "ipa": "[həz ˈmaɪndɪd]",
+      "examples": [
+        {
+          "en": "I have minded the entrance since we built the gate.",
+          "ja": "ゲートを建てて以来、入り口を見張ってきました。",
+          "ipa": "[aɪ həv ˈmaɪndɪd ðɪ ˈɛntərəns sɪns wi bɪlt ðə ɡeɪt]",
+          "linking": [
+            "have → 助動詞は弱形 /həv/",
+            "the entrance → the は母音の前で /ðɪ/。entrance は /ˈɛntərəns/",
+            "since / built の末尾子音は次の子音 /w/ /ð/ と非連結"
+          ],
+          "kana": "アイ ハヴ マインディド ジ エントランス シンス ウィ ビルト ザ ゲイト"
+        },
+        {
+          "en": "She has minded our crops while I was exploring.",
+          "ja": "私が探索している間、彼女は私たちの作物の世話をしてきました。",
+          "ipa": "[ʃi həz ˈmaɪndɪd ˈaʊər krɑps waɪl aɪ wəz ɪkˈsplɔrɪŋ]",
+          "linking": [
+            "has → 助動詞は弱形 /həz/",
+            "our → 所有格の /r/ は r-色付き /ˈaʊər/",
+            "was → 弱形 /wəz/"
+          ],
+          "kana": "シ ハズ マインディド アワー クロップス ワイル アイ ワズ イクスプロアリング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had minded",
+      "ipa": "[həd ˈmaɪndɪd]",
+      "examples": [
+        {
+          "en": "I had minded the base before the raid started.",
+          "ja": "レイドが始まる前に、私はベースの世話をしていました。",
+          "ipa": "[aɪ həd ˈmaɪndɪd ðə beɪs bɪˈfɔr ðə ˈreɪd ˈstɑrtɪd]",
+          "linking": [
+            "had → 助動詞は弱形 /həd/",
+            "the base / the raid → the は弱形 /ðə/",
+            "before の末尾 /r/ と the の /ð/ は子音同士で非連結"
+          ],
+          "kana": "アイ ハド マインディド ザ ベイス ビフォア ザ レイド スターティド"
+        },
+        {
+          "en": "They had minded the animals until we arrived.",
+          "ja": "私たちが到着するまで、彼らは動物の世話をしていました。",
+          "ipa": "[ðeɪ həd ˈmaɪndɪd ðə ˈænɪməlz ənˈtɪl wi əˈraɪvd]",
+          "linking": [
+            "had → 助動詞は弱形 /həd/",
+            "the animals → the は弱形 /ðə/",
+            "until → 機能語は弱化 /ənˈtɪl/"
+          ],
+          "kana": "ザイ ハド マインディド ザ アニマルズ アンティル ウィ アライブド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been minding",
+      "ipa": "[həz ˈbɪn ˈmaɪndɪŋ]",
+      "examples": [
+        {
+          "en": "I have been minding the furnace all night.",
+          "ja": "夜通し、私は炉の世話をしてきました。",
+          "ipa": "[aɪ həv ˈbɪn ˈmaɪndɪŋ ðə ˈfɝnəs ɔl naɪt]",
+          "linking": [
+            "have → 助動詞は弱形 /həv/",
+            "been → 過去分詞は弱形 /bɪn/",
+            "the furnace → the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ ビン マインディング ザ ファーネス オール ナイト"
+        },
+        {
+          "en": "He has been minding the redstone contraption for hours.",
+          "ja": "何時間も、彼はレッドストーン装置に気をつけてきました。",
+          "ipa": "[hi həz ˈbɪn ˈmaɪndɪŋ ðə ˈrɛdˌstoʊn kənˈtræpʃən fɔr ˈaʊərz]",
+          "linking": [
+            "has → 助動詞は弱形 /həz/",
+            "been → 過去分詞は弱形 /bɪn/",
+            "the redstone → the は弱形 /ðə/"
+          ],
+          "kana": "ヒ ハズ ビン マインディング ザ レッドストン コントラプション フォー アワーズ"
+        }
+      ]
+    }
+  ]
+}

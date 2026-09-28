@@ -1,0 +1,100 @@
+{
+  "word": "say",
+  "pos": "動詞・名詞 (verb/noun)",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/seɪ/",
+  "ipa_uk": "/seɪ/",
+  "rank": 33,
+  "level": "A1",
+  "hi": "say(?:s|ing)?|said",
+  "meanings": [
+    "【動詞】（words を）言う、述べる、口にする（to speak words or express something in words）",
+    "【動詞】～と言われている、～だと考えられている（to be believed or thought to be）",
+    "【名詞】発言権、意見を述べる機会（the right to speak or express an opinion）"
+  ],
+  "examples": [
+    {
+      "en": "Steve says he wants to mine diamonds in the deep caves.",
+      "ja": "スティーブは深い洞窟でダイヤを採掘したいと言っています。",
+      "grammar": "say + 間接話法：第三者の発言を伝える基本的な文構造。",
+      "ipa": "/ˈstiv ˈsɛz hi ˈwɑnts tu maɪn ˈdaɪməndz ɪn ðə ˈdip ˈkeɪvz/",
+      "linking": [
+        "says の /z/ が he の /h/ に続く（子音+子音）",
+        "deep の /p/ が caves に続く（子音+子音）"
+      ],
+      "kana": "スティーヴ セイズ ヒー ウォンツ トゥー マイン ダイモンズ イン ザ ディープ ケイヴズ"
+    },
+    {
+      "en": "I say that protecting the base is more important than collecting resources.",
+      "ja": "基地を守ることはリソース収集より重要だと私は言います。",
+      "grammar": "say + that節：意見や主張を述べる。",
+      "ipa": "/aɪ ˈseɪ ðæt prəˈtɛktɪŋ ðə ˈbeɪs ɪz ˌmɔr ɪmˈpɔːrtənt ðæn kəˈlɛktɪŋ ˈrɛsɚsɪz/",
+      "linking": [
+        "protecting の /ŋ/ が the に続く（子音+子音）",
+        "base は母音 /eɪ/ で終わり、is の子音に続く"
+      ],
+      "kana": "アイ セイ ザット プロテクティング ザ ベース イズ モア インポータント ザン コレクティング レソーシーズ"
+    },
+    {
+      "en": "They say the Ender Dragon is the hardest boss in the game.",
+      "ja": "エンダードラゴンがゲーム内で最も難しいボスだと言われています。",
+      "grammar": "受動的用法：～だと言われている。",
+      "ipa": "/ðeɪ ˈseɪ ðə ˈɛndər ˈdræɡən ɪz ðə ˈhɑːrdəst ˈbɔs ɪn ðə ɡeɪm/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "is の /z/ が the に続く"
+      ],
+      "kana": "ゼイ セイ ザ エンダー ドラゴン イズ ザ ハーデスト ボス イン ザ ゲイム"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "What do you say about building a better shelter here?",
+      "ja": "ここにより良いシェルターを建設することについて、あなたは何と言いますか？",
+      "grammar": "what do you say…？：意見を求める慣用表現。",
+      "ipa": "/wʌt du juː ˈseɪ əˈbaʊt ˈbɪldɪŋ ə ˈbɛtər ˈʃɛltər hɪr/",
+      "linking": [
+        "you は弱形 /juː/",
+        "about の /t/ が building に続く（子音+子音）"
+      ],
+      "kana": "ワット ドゥー ユー セイ ァバウト ビルディング ア ベラー シェルター ヒア"
+    },
+    {
+      "en": "I would say mining at night is too dangerous without proper lighting.",
+      "ja": "適切な照明なしで夜間採掘するのは危険すぎると私は言いたいです。",
+      "grammar": "I would say + clause：慎重な意見表明。",
+      "ipa": "/aɪ ˈwʊd ˈseɪ ˈmaɪnɪŋ æt naɪt ɪz tu ˈdeɪndʒərəs wɪðˈaʊt ˈproʊpər ˈlaɪtɪŋ/",
+      "linking": [
+        "mining の /ŋ/ が at に続く（子音+子音）",
+        "at は弱形 /æt/",
+        "is の /z/ が too に続く（子音+母音で連結）"
+      ],
+      "kana": "アイ ウッド セイ マイニング アット ナイト イズ トゥー デンジャラス ウィザウト プロパー ライティング"
+    }
+  ],
+  "collocations": [
+    "say goodbye（さようならを言う）",
+    "say thank you（ありがとうと言う）",
+    "say sorry（ごめんなさいと言う）",
+    "as they say（いわゆる）",
+    "so to speak（いわば）",
+    "it goes without saying（言うまでもなく）",
+    "suffice it to say（要するに）"
+  ],
+  "idioms": [
+    {
+      "idiom": "that is (to say)",
+      "ja": "すなわち、言い換えれば",
+      "example": "You need obsidian for a Nether portal—that is to say, you can't enter the Nether without it.",
+      "example_ja": "ネザーポータルにはオブシディアンが必要だ。つまり、これなしではネザーに入ることができない。",
+      "ipa": "/juː niːd əbˈsɪdiən fɔrə ˈnɛðɚ ˈpɔɹtəl ðæt ɪz tə ˈseɪ juː kænt ˈɛntɚ ðə ˈnɛðɚ wɪðˈaʊt ɪt/",
+      "linking": [
+        "need obsidian：need の語末子音 /d/ が obsidian の弱形 /ə/ に連結 [niːd əbˈsɪdiən]→「ニード アブシディアン」",
+        "for a：for の語末子音 /r/ が a の弱形 /ə/ に連結。for も弱形 /fər/。[fɔrə]→「フォーラ」",
+        "to say：to は機能語で弱形 /tə/ に弱化 [tə ˈseɪ]→「タ セイ」",
+        "without it：without の語末 /t/ が未開放となり、it の /ɪ/ に続く。[wɪðˈaʊt̚ ɪt]→「ウィザウティット」"
+      ],
+      "kana": "ユー ニード アブシディアン フォーラ ネザー ポータル / ザット イズ タ セイ ユー キャント エンター ザ ネザー ウィザウティット"
+    }
+  ]
+}

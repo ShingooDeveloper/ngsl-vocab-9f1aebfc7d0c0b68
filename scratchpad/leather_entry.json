@@ -1,0 +1,89 @@
+{
+  "word": "leather",
+  "pos": "名詞",
+  "pos_all": "名詞・形容詞",
+  "ipa_us": "/ˈlɛðɚ/",
+  "rank": 2729,
+  "level": "A2",
+  "hi": "leather|leathers",
+  "meanings": [
+    "【名詞】皮革、革（牛や羊などの動物の皮から作られた素材）",
+    "【名詞】革製品、レザー製品（…made of leather）",
+    "【形容詞】革製の、革で作られた（…leather armor）",
+    "マインクラフトでは牛などのモブから得られるクラフト素材であり、革の防具や道具の材料となる"
+  ],
+  "examples": [
+    {
+      "en": "I need leather to craft armor.",
+      "ja": "防具をクラフトするために革が必要です。",
+      "ipa": "[aɪ ˈniːdə ˈlɛðɚ tə ˈkræftə ˈɑɹmɚ]",
+      "kana": "アイ ニーダ レザー タ クラフタ アーマー",
+      "linking": [
+        "need + a → /d/ (need の末尾) が弱形 /ə/ に連結: [ˈniːdə] ニーダ",
+        "craft + a → /t/ (craft の末尾) が弱形 /ə/ に連結: [ˈkræftə] クラフタ",
+        "to は機能語で弱形 /tə/ に弱化"
+      ]
+    },
+    {
+      "en": "Cows drop leather when killed.",
+      "ja": "ウシを倒すと革をドロップします。",
+      "ipa": "[ˈkaʊz ˈdrɑp ˈlɛðɚ ˈwɛn ˈkɪld]",
+      "kana": "カウズ ドロップ レザー ウェン キルド",
+      "linking": [
+        "drop + leather → /p/ (drop の末尾) が /l/ を通じて /ɛ/ に連結: 子音クラスタ [pl]",
+        "when + killed → /n/ (when の末尾) が無開放で /k/ の前に位置"
+      ]
+    },
+    {
+      "en": "This leather armor gives strong protection.",
+      "ja": "この革の防具は強い保護を与えます。",
+      "ipa": "[ðɪs ˈlɛðɚ ˈɑɹmɚ ˈɡɪvz ˈstrɔŋ prəˈtɛkʃən]",
+      "kana": "ディス レザー アーマー ギブズ ストロング プロテクション",
+      "linking": [
+        "This は冠詞で弱形 /ðɪs/ 。leather の前で弱化"
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "leather armor",
+      "ja": "革の防具、革鎧",
+      "example": "Start with leather armor to get basic protection.",
+      "example_ja": "基本的な保護のために革の防具から始めましょう。",
+      "ipa": "[ˈstɑɹt wɪðə ˈlɛðɚ ˈɑɹmɚ tə ˈɡɛt ˈbeɪsɪk prəˈtɛkʃən]",
+      "kana": "スターゥ ウィザ レザー アーマー タ ゲット ベイシック プロテクション",
+      "linking": [
+        "with + a → /ð/ (with の末尾) が弱形 /ə/ に連結: [wɪðə] ウィザ",
+        "to は機能語で弱形 /tə/ に弱化"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "leathers",
+      "ipa": "/ˈlɛðɚz/",
+      "examples": [
+        {
+          "en": "I need some leathers to make armor pieces.",
+          "ja": "革のアーマーの部品を作るために、革がいくつか必要です。",
+          "ipa": "/aɪ ˈniːd səm ˈlɛðɚz tə ˈmeɪk ˈɑɹmɚ ˈpɪsɪz/",
+          "linking": [
+            "some leathers → some の弱形 /səm/"
+          ],
+          "kana": "アイ ニード サム レザーズ タ メイク アーマー ピーシズ"
+        },
+        {
+          "en": "Leathers drop from cows when you kill them.",
+          "ja": "ウシを倒すと革がドロップします。",
+          "ipa": "/ˈlɛðɚz ˈdrɑp frəm ˈkaʊz wɛn ju ˈkɪl ðɛm/",
+          "linking": [
+            "from cows → from の弱形 /frəm/"
+          ],
+          "kana": "レザーズ ドロップ フラム カウズ ウェン ユー キル ゼム"
+        }
+      ]
+    }
+  ]
+}

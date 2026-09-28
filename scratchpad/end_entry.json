@@ -1,0 +1,351 @@
+{
+  "word": "end",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɛnd/",
+  "rank": 89,
+  "level": "A1",
+  "hi": "end(?:s|ing|ed)?|ends",
+  "meanings": [
+    "【動詞】終わる、終える（to finish or complete something）",
+    "【動詞】～で終わる、～で終結する（to have as a result or conclusion）",
+    "【名詞】終わり、終了（the final part or conclusion of something）",
+    "【名詞】端、末端、果て（the edge, tip, or extremity of something）",
+    "【名詞】目的、目標、狙い（a purpose or goal）"
+  ],
+  "examples": [
+    {
+      "en": "The day ends at sunset in survival mode.",
+      "ja": "サバイバルモードでは1日が日没で終わります。",
+      "ipa": "/ðə ˈdeɪ ˈɛndz æt ˈsʌnˌsɛt ɪn sərˈvaɪvəl ˈmoʊd/",
+      "linking": [
+        "The は弱形 /ðə/。day へ連結。",
+        "at は /æt/。t は未開放で次の s に続く。",
+        "the は弱形 /ðə/。survival へ連結。"
+      ],
+      "kana": "ザ デイ エンズ アッ サンセット イン サーヴァイヴァル モード"
+    },
+    {
+      "en": "We need to reach the end of this cave tunnel.",
+      "ja": "私たちはこの洞窟トンネルの終わりに到達する必要があります。",
+      "ipa": "/wi ˈniːd tə ˈritʃ ðə ˈɛnd əv ðɪs ˈkeɪv ˈtʌnəl/",
+      "linking": [
+        "to は機能語で弱形 /tə/。reach へ連結。",
+        "the は弱形 /ðə/。end へ連結。",
+        "of は弱形 /əv/。this へ続く。"
+      ],
+      "kana": "ウィ ニード タ リーチ ザ エンド アヴ ディス ケイヴ タンネル"
+    },
+    {
+      "en": "Place blocks at both ends of the bridge.",
+      "ja": "橋の両端にブロックを配置します。",
+      "ipa": "/pleɪs blɑks æt boʊθ ˈɛndz əv ðə ˈbrɪdʒ/",
+      "linking": [
+        "at は /æt/。t は未開放。both へ続く。",
+        "of は弱形 /əv/。the へ続く。",
+        "the は弱形 /ðə/。bridge へ連結。"
+      ],
+      "kana": "プレイス ブロックス アッ ボウス エンズ アヴ ザ ブリッジ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "in the end",
+      "ja": "結局、最後には",
+      "example": "In the end, I dug out a massive ore deposit deep underground.",
+      "example_ja": "結局のところ、地下深くで大量の鉱石鉱床を掘り出しました。",
+      "ipa": "/ɪn ðə ˈɛnd aɪ ˈdʌɡ aʊt ə məˈsɪv ˈɔr dɪˈpoʊzɪt ˈdip ˈʌndɚˌɡraʊnd/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/（in the end で）。",
+        "dug の語末子音 /ɡ/ が out の初母音 /aʊ/ に連結。",
+        "a は機能語の弱形 /ə/。"
+      ],
+      "kana": "イン ザ エンド アイ ダッグ アウト ア マシーヴ オア ディポジット ディープ アンダーグラウンド"
+    },
+    {
+      "idiom": "come to an end",
+      "ja": "終わる、終結する",
+      "example": "The minecraft server's downtime finally came to an end.",
+      "example_ja": "マインクラフトサーバーのダウンタイムがついに終わりました。",
+      "ipa": "/ðə maɪnˈkræft ˈsɝvər dɑunˈtaɪm ˈfaɪnəli keɪm tu ən ˈɛnd/",
+      "linking": [
+        "the は弱形 /ðə/。minecraft へ連結。",
+        "came の末子音 /m/ が to の初母音 /ə/ に連結。to は弱形。",
+        "an は弱形 /ən/。end へ連結。"
+      ],
+      "kana": "ザ マインクラフト サーバー ダウンタイム ファイナリー ケイム タ アン エンド"
+    },
+    {
+      "idiom": "end up",
+      "ja": "結局～になる、～で終わる（結果として）",
+      "example": "We ended up spending the whole night mining in the deep caves.",
+      "example_ja": "結局、深い洞窟で一晩中採掘することになりました。",
+      "ipa": "/wi ˈɛndɪd ʌp ˈspɛndɪŋ ðə hoʊl ˈnaɪt ˈmaɪnɪŋ ɪn ðə ˈdip ˈkeɪvz/",
+      "linking": [
+        "ended の末子音 /d/ が up の初母音 /ʌ/ に連結。",
+        "the は弱形 /ðə/。whole へ連結。",
+        "night の末子音 /t/ が mining の初子音 /m/ に続く（子音+子音）。"
+      ],
+      "kana": "ウィ エンディッド アップ スペンディング ザ ホール ナイト マイニング イン ザ ディープ ケイヴズ"
+    },
+    {
+      "idiom": "at the end of 〜",
+      "ja": "〜の終わりに",
+      "example": "At the end of each mining session, we go home.",
+      "example_ja": "各マイニングセッションの終わりに、私たちは家に帰ります。",
+      "ipa": "/æt̚ ðə ˈɛn.dəv iːtʃ ˈmaɪn.ɪŋ ˈsɛʃ.ən wi ɡoʊ hoʊm/",
+      "linking": [
+        "at the: at の末子音 /t/ は未開放で詰まる [æt̚ðə]「アッザ」",
+        "end of: 語末子音 /d/ が母音 /ə/ に連結。of は弱形 /əv/ [ˈɛndəv]「エンダヴ」"
+      ],
+      "kana": "アッ ザ エンダヴ イーチ マイニング セッション ウィ ゴー ホーム"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "ends",
+      "ipa": "/ɛndz/",
+      "examples": [
+        {
+          "en": "The ends of the wooden planks are clearly visible.",
+          "ja": "木製の板の端がはっきり見えます。",
+          "ipa": "/ðə ˈɛndz əv ðə ˈwʊdən ˈplæŋks ɑr ˈklɪrli ˈvɪzəbəl/",
+          "linking": [
+            "The は弱形 /ðə/。ends へ連結。",
+            "of は弱形 /əv/。the へ続く。",
+            "the は弱形 /ðə/。wooden へ続く。"
+          ],
+          "kana": "ザ エンズ アヴ ザ ウッディン プランクス アー クリアリー ビズボル"
+        },
+        {
+          "en": "Both ends of this redstone wire need connections.",
+          "ja": "このレッドストーンワイヤーの両端に接続が必要です。",
+          "ipa": "/boʊθ ˈɛndz əv ðɪs ˈrɛdstoʊn ˈwaɪr ˈniːd kəˈnɛkʃənz/",
+          "linking": [
+            "ends の末子音 /z/ が of の初子音 /v/ に続く（子音+子音）。",
+            "of は弱形 /əv/。this へ続く。",
+            "wire の末子音 /r/ が need の初子音 /n/ に続く（子音+子音）。"
+          ],
+          "kana": "ボウス エンズ アヴ ディス レッドストウン ワイアー ニード コネクションズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "ends",
+      "ipa": "/ɛndz/",
+      "examples": [
+        {
+          "en": "This tunnel ends in solid bedrock.",
+          "ja": "このトンネルは固いベッドロックで終わります。",
+          "ipa": "/ðɪs ˈtʌnəl ˈɛndz ɪn ˈsɑlɪd ˈbɛdrɑk/",
+          "linking": [
+            "ends の末子音 /z/ が in の初母音 /ɪ/ に連結。",
+            "in は弱形 /ɪn/。solid へ続く。"
+          ],
+          "kana": "ディス タンネル エンズ イン ソリッド ベドラック"
+        },
+        {
+          "en": "The iron vein ends here at the edge of the ore deposit.",
+          "ja": "鉄鉱脈はここ、鉱石堆積の端で終わります。",
+          "ipa": "/ðə ˈaɪɹən ˈveɪn ˈɛndz hɪr æt ðə ˈɛdʒ əv ðə ˈɔɹ dɪˈpoʊzɪt/",
+          "linking": [
+            "The は弱形 /ðə/。iron へ連結。",
+            "ends の末子音 /z/ が here の初子音 /h/ に続く（子音+子音）。",
+            "at は /æt/。the へ続く。the は弱形 /ðə/。",
+            "of は弱形 /əv/。the へ続く。"
+          ],
+          "kana": "ザ アイアン ベイン エンズ ヒア アッ ザ エッジ アヴ ザ オア ディポジット"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "ended",
+      "ipa": "/ˈɛndɪd/",
+      "examples": [
+        {
+          "en": "The mining session ended because our inventory was completely full.",
+          "ja": "インベントリが完全にいっぱいになったため、採掘セッションは終了しました。",
+          "ipa": "/ðə ˈmaɪnɪŋ ˈsɛʃən ˈɛndɪd bɪˈkɔz ˈaʊɹ ɪnˈvɛntɚi wəz kəmˈpliːtli ˈfʊl/",
+          "linking": [
+            "The は弱形 /ðə/。mining へ続く。",
+            "ended の末子音 /d/ は未開放で because に続く。",
+            "because の末子音 /z/ が our の初母音に連結。",
+            "was は弱形 /wəz/。completely へ続く。"
+          ],
+          "kana": "ザ マイニング セッション エンディッド ビコーズ アワー インベントリー ワズ コンプリートリー フル"
+        },
+        {
+          "en": "He ended his construction project at the base when resources ran out.",
+          "ja": "リソースが尽きたとき、彼は基地での建築プロジェクトを終わらせました。",
+          "ipa": "/hi ˈɛndɪd hɪz kənˈstrʌkʃən ˈprɑdʒɛkt æt ðə ˈbeɪs wɛn ˈrɛsɚsɪz ˈræn ˈaʊt/",
+          "linking": [
+            "ended の末子音 /d/ が his の初子音 /h/ に続く（子音+子音）。",
+            "at は /æt/。the へ続く。the は弱形 /ðə/。",
+            "when は /wɛn/。resources へ続く。"
+          ],
+          "kana": "ヒー エンディッド ヒズ コンストラクション プロジェクト アッ ザ ベイス ウェン リソーシズ ラン アウト"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "ended",
+      "ipa": "/ˈɛndɪd/",
+      "examples": [
+        {
+          "en": "The farming operation was ended by the unexpected server restart.",
+          "ja": "予期しないサーバーの再起動により、農業活動は終了させられました。",
+          "ipa": "/ðə ˈfɑrmɪŋ ˌɑpəˈreɪʃən wəz ˈɛndɪd baɪ ði ʌnɪkˈspɛktɪd ˈsɝvər ɹɪˈstɑrt/",
+          "linking": [
+            "The は弱形 /ðə/。farming へ続く。",
+            "was は弱形 /wəz/。ended へ連結。",
+            "by は /baɪ/。the へ続く。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ ファーミング オペレーション ワズ エンディッド バイ ジ アニクスペクティッド サーバー リスターッ"
+        },
+        {
+          "en": "Our partnership had ended before the great conflict emerged.",
+          "ja": "大きな紛争が起きる前に、私たちのパートナーシップは終わっていました。",
+          "ipa": "/ˈaʊɹ ˈpɑɹtnərˌʃɪp hæd ˈɛndɪd bɪˈfɔɹ ðə ˈɡreɪt ˈkɑnflɪkt ɪˈmɝdʒd/",
+          "linking": [
+            "had は弱形 /hæd/。ended へ連結。",
+            "ended の末子音 /d/ は未開放で before に続く。",
+            "the は弱形 /ðə/。great へ続く。"
+          ],
+          "kana": "アワー パートナーシップ ハッド エンディッド ビフォア ザ グレイト コンフリクト イマージド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "ending",
+      "ipa": "/ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "Ending this debate right now is the best solution.",
+          "ja": "今この議論を終わらすことが最良の解決策です。",
+          "ipa": "/ˈɛndɪŋ ðɪs dɪˈbeɪt ˈɹaɪt ˈnaʊ ɪz ðə ˈbɛst səˈluːʃən/",
+          "linking": [
+            "ending の末子音 /ŋ/ は g なし。this へ続く /ð/（子音+子音）。",
+            "is は弱形 /ɪz/。the へ続く。the は弱形 /ðə/。"
+          ],
+          "kana": "エンディング ディス ディベイト ライト ナウ イズ ザ ベスト ソリューション"
+        },
+        {
+          "en": "We're ending the server's maintenance right before the big event tomorrow.",
+          "ja": "明日の大きなイベントの直前に、サーバーのメンテナンスを終了しています。",
+          "ipa": "/wɪɹ ˈɛndɪŋ ðə ˈsɝvɚz ˈmeɪntənəns ˈɹaɪt bɪˈfɔɹ ðə ˈbɪɡ ɪˈvɛnt təˈmɑɹoʊ/",
+          "linking": [
+            "We're は /wɪɹ/。ending へ連結。",
+            "the は弱形 /ðə/。server's へ続く。",
+            "before の末子音 /r/ が the の初子音 /ð/ に続く（子音+子音）。"
+          ],
+          "kana": "ウィア エンディング ザ サーバーズ メインテナンス ライト ビフォア ザ ビッグ イベント トゥモロウ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is ending",
+      "ipa": "/ɪz ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The day is ending as we reach the Nether Portal.",
+          "ja": "ネザーポータルに到達すると、1日が終わります。",
+          "ipa": "/ðə ˈdeɪ ɪz ˈɛndɪŋ æz wi ˈritʃ ðə ˈnɛðɚ ˈpoɹtəl/",
+          "linking": [
+            "The は弱形 /ðə/。day へ連結。",
+            "is は助動詞で弱形 /ɪz/。ending へ連結。",
+            "as は /æz/。we へ続く。"
+          ],
+          "kana": "ザ デイ イズ エンディング アズ ウィ リーチ ザ ネザー ポータル"
+        },
+        {
+          "en": "We are ending our mining expedition because the inventory is full.",
+          "ja": "インベントリがいっぱいになったので、採掘遠征を終わらせています。",
+          "ipa": "/wi ɑr ˈɛndɪŋ ˈaʊɹ ˈmaɪnɪŋ ɛkspɪˈdɪʃən bɪˈkɔz ðə ɪnˈvɛntɚi ɪz ˈfʊl/",
+          "linking": [
+            "we は /wi/。are へ続く。are は弱形 /ɑr/。ending へ連結。",
+            "our の末子音 /ɹ/ が mining へ連結。",
+            "because は /bɪˈkɔz/。the へ続く。the は弱形 /ðə/。",
+            "is は弱形 /ɪz/。full へ続く。"
+          ],
+          "kana": "ウィ アー エンディング アワー マイニング エクスピディション ビコーズ ザ インベントリー イズ フル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was ending",
+      "ipa": "/wəz ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "The battle was ending when we escaped to the underground base.",
+          "ja": "戦闘が終わろうとしていたとき、地下基地に逃げました。",
+          "ipa": "/ðə ˈbætəl wəz ˈɛndɪŋ wɛn wi ɪˈskeɪpt tu ðə ˈʌndɚˌɡraʊnd ˈbeɪs/",
+          "linking": [
+            "The は弱形 /ðə/。battle へ連結。",
+            "was は助動詞で弱形 /wəz/。ending へ連結。",
+            "when は /wɛn/。we へ続く。",
+            "to は弱形 /tə/。the へ連結。the は弱形 /ðə/。"
+          ],
+          "kana": "ザ バットル ワズ エンディング ウェン ウィ イスケイプト タ ザ アンダーグラウンド ベイス"
+        },
+        {
+          "en": "They were ending their search for diamonds when the cavern collapsed.",
+          "ja": "洞窟が崩壊したとき、彼らはダイヤモンドの捜索を終わらせていました。",
+          "ipa": "/ðeɪ wɚ ˈɛndɪŋ ðɛɹ sɝtʃ fɔr ˈdaɪməndz wɛn ðə kəˈvɝːn kəˈlæpst/",
+          "linking": [
+            "were は弱形 /wɚ/。ending へ連結。",
+            "their の末子音 /ɹ/ が search へ連結。",
+            "for は弱形 /fər/。diamonds へ連結。",
+            "when は /wɛn/。the へ続く。the は弱形 /ðə/。"
+          ],
+          "kana": "ゼイ ワー エンディング ゼア サーチ フォア ダイモンズ ウェン ザ カバーン コラプスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been ending",
+      "ipa": "/hæd bɪn ˈɛndɪŋ/",
+      "examples": [
+        {
+          "en": "By sunset, the storm had been ending and visibility improved.",
+          "ja": "日没までに、嵐は終わりかけていて視界が改善されていました。",
+          "ipa": "/baɪ ˈsʌnˌsɛt ðə ˈstɔɹm hæd bɪn ˈɛndɪŋ ænd vɪzəˈbɪlədi ɪmˈpruːvd/",
+          "linking": [
+            "by は /baɪ/。sunset へ続く。",
+            "the は弱形 /ðə/。storm へ連結。",
+            "had は弱形 /hæd/。been へ連結。been は弱形 /bɪn/。ending へ連結。",
+            "and は弱形 /ənd/。visibility へ連結。"
+          ],
+          "kana": "バイ サンセット ザ ストーム ハッド ビン エンディング アンド ヴィズビリティー イムプルーヴド"
+        },
+        {
+          "en": "The downtime had been ending when we finally logged back in.",
+          "ja": "ついにログインできるようになったとき、ダウンタイムはちょうど終わっていました。",
+          "ipa": "/ðə ˈdaʊnˌtaɪm hæd bɪn ˈɛndɪŋ wɛn wi ˈfaɪnəli ˈlɑɡd bæk ˈɪn/",
+          "linking": [
+            "the は弱形 /ðə/。downtime へ連結。",
+            "had は弱形 /hæd/。been へ連結。been は弱形 /bɪn/。ending へ連結。",
+            "when は /wɛn/。we へ続く。",
+            "back の末子音 /k/ が in の初子音 /ɪ/ に続く（子音+子音）。"
+          ],
+          "kana": "ザ ダウンタイム ハッド ビン エンディング ウェン ウィ ファイナリー ログド バック イン"
+        }
+      ]
+    }
+  ]
+}

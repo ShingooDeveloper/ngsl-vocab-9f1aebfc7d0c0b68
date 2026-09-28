@@ -1,0 +1,109 @@
+{
+  "word": "implication",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/ˌɪmpləˈkeɪʃən/",
+  "rank": 1868,
+  "level": "B2",
+  "hi": "implication(?:s)?",
+  "meanings": [
+    "【名詞】含意、暗示（明確に述べられていないが、推測から分かる意味や関連性）",
+    "【名詞】結果、影響、波及効果（ある行動や決定がもたらす後続の影響や帰結）",
+    "【名詞】関連性、係わり（何かが別の何かと結びついていること）",
+    "【名詞】含み、背景にある意味（表面的には言われていないが暗に込められた意図）"
+  ],
+  "examples": [
+    {
+      "en": "Breaking that support block has serious implications for the entire structure.",
+      "ja": "そのサポートブロックを壊すことは、構造全体に深刻な影響を与えます。",
+      "ipa": "/ˈbreɪkɪŋ ðæt səˈpɔrt ˈblɑk hæz ˈsɪriəs ɪmpləˈkeɪʃənz fɚ ðiˈɛntaɪr ˈstrʌkʃɚ/",
+      "linking": [
+        "support の語末子音 /t/ が block の /b/ に連結するが、音の性質により明確に分離 [səˈpɔrt]",
+        "for は機能語で弱形 /fɚ/ に弱化"
+      ],
+      "kana": "ブレイキング ザット サポート ブロック ハズ シリアス イムプリケイションズ ファー ディ エンタイア ストラクチャー"
+    },
+    {
+      "en": "The implications of that redstone decision affected our entire farm system.",
+      "ja": "そのレッドストーン判断の影響は、ファームシステム全体に波及しました。",
+      "ipa": "/ðə ɪmpləˈkeɪʃənz əv ðæt ˈrɛdstoʊn dɪˈsɪʒən əˈfɛktəd ˈaʊər ənˈtaɪr ˈfɑrm ˈsɪstəm/",
+      "linking": [
+        "the は弱形 /ðə/ に弱化、implications に連結 [ðə ɪmpləˈkeɪʃənz]",
+        "of は弱形 /əv/ に弱化",
+        "affected が /d/ で終わり、our が /aʊər/ で始まるため弱連結"
+      ],
+      "kana": "ザ イムプリケイションズ アヴ ザット レッドストウン ディシージャン ア フェクティド アワー エンタイア ファーム シス テム"
+    },
+    {
+      "en": "We didn't understand the implications until the mob spawned.",
+      "ja": "モブが出現するまで、その含意を理解していませんでした。",
+      "ipa": "/wi ˈdɪdn̚t ˌʌndərˈstænd ðə ɪmpləˈkeɪʃənz ənˈtɪl ðə ˈmɑb ˈspɔnd/",
+      "linking": [
+        "didn't の語末子音 /t/ は未開放 [ˈdɪdn̚t]",
+        "the は弱形 /ðə/、implications に連結",
+        "until → /ənˈtɪl/、the に連結し /ðə/ 弱形"
+      ],
+      "kana": "ウィ ディドゥント アンダースタンド ザ イムプリケイションズ アンティル ザ モブ スポーンド"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "the implications of",
+      "ja": "～の影響、～がもたらす結果や波及効果",
+      "example": "We discussed the implications of introducing Wither spawners to our game.",
+      "example_ja": "ゲームにWitherスポーナーを導入することの影響について議論しました。",
+      "ipa": "/wi dɪˈskʌst ðə ɪmpləˈkeɪʃənz əv ɪntrəˈduːsɪŋ ə ˈwɪðər ˈspoʊnərz tu ˈaʊər ˈɡeɪm/",
+      "linking": [
+        "the は弱形 /ðə/、implications に連結",
+        "of は弱形 /əv/ に弱化",
+        "to は機能語で弱形 /tu/ に弱化"
+      ],
+      "kana": "ウィ ディスカスト ザ イムプリケイションズ アヴ イントロデューシング ア ウィザー スポーナーズ トゥ アワー ゲイム"
+    },
+    {
+      "idiom": "by implication",
+      "ja": "暗に、含意として、暗黙的に",
+      "example": "By implication, if you don't maintain your base, it will fall apart.",
+      "example_ja": "暗に言えば、基地をメンテナンスしないと壊れてしまいます。",
+      "ipa": "/baɪ ɪmpləˈkeɪʃən ɪf ju ˈdoʊnt meɪnˈteɪn jɚ ˈbeɪs ɪt wɪl fɔl əˈpɑrt/",
+      "linking": [
+        "by の /aɪ/ が implication の /ɪ/ に連結 [baɪ ɪmpləˈkeɪʃən]",
+        "your が /r/ で終わり、base が /b/ で始まるため連結できない（別音）"
+      ],
+      "kana": "バイ イムプリケイション イフ ユー ドウント メインテイン ユアー ベイス イット ウィル フォール ア パート"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "implications",
+      "ipa": "/ˌɪmpləˈkeɪʃənz/",
+      "examples": [
+        {
+          "en": "These redstone design implications suggest we need a completely different power source.",
+          "ja": "これらのレッドストーン設計の含意は、完全に異なる電源が必要であることを示唆しています。",
+          "ipa": "/ðiːz ˈrɛdˌstoʊn dɪˈzaɪn ˌɪmpləˈkeɪʃənz səˈdʒɛst wiː ˈniːdə kəmˈpliːtli ˈdɪfrənt ˈpaʊər sɔrs/",
+          "linking": [
+            "need a → need の /d/ が a の /ə/ に連結 [ˈniːdə] ニーダ",
+            "suggest → /t/ 未開放で次の we に続く",
+            "redstone → 強勢音で発音 [ˈrɛdˌstoʊn]、次の design に自然につながる"
+          ],
+          "kana": "ジーズ レッドストゥーン ディザイン イムプリケイションズ サジェスト ウィー ニーダ カムプリートリー ディフラント パワー ソース"
+        },
+        {
+          "en": "The implications of building in this biome affect whether the structure will survive Creeper explosions.",
+          "ja": "このバイオームに建設することの含意は、構造がクリーパーの爆発に耐えるかどうかに影響します。",
+          "ipa": "/ðə ˌɪmpləˈkeɪʃənz əv ˈbɪldɪŋ ɪn ðɪs baɪˈoʊm əˈfɛkt ˈwɛðər ðə ˈstrʌktʃər wɪl sərˈvaɪv ˈkriːpər ɪkˈsploʊʒənz/",
+          "linking": [
+            "the → 弱形 /ðə/ ザ、implications の /ɪ/ に続く",
+            "of → 弱形 /əv/ アヴ",
+            "biome の末尾 /m/ が affect の /ə/ に連結 [baɪˈoʊməˈfɛkt] バイオーマ フェクト",
+            "structure の /r/ が will の /w/ に連結できないが、語末音として聞こえる"
+          ],
+          "kana": "ザ イムプリケイションズ アヴ ビルディング イン ディス バイオーマ フェクト ウェザー ザ ストラクチャー ウィル サーヴァイヴ クリーパー イクスプロージョンズ"
+        }
+      ]
+    }
+  ]
+}

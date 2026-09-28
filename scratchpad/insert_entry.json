@@ -1,0 +1,470 @@
+{
+  "word": "insert",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɪnˈsɝt/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "insert(?:s|ed|ing)?|Insert",
+  "meanings": [
+    "【動詞】何かを別のもの内に入れる、挿入する（to put or place something into something else）",
+    "【動詞】テキストやデータを文書やシステムに入力する、挿入する（to add text or data into a document or system）",
+    "【名詞】挿入されたもの、パネル；印刷物に組み込まれた付録（something that is inserted, particularly extra material in printed matter or displays）"
+  ],
+  "examples": [
+    {
+      "en": "Insert a redstone component into the mechanism to make it work properly.",
+      "ja": "そのメカニズムを正常に機能させるために、レッドストーンコンポーネントを挿入してください。",
+      "ipa": "/ɪnˈsɝɾə ˈrɛdˌstoʊn kəmˈpoʊnənt ˈɪntuː ðə ˈmɛkənɪzəm tu meɪk ɪt ˈwɝk ˈproʊpɚli/",
+      "linking": [
+        "Insert の末尾 /t/ が母音 /ə/ に連結し、フラップT化して [ɪnˈsɝɾə]",
+        "to は機能語で弱形 /tə/ に弱化して [tu] → [tə]"
+      ],
+      "kana": "インサーラ レッドストーン コンポーネント イントゥー ザ メカニズム タ メイク イット ワーク プロパーリー"
+    },
+    {
+      "en": "I inserted the diamond block into the wall for better decoration.",
+      "ja": "より良い装飾のために、ダイヤモンドブロックを壁に挿入しました。",
+      "ipa": "/aɪ ɪnˈsɝtɪd ðə ˈdaɪmənd blɑk ˈɪntuː ðə wɔl fɚ ˈbɛtɚ ˌdɛkəˈreɪʃən/",
+      "linking": [
+        "inserted の末尾 /d/ は次の子音 /ð/ の前で未開放 [d̚]",
+        "for は機能語で弱形 /fɚ/ に弱化"
+      ],
+      "kana": "アイ インサーティド ザ ダイモンド ブラック イントゥー ザ ウォール ファー ベター デコレーション"
+    },
+    {
+      "en": "This decorative stone insert makes your building entrance look more elegant.",
+      "ja": "この装飾的な石のインサートは、建物の入口をより優雅に見せます。",
+      "ipa": "/ðɪs ˈdɛkərəˌtɪv stoʊn ˈɪnsɝt meɪks jɚ ˈbɪldɪŋ ˈɛntrəns lʊk moʊɹ ˈɛlɪɡənt/",
+      "linking": [
+        "stone の末尾 /n/ が insert の /ɪ/ に連結して自然な流れ [stoʊn ˈɪnsɝt]",
+        "your は弱形 /jɚ/、more の末尾 /r/ が mother noun に連結"
+      ],
+      "kana": "ディス デコラティヴ ストーン インサート メイクス ユア ビルディング エントランス ルック モア エレガント"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "insert a block",
+      "ja": "ブロックを挿入する",
+      "example": "Insert a diamond ore block into the wall to mark the location of the richest mine.",
+      "example_ja": "最も豊富な鉱山の位置を示すために、ダイヤモンド鉱石ブロックを壁に挿入しましょう。",
+      "ipa": "/ɪnˈsɝɾə ˈdaɪmənd ɔr blɑk ˈɪntuː ðə wɔl tu mɑrk ðə loʊˈkeɪʃən əv ðə ˈrɪtʃəst maɪn/",
+      "linking": [
+        "insert a の連結：末尾 /t/ が /ə/ に連結、フラップT化 [ɪnˈsɝɾə]",
+        "ore と block の語末 /r/ と子音の間は分離"
+      ],
+      "kana": "インサーラ ダイモンド オア ブラック イントゥー ザ ウォール トゥ マーク ザ ロケーション アヴ ザ リッチェスト マイン"
+    },
+    {
+      "idiom": "insert the key",
+      "ja": "鍵を挿入する",
+      "example": "Insert the key into the lock to open the secret door mechanism.",
+      "example_ja": "秘密のドアメカニズムを開けるために、鍵をロックに挿入してください。",
+      "ipa": "/ɪnˈsɝɾə ðə kiː ˈɪntuː ðə lɑk tu ˈoʊpən ðə ˈsikrət dɔr ˈmɛkənɪzəm/",
+      "linking": [
+        "insert の末尾 /t/ が the の /ð/ の前で未開放 [ɪnˈsɝt̚ ðə]",
+        "key と into の間、key の末尾 /iː/ と into の /ɪ/ は分離"
+      ],
+      "kana": "インサート ザ キー イントゥー ザ ロック トゥ オウプン ザ シークレット ドア メカニズム"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "inserts",
+      "ipa": "/ɪnˈsɝts/",
+      "examples": [
+        {
+          "en": "The player inserts the key into the lock mechanism.",
+          "ja": "プレイヤーはロックメカニズムに鍵を挿入する。",
+          "ipa": "/ðə ˈpleɪɚ ɪnˈsɝts ðə kiː ˈɪntuː ðə lɑk ˈmɛkənɪzəm/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "player inserts → player の /r/ が inserts の /ɪ/ に r-linking する [ˈpleɪɚɪn...]"
+          ],
+          "kana": "ザ プレイヤー インサーツ ザ キー イントゥー ザ ロック メカニズム"
+        },
+        {
+          "en": "She inserts redstone dust into the circuit very carefully.",
+          "ja": "彼女はサーキットにレッドストーンダストを非常に慎重に挿入する。",
+          "ipa": "/ʃi ɪnˈsɝts ˈrɛdˌstoʊn dʌst ˈɪntuː ðə ˈsɝkɪt ˈvɛri ˈkɛrfəli/",
+          "linking": [
+            "She inserts → 語末 /iː/ と語頭 /ɪ/ は母音-母音で特に連結なし",
+            "the は弱形 /ðə/ ザ、circuit の /s/ に続く"
+          ],
+          "kana": "シー インサーツ レッドストーン ダスト イントゥー ザ サーキット ベリー ケアフリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "inserted",
+      "ipa": "/ɪnˈsɝtɪd/",
+      "examples": [
+        {
+          "en": "I inserted the final block and the machine began working.",
+          "ja": "最後のブロックを挿入すると、機械が動作を開始した。",
+          "ipa": "/aɪ ɪnˈsɝtɪd ðə ˈfaɪnəl blɑk ənd ðə məˈʃin bɪˈɡæn ˈwɝkɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "and は弱形 /ənd/ アン、the に続く /ðə/"
+          ],
+          "kana": "アイ インサーティド ザ ファイナル ブラック アン ザ マシーン ビガン ワーキング"
+        },
+        {
+          "en": "We inserted colored wool into the wall pattern yesterday.",
+          "ja": "昨日、色付きウールを壁のパターンに挿入した。",
+          "ipa": "/wi ɪnˈsɝtɪd ˈkʌlərd wʊl ˈɪntuː ðə wɔl ˈpætərn jɛsˈtɚdeɪ/",
+          "linking": [
+            "inserted の末尾 /d/ は次の子音 /k/ の前で未開放 [d̚]",
+            "into の /uː/ 後、the の弱形 /ðə/"
+          ],
+          "kana": "ウィ インサーティド カラード ウール イントゥー ザ ウォール パターン イェスターデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "inserted",
+      "ipa": "/ɪnˈsɝtɪd/",
+      "examples": [
+        {
+          "en": "The materials we inserted are now visible on the structure.",
+          "ja": "私たちが挿入した素材は、今、構造物に見える。",
+          "ipa": "/ðə məˈtɪriəlz wi ɪnˈsɝtɪd ɑr naʊ ˈvɪzəbəl ɑn ðə ˈstrʌktʃɚ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "are は弱形 /ɑr/ アー、now に続く"
+          ],
+          "kana": "ザ マテリアルズ ウィ インサーティド アー ナウ ビジブル アン ザ ストラクチャー"
+        },
+        {
+          "en": "An inserted block can always be replaced or removed.",
+          "ja": "挿入されたブロックはいつでも交換または削除できます。",
+          "ipa": "/ən ɪnˈsɝtɪd blɑk kən ˈɔlweɪz bi rɪˈpleɪst ər rɪˈmuvd/",
+          "linking": [
+            "An は弱形 /ən/ アン、inserted の /ɪ/ に続く",
+            "can は弱形 /kən/ カン"
+          ],
+          "kana": "アン インサーティド ブラック カン オールウェイズ ビー リプレイスト オア リムーヴド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "inserting",
+      "ipa": "/ɪnˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm inserting the redstone components into the control panel now.",
+          "ja": "今、レッドストーンコンポーネントをコントロールパネルに挿入しています。",
+          "ipa": "/aɪm ɪnˈsɝtɪŋ ðə ˈrɛdˌstoʊn kəmˈpoʊnənts ˈɪntuː ðə kənˈtroʊl ˈpænəl naʊ/",
+          "linking": [
+            "I'm の /m/ が inserting の /ɪ/ に連結 [aɪmɪnˈsɝtɪŋ]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイム インサーティング ザ レッドストーン コンポーネンツ イントゥー ザ コントロール パネル ナウ"
+        },
+        {
+          "en": "By inserting different materials, we create better looking buildings.",
+          "ja": "異なる素材を挿入することで、より良い見た目の建物を作ります。",
+          "ipa": "/baɪ ɪnˈsɝtɪŋ ˈdɪfərənt məˈtɪriəlz, wi kriˈeɪt ˈbɛtɚ ˈlʊkɪŋ ˈbɪldɪŋz/",
+          "linking": [
+            "By は弱形なし /baɪ/、inserting の /ɪ/ に続く",
+            "materials の語末 /z/ が we の /wi/ に続く（子音-母音の並び）"
+          ],
+          "kana": "バイ インサーティング ディファレント マテリアルズ ウィ クリエイト ベター ルッキング ビルディングズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "inserts",
+      "ipa": "/ˈɪnsɝts/",
+      "examples": [
+        {
+          "en": "These decorative inserts make the wall look much better.",
+          "ja": "これらの装飾的なインサートは壁をはるかに見栄え良くします。",
+          "ipa": "/ðiz ˌdɛkəˈreɪtɪv ˈɪnsɝts meɪk ðə wɔl lʊk mʌtʃ ˈbɛtɚ/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "wall look → wall の /l/ が look の /l/ に続く（子音-子音）"
+          ],
+          "kana": "ディーズ デコラティヴ インサーツ メイク ザ ウォール ルック マッチ ベター"
+        },
+        {
+          "en": "Stone inserts are useful for creating beautiful decorative patterns.",
+          "ja": "ストーンインサートは美しい装飾的なパターンを作成するのに役立ちます。",
+          "ipa": "/stoʊn ˈɪnsɝts ɑr ˈjusfəl fər kriˈeɪtɪŋ ˈbjutɪfəl ˌdɛkəˈreɪtɪv ˈpætərnz/",
+          "linking": [
+            "inserts are → inserts の語末 /s/ が are の /ɑr/ に続く",
+            "for は弱形 /fər/ ファー"
+          ],
+          "kana": "ストーン インサーツ アー ユースフル ファー クリエイティング ビューティフル デコラティヴ パターンズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is inserting",
+      "ipa": "/ɪz ɪnˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "I'm inserting redstone dust into the circuit carefully.",
+          "ja": "私は回路にレッドストーンダストを慎重に挿入しています。",
+          "ipa": "/aɪm ɪnˈsɝtɪŋ ˈrɛdˌstoʊn dʌst ˈɪntuː ðə ˈsɝkɪt ˈkɛrfəli/",
+          "linking": [
+            "I'm の末尾子音 /m/ が inserting の初頭母音 /ɪ/ に連結 [aɪmɪn...]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイム インサーティング レッドストーン ダスト イントゥー ザ サーキット ケアフリー"
+        },
+        {
+          "en": "The player is inserting blocks into the wall pattern.",
+          "ja": "プレイヤーは壁のパターンにブロックを挿入しています。",
+          "ipa": "/ðə ˈpleɪɚ ɪz ɪnˈsɝtɪŋ blɑks ˈɪntuː ðə wɔl ˈpætərn/",
+          "linking": [
+            "The は弱形 /ðə/ ザ",
+            "is の末尾子音 /z/ が inserting の初頭母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ プレイアー イズ インサーティング ブラックス イントゥー ザ ウォール パターン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was inserting",
+      "ipa": "/wəz ɪnˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "I was inserting materials when the creeper appeared.",
+          "ja": "クリーパーが現れたとき、素材を挿入していました。",
+          "ipa": "/aɪ wəz ɪnˈsɝtɪŋ məˈtɪriəlz wɛn ðə ˈkriːpɚ əˈpɪrd/",
+          "linking": [
+            "was は弱形 /wəz/ ワズ、inserting の初頭母音 /ɪ/ に連結",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ワズ インサーティング マテリアルズ ホェン ザ クリーパー アピアード"
+        },
+        {
+          "en": "We were inserting redstone components into the machine.",
+          "ja": "私たちは機械にレッドストーン部品を挿入していました。",
+          "ipa": "/wi wɚ ɪnˈsɝtɪŋ ˈrɛdˌstoʊn kəmˈpoʊnənts ˈɪntuː ðə məˈʃiːn/",
+          "linking": [
+            "were は弱形 /wɚ/ ワー、inserting の初頭母音 /ɪ/ に連結",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ウィ ワー インサーティング レッドストーン コンポーネンツ イントゥー ザ マシーン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been inserting",
+      "ipa": "/həd bɪn ɪnˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "I had been inserting blocks for two hours before I realized the issue.",
+          "ja": "問題に気付く前に、ブロックを2時間挿入していました。",
+          "ipa": "/aɪ həd bɪn ɪnˈsɝtɪŋ blɑks fɚ tu ˈaʊɚz bɪˈfɔr aɪ riˈæləzd ðə ˈɪʃu/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、inserting の初頭母音 /ɪ/ に連結",
+            "for は機能語で弱形 /fɚ/ ファー"
+          ],
+          "kana": "アイ ハド ビン インサーティング ブラックス ファー トゥー アワーズ ビフォアー アイ リアライズド ザ イッシュー"
+        },
+        {
+          "en": "They had been inserting decorative elements all afternoon.",
+          "ja": "彼らは午後中ずっと装飾的な要素を挿入していました。",
+          "ipa": "/ðeɪ həd bɪn ɪnˈsɝtɪŋ ˌdɛkəˈreɪtɪv ˈɛləmənts ɔl ˌæftɚˈnun/",
+          "linking": [
+            "had は弱形 /həd/ ハド、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/ ビン、inserting の初頭母音 /ɪ/ に連結"
+          ],
+          "kana": "ザイ ハド ビン インサーティング デコラティヴ エレメンツ オール アフターヌーン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has inserted",
+      "ipa": "/həz ɪnˈsɝɾɪd/",
+      "examples": [
+        {
+          "en": "I have inserted the redstone component into the circuit successfully.",
+          "ja": "レッドストーンコンポーネントを正常に回路に挿入しました。",
+          "ipa": "/aɪ həv ɪnˈsɝɾɪd ðə ˈrɛdˌstoʊn kəmˈpoʊnənt ˈɪntuː ðə ˈsɝkɪt ˌsʌkˈsɛsfəli/",
+          "linking": [
+            "have は弱形 /həv/、末尾の /v/ が inserted の初頭母音 /ɪ/ に連結 [həvɪn...]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハヴ インサーリド ザ レッドストーン コンポーネント イントゥー ザ サーキット サクセスフリー"
+        },
+        {
+          "en": "The builder has inserted decorative blocks into the wall.",
+          "ja": "建築者は装飾的なブロックを壁に挿入しました。",
+          "ipa": "/ðə ˈbɪldɚ həz ɪnˈsɝɾɪd ˌdɛkəˈreɪɾɪv blɑks ˈɪntuː ðə wɔl/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "has は弱形 /həz/、末尾の /z/ が inserted の初頭母音 /ɪ/ に連結 [həzɪn...]"
+          ],
+          "kana": "ザ ビルダー ハズ インサーリド デコラリヴ ブラックス イントゥー ザ ウォール"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had inserted",
+      "ipa": "/həd ɪnˈsɝɾɪd/",
+      "examples": [
+        {
+          "en": "I had inserted all the blocks before the redstone circuit activated.",
+          "ja": "レッドストーン回路が作動する前に、すべてのブロックを挿入していました。",
+          "ipa": "/aɪ həd ɪnˈsɝɾɪd ɔl ðə blɑks bɪˈfɔr ðə ˈrɛdˌstoʊn ˈsɝkɪt ˈæktɪˌveɪɾɪd/",
+          "linking": [
+            "had は弱形 /həd/、末尾の /d/ が inserted の初頭母音 /ɪ/ に連結 [hədɪn...]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイ ハド インサーリド オール ザ ブラックス ビフォア ザ レッドストーン サーキット アクティベイリド"
+        },
+        {
+          "en": "By the time the player arrived, she had inserted the key into the lock.",
+          "ja": "プレイヤーが到着するまでに、彼女は鍵をロックに挿入していました。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈpleɪɚ əˈraɪvd, ʃi həd ɪnˈsɝɾɪd ðə kiː ˈɪntuː ðə lɑk/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "had は弱形 /həd/、末尾の /d/ が inserted の初頭母音 /ɪ/ に連結 [hədɪn...]"
+          ],
+          "kana": "バイ ザ タイム ザ プレイアー アライヴド、シー ハド インサーリド ザ キー イントゥー ザ ロック"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been inserting",
+      "ipa": "/həz bɪn ɪnˈsɝɾɪŋ/",
+      "examples": [
+        {
+          "en": "I have been inserting redstone components into the machine all afternoon.",
+          "ja": "午後中、機械にレッドストーンコンポーネントを挿入し続けています。",
+          "ipa": "/aɪ həv bɪn ɪnˈsɝɾɪŋ ˈrɛdˌstoʊn kəmˈpoʊnənts ˈɪntuː ðə məˈʃiːn ɔl ˌæfɾɚˈnun/",
+          "linking": [
+            "have は弱形 /həv/、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/、inserting の初頭母音 /ɪ/ に連結"
+          ],
+          "kana": "アイ ハヴ ビン インサーリング レッドストーン コンポーネンツ イントゥー ザ マシーン オール アフラヌーン"
+        },
+        {
+          "en": "The worker has been inserting decorative blocks since early morning.",
+          "ja": "その作業者は朝早くから装飾的なブロックを挿入し続けています。",
+          "ipa": "/ðə ˈwɝkɚ həz bɪn ɪnˈsɝɾɪŋ ˌdɛkəˈreɪɾɪv blɑks sɪns ˈɝli ˈmɔrnɪŋ/",
+          "linking": [
+            "has は弱形 /həz/、been の初頭子音 /b/ に子音+子音で続く",
+            "been は弱形 /bɪn/、inserting の初頭母音 /ɪ/ に連結"
+          ],
+          "kana": "ザ ワーカー ハズ ビン インサーリング デコラリヴ ブラックス シンス アーリー モーニング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will insert",
+      "ipa": "/wɪl ɪnˈsɝt/",
+      "examples": [
+        {
+          "en": "I'll insert the diamond blocks into the wall tomorrow.",
+          "ja": "明日、ダイヤモンドブロックを壁に挿入します。",
+          "ipa": "/aɪl ɪnˈsɝt ðə ˈdaɪmənd blɑks ˈɪntuː ðə wɔl təˈmɑroʊ/",
+          "linking": [
+            "I'll の末尾 /l/ が insert の /ɪ/ に連結 [aɪlɪn...]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "アイル インサート ザ ダイモンド ブラックス イントゥー ザ ウォール トゥモロー"
+        },
+        {
+          "en": "They will insert redstone components into the control panel.",
+          "ja": "彼らはコントロールパネルにレッドストーン部品を挿入するでしょう。",
+          "ipa": "/ðeɪ wɪl ɪnˈsɝt ˈrɛdˌstoʊn kəmˈpoʊnənts ˈɪntuː ðə kənˈtroʊl ˈpænəl/",
+          "linking": [
+            "will の末尾 /l/ が insert の /ɪ/ に連結 [wɪlɪn...]",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザイ ウィル インサート レッドストーン コンポーネンツ イントゥー ザ コントロール パネル"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be inserting",
+      "ipa": "/wɪl bi ɪnˈsɝtɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow morning, we'll be inserting decorative blocks all day.",
+          "ja": "明日の朝、私たちは1日中装飾的なブロックを挿入します。",
+          "ipa": "/təˈmɑroʊ ˈmɔrnɪŋ, wil bi ɪnˈsɝtɪŋ ˌdɛkəˈreɪtɪv blɑks ɔl ˈdeɪ/",
+          "linking": [
+            "we'll の末尾 /l/ が be の /b/ に連結 [wilbi]",
+            "be は弱形 /bi/、inserting の初頭母音 /ɪ/ に連結"
+          ],
+          "kana": "トゥモロー モーニング、ウィル ビー インサーティング デコラティヴ ブラックス オール デイ"
+        },
+        {
+          "en": "At 3 PM tomorrow, the builder will be inserting the final piece.",
+          "ja": "明日の午後3時に、建築者は最後のピースを挿入しているでしょう。",
+          "ipa": "/ət θri ˈpi ˈɛm təˈmɑroʊ, ðə ˈbɪldɚ wɪl bi ɪnˈsɝtɪŋ ðə ˈfaɪnəl pis/",
+          "linking": [
+            "at three → /ət/ と /θ/ は子音-子音で分離、three は /θri/",
+            "will の末尾 /l/ が be の /b/ に連結 [wɪlbi]"
+          ],
+          "kana": "アット スリー ピー エム トゥモロー、ザ ビルダー ウィル ビー インサーティング ザ ファイナル ピース"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have inserted",
+      "ipa": "/wɪl həv ɪnˈsɝtɪd/",
+      "examples": [
+        {
+          "en": "By the time you arrive, I will have inserted all the materials.",
+          "ja": "あなたが到着するまでに、私はすべての材料を挿入しているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju əˈraɪv, aɪ wɪl həv ɪnˈsɝtɪd ɔl ðə məˈtɪriəlz/",
+          "linking": [
+            "will の末尾 /l/ は have の /h/ の前で未開放 [wɪl̚]",
+            "have は弱形 /həv/、inserted の初頭母音 /ɪ/ に連結 [həvɪn...]"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ、アイ ウィル ハヴ インサーティド オール ザ マテリアルズ"
+        },
+        {
+          "en": "She will have inserted the key into the lock before we start.",
+          "ja": "私たちが開始する前に、彼女は鍵をロックに挿入しているでしょう。",
+          "ipa": "/ʃi wɪl həv ɪnˈsɝtɪd ðə kiː ˈɪntuː ðə lɑk bɪˈfɔr wi stɑrt/",
+          "linking": [
+            "will の末尾 /l/ は have の /h/ の前で未開放 [wɪl̚]",
+            "have は弱形 /həv/、inserted の初頭母音 /ɪ/ に連結 [həvɪn...]"
+          ],
+          "kana": "シー ウィル ハヴ インサーティド ザ キー イントゥー ザ ロック ビフォア ウィ スターット"
+        }
+      ]
+    }
+  ]
+}

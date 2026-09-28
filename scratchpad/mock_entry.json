@@ -1,0 +1,464 @@
+{
+  "word": "mock",
+  "rank": 0,
+  "pos": "動詞・形容詞",
+  "pos_all": "動詞・形容詞",
+  "ipa_us": "/mɑk/",
+  "level": "B1",
+  "hi": "mock(?:ed|ing|s)?",
+  "meanings": [
+    "【動詞】（人を）馬鹿にする、嘲笑する、あざ笑う（…の人をからかう）",
+    "【動詞】真似する、模倣する（特に人をからかうために；…学ぶ）",
+    "【形容詞】本物でない、模擬の、実験用の（…テスト/練習）",
+    "【形容詞】ふりをした、偽の（…戦い/敵）"
+  ],
+  "examples": [
+    {
+      "en": "Don't mock how I sprint-jumped - I'm still learning the technique!",
+      "ja": "スプリントジャンプのやり方を馬鹿にするなよ。まだ習ってる最中だ！",
+      "ipa": "[doʊnt ˈmɑk haʊ aɪ ˈsprɪnt dʒʌmpt aɪm stɪl ˈlɝnɪŋ ðə tɛkˈnik]",
+      "linking": [
+        "don't の語末 /t̚/ は未開放: [doʊn̚t] ドン(ッ)。mock の語頭 /m/ とは連結しない子音同士",
+        "mock how → 語末子音 /k/ が次の音 /h/ に連ならない（子音同士）。how は /haʊ/ [ˈmɑk haʊ] モック ハウ",
+        "learning the → the は弱形 /ðə/ に弱化し、語末の /g/ と弱い連結。[ˈlɝnɪŋ ðə] ラーニング ザ"
+      ],
+      "kana": "ドーント モック ハウ アイ スプリント ジャンプト アイム スティル ラーニング ザ テクニック"
+    },
+    {
+      "en": "This is a mock arena for testing our combat skills before the tournament.",
+      "ja": "これは本当のトーナメント前に戦闘スキルをテストするための模擬アリーナだ。",
+      "ipa": "[ðɪs ɪz ə ˈmɑk əˈrenə fər ˈtɛstɪŋ ˈaʊər ˈkɑmbæt skɪlz bɪˈfɔr ðə ˈtɝnəmənt]",
+      "linking": [
+        "is a → 語末子音 /z/ が母音 /ə/ に連結: [ɪˈzə] イザ",
+        "arena for → for は弱形 /fər/ に弱化。arena の語末 /ə/ と結合: [əˈrenə ˈfər] アレナ ファ",
+        "before the → 語末子音 /r/ が母音 /ə/ に連結し、the は弱形: [bɪˈfɔr ðə] ビフォー ザ"
+      ],
+      "kana": "ディス イズ ア モック アレナ ファ テスティング アワー コンバット スキルズ ビフォー ザ ターナメント"
+    },
+    {
+      "en": "Stop mocking the Redstone engineer - his contraption actually works perfectly!",
+      "ja": "そのレッドストーン技術者を馬鹿にするなよ。彼の装置は実際に完璧に動く！",
+      "ipa": "[ˈstɑp ˈmɑkɪŋ ðə ˈrɛdˌstoʊn ˌɛndʒɪˈnɪr hɪz ˌkɑntɹəpʃən ˈæktʃuəli ˈwɝks ˈpɝfɪktli]",
+      "linking": [
+        "mocking the → ing の /ŋ/ は鼻音で後続音に連ならず、the は弱形 /ðə/: [ˈmɑkɪŋ ðə] モッキング ザ",
+        "engineer his → 語末子音 /r/ が母音 /h/ の前で連結: [ˌɛndʒɪˈnɪr hɪz] エンジニア ヒズ",
+        "works perfectly → works の語末 /ks/ と次の /p/ は子音同士で連結しない。perfectly は /ˈpɝfɪktli/: [ˈwɝks ˈpɝfɪktli] ワークス パーフェクトリ"
+      ],
+      "kana": "スタップ モッキング ザ レッドストーン エンジニア ヒズ コントラプション アクチュアリ ワークス パーフェクトリ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "mock battle",
+      "ja": "模擬戦、練習戦",
+      "example": "We organized a mock battle to practice our PvP strategy before the server tournament.",
+      "example_ja": "サーバートーナメントの前にPvP戦略を練習するために模擬戦を企画した。",
+      "ipa": "[wi ˈɔrɡənaɪzd ə ˈmɑk ˈbætəl tə ˈpræktɪs ˈaʊər ˈpiˈvi ˈstrætədʒi bɪˈfɔr ðə ˈsɝvər ˈtɝnəmənt]",
+      "linking": [
+        "organized a → 語末子音 /d/ が母音 /ə/ に連結: [ˈɔrɡənaɪzd ə] オーガナイズド ア",
+        "battle to → battle の語末 /əl/ から次の弱形 to /tə/: [ˈbætəl tə] バトゥル タ",
+        "before the → 語末 /r/ が母音に連結、the は弱形: [bɪˈfɔr ðə] ビフォー ザ"
+      ],
+      "kana": "ウィ オーガナイズド ア モック バトゥル タ プラクティス アワー ピーヴィ ストラテジー ビフォー ザ サーヴァー ターナメント"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "mocks",
+      "ipa": "/mɑks/",
+      "examples": [
+        {
+          "en": "He mocks everyone in the chat.",
+          "ipa": "/hiː ˈmɑks ˈɛvɹiwʌn ɪn ðə tʃæt/",
+          "linking": [
+            "mocks の /s/ が everyone の /ɛ/ に連結: [ˈmɑks ɛ...] マークス エ",
+            "everyone の /n/ が in の /ɪ/ に続く（consonant-vowel juncture）",
+            "the は機能語で弱形 /ðə/。chat の /tʃ/ に未開放で [ðə̚ tʃæt]"
+          ],
+          "ja": "彼はチャットで皆を馬鹿にしている。",
+          "kana": "ヒー マークス エヴリワン イン ザ チャット"
+        },
+        {
+          "en": "She mocks anyone who dies to zombies.",
+          "ipa": "/ʃiː ˈmɑks ˈɛniˌwʌn hu daɪz tə ˈzɑmbiz/",
+          "linking": [
+            "mocks の /s/ が anyone の /ɛ/ に連結、自然な流れ: [ˈmɑks ɛ...]",
+            "anyone の /n/ が who の /h/ に未開放: [ˌwʌn̚ hu]",
+            "dies の /z/ が to の /t/ に続く。to は機能語で弱形 /tə/: [daɪz tə] ダイズ タ"
+          ],
+          "ja": "彼女はゾンビで死んだ誰もを馬鹿にしている。",
+          "kana": "シー マークス エニワン フー ダイズ タ ザンビーズ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "mocked",
+      "ipa": "/mɑkt/",
+      "examples": [
+        {
+          "en": "He got mocked for using diamonds on a hoe.",
+          "ipa": "/hiː ɡɑt ˈmɑkt fɔɹ ˈjuzɪŋ ˈdaɪməndz ɑn ə hoʊ/",
+          "linking": [
+            "got の /t/ が mocked の /m/ に未開放で連接: [ɡɑt̚ ˈmɑkt] ガット マークトゥ",
+            "diamonds の /z/ が on の /ɑ/ に連結: [ˈdaɪməndz ɑn] ダイマンズ アン",
+            "a は弱形 /ə/。hoe に連結: [ə hoʊ] ア ホー"
+          ],
+          "ja": "彼はダイヤモンドをクワに使ったことで馬鹿にされた。",
+          "kana": "ヒー ガット マークトゥ フォー ユージング ダイマンズ アン ア ホー"
+        },
+        {
+          "en": "They mocked his redstone design thoroughly.",
+          "ipa": "/ðeɪ ˈmɑkt hɪz ˈrɛdˌstoʊn dɪˈzaɪn ˈθɝoʊli/",
+          "linking": [
+            "mocked の /t/ が his の /h/ に未開放: [ˈmɑkt hɪz]",
+            "his の /z/ が redstone の /ɹ/ に続く: [hɪz ˈɹɛd...]",
+            "design の /n/ が thoroughly の /θ/ に続く（consonant-consonant）"
+          ],
+          "ja": "彼らは彼のレッドストーン設計を徹底的に馬鹿にした。",
+          "kana": "ザイ マークトゥ ヒズ レッドストーン ディザイン ソロウリー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "mocked",
+      "ipa": "/mɑkt/",
+      "examples": [
+        {
+          "en": "Having been mocked, he left the server.",
+          "ipa": "/ˈhævɪŋ bɪn ˈmɑkt hiː lɛft ðə ˈsɝvɚ/",
+          "linking": [
+            "been の /n/ が mocked の /m/ に未開放で連接: [bɪn̚ ˈmɑkt] ビン マークトゥ",
+            "mocked の /t/ が he の /h/ に未開放: [ˈmɑkt hiː]",
+            "left の /t/ が the の /ð/ に未開放、the は弱形: [lɛft̚ ðə] レフト ザ"
+          ],
+          "ja": "馬鹿にされた後、彼はサーバーを去った。",
+          "kana": "ハヴィング ビン マークトゥ ヒー レフト ザ サーヴァー"
+        },
+        {
+          "en": "The mocked player returned stronger than before.",
+          "ipa": "/ðə ˈmɑkt ˈpleɪɚ rɪˈtɝnd ˈstrɑŋɡɚ ðæn bɪˈfɔɹ/",
+          "linking": [
+            "the は弱形 /ðə/。mocked の /m/ に滑らかに連結: [ðə ˈmɑkt]",
+            "player の /ɚ/ が returned の /r/ に続く: [ˈpleɪɚ rɪˈtɝnd]",
+            "stronger の /ɚ/ が than の /ð/ に続く（vowel-consonant juncture）"
+          ],
+          "ja": "馬鹿にされたそのプレイヤーは前よりも強く戻ってきた。",
+          "kana": "ザ マークトゥ プレイヤー リターンド ストロンガー ザン ビフォー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞/動名詞",
+      "text": "mocking",
+      "ipa": "/ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "Stop mocking our farm design!",
+          "ipa": "/stɑp ˈmɑkɪŋ aʊɚ fɑɹm dɪˈzaɪn/",
+          "linking": [
+            "stop の /p/ が mocking の /m/ に未開放で連接: [stɑp̚ ˈmɑkɪŋ] ストップ マッキング",
+            "mocking の /ŋ/ は鼻音で後続の母音に直接続く: [ˈmɑkɪŋ ˈaʊ...]",
+            "farm の /m/ が design の /d/ に続く（consonant-consonant）"
+          ],
+          "ja": "私たちのファーム設計を馬鹿にするのをやめて!",
+          "kana": "ストップ マッキング アワー ファーム ディザイン"
+        },
+        {
+          "en": "He's mocking the kid who lost all his resources.",
+          "ipa": "/hiːz ˈmɑkɪŋ ðə kɪd hu lɔst ɔl hɪz rɪˈsɔɹsɪz/",
+          "linking": [
+            "he's の /z/ が mocking の /m/ に未開放で: [hiːz ˈmɑkɪŋ] ヒーズ マッキング",
+            "the は弱形 /ðə/。kid の /k/ に未開放: [ðə̚ kɪd] ザ キッド",
+            "his の /z/ が resources の /ɹ/ に続く: [hɪz rɪˈsɔɹ...] ヒズ リソーシズ"
+          ],
+          "ja": "彼は全てのリソースを失った子供を馬鹿にしている。",
+          "kana": "ヒーズ マッキング ザ キッド フー ロスト オール ヒズ リソーシズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is mocking",
+      "ipa": "/ɪz ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "He is mocking my redstone contraption right now in the chat.",
+          "ja": "彼は今、チャットで私のレッドストーン装置を馬鹿にしている。",
+          "ipa": "/hiː ɪz ˈmɑkɪŋ maɪ ˈrɛdˌstoʊn kənˈtræpʃən ˈraɪt ˈnaʊ ɪn ðə tʃæt/",
+          "linking": [
+            "is は弱形 /ɪz/「イズ」で、mocking に連結「イズ マッキング」",
+            "my redstone で my は弱いストレス、redstone の語頭に連結「マイ レッドストーン」",
+            "contraption right で contraption の語末 /n/ が right に先行「コントラプション ライト」",
+            "the は弱形 /ðə/、chat に連結「ザ チャット」"
+          ],
+          "kana": "ヒー イズ マッキング マイ レッドストーン コントラプション ライト ナウ イン ザ チャット"
+        },
+        {
+          "en": "They are mocking the building style of our entire team.",
+          "ja": "彼らは私たちのチーム全体の建築スタイルを馬鹿にしている。",
+          "ipa": "/ðeɪ ɚ ˈmɑkɪŋ ðə ˈbɪldɪŋ staɪl əv ˈaʊɚ ɪnˈtaɪɚ tim/",
+          "linking": [
+            "are は弱形 /ɚ/「アー」で、mocking に連結「アー マッキング」",
+            "the は弱形 /ðə/、building に連結「ザ ビルディング」",
+            "building style で building の語末 /ŋ/ が style に先行「ビルディング スタイル」",
+            "of は弱形 /əv/「アヴ」"
+          ],
+          "kana": "ザイ アー マッキング ザ ビルディング スタイル アヴ アワー エンタイア ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was mocking",
+      "ipa": "/wəz ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "While I was building, she was mocking my placement of blocks.",
+          "ja": "私が建築していた時、彼女は私のブロック配置を馬鹿にしていた。",
+          "ipa": "/waɪl aɪ wəz ˈbɪldɪŋ ʃiː wəz ˈmɑkɪŋ maɪ pləˈsmɛnt əv blɑks/",
+          "linking": [
+            "was は弱形 /wəz/「ワズ」で、building に連結「ワズ ビルディング」",
+            "building の語末 /ŋ/ が she に先行「ビルディング シー」",
+            "was は弱形 /wəz/「ワズ」で、mocking に連結「ワズ マッキング」",
+            "placement の語末 /t/ が of に連結し、of は弱形 /əv/「アヴ」「プレイスメント アヴ」"
+          ],
+          "kana": "ワイル アイ ワズ ビルディング シー ワズ マッキング マイ プレイスメント アヴ ブロックス"
+        },
+        {
+          "en": "They were mocking the other team's strategy when the server crashed.",
+          "ja": "サーバーがクラッシュした時、彼らは他のチームの戦略を馬鹿にしていた。",
+          "ipa": "/ðeɪ wɚ ˈmɑkɪŋ ðə ˈʌðɚ timz ˈstrætədʒi wɛn ðə ˈsɚvɚ kræʃt/",
+          "linking": [
+            "were は弱形 /wɚ/「ワー」で、mocking に連結「ワー マッキング」",
+            "the は弱形 /ðə/、other に連結「ザ アザー」",
+            "other の語末 /ɚ/ が team に連結「アザー ティーム」",
+            "the は弱形 /ðə/、server に連結「ザ サーヴァー」"
+          ],
+          "kana": "ザイ ワー マッキング ザ アザー ティームズ ストラテジー ウェン ザ サーヴァー クラッシュト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been mocking",
+      "ipa": "/həd bɪn ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the moderator joined, they had been mocking the new player for over an hour.",
+          "ja": "モデレーターが参加するまでに、彼らは新しいプレイヤーを1時間以上馬鹿にしていた。",
+          "ipa": "/baɪ ðə ˈtaɪm ðə ˈmɑdəˌreɪtɚ ˈdʒɔɪnd ðeɪ həd bɪn ˈmɑkɪŋ ðə ˈnu ˈpleɪɚ fɔɹ ˈoʊvɚ ən ˈaʊɚ/",
+          "linking": [
+            "the は弱形 /ðə/（2回出現）「ザ」",
+            "had は弱形 /həd/「ハド」、been も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "had been が mocking に連結「ハド ビン マッキング」",
+            "over は /ˈoʊvɚ/、an は弱形 /ən/「ン」で連結「オウヴァー ン」"
+          ],
+          "kana": "バイ ザ タイム ザ マダレイター ジョインド ザイ ハド ビン マッキング ザ ニュー プレイヤー フォー オウヴァー ン アワー"
+        },
+        {
+          "en": "The players had been mocking the farm design until they saw how efficient it really was.",
+          "ja": "プレイヤーたちは、それがいかに効率的であるかを見るまで、ファーム設計を馬鹿にしていた。",
+          "ipa": "/ðə ˈpleɪɚz həd bɪn ˈmɑkɪŋ ðə fɑɹm dɪˈzaɪn ənˈtɪl ðeɪ sɔ haʊ ɪˈfɪʃənt ɪt ˈrɪli wəz/",
+          "linking": [
+            "the は弱形 /ðə/「ザ」",
+            "had は弱形 /həd/「ハド」、been も弱形 /bɪn/「ビン」で連結「ハド ビン」",
+            "had been が mocking に連結「ハド ビン マッキング」",
+            "the は弱形 /ðə/、farm に連結「ザ ファーム」",
+            "was は弱形 /wəz/「ワズ」"
+          ],
+          "kana": "ザ プレイヤーズ ハド ビン マッキング ザ ファーム ディザイン アンティル ザイ ソー ハウ イフィシェント イット リーリー ワズ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has mocked",
+      "ipa": "/həz ˈmɑkt/",
+      "examples": [
+        {
+          "en": "He has mocked me for dying to fall damage twice already.",
+          "ja": "彼は既に私がフォールダメージで2回死んだことを馬鹿にしている。",
+          "ipa": "[hiː həz ˈmɑkt mi fɔɹ ˈdaɪɪŋ tə fɔl ˈdæmɪdʒ twaɪs ɔlˈrɛdi]",
+          "linking": [
+            "has は機能詞で弱形 /həz/「ハズ」。mocked に連結: [həz ˈmɑkt] ハズ マークト",
+            "mocked の語末 /t/ が me の /m/ に未開放で連接: [ˈmɑkt̚ mi] マークト ミー",
+            "to は機能詞で弱形 /tə/「タ」。fall に連結: [tə fɔl] タ フォール"
+          ],
+          "kana": "ヒー ハズ マークト ミー フォー ダイイング タ フォール ダメージ トゥワイス オールレディ"
+        },
+        {
+          "en": "Players have mocked our base design for weeks without offering real criticism.",
+          "ja": "プレイヤーたちは何週間も我々のベース設計を馬鹿にしてきたが、本当の批評は何もない。",
+          "ipa": "[ˈpleɪɚz həv ˈmɑkt aʊɚ beɪs dɪˈzaɪn fɔɹ wiks wɪðˈaʊt ˈɔfɚɪŋ ˈril ˈkrɪtɪˌsɪzəm]",
+          "linking": [
+            "have は機能詞で弱形 /həv/「ハヴ」。mocked に連結: [həv ˈmɑkt] ハヴ マークト",
+            "mocked の語末 /t/ が our の /aʊ/ に未開放で連接: [ˈmɑkt̚ aʊ...] マークト アワー",
+            "for の語末 /r/ が weeks の /w/ に続く（子音同士）: [fɔɹ wiks] フォー ウィークス"
+          ],
+          "kana": "プレイヤーズ ハヴ マークト アワー ベイス ディザイン フォー ウィークス ウィザウト オファリング リール クリティシズム"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had mocked",
+      "ipa": "/həd ˈmɑkt/",
+      "examples": [
+        {
+          "en": "Before the tournament, they had mocked every strategy we proposed.",
+          "ja": "トーナメント前に、彼らは私たちが提案したあらゆる戦略を馬鹿にしていた。",
+          "ipa": "[bɪˈfɔɹ ðə ˈtɝnəmənt ðeɪ həd ˈmɑkt ˈɛvɹi ˈstrætədʒi wi prəˈpoʊzd]",
+          "linking": [
+            "the は弱形 /ðə/「ザ」。tournament に連結: [ðə ˈtɝnə...] ザ ターナメント",
+            "had は弱形 /həd/「ハド」。mocked に連結: [həd ˈmɑkt] ハド マークト",
+            "mocked の語末 /t/ が every の /ɛ/ に連結: [ˈmɑkt ɛ...] マークト エ"
+          ],
+          "kana": "ビフォー ザ ターナメント ザイ ハド マークト エヴリ ストラテジー ウィ プロポーズド"
+        },
+        {
+          "en": "He had mocked the new player's equipment so badly that he never returned.",
+          "ja": "彼は新しいプレイヤーの装備をそんなに馬鹿にしたので、彼は二度と戻ってこなかった。",
+          "ipa": "[hiː həd ˈmɑkt ðə ˈnu ˈpleɪɚz ɪˈkwɪpmənt soʊ ˈbædli ðæt hiː ˈnɛvɚ rɪˈtɝnd]",
+          "linking": [
+            "had は弱形 /həd/「ハド」。mocked に連結: [həd ˈmɑkt] ハド マークト",
+            "the は弱形 /ðə/「ザ」。new に連結: [ðə ˈnu] ザ ニュー",
+            "player's の語末 /z/ が equipment の /ɪ/ に連結: [ˈpleɪɚz ɪˈkwɪp...]"
+          ],
+          "kana": "ヒー ハド マークト ザ ニュー プレイヤーズ イクウィップメント ソー バッドリー ザット ヒー ネヴァー リターンド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been mocking",
+      "ipa": "/həz bɪn ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "She has been mocking the redstone expert's build all afternoon.",
+          "ja": "彼女は午後中ずっとレッドストーン専門家のビルドを馬鹿にしている。",
+          "ipa": "[ʃiː həz bɪn ˈmɑkɪŋ ðə ˈrɛdˌstoʊn ˈɛkspɚts bɪld ɔl ˈæftɚˌnun]",
+          "linking": [
+            "has は機能詞で弱形 /həz/「ハズ」、been も弱形 /bɪn/「ビン」。mocking に連結: [həz bɪn ˈmɑkɪŋ]",
+            "the は弱形 /ðə/「ザ」。redstone に連結: [ðə ˈrɛd...] ザ レッドストーン",
+            "expert's の語末 /s/ が build の /b/ に続く（子音同士）: [ˈɛkspɚts bɪld] エクスパーツ ビルド"
+          ],
+          "kana": "シー ハズ ビン マッキング ザ レッドストーン エクスパーツ ビルド オール アフターヌーン"
+        },
+        {
+          "en": "They have been mocking the server rules since the update went live.",
+          "ja": "彼らはアップデートが公開されて以来、ずっとサーバールールを馬鹿にしている。",
+          "ipa": "[ðeɪ həv bɪn ˈmɑkɪŋ ðə ˈsɝvɚ rulz sɪns ðə ˈʌpdeɪt wɛnt laɪv]",
+          "linking": [
+            "have は機能詞で弱形 /həv/「ハヴ」、been も弱形 /bɪn/「ビン」。mocking に連結: [həv bɪn ˈmɑkɪŋ]",
+            "the は弱形 /ðə/「ザ」。server と update に連結: [ðə ˈsɝvɚ] ザ サーヴァー、[ðə ˈʌpdeɪt] ザ アップデイト",
+            "update の語末 /t/ が went の /w/ に未開放で連接: [ˈʌpdeɪt̚ wɛnt] アップデイト ウェント"
+          ],
+          "kana": "ザイ ハヴ ビン マッキング ザ サーヴァー ルーズ シンス ザ アップデイト ウェント ライヴ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will mock",
+      "ipa": "/wɪl mɑk/",
+      "examples": [
+        {
+          "en": "He will mock anyone who falls into lava during the tournament.",
+          "ja": "彼はトーナメント中に溶岩に落ちた誰もを馬鹿にするだろう。",
+          "ipa": "[hiː wɪl ˈmɑk ˈɛniˌwʌn hu fɔlz ˈɪntu ˈlɑvə ˈdʊrɪŋ ðə ˈtɝnəmənt]",
+          "kana": "ヒー ウィル マック エニワン フー フォールズ イントゥ ラヴァ ジューリング ザ ターナメント",
+          "linking": [
+            "will は /wɪl/、mock に先行。主語後に縮約可能（he'll /hiːl/）: [wɪl ˈmɑk] ウィル マック",
+            "anyone の /n/ が who の /h/ に未開放で連接: [ˈwʌn̚ hu] ワン フー",
+            "the は弱形 /ðə/、tournament に連結: [ðə ˈtɝnə...] ザ ターナメント"
+          ]
+        },
+        {
+          "en": "They will mock our base design if we don't improve it before the deadline.",
+          "ja": "期限前に改善しなければ、彼らは私たちのベース設計を馬鹿にするだろう。",
+          "ipa": "[ðeɪ wɪl ˈmɑk ˈaʊər beɪs dɪˈzaɪn ɪf wi doʊnt ɪmˈpruːv ɪt bɪˈfɔr ðə ˈdɛdˌlaɪn]",
+          "kana": "ザイ ウィル マック アワー ベイス ディザイン イフ ウィ ドゥント イムプルーヴ イット ビフォー ザ デッドラインゥ",
+          "linking": [
+            "will は /wɪl/、mock に先行。縮約可能（they'll /ðeɪl/）: [wɪl ˈmɑk] ウィル マック",
+            "our は /ˈaʊər/、base の /b/ に先行（子音同士で自然に連続）",
+            "before の語末 /r/ が the の弱形 /ðə/ に連結: [bɪˈfɔr ðə] ビフォー ザ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be mocking",
+      "ipa": "/wɪl bi ˈmɑkɪŋ/",
+      "examples": [
+        {
+          "en": "She will be mocking our strategy while we're preparing for the raid.",
+          "ja": "私たちがレイドの準備をしている間、彼女は私たちの戦略を馬鹿にしているだろう。",
+          "ipa": "[ʃiː wɪl bi ˈmɑkɪŋ ˈaʊər ˈstrætədʒi ˈwaɪl wɪr prɪˈpɛrɪŋ fər ðə reɪd]",
+          "kana": "シー ウィル ビー マッキング アワー ストラテジー ホワイル ウィアー プリペアリング ファー ザ レイド",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bi/: [wɪl bi] ウィル ビー",
+            "be は /bi/、mocking に先行: [bi ˈmɑkɪŋ] ビー マッキング",
+            "for は弱形 /fər/、raid に連結: [fər ðə] ファー ザ"
+          ]
+        },
+        {
+          "en": "Everyone will be mocking the server lag when the event actually starts.",
+          "ja": "イベントが実際に始まるとき、皆がサーバーラグを馬鹿にしているだろう。",
+          "ipa": "[ˈɛvɹiˌwʌn wɪl bi ˈmɑkɪŋ ðə ˈsɝvər læg wɛn ðə ɪˈvɛnt ˈæktʃuəli stɑrts]",
+          "kana": "エヴリワン ウィル ビー マッキング ザ サーバー ラグ ウェン ザ イヴェント アクチュアリー スターツ",
+          "linking": [
+            "will は /wɪl/、be は弱形 /bi/: [wɪl bi] ウィル ビー",
+            "be は /bi/、mocking に先行: [bi ˈmɑkɪŋ] ビー マッキング",
+            "the は弱形 /ðə/、server と event に連結（2回）: [ðə ˈsɝvər]「ザ サーバー」、[ðə ɪˈvɛnt]「ザ イヴェント」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have mocked",
+      "ipa": "/wɪl həv mɑkt/",
+      "examples": [
+        {
+          "en": "By the time you finish building, they will have mocked your design a thousand times.",
+          "ja": "お前が建築を終わるまでに、彼らはお前の設計を千回馬鹿にしているだろう。",
+          "ipa": "[baɪ ðə ˈtaɪm ju ˈfɪnɪʃ ˈbɪldɪŋ | ðeɪ wɪl həv ˈmɑkt jɔr dɪˈzaɪn ə ˈθaʊzənd taɪmz]",
+          "kana": "バイ ザ タイム ユー フィニッシュ ビルディング | ザイ ウィル ハヴ マークトゥ ユア ディザイン ア サウザンド タイムズ",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/: [wɪl həv] ウィル ハヴ",
+            "have の /v/ が mocked の /m/ に未開放で連接: [həv ˈmɑkt] ハヴ マークトゥ",
+            "your の /r/ が design の /d/ に先行（子音同士で自然な結合）"
+          ]
+        },
+        {
+          "en": "He will have mocked every mistake by the end of the tournament.",
+          "ja": "トーナメント終了までに、彼はあらゆるミスを馬鹿にしているだろう。",
+          "ipa": "[hiː wɪl həv ˈmɑkt ˈɛvɹi mɪˈsteɪk baɪ ðə ɛnd əv ðə ˈtɝnəmənt]",
+          "kana": "ヒー ウィル ハヴ マークトゥ エヴリ ミステイク バイ ザ エンド アヴ ザ ターナメント",
+          "linking": [
+            "will は /wɪl/、have は弱形 /həv/: [wɪl həv] ウィル ハヴ",
+            "have の /v/ が mocked の /m/ に未開放で連接: [həv ˈmɑkt] ハヴ マークトゥ",
+            "the は弱形 /ðə/、end に連結。of は弱形 /əv/: [ðə ɛnd əv] ザ エンド アヴ"
+          ]
+        }
+      ]
+    }
+  ]
+}

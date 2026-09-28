@@ -1,0 +1,83 @@
+{
+  "word": "that",
+  "pos": "限定詞・代名詞・関係代名詞・接続詞",
+  "pos_all": "限定詞・代名詞・関係代名詞・接続詞",
+  "ipa_us": "/ðæt/",
+  "rank": 7,
+  "level": "A1",
+  "hi": "that",
+  "meanings": [
+    "【限定詞】その、あの（人・物・事柄を特定する限定詞；that block = そのブロック）",
+    "【代名詞】その人、その物、それ（That is a good idea = それはいい考えだ；I prefer that = 私はそれを好む）",
+    "【関係代名詞】～する人・もの（先行詞を受ける；The block that I found = 私が見つけたブロック）",
+    "【接続詞】～ということ、～であること（that節を導く；I know that you need wood = あなたが木が必要だということを知っている）"
+  ],
+  "examples": [
+    {
+      "en": "That block is diamond ore.",
+      "ja": "そのブロックはダイヤモンド鉱石です。",
+      "ipa": "/ðæt blɑk ɪz ˈdaɪəmænd ɔr/",
+      "linking": [],
+      "kana": "ザット ブロック イズ ダイアモンド オア"
+    },
+    {
+      "en": "I prefer that over this one.",
+      "ja": "こちらより、そちらの方を好みます。",
+      "ipa": "/aɪ prɪˈfɜr ðæt ˈoʊvɚ ðɪs wʌn/",
+      "linking": [
+        "this one の /s/ が弱形で [z] に音声化。"
+      ],
+      "kana": "アイ プリファー ザット オーヴァー ディス ワン"
+    },
+    {
+      "en": "The enchantment that I need is Protection.",
+      "ja": "私が必要とするエンチャントは保護です。",
+      "ipa": "/ðə ɪnˈtʃæntmənt ðæt aɪ ˈniːd ɪz prəˈtɛkʃən/",
+      "linking": [
+        "the は冠詞で弱形 /ðə/。enchantment の初母音に連結。",
+        "that は関係代名詞。",
+        "need の末子音 /d/ が is の初母音 /ɪ/ に連結 [ˈniːdɪz] ニーディズ。"
+      ],
+      "kana": "ザ インチャントメント ザット アイ ニーディズ イズ プロテクション"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "that's it",
+      "ja": "それだ、決まりだ、もういいよ",
+      "example": "That's it, I found the diamonds!",
+      "example_ja": "それだ、ダイヤモンドを見つけた。",
+      "ipa": "/ðæts ɪt aɪ ˈfaʊnd ðə ˈdaɪəmændz/",
+      "linking": [
+        "that's は that is。that の末音 /t/ と is の初音 /ɪ/ が一つの /ts/ に聞こえる。",
+        "the は冠詞で弱形 /ðə/。"
+      ],
+      "kana": "ザッツ イット アイ ファウンド ザ ダイアモンズ"
+    },
+    {
+      "idiom": "like that",
+      "ja": "そのような、そんなふうに",
+      "example": "I've never seen a cave like that before.",
+      "example_ja": "そのような洞窟は前に見たことがありません。",
+      "ipa": "/aɪv ˈnɛvɚ ˈsin ə ˈkeɪv ˈlaɪk ðæt bɪˈfɔr/",
+      "linking": [
+        "like の末子音 /k/ が that の初音 /ð/ に未開放で接合 [ˈlaɪk̚ ðæt] ライックザット。",
+        "cave の末子音 /v/ が a の初母音 /ə/ に連結 [ˈkeɪvə] ケイヴァ。"
+      ],
+      "kana": "アイヴ ネヴァー シーン ア ケイヴァ ライックザット ビフォア"
+    },
+    {
+      "idiom": "at that",
+      "ja": "そのうえ、そればかりか、しかも",
+      "example": "The mob was fast, and at that, it was invisible.",
+      "example_ja": "そのモブは速く、そのうえ、目に見えなかった。",
+      "ipa": "/ðə ˈmoʊb wəz ˈfæst ænd æt ðæt ɪt wəz ɪnˈvɪzəbəl/",
+      "linking": [
+        "at の末子音 /t/ が that の初音 /ð/ に未開放で接合 [æt̚ ðæt] アットザット。",
+        "and は接続詞で弱形 /ənd/ または /ənd/。was は弱形傾向 /wəz/。"
+      ],
+      "kana": "ザ モーブ ワズ ファースト アンド アットザット イット ワズ インヴィザブル"
+    }
+  ],
+  "forms": []
+}

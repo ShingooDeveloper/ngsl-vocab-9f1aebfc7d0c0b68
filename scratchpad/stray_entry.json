@@ -1,0 +1,504 @@
+{
+  "word": "stray",
+  "pos": "動詞・名詞・形容詞",
+  "pos_all": "動詞・名詞・形容詞",
+  "ipa_us": "/streɪ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "[Ss]tray(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】迷ってさまよう、道を外れる",
+    "【動詞】意図せずに…に向かう、…に至る",
+    "【名詞】迷った動物、野良動物",
+    "【形容詞】迷った、本来の場所を離れた",
+    "【形容詞】散り散りの、ばらばらの"
+  ],
+  "examples": [
+    {
+      "en": "I strayed away from my base.",
+      "ipa": "/aɪ ˈstreɪdəˈweɪ frəm maɪ ˈbeɪs/",
+      "linking": [
+        "strayed away - 語末 /d/ が母音 /ə/ に連結 [ˈstreɪdəˈweɪ]",
+        "from - 機能語は弱形で発音 /frəm/",
+        "my base - 標準的な語の境界で発音"
+      ],
+      "kana": "アイ ストレイダウェイ フラム マイ ベイス"
+    },
+    {
+      "en": "A stray zombie appeared.",
+      "ipa": "/ə ˈstreɪ ˈzɑmbi əˈpɪrd/",
+      "linking": [
+        "a - 冠詞は弱形で /ə/（標準は /eɪ/）",
+        "appeared - 過去形で語末 /d/ 含む",
+        "zombie appeared - 自然な母音境界で発音"
+      ],
+      "kana": "ア ストレイ ゾンビ アピアード"
+    },
+    {
+      "en": "Stray animals avoid water.",
+      "ipa": "/ˈstreɪ ˈænɪməlz əˈvɔɪd ˈwɔɾɚ/",
+      "linking": [
+        "water - tが母音に挟まれフラップ化 [ˈwɔɾɚ]（set of の例のように）",
+        "animals - /z/ で終わり次の単語と接続",
+        "avoid - 語末 /d/ で次の単語につながる"
+      ],
+      "kana": "ストレイ アニマルズ アヴォイド ウォーラー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "stray from",
+      "ja": "…から外れる、逸脱する",
+      "example": "Don't stray from the main path.",
+      "example_ja": "メインパスから外れないで。",
+      "ipa": "/ˈdoʊnt ˈstreɪ frəm ðə ˈmeɪn ˈpæθ/",
+      "linking": [
+        "Don't stray - /t/ が次の /s/ に未開放で先行 [ˈdoʊn̚t̚ ˈstreɪ]",
+        "stray from - 特に連結なし（/eɪ/ 後に子音 /f/）",
+        "the main - /ə/ 弱形から /m/ へ"
+      ],
+      "kana": "ドウント ストレイ フラム ザ メイン パス"
+    },
+    {
+      "idiom": "a stray mob",
+      "ja": "予期しない敵、野良モブ",
+      "example": "A stray creeper exploded near my base.",
+      "example_ja": "基地の近くで野良クリーパーが爆発した。",
+      "ipa": "/ə ˈstreɪ ˈkripɚ ɪkˈsploʊdəd ˈnɪr maɪ ˈbeɪs/",
+      "linking": [
+        "a stray - 冠詞 /ə/ 弱形で無声化",
+        "exploded near - 語末 /d/ が子音 /n/ に未開放で連接 [ɪkˈsploʊd̚ˈnɪr]",
+        "near my - 子音 /r/ と /m/ で特に連結なし"
+      ],
+      "kana": "ア ストレイ クリーパー イクスプロウデッド ニアー マイ ベイス"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "strays",
+      "ipa": "/streɪz/",
+      "examples": [
+        {
+          "en": "The zombie strays from the dark forest.",
+          "ja": "ゾンビが暗い森からさまよい出ている。",
+          "ipa": "[ðə ˈzɑmbi ˈstreɪz frəm ðə ˈdɑrk ˈfɔɹɪst]",
+          "linking": [
+            "the zombie - 冠詞 /ðə/ は弱形で無声化 [ðə ˈzɑmbi]→「ザ ゾンビ」",
+            "strays from - 語末 /z/ が子音 /f/ に先行（連結しない）[ˈstreɪz frəm]→「ストレイズ フラム」",
+            "dark forest - 語末 /k/ が子音 /f/ に先行し未開放 [ˈdɑrk̚ ˈfɔɹɪst]→「ダーク フォリスト」"
+          ],
+          "kana": "ザ ゾンビ ストレイズ フラム ザ ダーク フォリスト"
+        },
+        {
+          "en": "My pet chicken strays too far from the coop.",
+          "ja": "ペットのニワトリがニワトリ舎からあまりにも遠くに迷い出ている。",
+          "ipa": "[maɪ ˈpɛt ˈtʃɪkən ˈstreɪz tu ˈfɑɹ frəm ðə ˈkup]",
+          "linking": [
+            "pet chicken - 語末 /t/ が子音 /tʃ/ に先行し未開放 [ˈpɛt̚ ˈtʃɪkən]→「ペット チキン」",
+            "chicken strays - 語末 /n/ が子音 /s/ に先行し未開放 [ˈtʃɪkən̚ ˈstreɪz]→「チキン ストレイズ」",
+            "far from - 語末 /ɹ/ が母音 /f/ へ連結（連結しない）[ˈfɑɹ frəm]→「ファー フラム」"
+          ],
+          "kana": "マイ ペット チキン ストレイズ トゥー ファー フラム ザ クープ"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "strayed",
+      "ipa": "/streɪd/",
+      "examples": [
+        {
+          "en": "I strayed into a dangerous cave.",
+          "ja": "私は危険な洞窟に迷い込んだ。",
+          "ipa": "[aɪ ˈstreɪd ˈɪntu ə ˈdeɪndʒərəs ˈkeɪv]",
+          "linking": [
+            "strayed into - 語末 /d/ が母音 /ɪ/ に連結 [ˈstreɪd ˈɪntu]→「ストレイド イントゥ」",
+            "into a - 機能語 /ɪntu/ は弱形で /ɪntə/、冠詞 /ə/ 弱形 [ˈɪntə ə]→「イントゥ ア」",
+            "a dangerous - 冠詞 /ə/ は弱形 [ə ˈdeɪndʒərəs]→「ア デインジャラス」"
+          ],
+          "kana": "アイ ストレイド イントゥ ア デインジャラス ケイヴ"
+        },
+        {
+          "en": "My friend strayed away during the raid.",
+          "ja": "友達がレイド中に迷い出てしまった。",
+          "ipa": "[maɪ ˈfrɛnd ˈstreɪd əˈweɪ ˈdʊrɪŋ ðə ˈreɪd]",
+          "linking": [
+            "strayed away - 語末 /d/ が母音 /ə/ に連結 [ˈstreɪdə ˈweɪ]→「ストレイダ ウェイ」",
+            "during the - 機能語 /ðə/ は弱形で /ðə/、子音接続 [ˈdʊrɪŋ ðə]→「ジューリング ザ」",
+            "the raid - 冠詞 /ðə/ は弱形、語末 /d/ で未開放 [ðə ˈreɪd̚]→「ザ レイド」"
+          ],
+          "kana": "マイ フレンド ストレイダ ウェイ ジューリング ザ レイド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "strayed",
+      "ipa": "/streɪd/",
+      "examples": [
+        {
+          "en": "The strayed sheep was found near the farm.",
+          "ja": "迷い出たヒツジが農場の近くで見つかった。",
+          "ipa": "[ðə ˈstreɪd ʃip wəz ˈfaʊnd nɪɹ ðə ˈfɑɹm]",
+          "linking": [
+            "the strayed - 冠詞 /ðə/ は弱形 [ðə ˈstreɪd]→「ザ ストレイド」",
+            "strayed sheep - 語末 /d/ が子音 /ʃ/ に先行し未開放 [ˈstreɪd̚ ʃip]→「ストレイド シープ」",
+            "found near - 語末 /d/ が子音 /n/ に先行し未開放、near の /r/ は半母音的 [ˈfaʊn̚d ˈnɪɹ]→「ファウンド ニアー」"
+          ],
+          "kana": "ザ ストレイド シープ ワズ ファウンド ニアー ザ ファーム"
+        },
+        {
+          "en": "We rescued the strayed villager from the desert.",
+          "ja": "砂漠から迷い出た村人を救った。",
+          "ipa": "[wi ˈrɛskjud ðə ˈstreɪd ˈvɪlɪdʒɚ frəm ðə ˈdɛzɚt]",
+          "linking": [
+            "rescued the - 語末 /d/ が子音に先行し未開放 [ˈrɛskjud̚ ðə]→「レスキュード ザ」",
+            "the strayed - 冠詞 /ðə/ は弱形 [ðə ˈstreɪd]→「ザ ストレイド」",
+            "from the - from は弱形 /frəm/、冠詞 /ðə/ 弱形 [frəm ðə]→「フラム ザ」"
+          ],
+          "kana": "ウィー レスキュード ザ ストレイド ヴィレッジャー フラム ザ デザート"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "straying",
+      "ipa": "/ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "Straying from base camp is risky in the Nether.",
+          "ja": "ネザーではベースキャンプから迷い出ることは危険だ。",
+          "ipa": "[ˈstreɪɪŋ frəm ˈbeɪs kæmp ɪz ˈrɪski ɪn ðə ˈnɛðɚ]",
+          "linking": [
+            "straying from - 語末鼻音 /ŋ/ が子音 /f/ に先行（連結しない）[ˈstreɪɪŋ frəm]→「ストレイイング フラム」",
+            "base camp - 語末 /s/ が子音 /k/ に先行し未開放 [ˈbeɪs k̚æmp]→「ベイス キャンプ」",
+            "is risky - 語末 /z/ が子音 /r/ に先行（連結しない）[ɪz ˈrɪski]→「イズ リスキー」"
+          ],
+          "kana": "ストレイイング フラム ベイス キャンプ イズ リスキー イン ザ ネザー"
+        },
+        {
+          "en": "I saw hostile mobs straying into our protected area.",
+          "ja": "敵対的なモブが保護されたエリアに迷い込むのが見えた。",
+          "ipa": "[aɪ ˈsɔ ˈhɑstəl ˈmɑbz ˈstreɪɪŋ ˈɪntu ˈaʊɹ prəˈtɛktəd ˈɛriə]",
+          "linking": [
+            "mobs straying - 語末 /z/ が子音 /s/ に先行し未開放 [ˈmɑbz̚ ˈstreɪɪŋ]→「モブズ ストレイイング」",
+            "into our - 機能語 /ɪntu/ は弱形で /ɪntə/、/aʊɹ/ は連結 [ˈɪntə ˈaʊɹ]→「イントゥ アワー」",
+            "our protected - 語末 /ɹ/ が母音 /p/ に先行（連結しない）[ˈaʊɹ prəˈtɛktəd]→「アワー プロテクティド」"
+          ],
+          "kana": "アイ ソー ホスタル モブズ ストレイイング イントゥ アワー プロテクティド エアリア"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "strays",
+      "ipa": "/streɪz/",
+      "examples": [
+        {
+          "en": "Stray animals tend to gather near food sources.",
+          "ja": "野良動物は食料源の近くに集まりやすい。",
+          "ipa": "[ˈstreɪ ˈænɪməlz ˈtɛnd tu ˈɡæðɚ nɪɹ ˈfud ˈsɔɹsɪz]",
+          "linking": [
+            "animals tend - 語末 /z/ が子音 /t/ に先行し未開放 [ˈænɪməlz̚ ˈtɛnd]→「アニマルズ テンド」",
+            "to gather - 機能語 /tu/ は弱形で /tə/ [tə ˈɡæðɚ]→「タ ギャザー」",
+            "near food - 語末 /r/ が母音 /f/ へ連結（連結しない）[nɪɹ ˈfud]→「ニアー フード」"
+          ],
+          "kana": "ストレイ アニマルズ テンド タ ギャザー ニアー フード ソーシズ"
+        },
+        {
+          "en": "The strays in our world need protection from mobs.",
+          "ja": "私たちの世界の野良動物たちはモブから保護が必要だ。",
+          "ipa": "[ðə ˈstreɪz ɪn ˈaʊɹ ˈwɜɹld niːd prəˈtɛkʃən frəm ˈmɑbz]",
+          "linking": [
+            "the strays - 冠詞 /ðə/ は弱形 [ðə ˈstreɪz]→「ザ ストレイズ」",
+            "strays in - 語末 /z/ が母音 /ɪ/ に連結 [ˈstreɪz ɪn]→「ストレイズ イン」",
+            "from mobs - from は弱形 /frəm/、語末 /m/ が子音に先行し未開放 [frəm ˈmɑbz̚]→「フラム モブズ」"
+          ],
+          "kana": "ザ ストレイズ イン アワー ワールド ニード プロテクション フラム モブズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is straying",
+      "ipa": "/ɪz ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "The zombie is straying from the dark forest now.",
+          "ja": "ゾンビが今、暗い森からさまよい出ている。",
+          "ipa": "[ðə ˈzɑmbi ɪz ˈstreɪɪŋ frəm ðə ˈdɑɹk ˈfɔɹɪst ˈnaʊ]",
+          "linking": [
+            "is straying - is の弱形 /ɪz/ が straying の初頭 /s/ に続く（子音+子音）",
+            "straying from - straying の語末 /ŋ/ が from の初頭 /f/ に先行（連結しない）。from は弱形 /frəm/「フラム」",
+            "dark forest - dark の語末 /k/ が forest の初頭 /f/ に先行し未開放 [ˈdɑɹk̚ ˈfɔɹɪst]「ダーク フォリスト」"
+          ],
+          "kana": "ザ ゾンビ イズ ストレイング フラム ザ ダーク フォリスト ナウ"
+        },
+        {
+          "en": "I am straying too far from base camp in the desert.",
+          "ja": "私は砂漠のベースキャンプからあまりにも遠くに迷い出ている。",
+          "ipa": "[aɪ ˈæm ˈstreɪɪŋ tu ˈfɑɹ frəm ˈbeɪs kæmp ɪn ðə ˈdɛzɚt]",
+          "linking": [
+            "am straying - am の弱形 /æm/ が straying の初頭 /s/ に続く（子音+子音）",
+            "straying too - straying の語末 /ŋ/ が too の初頭 /t/ に先行（連結しない）",
+            "base camp - base の語末 /s/ が camp の初頭 /k/ に先行し未開放 [ˈbeɪs̚ kæmp]「ベイス キャンプ」"
+          ],
+          "kana": "アイ アム ストレイング トゥー ファー フラム ベイス キャンプ イン ザ デザート"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was straying",
+      "ipa": "/wəz ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "I was straying into dangerous territory when I spotted the creeper.",
+          "ja": "クリーパーを見つけたとき、私は危険な領域に迷い込んでいた。",
+          "ipa": "[aɪ ˈwəz ˈstreɪɪŋ ˈɪntu ˈdeɪndʒərəs ˈtɛɹətɔɹi wɛn aɪ ˈspɑtɪd ðə ˈkripɚ]",
+          "linking": [
+            "was straying - was の弱形 /wəz/ が straying の初頭 /s/ に続く（子音+子音）",
+            "straying into - straying の語末 /ŋ/ が into の初頭 /ɪ/ に連結 [ˈstreɪɪŋ ˈɪntu]「ストレイング イントゥ」",
+            "spotted the - spotted の語末 /d/ が the の初頭 /ð/ に先行し未開放 [ˈspɑtɪd̚ ðə]「スパッティド ザ」"
+          ],
+          "kana": "アイ ワズ ストレイング イントゥ デインジャラス テリトリー ウェン アイ スパッティド ザ クリーパー"
+        },
+        {
+          "en": "We were straying from our planned route through the Nether.",
+          "ja": "私たちはネザーで計画されたルートからはずれていた。",
+          "ipa": "[wi wɚ ˈstreɪɪŋ frəm ˈaʊɹ ˈplænd ˈrut θru ðə ˈnɛðɚ]",
+          "linking": [
+            "were straying - were の弱形 /wɚ/ が straying の初頭 /s/ に続く（子音+子音）",
+            "straying from - straying の語末 /ŋ/ が from の初頭 /f/ に先行（連結しない）。from は弱形 /frəm/「フラム」",
+            "planned route - planned の語末 /d/ が route の初頭 /r/ に先行し未開放 [ˈplæn̚d ˈrut]「プラン ルート」"
+          ],
+          "kana": "ウィー ワー ストレイング フラム アワー プラン ルート スルー ザ ネザー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been straying",
+      "ipa": "/həd ˈbɪn ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "The lost villager had been straying for three days before we found him.",
+          "ja": "迷った村人は私たちが彼を見つける3日前からさまよっていた。",
+          "ipa": "[ðə ˈloʊst ˈvɪlɪdʒɚ həd ˈbɪn ˈstreɪɪŋ fɔɹ ˈθri ˈdeɪz bɪˈfɔɹ wi ˈfaʊnd ɪm]",
+          "linking": [
+            "had been - had の弱形 /həd/ が been の弱形 /bɪn/ に接続。d が b 前で未開放 [həd̚ bɪn]「ハド ビン」",
+            "been straying - been の弱形 /bɪn/ が straying の初頭 /s/ に先行（子音+子音）",
+            "found him - found の語末 /d/ が him の初頭 /ɪ/ に続き未開放。him は弱形 /ɪm/「イム」で発音 [ˈfaʊn̚d ɪm]「ファウンド イム」"
+          ],
+          "kana": "ザ ロウスト ビリッジャー ハド ビン ストレイング ファー スリー デイズ ビフォア ウィー ファウンド イム"
+        },
+        {
+          "en": "They had been straying deeper into the mine shaft since early morning.",
+          "ja": "彼らは朝早くからずっと鉱山の奥深くへ迷い込んでいた。",
+          "ipa": "[ðeɪ həd ˈbɪn ˈstreɪɪŋ ˈdipɚ ˈɪntu ðə ˈmaɪn ˈʃæft sɪns ˈɝli ˈmɔɹnɪŋ]",
+          "linking": [
+            "had been - had の弱形 /həd/ が been の弱形 /bɪn/ に接続。d が b 前で未開放 [həd̚ bɪn]「ハド ビン」",
+            "been straying - been の弱形 /bɪn/ が straying の初頭 /s/ に先行（子音+子音）",
+            "straying deeper - straying の語末 /ŋ/ が deeper の初頭 /d/ に先行（連結しない）[ˈstreɪɪŋ ˈdipɚ]「ストレイング ディーパー」"
+          ],
+          "kana": "ザイ ハド ビン ストレイング ディーパー イントゥ ザ マイン シャフト シンス アーリー モーニング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has strayed",
+      "ipa": "/həz ˈstreɪd/",
+      "examples": [
+        {
+          "en": "The chicken has strayed from the farm.",
+          "ja": "ニワトリが農場からさまよい出た。",
+          "ipa": "[ðə ˈtʃɪkən həz ˈstreɪd frəm ðə ˈfɑɹm]",
+          "linking": [
+            "the chicken - 冠詞 /ðə/ は弱形 [ðə ˈtʃɪkən]→「ザ チキン」",
+            "has strayed - has の弱形 /həz/ が strayed の子音 /s/ に先行（連結しない）[həz ˈstreɪd]→「ハズ ストレイド」",
+            "from the - from は弱形 /frəm/、冠詞 /ðə/ 弱形 [frəm ðə]→「フラム ザ」"
+          ],
+          "kana": "ザ チキン ハズ ストレイド フラム ザ ファーム"
+        },
+        {
+          "en": "My pets have strayed into the enchanted forest.",
+          "ja": "ペットたちがエンチャント森に迷い込んだ。",
+          "ipa": "[maɪ ˈpɛts həv ˈstreɪd ˈɪntu ðə ɪnˈtʃæntəd ˈfɔɹəst]",
+          "linking": [
+            "have strayed - have の弱形 /həv/ が strayed の子音 /s/ に先行（連結しない）[həv ˈstreɪd]→「ハヴ ストレイド」",
+            "strayed into - 語末 /d/ が into の初頭 /ɪ/ に連結 [ˈstreɪd ˈɪntu]→「ストレイド イントゥ」",
+            "into the - into は弱形で /ɪntə/、冠詞 /ðə/ 弱形 [ˈɪntə ðə]→「イントゥ ザ」"
+          ],
+          "kana": "マイ ペッツ ハヴ ストレイド イントゥ ザ エンチャンティド フォリスト"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had strayed",
+      "ipa": "/həd ˈstreɪd/",
+      "examples": [
+        {
+          "en": "The creeper had strayed before it exploded near my base.",
+          "ja": "クリーパーが基地の近くで爆発する前に迷い出ていた。",
+          "ipa": "[ðə ˈkripɚ həd ˈstreɪd bɪˈfɔɹ ɪt ɪkˈsploʊdəd nɪɹ maɪ ˈbeɪs]",
+          "linking": [
+            "had strayed - had の弱形 /həd/ が strayed の子音 /s/ に先行（連結しない）[həd ˈstreɪd]→「ハド ストレイド」",
+            "before it - before の語末 /r/ が it の初頭 /ɪ/ に連結 [bɪˈfɔɹ ɪt]→「ビフォア イット」",
+            "near my - near の語末 /r/ が my の初頭 /m/ に先行（連結しない）[nɪɹ maɪ]→「ニアー マイ」"
+          ],
+          "kana": "ザ クリーパー ハド ストレイド ビフォア イット イクスプロウディド ニアー マイ ベイス"
+        },
+        {
+          "en": "They had strayed into the lava lake by morning.",
+          "ja": "彼らは朝までにラバ湖に迷い込んでいた。",
+          "ipa": "[ðeɪ həd ˈstreɪd ˈɪntu ðə ˈlɑvə ˈleɪk baɪ ˈmɔɹnɪŋ]",
+          "linking": [
+            "had strayed - had の弱形 /həd/ が strayed の子音 /s/ に先行（連結しない）[həd ˈstreɪd]→「ハド ストレイド」",
+            "strayed into - 語末 /d/ が into の初頭 /ɪ/ に連結 [ˈstreɪd ˈɪntu]→「ストレイド イントゥ」",
+            "lava lake - lava の語末 /ə/ が lake の初頭 /l/ に連結、lake に弱形なし [ˈlɑvə ˈleɪk]→「ラヴァ レイク」"
+          ],
+          "kana": "ザイ ハド ストレイド イントゥ ザ ラヴァ レイク バイ モーニング"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been straying",
+      "ipa": "/həz ˈbɪn ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "The sheep has been straying around the farm all week.",
+          "ja": "ヒツジは1週間中ずっと農場の周りをさまよい続けている。",
+          "ipa": "[ðə ʃip həz ˈbɪn ˈstreɪɪŋ əˈraʊnd ðə ˈfɑɹm ˈɔl ˈwik]",
+          "linking": [
+            "has been - has の弱形 /həz/ が been の弱形 /bɪn/ に接続。z は b 前で有声 [həz ˈbɪn]→「ハズ ビン」",
+            "been straying - been の弱形 /bɪn/ が straying の子音 /s/ に先行（連結しない）[ˈbɪn ˈstreɪɪŋ]→「ビン ストレイング」",
+            "around the - around の語末 /d/ が the の初頭 /ð/ に先行し未開放 [əˈraʊn̚d ðə]→「アラウンド ザ」"
+          ],
+          "kana": "ザ シープ ハズ ビン ストレイング アラウンド ザ ファーム オール ウィーク"
+        },
+        {
+          "en": "My friends have been straying deeper into the jungle for hours.",
+          "ja": "友達たちが何時間もずっとジャングルの奥へ迷い込み続けている。",
+          "ipa": "[maɪ ˈfrɛndz həv ˈbɪn ˈstreɪɪŋ ˈdipɚ ˈɪntu ðə ˈdʒʌŋɡəl fɔɹ ˈaʊɹz]",
+          "linking": [
+            "have been - have の弱形 /həv/ が been の弱形 /bɪn/ に接続 [həv ˈbɪn]→「ハヴ ビン」",
+            "been straying - been の弱形 /bɪn/ が straying の子音 /s/ に先行（連結しない）[ˈbɪn ˈstreɪɪŋ]→「ビン ストレイング」",
+            "straying deeper - straying の語末 /ŋ/ が deeper の初頭 /d/ に先行（連結しない）[ˈstreɪɪŋ ˈdipɚ]→「ストレイング ディーパー」"
+          ],
+          "kana": "マイ フレンズ ハヴ ビン ストレイング ディーパー イントゥ ザ ジャングル フォー アワーズ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will stray",
+      "ipa": "/wɪl ˈstreɪ/",
+      "examples": [
+        {
+          "en": "I'll stray too far from my base if I don't mark the path.",
+          "ja": "パスをマークしないと、私は基地から迷い出て遠くに行ってしまう。",
+          "ipa": "[aɪl ˈstreɪ tu ˈfɑɹ frəm maɪ ˈbeɪs ɪf aɪ ˈdoʊnt ˈmɑɹk ðə ˈpæθ]",
+          "linking": [
+            "I'll stray - I'll /aɪl/ が stray の子音 /s/ に先行（連結しない）[aɪl ˈstreɪ]→「アイル ストレイ」",
+            "from my - from は弱形 /frəm/、my /maɪ/ [frəm maɪ]→「フラム マイ」",
+            "don't mark - don't の語末 /t/ が mark の初頭 /m/ に先行し未開放 [ˈdoʊn̚t ˈmɑɹk]→「ドウント マーク」",
+            "mark the - mark の語末 /k/ が the の初頭 /ð/ に先行（連結しない）[ˈmɑɹk ðə]→「マーク ザ」"
+          ],
+          "kana": "アイル ストレイ トゥー ファー フラム マイ ベイス イフ アイ ドウント マーク ザ パス"
+        },
+        {
+          "en": "The sheep will stray into the lava if someone leaves the gate open.",
+          "ja": "誰かがゲートを開いたままにすると、ヒツジはラバの中に迷い出てしまう。",
+          "ipa": "[ðə ˈʃip wɪl ˈstreɪ ˈɪntu ðə ˈlɑvə ɪf ˈsʌmwən ˈlivz ðə ˈɡeɪt ˈoʊpən]",
+          "linking": [
+            "the sheep - 冠詞 /ðə/ 弱形 [ðə ˈʃip]→「ザ シープ」",
+            "will stray - will の弱形 /wɪl/ が stray の子音 /s/ に先行（連結しない）[wɪl ˈstreɪ]→「ウィル ストレイ」",
+            "into the - into は弱形で /ɪntə/、the は弱形 /ðə/ [ˈɪntə ðə]→「イントゥ ザ」",
+            "the gate - the は弱形 /ðə/ [ðə ˈɡeɪt]→「ザ ゲイト」"
+          ],
+          "kana": "ザ シープ ウィル ストレイ イントゥ ザ ラヴァ イフ サムワン リーヴズ ザ ゲイト オウペン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be straying",
+      "ipa": "/wɪl bi ˈstreɪɪŋ/",
+      "examples": [
+        {
+          "en": "The mobs will be straying around the perimeter while we're building.",
+          "ja": "私たちが建築している間、モブはペリメータの周りをさまよい続けるだろう。",
+          "ipa": "[ðə ˈmɑbz wɪl bi ˈstreɪɪŋ əˈraʊnd ðə pəˈrɪmɪtɚ waɪl wɪɹ ˈbɪldɪŋ]",
+          "linking": [
+            "the mobs - 冠詞 /ðə/ 弱形 [ðə ˈmɑbz]→「ザ モブズ」",
+            "will be - will の弱形 /wɪl/ が be の弱形 /bi/ に続く [wɪl bi]→「ウィル ビー」",
+            "be straying - be の弱形 /bi/ が straying の子音 /s/ に先行（連結しない）[bi ˈstreɪɪŋ]→「ビー ストレイング」",
+            "while we're - while の語末 /l/ が we're の弱形 /wɪɹ/ に続く（子音+子音）[waɪl wɪɹ]→「ワイル ウィア」"
+          ],
+          "kana": "ザ モブズ ウィル ビー ストレイング アラウンド ザ ペリメター ワイル ウィア ビルディング"
+        },
+        {
+          "en": "You'll be straying deeper into the cave system until you find diamonds.",
+          "ja": "ダイヤモンドを見つけるまで、あなたはどんどん洞窟の奥へ迷い込むだろう。",
+          "ipa": "[jul bi ˈstreɪɪŋ ˈdipɚ ˈɪntu ðə ˈkeɪv ˈsɪstəm ənˈtɪl ju ˈfaɪnd ˈdaɪməndz]",
+          "linking": [
+            "You'll be - You'll /jul/ が be の弱形 /bi/ に続く [jul bi]→「ユール ビー」",
+            "be straying - be の弱形 /bi/ が straying の子音 /s/ に先行（連結しない）[bi ˈstreɪɪŋ]→「ビー ストレイング」",
+            "into the - into は弱形で /ɪntə/、the は弱形 /ðə/ [ˈɪntə ðə]→「イントゥ ザ」",
+            "the cave - the は弱形 /ðə/ [ðə ˈkeɪv]→「ザ ケイヴ」"
+          ],
+          "kana": "ユール ビー ストレイング ディーパー イントゥ ザ ケイヴ システム アンティル ユー ファインド ダイモンズ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have strayed",
+      "ipa": "/wɪl həv ˈstreɪd/",
+      "examples": [
+        {
+          "en": "By sunrise, the hostile mobs will have strayed across the entire perimeter.",
+          "ja": "日の出までに、敵対的なモブはペリメータ全体をさまよい回ってしまう。",
+          "ipa": "[baɪ ˈsɑɹaɪz ðə ˈhɑstəl ˈmɑbz wɪl həv ˈstreɪd əˈkɹɔs ðə ɪnˈtaɪɚ pəˈrɪmɪtɚ]",
+          "linking": [
+            "by sunrise - by /baɪ/、sunrise /ˈsɑɹaɪz/ [baɪ ˈsɑɹaɪz]→「バイ サンライズ」",
+            "the mobs - 冠詞 /ðə/ 弱形 [ðə ˈmɑbz]→「ザ モブズ」",
+            "will have - will の弱形 /wɪl/ が have の弱形 /həv/ に続く [wɪl həv]→「ウィル ハヴ」",
+            "have strayed - have の弱形 /həv/ が strayed の子音 /s/ に先行（連結しない）[həv ˈstreɪd]→「ハヴ ストレイド」"
+          ],
+          "kana": "バイ サンライズ ザ ホスタル モブズ ウィル ハヴ ストレイド アクロス ザ インタイア ペリメター"
+        },
+        {
+          "en": "We will have strayed too deep into the cave system to find our way back.",
+          "ja": "私たちは洞窟システムの深すぎる場所に迷い込んでしまい、戻る道が見つからなくなるだろう。",
+          "ipa": "[wi wɪl həv ˈstreɪd tu ˈdip ˈɪntu ðə ˈkeɪv ˈsɪstəm tu ˈfaɪnd ˈaʊɹ ˈweɪ ˈbæk]",
+          "linking": [
+            "We will - We /wi/ が will の弱形 /wɪl/ に続く [wi wɪl]→「ウィ ウィル」",
+            "will have - will の弱形 /wɪl/ が have の弱形 /həv/ に続く [wɪl həv]→「ウィル ハヴ」",
+            "have strayed - have の弱形 /həv/ が strayed の子音 /s/ に先行（連結しない）[həv ˈstreɪd]→「ハヴ ストレイド」",
+            "to find - to は弱形 /tə/ [tə ˈfaɪnd]→「タ ファインド」"
+          ],
+          "kana": "ウィ ウィル ハヴ ストレイド トゥー ディープ イントゥ ザ ケイヴ システム トゥ ファインド アワー ウェイ バック"
+        }
+      ]
+    }
+  ]
+}

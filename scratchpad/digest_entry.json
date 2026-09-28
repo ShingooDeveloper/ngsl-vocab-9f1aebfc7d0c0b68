@@ -1,0 +1,522 @@
+{
+  "word": "digest",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/dɪˈdʒɛst/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "digest(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】(食物を)消化する（your stomach digests food→「あなたの胃が食べ物を消化する」）",
+    "【動詞】(情報・知識など)を理解する、吸収する（digest information→「情報を理解する」）",
+    "【名詞】要約、摘要、ダイジェスト版（a book digest→「本のダイジェスト」）",
+    "【名詞】定期刊行の抜粋集、ダイジェスト（a weekly digest→「週刊ダイジェスト」）"
+  ],
+  "examples": [
+    {
+      "example": "You need to eat meat and digest it quickly before mining deeper into the cave.",
+      "example_ja": "洞窟をさらに深く採掘する前に、肉を食べて素早く消化する必要があります。",
+      "ipa": "/ju nid tu it mit ənd ˈdɪdʒɛst ɪt ˈkwɪkli bɪˈfɔɹ ˈmaɪnɪŋ ˈdipɚ ˈɪntu ðə keɪv/",
+      "linking": [
+        "eat meat: t が子音に続き、リンキングなし。but eat /it/ の /t/ が次の /m/ に先行",
+        "meat and: t が母音 /ə/ に連結（and の弱形）[mit ənd]",
+        "and digest: d が母音に連結 [əndɪˈdʒɛst]",
+        "before mining: フラップ化により /ɹ/ が [bɪˈfɔɹə]"
+      ],
+      "kana": "ユー ニード トゥ イート ミート エン ディジェスト イット クウィックリー ビフォア マイニング ディーパー インテュー ザ ケイヴ"
+    },
+    {
+      "example": "Digesting nutrients from bread and golden apples helps restore your health bar after a fight.",
+      "example_ja": "パンと金のリンゴから栄養を消化することは、戦闘後にあなたのヘルスバーを回復するのに役立ちます。",
+      "ipa": "/ˈdɪdʒɛstɪŋ ˈnutriənts frəm brɛd ənd ˈɡoʊldən ˈæpəlz hɛlps rɪˈstɔɹ jɔɹ ˈhɛlθ bɑɹ ˈæftɚ ə faɪt/",
+      "linking": [
+        "Digesting nutrients: g が子音に続く、t がフラップ化（g と n の間で）[ˈdɪdʒɛstɪŋ ˈnutriənts]",
+        "from bread: m が子音に続く。bread /brɛd/ の d が次の and の母音に連結 [frəm brɛd ənd]",
+        "help restore: p が子音に続く。restore の /ɹ/ がフラップ化 [hɛlps rɪˈstɔɹ]",
+        "after a: r が母音に連結 [ˈæftɚə]"
+      ],
+      "kana": "ディジェスティング ニュートリエンツ フラム ブレッド エン ゴールデン アップルズ ヘルプス リストア ユワー ヘルス バー アフター ア ファイト"
+    },
+    {
+      "example": "I need to digest all these Redstone concepts and tutorials before I can build a working piston door.",
+      "example_ja": "ピストンドアを構築できる前に、これらすべてのレッドストーンの概念とチュートリアルを理解する必要があります。",
+      "ipa": "/aɪ nid tu ˈdɪdʒɛst ɔl ðiz ˈrɛdstəʊn ˈkɑnsɛpts ənd ˈtutɔɹiəlz bɪˈfɔɹ aɪ kən bɪld ə ˈwɜɹkɪŋ ˈpɪstən dɔɹ/",
+      "linking": [
+        "need to: d が弱形 to /tə/ に先行。to は機能語なので弱形 [nid tə]",
+        "to digest: weak form to が digest /dɪˈdʒɛst/ に続く",
+        "all these: リンキングなし（子音+子音）。these の s が続く z",
+        "can build: n が子音に続く。働く働く、リンキングなし [kən bɪld]"
+      ],
+      "kana": "アイ ニード ター ディジェスト オール ディーズ レッドストーン コンセプツ エン チュートーリアルズ ビフォア アイ キャン ビルド ア ワーキング ピストン ドア"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "digest information",
+      "ja": "情報を理解する、情報を吸収する",
+      "example": "I need time to digest all the changes in the new Minecraft update.",
+      "example_ja": "新しいマインクラフトアップデートのすべての変更を理解するのに時間が必要です。",
+      "ipa": "/aɪ nid taɪm tu ˈdɪdʒɛst ɔl ðə ˈtʃeɪndʒɪz ɪn ðə nu ˈmaɪnkræft ʌpˈdeɪt/",
+      "linking": [
+        "to digest: weak form to が digest に続く",
+        "all the: リンキングなし。the の弱形 /ðə/ [ɔl ðə]",
+        "the changes: 定冠詞 the /ðə/ が /tʃ/ に先行",
+        "new Minecraft: リンキングなし（子音+子音）"
+      ],
+      "kana": "アイ ニード タイム ター ディジェスト オール ザ チェンジズ イン ザ ニュー マインクラフト アップデイト"
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "digests",
+      "ipa": "/ˈdɪdʒɛsts/",
+      "examples": [
+        {
+          "en": "Your furnace digests ores into ingots when you smelt them.",
+          "ja": "製錬する際に、あなたのかまどは鉱石をインゴットに変える。",
+          "ipa": "/jɔɹ ˈfɜɹnəs ˈdɪdʒɛsts ˈoɹz ˈɪntu ˈɪŋɡɑts wɛn ju smɛlt ðɛm/",
+          "linking": [
+            "Your furnace: s が子音に先行、フラップ化なし。furnace /ˈfɜɹnəs/ の語末 s が母音の ores に続くか→no、oの母音へ「ナス」と続く",
+            "furnace digests: s が母音 /ɛ/ に連結 [ˈfɜɹnəs ˈdɪdʒɛsts]",
+            "digests ores: s が子音に続き、リンキングなし [ˈdɪdʒɛsts ˈoɹz]",
+            "into ingots: t が母音に連結 [ˈɪntu ˈɪŋɡɑts]"
+          ],
+          "kana": "ユワー ファーネス ディジェスツ オーズ イントゥー イングゴッツ ウェン ユー スメルト ゼム"
+        },
+        {
+          "en": "She digests information from the wiki before fighting the Ender Dragon.",
+          "ja": "エンダードラゴンと戦う前に、彼女はウィキから情報を吸収する。",
+          "ipa": "/ʃi ˈdɪdʒɛsts ˌɪnfɚˈmeɪʃən frəm ðə ˈwɪki bɪˈfɔɹ ˈfaɪtɪŋ ðə ˈɛndɚ ˈdræɡən/",
+          "linking": [
+            "She digests: フラップ化/連結なし（他の音へ）[ʃi ˈdɪdʒɛsts]",
+            "digests information: s が母音に連結 [ˈdɪdʒɛsts ˌɪnfɚˈmeɪʃən]",
+            "from the: m が弱い /ðə/ に先行。the は弱形 [frəm ðə]",
+            "before fighting: r が母音に連結 [bɪˈfɔɹə]"
+          ],
+          "kana": "シー ディジェスツ インファメーション フラム ザ ウィキ ビフォア ファイティング ザ エンダー ドラゴン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "digested",
+      "ipa": "/dɪˈdʒɛstɪd/",
+      "examples": [
+        {
+          "en": "I digested the raw meat and regained my health points after the battle.",
+          "ja": "戦闘後に生肉を消化して、ヘルスポイントを回復した。",
+          "ipa": "/aɪ dɪˈdʒɛstɪd ðə ɹɔ mit ənd rɪˈɡeɪnd maɪ ˈhɛlθ pɔɪnts ˈæftɚ ðə ˈbætəl/",
+          "linking": [
+            "I digested: 語末 /d/ が母音に連結→digested の前の /d/ は既に母音。I /aɪ/ が digested に続く [aɪ dɪˈdʒɛstɪd]",
+            "digested the: /d/ が弱い the /ðə/ に連結 [dɪˈdʒɛstɪd ðə]",
+            "the raw: 語末 /ə/ が母音に連結 [ðə ɹɔ]",
+            "regained my: d が母音に連結 [rɪˈɡeɪnd maɪ]"
+          ],
+          "kana": "アイ ディジェスティド ザ ロー ミート エン リゲインド マイ ヘルス ポインツ アフター ザ バトゥル"
+        },
+        {
+          "en": "He digested all the survival tips and building strategies before the session started.",
+          "ja": "セッションが始まる前に、彼はサバイバルのコツとビルディング戦略をすべて吸収した。",
+          "ipa": "/hi dɪˈdʒɛstɪd ɔl ðə sɚˈvaɪvəl tɪps ənd ˈbɪldɪŋ ˈstrætədʒiz bɪˈfɔɹ ðə ˈsɛʃən ˈstɑɹtɪd/",
+          "linking": [
+            "He digested: フラップ化なし [hi dɪˈdʒɛstɪd]",
+            "digested all: /d/ が母音に連結 [dɪˈdʒɛstɪd ɔl]",
+            "all the: リンキングなし（子音+弱い音）[ɔl ðə]",
+            "started: 過去形 -ed、最後 /d/ が続く音へ。フラップなし [ˈstɑɹtɪd]"
+          ],
+          "kana": "ヒー ディジェスティド オール ザ サーバイバル ティップス エン ビルディング ストラタジーズ ビフォア ザ セッション スターティド"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "digested",
+      "ipa": "/dɪˈdʒɛstɪd/",
+      "examples": [
+        {
+          "en": "The nutrients have been digested and converted into energy for your next adventure.",
+          "ja": "栄養は消化され、次の冒険のためのエネルギーに変換されました。",
+          "ipa": "/ðə ˈnutriənts hæv bɪn dɪˈdʒɛstɪd ənd kənˈvɜɹtɪd ˈɪntu ˈɛnɚdʒi fɚ jɔɹ nɛkst ədˈvɛntʃɚ/",
+          "linking": [
+            "have been: v が母音に連結 [hæv bɪn]",
+            "been digested: /n/ が母音に連結 [bɪn dɪˈdʒɛstɪd]",
+            "digested and: /d/ が母音に連結 [dɪˈdʒɛstɪd ənd]",
+            "for your: r が母音に連結 [fɚ jɔɹ]"
+          ],
+          "kana": "ザ ニュートリエンツ ハヴ ビン ディジェスティド エン コンバーティド イントゥー エナジー ファ ユワー ネクスト アドベンチャー"
+        },
+        {
+          "en": "Once the information has been digested by the team, we can plan our next structure.",
+          "ja": "チームが情報を吸収したら、次の建造物を計画できます。",
+          "ipa": "/wʌns ðə ˌɪnfɚˈmeɪʃən hæz bɪn dɪˈdʒɛstɪd baɪ ðə tim wi kæn plæn aɪ wɚ nɛkst ˈstrʌktʃɚ/",
+          "linking": [
+            "has been: z が母音に連結 [hæz bɪn]",
+            "been digested: n が母音に連結 [bɪn dɪˈdʒɛstɪd]",
+            "digested by: /d/ が母音に連結 [dɪˈdʒɛstɪd baɪ]",
+            "the team: 弱い the /ðə/ が t に先行。team の t が続く [ðə tim]"
+          ],
+          "kana": "ワンス ザ インファメーション ハズ ビン ディジェスティド バイ ザ ティーム ウィー キャン プラン アワー ネクスト ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "digesting",
+      "ipa": "/dɪˈdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "Digesting the golden apples will restore your health bar faster than usual.",
+          "ja": "金のリンゴを消化することで、通常より速くヘルスバーが回復します。",
+          "ipa": "/dɪˈdʒɛstɪŋ ðə ˈɡoʊldən ˈæpəlz wɪl rɪˈstɔɹ jɔɹ ˈhɛlθ bɑɹ ˈfæstɚ ðən ˈjuʒuəl/",
+          "linking": [
+            "Digesting the: /ŋ/ が弱い the /ðə/ に先行。ŋ→n 弁別。the は弱形 [dɪˈdʒɛstɪŋ ðə]",
+            "golden apples: n が母音に連結 [ˈɡoʊldən ˈæpəlz]",
+            "will restore: r が母音に連結 [wɪl rɪˈstɔɹ]",
+            "than usual: n が母音に連結 [ðən ˈjuʒuəl]"
+          ],
+          "kana": "ディジェスティング ザ ゴールデン アップルズ ウィル リストア ユワー ヘルス バー ファスター ザン ユージュアル"
+        },
+        {
+          "en": "While digesting the concepts of redstone logic, you can experiment with repeaters and comparators.",
+          "ja": "レッドストーンロジックの概念を吸収しながら、リピーターとコンパレーターで実験できます。",
+          "ipa": "/waɪl dɪˈdʒɛstɪŋ ðə ˈkɑnsɛpts əv ˈrɛdstəʊn ˈlɑdʒɪk ju kən ˌɛkspɛɹɪˈmɛnt wɪð ɹɪˈpitɚz ənd kəmˈpæɹətɚz/",
+          "linking": [
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [dɪˈdʒɛstɪŋ ðə]",
+            "concepts of: t が語末、次の /əv/ に連結（of の弱形）[ˈkɑnsɛpts əv]",
+            "you can: フラップ化なし。can は弱形 /kən/ [ju kən]",
+            "with repeaters: θ が母音に連結 [wɪð ɹɪˈpitɚz]"
+          ],
+          "kana": "ワイル ディジェスティング ザ コンセプツ アヴ レッドストーン ロジック ユー キャン エクスペリメント ウィズ リピーターズ エン コンペアラターズ"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "digests",
+      "ipa": "/ˈdɪdʒɛsts/",
+      "examples": [
+        {
+          "en": "The weekly digests of patch notes help players understand all the updates and changes.",
+          "ja": "パッチノートの週刊ダイジェストは、プレイヤーがすべてのアップデートと変更を理解するのに役立ちます。",
+          "ipa": "/ðə ˈwikli ˈdɪdʒɛsts əv pætʃ noʊts hɛlp ˈpleɪɚz ˌʌndɚˈstænd ɔl ðə ʌpˈdeɪts ənd ˈtʃeɪndʒɪz/",
+          "linking": [
+            "weekly digests: リンキングなし（子音+子音）。s が続く s [ˈwikli ˈdɪdʒɛsts]",
+            "digests of: s が弱い of /əv/ に先行 [ˈdɪdʒɛsts əv]",
+            "patch notes: t が母音に連結 [pætʃ noʊts]",
+            "help players: p が母音に連結 [hɛlp ˈpleɪɚz]"
+          ],
+          "kana": "ザ ウィークリー ディジェスツ アヴ パッチ ノーツ ヘルプ プレイヤーズ アンダースタンド オール ザ アップデイツ エン チェンジズ"
+        },
+        {
+          "en": "These recipe digests contain all the crafting formulas and cooking methods you need.",
+          "ja": "これらのレシピダイジェストには、必要なすべてのクラフティングフォーミュラと調理方法が含まれています。",
+          "ipa": "/ðiz ˈrɛsɪpi ˈdɪdʒɛsts kənˈteɪn ɔl ðə ˈkræftɪŋ ˈfɔɹmjələz ənd ˈkʊkɪŋ ˈmɛθədz ju nid/",
+          "linking": [
+            "recipe digests: リンキングなし（e 音が子音に続く）。e が digests に続く子音へ [ˈrɛsɪpi ˈdɪdʒɛsts]",
+            "digests contain: s が母音に連結 [ˈdɪdʒɛsts kənˈteɪn]",
+            "contain all: n が母音に連結 [kənˈteɪn ɔl]",
+            "cooking methods: フラップ化により /ŋ/ が ng。methods の /m/ に続く [ˈkʊkɪŋ ˈmɛθədz]"
+          ],
+          "kana": "ディーズ レシピ ディジェスツ コンテイン オール ザ クラフティング フォーミュラズ エン クッキング メサッズ ユー ニード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has digested",
+      "ipa": "/həz dɪˈdʒɛstɪd/",
+      "examples": [
+        {
+          "en": "I have digested the raw meat and my health is now fully restored.",
+          "ja": "生肉を消化して、私のヘルスが完全に回復しました。",
+          "ipa": "/aɪ həv dɪˈdʒɛstɪd ðə ɹɔ mit ənd maɪ hɛlθ ɪz naʊ ˈfuli rɪˈstɔɹd/",
+          "linking": [
+            "have digested: v が母音に連結 [həv dɪˈdʒɛstɪd]",
+            "digested the: /d/ が弱い the /ðə/ に連結 [dɪˈdʒɛstɪd ðə]",
+            "meat and: t が弱形 and /ən/ に連結 [mit ənd]",
+            "now fully: w が母音に連結 [naʊ ˈfuli]"
+          ],
+          "kana": "アイ ハヴ ディジェスティド ザ ロー ミート エン マイ ヘルス イズ ナウ フーリー リストアド"
+        },
+        {
+          "en": "She has digested all the Redstone tutorial concepts and now understands circuit logic perfectly.",
+          "ja": "彼女はすべてのレッドストーンチュートリアルの概念を理解し、回路ロジックを完璧に理解できるようになりました。",
+          "ipa": "/ʃi həz dɪˈdʒɛstɪd ɔl ðə ˈrɛdstəʊn ˈtutɔɹiəl ˈkɑnsɛpts ənd naʊ ʌndɚˈstændz ˈsɜɹkɪt ˈlɑdʒɪk ˈpɜɹfɪktli/",
+          "linking": [
+            "has digested: z が母音に連結 [həz dɪˈdʒɛstɪd]",
+            "digested all: /d/ が母音に連結 [dɪˈdʒɛstɪd ɔl]",
+            "tutorial concepts: リンキングなし（子音+子音）[ˈtutɔɹiəl ˈkɑnsɛpts]",
+            "and now: d が母音に連結 [ənd naʊ]"
+          ],
+          "kana": "シー ハズ ディジェスティド オール ザ レッドストーン チュートーリアル コンセプツ エン ナウ アンダースタンズ サーキット ロジック パーフェクトリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had digested",
+      "ipa": "/həd dɪˈdʒɛstɪd/",
+      "examples": [
+        {
+          "en": "Once I had digested the raw meat, I could continue mining deeper into the cave without getting hungry.",
+          "ja": "生肉を消化した後、空腹になることなく洞窟をさらに深く採掘し続けることができました。",
+          "ipa": "/wʌns aɪ həd dɪˈdʒɛstɪd ðə ɹɔ mit aɪ kʊd kənˈtɪnju ˈmaɪnɪŋ ˈdipɚ ˈɪntu ðə keɪv wɪðaʊt ˈɡɛtɪŋ ˈhʌŋɡri/",
+          "linking": [
+            "had digested: d が母音に連結 [həd dɪˈdʒɛstɪd]",
+            "digested the: /d/ が弱い the /ðə/ に連結 [dɪˈdʒɛstɪd ðə]",
+            "into the: t が弱い the /ðə/ に連結 [ˈɪntu ðə]",
+            "without getting: t が母音に連結 [wɪðaʊt ˈɡɛtɪŋ]"
+          ],
+          "kana": "ワンス アイ ハド ディジェスティド ザ ロー ミート アイ クッド コンティニュー マイニング ディーパー イントゥー ザ ケイヴ ウィザウト ゲティング ハングリー"
+        },
+        {
+          "en": "The team had digested all the building strategies before they started constructing the massive castle.",
+          "ja": "チームはその巨大な城を構築し始める前に、すべての建築戦略を理解していました。",
+          "ipa": "/ðə tim həd dɪˈdʒɛstɪd ɔl ðə ˈbɪldɪŋ ˈstrætədʒiz bɪˈfɔɹ ðeɪ ˈstɑɹtɪd kənˈstrʌktɪŋ ðə məˈsɪv ˈkæsəl/",
+          "linking": [
+            "had digested: d が母音に連結 [həd dɪˈdʒɛstɪd]",
+            "digested all: /d/ が母音に連結 [dɪˈdʒɛstɪd ɔl]",
+            "before they: r が母音に連結 [bɪˈfɔɹ ðeɪ]",
+            "massive castle: v が母音に連結 [məˈsɪv ˈkæsəl]"
+          ],
+          "kana": "ザ ティーム ハド ディジェスティド オール ザ ビルディング ストラタジーズ ビフォア ゼイ スターティド コンストラクティング ザ マッシヴ キャッスル"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been digesting",
+      "ipa": "/həz bɪn dɪˈdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "He has been digesting all the Redstone concepts since the update was released yesterday.",
+          "ja": "昨日アップデートがリリースされて以来、彼はすべてのレッドストーンの概念を理解し続けています。",
+          "ipa": "/hi həz bɪn dɪˈdʒɛstɪŋ ɔl ðə ˈrɛdstəʊn ˈkɑnsɛpts sɪns ðə ʌpˈdeɪt wəz rɪˈlɪst ˈjɛstɚdeɪ/",
+          "linking": [
+            "has been: z が弱形 been /bɪn/ に連結 [həz bɪn]",
+            "been digesting: n が母音に連結 [bɪn dɪˈdʒɛstɪŋ]",
+            "digesting all: /ŋ/ が母音に連結 [dɪˈdʒɛstɪŋ ɔl]",
+            "since the: リンキングなし（子音+子音）[sɪns ðə]"
+          ],
+          "kana": "ヒー ハズ ビン ディジェスティング オール ザ レッドストーン コンセプツ シンス ザ アップデイト ワズ リリースト イェスターデイ"
+        },
+        {
+          "en": "We have been digesting the new farming mechanics and building techniques all week long.",
+          "ja": "私たちは一週間中、新しい農業メカニクスと建築技術を理解し続けています。",
+          "ipa": "/wi həv bɪn dɪˈdʒɛstɪŋ ðə nu ˈfɑɹmɪŋ məˈkænɪks ənd ˈbɪldɪŋ tɛkˈnik əl wik lɔŋ/",
+          "linking": [
+            "have been: v が弱形 been /bɪn/ に連結 [həv bɪn]",
+            "been digesting: n が母音に連結 [bɪn dɪˈdʒɛstɪŋ]",
+            "farming mechanics: /ŋ/ が m に連結。リンキングなし（子音+子音）[ˈfɑɹmɪŋ məˈkænɪks]",
+            "all week: l が母音に連結 [ɔl wik]"
+          ],
+          "kana": "ウィー ハヴ ビン ディジェスティング ザ ニュー ファーミング メカニクス エン ビルディング テクニーク オール ウィーク ロング"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is digesting",
+      "ipa": "/ɪz ˈdɪdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "Your character is digesting the food you just ate to regain health points.",
+          "ja": "あなたのキャラクターは、ヘルスポイントを回復するために、たった今食べた食べ物を消化しています。",
+          "ipa": "/jɔɹ ˈkærɪktɚ ɪz ˈdɪdʒɛstɪŋ ðə fud ju dʒʌst eɪt tu rɪˈɡeɪn ˈhɛlθ pɔɪnts/",
+          "linking": [
+            "Your character: r が母音に連結 [jɔɹ ˈkærɪktɚ]",
+            "character is: r が弱形 is /ɪz/ に連結 [ˈkærɪktɚ ɪz]",
+            "is digesting: z が母音に連結 [ɪz ˈdɪdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [dɪˈdʒɛstɪŋ ðə]"
+          ],
+          "kana": "ユワー キャラクター イズ ディジェスティング ザ フード ユー ジャスト エイト トゥ リゲイン ヘルス ポインツ"
+        },
+        {
+          "en": "While you are digesting the golden apples, you can continue building your new structure.",
+          "ja": "金のリンゴを消化している間に、新しい建造物を建て続けることができます。",
+          "ipa": "/waɪl ju ɑɹ dɪˈdʒɛstɪŋ ðə ˈɡoʊldən ˈæpəlz ju kən kənˈtɪnju ˈbɪldɪŋ jɔɹ nu ˈstrʌktʃɚ/",
+          "linking": [
+            "you are: r が母音に連結 [ju ɑɹ]",
+            "are digesting: r が母音に連結 [ɑɹ dɪˈdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [dɪˈdʒɛstɪŋ ðə]",
+            "you can: リンキングなし。can は弱形 /kən/ [ju kən]"
+          ],
+          "kana": "ワイル ユー アー ディジェスティング ザ ゴールデン アップルズ ユー キャン コンティニュー ビルディング ユワー ニュー ストラクチャー"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was digesting",
+      "ipa": "/wəz ˈdɪdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I was digesting the raw meat when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したとき、生肉を消化していました。",
+          "ipa": "/aɪ wəz ˈdɪdʒɛstɪŋ ðə ɹɔ mit wɛn ðə ˈkripɚ ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "I was: z が母音に連結。was は弱形 /wəz/ [aɪ wəz]",
+            "was digesting: z が母音に連結 [wəz ˈdɪdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [dɪˈdʒɛstɪŋ ðə]",
+            "creeper exploded: r が母音に連結 [ˈkripɚ ɪkˈsploʊdɪd]"
+          ],
+          "kana": "アイ ワズ ディジェスティング ザ ロー ミート ウェン ザ クリーパー イクスプロウディド ニアーバイ"
+        },
+        {
+          "en": "They were digesting the tutorial information when the server crashed unexpectedly.",
+          "ja": "サーバーが予期せずクラッシュしたとき、彼らはチュートリアル情報を理解していました。",
+          "ipa": "/ðeɪ wɚ ˈdɪdʒɛstɪŋ ðə ˈtutɔɹiəl ˌɪnfɚˈmeɪʃən wɛn ðə ˈsɜɹvɚ kræʃt ʌnɪkˈspɛktɪdli/",
+          "linking": [
+            "They were: r が母音に連結。were は弱形 /wɚ/ [ðeɪ wɚ]",
+            "were digesting: r が母音に連結 [wɚ ˈdɪdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [dɪˈdʒɛstɪŋ ðə]",
+            "server crashed: r が母音に連結 [ˈsɜɹvɚ kræʃt]"
+          ],
+          "kana": "ゼイ ワー ディジェスティング ザ チュートーリアル インファメーション ウェン ザ サーバー クラッシュト アニクスペクティドリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been digesting",
+      "ipa": "/həd bɪn ˈdɪdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "I had been digesting all the Redstone mechanics for hours before I finally understood the circuit logic.",
+          "ja": "回路ロジックをやっと理解する前に、レッドストーンメカニクスをずっと理解し続けていました。",
+          "ipa": "/aɪ həd bɪn ˈdɪdʒɛstɪŋ ɔl ðə ˈrɛdstəʊn məˈkænɪks fɔɹ ˈaʊɚz bɪˈfɔɹ aɪ ˈfaɪnəli ʌndɚˈstʊd ðə ˈsɜɹkɪt ˈlɑdʒɪk/",
+          "linking": [
+            "had been: d が弱形 been /bɪn/ に連結 [həd bɪn]",
+            "been digesting: n が母音に連結 [bɪn ˈdɪdʒɛstɪŋ]",
+            "digesting all: /ŋ/ が母音に連結 [ˈdɪdʒɛstɪŋ ɔl]",
+            "before I: r が母音に連結 [bɪˈfɔɹ aɪ]"
+          ],
+          "kana": "アイ ハド ビン ディジェスティング オール ザ レッドストーン メカニクス フォア アワーズ ビフォア アイ ファイナリー アンダースツッド ザ サーキット ロジック"
+        },
+        {
+          "en": "She had been digesting the farming guide for days when she was ready to plant her first crop.",
+          "ja": "彼女は最初の作物を植える準備ができたとき、農業ガイドをずっと理解し続けていました。",
+          "ipa": "/ʃi həd bɪn ˈdɪdʒɛstɪŋ ðə ˈfɑɹmɪŋ ɡaɪd fɔɹ deɪz wɛn ʃi wəz ˈrɛdi tu plænt hɚ fɜɹst krɑp/",
+          "linking": [
+            "had been: d が弱形 been /bɪn/ に連結 [həd bɪn]",
+            "been digesting: n が母音に連結 [bɪn ˈdɪdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [ˈdɪdʒɛstɪŋ ðə]",
+            "when she: n が母音に先行する鼻音未開放。she の sh に続く [wɛn̚ ʃi]"
+          ],
+          "kana": "シー ハド ビン ディジェスティング ザ ファーミング ガイド フォア デイズ ウェン シー ワズ レディ トゥ プラント ハー ファースト クラップ"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will digest",
+      "ipa": "/wɪl ˈdɪdʒɛst/",
+      "examples": [
+        {
+          "en": "I will digest the cooked beef and regain my health points before facing the Ender Dragon.",
+          "ja": "エンダードラゴンに対処する前に、焼いた牛肉を消化してヘルスポイントを回復します。",
+          "ipa": "/aɪ wɪl ˈdɪdʒɛst ðə ˈkʊkt bif ənd rɪˈɡeɪn maɪ ˈhɛlθ pɔɪnts bɪˈfɔɹ ˈfeɪsɪŋ ðə ˈɛndɚ ˈdræɡən/",
+          "linking": [
+            "will → 主語と縮約されることが多い（I'll/you'll/we'll/they'll/he'll/she'll/it'll）。/l/ が次の /d/ に先行し、未開放 [aɪl̚ ˈdɪdʒɛst]",
+            "cooked beef: /t/ が子音に先行し、リンキングなし [ˈkʊkt bif]",
+            "beef and: /f/ が母音 /ə/ に連結 [bif ənd]",
+            "before the: /r/ が母音に連結 [bɪˈfɔɹ ðə]"
+          ],
+          "kana": "アイ ウィル ディジェスト ザ クッキット ビーフ エン リゲイン マイ ヘルス ポインツ ビフォア フェイシング ザ エンダー ドラゴン"
+        },
+        {
+          "en": "She will digest all the building tutorials and master redstone circuits by next season.",
+          "ja": "彼女は次のシーズンまでにすべての建築チュートリアルを理解し、レッドストーン回路をマスターします。",
+          "ipa": "/ʃi wɪl ˈdɪdʒɛst ɔl ðə ˈbɪldɪŋ ˈtutɔɹiəlz ənd ˈmæstɚ ˈrɛdstəʊn ˈsɜɹkɪts baɪ nɛkst ˈsizən/",
+          "linking": [
+            "will digest: /l/ が母音に先行、未開放 [wɪl̚ ˈdɪdʒɛst]",
+            "digest all: /t/ が母音に連結 [ˈdɪdʒɛst ɔl]",
+            "building tutorials: リンキングなし（子音+子音）。tutorials の /l/ がフラップ化 [ˈbɪldɪŋ ˈtutɔɹiəlz]",
+            "master redstone: /r/ が母音に連結 [ˈmæstɚ ˈrɛdstəʊn]"
+          ],
+          "kana": "シー ウィル ディジェスト オール ザ ビルディング チュートーリアルズ エン マスター レッドストーン サーキッツ バイ ネクスト シーズン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be digesting",
+      "ipa": "/wɪl bi ˈdɪdʒɛstɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow while you're mining, you will be digesting the cooked food in your inventory and slowly regaining health.",
+          "ja": "明日採掘している間に、あなたはインベントリの調理済み食料を消化してゆっくりヘルスを回復します。",
+          "ipa": "/təˈmɑɹoʊ waɪl jɔɹ ˈmaɪnɪŋ ju wɪl bi ˈdɪdʒɛstɪŋ ðə ˈkʊkt fud ɪn jɔɹ ɪnˈvɛntɚi ənd ˈsloʊli rɪˈɡeɪnɪŋ ˈhɛlθ/",
+          "linking": [
+            "will be: /l/ が /b/ に先行し、未開放。be は弱形 [wɪl̚ bi]",
+            "be digesting: /i/ が母音に連結 [bi ˈdɪdʒɛstɪŋ]",
+            "digesting the: /ŋ/ が弱い the /ðə/ に先行 [ˈdɪdʒɛstɪŋ ðə]",
+            "slowly regaining: /i/ が母音に連結 [ˈsloʊli rɪˈɡeɪnɪŋ]"
+          ],
+          "kana": "トゥモロー ワイル ユワー マイニング ユー ウィル ビー ディジェスティング ザ クッキット フード イン ユワー インベントリー エン スロウリー リゲイニング ヘルス"
+        },
+        {
+          "en": "While you're resting in your house tonight, you will be digesting all the farming concepts from the tutorial.",
+          "ja": "今晩あなたの家で休んでいる間に、チュートリアルから農業の概念をすべて理解し続けます。",
+          "ipa": "/waɪl jɔɹ ˈrɛstɪŋ ɪn jɔɹ haʊs təˈnaɪt ju wɪl bi ˈdɪdʒɛstɪŋ ɔl ðə ˈfɑɹmɪŋ ˈkɑnsɛpts frəm ðə ˈtutɔɹiəl/",
+          "linking": [
+            "will be: /l/ が /b/ に先行し、未開放 [wɪl̚ bi]",
+            "be digesting: /i/ が母音に連結 [bi ˈdɪdʒɛstɪŋ]",
+            "digesting all: /ŋ/ が母音に連結 [ˈdɪdʒɛstɪŋ ɔl]",
+            "from the: /m/ が弱い the /ðə/ に先行 [frəm ðə]"
+          ],
+          "kana": "ワイル ユワー レスティング イン ユワー ハウス トゥナイト ユー ウィル ビー ディジェスティング オール ザ ファーミング コンセプツ フラム ザ チュートーリアル"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have digested",
+      "ipa": "/wɪl həv ˈdɪdʒɛstɪd/",
+      "examples": [
+        {
+          "en": "By the time you finish the tutorial, you will have digested all the basic survival strategies and techniques.",
+          "ja": "チュートリアルを終了するまでに、すべての基本的なサバイバル戦略と技術を理解しているでしょう。",
+          "ipa": "/baɪ ðə taɪm ju ˈfɪnɪʃ ðə ˈtutɔɹiəl ju wɪl həv ˈdɪdʒɛstɪd ɔl ðə ˈbeɪsɪk sɚˈvaɪvəl ˈstrætədʒiz ənd tɛkˈnik/",
+          "linking": [
+            "will have: /l/ が /h/ に先行し、未開放。have は弱形 /həv/ [wɪl̚ həv]",
+            "have digested: v が母音に連結 [həv ˈdɪdʒɛstɪd]",
+            "digested all: /d/ が母音に連結 [ˈdɪdʒɛstɪd ɔl]",
+            "survival strategies: /l/ が /s/ に先行し、リンキングなし [sɚˈvaɪvəl ˈstrætədʒiz]"
+          ],
+          "kana": "バイ ザ タイム ユー フィニッシュ ザ チュートーリアル ユー ウィル ハヴ ディジェスティド オール ザ ベイシック サーバイバル ストラタジーズ エン テクニック"
+        },
+        {
+          "en": "By the end of next month, the team will have digested all the complex redstone mechanics and built their first automated farm.",
+          "ja": "来月末までに、チームはすべての複雑なレッドストーンメカニクスを理解し、最初の自動農場を構築します。",
+          "ipa": "/baɪ ðə ɛnd əv nɛkst mʌnθ ðə tim wɪl həv ˈdɪdʒɛstɪd ɔl ðə kəmˈplɛks ˈrɛdstəʊn məˈkænɪks ənd bɪlt ðɛɚ fɜɹst ɔˈtɑmətɪd fɑɹm/",
+          "linking": [
+            "will have: /l/ が /h/ に先行し、未開放。have の弱形 /həv/ [wɪl̚ həv]",
+            "have digested: v が母音に連結 [həv ˈdɪdʒɛstɪd]",
+            "digested all: /d/ が母音に連結 [ˈdɪdʒɛstɪd ɔl]",
+            "complex redstone: /s/ が子音に先行。mechanics の /ŋ/ が m に連結 [kəmˈplɛks ˈrɛdstəʊn]"
+          ],
+          "kana": "バイ ザ エンド アヴ ネクスト マンス ザ ティーム ウィル ハヴ ディジェスティド オール ザ コンプレックス レッドストーン メカニクス エン ビルト ゼア ファースト オートマティド ファーム"
+        }
+      ]
+    }
+  ]
+}

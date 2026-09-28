@@ -1,0 +1,303 @@
+{
+  "word": "vote",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/voʊt/",
+  "rank": 547,
+  "level": "B1",
+  "hi": "vote(?:s|d|ing)?",
+  "meanings": [
+    "【動詞】投票する、一票を投じる（vote for a candidate 候補者に投票する）",
+    "【動詞】（vote to do / vote that節で）投票して～することに決める、可決する（The committee voted to approve the plan. 委員会は計画の承認を可決した。）",
+    "【動詞】（vote+補語、口語）～だと評する、選ぶ（She was voted the best teacher of the year. 彼女はその年の最優秀教師に選ばれた。）",
+    "【名詞】投票、一票（cast a vote 一票を投じる）",
+    "【名詞】（the vote）選挙権、投票権（win the right to vote 投票権を勝ち取る）",
+    "【名詞】（the vote）票決、投票の結果（The vote was very close. 票決は非常な僅差だった。）"
+  ],
+  "examples": [
+    {
+      "en": "Let's vote on whether to build a village or a castle first.",
+      "ja": "村を作るか城を作るか、まず投票で決めよう。",
+      "ipa": "/lets ˈvoʊt ɑn ˈweðər tə ˈbɪld ə ˈvɪlɪdʒ ɔr ə ˈkæsəl fɝst/",
+      "linking": [
+        "vote on → 語末の t が on の /ɑ/ に連結 [ˈvoʊtɑn] ヴォウターン",
+        "to は機能語で弱形 /tə/"
+      ],
+      "kana": "レッツ ヴォウターン ウェザー タ ビルド ア ヴィレッジ オア ア キャッスル ファースト"
+    },
+    {
+      "en": "We voted to turn on hardcore mode for this server.",
+      "ja": "私たちがこのサーバーでハードコアモードをオンにすることに投票で決めた。",
+      "ipa": "/wi ˈvoʊtɪd tə ˈtɝn ɑn ˈhɑrdˌkɔr moʊd fɔr ðɪs ˈsɝvər/",
+      "linking": [
+        "voted の語末 /d/ が to の /t/ に未開放で続く [ˈvoʊtɪd̚ tə] ヴォウティッ(トゥ)タ",
+        "to は弱形 /tə/",
+        "turn on → 語末子音 n が on の /ɑ/ に連結 [ˈtɝnɑn] ターナン",
+        "for は弱形 /fər/"
+      ],
+      "kana": "ウィ ヴォウティッ(トゥ)タ ターナン ハードコア モード ファー ディス サーヴァー"
+    },
+    {
+      "en": "Everyone votes for their favorite biome setting each season.",
+      "ja": "みんなが毎シーズン、自分のお気に入りのバイオーム設定に投票する。",
+      "ipa": "/ˈɛvriwʌn ˈvoʊts fɔr ðɛr ˈfeɪvərɪt ˈbaɪoʊm ˈsɛtɪŋ itʃ ˈsizən/",
+      "linking": [
+        "votes の語末 /ts/ が for の /f/ に続く（子音+子音）",
+        "for は弱形 /fər/",
+        "their は /ðɛr/"
+      ],
+      "kana": "エヴリワン ヴォウツ ファー ゼア フェイヴァリット バイオーム セッティング イッチ シーズン"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "vote on",
+      "ja": "～について投票する、～を投票で決める",
+      "example": "We're voting on which enchantments to prioritize next.",
+      "example_ja": "私たちは次にどのエンチャントを優先するかについて投票しています。",
+      "ipa": "/wir ˈvoʊtɪŋ ɑn wɪtʃ ɪnˈtʃæntmənts tə praɪˈɔrətaɪz ˈnɛkst/",
+      "linking": [
+        "are の弱形 /ər/。we're は [wir]",
+        "voting の語末 /ŋ/ が on の /ɑ/ に続く [ˈvoʊtɪŋ ɑn]"
+      ],
+      "kana": "ウィア ヴォウティング オン ウィッチ エンチャントメンツ タ プライオリタイズ ネクスト"
+    },
+    {
+      "idiom": "vote for",
+      "ja": "～に投票する、～を支持する",
+      "example": "You should vote for whoever has the best building skills on the server.",
+      "example_ja": "サーバーで最高の建築スキルを持つ人に投票すべきです。",
+      "ipa": "/ju ʃʊd ˈvoʊt fɔr ˈhuˌɛvər hæz ðə ˈbɛst ˈbɪldɪŋ skɪlz ɑn ðə ˈsɝvər/",
+      "linking": [
+        "should → 弱形 /ʃəd/ に弱化",
+        "vote for → 語末 t が for の /f/ に続く。for は弱形 /fər/",
+        "skills on → 語末 s が on の /ɑ/ に連結 [skɪlz ɑn]"
+      ],
+      "kana": "ユー シュド ヴォウト ファー フーエヴァー ハズ ザ ベスト ビルディング スキルズ オン ザ サーヴァー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "votes",
+      "ipa": "/voʊts/",
+      "examples": [
+        {
+          "en": "Every single vote counts toward the final decision.",
+          "ja": "1票1票が最終決定に向けてカウントされます。",
+          "ipa": "/ˈɛvri ˈsɪŋɡəl voʊt ˈkaʊnts təˈwɔrd ðə ˈfaɪnəl dɪˈsɪʒən/",
+          "linking": [
+            "vote counts → /t/ + /k/ (子音+子音、連結なし)",
+            "toward は /təˈwɔrd/、to は弱形 /tə/"
+          ],
+          "kana": "エヴリー シングゴル ヴォート カウンツ タワード ザ ファイノル ディシージョン"
+        },
+        {
+          "en": "All the votes were cast by midnight on the server.",
+          "ja": "サーバーの真夜中までに、すべての票が投じられました。",
+          "ipa": "/ɔl ðə ˈvoʊts wər ˈkæst baɪ ˈmɪdˌnaɪt ɑn ðə ˈsɝvər/",
+          "linking": [
+            "the votes → the は弱形 /ðə/、votes に続く",
+            "by midnight → /aɪ/ + /m/ (母音+子音、連結なし)"
+          ],
+          "kana": "オール ザ ヴォウツ ワー キャスト バイ ミッドナイト オン ザ サーヴァー"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "votes",
+      "ipa": "/voʊts/",
+      "examples": [
+        {
+          "en": "Everyone votes on the location.",
+          "ja": "みんなが場所について投票する。",
+          "ipa": "/ˈɛvriwʌn ˈvoʊts ɑn ðə loʊˈkeɪʃən/",
+          "linking": [
+            "votes の語末 /ts/ が on の /ɑ/ に連結 [ˈvoʊts ɑn]"
+          ],
+          "kana": "エヴリワン ヴォウツ オン ザ ロウケイシャン"
+        },
+        {
+          "en": "She votes for the base design.",
+          "ja": "彼女がベースデザインのために投票する。",
+          "ipa": "/ʃi ˈvoʊts fər ðə ˈbeɪs dɪˈzaɪn/",
+          "linking": [
+            "for は弱形 /fər/"
+          ],
+          "kana": "シー ヴォウツ ファー ザ ベイス ディザイン"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "voted",
+      "ipa": "/ˈvoʊtɪd/",
+      "examples": [
+        {
+          "en": "We voted to build a farm.",
+          "ja": "私たちが農場を建設することに投票した。",
+          "ipa": "/wi ˈvoʊtɪd tə ˈbɪld ə ˈfɑrm/",
+          "linking": [
+            "voted の語末 /d/ が to の /t/ に未開放で続く。to は弱形 /tə/"
+          ],
+          "kana": "ウィ ヴォウティッド タ ビルド ア ファーム"
+        },
+        {
+          "en": "They voted for the cave entrance.",
+          "ja": "彼らが洞窟の入り口のために投票した。",
+          "ipa": "/ðeɪ ˈvoʊtɪd fər ðə ˈkeɪv ˈɛntrəns/",
+          "linking": [
+            "voted の語末 /d/。for は弱形 /fər/",
+            "the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ヴォウティッド ファー ザ ケイヴ エントランス"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "voted",
+      "ipa": "/ˈvoʊtɪd/",
+      "examples": [
+        {
+          "en": "We have voted on the server rules.",
+          "ja": "私たちがサーバールールについて投票した。",
+          "ipa": "/wi həv ˈvoʊtɪd ɑn ðə ˈsɝvər rulz/",
+          "linking": [
+            "have は弱形 /həv/。voted に続く。",
+            "voted の語末 /d/ が on の /ɑ/ に未開放で続く [ˈvoʊtɪd̚ ɑn]"
+          ],
+          "kana": "ウィ ハヴ ヴォウティッド オン ザ サーヴァー ルールズ"
+        },
+        {
+          "en": "I've voted for the spawn point.",
+          "ja": "私がスポーンポイントのために投票した。",
+          "ipa": "/aɪv ˈvoʊtɪd fər ðə ˈspɔn ˌpɔɪnt/",
+          "linking": [
+            "I've は have の縮約で /v/ のみ",
+            "voted の語末 /d/。for は弱形 /fər/"
+          ],
+          "kana": "アイヴ ヴォウティッド ファー ザ スポーン ポイント"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "voting",
+      "ipa": "/ˈvoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "We're voting on the base design today.",
+          "ja": "私たちが今日ベースデザインについて投票している。",
+          "ipa": "/wir ˈvoʊtɪŋ ɑn ðə ˈbeɪs dɪˈzaɪn təˈdeɪ/",
+          "linking": [
+            "are の弱形 /ər/。we're は [wir]",
+            "voting の語末 /ŋ/ が on の /ɑ/ に続く [ˈvoʊtɪŋ ɑn]"
+          ],
+          "kana": "ウィア ヴォウティング オン ザ ベイス ディザイン トゥデイ"
+        },
+        {
+          "en": "Everyone is voting for the new rules.",
+          "ja": "みんなが新しいルールのために投票している。",
+          "ipa": "/ˈɛvriwʌn ɪz ˈvoʊtɪŋ fər ðə ˈnu rulz/",
+          "linking": [
+            "is は弱形で /ɪz/",
+            "voting の語末 /ŋ/。for は弱形 /fər/"
+          ],
+          "kana": "エヴリワン イズ ヴォウティング ファー ザ ニュー ルールズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + voting）",
+      "text": "is voting",
+      "ipa": "/ɪz ˈvoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "They are voting on enchantment upgrades right now.",
+          "ja": "彼らが今ちょうどエンチャント強化について投票しています。",
+          "ipa": "/ðeɪ ɑr ˈvoʊtɪŋ ɑn ɪnˈtʃæntmənt ˈʌpɡreɪdz ˈraɪt ˈnaʊ/",
+          "linking": [
+            "are の弱形 /ər/",
+            "voting の語末 /ŋ/ が on の /ɑ/ に続く [ˈvoʊtɪŋ ɑn]"
+          ],
+          "kana": "ザイ アー ヴォウティング オン エンチャントメント アップグレイズ ライト ナウ"
+        },
+        {
+          "en": "I am voting for the diamond mine location.",
+          "ja": "私がダイヤモンド鉱山の場所のために投票しています。",
+          "ipa": "/aɪ æm ˈvoʊtɪŋ fər ðə ˈdaɪmənd ˈmaɪn ˈloʊˌkeɪʃən/",
+          "linking": [
+            "am は /æm/。voting に続く",
+            "for は弱形 /fər/"
+          ],
+          "kana": "アイ アム ヴォウティング ファー ザ ダイモンド マイン ロウケイシャン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + voting）",
+      "text": "was voting",
+      "ipa": "/wəz ˈvoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "We were voting when the server crashed.",
+          "ja": "サーバーがクラッシュした時、私たちが投票していました。",
+          "ipa": "/wi wər ˈvoʊtɪŋ wɛn ðə ˈsɝvər kræʃt/",
+          "linking": [
+            "were の弱形 /wər/",
+            "voting に子音 /w/ で続く（連結なし）"
+          ],
+          "kana": "ウィ ワー ヴォウティング ウェン ザ サーヴァー クラッシュト"
+        },
+        {
+          "en": "He was voting for the redstone project all morning.",
+          "ja": "彼が朝中レッドストーン計画のために投票していました。",
+          "ipa": "/hi wəz ˈvoʊtɪŋ fər ðə ˈrɛdˌston ˈprɑdʒɛkt ɔl ˈmɔrnɪŋ/",
+          "linking": [
+            "was の弱形 /wəz/",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ヒー ワズ ヴォウティング ファー ザ レッドストーン プロジェクト オール モーニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + voting）",
+      "text": "had been voting",
+      "ipa": "/həd bɪn ˈvoʊtɪŋ/",
+      "examples": [
+        {
+          "en": "We had been voting for an hour before reaching a decision.",
+          "ja": "決定に達する前に、私たちは1時間投票していました。",
+          "ipa": "/wi həd bɪn ˈvoʊtɪŋ fər ən ˈaʊər bɪˈfɔr ˈritʃɪŋ ə dɪˈsɪʒən/",
+          "linking": [
+            "had の弱形 /həd/、been の弱形 /bɪn/ に続く [həd bɪn]",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ウィ ハド ビン ヴォウティング ファー アン アワー ビフォア リーチング ア ディシージョン"
+        },
+        {
+          "en": "They had been voting on the base design for several days.",
+          "ja": "彼らが数日間ベースデザインについて投票していました。",
+          "ipa": "/ðeɪ həd bɪn ˈvoʊtɪŋ ɑn ðə ˈbeɪs dɪˈzaɪn fər ˈsɛvərəl ˈdeɪz/",
+          "linking": [
+            "had の弱形 /həd/、been の弱形 /bɪn/ に続く",
+            "voting の語末 /ŋ/ が on の /ɑ/ に続く [ˈvoʊtɪŋ ɑn]",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザイ ハド ビン ヴォウティング オン ザ ベイス ディザイン ファー セヴァロル デイズ"
+        }
+      ]
+    }
+  ]
+}

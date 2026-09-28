@@ -1,0 +1,219 @@
+{
+  "word": "harm",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/hɑɹm/",
+  "rank": 2233,
+  "level": "A2",
+  "hi": "harm(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】危害を加える、傷つける、ダメージを与える（…harm someone）",
+    "【動詞】悪い影響を及ぼす、害になる（…harm something）",
+    "【名詞】危害、害、損傷（…cause harm）"
+  ],
+  "examples": [
+    {
+      "en": "This trap will harm everyone who touches it.",
+      "ja": "このトラップはそれに触れたすべての人にダメージを与えます。",
+      "ipa": "/ðɪs træp wɪl hɑɹm ˈɛvriˌwən hu ˈtʌtʃɪz ɪt/",
+      "linking": [
+        "harm の末尾 /m/ が everyone の /ɛ/ に連結: [hɑɹmɛ] ハームエ",
+        "touch の末尾 /tʃ/ が it の /ɪ/ に連結: [tʌtʃɪt] タッチイット"
+      ],
+      "kana": "ディス トラップ ウィル ハームエブリワン フー タッチイット"
+    },
+    {
+      "en": "Lava can harm you very quickly.",
+      "ja": "マグマはあなたに非常に速くダメージを与えることができます。",
+      "ipa": "/ˈleɪvə kən hɑɹm ju ˈvɛri ˈkwɪkli/",
+      "linking": [
+        "can は弱形 /kən/ に弱化",
+        "harm の末尾 /m/ が you の /j/ に連結: [hɑɹmj] ハームユー"
+      ],
+      "kana": "レイバ カン ハームユー ベリー クイックリー"
+    },
+    {
+      "en": "We need to avoid harming our teammates' buildings.",
+      "ja": "私たちはチームメイトの建物を傷つけることを避ける必要があります。",
+      "ipa": "/wi ˈniːd tu əˈvɔɪd ˈhɑɹmɪŋ ˈaʊər ˈtimˌmeɪts ˈbɪldɪŋz/",
+      "linking": [
+        "need の末尾 /d/ が to の /t/ に連結（未開放）: [ˈniːd̚ tə] ニード タ",
+        "to は弱形 /tə/ に弱化"
+      ],
+      "kana": "ウィ ニード タ アボイド ハーミング アワー ティームメイツ ビルディングス"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "come to harm",
+      "ja": "危害を受ける、損傷を受ける、ダメージを被る",
+      "example": "I hope the animals don't come to harm while we explore.",
+      "example_ja": "探索中に動物たちが危害を受けないことを願っています。",
+      "ipa": "/aɪ ˈhoʊp ðə ˈænɪməlz ˌdoʊnt kʌm tu hɑɹm waɪl wi ɪkˈsplɔɹ/",
+      "linking": [
+        "the は弱形 /ðə/ に弱化",
+        "to は弱形 /tə/ に弱化"
+      ],
+      "kana": "アイ ホープ ザ アニマルズ ドゥント カム タ ハーム ワイル ウィ イクスプロア"
+    },
+    {
+      "idiom": "no harm done",
+      "ja": "害は無かった、大丈夫です、気にするな",
+      "example": "You broke my door? No harm done—I can repair it.",
+      "example_ja": "ドアを壊してしまった？大丈夫です—修理できます。",
+      "ipa": "/ju ˈbroʊk maɪ ˈdɔɹ noʊ ˈhɑɹm ˈdʌn aɪ kən rɪˈpɛɹ ɪt/",
+      "linking": [
+        "repair の末尾 /r/ が it の /ɪ/ に連結: [rɪˈpɛɹɪt] リペアリット"
+      ],
+      "kana": "ユー ブローク マイ ドア ノー ハーム ダン アイ カン リペアリット"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形",
+      "text": "harms",
+      "ipa": "/hɑrmz/",
+      "examples": [
+        {
+          "en": "Lava, fire, and hostile mobs are serious harms in the Nether.",
+          "ja": "ネザーでは溶岩、炎、敵性モブが重大な害である。",
+          "ipa": "/ˈlɑːvə ˈfaɪər ənd ˈhɑːstəl ˈmɑbz ɑr ˈsɪriəs ˈhɑrmz ɪn ðə ˈneðər/",
+          "linking": [
+            "and hostile → 語末 /d/ が /h/ に。未開放で接続",
+            "harms in → 語末 /z/ が母音 /ɪ/ に連結"
+          ],
+          "kana": "ラーヴァ ファイアー アンド ホースタイル モブズ アー シリアス ハームズィン ザ ネザー"
+        },
+        {
+          "en": "Mining underground can cause harms from cave-ins.",
+          "ja": "地下採掘は洞窟の崩落による害をもたらすことができる。",
+          "ipa": "/ˈmaɪnɪŋ ˌʌndərˈɡraʊnd kən ˈkɔːz ˈhɑrmz frəm ˈkeɪv ɪnz/",
+          "linking": [
+            "Mining underground → 語末 /ŋ/ が /ʌ/ に。未開放で接続",
+            "harms from → 語末 /z/ が /f/ に。未開放で接続"
+          ],
+          "kana": "マイニング アンダーグラウンド カン コーズ ハームズ フラム ケイヴ インズ"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "harms",
+      "ipa": "/hɑrmz/",
+      "examples": [
+        {
+          "en": "Poison harms your health if you're not careful.",
+          "ja": "毒はあなたが注意していなければあなたの健康を害する。",
+          "ipa": "/ˈpɔɪzən ˈhɑrmz jɔr ˈhelθ ɪf jɚ nɑt ˈkerfl/",
+          "linking": [
+            "harms your → 語末 /z/ が /j/ に連結",
+            "if you're → 語末 /f/ が /j/ に連結"
+          ],
+          "kana": "ポイズン ハームズユア ヘルス イフ ユア ノット ケアフル"
+        },
+        {
+          "en": "Falling damage harms you even with armor.",
+          "ja": "落下ダメージはアーマーでもあなたを傷つける。",
+          "ipa": "/ˈfɔːlɪŋ ˈdæmɪdʒ ˈhɑrmz juː ˈiːvən wɪð ˈɑrmər/",
+          "linking": [
+            "damage harms → 語末 /dʒ/ が /h/ に。未開放で接続",
+            "harms you → 語末 /z/ が /j/ に連結",
+            "with armor → 語末 /ð/ が /ɑ/ に連結"
+          ],
+          "kana": "フォーリング ダメッジ ハームズユー イーヴン ウィザーマー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "harmed",
+      "ipa": "/hɑrmd/",
+      "examples": [
+        {
+          "en": "The creeper explosion harmed my entire base.",
+          "ja": "クリーパーの爆発は私のベース全体に害をもたらした。",
+          "ipa": "/ðə ˈkriːpər ɪkˈsploʊʒən ˈhɑrmd maɪ ɛnˈtaɪər ˈbeɪs/",
+          "linking": [
+            "The → /ðə/ 弱形",
+            "explosion harmed → 語末 /ən/ が /h/ に。未開放で接続",
+            "harmed my → 語末 /d/ が /m/ に。未開放で接続"
+          ],
+          "kana": "ザ クリーパー イクスプロージャン ハームド マイ エンタイアー ベイス"
+        },
+        {
+          "en": "Fall damage harmed me when I landed wrong.",
+          "ja": "落下ダメージは私が間違って着地したときに私に害をもたらした。",
+          "ipa": "/ˈfɔːl ˈdæmɪdʒ ˈhɑrmd mi wen aɪ ˈlændɪd ˈrɔŋ/",
+          "linking": [
+            "damage harmed → 語末 /dʒ/ が /h/ に。未開放で接続",
+            "harmed me → 語末 /d/ が /m/ に。未開放で接続",
+            "landed wrong → 語末 /d/ が /r/ に。未開放で接続"
+          ],
+          "kana": "フォール ダメッジ ハームド ミー ウェン アイ ランディド ロング"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "harmed",
+      "ipa": "/hɑrmd/",
+      "examples": [
+        {
+          "en": "Structures harmed in raids can be rebuilt.",
+          "ja": "レイドで傷つけられた建造物は再構築できる。",
+          "ipa": "/ˈstrʌkʧərz ˈhɑrmd ɪn ˈreɪdz kən bi riːˈbɪlt/",
+          "linking": [
+            "harmed in → 語末 /d/ が母音 /ɪ/ に連結",
+            "in raids → 語末 /n/ が /r/ に。未開放で接続",
+            "can be → 語末 /n/ が /b/ に。未開放で接続"
+          ],
+          "kana": "ストラクチャーズ ハーミン レイズ カン ビー リービルト"
+        },
+        {
+          "en": "Players harmed by the Ender Dragon rarely forget.",
+          "ja": "エンダードラゴンに傷つけられたプレイヤーはめったに忘れない。",
+          "ipa": "/ˈpleɪərz ˈhɑrmd baɪ ðə ˈendər ˈdræɡən ˈrerli fərˈɡet/",
+          "linking": [
+            "harmed by → 語末 /d/ が /b/ に。未開放で接続",
+            "by the → 語末 /j/ が /ð/ に。未開放で接続"
+          ],
+          "kana": "プレイヤーズ ハームド バイ ザ エンダー ドラゴン レアリー フォーゲット"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "harming",
+      "ipa": "/ˈhɑrmɪŋ/",
+      "examples": [
+        {
+          "en": "Harming the Ender Dragon requires a coordinated team.",
+          "ja": "エンダードラゴンに害をもたらすには調整されたチームが必要である。",
+          "ipa": "/ˈhɑrmɪŋ ðə ˈendər ˈdræɡən rɪˈkwaɪərz ə koʊˈɔːrdɪneɪtɪd ˈtiːm/",
+          "linking": [
+            "Harming the → 語末 /ŋ/ が /ð/ に。未開放で接続",
+            "requires a → 語末 /z/ が母音 /ə/ に連結。a は弱形",
+            "coordinated team → 語末 /d/ が /t/ に。未開放で接続"
+          ],
+          "kana": "ハーミング ザ エンダー ドラゴン リクワイアーザ コーディネイティド ティーム"
+        },
+        {
+          "en": "The poison is harming your health very quickly.",
+          "ja": "毒はあなたの健康を非常に速く傷つけている。",
+          "ipa": "/ðə ˈpɔɪzən ɪz ˈhɑrmɪŋ jɔr ˈhelθ ˈveri ˈkwɪkli/",
+          "linking": [
+            "poison is → 語末 /n/ が母音 /ɪ/ に連結",
+            "is harming → 語末 /z/ が /h/ に。未開放で接続",
+            "your health → 語末 /r/ が /h/ に。未開放で接続"
+          ],
+          "kana": "ザ ポイズニズ ハーミング ユア ヘルス ヴェリ クイックリ"
+        }
+      ]
+    }
+  ]
+}

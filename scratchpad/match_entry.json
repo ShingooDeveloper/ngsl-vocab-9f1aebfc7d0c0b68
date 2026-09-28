@@ -1,0 +1,357 @@
+{
+  "word": "match",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/mætʃ/",
+  "rank": 1228,
+  "level": "B1",
+  "hi": "match(?:es|ed|ing)?",
+  "meanings": [
+    "【動詞】（色・大きさ・パターンなどが）合う、一致する、マッチする",
+    "【動詞】（人やものを）組み合わせる、対にする、合わせる",
+    "【動詞】（相手と）対抗する、肩を並べる、競争する",
+    "【名詞】（火をつけるための）マッチ、燐寸",
+    "【名詞】試合、マッチ、競技、試合相手",
+    "【名詞】（色などの）合う相手、引き合うもの、相性の良い相手"
+  ],
+  "examples": [
+    {
+      "en": "This wood matches the color of the oak logs perfectly.",
+      "ja": "この木はオークログの色に完璧に合っています。",
+      "ipa": "/ðɪs wʊd ˈmætʃɪz ðə ˈkʌlər əv ðə ˈoʊk ˈlɑgz ˈpɝfɪktli/",
+      "linking": [
+        "wood matches → /d/ + /m/ が続く（consonant+consonant、連結なし）",
+        "the color → the は弱形 /ðə/、color に連結",
+        "color of → /r/ が of の初頭 /ə/ に連結 [ˈkʌlər əv] カラー オヴ、of は弱形 /əv/",
+        "of the → /v/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+      ],
+      "kana": "ディス ウッド マッチーズ ザ カラー オヴ ザ オウク ロッグズ パーフェクトリー"
+    },
+    {
+      "en": "I need to find a match for this armor piece before the battle.",
+      "ja": "戦闘前にこの防具に合うペアを見つける必要があります。",
+      "ipa": "/aɪ ˈniːd tə ˈfaɪnd ə ˈmætʃ fɔr ðɪs ˈɑrmər ˈpis bɪˈfɔr ðə ˈbætəl/",
+      "linking": [
+        "need to → to は弱形 /tə/",
+        "find a → /d/ が a の初頭 /ə/ に連結 [ˈfaɪnd ə] ファインド ア",
+        "armor piece → /r/ が piece の初頭 /p/ に続く（consonant+consonant、連結なし）",
+        "before the → /r/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+      ],
+      "kana": "アイ ニード タ ファインド ア マッチ フォー ディス アーマー ピース ビフォー ザ バタル"
+    },
+    {
+      "en": "Every structure we match stone for stone makes the build look professional.",
+      "ja": "石ごとに合わせるすべての構造がビルドをプロフェッショナルに見させます。",
+      "ipa": "/ˈɛvri ˈstrʌktʃɚ wi ˈmætʃ stoʊn fɔr stoʊn ˈmeɪks ðə ˈbɪld lʊk ˌproʊˈfɛʃənəl/",
+      "linking": [
+        "structure we → /r/ + /w/ (consonant+consonant、連結なし)",
+        "for stone → /r/ が stone の初頭 /s/ に続く（consonant+consonant、連結なし）",
+        "the build → the は弱形 /ðə/"
+      ],
+      "kana": "エヴリー ストラクチャー ウィ マッチ ストウン フォー ストウン メイクス ザ ビルド ルック プロフェッショナル"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "meet one's match",
+      "ja": "互角の相手に出会う、自分と同等の相手に会う",
+      "example": "The Ender Dragon finally met its match when the veteran player arrived.",
+      "example_ja": "エンダードラゴンは老練なプレイヤーが到着したとき、やっと互角の相手に出会いました。",
+      "ipa": "/ðə ˈɛndər ˈdræɡən ˈfaɪnəli ˈmɛt ɪts ˈmætʃ wɛn ðə ˈvɛtərən ˈpleɪər əˈraɪvd/",
+      "linking": [
+        "met its → /t/ + /ɪ/ が連結 [ˈmɛt ɪts] メット イッツ",
+        "when the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+        "player arrived → /r/ が arrived の初頭に続く"
+      ],
+      "kana": "ザ エンダー ドラゴン ファイナリー メット イッツ マッチ ウェン ザ ベテラン プレイヤー アライブド"
+    },
+    {
+      "idiom": "match made in heaven",
+      "ja": "完璧なマッチング、天が与えた相手",
+      "example": "That redstone circuit and this ore farm are a match made in heaven for efficiency.",
+      "example_ja": "そのレッドストーン回路とこの鉱石ファームは効率性のための完璧なマッチングです。",
+      "ipa": "/ðæt ˈrɛdˌstoʊn ˈsɝkit ənd ðɪs ˈɔr ˈfɑrm ər ə ˈmætʃ ˈmeɪd ɪn ˈhɛvən fɔr ɪˈfɪʃənsi/",
+      "linking": [
+        "circuit and → /t/ + /ə/ が連結 [ˈsɝkit ənd] サーキット アンド",
+        "made in → /d/ + /ɪ/ が連結 [ˈmeɪd ɪn] メイド イン",
+        "in heaven → /n/ + /h/ (consonant+consonant、連結なし)"
+      ],
+      "kana": "ザット レッドストーン サーキット アンド ディス オア ファーム アー ア マッチ メイド イン ヘヴン フォー イフィシンシー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Before mining, try to match your pickaxe to the ore type for maximum efficiency.",
+      "ja": "採掘前に、最大の効率のためにピッケルを鉱石の種類に合わせてみてください。",
+      "ipa": "/bɪˈfɔr ˈmaɪnɪŋ | traɪ tə ˈmætʃ jɔr ˈpɪkˌæks tə ðə ˈɔr taɪp fɔr ˈmæksɪməm ɪˈfɪʃənsi/",
+      "linking": [
+        "try to → to は弱形 /tə/",
+        "match your → /tʃ/ + /j/ (consonant+consonant、連結なし)、your は弱形 /jɔr/",
+        "to the → to は弱形 /tə/、the は弱形 /ðə/"
+      ],
+      "kana": "ビフォー マイニング、トライ タ マッチ ヤー ピッケックス タ ザ オア タイプ フォー マキシマム イフィシンシー"
+    },
+    {
+      "en": "We matched all the materials with the original structure to maintain consistency.",
+      "ja": "一貫性を保つために、すべての材料を元の構造と合わせました。",
+      "ipa": "/wi ˈmætʃt ɔl ðə məˈtɪriəlz wɪð ðə əˈrɪdʒənəl ˈstrʌktʃɚ tə meɪnˈteɪn kənˈsɪstənsi/",
+      "linking": [
+        "matched all → /t/ + /ɔ/ が連結 [ˈmætʃt ɔl] マッチド オール",
+        "with the → /ð/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+        "structure to → /r/ + /t/ (consonant+consonant、連結なし)、to は弱形 /tə/"
+      ],
+      "kana": "ウィ マッチド オール ザ マテリアルズ ウィズ ザ オリジナル ストラクチャー タ メインテイン コンシステンシー"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "matches",
+      "ipa": "/ˈmætʃɪz/",
+      "examples": [
+        {
+          "en": "I stored all my matches in a waterproof chest to keep them dry.",
+          "ja": "乾いた状態を保つために、すべてのマッチを防水チェストに保管しました。",
+          "ipa": "/aɪ ˈstɔrd ɔl maɪ ˈmætʃɪz ɪn ə ˈwɔtɚˌpruf ˈtʃɛst tə ˈkip ðəm ˈdraɪ/",
+          "linking": [
+            "stored all → /d/ + /ɔ/ が連結 [ˈstɔrd ɔl] ストード オール",
+            "in a → /n/ + /ə/ が連結 [ɪn ə] イナ",
+            "to keep → to は弱形 /tə/",
+            "them dry → them は弱形 /ðəm/、dry と続く"
+          ],
+          "kana": "アイ ストード オール マイ マッチーズ イナ ウォータープルーフ チェスト タ キープ ダム ドライ"
+        },
+        {
+          "en": "The matches we found in the village were ancient but still usable.",
+          "ja": "村で見つけたマッチは古いものでしたが、まだ使用可能でした。",
+          "ipa": "/ðə ˈmætʃɪz wi ˈfaʊnd ɪn ðə ˈvɪlɪdʒ wər ˈeɪʃənt bət ˈstɪl ˈjuːzəbəl/",
+          "linking": [
+            "the matches → the は弱形 /ðə/",
+            "found in → /d/ が in の初頭 /ɪ/ に連結 [ˈfaʊnd ɪn] ファウンド イン",
+            "were ancient → were は弱形 /wər/"
+          ],
+          "kana": "ザ マッチーズ ウィ ファウンド イン ザ ビリッジ ワー エイシャント バット スティル ユーザブル"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "matches",
+      "ipa": "/ˈmætʃɪz/",
+      "examples": [
+        {
+          "en": "She matches every new block with the existing walls perfectly.",
+          "ja": "彼女は新しいブロックをすべて既存の壁と完璧に合わせています。",
+          "ipa": "/ʃi ˈmætʃɪz ˈɛvri ˈnu ˈblɑk wɪð ðə ɪɡˈzɪstɪŋ ˈwɔlz ˈpɝfɪktli/",
+          "linking": [
+            "matches every → /z/ + /ɛ/ が連結 [ˈmætʃɪz ˈɛvri] マッチーズ エヴリー",
+            "block with → /k/ + /w/ (consonant+consonant、連結なし)",
+            "the existing → the は弱形 /ðə/"
+          ],
+          "kana": "シー マッチーズ エヴリー ニュー ブロック ウィズ ザ イグジスティング ウォールズ パーフェクトリー"
+        },
+        {
+          "en": "This texture pack matches the cave update theme so well that it looks official.",
+          "ja": "このテクスチャパックはケイブアップデートのテーマに非常に合っているので、公式のように見えます。",
+          "ipa": "/ðɪs ˈtɛkstʃɚ ˈpæk ˈmætʃɪz ðə ˈkeɪv ˈʌpˌdeɪt ˈθim soʊ wɛl ðæt ɪt ˈlʊks əˈfɪʃəl/",
+          "linking": [
+            "texture pack → /r/ + /p/ (consonant+consonant、連結なし)",
+            "the cave → the は弱形 /ðə/",
+            "so well → /oʊ/ + /w/ (vowel+consonant、連結できない)、well の末尾 /l/ が that に続く（consonant+consonant）",
+            "that it → /t/ + /ɪ/ が連結 [ðæt ɪt] ザット イット"
+          ],
+          "kana": "ディス テクスチャー パック マッチーズ ザ ケイブ アップデイト テーム ソウ ウェル ザット イット ルックス オフィシャル"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "matched",
+      "ipa": "/ˈmætʃt/",
+      "examples": [
+        {
+          "en": "I matched all the stone blocks to create a uniform wall.",
+          "ja": "均一な壁を作るために、すべての石ブロックを揃えました。",
+          "ipa": "/aɪ ˈmætʃt ɔl ðə ˈstoʊn ˈblɑks tə kriˈeɪt ə juːˈnɪfɔrm ˈwɔl/",
+          "linking": [
+            "matched all → /t/ + /ɔ/ が連結 [ˈmætʃt ɔl] マッチド オール",
+            "to create → to は弱形 /tə/",
+            "a uniform → a は弱形 /ə/ で uniform と連結 [ə juːˈnɪfɔrm] ア ユニフォーム"
+          ],
+          "kana": "アイ マッチド オール ザ ストウン ブロックス タ クリエイト ア ユニフォーム ウォール"
+        },
+        {
+          "en": "We matched our armor colors to look like a coordinated team.",
+          "ja": "チームのように見えるために、私たちの防具の色を揃えました。",
+          "ipa": "/wi ˈmætʃt ˈaʊɚ ˈɑrmər ˈkʌlərz tə ˈlʊk laɪk ə koʊˈɔrdəˌneɪtɪd ˈtim/",
+          "linking": [
+            "matched our → /t/ + /aʊ/ が連結 [ˈmætʃt aʊɚ] マッチド アワー",
+            "to look → to は弱形 /tə/",
+            "look like → /k/ + /l/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ウィ マッチド アワー アーマー カラーズ タ ルック ライク ア コーディネイティッド ティーム"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "matched",
+      "ipa": "/ˈmætʃt/",
+      "examples": [
+        {
+          "en": "The blocks I've matched form a beautiful symmetrical pattern.",
+          "ja": "私がマッチさせたブロックは美しい対称的なパターンを形成しています。",
+          "ipa": "/ðə ˈblɑks aɪv ˈmætʃt ˈfɔrm ə ˈbjuːtɪfəl səˈmɛtrɪkəl ˈpætɚn/",
+          "linking": [
+            "I've matched → /v/ + /m/ (consonant+consonant、連結なし)、've は弱形 /əv/",
+            "matched form → /t/ + /f/ (consonant+consonant、連結なし)",
+            "a beautiful → a は弱形 /ə/、beautiful と連結 [ə ˈbjuːtɪfəl] ア ビューティフル"
+          ],
+          "kana": "ザ ブロックス アイヴ マッチド フォーム ア ビューティフル シメトリカル パターン"
+        },
+        {
+          "en": "Having matched all the resources, we were ready to start building.",
+          "ja": "すべてのリソースをマッチさせた後、ビルドを開始する準備ができました。",
+          "ipa": "/ˈheɪvɪŋ ˈmætʃt ɔl ðə ˈrɛsɚsɪz | wi wər ˈrɛdi tə ˈstɑrt ˈbɪldɪŋ/",
+          "linking": [
+            "matched all → /t/ + /ɔ/ が連結 [ˈmætʃt ɔl] マッチド オール",
+            "were ready → were は弱形 /wər/",
+            "to start → to は弱形 /tə/"
+          ],
+          "kana": "ハヴィング マッチド オール ザ リソーシズ、ウィ ワー レディー タ スタート ビルディング"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "matching",
+      "ipa": "/ˈmætʃɪŋ/",
+      "examples": [
+        {
+          "en": "Matching wood types carefully makes the house look elegant and professional.",
+          "ja": "木の種類を注意深く揃えることで、家がエレガントでプロフェッショナルに見えます。",
+          "ipa": "/ˈmætʃɪŋ ˈwʊd ˈtaɪpz ˈkɛrfəli | ˈmeɪks ðə ˈhaʊs ˈlʊk ˈɛləɡənt ənd ˌproʊˈfɛʃənəl/",
+          "linking": [
+            "Matching wood → /ŋ/ + /w/ (consonant+consonant、連結なし)",
+            "carefully makes → /li/ + /m/ (consonant+consonant、連結なし)",
+            "the house → the は弱形 /ðə/"
+          ],
+          "kana": "マッチング ウッド タイプス ケアフリー、メイクス ザ ハウス ルック エレガント アンド プロフェッショナル"
+        },
+        {
+          "en": "I'm matching the colors of these blocks with the surrounding terrain.",
+          "ja": "このブロックの色を周辺の地形と揃えています。",
+          "ipa": "/aɪm ˈmætʃɪŋ ðə ˈkʌlərz əv ðiz ˈblɑks wɪð ðə səˈraʊndɪŋ təˈreɪn/",
+          "linking": [
+            "I'm matching → /m/ + /m/ (consonant+consonant、連結なし)、I'm は /aɪm/",
+            "the colors → the は弱形 /ðə/",
+            "of these → /v/ + /ð/ (consonant+consonant、連結なし)、of は弱形 /əv/",
+            "with the → /ð/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/"
+          ],
+          "kana": "アイム マッチング ザ カラーズ オヴ ディーズ ブロックス ウィズ ザ サラウンディング テレイン"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is matching",
+      "ipa": "/ɪz ˈmætʃɪŋ/",
+      "examples": [
+        {
+          "en": "I'm matching the wood colors as I build the cabin.",
+          "ja": "キャビンを建築しながら、木の色を合わせています。",
+          "ipa": "/aɪm ˈmætʃɪŋ ðə ˈwʊd ˈkʌlərz əz aɪ ˈbɪld ðə ˈkæbən/",
+          "linking": [
+            "I'm matching → /m/ + /m/ (consonant+consonant、連結なし)",
+            "matching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "wood colors → /d/ + /k/ (consonant+consonant、連結なし)",
+            "as I → /z/ が I の初頭 /aɪ/ に連結 [əz aɪ] アズ アイ"
+          ],
+          "kana": "アイム マッチング ザ ウッド カラーズ アズ アイ ビルド ザ キャビン"
+        },
+        {
+          "en": "He's matching the stone with the surrounding landscape right now.",
+          "ja": "彼は今、石を周囲の景観と合わせています。",
+          "ipa": "/hiz ˈmætʃɪŋ ðə ˈstoʊn wɪð ðə səˈraʊndɪŋ ˈlændˌskeɪp ˈraɪt ˈnaʊ/",
+          "linking": [
+            "He's matching → /z/ + /m/ (consonant+consonant、連結なし)、He's は /hiz/",
+            "matching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "with the → /ð/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "right now → /t/ + /n/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "ヒーズ マッチング ザ ストウン ウィズ ザ サラウンディング ランドスケイプ ライト ナウ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was matching",
+      "ipa": "/wəz ˈmætʃɪŋ/",
+      "examples": [
+        {
+          "en": "I was matching the blocks when the creeper exploded nearby.",
+          "ja": "クリーパーが近くで爆発したときに、ブロックを合わせていました。",
+          "ipa": "/aɪ wəz ˈmætʃɪŋ ðə ˈblɑks wɛn ðə ˈkriːpər ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "was matching → /z/ + /m/ (consonant+consonant、連結なし)、was は弱形 /wəz/",
+            "matching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "when the → /n/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "creeper exploded → /r/ が exploded の初頭 /ɪ/ に連結 [ˈkriːpər ɪkˈsploʊdɪd] クリーパー イクスプロウデッド"
+          ],
+          "kana": "アイ ワズ マッチング ザ ブロックス ウェン ザ クリーパー イクスプロウデッド ニアバイ"
+        },
+        {
+          "en": "She was matching the materials while the storm passed overhead.",
+          "ja": "嵐が頭上を通り過ぎている間に、彼女は材料を合わせていました。",
+          "ipa": "/ʃi wəz ˈmætʃɪŋ ðə məˈtɪriəlz waɪl ðə ˈstɔrm ˈpæst ˌoʊvərˈhɛd/",
+          "linking": [
+            "was matching → /z/ + /m/ (consonant+consonant、連結なし)、was は弱形 /wəz/",
+            "matching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "while the → /l/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "storm passed → /m/ + /p/ (consonant+consonant、連結なし)"
+          ],
+          "kana": "シー ワズ マッチング ザ マテリアルズ ワイル ザ ストーム パスト オーヴァーヘッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been matching",
+      "ipa": "/həd bɪn ˈmætʃɪŋ/",
+      "examples": [
+        {
+          "en": "They had been matching stone for hours before completing the tower.",
+          "ja": "塔を完成させる前に、彼らは何時間も石を合わせていました。",
+          "ipa": "/ðeɪ həd bɪn ˈmætʃɪŋ ˈstoʊn fɔr ˈaʊərz bɪˈfɔr kəmˈplitɪŋ ðə ˈtaʊər/",
+          "linking": [
+            "had been → /d/ + /b/ (consonant+consonant、連結なし)、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been matching → /n/ + /m/ (consonant+consonant、連結なし)",
+            "matching stone → /ŋ/ + /s/ (consonant+consonant、連結なし)",
+            "for hours → /r/ が hours の初頭 /aʊ/ に連結 [fər ˈaʊərz] ファー アワーズ"
+          ],
+          "kana": "ザイ ハド ビン マッチング ストウン フォー アワーズ ビフォー カムプリーティング ザ タウアー"
+        },
+        {
+          "en": "I had been matching the wood types when I found the lost diamond cache.",
+          "ja": "失われたダイヤモンドキャッシュを見つけたとき、私は木の種類を合わせていました。",
+          "ipa": "/aɪ həd bɪn ˈmætʃɪŋ ðə ˈwʊd ˈtaɪpz wɛn aɪ ˈfaʊnd ðə ˈlɑst ˈdaɪmənd ˈkæʃ/",
+          "linking": [
+            "had been → /d/ + /b/ (consonant+consonant、連結なし)、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been matching → /n/ + /m/ (consonant+consonant、連結なし)",
+            "matching the → /ŋ/ + /ð/ (consonant+consonant、連結なし)、the は弱形 /ðə/",
+            "when I → /n/ + /aɪ/ が連結 [wɛn aɪ] ウェン アイ"
+          ],
+          "kana": "アイ ハド ビン マッチング ザ ウッド タイプス ウェン アイ ファウンド ザ ロスト ダイマンド キャッシュ"
+        }
+      ]
+    }
+  ]
+}

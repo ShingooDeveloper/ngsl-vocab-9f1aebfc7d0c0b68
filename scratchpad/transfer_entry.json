@@ -1,0 +1,312 @@
+{
+  "word": "transfer",
+  "pos": "動詞・名詞",
+  "ipa_us": "/ˈtrænsfɜr/",
+  "ipa_uk": "/ˈtrænzfɜː/",
+  "meanings": [
+    "【動詞】（人・物を）移す、転送する、譲渡する（Please transfer the files to the new server. ファイルを新しいサーバーに転送してください。）",
+    "【動詞】（乗り継ぎで）乗り換える、乗り移る（You will need to transfer at the central station. 中央駅で乗り換える必要があります。）",
+    "【動詞】（学校・仕事などを）移す、異動させる（She was transferred to the Tokyo office. 彼女は東京オフィスに転勤した。）",
+    "【名詞】転送、移送、譲渡（The transfer of technology is important. 技術移転は重要です。）",
+    "【名詞】転勤、異動（His transfer to a new department was announced yesterday. 彼の新部門への異動は昨日発表された。）"
+  ],
+  "examples": [
+    {
+      "en": "Please transfer the money to my bank account by Friday.",
+      "ja": "金曜日までに、その金をオンラインバンキングで私の銀行口座に振込してください。",
+      "grammar": "動詞 transfer + 直接目的語（money）+ 前置詞句（to + 間接目的語）：目的語が2つある典型的な他動詞パターン。",
+      "ipa": "/pliːz ˈtrænsfɜr ðə ˈmʌni tu maɪ ˈbæŋk əˈkaʊnt baɪ ˈfraɪdeɪ/",
+      "linking": [
+        "transfer the → 語末子音/r/が母音/ð/に連結 [ˈtrænsfər ðə] トランスファー ザ。the は弱形 /ðə/",
+        "to my → to は弱形 /tə/ に弱化、my は /maɪ/ のままで強形"
+      ],
+      "kana": "プリーズ トランスファー ダ マニー タ マイ バングク ァカウント バイ フライデイ"
+    },
+    {
+      "en": "Most passengers transfer between the subway and the bus at the central transportation hub.",
+      "ja": "ほとんどの乗客は、中央交通ハブで地下鉄からバスに乗り換えます。",
+      "grammar": "動詞 transfer + 前置詞句（between + 2つの場所）：乗り換える際の典型表現。at + 地点で場所を指定。",
+      "ipa": "/ˈmoʊst ˈpæsɪndʒɚz ˈtrænsfɜr bɪˈtwin ðə ˈsʌbˌweɪ ənd ðə bʌs æt ðə ˈsɛntrəl ˌtrænspərˈteɪʃən hʌb/",
+      "linking": [
+        "passengers transfer → 語末/z/と/t/が連続（子音+子音）、連結なし",
+        "subway and → 語末子音/i/と/æ/が続く。and は弱形 /ənd/",
+        "transportation hub → hub の初頭が/h/で /ʌb/ で終わる transportation の /ən/ に続く"
+      ],
+      "kana": "モウスト パッシンジャーズ トランスファー ビトウィーン ダ サブウェイ アンド ダ バス アット ダ セントラル トランスポアテイション ハブ"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "You need to transfer your inventory to a chest before entering the nether portal.",
+      "ja": "ネザーポータルに入る前に、インベントリを箱に移す必要があります。",
+      "grammar": "need to + 動詞原形：～する必要があるという義務を表す。before + -ing形で時間的先後関係を示す。",
+      "ipa": "/ju niːd tə ˈtrænsfɜr jɚ ɪnˈvɛntəri tu ə tʃɛst bɪˈfɔːr ˈɛntɚɪŋ ðə ˈnɛðɚ ˈpoːrтəl/",
+      "linking": [
+        "need to → need は /niːd/、to は弱形 /tə/ に弱化",
+        "transfer your → 語末/r/が母音/j/に連結 [ˈtrænsfər jɚ] トランスファー ユア",
+        "to a → to は弱形 /tə/、a は弱形 /ə/"
+      ],
+      "kana": "ユー ニード タ トランスファー ユア インベントリー トゥ ア チェスト ビフォア エンタリング ダ ネザー ポータル"
+    },
+    {
+      "en": "The player decided to transfer all the diamonds from the mining branch base to the main storage facility.",
+      "ja": "プレイヤーは、採掘支所の基地からメインの保管施設にすべてのダイヤモンドを移すことに決めた。",
+      "grammar": "決定の過去形（decided to + 動詞原形）：過去に決定した行動を表す。from ... to ... で転送元・転送先を明示。",
+      "ipa": "/ðə ˈpleɪɚ dɪˈsaɪdɪd tə ˈtrænsfɜr ɔːl ðə ˈdaɪəməndz frəm ðə ˈmaɪnɪŋ brænʃ ˈbeɪs tu ðə ˈmeɪn ˈstɔːrɪdʒ fəˈsɪləti/",
+      "linking": [
+        "decided to → 語末/d/と/t/が続く（子音+子音）。to は弱形 /tə/",
+        "transfer all → 語末/r/が母音に連結 [ˈtrænsfər ɔːl] トランスファー オール",
+        "from the → from は弱形 /frəm/、the は /ðə/"
+      ],
+      "kana": "ダ プレイヤー ディサイディド タ トランスファー オール ダ ダイアマンズ フラム ダ マイニング ブランチ ベイス トゥ ダ メイン ストーリジ フャシリティ"
+    }
+  ],
+  "substitutions": [
+    {
+      "base": "Please transfer the money to my bank account by Friday.",
+      "swapped_word": "send",
+      "result": "Please send the money to my bank account by Friday.",
+      "ja": "金曜日までに、その金を私の銀行口座に送ってください。",
+      "note": "send は「送る」という一般的な表現だが、transfer は特に「（資金・データ・権利などを）転送する・移す」というより専門的・公式な響き。銀行手続きでは transfer がより正式。"
+    },
+    {
+      "base": "Most passengers transfer between the subway and the bus at the central transportation hub.",
+      "swapped_word": "change",
+      "result": "Most passengers change between the subway and the bus at the central transportation hub.",
+      "ja": "ほとんどの乗客は、中央交通ハブで地下鉄からバスに乗り換えます。",
+      "note": "change も「乗り換える」という意味で使われるが、transfer のほうがより形式的・公式。change は日常会話的で、transfer は乗り継ぎシステムを説明する文脈で好まれる。"
+    }
+  ],
+  "collocations": [
+    "transfer the money（金を振込む）",
+    "transfer technology（技術移転する）",
+    "transfer to a new position（新しい職位に異動する）",
+    "transfer between（～から～に乗り換える）"
+  ],
+  "pos_all": "動詞・名詞",
+  "rank": 1089,
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "transfers",
+      "ipa": "/ˈtrænsfɜrz/",
+      "examples": [
+        {
+          "en": "The transfers of power happened smoothly during the political transition.",
+          "ja": "政治的な転換期中に、権力の移譲がスムーズに行われた。",
+          "ipa": "/ðə ˈtrænsfɜrz əv ˈpaʊər ˈhæpənd ˈsmuðli ˈdʊrɪŋ ðə pəˈlɪtɪkəl ˈtrænzɪʃən/",
+          "kana": "ダ トランスファーズ アヴ パウアー ハプゥンド スムーザリー デュリング ダ ポリティカル トランジション",
+          "linking": [
+            "transfers of → 語末子音/z/が母音/ə/に連結 [ˈtrænsfɜrz əv] トランスファーズ オヴ。of は弱形 /əv/"
+          ]
+        },
+        {
+          "en": "Many international transfers of students occur every academic year.",
+          "ja": "毎年、多くの国際的な学生の転入が発生します。",
+          "ipa": "/ˈmeni ˌɪntɚˈnæʃənəl ˈtrænsfɜrz əv ˈstjudənts əˈkɜr ˈɛvri əˈkædɛmɪk jɪr/",
+          "kana": "メニ インターナショナル トランスファーズ アヴ スチューデンツ ァカー エヴリー アカデミック イヤー",
+          "linking": [
+            "transfers of → 語末子音/z/が母音/ə/に連結、of は弱形 /əv/",
+            "every academic → every の語末音と academic の初頭が続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "transfers",
+      "ipa": "/ˈtrænsfɜrz/",
+      "examples": [
+        {
+          "en": "The company transfers employees to different offices every two years as part of their career development program.",
+          "ja": "その会社はキャリア開発プログラムの一環として、2年ごとに従業員を異なるオフィスに転勤させます。",
+          "ipa": "/ðə ˈkʌmpəni ˈtrænsfɜrz ɪmˈplɔɪiz tu ˈdɪfərənt ˈɔfɪsɪz ˈɛvri tu jɪrz əz pɑːrt əv ðɛr kəˈrɪr dɪˈvɛləpmənt ˈproʊɡræm/",
+          "kana": "ダ カンパニー トランスファーズ エンプロイーズ トゥ ディファレント オーフィシーズ エヴリー トゥー イヤーズ アズ パート アヴ ゼア キャリア ディベロップメント プログラム",
+          "linking": [
+            "transfers employees → 語末/z/が母音に連結、employees は /ɪmˈplɔɪiz/"
+          ]
+        },
+        {
+          "en": "She transfers her savings to a safe investment account each month.",
+          "ja": "彼女は毎月、貯蓄を安全な投資口座に移します。",
+          "ipa": "/ʃi ˈtrænsfɜrz hɚ ˈseɪvɪŋz tu ə seɪf ɪnˈvɛstmənt əˈkaʊnt itʃ mʌnθ/",
+          "kana": "シー トランスファーズ ハー セイビングズ トゥ ア セーフ インベストメント ァカウント イッチ マンス",
+          "linking": [
+            "transfers her → 語末/z/が母音/ə/に連結"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "transferred",
+      "ipa": "/trænzˈfɝd/",
+      "examples": [
+        {
+          "en": "The university transferred me to a different department without asking my permission.",
+          "ja": "その大学は私に断りなく、別の部門に移してしまいました。",
+          "ipa": "/ðə ˌjuːnɪˈvɝsɪti trænzˈfɝd mi tu ə ˈdɪfərənt dɪˈpɑːrtmənt wɪˈsaʊt ˈæskɪŋ maɪ pərˈmɪʃən/",
+          "kana": "ダ ユニバーシティ トランスファード ミー トゥ ア ディファレント ディパートメント ウィザウト アスキング マイ パーミッション",
+          "linking": [
+            "transferred me → 語末/d/が母音/i/に連結 [trænzˈfɝd mi] トランスファード ミー",
+            "without asking → 語末子音/t/が母音に挟まれてフラップ化"
+          ]
+        },
+        {
+          "en": "They transferred the files to a cloud storage system last week.",
+          "ja": "彼らは先週、ファイルをクラウドストレージシステムに転送しました。",
+          "ipa": "/ðeɪ trænzˈfɝd ðə faɪlz tu ə klaʊd ˈstɔːrɪdʒ ˈsɪstəm læst wik/",
+          "kana": "ゼイ トランスファード ダ ファイルズ トゥ ア クラウド ストーリジ システム ラスト ウィック",
+          "linking": [
+            "transferred the → 語末/d/が子音/ð/に続く（子音+子音）、the は弱形 /ðə/",
+            "to a → to は弱形 /tə/、a は弱形 /ə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "transferred",
+      "ipa": "/trænzˈfɝd/",
+      "examples": [
+        {
+          "en": "The money that had been transferred to the account was immediately withdrawn by the fraud suspect.",
+          "ja": "その口座に転送されていた金は、詐欺容疑者によってすぐに引き出されました。",
+          "ipa": "/ðə ˈmʌni ðæt həd bɪn trænzˈfɝd tu ðə əˈkaʊnt wəz ɪˈmiːdiətli wɪðˈdrɔːn baɪ ðə ˈfrɔːd səsˈpɛkt/",
+          "kana": "ダ マニー ザット ハド ビン トランスファード トゥ ディ ァカウント ワズ イミーディエットリー ウィズドローン バイ ダ フロード サスペクト",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/"
+          ]
+        },
+        {
+          "en": "Once transferred to a new school, the student struggled to adapt to the unfamiliar environment.",
+          "ja": "新しい学校に転校すると、その学生は見慣れない環境に適応するのに苦労した。",
+          "ipa": "/wʌns trænzˈfɝd tu ə ˈnjuː skuːl | ðə ˈstudənt ˈstrʌɡəld tu əˈdæpt tu ðə ʌnfəˈmɪliər ɪnˈvaɪrənmənt/",
+          "kana": "ワンス トランスファード トゥ ア ニュー スクール、ダ スチューデント ストラグゥルド トゥ ァダプト トゥ ダ アンファミリア インバイアメント",
+          "linking": [
+            "Once transferred → 語末/s/が子音に続く（子音+子音）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞（動詞）",
+      "text": "transferring",
+      "ipa": "/trænzˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "Transferring large data files over a slow connection takes considerable time and patience.",
+          "ja": "遅い接続で大きなデータファイルを転送するのにはかなりの時間と忍耐が必要です。",
+          "ipa": "/trænzˈfɝɪŋ lɑːrdʒ ˈdeɪtə faɪlz ˈoʊvɚ ə sloʊ kəˈnɛkʃən ˈteɪks kənˈsɪdərəbəl ˈtaɪm ənd ˈpeɪʃəns/",
+          "kana": "トランスファリング ラージ デイタ ファイルズ オーバー ア スロウ コネクション テイクス コンシデラブル タイム アン ペイシャンス",
+          "linking": [
+            "Transferring large → 語末/ŋ/が母音/l/に連結 [trænzˈfɝɪŋ lɑːrdʒ] トランスファリング ラージ",
+            "data files → data の語末音が/ə/、files が /f/ で始まる"
+          ]
+        },
+        {
+          "en": "By transferring files to the cloud, you ensure they are safe even if your computer crashes.",
+          "ja": "クラウドにファイルを転送することで、コンピュータがクラッシュしても安全であることを保証します。",
+          "ipa": "/baɪ trænzˈfɝɪŋ faɪlz tu ðə klaʊd | ju ɪnˈʃɜːr ðeɪ ɑːr seɪf ˈiːvən ɪf jɚ kəmˈpjuːtɚ ˈkræʃəz/",
+          "kana": "バイ トランスファリング ファイルズ トゥ ダ クラウド、ユー インシュア ゼイ アー セーフ イーヴン イフ ユア コンピューター クラッシーズ",
+          "linking": [
+            "transferring files → 語末/ŋ/が母音に連結 [trænzˈfɝɪŋ faɪlz] トランスファリング ファイルズ",
+            "to the → to は弱形 /tə/、the は /ðə/"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is transferring",
+      "ipa": "/ɪz trænzˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "The staff member is transferring all the old server data to the new secure system right now.",
+          "ja": "スタッフメンバーは今、古いサーバーのすべてのデータを新しいセキュアシステムに移しています。",
+          "ipa": "/ðə stæf ˈmɛmbɚ ɪz trænzˈfɝɪŋ ɔːl ðə oʊld ˈsɜːrvɚ ˈdeɪtə tu ðə ˈnjuː sɪˈkjʊr ˈsɪstəm ˈraɪt naʊ/",
+          "linking": [
+            "is transferring → is は弱形 /ɪz/ に弱化",
+            "transferring all → 語末/ŋ/が母音に連結 [trænzˈfɝɪŋ ɔːl] トランスファリング オール",
+            "the old → the は /ðə/（子音/o/の前）"
+          ],
+          "kana": "ダ スタッフ メンバー イズ トランスファリング オール ダ オウルド サーバー デイタ トゥ ダ ニュー シキュア システム ライト ナウ"
+        },
+        {
+          "en": "We are transferring supplies between bases using minecarts and redstone mechanisms.",
+          "ja": "私たちはトロッコとレッドストーンメカニズムを使って、基地間で物資を移しています。",
+          "ipa": "/wi ɑr trænzˈfɝɪŋ səˈplaɪz bɪˈtwin ˈbeɪsɪz ˈjuːzɪŋ ˈmaɪnˌkɑːrts ənd ˈrɛdsˌtoʊn ˈmɛkənɪzəmz/",
+          "linking": [
+            "are transferring → are は弱形 /ɑr/ に弱化、transferring の末 /ŋ/ は子音に続く",
+            "between bases → 語末音が/z/で、bases の末が/z/"
+          ],
+          "kana": "ウィ アー トランスファリング サプライズ ビトウィーン ベイシーズ ユージング マインカーツ アンド レッドストーン メカニズムズ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was transferring",
+      "ipa": "/wəz trænzˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "He was transferring resources from the old base to the new settlement when a creeper suddenly exploded nearby.",
+          "ja": "彼が古い基地から新しい入植地にリソースを移していたとき、クリーパーが近くでいきなり爆発した。",
+          "ipa": "/hi wəz trænzˈfɝɪŋ ˈrɛsɚsɪz frəm ðə oʊld ˈbeɪs tu ðə ˈnjuː ˈsɛtəlmənt wɛn ə ˈkriːpɚ ˈsʌdənli ɪkˈsploʊdɪd ˈnɪrˌbaɪ/",
+          "linking": [
+            "was transferring → was は弱形 /wəz/ に弱化、transferring の末 /ŋ/ は子音に続く",
+            "from the → from は弱形 /frəm/、the は /ðə/"
+          ],
+          "kana": "ヒー ワズ トランスファリング レソーシーズ フラム ダ オウルド ベイス トゥ ダ ニュー セットゥルメント ホェン ア クリーパー サドゥンリー イクスプロウディド ニアバイ"
+        },
+        {
+          "en": "The team was transferring the valuable enchanted tools when the server suddenly crashed without warning.",
+          "ja": "サーバーが突然警告なしにクラッシュしたとき、チームは貴重なエンチャント道具を移していました。",
+          "ipa": "/ðə tim wəz trænzˈfɝɪŋ ðə ˈvæljuːəbəl ɪnˈtʃɑːntɪd tulz wɛn ðə ˈsɜːrvɚ ˈsʌdənli kræʃt wɪˈaʊt ˈwɔːrnɪŋ/",
+          "linking": [
+            "was transferring → was は弱形 /wəz/ に弱化、the は /ðə/",
+            "without warning → 語末/t/が母音に挟まれてフラップ化 [wɪˈaʊɾ] ウィアウ"
+          ],
+          "kana": "ダ ティーム ワズ トランスファリング ダ ヴァリューァブル インチャンティド トゥールズ ホェン ダ サーバー サドゥンリー クラッシュド ウィザウト ウォーニング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been transferring",
+      "ipa": "/həd bɪn trænzˈfɝɪŋ/",
+      "examples": [
+        {
+          "en": "We had been transferring items for hours when we finally realized the storage room was already full.",
+          "ja": "ストレージルームが既にいっぱいであることに気づくまで、何時間もアイテムを移していました。",
+          "ipa": "/wi həd bɪn trænzˈfɝɪŋ ˈaɪtəmz fɔːr ˈaʊərz wɛn wi ˈfaɪnəli ˈrɪəˌlaɪzd ðə ˈstɔːrɪdʒ rum wəz ɔːlˈrɛdi fʊl/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/ に弱化",
+            "transferring items → 語末/ŋ/が母音に連結 [trænzˈfɝɪŋ ˈaɪtəmz] トランスファリング アイテムズ",
+            "for hours → for は弱形 /fɔr/、hours は /ˈaʊərz/"
+          ],
+          "kana": "ウィ ハド ビン トランスファリング アイテムズ ファー アワーズ ホェン ウィ ファイナリー リアライズド ダ ストーリジ ルーム ワズ オールレディー フル"
+        },
+        {
+          "en": "She had been transferring her profits to an investment account for three years before the financial advisor suggested a better strategy.",
+          "ja": "ファイナンシャルアドバイザーがより良い戦略を提案する前に、彼女は3年間、利益を投資口座に移していました。",
+          "ipa": "/ʃi həd bɪn trænzˈfɝɪŋ hɚ ˈprɑːfɪts tu ən ɪnˈvɛstmənt əˈkaʊnt fɔːr θri jɪrz bɪˈfɔːr ðə ˈfɪnænʃəl ədˈvaɪzɚ səˈdʒɛstɪd ə ˈbɛtɚ ˈstrætɪdʒi/",
+          "linking": [
+            "had been → had は弱形 /həd/、been は弱形 /bɪn/",
+            "transferring her → 語末/ŋ/が母音に連結、her は弱形 /ər/ に弱化 [trænzˈfɝɪŋ ər] トランスファリング アー",
+            "for three → for は弱形 /fɔr/、three は /θri/"
+          ],
+          "kana": "シー ハド ビン トランスファリング ハー プロフィッツ トゥ アン インベストメント ァカウント ファー スリー イヤーズ ビフォア ダ フィナンシャル アドバイザー サジェスティド ア ベラー ストラテジー"
+        }
+      ]
+    }
+  ]
+}

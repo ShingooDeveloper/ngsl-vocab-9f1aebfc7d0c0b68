@@ -1,0 +1,480 @@
+﻿{
+    "word":  "tweet",
+    "pos":  "動詞・名詞",
+    "pos_all":  "動詞・名詞",
+    "ipa_us":  "/twit/",
+    "rank":  0,
+    "level":  "B1",
+    "hi":  "tweet(?:s|ed|ing)?",
+    "meanings":  [
+                     "【動詞】（小鳥が）チュッチュという短い鳴き声を出す",
+                     "【動詞】ツイッターで短いメッセージを投稿する（オンラインで情報を共有する）",
+                     "【名詞】小鳥が出すチュッチュという短い鳴き声",
+                     "【名詞】ツイッター上の短いメッセージ投稿"
+                 ],
+    "examples":  [
+                     {
+                         "en":  "Did you hear the parrots tweet loudly?",
+                         "ja":  "オウムがチュッチュと大きく鳴くのが聞こえた？",
+                         "ipa":  "[dɪd ju hɪr ðə ˈpɛɹəts twɪt ˈlaʊdli]",
+                         "linking":  [
+                                         "「hear the」/r/ が弱形 /ðə/ に連結して [hɪɹðə] ハーザ",
+                                         "「Did you」/d/ から /j/ へ [dɪd ju]。you は弱形 /ju/",
+                                         "「tweet」語末の /t/ が未開放で、次の母音に備える"
+                                     ],
+                         "kana":  "ディッド ユー ハーザ ペラッツ トゥイッ ラウドリー"
+                     },
+                     {
+                         "en":  "In the jungle, the birds tweet at night.",
+                         "ja":  "ジャングルでは、野鳥が夜間にチュッチュと鳴く。",
+                         "ipa":  "[ɪn ðə ˈdʒʌŋɡəl ðə bɜrdz twɪt æt naɪt]",
+                         "linking":  [
+                                         "「in the」/n/ が弱形 /ðə/ の /ə/ に連結 [ɪnðə] インザ",
+                                         "「the jungle」弱形 /ðə/ から /dʒ/ へ、境界が明確",
+                                         "「at night」at は /æt/、night は /naɪt/ で末尾に /t/ を持つ"
+                                     ],
+                         "kana":  "イン ザ ジャングル ザ バーズ トゥイッ アット ナイト"
+                     },
+                     {
+                         "en":  "Tweet about your best Minecraft survival base!",
+                         "ja":  "あなた最高のマインクラフトサバイバル拠点についてツイートしよう！",
+                         "ipa":  "[twɪt əˈbaʊt jɚ bɛst ˈmaɪnkɹ̥æft sɚˈvaɪvəl beɪs]",
+                         "linking":  [
+                                         "「tweet about」/t/ で終わる tweet から schwa /ə/ で始まる about へ [twɪt əˈbaʊt] トゥイット アバウト",
+                                         "「about your」/t/ から /j/ へ [əˈbaʊt jɚ]。your は /jɚ/",
+                                         "「base」語末 /s/ ではっきり終了"
+                                     ],
+                         "kana":  "トゥイット アバウト ユア ベスト マインクラフト サーバイバル ベイス"
+                     }
+                 ],
+    "idioms":  [
+                   {
+                       "idiom":  "post a tweet",
+                       "ja":  "ツイートを投稿する、ツイッターで発信する",
+                       "example":  "I posted a tweet about my awesome base design!",
+                       "example_ja":  "自分の素晴らしい拠点デザインについてツイートを投稿した！",
+                       "ipa":  "[aɪ ˈpoʊstɪd ə twɪt əˈbaʊt maɪ ˈɔsəm beɪs dɪˈzaɪn]",
+                       "linking":  [
+                                       "「posted a」/ɪd/ から schwa /ə/ へ [ˈpoʊstɪd ə]。a は弱形 /ə/",
+                                       "「a tweet」schwa から /t/ へ [ə twɪt] ア トゥイット",
+                                       "「base design」/s/ から /d/ へ [beɪs dɪˈzaɪn]。boundary が明確"
+                                   ],
+                       "kana":  "アイ ポースティッド ア トゥイット アバウト マイ オーサム ベイス ディザイン"
+                   }
+               ],
+    "forms":  [
+                  {
+                      "label":  "三人称単数現在形",
+                      "examples":  [
+                                       {
+                                           "linking":  [
+                                                           "「The parrot」で the は弱形 /ðə/、parrot の /t/ が未開放で次の /t/ に連接",
+                                                           "「tweets whenever」で tweets の語末 /ts/ が母音 /w/ に続き滑らかに「トゥイツ ウェン」",
+                                                           "「opens the」で opens の語末 /z/ が弱形 the /ðə/ に連結「オウペンズ ザ」"
+                                                       ],
+                                           "kana":  "ザ ペラット トゥイツ ウェネヴァー サムワン オウペンズ ザ ウッデン ドア",
+                                           "en":  "The parrot tweets whenever someone opens the wooden door.",
+                                           "ja":  "誰かが木製ドアを開けるたびに、そのオウムがチュッチュと鳴く。",
+                                           "ipa":  "/ðə ˈpɛɹət twits ˈwɛnˌɛvɚ ˈsʌmˌwʌn ˈoʊpənz ðə ˈwʊdən dɔɹ/"
+                                       },
+                                       {
+                                           "linking":  [
+                                                           "「Every morning」で morning の語末 /ŋ/ が母音 /ə/ に連結「モーニング」",
+                                                           "「this bird」で bird の語末 /d/ が次の母音に備える「バード」",
+                                                           "「tweets at」で tweets の語末 /ts/ が母音 /æ/ に続く「トゥイツ アット」"
+                                                       ],
+                                           "kana":  "エヴリー モーニング ディス バード トゥイツ アット サンライズ",
+                                           "en":  "Every morning, this bird tweets at sunrise.",
+                                           "ja":  "毎朝、この鳥は日の出時にチュッチュと鳴く。",
+                                           "ipa":  "/ˈɛvɚi ˈmɔɹnɪŋ ðɪs bɝd twits æt ˈsʌnˌɹaɪz/"
+                                       }
+                                   ],
+                      "ipa":  "/twits/",
+                      "type":  "3rd_person_singular",
+                      "text":  "tweets"
+                  },
+                  {
+                      "label":  "過去形",
+                      "examples":  [
+                                       {
+                                           "linking":  [
+                                                           "「tweeted about」で tweeted の語末 /d/ が母音 /ə/ に連結「トゥイーテッド アバウト」",
+                                                           "「about finding」で about の語末 /t/ が母音 /f/ に近い環境で「アバウト」、finding の /ŋ/ が母音 /d/ に連結",
+                                                           "「at y」で at は /æt/、y は母音 /w/ で始まる「アット ワイ」"
+                                                       ],
+                                           "kana":  "アイ トゥイーテッド アバウト ファインディング ダイマンドズ アット ワイ レヴェル シックスティーン",
+                                           "en":  "I tweeted about finding diamonds at y-level sixteen.",
+                                           "ja":  "Y座標16でダイヤモンドを見つけたことについてツイートした。",
+                                           "ipa":  "/aɪ ˈtwiːtəd əˈbaʊt ˈfaɪndɪŋ ˈdaɪ.mændz æt waɪ ˈlɛvəl ˈsɪkˌstin/"
+                                       },
+                                       {
+                                           "linking":  [
+                                                           "「She tweeted」で She の語末母音 /i/ が tweeted に続く「シー トゥイーテッド」",
+                                                           "「tweeted a」で tweeted の語末 /d/ が母音 /ə/ に連結「トゥイーテッド ア」",
+                                                           "「of her」で of は弱形 /əv/ に弱化「アヴ」、her は弱形 /hɚ/ に弱化「ハー」"
+                                                       ],
+                                           "kana":  "シー トゥイーテッド ア スクリーンショット アヴ ハー コンプリーテッド キャッスル",
+                                           "en":  "She tweeted a screenshot of her completed castle.",
+                                           "ja":  "彼女は完成した城のスクリーンショットをツイートした。",
+                                           "ipa":  "/ʃi ˈtwiːtəd ə ˈskɹiːnˌʃɑt əv hɚ kəmˈplitəd ˈkæsəl/"
+                                       }
+                                   ],
+                      "ipa":  "/ˈtwiːtəd/",
+                      "type":  "past_tense",
+                      "text":  "tweeted"
+                  },
+                  {
+                      "label":  "過去分詞",
+                      "examples":  [
+                                       {
+                                           "linking":  [
+                                                           "「Having tweeted」で Having の語末 /ŋ/ が母音 /t/ に連結「ハービング トゥイーテッド」",
+                                                           "「tweeted my」で tweeted の語末 /d/ が母音 /m/ に連結「トゥイーテッド マイ」",
+                                                           "「to mining」で to は弱形 /tə/ に弱化「トゥー」、mining の /ŋ/ が語末で詰まる感じ「マイニング」"
+                                                       ],
+                                           "kana":  "ハービング トゥイーテッド マイ アチーブメント アイ ウェント バック トゥー マイニング",
+                                           "en":  "Having tweeted my achievement, I went back to mining.",
+                                           "ja":  "自分の成果についてツイートしてから、採掘に戻った。",
+                                           "ipa":  "/ˈhævɪŋ ˈtwiːtəd maɪ əˈtʃivmənt aɪ wɛnt bæk tu ˈmaɪnɪŋ/"
+                                       },
+                                       {
+                                           "linking":  [
+                                                           "「The message」で The は弱形 /ðə/「ザ」に弱化",
+                                                           "「message she」で message の語末 /dʒ/ が母音 /ʃ/ に続く「メッセージ シー」",
+                                                           "「she tweeted」で She の語末母音 /i/ が tweeted に続く「シー トゥイーテッド」",
+                                                           "「among the」で among の語末 /ŋ/ が次の母音に連結、the は弱形 /ðə/「ザ」"
+                                                       ],
+                                           "kana":  "ザ メッセージ シー トゥイーテッド ビケイム ヴァイラル アマング ザ コミュニティ",
+                                           "en":  "The message she tweeted became viral among the community.",
+                                           "ja":  "彼女がツイートしたそのメッセージはコミュニティ内で拡散した。",
+                                           "ipa":  "/ðə ˈmɛsɪdʒ ʃi ˈtwiːtəd bɪˈkeɪm ˈvaɪɹəl əˈmʌŋ ðə kəˈmjuːnəti/"
+                                       }
+                                   ],
+                      "ipa":  "/ˈtwiːtəd/",
+                      "type":  "past_participle",
+                      "text":  "tweeted"
+                  },
+                  {
+                      "label":  "現在分詞・動名詞",
+                      "examples":  [
+                                       {
+                                           "linking":  [
+                                                           "「I\u0027m tweeting」で I は /aɪ/、\u0027m は縮約で /m/、tweeting は「アイム トゥイーティング」と自然に流れる",
+                                                           "「tweeting updates」で tweeting の語末 /ŋ/ が母音 /ʌ/ に連結「トゥイーティング アップデイツ」",
+                                                           "「updates about」で updates の語末 /ts/ が母音 /ə/ に続く「アップデイツ アバウト」"
+                                                       ],
+                                           "kana":  "アイム トゥイーティング アップデイツ アバウト ディス アメイジング ディスカヴァリー ライト ナウ",
+                                           "en":  "I\u0027m tweeting updates about this amazing discovery right now.",
+                                           "ja":  "この素晴らしい発見についての更新情報を今ツイートしている。",
+                                           "ipa":  "/aɪm ˈtwiːtɪŋ ˈʌpˌdeɪts əˈbaʊt ðɪs əˈmeɪzɪŋ dɪsˈkʌvɚi ˈraɪt naʊ/"
+                                       },
+                                       {
+                                           "linking":  [
+                                                           "「Players are」で Players の語末 /z/ が母音 /ɑ/ に連結「プレイヤーズ アー」",
+                                                           "「are tweeting」で are は弱形 /ɚ/ に弱化「アー」、tweeting の /t/ に続く「トゥイーティング」",
+                                                           "「tweeting screenshots」で tweeting の語末 /ŋ/ が母音 /s/ に近い環境で「トゥイーティング スクリーンショッツ」"
+                                                       ],
+                                           "kana":  "プレイヤーズ アー トゥイーティング スクリーンショッツ アヴ ザ ニュー ネザー バイオム",
+                                           "en":  "Players are tweeting screenshots of the new Nether biome.",
+                                           "ja":  "プレイヤーたちは新しいネザーバイオームのスクリーンショットをツイートしている。",
+                                           "ipa":  "/ˈpleɪɚz ɑɹ ˈtwiːtɪŋ ˈskɹiːnˌʃɑts əv ðə nu ˈnɛðɚ ˈbaɪˌoʊm/"
+                                       }
+                                   ],
+                      "ipa":  "/ˈtwiːtɪŋ/",
+                      "type":  "present_participle",
+                      "text":  "tweeting"
+                  },
+                  {
+                      "label":  "複数形",
+                      "examples":  [
+                                       {
+                                           "linking":  [
+                                                           "「His tweets」で His の語末 /z/ が母音 /t/ に近い環境で「ヒズ トゥイツ」",
+                                                           "「tweets about」で tweets の語末 /ts/ が母音 /ə/ に続き「トゥイツ アバウト」",
+                                                           "「of retweets」で of は弱形 /əv/「アヴ」に弱化、retweets は /riˈtwits/ で最後 /ts/「リトゥイツ」"
+                                                       ],
+                                           "kana":  "ヒズ トゥイツ アバウト レッドストウン サーキッツ リシーヴド ザウザンズ アヴ リトゥイツ",
+                                           "en":  "His tweets about redstone circuits received thousands of retweets.",
+                                           "ja":  "レッドストーン回路についての彼のツイートは数千件のリツイートを受けた。",
+                                           "ipa":  "/hɪz twits əˈbaʊt ˈɹɛdstoʊn ˈsɜɹkɪts rɪˈsivd ˈθaʊzəndz əv riˈtwits/"
+                                       },
+                                       {
+                                           "linking":  [
+                                                           "「The community」で The は弱形 /ðə/「ザ」、community の /i/ で終わり滑らかに「コミュニティ」",
+                                                           "「community shares」で community の語末母音 /i/ が shares の /ʃ/ に続く「コミュニティ シェアーズ」",
+                                                           "「shares tweets」で shares の語末 /z/ が母音 /t/ に近い環境で「シェアーズ トゥイツ」"
+                                                       ],
+                                           "kana":  "ザ コミュニティ シェアーズ トゥイツ アバウト ザ レイテスト マインクラフト アップデイト",
+                                           "en":  "The community shares tweets about the latest Minecraft update.",
+                                           "ja":  "コミュニティは最新のマインクラフト更新についてのツイートを共有しています。",
+                                           "ipa":  "/ðə kəˈmjuːnəti ʃɛɹz twits əˈbaʊt ðə ˈleɪtəst ˈmaɪnˌkɹæft ˈʌpˌdeɪt/"
+                                       }
+                                   ],
+                      "ipa":  "/twits/",
+                      "type":  "plural",
+                      "text":  "tweets"
+                  },
+                  {
+                      "label":  "現在進行形（am/is/are + -ing）",
+                      "type":  "present_progressive",
+                      "text":  "is tweeting",
+                      "ipa":  "/ɪz ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "I'm tweeting updates about this amazing diamond discovery right now.",
+                                           "ja":  "このすごいダイヤモンド発見について、今ツイートで更新情報をやり取りしている。",
+                                           "ipa":  "[aɪm ˈtwiːtɪŋ ˈʌpˌdeɪts əˈbaʊt ðɪs əˈmeɪzɪŋ ˈdaɪ.mənd dɪsˈkʌvɚi ˈraɪt naʊ]",
+                                           "linking":  [
+                                                           "「tweeting updates」で tweeting の語末 /ŋ/ が updates の /ʌ/ に連結「トゥイーティング アップデイツ」"
+                                                       ],
+                                           "kana":  "アイム トゥイーティング アップデイツ アバウト ディス アメイジング ダイモンド ディスカヴァリー ライト ナウ"
+                                       },
+                                       {
+                                           "en":  "He is tweeting screenshots of his incredible new fortress.",
+                                           "ja":  "彼は彼の素晴らしい新しい砦のスクリーンショットをツイートしている。",
+                                           "ipa":  "[hi ɪz ˈtwiːtɪŋ ˈskɹiːnˌʃɑts əv hɪz ɪnˈkɹɛdəbəl nu ˈfɔɹtɚs]",
+                                           "linking":  [
+                                                           "「tweeting screenshots」で tweeting の語末 /ŋ/ が screenshots の /s/ に続く。両方子音だが自然な流れ",
+                                                           "「of his」で of は弱形 /əv/ に弱化「アヴ」、his は /hɪz/ で弱く発音される"
+                                                       ],
+                                           "kana":  "ヒー イズ トゥイーティング スクリーンショッツ アヴ ヒズ インクレディブル ニュー フォートレス"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "過去進行形（was/were + -ing）",
+                      "type":  "past_progressive",
+                      "text":  "was tweeting",
+                      "ipa":  "/wəz ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "I was tweeting when the server suddenly crashed.",
+                                           "ja":  "サーバーが突然クラッシュしたとき、私はツイートしていた。",
+                                           "ipa":  "[aɪ wəz ˈtwiːtɪŋ wɛn ðə ˈsɜɹvɚ ˈsʌɾənli kɹæʃt]",
+                                           "linking":  [
+                                                           "「tweeting when」で tweeting の語末 /ŋ/ が when の /w/ に続き「トゥイーティング ウェン」"
+                                                       ],
+                                           "kana":  "アイ ワズ トゥイーティング ウェン ザ サーヴァー サランリー クラッシュト"
+                                       },
+                                       {
+                                           "en":  "They were tweeting their discoveries in the deep dark when they heard a scary sound.",
+                                           "ja":  "彼らが怖い音を聞いた時、ディープダークでの発見についてツイートしていた。",
+                                           "ipa":  "[ðeɪ wɚ ˈtwiːtɪŋ ðɛɚ dɪsˈkʌvɚiz ɪn ðə dip dɑɹk wɛn ðeɪ hɝd ə ˈskɛɹi saʊnd]",
+                                           "linking":  [
+                                                           "「heard a」で heard は /hɝd/（r音）で終わり、a の /ə/ に r-linking で「ハード ア」"
+                                                       ],
+                                           "kana":  "ゼイ ワー トゥイーティング ゼア ディスカヴァリーズ イン ザ ディープ ダーク ウェン ゼイ ハード ア スケアリー サウンド"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "過去完了進行形（had been + -ing）",
+                      "type":  "past_perfect_progressive",
+                      "text":  "had been tweeting",
+                      "ipa":  "/həd bɪn ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "I had been tweeting about my progress for hours when the lag finally stopped.",
+                                           "ja":  "ラグがついに止まったとき、私は何時間も進行状況についてツイートしていた。",
+                                           "ipa":  "[aɪ həd bɪn ˈtwiːtɪŋ əˈbaʊt maɪ ˈprɑɡɹɛs fɔr ˈaʊɚz wɛn ðə læɡ ˈfaɪnəli ˈstɑpt]",
+                                           "linking":  [
+                                                           "「had」は弱形 /həd/「ハド」、「been」も弱形 /bɪn/「ビン」。両方とも助動詞で弱化",
+                                                           "「tweeting about」で tweeting の語末 /ŋ/ が about の /ə/ に連結「トゥイーティング アバウト」"
+                                                       ],
+                                           "kana":  "アイ ハド ビン トゥイーティング アバウト マイ プログレス フォー アワーズ ウェン ザ ラッグ ファイナリー スタップト"
+                                       },
+                                       {
+                                           "en":  "The builders realized they had been tweeting about the wrong coordinates the entire time.",
+                                           "ja":  "ビルダーたちは、ずっと間違った座標についてツイートしていたことに気づいた。",
+                                           "ipa":  "[ðə ˈbɪldɚz ˈriəˌlaɪzd ðeɪ həd bɪn ˈtwiːtɪŋ əˈbaʊt ðə rɑŋ ˌkoʊˈɔɹdənɪts ðə ɪnˈtaɪɚ taɪm]",
+                                           "linking":  [
+                                                           "「had」は弱形 /həd/「ハド」、「been」も弱形 /bɪn/「ビン」で助動詞の弱化",
+                                                           "「tweeting about」で tweeting の /ŋ/ が about の /ə/ に連結「トゥイーティング アバウト」",
+                                                           "「the」は弱形 /ðə/「ザ」が3箇所（builders, wrong, entire の前）に出現"
+                                                       ],
+                                           "kana":  "ザ ビルダーズ リアライズド ゼイ ハド ビン トゥイーティング アバウト ザ ロング コーディネイツ ザ イン タイア タイム"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "現在完了形（has/have + 過去分詞）",
+                      "type":  "present_perfect",
+                      "text":  "has tweeted",
+                      "ipa":  "/həz ˈtwiːtəd/",
+                      "examples":  [
+                                       {
+                                           "en":  "The streamer has tweeted about the new update three times already.",
+                                           "ja":  "そのストリーマーは新しいアップデートについて既に3回ツイートしている。",
+                                           "ipa":  "[ðə ˈstɹimɚ həz ˈtwiːtəd əˈbaʊt ðə nu ˈʌpˌdeɪt θri taɪmz ɔlˈɹɛdi]",
+                                           "linking":  [
+                                                           "「has tweeted」で has は弱形 /həz/「ハズ」、tweeted に自然に続く「トゥイーテッド」",
+                                                           "「about the」で about の語末 /t/ が the の弱形 /ðə/ に連結「アバウト ザ」",
+                                                           "「three times」で three の語末 /i/ が times の /t/ に続き「スリー タイムズ」"
+                                                       ],
+                                           "kana":  "ザ ストリーマー ハズ トゥイーテッド アバウト ザ ニュー アップデイト スリー タイムズ オールレディ"
+                                       },
+                                       {
+                                           "en":  "Players have tweeted thousands of screenshots from the latest event.",
+                                           "ja":  "プレイヤーたちは最新イベントから何千もののスクリーンショットをツイートしている。",
+                                           "ipa":  "[ˈpleɪɚz həv ˈtwiːtəd ˈθaʊzəndz əv ˈskɹiːnˌʃɑts fɹəm ðə ˈleɪtəst ɪˈvɛnt]",
+                                           "linking":  [
+                                                           "「have tweeted」で have は弱形 /həv/「ハヴ」、tweeted に続く「トゥイーテッド」",
+                                                           "「tweeted thousands」で tweeted の語末 /d/ が thousands の /θ/ に続き「トゥイーテッド サウザンズ」",
+                                                           "「of screenshots」で of は弱形 /əv/「アヴ」に弱化、screenshots の /s/ に続く"
+                                                       ],
+                                           "kana":  "プレイヤーズ ハヴ トゥイーテッド サウザンズ アヴ スクリーンショッツ フラム ザ レイテスト イベント"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "過去完了形（had + 過去分詞）",
+                      "type":  "past_perfect",
+                      "text":  "had tweeted",
+                      "ipa":  "/həd ˈtwiːtəd/",
+                      "examples":  [
+                                       {
+                                           "en":  "Before the server restarted, the admin had tweeted a warning message.",
+                                           "ja":  "サーバーが再起動する前に、管理者は警告メッセージをツイートしていた。",
+                                           "ipa":  "[bɪˈfɔɹ ðə ˈsɜɹvɚ ɹiˈstɑɹtɪd ðə ˈædmɪn həd ˈtwiːtəd ə ˈwɔɹnɪŋ ˈmɛsɪdʒ]",
+                                           "linking":  [
+                                                           "「had tweeted」で had は弱形 /həd/「ハド」、tweeted に続く「トゥイーテッド」",
+                                                           "「tweeted a」で tweeted の語末 /d/ が a の弱形 /ə/ に連結「トゥイーテッド ア」",
+                                                           "「the server」で the は弱形 /ðə/「ザ」に弱化、server に続く"
+                                                       ],
+                                           "kana":  "ビフォー ザ サーヴァー リースターティッド ザ アドミン ハド トゥイーテッド ア ウォーニング メッセージ"
+                                       },
+                                       {
+                                           "en":  "By the time they finished building, they had tweeted their entire journey.",
+                                           "ja":  "建築を終わるまでに、彼らは自分たちの全過程をツイートしていた。",
+                                           "ipa":  "[baɪ ðə taɪm ðeɪ ˈfɪnɪʃt ˈbɪldɪŋ ðeɪ həd ˈtwiːtəd ðɛɚ ɪnˈtaɪɚ ˈdʒɜɹni]",
+                                           "linking":  [
+                                                           "「had tweeted」で had は弱形 /həd/「ハド」、tweeted に続く「トゥイーテッド」",
+                                                           "「tweeted their」で tweeted の語末 /d/ が their の弱形 /ðɛɚ/ に連結「トゥイーテッド ゼア」",
+                                                           "「their entire」で their の語末 /r/ が entire の /ɪ/ に r-linking で「ゼア イン タイア」"
+                                                       ],
+                                           "kana":  "バイ ザ タイム ゼイ フィニッシュト ビルディング ゼイ ハド トゥイーテッド ゼア イン タイア ジャーニー"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "現在完了進行形（has/have been + -ing）",
+                      "type":  "present_perfect_progressive",
+                      "text":  "has been tweeting",
+                      "ipa":  "/həz bɪn ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "She has been tweeting building tips for the community all morning.",
+                                           "ja":  "彼女は朝中ずっとコミュニティのために建築のコツをツイートしている。",
+                                           "ipa":  "[ʃi həz bɪn ˈtwiːtɪŋ ˈbɪldɪŋ tɪps fɔɹ ðə kəˈmjuːnəti ɔl ˈmɔɹnɪŋ]",
+                                           "linking":  [
+                                                           "「has been」で has は弱形 /həz/「ハズ」、been も弱形 /bɪn/「ビン」で助動詞の弱化",
+                                                           "「been tweeting」で been の語末 /n/ が tweeting の /t/ に続き「ビン トゥイーティング」",
+                                                           "「tweeting building」で tweeting の語末 /ŋ/ が building の /b/ に続く「トゥイーティング ビルディング」"
+                                                       ],
+                                           "kana":  "シー ハズ ビン トゥイーティング ビルディング ティップス フォー ザ コミュニティ オール モーニング"
+                                       },
+                                       {
+                                           "en":  "The news account has been tweeting updates about the new biome since yesterday.",
+                                           "ja":  "ニュースアカウントは昨日からずっと新しいバイオームについての更新情報をツイートしている。",
+                                           "ipa":  "[ðə ˈnuz əˈkaʊnt həz bɪn ˈtwiːtɪŋ ˈʌpˌdeɪts əˈbaʊt ðə nu ˈbaɪˌoʊm sɪns ˈjɛstɚˌdeɪ]",
+                                           "linking":  [
+                                                           "「has been」で has は弱形 /həz/「ハズ」、been も弱形 /bɪn/「ビン」で助動詞の弱化",
+                                                           "「tweeting updates」で tweeting の語末 /ŋ/ が updates の /ʌ/ に連結「トゥイーティング アップデイツ」",
+                                                           "「about the」で about の語末 /t/ が the の弱形 /ðə/ に連結「アバウト ザ」"
+                                                       ],
+                                           "kana":  "ザ ニューズ アカウント ハズ ビン トゥイーティング アップデイツ アバウト ザ ニュー バイオム シンス イェスタデイ"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "単純未来形（will + 動詞原形）",
+                      "type":  "future",
+                      "text":  "will tweet",
+                      "ipa":  "/wɪl twit/",
+                      "examples":  [
+                                       {
+                                           "en":  "I will tweet about this incredible diamond discovery as soon as I get back to base.",
+                                           "ja":  "拠点に戻ったら、この素晴らしいダイヤモンドの発見についてすぐツイートします。",
+                                           "ipa":  "[aɪ wɪl twit əˈbaʊt ðɪs ɪnˈkɹɛdəbəl ˈdaɪ.mənd dɪsˈkʌvɚi əz suːn əz aɪ ˈɡɛt ˈbæk tə ˈbeɪs]",
+                                           "linking":  [
+                                                           "「will tweet」で will の語末 /l/ が tweet の初頭 /t/ に続く（子音+子音、連結なし）",
+                                                           "「about this」で about の語末 /t/ が this の初頭 /ð/ に続く（子音+子音、連結なし）",
+                                                           "「get back」で get の語末 /t/ が back の初頭 /b/ に続く（子音+子音、連結なし）"
+                                                       ],
+                                           "kana":  "アイ ウィル トゥイット アバウト ディス インクレディブル ダイマンド ディスカヴァリー アズ スーン アズ アイ ゲット バック トゥ ベイス"
+                                       },
+                                       {
+                                           "en":  "The streamers will tweet all the highlights from the tournament next weekend.",
+                                           "ja":  "ストリーマーたちは来週末のトーナメントのハイライトをすべてツイートするでしょう。",
+                                           "ipa":  "[ðə ˈstɹimɚz wɪl twit ɔːl ðə ˈhaɪˌlaɪts fɹəm ðə ˈtɚnəmənt ˈnɛkst ˈwikˌɛnd]",
+                                           "linking":  [
+                                                           "「streamers will」で streamers の語末 /z/ が will の初頭 /w/ に続く（子音+子音、連結なし）",
+                                                           "「will tweet」で will の語末 /l/ が tweet の初頭 /t/ に続く（子音+子音、連結なし）",
+                                                           "「from the」で from は弱形 /frəm/、the は弱形 /ðə/ に弱化 [frəm ðə] フラム ザ"
+                                                       ],
+                                           "kana":  "ザ ストリーマーズ ウィル トゥイット オール ザ ハイライツ フラム ザ ターナメント ネクスト ウィークエンド"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "未来進行形（will be + -ing）",
+                      "type":  "future_progressive",
+                      "text":  "will be tweeting",
+                      "ipa":  "/wɪl bi ˈtwiːtɪŋ/",
+                      "examples":  [
+                                       {
+                                           "en":  "We'll be tweeting live updates throughout the entire building process tomorrow.",
+                                           "ja":  "明日は、建築プロセス全体を通じてライブ更新をツイートしています。",
+                                           "ipa":  "[wil bi ˈtwiːtɪŋ ˈlaɪv ˈʌpˌdeɪts θɹuːˈaʊt ði ɪnˈtaɪɚ ˈbɪldɪŋ ˈprɑsɛs təˈmɑɹoʊ]",
+                                           "linking":  [
+                                                           "「We'll」で we と will が縮約 /wil/ ウィル",
+                                                           "「be tweeting」で be の弱形 /bi/ が tweeting の /t/ に続く（母音+子音、連結なし）",
+                                                           "「tweeting updates」で tweeting の語末 /ŋ/ が updates の /ʌ/ に連結 [ˈtwiːtɪŋ ˈʌpˌdeɪts] トゥイーティング アップデイツ"
+                                                       ],
+                                           "kana":  "ウィル ビー トゥイーティング ライヴ アップデイツ スルーアウト ジ エンタイアー ビルディング プロセス トゥモロウ"
+                                       },
+                                       {
+                                           "en":  "During the main event, she will be tweeting screenshots of all the best moments.",
+                                           "ja":  "メインイベント中、彼女は最高の瞬間のスクリーンショットをツイートしています。",
+                                           "ipa":  "[ˈdʊɹɪŋ ðə ˈmeɪn ɪˈvɛnt | ʃi wɪl bi ˈtwiːtɪŋ ˈskɹiːnˌʃɑts əv ɔːl ðə ˈbɛst ˈmoʊmənts]",
+                                           "linking":  [
+                                                           "「During the」で During の語末 /ŋ/ が the の初頭 /ð/ に続く（子音+子音、連結なし）、the は弱形 /ðə/",
+                                                           "「she will」で she の語末母音 /i/ が will の /w/ に続く（母音+子音、連結なし）",
+                                                           "「tweeting screenshots」で tweeting の語末 /ŋ/ が screenshots の /s/ に続く（子音+子音、連結なし）"
+                                                       ],
+                                           "kana":  "ドゥリング ザ メイン イベント、シー ウィル ビー トゥイーティング スクリーンショッツ アヴ オール ザ ベスト モーメンツ"
+                                       }
+                                   ]
+                  },
+                  {
+                      "label":  "未来完了形（will have + 過去分詞）",
+                      "type":  "future_perfect",
+                      "text":  "will have tweeted",
+                      "ipa":  "/wɪl əv ˈtwiːtəd/",
+                      "examples":  [
+                                       {
+                                           "en":  "By the end of today, we will have tweeted at least ten updates about our progress.",
+                                           "ja":  "今日の終わりまでに、私たちは進捗について少なくとも10件のツイートをしているでしょう。",
+                                           "ipa":  "[baɪ ðə ˈɛnd əv təˈdeɪ | wi wɪl əv ˈtwiːtəd ət ˈlist ˈtɛn ˈʌpˌdeɪts əˈbaʊt ˈaʊɚ ˈprɑɡɹɛs]",
+                                           "linking":  [
+                                                           "「By the」で By の語末 /aɪ/ が the の初頭 /ð/ に続く（母音+子音、連結なし）、the は弱形 /ðə/",
+                                                           "「will have」で will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、連結なし）、have は弱形 /əv/",
+                                                           "「about our」で about の語末 /t/ が our の初頭 /a/ に連結 [əˈbaʊt ˈaʊɚ] アバウト アワー"
+                                                       ],
+                                           "kana":  "バイ ザ エンド アヴ トゥデイ、ウィ ウィル アヴ トゥイーテッド アット リスト テン アップデイツ アバウト アワー プログレス"
+                                       },
+                                       {
+                                           "en":  "The community managers will have tweeted all the patch notes before the new update goes live.",
+                                           "ja":  "新しいアップデートがライブになる前に、コミュニティマネージャーがすべてのパッチノートをツイートしているでしょう。",
+                                           "ipa":  "[ðə kəˈmjuːnəti ˈmænɪdʒɚz wɪl əv ˈtwiːtəd ɔːl ðə ˈpætʃ noʊts bɪˈfɔɹ ðə nu ˈʌpˌdeɪt ˈɡoʊz ˈlaɪv]",
+                                           "linking":  [
+                                                           "「managers will」で managers の語末 /z/ が will の初頭 /w/ に続く（子音+子音、連結なし）",
+                                                           "「will have」で will の語末 /l/ が have の初頭 /h/ に続く（子音+子音、連結なし）、have は弱形 /əv/",
+                                                           "「tweeted all」で tweeted の語末 /d/ が all の初頭 /ɔː/ に連結 [ˈtwiːtəd ɔːl] トゥイーテッド オール"
+                                                       ],
+                                           "kana":  "ザ コミュニティ マネージャーズ ウィル アヴ トゥイーテッド オール ザ パッチ ノウツ ビフォー ザ ニュー アップデイト ゴウズ ライヴ"
+                                       }
+                                   ]
+                  }
+              ]
+}

@@ -1,0 +1,422 @@
+{
+  "word": "fine",
+  "pos": "形容詞・名詞・動詞",
+  "pos_all": "形容詞・名詞・動詞",
+  "ipa_us": "/faɪn/",
+  "rank": 1440,
+  "level": "A1",
+  "hi": "fine|finer|finest|fines|fined|fining",
+  "meanings": [
+    "【形容詞】良い、結構な、立派な（good, satisfactory）",
+    "【形容詞】細かい、精密な、繊細な（thin, delicate）",
+    "【形容詞】晴れた、天気の良い（having nice weather）",
+    "【名詞】罰金、罰則金（a monetary penalty）",
+    "【動詞】～に罰金を科す（impose a fine on）"
+  ],
+  "examples": [
+    {
+      "en": "That's a fine sword you crafted!",
+      "ja": "君が作ったそのダイヤモンドの剣は素晴らしい！",
+      "ipa": "/ðæts ə ˈfaɪn ˈsɔːrd ju ˈkræftəd/",
+      "linking": [
+        "that's a → /z/ + /ə/ が連結、a は弱形 /ə/",
+        "fine sword → sword の初 /s/ は清音、連結なし"
+      ],
+      "kana": "ザッツ ア ファイン ソード ユー クラフティッド"
+    },
+    {
+      "en": "The weather is fine today for mining diamonds.",
+      "ja": "ダイヤモンド採掘には天気がいい日だ。",
+      "ipa": "/ðə ˈwɛðər ɪz ˈfaɪn təˈdeɪ fɔːr ˈmaɪnɪŋ ˈdaɪməndz/",
+      "linking": [
+        "is fine → /z/ + /f/ は consonant+consonant、連結なし",
+        "fine today → /n/ + /t/ は consonant+consonant、連結なし",
+        "for mining → /r/ + /m/ は consonant+consonant、連結なし"
+      ],
+      "kana": "ザ ウェザー イズ ファイン トゥデイ フォー マイニング ダイアマンズ"
+    },
+    {
+      "en": "The crafted armor has a fine finish with perfect enchantments.",
+      "ja": "作った鎧は完璧なエンチャント付きで素晴らしい仕上がりだ。",
+      "ipa": "/ðə ˈkræftəd ˈɑːrmɚ həz ə ˈfaɪn ˈfɪnɪʃ wɪð ˈpɜːrfɪkt ɪnˈtʃæntmənts/",
+      "linking": [
+        "has a → /z/ + /ə/ が連結",
+        "fine finish → /n/ + /f/ は consonant+consonant、連結なし",
+        "with perfect → /ð/ + /p/ は consonant+consonant、連結なし"
+      ],
+      "kana": "ザ クラフティッド アーマー ハズ ア ファイン フィニッシュ ウィズ パーフェクト インチャントメンツ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "fine and dandy",
+      "ja": "素晴らしい、申し分ない",
+      "example": "The base looks fine and dandy now that we've added the new tower.",
+      "example_ja": "新しい塔を追加したので、本拠地は今いい感じだ。",
+      "ipa": "/ðə ˈbeɪs ˈlʊks ˈfaɪn ən ˈdændi naʊ ðæt wiv ˈædəd ðə ˈnjuː ˈtaʊər/",
+      "linking": [
+        "and は弱形 /ən/",
+        "dandy now → /i/ + /n/ が hiatus、now の初 /n/",
+        "that we've → /t/ + /w/ は consonant+consonant、連結なし"
+      ],
+      "kana": "ザ ベイス ルックス ファイン アン ダンディ ナウ ザット ウィヴ アディッド ザ ニュー タウアー"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "I found a fine vein of diamonds at Y-level 16 today.",
+      "ja": "今日、Y=16のレベルで素晴らしいダイヤモンド鉱脈を見つけた。",
+      "ipa": "/aɪ ˈfaʊnd ə ˈfaɪn ˈveɪn əv ˈdaɪməndz ət waɪ ˈlɛvəl ˈsɪkˌstin təˈdeɪ/",
+      "linking": [
+        "found a → /d/ + /ə/ が連結",
+        "fine vein → /n/ + /v/ は consonant+consonant、連結なし",
+        "of diamonds → /v/ + /d/ は consonant+consonant、連結なし"
+      ],
+      "kana": "アイ ファウンド ア ファイン ベイン オブ ダイアマンズ アット ワイ レベル シックスティーン トゥデイ"
+    },
+    {
+      "en": "Your redstone contraption is working fine—no glitches!",
+      "ja": "君のレッドストーン機械はちゃんと動いている、バグなし！",
+      "ipa": "/jɔːr ˈrɛdˌstoʊn kənˈtræpʃən ɪz ˈwɝkɪŋ ˈfaɪn noʊ ˈɡlɪtʃɪz/",
+      "linking": [
+        "working fine → /ŋ/ + /f/ は consonant+consonant、連結なし",
+        "fine no → /n/ + /n/ は consonant+consonant、連結なし"
+      ],
+      "kana": "ユア レッドストーン カントラプション イズ ワーキング ファイン ノー グリッチズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "comparative",
+      "label": "比較級（形容詞）",
+      "text": "finer",
+      "ipa": "/ˈfaɪnər/",
+      "examples": [
+        {
+          "en": "This diamond ore is finer quality than the one we mined yesterday.",
+          "ja": "このダイヤモンド鉱石は昨日採掘したものより品質が良い。",
+          "ipa": "/ðɪs ˈdaɪmənd ɔːr ɪz ˈfaɪnər ˈkwɑːlɪti ðən ðə ˈwʌn wi ˈmaɪnd ˈjɛstərˌdeɪ/",
+          "linking": [
+            "is finer → /z/ + /f/ は consonant+consonant、連結なし",
+            "finer quality → /r/ + /k/ は consonant+consonant、連結なし",
+            "quality than → /i/ + /ð/ は consonant+consonant、連結なし",
+            "the one → the は弱形 /ðə/"
+          ],
+          "kana": "ディス ダイアマンド オア イズ ファイナー クウォリティ ザン ダ ワン ウィー マインド イェスターデイ"
+        },
+        {
+          "en": "The finer details of your castle architecture are amazing.",
+          "ja": "君の城の建築の細かい部分は素晴らしい。",
+          "ipa": "/ðə ˈfaɪnər dɪˈteɪlz əv jɔːr ˈkæsəl ˈɑːrkɪˌtɛktʃɚ ɑːr əˈmeɪzɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "details of → /z/ + /ə/ が連結、of は弱形 /əv/",
+            "of your → /v/ + /j/ は consonant+consonant、連結なし",
+            "architecture are → /r/ + /ɑr/ が連結 [ˈɑːrkɪˌtɛktʃɚ ɑːr]"
+          ],
+          "kana": "ザ ファイナー ディテイルズ オヴユアー キャッスル アーキテクチャー アー ア メイジング"
+        }
+      ]
+    },
+    {
+      "type": "superlative",
+      "label": "最上級（形容詞）",
+      "text": "finest",
+      "ipa": "/ˈfaɪnəst/",
+      "examples": [
+        {
+          "en": "The finest diamonds in the Nether are worth the dangerous trip.",
+          "ja": "ネザーで最高のダイヤモンドは危険な旅に値する。",
+          "ipa": "/ðə ˈfaɪnəst ˈdaɪməndz ɪn ðə ˈnɛðər ɑːr ˈwɝθ ðə ˈdeɪndʒərəs ˈtrɪp/",
+          "linking": [
+            "the は弱形 /ðə/（複数回）",
+            "in the → /n/ + /ð/ は consonant+consonant、連結なし",
+            "the nether → the は弱形 /ðə/",
+            "are worth → /r/ + /w/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ザ ファイネスト ダイアマンズ イン ザ ネザー アー ワース ザ デインジャラス トリップ"
+        },
+        {
+          "en": "This is the finest redstone door mechanism I've ever seen.",
+          "ja": "これは今までに見た最高のレッドストーンドアメカニズムだ。",
+          "ipa": "/ðɪs ɪz ðə ˈfaɪnəst ˈrɛdˌstoʊn ˈdɔːr ˌmɛkənɪzəm aɪv ˈɛvər ˈsin/",
+          "linking": [
+            "this is → /s/ + /ɪ/ が連結 [ðɪz ɪz]",
+            "is the → /z/ + /ð/ は consonant+consonant、連結なし",
+            "the finest → the は弱形 /ðə/",
+            "mechanism I've → /m/ + /aɪ/ が母音+母音（hiatus）"
+          ],
+          "kana": "ディス イズ ザ ファイネスト レッドストーン ドアー メカニズム アイヴ エバー シーン"
+        }
+      ]
+    },
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "fines",
+      "ipa": "/faɪnz/",
+      "examples": [
+        {
+          "en": "The server rules state that players can receive fines for griefing.",
+          "ja": "サーバーのルールでは、グリーフ行為をしたプレイヤーは罰金を受けることがある。",
+          "ipa": "/ðə ˈsɝvər ˈrulz ˈsteɪt ðæt ˈpleɪərz kæn rɪˈsiv ˈfaɪnz fɔːr ˈɡriːfɪŋ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "rules state → /z/ + /s/ は consonant+consonant、連結なし",
+            "can receive → /n/ + /r/ は consonant+consonant、連結なし",
+            "receive fines → /v/ + /f/ は consonant+consonant、連結なし",
+            "for griefing → /r/ + /ɡ/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ザ サーバー ルールズ ステイト ザット プレイアーズ キャン リシーヴ ファインズ フォー グリーフィング"
+        },
+        {
+          "en": "Some servers impose fines when players break the building code.",
+          "ja": "建築コードを破ったプレイヤーに罰金を科すサーバーもある。",
+          "ipa": "/səm ˈsɝvərz ɪmˈpoʊz ˈfaɪnz wen ˈpleɪərz ˈbreɪk ðə ˈbɪldɪŋ ˈkoʊd/",
+          "linking": [
+            "some servers → /m/ + /s/ は consonant+consonant、連結なし",
+            "impose fines → /z/ + /f/ は consonant+consonant、連結なし",
+            "when players → /n/ + /p/ は consonant+consonant、連結なし",
+            "building code → /ŋ/ + /k/ は consonant+consonant、連結なし"
+          ],
+          "kana": "サム サーバーズ インポウズ ファインズ ウェン プレイアーズ ブレイク ザ ビルディング コウド"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "fines",
+      "ipa": "/faɪnz/",
+      "examples": [
+        {
+          "en": "The server admin fines players who destroy protected buildings.",
+          "ja": "サーバー管理者は保護された建物を破壊したプレイヤーに罰金を科す。",
+          "ipa": "/ðə ˈsɝvər ˈædmɪn ˈfaɪnz ˈpleɪərz hu dɪˈstrɔɪ prəˈtɛktəd ˈbɪldɪŋz/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "admin fines → /n/ + /f/ は consonant+consonant、連結なし",
+            "fines players → /z/ + /p/ は consonant+consonant、連結なし",
+            "who destroy → /u/ + /d/ が母音+子音（連結なし）",
+            "building は /ŋ/ で終わる"
+          ],
+          "kana": "ザ サーバー アドミン ファインズ プレイアーズ フー ディストロイ プロテクティッド ビルディングズ"
+        },
+        {
+          "en": "She fines any player who ignores the server's anti-grief policy.",
+          "ja": "彼女はサーバーのアンチグリーフ規則を無視するプレイヤーに罰金を科す。",
+          "ipa": "/ʃi ˈfaɪnz ˈɛni ˈpleɪər hu ɪɡˈnɔːrz ðə ˈsɝvərz ˈænti ˈɡrif ˈpɑːləsi/",
+          "linking": [
+            "fines any → /z/ + /ɛ/ が連結 [ˈfaɪnz ˈɛni] ファインズ エニー",
+            "any player → /i/ + /p/ は consonant+consonant、連結なし（any は弱形で /ˈɛni/）",
+            "the は弱形 /ðə/",
+            "servers anti → /z/ + /ə/ が連結"
+          ],
+          "kana": "シー ファインズ エニー プレイアー フー イグノアーズ ザ サーバーズ アンティ グリーフ ポリシー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "fined",
+      "ipa": "/faɪnd/",
+      "examples": [
+        {
+          "en": "He was fined 500 emeralds for stealing from the village vault.",
+          "ja": "彼は村の金庫から盗んだので500個のエメラルドの罰金を科された。",
+          "ipa": "/hi wəz ˈfaɪnd ˈfaɪv ˈhʌndrəd ˈɛmərəldz fɔːr ˈstilɪŋ frəm ðə ˈvɪlɪdʒ ˈvɔːlt/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "for stealing → /r/ + /s/ は consonant+consonant、連結なし",
+            "from the → /m/ + /ð/ は consonant+consonant、連結なし、the は弱形 /ðə/",
+            "vault は /t/ で終わる"
+          ],
+          "kana": "ヒー ワズ ファインド ファイヴ ハンドレッド エメラルドズ フォー スティーリング フラム ザ ビリッジ ボルト"
+        },
+        {
+          "en": "The admin fined them because they griefed the spawn area.",
+          "ja": "スポーン地点をグリーフしたので、管理者は彼らに罰金を科した。",
+          "ipa": "/ðə ˈædmɪn ˈfaɪnd ðɛm bɪˈkəz ðeɪ ɡrift ðə ˈspoʊn ˈɛriə/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "fined them → /d/ + /ð/ は consonant+consonant、連結なし",
+            "they griefed → /d/ + /ð/ が consonant+consonant、連結なし",
+            "spawn area → /n/ + /ə/ が連結 [ˈspoʊn ˈɛriə] スポーン エリア"
+          ],
+          "kana": "ザ アドミン ファインド ザム ビコーズ ゼイ グリフト ザ スポーン エリア"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "fined",
+      "ipa": "/faɪnd/",
+      "examples": [
+        {
+          "en": "Having been fined once already, he decided to follow the server rules more carefully.",
+          "ja": "既に一度罰金を科されたので、彼はサーバーのルールにより注意深く従うことにした。",
+          "ipa": "/ˈheɪvɪŋ bɪn ˈfaɪnd wʌns ɔːlˈrɛdi | hi dɪˈsaɪdɪd tə ˈfɑːloʊ ðə ˈsɝvər ˈrulz mɔːr ˈkeərfəli/",
+          "linking": [
+            "been fined → /n/ + /f/ は consonant+consonant、連結なし",
+            "once already → /s/ + /ɔ/ が連結 [wʌns ɔːl]、already は アルレディー",
+            "to follow → /u/ + /f/ は consonant+consonant、連結なし、to は弱形 /tə/",
+            "the は弱形 /ðə/",
+            "rules more → /z/ + /m/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ハヴィング ビン ファインド ワンス オールレディー、ヒー ディサイディッド タ ファロウ ザ サーバー ルールズ モア ケアフリー"
+        },
+        {
+          "en": "Players fined for breaking rules were given a second chance.",
+          "ja": "ルールを破ったプレイヤーたちに罰金が科され、チャンスが与えられた。",
+          "ipa": "/ˈpleɪərz ˈfaɪnd fɔːr ˈbreɪkɪŋ ˈrulz wɝ ˈɡɪvən ə ˈsɛkənd tʃæns/",
+          "linking": [
+            "fined for → /d/ + /f/ は consonant+consonant、連結なし",
+            "breaking rules → /ŋ/ + /r/ は consonant+consonant、連結なし",
+            "were given → /r/ + /ɡ/ は consonant+consonant、連結なし、were は弱形 /wɝ/",
+            "a second → a は弱形 /ə/"
+          ],
+          "kana": "プレイアーズ ファインド フォー ブレイキング ルールズ ワー ギヴン ア セカンド チャンス"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "fining",
+      "ipa": "/ˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The server operator is considering fining players who use hacks.",
+          "ja": "サーバー運営者はハックを使用するプレイヤーに罰金を科すことを検討している。",
+          "ipa": "/ðə ˈsɝvər ˈɑːpəˌreɪtər ɪz kənˈsɪdərɪŋ ˈfaɪnɪŋ ˈpleɪərz hu ˈjuz ˈhæks/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "considering fining → /ŋ/ + /f/ は consonant+consonant、連結なし",
+            "fining players → /ŋ/ + /p/ は consonant+consonant、連結なし",
+            "players who → /z/ + /h/ は consonant+consonant、連結なし",
+            "who use → /u/ + /j/ が連結 [huː juːz] フュース"
+          ],
+          "kana": "ザ サーバー オペレイター イズ カンシダリング ファイニング プレイアーズ フー ユーズ ハックス"
+        },
+        {
+          "en": "Fining people for minor infractions may not be the best approach.",
+          "ja": "軽微な違反に対して罰金を科すことは、最良のアプローチではないかもしれない。",
+          "ipa": "/ˈfaɪnɪŋ ˈpipəl fɔːr ˈmaɪnər ɪnˈfrækʃənz meɪ ˈnɑːt bi ðə ˈbɛst əˈproʊtʃ/",
+          "linking": [
+            "fining people → /ŋ/ + /p/ は consonant+consonant、連結なし",
+            "for minor → /r/ + /m/ は consonant+consonant、連結なし",
+            "not be → /t/ + /b/ は consonant+consonant、連結なし",
+            "be the → /i/ + /ð/ は consonant+consonant、連結なし、the は弱形 /ðə/"
+          ],
+          "kana": "ファイニング ピープル フォー マイナー インフラクションズ メイ ノット ビー ザ ベスト ア プロウチ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is fining",
+      "ipa": "/əz ˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The server admin is fining players for breaking the building code right now.",
+          "ja": "サーバー管理者は今、建築コードを破ったプレイヤーに罰金を科しているところだ。",
+          "ipa": "/ðə ˈsɝvər ˈædmɪn əz ˈfaɪnɪŋ ˈpleɪərz fɔːr ˈbreɪkɪŋ ðə ˈbɪldɪŋ ˈkoʊd ˈraɪt ˈnaʊ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "is fining → /z/ + /f/ は consonant+consonant、連結なし、is は弱形 /əz/",
+            "fining players → /ŋ/ + /p/ は consonant+consonant、連結なし",
+            "for breaking → /r/ + /b/ は consonant+consonant、連結なし",
+            "building code → /ŋ/ + /k/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ザ サーバー アドミン アズ ファイニング プレイアーズ フォー ブレイキング ザ ビルディング コウド ライト ナウ"
+        },
+        {
+          "en": "They are fining everyone who misused the shared resources today.",
+          "ja": "彼らは共有リソースを悪用した全員に今日罰金を科しているところだ。",
+          "ipa": "/ðeɪ ɑr ˈfaɪnɪŋ ˈɛvriˌwʌn hu mɪsˈjuzd ðə ˈʃɛrd rɪˈsɔːrsɪz təˈdeɪ/",
+          "linking": [
+            "are fining → /r/ + /f/ は consonant+consonant、連結なし",
+            "fining everyone → /ŋ/ が everyone に属する（子音+母音）",
+            "who misused → /u/ + /m/ は母音+子音、連結なし",
+            "the は弱形 /ðə/",
+            "shared resources → /d/ + /r/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ゼイ アー ファイニング エブリワン フー ミスユーズド ザ シェアード リソーシズ トゥデイ"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was fining",
+      "ipa": "/wəz ˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin was fining players when the server crashed suddenly.",
+          "ja": "サーバーが突然クラッシュしたとき、管理者は罰金を科しているところだった。",
+          "ipa": "/ðə ˈædmɪn wəz ˈfaɪnɪŋ ˈpleɪərz wɛn ðə ˈsɝvər ˈkræʃt ˈsʌdənli/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "was fining → /z/ + /f/ は consonant+consonant、連結なし、was は弱形 /wəz/",
+            "fining players → /ŋ/ + /p/ は consonant+consonant、連結なし",
+            "when the → /n/ + /ð/ は consonant+consonant、連結なし、the は弱形 /ðə/",
+            "server crashed → /r/ + /k/ は consonant+consonant、連結なし"
+          ],
+          "kana": "ザ アドミン ワズ ファイニング プレイアーズ ウェン ザ サーバー クラッシュト サドンリー"
+        },
+        {
+          "en": "She was fining everyone who violated the anti-grief policy all afternoon.",
+          "ja": "彼女は午後中ずっと、アンチグリーフ規則に違反した全員に罰金を科していた。",
+          "ipa": "/ʃi wəz ˈfaɪnɪŋ ˈɛvriˌwʌn hu ˈvaɪəˌleɪtəd ðɪ ˈænti ɡrif ˈpɑːləsi ˈɔːl ˈæftərˌnun/",
+          "linking": [
+            "was fining → /z/ + /f/ は consonant+consonant、連結なし、was は弱形 /wəz/",
+            "fining everyone → /ŋ/ が everyone に属する（子音+母音）",
+            "who violated → /u/ + /v/ は母音+子音、連結なし",
+            "policy all → /i/ + /ɔ/ は音節の境界",
+            "all afternoon → /l/ + /ə/ が連結 [ˈɔːl ˈæftərˌnun]"
+          ],
+          "kana": "シー ワズ ファイニング エブリワン フー ヴァイオレイティッド ディ アンティ グリーフ ポリシー オール アフターヌーン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been fining",
+      "ipa": "/həd bɪn ˈfaɪnɪŋ/",
+      "examples": [
+        {
+          "en": "The admin had been fining rule-breakers throughout the entire month.",
+          "ja": "管理者はその月全体を通じてルール違反者に罰金を科し続けていた。",
+          "ipa": "/ðə ˈædmɪn həd bɪn ˈfaɪnɪŋ ˈrulˌbreɪkərz θruːˈaʊt ðɪ ənˈtaɪər ˈmʌnθ/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "had been → /d/ + /b/ は consonant+consonant、連結なし、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been fining → /n/ + /f/ は consonant+consonant、連結なし",
+            "fining rule-breakers → /ŋ/ + /r/ は consonant+consonant、連結なし",
+            "the entire → the は弱形 /ðə/、/ə/ + /ən/ が hiatus"
+          ],
+          "kana": "ザ アドミン ハド ビン ファイニング ルールブレイカーズ スルーアウト ザ エンタイアー マンス"
+        },
+        {
+          "en": "By the time we arrived, they had been fining players for hours.",
+          "ja": "私たちが到着したときまでに、彼らは数時間プレイヤーに罰金を科し続けていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðeɪ həd bɪn ˈfaɪnɪŋ ˈpleɪərz fɔːr ˈaʊərz/",
+          "linking": [
+            "by the → /aɪ/ + /ð/ は母音+子音、連結なし、the は弱形 /ðə/",
+            "we arrived → 音節の境界",
+            "they had → /eɪ/ + /h/ は母音+子音、連結なし",
+            "had been → /d/ + /b/ は consonant+consonant、連結なし、had は弱形 /həd/、been は弱形 /bɪn/",
+            "been fining → /n/ + /f/ は consonant+consonant、連結なし",
+            "fining players → /ŋ/ + /p/ は consonant+consonant、連結なし",
+            "for hours → /r/ が母音 /aʊ/ に連結"
+          ],
+          "kana": "バイ ザ タイム ウィー ア ライヴド、ゼイ ハド ビン ファイニング プレイアーズ フォー アウアーズ"
+        }
+      ]
+    }
+  ]
+}

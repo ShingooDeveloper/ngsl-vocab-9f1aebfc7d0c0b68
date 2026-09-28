@@ -1,0 +1,459 @@
+{
+  "word": "diagnose",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˌdaɪəɡˈnoʊz/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "diagnose(?:d|s|ing)?",
+  "meanings": [
+    "【動詞】医者や専門家が患者の症状や兆候から病気を特定する、診断する（diagnose an illness）",
+    "【動詞】コンピュータやシステムの不具合を調べる、原因を特定する、トラブルシューティングする（diagnose a technical problem）",
+    "【動詞】状況や情報から判断して、問題や原因を特定する、分析する（diagnose based on evidence）"
+  ],
+  "examples": [
+    {
+      "en": "I need to diagnose why our crops aren't growing.",
+      "ja": "作物が育たない理由を診断する必要があります。",
+      "ipa": "/aɪ ˈniːd tə daɪ.əɡˈnoʊz waɪ ˈaʊɹ kɹɑps ˈɑɹənt ˈɡɹoʊɪŋ/",
+      "linking": [
+        "to diagnose why - 「to」は弱形 /tə/；「diagnose」の語末子音 /z/ が半母音 /w/ に連結して /ˈnoʊzw/ となる",
+        "aren't - 助動詞は弱形 /ɑɹənt/；-n't の /t/ が未開放 /t̚/ で発音される",
+        "aren't growing - 未開放の /t̚/ の後に子音 /ɡ/ が続く"
+      ],
+      "kana": "アイ ニード タ ダイアグノウズワイ アワー クラップス アーント グローイング"
+    },
+    {
+      "en": "Help me diagnose a problem with the hopper circuit.",
+      "ja": "ホッパー回路の問題を診断するのを手伝ってください。",
+      "ipa": "/hɛlp mi daɪ.əɡˈnoʊz ə ˈpɹɑbləm wɪð ðə ˈhɑpər ˈsɝːkɪt/",
+      "linking": [
+        "diagnose a - 語末子音 /z/ が母音 /ə/ に連結 [daɪ.əɡˈnoʊzə]",
+        "the hopper - 「the」は子音の前で弱形 /ðə/ で発音される",
+        "with the - 語末 /ð/ と初声 /ð/ で両方フリケーティブ（子音-子音）"
+      ],
+      "kana": "ヘルプ ミー ダイアグノウザ プラブレム ウィズ ザ ホッパー サーキット"
+    },
+    {
+      "en": "We diagnosed the spawner as the source of lag.",
+      "ja": "スポーナーをラグの原因として診断しました。",
+      "ipa": "/wi daɪ.əɡˈnoʊzd ðə ˈspɔnər əz ðə ˈsoɹs əv ˈlæɡ/",
+      "linking": [
+        "diagnosed a - 過去形の語末子音 /d/ が母音 /ə/ に連結 [daɪ.əɡˈnoʊzd ə]（実際にはas前の「ə」に連結）",
+        "as the - 「as」の語末 /z/ と 「the」の /ð/ が連続（両方子音）；「the」は弱形 /ðə/",
+        "source of - 「source」の語末 /s/ が母音 /ə/ に連結 [ˈsoɹsə]；「of」は弱形 /əv/"
+      ],
+      "kana": "ウィ ダイアグノウズド ザ スポーナー アズ ザ ソース アヴ ラグ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "help diagnose",
+      "ja": "診断を手伝う、診断するのを手伝う",
+      "example": "Help me diagnose the broken furnace issue.",
+      "example_ja": "壊れた炉の問題を診断するのを手伝ってください。",
+      "ipa": "/hɛlp mi daɪ.əɡˈnoʊz ðə ˈbroʊkən ˈfɝːnis ˈɪʃu/",
+      "linking": [
+        "me diagnose - 母音 /i/ と子音 /d/ で連結なし（vowel + consonant）",
+        "diagnose the - 語末 /z/ と初声 /ð/ が連続（両方子音）；「the」は弱形 /ðə/"
+      ],
+      "kana": "ヘルプ ミー ダイアグノウズ ザ ブロウケン ファーネス イッシュー"
+    },
+    {
+      "idiom": "diagnose as",
+      "ja": "…として診断する、…と診断する",
+      "example": "I diagnosed the lag spike as caused by too many mobs.",
+      "example_ja": "ラグスパイクをモブが多すぎることが原因として診断しました。",
+      "ipa": "/aɪ daɪ.əɡˈnoʊzd ðə ˈlæɡ spaɪk əz ˈkɔːzd baɪ ˈtuː ˈmeɪni ˈmɑbz/",
+      "linking": [
+        "diagnosed the - 語末子音 /d/ と初声 /ð/ が連続；「the」は弱形 /ðə/",
+        "spike as - 語末 /k/ と初声 /æ/（母音）で、「as」は弱形 /əz/ に弱化される傾向",
+        "too many - 語末 /u/ と初声 /m/ で、「many」は弱形傾向 /məni/"
+      ],
+      "kana": "アイ ダイアグノウズド ザ ラグ スパイク アズ コーズド バイ トゥー メニー モブズ"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "diagnoses",
+      "ipa": "/ˌdaɪəɡˈnoʊzɪz/",
+      "examples": [
+        {
+          "en": "The expert diagnoses a circuit problem.",
+          "ja": "専門家は回路の問題を診断します。",
+          "ipa": "/ðə ˈɛkspɜːɹt daɪ.əɡˈnoʊzɪz ə ˈsɜːkɪt ˈpɹɑbləm/",
+          "linking": [
+            "The expert - 「The」は子音の前で弱形 /ðə/；自然な流れ",
+            "diagnoses a - 「diagnoses」の語末 /z/ が 「a」の /ə/ に連結 [daɪ.əɡˈnoʊzə]"
+          ],
+          "kana": "ザ エキスパート ダイアグノウザ サーキット プラブレム"
+        },
+        {
+          "en": "He diagnoses why the farm isn't producing.",
+          "ja": "彼は農場が生産していない理由を診断します。",
+          "ipa": "/hi daɪ.əɡˈnoʊzɪz waɪ ðə ˈfɑɹm ˈɪzənt prəˈdju:sɪŋ/",
+          "linking": [
+            "He diagnoses - 母音 /i/ に子音 /d/ が続く、自然な流れ",
+            "diagnoses why - 「diagnoses」の語末 /z/ が半母音 /w/ に連結 [daɪ.əɡˈnoʊzwaɪ]"
+          ],
+          "kana": "ヒー ダイアグノウズワイ ザ ファーム イズント プロデューシング"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "diagnosed",
+      "ipa": "/ˌdaɪəɡˈnoʊzd/",
+      "examples": [
+        {
+          "en": "I diagnosed that the hopper system was broken.",
+          "ja": "ホッパーシステムが壊れていることを診断しました。",
+          "ipa": "/aɪ daɪ.əɡˈnoʊzd ðæt ðə ˈhɑpər ˈsɪstəm wəz ˈbroʊkən/",
+          "linking": [
+            "diagnosed that - 「diagnosed」の語末 /d/ と 「that」の /ð/ が連続（両方子音）",
+            "the hopper - 「the」は子音の前で弱形 /ðə/；「hopper」の /h/ が続く"
+          ],
+          "kana": "アイ ダイアグノウズド ザット ザ ホッパー シスタム ウァズ ブロウケン"
+        },
+        {
+          "en": "She diagnosed a water leak in the base.",
+          "ja": "彼女はベース内の水漏れを診断しました。",
+          "ipa": "/ʃi daɪ.əɡˈnoʊzd ə ˈwɔːtər ˈlik ɪn ðə ˈbeɪs/",
+          "linking": [
+            "diagnosed a - 「diagnosed」の語末 /d/ が 「a」の /ə/ に連結 [daɪ.əɡˈnoʊzə]",
+            "in the - 「the」は子音の前で弱形 /ðə/；「base」の /b/ が続く"
+          ],
+          "kana": "シー ダイアグノウズダ ウォーター リーク イン ザ ベース"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "diagnosed",
+      "ipa": "/ˌdaɪəɡˈnoʊzd/",
+      "examples": [
+        {
+          "en": "Having diagnosed the problem, we fixed the circuit.",
+          "ja": "問題を診断した後、回路を修正しました。",
+          "ipa": "/ˈhævɪŋ daɪ.əɡˈnoʊzd ðə ˈpɹɑbləm, wi fɪkst ðə ˈsɜːkɪt/",
+          "linking": [
+            "diagnosed the - 「diagnosed」の語末 /d/ と 「the」の /ð/ が連続（両方子音）",
+            "the problem - 「the」は子音の前で弱形 /ðə/；「problem」の /p/ が続く"
+          ],
+          "kana": "ハヴィング ダイアグノウズド ザ プラブレム、ウィ フィクスト ザ サーキット"
+        },
+        {
+          "en": "Once diagnosed, the water leak was fixed.",
+          "ja": "一度診断されたら、水漏れが修正されました。",
+          "ipa": "/wʌns daɪ.əɡˈnoʊzd, ðə ˈwɔːtər ˈlik wəz fɪkst/",
+          "linking": [
+            "diagnosed the - 「diagnosed」の語末 /d/ と 「the」の /ð/ が連続（両方子音）",
+            "the water - 「the」は子音の前で弱形 /ðə/；「water」の /w/ が続く"
+          ],
+          "kana": "ワンス ダイアグノウズド ザ ウォーター リーク ウァズ フィクスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "diagnosing",
+      "ipa": "/ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "While diagnosing the lag, I found the real issue.",
+          "ja": "ラグを診断中に、本当の問題を見つけました。",
+          "ipa": "/waɪl daɪ.əɡˈnoʊzɪŋ ðə ˈlæɡ, aɪ faʊnd ðə ˈɹil ˈɪʃu/",
+          "linking": [
+            "diagnosing the - 「diagnosing」の語末 /ŋ/ と 「the」の /ð/ が連続；「the」は弱形 /ðə/",
+            "found the - 「found」の語末 /d/ と 「the」の /ð/ が連続（両方子音）；「the」は弱形 /ðə/"
+          ],
+          "kana": "ワイル ダイアグノウジング ザ ラグ、アイ ファウンド ザ リール イッシュー"
+        },
+        {
+          "en": "He's diagnosing why the piston door won't open.",
+          "ja": "彼はピストンドアが開かない理由を診断しています。",
+          "ipa": "/hiz daɪ.əɡˈnoʊzɪŋ waɪ ðə ˈpɪstən ˈdoɹ ˈwoʊnt ˈoʊpən/",
+          "linking": [
+            "'s diagnosing - 「is」の弱形 /ɪz/、語末 /z/ が 「diagnosing」の /d/ に続く",
+            "diagnose why - 「diagnosing」の語末 /ŋ/ と 「why」の /w/（子音-半母音）"
+          ],
+          "kana": "ヒズ ダイアグノウジング ワイ ザ ピストン ドアー ウォウント オウペン"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is diagnosing",
+      "ipa": "/ɪz ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The engineer is diagnosing why the farm automation system isn't working.",
+          "ja": "エンジニアは農場の自動化システムがなぜ機能していないのかを診断しています。",
+          "ipa": "/ðə ˌɛndʒəˈnɪr ɪz ˌdaɪəɡˈnoʊzɪŋ waɪ ðə ˈfɑːrm ˌɔːtəˈmeɪʃən ˈsɪstəm ˈɪzənt ˈwɜːrkɪŋ/",
+          "linking": [
+            "the engineer - the は冠詞で弱形 /ðə/",
+            "is diagnosing - is は助動詞で弱形 /ɪz/",
+            "system isn't - system の語末 /m/ が isn't の初頭母音 /ɪ/ に連結 [ˈsɪstəm ˈɪzənt]；isn't の -n't の /t/ は未開放"
+          ],
+          "kana": "ザ エンジニア イズ ダイアグノウジング ワイ ザ ファーム オートメーション システム イズント ワーキング"
+        },
+        {
+          "en": "I'm diagnosing the redstone circuit to find the malfunction.",
+          "ja": "レッドストーン回路を診断して不具合を見つけています。",
+          "ipa": "/aɪm ˌdaɪəɡˈnoʊzɪŋ ðə ˈɹɛdstoʊn ˈsɜːrkɪt tə faɪnd ðə ˈmælfʌŋkʃən/",
+          "linking": [
+            "I'm diagnosing - I'm = /aɪm/、語末の /m/ と diagnosing の /d/ で子音-子音、未開放",
+            "the - 冠詞で弱形 /ðə/",
+            "to find - to は機能語で弱形 /tə/",
+            "find the - find の語末 /d/ と the の初頭 /ð/ で子音-子音、未開放；the は弱形 /ðə/"
+          ],
+          "kana": "アイム ダイアグノウジング ザ レッドストーン サーキット タ ファインド ザ マルファンクション"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was diagnosing",
+      "ipa": "/wəz ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "While I was diagnosing the piston door, a creeper exploded nearby.",
+          "ja": "ピストンドアを診断している間に、クリーパーが近くで爆発しました。",
+          "ipa": "/waɪl aɪ wəz ˌdaɪəɡˈnoʊzɪŋ ðə ˈpɪstən ˈdoɚ ə ˈkɹiːpɚ ɪkˈsploʊdɪd ˈnɪrbaɪ/",
+          "linking": [
+            "I was diagnosing - was は弱形 /wəz/",
+            "the piston - the は弱形 /ðə/",
+            "door a creeper - door の語末 r-色彩音 /ɚ/ が a の初頭母音 /ə/ に連結 [ˈdoɚə]；a も弱形 /ə/；creeper の語末 r-色彩音 /ɚ/ が exploded の初頭 /ɪ/ に連結 [ˈkɹiːpɚɪk]"
+          ],
+          "kana": "ワイル アイ ワズ ダイアグノウジング ザ ピストン ドアーア クリーパーイクスプロウデッド ニアバイ"
+        },
+        {
+          "en": "She was diagnosing the hopper overflow when the server lag kicked in.",
+          "ja": "ホッパーオーバーフローを診断していた時、サーバーラグが発生しました。",
+          "ipa": "/ʃi wəz ˌdaɪəɡˈnoʊzɪŋ ðə ˈhɑpɚ ˌoʊvɚˈfloʊ wɛn ðə ˈsɝvɚ ˈlæɡ ˈkɪkt ɪn/",
+          "linking": [
+            "was diagnosing - was は弱形 /wəz/",
+            "the hopper - the は弱形 /ðə/",
+            "when the server - when の後；the は弱形 /ðə/",
+            "lag kicked - lag の語末 /ɡ/ と kicked の初頭 /k/ で子音-子音、未開放；kicked の語末 /t/ も未開放"
+          ],
+          "kana": "シー ワズ ダイアグノウジング ザ ホッパー オウバーフロウ ウェン ザ サーバー ラッグ キクト イン"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been diagnosing",
+      "ipa": "/həd bɪn ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "By the time the expert arrived, we had been diagnosing the spawner issue for hours.",
+          "ja": "専門家が到着した時には、スポーナーの問題を何時間も診断していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈɛkspɜːrt əˈɹaɪvd wi həd bɪn ˌdaɪəɡˈnoʊzɪŋ ðə ˈspɔnər ˈɪʃu fɔɹ ˈaʊɚz/",
+          "linking": [
+            "the time - the は弱形 /ðə/",
+            "the expert - the は弱形 /ðə/",
+            "had been diagnosing - had は弱形 /həd/、been は弱形 /bɪn/",
+            "the spawner - the は弱形 /ðə/"
+          ],
+          "kana": "バイ ザ タイム ザ エキスパート ァライヴド ウィ ハド ビン ダイアグノウジング ザ スポーナー イッシュー フォア アワーズ"
+        },
+        {
+          "en": "They had been diagnosing why the beacon wasn't working before they realized the power source was off.",
+          "ja": "彼らは電源がオフになっていることに気付く前に、ビーコンがなぜ機能していないのかを診断していました。",
+          "ipa": "/ðeɪ həd bɪn ˌdaɪəɡˈnoʊzɪŋ waɪ ðə ˈbiːkən ˈwɑzənt ˈwɜːrkɪŋ bɪˈfoɹ ðeɪ ɹiˈæləzd ðə ˈpaʊɚ soɚs wəz ɔf/",
+          "linking": [
+            "had been diagnosing - had は弱形 /həd/、been は弱形 /bɪn/",
+            "the beacon - the は弱形 /ðə/",
+            "wasn't working - wasn't の語末 /t/ は未開放",
+            "the power - the は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド ビン ダイアグノウジング ワイ ザ ビーコン ワズント ワーキング ビフォア ザイ リアライズド ザ パワー ソース ワズ オフ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has diagnosed",
+      "ipa": "/həz ˌdaɪəɡˈnoʊzd/",
+      "examples": [
+        {
+          "en": "The engineer has diagnosed the hopper problem.",
+          "ja": "エンジニアはホッパーの問題を診断しました。",
+          "ipa": "/ðə ɛndʒəˈnɪr həz ˌdaɪəɡˈnoʊzd ðə ˈhɑpər ˈpɹɑbləm/",
+          "linking": [
+            "the engineer - 「the」は冠詞で弱形 /ðə/",
+            "has diagnosed - has は助動詞で弱形 /həz/",
+            "the hopper - 「the」は弱形 /ðə/"
+          ],
+          "kana": "ザ エンジニア ハズ ダイアグノウズド ザ ホッパー プラブレム"
+        },
+        {
+          "en": "We have diagnosed why the farm isn't producing.",
+          "ja": "私たちは農場が生産していない理由を診断しました。",
+          "ipa": "/wi həv ˌdaɪəɡˈnoʊzd waɪ ðə ˈfɑːrm ˈɪzənt prəˈduːsɪŋ/",
+          "linking": [
+            "have diagnosed - have は助動詞で弱形 /həv/",
+            "the farm - 「the」は弱形 /ðə/",
+            "isn't producing - isn't の -n't の /t/ は未開放"
+          ],
+          "kana": "ウィ ハヴ ダイアグノウズド ワイ ザ ファーム イズント プロデューシング"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had diagnosed",
+      "ipa": "/həd ˌdaɪəɡˈnoʊzd/",
+      "examples": [
+        {
+          "en": "By the time the expert came, we had diagnosed the circuit issue.",
+          "ja": "専門家が来た時には、私たちは回路の問題を診断していました。",
+          "ipa": "/baɪ ðə taɪm ðə ˈɛkspɜːrt keɪm wi həd ˌdaɪəɡˈnoʊzd ðə ˈsɜːrkɪt ˈɪʃu/",
+          "linking": [
+            "the time - 「the」は弱形 /ðə/",
+            "the expert - 「the」は弱形 /ðə/",
+            "had diagnosed - had は弱形 /həd/"
+          ],
+          "kana": "バイ ザ タイム ザ エキスパート ケイム ウィ ハド ダイアグノウズド ザ サーキット イッシュー"
+        },
+        {
+          "en": "They had diagnosed the water leak before the flooding got worse.",
+          "ja": "彼らは洪水が悪化する前に、水漏れを診断していました。",
+          "ipa": "/ðeɪ həd ˌdaɪəɡˈnoʊzd ðə ˈwɔːtər ˈlik bɪˈfoɹ ðə ˈflʌdɪŋ ɡɑt ˈwɜːrs/",
+          "linking": [
+            "had diagnosed - had は弱形 /həd/",
+            "the water - 「the」は弱形 /ðə/",
+            "the flooding - 「the」は弱形 /ðə/"
+          ],
+          "kana": "ザイ ハド ダイアグノウズド ザ ウォーター リーク ビフォア ザ フラディング ガット ワース"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been diagnosing",
+      "ipa": "/həz bɪn ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The engineer has been diagnosing the automation system since this morning.",
+          "ja": "エンジニアは今朝からずっと自動化システムを診断しています。",
+          "ipa": "/ðə ɛndʒəˈnɪr həz bɪn ˌdaɪəɡˈnoʊzɪŋ ðə ˌɔːtəˈmeɪʃən ˈsɪstəm sɪns ðɪs ˈmoɹnɪŋ/",
+          "linking": [
+            "the engineer - 「the」は冠詞で弱形 /ðə/",
+            "has been diagnosing - has は弱形 /həz/、been は弱形 /bɪn/",
+            "the automation - 「the」は弱形 /ðə/"
+          ],
+          "kana": "ザ エンジニア ハズ ビン ダイアグノウジング ザ オートメーション システム シンス ディス モーニング"
+        },
+        {
+          "en": "I have been diagnosing why the beacon won't activate for an hour.",
+          "ja": "ビーコンがアクティベートされない理由を1時間ずっと診断しています。",
+          "ipa": "/aɪ həv bɪn ˌdaɪəɡˈnoʊzɪŋ waɪ ðə ˈbiːkən ˈwoʊnt ˈæktɪveɪt fɔɹ ən ˈaʊər/",
+          "linking": [
+            "have been - have は弱形 /həv/、been は弱形 /bɪn/",
+            "the beacon - 「the」は弱形 /ðə/",
+            "for an hour - for と an は前置詞・冠詞で弱形 /fɔɹ/ と /ən/"
+          ],
+          "kana": "アイ ハヴ ビン ダイアグノウジング ワイ ザ ビーコン ウォウント アクティベイト フォア アン アワー"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will diagnose",
+      "ipa": "/wɪl ˌdaɪəɡˈnoʊz/",
+      "examples": [
+        {
+          "en": "The engineer will diagnose the spawner issue when they arrive.",
+          "ja": "エンジニアは到着したときスポーナーの問題を診断します。",
+          "ipa": "/ðə ˈɛndʒəˈnɪr wɪl ˌdaɪəɡˈnoʊz ðə ˈspɔːnər ˈɪʃu wɛn ðeɪ əˈɹaɪv/",
+          "linking": [
+            "the engineer - 「the」は弱形 /ðə/",
+            "the spawner - 「the」は弱形 /ðə/；spawner の r-色彩母音 /ɚ/ が issue の /ɪ/ に連結 [ˈspɔːnɚ ˈɪʃu]"
+          ],
+          "kana": "ザ エンジニア ウィル ダイアグノウズ ザ スポーナー イッシュー ウェン ザイ ァライヴ"
+        },
+        {
+          "en": "You will diagnose the furnace problem by tonight.",
+          "ja": "あなたは今夜までに炉の問題を診断します。",
+          "ipa": "/ju wɪl ˌdaɪəɡˈnoʊz ðə ˈfɜːrnis ˈpɹɑbləm baɪ təˈnaɪt/",
+          "linking": [
+            "will diagnose - will は強形 /wɪl/；diagnose の初声 /d/ に続く",
+            "the furnace - 「the」は弱形 /ðə/"
+          ],
+          "kana": "ユー ウィル ダイアグノウズ ザ ファーネス プラブレム バイ トゥナイト"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be diagnosing",
+      "ipa": "/wɪl bɪ ˌdaɪəɡˈnoʊzɪŋ/",
+      "examples": [
+        {
+          "en": "The team will be diagnosing the lag spike when the patch drops.",
+          "ja": "パッチがリリースされるとき、チームはラグスパイクを診断しています。",
+          "ipa": "/ðə ˈtim wɪl bɪ ˌdaɪəɡˈnoʊzɪŋ ðə ˈlæɡ spaɪk wɛn ðə ˈpætʃ ˈdrɑps/",
+          "linking": [
+            "the team - 「the」は弱形 /ðə/",
+            "will be - be は弱形 /bɪ/",
+            "the lag - 「the」は弱形 /ðə/；lag の /ɡ/ が spike の /s/ に続く（両子音）"
+          ],
+          "kana": "ザ ティーム ウィル ビ ダイアグノウジング ザ ラッグ スパイク ウェン ザ パッチ ドラップス"
+        },
+        {
+          "en": "I'll be diagnosing the redstone circuit all evening.",
+          "ja": "夜間ずっとレッドストーン回路を診断しています。",
+          "ipa": "/aɪl bɪ ˌdaɪəɡˈnoʊzɪŋ ðə ˈɹɛdstoʊn ˈsɜːrkɪt ˈɔl ˈiːvnɪŋ/",
+          "linking": [
+            "I'll be - 「I'll」は縮約で /aɪl/；be は弱形 /bɪ/",
+            "the redstone - 「the」は弱形 /ðə/"
+          ],
+          "kana": "アイル ビ ダイアグノウジング ザ レッドストーン サーキット オール イーブニング"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have diagnosed",
+      "ipa": "/wɪl həv ˌdaɪəɡˈnoʊzd/",
+      "examples": [
+        {
+          "en": "We will have diagnosed the redstone error by tomorrow morning.",
+          "ja": "明日の朝までにレッドストーンエラーを診断しているでしょう。",
+          "ipa": "/wi wɪl həv ˌdaɪəɡˈnoʊzd ðə ˈɹɛdstoʊn ˈɛrər baɪ təˈmɑroʊ ˈmoːrnɪŋ/",
+          "linking": [
+            "will have - have は弱形 /həv/；diagnosed の初声 /d/ に続く",
+            "the redstone - 「the」は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル ハヴ ダイアグノウズド ザ レッドストーン エラー バイ タモロウ モーニング"
+        },
+        {
+          "en": "She will have diagnosed the water leak within an hour.",
+          "ja": "彼女は1時間以内に水漏れを診断しているでしょう。",
+          "ipa": "/ʃi wɪl həv ˌdaɪəɡˈnoʊzd ðə ˈwɔːtər ˈlik wɪˈðɪn ən ˈaʊər/",
+          "linking": [
+            "will have - have は弱形 /həv/",
+            "the water - 「the」は弱形 /ðə/；water の r-色彩音 /ɚ/ が leak の /l/ に続く（両子音）"
+          ],
+          "kana": "シー ウィル ハヴ ダイアグノウズド ザ ウォーター リーク ウィズィン ァン アワー"
+        }
+      ]
+    }
+  ]
+}

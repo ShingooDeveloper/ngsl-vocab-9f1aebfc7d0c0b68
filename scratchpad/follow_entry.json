@@ -1,0 +1,476 @@
+{
+  "word": "follow",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˈfɑːloʊ/",
+  "rank": 268,
+  "level": "A2",
+  "hi": "follow(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】～に従う、～についていく、～に続く",
+    "【動詞】（人・道・指示などを）たどる、従う",
+    "【動詞】（物理的に）追跡する、後をついていく",
+    "【動詞】（規則・慣習を）守る、従う"
+  ],
+  "examples": [
+    {
+      "en": "Follow me to the village where the traders are waiting.",
+      "ja": "商人が待っている村に、私についてきてください。",
+      "ipa": "/ˈfɑːloʊ mi tu ðə ˈvɪlɪdʒ wɛr ðə ˈtreɪdərz ɑr ˈweɪtɪŋ/",
+      "linking": [
+        "Follow me → 語末 /oʊ/（母音）+ /m/（子音）で滑らかに続く",
+        "to the → to は弱形 /tə/、the は弱形 /ðə/（子音+子音で続く）",
+        "where the → 語末 /r/（子音）+ /ð/（子音）で自然に続く"
+      ],
+      "kana": "フォロウ ミー トゥ ダ ビリッジ ウェア ザ トレイダーズ アー ウェイティング"
+    },
+    {
+      "en": "If you follow the path, you will discover hidden treasures.",
+      "ja": "道をたどれば、隠された宝を発見するでしょう。",
+      "ipa": "/ɪf ju ˈfɑːloʊ ðə ˈpæθ | ju wɪl dɪsˈkʌvər ˈhɪdn̩ ˈtrɛʒərz/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "will は弱形 /wəl/ に弱化可"
+      ],
+      "kana": "イフ ユー フォロウ ダ パス、ユー ウィル ディスカバー ヒディン トレジャーズ"
+    },
+    {
+      "en": "Zombie mobs follow players at night to attack them.",
+      "ja": "ゾンビは夜にプレイヤーを追跡して、彼らを攻撃します。",
+      "ipa": "/ˈzɑːmbi ˈmoʊbz ˈfɑːloʊ ˈpleɪərz ət ˈnaɪt tə əˈtæk ðɛm/",
+      "linking": [
+        "at は弱形 /ət/",
+        "to は弱形 /tə/"
+      ],
+      "kana": "ゾンビ モウブズ フォロウ プレイヤーズ ァット ナイト トゥ アタック ゼム"
+    },
+    {
+      "en": "Players must follow the server rules to avoid being banned.",
+      "ja": "プレイヤーはバンされるのを避けるためにサーバー規則に従う必要がある。",
+      "ipa": "/ˈpleɪərz məst ˈfɑːloʊ ðə ˈsɜːrvər ˈrulz tə əˈvɔɪd ˈbiːɪŋ ˈbænd/",
+      "linking": [
+        "must follow → 語末 /t/（子音）+ /f/（子音）で続く",
+        "the は弱形 /ðə/",
+        "to は弱形 /tə/"
+      ],
+      "kana": "プレイヤーズ マスト フォロウ ザ サーバー ルーズ トゥ アボイド ビーイング バンド"
+    },
+    {
+      "en": "The arrow followed a curved path through the air before hitting the target.",
+      "ja": "矢は空中を曲線的に進行してから、ターゲットに当たった。",
+      "ipa": "/ðə ˈæroʊ ˈfɑːloʊd ə ˈkɝːvd ˈpæθ θruː ðə ˈɛr bɪˈfɔːr ˈhɪtɪŋ ðə ˈtɑːrɡɪt/",
+      "linking": [
+        "the → 弱形 /ðə/",
+        "through the → through は /θru:/、the は弱形 /ðə/"
+      ],
+      "kana": "ザ アロウ フォロウド ア カーブド パス スルー ザ エア ビフォア ヒッティング ザ ターゲット"
+    }
+  ],
+  "mc_examples": [
+    {
+      "en": "Follow the redstone torches to navigate through the dark maze.",
+      "ja": "暗い迷路をナビゲートするため、レッドストーン火炎を追ってください。",
+      "ipa": "/ˈfɑːloʊ ðə ˈrɛdˌstoʊn ˈtɔːrtʃəz tə ˈnævɪˌɡeɪt θruː ðə ˈdɑːrk ˈmeɪz/",
+      "linking": [
+        "the は弱形 /ðə/",
+        "to は弱形 /tə/"
+      ],
+      "kana": "フォロウ ザ レッドストーン トーチェズ トゥ ナビゲイト スルー ザ ダーク メイズ"
+    },
+    {
+      "en": "I followed the Enderman into the portal and got teleported to The End.",
+      "ja": "エンドマンをポータルについていき、ジ・エンドにテレポートされました。",
+      "ipa": "/aɪ ˈfɑːloʊd ðə ˈɛndɚmən ˈɪntu ðə ˈpoʊrtəl ənd ɡɑt ˈtɛləˌpɔːrtɪd tə ðə ˈɛnd/",
+      "linking": [
+        "the → 弱形 /ðə/",
+        "into the → to は弱形 /tə/、the は弱形 /ðə/"
+      ],
+      "kana": "アイ フォロウド ザ エンダーマン イントゥ ザ ポータル アンド ゴット テレポーティド トゥ ザ エンド"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "follows",
+      "ipa": "/ˈfɑːloʊz/",
+      "examples": [
+        {
+          "en": "The dog follows its master through the village.",
+          "ja": "犬は村を通して主人についていく。",
+          "ipa": "/ðə ˈdɔːɡ ˈfɑːloʊz ɪts ˈmæstər θruː ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "through the → through は /θru:/、the は弱形 /ðə/"
+          ],
+          "kana": "ザ ドッグ フォロウズ イッツ マスター スルー ザ ビリッジ"
+        },
+        {
+          "en": "Success follows hard work and dedication.",
+          "ja": "成功は努力と献身に従う。",
+          "ipa": "/səkˈsɛs ˈfɑːloʊz ˈhɑːrd ˈwɝːk ənd ˌdɛdɪˈkeɪʃən/",
+          "linking": [
+            "and は弱形 /ənd/ に弱化可"
+          ],
+          "kana": "サクセス フォロウズ ハード ワーク アンド デディケーション"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "followed",
+      "ipa": "/ˈfɑːloʊd/",
+      "examples": [
+        {
+          "en": "We followed the river upstream to find its source.",
+          "ja": "川の源を見つけるために、川を上流に追いました。",
+          "ipa": "/wi ˈfɑːloʊd ðə ˈrɪvər ˈʌpˌstrim tə ˈfaɪnd ɪts ˈsɔːrs/",
+          "linking": [
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィ フォロウド ザ リバー アップストリーム トゥ ファインド イッツ ソース"
+        },
+        {
+          "en": "The creeper followed me until I jumped off the cliff.",
+          "ja": "クリーパーが崖から飛び降りるまで、私についてきた。",
+          "ipa": "/ðə ˈkriːpər ˈfɑːloʊd mi ənˈtɪl aɪ dʒʌmpt ɔːf ðə klɪf/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "until は /ənˈtɪl/"
+          ],
+          "kana": "ザ クリーパー フォロウド ミー アンティル アイ ジャンプト オフ ザ クリフ"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "followed",
+      "ipa": "/ˈfɑːloʊd/",
+      "examples": [
+        {
+          "en": "The path followed by the miners led to a diamond cave.",
+          "ja": "鉱夫がたどった道は、ダイヤモンド洞窟に通じていた。",
+          "ipa": "/ðə ˈpæθ ˈfɑːloʊd baɪ ðə ˈmaɪnərz lɛd tə ə ˈdaɪmənd ˈkeɪv/",
+          "linking": [
+            "the → 弱形 /ðə/",
+            "by the → 子音で自然に続く、the は弱形 /ðə/"
+          ],
+          "kana": "ザ パス フォロウド バイ ザ マイナーズ レド トゥ ア ダイアマンド ケイヴ"
+        },
+        {
+          "en": "Having followed the map, we finally reached the treasure chest.",
+          "ja": "地図をたどった後、ついに宝箱に到達した。",
+          "ipa": "/ˈhævɪŋ ˈfɑːloʊd ðə ˈmæp | wi ˈfaɪnəli ˈritʃt ðə ˈtrɛʒər tʃɛst/",
+          "linking": [
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "ハビング フォロウド ザ マップ、ウィ ファイナリー リーチド ザ トレジャー チェスト"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "following",
+      "ipa": "/ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "Following the quest markers helps beginners complete missions.",
+          "ja": "クエストマーカーをたどることは、初心者がミッションを完了するのに役立つ。",
+          "ipa": "/ˈfɑːloʊɪŋ ðə ˈkwɛst ˈmɑːrkərz ˈhɛlps bɪˈɡɪnərz kəmˈplit ˈmɪʃənz/",
+          "linking": [
+            "the → 弱形 /ðə/"
+          ],
+          "kana": "フォローイング ザ クエスト マーカーズ ヘルプス ビギナーズ コンプリート ミッションズ"
+        },
+        {
+          "en": "By following the redstone signals, we navigated the complex trap system.",
+          "ja": "レッドストーン信号をたどることで、複雑なトラップシステムをナビゲートした。",
+          "ipa": "/baɪ ˈfɑːloʊɪŋ ðə ˈrɛdˌstoʊn ˈsɪɡnəlz | wi ˈnævɪˌɡeɪtɪd ðə kəmˈplɛks ˈtræp ˈsɪstəm/",
+          "linking": [
+            "the → 弱形 /ðə/（2回）"
+          ],
+          "kana": "バイ フォローイング ザ レッドストーン シグナルズ、ウィ ナビゲイティド ザ コンプレックス トラップ システム"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形",
+      "text": "is following",
+      "ipa": "/ɪz ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The skeleton is following me through the dark cave.",
+          "ja": "スケルトンが暗い洞窟で私についてきている。",
+          "ipa": "/ðə ˈskɛlətən ɪz ˈfɑːloʊɪŋ mi θruː ðə ˈdɑːrk ˈkeɪv/",
+          "linking": [
+            "the → 弱形 /ðə/（2回）",
+            "is は弱形 /ɪz/"
+          ],
+          "kana": "ザ スケルトン イズ フォローイング ミー スルー ザ ダーク ケイヴ"
+        },
+        {
+          "en": "We are following the ancient path to the lost temple.",
+          "ja": "失われた寺院への古い道をたどっている。",
+          "ipa": "/wi ɑr ˈfɑːloʊɪŋ ðə ˈeɪnʃənt ˈpæθ tə ðə ˈlɔːst ˈtɛmpəl/",
+          "linking": [
+            "are は弱形 /ɑr/",
+            "the → 弱形 /ðə/（2回）",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィ アー フォローイング ザ エンシャント パス トゥ ザ ロースト テンプル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形",
+      "text": "was following",
+      "ipa": "/wəz ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "I was following the wolf when it suddenly disappeared in the forest.",
+          "ja": "オオカミについていたとき、森の中に突然消えた。",
+          "ipa": "/aɪ wəz ˈfɑːloʊɪŋ ðə ˈwʊlf wɛn ɪt ˈsʌdənli dɪsəˈpɪrd ɪn ðə ˈfɔːrəst/",
+          "linking": [
+            "was は弱形 /wəz/",
+            "the → 弱形 /ðə/（2回）"
+          ],
+          "kana": "アイ ワズ フォローイング ザ ウルフ ウェン イット サドゥンリー ディサピアード イン ザ フォレスト"
+        },
+        {
+          "en": "They were following the river when the rain started flooding the valley.",
+          "ja": "雨が谷を氾濫させ始めたとき、川をたどっていた。",
+          "ipa": "/ðeɪ wɚ ˈfɑːloʊɪŋ ðə ˈrɪvər wɛn ðə ˈreɪn ˈstɑːrtəd ˈflʌdɪŋ ðə ˈvæli/",
+          "linking": [
+            "were は弱形 /wɚ/",
+            "the → 弱形 /ðə/（3回）"
+          ],
+          "kana": "ゼイ ワー フォローイング ザ リバー ウェン ザ レイン スターティド フラディング ザ バレイ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形",
+      "text": "had been following",
+      "ipa": "/həd bɪn ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "I had been following the breadcrumb trail for hours before I found the village.",
+          "ja": "村を見つけるまで、パンくずの道を何時間もたどり続けていた。",
+          "ipa": "/aɪ həd bɪn ˈfɑːloʊɪŋ ðə ˈbrɛdˌkrʌm ˈtreɪl fər ˈaʊərz bɪˈfɔːr aɪ faʊnd ðə ˈvɪlɪdʒ/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the → 弱形 /ðə/（2回）",
+            "for は弱形 /fər/"
+          ],
+          "kana": "アイ ハド ビン フォローイング ザ ブレッドクラム トレイル ファー アワーズ ビフォア アイ ファウンド ザ ビリッジ"
+        },
+        {
+          "en": "The team had been following the quest markers for days before they reached the boss.",
+          "ja": "ボスに到達する前に、チームは何日もクエストマーカーをたどり続けていた。",
+          "ipa": "/ðə ˈtim həd bɪn ˈfɑːloʊɪŋ ðə ˈkwɛst ˈmɑːrkərz fər ˈdeɪz bɪˈfɔːr ðeɪ ˈritʃt ðə ˈbɔːs/",
+          "linking": [
+            "had は弱形 /həd/",
+            "been は弱形 /bɪn/",
+            "the → 弱形 /ðə/（2回）",
+            "for は弱形 /fər/"
+          ],
+          "kana": "ザ ティーム ハド ビン フォローイング ザ クエスト マーカーズ ファー デイズ ビフォア ゼイ リーチド ザ ボス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形",
+      "text": "has followed",
+      "ipa": "/həz ˈfɑːloʊd/",
+      "examples": [
+        {
+          "en": "She has followed the path all the way to the ancient stronghold.",
+          "ja": "彼女は古代の要塞まで道をずっとたどってきた。",
+          "ipa": "/ʃi həz ˈfɑːloʊd ðə ˈpæθ ɔːl ðə ˈweɪ tə ðə ˈeɪnʃənt ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "has は弱形 /həz/ に弱化",
+            "the → 弱形 /ðə/（2回）",
+            "to は弱形 /tə/"
+          ],
+          "kana": "シー ハズ フォロウド ザ パス オール ザ ウェイ トゥ ジ エンシャント ストロングホウルド"
+        },
+        {
+          "en": "I have followed my brother into the Nether and survived three battles.",
+          "ja": "兄弟とネザーに入り、3つの戦いを生き残った。",
+          "ipa": "/aɪ həv ˈfɑːloʊd maɪ ˈbrʌðər ɪntə ðə ˈnɛðər ənd sərˈvaɪvd θriː ˈbætəlz/",
+          "linking": [
+            "have は弱形 /həv/",
+            "into the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "アイ ハヴ フォロウド マイ ブラザー イントゥ ザ ネザー アンド サーバイブド スリー バットルズ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形",
+      "text": "had followed",
+      "ipa": "/həd ˈfɑːloʊd/",
+      "examples": [
+        {
+          "en": "I had followed the map before the creeper destroyed my base.",
+          "ja": "クリーパーが私の基地を破壊する前に、地図をたどってきた。",
+          "ipa": "/aɪ həd ˈfɑːloʊd ðə ˈmæp bɪˈfɔːr ðə ˈkriːpər dɪsˈtrɔɪd maɪ ˈbeɪs/",
+          "linking": [
+            "had は弱形 /həd/",
+            "the → 弱形 /ðə/（2回）",
+            "my は弱形 /mi/（文脈による）"
+          ],
+          "kana": "アイ ハド フォロウド ザ マップ ビフォア ザ クリーパー ディストロイド マイ ベイス"
+        },
+        {
+          "en": "We had followed the coordinates until we reached the end dimension.",
+          "ja": "エンド次元に到達するまで、座標をたどってきた。",
+          "ipa": "/wi həd ˈfɑːloʊd ðə ˌkoʊˈɔrdənɪts ənˈtɪl wi ˈritʃt ðə ˈɛnd dɪˈmɛnʃən/",
+          "linking": [
+            "had は弱形 /həd/",
+            "the は弱形 /ðə/",
+            "until は /ənˈtɪl/"
+          ],
+          "kana": "ウィ ハド フォロウド ザ コーディネイツ アンティル ウィ リーチド ジ エンド ディメンション"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形",
+      "text": "has been following",
+      "ipa": "/həz bɪn ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "The wolf has been following us through the snow forest since this morning.",
+          "ja": "オオカミは今朝からずっと雪の森で私たちについてきている。",
+          "ipa": "/ðə ˈwʊlf həz bɪn ˈfɑːloʊɪŋ əs θruː ðə ˈsnoʊ ˈfɔːrəst sɪns ðɪs ˈmɔːrnɪŋ/",
+          "linking": [
+            "has は弱形 /həz/",
+            "been は弱形 /bɪn/",
+            "the → 弱形 /ðə/（2回）",
+            "us through → us は /əs/、through は /θru:/"
+          ],
+          "kana": "ザ ウルフ ハズ ビン フォローイング アス スルー ザ スノウ フォレスト シンス ディス モーニング"
+        },
+        {
+          "en": "I have been following the river for weeks looking for a good place to build.",
+          "ja": "建設するための良い場所を探して、何週間も川をたどり続けている。",
+          "ipa": "/aɪ həv bɪn ˈfɑːloʊɪŋ ðə ˈrɪvər fər wiːks ˈlʊkɪŋ fɔːr ə ˈɡʊd ˈpleɪs tə bɪld/",
+          "linking": [
+            "have は弱形 /həv/",
+            "been は弱形 /bɪn/",
+            "the は弱形 /ðə/",
+            "for は弱形 /fər/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "アイ ハヴ ビン フォローイング ザ リバー ファー ウィークス ルッキング ファー ア グッド プレイス トゥ ビルド"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will follow",
+      "ipa": "/wɪl ˈfɑːloʊ/",
+      "examples": [
+        {
+          "en": "I'll follow the trail of iron ore deposits deeper into the mountain.",
+          "ja": "鉄鉱石の痕跡をたどって、山の奥深くまで入っていくよ。",
+          "ipa": "/aɪl ˈfɑːloʊ ðə ˈtreɪl əv ˈaɪrən ˈɔːr dɪˈpɑːzɪts ˈdipər ˈɪntu ðə ˈmaʊntən/",
+          "linking": [
+            "I'll → 縮約形 /aɪl/、will の弱形が反映",
+            "the → 弱形 /ðə/",
+            "of → 弱形 /əv/"
+          ],
+          "kana": "アイル フォロウ ザ トレイル アヴ アイアン オア ディポジッツ ディーパー イントゥ ザ マウンテン"
+        },
+        {
+          "en": "She'll follow us to the fortress if we light the way with torches.",
+          "ja": "もし懐中電灯で道を照らしたら、彼女は砦までついてくるだろう。",
+          "ipa": "/ʃil ˈfɑːloʊ əs tə ðə ˈfɔːrtnəs ɪf wi laɪt ðə ˈweɪ wɪð ˈtɔːrtʃəz/",
+          "linking": [
+            "she'll → 縮約形 /ʃil/、will の弱形が反映",
+            "follow us → 語末 /oʊ/ が次の /ə/（弱形）に連結",
+            "to the → to は弱形 /tə/、the は弱形 /ðə/"
+          ],
+          "kana": "シール フォロウ アス トゥ ザ フォートネス イフ ウィ ライト ザ ウェイ ウィズ トーチェズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be following",
+      "ipa": "/wɪl bi ˈfɑːloʊɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be following the river system to find all the water sources.",
+          "ja": "川システムをたどって、すべての水源を見つけるよ。",
+          "ipa": "/wil bi ˈfɑːloʊɪŋ ðə ˈrɪvər ˈsɪstəm tə ˈfaɪnd ɔːl ðə ˈwɔːtər ˈsɔːrsɪz/",
+          "linking": [
+            "we'll be → 縮約形 /wil bi/、be は弱形 /bi/",
+            "the → 弱形 /ðə/（2回）",
+            "to は弱形 /tə/"
+          ],
+          "kana": "ウィル ビー フォローイング ザ リバー システム トゥ ファインド オール ザ ウォーター ソーシズ"
+        },
+        {
+          "en": "They'll be following the same mining coordinates that we discovered last week.",
+          "ja": "先週発見したのと同じ採掘座標をたどるつもりです。",
+          "ipa": "/ðeɪl bi ˈfɑːloʊɪŋ ðə ˈseɪm ˈmaɪnɪŋ ˌkoʊˈɔrdənɪts ðæt wi dɪsˈkʌvərd ˈlæst ˈwik/",
+          "linking": [
+            "they'll be → 縮約形 /ðeɪl bi/、be は弱形 /bi/",
+            "the は弱形 /ðə/",
+            "that we → that /ðæt/、we /wi/ で自然に続く"
+          ],
+          "kana": "ゼイル ビー フォローイング ザ セイム マイニング コーディネイツ ザット ウィ ディスカバード ラスト ウィーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have followed",
+      "ipa": "/wɪl həv ˈfɑːloʊd/",
+      "examples": [
+        {
+          "en": "By midnight, I will have followed the cave system to its deepest point.",
+          "ja": "真夜中までに、洞窟システムの最深部までたどり着くでしょう。",
+          "ipa": "/baɪ ˈmɪdˌnaɪt | aɪ wɪl həv ˈfɑːloʊd ðə ˈkeɪv ˈsɪstəm tə ɪts ˈdipəst ˈpɔɪnt/",
+          "linking": [
+            "will have → 縮約形 /wɪl həv/、have は弱形 /həv/",
+            "the は弱形 /ðə/",
+            "to は弱形 /tə/"
+          ],
+          "kana": "バイ ミッドナイト、アイ ウィル ハヴ フォロウド ザ ケイヴ システム トゥ イッツ ディーペスト ポイント"
+        },
+        {
+          "en": "By the time you arrive, we will have followed all the markers and found the stronghold.",
+          "ja": "あなたが到着するまでに、すべてのマーカーをたどり、要塞を見つけているでしょう。",
+          "ipa": "/baɪ ðə ˈtaɪm ju əˈraɪv | wi wɪl həv ˈfɑːloʊd ɔːl ðə ˈmɑːrkərz ənd ˈfaʊnd ðə ˈstrɔŋˌhoʊld/",
+          "linking": [
+            "will have → 縮約形 /wɪl həv/、have は弱形 /həv/",
+            "the → 弱形 /ðə/（2回）",
+            "all the → all /ɔːl/ の語末 /l/ が the の弱形 /ðə/ に連結",
+            "and → 弱形 /ənd/"
+          ],
+          "kana": "バイ ザ タイム ユー アライヴ、ウィル ハヴ フォロウド オール ザ マーカーズ アンド ファウンド ザ ストロングホウルド"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Target 1400"
+  ]
+}

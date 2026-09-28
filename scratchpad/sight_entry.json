@@ -1,0 +1,528 @@
+{
+  "word": "sight",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/saɪt/",
+  "rank": 1200,
+  "level": "A2",
+  "hi": "sight(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】見えること、視界（the ability to see or the act of seeing）",
+    "【名詞】光景、景色、眺め（something that you see, especially something interesting or beautiful）",
+    "【動詞】見える、見かける、目撃する（to see something, especially something surprising or unexpected）"
+  ],
+  "examples": [
+    {
+      "en": "The beautiful sight of the sunset made everyone stop mining and watch.",
+      "ja": "夕焼けの美しい景色は、みんなが採掘を止めて見つめるようにさせた。",
+      "ipa": "/ðə ˈbjuːtɪfl̩ ˈsaɪt əv ðə ˈsʌnˌsɛt ˈmeɪd ˌɛvriˈwʌn ˈstɑp ˈmaɪnɪŋ ənd ˈwɑtʃ/",
+      "linking": [
+        "beautiful sight → sight の /t/ が of の弱形 /əv/ に続く（子音+子音、連結なし）",
+        "of the → of は弱形 /əv/、the も弱形 /ðə/（弱形連続）",
+        "and watch → d が w に続く（子音+子音、連結なし）"
+      ],
+      "kana": "ザ ビューティフル サイト オブ ザ サンセット メイド エブリワン ストップ マイニング アンド ウォッチ"
+    },
+    {
+      "en": "I sighted a strange structure in the distance while exploring the plains.",
+      "ja": "平原を探索している間に、遠くに奇妙な構造物が見えた。",
+      "ipa": "/aɪ ˈsaɪtɪd ə ˈstreɪndʒ ˈstrʌktʃər ɪn ðə ˈdɪstəns ˈwaɪl ɪkˈsplɔrɪŋ ðə ˈpleɪnz/",
+      "linking": [
+        "sighted a → sighted の /d/ が a の弱形 /ə/ に連結",
+        "in the → n が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/",
+        "while exploring → exploring の /ŋ/ が ð に続く（子音+子音、連結なし）"
+      ],
+      "kana": "アイ サイティッド ア ストレインジ ストラクチャー イン ザ ディスタンス ワイル イクスプローリング ザ プレインズ"
+    },
+    {
+      "en": "Out of sight, the mob spawner continued to create dangerous creatures.",
+      "ja": "視界の外では、モブスポーナーが危険な生き物を作り続けていた。",
+      "ipa": "/ˈaʊt əv ˈsaɪt | ðə ˈmoʊb ˈspɔːnər kənˈtɪnjuːd tu kriˈeɪt ˈdeɪndʒərəs ˈkritʃərz/",
+      "linking": [
+        "of sight → sight は /saɪt/。of は弱形 /əv/（弱形+子音）",
+        "the mob → the は弱形 /ðə/、子音で続く",
+        "to create → to は弱形 /tə/、子音で続く"
+      ],
+      "kana": "アウト オブ サイト、ザ モウブ スポーナー コンティニュード ツ クリエイト デインジャラス クリーチャーズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "at first sight",
+      "ja": "一目見て、一見したところ",
+      "example": "The enchanted forest was beautiful at first sight.",
+      "example_ja": "エンチャントされた森は一見したところ美しかった。",
+      "ipa": "/ðə ɪnˈtʃɑntɪd ˈfɔrəst wəz ˈbjuːtɪfl̩ æt ˈfɝst ˈsaɪt/",
+      "linking": [
+        "was beautiful → s と b が続く（子音+子音、連結なし）",
+        "at first → t と f が続く（子音+子音、連結なし）",
+        "first sight → t が s に続く（子音+子音、連結なし）"
+      ],
+      "kana": "ザ インチャンティッド フォレスト ワズ ビューティフル アット ファースト サイト"
+    },
+    {
+      "idiom": "in sight",
+      "ja": "見える所に、見えるところに、視界に入って",
+      "example": "The fortress came in sight after we climbed the mountain.",
+      "example_ja": "私たちが山を登った後、要塞が見える所に現れた。",
+      "ipa": "/ðə ˈfɔːrtəs ˈkeɪm ɪn ˈsaɪt ˈæftər wi ˈklaɪmd ðə ˈmaʊntən/",
+      "linking": [
+        "in sight → n が s に続く（子音+子音、連結なし）",
+        "after we → r と w が続く（子音+子音、連結なし）",
+        "climbed the → d と ð が続く（子音+子音、連結なし）。the は弱形"
+      ],
+      "kana": "ザ フォーテス ケイム イン サイト アフター ウィ クライムド ザ マウンテン"
+    }
+  ],
+  "forms": [
+    {
+      "type": "plural",
+      "label": "複数形（名詞）",
+      "text": "sights",
+      "ipa": "/saɪts/",
+      "examples": [
+        {
+          "en": "The sights you can see from the mountain peak are absolutely breathtaking.",
+          "ja": "山頂から見える景色は本当に息をのむほど素晴らしい。",
+          "ipa": "/ðə ˈsaɪts ju kən ˈsi frɑm ðə ˈmaʊntən ˈpik ɑr ˌæbsəˈluːtli ˈbrɛðˌteɪkɪŋ/",
+          "linking": [
+            "the sights → the は弱形 /ðə/、子音で続く",
+            "sights you → ts と j が続く（子音+子音、連結なし）",
+            "can see → can は弱形 /kən/、s で続く",
+            "from the → m と ð が続く（子音+子音、連結なし）。the は弱形"
+          ],
+          "kana": "ザ サイツ ユー カン シー フラム ザ マウンテン ピーク アー アブソルートリー ブレスティキング"
+        },
+        {
+          "en": "Beautiful sights in the Nether biome remind players why they love exploring.",
+          "ja": "ネザーバイオームの美しい景色は、プレイヤーが何故探検を愛するのかを思い出させてくれる。",
+          "ipa": "/ˈbjuːtɪfl̩ ˈsaɪts ɪn ðə ˈnɛðər ˈbaɪoʊm rɪˈmaɪnd ˈpleɪərz ˈwaɪ ðeɪ ˈlʌv ɪkˈsplɔrɪŋ/",
+          "linking": [
+            "beautiful sights → l と s が続く（子音+子音、連結なし）",
+            "sights in → ts と ɪ が連結に近い。in は母音で始まる",
+            "in the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "love exploring → v と ɪ が続く（子音+母音、連結なし）"
+          ],
+          "kana": "ビューティフル サイツ イン ザ ネザー バイオーム リマインド プレイヤーズ ワイ ゼイ ラブ イクスプローリング"
+        }
+      ]
+    },
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形（動詞）",
+      "text": "sights",
+      "ipa": "/saɪts/",
+      "examples": [
+        {
+          "en": "He sights a distant village through the spyglass from his tower.",
+          "ja": "彼は塔から双眼鏡を通して遠くの村が見えた。",
+          "ipa": "/hi ˈsaɪts ə ˈdɪstənt ˈvɪlɪdʒ θruː ðə ˈspaɪˌɡlæs frɑm hɪz ˈtaʊər/",
+          "linking": [
+            "he sights → e と s が続く（子音+子音、連結なし）",
+            "sights a → ts と ə が連結。a は弱形 [ˈsaɪts ə] サイツア",
+            "through the → gh は無音。through /θruː/ と the は弱形 /ðə/",
+            "spyglass from → s と f が続く（子音+子音、連結なし）"
+          ],
+          "kana": "ヒー サイツア ディスタント ビリッジ スルー ザ スパイグラス フラム ヒズ タウアー"
+        },
+        {
+          "en": "She sights danger ahead and quickly signals the group to retreat.",
+          "ja": "彼女は危険を見つけ、素早くグループに撤退するよう合図する。",
+          "ipa": "/ʃi ˈsaɪts ˈdeɪndʒər əˈhɛd ənd ˈkwɪkli ˈsɪɡnəlz ðə ɡrup tu rɪˈtrit/",
+          "linking": [
+            "she sights → ə と s が続く（子音+子音、連結なし）",
+            "sights danger → ts と d が続く（子音+子音、連結なし）",
+            "and quickly → d と k が続く（子音+子音、連結なし）",
+            "to retreat → to は弱形 /tə/、子音で続く"
+          ],
+          "kana": "シー サイツ デインジャー アヘッド アンド クイックリー シグナルズ ザ グループ トゥ リトリート"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形（動詞）",
+      "text": "sighted",
+      "ipa": "/ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "We sighted an ocean monument deep beneath the water while exploring yesterday.",
+          "ja": "昨日、探索しながら水の深くにある海の記念碑を見つけた。",
+          "ipa": "/wi ˈsaɪtɪd æn ˈoʊʃən ˈmɑːnjəmənt ˈdip bɪˈniːθ ðə ˈwɔːtər ˈwaɪl ɪkˈsplɔrɪŋ ˈjɛstərˌdeɪ/",
+          "linking": [
+            "we sighted → e と s が続く（子音+子音、連結なし）",
+            "sighted an → d が n に続く（子音+子音、連結なし）",
+            "deep beneath → p と b が続く（子音+子音、連結なし）",
+            "beneath the → ð と ð が重複。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ サイティッド アン オーシャン モニュメント ディープ ビニース ザ ウォーター ワイル イクスプローリング イェスタデイ"
+        },
+        {
+          "en": "I sighted the fortress entrance from my mining tunnel and rushed back to prepare.",
+          "ja": "採掘トンネルから要塞の入口が見えて、準備するために急いで戻った。",
+          "ipa": "/aɪ ˈsaɪtɪd ðə ˈfɔːrtəs ˈɛntrəns frɑm maɪ ˈmaɪnɪŋ ˈtʌnəl ənd ˈrʌʃt bæk tu prɪˈpɛr/",
+          "linking": [
+            "I sighted → aɪ と s が続く（子音+子音、連結なし）",
+            "sighted the → d と ð が連結に近い。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "tunnel and → l と æ が続く（子音+母音）",
+            "rushed back → d と b が続く（子音+子音、連結なし）"
+          ],
+          "kana": "アイ サイティッド ザ フォーテス エントランス フラム マイ マイニング タンネル アンド ラッシド バック トゥ プリペアー"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞（動詞）",
+      "text": "sighted",
+      "ipa": "/ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "Having sighted the stronghold, we prepared all our best equipment and potions.",
+          "ja": "要塞を見つけた後、私たちは最高の装備とポーションをすべて準備した。",
+          "ipa": "/ˈheɪvɪŋ ˈsaɪtɪd ðə ˈstrɔːŋˌhoʊld | wi prɪˈpɛrd ˈɔːl ˈaʊər ˈbɛst ɪˈkwɪpmənt ənd ˈpoʊʃənz/",
+          "linking": [
+            "sighted the → d と ð が連結。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "we prepared → e と p が続く（子音+子音、連結なし）",
+            "all our → l と aʊər が続く。our は弱形 /ɔr/ [ˈɔːl aʊər] オール アウアー",
+            "equipment and → t と æ が続く（子音+母音）"
+          ],
+          "kana": "ハヴィング サイティッド ザ ストロングホールド、ウィ プリペアド オール アウアー ベスト イクイップメント アンド ポーションズ"
+        },
+        {
+          "en": "The castle was sighted by our scout team during the afternoon exploration.",
+          "ja": "城は午後の探索中に偵察チームによって目撃された。",
+          "ipa": "/ðə ˈkæsəl wəz ˈsaɪtɪd baɪ ˈaʊər ˈskaʊt ˈtim ˈdʊrɪŋ ðə ˌæftərˈnuːn ɛkspləˈreɪʃən/",
+          "linking": [
+            "the castle → the は弱形 /ðə/、子音で続く [ðə ˈkæsəl] ザ キャッスル",
+            "was sighted → was は弱形 /wəz/、d で続く [wəz ˈsaɪtɪd] ワズ サイティッド",
+            "sighted by → d と b が続く（子音+子音、連結なし）",
+            "afternoon exploration → n と e が続く（子音+母音）"
+          ],
+          "kana": "ザ キャッスル ワズ サイティッド バイ アウアー スカウト ティーム デュアリング ザ アフターヌーン エクスプロレーション"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞（動詞）",
+      "text": "sighting",
+      "ipa": "/ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Sighting the ravine ahead, we quickly built a bridge to cross safely.",
+          "ja": "前方の渓谷が見えたので、我々は安全に渡るために素早く橋を作った。",
+          "ipa": "/ˈsaɪtɪŋ ðə ˈrævɪn əˈhɛd | wi ˈkwɪkli ˈbɪlt ə ˈbrɪdʒ tu ˈkrɔːs ˈseɪfli/",
+          "linking": [
+            "sighting the → g と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪŋ ðə] サイティング ザ",
+            "ravine ahead → n と ə が続く（子音+母音）",
+            "we quickly → e と k が続く（子音+子音、連結なし）",
+            "a bridge → a は弱形 /ə/、b で続く [ə ˈbrɪdʒ] ア ブリッジ"
+          ],
+          "kana": "サイティング ザ ラビーン アヘッド、ウィ クイックリー ビルト ア ブリッジ トゥ クロース セイフリー"
+        },
+        {
+          "en": "While sighting new biomes, the explorer recorded detailed maps of every terrain.",
+          "ja": "新しいバイオームを発見しながら、探検家は全ての地形の詳細な地図を記録した。",
+          "ipa": "/ˈwaɪl ˈsaɪtɪŋ ˈnu ˈbaɪoʊmz | ðə ɪkˈsplɔːrər rɪˈkɔːrdɪd dɪˈteɪld ˈmæps əv ˈɛvri təˈreɪn/",
+          "linking": [
+            "sighting new → g と n が続く（子音+子音、連結なし）",
+            "biomes the → z と ð が続く（子音+子音、連結なし）。the は弱形",
+            "the explorer → the は弱形 /ðə/、子音で続く [ðə ɪkˈsplɔːrər] ザ エクスプローラー",
+            "of every → f と e が続く（子音+母音）。of は弱形 /əv/ [əv ˈɛvri] オブ エブリー"
+          ],
+          "kana": "ワイル サイティング ニュー バイオームズ、ザ エクスプローラー リコーディッド ディテイルド マップス オブ エブリー テレイン"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（is/are + -ing）",
+      "text": "is sighting",
+      "ipa": "/ɪz ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "The lookout is sighting a mob horde approaching from the north.",
+          "ja": "見張り役が北から近づくモブの群れを見つけている。",
+          "ipa": "/ðə ˈlʊkaʊt ɪz ˈsaɪtɪŋ ə ˈmoʊb ˈhɔːrd əˈproʊtʃɪŋ frɑm ðə ˈnɔːrθ/",
+          "linking": [
+            "lookout is → t が母音に続く。is は弱形 /ɪz/ [ˈlʊkaʊt ɪz ˈsaɪtɪŋ] ルックアウト イズ サイティング",
+            "is sighting → z と s が続く（子音+子音、連結なし）",
+            "sighting a → ŋ と ə が続く（子音+母音）。a は弱形 /ə/ [ˈsaɪtɪŋ ə] サイティング ア",
+            "from the → m と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ザ ルックアウト イズ サイティング ア モウブ ホード アプローチング フラム ザ ノース"
+        },
+        {
+          "en": "We are sighting better resources in the new mining tunnel.",
+          "ja": "私たちは新しい採掘トンネルでより良いリソースが見えている。",
+          "ipa": "/wi ɑr ˈsaɪtɪŋ ˈbɛɾər rɪˈsɔːrsɪz ɪn ðə ˈnu ˈmaɪnɪŋ ˈtʌnəl/",
+          "linking": [
+            "we are → i と ɑ が続く（母音+母音、連結なし）。are は弱形 /ɑr/ [wi ɑr ˈsaɪtɪŋ] ウィ アー サイティング",
+            "are sighting → r と s が続く（子音+子音、連結なし）",
+            "sighting better → ŋ と b が続く（子音+子音、連結なし）",
+            "in the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ アー サイティング ベラー リソーシズ イン ザ ニュー マイニング タンネル"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was sighting",
+      "ipa": "/wəz ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "I was sighting a Stronghold when the Wither attacked.",
+          "ja": "ウィザーが攻撃してきたとき、要塞を見つけようとしていた。",
+          "ipa": "/aɪ wəz ˈsaɪtɪŋ ə ˈstrɔːŋˌhoʊld ˈwɛn ðə ˈwɪðər əˈtækt/",
+          "linking": [
+            "was sighting → z と s が続く（子音+子音、連結なし）。was は弱形 /wəz/ [wəz ˈsaɪtɪŋ] ワズ サイティング",
+            "sighting a → ŋ と ə が続く（子音+母音）。a は弱形 /ə/ [ˈsaɪtɪŋ ə] サイティング ア",
+            "when the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the Wither → the は弱形 /ðə/、子音で続く [ðə ˈwɪðər] ザ ウィザー"
+          ],
+          "kana": "アイ ワズ サイティング ア ストロングホールド ウェン ザ ウィザー アタックド"
+        },
+        {
+          "en": "They were sighting new terrain from the highest tower.",
+          "ja": "彼らは最も高い塔から新しい地形が見えていた。",
+          "ipa": "/ðeɪ wər ˈsaɪtɪŋ ˈnu təˈreɪn frɑm ðə ˈhaɪəst ˈtaʊər/",
+          "linking": [
+            "were sighting → r と s が続く（子音+子音、連結なし）。were は弱形 /wər/ [wər ˈsaɪtɪŋ] ワー サイティング",
+            "sighting new → ŋ と n が続く（子音+子音、連結なし）",
+            "from the → m と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "highest tower → t が未開放で t に連接（1つに聞こえる）[ˈhaɪəst̚ ˈtaʊər] ハイエスト タウアー"
+          ],
+          "kana": "ゼイ ワー サイティング ニュー テレイン フラム ザ ハイエスト タウアー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been sighting",
+      "ipa": "/həd bɪn ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "They had been sighting the fortress for hours before finally reaching it.",
+          "ja": "彼らはついに到達するまで、何時間も要塞を見張り続けていた。",
+          "ipa": "/ðeɪ həd bɪn ˈsaɪtɪŋ ðə ˈfɔːrtəs fɔr ˈaʊərz bɪˈfɔr ˈfaɪnəli ˈritʃɪŋ ɪt/",
+          "linking": [
+            "had been → d と b が続く（子音+子音、連結なし）。had は弱形 /həd/、been は弱形 /bɪn/ [həd bɪn ˈsaɪtɪŋ] ハド ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting the → ŋ と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "for hours → r と aʊ が続く（子音+母音）。for は弱形 /fɔr/ [fɔr ˈaʊərz] ファー アウアーズ"
+          ],
+          "kana": "ゼイ ハド ビン サイティング ザ フォーテス ファー アウアーズ ビフォー ファイナリー リーチング イット"
+        },
+        {
+          "en": "By the time we arrived, the scout had been sighting hostile mobs all day.",
+          "ja": "私たちが到着するまでに、偵察兵は一日中敵対的なモブを見張り続けていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | ðə ˈskaʊt həd bɪn ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈɔːl ˈdeɪ/",
+          "linking": [
+            "the time → the は弱形 /ðə/、子音で続く [ðə ˈtaɪm] ザ タイム",
+            "we arrived → i と ə が続く（母音+母音）。arrived の d は未開放 [wi əˈraɪvd̚] ウィ アライヴド",
+            "the scout → the は弱形 /ðə/、子音で続く [ðə ˈskaʊt] ザ スカウト",
+            "had been → d と b が続く（子音+子音、連結なし）。had は弱形 /həd/、been は弱形 /bɪn/"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ザ スカウト ハド ビン サイティング ホスタイル モウブズ オール デイ"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has sighted",
+      "ipa": "/həz ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "I have sighted a village in the distance!",
+          "ja": "遠くに村を見つけた！",
+          "ipa": "/aɪ həv ˈsaɪtɪd ə ˈvɪlɪdʒ ɪn ðə ˈdɪstəns/",
+          "linking": [
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted a → d が a に連結。a は弱形 /ə/ [ˈsaɪtɪd ə] サイティッド ア",
+            "in the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/",
+            "the distance → the は弱形 /ðə/、子音で続く"
+          ],
+          "kana": "アイ ハヴ サイティッド ア ビリッジ イン ザ ディスタンス"
+        },
+        {
+          "en": "She has sighted the stronghold entrance finally!",
+          "ja": "彼女がようやく要塞入口を見つけた！",
+          "ipa": "/ʃi həz ˈsaɪtɪd ðə ˈstrɔːŋˌhoʊld ˈɛntrəns ˈfaɪnəli/",
+          "linking": [
+            "has sighted → z と s が続く（子音+子音、連結なし）。has は弱形 /həz/ [həz ˈsaɪtɪd] ハズ サイティッド",
+            "sighted the → d が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "stronghold entrance → d と e が続く（子音+母音）",
+            "entrance finally → s と f が続く（子音+子音、連結なし）"
+          ],
+          "kana": "シー ハズ サイティッド ザ ストロングホールド エントランス ファイナリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had sighted",
+      "ipa": "/həd ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By the time we arrived, we had sighted three villages.",
+          "ja": "到着するまでに、私たちは3つの村を見つけていた。",
+          "ipa": "/baɪ ðə ˈtaɪm wi əˈraɪvd | wi həd ˈsaɪtɪd ˈθri ˈvɪlɪdʒɪz/",
+          "linking": [
+            "the time → the は弱形 /ðə/、子音で続く [ðə ˈtaɪm] ザ タイム",
+            "we arrived → i と ə が続く（母音+母音、連結なし）。arrived の d は未開放 [wi əˈraɪvd̚] ウィ アライヴド",
+            "we had → i と h が続く（母音+子音）",
+            "had sighted → d と s が続く（子音+子音、連結なし）。had は弱形 /həd/ [həd ˈsaɪtɪd] ハド サイティッド",
+            "sighted three → d と θ が続く（子音+子音、連結なし）"
+          ],
+          "kana": "バイ ザ タイム ウィ アライヴド、ウィ ハド サイティッド スリー ビリッジズ"
+        },
+        {
+          "en": "They had sighted the Ender Dragon before nightfall.",
+          "ja": "日没前にエンダードラゴンを見つけていた。",
+          "ipa": "/ðeɪ həd ˈsaɪtɪd ðə ˈɛndər ˈdræɡən bɪˈfɔr ˈnaɪtˌfɔːl/",
+          "linking": [
+            "had sighted → d と s が続く（子音+子音、連結なし）。had は弱形 /həd/ [həd ˈsaɪtɪd] ハド サイティッド",
+            "sighted the → d が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ",
+            "Ender Dragon → r と d が続く（子音+子音、連結なし）",
+            "before nightfall → r と n が続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハド サイティッド ザ エンダー ドラゴン ビフォー ナイトフォール"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been sighting",
+      "ipa": "/həz bɪn ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "He has been sighting every structure he finds on the map.",
+          "ja": "彼は見つけた構造物すべてを地図に記録している。",
+          "ipa": "/hi həz bɪn ˈsaɪtɪŋ ˈɛvri ˈstrʌktʃər hi ˈfaɪndz ɑn ðə ˈmæp/",
+          "linking": [
+            "has been → z と b が続く（子音+子音、連結なし）。has は弱形 /həz/、been は弱形 /bɪn/ [həz bɪn ˈsaɪtɪŋ] ハズ ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting every → ŋ と e が続く（子音+母音）",
+            "on the → n と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ヒー ハズ ビン サイティング エブリー ストラクチャー ヒー ファインズ オン ザ マップ"
+        },
+        {
+          "en": "They have been sighting hostile mobs all night long.",
+          "ja": "彼らは夜通しモブを目撃し続けている。",
+          "ipa": "/ðeɪ həv bɪn ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈɔːl ˈnaɪt ˈlɔːŋ/",
+          "linking": [
+            "have been → v と b が続く（子音+子音、連結なし）。have は弱形 /həv/、been は弱形 /bɪn/ [həv bɪn ˈsaɪtɪŋ] ハヴ ビン サイティング",
+            "been sighting → n と s が続く（子音+子音、連結なし）",
+            "sighting hostile → ŋ と h が続く（子音+子音、連結なし）",
+            "all night → l が ˈn に続く（子音+子音、連結なし）"
+          ],
+          "kana": "ゼイ ハヴ ビン サイティング ホスタイル モウブズ オール ナイト ロング"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will sight",
+      "ipa": "/wɪl ˈsaɪt/",
+      "examples": [
+        {
+          "en": "We will sight the stronghold once we reach the nether portal.",
+          "ja": "ネザーポータルに到達すれば、要塞が見えるだろう。",
+          "ipa": "/wi wɪl ˈsaɪt ðə ˈstrɔːŋˌhoʊld ˈwʌns wi ˈritʃ ðə ˈnɛðər ˈpoʊrtəl/",
+          "linking": [
+            "will sight → l と s が続く（子音+子音、連結なし）",
+            "sight the → t が ð に続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪt ðə] サイト ザ",
+            "once we → s と w が続く（子音+子音、連結なし）",
+            "reach the → ʃ と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/"
+          ],
+          "kana": "ウィ ウィル サイト ザ ストロングホールド ワンス ウィ リーチ ザ ネザー ポータル"
+        },
+        {
+          "en": "You will sight new terrain once you climb that mountain.",
+          "ja": "その山を登れば、新しい地形が見えるだろう。",
+          "ipa": "/ju wɪl ˈsaɪt ˈnu təˈreɪn ˈwʌns ju ˈklaɪm ðæt ˈmaʊntən/",
+          "linking": [
+            "will sight → l と s が続く（子音+子音、連結なし）",
+            "sight new → t と n が続く（子音+子音、連結なし）",
+            "you climb → u と k が続く（子音+子音、連結なし）",
+            "that mountain → t と m が続く（子音+子音、連結なし）"
+          ],
+          "kana": "ユー ウィル サイト ニュー テレイン ワンス ユー クライム ザット マウンテン"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be sighting",
+      "ipa": "/wɪl bi ˈsaɪtɪŋ/",
+      "examples": [
+        {
+          "en": "Tomorrow I will be sighting every block carefully for diamonds.",
+          "ja": "明日、私はダイヤモンドを探すために各ブロックを注意深く探査するだろう。",
+          "ipa": "/təˈmɑroʊ aɪ wɪl bi ˈsaɪtɪŋ ˈɛvri ˈblɑk ˈkɛrfəli fɔr ˈdaɪəmənz/",
+          "linking": [
+            "will be → l と b が続く（子音+子音、連結なし）",
+            "be sighting → i と s が続く（子音+子音、連結なし）",
+            "sighting every → ŋ と e が続く（子音+母音）",
+            "for diamonds → r と d が続く（子音+子音、連結なし）。for は弱形 /fɔr/"
+          ],
+          "kana": "トゥモロー アイ ウィル ビー サイティング エブリー ブロック ケアフリー ファー ダイアモンズ"
+        },
+        {
+          "en": "The team will be sighting hostile mobs when they enter the dark cave.",
+          "ja": "チームが暗い洞窟に入るとき、彼らは敵対的なモブを見つけるだろう。",
+          "ipa": "/ðə ˈtim wɪl bi ˈsaɪtɪŋ ˈhɑsˌtaɪl ˈmoʊbz ˈwɛn ðeɪ ˈɛntər ðə ˈdɑrk ˈkeɪv/",
+          "linking": [
+            "will be → l と b が続く（子音+子音、連結なし）",
+            "be sighting → i と s が続く（子音+子音、連結なし）",
+            "sighting hostile → ŋ と h が続く（子音+子音、連結なし）",
+            "when they → n と ð が続く（子音+子音、連結なし）",
+            "the dark → the は弱形 /ðə/、子音で続く [ðə ˈdɑrk] ザ ダーク"
+          ],
+          "kana": "ザ ティーム ウィル ビー サイティング ホスタイル モウブズ ウェン ゼイ エンター ザ ダーク ケイブ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have sighted",
+      "ipa": "/wɪl həv ˈsaɪtɪd/",
+      "examples": [
+        {
+          "en": "By tomorrow, we will have sighted the End portal.",
+          "ja": "明日までに、私たちはエンドポータルを見つけているだろう。",
+          "ipa": "/baɪ təˈmɑroʊ wi wɪl həv ˈsaɪtɪd ðə ˈɛnd ˈpoʊrtəl/",
+          "linking": [
+            "will have → l と h が続く（子音+子音、連結なし）",
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted the → d と ð が続く（子音+子音、連結なし）。the は弱形 /ðə/ [ˈsaɪtɪd ðə] サイティッド ザ"
+          ],
+          "kana": "バイ トゥモロー ウィ ウィル ハヴ サイティッド ザ エンド ポータル"
+        },
+        {
+          "en": "They will have sighted at least three villages by sunset.",
+          "ja": "日没までに、彼らは少なくとも3つの村を見つけているだろう。",
+          "ipa": "/ðeɪ wɪl həv ˈsaɪtɪd ət ˈlist ˈθri ˈvɪlɪdʒɪz baɪ ˈsʌnˌsɛt/",
+          "linking": [
+            "will have → l と h が続く（子音+子音、連結なし）",
+            "have sighted → v と s が続く（子音+子音、連結なし）。have は弱形 /həv/ [həv ˈsaɪtɪd] ハヴ サイティッド",
+            "sighted at → d と æ が続く（子音+母音）",
+            "at least → t と l が続く（子音+子音、連結なし）。at は /ət/ [ət ˈlist] アット リースト"
+          ],
+          "kana": "ゼイ ウィル ハヴ サイティッド アット リースト スリー ビリッジズ バイ サンセット"
+        }
+      ]
+    }
+  ]
+}

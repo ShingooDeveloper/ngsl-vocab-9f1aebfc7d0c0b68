@@ -1,0 +1,364 @@
+{
+  "word": "entail",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ɪnˈteɪl/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "entail(?:s?|ed|ing)",
+  "meanings": [
+    "【動詞】「～を必然的に伴う」「～をもたらす」（…が必ず～という結果をもたらす）",
+    "【動詞】「～を必要とする」「～を要求する」（…を実現するのに…が必要となる）",
+    "【動詞】「～に継承権を限定する」（法律用語）"
+  ],
+  "examples": [
+    {
+      "en": "Winning this battle entails gathering more supplies.",
+      "ja": "このバトルに勝つには、より多くの物資を集めることが必要です。",
+      "ipa": "/ˈwɪnɪŋ ðɪs ˈbætəl ɪnˈteɪlz ˈɡæðərɪŋ mɔːr səˈplaɪz/",
+      "linking": [
+        "battle の語末 /əl/ が entails の /ɪ/ に連結 [ˈbætəlɪnˈteɪlz]",
+        "entails の語末 /z/ が gathering の /ɡ/ に連結しない（子音+子音）",
+        "more の語末 /r/ が supplies の /s/ に連結しない（子音+子音）"
+      ],
+      "kana": "ウィニング ディス バットル インテイルズ ガザリング モアー サプライズ"
+    },
+    {
+      "en": "Building a tall tower entails using a lot of stone blocks.",
+      "ja": "高い塔を建てるには、たくさんの石ブロックを使うことが必要です。",
+      "ipa": "/ˈbɪldɪŋ ə tɔːl ˈtaʊər ɪnˈteɪlz ˈjuːzɪŋ ə ˈlɑːt əv stoʊn blɑːks/",
+      "linking": [
+        "a は弱形 /ə/ [ə]→「ア」、tower の語末 /r/ が entails の /ɪ/ に連結 [ˈtaʊərɪnˈteɪlz]→「タウアーインテイルズ」",
+        "lot の語末 /t/ が of の /ə/ に連結、フラップ化 [ˈlɑɾəv]→「ラーラヴ」、of は弱形 /əv/"
+      ],
+      "kana": "ビルディング ア トール タウアー インテイルズ ユージング ア ラーラヴ ストウン ブロックス"
+    },
+    {
+      "en": "Mining diamonds entails going deep into caves.",
+      "ja": "ダイヤモンドを採掘するには、深い洞窟に行くことが必要です。",
+      "ipa": "/ˈmaɪnɪŋ ˈdaɪəmənz ɪnˈteɪlz ˈɡoʊɪŋ ˈdiːp ˈɪntuː keɪvz/",
+      "linking": [
+        "diamonds の語末 /z/ が entails の /ɪ/ に連結しない（子音+子音）",
+        "deep の語末 /p/ が into の /ɪ/ に未開放で連接 [ˈdiːp̚ ˈɪntuː]→「ディープ イントゥー」"
+      ],
+      "kana": "マイニング ダイアモンズ インテイルズ ゴウイング ディープ イントゥー ケイブズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "entail consequences",
+      "ja": "結果をもたらす、帰結する",
+      "example": "Griefing entails serious consequences for your server reputation.",
+      "example_ja": "グリーフィングはサーバーの評判に重大な帰結をもたらします。",
+      "ipa": "/ˈɡriːfɪŋ ɪnˈteɪlz ˈsɪriəs ˈkɑːnsəkwənsɪz fər jər ˈsɜːrvər ˌrɛpjəˈteɪʃən/",
+      "linking": [
+        "grieving の語末 /ŋ/ が entails の /ɪ/ に連結しない（別音素）、entails は /ɪnˈteɪlz/",
+        "for は弱形 /fər/、your は /jər/、server reputation は /ˈsɜːrvər ˌrɛpjəˈteɪʃən/"
+      ],
+      "kana": "グリーフィング インテイルズ シリアス コンシクエンセズ ファー ユア サーヴァー レピュテイション"
+    }
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "entails",
+      "ipa": "/ɪnˈteɪlz/",
+      "examples": [
+        {
+          "en": "Building the stronghold entails gathering blaze rods from the nether fortress.",
+          "ja": "ザ・エンドへの進出には、ネザー要塞からブレイズロッドを集める必要があります。",
+          "ipa": "/ˈbɪldɪŋ ðə ˈstrɔŋˌhoʊld ɪnˈteɪlz ˈɡæðərɪŋ ˈbleɪz ˈrɑdz frəm ðə ˈnɛðɚ ˈfɔrtəs/",
+          "kana": "ビルディング ザ ストロングホウルド インテイルズ ガザリング ブレイズ ロッドズ フラム ザ ネザー フォーティス",
+          "linking": [
+            "「the stronghold」: the は弱形 [ðə]「ザ」、stronghold の /s/ に続く",
+            "「stronghold entails」: stronghold の語末 /d/ が entails の /ɪ/ に連結 [ˈstrɔŋˌhoʊld ɪnˈteɪlz]「ストロングホウルド インテイルズ」",
+            "「from the」: from は弱形 [frəm]「フラム」、the は弱形 [ðə]「ザ」に弱化"
+          ]
+        },
+        {
+          "en": "Exploring the deep caves entails mining diamonds and avoiding hostile mobs.",
+          "ja": "深い洞窟を探索するには、ダイヤモンドの採掘と敵対的なモブを避けることが必要です。",
+          "ipa": "/ɪkˈsplɔrɪŋ ðə ˈdip ˈkeɪvz ɪnˈteɪlz ˈmaɪnɪŋ ˈdaɪəmənz ənd əˈvɔɪdɪŋ ˈhɑstəl ˈmɑbz/",
+          "kana": "エクスプローリング ザ ディープ ケイブズ インテイルズ マイニング ダイアモンズ アンド アボイディング ホステル モブズ",
+          "linking": [
+            "「the deep」: the は弱形 [ðə]「ザ」",
+            "「caves entails」: caves の語末 /z/ が entails の /ɪ/ に連結 [ˈkeɪvz ɪnˈteɪlz]「ケイブズ インテイルズ」",
+            "「and avoiding」: and は弱形 [ənd] または [ən]「アンド」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "entailed",
+      "ipa": "/ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "Setting up our initial base entailed clearing trees and gathering stone blocks.",
+          "ja": "最初のベース設置には、木を伐採し、石ブロックを集めることが必要でした。",
+          "ipa": "/ˈsɛtɪŋ ʌp ˈaʊɚ ɪˈnɪʃəl ˈbeɪs ɪnˈteɪld ˈklɪɹɪŋ ˈtriz ənd ˈɡæðərɪŋ ˈstoʊn ˈblɑks/",
+          "kana": "セティング アップ アウア イニシャル ベイス インテイルド クリアリング トリーズ アンド ガザリング ストーン ブラックス",
+          "linking": [
+            "「base entailed」: base の語末 /s/ が entailed の /ɪ/ に連結 [ˈbeɪs ɪnˈteɪld]「ベイス インテイルド」",
+            "「clearing trees」: clearing の語末 /ŋ/ が trees の /t/ に続き、子音+子音で連結なし",
+            "「and gathering」: and は弱形 [ənd] または [ən]「アンド」、gathering に続く"
+          ]
+        },
+        {
+          "en": "Our nether mining trip entailed finding a fortress and collecting blaze rods.",
+          "ja": "ネザーでの採掘旅行には、要塞を見つけてブレイズロッドを集めることが必要でした。",
+          "ipa": "/ˈaʊɚ ˈnɛðɚ ˈmaɪnɪŋ ˈtrɪp ɪnˈteɪld ˈfaɪndɪŋ ə ˈfɔrtəs ənd kəˈlɛktɪŋ ˈbleɪz ˈrɑdz/",
+          "kana": "アウア ネザー マイニング トリップ インテイルド ファインディング ア フォーティス アンド コレクティング ブレイズ ロッドズ",
+          "linking": [
+            "「trip entailed」: trip の語末 /p/ が entailed の /ɪ/ に連結 [ˈtrɪp ɪnˈteɪld]「トリップ インテイルド」",
+            "「a fortress」: a は弱形 [ə]「ア」、fortress の /f/ に続く",
+            "「and collecting」: and は弱形 [ənd] または [ən]「アンド」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "entailed",
+      "ipa": "/ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "The massive amount of work that was entailed in that build took us several weeks.",
+          "ja": "その建築が必要とした膨大な仕事量は、私たちに数週間かかりました。",
+          "ipa": "/ðə ˈmæsɪv əˈmaʊnt əv wɝk ðæt wəz ɪnˈteɪld ɪn ðæt bɪld tʊk əs ˈsɛvərəl ˈwiks/",
+          "kana": "ザ マッシブ アマウント アヴ ワーク ザット ワズ インテイルド イン ザット ビルド トゥック アズ セヴァラル ウィークス",
+          "linking": [
+            "「amount of」: amount の語末 /t/ が of の /ə/ に連結 [əˈmaʊnt əv]「アマウント アヴ」、of は弱形 /əv/",
+            "「that was」: that の語末 /t/ は未開放、was は弱形 [wəz]「ワズ」に続く [ðæt̚ wəz]「ザット ワズ」",
+            "「in that」: in の語末 /n/ が that の /t/ に続き、子音+子音で未開放 [ɪn̚ ðæt̚]「イン ザット」"
+          ]
+        },
+        {
+          "en": "What the terraforming project had entailed surprised everyone on the server.",
+          "ja": "テラフォーミングプロジェクトが必要としたことは、サーバー上の全員を驚かせました。",
+          "ipa": "/wʌt ðə ˌtɛɹəˈfɔrmɪŋ ˈprɑdʒɛkt hæd ɪnˈteɪld sərˈpraɪzd ˈɛvɹiwʌn ɑn ðə ˈsɝvər/",
+          "kana": "ワット ザ テラフォーミング プロジェクト ハッド インテイルド サープライズド エブリワン オン ザ サーバー",
+          "linking": [
+            "「the terraforming」: the は弱形 [ðə]「ザ」",
+            "「project had」: project の語末 /t/ は未開放、had に続く [ˈprɑdʒɛkt̚ hæd]「プロジェクト ハッド」",
+            "「had entailed」: had は弱形 [hæd] または [əd]、entailed の /ɪ/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "entailing",
+      "ipa": "/ɪnˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Successfully mining at bedrock level entails careful planning and proper equipment.",
+          "ja": "基岩レベルで成功させるには、慎重な計画と適切な機器が必要です。",
+          "ipa": "/ˌsəkˈsɛsfəli ˈmaɪnɪŋ æt ˈbɛdˌrɑk ˈlɛvəl ɪnˈteɪlɪŋ ˈkɛɹfəl ˈplænɪŋ ənd ˈproʊpɚ ɪˈkwɪpmənt/",
+          "kana": "サクセスフリー マイニング アット ベッドロック レベル インテイリング ケアフル プラニング アンド プロパー イクウィップメント",
+          "linking": [
+            "「at bedrock」: at の語末 /t/ は未開放、bedrock の /b/ に続く [æt̚ ˈbɛdˌrɑk]「アット ベッドロック」",
+            "「level entailing」: level の語末 /l/ が entailing の /ɪ/ に連結 [ˈlɛvəl ɪnˈteɪlɪŋ]「レベル インテイリング」",
+            "「and proper」: and は弱形 [ənd] または [ən]「アンド」"
+          ]
+        },
+        {
+          "en": "We avoided complications by entailing a simpler project design with fewer moving parts.",
+          "ja": "移動部分の少ないシンプルなプロジェクト設計を採用することで、複雑さを回避しました。",
+          "ipa": "/wi əˈvɔɪdɪd ˌkɑmpləˈkeɪʃənz baɪ ɪnˈteɪlɪŋ ə ˈsɪmpləɹ ˈprɑdʒɛkt dɪˈzaɪn wɪð ˈfjuːɚ ˈmuvɪŋ ˈpɑrts/",
+          "kana": "ウィ アボイディッド コンプリケイションズ バイ インテイリング ア シンプラー プロジェクト ディザイン ウィス フューアー ムービング パーツ",
+          "linking": [
+            "「by entailing」: by の語末 /aɪ/ は母音、entailing の /ɪ/ に続く。母音+母音だが [baɪ ɪnˈteɪlɪŋ]「バイ インテイリング」",
+            "「a simpler」: a は弱形 [ə]「ア」、simpler の /s/ に続く",
+            "「fewer moving」: fewer の語末 /r/ が moving の /m/ に続き、子音+子音で連結なし"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is entailing",
+      "ipa": "/ɪz ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was entailing",
+      "ipa": "/wəz ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been entailing",
+      "ipa": "/ˈhæd bɪn ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has entailed",
+      "ipa": "/həz ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "Finding that cave system has entailed mapping out all the tunnels carefully.",
+          "ja": "あの洞窟システムを見つけることは、すべてのトンネルを注意深くマッピングすることを必要としています。",
+          "ipa": "/ˈfaɪndɪŋ ðæt ˈkeɪv ˈsɪstəm həz ɪnˈteɪld ˈmæpɪŋ aʊt ɔl ðə ˈtʌnəlz ˈkɛɹfəli/",
+          "kana": "ファインディング ザット ケイブ シスタム ハズ インテイルド マッピング アウト オール ザ タンネルズ ケアフリー",
+          "linking": [
+            "「system has」: system の語末 /m/ が has の /h/ に続き、子音+子音で未開放。has は弱形 /həz/「ハズ」に続く [ˈsɪstəm həz]「シスタム ハズ」",
+            "「has entailed」: has が entailed の /ɪ/ に連結 [həz ɪnˈteɪld]「ハズ インテイルド」",
+            "「out all」: out の語末 /t/ は未開放、all の /ɔ/ に続く [aʊt̚ ɔl]「アウト オール」"
+          ]
+        },
+        {
+          "en": "Building our base has entailed collecting enormous quantities of stone blocks.",
+          "ja": "私たちのベース建築には、膨大な量の石ブロックを集めることが必要でした。",
+          "ipa": "/ˈbɪldɪŋ ˈaʊɚ ˈbeɪs həz ɪnˈteɪld kəˈlɛktɪŋ ɪˈnɔrmɪs ˈkwɑntətiz əv ˈstoʊn ˈblɑks/",
+          "kana": "ビルディング アウア ベイス ハズ インテイルド コレクティング イノーマス クワンティティーズ アヴ ストーン ブロックス",
+          "linking": [
+            "「base has」: base の語末 /s/ と has の /h/ が続き、子音+子音。has は弱形 /həz/ [ˈbeɪs həz]「ベイス ハズ」",
+            "「has entailed」: has が entailed の /ɪ/ に連結 [həz ɪnˈteɪld]「ハズ インテイルド」",
+            "「of stone」: of は弱形 /əv/「アヴ」、stone の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had entailed",
+      "ipa": "/həd ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "The resource gathering expedition had entailed traveling far from the spawn point.",
+          "ja": "資源採集遠征には、スポーンポイントからはるか遠くまで移動することが必要でした。",
+          "ipa": "/ðə ˈrɛsɚs ˈɡæðərɪŋ ɛkˈspɛdɪʃən həd ɪnˈteɪld ˈtrævəlɪŋ ˈfɑr frəm ðə ˈspoʊn ˈpɔɪnt/",
+          "kana": "ザ レソース ガザリング エクスペディション ハド インテイルド トラベリング ファー フラム ザ スポーン ポイント",
+          "linking": [
+            "「gathering had」: gathering の語末 /ŋ/ が had の /h/ に続き、子音+子音で未開放。had は弱形 /həd/ [ˈɡæðərɪŋ həd]「ガザリング ハド」",
+            "「had entailed」: had が entailed の /ɪ/ に連結 [həd ɪnˈteɪld]「ハド インテイルド」",
+            "「from the」: from は弱形 /frəm/「フラム」、the は弱形 /ðə/「ザ」に続く"
+          ]
+        },
+        {
+          "en": "Preparing for the boss fight had entailed gathering healing potions and strong armor.",
+          "ja": "ボス戦の準備には、回復ポーションと強力な防具を集めることが必要でした。",
+          "ipa": "/prɪˈpɛɹɪŋ ˈfɔr ðə ˈbɔs ˈfaɪt həd ɪnˈteɪld ˈɡæðərɪŋ ˈhilɪŋ poʊˈʃənz ənd ˈstrɔŋ ˈɑrmɚ/",
+          "kana": "プリペアリング フォー ザ ボス ファイト ハド インテイルド ガザリング ヒーリング ポーションズ アンド ストロング アーマー",
+          "linking": [
+            "「fight had」: fight の語末 /t/ は未開放で次の had /h/ に続く [faɪt̚ həd]「ファイト ハド」。had は弱形 /həd/",
+            "「had entailed」: had が entailed の /ɪ/ に連結 [həd ɪnˈteɪld]「ハド インテイルド」",
+            "「and strong」: and は弱形 [ən]「アンド」、strong の /s/ に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been entailing",
+      "ipa": "/həz bɪn ɪnˈteɪlɪŋ/",
+      "examples": [
+        {
+          "en": "Expanding the base has been entailing constant resource runs and careful planning.",
+          "ja": "ベースの拡張には、継続的なリソース収集と慎重な計画が必要です。",
+          "ipa": "/ɪkˈspændɪŋ ðə ˈbeɪs həz bɪn ɪnˈteɪlɪŋ ˈkɑnstənt ˈrɛsɚs ˈrʌnz ənd ˈkɛɹfəl ˈplænɪŋ/",
+          "kana": "エクスパンディング ザ ベイス ハズ ビン インテイリング コンスタント レソース ランズ アンド ケアフル プラニング",
+          "linking": [
+            "「base has」: base の語末 /s/ が has の /h/ に続き、子音+子音。has は弱形 /həz/、been は弱形 /bɪn/ [ˈbeɪs həz bɪn]「ベイス ハズ ビン」",
+            "「has been entailing」: has が been を経由して entailing の /ɪ/ に続く [həz bɪn ɪnˈteɪlɪŋ]「ハズ ビン インテイリング」",
+            "「and careful」: and は弱形 [ən]「アンド」、careful の /k/ に続く"
+          ]
+        },
+        {
+          "en": "Our redstone project has been entailing detailed testing and troubleshooting daily.",
+          "ja": "私たちのレッドストーンプロジェクトには、毎日の詳細なテストとトラブルシューティングが必要です。",
+          "ipa": "/ˈaʊɚ ˈrɛdˌstoʊn ˈprɑdʒɛkt həz bɪn ɪnˈteɪlɪŋ dɪˈteɪld ˈtɛstɪŋ ənd ˈtrʌbəlˌʃutɪŋ ˈdeɪli/",
+          "kana": "アウア レッドストーン プロジェクト ハズ ビン インテイリング ディテイルド テスティング アンド トラブルシューティング デイリー",
+          "linking": [
+            "「project has」: project の語末 /t/ は未開放、has の /h/ に続く [ˈprɑdʒɛkt̚ həz]「プロジェクト ハズ」。has は弱形 /həz/、been は弱形 /bɪn/",
+            "「has been entailing」: been が entailing の /ɪ/ に連結 [bɪn ɪnˈteɪlɪŋ]「ビン インテイリング」",
+            "「and troubleshooting」: and は弱形 [ən]「アンド」、troubleshooting に続く"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will entail",
+      "ipa": "/wɪl ɪnˈteɪl/",
+      "examples": [
+        {
+          "en": "Mining deep caves will entail finding rare diamonds and avoiding hostile mobs.",
+          "ja": "深い洞窟での採掘には、レアなダイヤモンドを見つけ、敵対的なモブを避けることが必要です。",
+          "ipa": "/ˈmaɪnɪŋ ˈdip ˈkeɪvz wɪl ɪnˈteɪl ˈfaɪndɪŋ ˈreɪr ˈdaɪəmənz ənd əˈvɔɪdɪŋ ˈhɑstəl ˈmɑbz/",
+          "kana": "マイニング ディープ ケイブズ ウィル インテイル ファインディング レアー ダイアモンズ アンド アボイディング ホステル モブズ",
+          "linking": [
+            "「caves will」: caves の語末 /z/ が will の /w/ に続き、子音+子音で連結なし",
+            "「will entail」: will の語末 /l/ が entail の /ɪ/ に連結 [wɪl ɪnˈteɪl]「ウィル インテイル」",
+            "「and avoiding」: and は弱形 /ən/ で avoiding の /ə/ に続く [ən əˈvɔɪdɪŋ]「アンド アボイディング」"
+          ]
+        },
+        {
+          "en": "Preparing for the final boss will entail gathering healing potions and protective equipment.",
+          "ja": "最終ボス戦の準備には、回復ポーションと保護装備を集めることが必要です。",
+          "ipa": "/prɪˈpɛrɪŋ ˈfɔr ðə ˈfaɪnəl ˈbɔs wɪl ɪnˈteɪl ˈɡæðərɪŋ ˈhilɪŋ poʊˈʃənz ənd prəˈtɛktɪv ɪˈkwɪpmənt/",
+          "kana": "プリペアリング フォー ザ ファイナル ボス ウィル インテイル ガザリング ヒーリング ポーションズ アンド プロテクティブ イクウィップメント",
+          "linking": [
+            "「the final」: the は弱形 /ðə/ で final の /f/ に続く。母音+子音で連結なし [ðəˈfaɪnəl]「ザ ファイナル」",
+            "「final boss」: final の語末 /əl/ が boss の /b/ に続き、子音+子音で連結なし",
+            "「will entail」: will の語末 /l/ が entail の /ɪ/ に連結 [wɪl ɪnˈteɪl]「ウィル インテイル」",
+            "「and protective」: and は弱形 /ən/ で protective の /p/ に続き、子音+子音で連結なし [ən prəˈtɛktɪv]「アンド プロテクティブ」"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be entailing",
+      "ipa": "/wɪl bi ɪnˈteɪlɪŋ/",
+      "examples": []
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have entailed",
+      "ipa": "/wɪl həv ɪnˈteɪld/",
+      "examples": [
+        {
+          "en": "By the completion date, this entire mining project will have entailed exploring countless caverns.",
+          "ja": "完了日までに、このマイニングプロジェクト全体には、無数の大洞穴を探索することが必要になっているだろう。",
+          "ipa": "/baɪ ðə kəmˈpliːʃən ˈdeɪt ðɪs ɪnˈtaɪr ˈmaɪnɪŋ ˈprɑdʒɛkt wɪl həv ɪnˈteɪld ɪkˈsplɔrɪŋ ˈkaʊntləs ˈkævərnz/",
+          "kana": "バイ ザ コムプリーション デイト ディス インタイア マイニング プロジェクト ウィル ハヴ インテイルド エクスプローリング カウントレス キャバーンズ",
+          "linking": [
+            "「the completion」: the は弱形 /ðə/ で completion の /k/ に続く。母音+子音で連結なし [ðəkəmˈpliːʃən]「ザ コムプリーション」",
+            "「this entire」: this の語末 /s/ が entire の /ɪ/ に連結 [ðɪs ɪnˈtaɪr]「ディス インタイア」",
+            "「will have」: will の語末 /l/ が have の /h/ に続き、子音+子音で未開放。have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "「have entailed」: have の語末 /v/ が entailed の /ɪ/ に連結 [həv ɪnˈteɪld]「ハヴ インテイルド」"
+          ]
+        },
+        {
+          "en": "She will have entailed gathering tons of stone and resources before constructing her base.",
+          "ja": "彼女がベースを建設する前に、大量の石とリソースを集めることが必要になっているだろう。",
+          "ipa": "/ʃi wɪl həv ɪnˈteɪld ˈɡæðərɪŋ ˈtʌnz əv ˈstoʊn ənd ˈrɛsɚsɪz bɪˈfɔr kənˈstrʌktɪŋ hɚ ˈbeɪs/",
+          "kana": "シー ウィル ハヴ インテイルド ガザリング トンズ アヴ ストウン アンド レサーシズ ビフォー コンストラクティング ハー ベイス",
+          "linking": [
+            "「she will」: she の語末 /i/ が will の /w/ に続き、母音+子音で連結なし [ʃi wɪl]「シー ウィル」",
+            "「will have」: will の語末 /l/ が have の /h/ に続き、子音+子音で未開放。have は弱形 /həv/ [wɪl həv]「ウィル ハヴ」",
+            "「have entailed」: have の語末 /v/ が entailed の /ɪ/ に連結 [həv ɪnˈteɪld]「ハヴ インテイルド」",
+            "「of stone」: of は弱形 /əv/ で stone の /s/ に続き、子音+子音で連結なし [əv ˈstoʊn]「アヴ ストウン」"
+          ]
+        }
+      ]
+    }
+  ]
+}

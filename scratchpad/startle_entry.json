@@ -1,0 +1,396 @@
+{
+  "word": "startle",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˈstɑrtəl/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "startl(?:e[sn]?|ed|ing)",
+  "meanings": [
+    "【動詞】（予期しない刺激で）～を驚かせる、ぎょっとさせる。不意に～を襲う（take someone by surprise suddenly）",
+    "【動詞】（～が）びっくりして飛び上がる、反射的に動く。驚いて素早く反応する（make a sudden movement in alarm）"
+  ],
+  "examples": [
+    {
+      "en": "Creepers always startle me when I'm mining alone.",
+      "ja": "クリーパーは私が1人で採掘しているときいつも私を驚かせる。",
+      "ipa": "[ˈkripɚz ˈɔlwɛz ˈstɑrtəl mi wɛn aɪm ˈmaɪnɪŋ əˈloʊn]",
+      "linking": [
+        "Creepers の語末 /z/ が always の初頭 /ɔ/ に連結。有声歯擦音が母音に流れる [ˈkripɚz ˈɔl] クリーパーズ オル",
+        "when の語末 /n/ (歯茎鼻音) が I'm の初頭 /aɪ/ に連結。鼻音が母音に自然に流れる [wɛn aɪm] ウェン アイム",
+        "mining の語末 /ŋ/ (軟口蓋鼻音) が alone の初頭 /ə/ に続く場合、弱形の /ə/ で [ˈmaɪnɪŋ əˈloʊn] マイニング アロウン"
+      ],
+      "kana": "クリーパーズ オルウェイズ スターテル ミー ウェン アイム マイニング アロウン"
+    },
+    {
+      "en": "The sudden explosion startled everyone in the shelter.",
+      "ja": "その突然の爆発は避難所の全員を驚かせた。",
+      "ipa": "[ðə ˈsʌdən ɪkˈsploʊʒən ˈstɑrtəld ˈɛvriwʌn ɪn ðə ˈʃɛltɚ]",
+      "linking": [
+        "The は定冠詞の弱形 /ðə/ ザ。sudden へ続く",
+        "explosion の語末 /n/ が startled の初頭 /s/ に続く場合、両方とも子音なので連結なし。句境界がある [ɪkˈsploʊʒən ˈstɑr]",
+        "everyone の語末 /n/ が in の初頭 /ɪ/ に連結。[ˈɛvriwʌn ɪn] エヴリワン イン",
+        "the は再び弱形 /ðə/ ザ。shelter に続く"
+      ],
+      "kana": "ザ サッドゥン イクスプロージュン スターテルドゥ エヴリワン イン ザ シェルター"
+    },
+    {
+      "en": "I was startled by the Enderman's sudden stare.",
+      "ja": "エンダーマンの突然の視線に驚かされた。",
+      "ipa": "[aɪ wəz ˈstɑrtəld baɪ ðə ˈɛndɚmænz ˈsʌdən stɛr]",
+      "linking": [
+        "was は助動詞の弱形 /wəz/ ワズ。startled へ続く。/z/ + /s/ は両方とも子音なので連結なし",
+        "by の語末 /aɪ/ が the の初頭 /ðə/ に続く場合、両方とも音節核なので連結なし。[baɪ ðə] バイ ザ",
+        "Enderman's の語末 /z/ が sudden の初頭 /s/ に続く。両方とも歯擦音だが語境界で明確。[mænz ˈsʌ] マンズ サッ",
+        "sudden の語末 /n/ が stare の初頭 /s/ に続く。子音-子音なので連結なし"
+      ],
+      "kana": "アイ ワズ スターテルドゥ バイ ザ エンダーマンズ サッドゥン ステア"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "startle someone awake",
+      "ja": "～を驚かして目を覚ます",
+      "example": "The creeper's explosion startled me awake from my peaceful sleep.",
+      "example_ja": "クリーパーの爆発が私を驚かして、平穏な眠りから目を覚ました。",
+      "ipa": "[ðə ˈkripɚz ɪkˈsploʊʒən ˈstɑrtəld mi əˈweɪk frəm maɪ ˈpisfəl slip]",
+      "linking": [
+        "creeper's の語末 /z/ が explosion の初頭 /ɪ/ に連結。有声音が母音へ [ˈkripɚz ɪk] クリーパーズ イク",
+        "me の語末 /i/ が awake の初頭 /ə/ に続く場合、両音節核なので連結なし。[mi əˈweɪk] ミー アウェイク",
+        "from は前置詞の弱形 /frəm/ フラム。peaceful へ続く"
+      ],
+      "kana": "ザ クリーパーズ イクスプロージュン スターテルドゥ ミー アウェイク フラム マイ ピースフル スリープ"
+    }
+  ],
+  "tags": [
+    "Target 1900"
+  ],
+  "forms": [
+    {
+      "type": "3rd_person_singular",
+      "label": "三人称単数現在形",
+      "text": "startles",
+      "ipa": "/ˈstɑrtəlz/",
+      "examples": [
+        {
+          "en": "Every creeper sound startles my teammates when we're exploring the cave.",
+          "ja": "洞窟を探索しているとき、すべてのクリーパーの音は私のチームメイトを驚かせます。",
+          "ipa": "/ˈɛvri ˈkripɚ ˈsaʊnd ˈstɑrtəlz maɪ ˈtimˌmeɪts wɛn wir ɪkˈsplɔɹɪŋ ðə ˈkeɪv/",
+          "linking": [
+            "every は /ˈɛvri/ エブリー",
+            "sound の /d/ が startles の /s/ に続く（子音+子音）で未開放",
+            "when の /n/ が we're の /w/ に続く（鼻音+子音）",
+            "cave は /keɪv/ ケイヴ"
+          ],
+          "kana": "エブリー クリーパー サウンド スターテルズ マイ ティームメイツ ウェン ウィア イクスプローリング ザ ケイヴ"
+        },
+        {
+          "en": "The Warden's roar startles everyone in the deep dark biome instantly.",
+          "ja": "ワーデンの咆哮は深い暗黒バイオームのすべての人を即座に驚かせます。",
+          "ipa": "/ðə ˈwɔɹdənz ˈɹɔɹ ˈstɑrtəlz ˈɛvriwʌn ɪn ðə ˈdip dɑɹk baɪˈoʊm ˈɪnstəntli/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "roar の /ɹ/ が startles の /s/ に続く（子音+子音）で未開放",
+            "everyone の /n/ が in の /ɪ/ に連結 [ˈɛvriwʌn ɪn] エヴリワン イン",
+            "the は弱形 /ðə/ ザ"
+          ],
+          "kana": "ザ ウォーデンズ ロア スターテルズ エヴリワン イン ザ ディープ ダーク バイオウム インスタントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_tense",
+      "label": "過去形",
+      "text": "startled",
+      "ipa": "/ˈstɑrtəld/",
+      "examples": [
+        {
+          "en": "I startled when the Enderman appeared right behind me in the dark fortress.",
+          "ja": "暗い砦で私の真後ろにエンダーマンが現れたとき、私は驚きました。",
+          "ipa": "/aɪ ˈstɑrtəld wɛn ðə ˈɛndɚmæn əˈpɪɹd ˈɹaɪt bɪˈhaɪnd mi ɪn ðə dɑɹk ˈfɔɹtɹɪs/",
+          "linking": [
+            "when の /n/ が the の /ð/ に続く（鼻音+子音）で未開放",
+            "the は弱形 /ðə/ ザ",
+            "appeared の /d/ が right の /ɹ/ に続く（子音+子音）",
+            "in の /n/ が the の /ð/ に続く（鼻音+子音）"
+          ],
+          "kana": "アイ スターテルド ウェン ザ エンダーマン ア ピアード ライト ビハインド ミー イン ザ ダーク フォートレス"
+        },
+        {
+          "en": "The sudden attack from ghasts startled our entire mining crew and caused panic.",
+          "ja": "ガストからの突然の攻撃は私たちの採掘チーム全体を驚かせて、パニックを引き起こしました。",
+          "ipa": "/ðə ˈsʌdən əˈtæk frəm ɡæsts ˈstɑrtəld ˈaʊɚ ɪnˈtaɪɚ ˈmaɪnɪŋ kɹu ənd kɔzd ˈpænɪk/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "attack の /k/ が from の /f/ に続く（子音+子音）で未開放",
+            "from は弱形 /frəm/ フラム",
+            "crew の /u/ が and の弱形 /ən/ に続く（母音+弱形母音）",
+            "and は弱形 /ən/ アン"
+          ],
+          "kana": "ザ サッドゥン ア タック フラム ガアスツ スターテルド アワー インタイア マイニング クルー ア ン コーズド パニック"
+        }
+      ]
+    },
+    {
+      "type": "past_participle",
+      "label": "過去分詞",
+      "text": "startled",
+      "ipa": "/ˈstɑrtəld/",
+      "examples": [
+        {
+          "en": "A startled mob runs away faster than normal when it gets surprised.",
+          "ja": "驚いたモブは、驚いたときに通常より速く逃げます。",
+          "ipa": "/ə ˈstɑrtəld mɑb ˈɹʌnz əˈwɛ ˈfæstɚ ðæn ˈnɔɹməl wɛn ɪt ɡɛts sɚˈpɹaɪzd/",
+          "linking": [
+            "a は弱形 /ə/ ア",
+            "runs の /z/ が away の /ə/ に連結 [ˈɹʌnz əˈwɛ]",
+            "away の /ɛ/ が faster の /f/ に続く（母音+子音）で未連結",
+            "normal の /l/ が when の /w/ に続く（子音+子音）で未開放"
+          ],
+          "kana": "ア スターテルド モブ ランズ ア ウェイ ファスター ザン ノーマル ウェン イット ゲッツ サープライズド"
+        },
+        {
+          "en": "The startled villagers quickly closed the iron doors when the raid started.",
+          "ja": "襲撃が始まったとき、驚いた村人たちは素早く鉄のドアを閉じました。",
+          "ipa": "/ðə ˈstɑrtəld ˈvɪlɪdʒɚz ˈkwɪkli ˈkloʊzd ðə ˈaɪɚn ˈdɔɹz wɛn ðə ˈɹeɪd ˈstɑɹtəd/",
+          "linking": [
+            "the は弱形 /ðə/ ザ",
+            "closed の /d/ が the の /ð/ に続く（子音+子音）で未開放",
+            "the は弱形 /ðə/ ザ",
+            "doors の /z/ が when の /w/ に続く（有声子音+子音）で未開放"
+          ],
+          "kana": "ザ スターテルド ヴィリジャーズ クイックリー クロウズド ザ アイアーン ドアーズ ウェン ザ レイド スターティッド"
+        }
+      ]
+    },
+    {
+      "type": "present_participle",
+      "label": "現在分詞・動名詞",
+      "text": "startling",
+      "ipa": "/ˈstɑrtəlɪŋ/",
+      "examples": [
+        {
+          "en": "Finding diamonds is exciting, but the startling sound of a creeper can ruin your day.",
+          "ja": "ダイヤモンドを見つけるのは興奮していますが、クリーパーの驚くべき音があなたの1日を台無しにすることができます。",
+          "ipa": "/ˈfaɪndɪŋ ˈdaɪəməndz ɪz ɪkˈsaɪtɪŋ bət ðə ˈstɑrtəlɪŋ ˈsaʊnd əv ə ˈkripɚ kən ˈɹuin jɔɹ ˈdeɪ/",
+          "linking": [
+            "diamonds は /ˈdaɪəməndz/ ダイアモンズ",
+            "is は弱形 /ɪz/ イズ",
+            "the は弱形 /ðə/ ザ",
+            "sound の /d/ が of の /ə/ に連結 [ˈsaʊnd əv]",
+            "of は弱形 /əv/ アヴ、a は弱形 /ə/ ア"
+          ],
+          "kana": "ファイディング ダイアモンズ イズ イクサイティング バット ザ スターテリング サウンド ア ヴ ア クリーパー カン ルーイン ユア デイ"
+        },
+        {
+          "en": "Startling your horse during a jump can cause you to fall into a ravine.",
+          "ja": "ジャンプ中に馬を驚かせると、あなたは谷間に落ちることができます。",
+          "ipa": "/ˈstɑrtəlɪŋ jɔɹ ˈhɔɹs ˈdʒʊɹɪŋ ə ˈdʒʌmp kən ˈkɔz ju tu ˈfɔl ˈɪntə ə rəˈvin/",
+          "linking": [
+            "your は弱形 /jɔɹ/ ユア",
+            "horse の /s/ が during の /d/ に続く（子音+子音）で未開放",
+            "during は /ˈdʒʊɹɪŋ/ ジューリング（/dʒ/ 親音 + /ʊɹ/）",
+            "a は弱形 /ə/ ア、can は弱形 /kən/ カン",
+            "you は弱形 /ju/ ユー、to は弱形 /tə/ タ"
+          ],
+          "kana": "スターテリング ユア ホース ジューリング ア ジャンプ カン コーズ ユー タ フォール イント ア ラヴィーン"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has startled",
+      "ipa": "/həz ˈstɑrtəld/",
+      "examples": [
+        {
+          "en": "The loud explosion has startled all the villagers in the settlement, and they've locked themselves inside.",
+          "ja": "大きな爆発は集落のすべての村人を驚かせた、そして彼らは自分たちを中に閉じ込めた。",
+          "ipa": "[ðə ˈlaʊd ɪkˈsploʊʒən həz ˈstɑrtəld ɔl ðə ˈvɪlɪdʒɚz ɪn ðə ˈsɛtəlmənt ænd ðeɪv ˈlɑkt ðɛmˈsɛlvz ɪnˈsaɪd]",
+          "linking": [
+            "explosion の語末 /n/ が has の初頭 /h/ に続く（鼻音+子音）で未開放。/n/ は閉まる音",
+            "has は助動詞の弱形 /həz/ ハズ。startled の /s/ は単語境界が明確だが有声/無声の変化で未開放",
+            "all の語末 /l/ が the の初頭 /ð/ に続く（子音+子音）で未開放",
+            "the は弱形 /ðə/ ザ。settlement へ続く"
+          ],
+          "kana": "ザ ラウド イクスプロージュン ハズ スターテルド オール ザ ヴィリジャーズ イン ザ セットルメント エンド ゼイヴ ロック ゼムセルブズ インサイド"
+        },
+        {
+          "en": "I've startled so many creepers while exploring that I now always carry a shield for protection.",
+          "ja": "探索中に非常に多くのクリーパーを驚かせたので、今は保護のためにいつも盾を持っています。",
+          "ipa": "[aɪv ˈstɑrtəld soʊ ˈmɛni ˈkripɚz waɪl ɪkˈsplɔɹɪŋ ðæt aɪ naʊ ˈɔlwɛz ˈkæɹi ə ʃild fɚ pɚˈtɛkʃən]",
+          "linking": [
+            "I've は /aɪv/ アイヴ（have の弱形）。startled の /s/ に続くが子音なので未開放",
+            "many の語末 /i/ が creepers の初頭 /k/ に続く（母音+子音）で未連結",
+            "while の語末 /l/ が exploring の初頭 /ɛ/ に連結 [waɪl ɪk] ワイル イク",
+            "now は /naʊ/ ナウ。always は /ˈɔlwɛz/ オルウェイズ",
+            "for は弱形 /fɚ/ ファー"
+          ],
+          "kana": "アイヴ スターテルド ソウ メニー クリーパーズ ワイル イクスプローリング ザット アイ ナウ オールウェイズ キャリー ア シールド ファー プロテクション"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had startled",
+      "ipa": "/həd ˈstɑrtəld/",
+      "examples": [
+        {
+          "en": "The Enderman had startled me just before it teleported away, leaving me confused and cautious.",
+          "ja": "エンダーマンはテレポートする直前に私を驚かせ、私を混乱させ注意深く残した。",
+          "ipa": "[ðə ˈɛndɚmæn həd ˈstɑrtəld mi dʒʌst bɪˈfɔɹ ɪt ˈtɛlɪpɔɹtɪd əˈwɛ ˈlivɪŋ mi kənˈfjuzd ænd ˈkɔʃəs]",
+          "linking": [
+            "the は弱形 /ðə/ ザ。Enderman へ続く",
+            "had は助動詞の弱形 /həd/ ハド。startled の /s/ は子音なので未開放",
+            "before の語末 /ɹ/ が it の初頭 /ɪ/ に連結 [bɪˈfɔɹ ɪt] ビフォア イット",
+            "it の語末 /t/ が teleported の初頭 /t/ に続く（子音+子音）で未開放 [ɪt̚ ˈtɛ] イット テリ"
+          ],
+          "kana": "ザ エンダーマン ハド スターテルド ミー ジャスト ビフォア イット テリポーティッド アウェイ リービング ミー コンフューズド エンド コーションス"
+        },
+        {
+          "en": "By the time we reached the stronghold, the warden's roars had startled us so many times that we were completely exhausted.",
+          "ja": "要塞に着く頃には、ワーデンの咆哮が何度も私たちを驚かせていたので、私たちは完全に疲れ果てていた。",
+          "ipa": "[baɪ ðə ˈtaɪm wi ˈɹitʃt ðə ˈstɹɔŋhoʊld ðə ˈwɔɹdənz ˈɹɔɹz həd ˈstɑrtəld ʌs soʊ ˈmɛni ˈtaɪmz ðæt wi wɚ kəmˈplit li ɪɡˈzɔstəd]",
+          "linking": [
+            "by は /baɪ/ バイ。the は弱形 /ðə/ ザ",
+            "we は弱形母音 /wi/ ウィ。reached の /ɹ/ は子音なので未連結",
+            "stronghold の /d/ が warden's の /w/ に続く（子音+子音）で未開放",
+            "roars の語末 /z/ が had の初頭 /h/ に続く（有声歯擦音+子音）で未開放",
+            "had は弱形 /həd/ ハド。startled の /s/ に続く"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチト ザ ストロングホウルド ザ ウォーデンズ ロアーズ ハド スターテルド アス ソウ メニー タイムズ ザット ウィ ワー コムプリートリー イグゾーステッド"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been startling",
+      "ipa": "/həz bɪn ˈstɑrtəlɪŋ/",
+      "examples": [
+        {
+          "en": "That constant redstone ticking has been startling my horse all morning, and now it refuses to move.",
+          "ja": "その絶え間ないレッドストーンのカチカチという音は朝中ずっと私の馬を驚かせており、今それは動くことを拒否しています。",
+          "ipa": "[ðæt ˈkɑnstənt ˈɹɛdˌstoʊn ˈtɪkɪŋ həz bɪn ˈstɑrtəlɪŋ maɪ ˈhɔɹs ɔl ˈmɔɹnɪŋ ænd naʊ ɪt rɪˈfjuzɪz tu ˈmuv]",
+          "linking": [
+            "redstone の語末 /n/ が ticking の初頭 /t/ に続く（鼻音+子音）で未開放",
+            "has は助動詞の弱形 /həz/ ハズ。been は弱形 /bɪn/ ビン",
+            "startling の語末 /ŋ/ が my の初頭 /m/ に続く（軟口蓋鼻音+子音）で未開放",
+            "morning の語末 /ŋ/ が and の初頭 /ə/ に続く場合、弱形で /ən/ アン"
+          ],
+          "kana": "ザット コンスタント レッドストウン ティッキング ハズ ビン スターテリング マイ ホース オール モーニング エンド ナウ イット リフューズィズ トゥ ムーヴ"
+        },
+        {
+          "en": "Strange mob sounds in the deep dark have been startling everyone on the server, and some players refuse to go back there.",
+          "ja": "深い暗い場所の奇妙なモブの音はサーバー上のすべての人を驚かせており、一部のプレイヤーはそこに戻ることを拒否しています。",
+          "ipa": "[ˈstɹeɪndʒ mɑb ˈsaʊndz ɪn ðə ˈdip dɑɹk həv bɪn ˈstɑrtəlɪŋ ˈɛvriwʌn ɑn ðə ˈsɚvɚ ænd səm ˈpleɪɚz rɪˈfjuz tu ɡoʊ bæk ðɛɹ]",
+          "linking": [
+            "sounds は語末 /z/ が in の初頭 /ɪ/ に連結 [ˈsaʊndz ɪn] サウンズ イン",
+            "the は弱形 /ðə/ ザ。deep へ続く",
+            "dark の語末 /k/ が have の初頭 /h/ に続く（子音+子音）で未開放",
+            "have は弱形 /həv/ ハヴ。been は弱形 /bɪn/ ビン",
+            "everyone の語末 /n/ が on の初頭 /ɑ/ に連結 [ˈɛvriwʌn ɑn] エヴリワン オン"
+          ],
+          "kana": "ストレインジ モブ サウンズ イン ザ ディープ ダーク ハヴ ビン スターテリング エヴリワン オン ザ サーバー エンド サム プレイアーズ リフューズ トゥ ゴウ バック ゼア"
+        }
+      ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will startle",
+      "ipa": "/wɪl ˈstɑrtəl/",
+      "examples": [
+        {
+          "en": "I'll startle the creeper when I ignite the TNT.",
+          "ja": "TNTに火をつけるとき、クリーパーを驚かせるでしょう。",
+          "ipa": "[aɪl ˈstɑrtəl ðə ˈkripɚ wɛn aɪ ɪgˈnaɪt ðə ˈtiɛnˈti]",
+          "linking": [
+            "I'll は I will の縮約形 /aɪl/。startle へ続く",
+            "startle の語末 /l/ が the の初頭 /ð/ に連結。[ˈstɑrtəl ðə] スターテル ザ",
+            "creeper の語末 /ɚ/ が when の初頭 /w/ に続く（子音+子音）で未開放",
+            "when の語末 /n/ が I の初頭 /aɪ/ に連結 [wɛn aɪ] ウェン アイ"
+          ],
+          "kana": "アイル スターテル ザ クリーパー ウェン アイ イグナイト ザ ティーエンティー"
+        },
+        {
+          "en": "That explosion will startle everyone in the base.",
+          "ja": "その爆発は基地のみんなを驚かせるでしょう。",
+          "ipa": "[ðæt ɪkˈsploʊʒən wɪl ˈstɑrtəl ˈɛvriwʌn ɪn ðə ˈbeɪs]",
+          "linking": [
+            "explosion の語末 /n/ が will の初頭 /w/ に続く（子音+子音）で未開放",
+            "will は /wɪl/ ウィル。startle へ続く",
+            "startle の語末 /l/ が everyone の初頭 /ɛ/ に連結 [ˈstɑrtəl ˈɛvriwʌn] スターテル エヴリワン",
+            "everyone の語末 /n/ が in の初頭 /ɪ/ に連結 [ˈɛvriwʌn ɪn] エヴリワン イン"
+          ],
+          "kana": "ザット イクスプロージュン ウィル スターテル エヴリワン イン ザ ベイス"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be startling",
+      "ipa": "/wɪl bi ˈstɑrtəlɪŋ/",
+      "examples": [
+        {
+          "en": "We'll be startling the mobs as we run through the cave.",
+          "ja": "洞窟を駆け抜けるとき、モブを驚かせ続けるでしょう。",
+          "ipa": "[wil bi ˈstɑrtəlɪŋ ðə mɑbz æz wi ɹʌn θɹu ðə keɪv]",
+          "linking": [
+            "We'll は we will の縮約形。be に続く /wil/。正確には /wi/ + /l/ が合成される",
+            "be は /bi/ ビー。startling へ続く",
+            "startling の語末 /ŋ/ が the の初頭 /ð/ に続く（子音+子音）で未開放",
+            "mobs の語末 /z/ が as の初頭 /æ/ に連結 [mɑbz æz] モブズ アズ"
+          ],
+          "kana": "ウィル ビー スターテリング ザ モブズ アズ ウィ ラン スルー ザ ケイヴ"
+        },
+        {
+          "en": "The Warden will be startling us if we make too much noise in the deep dark.",
+          "ja": "深い暗黒で音を立てすぎれば、ワーデンが私たちを驚かせ続けるでしょう。",
+          "ipa": "[ðə ˈwɔɹdən wɪl bi ˈstɑrtəlɪŋ ʌs ɪf wi meɪk tu mʌtʃ nɔɪz ɪn ðə ˈdip dɑɹk]",
+          "linking": [
+            "The は定冠詞の弱形 /ðə/ ザ",
+            "Warden の語末 /n/ が will の初頭 /w/ に続く（鼻音+子音）で未開放",
+            "will は /wɪl/ ウィル。be へ続く",
+            "startling の語末 /ŋ/ が us の初頭 /ʌ/ に連結 [ˈstɑrtəlɪŋ ʌs] スターテリング アス"
+          ],
+          "kana": "ザ ウォーデン ウィル ビー スターテリング アス イフ ウィ メイク トゥー マッチ ノイズ イン ザ ディープ ダーク"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have startled",
+      "ipa": "/wɪl həv ˈstɑrtəld/",
+      "examples": [
+        {
+          "en": "By the time we reach the village, we'll have startled at least three endermen.",
+          "ja": "村に到達するまでに、少なくとも3体のエンダーマンを驚かせているでしょう。",
+          "ipa": "[baɪ ðə taɪm wi ɹitʃ ðə ˈvɪlɪdʒ wil həv ˈstɑrtəld æt lɪst θri ˈɛndɚmən]",
+          "linking": [
+            "by の語末 /aɪ/ が the の初頭 /ðə/ に続く（母音+母音）で未連結。弱形 /ðə/ ザ",
+            "time の語末 /m/ が we の初頭 /w/ に続く（子音+子音）で未開放",
+            "reach の語末 /tʃ/ が the の初頭 /ð/ に続く（子音+子音）で未開放",
+            "we'll は we will の縮約形 /wil/。have の弱形 /həv/ が続く [wil həv] ウィル ハヴ"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチ ザ ヴィリジ ウィル ハヴ スターテルド アット リスト スリー エンダーマン"
+        },
+        {
+          "en": "She will have startled the horse by the time we get to the stable.",
+          "ja": "厩舎に着くまでに、彼女は馬を驚かせているでしょう。",
+          "ipa": "[ʃi wɪl həv ˈstɑrtəld ðə hɔɹs baɪ ðə taɪm wi ɡɛt tu ðə ˈsteɪbəl]",
+          "linking": [
+            "She は /ʃi/ シー。will へ続く",
+            "will は /wɪl/ ウィル。have の弱形 /həv/ が続く",
+            "startled の語末 /d/ が the の初頭 /ð/ に連結 [ˈstɑrtəld ðə] スターテルド ザ",
+            "horse の語末 /s/ が by の初頭 /b/ に続く（子音+子音）で未開放"
+          ],
+          "kana": "シー ウィル ハヴ スターテルド ザ ホース バイ ザ タイム ウィ ゲット タ ザ ステイバル"
+        }
+      ]
+    }
+  ]
+}
