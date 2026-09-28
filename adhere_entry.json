@@ -153,6 +153,96 @@
       ]
     },
     {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has adhered",
+      "ipa": "/həz ə̚dˈhɪrd/",
+      "examples": [
+        {
+          "en": "Players have adhered to the strict mining quota rules throughout the entire session.",
+          "ja": "プレイヤーたちはセッション全体を通して厳格な採掘配分ルールに従ってきました。",
+          "ipa": "/ˈpleɪərz həv ə̚dˈhɪrd tə ðə strɪkt ˈmaɪnɪŋ ˈkwoʊtə rulz θruˈaʊt ðə ənˈtaɪər ˈsɛʃən/",
+          "linking": [
+            "have adhered - auxiliary verb have は弱形 /həv/、adhered の /ə/ に連結 [həvə̚dˈhɪrd] ハヴアディアー",
+            "to the - to は弱形 /tə/、the は弱形 /ðə/ [tə̪ðə] タザ",
+            "mining quota - ing語尾と quota の /k/ で自然な遷移 [ˈmaɪnɪŋ ˈkwoʊtə] マイニング クウォータ"
+          ],
+          "kana": "プレイアーズ ハヴアディアー タザ ストリクト マイニング クウォータ ルーズ スルーアウト ザ エンタイアー セッシュン"
+        },
+        {
+          "en": "Our redstone farm has adhered to the original blueprint design throughout all the updates.",
+          "ja": "私たちのレッドストーン農場はすべてのアップデートを通して元々の青写真設計に従ってきました。",
+          "ipa": "/ˈaʊər ˈrɛdˌstoʊn fɑrm həz ə̚dˈhɪrd tə ðə ə̚ˈrɪdʒənəl ˈbluːprɪnt dɪˈzaɪn θruˈaʊt ɔl ðə ʌpˈdeɪts/",
+          "linking": [
+            "has adhered - auxiliary verb has は弱形 /həz/、adhered の /ə/ に連結 [həzə̚dˈhɪrd] ハズアディアー",
+            "to the - to は弱形 /tə/、the は弱形 /ðə/ [tə̪ðə] タザ",
+            "original blueprint - /əl/ 語尾と blueprint の /b/ で自然な遷移 [ə̚ˈrɪdʒənəl ˈbluːprɪnt] アリジナル ブループリント"
+          ],
+          "kana": "アウアー レッドストン ファーム ハズアディアー タザ アリジナル ブループリント ディザイン スルーアウト オール ザ アップデイツ"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had adhered",
+      "ipa": "/həd ə̚dˈhɪrd/",
+      "examples": [
+        {
+          "en": "The sticky piston blocks had adhered together before the TNT explosion destroyed the entire contraption.",
+          "ja": "TNT爆発が装置全体を破壊する前に、スティッキーピストンブロックは一緒に付着していました。",
+          "ipa": "/ðə ˈstɪki ˈpɪstən blɑks həd ə̚dˈhɪrd təˈɡɛðər bɪˈfɔr ðə ˈti ˈɛn ˈti ɪkˈsploʊʒən dɪˈstrɔɪd ðə ənˈtaɪər kənˈtræpʃən/",
+          "linking": [
+            "had adhered - auxiliary verb had は弱形 /həd/、adhered の /ə/ に連結 [hə̚də̚dˈhɪrd] ハッダディアー",
+            "to-gether - together の /tə/ は to の弱形 /tə/、/ə/ が /ɡ/ へ連続 [təˈɡɛðər] トゥゲザー",
+            "before the - before の /r/ が the の /ð/ へ先行、the は弱形 /ðə/ [bɪˈfɔrə̪ðə] ビフォーザ"
+          ],
+          "kana": "ザ スティッキ ピストン ブロックス ハッダディアー トゥゲザー ビフォーザ ティー エン ティー エクスプロージョン ディストロイド ザ エンタイアー コントラプション"
+        },
+        {
+          "en": "We had adhered to the building contract until the hostile mob wave suddenly appeared.",
+          "ja": "敵対的なモブの波が突然現れるまで、私たちは建築契約に従っていました。",
+          "ipa": "/wi həd ə̚dˈhɪrd tə ðə ˈbɪldɪŋ ˈkɑntrækt ənˈtɪl ðə ˈhɑstəl moʊb weɪv ˈsʌdənli əˈpɪrd/",
+          "linking": [
+            "had adhered - auxiliary verb had は弱形 /həd/、adhered の /ə/ に連結 [hə̚də̚dˈhɪrd] ハッダディアー",
+            "to the - to は弱形 /tə/、the は弱形 /ðə/ [tə̪ðə] タザ",
+            "until the - until の語尾 /l/ が the の /ð/ へ先行、the は弱形 [ənˈtɪ̪ðə] アンティザ"
+          ],
+          "kana": "ウィ ハッダディアー タザ ビルディング コントラクト アンティザ ハスティル モウブ ウェイヴ サッデンリ アピアード"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been adhering",
+      "ipa": "/həz bɪn ə̚dˈhɪrɪŋ/",
+      "examples": [
+        {
+          "en": "The slime blocks have been adhering to the piston throughout our entire testing phase.",
+          "ja": "スライムブロックはテスト段階全体を通してピストンに付着し続けています。",
+          "ipa": "/ðə slaɪm blɑks həv bɪn ə̚dˈhɪrɪŋ tə ðə ˈpɪstən θruˈaʊt ˈaʊər ənˈtaɪər ˈtɛstɪŋ feɪz/",
+          "linking": [
+            "have been - auxiliary verbs have /həv/ と been /bɪn/ で弱形連結 [həv bɪn] ハヴ ビン",
+            "been adhering - been は弱形 /bɪn/、adhering の /ə/ に連結 [bɪnə̚dˈhɪrɪŋ] ビナディアリング",
+            "to the - to は弱形 /tə/、the は弱形 /ðə/ [tə̪ðə] タザ"
+          ],
+          "kana": "ザ スライム ブロックス ハヴ ビナディアリング タザ ピストン スルーアウト アウアー エンタイアー テスティング フェイズ"
+        },
+        {
+          "en": "The server has been adhering to fair play rules since the new admin took control.",
+          "ja": "新しい管理者が統制を取ってからサーバーは公平なプレイルールを守り続けています。",
+          "ipa": "/ðə ˈsɜrvər həz bɪn ə̚dˈhɪrɪŋ tə fɛr pleɪ rulz sɪns ðə nu ˈædmɪn tʊk kənˈtroʊl/",
+          "linking": [
+            "has been - auxiliary verbs has /həz/ と been /bɪn/ で弱形連結 [həz bɪn] ハズ ビン",
+            "been adhering - been は弱形 /bɪn/、adhering の /ə/ に連結 [bɪnə̚dˈhɪrɪŋ] ビナディアリング",
+            "fair play - fair の語尾 /r/ が play の /p/ へ先行、自然な遷移 [fɛr pleɪ] フェア プレイ"
+          ],
+          "kana": "ザ サーバー ハズ ビナディアリング トゥ フェア プレイ ルーズ シンス ザ ニュー アドミン トゥック コントロール"
+        }
+      ]
+    },
+    {
       "type": "future",
       "label": "単純未来形（will + 原形）",
       "text": "will adhere",
@@ -194,7 +284,7 @@
           "ipa": "/ˈpleɪərz wɪl bi ədˈhɪrɪŋ ˈstrɪktli tə ðə ˈsɜrvər ˈmaɪnɪŋ rulz ˈdʊrɪŋ ðɪs ɪˈvɛnt/",
           "linking": [
             "will be - 語末子音 /l/ が母音 /i/ に連結 [wɪ̪bi] ウィビ",
-            "be adhering - be の /i/ と adhering の /ə/ が自然に連続 [bi ə̚dˈhɪrɪŋ] ビ アディアリング",
+            "be adhering - be の /i/ と adhering の /ə/ が自然に連続 [bi ədˈhɪrɪŋ] ビ アディアリング",
             "adhering to - 語末の /ŋ/ 後、to は弱形 /tə/ [tə ðə] タザ"
           ],
           "kana": "プレイアーズ ウィビ アディアリング ストリクトリ タザ サーバー マイニング ルーズ ジュアリング ディス イベント"
@@ -205,7 +295,7 @@
           "ipa": "/wil bi ədˈhɪrɪŋ tə aʊr ˈprɑmɪs əv ˈmeɪkɪŋ ə fɛr ɡeɪm fər ˈɛvriwʌn/",
           "linking": [
             "We'll be - 縮約形 /wil/、語末子音 /l/ が母音 /i/ に連結 [wɪ̪bi] ウィビ",
-            "be adhering - be の /i/ と adhering の /ə/ が自然に連続 [bi ə̚dˈhɪrɪŋ] ビ アディアリング",
+            "be adhering - be の /i/ と adhering の /ə/ が自然に連続 [bi ədˈhɪrɪŋ] ビ アディアリング",
             "adhering to - 語末の /ŋ/ 後、to は弱形 /tə/ [tə] タ"
           ],
           "kana": "ウィビ アディアリング タ アワー プロミス アヴ メイキング ア フェア ゲイム フォー エヴリワン"
@@ -224,8 +314,8 @@
           "ipa": "/baɪ ðə ɛnd əv ðə ˈprɑdʒɛkt ɔl ˌdɛkərəˈtɪv blɑks wɪl hæv ədˈhɪrd ˈfɜrmli/",
           "linking": [
             "will have - 語末子音 /l/ と have の /h/ は両方子音のため直接連結しないが、have は弱形 [wɪl hæv] ウィル ハヴ",
-            "have adhered - have の語末 /v/ が adhered の /ə/ に連結 [hæ̪və̚dˈhɪrd] ハヴァディアード",
-            "adhered firmly - 語末未開放 /d/ の後 /f/ へ自然な遷移 [ə̚dˈhɪrd ˈfɜrmli] アッディアード ファームリ"
+            "have adhered - have の語末 /v/ が adhered の /ə/ に連結 [hæ̪vəˈdhɪrd] ハヴァディアード",
+            "adhered firmly - 語末未開放 /d/ の後 /f/ へ自然な遷移 [ədˈdhɪrd ˈfɜrmli] アディアード ファームリ"
           ],
           "kana": "バイ ザ エンド アヴ ザ プロジェクト オール デコレイティヴ ブロックス ウィル ハヴァディアード ファームリ"
         },
@@ -235,8 +325,8 @@
           "ipa": "/jul hæv ədˈhɪrd tə ˈɛvri kənˈstrʌkʃən ˈɡaɪdˌlaɪn baɪ ðə taɪm wi ˈfɪnɪʃ/",
           "linking": [
             "You'll have - 縮約形 /jul/、語末子音 /l/ と have の /h/ はどちらも子音のため直接連結しない [jul hæv] ユー ハヴ",
-            "have adhered - have の語末 /v/ が adhered の /ə/ に連結 [hæ̪və̚dˈhɪrd] ハヴァディアード",
-            "adhered to - 語末未開放 /d/ の後、to は弱形 /tə/ [ə̚dˈhɪrə] アッディアラ"
+            "have adhered - have の語末 /v/ が adhered の /ə/ に連結 [hæ̪vəˈdhɪrd] ハヴァディアード",
+            "adhered to - 語末未開放 /d/ の後、to は弱形 /tə/ [ədˈdhɪrə] アディアラ"
           ],
           "kana": "ユー ハヴァディアード タ エヴリ コンストラクション ガイドライン バイ ザ タイム ウィ フィニッシュ"
         }
