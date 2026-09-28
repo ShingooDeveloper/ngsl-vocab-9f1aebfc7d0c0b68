@@ -274,5 +274,102 @@
         }
       ]
     }
+  ],
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will discriminate",
+      "ipa": "/wɪl ˈdɪskrɪmeɪt/",
+      "examples": [
+        {
+          "en": "Players will discriminate between granite and diorite more efficiently next season.",
+          "ja": "プレイヤーは次のシーズンに花崗岩と閃緑岩をより効率的に区別するでしょう。",
+          "ipa": "/ˈpleɪ.ɚz wɪl ˈdɪskrɪmeɪt bɪˈtwiːn ɡrænˈaɪt ənd ˈdaɪəˌɹaɪt mɔr ɪˈfɪʃ.ənt.li ˈnɛkst ˈsizən/",
+          "linking": [
+            "will discriminate: /l/ が /d/ に未開放で続く [wɪl̚ ˈdɪsk...]",
+            "between granite: /n/ が /g/ に子音+子音で続く（連結なし）",
+            "and diorite: and は弱形 /ənd/ または /ən/ → [ənd ˈdaɪ...]",
+            "more efficiently: /r/ が /ɪ/ に連結 [mɔr ɪˈfɪʃ...]"
+          ],
+          "kana": "プレーヤーズ ウィル ディスクリメイト ビトウィーン グラナイト アンド ダイオライト モア イフィシェントリー ネクスト シーズン"
+        },
+        {
+          "en": "The sorting system will discriminate each item type automatically throughout the hopper network.",
+          "ja": "ソートシステムはホッパーネットワーク全体で各アイテムタイプを自動的に区別するでしょう。",
+          "ipa": "/ðə ˈsɔr.tɪŋ ˈsɪs.təm wɪl ˈdɪskrɪmeɪt ˈitʃ ˈaɪ.təm ˈtaɪp ˌɔ.tə.ˌmæ.tɪk.li θruˈaʊt ðə ˈhɑ.pɚ ˈnɛt.wɝk/",
+          "linking": [
+            "The は弱形 /ðə/ で子音 /s/ の前 → [ðə ˈsɔr...]",
+            "system の /m/ が will の /w/ に子音+子音で続く（連結なし）",
+            "automatically の語末 /i/ が throughout の /θ/ に子音+子音で続く（連結なし）",
+            "hopper の /ɚ/ が network の /n/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "ザ ソーティング システム ウィル ディスクリメイト イーチ アイテム タイプ オートマティクリー スルーアウト ザ ハッパー ネットワーク"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be discriminating",
+      "ipa": "/wɪl bi ˌdɪskrɪˈmeɪtɪŋ/",
+      "examples": [
+        {
+          "en": "By tomorrow, the redstone system will be discriminating signal strengths to prevent lag spikes.",
+          "ja": "明日までに、レッドストーンシステムはラグスパイクを防ぐために信号強度を区別しているでしょう。",
+          "ipa": "/baɪ təˈmɑ.roʊ ðə ˈrɛd.stoʊn ˈsɪs.təm wɪl bi ˌdɪskrɪˈmeɪtɪŋ ˈsɪg.nəl ˈstrɛŋθs tu prɪˈvɛnt læg spaɪks/",
+          "linking": [
+            "by tomorrow: /i/ + /t/ → /(ə)/ 機能語の弱形 → [baɪ təˈmɑ...]",
+            "system の語末 /m/ が will の /w/ に子音+子音で続く（連結なし）",
+            "will be: will /l/ + be /b/ → [wɪl bi]",
+            "strengths の語末 /θs/ が to の /t/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "バイ トゥモロウ ザ レッドストウン システム ウィル ビー ディスクリメイティング シグナル ストレングスズ トゥ プリヴェント ラグ スパイクス"
+        },
+        {
+          "en": "We'll be discriminating between cobblestone and stone brick while constructing the fortress.",
+          "ja": "砦を構築している間、丸石と石レンガを区別しているでしょう。",
+          "ipa": "/wil bi ˌdɪskrɪˈmeɪtɪŋ bɪˈtwiːn ˈkɑ.bəl.stoʊn ənd stoʊn brɪk ˈwaɪl kənˈstrʌk.tɪŋ ðə ˈfɔr.tɪs/",
+          "linking": [
+            "We'll: will → /wil/ に縮約",
+            "between の語末 /n/ が cobblestone の /k/ に未開放で続く [bɪˈtwiːn̚ ˈkɑ...]",
+            "and は弱形 /ənd/ または /ən/ → [ənd stoʊn]",
+            "fortress の /s/ が文末で止まる"
+          ],
+          "kana": "ウィル ビー ディスクリメイティング ビトウィーン コッブルストウン アンド ストウン ブリック ワイル コンストラクティング ザ フォーティス"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have discriminated",
+      "ipa": "/wɪl həv ˈdɪskrɪmeɪtɪd/",
+      "examples": [
+        {
+          "en": "By the end of the season, experienced builders will have discriminated hundreds of material combinations.",
+          "ja": "シーズンの終わりまでに、経験豊かなビルダーは数百の素材の組み合わせを区別しているでしょう。",
+          "ipa": "/baɪ ðə ˈɛnd əv ðə ˈsizən ɪkˈspɪ.riənst ˈbɪl.dɚz wɪl əv ˈdɪskrɪmeɪtɪd ˈhʌn.dɚdz əv məˈtɪr.i.əl ˌkɑm.bə.ˈneɪ.ʃənz/",
+          "linking": [
+            "end の /d/ が of の /ə/ に未開放で続く [ˈɛnd̚ əv]",
+            "will have: will /l/ + have の弱形 /ə/ または /əv/ → [wɪl əv]",
+            "hundreds の語末 /z/ が of の /ə/ に連結 [ˈhʌn.dɚdz əv]",
+            "material の語末 /l/ が combinations の /k/ に子音+子音で続く（連結なし）"
+          ],
+          "kana": "バイ ザ エンド アヴ ザ シーズン エクスピリエンスト ビルダーズ ウィル アヴ ディスクリメイティド ハンドレッズ アヴ マテリアル コンビネーションズ"
+        },
+        {
+          "en": "Once the new snapshot releases, we'll have discriminated all the new block textures perfectly.",
+          "ja": "新しいスナップショットがリリースされたら、すべての新しいブロックテクスチャを完璧に区別しているでしょう。",
+          "ipa": "/wʌns ðə ˈnu ˈsnæp.ʃɑt rɪˈlis.ɪz wil əv ˈdɪskrɪmeɪtɪd ˈɔl ðə ˈnu blɑk ˈtɛk.stʃɚz ˈpɚ.fɪk.li/",
+          "linking": [
+            "Once は /əns/ で弱化する傾向 → [wʌns ðə]",
+            "releases の語末 /z/ が we の /w/ に子音+子音で続く（連結なし）",
+            "we'll: will → /wil/ に縮約",
+            "have は弱形 /əv/ で discriminated と連結 [wɪl əv ˈdɪsk...]"
+          ],
+          "kana": "ワンス ザ ニュー スナップショット リリーセズ ウィル アヴ ディスクリメイティド オール ザ ニュー ブラック テクスチャーズ パーフェクトリー"
+        }
+      ]
+    }
   ]
 }
