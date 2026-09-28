@@ -103,7 +103,7 @@
           "linking": [
             "「the」は冠詞で弱形 /ðə/ ザ",
             "「from」は機能語で弱形 /frəm/ フラム",
-            "「dispensed all」/d/ が /ɔ/ に続く、子音+母音だが特に強い連結はなし"
+            "「dispensed all」/t/ が /ɔ/ に続く、子音+母音だが特に強い連結はなし"
           ],
           "kana": "アイ ディスペンスト オール ザ ダイモンズ フラム マイ インヴェントリー"
         },
@@ -131,10 +131,10 @@
           "ipa": "/wʌns dɪˈspɛnst, ðə ˈaɪtəmz ˈtʌmbəld ˈɪntu ðə kəˈlɛkʃən ˈsɪstəm/",
           "linking": [
             "「the」は冠詞で弱形 /ðə/ ザ（2回）",
-            "「dispensed the」/d/ が /ðə/ に続く、子音+子音でリンキングなし",
-            "「into」は /ɪn/ で始まるため、items の /z/ と連結 [ˈaɪtəmzˈɪntu]"
+            "「dispensed the」/t/ が /ðə/ に続く、子音+子音でリンキングなし",
+            "「tumbled into」/d/ が /ɪ/ に続く、子音+母音で連結"
           ],
-          "kana": "ワンス ディスペンスト ザ アイテムズイントゥ ザ コレクション システム"
+          "kana": "ワンス ディスペンスト ザ アイテムズ タンブルディントゥ ザ コレクション システム"
         },
         {
           "en": "The supplies were dispensed evenly to each player.",
@@ -144,7 +144,7 @@
             "「the」は冠詞で弱形 /ðə/ ザ",
             "「were」は弱形 /wər/ ワー",
             "「to」は機能語で弱形 /tu/ トゥ（または /tə/ タ）",
-            "「dispensed evenly」/d/ が /ɪ/ に続く、子音+母音だが特に強い連結はなし"
+            "「dispensed evenly」/t/ が /ɪ/ に続く、子音+母音だが特に強い連結はなし"
           ],
           "kana": "ザ サプライズ ワー ディスペンスト イーブンリー トゥ イーチ プレイャー"
         }
@@ -174,9 +174,99 @@
           "linking": [
             "「dispensing items」/ŋ/ が /aɪ/ に続く、子音+母音だが特に強い連結はなし",
             "「the」は冠詞で弱形 /ðə/ ザ",
-            "「never」は /ɛ/ で終わり、「jams」は /dʒ/ で始まるため、母音+子音でリンキングなし"
+            "「never」は /r/ で終わり、「jams」は /dʒ/ で始まるため、子音+子音でリンキングなし"
           ],
           "kana": "ワイル ディスペンシング アイテムズ ザ ディスペンサー ネヴァー ジャムズ"
+        }
+      ]
+    },
+    {
+      "type": "present_progressive",
+      "label": "現在進行形（am/is/are + -ing）",
+      "text": "is dispensing",
+      "ipa": "/ɪz dɪˈspɛnsɪŋ/",
+      "examples": [
+        {
+          "en": "The dispenser is dispensing diamonds into the hopper.",
+          "ja": "ディスペンサーはホッパーにダイヤモンドを配布しています。",
+          "ipa": "/ðə dɪˈspɛnsər ɪz dɪˈspɛnsɪŋ ˈdaɪmənds ˈɪntu ðə ˈhɑpɚ/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ（2回）",
+            "「is」は弱形 /ɪz/ イズ",
+            "「diamonds into」/z/ が /d/ に続き、子音+子音で未開放。into は /ˈɪntu/ か弱形 /ɪntə/ タ"
+          ],
+          "kana": "ザ ディスペンサー イズ ディスペンシング ダイモンズ イントゥ ザ ハパー"
+        },
+        {
+          "en": "My friend is dispensing healing potions while I mine.",
+          "ja": "私が採掘している間、友人は回復ポーションを配布しています。",
+          "ipa": "/maɪ frɛnd ɪz dɪˈspɛnsɪŋ ˈhilɪŋ ˈpoʊʃənz waɪl aɪ ˈmaɪn/",
+          "linking": [
+            "「is」は弱形 /ɪz/ イズ",
+            "「friend is」/d/ が /ɪ/ に続き連結 [frɛndɪz]、is は弱形",
+            "「healing potions」/ŋ/ が /p/ に続く、子音+子音で特に連結なし"
+          ],
+          "kana": "マイ フレンディズ ディスペンシング ヒーリング ポーションズ ワイル アイ マイン"
+        }
+      ]
+    },
+    {
+      "type": "past_progressive",
+      "label": "過去進行形（was/were + -ing）",
+      "text": "was dispensing",
+      "ipa": "/wəz dɪˈspɛnsɪŋ/",
+      "examples": [
+        {
+          "en": "The hopper was dispensing sand when it broke.",
+          "ja": "ホッパーが壊れた時、砂を配布していました。",
+          "ipa": "/ðə ˈhɑpɚ wəz dɪˈspɛnsɪŋ sænd wɛn ɪt broʊk/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「was」は弱形 /wəz/ ワズ",
+            "「sand when」/d/ が /w/ に続く、子音+子音で未開放。when は /wɛn/ で開始"
+          ],
+          "kana": "ザ ハパー ワズ ディスペンシング サンド ウェン イット ブロク"
+        },
+        {
+          "en": "We were dispensing supplies when the creeper exploded.",
+          "ja": "クリーパーが爆発した時、私たちは物資を配布していました。",
+          "ipa": "/wi wɚ dɪˈspɛnsɪŋ səˈplaɪz wɛn ðə ˈkripər ɪkˈsploʊdɪd/",
+          "linking": [
+            "「we」/i/ で終わり「were」/w/ で始まる。連結で [wiːwɚ] ウィワー",
+            "「were」は弱形 /wɚ/ ワー",
+            "「supplies when」/z/ が /w/ に続く、子音+子音で未開放。when は /wɛn/"
+          ],
+          "kana": "ウィ ワー ディスペンシング サプライズ ウェン ザ クリーパー イクスプロディッド"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect_progressive",
+      "label": "過去完了進行形（had been + -ing）",
+      "text": "had been dispensing",
+      "ipa": "/həd bɪn dɪˈspɛnsɪŋ/",
+      "examples": [
+        {
+          "en": "The system had been dispensing items for hours before it ran out.",
+          "ja": "システムは枯渇する前に何時間もアイテムを配布していました。",
+          "ipa": "/ðə ˈsɪstəm həd bɪn dɪˈspɛnsɪŋ ˈaɪtəmz fɔr ˈaʊərz bɪˈfɔr ɪt ræn aʊt/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ",
+            "「had」は弱形 /həd/ ハド",
+            "「had been」/d/ が /b/ に続く、子音+子音で未開放。been は弱形 /bɪn/ ビン"
+          ],
+          "kana": "ザ システム ハド ビン ディスペンシング アイテムズ フォー アワーズ ビフォー イット ラン アウト"
+        },
+        {
+          "en": "The dispenser had been dispensing ammo all night long.",
+          "ja": "ディスペンサーは一晩中弾を配布していました。",
+          "ipa": "/ðə dɪˈspɛnsər həd bɪn dɪˈspɛnsɪŋ ˈæmoʊ ɔl naɪt lɔŋ/",
+          "linking": [
+            "「the」は冠詞で弱形 /ðə/ ザ（2回）",
+            "「had」は弱形 /həd/ ハド",
+            "「had been」/d/ が /b/ に続く、子音+子音で未開放。been は弱形 /bɪn/ ビン"
+          ],
+          "kana": "ザ ディスペンサー ハド ビン ディスペンシング アモー オール ナイト ロング"
         }
       ]
     }
