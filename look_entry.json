@@ -97,8 +97,8 @@
       "kana": "ザット マブ ルックス ライカン エンダーマン"
     },
     {
-      "idiom": "look forward to",
-      "ja": "〜を楽しみに待つ",
+      "idiom": "look forward to 〜",
+      "ja": "〜を心待ちにする",
       "example": "I'm looking forward to mining diamonds in the new cave system.",
       "example_ja": "新しい洞窟システムでダイヤモンドを採掘するのが楽しみです。",
       "ipa": "[aɪm ˈlʊkɪŋ ˈfɔɹwɚɾə ˈmaɪnɪŋ ˈdaɪməndz ɪn ðə njuː keɪv ˈsɪstəm]",
@@ -122,6 +122,85 @@
         "a は機能語弱形 /ə/"
       ],
       "kana": "レット ミー ルッカップハウ タ メイク ア ダイマンド ピッカックス"
+    },
+    {
+      "idiom": "look back",
+      "ja": "振り返る",
+      "example": "Look back at all the progress you've made in Minecraft.",
+      "example_ja": "Minecraftであなたが成し遂げたすべての進歩を振り返ってください。",
+      "ipa": "/ˈlʊk bæk æt ɔl ðə ˈprɑɡrɛs juv ˈmeɪd ɪn ˈmaɪnˌkræft/",
+      "linking": [
+        "back at: back の末子音 /k/ が at の初頭に連結 [bækæt]",
+        "at all: at の末子音 /t/ が all の初頭に連結 [ætɔl]",
+        "the は冠詞で弱形 /ðə/"
+      ],
+      "kana": "ルック バック アット オール ザ プログレス ユヴ メイド イン マインクラフト"
+    },
+    {
+      "idiom": "look into 〜",
+      "ja": "〜を調べる",
+      "example": "We need to look into what destroyed the farm.",
+      "example_ja": "ファームが何に壊されたのか調べる必要があります。",
+      "ipa": "[wi ˈniːd tə ˈlʊkɪntu wɑt dɪˈstrɔɪd ðə ˈfɑrm]",
+      "linking": [
+        "look into → look の語末子音 /k/ が into の /ɪ/ に連結 [lʊkɪn] ルキン",
+        "to → 機能語は弱形 /tə/ に弱化 [tə] タ",
+        "the → 弱形 /ðə/ に弱化 [ðə] ザ"
+      ],
+      "kana": "ウィ ニード タ ルキント ワッ ディストロイド ザ ファーム"
+    },
+    {
+      "idiom": "look down (at ~)",
+      "ja": "見下ろす",
+      "example": "Look down at a lot of mob spawners below your base.",
+      "example_ja": "基地の下にある大量のモブスポーナーを見下ろしてください。",
+      "ipa": "[ˈlʊk ˈdaʊn æt ə ˈlɑt əv ˈmɑb ˈspɑnərz bɪˈloʊ jɔr ˈbeɪs]",
+      "linking": [
+        "down at → 語末子音 /n/ が母音 /æ/ に連結 [daʊˈnæt] ダウナッ",
+        "at a → 語末子音 /t/ が母音 /ə/ に連結 [ætə] ウッア。a は弱形 /ə/",
+        "lot of → 語末子音 /t/ が母音 /ə/ に連結、フラップ化して [ɾ] となり連結 [ˈlɑɾəv] ラーラヴ。of は弱形 /əv/"
+      ],
+      "kana": "ルック ダウナッア ラーラヴ モブ スポーナーズ ビロー ユアー ベース"
+    },
+    {
+      "idiom": "look around (〜)",
+      "ja": "（〜を）見回す",
+      "example": "She looks around the base to check for any signs of damage.",
+      "example_ja": "彼女は損傷の兆候をチェックするためにベースを見回します。",
+      "ipa": "/ʃi ˈlʊks əˈraʊnd ðə beɪs tu tʃɛk fɔr ˈɛni saɪnz əv ˈdæmɪdʒ/",
+      "linking": [
+        "looks around → looks の末子音 /ks/ が around の初頭の母音に連結 [ˈlʊks əˈraʊnd]",
+        "the は弱形 /ðə/、base の初頭に連結 [ðə beɪs]",
+        "to は弱形 /tə/、check の初頭に連結 [tə tʃɛk]",
+        "for は弱形 /fɚ/、any の初頭に連結 [fɚ ˈɛni]"
+      ],
+      "kana": "シー ルックス アラウンド ザ ベイス タ チェック フォー エニー サインズ アヴ ダメージ"
+    },
+    {
+      "idiom": "look after 〜",
+      "ja": "〜の世話をする",
+      "example": "I need to look after the animals in my farm.",
+      "example_ja": "農場の動物たちの世話をする必要がある。",
+      "ipa": "[aɪ ˈniːdə ˈlʊkæftɚ ðə ˈænɪməlz ɪn maɪ ˈfɑɹm]",
+      "linking": [
+        "need to → 語末子音 /d/ が弱形 to /tə/ に連結 [ˈniːdə] ニーダ",
+        "look after → 語末子音 /k/ が母音 /æ/ に連結 [ˈlʊkæftɚ] ルックアフター",
+        "the → 機能語は弱形 /ðə/ に弱化 [ðə] ザ"
+      ],
+      "kana": "アイ ニーダ ルックアフター ザ アニマルズ イン マイ ファーム"
+    },
+    {
+      "idiom": "look out for ～",
+      "ja": "～に注意する、～に気をつける",
+      "example": "You need to look out for hostile mobs at night.",
+      "example_ja": "夜間に敵対的なモブに気をつける必要があります。",
+      "ipa": "/ju ˈniːd tə ˈlʊk aʊt fɚ ˈhɑstəl mɑbz æt naɪt/",
+      "linking": [
+        "need to: need の語末子音 /d/ が to の弱形 /tə/ に連結 [ˈniːdə] ニーダ",
+        "out for: out の語末子音 /t/ が for の初頭の子音 /f/ に直続、/t/ は未開放 [aʊt̚ fɚ]。for は弱形 /fɚ/",
+        "at night: at の語末子音 /t/ が night の初頭の子音 /n/ に直続、/t/ は未開放 [æt̚ naɪt] アッ ナイト"
+      ],
+      "kana": "ユー ニーダ ルック アウ フォー ホスタイル モブズ アッ ナイト"
     }
   ],
   "forms": [
