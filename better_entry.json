@@ -82,5 +82,92 @@
       ],
       "kana": "ユー アー ベラー オフ ウィザ ダイアモンド ソード ザン ア ウッデン ワン"
     }
-  ]
+  ],
+  "forms": [
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has bettered",
+      "ipa": "/həz ˈbɛɾərd/",
+      "examples": [
+        {
+          "en": "I have bettered my diamond pickaxe after finding more diamonds.",
+          "ja": "より多くのダイヤモンドを見つけた後、ダイヤのツルハシを改良した。",
+          "ipa": "/aɪ həv ˈbɛɾərd maɪ ˈdaɪəmənd ˈpɪkæks ˈæftər ˈfaɪndɪŋ mɔr ˈdaɪəməndz/",
+          "linking": [
+            "have は弱形 /həv/",
+            "bettered の t はフラップ化 [ˈbɛɾərd]"
+          ],
+          "kana": "アイ ハヴ ベラード マイ ダイアモンド ピカックス アフター ファインディング モー ダイアモンズ"
+        },
+        {
+          "en": "The builders have bettered the village defenses significantly.",
+          "ja": "ビルダーたちは村の防御を著しく改善した。",
+          "ipa": "/ðə ˈbɪldərz həv ˈbɛɾərd ðə ˈvɪlɪdʒ dɪˈfɛnsɪz sɪɡˈnɪfɪkəntli/",
+          "linking": [
+            "have は弱形 /həv/",
+            "bettered の t はフラップ化 [ˈbɛɾərd]"
+          ],
+          "kana": "ザ ビルダーズ ハヴ ベラード ザ ヴィリッジ ディフェンシズ シグニフィカントリー"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had bettered",
+      "ipa": "/həd ˈbɛɾərd/",
+      "examples": [
+        {
+          "en": "The miners had bettered their efficiency before the cave-in occurred.",
+          "ja": "坑道崩落が起きる前に、鉱夫たちは採掘効率を改善していた。",
+          "ipa": "/ðə ˈmaɪnərz həd ˈbɛɾərd ðɛr ɪˈfɪʃənsi bɪˈfɔr ðə ˈkeɪvɪn əˈkɜrd/",
+          "linking": [
+            "had は弱形 /həd/",
+            "bettered の t はフラップ化 [ˈbɛɾərd]"
+          ],
+          "kana": "ザ マイナーズ ハド ベラード ザー イフィシェンシー ビフォー ザ ケイヴィン アカード"
+        },
+        {
+          "en": "She had bettered her redstone circuit design before showing it to the server.",
+          "ja": "サーバーに見せる前に、彼女は自分のレッドストーン回路設計を改善していた。",
+          "ipa": "/ʃi həd ˈbɛɾərd ər ˈrɛdstoʊn ˈsɜrkɪt dɪˈzaɪn bɪˈfɔr ˈʃoʊɪŋ ɪt tə ðə ˈsɜrvər/",
+          "linking": [
+            "had は弱形 /həd/、her は弱形 /ər/",
+            "bettered の t はフラップ化 [ˈbɛɾərd]"
+          ],
+          "kana": "シー ハド ベラード アー レッドストウン サーキット ディザイン ビフォー ショウイング イット タ ザ サーバー"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been bettering",
+      "ipa": "/həz bɪn ˈbɛɾərɪŋ/",
+      "examples": [
+        {
+          "en": "The team has been bettering the server's performance all month.",
+          "ja": "チームは1ヶ月間ずっとサーバーのパフォーマンスを改善し続けている。",
+          "ipa": "/ðə tim həz bɪn ˈbɛɾərɪŋ ðə ˈsɜrvərz pərˈfɔrməns ɔl mʌnθ/",
+          "linking": [
+            "has は弱形 /həz/、been は弱形 /bɪn/",
+            "bettering の t はフラップ化 [ˈbɛɾərɪŋ]"
+          ],
+          "kana": "ザ ティーム ハズ ビン ベラリング ザ サーバーズ パーフォーマンス オール マンス"
+        },
+        {
+          "en": "I have been bettering my building skills since I started playing.",
+          "ja": "プレイを始めてから、私は建築スキルを改善し続けている。",
+          "ipa": "/aɪ həv bɪn ˈbɛɾərɪŋ maɪ ˈbɪldɪŋ skɪlz sɪns aɪ ˈstɑɾɪd ˈpleɪɪŋ/",
+          "linking": [
+            "have は弱形 /həv/、been は弱形 /bɪn/",
+            "bettering と started の t はフラップ化 [ˈbɛɾərɪŋ], [ˈstɑɾɪd]"
+          ],
+          "kana": "アイ ハヴ ビン ベラリング マイ ビルディング スキルズ シンス アイ スタリッド プレイング"
+        }
+      ]
+    }
+  ],
+  "forms": []
 }
