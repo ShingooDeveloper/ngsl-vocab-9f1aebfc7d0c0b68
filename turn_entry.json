@@ -76,18 +76,18 @@
       "kana": "アイ ターンダウン ダ インビテイション タ イクスプロア ダ デンジャラス ネザー レルム"
     },
     {
-      "idiom": "turn off",
-      "ja": "〜を切る、消す",
+      "idiom": "turn off (〜)",
+      "ja": "〜を消す、止める",
       "example": "I'll turn off the water flow to prevent flooding in the base.",
       "example_ja": "基地の浸水を防ぐために、水の流れを止めます。",
-      "ipa": "/aɪl tɝn ɔf ðə ˈwɔtɚ floʊ tu prɪˈvɛnt ˈflʌdɪŋ ɪn ðə beɪs/",
+      "ipa": "/aɪl tɝn ɔf ðə ˈwɔɾɚ floʊ tu prɪˈvɛnt ˈflʌdɪŋ ɪn ðə beɪs/",
       "linking": [
-        "turn off → turn の語末子音 /n/ が off の初頭母音 /ɔ/ に連結 [ˈtɝnɔf]",
-        "the (water) → 弱形 /ðə/",
-        "to → 弱形 /tə/",
-        "the (base) → 弱形 /ðə/"
+        "turn off → 語末子音 /n/ が母音 /ɔ/ に連結 [ˈtɝnɔf] ターンオフ",
+        "water → /t/ が母音に挟まれフラップ化 [ˈwɔɾɚ] ウォーラー",
+        "to → 機能語は弱形 /tə/ に弱化",
+        "the → 冠詞は弱形 /ðə/ に弱化"
       ],
-      "kana": "アイル ターンオフ ダ ウォーター フロウ タ プリヴェント フラッディング イン ダ ベイス"
+      "kana": "アイル ターンオフ ダ ウォーラー フロウ タ プリヴェント フラッディング イン ダ ベイス"
     },
     {
       "idiom": "turn A into B",
@@ -103,6 +103,20 @@
       "kana": "ユー カン ターン サンディント グラス バイ スメルティング イッ イナ ファーニス"
     },
     {
+      "idiom": "turn around (~)",
+      "ja": "振り返る、方向転換する",
+      "example": "You should turn around when you spot a Wither boss spawning behind you.",
+      "example_ja": "ウィザーボスがあなたの背後にスポーンするのを見かけたら、振り返るべきです。",
+      "ipa": "/juː ʃʊd tɝn əˈraʊnd wɛn juː spɑt ə ˈwɪðɚ bɑs ˈspoʊnɪŋ bɪˈhaɪnd juː/",
+      "linking": [
+        "should turn → 語末子音 /d/ が次の /t/ に未開放で続く [ʃʊd̚ tɝn]",
+        "turn around → 語末子音 /n/ が母音 /ə/ に連結 [ˈtɝnə ˈraʊnd] ターナラウンド",
+        "spot a → 語末子音 /t/ は未開放で続く [spɑt̚ ə]",
+        "a → 冠詞は弱形 /ə/"
+      ],
+      "kana": "ユー シュッド ターナ ラウンド ウェン ユー スポッ ア ウィザー ボス スポウニング ビハインド ユー"
+    },
+    {
       "idiom": "turn out to be",
       "ja": "～であることが判明する",
       "example": "The cave turned out to be a massive spawner dungeon.",
@@ -114,6 +128,18 @@
         "the (cave) → 弱形 /ðə/"
       ],
       "kana": "ダ ケイヴ ターンダウッ タ ビー ア マッシヴ スポウナー ダンジョン"
+    },
+    {
+      "idiom": "turn over ～",
+      "ja": "～を引き渡す、譲る；～をひっくり返す、めくる",
+      "example": "I turned over my enchanted pickaxe to my teammate.",
+      "example_ja": "エンチャント付きツルハシをチームメイトに引き渡した。",
+      "ipa": "/aɪ tɝnd ˈoʊvɚ maɪ ɪnˈtʃæntɪd ˈpɪkˌæks tə maɪ ˈtimˌmeɪt/",
+      "linking": [
+        "turned over → 語末子音 /d/ が over の初頭母音 /oʊ/ に連結 [ˈtɝndˈoʊvɚ] ターンドオーヴァー",
+        "to → 機能語は弱形 /tə/ に弱化"
+      ],
+      "kana": "アイ ターンドオーヴァー マイ インチャンティド ピックアックス タ マイ ティームメイト"
     }
   ],
   "forms": [
