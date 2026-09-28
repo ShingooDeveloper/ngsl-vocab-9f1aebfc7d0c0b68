@@ -181,6 +181,96 @@
           "kana": "ライカニング ゼア ベース タ ア フォーティス ゼイ リインフォースト ザ ウォールズ"
         }
       ]
+    },
+    {
+      "type": "present_perfect",
+      "label": "現在完了形（has/have + 過去分詞）",
+      "text": "has likened",
+      "ipa": "/həz ˈlaɪkənd/",
+      "examples": [
+        {
+          "en": "She has likened the Ender Dragon to the ultimate challenge.",
+          "ja": "彼女はエンダードラゴンを究極のチャレンジに例えました。",
+          "ipa": "/ʃi həz ˈlaɪkənd ðiː ˈɛndɚ ˈdræɡən tə ðiː ˈʌltɪmət ˈtʃælɪndʒ/",
+          "linking": [
+            "has は弱形 /həz/ で has likened へ遷移 [ʃi həz ˈlaɪ]",
+            "likened the: likened の末尾 /d/ が the /ð/ に [ˈlaɪkənd ðiː]",
+            "Dragon to: Dragon の末尾 /n/ が to の弱形 /tə/ に連結 [ˈdræɡən tə] ドラゴン タ"
+          ],
+          "kana": "シー ハズ ライカンド ザィー エンダー ドラゴン タ ザィー アルティメット チャレンジ"
+        },
+        {
+          "en": "I have likened obsidian to an unbreakable material.",
+          "ja": "私はオブシディアンを壊れない素材に例えました。",
+          "ipa": "/aɪ həv ˈlaɪkənd ɑbˈsɪdiən tə ən ʌnˈbreɪkəbəl məˈtɪriəl/",
+          "linking": [
+            "have は弱形 /həv/ で have likened へ遷移 [həv ˈlaɪ]",
+            "likened obsidian: likened の末尾 /d/ が obsidian の初頭 /ə/ に連結 [ˈlaɪkənd ɑbˈsɪ]",
+            "obsidian to: obsidian の末尾 /n/ が to の弱形 /tə/ に連結 [diən tə] ディアン タ"
+          ],
+          "kana": "アイ ハヴ ライカンド オブシディアン タ アン アンブレイカブル マテリアル"
+        }
+      ]
+    },
+    {
+      "type": "past_perfect",
+      "label": "過去完了形（had + 過去分詞）",
+      "text": "had likened",
+      "ipa": "/həd ˈlaɪkənd/",
+      "examples": [
+        {
+          "en": "He had likened iron ore to precious treasure before mining it.",
+          "ja": "彼は採掘する前に鉄鉱石を貴重な宝物に例えていました。",
+          "ipa": "/hi həd ˈlaɪkənd ˈaɪɚn ɔr tə ˈpreʃəs ˈtreʒɚ bɪˈfɔr ˈmaɪnɪŋ ɪt/",
+          "linking": [
+            "had は弱形 /həd/ で had likened へ遷移 [hi həd ˈlaɪ]",
+            "likened iron: likened の末尾 /d/ が iron の初頭 /aɪ/ に連結 [ˈlaɪkənd ˈaɪ]",
+            "ore to: ore の末尾 /r/ が to の弱形 /tə/ に連結 [ɔr tə] オー タ"
+          ],
+          "kana": "ヒー ハド ライカンド アイアーン オー タ プレシャス トレジャー ビフォー マイニング イット"
+        },
+        {
+          "en": "The miners had likened the cave system to a labyrinth.",
+          "ja": "採掘者たちは洞窟システムを迷路に例えていました。",
+          "ipa": "/ðə ˈmaɪnɚz həd ˈlaɪkənd ðə ˈkeɪv ˈsɪstəm tə ə ˈlæbərɪnθ/",
+          "linking": [
+            "miners had: miners の末尾 /z/ が had /h/ に続く [ˈmaɪnɚz həd]",
+            "had は弱形 /həd/ で likened へ遷移 [həd ˈlaɪ]",
+            "system to: system の末尾 /m/ が to の弱形 /tə/ に連結 [ˈsɪstəm tə] システム タ"
+          ],
+          "kana": "ザ マイナーズ ハド ライカンド ザ ケイヴ システム タ ア ラビリンス"
+        }
+      ]
+    },
+    {
+      "type": "present_perfect_progressive",
+      "label": "現在完了進行形（has/have been + -ing）",
+      "text": "has been likening",
+      "ipa": "/həz bɪn ˈlaɪkənɪŋ/",
+      "examples": [
+        {
+          "en": "She has been likening different ores to their real-world materials.",
+          "ja": "彼女は異なる鉱石をそれらの実世界の素材に例え続けています。",
+          "ipa": "/ʃi həz bɪn ˈlaɪkənɪŋ ˈdɪfərənt ɔrz tə ðɛr ˈril ˈwɜrld məˈtɪriəlz/",
+          "linking": [
+            "has は弱形 /həz/ で been へ遷移 [ʃi həz bɪn]",
+            "been は弱形 /bɪn/ で likening へ遷移 [bɪn ˈlaɪ]",
+            "ores to: ores の末尾 /z/ が to の弱形 /tə/ に連結 [ɔrz tə] オーズ タ"
+          ],
+          "kana": "シー ハズ ビン ライカニング ディファレント オーズ タ ゼア リール ワールド マテリアルズ"
+        },
+        {
+          "en": "They have been likening their redstone contraptions to computing circuits.",
+          "ja": "彼らはレッドストーンの装置をコンピュータ回路に例え続けています。",
+          "ipa": "/ðeɪ həv bɪn ˈlaɪkənɪŋ ðɛr ˈrɛdˌstoʊn kənˈtræpʃənz tə kəmˈpjutɪŋ ˈsɜrkɪts/",
+          "linking": [
+            "have は弱形 /həv/ で been へ遷移 [ðeɪ həv bɪn]",
+            "been は弱形 /bɪn/ で likening へ遷移 [bɪn ˈlaɪ]",
+            "contraptions to: contraptions の末尾 /z/ が to の弱形 /tə/ に連結 [kənˈtræpʃənz tə] コントラプションズ タ"
+          ],
+          "kana": "ゼイ ハヴ ビン ライカニング ゼア レッドストーン コントラプションズ タ コンピューティング サーキッツ"
+        }
+      ]
     }
   ]
 }
