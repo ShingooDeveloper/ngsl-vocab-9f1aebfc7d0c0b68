@@ -398,6 +398,102 @@
           "kana": "アワー レッドストウン コントラプションズ ハヴ ビン ヴァージング タワード グレーター コンプレクシティー"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形",
+      "text": "will verge",
+      "ipa": "/wɪl vɝdʒ/",
+      "examples": [
+        {
+          "en": "I will verge on panic if I don't find more diamonds soon.",
+          "ja": "ダイヤモンドをもっと見つけないと、すぐにパニックに近い状態になるだろう。",
+          "ipa": "/aɪ wəl vɝdʒ ɑn ˈpænɪk ɪf aɪ ˈdoʊnt̚ ˈfaɪnd mɔɹ ˈdaɪməndz sun/",
+          "linking": [
+            "I will → I の語末が will に、will は弱形 /wəl/ [aɪ wəl] アイ ウル",
+            "will verge → /l/ が verge の /v/ に連結 [wɪl vɝdʒ] ウィル ヴァージ",
+            "on panic → /n/ が panic に連結 [ɑn ˈpænɪk] オン パニック",
+            "don't find → don't の /t/ が未開放で find に続く [ˈdoʊnt̚ ˈfaɪnd] ドウント ファインド"
+          ],
+          "kana": "アイ ウル ヴァージ オン パニック イフ アイ ドウント ファインド モー ダイマンズ スーン"
+        },
+        {
+          "en": "The server will verge on chaos if the redstone doors keep glitching.",
+          "ja": "レッドストーンドアが壊れ続けるとサーバーは混乱に近い状態になるだろう。",
+          "ipa": "/ðə ˈsɜrvər wɪl vɝdʒ ɑn ˈkeɪɑs ɪf ðə ˈɹɛdˌstoʊn ˈdɔɹz kɪp ˈɡlɪtʃɪŋ/",
+          "linking": [
+            "The server → the は弱形 /ðə/ が server に連結 [ðə ˈsɜr] ザ サー",
+            "server will → /r/ が will に連結 [ˈsɜrvər wɪl] サーバー ウィル",
+            "will verge → /l/ が verge に連結 [wɪl vɝdʒ] ウィル ヴァージ",
+            "if the → if の /f/ が the に、the は弱形 /ðə/ [ɪf ðə] イフ ザ"
+          ],
+          "kana": "ザ サーバー ウィル ヴァージ オン ケイオス イフ ザ レッドストーン ドーズ キープ グリッチング"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形",
+      "text": "will be verging",
+      "ipa": "/wɪl bi ˈvɝdʒɪŋ/",
+      "examples": [
+        {
+          "en": "By next week, I will be verging on completing my entire nether fortress.",
+          "ja": "来週までに、私は私の全ネザー砦の完成に近づいているだろう。",
+          "ipa": "/baɪ ˈnɛkst wik aɪ wəl bi ˈvɝdʒɪŋ ɑn kəmˈpliːtɪŋ maɪ ənˈtaɪɹ ˈnɛðər ˈfɔɹtɪs/",
+          "linking": [
+            "I will → I の語末が will に、will は弱形 /wəl/ [aɪ wəl] アイ ウル",
+            "will be → /l/ が be の /b/ に連結 [wɪl bi] ウィル ビー",
+            "be verging → /i/ が verging に連結 [bi ˈvɝdʒɪŋ] ビ ヴァージング",
+            "on completing → /n/ が completing に連結 [ɑn kəm] オン コム"
+          ],
+          "kana": "バイ ネクスト ウィーク アイ ウル ビ ヴァージング オン コンプリーティング マイ エンタイア ネザー フォーティス"
+        },
+        {
+          "en": "The redstone circuit will be verging on overload if we add more components.",
+          "ja": "コンポーネントをもっと追加するとレッドストーン回路は過負荷に近づいているだろう。",
+          "ipa": "/ðə ˈɹɛdˌstoʊn ˈsɜrkɪt̚ wɪl bi ˈvɝdʒɪŋ ɑn ˈoʊvərˌloʊd ɪf wi ˈæd mɔɹ kəmˈpoʊnənts/",
+          "linking": [
+            "The redstone → the は弱形 /ðə/ が redstone に連結 [ðə ˈɹɛd] ザ レッド",
+            "circuit will → /t/ が未開放で will に続く [ˈsɜrkɪt̚ wɪl] サーキット ウィル",
+            "will be → /l/ が be に連結 [wɪl bi] ウィル ビー",
+            "be verging → /i/ が verging に連結 [bi ˈvɝdʒɪŋ] ビ ヴァージング"
+          ],
+          "kana": "ザ レッドストーン サーキット ウィル ビ ヴァージング オン オーバーロード イフ ウィ アッド モー コンポーネンツ"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形",
+      "text": "will have verged",
+      "ipa": "/wɪl hæv vɝdʒd/",
+      "examples": [
+        {
+          "en": "By the time we reach the end dimension, we will have verged on losing our minds.",
+          "ja": "エンド次元に到達するまでに、私たちは理性を失う危機に瀕しているだろう。",
+          "ipa": "/baɪ ðə ˈtaɪm wi ˈritʃ ðə ˈɛnd dɪˈmɛnʃən wi wɪl həv vɝdʒd ɑn ˈluzɪŋ ˈaʊɹ ˈmaɪndz/",
+          "linking": [
+            "By the → By の語末が the に、the は弱形 /ðə/ [baɪ ðə] バイ ザ",
+            "we reach → /i/ が reach に連結 [wi ˈritʃ] ウィ リーチ",
+            "we will → /i/ が will に連結 [wi wɪl] ウィ ウィル",
+            "will have → /l/ が have に、have は弱形 /həv/ [wɪl həv] ウィル ハヴ"
+          ],
+          "kana": "バイ ザ タイム ウィ リーチ ザ エンド ディメンション ウィ ウィル ハヴ ヴァージド オン ルージング アワー マインズ"
+        },
+        {
+          "en": "They will have verged on abandoning their base if the griefers continue to attack.",
+          "ja": "グリーファーが攻撃を続けるなら、彼らは基地を放棄する危機に瀕しているだろう。",
+          "ipa": "/ðeɪ wɪl həv vɝdʒd ɑn əˈbændənɪŋ ðɛɹ ˈbeɪs ɪf ðə ˈɡrifərz kənˈtɪnju tə əˈtæk/",
+          "linking": [
+            "They will → /eɪ/ が will に連結 [ðeɪ wɪl] ザイ ウィル",
+            "will have → /l/ が have に、have は弱形 /həv/ [wɪl həv] ウィル ハヴ",
+            "have verged → /v/ が verged に連結 [həv vɝdʒd] ハヴ ヴァージド",
+            "if the → if の /f/ が the に、the は弱形 /ðə/ [ɪf ðə] イフ ザ"
+          ],
+          "kana": "ザイ ウィル ハヴ ヴァージド オン ア バンダニング ザイア ベイス イフ ザ グリーファーズ コンティニュー タ ア タック"
+        }
+      ]
     }
   ]
 }
