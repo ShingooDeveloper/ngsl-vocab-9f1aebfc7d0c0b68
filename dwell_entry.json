@@ -153,6 +153,91 @@
           "kana": "ヒー ハズ ビン ドゥエリング ピースフリー アマング ザ ビレッジャーズ シンス ザ レルム オウペンド"
         }
       ]
+    },
+    {
+      "type": "future",
+      "label": "単純未来形（will + 動詞原形）",
+      "text": "will dwell",
+      "ipa": "/wɪl dwɛl/",
+      "examples": [
+        {
+          "en": "They will dwell in the mountains until spring arrives.",
+          "ja": "彼らは春が来るまで山に住むでしょう。",
+          "ipa": "/ðeɪ wɪl dwɛl ɪn ðə ˈmaʊntənz ənˈtɪl sprɪŋ əˈraɪvz/",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し dwell の /d/ に子音+子音で続く [wəl dwɛl]",
+            "dwell の語末 /l/ が in の /ɪ/ に連結 [dwɛlɪn]",
+            "until の語末 /l/ が spring の /s/ に未開放で続く [ənˈtɪl̚ sprɪŋ]"
+          ],
+          "kana": "ザ ウル ドゥエリン ザ マウンテンズ アンティル スプリング アライヴズ"
+        },
+        {
+          "en": "You will dwell safely here once you've gathered enough resources.",
+          "ja": "十分なリソースを集めたら、ここに安全に住むでしょう。",
+          "ipa": "/ju wɪl dwɛl ˈseɪfli hɪr wʌns juv ˈɡæðərd ɪˈnʌf ˈrɛsɔrsɪz/",
+          "linking": [
+            "will は助動詞で弱形 /wəl/ に弱化し dwell の /d/ に子音+子音で続く [wəl dwɛl]",
+            "gathered の語末 /d/ が enough の /ɪ/ に連結 [ˈɡæðərd ɪˈnʌf]"
+          ],
+          "kana": "ユー ウル ドゥエル セイフリー ヒア ワンス ユーヴ ガザード イナフ レソーシーズ"
+        }
+      ]
+    },
+    {
+      "type": "future_progressive",
+      "label": "未来進行形（will be + -ing）",
+      "text": "will be dwelling",
+      "ipa": "/wɪl bi ˈdwɛlɪŋ/",
+      "examples": [
+        {
+          "en": "Next month, we will be dwelling in the new underground fortress.",
+          "ja": "来月、私たちは新しい地下要塞に住むでしょう。",
+          "ipa": "/ˈnɛkst mʌnθ wi wɪl bi ˈdwɛlɪŋ ɪn ðə nu ʌndɚˈɡraʊnd ˈfɔrts/",
+          "linking": [
+            "will は弱形 /wəl/ に弱化し be の /b/ に子音+子音で続く [wəl bi]",
+            "the は冠詞で弱形 /ðə/ に弱化し underground の /ʌ/ に続く [ðə ʌndɚˈɡraʊnd]"
+          ],
+          "kana": "ネクスト マンス ウィ ウル ビー ドゥエリング イン ザ ニュー アンダーグラウンド フォーツ"
+        },
+        {
+          "en": "While you're training, I'll be dwelling in the peaceful meadow biome.",
+          "ja": "あなたが訓練している間、私は平和な草原バイオームに住んでいるでしょう。",
+          "ipa": "/waɪl jɔr ˈtreɪnɪŋ aɪl bi ˈdwɛlɪŋ ɪn ðə ˈpisfəl ˈmɛdoʊ baɪˈoʊm/",
+          "linking": [
+            "I'll は I + will の縮約で /aɪl/ となり be の /b/ に子音+子音で続く [aɪl bi]",
+            "peaceful の語末 /l/ が meadow の /m/ に子音+子音で続く（連結なし）[ˈpisfəl ˈmɛdoʊ]"
+          ],
+          "kana": "ワイル ヨー トレイニング アイル ビー ドゥエリング イン ザ ピースフル メドウ バイオーム"
+        }
+      ]
+    },
+    {
+      "type": "future_perfect",
+      "label": "未来完了形（will have + 過去分詞）",
+      "text": "will have dwelt",
+      "ipa": "/wɪl həv dwɛlt/",
+      "examples": [
+        {
+          "en": "By next week, they will have dwelt in this cave for an entire month.",
+          "ja": "来週までに、彼らはこの洞窟に丸一ヶ月間住むことになるでしょう。",
+          "ipa": "/baɪ ˈnɛkst wik ðeɪ wɪl həv dwɛlt ɪn ðɪs keɪv fɔr ən ɪnˈtaɪɚ mʌnθ/",
+          "linking": [
+            "will は弱形 /wəl/ に、have も弱形 /həv/ に弱化 [wəl həv]",
+            "dwelt の語末 /t/ が in の /ɪ/ に連結 [dwɛltɪn]"
+          ],
+          "kana": "バイ ネクスト ウィーク ザ ウル ハヴ ドゥエルティン ディス ケイヴ フォー アン イナイア マンス"
+        },
+        {
+          "en": "She will have dwelt in the Nether for three seasons before returning to the Overworld.",
+          "ja": "彼女はネザーに3シーズン住んでから、オーバーワールドに戻るでしょう。",
+          "ipa": "/ʃi wɪl həv dwɛlt ɪn ðə ˈnɛðɚ fɔr θri ˈsizənz bɪˈfɔr rɪˈtɝnɪŋ tu ðə ˈoʊvɚwɝld/",
+          "linking": [
+            "will は弱形 /wəl/ に、have も弱形 /həv/ に弱化 [wəl həv]",
+            "to は機能語で弱形 /tə/ に弱化し Overworld の /o/ に続く [tə ˈoʊvɚwɝld]"
+          ],
+          "kana": "シー ウル ハヴ ドゥエルティン ザ ネザー フォー スリー シーズンズ ビフォア リターニング トゥ ザ オーヴァーワールド"
+        }
+      ]
     }
   ]
 }
