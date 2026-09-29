@@ -1,0 +1,78 @@
+{
+  "word": "pulse",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/pʌls/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "pulse(?:s|d)?",
+  "meanings": [
+    "【名詞】心臓の鼓動による脈拍；身体を通じて血液が流れるときのリズム感（...check your pulse...）",
+    "【名詞】電気信号や振動の周期的な変動；特にコンピュータやレッドストーン回路での信号（...a redstone pulse...）",
+    "【名詞】（比喩）活力；エネルギー；物事の核となるリズム感（...the pulse of the city...）",
+    "【動詞】脈動する；リズミカルに鼓動する；振動する（...the light pulses on and off...）"
+  ],
+  "examples": [
+    {
+      "en": "The redstone repeater sends out a pulse to activate the piston.",
+      "ja": "レッドストーンリピーターがピストンを作動させるためのパルスを送出する。",
+      "ipa": "/ðə ˈrɛdˌstoʊn rɪˈpitɚ ˈsɛndz ˈaʊt ə ˈpʌls tu ˈæktɪˌveɪt ðə ˈpɪstən/",
+      "linking": [
+        "redstone repeaterで e が弱形で /ðə ˈrɛdˌstoʊn/ になり、stone repeaterで n が未開放 [ˈstoʊn̚ rɪˈpitɚ] ストーン リピーター",
+        "sends outで d が未開放で /aʊ/ に先行 [ˈsɛndz ˈaʊt] センズ アウト",
+        "a pulseで弱形 /ə/ で [ə ˈpʌls] ア パルス"
+      ],
+      "kana": "ザ レッドストーン リピーター センズ アウット ア パルス トゥ アクティベイト ザ ピストン"
+    },
+    {
+      "en": "I can feel the pulse of my heartbeat growing faster when the zombie creeps closer.",
+      "ja": "ゾンビが近づくにつれ、心臓の鼓動がだんだん速くなるのを感じることができる。",
+      "ipa": "/aɪ ˈkæn ˈfil ðə ˈpʌls əv maɪ ˈhɑɹtˌbit ˈɡɹoʊɪŋ ˈfæstɚ wɛn ðə ˈzɑmbi ˈkrips ˈkloʊsɚ/",
+      "linking": [
+        "feel theで弱形 /ðə/ [fil ðə ˈpʌls] フィール ザ パルス",
+        "pulse ofで s が母音 /ə/ に連結し、of は弱形 /əv/ [ˈpʌlsəv] パルサヴ",
+        "heartbeat growingで t が未開放で /ɡ/ に先行 [ˈhɑɹtˌbit ˈɡɹoʊɪŋ] ハートビット グロウイング"
+      ],
+      "kana": "アイ キャン フィール ザ パルス アブ マイ ハートビート グロウイング ファスター ウェン ザ ゾンビ クリープス クローザー"
+    },
+    {
+      "en": "The light pulses rapidly, signaling that the redstone system is working correctly.",
+      "ja": "光が急速に脈動し、レッドストーンシステムが正常に機能していることを示唆している。",
+      "ipa": "/ðə ˈlaɪt ˈpʌlsɪz ˈræpɪdli ˈsɪɡnəlɪŋ ðæt ðə ˈrɛdˌstoʊn ˈsɪstəm ɪz ˈwɝkɪŋ ˈkɝɪktli/",
+      "linking": [
+        "theは弱形 /ðə/ で [ðə ˈlaɪt] ザ ライト",
+        "pulses rapidlyで s が /ɹ/ に先行し、rapidlyの d が母音に挟まれフラップ化 [ˈpʌlsɪz ˈræpɪdli] ← [ˈræɾɪdli] パルシズ ラピドリー",
+        "system isで m が未開放で /ɪ/ に先行 [ˈsɪstəm̚ ɪz] システム イズ"
+      ],
+      "kana": "ザ ライト パルシズ ラピドリー シグナリング ザット ザ レッドストーン システム イズ ワーキング コレクトリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "pulse rate",
+      "ja": "脈拍数；心拍数",
+      "example": "My pulse rate increased after running away from the creeper explosion.",
+      "example_ja": "クリーパー爆発から逃げた後、私の脈拍数が上がった。",
+      "ipa": "/maɪ ˈpʌls ˈreɪt ɪnˈkrist æftɚ ˈrʌnɪŋ əˈwɛ frəm ðə ˈkripɚ ɪkˈsploʊʒən/",
+      "linking": [
+        "pulse rateで s が /ɹ/ に先行し連結 [ˈpʌlsɹ] パルスレ",
+        "afterの t がフラップ化 [ˈæɾɚ] アフター",
+        "creeper explosionで r が弱く、explosion の e が続く [ˈkripɚ ɪkˈsploʊʒən] クリーパー エクスプロージョン"
+      ],
+      "kana": "マイ パルス レイト インクリースト アフター ラニング アウェイ フロム ザ クリーパー エクスプロージョン"
+    },
+    {
+      "idiom": "feel the pulse of",
+      "ja": "（物事の）脈動・活力を感じる；状況を察知する",
+      "example": "You can feel the pulse of the realm by watching the changes in the landscape.",
+      "example_ja": "景観の変化を見ることで、その領域の活力を感じることができる。",
+      "ipa": "/ju kæn ˈfil ðə ˈpʌls əv ðə ˈrɛlm baɪ ˈwɑtʃɪŋ ðə ˈtʃeɪndʒɪz ɪn ðə ˈlændˌskeɪp/",
+      "linking": [
+        "feel theで弱形 /ðə/ [fil ðə] フィール ザ",
+        "pulse ofで s が /ə/ に連結し of は弱形 /əv/ [ˈpʌlsəv] パルサヴ",
+        "realm byで m が弱く /aɪ/ が続く [ˈrɛlm baɪ] レルム バイ"
+      ],
+      "kana": "ユー キャン フィール ザ パルス アヴ ザ レルム バイ ウォッチング ザ チェンジズ イン ザ ランドスケイプ"
+    }
+  ]
+}
