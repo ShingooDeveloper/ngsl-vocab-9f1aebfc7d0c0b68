@@ -1,0 +1,79 @@
+{
+  "word": "brew",
+  "pos": "動詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/bruː/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "brew(?:s|ing|ed)?",
+  "meanings": [
+    "【動詞】（飲料を）淹れる、作る（tea や coffee を brew する）",
+    "【動詞】（ビール・酒などを）醸造する（ferment させて）",
+    "【動詞】（嵐・問題などが）形成される、起きようとしている（develop gradually）",
+    "【名詞】醸造物、とくにビール（a beverage made by brewing）",
+    "【名詞】混合物、ブレンド（a mixture or combination）"
+  ],
+  "examples": [
+    {
+      "en": "I'll brew strength potions before we fight the Wither.",
+      "ja": "ウィザーと戦う前に強さのポーションを作ります。",
+      "ipa": "/aɪl ˈbruː ˈstrɛŋθ ˈpoʊʃənz bɪˈfɔr wi ˈfaɪt ðə ˈwɪðər/",
+      "linking": [
+        "before の語末 /ɔr/ が we の /w/ に連結 [bɪˈfɔrwi] ビフォアウィ",
+        "fight の語末 /t/ が直後の /ð/ の前で未開放 [ˈfaɪt̚ ðə] ファイッ ザ",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "アイル ブルー ストレングス ポーションズ ビフォアウィ ファイッ ザ ウィザー"
+    },
+    {
+      "en": "We need to brew healing potions quickly.",
+      "ja": "私たちは素早く回復のポーションを作る必要があります。",
+      "ipa": "/wi ˈniːd tə ˈbruː ˈhiːlɪŋ ˈpoʊʃənz ˈkwɪkli/",
+      "linking": [
+        "need の語末 /d/ が直後の /t/ の前で未開放 [ˈniːd̚ tə] ニード タ（実音はニーッ）",
+        "to は機能語の弱形 /tə/",
+        "quickly の末尾 /li/ - 母音が自然に流れる"
+      ],
+      "kana": "ウィ ニード タ ブルー ヒーリング ポーションズ クイックリー"
+    },
+    {
+      "en": "A storm is brewing over the desert biome.",
+      "ja": "砂漠バイオームの上で嵐が形成されています。",
+      "ipa": "/ə ˈstɔrm ɪz ˈbruːɪŋ ˈoʊvɚ ðə ˈdɛzɚt ˈbaɪoʊm/",
+      "linking": [
+        "brewing の語末鼻音 /ŋ/ が over の母音 /ˈoʊ/ に連結傾向 [ˈbruːɪŋ ˈoʊvɚ] ブリューイング オーバー",
+        "over の語末 /ɚ/ が desert の /d/ に接続（子音同士、連結なし）",
+        "the は弱形 /ðə/"
+      ],
+      "kana": "ア ストーム イズ ブリューイング オーバー ザ デザート バイオーム"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "trouble brewing",
+      "ja": "問題・危機が形成されている、何か悪いことが起きようとしている",
+      "example": "Trouble was brewing when the explosions started damaging our buildings.",
+      "example_ja": "爆発が建物を傷つけ始めたとき、問題が形成されていた。",
+      "ipa": "/ˈtrʌbəl wəz ˈbruːɪŋ wɛn ðə ɪkˈsploʊʒənz ˈstɑrtəd ˈdæmɪdʒɪŋ ɑɚ ˈbɪldɪŋz/",
+      "linking": [
+        "trouble の語末 /əl/ が was の /w/ に連結傾向 [ˈtrʌbəl wəz] トラブル ワズ",
+        "was は弱形 /wəz/（または /wəs/）",
+        "starting は省略し damaging としたが、the は弱形 /ðə/"
+      ],
+      "kana": "トラブル ワズ ブリューイング ウェン ザ イクスプロージョンズ スターティッド ダメッジング アワ ビルディングズ"
+    },
+    {
+      "idiom": "what's brewing",
+      "ja": "何が起きているのか、何が準備されているのか（何かが形成されているという意味で、しばしば質問として使う）",
+      "example": "What's brewing in the Nether? I hear strange sounds.",
+      "example_ja": "ネザーで何が起きているのか？変な音が聞こえます。",
+      "ipa": "/wəts ˈbruːɪŋ ɪn ðə ˈnɛðər aɪ ˈhɪr ˈstreɪndʒ ˈsaʊndz/",
+      "linking": [
+        "what's の語末 /s/ が brewing の /b/ に接続しない（子音同士）だが、what's は /wəts/ で /t/ も含む",
+        "in が the の /ðə/ に接続（子音同士）",
+        "the は弱形 /ðə/ で i 音の代わりに /ə/"
+      ],
+      "kana": "ワッツ ブリューイング イン ザ ネザー アイ ヒア ストレインジ サウンズ"
+    }
+  ]
+}
