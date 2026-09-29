@@ -1,0 +1,80 @@
+{
+  "word": "integrity",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/ɪnˈtɛɡrɪti/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "integrities?",
+  "meanings": [
+    "【名詞】誠実さ、正直さ、道徳的人格。個人が常に倫理的で正直な行動を保つ特性（the quality of being honest and morally upright）",
+    "【名詞】完全性、統一性。システムやデータが改ざんされず損傷なく保たれた状態（the state of being unimpaired, undamaged, or unbroken）",
+    "【名詞】構造的一体性。建築物や物体が元の形や強度を保ち、統合された状態（the structural soundness and unity of a construction or object）"
+  ],
+  "examples": [
+    {
+      "en": "A player with integrity never steals from shared storage.",
+      "ja": "誠実さを持つプレイヤーは共有ストレージから決して盗まない。",
+      "grammar": "能動態・現在形。with + 名詞で「～を持った～」。共有ストレージ（shared storage）は複数プレイヤーサーバーで重要な要素。",
+      "ipa": "/ə ˈpleɪɚ wɪð ɪnˈtɛɡrɪti ˈnɛvɚ ˈstilz ˈfrɑm ˈʃɛɹd ˈstɔɹɪdʒ/",
+      "linking": [
+        "with integrity → 語末の子音 /ð/ が integrity の母音 /ɪ/ に連結 [wɪðɪnˈtɛɡrɪti] ウィディンテグリティ",
+        "steals from → 語末の /z/ が from の /f/ に先行し、from は弱形 /frəm/ [ˈstilz frəm] スティルズ フラム",
+        "from shared → 弱形 from /frəm/ が shared の /ʃ/ に接続 [frəm ˈʃɛɹd] フラム シェアド"
+      ],
+      "kana": "ア プレイアー ウィディンテグリティ ネヴァー スティルズ フラム シェアド ストレージ"
+    },
+    {
+      "en": "We must maintain the integrity of our build against griefing.",
+      "ja": "我々はグリーフィングに対して、自分たちのビルドの完全性を保たねばならない。",
+      "grammar": "助動詞 must + 動詞。of + 名詞で「～の」。against + 名詞で「～に対して」。griefer（グリーフィング行為をするプレイヤー）は Minecraft サーバーでの問題。",
+      "ipa": "/wi məst meɪnˈteɪn ðə ɪnˈtɛɡrɪti əv aʊɚ bɪld əˈɡɛnst ˈɡrifɪŋ/",
+      "linking": [
+        "maintain the → 語末の /n/ が弱形 the /ðə/ と連なり、/ðə/ は /ə/ に弱化 [meɪnˈteɪn ðə] メインテイン ザ",
+        "of our → 弱形 of /əv/ が our /aʊɚ/ の母音に連結 [əˈvaʊɚ] アヴァワー",
+        "against griefing → 語末の /t/ が griefing の子音 /ɡ/ に接続、/t/ は未開放 [əˈɡɛnst̚ ˈɡrifɪŋ] ア ゲンスト グリーフィング"
+      ],
+      "kana": "ウィ マスト メインテイン ザ インテグリティ アヴアワー ビルド ア ゲンスト グリーフィング"
+    },
+    {
+      "en": "The server checks the integrity of all players' data regularly.",
+      "ja": "サーバーは定期的にすべてのプレイヤーのデータの完全性を確認する。",
+      "grammar": "現在形。the + 名詞で定冠詞。of all players' data は「所有格 + 名詞」で「すべてのプレイヤーのデータ」。",
+      "ipa": "/ðə ˈsɜːrvɚ ˈtʃɛks ðə ɪnˈtɛɡrɪti əv ɔl ˈpleɪɚz ˈdeɪtə ˈrɛɡjələrli/",
+      "linking": [
+        "the integrity → 弱形 the /ðə/ が integrity の母音 /ɪ/ に連結 [ðə ɪnˈtɛɡrɪti] ザ インテグリティ",
+        "of all → 弱形 of /əv/ が all の母音 /ɔ/ に連結 [əˈvɔl] アヴ オール",
+        "data regularly → data の語末 /ə/ が regularly の /r/ に接続 [ˈdeɪtə ˈrɛɡjələrli] デイタ レギュラーリー"
+      ],
+      "kana": "ザ サーヴァー チェックス ザ インテグリティ アヴ オール プレイアーズ デイタ レギュラーリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "maintain the integrity of",
+      "ja": "（構造・システム・ルールなどの）完全性・統一性を保つ、守る",
+      "example": "We maintain the integrity of the server rules so all players enjoy fair gameplay.",
+      "example_ja": "すべてのプレイヤーが公正なゲームプレイを楽しむように、サーバールールの完全性を保つ。",
+      "ipa": "/wi meɪnˈteɪn ðə ɪnˈtɛɡrɪti əv ðə ˈsɜːrvɚ rulz soʊ ɔl ˈpleɪɚz ɪnˈdʒɔɪ ˈfɛɚ ˈɡeɪmˌpleɪ/",
+      "linking": [
+        "maintain the → 語末の /n/ が弱形 the /ðə/ と連なり [meɪnˈteɪn ðə] メインテイン ザ",
+        "of the → 弱形 of /əv/ が弱形 the /ðə/ と連なる [əv ðə] アヴ ザ",
+        "so all → 語末の /oʊ/ が all の /ɔ/ に前置され、弱形化が起こる [soʊ ɔl] ソー オール"
+      ],
+      "kana": "ウィ メインテイン ザ インテグリティ アヴ ザ サーヴァー ルールズ ソー オール プレイアーズ イン ジョイ フェア ゲーム プレイ"
+    },
+    {
+      "idiom": "with integrity",
+      "ja": "誠実に、正直に、道徳的に正しく行動して",
+      "example": "Skilled players compete with integrity rather than using hacked clients to win.",
+      "example_ja": "熟練したプレイヤーは勝つために不正なクライアントを使う代わりに、誠実さを持って競争する。",
+      "ipa": "/ˈskɪld ˈpleɪɚz kəmˈpit wɪð ɪnˈtɛɡrɪti ˈræðɚ ðən ˈjuzɪŋ ˈhækt ˈklaɪənts tu wɪn/",
+      "linking": [
+        "with integrity → 語末の /ð/ が integrity の母音 /ɪ/ に連結 [wɪðɪnˈtɛɡrɪti] ウィディンテグリティ",
+        "rather than → 語末の /r/ が than の /ð/ に接続、than は弱形 /ðən/ [ˈræðɚ ðən] ラザー ザン",
+        "using hacked → 語末の /ŋ/ が hacked の /h/ に先行し、no linking [ˈjuzɪŋ ˈhækt] ユーズィング ハックト"
+      ],
+      "kana": "スキルド プレイアーズ コムピート ウィディンテグリティ ラザー ザン ユーズィング ハックト クライアンツ トゥ ウィン"
+    }
+  ]
+}
