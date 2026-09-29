@@ -1,0 +1,84 @@
+{
+  "word": "voucher",
+  "pos": "名詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈvaʊtʃər/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "vouch(?:er|ers)?",
+  "meanings": [
+    "【名詞】商品や割引を受け取る権利を示す証明書（coupon、certificate of exchange）",
+    "【名詞】支払いや取引の証拠となる領収書（receipt、proof of transaction）",
+    "【名詞】信用や資格を保証する証人・担保（guarantee、person who vouches）",
+    "【動詞】～の真実や品質を確保する（confirm、guarantee）",
+    "【動詞】～のために保証する（answer for、be responsible for）"
+  ],
+  "examples": [
+    {
+      "en": "The merchant gave me a voucher for the diamonds.",
+      "ja": "マーチャントがダイヤモンドの取引に対して引換券をくれた。",
+      "ipa": "/ðə ˈmɝtʃənt ɡeɪv mi ə ˈvaʊtʃər fɔɹ ðə ˈdaɪmənds/",
+      "kana": "ザ マーチャント ゲイヴ ミー ア バウチャー フォー ザ ダイモンズ",
+      "linking": [
+        "gave me: 語末の /v/ が母音 /i/ に連結 [ɡeɪv̟ mi]",
+        "for the: for は weak form /fɔr/、the は weak form /ðə/ → フォー・ザ",
+        "a voucher: a の weak form /ə/ が voucher の /v/ に先行、voucher は /ˈvaʊtʃər/",
+        "the diamonds: the weak form、diamonds は /ˈdaɪmənds/ で語末 /z/"
+      ]
+    },
+    {
+      "en": "You can redeem this voucher at the trading post.",
+      "ja": "この引換券を交易所で引き換えることができる。",
+      "ipa": "/ju kæn rɪˈdiːm ðɪs ˈvaʊtʃər æt ðə ˈtreɪdɪŋ poʊst/",
+      "kana": "ユー キャン リディーム ディス バウチャー アッ ザ トレイディング ポウスト",
+      "linking": [
+        "this voucher: this は [ðɪ z]、voucher は /v/ で始まる consonant-consonant だが is の /z/ は [z] 音",
+        "voucher at: voucher 語末 /ər/ は weak で at の /t/ は未開放 [t̚] → チャー・ラッ",
+        "at the: at の未開放 /t̚/ から the の weak form /ðə/ へ [æt̚ ðə]",
+        "trading post: -ing 後の /d/ は flap /ɾ/、post の /t/ は未開放 [t̚]"
+      ]
+    },
+    {
+      "en": "Keep your voucher safe in your inventory.",
+      "ja": "引換券をインベントリに安全に保管する。",
+      "ipa": "/kiːp jɔɹ ˈvaʊtʃər seɪf ɪn jɔɹ ɪnˈvɛntəri/",
+      "kana": "キープ ユォー バウチャー セイフ イン ユォー インヴェントリー",
+      "linking": [
+        "keep your: keep の /p/ と your の /j/ は consonant-consonant、your は /jɔɹ/",
+        "voucher safe: voucher 語末の /r/ は weak form で safe の /s/ に先行、safe は /seɪf/",
+        "safe in: safe の /f/ から in の /ɪ/ へ、in は /ɪn/ で weak form",
+        "in your: in の /n/ は inventory の前で、your の weak form /jɔr/ または /jə/"
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "gift voucher",
+      "ja": "ギフト券、贈り物用の引換券",
+      "example": "I'll trade an emerald for a gift voucher from your shop.",
+      "example_ja": "君のショップのギフト券とエメラルドを交換しよう。",
+      "ipa": "/aɪl ˈtreɪd ən ˈɛmərəld fɔɹ ə ˈɡɪft ˈvaʊtʃər frəm jɔɹ ʃɑp/",
+      "kana": "アイル トレイド アン エメラルド フォー ア ギフト バウチャー フラム ユォー ショップ",
+      "linking": [
+        "trade an: trade の /d/ が an の /æ/ に連結（flap化）[ˈtreɪɾən]",
+        "for a: for weak form /fɔr/ または /fə/、a weak form /ə/",
+        "gift voucher: gift の /t/ は未開放 [t̚]、voucher の /v/ に先行",
+        "from your: from weak form /frəm/ または /fɹəm/、your の /j/"
+      ]
+    },
+    {
+      "idiom": "voucher for",
+      "ja": "～を保証する、～に対する引換券",
+      "example": "The guild master vouches for the quality of enchanted equipment.",
+      "example_ja": "ギルドマスターが魔法装備の品質を保証する。",
+      "ipa": "/ðə ɡɪld ˈmæstər ˈvaʊtʃɪz fɔɹ ðə ˈkwɑləti əv ɪnˈtʃæntɪd ɪˈkwɪpmənt/",
+      "kana": "ザ ギルド マスター バウチーズ フォー ザ クォリティ アブ インチャンティッド イクウィプメント",
+      "linking": [
+        "master vouches: master の /r/ 弱形、voucher は /ˈvaʊtʃər/、vouches は /ˈvaʊtʃɪz/",
+        "vouches for: vouches の /z/ から for へ、for weak form /fɔr/ または /fə/",
+        "quality of: quality の /i/ が of の /əv/ に連結、of weak form /əv/",
+        "enchanted equipment: equipment の /t/ は未開放 [t̚] または elision"
+      ]
+    }
+  ]
+}
