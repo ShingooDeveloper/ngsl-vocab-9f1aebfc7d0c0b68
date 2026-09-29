@@ -1,0 +1,64 @@
+{
+  "word": "howl",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/haʊl/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "howl(?:s|ed|ing)?",
+  "meanings": [
+    "【動詞】遠吠えする、大声で泣く（…to make a loud, long cry like a wolf or dog）",
+    "【名詞】遠吠え、大声の叫び声（…a loud cry or wailing sound）",
+    "【動詞】（風が）大きな音で吹く、どうどうと鳴る（…to blow or make sound with force）",
+    "【動詞】大笑いする、笑いころげる（…to laugh loudly）"
+  ],
+  "examples": [
+    {
+      "en": "The wolf howled loudly when I came near its den.",
+      "ja": "自分の巣穴に近づくと、オオカミは大声で遠吠えした。",
+      "ipa": "/ðə ˈwʊlf ˈhaʊld ˈlaʊdli wɛn aɪ ˈkeɪm ˈnɪr ɪts ˈdɛn/",
+      "linking": [
+        "the は弱形 /ðə/、wolf の /f/ に連結しない",
+        "near its → /r/ が /ɪ/ に連結 [ˈnɪr ɪts] ニアー イッツ",
+        "came near は /m/ で終わり /n/ に連結しない（consonant + consonant）"
+      ],
+      "kana": "ザ ウルフ ハウルド ラウドリ ウェン アイ ケイム ニアー イッツ デン"
+    },
+    {
+      "en": "Whenever I hear wolves howling at night, I feel excited.",
+      "ja": "夜にオオカミの遠吠えが聞こえるときはいつも、興奮を感じる。",
+      "ipa": "/ɛnˈwɛnəvər aɪ ˈhɪr ˈwʊlvz ˈhaʊlɪŋ æt ˈnaɪt aɪ ˈfil ɪkˈsaɪtəd/",
+      "linking": [
+        "hear wolves は /r/ が /w/ に連結傾向 [ˈhɪr ˈwʊlvz] ヒアー ウルブズ",
+        "at night は /t/ が未開放で /n/ の直前 [æt̚ ˈnaɪt] アッ ナイト",
+        "feel excited は /l/ (子音) + /ɪ/ (母音)、自然な境界で連結なし"
+      ],
+      "kana": "エンウェナヴァー アイ ヒアー ウルブズ ハウリン アッ ナイト アイ フィール イクサイテッド"
+    },
+    {
+      "en": "I dug too close and now the wind howls through the hole.",
+      "ja": "掘り過ぎて、今は穴から風がどうどうと吹きぬける。",
+      "ipa": "/aɪ ˈdʌɡ tu ˈkloʊs ənd ˈnaʊ ðə ˈwɪnd ˈhaʊlz θru ðə ˈhoʊl/",
+      "linking": [
+        "too close は /u/ + /k/、自然な分離。to は弱形 /tə/ となる場合もあり",
+        "and は弱形 /ən/、now の /n/ に続く",
+        "the wind は弱形 /ðə/ + /w/、through the は /θru/ → /ðə/ へ続く"
+      ],
+      "kana": "アイ ダグ トゥ クロウス アン ナウ ザ ウインド ハウルズ スルー ザ ホウル"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "howl with laughter",
+      "ja": "大笑いする、笑いころげる",
+      "example": "We howled with laughter when the creeper destroyed my friend's redstone machine.",
+      "example_ja": "クリーパーが友人のレッドストーン装置を壊したとき、我々は笑いころげた。",
+      "ipa": "/wi ˈhaʊld wɪð ˈlæftər wɛn ðə ˈkripər dɪˈstrɔɪd maɪ ˈfrɛnd z ˈrɛdˌstoʊn məˈʃin/",
+      "linking": [
+        "with laughter は /ð/ + /l/、弱形で /wɪð/ となり自然な語境界",
+        "friend's redstone は /dz/ → /r/、possessive s の /z/ が /r/ に連結傾向"
+      ],
+      "kana": "ウィ ハウルド ウィズ ラフター ウェン ザ クリーパー ディストロイド マイ フレンズ レッドストーン マシーン"
+    }
+  ]
+}
