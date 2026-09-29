@@ -1,0 +1,79 @@
+{
+  "word": "audit",
+  "pos": "名詞・動詞",
+  "pos_all": "名詞・動詞",
+  "ipa_us": "/ˈɔː.dɪt/",
+  "rank": 0,
+  "level": "B2",
+  "hi": "audit(?:s|ed|ing)?",
+  "meanings": [
+    "【名詞】監査、帳簿検査（財務記録の公式な検査・確認…official examination of financial accounts…）",
+    "【名詞】公式調査、システム監査（施設・プロセス・データが正常に機能しているかの確認…official examination to verify correct operations…）",
+    "【名詞】聴講、講座の聴講（大学の講義に単位取得目的でなく参加すること…attending a course without receiving credit…）",
+    "【動詞】監査する、帳簿を調べる（財務記録を公式に検査する…to officially examine financial records…）",
+    "【動詞】聴講する（大学で単位取得なしに講義に参加する…to attend a course without receiving credit…）"
+  ],
+  "examples": [
+    {
+      "en": "We need to audit the server inventory to check for missing resources.",
+      "ja": "サーバーのインベントリを監査して、紛失したリソースをチェックする必要があります。",
+      "ipa": "[wiː niːd tə ˈɔː.dɪt̚ ðə ˈsɜː.vɚ ɪnˈven.tə.ɹi tə tʃɛk fɚ ˈmɪs.ɪŋ rɪˈsɔːrs.ɪz]",
+      "linking": [
+        "audit の語末 /t/ は次の /ðə/ の前で未開放：[t̚ ðə]",
+        "to は機能語の弱形 /tə/ に弱化",
+        "for も機能語の弱形 /fɚ/ に弱化"
+      ],
+      "kana": "ウィー ニード タ オーディッ ザ サーヴァ インヴェントリ タ チェック ファ ミッシング リソーセズ"
+    },
+    {
+      "en": "The admin audited all player accounts after the griefing incident.",
+      "ja": "グリーフ事件の後、管理者は全プレイヤーアカウントを監査しました。",
+      "ipa": "[ðə ˈæd.mɪn ˈɔː.dɪ.ɹɔːl ˈpleɪ.ɚ əˈkaʊnts ˈæf.tɚ ðə ˈɡɹiː.fɪŋ ˈɪn.sɪ.dənt]",
+      "linking": [
+        "audited の語末 /d/ が all の母音 /ɔː/ に連結し、/d/ がフラップ化：[ˈɔː.dɪ.ɹɔːl]",
+        "the は機能語で弱形 /ðə/",
+        "after の語末 /ɚ/ が the に続く"
+      ],
+      "kana": "ザ アドミン オーディラール プレイヤー ァカウンツ アフター ザ グリーフィング インシデント"
+    },
+    {
+      "en": "We audit the redstone system weekly to ensure it's running efficiently.",
+      "ja": "レッドストーンシステムが効率的に動作していることを確認するため、毎週監査します。",
+      "ipa": "[wiː ˈɔː.dɪt̚ ðə ˈɹɛd.stoʊn ˈsɪs.təm ˈwiːk.li tə ɪnˈʃʊɚ ɪt̚s ˈɹʌn.ɪŋ ɪˈfɪʃ.ənt.li]",
+      "linking": [
+        "audit の語末 /t/ は次の /ð/ の前で未開放：[t̚ ðə]",
+        "to は機能語の弱形 /tə/",
+        "it's の語末 /t/ は /s/ の前で未開放：[t̚s]"
+      ],
+      "kana": "ウィー オーディッ ザ レッドストーン システィム ウィークリー タ インシュア イッツ ラニング イフィシェントリー"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "conduct an audit",
+      "ja": "監査を実施する、調査を行う",
+      "example": "Let's conduct an audit of the mining operation to see how many blocks we've collected this week.",
+      "example_ja": "今週どれだけのブロックを採掘したか確認するため、採掘事業の監査を実施しましょう。",
+      "ipa": "[lɛts kənˈdʌk.ɹən ˈɔː.dɪt̚ əv ðə ˈmaɪ.nɪŋ ɑp.ə.ˈɹeɪ.ʃən tə siː haʊ ˈmɛn.i blɑks wiːv kəˈlɛk.təd ðɪs wiːk]",
+      "linking": [
+        "conduct の語末 /t/ が an の母音 /ə/ に連結しフラップ化：[kənˈdʌk.ɹən]",
+        "audit の語末 /t/ は次の of /ə/ の前で未開放：[t̚ əv]",
+        "of と the は機能語の弱形：of /əv/、the /ðə/"
+      ],
+      "kana": "レッツ コンダクラン オーディッ アヴ ザ マイニング オペレイション タ シー ハウ メニー ブロックス ウィーヴ コレクティド ディス ウィーク"
+    },
+    {
+      "idiom": "audit trail",
+      "ja": "監査証跡、活動ログ（システムに記録された操作履歴）",
+      "example": "We checked the audit trail to see who destroyed the farms.",
+      "example_ja": "農場を破壊した人を特定するために、監査ログをチェックしました。",
+      "ipa": "[wiː tʃɛkt̚ ðə ˈɔː.dɪt̚ ˈtɹeɪl tə siː huː dɪsˈtɹɔɪd ðə ˈfɑːrmz]",
+      "linking": [
+        "checked の語末 /t/ は未開放で the に接続：[t̚ ðə]",
+        "audit の語末 /t/ は未開放で trail の /t/ に接続：[t̚ tɹ]（1つの t に聞こえる）",
+        "to は機能語の弱形 /tə/"
+      ],
+      "kana": "ウィー チェッ ザ オーディッ トレイル タ シー フー ディスロイド ザ ファームズ"
+    }
+  ]
+}
