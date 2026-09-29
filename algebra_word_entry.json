@@ -1,0 +1,77 @@
+{
+  "word": "algebra",
+  "rank": 0,
+  "level": "B2",
+  "pos": "名詞",
+  "pos_all": "名詞",
+  "ipa_us": "/ˈæl.dʒə.brə/",
+  "hi": "algebra(?:ic)?",
+  "meanings": [
+    "【名詞】文字や記号を使って数量の関係を表す数学の分野。（branch of mathematics using variables and symbols to solve equations）",
+    "【名詞】複数の要素や条件を含む問題を論理的に解く手法。（method for solving problems with multiple unknowns or variables）",
+    "【名詞】ゲーム内のシステムやメカニクスを数学的に分析・最適化する技能。（skill of analyzing game mechanics and optimizing systems mathematically）"
+  ],
+  "examples": [
+    {
+      "en": "You need algebra to calculate complex redstone circuits.",
+      "ja": "複雑なレッドストーン回路を計算するには代数が必要だ。",
+      "ipa": "[ju ˈniːd ˈæl.dʒə.brə tə ˈkælkjə.leɪt ˈkɑmplɛks ˈrɛdstoʊn ˈsɝkəts]",
+      "linking": [
+        "need の語末 /d/ が母音 /æ/ に連結：need algebra → ニーダ アルジェブラ",
+        "to は機能語の弱形 /tə/",
+        "calculate の /t/ が母音に挟まれてフラップ化：[ˈkælkjəˌleɪt] → カルキュレイッ"
+      ],
+      "kana": "ユ ニーダルジェブラ タ カルキュレイト コンプレクス レッドストーン サーキッツ"
+    },
+    {
+      "en": "Algebra helps players understand command block syntax.",
+      "ja": "代数はプレイヤーがコマンドブロック構文を理解するのに役立つ。",
+      "ipa": "[ˈæl.dʒə.brə ˈhɛlps ˈpleɪɚz ˌʌndɚˈstænd kəˈmænd ˈblɑk ˈsɪn.tæks]",
+      "linking": [
+        "algebra の語末 /ə/ が helps の /h/ に連結：algebra helps → アルジェブラ ヘルプス",
+        "understand の /d/ が command の /k/ 前で未開放：[ən̚dɚˈstæn̚d]",
+        "syntax の /ks/ は複合子音で語末"
+      ],
+      "kana": "アルジェブラ ヘルプス プレイアーズ アンダースタンド コマンド ブロック シンタックス"
+    },
+    {
+      "en": "Advanced players use algebra to optimize enchantment calculations.",
+      "ja": "上級プレイヤーは代数を使ってエンチャント計算を最適化する。",
+      "ipa": "[ədˈvænst ˈpleɪɚz ˈjuːz ˈæl.dʒə.brə tə ˈɑptəˌmaɪz ɪnˈtʃɑntmənt ˌkælkjəˈleɪʃənz]",
+      "linking": [
+        "use の語末 /z/ が母音 /æ/ に連結：use algebra → ユーザ アルジェブラ",
+        "to は機能語の弱形 /tə/",
+        "advanced の /d/ が次の音の前で未開放、optimize の内部で /t/ がフラップ化：[ɑpˈtəˌmaɪz] → アプティマイズ"
+      ],
+      "kana": "アドヴァンスト プレイアーズ ユーザ アルジェブラ タ アプティマイズ エンチャントメント カルキュレイションズ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "basic algebra",
+      "ja": "基本代数",
+      "example": "Understanding basic algebra is the first step for any aspiring redstone engineer.",
+      "example_ja": "レッドストーンエンジニアを目指す者にとって、基本代数の理解が第一歩だ。",
+      "ipa": "[ˌʌndɚˈstændɪŋ ˈbeɪ.sɪk ˈæl.dʒə.brə ɪz ðə ˈfɚst ˈstɛp fɚ ˈe.ni əˈspaɪɚɪŋ ˈrɛdstoʊn ˈɛn.dʒɪ.nɪɚ]",
+      "linking": [
+        "understanding の /ŋ/ が algebra の /æ/ に連結傾向：understanding algebra → アンダースタンディング アルジェブラ",
+        "first step の /t/ + /s/ は子音+子音で未開放：[ˈfɚst̚ ˈstɛp] → ファースト ステップ",
+        "the は弱形 /ðə/ で「ザ」"
+      ],
+      "kana": "アンダースタンディング ベイシック アルジェブラ イズ ザ ファースト ステップ ファー エニー アスパイリング レッドストーン エンジニアー"
+    },
+    {
+      "idiom": "algebraic equation",
+      "ja": "代数方程式",
+      "example": "Solving an algebraic equation helps optimize piston door timing.",
+      "example_ja": "代数方程式を解くことはピストンドアのタイミング最適化に役立つ。",
+      "ipa": "[ˈsoʊl.vɪŋ æn ˌæl.dʒəˈreɪ.ɪk ɪˈkweɪ.ʒən ˈhɛlps ˈɑp.tə.maɪz ˈpɪs.tən ˈdɔɹ ˈtaɪ.mɪŋ]",
+      "linking": [
+        "an の語末 /n/ が母音 /æ/ に連結：an algebraic → アン アルジェブレイック",
+        "equation の /n/ が helps の /h/ に連結：equation helps → イクウェイジュン ヘルプス",
+        "piston door の /n/ + /d/ は子音+子音で未開放"
+      ],
+      "kana": "ソルビング アン アルジェブレイック イクウェイジュン ヘルプス アプティマイズ ピストン ドア タイミング"
+    }
+  ]
+}
