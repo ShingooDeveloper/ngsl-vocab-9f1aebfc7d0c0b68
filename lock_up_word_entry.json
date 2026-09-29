@@ -1,0 +1,82 @@
+{
+  "word": "lock_up",
+  "pos": "動詞",
+  "pos_all": "動詞",
+  "ipa_us": "/ˌlɑk ˈʌp/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "lock(?:_up|ed_up|ing_up|s_up)?|locked(?:_up)?",
+  "meanings": [
+    "【動詞】～をかぎをかけて閉じる、～を施錠する（…to close and secure a door, building, or container with a lock…）",
+    "【動詞】～を監禁する、～を閉じ込める（…to confine or imprison someone or something…）",
+    "【動詞】～を固定する、動けない状態にする（…to make something unable to move or be changed…）"
+  ],
+  "examples": [
+    {
+      "en": "We locked up all our precious diamonds in a hidden vault before logging off.",
+      "ja": "ログオフする前に、貴重なダイヤモンドをすべて隠された金庫に鍵をかけて保管しました。",
+      "ipa": "/wi lɑkt ʌp ɔl ˈaʊɚ ˈprɛʃəs ˈdaɪməndz ɪn ə ˈhɪdn vɔlt bɪˈfɔr ˈlɑɡɪŋ ɔf/",
+      "linking": [
+        "「locked」の語末 /t/ が「up」の母音 /ʌ/ に続くが未開放で [lɑk t̚ ʌp] ロック アップ",
+        "「up」の語末 /p/ が「all」の母音に続く前に未開放",
+        "「in」の語末 /n/ が「a」の弱形 /ə/ に連結 [ɪn ə] イナ",
+        "「before」の語末 /r/ が「logging」に先立つが子音開始なので連結なし"
+      ],
+      "kana": "ウィ ロック アップ オール アワー プレッシャス ダイモンズ イナ ヒドゥン ヴォールト ビフォア ラギング オフ"
+    },
+    {
+      "en": "All the doors and windows are locked up tight against hostile mobs.",
+      "ja": "すべてのドアと窓は、敵MOBに対抗するためにしっかり鍵がかかっています。",
+      "ipa": "/ɔl ðə ˈdɔɚz ænd ˈwɪndoʊz ɑr lɑkt ʌp ˈtaɪt əˈɡɛnst ˈhɑstəl mɑbz/",
+      "linking": [
+        "「All」の語末 /l/ が「the」の弱形 /ðə/ に続く（子音+弱形）",
+        "「doors」の語末 /z/ が「and」の母音 /æ/ に連結 [dɔɚz ænd] ドアーズ アンド",
+        "「are」の語末 /r/ が「locked」の母音 /l/ に連結 [ɑr lɑkt] アー ロック",
+        "「tight」の語末 /t/ が「against」の母音に続く前に未開放"
+      ],
+      "kana": "オール ザ ドアーズ アンド ウィンドウズ アー ロック アップ タイト アゲンスト ホスタル マッブズ"
+    },
+    {
+      "en": "He locked up that dangerous creeper in an obsidian box so it could not escape.",
+      "ja": "彼は危険なクリーパーを黒曜石の箱に閉じ込めたので、逃げることができません。",
+      "ipa": "/hi lɑkt ʌp ðæt ˈdeɪndʒərəs ˈkripɚ ɪn æn ɑbˈsɪdiən bɑks soʊ ɪt ˈkʊd nɑt ɪˈskeɪp/",
+      "linking": [
+        "「He」の語末 /i/ が「locked」の子音に続くが vowel+consonant なので連結なし",
+        "「locked」の語末 /t/ が「up」の母音 /ʌ/ に続き未開放 [lɑk t̚ ʌp] ロック アップ",
+        "「in」の語末 /n/ が「an」の母音に続く；「an」は弱形 /ən/ で始まる",
+        "「so」の語末 /oʊ/ が「it」の母音に先立つ（vowel+vowel は連結しない）"
+      ],
+      "kana": "ヒー ロック アップ ザット デンジャラス クリーパー イナン オプシディアン ボックス ソー イット クッド ノット イスケイプ"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "lock up tight",
+      "ja": "しっかり施錠する、厳重に保護する",
+      "example": "You need to lock up tight whenever you leave your base unguarded.",
+      "example_ja": "あなたの基地を無防備のままにする場合は、常にしっかり施錠する必要があります。",
+      "ipa": "/ju ˈnid tu lɑk ʌp ˈtaɪt ˌwɛnˈɛvɚ ju liv jɔr ˈbeɪs ʌnˈɡɑrdɪd/",
+      "linking": [
+        "「You」は主語で強調され、「need」の子音に先立つ",
+        "「to」は機能語で弱形 /tə/、「lock」の /l/ に連結 [tə lɑk] タ ロック",
+        "「lock」の語末 /k/ が「up」の母音 /ʌ/ に連結 [lɑk ʌp] ロック アップ",
+        "「whenever」の複雑な連結パターンで language flow が自然"
+      ],
+      "kana": "ユー ニード タ ロック アップ タイト ウェンエヴァー ユー リーヴ ヨー ベイス アンガーディド"
+    },
+    {
+      "idiom": "lock up",
+      "ja": "～を監禁する、閉じ込める（敵MOBやモンスターの意）",
+      "example": "We should lock up that spawn chamber or the witches will ruin everything.",
+      "example_ja": "あのスポーン室を封鎖するべきです。さもないと魔女がすべてを台無しにします。",
+      "ipa": "/wi ˈʃʊd lɑk ʌp ðæt speɪn ˈtʃeɪmbɚ ɔr ðə ˈwɪtʃɪz wɪl ˈrun ˈɛvriθɪŋ/",
+      "linking": [
+        "「should」は助動詞で弱形傾向 /ʃəd/、「lock」に先立つ",
+        "「lock」の語末 /k/ が「up」の母音に連結 [lɑk ʌp] ロック アップ",
+        "「chamber」の語末 /ɚ/ が「or」に先立つ（子音なし、流れ続く）",
+        "「or the」で /ðə/ は弱形、全体的に rushed な速度"
+      ],
+      "kana": "ウィ シュッド ロック アップ ザット スペイン チェンバー オー ザ ウィッチーズ ウィル ルーイン エヴリシング"
+    }
+  ]
+}
