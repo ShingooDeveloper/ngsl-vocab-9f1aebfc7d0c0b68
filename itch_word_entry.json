@@ -1,0 +1,80 @@
+{
+  "word": "itch",
+  "pos": "動詞・名詞",
+  "pos_all": "動詞・名詞",
+  "ipa_us": "/ɪtʃ/",
+  "rank": 0,
+  "level": "B1",
+  "hi": "itch(?:es|ed|ing)?",
+  "meanings": [
+    "【動詞】肌などが痒い感覚を起こす；痒くなる（…my eyes itch）",
+    "【動詞】～することを強く望む、～したくてたまらない；欲望に駆られる（…to do something）",
+    "【名詞】痒み；強い欲望や衝動（…an itch to do something）"
+  ],
+  "examples": [
+    {
+      "en": "I'm itching to test my new enchanted sword.",
+      "ja": "新しい魔法の剣を試したくてたまりません。",
+      "ipa": "/aɪm ˈɪtʃɪŋ tu ˈtɛst maɪ ˈnjuː ɪnˈtʃæntɪd ˈsɔrd/",
+      "kana": "アイミッチング タ テスト マイ ニュー インチャンティッド ソード",
+      "linking": [
+        "「I'm」の語末 /m/ が「itching」の母音 /ɪ/ に連結し [aɪmˈɪtʃɪŋ] アイミッチング",
+        "「to」は機能語で弱形 /tə/ に弱化",
+        "「test」と「my」の間に明らかな連結なし（子音開始）",
+        "「enchanted」の /ɪd/ は /s/ の前で消えて sword へ"
+      ]
+    },
+    {
+      "en": "My skin itches after touching the dusty sand in the desert.",
+      "ja": "砂漠のほこりっぽい砂に触った後、肌がかゆくなります。",
+      "ipa": "/maɪ skɪn ˈɪtʃɪz ˈæftɚ ˈtʌtʃɪŋ ðə ˈdʌsti sænd ɪn ðə ˈdɛzɚt/",
+      "kana": "マイ スキニッチーズ アフター タッチング ザ ダスティ サンド イン ザ デザート",
+      "linking": [
+        "「skin」の語末 /n/ が「itches」の母音 /ɪ/ に連結し [skɪnˈɪtʃɪz] スキニッチーズ",
+        "「the」は機能語で弱形 /ðə/ に弱化",
+        "「touching」の /ŋ/ は次の単語 the へは連結せず（別の音素境界）",
+        "「in the」で /n/ が弱形 /ðə/ に続くが単語境界として処理"
+      ]
+    },
+    {
+      "en": "That constant itch to explore keeps me mining deeper underground.",
+      "ja": "探検したいという絶えない欲望が、より深く地下を採掘させ続けます。",
+      "ipa": "/ðæt ˈkɑnstənt ˈɪtʃ tu ɪkˈsplɔr kips mi ˈmaɪnɪŋ ˈdipɚ ˌʌndɚˈɡraʊnd/",
+      "kana": "ザット コンスタント イッチ タ イクスプロア キープス ミー マイニング ディーパー アンダーグラウンド",
+      "linking": [
+        "「to」は機能語で弱形 /tə/ に弱化；「explore」/ɪ/ に続く",
+        "「keeps」の語末 /s/ が「me」の弱形 /mi/ に続く；連結なし（子音+弱形）",
+        "「underground」の語末 /d/ が次の単語に続く場合は連結",
+        "全体を通じて stressed /ˈɪtʃ/ が句のポイント"
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "scratch an itch",
+      "ja": "痒いところをかく；欲望や欲求を満たす",
+      "example": "Building this redstone computer really scratches an itch for complex engineering challenges.",
+      "example_ja": "このレッドストーンコンピュータを作ることは複雑な工学への欲望を本当に満たしてくれます。",
+      "ipa": "/ˈbɪldɪŋ ðɪs ˈrɛdˌstoʊn kəmˈpjudr ˈrɪli ˈskrætʃɪz ən ˈɪtʃ fɔr kəmˈplɛks ˌɛndʒɪˈnɪrɪŋ ˈtʃælɪndʒɪz/",
+      "kana": "ビルディング ディス レッドストーン コンピューター リーリ スクラッチーズ アン イッチ フォー コンプレックス エンジニアリング チャレンジーズ",
+      "linking": [
+        "「this」の語末 /s/ が「redstone」の子音に続く（連結なし）",
+        "「scratches」の語末 /z/ が「an」の母音 /æ/ に連結；[ˈskrætʃɪz ən]→スクラッチーズ アン",
+        "「for」は機能語で弱形 /fɚ/ に弱化；「complex」の /k/ に続く"
+      ]
+    },
+    {
+      "idiom": "itch for",
+      "ja": "～を強く欲しがる、～を求める",
+      "example": "I'm still itching for that diamond armor suit I saw in the marketplace.",
+      "example_ja": "マーケットプレイスで見たダイヤモンドアーマースーツをまだ欲しくてたまりません。",
+      "ipa": "/aɪm stɪl ˈɪtʃɪŋ fɔr ðæt ˈdaɪmənd ˈɑrmɚ sut aɪ sɔ ɪn ðə ˈmɑrkɪtˌpleɪs/",
+      "kana": "アイム スティル イッチング フォー ザット ダイモンド アーマー スート アイ ソー イン ザ マーケットプレイス",
+      "linking": [
+        "「for」は機能語で弱形 /fɚ/ に弱化；「that」の /ð/ に続く",
+        "「that」の語末 /t/ が「diamond」の母音 /d/ に未開放で連接；[ðæt̚ ˈdaɪ]→ザッ ダイ",
+        "「in the」で /n/ が弱形 /ðə/ に続く"
+      ]
+    }
+  ]
+}
